@@ -11,7 +11,7 @@
 </div>
 
 ---
-
+> **_NOTE:_**  A suggestion for AI Categories are more than welcome. Please open an issue with suggestions on how to display the collection with different categories
 <br />
 
 <div align="center">
@@ -28,7 +28,7 @@
 | [AI Car Diagnosis](http://cardiagnosis.softr.app) | Car Diagnosis AI | Get real-time diagnostics and insights into your car’s performance with our cutting-edge tool | :grey_question: |
 | [AI Code Reviewer](http://code-reviewer.vercel.app) | AI Code Reviewer | Automatic code review by AI | :grey_question: |
 | [AI Content Generator](http://yep.so) | Yep.so - From idea to signups in 15 minutes |  | :grey_question: |
-| [AI Data Sidekick](http://www.airops.com) | AirOps - Data unlocked. â10x faster with AI |  | :grey_question: |
+| [AI Data Sidekick](http://www.airops.com) | AirOps - Data unlocked. 10x faster with AI |  | :grey_question: |
 | [AI Dungeon](http://play.aidungeon.io) |  |  | :grey_question: |
 | [AI Holiday Cards](http://aiholiday.cards) | AI Holiday Cards | AI engine to create AI Holiday photorealistic Cards for couples | :grey_question: |
 | [AI Host](http://www.livereacting.com) | LiveReacting - Interactive live video streaming | Get more followers and engagement for your live videos adding pre-recorded videos, games, graphics, and polls directly in your stream | :grey_question: |
