@@ -260,6 +260,7 @@
 | [Dimensions](http://www.dimensions.ink) | Dimensions - rapidly create visual concepts with AI | Imagine being able to create beautiful interior designs with ease – that’s what Dimensions offers | :grey_question: |
 | [DipSway](http://dipsway.com) | DipSway - Crypto Bot |  | :grey_question: |
 | [DiscoDiffusion](http://discodiffusion.com) | Google Colaboratory |  | :grey_question: |
+| [DoNotPay](https://donotpay.com/) | The World's First Robot Lawyer | Use AI to make legal information accessible to everyone | :grey_question: |
 | [DraftLab](http://draftlab.ai) | DraftLab AI: Write better emails faster with AI | Fight writer's block and achieve inbox zero. DraftLab is an AI-powered Gmail copilot that generates high-quality email replies for you | :grey_question: |
 | [Draw Things](http://draw.nnc.ai) | Draw Things: AI-assisted Image Generation |  | :grey_question: |
 | [DrawAnyone](http://drawanyone.ai) | drawanyone - draw anyone, any way you want |  | :grey_question: |
