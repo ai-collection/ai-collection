@@ -3,9 +3,21 @@
     <i>A collection of awesome AI projects</i>
     <br />
     <i>An effort to increase visibility and reach for the awesome AI projects out there</i>
+    <br />    
 </div>
 
 ---
+
+<div align="center">
+    <sup>Status</sup>
+    <br />
+    <a href="https://github.com/public-apis/public-apis">
+        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=846" />
+    </a>
+</div>
+
+---
+
 <div align="center">    
     <a href="CONTRIBUTING.md">Contributing Guide</a> • 
     <a href="LICENSE">License</a>
