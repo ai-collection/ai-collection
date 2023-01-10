@@ -32,7 +32,7 @@ Created a branch on your fork with your changes, and [make a pull request][pr-li
 * The Description should not exceed 120 characters and should not contain the character `|`.
 * The Description should not exceed 300 characters and should not contain the character `|`.
 * The `Offer Free Version` column should have one of these three values:
-  * :heavy_check_mark: - `:heavy_check_mark:`
+  * :white_check_mark: - `:white_check_mark:`
   * :grey_question: - `:grey_question:`
   * :x: - `:x:`
 * Add one ai project per Pull Request.
