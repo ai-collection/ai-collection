@@ -12,7 +12,7 @@
     <sup>Status</sup>
     <br />
     <a href="https://github.com/public-apis/public-apis">
-        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=846" />
+        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=851" />
     </a>
 </div>
 
@@ -86,13 +86,15 @@
 | [ARTSIO](http://artsio.xyz) | ARTSIO |  | :grey_question: |
 | [AVC AI](http://avc.ai) | Online AI Image Enhancer that Improves Photo Quality by Upscaling, Denoising, Restoring, Face Refinement, and More |  | :grey_question: |
 | [Accomplice](http://accomplice.ai) | AI-powered design generation, editing and training | Accomplice’s AI-powered platform helps your team generate 100% royalty-free logos, photos and graphics while saving time, cutting costs, and simplifying your workflow | :grey_question: |
+| [Adobe Mic Check](podcast.adobe.com/miccheck) | Check your mic for free | Get advice on how to improve your microphone setup. We’ll make sure you sound podcast-ready | :white_check_mark: |
+| [Adobe Podcast](http://podcast.adobe.com) | Adobe Podcast - AI audio recording and editing, all on the web | An audio tool for people with stories to tell | :grey_question: |
 | [Adobe Podcast](http://www.magictools.online) | 276 AI Tools |  | :grey_question: |
-| [Adobe Speech Enhancer](http://podcast.adobe.com) | Adobe Podcast - AI audio recording and editing, all on the web |  | :grey_question: |
+| [Adobe Speech Enhancer](podcast.adobe.com/enhance) | Enhance voice recordings for free | Speech enhancement makes voice recordings sound as if they were recorded in a professional studio | :white_check_mark: |
 | [Ai Art Generator](http://aiart.limited) | Ai Art Generator - Ai Image Maker - Ai Art Limited | Ai Art Limited, creates images, videos, music, and article for you using artificial intelligence. With our app, you can become an artist using artificial intelligence | :grey_question: |
 | [Aiappideas](http://www.aiappideas.com) | AI App Ideas |  | :grey_question: |
 | [Aida](http://www.bookmark.com) | Bookmark.com - No-code Website Builder to Start Your Business |  | :grey_question: |
 | [Aiva](http://aiva.ai) | AIVA - The AI composing emotional soundtrack music |  | :grey_question: |
-| [Albus](http://www.springworks.in) | HR Software Solutions for Growing Businesses - Springworks | Revolutionizing HR with Blockchain, Machine Learning and Empathy | :grey_question: |
+| [Albus](www.springworks.in/albus/) | Albus - ChatGPT Now On Slack | Albus uses natural language processing technology to help you find answers to all your questions without leaving Slack. Have the power of ChatGPT now right inside your Workspace! | :white_check_mark: |
 | [Alfred](http://www.alfredsearch.com) | Alfred - GPT Chat on Mobile |  | :grey_question: |
 | [Alltray](http://www.alltray.in) | AI Image Generator with Gallery - Create and Browse Unique, Custom Images with Artificial Intelligence |  | :grey_question: |
 | [Alter Ego AI](http://alterego-ai.com) | AlterEgo |  | :grey_question: |
@@ -156,7 +158,7 @@
 | [Big Speak](http://bigspeak.ai) |  |  | :grey_question: |
 | [BigJpg](http://bigjpg.com) | Bigjpg - AI Super-Resolution lossless image enlarging / upscaling tool using Deep Convolutional Neural Networks | Bigjpg - Image Super-Resolution for Anime-style artworks using the Deep Convolutional Neural Networks without quality loss. Photos are also supported | :grey_question: |
 | [Bito AI](http://bito.co) | Bito |  | :grey_question: |
-| [Blackink](http://blackink.ai) |  |  | :grey_question: |
+| [Blackink](http://blackink.ai) | Create your own unique flash tattoo in seconds | Stop spending months searching Pinterest for your next tattoo. Generate custom, unique tattoos in seconds with BlackInk's AI, designed to create tattoo-like designs just for you | :white_check_mark: |
 | [Blimey](http://blimeycreate.com) | Blimey | Blimey is an ai image generator where you can go from idea to reality in a minute. With full control over composition, colors and style | :grey_question: |
 | [BlogNLP](http://www.blognlp.com) | BlogNLP | An AI-based blog writing tool that can help you craft captivating content quickly and easily, eliminating writer's block and saving you time | :grey_question: |
 | [Bloomoon](http://www.bloomoon.art) | bloomoon | Discover unique AI-generated paintings at bloomoon | :grey_question: |
@@ -296,6 +298,7 @@
 | [Emergent Drums](http://audialab.com) | Emergent Drums by Audialab - Generate infinite, royalty-free, drum samples with AI |  | :grey_question: |
 | [Enwrite](http://enwrite.co) | The AI writing tool that creates content for you - Enwrite |  | :grey_question: |
 | [EpicAvatar](http://epic-avatar.com) | Epic Avatar - AI profile picture generator | Make your own state-of-the-art AI avatar profile pictures | :grey_question: |
+| [Equally.ai](http://equally.ai) | Web Accessibility Compliance For All | Achieve ADA & WCAG compliance easily | :white_check_mark: |
 | [Erase.bg](http://www.erase.bg) | Free Background Image Remover: Remove BG from HD Images Online - Erase.bg | Make the background transparent for images of humans, animals, or objects. Download images in high resolution for free for e-commerce and personal use. No credit card needed | :grey_question: |
 | [EssayBar](http://www.essay.bar) | EssayBar — Revolutionize Your Writing with AI-Crafted Essays! |  | :grey_question: |
 | [Everypixel](http://www.everypixel.com) | Stock Image Search Engine - More Than 50 Best Sources - Everypixel |  | :grey_question: |
@@ -622,6 +625,7 @@
 | [Replika](http://replika.com) | Replika | Always here to listen and talk. Always on your side. Join the millions growing with their AI friends now! | :grey_question: |
 | [Resemble.ai](http://www.resemble.ai) | AI Voice Generator and Voice Cloning for Text to Speech - Resemble AI |  | :grey_question: |
 | [ResolveAI](http://resolveai.co) | ResolveAI | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time | :grey_question: |
+| [RestorePhotos.io](www.restorephotos.io) | Restoring old photos using AI for everyone | Have old and blurry face photos? Let our AI restore them so those memories can live on. 100% free – restore your photos today | :white_check_mark: |
 | [ResumAI](http://www.wonsulting.com) | Wonsulting -  We Find Dream Jobs | Weâve helped over 100,000 people land their dream jobs. Let our job search strategies take you from resumes to better days | :grey_question: |
 | [Resume Studio](http://resumestudio.careers) |  |  | :grey_question: |
 | [Resume Worded](http://resumeworded.com) | Resume Worded - Free instant feedback on your resume and LinkedIn profile |  | :white_check_mark: |
@@ -877,5 +881,6 @@
 | [pixificial](http://www.pixificial.com) | pixificial: Create Your AI Avatars, AI Profiles For Free | Create Your AI Avatars, AI Profiles For Free | :white_check_mark: |
 | [qqbot](http://https://docs.google.com/forms/d/e/1FAIpQLSdDatxPuojDpCovBe5kLvVoG9d7xkiJJnas5P6_l6k0_OfMzg/viewform) |  |  | :grey_question: |
 | [rankode](http://www.rankode.ai) | AI for Human Resources - Rankode | Recruiters, everything you need to know about a candidate's programming skills is in their GitHub. Evaluate them automatically with Rankode to avoid expensive hiring mistakes and superboost your retention | :grey_question: |
+| [springworks](http://www.springworks.in) | HR Software Solutions for Growing Businesses | Springworks builds human resources software solutions to solve challenges in recruitment, background verification & employee engagement with Blockchain and AI | :white_check_mark: |
 | [superReply](http://superreply.co) | Upgrade Your Email Game | The Email Response Hack You've Been Waiting For - Easily send effective replies with tailored responses without writing from scratch | :white_check_mark: |
 | [xpression camera 2.0](http://xpressioncamera.com) | xpression camera | Become anyone on Zoom, Twitch, or any streaming video | :grey_question: |
