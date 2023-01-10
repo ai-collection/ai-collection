@@ -1,20 +1,23 @@
-# <center>ai-collection</center>
-## <center>A collection of AI projects</center>
-#### <center>An effort to offer a visibility and reach for the awesome AI projects out there</center>
+<div align="center">
+    <h1>ai-collection</h1>
+    <i>A collection of AI projects</i>
+    <i>An effort to offer a visibility and reach for the awesome AI projects out there</i>
+</div>
 
 ---
-<div align="center">
+<div align="center">    
     <a href="CONTRIBUTING.md">Contributing Guide</a> • 
     <a href="LICENSE">License</a>
 </div>
 
-<br />
-
 ---
 
 <br />
 
-### <center>The Collection</center>
+<div align="center">
+    <h2>The Collection (order alphabetically)</h2>
+</div>
+
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [1Case](http://1case.io) | 1/Case |  | :grey_question: |
@@ -22,7 +25,6 @@
 | [AI Answers by Cohere](http://cohere.io) | Conversational AI Platform for Customer Support - Cohere | AI-powered support assistance that finds answers from previous tickets | :grey_question: |
 | [AI Art Latitude](http://ai-art.latitude.io) | AI Art |  | :grey_question: |
 | [AI Background Generator by PhotoRoom](http://www.photoroom.com) | PhotoRoom - Remove Background and Create Product Pictures | Create product and portrait pictures using only your phone. Remove background, change background and showcase products | :grey_question: |
-| [AI Canvas](http://www.kive.ai) | Kive | Kive â all your inspiration in one place | :grey_question: |
 | [AI Car Diagnosis](http://cardiagnosis.softr.app) | Car Diagnosis AI | Get real-time diagnostics and insights into your car’s performance with our cutting-edge tool | :grey_question: |
 | [AI Code Reviewer](http://code-reviewer.vercel.app) | AI Code Reviewer | Automatic code review by AI | :grey_question: |
 | [AI Content Generator](http://yep.so) | Yep.so - From idea to signups in 15 minutes |  | :grey_question: |
@@ -408,7 +410,7 @@ Publish, Respond, Analyze, and Automate - all from within SocialBu | :grey_quest
 | [Kidotail](http://www.kidotail.com) | KidoTail AI | A New Way to Ignite Your Child's Imagination. Endless Storytelling Possibilities | :grey_question: |
 | [Kinestex](http://www.kinestex.com) | KinesteX - AI Coach in Your Phone |  | :grey_question: |
 | [Kiri.art](http://kiri.art) | Kiri.Art | Diffusion Image Generation | :grey_question: |
-| [Kive](http://www.kive.ai) | Kive | Kive â all your inspiration in one place | :grey_question: |
+| [Kive](http://www.kive.ai) | Kive - AI Canvas | all your inspiration in one place | :grey_question: |
 | [Kore.ai](http://kore.ai) | AI-first Experience Optimization Platform for Enterprises | Kore.ai automates front-office and back-office interactions for every industry by deploying conversational AI-first virtual assistants and process assistants | :grey_question: |
 | [Krea](http://updates.krea.ai) | AI Canvas | Introducing the AI Canvas, by Krea | :grey_question: |
 | [Krisp](http://krisp.ai) | World’s #1 Noise Cancelling App - Krisp | Krisp’s AI removes background voices, noises and echo from all your calls, giving you peace of mind | :grey_question: |
