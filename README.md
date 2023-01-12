@@ -12,7 +12,7 @@
     <sup>Status</sup>
     <br />
     <a href="https://github.com/public-apis/public-apis">
-        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=849" />
+        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=852" />
     </a>
 </div>
 
@@ -43,6 +43,7 @@
 | [AI Code Reviewer](http://code-reviewer.vercel.app) | AI Code Reviewer | Automatic code review by AI | :grey_question: |                
 | [Ask Command](http://askcommand.com) | Ask Command — AI-powered Developer Assistant | A tiny app to remind you about those commands you always forget. Powered by AI | :grey_question: |                
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist) | CodeAssist is an AI assistant / chatbot / copilot for programming - JetBrains Marketplace | It generates, changes, completes the code and answers questions | :grey_question: |                
+| [CodeGPT](http://www.codegpt.co/) | AI inside your IDE | Improve your code with Code GPT AI | :white_check_mark: |                
 | [CodeWP](http://codewp.ai) | CodeWP - AI WordPress Code Generator & Assistant | CodeWP is a WordPress code generator that uses AI and specialized models for WordPress, Woo and others to help you build better & quicker | :grey_question: |                
 | [Codeball](http://codeball.ai) | Codeball â AI Powered Code Review | Codeball finds bugs in your Pull Requests, lets you ship faster and with higher confidence | :grey_question: |                
 | [Codecleaningbot](http://www.codecleaningbot.com) | Code Cleaning Bot | Code Cleaning AI Bot fixes common code quality and security issues. Like: deleting unused and unreachable code, fix SQL injection, etc | :grey_question: |                
@@ -56,6 +57,7 @@
 | [Mutable.ai](http://mutable.ai) | MutableAI. AI Accelerated Software Development | Build fast with production quality using AI | :grey_question: |                
 | [Programminghelper](http://www.programming-helper.com) | Home | Generate code with AI just by typing a text description. AI will create the code for you. A tool that helps you with a wide range of tasks. All in one place | :grey_question: |                
 | [Tabnine](http://www.tabnine.com) | AI Assistant for software developers - Tabnine | Whether you’re part of a team, or a developer working on your own, Tabnine will help you write code faster – all in your favorite IDE | :grey_question: |                
+| [Tensai](http://airtable.com/shrhYf24UkDMr2gPl) | Tensai - Conversational UI for your Codebase |  | :white_check_mark: |                
 | [Whatthediff](http://whatthediff.ai) | What-the-Diff – AI-powered code review assistant | The AI powered GitHub app that explains the changes within your pull requests in plain english | :grey_question: |                
 
 **[⬆ Back to Index](#index)**
@@ -108,6 +110,7 @@
 | [Theoasis](http://theoasis.com) | OASIS â Never Worry How You Look on Camera Again | Create a photorealistic avatar that you can use on every video platform | :grey_question: |                
 | [Tryitonai](http://www.tryitonai.com) | Stunning Professional Headshots & Portraits - Try it on AI | Get professional studio quality headshots generated in less than 24hrs! Perfect for LinkedIn, social, team and dating photos | :grey_question: |                
 | [Zoomscape](http://zoomscape.ai) | Zoomscape.ai | Create stunning Zoom backgrounds with AI | :grey_question: |                
+| [flair](http://flair.ai/) | The Ai Design Tool For Branded Content |  | :white_check_mark: |                
 | [pixificial](http://www.pixificial.com) | pixificial: Create Your AI Avatars, AI Profiles For Free | Create Your AI Avatars, AI Profiles For Free | :white_check_mark: |                
 
 **[⬆ Back to Index](#index)**
