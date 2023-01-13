@@ -275,6 +275,7 @@
 | [Texti](http://texti.app) | texti.app |  | :grey_question: |                
 | [Ubie AI Symptom Checker](http://ubiehealth.com) | Check Symptoms & Find Causes by AI | Check Symptoms & Find Causes by AI - Answer quiz about your symptoms to find out possible causes, types, severity, and treatment for free by AI. Developed by doctors | :white_check_mark: |                
 | [Warmer.Ai](http://warmer.ai) | WARMER.ai - AI Email Writer | Warmer uses AI email personalization to write your email outreach. Increase replies, meetings and sales with dynamic personalization | :grey_question: |                
+| [WordAI](http://wordai.com) | AI Text Rewriter - WordAi | Use artificial intelligence to cut turnaround time, extend your budget, and create more high-quality content that Google and readers will love | :grey_question: |                
 | [Writemeacoverletter](http://writemeacoverletter.com) | Write Me A Cover Letter | Generate a cover letter in seconds using AI. Just upload your CV, share a link to the job you want, and we'll do the rest | :grey_question: |                
 | [Your Cover Letter](http://yourcoverletter.com) | AI Cover Letter Builder - Upload your Resume to get started | Apply for your dream jobs using our AI Cover Letter builder. Add your Resume and the Job Description to generate a Cover Letter in seconds | :grey_question: |                
 | [coverletter.app](http://coverletter.app) | Custom-made cover letters ready in minutes not hours - coverletter.app | Stand out from the competition and increase your chances of getting hired with personalized cover letters from our advanced AI technology | :grey_question: |                
@@ -289,6 +290,7 @@
 | [Boolpic](http://boolv.tech) | An intelligent video platform that empowers brands | Generate on-brand videos 10X faster with AI to boost marketing performance | :grey_question: |                
 | [Deepfakesweb](http://deepfakesweb.com) | Make Your Own Deepfakes [Online App] | Our easy to use deepfake app uses AI and Deep Learning to generate amazing face swap videos. Make your own deepfake video today | :grey_question: |                
 | [FilmForge](http://filmforge.uwu.ai) | FilmForge AI | Instantly generate engaging videos. Captions, voiceover, transcript, and graphics included | :grey_question: |                
+| [Pictory](http://pictory.ai) | Video Creation Made EASY | Automatically create short, highly-sharable branded videos from your long form content | :grey_question: |                
 | [Vidboard AI](http://vidboard.ai) |  |  | :grey_question: |                
 | [Wzrd.ai](http://wzrd.ai) | Experience your sound | WZRD augments your audio with immersive video powered by artificial intelligence | :grey_question: |                
 
@@ -653,7 +655,6 @@
 | [PicasaAI](http://picasaai.com) | Picasa AI | Create your AI-generated social media pictures | :grey_question: |                
 | [PictoDream](http://pictodream.com) | Generate images of yourself with AI - PictoDream.com | Generate any images of yourself (or another person) in any style or setting using a simple text description | :grey_question: |                
 | [Pictorial](http://www.pictorial.ai) | Pictorial - Effortlessly create graphics for your web applications | Inspiration is hard to come by. Get your message across hustle-free by leveraging an AI able to generate reliable, ready-to-use visual masterpieces | :grey_question: |                
-| [Pictory](http://pictory.ai) |  |  | :grey_question: |                
 | [Pinegraph](http://pinegraph.com) | Magic Sketchpad | Pinegraph is all you need to bring your creativity to life. Generate AI art for free with Pinecasso for styles like anime, abstract art, and more. Create your own concept characters including waifus and husbandos, game art, and more | :white_check_mark: |                
 | [Pitchgrade](http://pitchgrade.com) | Pitchgrade | A pitch deck is a presentation that a company uses to pitch to investors. It goes over the company’s business model, financial projections, and other key metrics that investors would want to see | :grey_question: |                
 | [Pixelmind](http://beta.pixelmind.ai) | Pixelmind - AI-powered art & minting to NFTs | Your journey into AI-powered art. Create and collect NFTs through the Pixelmind portal. Evolve your style. Raise your game | :grey_question: |                
@@ -893,7 +894,6 @@
 | [WithPoly](http://withpoly.com) | Poly: Generate design assets with A.I. · Poly |  | :grey_question: |                
 | [Wizishop](http://wizishop.com) | WiziShop Ecommerce Solution: Create your Online Store | 15-day free trial - No credit card needed - Access all of our features | :white_check_mark: |                
 | [Word Spinner](http://word-spinner.com) | Word Spinner: The Best Free Article Rewriter and Paraphrase Tool Online |  | :white_check_mark: |                
-| [WordAI](http://wordai.com) | AI Text Rewriter - WordAi | Use artificial intelligence to cut turnaround time, extend your budget, and create more high-quality content that Google and readers will love | :grey_question: |                
 | [WordHero](http://wordhero.co) | #1 AI Writing Software - AI Writer & Assistant - WordHero |  | :grey_question: |                
 | [Wordfixerbot](http://www.wordfixerbot.com) | Paraphrasing Tool - Best Free Online Paraphraser - WordfixerBot |  | :grey_question: |                
 | [Wordkraft](http://wordkraft.ai) | AI Copywriting & Online Content Generator - Wordkraft |  | :grey_question: |                
