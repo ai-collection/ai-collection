@@ -270,6 +270,7 @@
 | [Splitjoin](http://www.splitjoin.com) | SplitJoin | AI assistant to help you write commit messages faster | :grey_question: |                
 | [StoriesForKids](http://www.storiesforkids.ai) | StoriesForKids.ai: Personalized Kid's Books using AI | Turn real-life situations into fun stories & illustrations in seconds | :grey_question: |                
 | [Storywizard](http://www.storywizard.ai) | Storywizard.ai - Create incredible children`s stories in no time using AI | Storywizard uses AI to help you generate astonishing stories for children with vivid images and beautiful plots | :grey_question: |                
+| [Sudowrite](http://www.sudowrite.com) | Bust writer's block and be more creative with our magical writing AI | Write your novel or screenplay faster with best AI writing tool according to The New Yorker, NY Times, The Verge, and many more | :grey_question: |                
 | [Talk to AI Human](http://www.talktoaihuman.com) | Talk to AI Human |  | :grey_question: |                
 | [Texti](http://texti.app) | texti.app |  | :grey_question: |                
 | [Ubie AI Symptom Checker](http://ubiehealth.com) | Check Symptoms & Find Causes by AI | Check Symptoms & Find Causes by AI - Answer quiz about your symptoms to find out possible causes, types, severity, and treatment for free by AI. Developed by doctors | :white_check_mark: |                
@@ -785,7 +786,6 @@
 | [Story Bard](http://www.storybard.co) | Story Bard |  | :grey_question: |                
 | [Storya](http://www.storya.app) | Storya - AI Publishing for Everyone |  | :grey_question: |                
 | [Studio Design](http://studio.design) | STUDIO, an AI-augmented design tool |  | :grey_question: |                
-| [Sudowrite](http://www.sudowrite.com) | Sudowrite |  | :grey_question: |                
 | [SuenaGringo AI](http://suenagringo.com) | SuenaGringo | Escribe inglÃ©s con confianza y rompe las barreras | :grey_question: |                
 | [Suggest Gift](http://suggest.gift) | Suggest Gift - Find great gift suggestions using Artificial Intelligence | Artificial Intelligence based tool to help you get amazing gift suggestions for any occasion | :grey_question: |                
 | [Sumly](http://www.sumly.ai) | AI-Generated Podcast Summaries  - Sumly.AI |  | :grey_question: |                
