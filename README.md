@@ -27,7 +27,7 @@
 
 ## Index
 
-* [Architecture & Interior Design](#Architecture%20&%20interior%20design)
+* [Architecture & Interior Design](#Architecture-&-interior-design)
 * [Code](#code)
 * [Gaming](#gaming)
 * [Image](#image)
