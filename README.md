@@ -12,7 +12,7 @@
     <sup>Status</sup>
     <br />
     <a href="https://github.com/public-apis/public-apis">
-        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=847" />
+        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=848" />
     </a>
 </div>
 
@@ -297,6 +297,7 @@
 | [Justlearn](http://www.justlearn.com) | Ai Friend, Chat & Call - Justlearn | AI Friend, Chat & Call app designed to teach you anything. Voice. Diary. Music. Workout | :grey_question: |                
 | [Kidotail](http://www.kidotail.com) | Kidotail Ai | A New Way to Ignite Your Child's Imagination. Endless Storytelling Possibilities | :grey_question: |                
 | [Langame card game](http://cards.langa.me) | Ai-Generated Conversation Card Game To Enjoy With Your Friends & Family | Create your personalized deck of cards and play with your friends. Select which cards should be part of your own deck by swiping 💅 | :grey_question: |                
+| [Lexii.ai](http://lexii.ai/) | Lexii.Ai | Lexii.ai is an AI search assistant that answers questions and cites sources | :white_check_mark: |                
 | [Myess](http://myess.ai) | Myessai - Ai Powered Essay Tutor | Supercharge your writing with instant, highly detailed feedback from our AI tutor. Real, actionable feedback - not just another Grammarly | :grey_question: |                
 | [Namelix](http://namelix.com) | Business Name Generator - Free Ai-Powered Naming Tool - Namelix |  | :white_check_mark: |                
 | [Namewizard](http://namewizard.ai) | Namewizard.Ai - Your Ai-Superpowered Domain Name Generator | namewizard is the generator that uses AI to find the perfect business and domain name for your next project | :grey_question: |                
