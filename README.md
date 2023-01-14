@@ -12,7 +12,7 @@
     <sup>Status</sup>
     <br />
     <a href="https://github.com/public-apis/public-apis">
-        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=849" />
+        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=847" />
     </a>
 </div>
 
@@ -42,8 +42,8 @@
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Dimensions](http://www.dimensions.ink) | Dimensions - Rapidly Create Visual Concepts With Ai | Imagine being able to create beautiful interior designs with ease – that’s what Dimensions offers | :grey_question: |                
-| [Image Computer](http://image.computer) | Generate Your Next Interior Design / Paniting / Fashion Collection / Concept Art | Use our powerful AI technology to generate any type of image you can think of. In a matter of seconds | :grey_question: |                
-| [Interior AI](http://interiorai.com) | Interior Ai: Interior Design Ideas Inspiration, And Virtual Staging App Using Artifical Intelligence | Get interior design ideas using Artificial Intelligence and virtually stage interiors for real estate listings with different interior styles | :grey_question: |                
+| [Image Computer](http://image.computer) | Generate Your Next Interior Design / Paniting / Fashion Collection / Concept Art | Use our powerful AI technology to generate any type of image you can think of. In a matter of seconds | :x: |                
+| [Interior AI](http://interiorai.com) | Interior Ai: Interior Design Ideas Inspiration, And Virtual Staging App Using Artifical Intelligence | Get interior design ideas using Artificial Intelligence and virtually stage interiors for real estate listings with different interior styles | :white_check_mark: |                
 | [Makeit.ai](http://www.maket.ai) | Generative Design - Architecture Design Software - Maket | Our generative design software enables architects, builders & developers to quickly generate thousands of architectural plans instantly | :grey_question: |                
 
 **[⬆ Back to Index](#index)**
@@ -96,14 +96,18 @@
 | [AI Pokemon generator](http://nokemon.eloie.tech) | Generate Fakemon Using Ai |  | :grey_question: |                
 | [AI Wall Decor](http://aiwalldecor.com) | Hydrogen | Use Stable Diffusion to generate high quality framed art, without lifting a brush. Simply type what you want your painting to look like, generate your art, choose your favorite frame, and ship it | :grey_question: |                
 | [AI2image](http://www.ai2image.com) | Free Ai Image Generator - Online Text To Image App - Ai2Image | Generate the best images online with Free AI Image Generator by AI2image. Use AI to generate high-quality images of any size and style you want! | :white_check_mark: |                
+| [AIGraphics](http://aigraphics.io) | Ai Graphics | Generate Graphics In Seconds Using AI | :white_check_mark: |                
 | [AIVatar](http://aivatarapp.com) | Aivatar - Magic Avatar Generator | Generate magic avatar art from your photos | :grey_question: |                
 | [AIprofilepic](http://aiprofilepic.art) | Create Stunning Profile Pictures Using Ai - Aiprofilepic.Art | Create your perfect avatars in just a few clicks with our easy-to-use AI technology | :grey_question: |                
 | [AVC AI](http://avc.ai) | Online Ai Image Enhancer That Improves Photo Quality By Upscaling, Denoising, Restoring, Face Refinement, And More |  | :grey_question: |                
 | [Accomplice](http://accomplice.ai) | Ai-Powered Design Generation, Editing And Training | Accomplice’s AI-powered platform helps your team generate 100% royalty-free logos, photos and graphics while saving time, cutting costs, and simplifying your workflow | :white_check_mark: |                
 | [Ai Art Generator](http://aiart.limited) | Ai Art Generator - Ai Image Maker - Ai Art Limited | Ai Art Limited, creates images, videos, music, and article for you using artificial intelligence. With our app, you can become an artist using artificial intelligence | :grey_question: |                
+| [Alltray](http://www.alltray.in) | Ai Image Generator With Gallery - Create And Browse Unique, Custom Images With Artificial Intelligence |  | :grey_question: |                
+| [Alter Ego AI](http://alterego-ai.com) | Ai Generated Images Of You In Heaps Of Styles |  | :x: |                
 | [AnimalAI](http://animalai.co) | Animalai - Create Ai-Generated Animal Portraits Of Yourself | Protect our planet's wildlife with custom AI-generated animal portraits of yourself | :grey_question: |                
 | [Anime AI](http://animeai.app) | Ai Anime Picture Generator - Anime Ai | Create your perfect anime picture with AI. Choose between One Piece, Naruto, Webtoon styles and others! | :grey_question: |                
 | [Anonymizer](http://generated.photos) | Generated Photos - Unique, Worry-Free Model Photos |  | :grey_question: |                
+| [Appiconai](http://appiconai.com) | App Icon Ai |  | :grey_question: |                
 | [Artbreeder](http://www.artbreeder.com) | Artbreeder |  | :grey_question: |                
 | [Article2Image](http://www.stockai.com) | Free Ai-Powered Stock Photos | Download AI-generated stock photos for free, with the click of a button. Use in any project without worry about attribution | :white_check_mark: |                
 | [Artshop](http://artshops.xyz) | Artshop | Artshop brings amazing AI artworks to wall arts in your home and create welcoming addition to your beautiful home | :grey_question: |                
@@ -118,8 +122,14 @@
 | [Clipdrop](http://clipdrop.co) | Clipdrop | Create professional visuals without a photo studio | :grey_question: |                
 | [Colorize](http://colorize.cc) | Colorize Photo Online |  | :grey_question: |                
 | [Cutout Pro](http://www.cutout.pro) | Cutout.Pro - Ai Photo Editing - Visual Content Generation Platform, Best For Image And Video Design | All-in-one visual design platform containing AI photo and video editing tools. Automatic process for background remove, image restoration, graphic design, and content generation | :grey_question: |                
+| [DALL·E 2](https://openai.com/dall-e-2/) | Dall·E 2 Is A New Ai System That Can Create Realistic Images And Art From A Description In Natural Language | DALL·E 2 can create original, realistic images and art from a text description. It can combine concepts, attributes, and styles | :white_check_mark: |                
+| [DaVinciFace](http://www.davinciface.com) | Ai Portrait - Davinci Face Made By Mathema | DaVinci Face is a software – based on the most innovative Artificial Intelligence techniques, in particular on GAN (Generative Adversarial Network) to create Leonardesque-style portraits | :grey_question: |                
+| [Deep Dream Generator](http://deepdreamgenerator.com) | Human Ai Collaboration | Create inspiring visual content in a collaboration with our AI enabled tools | :white_check_mark: |                
 | [Deep Nostalgia](http://www.myheritage.ro) | Arbore Genealogic Gratuit, Genealogie Şi Istoric De Familie - Myheritage |  | :grey_question: |                
 | [Designify](http://www.designify.com) | Designify - Turn Any Photo Into Awesome | Create exceptional product photos and more: Pick any image to start the magic ✨ | :grey_question: |                
+| [Dezgo](http://dezgo.com) | Dezgo.Com | Generate high-quality images from any text prompt. Let the AI draw! | :grey_question: |                
+| [Diffusion Land](http://www.diffusion.land) | Diffusion Land - Generate Images With Ai | Generated images with 1-click, using any model of your choice | :white_check_mark: |                
+| [Draw Things](http://draw.nnc.ai) | Draw Things: Ai-Assisted Image Generation |  | :grey_question: |                
 | [DreamPic](http://dreampic.ai) | Dreampic.Ai | AI Generated Pictures Starring You | :grey_question: |                
 | [DreamUp](http://www.dreamup.com) | Dreamup | The DeviantArt DreamUp™ AI-art generator lets you create AI-art safely and fairly | :grey_question: |                
 | [Dreambooth](http://dream.ai) | High Quality Artwork In Seconds |  | :grey_question: |                
@@ -158,12 +168,16 @@
 | [Iwear.art](http://iwear.art) | I Wear Art | Create unique art with AI, and wear it on your apparel | :grey_question: |                
 | [Kiri.art](http://kiri.art) | Kiri.Art | Diffusion Image Generation | :grey_question: |                
 | [Krea](http://updates.krea.ai) | Ai Canvas | Introducing the AI Canvas, by Krea | :grey_question: |                
+| [Leonardo](http://leonardo.ai) | Leonardo.Ai | Generate production quality assets for your creative projects with AI-driven speed and style-consistency | :grey_question: |                
+| [Lightricks](http://www.lightricks.com) | Home To Creators Everywhere | Experience the magic of creating with the best tools and services for creators: Facetune 2, Videoleap, Linkinbio & Photoleap. Check it out now! | :grey_question: |                
+| [Mage Space](http://www.mage.space) | Create Anything |  | :white_check_mark: |                
 | [Magic AI Avatars](http://magicaiavatars.com) |  | Get 200+ custom avatars made by artificial intelligence | :grey_question: |                
 | [Magic Avatars](http://land.prisma-ai.com) |  |  | :grey_question: |                
 | [Magic Eraser](http://magicstudio.com) | Magic Studio - Powered By Ai, Created By You | Magic Studio helps you automatically edit and create images, using AI | :grey_question: |                
 | [MagicPic](http://www.magicpic.ai) | Magicpic - Ai Profile Picture Generator | Your profile picture is the first thing people see when they look at your profile. We use artificial intelligence to generate an magical avatars of you | :grey_question: |                
 | [Neuralcanvas](http://neuralcanvas.io) | Neural Canvas - Ai Comic Generator | Express your creativity with the support of AI - Create AI Generated Illustrations for your comics, blogposts, e-book, graphic novels and more | :grey_question: |                
 | [Not Me Netlify](http://not-me.netlify.app) | Autoportrait - Create Ai Portraits | Browse millions of styles or create your own, generate AI autoportraits | :grey_question: |                
+| [PIXELVIBE](https://www.pixelvibe.com/) | Ai Streamlined Creative Workflow | Create Presentations, Designs, Stock Photos, Instagram Promos, Product Photography, Vector Art, Animated Avatars | :grey_question: |                
 | [Palette](http://palette.fm) | Palette - Colorize Photos | A new AI colorizer. Colorize anything from old black and white photos ð¸, style your artworks ð¨, or give modern images a fresh look ð¶. It's as simple as instagram | :white_check_mark: |                
 | [Partly](http://www.partly.ai) | Mind-Blowing Art From Your Photos, By Partly Ai | Transform your photos into works of art with the help of AI magic! | :grey_question: |                
 | [PhotoFix](http://photofix.io) | Photofix - Magically Edit Photos With Ai |  | :grey_question: |                
@@ -175,13 +189,25 @@
 | [Pixian](http://pixian.ai) | Remove Image Backgrounds, Free Hd, No Signup - Pixian.Ai | Remove Image Backgrounds, Free HD, No Signup | :white_check_mark: |                
 | [Proface](http://avatarize.club) | Avatarize | Create High Quality AI-Generated Avatars | :grey_question: |                
 | [Profile Picture](http://profilepicture.me) | Profile Picture Art |  | :grey_question: |                
+| [Quasi](http://quasi.market) | We Make Creating With Ai Easy | Unlock with the power of AI and easily create stunning content of all types with a simple-to-use platform | :white_check_mark: |                
+| [Re.Art AI Image Generator](http://reart.devvinay.in) | Generate An Image. Imagine Anything You Want To Imagine! | This AI Image Generator Built using Stable Diffusion. To Keep This Service Alive You can support Developer | :white_check_mark: |                
 | [ReflectMe](http://reflectme.art) | Reflectme. - Generate Your Ai Avatars! | See yourself in a way you never have before! Generate your AI avatars, AI photos, AI photographies, profile pictures, LinkedIn professional profile photos, using artificial intelligence! Built on Stable Diffusion and Dreambooth | :grey_question: |                
 | [Removal.ai](http://removal.ai) | Background Remover - Create Transparent Background | Remove background online from image using background remover. Create transparent background - Download high-resolution instantly & free | :white_check_mark: |                
 | [Remove.bg](http://www.remove.bg) | Remove Background From Image – Remove.Bg | Remove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually picking pixels. Upload your photo now & see the magic | :grey_question: |                
 | [Remover.app](http://remover.zmo.ai) | Removeanythingunwanted In Seconds, For Free |  | :white_check_mark: |                
+| [Roll Art Die](http://www.roll-art-die.com) | Stablediffusion On Your Apple Silicon Devices | Generate AI Artworks using only text. Make your dream artworks into reality. No cloud subscription required | :white_check_mark: |                
+| [RunDiffusion](http://rundiffusion.com) | Rundiffusion - Stable Diffusion Workspace In 3 Minutes | No code to fiddle with, nothing to install. Get a private Stable Diffusion workspace in very little time. Start creating AI Generated art in a little as 3 minutes | :white_check_mark: |                
 | [SceneryAI](http://sceneryai.com) | Sceneryai | Generate or update existing images with our AI image editing tool | :grey_question: |                
+| [Scum](http://scum.co) | Describe Anything |  | :white_check_mark: |                
+| [Seek art](http://seek.art) | Create Astounding Ai Art | Explore, collect, and share. No cost to start. Free credits every day | :white_check_mark: |                
+| [Short Description Image Generator](http://textgeneratedimagegenerate.streamlit.app) | Short Description Image Generator | From a short description and based on the database from MagicPrompt-Stable-Diffusion from HuggingFace + the API of StableDiffusion; images can be created based on few words | :grey_question: |                
+| [Silly Times](http://www.elbo.ai) | A Simple Drawing App Using Ai | Have a fun time drawing and see what silly thing we make from your drawing.  Magic is just button press away! | :white_check_mark: |                
 | [Slazzer 3.0](http://www.slazzer.com) | Remove Background From Image For Free | Remove background from image automatically in 5 seconds. Don't waste time manually selecting pixels. Just upload photo & get instant cutout | :white_check_mark: |                
 | [SnapshotAI](http://snapshotai.com) | Snapshotai | Create your own AI-generated images | :grey_question: |                
+| [Snowpixel](http://snowpixel.app) | Turn Your Prompt Into Artwork | You + AI = Art. Get 20+ AI generated images for each prompt, upload existing images for even more on-brand illustrations, and animate them | :x: |                
+| [Soreal.AI Studio](http://www.soreal.ai) | The Easiest Way To Get Started With Ai Image Generation | Type anything you want to see. Get custom AI images in seconds | :white_check_mark: |                
+| [StableCog](http://stablecog.com) | Stablecog | Free, easy to use, multilingual and open-source AI image generator using Stable Diffusion | :white_check_mark: |                
+| [Stableboost](http://stableboost.ai) | Create Personalized Images With Ai! | Upload a few photos of yourself, a loved one, a pet, a product, or a style you like, and we will automatically train an AI model to generate portraits of you in hundreds of different styles | :x: |                
 | [StarByFace](http://starbyface.com) | Celebrity Look Alike Face-Recognition App - Celebs Like Me | What celebrity do i look like? Try to find out! Celebrity look alike face-recognition system. Find your doppelganger | :grey_question: |                
 | [Stillgram](http://stillgram.io) | Stillgram™ - A.I. Travel Photo Camera App For Iphone® | Stillgram is an A.I. point & shoot camera app that magically removes background crowds from your urban/travel photos | :white_check_mark: |                
 | [Stylized](http://www.stylized.ai) | The Better Way To Take Product Photos | From phone to catalog in 30 seconds | :grey_question: |                
@@ -192,11 +218,19 @@
 | [Topaz Photo AI](http://www.topazlabs.com) | Topaz Labs: Ai Image Quality Software | Photo and video enhancement software powered by deep learning gets you the best image quality available for noise reduction, sharpening, upscaling, and more | :grey_question: |                
 | [Tryitonai](http://www.tryitonai.com) | Stunning Professional Headshots & Portraits - Try It On Ai | Get professional studio quality headshots generated in less than 24hrs! Perfect for LinkedIn, social, team and dating photos | :grey_question: |                
 | [Unfake](http://unfakepng.com) | Ai Tool That Can Turn Annoying Fake.Png Into True, Unfake.Png | Don’t you hate it when you find that perfect, supposedly background-less Image, and download it, but when you go to use it, the dreaded checkerboard appears? | :white_check_mark: |                
+| [Zazow](http://www.zazow.com) | Zazow :: Algorithmic Generative Art | Create your own artwork by using computer generated algorithms. Learn about generative or algorithmic art | :grey_question: |                
 | [Zoomscape](http://zoomscape.ai) | Zoomscape.Ai | Create stunning Zoom backgrounds with AI | :grey_question: |                
 | [flair](http://flair.ai/) | The Ai Design Tool For Branded Content |  | :white_check_mark: |                
 | [jpgRM](http://jpgrm.com) | Jpgrm - Ai Image Magic Cleanup | Using 2022 cutting edged AI model to remove any unwanted objects from your images, automatically fill the background | :grey_question: |                
 | [jpghd](http://jpghd.com) | Jpghd - Lossless Restoration Of Old Photos With Ai | Using 2022 cutting-edge AI models for lossless restoration of old photos (supports old, scratched photo restoration, colorization, and Magic Photo) | :grey_question: |                
 | [pixificial](http://www.pixificial.com) | Pixificial: Create Your Ai Avatars, Ai Profiles For Free | Create Your AI Avatars, AI Profiles For Free | :white_check_mark: |                
+
+**[⬆ Back to Index](#index)**
+
+### Music
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [Quasi Music](quasi.market/radio/) | Create Brand-New Beats | Unleash your inner musician with Quasi's AI-powered music creation tool. Create never-before-heard sounds and remix classic artists with ease | :white_check_mark: |                
 
 **[⬆ Back to Index](#index)**
 
@@ -215,6 +249,7 @@
 | [AI Answers by Cohere](http://cohere.io) | Conversational Ai Platform For Customer Support - Cohere | AI-powered support assistance that finds answers from previous tickets | :grey_question: |                
 | [AI Review Reply Assistant](http://www.mara-solutions.com) | Respond To Reviews With Your Ai Review Reply Assistant | AI review reply generator: Reply 3x faster to every customer review with individual responses written by your personal AI assistant. No templates are needed | :grey_question: |                
 | [AIchristmascards](http://aichristmascards.com) | Ai Christmas Cards | Create & mail unique holiday greetings in minutes - from just $1.99 | :x: |                
+| [Aiappideas](http://www.aiappideas.com) | Ai App Ideas |  | :grey_question: |                
 | [Artistator](http://artistator.com) | Generate Artist Names Of Your Favourite Music Genres |  | :white_check_mark: |                
 | [Ask RBG](http://ask-rbg.ai) | What Would Rbg (Probably) Say? | An AI experiment: Ask Justice Ruth Bader Ginsburg to make a decision about any question your heart desires. The first AI Drop from AI21 Labs | :grey_question: |                
 | [Askmybook](http://askmybook.com) | Ask My Book: The Minimalist Entrepreneur |  | :grey_question: |                
@@ -228,6 +263,7 @@
 | [ChatGPT](http://chat.openai.com) |  |  | :grey_question: |                
 | [ChatGPT Writer](http://chatgptwriter.ai) |  |  | :grey_question: |                
 | [Childbook](http://www.childbook.ai) | Welcome To Children'S Book Creator! | Your book will be personalized with characters, pictures and story. The story and illustrations also have a text-to-speech feature and can be listened to | :grey_question: |                
+| [Clickable](http://www.clickable.so) | Generate Ads In Seconds With Ai | Beautiful, brand-consistent, and highly converting ads for all marketing channels. No design experience needed | :grey_question: |                
 | [Content brief generator](http://www.dashword.com) | Seo Content Optimization Software - Dashword | Dashword is the #1 content optimization software for SEO teams. Create relevant content for your readers and grow your organic traffic | :grey_question: |                
 | [Cover Letter AI](http://coverletter-ai.com) | Cover Letter Ai | The ultimate tool for crafting the perfect cover letter | :grey_question: |                
 | [Cover Letter Kit](http://coverletterkit.com) | Cover Letter Kit - Ai-Powered Custom Cover Letters In Minutes | Write your cover letter and prepare for your interview with help from AI! Land your dream job with a professional, custom-made, and effective cover letter kit | :grey_question: |                
@@ -269,6 +305,7 @@
 | [Oracle](http://askoracle.app) | Oracle - Get Instant Answers From All Your Knowledgebase | Get instant answers to all your burning questions with Oracle. Simply ask on Slack and let our AI generate an answer for you. Connect Oracle to Slack, Google Docs, and Confluence with just one click and maximize your productivity | :grey_question: |                
 | [Philosophy](http://philosophy.fyi) | Ask A Philosopher |  | :grey_question: |                
 | [Politepost](http://www.politepost.net) | Rewriting Your Emails With Ai To Be Professional | Make sure your emails are professional and suitable for the workplace. Write your draft with all your slang and expletives, and our AI bot will rewrite and clean up the text | :grey_question: |                
+| [Promptmakr](http://promptmakr.com) | The Platform For Prompt Engineers To Generate And Share Unlimited Ai Art Prompts For Free |  | :white_check_mark: |                
 | [Proposalgenie](http://www.proposalgenie.ai) | Proposal Genie | Write the Perfect Upwork proposal in seconds | :grey_question: |                
 | [Quicklines](http://www.quicklines.ai) | Quicklines Lifetime Access - Only $59 | Quicklines is your new AI powered cold outreach assistant. We help you scale your cold email campaigns with our in-depth social scraping and natural language first-line writing platform | :grey_question: |                
 | [Rapidreply](http://rapidreply.ai) | Rapid Reply - Ai Email Assistant | Save 30 minutes a day writing emails | :grey_question: |                
@@ -276,6 +313,7 @@
 | [ReplAI](http://repl-ai.com) | Replai - Reply Quickly With Ai |  | :grey_question: |                
 | [ResolveAI](http://resolveai.co) | Resolveai | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time | :grey_question: |                
 | [Scarlettpanda](http://www.scarlettpanda.com) | Scarlett Panda - Customized Short Bedtime Stories | Scarlett Panda - use our magic to generate customized bedtime stories featuring your friends and family | :grey_question: |                
+| [Scholarcy](http://www.scholarcy.com) | Online Summarizing Tool - Flashcard Generator & Summarizer - Scholarcy | Scholarcy™ is an online summarizing tool that generates and converts long articles into summary flashcards. Sign up free & start summarizing | :white_check_mark: |                
 | [Sheet AI](http://www.sheetai.app) | Sheetai App - Unlock Ai Power In Your Google Sheets | SheetAI is a Google Sheets add-on that helps you unlock the power of AI in your spreadsheets | :grey_question: |                
 | [SheetGod](http://www.boloforms.com) | Form Approval Workflow Software - Google Forms Add On |  | :grey_question: |                
 | [Smartwriter](http://www.smartwriter.ai) | Smartwriter - Personalised Ai Cold Emails | Use AI to create highly personalised cold emails or Linkedin messages that convert readers to customers. No experience needed. Find leads, create tailored personalised copy and make sales. AI Cold Emails | :grey_question: |                
@@ -344,7 +382,6 @@
 | [AI movie Club](http://www.ai-movie.club) | Ai-Movie Club | AI-MOVIE CLUB is a social network that create movies with artificial intelligence! | :grey_question: |                
 | [AI-Writer](http://ai-writer.com) | Ai Writer™ - The Best Ai Text Generator, Promised | AI-Writer is the most accurate content generation platform, using state-of-the-art AI writing models to generate articles from just a headline | :grey_question: |                
 | [AIArt](http://aiart.dev) | Aiart.Dev |  | :grey_question: |                
-| [AIGraphics](http://aigraphics.io) | Ai Graphics | Generate Graphics In Seconds Using AI | :grey_question: |                
 | [AIKIt](http://getaikit.com) | Aikit - Your Wordpress Ai Assistant Using Gpt-3 |  | :grey_question: |                
 | [AIduh](http://aiduh.com) | Ai-Responder For Hostaway - Ai Duh | Chrome extension that cuts your writing time by 98% with AI-powered responses. Built by Hosts for Hosts | :grey_question: |                
 | [AIimages](http://aiimag.es) | Aiimag.Es | Free&Easy Text2Image AI | :white_check_mark: |                
@@ -353,13 +390,10 @@
 | [Adobe Mic Check](podcast.adobe.com/miccheck) | Check Your Mic For Free | Get advice on how to improve your microphone setup. We’ll make sure you sound podcast-ready | :white_check_mark: |                
 | [Adobe Podcast](http://podcast.adobe.com) | Adobe Podcast - Ai Audio Recording And Editing, All On The Web | An audio tool for people with stories to tell | :grey_question: |                
 | [Adobe Podcast](http://www.magictools.online) | 276 Ai Tools |  | :grey_question: |                
-| [Aiappideas](http://www.aiappideas.com) | Ai App Ideas |  | :grey_question: |                
 | [Aida](http://www.bookmark.com) | Bookmark.Com - No-Code Website Builder To Start Your Business |  | :x: |                
 | [Aiva](http://aiva.ai) | Aiva - The Ai Composing Emotional Soundtrack Music |  | :grey_question: |                
 | [Albus](www.springworks.in/albus/) | Albus - Chatgpt Now On Slack | Albus uses natural language processing technology to help you find answers to all your questions without leaving Slack. Have the power of ChatGPT now right inside your Workspace! | :white_check_mark: |                
 | [Alfred](http://www.alfredsearch.com) | Alfred - Gpt Chat On Mobile |  | :grey_question: |                
-| [Alltray](http://www.alltray.in) | Ai Image Generator With Gallery - Create And Browse Unique, Custom Images With Artificial Intelligence |  | :grey_question: |                
-| [Alter Ego AI](http://alterego-ai.com) | Alterego |  | :grey_question: |                
 | [Altera AI](http://www.altera.ai) | Altera: The Ai Chrome Extension For Linkedin Salespeople |  | :grey_question: |                
 | [Amadeus Code](http://amadeuscode.com) | 株式会社Amadeus Code - 公式企業サイト | 企業情報、採用情報、投資家情報、ニュースなど、Amadeus Codeの企業情報全般を提供する公式企業サイトです。 | :grey_question: |                
 | [Amper AI](http://www.ampermusic.com) | Ai Music Composition Tools For Content Creators | Amper is an AI music composition company that develops tools for content creators of all kinds. Learn about our new enterprise platform, Score, as well as our creator API | :grey_question: |                
@@ -369,7 +403,6 @@
 | [Anypod](http://www.anypod.ai) | Anypod | We make your content searchable | :grey_question: |                
 | [Anyselfie](http://anyselfie.com) |  |  | :grey_question: |                
 | [Apeture](https://lexica.art/aperture) |  | Create Images by Lexica | :grey_question: |                
-| [Appiconai](http://appiconai.com) | App Icon Ai |  | :grey_question: |                
 | [Aragon](http://www.aragon.ai) | Aragon | Create stunning art & images 10X faster with AI | :grey_question: |                
 | [ArtBot.ai](http://artbot.ai) | Artbot.Ai - Let Ai Create Your Perfect Halloween Art |  | :grey_question: |                
 | [Artflow](http://artflow.ai) | Artflow |  | :grey_question: |                
@@ -421,7 +454,6 @@
 | [Chat-example](http://chat-example.langa.me) | Chat-Example |  | :grey_question: |                
 | [CheapNFT.Art](http://cheapnft.art) | Cheap Nfts |  | :grey_question: |                
 | [Cleanvoice AI](http://cleanvoice.ai) | Get Rid Of Filler Words From Your Audio Recordings | Cleanvoice is an artificial intelligence which removes filler sounds, stuttering and mouth sounds from your podcast or audio recording | :grey_question: |                
-| [Clickable](http://www.clickable.so) | Generate Ads In Seconds With Ai | Beautiful, brand-consistent, and highly converting ads for all marketing channels. No design experience needed | :grey_question: |                
 | [Clip audio](http://www.clip.audio) | Clip - Ai Audio Search Engine | The audio search engine | :grey_question: |                
 | [Code Language Converter](http://codelanguageconverter.com) | Code Language Converter - Convert Code To Other Languages Using Ai |  | :grey_question: |                
 | [Cogram](http://www.cogram.com) | Cogram - Effortless Meeting Notes And Action Items | Cogram uses artificial intelligence to create high-quality meeting minutes and propose action items | :grey_question: |                
@@ -445,29 +477,22 @@
 | [D-ID](http://www.d-id.com) |  |  | :grey_question: |                
 | [D-ID's Creative Reality Studio](http://studio.d-id.com) | D-Id Creative Reality Studio |  | :grey_question: |                
 | [DREAM.page](http://dream.page) |  |  | :grey_question: |                
-| [DaVinciFace](http://www.davinciface.com) | Ai Portrait - Davinci Face Made By Mathema | DaVinci Face is a software – based on the most innovative Artificial Intelligence techniques, in particular on GAN (Generative Adversarial Network) to create Leonardesque-style portraits | :grey_question: |                
 | [Dadabots](http://dadabots.com) | Neural Networks |  | :grey_question: |                
 | [Daft Art](http://www.daftart.ai) | Daft Art — Create The Album Cover You'Ve Always Dreamed Of | Daft allows you to create an amazing, high quality artwork for your album cover within a few minutes, powered by AI | :grey_question: |                
-| [Dall·E](http://openai.com) | Openai | OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity | :grey_question: |                
 | [Daydrm](http://www.daydrm.ai) | Daydrm.Ai | The future of advertising is using machine learning to perform creative thinking | :grey_question: |                
 | [Death to Humans](http://deathtohumans.com) | Death To Humans - Join The Ai Revolution |  | :grey_question: |                
 | [Debuild](http://debuild.app) | Debuild - Build Web Apps Fast |  | :grey_question: |                
 | [Decile](http://decile.app) | Decile | Build a data-led organisation with the power of AI | :grey_question: |                
 | [DeepL](http://www.deepl.com) | Deepl Translate: The World'S Most Accurate Translator |  | :grey_question: |                
-| [Deepdreamgenerator](http://deepdreamgenerator.com) | Deep Dream Generator |  | :grey_question: |                
 | [Descript](http://www.descript.com) | All-In-One Video Editing, As Easy As A Doc |  | :grey_question: |                
 | [Designer Clone AI](http://stockimg.ai) | Ai Image Generation For Teams - You Can Easily Generate Ai Logo, Ai Book Covers, Ai Posters And More - Stockimg Ai | AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI | :grey_question: |                
 | [Designs AI](http://designs.ai) | Create Logos, Videos, Banners, Voiceovers With Ai | Create anything online in 2 minutes! Make a logo, video, social media banner, business card, flyer, mockup and more with AI | :white_check_mark: |                
 | [DetangleAI](http://detangle.ai) | Detangleai |  | :grey_question: |                
 | [Dewey](http://www.withdewey.com) | Dewey: Your New Accountability Buddy |  | :grey_question: |                
-| [Dezgo](http://dezgo.com) | Dezgo.Com | Generate high-quality images from any text prompt. Let the AI draw! | :grey_question: |                
 | [Diffusion Bee](http://diffusionbee.com) | Diffusionbee - Stable Diffusion App For Ai Art | DiffusionBee is the easiest way to generate AI art on your computer with Stable Diffusion | :white_check_mark: |                
-| [Diffusion Land](http://www.diffusion.land) | Diffusion Land - Generate Images With Ai | Generated images with 1-click, using any model of your choice | :grey_question: |                
 | [DigiMarkAI](http://www.digimarkai.com) | Digimarkai |  | :grey_question: |                
 | [DipSway](http://dipsway.com) | Dipsway - Crypto Bot |  | :grey_question: |                
-| [DiscoDiffusion](http://discodiffusion.com) | Google Colaboratory |  | :grey_question: |                
 | [DoNotPay](donotpay.com) | The World'S First Robot Lawyer | Use AI to make legal information accessible to everyone | :grey_question: |                
-| [Draw Things](http://draw.nnc.ai) | Draw Things: Ai-Assisted Image Generation |  | :grey_question: |                
 | [DrawAnyone](http://drawanyone.ai) | Drawanyone - Draw Anyone, Any Way You Want |  | :grey_question: |                
 | [Drawanything](http://www.drawanything.app) | Draw Anything - Stable Diffusion Playground | Use AI to create novel images in minutes | :grey_question: |                
 | [Dream](http://dream.ai) | Dream By Wombo |  | :grey_question: |                
@@ -567,11 +592,9 @@
 | [Langotalk](http://www.langotalk.org) | Langotalk: Learn Languages 6X Faster With Ai | Have confident conversations in weeks instead of years | :grey_question: |                
 | [LazyApply](http://lazyapply.com) | Automate Job Applications, Automatic Job Applier, Auto-Fill Job Applications, One-Click Apply Jobs | Automatically apply for 1000’s of jobs in a single click. LazyApply will auto fill job applications and apply to all of the jobs that are suitable for you on platforms such as Linkedin and Indeed in one click in the USA & Canada | :grey_question: |                
 | [Lek](http://lek.ai) | Lek.Ai - The Ultimate Content Creator Toolkit Powered By Ai |  | :grey_question: |                
-| [Leonardo](http://leonardo.ai) | Leonardo.Ai | Generate production quality assets for your creative projects with AI-driven speed and style-consistency | :grey_question: |                
 | [Letsenhance](http://letsenhance.io) | LetâS Enhance - Image Quality Online App & Free Photo Enlarger | AI software to enhance and upscale pictures. Increase resolution and quality. Fix blurry, pixelated and bad images. Make every photo sharp and clear | :white_check_mark: |                
 | [Levity](http://levity.ai) | Levity - No-Code Ai Workflow Automation Platform |  | :grey_question: |                
 | [Lex](http://lex.page) | Lex |  | :grey_question: |                
-| [Lightricks](http://www.lightricks.com) | Lightricks: Award Winning App Developer | Experience the magic of creating with the best tools and services for creators: Facetune 2, Videoleap, Linkinbio & Photoleap. Check it out now! | :grey_question: |                
 | [Linkedin Posts Generator](http://sid.black) | Siddharth Verma - Full Stack Freelancer - Startup Guy | Hi, I am Siddharth Verma. A start-up enthusiast with 6+ years of experience. I have worked with over 50+ SAAS companies helping them build robust scalable solutions, product and engineering problems | :grey_question: |                
 | [Listnr 2.0](http://www.listnr.tech) | Ai Voice Generator - Text To Speech Converter - Listnr | Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with the best synthetic voices. Instantly convert text in to natural-sounding speech and download in MP3 and WAV formats | :grey_question: |                
 | [Logo Generator](http://v220221041114203913.supersrv.de) |  |  | :grey_question: |                
@@ -581,7 +604,6 @@
 | [Lovelines](http://lovelines.xyz) | Lovelines.Xyz - Share Your Love With Custom Keepsakes Made By Ai | Create custom keepsakes for a loved one using AI that are optimized for social media. AI-generated poems, stories, letters, and song lyrics | :grey_question: |                
 | [Lovo](http://www.lovo.ai) | Lovo Ai - Free Text To Speech Online With Natural Voices |  | :white_check_mark: |                
 | [LuciaAI](http://luciaai.com) | Luciaai | Lucia uses the latest and most advanced artificial intelligence technology. With Lucia you can write faster and better than ever before | :grey_question: |                
-| [Mage Space](http://www.mage.space) |  |  | :grey_question: |                
 | [Magic Mate](http://www.getmagicmate.com) | Magicmate |  | :grey_question: |                
 | [MagicStock](http://aimages.ai) | Aimages - Online Ai Video And Image Enhancer | Upscale and Enhance videos and images online using AI | :white_check_mark: |                
 | [Magician](http://magician.design) | Magician For Figma | A magical design tool for Figma powered by AI | :grey_question: |                
@@ -692,10 +714,8 @@
 | [Prompt.Cafe](http://www.prompt.cafe) | Prompt.Cafe - Ai Prompt Starter Pack |  | :grey_question: |                
 | [Promptextend](http://www.promptextend.com) | Promptextend - Extend/Generate Ai Art Prompts For Midjourney |  | :grey_question: |                
 | [Prompthunt](http://www.prompthunt.com) | Prompt Hunt - Your Home For Exploring, Creating, And Sharing Ai Art | Create, explore, and share AI art using DALL·E, Stable Diffusion, and Midjourney | :grey_question: |                
-| [Promptmakr](http://promptmakr.com) | Promptmakr |  | :grey_question: |                
 | [Promptomania](http://promptomania.com) | Promptomania: Ai Art Community With Prompt Generator |  | :grey_question: |                
 | [Proposal Genie](http://chrome.google.com) | Google Chrome - Download The Fast, Secure Browser From Google |  | :grey_question: |                
-| [Quasi](http://quasi.market) | Quasi Market | Quasi Market - The First Ever AI Marketplace | :grey_question: |                
 | [QueryGenie](http://sqlgenie-co.web.app) | Querygenie |  | :grey_question: |                
 | [Question Base](http://www.questionbase.com) | Scale Knowledge | Question Base is a new kind of knowledge base. Powered by AI it answers your teamâs questions inside Slack. Automatically | :grey_question: |                
 | [Quillbot Paraphraser](http://quillbot.com) |  |  | :grey_question: |                
@@ -707,7 +727,6 @@
 | [Rationale](http://rationale.jina.ai) | Rationale - A Revolutionary Decision-Making Tool Powered By The Latest Gpt And In-Context Learning |  | :grey_question: |                
 | [Raw Query](http://rawquery.com) | Raw Query |  | :grey_question: |                
 | [Rayst Gradients](http://gradients.ray.st) | Rayst Gradients | A Collection of 64 Beautiful Gradients Generated by AI | :grey_question: |                
-| [Re.Art AI Image Generator](http://reart.devvinay.in) | Reart.Devvinay.In - 524: A Timeout Occurred |  | :grey_question: |                
 | [ReContent.AI](http://recontent.ai/) | Recontent.Ai |  | :grey_question: |                
 | [Recommendme](http://www.recommendme.to) | Recommendme |  | :grey_question: |                
 | [Redacta.me](http://www.redacta.me) | Redacta.Me - Tu Community Manager Virtual |  | :grey_question: |                
@@ -732,42 +751,32 @@
 | [Rizz!](http://rizzai.com) | Rizz! Keyboard |  | :grey_question: |                
 | [Roamr](http://www.letsroam.app) | Roamr - Your Dream Vacation In Seconds |  | :grey_question: |                
 | [Rocket Mode](http://Mark Copy) |  |  | :grey_question: |                
-| [Roll Art Die](http://www.roll-art-die.com) | Rollartdie | Run locally, no subscriptions, or active internet connection required | :grey_question: |                
-| [Rosebud](http://www.rosebud.ai) | Rosebud |  | :grey_question: |                
-| [RunDiffusion](http://rundiffusion.com) | Rundiffusion - Stable Diffusion Workspace In 3 Minutes | No code to fiddle with, nothing to install. Get a private Stable Diffusion workspace in very little time. Start creating AI Generated art in a little as 3 minutes | :grey_question: |                
-| [Runway](http://runwayml.com) | Runway - Next-Generation Creation Suite - Everything You Need To Make Content, Fast | Discover advanced video editing capabilities to take your creations to the next level | :grey_question: |                
+| [Runway](http://runwayml.com) | Runway - Next-Generation Creation Suite - Everything You Need To Make Content, Fast | Discover advanced video editing capabilities to take your creations to the next level | :white_check_mark: |                
 | [Rythmex](http://rythmex.com) | Convert Audio To Text With Rythmex Converter |  | :grey_question: |                
 | [Rytr](http://rytr.me) | Rytr - Best Ai Writer, Content Generator & Writing Assistant |  | :grey_question: |                
 | [SQLgenius](http://sqlgenius.app) | Sql Genius - English To Sql Query Ai Translator |  | :grey_question: |                
 | [SUPERMACHINE](http://supermachine.art) | Supermachine - Generate Stock Photos, Art, And Images With Ai | SUPERMACHINE enables you to generate images with the latest in artificial intelligence technology | :grey_question: |                
 | [SafeSpelling](http://safespelling.com) | Safespelling - Write Without Mistakes |  | :grey_question: |                
 | [SaleWhale](http://salewhale.chat) | Sale Whale - Ai-Powered Sales Rep Chatbot |  | :grey_question: |                
-| [Scale Catalog Forge](http://scale.com) | Scale Ai: The Data Platform For Ai | Trusted by world class companies, Scale delivers high quality training data for AI applications such as self-driving cars, mapping, AR/VR, robotics, and more | :grey_question: |                
+| [Scale Catalog Forge](http://scale.com) | Scale Ai: The Data Platform For Ai | Trusted by world class companies, Scale delivers high quality training data for AI applications such as self-driving cars, mapping, AR/VR, robotics, and more | :x: |                
 | [Scene One](http://sceneone.app) | Online Book Writing App For Novels, Short Stories, And Business | Write more stories with our intuitive writing app and spend less time learning complicated features | :grey_question: |                
-| [Scholarcy](http://www.scholarcy.com) | Online Summarizing Tool - Flashcard Generator & Summarizer - Scholarcy | Scholarcy™ is an online summarizing tool that generates and converts long articles into summary flashcards. Sign up free & start summarizing | :white_check_mark: |                
 | [Scispace](http://typeset.io) | Scispace By Typeset - Discover, Create, Publish, And Promote Your Research Paper | Your platform to explore and explain papers. Search for 270M+ papers, understand them in simple language, and find connected papers, authors, topics | :grey_question: |                
 | [Scribe](http://vienna.earth) |  |  | :grey_question: |                
 | [Scribebuddy](http://secure.scribebuddy.com) |  |  | :grey_question: |                
-| [Scum](http://scum.co) | Fresh /// Piratediffusion |  | :grey_question: |                
-| [Seek art](http://seek.art) | Seek.Art |  | :grey_question: |                
 | [Shootyourshot](http://shootyourshot.ai) |  |  | :grey_question: |                
-| [Short Description Image Generator](http://textgeneratedimagegenerate.streamlit.app) |  |  | :grey_question: |                
-| [Silly Times](http://www.elbo.ai) | A Simple Drawing App Using Ai | Have a fun time drawing and see what silly thing we make from your drawing.  Magic is just button press away! | :grey_question: |                
 | [Simplified](http://simplified.com) | Simplified: An Easy To Use All-In-One App For Modern Marketing Teams | Design, Write, Edit videos, and Publish Content. Built For Teams | :grey_question: |                
-| [Simulai](http://www.simulai.co) | Simulai: Machine Generated Art And Stock Photos | machine generated art and stock photos | :grey_question: |                
+| [Simulai](http://www.simulai.co) | Provide The Idea For Your Image. Let Ai Do The Rest | The highest quality machine generated art and stock photos. You provide an idea for your image, our machines work as hard as they can to create your picture | :white_check_mark: |                
 | [Sitekick](http://www.sitekick.ai) | Ai Landing Page Builder |  | :grey_question: |                
-| [SlashDreamer](http://slashdreamer.com) | Ai Generated Images In Notion | Integration Stable Diffusion in Notion to ai generate images with a new slash command | :grey_question: |                
+| [SlashDreamer](http://slashdreamer.com) | Notion + Stable Diffusion = A Dream Come True | Integration Stable Diffusion in Notion to ai generate images with a new slash command | :x: |                
 | [Slogan Generator](http://aiseo.ai) | Aiseo - Ai Writing Assistant, Ai Copywriting & Content Generator |  | :grey_question: |                
 | [Smart Copy Everywhere](http://unbounce.com) | Unbounce - The Landing Page Builder & Platform |  | :grey_question: |                
 | [SmartScribe](http://www.smartscribe.app) | Smartscribe - Ai Writing Assistant - Writing Made Easy | SmartScribe helps solve the complexities of writing through the use of Artificial Intelligence | :grey_question: |                
 | [Snackable AI](http://snackable.ai) | Snackable |  | :grey_question: |                
 | [Snipd Podcast Summaries](http://www.snipd.com) | Unlock The Knowledge In Podcasts - Snipd |  | :grey_question: |                
-| [Snowpixel](http://snowpixel.app) | Snowpixel - Ai For Content Creators | Experience a new way to create content with the power of Machine Learning. Create and Edit Content using only words | :grey_question: |                
 | [Solidpoint](http://www.solidpoint.ai) | Solidpoint |  | :grey_question: |                
 | [Song Sketch](http://www.songsketchai.com) | Songsketch |  | :grey_question: |                
 | [Songmastr](http://www.songmastr.com) | Songmastr - Automatic Song Mastering To Reference |  | :white_check_mark: |                
 | [Songtell](http://www.songtell.com) | Songtell - Your Song Meaning Teller |  | :grey_question: |                
-| [Soreal.AI Studio](http://www.soreal.ai) | Soreal - Ai Studio - Cloud Hosted Stable Diffusion 1.5 & Dreambooth Studio |  | :grey_question: |                
 | [Soundful](http://soundful.com) | Empowering The World To Create Music - Soundful | Soundful empowers creators to generate royalty free tracks at the click of a button. The quality of Soundful music is so rich, you won’t believe it was made with AI | :grey_question: |                
 | [Soundraw](http://soundraw.io) | Ai Music Generator - Soundraw |  | :grey_question: |                
 | [Speech Studio](http://speech.microsoft.com) | Speech Studio - Microsoft Azure |  | :grey_question: |                
@@ -776,13 +785,9 @@
 | [Speechify](http://speechify.com) |  |  | :grey_question: |                
 | [Spellbook](http://www.spellbook.legal) | Spellbook - Ai Contract Drafting & Review |  | :grey_question: |                
 | [Splash](http://www.splashmusic.com) | Splash - Bringing The Joy Of Music Making To Everyone |  | :grey_question: |                
-| [SplashAI](http://www.splashai.art) |  |  | :grey_question: |                
+| [SplashAI](http://www.splashai.art) | Splashai Is A Figma Plugin, Search Engine And Ai Image Generator |  | :grey_question: |                
 | [Squish](http://chrome.google.com) | Google Chrome - Download The Fast, Secure Browser From Google |  | :grey_question: |                
-| [Stable Diffusion](http://stability.ai) | Stability Ai | AI for Humanity. Stability AI is a solution studio dedicated to innovating ideas. By using collective intelligence principles and augmented technology we design and implement feasible solutions to seemingly intractable problems | :grey_question: |                
 | [Stable Diffusion Prompt Generator](http://www.thomas.io) | Thomas.Io |  | :grey_question: |                
-| [Stable UI](http://aqualxx.github.io) | Site Not Found · Github Pages | There isn't a GitHub Pages site here | :grey_question: |                
-| [StableCog](http://stablecog.com) | Stablecog | Free, easy to use, multilingual and open-source AI image generator using Stable Diffusion | :white_check_mark: |                
-| [Stableboost](http://stableboost.ai) | Stableboost |  | :grey_question: |                
 | [Stabledojo](http://www.stabledojo.com) | Stabledojo |  | :grey_question: |                
 | [Staccato](http://staccato.ai) | Staccato - The Artificially Intelligent Music & Lyrics Co-Writer |  | :grey_question: |                
 | [Starryai](http://starryai.com) | Starryai - Ai Art Generator App - Ai Art Maker | Simply enter a prompt and our AI transforms your words into works of art | :grey_question: |                
@@ -920,7 +925,6 @@
 | [Yepic AI](http://www.yepic.ai) | Your Ai Video Toolkit  - Create, Dub & Personalise Videos | Create, Dub and Personalise Videos Anywhere | :grey_question: |                
 | [You](http://you.com) | The Ai Search Engine You Control |  | :grey_question: |                
 | [Yourface](http://yourface.app) |  |  | :grey_question: |                
-| [Zazow](http://www.zazow.com) | Zazow :: Algorithmic Generative Art | Create your own artwork by using computer generated algorithms. Learn about generative or algorithmic art | :grey_question: |                
 | [ai2sql](http://www.ai2sql.io) | Sql Query Builder - Sql Query Builder Ai Bot | With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL. It's time to take back your time! | :white_check_mark: |                
 | [bigmp4](http://bigmp4.com) | Ai Video Enhancement, Using 2022 Cutting Edged Ai Model To Lossless Enlarge Video, Enhance Video |  | :grey_question: |                
 | [breachless](http://https://breachless.ai/) |  |  | :grey_question: |                
