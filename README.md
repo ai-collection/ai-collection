@@ -1,8 +1,8 @@
 <div align="center">
     <h1>ai-collection</h1>
-    <i>A collection of awesome AI projects</i>
+    <i>A Collection of Awesome AI Applications</i>
     <br />
-    <i>An effort to increase visibility and reach for the awesome AI projects out there</i>
+    <i>An effort to increase visibility and reach for the awesome generative AI applications out there</i>
     <br />    
 </div>
 
