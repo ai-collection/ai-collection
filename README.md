@@ -12,7 +12,7 @@
     <sup>Status</sup>
     <br />
     <a href="https://github.com/public-apis/public-apis">
-        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=847" />
+        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=848" />
     </a>
 </div>
 
@@ -41,6 +41,7 @@
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Code Reviewer](http://code-reviewer.vercel.app) | AI Code Reviewer | Automatic code review by AI | :grey_question: |                
+| [Adrenaline](https://useadrenaline.com/) | Stop plugging your errors into StackOverflow | Adrenaline is a debugging assistant powered by the OpenAI Codex. It can fix and explain your broken code in seconds | :white_check_mark: |                
 | [Ask Command](http://askcommand.com) | Ask Command — AI-powered Developer Assistant | A tiny app to remind you about those commands you always forget. Powered by AI | :grey_question: |                
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist) | CodeAssist is an AI assistant / chatbot / copilot for programming - JetBrains Marketplace | It generates, changes, completes the code and answers questions | :grey_question: |                
 | [CodeGPT](http://www.codegpt.co/) | AI inside your IDE | Improve your code with Code GPT AI | :white_check_mark: |                
