@@ -229,6 +229,7 @@
 | [Excelformulabot](http://excelformulabot.com) | Excel & Google Sheets AI Formula Generator - Excelformulabot.com | Transform your text instructions into Excel & Google Sheets formulas in seconds with the help of AI | :grey_question: |                
 | [Excuses AI](http://excuses.ai) | Excuse Generator | Use AI to generate the perfect professional excuse | :grey_question: |                
 | [Explainpaper](http://www.explainpaper.com) | Explainpaper |  | :grey_question: |                
+| [Filechat](https://www.filechat.io/) | Explore documents using artificial intelligence | Filechat is the perfect tool to explore documents using artificial intelligence. Simply upload your PDF and start asking questions to your personalized chatbot | :white_check_mark: |                
 | [Formula Dog](http://formula.dog) | Generate Excel Formulas and more using AI - Formula Dog | Transform your text instructions into Excel formulas, VBA, Regex etc. in seconds with the help of AI | :grey_question: |                
 | [Formulagod](http://www.formulagod.ai) | One formula to rule them all | Talk to sheets with built-in artificial intelligence | :grey_question: |                
 | [GPT ChatBot](http://chatbotgpt3.bubbleapps.io) | The best way to build web apps without code | Bubble introduces a new way to build a web application. Itâs a no-code tool that lets you build SaaS platforms, marketplaces and CRMs without code. Bubble hosts all applications on its cloud platform | :grey_question: |                
@@ -662,7 +663,6 @@
 | [Pixelz AI](http://pixelz.ai) | Pixelz AI Art Generator | Create unique AI artwork using text, phrases, images & presets, share, download, print & mint as NFTs | :grey_question: |                
 | [Play.ht](http://play.ht) | AI Voice Generator & Realistic Text to Speech Online - Play.ht | Generate realistic Text to Speech (TTS) audio using our online AI Voice Generator and the best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files | :grey_question: |                
 | [Playground](http://playgroundai.com) | Free AI image generator: Art, Social Media, Marketing - Playground AI | Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more | :white_check_mark: |                
-| [Playground](http://OpenAI) |  |  | :grey_question: |                
 | [Podcast.ai](http://podcast.ai) | podcast.ai |  | :grey_question: |                
 | [Poised 2.0](http://www.poised.com) | Poised - Free AI-Powered Communication Coach |  | :white_check_mark: |                
 | [Pollinations](http://pollinations.ai) | Pollinations.AI |  | :grey_question: |                
@@ -863,6 +863,7 @@
 | [Userevaluation](http://www.userevaluation.com) | User Evaluation â The Customer Understanding Platform | Whether you're focused on UI, UX Research, Design, or CX â User Evaluation's AI can answer all your questions | :white_check_mark: |                
 | [Userpersona](http://userpersona.dev) | User Persona - AI-Generated User Personas |  | :grey_question: |                
 | [VERBATIK](http://verbatik.com) | Verbatik - Text to Speech | Generate Realistic Text to Speech (TTS) audio using online AI Voice Generator and best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files | :grey_question: |                
+| [Vacay](https://www.vacay.club/chatbot) | Vacation Chat Agent | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions | :white_check_mark: |                
 | [Validator AI](http://www.validatorai.com) | ValidatorAI.com – Instant help and feedback with our startup validator tools for entrepreneurs |  | :grey_question: |                
 | [Vee](http://vee.ai) | Vee – Inteligentna konsultantka |  | :grey_question: |                
 | [Versational](http://www.versational.ai) | Versational for Remote Teams | Versational maximizes the value said in every conversation. Get AI conversation results for free. Versational transcribes, summarizes, automates data entry, extracts takeaways, lets you share clips, and shows ways to improve your conversations | :white_check_mark: |                
