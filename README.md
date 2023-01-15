@@ -34,6 +34,7 @@
 * [Gaming](#gaming)
 * [Image](#image)
 * [Legal](#legal)
+* [Music](#music)
 * [Speech](#speech)
 * [Text](#text)
 * [Text To Speech](#text-to-speech)
