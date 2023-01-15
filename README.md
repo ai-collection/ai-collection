@@ -936,6 +936,9 @@
 | [springworks](http://www.springworks.in) | Hr Software Solutions For Growing Businesses. | Springworks builds human resources software solutions to solve challenges in recruitment, background verification & employee engagement with Blockchain and AI. | :white_check_mark: |
 | [xpression camera 2.0](http://xpressioncamera.com) | Xpression Camera. | Become anyone on Zoom, Twitch, or any streaming video. | :grey_question: |
 | [Cuetap.com](https://cuetap.com/) | AI & CI powred Sales Battlecards | AI-powered platform provides automagical Battlecards and actionable Competitive Intelligence | :white_check_mark: |
+| [mara-solutions](https://www.mara-solutions.com/) | Personal AI Review Reply Assistant | . | :grey_question: |
+| [Interview Warmup]([https://www.mara-solutions.com/](https://grow.google/certificates/interview-warmup/)) | AI Assistant that helps you prepare to your work interview| . | :white_check_mark: |
+
 
 **[⬆ Back to Index](#index)**
 
