@@ -82,7 +82,7 @@ No technical skills or software download required.</p>
 | [CodeWP](http://codewp.ai) | Codewp - Ai Wordpress Code Generator & Assistant. | CodeWP is a WordPress code generator that uses AI and specialized models for WordPress, Woo and others to help you build better & quicker. | :grey_question: |
 | [Codeball](http://codeball.ai) | Codeball Â Ai Powered Code Review. | Codeball finds bugs in your Pull Requests, lets you ship faster and with higher confidence. | :grey_question: |
 | [Codecleaningbot](http://www.codecleaningbot.com) | Code Cleaning Bot. | Code Cleaning AI Bot fixes common code quality and security issues. Like: deleting unused and unreachable code, fix SQL injection, etc. | :grey_question: |
-| [Codeium](http://www.codeium.com) | Codeium. | The modern coding superpower. | :grey_question: |
+| [Codeium](http://www.codeium.com) | Codeium - The modern coding superpower | Fast AI-based code acceleration and free alternative to Github Copilot. | :white_check_mark: |
 | [Datamaker](http://www.datamaker.dev) | Ai Powered Webflow Code & Copy Tools For Designers. | If you are a Webflow Designer or Webflow Developer then you need to see these tools. Use AI to create code and copy to solve your Webflow problems. | :grey_question: |
 | [Explain An Error](http://explain.whybug.com) | Explain By Whybug. | Let AI explain to you why your code is buggy and how to fix it. | :grey_question: |
 | [ExplainDev](http://explain.dev) | Explaindev - Code Explainer That Answers Your Questions In Context. | ExplainDev helps you to be more confident and independent with others' code. Get code explanations and direct answers to your questions via Chrome and VS Code extensions powered by AI. | :grey_question: |
