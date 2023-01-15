@@ -935,6 +935,7 @@
 | [rankode](http://www.rankode.ai) | Ai For Human Resources - Rankode. | Recruiters, everything you need to know about a candidate's programming skills is in their GitHub. Evaluate them automatically with Rankode to avoid expensive hiring mistakes and superboost your retention. | :grey_question: |
 | [springworks](http://www.springworks.in) | Hr Software Solutions For Growing Businesses. | Springworks builds human resources software solutions to solve challenges in recruitment, background verification & employee engagement with Blockchain and AI. | :white_check_mark: |
 | [xpression camera 2.0](http://xpressioncamera.com) | Xpression Camera. | Become anyone on Zoom, Twitch, or any streaming video. | :grey_question: |
+| [Cuetap.com](https://cuetap.com/) | AI & CI powred Sales Battlecards | AI-powered platform provides automagical Battlecards and actionable Competitive Intelligence | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
 
