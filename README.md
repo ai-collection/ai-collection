@@ -12,7 +12,7 @@
     <sup>Status</sup>
     <br />
     <a href="https://github.com/public-apis/public-apis">
-        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=850" />
+        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=847" />
     </a>
 </div>
 
@@ -27,8 +27,9 @@
 
 ## Index
 
-* [Architecture & Interior Design](#Architecture--interior-design)
-* [Code](#code)
+* [Architecture & Interior Design](#architecture--interior-design)
+* [Code & Database Assistant](#code--database-assistant)
+* [Content Generation & SEO](#content-generation--seo)
 * [Gaming](#gaming)
 * [Image](#image)
 * [Speech](#speech)
@@ -48,12 +49,13 @@
 
 **[⬆ Back to Index](#index)**
 
-### Code
+### Code & Database Assistant
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Code Reviewer](http://code-reviewer.vercel.app) | Ai Code Reviewer | Automatic code review by AI | :grey_question: |                
 | [Adrenaline](https://useadrenaline.com/) | Stop Plugging Your Errors Into Stackoverflow | Adrenaline is a debugging assistant powered by the OpenAI Codex. It can fix and explain your broken code in seconds | :white_check_mark: |                
 | [Ask Command](http://askcommand.com) | Ask Command — Ai-Powered Developer Assistant | A tiny app to remind you about those commands you always forget. Powered by AI | :grey_question: |                
+| [Channel](http://www.usechannel.com) | Channel | Connect your database, ask a question, get an answer | :grey_question: |                
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist) | Codeassist Is An Ai Assistant / Chatbot / Copilot For Programming - Jetbrains Marketplace | It generates, changes, completes the code and answers questions | :grey_question: |                
 | [CodeGPT](http://www.codegpt.co/) | Ai Inside Your Ide | Improve your code with Code GPT AI | :white_check_mark: |                
 | [CodeWP](http://codewp.ai) | Codewp - Ai Wordpress Code Generator & Assistant | CodeWP is a WordPress code generator that uses AI and specialized models for WordPress, Woo and others to help you build better & quicker | :grey_question: |                
@@ -67,11 +69,41 @@
 | [Github Copilot](http://github.com/features/copilot) | Your Ai Pair Programmer | GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor | :grey_question: |                
 | [Mutable.ai](http://mutable.ai) | Mutableai. Ai Accelerated Software Development | Build fast with production quality using AI | :grey_question: |                
 | [Programminghelper](http://www.programming-helper.com) | Home | Generate code with AI just by typing a text description. AI will create the code for you. A tool that helps you with a wide range of tasks. All in one place | :grey_question: |                
+| [QueryGenie](http://sqlgenie-co.web.app) | Write Db Queries Faster! | Generate database queries from plain-english description using AI | :grey_question: |                
 | [TLDR - Jetbrains IDE Plugin](http://tldrdev.ai) | Tldr – Explain Code In Plain English | TLDR is an IDE plugin that leverages AI to explain code in plain english | :grey_question: |                
 | [Tabnine](http://www.tabnine.com) | Ai Assistant For Software Developers - Tabnine | Whether you’re part of a team, or a developer working on your own, Tabnine will help you write code faster – all in your favorite IDE | :grey_question: |                
 | [Tensai](http://airtable.com/shrhYf24UkDMr2gPl) | Tensai - Conversational Ui For Your Codebase |  | :white_check_mark: |                
 | [Whatthediff](http://whatthediff.ai) | What-The-Diff – Ai-Powered Code Review Assistant | The AI powered GitHub app that explains the changes within your pull requests in plain english | :grey_question: |                
 | [aidev.codes](https://aidev.codes/) | Ai Dev Codes For You | Create simple apps and demos just by entering specifications — a new type of AI prompt engineering | :white_check_mark: |                
+
+**[⬆ Back to Index](#index)**
+
+### Content Generation & Seo
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [ArticleForge](http://www.articleforge.com) | High Quality, Ai Content Generator - Article Forge | Using advanced artificial intelligence and deep learning, Article Forge writes completely unique, SEO optimized, high-quality, long form articles with the click of a button | :white_check_mark: |                
+| [Content brief generator](http://www.dashword.com) | Seo Content Optimization Software - Dashword | Dashword is the #1 content optimization software for SEO teams. Create relevant content for your readers and grow your organic traffic | :grey_question: |                
+| [Contentedge](http://www.contentedge.com) | Advanced Ai Content Generation & Seo Copywriting Software | Skip the creative burnout and generate high-ranking content in as little as 15 seconds | :white_check_mark: |                
+| [CopyMonkey](http://copymonkey.ai) | Your Ai-Powered Amazon Listing Optimization Expert | CopyMonkey generates and optimizes Amazon listings in seconds. AI helps place all of the important keywords in your Amazon listing to get you ranking organically on the first page | :white_check_mark: |                
+| [Ctrify](http://www.ctrify.com) | First Ai-Powered Seo Action Platform | Create websites that rank on Google by just giving one keyword to our Artificial Intelligence | :grey_question: |                
+| [Embolden](http://embolden.co) | Use Ai To Power Your Ecommerce Writing | Embolden uses AI to help you write everything from emails to product descriptions for your ecommerce business | :white_check_mark: |                
+| [Enwrite](http://enwrite.co) | The Ai Tool That Aims To Help Writers Save Time - Not Replace Them | An AI helper specialized in SEO-optimized content creation. Enwrite helps you write better content faster | :white_check_mark: |                
+| [Frase.io](http://www.frase.io) | Frase - Best Seo Content Optimization Tool & Ai Writer | Frase AI helps you research, write, and optimize high-quality SEO content in minutes instead of hours | :x: |                
+| [H-supertools AI Writer](https://h-supertools.com/ai/ai-writer) | Ai Writer: Generate Content For Free! | Generate Blog Sections & Paragraphs in Seconds With This Powerful Free AI Writer | :white_check_mark: |                
+| [Hypotenuse.ai](http://www.hypotenuse.ai) | Let Ai Write Your Content In Seconds. Without Writer’S Block | Provide a few keywords, and we’ll instantly turn them into full-length articles and marketing content, using our world-class AI with a vast knowledge of the world | :white_check_mark: |                
+| [Intelligent paraphraser](http://aiseo.ai) | Aiseo - Ai Writing Assistant, Ai Copywriting & Content Generator | Get writing superpowers with artificial intelligence. We at AISEO will help you convert your thoughts to blogs and can write for you at the click of a button | :white_check_mark: |                
+| [Kafkai](http://kafkai.com) | Unique And Readable Ai Content Generator | Kafkai is an AI Writer Assistant that helps you create unique SEO-friendly articles for cents instead of dollars | :x: |                
+| [Katteb](http://katteb.com) | Write Fact-Checked Content | Katteb AI makes it fast & easy to create content for your blog and online store | :white_check_mark: |                
+| [Lek](http://lek.ai) | Lek.Ai - The Ultimate Content Creator Toolkit Powered By Ai | Write Anything For Everything. The fastest and easiest way to create content and copy | :white_check_mark: |                
+| [Lex](http://lex.page) | Unlock Your Best Writing |  | :grey_question: |                
+| [LongShot AI](http://www.longshot.ai) | Create Content That Humans And Search Engines Love Using Artificial Intelligence | LongShot is an AI writing assistant that helps you go from idea to SEO content in minutes. Use creative power of AI with features like real time content, fact check, semantic SEO, custom AI, & more! | :x: |                
+| [Quattr](https://www.quattr.com/) | Quattr Is Your Growth Hq | The enterprise SEO platform built with powerful AI and GSC data as the foundation | :x: |                
+| [Typli](http://typli.ai) | Typli.Ai - Ai Writer & Seo Writing Assistant | The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant | :white_check_mark: |                
+| [WordHero](http://wordhero.co) | Generate Ai-Powered Content - In 1 Click | With WordHero's AI technology, you can create original blog posts, social media content, emails, and more - in just seconds | :x: |                
+| [Wordkraft](http://wordkraft.ai) | Create High-Quality Content Instantly With Ai | Wordkraft AI content writer is a revolutionary tool Powered by GPT-3 the most advance artificial intelligence technology to generate well-written, keyword-optimized content for your blog, website or marketing needs | :white_check_mark: |                
+| [Wordplay](http://wordplay.ai) | Create Long-Form Content In Seconds | The #1 AI content generator built for SEO & content publishers | :white_check_mark: |                
+| [Writesonic](http://writesonic.com) | Writesonic - Best Ai Writer, Copywriting & Paraphrasing Tool | Create SEO-optimized and plagiarism-free contentfor your blogs, ads, emails, and website 10X faster | :white_check_mark: |                
+| [Writey AI](http://writey.ai) | Yes — An A.I That Writes Original, Researched Blog Posts In Minutes | First true free plagiarism A.I with original and researched content, check Writey A.I in action | :white_check_mark: |                
 
 **[⬆ Back to Index](#index)**
 
@@ -266,7 +298,6 @@
 | [ChatGPT Writer](http://chatgptwriter.ai) |  |  | :grey_question: |                
 | [Childbook](http://www.childbook.ai) | Welcome To Children'S Book Creator! | Your book will be personalized with characters, pictures and story. The story and illustrations also have a text-to-speech feature and can be listened to | :grey_question: |                
 | [Clickable](http://www.clickable.so) | Generate Ads In Seconds With Ai | Beautiful, brand-consistent, and highly converting ads for all marketing channels. No design experience needed | :grey_question: |                
-| [Content brief generator](http://www.dashword.com) | Seo Content Optimization Software - Dashword | Dashword is the #1 content optimization software for SEO teams. Create relevant content for your readers and grow your organic traffic | :grey_question: |                
 | [Cover Letter AI](http://coverletter-ai.com) | Cover Letter Ai | The ultimate tool for crafting the perfect cover letter | :grey_question: |                
 | [Cover Letter Kit](http://coverletterkit.com) | Cover Letter Kit - Ai-Powered Custom Cover Letters In Minutes | Write your cover letter and prepare for your interview with help from AI! Land your dream job with a professional, custom-made, and effective cover letter kit | :grey_question: |                
 | [Coverletterwrite](http://coverletterwrite.com) | Cover Letter Write | Ask AI to write a personalized cover letter | :grey_question: |                
@@ -290,7 +321,6 @@
 | [GoalsGPT](http://www.tability.io) | Tability - Get Your Goals Out Of Spreadsheets | The easiest way to keep track of your OKRs and team goals. Align your team around outcomes â without feeling like a chore | :grey_question: |                
 | [Goatchat](http://goatchat.ai) | Goatchat Ai - Avatar Chatgpt | Did you ever want to ask Napoleon or Einstein a few questions? Well, now you have a chance | :grey_question: |                
 | [God In A Box](http://godinabox.co) | God In A Box - Gpt-3.5 On Whatsapp | Use ChatGPT/GPT-3 on Whatsapp with our friendly bot. Always updated to the latest model and priced affordably. We are the first ever paid ChatGPT on Whatsapp service | :grey_question: |                
-| [H-supertools AI Writer](https://h-supertools.com/ai/ai-writer) | Ai Writer: Generate Content For Free! | Generate Blog Sections & Paragraphs in Seconds With This Powerful Free AI Writer | :white_check_mark: |                
 | [Hello History](http://www.hellohistory.ai) | Hello History - Chat With Ai Generated Historical Figures | With the help of modern AI & machine learning weâve brought historical figures back to life. Now is your chance to ask the questions youâve always wanted to ask | :grey_question: |                
 | [Historical Figures Chat](http://iOS) |  |  | :grey_question: |                
 | [Hoppy Copy](http://www.hoppycopy.co) | Hoppy Copy: Ai Email Marketing Copywriting Platform | Save countless hours writing. Use AI to generate powerful copy for hundreds of different email marketing campaigns, drips, newsletters and more—in seconds ⚡ | :grey_question: |                
@@ -310,7 +340,6 @@
 | [Politepost](http://www.politepost.net) | Rewriting Your Emails With Ai To Be Professional | Make sure your emails are professional and suitable for the workplace. Write your draft with all your slang and expletives, and our AI bot will rewrite and clean up the text | :grey_question: |                
 | [Promptmakr](http://promptmakr.com) | The Platform For Prompt Engineers To Generate And Share Unlimited Ai Art Prompts For Free |  | :white_check_mark: |                
 | [Proposalgenie](http://www.proposalgenie.ai) | Proposal Genie | Write the Perfect Upwork proposal in seconds | :grey_question: |                
-| [Quattr](https://www.quattr.com/) | Quattr Is Your Growth Hq | The enterprise SEO platform built with powerful AI and GSC data as the foundation | :x: |                
 | [Quicklines](http://www.quicklines.ai) | Quicklines Lifetime Access - Only $59 | Quicklines is your new AI powered cold outreach assistant. We help you scale your cold email campaigns with our in-depth social scraping and natural language first-line writing platform | :grey_question: |                
 | [Rapidreply](http://rapidreply.ai) | Rapid Reply - Ai Email Assistant | Save 30 minutes a day writing emails | :grey_question: |                
 | [Recruiting Emails AI by Dover](http://recruitingemails.ai) | Dover - Generate Customized Recruiting Emails |  | :grey_question: |                
@@ -410,9 +439,7 @@
 | [Aragon](http://www.aragon.ai) | Aragon | Create stunning art & images 10X faster with AI | :grey_question: |                
 | [ArtBot.ai](http://artbot.ai) | Artbot.Ai - Let Ai Create Your Perfect Halloween Art |  | :grey_question: |                
 | [Artflow](http://artflow.ai) | Artflow |  | :grey_question: |                
-| [Article Rewriter](http://aiseo.ai) | Aiseo - Ai Writing Assistant, Ai Copywriting & Content Generator |  | :grey_question: |                
 | [Article.Audio](http://article.audio) | Article Audio - Convert Articles In Audio | Powered by Thundercontent ⚡️ | :grey_question: |                
-| [ArticleForge](http://www.articleforge.com) | High Quality, Ai Content Generator - Article Forge | Using advanced artificial intelligence and deep learning, Article Forge writes completely unique, SEO optimized, high-quality, long form articles with the click of a button | :grey_question: |                
 | [Artreviewgenerator](http://artreviewgenerator.com) | Art Review Generator | A natural language processing tool and text generator. It takes a set of words as a prompt and then generates a medium length set of sentences that approximate the training data | :grey_question: |                
 | [Artroom](http://artroom.ai) | Artroom Ai |  | :grey_question: |                
 | [Ask Poppy](http://www.poppylist.com) | Poppylist - Be The Parent You Want To Be | You know your lifestyle. We know the products. Let's build your baby registry together | :grey_question: |                
@@ -451,7 +478,6 @@
 | [CFRexplorer](http://cfrexplorer.com) | Cfr Explorer - Ask Ai Questions About Cfrs |  | :grey_question: |                
 | [Cacideas](http://www.cacideas.com) |  |  | :grey_question: |                
 | [Caktus](http://www.caktus.ai) | Caktus Ai |  | :grey_question: |                
-| [Channel](http://www.usechannel.com) | Channel | Connect your database, ask a question, get an answer | :grey_question: |                
 | [Chapterme](http://chapterme.co) | Chapterme - Ai Powered Chapters For Your Videos |  | :grey_question: |                
 | [CharacterAI](http://beta.character.ai) |  |  | :grey_question: |                
 | [Chat-example](http://chat-example.langa.me) | Chat-Example |  | :grey_question: |                
@@ -462,12 +488,10 @@
 | [Cogram](http://www.cogram.com) | Cogram - Effortless Meeting Notes And Action Items | Cogram uses artificial intelligence to create high-quality meeting minutes and propose action items | :grey_question: |                
 | [Colossyan](http://www.colossyan.com) | Colossyan Creator | Colossyan Creator makes video creation simple and stress-free. Discover our AI video creator with real actors. Create videos in less than 5 minutes | :white_check_mark: |                
 | [Compose AI](http://www.compose.ai) | Compose Ai: Automate Your Writing |  | :white_check_mark: |                
-| [Contentedge](http://www.contentedge.com) |  |  | :grey_question: |                
 | [Context Search](http://addcontext.xyz) | Context - Ai-Powered Audio & Video Chatbots |  | :grey_question: |                
 | [CoolGiftIdeas](http://www.coolgiftideas.io) | Cool Gift Ideas - Ai-Powered Gift Suggestions |  | :grey_question: |                
 | [Coolaiid](http://coolaiid.com) | Coolaiid | Whether you're looking to decorate or just need a little inspiration, we'll generate unique ideas using AI | :grey_question: |                
 | [Copy.ai](http://www.copy.ai) | Write Better Marketing Copy And Content With Ai | Get your free account today | :white_check_mark: |                
-| [CopyMonkey](http://copymonkey.ai) | Create Optimized Amazon Listing In Seconds - Copymonkey |  | :grey_question: |                
 | [CopyScouts](http://copyscouts.com) | Copyscouts - Sustainable Ai-Assisted Copywriting Tool | Use unlimited GPT-3 based AI writing for a fixed monthly price | :grey_question: |                
 | [Copymatic](http://copymatic.ai) |  |  | :grey_question: |                
 | [Coqui](http://coqui.ai) | Coqui | Direct emotive, generative AI voices for video games, post-production, dubbing and much more… | :grey_question: |                
@@ -476,7 +500,6 @@
 | [Craiyon](http://www.craiyon.com) | Craiyon, Formerly Dall-E Mini | Craiyon is an AI model that can draw images from any text prompt! | :grey_question: |                
 | [Createaivoiceovers](http://createaivoiceovers.com) | Text To Speech Online Voice Generator, Text To Speech Generator - Realistic Voices - Create Ai Voice Overs |  | :grey_question: |                
 | [Creator AI](http://www.creaitor.ai) | Creaitor.Ai - The #1 Ai Writing Tool |  | :grey_question: |                
-| [Ctrify](http://www.ctrify.com) | Ctrify - The Ai Seo Tool |  | :grey_question: |                
 | [D-ID](http://www.d-id.com) |  |  | :grey_question: |                
 | [D-ID's Creative Reality Studio](http://studio.d-id.com) | D-Id Creative Reality Studio |  | :grey_question: |                
 | [DREAM.page](http://dream.page) |  |  | :grey_question: |                
@@ -518,9 +541,7 @@
 | [Elf Help](http://www.elfhelp.ai) | Elf Help | Need some inspo for your holiday gifting? Elf help is your ultimate gift-giving assistant, offering creative and personalized suggestions for everyone on your list | :grey_question: |                
 | [ElfMessages](http://elfmessages.com) |  |  | :grey_question: |                
 | [Elicit](http://elicit.org) | Elicit: The Ai Research Assistant | Elicit uses machine learning to help you with your research: find papers, extract key claims, summarize, brainstorm ideas, and more | :grey_question: |                
-| [Embolden](http://embolden.co) | Embolden - Ai Writing For Ecommerce |  | :grey_question: |                
 | [Emergent Drums](http://audialab.com) | Emergent Drums By Audialab - Generate Infinite, Royalty-Free, Drum Samples With Ai |  | :grey_question: |                
-| [Enwrite](http://enwrite.co) | The Ai Writing Tool That Creates Content For You - Enwrite |  | :grey_question: |                
 | [Equally.ai](http://equally.ai) | Web Accessibility Compliance For All | Achieve ADA & WCAG compliance easily | :white_check_mark: |                
 | [EssayBar](http://www.essay.bar) | Essaybar — Revolutionize Your Writing With Ai-Crafted Essays! |  | :grey_question: |                
 | [Everypixel](http://www.everypixel.com) | Stock Image Search Engine - More Than 50 Best Sources - Everypixel |  | :grey_question: |                
@@ -534,7 +555,6 @@
 | [Fliki](http://fliki.ai) | Fliki - Turn Text Into Videos With Ai Voices |  | :grey_question: |                
 | [Flirtify](http://flirtify.vercel.app) | Flirtify — The Future Of Flirting Is Here |  | :grey_question: |                
 | [FoodAI](http://www.foodai.app) | Foodai.App - Generate Cooking Recipes With Ai! |  | :grey_question: |                
-| [Frase.io](http://www.frase.io) | Frase - Best Seo Content Optimization Tool & Ai Writer | Frase AI helps you research, write, and optimize high-quality SEO content in minutes instead of hours | :grey_question: |                
 | [Free Text-To-Speech](http://www.text-to-speech.online) | Free Text To Speech Online Converter Tools |  | :white_check_mark: |                
 | [FreewriteAI](http://freewriterai.com) | The Ai Writing Tool For Everyone |  | :white_check_mark: |                
 | [Friday AI](http://www.heyfriday.ai) | Heyfriday - Ultimate Ai Writer |  | :grey_question: |                
@@ -567,12 +587,10 @@
 | [Hour One](http://hourone.ai) | Make Ai Videos To Train Anyone Or Explain Anything - Hour One |  | :grey_question: |                
 | [Hubble](http://www.hubble.team) | Hubble - Product Feedback And Insights From Users | Create world class products by gathering high quality feedback from users on prototypes, betas and live features | :grey_question: |                
 | [HyperWrite](http://hyperwriteai.com) | Sucuri Website Firewall - | If you are the site owner (or you manage this site), please whitelist your IP or if you think this block is an error please open a support ticket and make sure to include the block details (displayed in the box below), so we can assist you in troubleshooting the issue | :grey_question: |                
-| [Hypotenuse.ai](http://www.hypotenuse.ai) | Hypotenuse Ai: Ai Writing Assistant And Text Generator |  | :grey_question: |                
 | [Ideasai](http://ideasai.com) | Startup Ideas Powered By Openai |  | :grey_question: |                
 | [Img2prompt](http://replicate.com) | Replicate – Run Open-Source Machine Learning Models With A Cloud Api |  | :grey_question: |                
 | [Inferkit](http://app.inferkit.com) | Inferkit |  | :grey_question: |                
 | [Infinite Drum Machine](http://experiments.withgoogle.com) | Experiments With Google |  | :grey_question: |                
-| [Intelligent paraphraser](http://aiseo.ai) | Aiseo - Ai Writing Assistant, Ai Copywriting & Content Generator |  | :grey_question: |                
 | [Interior Computer](http://image.computer) | Image Computer |  | :grey_question: |                
 | [Inworld](http://www.inworld.ai) | Inworld Ai – Create Ai Characters And Ask Them Anything | Create AI characters and NPCs for games, metaverse, and business applications – or just for fun. You can talk to AI characters about anything. It’s easy, free, and full of possibilities | :white_check_mark: |                
 | [JD Generator](http://hirequotient.com) | Meet The Team - Hirequotient | HireQuotient’s Skill Assessment Platform helps you hire the top 10% of the talent pool in half the time | :grey_question: |                
@@ -584,9 +602,7 @@
 | [Jokelub](http://jokelub.com) | Jokelub | Bring humor everywhere | :grey_question: |                
 | [KUBIYA](http://kubiya.ai/) |  |  | :grey_question: |                
 | [Kaedim](http://www.kaedim3d.com) | Kaedim - Image To 3D Model Ai |  | :grey_question: |                
-| [Kafkai](http://kafkai.com) | Ai Writer & Ai Content Generator - Kafkai | Kafkai is an AI Writer Assistant that helps you create unique SEO-friendly articles for cents instead of dollars | :grey_question: |                
 | [Kanye Tweet Generator](http://www.kanyegenerator.com) | Kanye Tweet Generation | Generate Kanye Tweets using AI. Built by Ryan Doyle | :grey_question: |                
-| [Katteb AI Article Writer](http://katteb.com) |  |  | :grey_question: |                
 | [Kinestex](http://www.kinestex.com) | Kinestex - Ai Coach In Your Phone |  | :grey_question: |                
 | [Kive](http://www.kive.ai) | Kive - Ai Canvas | all your inspiration in one place | :grey_question: |                
 | [Kore.ai](http://kore.ai) | Ai-First Experience Optimization Platform For Enterprises | Kore.ai automates front-office and back-office interactions for every industry by deploying conversational AI-first virtual assistants and process assistants | :grey_question: |                
@@ -594,15 +610,12 @@
 | [LALAL.AI Voice Cleaner](http://www.lalal.ai) | Lalal.Ai: 100% Ai-Powered Vocal And Instrumental Tracks Remover | High-quality stem splitting based on the world's #1 AI-powered technology | :grey_question: |                
 | [Langotalk](http://www.langotalk.org) | Langotalk: Learn Languages 6X Faster With Ai | Have confident conversations in weeks instead of years | :grey_question: |                
 | [LazyApply](http://lazyapply.com) | Automate Job Applications, Automatic Job Applier, Auto-Fill Job Applications, One-Click Apply Jobs | Automatically apply for 1000’s of jobs in a single click. LazyApply will auto fill job applications and apply to all of the jobs that are suitable for you on platforms such as Linkedin and Indeed in one click in the USA & Canada | :grey_question: |                
-| [Lek](http://lek.ai) | Lek.Ai - The Ultimate Content Creator Toolkit Powered By Ai |  | :grey_question: |                
 | [Letsenhance](http://letsenhance.io) | LetâS Enhance - Image Quality Online App & Free Photo Enlarger | AI software to enhance and upscale pictures. Increase resolution and quality. Fix blurry, pixelated and bad images. Make every photo sharp and clear | :white_check_mark: |                
 | [Levity](http://levity.ai) | Levity - No-Code Ai Workflow Automation Platform |  | :grey_question: |                
-| [Lex](http://lex.page) | Lex |  | :grey_question: |                
 | [Linkedin Posts Generator](http://sid.black) | Siddharth Verma - Full Stack Freelancer - Startup Guy | Hi, I am Siddharth Verma. A start-up enthusiast with 6+ years of experience. I have worked with over 50+ SAAS companies helping them build robust scalable solutions, product and engineering problems | :grey_question: |                
 | [Listnr 2.0](http://www.listnr.tech) | Ai Voice Generator - Text To Speech Converter - Listnr | Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with the best synthetic voices. Instantly convert text in to natural-sounding speech and download in MP3 and WAV formats | :grey_question: |                
 | [Logo Generator](http://v220221041114203913.supersrv.de) |  |  | :grey_question: |                
 | [Logo Rank](http://brandmark.io) | Brandmark Logo Maker - The Most Advanced Ai Logo Design Tool |  | :grey_question: |                
-| [LongShot AI](http://www.longshot.ai) | Longshot Ai - Best Long-Form Ai Writing Assistant And Content Generator | LongShot is an AI writing assistant that helps you and your team create helpful blogs that rank on Google | :grey_question: |                
 | [Looka](http://looka.com) | Free Logo Maker & Intelligent Brand Designer | Make a logo and build a brand you love with Looka | :white_check_mark: |                
 | [Lovelines](http://lovelines.xyz) | Lovelines.Xyz - Share Your Love With Custom Keepsakes Made By Ai | Create custom keepsakes for a loved one using AI that are optimized for social media. AI-generated poems, stories, letters, and song lyrics | :grey_question: |                
 | [Lovo](http://www.lovo.ai) | Lovo Ai - Free Text To Speech Online With Natural Voices |  | :white_check_mark: |                
@@ -719,7 +732,6 @@
 | [Prompthunt](http://www.prompthunt.com) | Prompt Hunt - Your Home For Exploring, Creating, And Sharing Ai Art | Create, explore, and share AI art using DALL·E, Stable Diffusion, and Midjourney | :grey_question: |                
 | [Promptomania](http://promptomania.com) | Promptomania: Ai Art Community With Prompt Generator |  | :grey_question: |                
 | [Proposal Genie](http://chrome.google.com) | Google Chrome - Download The Fast, Secure Browser From Google |  | :grey_question: |                
-| [QueryGenie](http://sqlgenie-co.web.app) | Querygenie |  | :grey_question: |                
 | [Question Base](http://www.questionbase.com) | Scale Knowledge | Question Base is a new kind of knowledge base. Powered by AI it answers your teamâs questions inside Slack. Automatically | :grey_question: |                
 | [Quillbot Paraphraser](http://quillbot.com) |  |  | :grey_question: |                
 | [Quilt & Create](http://www.quiltcreate.com) | Quilt & Create |  | :grey_question: |                
@@ -753,7 +765,6 @@
 | [Riku](http://riku.ai) | Riku.Ai - Build No-Code Prompts & Datasets For Ai Models |  | :grey_question: |                
 | [Rizz!](http://rizzai.com) | Rizz! Keyboard |  | :grey_question: |                
 | [Roamr](http://www.letsroam.app) | Roamr - Your Dream Vacation In Seconds |  | :grey_question: |                
-| [Rocket Mode](http://Mark Copy) |  |  | :grey_question: |                
 | [Runway](http://runwayml.com) | Runway - Next-Generation Creation Suite - Everything You Need To Make Content, Fast | Discover advanced video editing capabilities to take your creations to the next level | :white_check_mark: |                
 | [Rythmex](http://rythmex.com) | Convert Audio To Text With Rythmex Converter |  | :grey_question: |                
 | [Rytr](http://rytr.me) | Rytr - Best Ai Writer, Content Generator & Writing Assistant |  | :grey_question: |                
@@ -771,7 +782,6 @@
 | [Simulai](http://www.simulai.co) | Provide The Idea For Your Image. Let Ai Do The Rest | The highest quality machine generated art and stock photos. You provide an idea for your image, our machines work as hard as they can to create your picture | :white_check_mark: |                
 | [Sitekick](http://www.sitekick.ai) | Ai Landing Page Builder |  | :grey_question: |                
 | [SlashDreamer](http://slashdreamer.com) | Notion + Stable Diffusion = A Dream Come True | Integration Stable Diffusion in Notion to ai generate images with a new slash command | :x: |                
-| [Slogan Generator](http://aiseo.ai) | Aiseo - Ai Writing Assistant, Ai Copywriting & Content Generator |  | :grey_question: |                
 | [Smart Copy Everywhere](http://unbounce.com) | Unbounce - The Landing Page Builder & Platform |  | :grey_question: |                
 | [SmartScribe](http://www.smartscribe.app) | Smartscribe - Ai Writing Assistant - Writing Made Easy | SmartScribe helps solve the complexities of writing through the use of Artificial Intelligence | :grey_question: |                
 | [Snackable AI](http://snackable.ai) | Snackable |  | :grey_question: |                
@@ -863,7 +873,6 @@
 | [Twelve Labs](http://twelvelabs.io) | Twelve Labs |  | :grey_question: |                
 | [TypeDroid](http://typedroid.com) | Typedroid - Free Ai Text Generator |  | :white_check_mark: |                
 | [Typestudio](http://www.typestudio.co) | Type Studio Â Edit Your Video By Editing Text | Type Studio is a fast, simple, and joyful way to edit and growyour podcasts, streams, and interviews | :grey_question: |                
-| [Typli](http://typli.ai) | Typli.Ai - Ai Writer & Seo Writing Assistant |  | :grey_question: |                
 | [Typly](http://typly.app) | Typly - Conversation Level Next! | Typly is the ultimate cutting edge AI keyboard that helps you to answer all your messages with a single click!🚀 | :grey_question: |                
 | [USP](http://usp.ai) | Maximize Your Blog - Usp.Ai | Awesome AI generated ROYALTY FREE IMAGES for your stories and blog posts | :white_check_mark: |                
 | [Uizard](http://uizard.io) | Uizard - App, Web, & Ui Design Made Easy - Powered By Ai |  | :grey_question: |                
@@ -911,10 +920,7 @@
 | [WithPoly](http://withpoly.com) | Poly: Generate Design Assets With A.I. · Poly |  | :grey_question: |                
 | [Wizishop](http://wizishop.com) | Wizishop Ecommerce Solution: Create Your Online Store | 15-day free trial - No credit card needed - Access all of our features | :white_check_mark: |                
 | [Word Spinner](http://word-spinner.com) | Word Spinner: The Best Free Article Rewriter And Paraphrase Tool Online |  | :white_check_mark: |                
-| [WordHero](http://wordhero.co) | #1 Ai Writing Software - Ai Writer & Assistant - Wordhero |  | :grey_question: |                
 | [Wordfixerbot](http://www.wordfixerbot.com) | Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot |  | :grey_question: |                
-| [Wordkraft](http://wordkraft.ai) | Ai Copywriting & Online Content Generator - Wordkraft |  | :grey_question: |                
-| [Wordplay](http://wordplay.ai) | Ai Content Generator For Seo Professionals - Bulk Ai Writer - Wordplay.Ai |  | :grey_question: |                
 | [Wordtune](http://www.wordtune.com) | Wordtune - Your Personal Writing Assistant & Editor |  | :grey_question: |                
 | [Wordtune Read](http://www.wordtune.com) | Wordtune - Your Personal Writing Assistant & Editor |  | :grey_question: |                
 | [Write A Thank You](http://thankyounote.app) | Write A Thank You Note - Thankyounote.App | Write the perfect thank you note for any occasion! Whether you need to thank a friend, family member, or business associate, we have the perfect words for you. Try it! | :grey_question: |                
@@ -922,9 +928,7 @@
 | [Writelyai](http://www.writelyai.com) | Writely - Using Ai To Improve Your Writing |  | :grey_question: |                
 | [Writeplus](http://writeplus.co) | Write+ – Professional Writing Made Accessible For All! |  | :grey_question: |                
 | [Writer](http://writer.com) | Writer - Ai Writing Platform For Teams | World-class companies use Writer’s AI writing platform to unlock on-brand content at scale | :grey_question: |                
-| [Writesonic](http://writesonic.com) | Writesonic - Best Ai Writer, Copywriting & Paraphrasing Tool | Create SEO-optimized and plagiarism-free contentfor your blogs, ads, emails, and website 10X faster | :grey_question: |                
 | [Writewithlaika](http://www.writewithlaika.com) | Write With Laika |  | :grey_question: |                
-| [Writey AI](http://writey.ai) | Writey A.I |  | :grey_question: |                
 | [Yepic AI](http://www.yepic.ai) | Your Ai Video Toolkit  - Create, Dub & Personalise Videos | Create, Dub and Personalise Videos Anywhere | :grey_question: |                
 | [You](http://you.com) | The Ai Search Engine You Control |  | :grey_question: |                
 | [Yourface](http://yourface.app) |  |  | :grey_question: |                
