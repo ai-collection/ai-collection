@@ -13,7 +13,7 @@
     <sup>Status</sup>
     <br />
     <a href="https://github.com/public-apis/public-apis">
-        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=823" />
+        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=824" />
     </a>
 </div>
 
@@ -35,6 +35,7 @@
 * [Image](#image)
 * [Legal](#legal)
 * [Music](#music)
+* [Sales & Marketing](#sales--marketing)
 * [Speech](#speech)
 * [Text](#text)
 * [Text To Speech](#text-to-speech)
@@ -107,6 +108,17 @@
 | [Wordplay](http://wordplay.ai) | Create Long-Form Content In Seconds. | The #1 AI content generator built for SEO & content publishers. | :white_check_mark: |
 | [Writesonic](http://writesonic.com) | Writesonic - Best Ai Writer, Copywriting & Paraphrasing Tool. | Create SEO-optimized and plagiarism-free contentfor your blogs, ads, emails, and website 10X faster. | :white_check_mark: |
 | [Writey AI](http://writey.ai) | Yes — An A.I That Writes Original, Researched Blog Posts In Minutes. | First true free plagiarism A.I with original and researched content, check Writey A.I in action. | :white_check_mark: |
+
+**[⬆ Back to Index](#index)**
+
+### Sales & Marketing
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [Clickable](http://www.clickable.so) | Generate Ads In Seconds With Ai. | Beautiful, brand-consistent, and highly converting ads for all marketing channels. No design experience needed. | :grey_question: |
+| [Cuetap.com](https://cuetap.com/) | Ai & Ci Powred Sales Battlecards. | AI-powered platform provides automagical Battlecards and actionable Competitive Intelligence. | :white_check_mark: |
+| [Hoppy Copy](http://www.hoppycopy.co) | Hoppy Copy: Ai Email Marketing Copywriting Platform. | Save countless hours writing. Use AI to generate powerful copy for hundreds of different email marketing campaigns, drips, newsletters and more—in seconds ⚡. | :grey_question: |
+| [MarketingBlocks AI](http://marketingblocks.ai) | Marketingblocks Ai. | Human-like all-in-one AI marketing assistant that creates landing pages, promo videos, ads, marketing copy, graphics, emails, voiceovers, blog posts, art & more. | :grey_question: |
+| [Octie.ai](http://octie.ai) | Octie.Ai - Your A.I. Ecommerce Marketing Assistant. | Write emails, product descriptions, and more, with A.I. Created by Octane AI. | :grey_question: |
 
 **[⬆ Back to Index](#index)**
 
@@ -220,6 +232,7 @@
 | [PicasaAI](http://picasaai.com) | Picasa Ai. | Create your AI-generated social media pictures. | :grey_question: |
 | [Pictureperfect](http://pictureperfect.ai) | Ai Avatar Generator And Maker - Pictureperfect.Ai. | Get creative and design your own personalized avatar with the help of AI technology. Simply upload a photo and our system will generate a unique avatar that represents you. Share your picture perfect avatar with friends and family on social media and let your creativity shine!. | :grey_question: |
 | [Pixian](http://pixian.ai) | Remove Image Backgrounds, Free Hd, No Signup - Pixian.Ai. | Remove Image Backgrounds, Free HD, No Signup. | :white_check_mark: |
+| [Playground](http://playgroundai.com) | Free Ai Image Generator: Art, Social Media, Marketing - Playground Ai. | Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more. | :white_check_mark: |
 | [Postedby](http://postedby.ai) | Postcards By Ai, Delivered!. | Postedby.ai allows users to create personalized postcards using advanced AI technology. | :x: |
 | [Prisma](https://prisma-ai.com/prisma) | Prisma Captures The Essence Of Your Photos Transforming Them Into Vivid Color Paintings. | . | :white_check_mark: |
 | [Prisma](https://prisma-ai.com/lensa) | Lensa Is An All-In-One Image Editing App That Takes Your Photos To The Next Level. | . | :white_check_mark: |
@@ -310,7 +323,6 @@
 | [ChatGPT](http://chat.openai.com) | . | . | :grey_question: |
 | [ChatGPT Writer](http://chatgptwriter.ai) | . | . | :grey_question: |
 | [Childbook](http://www.childbook.ai) | Welcome To Children'S Book Creator!. | Your book will be personalized with characters, pictures and story. The story and illustrations also have a text-to-speech feature and can be listened to. | :grey_question: |
-| [Clickable](http://www.clickable.so) | Generate Ads In Seconds With Ai. | Beautiful, brand-consistent, and highly converting ads for all marketing channels. No design experience needed. | :grey_question: |
 | [Cover Letter AI](http://coverletter-ai.com) | Cover Letter Ai. | The ultimate tool for crafting the perfect cover letter. | :grey_question: |
 | [Cover Letter Kit](http://coverletterkit.com) | Cover Letter Kit - Ai-Powered Custom Cover Letters In Minutes. | Write your cover letter and prepare for your interview with help from AI! Land your dream job with a professional, custom-made, and effective cover letter kit. | :grey_question: |
 | [Coverletterwrite](http://coverletterwrite.com) | Cover Letter Write. | Ask AI to write a personalized cover letter. | :grey_question: |
@@ -334,7 +346,6 @@
 | [GoalsGPT](http://www.tability.io) | Tability - Get Your Goals Out Of Spreadsheets. | The easiest way to keep track of your OKRs and team goals. Align your team around outcomes â without feeling like a chore. | :grey_question: |
 | [Goatchat](http://goatchat.ai) | Goatchat Ai - Avatar Chatgpt. | Did you ever want to ask Napoleon or Einstein a few questions? Well, now you have a chance. | :grey_question: |
 | [Hello History](http://www.hellohistory.ai) | Hello History - Chat With Ai Generated Historical Figures. | With the help of modern AI & machine learning weâve brought historical figures back to life. Now is your chance to ask the questions youâve always wanted to ask. | :grey_question: |
-| [Hoppy Copy](http://www.hoppycopy.co) | Hoppy Copy: Ai Email Marketing Copywriting Platform. | Save countless hours writing. Use AI to generate powerful copy for hundreds of different email marketing campaigns, drips, newsletters and more—in seconds ⚡. | :grey_question: |
 | [Infiniteconversation](http://infiniteconversation.com) | The Infinite Conversation. | An AI generated, never-ending discussion between Werner Herzog and Slavoj Žižek. | :grey_question: |
 | [Jot](http://www.jotapp.tech) | Jot - Ai Ad Copy. | Jot automagically generates infinite ad copy variations for you using AI. Streamline your team's copywriting processes with artificial intelligence. Powered by OpenAI GPT-3. | :grey_question: |
 | [Justlearn](http://www.justlearn.com) | Ai Friend, Chat & Call - Justlearn. | AI Friend, Chat & Call app designed to teach you anything. Voice. Diary. Music. Workout. | :grey_question: |
@@ -345,7 +356,6 @@
 | [Namelix](http://namelix.com) | Business Name Generator - Free Ai-Powered Naming Tool - Namelix. | . | :white_check_mark: |
 | [Namewizard](http://namewizard.ai) | Namewizard.Ai - Your Ai-Superpowered Domain Name Generator. | namewizard is the generator that uses AI to find the perfect business and domain name for your next project. | :grey_question: |
 | [Neural Formula](http://www.neuralformula.com) | Formula Generator - Neural Formula. | . | :grey_question: |
-| [Octie.ai](http://octie.ai) | Octie.Ai - Your A.I. Ecommerce Marketing Assistant. | Write emails, product descriptions, and more, with A.I. Created by Octane AI. | :grey_question: |
 | [Oracle](http://askoracle.app) | Oracle - Get Instant Answers From All Your Knowledgebase. | Get instant answers to all your burning questions with Oracle. Simply ask on Slack and let our AI generate an answer for you. Connect Oracle to Slack, Google Docs, and Confluence with just one click and maximize your productivity. | :grey_question: |
 | [Philosophy](http://philosophy.fyi) | Ask A Philosopher. | . | :grey_question: |
 | [Politepost](http://www.politepost.net) | Rewriting Your Emails With Ai To Be Professional. | Make sure your emails are professional and suitable for the workplace. Write your draft with all your slang and expletives, and our AI bot will rewrite and clean up the text. | :grey_question: |
@@ -636,7 +646,6 @@
 | [Make a Video](http://makeavideo.studio) | Make-A-Video. | . | :grey_question: |
 | [Make3D](http://make3d.app) | Make Your Image 3D. | . | :grey_question: |
 | [Mapwith.ai](http://mapwith.ai) | Mapwith.Ai. | . | :grey_question: |
-| [MarketingBlocks AI](http://marketingblocks.ai) | Marketingblocks Ai. | Human-like all-in-one AI marketing assistant that creates landing pages, promo videos, ads, marketing copy, graphics, emails, voiceovers, blog posts, art & more. | :grey_question: |
 | [Masterpiece Studio](http://masterpiecestudio.com) | Masterpiece Studio. | . | :grey_question: |
 | [Merlin](http://merlin.foyer.work) | Merlin. | Free Open AI’s ChatGPT powered extension to use anywhere!. | :white_check_mark: |
 | [Midjourney](http://www.midjourney.com) | Midjourney. | An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species. | :grey_question: |
@@ -712,7 +721,6 @@
 | [Pixelmind](http://beta.pixelmind.ai) | Pixelmind - Ai-Powered Art & Minting To Nfts. | Your journey into AI-powered art. Create and collect NFTs through the Pixelmind portal. Evolve your style. Raise your game. | :grey_question: |
 | [Pixelz AI](http://pixelz.ai) | Pixelz Ai Art Generator. | Create unique AI artwork using text, phrases, images & presets, share, download, print & mint as NFTs. | :grey_question: |
 | [Play.ht](http://play.ht) | Ai Voice Generator & Realistic Text To Speech Online - Play.Ht. | Generate realistic Text to Speech (TTS) audio using our online AI Voice Generator and the best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files. | :grey_question: |
-| [Playground](http://playgroundai.com) | Free Ai Image Generator: Art, Social Media, Marketing - Playground Ai. | Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more. | :white_check_mark: |
 | [Podcast.ai](http://podcast.ai) | Podcast.Ai. | . | :grey_question: |
 | [Poised 2.0](http://www.poised.com) | Poised - Free Ai-Powered Communication Coach. | . | :white_check_mark: |
 | [Pollinations](http://pollinations.ai) | Pollinations.Ai. | . | :grey_question: |
