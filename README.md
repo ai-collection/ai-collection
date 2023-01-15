@@ -12,7 +12,7 @@
     <sup>Status</sup>
     <br />
     <a href="https://github.com/public-apis/public-apis">
-        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=848" />
+        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=850" />
     </a>
 </div>
 
@@ -71,6 +71,7 @@
 | [Tabnine](http://www.tabnine.com) | Ai Assistant For Software Developers - Tabnine | Whether you’re part of a team, or a developer working on your own, Tabnine will help you write code faster – all in your favorite IDE | :grey_question: |                
 | [Tensai](http://airtable.com/shrhYf24UkDMr2gPl) | Tensai - Conversational Ui For Your Codebase |  | :white_check_mark: |                
 | [Whatthediff](http://whatthediff.ai) | What-The-Diff – Ai-Powered Code Review Assistant | The AI powered GitHub app that explains the changes within your pull requests in plain english | :grey_question: |                
+| [aidev.codes](https://aidev.codes/) | Ai Dev Codes For You | Create simple apps and demos just by entering specifications — a new type of AI prompt engineering | :white_check_mark: |                
 
 **[⬆ Back to Index](#index)**
 
@@ -256,6 +257,7 @@
 | [Autoname](http://www.autoname.org) | Rename All Your Layers In One Click. Thanks To Ai. Open Source | Rename Figma frames in one click, that's pretty much it | :grey_question: |                
 | [BLOONY](http://bloony.ai) | Bloony - Ai Chatbot | Hop on ChatTrip! | :grey_question: |                
 | [Bahasa](http://www.bahasa.ai) | Bahasa.Ai - Chatbot Which Serves Customers Fully | Automation that helps your business serves millions of happy customers fastlyâpowered by AI specially built for Bahasa Indonesia | :grey_question: |                
+| [Bearly Ai](http://bearly.ai) | Save Hundreds Of Hours Reading And Writing With The World'S Best Ai |  | :white_check_mark: |                
 | [Bookclub](http://www.bookclub.ai) | Bookclub.Ai - Meet Your Next Book |  | :grey_question: |                
 | [Botify](http://botif.ai) | Botify Ai | Fun chat with your favorite characters | :grey_question: |                
 | [Chai](http://chai.ml) | Chai - Chat With Ai | Chai is a THE destination for compelling conversations with AI. On Chai, you can build and deploy AI chatbots to thousands of users | :grey_question: |                
@@ -308,6 +310,7 @@
 | [Politepost](http://www.politepost.net) | Rewriting Your Emails With Ai To Be Professional | Make sure your emails are professional and suitable for the workplace. Write your draft with all your slang and expletives, and our AI bot will rewrite and clean up the text | :grey_question: |                
 | [Promptmakr](http://promptmakr.com) | The Platform For Prompt Engineers To Generate And Share Unlimited Ai Art Prompts For Free |  | :white_check_mark: |                
 | [Proposalgenie](http://www.proposalgenie.ai) | Proposal Genie | Write the Perfect Upwork proposal in seconds | :grey_question: |                
+| [Quattr](https://www.quattr.com/) | Quattr Is Your Growth Hq | The enterprise SEO platform built with powerful AI and GSC data as the foundation | :x: |                
 | [Quicklines](http://www.quicklines.ai) | Quicklines Lifetime Access - Only $59 | Quicklines is your new AI powered cold outreach assistant. We help you scale your cold email campaigns with our in-depth social scraping and natural language first-line writing platform | :grey_question: |                
 | [Rapidreply](http://rapidreply.ai) | Rapid Reply - Ai Email Assistant | Save 30 minutes a day writing emails | :grey_question: |                
 | [Recruiting Emails AI by Dover](http://recruitingemails.ai) | Dover - Generate Customized Recruiting Emails |  | :grey_question: |                
@@ -427,7 +430,6 @@
 | [B^ DISCOVER](http://bdiscover.kakaobrain.com) | B^ Discover - Home | You will have a new experience of discovering your story in images | :grey_question: |                
 | [BaruaAI](http://baruaai.com) | Brian Gacheru |  | :grey_question: |                
 | [Baseten](http://app.baseten.co) | Baseten - Mlops Platform For Startups | Baseten is a serverless backend for building ML-powered applications. Build apps with auto-scaling, GPU access, CRON jobs, and serverless functions | :grey_question: |                
-| [Bearly Ai](http://bearly.ai) | Bearly.Ai - The World'S Best Ai At Your Fingertips |  | :grey_question: |                
 | [Beb AI](http://beb.ai) | Beb.Ai | The possibilities are limitless, beb | :grey_question: |                
 | [BedtimeStory](http://www.bedtimestory.ai) |  |  | :grey_question: |                
 | [Bertha.ai](http://bertha.ai) |  |  | :grey_question: |                
