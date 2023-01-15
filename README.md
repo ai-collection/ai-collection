@@ -425,7 +425,7 @@ No technical skills or software download required.</p>
 | [FilmForge](http://filmforge.uwu.ai) | Filmforge Ai. | Instantly generate engaging videos. Captions, voiceover, transcript, and graphics included. | :grey_question: |
 | [Gling](http://www.gling.ai) | Creator, Get Your Time Back. | Our AI will cut silences and bad takes for you so you can focus on your YouTube videos. | :grey_question: |
 | [Move](https://www.move.ai/) | Move Ai. | Capture high quality motion data from video in any environment using mobile phones. | :grey_question: |
-| [Pictory](http://pictory.ai) | Video Creation Made Easy. | Automatically create short, highly-sharable branded videos from your long form content. | :grey_question: |
+| [Pictory](http://pictory.ai?ref=milana31) | Video Creation Made Easy. | Automatically create short, highly-sharable branded videos from your long form content. | :grey_question: |
 | [Supercreator AI](http://www.supercreator.ai) | Supercreator.Ai Â¢ Create Videos 10X Faster With Ai. | . | :grey_question: |
 | [Wzrd.ai](http://wzrd.ai) | Experience Your Sound. | WZRD augments your audio with immersive video powered by artificial intelligence. | :grey_question: |
 
