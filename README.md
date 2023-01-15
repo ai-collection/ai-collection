@@ -24,7 +24,7 @@
     <a href="LICENSE">License</a>
 </div>
 
----
+<!-- ---
 
 <div align="center">
     <h2>Promotion</h2>
@@ -39,7 +39,7 @@ Quick, easy & cost-effective.
 
 No technical skills or software download required.</p>
     <a href="https://pictory.ai?ref=milana31" target="_blank"><b>Get Started For Free</b></a>
-</div>
+</div> -->
 
 ---
 
