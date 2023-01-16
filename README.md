@@ -13,7 +13,7 @@
     <sup>Status</sup>
     <br />
     <a href="https://github.com/public-apis/public-apis">
-        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=824" />
+        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=823" />
     </a>
 </div>
 
@@ -672,7 +672,6 @@ No technical skills or software download required.</p>
 | [Movio](http://www.movio.la) | Movio - Ai Spokesperson Video Generator. | . | :grey_question: |
 | [Mrgn](http://Mrgn.ai) | Enterprise Intelligence For Small Business. | . | :white_check_mark: |
 | [Murf.ai](http://murf.ai) | . | . | :grey_question: |
-| [Musenet](http://openai.com) | Openai. | . | :grey_question: |
 | [Musico](http://www.musi-co.com) | Musico - Ai Generative Music. | Musico is an AI-driven software engine that generates music. It can react to gesture, movement, code or other sound. | :grey_question: |
 | [My AI Painting](http://myaipainting.com) | My Ai Painting - Create Your Unique A.I Painting. | Order your very own A.I. masterpiece today. Just tell the A.I. what you want in your painting. | :grey_question: |
 | [My Instant Writer](http://www.myinstantwriter.com) | My Instant Writer. | . | :grey_question: |
