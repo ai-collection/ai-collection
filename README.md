@@ -56,6 +56,7 @@ No technical skills or software download required.</p>
 * [Speech](#speech)
 * [Text](#text)
 * [Text To Speech](#text-to-speech)
+* [Translation & Transcript](#translation--transcript)
 * [Video](#video)
 * [Other](#other)
 
@@ -138,6 +139,16 @@ No technical skills or software download required.</p>
 | [Hoppy Copy](http://www.hoppycopy.co) | Hoppy Copy: Ai Email Marketing Copywriting Platform. | Save countless hours writing. Use AI to generate powerful copy for hundreds of different email marketing campaigns, drips, newsletters and more—in seconds ⚡. | :grey_question: |
 | [MarketingBlocks AI](http://marketingblocks.ai) | Marketingblocks Ai. | Human-like all-in-one AI marketing assistant that creates landing pages, promo videos, ads, marketing copy, graphics, emails, voiceovers, blog posts, art & more. | :grey_question: |
 | [Octie.ai](http://octie.ai) | Octie.Ai - Your A.I. Ecommerce Marketing Assistant. | Write emails, product descriptions, and more, with A.I. Created by Octane AI. | :grey_question: |
+
+**[⬆ Back to Index](#index)**
+
+### Translation & Transcript
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [Deciphr AI](http://www.deciphr.ai) | Deciphr Ai. | Powered by deep AI, Deciphr timestamps and summarizes your entire podcast transcript for you. In less time than it takes to make coffee. | :white_check_mark: |
+| [Scribebuddy](http://secure.scribebuddy.com) | . | Automatically Transcribe Any Audio, Video, Zoom Call, Google Meet, Podcast, Live Speech & More in Minutes. | :x: |
+| [Taption](http://www.taption.com) | Automatically Generate Transcript, Translation And Subtitles - Taption. | . | :grey_question: |
+| [Voicetapp](http://voicetapp.com) | Voicetapp - Speech To Text Transcription. | Get accurate transcriptions for your AUDIO & VIDEO with the latest speech rocognition technology. | :grey_question: |
 
 **[⬆ Back to Index](#index)**
 
@@ -345,7 +356,6 @@ No technical skills or software download required.</p>
 | [Cover Letter AI](http://coverletter-ai.com) | Cover Letter Ai. | The ultimate tool for crafting the perfect cover letter. | :grey_question: |
 | [Cover Letter Kit](http://coverletterkit.com) | Cover Letter Kit - Ai-Powered Custom Cover Letters In Minutes. | Write your cover letter and prepare for your interview with help from AI! Land your dream job with a professional, custom-made, and effective cover letter kit. | :grey_question: |
 | [Coverletterwrite](http://coverletterwrite.com) | Cover Letter Write. | Ask AI to write a personalized cover letter. | :grey_question: |
-| [Deciphr AI](http://www.deciphr.ai) | Deciphr Ai. | Powered by deep AI, Deciphr timestamps and summarizes your entire podcast transcript for you. In less time than it takes to make coffee. | :white_check_mark: |
 | [Diffusion.chat](http://diffusion.chat) | Diffusion Chat. | . | :grey_question: |
 | [Digital Dogs](http://digitaldogs.ai) | The Digital Dogsâ¢. | Cross-app, AI Digital Dogs NFTs for Virtual worlds, VR, AR, social apps, games and more. | :grey_question: |
 | [DraftLab](http://draftlab.ai) | Draftlab Ai: Write Better Emails Faster With Ai. | Fight writer's block and achieve inbox zero. DraftLab is an AI-powered Gmail copilot that generates high-quality email replies for you. | :grey_question: |
@@ -804,7 +814,6 @@ No technical skills or software download required.</p>
 | [Scene One](http://sceneone.app) | Online Book Writing App For Novels, Short Stories, And Business. | Write more stories with our intuitive writing app and spend less time learning complicated features. | :grey_question: |
 | [Scispace](http://typeset.io) | Scispace By Typeset - Discover, Create, Publish, And Promote Your Research Paper. | Your platform to explore and explain papers. Search for 270M+ papers, understand them in simple language, and find connected papers, authors, topics. | :grey_question: |
 | [Scribe](http://vienna.earth) | . | . | :grey_question: |
-| [Scribebuddy](http://secure.scribebuddy.com) | . | . | :grey_question: |
 | [Simplified](http://simplified.com) | Simplified: An Easy To Use All-In-One App For Modern Marketing Teams. | Design, Write, Edit videos, and Publish Content. Built For Teams. | :grey_question: |
 | [Simulai](http://www.simulai.co) | Provide The Idea For Your Image. Let Ai Do The Rest. | The highest quality machine generated art and stock photos. You provide an idea for your image, our machines work as hard as they can to create your picture. | :white_check_mark: |
 | [Sitekick](http://www.sitekick.ai) | Ai Landing Page Builder. | . | :grey_question: |
@@ -858,7 +867,6 @@ No technical skills or software download required.</p>
 | [Takomo](http://go.takomo.ai) | Login - Takomo. | . | :grey_question: |
 | [Talk to Books](http://books.google.com) | Google Books. | . | :grey_question: |
 | [TalkingPhoto by Movio](http://app.movio.la) | Movio - Ai Spokesperson Video Creator. | . | :grey_question: |
-| [Taption](http://www.taption.com) | Automatically Generate Transcript, Translation And Subtitles - Taption. | . | :grey_question: |
 | [Tavus](http://www.tavus.io) | Welcome. | . | :grey_question: |
 | [Teacherbot](http://teacherbot.io) | Teacherbot - The Tool Every Teacher Deserves. | We have developed the most powerful tool a teacher can have access to. You can create tasks and activities for all levels as well as topic plans, forward plans, lesson plans and much more. You are limited only by your imagination. | :grey_question: |
 | [Text Assistant](http://goodsnooze.gumroad.com) | Jordi Bruin. | . | :grey_question: |
@@ -920,7 +928,6 @@ No technical skills or software download required.</p>
 | [Voicemaker](http://voicemaker.in) | Voicemaker® - Text To Speech Converter. | . | :grey_question: |
 | [Voicemod](http://www.voicemod.net) | Free Real Time Voice Changer & Modulator - Voicemod. | Express yourself with our real-time AI Voice Changer and soundboard to be who you want, when you want in the metaverse. Build your sonic identity for platforms like Roblox, OBS, VRChat, Discord, and more. | :white_check_mark: |
 | [Voicera](http://www.voicera.co) | Voicera - Give Voice To Your Articles And Blogs. | . | :grey_question: |
-| [Voicetapp](http://voicetapp.com) | Voicetapp - Speech To Text Transcription. | Get accurate transcriptions for your AUDIO & VIDEO with the latest speech rocognition technology. | :grey_question: |
 | [Waifu XL](http://waifuxl.com) | Waifuxl. | . | :grey_question: |
 | [Waifulabs](http://waifulabs.com) | Waifu Labs - Magical Anime Portraits. | A state-of-the-art AI that draws custom anime portraits, just for you! This machine learning artist figures out your preferences and creates a perfect character illustration in 4 easy steps. If it sounds like magic, that's because it is!. | :grey_question: |
 | [WardrobeAI](http://wardrobeai.com) | Wardrobeai. | Our service uses AI to automatically change hairstyles and clothes in your images, giving you endless possibilities for customization. | :grey_question: |
