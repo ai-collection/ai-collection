@@ -13,7 +13,7 @@
     <sup>Status</sup>
     <br />
     <a href="https://github.com/public-apis/public-apis">
-        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=823" />
+        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=822" />
     </a>
 </div>
 
@@ -948,7 +948,6 @@ No technical skills or software download required.</p>
 | [Word Spinner](http://word-spinner.com) | Word Spinner: The Best Free Article Rewriter And Paraphrase Tool Online. | . | :white_check_mark: |
 | [Wordfixerbot](http://www.wordfixerbot.com) | Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot. | . | :grey_question: |
 | [Wordtune](http://www.wordtune.com) | Wordtune - Your Personal Writing Assistant & Editor. | . | :grey_question: |
-| [Wordtune Read](http://www.wordtune.com) | Wordtune - Your Personal Writing Assistant & Editor. | . | :grey_question: |
 | [Write A Thank You](http://thankyounote.app) | Write A Thank You Note - Thankyounote.App. | Write the perfect thank you note for any occasion! Whether you need to thank a friend, family member, or business associate, we have the perfect words for you. Try it!. | :grey_question: |
 | [Writefull Academizer](http://x.writefull.com) | Writefull X: Ai Applied To Academic Writing. | . | :grey_question: |
 | [Writelyai](http://www.writelyai.com) | Writely - Using Ai To Improve Your Writing. | . | :grey_question: |
