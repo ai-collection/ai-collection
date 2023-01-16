@@ -74,6 +74,7 @@ No technical skills or software download required.</p>
 ### Code & Database Assistant
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [AI Docstrings](https://trelent.com) | Write Docstrings Automatically. | Trelent uses AI to write helpful docstrings for your functions instantly. | :white_check_mark: |
 | [Adrenaline](https://useadrenaline.com/) | Stop Plugging Your Errors Into Stackoverflow. | Adrenaline is a debugging assistant powered by the OpenAI Codex. It can fix and explain your broken code in seconds. | :white_check_mark: |
 | [Ask Command](http://askcommand.com) | Ask Command — Ai-Powered Developer Assistant. | A tiny app to remind you about those commands you always forget. Powered by AI. | :grey_question: |
 | [Channel](http://www.usechannel.com) | Channel. | Connect your database, ask a question, get an answer. | :grey_question: |
@@ -82,7 +83,7 @@ No technical skills or software download required.</p>
 | [CodeWP](http://codewp.ai) | Codewp - Ai Wordpress Code Generator & Assistant. | CodeWP is a WordPress code generator that uses AI and specialized models for WordPress, Woo and others to help you build better & quicker. | :grey_question: |
 | [Codeball](http://codeball.ai) | Codeball Â Ai Powered Code Review. | Codeball finds bugs in your Pull Requests, lets you ship faster and with higher confidence. | :grey_question: |
 | [Codecleaningbot](http://www.codecleaningbot.com) | Code Cleaning Bot. | Code Cleaning AI Bot fixes common code quality and security issues. Like: deleting unused and unreachable code, fix SQL injection, etc. | :grey_question: |
-| [Codeium](http://www.codeium.com) | Codeium. | The modern coding superpower. | :grey_question: |
+| [Codeium](http://www.codeium.com) | Codeium - The Modern Coding Superpower. | Fast AI-based code acceleration and free alternative to Github Copilot. | :white_check_mark: |
 | [Datamaker](http://www.datamaker.dev) | Ai Powered Webflow Code & Copy Tools For Designers. | If you are a Webflow Designer or Webflow Developer then you need to see these tools. Use AI to create code and copy to solve your Webflow problems. | :grey_question: |
 | [Explain An Error](http://explain.whybug.com) | Explain By Whybug. | Let AI explain to you why your code is buggy and how to fix it. | :grey_question: |
 | [ExplainDev](http://explain.dev) | Explaindev - Code Explainer That Answers Your Questions In Context. | ExplainDev helps you to be more confident and independent with others' code. Get code explanations and direct answers to your questions via Chrome and VS Code extensions powered by AI. | :grey_question: |
@@ -843,7 +844,6 @@ No technical skills or software download required.</p>
 | [Suggest Gift](http://suggest.gift) | Suggest Gift - Find Great Gift Suggestions Using Artificial Intelligence. | Artificial Intelligence based tool to help you get amazing gift suggestions for any occasion. | :grey_question: |
 | [Sumly](http://www.sumly.ai) | Ai-Generated Podcast Summaries  - Sumly.Ai. | . | :grey_question: |
 | [Summari](http://www.summari.com) | Summari - Upgrade Links Into Short, Informative Summarized Previews. | . | :grey_question: |
-| [SummariseThis](http://twitter.com) | . | We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center. | :grey_question: |
 | [Summarize Tech](http://www.summarize.tech) | Summarize.Tech: Ai-Powered Video Summaries. | Get a summary of any long YouTube video, like a lecture, live event or a government meeting. Powered by GPT-3. | :grey_question: |
 | [SummerEyes](http://summereyes.ai) | Summereyes: Ai-Powered Summaries In Your Browser. | . | :grey_question: |
 | [Summon](http://www.figma.com) | Figma: The Collaborative Interface Design Tool. | Build better products as a team. Design, prototype, and gather feedback all in one place with Figma. | :grey_question: |
