@@ -64,6 +64,7 @@ No technical skills or software download required.</p>
 ### Architecture & Interior Design
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [AI Room Planner](http://airoomplanner.com) | Interior Design By Ai. | Get hundreds of interior design ideas for your room - free with no limit. | :grey_question: |
 | [Dimensions](http://www.dimensions.ink) | Dimensions - Rapidly Create Visual Concepts With Ai. | Imagine being able to create beautiful interior designs with ease – that’s what Dimensions offers. | :grey_question: |
 | [Image Computer](http://image.computer) | Generate Your Next Interior Design / Paniting / Fashion Collection / Concept Art. | Use our powerful AI technology to generate any type of image you can think of. In a matter of seconds. | :x: |
 | [Interior AI](http://interiorai.com) | Interior Ai: Interior Design Ideas Inspiration, And Virtual Staging App Using Artifical Intelligence. | Get interior design ideas using Artificial Intelligence and virtually stage interiors for real estate listings with different interior styles. | :white_check_mark: |
@@ -451,7 +452,6 @@ No technical skills or software download required.</p>
 | [AI Recipe Generator](http://ai-recipes.softr.app) | Ai Recipe Generator. | . | :grey_question: |
 | [AI Rental Cover Letter](http://sharehouse.app) | 🏡 Sharehouse - Free Housemate Finder. | Connect with Sharehouses, Housemates Or Flatmates. Freely List & Advertise Your Room, House, or Flat. | :grey_question: |
 | [AI Resume Editor](http://www.rezi.ai) | Rezi - The Leading Ai Resume Builder Trusted By 352,894 Users. | . | :grey_question: |
-| [AI Room Planner](http://airoomplanner.com) | . | . | :grey_question: |
 | [AI SQL BOT](http://aihelperbot.com) | Ai Sql Query Builder: Easiest Way To Build Sql Queries Without Prior Sql Knowledge - Sql Query Builder Using Ai. | . | :grey_question: |
 | [AI Social Bio](http://aisocialbio.com) | Ai Social Bio. | . | :grey_question: |
 | [AI Social Media Post Writerby Socialblu](http://socialbu.com) | Socialbu - Social Media Management And Automation. | SocialBu is the perfect solution to improve your social media presence and maximize your results. Publish, Respond, Analyze, and Automate - all from within SocialBu. | :grey_question: |
