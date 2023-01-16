@@ -97,7 +97,6 @@ No technical skills or software download required.</p>
 | [Tensai](http://airtable.com/shrhYf24UkDMr2gPl) | Tensai - Conversational Ui For Your Codebase. | . | :white_check_mark: |
 | [Whatthediff](http://whatthediff.ai) | What-The-Diff – Ai-Powered Code Review Assistant. | The AI powered GitHub app that explains the changes within your pull requests in plain english. | :grey_question: |
 | [aidev.codes](https://aidev.codes/) | Ai Dev Codes For You. | Create simple apps and demos just by entering specifications — a new type of AI prompt engineering. | :white_check_mark: |
-| [AI Docstrings](https://trelent.com) | Write docstrings automatically. | Trelent uses AI to write helpful docstrings for your functions instantly. | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
 
