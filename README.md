@@ -418,6 +418,7 @@ No technical skills or software download required.</p>
 | [coverletter.app](http://coverletter.app) | Custom-Made Cover Letters Ready In Minutes Not Hours - Coverletter.App. | Stand out from the competition and increase your chances of getting hired with personalized cover letters from our advanced AI technology. | :grey_question: |
 | [heyy.ai](http://www.heyy.ai) | Automate Content Creation For Your Small Business. | Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators. | :white_check_mark: |
 | [superReply](http://superreply.co) | Upgrade Your Email Game. | The Email Response Hack You've Been Waiting For - Easily send effective replies with tailored responses without writing from scratch. | :white_check_mark: |
+| [BotGPT](https://t.me/BotGPT_bot)                           | Telegram GPT Bot. | Telegram bot that allows fast and intuitive access to GPT, Saves your history, and available from your phone or desktop. Cool features upcoming. | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
 
