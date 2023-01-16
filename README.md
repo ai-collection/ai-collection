@@ -10,11 +10,16 @@
 ---
 
 <div align="center">
-    <sup>Status</sup>
-    <br />
-    <a href="https://github.com/public-apis/public-apis">
-        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=819" />
-    </a>
+    <h4>Status</h4>
+
+<a href="https://github.com/public-apis/public-apis">
+    <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=819" />
+</a>
+
+•
+
+[![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
+
 </div>
 
 ---
@@ -847,7 +852,6 @@ No technical skills or software download required.</p>
 | [Squish](http://chrome.google.com) | Google Chrome - Download The Fast, Secure Browser From Google. | . | :grey_question: |
 | [Stable Diffusion Prompt Generator](http://www.thomas.io) | Thomas.Io. | . | :grey_question: |
 | [Stabledojo](http://www.stabledojo.com) | Stabledojo. | . | :grey_question: |
-| [Staccato](http://staccato.ai) | Staccato - The Artificially Intelligent Music & Lyrics Co-Writer. | . | :grey_question: |
 | [Starryai](http://starryai.com) | Starryai - Ai Art Generator App - Ai Art Maker. | Simply enter a prompt and our AI transforms your words into works of art. | :grey_question: |
 | [Starryai](http://www.starryai.com) | Starryai - Ai Art Generator App - Ai Art Maker. | Simply enter a prompt and our AI transforms your words into works of art. | :grey_question: |
 | [Startup Pitch Generator](http://tally.so) | Free Online Form Builder. | Create forms for all purposes in seconds.Without knowing how to code. | :white_check_mark: |

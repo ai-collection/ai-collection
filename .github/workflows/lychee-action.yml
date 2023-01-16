@@ -1,0 +1,37 @@
+name: Validate Links
+
+on:
+  # [push]
+  repository_dispatch:
+  workflow_dispatch:
+  schedule:
+    - cron: "00 18 * * *"
+
+jobs:
+  linksValidation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Validate Links
+        id: lychee
+        uses: lycheeverse/lychee-action@v1.5.4
+        with:
+          # Check all markdown and html files in repo (default)
+          args: --no-progress --timeout 40 --retry-wait-time 3 --max-redirects 10 -a 200,403 './README.md'
+          # Use json as output format (instead of markdown)
+          # format: json
+          # Use different output file path
+          # output: /tmp/foo.txt
+          # Fail action on broken links
+          # fail: true
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+      - name: Create Issue From File
+        if: env.lychee_exit_code != 0
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          title: Validate Links Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
