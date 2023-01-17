@@ -13,7 +13,7 @@
     <sup>Status</sup>
     <br />
     <a href="https://github.com/public-apis/public-apis">
-        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=820" />
+        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=819" />
     </a>
 </div>
 
@@ -81,7 +81,6 @@ No technical skills or software download required.</p>
 | [BotGPT](https://t.me/BotGPT_bot) | Telegram Gpt Bot. | Telegram bot that allows fast and intuitive access to GPT, Saves your history, and available from your phone or desktop. Cool features upcoming. | :white_check_mark: |
 | [Botify](http://botif.ai) | Botify Ai. | Fun chat with your favorite characters. | :grey_question: |
 | [Chai](http://chai.ml) | Chai - Chat With Ai. | Chai is a THE destination for compelling conversations with AI. On Chai, you can build and deploy AI chatbots to thousands of users. | :grey_question: |
-| [GPT ChatBot](http://chatbotgpt3.bubbleapps.io) | The Best Way To Build Web Apps Without Code. | Bubble introduces a new way to build a web application. Itâs a no-code tool that lets you build SaaS platforms, marketplaces and CRMs without code. Bubble hosts all applications on its cloud platform. | :grey_question: |
 | [ResolveAI](http://resolveai.co) | Resolveai. | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time. | :grey_question: |
 
 **[⬆ Back to Index](#index)**
