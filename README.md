@@ -13,7 +13,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/public-apis/public-apis">
-    <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=819" />
+    <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=820" />
 </a>
 
 •
@@ -59,6 +59,7 @@ open an issue and we can discuss it there.
 * [Chat Bot](#chat-bot)
 * [Code & Database Assistant](#code--database-assistant)
 * [Content Generation & SEO](#content-generation--seo)
+* [Email Assistant](#email-assistant)
 * [Gaming](#gaming)
 * [Gift Ideas](#gift-ideas)
 * [Image](#image)
@@ -134,7 +135,6 @@ open an issue and we can discuss it there.
 | [Ctrify](http://www.ctrify.com) | First Ai-Powered Seo Action Platform. | Create websites that rank on Google by just giving one keyword to our Artificial Intelligence. | :grey_question: |
 | [Embolden](http://embolden.co) | Use Ai To Power Your Ecommerce Writing. | Embolden uses AI to help you write everything from emails to product descriptions for your ecommerce business. | :white_check_mark: |
 | [Enwrite](http://enwrite.co) | The Ai Tool That Aims To Help Writers Save Time - Not Replace Them. | An AI helper specialized in SEO-optimized content creation. Enwrite helps you write better content faster. | :white_check_mark: |
-| [Neuraltext](https://neuraltext.com) | Neuraltext - AI writer and SEO platform. | Automate your content operations. The all-in-one content marketing and SEO platform that saves you time and money. | :x: |
 | [Frase.io](http://www.frase.io) | Frase - Best Seo Content Optimization Tool & Ai Writer. | Frase AI helps you research, write, and optimize high-quality SEO content in minutes instead of hours. | :x: |
 | [H-supertools AI Writer](https://h-supertools.com/ai/ai-writer) | Ai Writer: Generate Content For Free!. | Generate Blog Sections & Paragraphs in Seconds With This Powerful Free AI Writer. | :white_check_mark: |
 | [Hypotenuse.ai](http://www.hypotenuse.ai) | Let Ai Write Your Content In Seconds. Without Writer’S Block. | Provide a few keywords, and we’ll instantly turn them into full-length articles and marketing content, using our world-class AI with a vast knowledge of the world. | :white_check_mark: |
@@ -144,6 +144,7 @@ open an issue and we can discuss it there.
 | [Lek](http://lek.ai) | Lek.Ai - The Ultimate Content Creator Toolkit Powered By Ai. | Write Anything For Everything. The fastest and easiest way to create content and copy. | :white_check_mark: |
 | [Lex](http://lex.page) | Unlock Your Best Writing. | . | :grey_question: |
 | [LongShot AI](http://www.longshot.ai) | Create Content That Humans And Search Engines Love Using Artificial Intelligence. | LongShot is an AI writing assistant that helps you go from idea to SEO content in minutes. Use creative power of AI with features like real time content, fact check, semantic SEO, custom AI, & more!. | :x: |
+| [Neuraltext](https://neuraltext.com) | Neuraltext - Ai Writer And Seo Platform. | Automate your content operations. The all-in-one content marketing and SEO platform that saves you time and money. | :x: |
 | [Quattr](https://www.quattr.com/) | Quattr Is Your Growth Hq. | The enterprise SEO platform built with powerful AI and GSC data as the foundation. | :x: |
 | [Typli](http://typli.ai) | Typli.Ai - Ai Writer & Seo Writing Assistant. | The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant. | :white_check_mark: |
 | [WordHero](http://wordhero.co) | Generate Ai-Powered Content - In 1 Click. | With WordHero's AI technology, you can create original blog posts, social media content, emails, and more - in just seconds. | :x: |
@@ -151,6 +152,21 @@ open an issue and we can discuss it there.
 | [Wordplay](http://wordplay.ai) | Create Long-Form Content In Seconds. | The #1 AI content generator built for SEO & content publishers. | :white_check_mark: |
 | [Writesonic](http://writesonic.com) | Writesonic - Best Ai Writer, Copywriting & Paraphrasing Tool. | Create SEO-optimized and plagiarism-free contentfor your blogs, ads, emails, and website 10X faster. | :white_check_mark: |
 | [Writey AI](http://writey.ai) | Yes — An A.I That Writes Original, Researched Blog Posts In Minutes. | First true free plagiarism A.I with original and researched content, check Writey A.I in action. | :white_check_mark: |
+
+**[⬆ Back to Index](#index)**
+
+### Email Assistant
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [DraftLab](http://draftlab.ai) | Draftlab Ai: Write Better Emails Faster With Ai. | Fight writer's block and achieve inbox zero. DraftLab is an AI-powered Gmail copilot that generates high-quality email replies for you. | :grey_question: |
+| [Ellie](http://ellieai.com) | Ellie - Your Ai Email Assistant. | Ellie learns from your writing style and crafts replies as if they were written by you. | :grey_question: |
+| [EmailTriager](http://emailtriager.com) | Emailtriager · Email On Autopilot. | At EmailTriager, we build products that do work on your behalf. | :grey_question: |
+| [Quicklines](http://www.quicklines.ai) | Quicklines Lifetime Access - Only $59. | Quicklines is your new AI powered cold outreach assistant. We help you scale your cold email campaigns with our in-depth social scraping and natural language first-line writing platform. | :x: |
+| [Rapidreply](http://rapidreply.ai) | Rapid Reply - Ai Email Assistant. | Save 30 minutes a day writing emails. | :grey_question: |
+| [Recruiting Emails AI by Dover](http://recruitingemails.ai) | Dover - Generate Customized Recruiting Emails. | . | :grey_question: |
+| [Smartwriter](http://www.smartwriter.ai) | Generate 1000S Of Personalised Emails That Get You 8X More Replies Within Minutes Using Ai. | Never waste time researching or writing 'personalised' emails again. Automate your entire outreach process. 40x faster and 6x cheaper than humans. | :white_check_mark: |
+| [Warmer.Ai](http://warmer.ai) | Warmer.Ai - Ai Email Writer. | Warmer uses AI email personalization to write your email outreach. Increase replies, meetings and sales with dynamic personalization. | :grey_question: |
+| [superReply](http://superreply.co) | Upgrade Your Email Game. | The Email Response Hack You've Been Waiting For - Easily send effective replies with tailored responses without writing from scratch. | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
 
@@ -342,6 +358,7 @@ open an issue and we can discuss it there.
 |---|---|---|:---:|
 | [Clickable](http://www.clickable.so) | Generate Ads In Seconds With Ai. | Beautiful, brand-consistent, and highly converting ads for all marketing channels. No design experience needed. | :grey_question: |
 | [Cuetap.com](https://cuetap.com/) | Ai & Ci Powred Sales Battlecards. | AI-powered platform provides automagical Battlecards and actionable Competitive Intelligence. | :white_check_mark: |
+| [GetResponse](http://www.getresponse.com) | Getresponse - Professional Email Marketing For Everyone. | Powerful, simplified tool to send emails, create pages, and automate your marketing. | :white_check_mark: |
 | [Hoppy Copy](http://www.hoppycopy.co) | Hoppy Copy: Ai Email Marketing Copywriting Platform. | Save countless hours writing. Use AI to generate powerful copy for hundreds of different email marketing campaigns, drips, newsletters and more—in seconds ⚡. | :grey_question: |
 | [MarketingBlocks AI](http://marketingblocks.ai) | Marketingblocks Ai. | Human-like all-in-one AI marketing assistant that creates landing pages, promo videos, ads, marketing copy, graphics, emails, voiceovers, blog posts, art & more. | :grey_question: |
 | [Octie.ai](http://octie.ai) | Octie.Ai - Your A.I. Ecommerce Marketing Assistant. | Write emails, product descriptions, and more, with A.I. Created by Octane AI. | :grey_question: |
@@ -381,10 +398,7 @@ open an issue and we can discuss it there.
 | [Coverletterwrite](http://coverletterwrite.com) | Cover Letter Write. | Ask AI to write a personalized cover letter. | :grey_question: |
 | [Diffusion.chat](http://diffusion.chat) | Diffusion Chat. | . | :grey_question: |
 | [Digital Dogs](http://digitaldogs.ai) | The Digital Dogsâ¢. | Cross-app, AI Digital Dogs NFTs for Virtual worlds, VR, AR, social apps, games and more. | :grey_question: |
-| [DraftLab](http://draftlab.ai) | Draftlab Ai: Write Better Emails Faster With Ai. | Fight writer's block and achieve inbox zero. DraftLab is an AI-powered Gmail copilot that generates high-quality email replies for you. | :grey_question: |
 | [EddyAI](http://eddyai.com) | . | . | :grey_question: |
-| [Ellie](http://ellieai.com) | Ellie - Your Ai Email Assistant. | Ellie learns from your writing style and crafts replies as if they were written by you. | :grey_question: |
-| [EmailTriager](http://emailtriager.com) | Emailtriager · Email On Autopilot. | At EmailTriager, we build products that do work on your behalf. | :grey_question: |
 | [Excelformulabot](http://excelformulabot.com) | Excel & Google Sheets Ai Formula Generator - Excelformulabot.Com. | Transform your text instructions into Excel & Google Sheets formulas in seconds with the help of AI. | :grey_question: |
 | [Excuses AI](http://excuses.ai) | Excuse Generator. | Use AI to generate the perfect professional excuse. | :grey_question: |
 | [Explainpaper](http://www.explainpaper.com) | Explainpaper. | . | :grey_question: |
@@ -412,15 +426,11 @@ open an issue and we can discuss it there.
 | [Politepost](http://www.politepost.net) | Rewriting Your Emails With Ai To Be Professional. | Make sure your emails are professional and suitable for the workplace. Write your draft with all your slang and expletives, and our AI bot will rewrite and clean up the text. | :grey_question: |
 | [Promptmakr](http://promptmakr.com) | The Platform For Prompt Engineers To Generate And Share Unlimited Ai Art Prompts For Free. | . | :white_check_mark: |
 | [Proposalgenie](http://www.proposalgenie.ai) | Proposal Genie. | Write the Perfect Upwork proposal in seconds. | :grey_question: |
-| [Quicklines](http://www.quicklines.ai) | Quicklines Lifetime Access - Only $59. | Quicklines is your new AI powered cold outreach assistant. We help you scale your cold email campaigns with our in-depth social scraping and natural language first-line writing platform. | :grey_question: |
-| [Rapidreply](http://rapidreply.ai) | Rapid Reply - Ai Email Assistant. | Save 30 minutes a day writing emails. | :grey_question: |
-| [Recruiting Emails AI by Dover](http://recruitingemails.ai) | Dover - Generate Customized Recruiting Emails. | . | :grey_question: |
 | [ReplAI](http://repl-ai.com) | Replai - Reply Quickly With Ai. | . | :grey_question: |
 | [Scarlettpanda](http://www.scarlettpanda.com) | Scarlett Panda - Customized Short Bedtime Stories. | Scarlett Panda - use our magic to generate customized bedtime stories featuring your friends and family. | :grey_question: |
 | [Scholarcy](http://www.scholarcy.com) | Online Summarizing Tool - Flashcard Generator & Summarizer - Scholarcy. | Scholarcy™ is an online summarizing tool that generates and converts long articles into summary flashcards. Sign up free & start summarizing. | :white_check_mark: |
 | [Sheet AI](http://www.sheetai.app) | Sheetai App - Unlock Ai Power In Your Google Sheets. | SheetAI is a Google Sheets add-on that helps you unlock the power of AI in your spreadsheets. | :grey_question: |
 | [SheetGod](http://www.boloforms.com) | Form Approval Workflow Software - Google Forms Add On. | . | :grey_question: |
-| [Smartwriter](http://www.smartwriter.ai) | Generate 1000S Of Personalised Emails That Get You 8X More Replies Within Minutes Using Ai. | Never waste time researching or writing 'personalised' emails again. Automate your entire outreach process. 40x faster and 6x cheaper than humans. | :white_check_mark: |
 | [Smarty Names](http://smartynames.com) | Free Creative Domain Name Search By Ai Robots. | Finding a creative and unique domain that is still available is easy with SmartyNames.com - Tell us what you do, and our robots will find the domain that is just right for you. Company name generator in one click. | :white_check_mark: |
 | [Sona](http://www.readthistwice.com) | Read This Twice - Books Worth Reading Twice. | Verified book recommendations from people we look up to. | :grey_question: |
 | [Speakingclubai](http://speakingclubai.com) | Speaking Club Ai. | Welcome to Speaking Club AI - the ultimate language learning tool for anyone looking to    improve their speaking skills in a foreign language. With Speaking Club AI, you can practice    your conversation skills with a personalized AI language partner anytime, anywhere. | :grey_question: |
@@ -432,13 +442,11 @@ open an issue and we can discuss it there.
 | [Talk to AI Human](http://www.talktoaihuman.com) | Talk To Ai Human. | . | :grey_question: |
 | [Texti](http://texti.app) | Texti.App. | . | :grey_question: |
 | [Ubie AI Symptom Checker](http://ubiehealth.com) | Check Symptoms & Find Causes By Ai. | Check Symptoms & Find Causes by AI - Answer quiz about your symptoms to find out possible causes, types, severity, and treatment for free by AI. Developed by doctors. | :white_check_mark: |
-| [Warmer.Ai](http://warmer.ai) | Warmer.Ai - Ai Email Writer. | Warmer uses AI email personalization to write your email outreach. Increase replies, meetings and sales with dynamic personalization. | :grey_question: |
 | [WordAI](http://wordai.com) | Ai Text Rewriter - Wordai. | Use artificial intelligence to cut turnaround time, extend your budget, and create more high-quality content that Google and readers will love. | :grey_question: |
 | [Writemeacoverletter](http://writemeacoverletter.com) | Write Me A Cover Letter. | Generate a cover letter in seconds using AI. Just upload your CV, share a link to the job you want, and we'll do the rest. | :grey_question: |
 | [Your Cover Letter](http://yourcoverletter.com) | Ai Cover Letter Builder - Upload Your Resume To Get Started. | Apply for your dream jobs using our AI Cover Letter builder. Add your Resume and the Job Description to generate a Cover Letter in seconds. | :grey_question: |
 | [coverletter.app](http://coverletter.app) | Custom-Made Cover Letters Ready In Minutes Not Hours - Coverletter.App. | Stand out from the competition and increase your chances of getting hired with personalized cover letters from our advanced AI technology. | :grey_question: |
 | [heyy.ai](http://www.heyy.ai) | Automate Content Creation For Your Small Business. | Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators. | :white_check_mark: |
-| [superReply](http://superreply.co) | Upgrade Your Email Game. | The Email Response Hack You've Been Waiting For - Easily send effective replies with tailored responses without writing from scratch. | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
 
@@ -638,7 +646,6 @@ open an issue and we can discuss it there.
 | [GGPredict](http://ggpredict.io) | Ggpredict.Io. | . | :grey_question: |
 | [GPTKey](http://gptkey.com) | Gptkey – Write With Ai Using The Gpt Keyboard. | Write with AI in any app using the GPT custom keyboard extension. | :grey_question: |
 | [Genius Sheets](http://www.geniussheets.com) | Genius Sheets Financial Automation. | Genius Sheets AI Text To Reports solutions help you analyze financial data faster - empowering teams to make better decisions. Stay in Excel and Google Sheets and automate your financial reporting process with live data connections. | :grey_question: |
-| [GetResponse](http://www.getresponse.com) | Getresponse - Professional Email Marketing For Everyone. | . | :grey_question: |
 | [Getactyv](http://getactyv.com) | Getactyv - Ai And Computer Vision Assisted Health And Fitness Platform. | . | :grey_question: |
 | [Getfloorplan](http://getfloorplan.com) | Creating 2D And 3D Floor Plans With Ai. | Up to 30% calls increase reported by our clients using 2D, 3D floor plans and virtual tours. | :grey_question: |
 | [Gifts Genie](http://gen.gifts) | Genie - Ai Gifts Generator. | . | :grey_question: |
