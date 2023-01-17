@@ -56,6 +56,7 @@ open an issue and we can discuss it there.
 ## Index
 
 * [Architecture & Interior Design](#architecture--interior-design)
+* [Avatars](#avatars)
 * [Chat Bot](#chat-bot)
 * [Code & Database Assistant](#code--database-assistant)
 * [Content Generation & SEO](#content-generation--seo)
@@ -83,6 +84,27 @@ open an issue and we can discuss it there.
 | [Image Computer](http://image.computer) | Generate Your Next Interior Design / Paniting / Fashion Collection / Concept Art. | Use our powerful AI technology to generate any type of image you can think of. In a matter of seconds. | :x: |
 | [Interior AI](http://interiorai.com) | Interior Ai: Interior Design Ideas Inspiration, And Virtual Staging App Using Artifical Intelligence. | Get interior design ideas using Artificial Intelligence and virtually stage interiors for real estate listings with different interior styles. | :white_check_mark: |
 | [Makeit.ai](http://www.maket.ai) | Generative Design - Architecture Design Software - Maket. | Our generative design software enables architects, builders & developers to quickly generate thousands of architectural plans instantly. | :grey_question: |
+
+**[⬆ Back to Index](#index)**
+
+### Avatars
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [AIprofilepic](http://aiprofilepic.art) | Create Stunning Profile Pictures Using Ai - Aiprofilepic.Art. | Create your perfect avatars in just a few clicks with our easy-to-use AI technology. | :grey_question: |
+| [ARTI.PICS](http://www.arti.pics) | Ai-Powered Avatar Maker. | Arti.Pics allows you to upload a few photos of yourself and generates more than 200 cool-looking avatars in different styles. | :x: |
+| [AvatarAI](http://avatarai.me) | Create Your Own Photorealistic Ai Avatars. | Choose from 112+ different styles to transform into. | :x: |
+| [Character.io](http://characterio.neeltron.repl.co) | Free Tool To Generate Fresh Cartoon Characters. | Generate a random set of characters or avatars with the power of GANs. Press spacebar to generate a new set. | :white_check_mark: |
+| [DreamPic](http://dreampic.ai) | Dreampic.Ai. | AI Generated Pictures Starring You. | :grey_question: |
+| [HeroPack](http://www.heropack.me) | Heropack. | Become a Hero with AI generated avatars inspired by your favorite video games. | :grey_question: |
+| [Magic AI Avatars](http://magicaiavatars.com) | . | Get 200+ custom avatars made by artificial intelligence. | :grey_question: |
+| [MagicPic](http://www.magicpic.ai) | Magicpic - Ai Profile Picture Generator. | Your profile picture is the first thing people see when they look at your profile. We use artificial intelligence to generate an magical avatars of you. | :grey_question: |
+| [PIXELVIBE](https://www.pixelvibe.com/) | Ai Streamlined Creative Workflow. | Create Presentations, Designs, Stock Photos, Instagram Promos, Product Photography, Vector Art, Animated Avatars. | :grey_question: |
+| [Photoshot](http://photoshot.app) | Your Ai Avatar Generator. | Generate avatars that perfectly capture your unique style. | :x: |
+| [Pictureperfect](http://pictureperfect.ai) | Ai Avatar Generator And Maker - Pictureperfect.Ai. | Get creative and design your own personalized avatar with the help of AI technology. Simply upload a photo and our system will generate a unique avatar that represents you. Share your picture perfect avatar with friends and family on social media and let your creativity shine!. | :grey_question: |
+| [Proface](http://avatarize.club) | Avatarize. | Create High Quality AI-Generated Avatars. | :grey_question: |
+| [ReflectMe](http://reflectme.art) | Reflectme. - Generate Your Ai Avatars!. | See yourself in a way you never have before! Generate your AI avatars, AI photos, AI photographies, profile pictures, LinkedIn professional profile photos, using artificial intelligence! Built on Stable Diffusion and Dreambooth. | :grey_question: |
+| [Theoasis](http://theoasis.com) | Oasis Â Never Worry How You Look On Camera Again. | Create a photorealistic avatar that you can use on every video platform. | :grey_question: |
+| [pixificial](http://www.pixificial.com) | Pixificial: Create Your Ai Avatars, Ai Profiles For Free. | Create Your AI Avatars, AI Profiles For Free. | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
 
@@ -205,7 +227,6 @@ open an issue and we can discuss it there.
 | [AI2image](http://www.ai2image.com) | Free Ai Image Generator - Online Text To Image App - Ai2Image. | Generate the best images online with Free AI Image Generator by AI2image. Use AI to generate high-quality images of any size and style you want!. | :white_check_mark: |
 | [AIGraphics](http://aigraphics.io) | Ai Graphics. | Generate Graphics In Seconds Using AI. | :white_check_mark: |
 | [AIVatar](http://aivatarapp.com) | Aivatar - Magic Avatar Generator. | Generate magic avatar art from your photos. | :grey_question: |
-| [AIprofilepic](http://aiprofilepic.art) | Create Stunning Profile Pictures Using Ai - Aiprofilepic.Art. | Create your perfect avatars in just a few clicks with our easy-to-use AI technology. | :grey_question: |
 | [AVC AI](http://avc.ai) | Online Ai Image Enhancer That Improves Photo Quality By Upscaling, Denoising, Restoring, Face Refinement, And More. | . | :grey_question: |
 | [Accomplice](http://accomplice.ai) | Ai-Powered Design Generation, Editing And Training. | Accomplice’s AI-powered platform helps your team generate 100% royalty-free logos, photos and graphics while saving time, cutting costs, and simplifying your workflow. | :white_check_mark: |
 | [Ai Art Generator](http://aiart.limited) | Ai Art Generator - Ai Image Maker - Ai Art Limited. | Ai Art Limited, creates images, videos, music, and article for you using artificial intelligence. With our app, you can become an artist using artificial intelligence. | :grey_question: |
@@ -219,11 +240,9 @@ open an issue and we can discuss it there.
 | [Article2Image](http://www.stockai.com) | Free Ai-Powered Stock Photos. | Download AI-generated stock photos for free, with the click of a button. Use in any project without worry about attribution. | :white_check_mark: |
 | [Artshop](http://artshops.xyz) | Artshop. | Artshop brings amazing AI artworks to wall arts in your home and create welcoming addition to your beautiful home. | :grey_question: |
 | [Autoportrait](http://autoportrait.co) | Autoportrait - Create Ai Portraits. | Browse millions of styles or create your own, generate AI autoportraits. | :grey_question: |
-| [AvatarAI](http://avatarai.me) | Create Your Own Photorealistic Ai Avatars. | Choose from 112+ different styles to transform into. | :x: |
 | [Bg Eraser](http://bgeraser.com) | Bg Eraser - Magic Eraser For Picture Clean Up. | Powerful AI Inpainting and Picture Clean Up technology. Remove unwanted objects and clean up pictures in seconds. | :grey_question: |
 | [CLIP STUDIO PAINT](http://www.clipstudio.net) | は、売上No.1＆利用率No.1*のイラスト、マンガ、アニメーション制作アプリ。みんな使ってるから、憧れの作風も再現できて、ノウハウもたくさん. | は、リアルで自然な描き味と充実の機能、驚くほど便利な素材が多数。世界中のユーザーがアップロードした10万点以上の素材をダウンロードすれば、ラクしてもっとクオリティの高い作品に。. | :grey_question: |
 | [Cartoonize](http://imagetocartoon.com) | Image To Cartoon. | Best AI cartoonizer online for free. | :white_check_mark: |
-| [Character.io](http://characterio.neeltron.repl.co) | Free Tool To Generate Fresh Cartoon Characters. | Generate a random set of characters or avatars with the power of GANs. Press spacebar to generate a new set. | :white_check_mark: |
 | [Claid.ai](http://claid.ai) | Claid.Ai: Automated Photo Enhancer For Ugc. Web, Mobile & Printing. | AI software to enlarge images with no quality loss, correct colors, increase resolution, retouch product photos and edit UGC automatically. | :grey_question: |
 | [ClipDrop Replace Background](http://clipdrop.co) | Clipdrop. | Create professional visuals without a photo studio. | :grey_question: |
 | [Clipdrop](http://clipdrop.co) | Clipdrop. | Create professional visuals without a photo studio. | :grey_question: |
@@ -237,7 +256,6 @@ open an issue and we can discuss it there.
 | [Dezgo](http://dezgo.com) | Dezgo.Com. | Generate high-quality images from any text prompt. Let the AI draw!. | :grey_question: |
 | [Diffusion Land](http://www.diffusion.land) | Diffusion Land - Generate Images With Ai. | Generated images with 1-click, using any model of your choice. | :white_check_mark: |
 | [Draw Things](http://draw.nnc.ai) | Draw Things: Ai-Assisted Image Generation. | . | :grey_question: |
-| [DreamPic](http://dreampic.ai) | Dreampic.Ai. | AI Generated Pictures Starring You. | :grey_question: |
 | [DreamUp](http://www.dreamup.com) | Dreamup. | The DeviantArt DreamUp™ AI-art generator lets you create AI-art safely and fairly. | :grey_question: |
 | [Dreambooth](http://dream.ai) | High Quality Artwork In Seconds. | . | :grey_question: |
 | [Dreamlike](http://dreamlike.art) | Ai Art Generator, Ai Art Maker - Dreamlike.Art. | . | :grey_question: |
@@ -261,7 +279,6 @@ open an issue and we can discuss it there.
 | [Hairgen](http://www.hairgen.ai) | Preview Your Fue/Fut Hair Transplant Using Ai - Hairgen.Ai. | . | :grey_question: |
 | [HairstyleAI](http://www.hairstyleai.com) | Try Out New Hairstyles With Ai - Hairstyle Ai. | Ready for a new look? Upload you photos and let artificial intelligence technology generate new hairstyles for you. Try it out today!. | :x: |
 | [Hama](http://www.hama.app) | Hama. | Amazing photo eraser. | :grey_question: |
-| [HeroPack](http://www.heropack.me) | Heropack. | Become a Hero with AI generated avatars inspired by your favorite video games. | :grey_question: |
 | [Hotpot](http://hotpot.ai) | Hotpot.Ai. | Hotpot.ai helps you create amazing graphics, pictures, and text. AI tools like AI Art Generator spark creativity and automate drudgery while easy-to-edit templates empower anyone to create device mockups, social media posts, marketing images, app icons, and other work graphics. | :grey_question: |
 | [IMGCreator](http://imgcreator.zmo.ai) | Create Any Image Using Text - Imgcreator.Ai. | . | :grey_question: |
 | [IMGN - Image Engine](http://imagine-ai.net) | Imagine Ai – Advanced Tech Made Easy To Use. | . | :grey_question: |
@@ -276,12 +293,9 @@ open an issue and we can discuss it there.
 | [Leonardo](http://leonardo.ai) | Leonardo.Ai. | Generate production quality assets for your creative projects with AI-driven speed and style-consistency. | :grey_question: |
 | [Lightricks](http://www.lightricks.com) | Home To Creators Everywhere. | Experience the magic of creating with the best tools and services for creators: Facetune 2, Videoleap, Linkinbio & Photoleap. Check it out now!. | :grey_question: |
 | [Mage Space](http://www.mage.space) | Create Anything. | . | :white_check_mark: |
-| [Magic AI Avatars](http://magicaiavatars.com) | . | Get 200+ custom avatars made by artificial intelligence. | :grey_question: |
 | [Magic Eraser](http://magicstudio.com) | Magic Studio - Powered By Ai, Created By You. | Magic Studio helps you automatically edit and create images, using AI. | :grey_question: |
-| [MagicPic](http://www.magicpic.ai) | Magicpic - Ai Profile Picture Generator. | Your profile picture is the first thing people see when they look at your profile. We use artificial intelligence to generate an magical avatars of you. | :grey_question: |
 | [Neuralcanvas](http://neuralcanvas.io) | Neural Canvas - Ai Comic Generator. | Express your creativity with the support of AI - Create AI Generated Illustrations for your comics, blogposts, e-book, graphic novels and more. | :grey_question: |
 | [Not Me Netlify](http://not-me.netlify.app) | Autoportrait - Create Ai Portraits. | Browse millions of styles or create your own, generate AI autoportraits. | :grey_question: |
-| [PIXELVIBE](https://www.pixelvibe.com/) | Ai Streamlined Creative Workflow. | Create Presentations, Designs, Stock Photos, Instagram Promos, Product Photography, Vector Art, Animated Avatars. | :grey_question: |
 | [Palette](http://palette.fm) | Palette - Colorize Photos. | A new AI colorizer. Colorize anything from old black and white photos ð¸, style your artworks ð¨, or give modern images a fresh look ð¶. It's as simple as instagram. | :white_check_mark: |
 | [Partly](http://www.partly.ai) | Mind-Blowing Art From Your Photos, By Partly Ai. | Transform your photos into works of art with the help of AI magic!. | :grey_question: |
 | [PhotoFix](http://photofix.io) | Photofix - Magically Edit Photos With Ai. | . | :grey_question: |
@@ -289,17 +303,14 @@ open an issue and we can discuss it there.
 | [Photorestoration](http://photorestoration.ai) | Old Photo Restoration Online - Photorestoration.Ai. | . | :grey_question: |
 | [Photospells](http://photospells.com) | Photo Spells - Professional Photo Edition With Ai. | . | :grey_question: |
 | [PicasaAI](http://picasaai.com) | Picasa Ai. | Create your AI-generated social media pictures. | :grey_question: |
-| [Pictureperfect](http://pictureperfect.ai) | Ai Avatar Generator And Maker - Pictureperfect.Ai. | Get creative and design your own personalized avatar with the help of AI technology. Simply upload a photo and our system will generate a unique avatar that represents you. Share your picture perfect avatar with friends and family on social media and let your creativity shine!. | :grey_question: |
 | [Pixian](http://pixian.ai) | Remove Image Backgrounds, Free Hd, No Signup - Pixian.Ai. | Remove Image Backgrounds, Free HD, No Signup. | :white_check_mark: |
 | [Playground](http://playgroundai.com) | Free Ai Image Generator: Art, Social Media, Marketing - Playground Ai. | Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more. | :white_check_mark: |
 | [Postedby](http://postedby.ai) | Postcards By Ai, Delivered!. | Postedby.ai allows users to create personalized postcards using advanced AI technology. | :x: |
 | [Prisma](https://prisma-ai.com/prisma) | Prisma Captures The Essence Of Your Photos Transforming Them Into Vivid Color Paintings. | . | :white_check_mark: |
 | [Prisma](https://prisma-ai.com/lensa) | Lensa Is An All-In-One Image Editing App That Takes Your Photos To The Next Level. | . | :white_check_mark: |
-| [Proface](http://avatarize.club) | Avatarize. | Create High Quality AI-Generated Avatars. | :grey_question: |
 | [Profile Picture](http://profilepicture.me) | Profile Picture Art. | . | :grey_question: |
 | [Quasi](http://quasi.market) | We Make Creating With Ai Easy. | Unlock with the power of AI and easily create stunning content of all types with a simple-to-use platform. | :white_check_mark: |
 | [Re.Art AI Image Generator](http://reart.devvinay.in) | Generate An Image. Imagine Anything You Want To Imagine!. | This AI Image Generator Built using Stable Diffusion. To Keep This Service Alive You can support Developer. | :white_check_mark: |
-| [ReflectMe](http://reflectme.art) | Reflectme. - Generate Your Ai Avatars!. | See yourself in a way you never have before! Generate your AI avatars, AI photos, AI photographies, profile pictures, LinkedIn professional profile photos, using artificial intelligence! Built on Stable Diffusion and Dreambooth. | :grey_question: |
 | [Removal.ai](http://removal.ai) | Background Remover - Create Transparent Background. | Remove background online from image using background remover. Create transparent background - Download high-resolution instantly & free. | :white_check_mark: |
 | [Remove.bg](http://www.remove.bg) | Remove Background From Image – Remove.Bg. | Remove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually picking pixels. Upload your photo now & see the magic. | :grey_question: |
 | [Remover.app](http://remover.zmo.ai) | Removeanythingunwanted In Seconds, For Free. | . | :white_check_mark: |
@@ -322,7 +333,6 @@ open an issue and we can discuss it there.
 | [TattosAI](http://www.tattoosai.com) | Ai-Powered Tattoo Artist - Tattoosai. | If you have an idea for a tattoo but can't find the right design, let our AI generate one within seconds. It lets you create the perfect design based on what you like, and it will give you unlimited options so that there's something for everyone. | :grey_question: |
 | [Text To Book Cover](http://stockimg.ai) | Ai Image Generation For Teams - You Can Easily Generate Ai Logo, Ai Book Covers, Ai Posters And More - Stockimg Ai. | AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI. | :grey_question: |
 | [Text2present](http://text2present.com) | Text2Present.Com - Creative Presents From Busy People. | Allows you to create creative customized presents using artificial intelligence for your friends, family and acquaintances without taking your precious time. Simply enter a text description of what you want to gift and let our artificial intelligence do the rest. | :grey_question: |
-| [Theoasis](http://theoasis.com) | Oasis Â Never Worry How You Look On Camera Again. | Create a photorealistic avatar that you can use on every video platform. | :grey_question: |
 | [Tokkingheads](http://www.tokkingheads.com) | Bring Portraits To Life With Ai Magic. Instantly. | . | :white_check_mark: |
 | [Topaz Photo AI](http://www.topazlabs.com) | Topaz Labs: Ai Image Quality Software. | Photo and video enhancement software powered by deep learning gets you the best image quality available for noise reduction, sharpening, upscaling, and more. | :grey_question: |
 | [Tryitonai](http://www.tryitonai.com) | Stunning Professional Headshots & Portraits - Try It On Ai. | Get professional studio quality headshots generated in less than 24hrs! Perfect for LinkedIn, social, team and dating photos. | :grey_question: |
@@ -333,7 +343,6 @@ open an issue and we can discuss it there.
 | [flair](http://flair.ai/) | The Ai Design Tool For Branded Content. | . | :white_check_mark: |
 | [jpgRM](http://jpgrm.com) | Jpgrm - Ai Image Magic Cleanup. | Using 2022 cutting edged AI model to remove any unwanted objects from your images, automatically fill the background. | :grey_question: |
 | [jpghd](http://jpghd.com) | Jpghd - Lossless Restoration Of Old Photos With Ai. | Using 2022 cutting-edge AI models for lossless restoration of old photos (supports old, scratched photo restoration, colorization, and Magic Photo). | :grey_question: |
-| [pixificial](http://www.pixificial.com) | Pixificial: Create Your Ai Avatars, Ai Profiles For Free. | Create Your AI Avatars, AI Profiles For Free. | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
 
@@ -515,7 +524,6 @@ open an issue and we can discuss it there.
 | [AIKIt](http://getaikit.com) | Aikit - Your Wordpress Ai Assistant Using Gpt-3. | . | :grey_question: |
 | [AIduh](http://aiduh.com) | Ai-Responder For Hostaway - Ai Duh. | Chrome extension that cuts your writing time by 98% with AI-powered responses. Built by Hosts for Hosts. | :grey_question: |
 | [AIimages](http://aiimag.es) | Aiimag.Es. | Free&Easy Text2Image AI. | :white_check_mark: |
-| [ARTI.PICS](http://www.arti.pics) | Ai-Powered Avatar Maker. | Arti.Pics allows you to upload a few photos of yourself and generates more than 200 cool-looking avatars in different styles. | :grey_question: |
 | [ARTSIO](http://artsio.xyz) | Artsio. | . | :grey_question: |
 | [Adobe Mic Check](https://podcast.adobe.com/miccheck) | Check Your Mic For Free. | Get advice on how to improve your microphone setup. We’ll make sure you sound podcast-ready. | :white_check_mark: |
 | [Adobe Podcast](http://podcast.adobe.com) | Adobe Podcast - Ai Audio Recording And Editing, All On The Web. | An audio tool for people with stories to tell. | :grey_question: |
@@ -765,7 +773,6 @@ open an issue and we can discuss it there.
 | [Phase](http://www.phase.art) | Welcome To Phase!. | . | :grey_question: |
 | [PhotoAI](http://photoai.me) | Photoai. | Create AI-generated images of yourself. | :grey_question: |
 | [Photoleap](http://www.photoleapapp.com) | Text To Image - Creative & Powerful Photo Editing App By Lightricks. | Use all-in-one photo editor Photoleap for amazing creations on your iPhone: Change backgrounds, remove objects, create collages, apply filters & effects. | :white_check_mark: |
-| [Photoshot](http://photoshot.app) | Generate Custom Ai Avatar - Photoshot. | Generate AI avatars that perfectly capture your unique style. Write a prompt and let our Dreambooth and Stable diffusion technology do the rest. | :grey_question: |
 | [Photosonic AI](http://photosonic.writesonic.com) | Photosonic Ai Art Generator - Create Unique Images With Ai. | Transform your imagination into stunning digital art with Photosonic - the AI art generator. With its creative suggestions, this Writesonic's AI image generator can help unleash your inner artist and share your creations with the world. | :grey_question: |
 | [Phraser](http://phraser.tech) | Phraser Â The Collaborative Creative Ai Tool. | Phraser is an app that helps you create images using generative AI (Midjourney, Stable Diffusion, and DALLE 2), collaborate, and get inspired. | :grey_question: |
 | [Phygital](http://phygital.plus) | . | . | :grey_question: |
