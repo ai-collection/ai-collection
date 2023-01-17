@@ -92,6 +92,7 @@ open an issue and we can discuss it there.
 | [AIprofilepic](http://aiprofilepic.art) | Create Stunning Profile Pictures Using Ai - Aiprofilepic.Art. | Create your perfect avatars in just a few clicks with our easy-to-use AI technology. | :grey_question: |
 | [ARTI.PICS](http://www.arti.pics) | Ai-Powered Avatar Maker. | Arti.Pics allows you to upload a few photos of yourself and generates more than 200 cool-looking avatars in different styles. | :x: |
 | [AvatarAI](http://avatarai.me) | Create Your Own Photorealistic Ai Avatars. | Choose from 112+ different styles to transform into. | :x: |
+| [Avatarize.club](http://avatarize.club) | Create High Quality Ai-Generated Avatars. | Professional Photos, Social Media DPs, Game Avatars, Dating Profile Photos, and more powered by Stable Diffusion 2.1. | :x: |
 | [Character.io](http://characterio.neeltron.repl.co) | Free Tool To Generate Fresh Cartoon Characters. | Generate a random set of characters or avatars with the power of GANs. Press spacebar to generate a new set. | :white_check_mark: |
 | [DreamPic](http://dreampic.ai) | Dreampic.Ai. | AI Generated Pictures Starring You. | :grey_question: |
 | [HeroPack](http://www.heropack.me) | Heropack. | Become a Hero with AI generated avatars inspired by your favorite video games. | :grey_question: |
@@ -100,7 +101,6 @@ open an issue and we can discuss it there.
 | [PIXELVIBE](https://www.pixelvibe.com/) | Ai Streamlined Creative Workflow. | Create Presentations, Designs, Stock Photos, Instagram Promos, Product Photography, Vector Art, Animated Avatars. | :grey_question: |
 | [Photoshot](http://photoshot.app) | Your Ai Avatar Generator. | Generate avatars that perfectly capture your unique style. | :x: |
 | [Pictureperfect](http://pictureperfect.ai) | Ai Avatar Generator And Maker - Pictureperfect.Ai. | Get creative and design your own personalized avatar with the help of AI technology. Simply upload a photo and our system will generate a unique avatar that represents you. Share your picture perfect avatar with friends and family on social media and let your creativity shine!. | :grey_question: |
-| [Proface](http://avatarize.club) | Avatarize. | Create High Quality AI-Generated Avatars. | :grey_question: |
 | [ReflectMe](http://reflectme.art) | Reflectme. - Generate Your Ai Avatars!. | See yourself in a way you never have before! Generate your AI avatars, AI photos, AI photographies, profile pictures, LinkedIn professional profile photos, using artificial intelligence! Built on Stable Diffusion and Dreambooth. | :grey_question: |
 | [Theoasis](http://theoasis.com) | Oasis Â Never Worry How You Look On Camera Again. | Create a photorealistic avatar that you can use on every video platform. | :grey_question: |
 | [pixificial](http://www.pixificial.com) | Pixificial: Create Your Ai Avatars, Ai Profiles For Free. | Create Your AI Avatars, AI Profiles For Free. | :white_check_mark: |
@@ -382,7 +382,7 @@ open an issue and we can discuss it there.
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [DoNotPay](https://donotpay.com/) | The World'S First Robot Lawyer. | Use AI to make legal information accessible to everyone. | :grey_question: |
-| [Paralegal AI](http://www.legalquestions.help) | Paralegal Ai. | . | :grey_question: |
+| [Paralegal AI](http://www.legalquestions.help) | Paralegal Ai. | AI Powered Legal Research and Summaries. | :white_check_mark: |
 | [Spellbook](https://www.spellbook.legal/) | Draft Contracts 3X Faster With Ai. | Spellbook uses GPT-3 to review and suggest language for your contracts, right in Microsoft Word. | :grey_question: |
 
 **[⬆ Back to Index](#index)**
@@ -567,7 +567,7 @@ open an issue and we can discuss it there.
 | [Adobe Mic Check](https://podcast.adobe.com/miccheck) | Check Your Mic For Free. | Get advice on how to improve your microphone setup. We’ll make sure you sound podcast-ready. | :white_check_mark: |
 | [Adobe Podcast](http://podcast.adobe.com) | Adobe Podcast - Ai Audio Recording And Editing, All On The Web. | An audio tool for people with stories to tell. | :grey_question: |
 | [Adobe Podcast](http://www.magictools.online) | 276 Ai Tools. | . | :grey_question: |
-| [Aida](http://www.bookmark.com) | Bookmark.Com - No-Code Website Builder To Start Your Business. | . | :x: |
+| [Aida](http://www.bookmark.com) | Spend Time Running Your Business, Not Your Website. | Let our Ai powered website builder get your business online in minutes. | :white_check_mark: |
 | [Aiva](http://aiva.ai) | Aiva - The Ai Composing Emotional Soundtrack Music. | . | :grey_question: |
 | [Albus](https://www.springworks.in/albus/) | Albus - Chatgpt Now On Slack. | Albus uses natural language processing technology to help you find answers to all your questions without leaving Slack. Have the power of ChatGPT now right inside your Workspace!. | :white_check_mark: |
 | [Alfred](http://www.alfredsearch.com) | Alfred - Gpt Chat On Mobile. | . | :grey_question: |
