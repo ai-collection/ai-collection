@@ -1,9 +1,9 @@
 <div align="center">
     <h1>ai-collection</h1>
-    <i>A Collection of Awesome AI Applications.</i>
+    <i>THE GENERATIVE AI LANDSCAPE</i>
     <br />
     <br />
-    <i>An effort to increase visibility and reach for the awesome generative AI applications out there</i>
+    <i>A List of Awesome Generative AI Applications</i>
     <br />
 </div>
 
@@ -13,7 +13,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/public-apis/public-apis">
-    <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=816" />
+    <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20Generative%20AI%20Applications&color=informational&style=flat-square&label=816" />
 </a>
 
 •
