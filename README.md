@@ -52,32 +52,57 @@ No technical skills or software download required.</p>
 open an issue and we can discuss it there.
 <br />
 
+<div align="center">
 
 ## Index
 
-* [Architecture & Interior Design](#architecture--interior-design)
-* [Avatars](#avatars)
-* [Chat Bot](#chat-bot)
-* [Code & Database Assistant](#code--database-assistant)
-* [Content Generation & SEO](#content-generation--seo)
-* [Customer Support](#customer-support)
-* [Email Assistant](#email-assistant)
-* [Fashion](#fashion)
-* [Gaming](#gaming)
-* [Gift Ideas](#gift-ideas)
-* [Healthcare](#healthcare)
-* [Human Resources](human-resources)
-* [Image](#image)
-* [Legal](#legal)
-* [Logo Generator](#logo-generator)
-* [Music](#music)
-* [Sales & Marketing](#sales--marketing)
-* [Speech](#speech)
-* [Text](#text)
-* [Text To Speech](#text-to-speech)
-* [Translation & Transcript](#translation--transcript)
-* [Video](#video)
-* [Other](#other)
+🏯 [Architecture & Interior Design](#architecture--interior-design)
+
+😎 [Avatars](#avatars)
+
+🤖💬 [Chat Bot](#chat-bot)
+
+💻 [Code & Database Assistant](#code--database-assistant)
+
+📠 [Content Generation & SEO](#content-generation--seo)
+
+👨‍💻 [Customer Support](#customer-support)
+
+📧 [Email Assistant](#email-assistant)
+
+👩‍🎤 [Fashion](#fashion)
+
+🎮 [Gaming](#gaming)
+
+🎁 [Gift Ideas](#gift-ideas)
+
+👩‍⚕️ [Healthcare](#healthcare)
+
+👩‍💼 [Human Resources](human-resources)
+
+🌄 [Image](#image)
+
+👩‍⚖️ [Legal](#legal)
+
+⚜️ [Logo Generator](#logo-generator)
+
+🎼 [Music](#music)
+
+💰 [Sales & Marketing](#sales--marketing)
+
+📢 [Speech](#speech)
+
+📝 [Text](#text)
+
+📝🔉 [Text To Speech](#text-to-speech)
+
+🇺🇳 [Translation & Transcript](#translation--transcript)
+
+🎬 [Video](#video)
+
+[Other](#other)
+
+</div>
 
 ---
 
