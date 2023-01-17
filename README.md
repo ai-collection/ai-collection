@@ -13,7 +13,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/public-apis/public-apis">
-    <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=820" />
+    <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=819" />
 </a>
 
 •
@@ -60,6 +60,7 @@ open an issue and we can discuss it there.
 * [Chat Bot](#chat-bot)
 * [Code & Database Assistant](#code--database-assistant)
 * [Content Generation & SEO](#content-generation--seo)
+* [Customer Support](#customer-support)
 * [Email Assistant](#email-assistant)
 * [Gaming](#gaming)
 * [Gift Ideas](#gift-ideas)
@@ -114,7 +115,6 @@ open an issue and we can discuss it there.
 | [BotGPT](https://t.me/BotGPT_bot) | Telegram Gpt Bot. | Telegram bot that allows fast and intuitive access to GPT, Saves your history, and available from your phone or desktop. Cool features upcoming. | :white_check_mark: |
 | [Botify](http://botif.ai) | Botify Ai. | Fun chat with your favorite characters. | :grey_question: |
 | [Chai](http://chai.ml) | Chai - Chat With Ai. | Chai is a THE destination for compelling conversations with AI. On Chai, you can build and deploy AI chatbots to thousands of users. | :grey_question: |
-| [ResolveAI](http://resolveai.co) | Resolveai. | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time. | :grey_question: |
 
 **[⬆ Back to Index](#index)**
 
@@ -174,6 +174,15 @@ open an issue and we can discuss it there.
 | [Wordplay](http://wordplay.ai) | Create Long-Form Content In Seconds. | The #1 AI content generator built for SEO & content publishers. | :white_check_mark: |
 | [Writesonic](http://writesonic.com) | Writesonic - Best Ai Writer, Copywriting & Paraphrasing Tool. | Create SEO-optimized and plagiarism-free contentfor your blogs, ads, emails, and website 10X faster. | :white_check_mark: |
 | [Writey AI](http://writey.ai) | Yes — An A.I That Writes Original, Researched Blog Posts In Minutes. | First true free plagiarism A.I with original and researched content, check Writey A.I in action. | :white_check_mark: |
+
+**[⬆ Back to Index](#index)**
+
+### Customer Support
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [AI Answers by Cohere](http://cohere.io) | Conversational Ai Platform For Customer Support - Cohere. | AI-powered support assistance that finds answers from previous tickets. | :grey_question: |
+| [EddyAI](http://eddyai.com) | Sell And Support Your Customers Automatically 24/7. | Increase Sales and Reduce Support Costs. | :white_check_mark: |
+| [ResolveAI](http://resolveai.co) | Resolveai. | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time. | :grey_question: |
 
 **[⬆ Back to Index](#index)**
 
@@ -386,7 +395,6 @@ open an issue and we can discuss it there.
 ### Text
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [AI Answers by Cohere](http://cohere.io) | Conversational Ai Platform For Customer Support - Cohere. | AI-powered support assistance that finds answers from previous tickets. | :grey_question: |
 | [AI Review Reply Assistant](http://www.mara-solutions.com) | Respond To Reviews With Your Ai Review Reply Assistant. | AI review reply generator: Reply 3x faster to every customer review with individual responses written by your personal AI assistant. No templates are needed. | :grey_question: |
 | [AIchristmascards](http://aichristmascards.com) | Ai Christmas Cards. | Create & mail unique holiday greetings in minutes - from just $1.99. | :x: |
 | [Aiappideas](http://www.aiappideas.com) | Ai App Ideas. | . | :grey_question: |
@@ -407,7 +415,6 @@ open an issue and we can discuss it there.
 | [Coverletterwrite](http://coverletterwrite.com) | Cover Letter Write. | Ask AI to write a personalized cover letter. | :grey_question: |
 | [Diffusion.chat](http://diffusion.chat) | Diffusion Chat. | . | :grey_question: |
 | [Digital Dogs](http://digitaldogs.ai) | The Digital Dogsâ¢. | Cross-app, AI Digital Dogs NFTs for Virtual worlds, VR, AR, social apps, games and more. | :grey_question: |
-| [EddyAI](http://eddyai.com) | . | . | :grey_question: |
 | [Excelformulabot](http://excelformulabot.com) | Excel & Google Sheets Ai Formula Generator - Excelformulabot.Com. | Transform your text instructions into Excel & Google Sheets formulas in seconds with the help of AI. | :grey_question: |
 | [Excuses AI](http://excuses.ai) | Excuse Generator. | Use AI to generate the perfect professional excuse. | :grey_question: |
 | [Explainpaper](http://www.explainpaper.com) | Explainpaper. | . | :grey_question: |
@@ -673,7 +680,6 @@ open an issue and we can discuss it there.
 | [HotConvo](http://hotconvo.art) | Hotconvo. | . | :grey_question: |
 | [Hour One](http://hourone.ai) | Make Ai Videos To Train Anyone Or Explain Anything - Hour One. | . | :grey_question: |
 | [Hubble](http://www.hubble.team) | Hubble - Product Feedback And Insights From Users. | Create world class products by gathering high quality feedback from users on prototypes, betas and live features. | :grey_question: |
-| [HyperWrite](http://hyperwriteai.com) | Sucuri Website Firewall -. | If you are the site owner (or you manage this site), please whitelist your IP or if you think this block is an error please open a support ticket and make sure to include the block details (displayed in the box below), so we can assist you in troubleshooting the issue. | :grey_question: |
 | [Ideasai](http://ideasai.com) | Startup Ideas Powered By Openai. | . | :grey_question: |
 | [Img2prompt](http://replicate.com) | Replicate – Run Open-Source Machine Learning Models With A Cloud Api. | . | :grey_question: |
 | [Inferkit](http://app.inferkit.com) | Inferkit. | . | :grey_question: |
