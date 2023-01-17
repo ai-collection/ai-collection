@@ -13,7 +13,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/public-apis/public-apis">
-    <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=819" />
+    <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=816" />
 </a>
 
 •
@@ -66,6 +66,7 @@ open an issue and we can discuss it there.
 * [Gift Ideas](#gift-ideas)
 * [Image](#image)
 * [Legal](#legal)
+* [Logo Generator](#logo-generator)
 * [Music](#music)
 * [Sales & Marketing](#sales--marketing)
 * [Speech](#speech)
@@ -340,7 +341,6 @@ open an issue and we can discuss it there.
 | [Stillgram](http://stillgram.io) | Stillgram™ - A.I. Travel Photo Camera App For Iphone®. | Stillgram is an A.I. point & shoot camera app that magically removes background crowds from your urban/travel photos. | :white_check_mark: |
 | [Stylized](http://www.stylized.ai) | The Better Way To Take Product Photos. | From phone to catalog in 30 seconds. | :grey_question: |
 | [TattosAI](http://www.tattoosai.com) | Ai-Powered Tattoo Artist - Tattoosai. | If you have an idea for a tattoo but can't find the right design, let our AI generate one within seconds. It lets you create the perfect design based on what you like, and it will give you unlimited options so that there's something for everyone. | :grey_question: |
-| [Text To Book Cover](http://stockimg.ai) | Ai Image Generation For Teams - You Can Easily Generate Ai Logo, Ai Book Covers, Ai Posters And More - Stockimg Ai. | AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI. | :grey_question: |
 | [Text2present](http://text2present.com) | Text2Present.Com - Creative Presents From Busy People. | Allows you to create creative customized presents using artificial intelligence for your friends, family and acquaintances without taking your precious time. Simply enter a text description of what you want to gift and let our artificial intelligence do the rest. | :grey_question: |
 | [Tokkingheads](http://www.tokkingheads.com) | Bring Portraits To Life With Ai Magic. Instantly. | . | :white_check_mark: |
 | [Topaz Photo AI](http://www.topazlabs.com) | Topaz Labs: Ai Image Quality Software. | Photo and video enhancement software powered by deep learning gets you the best image quality available for noise reduction, sharpening, upscaling, and more. | :grey_question: |
@@ -361,6 +361,16 @@ open an issue and we can discuss it there.
 | [DoNotPay](https://donotpay.com/) | The World'S First Robot Lawyer. | Use AI to make legal information accessible to everyone. | :grey_question: |
 | [Paralegal AI](http://www.legalquestions.help) | Paralegal Ai. | . | :grey_question: |
 | [Spellbook](https://www.spellbook.legal/) | Draft Contracts 3X Faster With Ai. | Spellbook uses GPT-3 to review and suggest language for your contracts, right in Microsoft Word. | :grey_question: |
+
+**[⬆ Back to Index](#index)**
+
+### Logo Generator
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [Logo Rank](http://brandmark.io) | Brandmark Logo Maker - The Most Advanced Ai Logo Design Tool. | . | :grey_question: |
+| [Looka](http://looka.com) | Free Logo Maker & Intelligent Brand Designer. | Make a logo and build a brand you love with Looka. | :white_check_mark: |
+| [Make Logo AI](https://makelogo.ai/) | Makelogo.Ai: Get The Perfect Logo For Your Startup. | Generate beautiful and unique logos for your startup, powered by Artifical Intelligence. | :x: |
+| [Text To Book Cover](http://stockimg.ai) | Ai Image Generation For Teams - You Can Easily Generate Ai Logo, Ai Book Covers, Ai Posters And More - Stockimg Ai. | AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI. | :grey_question: |
 
 **[⬆ Back to Index](#index)**
 
@@ -618,7 +628,6 @@ open an issue and we can discuss it there.
 | [Decile](http://decile.app) | Decile. | Build a data-led organisation with the power of AI. | :grey_question: |
 | [DeepL](http://www.deepl.com) | Deepl Translate: The World'S Most Accurate Translator. | . | :grey_question: |
 | [Descript](http://www.descript.com) | All-In-One Video Editing, As Easy As A Doc. | . | :grey_question: |
-| [Designer Clone AI](http://stockimg.ai) | Ai Image Generation For Teams - You Can Easily Generate Ai Logo, Ai Book Covers, Ai Posters And More - Stockimg Ai. | AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI. | :grey_question: |
 | [Designs AI](http://designs.ai) | Create Logos, Videos, Banners, Voiceovers With Ai. | Create anything online in 2 minutes! Make a logo, video, social media banner, business card, flyer, mockup and more with AI. | :white_check_mark: |
 | [DetangleAI](http://detangle.ai) | Detangleai. | . | :grey_question: |
 | [Dewey](http://www.withdewey.com) | Dewey: Your New Accountability Buddy. | . | :grey_question: |
@@ -706,15 +715,12 @@ open an issue and we can discuss it there.
 | [Levity](http://levity.ai) | Levity - No-Code Ai Workflow Automation Platform. | . | :grey_question: |
 | [Linkedin Posts Generator](http://sid.black) | Siddharth Verma - Full Stack Freelancer - Startup Guy. | Hi, I am Siddharth Verma. A start-up enthusiast with 6+ years of experience. I have worked with over 50+ SAAS companies helping them build robust scalable solutions, product and engineering problems. | :grey_question: |
 | [Listnr 2.0](http://www.listnr.tech) | Ai Voice Generator - Text To Speech Converter - Listnr. | Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with the best synthetic voices. Instantly convert text in to natural-sounding speech and download in MP3 and WAV formats. | :grey_question: |
-| [Logo Rank](http://brandmark.io) | Brandmark Logo Maker - The Most Advanced Ai Logo Design Tool. | . | :grey_question: |
-| [Looka](http://looka.com) | Free Logo Maker & Intelligent Brand Designer. | Make a logo and build a brand you love with Looka. | :white_check_mark: |
 | [Lovelines](http://lovelines.xyz) | Lovelines.Xyz - Share Your Love With Custom Keepsakes Made By Ai. | Create custom keepsakes for a loved one using AI that are optimized for social media. AI-generated poems, stories, letters, and song lyrics. | :grey_question: |
 | [Lovo](http://www.lovo.ai) | Lovo Ai - Free Text To Speech Online With Natural Voices. | . | :white_check_mark: |
 | [LuciaAI](http://luciaai.com) | Luciaai. | Lucia uses the latest and most advanced artificial intelligence technology. With Lucia you can write faster and better than ever before. | :grey_question: |
 | [Magic Mate](http://www.getmagicmate.com) | Magicmate. | . | :grey_question: |
 | [MagicStock](http://aimages.ai) | Aimages - Online Ai Video And Image Enhancer. | Upscale and Enhance videos and images online using AI. | :white_check_mark: |
 | [Magician](http://magician.design) | Magician For Figma. | A magical design tool for Figma powered by AI. | :grey_question: |
-| [Make Logo AI](http://makelogoai.com) | Makelogo.Ai: Get The Perfect Logo For Your Startup. | Generate beautiful and unique logos for your startup, powered by Artifical Intelligence. | :x: |
 | [Make a Video](http://makeavideo.studio) | Make-A-Video. | . | :grey_question: |
 | [Make3D](http://make3d.app) | Make Your Image 3D. | . | :grey_question: |
 | [Mapwith.ai](http://mapwith.ai) | Mapwith.Ai. | . | :grey_question: |
@@ -883,7 +889,6 @@ open an issue and we can discuss it there.
 | [Startup Pitch Generator](http://tally.so) | Free Online Form Builder. | Create forms for all purposes in seconds.Without knowing how to code. | :white_check_mark: |
 | [Steve AI](http://www.steve.ai) | Steve.Ai - WorldâS Fastest Way To Create Videos. | With our patented AI technology, you can make professional videos in MINUTES. See the MAGIC happen as the AI picks the right creative media assets for your Video. | :grey_question: |
 | [Stock AI](http://www.stockai.com) | Free Ai-Powered Stock Photos. | Download AI-generated stock photos for free, with the click of a button. Use in any project without worry about attribution. | :white_check_mark: |
-| [Stockimg](http://stockimg.ai) | Ai Image Generation For Teams - You Can Easily Generate Ai Logo, Ai Book Covers, Ai Posters And More - Stockimg Ai. | AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI. | :grey_question: |
 | [Stocknews AI](http://stocknewsai.com) | Stocknews Ai - Ai Picked Stock News. | . | :grey_question: |
 | [StoriesbyAI](http://storiesby.ai) | Stories By Ai - Substack. | . | :grey_question: |
 | [Story Bard](http://www.storybard.co) | Story Bard. | . | :grey_question: |
@@ -919,7 +924,6 @@ open an issue and we can discuss it there.
 | [Textunbox](http://textunbox.app) | Textunbox.App. | TextUnbox - harness the power of AI!. | :grey_question: |
 | [TextureLab](http://www.texturelab.xyz) | Instant And Unique 3D Textures For Your Next Game. | Generate 3D textures for your game in seconds thanks to AI. | :grey_question: |
 | [Thegist](http://www.thegist.ai) | Thegist Ai- Summarize Slack Thread And Channels - Get The Gist Of It. | . | :grey_question: |
-| [There is a logo for that](http://stockimg.ai) | Ai Image Generation For Teams - You Can Easily Generate Ai Logo, Ai Book Covers, Ai Posters And More - Stockimg Ai. | AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI. | :grey_question: |
 | [Thiscampsitedoesnotexist](http://thiscampsitedoesnotexist.com) | This Campsite Does Not Exist. | AI generated campsites featuring stunning locations, tents, and weather all created by AI using stable diffusion. | :grey_question: |
 | [Thispersondoesnotexist](http://thispersondoesnotexist.com) | This Person Does Not Exist. | . | :grey_question: |
 | [Thumbsnap](http://art.thumbsnap.com) | Ai Art Generator! Powered By Stable Diffusion - Thumbsnap - Free Photo & Video Hosting. | ThumbSnap: Free Photo and Video Sharing. | :white_check_mark: |
