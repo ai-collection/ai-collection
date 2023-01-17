@@ -62,6 +62,7 @@ open an issue and we can discuss it there.
 * [Content Generation & SEO](#content-generation--seo)
 * [Customer Support](#customer-support)
 * [Email Assistant](#email-assistant)
+* [Fashion](#fashion)
 * [Gaming](#gaming)
 * [Gift Ideas](#gift-ideas)
 * [Image](#image)
@@ -202,6 +203,14 @@ open an issue and we can discuss it there.
 
 **[⬆ Back to Index](#index)**
 
+### Fashion
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [FashionAdvisorAI](http://www.fashionadvisorai.com) | Fashionadvisor.Ai - Ask Questions & Get Answer'S From Fashionadvisor.Ai. | FashionAdvisor is an AI based on GPT3 which will answer all your fashion related questions instantly for free. | :grey_question: |
+| [Visualhound](http://visualhound.com) | Visualhound - Prototype Your Fashion Design Ideas With Ai. | Visualize your product designs before going to production. Create realistic-looking product images to feed your moodboards and boost your design process. | :grey_question: |
+
+**[⬆ Back to Index](#index)**
+
 ### Gaming
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
@@ -278,7 +287,6 @@ open an issue and we can discuss it there.
 | [Face Swapper](http://faceswapper.ai) | Face Swapper Online. | Swap face from photos and vidoes automatically. Free and unlimited photo swapping. | :white_check_mark: |
 | [Face-generator](http://generated.photos) | Generated Photos - Unique, Worry-Free Model Photos. | . | :grey_question: |
 | [Facet 2.0](http://facet.ai) | Facet: Image Creation, Reimagined. | Harness the power of AI to make the creative process fast, effective and accessible. Experiment with visual directions, automate selections, and collaborate--all on the web. | :grey_question: |
-| [FashionAdvisorAI](http://www.fashionadvisorai.com) | Fashionadvisor.Ai - Ask Questions & Get Answer'S From Fashionadvisor.Ai. | FashionAdvisor is an AI based on GPT3 which will answer all your fashion related questions instantly for free. | :grey_question: |
 | [Fermat](http://fermat.ws) | Creativity Augmented For Content Creation. | Unleash your creativity with AI on a collaborative canvas. | :grey_question: |
 | [Flying Dog for Photoshop](http://www.flyingdog.de/sd/) | Ai Superpower For Photos​Hop. | Four powerful AI connectors: Three for Stable Diffusion and DALL-E 2. Use your own Stable Diffusion Server. | :grey_question: |
 | [For the Wall](http://forthewall.art) | For The Wall - Ai Generated Wall Art - Forthewall.Art. | Create your own unique and personalized art prints with forthewall.art! Our AI-powered platform lets you generate stunning works of art from scratch. Order your one-of-a-kind print today and transform your blank walls into something special. Try it out now at forthewall.art!. | :grey_question: |
@@ -966,7 +974,6 @@ open an issue and we can discuss it there.
 | [Versational](http://www.versational.ai) | Versational For Remote Teams. | Versational maximizes the value said in every conversation. Get AI conversation results for free. Versational transcribes, summarizes, automates data entry, extracts takeaways, lets you share clips, and shows ways to improve your conversations. | :white_check_mark: |
 | [Vidyo](http://vidyo.ai) | Ai Based Content Repurposing - Vidyo.Ai. | Create social ready short clips from your videos with AI ✨ Save 90% time and effort. | :grey_question: |
 | [Viral Post Generator](http://viralpostgenerator.taplio.com) | Viral Post Generator Clone. | Go mega-viral on Linkedin - Generate a successful post with the power of AI. | :grey_question: |
-| [Visualhound](http://visualhound.com) | Visualhound - Prototype Your Fashion Design Ideas With Ai. | Visualize your product designs before going to production. Create realistic-looking product images to feed your moodboards and boost your design process. | :grey_question: |
 | [Visuali](http://visuali.io) | Visuali. | AI image generation made easy. | :grey_question: |
 | [Vocads Survey](http://www.vocads.com) | . | . | :grey_question: |
 | [Voice AI](http://voice.ai) | Ai Voice Changer App For Pc And Mac - Change Your Voice On The Fly. | . | :grey_question: |
