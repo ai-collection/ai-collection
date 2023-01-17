@@ -48,6 +48,11 @@ No technical skills or software download required.</p>
 
 ---
 
+> **_NOTE:_**  Categories are still work in progress. If you have suggestions on how to categorize the list, please
+open an issue and we can discuss it there.
+<br />
+
+
 ## Index
 
 * [Architecture & Interior Design](#architecture--interior-design)
