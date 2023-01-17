@@ -13,7 +13,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/public-apis/public-apis">
-    <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20Generative%20AI%20Applications&color=informational&style=flat-square&label=819" />
+    <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20Generative%20AI%20Applications&color=informational&style=flat-square&label=818" />
 </a>
 
 •
@@ -79,7 +79,7 @@ open an issue and we can discuss it there.
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Room Planner](http://airoomplanner.com) | Interior Design By Ai. | Get hundreds of interior design ideas for your room - free with no limit. | :grey_question: |
-| [Dimensions](http://www.dimensions.ink) | Dimensions - Rapidly Create Visual Concepts With Ai. | Imagine being able to create beautiful interior designs with ease – that’s what Dimensions offers. | :grey_question: |
+| [Dimensions](http://www.dimensions.ink) | Dimensions - Rapidly Create Visual Concepts With Ai. | Imagine being able to create beautiful interior designs with ease – that’s what Dimensions offers. | :white_check_mark: |
 | [Image Computer](http://image.computer) | Generate Your Next Interior Design / Paniting / Fashion Collection / Concept Art. | Use our powerful AI technology to generate any type of image you can think of. In a matter of seconds. | :x: |
 | [Interior AI](http://interiorai.com) | Interior Ai: Interior Design Ideas Inspiration, And Virtual Staging App Using Artifical Intelligence. | Get interior design ideas using Artificial Intelligence and virtually stage interiors for real estate listings with different interior styles. | :white_check_mark: |
 | [Makeit.ai](http://www.maket.ai) | Generative Design - Architecture Design Software - Maket. | Our generative design software enables architects, builders & developers to quickly generate thousands of architectural plans instantly. | :grey_question: |
@@ -163,11 +163,11 @@ open an issue and we can discuss it there.
 | [Katteb](http://katteb.com) | Write Fact-Checked Content. | Katteb AI makes it fast & easy to create content for your blog and online store. | :white_check_mark: |
 | [Lek](http://lek.ai) | Lek.Ai - The Ultimate Content Creator Toolkit Powered By Ai. | Write Anything For Everything. The fastest and easiest way to create content and copy. | :white_check_mark: |
 | [Lex](http://lex.page) | Unlock Your Best Writing. | . | :grey_question: |
-| [LongShot AI](http://www.longshot.ai) | Create Content That Humans And Search Engines Love Using Artificial Intelligence. | LongShot is an AI writing assistant that helps you go from idea to SEO content in minutes. Use creative power of AI with features like real time content, fact check, semantic SEO, custom AI, & more!. | :x: |
+| [LongShot AI](http://www.longshot.ai?deal=beth0) | Create Content That Humans And Search Engines Love Using Artificial Intelligence. | LongShot is an AI writing assistant that helps you go from idea to SEO content in minutes. Use creative power of AI with features like real time content, fact check, semantic SEO, custom AI, & more!. | :x: |
 | [Neuraltext](https://neuraltext.com) | Neuraltext - Ai Writer And Seo Platform. | Automate your content operations. The all-in-one content marketing and SEO platform that saves you time and money. | :x: |
 | [Quattr](https://www.quattr.com/) | Quattr Is Your Growth Hq. | The enterprise SEO platform built with powerful AI and GSC data as the foundation. | :x: |
 | [Typli](http://typli.ai) | Typli.Ai - Ai Writer & Seo Writing Assistant. | The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant. | :white_check_mark: |
-| [WordHero](http://wordhero.co) | Generate Ai-Powered Content - In 1 Click. | With WordHero's AI technology, you can create original blog posts, social media content, emails, and more - in just seconds. | :x: |
+| [WordHero](http://wordhero.co?via=beth0) | Generate Ai-Powered Content - In 1 Click. | With WordHero's AI technology, you can create original blog posts, social media content, emails, and more - in just seconds. | :x: |
 | [Wordkraft](http://wordkraft.ai) | Create High-Quality Content Instantly With Ai. | Wordkraft AI content writer is a revolutionary tool Powered by GPT-3 the most advance artificial intelligence technology to generate well-written, keyword-optimized content for your blog, website or marketing needs. | :white_check_mark: |
 | [Wordplay](http://wordplay.ai) | Create Long-Form Content In Seconds. | The #1 AI content generator built for SEO & content publishers. | :white_check_mark: |
 | [Writesonic](http://writesonic.com) | Writesonic - Best Ai Writer, Copywriting & Paraphrasing Tool. | Create SEO-optimized and plagiarism-free contentfor your blogs, ads, emails, and website 10X faster. | :white_check_mark: |
@@ -680,7 +680,6 @@ open an issue and we can discuss it there.
 | [Everypixel](http://www.everypixel.com) | Stock Image Search Engine - More Than 50 Best Sources - Everypixel. | . | :grey_question: |
 | [ExactBuyer Search](http://www.exactbuyer.com) | Exactbuyer - Ai Powered Business Search For Prospecting Teams. | . | :grey_question: |
 | [Fabled](http://fabled.ai) | Fabled.Ai - Ai Illustrated Stories. | . | :grey_question: |
-| [FactGPT](http://www.longshot.ai) | Longshot Ai - Best Long-Form Ai Writing Assistant And Content Generator. | LongShot is an AI writing assistant that helps you and your team create helpful blogs that rank on Google. | :grey_question: |
 | [FakeYou](http://fakeyou.com) | Fakeyou. Deep Fake Text To Speech. | . | :grey_question: |
 | [Fireflies](http://fireflies.ai) | Fireflies.Ai - Fireflies Ai Notetaker & Conversation Intelligence. | Fireflies.ai helps your team record, transcribe, search, and analyze voice conversations. | :grey_question: |
 | [Flexberry AI Assistant](http://ai.flexberry.net) | Ai Assistant. | This helps to reduce 30% of the time business analyst uses for processing requirements  and also to generate artifacts. | :grey_question: |
