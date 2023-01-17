@@ -13,7 +13,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/public-apis/public-apis">
-    <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20Generative%20AI%20Applications&color=informational&style=flat-square&label=816" />
+    <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20Generative%20AI%20Applications&color=informational&style=flat-square&label=819" />
 </a>
 
 •
@@ -215,6 +215,9 @@ open an issue and we can discuss it there.
 | [Chess AI](http://betafish.gavinong.com) | Betafish.Js - Chess Ai. | . | :grey_question: |
 | [IRMO](http://www.irmoai.com) | Made For Creation. The Very Best In Ai Apps. | Your Source for Mobile Entertainment & AI Art Creation. | :white_check_mark: |
 | [Scenario](http://www.scenario.gg) | Scenario. | Unlock the power of AI-generated gaming assets with Scenario. Generate engaging content quickly and easily to save time and spark creativity. | :grey_question: |
+| [charisma](https://charisma.ai/) | Power Real-Time Digital Humans. | For Games • Metaverses • VR • Education • TV & Film • Publishing and beyond!. | :grey_question: |
+| [hidden door](https://www.hiddendoor.co/) | Hello, Worlds!. | A new kind of social roleplaying experience, powered by narrative AI. | :grey_question: |
+| [latitude](https://latitude.io/) | The Future Of Ai-Generated Games. | We’re making AI a tool of creativity and freedom for everyone. | :grey_question: |
 
 **[⬆ Back to Index](#index)**
 
