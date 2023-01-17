@@ -13,7 +13,7 @@
     <sup>Status</sup>
     <br />
     <a href="https://github.com/public-apis/public-apis">
-        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=822" />
+        <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20AI%20Projects&color=informational&style=flat-square&label=820" />
     </a>
 </div>
 
@@ -46,9 +46,11 @@ No technical skills or software download required.</p>
 ## Index
 
 * [Architecture & Interior Design](#architecture--interior-design)
+* [Chat Bot](#chat-bot)
 * [Code & Database Assistant](#code--database-assistant)
 * [Content Generation & SEO](#content-generation--seo)
 * [Gaming](#gaming)
+* [Gift Ideas](#gift-ideas)
 * [Image](#image)
 * [Legal](#legal)
 * [Music](#music)
@@ -70,6 +72,17 @@ No technical skills or software download required.</p>
 | [Image Computer](http://image.computer) | Generate Your Next Interior Design / Paniting / Fashion Collection / Concept Art. | Use our powerful AI technology to generate any type of image you can think of. In a matter of seconds. | :x: |
 | [Interior AI](http://interiorai.com) | Interior Ai: Interior Design Ideas Inspiration, And Virtual Staging App Using Artifical Intelligence. | Get interior design ideas using Artificial Intelligence and virtually stage interiors for real estate listings with different interior styles. | :white_check_mark: |
 | [Makeit.ai](http://www.maket.ai) | Generative Design - Architecture Design Software - Maket. | Our generative design software enables architects, builders & developers to quickly generate thousands of architectural plans instantly. | :grey_question: |
+
+**[⬆ Back to Index](#index)**
+
+### Chat Bot
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [BotGPT](https://t.me/BotGPT_bot) | Telegram Gpt Bot. | Telegram bot that allows fast and intuitive access to GPT, Saves your history, and available from your phone or desktop. Cool features upcoming. | :white_check_mark: |
+| [Botify](http://botif.ai) | Botify Ai. | Fun chat with your favorite characters. | :grey_question: |
+| [Chai](http://chai.ml) | Chai - Chat With Ai. | Chai is a THE destination for compelling conversations with AI. On Chai, you can build and deploy AI chatbots to thousands of users. | :grey_question: |
+| [GPT ChatBot](http://chatbotgpt3.bubbleapps.io) | The Best Way To Build Web Apps Without Code. | Bubble introduces a new way to build a web application. Itâs a no-code tool that lets you build SaaS platforms, marketplaces and CRMs without code. Bubble hosts all applications on its cloud platform. | :grey_question: |
+| [ResolveAI](http://resolveai.co) | Resolveai. | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time. | :grey_question: |
 
 **[⬆ Back to Index](#index)**
 
@@ -131,27 +144,6 @@ No technical skills or software download required.</p>
 
 **[⬆ Back to Index](#index)**
 
-### Sales & Marketing
-| Name | Title | Description | Offer Free Version |
-|---|---|---|:---:|
-| [Clickable](http://www.clickable.so) | Generate Ads In Seconds With Ai. | Beautiful, brand-consistent, and highly converting ads for all marketing channels. No design experience needed. | :grey_question: |
-| [Cuetap.com](https://cuetap.com/) | Ai & Ci Powred Sales Battlecards. | AI-powered platform provides automagical Battlecards and actionable Competitive Intelligence. | :white_check_mark: |
-| [Hoppy Copy](http://www.hoppycopy.co) | Hoppy Copy: Ai Email Marketing Copywriting Platform. | Save countless hours writing. Use AI to generate powerful copy for hundreds of different email marketing campaigns, drips, newsletters and more—in seconds ⚡. | :grey_question: |
-| [MarketingBlocks AI](http://marketingblocks.ai) | Marketingblocks Ai. | Human-like all-in-one AI marketing assistant that creates landing pages, promo videos, ads, marketing copy, graphics, emails, voiceovers, blog posts, art & more. | :grey_question: |
-| [Octie.ai](http://octie.ai) | Octie.Ai - Your A.I. Ecommerce Marketing Assistant. | Write emails, product descriptions, and more, with A.I. Created by Octane AI. | :grey_question: |
-
-**[⬆ Back to Index](#index)**
-
-### Translation & Transcript
-| Name | Title | Description | Offer Free Version |
-|---|---|---|:---:|
-| [Deciphr AI](http://www.deciphr.ai) | Deciphr Ai. | Powered by deep AI, Deciphr timestamps and summarizes your entire podcast transcript for you. In less time than it takes to make coffee. | :white_check_mark: |
-| [Scribebuddy](http://secure.scribebuddy.com) | . | Automatically Transcribe Any Audio, Video, Zoom Call, Google Meet, Podcast, Live Speech & More in Minutes. | :x: |
-| [Taption](http://www.taption.com) | Automatically Generate Transcript, Translation And Subtitles - Taption. | . | :grey_question: |
-| [Voicetapp](http://voicetapp.com) | Voicetapp - Speech To Text Transcription. | Get accurate transcriptions for your AUDIO & VIDEO with the latest speech rocognition technology. | :grey_question: |
-
-**[⬆ Back to Index](#index)**
-
 ### Gaming
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
@@ -160,6 +152,17 @@ No technical skills or software download required.</p>
 | [Chess AI](http://betafish.gavinong.com) | Betafish.Js - Chess Ai. | . | :grey_question: |
 | [IRMO](http://www.irmoai.com) | Made For Creation. The Very Best In Ai Apps. | Your Source for Mobile Entertainment & AI Art Creation. | :white_check_mark: |
 | [Scenario](http://www.scenario.gg) | Scenario. | Unlock the power of AI-generated gaming assets with Scenario. Generate engaging content quickly and easily to save time and spark creativity. | :grey_question: |
+
+**[⬆ Back to Index](#index)**
+
+### Gift Ideas
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [CoolGiftIdeas](http://www.coolgiftideas.io) | Cool Gift Ideas - Ai-Powered Gift Suggestions. | . | :grey_question: |
+| [Elf Help](http://www.elfhelp.ai) | Elf Help. | Need some inspo for your holiday gifting? Elf help is your ultimate gift-giving assistant, offering creative and personalized suggestions for everyone on your list. | :grey_question: |
+| [Gift Genie](http://www.giftgenie.ai) | Gift Genie Ai - Free Personalized Gift Ideas For Christmas, Birthdays, Holidays, Etc!. | Gift Genie AI is an AI-powered that allows you to find the perfect gift in seconds with AI for free. Jot down a brief description of your recipient, and get a list of gifts our AI genie believes will delight them. | :white_check_mark: |
+| [GiftBot](http://www.getgift.help) | Get Gift Help. | Struggling to figure out what to get someone for the holidays? GiftBot asks you questions to help recommend gift ideas!. | :white_check_mark: |
+| [Giftastic AI](http://giftastic.ai) | Giftastic.Ai - Perfect Gift For Your Special One!. | Personalised gift ideas for every occasion!. | :grey_question: |
 
 **[⬆ Back to Index](#index)**
 
@@ -324,6 +327,18 @@ No technical skills or software download required.</p>
 
 **[⬆ Back to Index](#index)**
 
+### Sales & Marketing
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [Clickable](http://www.clickable.so) | Generate Ads In Seconds With Ai. | Beautiful, brand-consistent, and highly converting ads for all marketing channels. No design experience needed. | :grey_question: |
+| [Cuetap.com](https://cuetap.com/) | Ai & Ci Powred Sales Battlecards. | AI-powered platform provides automagical Battlecards and actionable Competitive Intelligence. | :white_check_mark: |
+| [Hoppy Copy](http://www.hoppycopy.co) | Hoppy Copy: Ai Email Marketing Copywriting Platform. | Save countless hours writing. Use AI to generate powerful copy for hundreds of different email marketing campaigns, drips, newsletters and more—in seconds ⚡. | :grey_question: |
+| [MarketingBlocks AI](http://marketingblocks.ai) | Marketingblocks Ai. | Human-like all-in-one AI marketing assistant that creates landing pages, promo videos, ads, marketing copy, graphics, emails, voiceovers, blog posts, art & more. | :grey_question: |
+| [Octie.ai](http://octie.ai) | Octie.Ai - Your A.I. Ecommerce Marketing Assistant. | Write emails, product descriptions, and more, with A.I. Created by Octane AI. | :grey_question: |
+| [SaleWhale](http://salewhale.chat) | Sale Whale - Ai-Powered Sales Rep Chatbot. | We provide impossibly good Sales Rep and Customer Support Chatbots, using the world's best available AI models. Learn how it will improve your business. | :grey_question: |
+
+**[⬆ Back to Index](#index)**
+
 ### Speech
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
@@ -347,8 +362,6 @@ No technical skills or software download required.</p>
 | [Bahasa](http://www.bahasa.ai) | Bahasa.Ai - Chatbot Which Serves Customers Fully. | Automation that helps your business serves millions of happy customers fastlyâpowered by AI specially built for Bahasa Indonesia. | :grey_question: |
 | [Bearly Ai](http://bearly.ai) | Save Hundreds Of Hours Reading And Writing With The World'S Best Ai. | . | :white_check_mark: |
 | [Bookclub](http://www.bookclub.ai) | Bookclub.Ai - Meet Your Next Book. | . | :grey_question: |
-| [Botify](http://botif.ai) | Botify Ai. | Fun chat with your favorite characters. | :grey_question: |
-| [Chai](http://chai.ml) | Chai - Chat With Ai. | Chai is a THE destination for compelling conversations with AI. On Chai, you can build and deploy AI chatbots to thousands of users. | :grey_question: |
 | [ChatBCG](http://www.chatbcg.com) | Chatbcg: Generative Ai For Slides ✨. | Instantly create slide decks using ChatBCG. | :grey_question: |
 | [ChatGPT](http://chat.openai.com) | . | . | :grey_question: |
 | [ChatGPT Writer](http://chatgptwriter.ai) | . | . | :grey_question: |
@@ -368,7 +381,6 @@ No technical skills or software download required.</p>
 | [Filechat](https://www.filechat.io/) | Explore Documents Using Artificial Intelligence. | Filechat is the perfect tool to explore documents using artificial intelligence. Simply upload your PDF and start asking questions to your personalized chatbot. | :white_check_mark: |
 | [Formula Dog](http://formula.dog) | Generate Excel Formulas And More Using Ai - Formula Dog. | Transform your text instructions into Excel formulas, VBA, Regex etc. in seconds with the help of AI. | :grey_question: |
 | [Formulagod](http://www.formulagod.ai) | One Formula To Rule Them All. | Talk to sheets with built-in artificial intelligence. | :grey_question: |
-| [GPT ChatBot](http://chatbotgpt3.bubbleapps.io) | The Best Way To Build Web Apps Without Code. | Bubble introduces a new way to build a web application. Itâs a no-code tool that lets you build SaaS platforms, marketplaces and CRMs without code. Bubble hosts all applications on its cloud platform. | :grey_question: |
 | [GPT Hotline](http://www.gpthotline.com) | Gpt Hotline. | Connect with the world's smartest AI on WhatsApp. | :grey_question: |
 | [Gandhiji](http://www.messengerx.io) | Messengerx.Io - Chat With Ai. | AI Powered Chat Apps for Everyone. | :grey_question: |
 | [Geniusreview](http://geniusreview.xyz) | Geniusreview - 360° Ai Performance Reviews. | Save tons of hours by using GeniusReview to get tailored answers to your performance review questions. | :grey_question: |
@@ -394,7 +406,6 @@ No technical skills or software download required.</p>
 | [Rapidreply](http://rapidreply.ai) | Rapid Reply - Ai Email Assistant. | Save 30 minutes a day writing emails. | :grey_question: |
 | [Recruiting Emails AI by Dover](http://recruitingemails.ai) | Dover - Generate Customized Recruiting Emails. | . | :grey_question: |
 | [ReplAI](http://repl-ai.com) | Replai - Reply Quickly With Ai. | . | :grey_question: |
-| [ResolveAI](http://resolveai.co) | Resolveai. | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time. | :grey_question: |
 | [Scarlettpanda](http://www.scarlettpanda.com) | Scarlett Panda - Customized Short Bedtime Stories. | Scarlett Panda - use our magic to generate customized bedtime stories featuring your friends and family. | :grey_question: |
 | [Scholarcy](http://www.scholarcy.com) | Online Summarizing Tool - Flashcard Generator & Summarizer - Scholarcy. | Scholarcy™ is an online summarizing tool that generates and converts long articles into summary flashcards. Sign up free & start summarizing. | :white_check_mark: |
 | [Sheet AI](http://www.sheetai.app) | Sheetai App - Unlock Ai Power In Your Google Sheets. | SheetAI is a Google Sheets add-on that helps you unlock the power of AI in your spreadsheets. | :grey_question: |
@@ -418,7 +429,6 @@ No technical skills or software download required.</p>
 | [coverletter.app](http://coverletter.app) | Custom-Made Cover Letters Ready In Minutes Not Hours - Coverletter.App. | Stand out from the competition and increase your chances of getting hired with personalized cover letters from our advanced AI technology. | :grey_question: |
 | [heyy.ai](http://www.heyy.ai) | Automate Content Creation For Your Small Business. | Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators. | :white_check_mark: |
 | [superReply](http://superreply.co) | Upgrade Your Email Game. | The Email Response Hack You've Been Waiting For - Easily send effective replies with tailored responses without writing from scratch. | :white_check_mark: |
-| [BotGPT](https://t.me/BotGPT_bot)                           | Telegram GPT Bot. | Telegram bot that allows fast and intuitive access to GPT, Saves your history, and available from your phone or desktop. Cool features upcoming. | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
 
@@ -427,6 +437,16 @@ No technical skills or software download required.</p>
 |---|---|---|:---:|
 | [Speech-to-Speech](http://www.resemble.ai) | Your Complete Generative Voice Ai Toolkit. | Resemble’s AI voice generator lets you create human–like voice overs in seconds. | :x: |
 | [Unreal Speech](http://unrealspeech.up.railway.app) | Ultra Realistic Text-To-Speech Api. | More natural-sounding and up to 4x cheaper than Amazon, Google and Microsoft. | :white_check_mark: |
+
+**[⬆ Back to Index](#index)**
+
+### Translation & Transcript
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [Deciphr AI](http://www.deciphr.ai) | Deciphr Ai. | Powered by deep AI, Deciphr timestamps and summarizes your entire podcast transcript for you. In less time than it takes to make coffee. | :white_check_mark: |
+| [Scribebuddy](http://secure.scribebuddy.com) | . | Automatically Transcribe Any Audio, Video, Zoom Call, Google Meet, Podcast, Live Speech & More in Minutes. | :x: |
+| [Taption](http://www.taption.com) | Automatically Generate Transcript, Translation And Subtitles - Taption. | . | :grey_question: |
+| [Voicetapp](http://voicetapp.com) | Voicetapp - Speech To Text Transcription. | Get accurate transcriptions for your AUDIO & VIDEO with the latest speech rocognition technology. | :grey_question: |
 
 **[⬆ Back to Index](#index)**
 
@@ -536,7 +556,6 @@ No technical skills or software download required.</p>
 | [Caktus](http://www.caktus.ai) | Caktus Ai. | . | :grey_question: |
 | [Chapterme](http://chapterme.co) | Chapterme - Ai Powered Chapters For Your Videos. | . | :grey_question: |
 | [CharacterAI](http://beta.character.ai) | . | . | :grey_question: |
-| [Chat-example](http://chat-example.langa.me) | Chat-Example. | . | :grey_question: |
 | [CheapNFT.Art](http://cheapnft.art) | Cheap Nfts. | . | :grey_question: |
 | [Cleanvoice AI](http://cleanvoice.ai) | Get Rid Of Filler Words From Your Audio Recordings. | Cleanvoice is an artificial intelligence which removes filler sounds, stuttering and mouth sounds from your podcast or audio recording. | :grey_question: |
 | [Clip audio](http://www.clip.audio) | Clip - Ai Audio Search Engine. | The audio search engine. | :grey_question: |
@@ -545,7 +564,6 @@ No technical skills or software download required.</p>
 | [Colossyan](http://www.colossyan.com) | Colossyan Creator. | Colossyan Creator makes video creation simple and stress-free. Discover our AI video creator with real actors. Create videos in less than 5 minutes. | :white_check_mark: |
 | [Compose AI](http://www.compose.ai) | Compose Ai: Automate Your Writing. | . | :white_check_mark: |
 | [Context Search](http://addcontext.xyz) | Context - Ai-Powered Audio & Video Chatbots. | . | :grey_question: |
-| [CoolGiftIdeas](http://www.coolgiftideas.io) | Cool Gift Ideas - Ai-Powered Gift Suggestions. | . | :grey_question: |
 | [Coolaiid](http://coolaiid.com) | Coolaiid. | Whether you're looking to decorate or just need a little inspiration, we'll generate unique ideas using AI. | :grey_question: |
 | [Copy.ai](http://www.copy.ai) | Write Better Marketing Copy And Content With Ai. | Get your free account today. | :white_check_mark: |
 | [CopyScouts](http://copyscouts.com) | Copyscouts - Sustainable Ai-Assisted Copywriting Tool. | Use unlimited GPT-3 based AI writing for a fixed monthly price. | :grey_question: |
@@ -573,7 +591,6 @@ No technical skills or software download required.</p>
 | [Dewey](http://www.withdewey.com) | Dewey: Your New Accountability Buddy. | . | :grey_question: |
 | [Diffusion Bee](http://diffusionbee.com) | Diffusionbee - Stable Diffusion App For Ai Art. | DiffusionBee is the easiest way to generate AI art on your computer with Stable Diffusion. | :white_check_mark: |
 | [DigiMarkAI](http://www.digimarkai.com) | Digimarkai. | . | :grey_question: |
-| [DipSway](http://dipsway.com) | Dipsway - Crypto Bot. | . | :grey_question: |
 | [DrawAnyone](http://drawanyone.ai) | Drawanyone - Draw Anyone, Any Way You Want. | . | :grey_question: |
 | [Drawanything](http://www.drawanything.app) | Draw Anything - Stable Diffusion Playground. | Use AI to create novel images in minutes. | :grey_question: |
 | [Dream](http://dream.ai) | Dream By Wombo. | . | :grey_question: |
@@ -592,7 +609,6 @@ No technical skills or software download required.</p>
 | [Elai](http://elai.io) | . | . | :grey_question: |
 | [Elektrif](http://www.elektrif.ai) | Your 🤖 Powered Dating Assistant. | The first suite of AI-powered tools to supercharge your dating life ⚡️. | :grey_question: |
 | [Elephas](http://elephas.app) | Elephas - Personal Ai Writing Assistant For Mac. | . | :grey_question: |
-| [Elf Help](http://www.elfhelp.ai) | Elf Help. | Need some inspo for your holiday gifting? Elf help is your ultimate gift-giving assistant, offering creative and personalized suggestions for everyone on your list. | :grey_question: |
 | [Elicit](http://elicit.org) | Elicit: The Ai Research Assistant. | Elicit uses machine learning to help you with your research: find papers, extract key claims, summarize, brainstorm ideas, and more. | :grey_question: |
 | [Emergent Drums](http://audialab.com) | Emergent Drums By Audialab - Generate Infinite, Royalty-Free, Drum Samples With Ai. | . | :grey_question: |
 | [Equally.ai](http://equally.ai) | Web Accessibility Compliance For All. | Achieve ADA & WCAG compliance easily. | :white_check_mark: |
@@ -609,16 +625,12 @@ No technical skills or software download required.</p>
 | [Free Text-To-Speech](http://www.text-to-speech.online) | Free Text To Speech Online Converter Tools. | . | :white_check_mark: |
 | [FreewriteAI](http://freewriterai.com) | The Ai Writing Tool For Everyone. | . | :white_check_mark: |
 | [Friday AI](http://www.heyfriday.ai) | Heyfriday - Ultimate Ai Writer. | . | :grey_question: |
-| [FundraiseBot](http://advicera.org) | Advicera Nordic Consultancy. | Nordic consultancy agency. | :grey_question: |
 | [GGPredict](http://ggpredict.io) | Ggpredict.Io. | . | :grey_question: |
 | [GPTKey](http://gptkey.com) | Gptkey – Write With Ai Using The Gpt Keyboard. | Write with AI in any app using the GPT custom keyboard extension. | :grey_question: |
 | [Genius Sheets](http://www.geniussheets.com) | Genius Sheets Financial Automation. | Genius Sheets AI Text To Reports solutions help you analyze financial data faster - empowering teams to make better decisions. Stay in Excel and Google Sheets and automate your financial reporting process with live data connections. | :grey_question: |
 | [GetResponse](http://www.getresponse.com) | Getresponse - Professional Email Marketing For Everyone. | . | :grey_question: |
 | [Getactyv](http://getactyv.com) | Getactyv - Ai And Computer Vision Assisted Health And Fitness Platform. | . | :grey_question: |
 | [Getfloorplan](http://getfloorplan.com) | Creating 2D And 3D Floor Plans With Ai. | Up to 30% calls increase reported by our clients using 2D, 3D floor plans and virtual tours. | :grey_question: |
-| [Gift Genie](http://www.giftgenie.ai) | Gift Genie Ai - Free Personalized Gift Ideas For Christmas, Birthdays, Holidays, Etc!. | Gift Genie AI is an AI-powered that allows you to find the perfect gift in seconds with AI for free. Jot down a brief description of your recipient, and get a list of gifts our AI genie believes will delight them. | :white_check_mark: |
-| [GiftBot](http://www.getgift.help) | Giftbot. | . | :grey_question: |
-| [Giftastic AI](http://giftastic.ai) | Giftastic.Ai - Perfect Gift For Your Special One!. | Personalised gift ideas for every occasion!. | :grey_question: |
 | [Gifts Genie](http://gen.gifts) | Genie - Ai Gifts Generator. | . | :grey_question: |
 | [Gigapixel AI](http://www.topazlabs.com) | Topaz Labs: Ai Image Quality Software. | Photo and video enhancement software powered by deep learning gets you the best image quality available for noise reduction, sharpening, upscaling, and more. | :grey_question: |
 | [Glasp](http://glasp.co) | Glasp: Social Web Highlighter. | Highlight & add notes as you read.Create a library of your learning â¤ï¸. | :grey_question: |
@@ -810,7 +822,6 @@ No technical skills or software download required.</p>
 | [SQLgenius](http://sqlgenius.app) | Sql Genius - English To Sql Query Ai Translator. | . | :grey_question: |
 | [SUPERMACHINE](http://supermachine.art) | Supermachine - Generate Stock Photos, Art, And Images With Ai. | SUPERMACHINE enables you to generate images with the latest in artificial intelligence technology. | :grey_question: |
 | [SafeSpelling](http://safespelling.com) | Safespelling - Write Without Mistakes. | . | :grey_question: |
-| [SaleWhale](http://salewhale.chat) | Sale Whale - Ai-Powered Sales Rep Chatbot. | . | :grey_question: |
 | [Scale Catalog Forge](http://scale.com) | Scale Ai: The Data Platform For Ai. | Trusted by world class companies, Scale delivers high quality training data for AI applications such as self-driving cars, mapping, AR/VR, robotics, and more. | :x: |
 | [Scene One](http://sceneone.app) | Online Book Writing App For Novels, Short Stories, And Business. | Write more stories with our intuitive writing app and spend less time learning complicated features. | :grey_question: |
 | [Scispace](http://typeset.io) | Scispace By Typeset - Discover, Create, Publish, And Promote Your Research Paper. | Your platform to explore and explain papers. Search for 270M+ papers, understand them in simple language, and find connected papers, authors, topics. | :grey_question: |
