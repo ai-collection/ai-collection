@@ -65,6 +65,7 @@ open an issue and we can discuss it there.
 * [Fashion](#fashion)
 * [Gaming](#gaming)
 * [Gift Ideas](#gift-ideas)
+* [Healthcare](#healthcare)
 * [Human Resources](human-resources)
 * [Image](#image)
 * [Legal](#legal)
@@ -231,6 +232,14 @@ open an issue and we can discuss it there.
 | [Gift Genie](http://www.giftgenie.ai) | Gift Genie Ai - Free Personalized Gift Ideas For Christmas, Birthdays, Holidays, Etc!. | Gift Genie AI is an AI-powered that allows you to find the perfect gift in seconds with AI for free. Jot down a brief description of your recipient, and get a list of gifts our AI genie believes will delight them. | :white_check_mark: |
 | [GiftBot](http://www.getgift.help) | Get Gift Help. | Struggling to figure out what to get someone for the holidays? GiftBot asks you questions to help recommend gift ideas!. | :white_check_mark: |
 | [Giftastic AI](http://giftastic.ai) | Giftastic.Ai - Perfect Gift For Your Special One!. | Personalised gift ideas for every occasion!. | :grey_question: |
+
+**[⬆ Back to Index](#index)**
+
+### Healthcare
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [Getactyv](http://getactyv.com) | Getactyv - Ai And Computer Vision Assisted Health And Fitness Platform. | . | :grey_question: |
+| [Ubie AI Symptom Checker](http://ubiehealth.com) | Check Symptoms & Find Causes By Ai. | Check Symptoms & Find Causes by AI - Answer quiz about your symptoms to find out possible causes, types, severity, and treatment for free by AI. Developed by doctors. | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
 
@@ -484,7 +493,6 @@ open an issue and we can discuss it there.
 | [Sudowrite](http://www.sudowrite.com) | Bust Writer'S Block And Be More Creative With Our Magical Writing Ai. | Write your novel or screenplay faster with best AI writing tool according to The New Yorker, NY Times, The Verge, and many more. | :grey_question: |
 | [Talk to AI Human](http://www.talktoaihuman.com) | Talk To Ai Human. | . | :grey_question: |
 | [Texti](http://texti.app) | Texti.App. | . | :grey_question: |
-| [Ubie AI Symptom Checker](http://ubiehealth.com) | Check Symptoms & Find Causes By Ai. | Check Symptoms & Find Causes by AI - Answer quiz about your symptoms to find out possible causes, types, severity, and treatment for free by AI. Developed by doctors. | :white_check_mark: |
 | [WordAI](http://wordai.com) | Ai Text Rewriter - Wordai. | Use artificial intelligence to cut turnaround time, extend your budget, and create more high-quality content that Google and readers will love. | :grey_question: |
 | [Writemeacoverletter](http://writemeacoverletter.com) | Write Me A Cover Letter. | Generate a cover letter in seconds using AI. Just upload your CV, share a link to the job you want, and we'll do the rest. | :grey_question: |
 | [Your Cover Letter](http://yourcoverletter.com) | Ai Cover Letter Builder - Upload Your Resume To Get Started. | Apply for your dream jobs using our AI Cover Letter builder. Add your Resume and the Job Description to generate a Cover Letter in seconds. | :grey_question: |
@@ -687,7 +695,6 @@ open an issue and we can discuss it there.
 | [GGPredict](http://ggpredict.io) | Ggpredict.Io. | . | :grey_question: |
 | [GPTKey](http://gptkey.com) | Gptkey – Write With Ai Using The Gpt Keyboard. | Write with AI in any app using the GPT custom keyboard extension. | :grey_question: |
 | [Genius Sheets](http://www.geniussheets.com) | Genius Sheets Financial Automation. | Genius Sheets AI Text To Reports solutions help you analyze financial data faster - empowering teams to make better decisions. Stay in Excel and Google Sheets and automate your financial reporting process with live data connections. | :grey_question: |
-| [Getactyv](http://getactyv.com) | Getactyv - Ai And Computer Vision Assisted Health And Fitness Platform. | . | :grey_question: |
 | [Getfloorplan](http://getfloorplan.com) | Creating 2D And 3D Floor Plans With Ai. | Up to 30% calls increase reported by our clients using 2D, 3D floor plans and virtual tours. | :grey_question: |
 | [Gifts Genie](http://gen.gifts) | Genie - Ai Gifts Generator. | . | :grey_question: |
 | [Gigapixel AI](http://www.topazlabs.com) | Topaz Labs: Ai Image Quality Software. | Photo and video enhancement software powered by deep learning gets you the best image quality available for noise reduction, sharpening, upscaling, and more. | :grey_question: |
