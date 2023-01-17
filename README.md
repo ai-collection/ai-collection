@@ -65,6 +65,7 @@ open an issue and we can discuss it there.
 * [Fashion](#fashion)
 * [Gaming](#gaming)
 * [Gift Ideas](#gift-ideas)
+* [Human Resources](human-resources)
 * [Image](#image)
 * [Legal](#legal)
 * [Logo Generator](#logo-generator)
@@ -230,6 +231,14 @@ open an issue and we can discuss it there.
 | [Gift Genie](http://www.giftgenie.ai) | Gift Genie Ai - Free Personalized Gift Ideas For Christmas, Birthdays, Holidays, Etc!. | Gift Genie AI is an AI-powered that allows you to find the perfect gift in seconds with AI for free. Jot down a brief description of your recipient, and get a list of gifts our AI genie believes will delight them. | :white_check_mark: |
 | [GiftBot](http://www.getgift.help) | Get Gift Help. | Struggling to figure out what to get someone for the holidays? GiftBot asks you questions to help recommend gift ideas!. | :white_check_mark: |
 | [Giftastic AI](http://giftastic.ai) | Giftastic.Ai - Perfect Gift For Your Special One!. | Personalised gift ideas for every occasion!. | :grey_question: |
+
+**[⬆ Back to Index](#index)**
+
+### Human Resources
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [rankode](http://www.rankode.ai) | Ai For Human Resources - Rankode. | Recruiters, everything you need to know about a candidate's programming skills is in their GitHub. Evaluate them automatically with Rankode to avoid expensive hiring mistakes and superboost your retention. | :grey_question: |
+| [springworks](http://www.springworks.in) | Hr Software Solutions For Growing Businesses. | Springworks builds human resources software solutions to solve challenges in recruitment, background verification & employee engagement with Blockchain and AI. | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
 
@@ -1014,8 +1023,6 @@ open an issue and we can discuss it there.
 | [deck.rocks](https://www.deck.rocks/) | Deck.Rocks: Generate Pitch Decks Using Gpt-3. | . | :grey_question: |
 | [img2prompt](http://replicate.com) | Replicate – Run Open-Source Machine Learning Models With A Cloud Api. | . | :grey_question: |
 | [micro Dalle-2](http://micropay.ai) | Dalle-2 Image Generator - Micropay. | Anonymous and pay-as-you-go generative AI software. | :grey_question: |
-| [rankode](http://www.rankode.ai) | Ai For Human Resources - Rankode. | Recruiters, everything you need to know about a candidate's programming skills is in their GitHub. Evaluate them automatically with Rankode to avoid expensive hiring mistakes and superboost your retention. | :grey_question: |
-| [springworks](http://www.springworks.in) | Hr Software Solutions For Growing Businesses. | Springworks builds human resources software solutions to solve challenges in recruitment, background verification & employee engagement with Blockchain and AI. | :white_check_mark: |
 | [xpression camera 2.0](http://xpressioncamera.com) | Xpression Camera. | Become anyone on Zoom, Twitch, or any streaming video. | :grey_question: |
 
 **[⬆ Back to Index](#index)**
