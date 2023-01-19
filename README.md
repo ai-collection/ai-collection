@@ -15,7 +15,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/public-apis/public-apis">
-    <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20Generative%20AI%20Applications&color=informational&style=flat-square&label=816" />
+    <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20Generative%20AI%20Applications&color=informational&style=flat-square&label=818" />
 </a>
 
 •
@@ -62,12 +62,13 @@ open an issue and we can discuss it there.
 |:---|:---|
 | 🏯 [Architecture & Interior Design](#architecture--interior-design) | 😎 [Avatars](#avatars) |
 | 🤖💬 [Chat Bot](#chat-bot) | 💻 [Code & Database Assistant](#code--database-assistant) |
-| 📠 [Content Generation & SEO](#content-generation--seo) | 👨‍💻 [Customer Support](#customer-support) |
-| 📧 [Email Assistant](#email-assistant) | 👩‍🎤 [Fashion](#fashion) |
+| 📠 [Content Generation & SEO](#content-generation--seo) | 🧰 [Creators Toolkit](#creators-toolkit) |
+| 👨‍💻 [Customer Support](#customer-support) | 📧 [Email Assistant](#email-assistant) |
+| 👩‍🎤 [Fashion](#fashion) | 🤪 [Fun](#fun) |
 | 🎮 [Gaming](#gaming) | 🎁💡 [Gift Ideas](#gift-ideas) |
 | 👩‍⚕️ [Healthcare](#healthcare) | 👩‍💼 [HR & Resume](#hr--resume) |
 | 🌄 [Image](#image) | 👩‍⚖️ [Legal](#legal) |
-| ⚜️ [Logo Generator](#logo-generator) | 🎼 [Music](#music) |
+| ⚜️ [Logo Generator](#logo-generator) |  🎼 [Music](#music) |
 | 🗳 [Reviews & Recommendations](#reviews--recommendations) | 💰 [Sales & Marketing](#sales--marketing) |
 | 📢 [Speech](#speech) | 📝 [Text](#text) |
 | 📝🔉 [Text To Speech](#text-to-speech) | 🇺🇳 [Translation & Transcript](#translation--transcript) |
@@ -113,7 +114,6 @@ open an issue and we can discuss it there.
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [BotGPT](https://t.me/BotGPT_bot) | Telegram Gpt Bot. | Telegram bot that allows fast and intuitive access to GPT, Saves your history, and available from your phone or desktop. Cool features upcoming. | :white_check_mark: |
-| [Botify](http://botif.ai) | Botify Ai. | Fun chat with your favorite characters. | :grey_question: |
 | [Chai](http://chai.ml) | Chai - Chat With Ai. | Chai is a THE destination for compelling conversations with AI. On Chai, you can build and deploy AI chatbots to thousands of users. | :grey_question: |
 | [Vacay](https://www.vacay.club/chatbot) | Vacation Chat Agent. | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions. | :white_check_mark: |
 
@@ -168,9 +168,12 @@ open an issue and we can discuss it there.
 | [Lex](http://lex.page) | Unlock Your Best Writing. | . | :grey_question: |
 | [LongShot AI](http://www.longshot.ai?deal=beth0) | Create Content That Humans And Search Engines Love Using Artificial Intelligence. | LongShot is an AI writing assistant that helps you go from idea to SEO content in minutes. Use creative power of AI with features like real time content, fact check, semantic SEO, custom AI, & more!. | :x: |
 | [Neuraltext](https://neuraltext.com) | Neuraltext - Ai Writer And Seo Platform. | Automate your content operations. The all-in-one content marketing and SEO platform that saves you time and money. | :x: |
+| [Paraphraser](http://paraphrasetool.com) | Free Paraphrasing For All Languages. | . | :white_check_mark: |
 | [Quattr](https://www.quattr.com/) | Quattr Is Your Growth Hq. | The enterprise SEO platform built with powerful AI and GSC data as the foundation. | :x: |
 | [Summari](http://www.summari.com) | Improve The Reading Experience On Your Site. | Upgrade links into short, informative previews using our world-class AI summarization technology. | :grey_question: |
 | [Typli](http://typli.ai) | Typli.Ai - Ai Writer & Seo Writing Assistant. | The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant. | :white_check_mark: |
+| [Word Spinner](http://word-spinner.com) | Word Spinner: The Best Free Article Rewriter And Paraphrase Tool Online. | . | :white_check_mark: |
+| [WordAI](http://wordai.com) | Ai Text Rewriter - Wordai. | Use artificial intelligence to cut turnaround time, extend your budget, and create more high-quality content that Google and readers will love. | :grey_question: |
 | [WordHero](http://wordhero.co?via=beth0) | Generate Ai-Powered Content - In 1 Click. | With WordHero's AI technology, you can create original blog posts, social media content, emails, and more - in just seconds. | :x: |
 | [Wordkraft](http://wordkraft.ai) | Create High-Quality Content Instantly With Ai. | Wordkraft AI content writer is a revolutionary tool Powered by GPT-3 the most advance artificial intelligence technology to generate well-written, keyword-optimized content for your blog, website or marketing needs. | :white_check_mark: |
 | [Wordplay](http://wordplay.ai) | Create Long-Form Content In Seconds. | The #1 AI content generator built for SEO & content publishers. | :white_check_mark: |
@@ -178,6 +181,13 @@ open an issue and we can discuss it there.
 | [Writey AI](http://writey.ai) | Yes — An A.I That Writes Original, Researched Blog Posts In Minutes. | First true free plagiarism A.I with original and researched content, check Writey A.I in action. | :white_check_mark: |
 | [unbound](https://www.unboundcontent.ai/auth?affiliate=aff_z0krz31) | Automate Content Creation For Your Small Business. | Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators. | :white_check_mark: |
 | [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0) | Instantly Convert Your Youtube Content Into Engaging Blog Articles. | Boost your SEO and brand presence. | :white_check_mark: |
+
+**[⬆ Back to Index](#index)**
+
+### Creators Toolkit
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [Media.io](https://www.media.io/?ref=beth0) | Online Video, Audio, Image Creativity Platform Powered By Ai. | Simplicity. Diversity. Flexibility. | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
 
@@ -210,6 +220,17 @@ open an issue and we can discuss it there.
 |---|---|---|:---:|
 | [FashionAdvisorAI](http://www.fashionadvisorai.com) | Fashionadvisor.Ai - Ask Questions & Get Answer'S From Fashionadvisor.Ai. | FashionAdvisor is an AI based on GPT3 which will answer all your fashion related questions instantly for free. | :grey_question: |
 | [Visualhound](http://visualhound.com) | Visualhound - Prototype Your Fashion Design Ideas With Ai. | Visualize your product designs before going to production. Create realistic-looking product images to feed your moodboards and boost your design process. | :grey_question: |
+
+**[⬆ Back to Index](#index)**
+
+### Fun
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [Botify](http://botif.ai) | Botify Ai. | Fun chat with your favorite characters. | :grey_question: |
+| [Excuses AI](http://excuses.ai) | Excuse Generator. | Use AI to generate the perfect professional excuse. | :grey_question: |
+| [Silly Times](http://www.elbo.ai) | A Simple Drawing App Using Ai. | Have a fun time drawing and see what silly thing we make from your drawing.  Magic is just button press away!. | :white_check_mark: |
+| [StoriesForKids](http://www.storiesforkids.ai) | Storiesforkids.Ai: Personalized Kid'S Books Using Ai. | Turn real-life situations into fun stories & illustrations in seconds. | :grey_question: |
+| [TextStyler](http://www.textstyler.org) | Re-Write Anything In Fun Styles, Using Ai. | . | :grey_question: |
 
 **[⬆ Back to Index](#index)**
 
@@ -362,7 +383,6 @@ open an issue and we can discuss it there.
 | [Scum](http://scum.co) | Describe Anything. | . | :white_check_mark: |
 | [Seek art](http://seek.art) | Create Astounding Ai Art. | Explore, collect, and share. No cost to start. Free credits every day. | :white_check_mark: |
 | [Short Description Image Generator](http://textgeneratedimagegenerate.streamlit.app) | Short Description Image Generator. | From a short description and based on the database from MagicPrompt-Stable-Diffusion from HuggingFace + the API of StableDiffusion; images can be created based on few words. | :grey_question: |
-| [Silly Times](http://www.elbo.ai) | A Simple Drawing App Using Ai. | Have a fun time drawing and see what silly thing we make from your drawing.  Magic is just button press away!. | :white_check_mark: |
 | [Slazzer 3.0](http://www.slazzer.com) | Remove Background From Image For Free. | Remove background from image automatically in 5 seconds. Don't waste time manually selecting pixels. Just upload photo & get instant cutout. | :white_check_mark: |
 | [SnapshotAI](http://snapshotai.com) | Snapshotai. | Create your own AI-generated images. | :grey_question: |
 | [Snowpixel](http://snowpixel.app) | Turn Your Prompt Into Artwork. | You + AI = Art. Get 20+ AI generated images for each prompt, upload existing images for even more on-brand illustrations, and animate them. | :x: |
@@ -474,7 +494,6 @@ open an issue and we can discuss it there.
 | [Digital Dogs](http://digitaldogs.ai) | The Digital Dogsâ¢. | Cross-app, AI Digital Dogs NFTs for Virtual worlds, VR, AR, social apps, games and more. | :grey_question: |
 | [Elephas](http://elephas.app) | Elephas - Personal Ai Writing Assistant For Mac, Iphone, Ipad. | Save hours every day. The world's first AI writer that works across your Mac, iPhone, and iPad. | :white_check_mark: |
 | [Excelformulabot](http://excelformulabot.com) | Excel & Google Sheets Ai Formula Generator - Excelformulabot.Com. | Transform your text instructions into Excel & Google Sheets formulas in seconds with the help of AI. | :grey_question: |
-| [Excuses AI](http://excuses.ai) | Excuse Generator. | Use AI to generate the perfect professional excuse. | :grey_question: |
 | [Explainpaper](http://www.explainpaper.com) | Explainpaper. | . | :grey_question: |
 | [Filechat](https://www.filechat.io/) | Explore Documents Using Artificial Intelligence. | Filechat is the perfect tool to explore documents using artificial intelligence. Simply upload your PDF and start asking questions to your personalized chatbot. | :white_check_mark: |
 | [Formula Dog](http://formula.dog) | Generate Excel Formulas And More Using Ai - Formula Dog. | Transform your text instructions into Excel formulas, VBA, Regex etc. in seconds with the help of AI. | :grey_question: |
@@ -509,13 +528,11 @@ open an issue and we can discuss it there.
 | [Spellbox](http://spellbox.app) | Spellbox - Ai Programming Assistant. | SpellBox uses artificial intelligence to create the code you need from simple prompts. Solve your toughest programming problems with AI in seconds!. | :grey_question: |
 | [Splitjoin](http://www.splitjoin.com) | Splitjoin. | AI assistant to help you write commit messages faster. | :grey_question: |
 | [Startup Pitch Generator](http://tally.so?ref=beth0) | The Simplest Way To Create Forms. | Create forms for all purposes in seconds.Without knowing how to code. | :white_check_mark: |
-| [StoriesForKids](http://www.storiesforkids.ai) | Storiesforkids.Ai: Personalized Kid'S Books Using Ai. | Turn real-life situations into fun stories & illustrations in seconds. | :grey_question: |
 | [Storywizard](http://www.storywizard.ai) | Storywizard.Ai - Create Incredible Children`S Stories In No Time Using Ai. | Storywizard uses AI to help you generate astonishing stories for children with vivid images and beautiful plots. | :grey_question: |
 | [Sudowrite](http://www.sudowrite.com) | Bust Writer'S Block And Be More Creative With Our Magical Writing Ai. | Write your novel or screenplay faster with best AI writing tool according to The New Yorker, NY Times, The Verge, and many more. | :grey_question: |
 | [Talk to AI Human](http://www.talktoaihuman.com) | Talk To Ai Human. | . | :grey_question: |
 | [Texti](http://texti.app) | Texti.App. | . | :grey_question: |
 | [Upword](http://www.upword.ai) | Read Your10X Articles, News Reports, Blogs, Newsletters, Articles Faster With Ai. | Capture key ideas from content with Upword’s AI. Create online summary docs. Grow your knowledge. | :white_check_mark: |
-| [WordAI](http://wordai.com) | Ai Text Rewriter - Wordai. | Use artificial intelligence to cut turnaround time, extend your budget, and create more high-quality content that Google and readers will love. | :grey_question: |
 | [Writemeacoverletter](http://writemeacoverletter.com) | Write Me A Cover Letter. | Generate a cover letter in seconds using AI. Just upload your CV, share a link to the job you want, and we'll do the rest. | :grey_question: |
 | [Your Cover Letter](http://yourcoverletter.com) | Ai Cover Letter Builder - Upload Your Resume To Get Started. | Apply for your dream jobs using our AI Cover Letter builder. Add your Resume and the Job Description to generate a Cover Letter in seconds. | :grey_question: |
 | [coverletter.app](http://coverletter.app) | Custom-Made Cover Letters Ready In Minutes Not Hours - Coverletter.App. | Stand out from the competition and increase your chances of getting hired with personalized cover letters from our advanced AI technology. | :grey_question: |
@@ -527,6 +544,7 @@ open an issue and we can discuss it there.
 |---|---|---|:---:|
 | [Speech-to-Speech](http://www.resemble.ai) | Your Complete Generative Voice Ai Toolkit. | Resemble’s AI voice generator lets you create human–like voice overs in seconds. | :x: |
 | [Unreal Speech](http://unrealspeech.up.railway.app) | Ultra Realistic Text-To-Speech Api. | More natural-sounding and up to 4x cheaper than Amazon, Google and Microsoft. | :white_check_mark: |
+| [VERBATIK](http://verbatik.com) | Verbatik - Text To Speech. | Generate Realistic Text to Speech (TTS) audio using online AI Voice Generator and best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files. | :grey_question: |
 
 **[⬆ Back to Index](#index)**
 
@@ -808,7 +826,6 @@ open an issue and we can discuss it there.
 | [Paperade](http://www.paperade.co) | Paperade Startup Idea Generator. | Paperade is the first AI-powered tool that generates commercial use cases and company ideas from over 100 million academic papers and research studies. | :grey_question: |
 | [Papercup](http://www.papercup.com) | Papercup - Ai Dubbing And Video Translation Software. | . | :grey_question: |
 | [Paragraph AI](http://paragraphai.com) | Paragraphai • Best Ai Writing App • Free Ai Writing Assistant Tool. | . | :white_check_mark: |
-| [Paraphraser](http://paraphrasetool.com) | Free Paraphrasing For All Languages. | . | :white_check_mark: |
 | [Paraphraser AI](http://app.yaara.ai) | Yaara — Ai-Powered Writing Assistant. | . | :grey_question: |
 | [Patience](http://patience.ai) | Patience - Ai Art With Stable Diffusion. | . | :grey_question: |
 | [Pattern Maker AI](http://patternmakerai.com) | Generate Seamless Patterns Using Artificial Intelligence. | Generate seamless vector patterns using artificial intelligence. | :grey_question: |
@@ -948,7 +965,6 @@ open an issue and we can discuss it there.
 | [Text to Image Editor](http://imgeditor.zmo.ai) | Create Any Image Using Text - Imgcreator.Ai. | . | :grey_question: |
 | [Text-to-pokemon](http://replicate.com) | Replicate – Run Open-Source Machine Learning Models With A Cloud Api. | . | :grey_question: |
 | [Text2SQL](http://www.text2sql.ai/) | Text2Sql.Ai - Generate Sql Queries With Ai For Free!. | . | :white_check_mark: |
-| [TextStyler](http://www.textstyler.org) | Textstyler. | . | :grey_question: |
 | [TextSynth](http://textsynth.com) | Textsynth. | . | :grey_question: |
 | [Textunbox](http://textunbox.app) | Textunbox.App. | TextUnbox - harness the power of AI!. | :grey_question: |
 | [TextureLab](http://www.texturelab.xyz) | Instant And Unique 3D Textures For Your Next Game. | Generate 3D textures for your game in seconds thanks to AI. | :grey_question: |
@@ -987,7 +1003,6 @@ open an issue and we can discuss it there.
 | [Unrealme](http://unrealme.io) | Unreal Me. | . | :grey_question: |
 | [Userevaluation](http://www.userevaluation.com) | User Evaluation Â The Customer Understanding Platform. | Whether you're focused on UI, UX Research, Design, or CX â User Evaluation's AI can answer all your questions. | :white_check_mark: |
 | [Userpersona](http://userpersona.dev) | User Persona - Ai-Generated User Personas. | . | :grey_question: |
-| [VERBATIK](http://verbatik.com) | Verbatik - Text To Speech. | Generate Realistic Text to Speech (TTS) audio using online AI Voice Generator and best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files. | :grey_question: |
 | [Validator AI](http://www.validatorai.com) | Validatorai.Com – Instant Help And Feedback With Our Startup Validator Tools For Entrepreneurs. | . | :grey_question: |
 | [Vee](http://vee.ai) | An Intelligent Consultant People Enjoy Talking To. Z Którą Ludzie Lubią Rozmawiać. | Vee has already spoken with 5 million Poles, effectively implementing business processes for dozens of companies from various industries. Vee przeprowadziła rozmowy już z ponad 5 milionami Polaków, skutecznie realizując procesy biznesowe dla dziesiątek firm z różnych branż. | :grey_question: |
 | [Versational](http://www.versational.ai) | Versational For Remote Teams. | Versational maximizes the value said in every conversation. Get AI conversation results for free. Versational transcribes, summarizes, automates data entry, extracts takeaways, lets you share clips, and shows ways to improve your conversations. | :white_check_mark: |
@@ -1016,7 +1031,6 @@ open an issue and we can discuss it there.
 | [Wisecut](http://www.wisecut.video) | Wisecut - Automatic Video Editor. | . | :grey_question: |
 | [WithPoly](http://withpoly.com) | Poly: Generate Design Assets With A.I. · Poly. | . | :grey_question: |
 | [Wizishop](http://wizishop.com) | Wizishop Ecommerce Solution: Create Your Online Store. | 15-day free trial - No credit card needed - Access all of our features. | :white_check_mark: |
-| [Word Spinner](http://word-spinner.com) | Word Spinner: The Best Free Article Rewriter And Paraphrase Tool Online. | . | :white_check_mark: |
 | [Wordfixerbot](http://www.wordfixerbot.com) | Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot. | . | :grey_question: |
 | [Wordtune](http://www.wordtune.com) | Wordtune - Your Personal Writing Assistant & Editor. | . | :grey_question: |
 | [Write A Thank You](http://thankyounote.app) | Write A Thank You Note - Thankyounote.App. | Write the perfect thank you note for any occasion! Whether you need to thank a friend, family member, or business associate, we have the perfect words for you. Try it!. | :grey_question: |
