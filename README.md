@@ -126,7 +126,7 @@ open an issue and we can discuss it there.
 | [Channel](http://www.usechannel.com) | Channel. | Connect your database, ask a question, get an answer. | :grey_question: |
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist) | Codeassist Is An Ai Assistant / Chatbot / Copilot For Programming - Jetbrains Marketplace. | It generates, changes, completes the code and answers questions. | :grey_question: |
 | [CodeGPT](http://www.codegpt.co/) | Ai Inside Your Ide. | Improve your code with Code GPT AI. | :white_check_mark: |
-| [CodeWP](http://codewp.ai) | Codewp - Ai Wordpress Code Generator & Assistant. | CodeWP is a WordPress code generator that uses AI and specialized models for WordPress, Woo and others to help you build better & quicker. | :white_check_mark: |
+| [CodeWP](https://codewp.ai/?cwpref=9) | Codewp - Ai Wordpress Code Generator & Assistant. | CodeWP is a WordPress code generator that uses AI and specialized models for WordPress, Woo and others to help you build better & quicker. | :white_check_mark: |
 | [Codeball](http://codeball.ai) | Codeball Â Ai Powered Code Review. | Codeball finds bugs in your Pull Requests, lets you ship faster and with higher confidence. | :grey_question: |
 | [Codecleaningbot](http://www.codecleaningbot.com) | Code Cleaning Bot. | Code Cleaning AI Bot fixes common code quality and security issues. Like: deleting unused and unreachable code, fix SQL injection, etc. | :grey_question: |
 | [Codeium](http://www.codeium.com) | Codeium - The Modern Coding Superpower. | Fast AI-based code acceleration and free alternative to Github Copilot. | :white_check_mark: |
@@ -156,7 +156,7 @@ open an issue and we can discuss it there.
 | [Ctrify](http://www.ctrify.com) | First Ai-Powered Seo Action Platform. | Create websites that rank on Google by just giving one keyword to our Artificial Intelligence. | :grey_question: |
 | [Embolden](http://embolden.co) | Use Ai To Power Your Ecommerce Writing. | Embolden uses AI to help you write everything from emails to product descriptions for your ecommerce business. | :white_check_mark: |
 | [Enwrite](http://enwrite.co) | The Ai Tool That Aims To Help Writers Save Time - Not Replace Them. | An AI helper specialized in SEO-optimized content creation. Enwrite helps you write better content faster. | :white_check_mark: |
-| [Frase.io](http://www.frase.io) | Frase - Best Seo Content Optimization Tool & Ai Writer. | Frase AI helps you research, write, and optimize high-quality SEO content in minutes instead of hours. | :x: |
+| [Frase.io (first month - 60% discount)](http://www.frase.io/?via=beth0) | Frase - Best Seo Content Optimization Tool & Ai Writer. | Frase AI helps you research, write, and optimize high-quality SEO content in minutes instead of hours. | :x: |
 | [H-supertools AI Writer](https://h-supertools.com/ai/ai-writer) | Ai Writer: Generate Content For Free!. | Generate Blog Sections & Paragraphs in Seconds With This Powerful Free AI Writer. | :white_check_mark: |
 | [Hypotenuse.ai](http://www.hypotenuse.ai) | Let Ai Write Your Content In Seconds. Without Writer’S Block. | Provide a few keywords, and we’ll instantly turn them into full-length articles and marketing content, using our world-class AI with a vast knowledge of the world. | :white_check_mark: |
 | [Intelligent paraphraser](https://aiseo.ai/?fpr=beth0) | Aiseo - Ai Writing Assistant, Ai Copywriting & Content Generator. | Get writing superpowers with artificial intelligence. We at AISEO will help you convert your thoughts to blogs and can write for you at the click of a button. | :white_check_mark: |
@@ -175,6 +175,7 @@ open an issue and we can discuss it there.
 | [Writesonic](http://writesonic.com) | Writesonic - Best Ai Writer, Copywriting & Paraphrasing Tool. | Create SEO-optimized and plagiarism-free contentfor your blogs, ads, emails, and website 10X faster. | :white_check_mark: |
 | [Writey AI](http://writey.ai) | Yes — An A.I That Writes Original, Researched Blog Posts In Minutes. | First true free plagiarism A.I with original and researched content, check Writey A.I in action. | :white_check_mark: |
 | [unbound](https://www.unboundcontent.ai/auth?affiliate=aff_z0krz31) | Automate Content Creation For Your Small Business. | Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators. | :white_check_mark: |
+| [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0) | Instantly Convert Your Youtube Content Into Engaging Blog Articles. | Boost your SEO and brand presence. | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
 
@@ -398,7 +399,7 @@ open an issue and we can discuss it there.
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Logo Rank](http://brandmark.io) | Brandmark Logo Maker - The Most Advanced Ai Logo Design Tool. | . | :grey_question: |
-| [Looka](http://looka.com) | Free Logo Maker & Intelligent Brand Designer. | Make a logo and build a brand you love with Looka. | :white_check_mark: |
+| [Looka](https://looka.grsm.io/jscfk35v34tn) | Free Logo Maker & Intelligent Brand Designer. | Make a logo and build a brand you love with Looka. | :white_check_mark: |
 | [Make Logo AI](https://makelogo.ai/) | Makelogo.Ai: Get The Perfect Logo For Your Startup. | Generate beautiful and unique logos for your startup, powered by Artifical Intelligence. | :x: |
 | [Text To Book Cover](http://stockimg.ai) | Ai Image Generation For Teams - You Can Easily Generate Ai Logo, Ai Book Covers, Ai Posters And More - Stockimg Ai. | AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI. | :grey_question: |
 
@@ -408,7 +409,7 @@ open an issue and we can discuss it there.
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Emergent Drums](http://audialab.com?ref=beth0) | Generate Unique Drum Samples Using Artificial Intelligence. | Use our breakthrough plugin to generate endless drum samples, all royalty-free. | :x: |
-| [LALAL.AI Voice Cleaner](http://www.lalal.ai) | Extract Vocal, Accompaniment And Various Instruments From Any Audio And Video. | High-quality stem splitting based on the world's #1 AI-powered technology. | :grey_question: |
+| [LALAL.AI Voice Cleaner](http://www.lalal.ai/?fp_ref=beth0) | Extract Vocal, Accompaniment And Various Instruments From Any Audio And Video. | High-quality stem splitting based on the world's #1 AI-powered technology. | :grey_question: |
 | [Musico](http://www.musi-co.com) | Musico - Ai Generative Music. | Musico is an AI-driven software engine that generates music. It can react to gesture, movement, code or other sound. | :grey_question: |
 | [Quasi Music](https://quasi.market/radio/) | Create Brand-New Beats. | Unleash your inner musician with Quasi's AI-powered music creation tool. Create never-before-heard sounds and remix classic artists with ease. | :white_check_mark: |
 | [Soundraw](http://soundraw.io) | Stop Searching For The Song You Need. Create It. | Royalty-free music, AI generated for you. | :white_check_mark: |
@@ -469,6 +470,7 @@ open an issue and we can discuss it there.
 | [Coverletterwrite](http://coverletterwrite.com) | Cover Letter Write. | Ask AI to write a personalized cover letter. | :grey_question: |
 | [Diffusion.chat](http://diffusion.chat) | Diffusion Chat. | . | :grey_question: |
 | [Digital Dogs](http://digitaldogs.ai) | The Digital Dogsâ¢. | Cross-app, AI Digital Dogs NFTs for Virtual worlds, VR, AR, social apps, games and more. | :grey_question: |
+| [Elephas](http://elephas.app) | Elephas - Personal Ai Writing Assistant For Mac, Iphone, Ipad. | Save hours every day. The world's first AI writer that works across your Mac, iPhone, and iPad. | :white_check_mark: |
 | [Excelformulabot](http://excelformulabot.com) | Excel & Google Sheets Ai Formula Generator - Excelformulabot.Com. | Transform your text instructions into Excel & Google Sheets formulas in seconds with the help of AI. | :grey_question: |
 | [Excuses AI](http://excuses.ai) | Excuse Generator. | Use AI to generate the perfect professional excuse. | :grey_question: |
 | [Explainpaper](http://www.explainpaper.com) | Explainpaper. | . | :grey_question: |
@@ -541,7 +543,7 @@ open an issue and we can discuss it there.
 ### Video
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [AI Host](http://www.livereacting.com) | Run Interactive Live Streams. | LiveReacting helps you get more followers and engagement by adding pre-recorded videos, games, countdowns, and polls to your stream. | :x: |
+| [AI Host](https://livereacting.sjv.io/beth0) | Run Interactive Live Streams. | LiveReacting helps you get more followers and engagement by adding pre-recorded videos, games, countdowns, and polls to your stream. | :x: |
 | [Boolpic](http://boolv.tech) | An Intelligent Video Platform That Empowers Brands. | Generate on-brand videos 10X faster with AI to boost marketing performance. | :grey_question: |
 | [Deepfakesweb](http://deepfakesweb.com) | Make Your Own Deepfakes [Online App]. | Our easy to use deepfake app uses AI and Deep Learning to generate amazing face swap videos. Make your own deepfake video today. | :grey_question: |
 | [Descript](http://www.descript.com) | There’S A New Way To Make Video And Podcasts. A Good Way. | Descript is the simple, powerful, and fun way to edit. | :white_check_mark: |
@@ -694,7 +696,6 @@ open an issue and we can discuss it there.
 | [Eilla](http://eilla.ai) | Eilla Ai - Ai Content Generation Assistant. | . | :grey_question: |
 | [Elai](http://elai.io) | . | . | :grey_question: |
 | [Elektrif](http://www.elektrif.ai) | Your 🤖 Powered Dating Assistant. | The first suite of AI-powered tools to supercharge your dating life ⚡️. | :grey_question: |
-| [Elephas](http://elephas.app) | Elephas - Personal Ai Writing Assistant For Mac. | . | :grey_question: |
 | [Elicit](http://elicit.org) | Elicit: The Ai Research Assistant. | Elicit uses machine learning to help you with your research: find papers, extract key claims, summarize, brainstorm ideas, and more. | :grey_question: |
 | [Equally.ai](http://equally.ai) | Web Accessibility Compliance For All. | Achieve ADA & WCAG compliance easily. | :white_check_mark: |
 | [EssayBar](http://www.essay.bar) | Essaybar — Revolutionize Your Writing With Ai-Crafted Essays!. | . | :grey_question: |
