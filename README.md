@@ -1,4 +1,4 @@
-![ai-collection logo](https://github.com/ai-collection/ai-collection/logo-transperant.png)
+![ai-collection logo](https://github.com/ai-collection/ai-collection/blob/main/logo-transparent.png)
 
 <div align="center">
     <!-- <img alt="ai-collection logo" src="" /> -->
