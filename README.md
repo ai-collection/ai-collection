@@ -1,4 +1,7 @@
+![ai-collection logo](https://github.com/ai-collection/ai-collection/logo-transperant.png)
+
 <div align="center">
+    <!-- <img alt="ai-collection logo" src="" /> -->
     <h1>ai-collection</h1>
     <i>THE GENERATIVE AI LANDSCAPE</i>
     <br />
