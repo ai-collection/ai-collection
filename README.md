@@ -5,7 +5,7 @@
     <i>THE GENERATIVE AI LANDSCAPE</i>
     <br />
     <br />
-    <i>A List of Awesome Generative AI Applications</i>
+    <i>A Collection of Awesome Generative AI Applications</i>
     <br />
 </div>
 
