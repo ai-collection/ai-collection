@@ -328,7 +328,7 @@ open an issue and we can discuss it there.
 | [Erase.bg](http://www.erase.bg) | Free Background Image Remover: Remove Bg From Hd Images Online - Erase.Bg. | Make the background transparent for images of humans, animals, or objects. Download images in high resolution for free for e-commerce and personal use. No credit card needed. | :white_check_mark: |
 | [ExtendImage](http://www.extendimage.ai) | Extendimageai - Extend Your Images With Generative Ai. | ExtendImageAI is a tool that allows you to extend your images with generative AI. | :grey_question: |
 | [Eye for AI](http://eyeforai.xyz) | Easy Text-To-Image Tools And Templates. | Create images from text in under a minute. | :white_check_mark: |
-| [Face Swapper](http://faceswapper.ai) | Face Swapper Online. | Swap face from photos and vidoes automatically. Free and unlimited photo swapping. | :white_check_mark: |
+| [Face Swapper](http://faceswapper.ai) | Face Swapper Online. | Swap face from photos and videos automatically. Free and unlimited photo swapping. | :white_check_mark: |
 | [Face-generator](http://generated.photos) | Generated Photos - Unique, Worry-Free Model Photos. | . | :grey_question: |
 | [Facet 2.0](http://facet.ai) | Facet: Image Creation, Reimagined. | Harness the power of AI to make the creative process fast, effective and accessible. Experiment with visual directions, automate selections, and collaborate--all on the web. | :grey_question: |
 | [Fermat](http://fermat.ws) | Creativity Augmented For Content Creation. | Unleash your creativity with AI on a collaborative canvas. | :grey_question: |
