@@ -66,11 +66,10 @@ open an issue and we can discuss it there.
 | 📧 [Email Assistant](#email-assistant) | 👩‍🎤 [Fashion](#fashion) | 🤪 [Fun](#fun) |
 | 🎮 [Gaming](#gaming) | 🎁💡 [Gift Ideas](#gift-ideas) | 👩‍⚕️ [Healthcare](#healthcare) |
 | 👩‍💼 [Human Resources & Resume](#human-resources--resume) | 👩‍⚖️ [Legal](#legal) | ⚜️ [Logo Generator](#logo-generator) |
-| 🎼 [Music](#music) |  [Other](#other) | 📸 [Photo & Image Editing](#photo--image-editing) |
-| 🗳 [Reviews & Recommendations](#reviews--recommendations) | 💰 [Sales & Marketing](#sales--marketing) | 📢 [Speech](#speech) |
-| 📝 [Text](#text) | 📝🔉 [Text To Speech](#text-to-speech) | 🇺🇳 [Translation & Transcript](#translation--transcript) |
-| 🎬 [Video](#video) | ✍️ [Writing Assistant](#writing-assistant) |  [Other](#other) |
-
+| 🎼 [Music](#music) | 📸 [Photo & Image Editing](#photo--image-editing) | 🗳 [Reviews & Recommendations](#reviews--recommendations) |
+| 💰 [Sales & Marketing](#sales--marketing) | 📢 [Speech](#speech) | 📝 [Text](#text) |
+| 📝🔉 [Text To Speech](#text-to-speech) | 🇺🇳 [Translation & Transcript](#translation--transcript) | 🎬 [Video](#video) |
+| ✍️ [Writing Assistant](#writing-assistant) |  [Other](#other)
 
 </div>
 
