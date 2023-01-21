@@ -58,21 +58,19 @@ open an issue and we can discuss it there.
 
 ## Index
 
-|  |  |
-|:---|:---|
-| 🏯 [Architecture & Interior Design](#architecture--interior-design) | 😎 [Avatars](#avatars) |
-| 🤖💬 [Chat Bot](#chat-bot) | 💻 [Code & Database Assistant](#code--database-assistant) |
-| 📠 [Content Generation & SEO](#content-generation--seo) | 🧰 [Creators Toolkit](#creators-toolkit) |
-| 👨‍💻 [Customer Support](#customer-support) | 📧 [Email Assistant](#email-assistant) |
-| 👩‍🎤 [Fashion](#fashion) | 🤪 [Fun](#fun) |
-| 🎮 [Gaming](#gaming) | 🎁💡 [Gift Ideas](#gift-ideas) |
-| 👩‍⚕️ [Healthcare](#healthcare) | 👩‍💼 [HR & Resume](#hr--resume) |
-| 🌄 [Image](#image) | 👩‍⚖️ [Legal](#legal) |
-| ⚜️ [Logo Generator](#logo-generator) |  🎼 [Music](#music) |
-| 🗳 [Reviews & Recommendations](#reviews--recommendations) | 💰 [Sales & Marketing](#sales--marketing) |
-| 📢 [Speech](#speech) | 📝 [Text](#text) |
-| 📝🔉 [Text To Speech](#text-to-speech) | 🇺🇳 [Translation & Transcript](#translation--transcript) |
-| 🎬 [Video](#video) | [Other](#other) |
+| | | |
+|:---|:---|:---|
+| 🏯 [Architecture & Interior Design](#architecture--interior-design) | 🌄 [Art & Image Generator](#art--image-generator) | 🎚 [Audio Editing](#audio-editing) |
+| 😎 [Avatars](#avatars) | 🤖💬 [Chat Bot](#chat-bot) | 💻 [Code & Database Assistant](#code--database-assistant) |
+| 📠 [Content Generation & Seo](#content-generation--seo) | 🧰 [Creators Toolkit](#creators-toolkit) | 👨‍💻 [Customer Support](#customer-support) |
+| 📧 [Email Assistant](#email-assistant) | 👩‍🎤 [Fashion](#fashion) | 🤪 [Fun](#fun) |
+| 🎮 [Gaming](#gaming) | 🎁💡 [Gift Ideas](#gift-ideas) | 👩‍⚕️ [Healthcare](#healthcare) |
+| 👩‍💼 [Human Resources & Resume](#human-resources--resume) | 👩‍⚖️ [Legal](#legal) | ⚜️ [Logo Generator](#logo-generator) |
+| 🎼 [Music](#music) |  [Other](#other) | 📸 [Photo & Image Editing](#photo--image-editing) |
+| 🗳 [Reviews & Recommendations](#reviews--recommendations) | 💰 [Sales & Marketing](#sales--marketing) | 📢 [Speech](#speech) |
+| 📝 [Text](#text) | 📝🔉 [Text To Speech](#text-to-speech) | 🇺🇳 [Translation & Transcript](#translation--transcript) |
+| 🎬 [Video](#video) | ✍️ [Writing Assistant](#writing-assistant) |  [Other](#other) |
+
 
 </div>
 
@@ -188,6 +186,10 @@ open an issue and we can discuss it there.
 ### Audio Editing
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [Adobe Podcast](http://podcast.adobe.com) | Adobe Podcast - Ai Audio Recording And Editing, All On The Web. | An audio tool for people with stories to tell. | :grey_question: |
+| [Assemblyai](http://www.assemblyai.com) | #1 Api Platform For Ai Models. | Automatically convert audio and video files and live audio streams to text with AssemblyAI's Speech-to-Text APIs. Do more with Audio Intelligence - summarization, content moderation, topic detection. | :grey_question: |
+| [Cleanvoice AI](http://cleanvoice.ai) | Get Rid Of Filler Words From Your Audio Recordings. | Cleanvoice is an artificial intelligence which removes filler sounds, stuttering and mouth sounds from your podcast or audio recording. | :grey_question: |
+| [Clip audio](http://www.clip.audio) | Clip - Ai Audio Search Engine. | The audio search engine. | :grey_question: |
 | [Krisp](http://krisp.ai) | World’S #1 Noise Cancelling App - Krisp. | Krisp’s AI removes background voices, noises and echo from all your calls, giving you peace of mind. | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
@@ -232,6 +234,7 @@ open an issue and we can discuss it there.
 |---|---|---|:---:|
 | [BotGPT](https://t.me/BotGPT_bot) | Telegram Gpt Bot. | Telegram bot that allows fast and intuitive access to GPT, Saves your history, and available from your phone or desktop. Cool features upcoming. | :white_check_mark: |
 | [Chai](http://chai.ml) | Chai - Chat With Ai. | Chai is a THE destination for compelling conversations with AI. On Chai, you can build and deploy AI chatbots to thousands of users. | :grey_question: |
+| [Context Search](http://addcontext.xyz) | Context - Ai-Powered Audio & Video Chatbots. | . | :grey_question: |
 | [Vacay](https://www.vacay.club/chatbot) | Vacation Chat Agent. | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions. | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
@@ -397,7 +400,7 @@ open an issue and we can discuss it there.
 
 **[⬆ Back to Index](#index)**
 
-### Hr & Resume
+### Human Resources & Resume
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [LazyApply](http://lazyapply.com) | Automate Your Job Application Process. | We automatically apply to all the jobs on platforms like Linkedin, Indeed and Ziprecruiter. | :x: |
@@ -568,10 +571,17 @@ open an issue and we can discuss it there.
 ### Text To Speech
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [Article.Audio](http://article.audio) | Convert Articles In Audio. | too lazy to read an article? no problem, listen to it! Powered by Thundercontent. | :white_check_mark: |
+| [Listnr 2.0](http://www.listnr.tech) | Ai Voice Generator - Text To Speech Converter - Listnr. | Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with the best synthetic voices. Instantly convert text in to natural-sounding speech and download in MP3 and WAV formats. | :x: |
+| [Lovo](http://www.lovo.ai) | Lovo Ai - Free Text To Speech Online With Natural Voices. | . | :white_check_mark: |
 | [Murf.ai](http://murf.ai) | Go From Text To Speech With A Versatile Ai Voice Generator. | AI enabled, real people's voices. Make studio-quality voice overs in minutes. Use Murf’s lifelike AI voices for podcasts, videos, and all your professional presentations. | :white_check_mark: |
+| [Play.ht](http://play.ht) | Ai Powered Text To Voice Generator. | Generate realistic Text to Speech (TTS) audio using our online AI Voice Generator and the best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files. | :white_check_mark: |
+| [Resemble.ai](http://www.resemble.ai) | Ai Voice Generator And Voice Cloning For Text To Speech - Resemble Ai. | . | :grey_question: |
 | [Speech-to-Speech](http://www.resemble.ai) | Your Complete Generative Voice Ai Toolkit. | Resemble’s AI voice generator lets you create human–like voice overs in seconds. | :x: |
+| [Speechelo](http://speechelo.com) | Speechelo - Generate Voice From Text With Only 3 Clicks. The Most Realistic Souding Text To Audio Converter. | We GUARANTEE no one will tell your voiceover is A.I. generated with a text to voice tool. | :grey_question: |
+| [Speechify](http://speechify.com) | The #1 Text To Speech Reader. | Power through docs, articles, PDFs, email — anything you read — by listening with our leading text-to-speech reader. | :white_check_mark: |
 | [Unreal Speech](http://unrealspeech.up.railway.app) | Ultra Realistic Text-To-Speech Api. | More natural-sounding and up to 4x cheaper than Amazon, Google and Microsoft. | :white_check_mark: |
-| [VERBATIK](http://verbatik.com) | Verbatik - Text To Speech. | Generate Realistic Text to Speech (TTS) audio using online AI Voice Generator and best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files. | :grey_question: |
+| [VERBATIK](http://verbatik.com) | Ai Powered Text To Voice Generation. | Generate Realistic Text to Speech (TTS) audio using online AI Voice Generator and best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files. | :x: |
 
 **[⬆ Back to Index](#index)**
 
@@ -658,7 +668,6 @@ open an issue and we can discuss it there.
 | [AIduh](http://aiduh.com) | Ai-Responder For Hostaway - Ai Duh. | Chrome extension that cuts your writing time by 98% with AI-powered responses. Built by Hosts for Hosts. | :grey_question: |
 | [ARTSIO](http://artsio.xyz) | Artsio. | . | :grey_question: |
 | [Adobe Mic Check](https://podcast.adobe.com/miccheck) | Check Your Mic For Free. | Get advice on how to improve your microphone setup. We’ll make sure you sound podcast-ready. | :white_check_mark: |
-| [Adobe Podcast](http://podcast.adobe.com) | Adobe Podcast - Ai Audio Recording And Editing, All On The Web. | An audio tool for people with stories to tell. | :grey_question: |
 | [Adobe Podcast](http://www.magictools.online) | 276 Ai Tools. | . | :grey_question: |
 | [Aida](http://www.bookmark.com) | Spend Time Running Your Business, Not Your Website. | Let our Ai powered website builder get your business online in minutes. | :white_check_mark: |
 | [Aiva](http://aiva.ai) | Aiva - The Ai Composing Emotional Soundtrack Music. | . | :grey_question: |
@@ -671,12 +680,10 @@ open an issue and we can discuss it there.
 | [Ansy](http://ansy.ai) | Ansy.Ai - Gpt-3 For Your Discord Server. | GPT-3 powered Discord bot that answers questions from your Discord community members based on chat history. | :grey_question: |
 | [Anypod](http://www.anypod.ai) | Search Engines Built For Creators. | We make your content searchable. | :grey_question: |
 | [Artflow](http://artflow.ai) | Artflow. | . | :grey_question: |
-| [Article.Audio](http://article.audio) | Article Audio - Convert Articles In Audio. | Powered by Thundercontent ⚡️. | :grey_question: |
 | [Artroom](http://artroom.ai) | Artroom Ai. | . | :grey_question: |
 | [Ask Poppy](http://www.poppylist.com) | Poppylist - Be The Parent You Want To Be. | You know your lifestyle. We know the products. Let's build your baby registry together. | :grey_question: |
 | [Askrobi](http://www.askrobi.com) | Askrobi. | Robi is a powerful AI companion that lives in your contact list and can be talked to through WhatsApp, he can help you write an essay or generate original images!. | :grey_question: |
 | [Aspen](http://www.getaspenai.com) | Aspen. | . | :grey_question: |
-| [Assemblyai](http://www.assemblyai.com) | #1 Api Platform For Ai Models. | Automatically convert audio and video files and live audio streams to text with AssemblyAI's Speech-to-Text APIs. Do more with Audio Intelligence - summarization, content moderation, topic detection. | :grey_question: |
 | [Athena](http://www.apac.ai) | Apac Ai Account Portal. | . | :grey_question: |
 | [Atlas Navi](http://www.atlasnavi.com) | Atlasnavi.Com. | . | :grey_question: |
 | [Auto Draw](http://www.autodraw.com) | Autodraw. | Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast. | :grey_question: |
@@ -708,13 +715,10 @@ open an issue and we can discuss it there.
 | [Chapterme](http://chapterme.co) | Chapterme - Ai Powered Chapters For Your Videos. | . | :grey_question: |
 | [CharacterAI](http://beta.character.ai) | . | . | :grey_question: |
 | [CheapNFT.Art](http://cheapnft.art) | Cheap Nfts. | . | :grey_question: |
-| [Cleanvoice AI](http://cleanvoice.ai) | Get Rid Of Filler Words From Your Audio Recordings. | Cleanvoice is an artificial intelligence which removes filler sounds, stuttering and mouth sounds from your podcast or audio recording. | :grey_question: |
-| [Clip audio](http://www.clip.audio) | Clip - Ai Audio Search Engine. | The audio search engine. | :grey_question: |
 | [Code Language Converter](http://codelanguageconverter.com) | Code Language Converter - Convert Code To Other Languages Using Ai. | . | :grey_question: |
 | [Cogram](http://www.cogram.com) | Cogram - Effortless Meeting Notes And Action Items. | Cogram uses artificial intelligence to create high-quality meeting minutes and propose action items. | :grey_question: |
 | [Colossyan](http://www.colossyan.com) | Colossyan Creator. | Colossyan Creator makes video creation simple and stress-free. Discover our AI video creator with real actors. Create videos in less than 5 minutes. | :white_check_mark: |
 | [Compose AI](http://www.compose.ai) | Compose Ai: Automate Your Writing. | . | :white_check_mark: |
-| [Context Search](http://addcontext.xyz) | Context - Ai-Powered Audio & Video Chatbots. | . | :grey_question: |
 | [Coolaiid](http://coolaiid.com) | Coolaiid. | Whether you're looking to decorate or just need a little inspiration, we'll generate unique ideas using AI. | :grey_question: |
 | [CopyScouts](http://copyscouts.com) | Copyscouts - Sustainable Ai-Assisted Copywriting Tool. | Use unlimited GPT-3 based AI writing for a fixed monthly price. | :grey_question: |
 | [Copymatic](http://copymatic.ai) | . | . | :grey_question: |
@@ -805,8 +809,6 @@ open an issue and we can discuss it there.
 | [Letsenhance](http://letsenhance.io) | LetâS Enhance - Image Quality Online App & Free Photo Enlarger. | AI software to enhance and upscale pictures. Increase resolution and quality. Fix blurry, pixelated and bad images. Make every photo sharp and clear. | :white_check_mark: |
 | [Levity](http://levity.ai) | Levity - No-Code Ai Workflow Automation Platform. | . | :grey_question: |
 | [Linkedin Posts Generator](http://sid.black) | Siddharth Verma - Full Stack Freelancer - Startup Guy. | Hi, I am Siddharth Verma. A start-up enthusiast with 6+ years of experience. I have worked with over 50+ SAAS companies helping them build robust scalable solutions, product and engineering problems. | :grey_question: |
-| [Listnr 2.0](http://www.listnr.tech) | Ai Voice Generator - Text To Speech Converter - Listnr. | Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with the best synthetic voices. Instantly convert text in to natural-sounding speech and download in MP3 and WAV formats. | :grey_question: |
-| [Lovo](http://www.lovo.ai) | Lovo Ai - Free Text To Speech Online With Natural Voices. | . | :white_check_mark: |
 | [LuciaAI](http://luciaai.com) | Luciaai. | Lucia uses the latest and most advanced artificial intelligence technology. With Lucia you can write faster and better than ever before. | :grey_question: |
 | [Magic Mate](http://www.getmagicmate.com) | Magicmate. | . | :grey_question: |
 | [MagicStock](http://aimages.ai) | Aimages - Online Ai Video And Image Enhancer. | Upscale and Enhance videos and images online using AI. | :white_check_mark: |
@@ -879,7 +881,6 @@ open an issue and we can discuss it there.
 | [Pitchgrade](http://pitchgrade.com) | Pitchgrade. | A pitch deck is a presentation that a company uses to pitch to investors. It goes over the company’s business model, financial projections, and other key metrics that investors would want to see. | :grey_question: |
 | [Pixelmind](http://beta.pixelmind.ai) | Pixelmind - Ai-Powered Art & Minting To Nfts. | Your journey into AI-powered art. Create and collect NFTs through the Pixelmind portal. Evolve your style. Raise your game. | :grey_question: |
 | [Pixelz AI](http://pixelz.ai) | Pixelz Ai Art Generator. | Create unique AI artwork using text, phrases, images & presets, share, download, print & mint as NFTs. | :grey_question: |
-| [Play.ht](http://play.ht) | Ai Voice Generator & Realistic Text To Speech Online - Play.Ht. | Generate realistic Text to Speech (TTS) audio using our online AI Voice Generator and the best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files. | :grey_question: |
 | [Podcast.ai](http://podcast.ai) | Podcast.Ai. | . | :grey_question: |
 | [Poised 2.0](http://www.poised.com) | Poised - Free Ai-Powered Communication Coach. | . | :white_check_mark: |
 | [Pollinations](http://pollinations.ai) | Pollinations.Ai. | . | :grey_question: |
@@ -918,7 +919,6 @@ open an issue and we can discuss it there.
 | [Renderflux](http://www.renderflux.com) | Renderflux - Design With Ai. | Start creating beautiful art in seconds. Don't worry about the technical stuff, we've got you covered. | :grey_question: |
 | [Replica](http://replicastudios.com) | Synthesize Voice Ai And Natural Sounding Text-To-Speech — Replica. | Try today with 30 minutes of free voice credit. | :white_check_mark: |
 | [Replika](http://replika.com) | Replika. | Always here to listen and talk. Always on your side. Join the millions growing with their AI friends now!. | :grey_question: |
-| [Resemble.ai](http://www.resemble.ai) | Ai Voice Generator And Voice Cloning For Text To Speech - Resemble Ai. | . | :grey_question: |
 | [RestorePhotos.io](https://www.restorephotos.io/) | Restoring Old Photos Using Ai For Everyone. | Have old and blurry face photos? Let our AI restore them so those memories can live on. 100% free – restore your photos today. | :white_check_mark: |
 | [ResumAI](http://www.wonsulting.com) | Wonsulting -  We Find Dream Jobs. | Weâve helped over 100,000 people land their dream jobs. Let our job search strategies take you from resumes to better days. | :grey_question: |
 | [Resume Studio](http://resumestudio.careers) | . | . | :grey_question: |
@@ -944,12 +944,9 @@ open an issue and we can discuss it there.
 | [Snackable AI](http://snackable.ai) | Snackable. | . | :grey_question: |
 | [Snipd Podcast Summaries](http://www.snipd.com) | Unlock The Knowledge In Podcasts - Snipd. | . | :grey_question: |
 | [Solidpoint](http://www.solidpoint.ai) | Solidpoint. | . | :grey_question: |
-| [Song Sketch](http://www.songsketchai.com) | Songsketch. | . | :grey_question: |
 | [Songmastr](http://www.songmastr.com) | Songmastr - Automatic Song Mastering To Reference. | . | :white_check_mark: |
 | [Songtell](http://www.songtell.com) | Songtell - Your Song Meaning Teller. | . | :grey_question: |
 | [Soundful](http://soundful.com) | Empowering The World To Create Music - Soundful. | Soundful empowers creators to generate royalty free tracks at the click of a button. The quality of Soundful music is so rich, you won’t believe it was made with AI. | :grey_question: |
-| [Speechelo](http://speechelo.com) | Speechelo - Generate Voice From Text With Only 3 Clicks. The Most Realistic Souding Text To Audio Converter. | We GUARANTEE no one will tell your voiceover is A.I. generated with a text to voice tool. | :grey_question: |
-| [Speechify](http://speechify.com) | . | . | :grey_question: |
 | [Splash](http://www.splashmusic.com) | Splash - Bringing The Joy Of Music Making To Everyone. | . | :grey_question: |
 | [SplashAI](http://www.splashai.art) | Splashai Is A Figma Plugin, Search Engine And Ai Image Generator. | . | :grey_question: |
 | [Stable Diffusion Prompt Generator](http://www.thomas.io) | Thomas.Io. | . | :grey_question: |
