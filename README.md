@@ -625,12 +625,16 @@ No technical skills or software download required.</p>
 ### Translation & Transcript
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [Ava](http://www.ava.me) | Professional & Ai-Based Captions For Deaf & Hoh - Ava. | . | :grey_question: |
 | [Deciphr AI](http://www.deciphr.ai) | Deciphr Ai. | Powered by deep AI, Deciphr timestamps and summarizes your entire podcast transcript for you. In less time than it takes to make coffee. | :white_check_mark: |
+| [DeepL](http://www.deepl.com) | Deepl Translate: The World'S Most Accurate Translator. | . | :white_check_mark: |
 | [Graphic AI](http://www.stork.ai) | Ai Assisted Work Collaboration Platform For Teams. | Stork helps teams improve communications and productivity. It is a Business Messenger for Hybrid & Remote Teams that Records and Transcribes All Meetings and Calls automatically. Made for asynchronous post pandemic world and assisted by artificial intelligence. | :grey_question: |
 | [Rephrasely](http://rephrasely.com?via=beth0) | The Free Rephrase Generator For All Languages!. | Rephrasely uses state-of-the-art AI to produce variations of your text in more than 100+ languages for each of the eighteen (12 free and 6 premium) styles that we offer. By doing this, we are able to offer more value and variety than any other service. | :white_check_mark: |
 | [Rythmex](https://rythmex.com/?partner=641&uuid=49feba69-adf4-456c-a90e-a9f4f14372cb&page=home) | Convert Audio To Text With Rythmex Converter. | Transcribe audio to text easily, quickly, and effectively. | :white_check_mark: |
 | [Scribebuddy](http://secure.scribebuddy.com) | . | Automatically Transcribe Any Audio, Video, Zoom Call, Google Meet, Podcast, Live Speech & More in Minutes. | :x: |
+| [Supertranslate](http://www.supertranslate.ai) | Supertranslate - Add Subtitles To Videos Automatically. | Powered by OpenAI's Whisper, the world's most accurate speech-to-text engine!. | :grey_question: |
 | [Taption](http://www.taption.com) | Automatically Generate Transcript, Translation And Subtitles - Taption. | . | :grey_question: |
+| [TranslateVideo](http://www.translate.video) | Translate.Video. | . | :grey_question: |
 | [Voicetapp](http://voicetapp.com) | Voicetapp - Speech To Text Transcription. | Get accurate transcriptions for your AUDIO & VIDEO with the latest speech rocognition technology. | :grey_question: |
 
 **[⬆ Back to Index](#index)**
@@ -728,7 +732,6 @@ No technical skills or software download required.</p>
 | [Atlas Navi](http://www.atlasnavi.com) | Atlasnavi.Com. | . | :grey_question: |
 | [Auto Draw](http://www.autodraw.com) | Autodraw. | Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast. | :grey_question: |
 | [AutoPredict](http://autopredict.co.uk) | Autopredict - Predict How Long Your Car Will Last. | AutoPredict uses state of the art AI to predict how long a UK car is likely to last. | :grey_question: |
-| [Ava](http://www.ava.me) | Professional & Ai-Based Captions For Deaf & Hoh - Ava. | . | :grey_question: |
 | [Avtrs](http://www.avtrs.ai) | Avtrs.Ai. | . | :grey_question: |
 | [BRIA](http://commercial.bria.ai/) | Create Images And Video At Scale - Bria. | . | :grey_question: |
 | [B^ DISCOVER](http://bdiscover.kakaobrain.com) | B^ Discover - Home. | You will have a new experience of discovering your story in images. | :grey_question: |
@@ -772,7 +775,6 @@ No technical skills or software download required.</p>
 | [Daft Art](http://www.daftart.ai) | Daft Art — Create The Album Cover You'Ve Always Dreamed Of. | Daft allows you to create an amazing, high quality artwork for your album cover within a few minutes, powered by AI. | :grey_question: |
 | [Daydrm](http://www.daydrm.ai) | Daydrm.Ai. | The future of advertising is using machine learning to perform creative thinking. | :grey_question: |
 | [Debuild](http://debuild.app) | Debuild - Build Web Apps Fast. | . | :grey_question: |
-| [DeepL](http://www.deepl.com) | Deepl Translate: The World'S Most Accurate Translator. | . | :grey_question: |
 | [Designs AI](http://designs.ai) | Create Logos, Videos, Banners, Voiceovers With Ai. | Create anything online in 2 minutes! Make a logo, video, social media banner, business card, flyer, mockup and more with AI. | :white_check_mark: |
 | [DetangleAI](http://detangle.ai) | Detangleai. | . | :grey_question: |
 | [Dewey](http://www.withdewey.com) | Dewey: Your New Accountability Buddy. | . | :grey_question: |
@@ -989,7 +991,6 @@ No technical skills or software download required.</p>
 | [Super Prompt](http://superprompts.com) | Super Prompts. | Create a gallery for your AI art. Next time someone asks to see all your art, you'll have somewhere to point them to. Showcase all your AI art in one place. | :grey_question: |
 | [Supermeme.ai](http://www.supermeme.ai) | Supermeme.Ai - Ai Memes To Boost Your Personal And Professional Brand. | Generate original AI memes in 110+ language by entering any text input and turning that into a shareable memes. Powered by GPT-3 and a custom built meme database. | :grey_question: |
 | [Supernormal](http://supernormal.com) | Supernormal - Ai That Writes Your Meeting Notes. | . | :grey_question: |
-| [Supertranslate](http://www.supertranslate.ai) | Supertranslate - Add Subtitles To Videos Automatically. | Powered by OpenAI's Whisper, the world's most accurate speech-to-text engine!. | :grey_question: |
 | [SwagAI](http://swag-ai.com) | . | . | :grey_question: |
 | [Synth Run](http://app.synth.run) | Synth. | . | :grey_question: |
 | [Synthesia](http://www.synthesia.io) | Synthesia - #1 Ai Video Generation Platform. | . | :grey_question: |
@@ -1014,7 +1015,6 @@ No technical skills or software download required.</p>
 | [ToWords](http://www.towords.io) | Towords: Youtube To Words. | Make your videos and audio come alive with written words. | :grey_question: |
 | [Topaz Video AI](http://www.topazlabs.com) | Topaz Labs: Ai Image Quality Software. | . | :grey_question: |
 | [Torto.ai](http://torto.ai) | Stock Market Made Simple. | . | :grey_question: |
-| [TranslateVideo](http://www.translate.video) | Translate.Video. | . | :grey_question: |
 | [Traq.ai](http://www.traq.ai) | . | . | :grey_question: |
 | [Tribescaler](http://tribescaler.com) | Tribescaler. | . | :grey_question: |
 | [Tunes For Tales](http://tunesfortales.fun) | Tunes For Tales. | . | :grey_question: |
