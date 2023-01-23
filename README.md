@@ -13,7 +13,7 @@
 <div align="center">
     <h4>Status</h4>
 
-<a href="https://github.com/public-apis/public-apis">
+<a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=816" />
 </a>
 
