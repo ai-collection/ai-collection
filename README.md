@@ -1,6 +1,5 @@
 <div align="center">
     <img width="150" alt="ai-collection logo" src="https://github.com/ai-collection/ai-collection/blob/main/logo-transparent.png" />
-<!-- ![ai-collection logo](https://github.com/ai-collection/ai-collection/blob/main/logo-transparent.png) -->
     <h1>ai-collection</h1>
     <i>THE GENERATIVE AI LANDSCAPE</i>
     <br />
@@ -15,7 +14,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/public-apis/public-apis">
-    <img alt="Number of AI Projects" src="https://img.shields.io/static/v1?message=Number%20of%20Generative%20AI%20Applications&color=informational&style=flat-square&label=816" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=816" />
 </a>
 
 •
@@ -300,7 +299,7 @@ No technical skills or software download required.</p>
 | [Lek](http://lek.ai) | Lek.Ai - The Ultimate Content Creator Toolkit Powered By Ai. | Write Anything For Everything. The fastest and easiest way to create content and copy. | :white_check_mark: |
 | [Lex](http://lex.page) | Unlock Your Best Writing. | . | :grey_question: |
 | [LongShot AI](http://www.longshot.ai?deal=beth0) | Create Content That Humans And Search Engines Love Using Artificial Intelligence. | LongShot is an AI writing assistant that helps you go from idea to SEO content in minutes. Use creative power of AI with features like real time content, fact check, semantic SEO, custom AI, & more!. | :x: |
-| [Neuraltext](https://neuraltext.com) | Neuraltext - Ai Writer And Seo Platform. | Automate your content operations. The all-in-one content marketing and SEO platform that saves you time and money. | :x: |
+| [Neuraltext](https://neuraltext.com?via=beth0) | Neuraltext - Ai Writer And Seo Platform. | Automate your content operations. The all-in-one content marketing and SEO platform that saves you time and money. | :x: |
 | [Quattr](https://www.quattr.com/) | Quattr Is Your Growth Hq. | The enterprise SEO platform built with powerful AI and GSC data as the foundation. | :x: |
 | [Summari](http://www.summari.com) | Improve The Reading Experience On Your Site. | Upgrade links into short, informative previews using our world-class AI summarization technology. | :grey_question: |
 | [Typli](http://typli.ai) | Typli.Ai - Ai Writer & Seo Writing Assistant. | The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant. | :white_check_mark: |
@@ -609,7 +608,7 @@ No technical skills or software download required.</p>
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Article.Audio](http://article.audio) | Convert Articles In Audio. | too lazy to read an article? no problem, listen to it! Powered by Thundercontent. | :white_check_mark: |
-| [Listnr 2.0](http://www.listnr.tech) | Ai Voice Generator - Text To Speech Converter - Listnr. | Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with the best synthetic voices. Instantly convert text in to natural-sounding speech and download in MP3 and WAV formats. | :x: |
+| [Listnr 2.0](https://www.listnr.tech/?gr_pk=V71a&gr_uid=YVDO) | Ai Voice Generator - Text To Speech Converter - Listnr. | Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with the best synthetic voices. Instantly convert text in to natural-sounding speech and download in MP3 and WAV formats. | :x: |
 | [Lovo](http://www.lovo.ai) | Lovo Ai - Free Text To Speech Online With Natural Voices. | . | :white_check_mark: |
 | [Murf.ai](http://murf.ai) | Go From Text To Speech With A Versatile Ai Voice Generator. | AI enabled, real people's voices. Make studio-quality voice overs in minutes. Use Murf’s lifelike AI voices for podcasts, videos, and all your professional presentations. | :white_check_mark: |
 | [Play.ht](http://play.ht) | Ai Powered Text To Voice Generator. | Generate realistic Text to Speech (TTS) audio using our online AI Voice Generator and the best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files. | :white_check_mark: |
