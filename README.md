@@ -13,8 +13,8 @@
 <div align="center">
     <h4>Status</h4>
 
-<a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=816" />
+<a href="https://github.com/public-apis/public-apis">
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=820" />
 </a>
 
 •
@@ -64,11 +64,12 @@ No technical skills or software download required.</p>
 | 📧 [Email Assistant](#email-assistant) | 👩‍🎤 [Fashion](#fashion) | 🤪 [Fun](#fun) |
 | 🎮 [Gaming](#gaming) | 🎁💡 [Gift Ideas](#gift-ideas) | 👩‍⚕️ [Healthcare](#healthcare) |
 | 👩‍💼 [Human Resources & Resume](#human-resources--resume) | 👩‍⚖️ [Legal](#legal) | ⚜️ [Logo Generator](#logo-generator) |
-| 🎼 [Music](#music) | 📸 [Photo & Image Editing](#photo--image-editing) | 🔌 [Plugins & Extensions](#plugins--extensions) |
-| 🗳 [Reviews & Recommendations](#reviews--recommendations) | 💰 [Sales & Marketing](#sales--marketing) | 🔍 [Search Engines](#search-engines) |
-| 🕸 [Slides & Web Design](#slides--web-design) | 📢 [Speech](#speech) | 📝 [Text](#text) |
-| 📝🔉 [Text To Speech](#text-to-speech) | 🇺🇳 [Translation & Transcript](#translation--transcript) | 🎬 [Video](#video) |
-| ✍️ [Writing Assistant](#writing-assistant) |  [Other](#other)
+| 🎼 [Music](#music) | 🧞‍♂️ [Organization & Automation](#organization--automation) | 📸 [Photo & Image Editing](#photo--image-editing) |
+| 🔌 [Plugins & Extensions](#plugins--extensions) | 🗳 [Reviews & Recommendations](#reviews--recommendations) | 💰 [Sales & Marketing](#sales--marketing) |
+| 🔍 [Search Engines](#search-engines) | 🕸 [Slides & Web Design](#slides--web-design) | 📢 [Speech](#speech) |
+| 📝 [Text](#text) | 📝🔉 [Text To Speech](#text-to-speech) | 🇺🇳 [Translation & Transcript](#translation--transcript) |
+| 🎬 [Video](#video) | ✍️ [Writing Assistant](#writing-assistant) |  [Other](#other) |
+
 
 </div>
 
@@ -155,6 +156,7 @@ No technical skills or software download required.</p>
 | [Photosonic AI](http://photosonic.writesonic.com) | Photosonic Ai Art Generator - Create Unique Images With Ai. | Transform your imagination into stunning digital art with Photosonic - the AI art generator. With its creative suggestions, this Writesonic's AI image generator can help unleash your inner artist and share your creations with the world. | :grey_question: |
 | [PirateDiffusion](http://scum.co) | Describe Anything. | get realistic HD images, more styles, no restrictions. | :white_check_mark: |
 | [Pixian](http://pixian.ai) | Remove Image Backgrounds, Free Hd, No Signup - Pixian.Ai. | Remove Image Backgrounds, Free HD, No Signup. | :white_check_mark: |
+| [Playground](https://playgroundai.com/) | Playground Ai - Online Ai Image Creator. | Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more. | :white_check_mark: |
 | [Playground](http://playgroundai.com) | Free Ai Image Generator: Art, Social Media, Marketing - Playground Ai. | Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more. | :white_check_mark: |
 | [Postedby](http://postedby.ai) | Postcards By Ai, Delivered!. | Postedby.ai allows users to create personalized postcards using advanced AI technology. | :x: |
 | [Prompt Art](http://promptart.labml.ai) | Stable Diffusion Playground. | . | :grey_question: |
@@ -458,6 +460,14 @@ No technical skills or software download required.</p>
 
 **[⬆ Back to Index](#index)**
 
+### Organization & Automation
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [bardeen](https://www.bardeen.ai/ai) | Ai Meets Automations. | Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity. | :grey_question: |
+| [mem](https://get.mem.ai/) | The Self-Organizing Workspace. | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically. | :white_check_mark: |
+
+**[⬆ Back to Index](#index)**
+
 ### Photo & Image Editing
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
@@ -528,6 +538,7 @@ No technical skills or software download required.</p>
 | [OpenArt Photo Booth](http://openart.ai) | Discover And Generate Ai Art - Openart. | Search 10M+ prompts, and generate AI Art via Stable Diffusion, DALL·E 2. | :white_check_mark: |
 | [Perplexity AI](http://www.perplexity.ai) | Perplexity Ai. | . | :white_check_mark: |
 | [Smarty Names](http://smartynames.com) | Free Creative Domain Name Search By Ai Robots. | Finding a creative and unique domain that is still available is easy with SmartyNames.com - Tell us what you do, and our robots will find the domain that is just right for you. Company name generator in one click. | :white_check_mark: |
+| [StockGPT](https://www.askstockgpt.com/) | Ai-Powered Search Engine. | StockGPT is an AI-powered search engine that was trained on all of Tesla’s quarterly earnings call transcripts dating back to Q2 2011. | :white_check_mark: |
 | [You](http://you.com) | The Ai Search Engine You Control. | . | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
