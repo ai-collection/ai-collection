@@ -298,6 +298,7 @@ No technical skills or software download required.</p>
 | [Jasper.ai](http://www.jasper.ai) | Jasper - Ai Copywriter - Ai Content Generator For Teams. | Jasper is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster. | :white_check_mark: |
 | [Kafkai](http://kafkai.com) | Unique And Readable Ai Content Generator. | Kafkai is an AI Writer Assistant that helps you create unique SEO-friendly articles for cents instead of dollars. | :x: |
 | [Katteb](http://katteb.com) | Write Fact-Checked Content. | Katteb AI makes it fast & easy to create content for your blog and online store. | :white_check_mark: |
+| [LAIKA](http://www.writewithlaika.com) | Personalised Artificial Intelligence For Writers. | We make the boring parts of writing exciting. LAIKA is a creative partner that you train to write like you (or anyone you want). Made for creative writers, game writers, and all other fiction fabricators. | :white_check_mark: |
 | [Lek](http://lek.ai) | Lek.Ai - The Ultimate Content Creator Toolkit Powered By Ai. | Write Anything For Everything. The fastest and easiest way to create content and copy. | :white_check_mark: |
 | [Lex](http://lex.page) | Unlock Your Best Writing. | . | :grey_question: |
 | [LongShot AI](http://www.longshot.ai?deal=beth0) | Create Content That Humans And Search Engines Love Using Artificial Intelligence. | LongShot is an AI writing assistant that helps you go from idea to SEO content in minutes. Use creative power of AI with features like real time content, fact check, semantic SEO, custom AI, & more!. | :x: |
@@ -612,8 +613,6 @@ No technical skills or software download required.</p>
 | [Writemeacoverletter](http://writemeacoverletter.com) | Write Me A Cover Letter. | Generate a cover letter in seconds using AI. Just upload your CV, share a link to the job you want, and we'll do the rest. | :grey_question: |
 | [Your Cover Letter](http://yourcoverletter.com) | Ai Cover Letter Builder - Upload Your Resume To Get Started. | Apply for your dream jobs using our AI Cover Letter builder. Add your Resume and the Job Description to generate a Cover Letter in seconds. | :grey_question: |
 | [coverletter.app](http://coverletter.app) | Custom-Made Cover Letters Ready In Minutes Not Hours - Coverletter.App. | Stand out from the competition and increase your chances of getting hired with personalized cover letters from our advanced AI technology. | :grey_question: |
-| [LAIKA](https://writewithlaika.com/) | Personalised Artificial Intelligence for Writers | We make the boring parts of writing exciting. LAIKA is a creative partner that you train to write like you (or anyone you want). Made for creative writers, game writers, and all other fiction fabricators. | :white_check_mark: |
-
 
 **[⬆ Back to Index](#index)**
 
@@ -1082,7 +1081,6 @@ No technical skills or software download required.</p>
 | [Writelyai](http://www.writelyai.com) | Writely - Using Ai To Improve Your Writing. | . | :grey_question: |
 | [Writeplus](http://writeplus.co) | Write+ – Professional Writing Made Accessible For All!. | . | :grey_question: |
 | [Writer](http://writer.com) | Writer - Ai Writing Platform For Teams. | World-class companies use Writer’s AI writing platform to unlock on-brand content at scale. | :grey_question: |
-| [Writewithlaika](http://www.writewithlaika.com) | Write With Laika. | . | :grey_question: |
 | [Yepic AI](http://www.yepic.ai) | Your Ai Video Toolkit  - Create, Dub & Personalise Videos. | Create, Dub and Personalise Videos Anywhere. | :grey_question: |
 | [ai2sql](http://www.ai2sql.io) | Sql Query Builder - Sql Query Builder Ai Bot. | With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL. It's time to take back your time!. | :white_check_mark: |
 | [bigmp4](http://bigmp4.com) | Ai Video Enhancement, Using 2022 Cutting Edged Ai Model To Lossless Enlarge Video, Enhance Video. | . | :grey_question: |
