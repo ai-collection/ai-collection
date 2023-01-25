@@ -246,6 +246,7 @@ No technical skills or software download required.</p>
 | [ChatGPT](http://chat.openai.com) | A Powerful Language Model For Text Generation And Understanding. | . | :white_check_mark: |
 | [Context Search](http://addcontext.xyz) | Context - Ai-Powered Audio & Video Chatbots. | . | :grey_question: |
 | [NOLU](http://noluai.com) | Interacting With Ai Should Be Simple. | Meet NOLU. A simple interface for interacting with the Open AI GPT-3 engine. | :white_check_mark: |
+| [Vacay](https://usevacay.com/chatbot) | Vacation Chat Agent. | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions. | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
 
