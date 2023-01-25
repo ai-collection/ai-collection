@@ -14,7 +14,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/public-apis/public-apis">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=820" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=823" />
 </a>
 
 •
@@ -351,6 +351,7 @@ No technical skills or software download required.</p>
 | [Quicklines](http://www.quicklines.ai) | Quicklines Lifetime Access - Only $59. | Quicklines is your new AI powered cold outreach assistant. We help you scale your cold email campaigns with our in-depth social scraping and natural language first-line writing platform. | :x: |
 | [Rapidreply](http://rapidreply.ai) | Rapid Reply - Ai Email Assistant. | Save 30 minutes a day writing emails. | :grey_question: |
 | [Recruiting Emails AI by Dover](http://recruitingemails.ai) | Dover - Generate Customized Recruiting Emails. | . | :grey_question: |
+| [Remail](https://coverletterai.app/) | Write Emails 10X Faster. | Remail is a Chrome extension for gmail that uses artificial intelligence to draft high quality email replies in seconds. | :white_check_mark: |
 | [Smartwriter](http://www.smartwriter.ai?via=beth0) | Generate 1000S Of Personalised Emails That Get You 8X More Replies Within Minutes Using Ai. | Never waste time researching or writing 'personalised' emails again. Automate your entire outreach process. 40x faster and 6x cheaper than humans. | :white_check_mark: |
 | [Warmer.Ai](http://warmer.ai) | Warmer.Ai - Ai Email Writer. | Warmer uses AI email personalization to write your email outreach. Increase replies, meetings and sales with dynamic personalization. | :grey_question: |
 | [superReply](http://superreply.co) | Upgrade Your Email Game. | The Email Response Hack You've Been Waiting For - Easily send effective replies with tailored responses without writing from scratch. | :white_check_mark: |
@@ -423,6 +424,7 @@ No technical skills or software download required.</p>
 ### Human Resources & Resume
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [Cover Letter AI](https://coverletterai.app/) | Cover Letter Ai. | . | :white_check_mark: |
 | [LazyApply](http://lazyapply.com) | Automate Your Job Application Process. | We automatically apply to all the jobs on platforms like Linkedin, Indeed and Ziprecruiter. | :x: |
 | [Resume Worded](http://resumeworded.com) | Improve Your Resume And Linkedin Profile. | Designed by top recruiters, our AI-powered platform instantly gives you tailored feedback on your resume and LinkedIn profile. Land 5x more interviews, opportunities and job offers. | :white_check_mark: |
 | [rankode](http://www.rankode.ai) | Ai For Human Resources - Rankode. | Recruiters, everything you need to know about a candidate's programming skills is in their GitHub. Evaluate them automatically with Rankode to avoid expensive hiring mistakes and superboost your retention. | :grey_question: |
@@ -464,6 +466,7 @@ No technical skills or software download required.</p>
 ### Organization & Automation
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [Hexowatch](http://hexowatch.com) | Beyond Availability And Prices, 3Rd Party Websites As A Data Source, Visual Website Monitoring, Competitor Tracking. | Hexowatch is your AI sidekick to monitor any website for visual, content, source code, technology, availability, or price changes. | :x: |
 | [bardeen](https://www.bardeen.ai/ai) | Ai Meets Automations. | Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity. | :grey_question: |
 | [mem](https://get.mem.ai/) | The Self-Organizing Workspace. | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically. | :white_check_mark: |
 
@@ -549,6 +552,7 @@ No technical skills or software download required.</p>
 |---|---|---|:---:|
 | [ChatBA](https://www.chatba.com/) | Chatbcg: Generative Ai For Slides. | Instantly create slide decks using ChatBCG. | :grey_question: |
 | [Magician](http://magician.design) | Magician For Figma. | A magical design tool for Figma powered by AI. | :grey_question: |
+| [Piggy](https://piggy.to/magic) | Mobile Content Creator. | Creating stunning content on your phone just got easy. | :white_check_mark: |
 | [Tome](http://beta.tome.app) | Generative Storytelling Has Arrived. | Unlock your best work with Tome's AI-powered storytelling format. | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
@@ -827,7 +831,6 @@ No technical skills or software download required.</p>
 | [Handywriter](http://handyplugins.co) | Handyplugins — Well-Crafted Wordpress Plugins. | . | :grey_question: |
 | [Headline-ai](http://headline-ai.com) | Headline Ai. | . | :grey_question: |
 | [HelloScribe](http://www.helloscribe.ai) | Helloscribe: Bring Your Best Ideas To Life. | . | :grey_question: |
-| [Hexowatch](http://hexowatch.com) | Website Change Detection, Monitoring & Archiving - Hexowatch. | . | :grey_question: |
 | [Hire Hoc](http://hirehoc.com) | Hire Hoc - The Ai Powered Hiring Tool. | Transform Your Organization with the Power of AI-Assisted Recruiting. | :grey_question: |
 | [HireYaY](http://hireyay.com) | Hireyay, A Hiring Platform For Startups. | 92% of job seekers do not finish their online application. With HireYaY, you will never miss a qualified candidate again. | :grey_question: |
 | [Hirex.ai](http://www.hirex.ai) | Hirex.Ai. | Welcome to hirex.ai, a no-code AI platform to build voice-based bots that conduct and score interviews at scale. Get the complete suite of assessments tools like coding interviews, MCQ tests, hackathons, video interviews, and WhatsApp chatbots all under single dashboard. | :grey_question: |
