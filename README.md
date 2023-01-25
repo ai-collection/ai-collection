@@ -13,11 +13,12 @@
 <div align="center">
     <h4>Status</h4>
 
-<a href="https://github.com/public-apis/public-apis">
+<a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=823" />
+</a> &nbsp;&nbsp;
+<a href="https://github.com/ai-collection/ai-collection">
+    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=33" />
 </a>
-
-•
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
 
@@ -283,7 +284,7 @@ No technical skills or software download required.</p>
 ### Content Generation & Seo
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [ArticleForge](http://www.articleforge.com) | High Quality, Ai Content Generator - Article Forge. | Using advanced artificial intelligence and deep learning, Article Forge writes completely unique, SEO optimized, high-quality, long form articles with the click of a button. | :white_check_mark: |
+| [ArticleForge](https://www.articleforge.com/?ref=e99368) | High Quality, Ai Content Generator - Article Forge. | Using advanced artificial intelligence and deep learning, Article Forge writes completely unique, SEO optimized, high-quality, long form articles with the click of a button. | :white_check_mark: |
 | [Content brief generator](http://www.dashword.com?via=beth0) | Seo Content Optimization Software - Dashword. | Dashword is the #1 content optimization software for SEO teams. Create relevant content for your readers and grow your organic traffic. | :x: |
 | [Contentedge](http://www.contentedge.com) | Advanced Ai Content Generation & Seo Copywriting Software. | Skip the creative burnout and generate high-ranking content in as little as 15 seconds. | :white_check_mark: |
 | [CopyMonkey](http://copymonkey.ai?via=beth0) | Your Ai-Powered Amazon Listing Optimization Expert. | CopyMonkey generates and optimizes Amazon listings in seconds. AI helps place all of the important keywords in your Amazon listing to get you ranking organically on the first page. | :white_check_mark: |
