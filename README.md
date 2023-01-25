@@ -210,19 +210,18 @@ No technical skills or software download required.</p>
 | [Avatarize.club](http://avatarize.club) | Create High Quality Ai-Generated Avatars. | Professional Photos, Social Media DPs, Game Avatars, Dating Profile Photos, and more powered by Stable Diffusion 2.1. | :x: |
 | [Character.io](http://characterio.neeltron.repl.co) | Free Tool To Generate Fresh Cartoon Characters. | Generate a random set of characters or avatars with the power of GANs. Press spacebar to generate a new set. | :white_check_mark: |
 | [DreamPic](http://dreampic.ai) | Dreampic.Ai. | AI Generated Pictures Starring You. | :grey_question: |
-| [EpicAvatar](http://epic-avatar.com) | Epic Avatar - Ai Profile Picture Generator. | Make your own state-of-the-art AI avatar profile pictures. | :grey_question: |
+| [EpicAvatar](http://epic-avatar.com) | Epic Avatar - Ai Profile Picture Generator. | Make your own state-of-the-art AI avatar profile pictures. | :x: |
 | [Face Swapper](http://faceswapper.ai) | Face Swapper Online. | Swap face from photos and videos automatically. Free and unlimited photo swapping. | :white_check_mark: |
 | [Hairgen](http://www.hairgen.ai) | Preview Your Fue/Fut Hair Transplant Using Ai - Hairgen.Ai. | . | :grey_question: |
 | [HairstyleAI](http://www.hairstyleai.com?via=beth0) | Try Out New Hairstyles With Ai - Hairstyle Ai. | Ready for a new look? Upload you photos and let artificial intelligence technology generate new hairstyles for you. Try it out today!. | :x: |
 | [HeroPack](http://www.heropack.me) | Heropack. | Become a Hero with AI generated avatars inspired by your favorite video games. | :grey_question: |
 | [Magic AI Avatars](http://magicaiavatars.com) | . | Get 200+ custom avatars made by artificial intelligence. | :grey_question: |
-| [MagicPic](http://www.magicpic.ai) | Magicpic - Ai Profile Picture Generator. | Your profile picture is the first thing people see when they look at your profile. We use artificial intelligence to generate an magical avatars of you. | :grey_question: |
+| [MagicPic](http://www.magicpic.ai) | Magicpic - Ai Profile Picture Generator. | Your profile picture is the first thing people see when they look at your profile. We use artificial intelligence to generate an magical avatars of you. | :x: |
 | [PIXELVIBE](https://www.pixelvibe.com/) | Ai Streamlined Creative Workflow. | Create Presentations, Designs, Stock Photos, Instagram Promos, Product Photography, Vector Art, Animated Avatars. | :grey_question: |
 | [Passphoto](http://passphoto.ai) | Create Your Passport Photo With Ai. | . | :x: |
 | [PhotoAI](http://photoai.me) | Photoai. | Create AI-generated images of yourself. | :grey_question: |
 | [PhotoLeaf](http://photoleaf.ai) | Photoleaf Ai. | Create your AI-generated social media pictures. | :grey_question: |
 | [Photoshot](http://photoshot.app) | Your Ai Avatar Generator. | Generate avatars that perfectly capture your unique style. | :x: |
-| [PicasaAI](http://picasaai.com) | Picasa Ai. | Create your AI-generated social media pictures. | :grey_question: |
 | [Pictureperfect](http://pictureperfect.ai) | Ai Avatar Generator And Maker - Pictureperfect.Ai. | Get creative and design your own personalized avatar with the help of AI technology. Simply upload a photo and our system will generate a unique avatar that represents you. Share your picture perfect avatar with friends and family on social media and let your creativity shine!. | :grey_question: |
 | [Posed](http://posed.ai) | Posed. | Upload your pictures and let our AI create stunning high-quality portraits in a wide range of styles that look just like you. | :grey_question: |
 | [Profile Picture](http://profilepicture.me) | Profile Picture Art. | . | :grey_question: |
@@ -247,7 +246,6 @@ No technical skills or software download required.</p>
 | [ChatGPT](http://chat.openai.com) | A Powerful Language Model For Text Generation And Understanding. | . | :white_check_mark: |
 | [Context Search](http://addcontext.xyz) | Context - Ai-Powered Audio & Video Chatbots. | . | :grey_question: |
 | [NOLU](http://noluai.com) | Interacting With Ai Should Be Simple. | Meet NOLU. A simple interface for interacting with the Open AI GPT-3 engine. | :white_check_mark: |
-| [Vacay](https://www.vacay.club/chatbot) | Vacation Chat Agent. | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions. | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
 
@@ -573,7 +571,6 @@ No technical skills or software download required.</p>
 | [ChatGPT Writer](http://chatgptwriter.ai) | . | . | :grey_question: |
 | [Childbook](http://www.childbook.ai) | Welcome To Children'S Book Creator!. | Your book will be personalized with characters, pictures and story. The story and illustrations also have a text-to-speech feature and can be listened to. | :grey_question: |
 | [Cover Letter AI](http://coverletter-ai.com) | Cover Letter Ai. | The ultimate tool for crafting the perfect cover letter. | :grey_question: |
-| [Cover Letter Kit](http://coverletterkit.com) | Cover Letter Kit - Ai-Powered Custom Cover Letters In Minutes. | Write your cover letter and prepare for your interview with help from AI! Land your dream job with a professional, custom-made, and effective cover letter kit. | :grey_question: |
 | [Coverletterwrite](http://coverletterwrite.com) | Cover Letter Write. | Ask AI to write a personalized cover letter. | :grey_question: |
 | [Diffusion.chat](http://diffusion.chat) | Diffusion Chat. | . | :grey_question: |
 | [Digital Dogs](http://digitaldogs.ai) | The Digital Dogsâ¢. | Cross-app, AI Digital Dogs NFTs for Virtual worlds, VR, AR, social apps, games and more. | :grey_question: |
@@ -873,7 +870,6 @@ No technical skills or software download required.</p>
 | [Moonbeam](http://www.gomoonbeam.com) | Moonbeam - Never Write From Scratch Again. | . | :grey_question: |
 | [Movio](http://www.movio.la) | Movio - Ai Spokesperson Video Generator. | . | :grey_question: |
 | [Mrgn](http://Mrgn.ai) | Enterprise Intelligence For Small Business. | . | :white_check_mark: |
-| [My AI Painting](http://myaipainting.com) | My Ai Painting - Create Your Unique A.I Painting. | Order your very own A.I. masterpiece today. Just tell the A.I. what you want in your painting. | :grey_question: |
 | [My Instant Writer](http://www.myinstantwriter.com) | My Instant Writer. | . | :grey_question: |
 | [My Pitch Deck](http://mypitchdeck.com) | My Pitch Deck - Ai-Generated Pitch Deck Templates For Startups. | . | :grey_question: |
 | [MyAnima AI Companion](http://myanima.ai) | Anima: Ai Friend. | . | :grey_question: |
@@ -900,7 +896,6 @@ No technical skills or software download required.</p>
 | [Opus](http://opus.ai) | Opuswebsite. | . | :grey_question: |
 | [Orchard](http://orchard.ink) | Orchard. | . | :grey_question: |
 | [Outdone V2](http://www.outdone.io) | Outdone. | . | :grey_question: |
-| [PICLY](http://www.picly.ai) | Picly: Ai Generated Spot The Difference. | . | :grey_question: |
 | [Paperade](http://www.paperade.co) | Paperade Startup Idea Generator. | Paperade is the first AI-powered tool that generates commercial use cases and company ideas from over 100 million academic papers and research studies. | :grey_question: |
 | [Papercup](http://www.papercup.com) | Papercup - Ai Dubbing And Video Translation Software. | . | :grey_question: |
 | [Patience](http://patience.ai) | Patience - Ai Art With Stable Diffusion. | . | :grey_question: |
@@ -1039,7 +1034,6 @@ No technical skills or software download required.</p>
 | [TweetEmote](http://www.tweetemote.com) | Tweetemote. | . | :grey_question: |
 | [Tweethunter](http://tweethunter.io) | Tweet Hunter - Get More Twitter Followers -Â Tweets, Threads, Scheduler, Analytics. | Get sales, growth and new networks. Faster than what you're currently trying. | :grey_question: |
 | [Tweetnimage](http://tweetnimage.com) | Tweetnimage. | . | :grey_question: |
-| [Tweetsift](http://tweetsift.com) | Tweetsift. | . | :grey_question: |
 | [Tweetspear](http://www.tweetspear.com) | Tweetspear - Boost Your Twitter Engagement. | Revolutionize Your Twitter Engagement with  AI-Powered Suggested Replies . | :grey_question: |
 | [Twelve Labs](http://twelvelabs.io) | Twelve Labs. | . | :grey_question: |
 | [TypeDroid](http://typedroid.com) | Typedroid - Free Ai Text Generator. | . | :white_check_mark: |
