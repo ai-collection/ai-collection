@@ -14,7 +14,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=807" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=806" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=34" />
@@ -540,6 +540,7 @@ No technical skills or software download required.</p>
 | [MarketingBlocks AI](http://marketingblocks.ai) | Marketingblocks Ai. | Human-like all-in-one AI marketing assistant that creates landing pages, promo videos, ads, marketing copy, graphics, emails, voiceovers, blog posts, art & more. | :grey_question: |
 | [Octie.ai](http://octie.ai) | Octie.Ai - Your A.I. Ecommerce Marketing Assistant. | Write emails, product descriptions, and more, with A.I. Created by Octane AI. | :grey_question: |
 | [SaleWhale](http://salewhale.chat) | Sale Whale - Ai-Powered Sales Rep Chatbot. | We provide impossibly good Sales Rep and Customer Support Chatbots, using the world's best available AI models. Learn how it will improve your business. | :grey_question: |
+| [unbounce](http://unbounce.com) | Smart Marketing Tools To Grow Your Business. | Turn more of your visitors into customers. Unbounce is the AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes. | :x: |
 
 **[⬆ Back to Index](#index)**
 
@@ -973,7 +974,6 @@ No technical skills or software download required.</p>
 | [Scribe](http://vienna.earth) | . | . | :grey_question: |
 | [Simplified](http://simplified.com) | Simplified: An Easy To Use All-In-One App For Modern Marketing Teams. | Design, Write, Edit videos, and Publish Content. Built For Teams. | :grey_question: |
 | [Sitekick](http://www.sitekick.ai) | Ai Landing Page Builder. | . | :grey_question: |
-| [Smart Copy Everywhere](http://unbounce.com) | Unbounce - The Landing Page Builder & Platform. | . | :grey_question: |
 | [Snackable AI](http://snackable.ai) | Snackable. | . | :grey_question: |
 | [Snipd Podcast Summaries](http://www.snipd.com) | Unlock The Knowledge In Podcasts - Snipd. | . | :grey_question: |
 | [Solidpoint](http://www.solidpoint.ai) | Solidpoint. | . | :grey_question: |
@@ -1036,7 +1036,6 @@ No technical skills or software download required.</p>
 | [USP](http://usp.ai) | Maximize Your Blog - Usp.Ai. | Awesome AI generated ROYALTY FREE IMAGES for your stories and blog posts. | :white_check_mark: |
 | [Uizard](http://uizard.io) | Uizard - App, Web, & Ui Design Made Easy - Powered By Ai. | . | :grey_question: |
 | [Ultimate Skill Extractor by Further](http://nlp.appfurther.io) | Further: Automated Skill Suggestion. | . | :grey_question: |
-| [Unbounce](http://unbounce.com) | Unbounce - The Landing Page Builder & Platform. | . | :grey_question: |
 | [Underduck](http://uberduck.ai) | Uberduck - Text-To-Speech, Voice Automation, Synthetic Media. | . | :grey_question: |
 | [Unpromptedgame](http://www.unpromptedgame.com) | . | . | :grey_question: |
 | [Unrealme](http://unrealme.io) | Unreal Me. | . | :grey_question: |
