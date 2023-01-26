@@ -14,10 +14,10 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=823" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=824" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=33" />
+    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=34" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -64,15 +64,15 @@ No technical skills or software download required.</p>
 | 🏯 [Architecture & Interior Design](#architecture--interior-design) | 🌄 [Art & Image Generator](#art--image-generator) | 🎚 [Audio Editing](#audio-editing) |
 | 😎 [Avatars](#avatars) | 🤖💬 [Chat Bot](#chat-bot) | 💻 [Code & Database Assistant](#code--database-assistant) |
 | 📠 [Content Generation & Seo](#content-generation--seo) | 🧰 [Creators Toolkit](#creators-toolkit) | 👨‍💻 [Customer Support](#customer-support) |
-| 📧 [Email Assistant](#email-assistant) | 👩‍🎤 [Fashion](#fashion) | 🤪 [Fun](#fun) |
-| 🎮 [Gaming](#gaming) | 🎁💡 [Gift Ideas](#gift-ideas) | 👩‍⚕️ [Healthcare](#healthcare) |
-| 👩‍💼 [Human Resources & Resume](#human-resources--resume) | 👩‍⚖️ [Legal](#legal) | ⚜️ [Logo Generator](#logo-generator) |
-| 🎼 [Music](#music) | 🧞‍♂️ [Organization & Automation](#organization--automation) | 📸 [Photo & Image Editing](#photo--image-editing) |
-| 🔌 [Plugins & Extensions](#plugins--extensions) | 🗳 [Reviews & Recommendations](#reviews--recommendations) | 💰 [Sales & Marketing](#sales--marketing) |
-| 🔍 [Search Engines](#search-engines) | 🕸 [Slides & Web Design](#slides--web-design) | 📢 [Speech](#speech) |
-| 📝 [Text](#text) | 📝🔉 [Text To Speech](#text-to-speech) | 🇺🇳 [Translation & Transcript](#translation--transcript) |
-| 🎬 [Video](#video) | ✍️ [Writing Assistant](#writing-assistant) |  [Other](#other) |
-
+| 🧠 [Education & Learning](#education--learning) | 📧 [Email Assistant](#email-assistant) | 👩‍🎤 [Fashion](#fashion) |
+| 🤪 [Fun](#fun) | 🎮 [Gaming](#gaming) | 🎁💡 [Gift Ideas](#gift-ideas) |
+| 👩‍⚕️ [Healthcare](#healthcare) | 👩‍💼 [Human Resources & Resume](#human-resources--resume) | 👩‍⚖️ [Legal](#legal) |
+| ⚜️ [Logo Generator](#logo-generator) | 🎼 [Music](#music) | 🧞‍♂️ [Organization & Automation](#organization--automation) |
+| 📸 [Photo & Image Editing](#photo--image-editing) | 🔌 [Plugins & Extensions](#plugins--extensions) | 🗳 [Reviews & Recommendations](#reviews--recommendations) |
+| 💰 [Sales & Marketing](#sales--marketing) | 🔍 [Search Engines](#search-engines) | 🕸 [Slides & Web Design](#slides--web-design) |
+| 📢 [Speech](#speech) | 📝 [Text](#text) | 📝🔉 [Text To Speech](#text-to-speech) |
+| 🇺🇳 [Translation & Transcript](#translation--transcript) | 🎬 [Video](#video) | ✍️ [Writing Assistant](#writing-assistant) |
+|  [Other](#other)
 
 </div>
 
@@ -344,6 +344,16 @@ No technical skills or software download required.</p>
 
 **[⬆ Back to Index](#index)**
 
+### Education & Learning
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [Botta](https://askbotta.com/) | Having Trouble With A Topic? Meet Botta. | Your free, personal teaching assistant. Ask questions, get answers. Botta makes online learning a breeze. | :white_check_mark: |
+| [Lorro](https://lorro.io/) | Become A Fluent English Speaker For A Fraction Of A Cost. By Talking To An Ai Tutor. | . | :x: |
+| [Replicate](http://replicate.com) | Machine Learning Doesn’T Need To Be So Hard. | Run open-source models with a cloud API. | :white_check_mark: |
+| [Speakingclubai](http://speakingclubai.com) | Speaking Club Ai. | Welcome to Speaking Club AI - the ultimate language learning tool for anyone looking to improve their speaking skills in a foreign language. With Speaking Club AI, you can practice    your conversation skills with a personalized AI language partner anytime, anywhere. | :grey_question: |
+
+**[⬆ Back to Index](#index)**
+
 ### Email Assistant
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
@@ -419,6 +429,7 @@ No technical skills or software download required.</p>
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Getactyv](http://getactyv.com) | Getactyv - Ai And Computer Vision Assisted Health And Fitness Platform. | . | :grey_question: |
+| [Replika](http://replika.com) | The Ai Companion Who Cares. | Always here to listen and talk. Always on your side. Join the millions growing with their AI friends now!. | :grey_question: |
 | [Ubie AI Symptom Checker](http://ubiehealth.com) | Check Symptoms & Find Causes By Ai. | Check Symptoms & Find Causes by AI - Answer quiz about your symptoms to find out possible causes, types, severity, and treatment for free by AI. Developed by doctors. | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
@@ -468,7 +479,7 @@ No technical skills or software download required.</p>
 ### Organization & Automation
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [Hexowatch](http://hexowatch.com) | Beyond Availability And Prices, 3Rd Party Websites As A Data Source, Visual Website Monitoring, Competitor Tracking. | Hexowatch is your AI sidekick to monitor any website for visual, content, source code, technology, availability, or price changes. | :x: |
+| [Hexowatch](hexact.pxf.io/beth0) | Beyond Availability And Prices, 3Rd Party Websites As A Data Source, Visual Website Monitoring, Competitor Tracking. | Hexowatch is your AI sidekick to monitor any website for visual, content, source code, technology, availability, or price changes. | :x: |
 | [bardeen](https://www.bardeen.ai/ai) | Ai Meets Automations. | Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity. | :grey_question: |
 | [mem](https://get.mem.ai/) | The Self-Organizing Workspace. | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically. | :white_check_mark: |
 
@@ -540,6 +551,7 @@ No technical skills or software download required.</p>
 ### Search Engines
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [Anypod](http://www.anypod.ai) | Search Engines Built For Creators. | We make your content searchable. | :white_check_mark: |
 | [Lexii.ai](http://lexii.ai/) | Lexii.Ai. | Lexii.ai is an AI search assistant that answers questions and cites sources. | :white_check_mark: |
 | [OpenArt Photo Booth](http://openart.ai) | Discover And Generate Ai Art - Openart. | Search 10M+ prompts, and generate AI Art via Stable Diffusion, DALL·E 2. | :white_check_mark: |
 | [Perplexity AI](http://www.perplexity.ai) | Perplexity Ai. | . | :white_check_mark: |
@@ -555,6 +567,7 @@ No technical skills or software download required.</p>
 | [ChatBA](https://www.chatba.com/) | Chatbcg: Generative Ai For Slides. | Instantly create slide decks using ChatBCG. | :grey_question: |
 | [Magician](http://magician.design) | Magician For Figma. | A magical design tool for Figma powered by AI. | :grey_question: |
 | [Piggy](https://piggy.to/magic) | Mobile Content Creator. | Creating stunning content on your phone just got easy. | :white_check_mark: |
+| [SlidesAI](https://www.slidesai.io/) | Create Presentation Slides With Ai In Seconds. | Say goodbye to tedious, manual slides creation. Let the AI write the outline and presentation content for you. With our tool, you can easily create professional, engaging slides from any text in no time. | :white_check_mark: |
 | [Tome](http://beta.tome.app) | Generative Storytelling Has Arrived. | Unlock your best work with Tome's AI-powered storytelling format. | :white_check_mark: |
 
 **[⬆ Back to Index](#index)**
@@ -606,7 +619,6 @@ No technical skills or software download required.</p>
 | [Scholarcy](http://www.scholarcy.com) | Online Summarizing Tool - Flashcard Generator & Summarizer - Scholarcy. | Scholarcy™ is an online summarizing tool that generates and converts long articles into summary flashcards. Sign up free & start summarizing. | :white_check_mark: |
 | [Sheet AI](http://www.sheetai.app) | Sheetai App - Unlock Ai Power In Your Google Sheets. | SheetAI is a Google Sheets add-on that helps you unlock the power of AI in your spreadsheets. | :grey_question: |
 | [SheetGod](http://www.boloforms.com) | Form Approval Workflow Software - Google Forms Add On. | . | :grey_question: |
-| [Speakingclubai](http://speakingclubai.com) | Speaking Club Ai. | Welcome to Speaking Club AI - the ultimate language learning tool for anyone looking to    improve their speaking skills in a foreign language. With Speaking Club AI, you can practice    your conversation skills with a personalized AI language partner anytime, anywhere. | :grey_question: |
 | [Spellbox](http://spellbox.app) | Spellbox - Ai Programming Assistant. | SpellBox uses artificial intelligence to create the code you need from simple prompts. Solve your toughest programming problems with AI in seconds!. | :grey_question: |
 | [Splitjoin](http://www.splitjoin.com) | Splitjoin. | AI assistant to help you write commit messages faster. | :grey_question: |
 | [Startup Pitch Generator](http://tally.so?ref=beth0) | The Simplest Way To Create Forms. | Create forms for all purposes in seconds.Without knowing how to code. | :white_check_mark: |
@@ -738,7 +750,6 @@ No technical skills or software download required.</p>
 | [Amper AI](http://www.ampermusic.com) | Ai Music Composition Tools For Content Creators. | Amper is an AI music composition company that develops tools for content creators of all kinds. Learn about our new enterprise platform, Score, as well as our creator API. | :grey_question: |
 | [Andisearch](http://andisearch.com) | Andi - Search For The Next Generation. | . | :grey_question: |
 | [Ansy](http://ansy.ai) | Ansy.Ai - Gpt-3 For Your Discord Server. | GPT-3 powered Discord bot that answers questions from your Discord community members based on chat history. | :grey_question: |
-| [Anypod](http://www.anypod.ai) | Search Engines Built For Creators. | We make your content searchable. | :grey_question: |
 | [Artflow](http://artflow.ai) | Artflow. | . | :grey_question: |
 | [Artistator](http://artistator.com) | Generate Artist Names Of Your Favourite Music Genres. | . | :white_check_mark: |
 | [Artroom](http://artroom.ai) | Artroom Ai. | . | :grey_question: |
@@ -841,7 +852,6 @@ No technical skills or software download required.</p>
 | [Hubble](http://www.hubble.team) | Hubble - Product Feedback And Insights From Users. | Create world class products by gathering high quality feedback from users on prototypes, betas and live features. | :grey_question: |
 | [ICONS8](http://icons8.com) | Icons, Illustrations, Photos, Music And Design Tools. | Change faces of stock photos, Smart Upscaler, Update your website right from Lunacy and more. | :white_check_mark: |
 | [Ideasai](http://ideasai.com) | Startup Ideas Powered By Openai. | . | :grey_question: |
-| [Img2prompt](http://replicate.com) | Replicate – Run Open-Source Machine Learning Models With A Cloud Api. | . | :grey_question: |
 | [Inferkit](http://app.inferkit.com) | Inferkit. | . | :grey_question: |
 | [Infinite Drum Machine](http://experiments.withgoogle.com) | Experiments With Google. | . | :grey_question: |
 | [Interior Computer](http://image.computer) | Image Computer. | . | :grey_question: |
@@ -956,7 +966,6 @@ No technical skills or software download required.</p>
 | [Redacta.me](http://www.redacta.me) | Redacta.Me - Tu Community Manager Virtual. | . | :grey_question: |
 | [Reface](http://hey.reface.ai) | Reface. Be Anyone. | Create realistic face swap videos, GIFs and memes with just one selfie. | :grey_question: |
 | [Replica](http://replicastudios.com) | Synthesize Voice Ai And Natural Sounding Text-To-Speech — Replica. | Try today with 30 minutes of free voice credit. | :white_check_mark: |
-| [Replika](http://replika.com) | Replika. | Always here to listen and talk. Always on your side. Join the millions growing with their AI friends now!. | :grey_question: |
 | [RestorePhotos.io](https://www.restorephotos.io/) | Restoring Old Photos Using Ai For Everyone. | Have old and blurry face photos? Let our AI restore them so those memories can live on. 100% free – restore your photos today. | :white_check_mark: |
 | [ResumAI](http://www.wonsulting.com) | Wonsulting -  We Find Dream Jobs. | Weâve helped over 100,000 people land their dream jobs. Let our job search strategies take you from resumes to better days. | :grey_question: |
 | [Resume Studio](http://resumestudio.careers) | . | . | :grey_question: |
@@ -1015,7 +1024,6 @@ No technical skills or software download required.</p>
 | [Teacherbot](http://teacherbot.io) | Teacherbot - The Tool Every Teacher Deserves. | We have developed the most powerful tool a teacher can have access to. You can create tasks and activities for all levels as well as topic plans, forward plans, lesson plans and much more. You are limited only by your imagination. | :grey_question: |
 | [Text Assistant](http://goodsnooze.gumroad.com) | Jordi Bruin. | . | :grey_question: |
 | [Text to Image Editor](http://imgeditor.zmo.ai) | Create Any Image Using Text - Imgcreator.Ai. | . | :grey_question: |
-| [Text-to-pokemon](http://replicate.com) | Replicate – Run Open-Source Machine Learning Models With A Cloud Api. | . | :grey_question: |
 | [Text2SQL](http://www.text2sql.ai/) | Text2Sql.Ai - Generate Sql Queries With Ai For Free!. | . | :white_check_mark: |
 | [TextSynth](http://textsynth.com) | Textsynth. | . | :grey_question: |
 | [Textunbox](http://textunbox.app) | Textunbox.App. | TextUnbox - harness the power of AI!. | :grey_question: |
@@ -1087,7 +1095,6 @@ No technical skills or software download required.</p>
 | [bigmp4](http://bigmp4.com) | Ai Video Enhancement, Using 2022 Cutting Edged Ai Model To Lossless Enlarge Video, Enhance Video. | . | :grey_question: |
 | [codium](http://www.codium.ai/) | Codium Â¢ Code Fast. Break Fewer Things. | . | :grey_question: |
 | [deck.rocks](https://www.deck.rocks/) | Deck.Rocks: Generate Pitch Decks Using Gpt-3. | . | :grey_question: |
-| [img2prompt](http://replicate.com) | Replicate – Run Open-Source Machine Learning Models With A Cloud Api. | . | :grey_question: |
 | [micro Dalle-2](http://micropay.ai) | Dalle-2 Image Generator - Micropay. | Anonymous and pay-as-you-go generative AI software. | :grey_question: |
 
 **[⬆ Back to Index](#index)**
