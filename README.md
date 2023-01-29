@@ -14,7 +14,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=807" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=808" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=34" />
@@ -345,6 +345,7 @@ No technical skills or software download required.</p>
 | [DraftLab](http://draftlab.ai) | Draftlab Ai: Write Better Emails Faster With Ai. | Fight writer's block and achieve inbox zero. DraftLab is an AI-powered Gmail copilot that generates high-quality email replies for you. | :grey_question: |
 | [Ellie](http://ellieai.com) | Ellie - Your Ai Email Assistant. | Ellie learns from your writing style and crafts replies as if they were written by you. | :grey_question: |
 | [EmailTriager](http://emailtriager.com) | Emailtriager · Email On Autopilot. | At EmailTriager, we build products that do work on your behalf. | :grey_question: |
+| [Intellimail](https://www.intellimail.xyz/) | Your Personal Email Assistant. | IntelliMail is a chrome extension that generates your emails - so you'll never have to write one again. | :white_check_mark: |
 | [Quicklines](http://www.quicklines.ai) | Quicklines Lifetime Access - Only $59. | Quicklines is your new AI powered cold outreach assistant. We help you scale your cold email campaigns with our in-depth social scraping and natural language first-line writing platform. | :x: |
 | [Rapidreply](http://rapidreply.ai) | Rapid Reply - Ai Email Assistant. | Save 30 minutes a day writing emails. | :grey_question: |
 | [Recruiting Emails AI by Dover](http://recruitingemails.ai) | Dover - Generate Customized Recruiting Emails. | . | :grey_question: |
