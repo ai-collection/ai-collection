@@ -14,7 +14,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=806" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=807" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=34" />
@@ -454,7 +454,7 @@ No technical skills or software download required.</p>
 ### Organization & Automation
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [Hexowatch](hexact.pxf.io/beth0) | Beyond Availability And Prices, 3Rd Party Websites As A Data Source, Visual Website Monitoring, Competitor Tracking. | Hexowatch is your AI sidekick to monitor any website for visual, content, source code, technology, availability, or price changes. | :x: |
+| [Hexowatch](http://hexact.pxf.io/beth0) | Beyond Availability And Prices, 3Rd Party Websites As A Data Source, Visual Website Monitoring, Competitor Tracking. | Hexowatch is your AI sidekick to monitor any website for visual, content, source code, technology, availability, or price changes. | :x: |
 | [bardeen](https://www.bardeen.ai/ai) | Ai Meets Automations. | Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity. | :grey_question: |
 | [mem](https://get.mem.ai/) | The Self-Organizing Workspace. | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically. | :white_check_mark: |
 
@@ -477,13 +477,13 @@ No technical skills or software download required.</p>
 | [Prisma](https://prisma-ai.com/prisma) | Prisma Captures The Essence Of Your Photos Transforming Them Into Vivid Color Paintings. | . | :white_check_mark: |
 | [Prisma](https://prisma-ai.com/lensa) | Lensa Is An All-In-One Image Editing App That Takes Your Photos To The Next Level. | . | :white_check_mark: |
 | [Remover.app](http://remover.zmo.ai) | Removeanythingunwanted In Seconds, For Free. | . | :white_check_mark: |
+| [Roast](https://roast.dating) | Dating App Profile Ai Analysis - Photoshoot Ai Generator. | ROAST helps people 10x their matches on dating apps like Tinder, Bumble, and Hinge. Powered by AI, it provides offers data-driven dating insights and expert advice to increase the quantity and quality of their matches. | :grey_question: |
 | [SceneryAI](http://sceneryai.com) | Sceneryai. | Generate or update existing images with our AI image editing tool. | :grey_question: |
 | [Stillgram](http://stillgram.io) | Stillgram™ - A.I. Travel Photo Camera App For Iphone®. | Stillgram is an A.I. point & shoot camera app that magically removes background crowds from your urban/travel photos. | :white_check_mark: |
 | [Topaz Photo AI](http://www.topazlabs.com) | Topaz Labs: Ai Image Quality Software. | Photo and video enhancement software powered by deep learning gets you the best image quality available for noise reduction, sharpening, upscaling, and more. | :grey_question: |
 | [Unfake](http://unfakepng.com) | Ai Tool That Can Turn Annoying Fake.Png Into True, Unfake.Png. | Don&apos;t you hate it when you find that perfect, supposedly background-less Image, and download it, but when you go to use it, the dreaded checkerboard appears?. | :white_check_mark: |
 | [jpgRM](http://jpgrm.com) | Jpgrm - Ai Image Magic Cleanup. | Using 2022 cutting edged AI model to remove any unwanted objects from your images, automatically fill the background. | :grey_question: |
 | [jpghd](http://jpghd.com) | Jpghd - Lossless Restoration Of Old Photos With Ai. | Using 2022 cutting-edge AI models for lossless restoration of old photos (supports old, scratched photo restoration, colorization, and Magic Photo). | :grey_question: |
-| [Roast](https://roast.dating) | Dating profile AI analysis - Photoshoot AI generator| ROAST helps people 10x their matches on dating apps like Tinder, Bumble, and Hinge. Powered by AI, it provides offers data-driven dating insights and expert advice to increase the quantity and quality of their matches. | :white_check_mark: |
 
 
 ### Plugins & Extensions
@@ -914,7 +914,6 @@ No technical skills or software download required.</p>
 | [RTutor](http://rtutor.ai) | Rtutor. | . | :grey_question: |
 | [Raplyrics](http://raplyrics.eu) | Raplyrics – Generate Your Rap Music Punchlines. | Write a few words in the prompt below and generate a unique rap music punchline using Artificial Intelligence !. | :grey_question: |
 | [Rationale](http://rationale.jina.ai) | Rationale - A Revolutionary Decision-Making Tool Powered By The Latest Gpt And In-Context Learning. | . | :grey_question: |
-| [Raw Query](http://rawquery.com) | Raw Query. | . | :grey_question: |
 | [Rayst Gradients](http://gradients.ray.st) | Rayst Gradients. | A Collection of 64 Beautiful Gradients Generated by AI. | :grey_question: |
 | [ReContent.AI](http://recontent.ai/) | Recontent.Ai. | . | :grey_question: |
 | [Recommendme](http://www.recommendme.to) | Recommendme. | . | :grey_question: |
