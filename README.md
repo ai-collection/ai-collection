@@ -206,6 +206,7 @@ No technical skills or software download required.</p>
 ### Avatars
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [AI Profile Pictures](http://www.aiprofilepictures.com) | Ai Profile Pictures. | Now available in beta. | :grey_question: |
 | [AIVatar](http://aivatarapp.com) | Aivatar - Magic Avatar Generator. | Generate magic avatar art from your photos. | :grey_question: |
 | [AIprofilepic](http://aiprofilepic.art) | Create Stunning Profile Pictures Using Ai - Aiprofilepic.Art. | Create your perfect avatars in just a few clicks with our easy-to-use AI technology. | :grey_question: |
 | [ARTI.PICS](http://www.arti.pics) | Ai-Powered Avatar Maker. | Arti.Pics allows you to upload a few photos of yourself and generates more than 200 cool-looking avatars in different styles. | :x: |
@@ -229,7 +230,7 @@ No technical skills or software download required.</p>
 | [Pictureperfect](http://pictureperfect.ai) | Ai Avatar Generator And Maker - Pictureperfect.Ai. | Get creative and design your own personalized avatar with the help of AI technology. Simply upload a photo and our system will generate a unique avatar that represents you. Share your picture perfect avatar with friends and family on social media and let your creativity shine!. | :grey_question: |
 | [Posed](http://posed.ai) | Posed. | Upload your pictures and let our AI create stunning high-quality portraits in a wide range of styles that look just like you. | :grey_question: |
 | [Profile Picture](http://profilepicture.me) | Profile Picture Art. | . | :grey_question: |
-| [ProfilePicture.ai](http://www.profilepicture.ai) | Create Your Perfect Profile Picture With Ai. - Pfp.Ai. | Your profile picture is the first thing people see when they look at your profile. We use artificial intelligence to generate an image of you that looks perfect and captures who you are. You can be anything, anywhere, or anyone!. | :grey_question: |
+| [ProfilePicture.ai](http://www.profilepicture.ai) | Create Your Perfect Profile Picture With Ai. | The #1 AI Profile Picture Maker and Generator Your profile picture is the first thing people see when they look at your profile. We use artificial intelligence to generate an magical avatars of you that looks perfect and captures who you are. You can be anything or anyone!. | :x: |
 | [ReflectMe](http://reflectme.art) | Reflectme. - Generate Your Ai Avatars!. | See yourself in a way you never have before! Generate your AI avatars, AI photos, AI photographies, profile pictures, LinkedIn professional profile photos, using artificial intelligence! Built on Stable Diffusion and Dreambooth. | :grey_question: |
 | [Stableboost](http://stableboost.ai) | Create Personalized Images With Ai!. | Upload a few photos of yourself, a loved one, a pet, a product, or a style you like, and we will automatically train an AI model to generate portraits of you in hundreds of different styles. | :x: |
 | [Theoasis](http://theoasis.com) | Oasis Â Never Worry How You Look On Camera Again. | Create a photorealistic avatar that you can use on every video platform. | :grey_question: |
@@ -710,7 +711,6 @@ No technical skills or software download required.</p>
 | [AI Lyrics Generator](http://theselyricsdonotexist.com) | Artificial Intelligence Songwriter – These Lyrics Do Not Exist. | Generate your own song lyrics for any topic, also choose lyrics genre and lyrics mood. | :grey_question: |
 | [AI Paraphrasing Tool](http://contentbot.ai) | Contentbot - Ai Writer - Ai Content For Founders And Content Marketers. | . | :grey_question: |
 | [AI Pickup Lines Generator](http://www.aipickuplines.com) | Ai Pickup Lines. | . | :grey_question: |
-| [AI Profile Pictures](http://www.aiprofilepictures.com) | Ai Profile Pictures. | Now available in beta. | :grey_question: |
 | [AI Project Description Generator](http://www.welovenocode.com) | . | . | :grey_question: |
 | [AI Prompt Generator](http://fictionio.gumroad.com) | Fiction. | . | :grey_question: |
 | [AI Query](http://www.aiquery.co) | Ai Query - Generate Sql Queries With Ai In Seconds. | Use simple English and let AI do the heavy lifting for you. With AI Query anyone can create efficient SQL queries, without even knowing a thing about it. | :grey_question: |
