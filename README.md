@@ -14,10 +14,10 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=808" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=812" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=34" />
+    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=35" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -59,28 +59,38 @@ No technical skills or software download required.</p>
 
 | | | |
 |:---|:---|:---|
-| 🏯 [Architecture & Interior Design](#architecture--interior-design) | 🌄 [Art & Image Generator](#art--image-generator) | 🎚 [Audio Editing](#audio-editing) |
-| 😎 [Avatars](#avatars) | 🤖💬 [Chat Bot](#chat-bot) | 💻 [Code & Database Assistant](#code--database-assistant) |
-| 📠 [Content Generation & Seo](#content-generation--seo) | 🧰 [Creators Toolkit](#creators-toolkit) | 👨‍💻 [Customer Support](#customer-support) |
-| 🧠 [Education & Learning](#education--learning) | 📧 [Email Assistant](#email-assistant) | 👩‍🎤 [Fashion](#fashion) |
-| 🤪 [Fun](#fun) | 🎮 [Gaming](#gaming) | 🎁💡 [Gift Ideas](#gift-ideas) |
-| 👩‍⚕️ [Healthcare](#healthcare) | 👩‍💼 [Human Resources & Resume](#human-resources--resume) | 👩‍⚖️ [Legal](#legal) |
-| ⚜️ [Logo Generator](#logo-generator) | 🎼 [Music](#music) | 🧞‍♂️ [Organization & Automation](#organization--automation) |
-| 📸 [Photo & Image Editing](#photo--image-editing) | 🔌 [Plugins & Extensions](#plugins--extensions) | 🗳 [Reviews & Recommendations](#reviews--recommendations) |
-| 💰 [Sales & Marketing](#sales--marketing) | 🔍 [Search Engines](#search-engines) | 🕸 [Slides & Web Design](#slides--web-design) |
-| 📢 [Speech](#speech) | 📝 [Text](#text) | 📝🔉 [Text To Speech](#text-to-speech) |
-| 🇺🇳 [Translation & Transcript](#translation--transcript) | 🎬 [Video](#video) | ✍️ [Writing Assistant](#writing-assistant) |
-|  [Other](#other)
+| 🎲 [Animation & 3D Modeling](#animation--3d-modeling) | 🏯 [Architecture & Interior Design](#architecture--interior-design) | 🌄 [Art & Image Generator](#art--image-generator) |
+| 🎚 [Audio Editing](#audio-editing) | 😎 [Avatars](#avatars) | 🤖💬 [Chat Bot](#chat-bot) |
+| 💻 [Code & Database Assistant](#code--database-assistant) | 📠 [Content Generation & Seo](#content-generation--seo) | 🧰 [Creators Toolkit](#creators-toolkit) |
+| 👨‍💻 [Customer Support](#customer-support) | 🧠 [Education & Learning](#education--learning) | 📧 [Email Assistant](#email-assistant) |
+| 👩‍🎤 [Fashion](#fashion) | 🤪 [Fun](#fun) | 🎮 [Gaming](#gaming) |
+| 🎁💡 [Gift Ideas](#gift-ideas) | 👩‍⚕️ [Healthcare](#healthcare) | 👩‍💼 [Human Resources & Resume](#human-resources--resume) |
+| 👩‍⚖️ [Legal](#legal) | ⚜️ [Logo Generator](#logo-generator) | 🎼 [Music](#music) |
+| 🧞‍♂️ [Organization & Automation](#organization--automation) | 📸 [Photo & Image Editing](#photo--image-editing) | 🔌 [Plugins & Extensions](#plugins--extensions) |
+| 🗳 [Reviews & Recommendations](#reviews--recommendations) | 💰 [Sales & Marketing](#sales--marketing) | 🔍 [Search Engines](#search-engines) |
+| 🕸 [Slides & Web Design](#slides--web-design) | 📢 [Speech](#speech) | 📝 [Text](#text) |
+| 📝🔉 [Text To Speech](#text-to-speech) | 🇺🇳 [Translation & Transcript](#translation--transcript) | 🎬 [Video](#video) |
+| ✍️ [Writing Assistant](#writing-assistant) |  [Other](#other)
 
 </div>
 
 ---
+
+### Animation & 3D Modeling
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [Kaedim](http://www.kaedim3d.com) | Kaedim - Image To 3D Model Ai. | . | :grey_question: |
+| [TextureLab](http://www.texturelab.xyz) | Instant And Unique 3D Textures For Your Next Game. | Generate 3D textures for your game in seconds thanks to AI. | :grey_question: |
+| [lumalabs](https://captures.lumalabs.ai/imagine) | Imagine 3D V1.2 (Alpha). | An early experiment to prototype and create 3D with text Access to generation is gradually expanding to everyone on the waitlist. | :white_check_mark: |
+| [plask](https://plask.ai/) | Ai-Powered Mocap Animation Tool. | Easily extract motion from video without expensive bodysuits or motions work. | :white_check_mark: |
+
 
 ### Architecture & Interior Design
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Room Planner](http://airoomplanner.com) | Interior Design By Ai. | Get hundreds of interior design ideas for your room - free with no limit. | :grey_question: |
 | [Dimensions](http://www.dimensions.ink) | Dimensions - Rapidly Create Visual Concepts With Ai. | Imagine being able to create beautiful interior designs with ease – that&apos;s what Dimensions offers. | :white_check_mark: |
+| [Getfloorplan](http://getfloorplan.com) | Creating 2D And 3D Floor Plans With Ai. | Up to 30% calls increase reported by our clients using 2D, 3D floor plans and virtual tours. | :grey_question: |
 | [Image Computer](http://image.computer) | Generate Your Next Interior Design / Paniting / Fashion Collection / Concept Art. | Use our powerful AI technology to generate any type of image you can think of. In a matter of seconds. | :x: |
 | [Interior AI](http://interiorai.com) | Interior Ai: Interior Design Ideas Inspiration, And Virtual Staging App Using Artifical Intelligence. | Get interior design ideas using Artificial Intelligence and virtually stage interiors for real estate listings with different interior styles. | :white_check_mark: |
 | [Makeit.ai](http://www.maket.ai) | Generative Design - Architecture Design Software - Maket. | Our generative design software enables architects, builders & developers to quickly generate thousands of architectural plans instantly. | :grey_question: |
@@ -371,6 +381,8 @@ No technical skills or software download required.</p>
 | [Botify](http://botif.ai) | Botify Ai. | Fun chat with your favorite characters. | :grey_question: |
 | [CharacterAI](http://beta.character.ai) | Character.Ai Lets You Create Characters And Talk To Them. | Characters can be anything. Our breakthrough AI technology can bring all of your ideas to life. | :white_check_mark: |
 | [Excuses AI](http://excuses.ai) | Excuse Generator. | Use AI to generate the perfect professional excuse. | :grey_question: |
+| [Jokelub](http://jokelub.com) | Jokelub. | Bring humor everywhere. | :grey_question: |
+| [Kanye Tweet Generator](http://www.kanyegenerator.com) | Kanye Tweet Generation. | Generate Kanye Tweets using AI. Built by Ryan Doyle. | :grey_question: |
 | [Silly Times](http://www.elbo.ai) | A Simple Drawing App Using Ai. | Have a fun time drawing and see what silly thing we make from your drawing.  Magic is just button press away!. | :white_check_mark: |
 | [StoriesForKids](http://www.storiesforkids.ai) | Storiesforkids.Ai: Personalized Kid'S Books Using Ai. | Turn real-life situations into fun stories & illustrations in seconds. | :grey_question: |
 | [TextStyler](http://www.textstyler.org) | Re-Write Anything In Fun Styles, Using Ai. | . | :grey_question: |
@@ -385,7 +397,6 @@ No technical skills or software download required.</p>
 | [IRMO](http://www.irmoai.com) | Made For Creation. The Very Best In Ai Apps. | Your Source for Mobile Entertainment & AI Art Creation. | :white_check_mark: |
 | [Plailabs](https://plailabs.com/) | Play With Ai. | (verb) – To engage in artificial intelligence for the purpose of enjoyment and recreation with the goal of growing an ever-expanding universe of gaming, entertainment, storytelling, and technology. | :grey_question: |
 | [Scenario](http://www.scenario.gg) | Scenario. | Unlock the power of AI-generated gaming assets with Scenario. Generate engaging content quickly and easily to save time and spark creativity. | :grey_question: |
-| [TextureLab](http://www.texturelab.xyz) | Instant And Unique 3D Textures For Your Next Game. | Generate 3D textures for your game in seconds thanks to AI. | :grey_question: |
 | [charisma](https://charisma.ai/) | Power Real-Time Digital Humans. | For Games • Metaverses • VR • Education • TV & Film • Publishing and beyond!. | :grey_question: |
 | [hidden door](https://www.hiddendoor.co/) | Hello, Worlds!. | A new kind of social roleplaying experience, powered by narrative AI. | :grey_question: |
 | [latitude](https://latitude.io/) | The Future Of Ai-Generated Games. | We&apos;re making AI a tool of creativity and freedom for everyone. | :grey_question: |
@@ -418,6 +429,10 @@ No technical skills or software download required.</p>
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Cover Letter AI](https://coverletterai.app/) | Cover Letter Ai. | . | :white_check_mark: |
+| [Hire Hoc](http://hirehoc.com) | Hire Hoc - The Ai Powered Hiring Tool. | Transform Your Organization with the Power of AI-Assisted Recruiting. | :grey_question: |
+| [HireYaY](http://hireyay.com) | Hireyay, A Hiring Platform For Startups. | 92% of job seekers do not finish their online application. With HireYaY, you will never miss a qualified candidate again. | :grey_question: |
+| [Hirex.ai](http://www.hirex.ai) | Hirex.Ai. | Welcome to hirex.ai, a no-code AI platform to build voice-based bots that conduct and score interviews at scale. Get the complete suite of assessments tools like coding interviews, MCQ tests, hackathons, video interviews, and WhatsApp chatbots all under single dashboard. | :grey_question: |
+| [JD Generator](http://hirequotient.com) | Meet The Team - Hirequotient. | HireQuotient&apos;s Skill Assessment Platform helps you hire the top 10% of the talent pool in half the time. | :grey_question: |
 | [LazyApply](http://lazyapply.com) | Automate Your Job Application Process. | We automatically apply to all the jobs on platforms like Linkedin, Indeed and Ziprecruiter. | :x: |
 | [Resume Worded](http://resumeworded.com) | Improve Your Resume And Linkedin Profile. | Designed by top recruiters, our AI-powered platform instantly gives you tailored feedback on your resume and LinkedIn profile. Land 5x more interviews, opportunities and job offers. | :white_check_mark: |
 | [rankode](http://www.rankode.ai) | Ai For Human Resources - Rankode. | Recruiters, everything you need to know about a candidate's programming skills is in their GitHub. Evaluate them automatically with Rankode to avoid expensive hiring mistakes and superboost your retention. | :grey_question: |
@@ -518,6 +533,7 @@ No technical skills or software download required.</p>
 | [MarketingBlocks AI](http://marketingblocks.ai) | Marketingblocks Ai. | Human-like all-in-one AI marketing assistant that creates landing pages, promo videos, ads, marketing copy, graphics, emails, voiceovers, blog posts, art & more. | :grey_question: |
 | [Octie.ai](http://octie.ai) | Octie.Ai - Your A.I. Ecommerce Marketing Assistant. | Write emails, product descriptions, and more, with A.I. Created by Octane AI. | :grey_question: |
 | [SaleWhale](http://salewhale.chat) | Sale Whale - Ai-Powered Sales Rep Chatbot. | We provide impossibly good Sales Rep and Customer Support Chatbots, using the world's best available AI models. Learn how it will improve your business. | :grey_question: |
+| [Speaq.ai](https://www.speaq.ai/) | Ready Made Conversional Ai For Your Business. | Our mission is to revolutionize B2B marketing and customer support with artificial intelligence. Effortlessly schedule meetings and verify attendance with AI. Streamline your survey process with AI conversational calls. | :grey_question: |
 | [unbounce](http://unbounce.com) | Smart Marketing Tools To Grow Your Business. | Turn more of your visitors into customers. Unbounce is the AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes. | :x: |
 
 
@@ -619,6 +635,12 @@ No technical skills or software download required.</p>
 | [Wellsaid](http://wellsaidlabs.com) | Convert Text To Voice In Real Time. | With WellSaid, you and your team can create a compelling realistic AI voice over for all your digital content. | :white_check_mark: |
 
 
+### Text To Speech
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [Eleven](https://beta.elevenlabs.io/) | Prime Voice Ai. | The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling. | :white_check_mark: |
+
+
 ### Translation & Transcript
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
@@ -671,6 +693,7 @@ No technical skills or software download required.</p>
 | [Paraphraser AI](http://app.yaara.ai) | Yaara — Ai-Powered Writing Assistant. | . | :grey_question: |
 | [Rytr](http://rytr.me) | Rytr - Best Ai Writer, Content Generator & Writing Assistant. | . | :grey_question: |
 | [SmartScribe](http://www.smartscribe.app) | Smartscribe - Ai Writing Assistant - Writing Made Easy. | SmartScribe helps solve the complexities of writing through the use of Artificial Intelligence. | :grey_question: |
+| [Typly](http://typly.app) | Typly - Conversation Level Next!. | Typly is the ultimate cutting edge AI keyboard that helps you to answer all your messages with a single click!🚀. | :grey_question: |
 | [WebCopilot](http://www.webcopilot.co) | Webcopilot.Co ~ Notion Ai Writing Assistant. | Write your Notion pages with AI. Speed up your writing process and focus on what matters. Free Forever. | :white_check_mark: |
 | [Wordtune](http://www.wordtune.com) | Wordtune - Your Personal Writing Assistant & Editor. | . | :grey_question: |
 | [Writefull Academizer](http://x.writefull.com) | Writefull X: Ai Applied To Academic Writing. | . | :grey_question: |
@@ -793,7 +816,6 @@ No technical skills or software download required.</p>
 | [GGPredict](http://ggpredict.io) | Ggpredict.Io. | . | :grey_question: |
 | [GPTKey](http://gptkey.com) | Gptkey – Write With Ai Using The Gpt Keyboard. | Write with AI in any app using the GPT custom keyboard extension. | :grey_question: |
 | [Genius Sheets](http://www.geniussheets.com) | Genius Sheets Financial Automation. | Genius Sheets AI Text To Reports solutions help you analyze financial data faster - empowering teams to make better decisions. Stay in Excel and Google Sheets and automate your financial reporting process with live data connections. | :grey_question: |
-| [Getfloorplan](http://getfloorplan.com) | Creating 2D And 3D Floor Plans With Ai. | Up to 30% calls increase reported by our clients using 2D, 3D floor plans and virtual tours. | :grey_question: |
 | [Gifts Genie](http://gen.gifts) | Genie - Ai Gifts Generator. | . | :grey_question: |
 | [Glasp](http://glasp.co) | Glasp: Social Web Highlighter. | Highlight & add notes as you read.Create a library of your learning â¤ï¸. | :grey_question: |
 | [GooseAI](http://goose.ai) | Gooseai. | . | :grey_question: |
@@ -802,9 +824,6 @@ No technical skills or software download required.</p>
 | [Handywriter](http://handyplugins.co) | Handyplugins — Well-Crafted Wordpress Plugins. | . | :grey_question: |
 | [Headline-ai](http://headline-ai.com) | Headline Ai. | . | :grey_question: |
 | [HelloScribe](http://www.helloscribe.ai) | Helloscribe: Bring Your Best Ideas To Life. | . | :grey_question: |
-| [Hire Hoc](http://hirehoc.com) | Hire Hoc - The Ai Powered Hiring Tool. | Transform Your Organization with the Power of AI-Assisted Recruiting. | :grey_question: |
-| [HireYaY](http://hireyay.com) | Hireyay, A Hiring Platform For Startups. | 92% of job seekers do not finish their online application. With HireYaY, you will never miss a qualified candidate again. | :grey_question: |
-| [Hirex.ai](http://www.hirex.ai) | Hirex.Ai. | Welcome to hirex.ai, a no-code AI platform to build voice-based bots that conduct and score interviews at scale. Get the complete suite of assessments tools like coding interviews, MCQ tests, hackathons, video interviews, and WhatsApp chatbots all under single dashboard. | :grey_question: |
 | [HookShot](http://hookshot.ironwill.ai) | Hookshot Speed Reading Game. | . | :grey_question: |
 | [HotConvo](http://hotconvo.art) | Hotconvo. | . | :grey_question: |
 | [Hour One](http://hourone.ai) | Make Ai Videos To Train Anyone Or Explain Anything - Hour One. | . | :grey_question: |
@@ -814,14 +833,10 @@ No technical skills or software download required.</p>
 | [Inferkit](http://app.inferkit.com) | Inferkit. | . | :grey_question: |
 | [Infinite Drum Machine](http://experiments.withgoogle.com) | Experiments With Google. | . | :grey_question: |
 | [Inworld](http://www.inworld.ai) | Inworld Ai – Create Ai Characters And Ask Them Anything. | Create AI characters and NPCs for games, metaverse, and business applications – or just for fun. You can talk to AI characters about anything. It&apos;s easy, free, and full of possibilities. | :white_check_mark: |
-| [JD Generator](http://hirequotient.com) | Meet The Team - Hirequotient. | HireQuotient&apos;s Skill Assessment Platform helps you hire the top 10% of the talent pool in half the time. | :grey_question: |
 | [Jamie](http://www.meetjamie.ai) | Jamie - Ai Assistant For Meeting Summaries. | jamie is an AI assistant that creates summaries of meetings in business-writing quality within seconds. Try now and convince yourself of the magic experience. | :grey_question: |
 | [Jenni](http://jenni.ai) | Supercharge Your Writing With Jenni Ai. | . | :grey_question: |
 | [Jinnee](http://jinnee.co) | . | . | :grey_question: |
-| [Jokelub](http://jokelub.com) | Jokelub. | Bring humor everywhere. | :grey_question: |
 | [KUBIYA](http://kubiya.ai/) | . | . | :grey_question: |
-| [Kaedim](http://www.kaedim3d.com) | Kaedim - Image To 3D Model Ai. | . | :grey_question: |
-| [Kanye Tweet Generator](http://www.kanyegenerator.com) | Kanye Tweet Generation. | Generate Kanye Tweets using AI. Built by Ryan Doyle. | :grey_question: |
 | [Kinestex](http://www.kinestex.com) | Kinestex - Ai Coach In Your Phone. | . | :grey_question: |
 | [Kive](http://www.kive.ai) | Kive - Ai Canvas. | all your inspiration in one place. | :grey_question: |
 | [Kore.ai](http://kore.ai) | Ai-First Experience Optimization Platform For Enterprises. | Kore.ai automates front-office and back-office interactions for every industry by deploying conversational AI-first virtual assistants and process assistants. | :grey_question: |
@@ -1000,7 +1015,6 @@ No technical skills or software download required.</p>
 | [Twelve Labs](http://twelvelabs.io) | Twelve Labs. | . | :grey_question: |
 | [TypeDroid](http://typedroid.com) | Typedroid - Free Ai Text Generator. | . | :white_check_mark: |
 | [Typestudio](http://www.typestudio.co) | Type Studio Â Edit Your Video By Editing Text. | Type Studio is a fast, simple, and joyful way to edit and growyour podcasts, streams, and interviews. | :grey_question: |
-| [Typly](http://typly.app) | Typly - Conversation Level Next!. | Typly is the ultimate cutting edge AI keyboard that helps you to answer all your messages with a single click!🚀. | :grey_question: |
 | [USP](http://usp.ai) | Maximize Your Blog - Usp.Ai. | Awesome AI generated ROYALTY FREE IMAGES for your stories and blog posts. | :white_check_mark: |
 | [Uizard](http://uizard.io) | Uizard - App, Web, & Ui Design Made Easy - Powered By Ai. | . | :grey_question: |
 | [Ultimate Skill Extractor by Further](http://nlp.appfurther.io) | Further: Automated Skill Suggestion. | . | :grey_question: |
