@@ -79,7 +79,7 @@ No technical skills or software download required.</p>
 ### Animation & 3D Modeling
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [Kaedim](http://www.kaedim3d.com) | Kaedim - Image To 3D Model Ai. | . | :grey_question: |
+| [Kaedim](http://www.kaedim3d.com) | Magically Generate Custom3D Models In Minutes. | Stop losing hours to modeling tools. Generate stunning 3D art with nothing more than an image. | :x: |
 | [TextureLab](http://www.texturelab.xyz) | Instant And Unique 3D Textures For Your Next Game. | Generate 3D textures for your game in seconds thanks to AI. | :grey_question: |
 | [lumalabs](https://captures.lumalabs.ai/imagine) | Imagine 3D V1.2 (Alpha). | An early experiment to prototype and create 3D with text Access to generation is gradually expanding to everyone on the waitlist. | :white_check_mark: |
 | [plask](https://plask.ai/) | Ai-Powered Mocap Animation Tool. | Easily extract motion from video without expensive bodysuits or motions work. | :white_check_mark: |
