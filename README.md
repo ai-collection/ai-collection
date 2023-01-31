@@ -619,6 +619,7 @@ No technical skills or software download required.</p>
 | [Writemeacoverletter](http://writemeacoverletter.com) | Write Me A Cover Letter. | Generate a cover letter in seconds using AI. Just upload your CV, share a link to the job you want, and we'll do the rest. | :grey_question: |
 | [Your Cover Letter](http://yourcoverletter.com) | Ai Cover Letter Builder - Upload Your Resume To Get Started. | Apply for your dream jobs using our AI Cover Letter builder. Add your Resume and the Job Description to generate a Cover Letter in seconds. | :grey_question: |
 | [coverletter.app](http://coverletter.app) | Custom-Made Cover Letters Ready In Minutes Not Hours - Coverletter.App. | Stand out from the competition and increase your chances of getting hired with personalized cover letters from our advanced AI technology. | :grey_question: |
+| [LoveGenius](https://www.lovegenius.io/) | Create catchy and attention-grabbing dating bios and get better matches on Tinder, Bumble and others! | LoveGenius is an AI dating assistant that helps attract better matches by crafting an outstanding dating profile. It uses a combination of machine learning algorithms, data from successful dating profiles, and human insights based on interviews with dating coaches and experts. | :heavy_check_mark: |
 
 
 ### Text To Speech
