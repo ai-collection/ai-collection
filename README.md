@@ -956,7 +956,7 @@ No technical skills or software download required.</p>
 | [Revspot](http://www.revspot.co) | Revspot Ai - A New Way Of Writing. | . | :grey_question: |
 | [Rewind](http://www.rewind.ai) | Rewind. | . | :grey_question: |
 | [Rick and Mortify](http://rickandmortify.com) | Rick And Mortify. | . | :grey_question: |
-| [Riffusion](http://www.riffusion.com) | Riffusion. | . | :grey_question: |
+| [Riffusion](http://www.riffusion.com) | Riffusion. | Stable diffusion for real-time music generation. | :grey_question: |
 | [Riku](http://riku.ai) | Riku.Ai - Build No-Code Prompts & Datasets For Ai Models. | . | :grey_question: |
 | [Rizz!](http://rizzai.com) | Rizz! Keyboard. | . | :grey_question: |
 | [Roamr](http://www.letsroam.app) | Roamr - Your Dream Vacation In Seconds. | . | :grey_question: |
