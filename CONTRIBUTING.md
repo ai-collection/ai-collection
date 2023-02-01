@@ -17,12 +17,12 @@ Current AI project format:
 Example project:
 
 ```
-| [Equally.ai](https://equally.ai/) | Web Accessibility Compliance For All | Achieve ADA & WCAG compliance easily | :heavy_check_mark: |
+| [Equally.ai](https://equally.ai/) | Web Accessibility Compliance For All | Achieve ADA & WCAG compliance easily | :white_check_mark: |
 ```
 
 ## To Contribute
 
-Created a branch on your fork with your changes, and [make a pull request][pr-link]. 
+Created a branch on your fork with your changes, and [make a pull request][pr-link].
 
 ## Pull Request Guidelines
 

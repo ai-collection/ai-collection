@@ -14,10 +14,10 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=812" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=815" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=35" />
+    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=36" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -62,15 +62,16 @@ No technical skills or software download required.</p>
 | 🎲 [Animation & 3D Modeling](#animation--3d-modeling) | 🏯 [Architecture & Interior Design](#architecture--interior-design) | 🌄 [Art & Image Generator](#art--image-generator) |
 | 🎚 [Audio Editing](#audio-editing) | 😎 [Avatars](#avatars) | 🤖💬 [Chat Bot](#chat-bot) |
 | 💻 [Code & Database Assistant](#code--database-assistant) | 📠 [Content Generation & Seo](#content-generation--seo) | 🧰 [Creators Toolkit](#creators-toolkit) |
-| 👨‍💻 [Customer Support](#customer-support) | 🧠 [Education & Learning](#education--learning) | 📧 [Email Assistant](#email-assistant) |
-| 👩‍🎤 [Fashion](#fashion) | 🤪 [Fun](#fun) | 🎮 [Gaming](#gaming) |
-| 🎁💡 [Gift Ideas](#gift-ideas) | 👩‍⚕️ [Healthcare](#healthcare) | 👩‍💼 [Human Resources & Resume](#human-resources--resume) |
-| 👩‍⚖️ [Legal](#legal) | ⚜️ [Logo Generator](#logo-generator) | 🎼 [Music](#music) |
-| 🧞‍♂️ [Organization & Automation](#organization--automation) | 📸 [Photo & Image Editing](#photo--image-editing) | 🔌 [Plugins & Extensions](#plugins--extensions) |
-| 🗳 [Reviews & Recommendations](#reviews--recommendations) | 💰 [Sales & Marketing](#sales--marketing) | 🔍 [Search Engines](#search-engines) |
-| 🕸 [Slides & Web Design](#slides--web-design) | 📢 [Speech](#speech) | 📝 [Text](#text) |
-| 📝🔉 [Text To Speech](#text-to-speech) | 🇺🇳 [Translation & Transcript](#translation--transcript) | 🎬 [Video](#video) |
-| ✍️ [Writing Assistant](#writing-assistant) |  [Other](#other)
+| 👨‍💻 [Customer Support](#customer-support) | 💞 [Dating & Social Networks](#dating--social-networks) | 🧠 [Education & Learning](#education--learning) |
+| 📧 [Email Assistant](#email-assistant) | 👩‍🎤 [Fashion](#fashion) | 🤪 [Fun](#fun) |
+| 🎮 [Gaming](#gaming) | 🎁💡 [Gift Ideas](#gift-ideas) | 👩‍⚕️ [Healthcare](#healthcare) |
+| 👩‍💼 [Human Resources & Resume](#human-resources--resume) | 👩‍⚖️ [Legal](#legal) | ⚜️ [Logo Generator](#logo-generator) |
+| 🎼 [Music](#music) | 🧞‍♂️ [Organization & Automation](#organization--automation) | 📸 [Photo & Image Editing](#photo--image-editing) |
+| 🔌 [Plugins & Extensions](#plugins--extensions) | 🗳 [Reviews & Recommendations](#reviews--recommendations) | 💰 [Sales & Marketing](#sales--marketing) |
+| 🔍 [Search Engines](#search-engines) | 🕸 [Slides & Web Design](#slides--web-design) | 📢 [Speech](#speech) |
+| 📝 [Text](#text) | 📝🔉 [Text To Speech](#text-to-speech) | 🇺🇳 [Translation & Transcript](#translation--transcript) |
+| 🎬 [Video](#video) | ✍️ [Writing Assistant](#writing-assistant) |  [Other](#other) |
+
 
 </div>
 
@@ -206,7 +207,7 @@ No technical skills or software download required.</p>
 ### Avatars
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [AI Profile Pictures](http://www.aiprofilepictures.com) | Ai Profile Pictures. | Now available in beta. | :grey_question: |
+| [AI Profile Pictures](http://www.aiprofilepictures.com) | Ai Profile Pictures. | Now available in beta. | :x: |
 | [AIVatar](http://aivatarapp.com) | Aivatar - Magic Avatar Generator. | Generate magic avatar art from your photos. | :grey_question: |
 | [AIprofilepic](http://aiprofilepic.art) | Create Stunning Profile Pictures Using Ai - Aiprofilepic.Art. | Create your perfect avatars in just a few clicks with our easy-to-use AI technology. | :grey_question: |
 | [ARTI.PICS](http://www.arti.pics) | Ai-Powered Avatar Maker. | Arti.Pics allows you to upload a few photos of yourself and generates more than 200 cool-looking avatars in different styles. | :x: |
@@ -307,7 +308,7 @@ No technical skills or software download required.</p>
 | [Neuraltext](https://neuraltext.com?via=beth0) | Neuraltext - Ai Writer And Seo Platform. | Automate your content operations. The all-in-one content marketing and SEO platform that saves you time and money. | :x: |
 | [Quattr](https://www.quattr.com/) | Quattr Is Your Growth Hq. | The enterprise SEO platform built with powerful AI and GSC data as the foundation. | :x: |
 | [Summari](http://www.summari.com) | Improve The Reading Experience On Your Site. | Upgrade links into short, informative previews using our world-class AI summarization technology. | :grey_question: |
-| [Taskade](http://www.taskade.com) | Taskade - Ai Outliner & Mind Map - Ai Outlining and Mind Mapping For Teams. | Taskade is the first collaborative AI writer and outliner for teams with built-in task management and video chat. Create mind maps, task lists, and take structured notes in real-time with your team. | :white_check_mark: |
+| [Taskade](http://www.taskade.com/?via=beth0) | Taskade - Ai Outliner & Mind Map - Ai Outlining And Mind Mapping For Teams. | Taskade is the first collaborative AI writer and outliner for teams with built-in task management and video chat. Create mind maps, task lists, and take structured notes in real-time with your team. | :white_check_mark: |
 | [Typli](http://typli.ai) | Typli.Ai - Ai Writer & Seo Writing Assistant. | The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant. | :white_check_mark: |
 | [Word Spinner](http://word-spinner.com) | Word Spinner: The Best Free Article Rewriter And Paraphrase Tool Online. | . | :white_check_mark: |
 | [WordAI](http://wordai.com) | Ai Text Rewriter - Wordai. | Use artificial intelligence to cut turnaround time, extend your budget, and create more high-quality content that Google and readers will love. | :grey_question: |
@@ -340,6 +341,19 @@ No technical skills or software download required.</p>
 | [Bahasa](http://www.bahasa.ai) | Bahasa.Ai - Chatbot Which Serves Customers Fully. | Automation that helps your business serves millions of happy customers fastlyâpowered by AI specially built for Bahasa Indonesia. | :grey_question: |
 | [EddyAI](http://eddyai.com) | Sell And Support Your Customers Automatically 24/7. | Increase Sales and Reduce Support Costs. | :white_check_mark: |
 | [ResolveAI](http://resolveai.co) | Resolveai. | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time. | :grey_question: |
+
+
+### Dating & Social Networks
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [AI movie Club](http://www.ai-movie.club) | Ai-Movie Club. | AI-MOVIE CLUB is a social network that create movies with artificial intelligence!. | :grey_question: |
+| [Elektrif](http://www.elektrif.ai) | Your 🤖 Powered Dating Assistant. | The first suite of AI-powered tools to supercharge your dating life ⚡️. | :grey_question: |
+| [LoveGenius](https://www.lovegenius.io/) | Create Catchy And Attention-Grabbing Dating Bios And Get Better Matches On Tinder, Bumble And Others!. | LoveGenius is an AI dating assistant that helps attract better matches by crafting an outstanding dating profile. It uses a combination of machine learning algorithms, data from successful dating profiles, and human insights based on interviews with dating coaches and experts. | :white_check_mark: |
+| [Postwise](http://postwise.ai) | Postwise - Write, Schedule & Grow With Twitter Ai. | Write, schedule and grow with the world's smartest AI Twitter tool. | :grey_question: |
+| [Roast](https://roast.dating) | Dating App Profile Ai Analysis - Photoshoot Ai Generator. | ROAST helps people 10x their matches on dating apps like Tinder, Bumble, and Hinge. Powered by AI, it provides offers data-driven dating insights and expert advice to increase the quantity and quality of their matches. | :grey_question: |
+| [TweePT3](http://tweept3.com) | Tweept3 - Twitter-Integrated, Gpt3 Powered Tweet Writer. | . | :grey_question: |
+| [Tweethunter](http://tweethunter.io) | Tweet Hunter - Get More Twitter Followers -Â Tweets, Threads, Scheduler, Analytics. | Get sales, growth and new networks. Faster than what you're currently trying. | :grey_question: |
+| [Tweetspear](http://www.tweetspear.com) | Tweetspear - Boost Your Twitter Engagement. | Revolutionize Your Twitter Engagement with  AI-Powered Suggested Replies . | :grey_question: |
 
 
 ### Education & Learning
@@ -495,7 +509,6 @@ No technical skills or software download required.</p>
 | [Prisma](https://prisma-ai.com/prisma) | Prisma Captures The Essence Of Your Photos Transforming Them Into Vivid Color Paintings. | . | :white_check_mark: |
 | [Prisma](https://prisma-ai.com/lensa) | Lensa Is An All-In-One Image Editing App That Takes Your Photos To The Next Level. | . | :white_check_mark: |
 | [Remover.app](http://remover.zmo.ai) | Removeanythingunwanted In Seconds, For Free. | . | :white_check_mark: |
-| [Roast](https://roast.dating) | Dating App Profile Ai Analysis - Photoshoot Ai Generator. | ROAST helps people 10x their matches on dating apps like Tinder, Bumble, and Hinge. Powered by AI, it provides offers data-driven dating insights and expert advice to increase the quantity and quality of their matches. | :grey_question: |
 | [SceneryAI](http://sceneryai.com) | Sceneryai. | Generate or update existing images with our AI image editing tool. | :grey_question: |
 | [Stillgram](http://stillgram.io) | Stillgram™ - A.I. Travel Photo Camera App For Iphone®. | Stillgram is an A.I. point & shoot camera app that magically removes background crowds from your urban/travel photos. | :white_check_mark: |
 | [Topaz Photo AI](http://www.topazlabs.com) | Topaz Labs: Ai Image Quality Software. | Photo and video enhancement software powered by deep learning gets you the best image quality available for noise reduction, sharpening, upscaling, and more. | :grey_question: |
@@ -619,7 +632,6 @@ No technical skills or software download required.</p>
 | [Writemeacoverletter](http://writemeacoverletter.com) | Write Me A Cover Letter. | Generate a cover letter in seconds using AI. Just upload your CV, share a link to the job you want, and we'll do the rest. | :grey_question: |
 | [Your Cover Letter](http://yourcoverletter.com) | Ai Cover Letter Builder - Upload Your Resume To Get Started. | Apply for your dream jobs using our AI Cover Letter builder. Add your Resume and the Job Description to generate a Cover Letter in seconds. | :grey_question: |
 | [coverletter.app](http://coverletter.app) | Custom-Made Cover Letters Ready In Minutes Not Hours - Coverletter.App. | Stand out from the competition and increase your chances of getting hired with personalized cover letters from our advanced AI technology. | :grey_question: |
-| [LoveGenius](https://www.lovegenius.io/) | Create catchy and attention-grabbing dating bios and get better matches on Tinder, Bumble and others! | LoveGenius is an AI dating assistant that helps attract better matches by crafting an outstanding dating profile. It uses a combination of machine learning algorithms, data from successful dating profiles, and human insights based on interviews with dating coaches and experts. | :heavy_check_mark: |
 
 
 ### Text To Speech
@@ -726,7 +738,6 @@ No technical skills or software download required.</p>
 | [AI TWO](http://aitwo.co/) | Aitwo.Co - The Ai-Powered All-In-One Design Platform. | . | :grey_question: |
 | [AI Trip Planner](http://www.buildai.space) | Build Ai. | . | :grey_question: |
 | [AI Writer by Picsart](http://tools.picsart.com) | Edit Images, Videos & Documents For Free - Quicktools By Picsart. | Creating transparent backgrounds for your images, trimming videos, and converting file types - do it all with Quicktools. | :white_check_mark: |
-| [AI movie Club](http://www.ai-movie.club) | Ai-Movie Club. | AI-MOVIE CLUB is a social network that create movies with artificial intelligence!. | :grey_question: |
 | [AIArt](http://aiart.dev) | Aiart.Dev. | . | :grey_question: |
 | [ARTSIO](http://artsio.xyz) | Artsio. | . | :grey_question: |
 | [Adobe Mic Check](https://podcast.adobe.com/miccheck) | Check Your Mic For Free. | Get advice on how to improve your microphone setup. We&apos;ll make sure you sound podcast-ready. | :white_check_mark: |
@@ -804,7 +815,6 @@ No technical skills or software download required.</p>
 | [Ebsynth](http://ebsynth.com) | Ebsynth - Transform Video By Painting Over A Single Frame. | You paint one frame and EbSynth propagates it to the rest of the footage. | :grey_question: |
 | [Echowin](http://echo.win) | Ai Powered Call Management With Full Natural Language Understanding And Personalized Responses For Every Scenario. | . | :grey_question: |
 | [Ecrett Music](http://ecrettmusic.com) | Easy Way To Create Royalty Free Music - Ecrett Music. | . | :grey_question: |
-| [Elektrif](http://www.elektrif.ai) | Your 🤖 Powered Dating Assistant. | The first suite of AI-powered tools to supercharge your dating life ⚡️. | :grey_question: |
 | [Elicit](http://elicit.org) | Elicit: The Ai Research Assistant. | Elicit uses machine learning to help you with your research: find papers, extract key claims, summarize, brainstorm ideas, and more. | :grey_question: |
 | [Equally.ai](http://equally.ai) | Web Accessibility Compliance For All. | Achieve ADA & WCAG compliance easily. | :white_check_mark: |
 | [Everypixel](http://www.everypixel.com) | Stock Image Search Engine - More Than 50 Best Sources - Everypixel. | . | :grey_question: |
@@ -818,6 +828,7 @@ No technical skills or software download required.</p>
 | [GGPredict](http://ggpredict.io) | Ggpredict.Io. | . | :grey_question: |
 | [GPTKey](http://gptkey.com) | Gptkey – Write With Ai Using The Gpt Keyboard. | Write with AI in any app using the GPT custom keyboard extension. | :grey_question: |
 | [Genius Sheets](http://www.geniussheets.com) | Genius Sheets Financial Automation. | Genius Sheets AI Text To Reports solutions help you analyze financial data faster - empowering teams to make better decisions. Stay in Excel and Google Sheets and automate your financial reporting process with live data connections. | :grey_question: |
+| [GetSound](https://www.getsound.ai/) | Welcome To The Future Of Hospitality Ai Soundscapes. | Relaxing soundscapes for saunas, showers, and massage areas. Pools, Beaches, Gardens, or Rooftops will get the perfect soundscape. Make your Lobby, Hallways, or Elevators unique again. Get more done with a natural soundscape for better focus and harmony. | :white_check_mark: |
 | [Gifts Genie](http://gen.gifts) | Genie - Ai Gifts Generator. | . | :grey_question: |
 | [Glasp](http://glasp.co) | Glasp: Social Web Highlighter. | Highlight & add notes as you read.Create a library of your learning â¤ï¸. | :grey_question: |
 | [GooseAI](http://goose.ai) | Gooseai. | . | :grey_question: |
@@ -914,7 +925,6 @@ No technical skills or software download required.</p>
 | [Ponzu.gg](http://www.ponzu.gg) | Ponzu. | AI generated PBR texture maps for any idea, within seconds. | :grey_question: |
 | [Portrait by Vana](http://portrait.vana.com) | Portrait - Vana. | “Portrait” by Vana is a generative art studio that can create self-portraits of you in infinite styles. | :grey_question: |
 | [Post Parrot](http://postparrot.xyz) | Post Parrot - A Free Marketing Tool For Reddit. | . | :white_check_mark: |
-| [Postwise](http://postwise.ai) | Postwise - Write, Schedule & Grow With Twitter Ai. | Write, schedule and grow with the world's smartest AI Twitter tool. | :grey_question: |
 | [Predis](http://predis.ai) | Social Media Marketing Made Easy With Ai - Predis.Ai. | . | :grey_question: |
 | [Prettysmart.co](http://prettysmart.co) | Prettysmart. | . | :grey_question: |
 | [Prodigy AI](http://ai.prodi.gg) | Prodigy Ai Coach. | Are you an engineer wondering about your next gig? Tell HAL what you're looking for and get personalized career advice sent directly to your inbox. | :grey_question: |
@@ -1008,12 +1018,9 @@ No technical skills or software download required.</p>
 | [Tribescaler](http://tribescaler.com) | Tribescaler. | . | :grey_question: |
 | [Tunes For Tales](http://tunesfortales.fun) | Tunes For Tales. | . | :grey_question: |
 | [TutorAI](http://www.tutorai.me) | Learn Anything. | . | :grey_question: |
-| [TweePT3](http://tweept3.com) | Tweept3 - Twitter-Integrated, Gpt3 Powered Tweet Writer. | . | :grey_question: |
 | [TweetAI](http://tweetai.com) | Get Inspired To Tweet • Tweetai.Com. | Tweet AI. | :grey_question: |
 | [TweetEmote](http://www.tweetemote.com) | Tweetemote. | . | :grey_question: |
-| [Tweethunter](http://tweethunter.io) | Tweet Hunter - Get More Twitter Followers -Â Tweets, Threads, Scheduler, Analytics. | Get sales, growth and new networks. Faster than what you're currently trying. | :grey_question: |
 | [Tweetnimage](http://tweetnimage.com) | Tweetnimage. | . | :grey_question: |
-| [Tweetspear](http://www.tweetspear.com) | Tweetspear - Boost Your Twitter Engagement. | Revolutionize Your Twitter Engagement with  AI-Powered Suggested Replies . | :grey_question: |
 | [Twelve Labs](http://twelvelabs.io) | Twelve Labs. | . | :grey_question: |
 | [TypeDroid](http://typedroid.com) | Typedroid - Free Ai Text Generator. | . | :white_check_mark: |
 | [Typestudio](http://www.typestudio.co) | Type Studio Â Edit Your Video By Editing Text. | Type Studio is a fast, simple, and joyful way to edit and growyour podcasts, streams, and interviews. | :grey_question: |
