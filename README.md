@@ -14,10 +14,10 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=815" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=818" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=36" />
+    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=35" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -60,18 +60,17 @@ No technical skills or software download required.</p>
 | | | |
 |:---|:---|:---|
 | 🎲 [Animation & 3D Modeling](#animation--3d-modeling) | 🏯 [Architecture & Interior Design](#architecture--interior-design) | 🌄 [Art & Image Generator](#art--image-generator) |
-| 🎚 [Audio Editing](#audio-editing) | 😎 [Avatars](#avatars) | 🤖💬 [Chat Bot](#chat-bot) |
-| 💻 [Code & Database Assistant](#code--database-assistant) | 📠 [Content Generation & Seo](#content-generation--seo) | 🧰 [Creators Toolkit](#creators-toolkit) |
-| 👨‍💻 [Customer Support](#customer-support) | 💞 [Dating & Social Networks](#dating--social-networks) | 🧠 [Education & Learning](#education--learning) |
-| 📧 [Email Assistant](#email-assistant) | 👩‍🎤 [Fashion](#fashion) | 🤪 [Fun](#fun) |
-| 🎮 [Gaming](#gaming) | 🎁💡 [Gift Ideas](#gift-ideas) | 👩‍⚕️ [Healthcare](#healthcare) |
-| 👩‍💼 [Human Resources & Resume](#human-resources--resume) | 👩‍⚖️ [Legal](#legal) | ⚜️ [Logo Generator](#logo-generator) |
-| 🎼 [Music](#music) | 🧞‍♂️ [Organization & Automation](#organization--automation) | 📸 [Photo & Image Editing](#photo--image-editing) |
-| 🔌 [Plugins & Extensions](#plugins--extensions) | 🗳 [Reviews & Recommendations](#reviews--recommendations) | 💰 [Sales & Marketing](#sales--marketing) |
-| 🔍 [Search Engines](#search-engines) | 🕸 [Slides & Web Design](#slides--web-design) | 📢 [Speech](#speech) |
-| 📝 [Text](#text) | 📝🔉 [Text To Speech](#text-to-speech) | 🇺🇳 [Translation & Transcript](#translation--transcript) |
-| 🎬 [Video](#video) | ✍️ [Writing Assistant](#writing-assistant) |  [Other](#other) |
-
+| 😎 [Avatars](#avatars) | 🤖💬 [Chat Bot](#chat-bot) | 💻 [Code & Database Assistant](#code--database-assistant) |
+| 📠 [Content Generation & Seo](#content-generation--seo) | 🧰 [Creators Toolkit](#creators-toolkit) | 👨‍💻 [Customer Support](#customer-support) |
+| 💞 [Dating & Social Networks](#dating--social-networks) | 🧠 [Education & Learning](#education--learning) | 📧 [Email Assistant](#email-assistant) |
+| 👩‍🎤 [Fashion](#fashion) | 🤪 [Fun](#fun) | 🎮 [Gaming](#gaming) |
+| 🎁💡 [Gift Ideas](#gift-ideas) | 👩‍⚕️ [Healthcare](#healthcare) | 👩‍💼 [Human Resources & Resume](#human-resources--resume) |
+| 👩‍⚖️ [Legal](#legal) | ⚜️ [Logo Generator](#logo-generator) | 🎼 [Music & Audio Generation](#music--audio-generation) |
+| 🧞‍♂️ [Organization & Automation](#organization--automation) | 📸 [Photo & Image Editing](#photo--image-editing) | 🔌 [Plugins & Extensions](#plugins--extensions) |
+| 🗳 [Reviews & Recommendations](#reviews--recommendations) | 💰 [Sales & Marketing](#sales--marketing) | 🔍 [Search Engines](#search-engines) |
+| 🕸 [Slides & Web Design](#slides--web-design) | 📢 [Speech](#speech) | 📝 [Text](#text) |
+| 📝🔉 [Text To Speech](#text-to-speech) | 🇺🇳 [Translation & Transcript](#translation--transcript) | 🎬 [Video](#video) |
+| ✍️ [Writing Assistant](#writing-assistant) |  [Other](#other)
 
 </div>
 
@@ -166,7 +165,6 @@ No technical skills or software download required.</p>
 | [PirateDiffusion](http://scum.co) | Describe Anything. | get realistic HD images, more styles, no restrictions. | :white_check_mark: |
 | [Pixian](http://pixian.ai) | Remove Image Backgrounds, Free Hd, No Signup - Pixian.Ai. | Remove Image Backgrounds, Free HD, No Signup. | :white_check_mark: |
 | [Playground](https://playgroundai.com/) | Playground Ai - Online Ai Image Creator. | Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more. | :white_check_mark: |
-| [Postedby](http://postedby.ai) | Postcards By Ai, Delivered!. | Postedby.ai allows users to create personalized postcards using advanced AI technology. | :x: |
 | [Prompt Art](http://promptart.labml.ai) | Stable Diffusion Playground. | . | :grey_question: |
 | [Quasi](http://quasi.market) | We Make Creating With Ai Easy. | Unlock with the power of AI and easily create stunning content of all types with a simple-to-use platform. | :white_check_mark: |
 | [Re.Art AI Image Generator](http://reart.devvinay.in) | Generate An Image. Imagine Anything You Want To Imagine!. | This AI Image Generator Built using Stable Diffusion. To Keep This Service Alive You can support Developer. | :white_check_mark: |
@@ -191,17 +189,8 @@ No technical skills or software download required.</p>
 | [Vizcom AI](http://www.vizcom.ai) | Vizcom Ai: The Ai Creative Design Tool. | See your drawings and ideas come to life in seconds, not hours. | :grey_question: |
 | [Zazow](http://www.zazow.com) | Zazow :: Algorithmic Generative Art. | Create your own artwork by using computer generated algorithms. Learn about generative or algorithmic art. | :grey_question: |
 | [Zoomscape](http://zoomscape.ai) | Zoomscape.Ai. | Create stunning Zoom backgrounds with AI. | :grey_question: |
+| [artssy](https://www.artssy.co/) | Create Unique Ai Generated Images In 1-Click. | With Artssy AI, your creativity can flow. Create unlimited images in 1 click and discover a world of possibilities!. | :x: |
 | [flair](http://flair.ai/) | The Ai Design Tool For Branded Content. | . | :white_check_mark: |
-
-
-### Audio Editing
-| Name | Title | Description | Offer Free Version |
-|---|---|---|:---:|
-| [Adobe Podcast](http://podcast.adobe.com) | Adobe Podcast - Ai Audio Recording And Editing, All On The Web. | An audio tool for people with stories to tell. | :grey_question: |
-| [Assemblyai](http://www.assemblyai.com) | #1 Api Platform For Ai Models. | Automatically convert audio and video files and live audio streams to text with AssemblyAI's Speech-to-Text APIs. Do more with Audio Intelligence - summarization, content moderation, topic detection. | :grey_question: |
-| [Cleanvoice AI](http://cleanvoice.ai) | Get Rid Of Filler Words From Your Audio Recordings. | Cleanvoice is an artificial intelligence which removes filler sounds, stuttering and mouth sounds from your podcast or audio recording. | :grey_question: |
-| [Clip audio](http://www.clip.audio) | Clip - Ai Audio Search Engine. | The audio search engine. | :grey_question: |
-| [Krisp](http://krisp.ai) | World&Apos;S #1 Noise Cancelling App - Krisp. | Krisp&apos;s AI removes background voices, noises and echo from all your calls, giving you peace of mind. | :white_check_mark: |
 
 
 ### Avatars
@@ -399,6 +388,7 @@ No technical skills or software download required.</p>
 | [Excuses AI](http://excuses.ai) | Excuse Generator. | Use AI to generate the perfect professional excuse. | :grey_question: |
 | [Jokelub](http://jokelub.com) | Jokelub. | Bring humor everywhere. | :grey_question: |
 | [Kanye Tweet Generator](http://www.kanyegenerator.com) | Kanye Tweet Generation. | Generate Kanye Tweets using AI. Built by Ryan Doyle. | :grey_question: |
+| [Podcast.ai](http://podcast.ai) | Podcast.Ai. | Welcome to podcast.ai, a podcast that is entirely generated by artificial intelligence. Every week, we explore a new topic in depth, and listeners can suggest topics or even guests and hosts for future episodes. | :grey_question: |
 | [Silly Times](http://www.elbo.ai) | A Simple Drawing App Using Ai. | Have a fun time drawing and see what silly thing we make from your drawing.  Magic is just button press away!. | :white_check_mark: |
 | [StoriesForKids](http://www.storiesforkids.ai) | Storiesforkids.Ai: Personalized Kid'S Books Using Ai. | Turn real-life situations into fun stories & illustrations in seconds. | :grey_question: |
 | [TextStyler](http://www.textstyler.org) | Re-Write Anything In Fun Styles, Using Ai. | . | :grey_question: |
@@ -473,13 +463,19 @@ No technical skills or software download required.</p>
 | [Text To Book Cover](http://stockimg.ai) | Ai Image Generation For Teams - You Can Easily Generate Ai Logo, Ai Book Covers, Ai Posters And More - Stockimg Ai. | AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI. | :grey_question: |
 
 
-### Music
+### Music & Audio Generation
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [Adobe Podcast](http://podcast.adobe.com) | Adobe Podcast - Ai Audio Recording And Editing, All On The Web. | An audio tool for people with stories to tell. | :grey_question: |
+| [Assemblyai](http://www.assemblyai.com) | #1 Api Platform For Ai Models. | Automatically convert audio and video files and live audio streams to text with AssemblyAI's Speech-to-Text APIs. Do more with Audio Intelligence - summarization, content moderation, topic detection. | :grey_question: |
+| [Cleanvoice AI](http://cleanvoice.ai) | Get Rid Of Filler Words From Your Audio Recordings. | Cleanvoice is an artificial intelligence which removes filler sounds, stuttering and mouth sounds from your podcast or audio recording. | :grey_question: |
+| [Clip audio](http://www.clip.audio) | Clip - Ai Audio Search Engine. | The audio search engine. | :grey_question: |
 | [Emergent Drums](http://audialab.com?ref=beth0) | Generate Unique Drum Samples Using Artificial Intelligence. | Use our breakthrough plugin to generate endless drum samples, all royalty-free. | :x: |
+| [Krisp](http://krisp.ai) | World&Apos;S #1 Noise Cancelling App - Krisp. | Krisp&apos;s AI removes background voices, noises and echo from all your calls, giving you peace of mind. | :white_check_mark: |
 | [LALAL.AI Voice Cleaner](http://www.lalal.ai/?fp_ref=beth0) | Extract Vocal, Accompaniment And Various Instruments From Any Audio And Video. | High-quality stem splitting based on the world's #1 AI-powered technology. | :grey_question: |
 | [Musico](http://www.musi-co.com) | Musico - Ai Generative Music. | Musico is an AI-driven software engine that generates music. It can react to gesture, movement, code or other sound. | :grey_question: |
 | [Quasi Music](https://quasi.market/radio/) | Create Brand-New Beats. | Unleash your inner musician with Quasi's AI-powered music creation tool. Create never-before-heard sounds and remix classic artists with ease. | :white_check_mark: |
+| [Riffusion](http://www.riffusion.com) | Riffusion. | Stable diffusion for real-time music generation. | :white_check_mark: |
 | [Soundraw](http://soundraw.io) | Stop Searching For The Song You Need. Create It. | Royalty-free music, AI generated for you. | :white_check_mark: |
 
 
@@ -487,6 +483,7 @@ No technical skills or software download required.</p>
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Hexowatch](http://hexact.pxf.io/beth0) | Beyond Availability And Prices, 3Rd Party Websites As A Data Source, Visual Website Monitoring, Competitor Tracking. | Hexowatch is your AI sidekick to monitor any website for visual, content, source code, technology, availability, or price changes. | :x: |
+| [Product Launch AI](https://shapenship.com/productlaunchai) | Unleash The Power Of Ai To Supercharge Your Product Launches. | Blast off to a great launch without worrying about launch copy!. | :grey_question: |
 | [bardeen](https://www.bardeen.ai/ai) | Ai Meets Automations. | Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity. | :grey_question: |
 | [mem](https://get.mem.ai/) | The Self-Organizing Workspace. | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically. | :white_check_mark: |
 
@@ -515,7 +512,7 @@ No technical skills or software download required.</p>
 | [Unfake](http://unfakepng.com) | Ai Tool That Can Turn Annoying Fake.Png Into True, Unfake.Png. | Don&apos;t you hate it when you find that perfect, supposedly background-less Image, and download it, but when you go to use it, the dreaded checkerboard appears?. | :white_check_mark: |
 | [jpgRM](http://jpgrm.com) | Jpgrm - Ai Image Magic Cleanup. | Using 2022 cutting edged AI model to remove any unwanted objects from your images, automatically fill the background. | :grey_question: |
 | [jpghd](http://jpghd.com) | Jpghd - Lossless Restoration Of Old Photos With Ai. | Using 2022 cutting-edge AI models for lossless restoration of old photos (supports old, scratched photo restoration, colorization, and Magic Photo). | :grey_question: |
-| [paintbytext](https://paintbytext.chat) | Paint by Text. | paintbytext - Edit your photos using written instructions, with the help of an AI. |  :grey_question: |
+| [paintbytext](https://paintbytext.chat) | Paint By Text. | paintbytext - Edit your photos using written instructions, with the help of an AI. | :white_check_mark: |
 
 
 ### Plugins & Extensions
@@ -639,6 +636,7 @@ No technical skills or software download required.</p>
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Article.Audio](http://article.audio) | Convert Articles In Audio. | too lazy to read an article? no problem, listen to it! Powered by Thundercontent. | :white_check_mark: |
+| [Eleven](https://beta.elevenlabs.io/) | Prime Voice Ai. | The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling. | :white_check_mark: |
 | [Listnr 2.0](https://www.listnr.tech/?gr_pk=V71a&gr_uid=YVDO) | Ai Voice Generator - Text To Speech Converter - Listnr. | Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with the best synthetic voices. Instantly convert text in to natural-sounding speech and download in MP3 and WAV formats. | :x: |
 | [Lovo](http://www.lovo.ai) | Lovo Ai - Free Text To Speech Online With Natural Voices. | . | :white_check_mark: |
 | [Murf.ai](http://murf.ai) | Go From Text To Speech With A Versatile Ai Voice Generator. | AI enabled, real people's voices. Make studio-quality voice overs in minutes. Use Murf&apos;s lifelike AI voices for podcasts, videos, and all your professional presentations. | :white_check_mark: |
@@ -649,12 +647,6 @@ No technical skills or software download required.</p>
 | [Unreal Speech](http://unrealspeech.up.railway.app) | Ultra Realistic Text-To-Speech Api. | More natural-sounding and up to 4x cheaper than Amazon, Google and Microsoft. | :white_check_mark: |
 | [VERBATIK](http://verbatik.com) | Ai Powered Text To Voice Generation. | Generate Realistic Text to Speech (TTS) audio using online AI Voice Generator and best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files. | :x: |
 | [Wellsaid](http://wellsaidlabs.com) | Convert Text To Voice In Real Time. | With WellSaid, you and your team can create a compelling realistic AI voice over for all your digital content. | :white_check_mark: |
-
-
-### Text To Speech
-| Name | Title | Description | Offer Free Version |
-|---|---|---|:---:|
-| [Eleven](https://beta.elevenlabs.io/) | Prime Voice Ai. | The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling. | :white_check_mark: |
 
 
 ### Translation & Transcript
@@ -918,7 +910,6 @@ No technical skills or software download required.</p>
 | [Pitchgrade](http://pitchgrade.com) | Pitchgrade. | A pitch deck is a presentation that a company uses to pitch to investors. It goes over the company&apos;s business model, financial projections, and other key metrics that investors would want to see. | :grey_question: |
 | [Pixelmind](http://beta.pixelmind.ai) | Pixelmind - Ai-Powered Art & Minting To Nfts. | Your journey into AI-powered art. Create and collect NFTs through the Pixelmind portal. Evolve your style. Raise your game. | :grey_question: |
 | [Pixelz AI](http://pixelz.ai) | Pixelz Ai Art Generator. | Create unique AI artwork using text, phrases, images & presets, share, download, print & mint as NFTs. | :grey_question: |
-| [Podcast.ai](http://podcast.ai) | Podcast.Ai. | . | :grey_question: |
 | [Poised 2.0](http://www.poised.com) | Poised - Free Ai-Powered Communication Coach. | . | :white_check_mark: |
 | [Pollinations](http://pollinations.ai) | Pollinations.Ai. | . | :grey_question: |
 | [Poly AI](http://poly.ai) | . | . | :grey_question: |
@@ -957,7 +948,6 @@ No technical skills or software download required.</p>
 | [Revspot](http://www.revspot.co) | Revspot Ai - A New Way Of Writing. | . | :grey_question: |
 | [Rewind](http://www.rewind.ai) | Rewind. | . | :grey_question: |
 | [Rick and Mortify](http://rickandmortify.com) | Rick And Mortify. | . | :grey_question: |
-| [Riffusion](http://www.riffusion.com) | Riffusion. | Stable diffusion for real-time music generation. | :grey_question: |
 | [Riku](http://riku.ai) | Riku.Ai - Build No-Code Prompts & Datasets For Ai Models. | . | :grey_question: |
 | [Rizz!](http://rizzai.com) | Rizz! Keyboard. | . | :grey_question: |
 | [Roamr](http://www.letsroam.app) | Roamr - Your Dream Vacation In Seconds. | . | :grey_question: |
