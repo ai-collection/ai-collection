@@ -516,7 +516,6 @@ No technical skills or software download required.</p>
 | [jpgRM](http://jpgrm.com) | Jpgrm - Ai Image Magic Cleanup. | Using 2022 cutting edged AI model to remove any unwanted objects from your images, automatically fill the background. | :grey_question: |
 | [jpghd](http://jpghd.com) | Jpghd - Lossless Restoration Of Old Photos With Ai. | Using 2022 cutting-edge AI models for lossless restoration of old photos (supports old, scratched photo restoration, colorization, and Magic Photo). | :grey_question: |
 | [paintbytext](https://paintbytext.chat) | Paint by Text. | paintbytext - Edit your photos using written instructions, with the help of an AI. |  :grey_question: |
-https://paintbytext.chat/
 
 
 ### Plugins & Extensions
