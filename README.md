@@ -304,11 +304,11 @@ No technical skills or software download required.</p>
 | [Typli](http://typli.ai) | Typli.Ai - Ai Writer & Seo Writing Assistant. | The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant. | :white_check_mark: |
 | [Wizishop](http://wizishop.com) | Grow Your Business With Seo-Powered Ecommerce. | WiziShop makes SEO-powered ecommerce easier than ever before, bringing success within reach. Artificial Intelligence at the service of your ecommerce business!. | :white_check_mark: |
 | [Word Spinner](http://word-spinner.com) | Word Spinner: The Best Free Article Rewriter And Paraphrase Tool Online. | . | :white_check_mark: |
-| [WordAI](http://wordai.com) | Ai Text Rewriter - Wordai. | Use artificial intelligence to cut turnaround time, extend your budget, and create more high-quality content that Google and readers will love. | :grey_question: |
+| [WordAI](https://wordai.com/?ref=470a83) | Ai Text Rewriter - Wordai. | Use artificial intelligence to cut turnaround time, extend your budget, and create more high-quality content that Google and readers will love. | :white_check_mark: |
 | [WordHero](http://wordhero.co?via=beth0) | Generate Ai-Powered Content - In 1 Click. | With WordHero's AI technology, you can create original blog posts, social media content, emails, and more - in just seconds. | :x: |
 | [Wordkraft](http://wordkraft.ai) | Create High-Quality Content Instantly With Ai. | Wordkraft AI content writer is a revolutionary tool Powered by GPT-3 the most advance artificial intelligence technology to generate well-written, keyword-optimized content for your blog, website or marketing needs. | :white_check_mark: |
 | [Wordplay](http://wordplay.ai) | Create Long-Form Content In Seconds. | The #1 AI content generator built for SEO & content publishers. | :white_check_mark: |
-| [Writesonic](http://writesonic.com) | Writesonic - Best Ai Writer, Copywriting & Paraphrasing Tool. | Create SEO-optimized and plagiarism-free contentfor your blogs, ads, emails, and website 10X faster. | :white_check_mark: |
+| [Writesonic](https://writesonic.com?via=beth0) | Writesonic - Best Ai Writer, Copywriting & Paraphrasing Tool. | Create SEO-optimized and plagiarism-free contentfor your blogs, ads, emails, and website 10X faster. | :white_check_mark: |
 | [Writey AI](http://writey.ai) | Yes — An A.I That Writes Original, Researched Blog Posts In Minutes. | First true free plagiarism A.I with original and researched content, check Writey A.I in action. | :white_check_mark: |
 | [unbound](https://www.unboundcontent.ai/auth?affiliate=aff_z0krz31) | Automate Content Creation For Your Small Business. | Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators. | :white_check_mark: |
 | [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0) | Instantly Convert Your Youtube Content Into Engaging Blog Articles. | Boost your SEO and brand presence. | :white_check_mark: |
@@ -473,6 +473,7 @@ No technical skills or software download required.</p>
 ### Organization & Automation
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [BuildAI](http://www.buildai.space) | Build Ai Interfaces In Minutes. | Enter the description of an app that outputs text based on user text input, and we will BUILD IT FOR YOU!. | :grey_question: |
 | [Hexowatch](http://hexact.pxf.io/beth0) | Beyond Availability And Prices, 3Rd Party Websites As A Data Source, Visual Website Monitoring, Competitor Tracking. | Hexowatch is your AI sidekick to monitor any website for visual, content, source code, technology, availability, or price changes. | :x: |
 | [KUBIYA](http://kubiya.ai/) | Devops Virtual Assistant. | Provide developers secure, self-serve access to operational workflows, cloud resources and organizational knowledge with conversational AI. | :grey_question: |
 | [Product Launch AI](https://shapenship.com/productlaunchai) | Unleash The Power Of Ai To Supercharge Your Product Launches. | Blast off to a great launch without worrying about launch copy!. | :grey_question: |
@@ -549,7 +550,7 @@ No technical skills or software download required.</p>
 | [Anypod](http://www.anypod.ai) | Search Engines Built For Creators. | We make your content searchable. | :white_check_mark: |
 | [Lexii.ai](http://lexii.ai/) | Lexii.Ai. | Lexii.ai is an AI search assistant that answers questions and cites sources. | :white_check_mark: |
 | [OpenArt Photo Booth](http://openart.ai) | Discover And Generate Ai Art - Openart. | Search 10M+ prompts, and generate AI Art via Stable Diffusion, DALL·E 2. | :white_check_mark: |
-| [Perplexity AI](http://www.perplexity.ai) | Perplexity Ai. | . | :white_check_mark: |
+| [Perplexity AI](http://www.perplexity.ai) | Perplexity Ai Is An Answer Engine That Delivers Accurate Answers To Complex Questions Using Large Language Models. | Ask is powered by large language models and search engines. Accuracy is limited by search results and AI capabilities. | :white_check_mark: |
 | [Smarty Names](http://smartynames.com) | Free Creative Domain Name Search By Ai Robots. | Finding a creative and unique domain that is still available is easy with SmartyNames.com - Tell us what you do, and our robots will find the domain that is just right for you. Company name generator in one click. | :white_check_mark: |
 | [StockGPT](https://www.askstockgpt.com/) | Ai-Powered Search Engine. | StockGPT is an AI-powered search engine that was trained on all of Tesla&apos;s quarterly earnings call transcripts dating back to Q2 2011. | :white_check_mark: |
 | [You](http://you.com) | The Ai Search Engine You Control. | . | :white_check_mark: |
@@ -738,7 +739,6 @@ No technical skills or software download required.</p>
 | [AI Social Bio](http://aisocialbio.com) | Ai Social Bio. | . | :grey_question: |
 | [AI Social Media Post Writerby Socialblu](http://socialbu.com) | Socialbu - Social Media Management And Automation. | SocialBu is the perfect solution to improve your social media presence and maximize your results. Publish, Respond, Analyze, and Automate - all from within SocialBu. | :grey_question: |
 | [AI Sports Prediction](http://sportsprediction.ai) | Ai Sports Betting Predictions - Sports Prediction Ai. | . | :grey_question: |
-| [AI Trip Planner](http://www.buildai.space) | Build Ai. | . | :grey_question: |
 | [AI Writer by Picsart](http://tools.picsart.com) | Edit Images, Videos & Documents For Free - Quicktools By Picsart. | Creating transparent backgrounds for your images, trimming videos, and converting file types - do it all with Quicktools. | :white_check_mark: |
 | [AIArt](http://aiart.dev) | Aiart.Dev. | . | :grey_question: |
 | [ARTSIO](http://artsio.xyz) | Artsio. | . | :grey_question: |
