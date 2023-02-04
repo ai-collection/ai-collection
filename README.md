@@ -14,7 +14,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=818" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=816" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=35" />
@@ -137,7 +137,6 @@ No technical skills or software download required.</p>
 | [Dreambooth](http://dream.ai) | High Quality Artwork In Seconds. | . | :grey_question: |
 | [Dreamlike](http://dreamlike.art) | Ai Art Generator, Ai Art Maker - Dreamlike.Art. | . | :grey_question: |
 | [Dreamspace.art](http://dreamspace.art) | Dreamspace. | The prompt diagramming tool. | :grey_question: |
-| [Dreamweaverai](http://www.dreamweaverai.com) | Custom Ai Tees. | Build the tee of your dreams with AI. | :grey_question: |
 | [Erase.bg](http://www.erase.bg) | Free Background Image Remover: Remove Bg From Hd Images Online - Erase.Bg. | Make the background transparent for images of humans, animals, or objects. Download images in high resolution for free for e-commerce and personal use. No credit card needed. | :white_check_mark: |
 | [Eye for AI](http://eyeforai.xyz) | Easy Text-To-Image Tools And Templates. | Create images from text in under a minute. | :white_check_mark: |
 | [Facet 2.0](http://facet.ai) | Facet: Image Creation, Reimagined. | Harness the power of AI to make the creative process fast, effective and accessible. Experiment with visual directions, automate selections, and collaborate--all on the web. | :grey_question: |
@@ -152,7 +151,6 @@ No technical skills or software download required.</p>
 | [Imaginator](http://imaginator.developer-service.io) | Imaginator - Turn Your Text Into Images. | Imagine being able to see your thoughts come alive in front of you. No longer just a thought, an image now becomes the reality. | :grey_question: |
 | [Imagine Me](http://imagineme.app) | Home - Imagine Me. | Imagine Me is the first online platform that lets you generate stunning AI art of yourself, with just a simple line of text. | :grey_question: |
 | [Imajinn AI Children's Book](http://imajinn.ai) | Imajinn Ai. | Visualization re-imajinned with fine-tuned AI. Generate profile pictures, product images, brands and styles limited only by your imagination!. | :grey_question: |
-| [Iwear.art](http://iwear.art) | I Wear Art. | Create unique art with AI, and wear it on your apparel. | :grey_question: |
 | [Kiri.art](http://kiri.art) | Kiri.Art. | Diffusion Image Generation. | :grey_question: |
 | [Krea](http://updates.krea.ai) | Ai Canvas. | Introducing the AI Canvas, by Krea. | :grey_question: |
 | [Leonardo](http://leonardo.ai) | Leonardo.Ai. | Generate production quality assets for your creative projects with AI-driven speed and style-consistency. | :grey_question: |
@@ -227,7 +225,6 @@ No technical skills or software download required.</p>
 | [Theoasis](http://theoasis.com) | Oasis Â Never Worry How You Look On Camera Again. | Create a photorealistic avatar that you can use on every video platform. | :grey_question: |
 | [Tokkingheads](http://www.tokkingheads.com) | Bring Portraits To Life With Ai Magic. Instantly. | . | :white_check_mark: |
 | [Tryitonai](http://www.tryitonai.com) | Stunning Professional Headshots & Portraits - Try It On Ai. | Get professional studio quality headshots generated in less than 24hrs! Perfect for LinkedIn, social, team and dating photos. | :grey_question: |
-| [pixificial](http://www.pixificial.com) | Pixificial: Create Your Ai Avatars, Ai Profiles For Free. | Create Your AI Avatars, AI Profiles For Free. | :white_check_mark: |
 | [xpression camera 2.0](http://xpressioncamera.com) | Xpression Camera. | Become anyone on Zoom, Twitch, or any streaming video. | :grey_question: |
 
 
@@ -891,7 +888,7 @@ No technical skills or software download required.</p>
 | [Nyx Gallery](http://nyx.gallery) | Nyx.Gallery - Ai-Generated Photography. | Images on this website have been generated with AI and are therefore “not real”. | :grey_question: |
 | [Oda Studio](http://stager.odastudio.ai) | Oda Moodboard. | Pick your style and color to customize your home in seconds with AI. | :grey_question: |
 | [Olli](http://www.olli.ai) | Olli.Ai - Your Personal Data Analyst. | Olli is the AI platform for creating data visualizations 10x faster - it's like having an assistant that deals with the annoying parts of finding data, creating visualizations, and getting them ready for presentations. | :grey_question: |
-| [Once Upon A Bot](http://onceuponabot.com) | Once Upon A Bot • Create Children'S Stories With Ai. | Tell OnceUponABot your story idea, and the robot will write a story from scratch using AI. Then you can read, edit, export, and share your creations. | :grey_question: |
+| [Once Upon A Bot](http://onceuponabot.com) | Once Upon A Bot • Create Children'S Stories With Ai. | Tell OnceUponABot your story idea, and the robot will write a story from scratch using AI. Then you can read, edit, export, and share your creations. | :x: |
 | [Opus](http://opus.ai) | Opuswebsite. | . | :grey_question: |
 | [Orchard](http://orchard.ink) | Orchard. | . | :grey_question: |
 | [Outdone V2](http://www.outdone.io) | Outdone. | . | :grey_question: |
