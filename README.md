@@ -245,7 +245,7 @@ No technical skills or software download required.</p>
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Docstrings](https://trelent.com) | Write Docstrings Automatically. | Trelent uses AI to write helpful docstrings for your functions instantly. | :white_check_mark: |
-| [Adrenaline](https://useadrenaline.com/) | Stop Plugging Your Errors Into Stackoverflow. | Adrenaline is a debugging assistant powered by the OpenAI Codex. It can fix and explain your broken code in seconds. | :white_check_mark: |
+| [Adrenaline](https://useadrenaline.com/) | Stop Plugging Your Errors Into Stack Overflow. | Adrenaline is a debugging assistant powered by the OpenAI Codex. It can fix and explain your broken code in seconds. | :white_check_mark: |
 | [Ask Command](http://askcommand.com) | Ask Command — Ai-Powered Developer Assistant. | A tiny app to remind you about those commands you always forget. Powered by AI. | :grey_question: |
 | [Channel](http://www.usechannel.com) | Channel. | Connect your database, ask a question, get an answer. | :grey_question: |
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist) | Codeassist Is An Ai Assistant / Chatbot / Copilot For Programming - Jetbrains Marketplace. | It generates, changes, completes the code and answers questions. | :grey_question: |
@@ -253,13 +253,13 @@ No technical skills or software download required.</p>
 | [CodeWP](https://codewp.ai/?cwpref=9) | Codewp - Ai Wordpress Code Generator & Assistant. | CodeWP is a WordPress code generator that uses AI and specialized models for WordPress, Woo and others to help you build better & quicker. | :white_check_mark: |
 | [Codeball](http://codeball.ai) | Codeball Â Ai Powered Code Review. | Codeball finds bugs in your Pull Requests, lets you ship faster and with higher confidence. | :grey_question: |
 | [Codecleaningbot](http://www.codecleaningbot.com) | Code Cleaning Bot. | Code Cleaning AI Bot fixes common code quality and security issues. Like: deleting unused and unreachable code, fix SQL injection, etc. | :grey_question: |
-| [Codeium](http://www.codeium.com) | Codeium - The Modern Coding Superpower. | Fast AI-based code acceleration and free alternative to Github Copilot. | :white_check_mark: |
+| [Codeium](http://www.codeium.com) | Codeium - The Modern Coding Superpower. | Fast AI-based code acceleration and free alternative to GitHub Copilot. | :white_check_mark: |
 | [Datamaker](http://www.datamaker.dev) | Ai Powered Webflow Code & Copy Tools For Designers. | If you are a Webflow Designer or Webflow Developer then you need to see these tools. Use AI to create code and copy to solve your Webflow problems. | :grey_question: |
 | [Decile](http://decile.app) | Get The Data You Need By Asking. | Build a data-led organisation with the power of AI. | :x: |
 | [Explain An Error](http://explain.whybug.com) | Explain By Whybug. | Let AI explain to you why your code is buggy and how to fix it. | :grey_question: |
 | [ExplainDev](http://explain.dev) | Explaindev - Code Explainer That Answers Your Questions In Context. | ExplainDev helps you to be more confident and independent with others' code. Get code explanations and direct answers to your questions via Chrome and VS Code extensions powered by AI. | :grey_question: |
 | [Ghostwriter](http://replit.com) | Replit: The Collaborative Browser Based Ide. | Run code live in your browser. Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter. | :grey_question: |
-| [Github Copilot](http://github.com/features/copilot) | Your Ai Pair Programmer. | GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor. | :grey_question: |
+| [GitHub Copilot](http://GitHub.com/features/copilot) | Your Ai Pair Programmer. | GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor. | :grey_question: |
 | [Mutable.ai](http://mutable.ai) | Mutableai. Ai Accelerated Software Development. | Build fast with production quality using AI. | :grey_question: |
 | [Programminghelper](http://www.programming-helper.com) | Home. | Generate code with AI just by typing a text description. AI will create the code for you. A tool that helps you with a wide range of tasks. All in one place. | :grey_question: |
 | [QueryGenie](http://sqlgenie-co.web.app) | Write Db Queries Faster!. | Generate database queries from plain-english description using AI. | :grey_question: |
