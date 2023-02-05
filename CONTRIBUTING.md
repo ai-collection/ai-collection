@@ -27,9 +27,10 @@ Created a branch on your fork with your changes, and [make a pull request][pr-li
 ## Pull Request Guidelines
 
 * Verify that the project is not already listed
-* Always add the new project to the end of the table (it will sorted alphabetically during next job run)
+* Always add the new project to the end of the category table (it will sorted alphabetically during next job run)
 * Each table column should be padded with one space on either side.
 * The Title should not exceed 120 characters and should not contain the character `|`.
+* The Title will be re-formatted automatically to keep the standard of New York Times Manual of Style.
 * The Description should not exceed 300 characters and should not contain the character `|`.
 * The `Offer Free Version` column should have one of these three values:
   * :white_check_mark: - `:white_check_mark:`
