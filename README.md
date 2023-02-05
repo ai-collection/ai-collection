@@ -1,3 +1,6 @@
+# AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+---
+
 <div align="center">
     <img width="150" alt="ai-collection logo" src="https://github.com/ai-collection/ai-collection/blob/main/logo-transparent.png" />
     <h1>ai-collection</h1>
@@ -53,30 +56,46 @@ No technical skills or software download required.</p>
 > **_NOTE:_**  Categories are still work in progress. If you have suggestions on how to categorize the collection, please open an issue and we can discuss it there.
 <br />
 
-<div align="center">
-
-## Index
-
-| | | |
-|:---|:---|:---|
-| 🎲 [Animation & 3D Modeling](#animation--3d-modeling) | 🏯 [Architecture & Interior Design](#architecture--interior-design) | 🌄 [Art & Image Generator](#art--image-generator) |
-| 😎 [Avatars](#avatars) | 🤖💬 [Chat Bot](#chat-bot) | 💻 [Code & Database Assistant](#code--database-assistant) |
-| 📠 [Content Generation & Seo](#content-generation--seo) | 🧰 [Creators Toolkit](#creators-toolkit) | 👨‍💻 [Customer Support](#customer-support) |
-| 🧠 [Education & Learning](#education--learning) | 📧 [Email Assistant](#email-assistant) | 👩‍🎤 [Fashion](#fashion) |
-| 🤪 [Fun](#fun) | 🎮 [Gaming](#gaming) | 🎁💡 [Gift Ideas](#gift-ideas) |
-| 👩‍⚕️ [Healthcare](#healthcare) | 👩‍💼 [Human Resources & Resume](#human-resources--resume) | 👩‍⚖️ [Legal](#legal) |
-| ⚜️ [Logo Generator](#logo-generator) | 🎼 [Music & Audio Generation](#music--audio-generation) | 🧞‍♂️ [Organization & Automation](#organization--automation) |
-| 📸 [Photo & Image Editing](#photo--image-editing) | 🔌 [Plugins & Extensions](#plugins--extensions) | 🗳 [Reviews & Recommendations](#reviews--recommendations) |
-| 💰 [Sales & Marketing](#sales--marketing) | 🔍 [Search Engines](#search-engines) | 🕸 [Slides & Web Design](#slides--web-design) |
-| 💞 [Social Networks & Dating](#social-networks--dating) | 📢 [Speech](#speech) | 📝 [Text](#text) |
-| 📝🔉 [Text To Speech](#text-to-speech) | 🇺🇳 [Translation & Transcript](#translation--transcript) | 🎬 [Video](#video) |
-| ✍️ [Writing Assistant](#writing-assistant) |  [Other](#other)
-
-</div>
+## Contents
+- 🎲 [Animation & 3D Modeling](#animation--3d-modeling)
+- 🏯 [Architecture & Interior Design](#architecture--interior-design)
+- 🌄 [Art & Image Generator](#art--image-generator)
+- 😎 [Avatars](#avatars)
+- 🤖💬 [Chat Bot](#chat-bot)
+- 💻 [Code & Database Assistant](#code--database-assistant)
+- 📠 [Content Generation & Seo](#content-generation--seo)
+- 🧰 [Creators Toolkit](#creators-toolkit)
+- 👨‍💻 [Customer Support](#customer-support)
+- 🧠 [Education & Learning](#education--learning)
+- 📧 [Email Assistant](#email-assistant)
+- 👩‍🎤 [Fashion](#fashion)
+- 🤪 [Fun](#fun)
+- 🎮 [Gaming](#gaming)
+- 🎁💡 [Gift Ideas](#gift-ideas)
+- 👩‍⚕️ [Healthcare](#healthcare)
+- 👩‍💼 [Human Resources & Resume](#human-resources--resume)
+- 👩‍⚖️ [Legal](#legal)
+- ⚜️ [Logo Generator](#logo-generator)
+- 🎼 [Music & Audio Generation](#music--audio-generation)
+- 🧞‍♂️ [Organization & Automation](#organization--automation)
+- 📸 [Photo & Image Editing](#photo--image-editing)
+- 🔌 [Plugins & Extensions](#plugins--extensions)
+- 🗳 [Reviews & Recommendations](#reviews--recommendations)
+- 💰 [Sales & Marketing](#sales--marketing)
+- 🔍 [Search Engines](#search-engines)
+- 🕸 [Slides & Web Design](#slides--web-design)
+- 💞 [Social Networks & Dating](#social-networks--dating)
+- 📢 [Speech](#speech)
+- 📝 [Text](#text)
+- 📝🔉 [Text To Speech](#text-to-speech)
+- 🇺🇳 [Translation & Transcript](#translation--transcript)
+- 🎬 [Video](#video)
+- ✍️ [Writing Assistant](#writing-assistant)
+- [Other](#other)
 
 ---
 
-### Animation & 3D Modeling
+## Animation & 3D Modeling
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Kaedim](http://www.kaedim3d.com) | Magically Generate Custom3D Models in Minutes. | Stop losing hours to modeling tools. Generate stunning 3D art with nothing more than an image. | :x: |
@@ -85,7 +104,7 @@ No technical skills or software download required.</p>
 | [plask](https://plask.ai/) | AI-Powered Mocap Animation Tool. | Easily extract motion from video without expensive bodysuits or motions work. | :white_check_mark: |
 
 
-### Architecture & Interior Design
+## Architecture & Interior Design
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Room Planner](http://airoomplanner.com) | Interior Design by AI. | Get hundreds of interior design ideas for your room - free with no limit. | :grey_question: |
@@ -97,7 +116,7 @@ No technical skills or software download required.</p>
 | [Makeit.ai](http://www.maket.ai) | Generative Design - Architecture Design Software - Maket. | Our generative design software enables architects, builders & developers to quickly generate thousands of architectural plans instantly. | :grey_question: |
 
 
-### Art & Image Generator
+## Art & Image Generator
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Art Latitude](http://ai-art.latitude.io) | AI Art. | . | :grey_question: |
@@ -192,7 +211,7 @@ No technical skills or software download required.</p>
 | [flair](http://flair.ai/) | The AI Design Tool for Branded Content. | . | :white_check_mark: |
 
 
-### Avatars
+## Avatars
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Profile Pictures](http://www.aiprofilepictures.com) | AI Profile Pictures. | Now available in beta. | :x: |
@@ -228,7 +247,7 @@ No technical skills or software download required.</p>
 | [xpression camera 2.0](http://xpressioncamera.com) | Xpression Camera. | Become anyone on Zoom, Twitch, or any streaming video. | :grey_question: |
 
 
-### Chat Bot
+## Chat Bot
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Askrobi](http://www.askrobi.com) | Power of AI in Whatsapp. | Robi is a powerful AI companion that lives in your contact list and can be talked to through WhatsApp, he can help you write an essay or generate original images!. | :white_check_mark: |
@@ -241,7 +260,7 @@ No technical skills or software download required.</p>
 | [Vacay](https://usevacay.com/chatbot) | Vacation Chat Agent. | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions. | :white_check_mark: |
 
 
-### Code & Database Assistant
+## Code & Database Assistant
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Docstrings](https://trelent.com) | Write Docstrings Automatically. | Trelent uses AI to write helpful docstrings for your functions instantly. | :white_check_mark: |
@@ -271,7 +290,7 @@ No technical skills or software download required.</p>
 | [aidev.codes](https://aidev.codes/) | AI Dev Codes for You. | Create simple apps and demos just by entering specifications — a new type of AI prompt engineering. | :white_check_mark: |
 
 
-### Content Generation & Seo
+## Content Generation & Seo
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [ArticleForge](https://www.articleforge.com/?ref=e99368) | High Quality, AI Content Generator - Article Forge. | Using advanced artificial intelligence and deep learning, Article Forge writes completely unique, SEO optimized, high-quality, long form articles with the click of a button. | :white_check_mark: |
@@ -311,7 +330,7 @@ No technical skills or software download required.</p>
 | [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0) | Instantly Convert Your YouTube Content Into Engaging Blog Articles. | Boost your SEO and brand presence. | :white_check_mark: |
 
 
-### Creators Toolkit
+## Creators Toolkit
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Clipdrop](http://clipdrop.co) | Create Stunning Visuals in Seconds. | The ultimate ecosystem of apps, plugins & resources for all creators, powered by artificial intelligence. | :white_check_mark: |
@@ -324,7 +343,7 @@ No technical skills or software download required.</p>
 | [Runway](http://runwayml.com) | Runway - Next-Generation Creation Suite - Everything You Need to Make Content, Fast. | Discover advanced video editing capabilities to take your creations to the next level. | :white_check_mark: |
 
 
-### Customer Support
+## Customer Support
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Answers by Cohere](http://cohere.io) | Conversational AI Platform for Customer Support - Cohere. | AI-powered support assistance that finds answers from previous tickets. | :grey_question: |
@@ -333,7 +352,7 @@ No technical skills or software download required.</p>
 | [ResolveAI](http://resolveai.co) | Resolveai. | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time. | :grey_question: |
 
 
-### Education & Learning
+## Education & Learning
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Botta](https://askbotta.com/) | Having Trouble With a Topic? Meet Botta. | Your free, personal teaching assistant. Ask questions, get answers. Botta makes online learning a breeze. | :white_check_mark: |
@@ -342,7 +361,7 @@ No technical skills or software download required.</p>
 | [Speakingclubai](http://speakingclubai.com) | Speaking Club AI. | Welcome to Speaking Club AI - the ultimate language learning tool for anyone looking to improve their speaking skills in a foreign language. With Speaking Club AI, you can practice    your conversation skills with a personalized AI language partner anytime, anywhere. | :grey_question: |
 
 
-### Email Assistant
+## Email Assistant
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [DraftLab](http://draftlab.ai) | Draftlab Ai: Write Better Emails Faster With AI. | Fight writer's block and achieve inbox zero. DraftLab is an AI-powered Gmail copilot that generates high-quality email replies for you. | :grey_question: |
@@ -358,14 +377,14 @@ No technical skills or software download required.</p>
 | [superReply](http://superreply.co) | Upgrade Your Email Game. | The Email Response Hack You've Been Waiting For - Easily send effective replies with tailored responses without writing from scratch. | :white_check_mark: |
 
 
-### Fashion
+## Fashion
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [FashionAdvisorAI](http://www.fashionadvisorai.com) | Fashionadvisor.Ai - Ask Questions & Get Answer'S From Fashionadvisor.Ai. | FashionAdvisor is an AI based on GPT3 which will answer all your fashion related questions instantly for free. | :grey_question: |
 | [Visualhound](http://visualhound.com) | Visualhound - Prototype Your Fashion Design Ideas With AI. | Visualize your product designs before going to production. Create realistic-looking product images to feed your moodboards and boost your design process. | :grey_question: |
 
 
-### Fun
+## Fun
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Pokemon generator](http://nokemon.eloie.tech) | Generate Fakemon Using AI. | . | :grey_question: |
@@ -382,7 +401,7 @@ No technical skills or software download required.</p>
 | [TextStyler](http://www.textstyler.org) | Re-Write Anything in Fun Styles, Using AI. | . | :grey_question: |
 
 
-### Gaming
+## Gaming
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Dungeon](http://play.aidungeon.io) | Play and Create AI-Generated Adventures With Infinite Possibilities. | . | :grey_question: |
@@ -396,7 +415,7 @@ No technical skills or software download required.</p>
 | [latitude](https://latitude.io/) | The Future of AI-Generated Games. | We&apos;re making AI a tool of creativity and freedom for everyone. | :grey_question: |
 
 
-### Gift Ideas
+## Gift Ideas
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Holiday Cards](http://aiholiday.cards) | AI Holiday Cards. | AI engine to create AI Holiday photorealistic Cards for couples. | :grey_question: |
@@ -411,7 +430,7 @@ No technical skills or software download required.</p>
 | [Text2present](http://text2present.com) | Text2Present.Com - Creative Presents From Busy People. | Allows you to create creative customized presents using artificial intelligence for your friends, family and acquaintances without taking your precious time. Simply enter a text description of what you want to gift and let our artificial intelligence do the rest. | :grey_question: |
 
 
-### Healthcare
+## Healthcare
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Getactyv](http://getactyv.com) | Getactyv - AI and Computer Vision Assisted Health and Fitness Platform. | . | :grey_question: |
@@ -419,7 +438,7 @@ No technical skills or software download required.</p>
 | [Ubie AI Symptom Checker](http://ubiehealth.com) | Check Symptoms & Find Causes by AI. | Check Symptoms & Find Causes by AI - Answer quiz about your symptoms to find out possible causes, types, severity, and treatment for free by AI. Developed by doctors. | :white_check_mark: |
 
 
-### Human Resources & Resume
+## Human Resources & Resume
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Cover Letter AI](https://coverletterai.app/) | Cover Letter AI. | . | :white_check_mark: |
@@ -433,7 +452,7 @@ No technical skills or software download required.</p>
 | [springworks](http://www.springworks.in) | Hr Software Solutions for Growing Businesses. | Springworks builds human resources software solutions to solve challenges in recruitment, background verification & employee engagement with Blockchain and AI. | :white_check_mark: |
 
 
-### Legal
+## Legal
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [DoNotPay](https://donotpay.com/) | The World'S First Robot Lawyer. | Use AI to make legal information accessible to everyone. | :grey_question: |
@@ -442,7 +461,7 @@ No technical skills or software download required.</p>
 | [Spellbook](https://www.spellbook.legal/) | Draft Contracts 3X Faster With AI. | Spellbook uses GPT-3 to review and suggest language for your contracts, right in Microsoft Word. | :grey_question: |
 
 
-### Logo Generator
+## Logo Generator
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Logo Rank](http://brandmark.io) | Brandmark Logo Maker - The Most Advanced AI Logo Design Tool. | . | :grey_question: |
@@ -451,7 +470,7 @@ No technical skills or software download required.</p>
 | [Text To Book Cover](http://stockimg.ai) | AI Image Generation for Teams - You Can Easily Generate AI Logo, AI Book Covers, AI Posters and More - Stockimg AI. | AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI. | :grey_question: |
 
 
-### Music & Audio Generation
+## Music & Audio Generation
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Adobe Podcast](http://podcast.adobe.com) | Adobe Podcast - AI Audio Recording and Editing, All on the Web. | An audio tool for people with stories to tell. | :grey_question: |
@@ -467,7 +486,7 @@ No technical skills or software download required.</p>
 | [Soundraw](http://soundraw.io) | Stop Searching for the Song You Need. Create It. | Royalty-free music, AI generated for you. | :white_check_mark: |
 
 
-### Organization & Automation
+## Organization & Automation
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [BuildAI](http://www.buildai.space) | Build AI Interfaces in Minutes. | Enter the description of an app that outputs text based on user text input, and we will BUILD IT FOR YOU!. | :grey_question: |
@@ -478,7 +497,7 @@ No technical skills or software download required.</p>
 | [mem](https://get.mem.ai/) | The Self-Organizing Workspace. | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically. | :white_check_mark: |
 
 
-### Photo & Image Editing
+## Photo & Image Editing
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Image Enlarger](http://imglarger.com) | AI Image Enlarger - Enlarge Image Without Losing Quality!. | . | :grey_question: |
@@ -505,7 +524,7 @@ No technical skills or software download required.</p>
 | [paintbytext](https://paintbytext.chat) | Paint by Text. | paintbytext - Edit your photos using written instructions, with the help of an AI. | :white_check_mark: |
 
 
-### Plugins & Extensions
+## Plugins & Extensions
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AIduh](http://aiduh.com) | AI-Responder for Hostaway - AI Duh. | Chrome extension that cuts your writing time by 98% with AI-powered responses. Built by Hosts for Hosts. | :white_check_mark: |
@@ -514,7 +533,7 @@ No technical skills or software download required.</p>
 | [SplashAI](http://www.splashai.art) | Splashai Is a Figma Plugin, Search Engine and AI Image Generator. | . | :grey_question: |
 
 
-### Reviews & Recommendations
+## Reviews & Recommendations
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Review Reply Assistant](http://www.mara-solutions.com) | Respond to Reviews With Your AI Review Reply Assistant. | AI review reply generator: Reply 3x faster to every customer review with individual responses written by your personal AI assistant. No templates are needed. | :grey_question: |
@@ -524,7 +543,7 @@ No technical skills or software download required.</p>
 | [Sona](http://www.readthistwice.com) | Read This Twice - Books Worth Reading Twice. | We spend countless hours scouring the internet for the best book recommendations from people you admire. Our database is constantly growing, and every single recommendation has been verified for authenticity and includes a link to the source. Enjoy!. | :grey_question: |
 
 
-### Sales & Marketing
+## Sales & Marketing
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Altera AI](http://www.altera.ai) | Abetter Way to Sell on Linkedin. | Get more leads and close more deals with Altera, the AI sales assistant that generates hyper personalised comments, inmails and posts on LinkedIn. | :white_check_mark: |
@@ -541,7 +560,7 @@ No technical skills or software download required.</p>
 | [unbounce](http://unbounce.com) | Smart Marketing Tools to Grow Your Business. | Turn more of your visitors into customers. Unbounce is the AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes. | :x: |
 
 
-### Search Engines
+## Search Engines
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Anypod](http://www.anypod.ai) | Search Engines Built for Creators. | We make your content searchable. | :white_check_mark: |
@@ -553,7 +572,7 @@ No technical skills or software download required.</p>
 | [You](http://you.com) | The AI Search Engine You Control. | . | :white_check_mark: |
 
 
-### Slides & Web Design
+## Slides & Web Design
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [ChatBA](https://www.chatba.com/) | Chatbcg: Generative AI for Slides. | Instantly create slide decks using ChatBCG. | :grey_question: |
@@ -564,7 +583,7 @@ No technical skills or software download required.</p>
 | [Tome](http://beta.tome.app) | Generative Storytelling Has Arrived. | Unlock your best work with Tome's AI-powered storytelling format. | :white_check_mark: |
 
 
-### Social Networks & Dating
+## Social Networks & Dating
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI movie Club](http://www.ai-movie.club) | AI-Movie Club. | AI-MOVIE CLUB is a social network that create movies with artificial intelligence!. | :grey_question: |
@@ -578,14 +597,14 @@ No technical skills or software download required.</p>
 | [Tweetspear](http://www.tweetspear.com) | Tweetspear - Boost Your Twitter Engagement. | Revolutionize Your Twitter Engagement with  AI-Powered Suggested Replies . | :grey_question: |
 
 
-### Speech
+## Speech
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Adobe Speech Enhancer](https://podcast.adobe.com/enhance) | Enhance Voice Recordings for Free. | Speech enhancement makes voice recordings sound as if they were recorded in a professional studio. | :white_check_mark: |
 | [Lingostar](http://www.lingostar.ai) | Lingostar - Real Conversations With Artificial Intelligence. | Lingostar is the AI who language learners can speak to in English, Spanish, or French. Reach fluency with REAL spoken conversations for free. No more tutors - chat with the Lingostar A.I. to improve your pronunciation, vocabulary, and comprehension. | :white_check_mark: |
 
 
-### Text
+## Text
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Bookclub](http://www.bookclub.ai) | Bookclub.Ai - Meet Your Next Book. | . | :grey_question: |
@@ -637,7 +656,7 @@ No technical skills or software download required.</p>
 | [coverletter.app](http://coverletter.app) | Custom-Made Cover Letters Ready in Minutes Not Hours - Coverletter.App. | Stand out from the competition and increase your chances of getting hired with personalized cover letters from our advanced AI technology. | :grey_question: |
 
 
-### Text To Speech
+## Text To Speech
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Article.Audio](http://article.audio) | Convert Articles in Audio. | too lazy to read an article? no problem, listen to it! Powered by Thundercontent. | :white_check_mark: |
@@ -654,7 +673,7 @@ No technical skills or software download required.</p>
 | [Wellsaid](http://wellsaidlabs.com) | Convert Text to Voice in Real Time. | With WellSaid, you and your team can create a compelling realistic AI voice over for all your digital content. | :white_check_mark: |
 
 
-### Translation & Transcript
+## Translation & Transcript
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Ava](http://www.ava.me) | Professional & AI-Based Captions for Deaf & Hoh - Ava. | . | :grey_question: |
@@ -670,13 +689,13 @@ No technical skills or software download required.</p>
 | [Voicetapp](http://voicetapp.com) | Voicetapp - Speech to Text Transcription. | Get accurate transcriptions for your AUDIO & VIDEO with the latest speech rocognition technology. | :grey_question: |
 
 
-### Video
+## Video
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Host](https://livereacting.sjv.io/beth0) | Run Interactive Live Streams. | LiveReacting helps you get more followers and engagement by adding pre-recorded videos, games, countdowns, and polls to your stream. | :x: |
 | [Boolpic](http://boolv.tech) | An Intelligent Video Platform That Empowers Brands. | Generate on-brand videos 10X faster with AI to boost marketing performance. | :grey_question: |
 | [D-ID's Creative Reality Studio](https://www.d-id.com/) | Future-Facing Generative AI. | Produce customized videos featuring talking avatars at a touch of a button, giving businesses and creators superpowers. | :white_check_mark: |
-| [Deepfakesweb](http://deepfakesweb.com) | Make Your Own Deepfakes [Online App]. | Our easy to use deepfake app uses AI and Deep Learning to generate amazing face swap videos. Make your own deepfake video today. | :grey_question: |
+| [Deepfakesweb](http://deepfakesweb.com) | Make Your Own Deepfakes. | Our easy to use deepfake app uses AI and Deep Learning to generate amazing face swap videos. Make your own deepfake video today. | :grey_question: |
 | [Elai](http://elai.io) | Create AI Videos From Just Text. | Build customized AI videos with a presenter in minutes without using a camera, studio and a greenscreen. | :white_check_mark: |
 | [FilmForge](http://filmforge.uwu.ai) | Filmforge AI. | Instantly generate engaging videos. Captions, voiceover, transcript, and graphics included. | :grey_question: |
 | [Fliki](http://fliki.ai?via=beth0) | Turn Text Into Videos With AI Voices. | Create videos from scripts or blog posts using realistic voices in 2 minutes!. | :white_check_mark: |
@@ -689,7 +708,7 @@ No technical skills or software download required.</p>
 | [Wzrd.ai](http://wzrd.ai) | Experience Your Sound. | WZRD augments your audio with immersive video powered by artificial intelligence. | :grey_question: |
 
 
-### Writing Assistant
+## Writing Assistant
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Lyrics Generator](http://theselyricsdonotexist.com) | Artificial Intelligence Songwriter – These Lyrics Do Not Exist. | Generate your own song lyrics for any topic, also choose lyrics genre and lyrics mood. | :grey_question: |
@@ -716,7 +735,7 @@ No technical skills or software download required.</p>
 | [Writefull Academizer](http://x.writefull.com) | Writefull X: AI Applied to Academic Writing. | . | :grey_question: |
 
 
-### Other
+## Other
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [1Case](http://1case.io) | Custom Phone Cases Made by AI. | Find your 1 of a kind case in seconds. | :grey_question: |
