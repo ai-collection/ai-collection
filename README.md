@@ -428,6 +428,7 @@ No technical skills or software download required.</p>
 | [Giftastic AI](http://giftastic.ai) | Giftastic.Ai - Perfect Gift for Your Special One!. | Personalised gift ideas for every occasion!. | :grey_question: |
 | [Lovelines](http://lovelines.xyz?ref=ai-collection) | Lovelines.Xyz - Share Your Love With Custom Keepsakes Made by AI. | Create custom keepsakes for a loved one using AI that are optimized for social media. AI-generated poems, stories, letters, and song lyrics. | :x: |
 | [Text2present](http://text2present.com) | Text2Present.Com - Creative Presents From Busy People. | Allows you to create creative customized presents using artificial intelligence for your friends, family and acquaintances without taking your precious time. Simply enter a text description of what you want to gift and let our artificial intelligence do the rest. | :grey_question: |
+| [GiftWizard](https://www.giftwizard.ai) | GiftWizard.ai - AI powered gift inspiration | GiftWizard is your friendly helper from the future, here to guide you through getting the most magical gift. | :white_check_mark: |
 
 
 ## Healthcare
