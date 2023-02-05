@@ -17,7 +17,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=816" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=817" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=35" />
@@ -425,10 +425,10 @@ No technical skills or software download required.</p>
 | [Fabled](http://fabled.ai) | The Ultimate AI Story Generator. | Stories created by you, powered by AI. With a single sentence fabled.ai crafts personal illustrated stories, enriched by stunning images. | :white_check_mark: |
 | [Gift Genie](http://www.giftgenie.ai) | Gift Genie AI - Free Personalized Gift Ideas for Christmas, Birthdays, Holidays, Etc!. | Gift Genie AI is an AI-powered that allows you to find the perfect gift in seconds with AI for free. Jot down a brief description of your recipient, and get a list of gifts our AI genie believes will delight them. | :white_check_mark: |
 | [GiftBot](http://www.getgift.help) | Get Gift Help. | Struggling to figure out what to get someone for the holidays? GiftBot asks you questions to help recommend gift ideas!. | :white_check_mark: |
+| [GiftWizard](https://www.giftwizard.ai) | GiftWizard.ai - AI Powered Gift Inspiration. | GiftWizard is your friendly helper from the future, here to guide you through getting the most magical gift. | :white_check_mark: |
 | [Giftastic AI](http://giftastic.ai) | Giftastic.Ai - Perfect Gift for Your Special One!. | Personalised gift ideas for every occasion!. | :grey_question: |
 | [Lovelines](http://lovelines.xyz?ref=ai-collection) | Lovelines.Xyz - Share Your Love With Custom Keepsakes Made by AI. | Create custom keepsakes for a loved one using AI that are optimized for social media. AI-generated poems, stories, letters, and song lyrics. | :x: |
 | [Text2present](http://text2present.com) | Text2Present.Com - Creative Presents From Busy People. | Allows you to create creative customized presents using artificial intelligence for your friends, family and acquaintances without taking your precious time. Simply enter a text description of what you want to gift and let our artificial intelligence do the rest. | :grey_question: |
-| [GiftWizard](https://www.giftwizard.ai) | GiftWizard.ai - AI powered gift inspiration | GiftWizard is your friendly helper from the future, here to guide you through getting the most magical gift. | :white_check_mark: |
 
 
 ## Healthcare
