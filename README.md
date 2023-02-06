@@ -17,7 +17,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=817" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=819" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=35" />
@@ -256,6 +256,8 @@ No technical skills or software download required.</p>
 | [Chai](http://chai.ml) | Chai - Chat With AI. | Chai is THE destination for compelling conversations with AI. On Chai, you can build and deploy AI chatbots to thousands of users. | :grey_question: |
 | [ChatGPT](http://chat.openai.com) | Apowerful Language Model for Text Generation and Understanding. | . | :white_check_mark: |
 | [Context Search](http://addcontext.xyz) | Context - AI-Powered Audio & Video Chatbots. | . | :grey_question: |
+| [HUMATA](https://www.humata.ai/) | ChatGPT for Your Files. | Learn 100X Faster, Create Reports 100X Faster, Analyze Legal Documents 100X Faster, Understand Technical Papers 100X Faster. Ask Questions & Get Answers About Any File Instantly. | :white_check_mark: |
+| [Keepi](https://www.keepi.ai/) | AI Over WhatsApp. | Access the most advanced AI available today on the go. Keepi will keep you smart and ready with relevant knowledge. | :white_check_mark: |
 | [NOLU](http://noluai.com) | Interacting With AI Should Be Simple. | Meet NOLU. A simple interface for interacting with the Open AI GPT-3 engine. | :white_check_mark: |
 | [Vacay](https://usevacay.com/chatbot) | Vacation Chat Agent. | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions. | :white_check_mark: |
 
