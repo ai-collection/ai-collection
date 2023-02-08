@@ -24,7 +24,7 @@
 | 🕸 [Slides & Web Design](#slides--web-design)                       | 📢 [Speech](#speech)                                      | 📝 [Text](#text)                                          |
 | 📝 [Text To Speech](#text-to-speech)                                | 🇺🇳 [Translation & Transcript](#translation--transcript) | 🎬 [Video](#video)                                        |
 | ✍️ [Writing Assistant](#writing-assistant)                          | 💁 [Other](#other)                                        | 🛫 [Travel](#travel)                                      |
-| 💲 [Finance](#finance)                                              | 🕵️ [Detecting AI](#DetectingAI)                           |                                                           |
+| 💲 [Finance](#finance)                                              | 🕵️ [Detecting AI](#Detecting--AI)                         |                                                           |
 
 ---
 
@@ -213,6 +213,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [Keepi](https://www.keepi.ai/) | AI Over WhatsApp. | Access the most advanced AI available today on the go. Keepi will keep you smart and ready with relevant knowledge. | :white_check_mark: |
 | [NOLU](http://noluai.com) | Interacting With AI Should Be Simple. | Meet NOLU. A simple interface for interacting with the Open AI GPT-3 engine. | :white_check_mark: |
 | [Vacay](https://usevacay.com/chatbot) | Vacation Chat Agent. | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions. | :white_check_mark: |
+| [ChefGPT](https://www.chefgpt.xyz/) | ChefGPT: Never Worry About What's for Dinner Again! | Say goodbye to boring meals, with AI-powered, recipe recommendations, meal plans creation and more... | :white_check_mark: |
 
 
 
@@ -252,7 +253,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [ArticleForge](https://www.articleforge.com/?ref=e99368) | High Quality, AI Content Generator - Article Forge. | Using advanced artificial intelligence and deep learning, Article Forge writes completely unique, SEO optimized, high-quality, long form articles with the click of a button. | :white_check_mark: |
 | [Content brief generator](http://www.dashword.com?via=beth0) | Seo Content Optimization Software - Dashword. | Dashword is the #1 content optimization software for SEO teams. Create relevant content for your readers and grow your organic traffic. | :x: |
 | [Contentedge](http://www.contentedge.com) | Advanced AI Content Generation & Seo Copywriting Software. | Skip the creative burnout and generate high-ranking content in as little as 15 seconds. | :white_check_mark: |
-| [CopyMonkey](http://copymonkey.ai?via=beth0) | Your AI-Powered Amazon Listing Optimization Expert. | CopyMonkey generates and optimizes Amazon listings in seconds. AI helps place all of the important keywords in your Amazon listing to get you ranking organically on the first page. | :white_check_mark: |
+| [CopyMonkey](http://copymonkey.ai) | Your AI-Powered Amazon Listing Optimization Expert. | CopyMonkey generates and optimizes Amazon listings in seconds. AI helps place all of the important keywords in your Amazon listing to get you ranking organically on the first page. | :white_check_mark: |
 | [Creator AI](https://www.creaitor.ai/?ref=beth0) | Let the AI Create for You. | Creaitor will help you write content in a more powerful, emotionally expressive way. | :x: |
 | [Ctrify](http://www.ctrify.com) | First AI-Powered Seo Action Platform. | Create websites that rank on Google by just giving one keyword to our Artificial Intelligence. | :grey_question: |
 | [Embolden](http://embolden.co) | Use AI to Power Your Ecommerce Writing. | Embolden uses AI to help you write everything from emails to product descriptions for your ecommerce business. | :white_check_mark: |
@@ -477,6 +478,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [Colorize](http://colorize.cc) | Colorize Photo Online. | . | :grey_question: |
 | [ExtendImage](http://www.extendimage.ai) | Extendimageai - Extend Your Images With Generative AI. | ExtendImageAI is a tool that allows you to extend your images with generative AI. | :grey_question: |
 | [Hama](http://www.hama.app) | Hama. | Amazing photo eraser. | :grey_question: |
+| [Random Face Generator](https://adityar224.github.io/Random-Face-Generator/#/) | Random Face Generator | Generate face | :white_check_mark: |
 | [ImgCreator](https://www.imgcreator.ai/) | ImgCreator | Creating images with text. Generate text-based images to help you think and create | :white_check_mark: |
 | [Imgupscaler](http://imgupscaler.com) | Smart PNG / JPG Image Upscaler. | Upscale and enhance your image by using the latest AI technology. | :grey_question: |
 | [Magic Eraser](http://magicstudio.com) | Magic Studio - Powered by Ai, Created by You. | Magic Studio helps you automatically edit and create images, using AI. | :grey_question: |
@@ -494,6 +496,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [jpgRM](http://jpgrm.com) | JPGRM - AI Image Magic Cleanup. | Using 2022 cutting edged AI model to remove any unwanted objects from your images, automatically fill the background. | :grey_question: |
 | [jpghd](http://jpghd.com) | JPGHD - Lossless Restoration of Old Photos With AI. | Using 2022 cutting-edge AI models for lossless restoration of old photos (supports old, scratched photo restoration, colorization, and Magic Photo). | :grey_question: |
 | [paintbytext](https://paintbytext.chat) | Paint by Text. | paintbytext - Edit your photos using written instructions, with the help of an AI. | :white_check_mark: |
+| [InstructPix2Pix](https://www.timothybrooks.com/instruct-pix2pix) | We propose a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image. To obtain training data for this problem, we combine the knowledge of two large pretrained models to generate a large dataset of image editing examples. | . | :white_check_mark: |
 
 
 ### Plugins & Extensions
@@ -530,6 +533,9 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [SaleWhale](http://salewhale.chat) | Sale Whale - AI-Powered Sales Rep Chatbot. | We provide impossibly good Sales Rep and Customer Support Chatbots, using the world's best available AI models. Learn how it will improve your business. | :grey_question: |
 | [Speaq.ai](https://www.speaq.ai/) | Ready Made Conversional AI for Your Business. | Our mission is to revolutionize B2B marketing and customer support with artificial intelligence. Effortlessly schedule meetings and verify attendance with AI. Streamline your survey process with AI conversational calls. | :grey_question: |
 | [unbounce](http://unbounce.com) | Smart Marketing Tools to Grow Your Business. | Turn more of your visitors into customers. Unbounce is the AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes. | :x: |
+| [Akkio](https://www.akkio.com/) | Akkio, Modern Business Runs on AI | Use your data to predict the future. Akkio is an easy-to-use, scalable, and affordable no-code AI platform for real-time decision making. | :x: |
+| [Reply](https://reply.io/) | Reply: Get more meetings in a click | Reply is your all-in-one sales engagement platform to create new opportunities at scale while keeping every touchpoint personal | :x: |
+| [Filtpod](https://filtpod.com/engage-ai/) | Filtpod | Empower Introverts, SMB Owners, and BDMs with AI in building relationships on LinkedIn  | :white_check_mark: |
 
 **[⬆ back to index](#index)**
 
@@ -582,6 +588,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 |---|---|---|:---:|
 | [Bookclub](http://www.bookclub.ai) | Bookclub.Ai - Meet Your Next Book. | . | :grey_question: |
 | [ChatGPT Writer](http://chatgptwriter.ai) | . | . | :grey_question: |
+| [Valideo](https://www.valideo.xyz/) | Valideo | Get the best Amazon Product review with ChatGPT | :white_check_mark: |
 | [cover letter kit](http://coverletterkit.com) | cover letter kit - ai-powered custom cover letters in minutes. | write your cover letter and prepare for your interview with help from ai! land your dream job with a professional, custom-made, and effective cover letter kit. | :grey_question: |
 | [Childbook](http://www.childbook.ai) | Welcome to Children'S Book Creator!. | Your book will be personalized with characters, pictures and story. The story and illustrations also have a text-to-speech feature and can be listened to. | :grey_question: |
 | [Cover Letter AI](http://coverletter-ai.com) | Cover Letter AI. | The ultimate tool for crafting the perfect cover letter. | :grey_question: |
@@ -619,8 +626,9 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [SheetGod](http://www.boloforms.com) | Form Approval Workflow Software - Google Forms Add On. | . | :grey_question: |
 | [Spellbox](http://spellbox.app) | Spellbox - AI Programming Assistant. | SpellBox uses artificial intelligence to create the code you need from simple prompts. Solve your toughest programming problems with AI in seconds!. | :grey_question: |
 | [Splitjoin](http://www.splitjoin.com) | Splitjoin. | AI assistant to help you write commit messages faster. | :grey_question: |
+| [SpeedWrite](https://speedwrite.com/) | SpeedWrite |  The automatic text generator. That writes unique text every time. | :white_check_mark: |
 | [Startup Pitch Generator](http://tally.so?ref=beth0) | The Simplest Way to Create Forms. | Create forms for all purposes in seconds.Without knowing how to code. | :white_check_mark: |
-| [Storywizard](http://www.storywizard.ai) | Storywizard.Ai - Create Incredible Children`S Stories in No Time Using AI. | Storywizard uses AI to help you generate astonishing stories for children with vivid images and beautiful plots. | :grey_question: |
+| [Storywizard](http://www.storywizard.ai) | Storywizard.Ai - Create Incredible Children's Stories in No Time Using AI. | Storywizard uses AI to help you generate astonishing stories for children with vivid images and beautiful plots. | :grey_question: |
 | [Sudowrite](http://www.sudowrite.com) | Bust Writer'S Block and Be More Creative With Our Magical Writing AI. | Write your novel or screenplay faster with best AI writing tool according to The New Yorker, NY Times, The Verge, and many more. | :grey_question: |
 | [Talk to AI Human](http://www.talktoaihuman.com) | Talk to AI Human. | . | :grey_question: |
 | [Texti](http://texti.app) | Texti.App. | . | :grey_question: |
@@ -725,6 +733,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [ai profile pictures](http://www.aiprofilepictures.com) | ai profile pictures. | now available in beta. | :grey_question: |
 | [josh](https://www.josh.ai/) | josh | josh is a home’s best friend. and like a dog, josh is intelligent, responsive, and learns his owner’s commands. while other smart home control systems only know one trick, josh combines all aspects of smart homes into one friendly, well-trained responder. josh is your companion, and always happy to see you come home.  | :x: |
 | [ai two](http://aitwo.co/) | aitwo.co - the ai-powered all-in-one design platform. | . | :grey_question: |
+| [ACT-1](https://www.adept.ai/act) | ACT-1 | ACT-1 is a large-scale Transformer trained to use digital tools — among other things, we recently taught it how to use a web browser. | :grey_question: |
 | [ai time machine](http://www.myheritage.ro) | arbore genealogic gratuit, genealogie şi istoric de familie - myheritage. | . | :grey_question: |
 | [ai trip planner](http://www.buildai.space) | build ai. | . | :grey_question: |
 | [ai movie club](http://www.ai-movie.club) | ai-movie club. | ai-movie club is a social network that create movies with artificial intelligence!. | :grey_question: |
@@ -784,7 +793,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [Bertha.ai](http://bertha.ai) | . | . | :grey_question: |
 | [BetterWriter](http://betterwriter.ai) | Write Faster With A.I. Betterwriter.Ai. | . | :grey_question: |
 | [BigJpg](http://bigjpg.com) | Bigjpg - AI Super-Resolution Lossless Image Enlarging / Upscaling Tool Using Deep Convolutional Neural Networks. | Bigjpg - Image Super-Resolution for Anime-style artworks using the Deep Convolutional Neural Networks without quality loss. Photos are also supported. | :grey_question: |
-| [Bito AI](http://bito.co) | Bito. | . | :grey_question: |
+| [Bito AI](http://bito.co) | Bito. | A Swiss Army knife in your IDE that can 10x your dev | :grey_question: |
 | [Blackink](http://blackink.ai) | Create Your Own Unique Flash Tattoo in Seconds. | Stop spending months searching Pinterest for your next tattoo. Generate custom, unique tattoos in seconds with BlackInk's AI, designed to create tattoo-like designs just for you. | :white_check_mark: |
 | [Blimey](http://blimeycreate.com) | Blimey. | Blimey is an ai image generator where you can go from idea to reality in a minute. With full control over composition, colors and style. | :grey_question: |
 | [Bloomoon](http://www.bloomoon.art) | Bloomoon. | Discover unique AI-generated paintings at bloomoon. | :grey_question: |
@@ -1133,11 +1142,11 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [quant-trading](https://github.com/je-suis-tm/quant-trading) | python quantitative trading strategies. |  python quantitative trading strategies including vix calculator, pattern recognition, commodity trading advisor, monte carlo, options straddle, shooting star, london breakout, heikin-ashi, pair trading, rsi, bollinger bands, parabolic sar, dual thrust, awesome, macd  | :white_check_mark: |
 
 
-### DetectingAI
+### Detecting AI
 | name | title | description | offer free version |
 |---|---|---|:---:|
 | [DetectGPT](https://detectgpt.ericmitchell.ai/) | DetectGPT | DetectGPT is a general-purpose method for using a language model to detect its own generations; however, this proof-of-concept only detects if a particular piece of text came from GPT-2.  | :white_check_mark: |
-
+| [GPTZero](https://gptzero.me/) | GPTZero | Humans Deserve the Truth ... Our engineers can also customize endpoints to your needs.  | :white_check_mark: |
 
 
 **[⬆ back to index](#index)**
