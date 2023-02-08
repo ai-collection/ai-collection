@@ -7,13 +7,13 @@
     <i>categorized & updated 08 Feb. 2023 </i>
     <br />
 </div>
----
 
 
 ## Index
 
-| 🏯 [Architecture & Interior Design](#architecture--interior-design) | 🌄 [Art & Image Generator](#art--image-generator)         | 🎚 [Audio Editing](#audio-editing)                        |
+|                                                                     |                                                           |                                                           |
 |---------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
+| 🏯 [Architecture & Interior Design](#architecture--interior-design) | 🌄 [Art & Image Generator](#art--image-generator)         | 🎚[Audio Editing](#audio-editing)                        |
 | 😎 [Avatars](#avatars)                                              | 🤖💬 [Chat Bot](#chat-bot)                                | 💻 [Code & Database Assistant](#code--database-assistant) |
 | 📠 [Content Generation & SEO](#content-generation--seo)             | 🧰 [Creators Toolkit](#creators-toolkit)                  | 👨‍💻 [Customer Support](#customer-support)               |
 | 📧 [Email Assistant](#email-assistant)                              | 👩‍🎤 [Fashion](#fashion)                                 | 🤪 [Fun](#fun)                                            |
