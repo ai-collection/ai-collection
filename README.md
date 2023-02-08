@@ -932,7 +932,6 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [Photoleap](http://www.photoleapapp.com) | Text to Image - Creative & Powerful Photo Editing App by Lightricks. | Use all-in-one photo editor Photoleap for amazing creations on your iPhone: Change backgrounds, remove objects, create collages, apply filters & effects. | :white_check_mark: |
 | [Phraser](http://phraser.tech) | Phraser Â the Collaborative Creative AI Tool. | Phraser is an app that helps you create images using generative AI (Midjourney, Stable Diffusion, and DALLE 2), collaborate, and get inspired. | :grey_question: |
 | [Phygital](http://phygital.plus) | . | . | :grey_question: |
-| [picly](http://www.picly.ai) | picly: ai generated spot the difference. | . | :grey_question: |
 | [pic2prompt](http://magicstudio.com) | magic studio - powered by ai, created by you. | magic studio helps you automatically edit and create images, using ai. | :grey_question: |
 | [podcast.ai](http://podcast.ai) | podcast.ai. | . | :grey_question: |
 | [postwise](http://postwise.ai) | postwise - write, schedule & grow with twitter ai. | write, schedule and grow with the world's smartest ai twitter tool. | :grey_question: |
@@ -1110,7 +1109,6 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [wellsaid](http://wellsaidlabs.com) | . | . | :grey_question: |
 | [whiskey ai](http://beta.whiskeyai.xyz) | . | . | :grey_question: |
 | [wizishop](http://wizishop.com) | wizishop ecommerce solution: create your online store. | 15-day free trial - no credit card needed - access all of our features. | :white_check_mark: |
-| [img2prompt](http://replicate.com) | replicate – run open-source machine learning models with a cloud api. | . | :grey_question: |
 
 **[⬆ back to index](#index)**
 ## travel
