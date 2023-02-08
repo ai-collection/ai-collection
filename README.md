@@ -4,7 +4,7 @@
     <h1>1000 AI collection tools</h1>
     <i>More than 1000 Artificial Intelligence AI-powered tools</i>
     <br />
-    <i>categorized & updated 23 Jan 2023 </i>
+    <i>categorized & updated 08 Feb. 2023 </i>
     <br />
 </div>
 ---
