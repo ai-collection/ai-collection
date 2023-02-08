@@ -24,7 +24,7 @@
 | 🕸 [Slides & Web Design](#slides--web-design)                       | 📢 [Speech](#speech)                                      | 📝 [Text](#text)                                          |
 | 📝 [Text To Speech](#text-to-speech)                                | 🇺🇳 [Translation & Transcript](#translation--transcript) | 🎬 [Video](#video)                                        |
 | ✍️ [Writing Assistant](#writing-assistant)                          | 💁 [Other](#other)                                        | 🛫 [Travel](#travel)                                      |
-| 💲 [Finance](#finance)                                              |                                                           |                                                           |
+| 💲 [Finance](#finance)                                              | 🕵️ [Detecting AI](#DetectingAI)                           |                                                           |
 
 ---
 
@@ -174,7 +174,6 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [Autoportrait](http://autoportrait.co) | Autoportrait - Create AI Portraits. | Browse millions of styles or create your own, generate AI autoportraits. | :grey_question: |
 | [AvatarAI](http://avatarai.me) | Create Your Own Photorealistic AI Avatars. | Choose from 112+ different styles to transform into. | :x: |
 | [Avatarize.club](http://avatarize.club) | Create High Quality AI-Generated Avatars. | Professional Photos, Social Media DPs, Game Avatars, Dating Profile Photos, and more powered by Stable Diffusion 2.1. | :x: |
-| [Character.io](http://characterio.neeltron.repl.co) | Free Tool to Generate Fresh Cartoon Characters. | Generate a random set of characters or avatars with the power of GANs. Press spacebar to generate a new set. | :white_check_mark: |
 | [DreamPic](http://dreampic.ai) | Dreampic.Ai. | AI Generated Pictures Starring You. | :grey_question: |
 | [EpicAvatar](http://epic-avatar.com) | Epic Avatar - AI Profile Picture Generator. | Make your own state-of-the-art AI avatar profile pictures. | :x: |
 | [Face Swapper](http://faceswapper.ai) | Face Swapper Online. | Swap face from photos and videos automatically. Free and unlimited photo swapping. | :white_check_mark: |
@@ -214,6 +213,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [Keepi](https://www.keepi.ai/) | AI Over WhatsApp. | Access the most advanced AI available today on the go. Keepi will keep you smart and ready with relevant knowledge. | :white_check_mark: |
 | [NOLU](http://noluai.com) | Interacting With AI Should Be Simple. | Meet NOLU. A simple interface for interacting with the Open AI GPT-3 engine. | :white_check_mark: |
 | [Vacay](https://usevacay.com/chatbot) | Vacation Chat Agent. | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions. | :white_check_mark: |
+
 
 
 ### Code & Database Assistant
@@ -454,6 +454,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [Quasi Music](https://quasi.market/radio/) | Create Brand-New Beats. | Unleash your inner musician with Quasi's AI-powered music creation tool. Create never-before-heard sounds and remix classic artists with ease. | :white_check_mark: |
 | [Riffusion](http://www.riffusion.com) | Riffusion. | Stable diffusion for real-time music generation. | :white_check_mark: |
 | [Soundraw](http://soundraw.io) | Stop Searching for the Song You Need. Create It. | Royalty-free music, AI generated for you. | :white_check_mark: |
+| [Descript](https://www.descript.com/) | Descript | All-in-one video editing, as easy as a doc. | Descript is the only tool you need to write, record, transcribe, edit, collaborate, and share your videos and podcasts. | :white_check_mark: |
 
 
 ### Organization & Automation
@@ -476,6 +477,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [Colorize](http://colorize.cc) | Colorize Photo Online. | . | :grey_question: |
 | [ExtendImage](http://www.extendimage.ai) | Extendimageai - Extend Your Images With Generative AI. | ExtendImageAI is a tool that allows you to extend your images with generative AI. | :grey_question: |
 | [Hama](http://www.hama.app) | Hama. | Amazing photo eraser. | :grey_question: |
+| [ImgCreator](https://www.imgcreator.ai/) | ImgCreator | Creating images with text. Generate text-based images to help you think and create | :white_check_mark: |
 | [Imgupscaler](http://imgupscaler.com) | Smart PNG / JPG Image Upscaler. | Upscale and enhance your image by using the latest AI technology. | :grey_question: |
 | [Magic Eraser](http://magicstudio.com) | Magic Studio - Powered by Ai, Created by You. | Magic Studio helps you automatically edit and create images, using AI. | :grey_question: |
 | [Palette](http://palette.fm) | Palette - Colorize Photos. | A new AI colorizer. Colorize anything from old black and white photos ð¸, style your artworks ð¨, or give modern images a fresh look ð¶. It's as simple as instagram. | :white_check_mark: |
@@ -682,6 +684,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [Wzrd.ai](http://wzrd.ai) | Experience Your Sound. | WZRD augments your audio with immersive video powered by artificial intelligence. | :grey_question: |
 | [adobe sensei](https://www.adobe.com/sensei/creative-cloud-artificial-intelligence.html) | adobe sensei | you were hired to create, not to spend hours on end searching for stock photos or tagging videos. with adobe sensei taking care of everything from organizing, editing, and producing, you can focus your energy on what you actually love — ideating, experimenting, and creating. | :grey_question: |
 | [nvidia ai demos](https://www.nvidia.com/en-us/research/ai-demos/) | nvidia ai demos | experience ai in action from nvidia research | :grey_question: |
+| [Gen-1](https://research.runwayml.com/gen1) | Gen-1: The Next Step, Forward for Generative AI | Use words and images to generate new videos out of existing ones. | :grey_question: |
 
 
 ### Writing Assistant
@@ -1128,5 +1131,13 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [openai gym](https://github.com/hackthemarket/gym-trading) | openai gym environment for trading | environment for reinforcement-learning algorithmic trading models. | :white_check_mark: |
 | [sgx-full-orderbook-tick-data-trading-strategy](https://github.com/rorysroes/sgx-full-orderbook-tick-data-trading-strategy) | modeling high-frequency limit order book dynamics using machine learning |  providing the solutions for high-frequency trading (hft) strategies using data science approaches (machine learning) on full orderbook tick data. | :white_check_mark: |
 | [quant-trading](https://github.com/je-suis-tm/quant-trading) | python quantitative trading strategies. |  python quantitative trading strategies including vix calculator, pattern recognition, commodity trading advisor, monte carlo, options straddle, shooting star, london breakout, heikin-ashi, pair trading, rsi, bollinger bands, parabolic sar, dual thrust, awesome, macd  | :white_check_mark: |
+
+
+### DetectingAI
+| name | title | description | offer free version |
+|---|---|---|:---:|
+| [DetectGPT](https://detectgpt.ericmitchell.ai/) | DetectGPT | DetectGPT is a general-purpose method for using a language model to detect its own generations; however, this proof-of-concept only detects if a particular piece of text came from GPT-2.  | :white_check_mark: |
+
+
 
 **[⬆ back to index](#index)**
