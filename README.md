@@ -34,22 +34,22 @@
     <a href="LICENSE">License</a>
 </div>
 
-<!-- ---
+---
 
 <div align="center">
     <h2>Promotion</h2>
-    <a href="https://pictory.ai?ref=milana31" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://d2gdx5nv84sdx2.cloudfront.net/uploads/k5cvved3/marketing_asset/banner/10220/blog2shared__1104___736px___5_.png" alt="pictory" border="0"/>
+    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/Looka.jpeg" alt="Lookah" border="0"/>
     </a>
-    <p>This week's awesome AI application promotion is <a href="https://pictory.ai?ref=milana31" target="_blank"><b>Pictory</b></a></p>
-    <h4>Video Creation Made EASY</h4>
-    <p>Automatically create short, highly-sharable branded videos from your long form content.
-
-Quick, easy & cost-effective.
-
-No technical skills or software download required.</p>
-    <a href="https://pictory.ai?ref=milana31" target="_blank"><b>Get Started For Free</b></a>
-</div> -->
+    <p>This week's awesome AI application promotion is <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>Looka</b>
+    </a></p>
+    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank">
+        <img width="200" src="https://looka.com/wp-content/themes/looka/images/logos/looka_logo_black.svg" alt="looka logo">
+    </a>
+    <h4>Design your own beautiful brand</h4>
+    <p>Premium logo designs — generate 100s of custom logos for free, with no account required until you’re ready to purchase </p>
+    <!-- <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>Get Started For Free</b></a> -->
+</div>
 
 ---
 
