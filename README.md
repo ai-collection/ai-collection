@@ -17,7 +17,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=819" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=823" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=35" />
@@ -139,7 +139,7 @@ No technical skills or software download required.</p>
 | [Artbreeder](http://www.artbreeder.com) | Artbreeder. | . | :grey_question: |
 | [Article2Image](http://www.stockai.com) | Free AI-Powered Stock Photos. | Download AI-generated stock photos for free, with the click of a button. Use in any project without worry about attribution. | :white_check_mark: |
 | [Artshop](http://artshops.xyz) | Artshop. | Artshop brings amazing AI artworks to wall arts in your home and create welcoming addition to your beautiful home. | :grey_question: |
-| [Astria.ai](http://www.astria.ai) | Astria - Tailor-Made AI Image Generation. | Create custom images using AI. | :grey_question: |
+| [Astria.ai](http://www.astria.ai) | Astria - Tailor-Made AI Image Generation. | Create custom images using AI. | :x: |
 | [Bg Eraser](http://bgeraser.com) | Bg Eraser - Magic Eraser for Picture Clean Up. | Powerful AI Inpainting and Picture Clean Up technology. Remove unwanted objects and clean up pictures in seconds. | :grey_question: |
 | [CLIP STUDIO PAINT](http://www.clipstudio.net) | は、売上No.1＆利用率No.1*のイラスト、マンガ、アニメーション制作アプリ。みんな使ってるから、憧れの作風も再現できて、ノウハウもたくさん. | は、リアルで自然な描き味と充実の機能、驚くほど便利な素材が多数。世界中のユーザーがアップロードした10万点以上の素材をダウンロードすれば、ラクしてもっとクオリティの高い作品に。. | :grey_question: |
 | [Cartoonize](http://imagetocartoon.com) | Image to Cartoon. | Best AI cartoonizer online for free. | :white_check_mark: |
@@ -161,6 +161,7 @@ No technical skills or software download required.</p>
 | [Facet 2.0](http://facet.ai) | Facet: Image Creation, Reimagined. | Harness the power of AI to make the creative process fast, effective and accessible. Experiment with visual directions, automate selections, and collaborate--all on the web. | :grey_question: |
 | [Flying Dog for Photoshop](http://www.flyingdog.de/sd/) | AI Superpower for Photos​Hop. | Four powerful AI connectors: Three for Stable Diffusion and DALL-E 2. Use your own Stable Diffusion Server. | :grey_question: |
 | [For the Wall](http://forthewall.art) | For the Wall - AI Generated Wall Art - Forthewall.Art. | Create your own unique and personalized art prints with forthewall.art! Our AI-powered platform lets you generate stunning works of art from scratch. Order your one-of-a-kind print today and transform your blank walls into something special. Try it out now at forthewall.art!. | :grey_question: |
+| [Galileo AI](https://www.usegalileo.ai/) | Idea to Design in an Instant, Powered by AI. | Galileo AI creates delightful, editable UI designs from a simple text description. It empowers you to design faster than ever. | :grey_question: |
 | [Generated Photos](http://generated.photos) | Generated Photos - Unique, Worry-Free Model Photos. | . | :grey_question: |
 | [Getimg.ai](http://getimg.ai) | Everything You Need to Create Images With AI - Getimg.Ai. | Magical AI art tools. Generate original images, modify existing ones, expand pictures beyond its original borders, and more. | :grey_question: |
 | [Green Screen AI](http://greenscreenai.com) | Change the Background of Any Image With Ai. | Green Screen AI is a fun & easy way to transform your pics into generative AI art. | :grey_question: |
@@ -250,11 +251,12 @@ No technical skills or software download required.</p>
 ## Chat Bot
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [Askrobi](http://www.askrobi.com) | Power of AI in Whatsapp. | Robi is a powerful AI companion that lives in your contact list and can be talked to through WhatsApp, he can help you write an essay or generate original images!. | :white_check_mark: |
+| [Askrobi](http://www.askrobi.com) | Power of AI in WhatsApp. | Robi is a powerful AI companion that lives in your contact list and can be talked to through WhatsApp, he can help you write an essay or generate original images!. | :white_check_mark: |
 | [BLOONY](http://bloony.ai) | Bloony - AI Chatbot. | Hop on ChatTrip!. | :grey_question: |
 | [BotGPT](https://t.me/BotGPT_bot) | Telegram GPT Bot. | Telegram bot that allows fast and intuitive access to GPT, Saves your history, and available from your phone or desktop. Cool features upcoming. | :white_check_mark: |
 | [Chai](http://chai.ml) | Chai - Chat With AI. | Chai is THE destination for compelling conversations with AI. On Chai, you can build and deploy AI chatbots to thousands of users. | :grey_question: |
 | [ChatGPT](http://chat.openai.com) | Apowerful Language Model for Text Generation and Understanding. | . | :white_check_mark: |
+| [Chatbase](https://www.chatbase.co/) | Build an AI Chatbot Trained on Your Data. | Just upload a pdf and get a link to a GPT based chatbot that can answer any question on it. | :white_check_mark: |
 | [Context Search](http://addcontext.xyz) | Context - AI-Powered Audio & Video Chatbots. | . | :grey_question: |
 | [HUMATA](https://www.humata.ai/) | ChatGPT for Your Files. | Learn 100X Faster, Create Reports 100X Faster, Analyze Legal Documents 100X Faster, Understand Technical Papers 100X Faster. Ask Questions & Get Answers About Any File Instantly. | :white_check_mark: |
 | [Keepi](https://www.keepi.ai/) | AI Over WhatsApp. | Access the most advanced AI available today on the go. Keepi will keep you smart and ready with relevant knowledge. | :white_check_mark: |
@@ -498,6 +500,7 @@ No technical skills or software download required.</p>
 | [Product Launch AI](https://shapenship.com/productlaunchai) | Unleash the Power of AI to Supercharge Your Product Launches. | Blast off to a great launch without worrying about launch copy!. | :grey_question: |
 | [bardeen](https://www.bardeen.ai/ai) | AI Meets Automations. | Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity. | :grey_question: |
 | [mem](https://get.mem.ai/) | The Self-Organizing Workspace. | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically. | :white_check_mark: |
+| [timeMaster](https://www.timemaster.ai/) | Supercharge Your Focus and Productivity. | TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf. | :white_check_mark: |
 
 
 ## Photo & Image Editing
@@ -580,6 +583,7 @@ No technical skills or software download required.</p>
 |---|---|---|:---:|
 | [ChatBA](https://www.chatba.com/) | Chatbcg: Generative AI for Slides. | Instantly create slide decks using ChatBCG. | :grey_question: |
 | [Durable](http://durable.co) | Durable: AI Website Builder and Service Business Software. | . | :grey_question: |
+| [Genius by Diagram](https://www.genius.design/) | Genius - Your AI Design Companion. | . | :grey_question: |
 | [Magician](http://magician.design) | Magician for Figma. | A magical design tool for Figma powered by AI. | :grey_question: |
 | [Piggy](https://piggy.to/magic) | Mobile Content Creator. | Creating stunning content on your phone just got easy. | :white_check_mark: |
 | [SlidesAI](https://www.slidesai.io/) | Create Presentation Slides With AI in Seconds. | Say goodbye to tedious, manual slides creation. Let the AI write the outline and presentation content for you. With our tool, you can easily create professional, engaging slides from any text in no time. | :white_check_mark: |
@@ -625,7 +629,7 @@ No technical skills or software download required.</p>
 | [GPT Hotline](http://www.gpthotline.com) | GPT Hotline. | Connect with the world's smartest AI on WhatsApp. | :grey_question: |
 | [Gandhiji](http://www.messengerx.io) | Messengerx.Io - Chat With AI. | AI Powered Chat Apps for Everyone. | :grey_question: |
 | [GoalsGPT](http://www.tability.io) | Tability - Get Your Goals Out of Spreadsheets. | The easiest way to keep track of your OKRs and team goals. Align your team around outcomes â without feeling like a chore. | :grey_question: |
-| [Goatchat](http://goatchat.ai) | Goatchat AI - Avatar Chatgpt. | Did you ever want to ask Napoleon or Einstein a few questions? Well, now you have a chance. | :grey_question: |
+| [Goatchat](http://goatchat.ai) | Goatchat AI - Avatar ChatGPT. | Did you ever want to ask Napoleon or Einstein a few questions? Well, now you have a chance. | :grey_question: |
 | [Hello History](http://www.hellohistory.ai) | Hello History - Chat With AI Generated Historical Figures. | With the help of modern AI & machine learning weâve brought historical figures back to life. Now is your chance to ask the questions youâve always wanted to ask. | :grey_question: |
 | [Infiniteconversation](http://infiniteconversation.com) | The Infinite Conversation. | An AI generated, never-ending discussion between Werner Herzog and Slavoj Žižek. | :grey_question: |
 | [Jot](http://www.jotapp.tech) | Jot - AI Ad Copy. | Jot automagically generates infinite ad copy variations for you using AI. Streamline your team's copywriting processes with artificial intelligence. Powered by OpenAI GPT-3. | :grey_question: |
@@ -766,7 +770,7 @@ No technical skills or software download required.</p>
 | [Aiappideas](http://www.aiappideas.com) | AI App Ideas. | . | :white_check_mark: |
 | [Aida](http://www.bookmark.com) | Spend Time Running Your Business, Not Your Website. | Let our Ai powered website builder get your business online in minutes. | :white_check_mark: |
 | [Aiva](http://aiva.ai) | Aiva - The AI Composing Emotional Soundtrack Music. | . | :grey_question: |
-| [Albus](https://www.springworks.in/albus/) | Albus - Chatgpt Now on Slack. | Albus uses natural language processing technology to help you find answers to all your questions without leaving Slack. Have the power of ChatGPT now right inside your Workspace!. | :white_check_mark: |
+| [Albus](https://www.springworks.in/albus/) | Albus - ChatGPT Now on Slack. | Albus uses natural language processing technology to help you find answers to all your questions without leaving Slack. Have the power of ChatGPT now right inside your Workspace!. | :white_check_mark: |
 | [Alfred](http://www.alfredsearch.com) | Alfred - GPT Chat on Mobile. | . | :grey_question: |
 | [Amadeus Code](http://amadeuscode.com) | 株式会社Amadeus Code - 公式企業サイト. | 企業情報、採用情報、投資家情報、ニュースなど、Amadeus Codeの企業情報全般を提供する公式企業サイトです。. | :grey_question: |
 | [Amper AI](http://www.ampermusic.com) | AI Music Composition Tools for Content Creators. | Amper is an AI music composition company that develops tools for content creators of all kinds. Learn about our new enterprise platform, Score, as well as our creator API. | :grey_question: |
