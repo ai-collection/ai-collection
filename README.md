@@ -24,7 +24,7 @@
 | 🕸 [Slides & Web Design](#slides--web-design)                       | 📢 [Speech](#speech)                                      | 📝 [Text](#text)                                          |
 | 📝 [Text To Speech](#text-to-speech)                                | 🇺🇳 [Translation & Transcript](#translation--transcript) | 🎬 [Video](#video)                                        |
 | ✍️ [Writing Assistant](#writing-assistant)                          | 💁 [Other](#other)                                        | 🛫 [Travel](#travel)                                      |
-| 💲 [Finance](#finance)                                              | 🕵️ [Detecting AI](#Detecting--AI)                         |                                                           |
+| 💲 [Finance](#finance)                                              | 🕵️ [Detecting AI](#detecting-ai)                         |                                                           |
 
 ---
 
@@ -214,6 +214,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [NOLU](http://noluai.com) | Interacting With AI Should Be Simple. | Meet NOLU. A simple interface for interacting with the Open AI GPT-3 engine. | :white_check_mark: |
 | [Vacay](https://usevacay.com/chatbot) | Vacation Chat Agent. | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions. | :white_check_mark: |
 | [ChefGPT](https://www.chefgpt.xyz/) | ChefGPT: Never Worry About What's for Dinner Again! | Say goodbye to boring meals, with AI-powered, recipe recommendations, meal plans creation and more... | :white_check_mark: |
+| [MindMeld](https://www.mindmeld.com/) | MindMeld | Conversational AI platform for deep-domain voice interfaces and chatbots | :white_check_mark: |
 
 
 
@@ -407,6 +408,8 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [slepp ai](https://sleep.ai/) | slepp ai | diagnose snoring and tooth grinding with your phone. | :grey_question: |
 | [aerial](https://aerial.ai/) | aerial | home activity, movement and identity sensor | :x: |
 | [nanit](https://www.nanit.com/) | nanit | baby monitor that measures sleep and caregiver interactions | :x: |
+| [Sleep.ai](https://sleep.ai/) | Sleep.ai |  Do I Snore or Grind, Diagnose snoring and tooth grinding with your phone. Our Anti-Snore Wearable helps you to stop snoring. | :grey_question: |
+| [Qure.ai](https://qure.ai/) | Qure.ai |  Qure.ai taps deep learning technology to provide automated interpretation of radiology exams like X-rays, CTs and Ultrasounds scans for time and resource-strapped medical imaging professionals—enabling faster diagnosis and speed to treatment. | :grey_question: |
 
 
 ### Human Resources & Resume
@@ -591,6 +594,8 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Bookclub](http://www.bookclub.ai) | Bookclub.Ai - Meet Your Next Book. | . | :grey_question: |
+| [eContext](https://www.econtext.ai/) |  eContext: In real time, eContext classifies any text data | eContext, the world's largest semantic text classification engine, classifies content instantly. Find out how to structure data from any text source. | :white_check_mark: |
+| [Lore Ai](https://www.lore.ai/) | Lore Ai: Intelligent document analysis | Automate collection of company documents, news & unstructured data · Interactive dashboards & visualizations expose relationships & trends · | :grey_question: |
 | [ChatGPT Writer](http://chatgptwriter.ai) | . | . | :grey_question: |
 | [Valideo](https://www.valideo.xyz/) | Valideo | Get the best Amazon Product review with ChatGPT | :white_check_mark: |
 | [cover letter kit](http://coverletterkit.com) | cover letter kit - ai-powered custom cover letters in minutes. | write your cover letter and prepare for your interview with help from ai! land your dream job with a professional, custom-made, and effective cover letter kit. | :grey_question: |
@@ -677,6 +682,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [Taption](http://www.taption.com) | Automatically Generate Transcript, Translation and Subtitles - Taption. | . | :grey_question: |
 | [TranslateVideo](http://www.translate.video) | Translate.Video. | . | :grey_question: |
 | [Voicetapp](http://voicetapp.com) | Voicetapp - Speech to Text Transcription. | Get accurate transcriptions for your AUDIO & VIDEO with the latest speech rocognition technology. | :grey_question: |
+| [Deepgram](https://deepgram.com/) | Voicetapp - Transcribe real-world audio with an API call.  | Unlock conversational intelligence with transcription and context on the world’s best speech AI platform. Easy to integrate, simple to scale. | :white_check_mark: |
 
 
 ### Video
@@ -1076,6 +1082,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [tweethunter](http://tweethunter.io) | tweet hunter - get more twitter followers -â tweets, threads, scheduler, analytics. | get sales, growth and new networks. faster than what you're currently trying. | :grey_question: |
 | [tweetnimage](http://tweetnimage.com) | tweetnimage. | . | :grey_question: |
 | [tweetsift](http://tweetsift.com) | tweetsift. | . | :grey_question: |
+| [Diffbot](https://www.diffbot.com/) | Diffbot | Web Data without Web Scraping, Query a trillion pieces of connected content across the web or extract them on demand with Diffbot. | :x: |
 | [tweetspear](http://www.tweetspear.com) | tweetspear - boost your twitter engagement. | revolutionize your twitter engagement with  ai-powered suggested replies . | :grey_question: |
 | [twelve labs](http://twelvelabs.io) | twelve labs. | . | :grey_question: |
 | [typedroid](http://typedroid.com) | typedroid - free ai text generator. | . | :white_check_mark: |
