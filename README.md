@@ -48,7 +48,7 @@
     </a>
     <h4>Design your own beautiful brand</h4>
     <p>Premium logo designs — generate 100s of custom logos for free, with no account required until you’re ready to purchase </p>
-    <!-- <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>Get Started For Free</b></a> -->
+    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>Get Started</b></a>
 </div>
 
 ---
