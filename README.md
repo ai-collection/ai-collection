@@ -281,11 +281,12 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [WordHero](http://wordhero.co?via=beth0) | Generate AI-Powered Content - In 1 Click. | With WordHero's AI technology, you can create original blog posts, social media content, emails, and more - in just seconds. | :x: |
 | [Wordkraft](http://wordkraft.ai) | Create High-Quality Content Instantly With AI. | Wordkraft AI content writer is a revolutionary tool Powered by GPT-3 the most advance artificial intelligence technology to generate well-written, keyword-optimized content for your blog, website or marketing needs. | :white_check_mark: |
 | [Wordplay](http://wordplay.ai) | Create Long-Form Content in Seconds. | The #1 AI content generator built for SEO & content publishers. | :white_check_mark: |
-| [Writesonic](https://writesonic.com?via=beth0) | Writesonic - Best AI Writer, Copywriting & Paraphrasing Tool. | Create SEO-optimized and plagiarism-free contentfor your blogs, ads, emails, and website 10X faster. | :white_check_mark: |
+| [Writesonic](https://writesonic.com) | Writesonic - Best AI Writer, Copywriting & Paraphrasing Tool. | Create SEO-optimized and plagiarism-free contentfor your blogs, ads, emails, and website 10X faster. | :white_check_mark: |
 | [Writey AI](http://writey.ai) | Yes — An A.I That Writes Original, Researched Blog Posts in Minutes. | First true free plagiarism A.I with original and researched content, check Writey A.I in action. | :white_check_mark: |
 | [unbound](https://www.unboundcontent.ai/auth?affiliate=aff_z0krz31) | Automate Content Creation for Your Small Business. | Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators. | :white_check_mark: |
 | [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0) | Instantly Convert Your YouTube Content Into Engaging Blog Articles. | Boost your SEO and brand presence. | :white_check_mark: |
 | [anyword](https://anyword.com/) | anyword | copywriting ai with predictable results | :x: |
+| [Copysmith](https://copysmith.ai/) | Copysmith | Copysmith’s AI content generator makes product description writing fast, easy and fun – are you ready for your mind to be blown? | :white_check_mark: |
 
 
 ### Creators Toolkit
@@ -467,12 +468,14 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [Product Launch AI](https://shapenship.com/productlaunchai) | Unleash the Power of AI to Supercharge Your Product Launches. | Blast off to a great launch without worrying about launch copy!. | :grey_question: |
 | [bardeen](https://www.bardeen.ai/ai) | AI Meets Automations. | Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity. | :grey_question: |
 | [mem](https://get.mem.ai/) | The Self-Organizing Workspace. | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically. | :white_check_mark: |
+| [Evidently AI](https://www.evidentlyai.com) | We build tools to evaluate, test and monitor machine learning models, so you don't have to.| :white_check_mark: |
 
 
 ### Photo & Image Editing
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Image Enlarger](http://imglarger.com) | AI Image Enlarger - Enlarge Image Without Losing Quality!. | . | :grey_question: |
+| [Kaiber](https://www.kaiber.ai/) | Kaiber | Transform your ideas into the visual stories of your dreams with our state-of-the-art AI generation engine. | :white_check_mark: |
 | [AVC AI](http://avc.ai) | Online AI Image Enhancer That Improves Photo Quality by Upscaling, Denoising, Restoring, Face Refinement, and More. | . | :grey_question: |
 | [Claid.ai](http://claid.ai) | Claid.Ai: Automated Photo Enhancer for Ugc. Web, Mobile & Printing. | AI software to enlarge images with no quality loss, correct colors, increase resolution, retouch product photos and edit UGC automatically. | :grey_question: |
 | [Colorize](http://colorize.cc) | Colorize Photo Online. | . | :grey_question: |
@@ -536,6 +539,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [Akkio](https://www.akkio.com/) | Akkio, Modern Business Runs on AI | Use your data to predict the future. Akkio is an easy-to-use, scalable, and affordable no-code AI platform for real-time decision making. | :x: |
 | [Reply](https://reply.io/) | Reply: Get more meetings in a click | Reply is your all-in-one sales engagement platform to create new opportunities at scale while keeping every touchpoint personal | :x: |
 | [Filtpod](https://filtpod.com/engage-ai/) | Filtpod | Empower Introverts, SMB Owners, and BDMs with AI in building relationships on LinkedIn  | :white_check_mark: |
+| [Howler](https://www.howler.media/) | Howler | Use Howler to run automated PR campaigns to relevant journalists in your niche  | :x: |
 
 **[⬆ back to index](#index)**
 
@@ -637,6 +641,8 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [Your Cover Letter](http://yourcoverletter.com) | AI Cover Letter Builder - Upload Your Resume to Get Started. | Apply for your dream jobs using our AI Cover Letter builder. Add your Resume and the Job Description to generate a Cover Letter in seconds. | :grey_question: |
 | [coverletter.app](http://coverletter.app) | Custom-Made Cover Letters Ready in Minutes Not Hours - Coverletter.App. | Stand out from the competition and increase your chances of getting hired with personalized cover letters from our advanced AI technology. | :grey_question: |
 | [speakingclubai](http://speakingclubai.com) | speaking club ai. | welcome to speaking club ai - the ultimate language learning tool for anyone looking to    improve their speaking skills in a foreign language. with speaking club ai, you can practice    your conversation skills with a personalized ai language partner anytime, anywhere. | :grey_question: |
+| [Snazzy AI](https://snazzy.ai/) | Snazzy AI | The easiest way to create content for your brand with AI copywriting. Let us do the work for you! Free, fast and quality. | :white_check_mark: |
+| [Snazzy AI](https://subtxt.app/) | Subtxt | Subtxt is the always ready, massively intelligent writing partner you've always dreamed of. With its predictive narrative framework & cutting-edge AI technology, Subtxt helps you finish those stories that matter most to you. | :grey_question: |
 
 **[⬆ back to index](#index)**
 
@@ -644,7 +650,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Article.Audio](http://article.audio) | Convert Articles in Audio. | too lazy to read an article? no problem, listen to it! Powered by Thundercontent. | :white_check_mark: |
-| [Eleven](https://beta.elevenlabs.io/) | Prime Voice AI. | The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling. | :white_check_mark: |
+| [ElevenLabs](https://beta.elevenlabs.io/) | ElevenLabs: Prime Voice AI. | The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling. | :white_check_mark: |
 | [Listnr 2.0](https://www.listnr.tech/?gr_pk=V71a&gr_uid=YVDO) | AI Voice Generator - Text to Speech Converter - Listnr. | Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with the best synthetic voices. Instantly convert text in to natural-sounding speech and download in MP3 and WAV formats. | :x: |
 | [Lovo](http://www.lovo.ai) | Lovo AI - Free Text to Speech Online With Natural Voices. | . | :white_check_mark: |
 | [Murf.ai](http://murf.ai) | Go From Text to Speech With a Versatile AI Voice Generator. | AI enabled, real people's voices. Make studio-quality voice overs in minutes. Use Murf&apos;s lifelike AI voices for podcasts, videos, and all your professional presentations. | :white_check_mark: |
@@ -1034,7 +1040,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [SuenaGringo AI](http://suenagringo.com) | Suenagringo. | Escribe inglÃ©s con confianza y rompe las barreras. | :grey_question: |
 | [Suggest Gift](http://suggest.gift) | Suggest Gift - Find Great Gift Suggestions Using Artificial Intelligence. | Artificial Intelligence based tool to help you get amazing gift suggestions for any occasion. | :grey_question: |
 | [Sumly](http://www.sumly.ai) | AI-Generated Podcast Summaries - Sumly.Ai. | . | :grey_question: |
-| [Summarize Tech](http://www.summarize.tech) | Summarize.Tech: AI-Powered Video Summaries. | Get a summary of any long YouTube video, like a lecture, live event or a government meeting. Powered by GPT-3. | :grey_question: |
+| [Summarize Tech](http://www.summarize.tech) | Summarize.Tech: AI-Powered Video Summaries. | Get a summary of any long YouTube video, like a lecture, live event or a government meeting. Powered by GPT-3. | :white_check_mark: |
 | [SummerEyes](http://summereyes.ai) | Summereyes: AI-Powered Summaries in Your Browser. | . | :grey_question: |
 | [Summon](http://www.figma.com) | Figma: The Collaborative Interface Design Tool. | Build better products as a team. Design, prototype, and gather feedback all in one place with Figma. | :grey_question: |
 | [Super Prompt](http://superprompts.com) | Super Prompts. | Create a gallery for your AI art. Next time someone asks to see all your art, you'll have somewhere to point them to. Showcase all your AI art in one place. | :grey_question: |
@@ -1147,6 +1153,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 |---|---|---|:---:|
 | [DetectGPT](https://detectgpt.ericmitchell.ai/) | DetectGPT | DetectGPT is a general-purpose method for using a language model to detect its own generations; however, this proof-of-concept only detects if a particular piece of text came from GPT-2.  | :white_check_mark: |
 | [GPTZero](https://gptzero.me/) | GPTZero | Humans Deserve the Truth ... Our engineers can also customize endpoints to your needs.  | :white_check_mark: |
+| [Originality.AI](https://originality.ai/) | Originality.AI | A Plagiarism Checker and AI Detector Built for Serious Content Publishers  | :x: |
 
 
 **[⬆ back to index](#index)**
