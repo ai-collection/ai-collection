@@ -647,6 +647,7 @@ Translations:
 | [Piggy](https://piggy.to/magic) | Mobile Content Creator. | Creating stunning content on your phone just got easy. | :white_check_mark: |
 | [SlidesAI](https://www.slidesai.io/) | Create Presentation Slides With AI in Seconds. | Say goodbye to tedious, manual slides creation. Let the AI write the outline and presentation content for you. With our tool, you can easily create professional, engaging slides from any text in no time. | :white_check_mark: |
 | [Tome](http://beta.tome.app) | Generative Storytelling Has Arrived. | Unlock your best work with Tome's AI-powered storytelling format. | :white_check_mark: |
+| [Glimmer AI](https://glimmerai.tech) | AI-Powered Presentation Magic. | Glimmer AI uses GPT-3 and DALL-E 2 to make creating professional-quality presentations easy and fast using text or voice commands. | :white_check_mark: |
 
 <!--lint ignore double-link-->
 **[⬆ Back to Index](#index)**
