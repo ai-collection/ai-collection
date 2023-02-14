@@ -3,6 +3,7 @@
 
 <div align="center">
     <img width="150" alt="ai-collection logo" src="https://github.com/ai-collection/ai-collection/blob/main/logo-transparent.png" />
+    <br />
     <i>生成式 AI 景观</i>
     <br />
     <br />
