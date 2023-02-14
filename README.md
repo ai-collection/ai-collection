@@ -37,9 +37,9 @@
 ---
 
 <div align="center">
-    <h2>Promotion</h2>
+    <h5>Promotion</h5>
     <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/Looka.jpeg" alt="Lookah" border="0"/>
+        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/Looka.png" alt="Lookah" border="0"/>
     </a>
     <p>This week's awesome AI application promotion is <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>Looka</b>
     </a></p>
