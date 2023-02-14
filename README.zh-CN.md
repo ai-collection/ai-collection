@@ -3,7 +3,6 @@
 
 <div align="center">
     <img width="150" alt="ai-collection logo" src="https://github.com/ai-collection/ai-collection/blob/main/logo-transparent.png" />
-    <h1>ai-collection</h1>
     <i>生成式 AI 景观</i>
     <br />
     <br />
@@ -17,7 +16,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=823" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=824" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=35" />
@@ -677,6 +676,7 @@
 | [ChatBA](https://www.chatba.com/) | ChatBCG：幻灯片的生成人工智能. | 使用 ChatBCG 即时创建幻灯片. | :grey_question: |
 | [Durable](http://durable.co) | 耐用：AI Website Builder 和服务业务软件. | . | :grey_question: |
 | [Genius by Diagram](https://www.genius.design/) | Genius - 你的 AI 设计伙伴. | . | :grey_question: |
+| [Glimmer AI](https://glimmerai.tech) | 人工智能驱动的演示魔术. | Glimmer AI 使用 GPT-3 和 DALL-E 2 使用文本或语音命令轻松快速地创建专业品质的演示文稿. | :white_check_mark: |
 | [Magician](http://magician.design) | Figma 魔术师. | 由 AI 提供支持的 Figma 神奇设计工具。. | :grey_question: |
 | [Piggy](https://piggy.to/magic) | 移动内容创作者。. | 在您的手机上创建令人惊叹的内容变得简单. | :white_check_mark: |
 | [SlidesAI](https://www.slidesai.io/) | 使用 AI 在几秒钟内创建演示幻灯片. | 告别繁琐的手动幻灯片创建。让 AI 为您编写大纲和演示内容。使用我们的工具，您可以立即从任何文本轻松创建专业、引人入胜的幻灯片。. | :white_check_mark: |

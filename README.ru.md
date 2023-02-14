@@ -3,7 +3,6 @@
 
 <div align="center">
     <img width="150" alt="ai-collection logo" src="https://github.com/ai-collection/ai-collection/blob/main/logo-transparent.png" />
-    <h1>ai-collection</h1>
     <i>ГЕНЕРАТИВНЫЙ ЛАНДШАФТ ИИ</i>
     <br />
     <br />
@@ -17,7 +16,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=823" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=824" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=35" />
@@ -1015,6 +1014,7 @@
 | [ChatBA](https://www.chatba.com/) | ChatBCG: генеративный ИИ для слайдов. | Мгновенно создавайте наборы слайдов с помощью ChatBCG. | :grey_question: |
 | [Durable](http://durable.co) | Долговечность: конструктор веб-сайтов с искусственным интеллектом и сервисное программное обеспечение для бизнеса. | . | :grey_question: |
 | [Genius by Diagram](https://www.genius.design/) | Genius — ваш помощник в разработке ИИ. | . | :grey_question: |
+| [Glimmer AI](https://glimmerai.tech) | Магия презентаций на базе искусственного интеллекта. | Glimmer AI использует GPT-3 и DALL-E 2 для простого и быстрого создания презентаций профессионального качества с помощью текстовых или голосовых команд. | :white_check_mark: |
 | [Magician](http://magician.design) | Фокусник для Фигмы. | Волшебный инструмент дизайна для Figma на базе искусственного интеллекта. | :grey_question: |
 | [Piggy](https://piggy.to/magic) | Создатель мобильного контента. | Создавать потрясающий контент на телефоне стало проще простого. | :white_check_mark: |
 | [SlidesAI](https://www.slidesai.io/) | Создавайте слайды презентации с помощью ИИ за считанные секунды. | Попрощайтесь с утомительным ручным созданием слайдов. Позвольте ИИ написать для вас план и содержание презентации. С помощью нашего инструмента вы можете легко и быстро создавать профессиональные привлекательные слайды из любого текста. | :white_check_mark: |

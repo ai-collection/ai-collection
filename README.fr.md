@@ -3,7 +3,6 @@
 
 <div align="center">
     <img width="150" alt="ai-collection logo" src="https://github.com/ai-collection/ai-collection/blob/main/logo-transparent.png" />
-    <h1>ai-collection</h1>
     <i>LE PAYSAGE DE L'IA GÉNÉRATIVE</i>
     <br />
     <br />
@@ -17,7 +16,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=823" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=824" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=35" />
@@ -649,6 +648,7 @@
 | [ChatBA](https://www.chatba.com/) | ChatBCG : IA générative pour les diapositives. | Créez instantanément des diaporamas à l'aide de ChatBCG. | :grey_question: |
 | [Durable](http://durable.co) | Durable : AI Website Builder et logiciel d'entreprise de services. | . | :grey_question: |
 | [Genius by Diagram](https://www.genius.design/) | Genius - Votre compagnon de conception IA. | . | :grey_question: |
+| [Glimmer AI](https://glimmerai.tech) | Magie de présentation alimentée par l'IA. | Glimmer AI utilise GPT-3 et DALL-E 2 pour créer facilement et rapidement des présentations de qualité professionnelle à l'aide de commandes textuelles ou vocales. | :white_check_mark: |
 | [Magician](http://magician.design) | Magicien pour Figma. | Un outil de conception magique pour Figma alimenté par l'IA. | :grey_question: |
 | [Piggy](https://piggy.to/magic) | Créateur de contenu mobile. | Créer du contenu époustouflant sur votre téléphone est devenu facile. | :white_check_mark: |
 | [SlidesAI](https://www.slidesai.io/) | Créez des diapositives de présentation avec l'IA en quelques secondes. | Dites adieu à la création manuelle fastidieuse de diapositives. Laissez l'IA écrire le plan et le contenu de la présentation pour vous. Avec notre outil, vous pouvez facilement créer des diapositives professionnelles et attrayantes à partir de n'importe quel texte en un rien de temps. | :white_check_mark: |
