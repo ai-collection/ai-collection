@@ -3,6 +3,7 @@
 
 <div align="center">
     <img width="150" alt="ai-collection logo" src="https://github.com/ai-collection/ai-collection/blob/main/logo-transparent.png" />
+    <br />
     <i>THE GENERATIVE AI LANDSCAPE</i>
     <br />
     <br />
@@ -33,7 +34,7 @@
     <a href="LICENSE">License</a>
 </div>
 
---- 
+---
 
 Translations:
 - RU: [README.ru.md](https://github.com/ai-collection/ai-collection/blob/main/README.ru.md)
