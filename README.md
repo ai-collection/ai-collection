@@ -34,7 +34,14 @@
     <a href="LICENSE">License</a>
 </div>
 
-<!-- ---
+--- 
+
+Translations:
+- RU: [README.ru.md](https://github.com/ai-collection/ai-collection/blob/main/README.ru.md)
+- ZH-CN: [README.zh-CN.md](https://github.com/ai-collection/ai-collection/blob/main/README.zh-CN.md)
+- FR: [README.fr.md](https://github.com/ai-collection/ai-collection/blob/main/README.fr.md)
+
+---
 
 <div align="center">
     <h5>Promotion</h5>
@@ -47,7 +54,7 @@
         <img width="200" src="https://looka.com/wp-content/themes/looka/images/logos/looka_logo_black.svg" alt="looka logo">
     </a>
     <h4>Design your own beautiful brand</h4>
-    <p>Premium logo designs — generate 100s of custom logos for free, with no account required until you&#39;re ready to purchase </p>
+    <p>Premium logo designs — generate 100s of custom logos for free, with no account required until you&#39;re ready to purchase</p>
     <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>Get Started</b></a>
 </div>
 
@@ -534,7 +541,7 @@
 ## Organization & Automation
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [BuildAI](http://www.buildai.space) | Build AI Interfaces in Minutes. | Enter the description of an app that outputs text based on user text input, and we will BUILD IT FOR YOU!. | :grey_question: |
+| [BuildAI](https://www.genius.design/) | Build AI Interfaces in Minutes. | Enter the description of an app that outputs text based on user text input, and we will BUILD IT FOR YOU!. | :grey_question: |
 | [Hexowatch](http://hexact.pxf.io/beth0) | Beyond Availability and Prices, 3Rd Party Websites as a Data Source, Visual Website Monitoring, Competitor Tracking. | Hexowatch is your AI sidekick to monitor any website for visual, content, source code, technology, availability, or price changes. | :x: |
 | [KUBIYA](http://kubiya.ai/) | Devops Virtual Assistant. | Provide developers secure, self-serve access to operational workflows, cloud resources and organizational knowledge with conversational AI. | :grey_question: |
 | [Product Launch AI](https://shapenship.com/productlaunchai) | Unleash the Power of AI to Supercharge Your Product Launches. | Blast off to a great launch without worrying about launch copy!. | :grey_question: |
