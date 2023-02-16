@@ -309,6 +309,7 @@ Translations:
 | [Text2SQL](http://www.text2sql.ai/) | Text2Sql.Ai - Generate SQL Queries With AI for Free!. | . | :white_check_mark: |
 | [Whatthediff](http://whatthediff.ai) | What-the-Diff – AI-Powered Code Review Assistant. | The AI powered GitHub app that explains the changes within your pull requests in plain english. | :grey_question: |
 | [aidev.codes](https://aidev.codes/) | AI Dev Codes for You. | Create simple apps and demos just by entering specifications — a new type of AI prompt engineering. | :white_check_mark: |
+| [CodiumAI](http://www.codium.ai/) | CodiumAI - Code Fast. Break Fewer Things. | IDE extension for generation of smart context-aware tests | :white_check_mark: |
 
 <!--lint ignore double-link-->
 **[⬆ Back to Index](#index)**
@@ -1154,7 +1155,6 @@ Translations:
 | [Yepic AI](http://www.yepic.ai) | Your AI Video Toolkit - Create, Dub & Personalise Videos. | Create, Dub and Personalise Videos Anywhere. | :grey_question: |
 | [ai2sql](http://www.ai2sql.io) | SQL Query Builder - SQL Query Builder AI Bot. | With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL. It's time to take back your time!. | :white_check_mark: |
 | [bigmp4](http://bigmp4.com) | AI Video Enhancement, Using 2022 Cutting Edged AI Model to Lossless Enlarge Video, Enhance Video. | . | :grey_question: |
-| [codium](http://www.codium.ai/) | Codium Â¢ Code Fast. Break Fewer Things. | . | :grey_question: |
 | [deck.rocks](https://www.deck.rocks/) | Deck.Rocks: Generate Pitch Decks Using GPT-3. | . | :grey_question: |
 | [micro Dalle-2](http://micropay.ai) | Dalle-2 Image Generator - Micropay. | Anonymous and pay-as-you-go generative AI software. | :grey_question: |
 
