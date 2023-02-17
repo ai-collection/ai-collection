@@ -323,6 +323,7 @@ Translations:
 | [CopyMonkey](http://copymonkey.ai?via=beth0) | Your AI-Powered Amazon Listing Optimization Expert. | CopyMonkey generates and optimizes Amazon listings in seconds. AI helps place all of the important keywords in your Amazon listing to get you ranking organically on the first page. | :white_check_mark: |
 | [Creator AI](https://www.creaitor.ai/?ref=beth0) | Let the AI Create for You. | Creaitor will help you write content in a more powerful, emotionally expressive way. | :x: |
 | [Ctrify](http://www.ctrify.com) | First AI-Powered Seo Action Platform. | Create websites that rank on Google by just giving one keyword to our Artificial Intelligence. | :grey_question: |
+| [Easy-Peasy.AI](https://easy-peasy.ai) | Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant. | Create amazing content 10X faster. AI Images, AI Audio Transcription and Chat with AI buddy Marky. | :white_check_mark: |
 | [Embolden](http://embolden.co) | Use AI to Power Your Ecommerce Writing. | Embolden uses AI to help you write everything from emails to product descriptions for your ecommerce business. | :white_check_mark: |
 | [Enwrite](http://enwrite.co) | The AI Tool That Aims to Help Writers Save Time - Not Replace Them. | An AI helper specialized in SEO-optimized content creation. Enwrite helps you write better content faster. | :white_check_mark: |
 | [Frase.io (first month - 60% discount)](http://www.frase.io/?via=beth0) | Frase - Best Seo Content Optimization Tool & AI Writer. | Frase AI helps you research, write, and optimize high-quality SEO content in minutes instead of hours. | :x: |
@@ -799,7 +800,6 @@ Translations:
 | [AIKIt](http://getaikit.com) | Aikit - Your Wordpress AI Assistant Using GPT-3. | . | :grey_question: |
 | [Bearly Ai](http://bearly.ai) | Save Hundreds of Hours Reading and Writing With the World'S Best AI. | . | :white_check_mark: |
 | [BlogNLP](http://www.blognlp.com) | Blognlp. | An AI-based blog writing tool that can help you craft captivating content quickly and easily, eliminating writer's block and saving you time. | :grey_question: |
-| [Easy-Peasy.AI](http://easy-peasy.ai) | Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant. | Easy-Peasy.AI believes that everyone has a story to tell. With our AI copywriting tools, we help you tell your story in the most engaging way possible. | :grey_question: |
 | [Eilla](http://eilla.ai) | Eilla AI - AI Content Generation Assistant. | . | :grey_question: |
 | [Elephas](https://gumroad.com/a/411783379/ntmtp) | Elephas - Personal AI Writing Assistant for Mac, Iphone, Ipad. | Save hours every day. The world's first AI writer that works across your Mac, iPhone, and iPad. | :white_check_mark: |
 | [EssayBar](http://www.essay.bar) | Essaybar — Revolutionize Your Writing With AI-Crafted Essays!. | . | :grey_question: |
