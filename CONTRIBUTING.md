@@ -26,8 +26,8 @@ Created a branch on your fork with your changes, and [make a pull request][pr-li
 
 ## Pull Request Guidelines
 
-* Verify that the project is not already listed
-* Always add the new project to the end of the category table (it will sorted alphabetically during next job run)
+* Verify that the AI application is not already listed
+* Always add the new application to the end of the category table (it will sorted alphabetically during next job run)
 * Each table column should be padded with one space on either side.
 * The Title should not exceed 120 characters and should not contain the character `|`.
 * The Title will be re-formatted automatically to keep the standard of New York Times Manual of Style.
@@ -36,11 +36,13 @@ Created a branch on your fork with your changes, and [make a pull request][pr-li
   * :white_check_mark: - `:white_check_mark:`
   * :grey_question: - `:grey_question:`
   * :x: - `:x:`
-* Add one ai project per Pull Request.
-* Make sure the PR title is in the format of `Add name` *for e.g.*: `Add Equally.ai`
-* Use a short descriptive commit message. *for example*: `Add Equally.ai project`
-* Please make sure the AI project has a title and description.
+* Add one AI application per Pull Request.
+* For new additions, make sure the PR title is in the format of `Add name` *for e.g.*: `Add Equally.ai`
+* For updates, make sure the PR title is in the format of `Update name` *for e.g.*: `Update Equally.ai`
+* Use a short descriptive commit message. *for example*: `Add Equally.ai`
+* Please make sure the AI application has a title and description.
 * Target your Pull Request to the `main` branch of the `ai-collection`
+* Translations are auto-generated, so no need to add/update in multiple README files.
 
 Once pull request is created, collaborators will review the proposed change and decide whether or not to pull in your changes.
 
