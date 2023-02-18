@@ -513,6 +513,7 @@
 | [CopyMonkey](http://copymonkey.ai?via=beth0) | 您的 AI 驱动的亚马逊列表优化专家. | CopyMonkey 在几秒钟内生成并优化亚马逊列表。 AI 帮助将所有重要的关键词放在您的亚马逊列表中，让您在首页上自然排名. | :white_check_mark: |
 | [Creator AI](https://www.creaitor.ai/?ref=beth0) | 让AI为你创造. | Creaitor 将帮助您以更强大、更能表达情感的方式编写内容. | :x: |
 | [Ctrify](http://www.ctrify.com) | 第一个 AI 驱动的 SEO 操作平台. | 只需为我们的人工智能提供一个关键字，即可创建在 Google 上排名的网站。. | :grey_question: |
+| [Easy-Peasy.AI](https://easy-peasy.ai) | 负担得起的 AI 作家 - Easy-Peasy.AI：AI 内容助手. | 以 10 倍的速度创建精彩内容。 AI 图像、AI 音频转录和与 AI 好友 Marky 聊天. | :white_check_mark: |
 | [Embolden](http://embolden.co) | 使用 AI 为您的电子商务写作提供支持。. | Embolden 使用 AI 帮助您为电子商务业务编写从电子邮件到产品描述的所有内容。. | :white_check_mark: |
 | [Enwrite](http://enwrite.co) | 旨在帮助作家节省时间的人工智能工具——而不是取代他们。. | 专门从事 SEO 优化内容创建的 AI 助手。 Enwrite 帮助您更快地编写更好的内容。. | :white_check_mark: |
 | [Frase.io (first month - 60% discount)](http://www.frase.io/?via=beth0) | Frase - 最佳 SEO 内容优化工具和 AI 作家. | Frase AI 可帮助您在几分钟而不是几小时内研究、编写和优化高质量的 SEO 内容。. | :x: |
@@ -554,7 +555,6 @@
 | [AIKIt](http://getaikit.com) | AIKit - 使用 GPT-3 的 Wordpress AI 助手. | . | :grey_question: |
 | [Bearly Ai](http://bearly.ai) | 使用世界上最好的 AI 节省数百小时的阅读和写作时间. | . | :white_check_mark: |
 | [BlogNLP](http://www.blognlp.com) | 博客NLP. | 基于 AI 的博客写作工具，可以帮助您快速轻松地制作引人入胜的内容，消除写作障碍并节省您的时间. | :grey_question: |
-| [Easy-Peasy.AI](http://easy-peasy.ai) | 负担得起的 AI 作家 - Easy-Peasy.AI：AI 内容助手. | Easy-Peasy.AI 相信每个人都有一个故事要讲。借助我们的 AI 文案写作工具，我们可以帮助您以最引人入胜的方式讲述您的故事。. | :grey_question: |
 | [Eilla](http://eilla.ai) | Eilla AI - 人工智能内容生成助手. | . | :grey_question: |
 | [Elephas](https://gumroad.com/a/411783379/ntmtp) | Elephas - 适用于 Mac、iPhone、iPad 的个人 AI 写作助手. | 每天节省数小时。世界上第一位跨 Mac、iPhone 和 iPad 工作的 AI 作家。. | :white_check_mark: |
 | [EssayBar](http://www.essay.bar) | EssayBar — 用 AI 制作的论文彻底改变您的写作！. | . | :grey_question: |
