@@ -7,7 +7,7 @@ https://img.shields.io/twitter/url?label=share&style=social&url=https://twitter.
 
 https://twitter.com/intent/tweet?url=https%3A%2F%2github.com%2Fai-collection%2Fai-collection&text=Checkout%20this%20AI%20Collection%20of%20Awesome%20Generative%20AI%20Applications!&via=@kerbelp&hashtags=#ai-collection -->
 
-<a target="_blank" href="https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Furl%3Dhttps%253A%252F%252github.com%252Fai-collection%252Fai-collection%26text%3DCheckout%2520this%2520AI%2520Collection%2520of%2520Awesome%2520Generative%2520AI%2520Applications%21%26via%3D%40kerbelp%26hashtags%3D%23ai-collection">
+<a target="_blank" href="https://twitter.com/intent/tweet?url=https%253A%252F%252github.com%252Fai-collection%252Fai-collection%26text%3DCheckout%2520this%2520AI%2520Collection%2520of%2520Awesome%2520Generative%2520AI%2520Applications%21%26via%3D%40kerbelp%26hashtags%3D%23ai-collection">
     <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Share&style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Furl%3Dhttps%253A%252F%252github.com%252Fai-collection%252Fai-collection%26text%3DCheckout%2520this%2520AI%2520Collection%2520of%2520Awesome%2520Generative%2520AI%2520Applications%21%26via%3D%40kerbelp%26hashtags%3D%23ai-collection">
 </a>
 
