@@ -1,8 +1,17 @@
 # AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Share&style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Furl%3Dhttps%253A%252F%252github.com%252Fai-collection%252Fai-collection%26text%3DCheckout%2520this%2520AI%2520Collection%2520of%2520Awesome%2520Generative%2520AI%2520Applications%21%26via%3D%40kerbelp%26hashtags%3D%23ai-collection">
+<!-- [Share on Twitter](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fpublish.twitter.com%2F%3FbuttonText%3DCheck%2520out%2520this%2520awesome%2520list%2520of%2520generative%2520AI%2520applications!%2520&tw_p=tweetbutton&url=https%3A%2F%2Fgithub.com%2Fai-collection%2Fai-collection)
 
-![Twitter URL](https://img.shields.io/twitter/url?label=Share&style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Furl%3Dhttps%253A%252F%252github.com%252Fai-collection%252Fai-collection%26text%3DCheckout%2520this%2520AI%2520Collection%2520of%2520Awesome%2520Generative%2520AI%2520Applications%21%26via%3D%40kerbelp%26hashtags%3D%23ai-collection)
+https://img.shields.io/twitter/url?label=share&style=social&url=https://twitter.com/intent%2Ftweet%3Foriginal_referer%3Dhttps%253A%252F%252Fpublish.twitter.com%252F%253FbuttonText%253DCheck%252520out%252520this%252520awesome%252520list%252520of%252520generative%252520AI%252520applications%21%252520%26tw_p%3Dtweetbutton%26url%3Dhttps%253A%252F%252Fgithub.com%252Fai-collection%252Fai-collection
+
+
+https://twitter.com/intent/tweet?url=https%3A%2F%2github.com%2Fai-collection%2Fai-collection&text=Checkout%20this%20AI%20Collection%20of%20Awesome%20Generative%20AI%20Applications!&via=@kerbelp&hashtags=#ai-collection -->
+
+<a href="https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Furl%3Dhttps%253A%252F%252github.com%252Fai-collection%252Fai-collection%26text%3DCheckout%2520this%2520AI%2520Collection%2520of%2520Awesome%2520Generative%2520AI%2520Applications%21%26via%3D%40kerbelp%26hashtags%3D%23ai-collection">
+    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Share&style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Furl%3Dhttps%253A%252F%252github.com%252Fai-collection%252Fai-collection%26text%3DCheckout%2520this%2520AI%2520Collection%2520of%2520Awesome%2520Generative%2520AI%2520Applications%21%26via%3D%40kerbelp%26hashtags%3D%23ai-collection">
+</a>
+
+![Twitter URL](https://img.shields.io/twitter/url?label=Share&style=social)
 
 ---
 
