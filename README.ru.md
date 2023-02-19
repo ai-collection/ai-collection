@@ -1,4 +1,7 @@
 # AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+<a target="_blank" href="https://twitter.com/intent/tweet?url=https://github.com/ai-collection/ai-collection/blob/main/README.ru.md&text=Ознакомьтесь с этой коллекцией потрясающих приложений для генеративного ИИ!&hashtags=aicollection"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Share&style=social&url=https%3A%2F%2Ftwitter.com"></a> 
+
 ---
 
 <div align="center">
