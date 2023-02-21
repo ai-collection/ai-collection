@@ -38,7 +38,7 @@
 </div>
 
 --- 
-> 您可以复制粘贴网站链接到此工具以查看中文网站 - https://translate.google.com/?sl=en&tl=zh-CN&op=websites
+> 您可以复制粘贴网站链接到此工具以查看中文网站 - [link](https://translate.google.com/?sl=en&tl=zh-CN&op=websites)
 
 ---
 

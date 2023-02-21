@@ -38,7 +38,7 @@
 </div>
 
 --- 
-> Vous pouvez copier coller un lien de site Web vers cet outil afin de visualiser le site Web en français - https://translate.google.com/?sl=en&tl=fr&op=websites
+> Vous pouvez copier coller un lien de site Web vers cet outil afin de visualiser le site Web en français - [link](https://translate.google.com/?sl=en&tl=fr&op=websites)
 
 ---
 
