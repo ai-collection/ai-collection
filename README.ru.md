@@ -38,6 +38,10 @@
 </div>
 
 --- 
+> Вы можете скопировать ссылку на сайт в этот инструмент, чтобы просмотреть сайт на русском языке. - https://translate.google.com/?sl=en&tl=ru&op=websites
+
+---
+
 <div align="center">
     <h5>Повышение</h5>
     <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank" style="outline:none;border:none;">

@@ -38,6 +38,10 @@
 </div>
 
 --- 
+> Vous pouvez copier coller un lien de site Web vers cet outil afin de visualiser le site Web en français - https://translate.google.com/?sl=en&tl=fr&op=websites
+
+---
+
 <div align="center">
     <h5>Promotion</h5>
     <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank" style="outline:none;border:none;">
