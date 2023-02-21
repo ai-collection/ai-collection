@@ -38,6 +38,10 @@
 </div>
 
 --- 
+> 您可以复制粘贴网站链接到此工具以查看中文网站 - https://translate.google.com/?sl=en&tl=zh-CN&op=websites
+
+---
+
 <div align="center">
     <h5>晋升</h5>
     <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank" style="outline:none;border:none;">
