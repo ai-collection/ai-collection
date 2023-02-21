@@ -20,7 +20,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=825" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=827" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=35" />
@@ -1174,6 +1174,7 @@
 |---|---|---|:---:|
 | [Altera AI](http://www.altera.ai) | Une meilleure façon de vendre sur LinkedIn. | Obtenez plus de prospects et concluez plus d'offres avec Altera, l'assistant commercial IA qui génère des commentaires, des e-mails et des publications hyper personnalisés sur LinkedIn. | :white_check_mark: |
 | [Briefly](http://www.trybriefly.com) | Brièvement - La plate-forme de briefing alimentée par l'IA. | Des briefs marketing qui aboutissent au meilleur travail créatif. Améliorez votre efficacité marketing et réduisez le coût des briefs mal rédigés. | :grey_question: |
+| [CastPush](https://castpush.com/) | Diffusion multicanal pilotée par l'IA. | Connectez-vous et diffusez sur tous vos réseaux sociaux en quelques clics grâce à CastPush. Notre technologie magique d'IA optimise votre contenu pour chaque connexion individuelle, garantissant une portée et un engagement maximum. | :white_check_mark: |
 | [Clickable](http://www.clickable.so) | Générez des publicités en quelques secondes avec l'IA. | De belles publicités cohérentes avec la marque et à fort taux de conversion pour tous les canaux marketing. Aucune expérience de conception nécessaire. | :grey_question: |
 | [Copy.ai](http://www.copy.ai?via=beth0) | Rédigez de meilleurs textes et contenus marketing avec l'IA. | Dites au revoir&apos; à la page blanche pour de bon. | :white_check_mark: |
 | [Cuetap.com](https://cuetap.com/) | Battlecards de vente optimisées par l'IA et l'IC. | La plate-forme alimentée par l'IA fournit des Battlecards automagiques et une intelligence compétitive exploitable. | :white_check_mark: |
@@ -1221,6 +1222,7 @@
 | [Lorro](https://lorro.io/) | Devenez un anglophone courant pour une fraction du coût. En discutant avec un tuteur en IA. | . | :x: |
 | [Replicate](http://replicate.com) | L'apprentissage automatique n'a pas besoin d'être si difficile. | Exécutez des modèles open source avec une API cloud. | :white_check_mark: |
 | [Speakingclubai](http://speakingclubai.com) | Parler Club IA. | Bienvenue au Speaking Club AI - l'outil ultime d'apprentissage des langues pour tous ceux qui cherchent à améliorer leurs compétences orales dans une langue étrangère. Avec Speaking Club AI, vous pouvez pratiquer vos compétences de conversation avec un partenaire linguistique AI personnalisé à tout moment, n'importe où. | :grey_question: |
+| [teachertoolkit.ai](https://teachertoolkit.ai/) | Une collection d'outils pour les enseignants et les éducateurs pour exploiter la puissance de l'IA dans leur pédagogie et leur planification. | Planifiez des leçons - Exploitez l'IA pour rédiger vos leçons et les exporter vers vos formats préférés. Construire des évaluations riches - Construire des évaluations riches avec des critères de notation robustes basés sur des rubriques. Et plus. | :white_check_mark: |
 
 <!--End of Éducation et apprentissage-->
 

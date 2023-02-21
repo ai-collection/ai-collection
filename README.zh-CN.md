@@ -20,7 +20,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=825" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=827" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=35" />
@@ -780,6 +780,7 @@
 | [Lorro](https://lorro.io/) | 花很少的钱就能说一口流利的英语。通过与 AI 导师交谈. | . | :x: |
 | [Replicate](http://replicate.com) | 机器学习不需要那么难。. | 使用云 API 运行开源模型。. | :white_check_mark: |
 | [Speakingclubai](http://speakingclubai.com) | 口语俱乐部AI. | 欢迎来到 Speaking Club AI - 终极语言学习工具，适用于任何希望提高外语口语技能的人。借助Speaking Club AI，您可以随时随地与个性化的AI语伴练习会话技巧。. | :grey_question: |
+| [teachertoolkit.ai](https://teachertoolkit.ai/) | 一系列工具供教师和教育工作者在其教学和规划中利用 AI 的力量。. | 计划课程 - 利用 AI 起草您的课程并导出为您喜欢的格式。构建丰富的评估 - 使用强大的评分标准驱动的评分标准构建丰富的评估。和更多。. | :white_check_mark: |
 
 <!--End of 教育与学习-->
 
@@ -1190,6 +1191,7 @@
 |---|---|---|:---:|
 | [Altera AI](http://www.altera.ai) | 在 LinkedIn 上销售的更好方式. | 通过 Altera 获得更多潜在客户并完成更多交易，Altera 是 AI 销售助理，可在 LinkedIn 上生成高度个性化的评论、电子邮件和帖子。. | :white_check_mark: |
 | [Briefly](http://www.trybriefly.com) | Briefly - 人工智能驱动的简报平台. | 获得最佳创意作品的营销简报。提高您的营销效率并减少写得不好的简报的成本。. | :grey_question: |
+| [CastPush](https://castpush.com/) | 人工智能驱动的多频道广播. | 使用 CastPush 只需点击几下即可连接并广播到您的所有社交媒体频道。我们神奇的 AI 技术针对每个单独的连接优化您的内容，确保最大的覆盖面和参与度。. | :white_check_mark: |
 | [Clickable](http://www.clickable.so) | 使用 AI 在几秒钟内生成广告. | 适用于所有营销渠道的美观、品牌一致且转化率高的广告。无需设计经验。. | :grey_question: |
 | [Copy.ai](http://www.copy.ai?via=beth0) | 使用 AI 撰写更好的营销文案和内容. | 说再见'永远到空白页. | :white_check_mark: |
 | [Cuetap.com](https://cuetap.com/) | AI 和 CI 助力销售战卡. | AI 驱动的平台提供自动魔法战卡和可操作的竞争情报。. | :white_check_mark: |
