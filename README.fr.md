@@ -44,10 +44,6 @@
 
 <div align="center">
     <h5>Promotion</h5>
-    <a href="https://www.highcpmrevenuenetwork.com/h3a7wg19?key=0ae048e3ea42167534f249d8684c0667" style="outline:none;border:none;">
-        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/AliExpressBanner.jpeg" alt="AliExpress" border="0"/>
-    </a>
-    <br /><br />
     <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/Looka.png" alt="Lookah" border="0"/>
     </a>
