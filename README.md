@@ -40,9 +40,10 @@
 --- 
 
 Translations:
-- Russian: [README.ru.md](https://github.com/ai-collection/ai-collection/blob/main/README.ru.md)
-- Chinese (Simplified): [README.zh-CN.md](https://github.com/ai-collection/ai-collection/blob/main/README.zh-CN.md)
-- French: [README.fr.md](https://github.com/ai-collection/ai-collection/blob/main/README.fr.md)
+- Русский: [README.ru.md](https://github.com/ai-collection/ai-collection/blob/main/README.ru.md)
+- Chinese (Simplified) 简体中文）: [README.zh-CN.md](https://github.com/ai-collection/ai-collection/blob/main/README.zh-CN.md)
+- Français: [README.fr.md](https://github.com/ai-collection/ai-collection/blob/main/README.fr.md)
+- español: [README.es.md](https://github.com/ai-collection/ai-collection/blob/main/README.es.md)
 
 ---
 
