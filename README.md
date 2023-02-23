@@ -400,6 +400,7 @@ Translations:
 | [EddyAI](http://eddyai.com) | Sell and Support Your Customers Automatically 24/7. | Increase Sales and Reduce Support Costs. | :white_check_mark: |
 | [OneTone.ai](https://onetone.ai) | We Help Support Teams Communicate Faster and More Accurate. | OneTone.ai is an AI-powered platform that gives you valuable insights, allowing you to make informed decisions and deliver top-notch customer service. | :white_check_mark: |
 | [ResolveAI](http://resolveai.co) | Resolveai. | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time. | :grey_question: |
+| [OneTone.ai](https://onetone.ai) | OneTone.ai | OneTone.ai is an AI-powered platform that gives you valuable insights, allowing you to make informed decisions and deliver top-notch customer service. | :grey_question: |
 
 <!--End of Customer Support-->
 
