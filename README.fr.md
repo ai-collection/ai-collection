@@ -20,7 +20,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=827" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=829" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=35" />
@@ -821,7 +821,7 @@
 | [CopyMonkey](http://copymonkey.ai?via=beth0) | Votre expert en optimisation des listes Amazon alimenté par l'IA. | CopyMonkey génère et optimise les listes Amazon en quelques secondes. L'IA aide à placer tous les mots-clés importants dans votre liste Amazon pour vous classer de manière organique sur la première page. | :white_check_mark: |
 | [Creator AI](https://www.creaitor.ai/?ref=beth0) | Laissez l'IA créer pour vous. | Creaitor vous aidera à écrire du contenu d'une manière plus puissante et émotionnellement expressive. | :x: |
 | [Ctrify](http://www.ctrify.com) | Première plateforme d'action SEO alimentée par l'IA. | Créez des sites Web qui se classent sur Google en donnant simplement un mot-clé à notre Intelligence Artificielle. | :grey_question: |
-| [Easy-Peasy.AI](https://easy-peasy.ai/) | Rédacteur IA abordable - Easy-Peasy.Ai : l'assistant de contenu IA. | Créez du contenu incroyable 10 fois plus rapidement. Images IA, transcription audio IA et chat avec l'ami IA Marky. | :white_check_mark: |
+| [Easy-Peasy.AI](https://easy-peasy.ai/?via=beth0) | Rédacteur IA abordable - Easy-Peasy.Ai : l'assistant de contenu IA. | Créez du contenu incroyable 10 fois plus rapidement. Images IA, transcription audio IA et chat avec l'ami IA Marky. | :white_check_mark: |
 | [Embolden](http://embolden.co) | Utilisez l'IA pour alimenter votre écriture de commerce électronique. | Embolden utilise l'IA pour vous aider à tout écrire, des e-mails aux descriptions de produits pour votre entreprise de commerce électronique. | :white_check_mark: |
 | [Enwrite](http://enwrite.co) | L'outil d'intelligence artificielle qui vise à aider les rédacteurs à gagner du temps - et non à les remplacer. | Un assistant IA spécialisé dans la création de contenu optimisé pour le référencement. Enwrite vous aide à écrire un meilleur contenu plus rapidement. | :white_check_mark: |
 | [Frase.io (first month - 60% discount)](http://www.frase.io/?via=beth0) | Frase - Meilleur outil d'optimisation de contenu SEO et rédacteur IA. | Frase AI vous aide à rechercher, écrire et optimiser un contenu SEO de haute qualité en quelques minutes au lieu d'heures. | :x: |
@@ -1057,6 +1057,7 @@
 | [AI Answers by Cohere](http://cohere.io) | Plateforme d'IA conversationnelle pour le support client - Cohere. | Assistance d'assistance alimentée par l'IA qui trouve les réponses des tickets précédents. | :grey_question: |
 | [Bahasa](http://www.bahasa.ai) | Bahasa.ai - Chatbot qui sert pleinement les clients. | Une automatisation qui aide votre entreprise à servir rapidement des millions de clients satisfaits, alimentée par une IA spécialement conçue pour Bahasa Indonesia. | :grey_question: |
 | [EddyAI](http://eddyai.com) | Vendez et assistez vos clients automatiquement 24h/24 et 7j/7. | Augmentez les ventes et réduisez les coûts de support. | :white_check_mark: |
+| [OneTone.ai](https://onetone.ai) | Nous aidons les équipes d'assistance à communiquer plus rapidement et avec plus de précision. | OneTone.ai est une plate-forme alimentée par l'IA qui vous donne des informations précieuses, vous permettant de prendre des décisions éclairées et d'offrir un service client de premier ordre. | :white_check_mark: |
 | [ResolveAI](http://resolveai.co) | RésoudreAI. | Nos chatbots IA sont conçus pour comprendre les problèmes des clients et fournir des réponses personnalisées et précises en temps réel. | :grey_question: |
 
 <!--End of Service client-->
@@ -1110,6 +1111,7 @@
 | [Politepost](http://www.politepost.net) | Réécrire vos emails avec l'IA pour être professionnel. | Assurez-vous que vos e-mails sont professionnels et adaptés au lieu de travail. Rédigez votre brouillon avec tout votre argot et vos jurons, et notre robot IA réécrira et nettoiera le texte. | :grey_question: |
 | [Promptmakr](http://promptmakr.com) | La plate-forme permettant aux ingénieurs de Prompt de générer et de partager gratuitement des invites d'art d'IA illimitées. | . | :white_check_mark: |
 | [Proposalgenie](http://www.proposalgenie.ai) | Génie de la proposition. | Rédigez la proposition Perfect Upwork en quelques secondes. | :grey_question: |
+| [Rephrasee.com](https://rephrasee.com) | Rephrasee.com – Reformulez, traduisez et relisez facilement. | Cet outil utilise l'intelligence artificielle pour vous aider à reformuler, traduire et relire. Obtenez une aide de la plus haute qualité avec votre contenu écrit, rapidement et avec précision grâce à la technologie alimentée par l'IA. | :white_check_mark: |
 | [ReplAI](http://repl-ai.com) | ReplAI - Répondez rapidement avec l'IA. | . | :grey_question: |
 | [Scarlettpanda](http://www.scarlettpanda.com) | Scarlett Panda - Histoires courtes personnalisées pour l'heure du coucher. | Scarlett Panda - utilisez notre magie pour générer des histoires personnalisées mettant en vedette vos amis et votre famille. | :grey_question: |
 | [Scholarcy](http://www.scholarcy.com) | Outil de synthèse en ligne - Générateur et synthétiseur de cartes mémoire - Scholarcy. | Scholarcy™ est un outil de synthèse en ligne qui génère et convertit de longs articles en fiches récapitulatives. Inscrivez-vous gratuitement et commencez à résumer. | :white_check_mark: |

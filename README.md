@@ -20,7 +20,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=827" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=829" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=35" />
@@ -339,7 +339,7 @@ Translations:
 | [CopyMonkey](http://copymonkey.ai?via=beth0) | Your AI-Powered Amazon Listing Optimization Expert. | CopyMonkey generates and optimizes Amazon listings in seconds. AI helps place all of the important keywords in your Amazon listing to get you ranking organically on the first page. | :white_check_mark: |
 | [Creator AI](https://www.creaitor.ai/?ref=beth0) | Let the AI Create for You. | Creaitor will help you write content in a more powerful, emotionally expressive way. | :x: |
 | [Ctrify](http://www.ctrify.com) | First AI-Powered Seo Action Platform. | Create websites that rank on Google by just giving one keyword to our Artificial Intelligence. | :grey_question: |
-| [Easy-Peasy.AI](https://easy-peasy.ai/) | Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant. | Create amazing content 10X faster. AI Images, AI Audio Transcription and Chat with AI buddy Marky. | :white_check_mark: |
+| [Easy-Peasy.AI](https://easy-peasy.ai/?via=beth0) | Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant. | Create amazing content 10X faster. AI Images, AI Audio Transcription and Chat with AI buddy Marky. | :white_check_mark: |
 | [Embolden](http://embolden.co) | Use AI to Power Your Ecommerce Writing. | Embolden uses AI to help you write everything from emails to product descriptions for your ecommerce business. | :white_check_mark: |
 | [Enwrite](http://enwrite.co) | The AI Tool That Aims to Help Writers Save Time - Not Replace Them. | An AI helper specialized in SEO-optimized content creation. Enwrite helps you write better content faster. | :white_check_mark: |
 | [Frase.io (first month - 60% discount)](http://www.frase.io/?via=beth0) | Frase - Best Seo Content Optimization Tool & AI Writer. | Frase AI helps you research, write, and optimize high-quality SEO content in minutes instead of hours. | :x: |
@@ -398,6 +398,7 @@ Translations:
 | [AI Answers by Cohere](http://cohere.io) | Conversational AI Platform for Customer Support - Cohere. | AI-powered support assistance that finds answers from previous tickets. | :grey_question: |
 | [Bahasa](http://www.bahasa.ai) | Bahasa.Ai - Chatbot Which Serves Customers Fully. | Automation that helps your business serves millions of happy customers fastlyâpowered by AI specially built for Bahasa Indonesia. | :grey_question: |
 | [EddyAI](http://eddyai.com) | Sell and Support Your Customers Automatically 24/7. | Increase Sales and Reduce Support Costs. | :white_check_mark: |
+| [OneTone.ai](https://onetone.ai) | We Help Support Teams Communicate Faster and More Accurate. | OneTone.ai is an AI-powered platform that gives you valuable insights, allowing you to make informed decisions and deliver top-notch customer service. | :white_check_mark: |
 | [ResolveAI](http://resolveai.co) | Resolveai. | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time. | :grey_question: |
 
 <!--End of Customer Support-->
@@ -778,6 +779,7 @@ Translations:
 | [Politepost](http://www.politepost.net) | Rewriting Your Emails With AI to Be Professional. | Make sure your emails are professional and suitable for the workplace. Write your draft with all your slang and expletives, and our AI bot will rewrite and clean up the text. | :grey_question: |
 | [Promptmakr](http://promptmakr.com) | The Platform for Prompt Engineers to Generate and Share Unlimited AI Art Prompts for Free. | . | :white_check_mark: |
 | [Proposalgenie](http://www.proposalgenie.ai) | Proposal Genie. | Write the Perfect Upwork proposal in seconds. | :grey_question: |
+| [Rephrasee.com](https://rephrasee.com) | Rephrasee.com – Easily Rephrase, Translate and Proofread. | This tool utilizes Artificial Intelligence to help you with rephrasing, translating, and proofreading. Get the highest quality help with your written content, quickly and accurately with AI-powered technology. | :white_check_mark: |
 | [ReplAI](http://repl-ai.com) | Replai - Reply Quickly With AI. | . | :grey_question: |
 | [Scarlettpanda](http://www.scarlettpanda.com) | Scarlett Panda - Customized Short Bedtime Stories. | Scarlett Panda - use our magic to generate customized bedtime stories featuring your friends and family. | :grey_question: |
 | [Scholarcy](http://www.scholarcy.com) | Online Summarizing Tool - Flashcard Generator & Summarizer - Scholarcy. | Scholarcy™ is an online summarizing tool that generates and converts long articles into summary flashcards. Sign up free & start summarizing. | :white_check_mark: |
