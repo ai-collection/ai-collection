@@ -20,7 +20,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=827" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=829" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=35" />
@@ -528,7 +528,7 @@
 | [CopyMonkey](http://copymonkey.ai?via=beth0) | 您的 AI 驱动的亚马逊列表优化专家. | CopyMonkey 在几秒钟内生成并优化亚马逊列表。 AI 帮助将所有重要的关键词放在您的亚马逊列表中，让您在首页上自然排名. | :white_check_mark: |
 | [Creator AI](https://www.creaitor.ai/?ref=beth0) | 让AI为你创造. | Creaitor 将帮助您以更强大、更能表达情感的方式编写内容. | :x: |
 | [Ctrify](http://www.ctrify.com) | 第一个 AI 驱动的 SEO 操作平台. | 只需为我们的人工智能提供一个关键字，即可创建在 Google 上排名的网站。. | :grey_question: |
-| [Easy-Peasy.AI](https://easy-peasy.ai/) | 负担得起的 AI 作家 - Easy-Peasy.Ai：AI 内容助手. | 以 10 倍的速度创建精彩内容。 AI 图像、AI 音频转录和与 AI 好友 Marky 聊天。. | :white_check_mark: |
+| [Easy-Peasy.AI](https://easy-peasy.ai/?via=beth0) | 负担得起的 AI 作家 - Easy-Peasy.Ai：AI 内容助手. | 以 10 倍的速度创建精彩内容。 AI 图像、AI 音频转录和与 AI 好友 Marky 聊天。. | :white_check_mark: |
 | [Embolden](http://embolden.co) | 使用 AI 为您的电子商务写作提供支持。. | Embolden 使用 AI 帮助您为电子商务业务编写从电子邮件到产品描述的所有内容。. | :white_check_mark: |
 | [Enwrite](http://enwrite.co) | 旨在帮助作家节省时间的人工智能工具——而不是取代他们。. | 专门从事 SEO 优化内容创建的 AI 助手。 Enwrite 帮助您更快地编写更好的内容。. | :white_check_mark: |
 | [Frase.io (first month - 60% discount)](http://www.frase.io/?via=beth0) | Frase - 最佳 SEO 内容优化工具和 AI 作家. | Frase AI 可帮助您在几分钟而不是几小时内研究、编写和优化高质量的 SEO 内容。. | :x: |
@@ -695,6 +695,7 @@
 | [AI Answers by Cohere](http://cohere.io) | 用于客户支持的对话式 AI 平台 - Cohere. | AI 驱动的支持帮助，可从以前的工单中找到答案. | :grey_question: |
 | [Bahasa](http://www.bahasa.ai) | Bahasa.ai - 全面服务客户的聊天机器人. | 自动化可帮助您的企业快速为数百万满意的客户提供服务——由专为印度尼西亚语构建的 AI 提供支持。. | :grey_question: |
 | [EddyAI](http://eddyai.com) | 24/7 自动销售和支持您的客户. | 增加销售额并降低支持成本. | :white_check_mark: |
+| [OneTone.ai](https://onetone.ai) | 我们帮助支持团队更快、更准确地沟通. | OneTone.ai 是一个人工智能平台，可为您提供宝贵的见解，让您做出明智的决策并提供一流的客户服务。. | :white_check_mark: |
 | [ResolveAI](http://resolveai.co) | 解决AI. | 我们的 AI 聊天机器人旨在了解客户问题并实时提供量身定制的准确响应。. | :grey_question: |
 
 <!--End of 客户支持-->
@@ -846,6 +847,7 @@
 | [Politepost](http://www.politepost.net) | 用 AI 重写您的电子邮件以变得专业. | 确保您的电子邮件专业且适合工作场所。用你所有的俚语和咒骂写你的草稿，我们的人工智能机器人将重写和清理文本. | :grey_question: |
 | [Promptmakr](http://promptmakr.com) | 提示工程师免费生成和共享无限AI艺术提示的平台. | . | :white_check_mark: |
 | [Proposalgenie](http://www.proposalgenie.ai) | 求婚精灵. | 在几秒钟内写出 Perfect Upwork 提案. | :grey_question: |
+| [Rephrasee.com](https://rephrasee.com) | Rephrasee.com – 轻松改写、翻译和校对. | 该工具利用人工智能帮助您改写、翻译和校对。借助 AI 驱动的技术，快速准确地为您的书面内容获得最高质量的帮助. | :white_check_mark: |
 | [ReplAI](http://repl-ai.com) | ReplAI - 使用 AI 快速回复. | . | :grey_question: |
 | [Scarlettpanda](http://www.scarlettpanda.com) | Scarlett Panda - 定制短睡前故事. | Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡前故事。. | :grey_question: |
 | [Scholarcy](http://www.scholarcy.com) | 在线总结工具 - Flashcard Generator & Summarizer - Scholarcy. | Scholarcy™ 是一种在线摘要工具，可生成长篇文章并将其转换为摘要抽认卡。免费注册并开始总结. | :white_check_mark: |
