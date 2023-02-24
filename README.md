@@ -400,7 +400,6 @@ Translations:
 | [EddyAI](http://eddyai.com) | Sell and Support Your Customers Automatically 24/7. | Increase Sales and Reduce Support Costs. | :white_check_mark: |
 | [OneTone.ai](https://onetone.ai) | We Help Support Teams Communicate Faster and More Accurate. | OneTone.ai is an AI-powered platform that gives you valuable insights, allowing you to make informed decisions and deliver top-notch customer service. | :white_check_mark: |
 | [ResolveAI](http://resolveai.co) | Resolveai. | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time. | :grey_question: |
-| [OneTone.ai](https://onetone.ai) | OneTone.ai | OneTone.ai is an AI-powered platform that gives you valuable insights, allowing you to make informed decisions and deliver top-notch customer service. | :grey_question: |
 
 <!--End of Customer Support-->
 
@@ -797,7 +796,6 @@ Translations:
 | [Writemeacoverletter](http://writemeacoverletter.com) | Write Me a Cover Letter. | Generate a cover letter in seconds using AI. Just upload your CV, share a link to the job you want, and we'll do the rest. | :grey_question: |
 | [Your Cover Letter](http://yourcoverletter.com) | AI Cover Letter Builder - Upload Your Resume to Get Started. | Apply for your dream jobs using our AI Cover Letter builder. Add your Resume and the Job Description to generate a Cover Letter in seconds. | :grey_question: |
 | [coverletter.app](http://coverletter.app) | Custom-Made Cover Letters Ready in Minutes Not Hours - Coverletter.App. | Stand out from the competition and increase your chances of getting hired with personalized cover letters from our advanced AI technology. | :grey_question: |
-| [Rephrasee.com](https://rephrasee.com) | Rephrasee.com – Easily Rephrase, Translate and Proofread | This tool utilizes Artificial Intelligence to help you with rephrasing, translating, and proofreading. Get the highest quality help with your written content, quickly and accurately with AI-powered technology. | :white_check_mark: |
 
 <!--End of Text-->
 
