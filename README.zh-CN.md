@@ -20,7 +20,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=829" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=827" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=35" />
@@ -165,7 +165,6 @@
 | [QueryGenie](http://sqlgenie-co.web.app) | 更快地编写数据库查询！. | 使用 AI 从纯英文描述生成数据库查询。. | :grey_question: |
 | [TLDR - Jetbrains IDE Plugin](http://tldrdev.ai) | TLDR——用简单的英语解释代码. | TLDR 是一个 IDE 插件，它利用 AI 以简单的英语解释代码。. | :grey_question: |
 | [Tabnine](http://www.tabnine.com) | 面向软件开发人员的 AI 助手 - Tabnine. | 无论您是团队的一员，还是独立工作的开发人员，Tabnine 都会帮助您更快地编写代码——一切都在您最喜欢的 IDE 中进行。. | :grey_question: |
-| [Tensai](http://airtable.com/shrhYf24UkDMr2gPl) | Tensai - 代码库的对话式 UI. | . | :white_check_mark: |
 | [Text2SQL](http://www.text2sql.ai/) | Text2SQL.AI - 使用 AI 免费生成 SQL 查询！. | . | :white_check_mark: |
 | [Whatthediff](http://whatthediff.ai) | What-the-Diff – AI 驱动的代码审查助手. | 人工智能驱动的 GitHub 应用程序，以简单的英语解释您的拉取请求中的更改. | :grey_question: |
 | [aidev.codes](https://aidev.codes/) | 为您编写 AI 开发代码. | 只需输入规格即可创建简单的应用程序和演示——一种新型的 AI 提示工程。. | :white_check_mark: |
@@ -180,7 +179,7 @@
 |---|---|---|:---:|
 | [1Case](http://1case.io) | AI定制手机壳. | 在几秒钟内找到您的 1 个同类案例. | :grey_question: |
 | [AI Car Diagnosis](http://cardiagnosis.softr.app) | 汽车诊断AI. | 使用我们的尖端工具获得实时诊断和洞察您汽车的性能。. | :grey_question: |
-| [AI Content Generator](http://yep.so) | Yep.so - 在 15 分钟内从想法到注册。. | . | :grey_question: |
+| [AI Content Generator](http://yep.so) | Yep.so - 在 15 分钟内从想法到注册。. | . | :white_check_mark: |
 | [AI Data Sidekick](http://www.airops.com) | AirOps - 数据解锁。 AI 快 10 倍。. | . | :grey_question: |
 | [AI Image Upscaler](http://www.upscale.media) | AI Image Upscaler - 免费放大和增强您的照片. | 使用我们的 AI 工具将您的图像放大到 2 倍或 4 倍，而不会丢失任何纹理或细节。使用我们的超分辨率工具，为您的图像注入新的活力。. | :white_check_mark: |
 | [AI Paraphrasing Tool](http://contentbot.ai) | ContentBot - AI 作家 - 面向创始人和内容营销人员的 AI 内容. | . | :grey_question: |
@@ -219,7 +218,6 @@
 | [Auto Draw](http://www.autodraw.com) | 自动绘图. | 为大家快速绘图。 AutoDraw 将机器学习与才华横溢的艺术家的绘画相结合，帮助您快速绘制内容。. | :grey_question: |
 | [AutoPredict](http://autopredict.co.uk) | AutoPredict - 预测你的车能用多久. | AutoPredict 使用最先进的 AI 来预测英国汽车的使用寿命。. | :grey_question: |
 | [Avtrs](http://www.avtrs.ai) | avtrs.ai. | . | :grey_question: |
-| [BRIA](http://commercial.bria.ai/) | 大规模创建图像和视频 - Bria. | . | :grey_question: |
 | [B^ DISCOVER](http://bdiscover.kakaobrain.com) | B^ 发现 - 主页. | 您将有一种在图像中发现故事的全新体验。. | :grey_question: |
 | [BaruaAI](http://baruaai.com) | 布赖恩加切鲁. | . | :grey_question: |
 | [Baseten](http://app.baseten.co) | Baseten - 面向初创公司的 MLOps 平台. | Baseten 是用于构建 ML 驱动的应用程序的无服务器后端。构建具有自动缩放、GPU 访问、CRON 作业和无服务器功能的应用程序。. | :grey_question: |
@@ -249,7 +247,6 @@
 | [Coolaiid](http://coolaiid.com) | 酷爱. | 无论您是想要装饰还是只是需要一点灵感，我们都会使用 AI 产生独特的想法。. | :grey_question: |
 | [CopyScouts](http://copyscouts.com) | CopyScouts - 可持续的 AI 辅助文案写作工具. | 以固定的每月价格使用无限制的基于 GPT-3 的 AI 写作。. | :grey_question: |
 | [Copymatic](http://copymatic.ai) | . | . | :grey_question: |
-| [Coqui](http://coqui.ai) | 可奇. | 用于视频游戏、后期制作、配音等的直接情感生成 AI 声音……. | :grey_question: |
 | [Coverquick](http://www.coverquick.co) | 盖快. | 放心申请。. | :grey_question: |
 | [Cowriter](http://cowriter.org) | Co Writer - 你的 AI 伙伴，可以激发营销内容. | . | :grey_question: |
 | [Craiyon](http://www.craiyon.com) | Craiyon，前身为 DALL-E mini. | Craiyon 是一个 AI 模型，可以根据任何文本提示绘制图像！. | :grey_question: |
@@ -268,7 +265,7 @@
 | [Dreamily](http://dreamily.ai) | 梦幻般的测试版. | . | :grey_question: |
 | [Dubverse.ai](http://dubverse.ai) | 使用 Dubverse.ai 进行在线视频配音. | . | :grey_question: |
 | [Dust](http://xp1.dust.tt) | 灰尘 - XP1. | . | :grey_question: |
-| [ELSA SPEECH ANALYZER](http://speechanalyzer.elsaspeak.com) | . | . | :grey_question: |
+| [ELSA SPEECH ANALYZER](http://speechanalyzer.elsaspeak.com) | . | . | :white_check_mark: |
 | [Ebsynth](http://ebsynth.com) | EbSynth - 通过在单帧上绘画来转换视频. | 您绘制一帧，EbSynth 将其传播到其余的素材。. | :grey_question: |
 | [Echowin](http://echo.win) | AI 支持的呼叫管理具有完全自然语言理解和针对每个场景的个性化响应。. | . | :grey_question: |
 | [Ecrett Music](http://ecrettmusic.com) | 创建免版税音乐的简单方法 - ecrett music. | . | :grey_question: |
@@ -352,13 +349,12 @@
 | [Orchard](http://orchard.ink) | 果园. | . | :grey_question: |
 | [Outdone V2](http://www.outdone.io) | 不甘示弱. | . | :grey_question: |
 | [Paperade](http://www.paperade.co) | Paperade 创业点子生成器. | Paperade 是第一个基于 AI 的工具，可以从 1 亿多篇学术论文和研究中生成商业用例和公司创意。. | :grey_question: |
-| [Papercup](http://www.papercup.com) | Papercup - 人工智能配音和视频翻译软件. | . | :grey_question: |
 | [Patience](http://patience.ai) | 耐心——稳定扩散的AI艺术. | . | :grey_question: |
 | [Pattern Maker AI](http://patternmakerai.com) | 使用人工智能生成无缝模式. | 使用人工智能生成无缝矢量模式. | :grey_question: |
 | [PatternedAI](http://www.patterned.ai) | 模式AI. | . | :grey_question: |
 | [Peppertype.ai](http://www.peppertype.ai) | Peppertype.ai - 更快地创建优质内容. | 生成可在几秒钟内转换的内容。. | :grey_question: |
 | [PersonaCardAI](http://www.personacardai.com) | PersonaCardAI - 找到您的前 3 个角色资料. | 停止在研讨会上花费数小时来尝试找到您的角色。我们的 AI 会在您的 CRM 中显示您的前 3 个角色资料，其中包含 20 多个属性。. | :grey_question: |
-| [Petpic](http://www.petpic.ai) | 爱画画. | 您最喜欢的动物现在可以是任何地方，甚至任何人。只需上传一些图片，让 AI 施展它的创意魔法 ð«. | :grey_question: |
+| [Petpic](http://www.petpic.ai) | 爱画画. | 您最喜欢的动物现在可以是任何地方，甚至任何人。只需上传一些图片，让 AI 施展它的创意魔法. | :grey_question: |
 | [Petportrait](http://petportrait.ai) | 宠物肖像 AI - 美丽的自定义宠物肖像. | 正在寻找贴心的宠物礼物？ Pet Portrait AI 以各种风格为您的猫、狗和其他宠物生成独特的、定制的肖像。我们的 AI 技术确保每幅肖像都是独一无二的，就像您的宠物一样。. | :grey_question: |
 | [Pfpmaker](http://pfpmaker.com) | 免费个人资料图片制作工具 - 在线创建很棒的 PFP. | 上传您的照片以创建具有专业外观的个人资料图片和匹配的背景封面. | :white_check_mark: |
 | [Phantasmagoria](http://www.phantasmagoria.me) | . | . | :grey_question: |
@@ -401,7 +397,6 @@
 | [Recommendme](http://www.recommendme.to) | 推荐我. | . | :grey_question: |
 | [Redacta.me](http://www.redacta.me) | redacta.me - Tu 社区经理虚拟. | . | :grey_question: |
 | [Reface](http://hey.reface.ai) | 重新面对。成为任何人. | 只需一张自拍即可创建逼真的换脸视频、GIF 和表情包. | :grey_question: |
-| [Replica](http://replicastudios.com) | 合成语音 AI 和自然的文本到语音 - 副本. | 立即试用 30 分钟的免费话音。. | :white_check_mark: |
 | [RestorePhotos.io](https://www.restorephotos.io/) | 为所有人使用 AI 修复旧照片. | 有旧的和模糊的面部照片吗？让我们的 AI 恢复它们，让这些记忆得以延续。 100% 免费 – 立即恢复您的照片. | :white_check_mark: |
 | [ResumAI](http://www.wonsulting.com) | Wonsulting - 我们找到理想的工作. | 我们已经帮助超过 100,000 人找到了他们梦想的工作。让我们的求职策略带你从简历到更好的日子。. | :grey_question: |
 | [Resume Studio](http://resumestudio.careers) | . | . | :grey_question: |
@@ -419,7 +414,6 @@
 | [Scene One](http://sceneone.app) | 适用于小说、短篇小说和商业的在线图书写作应用程序. | 使用我们直观的写作应用程序编写更多故事，花更少的时间学习复杂的功能。. | :grey_question: |
 | [Scispace](http://typeset.io) | SciSpace by Typeset - 发现、创建、发布和推广您的研究论文. | 您探索和解释论文的平台。搜索超过 27000 万篇论文，用简单的语言理解它们，并找到相关的论文、作者和主题。. | :grey_question: |
 | [Scribe](http://vienna.earth) | . | . | :grey_question: |
-| [Simplified](http://simplified.com) | 简化：适用于现代营销团队的易于使用的一体式应用程序. | 设计、编写、编辑视频和发布内容。专为团队打造。. | :grey_question: |
 | [Sitekick](http://www.sitekick.ai) | AI登陆页面构建器. | . | :grey_question: |
 | [Snackable AI](http://snackable.ai) | 可当零食. | . | :grey_question: |
 | [Snipd Podcast Summaries](http://www.snipd.com) | 解锁播客中的知识 - Snipd. | . | :grey_question: |
@@ -428,7 +422,6 @@
 | [Songtell](http://www.songtell.com) | Songtell - 你的歌意出纳员. | . | :grey_question: |
 | [Soundful](http://soundful.com) | 赋能世界创造音乐 - Soundful. | Soundful 使创作者只需单击一个按钮即可生成免版税曲目。 Soundful 音乐的音质如此丰富，你不会相信它是用 AI 制作的. | :grey_question: |
 | [Splash](http://www.splashmusic.com) | Splash - 将音乐制作的乐趣带给每个人. | . | :grey_question: |
-| [Stable Diffusion Prompt Generator](http://www.thomas.io) | 托马斯.io. | . | :grey_question: |
 | [Stabledojo](http://www.stabledojo.com) | 稳定道场. | . | :grey_question: |
 | [Steve AI](http://www.steve.ai) | Steve.ai - 世界上最快的视频制作方式. | 借助我们的专利 AI 技术，您可以在几分钟内制作专业视频。当 AI 为您的视频选择合适的创意媒体资产时，见证奇迹的发生。. | :grey_question: |
 | [Stocknews AI](http://stocknewsai.com) | Stocknews AI - 人工智能挑选股票新闻. | . | :grey_question: |
@@ -438,7 +431,6 @@
 | [SuenaGringo AI](http://suenagringo.com) | 苏埃纳外国佬. | Escribe inglés con confianza y rompe las barreras. | :grey_question: |
 | [Suggest Gift](http://suggest.gift) | 建议礼物 - 使用人工智能找到很棒的礼物建议。. | 基于人工智能的工具可帮助您获得适用于任何场合的令人惊叹的礼物建议。. | :grey_question: |
 | [Sumly](http://www.sumly.ai) | 人工智能生成的播客摘要 - Sumly.AI. | . | :grey_question: |
-| [Summarize Tech](http://www.summarize.tech) | summarize.tech：人工智能驱动的视频摘要. | 获取任何长 YouTube 视频的摘要，例如讲座、现场活动或政府会议。由 GPT-3 提供支持。. | :grey_question: |
 | [SummerEyes](http://summereyes.ai) | SummerEyes：浏览器中的人工智能摘要. | . | :grey_question: |
 | [Summon](http://www.figma.com) | Figma：协作界面设计工具。. | 以团队的形式打造更好的产品。使用 Figma 在一处设计、制作原型并收集反馈。. | :grey_question: |
 | [Super Prompt](http://superprompts.com) | 超级提示. | 为您的 AI 艺术创建画廊。下次有人要求查看您的所有艺术作品时，您将有地方可以指向他们。在一个地方展示你所有的人工智能艺术。. | :grey_question: |
@@ -459,10 +451,8 @@
 | [Textunbox](http://textunbox.app) | TextUnbox.app. | TextUnbox - 利用 AI 的力量！. | :grey_question: |
 | [Thegist](http://www.thegist.ai) | theGist AI - 总结 Slack 线程和通道 - 了解它的要点. | . | :grey_question: |
 | [Thiscampsitedoesnotexist](http://thiscampsitedoesnotexist.com) | 这个营地不存在. | AI 生成的营地具有令人惊叹的位置、帐篷和天气，所有这些都是由 AI 使用稳定扩散创建的。. | :grey_question: |
-| [Thispersondoesnotexist](http://thispersondoesnotexist.com) | 此人不存在. | . | :grey_question: |
 | [Thumbsnap](http://art.thumbsnap.com) | 人工智能艺术生成器！由 Stable Diffusion 提供支持 - ThumbSnap - 免费照片和视频托管. | ThumbSnap：免费照片和视频共享. | :white_check_mark: |
 | [Titan](http://www.compliancequarter.com.au) | 专家合规系统和资源 - 合规季. | 能源、金融服务和其他受监管行业的监管合规管理系统和专业知识。我们提供专家系统和服务来减轻您的监管负担。. | :grey_question: |
-| [ToWords](http://www.towords.io) | ToWords：YouTube 到单词. | 用文字让您的视频和音频生动起来. | :grey_question: |
 | [Torto.ai](http://torto.ai) | 股市变得简单. | . | :grey_question: |
 | [Traq.ai](http://www.traq.ai) | . | . | :grey_question: |
 | [Tribescaler](http://tribescaler.com) | 部落攀爬者. | . | :grey_question: |
@@ -471,8 +461,8 @@
 | [TweetAI](http://tweetai.com) | 从推文中获得灵感 • TweetAI.com. | 鸣叫人工智能. | :grey_question: |
 | [TweetEmote](http://www.tweetemote.com) | 推文表情. | . | :grey_question: |
 | [Tweetnimage](http://tweetnimage.com) | 推特图片. | . | :grey_question: |
+| [Tweetsift](http://tweetsift.com) | 推文筛选. | . | :grey_question: |
 | [Twelve Labs](http://twelvelabs.io) | 十二实验室. | . | :grey_question: |
-| [Typestudio](http://www.typestudio.co) | Type Studio â 通过编辑文本来编辑您的视频. | Type Studio 是一种快速、简单、愉快的方式来编辑和发展你的播客、流媒体和采访。. | :grey_question: |
 | [USP](http://usp.ai) | 最大化您的博客 - USP.ai. | 很棒的 AI 为您的故事和博客文章生成免版税图像。. | :white_check_mark: |
 | [Uizard](http://uizard.io) | Uizard - 应用程序、Web 和 UI 设计变得简单 - 由 AI 提供支持. | . | :grey_question: |
 | [Ultimate Skill Extractor by Further](http://nlp.appfurther.io) | 进一步：自动化技能建议. | . | :grey_question: |
@@ -484,7 +474,6 @@
 | [Validator AI](http://www.validatorai.com) | ValidatorAI.com – 使用我们为企业家提供的启动验证器工具提供即时帮助和反馈. | . | :grey_question: |
 | [Vee](http://vee.ai) | 人们喜欢与之交谈的聪明顾问。 z którą ludzie lubią rozmawiać. | Vee 已经与 500 万波兰人进行了交谈，有效地为来自不同行业的数十家公司实施了业务流程。 Vee przeprowadziła rozmowy już z ponad 5 milionami Polaków, skutecznie realizując procedes biznesowe dla dziesiątek firm z różnych branż. | :grey_question: |
 | [Versational](http://www.versational.ai) | 远程团队的多才多艺. | Versational 最大限度地提高了每次对话中所说的价值。免费获取 AI 对话结果。 Versational 转录、总结、自动化数据输入、提取要点、让您共享剪辑并展示改进对话的方法。. | :white_check_mark: |
-| [Vidyo](http://vidyo.ai) | 基于 AI 的内容再利用 - vidyo.ai. | 使用 AI 从您的视频创建适合社交的短片 ✨ 节省 90% 的时间和精力. | :grey_question: |
 | [Viral Post Generator](http://viralpostgenerator.taplio.com) | 病毒后生成器克隆. | 在 Linkedin 上大肆传播 - 借助 AI 的力量生成成功的帖子. | :grey_question: |
 | [Visuali](http://visuali.io) | 可视化. | AI图像生成变得简单. | :grey_question: |
 | [Vocads Survey](http://www.vocads.com) | . | . | :grey_question: |
@@ -494,10 +483,8 @@
 | [Voicera](http://www.voicera.co) | Voicera - 为您的文章和博客发声. | . | :grey_question: |
 | [Waifu XL](http://waifuxl.com) | 外福XL. | . | :grey_question: |
 | [Waifulabs](http://waifulabs.com) | Waifu Labs - 神奇的动漫肖像. | 最先进的 AI 可以绘制自定义动漫肖像，只为您而生！这位机器学习艺术家通过 4 个简单的步骤找出您的偏好并创建完美的人物插图。如果这听起来像魔术，那是因为它是！. | :grey_question: |
-| [WardrobeAI](http://wardrobeai.com) | 衣橱AI. | 我们的服务使用人工智能自动改变你图片中的发型和衣服，给你无限的定制可能。. | :grey_question: |
 | [Watermark Remover](http://www.watermarkremover.io) | Watermark Remover - 免费在线去除图像水印. | 使用我们强大的 AI 技术去除图像中的水印. | :white_check_mark: |
 | [Webapi.ai 2.0](http://webapi.ai) | . | . | :grey_question: |
-| [What Cake to Bake?](http://www.whatcaketobake.com) | 烤什么蛋糕？. | . | :grey_question: |
 | [What on earth?](http://www.whatonearth.xyz) | 来自@naklecha 的 WhatOnEarth. | . | :grey_question: |
 | [Whisper Memos](http://whispermemos.com) | 耳语备忘录. | . | :grey_question: |
 | [WhisperAPI](http://whisperapi.com) | 耳语API. | . | :grey_question: |
@@ -642,7 +629,6 @@
 | [HairstyleAI](http://www.hairstyleai.com?via=beth0) | 用 AI 尝试新发型 - Hairstyle AI. | 准备好焕然一新了吗？上传你的照片，让人工智能技术为你生成新发型。今天试试吧！. | :x: |
 | [HeroPack](http://www.heropack.me) | 英雄包. | 借助受您最喜爱的视频游戏启发而生成的 AI 化身成为英雄。. | :grey_question: |
 | [Magic AI Avatars](http://magicaiavatars.com) | . | 获得 200 多个由人工智能制作的自定义头像。. | :grey_question: |
-| [MagicPic](http://www.magicpic.ai) | MagicPic - AI头像生成器. | 您的头像是人们在查看您的个人资料时首先看到的内容。我们使用人工智能为您生成神奇的化身。. | :x: |
 | [PIXELVIBE](https://www.pixelvibe.com/) | AI 简化了创意工作流程。. | 创建演示文稿、设计、库存照片、Instagram 促销、产品摄影、矢量艺术、动画化身. | :grey_question: |
 | [Passphoto](http://passphoto.ai) | 使用 AI 创建您的护照照片. | . | :x: |
 | [PhotoAI](http://photoai.me) | 照片AI. | 创建 AI 生成的您自己的图像. | :grey_question: |
@@ -785,7 +771,6 @@
 | [Lorro](https://lorro.io/) | 花很少的钱就能说一口流利的英语。通过与 AI 导师交谈. | . | :x: |
 | [Replicate](http://replicate.com) | 机器学习不需要那么难。. | 使用云 API 运行开源模型。. | :white_check_mark: |
 | [Speakingclubai](http://speakingclubai.com) | 口语俱乐部AI. | 欢迎来到 Speaking Club AI - 终极语言学习工具，适用于任何希望提高外语口语技能的人。借助Speaking Club AI，您可以随时随地与个性化的AI语伴练习会话技巧。. | :grey_question: |
-| [teachertoolkit.ai](https://teachertoolkit.ai/) | 一系列工具供教师和教育工作者在其教学和规划中利用 AI 的力量。. | 计划课程 - 利用 AI 起草您的课程并导出为您喜欢的格式。构建丰富的评估 - 使用强大的评分标准驱动的评分标准构建丰富的评估。和更多。. | :white_check_mark: |
 
 <!--End of 教育与学习-->
 
@@ -804,7 +789,6 @@
 | [Speech-to-Speech](http://www.resemble.ai) | 您完整的生成语音 AI 工具包. | Resemble 的 AI 语音生成器可让您在几秒钟内创建类似人类的配音。. | :x: |
 | [Speechelo](http://speechelo.com) | Speechelo - 只需单击 3 次即可从文本生成语音。最逼真的发声文本到音频转换器. | 我们保证没有人会说您的画外音是 A.I.使用文本到语音工具生成. | :grey_question: |
 | [Speechify](http://speechify.com) | 排名第一的文本转语音阅读器. | 使用我们领先的文本转语音阅读器收听文档、文章、PDF、电子邮件 - 您阅读的任何内容。. | :white_check_mark: |
-| [Unreal Speech](http://unrealspeech.up.railway.app) | 超逼真的文本转语音 API. | 比亚马逊、谷歌和微软更自然的声音和最多 4 倍的价格. | :white_check_mark: |
 | [VERBATIK](http://verbatik.com) | AI 驱动的文本到语音生成。. | 使用在线 AI 语音生成器和最佳合成语音生成逼真的文本到语音 (TTS) 音频。立即将文本转换为听起来自然的语音并下载为 MP3 和 WAV 音频文件。. | :x: |
 | [Wellsaid](http://wellsaidlabs.com) | 将文本实时转换为语音. | 借助 WellSaid，您和您的团队可以为所有数字内容创建引人入胜的逼真 AI 配音。. | :white_check_mark: |
 
@@ -858,7 +842,6 @@
 | [Startup Pitch Generator](http://tally.so?ref=beth0) | 创建表单的最简单方法. | 在几秒钟内创建用于所有目的的表单。不知道如何编码. | :white_check_mark: |
 | [Storywizard](http://www.storywizard.ai) | Storywizard.ai - 使用 AI 立即创作令人难以置信的儿童故事. | Storywizard 使用 AI 帮助您为孩子们创作具有生动形象和优美情节的惊人故事。. | :grey_question: |
 | [Sudowrite](http://www.sudowrite.com) | 使用我们神奇的写作 AI 打破作家的瓶颈，发挥更多创意. | 根据《纽约客》、《纽约时报》、《边缘》等，使用最佳 AI 写作工具更快地编写您的小说或剧本。. | :grey_question: |
-| [Talk to AI Human](http://www.talktoaihuman.com) | 与人工智能人类交谈. | . | :grey_question: |
 | [Texti](http://texti.app) | 文本应用程序. | . | :grey_question: |
 | [Upword](http://www.upword.ai) | 使用 AI 更快地阅读 10 倍的文章、新闻报道、博客、时事通讯和文章. | 使用 Upword 的 AI 从内容中捕捉关键想法。创建在线摘要文档。增长你的知识。. | :white_check_mark: |
 | [Writemeacoverletter](http://writemeacoverletter.com) | 给我写封求职信. | 使用 AI 在几秒钟内生成求职信。只需上传您的简历，分享您想要的工作的链接，剩下的交给我们。. | :grey_question: |
@@ -984,7 +967,7 @@
 ## 组织与自动化
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
-| [BuildAI](https://www.genius.design/) | 在几分钟内构建 AI 界面. | 输入基于用户文本输入输出文本的应用程序的描述，我们将为您打造！. | :grey_question: |
+| [BuildAI](https://www.buildai.space/) | 在几分钟内构建 AI 界面. | 输入基于用户文本输入输出文本的应用程序的描述，我们将为您打造！. | :grey_question: |
 | [Hexowatch](http://hexact.pxf.io/beth0) | 除了可用性和价格之外，第 3 方网站作为数据源、可视化网站监控、竞争对手跟踪。. | Hexowatch 是您的 AI 助手，可以监控任何网站的视觉、内容、源代码、技术、可用性或价格变化。. | :x: |
 | [KUBIYA](http://kubiya.ai/) | . | . | :grey_question: |
 | [Product Launch AI](https://shapenship.com/productlaunchai) | 释放 AI 的力量来加速您的产品发布. | 无需担心发布文案就可以进行出色的发布！. | :grey_question: |
@@ -1004,6 +987,7 @@
 | [Deciphr AI](http://www.deciphr.ai) | 破译AI. | 在深度 AI 的支持下，Deciphr 为您添加时间戳并总结您的整个播客记录。比煮咖啡的时间还短. | :white_check_mark: |
 | [DeepL](http://www.deepl.com) | DeepL Translate：世界上最准确的翻译器. | . | :white_check_mark: |
 | [Graphic AI](http://www.stork.ai) | AI辅助团队工作协作平台. | Stork 帮助团队改善沟通和生产力。它是混合和远程团队的商务信使，可自动记录和转录所有会议和电话。为异步后大流行世界而制作，并由人工智能辅助。. | :grey_question: |
+| [Papercup](http://www.papercup.com) | Papercup - 人工智能配音和视频翻译软件. | . | :grey_question: |
 | [Rephrasely](http://rephrasely.com?via=beth0) | 适用于所有语言的免费改写生成器！. | Rephrasely 使用最先进的 AI 为我们提供的 18 种（12 种免费和 6 种高级）样式中的每一种样式生成 100 多种语言的文本变体。通过这样做，我们能够提供比任何其他服务更多的价值和多样性。. | :white_check_mark: |
 | [Rythmex](https://rythmex.com/?partner=641&uuid=49feba69-adf4-456c-a90e-a9f4f14372cb&page=home) | 使用 Rythmex Converter 将音频转换为文本. | 轻松、快速、有效地将音频转录为文本. | :white_check_mark: |
 | [Scribebuddy](http://secure.scribebuddy.com) | . | 在几分钟内自动转录任何音频、视频、Zoom Call、Google Meet、播客、现场演讲等. | :x: |
@@ -1058,7 +1042,6 @@
 | [Aragon](http://www.aragon.ai) | 阿拉贡. | 使用 AI 以 10 倍的速度创建令人惊叹的艺术作品和图像。. | :grey_question: |
 | [ArtBot.ai](http://artbot.ai) | ArtBot.ai - 让 AI 创造你完美的万圣节艺术. | . | :grey_question: |
 | [Artbreeder](http://www.artbreeder.com) | 艺术培育者. | . | :grey_question: |
-| [Article2Image](http://www.stockai.com) | 免费的 AI 驱动的库存照片. | 只需单击一个按钮，即可免费下载 AI 生成的库存照片。在任何项目中使用，无需担心归因。. | :white_check_mark: |
 | [Artshop](http://artshops.xyz) | 艺术品商店. | Artshop 将令人惊叹的 AI 艺术品带入您家中的墙壁艺术，为您美丽的家增添温馨气息。. | :grey_question: |
 | [Astria.ai](http://www.astria.ai) | Astria - 量身定制的 AI 图像生成. | 使用 AI 创建自定义图像. | :x: |
 | [Bg Eraser](http://bgeraser.com) | Bg Eraser - 图片清理魔术橡皮擦. | 强大的人工智能修复和图片清理技术。在几秒钟内删除不需要的对象并清理图片。. | :grey_question: |
@@ -1076,7 +1059,6 @@
 | [DreamUp](http://www.dreamup.com) | 梦想. | DeviantArt DreamUp™ AI 艺术生成器可让您安全公平地创作 AI 艺术。. | :grey_question: |
 | [Dreambooth](http://dream.ai) | 数秒内的高品质艺术品. | . | :grey_question: |
 | [Dreamlike](http://dreamlike.art) | AI Art generator, AI Art Maker - dreamlike.art. | . | :grey_question: |
-| [Dreamspace.art](http://dreamspace.art) | 梦幻空间. | 提示绘图工具. | :grey_question: |
 | [Erase.bg](http://www.erase.bg) | 免费背景图像去除器：在线从高清图像中去除 BG - Erase.bg. | 使人物、动物或物体图像的背景透明。免费下载高分辨率图像，供电子商务和个人使用。无需信用卡。. | :white_check_mark: |
 | [Eye for AI](http://eyeforai.xyz) | 简单的文本到图像工具和模板. | 在一分钟内从文本创建图像. | :white_check_mark: |
 | [Facet 2.0](http://facet.ai) | 方面：图像创作，重新构想. | 利用 AI 的力量使创意过程快速、有效且易于访问。尝试视觉方向、自动选择和协作——一切都在网络上. | :grey_question: |
@@ -1141,6 +1123,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [AI Host](https://livereacting.sjv.io/beth0) | 运行交互式直播. | LiveReacting 通过将预先录制的视频、游戏、倒计时和投票添加到您的流中，帮助您获得更多关注者和参与度。. | :x: |
+| [BRIA](http://commercial.bria.ai/) | 大规模创建图像和视频 - Bria. | . | :grey_question: |
 | [Boolpic](http://boolv.tech) | 为品牌赋能的智能视频平台. | 使用 AI 以 10 倍的速度生成品牌视频以提高营销绩效. | :grey_question: |
 | [D-ID's Creative Reality Studio](https://www.d-id.com/) | 面向未来的生成人工智能. | 只需按一下按钮即可制作带有会说话的头像的定制视频，为企业和创作者提供超能力。. | :white_check_mark: |
 | [Deepfakesweb](http://deepfakesweb.com) | 制作你自己的 Deepfakes [在线应用程序]. | 我们易于使用的 deepfake 应用程序使用 AI 和深度学习来生成令人惊叹的换脸视频。立即制作您自己的 Deepfake 视频。. | :grey_question: |
@@ -1150,8 +1133,13 @@
 | [Gling](http://www.gling.ai) | 创作者，让你的时间回来. | 我们的 AI 会为您消除沉默和糟糕的镜头，这样您就可以专注于您的 YouTube 视频. | :grey_question: |
 | [Move](https://www.move.ai/) | 移动爱. | 使用手机在任何环境中从视频中捕获高质量的运动数据。. | :grey_question: |
 | [Pictory](http://pictory.ai?ref=milana31) | 轻松制作视频. | 从您的长篇内容中自动创建简短的、高度共享的品牌视频. | :grey_question: |
+| [Simplified](http://simplified.com) | 简化：适用于现代营销团队的易于使用的一体式应用程序. | 设计、编写、编辑视频和发布内容。专为团队打造。. | :grey_question: |
 | [Story Bard](http://www.storybard.co) | 人工智能生成的视频故事. | . | :grey_question: |
-| [Supercreator AI](http://www.supercreator.ai) | Supercreator.ai – 使用 AI 将视频制作速度提高 10 倍. | . | :grey_question: |
+| [Summarize Tech](http://www.summarize.tech) | summarize.tech：人工智能驱动的视频摘要. | 获取任何长 YouTube 视频的摘要，例如讲座、现场活动或政府会议。由 GPT-3 提供支持。. | :grey_question: |
+| [Supercreator AI](http://www.supercreator.ai) | Supercreator.ai - 使用 AI 将视频制作速度提高 10 倍. | . | :grey_question: |
+| [ToWords](http://www.towords.io) | ToWords：YouTube 到单词. | 用文字让您的视频和音频生动起来. | :grey_question: |
+| [Typestudio](http://www.typestudio.co) | Type Studio â 通过编辑文本来编辑您的视频. | Type Studio 是一种快速、简单、愉快的方式来编辑和发展你的播客、流媒体和采访。. | :grey_question: |
+| [Vidyo](http://vidyo.ai) | 基于 AI 的内容再利用 - vidyo.ai. | 使用 AI 从您的视频创建适合社交的短片 ✨ 节省 90% 的时间和精力. | :grey_question: |
 | [Waymark](http://waymark.com) | 通过令人难以置信的简单视频促进本地销售。. | 当电视、CTV 和数字广告如此轻松时，可能性是无限的。高影响力的广告现在向所有人开放，Waymark。. | :grey_question: |
 | [Wzrd.ai](http://wzrd.ai) | 体验您的声音. | WZRD 通过人工智能支持的沉浸式视频增强您的音频. | :grey_question: |
 
@@ -1222,11 +1210,13 @@
 | [Assemblyai](http://www.assemblyai.com) | #1 人工智能模型 API 平台. | 使用 AssemblyAI 的 Speech-to-Text API 自动将音频和视频文件以及实时音频流转换为文本。使用 Audio Intelligence 做更多事情 - 摘要、内容审核、主题检测. | :grey_question: |
 | [Cleanvoice AI](http://cleanvoice.ai) | 从录音中删除填充词. | Cleanvoice 是一种人工智能，可以从您的播客或录音中删除填充音、口吃和口音. | :grey_question: |
 | [Clip audio](http://www.clip.audio) | Clip - AI音频搜索引擎. | 音频搜索引擎. | :grey_question: |
+| [Coqui](http://coqui.ai) | 可奇. | 用于视频游戏、后期制作、配音等的直接情感生成 AI 声音……. | :grey_question: |
 | [Emergent Drums](http://audialab.com?ref=beth0) | 使用人工智能生成独特的鼓样本. | 使用我们的突破性插件生成无尽的鼓样本，全部免版税. | :x: |
 | [Krisp](http://krisp.ai) | 世界排名第一的降噪应用程序 - Krisp. | Krisp 的 AI 可以消除您所有通话中的背景声音、噪音和回声，让您高枕无忧。. | :white_check_mark: |
 | [LALAL.AI Voice Cleaner](http://www.lalal.ai/?fp_ref=beth0) | 从任何音频和视频中提取人声、伴奏和各种乐器. | 基于世界排名第一的 AI 驱动技术的高质量词干拆分。. | :grey_question: |
 | [Musico](http://www.musi-co.com) | Musico - 人工智能生成音乐. | Musico 是一个人工智能驱动的软件引擎，可以生成音乐。它可以对手势、动作、代码或其他声音做出反应。. | :grey_question: |
 | [Quasi Music](https://quasi.market/radio/) | 创造全新的节拍. | 使用 Quasi 的人工智能音乐创作工具释放您内心的音乐家。轻松创造前所未闻的声音并重新混音经典艺术家。. | :white_check_mark: |
+| [Replica](http://replicastudios.com) | 合成语音 AI 和自然的文本到语音 - 副本. | 立即试用 30 分钟的免费话音。. | :white_check_mark: |
 | [Riffusion](http://www.riffusion.com) | 扩散. | 实时音乐生成的稳定扩散. | :white_check_mark: |
 | [Soundraw](http://soundraw.io) | 停止搜索您需要的歌曲。创造它。. | 免版税音乐，AI为你生成. | :white_check_mark: |
 
