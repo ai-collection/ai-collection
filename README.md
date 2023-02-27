@@ -409,6 +409,7 @@ Translations:
 | [Lorro](https://lorro.io/) | Become a Fluent English Speaker for a Fraction of a Cost. By Talking to an AI Tutor. | . | :x: |
 | [Replicate](http://replicate.com) | Machine Learning DoesnT Need to Be So Hard. | Run open-source models with a cloud API. | :white_check_mark: |
 | [Speakingclubai](http://speakingclubai.com) | Speaking Club AI. | Welcome to Speaking Club AI - the ultimate language learning tool for anyone looking to improve their speaking skills in a foreign language. With Speaking Club AI, you can practice    your conversation skills with a personalized AI language partner anytime, anywhere. | :grey_question: |
+| [teachology.ai](https://www.teachology.ai/)|A collection of tools for teachers and educators to harness the power of AI in their pedagogy and planning. | Plan Lessons -  Harness AI to draft your lessons and export to your favourite formats. Build Rich Assessments - Construct rich assessments with robust rubric driven marking criteria. And more. | :white_check_mark: |
 
 <!--End of Education & Learning-->
 
