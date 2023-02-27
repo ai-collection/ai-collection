@@ -771,6 +771,7 @@
 | [Lorro](https://lorro.io/) | 花很少的钱就能说一口流利的英语。通过与 AI 导师交谈. | . | :x: |
 | [Replicate](http://replicate.com) | 机器学习不需要那么难。. | 使用云 API 运行开源模型。. | :white_check_mark: |
 | [Speakingclubai](http://speakingclubai.com) | 口语俱乐部AI. | 欢迎来到 Speaking Club AI - 终极语言学习工具，适用于任何希望提高外语口语技能的人。借助Speaking Club AI，您可以随时随地与个性化的AI语伴练习会话技巧。. | :grey_question: |
+| [teachology.ai](https://www.teachology.ai/) | 一系列工具供教师和教育工作者在其教学和规划中利用 AI 的力量。. | 计划课程 - 利用 AI 起草您的课程并导出为您喜欢的格式。构建丰富的评估 - 使用强大的评分标准驱动的评分标准构建丰富的评估。和更多。. | :white_check_mark: |
 
 <!--End of 教育与学习-->
 
