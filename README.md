@@ -409,7 +409,7 @@ Translations:
 | [Lorro](https://lorro.io/) | Become a Fluent English Speaker for a Fraction of a Cost. By Talking to an AI Tutor. | . | :x: |
 | [Replicate](http://replicate.com) | Machine Learning DoesnT Need to Be So Hard. | Run open-source models with a cloud API. | :white_check_mark: |
 | [Speakingclubai](http://speakingclubai.com) | Speaking Club AI. | Welcome to Speaking Club AI - the ultimate language learning tool for anyone looking to improve their speaking skills in a foreign language. With Speaking Club AI, you can practice    your conversation skills with a personalized AI language partner anytime, anywhere. | :grey_question: |
-| [teachology.ai](https://www.teachology.ai/)|A collection of tools for teachers and educators to harness the power of AI in their pedagogy and planning. | Plan Lessons -  Harness AI to draft your lessons and export to your favourite formats. Build Rich Assessments - Construct rich assessments with robust rubric driven marking criteria. And more. | :white_check_mark: |
+| [teachology.ai](https://www.teachology.ai/) | A Collection of Tools for Teachers and Educators to Harness the Power of AI in Their Pedagogy and Planning. | Plan Lessons - Harness AI to draft your lessons and export to your favourite formats. Build Rich Assessments - Construct rich assessments with robust rubric driven marking criteria. And more. | :white_check_mark: |
 
 <!--End of Education & Learning-->
 
@@ -479,7 +479,7 @@ Translations:
 | [Scenario](http://www.scenario.gg) | Scenario. | Unlock the power of AI-generated gaming assets with Scenario. Generate engaging content quickly and easily to save time and spark creativity. | :grey_question: |
 | [charisma](https://charisma.ai/) | Power Real-Time Digital Humans. | For Games • Metaverses • VR • Education • TV & Film • Publishing and beyond!. | :grey_question: |
 | [hidden door](https://www.hiddendoor.co/) | Hello, Worlds!. | A new kind of social roleplaying experience, powered by narrative AI. | :grey_question: |
-| [latitude](https://latitude.io/) | The Future of AI-Generated Games. | Were making AI a tool of creativity and freedom for everyone. | :grey_question: |
+| [latitude](https://latitude.io/) | The Future of AI-Generated Games. | We are making AI a tool of creativity and freedom for everyone. | :grey_question: |
 
 <!--End of Gaming-->
 
@@ -571,7 +571,7 @@ Translations:
 | [Clip audio](http://www.clip.audio) | Clip - AI Audio Search Engine. | The audio search engine. | :grey_question: |
 | [Coqui](http://coqui.ai) | Coqui. | Direct emotive, generative AI voices for video games, post-production, dubbing and much more…. | :grey_question: |
 | [Emergent Drums](http://audialab.com?ref=beth0) | Generate Unique Drum Samples Using Artificial Intelligence. | Use our breakthrough plugin to generate endless drum samples, all royalty-free. | :x: |
-| [Krisp](http://krisp.ai) | WorldS #1 Noise Cancelling App - Krisp. | Krisps AI removes background voices, noises and echo from all your calls, giving you peace of mind. | :white_check_mark: |
+| [Krisp](http://krisp.ai) | Worlds #1 Noise Cancelling App - Krisp. | Krisps AI removes background voices, noises and echo from all your calls, giving you peace of mind. | :white_check_mark: |
 | [LALAL.AI Voice Cleaner](http://www.lalal.ai/?fp_ref=beth0) | Extract Vocal, Accompaniment and Various Instruments From Any Audio and Video. | High-quality stem splitting based on the world's #1 AI-powered technology. | :grey_question: |
 | [Musico](http://www.musi-co.com) | Musico - AI Generative Music. | Musico is an AI-driven software engine that generates music. It can react to gesture, movement, code or other sound. | :grey_question: |
 | [Quasi Music](https://quasi.market/radio/) | Create Brand-New Beats. | Unleash your inner musician with Quasi's AI-powered music creation tool. Create never-before-heard sounds and remix classic artists with ease. | :white_check_mark: |

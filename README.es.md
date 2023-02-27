@@ -379,6 +379,7 @@
 | [Lorro](https://lorro.io/) | Conviértase en un hablante fluido de inglés por una fracción del costo. Hablando con un tutor de IA. | . | :x: |
 | [Replicate](http://replicate.com) | El aprendizaje automático no necesita ser tan difícil. | Ejecute modelos de código abierto con una API en la nube. | :white_check_mark: |
 | [Speakingclubai](http://speakingclubai.com) | IA del club de habla. | Bienvenido a Speaking Club AI: la herramienta de aprendizaje de idiomas definitiva para cualquiera que busque mejorar sus habilidades para hablar en un idioma extranjero. Con Speaking Club AI, puede practicar sus habilidades de conversación con un compañero de idioma AI personalizado en cualquier momento y en cualquier lugar. | :grey_question: |
+| [teachology.ai](https://www.teachology.ai/) | Una colección de herramientas para profesores y educadores para aprovechar el poder de la IA en su pedagogía y planificación. | Planificar lecciones: aproveche la IA para redactar sus lecciones y exportarlas a sus formatos favoritos. Cree evaluaciones enriquecidas: construya evaluaciones enriquecidas con sólidos criterios de calificación basados en rúbricas. Y más. | :white_check_mark: |
 
 <!--End of Educación y aprendizaje-->
 
