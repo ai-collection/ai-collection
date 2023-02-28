@@ -864,6 +864,7 @@ Translations:
 | [Vidyo](http://vidyo.ai) | AI Based Content Repurposing - Vidyo.Ai. | Create social ready short clips from your videos with AI ✨ Save 90% time and effort. | :grey_question: |
 | [Waymark](http://waymark.com) | Boost Local Sales With Unbelievably Easy Video. | When TV, CTV, and digital ads are this effortless, the possibilities are limitless. High-impact ads are now open to everyone, with Waymark. | :grey_question: |
 | [Wzrd.ai](http://wzrd.ai) | Experience Your Sound. | WZRD augments your audio with immersive video powered by artificial intelligence. | :grey_question: |
+| [Eightify](https://eightify.app/) | Get 8 key ideas from YouTube videos | ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages | :white_check_mark: |
 
 <!--End of Video 25-->
 
