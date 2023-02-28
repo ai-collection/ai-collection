@@ -20,7 +20,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=827" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=828" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=35" />
@@ -109,7 +109,7 @@
 | [lumalabs](https://captures.lumalabs.ai/imagine) | Imagine 3D V1.2 (Alfa). | Un experimento inicial para crear prototipos y crear 3D con texto El acceso a la generación se está expandiendo gradualmente a todos los que están en la lista de espera. | :white_check_mark: |
 | [plask](https://plask.ai/) | Herramienta de animación Mocap impulsada por IA. | Extraiga fácilmente el movimiento del video sin costosos trajes ni trabajos de movimiento. | :white_check_mark: |
 
-<!--End of Animación y Modelado 3D-->
+<!--End of Animación y Modelado 3D 33-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -125,7 +125,7 @@
 | [Interior AI](http://interiorai.com) | Interior Ai: Inspiración de ideas de diseño de interiores y aplicación de puesta en escena virtual con inteligencia artificial. | Obtenga ideas de diseño de interiores utilizando inteligencia artificial y organice virtualmente interiores para listados de bienes raíces con diferentes estilos de interiores. | :white_check_mark: |
 | [Makeit.ai](http://www.maket.ai) | Diseño generativo - Software de diseño de arquitectura - Maket. | Nuestro software de diseño generativo permite a los arquitectos, constructores y desarrolladores generar rápidamente miles de planos arquitectónicos al instante. | :grey_question: |
 
-<!--End of Arquitectura e Interiorismo-->
+<!--End of Arquitectura e Interiorismo 1-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -145,7 +145,7 @@
 | [Warmer.Ai](http://warmer.ai) | Warmer.Ai - Escritor de correo electrónico AI. | Warmer utiliza la personalización de correo electrónico de AI para escribir su alcance de correo electrónico. Aumente las respuestas, las reuniones y las ventas con personalización dinámica. | :grey_question: |
 | [superReply](http://superreply.co) | Actualice su juego de correo electrónico. | El truco de respuesta de correo electrónico que ha estado esperando: envíe fácilmente respuestas efectivas con respuestas personalizadas sin escribir desde cero. | :white_check_mark: |
 
-<!--End of Asistente de correo electrónico-->
+<!--End of Asistente de correo electrónico 8-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -179,7 +179,7 @@
 | [Whatthediff](http://whatthediff.ai) | What-the-Diff: asistente de revisión de código impulsado por IA. | La aplicación GitHub impulsada por IA que explica los cambios dentro de sus solicitudes de extracción en un lenguaje sencillo. | :grey_question: |
 | [aidev.codes](https://aidev.codes/) | Códigos de desarrollo de IA para usted. | Cree aplicaciones y demostraciones sencillas simplemente ingresando especificaciones: un nuevo tipo de ingeniería de avisos de IA. | :white_check_mark: |
 
-<!--End of Asistente de código y base de datos-->
+<!--End of Asistente de código y base de datos 4-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -209,7 +209,7 @@
 | [Wordtune](http://www.wordtune.com) | Wordtune: su editor y asistente de escritura personal. | . | :grey_question: |
 | [Writefull Academizer](http://x.writefull.com) | Writefull X: IA aplicada a la escritura académica. | . | :grey_question: |
 
-<!--End of Asistente de Redacción-->
+<!--End of Asistente de Redacción 26-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -223,7 +223,7 @@
 | [OneTone.ai](https://onetone.ai) | Ayudamos a los equipos de soporte a comunicarse de manera más rápida y precisa. | OneTone.ai es una plataforma impulsada por IA que le brinda información valiosa, lo que le permite tomar decisiones informadas y brindar un servicio al cliente de primer nivel. | :white_check_mark: |
 | [ResolveAI](http://resolveai.co) | resolver. | Nuestros chatbots de IA están diseñados para comprender los problemas de los clientes y proporcionar respuestas precisas y personalizadas en tiempo real. | :grey_question: |
 
-<!--End of Atención al cliente-->
+<!--End of Atención al cliente 7-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -262,7 +262,7 @@
 | [Tryitonai](http://www.tryitonai.com) | Impresionantes fotografías de rostros y retratos profesionales: pruébalo con IA. | ¡Obtenga fotografías de rostros profesionales con calidad de estudio generadas en menos de 24 horas! Perfecto para fotos de LinkedIn, redes sociales, equipos y citas. | :grey_question: |
 | [xpression camera 2.0](http://xpressioncamera.com) | Cámara Xpression. | Conviértete en cualquiera en Zoom, Twitch o cualquier transmisión de video. | :grey_question: |
 
-<!--End of avatares-->
+<!--End of avatares 2-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -275,7 +275,7 @@
 | [Merlin](http://merlin.foyer.work) | Esmerejón. | ¡Extensión gratuita con tecnología ChatGPT de Open AI para usar en cualquier lugar!. | :white_check_mark: |
 | [SplashAI](http://www.splashai.art) | Splashai es un complemento de Figma, un motor de búsqueda y un generador de imágenes de IA. | . | :grey_question: |
 
-<!--End of Complementos y extensiones-->
+<!--End of Complementos y extensiones 28-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -287,7 +287,7 @@
 | [Replika](http://replika.com) | El compañero de IA que se preocupa. | Siempre aquí para escuchar y hablar. Siempre a tu lado. ¡Únase a los millones que crecen con sus amigos de IA ahora!. | :grey_question: |
 | [Ubie AI Symptom Checker](http://ubiehealth.com) | Verifique los síntomas y encuentre las causas por IA. | Verifique los síntomas y encuentre causas por IA: responda el cuestionario sobre sus síntomas para descubrir posibles causas, tipos, gravedad y tratamiento de forma gratuita por IA. Desarrollado por médicos. | :white_check_mark: |
 
-<!--End of Cuidado de la salud-->
+<!--End of Cuidado de la salud 13-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -304,7 +304,7 @@
 | [SlidesAI](https://www.slidesai.io/) | Cree diapositivas de presentación con IA en segundos. | Di adiós a la tediosa creación manual de diapositivas. Deje que la IA escriba el esquema y el contenido de la presentación por usted. Con nuestra herramienta, puede crear fácilmente diapositivas atractivas y profesionales a partir de cualquier texto en muy poco tiempo. | :white_check_mark: |
 | [Tome](http://beta.tome.app) | Ha llegado la narración generativa. | Desbloquee su mejor trabajo con el formato de narración impulsado por IA de Tome. | :white_check_mark: |
 
-<!--End of Diapositivas y diseño web-->
+<!--End of Diapositivas y diseño web 29-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -315,7 +315,7 @@
 | [Adobe Speech Enhancer](https://podcast.adobe.com/enhance) | Mejore las grabaciones de voz de forma gratuita. | La mejora del habla hace que las grabaciones de voz suenen como si se hubieran grabado en un estudio profesional. | :white_check_mark: |
 | [Lingostar](http://www.lingostar.ai) | Lingostar - Conversaciones reales con inteligencia artificial. | Lingostar es la IA con la que los estudiantes de idiomas pueden hablar en inglés, español o francés. Alcanza la fluidez con conversaciones REALES habladas gratis. No más tutores: chatee con Lingostar A.I. para mejorar tu pronunciación, vocabulario y comprensión. | :white_check_mark: |
 
-<!--End of Discurso-->
+<!--End of Discurso 21-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -336,7 +336,7 @@
 | [StoriesForKids](http://www.storiesforkids.ai) | Storiesforkids.Ai: libros personalizados para niños usando IA. | Convierta situaciones de la vida real en historias e ilustraciones divertidas en segundos. | :grey_question: |
 | [TextStyler](http://www.textstyler.org) | Vuelva a escribir cualquier cosa en estilos divertidos, usando IA. | . | :grey_question: |
 
-<!--End of Divertido-->
+<!--End of Divertido 10-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -367,7 +367,7 @@
 | [jpghd](http://jpghd.com) | JPGHD - Restauración sin pérdidas de fotos antiguas con IA. | Uso de modelos de inteligencia artificial de vanguardia de 2022 para la restauración sin pérdidas de fotos antiguas (admite la restauración de fotos viejas y rayadas, la colorización y Magic Photo). | :grey_question: |
 | [paintbytext](https://paintbytext.chat) | Pintar por texto. | paintbytext - Edita tus fotos usando instrucciones escritas, con la ayuda de una IA. | :white_check_mark: |
 
-<!--End of Edición de fotos e imágenes-->
+<!--End of Edición de fotos e imágenes 27-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -381,7 +381,7 @@
 | [Speakingclubai](http://speakingclubai.com) | IA del club de habla. | Bienvenido a Speaking Club AI: la herramienta de aprendizaje de idiomas definitiva para cualquiera que busque mejorar sus habilidades para hablar en un idioma extranjero. Con Speaking Club AI, puede practicar sus habilidades de conversación con un compañero de idioma AI personalizado en cualquier momento y en cualquier lugar. | :grey_question: |
 | [teachology.ai](https://www.teachology.ai/) | Una colección de herramientas para profesores y educadores para aprovechar el poder de la IA en su pedagogía y planificación. | Planificar lecciones: aproveche la IA para redactar sus lecciones y exportarlas a sus formatos favoritos. Cree evaluaciones enriquecidas: construya evaluaciones enriquecidas con sólidos criterios de calificación basados en rúbricas. Y más. | :white_check_mark: |
 
-<!--End of Educación y aprendizaje-->
+<!--End of Educación y aprendizaje 32-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -426,7 +426,7 @@
 | [unbound](https://www.unboundcontent.ai/auth?affiliate=aff_z0krz31) | Automatice la creación de contenido para su pequeña empresa. | Aproveche las mejores herramientas de generación de IA en un solo lugar diseñado para automatizar la creación de contenido para pequeñas empresas, tiendas en línea y creadores. | :white_check_mark: |
 | [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0) | Convierta instantáneamente su contenido de YouTube en atractivos artículos de blog. | Impulsa tu SEO y presencia de marca. | :white_check_mark: |
 
-<!--End of Generación de contenido y SEO-->
+<!--End of Generación de contenido y SEO 5-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -448,7 +448,7 @@
 | [Riffusion](http://www.riffusion.com) | Rifusión. | Difusión estable para la generación de música en tiempo real. | :white_check_mark: |
 | [Soundraw](http://soundraw.io) | Deja de buscar la canción que necesitas. Créalo. | Música sin derechos de autor, IA generada para ti. | :white_check_mark: |
 
-<!--End of Generación de música y audio-->
+<!--End of Generación de música y audio 18-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -546,7 +546,7 @@
 | [artssy](https://www.artssy.co/) | Cree imágenes únicas generadas por IA en 1 clic. | Con Artssy AI, tu creatividad puede fluir. ¡Crea imágenes ilimitadas en 1 clic y descubre un mundo de posibilidades!. | :x: |
 | [flair](http://flair.ai/) | La herramienta de diseño de IA para contenido de marca. | . | :white_check_mark: |
 
-<!--End of Generador de imágenes y arte-->
+<!--End of Generador de imágenes y arte 15-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -559,7 +559,7 @@
 | [Make Logo AI](https://makelogo.ai/) | Makelogo.Ai: obtenga el logotipo perfecto para su empresa emergente. | Genera logotipos hermosos y únicos para tu startup, con tecnología de Inteligencia Artificial. | :x: |
 | [Text To Book Cover](http://stockimg.ai) | Generación de imágenes de IA para equipos: puede generar fácilmente logotipos de IA, portadas de libros de IA, carteles de IA y más - Stockimg AI. | Generación de imágenes de IA para equipos: puede generar fácilmente logotipos de IA, portadas de libros de IA, carteles de IA y más - Stockimg AI. | :grey_question: |
 
-<!--End of Generador de logotipos-->
+<!--End of Generador de logotipos 17-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -579,7 +579,7 @@
 | [Lovelines](http://lovelines.xyz?ref=ai-collection) | Lovelines.Xyz - Comparte tu amor con recuerdos personalizados hechos por IA. | Cree recuerdos personalizados para un ser querido usando IA que están optimizados para las redes sociales. Poemas, historias, cartas y letras de canciones generadas por IA. | :x: |
 | [Text2present](http://text2present.com) | Text2Present.Com - Regalos creativos de gente ocupada. | Le permite crear regalos personalizados creativos utilizando inteligencia artificial para sus amigos, familiares y conocidos sin tomar su valioso tiempo. Simplemente ingrese una descripción de texto de lo que desea regalar y deje que nuestra inteligencia artificial haga el resto. | :grey_question: |
 
-<!--End of Ideas de regalo-->
+<!--End of Ideas de regalo 12-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -597,7 +597,7 @@
 | [hidden door](https://www.hiddendoor.co/) | ¡Hola, Mundos!. | Un nuevo tipo de experiencia de juego de rol social, impulsada por IA narrativa. | :grey_question: |
 | [latitude](https://latitude.io/) | El futuro de los juegos generados por IA. | Estamos haciendo de la IA una herramienta de creatividad y libertad para todos. | :grey_question: |
 
-<!--End of Juego de azar-->
+<!--End of Juego de azar 11-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -614,7 +614,7 @@
 | [Media.io](https://www.media.io/?ref=beth0) | Plataforma de creatividad de imagen, audio y video en línea con tecnología de IA. | Sencillez. Diversidad. Flexibilidad. | :white_check_mark: |
 | [Runway](http://runwayml.com) | Runway - Suite de creación de próxima generación - Todo lo que necesita para crear contenido rápidamente. | Descubra capacidades avanzadas de edición de video para llevar sus creaciones al siguiente nivel. | :white_check_mark: |
 
-<!--End of Kit de herramientas para creadores-->
+<!--End of Kit de herramientas para creadores 6-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -627,7 +627,7 @@
 | [PatentPal](http://patentpal.com) | IA generativa para propiedad intelectual. | Automatice la escritura mecánica en sus solicitudes de patentes. | :white_check_mark: |
 | [Spellbook](https://www.spellbook.legal/) | Redactar contratos 3 veces más rápido con IA. | Spellbook usa GPT-3 para revisar y sugerir lenguaje para sus contratos, directamente en Microsoft Word. | :grey_question: |
 
-<!--End of Legal-->
+<!--End of Legal 16-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -643,7 +643,7 @@
 | [StockGPT](https://www.askstockgpt.com/) | Motor de búsqueda impulsado por IA. | StockGPT es un motor de búsqueda impulsado por inteligencia artificial que se entrenó en todas las transcripciones de llamadas de ganancias trimestrales de Tesla que datan del segundo trimestre de 2011. | :white_check_mark: |
 | [You](http://you.com) | El motor de búsqueda de IA que controlas. | . | :white_check_mark: |
 
-<!--End of Los motores de búsqueda-->
+<!--End of Los motores de búsqueda 30-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -654,7 +654,7 @@
 | [FashionAdvisorAI](http://www.fashionadvisorai.com) | Fashionadvisor.Ai - Haga preguntas y obtenga respuestas de Fashionadvisor.Ai. | FashionAdvisor es una IA basada en GPT3 que responderá todas sus preguntas relacionadas con la moda de forma instantánea y gratuita. | :grey_question: |
 | [Visualhound](http://visualhound.com) | Visualhound - Crea prototipos de tus ideas de diseño de moda con IA. | Visualice los diseños de sus productos antes de pasar a producción. Cree imágenes de productos que parezcan realistas para alimentar sus moodboards y mejorar su proceso de diseño. | :grey_question: |
 
-<!--End of Moda-->
+<!--End of Moda 9-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -670,7 +670,7 @@
 | [mem](https://get.mem.ai/) | El espacio de trabajo autoorganizado. | Mem es el primer espacio de trabajo impulsado por IA del mundo que está personalizado para usted. Amplifica tu creatividad, automatiza lo mundano y mantente organizado automáticamente. | :white_check_mark: |
 | [timeMaster](https://www.timemaster.ai/) | Potencie su enfoque y productividad. | TimeMaster detecta automáticamente en qué está trabajando, categoriza sus actividades, etiqueta proyectos e incluso escribe registros de tiempo en su nombre. | :white_check_mark: |
 
-<!--End of Organización y Automatización-->
+<!--End of Organización y Automatización 31-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -1002,7 +1002,7 @@
 | [deck.rocks](https://www.deck.rocks/) | Deck.Rocks: Genere Pitch Decks usando GPT-3. | . | :grey_question: |
 | [micro Dalle-2](http://micropay.ai) | Generador de imágenes Dalle-2 - Micropay. | Software de IA generativo anónimo y de pago por uso. | :grey_question: |
 
-<!--End of Otro-->
+<!--End of Otro 0-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -1020,7 +1020,7 @@
 | [rankode](http://www.rankode.ai) | IA para Recursos Humanos - Rankode. | Reclutadores, todo lo que necesitan saber sobre las habilidades de programación de un candidato está en su GitHub. Evalúelos automáticamente con Rankode para evitar costosos errores de contratación y aumentar su retención. | :grey_question: |
 | [springworks](http://www.springworks.in) | Soluciones de software de recursos humanos para empresas en crecimiento. | Springworks crea soluciones de software de recursos humanos para resolver desafíos en reclutamiento, verificación de antecedentes y compromiso de los empleados con Blockchain e IA. | :white_check_mark: |
 
-<!--End of Recursos humanos y currículum-->
+<!--End of Recursos humanos y currículum 14-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -1038,7 +1038,7 @@
 | [Tweethunter](http://tweethunter.io) | Tweet Hunter: obtenga más seguidores de Twitter Tweets, hilos, programador, análisis. | Obtenga ventas, crecimiento y nuevas redes. Más rápido de lo que estás intentando actualmente. | :grey_question: |
 | [Tweetspear](http://www.tweetspear.com) | Tweetspear - Aumenta tu participación en Twitter. | Revolucione su participación en Twitter con las respuestas sugeridas impulsadas por IA. | :grey_question: |
 
-<!--End of Redes sociales y citas-->
+<!--End of Redes sociales y citas 34-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -1052,7 +1052,7 @@
 | [Reviewz](http://www.reviewz.ai) | Descubra todas las mejores cosas recomendadas por Ai. | . | :grey_question: |
 | [Sona](http://www.readthistwice.com) | Lea esto dos veces: libros que vale la pena leer dos veces. | Pasamos incontables horas buscando en Internet las mejores recomendaciones de libros de las personas que admiras. Nuestra base de datos está en constante crecimiento y se ha verificado la autenticidad de cada recomendación e incluye un enlace a la fuente. ¡Disfrutar!. | :grey_question: |
 
-<!--End of Reseñas y recomendaciones-->
+<!--End of Reseñas y recomendaciones 19-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -1072,7 +1072,7 @@
 | [NOLU](http://noluai.com) | Interactuar con IA debería ser simple. | Conoce a NOLU. Una interfaz simple para interactuar con el motor Open AI GPT-3. | :white_check_mark: |
 | [Vacay](https://usevacay.com/chatbot) | Agente de chat de vacaciones. | Este asistente de inteligencia artificial puede diseñar un viaje personalizado, brindarle inspiración sobre dónde ir e incluso generar recomendaciones locales para hoteles, restaurantes y atracciones. | :white_check_mark: |
 
-<!--End of Robot de chat-->
+<!--End of Robot de chat 3-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -1128,7 +1128,7 @@
 | [Your Cover Letter](http://yourcoverletter.com) | Generador de cartas de presentación con IA: cargue su currículum para comenzar. | Solicite los trabajos de sus sueños utilizando nuestro generador de cartas de presentación con IA. Agregue su currículum y la descripción del trabajo para generar una carta de presentación en segundos. | :grey_question: |
 | [coverletter.app](http://coverletter.app) | Cartas de presentación personalizadas, listas en minutos, no en horas - Coverletter.App. | Destáquese de la competencia y aumente sus posibilidades de ser contratado con cartas de presentación personalizadas de nuestra avanzada tecnología de inteligencia artificial. | :grey_question: |
 
-<!--End of Texto-->
+<!--End of Texto 22-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -1148,7 +1148,7 @@
 | [VERBATIK](http://verbatik.com) | Generación de texto a voz impulsada por IA. | Genere audio realista de texto a voz (TTS) utilizando el generador de voz AI en línea y las mejores voces sintéticas. Convierta instantáneamente el texto en voz con sonido natural y descárguelo como archivos de audio MP3 y WAV. | :x: |
 | [Wellsaid](http://wellsaidlabs.com) | Convierte Texto a Voz en Tiempo Real. | Con WellSaid, usted y su equipo pueden crear una voz en off de IA convincente y realista para todo su contenido digital. | :white_check_mark: |
 
-<!--End of Texto a voz-->
+<!--End of Texto a voz 23-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -1169,7 +1169,7 @@
 | [TranslateVideo](http://www.translate.video) | Traducir.Video. | . | :grey_question: |
 | [Voicetapp](http://voicetapp.com) | Voicetapp - Transcripción de voz a texto. | Obtenga transcripciones precisas para su AUDIO Y VIDEO con la última tecnología de reconocimiento de voz. | :grey_question: |
 
-<!--End of Traducción y Transcripción-->
+<!--End of Traducción y Transcripción 24-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -1192,7 +1192,7 @@
 | [Speaq.ai](https://www.speaq.ai/) | IA de conversión preparada para su negocio. | Nuestra misión es revolucionar el marketing B2B y la atención al cliente con inteligencia artificial. Programe reuniones sin esfuerzo y verifique la asistencia con IA. Optimice su proceso de encuesta con llamadas conversacionales de IA. | :grey_question: |
 | [unbounce](http://unbounce.com) | Herramientas de marketing inteligentes para hacer crecer su negocio. | Convierta a más de sus visitantes en clientes. Unbounce es el creador de páginas de destino impulsado por IA con funciones inteligentes que le permiten crear hermosas campañas de marketing de alto rendimiento en solo unos minutos. | :x: |
 
-<!--End of Ventas y Marketing-->
+<!--End of Ventas y Marketing 20-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -1205,6 +1205,7 @@
 | [Boolpic](http://boolv.tech) | Una plataforma de video inteligente que empodera a las marcas. | Genere videos sobre la marca 10 veces más rápido con IA para aumentar el rendimiento de marketing. | :grey_question: |
 | [D-ID's Creative Reality Studio](https://www.d-id.com/) | IA generativa orientada al futuro. | Produzca videos personalizados con avatares parlantes con solo tocar un botón, otorgando superpoderes a empresas y creadores. | :white_check_mark: |
 | [Deepfakesweb](http://deepfakesweb.com) | Haz tus propios deepfakes. | Nuestra aplicación deepfake fácil de usar utiliza inteligencia artificial y aprendizaje profundo para generar increíbles videos de intercambio de rostros. Haz tu propio video deepfake hoy. | :grey_question: |
+| [Eightify](https://eightify.app/) | Obtenga 8 ideas clave de los videos de YouTube. | ⚡️ Obtenga resúmenes instantáneos con tecnología de inteligencia artificial para videos de YouTube, ahorre tiempo, traduzca en 28 idiomas. | :white_check_mark: |
 | [Elai](http://elai.io) | Cree videos de IA a partir de solo texto. | Cree videos de IA personalizados con un presentador en minutos sin usar una cámara, un estudio y una pantalla verde. | :white_check_mark: |
 | [FilmForge](http://filmforge.uwu.ai) | Forja de película IA. | Genere instantáneamente videos atractivos. Subtítulos, voz en off, transcripción y gráficos incluidos. | :grey_question: |
 | [Fliki](http://fliki.ai?via=beth0) | Convierte texto en videos con voces de IA. | ¡Cree videos a partir de guiones o publicaciones de blog usando voces realistas en 2 minutos!. | :white_check_mark: |
@@ -1221,7 +1222,7 @@
 | [Waymark](http://waymark.com) | Aumente las ventas locales con videos increíblemente fáciles. | Cuando los anuncios de TV, CTV y digitales son tan sencillos, las posibilidades son ilimitadas. Los anuncios de alto impacto ahora están abiertos a todos, con Waymark. | :grey_question: |
 | [Wzrd.ai](http://wzrd.ai) | Experimenta tu sonido. | WZRD aumenta su audio con video inmersivo impulsado por inteligencia artificial. | :grey_question: |
 
-<!--End of Video-->
+<!--End of Video 25-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -1230,7 +1231,7 @@
 | Nombre | Título | Descripción | Ofrecer versión gratuita |
 |---|---|---|:---:|
 
-<!--End of Other-->
+<!--End of Other 0-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
