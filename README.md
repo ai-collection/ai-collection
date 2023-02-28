@@ -746,6 +746,7 @@ Translations:
 ## Text
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [AI Poem Generator](https://www.aipoemgenerator.org) | Free AI-powered poem generator | A free online poem maker that lets you generate beautiful rhyming poems on any subject with AI | :white_check_mark: |
 | [Bookclub](http://www.bookclub.ai) | Bookclub.Ai - Meet Your Next Book. | . | :grey_question: |
 | [ChatGPT Writer](http://chatgptwriter.ai) | . | . | :grey_question: |
 | [Childbook](http://www.childbook.ai) | Welcome to Children'S Book Creator!. | Your book will be personalized with characters, pictures and story. The story and illustrations also have a text-to-speech feature and can be listened to. | :grey_question: |
