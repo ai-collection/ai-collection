@@ -20,7 +20,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=828" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=830" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=35" />
@@ -490,6 +490,7 @@ Translations:
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Holiday Cards](http://aiholiday.cards) | AI Holiday Cards. | AI engine to create AI Holiday photorealistic Cards for couples. | :grey_question: |
+| [AI Poem Generator](https://aipoemgenerator.com/) | AiPoemGenerator.Com - Generate Beautiful and Unique Poems Effortlessly. | Create the perfect gift for every occasion: Birthday of a friend or family member, Weddings, Birth, etc. Just enter a few keywords/topics and let our robots do the rest. The more keywords you provide the more personal the generated poems become. | :x: |
 | [AIchristmascards](http://aichristmascards.com) | Holiday Cards, Reimagined. | Personalized AI Art Greetings Cards. | :x: |
 | [CoolGiftIdeas](http://www.coolgiftideas.io) | Cool Gift Ideas - AI-Powered Gift Suggestions. | . | :grey_question: |
 | [Elf Help](http://www.elfhelp.ai) | Elf Help. | Need some inspo for your holiday gifting? Elf help is your ultimate gift-giving assistant, offering creative and personalized suggestions for everyone on your list. | :grey_question: |
@@ -500,7 +501,6 @@ Translations:
 | [Giftastic AI](http://giftastic.ai) | Giftastic.Ai - Perfect Gift for Your Special One!. | Personalised gift ideas for every occasion!. | :grey_question: |
 | [Lovelines](http://lovelines.xyz?ref=ai-collection) | Lovelines.Xyz - Share Your Love With Custom Keepsakes Made by AI. | Create custom keepsakes for a loved one using AI that are optimized for social media. AI-generated poems, stories, letters, and song lyrics. | :x: |
 | [Text2present](http://text2present.com) | Text2Present.Com - Creative Presents From Busy People. | Allows you to create creative customized presents using artificial intelligence for your friends, family and acquaintances without taking your precious time. Simply enter a text description of what you want to gift and let our artificial intelligence do the rest. | :grey_question: |
-| [AI Poem Generator](https://aipoemgenerator.com/) | AiPoemGenerator.Com - Generate beautiful and unique poems effortlessly. | Create the perfect gift for every occasion: Birthday of a friend or family member, Weddings, Birth, etc. Just enter a few keywords/topics and let our robots do the rest. The more keywords you provide the more personal the generated poems become. | :grey_question: |
 
 <!--End of Gift Ideas 12-->
 
@@ -747,7 +747,6 @@ Translations:
 ## Text
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [AI Poem Generator](https://www.aipoemgenerator.org) | Free AI-powered poem generator | A free online poem maker that lets you generate beautiful rhyming poems on any subject with AI | :white_check_mark: |
 | [Bookclub](http://www.bookclub.ai) | Bookclub.Ai - Meet Your Next Book. | . | :grey_question: |
 | [ChatGPT Writer](http://chatgptwriter.ai) | . | . | :grey_question: |
 | [Childbook](http://www.childbook.ai) | Welcome to Children'S Book Creator!. | Your book will be personalized with characters, pictures and story. The story and illustrations also have a text-to-speech feature and can be listened to. | :grey_question: |
@@ -866,7 +865,6 @@ Translations:
 | [Vidyo](http://vidyo.ai) | AI Based Content Repurposing - Vidyo.Ai. | Create social ready short clips from your videos with AI ✨ Save 90% time and effort. | :grey_question: |
 | [Waymark](http://waymark.com) | Boost Local Sales With Unbelievably Easy Video. | When TV, CTV, and digital ads are this effortless, the possibilities are limitless. High-impact ads are now open to everyone, with Waymark. | :grey_question: |
 | [Wzrd.ai](http://wzrd.ai) | Experience Your Sound. | WZRD augments your audio with immersive video powered by artificial intelligence. | :grey_question: |
-| [Eightify](https://eightify.app/) | Get 8 key ideas from YouTube videos | ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages | :white_check_mark: |
 
 <!--End of Video 25-->
 
