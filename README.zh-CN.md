@@ -469,6 +469,7 @@
 ## 文本
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
+| [AI Poem Generator](https://www.aipoemgenerator.org) | 免费的人工智能诗歌生成器. | 一个免费的在线诗歌创作者，可让您使用 AI 生成任何主题的优美押韵诗歌. | :white_check_mark: |
 | [Bookclub](http://www.bookclub.ai) | Bookclub.ai - 遇见你的下一本书. | . | :grey_question: |
 | [ChatGPT Writer](http://chatgptwriter.ai) | . | . | :grey_question: |
 | [Childbook](http://www.childbook.ai) | 欢迎来到儿童图书创作者！. | 您的书将通过人物、图片和故事进行个性化设置。故事和插图还具有文本转语音功能，可以收听。. | :grey_question: |
