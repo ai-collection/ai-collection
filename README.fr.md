@@ -20,7 +20,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=828" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=830" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=35" />
@@ -231,338 +231,6 @@
 | [Writefull Academizer](http://x.writefull.com) | Writefull X : l'IA appliquée à l'écriture académique. | . | :grey_question: |
 
 <!--End of Assistante d'écriture 26-->
-
-<!--lint ignore double-link-->
-**[⬆ Retour à l'index](#index)**
-
-## Autre
-| Nom | Titre | Description | Offrir une version gratuite |
-|---|---|---|:---:|
-| [1Case](http://1case.io) | Coques de téléphone personnalisées fabriquées par AI. | Trouvez votre coque unique en quelques secondes. | :grey_question: |
-| [AI Car Diagnosis](http://cardiagnosis.softr.app) | Diagnostic de voiture IA. | Obtenez des diagnostics en temps réel et des informations sur les performances de votre voiture grâce à notre outil de pointe. | :grey_question: |
-| [AI Content Generator](http://yep.so) | Yep.so - De l'idée aux inscriptions en 15 minutes. | . | :white_check_mark: |
-| [AI Data Sidekick](http://www.airops.com) | AirOps - Données déverrouillées. 10 fois plus rapide avec l'IA. | . | :grey_question: |
-| [AI Image Upscaler](http://www.upscale.media) | AI Image Upscaler - Agrandissez et améliorez vos photos gratuitement. | Améliorez votre image à 2x ou 4x sans perdre de textures ou de détails avec notre outil AI. Utilisez notre outil de super résolution et donnez une nouvelle vie à vos images. | :white_check_mark: |
-| [AI Paraphrasing Tool](http://contentbot.ai) | ContentBot - AI Writer - Contenu IA pour les fondateurs et les spécialistes du marketing de contenu. | . | :grey_question: |
-| [AI Pickup Lines Generator](http://www.aipickuplines.com) | Lignes de ramassage IA. | . | :grey_question: |
-| [AI Project Description Generator](http://www.welovenocode.com) | . | . | :grey_question: |
-| [AI Prompt Generator](http://fictionio.gumroad.com) | Fiction. | . | :grey_question: |
-| [AI Query](http://www.aiquery.co) | AI Query - Générez des requêtes SQL avec l'IA en quelques secondes. | Utilisez un anglais simple et laissez AI faire le gros du travail pour vous. Avec AI Query, n'importe qui peut créer des requêtes SQL efficaces, sans même rien savoir à ce sujet. | :grey_question: |
-| [AI Recipe Generator](http://ai-recipes.softr.app) | Générateur de recettes IA. | . | :grey_question: |
-| [AI Rental Cover Letter](http://sharehouse.app) | 🏡 Sharehouse - Recherche de colocataire gratuite. | Connectez-vous avec des Sharehouses, des colocataires ou des colocataires. Listez et annoncez librement votre chambre, maison ou appartement. | :grey_question: |
-| [AI Resume Editor](http://www.rezi.ai) | Rezi - Le meilleur constructeur de CV AI auquel 352 894 utilisateurs font confiance. | . | :grey_question: |
-| [AI SQL BOT](http://aihelperbot.com) | Générateur de requêtes SQL AI : le moyen le plus simple de créer des requêtes SQL sans connaissances préalables en SQL - Générateur de requêtes SQL utilisant l'IA. | . | :grey_question: |
-| [AI Social Bio](http://aisocialbio.com) | Bio sociale de l'IA. | . | :grey_question: |
-| [AI Social Media Post Writerby Socialblu](http://socialbu.com) | SocialBu - Gestion et automatisation des médias sociaux. | SocialBu est la solution parfaite pour améliorer votre présence sur les réseaux sociaux et maximiser vos résultats. Publiez, répondez, analysez et automatisez - le tout depuis SocialBu. | :grey_question: |
-| [AI Sports Prediction](http://sportsprediction.ai) | Prédictions de paris sportifs IA - Sports Prediction AI. | . | :grey_question: |
-| [AI Writer by Picsart](http://tools.picsart.com) | Modifier des images, des vidéos et des documents gratuitement - Quicktools par Picsart. | Créer des arrière-plans transparents pour vos images, découper des vidéos et convertir des types de fichiers - faites tout cela avec Quicktools. | :white_check_mark: |
-| [AIArt](http://aiart.dev) | aiart.dev. | . | :grey_question: |
-| [ARTSIO](http://artsio.xyz) | ARTSIO. | . | :grey_question: |
-| [Adobe Mic Check](https://podcast.adobe.com/miccheck) | Vérifiez votre micro gratuitement. | Obtenez des conseils pour améliorer la configuration de votre microphone. Nous veillerons à ce que vous ayez l'air prêt pour le podcast. | :white_check_mark: |
-| [Adobe Podcast](http://www.magictools.online) | 276 Outils IA. | . | :grey_question: |
-| [Aiappideas](http://www.aiappideas.com) | Idées d'applications d'IA. | . | :white_check_mark: |
-| [Aida](http://www.bookmark.com) | Passez du temps à gérer votre entreprise, pas votre site Web. | Laissez notre créateur de site Web propulsé par Ai mettre votre entreprise en ligne en quelques minutes. | :white_check_mark: |
-| [Aiva](http://aiva.ai) | AIVA - L'IA qui compose une bande-son émotionnelle. | . | :grey_question: |
-| [Albus](https://www.springworks.in/albus/) | Albus - ChatGPT maintenant sur Slack. | Albus utilise la technologie de traitement du langage naturel pour vous aider à trouver des réponses à toutes vos questions sans quitter Slack. Bénéficiez dès maintenant de la puissance de ChatGPT directement dans votre espace de travail !. | :white_check_mark: |
-| [Alfred](http://www.alfredsearch.com) | Alfred - Chat GPT sur mobile. | . | :grey_question: |
-| [Amadeus Code](http://amadeuscode.com) | 株式会社Amadeus Code - 公式企業サイト. | Code d'Amadeus pour le Code Amadeus. | :grey_question: |
-| [Amper AI](http://www.ampermusic.com) | Outils de composition musicale IA pour les créateurs de contenu. | Amper est une société de composition musicale basée sur l'intelligence artificielle qui développe des outils pour les créateurs de contenu de toutes sortes. Découvrez notre nouvelle plateforme d'entreprise, Score, ainsi que notre API de créateur. | :grey_question: |
-| [Andisearch](http://andisearch.com) | Andi - Recherche de la prochaine génération. | . | :grey_question: |
-| [Ansy](http://ansy.ai) | Ansy.ai - GPT-3 pour votre serveur Discord. | Bot Discord propulsé par GPT-3 qui répond aux questions des membres de votre communauté Discord en fonction de l'historique des discussions. | :grey_question: |
-| [Artflow](http://artflow.ai) | Flux d'art. | . | :grey_question: |
-| [Artistator](http://artistator.com) | Générez des noms d'artistes de vos genres musicaux préférés. | . | :white_check_mark: |
-| [Artroom](http://artroom.ai) | ArtRoom IA. | . | :grey_question: |
-| [Ask Poppy](http://www.poppylist.com) | Poppylist - Soyez le parent que vous voulez être. | Vous connaissez votre style de vie. Nous connaissons les produits. Construisons ensemble votre liste de naissance. | :grey_question: |
-| [Aspen](http://www.getaspenai.com) | Tremble. | . | :grey_question: |
-| [Athena](http://www.apac.ai) | Portail APAC AI ACCOUNT. | . | :grey_question: |
-| [Atlas Navi](http://www.atlasnavi.com) | AtlasNavi.com. | . | :grey_question: |
-| [Auto Draw](http://www.autodraw.com) | Dessin automatique. | Dessin rapide pour tout le monde. AutoDraw associe l'apprentissage automatique à des dessins d'artistes talentueux pour vous aider à dessiner rapidement. | :grey_question: |
-| [AutoPredict](http://autopredict.co.uk) | AutoPredict - Prédire la durée de vie de votre voiture. | AutoPredict utilise une IA de pointe pour prédire la durée de vie probable d'une voiture britannique. | :grey_question: |
-| [Avtrs](http://www.avtrs.ai) | avtrs.ai. | . | :grey_question: |
-| [B^ DISCOVER](http://bdiscover.kakaobrain.com) | B^ DÉCOUVRIR - Accueil. | Vous vivrez une nouvelle expérience de découverte de votre histoire en images. | :grey_question: |
-| [BaruaAI](http://baruaai.com) | Brian Gacheru. | . | :grey_question: |
-| [Baseten](http://app.baseten.co) | Baseten - Plateforme MLOps pour startups. | Baseten est un backend sans serveur pour la création d'applications alimentées par ML. Créez des applications avec mise à l'échelle automatique, accès GPU, tâches CRON et fonctions sans serveur. | :grey_question: |
-| [Beb AI](http://beb.ai) | beb.ai. | Les possibilités sont illimitées, beb. | :grey_question: |
-| [BedtimeStory](http://www.bedtimestory.ai) | . | . | :grey_question: |
-| [Bertha.ai](http://bertha.ai) | . | . | :grey_question: |
-| [BetterWriter](http://betterwriter.ai) | Écrivez plus vite avec A.I. BetterWriter.ai. | . | :grey_question: |
-| [BigJpg](http://bigjpg.com) | Bigjpg - Outil d'agrandissement / de mise à l'échelle d'image sans perte de super-résolution AI utilisant des réseaux de neurones à convolution profonde. | Bigjpg - Super-résolution d'image pour les œuvres d'art de style anime utilisant les réseaux de neurones à convolution profonde sans perte de qualité. Les photos sont également prises en charge. | :grey_question: |
-| [Bito AI](http://bito.co) | Bito. | . | :grey_question: |
-| [Blackink](http://blackink.ai) | Créez votre propre tatouage flash unique en quelques secondes. | Arrêtez de passer des mois à chercher votre prochain tatouage sur Pinterest. Générez des tatouages personnalisés et uniques en quelques secondes avec l'IA de BlackInk, conçu pour créer des motifs de type tatouage juste pour vous. | :white_check_mark: |
-| [Blimey](http://blimeycreate.com) | Merde. | Blimey est un générateur d'images IA où vous pouvez passer de l'idée à la réalité en une minute. Avec un contrôle total sur la composition, les couleurs et le style. | :grey_question: |
-| [Bloomoon](http://www.bloomoon.art) | floraison. | Découvrez des peintures uniques générées par l'IA chez bloomoon. | :grey_question: |
-| [Boo AI](http://boo.ai) | . | . | :grey_question: |
-| [Boomy](http://boomy.com) | Boomy - Créez de la musique instantanée avec l'intelligence artificielle. | . | :grey_question: |
-| [Botowski](http://www.botowski.com) | Votre rédacteur personnel en IA - Botowski. | . | :grey_question: |
-| [BrameWork](http://www.bramework.com) | Bramework - Rédacteur IA qui vous aide à écrire des blogs 5 fois plus rapidement. | Bramework est un rédacteur d'IA facile à utiliser qui aide les blogueurs, les pigistes et les agences à économiser des heures par article de blog. | :grey_question: |
-| [Business Idea Generator](http://www.bizideas.ai) | Remue-méninges d'idées d'entreprise. | . | :grey_question: |
-| [CF Spark](http://www.creativefabrica.com) | . | . | :grey_question: |
-| [CFRexplorer](http://cfrexplorer.com) | CFR Explorer - Posez des questions à l'IA sur les CFR. | . | :grey_question: |
-| [Caktus](http://www.caktus.ai) | Caktus IA. | . | :grey_question: |
-| [Chapterme](http://chapterme.co) | ChapterMe - Chapitres optimisés par l'IA pour vos vidéos. | . | :grey_question: |
-| [CheapNFT.Art](http://cheapnft.art) | NFT bon marché. | . | :grey_question: |
-| [Code Language Converter](http://codelanguageconverter.com) | Convertisseur de langage de code - Convertissez du code dans d'autres langages à l'aide de l'IA. | . | :grey_question: |
-| [Cogram](http://www.cogram.com) | Cogram - Notes de réunion et éléments d'action sans effort. | Cogram utilise l'intelligence artificielle pour créer des comptes rendus de réunion de haute qualité et proposer des actions. | :grey_question: |
-| [Colossyan](http://www.colossyan.com) | Créateur colossien. | Colossyan Creator rend la création vidéo simple et sans stress. Découvrez notre créateur de vidéos IA avec de vrais acteurs. Créez des vidéos en moins de 5 minutes. | :white_check_mark: |
-| [Compose AI](http://www.compose.ai) | Compose AI : automatisez votre écriture. | . | :white_check_mark: |
-| [Coolaiid](http://coolaiid.com) | CoolAid. | Que vous cherchiez à décorer ou que vous ayez simplement besoin d'un peu d'inspiration, nous générerons des idées uniques à l'aide de l'IA. | :grey_question: |
-| [CopyScouts](http://copyscouts.com) | CopyScouts - Outil de rédaction durable assisté par l'IA. | Utilisez l'écriture AI illimitée basée sur GPT-3 pour un prix mensuel fixe. | :grey_question: |
-| [Copymatic](http://copymatic.ai) | . | . | :grey_question: |
-| [Coverquick](http://www.coverquick.co) | CouvertureQuick. | Postulez en toute confiance. | :grey_question: |
-| [Cowriter](http://cowriter.org) | Co Writer - votre compagnon IA pour un contenu marketing inspirant. | . | :grey_question: |
-| [Craiyon](http://www.craiyon.com) | Craiyon, anciennement DALL-E mini. | Craiyon est un modèle d'IA capable de dessiner des images à partir de n'importe quelle invite de texte !. | :grey_question: |
-| [Createaivoiceovers](http://createaivoiceovers.com) | Générateur de voix en ligne de synthèse vocale, Générateur de synthèse vocale - Voix réalistes - Créez des voix off Ai. | . | :grey_question: |
-| [DREAM.page](http://dream.page) | . | . | :grey_question: |
-| [Dadabots](http://dadabots.com) | Les réseaux de neurones. | . | :grey_question: |
-| [Daft Art](http://www.daftart.ai) | Daft Art — Créez la pochette d'album dont vous avez toujours rêvé. | Daft vous permet de créer une superbe illustration de haute qualité pour la couverture de votre album en quelques minutes, alimentée par l'IA. | :grey_question: |
-| [Daydrm](http://www.daydrm.ai) | Daydrm.ai. | L'avenir de la publicité utilise l'apprentissage automatique pour faire preuve de créativité. | :grey_question: |
-| [Debuild](http://debuild.app) | Debuild - Créez rapidement des applications Web. | . | :grey_question: |
-| [Designs AI](http://designs.ai) | Créez des logos, des vidéos, des bannières, des voix off avec l'IA. | Créez n'importe quoi en ligne en 2 minutes ! Créez un logo, une vidéo, une bannière de médias sociaux, une carte de visite, un dépliant, une maquette et plus encore avec l'IA. | :white_check_mark: |
-| [DetangleAI](http://detangle.ai) | DémêlerAI. | . | :grey_question: |
-| [Dewey](http://www.withdewey.com) | Dewey : votre nouveau compagnon de responsabilité. | . | :grey_question: |
-| [Diffusion Bee](http://diffusionbee.com) | DiffusionBee - Application de diffusion stable pour l'art de l'IA. | DiffusionBee est le moyen le plus simple de générer de l'art IA sur votre ordinateur avec Stable Diffusion. | :white_check_mark: |
-| [DigiMarkAI](http://www.digimarkai.com) | DigiMarkAI. | . | :grey_question: |
-| [DrawAnyone](http://drawanyone.ai) | drawanyone - dessine n'importe qui, comme tu veux. | . | :grey_question: |
-| [Dreamily](http://dreamily.ai) | Dreamily-bêta. | . | :grey_question: |
-| [Dubverse.ai](http://dubverse.ai) | Doublage vidéo en ligne avec Dubverse.ai. | . | :grey_question: |
-| [Dust](http://xp1.dust.tt) | Poussière - XP1. | . | :grey_question: |
-| [ELSA SPEECH ANALYZER](http://speechanalyzer.elsaspeak.com) | . | . | :white_check_mark: |
-| [Ebsynth](http://ebsynth.com) | EbSynth - Transformez la vidéo en peignant sur une seule image. | Vous peignez une image et EbSynth la propage au reste du métrage. | :grey_question: |
-| [Echowin](http://echo.win) | Gestion des appels alimentée par l'IA avec une compréhension complète du langage naturel et des réponses personnalisées pour chaque scénario. | . | :grey_question: |
-| [Ecrett Music](http://ecrettmusic.com) | Un moyen facile de créer de la musique libre de droits - musique secrète. | . | :grey_question: |
-| [Elicit](http://elicit.org) | Elicit : l'assistant de recherche en IA. | Elicit utilise l'apprentissage automatique pour vous aider dans vos recherches : trouver des articles, extraire des revendications clés, résumer, réfléchir à des idées, etc. | :grey_question: |
-| [Equally.ai](http://equally.ai) | Conformité de l'accessibilité Web pour tous. | Obtenez facilement la conformité ADA et WCAG. | :white_check_mark: |
-| [Everypixel](http://www.everypixel.com) | Moteur de recherche d'images - Plus de 50 meilleures sources - Everypixel. | . | :grey_question: |
-| [ExactBuyer Search](http://www.exactbuyer.com) | ExactBuyer - Recherche d'entreprises alimentée par l'IA pour les équipes de prospection. | . | :grey_question: |
-| [FakeYou](http://fakeyou.com) | FakeYou. Deep Fake Text to Speech. | . | :grey_question: |
-| [Fireflies](http://fireflies.ai) | Fireflies.ai - Fireflies AI Notetaker & Conversation Intelligence. | Fireflies.ai aide votre équipe à enregistrer, transcrire, rechercher et analyser les conversations vocales. | :grey_question: |
-| [Flexberry AI Assistant](http://ai.flexberry.net) | Assistant IA. | Cela permet de réduire de 30 % le temps que les analystes commerciaux consacrent au traitement des exigences et également à la génération d'artefacts. | :grey_question: |
-| [FoodAI](http://www.foodai.app) | FoodAI.app - Générez des recettes de cuisine avec l'IA !. | . | :grey_question: |
-| [Free Text-To-Speech](http://www.text-to-speech.online) | Outils gratuits de conversion de texte en parole en ligne. | . | :white_check_mark: |
-| [Friday AI](http://www.heyfriday.ai) | HeyFriday - Écrivain IA ultime. | . | :grey_question: |
-| [GGPredict](http://ggpredict.io) | GGPredict.io. | . | :grey_question: |
-| [GPTKey](http://gptkey.com) | GPTKey - Écrivez avec l'IA à l'aide du clavier GPT. | Écrivez avec l'IA dans n'importe quelle application à l'aide de l'extension de clavier personnalisée GPT. | :grey_question: |
-| [Genius Sheets](http://www.geniussheets.com) | Genius Sheets Automatisation financière. | Les solutions Genius Sheets AI Text To Reports vous aident à analyser les données financières plus rapidement, ce qui permet aux équipes de prendre de meilleures décisions. Restez dans Excel et Google Sheets et automatisez votre processus de reporting financier avec des connexions de données en direct. | :grey_question: |
-| [GetSound](https://www.getsound.ai/) | Bienvenue dans le futur des paysages sonores Ai de l'hospitalité. | Ambiances sonores relaxantes pour les saunas, les douches et les zones de massage. Les piscines, les plages, les jardins ou les toits obtiendront le paysage sonore parfait. Rendez à nouveau votre hall, vos couloirs ou vos ascenseurs uniques. Faites-en plus avec un paysage sonore naturel pour une meilleure concentration et une meilleure harmonie. | :white_check_mark: |
-| [Gifts Genie](http://gen.gifts) | Génie - Générateur de cadeaux IA. | . | :grey_question: |
-| [Glasp](http://glasp.co) | Glasp : Surligneur Web social. | Mettez en surbrillance et ajoutez des notes au fur et à mesure que vous lisez. Créez une bibliothèque de votre apprentissage. | :grey_question: |
-| [GooseAI](http://goose.ai) | GooseAI. | . | :grey_question: |
-| [Graham AI](http://www.grahamai.co) | Graham.AI - Générateur de tweets techniques. | . | :grey_question: |
-| [H2O AI](http://h2o.ai) | H2O.ai - Plateforme cloud d'IA. | . | :grey_question: |
-| [Handywriter](http://handyplugins.co) | HandyPlugins – plugins WordPress bien conçus. | . | :grey_question: |
-| [Headline-ai](http://headline-ai.com) | IA de titre. | . | :grey_question: |
-| [HelloScribe](http://www.helloscribe.ai) | HelloScribe : Donnez vie à vos meilleures idées. | . | :grey_question: |
-| [HookShot](http://hookshot.ironwill.ai) | Jeu de lecture rapide Hookshot. | . | :grey_question: |
-| [HotConvo](http://hotconvo.art) | HotConvo. | . | :grey_question: |
-| [Hour One](http://hourone.ai) | Créez des vidéos d'IA pour former n'importe qui ou expliquer n'importe quoi - Première heure. | . | :grey_question: |
-| [Hubble](http://www.hubble.team) | Hubble - Commentaires sur les produits et avis des utilisateurs. | Créez des produits de classe mondiale en recueillant des commentaires de haute qualité des utilisateurs sur les prototypes, les versions bêta et les fonctionnalités en direct. | :grey_question: |
-| [ICONS8](http://icons8.com) | Icônes, illustrations, photos, musique et outils de conception. | Changez les visages des photos d'archives, Smart Upscaler, mettez à jour votre site Web directement depuis Lunacy et plus encore. | :white_check_mark: |
-| [Ideasai](http://ideasai.com) | Idées de démarrage alimentées par OpenAI. | . | :grey_question: |
-| [Inferkit](http://app.inferkit.com) | DéduireKit. | . | :grey_question: |
-| [Infinite Drum Machine](http://experiments.withgoogle.com) | Expérimentations avec Google. | . | :grey_question: |
-| [Inworld](http://www.inworld.ai) | Inworld AI - Créez des personnages IA et demandez-leur n'importe quoi. | Créez des personnages IA et des PNJ pour des jeux, des métaverses et des applications professionnelles, ou simplement pour le plaisir. Vous pouvez parler de n'importe quoi aux personnages de l'IA. C'est simple, gratuit et plein de possibilités. | :white_check_mark: |
-| [Jamie](http://www.meetjamie.ai) | jamie - Assistant IA pour les résumés de réunion. | jamie est une assistante IA qui crée des résumés de réunions de qualité professionnelle en quelques secondes. Essayez maintenant et laissez-vous convaincre par l'expérience magique. | :grey_question: |
-| [Jenni](http://jenni.ai) | Boostez votre écriture avec Jenni AI. | . | :grey_question: |
-| [Jinnee](http://jinnee.co) | . | . | :grey_question: |
-| [Kinestex](http://www.kinestex.com) | KinesteX - Coach IA dans votre téléphone. | . | :grey_question: |
-| [Kive](http://www.kive.ai) | Kive - Toile IA. | toute votre inspiration au même endroit. | :grey_question: |
-| [Kore.ai](http://kore.ai) | Plateforme d'optimisation de l'expérience AI-first pour les entreprises. | Kore.ai automatise les interactions front-office et back-office pour chaque secteur en déployant des assistants virtuels et des assistants de processus conversationnels axés sur l'IA. | :grey_question: |
-| [Langotalk](http://www.langotalk.org) | Langotalk : apprenez les langues 6 fois plus vite avec l'IA. | Ayez des conversations confiantes en semaines au lieu d'années. | :grey_question: |
-| [Letsenhance](http://letsenhance.io) | Let's Enhance - Application en ligne de qualité d'image et agrandisseur de photos gratuit. | Logiciel d'intelligence artificielle pour améliorer et mettre à l'échelle les images. Augmentez la résolution et la qualité. Corrigez les images floues, pixélisées et mauvaises. Rendez chaque photo nette et claire. | :white_check_mark: |
-| [Levity](http://levity.ai) | Levity - Plateforme d'automatisation de flux de travail d'IA sans code. | . | :grey_question: |
-| [Linkedin Posts Generator](http://sid.black) | Siddharth Verma - Freelance Full Stack - Startup Guy. | Salut, je suis Siddharth Verma. Un passionné de start-up avec plus de 6 ans d'expérience. J'ai travaillé avec plus de 50 entreprises SAAS en les aidant à créer des solutions évolutives robustes, des problèmes de produits et d'ingénierie. | :grey_question: |
-| [LuciaAI](http://luciaai.com) | LuciaAI. | Lucia utilise la technologie d'intelligence artificielle la plus récente et la plus avancée. Avec Lucia, vous pouvez écrire plus vite et mieux que jamais. | :grey_question: |
-| [Magic Mate](http://www.getmagicmate.com) | Magic Mate. | . | :grey_question: |
-| [MagicStock](http://aimages.ai) | Aimages - Améliorateur de vidéo et d'image AI en ligne. | Améliorez et améliorez les vidéos et les images en ligne à l'aide de l'IA. | :white_check_mark: |
-| [Make a Video](http://makeavideo.studio) | Faire une vidéo. | . | :grey_question: |
-| [Make3D](http://make3d.app) | Rendez votre image 3D. | . | :grey_question: |
-| [Mapwith.ai](http://mapwith.ai) | Utiliser l'IA pour cartographier le monde. | En collaboration avec OpenStreetMap, nous créons des outils qui, nous l'espérons, permettront à la communauté de cartographie de profiter d'une expérience de cartographie plus rapide et plus précise. | :grey_question: |
-| [Masterpiece Studio](http://masterpiecestudio.com) | Chef-d'œuvre Studio. | . | :grey_question: |
-| [Midjourney](http://www.midjourney.com) | À mi-parcours. | Un laboratoire de recherche indépendant explorant de nouveaux médiums de pensée et développant les pouvoirs imaginatifs de l'espèce humaine. | :grey_question: |
-| [Mokker](http://mokker.ai) | Mokker IA. | Génération de photos alimentée par l'IA pour le commerce électronique. | :grey_question: |
-| [Moonbeam](http://www.gomoonbeam.com) | Moonbeam - N'écrivez plus jamais à partir de zéro. | . | :grey_question: |
-| [Movio](http://www.movio.la) | Movio - Générateur vidéo de porte-parole IA. | . | :grey_question: |
-| [Mrgn](http://Mrgn.ai) | Intelligence d'entreprise pour les petites entreprises. | . | :white_check_mark: |
-| [My Instant Writer](http://www.myinstantwriter.com) | Mon écrivain instantané. | . | :grey_question: |
-| [My Pitch Deck](http://mypitchdeck.com) | MY PITCH DECK - Modèles de pitch deck générés par l'IA pour les startups. | . | :grey_question: |
-| [MyAnima AI Companion](http://myanima.ai) | Anima : ami de l'IA. | . | :grey_question: |
-| [NMKD Stable Diffusion](http://nmkd.itch.io) | N00MKRAD - itch.io. | . | :grey_question: |
-| [NSFW JS](http://nsfwjs.com) | NSFW JS. | . | :grey_question: |
-| [Natural Language Playlist](http://www.naturallanguageplaylist.com) | Liste de lecture en langage naturel. | . | :grey_question: |
-| [NaturalReader](http://www.naturalreaders.com) | Voix IA - Accueil NaturalReader. | . | :grey_question: |
-| [Neural Studio](http://neural.cam) | NeuralCam. | avec traitement d'image alimenté par l'IA. | :grey_question: |
-| [Neural.Love](http://neural.love) | Générateur d'images AI gratuit et amélioration de l'IA - neural.love. | Utilisez AI Image Generator gratuitement ou améliorez l'IA, ou accédez à des millions d'images du domaine public - Amélioration de l'IA et outils d'IA en ligne faciles à utiliser. | :white_check_mark: |
-| [Neuralblender](http://neuralblender.com) | NeuralBlender.com. | . | :grey_question: |
-| [Neuralframes](http://www.neuralframes.com) | cadres neuronaux. | . | :grey_question: |
-| [Neuroflash](http://app.neuro-flash.com) | Application - neuroflash. | . | :grey_question: |
-| [NewsDeck from OneSub](http://newsdeck.pro) | NewsDeck - Trouvez, filtrez et analysez des milliers d'articles, quotidiennement. | . | :grey_question: |
-| [Nichess](http://nichesss.com) | nichesss - AI Writer - Logiciel de rédaction publicitaire IA. | . | :grey_question: |
-| [Nightcap](http://www.nightcap.guru) | Gourou du bonnet de nuit. | . | :grey_question: |
-| [Nijijourney](http://nijijourney.com) | にじジャーニー. | 魔法でイラストをつくろう. | :grey_question: |
-| [Not A Person](http://neuralactors.com) | Acteurs neuronaux. | . | :grey_question: |
-| [Notion AI](http://www.notion.so) | Notion – Un espace de travail. Chaque équipe. | . | :grey_question: |
-| [NovelAI](http://novelai.net) | NovelAI - Le conteur d'IA propulsé par GPT. | . | :grey_question: |
-| [Nyx Gallery](http://nyx.gallery) | Nyx.gallery - Photographie générée par l'IA. | Les images sur ce site Web ont été générées avec AI et ne sont donc «pas réelles». | :grey_question: |
-| [Oda Studio](http://stager.odastudio.ai) | Tableau d'ambiance Oda. | Choisissez votre style et votre couleur pour personnaliser votre maison en quelques secondes grâce à l'IA. | :grey_question: |
-| [Olli](http://www.olli.ai) | Olli.ai - Votre analyste de données personnelles. | Olli est la plate-forme d'IA pour créer des visualisations de données 10 fois plus rapidement - c'est comme avoir un assistant qui s'occupe des parties ennuyeuses de la recherche de données, de la création de visualisations et de leur préparation pour les présentations. | :grey_question: |
-| [Once Upon A Bot](http://onceuponabot.com) | Il était une fois un bot • Créez des histoires pour enfants avec l'IA. | Dites à OnceUponABot votre idée d'histoire, et le robot écrira une histoire à partir de zéro en utilisant l'IA. Ensuite, vous pouvez lire, modifier, exporter et partager vos créations. | :x: |
-| [Opus](http://opus.ai) | OpusSite Web. | . | :grey_question: |
-| [Orchard](http://orchard.ink) | Verger. | . | :grey_question: |
-| [Outdone V2](http://www.outdone.io) | En reste. | . | :grey_question: |
-| [Paperade](http://www.paperade.co) | Générateur d'idées de démarrage Paperade. | Paperade est le premier outil alimenté par l'IA qui génère des cas d'utilisation commerciale et des idées d'entreprise à partir de plus de 100 millions d'articles universitaires et d'études de recherche. | :grey_question: |
-| [Patience](http://patience.ai) | Patience - AI Art avec diffusion stable. | . | :grey_question: |
-| [Pattern Maker AI](http://patternmakerai.com) | Générez des modèles homogènes à l'aide de l'intelligence artificielle. | Générez des modèles vectoriels continus à l'aide de l'intelligence artificielle. | :grey_question: |
-| [PatternedAI](http://www.patterned.ai) | MotifAI. | . | :grey_question: |
-| [Peppertype.ai](http://www.peppertype.ai) | Peppertype.ai - Créez du contenu de qualité plus rapidement. | Générez du contenu qui se convertit en quelques secondes. | :grey_question: |
-| [PersonaCardAI](http://www.personacardai.com) | PersonaCardAI - Trouvez vos 3 meilleurs profils de personas. | Arrêtez de passer des heures dans des ateliers pour essayer de trouver vos personas. Notre IA révèle vos 3 meilleurs profils de personas au sein de votre CRM avec plus de 20 attributs. | :grey_question: |
-| [Petpic](http://www.petpic.ai) | Petpic.ai. | Votre animal préféré peut maintenant être n'importe quoi, n'importe où, même n'importe qui. Il suffit de télécharger quelques photos et de laisser AI faire sa magie créative. | :grey_question: |
-| [Petportrait](http://petportrait.ai) | Pet Portrait AI - Beaux portraits d'animaux personnalisés. | Vous cherchez un cadeau attentionné pour votre animal de compagnie ? Pet Portrait AI génère des portraits uniques et personnalisés de vos chats, chiens et autres animaux de compagnie dans une variété de styles. Notre technologie d'intelligence artificielle garantit que chaque portrait est unique, tout comme votre animal de compagnie. | :grey_question: |
-| [Pfpmaker](http://pfpmaker.com) | Créateur d'images de profil gratuit - Créez un PFP impressionnant en ligne. | Téléchargez votre photo pour créer une photo de profil d'aspect professionnel et une couverture d'arrière-plan assortie. | :white_check_mark: |
-| [Phantasmagoria](http://www.phantasmagoria.me) | . | . | :grey_question: |
-| [Phase](http://www.phase.art) | Bienvenue sur Phase !. | . | :grey_question: |
-| [Photoleap](http://www.photoleapapp.com) | Text to Image - Application de retouche photo créative et puissante par Lightricks. | Utilisez l'éditeur de photos tout-en-un Photoleap pour des créations étonnantes sur votre iPhone : modifiez les arrière-plans, supprimez des objets, créez des collages, appliquez des filtres et des effets. | :white_check_mark: |
-| [Phraser](http://phraser.tech) | Phraser - l'outil IA créatif collaboratif. | Phraser est une application qui vous aide à créer des images à l'aide de l'IA générative (Midjourney, Stable Diffusion et DALLE 2), à collaborer et à vous inspirer. | :grey_question: |
-| [Phygital](http://phygital.plus) | . | . | :grey_question: |
-| [PicSo](http://picso.ai) | Générateur d'art PicSo AI. | PicSo est une application de générateur d'art IA texte-image et une plate-forme en ligne pour l'art numérique créatif. Essayez GRATUITEMENT de transformer vos idées en art NFT, peinture à l'huile et plus encore. | :white_check_mark: |
-| [PictoDream](http://pictodream.com) | Générez des images de vous-même avec l'IA - PictoDream.com. | Générez des images de vous-même (ou d'une autre personne) dans n'importe quel style ou cadre à l'aide d'une simple description textuelle. | :grey_question: |
-| [Pictorial](http://www.pictorial.ai) | Pictural - Créez sans effort des graphiques pour vos applications Web. | L'inspiration est difficile à trouver. Faites passer votre message en toute simplicité en tirant parti d'une IA capable de générer des chefs-d'œuvre visuels fiables et prêts à l'emploi. | :grey_question: |
-| [Pinegraph](http://pinegraph.com) | Carnet de croquis magique. | Pinegraph est tout ce dont vous avez besoin pour donner vie à votre créativité. Générez gratuitement de l'art IA avec Pinecasso pour des styles comme l'anime, l'art abstrait, etc. Créez vos propres personnages conceptuels, y compris waifus et marios, l'art du jeu, et plus encore. | :white_check_mark: |
-| [Pitchgrade](http://pitchgrade.com) | Pitchgrade. | Un pitch deck est une présentation qu'une entreprise utilise pour présenter aux investisseurs. Il passe en revue le modèle commercial de l'entreprise, les projections financières et d'autres mesures clés que les investisseurs voudraient voir. | :grey_question: |
-| [Pixelmind](http://beta.pixelmind.ai) | Pixelmind - Art et frappe alimentés par l'IA pour les NFT. | Votre voyage dans l'art propulsé par l'IA. Créez et collectez des NFT via le portail Pixelmind. Faites évoluer votre style. Élevez votre jeu. | :grey_question: |
-| [Pixelz AI](http://pixelz.ai) | Générateur d'art Pixelz AI. | Créez des illustrations d'IA uniques en utilisant du texte, des phrases, des images et des préréglages, partagez, téléchargez, imprimez et créez des NFT. | :grey_question: |
-| [Poised 2.0](http://www.poised.com) | Poised - Coach de communication gratuit alimenté par l'IA. | . | :white_check_mark: |
-| [Pollinations](http://pollinations.ai) | Pollinisations.AI. | . | :grey_question: |
-| [Poly AI](http://poly.ai) | . | . | :grey_question: |
-| [Polymath Robotics](http://www.polymathrobotics.com) | Robotique polymathe. | Autonomie magiquement simplifiée pour les véhicules industriels. | :white_check_mark: |
-| [Ponzu.gg](http://www.ponzu.gg) | Ponzu. | L'IA a généré des cartes de texture PBR pour n'importe quelle idée, en quelques secondes. | :grey_question: |
-| [Portrait by Vana](http://portrait.vana.com) | Portrait - Vana. | "Portrait" de Vana est un studio d'art génératif qui peut créer des autoportraits de vous dans des styles infinis. | :grey_question: |
-| [Post Parrot](http://postparrot.xyz) | Post Parrot - Un outil marketing gratuit pour reddit. | . | :white_check_mark: |
-| [Predis](http://predis.ai) | Le marketing des médias sociaux simplifié grâce à l'IA - Predis.ai. | . | :grey_question: |
-| [Prettysmart.co](http://prettysmart.co) | Assez intelligent. | . | :grey_question: |
-| [Prodigy AI](http://ai.prodi.gg) | Coach IA prodige. | Êtes-vous un ingénieur qui s'interroge sur votre prochain concert ? Dites à HAL ce que vous recherchez et recevez des conseils de carrière personnalisés directement dans votre boîte de réception. | :grey_question: |
-| [Project Blink](http://labs.adobe.com) | Laboratoires Adobe. | Un endroit où partager certaines de nos explorations du futur de la créativité, de l'expression et de la communication. | :grey_question: |
-| [PrometheanAI](http://prometheanai.com) | IA Promethean. | . | :grey_question: |
-| [Prompt.Cafe](http://www.prompt.cafe) | Prompt.Cafe - Pack de démarrage d'invite IA. | . | :grey_question: |
-| [Promptextend](http://www.promptextend.com) | PromptExtend - Étendre / générer des invites d'art Ai pour MidJourney. | . | :grey_question: |
-| [Prompthunt](http://www.prompthunt.com) | Prompt Hunt - Votre maison pour explorer, créer et partager l'art de l'IA. | Créez, explorez et partagez l'art de l'IA à l'aide de DALL·E, Stable Diffusion et Midjourney. | :grey_question: |
-| [Promptomania](http://promptomania.com) | promptoMANIA : communauté d'art IA avec générateur d'invites. | . | :grey_question: |
-| [Question Base](http://www.questionbase.com) | Connaissance de l'échelle. | Question Base est un nouveau type de base de connaissances. Propulsé par l'IA, il répond aux questions de votre équipe dans Slack. Automatiquement. | :grey_question: |
-| [Quillbot Paraphraser](http://quillbot.com) | . | . | :grey_question: |
-| [Quilt & Create](http://www.quiltcreate.com) | Courtepointe et création. | . | :grey_question: |
-| [Quizgecko](http://quizgecko.com) | Le générateur de quiz alimenté par l'IA - Quizgecko. | . | :grey_question: |
-| [Quizwhiz](http://www.quizwhiz.ai) | QuizWhiz - Générez des QCM à partir de n'importe quel texte. | Fournissez un corps de texte et obtenez des questions et réponses générées par l'IA, ainsi que leurs options à choix multiples. | :grey_question: |
-| [RTutor](http://rtutor.ai) | RTuteur. | . | :grey_question: |
-| [Raplyrics](http://raplyrics.eu) | Raplyrics - Générez vos punchlines de musique rap. | Écrivez quelques mots dans l'invite ci-dessous et générez une punchline de musique rap unique en utilisant l'Intelligence Artificielle !. | :grey_question: |
-| [Rationale](http://rationale.jina.ai) | Rationale - un outil d'aide à la décision révolutionnaire alimenté par le dernier GPT et l'apprentissage en contexte. | . | :grey_question: |
-| [Rayst Gradients](http://gradients.ray.st) | Dégradés Rayst. | Une collection de 64 beaux dégradés générés par AI. | :grey_question: |
-| [Recommendme](http://www.recommendme.to) | Recommande moi. | . | :grey_question: |
-| [Redacta.me](http://www.redacta.me) | redacta.me - Tu Community Manager Virtuel. | . | :grey_question: |
-| [Reface](http://hey.reface.ai) | Refacer. Soyez n'importe qui. | Créez des vidéos d'échange de visage réalistes, des GIF et des mèmes avec un seul selfie. | :grey_question: |
-| [RestorePhotos.io](https://www.restorephotos.io/) | Restauration de vieilles photos à l'aide de l'IA pour tout le monde. | Vous avez des photos de visage anciennes et floues ? Laissez notre IA les restaurer afin que ces souvenirs puissent perdurer. 100% gratuit - restaurez vos photos aujourd'hui. | :white_check_mark: |
-| [ResumAI](http://www.wonsulting.com) | Wonsulting - Nous trouvons des emplois de rêve. | Nous avons aidé plus de 100 000 personnes à décrocher l'emploi de leurs rêves. Laissez nos stratégies de recherche d'emploi vous faire passer des CV à des jours meilleurs. | :grey_question: |
-| [Resume Studio](http://resumestudio.careers) | . | . | :grey_question: |
-| [Reviewgenerator](http://reviewgenerator.app) | reviewgenerator.app. | . | :grey_question: |
-| [Revive](http://letsrevive.app) | Revive - Imaginez des idées commerciales avec l'IA. | . | :grey_question: |
-| [Revspot](http://www.revspot.co) | Revspot AI - Une nouvelle façon d'écrire. | . | :grey_question: |
-| [Rewind](http://www.rewind.ai) | Rembobiner. | . | :grey_question: |
-| [Rick and Mortify](http://rickandmortify.com) | Rick et mortifier. | . | :grey_question: |
-| [Riku](http://riku.ai) | Riku.AI - Créez des invites et des ensembles de données sans code pour les modèles d'IA. | . | :grey_question: |
-| [Roamr](http://www.letsroam.app) | Roamr - Vos vacances de rêve en quelques secondes. | . | :grey_question: |
-| [SQLgenius](http://sqlgenius.app) | SQL Genius - Traducteur AI de l'anglais vers les requêtes SQL. | . | :grey_question: |
-| [SUPERMACHINE](http://supermachine.art) | SUPERMACHINE - Générez des photos, des illustrations et des images avec l'IA. | SUPERMACHINE vous permet de générer des images avec les dernières technologies d'intelligence artificielle. | :grey_question: |
-| [SafeSpelling](http://safespelling.com) | SafeSpelling - Écrivez sans fautes. | . | :grey_question: |
-| [Scale Catalog Forge](http://scale.com) | Scale AI : la plateforme de données pour l'IA. | Reconnu par des entreprises de classe mondiale, Scale fournit des données de formation de haute qualité pour les applications d'IA telles que les voitures autonomes, la cartographie, l'AR/VR, la robotique, etc. | :x: |
-| [Scene One](http://sceneone.app) | Application d'écriture de livres en ligne pour les romans, les nouvelles et les affaires. | Écrivez plus d'histoires avec notre application d'écriture intuitive et passez moins de temps à apprendre des fonctionnalités compliquées. | :grey_question: |
-| [Scispace](http://typeset.io) | SciSpace by Typeset - Découvrez, créez, publiez et faites la promotion de votre document de recherche. | Votre plateforme pour explorer et expliquer les papiers. Recherchez plus de 270 millions d'articles, comprenez-les dans un langage simple et trouvez des articles, des auteurs et des sujets liés. | :grey_question: |
-| [Scribe](http://vienna.earth) | . | . | :grey_question: |
-| [Sitekick](http://www.sitekick.ai) | Constructeur de pages de destination IA. | . | :grey_question: |
-| [Snackable AI](http://snackable.ai) | À grignoter. | . | :grey_question: |
-| [Snipd Podcast Summaries](http://www.snipd.com) | Libérez les connaissances dans les podcasts - Snipd. | . | :grey_question: |
-| [Solidpoint](http://www.solidpoint.ai) | SolidPoint. | . | :grey_question: |
-| [Songmastr](http://www.songmastr.com) | Songmastr - Mastering automatique des chansons à référencer. | . | :white_check_mark: |
-| [Songtell](http://www.songtell.com) | Songtell - Votre chanson qui signifie conteur. | . | :grey_question: |
-| [Soundful](http://soundful.com) | Donner au monde les moyens de créer de la musique - Soundful. | Soundful permet aux créateurs de générer des pistes libres de droits en un clic. La qualité de la musique Soundful est si riche que vous ne croirez pas qu'elle a été créée avec l'IA. | :grey_question: |
-| [Splash](http://www.splashmusic.com) | Splash - Apporter la joie de faire de la musique à tout le monde. | . | :grey_question: |
-| [Stabledojo](http://www.stabledojo.com) | StableDojo. | . | :grey_question: |
-| [Steve AI](http://www.steve.ai) | Steve.ai - Le moyen le plus rapide au monde de créer des vidéos. | Grâce à notre technologie AI brevetée, vous pouvez réaliser des vidéos professionnelles en MINUTES. Voyez la MAGIE se produire lorsque l'IA sélectionne les bons éléments multimédias créatifs pour votre vidéo. | :grey_question: |
-| [Stocknews AI](http://stocknewsai.com) | Stocknews AI - L'IA a sélectionné les actualités boursières. | . | :grey_question: |
-| [StoriesbyAI](http://storiesby.ai) | Histoires par IA - Substack. | . | :grey_question: |
-| [Storya](http://www.storya.app) | Storya - Publication d'IA pour tous. | . | :grey_question: |
-| [Studio Design](http://studio.design) | STUDIO, un outil de conception augmenté par l'IA. | . | :grey_question: |
-| [SuenaGringo AI](http://suenagringo.com) | Suena Gringo. | Escribe inglés con confianza y rompe las barreras. | :grey_question: |
-| [Suggest Gift](http://suggest.gift) | Suggérer un cadeau - Trouvez d'excellentes suggestions de cadeaux à l'aide de l'intelligence artificielle. | Outil basé sur l'intelligence artificielle pour vous aider à obtenir des suggestions de cadeaux incroyables pour toutes les occasions. | :grey_question: |
-| [Sumly](http://www.sumly.ai) | Résumés de podcasts générés par l'IA - Sumly.AI. | . | :grey_question: |
-| [SummerEyes](http://summereyes.ai) | SummerEyes : des résumés optimisés par l'IA dans votre navigateur. | . | :grey_question: |
-| [Summon](http://www.figma.com) | Figma : l'outil de conception d'interfaces collaboratives. | Créez de meilleurs produits en équipe. Concevez, prototypez et recueillez des commentaires en un seul endroit avec Figma. | :grey_question: |
-| [Super Prompt](http://superprompts.com) | Super invites. | Créez une galerie pour votre art IA. La prochaine fois que quelqu'un demandera à voir toutes vos créations, vous aurez un endroit où les diriger. Présentez tout votre art de l'IA en un seul endroit. | :grey_question: |
-| [Supermeme.ai](http://www.supermeme.ai) | Supermeme.ai - Des mèmes IA pour booster votre marque personnelle et professionnelle. | Générez des mèmes AI originaux dans plus de 110 langues en saisissant n'importe quelle entrée de texte et en la transformant en mèmes partageables. Propulsé par GPT-3 et une base de données de mèmes personnalisée. | :grey_question: |
-| [Supernormal](http://supernormal.com) | Supernormal - L'IA qui rédige vos notes de réunion. | . | :grey_question: |
-| [SwagAI](http://swag-ai.com) | . | . | :grey_question: |
-| [Synth Run](http://app.synth.run) | Synthé. | . | :grey_question: |
-| [Synthesia](http://www.synthesia.io) | Synthesia - Plateforme de génération de vidéos IA n°1. | . | :grey_question: |
-| [TLDR This](http://tldrthis.com) | TLDR This - Résumé d'article et outil de synthèse de texte en ligne. | Cela vous aide à résumer n'importe quel morceau de texte en un contenu concis et facile à digérer afin que vous puissiez vous libérer de la surcharge d'informations. | :white_check_mark: |
-| [Takomo](http://go.takomo.ai) | Se connecter - Takomo. | . | :grey_question: |
-| [Talk to Books](http://books.google.com) | livres Google. | . | :grey_question: |
-| [TalkingPhoto by Movio](http://app.movio.la) | Movio - Créateur de vidéos de porte-parole de l'IA. | . | :grey_question: |
-| [Tavus](http://www.tavus.io) | Accueillir. | . | :grey_question: |
-| [Teacherbot](http://teacherbot.io) | Teacherbot - L'outil que chaque enseignant mérite. | Nous avons développé l'outil le plus puissant auquel un enseignant peut avoir accès. Vous pouvez créer des tâches et des activités pour tous les niveaux ainsi que des plans de sujets, des plans d'avenir, des plans de cours et bien plus encore. Vous n'êtes limité que par votre imagination. | :grey_question: |
-| [Text Assistant](http://goodsnooze.gumroad.com) | Jordi Bruin. | . | :grey_question: |
-| [Text to Image Editor](http://imgeditor.zmo.ai) | Créez n'importe quelle image en utilisant du texte - IMGCreator.ai. | . | :grey_question: |
-| [TextSynth](http://textsynth.com) | TextSynth. | . | :grey_question: |
-| [Textunbox](http://textunbox.app) | TextUnbox.app. | TextUnbox - exploitez la puissance de l'IA !. | :grey_question: |
-| [Thegist](http://www.thegist.ai) | theGist AI - Résumez le fil et les canaux Slack - Obtenez l'essentiel. | . | :grey_question: |
-| [Thiscampsitedoesnotexist](http://thiscampsitedoesnotexist.com) | Ce camping n'existe pas. | Des campings générés par l'IA avec des emplacements, des tentes et des conditions météorologiques époustouflants, tous créés par l'IA à l'aide d'une diffusion stable. | :grey_question: |
-| [Thumbsnap](http://art.thumbsnap.com) | Générateur d'art IA ! Propulsé par Stable Diffusion - ThumbSnap - Hébergement gratuit de photos et de vidéos. | ThumbSnap : partage gratuit de photos et de vidéos. | :white_check_mark: |
-| [Titan](http://www.compliancequarter.com.au) | Systèmes et ressources de conformité experts - Compliance Quarter. | Système de gestion de la conformité réglementaire et expertise pour l'énergie, les services financiers et d'autres industries réglementées. Nous proposons des systèmes et des services experts pour vous décharger du fardeau réglementaire. | :grey_question: |
-| [Torto.ai](http://torto.ai) | La bourse simplifiée. | . | :grey_question: |
-| [Traq.ai](http://www.traq.ai) | . | . | :grey_question: |
-| [Tribescaler](http://tribescaler.com) | Écailleur de tribu. | . | :grey_question: |
-| [Tunes For Tales](http://tunesfortales.fun) | Mélodies pour contes. | . | :grey_question: |
-| [TutorAI](http://www.tutorai.me) | Apprenez n'importe quoi. | . | :grey_question: |
-| [TweetAI](http://tweetai.com) | Inspirez-vous pour tweeter • TweetAI.com. | Tweet IA. | :grey_question: |
-| [TweetEmote](http://www.tweetemote.com) | TweetEmote. | . | :grey_question: |
-| [Tweetnimage](http://tweetnimage.com) | Tweetnimage. | . | :grey_question: |
-| [Tweetsift](http://tweetsift.com) | TweetSift. | . | :grey_question: |
-| [Twelve Labs](http://twelvelabs.io) | Douze laboratoires. | . | :grey_question: |
-| [USP](http://usp.ai) | Maximisez votre blog - USP.ai. | Des IMAGES GRATUITES DE ROYAUTÉ générées par l'IA pour vos histoires et vos articles de blog. | :white_check_mark: |
-| [Uizard](http://uizard.io) | Uizard - Conception d'applications, de sites Web et d'interfaces utilisateur simplifiée - Propulsé par l'IA. | . | :grey_question: |
-| [Ultimate Skill Extractor by Further](http://nlp.appfurther.io) | Plus loin : Suggestion de compétence automatisée. | . | :grey_question: |
-| [Underduck](http://uberduck.ai) | Uberduck - Text-to-speech, automatisation vocale, médias synthétiques. | . | :grey_question: |
-| [Unpromptedgame](http://www.unpromptedgame.com) | . | . | :grey_question: |
-| [Unrealme](http://unrealme.io) | Moi irréel. | . | :grey_question: |
-| [Userevaluation](http://www.userevaluation.com) | Évaluation des utilisateurs â La plate-forme de compréhension du client. | Que vous vous concentriez sur l'interface utilisateur, la recherche UX, la conception ou l'expérience utilisateur, l'IA de l'évaluation des utilisateurs peut répondre à toutes vos questions. | :white_check_mark: |
-| [Userpersona](http://userpersona.dev) | Persona d'utilisateur - Personas d'utilisateur générés par l'IA. | . | :grey_question: |
-| [Validator AI](http://www.validatorai.com) | ValidatorAI.com - Aide et commentaires instantanés avec nos outils de validation de démarrage pour les entrepreneurs. | . | :grey_question: |
-| [Vee](http://vee.ai) | Un consultant intelligent avec qui les gens aiment parler. z którą ludzie lubią rozmawiać. | Vee a déjà parlé avec 5 millions de Polonais, mettant en œuvre efficacement des processus commerciaux pour des dizaines d'entreprises de divers secteurs. Vee przeprowadziła rozmowy już z ponad 5 milionami Polaków, skutecznie realizując procesy biznesowe dla dziesiątek firm z różnych branż. | :grey_question: |
-| [Versational](http://www.versational.ai) | Versationnel pour les équipes distantes. | Versational maximise la valeur exprimée dans chaque conversation. Obtenez gratuitement des résultats de conversation AI. Versational transcrit, résume, automatise la saisie de données, extrait des plats à emporter, vous permet de partager des clips et montre des moyens d'améliorer vos conversations. | :white_check_mark: |
-| [Viral Post Generator](http://viralpostgenerator.taplio.com) | Clone de post-générateur viral. | Devenez méga-viral sur Linkedin - Générez une publication réussie avec la puissance de l'IA. | :grey_question: |
-| [Visuali](http://visuali.io) | Visuel. | La génération d'images AI simplifiée. | :grey_question: |
-| [Vocads Survey](http://www.vocads.com) | . | . | :grey_question: |
-| [Voice AI](http://voice.ai) | Application AI Voice Changer pour PC et Mac - Changez votre voix à la volée. | . | :grey_question: |
-| [Voicemaker](http://voicemaker.in) | Voicemaker® - Convertisseur de texte en parole. | . | :grey_question: |
-| [Voicemod](http://www.voicemod.net) | Changeur et modulateur de voix en temps réel gratuit - Voicemod. | Exprimez-vous avec notre AI Voice Changer en temps réel et notre table d'harmonie pour être qui vous voulez, quand vous voulez dans le métaverse. Construisez votre identité sonore pour des plates-formes telles que Roblox, OBS, VRChat, Discord, etc. | :white_check_mark: |
-| [Voicera](http://www.voicera.co) | Voicera - Donnez de la voix à vos articles et blogs. | . | :grey_question: |
-| [Waifu XL](http://waifuxl.com) | WaifuXL. | . | :grey_question: |
-| [Waifulabs](http://waifulabs.com) | Waifu Labs - Portraits d'anime magiques. | Une IA à la pointe de la technologie qui dessine des portraits d'anime personnalisés, rien que pour vous ! Cet artiste en apprentissage automatique détermine vos préférences et crée une illustration de personnage parfaite en 4 étapes faciles. Si cela ressemble à de la magie, c'est parce que ça l'est !. | :grey_question: |
-| [Watermark Remover](http://www.watermarkremover.io) | Watermark Remover - Supprimez les filigranes en ligne des images gratuitement. | Débarrassez-vous des filigranes de vos images grâce à notre puissante technologie AI. | :white_check_mark: |
-| [Webapi.ai 2.0](http://webapi.ai) | . | . | :grey_question: |
-| [What on earth?](http://www.whatonearth.xyz) | WhatOnEarth par @naklecha. | . | :grey_question: |
-| [Whisper Memos](http://whispermemos.com) | Mémos chuchotés. | . | :grey_question: |
-| [WhisperAPI](http://whisperapi.com) | API de chuchotement. | . | :grey_question: |
-| [Wisecut](http://www.wisecut.video) | Wisecut - Éditeur vidéo automatique. | . | :grey_question: |
-| [WithPoly](http://withpoly.com) | Poly : Générez des ressources de conception avec A.I. · poly. | . | :grey_question: |
-| [Wordfixerbot](http://www.wordfixerbot.com) | Outil de paraphrase - Meilleur paraphrase en ligne gratuit - WordfixerBot. | . | :grey_question: |
-| [Write A Thank You](http://thankyounote.app) | Écrire une note de remerciement - ThankYouNote.app. | Rédigez la note de remerciement parfaite pour toute occasion ! Que vous ayez besoin de remercier un ami, un membre de votre famille ou un associé, nous avons les mots parfaits pour vous. Essayez-le !. | :grey_question: |
-| [Writelyai](http://www.writelyai.com) | Writely - Utiliser l'IA pour améliorer votre écriture. | . | :grey_question: |
-| [Writeplus](http://writeplus.co) | Write+ – L'écriture professionnelle rendue accessible à tous !. | . | :grey_question: |
-| [Writer](http://writer.com) | Writer - Plateforme d'écriture d'IA pour les équipes. | Des entreprises de classe mondiale utilisent la plate-forme d'écriture d'IA de Writer pour déverrouiller du contenu de marque à grande échelle. | :grey_question: |
-| [Yepic AI](http://www.yepic.ai) | Votre boîte à outils vidéo AI - Créez, doublez et personnalisez des vidéos. | Créez, copiez et personnalisez des vidéos n'importe où. | :grey_question: |
-| [ai2sql](http://www.ai2sql.io) | Générateur de requêtes SQL - Générateur de requêtes SQL AI bot. | Avec AI2sql, les ingénieurs et les non-ingénieurs peuvent facilement écrire des requêtes SQL efficaces et sans erreur sans connaître SQL. Il est temps de reprendre votre temps !. | :white_check_mark: |
-| [bigmp4](http://bigmp4.com) | Amélioration de la vidéo AI, en utilisant le modèle AI de pointe 2022 pour agrandir la vidéo sans perte, améliorer la vidéo. | . | :grey_question: |
-| [deck.rocks](https://www.deck.rocks/) | deck.rocks : générer des pitch decks à l'aide de GPT-3. | . | :grey_question: |
-| [micro Dalle-2](http://micropay.ai) | Générateur d'images Dalle-2 - micropay. | Logiciel d'IA générative anonyme et payant. | :grey_question: |
-
-<!--End of Autre 0-->
 
 <!--lint ignore double-link-->
 **[⬆ Retour à l'index](#index)**
@@ -845,6 +513,7 @@
 | Nom | Titre | Description | Offrir une version gratuite |
 |---|---|---|:---:|
 | [AI Holiday Cards](http://aiholiday.cards) | Cartes de vœux IA. | Moteur AI pour créer des cartes photoréalistes AI Holiday pour les couples. | :grey_question: |
+| [AI Poem Generator](https://aipoemgenerator.com/) | AiPoemGenerator.Com - Générez des poèmes magnifiques et uniques sans effort. | Créez le cadeau parfait pour chaque occasion : Anniversaire d'un ami ou d'un membre de la famille, Mariages, Naissance, etc. Entrez simplement quelques mots-clés/sujets et laissez nos robots faire le reste. Plus vous fournissez de mots clés, plus les poèmes générés deviennent personnels. | :x: |
 | [AIchristmascards](http://aichristmascards.com) | Cartes de vœux revisitées. | Cartes de vœux personnalisées AI Art. | :x: |
 | [CoolGiftIdeas](http://www.coolgiftideas.io) | Idées cadeaux sympas - Suggestions de cadeaux alimentées par l'IA. | . | :grey_question: |
 | [Elf Help](http://www.elfhelp.ai) | Aide Elfe. | Besoin d'inspiration pour vos cadeaux de Noël ? Elf help est votre assistant de cadeaux ultime, offrant des suggestions créatives et personnalisées pour tout le monde sur votre liste. | :grey_question: |
@@ -1227,11 +896,334 @@
 <!--lint ignore double-link-->
 **[⬆ Retour à l'index](#index)**
 
-## Other
+## Autre
 | Nom | Titre | Description | Offrir une version gratuite |
 |---|---|---|:---:|
+| [1Case](http://1case.io) | Coques de téléphone personnalisées fabriquées par AI. | Trouvez votre coque unique en quelques secondes. | :grey_question: |
+| [AI Car Diagnosis](http://cardiagnosis.softr.app) | Diagnostic de voiture IA. | Obtenez des diagnostics en temps réel et des informations sur les performances de votre voiture grâce à notre outil de pointe. | :grey_question: |
+| [AI Content Generator](http://yep.so) | Yep.so - De l'idée aux inscriptions en 15 minutes. | . | :white_check_mark: |
+| [AI Data Sidekick](http://www.airops.com) | AirOps - Données déverrouillées. 10 fois plus rapide avec l'IA. | . | :grey_question: |
+| [AI Image Upscaler](http://www.upscale.media) | AI Image Upscaler - Agrandissez et améliorez vos photos gratuitement. | Améliorez votre image à 2x ou 4x sans perdre de textures ou de détails avec notre outil AI. Utilisez notre outil de super résolution et donnez une nouvelle vie à vos images. | :white_check_mark: |
+| [AI Paraphrasing Tool](http://contentbot.ai) | ContentBot - AI Writer - Contenu IA pour les fondateurs et les spécialistes du marketing de contenu. | . | :grey_question: |
+| [AI Pickup Lines Generator](http://www.aipickuplines.com) | Lignes de ramassage IA. | . | :grey_question: |
+| [AI Project Description Generator](http://www.welovenocode.com) | . | . | :grey_question: |
+| [AI Prompt Generator](http://fictionio.gumroad.com) | Fiction. | . | :grey_question: |
+| [AI Query](http://www.aiquery.co) | AI Query - Générez des requêtes SQL avec l'IA en quelques secondes. | Utilisez un anglais simple et laissez AI faire le gros du travail pour vous. Avec AI Query, n'importe qui peut créer des requêtes SQL efficaces, sans même rien savoir à ce sujet. | :grey_question: |
+| [AI Recipe Generator](http://ai-recipes.softr.app) | Générateur de recettes IA. | . | :grey_question: |
+| [AI Rental Cover Letter](http://sharehouse.app) | 🏡 Sharehouse - Recherche de colocataire gratuite. | Connectez-vous avec des Sharehouses, des colocataires ou des colocataires. Listez et annoncez librement votre chambre, maison ou appartement. | :grey_question: |
+| [AI Resume Editor](http://www.rezi.ai) | Rezi - Le meilleur constructeur de CV AI auquel 352 894 utilisateurs font confiance. | . | :grey_question: |
+| [AI SQL BOT](http://aihelperbot.com) | Générateur de requêtes SQL AI : le moyen le plus simple de créer des requêtes SQL sans connaissances préalables en SQL - Générateur de requêtes SQL utilisant l'IA. | . | :grey_question: |
+| [AI Social Bio](http://aisocialbio.com) | Bio sociale de l'IA. | . | :grey_question: |
+| [AI Social Media Post Writerby Socialblu](http://socialbu.com) | SocialBu - Gestion et automatisation des médias sociaux. | SocialBu est la solution parfaite pour améliorer votre présence sur les réseaux sociaux et maximiser vos résultats. Publiez, répondez, analysez et automatisez - le tout depuis SocialBu. | :grey_question: |
+| [AI Sports Prediction](http://sportsprediction.ai) | Prédictions de paris sportifs IA - Sports Prediction AI. | . | :grey_question: |
+| [AI Writer by Picsart](http://tools.picsart.com) | Modifier des images, des vidéos et des documents gratuitement - Quicktools par Picsart. | Créer des arrière-plans transparents pour vos images, découper des vidéos et convertir des types de fichiers - faites tout cela avec Quicktools. | :white_check_mark: |
+| [AIArt](http://aiart.dev) | aiart.dev. | . | :grey_question: |
+| [ARTSIO](http://artsio.xyz) | ARTSIO. | . | :grey_question: |
+| [Adobe Mic Check](https://podcast.adobe.com/miccheck) | Vérifiez votre micro gratuitement. | Obtenez des conseils pour améliorer la configuration de votre microphone. Nous veillerons à ce que vous ayez l'air prêt pour le podcast. | :white_check_mark: |
+| [Adobe Podcast](http://www.magictools.online) | 276 Outils IA. | . | :grey_question: |
+| [Aiappideas](http://www.aiappideas.com) | Idées d'applications d'IA. | . | :white_check_mark: |
+| [Aida](http://www.bookmark.com) | Passez du temps à gérer votre entreprise, pas votre site Web. | Laissez notre créateur de site Web propulsé par Ai mettre votre entreprise en ligne en quelques minutes. | :white_check_mark: |
+| [Aiva](http://aiva.ai) | AIVA - L'IA qui compose une bande-son émotionnelle. | . | :grey_question: |
+| [Albus](https://www.springworks.in/albus/) | Albus - ChatGPT maintenant sur Slack. | Albus utilise la technologie de traitement du langage naturel pour vous aider à trouver des réponses à toutes vos questions sans quitter Slack. Bénéficiez dès maintenant de la puissance de ChatGPT directement dans votre espace de travail !. | :white_check_mark: |
+| [Alfred](http://www.alfredsearch.com) | Alfred - Chat GPT sur mobile. | . | :grey_question: |
+| [Amadeus Code](http://amadeuscode.com) | 株式会社Amadeus Code - 公式企業サイト. | Code d'Amadeus pour le Code Amadeus. | :grey_question: |
+| [Amper AI](http://www.ampermusic.com) | Outils de composition musicale IA pour les créateurs de contenu. | Amper est une société de composition musicale basée sur l'intelligence artificielle qui développe des outils pour les créateurs de contenu de toutes sortes. Découvrez notre nouvelle plateforme d'entreprise, Score, ainsi que notre API de créateur. | :grey_question: |
+| [Andisearch](http://andisearch.com) | Andi - Recherche de la prochaine génération. | . | :grey_question: |
+| [Ansy](http://ansy.ai) | Ansy.ai - GPT-3 pour votre serveur Discord. | Bot Discord propulsé par GPT-3 qui répond aux questions des membres de votre communauté Discord en fonction de l'historique des discussions. | :grey_question: |
+| [Artflow](http://artflow.ai) | Flux d'art. | . | :grey_question: |
+| [Artistator](http://artistator.com) | Générez des noms d'artistes de vos genres musicaux préférés. | . | :white_check_mark: |
+| [Artroom](http://artroom.ai) | ArtRoom IA. | . | :grey_question: |
+| [Ask Poppy](http://www.poppylist.com) | Poppylist - Soyez le parent que vous voulez être. | Vous connaissez votre style de vie. Nous connaissons les produits. Construisons ensemble votre liste de naissance. | :grey_question: |
+| [Aspen](http://www.getaspenai.com) | Tremble. | . | :grey_question: |
+| [Athena](http://www.apac.ai) | Portail APAC AI ACCOUNT. | . | :grey_question: |
+| [Atlas Navi](http://www.atlasnavi.com) | AtlasNavi.com. | . | :grey_question: |
+| [Auto Draw](http://www.autodraw.com) | Dessin automatique. | Dessin rapide pour tout le monde. AutoDraw associe l'apprentissage automatique à des dessins d'artistes talentueux pour vous aider à dessiner rapidement. | :grey_question: |
+| [AutoPredict](http://autopredict.co.uk) | AutoPredict - Prédire la durée de vie de votre voiture. | AutoPredict utilise une IA de pointe pour prédire la durée de vie probable d'une voiture britannique. | :grey_question: |
+| [Avtrs](http://www.avtrs.ai) | avtrs.ai. | . | :grey_question: |
+| [B^ DISCOVER](http://bdiscover.kakaobrain.com) | B^ DÉCOUVRIR - Accueil. | Vous vivrez une nouvelle expérience de découverte de votre histoire en images. | :grey_question: |
+| [BaruaAI](http://baruaai.com) | Brian Gacheru. | . | :grey_question: |
+| [Baseten](http://app.baseten.co) | Baseten - Plateforme MLOps pour startups. | Baseten est un backend sans serveur pour la création d'applications alimentées par ML. Créez des applications avec mise à l'échelle automatique, accès GPU, tâches CRON et fonctions sans serveur. | :grey_question: |
+| [Beb AI](http://beb.ai) | beb.ai. | Les possibilités sont illimitées, beb. | :grey_question: |
+| [BedtimeStory](http://www.bedtimestory.ai) | . | . | :grey_question: |
+| [Bertha.ai](http://bertha.ai) | . | . | :grey_question: |
+| [BetterWriter](http://betterwriter.ai) | Écrivez plus vite avec A.I. BetterWriter.ai. | . | :grey_question: |
+| [BigJpg](http://bigjpg.com) | Bigjpg - Outil d'agrandissement / de mise à l'échelle d'image sans perte de super-résolution AI utilisant des réseaux de neurones à convolution profonde. | Bigjpg - Super-résolution d'image pour les œuvres d'art de style anime utilisant les réseaux de neurones à convolution profonde sans perte de qualité. Les photos sont également prises en charge. | :grey_question: |
+| [Bito AI](http://bito.co) | Bito. | . | :grey_question: |
+| [Blackink](http://blackink.ai) | Créez votre propre tatouage flash unique en quelques secondes. | Arrêtez de passer des mois à chercher votre prochain tatouage sur Pinterest. Générez des tatouages personnalisés et uniques en quelques secondes avec l'IA de BlackInk, conçu pour créer des motifs de type tatouage juste pour vous. | :white_check_mark: |
+| [Blimey](http://blimeycreate.com) | Merde. | Blimey est un générateur d'images IA où vous pouvez passer de l'idée à la réalité en une minute. Avec un contrôle total sur la composition, les couleurs et le style. | :grey_question: |
+| [Bloomoon](http://www.bloomoon.art) | floraison. | Découvrez des peintures uniques générées par l'IA chez bloomoon. | :grey_question: |
+| [Boo AI](http://boo.ai) | . | . | :grey_question: |
+| [Boomy](http://boomy.com) | Boomy - Créez de la musique instantanée avec l'intelligence artificielle. | . | :grey_question: |
+| [Botowski](http://www.botowski.com) | Votre rédacteur personnel en IA - Botowski. | . | :grey_question: |
+| [BrameWork](http://www.bramework.com) | Bramework - Rédacteur IA qui vous aide à écrire des blogs 5 fois plus rapidement. | Bramework est un rédacteur d'IA facile à utiliser qui aide les blogueurs, les pigistes et les agences à économiser des heures par article de blog. | :grey_question: |
+| [Business Idea Generator](http://www.bizideas.ai) | Remue-méninges d'idées d'entreprise. | . | :grey_question: |
+| [CF Spark](http://www.creativefabrica.com) | . | . | :grey_question: |
+| [CFRexplorer](http://cfrexplorer.com) | CFR Explorer - Posez des questions à l'IA sur les CFR. | . | :grey_question: |
+| [Caktus](http://www.caktus.ai) | Caktus IA. | . | :grey_question: |
+| [Chapterme](http://chapterme.co) | ChapterMe - Chapitres optimisés par l'IA pour vos vidéos. | . | :grey_question: |
+| [CheapNFT.Art](http://cheapnft.art) | NFT bon marché. | . | :grey_question: |
+| [Code Language Converter](http://codelanguageconverter.com) | Convertisseur de langage de code - Convertissez du code dans d'autres langages à l'aide de l'IA. | . | :grey_question: |
+| [Cogram](http://www.cogram.com) | Cogram - Notes de réunion et éléments d'action sans effort. | Cogram utilise l'intelligence artificielle pour créer des comptes rendus de réunion de haute qualité et proposer des actions. | :grey_question: |
+| [Colossyan](http://www.colossyan.com) | Créateur colossien. | Colossyan Creator rend la création vidéo simple et sans stress. Découvrez notre créateur de vidéos IA avec de vrais acteurs. Créez des vidéos en moins de 5 minutes. | :white_check_mark: |
+| [Compose AI](http://www.compose.ai) | Compose AI : automatisez votre écriture. | . | :white_check_mark: |
+| [Coolaiid](http://coolaiid.com) | CoolAid. | Que vous cherchiez à décorer ou que vous ayez simplement besoin d'un peu d'inspiration, nous générerons des idées uniques à l'aide de l'IA. | :grey_question: |
+| [CopyScouts](http://copyscouts.com) | CopyScouts - Outil de rédaction durable assisté par l'IA. | Utilisez l'écriture AI illimitée basée sur GPT-3 pour un prix mensuel fixe. | :grey_question: |
+| [Copymatic](http://copymatic.ai) | . | . | :grey_question: |
+| [Coverquick](http://www.coverquick.co) | CouvertureQuick. | Postulez en toute confiance. | :grey_question: |
+| [Cowriter](http://cowriter.org) | Co Writer - votre compagnon IA pour un contenu marketing inspirant. | . | :grey_question: |
+| [Craiyon](http://www.craiyon.com) | Craiyon, anciennement DALL-E mini. | Craiyon est un modèle d'IA capable de dessiner des images à partir de n'importe quelle invite de texte !. | :grey_question: |
+| [Createaivoiceovers](http://createaivoiceovers.com) | Générateur de voix en ligne de synthèse vocale, Générateur de synthèse vocale - Voix réalistes - Créez des voix off Ai. | . | :grey_question: |
+| [DREAM.page](http://dream.page) | . | . | :grey_question: |
+| [Dadabots](http://dadabots.com) | Les réseaux de neurones. | . | :grey_question: |
+| [Daft Art](http://www.daftart.ai) | Daft Art — Créez la pochette d'album dont vous avez toujours rêvé. | Daft vous permet de créer une superbe illustration de haute qualité pour la couverture de votre album en quelques minutes, alimentée par l'IA. | :grey_question: |
+| [Daydrm](http://www.daydrm.ai) | Daydrm.ai. | L'avenir de la publicité utilise l'apprentissage automatique pour faire preuve de créativité. | :grey_question: |
+| [Debuild](http://debuild.app) | Debuild - Créez rapidement des applications Web. | . | :grey_question: |
+| [Designs AI](http://designs.ai) | Créez des logos, des vidéos, des bannières, des voix off avec l'IA. | Créez n'importe quoi en ligne en 2 minutes ! Créez un logo, une vidéo, une bannière de médias sociaux, une carte de visite, un dépliant, une maquette et plus encore avec l'IA. | :white_check_mark: |
+| [DetangleAI](http://detangle.ai) | DémêlerAI. | . | :grey_question: |
+| [Dewey](http://www.withdewey.com) | Dewey : votre nouveau compagnon de responsabilité. | . | :grey_question: |
+| [Diffusion Bee](http://diffusionbee.com) | DiffusionBee - Application de diffusion stable pour l'art de l'IA. | DiffusionBee est le moyen le plus simple de générer de l'art IA sur votre ordinateur avec Stable Diffusion. | :white_check_mark: |
+| [DigiMarkAI](http://www.digimarkai.com) | DigiMarkAI. | . | :grey_question: |
+| [DrawAnyone](http://drawanyone.ai) | drawanyone - dessine n'importe qui, comme tu veux. | . | :grey_question: |
+| [Dreamily](http://dreamily.ai) | Dreamily-bêta. | . | :grey_question: |
+| [Dubverse.ai](http://dubverse.ai) | Doublage vidéo en ligne avec Dubverse.ai. | . | :grey_question: |
+| [Dust](http://xp1.dust.tt) | Poussière - XP1. | . | :grey_question: |
+| [ELSA SPEECH ANALYZER](http://speechanalyzer.elsaspeak.com) | . | . | :white_check_mark: |
+| [Ebsynth](http://ebsynth.com) | EbSynth - Transformez la vidéo en peignant sur une seule image. | Vous peignez une image et EbSynth la propage au reste du métrage. | :grey_question: |
+| [Echowin](http://echo.win) | Gestion des appels alimentée par l'IA avec une compréhension complète du langage naturel et des réponses personnalisées pour chaque scénario. | . | :grey_question: |
+| [Ecrett Music](http://ecrettmusic.com) | Un moyen facile de créer de la musique libre de droits - musique secrète. | . | :grey_question: |
+| [Elicit](http://elicit.org) | Elicit : l'assistant de recherche en IA. | Elicit utilise l'apprentissage automatique pour vous aider dans vos recherches : trouver des articles, extraire des revendications clés, résumer, réfléchir à des idées, etc. | :grey_question: |
+| [Equally.ai](http://equally.ai) | Conformité de l'accessibilité Web pour tous. | Obtenez facilement la conformité ADA et WCAG. | :white_check_mark: |
+| [Everypixel](http://www.everypixel.com) | Moteur de recherche d'images - Plus de 50 meilleures sources - Everypixel. | . | :grey_question: |
+| [ExactBuyer Search](http://www.exactbuyer.com) | ExactBuyer - Recherche d'entreprises alimentée par l'IA pour les équipes de prospection. | . | :grey_question: |
+| [FakeYou](http://fakeyou.com) | FakeYou. Deep Fake Text to Speech. | . | :grey_question: |
+| [Fireflies](http://fireflies.ai) | Fireflies.ai - Fireflies AI Notetaker & Conversation Intelligence. | Fireflies.ai aide votre équipe à enregistrer, transcrire, rechercher et analyser les conversations vocales. | :grey_question: |
+| [Flexberry AI Assistant](http://ai.flexberry.net) | Assistant IA. | Cela permet de réduire de 30 % le temps que les analystes commerciaux consacrent au traitement des exigences et également à la génération d'artefacts. | :grey_question: |
+| [FoodAI](http://www.foodai.app) | FoodAI.app - Générez des recettes de cuisine avec l'IA !. | . | :grey_question: |
+| [Free Text-To-Speech](http://www.text-to-speech.online) | Outils gratuits de conversion de texte en parole en ligne. | . | :white_check_mark: |
+| [Friday AI](http://www.heyfriday.ai) | HeyFriday - Écrivain IA ultime. | . | :grey_question: |
+| [GGPredict](http://ggpredict.io) | GGPredict.io. | . | :grey_question: |
+| [GPTKey](http://gptkey.com) | GPTKey - Écrivez avec l'IA à l'aide du clavier GPT. | Écrivez avec l'IA dans n'importe quelle application à l'aide de l'extension de clavier personnalisée GPT. | :grey_question: |
+| [Genius Sheets](http://www.geniussheets.com) | Genius Sheets Automatisation financière. | Les solutions Genius Sheets AI Text To Reports vous aident à analyser les données financières plus rapidement, ce qui permet aux équipes de prendre de meilleures décisions. Restez dans Excel et Google Sheets et automatisez votre processus de reporting financier avec des connexions de données en direct. | :grey_question: |
+| [GetSound](https://www.getsound.ai/) | Bienvenue dans le futur des paysages sonores Ai de l'hospitalité. | Ambiances sonores relaxantes pour les saunas, les douches et les zones de massage. Les piscines, les plages, les jardins ou les toits obtiendront le paysage sonore parfait. Rendez à nouveau votre hall, vos couloirs ou vos ascenseurs uniques. Faites-en plus avec un paysage sonore naturel pour une meilleure concentration et une meilleure harmonie. | :white_check_mark: |
+| [Gifts Genie](http://gen.gifts) | Génie - Générateur de cadeaux IA. | . | :grey_question: |
+| [Glasp](http://glasp.co) | Glasp : Surligneur Web social. | Mettez en surbrillance et ajoutez des notes au fur et à mesure que vous lisez. Créez une bibliothèque de votre apprentissage. | :grey_question: |
+| [GooseAI](http://goose.ai) | GooseAI. | . | :grey_question: |
+| [Graham AI](http://www.grahamai.co) | Graham.AI - Générateur de tweets techniques. | . | :grey_question: |
+| [H2O AI](http://h2o.ai) | H2O.ai - Plateforme cloud d'IA. | . | :grey_question: |
+| [Handywriter](http://handyplugins.co) | HandyPlugins – plugins WordPress bien conçus. | . | :grey_question: |
+| [Headline-ai](http://headline-ai.com) | IA de titre. | . | :grey_question: |
+| [HelloScribe](http://www.helloscribe.ai) | HelloScribe : Donnez vie à vos meilleures idées. | . | :grey_question: |
+| [HookShot](http://hookshot.ironwill.ai) | Jeu de lecture rapide Hookshot. | . | :grey_question: |
+| [HotConvo](http://hotconvo.art) | HotConvo. | . | :grey_question: |
+| [Hour One](http://hourone.ai) | Créez des vidéos d'IA pour former n'importe qui ou expliquer n'importe quoi - Première heure. | . | :grey_question: |
+| [Hubble](http://www.hubble.team) | Hubble - Commentaires sur les produits et avis des utilisateurs. | Créez des produits de classe mondiale en recueillant des commentaires de haute qualité des utilisateurs sur les prototypes, les versions bêta et les fonctionnalités en direct. | :grey_question: |
+| [ICONS8](http://icons8.com) | Icônes, illustrations, photos, musique et outils de conception. | Changez les visages des photos d'archives, Smart Upscaler, mettez à jour votre site Web directement depuis Lunacy et plus encore. | :white_check_mark: |
+| [Ideasai](http://ideasai.com) | Idées de démarrage alimentées par OpenAI. | . | :grey_question: |
+| [Inferkit](http://app.inferkit.com) | DéduireKit. | . | :grey_question: |
+| [Infinite Drum Machine](http://experiments.withgoogle.com) | Expérimentations avec Google. | . | :grey_question: |
+| [Inworld](http://www.inworld.ai) | Inworld AI - Créez des personnages IA et demandez-leur n'importe quoi. | Créez des personnages IA et des PNJ pour des jeux, des métaverses et des applications professionnelles, ou simplement pour le plaisir. Vous pouvez parler de n'importe quoi aux personnages de l'IA. C'est simple, gratuit et plein de possibilités. | :white_check_mark: |
+| [Jamie](http://www.meetjamie.ai) | jamie - Assistant IA pour les résumés de réunion. | jamie est une assistante IA qui crée des résumés de réunions de qualité professionnelle en quelques secondes. Essayez maintenant et laissez-vous convaincre par l'expérience magique. | :grey_question: |
+| [Jenni](http://jenni.ai) | Boostez votre écriture avec Jenni AI. | . | :grey_question: |
+| [Jinnee](http://jinnee.co) | . | . | :grey_question: |
+| [Kinestex](http://www.kinestex.com) | KinesteX - Coach IA dans votre téléphone. | . | :grey_question: |
+| [Kive](http://www.kive.ai) | Kive - Toile IA. | toute votre inspiration au même endroit. | :grey_question: |
+| [Kore.ai](http://kore.ai) | Plateforme d'optimisation de l'expérience AI-first pour les entreprises. | Kore.ai automatise les interactions front-office et back-office pour chaque secteur en déployant des assistants virtuels et des assistants de processus conversationnels axés sur l'IA. | :grey_question: |
+| [Langotalk](http://www.langotalk.org) | Langotalk : apprenez les langues 6 fois plus vite avec l'IA. | Ayez des conversations confiantes en semaines au lieu d'années. | :grey_question: |
+| [Letsenhance](http://letsenhance.io) | Let's Enhance - Application en ligne de qualité d'image et agrandisseur de photos gratuit. | Logiciel d'intelligence artificielle pour améliorer et mettre à l'échelle les images. Augmentez la résolution et la qualité. Corrigez les images floues, pixélisées et mauvaises. Rendez chaque photo nette et claire. | :white_check_mark: |
+| [Levity](http://levity.ai) | Levity - Plateforme d'automatisation de flux de travail d'IA sans code. | . | :grey_question: |
+| [Linkedin Posts Generator](http://sid.black) | Siddharth Verma - Freelance Full Stack - Startup Guy. | Salut, je suis Siddharth Verma. Un passionné de start-up avec plus de 6 ans d'expérience. J'ai travaillé avec plus de 50 entreprises SAAS en les aidant à créer des solutions évolutives robustes, des problèmes de produits et d'ingénierie. | :grey_question: |
+| [LuciaAI](http://luciaai.com) | LuciaAI. | Lucia utilise la technologie d'intelligence artificielle la plus récente et la plus avancée. Avec Lucia, vous pouvez écrire plus vite et mieux que jamais. | :grey_question: |
+| [Magic Mate](http://www.getmagicmate.com) | Magic Mate. | . | :grey_question: |
+| [MagicStock](http://aimages.ai) | Aimages - Améliorateur de vidéo et d'image AI en ligne. | Améliorez et améliorez les vidéos et les images en ligne à l'aide de l'IA. | :white_check_mark: |
+| [Make a Video](http://makeavideo.studio) | Faire une vidéo. | . | :grey_question: |
+| [Make3D](http://make3d.app) | Rendez votre image 3D. | . | :grey_question: |
+| [Mapwith.ai](http://mapwith.ai) | Utiliser l'IA pour cartographier le monde. | En collaboration avec OpenStreetMap, nous créons des outils qui, nous l'espérons, permettront à la communauté de cartographie de profiter d'une expérience de cartographie plus rapide et plus précise. | :grey_question: |
+| [Masterpiece Studio](http://masterpiecestudio.com) | Chef-d'œuvre Studio. | . | :grey_question: |
+| [Midjourney](http://www.midjourney.com) | À mi-parcours. | Un laboratoire de recherche indépendant explorant de nouveaux médiums de pensée et développant les pouvoirs imaginatifs de l'espèce humaine. | :grey_question: |
+| [Mokker](http://mokker.ai) | Mokker IA. | Génération de photos alimentée par l'IA pour le commerce électronique. | :grey_question: |
+| [Moonbeam](http://www.gomoonbeam.com) | Moonbeam - N'écrivez plus jamais à partir de zéro. | . | :grey_question: |
+| [Movio](http://www.movio.la) | Movio - Générateur vidéo de porte-parole IA. | . | :grey_question: |
+| [Mrgn](http://Mrgn.ai) | Intelligence d'entreprise pour les petites entreprises. | . | :white_check_mark: |
+| [My Instant Writer](http://www.myinstantwriter.com) | Mon écrivain instantané. | . | :grey_question: |
+| [My Pitch Deck](http://mypitchdeck.com) | MY PITCH DECK - Modèles de pitch deck générés par l'IA pour les startups. | . | :grey_question: |
+| [MyAnima AI Companion](http://myanima.ai) | Anima : ami de l'IA. | . | :grey_question: |
+| [NMKD Stable Diffusion](http://nmkd.itch.io) | N00MKRAD - itch.io. | . | :grey_question: |
+| [NSFW JS](http://nsfwjs.com) | NSFW JS. | . | :grey_question: |
+| [Natural Language Playlist](http://www.naturallanguageplaylist.com) | Liste de lecture en langage naturel. | . | :grey_question: |
+| [NaturalReader](http://www.naturalreaders.com) | Voix IA - Accueil NaturalReader. | . | :grey_question: |
+| [Neural Studio](http://neural.cam) | NeuralCam. | avec traitement d'image alimenté par l'IA. | :grey_question: |
+| [Neural.Love](http://neural.love) | Générateur d'images AI gratuit et amélioration de l'IA - neural.love. | Utilisez AI Image Generator gratuitement ou améliorez l'IA, ou accédez à des millions d'images du domaine public - Amélioration de l'IA et outils d'IA en ligne faciles à utiliser. | :white_check_mark: |
+| [Neuralblender](http://neuralblender.com) | NeuralBlender.com. | . | :grey_question: |
+| [Neuralframes](http://www.neuralframes.com) | cadres neuronaux. | . | :grey_question: |
+| [Neuroflash](http://app.neuro-flash.com) | Application - neuroflash. | . | :grey_question: |
+| [NewsDeck from OneSub](http://newsdeck.pro) | NewsDeck - Trouvez, filtrez et analysez des milliers d'articles, quotidiennement. | . | :grey_question: |
+| [Nichess](http://nichesss.com) | nichesss - AI Writer - Logiciel de rédaction publicitaire IA. | . | :grey_question: |
+| [Nightcap](http://www.nightcap.guru) | Gourou du bonnet de nuit. | . | :grey_question: |
+| [Nijijourney](http://nijijourney.com) | にじジャーニー. | 魔法でイラストをつくろう. | :grey_question: |
+| [Not A Person](http://neuralactors.com) | Acteurs neuronaux. | . | :grey_question: |
+| [Notion AI](http://www.notion.so) | Notion – Un espace de travail. Chaque équipe. | . | :grey_question: |
+| [NovelAI](http://novelai.net) | NovelAI - Le conteur d'IA propulsé par GPT. | . | :grey_question: |
+| [Nyx Gallery](http://nyx.gallery) | Nyx.gallery - Photographie générée par l'IA. | Les images sur ce site Web ont été générées avec AI et ne sont donc «pas réelles». | :grey_question: |
+| [Oda Studio](http://stager.odastudio.ai) | Tableau d'ambiance Oda. | Choisissez votre style et votre couleur pour personnaliser votre maison en quelques secondes grâce à l'IA. | :grey_question: |
+| [Olli](http://www.olli.ai) | Olli.ai - Votre analyste de données personnelles. | Olli est la plate-forme d'IA pour créer des visualisations de données 10 fois plus rapidement - c'est comme avoir un assistant qui s'occupe des parties ennuyeuses de la recherche de données, de la création de visualisations et de leur préparation pour les présentations. | :grey_question: |
+| [Once Upon A Bot](http://onceuponabot.com) | Il était une fois un bot • Créez des histoires pour enfants avec l'IA. | Dites à OnceUponABot votre idée d'histoire, et le robot écrira une histoire à partir de zéro en utilisant l'IA. Ensuite, vous pouvez lire, modifier, exporter et partager vos créations. | :x: |
+| [Opus](http://opus.ai) | OpusSite Web. | . | :grey_question: |
+| [Orchard](http://orchard.ink) | Verger. | . | :grey_question: |
+| [Outdone V2](http://www.outdone.io) | En reste. | . | :grey_question: |
+| [Paperade](http://www.paperade.co) | Générateur d'idées de démarrage Paperade. | Paperade est le premier outil alimenté par l'IA qui génère des cas d'utilisation commerciale et des idées d'entreprise à partir de plus de 100 millions d'articles universitaires et d'études de recherche. | :grey_question: |
+| [Patience](http://patience.ai) | Patience - AI Art avec diffusion stable. | . | :grey_question: |
+| [Pattern Maker AI](http://patternmakerai.com) | Générez des modèles homogènes à l'aide de l'intelligence artificielle. | Générez des modèles vectoriels continus à l'aide de l'intelligence artificielle. | :grey_question: |
+| [PatternedAI](http://www.patterned.ai) | MotifAI. | . | :grey_question: |
+| [Peppertype.ai](http://www.peppertype.ai) | Peppertype.ai - Créez du contenu de qualité plus rapidement. | Générez du contenu qui se convertit en quelques secondes. | :grey_question: |
+| [PersonaCardAI](http://www.personacardai.com) | PersonaCardAI - Trouvez vos 3 meilleurs profils de personas. | Arrêtez de passer des heures dans des ateliers pour essayer de trouver vos personas. Notre IA révèle vos 3 meilleurs profils de personas au sein de votre CRM avec plus de 20 attributs. | :grey_question: |
+| [Petpic](http://www.petpic.ai) | Petpic.ai. | Votre animal préféré peut maintenant être n'importe quoi, n'importe où, même n'importe qui. Il suffit de télécharger quelques photos et de laisser AI faire sa magie créative. | :grey_question: |
+| [Petportrait](http://petportrait.ai) | Pet Portrait AI - Beaux portraits d'animaux personnalisés. | Vous cherchez un cadeau attentionné pour votre animal de compagnie ? Pet Portrait AI génère des portraits uniques et personnalisés de vos chats, chiens et autres animaux de compagnie dans une variété de styles. Notre technologie d'intelligence artificielle garantit que chaque portrait est unique, tout comme votre animal de compagnie. | :grey_question: |
+| [Pfpmaker](http://pfpmaker.com) | Créateur d'images de profil gratuit - Créez un PFP impressionnant en ligne. | Téléchargez votre photo pour créer une photo de profil d'aspect professionnel et une couverture d'arrière-plan assortie. | :white_check_mark: |
+| [Phantasmagoria](http://www.phantasmagoria.me) | . | . | :grey_question: |
+| [Phase](http://www.phase.art) | Bienvenue sur Phase !. | . | :grey_question: |
+| [Photoleap](http://www.photoleapapp.com) | Text to Image - Application de retouche photo créative et puissante par Lightricks. | Utilisez l'éditeur de photos tout-en-un Photoleap pour des créations étonnantes sur votre iPhone : modifiez les arrière-plans, supprimez des objets, créez des collages, appliquez des filtres et des effets. | :white_check_mark: |
+| [Phraser](http://phraser.tech) | Phraser - l'outil IA créatif collaboratif. | Phraser est une application qui vous aide à créer des images à l'aide de l'IA générative (Midjourney, Stable Diffusion et DALLE 2), à collaborer et à vous inspirer. | :grey_question: |
+| [Phygital](http://phygital.plus) | . | . | :grey_question: |
+| [PicSo](http://picso.ai) | Générateur d'art PicSo AI. | PicSo est une application de générateur d'art IA texte-image et une plate-forme en ligne pour l'art numérique créatif. Essayez GRATUITEMENT de transformer vos idées en art NFT, peinture à l'huile et plus encore. | :white_check_mark: |
+| [PictoDream](http://pictodream.com) | Générez des images de vous-même avec l'IA - PictoDream.com. | Générez des images de vous-même (ou d'une autre personne) dans n'importe quel style ou cadre à l'aide d'une simple description textuelle. | :grey_question: |
+| [Pictorial](http://www.pictorial.ai) | Pictural - Créez sans effort des graphiques pour vos applications Web. | L'inspiration est difficile à trouver. Faites passer votre message en toute simplicité en tirant parti d'une IA capable de générer des chefs-d'œuvre visuels fiables et prêts à l'emploi. | :grey_question: |
+| [Pinegraph](http://pinegraph.com) | Carnet de croquis magique. | Pinegraph est tout ce dont vous avez besoin pour donner vie à votre créativité. Générez gratuitement de l'art IA avec Pinecasso pour des styles comme l'anime, l'art abstrait, etc. Créez vos propres personnages conceptuels, y compris waifus et marios, l'art du jeu, et plus encore. | :white_check_mark: |
+| [Pitchgrade](http://pitchgrade.com) | Pitchgrade. | Un pitch deck est une présentation qu'une entreprise utilise pour présenter aux investisseurs. Il passe en revue le modèle commercial de l'entreprise, les projections financières et d'autres mesures clés que les investisseurs voudraient voir. | :grey_question: |
+| [Pixelmind](http://beta.pixelmind.ai) | Pixelmind - Art et frappe alimentés par l'IA pour les NFT. | Votre voyage dans l'art propulsé par l'IA. Créez et collectez des NFT via le portail Pixelmind. Faites évoluer votre style. Élevez votre jeu. | :grey_question: |
+| [Pixelz AI](http://pixelz.ai) | Générateur d'art Pixelz AI. | Créez des illustrations d'IA uniques en utilisant du texte, des phrases, des images et des préréglages, partagez, téléchargez, imprimez et créez des NFT. | :grey_question: |
+| [Poised 2.0](http://www.poised.com) | Poised - Coach de communication gratuit alimenté par l'IA. | . | :white_check_mark: |
+| [Pollinations](http://pollinations.ai) | Pollinisations.AI. | . | :grey_question: |
+| [Poly AI](http://poly.ai) | . | . | :grey_question: |
+| [Polymath Robotics](http://www.polymathrobotics.com) | Robotique polymathe. | Autonomie magiquement simplifiée pour les véhicules industriels. | :white_check_mark: |
+| [Ponzu.gg](http://www.ponzu.gg) | Ponzu. | L'IA a généré des cartes de texture PBR pour n'importe quelle idée, en quelques secondes. | :grey_question: |
+| [Portrait by Vana](http://portrait.vana.com) | Portrait - Vana. | "Portrait" de Vana est un studio d'art génératif qui peut créer des autoportraits de vous dans des styles infinis. | :grey_question: |
+| [Post Parrot](http://postparrot.xyz) | Post Parrot - Un outil marketing gratuit pour reddit. | . | :white_check_mark: |
+| [Predis](http://predis.ai) | Le marketing des médias sociaux simplifié grâce à l'IA - Predis.ai. | . | :grey_question: |
+| [Prettysmart.co](http://prettysmart.co) | Assez intelligent. | . | :grey_question: |
+| [Prodigy AI](http://ai.prodi.gg) | Coach IA prodige. | Êtes-vous un ingénieur qui s'interroge sur votre prochain concert ? Dites à HAL ce que vous recherchez et recevez des conseils de carrière personnalisés directement dans votre boîte de réception. | :grey_question: |
+| [Project Blink](http://labs.adobe.com) | Laboratoires Adobe. | Un endroit où partager certaines de nos explorations du futur de la créativité, de l'expression et de la communication. | :grey_question: |
+| [PrometheanAI](http://prometheanai.com) | IA Promethean. | . | :grey_question: |
+| [Prompt.Cafe](http://www.prompt.cafe) | Prompt.Cafe - Pack de démarrage d'invite IA. | . | :grey_question: |
+| [Promptextend](http://www.promptextend.com) | PromptExtend - Étendre / générer des invites d'art Ai pour MidJourney. | . | :grey_question: |
+| [Prompthunt](http://www.prompthunt.com) | Prompt Hunt - Votre maison pour explorer, créer et partager l'art de l'IA. | Créez, explorez et partagez l'art de l'IA à l'aide de DALL·E, Stable Diffusion et Midjourney. | :grey_question: |
+| [Promptomania](http://promptomania.com) | promptoMANIA : communauté d'art IA avec générateur d'invites. | . | :grey_question: |
+| [Question Base](http://www.questionbase.com) | Connaissance de l'échelle. | Question Base est un nouveau type de base de connaissances. Propulsé par l'IA, il répond aux questions de votre équipe dans Slack. Automatiquement. | :grey_question: |
+| [Quillbot Paraphraser](http://quillbot.com) | . | . | :grey_question: |
+| [Quilt & Create](http://www.quiltcreate.com) | Courtepointe et création. | . | :grey_question: |
+| [Quizgecko](http://quizgecko.com) | Le générateur de quiz alimenté par l'IA - Quizgecko. | . | :grey_question: |
+| [Quizwhiz](http://www.quizwhiz.ai) | QuizWhiz - Générez des QCM à partir de n'importe quel texte. | Fournissez un corps de texte et obtenez des questions et réponses générées par l'IA, ainsi que leurs options à choix multiples. | :grey_question: |
+| [RTutor](http://rtutor.ai) | RTuteur. | . | :grey_question: |
+| [Raplyrics](http://raplyrics.eu) | Raplyrics - Générez vos punchlines de musique rap. | Écrivez quelques mots dans l'invite ci-dessous et générez une punchline de musique rap unique en utilisant l'Intelligence Artificielle !. | :grey_question: |
+| [Rationale](http://rationale.jina.ai) | Rationale - un outil d'aide à la décision révolutionnaire alimenté par le dernier GPT et l'apprentissage en contexte. | . | :grey_question: |
+| [Rayst Gradients](http://gradients.ray.st) | Dégradés Rayst. | Une collection de 64 beaux dégradés générés par AI. | :grey_question: |
+| [Recommendme](http://www.recommendme.to) | Recommande moi. | . | :grey_question: |
+| [Redacta.me](http://www.redacta.me) | redacta.me - Tu Community Manager Virtuel. | . | :grey_question: |
+| [Reface](http://hey.reface.ai) | Refacer. Soyez n'importe qui. | Créez des vidéos d'échange de visage réalistes, des GIF et des mèmes avec un seul selfie. | :grey_question: |
+| [RestorePhotos.io](https://www.restorephotos.io/) | Restauration de vieilles photos à l'aide de l'IA pour tout le monde. | Vous avez des photos de visage anciennes et floues ? Laissez notre IA les restaurer afin que ces souvenirs puissent perdurer. 100% gratuit - restaurez vos photos aujourd'hui. | :white_check_mark: |
+| [ResumAI](http://www.wonsulting.com) | Wonsulting - Nous trouvons des emplois de rêve. | Nous avons aidé plus de 100 000 personnes à décrocher l'emploi de leurs rêves. Laissez nos stratégies de recherche d'emploi vous faire passer des CV à des jours meilleurs. | :grey_question: |
+| [Resume Studio](http://resumestudio.careers) | . | . | :grey_question: |
+| [Reviewgenerator](http://reviewgenerator.app) | reviewgenerator.app. | . | :grey_question: |
+| [Revive](http://letsrevive.app) | Revive - Imaginez des idées commerciales avec l'IA. | . | :grey_question: |
+| [Revspot](http://www.revspot.co) | Revspot AI - Une nouvelle façon d'écrire. | . | :grey_question: |
+| [Rewind](http://www.rewind.ai) | Rembobiner. | . | :grey_question: |
+| [Rick and Mortify](http://rickandmortify.com) | Rick et mortifier. | . | :grey_question: |
+| [Riku](http://riku.ai) | Riku.AI - Créez des invites et des ensembles de données sans code pour les modèles d'IA. | . | :grey_question: |
+| [Roamr](http://www.letsroam.app) | Roamr - Vos vacances de rêve en quelques secondes. | . | :grey_question: |
+| [SQLgenius](http://sqlgenius.app) | SQL Genius - Traducteur AI de l'anglais vers les requêtes SQL. | . | :grey_question: |
+| [SUPERMACHINE](http://supermachine.art) | SUPERMACHINE - Générez des photos, des illustrations et des images avec l'IA. | SUPERMACHINE vous permet de générer des images avec les dernières technologies d'intelligence artificielle. | :grey_question: |
+| [SafeSpelling](http://safespelling.com) | SafeSpelling - Écrivez sans fautes. | . | :grey_question: |
+| [Scale Catalog Forge](http://scale.com) | Scale AI : la plateforme de données pour l'IA. | Reconnu par des entreprises de classe mondiale, Scale fournit des données de formation de haute qualité pour les applications d'IA telles que les voitures autonomes, la cartographie, l'AR/VR, la robotique, etc. | :x: |
+| [Scene One](http://sceneone.app) | Application d'écriture de livres en ligne pour les romans, les nouvelles et les affaires. | Écrivez plus d'histoires avec notre application d'écriture intuitive et passez moins de temps à apprendre des fonctionnalités compliquées. | :grey_question: |
+| [Scispace](http://typeset.io) | SciSpace by Typeset - Découvrez, créez, publiez et faites la promotion de votre document de recherche. | Votre plateforme pour explorer et expliquer les papiers. Recherchez plus de 270 millions d'articles, comprenez-les dans un langage simple et trouvez des articles, des auteurs et des sujets liés. | :grey_question: |
+| [Scribe](http://vienna.earth) | . | . | :grey_question: |
+| [Sitekick](http://www.sitekick.ai) | Constructeur de pages de destination IA. | . | :grey_question: |
+| [Snackable AI](http://snackable.ai) | À grignoter. | . | :grey_question: |
+| [Snipd Podcast Summaries](http://www.snipd.com) | Libérez les connaissances dans les podcasts - Snipd. | . | :grey_question: |
+| [Solidpoint](http://www.solidpoint.ai) | SolidPoint. | . | :grey_question: |
+| [Songmastr](http://www.songmastr.com) | Songmastr - Mastering automatique des chansons à référencer. | . | :white_check_mark: |
+| [Songtell](http://www.songtell.com) | Songtell - Votre chanson qui signifie conteur. | . | :grey_question: |
+| [Soundful](http://soundful.com) | Donner au monde les moyens de créer de la musique - Soundful. | Soundful permet aux créateurs de générer des pistes libres de droits en un clic. La qualité de la musique Soundful est si riche que vous ne croirez pas qu'elle a été créée avec l'IA. | :grey_question: |
+| [Splash](http://www.splashmusic.com) | Splash - Apporter la joie de faire de la musique à tout le monde. | . | :grey_question: |
+| [Stabledojo](http://www.stabledojo.com) | StableDojo. | . | :grey_question: |
+| [Steve AI](http://www.steve.ai) | Steve.ai - Le moyen le plus rapide au monde de créer des vidéos. | Grâce à notre technologie AI brevetée, vous pouvez réaliser des vidéos professionnelles en MINUTES. Voyez la MAGIE se produire lorsque l'IA sélectionne les bons éléments multimédias créatifs pour votre vidéo. | :grey_question: |
+| [Stocknews AI](http://stocknewsai.com) | Stocknews AI - L'IA a sélectionné les actualités boursières. | . | :grey_question: |
+| [StoriesbyAI](http://storiesby.ai) | Histoires par IA - Substack. | . | :grey_question: |
+| [Storya](http://www.storya.app) | Storya - Publication d'IA pour tous. | . | :grey_question: |
+| [Studio Design](http://studio.design) | STUDIO, un outil de conception augmenté par l'IA. | . | :grey_question: |
+| [SuenaGringo AI](http://suenagringo.com) | Suena Gringo. | Escribe inglés con confianza y rompe las barreras. | :grey_question: |
+| [Suggest Gift](http://suggest.gift) | Suggérer un cadeau - Trouvez d'excellentes suggestions de cadeaux à l'aide de l'intelligence artificielle. | Outil basé sur l'intelligence artificielle pour vous aider à obtenir des suggestions de cadeaux incroyables pour toutes les occasions. | :grey_question: |
+| [Sumly](http://www.sumly.ai) | Résumés de podcasts générés par l'IA - Sumly.AI. | . | :grey_question: |
+| [SummerEyes](http://summereyes.ai) | SummerEyes : des résumés optimisés par l'IA dans votre navigateur. | . | :grey_question: |
+| [Summon](http://www.figma.com) | Figma : l'outil de conception d'interfaces collaboratives. | Créez de meilleurs produits en équipe. Concevez, prototypez et recueillez des commentaires en un seul endroit avec Figma. | :grey_question: |
+| [Super Prompt](http://superprompts.com) | Super invites. | Créez une galerie pour votre art IA. La prochaine fois que quelqu'un demandera à voir toutes vos créations, vous aurez un endroit où les diriger. Présentez tout votre art de l'IA en un seul endroit. | :grey_question: |
+| [Supermeme.ai](http://www.supermeme.ai) | Supermeme.ai - Des mèmes IA pour booster votre marque personnelle et professionnelle. | Générez des mèmes AI originaux dans plus de 110 langues en saisissant n'importe quelle entrée de texte et en la transformant en mèmes partageables. Propulsé par GPT-3 et une base de données de mèmes personnalisée. | :grey_question: |
+| [Supernormal](http://supernormal.com) | Supernormal - L'IA qui rédige vos notes de réunion. | . | :grey_question: |
+| [SwagAI](http://swag-ai.com) | . | . | :grey_question: |
+| [Synth Run](http://app.synth.run) | Synthé. | . | :grey_question: |
+| [Synthesia](http://www.synthesia.io) | Synthesia - Plateforme de génération de vidéos IA n°1. | . | :grey_question: |
+| [TLDR This](http://tldrthis.com) | TLDR This - Résumé d'article et outil de synthèse de texte en ligne. | Cela vous aide à résumer n'importe quel morceau de texte en un contenu concis et facile à digérer afin que vous puissiez vous libérer de la surcharge d'informations. | :white_check_mark: |
+| [Takomo](http://go.takomo.ai) | Se connecter - Takomo. | . | :grey_question: |
+| [Talk to Books](http://books.google.com) | livres Google. | . | :grey_question: |
+| [TalkingPhoto by Movio](http://app.movio.la) | Movio - Créateur de vidéos de porte-parole de l'IA. | . | :grey_question: |
+| [Tavus](http://www.tavus.io) | Accueillir. | . | :grey_question: |
+| [Teacherbot](http://teacherbot.io) | Teacherbot - L'outil que chaque enseignant mérite. | Nous avons développé l'outil le plus puissant auquel un enseignant peut avoir accès. Vous pouvez créer des tâches et des activités pour tous les niveaux ainsi que des plans de sujets, des plans d'avenir, des plans de cours et bien plus encore. Vous n'êtes limité que par votre imagination. | :grey_question: |
+| [Text Assistant](http://goodsnooze.gumroad.com) | Jordi Bruin. | . | :grey_question: |
+| [Text to Image Editor](http://imgeditor.zmo.ai) | Créez n'importe quelle image en utilisant du texte - IMGCreator.ai. | . | :grey_question: |
+| [TextSynth](http://textsynth.com) | TextSynth. | . | :grey_question: |
+| [Textunbox](http://textunbox.app) | TextUnbox.app. | TextUnbox - exploitez la puissance de l'IA !. | :grey_question: |
+| [Thegist](http://www.thegist.ai) | theGist AI - Résumez le fil et les canaux Slack - Obtenez l'essentiel. | . | :grey_question: |
+| [Thiscampsitedoesnotexist](http://thiscampsitedoesnotexist.com) | Ce camping n'existe pas. | Des campings générés par l'IA avec des emplacements, des tentes et des conditions météorologiques époustouflants, tous créés par l'IA à l'aide d'une diffusion stable. | :grey_question: |
+| [Thumbsnap](http://art.thumbsnap.com) | Générateur d'art IA ! Propulsé par Stable Diffusion - ThumbSnap - Hébergement gratuit de photos et de vidéos. | ThumbSnap : partage gratuit de photos et de vidéos. | :white_check_mark: |
+| [Titan](http://www.compliancequarter.com.au) | Systèmes et ressources de conformité experts - Compliance Quarter. | Système de gestion de la conformité réglementaire et expertise pour l'énergie, les services financiers et d'autres industries réglementées. Nous proposons des systèmes et des services experts pour vous décharger du fardeau réglementaire. | :grey_question: |
+| [Torto.ai](http://torto.ai) | La bourse simplifiée. | . | :grey_question: |
+| [Traq.ai](http://www.traq.ai) | . | . | :grey_question: |
+| [Tribescaler](http://tribescaler.com) | Écailleur de tribu. | . | :grey_question: |
+| [Tunes For Tales](http://tunesfortales.fun) | Mélodies pour contes. | . | :grey_question: |
+| [TutorAI](http://www.tutorai.me) | Apprenez n'importe quoi. | . | :grey_question: |
+| [TweetAI](http://tweetai.com) | Inspirez-vous pour tweeter • TweetAI.com. | Tweet IA. | :grey_question: |
+| [TweetEmote](http://www.tweetemote.com) | TweetEmote. | . | :grey_question: |
+| [Tweetnimage](http://tweetnimage.com) | Tweetnimage. | . | :grey_question: |
+| [Tweetsift](http://tweetsift.com) | TweetSift. | . | :grey_question: |
+| [Twelve Labs](http://twelvelabs.io) | Douze laboratoires. | . | :grey_question: |
+| [USP](http://usp.ai) | Maximisez votre blog - USP.ai. | Des IMAGES GRATUITES DE ROYAUTÉ générées par l'IA pour vos histoires et vos articles de blog. | :white_check_mark: |
+| [Uizard](http://uizard.io) | Uizard - Conception d'applications, de sites Web et d'interfaces utilisateur simplifiée - Propulsé par l'IA. | . | :grey_question: |
+| [Ultimate Skill Extractor by Further](http://nlp.appfurther.io) | Plus loin : Suggestion de compétence automatisée. | . | :grey_question: |
+| [Underduck](http://uberduck.ai) | Uberduck - Text-to-speech, automatisation vocale, médias synthétiques. | . | :grey_question: |
+| [Unpromptedgame](http://www.unpromptedgame.com) | . | . | :grey_question: |
+| [Unrealme](http://unrealme.io) | Moi irréel. | . | :grey_question: |
+| [Userevaluation](http://www.userevaluation.com) | Évaluation des utilisateurs â La plate-forme de compréhension du client. | Que vous vous concentriez sur l'interface utilisateur, la recherche UX, la conception ou l'expérience utilisateur, l'IA de l'évaluation des utilisateurs peut répondre à toutes vos questions. | :white_check_mark: |
+| [Userpersona](http://userpersona.dev) | Persona d'utilisateur - Personas d'utilisateur générés par l'IA. | . | :grey_question: |
+| [Validator AI](http://www.validatorai.com) | ValidatorAI.com - Aide et commentaires instantanés avec nos outils de validation de démarrage pour les entrepreneurs. | . | :grey_question: |
+| [Vee](http://vee.ai) | Un consultant intelligent avec qui les gens aiment parler. z którą ludzie lubią rozmawiać. | Vee a déjà parlé avec 5 millions de Polonais, mettant en œuvre efficacement des processus commerciaux pour des dizaines d'entreprises de divers secteurs. Vee przeprowadziła rozmowy już z ponad 5 milionami Polaków, skutecznie realizując procesy biznesowe dla dziesiątek firm z różnych branż. | :grey_question: |
+| [Versational](http://www.versational.ai) | Versationnel pour les équipes distantes. | Versational maximise la valeur exprimée dans chaque conversation. Obtenez gratuitement des résultats de conversation AI. Versational transcrit, résume, automatise la saisie de données, extrait des plats à emporter, vous permet de partager des clips et montre des moyens d'améliorer vos conversations. | :white_check_mark: |
+| [Viral Post Generator](http://viralpostgenerator.taplio.com) | Clone de post-générateur viral. | Devenez méga-viral sur Linkedin - Générez une publication réussie avec la puissance de l'IA. | :grey_question: |
+| [Visuali](http://visuali.io) | Visuel. | La génération d'images AI simplifiée. | :grey_question: |
+| [Vocads Survey](http://www.vocads.com) | . | . | :grey_question: |
+| [Voice AI](http://voice.ai) | Application AI Voice Changer pour PC et Mac - Changez votre voix à la volée. | . | :grey_question: |
+| [Voicemaker](http://voicemaker.in) | Voicemaker® - Convertisseur de texte en parole. | . | :grey_question: |
+| [Voicemod](http://www.voicemod.net) | Changeur et modulateur de voix en temps réel gratuit - Voicemod. | Exprimez-vous avec notre AI Voice Changer en temps réel et notre table d'harmonie pour être qui vous voulez, quand vous voulez dans le métaverse. Construisez votre identité sonore pour des plates-formes telles que Roblox, OBS, VRChat, Discord, etc. | :white_check_mark: |
+| [Voicera](http://www.voicera.co) | Voicera - Donnez de la voix à vos articles et blogs. | . | :grey_question: |
+| [Waifu XL](http://waifuxl.com) | WaifuXL. | . | :grey_question: |
+| [Waifulabs](http://waifulabs.com) | Waifu Labs - Portraits d'anime magiques. | Une IA à la pointe de la technologie qui dessine des portraits d'anime personnalisés, rien que pour vous ! Cet artiste en apprentissage automatique détermine vos préférences et crée une illustration de personnage parfaite en 4 étapes faciles. Si cela ressemble à de la magie, c'est parce que ça l'est !. | :grey_question: |
+| [Watermark Remover](http://www.watermarkremover.io) | Watermark Remover - Supprimez les filigranes en ligne des images gratuitement. | Débarrassez-vous des filigranes de vos images grâce à notre puissante technologie AI. | :white_check_mark: |
+| [Webapi.ai 2.0](http://webapi.ai) | . | . | :grey_question: |
+| [What on earth?](http://www.whatonearth.xyz) | WhatOnEarth par @naklecha. | . | :grey_question: |
+| [Whisper Memos](http://whispermemos.com) | Mémos chuchotés. | . | :grey_question: |
+| [WhisperAPI](http://whisperapi.com) | API de chuchotement. | . | :grey_question: |
+| [Wisecut](http://www.wisecut.video) | Wisecut - Éditeur vidéo automatique. | . | :grey_question: |
+| [WithPoly](http://withpoly.com) | Poly : Générez des ressources de conception avec A.I. · poly. | . | :grey_question: |
+| [Wordfixerbot](http://www.wordfixerbot.com) | Outil de paraphrase - Meilleur paraphrase en ligne gratuit - WordfixerBot. | . | :grey_question: |
+| [Write A Thank You](http://thankyounote.app) | Écrire une note de remerciement - ThankYouNote.app. | Rédigez la note de remerciement parfaite pour toute occasion ! Que vous ayez besoin de remercier un ami, un membre de votre famille ou un associé, nous avons les mots parfaits pour vous. Essayez-le !. | :grey_question: |
+| [Writelyai](http://www.writelyai.com) | Writely - Utiliser l'IA pour améliorer votre écriture. | . | :grey_question: |
+| [Writeplus](http://writeplus.co) | Write+ – L'écriture professionnelle rendue accessible à tous !. | . | :grey_question: |
+| [Writer](http://writer.com) | Writer - Plateforme d'écriture d'IA pour les équipes. | Des entreprises de classe mondiale utilisent la plate-forme d'écriture d'IA de Writer pour déverrouiller du contenu de marque à grande échelle. | :grey_question: |
+| [Yepic AI](http://www.yepic.ai) | Votre boîte à outils vidéo AI - Créez, doublez et personnalisez des vidéos. | Créez, copiez et personnalisez des vidéos n'importe où. | :grey_question: |
+| [ai2sql](http://www.ai2sql.io) | Générateur de requêtes SQL - Générateur de requêtes SQL AI bot. | Avec AI2sql, les ingénieurs et les non-ingénieurs peuvent facilement écrire des requêtes SQL efficaces et sans erreur sans connaître SQL. Il est temps de reprendre votre temps !. | :white_check_mark: |
+| [bigmp4](http://bigmp4.com) | Amélioration de la vidéo AI, en utilisant le modèle AI de pointe 2022 pour agrandir la vidéo sans perte, améliorer la vidéo. | . | :grey_question: |
+| [deck.rocks](https://www.deck.rocks/) | deck.rocks : générer des pitch decks à l'aide de GPT-3. | . | :grey_question: |
+| [micro Dalle-2](http://micropay.ai) | Générateur d'images Dalle-2 - micropay. | Logiciel d'IA générative anonyme et payant. | :grey_question: |
 
-<!--End of Other 0-->
+<!--End of Autre 0-->
 
 <!--lint ignore double-link-->
 **[⬆ Retour à l'index](#index)**
