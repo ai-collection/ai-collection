@@ -710,6 +710,7 @@
 ## Texto
 | Nombre | Título | Descripción | Ofrecer versión gratuita |
 |---|---|---|:---:|
+| [AI Poem Generator](https://www.aipoemgenerator.org) | Generador de poemas gratuito impulsado por IA. | Un creador de poemas en línea gratuito que te permite generar hermosos poemas con rimas sobre cualquier tema con IA. | :white_check_mark: |
 | [Bookclub](http://www.bookclub.ai) | Bookclub.Ai - Conoce tu próximo libro. | . | :grey_question: |
 | [ChatGPT Writer](http://chatgptwriter.ai) | . | . | :grey_question: |
 | [Childbook](http://www.childbook.ai) | ¡Bienvenido a Children'S Book Creator!. | Su libro será personalizado con personajes, imágenes e historia. La historia y las ilustraciones también tienen una función de texto a voz y se pueden escuchar. | :grey_question: |
