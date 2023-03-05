@@ -44,17 +44,14 @@
 
 <div align="center">
     <h5>Promotion</h5>
-    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/Looka.png" alt="Lookah" border="0"/>
+    <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/easy-peasy.jpg" alt="easy-peasy" border="0"/>
     </a>
-    <p>La superbe promotion des applications d'IA de cette semaine est <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>Looka</b>
+    <p>La superbe promotion des applications d'IA de cette semaine est <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>easy-peasy.AI</b>
     </a></p>
-    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank">
-        <img width="200" src="https://looka.com/wp-content/themes/looka/images/logos/looka_logo_black.svg" alt="looka logo">
-    </a>
-    <h4>Créez votre propre belle marque</h4>
-    <p>Conceptions de logo premium - générez des centaines de logos personnalisés gratuitement, sans compte requis jusqu'à ce que vous soyez prêt à acheter</p>
-    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>Commencer</b></a>
+    <h4>Rédacteur IA abordable - Easy-Peasy.Ai : l'assistant de contenu IA</h4>
+    <p>Créez du contenu incroyable 10 fois plus rapidement. Images IA, transcription audio IA et chat avec l'ami IA Marky.</p>
+    <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Commencer</b></a>
 </div>
 
 ---

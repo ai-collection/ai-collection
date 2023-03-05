@@ -49,17 +49,14 @@ Translations:
 
 <div align="center">
     <h5>Promotion</h5>
-    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/Looka.png" alt="Lookah" border="0"/>
+    <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/easy-peasy.jpg" alt="easy-peasy" border="0"/>
     </a>
-    <p>This week's awesome AI application promotion is <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>Looka</b>
+    <p>This week's awesome AI application promotion is <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>easy-peasy.AI</b>
     </a></p>
-    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank">
-        <img width="200" src="https://looka.com/wp-content/themes/looka/images/logos/looka_logo_black.svg" alt="looka logo">
-    </a>
-    <h4>Design your own beautiful brand</h4>
-    <p>Premium logo designs — generate 100s of custom logos for free, with no account required until you&#39;re ready to purchase</p>
-    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>Get Started</b></a>
+    <h4>Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant</h4>
+    <p>Create amazing content 10X faster. AI Images, AI Audio Transcription and Chat with AI buddy Marky.</p>
+    <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Get Started</b></a>
 </div>
 
 ---

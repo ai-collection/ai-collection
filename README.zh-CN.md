@@ -44,17 +44,14 @@
 
 <div align="center">
     <h5>晋升</h5>
-    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/Looka.png" alt="Lookah" border="0"/>
+    <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/easy-peasy.jpg" alt="easy-peasy" border="0"/>
     </a>
-    <p>本周精彩的AI应用推广是 <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>Looka</b>
+    <p>本周精彩的AI应用推广是 <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>easy-peasy.AI</b>
     </a></p>
-    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank">
-        <img width="200" src="https://looka.com/wp-content/themes/looka/images/logos/looka_logo_black.svg" alt="looka logo">
-    </a>
-    <h4>设计自己的美丽品牌</h4>
-    <p>高级徽标设计 — 免费生成 100 多个自定义徽标，在您准备好购买之前无需帐户</p>
-    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>开始</b></a>
+    <h4>负担得起的 AI 作家 - Easy-Peasy.Ai：AI 内容助手</h4>
+    <p>以 10 倍的速度创建精彩内容。 AI 图像、AI 音频转录和与 AI 好友 Marky 聊天。</p>
+    <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>开始</b></a>
 </div>
 
 ---

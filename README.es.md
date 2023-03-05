@@ -44,17 +44,14 @@
 
 <div align="center">
     <h5>Promoción</h5>
-    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/Looka.png" alt="Lookah" border="0"/>
+    <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/easy-peasy.jpg" alt="easy-peasy" border="0"/>
     </a>
-    <p>La increíble promoción de aplicaciones de IA de esta semana es <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>Looka</b>
+    <p>La increíble promoción de aplicaciones de IA de esta semana es <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>easy-peasy.AI</b>
     </a></p>
-    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank">
-        <img width="200" src="https://looka.com/wp-content/themes/looka/images/logos/looka_logo_black.svg" alt="looka logo">
-    </a>
-    <h4>Diseña tu propia marca hermosa</h4>
-    <p>Diseños de logotipos premium: genere cientos de logotipos personalizados de forma gratuita, sin necesidad de una cuenta hasta que esté listo para comprar</p>
-    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>Empezar</b></a>
+    <h4>Escritor de IA asequible: Easy-Peasy.Ai: el asistente de contenido de IA</h4>
+    <p>Crea contenido increíble 10 veces más rápido. Imágenes de IA, transcripción de audio de IA y chat con el amigo de IA Marky.</p>
+    <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Empezar</b></a>
 </div>
 
 ---
