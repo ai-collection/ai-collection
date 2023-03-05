@@ -44,17 +44,14 @@
 
 <div align="center">
     <h5>Повышение</h5>
-    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/Looka.png" alt="Lookah" border="0"/>
+    <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/easy-peasy.jpg" alt="easy-peasy" border="0"/>
     </a>
-    <p>Удивительная реклама приложения AI на этой неделе <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>Looka</b>
+    <p>Удивительная реклама приложения AI на этой неделе <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>easy-peasy.AI</b>
     </a></p>
-    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank">
-        <img width="200" src="https://looka.com/wp-content/themes/looka/images/logos/looka_logo_black.svg" alt="looka logo">
-    </a>
-    <h4>Создайте свой собственный красивый бренд</h4>
-    <p>Дизайн логотипов премиум-класса — создавайте 100 пользовательских логотипов бесплатно, без необходимости учетной записи, пока вы не будете готовы к покупке.</p>
-    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>Начать</b></a>
+    <h4>Доступный ИИ-писатель — Easy-Peasy.Ai: Помощник по ИИ-контенту</h4>
+    <p>Создавайте потрясающий контент в 10 раз быстрее. AI-изображения, AI-транскрипция аудио и чат с AI-приятелем Марки.</p>
+    <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Начать</b></a>
 </div>
 
 ---
