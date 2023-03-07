@@ -863,6 +863,7 @@ Translations:
 | [Vidyo](http://vidyo.ai) | AI Based Content Repurposing - Vidyo.Ai. | Create social ready short clips from your videos with AI ✨ Save 90% time and effort. | :grey_question: |
 | [Waymark](http://waymark.com) | Boost Local Sales With Unbelievably Easy Video. | When TV, CTV, and digital ads are this effortless, the possibilities are limitless. High-impact ads are now open to everyone, with Waymark. | :grey_question: |
 | [Wzrd.ai](http://wzrd.ai) | Experience Your Sound. | WZRD augments your audio with immersive video powered by artificial intelligence. | :grey_question: |
+| [Augie](https://www.augxlabs.com/) | Augie transforms words into videos! | Upload text, narration, or clips, and Augie will analyze the content and create a video instantly to match your words! | :white_check_mark :  |
 
 <!--End of Video 25-->
 
