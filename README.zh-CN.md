@@ -20,7 +20,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=830" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=831" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=35" />
@@ -791,6 +791,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [AI Host](https://livereacting.sjv.io/beth0) | 运行交互式直播. | LiveReacting 通过将预先录制的视频、游戏、倒计时和投票添加到您的流中，帮助您获得更多关注者和参与度。. | :x: |
+| [Augie](https://www.augxlabs.com/) | Augie 将文字转换为视频！. | 上传文本、旁白或剪辑，Augie 将分析内容并立即创建视频以匹配您的文字！. | :white_check_mark: |
 | [BRIA](http://commercial.bria.ai/) | 大规模创建图像和视频 - Bria. | . | :grey_question: |
 | [Boolpic](http://boolv.tech) | 为品牌赋能的智能视频平台. | 使用 AI 以 10 倍的速度生成品牌视频以提高营销绩效. | :grey_question: |
 | [D-ID's Creative Reality Studio](https://www.d-id.com/) | 面向未来的生成人工智能. | 只需按一下按钮即可制作带有会说话的头像的定制视频，为企业和创作者提供超能力。. | :white_check_mark: |
