@@ -20,7 +20,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=830" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=831" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=35" />
@@ -854,6 +854,7 @@
 | Nom | Titre | Description | Offrir une version gratuite |
 |---|---|---|:---:|
 | [AI Host](https://livereacting.sjv.io/beth0) | Exécutez des flux en direct interactifs. | LiveReacting vous aide à obtenir plus d'abonnés et d'engagement en ajoutant des vidéos, des jeux, des comptes à rebours et des sondages préenregistrés à votre flux. | :x: |
+| [Augie](https://www.augxlabs.com/) | Augie transforme les mots en vidéos !. | Téléchargez du texte, une narration ou des clips, et Augie analysera le contenu et créera instantanément une vidéo correspondant à vos mots !. | :white_check_mark: |
 | [BRIA](http://commercial.bria.ai/) | Créer des images et des vidéos à grande échelle - Bria. | . | :grey_question: |
 | [Boolpic](http://boolv.tech) | Une plateforme vidéo intelligente qui donne du pouvoir aux marques. | Générez des vidéos de marque 10 fois plus rapidement grâce à l'IA pour améliorer les performances marketing. | :grey_question: |
 | [D-ID's Creative Reality Studio](https://www.d-id.com/) | IA générative tournée vers l'avenir. | Produisez des vidéos personnalisées mettant en vedette des avatars parlants d'une simple pression sur un bouton, donnant aux entreprises et aux créateurs des super pouvoirs. | :white_check_mark: |

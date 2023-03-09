@@ -20,7 +20,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=830" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=831" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=35" />
@@ -868,6 +868,7 @@
 | Имя | Заголовок | Описание | Предложить бесплатную версию |
 |---|---|---|:---:|
 | [AI Host](https://livereacting.sjv.io/beth0) | Запуск интерактивных прямых трансляций. | LiveReacting помогает вам привлечь больше подписчиков и вовлеченности, добавляя в свою трансляцию предварительно записанные видео, игры, обратный отсчет и опросы. | :x: |
+| [Augie](https://www.augxlabs.com/) | Оги превращает слова в видео!. | Загрузите текст, повествование или клипы, и Оги проанализирует содержимое и мгновенно создаст видео, соответствующее вашим словам!. | :white_check_mark: |
 | [BRIA](http://commercial.bria.ai/) | Создавайте изображения и видео в масштабе — Bria. | . | :grey_question: |
 | [Boolpic](http://boolv.tech) | Интеллектуальная видеоплатформа, расширяющая возможности брендов. | Создавайте видео о брендах в 10 раз быстрее с помощью ИИ, чтобы повысить эффективность маркетинга. | :grey_question: |
 | [D-ID's Creative Reality Studio](https://www.d-id.com/) | Перспективный генеративный ИИ. | Создавайте персонализированные видеоролики с говорящими аватарами одним нажатием кнопки, предоставляя компаниям и создателям супервозможности. | :white_check_mark: |
