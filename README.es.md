@@ -56,7 +56,7 @@
 
 ---
 
-> **_NOTE:_** > **_NOTA:_** Se acerca un cambio en la forma en que se muestra la colección. Solo se mostrarán unas pocas docenas de aplicaciones generativas de IA cuidadosamente seleccionadas. La colección completa siempre estará disponible en https://ai-collection.org/
+> **_NOTA:_** Se acerca un cambio en la forma en que se muestra la colección. Solo se mostrarán unas pocas docenas de aplicaciones generativas de IA cuidadosamente seleccionadas. La colección completa siempre estará disponible en https://ai-collection.org/
 <br />
 
 ## Index
