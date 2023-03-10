@@ -56,7 +56,7 @@
 
 ---
 
-> **_NOTE :_** Les catégories sont toujours en cours de développement. Si vous avez des suggestions sur la façon de catégoriser la collection, veuillez ouvrir un sujet et nous pourrons en discuter là-bas.
+> **_NOTE:_** > **_NOTE :_** Un changement sur la façon dont la collection est affichée est à venir. Seules quelques dizaines d'applications d'IA génératives triées sur le volet seront affichées. La collection complète sera toujours disponible sur https://ai-collection.org/
 <br />
 
 ## Index
