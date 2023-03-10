@@ -44,6 +44,7 @@ Translations:
 - Chinese (Simplified) 简体中文）: [README.zh-CN.md](https://github.com/ai-collection/ai-collection/blob/main/README.zh-CN.md)
 - Français: [README.fr.md](https://github.com/ai-collection/ai-collection/blob/main/README.fr.md)
 - español: [README.es.md](https://github.com/ai-collection/ai-collection/blob/main/README.es.md)
+- Hindi हिंदी: [README.hi.md](https://github.com/ai-collection/ai-collection/blob/main/README.hi.md)
 
 ---
 
