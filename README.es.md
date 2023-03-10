@@ -56,7 +56,7 @@
 
 ---
 
-> **_NOTE:_**  Las categorías todavía están en proceso. Si tiene sugerencias sobre cómo categorizar la colección, abra un problema y podemos discutirlo allí.
+> **_NOTE:_** > **_NOTA:_** Se acerca un cambio en la forma en que se muestra la colección. Solo se mostrarán unas pocas docenas de aplicaciones generativas de IA cuidadosamente seleccionadas. La colección completa siempre estará disponible en https://ai-collection.org/
 <br />
 
 ## Index
