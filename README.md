@@ -586,7 +586,6 @@ Translations:
 ## Organization & Automation
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [Magical](https://www.getmagical.com/ai) | Make Tasks Disappear. Like Magic. | Call on Magical AI to do all the work stuff you hate doing. Create messages from scratch, update forms instantly, and automate annoying tasks—anywhere, anytime. | :white_check_mark: |
 | [BuildAI](https://www.buildai.space/) | Build AI Interfaces in Minutes. | Enter the description of an app that outputs text based on user text input, and we will BUILD IT FOR YOU!. | :grey_question: |
 | [Hexowatch](http://hexact.pxf.io/beth0) | Beyond Availability and Prices, 3Rd Party Websites as a Data Source, Visual Website Monitoring, Competitor Tracking. | Hexowatch is your AI sidekick to monitor any website for visual, content, source code, technology, availability, or price changes. | :x: |
 | [KUBIYA](http://kubiya.ai/) | Devops Virtual Assistant. | Provide developers secure, self-serve access to operational workflows, cloud resources and organizational knowledge with conversational AI. | :grey_question: |
@@ -594,6 +593,7 @@ Translations:
 | [bardeen](https://www.bardeen.ai/ai) | AI Meets Automations. | Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity. | :grey_question: |
 | [mem](https://get.mem.ai/) | The Self-Organizing Workspace. | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically. | :white_check_mark: |
 | [timeMaster](https://www.timemaster.ai/) | Supercharge Your Focus and Productivity. | TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf. | :white_check_mark: |
+| [Magical](https://www.getmagical.com/ai) | Make Tasks Disappear. Like Magic. | Call on Magical AI to do all the work stuff you hate doing. Create messages from scratch, update forms instantly, and automate annoying tasks—anywhere, anytime. | :white_check_mark: |
 
 <!--End of Organization & Automation 31-->
 
