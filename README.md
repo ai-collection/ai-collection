@@ -288,7 +288,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0) | Instantly Convert Your YouTube Content Into Engaging Blog Articles. | Boost your SEO and brand presence. | :white_check_mark: |
 | [anyword](https://anyword.com/) | anyword | copywriting ai with predictable results | :x: |
 | [Copysmith](https://copysmith.ai/) | Copysmith | Copysmith’s AI content generator makes product description writing fast, easy and fun – are you ready for your mind to be blown? | :white_check_mark: |
-
+| [jounce](https://www.jounce.ai/) | Jounce | Free AI-powered copywriting and artwork for marketers | :white_check_mark: |
 
 ### Creators Toolkit
 | Name | Title | Description | Offer Free Version |
@@ -433,6 +433,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [Paralegal AI](http://www.legalquestions.help) | Paralegal AI. | AI Powered Legal Research and Summaries. | :white_check_mark: |
 | [PatentPal](http://patentpal.com) | Generative AI for Intellectual Property. | Automate mechanical writing in your patent applications. | :white_check_mark: |
 | [Spellbook](https://www.spellbook.legal/) | Draft Contracts 3X Faster With AI. | Spellbook uses GPT-3 to review and suggest language for your contracts, right in Microsoft Word. | :grey_question: |
+| [AI Lawyer](https://ailawyer.pro/) | AI Lawyer | Personal AI lawyer at your fingertips | :x: |
 
 **[⬆ back to index](#index)**
 
@@ -489,6 +490,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [Imgupscaler](http://imgupscaler.com) | Smart PNG / JPG Image Upscaler. | Upscale and enhance your image by using the latest AI technology. | :grey_question: |
 | [Magic Eraser](http://magicstudio.com) | Magic Studio - Powered by Ai, Created by You. | Magic Studio helps you automatically edit and create images, using AI. | :grey_question: |
 | [Palette](http://palette.fm) | Palette - Colorize Photos. | A new AI colorizer. Colorize anything from old black and white photos ð¸, style your artworks ð¨, or give modern images a fresh look ð¶. It's as simple as instagram. | :white_check_mark: |
+| [ImageColorizer](https://imagecolorizer.com) | ImageColorizer | We use AI technology to restore old photos automatically | :white_check_mark: |
 | [PhotoFix](http://photofix.io) | Photofix - Magically Edit Photos With AI. | . | :grey_question: |
 | [Photorestoration](http://photorestoration.ai) | Old Photo Restoration Online - Photorestoration.Ai. | . | :grey_question: |
 | [Photospells](http://photospells.com) | Photo Spells - Professional Photo Edition With AI. | . | :grey_question: |
@@ -567,6 +569,8 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [Piggy](https://piggy.to/magic) | Mobile Content Creator. | Creating stunning content on your phone just got easy. | :white_check_mark: |
 | [SlidesAI](https://www.slidesai.io/) | Create Presentation Slides With AI in Seconds. | Say goodbye to tedious, manual slides creation. Let the AI write the outline and presentation content for you. With our tool, you can easily create professional, engaging slides from any text in no time. | :white_check_mark: |
 | [Tome](http://beta.tome.app) | Generative Storytelling Has Arrived. | Unlock your best work with Tome's AI-powered storytelling format. | :white_check_mark: |
+| [GPT for Slides](https://www.gptforslides.app/) | GPT for Slides | GPT for Slides is a Google Slide add-on is AI-Powered Text To Presentation Tool that summarizes and creates presentation slides from any piece of text. | :white_check_mark: |
+| [Makemytale](https://makemytale.com) | Makemytale | The AI-generated kids books on this website are intended for entertainment and creative inspiration only. | :grey_question: |
 
 
 ### Social Networks & Dating
@@ -666,6 +670,8 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [Unreal Speech](http://unrealspeech.up.railway.app) | Ultra Realistic Text-to-Speech Api. | More natural-sounding and up to 4x cheaper than Amazon, Google and Microsoft. | :white_check_mark: |
 | [VERBATIK](http://verbatik.com) | AI Powered Text to Voice Generation. | Generate Realistic Text to Speech (TTS) audio using online AI Voice Generator and best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files. | :x: |
 | [Wellsaid](http://wellsaidlabs.com) | Convert Text to Voice in Real Time. | With WellSaid, you and your team can create a compelling realistic AI voice over for all your digital content. | :white_check_mark: |
+| [TTsmaker](https://ttsmaker.com) | TTsmaker | 
+TTSMaker is an online text-to-speech tool that can convert text to audio, and you can play or download audio files. | :white_check_mark: |
 
 
 ### Translation & Transcript
@@ -705,6 +711,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [adobe sensei](https://www.adobe.com/sensei/creative-cloud-artificial-intelligence.html) | adobe sensei | you were hired to create, not to spend hours on end searching for stock photos or tagging videos. with adobe sensei taking care of everything from organizing, editing, and producing, you can focus your energy on what you actually love — ideating, experimenting, and creating. | :grey_question: |
 | [nvidia ai demos](https://www.nvidia.com/en-us/research/ai-demos/) | nvidia ai demos | experience ai in action from nvidia research | :grey_question: |
 | [Gen-1](https://research.runwayml.com/gen1) | Gen-1: The Next Step, Forward for Generative AI | Use words and images to generate new videos out of existing ones. | :grey_question: |
+| [Shuffll](https://shuffll.com/) | Shuffll | Taking you from zero to fully produced videos | :x: |
 
 
 ### Writing Assistant
@@ -863,7 +870,8 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [GPTKey](http://gptkey.com) | Gptkey – Write With AI Using the GPT Keyboard. | Write with AI in any app using the GPT custom keyboard extension. | :grey_question: |
 | [Genius Sheets](http://www.geniussheets.com) | Genius Sheets Financial Automation. | Genius Sheets AI Text To Reports solutions help you analyze financial data faster - empowering teams to make better decisions. Stay in Excel and Google Sheets and automate your financial reporting process with live data connections. | :grey_question: |
 | [GetSound](https://www.getsound.ai/) | Welcome to the Future of Hospitality AI Soundscapes. | Relaxing soundscapes for saunas, showers, and massage areas. Pools, Beaches, Gardens, or Rooftops will get the perfect soundscape. Make your Lobby, Hallways, or Elevators unique again. Get more done with a natural soundscape for better focus and harmony. | :white_check_mark: |
-| [Gifts Genie](http://gen.gifts) | Genie - AI Gifts Generator. | . | :grey_question: |
+| [Gifts Genie](http://gen.gifts) | Genie - AI Gifts Generator. | . | :white_check_mark: |
+| [Suggest.Gift](https://suggest.gift/) | Suggest.Gif | . | :white_check_mark: |
 | [Glasp](http://glasp.co) | Glasp: Social Web Highlighter. | Highlight & add notes as you read.Create a library of your learning â¤ï¸. | :grey_question: |
 | [GooseAI](http://goose.ai) | Gooseai. | . | :grey_question: |
 | [Graham AI](http://www.grahamai.co) | Graham.Ai - Tech Tweet Generator. | . | :grey_question: |
@@ -1133,7 +1141,9 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [weelsaid labs](http://wellsaidlabs.com) | . | . | :grey_question: |
 | [wellsaid](http://wellsaidlabs.com) | . | . | :grey_question: |
 | [whiskey ai](http://beta.whiskeyai.xyz) | . | . | :grey_question: |
-| [wizishop](http://wizishop.com) | wizishop ecommerce solution: create your online store. | 15-day free trial - no credit card needed - access all of our features. | :white_check_mark: |
+| [Aleph Alpha](https://www.aleph-alpha.com/) | Aleph Alpha | Pioneering sovereign, European AI technology to transform human-machine interaction that can find solutions for the challenges of tomorrow. | :grey_question: |
+| [Lobe](https://www.lobe.ai/) | Lobe | Lobe helps you train machine learning models with a free, easy to use tool. | :grey_question: |
+| [Siwalu Software](https://siwalusoftware.com/) | Siwalu Software | Siwalu develops AI-based image recognition. Our apps are a smart mobile solution to better understand animals and to learn about the diversity of nature. | :white_check_mark: |
 
 **[⬆ back to index](#index)**
 ## travel
@@ -1161,6 +1171,10 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [DetectGPT](https://detectgpt.ericmitchell.ai/) | DetectGPT | DetectGPT is a general-purpose method for using a language model to detect its own generations; however, this proof-of-concept only detects if a particular piece of text came from GPT-2.  | :white_check_mark: |
 | [GPTZero](https://gptzero.me/) | GPTZero | Humans Deserve the Truth ... Our engineers can also customize endpoints to your needs.  | :white_check_mark: |
 | [Originality.AI](https://originality.ai/) | Originality.AI | A Plagiarism Checker and AI Detector Built for Serious Content Publishers  | :x: |
+| [Winston](https://gowinston.ai/) | Winston | The most powerful AI content detection solution  | :white_check_mark: |
+| [Checkforai](https://checkforai.com/) | Checkforai | Detect AI Written Text in Essays, Emails, and More!  | :grey_question: |
+| [AI Text Classifier](https://platform.openai.com/ai-text-classifier) | AI Text Classifier | The AI Text Classifier is a fine-tuned GPT model that predicts how likely it is that a piece of text was generated by AI from a variety of sources, such as ChatGPT.  | :white_check_mark: |
+
 
 
 **[⬆ back to index](#index)**
