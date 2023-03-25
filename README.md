@@ -796,6 +796,7 @@ Translations:
 | [Writemeacoverletter](http://writemeacoverletter.com) | Write Me a Cover Letter. | Generate a cover letter in seconds using AI. Just upload your CV, share a link to the job you want, and we'll do the rest. | :grey_question: |
 | [Your Cover Letter](http://yourcoverletter.com) | AI Cover Letter Builder - Upload Your Resume to Get Started. | Apply for your dream jobs using our AI Cover Letter builder. Add your Resume and the Job Description to generate a Cover Letter in seconds. | :grey_question: |
 | [coverletter.app](http://coverletter.app) | Custom-Made Cover Letters Ready in Minutes Not Hours - Coverletter.App. | Stand out from the competition and increase your chances of getting hired with personalized cover letters from our advanced AI technology. | :grey_question: |
+| [Deploy Prompt](https://deployprompt.com/) | Create and share resuable prompts | Test your prompt ideas then record, share, and iterate on responses. Deploy with No Code, to your App, as an API, or as a ChatGPT Plugin, and more. It's the fastest way to get your prompt-driven application live in production. | :white_check_mark: |
 
 <!--End of Text 22-->
 
