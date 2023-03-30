@@ -606,6 +606,8 @@ Translations:
 |---|---|---|:---:|
 | [AI Image Enlarger](http://imglarger.com) | AI Image Enlarger - Enlarge Image Without Losing Quality!. | . | :grey_question: |
 | [AVC AI](http://avc.ai) | Online AI Image Enhancer That Improves Photo Quality by Upscaling, Denoising, Restoring, Face Refinement, and More. | . | :grey_question: |
+| [Blend](https://www.blendnow.com/) | Stunning product visuals in seconds with AI | Everything you need to create stunning visuals for your products - in seconds! Teleport your products to professional-grade AI-generated backgrounds. Get 1000s of customizable templates with an intuitive editor. | :white_tick: |
+| [Blend Studio](https://www.delete.bg/aistudio) | Text-to-Image AI Background Generator | Create beautiful high-quality photos for your products with AI-generated background scenes based on your description. | :white_tick: |
 | [Claid.ai](http://claid.ai) | Claid.Ai: Automated Photo Enhancer for Ugc. Web, Mobile & Printing. | AI software to enlarge images with no quality loss, correct colors, increase resolution, retouch product photos and edit UGC automatically. | :grey_question: |
 | [Colorize](http://colorize.cc) | Colorize Photo Online. | . | :grey_question: |
 | [ExtendImage](http://www.extendimage.ai) | Extendimageai - Extend Your Images With Generative AI. | ExtendImageAI is a tool that allows you to extend your images with generative AI. | :grey_question: |
