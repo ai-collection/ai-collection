@@ -20,7 +20,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=831" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=838" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=35" />
@@ -363,6 +363,7 @@
 | [Glimmer AI](https://glimmerai.tech) | 人工智能驱动的演示魔术. | Glimmer AI 使用 GPT-3 和 DALL-E 2 使用文本或语音命令轻松快速地创建专业品质的演示文稿. | :white_check_mark: |
 | [Magician](http://magician.design) | Figma 魔术师. | 由 AI 提供支持的 Figma 神奇设计工具。. | :grey_question: |
 | [Piggy](https://piggy.to/magic) | 移动内容创作者。. | 在您的手机上创建令人惊叹的内容变得简单. | :white_check_mark: |
+| [STORYD](https://www.storyd.ai) | 领导者喜爱的数据演示. | 帮助专业人士快速轻松地创建数据驱动的业务演示文稿。. | :white_check_mark: |
 | [SlidesAI](https://www.slidesai.io/) | 使用 AI 在几秒钟内创建演示幻灯片. | 告别繁琐的手动幻灯片创建。让 AI 为您编写大纲和演示内容。使用我们的工具，您可以立即从任何文本轻松创建专业、引人入胜的幻灯片。. | :white_check_mark: |
 | [Tome](http://beta.tome.app) | 生成式讲故事已经到来。. | 使用 Tome 的 AI 驱动的讲故事格式解锁您的最佳作品。. | :white_check_mark: |
 
@@ -433,6 +434,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [Botta](https://askbotta.com/) | 话题有问题？认识博塔. | 您的免费个人助教。提出问题，获得答案。 Botta 让在线学习变得轻而易举。. | :white_check_mark: |
+| [Cratecode](https://cratecode.com/) | Cratecode - 免费学习编码. | 通过在线课程和强大的 AI 助手学习编码！该助手可以分析您的代码，将您推向正确的方向，并为简单的主题撰写文章。. | :white_check_mark: |
 | [Lorro](https://lorro.io/) | 花很少的钱就能说一口流利的英语。通过与 AI 导师交谈. | . | :x: |
 | [Replicate](http://replicate.com) | 机器学习不需要那么难。. | 使用云 API 运行开源模型。. | :white_check_mark: |
 | [Speakingclubai](http://speakingclubai.com) | 口语俱乐部AI. | 欢迎来到 Speaking Club AI - 终极语言学习工具，适用于任何希望提高外语口语技能的人。借助Speaking Club AI，您可以随时随地与个性化的AI语伴练习会话技巧。. | :grey_question: |
@@ -472,6 +474,7 @@
 | [Childbook](http://www.childbook.ai) | 欢迎来到儿童图书创作者！. | 您的书将通过人物、图片和故事进行个性化设置。故事和插图还具有文本转语音功能，可以收听。. | :grey_question: |
 | [Cover Letter AI](http://coverletter-ai.com) | 求职信人工智能. | 制作完美求职信的终极工具. | :grey_question: |
 | [Coverletterwrite](http://coverletterwrite.com) | 求职信写. | 让 AI 写一封个性化的求职信。. | :grey_question: |
+| [Deploy Prompt](https://deployprompt.com/) | 创建和共享可重复提示. | 测试您的即时想法，然后记录、分享和迭代响应。无需代码即可作为 API 或作为 ChatGPT 插件等部署到您的应用程序。这是让提示驱动的应用程序投入生产的最快方式。. | :white_check_mark: |
 | [Diffusion.chat](http://diffusion.chat) | 扩散聊天. | . | :grey_question: |
 | [Digital Dogs](http://digitaldogs.ai) | 数字狗™. | 跨应用程序，用于虚拟世界、VR、AR、社交应用程序、游戏等的 AI Digital Dogs NFT。. | :grey_question: |
 | [Excelformulabot](http://excelformulabot.com) | Excel 和 Google 表格 AI 公式生成器 - Excelformulabot.com. | 借助 AI 在几秒钟内将您的文本指令转换为 Excel 和 Google 表格公式. | :grey_question: |
@@ -547,6 +550,8 @@
 |---|---|---|:---:|
 | [AI Image Enlarger](http://imglarger.com) | AI Image Enlarger - 在不损失质量的情况下放大图像！. | . | :grey_question: |
 | [AVC AI](http://avc.ai) | 在线 AI 图像增强器，通过放大、去噪、恢复、面部细化等提高照片质量. | . | :grey_question: |
+| [Blend](https://www.blendnow.com/) | 使用 AI 在几秒钟内制作出令人惊叹的产品视觉效果. | 为您的产品创建令人惊叹的视觉效果所需的一切 - 只需几秒钟！将您的产品传送到专业级 AI 生成的背景中。使用直观的编辑器获取 1000 个可自定义的模板。. | :white_check_mark: |
+| [Blend Studio](https://www.delete.bg/aistudio) | 文本到图像 AI 背景生成器. | 根据您的描述，使用 AI 生成的背景场景为您的产品创建精美的高质量照片。. | :white_check_mark: |
 | [Claid.ai](http://claid.ai) | Claid.ai：用于 UGC 的自动照片增强器。网络、移动和打印. | AI 软件可在无质量损失的情况下放大图像、校正颜色、提高分辨率、润饰产品照片并自动编辑 UGC。. | :grey_question: |
 | [Colorize](http://colorize.cc) | 在线给照片上色. | . | :grey_question: |
 | [ExtendImage](http://www.extendimage.ai) | ExtendImageAI - 使用生成式 AI 扩展您的图像. | ExtendImageAI 是一种工具，可让您使用生成式 AI 扩展图像。. | :grey_question: |
@@ -638,6 +643,7 @@
 | [BuildAI](https://www.buildai.space/) | 在几分钟内构建 AI 界面. | 输入基于用户文本输入输出文本的应用程序的描述，我们将为您打造！. | :grey_question: |
 | [Hexowatch](http://hexact.pxf.io/beth0) | 除了可用性和价格之外，第 3 方网站作为数据源、可视化网站监控、竞争对手跟踪。. | Hexowatch 是您的 AI 助手，可以监控任何网站的视觉、内容、源代码、技术、可用性或价格变化。. | :x: |
 | [KUBIYA](http://kubiya.ai/) | . | . | :grey_question: |
+| [Magical](https://www.getmagical.com/ai) | 让任务消失。喜欢魔术。. | 召唤 Magical AI 来完成您讨厌做的所有工作。随时随地从头开始创建消息、即时更新表单并自动执行烦人的任务。. | :white_check_mark: |
 | [Product Launch AI](https://shapenship.com/productlaunchai) | 释放 AI 的力量来加速您的产品发布. | 无需担心发布文案就可以进行出色的发布！. | :grey_question: |
 | [bardeen](https://www.bardeen.ai/ai) | 人工智能遇见自动化. | 即将于 2023 年推出 – Bardeen 将引入突破性的 AI 来自动化手动工作流程，节省您的时间并激发您的创造力。. | :grey_question: |
 | [mem](https://get.mem.ai/) | 自组织工作空间. | Mem 是世界上第一个由人工智能驱动的个性化工作空间。放大您的创造力，使平凡的事情自动化，并自动保持井井有条。. | :white_check_mark: |
@@ -1103,6 +1109,7 @@
 | [Project Blink](http://labs.adobe.com) | 土坯实验室. | 一个让我们分享我们对未来创造力、表达和交流的探索的地方。. | :grey_question: |
 | [PrometheanAI](http://prometheanai.com) | 普罗米修斯人工智能. | . | :grey_question: |
 | [Prompt.Cafe](http://www.prompt.cafe) | Prompt.Cafe - 人工智能提示入门包. | . | :grey_question: |
+| [PromptExplained](https://promptexplained.com/) | 通过洞察、技术和提示定制 AI 提示帮助用户掌握提示工程的网站. | 通过有关 ChatGPT、Dall-e、Stable Diffusion 和 MidJourney 的快速定制的易于遵循的指南提升您的 AI 体验，以增强对话、引人注目的视觉效果和跨应用程序的无限创造力. | :white_check_mark: |
 | [Promptextend](http://www.promptextend.com) | PromptExtend - 为 MidJourney 扩展/生成 Ai 艺术提示. | . | :grey_question: |
 | [Prompthunt](http://www.prompthunt.com) | Prompt Hunt - 探索、创作和分享 AI 艺术的家园. | 使用 DALL·E、Stable Diffusion 和 Midjourney 创建、探索和分享 AI 艺术. | :grey_question: |
 | [Promptomania](http://promptomania.com) | propmoMANIA：带有提示生成器的 AI 艺术社区. | . | :grey_question: |
