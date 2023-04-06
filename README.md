@@ -1233,7 +1233,7 @@ Translations:
 | [bigmp4](http://bigmp4.com) | AI Video Enhancement, Using 2022 Cutting Edged AI Model to Lossless Enlarge Video, Enhance Video. | . | :grey_question: |
 | [deck.rocks](https://www.deck.rocks/) | Deck.Rocks: Generate Pitch Decks Using GPT-3. | . | :grey_question: |
 | [micro Dalle-2](http://micropay.ai) | Dalle-2 Image Generator - Micropay. | Anonymous and pay-as-you-go generative AI software. | :grey_question: |
-
+| [PromptExplained.com](https://promptexplained.com/) | Website that helps users master prompts engineering through insights, techniques, and tips for customizing AI prompts | Elevate Your AI Experience with Easy-to-Follow Guides on Prompt Customization for ChatGPT, Dall-e, Stable Diffusion and MidJourney for Enhanced Conversations, Striking Visuals, and Limitless Creativity Across Applications | :white_check_mark: |
 <!--End of Other 0-->
 
 <!--lint ignore double-link-->
