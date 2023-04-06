@@ -20,7 +20,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=831" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=838" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=35" />
@@ -331,6 +331,7 @@
 | [Glimmer AI](https://glimmerai.tech) | Magie de présentation alimentée par l'IA. | Glimmer AI utilise GPT-3 et DALL-E 2 pour créer facilement et rapidement des présentations de qualité professionnelle à l'aide de commandes textuelles ou vocales. | :white_check_mark: |
 | [Magician](http://magician.design) | Magicien pour Figma. | Un outil de conception magique pour Figma alimenté par l'IA. | :grey_question: |
 | [Piggy](https://piggy.to/magic) | Créateur de contenu mobile. | Créer du contenu époustouflant sur votre téléphone est devenu facile. | :white_check_mark: |
+| [STORYD](https://www.storyd.ai) | Présentations de données que les leaders adorent. | Aide les professionnels à créer rapidement et facilement des présentations professionnelles basées sur les données. | :white_check_mark: |
 | [SlidesAI](https://www.slidesai.io/) | Créez des diapositives de présentation avec l'IA en quelques secondes. | Dites adieu à la création manuelle fastidieuse de diapositives. Laissez l'IA écrire le plan et le contenu de la présentation pour vous. Avec notre outil, vous pouvez facilement créer des diapositives professionnelles et attrayantes à partir de n'importe quel texte en un rien de temps. | :white_check_mark: |
 | [Tome](http://beta.tome.app) | La narration générative est arrivée. | Libérez votre meilleur travail avec le format de narration alimenté par l'IA de Tome. | :white_check_mark: |
 
@@ -613,6 +614,7 @@
 | [BuildAI](https://www.buildai.space/) | Créez des interfaces IA en quelques minutes. | Entrez la description d'une application qui génère du texte en fonction de la saisie de texte de l'utilisateur, et nous la CONSTRUISONS POUR VOUS !. | :grey_question: |
 | [Hexowatch](http://hexact.pxf.io/beth0) | Au-delà de la disponibilité et des prix, les sites Web tiers comme source de données, la surveillance visuelle des sites Web, le suivi des concurrents. | Hexowatch est votre compagnon IA pour surveiller n'importe quel site Web pour les changements visuels, de contenu, de code source, de technologie, de disponibilité ou de prix. | :x: |
 | [KUBIYA](http://kubiya.ai/) | Assistant virtuel DevOps. | Fournissez aux développeurs un accès sécurisé et en libre-service aux flux de travail opérationnels, aux ressources cloud et aux connaissances organisationnelles grâce à l'IA conversationnelle. | :grey_question: |
+| [Magical](https://www.getmagical.com/ai) | Faire disparaître les tâches. Comme la magie. | Faites appel à Magical AI pour faire tout ce que vous détestez faire. Créez des messages à partir de zéro, mettez à jour les formulaires instantanément et automatisez les tâches ennuyeuses, n'importe où, n'importe quand. | :white_check_mark: |
 | [Product Launch AI](https://shapenship.com/productlaunchai) | Libérez la puissance de l'IA pour booster vos lancements de produits. | Décollez pour un super lancement sans vous soucier de la copie de lancement !. | :grey_question: |
 | [bardeen](https://www.bardeen.ai/ai) | L'IA rencontre les automatisations. | À venir en 2023 - Bardeen introduit une IA révolutionnaire pour automatiser les flux de travail manuels, vous faire gagner du temps et renforcer votre créativité. | :grey_question: |
 | [mem](https://get.mem.ai/) | L'espace de travail auto-organisé. | Mem est le premier espace de travail au monde alimenté par l'IA qui vous est personnalisé. Amplifiez votre créativité, automatisez le banal et restez organisé automatiquement. | :white_check_mark: |
@@ -659,6 +661,8 @@
 |---|---|---|:---:|
 | [AI Image Enlarger](http://imglarger.com) | Agrandisseur d'image AI - Agrandissez l'image sans perte de qualité !. | . | :grey_question: |
 | [AVC AI](http://avc.ai) | Améliorateur d'image AI en ligne qui améliore la qualité des photos en augmentant, en débruitant, en restaurant, en affinant le visage, etc. | . | :grey_question: |
+| [Blend](https://www.blendnow.com/) | De superbes visuels de produits en quelques secondes avec l'IA. | Tout ce dont vous avez besoin pour créer des visuels époustouflants pour vos produits - en quelques secondes ! Téléportez vos produits vers des arrière-plans générés par l'IA de qualité professionnelle. Obtenez des milliers de modèles personnalisables avec un éditeur intuitif. | :white_check_mark: |
+| [Blend Studio](https://www.delete.bg/aistudio) | Générateur d'arrière-plan AI texte-image. | Créez de superbes photos de haute qualité pour vos produits avec des scènes d'arrière-plan générées par l'IA en fonction de votre description. | :white_check_mark: |
 | [Claid.ai](http://claid.ai) | Claid.ai : Optimiseur de photo automatisé pour UGC. Web, mobile et impression. | Logiciel d'intelligence artificielle pour agrandir les images sans perte de qualité, corriger les couleurs, augmenter la résolution, retoucher les photos des produits et modifier automatiquement l'UGC. | :grey_question: |
 | [Colorize](http://colorize.cc) | Coloriser une photo en ligne. | . | :grey_question: |
 | [ExtendImage](http://www.extendimage.ai) | ExtendImageAI - Prolongez vos images avec l'IA générative. | ExtendImageAI est un outil qui vous permet d'étendre vos images avec l'IA générative. | :grey_question: |
@@ -738,6 +742,7 @@
 | [Childbook](http://www.childbook.ai) | Bienvenue au créateur de livres pour enfants !. | Votre livre sera personnalisé avec des personnages, des images et une histoire. L'histoire et les illustrations ont également une fonction de synthèse vocale et peuvent être écoutées. | :grey_question: |
 | [Cover Letter AI](http://coverletter-ai.com) | Lettre de motivation IA. | L'outil ultime pour rédiger la lettre de motivation parfaite. | :grey_question: |
 | [Coverletterwrite](http://coverletterwrite.com) | Lettre de motivation Ecrire. | Demandez à AI d'écrire une lettre de motivation personnalisée. | :grey_question: |
+| [Deploy Prompt](https://deployprompt.com/) | Créer et partager des invites réutilisables. | Testez vos idées d'invites, puis enregistrez, partagez et réitérez les réponses. Déployez sans code, sur votre application, en tant qu'API ou en tant que plug-in ChatGPT, et plus encore. C'est le moyen le plus rapide de mettre en production votre application pilotée par invite. | :white_check_mark: |
 | [Diffusion.chat](http://diffusion.chat) | Chat de diffusion. | . | :grey_question: |
 | [Digital Dogs](http://digitaldogs.ai) | The Digital Dogs™. | Cross-app, AI Digital Dogs NFTs pour les mondes virtuels, VR, AR, applications sociales, jeux et plus encore. | :grey_question: |
 | [Excelformulabot](http://excelformulabot.com) | Générateur de formules AI Excel et Google Sheets - Excelformulabot.com. | Transformez vos instructions textuelles en formules Excel et Google Sheets en quelques secondes à l'aide de l'IA. | :grey_question: |
@@ -885,6 +890,7 @@
 | Nom | Titre | Description | Offrir une version gratuite |
 |---|---|---|:---:|
 | [Botta](https://askbotta.com/) | Un problème avec un sujet ? Rencontrez Botta. | Votre assistant pédagogique personnel et gratuit. Posez des questions, obtenez des réponses. Botta facilite l'apprentissage en ligne. | :white_check_mark: |
+| [Cratecode](https://cratecode.com/) | Cratecode - Apprenez à coder gratuitement. | Apprenez à coder grâce à des leçons en ligne et à un puissant assistant IA ! L'assistant peut analyser votre code, vous orienter dans la bonne direction et rédiger des articles sur des sujets simples. | :white_check_mark: |
 | [Lorro](https://lorro.io/) | Devenez un anglophone courant pour une fraction du coût. En discutant avec un tuteur en IA. | . | :x: |
 | [Replicate](http://replicate.com) | L'apprentissage automatique n'a pas besoin d'être si difficile. | Exécutez des modèles open source avec une API cloud. | :white_check_mark: |
 | [Speakingclubai](http://speakingclubai.com) | Parler Club IA. | Bienvenue au Speaking Club AI - l'outil ultime d'apprentissage des langues pour tous ceux qui cherchent à améliorer leurs compétences orales dans une langue étrangère. Avec Speaking Club AI, vous pouvez pratiquer vos compétences de conversation avec un partenaire linguistique AI personnalisé à tout moment, n'importe où. | :grey_question: |
@@ -1103,6 +1109,7 @@
 | [Project Blink](http://labs.adobe.com) | Laboratoires Adobe. | Un endroit où partager certaines de nos explorations du futur de la créativité, de l'expression et de la communication. | :grey_question: |
 | [PrometheanAI](http://prometheanai.com) | IA Promethean. | . | :grey_question: |
 | [Prompt.Cafe](http://www.prompt.cafe) | Prompt.Cafe - Pack de démarrage d'invite IA. | . | :grey_question: |
+| [PromptExplained](https://promptexplained.com/) | Site Web qui aide les utilisateurs à maîtriser l'ingénierie des invites grâce à des informations, des techniques et des conseils pour personnaliser les invites de l'IA. | Améliorez votre expérience d'IA avec des guides faciles à suivre sur la personnalisation rapide pour ChatGPT, Dall-e, Stable Diffusion et MidJourney pour des conversations améliorées, des visuels saisissants et une créativité illimitée dans toutes les applications. | :white_check_mark: |
 | [Promptextend](http://www.promptextend.com) | PromptExtend - Étendre / générer des invites d'art Ai pour MidJourney. | . | :grey_question: |
 | [Prompthunt](http://www.prompthunt.com) | Prompt Hunt - Votre maison pour explorer, créer et partager l'art de l'IA. | Créez, explorez et partagez l'art de l'IA à l'aide de DALL·E, Stable Diffusion et Midjourney. | :grey_question: |
 | [Promptomania](http://promptomania.com) | promptoMANIA : communauté d'art IA avec générateur d'invites. | . | :grey_question: |

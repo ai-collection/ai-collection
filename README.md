@@ -20,7 +20,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=831" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=838" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=35" />
@@ -404,11 +404,11 @@ Translations:
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Botta](https://askbotta.com/) | Having Trouble With a Topic? Meet Botta. | Your free, personal teaching assistant. Ask questions, get answers. Botta makes online learning a breeze. | :white_check_mark: |
+| [Cratecode](https://cratecode.com/) | Cratecode - Learn to Code for Free. | Learn to code through online lessons and a powerful AI assistant! The assistant can analyze your code, nudge you in the right direction, and write articles for simple topics. | :white_check_mark: |
 | [Lorro](https://lorro.io/) | Become a Fluent English Speaker for a Fraction of a Cost. By Talking to an AI Tutor. | . | :x: |
 | [Replicate](http://replicate.com) | Machine Learning DoesnT Need to Be So Hard. | Run open-source models with a cloud API. | :white_check_mark: |
 | [Speakingclubai](http://speakingclubai.com) | Speaking Club AI. | Welcome to Speaking Club AI - the ultimate language learning tool for anyone looking to improve their speaking skills in a foreign language. With Speaking Club AI, you can practice    your conversation skills with a personalized AI language partner anytime, anywhere. | :grey_question: |
 | [teachology.ai](https://www.teachology.ai/) | A Collection of Tools for Teachers and Educators to Harness the Power of AI in Their Pedagogy and Planning. | Plan Lessons - Harness AI to draft your lessons and export to your favourite formats. Build Rich Assessments - Construct rich assessments with robust rubric driven marking criteria. And more. | :white_check_mark: |
-| [Cratecode](https://cratecode.com/) | Cratecode - Learn to Code for Free | Learn to code through online lessons and a powerful AI assistant! The assistant can analyze your code, nudge you in the right direction, and write articles for simple topics. | :white_check_mark: |
 
 <!--End of Education & Learning 32-->
 
@@ -590,11 +590,11 @@ Translations:
 | [BuildAI](https://www.buildai.space/) | Build AI Interfaces in Minutes. | Enter the description of an app that outputs text based on user text input, and we will BUILD IT FOR YOU!. | :grey_question: |
 | [Hexowatch](http://hexact.pxf.io/beth0) | Beyond Availability and Prices, 3Rd Party Websites as a Data Source, Visual Website Monitoring, Competitor Tracking. | Hexowatch is your AI sidekick to monitor any website for visual, content, source code, technology, availability, or price changes. | :x: |
 | [KUBIYA](http://kubiya.ai/) | Devops Virtual Assistant. | Provide developers secure, self-serve access to operational workflows, cloud resources and organizational knowledge with conversational AI. | :grey_question: |
+| [Magical](https://www.getmagical.com/ai) | Make Tasks Disappear. Like Magic. | Call on Magical AI to do all the work stuff you hate doing. Create messages from scratch, update forms instantly, and automate annoying tasks—anywhere, anytime. | :white_check_mark: |
 | [Product Launch AI](https://shapenship.com/productlaunchai) | Unleash the Power of AI to Supercharge Your Product Launches. | Blast off to a great launch without worrying about launch copy!. | :grey_question: |
 | [bardeen](https://www.bardeen.ai/ai) | AI Meets Automations. | Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity. | :grey_question: |
 | [mem](https://get.mem.ai/) | The Self-Organizing Workspace. | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically. | :white_check_mark: |
 | [timeMaster](https://www.timemaster.ai/) | Supercharge Your Focus and Productivity. | TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf. | :white_check_mark: |
-| [Magical](https://www.getmagical.com/ai) | Make Tasks Disappear. Like Magic. | Call on Magical AI to do all the work stuff you hate doing. Create messages from scratch, update forms instantly, and automate annoying tasks—anywhere, anytime. | :white_check_mark: |
 
 <!--End of Organization & Automation 31-->
 
@@ -606,8 +606,8 @@ Translations:
 |---|---|---|:---:|
 | [AI Image Enlarger](http://imglarger.com) | AI Image Enlarger - Enlarge Image Without Losing Quality!. | . | :grey_question: |
 | [AVC AI](http://avc.ai) | Online AI Image Enhancer That Improves Photo Quality by Upscaling, Denoising, Restoring, Face Refinement, and More. | . | :grey_question: |
-| [Blend](https://www.blendnow.com/) | Stunning product visuals in seconds with AI | Everything you need to create stunning visuals for your products - in seconds! Teleport your products to professional-grade AI-generated backgrounds. Get 1000s of customizable templates with an intuitive editor. | :white_check_mark: |
-| [Blend Studio](https://www.delete.bg/aistudio) | Text-to-Image AI Background Generator | Create beautiful high-quality photos for your products with AI-generated background scenes based on your description. | :white_check_mark: |
+| [Blend](https://www.blendnow.com/) | Stunning Product Visuals in Seconds With AI. | Everything you need to create stunning visuals for your products - in seconds! Teleport your products to professional-grade AI-generated backgrounds. Get 1000s of customizable templates with an intuitive editor. | :white_check_mark: |
+| [Blend Studio](https://www.delete.bg/aistudio) | Text-to-Image AI Background Generator. | Create beautiful high-quality photos for your products with AI-generated background scenes based on your description. | :white_check_mark: |
 | [Claid.ai](http://claid.ai) | Claid.Ai: Automated Photo Enhancer for Ugc. Web, Mobile & Printing. | AI software to enlarge images with no quality loss, correct colors, increase resolution, retouch product photos and edit UGC automatically. | :grey_question: |
 | [Colorize](http://colorize.cc) | Colorize Photo Online. | . | :grey_question: |
 | [ExtendImage](http://www.extendimage.ai) | Extendimageai - Extend Your Images With Generative AI. | ExtendImageAI is a tool that allows you to extend your images with generative AI. | :grey_question: |
@@ -709,8 +709,8 @@ Translations:
 | [Glimmer AI](https://glimmerai.tech) | AI-Powered Presentation Magic. | Glimmer AI uses GPT-3 and DALL-E 2 to make creating professional-quality presentations easy and fast using text or voice commands. | :white_check_mark: |
 | [Magician](http://magician.design) | Magician for Figma. | A magical design tool for Figma powered by AI. | :grey_question: |
 | [Piggy](https://piggy.to/magic) | Mobile Content Creator. | Creating stunning content on your phone just got easy. | :white_check_mark: |
+| [STORYD](https://www.storyd.ai) | Data Presentations Leaders Love. | Helps professionals quickly and easily create data-driven business presentations. | :white_check_mark: |
 | [SlidesAI](https://www.slidesai.io/) | Create Presentation Slides With AI in Seconds. | Say goodbye to tedious, manual slides creation. Let the AI write the outline and presentation content for you. With our tool, you can easily create professional, engaging slides from any text in no time. | :white_check_mark: |
-| [STORYD](http://www.storyd.ai) | Data Presentations Leaders Love | Helps professionals quickly and easily create data-driven business presentations.  | :white_check_mark: |
 | [Tome](http://beta.tome.app) | Generative Storytelling Has Arrived. | Unlock your best work with Tome's AI-powered storytelling format. | :white_check_mark: |
 
 <!--End of Slides & Web Design 29-->
@@ -756,6 +756,7 @@ Translations:
 | [Childbook](http://www.childbook.ai) | Welcome to Children'S Book Creator!. | Your book will be personalized with characters, pictures and story. The story and illustrations also have a text-to-speech feature and can be listened to. | :grey_question: |
 | [Cover Letter AI](http://coverletter-ai.com) | Cover Letter AI. | The ultimate tool for crafting the perfect cover letter. | :grey_question: |
 | [Coverletterwrite](http://coverletterwrite.com) | Cover Letter Write. | Ask AI to write a personalized cover letter. | :grey_question: |
+| [Deploy Prompt](https://deployprompt.com/) | Create and Share Resuable Prompts. | Test your prompt ideas then record, share, and iterate on responses. Deploy with No Code, to your App, as an API, or as a ChatGPT Plugin, and more. It's the fastest way to get your prompt-driven application live in production. | :white_check_mark: |
 | [Diffusion.chat](http://diffusion.chat) | Diffusion Chat. | . | :grey_question: |
 | [Digital Dogs](http://digitaldogs.ai) | The Digital Dogs. | Cross-app, AI Digital Dogs NFTs for Virtual worlds, VR, AR, social apps, games and more. | :grey_question: |
 | [Excelformulabot](http://excelformulabot.com) | Excel & Google Sheets AI Formula Generator - Excelformulabot.Com. | Transform your text instructions into Excel & Google Sheets formulas in seconds with the help of AI. | :grey_question: |
@@ -798,7 +799,6 @@ Translations:
 | [Writemeacoverletter](http://writemeacoverletter.com) | Write Me a Cover Letter. | Generate a cover letter in seconds using AI. Just upload your CV, share a link to the job you want, and we'll do the rest. | :grey_question: |
 | [Your Cover Letter](http://yourcoverletter.com) | AI Cover Letter Builder - Upload Your Resume to Get Started. | Apply for your dream jobs using our AI Cover Letter builder. Add your Resume and the Job Description to generate a Cover Letter in seconds. | :grey_question: |
 | [coverletter.app](http://coverletter.app) | Custom-Made Cover Letters Ready in Minutes Not Hours - Coverletter.App. | Stand out from the competition and increase your chances of getting hired with personalized cover letters from our advanced AI technology. | :grey_question: |
-| [Deploy Prompt](https://deployprompt.com/) | Create and share resuable prompts | Test your prompt ideas then record, share, and iterate on responses. Deploy with No Code, to your App, as an API, or as a ChatGPT Plugin, and more. It's the fastest way to get your prompt-driven application live in production. | :white_check_mark: |
 
 <!--End of Text 22-->
 
@@ -1115,6 +1115,7 @@ Translations:
 | [Project Blink](http://labs.adobe.com) | Adobe Labs. | A place for us to share some of our explorations into the future of creativity, expression, and communication. | :grey_question: |
 | [PrometheanAI](http://prometheanai.com) | Promethean AI. | . | :grey_question: |
 | [Prompt.Cafe](http://www.prompt.cafe) | Prompt.Cafe - AI Prompt Starter Pack. | . | :grey_question: |
+| [PromptExplained](https://promptexplained.com/) | Website That Helps Users Master Prompts Engineering Through Insights, Techniques, and Tips for Customizing AI Prompts. | Elevate Your AI Experience with Easy-to-Follow Guides on Prompt Customization for ChatGPT, Dall-e, Stable Diffusion and MidJourney for Enhanced Conversations, Striking Visuals, and Limitless Creativity Across Applications. | :white_check_mark: |
 | [Promptextend](http://www.promptextend.com) | Promptextend - Extend/Generate AI Art Prompts for Midjourney. | . | :grey_question: |
 | [Prompthunt](http://www.prompthunt.com) | Prompt Hunt - Your Home for Exploring, Creating, and Sharing AI Art. | Create, explore, and share AI art using DALL·E, Stable Diffusion, and Midjourney. | :grey_question: |
 | [Promptomania](http://promptomania.com) | Promptomania: AI Art Community With Prompt Generator. | . | :grey_question: |
@@ -1233,7 +1234,7 @@ Translations:
 | [bigmp4](http://bigmp4.com) | AI Video Enhancement, Using 2022 Cutting Edged AI Model to Lossless Enlarge Video, Enhance Video. | . | :grey_question: |
 | [deck.rocks](https://www.deck.rocks/) | Deck.Rocks: Generate Pitch Decks Using GPT-3. | . | :grey_question: |
 | [micro Dalle-2](http://micropay.ai) | Dalle-2 Image Generator - Micropay. | Anonymous and pay-as-you-go generative AI software. | :grey_question: |
-| [PromptExplained.com](https://promptexplained.com/) | Website that helps users master prompts engineering through insights, techniques, and tips for customizing AI prompts | Elevate Your AI Experience with Easy-to-Follow Guides on Prompt Customization for ChatGPT, Dall-e, Stable Diffusion and MidJourney for Enhanced Conversations, Striking Visuals, and Limitless Creativity Across Applications | :white_check_mark: |
+
 <!--End of Other 0-->
 
 <!--lint ignore double-link-->
