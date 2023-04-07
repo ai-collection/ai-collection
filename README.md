@@ -677,7 +677,7 @@ Translations:
 | [SaleWhale](http://salewhale.chat?ref=aicollection) | Sale Whale - AI-Powered Sales Rep Chatbot. | We provide impossibly good Sales Rep and Customer Support Chatbots, using the world's best available AI models. Learn how it will improve your business. | :grey_question: |
 | [SimplePhones.ai](https://simplephones.ai/?ref=aicollection) | Never Miss a Call From a Customer. | Forward your missed calls, or get a new number, and Simple Phones will answer it using AI. You'll get a phone agent created for your business for free. You just pay 19¢/min for any incoming calls. | :x: |
 | [Speaq.ai](https://www.speaq.ai/?ref=aicollection) | Ready Made Conversional AI for Your Business. | Our mission is to revolutionize B2B marketing and customer support with artificial intelligence. Effortlessly schedule meetings and verify attendance with AI. Streamline your survey process with AI conversational calls. | :grey_question: |
-| [unbounce](http://unbounce.com) | Smart Marketing Tools to Grow Your Business. | Turn more of your visitors into customers. Unbounce is the AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes. | :x: |
+| [unbounce](http://unbounce.com?ref=aicollection) | Smart Marketing Tools to Grow Your Business. | Turn more of your visitors into customers. Unbounce is the AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes. | :x: |
 
 <!--End of Sales & Marketing 20-->
 
@@ -812,7 +812,7 @@ Translations:
 | [Eleven](https://beta.elevenlabs.io/?ref=aicollection) | Prime Voice AI. | The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling. | :white_check_mark: |
 | [Listnr 2.0](https://www.listnr.tech/?gr_pk=V71a&gr_uid=YVDO) | AI Voice Generator - Text to Speech Converter - Listnr. | Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with the best synthetic voices. Instantly convert text in to natural-sounding speech and download in MP3 and WAV formats. | :x: |
 | [Lovo](http://www.lovo.ai?ref=aicollection) | Lovo AI - Free Text to Speech Online With Natural Voices. | . | :white_check_mark: |
-| [Murf.ai](http://murf.ai) | Go From Text to Speech With a Versatile AI Voice Generator. | AI enabled, real people's voices. Make studio-quality voice overs in minutes. Use Murfs lifelike AI voices for podcasts, videos, and all your professional presentations. | :white_check_mark: |
+| [Murf.ai](http://murf.ai?ref=aicollection) | Go From Text to Speech With a Versatile AI Voice Generator. | AI enabled, real people's voices. Make studio-quality voice overs in minutes. Use Murfs lifelike AI voices for podcasts, videos, and all your professional presentations. | :white_check_mark: |
 | [Play.ht](http://play.ht?ref=aicollection) | AI Powered Text to Voice Generator. | Generate realistic Text to Speech (TTS) audio using our online AI Voice Generator and the best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files. | :white_check_mark: |
 | [Speech-to-Speech](http://www.resemble.ai?ref=aicollection) | Your Complete Generative Voice AI Toolkit. | Resembles AI voice generator lets you create human–like voice overs in seconds. | :x: |
 | [Speechelo](http://speechelo.com?ref=aicollection) | Speechelo - Generate Voice From Text With Only 3 Clicks. The Most Realistic Souding Text to Audio Converter. | We GUARANTEE no one will tell your voiceover is A.I. generated with a text to voice tool. | :grey_question: |
@@ -989,7 +989,7 @@ Translations:
 | [Daft Art](http://www.daftart.ai?ref=aicollection) | Daft Art — Create the Album Cover You'Ve Always Dreamed Of. | Daft allows you to create an amazing, high quality artwork for your album cover within a few minutes, powered by AI. | :grey_question: |
 | [Daydrm](http://www.daydrm.ai?ref=aicollection) | Daydrm.Ai. | The future of advertising is using machine learning to perform creative thinking. | :grey_question: |
 | [Debuild](http://debuild.app?ref=aicollection) | Debuild - Build Web Apps Fast. | . | :grey_question: |
-| [Designs AI](http://designs.ai) | Create Logos, Videos, Banners, Voiceovers With AI. | Create anything online in 2 minutes! Make a logo, video, social media banner, business card, flyer, mockup and more with AI. | :white_check_mark: |
+| [Designs AI](http://designs.ai?ref=aicollection) | Create Logos, Videos, Banners, Voiceovers With AI. | Create anything online in 2 minutes! Make a logo, video, social media banner, business card, flyer, mockup and more with AI. | :white_check_mark: |
 | [DetangleAI](http://detangle.ai?ref=aicollection) | Detangleai. | . | :grey_question: |
 | [Dewey](http://www.withdewey.com?ref=aicollection) | Dewey: Your New Accountability Buddy. | . | :grey_question: |
 | [Diffusion Bee](http://diffusionbee.com?ref=aicollection) | Diffusionbee - Stable Diffusion App for AI Art. | DiffusionBee is the easiest way to generate AI art on your computer with Stable Diffusion. | :white_check_mark: |
@@ -1028,7 +1028,7 @@ Translations:
 | [HotConvo](http://hotconvo.art?ref=aicollection) | Hotconvo. | . | :grey_question: |
 | [Hour One](http://hourone.ai?ref=aicollection) | Make AI Videos to Train Anyone or Explain Anything - Hour One. | . | :grey_question: |
 | [Hubble](http://www.hubble.team?ref=aicollection) | Hubble - Product Feedback and Insights From Users. | Create world class products by gathering high quality feedback from users on prototypes, betas and live features. | :grey_question: |
-| [ICONS8](http://icons8.com) | Icons, Illustrations, Photos, Music and Design Tools. | Change faces of stock photos, Smart Upscaler, Update your website right from Lunacy and more. | :white_check_mark: |
+| [ICONS8](http://icons8.com?ref=aicollection) | Icons, Illustrations, Photos, Music and Design Tools. | Change faces of stock photos, Smart Upscaler, Update your website right from Lunacy and more. | :white_check_mark: |
 | [Ideasai](http://ideasai.com?ref=aicollection) | Startup Ideas Powered by Openai. | . | :grey_question: |
 | [Inferkit](http://app.inferkit.com?ref=aicollection) | Inferkit. | . | :grey_question: |
 | [Infinite Drum Machine](http://experiments.withgoogle.com?ref=aicollection) | Experiments With Google. | . | :grey_question: |

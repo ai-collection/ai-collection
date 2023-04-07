@@ -452,7 +452,7 @@
 | [Eleven](https://beta.elevenlabs.io/?ref=aicollection) | Prime语音人工智能. | 有史以来最逼真、最通用的 AI 语音软件。 Eleven 为寻求终极讲故事工具的创作者和出版商带来了最引人注目、最丰富和最逼真的声音。. | :white_check_mark: |
 | [Listnr 2.0](https://www.listnr.tech/?gr_pk=V71a&gr_uid=YVDO) | AI 语音生成器 - 文本到语音转换器 - Listnr. | 使用我们的 AI 语音生成器和最佳合成语音生成逼真的文本到语音 (TTS) 音频。立即将文本转换为听起来自然的语音并以 MP3 和 WAV 格式下载。. | :x: |
 | [Lovo](http://www.lovo.ai?ref=aicollection) | LOVO AI - 自然语音在线免费文字转语音. | . | :white_check_mark: |
-| [Murf.ai](http://murf.ai) | 使用多功能 AI 语音生成器从文本到语音. | 启用 AI，真人的声音。在几分钟内制作出录音棚品质的配音。将 Murf 逼真的 AI 声音用于播客、视频和所有专业演示. | :white_check_mark: |
+| [Murf.ai](http://murf.ai?ref=aicollection) | 使用多功能 AI 语音生成器从文本到语音. | 启用 AI，真人的声音。在几分钟内制作出录音棚品质的配音。将 Murf 逼真的 AI 声音用于播客、视频和所有专业演示. | :white_check_mark: |
 | [Play.ht](http://play.ht?ref=aicollection) | 人工智能驱动的文本到语音生成器. | 使用我们的在线 AI 语音生成器和最佳合成语音生成逼真的文本到语音 (TTS) 音频。立即将文本转换为听起来自然的语音并下载为 MP3 和 WAV 音频文件。. | :white_check_mark: |
 | [Speech-to-Speech](http://www.resemble.ai?ref=aicollection) | 您完整的生成语音 AI 工具包. | Resemble 的 AI 语音生成器可让您在几秒钟内创建类似人类的配音。. | :x: |
 | [Speechelo](http://speechelo.com?ref=aicollection) | Speechelo - 只需单击 3 次即可从文本生成语音。最逼真的发声文本到音频转换器. | 我们保证没有人会说您的画外音是 A.I.使用文本到语音工具生成. | :grey_question: |
@@ -872,7 +872,7 @@
 | [SaleWhale](http://salewhale.chat?ref=aicollection) | Sale Whale - AI 驱动的销售代表聊天机器人. | 我们使用世界上最好的 AI 模型提供出色的销售代表和客户支持聊天机器人。了解它将如何改善您的业务。. | :grey_question: |
 | [SimplePhones.ai](https://simplephones.ai/?ref=aicollection) | 绝不会错过客户的来电. | 转接未接来电或获取新号码，Simple Phones 将使用 AI 接听。您将免费获得为您的企业创建的电话代理。您只需为任何来电支付 19 美分/分钟. | :x: |
 | [Speaq.ai](https://www.speaq.ai/?ref=aicollection) | 为您的企业现成的转换 AI. | 我们的使命是通过人工智能彻底改变 B2B 营销和客户支持。使用 AI 轻松安排会议并验证出席情况。通过 AI 对话呼叫简化您的调查流程。. | :grey_question: |
-| [unbounce](http://unbounce.com) | 助您发展业务的智能营销工具. | 将更多的访问者变成客户。 Unbounce 是人工智能驱动的登陆页面构建器，具有智能功能，可让您在短短几分钟内创建美观、高效的营销活动。. | :x: |
+| [unbounce](http://unbounce.com?ref=aicollection) | 助您发展业务的智能营销工具. | 将更多的访问者变成客户。 Unbounce 是人工智能驱动的登陆页面构建器，具有智能功能，可让您在短短几分钟内创建美观、高效的营销活动。. | :x: |
 
 <!--End of 销售与市场营销 20-->
 
@@ -983,7 +983,7 @@
 | [Daft Art](http://www.daftart.ai?ref=aicollection) | Daft Art — 制作您梦寐以求的专辑封面. | Daft 允许您在几分钟内为您的专辑封面创建令人惊叹的高质量艺术品，由 AI 提供支持。. | :grey_question: |
 | [Daydrm](http://www.daydrm.ai?ref=aicollection) | Daydrm.ai. | 广告的未来是使用机器学习进行创造性思维. | :grey_question: |
 | [Debuild](http://debuild.app?ref=aicollection) | Debuild - 快速构建网络应用程序. | . | :grey_question: |
-| [Designs AI](http://designs.ai) | 使用 AI 创建徽标、视频、横幅、画外音. | 在 2 分钟内在线创建任何内容！使用 AI 制作徽标、视频、社交媒体横幅、名片、传单、模型等。. | :white_check_mark: |
+| [Designs AI](http://designs.ai?ref=aicollection) | 使用 AI 创建徽标、视频、横幅、画外音. | 在 2 分钟内在线创建任何内容！使用 AI 制作徽标、视频、社交媒体横幅、名片、传单、模型等。. | :white_check_mark: |
 | [DetangleAI](http://detangle.ai?ref=aicollection) | 理清AI. | . | :grey_question: |
 | [Dewey](http://www.withdewey.com?ref=aicollection) | 杜威：您的新问责伙伴. | . | :grey_question: |
 | [Diffusion Bee](http://diffusionbee.com?ref=aicollection) | DiffusionBee - 稳定的 AI 艺术扩散应用程序. | DiffusionBee 是使用 Stable Diffusion 在计算机上生成 AI 艺术的最简单方法. | :white_check_mark: |
@@ -1022,7 +1022,7 @@
 | [HotConvo](http://hotconvo.art?ref=aicollection) | 热会议. | . | :grey_question: |
 | [Hour One](http://hourone.ai?ref=aicollection) | 制作人工智能视频来训练任何人或解释任何事情——第一小时. | . | :grey_question: |
 | [Hubble](http://www.hubble.team?ref=aicollection) | Hubble - 来自用户的产品反馈和见解. | 通过收集用户对原型、测试版和实时功能的高质量反馈来创建世界一流的产品。. | :grey_question: |
-| [ICONS8](http://icons8.com) | 图标、插图、照片、音乐和设计工具. | 更改库存照片的外观、Smart Upscaler、直接从 Lunacy 更新您的网站等等. | :white_check_mark: |
+| [ICONS8](http://icons8.com?ref=aicollection) | 图标、插图、照片、音乐和设计工具. | 更改库存照片的外观、Smart Upscaler、直接从 Lunacy 更新您的网站等等. | :white_check_mark: |
 | [Ideasai](http://ideasai.com?ref=aicollection) | 由 OpenAI 提供支持的创业点子. | . | :grey_question: |
 | [Inferkit](http://app.inferkit.com?ref=aicollection) | 推理套件. | . | :grey_question: |
 | [Infinite Drum Machine](http://experiments.withgoogle.com?ref=aicollection) | 谷歌实验. | . | :grey_question: |
