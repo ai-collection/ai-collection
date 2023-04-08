@@ -52,6 +52,8 @@
     <h4>Доступный ИИ-писатель — Easy-Peasy.Ai: Помощник по ИИ-контенту</h4>
     <p>Создавайте потрясающий контент в 10 раз быстрее. AI-изображения, AI-транскрипция аудио и чат с AI-приятелем Марки.</p>
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Начать</b></a>
+    <br />
+    <p><a href="mailto: pavel@ai-collection.org">Contact us</a> for a promotion of your awesome app!</p>
 </div>
 
 ---
