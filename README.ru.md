@@ -53,8 +53,11 @@
     <p>Создавайте потрясающий контент в 10 раз быстрее. AI-изображения, AI-транскрипция аудио и чат с AI-приятелем Марки.</p>
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Начать</b></a>
     <br />
-    <p><a href="mailto: pavel@ai-collection.org">Contact us</a> for a promotion for your awesome app!</p>
 </div>
+
+---
+
+<p><a href="mailto: pavel@ai-collection.org">Contact us</a> to set up a promotion for your awesome app!</p>
 
 ---
 

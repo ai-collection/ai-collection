@@ -53,8 +53,11 @@
     <p>以 10 倍的速度创建精彩内容。 AI 图像、AI 音频转录和与 AI 好友 Marky 聊天。</p>
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>开始</b></a>
     <br />
-    <p><a href="mailto: pavel@ai-collection.org">Contact us</a> for a promotion for your awesome app!</p>
 </div>
+
+---
+
+<p><a href="mailto: pavel@ai-collection.org">Contact us</a> to set up a promotion for your awesome app!</p>
 
 ---
 

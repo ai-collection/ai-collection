@@ -59,8 +59,11 @@ Translations:
     <p>Create amazing content 10X faster. AI Images, AI Audio Transcription and Chat with AI buddy Marky.</p>
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Get Started</b></a>
     <br />
-    <p><a href="mailto: pavel@ai-collection.org">Contact us</a> for a promotion for your awesome app!</p>
 </div>
+
+---
+
+<p><a href="mailto: pavel@ai-collection.org">Contact us</a> to set up a promotion for your awesome app!</p>
 
 ---
 
