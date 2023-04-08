@@ -53,7 +53,7 @@
     <p>अद्भुत सामग्री 10 गुना तेज बनाएं। एआई छवियां, एआई ऑडियो ट्रांसक्रिप्शन और एआई दोस्त मार्की के साथ चैट करें।</p>
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>शुरू हो जाओ</b></a>
     <br />
-    <p><a href="mailto: pavel@ai-collection.org">Contact us</a> for a promotion of your awesome app!</p>
+    <p><a href="mailto: pavel@ai-collection.org">Contact us</a> for a promotion for your awesome app!</p>
 </div>
 
 ---
