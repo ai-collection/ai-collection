@@ -52,6 +52,8 @@
     <h4>Escritor de IA asequible: Easy-Peasy.Ai: el asistente de contenido de IA</h4>
     <p>Crea contenido increíble 10 veces más rápido. Imágenes de IA, transcripción de audio de IA y chat con el amigo de IA Marky.</p>
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Empezar</b></a>
+    <br />
+    <p><a href="mailto: pavel@ai-collection.org">Contact us</a> for a promotion of your awesome app!</p>
 </div>
 
 ---
