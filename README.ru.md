@@ -20,7 +20,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=838" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=839" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=37" />
@@ -885,6 +885,7 @@
 | [HUMATA](https://www.humata.ai/?ref=aicollection) | ChatGPT для ваших файлов. | Учитесь в 100 раз быстрее, создавайте отчеты в 100 раз быстрее, анализируйте юридические документы в 100 раз быстрее, разбирайтесь в технических документах в 100 раз быстрее. Задавайте вопросы и мгновенно получайте ответы о любом файле. | :white_check_mark: |
 | [Keepi](https://www.keepi.ai/?ref=aicollection) | ИИ через WhatsApp. | Получите доступ к самому передовому ИИ, доступному сегодня, на ходу. Keepi поможет вам быть умнее и подготовленнее благодаря соответствующим знаниям. | :white_check_mark: |
 | [NOLU](http://noluai.com?ref=aicollection) | ВЗАИМОДЕЙСТВИЕ с ИИ должно быть ПРОСТЫМ. | Встречайте НОЛУ. Простой интерфейс для взаимодействия с движком Open AI GPT-3. | :white_check_mark: |
+| [SiteGPT](https://sitegpt.ai/) | ChatGPT для каждого сайта. | Мгновенно отвечайте на вопросы посетителей с помощью персонализированного чат-бота, обученного содержанию вашего сайта. | :white_check_mark: |
 
 <!--End of Чат-бот 3-->
 

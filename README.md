@@ -20,7 +20,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=838" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=839" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=37" />
@@ -295,6 +295,7 @@ Translations:
 | [HUMATA](https://www.humata.ai/?ref=aicollection) | ChatGPT for Your Files. | Learn 100X Faster, Create Reports 100X Faster, Analyze Legal Documents 100X Faster, Understand Technical Papers 100X Faster. Ask Questions & Get Answers About Any File Instantly. | :white_check_mark: |
 | [Keepi](https://www.keepi.ai/?ref=aicollection) | AI Over WhatsApp. | Access the most advanced AI available today on the go. Keepi will keep you smart and ready with relevant knowledge. | :white_check_mark: |
 | [NOLU](http://noluai.com?ref=aicollection) | Interacting With AI Should Be Simple. | Meet NOLU. A simple interface for interacting with the Open AI GPT-3 engine. | :white_check_mark: |
+| [SiteGPT](https://sitegpt.ai/) | ChatGPT for Every Website. | Instantly answer your visitors' questions with a personalized chatbot trained on your website content. | :white_check_mark: |
 
 <!--End of Chat Bot 3-->
 
