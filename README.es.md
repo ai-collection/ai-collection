@@ -23,7 +23,7 @@
     <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=838" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=35" />
+    <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=37" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -70,6 +70,7 @@
 - ✍️ [Asistente De Redacción](#asistente-de-redacción)
 - 📧 [Asistente De Correo Electrónico](#asistente-de-correo-electrónico)
 - 💻 [Asistente De Código Y Base De Datos](#asistente-de-código-y-base-de-datos)
+- 🎓 [Asistente De Investigación](#asistente-de-investigación)
 - 👨‍💻 [Atención Al Cliente](#atención-al-cliente)
 - 🔌 [Complementos Y Extensiones](#complementos-y-extensiones)
 - 👩‍⚕️ [Cuidado De La Salud](#cuidado-de-la-salud)
@@ -89,6 +90,7 @@
 - 🔍 [Los Motores De Búsqueda](#los-motores-de-búsqueda)
 - 👩‍🎤 [Moda](#moda)
 - 🧞‍♂️ [Organización Y Automatización](#organización-y-automatización)
+- 🏖 [Planificador De Viajes Y Vacaciones](#planificador-de-viajes-y-vacaciones)
 - 👩‍💼 [Recursos Humanos Y Currículum](#recursos-humanos-y-currículum)
 - 💞 [Redes Sociales Y Citas](#redes-sociales-y-citas)
 - 🗳 [Reseñas Y Recomendaciones](#reseñas-y-recomendaciones)
@@ -216,6 +218,17 @@
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
 
+## Asistente De Investigación
+| Nombre | Título | Descripción | Ofrecer versión gratuita |
+|---|---|---|:---:|
+| [Elicit](http://elicit.org?ref=aicollection) | Elicit: el asistente de investigación de IA. | Elicit utiliza el aprendizaje automático para ayudarlo con su investigación: encuentre documentos, extraiga afirmaciones clave, resuma, haga una lluvia de ideas y más. | :grey_question: |
+| [Scispace](http://typeset.io?ref=aicollection) | Scispace by Typeset: descubra, cree, publique y promueva su trabajo de investigación. | Tu plataforma para explorar y explicar papers. Busque más de 270 millones de artículos, entiéndalos en un lenguaje sencillo y encuentre artículos, autores y temas relacionados. | :grey_question: |
+
+<!--End of Asistente de investigación 35-->
+
+<!--lint ignore double-link-->
+**[⬆ Volver al índice](#index)**
+
 ## Atención Al Cliente
 | Nombre | Título | Descripción | Ofrecer versión gratuita |
 |---|---|---|:---:|
@@ -290,6 +303,7 @@
 | [AI Pokemon generator](http://nokemon.eloie.tech?ref=aicollection) | Generar Fakemon usando IA. | . | :grey_question: |
 | [Ask RBG](http://ask-rbg.ai?ref=aicollection) | ¿Qué diría RBG (probablemente)?. | Un experimento de IA: pídale a la jueza Ruth Bader Ginsburg que tome una decisión sobre cualquier pregunta que su corazón desee. La primera AI Drop de AI21 Labs. | :white_check_mark: |
 | [Askmybook](http://askmybook.com?ref=aicollection) | Pregúntale a mi libro: el emprendedor minimalista. | Este es un experimento sobre el uso de IA para hacer que el contenido de mi libro sea más accesible. Haga una pregunta y AI la responderá en tiempo real:. | :white_check_mark: |
+| [Blackink](http://blackink.ai?ref=aicollection) | Crea tu propio tatuaje Flash único en segundos. | Deja de pasar meses buscando en Pinterest tu próximo tatuaje. Genere tatuajes únicos y personalizados en segundos con la IA de BlackInk, diseñada para crear diseños similares a tatuajes solo para usted. | :white_check_mark: |
 | [Botify](http://botif.ai?ref=aicollection) | Botificar IA. | Charla divertida con tus personajes favoritos. | :grey_question: |
 | [CharacterAI](http://beta.character.ai?ref=aicollection) | Character.Ai te permite crear personajes y hablar con ellos. | Los personajes pueden ser cualquier cosa. Nuestra innovadora tecnología de IA puede hacer realidad todas sus ideas. | :white_check_mark: |
 | [Excuses AI](http://excuses.ai?ref=aicollection) | Generador de excusas. | Usa la IA para generar la excusa profesional perfecta. | :grey_question: |
@@ -325,6 +339,7 @@
 | [Prisma](https://prisma-ai.com/prisma?ref=aicollection) | Prisma captura la esencia de tus fotos transformándolas en pinturas de colores vivos. | . | :white_check_mark: |
 | [Prisma](https://prisma-ai.com/lensa?ref=aicollection) | Lensa es una aplicación de edición de imágenes todo en uno que lleva tus fotos al siguiente nivel. | . | :white_check_mark: |
 | [Remover.app](http://remover.zmo.ai?ref=aicollection) | Elimine cualquier cosa no deseada en segundos, gratis. | . | :white_check_mark: |
+| [RestorePhotos.io](https://www.restorephotos.io/?ref=aicollection) | Restauración de fotos antiguas con IA para todos. | ¿Tienes fotos de caras viejas y borrosas? Deje que nuestra IA los restaure para que esos recuerdos puedan vivir. 100% gratis: restaura tus fotos hoy. | :white_check_mark: |
 | [SceneryAI](http://sceneryai.com?ref=aicollection) | paisajeai. | Genere o actualice imágenes existentes con nuestra herramienta de edición de imágenes AI. | :grey_question: |
 | [Stillgram](http://stillgram.io?ref=aicollection) | Stillgram™ - I.A. Aplicación de cámara de fotos de viaje para Iphone®. | Stillgram es una I.A. aplicación de cámara de apuntar y disparar que elimina mágicamente las multitudes de fondo de sus fotos urbanas/de viaje. | :white_check_mark: |
 | [Topaz Photo AI](http://www.topazlabs.com?ref=aicollection) | Topaz Labs: software de calidad de imagen de IA. | El software de mejora de fotos y videos con tecnología de aprendizaje profundo le brinda la mejor calidad de imagen disponible para reducción de ruido, nitidez, mejora de escala y más. | :grey_question: |
@@ -407,6 +422,7 @@
 | [Clip audio](http://www.clip.audio?ref=aicollection) | Clip - Motor de búsqueda de audio con IA. | El buscador de audio. | :grey_question: |
 | [Coqui](http://coqui.ai?ref=aicollection) | Coquí. | Directo emotivo, generativo de voces de IA para videojuegos, postproducción, doblaje y mucho más…. | :grey_question: |
 | [Emergent Drums](http://audialab.com?ref=beth0) | Genere muestras de batería únicas utilizando inteligencia artificial. | Utilice nuestro complemento innovador para generar infinitas muestras de batería, todas libres de regalías. | :x: |
+| [GetSound](https://www.getsound.ai/?ref=aicollection) | Bienvenido al futuro de la hospitalidad AI Soundscapes. | Paisajes sonoros relajantes para saunas, duchas y áreas de masaje. Piscinas, Playas, Jardines o Azoteas obtendrán el paisaje sonoro perfecto. Haga que su Lobby, Pasillos o Ascensores sean únicos nuevamente. Haga más con un paisaje sonoro natural para un mejor enfoque y armonía. | :white_check_mark: |
 | [Krisp](http://krisp.ai?ref=aicollection) | Aplicación de cancelación de ruido n.º 1 del mundo - Krisp. | La IA de Krisp elimina las voces de fondo, los ruidos y el eco de todas sus llamadas, lo que le brinda tranquilidad. | :white_check_mark: |
 | [LALAL.AI Voice Cleaner](http://www.lalal.ai/?fp_ref=beth0) | Extraiga voces, acompañamiento y varios instrumentos de cualquier audio y video. | División de tallos de alta calidad basada en la tecnología impulsada por IA n.º 1 del mundo. | :grey_question: |
 | [Musico](http://www.musi-co.com?ref=aicollection) | Musico - Música generativa con IA. | Musico es un motor de software impulsado por IA que genera música. Puede reaccionar a gestos, movimientos, códigos u otros sonidos. | :grey_question: |
@@ -477,17 +493,22 @@
 | [Krea](http://updates.krea.ai?ref=aicollection) | Lienzo de IA. | Presentamos AI Canvas, de Krea. | :grey_question: |
 | [Leonardo](http://leonardo.ai?ref=aicollection) | leonardo.ai. | Genere activos de calidad de producción para sus proyectos creativos con velocidad y consistencia de estilo impulsadas por IA. | :grey_question: |
 | [Mage Space](http://www.mage.space?ref=aicollection) | Crea cualquier cosa. | . | :white_check_mark: |
+| [Midjourney](http://www.midjourney.com?ref=aicollection) | a mitad de camino. | Un laboratorio de investigación independiente que explora nuevos medios de pensamiento y expande los poderes imaginativos de la especie humana. | :grey_question: |
 | [Neuralcanvas](http://neuralcanvas.io?ref=aicollection) | Neural Canvas - Generador de cómics con IA. | Exprese su creatividad con el apoyo de AI: cree ilustraciones generadas por AI para sus cómics, publicaciones de blog, libros electrónicos, novelas gráficas y más. | :grey_question: |
 | [NightCafe](http://creator.nightcafe.studio?ref=aicollection) | Generador de arte con IA, Creador de arte con IA. | Aplicación AI Art Generator. &#9989; Rápido &#9989; Gratis &#9989; Fácil. Crea increíbles obras de arte usando inteligencia artificial. | :white_check_mark: |
 | [Not Me Netlify](http://not-me.netlify.app?ref=aicollection) | Autorretrato: crea retratos con IA. | Explore millones de estilos o cree el suyo propio, genere autorretratos de IA. | :grey_question: |
 | [OddVibe](http://www.oddvibe.com?ref=aicollection) | Oddvibe: la mejor colección de imágenes desconcertantes generadas por IA. | Obtenga su dosis de imágenes espeluznantes generadas por IA. Pero ten cuidado, es posible que nunca vuelvas a dormir. | :grey_question: |
 | [Partly](http://www.partly.ai?ref=aicollection) | Arte alucinante de tus fotos, por Partly AI. | ¡Transforma tus fotos en obras de arte con la ayuda de la magia de la IA!. | :grey_question: |
 | [Photosonic AI](http://photosonic.writesonic.com?ref=aicollection) | Photosonic AI Art Generator: crea imágenes únicas con IA. | Transforme su imaginación en un impresionante arte digital con Photosonic, el generador de arte con IA. Con sus sugerencias creativas, el generador de imágenes AI de Writesonic puede ayudarlo a liberar su artista interior y compartir sus creaciones con el mundo. | :grey_question: |
+| [Phraser](http://phraser.tech?ref=aicollection) | Phraser la herramienta de IA creativa colaborativa. | Phraser es una aplicación que te ayuda a crear imágenes usando IA generativa (Midjourney, Stable Diffusion y DALLE 2), colaborar e inspirarte. | :grey_question: |
 | [PirateDiffusion](http://scum.co?ref=aicollection) | describir cualquier cosa. | obtenga imágenes HD realistas, más estilos, sin restricciones. | :white_check_mark: |
 | [Pixian](http://pixian.ai?ref=aicollection) | Eliminar fondos de imagen, HD gratis, sin registro - Pixian.Ai. | Eliminar fondos de imagen, HD gratis, sin registro. | :white_check_mark: |
 | [Playground](https://playgroundai.com/?ref=aicollection) | Playground AI - Creador de imágenes de IA en línea. | Playground AI es un creador de imágenes de IA en línea de uso gratuito. Úselo para crear arte, publicaciones en redes sociales, presentaciones, carteles, videos, logotipos y más. | :white_check_mark: |
+| [Pollinations](http://pollinations.ai?ref=aicollection) | SU MOTOR PARA MEDIOS PERSONALIZADOS. | Combinamos y ajustamos algoritmos para que coincidan con cualquier estética, lo que permite la creación de medios de IA personalizados e ilimitados. | :grey_question: |
+| [Portrait by Vana](http://portrait.vana.com?ref=aicollection) | Retrato - Vana. | “Portrait” de Vana es un estudio de arte generativo que puede crear autorretratos tuyos en infinitos estilos. | :grey_question: |
 | [Prompt Art](http://promptart.labml.ai?ref=aicollection) | Zona de juegos de difusión estable. | . | :grey_question: |
 | [Quasi](http://quasi.market?ref=aicollection) | Hacemos que crear con IA sea fácil. | Desbloquee con el poder de la IA y cree fácilmente contenido asombroso de todo tipo con una plataforma fácil de usar. | :white_check_mark: |
+| [Rayst Gradients](http://gradients.ray.st?ref=aicollection) | Gradientes de rayos. | Una colección de 64 hermosos degradados generados por IA. | :grey_question: |
 | [Re.Art AI Image Generator](http://reart.devvinay.in?ref=aicollection) | Generar una Imagen. ¡Imagina todo lo que quieras imaginar!. | Este generador de imágenes AI construido con difusión estable. Para mantener vivo este servicio, puede ayudar al desarrollador. | :white_check_mark: |
 | [Removal.ai](http://removal.ai?ref=aicollection) | Eliminador de fondo - Crear fondo transparente. | Elimine el fondo en línea de la imagen usando el eliminador de fondo. Cree un fondo transparente: descargue alta resolución al instante y gratis. | :white_check_mark: |
 | [Remove.bg](http://www.remove.bg?ref=aicollection) | Quitar el fondo de la imagen – Remove.Bg. | Elimine fondos de imágenes automáticamente en 5 segundos con solo un clic. No pase horas seleccionando píxeles manualmente. Sube tu foto ahora y mira la magia. | :white_check_mark: |
@@ -559,7 +580,9 @@
 | [Assetsai](http://www.assetsai.art?ref=aicollection) | Activos únicos, seleccionados y basados en IA para sus juegos. | . | :grey_question: |
 | [Chess AI](http://betafish.gavinong.com?ref=aicollection) | Betafish.Js - Ajedrez AI. | . | :grey_question: |
 | [IRMO](http://www.irmoai.com?ref=aicollection) | Hecho para la Creación. Lo mejor en aplicaciones de IA. | Su fuente de entretenimiento móvil y creación de arte con IA. | :white_check_mark: |
+| [Opus](http://opus.ai?ref=aicollection) | Sitio web de Opus. | . | :grey_question: |
 | [Plailabs](https://plailabs.com/?ref=aicollection) | Juega con IA. | (verbo) – Participar en la inteligencia artificial con el fin de disfrutar y recrear con el objetivo de hacer crecer un universo en constante expansión de juegos, entretenimiento, narración de historias y tecnología. | :grey_question: |
+| [Ponzu.gg](http://www.ponzu.gg?ref=aicollection) | Ponzu. | AI generó mapas de textura PBR para cualquier idea, en segundos. | :grey_question: |
 | [Scenario](http://www.scenario.gg?ref=aicollection) | Guión. | Libere el poder de los activos de juego generados por IA con Scenario. Genere contenido atractivo de forma rápida y sencilla para ahorrar tiempo y despertar la creatividad. | :grey_question: |
 | [charisma](https://charisma.ai/?ref=aicollection) | Potenciar humanos digitales en tiempo real. | Para juegos • Metaversos • VR • Educación • Televisión y cine • ¡Publicación y más!. | :grey_question: |
 | [hidden door](https://www.hiddendoor.co/?ref=aicollection) | ¡Hola, Mundos!. | Un nuevo tipo de experiencia de juego de rol social, impulsada por IA narrativa. | :grey_question: |
@@ -580,6 +603,7 @@
 | [Hotpot](http://hotpot.ai?ref=aicollection) | Hotpot.Ai. | Hotpot.ai te ayuda a crear gráficos, imágenes y texto asombrosos. Las herramientas de IA como AI Art Generator despiertan la creatividad y automatizan el trabajo pesado, mientras que las plantillas fáciles de editar permiten a cualquier persona crear maquetas de dispositivos, publicaciones en redes sociales, imágenes de marketing, íconos de aplicaciones y otros gráficos de trabajo. | :grey_question: |
 | [Lightricks](http://www.lightricks.com?ref=aicollection) | Hogar de creadores de todo el mundo. | Experimenta la magia de crear con las mejores herramientas y servicios para creadores: Facetune 2, Videoleap, Linkinbio & Photoleap. ¡Échale un vistazo ahora!. | :grey_question: |
 | [Media.io](https://www.media.io/?ref=beth0) | Plataforma de creatividad de imagen, audio y video en línea con tecnología de IA. | Sencillez. Diversidad. Flexibilidad. | :white_check_mark: |
+| [Phygital](http://phygital.plus?ref=aicollection) | Creadores con superpoderes. | Espacio de trabajo de IA basado en nodos para que los creadores trabajen con redes neuronales sin código. (Alfa). | :grey_question: |
 | [Runway](http://runwayml.com?ref=aicollection) | Runway - Suite de creación de próxima generación - Todo lo que necesita para crear contenido rápidamente. | Descubra capacidades avanzadas de edición de video para llevar sus creaciones al siguiente nivel. | :white_check_mark: |
 
 <!--End of Kit de herramientas para creadores 6-->
@@ -591,6 +615,7 @@
 | Nombre | Título | Descripción | Ofrecer versión gratuita |
 |---|---|---|:---:|
 | [DoNotPay](https://donotpay.com/?ref=aicollection) | El primer abogado robot del mundo. | Use IA para hacer que la información legal sea accesible para todos. | :grey_question: |
+| [Equally.ai](http://equally.ai?ref=aicollection) | Cumplimiento de Accesibilidad Web para Todos. | Logre el cumplimiento de ADA y WCAG fácilmente. | :white_check_mark: |
 | [Paralegal AI](http://www.legalquestions.help?ref=aicollection) | IA paralegal. | Resúmenes e investigaciones legales impulsadas por IA. | :white_check_mark: |
 | [PatentPal](http://patentpal.com?ref=aicollection) | IA generativa para propiedad intelectual. | Automatice la escritura mecánica en sus solicitudes de patentes. | :white_check_mark: |
 | [Spellbook](https://www.spellbook.legal/?ref=aicollection) | Redactar contratos 3 veces más rápido con IA. | Spellbook usa GPT-3 para revisar y sugerir lenguaje para sus contratos, directamente en Microsoft Word. | :grey_question: |
@@ -633,6 +658,7 @@
 | [BuildAI](https://www.buildai.space/?ref=aicollection) | Cree interfaces de IA en minutos. | Ingrese la descripción de una aplicación que genera texto basado en la entrada de texto del usuario, ¡y la CONSTRUIMOS PARA USTED!. | :grey_question: |
 | [Hexowatch](http://hexact.pxf.io/beth0) | Más allá de la disponibilidad y los precios, sitios web de terceros como fuente de datos, monitoreo visual de sitios web, seguimiento de la competencia. | Hexowatch es su compañero de IA para monitorear cualquier sitio web en busca de cambios visuales, de contenido, código fuente, tecnología, disponibilidad o precios. | :x: |
 | [KUBIYA](http://kubiya.ai/?ref=aicollection) | Asistente virtual DevOps. | Proporcione a los desarrolladores acceso seguro y de autoservicio a flujos de trabajo operativos, recursos en la nube y conocimiento organizacional con IA conversacional. | :grey_question: |
+| [Kive](http://www.kive.ai?ref=aicollection) | Kive - Lienzo de IA. | toda tu inspiración en un solo lugar. | :grey_question: |
 | [Magical](https://www.getmagical.com/ai?ref=aicollection) | Hacer que las tareas desaparezcan. Como magia. | Llama a Magical AI para hacer todo el trabajo que odias hacer. Cree mensajes desde cero, actualice formularios al instante y automatice tareas molestas, en cualquier lugar y en cualquier momento. | :white_check_mark: |
 | [Product Launch AI](https://shapenship.com/productlaunchai?ref=aicollection) | Libere el poder de la IA para potenciar los lanzamientos de sus productos. | ¡Despega hacia un gran lanzamiento sin preocuparte por la copia de lanzamiento!. | :grey_question: |
 | [bardeen](https://www.bardeen.ai/ai?ref=aicollection) | La IA se encuentra con las automatizaciones. | Próximamente en 2023: Bardeen presenta una IA innovadora para automatizar los flujos de trabajo manuales, ahorrarle tiempo y potenciar su creatividad. | :grey_question: |
@@ -640,6 +666,17 @@
 | [timeMaster](https://www.timemaster.ai/?ref=aicollection) | Potencie su enfoque y productividad. | TimeMaster detecta automáticamente en qué está trabajando, categoriza sus actividades, etiqueta proyectos e incluso escribe registros de tiempo en su nombre. | :white_check_mark: |
 
 <!--End of Organización y Automatización 31-->
+
+<!--lint ignore double-link-->
+**[⬆ Volver al índice](#index)**
+
+## Planificador De Viajes Y Vacaciones
+| Nombre | Título | Descripción | Ofrecer versión gratuita |
+|---|---|---|:---:|
+| [Roamr](http://www.letsroam.app?ref=aicollection) | Roamr - Tus vacaciones soñadas en segundos. | . | :grey_question: |
+| [Vacay](https://usevacay.com/chatbot?ref=aicollection) | Agente de chat de vacaciones. | Este asistente de inteligencia artificial puede diseñar un viaje personalizado, brindarle inspiración sobre dónde ir e incluso generar recomendaciones locales para hoteles, restaurantes y atracciones. | :white_check_mark: |
+
+<!--End of Planificador de viajes y vacaciones 36-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -667,11 +704,15 @@
 |---|---|---|:---:|
 | [AI movie Club](http://www.ai-movie.club?ref=aicollection) | AI-Movie Club. | ¡AI-MOVIE CLUB es una red social que crea películas con inteligencia artificial!. | :grey_question: |
 | [Elektrif](http://www.elektrif.ai?ref=aicollection) | Tu 🤖 Asistente de citas motorizado. | El primer conjunto de herramientas impulsadas por IA para potenciar tu vida amorosa ⚡️. | :grey_question: |
+| [Graham AI](http://www.grahamai.co?ref=aicollection) | Graham.Ai - Generador de tweets tecnológicos. | . | :grey_question: |
 | [LoveGenius](https://www.lovegenius.io/?ref=aicollection) | ¡Cree biografías de citas pegadizas y llamativas y obtenga mejores coincidencias en Tinder, Bumble y otros!. | LoveGenius es un asistente de citas de IA que ayuda a atraer mejores coincidencias mediante la elaboración de un perfil de citas excepcional. Utiliza una combinación de algoritmos de aprendizaje automático, datos de perfiles de citas exitosos e información humana basada en entrevistas con entrenadores y expertos en citas. | :white_check_mark: |
 | [Postwise](http://postwise.ai?ref=aicollection) | Postwise: escriba, programe y crezca con Twitter AI. | Escriba, programe y crezca con la herramienta de IA de Twitter más inteligente del mundo. | :grey_question: |
 | [ReContent.AI](http://recontent.ai/?ref=aicollection) | Transforme su boletín informativo, publicación de blog, en contenido de Twitter con Recontent.Ai. | . | :white_check_mark: |
 | [Roast](https://roast.dating?ref=aicollection) | Análisis de AI del perfil de la aplicación de citas - Photoshoot AI Generator. | ROAST ayuda a las personas a multiplicar por 10 sus coincidencias en aplicaciones de citas como Tinder, Bumble y Hinge. Con tecnología de inteligencia artificial, ofrece información sobre citas basada en datos y consejos de expertos para aumentar la cantidad y la calidad de sus coincidencias. | :grey_question: |
+| [Tribescaler](http://tribescaler.com?ref=aicollection) | Tribescaler. | . | :grey_question: |
 | [TweePT3](http://tweept3.com?ref=aicollection) | Tweept3 - Escritor de tweets con tecnología Gpt3 integrado en Twitter. | . | :grey_question: |
+| [TweetAI](http://tweetai.com?ref=aicollection) | Inspírate para twittear • Tweetai.Com. | Twittear IA. | :grey_question: |
+| [TweetEmote](http://www.tweetemote.com?ref=aicollection) | Tweetemote. | . | :grey_question: |
 | [Tweethunter](http://tweethunter.io?ref=aicollection) | Tweet Hunter: obtenga más seguidores de Twitter Tweets, hilos, programador, análisis. | Obtenga ventas, crecimiento y nuevas redes. Más rápido de lo que estás intentando actualmente. | :grey_question: |
 | [Tweetspear](http://www.tweetspear.com?ref=aicollection) | Tweetspear - Aumenta tu participación en Twitter. | Revolucione su participación en Twitter con las respuestas sugeridas impulsadas por IA. | :grey_question: |
 
@@ -707,7 +748,6 @@
 | [HUMATA](https://www.humata.ai/?ref=aicollection) | ChatGPT para sus archivos. | Aprenda 100 veces más rápido, cree informes 100 veces más rápido, analice documentos legales 100 veces más rápido, comprenda documentos técnicos 100 veces más rápido. Haga preguntas y obtenga respuestas sobre cualquier archivo al instante. | :white_check_mark: |
 | [Keepi](https://www.keepi.ai/?ref=aicollection) | IA sobre WhatsApp. | Acceda a la IA más avanzada disponible en la actualidad sobre la marcha. Keepi lo mantendrá inteligente y listo con el conocimiento relevante. | :white_check_mark: |
 | [NOLU](http://noluai.com?ref=aicollection) | Interactuar con IA debería ser simple. | Conoce a NOLU. Una interfaz simple para interactuar con el motor Open AI GPT-3. | :white_check_mark: |
-| [Vacay](https://usevacay.com/chatbot?ref=aicollection) | Agente de chat de vacaciones. | Este asistente de inteligencia artificial puede diseñar un viaje personalizado, brindarle inspiración sobre dónde ir e incluso generar recomendaciones locales para hoteles, restaurantes y atracciones. | :white_check_mark: |
 
 <!--End of Robot de chat 3-->
 
@@ -776,15 +816,22 @@
 | Nombre | Título | Descripción | Ofrecer versión gratuita |
 |---|---|---|:---:|
 | [Article.Audio](http://article.audio?ref=aicollection) | Convertir artículos en audio. | demasiado perezoso para leer un artículo? No hay problema, ¡escúchalo! Desarrollado por Thundercontent. | :white_check_mark: |
+| [Createaivoiceovers](http://createaivoiceovers.com?ref=aicollection) | Texto a voz Generador de voz en línea, Generador de texto a voz - Voces realistas - Crear voces en off de IA. | . | :grey_question: |
 | [Eleven](https://beta.elevenlabs.io/?ref=aicollection) | Prime Voice IA. | El software de voz de IA más realista y versátil que jamás haya existido. Eleven trae las voces más convincentes, ricas y realistas a los creadores y editores que buscan las mejores herramientas para contar historias. | :white_check_mark: |
+| [FakeYou](http://fakeyou.com?ref=aicollection) | Falso que. Texto falso profundo a voz. | . | :grey_question: |
+| [Free Text-To-Speech](http://www.text-to-speech.online?ref=aicollection) | Herramientas gratuitas de conversión de texto a voz en línea. | . | :white_check_mark: |
 | [Listnr 2.0](https://www.listnr.tech/?gr_pk=V71a&gr_uid=YVDO) | AI Voice Generator - Convertidor de texto a voz - Listnr. | Genere audio de texto a voz (TTS) realista utilizando nuestro generador de voz AI con las mejores voces sintéticas. Convierta instantáneamente el texto en voz con sonido natural y descárguelo en formatos MP3 y WAV. | :x: |
 | [Lovo](http://www.lovo.ai?ref=aicollection) | Lovo AI - Texto a voz gratuito en línea con voces naturales. | . | :white_check_mark: |
 | [Murf.ai](http://murf.ai?ref=aicollection) | Pase de texto a voz con un versátil generador de voz con IA. | AI habilitado, voces de personas reales. Haz locuciones con calidad de estudio en minutos. Use las voces realistas de IA de Murf para podcasts, videos y todas sus presentaciones profesionales. | :white_check_mark: |
+| [NaturalReader](http://www.naturalreaders.com?ref=aicollection) | Voces AI - Naturalreader Inicio. | . | :grey_question: |
 | [Play.ht](http://play.ht?ref=aicollection) | Generador de texto a voz impulsado por IA. | Genere audio de texto a voz (TTS) realista utilizando nuestro generador de voz AI en línea y las mejores voces sintéticas. Convierta instantáneamente el texto en voz con sonido natural y descárguelo como archivos de audio MP3 y WAV. | :white_check_mark: |
 | [Speech-to-Speech](http://www.resemble.ai?ref=aicollection) | Su completo kit de herramientas de IA de voz generativa. | El generador de voz con IA de Resemble te permite crear voces en off similares a las de los humanos en segundos. | :x: |
 | [Speechelo](http://speechelo.com?ref=aicollection) | Speechelo: genere voz a partir de texto con solo 3 clics. El convertidor de texto a audio con sonido más realista. | GARANTIZAMOS que nadie dirá que su voz en off es A.I. generado con una herramienta de texto a voz. | :grey_question: |
 | [Speechify](http://speechify.com?ref=aicollection) | El lector de texto a voz n.º 1. | Recorra documentos, artículos, archivos PDF, correos electrónicos (cualquier cosa que lea) escuchando con nuestro lector líder de texto a voz. | :white_check_mark: |
+| [Underduck](http://uberduck.ai?ref=aicollection) | Uberduck: texto a voz, automatización de voz, medios sintéticos. | . | :grey_question: |
 | [VERBATIK](http://verbatik.com?ref=aicollection) | Generación de texto a voz impulsada por IA. | Genere audio realista de texto a voz (TTS) utilizando el generador de voz AI en línea y las mejores voces sintéticas. Convierta instantáneamente el texto en voz con sonido natural y descárguelo como archivos de audio MP3 y WAV. | :x: |
+| [Voicemaker](http://voicemaker.in?ref=aicollection) | Voicemaker® - Convertidor de texto a voz. | . | :grey_question: |
+| [Voicera](http://www.voicera.co?ref=aicollection) | Voicera - Dale voz a tus artículos y blogs. | . | :grey_question: |
 | [Wellsaid](http://wellsaidlabs.com?ref=aicollection) | Convierte Texto a Voz en Tiempo Real. | Con WellSaid, usted y su equipo pueden crear una voz en off de IA convincente y realista para todo su contenido digital. | :white_check_mark: |
 
 <!--End of Texto a voz 23-->
@@ -829,6 +876,7 @@
 | [SaleWhale](http://salewhale.chat?ref=aicollection) | Sale Whale - Chatbot de representante de ventas impulsado por IA. | Proporcionamos chatbots increíblemente buenos para representantes de ventas y atención al cliente, utilizando los mejores modelos de IA disponibles en el mundo. Descubra cómo mejorará su negocio. | :grey_question: |
 | [SimplePhones.ai](https://simplephones.ai/?ref=aicollection) | Nunca pierda una llamada de un cliente. | Reenvíe sus llamadas perdidas u obtenga un nuevo número, y Simple Phones lo responderá usando AI. Obtendrá un agente telefónico creado para su negocio de forma gratuita. Solo paga 19¢/min por cualquier llamada entrante. | :x: |
 | [Speaq.ai](https://www.speaq.ai/?ref=aicollection) | IA de conversión preparada para su negocio. | Nuestra misión es revolucionar el marketing B2B y la atención al cliente con inteligencia artificial. Programe reuniones sin esfuerzo y verifique la asistencia con IA. Optimice su proceso de encuesta con llamadas conversacionales de IA. | :grey_question: |
+| [Userevaluation](http://www.userevaluation.com?ref=aicollection) | Evaluación del usuario la plataforma de comprensión del cliente. | Ya sea que esté enfocado en UI, UX Research, Design o CX, la IA de User Evaluation puede responder todas sus preguntas. | :white_check_mark: |
 | [unbounce](http://unbounce.com?ref=aicollection) | Herramientas de marketing inteligentes para hacer crecer su negocio. | Convierta a más de sus visitantes en clientes. Unbounce es el creador de páginas de destino impulsado por IA con funciones inteligentes que le permiten crear hermosas campañas de marketing de alto rendimiento en solo unos minutos. | :x: |
 
 <!--End of Ventas y Marketing 20-->
@@ -959,7 +1007,6 @@
 | [BetterWriter](http://betterwriter.ai?ref=aicollection) | Escribe más rápido con A.I. Betterwriter.Ai. | . | :grey_question: |
 | [BigJpg](http://bigjpg.com?ref=aicollection) | Bigjpg - Herramienta de ampliación/escalamiento de imágenes sin pérdida de superresolución de IA mediante redes neuronales convolucionales profundas. | Bigjpg: superresolución de imagen para obras de arte de estilo anime que utilizan redes neuronales convolucionales profundas sin pérdida de calidad. Las fotos también son compatibles. | :grey_question: |
 | [Bito AI](http://bito.co?ref=aicollection) | bito. | . | :grey_question: |
-| [Blackink](http://blackink.ai?ref=aicollection) | Crea tu propio tatuaje Flash único en segundos. | Deja de pasar meses buscando en Pinterest tu próximo tatuaje. Genere tatuajes únicos y personalizados en segundos con la IA de BlackInk, diseñada para crear diseños similares a tatuajes solo para usted. | :white_check_mark: |
 | [Blimey](http://blimeycreate.com?ref=aicollection) | Caray. | Blimey es un generador de imágenes ai donde puedes pasar de la idea a la realidad en un minuto. Con control total sobre la composición, los colores y el estilo. | :grey_question: |
 | [Bloomoon](http://www.bloomoon.art?ref=aicollection) | Bloomoon. | Descubre pinturas únicas generadas por IA en bloomoon. | :grey_question: |
 | [Boo AI](http://boo.ai?ref=aicollection) | . | . | :grey_question: |
@@ -982,7 +1029,6 @@
 | [Coverquick](http://www.coverquick.co?ref=aicollection) | Portadarápida. | Aplicar con confianza. | :grey_question: |
 | [Cowriter](http://cowriter.org?ref=aicollection) | Co-escritor: su compañero de inteligencia artificial para inspirar contenido de marketing. | . | :grey_question: |
 | [Craiyon](http://www.craiyon.com?ref=aicollection) | Craiyon, anteriormente Dall-E Mini. | ¡Craiyon es un modelo de IA que puede dibujar imágenes desde cualquier mensaje de texto!. | :grey_question: |
-| [Createaivoiceovers](http://createaivoiceovers.com?ref=aicollection) | Texto a voz Generador de voz en línea, Generador de texto a voz - Voces realistas - Crear voces en off de IA. | . | :grey_question: |
 | [DREAM.page](http://dream.page?ref=aicollection) | . | . | :grey_question: |
 | [Dadabots](http://dadabots.com?ref=aicollection) | Redes neuronales. | . | :grey_question: |
 | [Daft Art](http://www.daftart.ai?ref=aicollection) | Daft Art — Crea la portada del álbum que siempre has soñado. | Daft le permite crear una obra de arte increíble y de alta calidad para la portada de su álbum en unos minutos, con tecnología de IA. | :grey_question: |
@@ -1001,24 +1047,18 @@
 | [Ebsynth](http://ebsynth.com?ref=aicollection) | Ebsynth - Transforme video pintando sobre un solo cuadro. | Pintas un cuadro y EbSynth lo propaga al resto del metraje. | :grey_question: |
 | [Echowin](http://echo.win?ref=aicollection) | Gestión de llamadas impulsada por IA con comprensión total del lenguaje natural y respuestas personalizadas para cada escenario. | . | :grey_question: |
 | [Ecrett Music](http://ecrettmusic.com?ref=aicollection) | Manera Fácil de Crear Música Libre de Derechos - Ecrett Music. | . | :grey_question: |
-| [Elicit](http://elicit.org?ref=aicollection) | Elicit: el asistente de investigación de IA. | Elicit utiliza el aprendizaje automático para ayudarlo con su investigación: encuentre documentos, extraiga afirmaciones clave, resuma, haga una lluvia de ideas y más. | :grey_question: |
-| [Equally.ai](http://equally.ai?ref=aicollection) | Cumplimiento de Accesibilidad Web para Todos. | Logre el cumplimiento de ADA y WCAG fácilmente. | :white_check_mark: |
 | [Everypixel](http://www.everypixel.com?ref=aicollection) | Motor de búsqueda de imágenes de stock - Más de 50 mejores fuentes - Everypixel. | . | :grey_question: |
 | [ExactBuyer Search](http://www.exactbuyer.com?ref=aicollection) | Exactbuyer - Búsqueda de empresas impulsada por IA para equipos de prospección. | . | :grey_question: |
-| [FakeYou](http://fakeyou.com?ref=aicollection) | Falso que. Texto falso profundo a voz. | . | :grey_question: |
 | [Fireflies](http://fireflies.ai) | Fireflies.Ai - Fireflies AI Notetaker & Conversation Intelligence. | Fireflies.ai ayuda a su equipo a grabar, transcribir, buscar y analizar conversaciones de voz. | :grey_question: |
 | [Flexberry AI Assistant](http://ai.flexberry.net?ref=aicollection) | Asistente de IA. | Esto ayuda a reducir el 30% del tiempo que el analista de negocios usa para procesar los requisitos y también para generar artefactos. | :grey_question: |
 | [FoodAI](http://www.foodai.app?ref=aicollection) | Foodai.App - ¡Genera recetas de cocina con Ai!. | . | :grey_question: |
-| [Free Text-To-Speech](http://www.text-to-speech.online?ref=aicollection) | Herramientas gratuitas de conversión de texto a voz en línea. | . | :white_check_mark: |
 | [Friday AI](http://www.heyfriday.ai?ref=aicollection) | Heyfriday: escritor de IA definitivo. | . | :grey_question: |
 | [GGPredict](http://ggpredict.io?ref=aicollection) | Ggpredict.Io. | . | :grey_question: |
 | [GPTKey](http://gptkey.com?ref=aicollection) | Gptkey: escribe con IA usando el teclado GPT. | Escriba con IA en cualquier aplicación usando la extensión de teclado personalizado GPT. | :grey_question: |
 | [Genius Sheets](http://www.geniussheets.com?ref=aicollection) | Genius Sheets Automatización financiera. | Las soluciones Genius Sheets AI Text To Reports lo ayudan a analizar datos financieros más rápido, lo que permite a los equipos tomar mejores decisiones. Manténgase en Excel y Google Sheets y automatice su proceso de informes financieros con conexiones de datos en vivo. | :grey_question: |
-| [GetSound](https://www.getsound.ai/?ref=aicollection) | Bienvenido al futuro de la hospitalidad AI Soundscapes. | Paisajes sonoros relajantes para saunas, duchas y áreas de masaje. Piscinas, Playas, Jardines o Azoteas obtendrán el paisaje sonoro perfecto. Haga que su Lobby, Pasillos o Ascensores sean únicos nuevamente. Haga más con un paisaje sonoro natural para un mejor enfoque y armonía. | :white_check_mark: |
 | [Gifts Genie](http://gen.gifts?ref=aicollection) | Genie - Generador de regalos con IA. | . | :grey_question: |
 | [Glasp](http://glasp.co?ref=aicollection) | Glasp: resaltador web social. | Resalte y agregue notas mientras lee. Cree una biblioteca de su aprendizaje. | :grey_question: |
 | [GooseAI](http://goose.ai?ref=aicollection) | gansoai. | . | :grey_question: |
-| [Graham AI](http://www.grahamai.co?ref=aicollection) | Graham.Ai - Generador de tweets tecnológicos. | . | :grey_question: |
 | [H2O AI](http://h2o.ai?ref=aicollection) | H2O.Ai - Plataforma de nube de IA. | . | :grey_question: |
 | [Handywriter](http://handyplugins.co?ref=aicollection) | Handyplugins: complementos de Wordpress bien elaborados. | . | :grey_question: |
 | [Headline-ai](http://headline-ai.com?ref=aicollection) | Titular IA. | . | :grey_question: |
@@ -1036,7 +1076,6 @@
 | [Jenni](http://jenni.ai?ref=aicollection) | Potencie su escritura con Jenni AI. | . | :grey_question: |
 | [Jinnee](http://jinnee.co?ref=aicollection) | . | . | :grey_question: |
 | [Kinestex](http://www.kinestex.com?ref=aicollection) | Kinestex - Entrenador de IA en tu teléfono. | . | :grey_question: |
-| [Kive](http://www.kive.ai?ref=aicollection) | Kive - Lienzo de IA. | toda tu inspiración en un solo lugar. | :grey_question: |
 | [Kore.ai](http://kore.ai?ref=aicollection) | Plataforma de optimización de experiencia AI-First para empresas. | Kore.ai automatiza las interacciones de front-office y back-office para todas las industrias mediante la implementación de asistentes virtuales y asistentes de procesos conversacionales basados en IA. | :grey_question: |
 | [Langotalk](http://www.langotalk.org?ref=aicollection) | Langotalk: aprende idiomas 6 veces más rápido con IA. | Tenga conversaciones seguras en semanas en lugar de años. | :grey_question: |
 | [Letsenhance](http://letsenhance.io?ref=aicollection) | LetâS Enhance: aplicación en línea de calidad de imagen y ampliadora de fotos gratuita. | Software de IA para mejorar y mejorar las imágenes. Aumenta la resolución y la calidad. Corrija imágenes borrosas, pixeladas y malas. Haz que cada foto sea nítida y clara. | :white_check_mark: |
@@ -1049,7 +1088,6 @@
 | [Make3D](http://make3d.app?ref=aicollection) | Haz tu imagen en 3D. | . | :grey_question: |
 | [Mapwith.ai](http://mapwith.ai?ref=aicollection) | Usando IA para mapear el mundo. | Junto con OpenStreetMap, estamos creando herramientas que esperamos permitan a la comunidad cartográfica disfrutar de una experiencia cartográfica más rápida y precisa. | :grey_question: |
 | [Masterpiece Studio](http://masterpiecestudio.com?ref=aicollection) | Estudio de obra maestra. | . | :grey_question: |
-| [Midjourney](http://www.midjourney.com?ref=aicollection) | a mitad de camino. | Un laboratorio de investigación independiente que explora nuevos medios de pensamiento y expande los poderes imaginativos de la especie humana. | :grey_question: |
 | [Mokker](http://mokker.ai?ref=aicollection) | Mokker IA. | Generación de fotos impulsada por IA para comercio electrónico. | :grey_question: |
 | [Moonbeam](http://www.gomoonbeam.com?ref=aicollection) | Rayo de luna - Nunca vuelvas a escribir desde cero. | . | :grey_question: |
 | [Movio](http://www.movio.la?ref=aicollection) | Movio - Generador de video de portavoz de IA. | . | :grey_question: |
@@ -1060,7 +1098,6 @@
 | [NMKD Stable Diffusion](http://nmkd.itch.io?ref=aicollection) | N00Mkrad - Itch.Io. | . | :grey_question: |
 | [NSFW JS](http://nsfwjs.com?ref=aicollection) | NSFW Js. | . | :grey_question: |
 | [Natural Language Playlist](http://www.naturallanguageplaylist.com?ref=aicollection) | Lista de reproducción de lenguaje natural. | . | :grey_question: |
-| [NaturalReader](http://www.naturalreaders.com?ref=aicollection) | Voces AI - Naturalreader Inicio. | . | :grey_question: |
 | [Neural Studio](http://neural.cam?ref=aicollection) | Neuralcam. | con procesamiento de imágenes impulsado por IA. | :grey_question: |
 | [Neural.Love](http://neural.love?ref=aicollection) | Generador de imágenes de IA gratuito y mejora de IA - Neural.Love. | Use AI Image Generator gratis o AI Enhance, o acceda a millones de imágenes de dominio público: AI Enhance y herramientas de IA en línea fáciles de usar. | :white_check_mark: |
 | [Neuralblender](http://neuralblender.com?ref=aicollection) | Neuralblender.Com. | . | :grey_question: |
@@ -1077,7 +1114,6 @@
 | [Oda Studio](http://stager.odastudio.ai?ref=aicollection) | Moodboard de Oda. | Elige tu estilo y color para personalizar tu hogar en segundos con IA. | :grey_question: |
 | [Olli](http://www.olli.ai?ref=aicollection) | Olli.Ai - Su Analista de Datos Personales. | Olli es la plataforma de IA para crear visualizaciones de datos 10 veces más rápido: es como tener un asistente que se ocupa de las partes molestas de encontrar datos, crear visualizaciones y prepararlas para las presentaciones. | :grey_question: |
 | [Once Upon A Bot](http://onceuponabot.com?ref=aicollection) | Érase una vez un bot • Crea historias para niños con IA. | Cuéntale a OnceUponABot la idea de tu historia y el robot escribirá una historia desde cero usando IA. Luego puede leer, editar, exportar y compartir sus creaciones. | :x: |
-| [Opus](http://opus.ai?ref=aicollection) | Sitio web de Opus. | . | :grey_question: |
 | [Orchard](http://orchard.ink?ref=aicollection) | Huerta. | . | :grey_question: |
 | [Outdone V2](http://www.outdone.io?ref=aicollection) | superado. | . | :grey_question: |
 | [Paperade](http://www.paperade.co?ref=aicollection) | Generador de ideas para startups de Paperade. | Paperade es la primera herramienta impulsada por IA que genera casos de uso comercial e ideas empresariales a partir de más de 100 millones de artículos académicos y estudios de investigación. | :grey_question: |
@@ -1092,8 +1128,6 @@
 | [Phantasmagoria](http://www.phantasmagoria.me?ref=aicollection) | . | . | :grey_question: |
 | [Phase](http://www.phase.art?ref=aicollection) | ¡Bienvenidos a Fase!. | . | :grey_question: |
 | [Photoleap](http://www.photoleapapp.com?ref=aicollection) | Texto a imagen: aplicación de edición de fotos creativa y potente de Lightricks. | Use el editor de fotos todo en uno Photoleap para creaciones increíbles en su iPhone: cambie fondos, elimine objetos, cree collages, aplique filtros y efectos. | :white_check_mark: |
-| [Phraser](http://phraser.tech?ref=aicollection) | Phraser la herramienta de IA creativa colaborativa. | Phraser es una aplicación que te ayuda a crear imágenes usando IA generativa (Midjourney, Stable Diffusion y DALLE 2), colaborar e inspirarte. | :grey_question: |
-| [Phygital](http://phygital.plus?ref=aicollection) | . | . | :grey_question: |
 | [PicSo](http://picso.ai?ref=aicollection) | Generador de arte Picso AI. | PicSo es una aplicación AI Art Generator de texto a imagen y una plataforma en línea para el arte digital creativo. Prueba GRATIS y convierte tus ideas en arte NFT, pintura al óleo y más. | :white_check_mark: |
 | [PictoDream](http://pictodream.com?ref=aicollection) | Genere imágenes de usted mismo con IA - Pictodream.Com. | Genere cualquier imagen de usted mismo (o de otra persona) en cualquier estilo o configuración utilizando una descripción de texto simple. | :grey_question: |
 | [Pictorial](http://www.pictorial.ai?ref=aicollection) | Pictorial: cree gráficos sin esfuerzo para sus aplicaciones web. | La inspiración es difícil de conseguir. Transmita su mensaje sin complicaciones al aprovechar una IA capaz de generar obras maestras visuales confiables y listas para usar. | :grey_question: |
@@ -1102,11 +1136,8 @@
 | [Pixelmind](http://beta.pixelmind.ai?ref=aicollection) | Pixelmind: arte y acuñación impulsados por IA para NFTS. | Tu viaje hacia el arte impulsado por IA. Cree y recopile NFT a través del portal Pixelmind. Evoluciona tu estilo. Eleva tu juego. | :grey_question: |
 | [Pixelz AI](http://pixelz.ai?ref=aicollection) | Generador de arte Pixelz AI. | Cree obras de arte únicas de IA usando texto, frases, imágenes y ajustes preestablecidos, comparta, descargue, imprima y acuñe como NFT. | :grey_question: |
 | [Poised 2.0](http://www.poised.com?ref=aicollection) | Poised - Entrenador de comunicación gratuito impulsado por IA. | . | :white_check_mark: |
-| [Pollinations](http://pollinations.ai?ref=aicollection) | Polinizaciones.Ai. | . | :grey_question: |
 | [Poly AI](http://poly.ai?ref=aicollection) | . | . | :grey_question: |
 | [Polymath Robotics](http://www.polymathrobotics.com?ref=aicollection) | Robótica Polímata. | Autonomía mágicamente simplificada para vehículos industriales. | :white_check_mark: |
-| [Ponzu.gg](http://www.ponzu.gg?ref=aicollection) | Ponzu. | AI generó mapas de textura PBR para cualquier idea, en segundos. | :grey_question: |
-| [Portrait by Vana](http://portrait.vana.com?ref=aicollection) | Retrato - Vana. | “Portrait” de Vana es un estudio de arte generativo que puede crear autorretratos tuyos en infinitos estilos. | :grey_question: |
 | [Post Parrot](http://postparrot.xyz?ref=aicollection) | Post Parrot: una herramienta de marketing gratuita para Reddit. | . | :white_check_mark: |
 | [Predis](http://predis.ai?ref=aicollection) | Marketing en redes sociales simplificado con IA - Predis.Ai. | . | :grey_question: |
 | [Prettysmart.co](http://prettysmart.co?ref=aicollection) | Muy inteligente. | . | :grey_question: |
@@ -1126,11 +1157,9 @@
 | [RTutor](http://rtutor.ai?ref=aicollection) | Tutor. | . | :grey_question: |
 | [Raplyrics](http://raplyrics.eu?ref=aicollection) | Raplyrics: genera tus remates de música rap. | ¡Escriba algunas palabras en el mensaje a continuación y genere un remate de música rap único usando Inteligencia Artificial!. | :grey_question: |
 | [Rationale](http://rationale.jina.ai?ref=aicollection) | Justificación: una herramienta revolucionaria para la toma de decisiones impulsada por el último GPT y el aprendizaje en contexto. | . | :grey_question: |
-| [Rayst Gradients](http://gradients.ray.st?ref=aicollection) | Gradientes de rayos. | Una colección de 64 hermosos degradados generados por IA. | :grey_question: |
 | [Recommendme](http://www.recommendme.to?ref=aicollection) | Recomiéndame. | . | :grey_question: |
 | [Redacta.me](http://www.redacta.me?ref=aicollection) | Redacta.Me - Tu Community Manager Virtual. | . | :grey_question: |
 | [Reface](http://hey.reface.ai) | Revestir de nuevo. ser cualquiera. | Cree videos, GIF y memes de intercambio de caras realistas con solo una selfie. | :grey_question: |
-| [RestorePhotos.io](https://www.restorephotos.io/?ref=aicollection) | Restauración de fotos antiguas con IA para todos. | ¿Tienes fotos de caras viejas y borrosas? Deje que nuestra IA los restaure para que esos recuerdos puedan vivir. 100% gratis: restaura tus fotos hoy. | :white_check_mark: |
 | [ResumAI](http://www.wonsulting.com?ref=aicollection) | Wonsulting - Encontramos trabajos de ensueño. | Hemos ayudado a más de 100.000 personas a conseguir el trabajo de sus sueños. Deje que nuestras estrategias de búsqueda de empleo lo lleven de currículums a días mejores. | :grey_question: |
 | [Resume Studio](http://resumestudio.careers?ref=aicollection) | . | . | :grey_question: |
 | [Reviewgenerator](http://reviewgenerator.app?ref=aicollection) | Reviewgenerator.App. | . | :grey_question: |
@@ -1139,13 +1168,11 @@
 | [Rewind](http://www.rewind.ai?ref=aicollection) | Rebobinar. | . | :grey_question: |
 | [Rick and Mortify](http://rickandmortify.com?ref=aicollection) | Rick y mortificar. | . | :grey_question: |
 | [Riku](http://riku.ai?ref=aicollection) | Riku.Ai: cree conjuntos de datos y avisos sin código para modelos de IA. | . | :grey_question: |
-| [Roamr](http://www.letsroam.app?ref=aicollection) | Roamr - Tus vacaciones soñadas en segundos. | . | :grey_question: |
 | [SQLgenius](http://sqlgenius.app?ref=aicollection) | SQL Genius - Traductor de IA de consultas de inglés a SQL. | . | :grey_question: |
 | [SUPERMACHINE](http://supermachine.art?ref=aicollection) | Supermachine - Genere fotos, arte e imágenes de stock con IA. | SUPERMACHINE te permite generar imágenes con lo último en tecnología de inteligencia artificial. | :grey_question: |
 | [SafeSpelling](http://safespelling.com?ref=aicollection) | Safespelling - Escribe sin errores. | . | :grey_question: |
 | [Scale Catalog Forge](http://scale.com?ref=aicollection) | Scale Ai: la plataforma de datos para IA. | Scale, que cuenta con la confianza de empresas de clase mundial, ofrece datos de capacitación de alta calidad para aplicaciones de inteligencia artificial, como automóviles autónomos, mapeo, AR/VR, robótica y más. | :x: |
 | [Scene One](http://sceneone.app?ref=aicollection) | Aplicación de escritura de libros en línea para novelas, cuentos y negocios. | Escriba más historias con nuestra aplicación de escritura intuitiva y pase menos tiempo aprendiendo funciones complicadas. | :grey_question: |
-| [Scispace](http://typeset.io?ref=aicollection) | Scispace by Typeset: descubra, cree, publique y promueva su trabajo de investigación. | Tu plataforma para explorar y explicar papers. Busque más de 270 millones de artículos, entiéndalos en un lenguaje sencillo y encuentre artículos, autores y temas relacionados. | :grey_question: |
 | [Scribe](http://vienna.earth?ref=aicollection) | . | . | :grey_question: |
 | [Sitekick](http://www.sitekick.ai?ref=aicollection) | Creador de páginas de aterrizaje con IA. | . | :grey_question: |
 | [Snackable AI](http://snackable.ai?ref=aicollection) | Aperitivo. | . | :grey_question: |
@@ -1188,21 +1215,15 @@
 | [Titan](http://www.compliancequarter.com.au?ref=aicollection) | Sistemas y recursos expertos en cumplimiento - Trimestre de cumplimiento. | Sistema de gestión de cumplimiento normativo y experiencia para energía, servicios financieros y otras industrias reguladas. Ofrecemos sistemas y servicios expertos para quitarle de encima la carga normativa. | :grey_question: |
 | [Torto.ai](http://torto.ai?ref=aicollection) | Mercado de valores simplificado. | . | :grey_question: |
 | [Traq.ai](http://www.traq.ai?ref=aicollection) | . | . | :grey_question: |
-| [Tribescaler](http://tribescaler.com?ref=aicollection) | Tribescaler. | . | :grey_question: |
 | [Tunes For Tales](http://tunesfortales.fun?ref=aicollection) | Melodías para cuentos. | . | :grey_question: |
 | [TutorAI](http://www.tutorai.me?ref=aicollection) | Aprende cualquier cosa. | . | :grey_question: |
-| [TweetAI](http://tweetai.com?ref=aicollection) | Inspírate para twittear • Tweetai.Com. | Twittear IA. | :grey_question: |
-| [TweetEmote](http://www.tweetemote.com?ref=aicollection) | Tweetemote. | . | :grey_question: |
 | [Tweetnimage](http://tweetnimage.com?ref=aicollection) | Tweetnimagen. | . | :grey_question: |
-| [Tweetsift](http://tweetsift.com?ref=aicollection) | Tweetsift. | . | :grey_question: |
 | [Twelve Labs](http://twelvelabs.io?ref=aicollection) | doce laboratorios. | . | :grey_question: |
 | [USP](http://usp.ai?ref=aicollection) | Maximice su blog - Usp.Ai. | Impresionantes IMÁGENES LIBRES DE DERECHOS generados por IA para sus historias y publicaciones de blog. | :white_check_mark: |
 | [Uizard](http://uizard.io?ref=aicollection) | Uizard - Diseño de aplicación, web y interfaz de usuario simplificado - Desarrollado por IA. | . | :grey_question: |
 | [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?ref=aicollection) | Además: Sugerencia de habilidad automatizada. | . | :grey_question: |
-| [Underduck](http://uberduck.ai?ref=aicollection) | Uberduck: texto a voz, automatización de voz, medios sintéticos. | . | :grey_question: |
 | [Unpromptedgame](http://www.unpromptedgame.com?ref=aicollection) | . | . | :grey_question: |
 | [Unrealme](http://unrealme.io?ref=aicollection) | yo irreal. | . | :grey_question: |
-| [Userevaluation](http://www.userevaluation.com?ref=aicollection) | Evaluación del usuario la plataforma de comprensión del cliente. | Ya sea que esté enfocado en UI, UX Research, Design o CX, la IA de User Evaluation puede responder todas sus preguntas. | :white_check_mark: |
 | [Userpersona](http://userpersona.dev?ref=aicollection) | User Persona - Personas de usuario generadas por IA. | . | :grey_question: |
 | [Validator AI](http://www.validatorai.com?ref=aicollection) | Validatorai.Com: ayuda y comentarios instantáneos con nuestras herramientas de validación de inicio para emprendedores. | . | :grey_question: |
 | [Vee](http://vee.ai?ref=aicollection) | Un consultor inteligente con el que la gente disfruta hablando. Z Którą Ludzie Lubią Rozmawiać. | Vee ya ha hablado con 5 millones de polacos, implementando efectivamente procesos comerciales para docenas de empresas de diversas industrias. Vee przeprowadziła rozmowy już z ponad 5 milionami Polaków, skutecznie realizując procesy biznesowe dla dziesiątek firm z różnych branż. | :grey_question: |
@@ -1211,9 +1232,7 @@
 | [Visuali](http://visuali.io?ref=aicollection) | Visuali. | Generación de imágenes de IA simplificada. | :grey_question: |
 | [Vocads Survey](http://www.vocads.com?ref=aicollection) | . | . | :grey_question: |
 | [Voice AI](http://voice.ai?ref=aicollection) | Aplicación AI Voice Changer para PC y Mac - Cambia tu voz sobre la marcha. | . | :grey_question: |
-| [Voicemaker](http://voicemaker.in?ref=aicollection) | Voicemaker® - Convertidor de texto a voz. | . | :grey_question: |
 | [Voicemod](http://www.voicemod.net?ref=aicollection) | Modulador y cambiador de voz en tiempo real gratuito - Voicemod. | Exprésate con nuestro cambiador de voz AI en tiempo real y caja de resonancia para ser quien quieras, cuando quieras en el metaverso. Cree su identidad sonora para plataformas como Roblox, OBS, VRChat, Discord y más. | :white_check_mark: |
-| [Voicera](http://www.voicera.co?ref=aicollection) | Voicera - Dale voz a tus artículos y blogs. | . | :grey_question: |
 | [Waifu XL](http://waifuxl.com?ref=aicollection) | Waifuxl. | . | :grey_question: |
 | [Waifulabs](http://waifulabs.com?ref=aicollection) | Waifu Labs - Retratos mágicos de anime. | ¡Una IA de última generación que dibuja retratos de anime personalizados, solo para ti! Este artista de aprendizaje automático descubre sus preferencias y crea una ilustración de personaje perfecta en 4 sencillos pasos. Si suena como magia, ¡es porque lo es!. | :grey_question: |
 | [Watermark Remover](http://www.watermarkremover.io?ref=aicollection) | Eliminador de marcas de agua: elimine marcas de agua en línea de imágenes de forma gratuita. | Deshazte de las marcas de agua de tus imágenes usando nuestra poderosa tecnología de IA. | :white_check_mark: |

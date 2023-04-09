@@ -23,7 +23,7 @@
     <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=838" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=35" />
+    <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=37" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -68,6 +68,7 @@
 - 🤪 [乐趣](#乐趣)
 - 👩‍💼 [人力资源与简历](#人力资源与简历)
 - 💻 [代码和数据库助手](#代码和数据库助手)
+- 🏖 [假期和旅行计划](#假期和旅行计划)
 - 📠 [内容生成和搜索引擎优化](#内容生成和搜索引擎优化)
 - ✍️ [写作助理](#写作助理)
 - 🧰 [创作者工具包](#创作者工具包)
@@ -88,6 +89,7 @@
 - 📢 [演讲](#演讲)
 - 📸 [照片和图像编辑](#照片和图像编辑)
 - 📧 [电子邮件助理](#电子邮件助理)
+- 🎓 [研究助理](#研究助理)
 - 🎁💡 [礼物创意](#礼物创意)
 - 💞 [社交网络和约会](#社交网络和约会)
 - 🧞‍♂️ [组织与自动化](#组织与自动化)
@@ -109,6 +111,7 @@
 | [AI Pokemon generator](http://nokemon.eloie.tech?ref=aicollection) | 使用 AI 生成 Fakemon. | . | :grey_question: |
 | [Ask RBG](http://ask-rbg.ai?ref=aicollection) | RBG（可能）会说什么？. | 一项 AI 实验：让大法官 Ruth Bader Ginsburg 就您心中想要的任何问题做出决定。 AI21 Labs 的第一个 AI Drop。. | :white_check_mark: |
 | [Askmybook](http://askmybook.com?ref=aicollection) | 问我的书：极简主义企业家. | 这是一项使用 AI 使我的书的内容更易于访问的实验。提出问题，AI 会实时回答：. | :white_check_mark: |
+| [Blackink](http://blackink.ai?ref=aicollection) | 在几秒钟内创建您自己独特的闪光纹身. | 停止花费数月时间在 Pinterest 上搜索你的下一个纹身。使用 BlackInk 的 AI 在几秒钟内生成定制的独特纹身，专为您打造类似纹身的设计. | :white_check_mark: |
 | [Botify](http://botif.ai?ref=aicollection) | 人工智能. | 与您最喜欢的角色进行有趣的聊天. | :grey_question: |
 | [CharacterAI](http://beta.character.ai?ref=aicollection) | Character.AI 可让您创建角色并与他们交谈。. | 角色可以是任何东西。我们突破性的 AI 技术可以将您的所有想法变为现实。. | :white_check_mark: |
 | [Excuses AI](http://excuses.ai?ref=aicollection) | 借口生成器. | 使用人工智能生成完美的专业借口. | :grey_question: |
@@ -172,6 +175,17 @@
 | [aidev.codes](https://aidev.codes/?ref=aicollection) | 为您编写 AI 开发代码. | 只需输入规格即可创建简单的应用程序和演示——一种新型的 AI 提示工程。. | :white_check_mark: |
 
 <!--End of 代码和数据库助手 4-->
+
+<!--lint ignore double-link-->
+**[⬆ 返回索引](#index)**
+
+## 假期和旅行计划
+| 姓名 | 标题 | 描述 | 提供免费版本 |
+|---|---|---|:---:|
+| [Roamr](http://www.letsroam.app?ref=aicollection) | Roamr - 在几秒钟内完成您的梦想假期. | . | :grey_question: |
+| [Vacay](https://usevacay.com/chatbot?ref=aicollection) | 假期聊天代理. | 这个 AI 助手可以设计定制旅行，为您提供去哪里的灵感，甚至可以为酒店、餐厅和景点生成本地推荐。. | :white_check_mark: |
+
+<!--End of 假期和旅行计划 36-->
 
 <!--lint ignore double-link-->
 **[⬆ 返回索引](#index)**
@@ -261,6 +275,7 @@
 | [Hotpot](http://hotpot.ai?ref=aicollection) | 火锅人工智能. | Hotpot.ai 帮助您创建令人惊叹的图形、图片和文本。 AI Art Generator 等 AI 工具可以激发创造力并自动完成繁琐的工作，而易于编辑的模板使任何人都可以创建设备模型、社交媒体帖子、营销图片、应用程序图标和其他工作图形。. | :grey_question: |
 | [Lightricks](http://www.lightricks.com?ref=aicollection) | 各地创作者的家园. | 使用面向创作者的最佳工具和服务体验创作的魔力：Facetune 2、Videoleap、Linkinbio 和 Photoleap。现在检查一下！. | :grey_question: |
 | [Media.io](https://www.media.io/?ref=beth0) | 由人工智能驱动的在线视频、音频、图像创意平台. | 简单。多样性。灵活性。. | :white_check_mark: |
+| [Phygital](http://phygital.plus?ref=aicollection) | 拥有超能力的创作者. | 基于节点的 AI 工作区，供创作者在没有代码的情况下使用神经网络。 （Α）. | :grey_question: |
 | [Runway](http://runwayml.com?ref=aicollection) | Runway - 下一代创作套件 - 快速制作内容所需的一切。. | 探索高级视频编辑功能，让您的创作更上一层楼。. | :white_check_mark: |
 
 <!--End of 创作者工具包 6-->
@@ -336,6 +351,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [DoNotPay](https://donotpay.com/?ref=aicollection) | 世界上第一个机器人律师. | 用人工智能让法律信息触手可及. | :grey_question: |
+| [Equally.ai](http://equally.ai?ref=aicollection) | 所有人的 Web 可访问性合规性. | 轻松实现 ADA 和 WCAG 合规性. | :white_check_mark: |
 | [Paralegal AI](http://www.legalquestions.help?ref=aicollection) | 律师助理人工智能. | 人工智能驱动的法律研究和总结。. | :white_check_mark: |
 | [PatentPal](http://patentpal.com?ref=aicollection) | 知识产权的生成人工智能. | 在您的专利申请中自动机械书写. | :white_check_mark: |
 | [Spellbook](https://www.spellbook.legal/?ref=aicollection) | 使用 AI 将合同起草速度提高 3 倍. | Spellbook 使用 GPT-3 在 Microsoft Word 中为您的合同审查和建议语言。. | :grey_question: |
@@ -454,15 +470,22 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [Article.Audio](http://article.audio?ref=aicollection) | 将文章转换为音频. | 懒得看文章？没问题，听听吧！由 Thundercontent 提供支持. | :white_check_mark: |
+| [Createaivoiceovers](http://createaivoiceovers.com?ref=aicollection) | 文字转语音在线语音生成器，文字转语音生成器 - 逼真的声音 - 创建 Ai 配音. | . | :grey_question: |
 | [Eleven](https://beta.elevenlabs.io/?ref=aicollection) | Prime语音人工智能. | 有史以来最逼真、最通用的 AI 语音软件。 Eleven 为寻求终极讲故事工具的创作者和出版商带来了最引人注目、最丰富和最逼真的声音。. | :white_check_mark: |
+| [FakeYou](http://fakeyou.com?ref=aicollection) | 假你。深假文本到语音。. | . | :grey_question: |
+| [Free Text-To-Speech](http://www.text-to-speech.online?ref=aicollection) | 免费的文本到语音在线转换器工具. | . | :white_check_mark: |
 | [Listnr 2.0](https://www.listnr.tech/?gr_pk=V71a&gr_uid=YVDO) | AI 语音生成器 - 文本到语音转换器 - Listnr. | 使用我们的 AI 语音生成器和最佳合成语音生成逼真的文本到语音 (TTS) 音频。立即将文本转换为听起来自然的语音并以 MP3 和 WAV 格式下载。. | :x: |
 | [Lovo](http://www.lovo.ai?ref=aicollection) | LOVO AI - 自然语音在线免费文字转语音. | . | :white_check_mark: |
 | [Murf.ai](http://murf.ai?ref=aicollection) | 使用多功能 AI 语音生成器从文本到语音. | 启用 AI，真人的声音。在几分钟内制作出录音棚品质的配音。将 Murf 逼真的 AI 声音用于播客、视频和所有专业演示. | :white_check_mark: |
+| [NaturalReader](http://www.naturalreaders.com?ref=aicollection) | AI 语音 - NaturalReader 主页. | . | :grey_question: |
 | [Play.ht](http://play.ht?ref=aicollection) | 人工智能驱动的文本到语音生成器. | 使用我们的在线 AI 语音生成器和最佳合成语音生成逼真的文本到语音 (TTS) 音频。立即将文本转换为听起来自然的语音并下载为 MP3 和 WAV 音频文件。. | :white_check_mark: |
 | [Speech-to-Speech](http://www.resemble.ai?ref=aicollection) | 您完整的生成语音 AI 工具包. | Resemble 的 AI 语音生成器可让您在几秒钟内创建类似人类的配音。. | :x: |
 | [Speechelo](http://speechelo.com?ref=aicollection) | Speechelo - 只需单击 3 次即可从文本生成语音。最逼真的发声文本到音频转换器. | 我们保证没有人会说您的画外音是 A.I.使用文本到语音工具生成. | :grey_question: |
 | [Speechify](http://speechify.com?ref=aicollection) | 排名第一的文本转语音阅读器. | 使用我们领先的文本转语音阅读器收听文档、文章、PDF、电子邮件 - 您阅读的任何内容。. | :white_check_mark: |
+| [Underduck](http://uberduck.ai?ref=aicollection) | Uberduck - 文字转语音、语音自动化、合成媒体. | . | :grey_question: |
 | [VERBATIK](http://verbatik.com?ref=aicollection) | AI 驱动的文本到语音生成。. | 使用在线 AI 语音生成器和最佳合成语音生成逼真的文本到语音 (TTS) 音频。立即将文本转换为听起来自然的语音并下载为 MP3 和 WAV 音频文件。. | :x: |
+| [Voicemaker](http://voicemaker.in?ref=aicollection) | Voicemaker® - 文本到语音转换器. | . | :grey_question: |
+| [Voicera](http://www.voicera.co?ref=aicollection) | Voicera - 为您的文章和博客发声. | . | :grey_question: |
 | [Wellsaid](http://wellsaidlabs.com?ref=aicollection) | 将文本实时转换为语音. | 借助 WellSaid，您和您的团队可以为所有数字内容创建引人入胜的逼真 AI 配音。. | :white_check_mark: |
 
 <!--End of 文字转语音 23-->
@@ -570,6 +593,7 @@
 | [Prisma](https://prisma-ai.com/prisma?ref=aicollection) | Prisma 捕捉照片的本质，将它们变成生动的彩色画作. | . | :white_check_mark: |
 | [Prisma](https://prisma-ai.com/lensa?ref=aicollection) | Lensa 是一款一体化图像编辑应用程序，可让您的照片更上一层楼。. | . | :white_check_mark: |
 | [Remover.app](http://remover.zmo.ai?ref=aicollection) | 在几秒钟内免费删除任何不需要的东西. | . | :white_check_mark: |
+| [RestorePhotos.io](https://www.restorephotos.io/?ref=aicollection) | 为所有人使用 AI 修复旧照片. | 有旧的和模糊的面部照片吗？让我们的 AI 恢复它们，让这些记忆得以延续。 100% 免费 – 立即恢复您的照片. | :white_check_mark: |
 | [SceneryAI](http://sceneryai.com?ref=aicollection) | 风景AI. | 使用我们的 AI 图像编辑工具生成或更新现有图像。. | :grey_question: |
 | [Stillgram](http://stillgram.io?ref=aicollection) | Stillgram™ - 人工智能适用于 iPhone® 的旅行照片相机应用程序. | Stillgram 是一个 A.I.傻瓜相机应用程序，可以神奇地从您的城市/旅行照片中移除背景人群. | :white_check_mark: |
 | [Topaz Photo AI](http://www.topazlabs.com?ref=aicollection) | Topaz Labs：AI 图像质量软件. | 由深度学习提供支持的照片和视频增强软件可为您提供可用于降噪、锐化、放大等的最佳图像质量。. | :grey_question: |
@@ -603,6 +627,17 @@
 <!--lint ignore double-link-->
 **[⬆ 返回索引](#index)**
 
+## 研究助理
+| 姓名 | 标题 | 描述 | 提供免费版本 |
+|---|---|---|:---:|
+| [Elicit](http://elicit.org?ref=aicollection) | 引出：人工智能研究助理. | Elicit 使用机器学习来帮助您进行研究：查找论文、提取关键声明、总结、集思广益等等。. | :grey_question: |
+| [Scispace](http://typeset.io?ref=aicollection) | SciSpace by Typeset - 发现、创建、发布和推广您的研究论文. | 您探索和解释论文的平台。搜索超过 27000 万篇论文，用简单的语言理解它们，并找到相关的论文、作者和主题。. | :grey_question: |
+
+<!--End of 研究助理 35-->
+
+<!--lint ignore double-link-->
+**[⬆ 返回索引](#index)**
+
 ## 礼物创意
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
@@ -629,11 +664,15 @@
 |---|---|---|:---:|
 | [AI movie Club](http://www.ai-movie.club?ref=aicollection) | 爱影会. | AI-MOVIE CLUB是一个用人工智能创作电影的社交网络！. | :grey_question: |
 | [Elektrif](http://www.elektrif.ai?ref=aicollection) | 您的 🤖 强大的约会助手. | 第一套 AI 驱动的工具来增强你的约会生活 ⚡️. | :grey_question: |
+| [Graham AI](http://www.grahamai.co?ref=aicollection) | Graham.AI - 技术推文生成器. | . | :grey_question: |
 | [LoveGenius](https://www.lovegenius.io/?ref=aicollection) | 创建引人入胜且引人注目的约会简历，并在 Tinder、Bumble 和其他网站上获得更好的匹配！. | LoveGenius 是一款 AI 约会助手，可通过制作出色的约会档案来帮助吸引更好的匹配对象。它结合了机器学习算法、来自成功约会资料的数据，以及基于对约会教练和专家的采访的人类见解。. | :white_check_mark: |
 | [Postwise](http://postwise.ai?ref=aicollection) | Postwise - 使用 Twitter AI 编写、安排和成长. | 使用世界上最智能的 AI Twitter 工具编写、安排和成长. | :grey_question: |
 | [ReContent.AI](http://recontent.ai/?ref=aicollection) | ReContent.AI. | . | :white_check_mark: |
 | [Roast](https://roast.dating?ref=aicollection) | 约会应用程序个人资料 AI 分析 - 拍摄照片 AI 生成器. | ROAST 帮助人们将他们在 Tinder、Bumble 和 Hinge 等约会应用程序上的匹配度提高 10 倍。在 AI 的支持下，它提供了数据驱动的约会见解和专家建议，以提高他们匹配的数量和质量. | :grey_question: |
+| [Tribescaler](http://tribescaler.com?ref=aicollection) | 部落攀爬者. | . | :grey_question: |
 | [TweePT3](http://tweept3.com?ref=aicollection) | TweePT3 - 集成 Twitter 的 GPT3 推文编写器. | . | :grey_question: |
+| [TweetAI](http://tweetai.com?ref=aicollection) | 从推文中获得灵感 • TweetAI.com. | 鸣叫人工智能. | :grey_question: |
+| [TweetEmote](http://www.tweetemote.com?ref=aicollection) | 推文表情. | . | :grey_question: |
 | [Tweethunter](http://tweethunter.io?ref=aicollection) | Tweet Hunter - 获得更多 Twitter 关注者 - 推文、线程、调度程序、分析. | 获得销售、增长和新网络。比你目前正在尝试的更快。. | :grey_question: |
 | [Tweetspear](http://www.tweetspear.com?ref=aicollection) | Tweetspear - 提高你的推特参与度. | 通过 AI 支持的建议回复彻底改变您的 Twitter 参与度。. | :grey_question: |
 
@@ -647,7 +686,8 @@
 |---|---|---|:---:|
 | [BuildAI](https://www.buildai.space/?ref=aicollection) | 在几分钟内构建 AI 界面. | 输入基于用户文本输入输出文本的应用程序的描述，我们将为您打造！. | :grey_question: |
 | [Hexowatch](http://hexact.pxf.io/beth0) | 除了可用性和价格之外，第 3 方网站作为数据源、可视化网站监控、竞争对手跟踪。. | Hexowatch 是您的 AI 助手，可以监控任何网站的视觉、内容、源代码、技术、可用性或价格变化。. | :x: |
-| [KUBIYA](http://kubiya.ai/?ref=aicollection) | . | . | :grey_question: |
+| [KUBIYA](http://kubiya.ai/?ref=aicollection) | Devops 虚拟助理. | 通过对话式 AI 为开发人员提供安全、自助式的操作工作流程、云资源和组织知识访问. | :grey_question: |
+| [Kive](http://www.kive.ai?ref=aicollection) | Kive - 人工智能画布. | 您所有的灵感都集中在一个地方. | :grey_question: |
 | [Magical](https://www.getmagical.com/ai?ref=aicollection) | 让任务消失。喜欢魔术。. | 召唤 Magical AI 来完成您讨厌做的所有工作。随时随地从头开始创建消息、即时更新表单并自动执行烦人的任务。. | :white_check_mark: |
 | [Product Launch AI](https://shapenship.com/productlaunchai?ref=aicollection) | 释放 AI 的力量来加速您的产品发布. | 无需担心发布文案就可以进行出色的发布！. | :grey_question: |
 | [bardeen](https://www.bardeen.ai/ai?ref=aicollection) | 人工智能遇见自动化. | 即将于 2023 年推出 – Bardeen 将引入突破性的 AI 来自动化手动工作流程，节省您的时间并激发您的创造力。. | :grey_question: |
@@ -693,7 +733,6 @@
 | [HUMATA](https://www.humata.ai/?ref=aicollection) | 为您的文件聊天 GPT。. | 学习速度提高 100 倍，创建报告速度提高 100 倍，法律文件分析速度提高 100 倍，技术论文理解速度提高 100 倍。立即提出有关任何文件的问题并获得答案。. | :white_check_mark: |
 | [Keepi](https://www.keepi.ai/?ref=aicollection) | AI 胜过 WhatsApp。. | 随时随地访问当今最先进的 AI。 Keepi 将使您保持聪明并准备好相关知识。. | :white_check_mark: |
 | [NOLU](http://noluai.com?ref=aicollection) | 与 AI 交互应该很简单。. | 认识诺鲁。用于与 Open AI GPT-3 引擎交互的简单界面。. | :white_check_mark: |
-| [Vacay](https://usevacay.com/chatbot?ref=aicollection) | 假期聊天代理. | 这个 AI 助手可以设计定制旅行，为您提供去哪里的灵感，甚至可以为酒店、餐厅和景点生成本地推荐。. | :white_check_mark: |
 
 <!--End of 聊天机器人 3-->
 
@@ -757,17 +796,22 @@
 | [Krea](http://updates.krea.ai?ref=aicollection) | 人工智能画布. | 介绍 AI Canvas，作者：Krea. | :grey_question: |
 | [Leonardo](http://leonardo.ai?ref=aicollection) | 莱昂纳多艾. | 以 AI 驱动的速度和风格一致性为您的创意项目生成生产质量资产。. | :grey_question: |
 | [Mage Space](http://www.mage.space?ref=aicollection) | 创造任何东西. | . | :white_check_mark: |
+| [Midjourney](http://www.midjourney.com?ref=aicollection) | 中途. | 一个独立的研究实验室，探索新的思想媒介并扩展人类的想象力。. | :grey_question: |
 | [Neuralcanvas](http://neuralcanvas.io?ref=aicollection) | Neural Canvas - 人工智能漫画生成器。. | 在 AI 的支持下表达您的创造力 - 为您的漫画、博客文章、电子书、图画小说等创建 AI 生成的插图。. | :grey_question: |
 | [NightCafe](http://creator.nightcafe.studio?ref=aicollection) | 人工智能艺术生成器，人工智能艺术制造者. | 人工智能艺术生成器应用程序。 &#9989;快速&#9989;免费 &#9989;简单的。使用人工智能创作令人惊叹的艺术品。. | :white_check_mark: |
 | [Not Me Netlify](http://not-me.netlify.app?ref=aicollection) | Autoportrait - 创建 AI 人像. | 浏览数百万种风格或创建您自己的风格，生成 AI 自画像。. | :grey_question: |
 | [OddVibe](http://www.oddvibe.com?ref=aicollection) | OddVibe：令人不安的 AI 生成图像的最佳集合。. | 修复令人毛骨悚然的 AI 生成图像。但请注意，您可能再也睡不着了。. | :grey_question: |
 | [Partly](http://www.partly.ai?ref=aicollection) | 从你的照片中提取令人惊叹的艺术，来自 Partly AI. | 借助 AI 魔法，将您的照片变成艺术品！. | :grey_question: |
 | [Photosonic AI](http://photosonic.writesonic.com?ref=aicollection) | Photosonic AI Art Generator - 使用 AI 创建独特的图像. | 使用人工智能艺术生成器 Photosonic，将您的想象力转化为令人惊叹的数字艺术。凭借其创造性的建议，这款 Writesonic 的 AI 图像生成器可以帮助释放您的内在艺术家并与世界分享您的创作。. | :grey_question: |
+| [Phraser](http://phraser.tech?ref=aicollection) | Phraser——协作式创意 AI 工具. | Phraser 是一款应用程序，可帮助您使用生成式 AI（Midjourney、Stable Diffusion 和 DALLE 2）创建图像、协作并获得灵感. | :grey_question: |
 | [PirateDiffusion](http://scum.co?ref=aicollection) | 描述任何东西. | 获得逼真的高清图像，更多样式，无限制. | :white_check_mark: |
 | [Pixian](http://pixian.ai?ref=aicollection) | 去除图片背景, 免费高清, 无需注册 - 皮线.AI. | 删除图像背景，免费高清，无需注册. | :white_check_mark: |
 | [Playground](https://playgroundai.com/?ref=aicollection) | Playground AI - 在线 AI 图像创建器. | Playground AI 是一个免费使用的在线 AI 图像创建器。用它来创作艺术、社交媒体帖子、演示文稿、海报、视频、徽标等。. | :white_check_mark: |
+| [Pollinations](http://pollinations.ai?ref=aicollection) | 您的个性化媒体引擎. | 我们结合并微调算法以匹配任何美学，允许创建无限的、定制的 AI 媒体。. | :grey_question: |
+| [Portrait by Vana](http://portrait.vana.com?ref=aicollection) | 肖像 - 瓦娜. | Vana 的“Portrait”是一个生成式艺术工作室，可以用无限的风格为你创作自画像。. | :grey_question: |
 | [Prompt Art](http://promptart.labml.ai?ref=aicollection) | 稳定扩散游乐场. | . | :grey_question: |
 | [Quasi](http://quasi.market?ref=aicollection) | 我们让 AI 创作变得简单. | 利用 AI 的强大功能解锁，并通过简单易用的平台轻松创建各种类型的精彩内容。. | :white_check_mark: |
+| [Rayst Gradients](http://gradients.ray.st?ref=aicollection) | 光线渐变. | 由 AI 生成的 64 个美丽渐变的集合。. | :grey_question: |
 | [Re.Art AI Image Generator](http://reart.devvinay.in?ref=aicollection) | 生成图像。想象任何你想想象的！. | 这个 AI 图像生成器使用稳定扩散构建。保持此服务的运行您可以支持开发人员。. | :white_check_mark: |
 | [Removal.ai](http://removal.ai?ref=aicollection) | 背景去除器 - 创建透明背景. | 使用背景去除器从图像中在线去除背景。创建透明背景 - 立即免费下载高分辨率。. | :white_check_mark: |
 | [Remove.bg](http://www.remove.bg?ref=aicollection) | 从图像中删除背景 – remove.bg. | 只需单击一下，即可在 5 秒内自动删除图像背景。不要花费数小时手动挑选像素。立即上传您的照片，看看魔法。. | :white_check_mark: |
@@ -850,7 +894,9 @@
 | [Assetsai](http://www.assetsai.art?ref=aicollection) | 为您的游戏提供 AI 驱动、独特且精心策划的资产. | . | :grey_question: |
 | [Chess AI](http://betafish.gavinong.com?ref=aicollection) | Betafish.js - 国际象棋 AI. | . | :grey_question: |
 | [IRMO](http://www.irmoai.com?ref=aicollection) | 为创造而生。最好的 AI 应用程序. | 您的移动娱乐和 AI 艺术创作资源. | :white_check_mark: |
+| [Opus](http://opus.ai?ref=aicollection) | 作品网站. | . | :grey_question: |
 | [Plailabs](https://plailabs.com/?ref=aicollection) | 玩人工智能. | （动词）——为了娱乐和娱乐而从事人工智能，目标是发展不断扩大的游戏、娱乐、讲故事和技术领域。. | :grey_question: |
+| [Ponzu.gg](http://www.ponzu.gg?ref=aicollection) | 橙子. | AI 在几秒钟内为任何想法生成 PBR 纹理贴图。. | :grey_question: |
 | [Scenario](http://www.scenario.gg?ref=aicollection) | 设想. | 使用 Scenario 释放 AI 生成的游戏资产的力量。快速轻松地生成引人入胜的内容，以节省时间并激发创造力. | :grey_question: |
 | [charisma](https://charisma.ai/?ref=aicollection) | 为实时数字人类提供动力. | 对于游戏 • 元宇宙 • 虚拟现实 • 教育 • 电视和电影 • 出版及其他领域！. | :grey_question: |
 | [hidden door](https://www.hiddendoor.co/?ref=aicollection) | 你好，世界！. | 一种由叙事 AI 提供支持的新型社交角色扮演体验。. | :grey_question: |
@@ -877,6 +923,7 @@
 | [SaleWhale](http://salewhale.chat?ref=aicollection) | Sale Whale - AI 驱动的销售代表聊天机器人. | 我们使用世界上最好的 AI 模型提供出色的销售代表和客户支持聊天机器人。了解它将如何改善您的业务。. | :grey_question: |
 | [SimplePhones.ai](https://simplephones.ai/?ref=aicollection) | 绝不会错过客户的来电. | 转接未接来电或获取新号码，Simple Phones 将使用 AI 接听。您将免费获得为您的企业创建的电话代理。您只需为任何来电支付 19 美分/分钟. | :x: |
 | [Speaq.ai](https://www.speaq.ai/?ref=aicollection) | 为您的企业现成的转换 AI. | 我们的使命是通过人工智能彻底改变 B2B 营销和客户支持。使用 AI 轻松安排会议并验证出席情况。通过 AI 对话呼叫简化您的调查流程。. | :grey_question: |
+| [Userevaluation](http://www.userevaluation.com?ref=aicollection) | 用户评价-客户了解平台. | 无论您专注于 UI、UX 研究、设计还是 CX——用户评估的 AI 都可以回答您的所有问题. | :white_check_mark: |
 | [unbounce](http://unbounce.com?ref=aicollection) | 助您发展业务的智能营销工具. | 将更多的访问者变成客户。 Unbounce 是人工智能驱动的登陆页面构建器，具有智能功能，可让您在短短几分钟内创建美观、高效的营销活动。. | :x: |
 
 <!--End of 销售与市场营销 20-->
@@ -893,6 +940,7 @@
 | [Clip audio](http://www.clip.audio?ref=aicollection) | Clip - AI音频搜索引擎. | 音频搜索引擎. | :grey_question: |
 | [Coqui](http://coqui.ai?ref=aicollection) | 可奇. | 用于视频游戏、后期制作、配音等的直接情感生成 AI 声音……. | :grey_question: |
 | [Emergent Drums](http://audialab.com?ref=beth0) | 使用人工智能生成独特的鼓样本. | 使用我们的突破性插件生成无尽的鼓样本，全部免版税. | :x: |
+| [GetSound](https://www.getsound.ai/?ref=aicollection) | 欢迎来到热情好客的 Ai 音景的未来。. | 桑拿浴室、淋浴间和按摩区的放松音景。游泳池、海滩、花园或屋顶将获得完美的音景。让您的大堂、走廊或电梯再次与众不同。通过自然音景完成更多工作，获得更好的专注力和和谐感。. | :white_check_mark: |
 | [Krisp](http://krisp.ai?ref=aicollection) | 世界排名第一的降噪应用程序 - Krisp. | Krisp 的 AI 可以消除您所有通话中的背景声音、噪音和回声，让您高枕无忧。. | :white_check_mark: |
 | [LALAL.AI Voice Cleaner](http://www.lalal.ai/?fp_ref=beth0) | 从任何音频和视频中提取人声、伴奏和各种乐器. | 基于世界排名第一的 AI 驱动技术的高质量词干拆分。. | :grey_question: |
 | [Musico](http://www.musi-co.com?ref=aicollection) | Musico - 人工智能生成音乐. | Musico 是一个人工智能驱动的软件引擎，可以生成音乐。它可以对手势、动作、代码或其他声音做出反应。. | :grey_question: |
@@ -959,7 +1007,6 @@
 | [BetterWriter](http://betterwriter.ai?ref=aicollection) | 用 A.I. 写得更快BetterWriter.ai. | . | :grey_question: |
 | [BigJpg](http://bigjpg.com?ref=aicollection) | Bigjpg - 使用深度卷积神经网络的 AI 超分辨率无损图像放大/升级工具. | Bigjpg - 使用深度卷积神经网络的动漫风格艺术作品的图像超分辨率，没有质量损失。还支持照片。. | :grey_question: |
 | [Bito AI](http://bito.co?ref=aicollection) | 备户. | . | :grey_question: |
-| [Blackink](http://blackink.ai?ref=aicollection) | 在几秒钟内创建您自己独特的闪光纹身. | 停止花费数月时间在 Pinterest 上搜索你的下一个纹身。使用 BlackInk 的 AI 在几秒钟内生成定制的独特纹身，专为您打造类似纹身的设计. | :white_check_mark: |
 | [Blimey](http://blimeycreate.com?ref=aicollection) | 布莱米. | Blimey 是一个 ai 图像生成器，您可以在一分钟内将想法变为现实。完全控制构图、颜色和样式。. | :grey_question: |
 | [Bloomoon](http://www.bloomoon.art?ref=aicollection) | 花月. | 在 bloomoon 发现独特的 AI 生成的画作。. | :grey_question: |
 | [Boo AI](http://boo.ai?ref=aicollection) | . | . | :grey_question: |
@@ -982,7 +1029,6 @@
 | [Coverquick](http://www.coverquick.co?ref=aicollection) | 盖快. | 放心申请。. | :grey_question: |
 | [Cowriter](http://cowriter.org?ref=aicollection) | Co Writer - 你的 AI 伙伴，可以激发营销内容. | . | :grey_question: |
 | [Craiyon](http://www.craiyon.com?ref=aicollection) | Craiyon，前身为 DALL-E mini. | Craiyon 是一个 AI 模型，可以根据任何文本提示绘制图像！. | :grey_question: |
-| [Createaivoiceovers](http://createaivoiceovers.com?ref=aicollection) | 文字转语音在线语音生成器，文字转语音生成器 - 逼真的声音 - 创建 Ai 配音. | . | :grey_question: |
 | [DREAM.page](http://dream.page?ref=aicollection) | . | . | :grey_question: |
 | [Dadabots](http://dadabots.com?ref=aicollection) | 神经网络. | . | :grey_question: |
 | [Daft Art](http://www.daftart.ai?ref=aicollection) | Daft Art — 制作您梦寐以求的专辑封面. | Daft 允许您在几分钟内为您的专辑封面创建令人惊叹的高质量艺术品，由 AI 提供支持。. | :grey_question: |
@@ -1001,24 +1047,18 @@
 | [Ebsynth](http://ebsynth.com?ref=aicollection) | EbSynth - 通过在单帧上绘画来转换视频. | 您绘制一帧，EbSynth 将其传播到其余的素材。. | :grey_question: |
 | [Echowin](http://echo.win?ref=aicollection) | AI 支持的呼叫管理具有完全自然语言理解和针对每个场景的个性化响应。. | . | :grey_question: |
 | [Ecrett Music](http://ecrettmusic.com?ref=aicollection) | 创建免版税音乐的简单方法 - ecrett music. | . | :grey_question: |
-| [Elicit](http://elicit.org?ref=aicollection) | 引出：人工智能研究助理. | Elicit 使用机器学习来帮助您进行研究：查找论文、提取关键声明、总结、集思广益等等。. | :grey_question: |
-| [Equally.ai](http://equally.ai?ref=aicollection) | 所有人的 Web 可访问性合规性. | 轻松实现 ADA 和 WCAG 合规性. | :white_check_mark: |
 | [Everypixel](http://www.everypixel.com?ref=aicollection) | 库存图片搜索引擎 - 超过 50 个最佳来源 - Everypixel. | . | :grey_question: |
 | [ExactBuyer Search](http://www.exactbuyer.com?ref=aicollection) | ExactBuyer - 面向潜在客户团队的人工智能业务搜索. | . | :grey_question: |
-| [FakeYou](http://fakeyou.com?ref=aicollection) | 假你。深假文本到语音。. | . | :grey_question: |
 | [Fireflies](http://fireflies.ai) | Fireflies.ai - Fireflies AI 记事本和对话智能. | Fireflies.ai 帮助您的团队记录、转录、搜索和分析语音对话。. | :grey_question: |
 | [Flexberry AI Assistant](http://ai.flexberry.net?ref=aicollection) | 人工智能助手. | 这有助于将业务分析师用于处理需求和生成工件的时间减少 30%。. | :grey_question: |
 | [FoodAI](http://www.foodai.app?ref=aicollection) | FoodAI.app - 使用 AI 生成烹饪食谱！. | . | :grey_question: |
-| [Free Text-To-Speech](http://www.text-to-speech.online?ref=aicollection) | 免费的文本到语音在线转换器工具. | . | :white_check_mark: |
 | [Friday AI](http://www.heyfriday.ai?ref=aicollection) | HeyFriday - 终极人工智能作家. | . | :grey_question: |
 | [GGPredict](http://ggpredict.io?ref=aicollection) | GGPredict.io. | . | :grey_question: |
 | [GPTKey](http://gptkey.com?ref=aicollection) | GPTKey – 使用 GPT 键盘与 AI 一起书写. | 使用 GPT 自定义键盘扩展在任何应用程序中使用 AI 进行书写。. | :grey_question: |
 | [Genius Sheets](http://www.geniussheets.com?ref=aicollection) | Genius Sheets 财务自动化. | Genius Sheets AI Text To Reports 解决方案可帮助您更快地分析财务数据 - 使团队能够做出更好的决策。留在 Excel 和 Google 表格中，并通过实时数据连接自动化您的财务报告流程。. | :grey_question: |
-| [GetSound](https://www.getsound.ai/?ref=aicollection) | 欢迎来到热情好客的 Ai 音景的未来。. | 桑拿浴室、淋浴间和按摩区的放松音景。游泳池、海滩、花园或屋顶将获得完美的音景。让您的大堂、走廊或电梯再次与众不同。通过自然音景完成更多工作，获得更好的专注力和和谐感。. | :white_check_mark: |
 | [Gifts Genie](http://gen.gifts?ref=aicollection) | Genie - 人工智能礼物生成器. | . | :grey_question: |
 | [Glasp](http://glasp.co?ref=aicollection) | Glasp：社交网络荧光笔. | 阅读时突出显示并添加注释。创建您的学习图书馆. | :grey_question: |
 | [GooseAI](http://goose.ai?ref=aicollection) | 鹅AI. | . | :grey_question: |
-| [Graham AI](http://www.grahamai.co?ref=aicollection) | Graham.AI - 技术推文生成器. | . | :grey_question: |
 | [H2O AI](http://h2o.ai?ref=aicollection) | H2O.ai - 人工智能云平台. | . | :grey_question: |
 | [Handywriter](http://handyplugins.co?ref=aicollection) | HandyPlugins — 精心设计的 WordPress 插件. | . | :grey_question: |
 | [Headline-ai](http://headline-ai.com?ref=aicollection) | 头条AI. | . | :grey_question: |
@@ -1036,7 +1076,6 @@
 | [Jenni](http://jenni.ai?ref=aicollection) | 用 Jenni AI 增强你的写作. | . | :grey_question: |
 | [Jinnee](http://jinnee.co?ref=aicollection) | . | . | :grey_question: |
 | [Kinestex](http://www.kinestex.com?ref=aicollection) | KinesteX - 手机中的人工智能教练. | . | :grey_question: |
-| [Kive](http://www.kive.ai?ref=aicollection) | Kive - 人工智能画布. | 您所有的灵感都集中在一个地方. | :grey_question: |
 | [Kore.ai](http://kore.ai?ref=aicollection) | AI优先的企业体验优化平台. | Kore.ai 通过部署会话式 AI 优先虚拟助手和流程助手，为每个行业自动化前台和后台交互。. | :grey_question: |
 | [Langotalk](http://www.langotalk.org?ref=aicollection) | Langotalk：使用 AI 将语言学习速度提高 6 倍. | 在几周而不是几年内进行自信的对话。. | :grey_question: |
 | [Letsenhance](http://letsenhance.io?ref=aicollection) | Letâ¯s Enhance - 图像质量在线应用程序和免费照片放大器. | 用于增强和提升图片质量的 AI 软件。提高分辨率和质量。修复模糊、像素化和不良图像。让每张照片都清晰锐利。. | :white_check_mark: |
@@ -1049,7 +1088,6 @@
 | [Make3D](http://make3d.app?ref=aicollection) | 使您的图像 3D. | . | :grey_question: |
 | [Mapwith.ai](http://mapwith.ai?ref=aicollection) | 使用 AI 绘制世界地图. | 结合 OpenStreetMap，我们正在创建我们希望能够让地图社区享受更快、更准确的地图体验的工具。. | :grey_question: |
 | [Masterpiece Studio](http://masterpiecestudio.com?ref=aicollection) | 杰作工作室. | . | :grey_question: |
-| [Midjourney](http://www.midjourney.com?ref=aicollection) | 中途. | 一个独立的研究实验室，探索新的思想媒介并扩展人类的想象力。. | :grey_question: |
 | [Mokker](http://mokker.ai?ref=aicollection) | 莫克艾. | 适用于电子商务的人工智能照片生成. | :grey_question: |
 | [Moonbeam](http://www.gomoonbeam.com?ref=aicollection) | Moonbeam - 再也不要从头开始写了。. | . | :grey_question: |
 | [Movio](http://www.movio.la?ref=aicollection) | Movio - 人工智能发言人视频生成器. | . | :grey_question: |
@@ -1060,7 +1098,6 @@
 | [NMKD Stable Diffusion](http://nmkd.itch.io?ref=aicollection) | N00MKRAD - itch.io. | . | :grey_question: |
 | [NSFW JS](http://nsfwjs.com?ref=aicollection) | NSFW JS. | . | :grey_question: |
 | [Natural Language Playlist](http://www.naturallanguageplaylist.com?ref=aicollection) | 自然语言播放列表. | . | :grey_question: |
-| [NaturalReader](http://www.naturalreaders.com?ref=aicollection) | AI 语音 - NaturalReader 主页. | . | :grey_question: |
 | [Neural Studio](http://neural.cam?ref=aicollection) | 神经摄像头. | 具有人工智能驱动的图像处理. | :grey_question: |
 | [Neural.Love](http://neural.love?ref=aicollection) | 免费的 AI 图像生成器和 AI 增强 - neural.love. | 免费使用 AI 图像生成器或 AI 增强，或访问数百万个公共领域图像 - AI 增强和易于使用的在线 AI 工具. | :white_check_mark: |
 | [Neuralblender](http://neuralblender.com?ref=aicollection) | NeuralBlender 网站. | . | :grey_question: |
@@ -1077,7 +1114,6 @@
 | [Oda Studio](http://stager.odastudio.ai?ref=aicollection) | 尾田情绪板. | 选择你的风格和颜色，用人工智能在几秒钟内定制你的家. | :grey_question: |
 | [Olli](http://www.olli.ai?ref=aicollection) | Olli.ai - 您的个人数据分析师。. | Olli 是一个 AI 平台，可以将数据可视化的创建速度提高 10 倍——这就像有一个助手来处理查找数据、创建可视化以及准备演示等烦人的部分。. | :grey_question: |
 | [Once Upon A Bot](http://onceuponabot.com?ref=aicollection) | Once Upon a Bot • 使用 AI 创作儿童故事. | 告诉 OnceUponABot 您的故事创意，机器人将使用 AI 从头开始编写故事。然后您可以阅读、编辑、导出和共享您的作品。. | :x: |
-| [Opus](http://opus.ai?ref=aicollection) | 作品网站. | . | :grey_question: |
 | [Orchard](http://orchard.ink?ref=aicollection) | 果园. | . | :grey_question: |
 | [Outdone V2](http://www.outdone.io?ref=aicollection) | 不甘示弱. | . | :grey_question: |
 | [Paperade](http://www.paperade.co?ref=aicollection) | Paperade 创业点子生成器. | Paperade 是第一个基于 AI 的工具，可以从 1 亿多篇学术论文和研究中生成商业用例和公司创意。. | :grey_question: |
@@ -1092,8 +1128,6 @@
 | [Phantasmagoria](http://www.phantasmagoria.me?ref=aicollection) | . | . | :grey_question: |
 | [Phase](http://www.phase.art?ref=aicollection) | 欢迎来到阶段！. | . | :grey_question: |
 | [Photoleap](http://www.photoleapapp.com?ref=aicollection) | 文本到图像 - Lightricks 的创意和强大的照片编辑应用程序. | 使用多合一照片编辑器 Photoleap 在您的 iPhone 上创作出令人惊叹的作品：更改背景、删除对象、创建拼贴画、应用滤镜和效果. | :white_check_mark: |
-| [Phraser](http://phraser.tech?ref=aicollection) | Phraser——协作式创意 AI 工具. | Phraser 是一款应用程序，可帮助您使用生成式 AI（Midjourney、Stable Diffusion 和 DALLE 2）创建图像、协作并获得灵感. | :grey_question: |
-| [Phygital](http://phygital.plus?ref=aicollection) | . | . | :grey_question: |
 | [PicSo](http://picso.ai?ref=aicollection) | PicSo 人工智能艺术生成器. | PicSo 是一个文本到图像的 AI 艺术生成器应用程序和创意数字艺术在线平台。免费尝试将您的想法转化为 NFT 艺术、油画等。. | :white_check_mark: |
 | [PictoDream](http://pictodream.com?ref=aicollection) | 用 AI 生成你自己的图像 - PictoDream.com. | 使用简单的文本描述以任何风格或设置生成您自己（或其他人）的任何图像。. | :grey_question: |
 | [Pictorial](http://www.pictorial.ai?ref=aicollection) | Pictorial - 毫不费力地为您的 Web 应用程序创建图形. | 灵感来之不易。利用能够生成可靠、随时可用的视觉杰作的 AI，轻松传递您的信息。. | :grey_question: |
@@ -1102,11 +1136,8 @@
 | [Pixelmind](http://beta.pixelmind.ai?ref=aicollection) | Pixelmind - AI 驱动的艺术和 NFT 铸造. | 您的人工智能艺术之旅。通过 Pixelmind 门户创建和收集 NFT。发展你的风格。提升你的游戏水平. | :grey_question: |
 | [Pixelz AI](http://pixelz.ai?ref=aicollection) | Pixelz AI 艺术生成器. | 使用文本、短语、图像和预设创建独特的 AI 艺术品，分享、下载、打印和铸造为 NFT. | :grey_question: |
 | [Poised 2.0](http://www.poised.com?ref=aicollection) | Poised - 免费的 AI 驱动的沟通教练. | . | :white_check_mark: |
-| [Pollinations](http://pollinations.ai?ref=aicollection) | 授粉.AI. | . | :grey_question: |
 | [Poly AI](http://poly.ai?ref=aicollection) | . | . | :grey_question: |
 | [Polymath Robotics](http://www.polymathrobotics.com?ref=aicollection) | 博学机器人. | 神奇地简化了工业车辆的自主性. | :white_check_mark: |
-| [Ponzu.gg](http://www.ponzu.gg?ref=aicollection) | 橙子. | AI 在几秒钟内为任何想法生成 PBR 纹理贴图。. | :grey_question: |
-| [Portrait by Vana](http://portrait.vana.com?ref=aicollection) | 肖像 - 瓦娜. | Vana 的“Portrait”是一个生成式艺术工作室，可以用无限的风格为你创作自画像。. | :grey_question: |
 | [Post Parrot](http://postparrot.xyz?ref=aicollection) | Post Parrot - reddit 的免费营销工具. | . | :white_check_mark: |
 | [Predis](http://predis.ai?ref=aicollection) | 人工智能让社交媒体营销变得简单 - Predis.ai. | . | :grey_question: |
 | [Prettysmart.co](http://prettysmart.co?ref=aicollection) | 漂亮聪明. | . | :grey_question: |
@@ -1126,11 +1157,9 @@
 | [RTutor](http://rtutor.ai?ref=aicollection) | 导师. | . | :grey_question: |
 | [Raplyrics](http://raplyrics.eu?ref=aicollection) | Raplyrics – 生成您的说唱音乐妙语。. | 在下面的提示中写下几个词，并使用人工智能生成独特的说唱音乐妙语！. | :grey_question: |
 | [Rationale](http://rationale.jina.ai?ref=aicollection) | Rationale - 一种革命性的决策工具，由最新的 GPT 和情境学习提供支持. | . | :grey_question: |
-| [Rayst Gradients](http://gradients.ray.st?ref=aicollection) | 光线渐变. | 由 AI 生成的 64 个美丽渐变的集合。. | :grey_question: |
 | [Recommendme](http://www.recommendme.to?ref=aicollection) | 推荐我. | . | :grey_question: |
 | [Redacta.me](http://www.redacta.me?ref=aicollection) | redacta.me - Tu 社区经理虚拟. | . | :grey_question: |
 | [Reface](http://hey.reface.ai) | 重新面对。成为任何人. | 只需一张自拍即可创建逼真的换脸视频、GIF 和表情包. | :grey_question: |
-| [RestorePhotos.io](https://www.restorephotos.io/?ref=aicollection) | 为所有人使用 AI 修复旧照片. | 有旧的和模糊的面部照片吗？让我们的 AI 恢复它们，让这些记忆得以延续。 100% 免费 – 立即恢复您的照片. | :white_check_mark: |
 | [ResumAI](http://www.wonsulting.com?ref=aicollection) | Wonsulting - 我们找到理想的工作. | 我们已经帮助超过 100,000 人找到了他们梦想的工作。让我们的求职策略带你从简历到更好的日子。. | :grey_question: |
 | [Resume Studio](http://resumestudio.careers?ref=aicollection) | . | . | :grey_question: |
 | [Reviewgenerator](http://reviewgenerator.app?ref=aicollection) | 评论生成器.app. | . | :grey_question: |
@@ -1139,13 +1168,11 @@
 | [Rewind](http://www.rewind.ai?ref=aicollection) | 倒带. | . | :grey_question: |
 | [Rick and Mortify](http://rickandmortify.com?ref=aicollection) | 瑞克和莫蒂夫. | . | :grey_question: |
 | [Riku](http://riku.ai?ref=aicollection) | Riku.AI - 为 AI 模型构建无代码提示和数据集. | . | :grey_question: |
-| [Roamr](http://www.letsroam.app?ref=aicollection) | Roamr - 在几秒钟内完成您的梦想假期. | . | :grey_question: |
 | [SQLgenius](http://sqlgenius.app?ref=aicollection) | SQL Genius - 英语到 SQL 查询 AI 翻译器. | . | :grey_question: |
 | [SUPERMACHINE](http://supermachine.art?ref=aicollection) | SUPERMACHINE - 使用 AI 生成库存照片、艺术作品和图像. | SUPERMACHINE 使您能够使用最新的人工智能技术生成图像。. | :grey_question: |
 | [SafeSpelling](http://safespelling.com?ref=aicollection) | SafeSpelling - 书写无误. | . | :grey_question: |
 | [Scale Catalog Forge](http://scale.com?ref=aicollection) | Scale AI：人工智能的数据平台. | Scale 深受世界一流公司的信赖，可为自动驾驶汽车、地图绘制、增强现实/虚拟现实、机器人技术等人工智能应用提供高质量的训练数据。. | :x: |
 | [Scene One](http://sceneone.app?ref=aicollection) | 适用于小说、短篇小说和商业的在线图书写作应用程序. | 使用我们直观的写作应用程序编写更多故事，花更少的时间学习复杂的功能。. | :grey_question: |
-| [Scispace](http://typeset.io?ref=aicollection) | SciSpace by Typeset - 发现、创建、发布和推广您的研究论文. | 您探索和解释论文的平台。搜索超过 27000 万篇论文，用简单的语言理解它们，并找到相关的论文、作者和主题。. | :grey_question: |
 | [Scribe](http://vienna.earth?ref=aicollection) | . | . | :grey_question: |
 | [Sitekick](http://www.sitekick.ai?ref=aicollection) | AI登陆页面构建器. | . | :grey_question: |
 | [Snackable AI](http://snackable.ai?ref=aicollection) | 可当零食. | . | :grey_question: |
@@ -1188,21 +1215,15 @@
 | [Titan](http://www.compliancequarter.com.au?ref=aicollection) | 专家合规系统和资源 - 合规季. | 能源、金融服务和其他受监管行业的监管合规管理系统和专业知识。我们提供专家系统和服务来减轻您的监管负担。. | :grey_question: |
 | [Torto.ai](http://torto.ai?ref=aicollection) | 股市变得简单. | . | :grey_question: |
 | [Traq.ai](http://www.traq.ai?ref=aicollection) | . | . | :grey_question: |
-| [Tribescaler](http://tribescaler.com?ref=aicollection) | 部落攀爬者. | . | :grey_question: |
 | [Tunes For Tales](http://tunesfortales.fun?ref=aicollection) | 故事曲调. | . | :grey_question: |
 | [TutorAI](http://www.tutorai.me?ref=aicollection) | 学什么. | . | :grey_question: |
-| [TweetAI](http://tweetai.com?ref=aicollection) | 从推文中获得灵感 • TweetAI.com. | 鸣叫人工智能. | :grey_question: |
-| [TweetEmote](http://www.tweetemote.com?ref=aicollection) | 推文表情. | . | :grey_question: |
 | [Tweetnimage](http://tweetnimage.com?ref=aicollection) | 推特图片. | . | :grey_question: |
-| [Tweetsift](http://tweetsift.com?ref=aicollection) | 推文筛选. | . | :grey_question: |
 | [Twelve Labs](http://twelvelabs.io?ref=aicollection) | 十二实验室. | . | :grey_question: |
 | [USP](http://usp.ai?ref=aicollection) | 最大化您的博客 - USP.ai. | 很棒的 AI 为您的故事和博客文章生成免版税图像。. | :white_check_mark: |
 | [Uizard](http://uizard.io?ref=aicollection) | Uizard - 应用程序、Web 和 UI 设计变得简单 - 由 AI 提供支持. | . | :grey_question: |
 | [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?ref=aicollection) | 进一步：自动化技能建议. | . | :grey_question: |
-| [Underduck](http://uberduck.ai?ref=aicollection) | Uberduck - 文字转语音、语音自动化、合成媒体. | . | :grey_question: |
 | [Unpromptedgame](http://www.unpromptedgame.com?ref=aicollection) | . | . | :grey_question: |
 | [Unrealme](http://unrealme.io?ref=aicollection) | 虚幻的我. | . | :grey_question: |
-| [Userevaluation](http://www.userevaluation.com?ref=aicollection) | 用户评价-客户了解平台. | 无论您专注于 UI、UX 研究、设计还是 CX——用户评估的 AI 都可以回答您的所有问题. | :white_check_mark: |
 | [Userpersona](http://userpersona.dev?ref=aicollection) | 用户画像 - AI 生成的用户画像. | . | :grey_question: |
 | [Validator AI](http://www.validatorai.com?ref=aicollection) | ValidatorAI.com – 使用我们为企业家提供的启动验证器工具提供即时帮助和反馈. | . | :grey_question: |
 | [Vee](http://vee.ai?ref=aicollection) | 人们喜欢与之交谈的聪明顾问。 z którą ludzie lubią rozmawiać. | Vee 已经与 500 万波兰人进行了交谈，有效地为来自不同行业的数十家公司实施了业务流程。 Vee przeprowadziła rozmowy już z ponad 5 milionami Polaków, skutecznie realizując procedes biznesowe dla dziesiątek firm z różnych branż. | :grey_question: |
@@ -1211,9 +1232,7 @@
 | [Visuali](http://visuali.io?ref=aicollection) | 可视化. | AI图像生成变得简单. | :grey_question: |
 | [Vocads Survey](http://www.vocads.com?ref=aicollection) | . | . | :grey_question: |
 | [Voice AI](http://voice.ai?ref=aicollection) | 适用于 PC 和 Mac 的 AI 变声器应用程序 - 即时改变您的声音. | . | :grey_question: |
-| [Voicemaker](http://voicemaker.in?ref=aicollection) | Voicemaker® - 文本到语音转换器. | . | :grey_question: |
 | [Voicemod](http://www.voicemod.net?ref=aicollection) | 免费实时语音转换器和调制器 - Voicemod. | 使用我们的实时 AI 变声器和音板表达自己，随时随地在元宇宙中成为您想要的人。为 Roblox、OBS、VRChat、Discord 等平台建立您的声音身份. | :white_check_mark: |
-| [Voicera](http://www.voicera.co?ref=aicollection) | Voicera - 为您的文章和博客发声. | . | :grey_question: |
 | [Waifu XL](http://waifuxl.com?ref=aicollection) | 外福XL. | . | :grey_question: |
 | [Waifulabs](http://waifulabs.com?ref=aicollection) | Waifu Labs - 神奇的动漫肖像. | 最先进的 AI 可以绘制自定义动漫肖像，只为您而生！这位机器学习艺术家通过 4 个简单的步骤找出您的偏好并创建完美的人物插图。如果这听起来像魔术，那是因为它是！. | :grey_question: |
 | [Watermark Remover](http://www.watermarkremover.io?ref=aicollection) | Watermark Remover - 免费在线去除图像水印. | 使用我们强大的 AI 技术去除图像中的水印. | :white_check_mark: |
