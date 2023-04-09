@@ -733,7 +733,7 @@
 | [HUMATA](https://www.humata.ai/?ref=aicollection) | 为您的文件聊天 GPT。. | 学习速度提高 100 倍，创建报告速度提高 100 倍，法律文件分析速度提高 100 倍，技术论文理解速度提高 100 倍。立即提出有关任何文件的问题并获得答案。. | :white_check_mark: |
 | [Keepi](https://www.keepi.ai/?ref=aicollection) | AI 胜过 WhatsApp。. | 随时随地访问当今最先进的 AI。 Keepi 将使您保持聪明并准备好相关知识。. | :white_check_mark: |
 | [NOLU](http://noluai.com?ref=aicollection) | 与 AI 交互应该很简单。. | 认识诺鲁。用于与 Open AI GPT-3 引擎交互的简单界面。. | :white_check_mark: |
-| [SiteGPT](https://sitegpt.ai/) | 每个网站的 ChatGPT. | 使用根据您的网站内容训练的个性化聊天机器人即时回答访问者的问题。. | :white_check_mark: |
+| [SiteGPT](https://sitegpt.ai/?via=aicollection) | 每个网站的 ChatGPT. | 使用根据您的网站内容训练的个性化聊天机器人即时回答访问者的问题。. | :white_check_mark: |
 
 <!--End of 聊天机器人 3-->
 
