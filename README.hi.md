@@ -20,7 +20,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=838" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=839" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=37" />
@@ -481,6 +481,7 @@
 | [HUMATA](https://www.humata.ai/?ref=aicollection) | आपकी फाइलों के लिए चैटजीपीटी।. | 100 गुना तेजी से सीखें, 100 गुना तेजी से रिपोर्ट बनाएं, कानूनी दस्तावेजों का 100 गुना तेजी से विश्लेषण करें, तकनीकी पेपर्स को 100 गुना तेजी से समझें। प्रश्न पूछें और किसी भी फ़ाइल के बारे में तुरंत उत्तर प्राप्त करें।. | :white_check_mark: |
 | [Keepi](https://www.keepi.ai/?ref=aicollection) | व्हाट्सएप पर एआई।. | चलते-फिरते आज उपलब्ध सबसे उन्नत AI तक पहुंचें। कीपी आपको प्रासंगिक ज्ञान के साथ स्मार्ट और तैयार रखेगा।. | :white_check_mark: |
 | [NOLU](http://noluai.com?ref=aicollection) | एआई के साथ बातचीत करना सरल होना चाहिए।. | एनओएलयू से मिलें। ओपन एआई जीपीटी-3 इंजन के साथ बातचीत करने के लिए एक सरल इंटरफ़ेस।. | :white_check_mark: |
+| [SiteGPT](https://sitegpt.ai/) | हर वेबसाइट के लिए ChatGPT. | आपकी वेबसाइट की सामग्री पर प्रशिक्षित व्यक्तिगत चैटबॉट के साथ अपने आगंतुकों के सवालों का तुरंत जवाब दें।. | :white_check_mark: |
 
 <!--End of चैट बॉट 3-->
 

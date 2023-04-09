@@ -20,7 +20,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=838" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=839" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=37" />
@@ -335,6 +335,7 @@
 | [HUMATA](https://www.humata.ai/?ref=aicollection) | ChatGPT pour vos fichiers. | Apprenez 100 fois plus vite, créez des rapports 100 fois plus vite, analysez des documents juridiques 100 fois plus vite, comprenez des documents techniques 100 fois plus vite. Posez des questions et obtenez des réponses sur n'importe quel fichier instantanément. | :white_check_mark: |
 | [Keepi](https://www.keepi.ai/?ref=aicollection) | IA sur WhatsApp. | Accédez à l'IA la plus avancée disponible aujourd'hui lors de vos déplacements. Keepi vous gardera intelligent et prêt avec des connaissances pertinentes. | :white_check_mark: |
 | [NOLU](http://noluai.com?ref=aicollection) | INTERAGIR avec l'IA devrait être SIMPLE. | Rencontrez NOLU. Une interface simple pour interagir avec le moteur Open AI GPT-3. | :white_check_mark: |
+| [SiteGPT](https://sitegpt.ai/) | ChatGPT pour chaque site Web. | Répondez instantanément aux questions de vos visiteurs avec un chatbot personnalisé formé sur le contenu de votre site Web. | :white_check_mark: |
 
 <!--End of Chatbot 3-->
 
