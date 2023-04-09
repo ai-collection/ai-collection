@@ -43,11 +43,11 @@
 ---
 
 <div align="center">
-    <h5>पदोन्नति</h5>
+    <h5>टॉप पिक</h5>
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/easy-peasy.jpg" alt="easy-peasy" border="0"/>
     </a>
-    <p>इस हफ्ते का कमाल AI एप्लीकेशन प्रमोशन है <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>easy-peasy.AI</b>
+    <p>इस हफ्ते का शानदार AI एप्लीकेशन टॉप पिक है <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>easy-peasy.AI</b>
     </a></p>
     <h4>अफोर्डेबल एआई राइटर - ईज़ी-पेसी। एआई: एआई कंटेंट असिस्टेंट</h4>
     <p>अद्भुत सामग्री 10 गुना तेज बनाएं। एआई छवियां, एआई ऑडियो ट्रांसक्रिप्शन और एआई दोस्त मार्की के साथ चैट करें।</p>
@@ -57,7 +57,7 @@
 
 ---
 
-<p><a href="mailto: pavel@ai-collection.org">Contact us</a> to set up a promotion for your awesome app!</p>
+<p><a href="mailto: pavel@ai-collection.org">संपर्क करें</a> अपने शानदार ऐप के लिए प्रमोशन सेट अप करने के लिए!</p>
 
 ---
 

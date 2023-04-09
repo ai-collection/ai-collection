@@ -43,11 +43,11 @@
 ---
 
 <div align="center">
-    <h5>Promoción</h5>
+    <h5>Primera opción</h5>
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/easy-peasy.jpg" alt="easy-peasy" border="0"/>
     </a>
-    <p>La increíble promoción de aplicaciones de IA de esta semana es <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>easy-peasy.AI</b>
+    <p>La mejor selección de aplicaciones de inteligencia artificial de esta semana es <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>easy-peasy.AI</b>
     </a></p>
     <h4>Escritor de IA asequible: Easy-Peasy.Ai: el asistente de contenido de IA</h4>
     <p>Crea contenido increíble 10 veces más rápido. Imágenes de IA, transcripción de audio de IA y chat con el amigo de IA Marky.</p>
@@ -57,7 +57,7 @@
 
 ---
 
-<p><a href="mailto: pavel@ai-collection.org">Contact us</a> to set up a promotion for your awesome app!</p>
+<p><a href="mailto: pavel@ai-collection.org">Contáctenos</a> para configurar una promoción para su increíble aplicación!</p>
 
 ---
 
