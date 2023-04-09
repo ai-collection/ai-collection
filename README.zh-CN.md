@@ -43,11 +43,11 @@
 ---
 
 <div align="center">
-    <h5>晋升</h5>
+    <h5>首选</h5>
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/easy-peasy.jpg" alt="easy-peasy" border="0"/>
     </a>
-    <p>本周精彩的AI应用推广是 <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>easy-peasy.AI</b>
+    <p>本周最棒的 AI 应用程序首选是 <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>easy-peasy.AI</b>
     </a></p>
     <h4>负担得起的 AI 作家 - Easy-Peasy.Ai：AI 内容助手</h4>
     <p>以 10 倍的速度创建精彩内容。 AI 图像、AI 音频转录和与 AI 好友 Marky 聊天。</p>
@@ -57,7 +57,7 @@
 
 ---
 
-<p><a href="mailto: pavel@ai-collection.org">Contact us</a> to set up a promotion for your awesome app!</p>
+<p><a href="mailto: pavel@ai-collection.org">联系我们</a> 为您的精彩应用设置促销活动！</p>
 
 ---
 
