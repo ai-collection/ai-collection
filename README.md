@@ -20,7 +20,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=839" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=840" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=37" />
@@ -760,14 +760,13 @@ Translations:
 | [Postwise](http://postwise.ai?ref=aicollection) | Postwise - Write, Schedule & Grow With Twitter AI. | Write, schedule and grow with the world's smartest AI Twitter tool. | :grey_question: |
 | [ReContent.AI](http://recontent.ai/?ref=aicollection) | Transform Your Newsletter, Blog Post, Into Twitter Content With Recontent.Ai. | . | :white_check_mark: |
 | [Roast](https://roast.dating?ref=aicollection) | Dating App Profile AI Analysis - Photoshoot AI Generator. | ROAST helps people 10x their matches on dating apps like Tinder, Bumble, and Hinge. Powered by AI, it provides offers data-driven dating insights and expert advice to increase the quantity and quality of their matches. | :grey_question: |
+| [TinderProfile.ai](https://tinderprofile.ai/?ref=aicollection) | AI Photoshoot Generator for Dating. | TinderProfile.ai uses AI to analyze users' selfies & photos and generate high-quality images to enhance dating profiles, boosting chances of getting more matches. | :grey_question: |
 | [Tribescaler](http://tribescaler.com?ref=aicollection) | Tribescaler. | . | :grey_question: |
 | [TweePT3](http://tweept3.com?ref=aicollection) | Tweept3 - Twitter-Integrated, Gpt3 Powered Tweet Writer. | . | :grey_question: |
 | [TweetAI](http://tweetai.com?ref=aicollection) | Get Inspired to Tweet • Tweetai.Com. | Tweet AI. | :grey_question: |
 | [TweetEmote](http://www.tweetemote.com?ref=aicollection) | Tweetemote. | . | :grey_question: |
 | [Tweethunter](http://tweethunter.io?ref=aicollection) | Tweet Hunter - Get More Twitter Followers Â Tweets, Threads, Scheduler, Analytics. | Get sales, growth and new networks. Faster than what you're currently trying. | :grey_question: |
 | [Tweetspear](http://www.tweetspear.com?ref=aicollection) | Tweetspear - Boost Your Twitter Engagement. | Revolutionize Your Twitter Engagement with  AI-Powered Suggested Replies . | :grey_question: |
-| [TinderProfile.ai](https://tinderprofile.ai/?ref=aicollection) | AI Photoshoot Generator for Dating. | TinderProfile.ai uses AI to analyze users' selfies & photos and generate high-quality images to enhance dating profiles, boosting chances of getting more matches. | :grey_question: |
-
 
 <!--End of Social Networks & Dating 34-->
 

@@ -20,7 +20,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=839" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=840" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=37" />
@@ -913,6 +913,7 @@
 | [Postwise](http://postwise.ai?ref=aicollection) | बाद में - Twitter AI के साथ लिखें, शेड्यूल करें और आगे बढ़ें. | दुनिया के सबसे स्मार्ट एआई ट्विटर टूल के साथ लिखें, शेड्यूल करें और आगे बढ़ें. | :grey_question: |
 | [ReContent.AI](http://recontent.ai/?ref=aicollection) | रीकंटेंट के साथ अपने न्यूज़लेटर, ब्लॉग पोस्ट को ट्विटर सामग्री में बदलें।एआई. | . | :white_check_mark: |
 | [Roast](https://roast.dating?ref=aicollection) | डेटिंग ऐप प्रोफाइल एआई विश्लेषण - फोटोशूट एआई जेनरेटर. | रोस्ट लोगों को टिंडर, बम्बल और हिंज जैसे डेटिंग ऐप्स पर उनके मैच में 10 गुना मदद करता है। एआई द्वारा संचालित, यह उनके मैचों की मात्रा और गुणवत्ता बढ़ाने के लिए डेटा-संचालित डेटिंग अंतर्दृष्टि और विशेषज्ञ सलाह प्रदान करता है. | :grey_question: |
+| [TinderProfile.ai](https://tinderprofile.ai/?ref=aicollection) | डेटिंग के लिए एआई फोटोशूट जेनरेटर. | TinderProfile.ai डेटिंग प्रोफ़ाइल को बढ़ाने के लिए उपयोगकर्ताओं की सेल्फी और फ़ोटो का विश्लेषण करने और उच्च-गुणवत्ता वाली छवियां उत्पन्न करने के लिए AI का उपयोग करता है, जिससे अधिक मैच होने की संभावना बढ़ जाती है. | :grey_question: |
 | [Tribescaler](http://tribescaler.com?ref=aicollection) | ट्राइबस्केलर. | . | :grey_question: |
 | [TweePT3](http://tweept3.com?ref=aicollection) | Tweept3 - Twitter-एकीकृत, Gpt3 संचालित ट्वीट लेखक. | . | :grey_question: |
 | [TweetAI](http://tweetai.com?ref=aicollection) | ट्वीट करने के लिए प्रेरित हों • Tweetai.Com. | ट्वीट एआई. | :grey_question: |

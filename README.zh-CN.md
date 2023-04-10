@@ -20,7 +20,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=839" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=840" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=37" />
@@ -669,6 +669,7 @@
 | [Postwise](http://postwise.ai?ref=aicollection) | Postwise - 使用 Twitter AI 编写、安排和成长. | 使用世界上最智能的 AI Twitter 工具编写、安排和成长. | :grey_question: |
 | [ReContent.AI](http://recontent.ai/?ref=aicollection) | ReContent.AI. | . | :white_check_mark: |
 | [Roast](https://roast.dating?ref=aicollection) | 约会应用程序个人资料 AI 分析 - 拍摄照片 AI 生成器. | ROAST 帮助人们将他们在 Tinder、Bumble 和 Hinge 等约会应用程序上的匹配度提高 10 倍。在 AI 的支持下，它提供了数据驱动的约会见解和专家建议，以提高他们匹配的数量和质量. | :grey_question: |
+| [TinderProfile.ai](https://tinderprofile.ai/?ref=aicollection) | 用于约会的 AI Photoshoot 生成器. | TinderProfile.ai 使用 AI 分析用户的自拍和照片并生成高质量图像以增强约会档案，增加获得更多匹配的机会. | :grey_question: |
 | [Tribescaler](http://tribescaler.com?ref=aicollection) | 部落攀爬者. | . | :grey_question: |
 | [TweePT3](http://tweept3.com?ref=aicollection) | TweePT3 - 集成 Twitter 的 GPT3 推文编写器. | . | :grey_question: |
 | [TweetAI](http://tweetai.com?ref=aicollection) | 从推文中获得灵感 • TweetAI.com. | 鸣叫人工智能. | :grey_question: |
