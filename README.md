@@ -766,6 +766,8 @@ Translations:
 | [TweetEmote](http://www.tweetemote.com?ref=aicollection) | Tweetemote. | . | :grey_question: |
 | [Tweethunter](http://tweethunter.io?ref=aicollection) | Tweet Hunter - Get More Twitter Followers Â Tweets, Threads, Scheduler, Analytics. | Get sales, growth and new networks. Faster than what you're currently trying. | :grey_question: |
 | [Tweetspear](http://www.tweetspear.com?ref=aicollection) | Tweetspear - Boost Your Twitter Engagement. | Revolutionize Your Twitter Engagement with  AI-Powered Suggested Replies . | :grey_question: |
+| [TinderProfile.ai](https://tinderprofile.ai/?ref=aicollection) | AI Photoshoot Generator for Dating. | TinderProfile.ai uses AI to analyze users' selfies & photos and generate high-quality images to enhance dating profiles, boosting chances of getting more matches. | :grey_question: |
+
 
 <!--End of Social Networks & Dating 34-->
 
