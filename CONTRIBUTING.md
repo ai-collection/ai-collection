@@ -43,7 +43,11 @@ Created a branch on your fork with your changes, and [make a pull request][pr-li
 * Please make sure the AI application has a title and description.
 * Target your Pull Request to the `main` branch of the `ai-collection`
 * Translations are auto-generated, so no need to add/update in multiple README files.
+* If you are the creator of this awesome AI application, feel free to add your twitter handle in the PR comment. We will mention you.
 
 Once pull request is created, collaborators will review the proposed change and decide whether or not to pull in your changes.
+
+Thanks for reading this.
+Please consider staring this repo and following us on [twitter](https://twitter.com/ai_collection_)
 
 [pr-link]: <https://help.github.com/articles/creating-a-pull-request/>
