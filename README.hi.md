@@ -1,6 +1,6 @@
 # AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-<a target="_blank" href="https://twitter.com/intent/tweet?url=https://github.com/ai-collection/ai-collection/blob/main/README.hi.md&text=विस्मयकारी जनरेटिव AI अनुप्रयोगों के इस AI संग्रह को देखें!&hashtags=aicollection"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=शेयर करना&style=social&url=https%3A%2F%2Ftwitter.com"></a> 
+<a target="_blank" href="https://twitter.com/intent/tweet?url=https://github.com/ai-collection/ai-collection/blob/main/README.hi.md&text=विस्मयकारी जनरेटिव AI अनुप्रयोगों के इस AI संग्रह को देखें!&hashtags=aicollection"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=शेयर करना&style=social&url=https%3A%2F%2Ftwitter.com"></a> <a class="twitter-follow-button" href="https://twitter.com/ai_collection_" data-size="large"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aicollectionorg?style=social"></a>
 
 ---
 
