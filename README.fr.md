@@ -20,7 +20,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=839" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=840" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=37" />
@@ -741,6 +741,7 @@
 | [Postwise](http://postwise.ai?ref=aicollection) | Postwise - Écrivez, planifiez et développez avec Twitter AI. | Écrivez, planifiez et évoluez avec l'outil Twitter d'IA le plus intelligent au monde. | :grey_question: |
 | [ReContent.AI](http://recontent.ai/?ref=aicollection) | Transformez votre newsletter, article de blog, en contenu Twitter avec ReContent.AI. | . | :white_check_mark: |
 | [Roast](https://roast.dating?ref=aicollection) | Analyse d'IA de profil d'application de rencontre - Générateur d'IA de séance photo. | ROAST aide les gens à multiplier par 10 leurs correspondances sur des applications de rencontres comme Tinder, Bumble et Hinge. Propulsé par l'IA, il fournit des informations sur les rencontres basées sur les données et des conseils d'experts pour augmenter la quantité et la qualité de leurs matchs. | :grey_question: |
+| [TinderProfile.ai](https://tinderprofile.ai/?ref=aicollection) | Générateur de séance photo AI pour les rencontres. | TinderProfile.ai utilise l'IA pour analyser les selfies et les photos des utilisateurs et générer des images de haute qualité pour améliorer les profils de rencontres, augmentant ainsi les chances d'obtenir plus de correspondances. | :grey_question: |
 | [Tribescaler](http://tribescaler.com?ref=aicollection) | Écailleur de tribu. | . | :grey_question: |
 | [TweePT3](http://tweept3.com?ref=aicollection) | TweePT3 - Éditeur de tweets intégré à Twitter et alimenté par GPT3. | . | :grey_question: |
 | [TweetAI](http://tweetai.com?ref=aicollection) | Inspirez-vous pour tweeter • TweetAI.com. | Tweet IA. | :grey_question: |

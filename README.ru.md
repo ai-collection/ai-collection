@@ -20,7 +20,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=839" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=840" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=37" />
@@ -401,6 +401,7 @@
 | [Postwise](http://postwise.ai?ref=aicollection) | Postwise — пишите, планируйте и развивайтесь с Twitter AI. | Пишите, планируйте и развивайтесь с помощью самого умного в мире инструмента искусственного интеллекта Twitter. | :grey_question: |
 | [ReContent.AI](http://recontent.ai/?ref=aicollection) | ReContent.AI. | . | :white_check_mark: |
 | [Roast](https://roast.dating?ref=aicollection) | AI-анализ профиля приложения для знакомств - AI-генератор для фотосессии. | ROAST помогает людям в 10 раз увеличить количество совпадений в таких приложениях для знакомств, как Tinder, Bumble и Hinge. На основе искусственного интеллекта он предоставляет информацию о свиданиях на основе данных и советы экспертов, чтобы увеличить количество и качество их совпадений. | :grey_question: |
+| [TinderProfile.ai](https://tinderprofile.ai/?ref=aicollection) | AI Photoshoot Generator для знакомств. | TinderProfile.ai использует ИИ для анализа селфи и фотографий пользователей и создания высококачественных изображений для улучшения профилей знакомств, что повышает шансы получить больше совпадений. | :grey_question: |
 | [Tribescaler](http://tribescaler.com?ref=aicollection) | Соплеменник. | . | :grey_question: |
 | [TweePT3](http://tweept3.com?ref=aicollection) | TweePT3 — встроенный в Twitter и работающий с GPT3 модуль записи твитов. | . | :grey_question: |
 | [TweetAI](http://tweetai.com?ref=aicollection) | Вдохновитесь, чтобы написать твит • TweetAI.com. | Твитнуть ИИ. | :grey_question: |
