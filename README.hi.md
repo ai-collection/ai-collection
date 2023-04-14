@@ -43,17 +43,31 @@
 ---
 
 <div align="center">
-    <h5>टॉप पिक</h5>
+    <h5>ऊपर उठाता है</h5>
+    <p>एआई संग्रह के शीर्ष चयन हैं</p>
+</div>
+
+<div align="center">
+    <a href="http://www.codium.ai/?utm=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/codiumAI.png" alt="CodiumAI" border="0"/>
+    </a>
+    <h4>CodiumAI - व्यस्त देवों के लिए सार्थक परीक्षण उत्पन्न करना</h4>
+    <p>CodiumAI के साथ, आपको गैर-तुच्छ परीक्षण (और तुच्छ भी!) अपने IDE के अंदर ही सुझाए गए हैं, ताकि आप स्मार्ट कोड कर सकें, अधिक मूल्य बना सकें, और जब आप पुश करते हैं तो आश्वस्त रहें। कोड, जैसा कि आपका मतलब था।</p>
+    <a href="http://www.codium.ai/?utm=aicollection" target="_blank"><b>शुरू हो जाओ</b></a>
+    <br />
+</div>
+---
+
+<div align="center">
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/easy-peasy.jpg" alt="easy-peasy" border="0"/>
     </a>
-    <p>इस हफ्ते का शानदार AI एप्लीकेशन टॉप पिक है <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>easy-peasy.AI</b>
-    </a></p>
     <h4>अफोर्डेबल एआई राइटर - ईज़ी-पेसी। एआई: एआई कंटेंट असिस्टेंट</h4>
     <p>अद्भुत सामग्री 10 गुना तेज बनाएं। एआई छवियां, एआई ऑडियो ट्रांसक्रिप्शन और एआई दोस्त मार्की के साथ चैट करें।</p>
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>शुरू हो जाओ</b></a>
     <br />
 </div>
+---
 
 ---
 
@@ -393,7 +407,7 @@
 | [Codeball](http://codeball.ai?ref=aicollection) | कोडबॉल एआई संचालित कोड समीक्षा. | कोडबॉल आपके पुल अनुरोधों में बग ढूंढता है, आपको तेजी से और उच्च आत्मविश्वास के साथ शिप करने देता है।. | :grey_question: |
 | [Codecleaningbot](http://www.codecleaningbot.com?ref=aicollection) | कोड क्लीनिंग बॉट. | कोड क्लीनिंग एआई बॉट सामान्य कोड गुणवत्ता और सुरक्षा समस्याओं को ठीक करता है। जैसे: अप्रयुक्त और अगम्य कोड को हटाना, SQL इंजेक्शन को ठीक करना आदि. | :grey_question: |
 | [Codeium](http://www.codeium.com?ref=aicollection) | कोडियम - द मॉडर्न कोडिंग सुपरपावर. | फास्ट एआई-आधारित कोड त्वरण और गिटहब कोपिलॉट के लिए मुफ्त विकल्प. | :white_check_mark: |
-| [CodiumAI](http://www.codium.ai/?ref=aicollection) | व्यस्त देवों के लिए सार्थक परीक्षण. | CodiumAI आपके कोड का विश्लेषण करता है और आपके भेजने से पहले बग को पकड़ने के लिए सार्थक परीक्षण उत्पन्न करता है. | :white_check_mark: |
+| [CodiumAI](http://www.codium.ai/?utm=aicollection) | व्यस्त देवों के लिए सार्थक परीक्षण. | CodiumAI आपके कोड का विश्लेषण करता है और आपके भेजने से पहले बग को पकड़ने के लिए सार्थक परीक्षण उत्पन्न करता है. | :white_check_mark: |
 | [Datamaker](http://www.datamaker.dev?ref=aicollection) | एआई संचालित वेबफ्लो कोड और डिजाइनरों के लिए कॉपी टूल्स।. | यदि आप एक वेबफ्लो डिज़ाइनर या वेबफ्लो डेवलपर हैं तो आपको इन उपकरणों को देखने की आवश्यकता है। अपनी वेबफ्लो समस्याओं को हल करने के लिए कोड बनाने और कॉपी करने के लिए AI का उपयोग करें।. | :grey_question: |
 | [Decile](http://decile.app?ref=aicollection) | पूछकर अपनी जरूरत का डेटा प्राप्त करें।. | एआई की शक्ति के साथ डेटा-आधारित संगठन बनाएं।. | :x: |
 | [Explain An Error](http://explain.whybug.com?ref=aicollection) | वाईबग द्वारा स्पष्ट कीजिए. | एआई आपको समझाता है कि आपका कोड खराब क्यों है और इसे कैसे ठीक किया जाए. | :grey_question: |

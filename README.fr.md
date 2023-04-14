@@ -43,17 +43,31 @@
 ---
 
 <div align="center">
-    <h5>Le meilleur choix</h5>
+    <h5>Meilleurs choix</h5>
+    <p>Les meilleurs choix d'AI Collection sont</p>
+</div>
+
+<div align="center">
+    <a href="http://www.codium.ai/?utm=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/codiumAI.png" alt="CodiumAI" border="0"/>
+    </a>
+    <h4>CodiumAI - Générer des tests significatifs pour les développeurs occupés</h4>
+    <p>Avec CodiumAI, vous obtenez des tests non triviaux (et triviaux aussi !) suggérés directement dans votre IDE, afin que vous puissiez coder intelligemment, créer plus de valeur et rester confiant lorsque vous poussez. Code, comme vous l'entendiez.</p>
+    <a href="http://www.codium.ai/?utm=aicollection" target="_blank"><b>Commencer</b></a>
+    <br />
+</div>
+---
+
+<div align="center">
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/easy-peasy.jpg" alt="easy-peasy" border="0"/>
     </a>
-    <p>Le meilleur choix d'applications d'IA de cette semaine est <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>easy-peasy.AI</b>
-    </a></p>
     <h4>Rédacteur IA abordable - Easy-Peasy.Ai : l'assistant de contenu IA</h4>
     <p>Créez du contenu incroyable 10 fois plus rapidement. Images IA, transcription audio IA et chat avec l'ami IA Marky.</p>
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Commencer</b></a>
     <br />
 </div>
+---
 
 ---
 
@@ -169,7 +183,7 @@
 | [Codeball](http://codeball.ai?ref=aicollection) | Codeball â Examen du code propulsé par l'IA. | Codeball trouve des bogues dans vos demandes d'extraction, vous permet d'expédier plus rapidement et avec une plus grande confiance. | :grey_question: |
 | [Codecleaningbot](http://www.codecleaningbot.com?ref=aicollection) | Robot de nettoyage de code. | Code Cleaning AI Bot résout les problèmes courants de qualité et de sécurité du code. Comme : supprimer le code inutilisé et inaccessible, corriger l'injection SQL, etc. | :grey_question: |
 | [Codeium](http://www.codeium.com?ref=aicollection) | Codeium - La superpuissance de codage moderne. | Accélération rapide du code basée sur l'IA et alternative gratuite à GitHub Copilot. | :white_check_mark: |
-| [CodiumAI](http://www.codium.ai/?ref=aicollection) | Tests significatifs pour les développeurs occupés. | CodiumAI analyse votre code et génère des tests significatifs pour détecter les bogues avant l'expédition. | :white_check_mark: |
+| [CodiumAI](http://www.codium.ai/?utm=aicollection) | Tests significatifs pour les développeurs occupés. | CodiumAI analyse votre code et génère des tests significatifs pour détecter les bogues avant l'expédition. | :white_check_mark: |
 | [Datamaker](http://www.datamaker.dev?ref=aicollection) | Outils de code et de copie Webflow alimentés par l'IA pour les concepteurs. | Si vous êtes un concepteur de flux Web ou un développeur de flux Web, vous devez voir ces outils. Utilisez l'IA pour créer du code et le copier afin de résoudre vos problèmes de flux Web. | :grey_question: |
 | [Decile](http://decile.app?ref=aicollection) | Obtenez les données dont vous avez besoin en demandant. | Construisez une organisation basée sur les données avec la puissance de l'IA. | :x: |
 | [Explain An Error](http://explain.whybug.com?ref=aicollection) | Expliquer par Whybug. | Laissez l'IA vous expliquer pourquoi votre code est bogué et comment le corriger. | :grey_question: |

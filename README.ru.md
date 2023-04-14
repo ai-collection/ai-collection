@@ -43,17 +43,31 @@
 ---
 
 <div align="center">
-    <h5>Лучший выбор</h5>
+    <h5>Лучшие подборки</h5>
+    <p>Лучшие выборы AI Collection:</p>
+</div>
+
+<div align="center">
+    <a href="http://www.codium.ai/?utm=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/codiumAI.png" alt="CodiumAI" border="0"/>
+    </a>
+    <h4>CodiumAI - Генерация значимых тестов для занятых разработчиков</h4>
+    <p>С CodiumAI вы получаете нетривиальные тесты (и тривиальные тоже!), Предлагаемые прямо в вашей IDE, поэтому вы можете кодировать умнее, создавать больше ценности и оставаться уверенными, когда вы нажимаете. Код, как вы это имели в виду.</p>
+    <a href="http://www.codium.ai/?utm=aicollection" target="_blank"><b>Начать</b></a>
+    <br />
+</div>
+---
+
+<div align="center">
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/easy-peasy.jpg" alt="easy-peasy" border="0"/>
     </a>
-    <p>Лучшее приложение для искусственного интеллекта на этой неделе — <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>easy-peasy.AI</b>
-    </a></p>
     <h4>Доступный ИИ-писатель — Easy-Peasy.Ai: Помощник по ИИ-контенту</h4>
     <p>Создавайте потрясающий контент в 10 раз быстрее. AI-изображения, AI-транскрипция аудио и чат с AI-приятелем Марки.</p>
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Начать</b></a>
     <br />
 </div>
+---
 
 ---
 
@@ -616,7 +630,7 @@
 | [Codeball](http://codeball.ai?ref=aicollection) | Codeball — проверка кода на основе ИИ. | Codeball находит ошибки в ваших запросах на слияние, что позволяет вам отправлять их быстрее и с большей уверенностью. | :grey_question: |
 | [Codecleaningbot](http://www.codecleaningbot.com?ref=aicollection) | Бот для очистки кода. | AI Bot для очистки кода устраняет распространенные проблемы с качеством кода и безопасностью. Например: удаление неиспользуемого и недостижимого кода, исправление SQL-инъекций и т. д. | :grey_question: |
 | [Codeium](http://www.codeium.com?ref=aicollection) | Codeium - современная сверхдержава кодирования. | Быстрое ускорение кода на основе ИИ и бесплатная альтернатива GitHub Copilot. | :white_check_mark: |
-| [CodiumAI](http://www.codium.ai/?ref=aicollection) | Значимые тесты для занятых разработчиков. | CodiumAI анализирует ваш код и создает содержательные тесты для выявления ошибок перед отправкой. | :white_check_mark: |
+| [CodiumAI](http://www.codium.ai/?utm=aicollection) | Значимые тесты для занятых разработчиков. | CodiumAI анализирует ваш код и создает содержательные тесты для выявления ошибок перед отправкой. | :white_check_mark: |
 | [Datamaker](http://www.datamaker.dev?ref=aicollection) | Код Webflow на базе AI и инструменты копирования для дизайнеров. | Если вы являетесь дизайнером Webflow или разработчиком Webflow, вам необходимо ознакомиться с этими инструментами. Используйте ИИ для создания кода и копирования, чтобы решить свои проблемы с Webflow. | :grey_question: |
 | [Decile](http://decile.app?ref=aicollection) | Получите необходимые данные, спросив. | Создайте организацию, основанную на данных, с помощью ИИ. | :x: |
 | [Explain An Error](http://explain.whybug.com?ref=aicollection) | Объясните от Whybug. | Позвольте ИИ объяснить вам, почему ваш код содержит ошибки и как это исправить. | :grey_question: |
