@@ -54,12 +54,12 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="http://www.codium.ai/?utm=aicollection" target="_blank" style="outline:none;border:none;">
+    <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/codiumAI.png" alt="CodiumAI" border="0"/>
     </a>
     <h4>CodiumAI - Generating meaningful tests for busy devs</h4>
     <p>With CodiumAI, you get non-trivial tests (and trivial, too!) suggested right inside your IDE, so you can code smart, create more value, and stay confident when you push. Code, as you meant it.</p>
-    <a href="http://www.codium.ai/?utm=aicollection" target="_blank"><b>Get Started</b></a>
+    <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank"><b>Get Started with CodiumAI</b></a>
     <br />
 </div>
 
@@ -72,7 +72,7 @@ Translations:
     </a>
     <h4>Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant</h4>
     <p>Create amazing content 10X faster. AI Images, AI Audio Transcription and Chat with AI buddy Marky.</p>
-    <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Get Started</b></a>
+    <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Get Started with Easy-Peasy.Ai</b></a>
     <br />
 </div>
 

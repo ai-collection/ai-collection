@@ -48,12 +48,12 @@
 </div>
 
 <div align="center">
-    <a href="http://www.codium.ai/?utm=aicollection" target="_blank" style="outline:none;border:none;">
+    <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/codiumAI.png" alt="CodiumAI" border="0"/>
     </a>
     <h4>CodiumAI - व्यस्त देवों के लिए सार्थक परीक्षण उत्पन्न करना</h4>
     <p>CodiumAI के साथ, आपको गैर-तुच्छ परीक्षण (और तुच्छ भी!) अपने IDE के अंदर ही सुझाए गए हैं, ताकि आप स्मार्ट कोड कर सकें, अधिक मूल्य बना सकें, और जब आप पुश करते हैं तो आश्वस्त रहें। कोड, जैसा कि आपका मतलब था।</p>
-    <a href="http://www.codium.ai/?utm=aicollection" target="_blank"><b>शुरू हो जाओ</b></a>
+    <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank"><b>CodiumAI के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -66,7 +66,7 @@
     </a>
     <h4>अफोर्डेबल एआई राइटर - ईज़ी-पेसी। एआई: एआई कंटेंट असिस्टेंट</h4>
     <p>अद्भुत सामग्री 10 गुना तेज बनाएं। एआई छवियां, एआई ऑडियो ट्रांसक्रिप्शन और एआई दोस्त मार्की के साथ चैट करें।</p>
-    <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>शुरू हो जाओ</b></a>
+    <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Easy-Peasy.Ai के साथ शुरुआत करें</b></a>
     <br />
 </div>
 
