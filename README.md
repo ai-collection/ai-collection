@@ -49,17 +49,31 @@ Translations:
 ---
 
 <div align="center">
-    <h5>Top Pick</h5>
+    <h5>Top Picks</h5>
+    <p>AI Collection's top picks are</p>
+</div>
+
+<div align="center">
+    <a href="http://www.codium.ai/?utm=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/codiumAI.png" alt="CodiumAI" border="0"/>
+    </a>
+    <h4>CodiumAI - Generating meaningful tests for busy devs</h4>
+    <p>With CodiumAI, you get non-trivial tests (and trivial, too!) suggested right inside your IDE, so you can code smart, create more value, and stay confident when you push. Code, as you meant it.</p>
+    <a href="http://www.codium.ai/?utm=aicollection" target="_blank"><b>Get Started</b></a>
+    <br />
+</div>
+---
+
+<div align="center">
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/easy-peasy.jpg" alt="easy-peasy" border="0"/>
     </a>
-    <p>This week's awesome AI application top pick is <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>easy-peasy.AI</b>
-    </a></p>
     <h4>Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant</h4>
     <p>Create amazing content 10X faster. AI Images, AI Audio Transcription and Chat with AI buddy Marky.</p>
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Get Started</b></a>
     <br />
 </div>
+---
 
 ---
 
@@ -315,7 +329,7 @@ Translations:
 | [Codeball](http://codeball.ai?ref=aicollection) | Codeball AI Powered Code Review. | Codeball finds bugs in your Pull Requests, lets you ship faster and with higher confidence. | :grey_question: |
 | [Codecleaningbot](http://www.codecleaningbot.com?ref=aicollection) | Code Cleaning Bot. | Code Cleaning AI Bot fixes common code quality and security issues. Like: deleting unused and unreachable code, fix SQL injection, etc. | :grey_question: |
 | [Codeium](http://www.codeium.com?ref=aicollection) | Codeium - The Modern Coding Superpower. | Fast AI-based code acceleration and free alternative to GitHub Copilot. | :white_check_mark: |
-| [CodiumAI](http://www.codium.ai/?ref=aicollection) | Meaningful Tests for Busy Devs. | CodiumAI analyzes your code and generates meaningful tests to catch bugs before you ship. | :white_check_mark: |
+| [CodiumAI](http://www.codium.ai/?utm=aicollection) | Meaningful Tests for Busy Devs. | CodiumAI analyzes your code and generates meaningful tests to catch bugs before you ship. | :white_check_mark: |
 | [Datamaker](http://www.datamaker.dev?ref=aicollection) | AI Powered Webflow Code & Copy Tools for Designers. | If you are a Webflow Designer or Webflow Developer then you need to see these tools. Use AI to create code and copy to solve your Webflow problems. | :grey_question: |
 | [Decile](http://decile.app?ref=aicollection) | Get the Data You Need by Asking. | Build a data-led organisation with the power of AI. | :x: |
 | [Explain An Error](http://explain.whybug.com?ref=aicollection) | Explain by Whybug. | Let AI explain to you why your code is buggy and how to fix it. | :grey_question: |

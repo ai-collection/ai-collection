@@ -43,17 +43,31 @@
 ---
 
 <div align="center">
-    <h5>首选</h5>
+    <h5>热门精选</h5>
+    <p>AI Collection 的首选是</p>
+</div>
+
+<div align="center">
+    <a href="http://www.codium.ai/?utm=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/codiumAI.png" alt="CodiumAI" border="0"/>
+    </a>
+    <h4>CodiumAI - 为忙碌的开发人员生成有意义的测试</h4>
+    <p>借助 CodiumAI，您可以在 IDE 中获得非常重要的测试（而且也很重要！）建议，因此您可以智能编码，创造更多价值，并在推动时保持自信。 代码，正如你的意思。</p>
+    <a href="http://www.codium.ai/?utm=aicollection" target="_blank"><b>开始</b></a>
+    <br />
+</div>
+---
+
+<div align="center">
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/easy-peasy.jpg" alt="easy-peasy" border="0"/>
     </a>
-    <p>本周最棒的 AI 应用程序首选是 <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>easy-peasy.AI</b>
-    </a></p>
     <h4>负担得起的 AI 作家 - Easy-Peasy.Ai：AI 内容助手</h4>
     <p>以 10 倍的速度创建精彩内容。 AI 图像、AI 音频转录和与 AI 好友 Marky 聊天。</p>
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>开始</b></a>
     <br />
 </div>
+---
 
 ---
 
@@ -158,7 +172,7 @@
 | [Codeball](http://codeball.ai?ref=aicollection) | 代码球 AI 支持的代码审查. | Codeball 在您的 Pull Requests 中发现错误，让您更快地交付并更有信心。. | :grey_question: |
 | [Codecleaningbot](http://www.codecleaningbot.com?ref=aicollection) | 代码清理机器人. | Code Cleaning AI Bot 修复了常见的代码质量和安全问题。喜欢：删除未使用和无法访问的代码，修复 SQL 注入等. | :grey_question: |
 | [Codeium](http://www.codeium.com?ref=aicollection) | Codeium - 现代编码超级大国. | 基于 AI 的快速代码加速和 GitHub Copilot 的免费替代品. | :white_check_mark: |
-| [CodiumAI](http://www.codium.ai/?ref=aicollection) | 对忙碌的开发者有意义的测试. | CodiumAI 分析您的代码并生成有意义的测试以在您发布之前发现错误. | :white_check_mark: |
+| [CodiumAI](http://www.codium.ai/?utm=aicollection) | 对忙碌的开发者有意义的测试. | CodiumAI 分析您的代码并生成有意义的测试以在您发布之前发现错误. | :white_check_mark: |
 | [Datamaker](http://www.datamaker.dev?ref=aicollection) | 面向设计师的 AI 支持的 Webflow 代码和复制工具。. | 如果您是 Webflow Designer 或 Webflow Developer，那么您需要查看这些工具。使用 AI 创建代码和复制来解决您的 Webflow 问题。. | :grey_question: |
 | [Decile](http://decile.app?ref=aicollection) | 通过询问获取您需要的数据。. | 借助 AI 的力量建立一个数据主导的组织。. | :x: |
 | [Explain An Error](http://explain.whybug.com?ref=aicollection) | 由 Whybug 解释. | 让 AI 向您解释为什么您的代码有问题以及如何修复它. | :grey_question: |
