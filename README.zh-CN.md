@@ -48,12 +48,12 @@
 </div>
 
 <div align="center">
-    <a href="http://www.codium.ai/?utm=aicollection" target="_blank" style="outline:none;border:none;">
+    <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/codiumAI.png" alt="CodiumAI" border="0"/>
     </a>
     <h4>CodiumAI - 为忙碌的开发人员生成有意义的测试</h4>
     <p>借助 CodiumAI，您可以在 IDE 中获得非常重要的测试（而且也很重要！）建议，因此您可以智能编码，创造更多价值，并在推动时保持自信。 代码，正如你的意思。</p>
-    <a href="http://www.codium.ai/?utm=aicollection" target="_blank"><b>开始</b></a>
+    <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank"><b>开始使用 CodiumAI</b></a>
     <br />
 </div>
 
@@ -66,7 +66,7 @@
     </a>
     <h4>负担得起的 AI 作家 - Easy-Peasy.Ai：AI 内容助手</h4>
     <p>以 10 倍的速度创建精彩内容。 AI 图像、AI 音频转录和与 AI 好友 Marky 聊天。</p>
-    <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>开始</b></a>
+    <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>开始使用 Easy-Peasy.Ai</b></a>
     <br />
 </div>
 

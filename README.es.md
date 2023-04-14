@@ -48,12 +48,12 @@
 </div>
 
 <div align="center">
-    <a href="http://www.codium.ai/?utm=aicollection" target="_blank" style="outline:none;border:none;">
+    <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/codiumAI.png" alt="CodiumAI" border="0"/>
     </a>
     <h4>CodiumAI - Generación de pruebas significativas para desarrolladores ocupados</h4>
     <p>Con CodiumAI, obtiene pruebas no triviales (¡y también triviales!) Sugeridas dentro de su IDE, para que pueda codificar de manera inteligente, crear más valor y mantenerse seguro cuando empuja. Código, como lo dices en serio.</p>
-    <a href="http://www.codium.ai/?utm=aicollection" target="_blank"><b>Empezar</b></a>
+    <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank"><b>Comience con CodiumAI</b></a>
     <br />
 </div>
 
@@ -66,7 +66,7 @@
     </a>
     <h4>Escritor de IA asequible: Easy-Peasy.Ai: el asistente de contenido de IA</h4>
     <p>Crea contenido increíble 10 veces más rápido. Imágenes de IA, transcripción de audio de IA y chat con el amigo de IA Marky.</p>
-    <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Empezar</b></a>
+    <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Comience con Easy-Peasy.Ai</b></a>
     <br />
 </div>
 
