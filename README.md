@@ -62,7 +62,9 @@ Translations:
     <a href="http://www.codium.ai/?utm=aicollection" target="_blank"><b>Get Started</b></a>
     <br />
 </div>
----
+
+<br>
+
 
 <div align="center">
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
@@ -73,7 +75,9 @@ Translations:
     <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Get Started</b></a>
     <br />
 </div>
----
+
+<br>
+
 
 ---
 
