@@ -60,19 +60,6 @@
 <br>
 
 
-<div align="center">
-    <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/easy-peasy.jpg" alt="easy-peasy" border="0"/>
-    </a>
-    <h4>अफोर्डेबल एआई राइटर - ईज़ी-पेसी। एआई: एआई कंटेंट असिस्टेंट</h4>
-    <p>अद्भुत सामग्री 10 गुना तेज बनाएं। एआई छवियां, एआई ऑडियो ट्रांसक्रिप्शन और एआई दोस्त मार्की के साथ चैट करें।</p>
-    <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Easy-Peasy.Ai के साथ शुरुआत करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
 ---
 
 <p><a href="mailto: pavel@ai-collection.org">संपर्क करें</a> अपने शानदार ऐप के लिए प्रमोशन सेट अप करने के लिए!</p>

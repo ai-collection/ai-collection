@@ -60,19 +60,6 @@
 <br>
 
 
-<div align="center">
-    <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/easy-peasy.jpg" alt="easy-peasy" border="0"/>
-    </a>
-    <h4>Rédacteur IA abordable - Easy-Peasy.Ai : l'assistant de contenu IA</h4>
-    <p>Créez du contenu incroyable 10 fois plus rapidement. Images IA, transcription audio IA et chat avec l'ami IA Marky.</p>
-    <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Démarrer avec Easy-Peasy.Ai</b></a>
-    <br />
-</div>
-
-<br>
-
-
 ---
 
 <p><a href="mailto: pavel@ai-collection.org">Contactez-nous</a> pour mettre en place une promotion pour votre application géniale !</p>
