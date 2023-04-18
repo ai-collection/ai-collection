@@ -66,19 +66,6 @@ Translations:
 <br>
 
 
-<div align="center">
-    <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/easy-peasy.jpg" alt="easy-peasy" border="0"/>
-    </a>
-    <h4>Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant</h4>
-    <p>Create amazing content 10X faster. AI Images, AI Audio Transcription and Chat with AI buddy Marky.</p>
-    <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Get Started with Easy-Peasy.Ai</b></a>
-    <br />
-</div>
-
-<br>
-
-
 ---
 
 <p><a href="mailto: pavel@ai-collection.org">Contact Us</a> to set up a promotion for your awesome app!</p>

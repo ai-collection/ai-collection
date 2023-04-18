@@ -60,19 +60,6 @@
 <br>
 
 
-<div align="center">
-    <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/easy-peasy.jpg" alt="easy-peasy" border="0"/>
-    </a>
-    <h4>负担得起的 AI 作家 - Easy-Peasy.Ai：AI 内容助手</h4>
-    <p>以 10 倍的速度创建精彩内容。 AI 图像、AI 音频转录和与 AI 好友 Marky 聊天。</p>
-    <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>开始使用 Easy-Peasy.Ai</b></a>
-    <br />
-</div>
-
-<br>
-
-
 ---
 
 <p><a href="mailto: pavel@ai-collection.org">联系我们</a> 为您的精彩应用设置促销活动！</p>
