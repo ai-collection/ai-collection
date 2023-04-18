@@ -20,7 +20,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=840" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=838" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=37" />
@@ -135,7 +135,7 @@
 ## 人力资源与简历
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
-| [Cover Letter AI](https://coverletterai.app/?ref=aicollection) | 求职信人工智能. | . | :white_check_mark: |
+| [Cover Letter AI App](https://coverletterai.app/?ref=aicollection) | 求职信人工智能. | . | :white_check_mark: |
 | [Hire Hoc](http://hirehoc.com?ref=aicollection) | Hire Hoc - 人工智能驱动的招聘工具. | 借助 AI 辅助招聘的力量改变您的组织。. | :grey_question: |
 | [HireYaY](http://hireyay.com?ref=aicollection) | HireYaY，初创公司的招聘平台. | 92% 的求职者没有完成在线申请。有了 HireYaY，您再也不会错过合格的候选人。. | :grey_question: |
 | [Hirex.ai](http://www.hirex.ai?ref=aicollection) | hirex.ai. | 欢迎来到 hirex.ai，这是一个无代码 AI 平台，用于构建基于语音的机器人，这些机器人可以大规模进行面试并为其评分。获取完整的评估工具套件，如编码面试、MCQ 测试、编程马拉松、视频面试和 WhatsApp 聊天机器人，所有这些都在一个仪表板下. | :grey_question: |
@@ -401,7 +401,7 @@
 ## 建筑与室内设计
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
-| [AI Room Planner](http://airoomplanner.com?ref=aicollection) | 人工智能室内设计. | 为您的房间获取数百种室内设计理念 - 免费且无限制。. | :grey_question: |
+| [AI Room Planner](http://airoomplanner.com?ref=aicollection) | 人工智能室内设计. | 为您的房间获取数百种室内设计理念 - 免费且无限制。. | :white_check_mark: |
 | [AI TWO](http://aitwo.co/?ref=aicollection) | AITWO.CO - 人工智能驱动的一体化设计平台. | . | :grey_question: |
 | [Dimensions](http://www.dimensions.ink?ref=aicollection) | Dimensions - 使用 AI 快速创建视觉概念. | 想象一下能够轻松创建漂亮的室内设计——这就是 Dimensions 所提供的。. | :white_check_mark: |
 | [Getfloorplan](http://getfloorplan.com?ref=aicollection) | 使用 AI 创建 2d 和 3d 平面图. | 我们的客户使用 2D、3D 楼层平面图和虚拟游览报告称来电增加了多达 30%. | :grey_question: |
@@ -501,7 +501,6 @@
 ## 文本
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
-| [AI Poem Generator](https://www.aipoemgenerator.org?ref=aicollection) | 免费的人工智能诗歌生成器. | 一个免费的在线诗歌创作者，可让您使用 AI 生成任何主题的优美押韵诗歌. | :white_check_mark: |
 | [Bookclub](http://www.bookclub.ai?ref=aicollection) | Bookclub.ai - 遇见你的下一本书. | . | :grey_question: |
 | [ChatGPT Writer](http://chatgptwriter.ai?ref=aicollection) | . | . | :grey_question: |
 | [Childbook](http://www.childbook.ai?ref=aicollection) | 欢迎来到儿童图书创作者！. | 您的书将通过人物、图片和故事进行个性化设置。故事和插图还具有文本转语音功能，可以收听。. | :grey_question: |
@@ -596,7 +595,7 @@
 | [Photorestoration](http://photorestoration.ai?ref=aicollection) | 旧照片在线修复 - photorestoration.ai. | . | :grey_question: |
 | [Photospells](http://photospells.com?ref=aicollection) | Photo Spells - 具有AI的专业照片版. | . | :grey_question: |
 | [Prisma](https://prisma-ai.com/prisma?ref=aicollection) | Prisma 捕捉照片的本质，将它们变成生动的彩色画作. | . | :white_check_mark: |
-| [Prisma](https://prisma-ai.com/lensa?ref=aicollection) | Lensa 是一款一体化图像编辑应用程序，可让您的照片更上一层楼。. | . | :white_check_mark: |
+| [Prisma Lensa](https://prisma-ai.com/lensa?ref=aicollection) | Lensa 是一款一体化图像编辑应用程序，可让您的照片更上一层楼。. | . | :white_check_mark: |
 | [Remover.app](http://remover.zmo.ai?ref=aicollection) | 在几秒钟内免费删除任何不需要的东西. | . | :white_check_mark: |
 | [RestorePhotos.io](https://www.restorephotos.io/?ref=aicollection) | 为所有人使用 AI 修复旧照片. | 有旧的和模糊的面部照片吗？让我们的 AI 恢复它们，让这些记忆得以延续。 100% 免费 – 立即恢复您的照片. | :white_check_mark: |
 | [SceneryAI](http://sceneryai.com?ref=aicollection) | 风景AI. | 使用我们的 AI 图像编辑工具生成或更新现有图像。. | :grey_question: |
@@ -898,7 +897,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [AI Dungeon](http://play.aidungeon.io?ref=aicollection) | 玩和创造具有无限可能性的 AI 生成的冒险. | . | :grey_question: |
-| [Assetsai](http://www.assetsai.art?ref=aicollection) | 为您的游戏提供 AI 驱动、独特且精心策划的资产. | . | :grey_question: |
+| [Assetsai](http://www.assetsai.art?ref=aicollection) | 为您的游戏提供 AI 驱动、独特且精心策划的资产. | . | :x: |
 | [Chess AI](http://betafish.gavinong.com?ref=aicollection) | Betafish.js - 国际象棋 AI. | . | :grey_question: |
 | [IRMO](http://www.irmoai.com?ref=aicollection) | 为创造而生。最好的 AI 应用程序. | 您的移动娱乐和 AI 艺术创作资源. | :white_check_mark: |
 | [Opus](http://opus.ai?ref=aicollection) | 作品网站. | . | :grey_question: |
@@ -985,7 +984,6 @@
 | [AIArt](http://aiart.dev?ref=aicollection) | aiart.dev. | . | :grey_question: |
 | [ARTSIO](http://artsio.xyz?ref=aicollection) | 雅思. | . | :grey_question: |
 | [Adobe Mic Check](https://podcast.adobe.com/miccheck?ref=aicollection) | 免费检查你的麦克风. | 获取有关如何改进麦克风设置的建议。我们将确保您听起来已准备好播客. | :white_check_mark: |
-| [Adobe Podcast](http://www.magictools.online?ref=aicollection) | 276 人工智能工具. | . | :grey_question: |
 | [Aiappideas](http://www.aiappideas.com?ref=aicollection) | 人工智能应用创意. | . | :white_check_mark: |
 | [Aida](http://www.bookmark.com) | 花时间经营您的业务，而不是您的网站. | 让我们的人工智能网站建设者在几分钟内让您的业务上线。. | :white_check_mark: |
 | [Aiva](http://aiva.ai?ref=aicollection) | AIVA - 创作情感配乐的人工智能. | . | :grey_question: |

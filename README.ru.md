@@ -20,7 +20,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=840" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=838" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=37" />
@@ -165,7 +165,7 @@
 ## Архитектура И Дизайн Интерьера
 | Имя | Заголовок | Описание | Предложить бесплатную версию |
 |---|---|---|:---:|
-| [AI Room Planner](http://airoomplanner.com?ref=aicollection) | Дизайн интерьера от AI. | Получите сотни идей дизайна интерьера для вашей комнаты — бесплатно и без ограничений. | :grey_question: |
+| [AI Room Planner](http://airoomplanner.com?ref=aicollection) | Дизайн интерьера от AI. | Получите сотни идей дизайна интерьера для вашей комнаты — бесплатно и без ограничений. | :white_check_mark: |
 | [AI TWO](http://aitwo.co/?ref=aicollection) | AITWO.CO — универсальная платформа дизайна на базе искусственного интеллекта. | . | :grey_question: |
 | [Dimensions](http://www.dimensions.ink?ref=aicollection) | Размеры — быстро создавайте визуальные концепции с помощью ИИ. | Представьте, что вы можете с легкостью создавать красивые интерьеры — вот что предлагает Dimensions. | :white_check_mark: |
 | [Getfloorplan](http://getfloorplan.com?ref=aicollection) | Создание 2d и 3d планов этажей с помощью ИИ. | Наши клиенты сообщают о росте числа звонков до 30 %, используя 2D- и 3D-планы этажей и виртуальные туры. | :grey_question: |
@@ -423,7 +423,7 @@
 | Имя | Заголовок | Описание | Предложить бесплатную версию |
 |---|---|---|:---:|
 | [AI Dungeon](http://play.aidungeon.io?ref=aicollection) | Играйте и создавайте приключения, созданные искусственным интеллектом, с безграничными возможностями. | . | :grey_question: |
-| [Assetsai](http://www.assetsai.art?ref=aicollection) | УНИКАЛЬНЫЕ И ОБЕСПЕЧЕННЫЕ АКТИВЫ ДЛЯ ВАШИХ ИГР. | . | :grey_question: |
+| [Assetsai](http://www.assetsai.art?ref=aicollection) | УНИКАЛЬНЫЕ И ОБЕСПЕЧЕННЫЕ АКТИВЫ ДЛЯ ВАШИХ ИГР. | . | :x: |
 | [Chess AI](http://betafish.gavinong.com?ref=aicollection) | Betafish.js — Шахматный ИИ. | . | :grey_question: |
 | [IRMO](http://www.irmoai.com?ref=aicollection) | Сделано для Творения. Самые лучшие приложения для искусственного интеллекта. | Ваш источник мобильных развлечений и творчества с использованием искусственного интеллекта. | :white_check_mark: |
 | [Opus](http://opus.ai?ref=aicollection) | OpusВеб-сайт. | . | :grey_question: |
@@ -734,7 +734,7 @@
 | [Photorestoration](http://photorestoration.ai?ref=aicollection) | Реставрация старых фотографий онлайн - photorestoration.ai. | . | :grey_question: |
 | [Photospells](http://photospells.com?ref=aicollection) | Photo Spells - Профессиональное фотоиздание с искусственным интеллектом. | . | :grey_question: |
 | [Prisma](https://prisma-ai.com/prisma?ref=aicollection) | Prisma улавливает суть ваших фотографий, превращая их в яркие цветные картины. | . | :white_check_mark: |
-| [Prisma](https://prisma-ai.com/lensa?ref=aicollection) | Lensa — это универсальное приложение для редактирования изображений, которое выводит ваши фотографии на новый уровень. | . | :white_check_mark: |
+| [Prisma Lensa](https://prisma-ai.com/lensa?ref=aicollection) | Lensa — это универсальное приложение для редактирования изображений, которое выводит ваши фотографии на новый уровень. | . | :white_check_mark: |
 | [Remover.app](http://remover.zmo.ai?ref=aicollection) | Удалите все ненужное за считанные секунды бесплатно. | . | :white_check_mark: |
 | [RestorePhotos.io](https://www.restorephotos.io/?ref=aicollection) | Восстановление старых фотографий с помощью ИИ для всех. | У вас есть старые и размытые фотографии лица? Пусть наш ИИ восстановит их, чтобы эти воспоминания могли жить. 100% бесплатно — восстановите свои фотографии уже сегодня. | :white_check_mark: |
 | [SceneryAI](http://sceneryai.com?ref=aicollection) | ДекорацииAI. | Создавайте или обновляйте существующие изображения с помощью нашего инструмента для редактирования изображений AI. | :grey_question: |
@@ -796,7 +796,6 @@
 ## Текст
 | Имя | Заголовок | Описание | Предложить бесплатную версию |
 |---|---|---|:---:|
-| [AI Poem Generator](https://www.aipoemgenerator.org?ref=aicollection) | Бесплатный генератор стихов на базе искусственного интеллекта. | Бесплатный онлайн-создатель стихов, который позволяет создавать красивые рифмованные стихи на любую тему с помощью ИИ. | :white_check_mark: |
 | [Bookclub](http://www.bookclub.ai?ref=aicollection) | Bookclub.ai - Встречайте свою следующую книгу. | . | :grey_question: |
 | [ChatGPT Writer](http://chatgptwriter.ai?ref=aicollection) | . | . | :grey_question: |
 | [Childbook](http://www.childbook.ai?ref=aicollection) | Добро пожаловать в создатель детской книги!. | Ваша книга будет персонализирована персонажами, картинками и историей. История и иллюстрации также имеют функцию преобразования текста в речь, и их можно слушать. | :grey_question: |
@@ -901,7 +900,7 @@
 ## Человеческие Ресурсы И Резюме
 | Имя | Заголовок | Описание | Предложить бесплатную версию |
 |---|---|---|:---:|
-| [Cover Letter AI](https://coverletterai.app/?ref=aicollection) | Сопроводительное письмо AI. | . | :white_check_mark: |
+| [Cover Letter AI App](https://coverletterai.app/?ref=aicollection) | Сопроводительное письмо AI. | . | :white_check_mark: |
 | [Hire Hoc](http://hirehoc.com?ref=aicollection) | Hire Hoc — инструмент найма на базе искусственного интеллекта. | Преобразуйте свою организацию с помощью рекрутинга с помощью ИИ. | :grey_question: |
 | [HireYaY](http://hireyay.com?ref=aicollection) | HireYaY, рекрутинговая платформа для стартапов. | 92% соискателей не заполняют онлайн-заявку. С HireYaY вы больше никогда не упустите подходящего кандидата. | :grey_question: |
 | [Hirex.ai](http://www.hirex.ai?ref=aicollection) | Hirex.ai. | Добро пожаловать на Hirex.ai, платформу искусственного интеллекта без кода для создания голосовых ботов, которые проводят и оценивают интервью в масштабе. Получите полный набор инструментов оценки, таких как собеседования по программированию, тесты MCQ, хакатоны, видеоинтервью и чат-боты WhatsApp, все на одной панели. | :grey_question: |
@@ -985,7 +984,6 @@
 | [AIArt](http://aiart.dev?ref=aicollection) | aiart.dev. | . | :grey_question: |
 | [ARTSIO](http://artsio.xyz?ref=aicollection) | АРТСИО. | . | :grey_question: |
 | [Adobe Mic Check](https://podcast.adobe.com/miccheck?ref=aicollection) | Проверьте свой микрофон бесплатно. | Получите совет о том, как улучшить настройку микрофона. Мы позаботимся о том, чтобы ваш звук был готов к подкастам. | :white_check_mark: |
-| [Adobe Podcast](http://www.magictools.online?ref=aicollection) | 276 инструментов ИИ. | . | :grey_question: |
 | [Aiappideas](http://www.aiappideas.com?ref=aicollection) | Идеи приложений ИИ. | . | :white_check_mark: |
 | [Aida](http://www.bookmark.com) | Тратьте время на свой бизнес, а не на свой сайт. | Позвольте нашему конструктору веб-сайтов на базе искусственного интеллекта вывести ваш бизнес в онлайн за считанные минуты. | :white_check_mark: |
 | [Aiva](http://aiva.ai?ref=aicollection) | AIVA — ИИ, сочиняющий эмоциональную музыку для саундтрека. | . | :grey_question: |

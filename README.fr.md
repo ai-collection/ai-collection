@@ -20,7 +20,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=840" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=838" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=37" />
@@ -148,7 +148,7 @@
 ## Architecture & Design D'Intérieur
 | Nom | Titre | Description | Offrir une version gratuite |
 |---|---|---|:---:|
-| [AI Room Planner](http://airoomplanner.com?ref=aicollection) | Design d'intérieur par IA. | Obtenez des centaines d'idées de design d'intérieur pour votre chambre - gratuitement et sans limite. | :grey_question: |
+| [AI Room Planner](http://airoomplanner.com?ref=aicollection) | Design d'intérieur par IA. | Obtenez des centaines d'idées de design d'intérieur pour votre chambre - gratuitement et sans limite. | :white_check_mark: |
 | [AI TWO](http://aitwo.co/?ref=aicollection) | AITWO.CO - La plate-forme de conception tout-en-un alimentée par l'IA. | . | :grey_question: |
 | [Dimensions](http://www.dimensions.ink?ref=aicollection) | Dimensions - créez rapidement des concepts visuels avec l'IA. | Imaginez pouvoir créer facilement de superbes intérieurs - c'est ce que propose Dimensions. | :white_check_mark: |
 | [Getfloorplan](http://getfloorplan.com?ref=aicollection) | Création de plans d'étage 2D et 3D avec l'IA. | Jusqu'à 30 % d'augmentation des appels signalés par nos clients utilisant des plans d'étage 2D, 3D et des visites virtuelles. | :grey_question: |
@@ -562,7 +562,7 @@
 | Nom | Titre | Description | Offrir une version gratuite |
 |---|---|---|:---:|
 | [AI Dungeon](http://play.aidungeon.io?ref=aicollection) | Jouez et créez des aventures générées par l'IA avec des possibilités infinies. | . | :grey_question: |
-| [Assetsai](http://www.assetsai.art?ref=aicollection) | DES ACTIFS ALIMENTÉS PAR L'IA, UNIQUES ET ORGANISÉS POUR VOS JEUX. | . | :grey_question: |
+| [Assetsai](http://www.assetsai.art?ref=aicollection) | DES ACTIFS ALIMENTÉS PAR L'IA, UNIQUES ET ORGANISÉS POUR VOS JEUX. | . | :x: |
 | [Chess AI](http://betafish.gavinong.com?ref=aicollection) | Betafish.js - IA d'échecs. | . | :grey_question: |
 | [IRMO](http://www.irmoai.com?ref=aicollection) | Conçu pour la création. Le meilleur des applications d'IA. | Votre source pour le divertissement mobile et la création artistique IA. | :white_check_mark: |
 | [Opus](http://opus.ai?ref=aicollection) | OpusSite Web. | . | :grey_question: |
@@ -687,7 +687,7 @@
 ## Ressources Humaines Et Cv
 | Nom | Titre | Description | Offrir une version gratuite |
 |---|---|---|:---:|
-| [Cover Letter AI](https://coverletterai.app/?ref=aicollection) | Lettre de motivation IA. | . | :white_check_mark: |
+| [Cover Letter AI App](https://coverletterai.app/?ref=aicollection) | Lettre de motivation IA. | . | :white_check_mark: |
 | [Hire Hoc](http://hirehoc.com?ref=aicollection) | Hire Hoc - L'outil de recrutement basé sur l'IA. | Transformez votre organisation grâce à la puissance du recrutement assisté par l'IA. | :grey_question: |
 | [HireYaY](http://hireyay.com?ref=aicollection) | HireYaY, une plateforme de recrutement pour les startups. | 92% des demandeurs d'emploi ne terminent pas leur candidature en ligne. Avec HireYaY, vous ne manquerez plus jamais un candidat qualifié. | :grey_question: |
 | [Hirex.ai](http://www.hirex.ai?ref=aicollection) | embauchex.ai. | Bienvenue sur hiringx.ai, une plate-forme d'IA sans code pour créer des robots vocaux qui mènent et notent des entretiens à grande échelle. Obtenez la suite complète d'outils d'évaluation tels que les entretiens de codage, les tests QCM, les hackathons, les entretiens vidéo et les chatbots WhatsApp, le tout sous un seul tableau de bord. | :grey_question: |
@@ -720,7 +720,7 @@
 | [Photorestoration](http://photorestoration.ai?ref=aicollection) | Ancienne restauration de photos en ligne - photorestoration.ai. | . | :grey_question: |
 | [Photospells](http://photospells.com?ref=aicollection) | Photo Spells - Édition photo professionnelle avec IA. | . | :grey_question: |
 | [Prisma](https://prisma-ai.com/prisma?ref=aicollection) | Prisma capture l'essence de vos photos en les transformant en peintures aux couleurs vives. | . | :white_check_mark: |
-| [Prisma](https://prisma-ai.com/lensa?ref=aicollection) | Lensa est une application de retouche d'image tout-en-un qui fait passer vos photos au niveau supérieur. | . | :white_check_mark: |
+| [Prisma Lensa](https://prisma-ai.com/lensa?ref=aicollection) | Lensa est une application de retouche d'image tout-en-un qui fait passer vos photos au niveau supérieur. | . | :white_check_mark: |
 | [Remover.app](http://remover.zmo.ai?ref=aicollection) | Supprimez tout ce qui n'est pas désiré en quelques secondes, gratuitement. | . | :white_check_mark: |
 | [RestorePhotos.io](https://www.restorephotos.io/?ref=aicollection) | Restauration de vieilles photos à l'aide de l'IA pour tout le monde. | Vous avez des photos de visage anciennes et floues ? Laissez notre IA les restaurer afin que ces souvenirs puissent perdurer. 100% gratuit - restaurez vos photos aujourd'hui. | :white_check_mark: |
 | [SceneryAI](http://sceneryai.com?ref=aicollection) | PaysageAI. | Générez ou mettez à jour des images existantes avec notre outil d'édition d'images AI. | :grey_question: |
@@ -788,7 +788,6 @@
 ## Texte
 | Nom | Titre | Description | Offrir une version gratuite |
 |---|---|---|:---:|
-| [AI Poem Generator](https://www.aipoemgenerator.org?ref=aicollection) | Générateur de poèmes gratuit alimenté par l'IA. | Un créateur de poèmes en ligne gratuit qui vous permet de générer de beaux poèmes rimés sur n'importe quel sujet avec l'IA. | :white_check_mark: |
 | [Bookclub](http://www.bookclub.ai?ref=aicollection) | Bookclub.ai - Rencontrez votre prochain livre. | . | :grey_question: |
 | [ChatGPT Writer](http://chatgptwriter.ai?ref=aicollection) | . | . | :grey_question: |
 | [Childbook](http://www.childbook.ai?ref=aicollection) | Bienvenue au créateur de livres pour enfants !. | Votre livre sera personnalisé avec des personnages, des images et une histoire. L'histoire et les illustrations ont également une fonction de synthèse vocale et peuvent être écoutées. | :grey_question: |
@@ -985,7 +984,6 @@
 | [AIArt](http://aiart.dev?ref=aicollection) | aiart.dev. | . | :grey_question: |
 | [ARTSIO](http://artsio.xyz?ref=aicollection) | ARTSIO. | . | :grey_question: |
 | [Adobe Mic Check](https://podcast.adobe.com/miccheck?ref=aicollection) | Vérifiez votre micro gratuitement. | Obtenez des conseils pour améliorer la configuration de votre microphone. Nous veillerons à ce que vous ayez l'air prêt pour le podcast. | :white_check_mark: |
-| [Adobe Podcast](http://www.magictools.online?ref=aicollection) | 276 Outils IA. | . | :grey_question: |
 | [Aiappideas](http://www.aiappideas.com?ref=aicollection) | Idées d'applications d'IA. | . | :white_check_mark: |
 | [Aida](http://www.bookmark.com) | Passez du temps à gérer votre entreprise, pas votre site Web. | Laissez notre créateur de site Web propulsé par Ai mettre votre entreprise en ligne en quelques minutes. | :white_check_mark: |
 | [Aiva](http://aiva.ai?ref=aicollection) | AIVA - L'IA qui compose une bande-son émotionnelle. | . | :grey_question: |

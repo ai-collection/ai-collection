@@ -20,7 +20,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=840" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=838" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=37" />
@@ -497,7 +497,7 @@
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
 | [AI Dungeon](http://play.aidungeon.io?ref=aicollection) | अनंत संभावनाओं के साथ एआई-जेनरेटेड एडवेंचर खेलें और बनाएं. | . | :grey_question: |
-| [Assetsai](http://www.assetsai.art?ref=aicollection) | आपके खेलों के लिए एआई-संचालित, अद्वितीय और क्यूरेटेड संपत्तियां. | . | :grey_question: |
+| [Assetsai](http://www.assetsai.art?ref=aicollection) | आपके खेलों के लिए एआई-संचालित, अद्वितीय और क्यूरेटेड संपत्तियां. | . | :x: |
 | [Chess AI](http://betafish.gavinong.com?ref=aicollection) | बेटाफिश.जेएस - शतरंज एआई. | . | :grey_question: |
 | [IRMO](http://www.irmoai.com?ref=aicollection) | सृजन के लिए बनाया गया। एआई ऐप्स में सर्वश्रेष्ठ. | मोबाइल मनोरंजन और एआई कला निर्माण के लिए आपका स्रोत. | :white_check_mark: |
 | [Opus](http://opus.ai?ref=aicollection) | ओपसवेबसाइट. | . | :grey_question: |
@@ -573,7 +573,7 @@
 | [Photorestoration](http://photorestoration.ai?ref=aicollection) | पुरानी फोटो बहाली ऑनलाइन - फोटोरेस्टोरेशन।आई. | . | :grey_question: |
 | [Photospells](http://photospells.com?ref=aicollection) | फोटो मंत्र - एआई के साथ व्यावसायिक फोटो संस्करण. | . | :grey_question: |
 | [Prisma](https://prisma-ai.com/prisma?ref=aicollection) | प्रिज्मा आपकी तस्वीरों के सार को कैप्चर करता है और उन्हें चमकीले रंग की पेंटिंग में बदल देता है. | . | :white_check_mark: |
-| [Prisma](https://prisma-ai.com/lensa?ref=aicollection) | लेंसा एक ऑल-इन-वन इमेज एडिटिंग ऐप है जो आपकी तस्वीरों को अगले स्तर तक ले जाता है।. | . | :white_check_mark: |
+| [Prisma Lensa](https://prisma-ai.com/lensa?ref=aicollection) | लेंसा एक ऑल-इन-वन इमेज एडिटिंग ऐप है जो आपकी तस्वीरों को अगले स्तर तक ले जाता है।. | . | :white_check_mark: |
 | [Remover.app](http://remover.zmo.ai?ref=aicollection) | सेकंड में कुछ भी अवांछित निकालें, मुफ्त में. | . | :white_check_mark: |
 | [RestorePhotos.io](https://www.restorephotos.io/?ref=aicollection) | सभी के लिए एआई का उपयोग करके पुरानी तस्वीरों को पुनर्स्थापित करना. | पुराने और धुंधले चेहरे की तस्वीरें हैं? हमारे एआई को उन्हें बहाल करने दें ताकि वे यादें जीवित रह सकें। 100% मुफ़्त - आज ही अपनी फ़ोटो पुनर्स्थापित करें. | :white_check_mark: |
 | [SceneryAI](http://sceneryai.com?ref=aicollection) | सीनरी. | हमारे एआई इमेज एडिटिंग टूल के साथ मौजूदा इमेज जेनरेट या अपडेट करें।. | :grey_question: |
@@ -630,7 +630,7 @@
 ## मानव संसाधन और फिर से शुरू
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
-| [Cover Letter AI](https://coverletterai.app/?ref=aicollection) | कवर लेटर एआई. | . | :white_check_mark: |
+| [Cover Letter AI App](https://coverletterai.app/?ref=aicollection) | कवर लेटर एआई. | . | :white_check_mark: |
 | [Hire Hoc](http://hirehoc.com?ref=aicollection) | हायर हॉक - एआई पावर्ड हायरिंग टूल. | एआई-असिस्टेड भर्ती की शक्ति के साथ अपने संगठन को बदलें।. | :grey_question: |
 | [HireYaY](http://hireyay.com?ref=aicollection) | हिरेय, स्टार्टअप्स के लिए एक हायरिंग प्लेटफॉर्म. | 92% नौकरी चाहने वाले अपना ऑनलाइन आवेदन पूरा नहीं करते हैं। HireYaY के साथ, आप एक योग्य उम्मीदवार को फिर कभी नहीं चूकेंगे।. | :grey_question: |
 | [Hirex.ai](http://www.hirex.ai?ref=aicollection) | Hirex.ऐ. | वॉयस-आधारित बॉट बनाने के लिए एक नो-कोड एआई प्लेटफॉर्म, हायरेक्स.एआई में आपका स्वागत है जो बड़े पैमाने पर साक्षात्कार आयोजित करता है और स्कोर करता है। कोडिंग इंटरव्यू, एमसीक्यू टेस्ट, हैकाथॉन, वीडियो इंटरव्यू और व्हाट्सएप चैटबॉट जैसे असेसमेंट टूल का पूरा सूट एक ही डैशबोर्ड में पाएं. | :grey_question: |
@@ -648,7 +648,6 @@
 ## मूलपाठ
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
-| [AI Poem Generator](https://www.aipoemgenerator.org?ref=aicollection) | नि: शुल्क एआई-संचालित कविता जेनरेटर. | एक मुफ्त ऑनलाइन कविता निर्माता जो आपको एआई के साथ किसी भी विषय पर सुंदर तुकबंदी वाली कविताएँ बनाने की सुविधा देता है. | :white_check_mark: |
 | [Bookclub](http://www.bookclub.ai?ref=aicollection) | Bookclub.Ai - मिलिए योर नेक्स्ट बुक. | . | :grey_question: |
 | [ChatGPT Writer](http://chatgptwriter.ai?ref=aicollection) | . | . | :grey_question: |
 | [Childbook](http://www.childbook.ai?ref=aicollection) | चिल्ड्रन्स बुक क्रिएटर में आपका स्वागत है!. | आपकी पुस्तक पात्रों, चित्रों और कहानी के साथ वैयक्तिकृत होगी। कहानी और चित्रों में टेक्स्ट-टू-स्पीच फीचर भी है और इसे सुना जा सकता है।. | :grey_question: |
@@ -749,7 +748,7 @@
 ## वास्तुकला और आंतरिक डिजाइन
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
-| [AI Room Planner](http://airoomplanner.com?ref=aicollection) | एआई द्वारा आंतरिक डिजाइन. | अपने कमरे के लिए सैकड़ों इंटीरियर डिजाइन विचार प्राप्त करें - बिना किसी सीमा के निःशुल्क।. | :grey_question: |
+| [AI Room Planner](http://airoomplanner.com?ref=aicollection) | एआई द्वारा आंतरिक डिजाइन. | अपने कमरे के लिए सैकड़ों इंटीरियर डिजाइन विचार प्राप्त करें - बिना किसी सीमा के निःशुल्क।. | :white_check_mark: |
 | [AI TWO](http://aitwo.co/?ref=aicollection) | Aitwo.Co - एआई-पावर्ड ऑल-इन-वन डिज़ाइन प्लेटफ़ॉर्म. | . | :grey_question: |
 | [Dimensions](http://www.dimensions.ink?ref=aicollection) | डाइमेंशन - एआई के साथ तेजी से विज़ुअल कॉन्सेप्ट बनाएं. | कल्पना करें कि आप आसानी से सुंदर आंतरिक डिज़ाइन बना सकते हैं - यही आयाम प्रदान करता है।. | :white_check_mark: |
 | [Getfloorplan](http://getfloorplan.com?ref=aicollection) | एआई के साथ 2डी और 3डी फ्लोर प्लान बनाना. | 2डी, 3डी फ्लोर प्लान और वर्चुअल टूर का उपयोग करने वाले हमारे ग्राहकों द्वारा 30% तक कॉल वृद्धि की सूचना दी गई है. | :grey_question: |
@@ -985,7 +984,6 @@
 | [AIArt](http://aiart.dev?ref=aicollection) | एयर्ट.देव. | . | :grey_question: |
 | [ARTSIO](http://artsio.xyz?ref=aicollection) | कला. | . | :grey_question: |
 | [Adobe Mic Check](https://podcast.adobe.com/miccheck?ref=aicollection) | अपना माइक मुफ़्त जांचें. | अपने माइक्रोफ़ोन सेटअप को बेहतर बनाने के बारे में सलाह लें। अच्छी तरह से सुनिश्चित करें कि आप पॉडकास्ट के लिए तैयार हैं. | :white_check_mark: |
-| [Adobe Podcast](http://www.magictools.online?ref=aicollection) | 276 एआई उपकरण. | . | :grey_question: |
 | [Aiappideas](http://www.aiappideas.com?ref=aicollection) | एआई ऐप विचार. | . | :white_check_mark: |
 | [Aida](http://www.bookmark.com) | अपना व्यवसाय चलाने में समय व्यतीत करें, अपनी वेबसाइट नहीं. | हमारे एआई संचालित वेबसाइट बिल्डर को मिनटों में अपना व्यवसाय ऑनलाइन करने दें।. | :white_check_mark: |
 | [Aiva](http://aiva.ai?ref=aicollection) | आइवा - द एआई कंपोजिंग इमोशनल साउंडट्रैक म्यूजिक. | . | :grey_question: |
