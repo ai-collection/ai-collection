@@ -898,6 +898,7 @@ Translations:
 ## Vacation & Trip Planner
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [Orkoi](orkoi.com) | Orkoi - Make a personalized travel plan in seconds, free, no signup | Our AI will build you a customized plan for any city or location you'd like to visit, complete with restaurants, fun activities, attractions and tips to make the best adventure. | :white_check_mark: |
 | [Roamr](http://www.letsroam.app?ref=aicollection) | Roamr - Your Dream Vacation in Seconds. | . | :grey_question: |
 | [Vacay](https://usevacay.com/chatbot?ref=aicollection) | Vacation Chat Agent. | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions. | :white_check_mark: |
 
