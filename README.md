@@ -76,6 +76,7 @@ Translations:
 <br />
 
 ## Index
+- 📈 [Accounting & Finance](#accounting--finance)
 - 🎲 [Animation & 3D Modeling](#animation--3d-modeling)
 - 🏯 [Architecture & Interior Design](#architecture--interior-design)
 - 🌄 [Art & Image Generator](#art--image-generator)
@@ -115,6 +116,16 @@ Translations:
 - [Other](#other)
 
 ---
+
+## Accounting & Finance
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [FlowCog](https://flowcog.com?ref=aicollection) | SaaS financial projections quick & easy ⚡ | Unlock cash runway & growth insights — no spreadsheets! 7 minute onboarding. QuickBooks & Stripe ready. Trusted by boards & investors. | :white_check_mark: |
+
+<!--End of Accounting & Finance 37-->
+
+<!--lint ignore double-link-->
+**[⬆ Back to Index](#index)**
 
 ## Animation & 3D Modeling
 | Name | Title | Description | Offer Free Version |
