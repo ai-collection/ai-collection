@@ -20,10 +20,10 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=838" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=841" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=37" />
+    <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=38" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -81,6 +81,7 @@
 - 🗳 [Avis Et Recommandations](#avis-et-recommandations)
 - 🧰 [Boîte À Outils Des Créateurs](#boîte-à-outils-des-créateurs)
 - 🤖💬 [Chatbot](#chatbot)
+- 📈 [Comptabilité Et Finance](#comptabilité-et-finance)
 - 🕸 [Diapositives Et Conception Web](#diapositives-et-conception-web)
 - 📢 [Discours](#discours)
 - 🌄 [Générateur D'Art Et D'Images](#générateur-d'art-et-d'images)
@@ -343,6 +344,16 @@
 | [SiteGPT](https://sitegpt.ai/?via=aicollection) | ChatGPT pour chaque site Web. | Répondez instantanément aux questions de vos visiteurs avec un chatbot personnalisé formé sur le contenu de votre site Web. | :white_check_mark: |
 
 <!--End of Chatbot 3-->
+
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+## Comptabilité Et Finance
+| Nom | Titre | Description | Offrir une version gratuite |
+|---|---|---|:---:|
+| [FlowCog](https://flowcog.com?ref=aicollection) | Projections financières SaaS rapides et faciles ⚡. | Débloquez des informations sur la piste de trésorerie et la croissance - pas de feuilles de calcul ! 7 minutes d'intégration. Prêt pour QuickBooks et Stripe. Approuvé par les conseils d'administration et les investisseurs. | :white_check_mark: |
+
+<!--End of Comptabilité et Finance 37-->
 
 <!--lint ignore double-link-->
 **[⬆ Retour à l'index](#index)**
@@ -650,6 +661,7 @@
 | [KUBIYA](http://kubiya.ai/?ref=aicollection) | Assistant virtuel DevOps. | Fournissez aux développeurs un accès sécurisé et en libre-service aux flux de travail opérationnels, aux ressources cloud et aux connaissances organisationnelles grâce à l'IA conversationnelle. | :grey_question: |
 | [Kive](http://www.kive.ai?ref=aicollection) | Kive - Toile IA. | toute votre inspiration au même endroit. | :grey_question: |
 | [Magical](https://www.getmagical.com/ai?ref=aicollection) | Faire disparaître les tâches. Comme la magie. | Faites appel à Magical AI pour faire tout ce que vous détestez faire. Créez des messages à partir de zéro, mettez à jour les formulaires instantanément et automatisez les tâches ennuyeuses, n'importe où, n'importe quand. | :white_check_mark: |
+| [Nekton.ai](https://nekton.ai/?ref=aicollection) | Automatisez vos workflows avec l'IA. | Automatisez les processus de routine pour vous et votre équipe sans avoir besoin de coder ou de maintenir l'infrastructure. | :white_check_mark: |
 | [Product Launch AI](https://shapenship.com/productlaunchai?ref=aicollection) | Libérez la puissance de l'IA pour booster vos lancements de produits. | Décollez pour un super lancement sans vous soucier de la copie de lancement !. | :grey_question: |
 | [bardeen](https://www.bardeen.ai/ai?ref=aicollection) | L'IA rencontre les automatisations. | À venir en 2023 - Bardeen introduit une IA révolutionnaire pour automatiser les flux de travail manuels, vous faire gagner du temps et renforcer votre créativité. | :grey_question: |
 | [mem](https://get.mem.ai/?ref=aicollection) | L'espace de travail auto-organisé. | Mem est le premier espace de travail au monde alimenté par l'IA qui vous est personnalisé. Amplifiez votre créativité, automatisez le banal et restez organisé automatiquement. | :white_check_mark: |
@@ -663,6 +675,7 @@
 ## Planificateur De Vacances Et De Voyages
 | Nom | Titre | Description | Offrir une version gratuite |
 |---|---|---|:---:|
+| [Orkoi](orkoi.com/?ref=aicollection) | Orkoi - Créez un plan de voyage personnalisé en quelques secondes, gratuit, sans inscription. | Notre IA vous élaborera un plan personnalisé pour n'importe quelle ville ou lieu que vous souhaitez visiter, avec des restaurants, des activités amusantes, des attractions et des conseils pour faire la meilleure aventure. | :white_check_mark: |
 | [Roamr](http://www.letsroam.app?ref=aicollection) | Roamr - Vos vacances de rêve en quelques secondes. | . | :grey_question: |
 | [Vacay](https://usevacay.com/chatbot?ref=aicollection) | Agent de chat de vacances. | Cet assistant IA peut concevoir un voyage personnalisé, vous donner l'inspiration sur les endroits où aller et même générer des recommandations locales pour les hôtels, les restaurants et les attractions. | :white_check_mark: |
 
