@@ -20,10 +20,10 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=838" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=841" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=37" />
+    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=38" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -120,7 +120,7 @@ Translations:
 ## Accounting & Finance
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [FlowCog](https://flowcog.com?ref=aicollection) | SaaS financial projections quick & easy ⚡ | Unlock cash runway & growth insights — no spreadsheets! 7 minute onboarding. QuickBooks & Stripe ready. Trusted by boards & investors. | :white_check_mark: |
+| [FlowCog](https://flowcog.com?ref=aicollection) | SaaS Financial Projections Quick & Easy ⚡. | Unlock cash runway & growth insights — no spreadsheets! 7 minute onboarding. QuickBooks & Stripe ready. Trusted by boards & investors. | :white_check_mark: |
 
 <!--End of Accounting & Finance 37-->
 
@@ -626,11 +626,11 @@ Translations:
 | [KUBIYA](http://kubiya.ai/?ref=aicollection) | Devops Virtual Assistant. | Provide developers secure, self-serve access to operational workflows, cloud resources and organizational knowledge with conversational AI. | :grey_question: |
 | [Kive](http://www.kive.ai?ref=aicollection) | Kive - AI Canvas. | all your inspiration in one place. | :grey_question: |
 | [Magical](https://www.getmagical.com/ai?ref=aicollection) | Make Tasks Disappear. Like Magic. | Call on Magical AI to do all the work stuff you hate doing. Create messages from scratch, update forms instantly, and automate annoying tasks—anywhere, anytime. | :white_check_mark: |
+| [Nekton.ai](https://nekton.ai/?ref=aicollection) | Automate Your Workflows With AI. | Automate the routine processes for yourself and your team without needing to code or maintain infrastructure. | :white_check_mark: |
 | [Product Launch AI](https://shapenship.com/productlaunchai?ref=aicollection) | Unleash the Power of AI to Supercharge Your Product Launches. | Blast off to a great launch without worrying about launch copy!. | :grey_question: |
 | [bardeen](https://www.bardeen.ai/ai?ref=aicollection) | AI Meets Automations. | Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity. | :grey_question: |
 | [mem](https://get.mem.ai/?ref=aicollection) | The Self-Organizing Workspace. | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically. | :white_check_mark: |
 | [timeMaster](https://www.timemaster.ai/?ref=aicollection) | Supercharge Your Focus and Productivity. | TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf. | :white_check_mark: |
-| [Nekton.ai](https://nekton.ai/?ref=aicollection) | Automate your workflows with AI. | Automate the routine processes for yourself and your team without needing to code or maintain infrastructure. | :white_check_mark: |
 
 <!--End of Organization & Automation 31-->
 
@@ -909,7 +909,7 @@ Translations:
 ## Vacation & Trip Planner
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [Orkoi](orkoi.com) | Orkoi - Make a personalized travel plan in seconds, free, no signup | Our AI will build you a customized plan for any city or location you'd like to visit, complete with restaurants, fun activities, attractions and tips to make the best adventure. | :white_check_mark: |
+| [Orkoi](orkoi.com/?ref=aicollection) | Orkoi - Make a Personalized Travel Plan in Seconds, Free, No Signup. | Our AI will build you a customized plan for any city or location you'd like to visit, complete with restaurants, fun activities, attractions and tips to make the best adventure. | :white_check_mark: |
 | [Roamr](http://www.letsroam.app?ref=aicollection) | Roamr - Your Dream Vacation in Seconds. | . | :grey_question: |
 | [Vacay](https://usevacay.com/chatbot?ref=aicollection) | Vacation Chat Agent. | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions. | :white_check_mark: |
 

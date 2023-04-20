@@ -20,10 +20,10 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=838" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=841" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=37" />
+    <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=38" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -73,6 +73,7 @@
 - 🤪 [乐趣](#乐趣)
 - 👩‍💼 [人力资源与简历](#人力资源与简历)
 - 💻 [代码和数据库助手](#代码和数据库助手)
+- 📈 [会计与金融](#会计与金融)
 - 🏖 [假期和旅行计划](#假期和旅行计划)
 - 📠 [内容生成和搜索引擎优化](#内容生成和搜索引擎优化)
 - ✍️ [写作助理](#写作助理)
@@ -184,9 +185,20 @@
 <!--lint ignore double-link-->
 **[⬆ 返回索引](#index)**
 
+## 会计与金融
+| 姓名 | 标题 | 描述 | 提供免费版本 |
+|---|---|---|:---:|
+| [FlowCog](https://flowcog.com?ref=aicollection) | SaaS 财务预测 快速简单 ⚡. | 解锁现金跑道和增长洞察力——没有电子表格！ 7 分钟入职。 QuickBooks 和 Stripe 准备就绪。深受董事会和投资者信赖. | :white_check_mark: |
+
+<!--End of 会计与金融 37-->
+
+<!--lint ignore double-link-->
+**[⬆ 返回索引](#index)**
+
 ## 假期和旅行计划
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
+| [Orkoi](orkoi.com/?ref=aicollection) | Orkoi - 快速制定个性化旅行计划，免费，无需注册. | 我们的 AI 将为您制定适合您想要游览的任何城市或地点的定制计划，包括餐厅、有趣的活动、景点和小贴士，助您开启最佳冒险之旅. | :white_check_mark: |
 | [Roamr](http://www.letsroam.app?ref=aicollection) | Roamr - 在几秒钟内完成您的梦想假期. | . | :grey_question: |
 | [Vacay](https://usevacay.com/chatbot?ref=aicollection) | 假期聊天代理. | 这个 AI 助手可以设计定制旅行，为您提供去哪里的灵感，甚至可以为酒店、餐厅和景点生成本地推荐。. | :white_check_mark: |
 
@@ -694,6 +706,7 @@
 | [KUBIYA](http://kubiya.ai/?ref=aicollection) | Devops 虚拟助理. | 通过对话式 AI 为开发人员提供安全、自助式的操作工作流程、云资源和组织知识访问. | :grey_question: |
 | [Kive](http://www.kive.ai?ref=aicollection) | Kive - 人工智能画布. | 您所有的灵感都集中在一个地方. | :grey_question: |
 | [Magical](https://www.getmagical.com/ai?ref=aicollection) | 让任务消失。喜欢魔术。. | 召唤 Magical AI 来完成您讨厌做的所有工作。随时随地从头开始创建消息、即时更新表单并自动执行烦人的任务。. | :white_check_mark: |
+| [Nekton.ai](https://nekton.ai/?ref=aicollection) | 使用 AI 自动化您的工作流程. | 无需编写代码或维护基础架构，即可为您和您的团队自动化日常流程。. | :white_check_mark: |
 | [Product Launch AI](https://shapenship.com/productlaunchai?ref=aicollection) | 释放 AI 的力量来加速您的产品发布. | 无需担心发布文案就可以进行出色的发布！. | :grey_question: |
 | [bardeen](https://www.bardeen.ai/ai?ref=aicollection) | 人工智能遇见自动化. | 即将于 2023 年推出 – Bardeen 将引入突破性的 AI 来自动化手动工作流程，节省您的时间并激发您的创造力。. | :grey_question: |
 | [mem](https://get.mem.ai/?ref=aicollection) | 自组织工作空间. | Mem 是世界上第一个由人工智能驱动的个性化工作空间。放大您的创造力，使平凡的事情自动化，并自动保持井井有条。. | :white_check_mark: |
