@@ -76,6 +76,7 @@ Translations:
 <br />
 
 ## Index
+- 📈 [Accounting & Finance](#accounting--finance)
 - 🎲 [Animation & 3D Modeling](#animation--3d-modeling)
 - 🏯 [Architecture & Interior Design](#architecture--interior-design)
 - 🌄 [Art & Image Generator](#art--image-generator)
@@ -115,6 +116,16 @@ Translations:
 - [Other](#other)
 
 ---
+
+## Accounting & Finance
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [FlowCog](https://flowcog.com?ref=aicollection) | SaaS financial projections quick & easy ⚡ | Unlock cash runway & growth insights — no spreadsheets! 7 minute onboarding. QuickBooks & Stripe ready. Trusted by boards & investors. | :white_check_mark: |
+
+<!--End of Accounting & Finance 37-->
+
+<!--lint ignore double-link-->
+**[⬆ Back to Index](#index)**
 
 ## Animation & 3D Modeling
 | Name | Title | Description | Offer Free Version |
@@ -619,6 +630,7 @@ Translations:
 | [bardeen](https://www.bardeen.ai/ai?ref=aicollection) | AI Meets Automations. | Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity. | :grey_question: |
 | [mem](https://get.mem.ai/?ref=aicollection) | The Self-Organizing Workspace. | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically. | :white_check_mark: |
 | [timeMaster](https://www.timemaster.ai/?ref=aicollection) | Supercharge Your Focus and Productivity. | TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf. | :white_check_mark: |
+| [Nekton.ai](https://nekton.ai/?ref=aicollection) | Automate your workflows with AI. | Automate the routine processes for yourself and your team without needing to code or maintain infrastructure. | :white_check_mark: |
 
 <!--End of Organization & Automation 31-->
 
@@ -897,6 +909,7 @@ Translations:
 ## Vacation & Trip Planner
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [Orkoi](orkoi.com) | Orkoi - Make a personalized travel plan in seconds, free, no signup | Our AI will build you a customized plan for any city or location you'd like to visit, complete with restaurants, fun activities, attractions and tips to make the best adventure. | :white_check_mark: |
 | [Roamr](http://www.letsroam.app?ref=aicollection) | Roamr - Your Dream Vacation in Seconds. | . | :grey_question: |
 | [Vacay](https://usevacay.com/chatbot?ref=aicollection) | Vacation Chat Agent. | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions. | :white_check_mark: |
 
