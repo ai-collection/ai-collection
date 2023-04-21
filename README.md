@@ -420,6 +420,7 @@ Translations:
 |---|---|---|:---:|
 | [AI Answers by Cohere](http://cohere.io?ref=aicollection) | Conversational AI Platform for Customer Support - Cohere. | AI-powered support assistance that finds answers from previous tickets. | :grey_question: |
 | [Bahasa](http://www.bahasa.ai?ref=aicollection) | Bahasa.Ai - Chatbot Which Serves Customers Fully. | Automation that helps your business serves millions of happy customers fastlyâpowered by AI specially built for Bahasa Indonesia. | :grey_question: |
+| [ChatGenius](https://chatgenius.one?ref=aicollection) | ChatGenius - Unlock the power of Multilingual Communication | ChatGenius is a software company that provides a powerful AI chatbot solution powered by GPT-4 and ChatGPT. Our chatbot offers 24/7 support in over 110 languages and can be integrated seamlessly into your website or platform. | :white_check_mark: |
 | [EddyAI](http://eddyai.com?ref=aicollection) | Sell and Support Your Customers Automatically 24/7. | Increase Sales and Reduce Support Costs. | :white_check_mark: |
 | [OneTone.ai](https://onetone.ai?ref=aicollection) | We Help Support Teams Communicate Faster and More Accurate. | OneTone.ai is an AI-powered platform that gives you valuable insights, allowing you to make informed decisions and deliver top-notch customer service. | :white_check_mark: |
 | [ResolveAI](http://resolveai.co?ref=aicollection) | Resolveai. | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time. | :grey_question: |
