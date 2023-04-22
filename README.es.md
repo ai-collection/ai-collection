@@ -20,7 +20,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=841" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=842" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=38" />
@@ -240,6 +240,7 @@
 |---|---|---|:---:|
 | [AI Answers by Cohere](http://cohere.io?ref=aicollection) | Plataforma de IA conversacional para atención al cliente - Cohere. | Asistencia de soporte impulsada por IA que encuentra respuestas de tickets anteriores. | :grey_question: |
 | [Bahasa](http://www.bahasa.ai?ref=aicollection) | Bahasa.Ai - Chatbot que atiende completamente a los clientes. | Automatización que ayuda a su empresa a atender rápidamente a millones de clientes satisfechos, con la tecnología de inteligencia artificial creada especialmente para el bahasa de Indonesia. | :grey_question: |
+| [ChatGenius](https://chatgenius.one?ref=aicollection) | ChatGenius - Libere el poder de la comunicación multilingüe. | ChatGenius es una empresa de software que ofrece una potente solución de chatbot de IA con tecnología GPT-4 y ChatGPT. Nuestro chatbot ofrece soporte 24/7 en más de 110 idiomas y puede integrarse perfectamente en su sitio web o plataforma. | :white_check_mark: |
 | [EddyAI](http://eddyai.com?ref=aicollection) | Venda y apoye a sus clientes automáticamente 24/7. | Aumente las ventas y reduzca los costos de soporte. | :white_check_mark: |
 | [OneTone.ai](https://onetone.ai?ref=aicollection) | Ayudamos a los equipos de soporte a comunicarse de manera más rápida y precisa. | OneTone.ai es una plataforma impulsada por IA que le brinda información valiosa, lo que le permite tomar decisiones informadas y brindar un servicio al cliente de primer nivel. | :white_check_mark: |
 | [ResolveAI](http://resolveai.co?ref=aicollection) | resolver. | Nuestros chatbots de IA están diseñados para comprender los problemas de los clientes y proporcionar respuestas precisas y personalizadas en tiempo real. | :grey_question: |

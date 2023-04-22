@@ -20,7 +20,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=841" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=842" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=38" />
@@ -466,6 +466,7 @@
 |---|---|---|:---:|
 | [AI Answers by Cohere](http://cohere.io?ref=aicollection) | ग्राहक सहायता के लिए संवादी AI प्लेटफ़ॉर्म - कोहेयर. | एआई-संचालित समर्थन सहायता जो पिछले टिकटों से उत्तर ढूंढती है. | :grey_question: |
 | [Bahasa](http://www.bahasa.ai?ref=aicollection) | बहासा.आई - चैटबॉट जो ग्राहकों को पूरी तरह से सेवा प्रदान करता है. | ऑटोमेशन जो आपके व्यवसाय में मदद करता है, लाखों खुश ग्राहकों को तेजी से सेवा प्रदान करता है, एआई द्वारा संचालित विशेष रूप से बहासा इंडोनेशिया के लिए बनाया गया है।. | :grey_question: |
+| [ChatGenius](https://chatgenius.one?ref=aicollection) | चैटजीनियस - बहुभाषी संचार की शक्ति को अनलॉक करें. | ChatGenius एक सॉफ्टवेयर कंपनी है जो GPT-4 और ChatGPT द्वारा संचालित एक शक्तिशाली AI चैटबॉट समाधान प्रदान करती है। हमारा चैटबॉट 110 से अधिक भाषाओं में 24/7 सहायता प्रदान करता है और इसे आपकी वेबसाइट या प्लेटफ़ॉर्म में मूल रूप से एकीकृत किया जा सकता है. | :white_check_mark: |
 | [EddyAI](http://eddyai.com?ref=aicollection) | अपने ग्राहकों को स्वचालित रूप से 24/7 बेचें और उनका समर्थन करें. | बिक्री बढ़ाएँ और समर्थन लागत कम करें. | :white_check_mark: |
 | [OneTone.ai](https://onetone.ai?ref=aicollection) | हम सहायता टीमों को तेज़ और अधिक सटीक संचार करने में मदद करते हैं. | OneTone.ai एक एआई-संचालित प्लेटफ़ॉर्म है जो आपको मूल्यवान अंतर्दृष्टि प्रदान करता है, जिससे आप सूचित निर्णय ले सकते हैं और उच्चतम ग्राहक सेवा प्रदान कर सकते हैं।. | :white_check_mark: |
 | [ResolveAI](http://resolveai.co?ref=aicollection) | समाधान. | हमारे एआई चैटबॉट ग्राहकों की समस्याओं को समझने और वास्तविक समय में अनुरूप, सटीक प्रतिक्रिया प्रदान करने के लिए डिज़ाइन किए गए हैं।. | :grey_question: |
