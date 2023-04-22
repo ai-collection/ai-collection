@@ -20,7 +20,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=842" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=841" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=38" />
@@ -797,7 +797,6 @@
 |---|---|---|:---:|
 | [AI Answers by Cohere](http://cohere.io?ref=aicollection) | Разговорная платформа искусственного интеллекта для поддержки клиентов — Cohere. | Поддержка на основе искусственного интеллекта, которая находит ответы из предыдущих заявок. | :grey_question: |
 | [Bahasa](http://www.bahasa.ai?ref=aicollection) | Bahasa.ai - чат-бот, который полностью обслуживает клиентов. | Автоматизация, которая поможет вашему бизнесу быстро обслуживать миллионы довольных клиентов, основана на искусственном интеллекте, специально разработанном для Bahasa Indonesia. | :grey_question: |
-| [ChatGenius](https://chatgenius.one?ref=aicollection) | ChatGenius — откройте для себя возможности многоязычного общения. | ChatGenius — компания-разработчик программного обеспечения, которая предоставляет мощное решение для чат-ботов с искусственным интеллектом на базе GPT-4 и ChatGPT. Наш чат-бот предлагает круглосуточную поддержку на более чем 110 языках и может быть легко интегрирован в ваш веб-сайт или платформу. | :white_check_mark: |
 | [EddyAI](http://eddyai.com?ref=aicollection) | Продавайте и поддерживайте своих клиентов автоматически 24/7. | Увеличьте продажи и сократите расходы на поддержку. | :white_check_mark: |
 | [OneTone.ai](https://onetone.ai?ref=aicollection) | Мы помогаем группам поддержки общаться быстрее и точнее. | OneTone.ai — это платформа на базе искусственного интеллекта, которая дает ценную информацию, позволяющую принимать обоснованные решения и обеспечивать первоклассное обслуживание клиентов. | :white_check_mark: |
 | [ResolveAI](http://resolveai.co?ref=aicollection) | Решить AI. | Наши чат-боты с искусственным интеллектом предназначены для понимания проблем клиентов и предоставления индивидуальных и точных ответов в режиме реального времени. | :grey_question: |
