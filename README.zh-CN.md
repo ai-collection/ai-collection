@@ -20,7 +20,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=841" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=842" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=38" />
@@ -383,6 +383,7 @@
 |---|---|---|:---:|
 | [AI Answers by Cohere](http://cohere.io?ref=aicollection) | 用于客户支持的对话式 AI 平台 - Cohere. | AI 驱动的支持帮助，可从以前的工单中找到答案. | :grey_question: |
 | [Bahasa](http://www.bahasa.ai?ref=aicollection) | Bahasa.ai - 全面服务客户的聊天机器人. | 自动化可帮助您的企业快速为数百万满意的客户提供服务——由专为印度尼西亚语构建的 AI 提供支持。. | :grey_question: |
+| [ChatGenius](https://chatgenius.one?ref=aicollection) | ChatGenius - 释放多语言交流的力量. | ChatGenius 是一家软件公司，提供由 GPT-4 和 ChatGPT 提供支持的强大的人工智能聊天机器人解决方案。我们的聊天机器人提供超过 110 种语言的 24/7 全天候支持，并且可以无缝集成到您的网站或平台中. | :white_check_mark: |
 | [EddyAI](http://eddyai.com?ref=aicollection) | 24/7 自动销售和支持您的客户. | 增加销售额并降低支持成本. | :white_check_mark: |
 | [OneTone.ai](https://onetone.ai?ref=aicollection) | 我们帮助支持团队更快、更准确地沟通. | OneTone.ai 是一个人工智能平台，可为您提供宝贵的见解，让您做出明智的决策并提供一流的客户服务。. | :white_check_mark: |
 | [ResolveAI](http://resolveai.co?ref=aicollection) | 解决AI. | 我们的 AI 聊天机器人旨在了解客户问题并实时提供量身定制的准确响应。. | :grey_question: |
