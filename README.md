@@ -20,7 +20,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=841" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=842" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=38" />
@@ -420,6 +420,7 @@ Translations:
 |---|---|---|:---:|
 | [AI Answers by Cohere](http://cohere.io?ref=aicollection) | Conversational AI Platform for Customer Support - Cohere. | AI-powered support assistance that finds answers from previous tickets. | :grey_question: |
 | [Bahasa](http://www.bahasa.ai?ref=aicollection) | Bahasa.Ai - Chatbot Which Serves Customers Fully. | Automation that helps your business serves millions of happy customers fastlyâpowered by AI specially built for Bahasa Indonesia. | :grey_question: |
+| [ChatGenius](https://chatgenius.one?ref=aicollection) | ChatGenius - Unlock the Power of Multilingual Communication. | ChatGenius is a software company that provides a powerful AI chatbot solution powered by GPT-4 and ChatGPT. Our chatbot offers 24/7 support in over 110 languages and can be integrated seamlessly into your website or platform. | :white_check_mark: |
 | [EddyAI](http://eddyai.com?ref=aicollection) | Sell and Support Your Customers Automatically 24/7. | Increase Sales and Reduce Support Costs. | :white_check_mark: |
 | [OneTone.ai](https://onetone.ai?ref=aicollection) | We Help Support Teams Communicate Faster and More Accurate. | OneTone.ai is an AI-powered platform that gives you valuable insights, allowing you to make informed decisions and deliver top-notch customer service. | :white_check_mark: |
 | [ResolveAI](http://resolveai.co?ref=aicollection) | Resolveai. | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time. | :grey_question: |
@@ -795,7 +796,6 @@ Translations:
 |---|---|---|:---:|
 | [Adobe Speech Enhancer](https://podcast.adobe.com/enhance?ref=aicollection) | Enhance Voice Recordings for Free. | Speech enhancement makes voice recordings sound as if they were recorded in a professional studio. | :white_check_mark: |
 | [Lingostar](http://www.lingostar.ai?ref=aicollection) | Lingostar - Real Conversations With Artificial Intelligence. | Lingostar is the AI who language learners can speak to in English, Spanish, or French. Reach fluency with REAL spoken conversations for free. No more tutors - chat with the Lingostar A.I. to improve your pronunciation, vocabulary, and comprehension. | :white_check_mark: |
-| [SmallTalk2.me](https://smalltalk2.me?ref=aicollection) | AI-powered teaching assistant for testing and improving English speaking skills | We help language learners evaluate and enhance their language proficiency more quickly and efficiently than traditional training methods. With SmallTalk, learners can self-assess their English proficiency level, prepare for a job interview in English or the IELTS exam, and engage in speaking exercises that prepare them for conversations in the workplace, academic settings, or everyday life. | :white_check_mark: |
 
 <!--End of Speech 21-->
 

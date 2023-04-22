@@ -20,7 +20,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=841" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=842" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=38" />
@@ -777,6 +777,7 @@
 |---|---|---|:---:|
 | [AI Answers by Cohere](http://cohere.io?ref=aicollection) | Plateforme d'IA conversationnelle pour le support client - Cohere. | Assistance d'assistance alimentée par l'IA qui trouve les réponses des tickets précédents. | :grey_question: |
 | [Bahasa](http://www.bahasa.ai?ref=aicollection) | Bahasa.ai - Chatbot qui sert pleinement les clients. | Une automatisation qui aide votre entreprise à servir rapidement des millions de clients satisfaits, alimentée par une IA spécialement conçue pour Bahasa Indonesia. | :grey_question: |
+| [ChatGenius](https://chatgenius.one?ref=aicollection) | ChatGenius - Libérez le pouvoir de la communication multilingue. | ChatGenius est une société de logiciels qui fournit une puissante solution de chatbot IA alimentée par GPT-4 et ChatGPT. Notre chatbot offre une assistance 24h/24 et 7j/7 dans plus de 110 langues et peut être intégré de manière transparente à votre site Web ou à votre plateforme. | :white_check_mark: |
 | [EddyAI](http://eddyai.com?ref=aicollection) | Vendez et assistez vos clients automatiquement 24h/24 et 7j/7. | Augmentez les ventes et réduisez les coûts de support. | :white_check_mark: |
 | [OneTone.ai](https://onetone.ai?ref=aicollection) | Nous aidons les équipes d'assistance à communiquer plus rapidement et avec plus de précision. | OneTone.ai est une plate-forme alimentée par l'IA qui vous donne des informations précieuses, vous permettant de prendre des décisions éclairées et d'offrir un service client de premier ordre. | :white_check_mark: |
 | [ResolveAI](http://resolveai.co?ref=aicollection) | RésoudreAI. | Nos chatbots IA sont conçus pour comprendre les problèmes des clients et fournir des réponses personnalisées et précises en temps réel. | :grey_question: |
