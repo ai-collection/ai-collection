@@ -20,7 +20,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=842" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=843" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=38" />
@@ -55,11 +55,24 @@ Translations:
 
 <div align="center">
     <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/codiumAI.png" alt="CodiumAI" border="0"/>
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1825.webp" alt="CodiumAI" border="0"/>
     </a>
     <h4>CodiumAI - Generating meaningful tests for busy devs</h4>
     <p>With CodiumAI, you get non-trivial tests (and trivial, too!) suggested right inside your IDE, so you can code smart, create more value, and stay confident when you push. Code, as you meant it.</p>
     <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank"><b>Get Started with CodiumAI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://smalltalk2.me?ref=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1847.webp" alt="SmallTalk" border="0"/>
+    </a>
+    <h4>AI-powered Teaching Assistant for Testing and Improving English Speaking Skills</h4>
+    <p>With SmallTalk, learners can self-assess their English proficiency level, prepare for a job interview in English or the IELTS exam, and engage in speaking exercises that prepare them for conversations in the workplace, academic settings, or everyday life</p>
+    <a href="https://smalltalk2.me?ref=aicollection" target="_blank"><b>Get Started with SmallTalk</b></a>
     <br />
 </div>
 
@@ -369,7 +382,7 @@ Translations:
 | [Hypotenuse.ai](http://www.hypotenuse.ai?ref=aicollection) | Let AI Write Your Content in Seconds. Without WriterS Block. | Provide a few keywords, and well instantly turn them into full-length articles and marketing content, using our world-class AI with a vast knowledge of the world. | :white_check_mark: |
 | [Intelligent paraphraser](https://aiseo.ai/?fpr=beth0) | Aiseo - AI Writing Assistant, AI Copywriting & Content Generator. | Get writing superpowers with artificial intelligence. We at AISEO will help you convert your thoughts to blogs and can write for you at the click of a button. | :white_check_mark: |
 | [Jasper.ai](http://www.jasper.ai?ref=aicollection) | Jasper - AI Copywriter - AI Content Generator for Teams. | Jasper is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster. | :white_check_mark: |
-| [Kafkai](http://kafkai.com) | Unique and Readable AI Content Generator. | Kafkai is an AI Writer Assistant that helps you create unique SEO-friendly articles for cents instead of dollars. | :x: |
+| [Kafkai](https://kafkai.com/?via=aicollection) | Unique and Readable AI Content Generator. | Kafkai is an AI Writer Assistant that helps you create unique SEO-friendly articles for cents instead of dollars. | :x: |
 | [Katteb](http://katteb.com?ref=aicollection) | Write Fact-Checked Content. | Katteb AI makes it fast & easy to create content for your blog and online store. | :white_check_mark: |
 | [LAIKA](http://www.writewithlaika.com?ref=aicollection) | Personalised Artificial Intelligence for Writers. | We make the boring parts of writing exciting. LAIKA is a creative partner that you train to write like you (or anyone you want). Made for creative writers, game writers, and all other fiction fabricators. | :white_check_mark: |
 | [Lek](http://lek.ai?ref=aicollection) | Lek.Ai - The Ultimate Content Creator Toolkit Powered by AI. | Write Anything For Everything. The fastest and easiest way to create content and copy. | :white_check_mark: |
@@ -796,6 +809,7 @@ Translations:
 |---|---|---|:---:|
 | [Adobe Speech Enhancer](https://podcast.adobe.com/enhance?ref=aicollection) | Enhance Voice Recordings for Free. | Speech enhancement makes voice recordings sound as if they were recorded in a professional studio. | :white_check_mark: |
 | [Lingostar](http://www.lingostar.ai?ref=aicollection) | Lingostar - Real Conversations With Artificial Intelligence. | Lingostar is the AI who language learners can speak to in English, Spanish, or French. Reach fluency with REAL spoken conversations for free. No more tutors - chat with the Lingostar A.I. to improve your pronunciation, vocabulary, and comprehension. | :white_check_mark: |
+| [SmallTalk2.me](https://smalltalk2.me?ref=aicollection) | AI-powered Teaching Assistant for Testing and Improving English Speaking Skills. | With SmallTalk, learners can self-assess their English proficiency level, prepare for a job interview in English or the IELTS exam, and engage in speaking exercises that prepare them for conversations in the workplace, academic settings, or everyday life. | :white_check_mark: |
 
 <!--End of Speech 21-->
 
@@ -910,7 +924,7 @@ Translations:
 ## Vacation & Trip Planner
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [Orkoi](orkoi.com/?ref=aicollection) | Orkoi - Make a Personalized Travel Plan in Seconds, Free, No Signup. | Our AI will build you a customized plan for any city or location you'd like to visit, complete with restaurants, fun activities, attractions and tips to make the best adventure. | :white_check_mark: |
+| [Orkoi](https://orkoi.com/?ref=aicollection) | Orkoi - Make a Personalized Travel Plan in Seconds, Free, No Signup. | Our AI will build you a customized plan for any city or location you'd like to visit, complete with restaurants, fun activities, attractions and tips to make the best adventure. | :white_check_mark: |
 | [Roamr](http://www.letsroam.app?ref=aicollection) | Roamr - Your Dream Vacation in Seconds. | . | :grey_question: |
 | [Vacay](https://usevacay.com/chatbot?ref=aicollection) | Vacation Chat Agent. | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions. | :white_check_mark: |
 
