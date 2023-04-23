@@ -20,7 +20,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=842" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=843" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=38" />
@@ -49,11 +49,24 @@
 
 <div align="center">
     <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/codiumAI.png" alt="CodiumAI" border="0"/>
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1825.webp" alt="CodiumAI" border="0"/>
     </a>
     <h4>CodiumAI - व्यस्त देवों के लिए सार्थक परीक्षण उत्पन्न करना</h4>
     <p>CodiumAI के साथ, आपको गैर-तुच्छ परीक्षण (और तुच्छ भी!) अपने IDE के अंदर ही सुझाए गए हैं, ताकि आप स्मार्ट कोड कर सकें, अधिक मूल्य बना सकें, और जब आप पुश करते हैं तो आश्वस्त रहें। कोड, जैसा कि आपका मतलब था।</p>
     <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank"><b>CodiumAI के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://smalltalk2.me?ref=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1847.webp" alt="SmallTalk" border="0"/>
+    </a>
+    <h4>अंग्रेजी बोलने के कौशल के परीक्षण और सुधार के लिए एआई-संचालित शिक्षण सहायक</h4>
+    <p>स्मॉलटॉक के साथ, शिक्षार्थी अपने अंग्रेजी दक्षता स्तर का स्व-मूल्यांकन कर सकते हैं, अंग्रेजी या आईईएलटीएस परीक्षा में नौकरी के लिए इंटरव्यू की तैयारी कर सकते हैं, और बोलने के अभ्यास में संलग्न हो सकते हैं जो उन्हें कार्यस्थल, शैक्षणिक सेटिंग्स या रोजमर्रा की जिंदगी में बातचीत के लिए तैयार करते हैं।</p>
+    <a href="https://smalltalk2.me?ref=aicollection" target="_blank"><b>SmallTalk के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -146,7 +159,7 @@
 ## अवकाश और ट्रिप प्लानर
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
-| [Orkoi](orkoi.com/?ref=aicollection) | Orkoi - सेकंड में एक व्यक्तिगत यात्रा योजना बनाएं, निःशुल्क, कोई पंजीकरण नहीं. | हमारा एआई आपको किसी भी शहर या स्थान के लिए एक अनुकूलित योजना तैयार करेगा, जहां आप जाना चाहते हैं, रेस्तरां, मजेदार गतिविधियों, आकर्षण और सर्वोत्तम साहसिक कार्य करने के लिए युक्तियों के साथ पूरा करें।. | :white_check_mark: |
+| [Orkoi](https://orkoi.com/?ref=aicollection) | Orkoi - सेकंड में एक व्यक्तिगत यात्रा योजना बनाएं, निःशुल्क, कोई पंजीकरण नहीं. | हमारा एआई आपको किसी भी शहर या स्थान के लिए एक अनुकूलित योजना तैयार करेगा, जहां आप जाना चाहते हैं, रेस्तरां, मजेदार गतिविधियों, आकर्षण और सर्वोत्तम साहसिक कार्य करने के लिए युक्तियों के साथ पूरा करें।. | :white_check_mark: |
 | [Roamr](http://www.letsroam.app?ref=aicollection) | रोमर - सेकेंड में आपका ड्रीम वेकेशन. | . | :grey_question: |
 | [Vacay](https://usevacay.com/chatbot?ref=aicollection) | अवकाश चैट एजेंट. | यह एआई-सहायक एक कस्टम ट्रिप डिजाइन कर सकता है, आपको कहां जाना है, इस पर प्रेरणा देता है, और यहां तक कि होटल, रेस्तरां और आकर्षण के लिए स्थानीय अनुशंसाएं भी उत्पन्न करता है।. | :white_check_mark: |
 
@@ -597,6 +610,7 @@
 |---|---|---|:---:|
 | [Adobe Speech Enhancer](https://podcast.adobe.com/enhance?ref=aicollection) | वॉयस रिकॉर्डिंग को मुफ्त में बढ़ाएं. | स्पीच एन्हांसमेंट वॉयस रिकॉर्डिंग को ध्वनि बनाता है जैसे कि वे एक पेशेवर स्टूडियो में रिकॉर्ड किए गए हों. | :white_check_mark: |
 | [Lingostar](http://www.lingostar.ai?ref=aicollection) | लिंगोस्टार - आर्टिफिशियल इंटेलिजेंस के साथ वास्तविक बातचीत. | लिंगोस्टार एआई है जिससे भाषा सीखने वाले अंग्रेजी, स्पेनिश या फ्रेंच में बात कर सकते हैं। मुफ़्त में बोली जाने वाली वास्तविक बातचीत के साथ धाराप्रवाहिता तक पहुँचें। अब और शिक्षक नहीं - लिंगोस्टार ए.आई. के साथ चैट करें। अपने उच्चारण, शब्दावली और समझ में सुधार करने के लिए. | :white_check_mark: |
+| [SmallTalk2.me](https://smalltalk2.me?ref=aicollection) | अंग्रेजी बोलने के कौशल के परीक्षण और सुधार के लिए एआई-संचालित शिक्षण सहायक. | स्मॉलटॉक के साथ, शिक्षार्थी अपने अंग्रेजी दक्षता स्तर का स्व-मूल्यांकन कर सकते हैं, अंग्रेजी या आईईएलटीएस परीक्षा में नौकरी के लिए इंटरव्यू की तैयारी कर सकते हैं, और बोलने के अभ्यास में संलग्न हो सकते हैं जो उन्हें कार्यस्थल, शैक्षणिक सेटिंग्स या रोजमर्रा की जिंदगी में बातचीत के लिए तैयार करते हैं।. | :white_check_mark: |
 
 <!--End of भाषण 21-->
 
@@ -893,7 +907,7 @@
 | [Hypotenuse.ai](http://www.hypotenuse.ai?ref=aicollection) | एआई को सेकंड में अपनी सामग्री लिखने दें। राइटरएस ब्लॉक के बिना।. | दुनिया के विशाल ज्ञान के साथ हमारे विश्व स्तरीय एआई का उपयोग करते हुए, कुछ कीवर्ड प्रदान करें, और तुरंत उन्हें पूर्ण-लंबाई वाले लेखों और मार्केटिंग सामग्री में बदल दें।. | :white_check_mark: |
 | [Intelligent paraphraser](https://aiseo.ai/?fpr=beth0) | Aiseo - AI राइटिंग असिस्टेंट, AI कॉपी राइटिंग और कंटेंट जेनरेटर. | आर्टिफिशियल इंटेलिजेंस के साथ लेखन महाशक्तियां प्राप्त करें। AISEO में हम आपको अपने विचारों को ब्लॉग में बदलने में मदद करेंगे और एक बटन के क्लिक पर आपके लिए लिख सकते हैं।. | :white_check_mark: |
 | [Jasper.ai](http://www.jasper.ai?ref=aicollection) | जैस्पर - एआई कॉपीराइटर - टीमों के लिए एआई कंटेंट जेनरेटर. | जैस्पर एआई कंटेंट जेनरेटर है जो आपको और आपकी टीम को 10 गुना तेजी से अद्भुत, मूल सामग्री बनाने के लिए रचनात्मक अवरोधों को तोड़ने में मदद करता है।. | :white_check_mark: |
-| [Kafkai](http://kafkai.com) | अद्वितीय और पठनीय एआई सामग्री जेनरेटर. | काफ्काई एक एआई लेखक सहायक है जो डॉलर के बजाय सेंट के लिए अद्वितीय एसईओ-अनुकूल लेख बनाने में आपकी सहायता करता है।. | :x: |
+| [Kafkai](https://kafkai.com/?via=aicollection) | अद्वितीय और पठनीय एआई सामग्री जेनरेटर. | काफ्काई एक एआई लेखक सहायक है जो डॉलर के बजाय सेंट के लिए अद्वितीय एसईओ-अनुकूल लेख बनाने में आपकी सहायता करता है।. | :x: |
 | [Katteb](http://katteb.com?ref=aicollection) | फैक्ट-चेक्ड कंटेंट लिखें. | कट्टेब एआई आपके ब्लॉग और ऑनलाइन स्टोर के लिए सामग्री बनाना तेज़ और आसान बनाता है. | :white_check_mark: |
 | [LAIKA](http://www.writewithlaika.com?ref=aicollection) | लेखकों के लिए वैयक्तिकृत आर्टिफिशियल इंटेलिजेंस. | हम लेखन के उबाऊ हिस्सों को रोमांचक बनाते हैं। लाइका एक क्रिएटिव पार्टनर है जिसे आप अपनी तरह (या जिसे आप चाहते हैं) लिखने के लिए प्रशिक्षित करते हैं। रचनात्मक लेखकों, खेल लेखकों, और अन्य सभी फिक्शन फैब्रिकेटर्स के लिए बनाया गया।. | :white_check_mark: |
 | [Lek](http://lek.ai?ref=aicollection) | Lek.Ai - AI द्वारा संचालित परम सामग्री निर्माता टूलकिट. | हर चीज के लिए कुछ भी लिखें। सामग्री बनाने और कॉपी करने का सबसे तेज़ और आसान तरीका. | :white_check_mark: |

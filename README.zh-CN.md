@@ -20,7 +20,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=842" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=843" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=38" />
@@ -49,11 +49,24 @@
 
 <div align="center">
     <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/codiumAI.png" alt="CodiumAI" border="0"/>
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1825.webp" alt="CodiumAI" border="0"/>
     </a>
     <h4>CodiumAI - 为忙碌的开发人员生成有意义的测试</h4>
     <p>借助 CodiumAI，您可以在 IDE 中获得非常重要的测试（而且也很重要！）建议，因此您可以智能编码，创造更多价值，并在推动时保持自信。 代码，正如你的意思。</p>
     <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank"><b>开始使用 CodiumAI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://smalltalk2.me?ref=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1847.webp" alt="SmallTalk" border="0"/>
+    </a>
+    <h4>测试和提高英语口语能力的人工智能助教</h4>
+    <p>通过 SmallTalk，学习者可以自我评估自己的英语水平，准备英语工作面试或雅思考试，并进行口语练习，为在工作场所、学术环境或日常生活中的对话做好准备</p>
+    <a href="https://smalltalk2.me?ref=aicollection" target="_blank"><b>开始使用 SmallTalk</b></a>
     <br />
 </div>
 
@@ -198,7 +211,7 @@
 ## 假期和旅行计划
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
-| [Orkoi](orkoi.com/?ref=aicollection) | Orkoi - 快速制定个性化旅行计划，免费，无需注册. | 我们的 AI 将为您制定适合您想要游览的任何城市或地点的定制计划，包括餐厅、有趣的活动、景点和小贴士，助您开启最佳冒险之旅. | :white_check_mark: |
+| [Orkoi](https://orkoi.com/?ref=aicollection) | Orkoi - 快速制定个性化旅行计划，免费，无需注册. | 我们的 AI 将为您制定适合您想要游览的任何城市或地点的定制计划，包括餐厅、有趣的活动、景点和小贴士，助您开启最佳冒险之旅. | :white_check_mark: |
 | [Roamr](http://www.letsroam.app?ref=aicollection) | Roamr - 在几秒钟内完成您的梦想假期. | . | :grey_question: |
 | [Vacay](https://usevacay.com/chatbot?ref=aicollection) | 假期聊天代理. | 这个 AI 助手可以设计定制旅行，为您提供去哪里的灵感，甚至可以为酒店、餐厅和景点生成本地推荐。. | :white_check_mark: |
 
@@ -224,7 +237,7 @@
 | [Hypotenuse.ai](http://www.hypotenuse.ai?ref=aicollection) | 让 AI 秒写你的内容。没有作家的障碍。. | 提供几个关键词，我们会立即将它们变成完整的文章和营销内容，使用我们拥有丰富世界知识的世界级人工智能。. | :white_check_mark: |
 | [Intelligent paraphraser](https://aiseo.ai/?fpr=beth0) | AISEO - 人工智能写作助手，人工智能文案和内容生成器. | 通过人工智能获得写作超能力。我们 AISEO 将帮助您将您的想法转化为博客，并且只需单击一个按钮即可为您撰写文章。. | :white_check_mark: |
 | [Jasper.ai](http://www.jasper.ai?ref=aicollection) | Jasper - AI Copywriter - 团队的 AI 内容生成器. | Jasper 是 AI 内容生成器，可帮助您和您的团队突破创意障碍，以 10 倍的速度创建令人惊叹的原创内容。. | :white_check_mark: |
-| [Kafkai](http://kafkai.com) | 独特且可读的 AI 内容生成器. | Kafkai 是一个 AI 作家助手，可以帮助您以美分而不是美元来创建独特的 SEO 友好文章。. | :x: |
+| [Kafkai](https://kafkai.com/?via=aicollection) | 独特且可读的 AI 内容生成器. | Kafkai 是一个 AI 作家助手，可以帮助您以美分而不是美元来创建独特的 SEO 友好文章。. | :x: |
 | [Katteb](http://katteb.com?ref=aicollection) | 编写经过事实核查的内容. | Katteb AI 可以快速轻松地为您的博客和在线商店创建内容. | :white_check_mark: |
 | [LAIKA](http://www.writewithlaika.com?ref=aicollection) | 作家的个性化人工智能. | 我们让写作中乏味的部分变得有趣。 LAIKA 是一个创意伙伴，您可以训练它像您（或您想要的任何人）一样写作。专为创意作家、游戏作家和所有其他小说创作者打造。. | :white_check_mark: |
 | [Lek](http://lek.ai?ref=aicollection) | Lek.ai - 由 AI 提供支持的终极内容创建者工具包. | 为一切写任何东西。创建内容和复制的最快和最简单的方法. | :white_check_mark: |
@@ -584,6 +597,7 @@
 |---|---|---|:---:|
 | [Adobe Speech Enhancer](https://podcast.adobe.com/enhance?ref=aicollection) | 免费增强录音. | 语音增强功能使录音听起来就像在专业录音室中录制的一样. | :white_check_mark: |
 | [Lingostar](http://www.lingostar.ai?ref=aicollection) | Lingostar - 与人工智能的真实对话. | Lingostar 是语言学习者可以用英语、西班牙语或法语与之交谈的人工智能。通过免费的 REAL 口语对话达到流利程度。没有更多的导师 - 与 Lingostar A.I. 聊天提高你的发音、词汇量和理解力. | :white_check_mark: |
+| [SmallTalk2.me](https://smalltalk2.me?ref=aicollection) | 测试和提高英语口语能力的人工智能助教. | 通过 SmallTalk，学习者可以自我评估自己的英语水平，准备英语工作面试或雅思考试，并进行口语练习，为在工作场所、学术环境或日常生活中的对话做好准备. | :white_check_mark: |
 
 <!--End of 演讲 21-->
 

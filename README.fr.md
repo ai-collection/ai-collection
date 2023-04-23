@@ -20,7 +20,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=842" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=843" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=38" />
@@ -49,11 +49,24 @@
 
 <div align="center">
     <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://github.com/ai-collection/ai-collection/blob/main/codiumAI.png" alt="CodiumAI" border="0"/>
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1825.webp" alt="CodiumAI" border="0"/>
     </a>
     <h4>CodiumAI - Générer des tests significatifs pour les développeurs occupés</h4>
     <p>Avec CodiumAI, vous obtenez des tests non triviaux (et triviaux aussi !) suggérés directement dans votre IDE, afin que vous puissiez coder intelligemment, créer plus de valeur et rester confiant lorsque vous poussez. Code, comme vous l'entendiez.</p>
     <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank"><b>Démarrer avec CodiumAI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://smalltalk2.me?ref=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1847.webp" alt="SmallTalk" border="0"/>
+    </a>
+    <h4>Assistant d'enseignement alimenté par l'IA pour tester et améliorer les compétences en anglais</h4>
+    <p>Avec SmallTalk, les apprenants peuvent auto-évaluer leur niveau de maîtrise de l'anglais, se préparer à un entretien d'embauche en anglais ou à l'examen IELTS, et participer à des exercices d'expression orale qui les préparent à des conversations sur le lieu de travail, dans un cadre universitaire ou dans la vie quotidienne.</p>
+    <a href="https://smalltalk2.me?ref=aicollection" target="_blank"><b>Démarrer avec SmallTalk</b></a>
     <br />
 </div>
 
@@ -381,6 +394,7 @@
 |---|---|---|:---:|
 | [Adobe Speech Enhancer](https://podcast.adobe.com/enhance?ref=aicollection) | Améliorez les enregistrements vocaux gratuitement. | L'amélioration de la parole rend les enregistrements vocaux comme s'ils avaient été enregistrés dans un studio professionnel. | :white_check_mark: |
 | [Lingostar](http://www.lingostar.ai?ref=aicollection) | Lingostar - De vraies conversations avec l'intelligence artificielle. | Lingostar est l'IA à qui les apprenants peuvent parler en anglais, en espagnol ou en français. Atteignez la fluidité avec de VRAIES conversations parlées gratuitement. Plus de tuteurs - discutez avec Lingostar A.I. pour améliorer votre prononciation, votre vocabulaire et votre compréhension. | :white_check_mark: |
+| [SmallTalk2.me](https://smalltalk2.me?ref=aicollection) | Assistant d'enseignement alimenté par l'IA pour tester et améliorer les compétences en anglais. | Avec SmallTalk, les apprenants peuvent auto-évaluer leur niveau de maîtrise de l'anglais, se préparer à un entretien d'embauche en anglais ou à l'examen IELTS, et participer à des exercices d'expression orale qui les préparent à des conversations sur le lieu de travail, dans un cadre universitaire ou dans la vie quotidienne. | :white_check_mark: |
 
 <!--End of Discours 21-->
 
@@ -520,7 +534,7 @@
 | [Hypotenuse.ai](http://www.hypotenuse.ai?ref=aicollection) | Laissez AI écrire votre contenu en quelques secondes. Sans bloc d'écriture. | Fournissez quelques mots-clés, et nous les transformerons instantanément en articles complets et en contenu marketing, en utilisant notre IA de classe mondiale avec une vaste connaissance du monde. | :white_check_mark: |
 | [Intelligent paraphraser](https://aiseo.ai/?fpr=beth0) | AISEO - Assistante rédaction IA, Rédaction IA & Générateur de contenu. | Obtenez des super pouvoirs d'écriture avec l'intelligence artificielle. Chez AISEO, nous vous aiderons à convertir vos pensées en blogs et pouvons écrire pour vous en un clic. | :white_check_mark: |
 | [Jasper.ai](http://www.jasper.ai?ref=aicollection) | Jasper - Rédacteur IA - Générateur de contenu IA pour les équipes. | Jasper est le générateur de contenu IA qui vous aide, vous et votre équipe, à briser les blocages créatifs pour créer un contenu original et étonnant 10 fois plus rapidement. | :white_check_mark: |
-| [Kafkai](http://kafkai.com) | Générateur de contenu AI unique et lisible. | Kafkai est un assistant d'écriture AI qui vous aide à créer des articles uniques optimisés pour le référencement pour des cents au lieu de dollars. | :x: |
+| [Kafkai](https://kafkai.com/?via=aicollection) | Générateur de contenu AI unique et lisible. | Kafkai est un assistant d'écriture AI qui vous aide à créer des articles uniques optimisés pour le référencement pour des cents au lieu de dollars. | :x: |
 | [Katteb](http://katteb.com?ref=aicollection) | Écrire du contenu fact-checké. | Katteb AI permet de créer rapidement et facilement du contenu pour votre blog et votre boutique en ligne. | :white_check_mark: |
 | [LAIKA](http://www.writewithlaika.com?ref=aicollection) | Intelligence artificielle personnalisée pour les écrivains. | Nous rendons passionnantes les parties ennuyeuses de l'écriture. LAIKA est un partenaire créatif que vous formez pour écrire comme vous (ou qui vous voulez). Conçu pour les écrivains créatifs, les auteurs de jeux et tous les autres fabricants de fiction. | :white_check_mark: |
 | [Lek](http://lek.ai?ref=aicollection) | Lek.ai - La boîte à outils ultime pour les créateurs de contenu alimentée par l'IA. | Écrivez n'importe quoi pour tout. Le moyen le plus rapide et le plus simple de créer du contenu et de le copier. | :white_check_mark: |
@@ -675,7 +689,7 @@
 ## Planificateur De Vacances Et De Voyages
 | Nom | Titre | Description | Offrir une version gratuite |
 |---|---|---|:---:|
-| [Orkoi](orkoi.com/?ref=aicollection) | Orkoi - Créez un plan de voyage personnalisé en quelques secondes, gratuit, sans inscription. | Notre IA vous élaborera un plan personnalisé pour n'importe quelle ville ou lieu que vous souhaitez visiter, avec des restaurants, des activités amusantes, des attractions et des conseils pour faire la meilleure aventure. | :white_check_mark: |
+| [Orkoi](https://orkoi.com/?ref=aicollection) | Orkoi - Créez un plan de voyage personnalisé en quelques secondes, gratuit, sans inscription. | Notre IA vous élaborera un plan personnalisé pour n'importe quelle ville ou lieu que vous souhaitez visiter, avec des restaurants, des activités amusantes, des attractions et des conseils pour faire la meilleure aventure. | :white_check_mark: |
 | [Roamr](http://www.letsroam.app?ref=aicollection) | Roamr - Vos vacances de rêve en quelques secondes. | . | :grey_question: |
 | [Vacay](https://usevacay.com/chatbot?ref=aicollection) | Agent de chat de vacances. | Cet assistant IA peut concevoir un voyage personnalisé, vous donner l'inspiration sur les endroits où aller et même générer des recommandations locales pour les hôtels, les restaurants et les attractions. | :white_check_mark: |
 
