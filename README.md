@@ -692,6 +692,7 @@ Translations:
 | [Autoname](http://www.autoname.org?ref=aicollection) | Rename All Your Layers in One Click. Thanks to Ai. Open Source. | Rename Figma frames in one click, that's pretty much it. | :grey_question: |
 | [Merlin](http://merlin.foyer.work?ref=aicollection) | Merlin. | Free Open AIs ChatGPT powered extension to use anywhere!. | :white_check_mark: |
 | [SplashAI](http://www.splashai.art?ref=aicollection) | Splashai Is a Figma Plugin, Search Engine and AI Image Generator. | . | :grey_question: |
+| [Voilà](https://www.getvoila.ai?ref=aicollection)    | Personal ChatGPT assistant for supercharged productivity          | Improve your writing, get answers to all your questions, draft high-quality content and respond to emails. All in one place. | :white_check_mark: |
 
 <!--End of Plugins & Extensions 28-->
 
