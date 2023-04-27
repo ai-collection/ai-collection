@@ -336,6 +336,7 @@ Translations:
 |---|---|---|:---:|
 | [AI Docstrings](https://trelent.com?ref=aicollection) | Write Docstrings Automatically. | Trelent uses AI to write helpful docstrings for your functions instantly. | :white_check_mark: |
 | [Adrenaline](https://useadrenaline.com/?ref=aicollection) | Stop Plugging Your Errors Into Stack Overflow. | Adrenaline is a debugging assistant powered by the OpenAI Codex. It can fix and explain your broken code in seconds. | :white_check_mark: |
+| [Anania](https://anania.ai/) | AI assistant for analytics | Ask questions on your data and documents | :white_check_mark: |
 | [Ask Command](http://askcommand.com?ref=aicollection) | Ask Command — AI-Powered Developer Assistant. | A tiny app to remind you about those commands you always forget. Powered by AI. | :grey_question: |
 | [Channel](http://www.usechannel.com?ref=aicollection) | Channel. | Connect your database, ask a question, get an answer. | :grey_question: |
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist?ref=aicollection) | Codeassist Is an AI Assistant / Chatbot / Copilot for Programming - Jetbrains Marketplace. | It generates, changes, completes the code and answers questions. | :grey_question: |
@@ -359,7 +360,6 @@ Translations:
 | [Text2SQL](http://www.text2sql.ai/?ref=aicollection) | Text2Sql.Ai - Generate SQL Queries With AI for Free!. | . | :white_check_mark: |
 | [Whatthediff](http://whatthediff.ai?ref=aicollection) | What-the-Diff – AI-Powered Code Review Assistant. | The AI powered GitHub app that explains the changes within your pull requests in plain english. | :grey_question: |
 | [aidev.codes](https://aidev.codes/?ref=aicollection) | AI Dev Codes for You. | Create simple apps and demos just by entering specifications — a new type of AI prompt engineering. | :white_check_mark: |
-
 <!--End of Code & Database Assistant 4-->
 
 <!--lint ignore double-link-->
