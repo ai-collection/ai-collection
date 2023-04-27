@@ -359,7 +359,7 @@ Translations:
 | [Text2SQL](http://www.text2sql.ai/?ref=aicollection) | Text2Sql.Ai - Generate SQL Queries With AI for Free!. | . | :white_check_mark: |
 | [Whatthediff](http://whatthediff.ai?ref=aicollection) | What-the-Diff – AI-Powered Code Review Assistant. | The AI powered GitHub app that explains the changes within your pull requests in plain english. | :grey_question: |
 | [aidev.codes](https://aidev.codes/?ref=aicollection) | AI Dev Codes for You. | Create simple apps and demos just by entering specifications — a new type of AI prompt engineering. | :white_check_mark: |
-
+| [Anania](https://anania.ai/) | AI assistant for analytics | Ask questions on your data and documents | :white_check_mark: |
 <!--End of Code & Database Assistant 4-->
 
 <!--lint ignore double-link-->
