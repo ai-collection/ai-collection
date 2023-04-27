@@ -20,7 +20,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=843" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=845" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=38" />
@@ -600,6 +600,7 @@
 | [Autoname](http://www.autoname.org?ref=aicollection) | Переименуйте все свои слои в один клик. Благодаря ИИ. Открытый источник. | Переименуйте фреймы Figma в один клик, вот и все. | :grey_question: |
 | [Merlin](http://merlin.foyer.work?ref=aicollection) | Мерлин. | Бесплатное расширение Open AI на базе ChatGPT для использования где угодно!. | :white_check_mark: |
 | [SplashAI](http://www.splashai.art?ref=aicollection) | SplashAI — это плагин Figma, поисковая система и генератор изображений AI. | . | :grey_question: |
+| [Voilà](https://www.getvoila.ai/?ref=aicollection) | Персональный помощник ChatGPT для повышения производительности. | Совершенствуйте свое письмо, получайте ответы на все свои вопросы, создавайте высококачественный контент и отвечайте на электронные письма. Все в одном месте. | :white_check_mark: |
 
 <!--End of Плагины и расширения 28-->
 
@@ -639,6 +640,7 @@
 |---|---|---|:---:|
 | [AI Docstrings](https://trelent.com?ref=aicollection) | Автоматически писать строки документации. | Trelent использует искусственный интеллект для мгновенного написания полезных строк документации для ваших функций. | :white_check_mark: |
 | [Adrenaline](https://useadrenaline.com/?ref=aicollection) | Прекратите вставлять свои ошибки в Stack Overflow. | Adrenaline — это помощник по отладке на базе OpenAI Codex. Он может исправить и объяснить ваш неработающий код за считанные секунды. | :white_check_mark: |
+| [Anania](https://anania.ai/) | ИИ-помощник для аналитики. | Задавайте вопросы о ваших данных и документах. | :white_check_mark: |
 | [Ask Command](http://askcommand.com?ref=aicollection) | Ask Command — Помощник разработчика на базе искусственного интеллекта. | Крошечное приложение, чтобы напомнить вам о тех командах, которые вы всегда забываете. Работает на ИИ. | :grey_question: |
 | [Channel](http://www.usechannel.com?ref=aicollection) | Канал. | Подключи свою базу данных, задай вопрос, получи ответ. | :grey_question: |
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist?ref=aicollection) | CodeAssist — ИИ-помощник/чат-бот/второй пилот для программирования — JetBrains Marketplace. | Он генерирует, изменяет, дополняет код и отвечает на вопросы. | :grey_question: |

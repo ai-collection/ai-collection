@@ -20,7 +20,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=843" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=845" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=38" />
@@ -405,6 +405,7 @@
 |---|---|---|:---:|
 | [AI Docstrings](https://trelent.com?ref=aicollection) | डॉकस्ट्रिंग्स को स्वचालित रूप से लिखें. | ट्रेलेंट एआई का उपयोग आपके कार्यों के लिए सहायक डॉकस्ट्रिंग्स को तुरंत लिखने के लिए करता है।. | :white_check_mark: |
 | [Adrenaline](https://useadrenaline.com/?ref=aicollection) | स्टैक ओवरफ़्लो में अपनी त्रुटियों को प्लग करना बंद करें. | एड्रेनालाईन OpenAI कोडेक्स द्वारा संचालित एक डिबगिंग सहायक है। यह सेकंडों में आपके टूटे हुए कोड को ठीक कर सकता है और समझा सकता है।. | :white_check_mark: |
+| [Anania](https://anania.ai/) | विश्लेषिकी के लिए एआई सहायक. | अपने डेटा और दस्तावेज़ों पर प्रश्न पूछें. | :white_check_mark: |
 | [Ask Command](http://askcommand.com?ref=aicollection) | आस्क कमांड - एआई-पावर्ड डेवलपर असिस्टेंट. | उन आदेशों के बारे में आपको याद दिलाने के लिए एक छोटा ऐप जो आप हमेशा भूल जाते हैं। एआई द्वारा संचालित।. | :grey_question: |
 | [Channel](http://www.usechannel.com?ref=aicollection) | चैनल. | अपना डेटाबेस कनेक्ट करें, प्रश्न पूछें, उत्तर प्राप्त करें।. | :grey_question: |
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist?ref=aicollection) | कोडेसिस्ट प्रोग्रामिंग के लिए एआई असिस्टेंट / चैटबॉट / कोपिलॉट है - जेटब्रेन्स मार्केटप्लेस. | यह कोड उत्पन्न करता है, बदलता है, पूरा करता है और प्रश्नों का उत्तर देता है।. | :grey_question: |
@@ -565,6 +566,7 @@
 | [Autoname](http://www.autoname.org?ref=aicollection) | एक क्लिक में अपनी सभी परतों का नाम बदलें। आई के लिए धन्यवाद। खुला स्त्रोत. | एक क्लिक में Figma फ्रेम का नाम बदलें, बस इतना ही।. | :grey_question: |
 | [Merlin](http://merlin.foyer.work?ref=aicollection) | एक प्रकार का बाज़. | कहीं भी उपयोग करने के लिए मुफ्त ओपन एआई चैटजीपीटी संचालित एक्सटेंशन!. | :white_check_mark: |
 | [SplashAI](http://www.splashai.art?ref=aicollection) | स्प्लशाई एक फिग्मा प्लगइन, सर्च इंजन और एआई इमेज जेनरेटर है।. | . | :grey_question: |
+| [Voilà](https://www.getvoila.ai/?ref=aicollection) | सुपरचार्ज्ड उत्पादकता के लिए व्यक्तिगत चैटजीपीटी सहायक. | अपने लेखन में सुधार करें, अपने सभी प्रश्नों के उत्तर प्राप्त करें, उच्च-गुणवत्ता वाली सामग्री का मसौदा तैयार करें और ईमेल का जवाब दें। सभी एक ही स्थान पर।. | :white_check_mark: |
 
 <!--End of प्लगइन्स और एक्सटेंशन 28-->
 
