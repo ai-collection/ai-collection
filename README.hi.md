@@ -20,7 +20,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=845" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=846" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=38" />
@@ -405,7 +405,7 @@
 |---|---|---|:---:|
 | [AI Docstrings](https://trelent.com?ref=aicollection) | डॉकस्ट्रिंग्स को स्वचालित रूप से लिखें. | ट्रेलेंट एआई का उपयोग आपके कार्यों के लिए सहायक डॉकस्ट्रिंग्स को तुरंत लिखने के लिए करता है।. | :white_check_mark: |
 | [Adrenaline](https://useadrenaline.com/?ref=aicollection) | स्टैक ओवरफ़्लो में अपनी त्रुटियों को प्लग करना बंद करें. | एड्रेनालाईन OpenAI कोडेक्स द्वारा संचालित एक डिबगिंग सहायक है। यह सेकंडों में आपके टूटे हुए कोड को ठीक कर सकता है और समझा सकता है।. | :white_check_mark: |
-| [Anania](https://anania.ai/) | विश्लेषिकी के लिए एआई सहायक. | अपने डेटा और दस्तावेज़ों पर प्रश्न पूछें. | :white_check_mark: |
+| [Anania](https://anania.ai/?ref=aicollection) | विश्लेषिकी के लिए एआई सहायक. | अपने डेटा और दस्तावेज़ों पर प्रश्न पूछें. | :white_check_mark: |
 | [Ask Command](http://askcommand.com?ref=aicollection) | आस्क कमांड - एआई-पावर्ड डेवलपर असिस्टेंट. | उन आदेशों के बारे में आपको याद दिलाने के लिए एक छोटा ऐप जो आप हमेशा भूल जाते हैं। एआई द्वारा संचालित।. | :grey_question: |
 | [Channel](http://www.usechannel.com?ref=aicollection) | चैनल. | अपना डेटाबेस कनेक्ट करें, प्रश्न पूछें, उत्तर प्राप्त करें।. | :grey_question: |
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist?ref=aicollection) | कोडेसिस्ट प्रोग्रामिंग के लिए एआई असिस्टेंट / चैटबॉट / कोपिलॉट है - जेटब्रेन्स मार्केटप्लेस. | यह कोड उत्पन्न करता है, बदलता है, पूरा करता है और प्रश्नों का उत्तर देता है।. | :grey_question: |
@@ -657,6 +657,7 @@
 | [LazyApply](http://lazyapply.com?ref=aicollection) | अपनी नौकरी की आवेदन प्रक्रिया को स्वचालित करें. | हम स्वचालित रूप से Linkedin, Fed और Ziprecruiter जैसे प्लेटफॉर्म पर सभी नौकरियों के लिए आवेदन करते हैं।. | :x: |
 | [Resume Worded](http://resumeworded.com) | अपने बायोडाटा और लिंक्डइन प्रोफाइल में सुधार करें. | शीर्ष रिक्रूटर्स द्वारा डिज़ाइन किया गया, हमारा एआई-पावर्ड प्लेटफ़ॉर्म आपको आपके रिज्यूमे और लिंक्डइन प्रोफाइल पर तुरंत प्रतिक्रिया देता है। 5 गुना अधिक साक्षात्कार, अवसर और नौकरी के प्रस्ताव प्राप्त करें।. | :white_check_mark: |
 | [rankode](http://www.rankode.ai?ref=aicollection) | मानव संसाधन के लिए एआई - रैंककोड. | भर्तीकर्ता, उम्मीदवार के प्रोग्रामिंग कौशल के बारे में आपको जो कुछ भी जानने की आवश्यकता है, वह उनके GitHub में है। हायरिंग की महंगी गलतियों से बचने और अपने रिटेंशन को सुपरबूस्ट करने के लिए रैंककोड के साथ स्वचालित रूप से उनका मूल्यांकन करें।. | :grey_question: |
+| [resumator](https://www.resumator.ai/?ref=aicollection) | एक नौकरी के लिए देख रहे हैं? हमने आपका ध्यान रखा है।. | हमारे एआई-संचालित व्यक्तिगत कवर लेटर के साथ तेजी से काम पर रखें। इसमें कुछ ही सेकंड लगते हैं!. | :white_check_mark: |
 | [springworks](http://www.springworks.in?ref=aicollection) | बढ़ते कारोबार के लिए एचआर सॉफ्टवेयर सॉल्यूशंस. | स्प्रिंगवर्क्स ब्लॉकचेन और एआई के साथ भर्ती, पृष्ठभूमि सत्यापन और कर्मचारी जुड़ाव में चुनौतियों को हल करने के लिए मानव संसाधन सॉफ्टवेयर समाधान बनाता है. | :white_check_mark: |
 
 <!--End of मानव संसाधन और फिर से शुरू 14-->
