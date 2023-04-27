@@ -985,6 +985,7 @@
 | [Replica](http://replicastudios.com?ref=aicollection) | 合成语音 AI 和自然的文本到语音 - 副本. | 立即试用 30 分钟的免费话音。. | :white_check_mark: |
 | [Riffusion](http://www.riffusion.com?ref=aicollection) | 扩散. | 实时音乐生成的稳定扩散. | :white_check_mark: |
 | [Soundraw](http://soundraw.io) | 停止搜索您需要的歌曲。创造它。. | 免版税音乐，AI为你生成. | :white_check_mark: |
+| [TuneFlow](https://tuneflow.com) | 下一代AI助力的音乐制作工具 | 用AI帮助你生成旋律，鼓点，甚至整首曲子，与专业DAW媲美的全流程制作能力让你可以与AI一起进行创作。 | :white_check_mark: |
 
 <!--End of 音乐和音频生成 18-->
 

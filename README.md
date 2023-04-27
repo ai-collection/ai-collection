@@ -628,6 +628,7 @@ Translations:
 | [Replica](http://replicastudios.com?ref=aicollection) | Synthesize Voice AI and Natural Sounding Text-to-Speech — Replica. | Try today with 30 minutes of free voice credit. | :white_check_mark: |
 | [Riffusion](http://www.riffusion.com?ref=aicollection) | Riffusion. | Stable diffusion for real-time music generation. | :white_check_mark: |
 | [Soundraw](http://soundraw.io) | Stop Searching for the Song You Need. Create It. | Royalty-free music, AI generated for you. | :white_check_mark: |
+| [TuneFlow](https://tuneflow.com) | Next-gen music-making tool with a suite of AI superpowers. | Helps you generate melody, beats, or even a whole song while still being able to edit them like any other professional DAW. | :white_check_mark: |
 
 <!--End of Music & Audio Generation 18-->
 

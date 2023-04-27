@@ -662,6 +662,7 @@
 | [Replica](http://replicastudios.com?ref=aicollection) | Synthétiser l'IA vocale et la synthèse vocale au son naturel - Réplique. | Essayez dès aujourd'hui avec 30 minutes de crédit vocal gratuit. | :white_check_mark: |
 | [Riffusion](http://www.riffusion.com?ref=aicollection) | diffusion. | Diffusion stable pour la génération de musique en temps réel. | :white_check_mark: |
 | [Soundraw](http://soundraw.io) | Arrêtez de chercher la chanson dont vous avez besoin. Créez-le. | Musique libre de droits, générée par l'IA pour vous. | :white_check_mark: |
+| [TuneFlow](https://tuneflow.com) | Outil de création musicale de nouvelle génération avec un ensemble de super-pouvoirs d'IA. | Vous aide à générer une mélodie, des rythmes, voire même une chanson entière, tout en restant capable de les éditer comme n'importe quelle autre station de travail audio professionnelle (DAW). | :white_check_mark: |
 
 <!--End of Musique et génération audio 18-->
 
