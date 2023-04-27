@@ -20,7 +20,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=843" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=845" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=38" />
@@ -180,6 +180,7 @@
 |---|---|---|:---:|
 | [AI Docstrings](https://trelent.com?ref=aicollection) | Écrire des docstrings automatiquement. | Trelent utilise l'IA pour écrire instantanément des docstrings utiles pour vos fonctions. | :white_check_mark: |
 | [Adrenaline](https://useadrenaline.com/?ref=aicollection) | Arrêtez de brancher vos erreurs dans Stack Overflow. | Adrenaline est un assistant de débogage alimenté par le Codex OpenAI. Il peut réparer et expliquer votre code cassé en quelques secondes. | :white_check_mark: |
+| [Anania](https://anania.ai/) | Assistant IA pour l'analyse. | Posez des questions sur vos données et documents. | :white_check_mark: |
 | [Ask Command](http://askcommand.com?ref=aicollection) | Ask Command - Assistant développeur alimenté par l'IA. | Une petite application pour vous rappeler ces commandes que vous oubliez toujours. Propulsé par l'IA. | :grey_question: |
 | [Channel](http://www.usechannel.com?ref=aicollection) | Canaliser. | Connectez votre base de données, posez une question, obtenez une réponse. | :grey_question: |
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist?ref=aicollection) | CodeAssist est un assistant IA / chatbot / copilote pour la programmation - JetBrains Marketplace. | Il génère, modifie, complète le code et répond aux questions. | :grey_question: |
@@ -705,6 +706,7 @@
 | [Autoname](http://www.autoname.org?ref=aicollection) | Renommez tous vos calques en un clic. Merci à l'IA. Open source. | Renommer les cadres Figma en un clic, c'est à peu près tout. | :grey_question: |
 | [Merlin](http://merlin.foyer.work?ref=aicollection) | Merlin. | Extension gratuite alimentée par ChatGPT d'Open AI à utiliser n'importe où !. | :white_check_mark: |
 | [SplashAI](http://www.splashai.art?ref=aicollection) | SplashAI est un plugin Figma, un moteur de recherche et un générateur d'images AI. | . | :grey_question: |
+| [Voilà](https://www.getvoila.ai/?ref=aicollection) | Assistant ChatGPT personnel pour une productivité suralimentée. | Améliorez votre rédaction, obtenez des réponses à toutes vos questions, rédigez du contenu de haute qualité et répondez aux e-mails. Tout en un seul endroit. | :white_check_mark: |
 
 <!--End of Plugins et extensions 28-->
 

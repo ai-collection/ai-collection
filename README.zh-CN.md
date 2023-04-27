@@ -20,7 +20,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=843" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=845" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=38" />
@@ -169,6 +169,7 @@
 |---|---|---|:---:|
 | [AI Docstrings](https://trelent.com?ref=aicollection) | 自动编写文档字符串. | Trelent 使用 AI 立即为您的函数编写有用的文档字符串。. | :white_check_mark: |
 | [Adrenaline](https://useadrenaline.com/?ref=aicollection) | 停止将错误插入 Stack Overflow. | Adrenaline 是由 OpenAI Codex 提供支持的调试助手。它可以在几秒钟内修复并解释您损坏的代码。. | :white_check_mark: |
+| [Anania](https://anania.ai/) | AI 分析助手. | 就您的数据和文件提出问题. | :white_check_mark: |
 | [Ask Command](http://askcommand.com?ref=aicollection) | Ask Command——人工智能驱动的开发者助手. | 一个小应用程序，可以提醒您那些您总是忘记的命令。由人工智能提供支持。. | :grey_question: |
 | [Channel](http://www.usechannel.com?ref=aicollection) | 渠道. | 连接您的数据库，提出问题，获得答案。. | :grey_question: |
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist?ref=aicollection) | CodeAssist 是用于编程的 AI 助手/聊天机器人/副驾驶 - JetBrains Marketplace. | 它生成、更改、完成代码并回答问题。. | :grey_question: |
@@ -460,6 +461,7 @@
 | [Autoname](http://www.autoname.org?ref=aicollection) | 一键重命名所有图层。感谢人工智能。开源. | 一键重命名 Figma 框架，仅此而已。. | :grey_question: |
 | [Merlin](http://merlin.foyer.work?ref=aicollection) | 梅林. | 免费的 Open AI 的 ChatGPT 支持扩展，可在任何地方使用！. | :white_check_mark: |
 | [SplashAI](http://www.splashai.art?ref=aicollection) | SplashAI 是一个 Figma 插件、搜索引擎和 AI 图像生成器。. | . | :grey_question: |
+| [Voilà](https://www.getvoila.ai/?ref=aicollection) | 用于提高生产力的个人聊天 GPT 助手. | 改进您的写作，获得所有问题的答案，起草高质量的内容并回复电子邮件。都在一个地方。. | :white_check_mark: |
 
 <!--End of 插件和扩展 28-->
 
