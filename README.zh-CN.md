@@ -20,7 +20,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=845" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=846" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=38" />
@@ -157,6 +157,7 @@
 | [LazyApply](http://lazyapply.com?ref=aicollection) | 自动化您的工作申请流程. | 我们会自动申请 Linkedin、Indeed 和 Ziprecruiter 等平台上的所有职位。. | :x: |
 | [Resume Worded](http://resumeworded.com) | 改善您的简历和 LinkedIn 个人资料. | 我们的人工智能平台由顶级招聘人员设计，可立即为您提供有关您的简历和 LinkedIn 个人资料的定制反馈。获得 5 倍以上的面试、机会和工作机会。. | :white_check_mark: |
 | [rankode](http://www.rankode.ai?ref=aicollection) | 人力资源人工智能 - Rankode. | 招聘人员，您需要了解的有关应聘者编程技能的所有信息都在他们的 GitHub 中。使用 Rankode 自动评估它们，以避免代价高昂的招聘错误并大幅提高您的保留率。. | :grey_question: |
+| [resumator](https://www.resumator.ai/?ref=aicollection) | 找工作？我们已为您提供保障。. | 使用我们的 AI 驱动的个性化求职信更快地被录用。只需几秒钟！. | :white_check_mark: |
 | [springworks](http://www.springworks.in?ref=aicollection) | 面向成长型企业的人力资源软件解决方案. | Springworks 构建人力资源软件解决方案，以解决招聘、背景验证和员工参与区块链和人工智能方面的挑战. | :white_check_mark: |
 
 <!--End of 人力资源与简历 14-->
@@ -169,7 +170,7 @@
 |---|---|---|:---:|
 | [AI Docstrings](https://trelent.com?ref=aicollection) | 自动编写文档字符串. | Trelent 使用 AI 立即为您的函数编写有用的文档字符串。. | :white_check_mark: |
 | [Adrenaline](https://useadrenaline.com/?ref=aicollection) | 停止将错误插入 Stack Overflow. | Adrenaline 是由 OpenAI Codex 提供支持的调试助手。它可以在几秒钟内修复并解释您损坏的代码。. | :white_check_mark: |
-| [Anania](https://anania.ai/) | AI 分析助手. | 就您的数据和文件提出问题. | :white_check_mark: |
+| [Anania](https://anania.ai/?ref=aicollection) | AI 分析助手. | 就您的数据和文件提出问题. | :white_check_mark: |
 | [Ask Command](http://askcommand.com?ref=aicollection) | Ask Command——人工智能驱动的开发者助手. | 一个小应用程序，可以提醒您那些您总是忘记的命令。由人工智能提供支持。. | :grey_question: |
 | [Channel](http://www.usechannel.com?ref=aicollection) | 渠道. | 连接您的数据库，提出问题，获得答案。. | :grey_question: |
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist?ref=aicollection) | CodeAssist 是用于编程的 AI 助手/聊天机器人/副驾驶 - JetBrains Marketplace. | 它生成、更改、完成代码并回答问题。. | :grey_question: |

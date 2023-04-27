@@ -20,7 +20,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=845" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=846" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=38" />
@@ -336,7 +336,7 @@ Translations:
 |---|---|---|:---:|
 | [AI Docstrings](https://trelent.com?ref=aicollection) | Write Docstrings Automatically. | Trelent uses AI to write helpful docstrings for your functions instantly. | :white_check_mark: |
 | [Adrenaline](https://useadrenaline.com/?ref=aicollection) | Stop Plugging Your Errors Into Stack Overflow. | Adrenaline is a debugging assistant powered by the OpenAI Codex. It can fix and explain your broken code in seconds. | :white_check_mark: |
-| [Anania](https://anania.ai/) | AI Assistant for Analytics. | Ask questions on your data and documents. | :white_check_mark: |
+| [Anania](https://anania.ai/?ref=aicollection) | AI Assistant for Analytics. | Ask questions on your data and documents. | :white_check_mark: |
 | [Ask Command](http://askcommand.com?ref=aicollection) | Ask Command — AI-Powered Developer Assistant. | A tiny app to remind you about those commands you always forget. Powered by AI. | :grey_question: |
 | [Channel](http://www.usechannel.com?ref=aicollection) | Channel. | Connect your database, ask a question, get an answer. | :grey_question: |
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist?ref=aicollection) | Codeassist Is an AI Assistant / Chatbot / Copilot for Programming - Jetbrains Marketplace. | It generates, changes, completes the code and answers questions. | :grey_question: |
@@ -576,6 +576,7 @@ Translations:
 | [LazyApply](http://lazyapply.com?ref=aicollection) | Automate Your Job Application Process. | We automatically apply to all the jobs on platforms like Linkedin, Indeed and Ziprecruiter. | :x: |
 | [Resume Worded](http://resumeworded.com) | Improve Your Resume and Linkedin Profile. | Designed by top recruiters, our AI-powered platform instantly gives you tailored feedback on your resume and LinkedIn profile. Land 5x more interviews, opportunities and job offers. | :white_check_mark: |
 | [rankode](http://www.rankode.ai?ref=aicollection) | AI for Human Resources - Rankode. | Recruiters, everything you need to know about a candidate's programming skills is in their GitHub. Evaluate them automatically with Rankode to avoid expensive hiring mistakes and superboost your retention. | :grey_question: |
+| [resumator](https://www.resumator.ai/?ref=aicollection) | Looking for a Job? We've Got You Covered. | Get hired faster with our AI-powered personalized cover letter. It takes just a few seconds!. | :white_check_mark: |
 | [springworks](http://www.springworks.in?ref=aicollection) | Hr Software Solutions for Growing Businesses. | Springworks builds human resources software solutions to solve challenges in recruitment, background verification & employee engagement with Blockchain and AI. | :white_check_mark: |
 
 <!--End of Human Resources & Resume 14-->

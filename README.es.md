@@ -20,7 +20,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=845" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=846" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=38" />
@@ -208,7 +208,7 @@
 |---|---|---|:---:|
 | [AI Docstrings](https://trelent.com?ref=aicollection) | Escribir cadenas de documentos automáticamente. | Trelent usa IA para escribir cadenas de documentación útiles para sus funciones al instante. | :white_check_mark: |
 | [Adrenaline](https://useadrenaline.com/?ref=aicollection) | Deje de conectar sus errores en el desbordamiento de pila. | Adrenaline es un asistente de depuración impulsado por OpenAI Codex. Puede arreglar y explicar su código roto en segundos. | :white_check_mark: |
-| [Anania](https://anania.ai/) | Asistente de IA para análisis. | Haz preguntas sobre tus datos y documentos. | :white_check_mark: |
+| [Anania](https://anania.ai/?ref=aicollection) | Asistente de IA para análisis. | Haz preguntas sobre tus datos y documentos. | :white_check_mark: |
 | [Ask Command](http://askcommand.com?ref=aicollection) | Ask Command: asistente de desarrollo impulsado por IA. | Una pequeña aplicación para recordarte esos comandos que siempre olvidas. Impulsado por IA. | :grey_question: |
 | [Channel](http://www.usechannel.com?ref=aicollection) | Canal. | Conecte su base de datos, haga una pregunta, obtenga una respuesta. | :grey_question: |
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist?ref=aicollection) | Codeassist es un asistente / chatbot / copiloto de inteligencia artificial para la programación - Jetbrains Marketplace. | Genera, cambia, completa el código y responde preguntas. | :grey_question: |
@@ -727,6 +727,7 @@
 | [LazyApply](http://lazyapply.com?ref=aicollection) | Automatice su proceso de solicitud de empleo. | Aplicamos automáticamente a todos los trabajos en plataformas como Linkedin, Indeed y Ziprecruiter. | :x: |
 | [Resume Worded](http://resumeworded.com) | Mejora tu currículum y perfil de Linkedin. | Diseñada por los mejores reclutadores, nuestra plataforma impulsada por IA le brinda instantáneamente comentarios personalizados sobre su currículum y perfil de LinkedIn. Obtenga 5 veces más entrevistas, oportunidades y ofertas de trabajo. | :white_check_mark: |
 | [rankode](http://www.rankode.ai?ref=aicollection) | IA para Recursos Humanos - Rankode. | Reclutadores, todo lo que necesitan saber sobre las habilidades de programación de un candidato está en su GitHub. Evalúelos automáticamente con Rankode para evitar costosos errores de contratación y aumentar su retención. | :grey_question: |
+| [resumator](https://www.resumator.ai/?ref=aicollection) | ¿En busca de un trabajo? Te tenemos cubierto. | Consiga una contratación más rápido con nuestra carta de presentación personalizada impulsada por IA. ¡Solo toma unos segundos!. | :white_check_mark: |
 | [springworks](http://www.springworks.in?ref=aicollection) | Soluciones de software de recursos humanos para empresas en crecimiento. | Springworks crea soluciones de software de recursos humanos para resolver desafíos en reclutamiento, verificación de antecedentes y compromiso de los empleados con Blockchain e IA. | :white_check_mark: |
 
 <!--End of Recursos humanos y currículum 14-->
