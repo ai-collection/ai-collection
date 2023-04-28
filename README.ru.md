@@ -61,6 +61,19 @@
 
 
 <div align="center">
+    <a href="https://quizgecko.com/?via=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1851.webp" alt="Quizgecko" border="0"/>
+    </a>
+    <h4>Хватит тратить время на создание тестов вручную</h4>
+    <p>Мгновенно создавайте и делитесь вопросами викторины, карточками и заметками из любого текста. Идеально подходит для бизнеса, преподавателей и студентов.</p>
+    <a href="https://quizgecko.com/?via=aicollection" target="_blank"><b>Начать работу с Quizgecko</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://smalltalk2.me?ref=aicollection" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1847.webp" alt="SmallTalk" border="0"/>
     </a>
@@ -531,6 +544,7 @@
 | [Botta](https://askbotta.com/?ref=aicollection) | Проблемы с темой? Познакомьтесь с Боттой. | Ваш бесплатный личный помощник преподавателя. Задавайте вопросы, получайте ответы. Botta делает онлайн-обучение проще простого. | :white_check_mark: |
 | [Cratecode](https://cratecode.com/?ref=aicollection) | Cratecode - Научитесь программировать бесплатно. | Научитесь программировать с помощью онлайн-уроков и мощного помощника ИИ! Помощник может анализировать ваш код, подталкивать вас в правильном направлении и писать статьи на простые темы. | :white_check_mark: |
 | [Lorro](https://lorro.io/?ref=aicollection) | Станьте свободно говорящим по-английски за небольшие деньги. Поговорив с репетитором по ИИ. | . | :x: |
+| [QUIZGECKO](https://quizgecko.com/?via=aicollection) | Хватит тратить время на создание тестов вручную. | Мгновенно создавайте и делитесь вопросами викторины, карточками и заметками из любого текста. Идеально подходит для бизнеса, преподавателей и студентов. | :white_check_mark: |
 | [Replicate](http://replicate.com?ref=aicollection) | Машинное обучение не должно быть таким сложным. | Запускайте модели с открытым исходным кодом с помощью облачного API. | :white_check_mark: |
 | [Speakingclubai](http://speakingclubai.com?ref=aicollection) | Разговорный клуб ИИ. | Добро пожаловать в Speaking Club AI — лучший инструмент для изучения языка для всех, кто хочет улучшить свои разговорные навыки на иностранном языке. С Talking Club AI вы можете практиковать свои разговорные навыки с персонализированным языковым партнером AI в любое время и в любом месте. | :grey_question: |
 | [teachology.ai](https://www.teachology.ai/?ref=aicollection) | Коллекция инструментов для учителей и воспитателей, позволяющих использовать возможности ИИ в своей педагогике и планировании. | Планируйте уроки. Используйте искусственный интеллект, чтобы составлять проекты уроков и экспортировать их в ваши любимые форматы. Создавайте расширенные оценки. Создавайте расширенные оценки с надежными критериями оценивания на основе рубрик. И более. | :white_check_mark: |
@@ -1189,7 +1203,6 @@
 | [Question Base](http://www.questionbase.com?ref=aicollection) | Масштаб знаний. | База вопросов — это новый вид базы знаний. Благодаря искусственному интеллекту он отвечает на вопросы вашей команды в Slack. Автоматически. | :grey_question: |
 | [Quillbot Paraphraser](http://quillbot.com?ref=aicollection) | . | . | :grey_question: |
 | [Quilt & Create](http://www.quiltcreate.com?ref=aicollection) | Одеяло и создание. | . | :grey_question: |
-| [Quizgecko](http://quizgecko.com?ref=aicollection) | Генератор викторин с искусственным интеллектом - Quizgecko. | . | :grey_question: |
 | [Quizwhiz](http://www.quizwhiz.ai?ref=aicollection) | QuizWhiz — создавайте MCQ из любого текста. | Предоставьте основной текст и получите вопросы и ответы, сгенерированные искусственным интеллектом, вместе с их вариантами множественного выбора. | :grey_question: |
 | [RTutor](http://rtutor.ai?ref=aicollection) | RTutor. | . | :grey_question: |
 | [Raplyrics](http://raplyrics.eu?ref=aicollection) | Raplyrics — создавайте изюминки своей рэп-музыки. | Напишите несколько слов в подсказке ниже и создайте уникальную кульминацию рэп-музыки с помощью искусственного интеллекта!. | :grey_question: |
