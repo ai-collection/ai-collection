@@ -67,6 +67,19 @@ Translations:
 
 
 <div align="center">
+    <a href="https://quizgecko.com/?via=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1851.webp" alt="Quizgecko" border="0"/>
+    </a>
+    <h4>Stop Wasting Time Manually Creating Quizzes</h4>
+    <p>Create and share quiz questions, flashcards, and notes instantly, from any text. Ideal for businesses, educators, and students alike.</p>
+    <a href="https://quizgecko.com/?via=aicollection" target="_blank"><b>Get Started with Quizgecko</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://smalltalk2.me?ref=aicollection" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1847.webp" alt="SmallTalk" border="0"/>
     </a>
@@ -450,6 +463,7 @@ Translations:
 | [Botta](https://askbotta.com/?ref=aicollection) | Having Trouble With a Topic? Meet Botta. | Your free, personal teaching assistant. Ask questions, get answers. Botta makes online learning a breeze. | :white_check_mark: |
 | [Cratecode](https://cratecode.com/?ref=aicollection) | Cratecode - Learn to Code for Free. | Learn to code through online lessons and a powerful AI assistant! The assistant can analyze your code, nudge you in the right direction, and write articles for simple topics. | :white_check_mark: |
 | [Lorro](https://lorro.io/?ref=aicollection) | Become a Fluent English Speaker for a Fraction of a Cost. By Talking to an AI Tutor. | . | :x: |
+| [QUIZGECKO](https://quizgecko.com/?via=aicollection) | Stop Wasting Time Manually Creating Quizzes. | Create and share quiz questions, flashcards, and notes instantly, from any text. Ideal for businesses, educators, and students alike. | :white_check_mark: |
 | [Replicate](http://replicate.com?ref=aicollection) | Machine Learning DoesnT Need to Be So Hard. | Run open-source models with a cloud API. | :white_check_mark: |
 | [Speakingclubai](http://speakingclubai.com?ref=aicollection) | Speaking Club AI. | Welcome to Speaking Club AI - the ultimate language learning tool for anyone looking to improve their speaking skills in a foreign language. With Speaking Club AI, you can practice    your conversation skills with a personalized AI language partner anytime, anywhere. | :grey_question: |
 | [teachology.ai](https://www.teachology.ai/?ref=aicollection) | A Collection of Tools for Teachers and Educators to Harness the Power of AI in Their Pedagogy and Planning. | Plan Lessons - Harness AI to draft your lessons and export to your favourite formats. Build Rich Assessments - Construct rich assessments with robust rubric driven marking criteria. And more. | :white_check_mark: |
@@ -1195,7 +1209,6 @@ Translations:
 | [Question Base](http://www.questionbase.com?ref=aicollection) | Scale Knowledge. | Question Base is a new kind of knowledge base. Powered by AI it answers your teams questions inside Slack. Automatically. | :grey_question: |
 | [Quillbot Paraphraser](http://quillbot.com?ref=aicollection) | . | . | :grey_question: |
 | [Quilt & Create](http://www.quiltcreate.com?ref=aicollection) | Quilt & Create. | . | :grey_question: |
-| [Quizgecko](http://quizgecko.com?ref=aicollection) | The AI Powered Quiz Generator - Quizgecko. | . | :grey_question: |
 | [Quizwhiz](http://www.quizwhiz.ai?ref=aicollection) | Quizwhiz - Generate McQs From Any Text. | Provide a body of text and get AI-generated Questions and Answers, along with their Multiple-Choice options. | :grey_question: |
 | [RTutor](http://rtutor.ai?ref=aicollection) | Rtutor. | . | :grey_question: |
 | [Raplyrics](http://raplyrics.eu?ref=aicollection) | Raplyrics – Generate Your Rap Music Punchlines. | Write a few words in the prompt below and generate a unique rap music punchline using Artificial Intelligence !. | :grey_question: |

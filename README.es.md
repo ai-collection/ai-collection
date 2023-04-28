@@ -61,6 +61,19 @@
 
 
 <div align="center">
+    <a href="https://quizgecko.com/?via=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1851.webp" alt="Quizgecko" border="0"/>
+    </a>
+    <h4>Deje de perder el tiempo creando cuestionarios manualmente</h4>
+    <p>Cree y comparta preguntas de prueba, tarjetas didácticas y notas al instante, desde cualquier texto. Ideal para empresas, educadores y estudiantes por igual.</p>
+    <a href="https://quizgecko.com/?via=aicollection" target="_blank"><b>Comience con Quizgecko</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://smalltalk2.me?ref=aicollection" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1847.webp" alt="SmallTalk" border="0"/>
     </a>
@@ -392,6 +405,7 @@
 | [Botta](https://askbotta.com/?ref=aicollection) | ¿Tiene problemas con un tema? Conoce a Botta. | Su asistente de enseñanza personal y gratuito. Haga preguntas, obtenga respuestas. Botta hace que el aprendizaje en línea sea muy fácil. | :white_check_mark: |
 | [Cratecode](https://cratecode.com/?ref=aicollection) | Cratecode - Aprende a programar gratis. | ¡Aprende a codificar a través de lecciones en línea y un poderoso asistente de IA! El asistente puede analizar su código, guiarlo en la dirección correcta y escribir artículos sobre temas simples. | :white_check_mark: |
 | [Lorro](https://lorro.io/?ref=aicollection) | Conviértase en un hablante fluido de inglés por una fracción del costo. Hablando con un tutor de IA. | . | :x: |
+| [QUIZGECKO](https://quizgecko.com/?via=aicollection) | Deje de perder el tiempo creando cuestionarios manualmente. | Cree y comparta preguntas de prueba, tarjetas didácticas y notas al instante, desde cualquier texto. Ideal para empresas, educadores y estudiantes por igual. | :white_check_mark: |
 | [Replicate](http://replicate.com?ref=aicollection) | El aprendizaje automático no necesita ser tan difícil. | Ejecute modelos de código abierto con una API en la nube. | :white_check_mark: |
 | [Speakingclubai](http://speakingclubai.com?ref=aicollection) | IA del club de habla. | Bienvenido a Speaking Club AI: la herramienta de aprendizaje de idiomas definitiva para cualquiera que busque mejorar sus habilidades para hablar en un idioma extranjero. Con Speaking Club AI, puede practicar sus habilidades de conversación con un compañero de idioma AI personalizado en cualquier momento y en cualquier lugar. | :grey_question: |
 | [teachology.ai](https://www.teachology.ai/?ref=aicollection) | Una colección de herramientas para profesores y educadores para aprovechar el poder de la IA en su pedagogía y planificación. | Planificar lecciones: aproveche la IA para redactar sus lecciones y exportarlas a sus formatos favoritos. Cree evaluaciones enriquecidas: construya evaluaciones enriquecidas con sólidos criterios de calificación basados en rúbricas. Y más. | :white_check_mark: |
@@ -1189,7 +1203,6 @@
 | [Question Base](http://www.questionbase.com?ref=aicollection) | Conocimiento de escala. | Question Base es un nuevo tipo de base de conocimiento. Con tecnología de inteligencia artificial, responde las preguntas de su equipo dentro de Slack. Automáticamente. | :grey_question: |
 | [Quillbot Paraphraser](http://quillbot.com?ref=aicollection) | . | . | :grey_question: |
 | [Quilt & Create](http://www.quiltcreate.com?ref=aicollection) | Edredón y crear. | . | :grey_question: |
-| [Quizgecko](http://quizgecko.com?ref=aicollection) | El generador de cuestionarios impulsado por IA - Quizgecko. | . | :grey_question: |
 | [Quizwhiz](http://www.quizwhiz.ai?ref=aicollection) | Quizwhiz - Genera McQs desde cualquier texto. | Proporcione un cuerpo de texto y obtenga preguntas y respuestas generadas por IA, junto con sus opciones de opción múltiple. | :grey_question: |
 | [RTutor](http://rtutor.ai?ref=aicollection) | Tutor. | . | :grey_question: |
 | [Raplyrics](http://raplyrics.eu?ref=aicollection) | Raplyrics: genera tus remates de música rap. | ¡Escriba algunas palabras en el mensaje a continuación y genere un remate de música rap único usando Inteligencia Artificial!. | :grey_question: |

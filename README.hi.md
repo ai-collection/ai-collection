@@ -61,6 +61,19 @@
 
 
 <div align="center">
+    <a href="https://quizgecko.com/?via=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1851.webp" alt="Quizgecko" border="0"/>
+    </a>
+    <h4>मैन्युअल रूप से क्विज़ बनाने में समय बर्बाद करना बंद करें</h4>
+    <p>किसी भी पाठ से प्रश्नोत्तरी प्रश्न, फ्लैशकार्ड और नोट्स तुरंत बनाएं और साझा करें। व्यवसायों, शिक्षकों और छात्रों के लिए समान रूप से आदर्श।</p>
+    <a href="https://quizgecko.com/?via=aicollection" target="_blank"><b>Quizgecko के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://smalltalk2.me?ref=aicollection" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1847.webp" alt="SmallTalk" border="0"/>
     </a>
@@ -828,6 +841,7 @@
 | [Botta](https://askbotta.com/?ref=aicollection) | किसी विषय से परेशानी हो रही है? बोटा से मिलें. | आपका निःशुल्क, व्यक्तिगत शिक्षण सहायक। प्रश्न पूछें, उत्तर पाएँ. बोटा ऑनलाइन सीखने को आसान बनाता है।. | :white_check_mark: |
 | [Cratecode](https://cratecode.com/?ref=aicollection) | Cratecode - मुफ़्त में कोड करना सीखें. | ऑनलाइन पाठों और एक शक्तिशाली AI सहायक के माध्यम से कोड करना सीखें! सहायक आपके कोड का विश्लेषण कर सकता है, आपको सही दिशा में ले जा सकता है और सरल विषयों पर लेख लिख सकता है।. | :white_check_mark: |
 | [Lorro](https://lorro.io/?ref=aicollection) | कम लागत में धाराप्रवाह अंग्रेजी बोलने वाले बनें। एआई ट्यूटर से बात करके. | . | :x: |
+| [QUIZGECKO](https://quizgecko.com/?via=aicollection) | मैन्युअल रूप से क्विज़ बनाने में समय बर्बाद करना बंद करें. | किसी भी पाठ से प्रश्नोत्तरी प्रश्न, फ्लैशकार्ड और नोट्स तुरंत बनाएं और साझा करें। व्यवसायों, शिक्षकों और छात्रों के लिए समान रूप से आदर्श।. | :white_check_mark: |
 | [Replicate](http://replicate.com?ref=aicollection) | मशीन लर्निंग को इतना कठिन होने की आवश्यकता नहीं है।. | क्लाउड एपीआई के साथ ओपन-सोर्स मॉडल चलाएं।. | :white_check_mark: |
 | [Speakingclubai](http://speakingclubai.com?ref=aicollection) | स्पीकिंग क्लब एआई. | स्पीकिंग क्लब एआई में आपका स्वागत है - विदेशी भाषा में अपने बोलने के कौशल में सुधार करने के इच्छुक किसी भी व्यक्ति के लिए अंतिम भाषा सीखने का उपकरण। स्पीकिंग क्लब एआई के साथ, आप किसी भी समय, कहीं भी व्यक्तिगत एआई भाषा पार्टनर के साथ अपने वार्तालाप कौशल का अभ्यास कर सकते हैं।. | :grey_question: |
 | [teachology.ai](https://www.teachology.ai/?ref=aicollection) | शिक्षकों और शिक्षकों के लिए उनके शिक्षाशास्त्र और योजना में एआई की शक्ति का उपयोग करने के लिए उपकरणों का एक संग्रह।. | योजना पाठ - अपने पाठों का मसौदा तैयार करने और अपने पसंदीदा प्रारूपों में निर्यात करने के लिए हार्नेस एआई। रिच असेसमेंट बनाएं - मजबूत रूब्रिक संचालित मार्किंग मानदंड के साथ रिच असेसमेंट का निर्माण करें। और अधिक।. | :white_check_mark: |
@@ -1189,7 +1203,6 @@
 | [Question Base](http://www.questionbase.com?ref=aicollection) | स्केल ज्ञान. | प्रश्न आधार एक नए प्रकार का ज्ञान आधार है। एआई द्वारा संचालित यह स्लैक के अंदर आपकी टीम के सवालों का जवाब देता है। खुद ब खुद।. | :grey_question: |
 | [Quillbot Paraphraser](http://quillbot.com?ref=aicollection) | . | . | :grey_question: |
 | [Quilt & Create](http://www.quiltcreate.com?ref=aicollection) | रजाई और बनाएँ. | . | :grey_question: |
-| [Quizgecko](http://quizgecko.com?ref=aicollection) | एआई पावर्ड क्विज़ जेनरेटर - Quizgecko. | . | :grey_question: |
 | [Quizwhiz](http://www.quizwhiz.ai?ref=aicollection) | Quizwhiz - किसी भी टेक्स्ट से McQ उत्पन्न करें. | पाठ का एक भाग प्रदान करें और उनके बहु-विकल्प विकल्पों के साथ एआई-जनित प्रश्न और उत्तर प्राप्त करें।. | :grey_question: |
 | [RTutor](http://rtutor.ai?ref=aicollection) | शिक्षक. | . | :grey_question: |
 | [Raplyrics](http://raplyrics.eu?ref=aicollection) | रैपिलिक्स - अपने रैप म्यूजिक पंचलाइन्स को जनरेट करें।. | नीचे दिए गए संकेत में कुछ शब्द लिखें और आर्टिफिशियल इंटेलिजेंस का उपयोग करके एक अद्वितीय रैप संगीत पंचलाइन बनाएं!. | :grey_question: |

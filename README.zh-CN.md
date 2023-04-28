@@ -61,6 +61,19 @@
 
 
 <div align="center">
+    <a href="https://quizgecko.com/?via=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1851.webp" alt="Quizgecko" border="0"/>
+    </a>
+    <h4>停止浪费时间手动创建测验</h4>
+    <p>从任何文本即时创建和共享测验问题、抽认卡和笔记。非常适合企业、教育工作者和学生。</p>
+    <a href="https://quizgecko.com/?via=aicollection" target="_blank"><b>开始使用 Quizgecko</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://smalltalk2.me?ref=aicollection" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1847.webp" alt="SmallTalk" border="0"/>
     </a>
@@ -491,6 +504,7 @@
 | [Botta](https://askbotta.com/?ref=aicollection) | 话题有问题？认识博塔. | 您的免费个人助教。提出问题，获得答案。 Botta 让在线学习变得轻而易举。. | :white_check_mark: |
 | [Cratecode](https://cratecode.com/?ref=aicollection) | Cratecode - 免费学习编码. | 通过在线课程和强大的 AI 助手学习编码！该助手可以分析您的代码，将您推向正确的方向，并为简单的主题撰写文章。. | :white_check_mark: |
 | [Lorro](https://lorro.io/?ref=aicollection) | 花很少的钱就能说一口流利的英语。通过与 AI 导师交谈. | . | :x: |
+| [QUIZGECKO](https://quizgecko.com/?via=aicollection) | 停止浪费时间手动创建测验. | 从任何文本即时创建和共享测验问题、抽认卡和笔记。非常适合企业、教育工作者和学生。. | :white_check_mark: |
 | [Replicate](http://replicate.com?ref=aicollection) | 机器学习不需要那么难。. | 使用云 API 运行开源模型。. | :white_check_mark: |
 | [Speakingclubai](http://speakingclubai.com?ref=aicollection) | 口语俱乐部AI. | 欢迎来到 Speaking Club AI - 终极语言学习工具，适用于任何希望提高外语口语技能的人。借助Speaking Club AI，您可以随时随地与个性化的AI语伴练习会话技巧。. | :grey_question: |
 | [teachology.ai](https://www.teachology.ai/?ref=aicollection) | 一系列工具供教师和教育工作者在其教学和规划中利用 AI 的力量。. | 计划课程 - 利用 AI 起草您的课程并导出为您喜欢的格式。构建丰富的评估 - 使用强大的评分标准驱动的评分标准构建丰富的评估。和更多。. | :white_check_mark: |
@@ -1189,7 +1203,6 @@
 | [Question Base](http://www.questionbase.com?ref=aicollection) | 规模知识. | 问题库是一种新型的知识库。它由 AI 提供支持，可以在 Slack 中回答您团队的问题。自动地。. | :grey_question: |
 | [Quillbot Paraphraser](http://quillbot.com?ref=aicollection) | . | . | :grey_question: |
 | [Quilt & Create](http://www.quiltcreate.com?ref=aicollection) | 被子与创造. | . | :grey_question: |
-| [Quizgecko](http://quizgecko.com?ref=aicollection) | AI 驱动的测验生成器 - Quizgecko. | . | :grey_question: |
 | [Quizwhiz](http://www.quizwhiz.ai?ref=aicollection) | QuizWhiz - 从任何文本生成 MCQ. | 提供正文并获得 AI 生成的问题和答案，以及它们的多项选择选项。. | :grey_question: |
 | [RTutor](http://rtutor.ai?ref=aicollection) | 导师. | . | :grey_question: |
 | [Raplyrics](http://raplyrics.eu?ref=aicollection) | Raplyrics – 生成您的说唱音乐妙语。. | 在下面的提示中写下几个词，并使用人工智能生成独特的说唱音乐妙语！. | :grey_question: |
