@@ -23,7 +23,7 @@
     <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=846" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=38" />
+    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=39" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -130,7 +130,7 @@ Translations:
 - 🗳 [Reviews & Recommendations](#reviews--recommendations)
 - 💰 [Sales & Marketing](#sales--marketing)
 - 🔍 [Search Engines](#search-engines)
-- 🕸 [Slides & Web Design](#slides--web-design)
+- 📊 [Slides & Presentations](#slides--presentations)
 - 💞 [Social Networks & Dating](#social-networks--dating)
 - 📢 [Speech](#speech)
 - 📝 [Text](#text)
@@ -138,6 +138,7 @@ Translations:
 - 🇺🇳 [Translation & Transcript](#translation--transcript)
 - 🏖 [Vacation & Trip Planner](#vacation--trip-planner)
 - 🎬 [Video](#video)
+- 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 - [Other](#other)
 
@@ -395,7 +396,7 @@ Translations:
 | [H-supertools AI Writer](https://h-supertools.com/ai/ai-writer?ref=aicollection) | AI Writer: Generate Content for Free!. | Generate Blog Sections & Paragraphs in Seconds With This Powerful Free AI Writer. | :white_check_mark: |
 | [Hypotenuse.ai](http://www.hypotenuse.ai?ref=aicollection) | Let AI Write Your Content in Seconds. Without WriterS Block. | Provide a few keywords, and well instantly turn them into full-length articles and marketing content, using our world-class AI with a vast knowledge of the world. | :white_check_mark: |
 | [Intelligent paraphraser](https://aiseo.ai/?fpr=beth0) | Aiseo - AI Writing Assistant, AI Copywriting & Content Generator. | Get writing superpowers with artificial intelligence. We at AISEO will help you convert your thoughts to blogs and can write for you at the click of a button. | :white_check_mark: |
-| [Jasper.ai](http://www.jasper.ai?ref=aicollection) | Jasper - AI Copywriter - AI Content Generator for Teams. | Jasper is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster. | :white_check_mark: |
+| [Jasper.ai](https://jasper.ai?utm_source=partner&fpr=aicollection) | Jasper - AI Copywriter - AI Content Generator for Teams. | Jasper is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster. | :white_check_mark: |
 | [Kafkai](https://kafkai.com/?via=aicollection) | Unique and Readable AI Content Generator. | Kafkai is an AI Writer Assistant that helps you create unique SEO-friendly articles for cents instead of dollars. | :x: |
 | [Katteb](http://katteb.com?ref=aicollection) | Write Fact-Checked Content. | Katteb AI makes it fast & easy to create content for your blog and online store. | :white_check_mark: |
 | [LAIKA](http://www.writewithlaika.com?ref=aicollection) | Personalised Artificial Intelligence for Writers. | We make the boring parts of writing exciting. LAIKA is a creative partner that you train to write like you (or anyone you want). Made for creative writers, game writers, and all other fiction fabricators. | :white_check_mark: |
@@ -642,7 +643,6 @@ Translations:
 | [Replica](http://replicastudios.com?ref=aicollection) | Synthesize Voice AI and Natural Sounding Text-to-Speech — Replica. | Try today with 30 minutes of free voice credit. | :white_check_mark: |
 | [Riffusion](http://www.riffusion.com?ref=aicollection) | Riffusion. | Stable diffusion for real-time music generation. | :white_check_mark: |
 | [Soundraw](http://soundraw.io) | Stop Searching for the Song You Need. Create It. | Royalty-free music, AI generated for you. | :white_check_mark: |
-| [TuneFlow](https://tuneflow.com) | Next-gen music-making tool with a suite of AI superpowers. | Helps you generate melody, beats, or even a whole song while still being able to edit them like any other professional DAW. | :white_check_mark: |
 
 <!--End of Music & Audio Generation 18-->
 
@@ -781,20 +781,16 @@ Translations:
 <!--lint ignore double-link-->
 **[⬆ Back to Index](#index)**
 
-## Slides & Web Design
+## Slides & Presentations
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [ChatBA](https://www.chatba.com/?ref=aicollection) | Chatbcg: Generative AI for Slides. | Instantly create slide decks using ChatBCG. | :grey_question: |
-| [Durable](http://durable.co?ref=aicollection) | Durable: AI Website Builder and Service Business Software. | . | :grey_question: |
-| [Genius by Diagram](https://www.genius.design/?ref=aicollection) | Genius - Your AI Design Companion. | . | :grey_question: |
 | [Glimmer AI](https://glimmerai.tech?ref=aicollection) | AI-Powered Presentation Magic. | Glimmer AI uses GPT-3 and DALL-E 2 to make creating professional-quality presentations easy and fast using text or voice commands. | :white_check_mark: |
-| [Magician](http://magician.design?ref=aicollection) | Magician for Figma. | A magical design tool for Figma powered by AI. | :grey_question: |
-| [Piggy](https://piggy.to/magic?ref=aicollection) | Mobile Content Creator. | Creating stunning content on your phone just got easy. | :white_check_mark: |
 | [STORYD](https://www.storyd.ai?ref=aicollection) | Data Presentations Leaders Love. | Helps professionals quickly and easily create data-driven business presentations. | :white_check_mark: |
 | [SlidesAI](https://www.slidesai.io/?ref=aicollection) | Create Presentation Slides With AI in Seconds. | Say goodbye to tedious, manual slides creation. Let the AI write the outline and presentation content for you. With our tool, you can easily create professional, engaging slides from any text in no time. | :white_check_mark: |
 | [Tome](http://beta.tome.app?ref=aicollection) | Generative Storytelling Has Arrived. | Unlock your best work with Tome's AI-powered storytelling format. | :white_check_mark: |
 
-<!--End of Slides & Web Design 29-->
+<!--End of Slides & Presentations 38-->
 
 <!--lint ignore double-link-->
 **[⬆ Back to Index](#index)**
@@ -982,6 +978,21 @@ Translations:
 <!--lint ignore double-link-->
 **[⬆ Back to Index](#index)**
 
+## Web Design
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [Designs AI](http://designs.ai?ref=aicollection) | Create Logos, Videos, Banners, Voiceovers With AI. | Create anything online in 2 minutes! Make a logo, video, social media banner, business card, flyer, mockup and more with AI. | :white_check_mark: |
+| [Durable](http://durable.co?ref=aicollection) | Durable: AI Website Builder and Service Business Software. | . | :grey_question: |
+| [Genius by Diagram](https://www.genius.design/?ref=aicollection) | Genius - Your AI Design Companion. | . | :grey_question: |
+| [Magician](http://magician.design?ref=aicollection) | Magician for Figma. | A magical design tool for Figma powered by AI. | :grey_question: |
+| [Piggy](https://piggy.to/magic?ref=aicollection) | Mobile Content Creator. | Creating stunning content on your phone just got easy. | :white_check_mark: |
+| [Uizard](http://uizard.io?ref=aicollection) | Uizard - App, Web, & Ui Design Made Easy - Powered by AI. | . | :grey_question: |
+
+<!--End of Web Design 39-->
+
+<!--lint ignore double-link-->
+**[⬆ Back to Index](#index)**
+
 ## Writing Assistant
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
@@ -1091,7 +1102,6 @@ Translations:
 | [Daft Art](http://www.daftart.ai?ref=aicollection) | Daft Art — Create the Album Cover You'Ve Always Dreamed Of. | Daft allows you to create an amazing, high quality artwork for your album cover within a few minutes, powered by AI. | :grey_question: |
 | [Daydrm](http://www.daydrm.ai?ref=aicollection) | Daydrm.Ai. | The future of advertising is using machine learning to perform creative thinking. | :grey_question: |
 | [Debuild](http://debuild.app?ref=aicollection) | Debuild - Build Web Apps Fast. | . | :grey_question: |
-| [Designs AI](http://designs.ai?ref=aicollection) | Create Logos, Videos, Banners, Voiceovers With AI. | Create anything online in 2 minutes! Make a logo, video, social media banner, business card, flyer, mockup and more with AI. | :white_check_mark: |
 | [DetangleAI](http://detangle.ai?ref=aicollection) | Detangleai. | . | :grey_question: |
 | [Dewey](http://www.withdewey.com?ref=aicollection) | Dewey: Your New Accountability Buddy. | . | :grey_question: |
 | [Diffusion Bee](http://diffusionbee.com?ref=aicollection) | Diffusionbee - Stable Diffusion App for AI Art. | DiffusionBee is the easiest way to generate AI art on your computer with Stable Diffusion. | :white_check_mark: |
@@ -1276,7 +1286,6 @@ Translations:
 | [Tweetnimage](http://tweetnimage.com?ref=aicollection) | Tweetnimage. | . | :grey_question: |
 | [Twelve Labs](http://twelvelabs.io?ref=aicollection) | Twelve Labs. | . | :grey_question: |
 | [USP](http://usp.ai?ref=aicollection) | Maximize Your Blog - Usp.Ai. | Awesome AI generated ROYALTY FREE IMAGES for your stories and blog posts. | :white_check_mark: |
-| [Uizard](http://uizard.io?ref=aicollection) | Uizard - App, Web, & Ui Design Made Easy - Powered by AI. | . | :grey_question: |
 | [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?ref=aicollection) | Further: Automated Skill Suggestion. | . | :grey_question: |
 | [Unpromptedgame](http://www.unpromptedgame.com?ref=aicollection) | . | . | :grey_question: |
 | [Unrealme](http://unrealme.io?ref=aicollection) | Unreal Me. | . | :grey_question: |
