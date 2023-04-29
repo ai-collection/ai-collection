@@ -23,7 +23,7 @@
     <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=846" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=38" />
+    <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=39" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -106,8 +106,9 @@
 - 🔌 [Complementos Y Extensiones](#complementos-y-extensiones)
 - 📈 [Cuentas Y Finanzas](#cuentas-y-finanzas)
 - 👩‍⚕️ [Cuidado De La Salud](#cuidado-de-la-salud)
-- 🕸 [Diapositivas Y Diseño Web](#diapositivas-y-diseño-web)
+- 📊 [Diapositivas Y Presentaciones](#diapositivas-y-presentaciones)
 - 📢 [Discurso](#discurso)
+- 🕸 [Diseño Web](#diseño-web)
 - 🤪 [Divertido](#divertido)
 - 📸 [Edición De Fotos E Imágenes](#edición-de-fotos-e-imágenes)
 - 🧠 [Educación Y Aprendizaje](#educación-y-aprendizaje)
@@ -313,20 +314,16 @@
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
 
-## Diapositivas Y Diseño Web
+## Diapositivas Y Presentaciones
 | Nombre | Título | Descripción | Ofrecer versión gratuita |
 |---|---|---|:---:|
 | [ChatBA](https://www.chatba.com/?ref=aicollection) | Chatbcg: IA generativa para diapositivas. | Cree presentaciones de diapositivas al instante con ChatBCG. | :grey_question: |
-| [Durable](http://durable.co?ref=aicollection) | Duradero: Creador de sitios web con IA y Software empresarial de servicios. | . | :grey_question: |
-| [Genius by Diagram](https://www.genius.design/?ref=aicollection) | Genius: su compañero de diseño de IA. | . | :grey_question: |
 | [Glimmer AI](https://glimmerai.tech?ref=aicollection) | Magia de presentación impulsada por IA. | Glimmer AI usa GPT-3 y DALL-E 2 para hacer que la creación de presentaciones de calidad profesional sea fácil y rápida usando comandos de texto o voz. | :white_check_mark: |
-| [Magician](http://magician.design?ref=aicollection) | Mago para Figma. | Una herramienta de diseño mágica para Figma impulsada por IA. | :grey_question: |
-| [Piggy](https://piggy.to/magic?ref=aicollection) | Creador de contenido móvil. | Crear contenido asombroso en tu teléfono ahora es fácil. | :white_check_mark: |
 | [STORYD](https://www.storyd.ai?ref=aicollection) | Presentaciones de datos que aman los líderes. | Ayuda a los profesionales a crear rápida y fácilmente presentaciones comerciales basadas en datos. | :white_check_mark: |
 | [SlidesAI](https://www.slidesai.io/?ref=aicollection) | Cree diapositivas de presentación con IA en segundos. | Di adiós a la tediosa creación manual de diapositivas. Deje que la IA escriba el esquema y el contenido de la presentación por usted. Con nuestra herramienta, puede crear fácilmente diapositivas atractivas y profesionales a partir de cualquier texto en muy poco tiempo. | :white_check_mark: |
 | [Tome](http://beta.tome.app?ref=aicollection) | Ha llegado la narración generativa. | Desbloquee su mejor trabajo con el formato de narración impulsado por IA de Tome. | :white_check_mark: |
 
-<!--End of Diapositivas y diseño web 29-->
+<!--End of Diapositivas y presentaciones 38-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -339,6 +336,21 @@
 | [SmallTalk2.me](https://smalltalk2.me?ref=aicollection) | Asistente de enseñanza impulsado por IA para evaluar y mejorar las habilidades de habla inglesa. | Con SmallTalk, los estudiantes pueden autoevaluar su nivel de dominio del inglés, prepararse para una entrevista de trabajo en inglés o el examen IELTS y participar en ejercicios de habla que los preparan para conversaciones en el lugar de trabajo, entornos académicos o la vida cotidiana. | :white_check_mark: |
 
 <!--End of Discurso 21-->
+
+<!--lint ignore double-link-->
+**[⬆ Volver al índice](#index)**
+
+## Diseño Web
+| Nombre | Título | Descripción | Ofrecer versión gratuita |
+|---|---|---|:---:|
+| [Designs AI](http://designs.ai?ref=aicollection) | Cree logotipos, videos, pancartas, voces en off con IA. | ¡Crea cualquier cosa en línea en 2 minutos! Cree un logotipo, un video, un banner para redes sociales, una tarjeta de presentación, un volante, una maqueta y más con IA. | :white_check_mark: |
+| [Durable](http://durable.co?ref=aicollection) | Duradero: Creador de sitios web con IA y Software empresarial de servicios. | . | :grey_question: |
+| [Genius by Diagram](https://www.genius.design/?ref=aicollection) | Genius: su compañero de diseño de IA. | . | :grey_question: |
+| [Magician](http://magician.design?ref=aicollection) | Mago para Figma. | Una herramienta de diseño mágica para Figma impulsada por IA. | :grey_question: |
+| [Piggy](https://piggy.to/magic?ref=aicollection) | Creador de contenido móvil. | Crear contenido asombroso en tu teléfono ahora es fácil. | :white_check_mark: |
+| [Uizard](http://uizard.io?ref=aicollection) | Uizard - Diseño de aplicación, web y interfaz de usuario simplificado - Desarrollado por IA. | . | :grey_question: |
+
+<!--End of Diseño web 39-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
@@ -431,7 +443,7 @@
 | [H-supertools AI Writer](https://h-supertools.com/ai/ai-writer?ref=aicollection) | AI Writer: ¡Genera contenido gratis!. | Genere secciones y párrafos de blog en segundos con este poderoso escritor de IA gratuito. | :white_check_mark: |
 | [Hypotenuse.ai](http://www.hypotenuse.ai?ref=aicollection) | Deje que AI escriba su contenido en segundos. Sin bloque WriterS. | Proporcione algunas palabras clave y las convertiremos instantáneamente en artículos completos y contenido de marketing, utilizando nuestra IA de clase mundial con un vasto conocimiento del mundo. | :white_check_mark: |
 | [Intelligent paraphraser](https://aiseo.ai/?fpr=beth0) | Aiseo - Asistente de redacción de IA, redacción de textos publicitarios de IA y generador de contenido. | Obtén superpoderes de escritura con inteligencia artificial. Nosotros en AISEO lo ayudaremos a convertir sus pensamientos en blogs y podemos escribir por usted con solo hacer clic en un botón. | :white_check_mark: |
-| [Jasper.ai](http://www.jasper.ai?ref=aicollection) | Jasper - Redactor publicitario de IA - Generador de contenido de IA para equipos. | Jasper es el generador de contenido de IA que te ayuda a ti y a tu equipo a superar los bloqueos creativos para crear contenido sorprendente y original 10 veces más rápido. | :white_check_mark: |
+| [Jasper.ai](https://jasper.ai?utm_source=partner&fpr=aicollection) | Jasper - Redactor publicitario de IA - Generador de contenido de IA para equipos. | Jasper es el generador de contenido de IA que te ayuda a ti y a tu equipo a superar los bloqueos creativos para crear contenido sorprendente y original 10 veces más rápido. | :white_check_mark: |
 | [Kafkai](https://kafkai.com/?via=aicollection) | Generador de contenido de IA único y legible. | Kafkai es un asistente de escritura de IA que lo ayuda a crear artículos únicos compatibles con SEO por centavos en lugar de dólares. | :x: |
 | [Katteb](http://katteb.com?ref=aicollection) | Escribir contenido verificado. | Katteb AI hace que sea rápido y fácil crear contenido para su blog y tienda en línea. | :white_check_mark: |
 | [LAIKA](http://www.writewithlaika.com?ref=aicollection) | Inteligencia artificial personalizada para escritores. | Hacemos que las partes aburridas de escribir sean emocionantes. LAIKA es un socio creativo que entrenas para escribir como tú (o como quieras). Hecho para escritores creativos, escritores de juegos y todos los demás fabricantes de ficción. | :white_check_mark: |
@@ -477,7 +489,6 @@
 | [Replica](http://replicastudios.com?ref=aicollection) | Sintetizar voz AI y texto a voz con sonido natural: réplica. | Pruébelo hoy con 30 minutos de crédito de voz gratis. | :white_check_mark: |
 | [Riffusion](http://www.riffusion.com?ref=aicollection) | Rifusión. | Difusión estable para la generación de música en tiempo real. | :white_check_mark: |
 | [Soundraw](http://soundraw.io) | Deja de buscar la canción que necesitas. Créalo. | Música sin derechos de autor, IA generada para ti. | :white_check_mark: |
-| [TuneFlow](https://tuneflow.com) | Herramienta de creación musical de próxima generación con un conjunto de superpoderes de inteligencia artificial (IA). | Te ayuda a generar melodías, ritmos e incluso una canción completa, y aún así te permite editarlos como cualquier otra estación de trabajo de audio profesional (DAW). | :white_check_mark: |
 
 <!--End of Generación de música y audio 18-->
 
@@ -1085,7 +1096,6 @@
 | [Daft Art](http://www.daftart.ai?ref=aicollection) | Daft Art — Crea la portada del álbum que siempre has soñado. | Daft le permite crear una obra de arte increíble y de alta calidad para la portada de su álbum en unos minutos, con tecnología de IA. | :grey_question: |
 | [Daydrm](http://www.daydrm.ai?ref=aicollection) | Daydrm.Ai. | El futuro de la publicidad está utilizando el aprendizaje automático para realizar el pensamiento creativo. | :grey_question: |
 | [Debuild](http://debuild.app?ref=aicollection) | Debuild - Cree aplicaciones web rápidamente. | . | :grey_question: |
-| [Designs AI](http://designs.ai?ref=aicollection) | Cree logotipos, videos, pancartas, voces en off con IA. | ¡Crea cualquier cosa en línea en 2 minutos! Cree un logotipo, un video, un banner para redes sociales, una tarjeta de presentación, un volante, una maqueta y más con IA. | :white_check_mark: |
 | [DetangleAI](http://detangle.ai?ref=aicollection) | Desenredar. | . | :grey_question: |
 | [Dewey](http://www.withdewey.com?ref=aicollection) | Dewey: Tu nuevo compañero de responsabilidad. | . | :grey_question: |
 | [Diffusion Bee](http://diffusionbee.com?ref=aicollection) | Diffusionbee - Aplicación de difusión estable para AI Art. | DiffusionBee es la forma más fácil de generar arte de IA en su computadora con Stable Diffusion. | :white_check_mark: |
@@ -1270,7 +1280,6 @@
 | [Tweetnimage](http://tweetnimage.com?ref=aicollection) | Tweetnimagen. | . | :grey_question: |
 | [Twelve Labs](http://twelvelabs.io?ref=aicollection) | doce laboratorios. | . | :grey_question: |
 | [USP](http://usp.ai?ref=aicollection) | Maximice su blog - Usp.Ai. | Impresionantes IMÁGENES LIBRES DE DERECHOS generados por IA para sus historias y publicaciones de blog. | :white_check_mark: |
-| [Uizard](http://uizard.io?ref=aicollection) | Uizard - Diseño de aplicación, web y interfaz de usuario simplificado - Desarrollado por IA. | . | :grey_question: |
 | [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?ref=aicollection) | Además: Sugerencia de habilidad automatizada. | . | :grey_question: |
 | [Unpromptedgame](http://www.unpromptedgame.com?ref=aicollection) | . | . | :grey_question: |
 | [Unrealme](http://unrealme.io?ref=aicollection) | yo irreal. | . | :grey_question: |

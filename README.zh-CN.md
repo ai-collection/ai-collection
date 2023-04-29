@@ -23,7 +23,7 @@
     <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=846" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=38" />
+    <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=39" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -109,7 +109,7 @@
 - 👩‍⚕️ [卫生保健](#卫生保健)
 - 👩‍⚖️ [合法的](#合法的)
 - 👨‍💻 [客户支持](#客户支持)
-- 🕸 [幻灯片和网页设计](#幻灯片和网页设计)
+- 📊 [幻灯片和演示文稿](#幻灯片和演示文稿)
 - 🏯 [建筑与室内设计](#建筑与室内设计)
 - ⚜️ [徽标生成器](#徽标生成器)
 - 🔌 [插件和扩展](#插件和扩展)
@@ -125,6 +125,7 @@
 - 🎁💡 [礼物创意](#礼物创意)
 - 💞 [社交网络和约会](#社交网络和约会)
 - 🧞‍♂️ [组织与自动化](#组织与自动化)
+- 🕸 [网页设计](#网页设计)
 - 🇺🇳 [翻译和成绩单](#翻译和成绩单)
 - 🤖💬 [聊天机器人](#聊天机器人)
 - 🌄 [艺术与图像生成器](#艺术与图像生成器)
@@ -251,7 +252,7 @@
 | [H-supertools AI Writer](https://h-supertools.com/ai/ai-writer?ref=aicollection) | AI 作家：免费生成内容！. | 使用这个强大的免费 AI 编写器在几秒钟内生成博客部分和段落。. | :white_check_mark: |
 | [Hypotenuse.ai](http://www.hypotenuse.ai?ref=aicollection) | 让 AI 秒写你的内容。没有作家的障碍。. | 提供几个关键词，我们会立即将它们变成完整的文章和营销内容，使用我们拥有丰富世界知识的世界级人工智能。. | :white_check_mark: |
 | [Intelligent paraphraser](https://aiseo.ai/?fpr=beth0) | AISEO - 人工智能写作助手，人工智能文案和内容生成器. | 通过人工智能获得写作超能力。我们 AISEO 将帮助您将您的想法转化为博客，并且只需单击一个按钮即可为您撰写文章。. | :white_check_mark: |
-| [Jasper.ai](http://www.jasper.ai?ref=aicollection) | Jasper - AI Copywriter - 团队的 AI 内容生成器. | Jasper 是 AI 内容生成器，可帮助您和您的团队突破创意障碍，以 10 倍的速度创建令人惊叹的原创内容。. | :white_check_mark: |
+| [Jasper.ai](https://jasper.ai?utm_source=partner&fpr=aicollection) | Jasper - AI Copywriter - 团队的 AI 内容生成器. | Jasper 是 AI 内容生成器，可帮助您和您的团队突破创意障碍，以 10 倍的速度创建令人惊叹的原创内容。. | :white_check_mark: |
 | [Kafkai](https://kafkai.com/?via=aicollection) | 独特且可读的 AI 内容生成器. | Kafkai 是一个 AI 作家助手，可以帮助您以美分而不是美元来创建独特的 SEO 友好文章。. | :x: |
 | [Katteb](http://katteb.com?ref=aicollection) | 编写经过事实核查的内容. | Katteb AI 可以快速轻松地为您的博客和在线商店创建内容. | :white_check_mark: |
 | [LAIKA](http://www.writewithlaika.com?ref=aicollection) | 作家的个性化人工智能. | 我们让写作中乏味的部分变得有趣。 LAIKA 是一个创意伙伴，您可以训练它像您（或您想要的任何人）一样写作。专为创意作家、游戏作家和所有其他小说创作者打造。. | :white_check_mark: |
@@ -421,20 +422,16 @@
 <!--lint ignore double-link-->
 **[⬆ 返回索引](#index)**
 
-## 幻灯片和网页设计
+## 幻灯片和演示文稿
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [ChatBA](https://www.chatba.com/?ref=aicollection) | ChatBCG：幻灯片的生成人工智能. | 使用 ChatBCG 即时创建幻灯片. | :grey_question: |
-| [Durable](http://durable.co?ref=aicollection) | 耐用：AI Website Builder 和服务业务软件. | . | :grey_question: |
-| [Genius by Diagram](https://www.genius.design/?ref=aicollection) | Genius - 你的 AI 设计伙伴. | . | :grey_question: |
 | [Glimmer AI](https://glimmerai.tech?ref=aicollection) | 人工智能驱动的演示魔术. | Glimmer AI 使用 GPT-3 和 DALL-E 2 使用文本或语音命令轻松快速地创建专业品质的演示文稿. | :white_check_mark: |
-| [Magician](http://magician.design?ref=aicollection) | Figma 魔术师. | 由 AI 提供支持的 Figma 神奇设计工具。. | :grey_question: |
-| [Piggy](https://piggy.to/magic?ref=aicollection) | 移动内容创作者。. | 在您的手机上创建令人惊叹的内容变得简单. | :white_check_mark: |
 | [STORYD](https://www.storyd.ai?ref=aicollection) | 领导者喜爱的数据演示. | 帮助专业人士快速轻松地创建数据驱动的业务演示文稿。. | :white_check_mark: |
 | [SlidesAI](https://www.slidesai.io/?ref=aicollection) | 使用 AI 在几秒钟内创建演示幻灯片. | 告别繁琐的手动幻灯片创建。让 AI 为您编写大纲和演示内容。使用我们的工具，您可以立即从任何文本轻松创建专业、引人入胜的幻灯片。. | :white_check_mark: |
 | [Tome](http://beta.tome.app?ref=aicollection) | 生成式讲故事已经到来。. | 使用 Tome 的 AI 驱动的讲故事格式解锁您的最佳作品。. | :white_check_mark: |
 
-<!--End of 幻灯片和网页设计 29-->
+<!--End of 幻灯片和演示文稿 38-->
 
 <!--lint ignore double-link-->
 **[⬆ 返回索引](#index)**
@@ -749,6 +746,21 @@
 <!--lint ignore double-link-->
 **[⬆ 返回索引](#index)**
 
+## 网页设计
+| 姓名 | 标题 | 描述 | 提供免费版本 |
+|---|---|---|:---:|
+| [Designs AI](http://designs.ai?ref=aicollection) | 使用 AI 创建徽标、视频、横幅、画外音. | 在 2 分钟内在线创建任何内容！使用 AI 制作徽标、视频、社交媒体横幅、名片、传单、模型等。. | :white_check_mark: |
+| [Durable](http://durable.co?ref=aicollection) | 耐用：AI Website Builder 和服务业务软件. | . | :grey_question: |
+| [Genius by Diagram](https://www.genius.design/?ref=aicollection) | Genius - 你的 AI 设计伙伴. | . | :grey_question: |
+| [Magician](http://magician.design?ref=aicollection) | Figma 魔术师. | 由 AI 提供支持的 Figma 神奇设计工具。. | :grey_question: |
+| [Piggy](https://piggy.to/magic?ref=aicollection) | 移动内容创作者。. | 在您的手机上创建令人惊叹的内容变得简单. | :white_check_mark: |
+| [Uizard](http://uizard.io?ref=aicollection) | Uizard - 应用程序、Web 和 UI 设计变得简单 - 由 AI 提供支持. | . | :grey_question: |
+
+<!--End of 网页设计 39-->
+
+<!--lint ignore double-link-->
+**[⬆ 返回索引](#index)**
+
 ## 翻译和成绩单
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
@@ -999,7 +1011,6 @@
 | [Replica](http://replicastudios.com?ref=aicollection) | 合成语音 AI 和自然的文本到语音 - 副本. | 立即试用 30 分钟的免费话音。. | :white_check_mark: |
 | [Riffusion](http://www.riffusion.com?ref=aicollection) | 扩散. | 实时音乐生成的稳定扩散. | :white_check_mark: |
 | [Soundraw](http://soundraw.io) | 停止搜索您需要的歌曲。创造它。. | 免版税音乐，AI为你生成. | :white_check_mark: |
-| [TuneFlow](https://tuneflow.com) | 下一代AI助力的音乐制作工具 | 用AI帮助你生成旋律，鼓点，甚至整首曲子，与专业DAW媲美的全流程制作能力让你可以与AI一起进行创作。 | :white_check_mark: |
 
 <!--End of 音乐和音频生成 18-->
 
@@ -1085,7 +1096,6 @@
 | [Daft Art](http://www.daftart.ai?ref=aicollection) | Daft Art — 制作您梦寐以求的专辑封面. | Daft 允许您在几分钟内为您的专辑封面创建令人惊叹的高质量艺术品，由 AI 提供支持。. | :grey_question: |
 | [Daydrm](http://www.daydrm.ai?ref=aicollection) | Daydrm.ai. | 广告的未来是使用机器学习进行创造性思维. | :grey_question: |
 | [Debuild](http://debuild.app?ref=aicollection) | Debuild - 快速构建网络应用程序. | . | :grey_question: |
-| [Designs AI](http://designs.ai?ref=aicollection) | 使用 AI 创建徽标、视频、横幅、画外音. | 在 2 分钟内在线创建任何内容！使用 AI 制作徽标、视频、社交媒体横幅、名片、传单、模型等。. | :white_check_mark: |
 | [DetangleAI](http://detangle.ai?ref=aicollection) | 理清AI. | . | :grey_question: |
 | [Dewey](http://www.withdewey.com?ref=aicollection) | 杜威：您的新问责伙伴. | . | :grey_question: |
 | [Diffusion Bee](http://diffusionbee.com?ref=aicollection) | DiffusionBee - 稳定的 AI 艺术扩散应用程序. | DiffusionBee 是使用 Stable Diffusion 在计算机上生成 AI 艺术的最简单方法. | :white_check_mark: |
@@ -1270,7 +1280,6 @@
 | [Tweetnimage](http://tweetnimage.com?ref=aicollection) | 推特图片. | . | :grey_question: |
 | [Twelve Labs](http://twelvelabs.io?ref=aicollection) | 十二实验室. | . | :grey_question: |
 | [USP](http://usp.ai?ref=aicollection) | 最大化您的博客 - USP.ai. | 很棒的 AI 为您的故事和博客文章生成免版税图像。. | :white_check_mark: |
-| [Uizard](http://uizard.io?ref=aicollection) | Uizard - 应用程序、Web 和 UI 设计变得简单 - 由 AI 提供支持. | . | :grey_question: |
 | [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?ref=aicollection) | 进一步：自动化技能建议. | . | :grey_question: |
 | [Unpromptedgame](http://www.unpromptedgame.com?ref=aicollection) | . | . | :grey_question: |
 | [Unrealme](http://unrealme.io?ref=aicollection) | 虚幻的我. | . | :grey_question: |
