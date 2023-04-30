@@ -419,7 +419,7 @@ Translations:
 | [Writey AI](http://writey.ai?ref=aicollection) | Yes — An A.I That Writes Original, Researched Blog Posts in Minutes. | First true free plagiarism A.I with original and researched content, check Writey A.I in action. | :white_check_mark: |
 | [unbound](https://www.unboundcontent.ai/auth?affiliate=aff_z0krz31) | Automate Content Creation for Your Small Business. | Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators. | :white_check_mark: |
 | [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0) | Instantly Convert Your YouTube Content Into Engaging Blog Articles. | Boost your SEO and brand presence. | :white_check_mark: |
-
+| [CopyGen](https://copygen.pro/?ref=aicollection) | AI-Powered Content Writing Assistant. | Your go-to AI writing tool for creating high-quality, SEO-optimized content in seconds, without writer's block. | :x: |
 <!--End of Content Generation & Seo 5-->
 
 <!--lint ignore double-link-->
