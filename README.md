@@ -987,6 +987,7 @@ Translations:
 | [Magician](http://magician.design?ref=aicollection) | Magician for Figma. | A magical design tool for Figma powered by AI. | :grey_question: |
 | [Piggy](https://piggy.to/magic?ref=aicollection) | Mobile Content Creator. | Creating stunning content on your phone just got easy. | :white_check_mark: |
 | [Uizard](http://uizard.io?ref=aicollection) | Uizard - App, Web, & Ui Design Made Easy - Powered by AI. | . | :grey_question: |
+| [Stunning.so](https://stunning.so/) | Build stunning websites in 30 seconds including copy & even images powered by AI. | Build websites with AI. | :white_check_mark: |
 
 <!--End of Web Design 39-->
 
