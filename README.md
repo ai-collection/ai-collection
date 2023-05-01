@@ -833,6 +833,7 @@ Translations:
 ## Text
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [AI Story Generator](https://www.aistorygenerator.org?ref=aicollection) | AI Story Generator | A free AI story generator that writes creative short stories for you on any topic | :white_check_mark: |
 | [Bookclub](http://www.bookclub.ai?ref=aicollection) | Bookclub.Ai - Meet Your Next Book. | . | :grey_question: |
 | [ChatGPT Writer](http://chatgptwriter.ai?ref=aicollection) | . | . | :grey_question: |
 | [Childbook](http://www.childbook.ai?ref=aicollection) | Welcome to Children'S Book Creator!. | Your book will be personalized with characters, pictures and story. The story and illustrations also have a text-to-speech feature and can be listened to. | :grey_question: |
