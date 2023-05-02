@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=850" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=849" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=39" />
@@ -222,6 +222,9 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [FlowCog](https://flowcog.com?ref=aicollection) | SaaS 财务预测 快速简单 ⚡. | 解锁现金跑道和增长洞察力——没有电子表格！ 7 分钟入职。 QuickBooks 和 Stripe 准备就绪。深受董事会和投资者信赖. | :white_check_mark: |
+| [StockGPT](https://www.askstockgpt.com/?ref=aicollection) | 人工智能驱动的搜索引擎. | StockGPT 是一个基于人工智能的搜索引擎，它接受了特斯拉 2011 年第二季度以来所有季度收益电话会议记录的训练。. | :white_check_mark: |
+| [Stocknews AI](http://stocknewsai.com?ref=aicollection) | Stocknews AI - 人工智能挑选股票新闻. | . | :white_check_mark: |
+| [Torto.ai](http://torto.ai?ref=aicollection) | 股市变得简单. | . | :white_check_mark: |
 
 <!--End of 会计与金融 37-->
 
@@ -492,7 +495,6 @@
 | [OpenArt Photo Booth](http://openart.ai?ref=aicollection) | 发现并生成 AI 艺术 - OpenArt. | 搜索10M+提示，通过Stable Diffusion生成AI艺术，DALL·E 2。. | :white_check_mark: |
 | [Perplexity AI](http://www.perplexity.ai?ref=aicollection) | Perplexity AI 是一个答案引擎，可以使用大型语言模型为复杂问题提供准确的答案。. | Ask 由大型语言模型和搜索引擎提供支持。准确性受搜索结果和 AI 功能的限制。. | :white_check_mark: |
 | [Smarty Names](http://smartynames.com?ref=aicollection) | AI 机器人免费创意域名搜索. | 使用 SmartyNames.com 可以轻松找到仍然可用的创意和独特域名 - 告诉我们您的工作，我们的机器人会找到适合您的域名。一键生成公司名称。. | :white_check_mark: |
-| [StockGPT](https://www.askstockgpt.com/?ref=aicollection) | 人工智能驱动的搜索引擎. | StockGPT 是一个基于人工智能的搜索引擎，它接受了特斯拉 2011 年第二季度以来所有季度收益电话会议记录的训练。. | :white_check_mark: |
 | [You](http://you.com?ref=aicollection) | 您控制的 AI 搜索引擎. | . | :white_check_mark: |
 
 <!--End of 搜索引擎 30-->
@@ -1251,7 +1253,6 @@
 | [Splash](http://www.splashmusic.com?ref=aicollection) | Splash - 将音乐制作的乐趣带给每个人. | . | :grey_question: |
 | [Stabledojo](http://www.stabledojo.com?ref=aicollection) | 稳定道场. | . | :grey_question: |
 | [Steve AI](http://www.steve.ai?ref=aicollection) | Steve.ai - 世界上最快的视频制作方式. | 借助我们的专利 AI 技术，您可以在几分钟内制作专业视频。当 AI 为您的视频选择合适的创意媒体资产时，见证奇迹的发生。. | :grey_question: |
-| [Stocknews AI](http://stocknewsai.com?ref=aicollection) | Stocknews AI - 人工智能挑选股票新闻. | . | :grey_question: |
 | [StoriesbyAI](http://storiesby.ai?ref=aicollection) | AI 的故事 - 子堆栈. | . | :grey_question: |
 | [Storya](http://www.storya.app?ref=aicollection) | Storya - 面向所有人的 AI 出版. | . | :grey_question: |
 | [Studio Design](http://studio.design?ref=aicollection) | STUDIO，一种人工智能增强设计工具. | . | :grey_question: |
@@ -1280,7 +1281,6 @@
 | [Thiscampsitedoesnotexist](http://thiscampsitedoesnotexist.com?ref=aicollection) | 这个营地不存在. | AI 生成的营地具有令人惊叹的位置、帐篷和天气，所有这些都是由 AI 使用稳定扩散创建的。. | :grey_question: |
 | [Thumbsnap](http://art.thumbsnap.com?ref=aicollection) | 人工智能艺术生成器！由 Stable Diffusion 提供支持 - ThumbSnap - 免费照片和视频托管. | ThumbSnap：免费照片和视频共享. | :white_check_mark: |
 | [Titan](http://www.compliancequarter.com.au?ref=aicollection) | 专家合规系统和资源 - 合规季. | 能源、金融服务和其他受监管行业的监管合规管理系统和专业知识。我们提供专家系统和服务来减轻您的监管负担。. | :grey_question: |
-| [Torto.ai](http://torto.ai?ref=aicollection) | 股市变得简单. | . | :grey_question: |
 | [Traq.ai](http://www.traq.ai?ref=aicollection) | . | . | :grey_question: |
 | [Tunes For Tales](http://tunesfortales.fun?ref=aicollection) | 故事曲调. | . | :grey_question: |
 | [TutorAI](http://www.tutorai.me?ref=aicollection) | 学什么. | . | :grey_question: |

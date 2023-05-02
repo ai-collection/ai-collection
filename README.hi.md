@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=850" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=849" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=39" />
@@ -485,7 +485,6 @@
 | [OpenArt Photo Booth](http://openart.ai?ref=aicollection) | डिस्कवर और एआई कला उत्पन्न करें - ओपनआर्ट. | 10M+ प्रॉम्प्ट खोजें, और स्थिर प्रसार, DALL·E 2 के माध्यम से AI कला उत्पन्न करें।. | :white_check_mark: |
 | [Perplexity AI](http://www.perplexity.ai?ref=aicollection) | Perplexity AI एक उत्तर इंजन है जो बड़े भाषा मॉडल का उपयोग करके जटिल प्रश्नों के सटीक उत्तर देता है।. | आस्क बड़े भाषा मॉडल और सर्च इंजन द्वारा संचालित है। सटीकता खोज परिणामों और AI क्षमताओं द्वारा सीमित है।. | :white_check_mark: |
 | [Smarty Names](http://smartynames.com?ref=aicollection) | एआई रोबोट्स द्वारा नि:शुल्क रचनात्मक डोमेन नाम खोज. | SmartyNames.com के साथ एक रचनात्मक और अद्वितीय डोमेन खोजना आसान है जो अभी भी उपलब्ध है - हमें बताएं कि आप क्या करते हैं, और हमारे रोबोट आपके लिए सही डोमेन ढूंढ लेंगे। एक क्लिक में कंपनी का नाम जनरेटर।. | :white_check_mark: |
-| [StockGPT](https://www.askstockgpt.com/?ref=aicollection) | एआई-पावर्ड सर्च इंजन. | स्टॉकजीपीटी एक एआई-पावर्ड सर्च इंजन है जिसे 2011 की दूसरी तिमाही से लेकर टेस्ला की सभी तिमाही आय कॉल प्रतिलेखों पर प्रशिक्षित किया गया था।. | :white_check_mark: |
 | [You](http://you.com?ref=aicollection) | एआई सर्च इंजन जिसे आप नियंत्रित करते हैं. | . | :white_check_mark: |
 
 <!--End of खोज इंजन 30-->
@@ -774,6 +773,9 @@
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
 | [FlowCog](https://flowcog.com?ref=aicollection) | सास वित्तीय अनुमान त्वरित और आसान ⚡. | कैश रनवे और विकास अंतर्दृष्टि अनलॉक करें - कोई स्प्रेडशीट नहीं! 7 मिनट ऑनबोर्डिंग। QuickBooks और स्ट्राइप तैयार। बोर्डों और निवेशकों द्वारा भरोसा किया. | :white_check_mark: |
+| [StockGPT](https://www.askstockgpt.com/?ref=aicollection) | एआई-पावर्ड सर्च इंजन. | स्टॉकजीपीटी एक एआई-पावर्ड सर्च इंजन है जिसे 2011 की दूसरी तिमाही से लेकर टेस्ला की सभी तिमाही आय कॉल प्रतिलेखों पर प्रशिक्षित किया गया था।. | :white_check_mark: |
+| [Stocknews AI](http://stocknewsai.com?ref=aicollection) | स्टॉकन्यूज़ एआई - एआई चुनिंदा स्टॉक न्यूज़. | . | :white_check_mark: |
+| [Torto.ai](http://torto.ai?ref=aicollection) | स्टॉक मार्केट मेड सिंपल. | . | :white_check_mark: |
 
 <!--End of लेखा और वित्त 37-->
 
@@ -1251,7 +1253,6 @@
 | [Splash](http://www.splashmusic.com?ref=aicollection) | स्पलैश - हर किसी के लिए संगीत बनाने का आनंद लाना. | . | :grey_question: |
 | [Stabledojo](http://www.stabledojo.com?ref=aicollection) | अस्तबलडोजो. | . | :grey_question: |
 | [Steve AI](http://www.steve.ai?ref=aicollection) | स्टीव.एआई - वीडियो बनाने का दुनिया का सबसे तेज तरीका. | हमारी पेटेंट की गई AI तकनीक से आप मिनटों में पेशेवर वीडियो बना सकते हैं। मैजिक होते देखें क्योंकि AI आपके वीडियो के लिए सही रचनात्मक मीडिया संपत्तियां चुनता है।. | :grey_question: |
-| [Stocknews AI](http://stocknewsai.com?ref=aicollection) | स्टॉकन्यूज़ एआई - एआई चुनिंदा स्टॉक न्यूज़. | . | :grey_question: |
 | [StoriesbyAI](http://storiesby.ai?ref=aicollection) | एआई की कहानियां - सबस्टैक. | . | :grey_question: |
 | [Storya](http://www.storya.app?ref=aicollection) | स्टोरीया - एआई पब्लिशिंग फॉर एवरीवन. | . | :grey_question: |
 | [Studio Design](http://studio.design?ref=aicollection) | स्टूडियो, एक एआई-ऑगमेंटेड डिज़ाइन टूल. | . | :grey_question: |
@@ -1280,7 +1281,6 @@
 | [Thiscampsitedoesnotexist](http://thiscampsitedoesnotexist.com?ref=aicollection) | यह कैम्पसाइट मौजूद नहीं है. | एआई ने स्थिर प्रसार का उपयोग करके एआई द्वारा बनाए गए आश्चर्यजनक स्थानों, टेंट और मौसम की विशेषता वाले शिविरों को उत्पन्न किया।. | :grey_question: |
 | [Thumbsnap](http://art.thumbsnap.com?ref=aicollection) | एआई कला जेनरेटर! स्थिर प्रसार द्वारा संचालित - Thumbsnap - निःशुल्क फोटो और वीडियो होस्टिंग. | ThumbSnap: फ्री फोटो और वीडियो शेयरिंग. | :white_check_mark: |
 | [Titan](http://www.compliancequarter.com.au?ref=aicollection) | विशेषज्ञ अनुपालन प्रणाली और संसाधन - अनुपालन तिमाही. | विनियामक अनुपालन प्रबंधन प्रणाली और ऊर्जा, वित्तीय सेवाओं और अन्य विनियमित उद्योगों के लिए विशेषज्ञता। हम विनियामक बोझ को आपके कंधों से हटाने के लिए विशेषज्ञ प्रणालियों और सेवाओं की पेशकश करते हैं।. | :grey_question: |
-| [Torto.ai](http://torto.ai?ref=aicollection) | स्टॉक मार्केट मेड सिंपल. | . | :grey_question: |
 | [Traq.ai](http://www.traq.ai?ref=aicollection) | . | . | :grey_question: |
 | [Tunes For Tales](http://tunesfortales.fun?ref=aicollection) | कहानियों के लिए धुन. | . | :grey_question: |
 | [TutorAI](http://www.tutorai.me?ref=aicollection) | कुछ भी सीखो. | . | :grey_question: |
