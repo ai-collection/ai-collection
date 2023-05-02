@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=846" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=850" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=39" />
@@ -77,12 +77,12 @@
 
 
 <div align="center">
-    <a href="https://smalltalk2.me?ref=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1847.webp" alt="SmallTalk" border="0"/>
+    <a href="https://jasper.ai?utm_source=partner&fpr=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1747.webp" alt="Jasper.ai" border="0"/>
     </a>
-    <h4>Помощник преподавателя на базе искусственного интеллекта для тестирования и улучшения навыков разговорной речи на английском языке</h4>
-    <p>С помощью SmallTalk учащиеся могут самостоятельно оценить свой уровень владения английским языком, подготовиться к собеседованию на английском языке или к экзамену IELTS, а также выполнить упражнения по устной речи, которые подготовят их к разговорам на рабочем месте, в академической среде или в повседневной жизни.</p>
-    <a href="https://smalltalk2.me?ref=aicollection" target="_blank"><b>Начать работу с SmallTalk</b></a>
+    <h4>Джаспер - Копирайтер с искусственным интеллектом - Генератор контента с искусственным интеллектом для команд</h4>
+    <p>Jasper — это генератор контента с искусственным интеллектом, который помогает вам и вашей команде преодолеть творческие препятствия и создавать удивительный оригинальный контент в 10 раз быстрее.</p>
+    <a href="https://jasper.ai?utm_source=partner&fpr=aicollection" target="_blank"><b>Начать работу с Jasper.ai</b></a>
     <br />
 </div>
 
@@ -227,6 +227,7 @@
 | [Genius by Diagram](https://www.genius.design/?ref=aicollection) | Genius — ваш помощник в разработке ИИ. | . | :grey_question: |
 | [Magician](http://magician.design?ref=aicollection) | Фокусник для Фигмы. | Волшебный инструмент дизайна для Figma на базе искусственного интеллекта. | :grey_question: |
 | [Piggy](https://piggy.to/magic?ref=aicollection) | Создатель мобильного контента. | Создавать потрясающий контент на телефоне стало проще простого. | :white_check_mark: |
+| [Stunning.so](https://stunning.so/?ref=aicollection) | Создавайте сайты с помощью ИИ. | Создавайте потрясающие веб-сайты за 30 секунд, включая копирование и даже изображения с помощью ИИ. | :white_check_mark: |
 | [Uizard](http://uizard.io?ref=aicollection) | Uizard — дизайн приложений, веб-сайтов и пользовательского интерфейса стал проще — на основе искусственного интеллекта. | . | :grey_question: |
 
 <!--End of Веб-дизайн 39-->
@@ -238,6 +239,7 @@
 | Имя | Заголовок | Описание | Предложить бесплатную версию |
 |---|---|---|:---:|
 | [AI Pokemon generator](http://nokemon.eloie.tech?ref=aicollection) | Сгенерируйте Fakemon с помощью ИИ. | . | :grey_question: |
+| [AI Story Generator](https://www.aistorygenerator.org?ref=aicollection) | Генератор ИИ-историй. | Бесплатный генератор историй с искусственным интеллектом, который пишет для вас креативные рассказы на любую тему. | :white_check_mark: |
 | [Ask RBG](http://ask-rbg.ai?ref=aicollection) | Что сказал бы РБГ (вероятно)?. | Эксперимент с искусственным интеллектом: попросите судью Рут Бейдер Гинзбург принять решение по любому вопросу, который пожелает ваше сердце. Первый AI Drop от AI21 Labs. | :white_check_mark: |
 | [Askmybook](http://askmybook.com?ref=aicollection) | Спросите мою книгу: предприниматель-минималист. | Это эксперимент по использованию ИИ, чтобы сделать содержание моей книги более доступным. Задайте вопрос, и ИИ ответит на него в режиме реального времени:. | :white_check_mark: |
 | [Blackink](http://blackink.ai?ref=aicollection) | Создайте свою уникальную флэш-татуировку за считанные секунды. | Хватит тратить месяцы на поиски следующей татуировки в Pinterest. Создавайте собственные уникальные татуировки за считанные секунды с помощью искусственного интеллекта BlackInk, предназначенного для создания дизайнов, похожих на татуировки, специально для вас. | :white_check_mark: |
@@ -378,6 +380,7 @@
 | [ArticleForge](https://www.articleforge.com/?ref=e99368) | Высококачественный генератор контента с искусственным интеллектом - Article Forge. | Используя продвинутый искусственный интеллект и глубокое обучение, Article Forge пишет совершенно уникальные, оптимизированные для SEO, высококачественные длинные статьи одним нажатием кнопки. | :white_check_mark: |
 | [Content brief generator](http://www.dashword.com?via=beth0) | Программное обеспечение для SEO-оптимизации контента - Dashword. | Dashword — это программное обеспечение №1 для оптимизации контента для SEO-команд. Создавайте релевантный контент для своих читателей и увеличивайте органический трафик. | :x: |
 | [Contentedge](http://www.contentedge.com?ref=aicollection) | Передовое программное обеспечение для создания контента с искусственным интеллектом и SEO-копирайтинга. | Избегайте творческого выгорания и создавайте высокорейтинговый контент всего за 15 секунд. | :white_check_mark: |
+| [CopyGen](https://copygen.pro/?ref=aicollection) | Помощник по написанию контента на базе искусственного интеллекта. | Ваш инструмент для письма с искусственным интеллектом для создания высококачественного, SEO-оптимизированного контента за считанные секунды без каких-либо затруднений при написании. | :x: |
 | [CopyMonkey](http://copymonkey.ai?via=beth0) | Ваш эксперт по оптимизации листинга Amazon на базе искусственного интеллекта. | CopyMonkey генерирует и оптимизирует списки Amazon за считанные секунды. ИИ помогает разместить все важные ключевые слова в вашем листинге на Amazon, чтобы вы органично ранжировались на первой странице. | :white_check_mark: |
 | [Creator AI](https://www.creaitor.ai/?ref=beth0) | Позвольте ИИ создать для вас. | Creator поможет вам писать контент более мощно и эмоционально выразительно. | :x: |
 | [Ctrify](http://www.ctrify.com?ref=aicollection) | Первая платформа действий SEO на базе искусственного интеллекта. | Создавайте веб-сайты, которые ранжируются в Google, просто задав одно ключевое слово нашему искусственному интеллекту. | :grey_question: |
@@ -434,6 +437,7 @@
 | [Replica](http://replicastudios.com?ref=aicollection) | Синтез голосового ИИ и преобразования текста в речь с естественным звучанием — реплика. | Попробуйте сегодня с 30 минутами бесплатного голосового кредита. | :white_check_mark: |
 | [Riffusion](http://www.riffusion.com?ref=aicollection) | диффузия. | Стабильная диффузия для создания музыки в реальном времени. | :white_check_mark: |
 | [Soundraw](http://soundraw.io) | Перестаньте искать нужную песню. Создать это. | Музыка без лицензионных отчислений, созданная искусственным интеллектом для вас. | :white_check_mark: |
+| [TuneFlow](https://tuneflow.com?ref=aicollection) | Инструмент нового поколения для создания музыки с набором сверхспособностей ИИ. | Помогает вам создавать мелодию, биты или даже целую песню, при этом имея возможность редактировать их, как и любую другую профессиональную DAW. | :white_check_mark: |
 
 <!--End of Генерация музыки и аудио 18-->
 

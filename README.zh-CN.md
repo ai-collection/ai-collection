@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=846" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=850" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=39" />
@@ -77,12 +77,12 @@
 
 
 <div align="center">
-    <a href="https://smalltalk2.me?ref=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1847.webp" alt="SmallTalk" border="0"/>
+    <a href="https://jasper.ai?utm_source=partner&fpr=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1747.webp" alt="Jasper.ai" border="0"/>
     </a>
-    <h4>测试和提高英语口语能力的人工智能助教</h4>
-    <p>通过 SmallTalk，学习者可以自我评估自己的英语水平，准备英语工作面试或雅思考试，并进行口语练习，为在工作场所、学术环境或日常生活中的对话做好准备</p>
-    <a href="https://smalltalk2.me?ref=aicollection" target="_blank"><b>开始使用 SmallTalk</b></a>
+    <h4>Jasper - AI Copywriter - 团队的 AI 内容生成器</h4>
+    <p>Jasper 是 AI 内容生成器，可帮助您和您的团队突破创意障碍，以 10 倍的速度创建令人惊叹的原创内容。</p>
+    <a href="https://jasper.ai?utm_source=partner&fpr=aicollection" target="_blank"><b>开始使用 Jasper.ai</b></a>
     <br />
 </div>
 
@@ -145,6 +145,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [AI Pokemon generator](http://nokemon.eloie.tech?ref=aicollection) | 使用 AI 生成 Fakemon. | . | :grey_question: |
+| [AI Story Generator](https://www.aistorygenerator.org?ref=aicollection) | 人工智能故事生成器. | 一个免费的 AI 故事生成器，可以为您编写任何主题的创意短篇故事. | :white_check_mark: |
 | [Ask RBG](http://ask-rbg.ai?ref=aicollection) | RBG（可能）会说什么？. | 一项 AI 实验：让大法官 Ruth Bader Ginsburg 就您心中想要的任何问题做出决定。 AI21 Labs 的第一个 AI Drop。. | :white_check_mark: |
 | [Askmybook](http://askmybook.com?ref=aicollection) | 问我的书：极简主义企业家. | 这是一项使用 AI 使我的书的内容更易于访问的实验。提出问题，AI 会实时回答：. | :white_check_mark: |
 | [Blackink](http://blackink.ai?ref=aicollection) | 在几秒钟内创建您自己独特的闪光纹身. | 停止花费数月时间在 Pinterest 上搜索你的下一个纹身。使用 BlackInk 的 AI 在几秒钟内生成定制的独特纹身，专为您打造类似纹身的设计. | :white_check_mark: |
@@ -245,6 +246,7 @@
 | [ArticleForge](https://www.articleforge.com/?ref=e99368) | 高质量的 AI 内容生成器 - Article Forge. | 使用先进的人工智能和深度学习，只需单击一个按钮，Article Forge 即可撰写出完全独特、经过 SEO 优化的高质量长篇文章。. | :white_check_mark: |
 | [Content brief generator](http://www.dashword.com?via=beth0) | SEO 内容优化软件 - Dashword. | Dashword 是 SEO 团队排名第一的内容优化软件。为您的读者创建相关内容并增加您的有机流量。. | :x: |
 | [Contentedge](http://www.contentedge.com?ref=aicollection) | 高级 AI 内容生成和 SEO 文案软件. | 跳过创意倦怠并在短短 15 秒内生成高排名内容. | :white_check_mark: |
+| [CopyGen](https://copygen.pro/?ref=aicollection) | 人工智能驱动的内容写作助手。. | 您的首选 AI 写作工具，可在几秒钟内创建高质量、经过 SEO 优化的内容，而不受作者阻碍. | :x: |
 | [CopyMonkey](http://copymonkey.ai?via=beth0) | 您的 AI 驱动的亚马逊列表优化专家. | CopyMonkey 在几秒钟内生成并优化亚马逊列表。 AI 帮助将所有重要的关键词放在您的亚马逊列表中，让您在首页上自然排名. | :white_check_mark: |
 | [Creator AI](https://www.creaitor.ai/?ref=beth0) | 让AI为你创造. | Creaitor 将帮助您以更强大、更能表达情感的方式编写内容. | :x: |
 | [Ctrify](http://www.ctrify.com?ref=aicollection) | 第一个 AI 驱动的 SEO 操作平台. | 只需为我们的人工智能提供一个关键字，即可创建在 Google 上排名的网站。. | :grey_question: |
@@ -757,6 +759,7 @@
 | [Genius by Diagram](https://www.genius.design/?ref=aicollection) | Genius - 你的 AI 设计伙伴. | . | :grey_question: |
 | [Magician](http://magician.design?ref=aicollection) | Figma 魔术师. | 由 AI 提供支持的 Figma 神奇设计工具。. | :grey_question: |
 | [Piggy](https://piggy.to/magic?ref=aicollection) | 移动内容创作者。. | 在您的手机上创建令人惊叹的内容变得简单. | :white_check_mark: |
+| [Stunning.so](https://stunning.so/?ref=aicollection) | 使用 AI 构建网站。. | 在 30 秒内构建令人惊叹的网站，包括由 AI 提供支持的副本甚至图像. | :white_check_mark: |
 | [Uizard](http://uizard.io?ref=aicollection) | Uizard - 应用程序、Web 和 UI 设计变得简单 - 由 AI 提供支持. | . | :grey_question: |
 
 <!--End of 网页设计 39-->
@@ -1014,6 +1017,7 @@
 | [Replica](http://replicastudios.com?ref=aicollection) | 合成语音 AI 和自然的文本到语音 - 副本. | 立即试用 30 分钟的免费话音。. | :white_check_mark: |
 | [Riffusion](http://www.riffusion.com?ref=aicollection) | 扩散. | 实时音乐生成的稳定扩散. | :white_check_mark: |
 | [Soundraw](http://soundraw.io) | 停止搜索您需要的歌曲。创造它。. | 免版税音乐，AI为你生成. | :white_check_mark: |
+| [TuneFlow](https://tuneflow.com?ref=aicollection) | 具有一套 AI 超能力的下一代音乐制作工具. | 帮助您生成旋律、节拍甚至整首歌曲，同时仍然能够像任何其他专业 DAW 一样编辑它们。. | :white_check_mark: |
 
 <!--End of 音乐和音频生成 18-->
 

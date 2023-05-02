@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=846" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=850" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=39" />
@@ -83,12 +83,12 @@ Translations:
 
 
 <div align="center">
-    <a href="https://smalltalk2.me?ref=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1847.webp" alt="SmallTalk" border="0"/>
+    <a href="https://jasper.ai?utm_source=partner&fpr=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1747.webp" alt="Jasper.ai" border="0"/>
     </a>
-    <h4>AI-powered Teaching Assistant for Testing and Improving English Speaking Skills</h4>
-    <p>With SmallTalk, learners can self-assess their English proficiency level, prepare for a job interview in English or the IELTS exam, and engage in speaking exercises that prepare them for conversations in the workplace, academic settings, or everyday life</p>
-    <a href="https://smalltalk2.me?ref=aicollection" target="_blank"><b>Get Started with SmallTalk</b></a>
+    <h4>Jasper - AI Copywriter - AI Content Generator for Teams</h4>
+    <p>Jasper is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.</p>
+    <a href="https://jasper.ai?utm_source=partner&fpr=aicollection" target="_blank"><b>Get Started with Jasper.ai</b></a>
     <br />
 </div>
 
@@ -389,6 +389,7 @@ Translations:
 | [ArticleForge](https://www.articleforge.com/?ref=e99368) | High Quality, AI Content Generator - Article Forge. | Using advanced artificial intelligence and deep learning, Article Forge writes completely unique, SEO optimized, high-quality, long form articles with the click of a button. | :white_check_mark: |
 | [Content brief generator](http://www.dashword.com?via=beth0) | Seo Content Optimization Software - Dashword. | Dashword is the #1 content optimization software for SEO teams. Create relevant content for your readers and grow your organic traffic. | :x: |
 | [Contentedge](http://www.contentedge.com?ref=aicollection) | Advanced AI Content Generation & Seo Copywriting Software. | Skip the creative burnout and generate high-ranking content in as little as 15 seconds. | :white_check_mark: |
+| [CopyGen](https://copygen.pro/?ref=aicollection) | AI-Powered Content Writing Assistant. | Your go-to AI writing tool for creating high-quality, SEO-optimized content in seconds, without writer's block. | :x: |
 | [CopyMonkey](http://copymonkey.ai?via=beth0) | Your AI-Powered Amazon Listing Optimization Expert. | CopyMonkey generates and optimizes Amazon listings in seconds. AI helps place all of the important keywords in your Amazon listing to get you ranking organically on the first page. | :white_check_mark: |
 | [Creator AI](https://www.creaitor.ai/?ref=beth0) | Let the AI Create for You. | Creaitor will help you write content in a more powerful, emotionally expressive way. | :x: |
 | [Ctrify](http://www.ctrify.com?ref=aicollection) | First AI-Powered Seo Action Platform. | Create websites that rank on Google by just giving one keyword to our Artificial Intelligence. | :grey_question: |
@@ -512,6 +513,7 @@ Translations:
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Pokemon generator](http://nokemon.eloie.tech?ref=aicollection) | Generate Fakemon Using AI. | . | :grey_question: |
+| [AI Story Generator](https://www.aistorygenerator.org?ref=aicollection) | AI Story Generator. | A free AI story generator that writes creative short stories for you on any topic. | :white_check_mark: |
 | [Ask RBG](http://ask-rbg.ai?ref=aicollection) | What Would RBG (Probably) Say?. | An AI experiment: Ask Justice Ruth Bader Ginsburg to make a decision about any question your heart desires. The first AI Drop from AI21 Labs. | :white_check_mark: |
 | [Askmybook](http://askmybook.com?ref=aicollection) | Ask My Book: The Minimalist Entrepreneur. | This is an experiment in using AI to make my book's content more accessible. Ask a question and AI'll answer it in real-time:. | :white_check_mark: |
 | [Blackink](http://blackink.ai?ref=aicollection) | Create Your Own Unique Flash Tattoo in Seconds. | Stop spending months searching Pinterest for your next tattoo. Generate custom, unique tattoos in seconds with BlackInk's AI, designed to create tattoo-like designs just for you. | :white_check_mark: |
@@ -646,6 +648,7 @@ Translations:
 | [Replica](http://replicastudios.com?ref=aicollection) | Synthesize Voice AI and Natural Sounding Text-to-Speech — Replica. | Try today with 30 minutes of free voice credit. | :white_check_mark: |
 | [Riffusion](http://www.riffusion.com?ref=aicollection) | Riffusion. | Stable diffusion for real-time music generation. | :white_check_mark: |
 | [Soundraw](http://soundraw.io) | Stop Searching for the Song You Need. Create It. | Royalty-free music, AI generated for you. | :white_check_mark: |
+| [TuneFlow](https://tuneflow.com?ref=aicollection) | Next-Gen Music-Making Tool With a Suite of AI Superpowers. | Helps you generate melody, beats, or even a whole song while still being able to edit them like any other professional DAW. | :white_check_mark: |
 
 <!--End of Music & Audio Generation 18-->
 
@@ -990,6 +993,7 @@ Translations:
 | [Genius by Diagram](https://www.genius.design/?ref=aicollection) | Genius - Your AI Design Companion. | . | :grey_question: |
 | [Magician](http://magician.design?ref=aicollection) | Magician for Figma. | A magical design tool for Figma powered by AI. | :grey_question: |
 | [Piggy](https://piggy.to/magic?ref=aicollection) | Mobile Content Creator. | Creating stunning content on your phone just got easy. | :white_check_mark: |
+| [Stunning.so](https://stunning.so/?ref=aicollection) | Build Websites With AI. | Build stunning websites in 30 seconds including copy & even images powered by AI. | :white_check_mark: |
 | [Uizard](http://uizard.io?ref=aicollection) | Uizard - App, Web, & Ui Design Made Easy - Powered by AI. | . | :grey_question: |
 
 <!--End of Web Design 39-->

@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=846" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=850" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=39" />
@@ -77,12 +77,12 @@
 
 
 <div align="center">
-    <a href="https://smalltalk2.me?ref=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1847.webp" alt="SmallTalk" border="0"/>
+    <a href="https://jasper.ai?utm_source=partner&fpr=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1747.webp" alt="Jasper.ai" border="0"/>
     </a>
-    <h4>अंग्रेजी बोलने के कौशल के परीक्षण और सुधार के लिए एआई-संचालित शिक्षण सहायक</h4>
-    <p>स्मॉलटॉक के साथ, शिक्षार्थी अपने अंग्रेजी दक्षता स्तर का स्व-मूल्यांकन कर सकते हैं, अंग्रेजी या आईईएलटीएस परीक्षा में नौकरी के लिए इंटरव्यू की तैयारी कर सकते हैं, और बोलने के अभ्यास में संलग्न हो सकते हैं जो उन्हें कार्यस्थल, शैक्षणिक सेटिंग्स या रोजमर्रा की जिंदगी में बातचीत के लिए तैयार करते हैं।</p>
-    <a href="https://smalltalk2.me?ref=aicollection" target="_blank"><b>SmallTalk के साथ आरंभ करें</b></a>
+    <h4>जैस्पर - एआई कॉपीराइटर - टीमों के लिए एआई कंटेंट जेनरेटर</h4>
+    <p>जैस्पर एआई कंटेंट जेनरेटर है जो आपको और आपकी टीम को 10 गुना तेजी से अद्भुत, मूल सामग्री बनाने के लिए रचनात्मक अवरोधों को तोड़ने में मदद करता है।</p>
+    <a href="https://jasper.ai?utm_source=partner&fpr=aicollection" target="_blank"><b>Jasper.ai के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -228,6 +228,7 @@
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
 | [AI Pokemon generator](http://nokemon.eloie.tech?ref=aicollection) | AI का उपयोग करके Fakemon उत्पन्न करें. | . | :grey_question: |
+| [AI Story Generator](https://www.aistorygenerator.org?ref=aicollection) | एआई स्टोरी जेनरेटर. | एक निःशुल्क एआई कहानी जनरेटर जो किसी भी विषय पर आपके लिए रचनात्मक लघु कथाएँ लिखता है. | :white_check_mark: |
 | [Ask RBG](http://ask-rbg.ai?ref=aicollection) | आरबीजी (शायद) क्या कहेंगे?. | एक एआई प्रयोग: न्यायमूर्ति रूथ बेडर गिन्सबर्ग से किसी भी ऐसे प्रश्न के बारे में निर्णय लेने के लिए कहें, जिसे आप दिल से चाहते हैं। AI21 लैब्स से पहली AI ड्रॉप।. | :white_check_mark: |
 | [Askmybook](http://askmybook.com?ref=aicollection) | आस्क माय बुक: द मिनिमलिस्ट एंटरप्रेन्योर. | यह मेरी पुस्तक की सामग्री को और अधिक सुलभ बनाने के लिए AI का उपयोग करने का एक प्रयोग है। एक प्रश्न पूछें और AI वास्तविक समय में इसका उत्तर देगा:. | :white_check_mark: |
 | [Blackink](http://blackink.ai?ref=aicollection) | सेकेंड में अपना खुद का अनोखा फ्लैश टैटू बनाएं. | अपने अगले टैटू के लिए Pinterest को खोजने में महीनों खर्च करना बंद करें। BlackInk के AI के साथ सेकंड में कस्टम, अद्वितीय टैटू बनाएं, जिसे केवल आपके लिए टैटू जैसी डिज़ाइन बनाने के लिए डिज़ाइन किया गया है. | :white_check_mark: |
@@ -847,6 +848,7 @@
 | [Genius by Diagram](https://www.genius.design/?ref=aicollection) | प्रतिभा - आपका एआई डिजाइन साथी. | . | :grey_question: |
 | [Magician](http://magician.design?ref=aicollection) | Figma के लिए जादूगर. | AI द्वारा संचालित Figma के लिए एक जादुई डिज़ाइन टूल।. | :grey_question: |
 | [Piggy](https://piggy.to/magic?ref=aicollection) | मोबाइल सामग्री निर्माता।. | अपने फोन पर शानदार सामग्री बनाना अब आसान हो गया है. | :white_check_mark: |
+| [Stunning.so](https://stunning.so/?ref=aicollection) | एआई के साथ वेबसाइट बनाएं।. | एआई द्वारा संचालित कॉपी और यहां तक कि छवियों सहित 30 सेकंड में शानदार वेबसाइट बनाएं. | :white_check_mark: |
 | [Uizard](http://uizard.io?ref=aicollection) | यूज़ार्ड - ऐप, वेब, और यूआई डिज़ाइन मेड ईज़ी - एआई द्वारा संचालित. | . | :grey_question: |
 
 <!--End of वेब डिजाइन 39-->
@@ -906,6 +908,7 @@
 | [Replica](http://replicastudios.com?ref=aicollection) | सिंथेसाइज़ वॉयस एआई और नेचुरल साउंडिंग टेक्स्ट-टू-स्पीच - रेप्लिका. | 30 मिनट के निःशुल्क वॉयस क्रेडिट के साथ आज ही प्रयास करें।. | :white_check_mark: |
 | [Riffusion](http://www.riffusion.com?ref=aicollection) | रिफ्यूजन. | रीयल-टाइम संगीत निर्माण के लिए स्थिर प्रसार. | :white_check_mark: |
 | [Soundraw](http://soundraw.io) | आपको जो गाना चाहिए उसे खोजना बंद करें। इसे बनाओ।. | रॉयल्टी-मुक्त संगीत, AI आपके लिए जनरेट किया गया है. | :white_check_mark: |
+| [TuneFlow](https://tuneflow.com?ref=aicollection) | एआई महाशक्तियों के एक सूट के साथ नेक्स्ट-जेन म्यूजिक-मेकिंग टूल. | किसी भी अन्य पेशेवर डीएडब्ल्यू की तरह उन्हें संपादित करने में सक्षम होने के दौरान भी आपको मेलोडी, बीट्स या यहां तक कि एक पूरे गीत को उत्पन्न करने में मदद मिलती है।. | :white_check_mark: |
 
 <!--End of संगीत और ऑडियो पीढ़ी 18-->
 
@@ -932,6 +935,7 @@
 | [ArticleForge](https://www.articleforge.com/?ref=e99368) | उच्च गुणवत्ता, एआई कंटेंट जेनरेटर - आर्टिकल फोर्ज. | उन्नत आर्टिफिशियल इंटेलिजेंस और डीप लर्निंग का उपयोग करते हुए, आर्टिकल फोर्ज एक बटन के क्लिक के साथ पूरी तरह से अद्वितीय, एसईओ अनुकूलित, उच्च-गुणवत्ता, लंबे फॉर्म वाले लेख लिखता है।. | :white_check_mark: |
 | [Content brief generator](http://www.dashword.com?via=beth0) | एसईओ सामग्री अनुकूलन सॉफ्टवेयर - डैशवर्ड. | SEO टीमों के लिए Dashword #1 सामग्री अनुकूलन सॉफ़्टवेयर है। अपने पाठकों के लिए प्रासंगिक सामग्री बनाएँ और अपना जैविक ट्रैफ़िक बढ़ाएँ।. | :x: |
 | [Contentedge](http://www.contentedge.com?ref=aicollection) | उन्नत एआई कंटेंट जनरेशन और एसईओ कॉपी राइटिंग सॉफ्टवेयर. | क्रिएटिव बर्नआउट को छोड़ें और कम से कम 15 सेकंड में उच्च रैंकिंग वाली सामग्री तैयार करें. | :white_check_mark: |
+| [CopyGen](https://copygen.pro/?ref=aicollection) | एआई-पावर्ड कंटेंट राइटिंग असिस्टेंट।. | लेखक के अवरोध के बिना सेकंड में उच्च-गुणवत्ता, एसईओ-अनुकूलित सामग्री बनाने के लिए आपका जाने-माने एआई लेखन उपकरण. | :x: |
 | [CopyMonkey](http://copymonkey.ai?via=beth0) | आपका एआई-संचालित अमेज़ॅन लिस्टिंग अनुकूलन विशेषज्ञ. | CopyMonkey सेकंडों में Amazon लिस्टिंग को जनरेट और ऑप्टिमाइज़ करता है। एआई आपको पहले पृष्ठ पर व्यवस्थित रूप से रैंकिंग दिलाने के लिए आपके अमेज़ॅन लिस्टिंग में सभी महत्वपूर्ण कीवर्ड रखने में मदद करता है. | :white_check_mark: |
 | [Creator AI](https://www.creaitor.ai/?ref=beth0) | एआई को आपके लिए बनाने दें. | रचनाकार आपको अधिक शक्तिशाली, भावनात्मक रूप से अभिव्यंजक तरीके से सामग्री लिखने में मदद करेगा. | :x: |
 | [Ctrify](http://www.ctrify.com?ref=aicollection) | पहला एआई-पावर्ड एसईओ एक्शन प्लेटफॉर्म. | हमारे आर्टिफिशियल इंटेलिजेंस को सिर्फ एक कीवर्ड देकर ऐसी वेबसाइटें बनाएं जो Google पर रैंक करें।. | :grey_question: |
