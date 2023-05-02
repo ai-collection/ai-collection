@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=850" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=849" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=39" />
@@ -299,6 +299,9 @@
 | Nombre | Título | Descripción | Ofrecer versión gratuita |
 |---|---|---|:---:|
 | [FlowCog](https://flowcog.com?ref=aicollection) | Proyecciones financieras SaaS rápidas y fáciles ⚡. | Desbloquee la pista de efectivo y las perspectivas de crecimiento, ¡sin hojas de cálculo! Incorporación de 7 minutos. Listo para QuickBooks y Stripe. Con la confianza de juntas e inversores. | :white_check_mark: |
+| [StockGPT](https://www.askstockgpt.com/?ref=aicollection) | Motor de búsqueda impulsado por IA. | StockGPT es un motor de búsqueda impulsado por inteligencia artificial que se entrenó en todas las transcripciones de llamadas de ganancias trimestrales de Tesla que datan del segundo trimestre de 2011. | :white_check_mark: |
+| [Stocknews AI](http://stocknewsai.com?ref=aicollection) | Stocknews AI - Noticias de acciones seleccionadas por AI. | . | :white_check_mark: |
+| [Torto.ai](http://torto.ai?ref=aicollection) | Mercado de valores simplificado. | . | :white_check_mark: |
 
 <!--End of Cuentas y finanzas 37-->
 
@@ -699,7 +702,6 @@
 | [OpenArt Photo Booth](http://openart.ai?ref=aicollection) | Descubre y genera arte con IA - Openart. | Busque más de 10 millones de indicaciones y genere AI Art a través de Stable Diffusion, DALL·E 2. | :white_check_mark: |
 | [Perplexity AI](http://www.perplexity.ai?ref=aicollection) | Perplexity AI es un motor de respuesta que brinda respuestas precisas a preguntas complejas utilizando modelos de lenguaje grandes. | Ask funciona con grandes modelos de lenguaje y motores de búsqueda. La precisión está limitada por los resultados de búsqueda y las capacidades de IA. | :white_check_mark: |
 | [Smarty Names](http://smartynames.com?ref=aicollection) | Búsqueda creativa gratuita de nombres de dominio por AI Robots. | Encontrar un dominio creativo y único que aún esté disponible es fácil con SmartyNames.com: díganos lo que hace y nuestros robots encontrarán el dominio adecuado para usted. Generador de nombre de empresa en un clic. | :white_check_mark: |
-| [StockGPT](https://www.askstockgpt.com/?ref=aicollection) | Motor de búsqueda impulsado por IA. | StockGPT es un motor de búsqueda impulsado por inteligencia artificial que se entrenó en todas las transcripciones de llamadas de ganancias trimestrales de Tesla que datan del segundo trimestre de 2011. | :white_check_mark: |
 | [You](http://you.com?ref=aicollection) | El motor de búsqueda de IA que controlas. | . | :white_check_mark: |
 
 <!--End of Los motores de búsqueda 30-->
@@ -1251,7 +1253,6 @@
 | [Splash](http://www.splashmusic.com?ref=aicollection) | Splash - Brindando la alegría de hacer música a todos. | . | :grey_question: |
 | [Stabledojo](http://www.stabledojo.com?ref=aicollection) | establedojo. | . | :grey_question: |
 | [Steve AI](http://www.steve.ai?ref=aicollection) | Steve.Ai: la forma más rápida del mundo de crear videos. | Con nuestra tecnología AI patentada, puede hacer videos profesionales en MINUTOS. Vea cómo ocurre la MAGIA cuando la IA selecciona los activos de medios creativos correctos para su video. | :grey_question: |
-| [Stocknews AI](http://stocknewsai.com?ref=aicollection) | Stocknews AI - Noticias de acciones seleccionadas por AI. | . | :grey_question: |
 | [StoriesbyAI](http://storiesby.ai?ref=aicollection) | Historias de IA - Substack. | . | :grey_question: |
 | [Storya](http://www.storya.app?ref=aicollection) | Storya - Publicación con IA para todos. | . | :grey_question: |
 | [Studio Design](http://studio.design?ref=aicollection) | Studio, una herramienta de diseño aumentada por IA. | . | :grey_question: |
@@ -1280,7 +1281,6 @@
 | [Thiscampsitedoesnotexist](http://thiscampsitedoesnotexist.com?ref=aicollection) | Este camping no existe. | Campings generados por IA con impresionantes ubicaciones, tiendas de campaña y clima, todo creado por IA mediante difusión estable. | :grey_question: |
 | [Thumbsnap](http://art.thumbsnap.com?ref=aicollection) | ¡Generador de arte con IA! Desarrollado por Stable Diffusion - Thumbsnap - Alojamiento gratuito de fotos y videos. | ThumbSnap: compartir fotos y videos gratis. | :white_check_mark: |
 | [Titan](http://www.compliancequarter.com.au?ref=aicollection) | Sistemas y recursos expertos en cumplimiento - Trimestre de cumplimiento. | Sistema de gestión de cumplimiento normativo y experiencia para energía, servicios financieros y otras industrias reguladas. Ofrecemos sistemas y servicios expertos para quitarle de encima la carga normativa. | :grey_question: |
-| [Torto.ai](http://torto.ai?ref=aicollection) | Mercado de valores simplificado. | . | :grey_question: |
 | [Traq.ai](http://www.traq.ai?ref=aicollection) | . | . | :grey_question: |
 | [Tunes For Tales](http://tunesfortales.fun?ref=aicollection) | Melodías para cuentos. | . | :grey_question: |
 | [TutorAI](http://www.tutorai.me?ref=aicollection) | Aprende cualquier cosa. | . | :grey_question: |

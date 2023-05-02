@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=850" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=849" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=39" />
@@ -151,6 +151,9 @@ Translations:
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [FlowCog](https://flowcog.com?ref=aicollection) | SaaS Financial Projections Quick & Easy ⚡. | Unlock cash runway & growth insights — no spreadsheets! 7 minute onboarding. QuickBooks & Stripe ready. Trusted by boards & investors. | :white_check_mark: |
+| [StockGPT](https://www.askstockgpt.com/?ref=aicollection) | AI-Powered Search Engine. | StockGPT is an AI-powered search engine that was trained on all of Teslas quarterly earnings call transcripts dating back to Q2 2011. | :white_check_mark: |
+| [Stocknews AI](http://stocknewsai.com?ref=aicollection) | Stocknews AI - AI Picked Stock News. | . | :white_check_mark: |
+| [Torto.ai](http://torto.ai?ref=aicollection) | Stock Market Made Simple. | . | :white_check_mark: |
 
 <!--End of Accounting & Finance 37-->
 
@@ -779,7 +782,6 @@ Translations:
 | [OpenArt Photo Booth](http://openart.ai?ref=aicollection) | Discover and Generate AI Art - Openart. | Search 10M+ prompts, and generate AI Art via Stable Diffusion, DALL·E 2. | :white_check_mark: |
 | [Perplexity AI](http://www.perplexity.ai?ref=aicollection) | Perplexity AI Is an Answer Engine That Delivers Accurate Answers to Complex Questions Using Large Language Models. | Ask is powered by large language models and search engines. Accuracy is limited by search results and AI capabilities. | :white_check_mark: |
 | [Smarty Names](http://smartynames.com?ref=aicollection) | Free Creative Domain Name Search by AI Robots. | Finding a creative and unique domain that is still available is easy with SmartyNames.com - Tell us what you do, and our robots will find the domain that is just right for you. Company name generator in one click. | :white_check_mark: |
-| [StockGPT](https://www.askstockgpt.com/?ref=aicollection) | AI-Powered Search Engine. | StockGPT is an AI-powered search engine that was trained on all of Teslas quarterly earnings call transcripts dating back to Q2 2011. | :white_check_mark: |
 | [You](http://you.com?ref=aicollection) | The AI Search Engine You Control. | . | :white_check_mark: |
 
 <!--End of Search Engines 30-->
@@ -1257,7 +1259,6 @@ Translations:
 | [Splash](http://www.splashmusic.com?ref=aicollection) | Splash - Bringing the Joy of Music Making to Everyone. | . | :grey_question: |
 | [Stabledojo](http://www.stabledojo.com?ref=aicollection) | Stabledojo. | . | :grey_question: |
 | [Steve AI](http://www.steve.ai?ref=aicollection) | Steve.Ai - Worlds Fastest Way to Create Videos. | With our patented AI technology, you can make professional videos in MINUTES. See the MAGIC happen as the AI picks the right creative media assets for your Video. | :grey_question: |
-| [Stocknews AI](http://stocknewsai.com?ref=aicollection) | Stocknews AI - AI Picked Stock News. | . | :grey_question: |
 | [StoriesbyAI](http://storiesby.ai?ref=aicollection) | Stories by AI - Substack. | . | :grey_question: |
 | [Storya](http://www.storya.app?ref=aicollection) | Storya - AI Publishing for Everyone. | . | :grey_question: |
 | [Studio Design](http://studio.design?ref=aicollection) | Studio, an AI-Augmented Design Tool. | . | :grey_question: |
@@ -1286,7 +1287,6 @@ Translations:
 | [Thiscampsitedoesnotexist](http://thiscampsitedoesnotexist.com?ref=aicollection) | This Campsite Does Not Exist. | AI generated campsites featuring stunning locations, tents, and weather all created by AI using stable diffusion. | :grey_question: |
 | [Thumbsnap](http://art.thumbsnap.com?ref=aicollection) | AI Art Generator! Powered by Stable Diffusion - Thumbsnap - Free Photo & Video Hosting. | ThumbSnap: Free Photo and Video Sharing. | :white_check_mark: |
 | [Titan](http://www.compliancequarter.com.au?ref=aicollection) | Expert Compliance Systems and Resources - Compliance Quarter. | Regulatory compliance management system and expertise for energy, financial services and other regulated industries. We offer expert systems and services to take regulatory burden off your shoulders. | :grey_question: |
-| [Torto.ai](http://torto.ai?ref=aicollection) | Stock Market Made Simple. | . | :grey_question: |
 | [Traq.ai](http://www.traq.ai?ref=aicollection) | . | . | :grey_question: |
 | [Tunes For Tales](http://tunesfortales.fun?ref=aicollection) | Tunes for Tales. | . | :grey_question: |
 | [TutorAI](http://www.tutorai.me?ref=aicollection) | Learn Anything. | . | :grey_question: |

@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=850" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=849" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=39" />
@@ -213,6 +213,9 @@
 | Имя | Заголовок | Описание | Предложить бесплатную версию |
 |---|---|---|:---:|
 | [FlowCog](https://flowcog.com?ref=aicollection) | Финансовые прогнозы SaaS быстро и легко ⚡. | Разблокируйте денежный поток и информацию о росте — никаких электронных таблиц! 7-минутная регистрация. QuickBooks и Stripe готовы. Нам доверяют советы директоров и инвесторы. | :white_check_mark: |
+| [StockGPT](https://www.askstockgpt.com/?ref=aicollection) | поисковая система с искусственным интеллектом. | StockGPT — это поисковая система на базе искусственного интеллекта, которая была обучена на всех расшифровках ежеквартальных отчетов о доходах Tesla, начиная со второго квартала 2011 года. | :white_check_mark: |
+| [Stocknews AI](http://stocknewsai.com?ref=aicollection) | Stocknews AI - ИИ выбрал биржевые новости. | . | :white_check_mark: |
+| [Torto.ai](http://torto.ai?ref=aicollection) | Фондовый рынок стал проще. | . | :white_check_mark: |
 
 <!--End of Бухгалтерский учет и финансы 37-->
 
@@ -664,7 +667,6 @@
 | [OpenArt Photo Booth](http://openart.ai?ref=aicollection) | Откройте для себя и создайте AI Art - OpenArt. | Ищите более 10 миллионов подсказок и создавайте AI Art с помощью Stable Diffusion, DALL·E 2. | :white_check_mark: |
 | [Perplexity AI](http://www.perplexity.ai?ref=aicollection) | Perplexity AI — это механизм ответов, который дает точные ответы на сложные вопросы, используя большие языковые модели. | Ask использует большие языковые модели и поисковые системы. Точность ограничена результатами поиска и возможностями ИИ. | :white_check_mark: |
 | [Smarty Names](http://smartynames.com?ref=aicollection) | Бесплатный креативный поиск доменных имен от AI Robots. | Найти творческий и уникальный домен, который все еще доступен, с SmartyNames.com легко. Расскажите нам, что вы делаете, и наши роботы найдут домен, который подходит именно вам. Генератор названий компаний в один клик. | :white_check_mark: |
-| [StockGPT](https://www.askstockgpt.com/?ref=aicollection) | поисковая система с искусственным интеллектом. | StockGPT — это поисковая система на базе искусственного интеллекта, которая была обучена на всех расшифровках ежеквартальных отчетов о доходах Tesla, начиная со второго квартала 2011 года. | :white_check_mark: |
 | [You](http://you.com?ref=aicollection) | Поисковая система с искусственным интеллектом, которой вы управляете. | . | :white_check_mark: |
 
 <!--End of Поисковые системы 30-->
@@ -1251,7 +1253,6 @@
 | [Splash](http://www.splashmusic.com?ref=aicollection) | Splash — дарим всем радость от создания музыки. | . | :grey_question: |
 | [Stabledojo](http://www.stabledojo.com?ref=aicollection) | СтейблДодзё. | . | :grey_question: |
 | [Steve AI](http://www.steve.ai?ref=aicollection) | Steve.ai — самый быстрый в мире способ создания видео. | Благодаря нашей запатентованной технологии искусственного интеллекта вы можете создавать профессиональные видеоролики за МИНУТЫ. Посмотрите, как происходит ВОЛШЕБСТВО, когда ИИ выбирает правильные креативные медиаресурсы для вашего видео. | :grey_question: |
-| [Stocknews AI](http://stocknewsai.com?ref=aicollection) | Stocknews AI - ИИ выбрал биржевые новости. | . | :grey_question: |
 | [StoriesbyAI](http://storiesby.ai?ref=aicollection) | Истории от AI — Substack. | . | :grey_question: |
 | [Storya](http://www.storya.app?ref=aicollection) | Storya — AI-публикация для всех. | . | :grey_question: |
 | [Studio Design](http://studio.design?ref=aicollection) | STUDIO, инструмент дизайна с искусственным интеллектом. | . | :grey_question: |
@@ -1280,7 +1281,6 @@
 | [Thiscampsitedoesnotexist](http://thiscampsitedoesnotexist.com?ref=aicollection) | Этот кемпинг не существует. | Кемпинги, созданные ИИ, с потрясающими локациями, палатками и погодой, созданные ИИ с использованием стабильной диффузии. | :grey_question: |
 | [Thumbsnap](http://art.thumbsnap.com?ref=aicollection) | Генератор ИИ-арта! Работает на Stable Diffusion - ThumbSnap - Бесплатный фото и видео хостинг. | ThumbSnap: бесплатный обмен фото и видео. | :white_check_mark: |
 | [Titan](http://www.compliancequarter.com.au?ref=aicollection) | Экспертные системы и ресурсы комплаенса - Compliance Quarter. | Система управления соблюдением нормативных требований и экспертиза для энергетики, финансовых услуг и других регулируемых отраслей. Мы предлагаем экспертные системы и услуги, которые снимут с вас бремя регулирования. | :grey_question: |
-| [Torto.ai](http://torto.ai?ref=aicollection) | Фондовый рынок стал проще. | . | :grey_question: |
 | [Traq.ai](http://www.traq.ai?ref=aicollection) | . | . | :grey_question: |
 | [Tunes For Tales](http://tunesfortales.fun?ref=aicollection) | Мелодии для сказок. | . | :grey_question: |
 | [TutorAI](http://www.tutorai.me?ref=aicollection) | Узнайте что-нибудь. | . | :grey_question: |
