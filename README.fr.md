@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=846" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=850" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=39" />
@@ -77,12 +77,12 @@
 
 
 <div align="center">
-    <a href="https://smalltalk2.me?ref=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1847.webp" alt="SmallTalk" border="0"/>
+    <a href="https://jasper.ai?utm_source=partner&fpr=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1747.webp" alt="Jasper.ai" border="0"/>
     </a>
-    <h4>Assistant d'enseignement alimenté par l'IA pour tester et améliorer les compétences en anglais</h4>
-    <p>Avec SmallTalk, les apprenants peuvent auto-évaluer leur niveau de maîtrise de l'anglais, se préparer à un entretien d'embauche en anglais ou à l'examen IELTS, et participer à des exercices d'expression orale qui les préparent à des conversations sur le lieu de travail, dans un cadre universitaire ou dans la vie quotidienne.</p>
-    <a href="https://smalltalk2.me?ref=aicollection" target="_blank"><b>Démarrer avec SmallTalk</b></a>
+    <h4>Jasper - Rédacteur IA - Générateur de contenu IA pour les équipes</h4>
+    <p>Jasper est le générateur de contenu IA qui vous aide, vous et votre équipe, à briser les blocages créatifs pour créer un contenu original et étonnant 10 fois plus rapidement.</p>
+    <a href="https://jasper.ai?utm_source=partner&fpr=aicollection" target="_blank"><b>Démarrer avec Jasper.ai</b></a>
     <br />
 </div>
 
@@ -145,6 +145,7 @@
 | Nom | Titre | Description | Offrir une version gratuite |
 |---|---|---|:---:|
 | [AI Pokemon generator](http://nokemon.eloie.tech?ref=aicollection) | Générer Fakemon en utilisant l'IA. | . | :grey_question: |
+| [AI Story Generator](https://www.aistorygenerator.org?ref=aicollection) | Générateur d'histoires IA. | Un générateur d'histoires AI gratuit qui écrit pour vous des histoires courtes créatives sur n'importe quel sujet. | :white_check_mark: |
 | [Ask RBG](http://ask-rbg.ai?ref=aicollection) | Que dirait (probablement) RBG ?. | Une expérience d'IA : demandez à la juge Ruth Bader Ginsburg de prendre une décision sur toute question que votre cœur désire. Le premier AI Drop d'AI21 Labs. | :white_check_mark: |
 | [Askmybook](http://askmybook.com?ref=aicollection) | Demandez mon livre : l'entrepreneur minimaliste. | Il s'agit d'une expérience d'utilisation de l'IA pour rendre le contenu de mon livre plus accessible. Posez une question et l'IA y répondra en temps réel :. | :white_check_mark: |
 | [Blackink](http://blackink.ai?ref=aicollection) | Créez votre propre tatouage flash unique en quelques secondes. | Arrêtez de passer des mois à chercher votre prochain tatouage sur Pinterest. Générez des tatouages personnalisés et uniques en quelques secondes avec l'IA de BlackInk, conçu pour créer des motifs de type tatouage juste pour vous. | :white_check_mark: |
@@ -397,6 +398,7 @@
 | [Genius by Diagram](https://www.genius.design/?ref=aicollection) | Genius - Votre compagnon de conception IA. | . | :grey_question: |
 | [Magician](http://magician.design?ref=aicollection) | Magicien pour Figma. | Un outil de conception magique pour Figma alimenté par l'IA. | :grey_question: |
 | [Piggy](https://piggy.to/magic?ref=aicollection) | Créateur de contenu mobile. | Créer du contenu époustouflant sur votre téléphone est devenu facile. | :white_check_mark: |
+| [Stunning.so](https://stunning.so/?ref=aicollection) | Créez des sites Web avec l'IA. | Créez de superbes sites Web en 30 secondes, y compris des copies et même des images alimentées par l'IA. | :white_check_mark: |
 | [Uizard](http://uizard.io?ref=aicollection) | Uizard - Conception d'applications, de sites Web et d'interfaces utilisateur simplifiée - Propulsé par l'IA. | . | :grey_question: |
 
 <!--End of Création de sites web 39-->
@@ -552,6 +554,7 @@
 | [ArticleForge](https://www.articleforge.com/?ref=e99368) | Générateur de contenu IA de haute qualité - Article Forge. | En utilisant l'intelligence artificielle avancée et l'apprentissage en profondeur, Article Forge écrit des articles longs de haute qualité, optimisés pour le référencement et entièrement uniques en un clic. | :white_check_mark: |
 | [Content brief generator](http://www.dashword.com?via=beth0) | Logiciel d'optimisation de contenu SEO - Dashword. | Dashword est le logiciel d'optimisation de contenu n°1 pour les équipes SEO. Créez du contenu pertinent pour vos lecteurs et augmentez votre trafic organique. | :x: |
 | [Contentedge](http://www.contentedge.com?ref=aicollection) | Logiciel avancé de génération de contenu IA et de rédaction SEO. | Évitez l'épuisement créatif et générez du contenu de haut niveau en seulement 15 secondes. | :white_check_mark: |
+| [CopyGen](https://copygen.pro/?ref=aicollection) | Assistant de rédaction de contenu alimenté par l'IA. | Votre outil d'écriture IA incontournable pour créer du contenu de haute qualité optimisé pour le référencement en quelques secondes, sans blocage de l'écrivain. | :x: |
 | [CopyMonkey](http://copymonkey.ai?via=beth0) | Votre expert en optimisation des listes Amazon alimenté par l'IA. | CopyMonkey génère et optimise les listes Amazon en quelques secondes. L'IA aide à placer tous les mots-clés importants dans votre liste Amazon pour vous classer de manière organique sur la première page. | :white_check_mark: |
 | [Creator AI](https://www.creaitor.ai/?ref=beth0) | Laissez l'IA créer pour vous. | Creaitor vous aidera à écrire du contenu d'une manière plus puissante et émotionnellement expressive. | :x: |
 | [Ctrify](http://www.ctrify.com?ref=aicollection) | Première plateforme d'action SEO alimentée par l'IA. | Créez des sites Web qui se classent sur Google en donnant simplement un mot-clé à notre Intelligence Artificielle. | :grey_question: |
@@ -690,6 +693,7 @@
 | [Replica](http://replicastudios.com?ref=aicollection) | Synthétiser l'IA vocale et la synthèse vocale au son naturel - Réplique. | Essayez dès aujourd'hui avec 30 minutes de crédit vocal gratuit. | :white_check_mark: |
 | [Riffusion](http://www.riffusion.com?ref=aicollection) | diffusion. | Diffusion stable pour la génération de musique en temps réel. | :white_check_mark: |
 | [Soundraw](http://soundraw.io) | Arrêtez de chercher la chanson dont vous avez besoin. Créez-le. | Musique libre de droits, générée par l'IA pour vous. | :white_check_mark: |
+| [TuneFlow](https://tuneflow.com?ref=aicollection) | Outil de création musicale de nouvelle génération avec une suite de superpouvoirs de l'IA. | Vous aide à générer une mélodie, des rythmes ou même une chanson entière tout en étant capable de les éditer comme n'importe quel autre DAW professionnel. | :white_check_mark: |
 
 <!--End of Musique et génération audio 18-->
 
