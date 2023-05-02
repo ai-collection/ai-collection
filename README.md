@@ -4,7 +4,7 @@
 <div align="center">
 
 </div>
-<a target="_blank" href="https://twitter.com/intent/tweet?url=https://github.com/ai-collection/ai-collection&text=Checkout this AI Collection of Awesome Generative AI Applications!&hashtags=aicollection"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Share&style=social&url=https%3A%2F%2Ftwitter.com"></a> <a class="twitter-follow-button" href="https://twitter.com/ai_collection_" data-size="large"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ai_collection_?style=social"></a>
+<a target="_blank" href="https://twitter.com/intent/tweet?url=https://github.com/ai-collection/ai-collection&text=Checkout this AI Collection of Awesome Generative AI Application! @ai_collection_&hashtags=aicollection"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Share&style=social&url=https%3A%2F%2Ftwitter.com"></a> <a class="twitter-follow-button" href="https://twitter.com/ai_collection_" data-size="large"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ai_collection_?style=social"></a>
 
 ---
 
@@ -839,7 +839,6 @@ Translations:
 ## Text
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [AI Story Generator](https://www.aistorygenerator.org?ref=aicollection) | AI Story Generator | A free AI story generator that writes creative short stories for you on any topic | :white_check_mark: |
 | [Bookclub](http://www.bookclub.ai?ref=aicollection) | Bookclub.Ai - Meet Your Next Book. | . | :grey_question: |
 | [ChatGPT Writer](http://chatgptwriter.ai?ref=aicollection) | . | . | :grey_question: |
 | [Childbook](http://www.childbook.ai?ref=aicollection) | Welcome to Children'S Book Creator!. | Your book will be personalized with characters, pictures and story. The story and illustrations also have a text-to-speech feature and can be listened to. | :grey_question: |
