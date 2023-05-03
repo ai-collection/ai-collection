@@ -51,6 +51,19 @@
 </div>
 
 <div align="center">
+    <a href="https://eightify.app/?ref=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1830.webp" alt="Eightify" border="0"/>
+    </a>
+    <h4>Сводки YouTube на базе ChatGPT</h4>
+    <p>⚡️ Получайте мгновенные сводки видео на YouTube с помощью искусственного интеллекта, экономьте время и переводите на 28 языков.</p>
+    <a href="https://eightify.app/?ref=aicollection" target="_blank"><b>Начать работу с Eightify</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1825.webp" alt="CodiumAI" border="0"/>
     </a>
@@ -70,19 +83,6 @@
     <h4>Хватит тратить время на создание тестов вручную</h4>
     <p>Мгновенно создавайте и делитесь вопросами викторины, карточками и заметками из любого текста. Идеально подходит для бизнеса, преподавателей и студентов.</p>
     <a href="https://quizgecko.com/?via=aicollection" target="_blank"><b>Начать работу с Quizgecko</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://jasper.ai?utm_source=partner&fpr=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1747.webp" alt="Jasper.ai" border="0"/>
-    </a>
-    <h4>Джаспер - Копирайтер с искусственным интеллектом - Генератор контента с искусственным интеллектом для команд</h4>
-    <p>Jasper — это генератор контента с искусственным интеллектом, который помогает вам и вашей команде преодолеть творческие препятствия и создавать удивительный оригинальный контент в 10 раз быстрее.</p>
-    <a href="https://jasper.ai?utm_source=partner&fpr=aicollection" target="_blank"><b>Начать работу с Jasper.ai</b></a>
     <br />
 </div>
 
@@ -1004,7 +1004,7 @@
 | [Boolpic](http://boolv.tech?ref=aicollection) | Интеллектуальная видеоплатформа, расширяющая возможности брендов. | Создавайте видео о брендах в 10 раз быстрее с помощью ИИ, чтобы повысить эффективность маркетинга. | :grey_question: |
 | [D-ID's Creative Reality Studio](https://www.d-id.com/?ref=aicollection) | Перспективный генеративный ИИ. | Создавайте персонализированные видеоролики с говорящими аватарами одним нажатием кнопки, предоставляя компаниям и создателям супервозможности. | :white_check_mark: |
 | [Deepfakesweb](http://deepfakesweb.com?ref=aicollection) | Создавайте собственные дипфейки [онлайн-приложение]. | Наше простое в использовании приложение для дипфейков использует искусственный интеллект и глубокое обучение для создания потрясающих видео со сменой лица. Сделайте свое собственное дипфейковое видео уже сегодня. | :grey_question: |
-| [Eightify](https://eightify.app/?ref=aicollection) | Получите 8 ключевых идей из видео на YouTube. | ⚡️ Получайте мгновенные сводки видео на YouTube с помощью искусственного интеллекта, экономьте время и переводите на 28 языков. | :white_check_mark: |
+| [Eightify](https://eightify.app/?ref=aicollection) | Сводки YouTube на базе ChatGPT. | ⚡️ Получайте мгновенные сводки видео на YouTube с помощью искусственного интеллекта, экономьте время и переводите на 28 языков. | :white_check_mark: |
 | [Elai](http://elai.io?ref=aicollection) | Создавайте AI-видео только из текста. | Создавайте индивидуальные видеоролики с искусственным интеллектом с ведущим за считанные минуты, не используя камеру, студию и зеленый экран. | :white_check_mark: |
 | [FilmForge](http://filmforge.uwu.ai?ref=aicollection) | FilmForge AI. | Мгновенно создавайте привлекательные видеоролики. Подписи, озвучка, стенограмма и графика включены. | :grey_question: |
 | [Fliki](http://fliki.ai?via=beth0) | Превратите текст в видео с помощью голосов AI. | Создавайте видео из сценариев или сообщений в блогах, используя реалистичные голоса, за 2 минуты!. | :white_check_mark: |

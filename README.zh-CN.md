@@ -51,6 +51,19 @@
 </div>
 
 <div align="center">
+    <a href="https://eightify.app/?ref=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1830.webp" alt="Eightify" border="0"/>
+    </a>
+    <h4>由 ChatGPT 提供支持的 YouTube 摘要</h4>
+    <p>⚡️ 获取 YouTube 视频的即时 AI 摘要，节省时间，翻译成 28 种语言</p>
+    <a href="https://eightify.app/?ref=aicollection" target="_blank"><b>开始使用 Eightify</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1825.webp" alt="CodiumAI" border="0"/>
     </a>
@@ -70,19 +83,6 @@
     <h4>停止浪费时间手动创建测验</h4>
     <p>从任何文本即时创建和共享测验问题、抽认卡和笔记。非常适合企业、教育工作者和学生。</p>
     <a href="https://quizgecko.com/?via=aicollection" target="_blank"><b>开始使用 Quizgecko</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://jasper.ai?utm_source=partner&fpr=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1747.webp" alt="Jasper.ai" border="0"/>
-    </a>
-    <h4>Jasper - AI Copywriter - 团队的 AI 内容生成器</h4>
-    <p>Jasper 是 AI 内容生成器，可帮助您和您的团队突破创意障碍，以 10 倍的速度创建令人惊叹的原创内容。</p>
-    <a href="https://jasper.ai?utm_source=partner&fpr=aicollection" target="_blank"><b>开始使用 Jasper.ai</b></a>
     <br />
 </div>
 
@@ -922,7 +922,7 @@
 | [Boolpic](http://boolv.tech?ref=aicollection) | 为品牌赋能的智能视频平台. | 使用 AI 以 10 倍的速度生成品牌视频以提高营销绩效. | :grey_question: |
 | [D-ID's Creative Reality Studio](https://www.d-id.com/?ref=aicollection) | 面向未来的生成人工智能. | 只需按一下按钮即可制作带有会说话的头像的定制视频，为企业和创作者提供超能力。. | :white_check_mark: |
 | [Deepfakesweb](http://deepfakesweb.com?ref=aicollection) | 制作你自己的 Deepfakes [在线应用程序]. | 我们易于使用的 deepfake 应用程序使用 AI 和深度学习来生成令人惊叹的换脸视频。立即制作您自己的 Deepfake 视频。. | :grey_question: |
-| [Eightify](https://eightify.app/?ref=aicollection) | 从 YouTube 视频中获取 8 个关键想法. | ⚡️ 获取 YouTube 视频的即时 AI 摘要，节省时间，翻译成 28 种语言. | :white_check_mark: |
+| [Eightify](https://eightify.app/?ref=aicollection) | 由 ChatGPT 提供支持的 YouTube 摘要. | ⚡️ 获取 YouTube 视频的即时 AI 摘要，节省时间，翻译成 28 种语言. | :white_check_mark: |
 | [Elai](http://elai.io?ref=aicollection) | 仅从文本创建 AI 视频。. | 无需使用相机、工作室和绿幕，即可在几分钟内与演示者一起制作定制的 AI 视频。. | :white_check_mark: |
 | [FilmForge](http://filmforge.uwu.ai?ref=aicollection) | FilmForge人工智能. | 立即生成引人入胜的视频。包括字幕、画外音、文字记录和图形。. | :grey_question: |
 | [Fliki](http://fliki.ai?via=beth0) | 将文本变成带有 AI 语音的视频. | 在 2 分钟内使用逼真的声音从脚本或博客文章创建视频！. | :white_check_mark: |

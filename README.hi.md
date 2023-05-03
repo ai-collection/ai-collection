@@ -51,6 +51,19 @@
 </div>
 
 <div align="center">
+    <a href="https://eightify.app/?ref=aicollection" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1830.webp" alt="Eightify" border="0"/>
+    </a>
+    <h4>ChatGPT द्वारा संचालित YouTube सारांश</h4>
+    <p>⚡️ YouTube वीडियो के लिए तत्काल AI-संचालित सारांश प्राप्त करें, समय बचाएं, 28 भाषाओं में अनुवाद करें</p>
+    <a href="https://eightify.app/?ref=aicollection" target="_blank"><b>Eightify के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank" style="outline:none;border:none;">
         <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1825.webp" alt="CodiumAI" border="0"/>
     </a>
@@ -70,19 +83,6 @@
     <h4>मैन्युअल रूप से क्विज़ बनाने में समय बर्बाद करना बंद करें</h4>
     <p>किसी भी पाठ से प्रश्नोत्तरी प्रश्न, फ्लैशकार्ड और नोट्स तुरंत बनाएं और साझा करें। व्यवसायों, शिक्षकों और छात्रों के लिए समान रूप से आदर्श।</p>
     <a href="https://quizgecko.com/?via=aicollection" target="_blank"><b>Quizgecko के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://jasper.ai?utm_source=partner&fpr=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1747.webp" alt="Jasper.ai" border="0"/>
-    </a>
-    <h4>जैस्पर - एआई कॉपीराइटर - टीमों के लिए एआई कंटेंट जेनरेटर</h4>
-    <p>जैस्पर एआई कंटेंट जेनरेटर है जो आपको और आपकी टीम को 10 गुना तेजी से अद्भुत, मूल सामग्री बनाने के लिए रचनात्मक अवरोधों को तोड़ने में मदद करता है।</p>
-    <a href="https://jasper.ai?utm_source=partner&fpr=aicollection" target="_blank"><b>Jasper.ai के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -820,7 +820,7 @@
 | [Boolpic](http://boolv.tech?ref=aicollection) | एक इंटेलिजेंट वीडियो प्लेटफॉर्म जो ब्रांड्स को सशक्त बनाता है. | मार्केटिंग प्रदर्शन को बढ़ावा देने के लिए एआई के साथ 10 गुना तेजी से ऑन-ब्रांड वीडियो बनाएं. | :grey_question: |
 | [D-ID's Creative Reality Studio](https://www.d-id.com/?ref=aicollection) | फ्यूचर-फेसिंग जनरेशन एआई. | एक बटन के स्पर्श में बोलने वाले अवतारों की विशेषता वाले अनुकूलित वीडियो बनाएं, व्यवसायों और रचनाकारों को महाशक्तियां प्रदान करें।. | :white_check_mark: |
 | [Deepfakesweb](http://deepfakesweb.com?ref=aicollection) | अपना खुद का डीपफेक बनाएं. | हमारे उपयोग में आसान डीपफेक ऐप अद्भुत फेस स्वैप वीडियो बनाने के लिए एआई और डीप लर्निंग का उपयोग करता है। आज ही अपना डीपफेक वीडियो बनाएं।. | :grey_question: |
-| [Eightify](https://eightify.app/?ref=aicollection) | YouTube वीडियो से 8 प्रमुख विचार प्राप्त करें. | ⚡️ YouTube वीडियो के लिए तत्काल AI-संचालित सारांश प्राप्त करें, समय बचाएं, 28 भाषाओं में अनुवाद करें. | :white_check_mark: |
+| [Eightify](https://eightify.app/?ref=aicollection) | ChatGPT द्वारा संचालित YouTube सारांश. | ⚡️ YouTube वीडियो के लिए तत्काल AI-संचालित सारांश प्राप्त करें, समय बचाएं, 28 भाषाओं में अनुवाद करें. | :white_check_mark: |
 | [Elai](http://elai.io?ref=aicollection) | सिर्फ टेक्स्ट से एआई वीडियो बनाएं।. | कैमरा, स्टूडियो और ग्रीन स्क्रीन का उपयोग किए बिना मिनटों में प्रस्तुतकर्ता के साथ अनुकूलित AI वीडियो बनाएं।. | :white_check_mark: |
 | [FilmForge](http://filmforge.uwu.ai?ref=aicollection) | फिल्मफोर्ज एआई. | तुरंत आकर्षक वीडियो बनाएं। कैप्शन, वॉयसओवर, ट्रांसक्रिप्ट और ग्राफिक्स शामिल हैं।. | :grey_question: |
 | [Fliki](http://fliki.ai?via=beth0) | एआई वॉयस के साथ टेक्स्ट को वीडियो में बदलें. | 2 मिनट में यथार्थवादी आवाजों का उपयोग करके स्क्रिप्ट या ब्लॉग पोस्ट से वीडियो बनाएं!. | :white_check_mark: |
