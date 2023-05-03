@@ -57,12 +57,12 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://eightify.app/?ref=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1830.webp" alt="Eightify" border="0"/>
+    <a href="https://tinyurl.com/ai-8fy" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/eightify_banner.png" alt="Eightify" border="0"/>
     </a>
-    <h4>YouTube summaries powered by ChatGPT</h4>
-    <p>⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages</p>
-    <a href="https://eightify.app/?ref=aicollection" target="_blank"><b>Get Started with Eightify</b></a>
+    <h4>Eightify — Extract key insights from YouTube videos</h4>
+    <p>🏃‍♂️ Keep up with the rapid pace of AI & GPT, don't miss out! <br /> 🎙 Watch all those podcasts you added to backlog <br /> ⚡️ 10 seconds to get key insights and summary</p>
+    <a href="https://tinyurl.com/ai-8fy" target="_blank"><b>Get Started with Eightify</b></a>
     <br />
 </div>
 
@@ -964,7 +964,7 @@ Translations:
 | [Boolpic](http://boolv.tech?ref=aicollection) | An Intelligent Video Platform That Empowers Brands. | Generate on-brand videos 10X faster with AI to boost marketing performance. | :grey_question: |
 | [D-ID's Creative Reality Studio](https://www.d-id.com/?ref=aicollection) | Future-Facing Generative AI. | Produce customized videos featuring talking avatars at a touch of a button, giving businesses and creators superpowers. | :white_check_mark: |
 | [Deepfakesweb](http://deepfakesweb.com?ref=aicollection) | Make Your Own Deepfakes. | Our easy to use deepfake app uses AI and Deep Learning to generate amazing face swap videos. Make your own deepfake video today. | :grey_question: |
-| [Eightify](https://eightify.app/?ref=aicollection) | YouTube summaries powered by ChatGPT. | ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages. | :white_check_mark: |
+| [Eightify](https://tinyurl.com/ai-8fy) | Eightify — Extract key insights from YouTube videos. | ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages. | :white_check_mark: |
 | [Elai](http://elai.io?ref=aicollection) | Create AI Videos From Just Text. | Build customized AI videos with a presenter in minutes without using a camera, studio and a greenscreen. | :white_check_mark: |
 | [FilmForge](http://filmforge.uwu.ai?ref=aicollection) | Filmforge AI. | Instantly generate engaging videos. Captions, voiceover, transcript, and graphics included. | :grey_question: |
 | [Fliki](http://fliki.ai?via=beth0) | Turn Text Into Videos With AI Voices. | Create videos from scripts or blog posts using realistic voices in 2 minutes!. | :white_check_mark: |
