@@ -51,12 +51,12 @@
 </div>
 
 <div align="center">
-    <a href="https://eightify.app/?ref=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1830.webp" alt="Eightify" border="0"/>
+    <a href="https://tinyurl.com/ai-8fy" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/eightify_banner.png" alt="Eightify" border="0"/>
     </a>
-    <h4>Resúmenes de YouTube impulsados por ChatGPT</h4>
-    <p>⚡️ Obtenga resúmenes instantáneos con tecnología de inteligencia artificial para videos de YouTube, ahorre tiempo, traduzca en 28 idiomas</p>
-    <a href="https://eightify.app/?ref=aicollection" target="_blank"><b>Comience con Eightify</b></a>
+    <h4>Eightify — Extraiga información clave de los videos de YouTube</h4>
+    <p>🏃‍♂️ ¡Sigue el ritmo rápido de AI y GPT, no te lo pierdas! <br /> 🎙 Mira todos esos podcasts que agregaste a la cartera de pedidos <br /> ⚡️ 10 segundos para obtener información clave y un resumen</p>
+    <a href="https://tinyurl.com/ai-8fy" target="_blank"><b>Comience con Eightify</b></a>
     <br />
 </div>
 
@@ -965,7 +965,7 @@
 | [Boolpic](http://boolv.tech?ref=aicollection) | Una plataforma de video inteligente que empodera a las marcas. | Genere videos sobre la marca 10 veces más rápido con IA para aumentar el rendimiento de marketing. | :grey_question: |
 | [D-ID's Creative Reality Studio](https://www.d-id.com/?ref=aicollection) | IA generativa orientada al futuro. | Produzca videos personalizados con avatares parlantes con solo tocar un botón, otorgando superpoderes a empresas y creadores. | :white_check_mark: |
 | [Deepfakesweb](http://deepfakesweb.com?ref=aicollection) | Haz tus propios deepfakes. | Nuestra aplicación deepfake fácil de usar utiliza inteligencia artificial y aprendizaje profundo para generar increíbles videos de intercambio de rostros. Haz tu propio video deepfake hoy. | :grey_question: |
-| [Eightify](https://eightify.app/?ref=aicollection) | Resúmenes de YouTube impulsados por ChatGPT. | ⚡️ Obtenga resúmenes instantáneos con tecnología de inteligencia artificial para videos de YouTube, ahorre tiempo, traduzca en 28 idiomas. | :white_check_mark: |
+| [Eightify](https://tinyurl.com/ai-8fy) | Eightify — Extraiga información clave de los videos de YouTube. | ⚡️ Obtenga resúmenes instantáneos con tecnología de inteligencia artificial para videos de YouTube, ahorre tiempo, traduzca en 28 idiomas. | :white_check_mark: |
 | [Elai](http://elai.io?ref=aicollection) | Cree videos de IA a partir de solo texto. | Cree videos de IA personalizados con un presentador en minutos sin usar una cámara, un estudio y una pantalla verde. | :white_check_mark: |
 | [FilmForge](http://filmforge.uwu.ai?ref=aicollection) | Forja de película IA. | Genere instantáneamente videos atractivos. Subtítulos, voz en off, transcripción y gráficos incluidos. | :grey_question: |
 | [Fliki](http://fliki.ai?via=beth0) | Convierte texto en videos con voces de IA. | ¡Cree videos a partir de guiones o publicaciones de blog usando voces realistas en 2 minutos!. | :white_check_mark: |
