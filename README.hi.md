@@ -851,7 +851,7 @@
 | [Magician](http://magician.design?ref=aicollection) | Figma के लिए जादूगर. | AI द्वारा संचालित Figma के लिए एक जादुई डिज़ाइन टूल।. | :grey_question: |
 | [Piggy](https://piggy.to/magic?ref=aicollection) | मोबाइल सामग्री निर्माता।. | अपने फोन पर शानदार सामग्री बनाना अब आसान हो गया है. | :white_check_mark: |
 | [Stunning.so](https://stunning.so/?ref=aicollection) | एआई के साथ वेबसाइट बनाएं।. | एआई द्वारा संचालित कॉपी और यहां तक कि छवियों सहित 30 सेकंड में शानदार वेबसाइट बनाएं. | :white_check_mark: |
-| [Uizard](http://uizard.io?ref=aicollection) | यूज़ार्ड - ऐप, वेब, और यूआई डिज़ाइन मेड ईज़ी - एआई द्वारा संचालित. | . | :grey_question: |
+| [Uizard](https://get.uizard.io/SH7) | यूज़ार्ड - ऐप, वेब, और यूआई डिज़ाइन मेड ईज़ी - एआई द्वारा संचालित. | मिनटों में शानदार वेबसाइट, वेब ऐप, मोबाइल ऐप, इंटरफेस, वायरफ्रेम, प्रोटोटाइप, मॉकअप डिज़ाइन करें। अपने विचारों को सहजता से देखें और संप्रेषित करें। कोई डिज़ाइन अनुभव आवश्यक नहीं है!. | :white_check_mark: |
 
 <!--End of वेब डिजाइन 39-->
 

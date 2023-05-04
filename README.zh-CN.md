@@ -762,7 +762,7 @@
 | [Magician](http://magician.design?ref=aicollection) | Figma 魔术师. | 由 AI 提供支持的 Figma 神奇设计工具。. | :grey_question: |
 | [Piggy](https://piggy.to/magic?ref=aicollection) | 移动内容创作者。. | 在您的手机上创建令人惊叹的内容变得简单. | :white_check_mark: |
 | [Stunning.so](https://stunning.so/?ref=aicollection) | 使用 AI 构建网站。. | 在 30 秒内构建令人惊叹的网站，包括由 AI 提供支持的副本甚至图像. | :white_check_mark: |
-| [Uizard](http://uizard.io?ref=aicollection) | Uizard - 应用程序、Web 和 UI 设计变得简单 - 由 AI 提供支持. | . | :grey_question: |
+| [Uizard](https://get.uizard.io/SH7) | Uizard - 应用程序、Web 和 UI 设计变得简单 - 由 AI 提供支持. | 在几分钟内设计出令人惊叹的网站、网络应用程序、移动应用程序、界面、线框、原型、模型。 毫不费力地可视化和传达您的想法。 无需设计经验！. | :white_check_mark: |
 
 <!--End of 网页设计 39-->
 
