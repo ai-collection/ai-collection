@@ -402,7 +402,7 @@
 | [Magician](http://magician.design?ref=aicollection) | Magicien pour Figma. | Un outil de conception magique pour Figma alimenté par l'IA. | :grey_question: |
 | [Piggy](https://piggy.to/magic?ref=aicollection) | Créateur de contenu mobile. | Créer du contenu époustouflant sur votre téléphone est devenu facile. | :white_check_mark: |
 | [Stunning.so](https://stunning.so/?ref=aicollection) | Créez des sites Web avec l'IA. | Créez de superbes sites Web en 30 secondes, y compris des copies et même des images alimentées par l'IA. | :white_check_mark: |
-| [Uizard](http://uizard.io?ref=aicollection) | Uizard - Conception d'applications, de sites Web et d'interfaces utilisateur simplifiée - Propulsé par l'IA. | . | :grey_question: |
+| [Uizard](https://get.uizard.io/SH7) | Uizard - Conception d'applications, de sites Web et d'interfaces utilisateur simplifiée - Propulsé par l'IA. | Concevez de superbes sites Web, applications Web, applications mobiles, interfaces, structures filaires, prototypes, maquettes en quelques minutes. Visualisez et communiquez vos idées sans effort. Aucune expérience en conception requise !. | :white_check_mark: |
 
 <!--End of Création de sites web 39-->
 
