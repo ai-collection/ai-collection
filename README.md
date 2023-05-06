@@ -1322,7 +1322,7 @@ Translations:
 
 # HitPaw
 
-<div style="display: grid; grid-template-columns: repeat(1,minmax(0,1fr)); row-gap: 2.5rem; @media (min-width: 768px) .md\:grid-cols-2 {grid-template-columns: repeat(2,minmax(0,1fr));} @media (min-width: 1280px) .xl\:grid-cols-3 {grid-template-columns: repeat(3,minmax(0,1fr)); } " >
+<div style="display: flex; justify-content: space-around;" >
     <div style="position: relative; width:300px; border-radius: 0.375rem; --tw-shadow: 0 10px 15px -3px rgb(0 0 0 / .1), 0 4px 6px -4px rgb(0 0 0 / .1); --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color), 0 4px 6px -4px var(--tw-shadow-color); box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),var(--tw-ring-shadow, 0 0 #0000),var(--tw-shadow);">
         <img src="https://cdn.ai-collection.org/webp_small_screenshot_1857.webp" alt=HitPaw Online Photo Enhancer style="width:300px">
         <div style="padding: 2px 16px;">
