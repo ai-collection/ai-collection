@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=849" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=852" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=39" />
@@ -70,19 +70,6 @@
     <h4>CodiumAI - Generación de pruebas significativas para desarrolladores ocupados</h4>
     <p>Con CodiumAI, obtiene pruebas no triviales (¡y también triviales!) Sugeridas dentro de su IDE, para que pueda codificar de manera inteligente, crear más valor y mantenerse seguro cuando empuja. Código, como lo dices en serio.</p>
     <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank"><b>Comience con CodiumAI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://quizgecko.com/?via=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1851.webp" alt="Quizgecko" border="0"/>
-    </a>
-    <h4>Deje de perder el tiempo creando cuestionarios manualmente</h4>
-    <p>Cree y comparta preguntas de prueba, tarjetas didácticas y notas al instante, desde cualquier texto. Ideal para empresas, educadores y estudiantes por igual.</p>
-    <a href="https://quizgecko.com/?via=aicollection" target="_blank"><b>Comience con Quizgecko</b></a>
     <br />
 </div>
 
@@ -396,6 +383,7 @@
 | [Colorize](http://colorize.cc?ref=aicollection) | Colorear fotos en línea. | . | :grey_question: |
 | [ExtendImage](http://www.extendimage.ai?ref=aicollection) | Extendimageai: amplíe sus imágenes con IA generativa. | ExtendImageAI es una herramienta que te permite ampliar tus imágenes con IA generativa. | :grey_question: |
 | [Hama](http://www.hama.app?ref=aicollection) | hama. | Impresionante borrador de fotos. | :grey_question: |
+| [HitPaw Online Photo Enhancer](https://online.hitpaw.com/online-photo-enhancer.html?ref=aicollection) | Desenfoca las imágenes y di adiós a las fotos de baja calidad. | HitPaw Online AI Photo Enhancer utiliza tecnología avanzada de IA para eliminar el ruido, afinar los detalles y mejorar la calidad de las fotos. | :white_check_mark: |
 | [Imgupscaler](http://imgupscaler.com?ref=aicollection) | Mejora inteligente de imágenes PNG/JPG. | Mejore y mejore su imagen utilizando la última tecnología de IA. | :grey_question: |
 | [Magic Eraser](http://magicstudio.com?ref=aicollection) | Magic Studio: impulsado por Ai, creado por usted. | Magic Studio lo ayuda a editar y crear imágenes automáticamente, usando IA. | :grey_question: |
 | [Palette](http://palette.fm?ref=aicollection) | Paleta - Colorear Fotos. | Un nuevo colorizador de IA. Colorea cualquier cosa, desde viejas fotos en blanco y negro ð¸, diseña tus obras de arte ð¨ o dale a las imágenes modernas un aspecto fresco ð¶. es tan simple como instagram. | :white_check_mark: |
@@ -459,6 +447,7 @@
 | [Lek](http://lek.ai?ref=aicollection) | Lek.Ai: el kit de herramientas de creación de contenido definitivo con tecnología de IA. | Escribe cualquier cosa por todo. La forma más rápida y sencilla de crear contenido y copiar. | :white_check_mark: |
 | [Lex](http://lex.page?ref=aicollection) | Desbloquea tu mejor escritura. | . | :grey_question: |
 | [LongShot AI](http://www.longshot.ai?deal=beth0) | Cree contenido que los humanos y los motores de búsqueda adoren usando inteligencia artificial. | LongShot es un asistente de escritura de IA que lo ayuda a pasar de la idea al contenido de SEO en minutos. ¡Use el poder creativo de la IA con características como contenido en tiempo real, verificación de hechos, SEO semántico, IA personalizada y más!. | :x: |
+| [Netus.ai](https://netus.ai/?ref=aicollection) | Derivación, parafraseado y detector impulsados por IA. | NetusAI es una poderosa tecnología impulsada por IA diseñada para ayudar a los creadores de contenido a generar contenido único y de alta calidad hasta 10 veces más rápido que los métodos tradicionales. | :white_check_mark: |
 | [Neuraltext](https://neuraltext.com?via=beth0) | Neuraltext - AI Writer y Seo Platform. | Automatice sus operaciones de contenido. La plataforma todo en uno de marketing de contenidos y SEO que le ahorra tiempo y dinero. | :x: |
 | [Quattr](https://www.quattr.com/?ref=aicollection) | Quattr es tu sede de crecimiento. | La plataforma de SEO empresarial creada con potentes datos de IA y GSC como base. | :x: |
 | [Summari](http://www.summari.com?ref=aicollection) | Mejore la experiencia de lectura en su sitio. | Actualice los enlaces a vistas previas breves e informativas utilizando nuestra tecnología de resumen de inteligencia artificial de clase mundial. | :grey_question: |
@@ -970,6 +959,7 @@
 | [FilmForge](http://filmforge.uwu.ai?ref=aicollection) | Forja de película IA. | Genere instantáneamente videos atractivos. Subtítulos, voz en off, transcripción y gráficos incluidos. | :grey_question: |
 | [Fliki](http://fliki.ai?via=beth0) | Convierte texto en videos con voces de IA. | ¡Cree videos a partir de guiones o publicaciones de blog usando voces realistas en 2 minutos!. | :white_check_mark: |
 | [Gling](http://www.gling.ai?ref=aicollection) | Creador, recupera tu tiempo. | Nuestra IA eliminará los silencios y las malas tomas por ti para que puedas concentrarte en tus videos de YouTube. | :grey_question: |
+| [HitPaw Online Video Enhancer](https://online.hitpaw.com/online-video-enhancer.html?ref=aicollection) | Un clic para desenfocar y mejorar su video por IA entrenada. | HitPaw Online Video Enhancer es la mejor solución para videos de baja resolución, aumente la solución de video hasta 1080P/4K sin esfuerzo. | :x: |
 | [Move](https://www.move.ai/?ref=aicollection) | Mover IA. | Capture datos de movimiento de alta calidad de video en cualquier entorno utilizando teléfonos móviles. | :grey_question: |
 | [Pictory](http://pictory.ai?ref=milana31) | Creación de video fácil. | Cree automáticamente videos de marca cortos y altamente compartibles a partir de su contenido de formato largo. | :grey_question: |
 | [Simplified](http://simplified.com?ref=aicollection) | Simplificado: una aplicación todo en uno fácil de usar para equipos de marketing modernos. | Diseñe, escriba, edite videos y publique contenido. Construido para equipos. | :grey_question: |

@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=849" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=852" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=39" />
@@ -70,19 +70,6 @@
     <h4>CodiumAI - 为忙碌的开发人员生成有意义的测试</h4>
     <p>借助 CodiumAI，您可以在 IDE 中获得非常重要的测试（而且也很重要！）建议，因此您可以智能编码，创造更多价值，并在推动时保持自信。 代码，正如你的意思。</p>
     <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank"><b>开始使用 CodiumAI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://quizgecko.com/?via=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1851.webp" alt="Quizgecko" border="0"/>
-    </a>
-    <h4>停止浪费时间手动创建测验</h4>
-    <p>从任何文本即时创建和共享测验问题、抽认卡和笔记。非常适合企业、教育工作者和学生。</p>
-    <a href="https://quizgecko.com/?via=aicollection" target="_blank"><b>开始使用 Quizgecko</b></a>
     <br />
 </div>
 
@@ -267,6 +254,7 @@
 | [Lek](http://lek.ai?ref=aicollection) | Lek.ai - 由 AI 提供支持的终极内容创建者工具包. | 为一切写任何东西。创建内容和复制的最快和最简单的方法. | :white_check_mark: |
 | [Lex](http://lex.page?ref=aicollection) | 解锁你最好的写作. | . | :grey_question: |
 | [LongShot AI](http://www.longshot.ai?deal=beth0) | 使用人工智能创建人类和搜索引擎喜欢的内容. | LongShot 是一款 AI 写作助手，可帮助您在几分钟内将创意转化为 SEO 内容。借助实时内容、事实核查、语义 SEO、自定义 AI 等功能，利用 AI 的创造力！. | :x: |
+| [Netus.ai](https://netus.ai/?ref=aicollection) | AI 驱动的旁路器、释义器和检测器. | NetusAI 是一项强大的人工智能驱动技术，旨在帮助内容创作者生成独特、高质量的内容，速度比传统方法快 10 倍. | :white_check_mark: |
 | [Neuraltext](https://neuraltext.com?via=beth0) | Neuraltext - AI 作家和 SEO 平台。. | 自动化您的内容操作。多合一的内容营销和 SEO 平台，可为您节省时间和金钱. | :x: |
 | [Quattr](https://www.quattr.com/?ref=aicollection) | Quattr 是您的增长总部. | 以强大的AI和GSC数据为基础打造的企业SEO平台. | :x: |
 | [Summari](http://www.summari.com?ref=aicollection) | 改善您网站上的阅读体验. | 使用我们世界一流的 AI 摘要技术将链接升级为简短、信息丰富的预览。. | :grey_question: |
@@ -636,6 +624,7 @@
 | [Colorize](http://colorize.cc?ref=aicollection) | 在线给照片上色. | . | :grey_question: |
 | [ExtendImage](http://www.extendimage.ai?ref=aicollection) | ExtendImageAI - 使用生成式 AI 扩展您的图像. | ExtendImageAI 是一种工具，可让您使用生成式 AI 扩展图像。. | :grey_question: |
 | [Hama](http://www.hama.app?ref=aicollection) | 哈马. | 惊人的照片橡皮擦. | :grey_question: |
+| [HitPaw Online Photo Enhancer](https://online.hitpaw.com/online-photo-enhancer.html?ref=aicollection) | 取消模糊图像并告别低质量照片。. | HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化细节并提高照片质量. | :white_check_mark: |
 | [Imgupscaler](http://imgupscaler.com?ref=aicollection) | 智能 PNG / JPG 图像升级器. | 使用最新的 AI 技术提升和增强您的形象. | :grey_question: |
 | [Magic Eraser](http://magicstudio.com?ref=aicollection) | Magic Studio - 由人工智能驱动，由你创造. | Magic Studio 使用 AI 帮助您自动编辑和创建图像. | :grey_question: |
 | [Palette](http://palette.fm?ref=aicollection) | 调色板 - 给照片上色. | 一种新的 AI 着色器。为旧黑白照片中的任何内容着色 ð¸，为您的作品设计风格 ð¨，或为现代图像赋予全新的外观 ð¶。就像 instagram 一样简单. | :white_check_mark: |
@@ -927,6 +916,7 @@
 | [FilmForge](http://filmforge.uwu.ai?ref=aicollection) | FilmForge人工智能. | 立即生成引人入胜的视频。包括字幕、画外音、文字记录和图形。. | :grey_question: |
 | [Fliki](http://fliki.ai?via=beth0) | 将文本变成带有 AI 语音的视频. | 在 2 分钟内使用逼真的声音从脚本或博客文章创建视频！. | :white_check_mark: |
 | [Gling](http://www.gling.ai?ref=aicollection) | 创作者，让你的时间回来. | 我们的 AI 会为您消除沉默和糟糕的镜头，这样您就可以专注于您的 YouTube 视频. | :grey_question: |
+| [HitPaw Online Video Enhancer](https://online.hitpaw.com/online-video-enhancer.html?ref=aicollection) | 通过训练有素的 AI 一键取消模糊和升级您的视频。. | HitPaw Online Video Enhancer 是低分辨率视频的最佳解决方案，可以毫不费力地将视频解决方案提高到 1080P/4K。. | :x: |
 | [Move](https://www.move.ai/?ref=aicollection) | 移动爱. | 使用手机在任何环境中从视频中捕获高质量的运动数据。. | :grey_question: |
 | [Pictory](http://pictory.ai?ref=milana31) | 轻松制作视频. | 从您的长篇内容中自动创建简短的、高度共享的品牌视频. | :grey_question: |
 | [Simplified](http://simplified.com?ref=aicollection) | 简化：适用于现代营销团队的易于使用的一体式应用程序. | 设计、编写、编辑视频和发布内容。专为团队打造。. | :grey_question: |

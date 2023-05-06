@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=849" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=852" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=39" />
@@ -76,19 +76,6 @@ Translations:
     <h4>CodiumAI - Generating meaningful tests for busy devs</h4>
     <p>With CodiumAI, you get non-trivial tests (and trivial, too!) suggested right inside your IDE, so you can code smart, create more value, and stay confident when you push. Code, as you meant it.</p>
     <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank"><b>Get Started with CodiumAI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://quizgecko.com/?via=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1851.webp" alt="Quizgecko" border="0"/>
-    </a>
-    <h4>Stop Wasting Time Manually Creating Quizzes</h4>
-    <p>Create and share quiz questions, flashcards, and notes instantly, from any text. Ideal for businesses, educators, and students alike.</p>
-    <a href="https://quizgecko.com/?via=aicollection" target="_blank"><b>Get Started with Quizgecko</b></a>
     <br />
 </div>
 
@@ -410,6 +397,7 @@ Translations:
 | [Lek](http://lek.ai?ref=aicollection) | Lek.Ai - The Ultimate Content Creator Toolkit Powered by AI. | Write Anything For Everything. The fastest and easiest way to create content and copy. | :white_check_mark: |
 | [Lex](http://lex.page?ref=aicollection) | Unlock Your Best Writing. | . | :grey_question: |
 | [LongShot AI](http://www.longshot.ai?deal=beth0) | Create Content That Humans and Search Engines Love Using Artificial Intelligence. | LongShot is an AI writing assistant that helps you go from idea to SEO content in minutes. Use creative power of AI with features like real time content, fact check, semantic SEO, custom AI, & more!. | :x: |
+| [Netus.ai](https://netus.ai/?ref=aicollection) | AI-Driven Bypasser, Paraphraser and Detector. | NetusAI is a powerful AI-driven technology designed to help content creators generate unique, high-quality content up to 10x faster than traditional methods. | :white_check_mark: |
 | [Neuraltext](https://neuraltext.com?via=beth0) | Neuraltext - AI Writer and Seo Platform. | Automate your content operations. The all-in-one content marketing and SEO platform that saves you time and money. | :x: |
 | [Quattr](https://www.quattr.com/?ref=aicollection) | Quattr Is Your Growth Hq. | The enterprise SEO platform built with powerful AI and GSC data as the foundation. | :x: |
 | [Summari](http://www.summari.com?ref=aicollection) | Improve the Reading Experience on Your Site. | Upgrade links into short, informative previews using our world-class AI summarization technology. | :grey_question: |
@@ -689,6 +677,7 @@ Translations:
 | [Colorize](http://colorize.cc?ref=aicollection) | Colorize Photo Online. | . | :grey_question: |
 | [ExtendImage](http://www.extendimage.ai?ref=aicollection) | Extendimageai - Extend Your Images With Generative AI. | ExtendImageAI is a tool that allows you to extend your images with generative AI. | :grey_question: |
 | [Hama](http://www.hama.app?ref=aicollection) | Hama. | Amazing photo eraser. | :grey_question: |
+| [HitPaw Online Photo Enhancer](https://online.hitpaw.com/online-photo-enhancer.html?ref=aicollection) | Unblur Images and Say Goodbye to Low-Quality Photos. | HitPaw Online AI Photo Enhancer uses advanced AI technology to remove noise, sharpen details and improve photo quality. | :white_check_mark: |
 | [Imgupscaler](http://imgupscaler.com?ref=aicollection) | Smart PNG / JPG Image Upscaler. | Upscale and enhance your image by using the latest AI technology. | :grey_question: |
 | [Magic Eraser](http://magicstudio.com?ref=aicollection) | Magic Studio - Powered by Ai, Created by You. | Magic Studio helps you automatically edit and create images, using AI. | :grey_question: |
 | [Palette](http://palette.fm?ref=aicollection) | Palette - Colorize Photos. | A new AI colorizer. Colorize anything from old black and white photos, style your artworks, or give modern images a fresh look. It's as simple as instagram. | :white_check_mark: |
@@ -970,6 +959,7 @@ Translations:
 | [FilmForge](http://filmforge.uwu.ai?ref=aicollection) | Filmforge AI. | Instantly generate engaging videos. Captions, voiceover, transcript, and graphics included. | :grey_question: |
 | [Fliki](http://fliki.ai?via=beth0) | Turn Text Into Videos With AI Voices. | Create videos from scripts or blog posts using realistic voices in 2 minutes!. | :white_check_mark: |
 | [Gling](http://www.gling.ai?ref=aicollection) | Creator, Get Your Time Back. | Our AI will cut silences and bad takes for you so you can focus on your YouTube videos. | :grey_question: |
+| [HitPaw Online Video Enhancer](https://online.hitpaw.com/online-video-enhancer.html?ref=aicollection) | One-Click to Unblur and Upscale Your Video by Trained AI. | HitPaw Online Video Enhancer is the best solution for low resolution videos, increase video solution up to 1080P/4K with no efforts. | :x: |
 | [Move](https://www.move.ai/?ref=aicollection) | Move AI. | Capture high quality motion data from video in any environment using mobile phones. | :grey_question: |
 | [Pictory](http://pictory.ai?ref=milana31) | Video Creation Made Easy. | Automatically create short, highly-sharable branded videos from your long form content. | :grey_question: |
 | [Simplified](http://simplified.com?ref=aicollection) | Simplified: An Easy to Use All-in-One App for Modern Marketing Teams. | Design, Write, Edit videos, and Publish Content. Built For Teams. | :grey_question: |
