@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=849" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=852" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=39" />
@@ -70,19 +70,6 @@
     <h4>CodiumAI - व्यस्त देवों के लिए सार्थक परीक्षण उत्पन्न करना</h4>
     <p>CodiumAI के साथ, आपको गैर-तुच्छ परीक्षण (और तुच्छ भी!) अपने IDE के अंदर ही सुझाए गए हैं, ताकि आप स्मार्ट कोड कर सकें, अधिक मूल्य बना सकें, और जब आप पुश करते हैं तो आश्वस्त रहें। कोड, जैसा कि आपका मतलब था।</p>
     <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank"><b>CodiumAI के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://quizgecko.com/?via=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1851.webp" alt="Quizgecko" border="0"/>
-    </a>
-    <h4>मैन्युअल रूप से क्विज़ बनाने में समय बर्बाद करना बंद करें</h4>
-    <p>किसी भी पाठ से प्रश्नोत्तरी प्रश्न, फ्लैशकार्ड और नोट्स तुरंत बनाएं और साझा करें। व्यवसायों, शिक्षकों और छात्रों के लिए समान रूप से आदर्श।</p>
-    <a href="https://quizgecko.com/?via=aicollection" target="_blank"><b>Quizgecko के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -601,6 +588,7 @@
 | [Colorize](http://colorize.cc?ref=aicollection) | फोटो को ऑनलाइन कलर करें. | . | :grey_question: |
 | [ExtendImage](http://www.extendimage.ai?ref=aicollection) | एक्सटेंडिमेजाई - जनरेटिव एआई के साथ अपनी छवियों का विस्तार करें. | एक्सटेंडइमेजएआई एक ऐसा उपकरण है जो आपको अपनी छवियों को जेनेरेटिव एआई के साथ विस्तारित करने की अनुमति देता है।. | :grey_question: |
 | [Hama](http://www.hama.app?ref=aicollection) | हामा. | अद्भुत फोटो इरेज़र. | :grey_question: |
+| [HitPaw Online Photo Enhancer](https://online.hitpaw.com/online-photo-enhancer.html?ref=aicollection) | छवियों को धुंधला करें और कम गुणवत्ता वाली तस्वीरों को अलविदा कहें।. | HitPaw ऑनलाइन एआई फोटो एन्हांसर शोर को दूर करने, विवरण को तेज करने और फोटो की गुणवत्ता में सुधार करने के लिए उन्नत एआई तकनीक का उपयोग करता है. | :white_check_mark: |
 | [Imgupscaler](http://imgupscaler.com?ref=aicollection) | स्मार्ट पीएनजी / जेपीजी इमेज अपस्केलर. | नवीनतम AI तकनीक का उपयोग करके अपनी छवि को उन्नत और बेहतर बनाएं. | :grey_question: |
 | [Magic Eraser](http://magicstudio.com?ref=aicollection) | मैजिक स्टूडियो - एआई द्वारा संचालित, आपके द्वारा बनाया गया. | मैजिक स्टूडियो आपको एआई का उपयोग करके छवियों को स्वचालित रूप से संपादित करने और बनाने में मदद करता है. | :grey_question: |
 | [Palette](http://palette.fm?ref=aicollection) | पैलेट - तस्वीरों को रंगीन करें. | एक नया एआई रंगीन। पुरानी श्वेत-श्याम तस्वीरों में से किसी भी चीज़ को रंग दें, अपनी कलाकृतियों को शैलीबद्ध करें, या आधुनिक छवियों को एक नया रूप दें। यह इंस्टाग्राम जितना आसान है. | :white_check_mark: |
@@ -825,6 +813,7 @@
 | [FilmForge](http://filmforge.uwu.ai?ref=aicollection) | फिल्मफोर्ज एआई. | तुरंत आकर्षक वीडियो बनाएं। कैप्शन, वॉयसओवर, ट्रांसक्रिप्ट और ग्राफिक्स शामिल हैं।. | :grey_question: |
 | [Fliki](http://fliki.ai?via=beth0) | एआई वॉयस के साथ टेक्स्ट को वीडियो में बदलें. | 2 मिनट में यथार्थवादी आवाजों का उपयोग करके स्क्रिप्ट या ब्लॉग पोस्ट से वीडियो बनाएं!. | :white_check_mark: |
 | [Gling](http://www.gling.ai?ref=aicollection) | निर्माता, अपना समय वापस पाएं. | हमारा एआई आपके लिए खामोशी और बुरे कदम उठाएगा ताकि आप अपने यूट्यूब वीडियो पर ध्यान केंद्रित कर सकें. | :grey_question: |
+| [HitPaw Online Video Enhancer](https://online.hitpaw.com/online-video-enhancer.html?ref=aicollection) | प्रशिक्षित एआई द्वारा अपने वीडियो को अनब्लर और अपस्केल करने के लिए वन-क्लिक।. | HitPaw ऑनलाइन वीडियो एन्हांसर कम रिज़ॉल्यूशन वाले वीडियो के लिए सबसे अच्छा समाधान है, वीडियो समाधान को बिना किसी प्रयास के 1080P/4K तक बढ़ाएं।. | :x: |
 | [Move](https://www.move.ai/?ref=aicollection) | ऐ ले जाएँ. | मोबाइल फ़ोन का उपयोग करके किसी भी वातावरण में वीडियो से उच्च गुणवत्ता गति डेटा कैप्चर करें।. | :grey_question: |
 | [Pictory](http://pictory.ai?ref=milana31) | वीडियो बनाना आसान हो गया. | अपनी लंबी फ़ॉर्म सामग्री से स्वचालित रूप से लघु, अत्यधिक साझा करने योग्य ब्रांडेड वीडियो बनाएं. | :grey_question: |
 | [Simplified](http://simplified.com?ref=aicollection) | सरलीकृत: आधुनिक मार्केटिंग टीमों के लिए उपयोग में आसान ऑल-इन-वन ऐप. | वीडियो डिज़ाइन करें, लिखें, संपादित करें और सामग्री प्रकाशित करें। टीमों के लिए बनाया गया।. | :grey_question: |
@@ -955,6 +944,7 @@
 | [Lek](http://lek.ai?ref=aicollection) | Lek.Ai - AI द्वारा संचालित परम सामग्री निर्माता टूलकिट. | हर चीज के लिए कुछ भी लिखें। सामग्री बनाने और कॉपी करने का सबसे तेज़ और आसान तरीका. | :white_check_mark: |
 | [Lex](http://lex.page?ref=aicollection) | अपने सर्वश्रेष्ठ लेखन को अनलॉक करें. | . | :grey_question: |
 | [LongShot AI](http://www.longshot.ai?deal=beth0) | ऐसी सामग्री बनाएं जो मनुष्य और खोज इंजन आर्टिफिशियल इंटेलिजेंस का उपयोग करके पसंद करें. | लॉन्गशॉट एक एआई लेखन सहायक है जो आपको विचार से एसईओ सामग्री तक मिनटों में जाने में मदद करता है। रियल टाइम कंटेंट, फैक्ट चेक, सिमेंटिक SEO, कस्टम AI, और बहुत कुछ जैसी सुविधाओं के साथ AI की रचनात्मक शक्ति का उपयोग करें!. | :x: |
+| [Netus.ai](https://netus.ai/?ref=aicollection) | एआई-संचालित बायपासर, पैराफ्रेजर और डिटेक्टर. | NetusAI एक शक्तिशाली AI-संचालित तकनीक है, जिसे सामग्री निर्माताओं को पारंपरिक तरीकों की तुलना में 10 गुना तेजी से अद्वितीय, उच्च-गुणवत्ता वाली सामग्री उत्पन्न करने में मदद करने के लिए डिज़ाइन किया गया है।. | :white_check_mark: |
 | [Neuraltext](https://neuraltext.com?via=beth0) | Neuraltext - AI लेखक और SEO प्लेटफ़ॉर्म।. | अपने सामग्री संचालन को स्वचालित करें। ऑल-इन-वन कंटेंट मार्केटिंग और SEO प्लेटफॉर्म जो आपका समय और पैसा बचाता है. | :x: |
 | [Quattr](https://www.quattr.com/?ref=aicollection) | क्वाटर आपका विकास मुख्यालय है. | नींव के रूप में शक्तिशाली एआई और जीएससी डेटा के साथ बनाया गया उद्यम एसईओ मंच. | :x: |
 | [Summari](http://www.summari.com?ref=aicollection) | अपनी साइट पर पढ़ने के अनुभव में सुधार करें. | हमारी विश्व स्तरीय एआई सारांश तकनीक का उपयोग करके लिंक को संक्षिप्त, सूचनात्मक पूर्वावलोकन में अपग्रेड करें।. | :grey_question: |

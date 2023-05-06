@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=849" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=852" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=39" />
@@ -70,19 +70,6 @@
     <h4>CodiumAI - Генерация значимых тестов для занятых разработчиков</h4>
     <p>С CodiumAI вы получаете нетривиальные тесты (и тривиальные тоже!), Предлагаемые прямо в вашей IDE, поэтому вы можете кодировать умнее, создавать больше ценности и оставаться уверенными, когда вы нажимаете. Код, как вы это имели в виду.</p>
     <a href="http://www.codium.ai/?utm_source=aicollection&utm_medium=aicollection&utm_campaign=aicollection" target="_blank"><b>Начать работу с CodiumAI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://quizgecko.com/?via=aicollection" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1851.webp" alt="Quizgecko" border="0"/>
-    </a>
-    <h4>Хватит тратить время на создание тестов вручную</h4>
-    <p>Мгновенно создавайте и делитесь вопросами викторины, карточками и заметками из любого текста. Идеально подходит для бизнеса, преподавателей и студентов.</p>
-    <a href="https://quizgecko.com/?via=aicollection" target="_blank"><b>Начать работу с Quizgecko</b></a>
     <br />
 </div>
 
@@ -401,6 +388,7 @@
 | [Lek](http://lek.ai?ref=aicollection) | Lek.ai — лучший набор инструментов для создания контента на базе ИИ. | Пишите что угодно для всего. Самый быстрый и простой способ создавать контент и копировать. | :white_check_mark: |
 | [Lex](http://lex.page?ref=aicollection) | Разблокируйте свое лучшее письмо. | . | :grey_question: |
 | [LongShot AI](http://www.longshot.ai?deal=beth0) | Создавайте контент, который нравится людям и поисковым системам, с помощью искусственного интеллекта. | LongShot — это помощник по написанию текстов с искусственным интеллектом, который поможет вам перейти от идеи к SEO-контенту за считанные минуты. Используйте творческую мощь ИИ с такими функциями, как контент в реальном времени, проверка фактов, семантическая поисковая оптимизация, настраиваемый ИИ и многое другое!. | :x: |
+| [Netus.ai](https://netus.ai/?ref=aicollection) | Обходчик, парафраз и детектор, управляемый ИИ. | NetusAI — это мощная технология на основе искусственного интеллекта, призванная помочь создателям контента создавать уникальный высококачественный контент в 10 раз быстрее, чем традиционные методы. | :white_check_mark: |
 | [Neuraltext](https://neuraltext.com?via=beth0) | Neuraltext - писатель AI и платформа SEO. | Автоматизируйте операции с контентом. Универсальная платформа для контент-маркетинга и SEO, которая экономит ваше время и деньги. | :x: |
 | [Quattr](https://www.quattr.com/?ref=aicollection) | Quattr — ваша штаб-квартира роста. | Корпоративная SEO-платформа, построенная на базе мощного ИИ и данных GSC. | :x: |
 | [Summari](http://www.summari.com?ref=aicollection) | Улучшите опыт чтения на вашем сайте. | Обновите ссылки до коротких информативных предварительных просмотров, используя нашу первоклассную технологию обобщения AI. | :grey_question: |
@@ -794,6 +782,7 @@
 | [Colorize](http://colorize.cc?ref=aicollection) | Раскрасить фото онлайн. | . | :grey_question: |
 | [ExtendImage](http://www.extendimage.ai?ref=aicollection) | ExtendImageAI — расширьте свои изображения с помощью генеративного ИИ. | ExtendImageAI — это инструмент, который позволяет вам расширять ваши изображения с помощью генеративного ИИ. | :grey_question: |
 | [Hama](http://www.hama.app?ref=aicollection) | Хама. | Удивительный ластик для фотографий. | :grey_question: |
+| [HitPaw Online Photo Enhancer](https://online.hitpaw.com/online-photo-enhancer.html?ref=aicollection) | Размытие изображений и попрощайтесь с некачественными фотографиями. | HitPaw Online AI Photo Enhancer использует передовую технологию искусственного интеллекта для удаления шума, повышения резкости деталей и улучшения качества фотографий. | :white_check_mark: |
 | [Imgupscaler](http://imgupscaler.com?ref=aicollection) | Интеллектуальное масштабирование изображений PNG / JPG. | Масштабируйте и улучшайте свое изображение с помощью новейших технологий искусственного интеллекта. | :grey_question: |
 | [Magic Eraser](http://magicstudio.com?ref=aicollection) | Magic Studio — на базе искусственного интеллекта, созданная вами. | Magic Studio помогает автоматически редактировать и создавать изображения с помощью ИИ. | :grey_question: |
 | [Palette](http://palette.fm?ref=aicollection) | Палитра - Раскрасить фотографии. | Новый раскрашиватель AI. Раскрашивайте любые старые черно-белые фотографии ð¸, оформляйте свои работы ð¨ или придавайте современным изображениям свежий вид ð¶. Это так же просто, как инстаграм. | :white_check_mark: |
@@ -1009,6 +998,7 @@
 | [FilmForge](http://filmforge.uwu.ai?ref=aicollection) | FilmForge AI. | Мгновенно создавайте привлекательные видеоролики. Подписи, озвучка, стенограмма и графика включены. | :grey_question: |
 | [Fliki](http://fliki.ai?via=beth0) | Превратите текст в видео с помощью голосов AI. | Создавайте видео из сценариев или сообщений в блогах, используя реалистичные голоса, за 2 минуты!. | :white_check_mark: |
 | [Gling](http://www.gling.ai?ref=aicollection) | Создатель, верни свое время. | Наш ИИ уберет за вас паузы и плохие кадры, чтобы вы могли сосредоточиться на своих видео на YouTube. | :grey_question: |
+| [HitPaw Online Video Enhancer](https://online.hitpaw.com/online-video-enhancer.html?ref=aicollection) | Один щелчок, чтобы размыть и улучшить ваше видео с помощью обученного ИИ. | HitPaw Online Video Enhancer - лучшее решение для видео с низким разрешением, увеличивайте разрешение видео до 1080P/4K без каких-либо усилий. | :x: |
 | [Move](https://www.move.ai/?ref=aicollection) | ПЕРЕМЕЩАТЬ Ай. | Захватывайте высококачественные данные о движении из видео в любой среде с помощью мобильных телефонов. | :grey_question: |
 | [Pictory](http://pictory.ai?ref=milana31) | СОЗДАВАТЬ ВИДЕО ПРОСТО. | Автоматически создавайте короткие фирменные видеоролики, которыми можно поделиться, из длинного контента. | :grey_question: |
 | [Simplified](http://simplified.com?ref=aicollection) | Упрощение: простое в использовании универсальное приложение для современных маркетинговых команд. | Проектируйте, пишите, редактируйте видео и публикуйте контент. Создан для команд. | :grey_question: |
