@@ -1314,3 +1314,20 @@
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
 
+# HitPaw
+
+<div class="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); width: 300px;">
+  <img src="https://cdn.ai-collection.org/webp_small_screenshot_1857.webp" alt=HitPaw Online Photo Enhancer style="width:100%">
+  <div class="padding: 2px 16px;">
+    <h4><b>HitPaw Online Photo Enhancer</b></h4>
+    <p>Desenfoca las imágenes y di adiós a las fotos de baja calidad.</p>
+  </div>
+</div>
+
+<div class="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); width: 300px;">
+  <img src="https://cdn.ai-collection.org/webp_small_screenshot_1858.webp" alt=HitPaw Online Video Enhancer style="width:100%">
+  <div class="padding: 2px 16px;">
+    <h4><b>HitPaw Online Video Enhancer</b></h4>
+    <p>Un clic para desenfocar y mejorar su video por IA entrenada.</p>
+  </div>
+</div>

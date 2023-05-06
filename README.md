@@ -40,7 +40,7 @@
     <a href="LICENSE">License</a>
 </div>
 
---- 
+---
 
 Translations:
 - Русский: [README.ru.md](https://github.com/ai-collection/ai-collection/blob/main/README.ru.md)
@@ -414,7 +414,6 @@ Translations:
 | [Writey AI](http://writey.ai?ref=aicollection) | Yes — An A.I That Writes Original, Researched Blog Posts in Minutes. | First true free plagiarism A.I with original and researched content, check Writey A.I in action. | :white_check_mark: |
 | [unbound](https://www.unboundcontent.ai/auth?affiliate=aff_z0krz31) | Automate Content Creation for Your Small Business. | Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators. | :white_check_mark: |
 | [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0) | Instantly Convert Your YouTube Content Into Engaging Blog Articles. | Boost your SEO and brand presence. | :white_check_mark: |
-| [Netus.ai](https://netus.ai/) | AI-Driven Bypasser, paraphraser and detector. | NetusAI is a powerful AI-driven technology designed to help content creators generate unique, high-quality content up to 10x faster than traditional methods. | :grey_question: |
 
 <!--End of Content Generation & Seo 5-->
 
@@ -1321,3 +1320,21 @@ Translations:
 <!--lint ignore double-link-->
 **[⬆ Back to Index](#index)**
 
+# HitPaw
+
+<div style="display: grid; grid-template-columns: repeat(1,minmax(0,1fr)); row-gap: 2.5rem; @media (min-width: 768px) .md\:grid-cols-2 {grid-template-columns: repeat(2,minmax(0,1fr));} @media (min-width: 1280px) .xl\:grid-cols-3 {grid-template-columns: repeat(3,minmax(0,1fr)); } " >
+    <div style="position: relative; width:300px; border-radius: 0.375rem; --tw-shadow: 0 10px 15px -3px rgb(0 0 0 / .1), 0 4px 6px -4px rgb(0 0 0 / .1); --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color), 0 4px 6px -4px var(--tw-shadow-color); box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),var(--tw-ring-shadow, 0 0 #0000),var(--tw-shadow);">
+        <img src="https://cdn.ai-collection.org/webp_small_screenshot_1857.webp" alt=HitPaw Online Photo Enhancer style="width:300px">
+        <div style="padding: 2px 16px;">
+            <h4><b>HitPaw Online Photo Enhancer</b></h4>
+            <p>Unblur Images and Say Goodbye to Low-Quality Photos.</p>
+        </div>
+    </div>
+    <div style="position: relative; width:300px; border-radius: 0.375rem; --tw-shadow: 0 10px 15px -3px rgb(0 0 0 / .1), 0 4px 6px -4px rgb(0 0 0 / .1); --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color), 0 4px 6px -4px var(--tw-shadow-color); box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),var(--tw-ring-shadow, 0 0 #0000),var(--tw-shadow);">
+        <img src="https://cdn.ai-collection.org/webp_small_screenshot_1858.webp" alt=HitPaw Online Video Enhancer style="width:300px">
+        <div style="padding: 2px 16px;">
+            <h4><b>HitPaw Online Video Enhancer</b></h4>
+            <p>One-Click to Unblur and Upscale Your Video by Trained AI.</p>
+        </div>
+    </div>
+</div>

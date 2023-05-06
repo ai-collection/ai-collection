@@ -1314,3 +1314,20 @@
 <!--lint ignore double-link-->
 **[⬆ इंडेक्स पर वापस](#index)**
 
+# HitPaw
+
+<div class="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); width: 300px;">
+  <img src="https://cdn.ai-collection.org/webp_small_screenshot_1857.webp" alt=HitPaw Online Photo Enhancer style="width:100%">
+  <div class="padding: 2px 16px;">
+    <h4><b>HitPaw Online Photo Enhancer</b></h4>
+    <p>छवियों को धुंधला करें और कम गुणवत्ता वाली तस्वीरों को अलविदा कहें।</p>
+  </div>
+</div>
+
+<div class="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); width: 300px;">
+  <img src="https://cdn.ai-collection.org/webp_small_screenshot_1858.webp" alt=HitPaw Online Video Enhancer style="width:100%">
+  <div class="padding: 2px 16px;">
+    <h4><b>HitPaw Online Video Enhancer</b></h4>
+    <p>प्रशिक्षित एआई द्वारा अपने वीडियो को अनब्लर और अपस्केल करने के लिए वन-क्लिक।</p>
+  </div>
+</div>

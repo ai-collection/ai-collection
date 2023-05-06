@@ -1314,3 +1314,20 @@
 <!--lint ignore double-link-->
 **[⬆ 返回索引](#index)**
 
+# HitPaw
+
+<div class="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); width: 300px;">
+  <img src="https://cdn.ai-collection.org/webp_small_screenshot_1857.webp" alt=HitPaw Online Photo Enhancer style="width:100%">
+  <div class="padding: 2px 16px;">
+    <h4><b>HitPaw Online Photo Enhancer</b></h4>
+    <p>取消模糊图像并告别低质量照片。</p>
+  </div>
+</div>
+
+<div class="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); width: 300px;">
+  <img src="https://cdn.ai-collection.org/webp_small_screenshot_1858.webp" alt=HitPaw Online Video Enhancer style="width:100%">
+  <div class="padding: 2px 16px;">
+    <h4><b>HitPaw Online Video Enhancer</b></h4>
+    <p>通过训练有素的 AI 一键取消模糊和升级您的视频。</p>
+  </div>
+</div>
