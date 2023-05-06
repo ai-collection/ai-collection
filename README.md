@@ -1327,14 +1327,14 @@ Translations:
         <img src="https://cdn.ai-collection.org/webp_small_screenshot_1857.webp" alt=HitPaw Online Photo Enhancer style="width:300px">
         <div style="padding: 2px 16px; width:300px;">
             <h4><b>HitPaw Online Photo Enhancer</b></h4>
-            <p>Unblur Images and Say Goodbye to Low-Quality Photos.</p>
+            <p style="width:300px;">Unblur Images and Say Goodbye to Low-Quality Photos.</p>
         </div>
     </div>
     <div style="position: block; width:300px; background-color:gray; border-radius: 0.375rem; --tw-shadow: 0 10px 15px -3px rgb(0 0 0 / .1), 0 4px 6px -4px rgb(0 0 0 / .1); --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color), 0 4px 6px -4px var(--tw-shadow-color); box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),var(--tw-ring-shadow, 0 0 #0000),var(--tw-shadow);">
         <img src="https://cdn.ai-collection.org/webp_small_screenshot_1858.webp" alt=HitPaw Online Video Enhancer style="width:300px">
         <div style="padding: 2px 16px; width:300px;">
             <h4><b>HitPaw Online Video Enhancer</b></h4>
-            <p>One-Click to Unblur and Upscale Your Video by Trained AI.</p>
+            <p style="width:300px;">One-Click to Unblur and Upscale Your Video by Trained AI.</p>
         </div>
     </div>
 </div>
