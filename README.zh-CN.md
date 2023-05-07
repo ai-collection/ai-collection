@@ -254,7 +254,7 @@
 | [Lek](http://lek.ai?ref=aicollection) | Lek.ai - 由 AI 提供支持的终极内容创建者工具包. | 为一切写任何东西。创建内容和复制的最快和最简单的方法. | :white_check_mark: |
 | [Lex](http://lex.page?ref=aicollection) | 解锁你最好的写作. | . | :grey_question: |
 | [LongShot AI](http://www.longshot.ai?deal=beth0) | 使用人工智能创建人类和搜索引擎喜欢的内容. | LongShot 是一款 AI 写作助手，可帮助您在几分钟内将创意转化为 SEO 内容。借助实时内容、事实核查、语义 SEO、自定义 AI 等功能，利用 AI 的创造力！. | :x: |
-| [Netus.ai](https://netus.ai/?ref=aicollection) | AI 驱动的旁路器、释义器和检测器. | NetusAI 是一项强大的人工智能驱动技术，旨在帮助内容创作者生成独特、高质量的内容，速度比传统方法快 10 倍. | :white_check_mark: |
+| [Netus.ai](https://netus.ai/?utm_source=aff&utm_campaign=aicollection) | AI 驱动的旁路器、释义器和检测器. | NetusAI 是一项强大的人工智能驱动技术，旨在帮助内容创作者生成独特、高质量的内容，速度比传统方法快 10 倍. | :white_check_mark: |
 | [Neuraltext](https://neuraltext.com?via=beth0) | Neuraltext - AI 作家和 SEO 平台。. | 自动化您的内容操作。多合一的内容营销和 SEO 平台，可为您节省时间和金钱. | :x: |
 | [Quattr](https://www.quattr.com/?ref=aicollection) | Quattr 是您的增长总部. | 以强大的AI和GSC数据为基础打造的企业SEO平台. | :x: |
 | [Summari](http://www.summari.com?ref=aicollection) | 改善您网站上的阅读体验. | 使用我们世界一流的 AI 摘要技术将链接升级为简短、信息丰富的预览。. | :grey_question: |

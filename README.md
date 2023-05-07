@@ -397,7 +397,7 @@ Translations:
 | [Lek](http://lek.ai?ref=aicollection) | Lek.Ai - The Ultimate Content Creator Toolkit Powered by AI. | Write Anything For Everything. The fastest and easiest way to create content and copy. | :white_check_mark: |
 | [Lex](http://lex.page?ref=aicollection) | Unlock Your Best Writing. | . | :grey_question: |
 | [LongShot AI](http://www.longshot.ai?deal=beth0) | Create Content That Humans and Search Engines Love Using Artificial Intelligence. | LongShot is an AI writing assistant that helps you go from idea to SEO content in minutes. Use creative power of AI with features like real time content, fact check, semantic SEO, custom AI, & more!. | :x: |
-| [Netus.ai](https://netus.ai/?ref=aicollection) | AI-Driven Bypasser, Paraphraser and Detector. | NetusAI is a powerful AI-driven technology designed to help content creators generate unique, high-quality content up to 10x faster than traditional methods. | :white_check_mark: |
+| [Netus.ai](https://netus.ai/?utm_source=aff&utm_campaign=aicollection) | AI-Driven Bypasser, Paraphraser and Detector. | NetusAI is a powerful AI-driven technology designed to help content creators generate unique, high-quality content up to 10x faster than traditional methods. | :white_check_mark: |
 | [Neuraltext](https://neuraltext.com?via=beth0) | Neuraltext - AI Writer and Seo Platform. | Automate your content operations. The all-in-one content marketing and SEO platform that saves you time and money. | :x: |
 | [Quattr](https://www.quattr.com/?ref=aicollection) | Quattr Is Your Growth Hq. | The enterprise SEO platform built with powerful AI and GSC data as the foundation. | :x: |
 | [Summari](http://www.summari.com?ref=aicollection) | Improve the Reading Experience on Your Site. | Upgrade links into short, informative previews using our world-class AI summarization technology. | :grey_question: |
@@ -414,7 +414,6 @@ Translations:
 | [Writey AI](http://writey.ai?ref=aicollection) | Yes — An A.I That Writes Original, Researched Blog Posts in Minutes. | First true free plagiarism A.I with original and researched content, check Writey A.I in action. | :white_check_mark: |
 | [unbound](https://www.unboundcontent.ai/auth?affiliate=aff_z0krz31) | Automate Content Creation for Your Small Business. | Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators. | :white_check_mark: |
 | [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0) | Instantly Convert Your YouTube Content Into Engaging Blog Articles. | Boost your SEO and brand presence. | :white_check_mark: |
-| [Netus.ai](https://netus.ai/) | AI-Driven Bypasser, paraphraser and detector. | NetusAI is a powerful AI-driven technology designed to help content creators generate unique, high-quality content up to 10x faster than traditional methods. | :grey_question: |
 
 <!--End of Content Generation & Seo 5-->
 
