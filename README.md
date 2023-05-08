@@ -772,6 +772,7 @@ Translations:
 | [Perplexity AI](http://www.perplexity.ai?ref=aicollection) | Perplexity AI Is an Answer Engine That Delivers Accurate Answers to Complex Questions Using Large Language Models. | Ask is powered by large language models and search engines. Accuracy is limited by search results and AI capabilities. | :white_check_mark: |
 | [Smarty Names](http://smartynames.com?ref=aicollection) | Free Creative Domain Name Search by AI Robots. | Finding a creative and unique domain that is still available is easy with SmartyNames.com - Tell us what you do, and our robots will find the domain that is just right for you. Company name generator in one click. | :white_check_mark: |
 | [You](http://you.com?ref=aicollection) | The AI Search Engine You Control. | . | :white_check_mark: |
+| [namefinder.ai](https://namefinder.ai/) | AI-Powered business & domain name generator | We, at Namefinder, aim to save people time by coming up with domain names for their businesses. We do it by proposing the names based on their website needs, and before that we check the domain registry to only give the available domain names to choose from. All powered by Chat Gpt. | :white_check_mark: |
 
 <!--End of Search Engines 30-->
 
