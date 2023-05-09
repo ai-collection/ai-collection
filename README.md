@@ -332,6 +332,7 @@ Translations:
 | [Keepi](https://www.keepi.ai/?ref=aicollection) | AI Over WhatsApp. | Access the most advanced AI available today on the go. Keepi will keep you smart and ready with relevant knowledge. | :white_check_mark: |
 | [NOLU](http://noluai.com?ref=aicollection) | Interacting With AI Should Be Simple. | Meet NOLU. A simple interface for interacting with the Open AI GPT-3 engine. | :white_check_mark: |
 | [SiteGPT](https://sitegpt.ai/?via=aicollection) | ChatGPT for Every Website. | Instantly answer your visitors' questions with a personalized chatbot trained on your website content. | :white_check_mark: |
+| [ChatBotKit](https://chatbotkit.com/?via=aicollection) | The fastest way to build advanced AI chat bots | ChatBotKit helps you create conversational AI chatbots with your own data to communicate naturally with users on your website, Slack, Discord and WhatsApp. | :white_check_mark: |
 
 <!--End of Chat Bot 3-->
 
