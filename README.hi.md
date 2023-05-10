@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=852" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=854" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=39" />
@@ -473,6 +473,7 @@
 | [Perplexity AI](http://www.perplexity.ai?ref=aicollection) | Perplexity AI एक उत्तर इंजन है जो बड़े भाषा मॉडल का उपयोग करके जटिल प्रश्नों के सटीक उत्तर देता है।. | आस्क बड़े भाषा मॉडल और सर्च इंजन द्वारा संचालित है। सटीकता खोज परिणामों और AI क्षमताओं द्वारा सीमित है।. | :white_check_mark: |
 | [Smarty Names](http://smartynames.com?ref=aicollection) | एआई रोबोट्स द्वारा नि:शुल्क रचनात्मक डोमेन नाम खोज. | SmartyNames.com के साथ एक रचनात्मक और अद्वितीय डोमेन खोजना आसान है जो अभी भी उपलब्ध है - हमें बताएं कि आप क्या करते हैं, और हमारे रोबोट आपके लिए सही डोमेन ढूंढ लेंगे। एक क्लिक में कंपनी का नाम जनरेटर।. | :white_check_mark: |
 | [You](http://you.com?ref=aicollection) | एआई सर्च इंजन जिसे आप नियंत्रित करते हैं. | . | :white_check_mark: |
+| [namefinder.ai](https://namefinder.ai/?ref=aicollection) | एआई-संचालित व्यवसाय और डोमेन नाम जेनरेटर. | हम, Namefinder पर, लोगों के व्यवसायों के लिए डोमेन नाम लेकर आने से उनका समय बचाने का लक्ष्य रखते हैं। हम ऐसा उनकी वेबसाइट की जरूरतों के आधार पर नामों का प्रस्ताव करके करते हैं, और इससे पहले हम डोमेन रजिस्ट्री की जांच करते हैं ताकि केवल उपलब्ध डोमेन नामों को चुनने के लिए दिया जा सके। सभी चैट Gpt द्वारा संचालित।. | :white_check_mark: |
 
 <!--End of खोज इंजन 30-->
 
@@ -501,6 +502,7 @@
 | [BLOONY](http://bloony.ai?ref=aicollection) | ब्लूनी - एआई चैटबॉट. | चैटट्रिप पर जाएँ!. | :grey_question: |
 | [BotGPT](https://t.me/BotGPT_bot?ref=aicollection) | टेलीग्राम जीपीटी बॉट. | टेलीग्राम बॉट जो जीपीटी तक तेज और सहज पहुंच की अनुमति देता है, आपके इतिहास को सहेजता है, और आपके फोन या डेस्कटॉप से उपलब्ध है। कूल फीचर्स आने वाले हैं।. | :white_check_mark: |
 | [Chai](http://chai.ml?ref=aicollection) | चाय - एआई के साथ चैट करें. | एआई के साथ सम्मोहक बातचीत के लिए चाय गंतव्य है। चाय पर, आप हजारों उपयोगकर्ताओं के लिए एआई चैटबॉट बना और तैनात कर सकते हैं।. | :grey_question: |
+| [ChatBotKit](https://chatbotkit.com/?via=aicollection) | उन्नत एआई चैट बॉट बनाने का सबसे तेज़ तरीका. | ChatBotKit आपको अपनी वेबसाइट, स्लैक, डिस्कॉर्ड और व्हाट्सएप पर उपयोगकर्ताओं के साथ स्वाभाविक रूप से संवाद करने के लिए अपने स्वयं के डेटा के साथ संवादी AI चैटबॉट बनाने में मदद करता है।. | :white_check_mark: |
 | [ChatGPT](http://chat.openai.com?ref=aicollection) | टेक्स्ट जनरेशन और अंडरस्टैंडिंग के लिए एक शक्तिशाली लैंग्वेज मॉडल. | . | :white_check_mark: |
 | [Chatbase](https://www.chatbase.co/?ref=aicollection) | अपने डेटा पर प्रशिक्षित AI चैटबॉट बनाएं. | बस एक पीडीएफ अपलोड करें और जीपीटी आधारित चैटबॉट का लिंक प्राप्त करें जो इस पर किसी भी प्रश्न का उत्तर दे सकता है।. | :white_check_mark: |
 | [Context Search](http://addcontext.xyz?ref=aicollection) | प्रसंग - एआई-संचालित ऑडियो और वीडियो चैटबॉट. | . | :grey_question: |

@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=852" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=854" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=39" />
@@ -656,6 +656,7 @@
 | [Perplexity AI](http://www.perplexity.ai?ref=aicollection) | Perplexity AI — это механизм ответов, который дает точные ответы на сложные вопросы, используя большие языковые модели. | Ask использует большие языковые модели и поисковые системы. Точность ограничена результатами поиска и возможностями ИИ. | :white_check_mark: |
 | [Smarty Names](http://smartynames.com?ref=aicollection) | Бесплатный креативный поиск доменных имен от AI Robots. | Найти творческий и уникальный домен, который все еще доступен, с SmartyNames.com легко. Расскажите нам, что вы делаете, и наши роботы найдут домен, который подходит именно вам. Генератор названий компаний в один клик. | :white_check_mark: |
 | [You](http://you.com?ref=aicollection) | Поисковая система с искусственным интеллектом, которой вы управляете. | . | :white_check_mark: |
+| [namefinder.ai](https://namefinder.ai/?ref=aicollection) | Генератор доменных имен и бизнеса на базе искусственного интеллекта. | Мы в Namefinder стремимся сэкономить время людей, придумывая доменные имена для их бизнеса. Мы делаем это, предлагая имена, исходя из потребностей их веб-сайта, а перед этим мы проверяем реестр доменов, чтобы предоставить на выбор только доступные доменные имена. Все работает на чате Gpt. | :white_check_mark: |
 
 <!--End of Поисковые системы 30-->
 
@@ -938,6 +939,7 @@
 | [BLOONY](http://bloony.ai?ref=aicollection) | BLOONY — чат-бот с искусственным интеллектом. | Запрыгивайте в чат-трип!. | :grey_question: |
 | [BotGPT](https://t.me/BotGPT_bot?ref=aicollection) | Telegram GPT-бот. | Бот Telegram, который обеспечивает быстрый и интуитивно понятный доступ к GPT, сохраняет вашу историю и доступен с вашего телефона или рабочего стола. Будут интересные функции. | :white_check_mark: |
 | [Chai](http://chai.ml?ref=aicollection) | Chai - Чат с ИИ. | Chai — это НАСТОЯЩЕЕ место для захватывающих разговоров с ИИ. На Chai вы можете создавать и развертывать чат-ботов с искусственным интеллектом для тысяч пользователей. | :grey_question: |
+| [ChatBotKit](https://chatbotkit.com/?via=aicollection) | Самый быстрый способ создания продвинутых чат-ботов с искусственным интеллектом. | ChatBotKit помогает вам создавать диалоговых чат-ботов с искусственным интеллектом с вашими собственными данными для естественного общения с пользователями на вашем веб-сайте, в Slack, Discord и WhatsApp. | :white_check_mark: |
 | [ChatGPT](http://chat.openai.com?ref=aicollection) | Мощная языковая модель для генерации и понимания текста. | . | :white_check_mark: |
 | [Chatbase](https://www.chatbase.co/?ref=aicollection) | Создайте чат-бота с искусственным интеллектом, обученного на ваших данных. | Просто загрузите PDF-файл и получите ссылку на чат-бот на основе GPT, который может ответить на любой вопрос. | :white_check_mark: |
 | [Context Search](http://addcontext.xyz?ref=aicollection) | Контекст — аудио- и видеочат-боты на базе искусственного интеллекта. | . | :grey_question: |
