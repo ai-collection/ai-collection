@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=852" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=854" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=39" />
@@ -484,6 +484,7 @@
 | [Perplexity AI](http://www.perplexity.ai?ref=aicollection) | Perplexity AI 是一个答案引擎，可以使用大型语言模型为复杂问题提供准确的答案。. | Ask 由大型语言模型和搜索引擎提供支持。准确性受搜索结果和 AI 功能的限制。. | :white_check_mark: |
 | [Smarty Names](http://smartynames.com?ref=aicollection) | AI 机器人免费创意域名搜索. | 使用 SmartyNames.com 可以轻松找到仍然可用的创意和独特域名 - 告诉我们您的工作，我们的机器人会找到适合您的域名。一键生成公司名称。. | :white_check_mark: |
 | [You](http://you.com?ref=aicollection) | 您控制的 AI 搜索引擎. | . | :white_check_mark: |
+| [namefinder.ai](https://namefinder.ai/?ref=aicollection) | 人工智能驱动的业务和域名生成器. | 在 Namefinder，我们的目标是通过为他们的企业提出域名来节省人们的时间。我们通过根据他们的网站需要提出名称来做到这一点，在此之前我们检查域注册以仅提供可用的域名以供选择。全部由 Chat Gpt 提供支持。. | :white_check_mark: |
 
 <!--End of 搜索引擎 30-->
 
@@ -786,6 +787,7 @@
 | [BLOONY](http://bloony.ai?ref=aicollection) | BLOONY - 人工智能聊天机器人. | 加入 ChatTrip！. | :grey_question: |
 | [BotGPT](https://t.me/BotGPT_bot?ref=aicollection) | 电报 GPT 机器人. | Telegram 机器人允许快速和直观地访问 GPT，保存您的历史记录，并可从您的手机或桌面使用。很酷的功能即将推出。. | :white_check_mark: |
 | [Chai](http://chai.ml?ref=aicollection) | Chai - 与 AI 聊天. | Chai 是与 AI 进行引人入胜的对话的最佳目的地。在 Chai 上，您可以为成千上万的用户构建和部署 AI 聊天机器人。. | :grey_question: |
+| [ChatBotKit](https://chatbotkit.com/?via=aicollection) | 构建高级 AI 聊天机器人的最快方法. | ChatBotKit 可帮助您使用自己的数据创建对话式 AI 聊天机器人，以便与您网站、Slack、Discord 和 WhatsApp 上的用户自然交流。. | :white_check_mark: |
 | [ChatGPT](http://chat.openai.com?ref=aicollection) | 用于文本生成和理解的强大语言模型. | . | :white_check_mark: |
 | [Chatbase](https://www.chatbase.co/?ref=aicollection) | 构建根据您的数据训练的 AI 聊天机器人. | 只需上传一个 pdf 文件并获得一个基于 GPT 的聊天机器人的链接，该聊天机器人可以回答关于它的任何问题。. | :white_check_mark: |
 | [Context Search](http://addcontext.xyz?ref=aicollection) | 上下文 - AI 驱动的音频和视频聊天机器人. | . | :grey_question: |

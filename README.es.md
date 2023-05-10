@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=852" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=854" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=39" />
@@ -692,6 +692,7 @@
 | [Perplexity AI](http://www.perplexity.ai?ref=aicollection) | Perplexity AI es un motor de respuesta que brinda respuestas precisas a preguntas complejas utilizando modelos de lenguaje grandes. | Ask funciona con grandes modelos de lenguaje y motores de búsqueda. La precisión está limitada por los resultados de búsqueda y las capacidades de IA. | :white_check_mark: |
 | [Smarty Names](http://smartynames.com?ref=aicollection) | Búsqueda creativa gratuita de nombres de dominio por AI Robots. | Encontrar un dominio creativo y único que aún esté disponible es fácil con SmartyNames.com: díganos lo que hace y nuestros robots encontrarán el dominio adecuado para usted. Generador de nombre de empresa en un clic. | :white_check_mark: |
 | [You](http://you.com?ref=aicollection) | El motor de búsqueda de IA que controlas. | . | :white_check_mark: |
+| [namefinder.ai](https://namefinder.ai/?ref=aicollection) | Generador de nombres de dominio y empresas impulsado por IA. | Nosotros, en Namefinder, buscamos ahorrar tiempo a las personas creando nombres de dominio para sus negocios. Lo hacemos proponiendo los nombres en función de las necesidades de su sitio web, y antes de eso verificamos el registro de dominio para dar solo los nombres de dominio disponibles para elegir. Todo impulsado por Chat Gpt. | :white_check_mark: |
 
 <!--End of Los motores de búsqueda 30-->
 
@@ -803,6 +804,7 @@
 | [BLOONY](http://bloony.ai?ref=aicollection) | Bloony - Chatbot con IA. | ¡Súbete a ChatTrip!. | :grey_question: |
 | [BotGPT](https://t.me/BotGPT_bot?ref=aicollection) | Bot GPT de Telegram. | Bot de Telegram que permite un acceso rápido e intuitivo a GPT, guarda tu historial y está disponible desde tu teléfono o escritorio. Próximamente funciones geniales. | :white_check_mark: |
 | [Chai](http://chai.ml?ref=aicollection) | Chai - Chatea con IA. | Chai es EL destino para conversaciones convincentes con IA. En Chai, puede crear e implementar chatbots de IA para miles de usuarios. | :grey_question: |
+| [ChatBotKit](https://chatbotkit.com/?via=aicollection) | La forma más rápida de crear bots de chat de IA avanzados. | ChatBotKit lo ayuda a crear chatbots conversacionales de IA con sus propios datos para comunicarse naturalmente con los usuarios en su sitio web, Slack, Discord y WhatsApp. | :white_check_mark: |
 | [ChatGPT](http://chat.openai.com?ref=aicollection) | Un poderoso modelo de lenguaje para la generación y comprensión de textos. | . | :white_check_mark: |
 | [Chatbase](https://www.chatbase.co/?ref=aicollection) | Cree un chatbot de IA entrenado en sus datos. | Simplemente cargue un pdf y obtenga un enlace a un chatbot basado en GPT que pueda responder cualquier pregunta al respecto. | :white_check_mark: |
 | [Context Search](http://addcontext.xyz?ref=aicollection) | Contexto - Chatbots de audio y video impulsados por IA. | . | :grey_question: |

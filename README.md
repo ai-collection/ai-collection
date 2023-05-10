@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=852" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=854" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=39" />
@@ -325,6 +325,7 @@ Translations:
 | [BLOONY](http://bloony.ai?ref=aicollection) | Bloony - AI Chatbot. | Hop on ChatTrip!. | :grey_question: |
 | [BotGPT](https://t.me/BotGPT_bot?ref=aicollection) | Telegram GPT Bot. | Telegram bot that allows fast and intuitive access to GPT, Saves your history, and available from your phone or desktop. Cool features upcoming. | :white_check_mark: |
 | [Chai](http://chai.ml?ref=aicollection) | Chai - Chat With AI. | Chai is THE destination for compelling conversations with AI. On Chai, you can build and deploy AI chatbots to thousands of users. | :grey_question: |
+| [ChatBotKit](https://chatbotkit.com/?via=aicollection) | The Fastest Way to Build Advanced AI Chat Bots. | ChatBotKit helps you create conversational AI chatbots with your own data to communicate naturally with users on your website, Slack, Discord and WhatsApp. | :white_check_mark: |
 | [ChatGPT](http://chat.openai.com?ref=aicollection) | Apowerful Language Model for Text Generation and Understanding. | . | :white_check_mark: |
 | [Chatbase](https://www.chatbase.co/?ref=aicollection) | Build an AI Chatbot Trained on Your Data. | Just upload a pdf and get a link to a GPT based chatbot that can answer any question on it. | :white_check_mark: |
 | [Context Search](http://addcontext.xyz?ref=aicollection) | Context - AI-Powered Audio & Video Chatbots. | . | :grey_question: |
@@ -332,7 +333,6 @@ Translations:
 | [Keepi](https://www.keepi.ai/?ref=aicollection) | AI Over WhatsApp. | Access the most advanced AI available today on the go. Keepi will keep you smart and ready with relevant knowledge. | :white_check_mark: |
 | [NOLU](http://noluai.com?ref=aicollection) | Interacting With AI Should Be Simple. | Meet NOLU. A simple interface for interacting with the Open AI GPT-3 engine. | :white_check_mark: |
 | [SiteGPT](https://sitegpt.ai/?via=aicollection) | ChatGPT for Every Website. | Instantly answer your visitors' questions with a personalized chatbot trained on your website content. | :white_check_mark: |
-| [ChatBotKit](https://chatbotkit.com/?via=aicollection) | The fastest way to build advanced AI chat bots | ChatBotKit helps you create conversational AI chatbots with your own data to communicate naturally with users on your website, Slack, Discord and WhatsApp. | :white_check_mark: |
 
 <!--End of Chat Bot 3-->
 
@@ -773,7 +773,7 @@ Translations:
 | [Perplexity AI](http://www.perplexity.ai?ref=aicollection) | Perplexity AI Is an Answer Engine That Delivers Accurate Answers to Complex Questions Using Large Language Models. | Ask is powered by large language models and search engines. Accuracy is limited by search results and AI capabilities. | :white_check_mark: |
 | [Smarty Names](http://smartynames.com?ref=aicollection) | Free Creative Domain Name Search by AI Robots. | Finding a creative and unique domain that is still available is easy with SmartyNames.com - Tell us what you do, and our robots will find the domain that is just right for you. Company name generator in one click. | :white_check_mark: |
 | [You](http://you.com?ref=aicollection) | The AI Search Engine You Control. | . | :white_check_mark: |
-| [namefinder.ai](https://namefinder.ai/) | AI-Powered business & domain name generator | We, at Namefinder, aim to save people time by coming up with domain names for their businesses. We do it by proposing the names based on their website needs, and before that we check the domain registry to only give the available domain names to choose from. All powered by Chat Gpt. | :white_check_mark: |
+| [namefinder.ai](https://namefinder.ai/?ref=aicollection) | AI-Powered Business & Domain Name Generator. | We, at Namefinder, aim to save people time by coming up with domain names for their businesses. We do it by proposing the names based on their website needs, and before that we check the domain registry to only give the available domain names to choose from. All powered by Chat Gpt. | :white_check_mark: |
 
 <!--End of Search Engines 30-->
 
