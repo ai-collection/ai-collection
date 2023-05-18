@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=856" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=859" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=39" />
@@ -272,6 +272,7 @@ Translations:
 | [Zazow](http://www.zazow.com?ref=aicollection) | Zazow :: Algorithmic Generative Art. | Create your own artwork by using computer generated algorithms. Learn about generative or algorithmic art. | :grey_question: |
 | [Zoomscape](http://zoomscape.ai?ref=aicollection) | Zoomscape.Ai. | Create stunning Zoom backgrounds with AI. | :grey_question: |
 | [artssy](https://www.artssy.co/?ref=aicollection) | Create Unique AI Generated Images in 1-Click. | With Artssy AI, your creativity can flow. Create unlimited images in 1 click and discover a world of possibilities!. | :x: |
+| [caspa AI](https://www.caspa.ai/?ref=aicollection) | Caspa AI Is a Platform to Create and Customise AI Images in Minutes. | Unlock the potential of AI-powered image creation and editing with this free tool, producing unique visuals quickly and cost-effectively for various applications. | :grey_question: |
 | [flair](http://flair.ai/?ref=aicollection) | The AI Design Tool for Branded Content. | . | :white_check_mark: |
 
 <!--End of Art & Image Generator 15-->
@@ -557,6 +558,7 @@ Translations:
 | [GiftBot](http://www.getgift.help?ref=aicollection) | Get Gift Help. | Struggling to figure out what to get someone for the holidays? GiftBot asks you questions to help recommend gift ideas!. | :white_check_mark: |
 | [GiftWizard](https://www.giftwizard.ai?ref=aicollection) | GiftWizard.ai - AI Powered Gift Inspiration. | GiftWizard is your friendly helper from the future, here to guide you through getting the most magical gift. | :white_check_mark: |
 | [Giftastic AI](http://giftastic.ai?ref=aicollection) | Giftastic.Ai - Perfect Gift for Your Special One!. | Personalised gift ideas for every occasion!. | :grey_question: |
+| [Kindred Tales](https://kindredtales.net/?ref=aicollection) | Online Platform That Helps People Capture and Preserve Their Life Stories in a Beautiful Hardcover Book. | For anyone who wants to create a memoir but doesn't know where to start or has difficulty writing. With the help of AI, users can easily answer questions about their life, and we'll turn it into a professionally designed book that they can cherish for generations to come. | :x: |
 | [Lovelines](http://lovelines.xyz?ref=ai-collection) | Lovelines.Xyz - Share Your Love With Custom Keepsakes Made by AI. | Create custom keepsakes for a loved one using AI that are optimized for social media. AI-generated poems, stories, letters, and song lyrics. | :x: |
 | [Text2present](http://text2present.com?ref=aicollection) | Text2Present.Com - Creative Presents From Busy People. | Allows you to create creative customized presents using artificial intelligence for your friends, family and acquaintances without taking your precious time. Simply enter a text description of what you want to gift and let our artificial intelligence do the rest. | :grey_question: |
 
@@ -1008,6 +1010,7 @@ Translations:
 | [Elephas](https://gumroad.com/a/411783379/ntmtp) | Elephas - Personal AI Writing Assistant for Mac, Iphone, Ipad. | Save hours every day. The world's first AI writer that works across your Mac, iPhone, and iPad. | :white_check_mark: |
 | [EssayBar](http://www.essay.bar?ref=aicollection) | Essaybar — Revolutionize Your Writing With AI-Crafted Essays!. | . | :grey_question: |
 | [FreewriteAI](http://freewriterai.com?ref=aicollection) | The AI Writing Tool for Everyone. | . | :white_check_mark: |
+| [Instascribe](https://instascribe.app/) | Instascribe Is an AI-powered App That Creates Personalised Captions for Your Instagram Photos. | Just select an image, pick from an array of caption styles or define your own, and adjust options such as tone of voice, language, and message length. The app's AI then generates a unique caption that suits your image and preferences, streamlining your social media posting process. | :grey_question: |
 | [Paragraph AI](http://paragraphai.com?ref=aicollection) | Paragraphai • Best AI Writing App • Free AI Writing Assistant Tool. | . | :white_check_mark: |
 | [Paraphraser](http://paraphrasetool.com?ref=aicollection) | Free Paraphrasing for All Languages. | . | :white_check_mark: |
 | [Paraphraser AI](http://app.yaara.ai?ref=aicollection) | Yaara — AI-Powered Writing Assistant. | . | :grey_question: |
