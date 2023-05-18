@@ -116,6 +116,7 @@ Translations:
 - 🧞‍♂️ [Organization & Automation](#organization--automation)
 - 📸 [Photo & Image Editing](#photo--image-editing)
 - 🔌 [Plugins & Extensions](#plugins--extensions)
+- 🚀 [Productivity & Personal Growth](#productivity--personal-growth)
 - 🎓 [Research Assistant](#research-assistant)
 - 🗳 [Reviews & Recommendations](#reviews--recommendations)
 - 💰 [Sales & Marketing](#sales--marketing)
@@ -714,6 +715,16 @@ Translations:
 | [Voilà](https://www.getvoila.ai/?ref=aicollection) | Personal ChatGPT Assistant for Supercharged Productivity. | Improve your writing, get answers to all your questions, draft high-quality content and respond to emails. All in one place. | :white_check_mark: |
 
 <!--End of Plugins & Extensions 28-->
+
+<!--lint ignore double-link-->
+**[⬆ Back to Index](#index)**
+
+## Productivity & Personal Growth
+| Name | Title | Description | Offer Free Version |
+|---|---|---|:---:|
+| [Chivvy](https://chivvy.app) | AI powered anti-procrastination app. | Chivvy uses negative reinforcement to get you to do things. Creates accountability on social media. Keeps you on track with smart prompts. All powered by AI. | :white_check_mark: |
+
+<!--End of Productivity & Personal Growth 29-->
 
 <!--lint ignore double-link-->
 **[⬆ Back to Index](#index)**
