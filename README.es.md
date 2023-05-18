@@ -23,10 +23,10 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=859" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=860" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=39" />
+    <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=40" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -114,6 +114,7 @@
 - 👩‍🎤 [Moda](#moda)
 - 🧞‍♂️ [Organización Y Automatización](#organización-y-automatización)
 - 🏖 [Planificador De Viajes Y Vacaciones](#planificador-de-viajes-y-vacaciones)
+- 🚀 [Productividad Y Crecimiento Personal](#productividad-y-crecimiento-personal)
 - 👩‍💼 [Recursos Humanos Y Currículum](#recursos-humanos-y-currículum)
 - 💞 [Redes Sociales Y Citas](#redes-sociales-y-citas)
 - 🗳 [Reseñas Y Recomendaciones](#reseñas-y-recomendaciones)
@@ -276,7 +277,6 @@
 | [Autoname](http://www.autoname.org?ref=aicollection) | Cambie el nombre de todas sus capas con un solo clic. Gracias a Ai. Fuente abierta. | Cambie el nombre de los marcos de Figma con un solo clic, eso es todo. | :grey_question: |
 | [Merlin](http://merlin.foyer.work?ref=aicollection) | Esmerejón. | ¡Extensión gratuita con tecnología ChatGPT de Open AI para usar en cualquier lugar!. | :white_check_mark: |
 | [SplashAI](http://www.splashai.art?ref=aicollection) | Splashai es un complemento de Figma, un motor de búsqueda y un generador de imágenes de IA. | . | :grey_question: |
-| [Voilà](https://www.getvoila.ai/?ref=aicollection) | Personal ChatGPT Assistant para una productividad supercargada. | Mejore su escritura, obtenga respuestas a todas sus preguntas, redacte contenido de alta calidad y responda correos electrónicos. Todo en un lugar. | :white_check_mark: |
 
 <!--End of Complementos y extensiones 28-->
 
@@ -727,7 +727,6 @@
 | [bardeen](https://www.bardeen.ai/ai?ref=aicollection) | La IA se encuentra con las automatizaciones. | Próximamente en 2023: Bardeen presenta una IA innovadora para automatizar los flujos de trabajo manuales, ahorrarle tiempo y potenciar su creatividad. | :grey_question: |
 | [guidde](https://www.guidde.com/?ref=aicollection) | Cree mágicamente material de capacitación impresionante, notas de características, SOP, guías de incorporación, guías prácticas, preguntas frecuentes con IA. | guidde es la plataforma de inteligencia artificial generativa para empresas que ayuda a su equipo a crear documentación en video 11 veces más rápido. | :white_check_mark: |
 | [mem](https://get.mem.ai/?ref=aicollection) | El espacio de trabajo autoorganizado. | Mem es el primer espacio de trabajo impulsado por IA del mundo que está personalizado para usted. Amplifica tu creatividad, automatiza lo mundano y mantente organizado automáticamente. | :white_check_mark: |
-| [timeMaster](https://www.timemaster.ai/?ref=aicollection) | Potencie su enfoque y productividad. | TimeMaster detecta automáticamente en qué está trabajando, categoriza sus actividades, etiqueta proyectos e incluso escribe registros de tiempo en su nombre. | :white_check_mark: |
 
 <!--End of Organización y Automatización 31-->
 
@@ -742,6 +741,18 @@
 | [Vacay](https://usevacay.com/chatbot?ref=aicollection) | Agente de chat de vacaciones. | Este asistente de inteligencia artificial puede diseñar un viaje personalizado, brindarle inspiración sobre dónde ir e incluso generar recomendaciones locales para hoteles, restaurantes y atracciones. | :white_check_mark: |
 
 <!--End of Planificador de viajes y vacaciones 36-->
+
+<!--lint ignore double-link-->
+**[⬆ Volver al índice](#index)**
+
+## Productividad Y Crecimiento Personal
+| Nombre | Título | Descripción | Ofrecer versión gratuita |
+|---|---|---|:---:|
+| [Chivvy](https://chivvy.app?ref=aicollection) | Aplicación antiprocrastinación impulsada por IA. | Chivvy usa el refuerzo negativo para que hagas cosas. Crea responsabilidad en las redes sociales. Te mantiene encaminado con indicaciones inteligentes. Todo impulsado por IA. | :white_check_mark: |
+| [Voilà](https://www.getvoila.ai/?ref=aicollection) | Personal ChatGPT Assistant para una productividad supercargada. | Mejore su escritura, obtenga respuestas a todas sus preguntas, redacte contenido de alta calidad y responda correos electrónicos. Todo en un lugar. | :white_check_mark: |
+| [timeMaster](https://www.timemaster.ai/?ref=aicollection) | Potencie su enfoque y productividad. | TimeMaster detecta automáticamente en qué está trabajando, categoriza sus actividades, etiqueta proyectos e incluso escribe registros de tiempo en su nombre. | :white_check_mark: |
+
+<!--End of Productividad y crecimiento personal 40-->
 
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**

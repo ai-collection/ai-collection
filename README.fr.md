@@ -23,10 +23,10 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=859" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=860" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=39" />
+    <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=40" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -113,6 +113,7 @@
 - 🧞‍♂️ [Organisation & Automatisation](#organisation--automatisation)
 - 🏖 [Planificateur De Vacances Et De Voyages](#planificateur-de-vacances-et-de-voyages)
 - 🔌 [Plugins Et Extensions](#plugins-et-extensions)
+- 🚀 [Productivité Et Croissance Personnelle](#productivité-et-croissance-personnelle)
 - 👩‍💼 [Ressources Humaines Et Cv](#ressources-humaines-et-cv)
 - 📸 [Retouche De Photos Et D'Images](#retouche-de-photos-et-d'images)
 - 💞 [Réseaux Sociaux & Rencontres](#réseaux-sociaux--rencontres)
@@ -709,7 +710,6 @@
 | [bardeen](https://www.bardeen.ai/ai?ref=aicollection) | L'IA rencontre les automatisations. | À venir en 2023 - Bardeen introduit une IA révolutionnaire pour automatiser les flux de travail manuels, vous faire gagner du temps et renforcer votre créativité. | :grey_question: |
 | [guidde](https://www.guidde.com/?ref=aicollection) | Créez magiquement de superbes supports de formation, des notes de fonctionnalités, des SOP, des guides d'intégration, des guides pratiques, des FAQ avec l'IA. | guidde est la plateforme d'IA générative pour les entreprises qui aide votre équipe à créer une documentation vidéo 11 fois plus rapidement. | :white_check_mark: |
 | [mem](https://get.mem.ai/?ref=aicollection) | L'espace de travail auto-organisé. | Mem est le premier espace de travail au monde alimenté par l'IA qui vous est personnalisé. Amplifiez votre créativité, automatisez le banal et restez organisé automatiquement. | :white_check_mark: |
-| [timeMaster](https://www.timemaster.ai/?ref=aicollection) | Boostez votre concentration et votre productivité. | TimeMaster détecte automatiquement ce sur quoi vous travaillez, catégorise vos activités, balise les projets et écrit même des journaux de temps en votre nom. | :white_check_mark: |
 
 <!--End of Organisation & Automatisation 31-->
 
@@ -735,9 +735,20 @@
 | [Autoname](http://www.autoname.org?ref=aicollection) | Renommez tous vos calques en un clic. Merci à l'IA. Open source. | Renommer les cadres Figma en un clic, c'est à peu près tout. | :grey_question: |
 | [Merlin](http://merlin.foyer.work?ref=aicollection) | Merlin. | Extension gratuite alimentée par ChatGPT d'Open AI à utiliser n'importe où !. | :white_check_mark: |
 | [SplashAI](http://www.splashai.art?ref=aicollection) | SplashAI est un plugin Figma, un moteur de recherche et un générateur d'images AI. | . | :grey_question: |
-| [Voilà](https://www.getvoila.ai/?ref=aicollection) | Assistant ChatGPT personnel pour une productivité suralimentée. | Améliorez votre rédaction, obtenez des réponses à toutes vos questions, rédigez du contenu de haute qualité et répondez aux e-mails. Tout en un seul endroit. | :white_check_mark: |
 
 <!--End of Plugins et extensions 28-->
+
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+## Productivité Et Croissance Personnelle
+| Nom | Titre | Description | Offrir une version gratuite |
+|---|---|---|:---:|
+| [Chivvy](https://chivvy.app?ref=aicollection) | Application anti-procrastination alimentée par l'IA. | Chivvy utilise le renforcement négatif pour vous faire faire des choses. Crée une responsabilisation sur les réseaux sociaux. Vous permet de rester sur la bonne voie avec des invites intelligentes. Le tout propulsé par l'IA. | :white_check_mark: |
+| [Voilà](https://www.getvoila.ai/?ref=aicollection) | Assistant ChatGPT personnel pour une productivité suralimentée. | Améliorez votre rédaction, obtenez des réponses à toutes vos questions, rédigez du contenu de haute qualité et répondez aux e-mails. Tout en un seul endroit. | :white_check_mark: |
+| [timeMaster](https://www.timemaster.ai/?ref=aicollection) | Boostez votre concentration et votre productivité. | TimeMaster détecte automatiquement ce sur quoi vous travaillez, catégorise vos activités, balise les projets et écrit même des journaux de temps en votre nom. | :white_check_mark: |
+
+<!--End of Productivité et croissance personnelle 40-->
 
 <!--lint ignore double-link-->
 **[⬆ Retour à l'index](#index)**
