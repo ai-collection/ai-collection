@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=856" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=859" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=39" />
@@ -289,6 +289,7 @@
 | [Elephas](https://gumroad.com/a/411783379/ntmtp) | Elephas - 适用于 Mac、iPhone、iPad 的个人 AI 写作助手. | 每天节省数小时。世界上第一位跨 Mac、iPhone 和 iPad 工作的 AI 作家。. | :white_check_mark: |
 | [EssayBar](http://www.essay.bar?ref=aicollection) | EssayBar — 用 AI 制作的论文彻底改变您的写作！. | . | :grey_question: |
 | [FreewriteAI](http://freewriterai.com?ref=aicollection) | 适合所有人的AI写作工具. | . | :white_check_mark: |
+| [Instascribe](https://instascribe.app/) | Instascribe 是一款人工智能应用程序，可为您的 Instagram 照片创建个性化字幕. | 只需选择一张图片，从一系列字幕样式中挑选或定义您自己的样式，然后调整语调、语言和消息长度等选项。然后，该应用程序的 AI 会生成适合您的图像和偏好的独特说明，从而简化您的社交媒体发布过程。. | :grey_question: |
 | [Paragraph AI](http://paragraphai.com?ref=aicollection) | ParagraphAI • 最佳人工智能写作应用程序 • 免费人工智能写作助手工具. | . | :white_check_mark: |
 | [Paraphraser](http://paraphrasetool.com?ref=aicollection) | 所有语言的免费释义. | . | :white_check_mark: |
 | [Paraphraser AI](http://app.yaara.ai?ref=aicollection) | Yaara — AI 驱动的写作助手. | . | :grey_question: |
@@ -694,6 +695,7 @@
 | [GiftBot](http://www.getgift.help?ref=aicollection) | 获得礼物帮助. | 苦苦思索该为假期送什么礼物？ GiftBot 会向您提问以帮助推荐礼物创意！. | :white_check_mark: |
 | [GiftWizard](https://www.giftwizard.ai?ref=aicollection) | GiftWizard.ai - 人工智能驱动的礼品灵感. | GiftWizard是你未来的好帮手，在这里指导你获得最神奇的礼物. | :white_check_mark: |
 | [Giftastic AI](http://giftastic.ai?ref=aicollection) | Giftastic.ai - 送给特别的人的完美礼物！. | 适合各种场合的个性化礼物创意！. | :grey_question: |
+| [Kindred Tales](https://kindredtales.net/?ref=aicollection) | 帮助人们在精美的精装书中捕捉和保存生活故事的在线平台. | 对于任何想要创建回忆录但不知道从哪里开始或写作有困难的人。在人工智能的帮助下，用户可以轻松回答有关他们生活的问题，我们将把它变成一本专业设计的书，让他们世世代代珍藏。. | :x: |
 | [Lovelines](http://lovelines.xyz?ref=ai-collection) | Lovelines.xyz - 用 AI 制作的定制纪念品分享你的爱. | 使用针对社交媒体优化的 AI 为亲人创建定制纪念品。人工智能生成的诗歌、故事、信件和歌词。. | :x: |
 | [Text2present](http://text2present.com?ref=aicollection) | text2present.com - 来自忙碌人士的创意礼物。. | 允许您使用人工智能为您的朋友、家人和熟人创建创意定制礼物，而无需占用您宝贵的时间。只需输入您想送礼的文字说明，剩下的交给我们的人工智能. | :grey_question: |
 
@@ -899,6 +901,7 @@
 | [Zazow](http://www.zazow.com?ref=aicollection) | Zazow :: 算法生成艺术. | 使用计算机生成的算法创建您自己的艺术品。了解生成或算法艺术。. | :grey_question: |
 | [Zoomscape](http://zoomscape.ai?ref=aicollection) | Zoomscape.ai. | 使用 AI 创建令人惊叹的 Zoom 背景. | :grey_question: |
 | [artssy](https://www.artssy.co/?ref=aicollection) | 一键创建独特的 AI 生成图像。. | 借助 Artssy AI，您的创造力可以流动起来。一键创建无限图像，发现无限可能！. | :x: |
+| [caspa AI](https://www.caspa.ai/?ref=aicollection) | Caspa AI 是一个在几分钟内创建和自定义 AI 图像的平台. | 使用此免费工具释放 AI 支持的图像创建和编辑的潜力，为各种应用程序快速且经济高效地制作独特的视觉效果。. | :grey_question: |
 | [flair](http://flair.ai/?ref=aicollection) | 品牌内容的人工智能设计工具. | . | :white_check_mark: |
 
 <!--End of 艺术与图像生成器 15-->

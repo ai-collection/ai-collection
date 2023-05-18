@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=856" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=859" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=39" />
@@ -267,6 +267,7 @@
 | [GiftBot](http://www.getgift.help?ref=aicollection) | उपहार सहायता प्राप्त करें. | छुट्टियों के लिए किसी को क्या लाना है, यह पता लगाने के लिए संघर्ष कर रहे हैं? उपहार विचारों की अनुशंसा करने में सहायता के लिए गिफ्टबॉट आपसे प्रश्न पूछता है!. | :white_check_mark: |
 | [GiftWizard](https://www.giftwizard.ai?ref=aicollection) | GiftWizard.ai - एआई संचालित उपहार प्रेरणा. | गिफ्टविजार्ड भविष्य से आपका मित्रवत सहायक है, यहां आपको सबसे जादुई उपहार प्राप्त करने के लिए मार्गदर्शन करने के लिए. | :white_check_mark: |
 | [Giftastic AI](http://giftastic.ai?ref=aicollection) | गिफ्टस्टिक.आई - आपके खास के लिए बिल्कुल सही उपहार!. | हर अवसर के लिए निजीकृत उपहार विचार!. | :grey_question: |
+| [Kindred Tales](https://kindredtales.net/?ref=aicollection) | ऑनलाइन प्लेटफ़ॉर्म जो लोगों को एक सुंदर हार्डकवर पुस्तक में उनकी जीवन कहानियों को पकड़ने और संरक्षित करने में मदद करता है. | किसी के लिए भी जो एक संस्मरण बनाना चाहता है लेकिन यह नहीं जानता कि कहां से शुरू करें या लिखने में कठिनाई हो। एआई की मदद से, उपयोगकर्ता आसानी से अपने जीवन के बारे में सवालों के जवाब दे सकते हैं, और हम इसे पेशेवर रूप से डिज़ाइन की गई किताब में बदल देंगे, जिसे वे आने वाली पीढ़ियों के लिए संजो सकते हैं।. | :x: |
 | [Lovelines](http://lovelines.xyz?ref=ai-collection) | Lovelines.Xyz - एआई द्वारा बनाए गए कस्टम उपहारों के साथ अपना प्यार साझा करें. | सोशल मीडिया के लिए अनुकूलित AI का उपयोग करके किसी प्रियजन के लिए कस्टम उपहार बनाएं। एआई-जनित कविताएँ, कहानियाँ, पत्र और गीत के बोल।. | :x: |
 | [Text2present](http://text2present.com?ref=aicollection) | Text2Present.Com - व्यस्त लोगों की ओर से रचनात्मक उपहार।. | आपको अपना कीमती समय बर्बाद किए बिना अपने दोस्तों, परिवार और परिचितों के लिए कृत्रिम बुद्धिमत्ता का उपयोग करके रचनात्मक अनुकूलित उपहार बनाने की अनुमति देता है। बस आप जो उपहार देना चाहते हैं उसका टेक्स्ट विवरण दर्ज करें और बाकी काम हमारी आर्टिफिशियल इंटेलिजेंस को करने दें. | :grey_question: |
 
@@ -384,6 +385,7 @@
 | [Zazow](http://www.zazow.com?ref=aicollection) | ज़ाज़ो :: एल्गोरिथम जनरेटिव आर्ट. | कंप्यूटर जनित एल्गोरिदम का उपयोग करके अपनी स्वयं की कलाकृति बनाएँ। जनरेटिव या एल्गोरिथम कला के बारे में जानें।. | :grey_question: |
 | [Zoomscape](http://zoomscape.ai?ref=aicollection) | जूमस्केप.आई. | एआई के साथ शानदार ज़ूम बैकग्राउंड बनाएं. | :grey_question: |
 | [artssy](https://www.artssy.co/?ref=aicollection) | 1-क्लिक में अद्वितीय AI जनित छवियां बनाएं।. | Artssy AI के साथ, आपकी रचनात्मकता प्रवाहित हो सकती है। 1 क्लिक में असीमित छवियां बनाएं और संभावनाओं की दुनिया की खोज करें!. | :x: |
+| [caspa AI](https://www.caspa.ai/?ref=aicollection) | कैस्पा एआई मिनटों में एआई छवियों को बनाने और अनुकूलित करने का एक मंच है. | इस मुफ्त टूल के साथ एआई-संचालित छवि निर्माण और संपादन की क्षमता को अनलॉक करें, विभिन्न अनुप्रयोगों के लिए जल्दी और लागत प्रभावी रूप से अद्वितीय दृश्य तैयार करें।. | :grey_question: |
 | [flair](http://flair.ai/?ref=aicollection) | ब्रांडेड सामग्री के लिए AI डिज़ाइन टूल. | . | :white_check_mark: |
 
 <!--End of कला और छवि जनरेटर 15-->
@@ -741,6 +743,7 @@
 | [Elephas](https://gumroad.com/a/411783379/ntmtp) | एलिफस - मैक, आईफोन, आईपैड के लिए पर्सनल एआई राइटिंग असिस्टेंट. | प्रतिदिन घंटे बचाएं। दुनिया का पहला एआई लेखक जो आपके मैक, आईफोन और आईपैड पर काम करता है।. | :white_check_mark: |
 | [EssayBar](http://www.essay.bar?ref=aicollection) | Essaybar - एआई-क्राफ्टेड निबंधों के साथ अपने लेखन में क्रांतिकारी बदलाव करें!. | . | :grey_question: |
 | [FreewriteAI](http://freewriterai.com?ref=aicollection) | सभी के लिए एआई लेखन उपकरण. | . | :white_check_mark: |
+| [Instascribe](https://instascribe.app/) | Instascribe एक AI-संचालित ऐप है जो आपके Instagram फ़ोटो के लिए वैयक्तिकृत कैप्शन बनाता है. | बस एक छवि का चयन करें, कैप्शन शैलियों की एक सरणी से चुनें या अपनी खुद की परिभाषित करें, और स्वर, भाषा और संदेश की लंबाई जैसे विकल्पों को समायोजित करें। ऐप का एआई तब एक अद्वितीय कैप्शन उत्पन्न करता है जो आपकी छवि और वरीयताओं के अनुरूप होता है, जो आपकी सोशल मीडिया पोस्टिंग प्रक्रिया को सुव्यवस्थित करता है।. | :grey_question: |
 | [Paragraph AI](http://paragraphai.com?ref=aicollection) | Paragraphai • सर्वश्रेष्ठ AI लेखन ऐप • निःशुल्क AI लेखन सहायक उपकरण. | . | :white_check_mark: |
 | [Paraphraser](http://paraphrasetool.com?ref=aicollection) | सभी भाषाओं के लिए नि:शुल्क भावानुवाद. | . | :white_check_mark: |
 | [Paraphraser AI](http://app.yaara.ai?ref=aicollection) | यारा - एआई-पावर्ड राइटिंग असिस्टेंट. | . | :grey_question: |

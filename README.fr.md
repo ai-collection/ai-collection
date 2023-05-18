@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=856" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=859" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=39" />
@@ -258,6 +258,7 @@
 | [Elephas](https://gumroad.com/a/411783379/ntmtp) | Elephas - Assistant personnel d'écriture IA pour Mac, iPhone, iPad. | Gagnez des heures chaque jour. Le premier rédacteur IA au monde qui fonctionne sur votre Mac, iPhone et iPad. | :white_check_mark: |
 | [EssayBar](http://www.essay.bar?ref=aicollection) | EssayBar - Révolutionnez votre écriture avec des essais créés par l'IA !. | . | :grey_question: |
 | [FreewriteAI](http://freewriterai.com?ref=aicollection) | L'outil d'écriture IA pour tous. | . | :white_check_mark: |
+| [Instascribe](https://instascribe.app/) | Instascribe est une application basée sur l'IA qui crée des légendes personnalisées pour vos photos Instagram. | Sélectionnez simplement une image, choisissez parmi une gamme de styles de légende ou définissez le vôtre, et ajustez les options telles que le ton de la voix, la langue et la longueur du message. L'IA de l'application génère ensuite une légende unique qui correspond à votre image et à vos préférences, rationalisant ainsi votre processus de publication sur les réseaux sociaux. | :grey_question: |
 | [Paragraph AI](http://paragraphai.com?ref=aicollection) | ParagraphAI • Meilleure application d'écriture d'IA • Outil gratuit d'assistant d'écriture d'IA. | . | :white_check_mark: |
 | [Paraphraser](http://paraphrasetool.com?ref=aicollection) | Paraphrase gratuite pour toutes les langues. | . | :white_check_mark: |
 | [Paraphraser AI](http://app.yaara.ai?ref=aicollection) | Yaara - Assistant d'écriture alimenté par l'IA. | . | :grey_question: |
@@ -520,6 +521,7 @@
 | [Zazow](http://www.zazow.com?ref=aicollection) | Zazow :: Art génératif algorithmique. | Créez vos propres illustrations en utilisant des algorithmes générés par ordinateur. En savoir plus sur l'art génératif ou algorithmique. | :grey_question: |
 | [Zoomscape](http://zoomscape.ai?ref=aicollection) | Zoomscape.ai. | Créez de superbes arrière-plans Zoom avec l'IA. | :grey_question: |
 | [artssy](https://www.artssy.co/?ref=aicollection) | Créez des images uniques générées par l'IA en 1 clic. | Avec Artssy AI, votre créativité peut s'exprimer. Créez un nombre illimité d'images en 1 clic et découvrez un monde de possibilités !. | :x: |
+| [caspa AI](https://www.caspa.ai/?ref=aicollection) | Caspa AI est une plate-forme pour créer et personnaliser des images d'IA en quelques minutes. | Libérez le potentiel de la création et de l'édition d'images alimentées par l'IA avec cet outil gratuit, produisant des visuels uniques rapidement et à moindre coût pour diverses applications. | :grey_question: |
 | [flair](http://flair.ai/?ref=aicollection) | L'outil de conception Ai pour le contenu de marque. | . | :white_check_mark: |
 
 <!--End of Générateur d'art et d'images 15-->
@@ -600,6 +602,7 @@
 | [GiftBot](http://www.getgift.help?ref=aicollection) | Obtenir de l'aide pour les cadeaux. | Vous avez du mal à trouver quoi offrir à quelqu'un pour les vacances ? GiftBot vous pose des questions pour vous recommander des idées de cadeaux !. | :white_check_mark: |
 | [GiftWizard](https://www.giftwizard.ai?ref=aicollection) | GiftWizard.ai - Inspiration de cadeaux alimentée par l'IA. | GiftWizard est votre aide amicale du futur, ici pour vous guider à travers l'obtention du cadeau le plus magique. | :white_check_mark: |
 | [Giftastic AI](http://giftastic.ai?ref=aicollection) | Giftastic.ai - Cadeau parfait pour votre être cher !. | Des idées cadeaux personnalisées pour chaque occasion !. | :grey_question: |
+| [Kindred Tales](https://kindredtales.net/?ref=aicollection) | Plate-forme en ligne qui aide les gens à capturer et à préserver leurs histoires de vie dans un magnifique livre à couverture rigide. | Pour tous ceux qui veulent créer un mémoire mais ne savent pas par où commencer ou ont des difficultés à écrire. Avec l'aide de l'IA, les utilisateurs peuvent facilement répondre à des questions sur leur vie, et nous en ferons un livre conçu par des professionnels qu'ils pourront chérir pour les générations à venir. | :x: |
 | [Lovelines](http://lovelines.xyz?ref=ai-collection) | Lovelines.xyz - Partagez votre amour avec des souvenirs personnalisés fabriqués par AI. | Créez des souvenirs personnalisés pour un être cher à l'aide de l'IA optimisée pour les médias sociaux. Poèmes, histoires, lettres et paroles de chansons générés par l'IA. | :x: |
 | [Text2present](http://text2present.com?ref=aicollection) | text2present.com - Cadeaux créatifs de personnes occupées. | Vous permet de créer des cadeaux personnalisés créatifs en utilisant l'intelligence artificielle pour vos amis, votre famille et vos connaissances sans prendre votre temps précieux. Entrez simplement une description textuelle de ce que vous voulez offrir et laissez notre intelligence artificielle faire le reste. | :grey_question: |
 
