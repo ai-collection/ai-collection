@@ -788,6 +788,7 @@ Translations:
 | [STORYD](https://www.storyd.ai?ref=aicollection) | Data Presentations Leaders Love. | Helps professionals quickly and easily create data-driven business presentations. | :white_check_mark: |
 | [SlidesAI](https://www.slidesai.io/?ref=aicollection) | Create Presentation Slides With AI in Seconds. | Say goodbye to tedious, manual slides creation. Let the AI write the outline and presentation content for you. With our tool, you can easily create professional, engaging slides from any text in no time. | :white_check_mark: |
 | [Tome](http://beta.tome.app?ref=aicollection) | Generative Storytelling Has Arrived. | Unlock your best work with Tome's AI-powered storytelling format. | :white_check_mark: |
+| [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides) | Create AI-powered presentations in Google Slides. | Build presentations in minutes with Plus AI. Starting with a blank deck is one of the most challenging parts of building a presentation. Plus AI helps you create an outline, build a first draft, and suggest additional edits to your slides. | :white_check_mark: |
 
 <!--End of Slides & Presentations 38-->
 
