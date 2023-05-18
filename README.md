@@ -23,10 +23,10 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=859" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=860" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=39" />
+    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=40" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -663,7 +663,6 @@ Translations:
 | [bardeen](https://www.bardeen.ai/ai?ref=aicollection) | AI Meets Automations. | Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity. | :grey_question: |
 | [guidde](https://www.guidde.com/?ref=aicollection) | Magically Create Stunning Training Meterial, Feature Notes, SOPs, Onboarding Guides, How-to Guides, FAQs With AI. | guidde is the generative AI platform for business that helps your team create video documentation 11x faster. | :white_check_mark: |
 | [mem](https://get.mem.ai/?ref=aicollection) | The Self-Organizing Workspace. | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically. | :white_check_mark: |
-| [timeMaster](https://www.timemaster.ai/?ref=aicollection) | Supercharge Your Focus and Productivity. | TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf. | :white_check_mark: |
 
 <!--End of Organization & Automation 31-->
 
@@ -712,7 +711,6 @@ Translations:
 | [Autoname](http://www.autoname.org?ref=aicollection) | Rename All Your Layers in One Click. Thanks to Ai. Open Source. | Rename Figma frames in one click, that's pretty much it. | :grey_question: |
 | [Merlin](http://merlin.foyer.work?ref=aicollection) | Merlin. | Free Open AIs ChatGPT powered extension to use anywhere!. | :white_check_mark: |
 | [SplashAI](http://www.splashai.art?ref=aicollection) | Splashai Is a Figma Plugin, Search Engine and AI Image Generator. | . | :grey_question: |
-| [Voilà](https://www.getvoila.ai/?ref=aicollection) | Personal ChatGPT Assistant for Supercharged Productivity. | Improve your writing, get answers to all your questions, draft high-quality content and respond to emails. All in one place. | :white_check_mark: |
 
 <!--End of Plugins & Extensions 28-->
 
@@ -722,9 +720,11 @@ Translations:
 ## Productivity & Personal Growth
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [Chivvy](https://chivvy.app) | AI powered anti-procrastination app. | Chivvy uses negative reinforcement to get you to do things. Creates accountability on social media. Keeps you on track with smart prompts. All powered by AI. | :white_check_mark: |
+| [Chivvy](https://chivvy.app?ref=aicollection) | AI Powered Anti-Procrastination App. | Chivvy uses negative reinforcement to get you to do things. Creates accountability on social media. Keeps you on track with smart prompts. All powered by AI. | :white_check_mark: |
+| [Voilà](https://www.getvoila.ai/?ref=aicollection) | Personal ChatGPT Assistant for Supercharged Productivity. | Improve your writing, get answers to all your questions, draft high-quality content and respond to emails. All in one place. | :white_check_mark: |
+| [timeMaster](https://www.timemaster.ai/?ref=aicollection) | Supercharge Your Focus and Productivity. | TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf. | :white_check_mark: |
 
-<!--End of Productivity & Personal Growth 29-->
+<!--End of Productivity & Personal Growth 40-->
 
 <!--lint ignore double-link-->
 **[⬆ Back to Index](#index)**

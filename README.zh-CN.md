@@ -23,10 +23,10 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=859" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=860" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=39" />
+    <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=40" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -110,6 +110,7 @@
 - 👩‍🎤 [时尚](#时尚)
 - 📢 [演讲](#演讲)
 - 📸 [照片和图像编辑](#照片和图像编辑)
+- 🚀 [生产力与个人成长](#生产力与个人成长)
 - 📧 [电子邮件助理](#电子邮件助理)
 - 🎓 [研究助理](#研究助理)
 - 🎁💡 [礼物创意](#礼物创意)
@@ -470,7 +471,6 @@
 | [Autoname](http://www.autoname.org?ref=aicollection) | 一键重命名所有图层。感谢人工智能。开源. | 一键重命名 Figma 框架，仅此而已。. | :grey_question: |
 | [Merlin](http://merlin.foyer.work?ref=aicollection) | 梅林. | 免费的 Open AI 的 ChatGPT 支持扩展，可在任何地方使用！. | :white_check_mark: |
 | [SplashAI](http://www.splashai.art?ref=aicollection) | SplashAI 是一个 Figma 插件、搜索引擎和 AI 图像生成器。. | . | :grey_question: |
-| [Voilà](https://www.getvoila.ai/?ref=aicollection) | 用于提高生产力的个人聊天 GPT 助手. | 改进您的写作，获得所有问题的答案，起草高质量的内容并回复电子邮件。都在一个地方。. | :white_check_mark: |
 
 <!--End of 插件和扩展 28-->
 
@@ -651,6 +651,18 @@
 <!--lint ignore double-link-->
 **[⬆ 返回索引](#index)**
 
+## 生产力与个人成长
+| 姓名 | 标题 | 描述 | 提供免费版本 |
+|---|---|---|:---:|
+| [Chivvy](https://chivvy.app?ref=aicollection) | 人工智能驱动的反拖延应用程序. | Chivvy 使用负强化来让你做事。在社交媒体上建立问责制。通过智能提示让您走上正轨。全部由人工智能驱动. | :white_check_mark: |
+| [Voilà](https://www.getvoila.ai/?ref=aicollection) | 用于提高生产力的个人聊天 GPT 助手. | 改进您的写作，获得所有问题的答案，起草高质量的内容并回复电子邮件。都在一个地方。. | :white_check_mark: |
+| [timeMaster](https://www.timemaster.ai/?ref=aicollection) | 增强您的注意力和工作效率. | TimeMaster 会自动检测您的工作、对您的活动进行分类、标记项目，甚至代表您编写时间日志。. | :white_check_mark: |
+
+<!--End of 生产力与个人成长 40-->
+
+<!--lint ignore double-link-->
+**[⬆ 返回索引](#index)**
+
 ## 电子邮件助理
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
@@ -740,7 +752,6 @@
 | [bardeen](https://www.bardeen.ai/ai?ref=aicollection) | 人工智能遇见自动化. | 即将于 2023 年推出 – Bardeen 将引入突破性的 AI 来自动化手动工作流程，节省您的时间并激发您的创造力。. | :grey_question: |
 | [guidde](https://www.guidde.com/?ref=aicollection) | 神奇地创建令人惊叹的培训材料、功能说明、SOP、入职指南、操作指南、AI 常见问题解答。. | guidde 是用于业务的生成式 AI 平台，可帮助您的团队将创建视频文档的速度提高 11 倍。. | :white_check_mark: |
 | [mem](https://get.mem.ai/?ref=aicollection) | 自组织工作空间. | Mem 是世界上第一个由人工智能驱动的个性化工作空间。放大您的创造力，使平凡的事情自动化，并自动保持井井有条。. | :white_check_mark: |
-| [timeMaster](https://www.timemaster.ai/?ref=aicollection) | 增强您的注意力和工作效率. | TimeMaster 会自动检测您的工作、对您的活动进行分类、标记项目，甚至代表您编写时间日志。. | :white_check_mark: |
 
 <!--End of 组织与自动化 31-->
 
