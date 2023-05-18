@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=854" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=856" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=39" />
@@ -402,6 +402,7 @@
 |---|---|---|:---:|
 | [ChatBA](https://www.chatba.com/?ref=aicollection) | ChatBCG : IA générative pour les diapositives. | Créez instantanément des diaporamas à l'aide de ChatBCG. | :grey_question: |
 | [Glimmer AI](https://glimmerai.tech?ref=aicollection) | Magie de présentation alimentée par l'IA. | Glimmer AI utilise GPT-3 et DALL-E 2 pour créer facilement et rapidement des présentations de qualité professionnelle à l'aide de commandes textuelles ou vocales. | :white_check_mark: |
+| [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides?ref=aicollection) | Créez des présentations alimentées par l'IA dans Google Slides. | Créez des présentations en quelques minutes avec Plus AI. Commencer avec un jeu vierge est l'une des parties les plus difficiles de la construction d'une présentation. De plus, l'IA vous aide à créer un plan, à créer un premier brouillon et à suggérer des modifications supplémentaires à vos diapositives. | :white_check_mark: |
 | [STORYD](https://www.storyd.ai?ref=aicollection) | Présentations de données que les leaders adorent. | Aide les professionnels à créer rapidement et facilement des présentations professionnelles basées sur les données. | :white_check_mark: |
 | [SlidesAI](https://www.slidesai.io/?ref=aicollection) | Créez des diapositives de présentation avec l'IA en quelques secondes. | Dites adieu à la création manuelle fastidieuse de diapositives. Laissez l'IA écrire le plan et le contenu de la présentation pour vous. Avec notre outil, vous pouvez facilement créer des diapositives professionnelles et attrayantes à partir de n'importe quel texte en un rien de temps. | :white_check_mark: |
 | [Tome](http://beta.tome.app?ref=aicollection) | La narration générative est arrivée. | Libérez votre meilleur travail avec le format de narration alimenté par l'IA de Tome. | :white_check_mark: |
@@ -703,6 +704,7 @@
 | [Nekton.ai](https://nekton.ai/?ref=aicollection) | Automatisez vos workflows avec l'IA. | Automatisez les processus de routine pour vous et votre équipe sans avoir besoin de coder ou de maintenir l'infrastructure. | :white_check_mark: |
 | [Product Launch AI](https://shapenship.com/productlaunchai?ref=aicollection) | Libérez la puissance de l'IA pour booster vos lancements de produits. | Décollez pour un super lancement sans vous soucier de la copie de lancement !. | :grey_question: |
 | [bardeen](https://www.bardeen.ai/ai?ref=aicollection) | L'IA rencontre les automatisations. | À venir en 2023 - Bardeen introduit une IA révolutionnaire pour automatiser les flux de travail manuels, vous faire gagner du temps et renforcer votre créativité. | :grey_question: |
+| [guidde](https://www.guidde.com/?ref=aicollection) | Créez magiquement de superbes supports de formation, des notes de fonctionnalités, des SOP, des guides d'intégration, des guides pratiques, des FAQ avec l'IA. | guidde est la plateforme d'IA générative pour les entreprises qui aide votre équipe à créer une documentation vidéo 11 fois plus rapidement. | :white_check_mark: |
 | [mem](https://get.mem.ai/?ref=aicollection) | L'espace de travail auto-organisé. | Mem est le premier espace de travail au monde alimenté par l'IA qui vous est personnalisé. Amplifiez votre créativité, automatisez le banal et restez organisé automatiquement. | :white_check_mark: |
 | [timeMaster](https://www.timemaster.ai/?ref=aicollection) | Boostez votre concentration et votre productivité. | TimeMaster détecte automatiquement ce sur quoi vous travaillez, catégorise vos activités, balise les projets et écrit même des journaux de temps en votre nom. | :white_check_mark: |
 
@@ -845,7 +847,7 @@
 | Nom | Titre | Description | Offrir une version gratuite |
 |---|---|---|:---:|
 | [Bookclub](http://www.bookclub.ai?ref=aicollection) | Bookclub.ai - Rencontrez votre prochain livre. | . | :grey_question: |
-| [ChatGPT Writer](http://chatgptwriter.ai?ref=aicollection) | . | . | :grey_question: |
+| [ChatGPT Writer](http://chatgptwriter.ai?ref=aicollection) | Extension Chrome ChatGPT Writer. | Rédigez des e-mails et des messages, corrigez les erreurs de grammaire, reformulez le texte, modifiez le ton d'écriture, résumez le texte et bien plus encore à l'aide de ChatGPT AI. Fonctionne sur tous les sites. Libre d'utilisation. | :white_check_mark: |
 | [Childbook](http://www.childbook.ai?ref=aicollection) | Bienvenue au créateur de livres pour enfants !. | Votre livre sera personnalisé avec des personnages, des images et une histoire. L'histoire et les illustrations ont également une fonction de synthèse vocale et peuvent être écoutées. | :grey_question: |
 | [Cover Letter AI](http://coverletter-ai.com?ref=aicollection) | Lettre de motivation IA. | L'outil ultime pour rédiger la lettre de motivation parfaite. | :grey_question: |
 | [Coverletterwrite](http://coverletterwrite.com?ref=aicollection) | Lettre de motivation Ecrire. | Demandez à AI d'écrire une lettre de motivation personnalisée. | :grey_question: |

@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=854" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=856" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=39" />
@@ -676,7 +676,7 @@
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
 | [Bookclub](http://www.bookclub.ai?ref=aicollection) | Bookclub.Ai - मिलिए योर नेक्स्ट बुक. | . | :grey_question: |
-| [ChatGPT Writer](http://chatgptwriter.ai?ref=aicollection) | . | . | :grey_question: |
+| [ChatGPT Writer](http://chatgptwriter.ai?ref=aicollection) | चैटजीपीटी राइटर क्रोम एक्सटेंशन. | ChatGPT AI का उपयोग करके ईमेल और संदेश लिखें, व्याकरण की गलतियों को ठीक करें, टेक्स्ट को रीफ़्रेज़ करें, राइटिंग टोन बदलें, टेक्स्ट को सारांशित करें, और भी बहुत कुछ। सभी साइटों पर काम करता है। उपयोग करने के लिए नि: शुल्क।. | :white_check_mark: |
 | [Childbook](http://www.childbook.ai?ref=aicollection) | चिल्ड्रन्स बुक क्रिएटर में आपका स्वागत है!. | आपकी पुस्तक पात्रों, चित्रों और कहानी के साथ वैयक्तिकृत होगी। कहानी और चित्रों में टेक्स्ट-टू-स्पीच फीचर भी है और इसे सुना जा सकता है।. | :grey_question: |
 | [Cover Letter AI](http://coverletter-ai.com?ref=aicollection) | कवर लेटर एआई. | सही कवर लेटर तैयार करने के लिए परम उपकरण. | :grey_question: |
 | [Coverletterwrite](http://coverletterwrite.com?ref=aicollection) | कवर लेटर लिखें. | एआई से एक व्यक्तिगत कवर लेटर लिखने के लिए कहें।. | :grey_question: |
@@ -876,6 +876,7 @@
 | [Nekton.ai](https://nekton.ai/?ref=aicollection) | एआई के साथ अपने वर्कफ़्लोज़ को स्वचालित करें. | बुनियादी ढांचे को कोड या बनाए रखने की आवश्यकता के बिना अपने और अपनी टीम के लिए नियमित प्रक्रियाओं को स्वचालित करें।. | :white_check_mark: |
 | [Product Launch AI](https://shapenship.com/productlaunchai?ref=aicollection) | लॉन्च किए गए अपने उत्पाद को सुपरचार्ज करने के लिए एआई की शक्ति का प्रयोग करें. | लॉन्च कॉपी की चिंता किए बिना शानदार लॉन्च के लिए ब्लास्ट करें!. | :grey_question: |
 | [bardeen](https://www.bardeen.ai/ai?ref=aicollection) | एआई ऑटोमेशन से मिलता है. | 2023 में आ रहा है - बारडीन मैनुअल वर्कफ्लो को स्वचालित करने, आपका समय बचाने और आपकी रचनात्मकता को सशक्त बनाने के लिए ब्रेकथ्रू एआई पेश कर रहा है।. | :grey_question: |
+| [guidde](https://www.guidde.com/?ref=aicollection) | जादुई रूप से आश्चर्यजनक प्रशिक्षण मीटरियल, फीचर नोट्स, एसओपी, ऑनबोर्डिंग गाइड, हाउ-टू गाइड, एआई के साथ अक्सर पूछे जाने वाले प्रश्न बनाएं।. | guidde व्यवसाय के लिए जनरेटिव AI प्लेटफ़ॉर्म है जो आपकी टीम को 11 गुना तेज़ी से वीडियो दस्तावेज़ बनाने में मदद करता है।. | :white_check_mark: |
 | [mem](https://get.mem.ai/?ref=aicollection) | स्व-आयोजन कार्यक्षेत्र. | मेम दुनिया का पहला एआई-संचालित कार्यक्षेत्र है जो आपके लिए वैयक्तिकृत है। अपनी रचनात्मकता को बढ़ाएँ, सांसारिक को स्वचालित करें, और स्वचालित रूप से व्यवस्थित रहें।. | :white_check_mark: |
 | [timeMaster](https://www.timemaster.ai/?ref=aicollection) | अपने फोकस और उत्पादकता को सुपरचार्ज करें. | TimeMaster स्वचालित रूप से पता लगाता है कि आप किस पर काम कर रहे हैं, आपकी गतिविधियों को वर्गीकृत करता है, परियोजनाओं को टैग करता है, और आपकी ओर से समय लॉग भी लिखता है।. | :white_check_mark: |
 
@@ -997,6 +998,7 @@
 |---|---|---|:---:|
 | [ChatBA](https://www.chatba.com/?ref=aicollection) | Chatbcg: स्लाइड के लिए जनरेटिव AI. | चैटबीसीजी का उपयोग करके तुरंत स्लाइड डेक बनाएं. | :grey_question: |
 | [Glimmer AI](https://glimmerai.tech?ref=aicollection) | एआई-पावर्ड प्रेजेंटेशन मैजिक. | Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट या वॉयस कमांड का उपयोग करके पेशेवर-गुणवत्ता की प्रस्तुतियों को आसान और तेज़ बनाने के लिए करता है. | :white_check_mark: |
+| [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides?ref=aicollection) | Google स्लाइड में AI-संचालित प्रस्तुतियाँ बनाएँ।. | प्लस एआई के साथ मिनटों में प्रस्तुतिकरण बनाएं। एक खाली डेक से शुरू करना प्रस्तुति बनाने के सबसे चुनौतीपूर्ण हिस्सों में से एक है। प्लस एआई आपको एक रूपरेखा बनाने, पहला मसौदा बनाने और अपनी स्लाइड्स में अतिरिक्त संपादन का सुझाव देने में मदद करता है. | :white_check_mark: |
 | [STORYD](https://www.storyd.ai?ref=aicollection) | डेटा प्रेजेंटेशन लीडर्स लव. | डेटा-संचालित व्यावसायिक प्रस्तुतियों को जल्दी और आसानी से बनाने में पेशेवरों की मदद करता है।. | :white_check_mark: |
 | [SlidesAI](https://www.slidesai.io/?ref=aicollection) | सेकंड में एआई के साथ प्रेजेंटेशन स्लाइड बनाएं. | थकाऊ, मैन्युअल स्लाइड निर्माण को अलविदा कहें। एआई को आपके लिए रूपरेखा और प्रस्तुति सामग्री लिखने दें। हमारे टूल से, आप बहुत ही कम समय में किसी भी टेक्स्ट से आसानी से पेशेवर, आकर्षक स्लाइड बना सकते हैं।. | :white_check_mark: |
 | [Tome](http://beta.tome.app?ref=aicollection) | जनरेटिव स्टोरीटेलिंग आ गई है।. | टोम के एआई-संचालित कहानी कहने के प्रारूप के साथ अपने सर्वश्रेष्ठ काम को अनलॉक करें।. | :white_check_mark: |

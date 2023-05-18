@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=854" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=856" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=39" />
@@ -423,6 +423,7 @@
 |---|---|---|:---:|
 | [ChatBA](https://www.chatba.com/?ref=aicollection) | ChatBCG：幻灯片的生成人工智能. | 使用 ChatBCG 即时创建幻灯片. | :grey_question: |
 | [Glimmer AI](https://glimmerai.tech?ref=aicollection) | 人工智能驱动的演示魔术. | Glimmer AI 使用 GPT-3 和 DALL-E 2 使用文本或语音命令轻松快速地创建专业品质的演示文稿. | :white_check_mark: |
+| [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides?ref=aicollection) | 在 Google 幻灯片中创建 AI 驱动的演示文稿。. | 使用 Plus AI 在几分钟内构建演示文稿。从一张白纸开始是构建演示文稿最具挑战性的部分之一。 Plus AI 可帮助您创建大纲、制作初稿并建议对幻灯片进行其他修改. | :white_check_mark: |
 | [STORYD](https://www.storyd.ai?ref=aicollection) | 领导者喜爱的数据演示. | 帮助专业人士快速轻松地创建数据驱动的业务演示文稿。. | :white_check_mark: |
 | [SlidesAI](https://www.slidesai.io/?ref=aicollection) | 使用 AI 在几秒钟内创建演示幻灯片. | 告别繁琐的手动幻灯片创建。让 AI 为您编写大纲和演示内容。使用我们的工具，您可以立即从任何文本轻松创建专业、引人入胜的幻灯片。. | :white_check_mark: |
 | [Tome](http://beta.tome.app?ref=aicollection) | 生成式讲故事已经到来。. | 使用 Tome 的 AI 驱动的讲故事格式解锁您的最佳作品。. | :white_check_mark: |
@@ -538,7 +539,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [Bookclub](http://www.bookclub.ai?ref=aicollection) | Bookclub.ai - 遇见你的下一本书. | . | :grey_question: |
-| [ChatGPT Writer](http://chatgptwriter.ai?ref=aicollection) | . | . | :grey_question: |
+| [ChatGPT Writer](http://chatgptwriter.ai?ref=aicollection) | ChatGPT Writer Chrome 扩展程序. | 使用 ChatGPT AI 编写电子邮件和消息、修正语法错误、改写文本、改变写作语气、总结文本等等。适用于所有站点。免费使用。. | :white_check_mark: |
 | [Childbook](http://www.childbook.ai?ref=aicollection) | 欢迎来到儿童图书创作者！. | 您的书将通过人物、图片和故事进行个性化设置。故事和插图还具有文本转语音功能，可以收听。. | :grey_question: |
 | [Cover Letter AI](http://coverletter-ai.com?ref=aicollection) | 求职信人工智能. | 制作完美求职信的终极工具. | :grey_question: |
 | [Coverletterwrite](http://coverletterwrite.com?ref=aicollection) | 求职信写. | 让 AI 写一封个性化的求职信。. | :grey_question: |
@@ -735,6 +736,7 @@
 | [Nekton.ai](https://nekton.ai/?ref=aicollection) | 使用 AI 自动化您的工作流程. | 无需编写代码或维护基础架构，即可为您和您的团队自动化日常流程。. | :white_check_mark: |
 | [Product Launch AI](https://shapenship.com/productlaunchai?ref=aicollection) | 释放 AI 的力量来加速您的产品发布. | 无需担心发布文案就可以进行出色的发布！. | :grey_question: |
 | [bardeen](https://www.bardeen.ai/ai?ref=aicollection) | 人工智能遇见自动化. | 即将于 2023 年推出 – Bardeen 将引入突破性的 AI 来自动化手动工作流程，节省您的时间并激发您的创造力。. | :grey_question: |
+| [guidde](https://www.guidde.com/?ref=aicollection) | 神奇地创建令人惊叹的培训材料、功能说明、SOP、入职指南、操作指南、AI 常见问题解答。. | guidde 是用于业务的生成式 AI 平台，可帮助您的团队将创建视频文档的速度提高 11 倍。. | :white_check_mark: |
 | [mem](https://get.mem.ai/?ref=aicollection) | 自组织工作空间. | Mem 是世界上第一个由人工智能驱动的个性化工作空间。放大您的创造力，使平凡的事情自动化，并自动保持井井有条。. | :white_check_mark: |
 | [timeMaster](https://www.timemaster.ai/?ref=aicollection) | 增强您的注意力和工作效率. | TimeMaster 会自动检测您的工作、对您的活动进行分类、标记项目，甚至代表您编写时间日志。. | :white_check_mark: |
 

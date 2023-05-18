@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=854" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=856" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=39" />
@@ -658,6 +658,7 @@ Translations:
 | [Nekton.ai](https://nekton.ai/?ref=aicollection) | Automate Your Workflows With AI. | Automate the routine processes for yourself and your team without needing to code or maintain infrastructure. | :white_check_mark: |
 | [Product Launch AI](https://shapenship.com/productlaunchai?ref=aicollection) | Unleash the Power of AI to Supercharge Your Product Launches. | Blast off to a great launch without worrying about launch copy!. | :grey_question: |
 | [bardeen](https://www.bardeen.ai/ai?ref=aicollection) | AI Meets Automations. | Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity. | :grey_question: |
+| [guidde](https://www.guidde.com/?ref=aicollection) | Magically Create Stunning Training Meterial, Feature Notes, SOPs, Onboarding Guides, How-to Guides, FAQs With AI. | guidde is the generative AI platform for business that helps your team create video documentation 11x faster. | :white_check_mark: |
 | [mem](https://get.mem.ai/?ref=aicollection) | The Self-Organizing Workspace. | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically. | :white_check_mark: |
 | [timeMaster](https://www.timemaster.ai/?ref=aicollection) | Supercharge Your Focus and Productivity. | TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf. | :white_check_mark: |
 
@@ -785,10 +786,10 @@ Translations:
 |---|---|---|:---:|
 | [ChatBA](https://www.chatba.com/?ref=aicollection) | Chatbcg: Generative AI for Slides. | Instantly create slide decks using ChatBCG. | :grey_question: |
 | [Glimmer AI](https://glimmerai.tech?ref=aicollection) | AI-Powered Presentation Magic. | Glimmer AI uses GPT-3 and DALL-E 2 to make creating professional-quality presentations easy and fast using text or voice commands. | :white_check_mark: |
+| [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides?ref=aicollection) | Create AI-powered Presentations in Google Slides. | Build presentations in minutes with Plus AI. Starting with a blank deck is one of the most challenging parts of building a presentation. Plus AI helps you create an outline, build a first draft, and suggest additional edits to your slides. | :white_check_mark: |
 | [STORYD](https://www.storyd.ai?ref=aicollection) | Data Presentations Leaders Love. | Helps professionals quickly and easily create data-driven business presentations. | :white_check_mark: |
 | [SlidesAI](https://www.slidesai.io/?ref=aicollection) | Create Presentation Slides With AI in Seconds. | Say goodbye to tedious, manual slides creation. Let the AI write the outline and presentation content for you. With our tool, you can easily create professional, engaging slides from any text in no time. | :white_check_mark: |
 | [Tome](http://beta.tome.app?ref=aicollection) | Generative Storytelling Has Arrived. | Unlock your best work with Tome's AI-powered storytelling format. | :white_check_mark: |
-| [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides) | Create AI-powered presentations in Google Slides. | Build presentations in minutes with Plus AI. Starting with a blank deck is one of the most challenging parts of building a presentation. Plus AI helps you create an outline, build a first draft, and suggest additional edits to your slides. | :white_check_mark: |
 
 <!--End of Slides & Presentations 38-->
 
@@ -834,7 +835,7 @@ Translations:
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Bookclub](http://www.bookclub.ai?ref=aicollection) | Bookclub.Ai - Meet Your Next Book. | . | :grey_question: |
-| [ChatGPT Writer](http://chatgptwriter.ai?ref=aicollection) | . | . | :grey_question: |
+| [ChatGPT Writer](http://chatgptwriter.ai?ref=aicollection) | ChatGPT Writer Chrome Extension. | Write emails & messages, fix grammar mistakes, rephrase text, change writing tone, summarize text, and much more using ChatGPT AI. Works on all sites. Free to use. | :white_check_mark: |
 | [Childbook](http://www.childbook.ai?ref=aicollection) | Welcome to Children'S Book Creator!. | Your book will be personalized with characters, pictures and story. The story and illustrations also have a text-to-speech feature and can be listened to. | :grey_question: |
 | [Cover Letter AI](http://coverletter-ai.com?ref=aicollection) | Cover Letter AI. | The ultimate tool for crafting the perfect cover letter. | :grey_question: |
 | [Coverletterwrite](http://coverletterwrite.com?ref=aicollection) | Cover Letter Write. | Ask AI to write a personalized cover letter. | :grey_question: |
