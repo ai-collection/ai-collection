@@ -275,6 +275,7 @@ Translations:
 | [artssy](https://www.artssy.co/?ref=aicollection) | Create Unique AI Generated Images in 1-Click. | With Artssy AI, your creativity can flow. Create unlimited images in 1 click and discover a world of possibilities!. | :x: |
 | [caspa AI](https://www.caspa.ai/?ref=aicollection) | Caspa AI Is a Platform to Create and Customise AI Images in Minutes. | Unlock the potential of AI-powered image creation and editing with this free tool, producing unique visuals quickly and cost-effectively for various applications. | :grey_question: |
 | [flair](http://flair.ai/?ref=aicollection) | The AI Design Tool for Branded Content. | . | :white_check_mark: |
+| [CoverDesignAI](http://coverdesignai.com/?ref=aicollection) | CoverDesignAI | A tool to create tailored book cover ideas/prompts/images/mockups for indie authors and designers. | :grey_question: |
 
 <!--End of Art & Image Generator 15-->
 
