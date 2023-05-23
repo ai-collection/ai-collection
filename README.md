@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=860" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=861" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=40" />
@@ -275,7 +275,6 @@ Translations:
 | [artssy](https://www.artssy.co/?ref=aicollection) | Create Unique AI Generated Images in 1-Click. | With Artssy AI, your creativity can flow. Create unlimited images in 1 click and discover a world of possibilities!. | :x: |
 | [caspa AI](https://www.caspa.ai/?ref=aicollection) | Caspa AI Is a Platform to Create and Customise AI Images in Minutes. | Unlock the potential of AI-powered image creation and editing with this free tool, producing unique visuals quickly and cost-effectively for various applications. | :grey_question: |
 | [flair](http://flair.ai/?ref=aicollection) | The AI Design Tool for Branded Content. | . | :white_check_mark: |
-| [CoverDesignAI](http://coverdesignai.com/?ref=aicollection) | CoverDesignAI | A tool to create tailored book cover ideas/prompts/images/mockups for indie authors and designers. | :grey_question: |
 
 <!--End of Art & Image Generator 15-->
 
@@ -359,7 +358,6 @@ Translations:
 | [CodiumAI](http://www.codium.ai/?utm=aicollection) | Meaningful Tests for Busy Devs. | CodiumAI analyzes your code and generates meaningful tests to catch bugs before you ship. | :white_check_mark: |
 | [Datamaker](http://www.datamaker.dev?ref=aicollection) | AI Powered Webflow Code & Copy Tools for Designers. | If you are a Webflow Designer or Webflow Developer then you need to see these tools. Use AI to create code and copy to solve your Webflow problems. | :grey_question: |
 | [Decile](http://decile.app?ref=aicollection) | Get the Data You Need by Asking. | Build a data-led organisation with the power of AI. | :x: |
-| [DocuWriter.ai](https://www.docuwriter.ai?ref=aicollection) | ✨ The Ultimate AI for Code Documentation | A powerful tool that automatically generates comprehensive and accurate documentation from source code files |  :white_check_mark: |
 | [Explain An Error](http://explain.whybug.com?ref=aicollection) | Explain by Whybug. | Let AI explain to you why your code is buggy and how to fix it. | :grey_question: |
 | [ExplainDev](http://explain.dev?ref=aicollection) | Explaindev - Code Explainer That Answers Your Questions in Context. | ExplainDev helps you to be more confident and independent with others' code. Get code explanations and direct answers to your questions via Chrome and VS Code extensions powered by AI. | :grey_question: |
 | [Ghostwriter](http://replit.com?ref=aicollection) | Replit: The Collaborative Browser Based Ide. | Run code live in your browser. Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter. | :grey_question: |
@@ -409,7 +407,6 @@ Translations:
 | [Taskade](http://www.taskade.com/?via=beth0) | Taskade - AI Outliner & Mind Map - AI Outlining and Mind Mapping for Teams. | Taskade is the first collaborative AI writer and outliner for teams with built-in task management and video chat. Create mind maps, task lists, and take structured notes in real-time with your team. | :white_check_mark: |
 | [TypeDroid](http://typedroid.com?ref=aicollection) | Typedroid - Free AI Text Generator. | . | :white_check_mark: |
 | [Typli](http://typli.ai?ref=aicollection) | Typli.Ai - AI Writer & Seo Writing Assistant. | The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant. | :white_check_mark: |
-| [TweetStorm.ai](https://www.tweetstorm.ai?ref=aicollection) | AI-Powered Tweet Generator. | Generate Tweets, Bios, Hashtags and Usernames using AI GPT4 | :white_check_mark: |
 | [Wizishop](http://wizishop.com?ref=aicollection) | Grow Your Business With Seo-Powered Ecommerce. | WiziShop makes SEO-powered ecommerce easier than ever before, bringing success within reach. Artificial Intelligence at the service of your ecommerce business!. | :white_check_mark: |
 | [Word Spinner](http://word-spinner.com?ref=aicollection) | Word Spinner: The Best Free Article Rewriter and Paraphrase Tool Online. | . | :white_check_mark: |
 | [WordAI](https://wordai.com/?ref=470a83) | AI Text Rewriter - Wordai. | Use artificial intelligence to cut turnaround time, extend your budget, and create more high-quality content that Google and readers will love. | :white_check_mark: |
@@ -593,6 +590,7 @@ Translations:
 | [JD Generator](http://hirequotient.com?ref=aicollection) | Meet the Team - Hirequotient. | HireQuotients Skill Assessment Platform helps you hire the top 10% of the talent pool in half the time. | :grey_question: |
 | [LazyApply](http://lazyapply.com?ref=aicollection) | Automate Your Job Application Process. | We automatically apply to all the jobs on platforms like Linkedin, Indeed and Ziprecruiter. | :x: |
 | [Resume Worded](http://resumeworded.com) | Improve Your Resume and Linkedin Profile. | Designed by top recruiters, our AI-powered platform instantly gives you tailored feedback on your resume and LinkedIn profile. Land 5x more interviews, opportunities and job offers. | :white_check_mark: |
+| [Uniglobal Careers](https://uniglobalcareers.com/cv-generator) | Unlock the World of International Education With UniGlobal Careers – Your Superhero Powers Deserve a Global Stage! 💪🌎. | Introducing UniGlobal CV and Cover Letter Generator, the AI-powered super-tool for job seekers in the international education realm! UniGlobal Careers harnesses cutting-edge AI to empower you with captivating CVs and cover letters tailored for international opportunities. 🌍✨. | :white_check_mark: |
 | [rankode](http://www.rankode.ai?ref=aicollection) | AI for Human Resources - Rankode. | Recruiters, everything you need to know about a candidate's programming skills is in their GitHub. Evaluate them automatically with Rankode to avoid expensive hiring mistakes and superboost your retention. | :grey_question: |
 | [resumator](https://www.resumator.ai/?ref=aicollection) | Looking for a Job? We've Got You Covered. | Get hired faster with our AI-powered personalized cover letter. It takes just a few seconds!. | :white_check_mark: |
 | [springworks](http://www.springworks.in?ref=aicollection) | Hr Software Solutions for Growing Businesses. | Springworks builds human resources software solutions to solve challenges in recruitment, background verification & employee engagement with Blockchain and AI. | :white_check_mark: |
