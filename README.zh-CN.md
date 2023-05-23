@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=860" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=861" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=40" />
@@ -162,6 +162,7 @@
 | [JD Generator](http://hirequotient.com?ref=aicollection) | 认识团队 - HireQuotient. | HireQuotient 的技能评估平台可帮助您以一半的时间雇用人才库中前 10% 的人才。. | :grey_question: |
 | [LazyApply](http://lazyapply.com?ref=aicollection) | 自动化您的工作申请流程. | 我们会自动申请 Linkedin、Indeed 和 Ziprecruiter 等平台上的所有职位。. | :x: |
 | [Resume Worded](http://resumeworded.com) | 改善您的简历和 LinkedIn 个人资料. | 我们的人工智能平台由顶级招聘人员设计，可立即为您提供有关您的简历和 LinkedIn 个人资料的定制反馈。获得 5 倍以上的面试、机会和工作机会。. | :white_check_mark: |
+| [Uniglobal Careers](https://uniglobalcareers.com/cv-generator) | 通过 UniGlobal Careers 开启国际教育世界——您的超级英雄力量值得在全球舞台上展示！ 💪🌎. | 隆重推出 UniGlobal CV 和 Cover Letter Generator，这是一款面向国际教育领域求职者的人工智能超级工具！ UniGlobal Careers 利用尖端人工智能为您提供为国际机会量身定制的迷人简历和求职信。 🌍✨. | :white_check_mark: |
 | [rankode](http://www.rankode.ai?ref=aicollection) | 人力资源人工智能 - Rankode. | 招聘人员，您需要了解的有关应聘者编程技能的所有信息都在他们的 GitHub 中。使用 Rankode 自动评估它们，以避免代价高昂的招聘错误并大幅提高您的保留率。. | :grey_question: |
 | [resumator](https://www.resumator.ai/?ref=aicollection) | 找工作？我们已为您提供保障。. | 使用我们的 AI 驱动的个性化求职信更快地被录用。只需几秒钟！. | :white_check_mark: |
 | [springworks](http://www.springworks.in?ref=aicollection) | 面向成长型企业的人力资源软件解决方案. | Springworks 构建人力资源软件解决方案，以解决招聘、背景验证和员工参与区块链和人工智能方面的挑战. | :white_check_mark: |

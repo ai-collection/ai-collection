@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=860" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=861" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=40" />
@@ -763,6 +763,7 @@
 | [JD Generator](http://hirequotient.com?ref=aicollection) | Rencontrez l'équipe - HireQuotient. | La plate-forme d'évaluation des compétences de HireQuotient vous aide à embaucher les 10 % les plus performants du vivier de talents en deux fois moins de temps. | :grey_question: |
 | [LazyApply](http://lazyapply.com?ref=aicollection) | Automatisez votre processus de candidature. | Nous postulons automatiquement à tous les emplois sur des plateformes comme Linkedin, Indeed et Ziprecruiter. | :x: |
 | [Resume Worded](http://resumeworded.com) | Améliorez votre CV et votre profil LinkedIn. | Conçue par les meilleurs recruteurs, notre plateforme alimentée par l'IA vous donne instantanément des commentaires personnalisés sur votre CV et votre profil LinkedIn. Décrochez 5 fois plus d'entretiens, d'opportunités et d'offres d'emploi. | :white_check_mark: |
+| [Uniglobal Careers](https://uniglobalcareers.com/cv-generator) | Déverrouillez le monde de l'éducation internationale avec UniGlobal Careers - Vos pouvoirs de super-héros méritent une scène mondiale ! 💪🌎. | Présentation du générateur de CV et de lettres de motivation UniGlobal, le super outil alimenté par l'IA pour les demandeurs d'emploi dans le domaine de l'éducation internationale ! UniGlobal Careers exploite une IA de pointe pour vous donner des CV captivants et des lettres de motivation adaptées aux opportunités internationales. 🌍✨. | :white_check_mark: |
 | [rankode](http://www.rankode.ai?ref=aicollection) | IA pour les ressources humaines - Rankode. | Recruteurs, tout ce que vous devez savoir sur les compétences en programmation d'un candidat se trouve dans son GitHub. Évaluez-les automatiquement avec Rankode pour éviter des erreurs d'embauche coûteuses et booster votre rétention. | :grey_question: |
 | [resumator](https://www.resumator.ai/?ref=aicollection) | À la recherche d'un emploi? Nous avons ce qu'il vous faut. | Faites-vous embaucher plus rapidement grâce à notre lettre de motivation personnalisée basée sur l'IA. Cela ne prend que quelques secondes !. | :white_check_mark: |
 | [springworks](http://www.springworks.in?ref=aicollection) | Solutions logicielles RH pour les entreprises en croissance. | Springworks développe des solutions logicielles de ressources humaines pour résoudre les problèmes de recrutement, de vérification des antécédents et d'engagement des employés avec Blockchain et l'IA. | :white_check_mark: |

@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=860" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=861" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=40" />
@@ -767,6 +767,7 @@
 | [JD Generator](http://hirequotient.com?ref=aicollection) | Conoce al equipo - Hirequotient. | La plataforma de evaluación de habilidades de HireQuotient lo ayuda a contratar al 10 % superior del grupo de talentos en la mitad del tiempo. | :grey_question: |
 | [LazyApply](http://lazyapply.com?ref=aicollection) | Automatice su proceso de solicitud de empleo. | Aplicamos automáticamente a todos los trabajos en plataformas como Linkedin, Indeed y Ziprecruiter. | :x: |
 | [Resume Worded](http://resumeworded.com) | Mejora tu currículum y perfil de Linkedin. | Diseñada por los mejores reclutadores, nuestra plataforma impulsada por IA le brinda instantáneamente comentarios personalizados sobre su currículum y perfil de LinkedIn. Obtenga 5 veces más entrevistas, oportunidades y ofertas de trabajo. | :white_check_mark: |
+| [Uniglobal Careers](https://uniglobalcareers.com/cv-generator) | Desbloquee el mundo de la educación internacional con UniGlobal Careers: ¡sus poderes de superhéroe merecen un escenario global! 💪🌎. | ¡Presentamos UniGlobal CV and Cover Letter Generator, la súper herramienta impulsada por IA para quienes buscan trabajo en el ámbito de la educación internacional! UniGlobal Careers aprovecha la inteligencia artificial de vanguardia para empoderarlo con CV cautivadores y cartas de presentación adaptadas a las oportunidades internacionales. 🌍✨. | :white_check_mark: |
 | [rankode](http://www.rankode.ai?ref=aicollection) | IA para Recursos Humanos - Rankode. | Reclutadores, todo lo que necesitan saber sobre las habilidades de programación de un candidato está en su GitHub. Evalúelos automáticamente con Rankode para evitar costosos errores de contratación y aumentar su retención. | :grey_question: |
 | [resumator](https://www.resumator.ai/?ref=aicollection) | ¿En busca de un trabajo? Te tenemos cubierto. | Consiga una contratación más rápido con nuestra carta de presentación personalizada impulsada por IA. ¡Solo toma unos segundos!. | :white_check_mark: |
 | [springworks](http://www.springworks.in?ref=aicollection) | Soluciones de software de recursos humanos para empresas en crecimiento. | Springworks crea soluciones de software de recursos humanos para resolver desafíos en reclutamiento, verificación de antecedentes y compromiso de los empleados con Blockchain e IA. | :white_check_mark: |
