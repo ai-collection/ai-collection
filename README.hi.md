@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=861" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=864" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=40" />
@@ -328,6 +328,7 @@
 | [Bg Eraser](http://bgeraser.com?ref=aicollection) | बीजी इरेज़र - पिक्चर क्लीन अप के लिए मैजिक इरेज़र. | शक्तिशाली एआई पेंटिंग और पिक्चर क्लीन अप तकनीक। अवांछित वस्तुओं को हटा दें और सेकंड में चित्रों को साफ करें।. | :grey_question: |
 | [CLIP STUDIO PAINT](http://www.clipstudio.net?ref=aicollection) | は は 売上 No.1 ＆ 利用率 利用率 No.1. | ।. | :grey_question: |
 | [Cartoonize](http://imagetocartoon.com?ref=aicollection) | कार्टून के लिए छवि. | सर्वश्रेष्ठ एआई कार्टूनाइज़र मुफ्त में ऑनलाइन. | :white_check_mark: |
+| [CoverDesignAI](http://coverdesignai.com) | CoverDesignAI - इंडी लेखकों और डिजाइनरों के लिए अनुकूलित पुस्तक कवर विचार/संकेत/छवियां/मॉकअप बनाने के लिए एक उपकरण. | CoverDesignAI एक एआई-संचालित सेवा है जो इंडी लेखकों और डिजाइनरों के लिए संपूर्ण पुस्तक कवर बनाने के लिए एक अनूठा तरीका पेश करती है।. | :white_check_mark: |
 | [DALL·E 2](https://openai.com/dall-e-2/?ref=aicollection) | Dall·E 2 एक नया AI सिस्टम है जो प्राकृतिक भाषा में वर्णन से यथार्थवादी छवियां और कला बना सकता है. | DALL·E 2 एक पाठ विवरण से मूल, यथार्थवादी छवियां और कला बना सकता है। यह अवधारणाओं, विशेषताओं और शैलियों को जोड़ सकता है।. | :white_check_mark: |
 | [DaVinciFace](http://www.davinciface.com?ref=aicollection) | एआई पोर्ट्रेट - मैथेमा द्वारा निर्मित डेविंसी चेहरा. | DaVinci Face एक सॉफ्टवेयर है - सबसे नवीन आर्टिफिशियल इंटेलिजेंस तकनीकों पर आधारित, विशेष रूप से लियोनार्डेस्क-शैली के पोर्ट्रेट बनाने के लिए GAN (जेनरेटिव एडवरसैरियल नेटवर्क) पर।. | :grey_question: |
 | [Deep Dream Generator](http://deepdreamgenerator.com?ref=aicollection) | मानव एआई सहयोग. | हमारे एआई सक्षम टूल के सहयोग से प्रेरक विज़ुअल सामग्री बनाएं।. | :white_check_mark: |
@@ -437,6 +438,7 @@
 | [CodiumAI](http://www.codium.ai/?utm=aicollection) | व्यस्त देवों के लिए सार्थक परीक्षण. | CodiumAI आपके कोड का विश्लेषण करता है और आपके भेजने से पहले बग को पकड़ने के लिए सार्थक परीक्षण उत्पन्न करता है. | :white_check_mark: |
 | [Datamaker](http://www.datamaker.dev?ref=aicollection) | एआई संचालित वेबफ्लो कोड और डिजाइनरों के लिए कॉपी टूल्स।. | यदि आप एक वेबफ्लो डिज़ाइनर या वेबफ्लो डेवलपर हैं तो आपको इन उपकरणों को देखने की आवश्यकता है। अपनी वेबफ्लो समस्याओं को हल करने के लिए कोड बनाने और कॉपी करने के लिए AI का उपयोग करें।. | :grey_question: |
 | [Decile](http://decile.app?ref=aicollection) | पूछकर अपनी जरूरत का डेटा प्राप्त करें।. | एआई की शक्ति के साथ डेटा-आधारित संगठन बनाएं।. | :x: |
+| [DocuWriter.ai](https://www.docuwriter.ai) | ✨ कोड प्रलेखन के लिए अंतिम एआई. | एक शक्तिशाली उपकरण जो स्वचालित रूप से स्रोत कोड फ़ाइलों से व्यापक और सटीक दस्तावेज़ तैयार करता है. | :white_check_mark: |
 | [Explain An Error](http://explain.whybug.com?ref=aicollection) | वाईबग द्वारा स्पष्ट कीजिए. | एआई आपको समझाता है कि आपका कोड खराब क्यों है और इसे कैसे ठीक किया जाए. | :grey_question: |
 | [ExplainDev](http://explain.dev?ref=aicollection) | एक्सप्लेनदेव - कोड एक्सप्लेनर जो संदर्भ में आपके प्रश्नों का उत्तर देता है. | एक्सप्लेनडेव आपको दूसरों के कोड के साथ अधिक आत्मविश्वासी और स्वतंत्र होने में मदद करता है। एआई द्वारा संचालित क्रोम और वीएस कोड एक्सटेंशन के माध्यम से कोड स्पष्टीकरण और अपने प्रश्नों के सीधे उत्तर प्राप्त करें।. | :grey_question: |
 | [Ghostwriter](http://replit.com?ref=aicollection) | उत्तर दें: सहयोगात्मक ब्राउज़र आधारित विचारधारा. | अपने ब्राउज़र में लाइव कोड चलाएँ। रिप्लिट, एक शक्तिशाली आईडीई, कंपाइलर और दुभाषिया के साथ 50+ भाषाओं में ऑनलाइन कोड लिखें और चलाएं।. | :grey_question: |
@@ -967,6 +969,7 @@
 | [Quattr](https://www.quattr.com/?ref=aicollection) | क्वाटर आपका विकास मुख्यालय है. | नींव के रूप में शक्तिशाली एआई और जीएससी डेटा के साथ बनाया गया उद्यम एसईओ मंच. | :x: |
 | [Summari](http://www.summari.com?ref=aicollection) | अपनी साइट पर पढ़ने के अनुभव में सुधार करें. | हमारी विश्व स्तरीय एआई सारांश तकनीक का उपयोग करके लिंक को संक्षिप्त, सूचनात्मक पूर्वावलोकन में अपग्रेड करें।. | :grey_question: |
 | [Taskade](http://www.taskade.com/?via=beth0) | टास्कडे - एआई आउटलाइनर और माइंड मैप - एआई आउटलाइनिंग और माइंड मैपिंग फॉर टीम्स।. | टास्कडे बिल्ट-इन टास्क मैनेजमेंट और वीडियो चैट वाली टीमों के लिए पहला सहयोगी एआई लेखक और आउटलाइनर है। माइंड मैप, टास्क लिस्ट बनाएं और अपनी टीम के साथ रीयल-टाइम में स्ट्रक्चर्ड नोट्स लें।. | :white_check_mark: |
+| [TweetStorm.ai](https://www.tweetstorm.ai) | एआई-पावर्ड ट्वीट जेनरेटर।. | AI GPT4 का उपयोग करके ट्वीट्स, बायोस, हैशटैग और उपयोगकर्ता नाम उत्पन्न करें. | :white_check_mark: |
 | [TypeDroid](http://typedroid.com?ref=aicollection) | टाइपड्रॉइड - फ्री एआई टेक्स्ट जेनरेटर. | . | :white_check_mark: |
 | [Typli](http://typli.ai?ref=aicollection) | Typli.Ai - एआई लेखक और एसईओ लेखन सहायक. | सबसे सहज एआई सामग्री उपकरण जो एआई लेखन और एक एसईओ सहायक को जोड़ता है।. | :white_check_mark: |
 | [Wizishop](http://wizishop.com?ref=aicollection) | एसईओ-संचालित ईकॉमर्स के साथ अपना व्यवसाय बढ़ाएँ. | WiziShop SEO-संचालित ई-कॉमर्स को पहले से कहीं अधिक आसान बना देता है, जिससे सफलता पहुंच में आ जाती है। आपके ईकॉमर्स व्यवसाय की सेवा में आर्टिफिशियल इंटेलिजेंस!. | :white_check_mark: |

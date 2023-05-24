@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=861" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=864" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=40" />
@@ -275,6 +275,7 @@
 | [Bg Eraser](http://bgeraser.com?ref=aicollection) | Bg Eraser - Волшебный ластик для очистки изображений. | Мощная технология AI Inpainting и Picture Clean Up. Удаляйте ненужные объекты и очищайте изображения за считанные секунды. | :grey_question: |
 | [CLIP STUDIO PAINT](http://www.clipstudio.net?ref=aicollection) | は 、 № 1 ＆ № 1*の イラスト 、 マンガ 、 アニメーション アプリ。 みんな 使っ てる から 憧れ の 作風 も 再現 て 、 も たくさん たくさん. | は 、 で 自然 な 描き 味 と 充実 機能 機能 驚くほど 便利 な 素材 が 多数。 世界 中 の が アップロード し た 10 万点 の 素材 ダウンロード すれ ば 、 し て もっと クオリティ 高い に。 すれ ば 、 し て クオリティ 高い。。 すれ 、 し て の 作品。. | :grey_question: |
 | [Cartoonize](http://imagetocartoon.com?ref=aicollection) | Изображение в мультфильм. | Лучший мультипликатор AI онлайн бесплатно. | :white_check_mark: |
+| [CoverDesignAI](http://coverdesignai.com) | CoverDesignAI — инструмент для создания индивидуальных идей обложек книг, подсказок, изображений и макетов для независимых авторов и дизайнеров. | CoverDesignAI — это сервис на базе искусственного интеллекта, предлагающий независимым авторам и дизайнерам уникальный способ создать идеальную обложку для книги. | :white_check_mark: |
 | [DALL·E 2](https://openai.com/dall-e-2/?ref=aicollection) | DALL·E 2 — это новая система искусственного интеллекта, которая может создавать реалистичные изображения и рисунки из описания на естественном языке. | DALL·E 2 может создавать оригинальные реалистичные изображения и рисунки из текстового описания. Он может сочетать концепции, атрибуты и стили. | :white_check_mark: |
 | [DaVinciFace](http://www.davinciface.com?ref=aicollection) | AI Portrait - DaVinci Face, созданный Mathema. | DaVinci Face — это программное обеспечение, основанное на самых инновационных методах искусственного интеллекта, в частности, на GAN (Generative Adversarial Network) для создания портретов в стиле Леонардо. | :grey_question: |
 | [Deep Dream Generator](http://deepdreamgenerator.com?ref=aicollection) | СОТРУДНИЧЕСТВО С ЧЕЛОВЕЧЕСКИМ ИИ. | Создавайте вдохновляющий визуальный контент в сотрудничестве с нашими инструментами с поддержкой ИИ. | :white_check_mark: |
@@ -395,6 +396,7 @@
 | [Quattr](https://www.quattr.com/?ref=aicollection) | Quattr — ваша штаб-квартира роста. | Корпоративная SEO-платформа, построенная на базе мощного ИИ и данных GSC. | :x: |
 | [Summari](http://www.summari.com?ref=aicollection) | Улучшите опыт чтения на вашем сайте. | Обновите ссылки до коротких информативных предварительных просмотров, используя нашу первоклассную технологию обобщения AI. | :grey_question: |
 | [Taskade](http://www.taskade.com/?via=beth0) | Taskade - Ai Outliner & Mind Map - Ai Outlining и Mind Mapping для команд. | Taskade — это первый инструмент для написания и составления планов на основе ИИ для команд со встроенным управлением задачами и видеочатом. Создавайте интеллект-карты, списки задач и делайте структурированные заметки в режиме реального времени вместе с вашей командой. | :white_check_mark: |
+| [TweetStorm.ai](https://www.tweetstorm.ai) | Генератор твитов на базе искусственного интеллекта. | Создавайте твиты, биографии, хэштеги и имена пользователей с помощью AI GPT4. | :white_check_mark: |
 | [TypeDroid](http://typedroid.com?ref=aicollection) | TypeDroid - Бесплатный генератор текста с искусственным интеллектом. | . | :white_check_mark: |
 | [Typli](http://typli.ai?ref=aicollection) | Typli.Ai - писатель AI и помощник по написанию SEO. | Самый интуитивно понятный инструмент AI Content, который сочетает в себе AI Writer и SEO Assistant. | :white_check_mark: |
 | [Wizishop](http://wizishop.com?ref=aicollection) | РАЗВИВАЙТЕ СВОЙ БИЗНЕС С ПОМОЩЬЮ ЭЛЕКТРОННОЙ КОММЕРЦИИ. | WiziShop делает электронную коммерцию на основе SEO проще, чем когда-либо прежде, делая успех в пределах досягаемости. Искусственный интеллект на службе вашего бизнеса в сфере электронной коммерции!. | :white_check_mark: |
@@ -682,6 +684,7 @@
 | [CodiumAI](http://www.codium.ai/?utm=aicollection) | Значимые тесты для занятых разработчиков. | CodiumAI анализирует ваш код и создает содержательные тесты для выявления ошибок перед отправкой. | :white_check_mark: |
 | [Datamaker](http://www.datamaker.dev?ref=aicollection) | Код Webflow на базе AI и инструменты копирования для дизайнеров. | Если вы являетесь дизайнером Webflow или разработчиком Webflow, вам необходимо ознакомиться с этими инструментами. Используйте ИИ для создания кода и копирования, чтобы решить свои проблемы с Webflow. | :grey_question: |
 | [Decile](http://decile.app?ref=aicollection) | Получите необходимые данные, спросив. | Создайте организацию, основанную на данных, с помощью ИИ. | :x: |
+| [DocuWriter.ai](https://www.docuwriter.ai) | ✨ Ultimate AI для документирования кода. | Мощный инструмент, который автоматически создает исчерпывающую и точную документацию из файлов исходного кода. | :white_check_mark: |
 | [Explain An Error](http://explain.whybug.com?ref=aicollection) | Объясните от Whybug. | Позвольте ИИ объяснить вам, почему ваш код содержит ошибки и как это исправить. | :grey_question: |
 | [ExplainDev](http://explain.dev?ref=aicollection) | ОбъяснениеDev — Объяснитель кода, который отвечает на ваши вопросы в контексте. | ОбъяснениеDev помогает вам быть более уверенным и независимым в работе с чужим кодом. Получите пояснения по коду и прямые ответы на свои вопросы с помощью расширений Chrome и VS Code на базе искусственного интеллекта. | :grey_question: |
 | [Ghostwriter](http://replit.com?ref=aicollection) | Replit: браузерная IDE для совместной работы. | Запускайте код прямо в браузере. Пишите и запускайте код на более чем 50 языках онлайн с помощью Replit, мощной интегрированной среды разработки, компилятора и интерпретатора. | :grey_question: |

@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=861" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=864" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=40" />
@@ -189,6 +189,7 @@
 | [CodiumAI](http://www.codium.ai/?utm=aicollection) | 对忙碌的开发者有意义的测试. | CodiumAI 分析您的代码并生成有意义的测试以在您发布之前发现错误. | :white_check_mark: |
 | [Datamaker](http://www.datamaker.dev?ref=aicollection) | 面向设计师的 AI 支持的 Webflow 代码和复制工具。. | 如果您是 Webflow Designer 或 Webflow Developer，那么您需要查看这些工具。使用 AI 创建代码和复制来解决您的 Webflow 问题。. | :grey_question: |
 | [Decile](http://decile.app?ref=aicollection) | 通过询问获取您需要的数据。. | 借助 AI 的力量建立一个数据主导的组织。. | :x: |
+| [DocuWriter.ai](https://www.docuwriter.ai) | ✨ 代码文档的终极人工智能. | 一个强大的工具，可以从源代码文件自动生成全面准确的文档. | :white_check_mark: |
 | [Explain An Error](http://explain.whybug.com?ref=aicollection) | 由 Whybug 解释. | 让 AI 向您解释为什么您的代码有问题以及如何修复它. | :grey_question: |
 | [ExplainDev](http://explain.dev?ref=aicollection) | ExplainDev - 在上下文中回答您的问题的代码解释器. | ExplainDev 帮助您更加自信和独立地处理他人的代码。通过由 AI 提供支持的 Chrome 和 VS Code 扩展，获取代码解释和问题的直接答案。. | :grey_question: |
 | [Ghostwriter](http://replit.com?ref=aicollection) | Replit：基于协作浏览器的 IDE. | 在浏览器中实时运行代码。使用功能强大的 IDE、编译器和解释器 Replit，以 50 多种语言在线编写和运行代码。. | :grey_question: |
@@ -261,6 +262,7 @@
 | [Quattr](https://www.quattr.com/?ref=aicollection) | Quattr 是您的增长总部. | 以强大的AI和GSC数据为基础打造的企业SEO平台. | :x: |
 | [Summari](http://www.summari.com?ref=aicollection) | 改善您网站上的阅读体验. | 使用我们世界一流的 AI 摘要技术将链接升级为简短、信息丰富的预览。. | :grey_question: |
 | [Taskade](http://www.taskade.com/?via=beth0) | Taskade - Ai Outliner & Mind Map - 团队的 Ai 大纲和思维导图。. | Taskade 是首个面向团队的协作式 AI 编写器和概述器，具有内置任务管理和视频聊天功能。创建思维导图、任务列表，并与您的团队实时进行结构化笔记。. | :white_check_mark: |
+| [TweetStorm.ai](https://www.tweetstorm.ai) | AI 驱动的推文生成器。. | 使用 AI GPT4 生成推文、Bios、标签和用户名. | :white_check_mark: |
 | [TypeDroid](http://typedroid.com?ref=aicollection) | TypeDroid - 免费的 AI 文本生成器. | . | :white_check_mark: |
 | [Typli](http://typli.ai?ref=aicollection) | Typli.Ai - AI 写手 & SEO 写作助手. | 最直观的人工智能内容工具，结合了人工智能写作和搜索引擎优化助手。. | :white_check_mark: |
 | [Wizishop](http://wizishop.com?ref=aicollection) | 通过 SEO 驱动的电子商务发展您的业务. | WiziShop 使基于 SEO 的电子商务比以往任何时候都更容易，使成功触手可及。人工智能为您的电子商务业务服务！. | :white_check_mark: |
@@ -843,6 +845,7 @@
 | [Bg Eraser](http://bgeraser.com?ref=aicollection) | Bg Eraser - 图片清理魔术橡皮擦. | 强大的人工智能修复和图片清理技术。在几秒钟内删除不需要的对象并清理图片。. | :grey_question: |
 | [CLIP STUDIO PAINT](http://www.clipstudio.net?ref=aicollection) | 第1号第1号*のののの，アニメーションアプリ。みんな使ってるてるから，憧れのの作风も再现再现再现できできてたくさん. | はリアルな味と充実の充実，惊くほど便利多数多数多数。世界世界世界世界中中のユーザーユーザーががアップロードしたたたたたた万点万点万点万点万点以上素材素材素材を. | :grey_question: |
 | [Cartoonize](http://imagetocartoon.com?ref=aicollection) | 图像到卡通. | 最好的免费在线 AI 漫画家. | :white_check_mark: |
+| [CoverDesignAI](http://coverdesignai.com) | CoverDesignAI - 为独立作者和设计师创建定制书籍封面创意/提示/图像/模型的工具. | CoverDesignAI 是一项人工智能服务，为独立作者和设计师提供了一种独特的方式来创建完美的书籍封面。. | :white_check_mark: |
 | [DALL·E 2](https://openai.com/dall-e-2/?ref=aicollection) | DALL·E 2 是一个新的 AI 系统，可以根据自然语言的描述创建逼真的图像和艺术. | DALL·E 2 可以根据文字描述创建原创、逼真的图像和艺术作品。它可以组合概念、属性和样式。. | :white_check_mark: |
 | [DaVinciFace](http://www.davinciface.com?ref=aicollection) | 人工智能人像 - Mathema 制作的达芬奇人脸. | DaVinci Face 是一款软件——基于最具创新性的人工智能技术，特别是基于 GAN（生成对抗网络）来创建 Leonardesque 风格的肖像。. | :grey_question: |
 | [Deep Dream Generator](http://deepdreamgenerator.com?ref=aicollection) | 人类人工智能协作. | 与我们支持 AI 的工具协作创建鼓舞人心的视觉内容。. | :white_check_mark: |

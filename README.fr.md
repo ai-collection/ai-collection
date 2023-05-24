@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=861" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=864" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=40" />
@@ -198,6 +198,7 @@
 | [CodiumAI](http://www.codium.ai/?utm=aicollection) | Tests significatifs pour les développeurs occupés. | CodiumAI analyse votre code et génère des tests significatifs pour détecter les bogues avant l'expédition. | :white_check_mark: |
 | [Datamaker](http://www.datamaker.dev?ref=aicollection) | Outils de code et de copie Webflow alimentés par l'IA pour les concepteurs. | Si vous êtes un concepteur de flux Web ou un développeur de flux Web, vous devez voir ces outils. Utilisez l'IA pour créer du code et le copier afin de résoudre vos problèmes de flux Web. | :grey_question: |
 | [Decile](http://decile.app?ref=aicollection) | Obtenez les données dont vous avez besoin en demandant. | Construisez une organisation basée sur les données avec la puissance de l'IA. | :x: |
+| [DocuWriter.ai](https://www.docuwriter.ai) | ✨ l'IA ultime pour la documentation de code. | Un outil puissant qui génère automatiquement une documentation complète et précise à partir des fichiers de code source. | :white_check_mark: |
 | [Explain An Error](http://explain.whybug.com?ref=aicollection) | Expliquer par Whybug. | Laissez l'IA vous expliquer pourquoi votre code est bogué et comment le corriger. | :grey_question: |
 | [ExplainDev](http://explain.dev?ref=aicollection) | ExplainDev - Explicateur de code qui répond à vos questions en contexte. | ExplainDev vous aide à être plus confiant et indépendant avec le code des autres. Obtenez des explications sur le code et des réponses directes à vos questions via les extensions Chrome et VS Code alimentées par l'IA. | :grey_question: |
 | [Ghostwriter](http://replit.com?ref=aicollection) | Replit : l'IDE basé sur un navigateur collaboratif. | Exécutez le code en direct dans votre navigateur. Écrivez et exécutez du code dans plus de 50 langues en ligne avec Replit, un puissant IDE, compilateur et interpréteur. | :grey_question: |
@@ -452,6 +453,7 @@
 | [Bg Eraser](http://bgeraser.com?ref=aicollection) | Bg Eraser - Gomme magique pour le nettoyage des images. | Puissante technologie AI Inpainting et Picture Clean Up. Supprimez les objets indésirables et nettoyez les images en quelques secondes. | :grey_question: |
 | [CLIP STUDIO PAINT](http://www.clipstudio.net?ref=aicollection) | は 、 売上 n ° 1 ＆ 利用率 n ° 1 * の イラスト 、 マンガ 、 アニメーション 制作 アプリ。 みんな 使っ てる から 、 憧れ の 作風 も 再現 て て 、 ノウハウ も たくさん. | は 、 リアル で 自然 な 描き 味 と 充実 の 機能 、 驚くほど 便利 な 素材 が 多数。 世界 中 ユーザー ユーザー が アップロード し た 10 万点 以上 の を ダウンロード すれ ば 、 ラク し て もっと クオリティ の 高い に に ば ば 、 ラク し もっと クオリティ の 高い 作品 に に。。。. | :grey_question: |
 | [Cartoonize](http://imagetocartoon.com?ref=aicollection) | Image à dessin animé. | Meilleur dessinateur AI en ligne gratuitement. | :white_check_mark: |
+| [CoverDesignAI](http://coverdesignai.com) | CoverDesignAI - Un outil pour créer des idées/invites/images/maquettes de couverture de livre sur mesure pour les auteurs et designers indépendants. | CoverDesignAI est un service alimenté par l'IA offrant aux auteurs et designers indépendants un moyen unique de créer la couverture de livre parfaite. | :white_check_mark: |
 | [DALL·E 2](https://openai.com/dall-e-2/?ref=aicollection) | DALL·E 2 est un nouveau système d'IA capable de créer des images réalistes et de l'art à partir d'une description en langage naturel. | DALL·E 2 peut créer des images et des illustrations originales et réalistes à partir d'une description textuelle. Il peut combiner des concepts, des attributs et des styles. | :white_check_mark: |
 | [DaVinciFace](http://www.davinciface.com?ref=aicollection) | Portrait IA - Visage DaVinci réalisé par Mathema. | DaVinci Face est un logiciel – basé sur les techniques d’Intelligence Artificielle les plus innovantes, notamment sur GAN (Generative Adversarial Network) pour créer des portraits à la Leonardesque. | :grey_question: |
 | [Deep Dream Generator](http://deepdreamgenerator.com?ref=aicollection) | COLLABORATION IA HUMAINE. | Créez du contenu visuel inspirant en collaboration avec nos outils activés par l'IA. | :white_check_mark: |
@@ -572,6 +574,7 @@
 | [Quattr](https://www.quattr.com/?ref=aicollection) | Quattr est votre QG de croissance. | La plate-forme de référencement d'entreprise construite avec de puissantes données d'IA et de GSC comme base. | :x: |
 | [Summari](http://www.summari.com?ref=aicollection) | Améliorez l'expérience de lecture sur votre site. | Améliorez les liens en aperçus courts et informatifs à l'aide de notre technologie de synthèse d'IA de classe mondiale. | :grey_question: |
 | [Taskade](http://www.taskade.com/?via=beth0) | Taskade - Ai Outliner & Mind Map - Ai Outliner et Mind Mapping pour les équipes. | Taskade est le premier rédacteur et concepteur d'IA collaboratif pour les équipes avec gestion des tâches intégrée et chat vidéo. Créez des cartes mentales, des listes de tâches et prenez des notes structurées en temps réel avec votre équipe. | :white_check_mark: |
+| [TweetStorm.ai](https://www.tweetstorm.ai) | Générateur de tweet alimenté par l'IA. | Générez des tweets, des biographies, des hashtags et des noms d'utilisateur à l'aide d'AI GPT4. | :white_check_mark: |
 | [TypeDroid](http://typedroid.com?ref=aicollection) | TypeDroid - Générateur de texte IA gratuit. | . | :white_check_mark: |
 | [Typli](http://typli.ai?ref=aicollection) | Typli.Ai - Rédacteur IA & Assistant de rédaction SEO. | L'outil de contenu A.I le plus intuitif qui combine AI Writing et un assistant SEO. | :white_check_mark: |
 | [Wizishop](http://wizishop.com?ref=aicollection) | DÉVELOPPEZ VOTRE ENTREPRISE AVEC LE COMMERCE ÉLECTRONIQUE BASÉ SUR LE SEO. | WiziShop rend le commerce électronique optimisé par le référencement plus facile que jamais, mettant le succès à portée de main. L'Intelligence Artificielle au service de votre activité e-commerce !. | :white_check_mark: |
