@@ -78,6 +78,27 @@
 
 ---
 
+<div align="center">
+    <h5>विपणन संसाधन</h5>
+    <p>अपने भयानक ऐप को हमारी सूची में जोड़ा? महान! अब इन संसाधनों का उपयोग करके अपनी मार्केटिंग को बढ़ावा दें</p>
+</div>
+
+
+<div align="center">
+    <a href="https://gumroad.com/a/752005843/mtslml" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/aibooster.png" alt="aibooster" border="0"/>
+    </a>
+    <h4>ऑर्गेनिक ट्रैफ़िक और एक विशिष्ट ज्ञान केंद्र के साथ अपने AI स्टार्टअप को बढ़ावा दें</h4>
+    <p>अपना AI स्टार्ट-अप सबमिट करने के लिए 140+ प्रीमियम निर्देशिकाओं की सूची प्राप्त करें। बैकलिंक्स और ट्रैफ़िक के लिए बढ़िया स्रोत</p>
+    <a href="https://gumroad.com/a/752005843/mtslml" target="_blank"><b>इसे यहां लाओ</b></a>
+    <br />
+</div>
+
+<br>
+
+
+---
+
 <p><a href="mailto: pavel@ai-collection.org">संपर्क करें</a> अपने शानदार ऐप के लिए प्रमोशन सेट अप करने के लिए!</p>
 
 ---
