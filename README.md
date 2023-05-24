@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=861" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=864" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=40" />
@@ -203,6 +203,7 @@ Translations:
 | [Bg Eraser](http://bgeraser.com?ref=aicollection) | Bg Eraser - Magic Eraser for Picture Clean Up. | Powerful AI Inpainting and Picture Clean Up technology. Remove unwanted objects and clean up pictures in seconds. | :grey_question: |
 | [CLIP STUDIO PAINT](http://www.clipstudio.net?ref=aicollection) | は、売上No.1＆利用率No.1*のイラスト、マンガ、アニメーション制作アプリ。みんな使ってるから、憧れの作風も再現できて、ノウハウもたくさん. | は、リアルで自然な描き味と充実の機能、驚くほど便利な素材が多数。世界中のユーザーがアップロードした10万点以上の素材をダウンロードすれば、ラクしてもっとクオリティの高い作品に。. | :grey_question: |
 | [Cartoonize](http://imagetocartoon.com?ref=aicollection) | Image to Cartoon. | Best AI cartoonizer online for free. | :white_check_mark: |
+| [CoverDesignAI](http://coverdesignai.com) | CoverDesignAI - A Tool to Create Tailored Book Cover Ideas/Prompts/Images/Mockups for Indie Authors and Designers. | CoverDesignAI is an AI-powered service offering a unique way for indie authors and designers to create the perfect book cover. | :white_check_mark: |
 | [DALL·E 2](https://openai.com/dall-e-2/?ref=aicollection) | Dall·E 2 Is a New AI System That Can Create Realistic Images and Art From a Description in Natural Language. | DALL·E 2 can create original, realistic images and art from a text description. It can combine concepts, attributes, and styles. | :white_check_mark: |
 | [DaVinciFace](http://www.davinciface.com?ref=aicollection) | AI Portrait - Davinci Face Made by Mathema. | DaVinci Face is a software – based on the most innovative Artificial Intelligence techniques, in particular on GAN (Generative Adversarial Network) to create Leonardesque-style portraits. | :grey_question: |
 | [Deep Dream Generator](http://deepdreamgenerator.com?ref=aicollection) | Human AI Collaboration. | Create inspiring visual content in a collaboration with our AI enabled tools. | :white_check_mark: |
@@ -358,6 +359,7 @@ Translations:
 | [CodiumAI](http://www.codium.ai/?utm=aicollection) | Meaningful Tests for Busy Devs. | CodiumAI analyzes your code and generates meaningful tests to catch bugs before you ship. | :white_check_mark: |
 | [Datamaker](http://www.datamaker.dev?ref=aicollection) | AI Powered Webflow Code & Copy Tools for Designers. | If you are a Webflow Designer or Webflow Developer then you need to see these tools. Use AI to create code and copy to solve your Webflow problems. | :grey_question: |
 | [Decile](http://decile.app?ref=aicollection) | Get the Data You Need by Asking. | Build a data-led organisation with the power of AI. | :x: |
+| [DocuWriter.ai](https://www.docuwriter.ai) | ✨ the Ultimate AI for Code Documentation. | A powerful tool that automatically generates comprehensive and accurate documentation from source code files. | :white_check_mark: |
 | [Explain An Error](http://explain.whybug.com?ref=aicollection) | Explain by Whybug. | Let AI explain to you why your code is buggy and how to fix it. | :grey_question: |
 | [ExplainDev](http://explain.dev?ref=aicollection) | Explaindev - Code Explainer That Answers Your Questions in Context. | ExplainDev helps you to be more confident and independent with others' code. Get code explanations and direct answers to your questions via Chrome and VS Code extensions powered by AI. | :grey_question: |
 | [Ghostwriter](http://replit.com?ref=aicollection) | Replit: The Collaborative Browser Based Ide. | Run code live in your browser. Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter. | :grey_question: |
@@ -405,6 +407,7 @@ Translations:
 | [Quattr](https://www.quattr.com/?ref=aicollection) | Quattr Is Your Growth Hq. | The enterprise SEO platform built with powerful AI and GSC data as the foundation. | :x: |
 | [Summari](http://www.summari.com?ref=aicollection) | Improve the Reading Experience on Your Site. | Upgrade links into short, informative previews using our world-class AI summarization technology. | :grey_question: |
 | [Taskade](http://www.taskade.com/?via=beth0) | Taskade - AI Outliner & Mind Map - AI Outlining and Mind Mapping for Teams. | Taskade is the first collaborative AI writer and outliner for teams with built-in task management and video chat. Create mind maps, task lists, and take structured notes in real-time with your team. | :white_check_mark: |
+| [TweetStorm.ai](https://www.tweetstorm.ai) | AI-Powered Tweet Generator. | Generate Tweets, Bios, Hashtags and Usernames using AI GPT4. | :white_check_mark: |
 | [TypeDroid](http://typedroid.com?ref=aicollection) | Typedroid - Free AI Text Generator. | . | :white_check_mark: |
 | [Typli](http://typli.ai?ref=aicollection) | Typli.Ai - AI Writer & Seo Writing Assistant. | The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant. | :white_check_mark: |
 | [Wizishop](http://wizishop.com?ref=aicollection) | Grow Your Business With Seo-Powered Ecommerce. | WiziShop makes SEO-powered ecommerce easier than ever before, bringing success within reach. Artificial Intelligence at the service of your ecommerce business!. | :white_check_mark: |
