@@ -84,6 +84,27 @@ Translations:
 
 ---
 
+<div align="center">
+    <h5>Marketing resources</h5>
+    <p>Added your awesome app to our list? Great! now boost your marketing using these resources</p>
+</div>
+
+
+<div align="center">
+    <a href="https://gumroad.com/a/752005843/mtslml" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/aibooster.png" alt="aibooster" border="0"/>
+    </a>
+    <h4>Boost your AI startup with organic traffic and an exclusive knowledge hub</h4>
+    <p>Get the list of 140+ premium directories to submit your AI start-up. Great source for backlinks & traffic</p>
+    <a href="https://gumroad.com/a/752005843/mtslml" target="_blank"><b>Get it here</b></a>
+    <br />
+</div>
+
+<br>
+
+
+---
+
 <p><a href="mailto: pavel@ai-collection.org">Contact Us</a> to set up a promotion for your awesome app!</p>
 
 ---

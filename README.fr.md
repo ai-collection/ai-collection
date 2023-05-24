@@ -78,6 +78,27 @@
 
 ---
 
+<div align="center">
+    <h5>Ressources marketing</h5>
+    <p>Vous avez ajouté votre application géniale à notre liste ? Super! boostez maintenant votre marketing en utilisant ces ressources</p>
+</div>
+
+
+<div align="center">
+    <a href="https://gumroad.com/a/752005843/mtslml" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/aibooster.png" alt="aibooster" border="0"/>
+    </a>
+    <h4>Boostez votre startup IA avec du trafic organique et un hub de connaissances exclusif</h4>
+    <p>Obtenez la liste de plus de 140 annuaires premium pour soumettre votre start-up IA. Excellente source de backlinks et de trafic</p>
+    <a href="https://gumroad.com/a/752005843/mtslml" target="_blank"><b>Obtenez-le ici</b></a>
+    <br />
+</div>
+
+<br>
+
+
+---
+
 <p><a href="mailto: pavel@ai-collection.org">Contactez-nous</a> pour mettre en place une promotion pour votre application géniale !</p>
 
 ---

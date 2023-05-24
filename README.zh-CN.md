@@ -78,6 +78,27 @@
 
 ---
 
+<div align="center">
+    <h5>营销资源</h5>
+    <p>将您的精彩应用添加到我们的列表中？ 伟大的！ 现在使用这些资源促进您的营销</p>
+</div>
+
+
+<div align="center">
+    <a href="https://gumroad.com/a/752005843/mtslml" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/aibooster.png" alt="aibooster" border="0"/>
+    </a>
+    <h4>通过有机流量和独家知识中心促进您的 AI 创业</h4>
+    <p>获取 140 多个高级目录的列表以提交您的 AI 初创公司。 反向链接和流量的重要来源</p>
+    <a href="https://gumroad.com/a/752005843/mtslml" target="_blank"><b>在这里获取</b></a>
+    <br />
+</div>
+
+<br>
+
+
+---
+
 <p><a href="mailto: pavel@ai-collection.org">联系我们</a> 为您的精彩应用设置促销活动！</p>
 
 ---
