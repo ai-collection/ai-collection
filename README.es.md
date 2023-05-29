@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=864" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=866" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=40" />
@@ -361,7 +361,7 @@
 | Nombre | Título | Descripción | Ofrecer versión gratuita |
 |---|---|---|:---:|
 | [Designs AI](http://designs.ai?ref=aicollection) | Cree logotipos, videos, pancartas, voces en off con IA. | ¡Crea cualquier cosa en línea en 2 minutos! Cree un logotipo, un video, un banner para redes sociales, una tarjeta de presentación, un volante, una maqueta y más con IA. | :white_check_mark: |
-| [Durable](http://durable.co?ref=aicollection) | Duradero: Creador de sitios web con IA y Software empresarial de servicios. | . | :grey_question: |
+| [Durable](http://durable.co?ref=aicollection) | Duradero: Creador de sitios web con IA y Software empresarial de servicios. | Cree un sitio web en 30 segundos con AI: el creador de sitios web de AI que genera un sitio web completo con imágenes y copias en segundos. | :x: |
 | [Genius by Diagram](https://www.genius.design/?ref=aicollection) | Genius: su compañero de diseño de IA. | . | :grey_question: |
 | [Magician](http://magician.design?ref=aicollection) | Mago para Figma. | Una herramienta de diseño mágica para Figma impulsada por IA. | :grey_question: |
 | [Piggy](https://piggy.to/magic?ref=aicollection) | Creador de contenido móvil. | Crear contenido asombroso en tu teléfono ahora es fácil. | :white_check_mark: |
@@ -773,6 +773,7 @@
 | Nombre | Título | Descripción | Ofrecer versión gratuita |
 |---|---|---|:---:|
 | [Chivvy](https://chivvy.app?ref=aicollection) | Aplicación antiprocrastinación impulsada por IA. | Chivvy usa el refuerzo negativo para que hagas cosas. Crea responsabilidad en las redes sociales. Te mantiene encaminado con indicaciones inteligentes. Todo impulsado por IA. | :white_check_mark: |
+| [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?ref=aicollection) | Sugerencia de habilidad impulsada por IA. | Usando el poder de Skill Suggestion AI, podemos ayudarlo a extraer habilidades en demanda en el mundo, de cualquier tipo de texto. ¡Pruébalo! Entrenamos nuestra IA mediante el uso de más de 1 millón de contenido disponible en línea en nuestra biblioteca de contenido adicional, que seleccionó de diferentes tipos de fuentes y temas. | :grey_question: |
 | [Voilà](https://www.getvoila.ai/?ref=aicollection) | Personal ChatGPT Assistant para una productividad supercargada. | Mejore su escritura, obtenga respuestas a todas sus preguntas, redacte contenido de alta calidad y responda correos electrónicos. Todo en un lugar. | :white_check_mark: |
 | [timeMaster](https://www.timemaster.ai/?ref=aicollection) | Potencie su enfoque y productividad. | TimeMaster detecta automáticamente en qué está trabajando, categoriza sus actividades, etiqueta proyectos e incluso escribe registros de tiempo en su nombre. | :white_check_mark: |
 
@@ -848,7 +849,9 @@
 | [ChatBotKit](https://chatbotkit.com/?via=aicollection) | La forma más rápida de crear bots de chat de IA avanzados. | ChatBotKit lo ayuda a crear chatbots conversacionales de IA con sus propios datos para comunicarse naturalmente con los usuarios en su sitio web, Slack, Discord y WhatsApp. | :white_check_mark: |
 | [ChatGPT](http://chat.openai.com?ref=aicollection) | Un poderoso modelo de lenguaje para la generación y comprensión de textos. | . | :white_check_mark: |
 | [Chatbase](https://www.chatbase.co/?ref=aicollection) | Cree un chatbot de IA entrenado en sus datos. | Simplemente cargue un pdf y obtenga un enlace a un chatbot basado en GPT que pueda responder cualquier pregunta al respecto. | :white_check_mark: |
+| [Commandbar HelpHub](https://helphub.commandbar.com/) | Un chatbot con tecnología GPT para cualquier sitio. | Puede agregar contenido fuente de 3 maneras: -Rastreando cualquier sitio público a través de una URL (por ejemplo, su sitio de marketing o blog) -Sincronizando con un CMS (como Zendesk o Intercom) - Agregue contenido manualmente. Luego, el chatbot se entrena en ese contenido y responderá preguntas basadas solo en ese contenido. | :white_check_mark: |
 | [Context Search](http://addcontext.xyz?ref=aicollection) | Contexto - Chatbots de audio y video impulsados por IA. | . | :grey_question: |
+| [Docubro](https://www.docubro.com) | ChatGPT para la documentación de su sitio web. | ChatGPT para su documentación, hágalo accesible y fácil de usar manteniendo una conversación para explorar el contenido. | :grey_question: |
 | [HUMATA](https://www.humata.ai/?ref=aicollection) | ChatGPT para sus archivos. | Aprenda 100 veces más rápido, cree informes 100 veces más rápido, analice documentos legales 100 veces más rápido, comprenda documentos técnicos 100 veces más rápido. Haga preguntas y obtenga respuestas sobre cualquier archivo al instante. | :white_check_mark: |
 | [Keepi](https://www.keepi.ai/?ref=aicollection) | IA sobre WhatsApp. | Acceda a la IA más avanzada disponible en la actualidad sobre la marcha. Keepi lo mantendrá inteligente y listo con el conocimiento relevante. | :white_check_mark: |
 | [NOLU](http://noluai.com?ref=aicollection) | Interactuar con IA debería ser simple. | Conoce a NOLU. Una interfaz simple para interactuar con el motor Open AI GPT-3. | :white_check_mark: |
@@ -921,7 +924,7 @@
 |---|---|---|:---:|
 | [Article.Audio](http://article.audio?ref=aicollection) | Convertir artículos en audio. | demasiado perezoso para leer un artículo? No hay problema, ¡escúchalo! Desarrollado por Thundercontent. | :white_check_mark: |
 | [Createaivoiceovers](http://createaivoiceovers.com?ref=aicollection) | Texto a voz Generador de voz en línea, Generador de texto a voz - Voces realistas - Crear voces en off de IA. | . | :grey_question: |
-| [Eleven](https://beta.elevenlabs.io/?ref=aicollection) | Prime Voice IA. | El software de voz de IA más realista y versátil que jamás haya existido. Eleven trae las voces más convincentes, ricas y realistas a los creadores y editores que buscan las mejores herramientas para contar historias. | :white_check_mark: |
+| [Eleven Labs](https://beta.elevenlabs.io/?ref=aicollection) | Prime Voice IA. | El software de voz de IA más realista y versátil que jamás haya existido. Eleven trae las voces más convincentes, ricas y realistas a los creadores y editores que buscan las mejores herramientas para contar historias. | :white_check_mark: |
 | [FakeYou](http://fakeyou.com?ref=aicollection) | Falso que. Texto falso profundo a voz. | . | :grey_question: |
 | [Free Text-To-Speech](http://www.text-to-speech.online?ref=aicollection) | Herramientas gratuitas de conversión de texto a voz en línea. | . | :white_check_mark: |
 | [Listnr 2.0](https://www.listnr.tech/?gr_pk=V71a&gr_uid=YVDO) | AI Voice Generator - Convertidor de texto a voz - Listnr. | Genere audio de texto a voz (TTS) realista utilizando nuestro generador de voz AI con las mejores voces sintéticas. Convierta instantáneamente el texto en voz con sonido natural y descárguelo en formatos MP3 y WAV. | :x: |
@@ -932,7 +935,7 @@
 | [Speech-to-Speech](http://www.resemble.ai?ref=aicollection) | Su completo kit de herramientas de IA de voz generativa. | El generador de voz con IA de Resemble te permite crear voces en off similares a las de los humanos en segundos. | :x: |
 | [Speechelo](http://speechelo.com?ref=aicollection) | Speechelo: genere voz a partir de texto con solo 3 clics. El convertidor de texto a audio con sonido más realista. | GARANTIZAMOS que nadie dirá que su voz en off es A.I. generado con una herramienta de texto a voz. | :grey_question: |
 | [Speechify](http://speechify.com?ref=aicollection) | El lector de texto a voz n.º 1. | Recorra documentos, artículos, archivos PDF, correos electrónicos (cualquier cosa que lea) escuchando con nuestro lector líder de texto a voz. | :white_check_mark: |
-| [Underduck](http://uberduck.ai?ref=aicollection) | Uberduck: texto a voz, automatización de voz, medios sintéticos. | . | :grey_question: |
+| [Underduck](http://uberduck.ai?ref=aicollection) | Uberduck: texto a voz, automatización de voz, medios sintéticos. | Crea música con voces de IA, crea voces y doblajes de IA con más de 5000 voces expresivas, crea aplicaciones de audio increíbles en minutos con nuestras API, sintetízate con tu propio clon de voz personalizado. | :grey_question: |
 | [VERBATIK](http://verbatik.com?ref=aicollection) | Generación de texto a voz impulsada por IA. | Genere audio realista de texto a voz (TTS) utilizando el generador de voz AI en línea y las mejores voces sintéticas. Convierta instantáneamente el texto en voz con sonido natural y descárguelo como archivos de audio MP3 y WAV. | :x: |
 | [Voicemaker](http://voicemaker.in?ref=aicollection) | Voicemaker® - Convertidor de texto a voz. | . | :grey_question: |
 | [Voicera](http://www.voicera.co?ref=aicollection) | Voicera - Dale voz a tus artículos y blogs. | . | :grey_question: |
@@ -1320,7 +1323,6 @@
 | [Tweetnimage](http://tweetnimage.com?ref=aicollection) | Tweetnimagen. | . | :grey_question: |
 | [Twelve Labs](http://twelvelabs.io?ref=aicollection) | doce laboratorios. | . | :grey_question: |
 | [USP](http://usp.ai?ref=aicollection) | Maximice su blog - Usp.Ai. | Impresionantes IMÁGENES LIBRES DE DERECHOS generados por IA para sus historias y publicaciones de blog. | :white_check_mark: |
-| [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?ref=aicollection) | Además: Sugerencia de habilidad automatizada. | . | :grey_question: |
 | [Unpromptedgame](http://www.unpromptedgame.com?ref=aicollection) | . | . | :grey_question: |
 | [Unrealme](http://unrealme.io?ref=aicollection) | yo irreal. | . | :grey_question: |
 | [Userpersona](http://userpersona.dev?ref=aicollection) | User Persona - Personas de usuario generadas por IA. | . | :grey_question: |

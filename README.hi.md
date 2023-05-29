@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=864" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=866" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=40" />
@@ -280,6 +280,7 @@
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
 | [Chivvy](https://chivvy.app?ref=aicollection) | एआई संचालित एंटी-प्रोक्रैस्टिनेशन ऐप. | Chivvy आपको काम करने के लिए नकारात्मक सुदृढीकरण का उपयोग करता है। सोशल मीडिया पर जवाबदेही बनाता है। आपको स्मार्ट संकेतों के साथ ट्रैक पर रखता है। सभी एआई द्वारा संचालित. | :white_check_mark: |
+| [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?ref=aicollection) | एआई संचालित कौशल-सुझाव. | कौशल सुझाव एआई की शक्ति का उपयोग करके हम किसी भी प्रकार के पाठ से दुनिया में मांग में कौशल निकालने में आपकी सहायता कर सकते हैं। कोशिश करके देखो! हमने अपनी आगे की सामग्री लाइब्रेरी में 1 मिलियन से अधिक ऑनलाइन उपलब्ध सामग्री का उपयोग करके अपने एआई को प्रशिक्षित किया जो विभिन्न प्रकार के स्रोतों और विषयों से क्यूरेट किया गया।. | :grey_question: |
 | [Voilà](https://www.getvoila.ai/?ref=aicollection) | सुपरचार्ज्ड उत्पादकता के लिए व्यक्तिगत चैटजीपीटी सहायक. | अपने लेखन में सुधार करें, अपने सभी प्रश्नों के उत्तर प्राप्त करें, उच्च-गुणवत्ता वाली सामग्री का मसौदा तैयार करें और ईमेल का जवाब दें। सभी एक ही स्थान पर।. | :white_check_mark: |
 | [timeMaster](https://www.timemaster.ai/?ref=aicollection) | अपने फोकस और उत्पादकता को सुपरचार्ज करें. | TimeMaster स्वचालित रूप से पता लगाता है कि आप किस पर काम कर रहे हैं, आपकी गतिविधियों को वर्गीकृत करता है, परियोजनाओं को टैग करता है, और आपकी ओर से समय लॉग भी लिखता है।. | :white_check_mark: |
 
@@ -543,7 +544,9 @@
 | [ChatBotKit](https://chatbotkit.com/?via=aicollection) | उन्नत एआई चैट बॉट बनाने का सबसे तेज़ तरीका. | ChatBotKit आपको अपनी वेबसाइट, स्लैक, डिस्कॉर्ड और व्हाट्सएप पर उपयोगकर्ताओं के साथ स्वाभाविक रूप से संवाद करने के लिए अपने स्वयं के डेटा के साथ संवादी AI चैटबॉट बनाने में मदद करता है।. | :white_check_mark: |
 | [ChatGPT](http://chat.openai.com?ref=aicollection) | टेक्स्ट जनरेशन और अंडरस्टैंडिंग के लिए एक शक्तिशाली लैंग्वेज मॉडल. | . | :white_check_mark: |
 | [Chatbase](https://www.chatbase.co/?ref=aicollection) | अपने डेटा पर प्रशिक्षित AI चैटबॉट बनाएं. | बस एक पीडीएफ अपलोड करें और जीपीटी आधारित चैटबॉट का लिंक प्राप्त करें जो इस पर किसी भी प्रश्न का उत्तर दे सकता है।. | :white_check_mark: |
+| [Commandbar HelpHub](https://helphub.commandbar.com/) | किसी भी साइट के लिए जीपीटी-संचालित चैटबॉट।. | आप 3 तरीकों से स्रोत सामग्री जोड़ सकते हैं: - किसी URL (जैसे आपकी मार्केटिंग साइट या ब्लॉग) के माध्यम से किसी भी सार्वजनिक साइट को क्रॉल करना - CMS (जैसे Zendesk या Intercom) के साथ सिंक करना - मैन्युअल रूप से सामग्री जोड़ें। चैटबॉट को तब उस सामग्री पर प्रशिक्षित किया जाता है और वह केवल उस सामग्री के आधार पर सवालों के जवाब देगा।. | :white_check_mark: |
 | [Context Search](http://addcontext.xyz?ref=aicollection) | प्रसंग - एआई-संचालित ऑडियो और वीडियो चैटबॉट. | . | :grey_question: |
+| [Docubro](https://www.docubro.com) | आपकी वेबसाइट प्रलेखन के लिए ChatGPT. | अपने दस्तावेज़ीकरण के लिए ChatGPT, सामग्री का पता लगाने के लिए बातचीत करके इसे सुलभ और उपयोग में आसान बनाएं. | :grey_question: |
 | [HUMATA](https://www.humata.ai/?ref=aicollection) | आपकी फाइलों के लिए चैटजीपीटी।. | 100 गुना तेजी से सीखें, 100 गुना तेजी से रिपोर्ट बनाएं, कानूनी दस्तावेजों का 100 गुना तेजी से विश्लेषण करें, तकनीकी पेपर्स को 100 गुना तेजी से समझें। प्रश्न पूछें और किसी भी फ़ाइल के बारे में तुरंत उत्तर प्राप्त करें।. | :white_check_mark: |
 | [Keepi](https://www.keepi.ai/?ref=aicollection) | व्हाट्सएप पर एआई।. | चलते-फिरते आज उपलब्ध सबसे उन्नत AI तक पहुंचें। कीपी आपको प्रासंगिक ज्ञान के साथ स्मार्ट और तैयार रखेगा।. | :white_check_mark: |
 | [NOLU](http://noluai.com?ref=aicollection) | एआई के साथ बातचीत करना सरल होना चाहिए।. | एनओएलयू से मिलें। ओपन एआई जीपीटी-3 इंजन के साथ बातचीत करने के लिए एक सरल इंटरफ़ेस।. | :white_check_mark: |
@@ -668,7 +671,7 @@
 |---|---|---|:---:|
 | [Article.Audio](http://article.audio?ref=aicollection) | लेख को ऑडियो में बदलें. | एक लेख पढ़ने के लिए बहुत आलसी? कोई बात नहीं, इसे सुनो! थंडरकंटेंट द्वारा संचालित. | :white_check_mark: |
 | [Createaivoiceovers](http://createaivoiceovers.com?ref=aicollection) | टेक्स्ट टू स्पीच ऑनलाइन वॉयस जेनरेटर, टेक्स्ट टू स्पीच जेनरेटर - यथार्थवादी आवाजें - एआई वॉयस ओवर बनाएं. | . | :grey_question: |
-| [Eleven](https://beta.elevenlabs.io/?ref=aicollection) | प्राइम वॉयस एआई. | सबसे यथार्थवादी और बहुमुखी एआई भाषण सॉफ्टवेयर, कभी। ग्यारह कहानी कहने के लिए अंतिम उपकरण की तलाश करने वाले रचनाकारों और प्रकाशकों के लिए सबसे सम्मोहक, समृद्ध और जीवंत आवाजें लाता है।. | :white_check_mark: |
+| [Eleven Labs](https://beta.elevenlabs.io/?ref=aicollection) | प्राइम वॉयस एआई. | सबसे यथार्थवादी और बहुमुखी एआई भाषण सॉफ्टवेयर, कभी। ग्यारह कहानी कहने के लिए अंतिम उपकरण की तलाश करने वाले रचनाकारों और प्रकाशकों के लिए सबसे सम्मोहक, समृद्ध और जीवंत आवाजें लाता है।. | :white_check_mark: |
 | [FakeYou](http://fakeyou.com?ref=aicollection) | आप झूठे हैं। डीप फेक टेक्स्ट टू स्पीच।. | . | :grey_question: |
 | [Free Text-To-Speech](http://www.text-to-speech.online?ref=aicollection) | मुफ़्त टेक्स्ट टू स्पीच ऑनलाइन कन्वर्टर टूल. | . | :white_check_mark: |
 | [Listnr 2.0](https://www.listnr.tech/?gr_pk=V71a&gr_uid=YVDO) | एआई वॉयस जेनरेटर - टेक्स्ट टू स्पीच कन्वर्टर - लिस्टएनआर. | सर्वश्रेष्ठ सिंथेटिक आवाजों के साथ हमारे एआई वॉयस जेनरेटर का उपयोग करके यथार्थवादी टेक्स्ट टू स्पीच (टीटीएस) ऑडियो उत्पन्न करें। तुरंत टेक्स्ट को नेचुरल-साउंडिंग स्पीच में कन्वर्ट करें और MP3 और WAV फॉर्मेट में डाउनलोड करें।. | :x: |
@@ -679,7 +682,7 @@
 | [Speech-to-Speech](http://www.resemble.ai?ref=aicollection) | आपका पूरा जनरेटिव वॉयस एआई टूलकिट. | एआई वॉयस जनरेटर जैसा दिखता है जिससे आप सेकंड में मानव-जैसी वॉयस ओवर बना सकते हैं।. | :x: |
 | [Speechelo](http://speechelo.com?ref=aicollection) | स्पीचेलो - केवल 3 क्लिक के साथ टेक्स्ट से आवाज उत्पन्न करें। ऑडियो कन्वर्टर के लिए सबसे यथार्थवादी साउंडिंग टेक्स्ट. | हम गारंटी देते हैं कि कोई भी आपके वॉयसओवर को एआई नहीं बताएगा। एक टेक्स्ट टू वॉयस टूल के साथ उत्पन्न. | :grey_question: |
 | [Speechify](http://speechify.com?ref=aicollection) | #1 टेक्स्ट टू स्पीच रीडर. | डॉक्स, लेख, पीडीएफ, ईमेल के माध्यम से पावर - आप जो कुछ भी पढ़ते हैं - हमारे प्रमुख टेक्स्ट-टू-स्पीच रीडर के साथ सुनकर।. | :white_check_mark: |
-| [Underduck](http://uberduck.ai?ref=aicollection) | Uberduck - टेक्स्ट-टू-स्पीच, वॉयस ऑटोमेशन, सिंथेटिक मीडिया. | . | :grey_question: |
+| [Underduck](http://uberduck.ai?ref=aicollection) | Uberduck - टेक्स्ट-टू-स्पीच, वॉयस ऑटोमेशन, सिंथेटिक मीडिया. | एआई वोकल्स के साथ संगीत बनाएं, 5,000+ अभिव्यंजक आवाजों के साथ एआई वोकल्स और वॉयसओवर बनाएं, हमारे एपीआई के साथ मिनटों में किलर ऑडियो ऐप बनाएं, अपने स्वयं के कस्टम वॉयस क्लोन के साथ खुद को सिंथेसाइज़ करें. | :grey_question: |
 | [VERBATIK](http://verbatik.com?ref=aicollection) | एआई पावर्ड टेक्स्ट टू वॉयस जनरेशन।. | ऑनलाइन एआई वॉयस जेनरेटर और सर्वश्रेष्ठ सिंथेटिक आवाज का उपयोग करके यथार्थवादी टेक्स्ट टू स्पीच (टीटीएस) ऑडियो उत्पन्न करें। तुरंत टेक्स्ट को नेचुरल-साउंडिंग स्पीच में बदलें और MP3 और WAV ऑडियो फाइलों के रूप में डाउनलोड करें।. | :x: |
 | [Voicemaker](http://voicemaker.in?ref=aicollection) | वॉयसमेकर® - टेक्स्ट टू स्पीच कन्वर्टर. | . | :grey_question: |
 | [Voicera](http://www.voicera.co?ref=aicollection) | वोइसरा - अपने लेखों और ब्लॉगों को आवाज़ दें. | . | :grey_question: |
@@ -876,7 +879,7 @@
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
 | [Designs AI](http://designs.ai?ref=aicollection) | एआई के साथ लोगो, वीडियो, बैनर, वॉयसओवर बनाएं. | 2 मिनट में कुछ भी ऑनलाइन बनाएं! AI के साथ एक लोगो, वीडियो, सोशल मीडिया बैनर, बिजनेस कार्ड, फ्लायर, मॉकअप और बहुत कुछ बनाएं।. | :white_check_mark: |
-| [Durable](http://durable.co?ref=aicollection) | टिकाऊ: एआई वेबसाइट बिल्डर और सर्विस बिजनेस सॉफ्टवेयर. | . | :grey_question: |
+| [Durable](http://durable.co?ref=aicollection) | टिकाऊ: एआई वेबसाइट बिल्डर और सर्विस बिजनेस सॉफ्टवेयर. | एआई के साथ 30 सेकंड में एक वेबसाइट बनाएं - एआई वेबसाइट बिल्डर जो सेकंड में इमेज और कॉपी के साथ एक पूरी वेबसाइट तैयार करता है।. | :x: |
 | [Genius by Diagram](https://www.genius.design/?ref=aicollection) | प्रतिभा - आपका एआई डिजाइन साथी. | . | :grey_question: |
 | [Magician](http://magician.design?ref=aicollection) | Figma के लिए जादूगर. | AI द्वारा संचालित Figma के लिए एक जादुई डिज़ाइन टूल।. | :grey_question: |
 | [Piggy](https://piggy.to/magic?ref=aicollection) | मोबाइल सामग्री निर्माता।. | अपने फोन पर शानदार सामग्री बनाना अब आसान हो गया है. | :white_check_mark: |
@@ -1320,7 +1323,6 @@
 | [Tweetnimage](http://tweetnimage.com?ref=aicollection) | ट्वीट इमेज. | . | :grey_question: |
 | [Twelve Labs](http://twelvelabs.io?ref=aicollection) | बारह प्रयोगशालाएँ. | . | :grey_question: |
 | [USP](http://usp.ai?ref=aicollection) | मैक्सिमाइज़ योर ब्लॉग - Usp.Ai. | आपकी कहानियों और ब्लॉग पोस्ट के लिए बहुत बढ़िया AI ने रॉयल्टी मुक्त छवियां उत्पन्न कीं।. | :white_check_mark: |
-| [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?ref=aicollection) | आगे: स्वचालित कौशल सुझाव. | . | :grey_question: |
 | [Unpromptedgame](http://www.unpromptedgame.com?ref=aicollection) | . | . | :grey_question: |
 | [Unrealme](http://unrealme.io?ref=aicollection) | अवास्तविक मैं. | . | :grey_question: |
 | [Userpersona](http://userpersona.dev?ref=aicollection) | यूजर पर्सोना - एआई-जनरेटेड यूजर पर्सोना. | . | :grey_question: |
