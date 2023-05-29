@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=864" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=866" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=40" />
@@ -352,12 +352,13 @@ Translations:
 | [ChatBotKit](https://chatbotkit.com/?via=aicollection) | The Fastest Way to Build Advanced AI Chat Bots. | ChatBotKit helps you create conversational AI chatbots with your own data to communicate naturally with users on your website, Slack, Discord and WhatsApp. | :white_check_mark: |
 | [ChatGPT](http://chat.openai.com?ref=aicollection) | Apowerful Language Model for Text Generation and Understanding. | . | :white_check_mark: |
 | [Chatbase](https://www.chatbase.co/?ref=aicollection) | Build an AI Chatbot Trained on Your Data. | Just upload a pdf and get a link to a GPT based chatbot that can answer any question on it. | :white_check_mark: |
+| [Commandbar HelpHub](https://helphub.commandbar.com/) | A GPT-Powered Chatbot for Any Site. | You can add source content in 3 ways: -Crawling any public site via a URL (e.g. your marketing site or blog) -Syncing with a CMS (like Zendesk or Intercom) - Add content manually. The chatbot is then trained on that content and will answer questions based on that content only. | :white_check_mark: |
 | [Context Search](http://addcontext.xyz?ref=aicollection) | Context - AI-Powered Audio & Video Chatbots. | . | :grey_question: |
+| [Docubro](https://www.docubro.com) | ChatGPT for Your Website Documentation. | ChatGPT for your documentation, make it accesible and easy to use by having a conversation to explore the content. | :grey_question: |
 | [HUMATA](https://www.humata.ai/?ref=aicollection) | ChatGPT for Your Files. | Learn 100X Faster, Create Reports 100X Faster, Analyze Legal Documents 100X Faster, Understand Technical Papers 100X Faster. Ask Questions & Get Answers About Any File Instantly. | :white_check_mark: |
 | [Keepi](https://www.keepi.ai/?ref=aicollection) | AI Over WhatsApp. | Access the most advanced AI available today on the go. Keepi will keep you smart and ready with relevant knowledge. | :white_check_mark: |
 | [NOLU](http://noluai.com?ref=aicollection) | Interacting With AI Should Be Simple. | Meet NOLU. A simple interface for interacting with the Open AI GPT-3 engine. | :white_check_mark: |
 | [SiteGPT](https://sitegpt.ai/?via=aicollection) | ChatGPT for Every Website. | Instantly answer your visitors' questions with a personalized chatbot trained on your website content. | :white_check_mark: |
-| [Docubro](https://www.docubro.com/?ref=aicollection) | ChatGPT for your website documentation | ChatGPT for your documentation, make it accesible and easy to use by having a conversation to explore the content. | :grey_question: |
 
 <!--End of Chat Bot 3-->
 
@@ -747,6 +748,7 @@ Translations:
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Chivvy](https://chivvy.app?ref=aicollection) | AI Powered Anti-Procrastination App. | Chivvy uses negative reinforcement to get you to do things. Creates accountability on social media. Keeps you on track with smart prompts. All powered by AI. | :white_check_mark: |
+| [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?ref=aicollection) | AI Powered Skill-Suggestion. | Using the power of Skill Suggestion AI we can help you extract in-demand skills in the world, from any kind of text. Try it out! We trained our AI by using more than 1 Million online available content in our Further Content Library which curated from different kinds of sources and topics. | :grey_question: |
 | [Voilà](https://www.getvoila.ai/?ref=aicollection) | Personal ChatGPT Assistant for Supercharged Productivity. | Improve your writing, get answers to all your questions, draft high-quality content and respond to emails. All in one place. | :white_check_mark: |
 | [timeMaster](https://www.timemaster.ai/?ref=aicollection) | Supercharge Your Focus and Productivity. | TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf. | :white_check_mark: |
 
@@ -932,7 +934,7 @@ Translations:
 |---|---|---|:---:|
 | [Article.Audio](http://article.audio?ref=aicollection) | Convert Articles in Audio. | too lazy to read an article? no problem, listen to it! Powered by Thundercontent. | :white_check_mark: |
 | [Createaivoiceovers](http://createaivoiceovers.com?ref=aicollection) | Text to Speech Online Voice Generator, Text to Speech Generator - Realistic Voices - Create AI Voice Overs. | . | :grey_question: |
-| [Eleven](https://beta.elevenlabs.io/?ref=aicollection) | Prime Voice AI. | The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling. | :white_check_mark: |
+| [Eleven Labs](https://beta.elevenlabs.io/?ref=aicollection) | Prime Voice AI. | The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling. | :white_check_mark: |
 | [FakeYou](http://fakeyou.com?ref=aicollection) | Fakeyou. Deep Fake Text to Speech. | . | :grey_question: |
 | [Free Text-To-Speech](http://www.text-to-speech.online?ref=aicollection) | Free Text to Speech Online Converter Tools. | . | :white_check_mark: |
 | [Listnr 2.0](https://www.listnr.tech/?gr_pk=V71a&gr_uid=YVDO) | AI Voice Generator - Text to Speech Converter - Listnr. | Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with the best synthetic voices. Instantly convert text in to natural-sounding speech and download in MP3 and WAV formats. | :x: |
@@ -943,7 +945,7 @@ Translations:
 | [Speech-to-Speech](http://www.resemble.ai?ref=aicollection) | Your Complete Generative Voice AI Toolkit. | Resembles AI voice generator lets you create human–like voice overs in seconds. | :x: |
 | [Speechelo](http://speechelo.com?ref=aicollection) | Speechelo - Generate Voice From Text With Only 3 Clicks. The Most Realistic Souding Text to Audio Converter. | We GUARANTEE no one will tell your voiceover is A.I. generated with a text to voice tool. | :grey_question: |
 | [Speechify](http://speechify.com?ref=aicollection) | The #1 Text to Speech Reader. | Power through docs, articles, PDFs, email — anything you read — by listening with our leading text-to-speech reader. | :white_check_mark: |
-| [Underduck](http://uberduck.ai?ref=aicollection) | Uberduck - Text-to-Speech, Voice Automation, Synthetic Media. | . | :grey_question: |
+| [Underduck](http://uberduck.ai?ref=aicollection) | Uberduck - Text-to-Speech, Voice Automation, Synthetic Media. | Make Music With AI Vocals, Make AI vocals and voiceovers with 5,000+ expressive voices, Build killer audio apps in minutes with our APIs, Synthesize yourself with your own custom voice clone. | :grey_question: |
 | [VERBATIK](http://verbatik.com?ref=aicollection) | AI Powered Text to Voice Generation. | Generate Realistic Text to Speech (TTS) audio using online AI Voice Generator and best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files. | :x: |
 | [Voicemaker](http://voicemaker.in?ref=aicollection) | Voicemaker® - Text to Speech Converter. | . | :grey_question: |
 | [Voicera](http://www.voicera.co?ref=aicollection) | Voicera - Give Voice to Your Articles and Blogs. | . | :grey_question: |
@@ -1023,7 +1025,7 @@ Translations:
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Designs AI](http://designs.ai?ref=aicollection) | Create Logos, Videos, Banners, Voiceovers With AI. | Create anything online in 2 minutes! Make a logo, video, social media banner, business card, flyer, mockup and more with AI. | :white_check_mark: |
-| [Durable](http://durable.co?ref=aicollection) | Durable: AI Website Builder and Service Business Software. | . | :grey_question: |
+| [Durable](http://durable.co?ref=aicollection) | Durable: AI Website Builder and Service Business Software. | Build a website in 30 seconds with AI - The AI website builder that generates an entire website with images and copy in seconds. | :x: |
 | [Genius by Diagram](https://www.genius.design/?ref=aicollection) | Genius - Your AI Design Companion. | . | :grey_question: |
 | [Magician](http://magician.design?ref=aicollection) | Magician for Figma. | A magical design tool for Figma powered by AI. | :grey_question: |
 | [Piggy](https://piggy.to/magic?ref=aicollection) | Mobile Content Creator. | Creating stunning content on your phone just got easy. | :white_check_mark: |
@@ -1327,7 +1329,6 @@ Translations:
 | [Tweetnimage](http://tweetnimage.com?ref=aicollection) | Tweetnimage. | . | :grey_question: |
 | [Twelve Labs](http://twelvelabs.io?ref=aicollection) | Twelve Labs. | . | :grey_question: |
 | [USP](http://usp.ai?ref=aicollection) | Maximize Your Blog - Usp.Ai. | Awesome AI generated ROYALTY FREE IMAGES for your stories and blog posts. | :white_check_mark: |
-| [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?ref=aicollection) | Further: Automated Skill Suggestion. | . | :grey_question: |
 | [Unpromptedgame](http://www.unpromptedgame.com?ref=aicollection) | . | . | :grey_question: |
 | [Unrealme](http://unrealme.io?ref=aicollection) | Unreal Me. | . | :grey_question: |
 | [Userpersona](http://userpersona.dev?ref=aicollection) | User Persona - AI-Generated User Personas. | . | :grey_question: |

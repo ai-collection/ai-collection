@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=864" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=866" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=40" />
@@ -538,7 +538,7 @@
 |---|---|---|:---:|
 | [Article.Audio](http://article.audio?ref=aicollection) | 将文章转换为音频. | 懒得看文章？没问题，听听吧！由 Thundercontent 提供支持. | :white_check_mark: |
 | [Createaivoiceovers](http://createaivoiceovers.com?ref=aicollection) | 文字转语音在线语音生成器，文字转语音生成器 - 逼真的声音 - 创建 Ai 配音. | . | :grey_question: |
-| [Eleven](https://beta.elevenlabs.io/?ref=aicollection) | Prime语音人工智能. | 有史以来最逼真、最通用的 AI 语音软件。 Eleven 为寻求终极讲故事工具的创作者和出版商带来了最引人注目、最丰富和最逼真的声音。. | :white_check_mark: |
+| [Eleven Labs](https://beta.elevenlabs.io/?ref=aicollection) | Prime语音人工智能. | 有史以来最逼真、最通用的 AI 语音软件。 Eleven 为寻求终极讲故事工具的创作者和出版商带来了最引人注目、最丰富和最逼真的声音。. | :white_check_mark: |
 | [FakeYou](http://fakeyou.com?ref=aicollection) | 假你。深假文本到语音。. | . | :grey_question: |
 | [Free Text-To-Speech](http://www.text-to-speech.online?ref=aicollection) | 免费的文本到语音在线转换器工具. | . | :white_check_mark: |
 | [Listnr 2.0](https://www.listnr.tech/?gr_pk=V71a&gr_uid=YVDO) | AI 语音生成器 - 文本到语音转换器 - Listnr. | 使用我们的 AI 语音生成器和最佳合成语音生成逼真的文本到语音 (TTS) 音频。立即将文本转换为听起来自然的语音并以 MP3 和 WAV 格式下载。. | :x: |
@@ -549,7 +549,7 @@
 | [Speech-to-Speech](http://www.resemble.ai?ref=aicollection) | 您完整的生成语音 AI 工具包. | Resemble 的 AI 语音生成器可让您在几秒钟内创建类似人类的配音。. | :x: |
 | [Speechelo](http://speechelo.com?ref=aicollection) | Speechelo - 只需单击 3 次即可从文本生成语音。最逼真的发声文本到音频转换器. | 我们保证没有人会说您的画外音是 A.I.使用文本到语音工具生成. | :grey_question: |
 | [Speechify](http://speechify.com?ref=aicollection) | 排名第一的文本转语音阅读器. | 使用我们领先的文本转语音阅读器收听文档、文章、PDF、电子邮件 - 您阅读的任何内容。. | :white_check_mark: |
-| [Underduck](http://uberduck.ai?ref=aicollection) | Uberduck - 文字转语音、语音自动化、合成媒体. | . | :grey_question: |
+| [Underduck](http://uberduck.ai?ref=aicollection) | Uberduck - 文字转语音、语音自动化、合成媒体. | 使用 AI 人声创作音乐，使用 5,000 多种富有表现力的声音制作 AI 人声和画外音，使用我们的 API 在几分钟内构建杀手级音频应用程序，用您自己的自定义语音克隆合成自己. | :grey_question: |
 | [VERBATIK](http://verbatik.com?ref=aicollection) | AI 驱动的文本到语音生成。. | 使用在线 AI 语音生成器和最佳合成语音生成逼真的文本到语音 (TTS) 音频。立即将文本转换为听起来自然的语音并下载为 MP3 和 WAV 音频文件。. | :x: |
 | [Voicemaker](http://voicemaker.in?ref=aicollection) | Voicemaker® - 文本到语音转换器. | . | :grey_question: |
 | [Voicera](http://www.voicera.co?ref=aicollection) | Voicera - 为您的文章和博客发声. | . | :grey_question: |
@@ -679,6 +679,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [Chivvy](https://chivvy.app?ref=aicollection) | 人工智能驱动的反拖延应用程序. | Chivvy 使用负强化来让你做事。在社交媒体上建立问责制。通过智能提示让您走上正轨。全部由人工智能驱动. | :white_check_mark: |
+| [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?ref=aicollection) | AI 驱动的技能建议. | 借助 Skill Suggestion AI 的强大功能，我们可以帮助您从任何类型的文本中提取世界上急需的技能。试试看！我们通过使用我们的更多内容库中超过 100 万个在线可用内容来训练我们的 AI，这些内容来自不同类型的来源和主题。. | :grey_question: |
 | [Voilà](https://www.getvoila.ai/?ref=aicollection) | 用于提高生产力的个人聊天 GPT 助手. | 改进您的写作，获得所有问题的答案，起草高质量的内容并回复电子邮件。都在一个地方。. | :white_check_mark: |
 | [timeMaster](https://www.timemaster.ai/?ref=aicollection) | 增强您的注意力和工作效率. | TimeMaster 会自动检测您的工作、对您的活动进行分类、标记项目，甚至代表您编写时间日志。. | :white_check_mark: |
 
@@ -786,7 +787,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [Designs AI](http://designs.ai?ref=aicollection) | 使用 AI 创建徽标、视频、横幅、画外音. | 在 2 分钟内在线创建任何内容！使用 AI 制作徽标、视频、社交媒体横幅、名片、传单、模型等。. | :white_check_mark: |
-| [Durable](http://durable.co?ref=aicollection) | 耐用：AI Website Builder 和服务业务软件. | . | :grey_question: |
+| [Durable](http://durable.co?ref=aicollection) | 耐用：AI Website Builder 和服务业务软件. | 使用 AI 在 30 秒内构建网站 - AI 网站构建器可生成带有图像的整个网站并在几秒钟内复制。. | :x: |
 | [Genius by Diagram](https://www.genius.design/?ref=aicollection) | Genius - 你的 AI 设计伙伴. | . | :grey_question: |
 | [Magician](http://magician.design?ref=aicollection) | Figma 魔术师. | 由 AI 提供支持的 Figma 神奇设计工具。. | :grey_question: |
 | [Piggy](https://piggy.to/magic?ref=aicollection) | 移动内容创作者。. | 在您的手机上创建令人惊叹的内容变得简单. | :white_check_mark: |
@@ -829,7 +830,9 @@
 | [ChatBotKit](https://chatbotkit.com/?via=aicollection) | 构建高级 AI 聊天机器人的最快方法. | ChatBotKit 可帮助您使用自己的数据创建对话式 AI 聊天机器人，以便与您网站、Slack、Discord 和 WhatsApp 上的用户自然交流。. | :white_check_mark: |
 | [ChatGPT](http://chat.openai.com?ref=aicollection) | 用于文本生成和理解的强大语言模型. | . | :white_check_mark: |
 | [Chatbase](https://www.chatbase.co/?ref=aicollection) | 构建根据您的数据训练的 AI 聊天机器人. | 只需上传一个 pdf 文件并获得一个基于 GPT 的聊天机器人的链接，该聊天机器人可以回答关于它的任何问题。. | :white_check_mark: |
+| [Commandbar HelpHub](https://helphub.commandbar.com/) | 适用于任何站点的 GPT 聊天机器人。. | 您可以通过 3 种方式添加源内容： - 通过 URL 抓取任何公共网站（例如您的营销网站或博客） - 与 CMS 同步（如 Zendesk 或 Intercom） - 手动添加内容。然后聊天机器人接受该内容的训练，并仅根据该内容回答问题。. | :white_check_mark: |
 | [Context Search](http://addcontext.xyz?ref=aicollection) | 上下文 - AI 驱动的音频和视频聊天机器人. | . | :grey_question: |
+| [Docubro](https://www.docubro.com) | 网站文档的 ChatGPT. | ChatGPT 用于您的文档，通过对话来探索内容，使其易于访问和使用. | :grey_question: |
 | [HUMATA](https://www.humata.ai/?ref=aicollection) | 为您的文件聊天 GPT。. | 学习速度提高 100 倍，创建报告速度提高 100 倍，法律文件分析速度提高 100 倍，技术论文理解速度提高 100 倍。立即提出有关任何文件的问题并获得答案。. | :white_check_mark: |
 | [Keepi](https://www.keepi.ai/?ref=aicollection) | AI 胜过 WhatsApp。. | 随时随地访问当今最先进的 AI。 Keepi 将使您保持聪明并准备好相关知识。. | :white_check_mark: |
 | [NOLU](http://noluai.com?ref=aicollection) | 与 AI 交互应该很简单。. | 认识诺鲁。用于与 Open AI GPT-3 引擎交互的简单界面。. | :white_check_mark: |
@@ -1320,7 +1323,6 @@
 | [Tweetnimage](http://tweetnimage.com?ref=aicollection) | 推特图片. | . | :grey_question: |
 | [Twelve Labs](http://twelvelabs.io?ref=aicollection) | 十二实验室. | . | :grey_question: |
 | [USP](http://usp.ai?ref=aicollection) | 最大化您的博客 - USP.ai. | 很棒的 AI 为您的故事和博客文章生成免版税图像。. | :white_check_mark: |
-| [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?ref=aicollection) | 进一步：自动化技能建议. | . | :grey_question: |
 | [Unpromptedgame](http://www.unpromptedgame.com?ref=aicollection) | . | . | :grey_question: |
 | [Unrealme](http://unrealme.io?ref=aicollection) | 虚幻的我. | . | :grey_question: |
 | [Userpersona](http://userpersona.dev?ref=aicollection) | 用户画像 - AI 生成的用户画像. | . | :grey_question: |
