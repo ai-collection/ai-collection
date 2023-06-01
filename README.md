@@ -620,6 +620,7 @@ Translations:
 | [rankode](http://www.rankode.ai?ref=aicollection) | AI for Human Resources - Rankode. | Recruiters, everything you need to know about a candidate's programming skills is in their GitHub. Evaluate them automatically with Rankode to avoid expensive hiring mistakes and superboost your retention. | :grey_question: |
 | [resumator](https://www.resumator.ai/?ref=aicollection) | Looking for a Job? We've Got You Covered. | Get hired faster with our AI-powered personalized cover letter. It takes just a few seconds!. | :white_check_mark: |
 | [springworks](http://www.springworks.in?ref=aicollection) | Hr Software Solutions for Growing Businesses. | Springworks builds human resources software solutions to solve challenges in recruitment, background verification & employee engagement with Blockchain and AI. | :white_check_mark: |
+| [AI Cover Letter Generator](https://aicoverlettergenerator.me/?ref=aicollection) | Ai cover letter generator | Create a cover letter in seconds using AI. Instantly create a personalized and highly professional cover letters with the help of AI powered by GPT | :white_check_mark: |
 
 <!--End of Human Resources & Resume 14-->
 
