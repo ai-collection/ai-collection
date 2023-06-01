@@ -936,6 +936,7 @@ Translations:
 ## Text To Speech
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [AI Voice Generator](https://www.aivoicegenerator.org?ref=aicollection) | AI Voice Generator: Free text-to-speech AI voice over generator | Generate voice overs with natural human-sounding voices using generative voice AI | :white_check_mark: |
 | [Article.Audio](http://article.audio?ref=aicollection) | Convert Articles in Audio. | too lazy to read an article? no problem, listen to it! Powered by Thundercontent. | :white_check_mark: |
 | [Createaivoiceovers](http://createaivoiceovers.com?ref=aicollection) | Text to Speech Online Voice Generator, Text to Speech Generator - Realistic Voices - Create AI Voice Overs. | . | :grey_question: |
 | [Eleven Labs](https://beta.elevenlabs.io/?ref=aicollection) | Prime Voice AI. | The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling. | :white_check_mark: |
