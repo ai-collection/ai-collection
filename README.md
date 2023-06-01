@@ -492,6 +492,8 @@ Translations:
 | [Replicate](http://replicate.com?ref=aicollection) | Machine Learning DoesnT Need to Be So Hard. | Run open-source models with a cloud API. | :white_check_mark: |
 | [Speakingclubai](http://speakingclubai.com?ref=aicollection) | Speaking Club AI. | Welcome to Speaking Club AI - the ultimate language learning tool for anyone looking to improve their speaking skills in a foreign language. With Speaking Club AI, you can practice    your conversation skills with a personalized AI language partner anytime, anywhere. | :grey_question: |
 | [teachology.ai](https://www.teachology.ai/?ref=aicollection) | A Collection of Tools for Teachers and Educators to Harness the Power of AI in Their Pedagogy and Planning. | Plan Lessons - Harness AI to draft your lessons and export to your favourite formats. Build Rich Assessments - Construct rich assessments with robust rubric driven marking criteria. And more. | :white_check_mark: |
+| [Wilco Sierra](https://trywilco.com/sierra?ref=aicollection) | A platform that generates engineering challenges for software engineers using AI. | Meet Sierra! This Wilco experiment is a first-of-its-kind platform that generates challenges for software engineers using AI. Just tell it what you want to learn, and it will create personalized educational content for you. | :white_check_mark: |
+
 
 <!--End of Education & Learning 32-->
 
