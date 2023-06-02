@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=870" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=873" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=40" />
@@ -177,12 +177,14 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [AI Cover Letter Generator](https://aicoverlettergenerator.me) | AI 求职信生成器. | 使用 AI 在几秒钟内创建求职信。借助由 GPT 提供支持的 AI，即时创建个性化且高度专业的求职信. | :white_check_mark: |
+| [AI Resume Editor](https://rezi.ai/?via=aicollection) | 世界制作简历的方式。最智能的 GPT 驱动的简历生成器。. | Rezi 是唯一一个使用领先的 AI 来自动化创建可雇用简历的各个方面的简历平台——写作、编辑、格式化和优化。. | :white_check_mark: |
 | [Cover Letter AI App](https://coverletterai.app/?ref=aicollection) | 求职信人工智能. | . | :white_check_mark: |
 | [Hire Hoc](http://hirehoc.com?ref=aicollection) | Hire Hoc - 人工智能驱动的招聘工具. | 借助 AI 辅助招聘的力量改变您的组织。. | :grey_question: |
 | [HireYaY](http://hireyay.com?ref=aicollection) | HireYaY，初创公司的招聘平台. | 92% 的求职者没有完成在线申请。有了 HireYaY，您再也不会错过合格的候选人。. | :grey_question: |
 | [Hirex.ai](http://www.hirex.ai?ref=aicollection) | hirex.ai. | 欢迎来到 hirex.ai，这是一个无代码 AI 平台，用于构建基于语音的机器人，这些机器人可以大规模进行面试并为其评分。获取完整的评估工具套件，如编码面试、MCQ 测试、编程马拉松、视频面试和 WhatsApp 聊天机器人，所有这些都在一个仪表板下. | :grey_question: |
 | [JD Generator](http://hirequotient.com?ref=aicollection) | 认识团队 - HireQuotient. | HireQuotient 的技能评估平台可帮助您以一半的时间雇用人才库中前 10% 的人才。. | :grey_question: |
 | [LazyApply](http://lazyapply.com?ref=aicollection) | 自动化您的工作申请流程. | 我们会自动申请 Linkedin、Indeed 和 Ziprecruiter 等平台上的所有职位。. | :x: |
+| [ResumAI](http://www.wonsulting.com?ref=aicollection) | Wonsulting - 我们找到理想的工作. | 我们已经帮助超过 100,000 人找到了他们梦想的工作。让我们的求职策略带你从简历到更好的日子。. | :grey_question: |
 | [Resume Worded](http://resumeworded.com) | 改善您的简历和 LinkedIn 个人资料. | 我们的人工智能平台由顶级招聘人员设计，可立即为您提供有关您的简历和 LinkedIn 个人资料的定制反馈。获得 5 倍以上的面试、机会和工作机会。. | :white_check_mark: |
 | [Uniglobal Careers](https://uniglobalcareers.com/cv-generator) | 通过 UniGlobal Careers 开启国际教育世界——您的超级英雄力量值得在全球舞台上展示！ 💪🌎. | 隆重推出 UniGlobal CV 和 Cover Letter Generator，这是一款面向国际教育领域求职者的人工智能超级工具！ UniGlobal Careers 利用尖端人工智能为您提供为国际机会量身定制的迷人简历和求职信。 🌍✨. | :white_check_mark: |
 | [rankode](http://www.rankode.ai?ref=aicollection) | 人力资源人工智能 - Rankode. | 招聘人员，您需要了解的有关应聘者编程技能的所有信息都在他们的 GitHub 中。使用 Rankode 自动评估它们，以避免代价高昂的招聘错误并大幅提高您的保留率。. | :grey_question: |
@@ -296,7 +298,7 @@
 | [Wordplay](http://wordplay.ai?ref=aicollection) | 在几秒钟内创建长篇内容。. | 为 SEO 和内容发布者打造的排名第一的 AI 内容生成器。. | :white_check_mark: |
 | [Writesonic](https://writesonic.com?via=beth0) | Writesonic - 最佳 AI 作家、文案写作和释义工具. | 以 10 倍的速度为您的博客、广告、电子邮件和网站创建 SEO 优化且无抄袭的内容。. | :white_check_mark: |
 | [Writey AI](http://writey.ai?ref=aicollection) | 是的——一个人工智能可以在几分钟内写出原创的、经过研究的博客文章. | 第一个真正的免费抄袭 A.I 具有原创和研究内容，检查 Writey A.I 在行动。. | :white_check_mark: |
-| [unbound](https://www.unboundcontent.ai/auth?affiliate=aff_z0krz31) | 为您的小型企业自动创建内容. | 在一个地方利用所有最好的 AI 生成工具，旨在为小型企业、在线商店和创作者自动创建内容。. | :white_check_mark: |
+| [unbound](https://www.unboundcontent.ai/?affiliate=aff_z0krz31) | 为您的小型企业自动创建内容. | 在一个地方利用所有最好的 AI 生成工具，旨在为小型企业、在线商店和创作者自动创建内容。. | :white_check_mark: |
 | [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0) | 立即将您的 YouTube 内容转换为引人入胜的博客文章。. | 提升您的 SEO 和品牌影响力。. | :white_check_mark: |
 
 <!--End of 内容生成和搜索引擎优化 5-->
@@ -320,7 +322,7 @@
 | [Paragraph AI](http://paragraphai.com?ref=aicollection) | ParagraphAI • 最佳人工智能写作应用程序 • 免费人工智能写作助手工具. | . | :white_check_mark: |
 | [Paraphraser](http://paraphrasetool.com?ref=aicollection) | 所有语言的免费释义. | . | :white_check_mark: |
 | [Paraphraser AI](http://app.yaara.ai?ref=aicollection) | Yaara — AI 驱动的写作助手. | . | :grey_question: |
-| [Quillbot Paraphraser](http://quillbot.com?ref=aicollection) | QuillBot 的 AI 驱动的释义工具将提高您的写作水平. | 您的话很重要，我们的释义工具旨在确保您使用正确的措辞。有两种免费模式和五种高级模式可供选择，您可以使用 QuillBot 的在线释义器以各种方式改写任何文本。. | :white_check_mark: |
+| [Quillbot Paraphraser](https://try.quillbot.com/aicollection) | QuillBot 的 AI 驱动的释义工具将提高您的写作水平. | 您的话很重要，我们的释义工具旨在确保您使用正确的措辞。有两种免费模式和五种高级模式可供选择，您可以使用 QuillBot 的在线释义器以各种方式改写任何文本。. | :white_check_mark: |
 | [Rizz!](http://rizzai.com?ref=aicollection) | 释放无限活力的力量！. | 世界上最强大的文本 AI，内置于您的键盘中. | :grey_question: |
 | [Rytr](http://rytr.me?ref=aicollection) | Rytr - 最佳 AI 作家、内容生成器和写作助理. | . | :grey_question: |
 | [SmartScribe](http://www.smartscribe.app?ref=aicollection) | SmartScribe - 人工智能写作助手 - 让写作变得简单. | SmartScribe 通过使用人工智能帮助解决书写的复杂性. | :grey_question: |
@@ -655,6 +657,7 @@
 | [Blend Studio](https://www.delete.bg/aistudio?ref=aicollection) | 文本到图像 AI 背景生成器. | 根据您的描述，使用 AI 生成的背景场景为您的产品创建精美的高质量照片。. | :white_check_mark: |
 | [Claid.ai](http://claid.ai?ref=aicollection) | Claid.ai：用于 UGC 的自动照片增强器。网络、移动和打印. | AI 软件可在无质量损失的情况下放大图像、校正颜色、提高分辨率、润饰产品照片并自动编辑 UGC。. | :grey_question: |
 | [Colorize](http://colorize.cc?ref=aicollection) | 在线给照片上色. | . | :grey_question: |
+| [DoMyShoot](https://domyshoot.com/) | DoMyShoot - 简化产品摄影. | 使用 DoMyShoot，您可以使用具有专业外观的产品照片立即升级您的电子商务业务。轻松使用该应用程序的创新功能为您的品牌创建自定义内容 - 无需任何经验！仅使用您的智能手机引导自己完成照片拍摄，让我们的 AI 技术处理剩余的过程，将日常产品变成照片般逼真的图像，这些图像一定会让营销策略更上一层楼。. | :white_check_mark: |
 | [ExtendImage](http://www.extendimage.ai?ref=aicollection) | ExtendImageAI - 使用生成式 AI 扩展您的图像. | ExtendImageAI 是一种工具，可让您使用生成式 AI 扩展图像。. | :grey_question: |
 | [Hama](http://www.hama.app?ref=aicollection) | 哈马. | 惊人的照片橡皮擦. | :grey_question: |
 | [HitPaw Online Photo Enhancer](https://online.hitpaw.com/online-photo-enhancer.html?ref=aicollection) | 取消模糊图像并告别低质量照片。. | HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化细节并提高照片质量. | :white_check_mark: |
@@ -844,6 +847,7 @@
 | [HUMATA](https://www.humata.ai/?ref=aicollection) | 为您的文件聊天 GPT。. | 学习速度提高 100 倍，创建报告速度提高 100 倍，法律文件分析速度提高 100 倍，技术论文理解速度提高 100 倍。立即提出有关任何文件的问题并获得答案。. | :white_check_mark: |
 | [Keepi](https://www.keepi.ai/?ref=aicollection) | AI 胜过 WhatsApp。. | 随时随地访问当今最先进的 AI。 Keepi 将使您保持聪明并准备好相关知识。. | :white_check_mark: |
 | [NOLU](http://noluai.com?ref=aicollection) | 与 AI 交互应该很简单。. | 认识诺鲁。用于与 Open AI GPT-3 引擎交互的简单界面。. | :white_check_mark: |
+| [PageLines](https://www.pagelines.com) | 网站的 AI 代理. | ChapGPT 支持的代理和聊天机器人可改善您的网站和营销. | :white_check_mark: |
 | [SiteGPT](https://sitegpt.ai/?via=aicollection) | 每个网站的 ChatGPT. | 使用根据您的网站内容训练的个性化聊天机器人即时回答访问者的问题。. | :white_check_mark: |
 
 <!--End of 聊天机器人 3-->
@@ -922,6 +926,7 @@
 | [Playground](https://playgroundai.com/?ref=aicollection) | Playground AI - 在线 AI 图像创建器. | Playground AI 是一个免费使用的在线 AI 图像创建器。用它来创作艺术、社交媒体帖子、演示文稿、海报、视频、徽标等。. | :white_check_mark: |
 | [Pollinations](http://pollinations.ai?ref=aicollection) | 您的个性化媒体引擎. | 我们结合并微调算法以匹配任何美学，允许创建无限的、定制的 AI 媒体。. | :grey_question: |
 | [Portrait by Vana](http://portrait.vana.com?ref=aicollection) | 肖像 - 瓦娜. | Vana 的“Portrait”是一个生成式艺术工作室，可以用无限的风格为你创作自画像。. | :grey_question: |
+| [PromeAI](https://www.promeai.com) | 用于草图渲染和着色的 AI 工具. | 正在寻找可以帮助您将创意变为现实的人工智能设计助手？使用我们广泛的可控 AIGC (C-AIGC) 模型样式库创建令人惊叹的设计。无论您是建筑师、室内设计师、产品设计师，还是游戏动画设计师。. | :white_check_mark: |
 | [Prompt Art](http://promptart.labml.ai?ref=aicollection) | 稳定扩散游乐场. | . | :grey_question: |
 | [Quasi](http://quasi.market?ref=aicollection) | 我们让 AI 创作变得简单. | 利用 AI 的强大功能解锁，并通过简单易用的平台轻松创建各种类型的精彩内容。. | :white_check_mark: |
 | [Rayst Gradients](http://gradients.ray.st?ref=aicollection) | 光线渐变. | 由 AI 生成的 64 个美丽渐变的集合。. | :grey_question: |
@@ -1083,7 +1088,6 @@
 | [AI Query](http://www.aiquery.co?ref=aicollection) | AI 查询 - 用 AI 在几秒钟内生成 SQL 查询. | 使用简单的英语，让 AI 为您完成繁重的工作。借助 AI Query，任何人都可以创建高效的 SQL 查询，甚至无需对此一无所知。. | :grey_question: |
 | [AI Recipe Generator](http://ai-recipes.softr.app?ref=aicollection) | 人工智能食谱生成器. | . | :grey_question: |
 | [AI Rental Cover Letter](http://sharehouse.app?ref=aicollection) | 🏡 Sharehouse - 免费室友查找器. | 与合租屋、室友或室友联系。自由列出和宣传您的房间、房屋或公寓。. | :grey_question: |
-| [AI Resume Editor](http://www.rezi.ai?ref=aicollection) | Rezi - 领先的 AI 简历生成器，受到 352,894 位用户的信赖. | . | :grey_question: |
 | [AI SQL BOT](http://aihelperbot.com?ref=aicollection) | AI SQL 查询生成器：无需先验 SQL 知识即可构建 SQL 查询的最简单方法 - 使用 AI 的 SQL 查询生成器. | . | :grey_question: |
 | [AI Social Bio](http://aisocialbio.com?ref=aicollection) | 人工智能社交生物. | . | :grey_question: |
 | [AI Social Media Post Writerby Socialblu](http://socialbu.com?ref=aicollection) | SocialBu - 社交媒体管理和自动化. | SocialBu 是提高社交媒体影响力和最大化结果的完美解决方案。发布、响应、分析和自动化——一切都在 SocialBu 中. | :grey_question: |
@@ -1268,7 +1272,6 @@
 | [Recommendme](http://www.recommendme.to?ref=aicollection) | 推荐我. | . | :grey_question: |
 | [Redacta.me](http://www.redacta.me?ref=aicollection) | redacta.me - Tu 社区经理虚拟. | . | :grey_question: |
 | [Reface](http://hey.reface.ai) | 重新面对。成为任何人. | 只需一张自拍即可创建逼真的换脸视频、GIF 和表情包. | :grey_question: |
-| [ResumAI](http://www.wonsulting.com?ref=aicollection) | Wonsulting - 我们找到理想的工作. | 我们已经帮助超过 100,000 人找到了他们梦想的工作。让我们的求职策略带你从简历到更好的日子。. | :grey_question: |
 | [Resume Studio](http://resumestudio.careers?ref=aicollection) | . | . | :grey_question: |
 | [Reviewgenerator](http://reviewgenerator.app?ref=aicollection) | 评论生成器.app. | . | :grey_question: |
 | [Revive](http://letsrevive.app?ref=aicollection) | Revive - 使用 AI 构想商业创意. | . | :grey_question: |

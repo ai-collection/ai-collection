@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=870" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=873" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=40" />
@@ -195,7 +195,7 @@
 | [Paragraph AI](http://paragraphai.com?ref=aicollection) | Paragraphai • La mejor aplicación de escritura con IA • Herramienta gratuita de asistente de escritura con IA. | . | :white_check_mark: |
 | [Paraphraser](http://paraphrasetool.com?ref=aicollection) | Parafraseo gratuito para todos los idiomas. | . | :white_check_mark: |
 | [Paraphraser AI](http://app.yaara.ai?ref=aicollection) | Yaara — Asistente de escritura impulsada por IA. | . | :grey_question: |
-| [Quillbot Paraphraser](http://quillbot.com?ref=aicollection) | La herramienta de paráfrasis impulsada por IA de QuillBot mejorará su escritura. | Tus palabras importan, y nuestra herramienta de paráfrasis está diseñada para garantizar que uses las correctas. Con dos modos gratuitos y cinco modos Premium para elegir, puede usar el Paraphraser en línea de QuillBot para reformular cualquier texto de varias maneras. | :white_check_mark: |
+| [Quillbot Paraphraser](https://try.quillbot.com/aicollection) | La herramienta de paráfrasis impulsada por IA de QuillBot mejorará su escritura. | Tus palabras importan, y nuestra herramienta de paráfrasis está diseñada para garantizar que uses las correctas. Con dos modos gratuitos y cinco modos Premium para elegir, puede usar el Paraphraser en línea de QuillBot para reformular cualquier texto de varias maneras. | :white_check_mark: |
 | [Rizz!](http://rizzai.com?ref=aicollection) | ¡Libera el poder de Infinite Rizz!. | La IA de texto más poderosa del mundo, integrada en su teclado. | :grey_question: |
 | [Rytr](http://rytr.me?ref=aicollection) | Rytr - Mejor escritor de inteligencia artificial, generador de contenido y asistente de escritura. | . | :grey_question: |
 | [SmartScribe](http://www.smartscribe.app?ref=aicollection) | Smartscribe - Asistente de escritura AI - Escritura fácil. | SmartScribe ayuda a resolver las complejidades de la escritura mediante el uso de Inteligencia Artificial. | :grey_question: |
@@ -408,6 +408,7 @@
 | [Blend Studio](https://www.delete.bg/aistudio?ref=aicollection) | Generador de fondo AI de texto a imagen. | Cree hermosas fotos de alta calidad para sus productos con escenas de fondo generadas por IA basadas en su descripción. | :white_check_mark: |
 | [Claid.ai](http://claid.ai?ref=aicollection) | Claid.Ai: potenciador de fotos automatizado para Ugc. Web, móvil e impresión. | Software de IA para ampliar imágenes sin pérdida de calidad, corregir colores, aumentar la resolución, retocar fotos de productos y editar UGC automáticamente. | :grey_question: |
 | [Colorize](http://colorize.cc?ref=aicollection) | Colorear fotos en línea. | . | :grey_question: |
+| [DoMyShoot](https://domyshoot.com/) | DoMyShoot - Fotografía de productos simplificada. | Con DoMyShoot, puede actualizar instantáneamente su negocio de comercio electrónico con fotos de productos de aspecto profesional. Utilice fácilmente las características innovadoras de la aplicación para crear contenido personalizado para su marca, ¡no se requiere experiencia! Guíese a través de una sesión de fotos usando solo su teléfono inteligente y deje que nuestra tecnología de inteligencia artificial se encargue del resto del proceso, convirtiendo los productos cotidianos en imágenes realistas que seguramente llevarán las estrategias de marketing a un nivel superior. | :white_check_mark: |
 | [ExtendImage](http://www.extendimage.ai?ref=aicollection) | Extendimageai: amplíe sus imágenes con IA generativa. | ExtendImageAI es una herramienta que te permite ampliar tus imágenes con IA generativa. | :grey_question: |
 | [Hama](http://www.hama.app?ref=aicollection) | hama. | Impresionante borrador de fotos. | :grey_question: |
 | [HitPaw Online Photo Enhancer](https://online.hitpaw.com/online-photo-enhancer.html?ref=aicollection) | Desenfoca las imágenes y di adiós a las fotos de baja calidad. | HitPaw Online AI Photo Enhancer utiliza tecnología avanzada de IA para eliminar el ruido, afinar los detalles y mejorar la calidad de las fotos. | :white_check_mark: |
@@ -492,7 +493,7 @@
 | [Wordplay](http://wordplay.ai?ref=aicollection) | Cree contenido de formato largo en segundos. | El generador de contenido de IA n.º 1 creado para SEO y editores de contenido. | :white_check_mark: |
 | [Writesonic](https://writesonic.com?via=beth0) | Writesonic: la mejor herramienta de redacción, redacción publicitaria y paráfrasis de IA. | Cree contenido optimizado para SEO y libre de plagio para sus blogs, anuncios, correos electrónicos y sitio web 10 veces más rápido. | :white_check_mark: |
 | [Writey AI](http://writey.ai?ref=aicollection) | Sí: una IA que escribe publicaciones de blog originales e investigadas en minutos. | Primera IA de plagio verdaderamente libre con contenido original e investigado, compruebe Writey A.I en acción. | :white_check_mark: |
-| [unbound](https://www.unboundcontent.ai/auth?affiliate=aff_z0krz31) | Automatice la creación de contenido para su pequeña empresa. | Aproveche las mejores herramientas de generación de IA en un solo lugar diseñado para automatizar la creación de contenido para pequeñas empresas, tiendas en línea y creadores. | :white_check_mark: |
+| [unbound](https://www.unboundcontent.ai/?affiliate=aff_z0krz31) | Automatice la creación de contenido para su pequeña empresa. | Aproveche las mejores herramientas de generación de IA en un solo lugar diseñado para automatizar la creación de contenido para pequeñas empresas, tiendas en línea y creadores. | :white_check_mark: |
 | [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0) | Convierta instantáneamente su contenido de YouTube en atractivos artículos de blog. | Impulsa tu SEO y presencia de marca. | :white_check_mark: |
 
 <!--End of Generación de contenido y SEO 5-->
@@ -595,6 +596,7 @@
 | [Playground](https://playgroundai.com/?ref=aicollection) | Playground AI - Creador de imágenes de IA en línea. | Playground AI es un creador de imágenes de IA en línea de uso gratuito. Úselo para crear arte, publicaciones en redes sociales, presentaciones, carteles, videos, logotipos y más. | :white_check_mark: |
 | [Pollinations](http://pollinations.ai?ref=aicollection) | SU MOTOR PARA MEDIOS PERSONALIZADOS. | Combinamos y ajustamos algoritmos para que coincidan con cualquier estética, lo que permite la creación de medios de IA personalizados e ilimitados. | :grey_question: |
 | [Portrait by Vana](http://portrait.vana.com?ref=aicollection) | Retrato - Vana. | “Portrait” de Vana es un estudio de arte generativo que puede crear autorretratos tuyos en infinitos estilos. | :grey_question: |
+| [PromeAI](https://www.promeai.com) | Herramienta AI para renderizar y colorear bocetos. | ¿Está buscando un asistente de diseño impulsado por IA que pueda ayudarlo a dar vida a sus ideas creativas? Cree diseños sorprendentes con nuestra amplia biblioteca de estilos de modelos controlables AIGC (C-AIGC). Ya sean arquitectos, diseñadores de interiores, diseñadores de productos o diseñadores de animación de juegos. | :white_check_mark: |
 | [Prompt Art](http://promptart.labml.ai?ref=aicollection) | Zona de juegos de difusión estable. | . | :grey_question: |
 | [Quasi](http://quasi.market?ref=aicollection) | Hacemos que crear con IA sea fácil. | Desbloquee con el poder de la IA y cree fácilmente contenido asombroso de todo tipo con una plataforma fácil de usar. | :white_check_mark: |
 | [Rayst Gradients](http://gradients.ray.st?ref=aicollection) | Gradientes de rayos. | Una colección de 64 hermosos degradados generados por IA. | :grey_question: |
@@ -792,12 +794,14 @@
 | Nombre | Título | Descripción | Ofrecer versión gratuita |
 |---|---|---|:---:|
 | [AI Cover Letter Generator](https://aicoverlettergenerator.me) | Generador de carta de presentación Ai. | Cree una carta de presentación en segundos usando IA. Cree instantáneamente cartas de presentación personalizadas y altamente profesionales con la ayuda de IA impulsada por GPT. | :white_check_mark: |
+| [AI Resume Editor](https://rezi.ai/?via=aicollection) | La forma en que el mundo hace currículums. El creador de currículums más inteligente con tecnología GPT. | Rezi es la única plataforma de currículum que utiliza inteligencia artificial líder para automatizar todos los aspectos de la creación de un currículum alquilable: redacción, edición, formato y optimización. | :white_check_mark: |
 | [Cover Letter AI App](https://coverletterai.app/?ref=aicollection) | Carta de presentación IA. | . | :white_check_mark: |
 | [Hire Hoc](http://hirehoc.com?ref=aicollection) | Hire Hoc: la herramienta de contratación impulsada por IA. | Transforme su organización con el poder del reclutamiento asistido por IA. | :grey_question: |
 | [HireYaY](http://hireyay.com?ref=aicollection) | Hireyay, una Plataforma de Contratación para Startups. | El 92% de los buscadores de empleo no completan su solicitud en línea. Con HireYaY, nunca más perderá a un candidato calificado. | :grey_question: |
 | [Hirex.ai](http://www.hirex.ai?ref=aicollection) | Hirex.Ai. | Bienvenido a Hirex.ai, una plataforma de IA sin código para crear bots basados en voz que realizan y califican entrevistas a escala. Obtenga el conjunto completo de herramientas de evaluación, como entrevistas de codificación, pruebas de MCQ, hackatones, entrevistas en video y chatbots de WhatsApp, todo en un solo panel. | :grey_question: |
 | [JD Generator](http://hirequotient.com?ref=aicollection) | Conoce al equipo - Hirequotient. | La plataforma de evaluación de habilidades de HireQuotient lo ayuda a contratar al 10 % superior del grupo de talentos en la mitad del tiempo. | :grey_question: |
 | [LazyApply](http://lazyapply.com?ref=aicollection) | Automatice su proceso de solicitud de empleo. | Aplicamos automáticamente a todos los trabajos en plataformas como Linkedin, Indeed y Ziprecruiter. | :x: |
+| [ResumAI](http://www.wonsulting.com?ref=aicollection) | Wonsulting - Encontramos trabajos de ensueño. | Hemos ayudado a más de 100.000 personas a conseguir el trabajo de sus sueños. Deje que nuestras estrategias de búsqueda de empleo lo lleven de currículums a días mejores. | :grey_question: |
 | [Resume Worded](http://resumeworded.com) | Mejora tu currículum y perfil de Linkedin. | Diseñada por los mejores reclutadores, nuestra plataforma impulsada por IA le brinda instantáneamente comentarios personalizados sobre su currículum y perfil de LinkedIn. Obtenga 5 veces más entrevistas, oportunidades y ofertas de trabajo. | :white_check_mark: |
 | [Uniglobal Careers](https://uniglobalcareers.com/cv-generator) | Desbloquee el mundo de la educación internacional con UniGlobal Careers: ¡sus poderes de superhéroe merecen un escenario global! 💪🌎. | ¡Presentamos UniGlobal CV and Cover Letter Generator, la súper herramienta impulsada por IA para quienes buscan trabajo en el ámbito de la educación internacional! UniGlobal Careers aprovecha la inteligencia artificial de vanguardia para empoderarlo con CV cautivadores y cartas de presentación adaptadas a las oportunidades internacionales. 🌍✨. | :white_check_mark: |
 | [rankode](http://www.rankode.ai?ref=aicollection) | IA para Recursos Humanos - Rankode. | Reclutadores, todo lo que necesitan saber sobre las habilidades de programación de un candidato está en su GitHub. Evalúelos automáticamente con Rankode para evitar costosos errores de contratación y aumentar su retención. | :grey_question: |
@@ -862,6 +866,7 @@
 | [HUMATA](https://www.humata.ai/?ref=aicollection) | ChatGPT para sus archivos. | Aprenda 100 veces más rápido, cree informes 100 veces más rápido, analice documentos legales 100 veces más rápido, comprenda documentos técnicos 100 veces más rápido. Haga preguntas y obtenga respuestas sobre cualquier archivo al instante. | :white_check_mark: |
 | [Keepi](https://www.keepi.ai/?ref=aicollection) | IA sobre WhatsApp. | Acceda a la IA más avanzada disponible en la actualidad sobre la marcha. Keepi lo mantendrá inteligente y listo con el conocimiento relevante. | :white_check_mark: |
 | [NOLU](http://noluai.com?ref=aicollection) | Interactuar con IA debería ser simple. | Conoce a NOLU. Una interfaz simple para interactuar con el motor Open AI GPT-3. | :white_check_mark: |
+| [PageLines](https://www.pagelines.com) | Agentes de IA para sitios web. | Agentes y chatbots potenciados por ChapGPT que mejoran su sitio web y marketing. | :white_check_mark: |
 | [SiteGPT](https://sitegpt.ai/?via=aicollection) | ChatGPT para cada sitio web. | Responda instantáneamente a las preguntas de sus visitantes con un chatbot personalizado entrenado en el contenido de su sitio web. | :white_check_mark: |
 
 <!--End of Robot de chat 3-->
@@ -1083,7 +1088,6 @@
 | [AI Query](http://www.aiquery.co?ref=aicollection) | Consulta de IA: genere consultas SQL con IA en segundos. | Usa un inglés sencillo y deja que la IA haga el trabajo pesado por ti. Con AI Query cualquiera puede crear consultas SQL eficientes, sin siquiera saber nada al respecto. | :grey_question: |
 | [AI Recipe Generator](http://ai-recipes.softr.app?ref=aicollection) | Generador de recetas de IA. | . | :grey_question: |
 | [AI Rental Cover Letter](http://sharehouse.app?ref=aicollection) | 🏡Sharehouse - Buscador de compañeros de casa gratis. | Conéctese con Sharehouses, Housemates o Flatmates. Enumere y anuncie libremente su habitación, casa o apartamento. | :grey_question: |
-| [AI Resume Editor](http://www.rezi.ai?ref=aicollection) | Rezi: el creador líder de currículums con IA en el que confían 352 894 usuarios. | . | :grey_question: |
 | [AI SQL BOT](http://aihelperbot.com?ref=aicollection) | Generador de consultas SQL con IA: la forma más fácil de crear consultas SQL sin conocimientos previos de SQL - Generador de consultas SQL con IA. | . | :grey_question: |
 | [AI Social Bio](http://aisocialbio.com?ref=aicollection) | Biografía social de IA. | . | :grey_question: |
 | [AI Social Media Post Writerby Socialblu](http://socialbu.com?ref=aicollection) | Socialbu - Gestión y Automatización de Redes Sociales. | SocialBu es la solución perfecta para mejorar tu presencia en las redes sociales y maximizar tus resultados. Publique, responda, analice y automatice, todo desde SocialBu. | :grey_question: |
@@ -1268,7 +1272,6 @@
 | [Recommendme](http://www.recommendme.to?ref=aicollection) | Recomiéndame. | . | :grey_question: |
 | [Redacta.me](http://www.redacta.me?ref=aicollection) | Redacta.Me - Tu Community Manager Virtual. | . | :grey_question: |
 | [Reface](http://hey.reface.ai) | Revestir de nuevo. ser cualquiera. | Cree videos, GIF y memes de intercambio de caras realistas con solo una selfie. | :grey_question: |
-| [ResumAI](http://www.wonsulting.com?ref=aicollection) | Wonsulting - Encontramos trabajos de ensueño. | Hemos ayudado a más de 100.000 personas a conseguir el trabajo de sus sueños. Deje que nuestras estrategias de búsqueda de empleo lo lleven de currículums a días mejores. | :grey_question: |
 | [Resume Studio](http://resumestudio.careers?ref=aicollection) | . | . | :grey_question: |
 | [Reviewgenerator](http://reviewgenerator.app?ref=aicollection) | Reviewgenerator.App. | . | :grey_question: |
 | [Revive](http://letsrevive.app?ref=aicollection) | Revive - Imagina ideas de negocios con IA. | . | :grey_question: |
