@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=873" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=874" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=40" />
@@ -699,6 +699,7 @@
 | [Adrenaline](https://useadrenaline.com/?ref=aicollection) | Прекратите вставлять свои ошибки в Stack Overflow. | Adrenaline — это помощник по отладке на базе OpenAI Codex. Он может исправить и объяснить ваш неработающий код за считанные секунды. | :white_check_mark: |
 | [Anania](https://anania.ai/?ref=aicollection) | ИИ-помощник для аналитики. | Задавайте вопросы о ваших данных и документах. | :white_check_mark: |
 | [Ask Command](http://askcommand.com?ref=aicollection) | Ask Command — Помощник разработчика на базе искусственного интеллекта. | Крошечное приложение, чтобы напомнить вам о тех командах, которые вы всегда забываете. Работает на ИИ. | :grey_question: |
+| [BI.P.EYE](https://bipeye.com/) | Платформа самообслуживания BI. | Сделайте анализ данных увлекательным и интерактивным с помощью диаграмм на основе чата. | :white_check_mark: |
 | [Channel](http://www.usechannel.com?ref=aicollection) | Канал. | Подключи свою базу данных, задай вопрос, получи ответ. | :grey_question: |
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist?ref=aicollection) | CodeAssist — ИИ-помощник/чат-бот/второй пилот для программирования — JetBrains Marketplace. | Он генерирует, изменяет, дополняет код и отвечает на вопросы. | :grey_question: |
 | [CodeGPT](http://www.codegpt.co/?ref=aicollection) | ИИ внутри вашей IDE. | Улучшите свой код с помощью Code GPT AI. | :white_check_mark: |

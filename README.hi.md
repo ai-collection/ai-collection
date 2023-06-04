@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=873" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=874" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=40" />
@@ -452,6 +452,7 @@
 | [Adrenaline](https://useadrenaline.com/?ref=aicollection) | स्टैक ओवरफ़्लो में अपनी त्रुटियों को प्लग करना बंद करें. | एड्रेनालाईन OpenAI कोडेक्स द्वारा संचालित एक डिबगिंग सहायक है। यह सेकंडों में आपके टूटे हुए कोड को ठीक कर सकता है और समझा सकता है।. | :white_check_mark: |
 | [Anania](https://anania.ai/?ref=aicollection) | विश्लेषिकी के लिए एआई सहायक. | अपने डेटा और दस्तावेज़ों पर प्रश्न पूछें. | :white_check_mark: |
 | [Ask Command](http://askcommand.com?ref=aicollection) | आस्क कमांड - एआई-पावर्ड डेवलपर असिस्टेंट. | उन आदेशों के बारे में आपको याद दिलाने के लिए एक छोटा ऐप जो आप हमेशा भूल जाते हैं। एआई द्वारा संचालित।. | :grey_question: |
+| [BI.P.EYE](https://bipeye.com/) | सेल्फ सर्विस बीआई प्लेटफॉर्म।. | चैट-आधारित चार्ट के साथ डेटा विश्लेषण को मज़ेदार और इंटरैक्टिव बनाएं. | :white_check_mark: |
 | [Channel](http://www.usechannel.com?ref=aicollection) | चैनल. | अपना डेटाबेस कनेक्ट करें, प्रश्न पूछें, उत्तर प्राप्त करें।. | :grey_question: |
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist?ref=aicollection) | कोडेसिस्ट प्रोग्रामिंग के लिए एआई असिस्टेंट / चैटबॉट / कोपिलॉट है - जेटब्रेन्स मार्केटप्लेस. | यह कोड उत्पन्न करता है, बदलता है, पूरा करता है और प्रश्नों का उत्तर देता है।. | :grey_question: |
 | [CodeGPT](http://www.codegpt.co/?ref=aicollection) | एआई इनसाइड योर आइडी. | कोड GPT AI के साथ अपना कोड सुधारें. | :white_check_mark: |

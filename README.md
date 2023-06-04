@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=873" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=874" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=40" />
@@ -374,6 +374,7 @@ Translations:
 | [Adrenaline](https://useadrenaline.com/?ref=aicollection) | Stop Plugging Your Errors Into Stack Overflow. | Adrenaline is a debugging assistant powered by the OpenAI Codex. It can fix and explain your broken code in seconds. | :white_check_mark: |
 | [Anania](https://anania.ai/?ref=aicollection) | AI Assistant for Analytics. | Ask questions on your data and documents. | :white_check_mark: |
 | [Ask Command](http://askcommand.com?ref=aicollection) | Ask Command — AI-Powered Developer Assistant. | A tiny app to remind you about those commands you always forget. Powered by AI. | :grey_question: |
+| [BI.P.EYE](https://bipeye.com/) | Self Service BI Platform. | Make data analysis fun and interactive with chat-based charts. | :white_check_mark: |
 | [Channel](http://www.usechannel.com?ref=aicollection) | Channel. | Connect your database, ask a question, get an answer. | :grey_question: |
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist?ref=aicollection) | Codeassist Is an AI Assistant / Chatbot / Copilot for Programming - Jetbrains Marketplace. | It generates, changes, completes the code and answers questions. | :grey_question: |
 | [CodeGPT](http://www.codegpt.co/?ref=aicollection) | AI Inside Your Ide. | Improve your code with Code GPT AI. | :white_check_mark: |
@@ -1364,7 +1365,6 @@ Translations:
 | [bigmp4](http://bigmp4.com?ref=aicollection) | AI Video Enhancement, Using 2022 Cutting Edged AI Model to Lossless Enlarge Video, Enhance Video. | . | :grey_question: |
 | [deck.rocks](https://www.deck.rocks/?ref=aicollection) | Deck.Rocks: Generate Pitch Decks Using GPT-3. | . | :grey_question: |
 | [micro Dalle-2](http://micropay.ai?ref=aicollection) | Dalle-2 Image Generator - Micropay. | Anonymous and pay-as-you-go generative AI software. | :grey_question: |
-| [BI.P.EYE](https://bipeye.com/) | Self Service BI Platform. | Make data analysis fun and interactive with chat-based charts. | :grey_question: |
 
 <!--End of Other 0-->
 

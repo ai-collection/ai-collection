@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=873" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=874" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=40" />
@@ -203,6 +203,7 @@
 | [Adrenaline](https://useadrenaline.com/?ref=aicollection) | 停止将错误插入 Stack Overflow. | Adrenaline 是由 OpenAI Codex 提供支持的调试助手。它可以在几秒钟内修复并解释您损坏的代码。. | :white_check_mark: |
 | [Anania](https://anania.ai/?ref=aicollection) | AI 分析助手. | 就您的数据和文件提出问题. | :white_check_mark: |
 | [Ask Command](http://askcommand.com?ref=aicollection) | Ask Command——人工智能驱动的开发者助手. | 一个小应用程序，可以提醒您那些您总是忘记的命令。由人工智能提供支持。. | :grey_question: |
+| [BI.P.EYE](https://bipeye.com/) | 自助服务 BI 平台。. | 使用基于聊天的图表使数据分析变得有趣和互动. | :white_check_mark: |
 | [Channel](http://www.usechannel.com?ref=aicollection) | 渠道. | 连接您的数据库，提出问题，获得答案。. | :grey_question: |
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist?ref=aicollection) | CodeAssist 是用于编程的 AI 助手/聊天机器人/副驾驶 - JetBrains Marketplace. | 它生成、更改、完成代码并回答问题。. | :grey_question: |
 | [CodeGPT](http://www.codegpt.co/?ref=aicollection) | IDE 中的 AI. | 使用 Code GPT AI 改进您的代码. | :white_check_mark: |
