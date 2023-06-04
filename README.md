@@ -1364,6 +1364,7 @@ Translations:
 | [bigmp4](http://bigmp4.com?ref=aicollection) | AI Video Enhancement, Using 2022 Cutting Edged AI Model to Lossless Enlarge Video, Enhance Video. | . | :grey_question: |
 | [deck.rocks](https://www.deck.rocks/?ref=aicollection) | Deck.Rocks: Generate Pitch Decks Using GPT-3. | . | :grey_question: |
 | [micro Dalle-2](http://micropay.ai?ref=aicollection) | Dalle-2 Image Generator - Micropay. | Anonymous and pay-as-you-go generative AI software. | :grey_question: |
+| [BI.P.EYE](https://bipeye.com/) | Self Service BI Platform. | Make data analysis fun and interactive with chat-based charts. | :grey_question: |
 
 <!--End of Other 0-->
 
