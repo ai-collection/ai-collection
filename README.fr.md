@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=873" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=874" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=40" />
@@ -209,6 +209,7 @@
 | [Adrenaline](https://useadrenaline.com/?ref=aicollection) | Arrêtez de brancher vos erreurs dans Stack Overflow. | Adrenaline est un assistant de débogage alimenté par le Codex OpenAI. Il peut réparer et expliquer votre code cassé en quelques secondes. | :white_check_mark: |
 | [Anania](https://anania.ai/?ref=aicollection) | Assistant IA pour l'analyse. | Posez des questions sur vos données et documents. | :white_check_mark: |
 | [Ask Command](http://askcommand.com?ref=aicollection) | Ask Command - Assistant développeur alimenté par l'IA. | Une petite application pour vous rappeler ces commandes que vous oubliez toujours. Propulsé par l'IA. | :grey_question: |
+| [BI.P.EYE](https://bipeye.com/) | Plateforme de BI en libre-service. | Rendez l'analyse des données amusante et interactive avec des graphiques basés sur le chat. | :white_check_mark: |
 | [Channel](http://www.usechannel.com?ref=aicollection) | Canaliser. | Connectez votre base de données, posez une question, obtenez une réponse. | :grey_question: |
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist?ref=aicollection) | CodeAssist est un assistant IA / chatbot / copilote pour la programmation - JetBrains Marketplace. | Il génère, modifie, complète le code et répond aux questions. | :grey_question: |
 | [CodeGPT](http://www.codegpt.co/?ref=aicollection) | L'IA dans votre IDE. | Améliorez votre code avec Code GPT AI. | :white_check_mark: |

@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=873" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=874" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=40" />
@@ -238,6 +238,7 @@
 | [Adrenaline](https://useadrenaline.com/?ref=aicollection) | Deje de conectar sus errores en el desbordamiento de pila. | Adrenaline es un asistente de depuración impulsado por OpenAI Codex. Puede arreglar y explicar su código roto en segundos. | :white_check_mark: |
 | [Anania](https://anania.ai/?ref=aicollection) | Asistente de IA para análisis. | Haz preguntas sobre tus datos y documentos. | :white_check_mark: |
 | [Ask Command](http://askcommand.com?ref=aicollection) | Ask Command: asistente de desarrollo impulsado por IA. | Una pequeña aplicación para recordarte esos comandos que siempre olvidas. Impulsado por IA. | :grey_question: |
+| [BI.P.EYE](https://bipeye.com/) | Plataforma de BI de autoservicio. | Haga que el análisis de datos sea divertido e interactivo con gráficos basados ​​en chat. | :white_check_mark: |
 | [Channel](http://www.usechannel.com?ref=aicollection) | Canal. | Conecte su base de datos, haga una pregunta, obtenga una respuesta. | :grey_question: |
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist?ref=aicollection) | Codeassist es un asistente / chatbot / copiloto de inteligencia artificial para la programación - Jetbrains Marketplace. | Genera, cambia, completa el código y responde preguntas. | :grey_question: |
 | [CodeGPT](http://www.codegpt.co/?ref=aicollection) | IA dentro de su idea. | Mejora tu código con Code GPT AI. | :white_check_mark: |
