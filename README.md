@@ -299,6 +299,7 @@ Translations:
 | [artssy](https://www.artssy.co/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create Unique AI Generated Images in 1-Click. | With Artssy AI, your creativity can flow. Create unlimited images in 1 click and discover a world of possibilities!. | :x: |
 | [caspa AI](https://www.caspa.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Caspa AI Is a Platform to Create and Customise AI Images in Minutes. | Unlock the potential of AI-powered image creation and editing with this free tool, producing unique visuals quickly and cost-effectively for various applications. | :grey_question: |
 | [flair](http://flair.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The AI Design Tool for Branded Content. | Get started with just a few clicks. Drag your product photos into the Canvas. Visually describe the scene surrounding your product. Edit, export, and share!. | :white_check_mark: |
+| [ComicsMaker.ai](http://comicsmaker.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ComicsMaker.ai - Create Comics Using AI | Create amazing comics, manga and graphic novels using AI tools from ComicsMaker.ai | :white_check_mark: |
 
 <!--End of Art & Image Generator 15-->
 
