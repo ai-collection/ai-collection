@@ -458,6 +458,7 @@ Translations:
 | [aitxt](https://aitxt.ru/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Online Text Generator in Russian. | Our service generates a text that is understandable with meaning up to 1 minute on any topic using artificial intelligence. | :white_check_mark: |
 | [unbound](https://www.unboundcontent.ai/?affiliate=aff_z0krz31) | Automate Content Creation for Your Small Business. | Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators. | :white_check_mark: |
 | [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instantly Convert Your YouTube Content Into Engaging Blog Articles. | Boost your SEO and brand presence. | :white_check_mark: |
+| [Backlink GPT](https://www.backlinkgpt.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generate Quality Backlinks With AI. | Boost your website's SEO and improve your online visibility. | :white_check_mark: |
 
 <!--End of Content Generation & Seo 5-->
 
