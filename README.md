@@ -609,6 +609,7 @@ Translations:
 | [Kindred Tales](https://kindredtales.net/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Online Platform That Helps People Capture and Preserve Their Life Stories in a Beautiful Hardcover Book. | For anyone who wants to create a memoir but doesn't know where to start or has difficulty writing. With the help of AI, users can easily answer questions about their life, and we'll turn it into a professionally designed book that they can cherish for generations to come. | :x: |
 | [Lovelines](http://lovelines.xyz?ref=ai-collection) | Lovelines.Xyz - Share Your Love With Custom Keepsakes Made by AI. | Create custom keepsakes for a loved one using AI that are optimized for social media. AI-generated poems, stories, letters, and song lyrics. | :x: |
 | [Text2present](http://text2present.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Text2Present.Com - Creative Presents From Busy People. | Allows you to create creative customized presents using artificial intelligence for your friends, family and acquaintances without taking your precious time. Simply enter a text description of what you want to gift and let our artificial intelligence do the rest. | :grey_question: |
+| [Gift Ideas AI](https://www.giftideasai.xyz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | GiftIdeasAI | Discover ideal gifts swiftly! Our platform offers personalized solutions based on loved ones' interests. | :white_check_mark: |
 
 <!--End of Gift Ideas 12-->
 
