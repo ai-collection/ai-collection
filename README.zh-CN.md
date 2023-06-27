@@ -921,7 +921,7 @@
 | [Apeture](https://lexica.art/aperture?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | 通过 Lexica 创建图像. | :grey_question: |
 | [Aragon](http://www.aragon.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 阿拉贡. | 使用 AI 以 10 倍的速度创建令人惊叹的艺术作品和图像。. | :grey_question: |
 | [ArtBot.ai](http://artbot.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ArtBot.ai - 让 AI 创造你完美的万圣节艺术. | 你觉得自己充满了有趣、明亮、令人兴奋、富有创意的万圣节创意吗？你需要一种工具来实现它们，而且......这个应用程序是你的选择！. | :grey_question: |
-| [Artbreeder](http://www.artbreeder.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 艺术培育者. | . | :grey_question: |
+| [Artbreeder](http://www.artbreeder.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 以前所未有的方式制作人工智能艺术. | artbreeder collager - 用形状和图像制作简单的拼贴画，用提示进行描述，然后观看 Artbreeder 将其变为现实。品种肖像等 - Splicer 可让您通过将图像混合在一起并编辑其基因来创建图像。创作肖像、风景、绘画等，然后观看其他人将您的艺术带向令人兴奋的新方向。. | :white_check_mark: |
 | [Artshop](http://artshops.xyz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 艺术品商店. | Artshop 将令人惊叹的 AI 艺术品带入您家中的墙壁艺术，为您美丽的家增添温馨气息。. | :grey_question: |
 | [Astria.ai](http://www.astria.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Astria - 量身定制的 AI 图像生成. | 使用 AI 创建自定义图像. | :x: |
 | [Bg Eraser](http://bgeraser.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bg Eraser - 图片清理魔术橡皮擦. | 强大的人工智能修复和图片清理技术。在几秒钟内删除不需要的对象并清理图片。. | :grey_question: |
