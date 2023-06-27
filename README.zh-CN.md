@@ -666,11 +666,11 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [AI Image Enlarger](http://imglarger.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Image Enlarger - 在不损失质量的情况下放大图像！. | . | :grey_question: |
-| [AVC AI](http://avc.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在线 AI 图像增强器，通过放大、去噪、恢复、面部细化等提高照片质量. | . | :grey_question: |
+| [AVC AI](http://avc.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在线 AI 图像增强器，通过放大、去噪、恢复、面部细化等提高照片质量. | 使用深度学习算法自动轻松地提高和恢复照片质量。借助人工智能的力量获得更好的照片质量。将图像分辨率从低到高提升，并通过去噪、锐化、面部修饰、着色、颜色校准等来提高其质量。. | :x: |
 | [Blend](https://www.blendnow.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 在几秒钟内制作出令人惊叹的产品视觉效果. | 为您的产品创建令人惊叹的视觉效果所需的一切 - 只需几秒钟！将您的产品传送到专业级 AI 生成的背景中。使用直观的编辑器获取 1000 个可自定义的模板。. | :white_check_mark: |
 | [Blend Studio](https://www.delete.bg/aistudio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 文本到图像 AI 背景生成器. | 根据您的描述，使用 AI 生成的背景场景为您的产品创建精美的高质量照片。. | :white_check_mark: |
 | [Claid.ai](http://claid.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Claid.ai：用于 UGC 的自动照片增强器。网络、移动和打印. | AI 软件可在无质量损失的情况下放大图像、校正颜色、提高分辨率、润饰产品照片并自动编辑 UGC。. | :grey_question: |
-| [Colorize](http://colorize.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在线给照片上色. | . | :grey_question: |
+| [Colorize](http://colorize.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 利用深度学习的力量为照片着色. | 在线为照片着色 Colorize.cc - 是一种为黑白照片和视频着色的人工智能服务。只需点击几下，您就可以感受到机器学习技术的魔力。在几分钟内为数百张家庭照片着色。. | :x: |
 | [ExtendImage](http://www.extendimage.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ExtendImageAI - 使用生成式 AI 扩展您的图像. | ExtendImageAI 是一种工具，可让您使用生成式 AI 扩展图像。. | :grey_question: |
 | [Hama](http://www.hama.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 哈马. | 惊人的照片橡皮擦. | :grey_question: |
 | [HitPaw Online Photo Enhancer](https://online.hitpaw.com/online-photo-enhancer.html?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 取消模糊图像并告别低质量照片。. | HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化细节并提高照片质量. | :white_check_mark: |
