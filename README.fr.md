@@ -51,12 +51,12 @@
 </div>
 
 <div align="center">
-    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+    <a href="https://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="500" src="https://ai-collection.b-cdn.net/CustomQR_promo.png" alt="CustomQR AI" border="0"/>
     </a>
     <h4>CustomQR AI - Service de génération de code QR pour les entreprises</h4>
     <p>Obtenez de magnifiques codes QR artistiques sur votre e-mail en moins de 10 minutes. Choisissez parmi les catégories de codes QR disponibles ou demandez les vôtres. Faites en sorte que votre entreprise se démarque avec des arts QR uniques !</p>
-    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec CustomQR AI</b></a>
+    <a href="https://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec CustomQR AI</b></a>
     <br />
 </div>
 
@@ -497,7 +497,7 @@
 | [Cartoonize](http://imagetocartoon.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Image à dessin animé - Dessinateur d'IA. Créez des avatars et des personnages de dessins animés incroyables avec différents styles instantanément et gratuitement !. | Dessinez votre photo de visage avec des styles et créez de superbes avatars. Convertissez des images de visage ou des photos en dessin animé et dessinez-vous 100% automatiquement en 5 secondes sans aucun clic. | :white_check_mark: |
 | [ComicsMaker.ai](http://comicsmaker.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ComicsMaker.ai - Créer des bandes dessinées à l'aide de l'IA. | Créez des bandes dessinées, des mangas et des romans graphiques incroyables à l'aide des outils d'intelligence artificielle de ComicsMaker.ai. | :white_check_mark: |
 | [CoverDesignAI](http://coverdesignai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | CoverDesignAI - Un outil pour créer des idées/invites/images/maquettes de couverture de livre sur mesure pour les auteurs et designers indépendants. | CoverDesignAI peut être un atout majeur pour les auteurs indépendants dans le processus de conception, en leur fournissant des inspirations, en visualisant leurs pensées, en réduisant les ruptures de communication avec leurs concepteurs sur des préférences visuelles concrètes, en présentant les images à leur public à un stade précoce, ou simplement en utilisant le conceptions générées. | :white_check_mark: |
-| [CustomQR AI](http://customqrai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Service de génération de code QR pour les entreprises. | Obtenez de magnifiques codes QR artistiques sur votre e-mail en moins de 10 minutes. Choisissez parmi les catégories de codes QR disponibles ou demandez les vôtres. Faites en sorte que votre entreprise se démarque avec des arts QR uniques !. | :x: |
+| [CustomQR AI](https://customqrai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Service de génération de code QR pour les entreprises. | Obtenez de magnifiques codes QR artistiques sur votre e-mail en moins de 10 minutes. Choisissez parmi les catégories de codes QR disponibles ou demandez les vôtres. Faites en sorte que votre entreprise se démarque avec des arts QR uniques !. | :x: |
 | [DALL·E 2](https://openai.com/dall-e-2/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | DALL·E 2 est un nouveau système d'IA capable de créer des images réalistes et de l'art à partir d'une description en langage naturel. | DALL·E 2 peut créer des images et des illustrations originales et réalistes à partir d'une description textuelle. Il peut combiner des concepts, des attributs et des styles. | :white_check_mark: |
 | [DaVinciFace](http://www.davinciface.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Portrait IA - Visage DaVinci réalisé par Mathema. | DaVinci Face est un logiciel – basé sur les techniques d’Intelligence Artificielle les plus innovantes, notamment sur GAN (Generative Adversarial Network) pour créer des portraits à la Leonardesque. | :grey_question: |
 | [Deep Dream Generator](http://deepdreamgenerator.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | COLLABORATION IA HUMAINE. | Créez du contenu visuel inspirant en collaboration avec nos outils activés par l'IA. | :white_check_mark: |

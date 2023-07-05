@@ -51,12 +51,12 @@
 </div>
 
 <div align="center">
-    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+    <a href="https://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="500" src="https://ai-collection.b-cdn.net/CustomQR_promo.png" alt="CustomQR AI" border="0"/>
     </a>
     <h4>CustomQR AI - व्यवसाय के लिए क्यूआर कोड जनरेशन सेवा</h4>
     <p>10 मिनट से कम समय में अपने ईमेल पर कलात्मक सुंदर क्यूआर कोड प्राप्त करें। उपलब्ध QR कोड श्रेणियों में से चुनें या अपना स्वयं का अनुरोध करें। अद्वितीय क्यूआर कलाओं के साथ अपने व्यवसाय को अलग बनाएं!</p>
-    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>CustomQR AI के साथ आरंभ करें</b></a>
+    <a href="https://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>CustomQR AI के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -384,7 +384,7 @@
 | [Cartoonize](http://imagetocartoon.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कार्टून के लिए छवि - एआई कार्टूनाइज़र। तुरंत निःशुल्क विभिन्न शैलियों वाले अद्भुत कार्टून अवतार और पात्र बनाएं!. | अपने चेहरे की फोटो को शैलियों के साथ कार्टून बनाएं और शानदार अवतार बनाएं। चेहरे की छवियों या तस्वीरों को कार्टून में बदलें और शून्य क्लिक के साथ 5 सेकंड में स्वचालित रूप से 100% खुद को कार्टून बनाएं।. | :white_check_mark: |
 | [ComicsMaker.ai](http://comicsmaker.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कॉमिक्समेकर.एआई - एआई का उपयोग करके कॉमिक्स बनाएं. | ComicsMaker.ai के एआई टूल्स का उपयोग करके अद्भुत कॉमिक्स, मंगा और ग्राफिक उपन्यास बनाएं. | :white_check_mark: |
 | [CoverDesignAI](http://coverdesignai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | CoverDesignAI - इंडी लेखकों और डिजाइनरों के लिए अनुकूलित पुस्तक कवर विचार/संकेत/छवियां/मॉकअप बनाने के लिए एक उपकरण. | CoverDesignAI डिजाइन प्रक्रिया में इंडी लेखकों के लिए एक बड़ी संपत्ति हो सकती है, उन्हें प्रेरणा प्रदान कर सकती है, उनके विचारों की कल्पना कर सकती है, ठोस दृश्य वरीयताओं पर उनके डिजाइनरों के साथ संचार टूटने को कम कर सकती है, प्रारंभिक चरण में अपने दर्शकों को चित्र दिखा सकती है, या बस DIYing का उपयोग कर सकती है। उत्पन्न डिजाइन।. | :white_check_mark: |
-| [CustomQR AI](http://customqrai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | व्यवसाय के लिए क्यूआर कोड जनरेशन सेवा. | 10 मिनट से कम समय में अपने ईमेल पर कलात्मक सुंदर क्यूआर कोड प्राप्त करें। उपलब्ध QR कोड श्रेणियों में से चुनें या अपना स्वयं का अनुरोध करें। अद्वितीय क्यूआर कलाओं के साथ अपने व्यवसाय को अलग बनाएं!. | :x: |
+| [CustomQR AI](https://customqrai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | व्यवसाय के लिए क्यूआर कोड जनरेशन सेवा. | 10 मिनट से कम समय में अपने ईमेल पर कलात्मक सुंदर क्यूआर कोड प्राप्त करें। उपलब्ध QR कोड श्रेणियों में से चुनें या अपना स्वयं का अनुरोध करें। अद्वितीय क्यूआर कलाओं के साथ अपने व्यवसाय को अलग बनाएं!. | :x: |
 | [DALL·E 2](https://openai.com/dall-e-2/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dall·E 2 एक नया AI सिस्टम है जो प्राकृतिक भाषा में वर्णन से यथार्थवादी छवियां और कला बना सकता है. | DALL·E 2 एक पाठ विवरण से मूल, यथार्थवादी छवियां और कला बना सकता है। यह अवधारणाओं, विशेषताओं और शैलियों को जोड़ सकता है।. | :white_check_mark: |
 | [DaVinciFace](http://www.davinciface.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई पोर्ट्रेट - मैथेमा द्वारा निर्मित डेविंसी चेहरा. | DaVinci Face एक सॉफ्टवेयर है - सबसे नवीन आर्टिफिशियल इंटेलिजेंस तकनीकों पर आधारित, विशेष रूप से लियोनार्डेस्क-शैली के पोर्ट्रेट बनाने के लिए GAN (जेनरेटिव एडवरसैरियल नेटवर्क) पर।. | :grey_question: |
 | [Deep Dream Generator](http://deepdreamgenerator.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मानव एआई सहयोग. | हमारे एआई सक्षम टूल के सहयोग से प्रेरक विज़ुअल सामग्री बनाएं।. | :white_check_mark: |
