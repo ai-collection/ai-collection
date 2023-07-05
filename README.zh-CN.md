@@ -52,7 +52,7 @@
 
 <div align="center">
     <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/CustomQR_promo.png" alt="CustomQR AI" border="0"/>
+        <img width="500" src="https://ai-collection.b-cdn.net/CustomQR_promo.png" alt="CustomQR AI" border="0"/>
     </a>
     <h4>CustomQR AI - 商业二维码生成服务</h4>
     <p>10 分钟内即可在您的电子邮件中获取艺术精美的二维码。从可用的二维码类别中进行选择或请求您自己的二维码类别。通过独特的二维码艺术让您的企业脱颖而出！</p>

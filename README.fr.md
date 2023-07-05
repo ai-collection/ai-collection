@@ -52,7 +52,7 @@
 
 <div align="center">
     <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/CustomQR_promo.png" alt="CustomQR AI" border="0"/>
+        <img width="500" src="https://ai-collection.b-cdn.net/CustomQR_promo.png" alt="CustomQR AI" border="0"/>
     </a>
     <h4>CustomQR AI - Service de génération de code QR pour les entreprises</h4>
     <p>Obtenez de magnifiques codes QR artistiques sur votre e-mail en moins de 10 minutes. Choisissez parmi les catégories de codes QR disponibles ou demandez les vôtres. Faites en sorte que votre entreprise se démarque avec des arts QR uniques !</p>
