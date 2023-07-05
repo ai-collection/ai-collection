@@ -51,12 +51,12 @@
 </div>
 
 <div align="center">
-    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+    <a href="https://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="500" src="https://ai-collection.b-cdn.net/CustomQR_promo.png" alt="CustomQR AI" border="0"/>
     </a>
     <h4>CustomQR AI - Servicio de generación de códigos QR para empresas</h4>
     <p>Obtenga hermosos códigos QR artísticos en su correo electrónico en menos de 10 minutos. Elija entre las categorías de códigos QR disponibles o solicite la suya propia. ¡Haz que tu negocio se destaque con artes QR únicos!</p>
-    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con CustomQR AI</b></a>
+    <a href="https://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con CustomQR AI</b></a>
     <br />
 </div>
 
@@ -588,7 +588,7 @@
 | [Cartoonize](http://imagetocartoon.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Imagen a dibujos animados - Dibujante de IA. ¡Crea asombrosos avatares y personajes de dibujos animados con diferentes estilos al instante y gratis!. | Dibuje la foto de su cara con estilos y haga grandes avatares. Convierta imágenes de rostros o fotos en caricaturas y hágase caricaturas 100 % automáticamente en 5 segundos con cero clics. | :white_check_mark: |
 | [ComicsMaker.ai](http://comicsmaker.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ComicsMaker.ai - Crea cómics usando IA. | Cree increíbles cómics, manga y novelas gráficas con las herramientas de IA de ComicsMaker.ai. | :white_check_mark: |
 | [CoverDesignAI](http://coverdesignai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | CoverDesignAI: una herramienta para crear ideas, indicaciones, imágenes y maquetas de portadas de libros a medida para autores y diseñadores independientes. | CoverDesignAI puede ser un gran activo para los autores independientes en el proceso de diseño, brindándoles inspiración, visualizando sus pensamientos, reduciendo las fallas de comunicación con sus diseñadores sobre preferencias visuales concretas, mostrando las imágenes a sus audiencias en una etapa temprana o simplemente haciendo bricolaje usando el diseños generados. | :white_check_mark: |
-| [CustomQR AI](http://customqrai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Servicio de generación de códigos QR para empresas. | Obtenga hermosos códigos QR artísticos en su correo electrónico en menos de 10 minutos. Elija entre las categorías de códigos QR disponibles o solicite la suya propia. ¡Haz que tu negocio se destaque con artes QR únicos!. | :x: |
+| [CustomQR AI](https://customqrai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Servicio de generación de códigos QR para empresas. | Obtenga hermosos códigos QR artísticos en su correo electrónico en menos de 10 minutos. Elija entre las categorías de códigos QR disponibles o solicite la suya propia. ¡Haz que tu negocio se destaque con artes QR únicos!. | :x: |
 | [DALL·E 2](https://openai.com/dall-e-2/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dall·E 2 es un nuevo sistema de IA que puede crear imágenes y arte realistas a partir de una descripción en lenguaje natural. | DALL·E 2 puede crear imágenes y arte originales y realistas a partir de una descripción de texto. Puede combinar conceptos, atributos y estilos. | :white_check_mark: |
 | [DaVinciFace](http://www.davinciface.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Retrato AI - Cara de Davinci hecha por Mathema. | DaVinci Face es un software basado en las técnicas de Inteligencia Artificial más innovadoras, en particular en GAN (Generative Adversarial Network) para crear retratos de estilo leonardesco. | :grey_question: |
 | [Deep Dream Generator](http://deepdreamgenerator.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Colaboración de IA humana. | Cree contenido visual inspirador en colaboración con nuestras herramientas habilitadas para IA. | :white_check_mark: |

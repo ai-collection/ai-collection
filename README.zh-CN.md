@@ -51,12 +51,12 @@
 </div>
 
 <div align="center">
-    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+    <a href="https://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="500" src="https://ai-collection.b-cdn.net/CustomQR_promo.png" alt="CustomQR AI" border="0"/>
     </a>
     <h4>CustomQR AI - 商业二维码生成服务</h4>
     <p>10 分钟内即可在您的电子邮件中获取艺术精美的二维码。从可用的二维码类别中进行选择或请求您自己的二维码类别。通过独特的二维码艺术让您的企业脱颖而出！</p>
-    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 CustomQR AI</b></a>
+    <a href="https://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 CustomQR AI</b></a>
     <br />
 </div>
 
@@ -931,7 +931,7 @@
 | [Cartoonize](http://imagetocartoon.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 图像到卡通-人工智能漫画家。立即免费创建令人惊叹的不同风格的卡通头像和人物！. | 用样式卡通化您的脸部照片并制作出色的头像。将人脸图像或照片转换为卡通，并在 5 秒内零点击自动将自己 100% 卡通化。. | :white_check_mark: |
 | [ComicsMaker.ai](http://comicsmaker.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ComicsMaker.ai - 使用 AI 创作漫画. | 使用 ComicsMaker.ai 的 AI 工具创作精彩的漫画、漫画和图画小说. | :white_check_mark: |
 | [CoverDesignAI](http://coverdesignai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | CoverDesignAI - 为独立作者和设计师创建定制书籍封面创意/提示/图像/模型的工具. | CoverDesignAI 可以成为独立作者在设计过程中的重要资产，为他们提供灵感，将他们的想法可视化，减少与设计师在具体视觉偏好方面的沟通障碍，在早期阶段向他们的观众展示图片，或者简单地使用生成的设计。. | :white_check_mark: |
-| [CustomQR AI](http://customqrai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 商业二维码生成服务. | 10 分钟内即可在您的电子邮件中获取艺术精美的二维码。从可用的二维码类别中进行选择或请求您自己的二维码类别。通过独特的二维码艺术让您的企业脱颖而出！. | :x: |
+| [CustomQR AI](https://customqrai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 商业二维码生成服务. | 10 分钟内即可在您的电子邮件中获取艺术精美的二维码。从可用的二维码类别中进行选择或请求您自己的二维码类别。通过独特的二维码艺术让您的企业脱颖而出！. | :x: |
 | [DALL·E 2](https://openai.com/dall-e-2/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | DALL·E 2 是一个新的 AI 系统，可以根据自然语言的描述创建逼真的图像和艺术. | DALL·E 2 可以根据文字描述创建原创、逼真的图像和艺术作品。它可以组合概念、属性和样式。. | :white_check_mark: |
 | [DaVinciFace](http://www.davinciface.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能人像 - Mathema 制作的达芬奇人脸. | DaVinci Face 是一款软件——基于最具创新性的人工智能技术，特别是基于 GAN（生成对抗网络）来创建 Leonardesque 风格的肖像。. | :grey_question: |
 | [Deep Dream Generator](http://deepdreamgenerator.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人类人工智能协作. | 与我们支持 AI 的工具协作创建鼓舞人心的视觉内容。. | :white_check_mark: |

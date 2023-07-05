@@ -57,12 +57,12 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+    <a href="https://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="500" src="https://ai-collection.b-cdn.net/CustomQR_promo.png" alt="CustomQR AI" border="0"/>
     </a>
     <h4>CustomQR AI - QR Code Generation Service for Business</h4>
     <p>Get artistic beautiful QR codes on your email in under 10 minutes. Choose from available QR code categories or request your own. Make your business stand out with unique QR arts!</p>
-    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with CustomQR AI</b></a>
+    <a href="https://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with CustomQR AI</b></a>
     <br />
 </div>
 
@@ -215,7 +215,7 @@ Translations:
 | [Cartoonize](http://imagetocartoon.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Image to Cartoon - AI Cartoonizer. Create Amazing Cartoon Avatars and Characters With Different Styles Instantly for Free!. | Cartoonize your face photo with styles and make great avatars. Convert face images or photos to cartoon and cartoonize yourself 100 % automatically in 5 seconds with zero clicks. | :white_check_mark: |
 | [ComicsMaker.ai](http://comicsmaker.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ComicsMaker.ai - Create Comics Using AI. | Create amazing comics, manga and graphic novels using AI tools from ComicsMaker.ai. | :white_check_mark: |
 | [CoverDesignAI](http://coverdesignai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | CoverDesignAI - A Tool to Create Tailored Book Cover Ideas/Prompts/Images/Mockups for Indie Authors and Designers. | CoverDesignAI can be a great asset to indie authors in the design process, providing them with inspirations, visualizing their thoughts,  reducing communication breakdowns with their designers on concrete visual preferences, showcasing the pictures to their audiences in an early stage, or simply DIYing using the generated designs. | :white_check_mark: |
-| [CustomQR AI](http://customqrai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | QR Code Generation Service for Business. | Get artistic beautiful QR codes on your email in under 10 minutes. Choose from available QR code categories or request your own. Make your business stand out with unique QR arts!. | :x: |
+| [CustomQR AI](https://customqrai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | QR Code Generation Service for Business. | Get artistic beautiful QR codes on your email in under 10 minutes. Choose from available QR code categories or request your own. Make your business stand out with unique QR arts!. | :x: |
 | [DALL·E 2](https://openai.com/dall-e-2/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dall·E 2 Is a New AI System That Can Create Realistic Images and Art From a Description in Natural Language. | DALL·E 2 can create original, realistic images and art from a text description. It can combine concepts, attributes, and styles. | :white_check_mark: |
 | [DaVinciFace](http://www.davinciface.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Portrait - Davinci Face Made by Mathema. | DaVinci Face is a software – based on the most innovative Artificial Intelligence techniques, in particular on GAN (Generative Adversarial Network) to create Leonardesque-style portraits. | :grey_question: |
 | [Deep Dream Generator](http://deepdreamgenerator.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Human AI Collaboration. | Create inspiring visual content in a collaboration with our AI enabled tools. | :white_check_mark: |

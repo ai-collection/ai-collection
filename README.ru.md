@@ -51,12 +51,12 @@
 </div>
 
 <div align="center">
-    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+    <a href="https://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="500" src="https://ai-collection.b-cdn.net/CustomQR_promo.png" alt="CustomQR AI" border="0"/>
     </a>
     <h4>CustomQR AI - Сервис генерации QR-кода для бизнеса</h4>
     <p>Получайте художественные красивые QR-коды по электронной почте менее чем за 10 минут. Выберите одну из доступных категорий QR-кода или запросите собственную. Сделайте свой бизнес уникальным с помощью QR-арта!</p>
-    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с CustomQR AI</b></a>
+    <a href="https://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с CustomQR AI</b></a>
     <br />
 </div>
 
@@ -291,7 +291,7 @@
 | [Cartoonize](http://imagetocartoon.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Изображение в мультфильм - Мультипликатор ИИ. Мгновенно бесплатно создавайте удивительные мультяшные аватары и персонажей в разных стилях!. | Создавайте мультяшные фотографии лица с помощью стилей и создавайте отличные аватары. Преобразуйте изображения лиц или фотографии в мультфильмы и на 100 % автоматически создайте мультфильмы за 5 секунд без каких-либо кликов. | :white_check_mark: |
 | [ComicsMaker.ai](http://comicsmaker.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ComicsMaker.ai — создавайте комиксы с помощью ИИ. | Создавайте потрясающие комиксы, мангу и графические романы с помощью инструментов искусственного интеллекта от ComicsMaker.ai. | :white_check_mark: |
 | [CoverDesignAI](http://coverdesignai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | CoverDesignAI — инструмент для создания индивидуальных идей обложек книг, подсказок, изображений и макетов для независимых авторов и дизайнеров. | CoverDesignAI может быть большим подспорьем для независимых авторов в процессе проектирования, давая им вдохновение, визуализируя их мысли, сокращая сбои в общении с дизайнерами по конкретным визуальным предпочтениям, демонстрируя изображения своей аудитории на ранней стадии или просто делая своими руками с помощью сгенерированные дизайны. | :white_check_mark: |
-| [CustomQR AI](http://customqrai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Сервис генерации QR-кода для бизнеса. | Получайте художественные красивые QR-коды по электронной почте менее чем за 10 минут. Выберите одну из доступных категорий QR-кода или запросите собственную. Сделайте свой бизнес уникальным с помощью QR-арта!. | :x: |
+| [CustomQR AI](https://customqrai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Сервис генерации QR-кода для бизнеса. | Получайте художественные красивые QR-коды по электронной почте менее чем за 10 минут. Выберите одну из доступных категорий QR-кода или запросите собственную. Сделайте свой бизнес уникальным с помощью QR-арта!. | :x: |
 | [DALL·E 2](https://openai.com/dall-e-2/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | DALL·E 2 — это новая система искусственного интеллекта, которая может создавать реалистичные изображения и рисунки из описания на естественном языке. | DALL·E 2 может создавать оригинальные реалистичные изображения и рисунки из текстового описания. Он может сочетать концепции, атрибуты и стили. | :white_check_mark: |
 | [DaVinciFace](http://www.davinciface.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Portrait - DaVinci Face, созданный Mathema. | DaVinci Face — это программное обеспечение, основанное на самых инновационных методах искусственного интеллекта, в частности, на GAN (Generative Adversarial Network) для создания портретов в стиле Леонардо. | :grey_question: |
 | [Deep Dream Generator](http://deepdreamgenerator.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | СОТРУДНИЧЕСТВО С ЧЕЛОВЕЧЕСКИМ ИИ. | Создавайте вдохновляющий визуальный контент в сотрудничестве с нашими инструментами с поддержкой ИИ. | :white_check_mark: |
