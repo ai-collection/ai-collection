@@ -57,12 +57,12 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://tinyurl.com/ai-8fy" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/eightify_banner.png" alt="Eightify" border="0"/>
+    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1902.webp" alt="CustomQR AI" border="0"/>
     </a>
-    <h4>Eightify — Extract key insights from YouTube videos</h4>
-    <p>🏃‍♂️ Keep up with the rapid pace of AI & GPT, don't miss out! <br /> 🎙 Watch all those podcasts you added to backlog <br /> ⚡️ 10 seconds to get key insights and summary</p>
-    <a href="https://tinyurl.com/ai-8fy" target="_blank"><b>Get Started with Eightify</b></a>
+    <h4>CustomQR AI - QR Code Generation Service for Business</h4>
+    <p>Get artistic beautiful QR codes on your email in under 10 minutes. Choose from available QR code categories or request your own. Make your business stand out with unique QR arts!</p>
+    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with CustomQR AI</b></a>
     <br />
 </div>
 

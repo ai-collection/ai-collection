@@ -51,12 +51,12 @@
 </div>
 
 <div align="center">
-    <a href="https://tinyurl.com/ai-8fy" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/eightify_banner.png" alt="Eightify" border="0"/>
+    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1902.webp" alt="CustomQR AI" border="0"/>
     </a>
-    <h4>Eightify — 从 YouTube 视频中提取关键见解</h4>
-    <p>🏃‍♂️紧跟AI&GPT的快速步伐，机不可失！ <br /> 🎙 观看您添加到待办事项列表中的所有播客<br /> ⚡️ 10 秒获取关键见解和摘要</p>
-    <a href="https://tinyurl.com/ai-8fy" target="_blank"><b>开始使用 Eightify</b></a>
+    <h4>CustomQR AI - 商业二维码生成服务</h4>
+    <p>10 分钟内即可在您的电子邮件中获取艺术精美的二维码。从可用的二维码类别中进行选择或请求您自己的二维码类别。通过独特的二维码艺术让您的企业脱颖而出！</p>
+    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 CustomQR AI</b></a>
     <br />
 </div>
 

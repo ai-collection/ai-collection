@@ -51,12 +51,12 @@
 </div>
 
 <div align="center">
-    <a href="https://tinyurl.com/ai-8fy" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/eightify_banner.png" alt="Eightify" border="0"/>
+    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1902.webp" alt="CustomQR AI" border="0"/>
     </a>
-    <h4>Eightify — Извлекайте ключевую информацию из видео на YouTube</h4>
-    <p>🏃‍♂️ Идите в ногу со стремительным темпом развития AI и GPT, не пропустите! <br /> 🎙 Посмотрите все те подкасты, которые вы добавили в бэклог <br /> ⚡️ 10 секунд, чтобы получить ключевую информацию и резюме</p>
-    <a href="https://tinyurl.com/ai-8fy" target="_blank"><b>Начать работу с Eightify</b></a>
+    <h4>CustomQR AI - Сервис генерации QR-кода для бизнеса</h4>
+    <p>Получайте художественные красивые QR-коды по электронной почте менее чем за 10 минут. Выберите одну из доступных категорий QR-кода или запросите собственную. Сделайте свой бизнес уникальным с помощью QR-арта!</p>
+    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с CustomQR AI</b></a>
     <br />
 </div>
 
