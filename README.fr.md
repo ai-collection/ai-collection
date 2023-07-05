@@ -51,12 +51,12 @@
 </div>
 
 <div align="center">
-    <a href="https://tinyurl.com/ai-8fy" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://ai-collection.b-cdn.net/eightify_banner.png" alt="Eightify" border="0"/>
+    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1902.webp" alt="CustomQR AI" border="0"/>
     </a>
-    <h4>Eightify — Extraire des informations clés des vidéos YouTube</h4>
-    <p>🏃‍♂️ Suivez le rythme rapide de l'IA et du GPT, ne manquez pas ça ! <br /> 🎙 Regardez tous les podcasts que vous avez ajoutés au backlog <br /> ⚡️ 10 secondes pour obtenir des informations clés et un résumé</p>
-    <a href="https://tinyurl.com/ai-8fy" target="_blank"><b>Démarrer avec Eightify</b></a>
+    <h4>CustomQR AI - Service de génération de code QR pour les entreprises</h4>
+    <p>Obtenez de magnifiques codes QR artistiques sur votre e-mail en moins de 10 minutes. Choisissez parmi les catégories de codes QR disponibles ou demandez les vôtres. Faites en sorte que votre entreprise se démarque avec des arts QR uniques !</p>
+    <a href="http://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec CustomQR AI</b></a>
     <br />
 </div>
 
