@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=893" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=896" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -213,6 +213,7 @@
 | [DocuWriter.ai](https://www.docuwriter.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ✨ 代码文档的终极人工智能. | 一个强大的工具，可以从源代码文件自动生成全面准确的文档. | :white_check_mark: |
 | [Explain An Error](http://explain.whybug.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 由 Whybug 解释. | 让 AI 向您解释为什么您的代码有问题以及如何修复它. | :grey_question: |
 | [ExplainDev](http://explain.dev?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ExplainDev - 在上下文中回答您的问题的代码解释器. | ExplainDev 帮助您更加自信和独立地处理他人的代码。通过由 AI 提供支持的 Chrome 和 VS Code 扩展，获取代码解释和问题的直接答案。. | :grey_question: |
+| [Fine](https://www.fine.dev?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 更快地构建更好的软件. | Fine 将您的任务转化为量身定制的规范，并使用 AI 代理为您实施它们。通过新的效率标准加速软件开发。通过根据详细规范生成代码来启动您的团队，最多可减少 80% 的编码时间。. | :white_check_mark: |
 | [Ghostwriter](http://replit.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Replit：基于协作浏览器的 IDE. | 在浏览器中实时运行代码。使用功能强大的 IDE、编译器和解释器 Replit，以 50 多种语言在线编写和运行代码。. | :grey_question: |
 | [GitHub Copilot](http://GitHub.com/features/copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您的 AI 结对程序员. | GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器实时建议代码和整个功能. | :grey_question: |
 | [Mutable.ai](http://mutable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 可变人工智能。人工智能加速软件开发。. | 使用 AI 以生产质量快速构建。. | :grey_question: |
@@ -398,7 +399,7 @@
 | [DreamPic](http://dreampic.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 梦图.AI. | AI 生成您主演的图片. | :grey_question: |
 | [EpicAvatar](http://epic-avatar.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Epic Avatar - AI头像生成器. | 制作您自己的最先进的 AI 头像个人资料图片. | :x: |
 | [Face Swapper](http://faceswapper.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 换脸在线. | 自动从照片和视频中换脸。免费和无限制的照片交换. | :white_check_mark: |
-| [Hairgen](http://www.hairgen.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 预览您的 FUE/FUT 头发移植 - hairgen.ai. | . | :grey_question: |
+| [Hairgen](http://www.hairgen.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 预览您的 FUE/FUT 头发移植 - hairgen.ai. | 有没有想过头发移植后会是什么样子？在花费数千美元进行 FUE/FUT 手术之前，先了解一下您的外观。立即通过 AI 降低您的发际线。. | :x: |
 | [HairstyleAI](http://www.hairstyleai.com?via=beth0) | 用 AI 尝试新发型 - Hairstyle AI. | 准备好焕然一新了吗？上传你的照片，让人工智能技术为你生成新发型。今天试试吧！. | :x: |
 | [HeroPack](http://www.heropack.me?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 英雄包. | 借助受您最喜爱的视频游戏启发而生成的 AI 化身成为英雄。. | :grey_question: |
 | [Magic AI Avatars](http://magicaiavatars.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | 获得 200 多个由人工智能制作的自定义头像。. | :grey_question: |
@@ -571,7 +572,7 @@
 | [Murf.ai](http://murf.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用多功能 AI 语音生成器从文本到语音. | 启用 AI，真人的声音。在几分钟内制作出录音棚品质的配音。将 Murf 逼真的 AI 声音用于播客、视频和所有专业演示. | :white_check_mark: |
 | [NaturalReader](http://www.naturalreaders.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 语音 - NaturalReader 主页. | . | :grey_question: |
 | [Play.ht](http://play.ht?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的文本到语音生成器. | 使用我们的在线 AI 语音生成器和最佳合成语音生成逼真的文本到语音 (TTS) 音频。立即将文本转换为听起来自然的语音并下载为 MP3 和 WAV 音频文件。. | :white_check_mark: |
-| [Speech-to-Speech](http://www.resemble.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您完整的生成语音 AI 工具包. | Resemble 的 AI 语音生成器可让您在几秒钟内创建类似人类的配音。. | :x: |
+| [Resemble’s AI voice generator](http://www.resemble.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您完整的生成语音 AI 工具包. | Resemble 的 AI 语音生成器可让您在几秒钟内创建类似人类的配音。. | :x: |
 | [Speechelo](http://speechelo.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Speechelo - 只需单击 3 次即可从文本生成语音。最逼真的发声文本到音频转换器. | 我们保证没有人会说您的画外音是 A.I.使用文本到语音工具生成. | :grey_question: |
 | [Speechify](http://speechify.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 排名第一的文本转语音阅读器. | 使用我们领先的文本转语音阅读器收听文档、文章、PDF、电子邮件 - 您阅读的任何内容。. | :white_check_mark: |
 | [Underduck](http://uberduck.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Uberduck - 文字转语音、语音自动化、合成媒体. | 使用 AI 人声创作音乐，使用 5,000 多种富有表现力的声音制作 AI 人声和画外音，使用我们的 API 在几分钟内构建杀手级音频应用程序，用您自己的自定义语音克隆合成自己. | :grey_question: |
@@ -669,7 +670,7 @@
 | [AVC AI](http://avc.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在线 AI 图像增强器，通过放大、去噪、恢复、面部细化等提高照片质量. | 使用深度学习算法自动轻松地提高和恢复照片质量。借助人工智能的力量获得更好的照片质量。将图像分辨率从低到高提升，并通过去噪、锐化、面部修饰、着色、颜色校准等来提高其质量。. | :x: |
 | [Blend](https://www.blendnow.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 在几秒钟内制作出令人惊叹的产品视觉效果. | 为您的产品创建令人惊叹的视觉效果所需的一切 - 只需几秒钟！将您的产品传送到专业级 AI 生成的背景中。使用直观的编辑器获取 1000 个可自定义的模板。. | :white_check_mark: |
 | [Blend Studio](https://www.delete.bg/aistudio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 文本到图像 AI 背景生成器. | 根据您的描述，使用 AI 生成的背景场景为您的产品创建精美的高质量照片。. | :white_check_mark: |
-| [Claid.ai](http://claid.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Claid.ai：用于 UGC 的自动照片增强器。网络、移动和打印. | AI 软件可在无质量损失的情况下放大图像、校正颜色、提高分辨率、润饰产品照片并自动编辑 UGC。. | :grey_question: |
+| [Claid.ai](http://claid.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 创建精美的转换内容. | 使用我们的人工智能产品套件自动化端到端图像创建并促进您的业务。创建适合您品牌的多个产品图像。通过将无聊的产品图像转变为拍摄质量的营销图像，简化您的内容创建过程. | :white_check_mark: |
 | [Colorize](http://colorize.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 利用深度学习的力量为照片着色. | 在线为照片着色 Colorize.cc - 是一种为黑白照片和视频着色的人工智能服务。只需点击几下，您就可以感受到机器学习技术的魔力。在几分钟内为数百张家庭照片着色。. | :x: |
 | [Edit @ Scale](https://edit-at-scale.cloudinary.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 产品照片的人工智能批量编辑器. | 使用 Edit @ Scale（产品照片的终极批量编辑器）转变您的电子商务业务。使用美丽、独特的背景同时无缝增强多个图像，从而节省时间和精力。. | :white_check_mark: |
 | [ExtendImage](http://www.extendimage.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ExtendImageAI - 使用生成式 AI 扩展您的图像. | ExtendImageAI 是一种工具，可让您使用生成式 AI 扩展图像。. | :grey_question: |
@@ -692,6 +693,7 @@
 | [Topaz Photo AI](http://www.topazlabs.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Topaz Labs：AI 图像质量软件. | 由深度学习提供支持的照片和视频增强软件可为您提供可用于降噪、锐化、放大等的最佳图像质量。. | :grey_question: |
 | [Unfake](http://unfakepng.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 可以将烦人的 fake.png 变成真实的 unfake.png 的 AI 工具。. | 当您找到那个完美的、据称没有背景的图像并下载它时，您是否讨厌它，但是当您使用它时，可怕的棋盘格出现了？. | :white_check_mark: |
 | [Unrealme](http://unrealme.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unreal Me - 获取 AI 生成的你的图像. | 获得令人惊叹的自己照片的步骤： 1. 付款。 2. 上传 - 阅读推荐并在有时间时上传您的照片（您的链接通过电子邮件发送）。 3. 等待 4. 分享。. | :x: |
+| [img-cut](https://img-cut.aishoot.co/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 终极 AI 背景去除解决方案 准确、安全且免费. | 您的照片，您的设备 - 停止将您的私人照片发送到互联网上的随机位置。掌控一切，在浏览器中本地运行最先进的人工智能并完成工作。. | :white_check_mark: |
 | [jpgRM](http://jpgrm.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | jpgRM - AI图像魔术清理. | 使用 2022 尖端 AI 模型从图像中删除任何不需要的对象，自动填充背景. | :grey_question: |
 | [jpghd](http://jpghd.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | jpgHD - 老照片AI无损修复. | 使用2022前沿AI模型对老照片进行无损修复（支持老照片、划痕照片修复、调色、Magic Photo）. | :grey_question: |
 | [paintbytext](https://paintbytext.chat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 按文字绘画. | paintbytext - 在 AI 的帮助下，使用书面说明编辑您的照片. | :white_check_mark: |
@@ -724,6 +726,7 @@
 |---|---|---|:---:|
 | [DoMyShoot](https://domyshoot.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | DoMyShoot - 简化产品摄影. | 使用 DoMyShoot，您可以使用具有专业外观的产品照片立即升级您的电子商务业务。轻松使用该应用程序的创新功能为您的品牌创建自定义内容 - 无需任何经验！仅使用您的智能手机引导自己完成照片拍摄，让我们的 AI 技术处理剩余的过程，将日常产品变成照片般逼真的图像，这些图像一定会让营销策略更上一层楼。. | :white_check_mark: |
 | [Embolden](http://embolden.co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 为您的电子商务写作提供支持。. | Embolden 使用 AI 帮助您为电子商务业务编写从电子邮件到产品描述的所有内容。. | :white_check_mark: |
+| [Gizzmo Ai](https://gizzmo.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过 WordPress 附属内容让您的收入飙升。. | Gizzmo 是一个功能强大的 WordPress 插件，可以简化创建亚马逊附属文章的过程。只需点击几下，您就可以生成完全优化的内容，包括产品评论、综述和礼品指南。对于联盟营销人员来说，这是一个游戏规则改变者！. | :x: |
 | [Octie.ai](http://octie.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Octie.ai - 你的人工智能电子商务营销助理. | 使用 A.I. 编写电子邮件、产品说明等。由 Octane AI 创建。. | :grey_question: |
 | [Wizishop](http://wizishop.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过 SEO 驱动的电子商务发展您的业务. | WiziShop 使基于 SEO 的电子商务比以往任何时候都更容易，使成功触手可及。人工智能为您的电子商务业务服务！. | :white_check_mark: |
 | [manifest](https://getmanifest.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用人工智能重新构想电子商务. | 1 分钟内即可获得您自己的人工智能购物助手。通过人工智能驱动的个性化改造您的商店并提高您的销售额。. | :white_check_mark: |
@@ -907,7 +910,6 @@
 ## 艺术与图像生成器
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
-| [AI Art Latitude](http://ai-art.latitude.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能艺术. | . | :grey_question: |
 | [AI Background Generator by PhotoRoom](http://www.photoroom.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PhotoRoom - 删除背景并创建产品图片. | 仅使用您的手机创建产品和肖像图片。删除背景、更改背景和展示产品。. | :grey_question: |
 | [AI Picasso](http://aipicasso.studio.site?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能毕加索. | 用强大的 AI 创造惊人的艺术作品！它会根据您输入的文本生成图像，就像您期望使用名为 Stable Diffusion 的 AI 一样。让我们享受用 AI 创作艺术吧！. | :grey_question: |
 | [AI Wall Decor](http://aiwalldecor.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 氢. | 使用 Stable Diffusion 生成高质量的框架艺术，无需提起画笔。只需输入您想要的画作外观，生成您的艺术作品，选择您最喜欢的框架，然后发送。. | :grey_question: |
@@ -944,15 +946,15 @@
 | [Drawanything](http://www.drawanything.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Draw Anything - 稳定的扩散游乐场. | 使用 AI 在几分钟内创建新颖的图像。. | :grey_question: |
 | [DreamUp](http://www.dreamup.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 梦想. | DeviantArt DreamUp™ AI 艺术生成器可让您安全公平地创作 AI 艺术。. | :grey_question: |
 | [Dreambooth](http://dream.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 数秒内的高品质艺术品. | . | :grey_question: |
-| [Dreamlike](http://dreamlike.art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Art generator, AI Art Maker - dreamlike.art. | . | :grey_question: |
+| [Dreamlike](http://dreamlike.art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 借助人工智能的力量，在几秒钟内创作出令人惊叹的原创艺术。. | 创建、升级、使用自然语言编辑、修复面部、复制姿势/深度/草图、进行变化等等。从 8 个 AI 模型中进行选择。使用高级参数根据您的喜好自定义您的创作。您所需的一切都在浏览器中，可以在任何设备上随时随地使用。. | :white_check_mark: |
 | [Erase.bg](http://www.erase.bg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费背景图像去除器：在线从高清图像中去除 BG - Erase.bg. | 使人物、动物或物体图像的背景透明。免费下载高分辨率图像，供电子商务和个人使用。无需信用卡。. | :white_check_mark: |
 | [Eye for AI](http://eyeforai.xyz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 简单的文本到图像工具和模板. | 在一分钟内从文本创建图像. | :white_check_mark: |
 | [Facet 2.0](http://facet.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 方面：图像创作，重新构想. | 利用 AI 的力量使创意过程快速、有效且易于访问。尝试视觉方向、自动选择和协作——一切都在网络上. | :grey_question: |
 | [Flying Dog for Photoshop](http://www.flyingdog.de/sd/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Photoshop 的 AI 超能力. | 四个强大的 AI 连接器：三个用于 Stable Diffusion 和 DALL-E 2. 使用您自己的 Stable Diffusion 服务器. | :grey_question: |
 | [For the Wall](http://forthewall.art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | For the Wall - 人工智能生成的艺术墙 - forthewall.art. | 使用 forthewall.art 创建您自己独特和个性化的艺术印刷品！我们的人工智能平台可让您从头开始制作令人惊叹的艺术作品。立即订购您的独一无二的印刷品，将空白的墙壁变成特别的东西。现在就在 forthewall.art 试试吧！. | :grey_question: |
 | [Galileo AI](https://www.usegalileo.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 由 AI 提供支持的瞬间设计理念. | Galileo AI 从简单的文本描述创建令人愉悦的、可编辑的 UI 设计。它使您能够比以往更快地进行设计。. | :grey_question: |
-| [Generated Photos](http://generated.photos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 生成的照片 - 独一无二、无忧的模特照片. | . | :grey_question: |
-| [Getimg.ai](http://getimg.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 创建图像所需的一切 - getimg.ai. | 神奇的人工智能艺术工具。生成原始图像、修改现有图像、将图片扩展到其原始边界之外等等。. | :grey_question: |
+| [Generated Photos](http://generated.photos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 生成的照片 - 独一无二、无忧的模特照片. | 使用完全由人工智能生成的照片增强您的创意作品。通过我们排序和标记的应用程序查找模型图像，或通过 API 集成图像。. | :white_check_mark: |
+| [Getimg.ai](http://getimg.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 借助人工智能的力量创建令人惊叹的头像、图像、艺术、照片。. | getimg.ai 是一套神奇的人工智能工具。大规模生成原始图像、修改照片、将图片扩展到原始边界之外，或创建自定义 AI 模型。. | :white_check_mark: |
 | [Green Screen AI](http://greenscreenai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 更改任何图像的背景。. | Green Screen AI 是一种有趣且简单的方法，可以将您的照片转换为生成式 AI 艺术。. | :grey_question: |
 | [IMGCreator](http://imgcreator.zmo.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 终极人工智能图像、艺术、设计生成器. | 利用人工智能的力量，在几秒钟内从文本到图像。文本到图像、图像到图像和 chatGPT 支持的人工智能设计师。只需使用文本选择器输入描述您想要看到的内容，然后从四个候选图像中选择最佳结果。如果您想编辑照片，请删除您想要编辑的部分，并描述该部分想要的结果。. | :white_check_mark: |
 | [IMGN - Image Engine](http://imagine-ai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 想象一下 AI – 先进的技术易于使用. | 我们都听说过人工智能的力量和可能性。但对于该领域以外的每个人来说，这听起来像是超出我们理解范围的复杂问题。想象一下，人工智能的建立是为了让其他人能够毫无困难地获得所有好处。这也是我们创建 IMGN 应用程序的原因。. | :grey_question: |
