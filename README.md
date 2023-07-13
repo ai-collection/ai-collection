@@ -96,6 +96,13 @@ Translations:
 
 ---
 
+## Upcoming ProductHunt Launches 🚀
+| Date | Name | ProductHunt Link |
+|---|---|---|
+| July 15 | [CustomQR AI](https://ai-collection.org/en/application/customqr-ai/) | https://www.producthunt.com/products/customqr-ai |
+<br />
+---
+
 > **_NOTE:_** A change on how the collection is displayed is coming. Only a few dozen hand picked generative AI applications will be displayed. The full collection will always be availale on https://ai-collection.org/
 <br />
 
@@ -235,7 +242,7 @@ Translations:
 | [For the Wall](http://forthewall.art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | For the Wall - AI Generated Wall Art - Forthewall.Art. | Create your own unique and personalized art prints with forthewall.art! Our AI-powered platform lets you generate stunning works of art from scratch. Order your one-of-a-kind print today and transform your blank walls into something special. Try it out now at forthewall.art!. | :grey_question: |
 | [Galileo AI](https://www.usegalileo.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Idea to Design in an Instant, Powered by AI. | Galileo AI creates delightful, editable UI designs from a simple text description. It empowers you to design faster than ever. | :grey_question: |
 | [Generated Photos](http://generated.photos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generated Photos - Unique, Worry-Free Model Photos. | Enhance your creative works with photos generated completely by AI. Find model images through our sorted and tagged app, or integrate images via API. | :white_check_mark: |
-| [Getimg.ai](http://getimg.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create Amazing Avatars, Images, Art, Photos With the Power of AI. | getimg.ai is a suite of magical AI tools. Generate original images at scale, modify photos, expand pictures beyond their original borders, or create custom AI models. | :white_check_mark: |
+| [Getimg.ai](https://getimg.ai/?via=aicollection?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create Amazing Avatars, Images, Art, Photos With the Power of AI. | getimg.ai is a suite of magical AI tools. Generate original images at scale, modify photos, expand pictures beyond their original borders, or create custom AI models. | :white_check_mark: |
 | [Green Screen AI](http://greenscreenai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Change the Background of Any Image With Ai. | Green Screen AI is a fun & easy way to transform your pics into generative AI art. | :grey_question: |
 | [IMGCreator](http://imgcreator.zmo.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The Ultimate AI Image, Art, Design Generator. | From Text To Image in Seconds Using Power of AI. Text to image, image to image & chatGPT powered AI designer. Simply describe the what you want to see with the text selector input, and then pick the best results out of four candidate images. If you want to edit photo, please erase out the part you want to edit, and describe desired result of that section. | :white_check_mark: |
 | [IMGN - Image Engine](http://imagine-ai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Imagine AI – Advanced Tech Made Easy to Use. | We all hear about the power and possibilities of artificial intelligence. But for everyone outside of the field it sounds like this complex matter beyond our understanding. Imagine AI was founded to empower others to get all the benefits without any of the hassle. This is also why we created the IMGN app. | :grey_question: |
@@ -1002,7 +1009,7 @@ Translations:
 | [Free Text-To-Speech](http://www.text-to-speech.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Free Text to Speech Online Converter Tools. | . | :white_check_mark: |
 | [Listnr 2.0](https://www.listnr.tech/?gr_pk=V71a&gr_uid=YVDO) | AI Voice Generator - Text to Speech Converter - Listnr. | Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with the best synthetic voices. Instantly convert text in to natural-sounding speech and download in MP3 and WAV formats. | :x: |
 | [Lovo](http://www.lovo.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Lovo AI - Free Text to Speech Online With Natural Voices. | . | :white_check_mark: |
-| [Murf.ai](http://murf.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Go From Text to Speech With a Versatile AI Voice Generator. | AI enabled, real people's voices. Make studio-quality voice overs in minutes. Use Murfs lifelike AI voices for podcasts, videos, and all your professional presentations. | :white_check_mark: |
+| [Murf.ai](https://get.murf.ai/drehqr9f9o73?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Go From Text to Speech With a Versatile AI Voice Generator. | AI enabled, real people's voices. Make studio-quality voice overs in minutes. Use Murfs lifelike AI voices for podcasts, videos, and all your professional presentations. | :white_check_mark: |
 | [NaturalReader](http://www.naturalreaders.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Voices - Naturalreader Home. | . | :grey_question: |
 | [Play.ht](http://play.ht?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Powered Text to Voice Generator. | Generate realistic Text to Speech (TTS) audio using our online AI Voice Generator and the best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files. | :white_check_mark: |
 | [Resemble’s AI voice generator](http://www.resemble.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Your Complete Generative Voice AI Toolkit. | Resembles AI voice generator lets you create human–like voice overs in seconds. | :x: |

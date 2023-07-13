@@ -90,6 +90,13 @@
 
 ---
 
+## 即将推出的 ProductHunt 🚀
+| 日期 | 姓名 | 产品搜索链接 |
+|---|---|---|
+| July 15 | [CustomQR AI](https://ai-collection.org/en/application/customqr-ai/) | https://www.producthunt.com/products/customqr-ai |
+<br />
+---
+
 > **_注意：_** 集合的显示方式即将发生变化。 将仅展示几十个手工挑选的生成式 AI 应用程序。 完整的收藏将始终在 https://ai-collection.org/ 上提供
 <br />
 
@@ -569,7 +576,7 @@
 | [Free Text-To-Speech](http://www.text-to-speech.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费的文本到语音在线转换器工具. | . | :white_check_mark: |
 | [Listnr 2.0](https://www.listnr.tech/?gr_pk=V71a&gr_uid=YVDO) | AI 语音生成器 - 文本到语音转换器 - Listnr. | 使用我们的 AI 语音生成器和最佳合成语音生成逼真的文本到语音 (TTS) 音频。立即将文本转换为听起来自然的语音并以 MP3 和 WAV 格式下载。. | :x: |
 | [Lovo](http://www.lovo.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | LOVO AI - 自然语音在线免费文字转语音. | . | :white_check_mark: |
-| [Murf.ai](http://murf.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用多功能 AI 语音生成器从文本到语音. | 启用 AI，真人的声音。在几分钟内制作出录音棚品质的配音。将 Murf 逼真的 AI 声音用于播客、视频和所有专业演示. | :white_check_mark: |
+| [Murf.ai](https://get.murf.ai/drehqr9f9o73?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用多功能 AI 语音生成器从文本到语音. | 启用 AI，真人的声音。在几分钟内制作出录音棚品质的配音。将 Murf 逼真的 AI 声音用于播客、视频和所有专业演示. | :white_check_mark: |
 | [NaturalReader](http://www.naturalreaders.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 语音 - NaturalReader 主页. | . | :grey_question: |
 | [Play.ht](http://play.ht?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的文本到语音生成器. | 使用我们的在线 AI 语音生成器和最佳合成语音生成逼真的文本到语音 (TTS) 音频。立即将文本转换为听起来自然的语音并下载为 MP3 和 WAV 音频文件。. | :white_check_mark: |
 | [Resemble’s AI voice generator](http://www.resemble.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您完整的生成语音 AI 工具包. | Resemble 的 AI 语音生成器可让您在几秒钟内创建类似人类的配音。. | :x: |
@@ -954,7 +961,7 @@
 | [For the Wall](http://forthewall.art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | For the Wall - 人工智能生成的艺术墙 - forthewall.art. | 使用 forthewall.art 创建您自己独特和个性化的艺术印刷品！我们的人工智能平台可让您从头开始制作令人惊叹的艺术作品。立即订购您的独一无二的印刷品，将空白的墙壁变成特别的东西。现在就在 forthewall.art 试试吧！. | :grey_question: |
 | [Galileo AI](https://www.usegalileo.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 由 AI 提供支持的瞬间设计理念. | Galileo AI 从简单的文本描述创建令人愉悦的、可编辑的 UI 设计。它使您能够比以往更快地进行设计。. | :grey_question: |
 | [Generated Photos](http://generated.photos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 生成的照片 - 独一无二、无忧的模特照片. | 使用完全由人工智能生成的照片增强您的创意作品。通过我们排序和标记的应用程序查找模型图像，或通过 API 集成图像。. | :white_check_mark: |
-| [Getimg.ai](http://getimg.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 借助人工智能的力量创建令人惊叹的头像、图像、艺术、照片。. | getimg.ai 是一套神奇的人工智能工具。大规模生成原始图像、修改照片、将图片扩展到原始边界之外，或创建自定义 AI 模型。. | :white_check_mark: |
+| [Getimg.ai](https://getimg.ai/?via=aicollection?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 借助人工智能的力量创建令人惊叹的头像、图像、艺术、照片。. | getimg.ai 是一套神奇的人工智能工具。大规模生成原始图像、修改照片、将图片扩展到原始边界之外，或创建自定义 AI 模型。. | :white_check_mark: |
 | [Green Screen AI](http://greenscreenai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 更改任何图像的背景。. | Green Screen AI 是一种有趣且简单的方法，可以将您的照片转换为生成式 AI 艺术。. | :grey_question: |
 | [IMGCreator](http://imgcreator.zmo.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 终极人工智能图像、艺术、设计生成器. | 利用人工智能的力量，在几秒钟内从文本到图像。文本到图像、图像到图像和 chatGPT 支持的人工智能设计师。只需使用文本选择器输入描述您想要看到的内容，然后从四个候选图像中选择最佳结果。如果您想编辑照片，请删除您想要编辑的部分，并描述该部分想要的结果。. | :white_check_mark: |
 | [IMGN - Image Engine](http://imagine-ai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 想象一下 AI – 先进的技术易于使用. | 我们都听说过人工智能的力量和可能性。但对于该领域以外的每个人来说，这听起来像是超出我们理解范围的复杂问题。想象一下，人工智能的建立是为了让其他人能够毫无困难地获得所有好处。这也是我们创建 IMGN 应用程序的原因。. | :grey_question: |
