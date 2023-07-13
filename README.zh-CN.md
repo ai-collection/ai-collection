@@ -95,7 +95,6 @@
 |---|---|---|
 | July 15 | [CustomQR AI](https://ai-collection.org/en/application/customqr-ai/) | https://www.producthunt.com/products/customqr-ai |
 <br />
----
 
 > **_注意：_** 集合的显示方式即将发生变化。 将仅展示几十个手工挑选的生成式 AI 应用程序。 完整的收藏将始终在 https://ai-collection.org/ 上提供
 <br />
