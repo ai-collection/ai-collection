@@ -95,7 +95,6 @@
 |---|---|---|
 | July 15 | [CustomQR AI](https://ai-collection.org/en/application/customqr-ai/) | https://www.producthunt.com/products/customqr-ai |
 <br />
----
 
 > **_NOTA:_** Se acerca un cambio en la forma en que se muestra la colección. Solo se mostrarán unas pocas docenas de aplicaciones generativas de IA cuidadosamente seleccionadas. La colección completa siempre estará disponible en https://ai-collection.org/
 <br />
