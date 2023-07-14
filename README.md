@@ -400,6 +400,7 @@ Translations:
 | [Text2SQL](http://www.text2sql.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Text2Sql.Ai - Generate SQL Queries With AI for Free!. | . | :white_check_mark: |
 | [Whatthediff](http://whatthediff.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | What-the-Diff – AI-Powered Code Review Assistant. | The AI powered GitHub app that explains the changes within your pull requests in plain english. | :grey_question: |
 | [aidev.codes](https://aidev.codes/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Dev Codes for You. | Create simple apps and demos just by entering specifications — a new type of AI prompt engineering. | :white_check_mark: |
+| [Hiphops AI](https://www.hiphops.io/ai) | Inject AI Anywhere In Your Dev Workflow | Hiphops AI lets you integrate generative AI anywhere in your development workflow so you can fully automate you development, testing, deployment and release process. | :white_check_mark: |
 
 <!--End of Code & Database Assistant 4-->
 
