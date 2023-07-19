@@ -717,7 +717,7 @@ TTSMaker is an online text-to-speech tool that can convert text to audio, and yo
 ### Writing Assistant
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [Writery AI](http://aiwritery.com) | Writery AI: AI Writing Generators & AI Writer. | . | :grey_question: |
+| [Writery AI](https://aiwritery.com) | Writery AI: SEO-friendly AI Writing Generators & AI Writer. | Generate blog outline/blog headline/blog introduction/blog ideas,expand an article outline, revise language, rephrase or summarize text, generate abstracts, enhance sentence structure, and perform other functions. | :white_check_mark: |
 | [AI Lyrics Generator](http://theselyricsdonotexist.com) | Artificial Intelligence Songwriter – These Lyrics Do Not Exist. | Generate your own song lyrics for any topic, also choose lyrics genre and lyrics mood. | :grey_question: |
 | [AI-Writer](http://ai-writer.com) | AI Writer™ - The Best AI Text Generator, Promised. | AI-Writer is the most accurate content generation platform, using state-of-the-art AI writing models to generate articles from just a headline. | :grey_question: |
 | [AIKIt](http://getaikit.com) | Aikit - Your Wordpress AI Assistant Using GPT-3. | . | :grey_question: |
