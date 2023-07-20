@@ -401,7 +401,7 @@ Translations:
 | [Whatthediff](http://whatthediff.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | What-the-Diff – AI-Powered Code Review Assistant. | The AI powered GitHub app that explains the changes within your pull requests in plain english. | :grey_question: |
 | [aidev.codes](https://aidev.codes/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Dev Codes for You. | Create simple apps and demos just by entering specifications — a new type of AI prompt engineering. | :white_check_mark: |
 | [Hiphops AI](https://www.hiphops.io/ai) | Inject AI Anywhere In Your Dev Workflow | Hiphops AI lets you integrate generative AI anywhere in your development workflow so you can fully automate you development, testing, deployment and release process. | :white_check_mark: |
-
+| [Rome AI](https://www.romehq.ai) | Query your data in a conversational way  | Rome AI connects with your data source, analyze and allows conversational discussions with your own data! | :white_check_mark: |
 <!--End of Code & Database Assistant 4-->
 
 <!--lint ignore double-link-->
