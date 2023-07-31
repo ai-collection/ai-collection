@@ -1392,6 +1392,7 @@ Translations:
 | [bigmp4](http://bigmp4.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Video Enhancement, Using 2022 Cutting Edged AI Model to Lossless Enlarge Video, Enhance Video. | . | :grey_question: |
 | [deck.rocks](https://www.deck.rocks/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Deck.Rocks: Generate Pitch Decks Using GPT-3. | . | :grey_question: |
 | [micro Dalle-2](http://micropay.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dalle-2 Image Generator - Micropay. | Anonymous and pay-as-you-go generative AI software. | :grey_question: |
+| [Adaptify SEO Agent](https://adaptify.ai/seo?source=ai-collection) | Automated SEO Marketing  | Builds a profile of your busines your customers and your competitors on Google. Then generates a keyword strategy and long-form content that ranks well on Google | :white_check_mark: |
 
 <!--End of Other 0-->
 
