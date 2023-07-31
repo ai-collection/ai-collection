@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=896" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=908" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=42" />
@@ -57,12 +57,12 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+    <a href="https://ai-collection.org/redirect/customqr-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="500" src="https://ai-collection.b-cdn.net/CustomQR_promo.png" alt="CustomQR AI" border="0"/>
     </a>
     <h4>CustomQR AI - QR Code Generation Service for Business</h4>
     <p>Get artistic beautiful QR codes on your email in under 10 minutes. Choose from available QR code categories or request your own. Make your business stand out with unique QR arts!</p>
-    <a href="https://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with CustomQR AI</b></a>
+    <a href="https://ai-collection.org/redirect/customqr-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with CustomQR AI</b></a>
     <br />
 </div>
 
@@ -94,13 +94,7 @@ Translations:
 
 <p><a href="mailto: pavel@ai-collection.org">Contact Us</a> to set up a promotion for your awesome app!</p>
 
----
 
-## Upcoming ProductHunt Launches 🚀
-| Date | Name | ProductHunt Link |
-|---|---|---|
-| July 15 | [CustomQR AI](https://ai-collection.org/en/application/customqr-ai/) | https://www.producthunt.com/products/customqr-ai |
-<br />
 
 > **_NOTE:_** A change on how the collection is displayed is coming. Only a few dozen hand picked generative AI applications will be displayed. The full collection will always be availale on https://ai-collection.org/
 <br />
@@ -392,16 +386,18 @@ Translations:
 | [Fine](https://www.fine.dev?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Build Better Software, Faster. | Fine transforms your tasks into tailor-made specifications and uses AI agents to implement them for you. Accelerate software development with a new standard for efficiency. Jumpstart your team by generating code based on detailed specifications, reducing up to 80% of your coding time. | :white_check_mark: |
 | [Ghostwriter](http://replit.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Replit: The Collaborative Browser Based Ide. | Run code live in your browser. Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter. | :grey_question: |
 | [GitHub Copilot](http://GitHub.com/features/copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Your AI Pair Programmer. | GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor. | :grey_question: |
+| [Hiphops AI](https://www.hiphops.io/ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Inject AI Anywhere in Your Dev Workflow. | Hiphops AI lets you integrate generative AI anywhere in your development workflow so you can fully automate you development, testing, deployment and release process. | :white_check_mark: |
+| [Kyligence Copilot](https://kyligence.io/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Excel Your KPIs With the AI Copilot for Data. | Meet Kyligence Copilot – Your AI copilot for Data. Just chat, ask, and discover. Our AI-driven chatbot understands your business metrics, allowing you to evaluate your KPIs, provide recommendations, creating data products in natural language, without the need for technical expertise. | :white_check_mark: |
 | [Mutable.ai](http://mutable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Mutableai. AI Accelerated Software Development. | Build fast with production quality using AI. | :grey_question: |
 | [Programminghelper](http://www.programming-helper.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Home. | Generate code with AI just by typing a text description. AI will create the code for you. A tool that helps you with a wide range of tasks. All in one place. | :grey_question: |
 | [QueryGenie](http://sqlgenie-co.web.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Write Db Queries Faster!. | Generate database queries from plain-english description using AI. | :grey_question: |
+| [Rome AI](https://www.romehq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Query Your Data in a Conversational Way. | Rome AI connects with your data source, analyze and allows conversational discussions with your own data! Rome is an AI powered no-code data enablement and analytics layer, empowering non-technical employees to become superhuman data analysts. | :white_check_mark: |
 | [TLDR - Jetbrains IDE Plugin](http://tldrdev.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TLDR – Explain Code in Plain English. | TLDR is an IDE plugin that leverages AI to explain code in plain english. | :grey_question: |
 | [Tabnine](http://www.tabnine.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Assistant for Software Developers - Tabnine. | Whether you are part of a team, or a developer working on your own, Tabnine will help you write code faster – all in your favorite IDE. | :grey_question: |
 | [Text2SQL](http://www.text2sql.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Text2Sql.Ai - Generate SQL Queries With AI for Free!. | . | :white_check_mark: |
 | [Whatthediff](http://whatthediff.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | What-the-Diff – AI-Powered Code Review Assistant. | The AI powered GitHub app that explains the changes within your pull requests in plain english. | :grey_question: |
 | [aidev.codes](https://aidev.codes/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Dev Codes for You. | Create simple apps and demos just by entering specifications — a new type of AI prompt engineering. | :white_check_mark: |
-| [Hiphops AI](https://www.hiphops.io/ai) | Inject AI Anywhere In Your Dev Workflow | Hiphops AI lets you integrate generative AI anywhere in your development workflow so you can fully automate you development, testing, deployment and release process. | :white_check_mark: |
-| [Rome AI](https://www.romehq.ai) | Query your data in a conversational way  | Rome AI connects with your data source, analyze and allows conversational discussions with your own data! | :white_check_mark: |
+
 <!--End of Code & Database Assistant 4-->
 
 <!--lint ignore double-link-->
@@ -439,7 +435,7 @@ Translations:
 | [Quattr](https://www.quattr.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Quattr Is Your Growth Hq. | The enterprise SEO platform built with powerful AI and GSC data as the foundation. | :x: |
 | [Summari](http://www.summari.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Improve the Reading Experience on Your Site. | Upgrade links into short, informative previews using our world-class AI summarization technology. | :grey_question: |
 | [TLDR This](http://tldrthis.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TLDR This - Article Summarizer & Online Text Summarizing Tool. | This helps you summarize any piece of text into concise, easy to digest content so you can free yourself from information overload. | :white_check_mark: |
-| [Taskade](http://www.taskade.com/?via=beth0) | Taskade - AI Outliner & Mind Map - AI Outlining and Mind Mapping for Teams. | Taskade is the first collaborative AI writer and outliner for teams with built-in task management and video chat. Create mind maps, task lists, and take structured notes in real-time with your team. | :white_check_mark: |
+| [Taskade](http://www.taskade.com/?via=beth0) | A Second Brain for You and Your Teams. Five AI-powered Tools in One to Supercharge Your Team Productivity. With Taskade, All Your Work Is in Sync in One Unified Workspace. | Taskade is the first collaborative AI writer and outliner for teams with built-in task management and video chat. Create mind maps, task lists, and take structured notes in real-time with your team. | :white_check_mark: |
 | [TweetStorm.ai](https://www.tweetstorm.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-Powered Tweet Generator. | Generate Tweets, Bios, Hashtags and Usernames using AI GPT4. | :white_check_mark: |
 | [TypeDroid](http://typedroid.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Typedroid - Free AI Text Generator. | . | :white_check_mark: |
 | [Typli](http://typli.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Typli.Ai - AI Writer & Seo Writing Assistant. | The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant. | :white_check_mark: |
@@ -448,9 +444,11 @@ Translations:
 | [WordHero](http://wordhero.co?via=beth0) | Generate AI-Powered Content - In 1 Click. | With WordHero's AI technology, you can create original blog posts, social media content, emails, and more - in just seconds. | :x: |
 | [Wordkraft](http://wordkraft.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create High-Quality Content Instantly With AI. | Wordkraft AI content writer is a revolutionary tool Powered by GPT-3 the most advance artificial intelligence technology to generate well-written, keyword-optimized content for your blog, website or marketing needs. | :white_check_mark: |
 | [Wordplay](http://wordplay.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create Long-Form Content in Seconds. | The #1 AI content generator built for SEO & content publishers. | :white_check_mark: |
+| [Writery AI](https://www.aiwritery.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-powered Writing Platform That Has Immensely Transformed the Way to Create Written Content. Write Your Article From a Topic or Keyword. | Our free AI writing generator has optimized for the best SEO practices and can produce high-quality, original content for a blog post/article from a topic or keyword. We offer a range of options to suit your blog content needs, including four task types (blog outline, blog introduction, blog headline, and blog ideas), and over 14 different tones and 23 languages to choose from. | :white_check_mark: |
 | [Writesonic](https://writesonic.com?via=beth0) | Writesonic - Best AI Writer, Copywriting & Paraphrasing Tool. | Create SEO-optimized and plagiarism-free contentfor your blogs, ads, emails, and website 10X faster. | :white_check_mark: |
 | [Writey AI](http://writey.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Yes — An A.I That Writes Original, Researched Blog Posts in Minutes. | First true free plagiarism A.I with original and researched content, check Writey A.I in action. | :white_check_mark: |
 | [aitxt](https://aitxt.ru/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Online Text Generator in Russian. | Our service generates a text that is understandable with meaning up to 1 minute on any topic using artificial intelligence. | :white_check_mark: |
+| [beehiiv AI](https://www.beehiiv.com/create/ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Artificial Intelligence Built for Newsletter Operators. | AI Writing Assistant - Describe an idea of what you want to write, select the tone and length. AI Text Tools - Select existing text to auto-correct, auto-complete, or regenerate altogether. AI Image Tools - Generate beautiful images with nothing but your imagination. Describe the image and bring it to life. AI Translator - Seamlessly translate your content into multiple languages. | :white_check_mark: |
 | [unbound](https://www.unboundcontent.ai/?affiliate=aff_z0krz31) | Automate Content Creation for Your Small Business. | Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators. | :white_check_mark: |
 | [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instantly Convert Your YouTube Content Into Engaging Blog Articles. | Boost your SEO and brand presence. | :white_check_mark: |
 
@@ -569,6 +567,7 @@ Translations:
 | [Excuses AI](http://excuses.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Excuse Generator. | Use AI to generate the perfect professional excuse. | :grey_question: |
 | [Jokelub](http://jokelub.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Jokelub. | Bring humor everywhere. | :grey_question: |
 | [Kanye Tweet Generator](http://www.kanyegenerator.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Kanye Tweet Generation. | Generate Kanye Tweets using AI. Built by Ryan Doyle. | :grey_question: |
+| [Nudify.online](https://www.nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Undress Anybody With Our FREE Service. | Just choose age, body type, quality and get a result in a few seconds. | :white_check_mark: |
 | [Oscar Stories](https://oscarstories.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create Personalized Bedtime Stories. | Create personalized bedtime stories featuring your children as the main characters. | :white_check_mark: |
 | [Philosophy](http://philosophy.fyi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ask a Philosopher. | Ask deep questions and get answers from William Shakespeare, Friedrich Nietzsche, René Descartes, Socrates, Confucious, Al-Kindi, Buddha. | :white_check_mark: |
 | [Pit Stop ChatterGPT](https://apps.apple.com/us/app/pit-stop-chattergpt/id6449394370?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pit Stop ChatterGPT: Chat With F1 Legends, Your Race Day Companion. | With this app, you can explore the mindset of your favorite drivers before a big race, ask about their preparation routines, or just have a friendly chat. It's like having a personal conversation with iconic F1 drivers like Lewis Hamilton or Max Verstappen. | :x: |
@@ -732,6 +731,7 @@ Translations:
 ## Organization & Automation
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [Adaptify SEO Agent](https://adaptify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Automated SEO Marketing. | Builds a profile of your busines your customers and your competitors on Google. Then generates a keyword strategy and long-form content that ranks well on Google. | :white_check_mark: |
 | [BuildAI](https://www.buildai.space/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Build AI Interfaces in Minutes. | Enter the description of an app that outputs text based on user text input, and we will BUILD IT FOR YOU!. | :grey_question: |
 | [Hexowatch](http://hexact.pxf.io/beth0) | Beyond Availability and Prices, 3Rd Party Websites as a Data Source, Visual Website Monitoring, Competitor Tracking. | Hexowatch is your AI sidekick to monitor any website for visual, content, source code, technology, availability, or price changes. | :x: |
 | [KUBIYA](http://kubiya.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Devops Virtual Assistant. | Provide developers secure, self-serve access to operational workflows, cloud resources and organizational knowledge with conversational AI. | :grey_question: |
@@ -740,6 +740,7 @@ Translations:
 | [Nekton.ai](https://nekton.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Automate Your Workflows With AI. | Automate the routine processes for yourself and your team without needing to code or maintain infrastructure. | :white_check_mark: |
 | [Product Launch AI](https://shapenship.com/productlaunchai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unleash the Power of AI to Supercharge Your Product Launches. | Blast off to a great launch without worrying about launch copy!. | :grey_question: |
 | [Prompt.Cafe](http://www.prompt.cafe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Prompt.Cafe - AI Prompt Starter Pack. | AI Prompt Generator‍ - Inspire, Create, Organize. Inspire with AI Prompts, Create New Prompts with Prompt Generator, Organize Your Own Prompts with Notion Template. | :white_check_mark: |
+| [Spoke](https://www.spoke.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Spoke Cuts Through Workplace Noise With Powerful AI That Prioritizes and Summarizes Across Tools ⚡️. | Cut through the noise. Spoke is the OS for tomorrow’s teams. Aggregate, prioritize, and summarize across your tools to create the context for work. Instant context for all your channels & threads - Private & secure AI to summarize any conversation or topic, so you never miss an important update - free to use, directly within Slack. | :white_check_mark: |
 | [bardeen](https://www.bardeen.ai/ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Meets Automations. | Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity. | :grey_question: |
 | [guidde](https://www.guidde.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Magically Create Stunning Training Meterial, Feature Notes, SOPs, Onboarding Guides, How-to Guides, FAQs With AI. | guidde is the generative AI platform for business that helps your team create video documentation 11x faster. | :white_check_mark: |
 | [mem](https://get.mem.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The Self-Organizing Workspace. | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically. | :white_check_mark: |
@@ -825,6 +826,7 @@ Translations:
 ## Research Assistant
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [Afforai Build](https://afforai.com/build?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Your AI Reading Copilot. Must-Have Tools for Text Analysis, Research, and Document Search. | Drafting Reports Too many documents to read through? Afforai will analyze and draft up a full report for you as well as answer any questions about the documents. Spreadsheet Query - Use Afforai to extract important information from reports and spreadsheets using natural language query. Web Scraping - Afforai can scrape through multiple websites and extract key information. | :white_check_mark: |
 | [Elicit](http://elicit.org?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Elicit: The AI Research Assistant. | Elicit uses machine learning to help you with your research: find papers, extract key claims, summarize, brainstorm ideas, and more. | :grey_question: |
 | [Explainpaper](http://www.explainpaper.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The Fastest Way to Read Research Papers. | Upload a paper, highlight confusing text, get an explanation. We make research papers easy to read. | :white_check_mark: |
 | [RTutor](http://rtutor.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Chat With Your Data in Dozens of Human Languages. | RTutor uses OpenAI's powerful large language model to translate natural language into R code, which is then excuted. You can request your analysis, just like asking a real person. Upload a data file (CSV, TSV/tab-delimited text files, and Excel) and just analyze it in plain English. Your results can be downloaded as an HTML report in minutes!. | :white_check_mark: |
@@ -853,6 +855,7 @@ Translations:
 ## Sales & Marketing
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [AdInsights](https://adinsights.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Use AI to Generate Intelligent Action Items From Digital Ad Campaign Data. | Input the primary objective for the analysis, Upload 1+ digital ad campaign data for each platform, Receive intelligent actionable items to execute on. | :white_check_mark: |
 | [Altera AI](http://www.altera.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Abetter Way to Sell on Linkedin. | Get more leads and close more deals with Altera, the AI sales assistant that generates hyper personalised comments, inmails and posts on LinkedIn. | :white_check_mark: |
 | [BaruaAI](http://baruaai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generate High Converting Sales Emails in Seconds. | Our platform transforms your key product details and objectives into persuasive prose, tailor-made to hook your audience and skyrocket conversion rates. | :white_check_mark: |
 | [Briefly](http://www.trybriefly.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Briefly - The AI Powered Briefing Platform. | Marketing briefs that get to the best creative work. Improve your marketing effectiveness and reduce the cost of badly written briefs. | :grey_question: |
@@ -1042,10 +1045,10 @@ Translations:
 | [Sumly](http://www.sumly.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-Generated Podcast Summaries - Sumly.Ai. | Don't let a busy schedule hold you back from learning from the best. AI-generated podcast summaries delivered straight to your inbox. Stay current on your favorite shows and discover new ones. | :white_check_mark: |
 | [Supertranslate](http://www.supertranslate.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Supertranslate - Add Subtitles to Videos Automatically. | Powered by OpenAI's Whisper, the world's most accurate speech-to-text engine!. | :grey_question: |
 | [Taption](http://www.taption.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Automatically Generate Transcript, Translation and Subtitles - Taption. | . | :grey_question: |
+| [TranscriptLOL](https://transcript.lol?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Transcribe Any Audio or Video From 1500+ Platforms. | Transcribe and Translate any Video or Podcast. Ask questions and get answers using only transcript as context  — no hallucinations! Get summary of the video or podcast and a list of all topics discussed. Works on videos without transcripts. Identifies speakers in the Transcript. The transcripts have much higher accuracy than YouTube or other auto generated captions!. | :white_check_mark: |
 | [TranslateVideo](http://www.translate.video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Translate.Video. | . | :grey_question: |
 | [VideoDub](https://videodub.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Translate and Voiceover Your Videos Effortlessly. | Videodub.io is an AI-powered platform that simplifies the process of adding professional-quality voice-overs to videos. It transcribes the speech, translates it, and adds a natural-sounding voice-over in the language of your choice. It is a necessary tool for content creators seeking to extend their reach globally with minimal effort and no manual work. | :white_check_mark: |
 | [Voicetapp](http://voicetapp.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voicetapp - Speech to Text Transcription. | Get accurate transcriptions for your AUDIO & VIDEO with the latest speech rocognition technology. | :grey_question: |
-| [TranscriptLOL](https://transcript.lol/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Transcribe any audio or video from 1500+ platforms. | Transcribe and Translate any Video or Podcast. Ask questions and get answers using only transcript as context  — no hallucinations! Get summary of the video or podcast and a list of all topics discussed. Works on videos without transcripts. Identifies speakers in the Transcript. The transcripts have much higher accuracy than YouTube or other auto generated captions! | :white_check_mark: |
 
 <!--End of Translation & Transcript 24-->
 
@@ -1120,6 +1123,7 @@ Translations:
 | [AI Lyrics Generator](http://theselyricsdonotexist.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Artificial Intelligence Songwriter – These Lyrics Do Not Exist. | Generate your own song lyrics for any topic, also choose lyrics genre and lyrics mood. | :grey_question: |
 | [AI-Writer](http://ai-writer.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Writer™ - The Best AI Text Generator, Promised. | AI-Writer is the most accurate content generation platform, using state-of-the-art AI writing models to generate articles from just a headline. | :grey_question: |
 | [AIKIt](http://getaikit.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aikit - Your Wordpress AI Assistant Using GPT-3. | . | :grey_question: |
+| [Afforai Ask](https://afforai.com/ask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Supercharge Writing Tasks With AI. | Business - Quick Email and Document Writer can help you create professional emails and documents. Employment - Make your hiring process easier with our AI-powered tool that generates job descriptions. Job seekers can create standout resumes and cover letters. Technical - Afforai helps you draft essay and reports given your main points quickly and easily. | :white_check_mark: |
 | [Bearly Ai](http://bearly.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Save Hundreds of Hours Reading and Writing With the World'S Best AI. | . | :white_check_mark: |
 | [BlogNLP](http://www.blognlp.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Blognlp. | An AI-based blog writing tool that can help you craft captivating content quickly and easily, eliminating writer's block and saving you time. | :grey_question: |
 | [Eilla](http://eilla.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Eilla AI - AI Content Generation Assistant. | . | :grey_question: |
@@ -1393,7 +1397,6 @@ Translations:
 | [bigmp4](http://bigmp4.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Video Enhancement, Using 2022 Cutting Edged AI Model to Lossless Enlarge Video, Enhance Video. | . | :grey_question: |
 | [deck.rocks](https://www.deck.rocks/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Deck.Rocks: Generate Pitch Decks Using GPT-3. | . | :grey_question: |
 | [micro Dalle-2](http://micropay.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dalle-2 Image Generator - Micropay. | Anonymous and pay-as-you-go generative AI software. | :grey_question: |
-| [Adaptify SEO Agent](https://adaptify.ai/seo?source=ai-collection) | Automated SEO Marketing  | Builds a profile of your busines your customers and your competitors on Google. Then generates a keyword strategy and long-form content that ranks well on Google | :white_check_mark: |
 
 <!--End of Other 0-->
 
