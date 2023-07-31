@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=896" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=908" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -51,12 +51,12 @@
 </div>
 
 <div align="center">
-    <a href="https://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+    <a href="https://ai-collection.org/redirect/customqr-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="500" src="https://ai-collection.b-cdn.net/CustomQR_promo.png" alt="CustomQR AI" border="0"/>
     </a>
     <h4>CustomQR AI - 商业二维码生成服务</h4>
     <p>10 分钟内即可在您的电子邮件中获取艺术精美的二维码。从可用的二维码类别中进行选择或请求您自己的二维码类别。通过独特的二维码艺术让您的企业脱颖而出！</p>
-    <a href="https://customqrai.com/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 CustomQR AI</b></a>
+    <a href="https://ai-collection.org/redirect/customqr-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 CustomQR AI</b></a>
     <br />
 </div>
 
@@ -88,13 +88,7 @@
 
 <p><a href="mailto: pavel@ai-collection.org">联系我们</a> 为您的精彩应用设置促销活动！</p>
 
----
 
-## 即将推出的 ProductHunt 🚀
-| 日期 | 姓名 | 产品搜索链接 |
-|---|---|---|
-| July 15 | [CustomQR AI](https://ai-collection.org/en/application/customqr-ai/) | https://www.producthunt.com/products/customqr-ai |
-<br />
 
 > **_注意：_** 集合的显示方式即将发生变化。 将仅展示几十个手工挑选的生成式 AI 应用程序。 完整的收藏将始终在 https://ai-collection.org/ 上提供
 <br />
@@ -158,6 +152,7 @@
 | [Excuses AI](http://excuses.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 借口生成器. | 使用人工智能生成完美的专业借口. | :grey_question: |
 | [Jokelub](http://jokelub.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 约克卢布. | 让幽默无处不在. | :grey_question: |
 | [Kanye Tweet Generator](http://www.kanyegenerator.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Kanye 推文一代. | 使用 AI 生成 Kanye 推文。由瑞安道尔建造。. | :grey_question: |
+| [Nudify.online](https://www.nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用我们的免费服务为任何人脱衣服。. | 只需选择年龄、体型、品质，几秒钟内即可得出结果. | :white_check_mark: |
 | [Oscar Stories](https://oscarstories.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创建个性化的睡前故事. | 创建以您的孩子为主角的个性化睡前故事. | :white_check_mark: |
 | [Philosophy](http://philosophy.fyi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 问哲学家. | 提出深刻的问题并从威廉·莎士比亚、弗里德里希·尼采、勒内·笛卡尔、苏格拉底、孔子、Al-Kindi、佛陀那里得到答案. | :white_check_mark: |
 | [Pit Stop ChatterGPT](https://apps.apple.com/us/app/pit-stop-chattergpt/id6449394370?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pit Stop ChatterGPT：与 F1 Legends 聊天，您的比赛日伴侣. | 有了这个应用程序，您可以在大赛前探索您最喜欢的车手的心态，询问他们的准备程序，或者只是进行友好的聊天。这就像与 Lewis Hamilton 或 Max Verstappen 等标志性 F1 车手进行私人对话。. | :x: |
@@ -222,9 +217,12 @@
 | [Fine](https://www.fine.dev?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 更快地构建更好的软件. | Fine 将您的任务转化为量身定制的规范，并使用 AI 代理为您实施它们。通过新的效率标准加速软件开发。通过根据详细规范生成代码来启动您的团队，最多可减少 80% 的编码时间。. | :white_check_mark: |
 | [Ghostwriter](http://replit.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Replit：基于协作浏览器的 IDE. | 在浏览器中实时运行代码。使用功能强大的 IDE、编译器和解释器 Replit，以 50 多种语言在线编写和运行代码。. | :grey_question: |
 | [GitHub Copilot](http://GitHub.com/features/copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您的 AI 结对程序员. | GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器实时建议代码和整个功能. | :grey_question: |
+| [Hiphops AI](https://www.hiphops.io/ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在您的开发工作流程中的任何地方注入人工智能. | Hiphops AI 可让您将生成式 AI 集成到开发工作流程中的任何位置，以便您可以完全自动化开发、测试、部署和发布流程。. | :white_check_mark: |
+| [Kyligence Copilot](https://kyligence.io/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过 AI Copilot for Data 提高您的 KPI. | 认识一下 Kyligence Copilot – 您的数据人工智能副驾驶。只需聊天、询问和发现即可。我们的人工智能驱动的聊天机器人了解您的业务指标，使您能够评估您的 KPI、提供建议、以自然语言创建数据产品，而无需技术专业知识。. | :white_check_mark: |
 | [Mutable.ai](http://mutable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 可变人工智能。人工智能加速软件开发。. | 使用 AI 以生产质量快速构建。. | :grey_question: |
 | [Programminghelper](http://www.programming-helper.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 家. | 只需键入文本描述即可使用 AI 生成代码。 AI 将为您创建代码。一款可帮助您完成各种任务的工具。都在一个地方。. | :grey_question: |
 | [QueryGenie](http://sqlgenie-co.web.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 更快地编写数据库查询！. | 使用 AI 从纯英文描述生成数据库查询。. | :grey_question: |
+| [Rome AI](https://www.romehq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 以对话方式查询您的数据. | Rome AI 连接您的数据源、分析并允许与您自己的数据进行对话式讨论！ Rome 是一个人工智能驱动的无代码数据支持和分析层，使非技术员工能够成为超人的数据分析师。. | :white_check_mark: |
 | [TLDR - Jetbrains IDE Plugin](http://tldrdev.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TLDR——用简单的英语解释代码. | TLDR 是一个 IDE 插件，它利用 AI 以简单的英语解释代码。. | :grey_question: |
 | [Tabnine](http://www.tabnine.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 面向软件开发人员的 AI 助手 - Tabnine. | 无论您是团队的一员，还是独立工作的开发人员，Tabnine 都会帮助您更快地编写代码——一切都在您最喜欢的 IDE 中进行。. | :grey_question: |
 | [Text2SQL](http://www.text2sql.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Text2SQL.AI - 使用 AI 免费生成 SQL 查询！. | . | :white_check_mark: |
@@ -294,7 +292,7 @@
 | [Quattr](https://www.quattr.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Quattr 是您的增长总部. | 以强大的AI和GSC数据为基础打造的企业SEO平台. | :x: |
 | [Summari](http://www.summari.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 改善您网站上的阅读体验. | 使用我们世界一流的 AI 摘要技术将链接升级为简短、信息丰富的预览。. | :grey_question: |
 | [TLDR This](http://tldrthis.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TLDR This - 文章摘要和在线文本摘要工具. | 这有助于您将任何一段文本概括为简洁、易于理解的内容，从而使您从信息过载中解脱出来。. | :white_check_mark: |
-| [Taskade](http://www.taskade.com/?via=beth0) | Taskade - Ai Outliner & Mind Map - 团队的 Ai 大纲和思维导图。. | Taskade 是首个面向团队的协作式 AI 编写器和概述器，具有内置任务管理和视频聊天功能。创建思维导图、任务列表，并与您的团队实时进行结构化笔记。. | :white_check_mark: |
+| [Taskade](http://www.taskade.com/?via=beth0) | 您和您的团队的第二大脑。五合一的人工智能工具可提高您的团队生产力。借助 Taskade，您的所有工作都可以在一个统一的工作空间中同步。. | Taskade 是首个面向团队的协作式 AI 编写器和概述器，具有内置任务管理和视频聊天功能。创建思维导图、任务列表，并与您的团队实时进行结构化笔记。. | :white_check_mark: |
 | [TweetStorm.ai](https://www.tweetstorm.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 驱动的推文生成器。. | 使用 AI GPT4 生成推文、Bios、标签和用户名. | :white_check_mark: |
 | [TypeDroid](http://typedroid.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TypeDroid - 免费的 AI 文本生成器. | . | :white_check_mark: |
 | [Typli](http://typli.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Typli.Ai - AI 写手 & SEO 写作助手. | 最直观的人工智能内容工具，结合了人工智能写作和搜索引擎优化助手。. | :white_check_mark: |
@@ -303,9 +301,11 @@
 | [WordHero](http://wordhero.co?via=beth0) | 生成 AI 支持的内容 - 一键点击。. | 借助 WordHero 的 AI 技术，您可以在几秒钟内创建原创博客文章、社交媒体内容、电子邮件等。. | :x: |
 | [Wordkraft](http://wordkraft.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 即时创建高质量内容. | Wordkraft AI 内容编写器是一款革命性的工具，由最先进的人工智能技术 GPT-3 提供支持，可以为您的博客、网站或营销需求生成编写良好、关键字优化的内容。. | :white_check_mark: |
 | [Wordplay](http://wordplay.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在几秒钟内创建长篇内容。. | 为 SEO 和内容发布者打造的排名第一的 AI 内容生成器。. | :white_check_mark: |
+| [Writery AI](https://www.aiwritery.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的写作平台极大地改变了创建书面内容的方式。从主题或关键字撰写文章。. | 我们的免费 AI 写作生成器已针对最佳 SEO 实践进行了优化，可以根据主题或关键字为博客文章/文章生成高质量的原创内容。我们提供一系列选项来满足您的博客内容需求，包括四种任务类型（博客大纲、博客介绍、博客标题和博客创意），以及超过 14 种不同的语气和 23 种语言可供选择。. | :white_check_mark: |
 | [Writesonic](https://writesonic.com?via=beth0) | Writesonic - 最佳 AI 作家、文案写作和释义工具. | 以 10 倍的速度为您的博客、广告、电子邮件和网站创建 SEO 优化且无抄袭的内容。. | :white_check_mark: |
 | [Writey AI](http://writey.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 是的——一个人工智能可以在几分钟内写出原创的、经过研究的博客文章. | 第一个真正的免费抄袭 A.I 具有原创和研究内容，检查 Writey A.I 在行动。. | :white_check_mark: |
 | [aitxt](https://aitxt.ru/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 俄语在线文本生成器. | 我们的服务使用人工智能生成关于任何主题的长达 1 分钟的可理解文本. | :white_check_mark: |
+| [beehiiv AI](https://www.beehiiv.com/create/ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 专为时事通讯运营商打造的人工智能。. | AI 写作助手 - 描述您想要写的内容的想法，选择语气和长度。 AI 文本工具 - 选择现有文本进行自动更正、自动完成或完全重新生成。 AI 图像工具 - 只需您的想象力即可生成美丽的图像。描述图像并将其变为现实。 AI 翻译 - 将您的内容无缝翻译成多种语言。. | :white_check_mark: |
 | [unbound](https://www.unboundcontent.ai/?affiliate=aff_z0krz31) | 为您的小型企业自动创建内容. | 在一个地方利用所有最好的 AI 生成工具，旨在为小型企业、在线商店和创作者自动创建内容。. | :white_check_mark: |
 | [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 立即将您的 YouTube 内容转换为引人入胜的博客文章。. | 提升您的 SEO 和品牌影响力。. | :white_check_mark: |
 
@@ -320,6 +320,7 @@
 | [AI Lyrics Generator](http://theselyricsdonotexist.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能词曲作者——这些歌词不存在. | 为任何主题生成您自己的歌曲歌词，还可以选择歌词流派和歌词心情. | :grey_question: |
 | [AI-Writer](http://ai-writer.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Writer™ - 承诺的最佳 AI 文本生成器。. | AI-Writer 是最准确的内容生成平台，使用最先进的 AI 写作模型仅从标题生成文章。. | :grey_question: |
 | [AIKIt](http://getaikit.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AIKit - 使用 GPT-3 的 Wordpress AI 助手. | . | :grey_question: |
+| [Afforai Ask](https://afforai.com/ask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 利用人工智能增强写作任务. | 商业 - 快速电子邮件和文档编写器可以帮助您创建专业的电子邮件和文档。就业 - 使用我们的人工智能工具生成职位描述，让您的招聘流程变得更加轻松。求职者可以创建出色的简历和求职信。技术 - Afforai 可以帮助您快速、轻松地根据您的要点起草论文和报告。. | :white_check_mark: |
 | [Bearly Ai](http://bearly.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用世界上最好的 AI 节省数百小时的阅读和写作时间. | . | :white_check_mark: |
 | [BlogNLP](http://www.blognlp.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 博客NLP. | 基于 AI 的博客写作工具，可以帮助您快速轻松地制作引人入胜的内容，消除写作障碍并节省您的时间. | :grey_question: |
 | [Eilla](http://eilla.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Eilla AI - 人工智能内容生成助手. | . | :grey_question: |
@@ -765,6 +766,7 @@
 ## 研究助理
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
+| [Afforai Build](https://afforai.com/build?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您的人工智能阅读副驾驶。文本分析、研究和文档搜索的必备工具. | 起草报告 文件太多无法阅读？ Afforai 将为您分析和起草一份完整的报告，并回答有关文件的任何问题。电子表格查询 - 使用 Afforai 使用自然语言查询从报告和电子表格中提取重要信息。网页抓取 - Afforai 可以抓取多个网站并提取关键信息。. | :white_check_mark: |
 | [Elicit](http://elicit.org?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 引出：人工智能研究助理. | Elicit 使用机器学习来帮助您进行研究：查找论文、提取关键声明、总结、集思广益等等。. | :grey_question: |
 | [Explainpaper](http://www.explainpaper.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 阅读研究论文的最快方式. | 上传一篇论文，突出令人困惑的文本，获得解释。我们使研究论文易于阅读。. | :white_check_mark: |
 | [RTutor](http://rtutor.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用数十种人类语言与您的数据聊天。. | RTutor利用OpenAI强大的大语言模型将自然语言翻译成R代码，然后执行。您可以请求您的分析，就像询问真人一样。上传数据文件（CSV、TSV/制表符分隔的文本文件和 Excel），然后用简单的英语对其进行分析。您的结果可以在几分钟内下载为 HTML 报告！. | :white_check_mark: |
@@ -828,6 +830,7 @@
 ## 组织与自动化
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
+| [Adaptify SEO Agent](https://adaptify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 自动化搜索引擎优化营销. | 在 Google 上建立您的企业、客户和竞争对手的资料。然后生成在 Google 上排名良好的关键字策略和长篇内容. | :white_check_mark: |
 | [BuildAI](https://www.buildai.space/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在几分钟内构建 AI 界面. | 输入基于用户文本输入输出文本的应用程序的描述，我们将为您打造！. | :grey_question: |
 | [Hexowatch](http://hexact.pxf.io/beth0) | 除了可用性和价格之外，第 3 方网站作为数据源、可视化网站监控、竞争对手跟踪。. | Hexowatch 是您的 AI 助手，可以监控任何网站的视觉、内容、源代码、技术、可用性或价格变化。. | :x: |
 | [KUBIYA](http://kubiya.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Devops 虚拟助理. | 通过对话式 AI 为开发人员提供安全、自助式的操作工作流程、云资源和组织知识访问. | :grey_question: |
@@ -836,6 +839,7 @@
 | [Nekton.ai](https://nekton.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 自动化您的工作流程. | 无需编写代码或维护基础架构，即可为您和您的团队自动化日常流程。. | :white_check_mark: |
 | [Product Launch AI](https://shapenship.com/productlaunchai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 释放 AI 的力量来加速您的产品发布. | 无需担心发布文案就可以进行出色的发布！. | :grey_question: |
 | [Prompt.Cafe](http://www.prompt.cafe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Prompt.Cafe - 人工智能提示入门包. | AI Prompt Generator‍ - 启发、创造、组织。使用 AI 提示激发灵感，使用提示生成器创建新提示，使用概念模板组织您自己的提示. | :white_check_mark: |
+| [Spoke](https://www.spoke.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Spoke 通过强大的 AI 消除工作场所的噪音，可对各种工具进行优先级排序和总结 ⚡️. | 消除噪音。 Spoke 是未来团队的操作系统。对您的工具进行聚合、优先排序和总结，以创建工作环境。所有频道和话题的即时上下文 - 私密且安全的 AI 可以总结任何对话或主题，因此您永远不会错过重要更新 - 免费使用，直接在 Slack 中使用。. | :white_check_mark: |
 | [bardeen](https://www.bardeen.ai/ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能遇见自动化. | 即将于 2023 年推出 – Bardeen 将引入突破性的 AI 来自动化手动工作流程，节省您的时间并激发您的创造力。. | :grey_question: |
 | [guidde](https://www.guidde.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 神奇地创建令人惊叹的培训材料、功能说明、SOP、入职指南、操作指南、AI 常见问题解答。. | guidde 是用于业务的生成式 AI 平台，可帮助您的团队将创建视频文档的速度提高 11 倍。. | :white_check_mark: |
 | [mem](https://get.mem.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 自组织工作空间. | Mem 是世界上第一个由人工智能驱动的个性化工作空间。放大您的创造力，使平凡的事情自动化，并自动保持井井有条。. | :white_check_mark: |
@@ -878,6 +882,7 @@
 | [Sumly](http://www.sumly.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能生成的播客摘要 - Sumly.AI. | 不要让繁忙的日程阻碍你向最好的人学习。 AI 生成的播客摘要直接发送到您的收件箱。关注您最喜爱的节目并发现新节目。. | :white_check_mark: |
 | [Supertranslate](http://www.supertranslate.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | supertranslate - 自动为视频添加字幕. | 由 OpenAI 的 Whisper 提供支持，这是世界上最准确的语音到文本引擎！. | :grey_question: |
 | [Taption](http://www.taption.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 自动生成文字记录、翻译和字幕 - Taption. | . | :grey_question: |
+| [TranscriptLOL](https://transcript.lol?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 转录来自 1500 多个平台的任何音频或视频。. | 转录和翻译任何视频或播客。仅使用文字记录作为上下文提出问题并获得答案 - 没有幻觉！获取视频或播客的摘要以及讨论的所有主题的列表。适用于没有文字记录的视频。识别记录中的发言者。文字记录的准确性比 YouTube 或其他自动生成的字幕高得多！. | :white_check_mark: |
 | [TranslateVideo](http://www.translate.video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 翻译.视频. | . | :grey_question: |
 | [VideoDub](https://videodub.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 毫不费力地翻译和配音您的视频. | Videodub.io 是一个由人工智能驱动的平台，可简化为视频添加专业品质画外音的过程。它转录语音、翻译语音，并以您选择的语言添加听起来自然的画外音。对于寻求以最少的努力和无需手动操作在全球范围内扩展其影响力的内容创建者来说，这是一个必要的工具。. | :white_check_mark: |
 | [Voicetapp](http://voicetapp.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voicetapp - 语音到文本转录. | 使用最新的语音识别技术准确转录您的音频和视频。. | :grey_question: |
@@ -1091,6 +1096,7 @@
 ## 销售与市场营销
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
+| [AdInsights](https://adinsights.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用人工智能从数字广告活动数据生成智能行动项目. | 输入分析的主要目标，为每个平台上传 1+ 个数字广告活动数据，接收要执行的智能可操作项目. | :white_check_mark: |
 | [Altera AI](http://www.altera.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在 LinkedIn 上销售的更好方式. | 通过 Altera 获得更多潜在客户并完成更多交易，Altera 是 AI 销售助理，可在 LinkedIn 上生成高度个性化的评论、电子邮件和帖子。. | :white_check_mark: |
 | [BaruaAI](http://baruaai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在几秒钟内生成高转化率的销售电子邮件. | 我们的平台将您的关键产品细节和目标转化为有说服力的散文，量身定制以吸引您的观众和飙升的转化率。. | :white_check_mark: |
 | [Briefly](http://www.trybriefly.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Briefly - 人工智能驱动的简报平台. | 获得最佳创意作品的营销简报。提高您的营销效率并减少写得不好的简报的成本。. | :grey_question: |
