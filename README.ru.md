@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=908" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=909" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=42" />
@@ -49,6 +49,19 @@
     <h5>Лучшие подборки</h5>
     <p>Лучшие выборы AI Collection:</p>
 </div>
+
+<div align="center">
+    <a href="https://ai-collection.org/redirect/swimm-ai/?utm_source=aicollection&utm_medium=free-pub&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="500" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1919.webp" alt="Swimm AI" border="0"/>
+    </a>
+    <h4>Ваша сверхмощная документация по коду</h4>
+    <p>Создавайте структуры документации, генерируйте пояснения к коду и улучшайте видимость документов с помощью Swimm AI.</p>
+    <a href="https://ai-collection.org/redirect/swimm-ai/?utm_source=aicollection&utm_medium=free-pub&utm_campaign=toppicks" target="_blank"><b>Начать работу с Swimm AI</b></a>
+    <br />
+</div>
+
+<br>
+
 
 <div align="center">
     <a href="https://ai-collection.org/redirect/customqr-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -230,7 +243,7 @@
 | [Magician](http://magician.design?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Фокусник для Фигмы. | Волшебный инструмент дизайна для Figma на базе искусственного интеллекта. | :grey_question: |
 | [Piggy](https://piggy.to/magic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Создатель мобильного контента. | Создавать потрясающий контент на телефоне стало проще простого. | :white_check_mark: |
 | [Stunning.so](https://stunning.so/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Создавайте сайты с помощью ИИ. | Создавайте потрясающие веб-сайты за 30 секунд, включая копирование и даже изображения с помощью ИИ. | :white_check_mark: |
-| [Uizard](https://get.uizard.io/SH7) | Uizard — дизайн приложений, веб-сайтов и пользовательского интерфейса стал проще — на основе искусственного интеллекта. | Создавайте потрясающие веб-сайты, веб-приложения, мобильные приложения, интерфейсы, каркасы, прототипы, макеты за считанные минуты. Визуализируйте и сообщайте свои идеи без особых усилий. Опыт проектирования не требуется!. | :white_check_mark: |
+| [Uizard](https://uizard.io/) | Uizard — дизайн приложений, веб-сайтов и пользовательского интерфейса стал проще — на основе искусственного интеллекта. | Создавайте потрясающие веб-сайты, веб-приложения, мобильные приложения, интерфейсы, каркасы, прототипы, макеты за считанные минуты. Визуализируйте и сообщайте свои идеи без особых усилий. Опыт проектирования не требуется!. | :white_check_mark: |
 | [welovenocode](http://www.welovenocode.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Наймите лучших специалистов без кода и с низким кодом, чтобы быстро и недорого создать свой веб-сайт. | Работайте с надежными, проверенными экспертами, создавшими многомиллионные продукты. | :x: |
 
 <!--End of Веб-дизайн 39-->
@@ -757,6 +770,7 @@
 | [Programminghelper](http://www.programming-helper.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Дом. | Генерируйте код с помощью ИИ, просто набрав текстовое описание. ИИ создаст код для вас. Инструмент, который поможет вам с широким спектром задач. Все в одном месте. | :grey_question: |
 | [QueryGenie](http://sqlgenie-co.web.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Пишите запросы к БД быстрее!. | Создавайте запросы к базе данных из простого описания на английском языке с помощью ИИ. | :grey_question: |
 | [Rome AI](https://www.romehq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Запросите свои данные в диалоговом режиме. | Rome AI подключается к вашему источнику данных, анализирует и позволяет вести диалог с вашими собственными данными! Rome — это уровень поддержки данных и аналитики без кода на базе искусственного интеллекта, позволяющий нетехническим сотрудникам стать сверхчеловеческими аналитиками данных. | :white_check_mark: |
+| [Swimm AI](https://swimm.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ваша сверхмощная документация по коду. | Создавайте структуры документации, генерируйте пояснения к коду и улучшайте видимость документов с помощью Swimm AI. | :white_check_mark: |
 | [TLDR - Jetbrains IDE Plugin](http://tldrdev.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TLDR — объясните код простым английским языком. | TLDR — это подключаемый модуль IDE, который использует искусственный интеллект для объяснения кода простым английским языком. | :grey_question: |
 | [Tabnine](http://www.tabnine.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Assistant для разработчиков программного обеспечения - Tabnine. | Являетесь ли вы частью команды или разработчиком, работающим самостоятельно, Tabnine поможет вам писать код быстрее — и все это в вашей любимой среде IDE. | :grey_question: |
 | [Text2SQL](http://www.text2sql.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Text2SQL.AI — генерируйте SQL-запросы с помощью ИИ бесплатно!. | . | :white_check_mark: |

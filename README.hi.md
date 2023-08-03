@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=908" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=909" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=42" />
@@ -49,6 +49,19 @@
     <h5>ऊपर उठाता है</h5>
     <p>एआई संग्रह के शीर्ष चयन हैं</p>
 </div>
+
+<div align="center">
+    <a href="https://ai-collection.org/redirect/swimm-ai/?utm_source=aicollection&utm_medium=free-pub&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="500" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1919.webp" alt="Swimm AI" border="0"/>
+    </a>
+    <h4>आपका कोड दस्तावेज़ीकरण महाशक्ति</h4>
+    <p>डॉक्यूमेंटेशन संरचनाएँ बनाएँ, कोड स्पष्टीकरण उत्पन्न करें और स्विम एआई के साथ दस्तावेज़ दृश्यता बढ़ाएँ</p>
+    <a href="https://ai-collection.org/redirect/swimm-ai/?utm_source=aicollection&utm_medium=free-pub&utm_campaign=toppicks" target="_blank"><b>Swimm AI के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
 
 <div align="center">
     <a href="https://ai-collection.org/redirect/customqr-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -514,6 +527,7 @@
 | [Programminghelper](http://www.programming-helper.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | घर. | सिर्फ टेक्स्ट विवरण टाइप करके एआई के साथ कोड जनरेट करें। AI आपके लिए कोड बनाएगा। एक उपकरण जो आपको कई प्रकार के कार्यों में मदद करता है। सभी एक ही स्थान पर।. | :grey_question: |
 | [QueryGenie](http://sqlgenie-co.web.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डीबी प्रश्न तेजी से लिखें!. | एआई का उपयोग करके सादे-अंग्रेजी विवरण से डेटाबेस प्रश्न उत्पन्न करें।. | :grey_question: |
 | [Rome AI](https://www.romehq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने डेटा को संवादी तरीके से क्वेरी करें. | रोम एआई आपके डेटा स्रोत से जुड़ता है, विश्लेषण करता है और आपके अपने डेटा के साथ संवादात्मक चर्चा की अनुमति देता है! रोम एक एआई संचालित नो-कोड डेटा सक्षमता और विश्लेषण परत है, जो गैर-तकनीकी कर्मचारियों को अलौकिक डेटा विश्लेषक बनने के लिए सशक्त बनाता है।. | :white_check_mark: |
+| [Swimm AI](https://swimm.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपका कोड दस्तावेज़ीकरण महाशक्ति. | डॉक्यूमेंटेशन संरचनाएँ बनाएँ, कोड स्पष्टीकरण उत्पन्न करें और स्विम एआई के साथ दस्तावेज़ दृश्यता बढ़ाएँ. | :white_check_mark: |
 | [TLDR - Jetbrains IDE Plugin](http://tldrdev.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टीएलडीआर - सादे अंग्रेजी में कोड समझाएं. | टीएलडीआर एक आईडीई प्लगइन है जो सादे अंग्रेजी में कोड की व्याख्या करने के लिए एआई का लाभ उठाता है।. | :grey_question: |
 | [Tabnine](http://www.tabnine.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सॉफ्टवेयर डेवलपर्स के लिए एआई सहायक - Tabnine. | चाहे आप एक टीम का हिस्सा हों, या अपने दम पर काम करने वाले डेवलपर हों, Tabnine आपको तेजी से कोड लिखने में मदद करेगा - सब कुछ आपकी पसंदीदा IDE में।. | :grey_question: |
 | [Text2SQL](http://www.text2sql.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Text2Sql.Ai - AI के साथ मुफ्त में SQL क्वेरी जेनरेट करें!. | . | :white_check_mark: |
@@ -954,7 +968,7 @@
 | [Magician](http://magician.design?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Figma के लिए जादूगर. | AI द्वारा संचालित Figma के लिए एक जादुई डिज़ाइन टूल।. | :grey_question: |
 | [Piggy](https://piggy.to/magic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मोबाइल सामग्री निर्माता।. | अपने फोन पर शानदार सामग्री बनाना अब आसान हो गया है. | :white_check_mark: |
 | [Stunning.so](https://stunning.so/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ वेबसाइट बनाएं।. | एआई द्वारा संचालित कॉपी और यहां तक कि छवियों सहित 30 सेकंड में शानदार वेबसाइट बनाएं. | :white_check_mark: |
-| [Uizard](https://get.uizard.io/SH7) | यूज़ार्ड - ऐप, वेब, और यूआई डिज़ाइन मेड ईज़ी - एआई द्वारा संचालित. | मिनटों में शानदार वेबसाइट, वेब ऐप, मोबाइल ऐप, इंटरफेस, वायरफ्रेम, प्रोटोटाइप, मॉकअप डिज़ाइन करें। अपने विचारों को सहजता से देखें और संप्रेषित करें। कोई डिज़ाइन अनुभव आवश्यक नहीं है!. | :white_check_mark: |
+| [Uizard](https://uizard.io/) | यूज़ार्ड - ऐप, वेब, और यूआई डिज़ाइन मेड ईज़ी - एआई द्वारा संचालित. | मिनटों में शानदार वेबसाइट, वेब ऐप, मोबाइल ऐप, इंटरफेस, वायरफ्रेम, प्रोटोटाइप, मॉकअप डिज़ाइन करें। अपने विचारों को सहजता से देखें और संप्रेषित करें। कोई डिज़ाइन अनुभव आवश्यक नहीं है!. | :white_check_mark: |
 | [welovenocode](http://www.welovenocode.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी वेबसाइट को तेज़ और किफ़ायती तरीके से बनाने के लिए टॉप नो-कोड और लो-कोड टैलेंट को हायर करें. | भरोसेमंद, जांचे-परखे विशेषज्ञों के साथ काम करें, जिन्होंने करोड़ों डॉलर के उत्पाद बनाए हैं. | :x: |
 
 <!--End of वेब डिजाइन 39-->

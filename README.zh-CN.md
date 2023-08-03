@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=908" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=909" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -49,6 +49,19 @@
     <h5>热门精选</h5>
     <p>AI Collection 的首选是</p>
 </div>
+
+<div align="center">
+    <a href="https://ai-collection.org/redirect/swimm-ai/?utm_source=aicollection&utm_medium=free-pub&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="500" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1919.webp" alt="Swimm AI" border="0"/>
+    </a>
+    <h4>你的代码文档超能力</h4>
+    <p>使用 Swimm AI 创建文档结构、生成代码解释并增强文档可见性</p>
+    <a href="https://ai-collection.org/redirect/swimm-ai/?utm_source=aicollection&utm_medium=free-pub&utm_campaign=toppicks" target="_blank"><b>开始使用 Swimm AI</b></a>
+    <br />
+</div>
+
+<br>
+
 
 <div align="center">
     <a href="https://ai-collection.org/redirect/customqr-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -223,6 +236,7 @@
 | [Programminghelper](http://www.programming-helper.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 家. | 只需键入文本描述即可使用 AI 生成代码。 AI 将为您创建代码。一款可帮助您完成各种任务的工具。都在一个地方。. | :grey_question: |
 | [QueryGenie](http://sqlgenie-co.web.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 更快地编写数据库查询！. | 使用 AI 从纯英文描述生成数据库查询。. | :grey_question: |
 | [Rome AI](https://www.romehq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 以对话方式查询您的数据. | Rome AI 连接您的数据源、分析并允许与您自己的数据进行对话式讨论！ Rome 是一个人工智能驱动的无代码数据支持和分析层，使非技术员工能够成为超人的数据分析师。. | :white_check_mark: |
+| [Swimm AI](https://swimm.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 你的代码文档超能力. | 使用 Swimm AI 创建文档结构、生成代码解释并增强文档可见性. | :white_check_mark: |
 | [TLDR - Jetbrains IDE Plugin](http://tldrdev.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TLDR——用简单的英语解释代码. | TLDR 是一个 IDE 插件，它利用 AI 以简单的英语解释代码。. | :grey_question: |
 | [Tabnine](http://www.tabnine.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 面向软件开发人员的 AI 助手 - Tabnine. | 无论您是团队的一员，还是独立工作的开发人员，Tabnine 都会帮助您更快地编写代码——一切都在您最喜欢的 IDE 中进行。. | :grey_question: |
 | [Text2SQL](http://www.text2sql.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Text2SQL.AI - 使用 AI 免费生成 SQL 查询！. | . | :white_check_mark: |
@@ -858,7 +872,7 @@
 | [Magician](http://magician.design?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Figma 魔术师. | 由 AI 提供支持的 Figma 神奇设计工具。. | :grey_question: |
 | [Piggy](https://piggy.to/magic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 移动内容创作者。. | 在您的手机上创建令人惊叹的内容变得简单. | :white_check_mark: |
 | [Stunning.so](https://stunning.so/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 构建网站。. | 在 30 秒内构建令人惊叹的网站，包括由 AI 提供支持的副本甚至图像. | :white_check_mark: |
-| [Uizard](https://get.uizard.io/SH7) | Uizard - 应用程序、Web 和 UI 设计变得简单 - 由 AI 提供支持. | 在几分钟内设计出令人惊叹的网站、网络应用程序、移动应用程序、界面、线框、原型、模型。 毫不费力地可视化和传达您的想法。 无需设计经验！. | :white_check_mark: |
+| [Uizard](https://uizard.io/) | Uizard - 应用程序、Web 和 UI 设计变得简单 - 由 AI 提供支持. | 在几分钟内设计出令人惊叹的网站、网络应用程序、移动应用程序、界面、线框、原型、模型。 毫不费力地可视化和传达您的想法。 无需设计经验！. | :white_check_mark: |
 | [welovenocode](http://www.welovenocode.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 聘请顶尖的无代码和低代码人才，以快速且经济实惠的方式构建您的网站. | 与构建价值数百万美元产品的可靠、经过审查的专家合作. | :x: |
 
 <!--End of 网页设计 39-->
