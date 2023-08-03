@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=908" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=909" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=42" />
@@ -49,6 +49,19 @@
     <h5>Mejores opciones</h5>
     <p>Las mejores opciones de AI Collection son</p>
 </div>
+
+<div align="center">
+    <a href="https://ai-collection.org/redirect/swimm-ai/?utm_source=aicollection&utm_medium=free-pub&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="500" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1919.webp" alt="Swimm AI" border="0"/>
+    </a>
+    <h4>Tu Código Documentación Superpotencia</h4>
+    <p>Cree estructuras de documentación, genere explicaciones de código y mejore la visibilidad de los documentos con Swimm AI</p>
+    <a href="https://ai-collection.org/redirect/swimm-ai/?utm_source=aicollection&utm_medium=free-pub&utm_campaign=toppicks" target="_blank"><b>Comience con Swimm AI</b></a>
+    <br />
+</div>
+
+<br>
+
 
 <div align="center">
     <a href="https://ai-collection.org/redirect/customqr-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -254,6 +267,7 @@
 | [Programminghelper](http://www.programming-helper.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hogar. | Genere código con IA simplemente escribiendo una descripción de texto. AI creará el código por ti. Una herramienta que le ayuda con una amplia gama de tareas. Todo en un lugar. | :grey_question: |
 | [QueryGenie](http://sqlgenie-co.web.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ¡Escriba consultas de base de datos más rápido!. | Genere consultas de base de datos a partir de una descripción en inglés simple utilizando IA. | :grey_question: |
 | [Rome AI](https://www.romehq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Consulta tus datos de forma conversacional. | ¡Rome AI se conecta con su fuente de datos, analiza y permite discusiones conversacionales con sus propios datos! Rome es una capa de análisis y habilitación de datos sin código impulsada por IA, que permite a los empleados no técnicos convertirse en analistas de datos sobrehumanos. | :white_check_mark: |
+| [Swimm AI](https://swimm.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tu Código Documentación Superpotencia. | Cree estructuras de documentación, genere explicaciones de código y mejore la visibilidad de los documentos con Swimm AI. | :white_check_mark: |
 | [TLDR - Jetbrains IDE Plugin](http://tldrdev.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TLDR: explicación del código en lenguaje sencillo. | TLDR es un complemento IDE que aprovecha la IA para explicar el código en un lenguaje sencillo. | :grey_question: |
 | [Tabnine](http://www.tabnine.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Asistente de IA para desarrolladores de software - Tabnine. | Tanto si forma parte de un equipo como si es un desarrollador que trabaja por su cuenta, Tabnine le ayudará a escribir código más rápido, todo en su IDE favorito. | :grey_question: |
 | [Text2SQL](http://www.text2sql.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Text2Sql.Ai - ¡Genera consultas SQL con IA gratis!. | . | :white_check_mark: |
@@ -389,7 +403,7 @@
 | [Magician](http://magician.design?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Mago para Figma. | Una herramienta de diseño mágica para Figma impulsada por IA. | :grey_question: |
 | [Piggy](https://piggy.to/magic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Creador de contenido móvil. | Crear contenido asombroso en tu teléfono ahora es fácil. | :white_check_mark: |
 | [Stunning.so](https://stunning.so/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cree sitios web con IA. | Cree sitios web impresionantes en 30 segundos, incluida la copia e incluso las imágenes con tecnología de IA. | :white_check_mark: |
-| [Uizard](https://get.uizard.io/SH7) | Uizard - Diseño de aplicación, web y interfaz de usuario simplificado - Desarrollado por IA. | Diseñe impresionantes sitios web, aplicaciones web, aplicaciones móviles, interfaces, wireframes, prototipos, maquetas en minutos. Visualiza y comunica tus ideas sin esfuerzo. ¡No se requiere experiencia en diseño!. | :white_check_mark: |
+| [Uizard](https://uizard.io/) | Uizard - Diseño de aplicación, web y interfaz de usuario simplificado - Desarrollado por IA. | Diseñe impresionantes sitios web, aplicaciones web, aplicaciones móviles, interfaces, wireframes, prototipos, maquetas en minutos. Visualiza y comunica tus ideas sin esfuerzo. ¡No se requiere experiencia en diseño!. | :white_check_mark: |
 | [welovenocode](http://www.welovenocode.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Contrate a los mejores talentos sin código y de código bajo para construir su sitio web de forma rápida y asequible. | Trabaje con expertos confiables y examinados que crearon productos multimillonarios. | :x: |
 
 <!--End of Diseño web 39-->
