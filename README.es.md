@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=909" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=914" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=42" />
@@ -51,25 +51,12 @@
 </div>
 
 <div align="center">
-    <a href="https://ai-collection.org/redirect/swimm-ai/?utm_source=aicollection&utm_medium=free-pub&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="500" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1919.webp" alt="Swimm AI" border="0"/>
+    <a href="https://ai-collection.org/redirect/phrasion/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="500" src="https://ai-collection.b-cdn.net/screenshots/screenshot-phrasion.webp" alt="phrasion" border="0"/>
     </a>
-    <h4>Tu Código Documentación Superpotencia</h4>
-    <p>Cree estructuras de documentación, genere explicaciones de código y mejore la visibilidad de los documentos con Swimm AI</p>
-    <a href="https://ai-collection.org/redirect/swimm-ai/?utm_source=aicollection&utm_medium=free-pub&utm_campaign=toppicks" target="_blank"><b>Comience con Swimm AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://ai-collection.org/redirect/customqr-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="500" src="https://ai-collection.b-cdn.net/CustomQR_promo.png" alt="CustomQR AI" border="0"/>
-    </a>
-    <h4>CustomQR AI - Servicio de generación de códigos QR para empresas</h4>
-    <p>Obtenga hermosos códigos QR artísticos en su correo electrónico en menos de 10 minutos. Elija entre las categorías de códigos QR disponibles o solicite la suya propia. ¡Haz que tu negocio se destaque con artes QR únicos!</p>
-    <a href="https://ai-collection.org/redirect/customqr-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con CustomQR AI</b></a>
+    <h4>Writer Blog publica 2 veces más rápido, ¡con la misma calidad que hoy!</h4>
+    <p>Después de haber probado muchas (¿todas?) herramientas de IA de redacción para escribir blogs, descubrimos que la mayoría crearía publicaciones de blogs demasiado cortas (<1k palabras). Además, las publicaciones eran simples y no lo suficientemente buenas para atraer a los lectores y clasificarse bien en los motores de búsqueda. Por lo tanto, nos propusimos crear un enfoque híbrido humano-IA para empoderar a los escritores de contenido en lugar de reemplazarlos.</p>
+    <a href="https://ai-collection.org/redirect/phrasion/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Phrasion</b></a>
     <br />
 </div>
 
@@ -397,6 +384,7 @@
 ## Diseño Web
 | Nombre | Título | Descripción | Ofrecer versión gratuita |
 |---|---|---|:---:|
+| [B12 AI Website Builder](https://www.b12.io/ai-website-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cree su sitio web en 60 segundos con el creador de sitios web de IA más fácil. | Nuestro creador de sitios web impulsado por IA genera instantáneamente su presencia en línea lista para el cliente, con herramientas, contenido e imágenes específicamente para su industria. | :white_check_mark: |
 | [Designs AI](http://designs.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cree logotipos, videos, pancartas, voces en off con IA. | ¡Crea cualquier cosa en línea en 2 minutos! Cree un logotipo, un video, un banner para redes sociales, una tarjeta de presentación, un volante, una maqueta y más con IA. | :white_check_mark: |
 | [Durable](http://durable.co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Duradero: Creador de sitios web con IA y Software empresarial de servicios. | Cree un sitio web en 30 segundos con AI: el creador de sitios web de AI que genera un sitio web completo con imágenes y copias en segundos. | :x: |
 | [Genius by Diagram](https://www.genius.design/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Genius: su compañero de diseño de IA. | Apúntate a la lista de espera de Genius by Diagram. | :grey_question: |
@@ -524,6 +512,7 @@
 | [LongShot AI](http://www.longshot.ai?deal=beth0) | Cree contenido que los humanos y los motores de búsqueda adoren usando inteligencia artificial. | LongShot es un asistente de escritura de IA que lo ayuda a pasar de la idea al contenido de SEO en minutos. ¡Use el poder creativo de la IA con características como contenido en tiempo real, verificación de hechos, SEO semántico, IA personalizada y más!. | :x: |
 | [Netus.ai](https://netus.ai/?utm_source=aff&utm_campaign=aicollection?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Derivación, parafraseado y detector impulsados por IA. | NetusAI es una poderosa tecnología impulsada por IA diseñada para ayudar a los creadores de contenido a generar contenido único y de alta calidad hasta 10 veces más rápido que los métodos tradicionales. | :white_check_mark: |
 | [Neuraltext](https://neuraltext.com?via=beth0) | Neuraltext - AI Writer y Seo Platform. | Automatice sus operaciones de contenido. La plataforma todo en uno de marketing de contenidos y SEO que le ahorra tiempo y dinero. | :x: |
+| [Phrasion](https://phrasion.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Writer Blog publica 2 veces más rápido, ¡con la misma calidad que hoy!. | Después de haber probado muchas (¿todas?) herramientas de IA de redacción para escribir blogs, descubrimos que la mayoría crearía publicaciones de blogs demasiado cortas (<1k palabras). Además, las publicaciones eran simples y no lo suficientemente buenas para atraer a los lectores y clasificarse bien en los motores de búsqueda. Por lo tanto, nos propusimos crear un enfoque híbrido humano-IA para empoderar a los escritores de contenido en lugar de reemplazarlos. | :white_check_mark: |
 | [Quattr](https://www.quattr.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Quattr es tu sede de crecimiento. | La plataforma de SEO empresarial creada con potentes datos de IA y GSC como base. | :x: |
 | [Summari](http://www.summari.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Mejore la experiencia de lectura en su sitio. | Actualice los enlaces a vistas previas breves e informativas utilizando nuestra tecnología de resumen de inteligencia artificial de clase mundial. | :grey_question: |
 | [TLDR This](http://tldrthis.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TLDR This - Resumidor de artículos y herramienta de resumen de texto en línea. | Esto lo ayuda a resumir cualquier fragmento de texto en contenido conciso y fácil de digerir para que pueda liberarse de la sobrecarga de información. | :white_check_mark: |
@@ -723,6 +712,7 @@
 | [Gifts Genie](http://gen.gifts?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Genie - Generador de regalos con IA. | ¡Bienvenido a Genio! Nuestra aplicación impulsada por IA lo ayuda a encontrar regalos únicos y bien pensados ​​para sus seres queridos. Solo proporciónanos algunos detalles sobre sus intereses y te sugeriremos el regalo perfecto 🎁. | :white_check_mark: |
 | [Kindred Tales](https://kindredtales.net/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Plataforma en línea que ayuda a las personas a capturar y preservar sus historias de vida en un hermoso libro de tapa dura. | Para cualquier persona que quiera crear un libro de memorias pero no sabe por dónde empezar o tiene dificultades para escribir. Con la ayuda de la IA, los usuarios pueden responder fácilmente preguntas sobre su vida y lo convertiremos en un libro diseñado profesionalmente que podrán apreciar durante las generaciones venideras. | :x: |
 | [Lovelines](http://lovelines.xyz?ref=ai-collection) | Lovelines.Xyz - Comparte tu amor con recuerdos personalizados hechos por IA. | Cree recuerdos personalizados para un ser querido usando IA que están optimizados para las redes sociales. Poemas, historias, cartas y letras de canciones generadas por IA. | :x: |
+| [OUTERMODE](https://outermode.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ideas de regalos con tecnología de IA 🎁. | La herramienta de ideas de regalos impulsada por IA es la solución a todos sus dilemas de regalos, lo que hace que el proceso no solo sea fácil, sino realmente agradable. Al aprovechar el poder de la Inteligencia Artificial, la herramienta analiza la información proporcionada para generar sugerencias de regalos personalizados adaptados a los gustos y preferencias del destinatario. | :white_check_mark: |
 | [Outdone V2](http://www.outdone.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Encuentre el regalo perfecto en minutos o menos. | Construido para eliminar el estrés. De compras de regalos. Respaldado por datos de consumidores reales y nuestro minucioso proceso de revisión, Outdone pone al alcance de los compradores cientos de las mejores marcas del mundo en una herramienta rápida y fácil de usar para encontrar grandes regalos. | :white_check_mark: |
 | [Text2present](http://text2present.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Text2Present.Com - Regalos creativos de gente ocupada. | Le permite crear regalos personalizados creativos utilizando inteligencia artificial para sus amigos, familiares y conocidos sin tomar su valioso tiempo. Simplemente ingrese una descripción de texto de lo que desea regalar y deje que nuestra inteligencia artificial haga el resto. | :grey_question: |
 
@@ -755,6 +745,7 @@
 ## Kit De Herramientas Para Creadores
 | Nombre | Título | Descripción | Ofrecer versión gratuita |
 |---|---|---|:---:|
+| [B12 No-Code AI](https://www.b12.io/no-code-ai/ ?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | La IA sin código de B12 permite a cualquier persona crear herramientas de IA personalizadas en minutos. Pase de usar IA a crear su propia herramienta de IA en minutos sin experiencia. | Desbloquee nuevas eficiencias diarias para todo, desde atraer clientes potenciales, descubrir nuevas ideas, analizar datos y abordar tareas específicas de su industria. | :white_check_mark: |
 | [Clipdrop](http://clipdrop.co) | Cree imágenes impresionantes en segundos. | El ecosistema definitivo de aplicaciones, complementos y recursos para todos los creadores, impulsado por inteligencia artificial. | :white_check_mark: |
 | [Cutout Pro](http://www.cutout.pro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cutout.Pro - Edición de fotos con IA - Plataforma de generación de contenido visual, lo mejor para el diseño de imágenes y videos. | Plataforma de diseño visual todo en uno que contiene herramientas de edición de fotos y videos con IA. Proceso automático de eliminación de fondos, restauración de imágenes, diseño gráfico y generación de contenido. | :grey_question: |
 | [Descript](http://www.descript.com?lmref=xru03g) | Hay una nueva forma de hacer videos y podcasts. Una buena manera. | Descript es la manera simple, poderosa y divertida de editar. | :white_check_mark: |
@@ -943,6 +934,7 @@
 | [Docubro](https://www.docubro.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT para la documentación de su sitio web. | ChatGPT para su documentación, hágalo accesible y fácil de usar manteniendo una conversación para explorar el contenido. | :grey_question: |
 | [HUMATA](https://www.humata.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT para sus archivos. | Aprenda 100 veces más rápido, cree informes 100 veces más rápido, analice documentos legales 100 veces más rápido, comprenda documentos técnicos 100 veces más rápido. Haga preguntas y obtenga respuestas sobre cualquier archivo al instante. | :white_check_mark: |
 | [Keepi](https://www.keepi.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | IA sobre WhatsApp. | Acceda a la IA más avanzada disponible en la actualidad sobre la marcha. Keepi lo mantendrá inteligente y listo con el conocimiento relevante. | :white_check_mark: |
+| [LLM App](https://github.com/pathwaycom/llm-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Biblioteca de Python para construir su AI Chatbot. | Cree un chatbot de IA que responda preguntas utilizando sus propios datos privados en tiempo real. Simplemente agregue llm-app a las dependencias de su proyecto de Python para comenzar de forma gratuita. | :white_check_mark: |
 | [MyAnima AI Companion](http://myanima.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Anima: amigo virtual de IA. | Compañero de IA que se preocupa. Tenga una charla amistosa, un juego de roles, aumente sus habilidades de comunicación y relación. | :white_check_mark: |
 | [NOLU](http://noluai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Interactuar con IA debería ser simple. | Conoce a NOLU. Una interfaz simple para interactuar con el motor Open AI GPT-3. | :white_check_mark: |
 | [PageLines](https://www.pagelines.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Agentes de IA para sitios web. | Agentes y chatbots potenciados por ChapGPT que mejoran su sitio web y marketing. | :white_check_mark: |
