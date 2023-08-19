@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=909" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=914" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -51,25 +51,12 @@
 </div>
 
 <div align="center">
-    <a href="https://ai-collection.org/redirect/swimm-ai/?utm_source=aicollection&utm_medium=free-pub&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="500" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1919.webp" alt="Swimm AI" border="0"/>
+    <a href="https://ai-collection.org/redirect/phrasion/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="500" src="https://ai-collection.b-cdn.net/screenshots/screenshot-phrasion.webp" alt="phrasion" border="0"/>
     </a>
-    <h4>你的代码文档超能力</h4>
-    <p>使用 Swimm AI 创建文档结构、生成代码解释并增强文档可见性</p>
-    <a href="https://ai-collection.org/redirect/swimm-ai/?utm_source=aicollection&utm_medium=free-pub&utm_campaign=toppicks" target="_blank"><b>开始使用 Swimm AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://ai-collection.org/redirect/customqr-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="500" src="https://ai-collection.b-cdn.net/CustomQR_promo.png" alt="CustomQR AI" border="0"/>
-    </a>
-    <h4>CustomQR AI - 商业二维码生成服务</h4>
-    <p>10 分钟内即可在您的电子邮件中获取艺术精美的二维码。从可用的二维码类别中进行选择或请求您自己的二维码类别。通过独特的二维码艺术让您的企业脱颖而出！</p>
-    <a href="https://ai-collection.org/redirect/customqr-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 CustomQR AI</b></a>
+    <h4>作家博客文章速度提高 2 倍 - 质量与今天相同！</h4>
+    <p>在尝试了许多（全部？）用于博客写作的文案人工智能工具后，我们发现大多数工具都会创建太短（<1k 字）的博客文章。此外，帖子过于简单，不足以吸引读者并在搜索引擎上排名良好。因此，我们着手创建一种混合人类与人工智能的方法来增强内容作者的能力，而不是取代他们。</p>
+    <a href="https://ai-collection.org/redirect/phrasion/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Phrasion</b></a>
     <br />
 </div>
 
@@ -303,6 +290,7 @@
 | [LongShot AI](http://www.longshot.ai?deal=beth0) | 使用人工智能创建人类和搜索引擎喜欢的内容. | LongShot 是一款 AI 写作助手，可帮助您在几分钟内将创意转化为 SEO 内容。借助实时内容、事实核查、语义 SEO、自定义 AI 等功能，利用 AI 的创造力！. | :x: |
 | [Netus.ai](https://netus.ai/?utm_source=aff&utm_campaign=aicollection?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 驱动的旁路器、释义器和检测器. | NetusAI 是一项强大的人工智能驱动技术，旨在帮助内容创作者生成独特、高质量的内容，速度比传统方法快 10 倍. | :white_check_mark: |
 | [Neuraltext](https://neuraltext.com?via=beth0) | Neuraltext - AI 作家和 SEO 平台。. | 自动化您的内容操作。多合一的内容营销和 SEO 平台，可为您节省时间和金钱. | :x: |
+| [Phrasion](https://phrasion.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 作家博客文章速度提高 2 倍 - 质量与今天相同！. | 在尝试了许多（全部？）用于博客写作的文案人工智能工具后，我们发现大多数工具都会创建太短（<1k 字）的博客文章。此外，帖子过于简单，不足以吸引读者并在搜索引擎上排名良好。因此，我们着手创建一种混合人类与人工智能的方法来增强内容作者的能力，而不是取代他们。. | :white_check_mark: |
 | [Quattr](https://www.quattr.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Quattr 是您的增长总部. | 以强大的AI和GSC数据为基础打造的企业SEO平台. | :x: |
 | [Summari](http://www.summari.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 改善您网站上的阅读体验. | 使用我们世界一流的 AI 摘要技术将链接升级为简短、信息丰富的预览。. | :grey_question: |
 | [TLDR This](http://tldrthis.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TLDR This - 文章摘要和在线文本摘要工具. | 这有助于您将任何一段文本概括为简洁、易于理解的内容，从而使您从信息过载中解脱出来。. | :white_check_mark: |
@@ -365,6 +353,7 @@
 ## 创作者工具包
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
+| [B12 No-Code AI](https://www.b12.io/no-code-ai/ ?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | B12 的无代码 AI 使任何人都可以在几分钟内构建自定义 AI 工具。无需专业知识，只需几分钟即可从使用 AI 到创建您自己的 AI 工具。. | 释放新的日常效率，从吸引潜在客户、发现新想法、分析数据到处理特定于您所在行业的任务。. | :white_check_mark: |
 | [Clipdrop](http://clipdrop.co) | 在几秒钟内创建令人惊叹的视觉效果. | 由人工智能提供支持的面向所有创作者的应用程序、插件和资源的终极生态系统。. | :white_check_mark: |
 | [Cutout Pro](http://www.cutout.pro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cutout.Pro - AI 照片编辑 - 视觉内容生成平台，最适合图像和视频设计. | 包含 AI 照片和视频编辑工具的多合一视觉设计平台。自动处理背景删除、图像恢复、图形设计和内容生成. | :grey_question: |
 | [Descript](http://www.descript.com?lmref=xru03g) | 有一种制作视频和播客的新方法。一个好方法。. | Descript 是一种简单、强大且有趣的编辑方式。. | :white_check_mark: |
@@ -809,6 +798,7 @@
 | [Gifts Genie](http://gen.gifts?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Genie - 人工智能礼物生成器. | 欢迎来到精灵！我们的人工智能应用程序可帮助您为您所爱的人找到独特而贴心的礼物。只需向我们提供一些有关他们兴趣的详细信息，我们就会推荐完美的礼物🎁. | :white_check_mark: |
 | [Kindred Tales](https://kindredtales.net/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 帮助人们在精美的精装书中捕捉和保存生活故事的在线平台. | 对于任何想要创建回忆录但不知道从哪里开始或写作有困难的人。在人工智能的帮助下，用户可以轻松回答有关他们生活的问题，我们将把它变成一本专业设计的书，让他们世世代代珍藏。. | :x: |
 | [Lovelines](http://lovelines.xyz?ref=ai-collection) | Lovelines.xyz - 用 AI 制作的定制纪念品分享你的爱. | 使用针对社交媒体优化的 AI 为亲人创建定制纪念品。人工智能生成的诗歌、故事、信件和歌词。. | :x: |
+| [OUTERMODE](https://outermode.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 由 AI 提供支持的礼物创意🎁. | 人工智能驱动的礼品创意工具可以解决您所有的送礼困境，使整个过程不仅简单，而且真正令人愉快。通过利用人工智能的力量，该工具分析所提供的信息，以生成适合收件人品味和偏好的个性化礼物建议。. | :white_check_mark: |
 | [Outdone V2](http://www.outdone.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在几分钟或更短的时间内找到完美的礼物. | 旨在消除压力。礼品购物。以真实的消费者数据和我们全面的审查流程为后盾，Outdone 将数百个世界上最好的品牌带到购物者的指尖，通过一种快速、易于使用的工具来寻找精美的礼物。. | :white_check_mark: |
 | [Text2present](http://text2present.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | text2present.com - 来自忙碌人士的创意礼物。. | 允许您使用人工智能为您的朋友、家人和熟人创建创意定制礼物，而无需占用您宝贵的时间。只需输入您想送礼的文字说明，剩下的交给我们的人工智能. | :grey_question: |
 
@@ -866,6 +856,7 @@
 ## 网页设计
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
+| [B12 AI Website Builder](https://www.b12.io/ai-website-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用最简单的 AI 网站构建器在 60 秒内构建您的网站. | 我们的人工智能网站构建器可立即生成可供客户使用的在线形象，并提供专门针对您所在行业的工具、内容和图像. | :white_check_mark: |
 | [Designs AI](http://designs.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 创建徽标、视频、横幅、画外音. | 在 2 分钟内在线创建任何内容！使用 AI 制作徽标、视频、社交媒体横幅、名片、传单、模型等。. | :white_check_mark: |
 | [Durable](http://durable.co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 耐用：AI Website Builder 和服务业务软件. | 使用 AI 在 30 秒内构建网站 - AI 网站构建器可生成带有图像的整个网站并在几秒钟内复制。. | :x: |
 | [Genius by Diagram](https://www.genius.design/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Genius - 你的 AI 设计伙伴. | 加入 Genius by Diagram 等候名单. | :grey_question: |
@@ -922,6 +913,7 @@
 | [Docubro](https://www.docubro.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 网站文档的 ChatGPT. | ChatGPT 用于您的文档，通过对话来探索内容，使其易于访问和使用. | :grey_question: |
 | [HUMATA](https://www.humata.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为您的文件聊天 GPT。. | 学习速度提高 100 倍，创建报告速度提高 100 倍，法律文件分析速度提高 100 倍，技术论文理解速度提高 100 倍。立即提出有关任何文件的问题并获得答案。. | :white_check_mark: |
 | [Keepi](https://www.keepi.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 胜过 WhatsApp。. | 随时随地访问当今最先进的 AI。 Keepi 将使您保持聪明并准备好相关知识。. | :white_check_mark: |
+| [LLM App](https://github.com/pathwaycom/llm-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用于构建 AI 聊天机器人的 Python 库。. | 构建一个人工智能聊天机器人，使用您自己的私人数据实时回答问题。只需将 llm-app 添加到您的 Python 项目的依赖项即可免费开始。. | :white_check_mark: |
 | [MyAnima AI Companion](http://myanima.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Anima：虚拟人工智能朋友. | 关心的 AI 伴侣。进行友好的聊天、角色扮演，提高您的沟通和人际关系技巧。. | :white_check_mark: |
 | [NOLU](http://noluai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 与 AI 交互应该很简单。. | 认识诺鲁。用于与 Open AI GPT-3 引擎交互的简单界面。. | :white_check_mark: |
 | [PageLines](https://www.pagelines.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 网站的 AI 代理. | ChapGPT 支持的代理和聊天机器人可改善您的网站和营销. | :white_check_mark: |
