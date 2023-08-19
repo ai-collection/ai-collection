@@ -52,7 +52,7 @@
 
 <div align="center">
     <a href="https://ai-collection.org/redirect/phrasion/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="500" src="https://ai-collection.b-cdn.net/screenshots/screenshot-phrasion.webp" alt="phrasion" border="0"/>
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-phrasion.webp" alt="phrasion" border="0"/>
     </a>
     <h4>Writer Blog Posts 2X Faster - Avec la même qualité qu'aujourd'hui !</h4>
     <p>Après avoir essayé de nombreux (tous ?) outils de rédaction d'IA pour la rédaction de blogs, nous avons constaté que la plupart créeraient des articles de blog trop courts (<1 000 mots). De plus, les messages étaient simples, pas assez bons pour engager les lecteurs et bien se classer sur les moteurs de recherche. Par conséquent, nous avons décidé de créer une approche hybride humain-IA pour responsabiliser les rédacteurs de contenu plutôt que de les remplacer.</p>

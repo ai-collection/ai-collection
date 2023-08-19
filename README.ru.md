@@ -52,7 +52,7 @@
 
 <div align="center">
     <a href="https://ai-collection.org/redirect/phrasion/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="500" src="https://ai-collection.b-cdn.net/screenshots/screenshot-phrasion.webp" alt="phrasion" border="0"/>
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-phrasion.webp" alt="phrasion" border="0"/>
     </a>
     <h4>Сообщения блога Writer в 2 раза быстрее — с тем же качеством, что и сегодня!</h4>
     <p>Перепробовав множество (все?) инструментов искусственного интеллекта для написания статей в блогах, мы обнаружили, что большинство из них будут создавать слишком короткие (менее 1 тыс. слов) посты в блогах. Кроме того, посты были простыми, недостаточно качественными, чтобы привлечь читателей и занимать высокие позиции в поисковых системах. Поэтому мы решили создать гибридный подход человека и ИИ, чтобы расширить возможности авторов контента, а не заменить их.</p>
