@@ -1054,6 +1054,7 @@ Translations:
 | [TranslateVideo](http://www.translate.video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Translate.Video. | . | :grey_question: |
 | [VideoDub](https://videodub.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Translate and Voiceover Your Videos Effortlessly. | Videodub.io is an AI-powered platform that simplifies the process of adding professional-quality voice-overs to videos. It transcribes the speech, translates it, and adds a natural-sounding voice-over in the language of your choice. It is a necessary tool for content creators seeking to extend their reach globally with minimal effort and no manual work. | :white_check_mark: |
 | [Voicetapp](http://voicetapp.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voicetapp - Speech to Text Transcription. | Get accurate transcriptions for your AUDIO & VIDEO with the latest speech rocognition technology. | :grey_question: |
+| [Wavel AI](https://wavel.ai/) | Wavel AI - Best AI Dubbing and Translation Tool. | Get accurate ai dubbing and translation for your AUDIO & VIDEO with the latest speech synthesis technology. | :grey_question: |
 
 <!--End of Translation & Transcript 24-->
 
