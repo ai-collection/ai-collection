@@ -52,7 +52,7 @@
 
 <div align="center">
     <a href="https://ai-collection.org/redirect/phrasion/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="500" src="https://ai-collection.b-cdn.net/screenshots/screenshot-phrasion.webp" alt="phrasion" border="0"/>
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-phrasion.webp" alt="phrasion" border="0"/>
     </a>
     <h4>作家博客文章速度提高 2 倍 - 质量与今天相同！</h4>
     <p>在尝试了许多（全部？）用于博客写作的文案人工智能工具后，我们发现大多数工具都会创建太短（<1k 字）的博客文章。此外，帖子过于简单，不足以吸引读者并在搜索引擎上排名良好。因此，我们着手创建一种混合人类与人工智能的方法来增强内容作者的能力，而不是取代他们。</p>

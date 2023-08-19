@@ -58,7 +58,7 @@ Translations:
 
 <div align="center">
     <a href="https://ai-collection.org/redirect/phrasion/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="500" src="https://ai-collection.b-cdn.net/screenshots/screenshot-phrasion.webp" alt="phrasion" border="0"/>
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-phrasion.webp" alt="phrasion" border="0"/>
     </a>
     <h4>Writer Blog Posts 2X Faster - With the Same Quality as Today!</h4>
     <p>Having tried many (all?) copywriting AI tools for blog writing, we found that most would create too short (<1k words) blogs posts. Additionally, posts were simple not good enough to engage readers and rank well on search engines. Hence, we set out to create a hybrid human-AI approach to empower content writers rather than replace them.</p>

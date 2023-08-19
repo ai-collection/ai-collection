@@ -52,7 +52,7 @@
 
 <div align="center">
     <a href="https://ai-collection.org/redirect/phrasion/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="500" src="https://ai-collection.b-cdn.net/screenshots/screenshot-phrasion.webp" alt="phrasion" border="0"/>
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-phrasion.webp" alt="phrasion" border="0"/>
     </a>
     <h4>Writer Blog publica 2 veces más rápido, ¡con la misma calidad que hoy!</h4>
     <p>Después de haber probado muchas (¿todas?) herramientas de IA de redacción para escribir blogs, descubrimos que la mayoría crearía publicaciones de blogs demasiado cortas (<1k palabras). Además, las publicaciones eran simples y no lo suficientemente buenas para atraer a los lectores y clasificarse bien en los motores de búsqueda. Por lo tanto, nos propusimos crear un enfoque híbrido humano-IA para empoderar a los escritores de contenido en lugar de reemplazarlos.</p>
