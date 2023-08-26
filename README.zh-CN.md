@@ -241,6 +241,7 @@
 | [Tabnine](http://www.tabnine.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 面向软件开发人员的 AI 助手 - Tabnine. | 无论您是团队的一员，还是独立工作的开发人员，Tabnine 都会帮助您更快地编写代码——一切都在您最喜欢的 IDE 中进行。. | :grey_question: |
 | [Text2SQL](http://www.text2sql.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Text2SQL.AI - 使用 AI 免费生成 SQL 查询！. | . | :white_check_mark: |
 | [Whatthediff](http://whatthediff.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | What-the-Diff – AI 驱动的代码审查助手. | 人工智能驱动的 GitHub 应用程序，以简单的英语解释您的拉取请求中的更改. | :grey_question: |
+| [WiseGPT](https://www.dhiwise.com/?utm_source=community&utm_medium=github&utm_campaign=aicollection) | WiseGPT (由 DhiWise 提供支持) 是首款专为移动和前端开发人员设计的无提示 GenAI 插件。 它可以自动执行复杂的流程、节省时间并提高开发人员的工作效率。 您可以生成个性化的、可用于生产的代码，这些代码无缝地符合并反映您的个人编码风格。 | :white_check_mark: |
 | [aidev.codes](https://aidev.codes/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为您编写 AI 开发代码. | 只需输入规格即可创建简单的应用程序和演示——一种新型的 AI 提示工程。. | :white_check_mark: |
 
 <!--End of 代码和数据库助手 4-->
