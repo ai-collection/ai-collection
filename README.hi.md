@@ -533,6 +533,7 @@
 | [Tabnine](http://www.tabnine.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सॉफ्टवेयर डेवलपर्स के लिए एआई सहायक - Tabnine. | चाहे आप एक टीम का हिस्सा हों, या अपने दम पर काम करने वाले डेवलपर हों, Tabnine आपको तेजी से कोड लिखने में मदद करेगा - सब कुछ आपकी पसंदीदा IDE में।. | :grey_question: |
 | [Text2SQL](http://www.text2sql.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Text2Sql.Ai - AI के साथ मुफ्त में SQL क्वेरी जेनरेट करें!. | . | :white_check_mark: |
 | [Whatthediff](http://whatthediff.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | व्हाट-द-डिफ - एआई-संचालित कोड समीक्षा सहायक. | एआई संचालित गिटहब ऐप जो सादे अंग्रेजी में आपके पुल अनुरोधों में बदलाव की व्याख्या करता है. | :grey_question: |
+| [WiseGPT](https://www.dhiwise.com/?utm_source=community&utm_medium=github&utm_campaign=aicollection) | WiseGPT (DhiWise द्वारा संचालित) मोबाइल और फ्रंटएंड डेवलपर्स के लिए डिज़ाइन किया गया पहला प्रोम्प्ट-रहित GenAI प्लग-इन है। यह जटिल प्रक्रियाओं को स्वचालित करता है, समय बचाता है और डेवलपर उत्पादकता को बढ़ाता है। आप वैयक्तिकृत, उत्पादन-तैयार कोड उत्पन्न कर सकते हैं जो आपकी व्यक्तिगत कोडिंग शैली के साथ सहजता से संरेखित और प्रतिबिंबित करता है। | :white_check_mark: |
 | [aidev.codes](https://aidev.codes/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके लिए एआई देव कोड. | विशिष्टताओं को दर्ज करके सरल ऐप और डेमो बनाएं - एक नए प्रकार का एआई प्रांप्ट इंजीनियरिंग।. | :white_check_mark: |
 
 <!--End of कोड और डेटाबेस सहायक 4-->
