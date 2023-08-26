@@ -51,6 +51,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/damn-good-tools/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-damn-good%20tools.webp" alt="Damn Good Tools" border="0"/>
+    </a>
+    <h4>Ох уж эти чертовски хорошие инструменты Простые в использовании и интересные инструменты — бесплатные (и с открытым исходным кодом).</h4>
+    <p>Откройте для себя полезные и хорошие инструменты, которые повысят вашу производительность. Пример некоторых инструментов: генератор политики конфиденциальности, снимки экрана, обнаружение шрифтов, чат с любым PDF-файлом, суммирование любого URL-адреса и многое другое.</p>
+    <a href="https://www.thataicollection.com/redirect/damn-good-tools/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Damn Good Tools</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://ai-collection.org/redirect/phrasion/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-phrasion.webp" alt="phrasion" border="0"/>
     </a>

@@ -51,6 +51,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/damn-good-tools/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-damn-good%20tools.webp" alt="Damn Good Tools" border="0"/>
+    </a>
+    <h4>哦，这些该死的好工具 易于使用、有趣的工具——免费（且开源）。</h4>
+    <p>发现有用的好工具，将提高您的生产力。 一些工具的示例：隐私政策生成器、屏幕截图、检测字体、与任何 PDF 聊天、总结任何 URL 等等。</p>
+    <a href="https://www.thataicollection.com/redirect/damn-good-tools/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Damn Good Tools</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://ai-collection.org/redirect/phrasion/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-phrasion.webp" alt="phrasion" border="0"/>
     </a>

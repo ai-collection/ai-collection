@@ -51,6 +51,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/damn-good-tools/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-damn-good%20tools.webp" alt="Damn Good Tools" border="0"/>
+    </a>
+    <h4>ओह, ये बहुत अच्छे उपकरण हैं उपयोग में आसान, मज़ेदार उपकरण—निःशुल्क (और ओपन-सोर्स)।</h4>
+    <p>उपयोगी अच्छे टूल खोजें जो आपकी उत्पादकता बढ़ाएंगे। कुछ टूल के उदाहरण: गोपनीयता नीति जनरेटर, स्क्रीनशॉट, फ़ॉन्ट का पता लगाएं, किसी भी पीडीएफ के साथ चैट करें, किसी भी यूआरएल का सारांश और बहुत कुछ।</p>
+    <a href="https://www.thataicollection.com/redirect/damn-good-tools/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Damn Good Tools के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://ai-collection.org/redirect/phrasion/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-phrasion.webp" alt="phrasion" border="0"/>
     </a>
