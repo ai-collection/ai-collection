@@ -58,7 +58,7 @@ Translations:
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/damn-good-tools/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-damn-good%20tools.webp" alt="Damn Good Tools" border="0"/>
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools" border="0"/>
     </a>
     <h4>Oh, these damn good tools Easy-to-use, fun tools—free (and open-source).</h4>
     <p>Discover useful good tools that will boost your productivity. Example of some tools: Privacy Policy Generator, Screenshots, Detect Fonts, Chat With Any PDF, Summarize Any URL and more.</p>
@@ -1067,7 +1067,6 @@ Translations:
 | [TranslateVideo](http://www.translate.video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Translate.Video. | . | :grey_question: |
 | [VideoDub](https://videodub.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Translate and Voiceover Your Videos Effortlessly. | Videodub.io is an AI-powered platform that simplifies the process of adding professional-quality voice-overs to videos. It transcribes the speech, translates it, and adds a natural-sounding voice-over in the language of your choice. It is a necessary tool for content creators seeking to extend their reach globally with minimal effort and no manual work. | :white_check_mark: |
 | [Voicetapp](http://voicetapp.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voicetapp - Speech to Text Transcription. | Get accurate transcriptions for your AUDIO & VIDEO with the latest speech rocognition technology. | :grey_question: |
-| [Wavel AI](https://wavel.ai/) | Wavel AI - Best AI Dubbing and Translation Tool. | Get accurate ai dubbing and translation for your AUDIO & VIDEO with the latest speech synthesis technology. | :grey_question: |
 
 <!--End of Translation & Transcript 24-->
 
