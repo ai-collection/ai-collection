@@ -52,7 +52,7 @@
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/damn-good-tools/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-damn-good%20tools.webp" alt="Damn Good Tools" border="0"/>
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools" border="0"/>
     </a>
     <h4>Oh, ces sacrés bons outils Des outils faciles à utiliser et amusants, gratuits (et open source).</h4>
     <p>Découvrez de bons outils utiles qui augmenteront votre productivité. Exemple de quelques outils : Générateur de politique de confidentialité, Captures d'écran, Détecter les polices, Discuter avec n'importe quel PDF, Résumer n'importe quelle URL et plus encore.</p>
