@@ -762,6 +762,7 @@ Translations:
 | [bardeen](https://www.bardeen.ai/ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Meets Automations. | Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity. | :grey_question: |
 | [guidde](https://www.guidde.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Magically Create Stunning Training Meterial, Feature Notes, SOPs, Onboarding Guides, How-to Guides, FAQs With AI. | guidde is the generative AI platform for business that helps your team create video documentation 11x faster. | :white_check_mark: |
 | [mem](https://get.mem.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The Self-Organizing Workspace. | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically. | :white_check_mark: |
+| [Keploy](https://www.keploy.io/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Generated Tests that actually work! | Keploy is a functional testing toolkit for developers. It generates E2E tests for APIs (KTests) along with mocks or stubs(KMocks) by recording real API calls. KTests can be imported as mocks for consumers and vice-versa. | :white_check_mark: |
 
 <!--End of Organization & Automation 31-->
 
