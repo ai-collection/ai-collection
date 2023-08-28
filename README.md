@@ -4,7 +4,8 @@
     <h1>1000 AI collection tools</h1>
     <i>More than 1000 Artificial Intelligence AI-powered tools</i>
     <br />
-    <i>categorized & updated 08 Feb. 2023 </i>
+    <i>categorized & updated 28 Aug. 2023 </i>
+    !Before using any AI tools remember to read and check the Terms and Conditions / Privacy policy. Especially for using your personal pictures!
     <br />
 </div>
 
@@ -145,22 +146,25 @@
 | [Vizcom AI](http://www.vizcom.ai) | Vizcom Ai: The AI Creative Design Tool. | See your drawings and ideas come to life in seconds, not hours. | :grey_question: |
 | [Zazow](http://www.zazow.com) | Zazow :: Algorithmic Generative Art. | Create your own artwork by using computer generated algorithms. Learn about generative or algorithmic art. | :grey_question: |
 | [Zoomscape](http://zoomscape.ai) | Zoomscape.Ai. | Create stunning Zoom backgrounds with AI. | :grey_question: |
-| [artssy](https://www.artssy.co/) | Create Unique AI Generated Images in 1-Click. | With Artssy AI, your creativity can flow. Create unlimited images in 1 click and discover a world of possibilities!. | :x: |
+| [artssy](https://www.artssy.co/) | Create Unique AI Generated Images in 1-Click. | With Artssy AI, your creativity can flow. Create unlimited images in 1 click and discover a world of possibilities! | :x: |
 | [flair](http://flair.ai/) | The AI Design Tool for Branded Content. | . | :white_check_mark: |
 | [parti](https://github.com/google-research/parti) | parti | parti treats text-to-image generation as a sequence-to-sequence modeling problem, analogous to machine translation | :white_check_mark: |
 | [muse](https://muse-model.github.io/) | text-to-image generation via masked generative transformers | 
 muse is a fast, state-of-the-art text-to-image generation and editing model.
  | :white_check_mark: |
- | [artbreeder](https://www.artbreeder.com/) | artbreeder brings creativity and collaboration together. remix any image you see to make it your own.  | make a simple collage from shapes and images, describe it with a prompt, and watch as artbreeder brings it to life. | :white_check_mark: |
+| [Human Generator](https://generated.photos/) | Create hyperrealistic full-body photos of people in real-time | Created from scratch by AI, Generated Photos are perfect for ads, design, marketing, research, and machine learning  | :white_check_mark: |
+| [Weshop](https://www.weshop.ai/) | Weshop | 10x Model & Product Photos with AI Studio, Instantly generate high-quality images at fractional costs  | :white_check_mark: |
+
+
 
 ### audio editing
 | name | title | description | offer free version |
 |---|---|---|:---:|
 | [adobe podcast](http://podcast.adobe.com) | adobe podcast - ai audio recording and editing, all on the web. | an audio tool for people with stories to tell. | :grey_question: |
-| [assemblyai](http://www.assemblyai.com) | #1 api platform for ai models. | automatically convert audio and video files and live audio streams to text with assemblyai's speech-to-text apis. do more with audio intelligence - summarization, content moderation, topic detection. | :grey_question: |
-| [cleanvoice ai](http://cleanvoice.ai) | get rid of filler words from your audio recordings. | cleanvoice is an artificial intelligence which removes filler sounds, stuttering and mouth sounds from your podcast or audio recording. | :grey_question: |
+| [assemblyai](http://www.assemblyai.com) | #1 api platform for ai models. | automatically convert audio and video files and live audio streams to text with Assemblyai's speech-to-text APIs. do more with audio intelligence - summarization, content moderation, topic detection. | :grey_question: |
+| [cleanvoice ai](http://cleanvoice.ai) | Get rid of filler words from your audio recordings. | Cleanvoice is an artificial intelligence that removes filler sounds, stuttering and mouth sounds from your podcast or audio recording. | :grey_question: |
 | [clip audio](http://www.clip.audio) | clip - ai audio search engine. | the audio search engine. | :grey_question: |
-| [krisp](http://krisp.ai) | world’s #1 noise cancelling app - krisp. | krisp’s ai removes background voices, noises and echo from all your calls, giving you peace of mind. | :white_check_mark: |
+| [krisp](http://krisp.ai) | world’s #1 noise cancelling app - krisp. | krisp’s ai removes background voices, noises and echoes from all your calls, giving you peace of mind. | :white_check_mark: |
 | [phind](https://phind.com/) | the ai search engine for developers. | . | :white_check_mark: |
 **[⬆ back to index](#index)**
 
@@ -170,7 +174,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [AI Profile Pictures](http://www.aiprofilepictures.com) | AI Profile Pictures. | Now available in beta. | :x: |
 | [AIVatar](http://aivatarapp.com) | Aivatar - Magic Avatar Generator. | Generate magic avatar art from your photos. | :grey_question: |
 | [AIprofilepic](http://aiprofilepic.art) | Create Stunning Profile Pictures Using AI - Aiprofilepic.Art. | Create your perfect avatars in just a few clicks with our easy-to-use AI technology. | :grey_question: |
-| [ARTI.PICS](http://www.arti.pics) | AI-Powered Avatar Maker. | Arti.Pics allows you to upload a few photos of yourself and generates more than 200 cool-looking avatars in different styles. | :x: |
+| [ARTI.PICS](http://www.arti.pics) | AI-Powered Avatar Maker. | Arti.Pics allows you to upload a few photos of yourself and generate more than 200 cool-looking avatars in different styles. | :x: |
 | [Autoportrait](http://autoportrait.co) | Autoportrait - Create AI Portraits. | Browse millions of styles or create your own, generate AI autoportraits. | :grey_question: |
 | [AvatarAI](http://avatarai.me) | Create Your Own Photorealistic AI Avatars. | Choose from 112+ different styles to transform into. | :x: |
 | [Avatarize.club](http://avatarize.club) | Create High Quality AI-Generated Avatars. | Professional Photos, Social Media DPs, Game Avatars, Dating Profile Photos, and more powered by Stable Diffusion 2.1. | :x: |
@@ -205,7 +209,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 |---|---|---|:---:|
 | [Askrobi](http://www.askrobi.com) | Power of AI in Whatsapp. | Robi is a powerful AI companion that lives in your contact list and can be talked to through WhatsApp, he can help you write an essay or generate original images!. | :white_check_mark: |
 | [BLOONY](http://bloony.ai) | Bloony - AI Chatbot. | Hop on ChatTrip!. | :grey_question: |
-| [BotGPT](https://t.me/BotGPT_bot) | Telegram GPT Bot. | Telegram bot that allows fast and intuitive access to GPT, Saves your history, and available from your phone or desktop. Cool features upcoming. | :white_check_mark: |
+| [BotGPT](https://t.me/BotGPT_bot) | Telegram GPT Bot. | Telegram bot that allows fast and intuitive access to GPT, Saves your history, and is available from your phone or desktop. Cool features are upcoming. | :white_check_mark: |
 | [Chai](http://chai.ml) | Chai - Chat With AI. | Chai is THE destination for compelling conversations with AI. On Chai, you can build and deploy AI chatbots to thousands of users. | :grey_question: |
 | [ChatGPT](http://chat.openai.com) | Apowerful Language Model for Text Generation and Understanding. | . | :white_check_mark: |
 | [Context Search](http://addcontext.xyz) | Context - AI-Powered Audio & Video Chatbots. | . | :grey_question: |
@@ -224,43 +228,43 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [AI Docstrings](https://trelent.com) | Write Docstrings Automatically. | Trelent uses AI to write helpful docstrings for your functions instantly. | :white_check_mark: |
 | [Adrenaline](https://useadrenaline.com/) | Stop Plugging Your Errors Into Stack Overflow. | Adrenaline is a debugging assistant powered by the OpenAI Codex. It can fix and explain your broken code in seconds. | :white_check_mark: |
 | [Ask Command](http://askcommand.com) | Ask Command — AI-Powered Developer Assistant. | A tiny app to remind you about those commands you always forget. Powered by AI. | :grey_question: |
-| [Channel](http://www.usechannel.com) | Channel. | Connect your database, ask a question, get an answer. | :grey_question: |
+| [Channel](http://www.usechannel.com) | Channel. | Connect your database, ask a question, and get an answer. | :grey_question: |
 | [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist) | Codeassist Is an AI Assistant / Chatbot / Copilot for Programming - Jetbrains Marketplace. | It generates, changes, completes the code and answers questions. | :grey_question: |
 | [CodeGPT](http://www.codegpt.co/) | AI Inside Your Ide. | Improve your code with Code GPT AI. | :white_check_mark: |
 | [CodeWP](https://codewp.ai/?cwpref=9) | Codewp - AI Wordpress Code Generator & Assistant. | CodeWP is a WordPress code generator that uses AI and specialized models for WordPress, Woo and others to help you build better & quicker. | :white_check_mark: |
-| [Codeball](http://codeball.ai) | Codeball Â AI Powered Code Review. | Codeball finds bugs in your Pull Requests, lets you ship faster and with higher confidence. | :grey_question: |
-| [Codecleaningbot](http://www.codecleaningbot.com) | Code Cleaning Bot. | Code Cleaning AI Bot fixes common code quality and security issues. Like: deleting unused and unreachable code, fix SQL injection, etc. | :grey_question: |
+| [Codeball](http://codeball.ai) | Codeball Â AI Powered Code Review. | Codeball finds bugs in your Pull Requests, and lets you ship faster and with higher confidence. | :grey_question: |
+| [Codecleaningbot](http://www.codecleaningbot.com) | Code Cleaning Bot. | Code Cleaning AI Bot fixes common code quality and security issues. Like: deleting unused and unreachable code, fixing SQL injection, etc. | :grey_question: |
 | [Codeium](http://www.codeium.com) | Codeium - The Modern Coding Superpower. | Fast AI-based code acceleration and free alternative to GitHub Copilot. | :white_check_mark: |
 | [Datamaker](http://www.datamaker.dev) | AI Powered Webflow Code & Copy Tools for Designers. | If you are a Webflow Designer or Webflow Developer then you need to see these tools. Use AI to create code and copy to solve your Webflow problems. | :grey_question: |
-| [Decile](http://decile.app) | Get the Data You Need by Asking. | Build a data-led organisation with the power of AI. | :x: |
+| [Decile](http://decile.app) | Get the Data You Need by Asking. | Build a data-led organization with the power of AI. | :x: |
 | [Explain An Error](http://explain.whybug.com) | Explain by Whybug. | Let AI explain to you why your code is buggy and how to fix it. | :grey_question: |
 | [ExplainDev](http://explain.dev) | Explaindev - Code Explainer That Answers Your Questions in Context. | ExplainDev helps you to be more confident and independent with others' code. Get code explanations and direct answers to your questions via Chrome and VS Code extensions powered by AI. | :grey_question: |
 | [Ghostwriter](http://replit.com) | Replit: The Collaborative Browser Based Ide. | Run code live in your browser. Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter. | :grey_question: |
 | [GitHub Copilot](http://GitHub.com/features/copilot) | Your AI Pair Programmer. | GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor. | :grey_question: |
 | [Mutable.ai](http://mutable.ai) | Mutableai. AI Accelerated Software Development. | Build fast with production quality using AI. | :grey_question: |
 | [Programminghelper](http://www.programming-helper.com) | Home. | Generate code with AI just by typing a text description. AI will create the code for you. A tool that helps you with a wide range of tasks. All in one place. | :grey_question: |
-| [QueryGenie](http://sqlgenie-co.web.app) | Write Db Queries Faster!. | Generate database queries from plain-english description using AI. | :grey_question: |
-| [TLDR - Jetbrains IDE Plugin](http://tldrdev.ai) | TLDR – Explain Code in Plain English. | TLDR is an IDE plugin that leverages AI to explain code in plain english. | :grey_question: |
+| [QueryGenie](http://sqlgenie-co.web.app) | Write Db Queries Faster!. | Generate database queries from plain-English descriptions using AI. | :grey_question: |
+| [TLDR - Jetbrains IDE Plugin](http://tldrdev.ai) | TLDR – Explain Code in Plain English. | TLDR is an IDE plugin that leverages AI to explain code in plain English. | :grey_question: |
 | [Tabnine](http://www.tabnine.com) | AI Assistant for Software Developers - Tabnine. | Whether you&apos;re part of a team, or a developer working on your own, Tabnine will help you write code faster – all in your favorite IDE. | :grey_question: |
 | [Tensai](http://airtable.com/shrhYf24UkDMr2gPl) | Tensai - Conversational Ui for Your Codebase. | . | :white_check_mark: |
 | [Text2SQL](http://www.text2sql.ai/) | Text2Sql.Ai - Generate SQL Queries With AI for Free!. | . | :white_check_mark: |
-| [Whatthediff](http://whatthediff.ai) | What-the-Diff – AI-Powered Code Review Assistant. | The AI powered GitHub app that explains the changes within your pull requests in plain english. | :grey_question: |
+| [Whatthediff](http://whatthediff.ai) | What-the-Diff – AI-Powered Code Review Assistant. | The AI-powered GitHub app that explains the changes within your pull requests in plain English. | :grey_question: |
 | [aidev.codes](https://aidev.codes/) | AI Dev Codes for You. | Create simple apps and demos just by entering specifications — a new type of AI prompt engineering. | :white_check_mark: |
 
 
 ### Content Generation & Seo
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [ArticleForge](https://www.articleforge.com/?ref=e99368) | High Quality, AI Content Generator - Article Forge. | Using advanced artificial intelligence and deep learning, Article Forge writes completely unique, SEO optimized, high-quality, long form articles with the click of a button. | :white_check_mark: |
+| [ArticleForge](https://www.articleforge.com/?ref=e99368) | High Quality, AI Content Generator - Article Forge. | Using advanced artificial intelligence and deep learning, Article Forge writes completely unique, SEO-optimized, high-quality, long-form articles with the click of a button. | :white_check_mark: |
 | [Content brief generator](http://www.dashword.com?via=beth0) | Seo Content Optimization Software - Dashword. | Dashword is the #1 content optimization software for SEO teams. Create relevant content for your readers and grow your organic traffic. | :x: |
 | [Contentedge](http://www.contentedge.com) | Advanced AI Content Generation & Seo Copywriting Software. | Skip the creative burnout and generate high-ranking content in as little as 15 seconds. | :white_check_mark: |
 | [CopyMonkey](http://copymonkey.ai) | Your AI-Powered Amazon Listing Optimization Expert. | CopyMonkey generates and optimizes Amazon listings in seconds. AI helps place all of the important keywords in your Amazon listing to get you ranking organically on the first page. | :white_check_mark: |
-| [Creator AI](https://www.creaitor.ai/?ref=beth0) | Let the AI Create for You. | Creaitor will help you write content in a more powerful, emotionally expressive way. | :x: |
+| [Creator AI](https://www.creaitor.ai/?ref=beth0) | Let the AI Create for You. | Creator will help you write content in a more powerful, emotionally expressive way. | :x: |
 | [Ctrify](http://www.ctrify.com) | First AI-Powered Seo Action Platform. | Create websites that rank on Google by just giving one keyword to our Artificial Intelligence. | :grey_question: |
-| [Embolden](http://embolden.co) | Use AI to Power Your Ecommerce Writing. | Embolden uses AI to help you write everything from emails to product descriptions for your ecommerce business. | :white_check_mark: |
+| [Embolden](http://embolden.co) | Use AI to Power Your Ecommerce Writing. | Embolden uses AI to help you write everything from emails to product descriptions for your e-commerce business. | :white_check_mark: |
 | [Enwrite](http://enwrite.co) | The AI Tool That Aims to Help Writers Save Time - Not Replace Them. | An AI helper specialized in SEO-optimized content creation. Enwrite helps you write better content faster. | :white_check_mark: |
 | [Frase.io (first month - 60% discount)](http://www.frase.io/?via=beth0) | Frase - Best Seo Content Optimization Tool & AI Writer. | Frase AI helps you research, write, and optimize high-quality SEO content in minutes instead of hours. | :x: |
-| [H-supertools AI Writer](https://h-supertools.com/ai/ai-writer) | AI Writer: Generate Content for Free!. | Generate Blog Sections & Paragraphs in Seconds With This Powerful Free AI Writer. | :white_check_mark: |
+| [H-supertools AI Writer](https://h-supertools.com/ai/ai-writer) | AI Writer: Generate Content for Free!. | Generate Blog Sections and paragraphs in Seconds With This Powerful Free AI Writer. | :white_check_mark: |
 | [Hypotenuse.ai](http://www.hypotenuse.ai) | Let AI Write Your Content in Seconds. Without Writer&Apos;S Block. | Provide a few keywords, and we&apos;ll instantly turn them into full-length articles and marketing content, using our world-class AI with a vast knowledge of the world. | :white_check_mark: |
 | [Intelligent paraphraser](https://aiseo.ai/?fpr=beth0) | Aiseo - AI Writing Assistant, AI Copywriting & Content Generator. | Get writing superpowers with artificial intelligence. We at AISEO will help you convert your thoughts to blogs and can write for you at the click of a button. | :white_check_mark: |
 | [Jasper.ai](http://www.jasper.ai) | Jasper - AI Copywriter - AI Content Generator for Teams. | Jasper is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster. | :white_check_mark: |
@@ -269,36 +273,38 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [LAIKA](http://www.writewithlaika.com) | Personalised Artificial Intelligence for Writers. | We make the boring parts of writing exciting. LAIKA is a creative partner that you train to write like you (or anyone you want). Made for creative writers, game writers, and all other fiction fabricators. | :white_check_mark: |
 | [Lek](http://lek.ai) | Lek.Ai - The Ultimate Content Creator Toolkit Powered by AI. | Write Anything For Everything. The fastest and easiest way to create content and copy. | :white_check_mark: |
 | [Lex](http://lex.page) | Unlock Your Best Writing. | . | :grey_question: |
-| [LongShot AI](http://www.longshot.ai?deal=beth0) | Create Content That Humans and Search Engines Love Using Artificial Intelligence. | LongShot is an AI writing assistant that helps you go from idea to SEO content in minutes. Use creative power of AI with features like real time content, fact check, semantic SEO, custom AI, & more!. | :x: |
+| [LongShot AI](http://www.longshot.ai?deal=beth0) | Create Content That Humans and Search Engines Love Using Artificial Intelligence. | LongShot is an AI writing assistant that helps you go from idea to SEO content in minutes. Use the creative power of AI with features like real-time content, fact check, semantic SEO, custom AI, & more! | :x: |
 | [Neuraltext](https://neuraltext.com?via=beth0) | Neuraltext - AI Writer and Seo Platform. | Automate your content operations. The all-in-one content marketing and SEO platform that saves you time and money. | :x: |
-| [Quattr](https://www.quattr.com/) | Quattr Is Your Growth Hq. | The enterprise SEO platform built with powerful AI and GSC data as the foundation. | :x: |
+| [Quattr](https://www.quattr.com/) | Quattr Is Your Growth Hq. | The enterprise SEO platform is built with powerful AI and GSC data as the foundation. | :x: |
 | [Summari](http://www.summari.com) | Improve the Reading Experience on Your Site. | Upgrade links into short, informative previews using our world-class AI summarization technology. | :grey_question: |
-| [Taskade](http://www.taskade.com/?via=beth0) | Taskade - AI Outliner & Mind Map - AI Outlining and Mind Mapping for Teams. | Taskade is the first collaborative AI writer and outliner for teams with built-in task management and video chat. Create mind maps, task lists, and take structured notes in real-time with your team. | :white_check_mark: |
+| [Taskade](http://www.taskade.com/?via=beth0) | Taskade - AI Outliner & Mind Map - AI Outlining and Mind Mapping for Teams. | Taskade is the first collaborative AI writer and outliner for teams with built-in task management and video chat. Create mind maps, and task lists, and take structured notes in real time with your team. | :white_check_mark: |
 | [TypeDroid](http://typedroid.com) | Typedroid - Free AI Text Generator. | . | :white_check_mark: |
-| [Typli](http://typli.ai) | Typli.Ai - AI Writer & Seo Writing Assistant. | The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant. | :white_check_mark: |
+| [Typli](http://typli.ai) | Typli.Ai - AI Writer & Seo Writing Assistant. | The most intuitive A.I Content tool that combines AI Writing and an SEO Assistant. | :white_check_mark: |
 | [Wizishop](http://wizishop.com) | Grow Your Business With Seo-Powered Ecommerce. | WiziShop makes SEO-powered ecommerce easier than ever before, bringing success within reach. Artificial Intelligence at the service of your ecommerce business!. | :white_check_mark: |
 | [Word Spinner](http://word-spinner.com) | Word Spinner: The Best Free Article Rewriter and Paraphrase Tool Online. | . | :white_check_mark: |
 | [WordAI](https://wordai.com/?ref=470a83) | AI Text Rewriter - Wordai. | Use artificial intelligence to cut turnaround time, extend your budget, and create more high-quality content that Google and readers will love. | :white_check_mark: |
 | [WordHero](http://wordhero.co?via=beth0) | Generate AI-Powered Content - In 1 Click. | With WordHero's AI technology, you can create original blog posts, social media content, emails, and more - in just seconds. | :x: |
-| [Wordkraft](http://wordkraft.ai) | Create High-Quality Content Instantly With AI. | Wordkraft AI content writer is a revolutionary tool Powered by GPT-3 the most advance artificial intelligence technology to generate well-written, keyword-optimized content for your blog, website or marketing needs. | :white_check_mark: |
+| [Wordkraft](http://wordkraft.ai) | Create High-Quality Content Instantly With AI. | Wordkraft AI content writer is a revolutionary tool Powered by GPT-3 the most advanced artificial intelligence technology to generate well-written, keyword-optimized content for your blog, website, or marketing needs. | :white_check_mark: |
 | [Wordplay](http://wordplay.ai) | Create Long-Form Content in Seconds. | The #1 AI content generator built for SEO & content publishers. | :white_check_mark: |
-| [Writesonic](https://writesonic.com) | Writesonic - Best AI Writer, Copywriting & Paraphrasing Tool. | Create SEO-optimized and plagiarism-free contentfor your blogs, ads, emails, and website 10X faster. | :white_check_mark: |
+| [Writesonic](https://writesonic.com) | Writesonic - Best AI Writer, Copywriting & Paraphrasing Tool. | Create SEO-optimized and plagiarism-free content for your blogs, ads, emails, and website 10X faster. | :white_check_mark: |
 | [Writey AI](http://writey.ai) | Yes — An A.I That Writes Original, Researched Blog Posts in Minutes. | First true free plagiarism A.I with original and researched content, check Writey A.I in action. | :white_check_mark: |
-| [unbound](https://www.unboundcontent.ai/auth?affiliate=aff_z0krz31) | Automate Content Creation for Your Small Business. | Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators. | :white_check_mark: |
+| [unbound](https://www.unboundcontent.ai/auth?affiliate=aff_z0krz31) | Automate Content Creation for Your Small Business. | Leverage all the best AI generation tools in one place designed to automate content creation for small businesses, online shops and creators. | :white_check_mark: |
 | [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0) | Instantly Convert Your YouTube Content Into Engaging Blog Articles. | Boost your SEO and brand presence. | :white_check_mark: |
 | [anyword](https://anyword.com/) | anyword | copywriting ai with predictable results | :x: |
 | [Copysmith](https://copysmith.ai/) | Copysmith | Copysmith’s AI content generator makes product description writing fast, easy and fun – are you ready for your mind to be blown? | :white_check_mark: |
-| [jounce](https://www.jounce.ai/) | Jounce | Free AI-powered copywriting and artwork for marketers | :white_check_mark: |
+| [Jounce](https://www.jounce.ai/) | Jounce | Free AI-powered copywriting and artwork for marketers | :white_check_mark: |
+| [Tugan.ai](https://tugan.ai) | Say Goodbye To Your Copywriter And Ghostwriter | Generate Emails, Newsletters, Threads, Tweets, and Linkedin Posts That People Love To Read | :white_check_mark: |
+
 
 ### Creators Toolkit
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Clipdrop](http://clipdrop.co) | Create Stunning Visuals in Seconds. | The ultimate ecosystem of apps, plugins & resources for all creators, powered by artificial intelligence. | :white_check_mark: |
-| [Cutout Pro](http://www.cutout.pro) | Cutout.Pro - AI Photo Editing - Visual Content Generation Platform, Best for Image and Video Design. | All-in-one visual design platform containing AI photo and video editing tools. Automatic process for background remove, image restoration, graphic design, and content generation. | :grey_question: |
-| [Descript](http://www.descript.com?lmref=xru03g) | There&Apos;S a New Way to Make Video and Podcasts. A Good Way. | Descript is the simple, powerful, and fun way to edit. | :white_check_mark: |
+| [Cutout Pro](http://www.cutout.pro) | Cutout.Pro - AI Photo Editing - Visual Content Generation Platform, Best for Image and Video Design. | All-in-one visual design platform containing AI photo and video editing tools. Automatic process for background removal, image restoration, graphic design, and content generation. | :grey_question: |
+| [Descript](http://www.descript.com?lmref=xru03g) | There&Apos;S a New Way to Make Videos and Podcasts. A Good Way. | Descript is a simple, powerful, and fun way to edit. | :white_check_mark: |
 | [Fermat](http://fermat.ws) | Creativity Augmented for Content Creation. | Unleash your creativity with AI on a collaborative canvas. | :grey_question: |
 | [Hotpot](http://hotpot.ai) | Hotpot.Ai. | Hotpot.ai helps you create amazing graphics, pictures, and text. AI tools like AI Art Generator spark creativity and automate drudgery while easy-to-edit templates empower anyone to create device mockups, social media posts, marketing images, app icons, and other work graphics. | :grey_question: |
-| [Lightricks](http://www.lightricks.com) | Home to Creators Everywhere. | Experience the magic of creating with the best tools and services for creators: Facetune 2, Videoleap, Linkinbio & Photoleap. Check it out now!. | :grey_question: |
+| [Lightricks](http://www.lightricks.com) | Home to Creators Everywhere. | Experience the magic of creating with the best tools and services for creators: Facetune 2, Videoleap, Linkinbio & Photoleap. Check it out now! | :grey_question: |
 | [Media.io](https://www.media.io/?ref=beth0) | Online Video, Audio, Image Creativity Platform Powered by AI. | Simplicity. Diversity. Flexibility. | :white_check_mark: |
 | [Runway](http://runwayml.com) | Runway - Next-Generation Creation Suite - Everything You Need to Make Content, Fast. | Discover advanced video editing capabilities to take your creations to the next level. | :white_check_mark: |
 
@@ -308,9 +314,9 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Answers by Cohere](http://cohere.io) | Conversational AI Platform for Customer Support - Cohere. | AI-powered support assistance that finds answers from previous tickets. | :grey_question: |
-| [Bahasa](http://www.bahasa.ai) | Bahasa.Ai - Chatbot Which Serves Customers Fully. | Automation that helps your business serves millions of happy customers fastlyâpowered by AI specially built for Bahasa Indonesia. | :grey_question: |
+| [Bahasa](http://www.bahasa.ai) | Bahasa.Ai - Chatbot Which Serves Customers Fully. | Automation that helps your business serve millions of happy customers quickly powered by AI specially built for Bahasa Indonesia. | :grey_question: |
 | [EddyAI](http://eddyai.com) | Sell and Support Your Customers Automatically 24/7. | Increase Sales and Reduce Support Costs. | :white_check_mark: |
-| [ResolveAI](http://resolveai.co) | Resolveai. | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time. | :grey_question: |
+| [ResolveAI](http://resolveai.co) | Resolveai. | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real time. | :grey_question: |
 
 
 ### Education & Learning
@@ -320,7 +326,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [Lorro](https://lorro.io/) | Become a Fluent English Speaker for a Fraction of a Cost. By Talking to an AI Tutor. | . | :x: |
 | [Replicate](http://replicate.com) | Machine Learning Doesn&Apos;T Need to Be So Hard. | Run open-source models with a cloud API. | :white_check_mark: |
 | [Speakingclubai](http://speakingclubai.com) | Speaking Club AI. | Welcome to Speaking Club AI - the ultimate language learning tool for anyone looking to improve their speaking skills in a foreign language. With Speaking Club AI, you can practice    your conversation skills with a personalized AI language partner anytime, anywhere. | :grey_question: |
-| [seamless](https://www.seamless.ai/) | seamless | connect directly with ideal customers so you can build pipeline, shorten your sales cycle, and close more deals. | :grey_question: |
+| [seamless](https://www.seamless.ai/) | seamless | Connect directly with ideal customers so you can build a pipeline, shorten your sales cycle, and close more deals. | :grey_question: |
 
 
 ### Email Assistant
@@ -328,23 +334,25 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 |---|---|---|:---:|
 | [DraftLab](http://draftlab.ai) | Draftlab Ai: Write Better Emails Faster With AI. | Fight writer's block and achieve inbox zero. DraftLab is an AI-powered Gmail copilot that generates high-quality email replies for you. | :grey_question: |
 | [Ellie](http://ellieai.com) | Ellie - Your AI Email Assistant. | Ellie learns from your writing style and crafts replies as if they were written by you. | :grey_question: |
-| [EmailTriager](http://emailtriager.com) | Emailtriager · Email on Autopilot. | At EmailTriager, we build products that do work on your behalf. | :grey_question: |
-| [Intellimail](https://www.intellimail.xyz/) | Your Personal Email Assistant. | IntelliMail is a chrome extension that generates your emails - so you'll never have to write one again. | :white_check_mark: |
-| [Quicklines](http://www.quicklines.ai) | Quicklines Lifetime Access - Only $59. | Quicklines is your new AI powered cold outreach assistant. We help you scale your cold email campaigns with our in-depth social scraping and natural language first-line writing platform. | :x: |
+| [EmailTriager](http://emailtriager.com) | Emailtriager · Email on Autopilot. | At EmailTriager, we build products that work on your behalf. | :grey_question: |
+| [Intellimail](https://www.intellimail.xyz/) | Your Personal Email Assistant. | IntelliMail is a Chrome extension that generates your emails - so you'll never have to write one again. | :white_check_mark: |
+| [Quicklines](http://www.quicklines.ai) | Quicklines Lifetime Access - Only $59. | Quicklines is your new AI-powered cold outreach assistant. We help you scale your cold email campaigns with our in-depth social scraping and natural language first-line writing platform. | :x: |
 | [Rapidreply](http://rapidreply.ai) | Rapid Reply - AI Email Assistant. | Save 30 minutes a day writing emails. | :grey_question: |
 | [Recruiting Emails AI by Dover](http://recruitingemails.ai) | Dover - Generate Customized Recruiting Emails. | . | :grey_question: |
-| [Remail](https://remail.ai/) | Write Emails 10X Faster. | Remail is a Chrome extension for gmail that uses artificial intelligence to draft high quality email replies in seconds. | :white_check_mark: |
-| [Smartwriter](http://www.smartwriter.ai?via=beth0) | Generate 1000S of Personalised Emails That Get You 8X More Replies Within Minutes Using AI. | Never waste time researching or writing 'personalised' emails again. Automate your entire outreach process. 40x faster and 6x cheaper than humans. | :white_check_mark: |
+| [Remail](https://remail.ai/) | Write Emails 10X Faster. | Remail is a Chrome extension for Gmail that uses artificial intelligence to draft high-quality email replies in seconds. | :white_check_mark: |
+| [Smartwriter](http://www.smartwriter.ai?via=beth0) | Generate 1000S of Personalised Emails That Get You 8X More Replies Within Minutes Using AI. | Never waste time researching or writing 'personalized' emails again. Automate your entire outreach process. 40x faster and 6x cheaper than humans. | :white_check_mark: |
 | [Warmer.Ai](http://warmer.ai) | Warmer.Ai - AI Email Writer. | Warmer uses AI email personalization to write your email outreach. Increase replies, meetings and sales with dynamic personalization. | :grey_question: |
 | [superReply](http://superreply.co) | Upgrade Your Email Game. | The Email Response Hack You've Been Waiting For - Easily send effective replies with tailored responses without writing from scratch. | :white_check_mark: |
-| [lavender](https://www.lavender.ai/) | lavender | lavender email assistent helps you get more replies in less time. | :white_check_mark: |
+| [lavender](https://www.lavender.ai/) | lavender | lavender email assistant helps you get more replies in less time. | :white_check_mark: |
 
 
 ### Fashion
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [FashionAdvisorAI](http://www.fashionadvisorai.com) | Fashionadvisor.Ai - Ask Questions & Get Answer'S From Fashionadvisor.Ai. | FashionAdvisor is an AI based on GPT3 which will answer all your fashion related questions instantly for free. | :grey_question: |
-| [Visualhound](http://visualhound.com) | Visualhound - Prototype Your Fashion Design Ideas With AI. | Visualize your product designs before going to production. Create realistic-looking product images to feed your moodboards and boost your design process. | :grey_question: |
+| [FashionAdvisorAI](http://www.fashionadvisorai.com) | Fashionadvisor.Ai - Ask Questions & Get Answer'S From Fashionadvisor.Ai. | FashionAdvisor is an AI based on GPT3 which will answer all your fashion-related questions instantly for free. | :grey_question: |
+| [Visualhound](http://visualhound.com) | Visualhound - Prototype Your Fashion Design Ideas With AI. | Visualize your product designs before going to production. Create realistic-looking product images to feed your mood boards and boost your design process. | :grey_question: |
+| [Resleeve](https://resleeve.ai/) | Unleash Fashion’s Future with Resleeve AI | Instantly Generate Realistic Fashion Designs and Photoshoots with Resleeve’s AI Technology | :white_check_mark: |
+
 
 
 ### Fun
@@ -352,15 +360,15 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 |---|---|---|:---:|
 | [AI Pokemon generator](http://nokemon.eloie.tech) | Generate Fakemon Using AI. | . | :grey_question: |
 | [Ask RBG](http://ask-rbg.ai) | What Would RBG (Probably) Say?. | An AI experiment: Ask Justice Ruth Bader Ginsburg to make a decision about any question your heart desires. The first AI Drop from AI21 Labs. | :white_check_mark: |
-| [Askmybook](http://askmybook.com) | Ask My Book: The Minimalist Entrepreneur. | This is an experiment in using AI to make my book's content more accessible. Ask a question and AI'll answer it in real-time:. | :white_check_mark: |
+| [Askmybook](http://askmybook.com) | Ask My Book: The Minimalist Entrepreneur. | This is an experiment in using AI to make my book's content more accessible. Ask a question and AI'll answer it in real time. | :white_check_mark: |
 | [Botify](http://botif.ai) | Botify AI. | Fun chat with your favorite characters. | :grey_question: |
 | [CharacterAI](http://beta.character.ai) | Character.Ai Lets You Create Characters and Talk to Them. | Characters can be anything. Our breakthrough AI technology can bring all of your ideas to life. | :white_check_mark: |
 | [Excuses AI](http://excuses.ai) | Excuse Generator. | Use AI to generate the perfect professional excuse. | :grey_question: |
 | [Jokelub](http://jokelub.com) | Jokelub. | Bring humor everywhere. | :grey_question: |
 | [Kanye Tweet Generator](http://www.kanyegenerator.com) | Kanye Tweet Generation. | Generate Kanye Tweets using AI. Built by Ryan Doyle. | :grey_question: |
-| [Podcast.ai](http://podcast.ai) | Podcast.Ai. | Welcome to podcast.ai, a podcast that is entirely generated by artificial intelligence. Every week, we explore a new topic in depth, and listeners can suggest topics or even guests and hosts for future episodes. | :grey_question: |
-| [Silly Times](http://www.elbo.ai) | Asimple Drawing App Using AI. | Have a fun time drawing and see what silly thing we make from your drawing.  Magic is just button press away!. | :white_check_mark: |
-| [StoriesForKids](http://www.storiesforkids.ai) | Storiesforkids.Ai: Personalized Kid'S Books Using AI. | Turn real-life situations into fun stories & illustrations in seconds. | :grey_question: |
+| [Podcast.ai](http://podcast.ai) | Podcast.Ai. | Welcome to podcast.ai, a podcast that is entirely generated by artificial intelligence. Every week, we explore a new topic in-depth, and listeners can suggest topics or even guests and hosts for future episodes. | :grey_question: |
+| [Silly Times](http://www.elbo.ai) | Asimple Drawing App Using AI. | Have a fun time drawing and see what silly things we make from your drawing.  Magic is just a button press away! | :white_check_mark: |
+| [StoriesForKids](http://www.storiesforkids.ai) | Storiesforkids.Ai: Personalized Kid's Books Using AI. | Turn real-life situations into fun stories & illustrations in seconds. | :grey_question: |
 | [TextStyler](http://www.textstyler.org) | Re-Write Anything in Fun Styles, Using AI. | . | :grey_question: |
 
 **[⬆ back to index](#index)**
@@ -377,7 +385,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [charisma](https://charisma.ai/) | Power Real-Time Digital Humans. | For Games • Metaverses • VR • Education • TV & Film • Publishing and beyond!. | :grey_question: |
 | [hidden door](https://www.hiddendoor.co/) | Hello, Worlds!. | A new kind of social roleplaying experience, powered by narrative AI. | :grey_question: |
 | [latitude](https://latitude.io/) | The Future of AI-Generated Games. | We&apos;re making AI a tool of creativity and freedom for everyone. | :grey_question: |
-| [texturelab](http://www.texturelab.xyz) | instant and unique 3d textures for your next game. | generate 3d textures for your game in seconds thanks to ai. | :grey_question: |
+| [texturelab](http://www.texturelab.xyz) | instant and unique 3d textures for your next game. | Generate 3D textures for your game in seconds thanks to AI. | :grey_question: |
 
 
 ### Gift Ideas
@@ -386,13 +394,13 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [AI Holiday Cards](http://aiholiday.cards) | AI Holiday Cards. | AI engine to create AI Holiday photorealistic Cards for couples. | :grey_question: |
 | [AIchristmascards](http://aichristmascards.com) | Holiday Cards, Reimagined. | Personalized AI Art Greetings Cards. | :x: |
 | [CoolGiftIdeas](http://www.coolgiftideas.io) | Cool Gift Ideas - AI-Powered Gift Suggestions. | . | :grey_question: |
-| [Elf Help](http://www.elfhelp.ai) | Elf Help. | Need some inspo for your holiday gifting? Elf help is your ultimate gift-giving assistant, offering creative and personalized suggestions for everyone on your list. | :grey_question: |
+| [Elf Help](http://www.elfhelp.ai) | Elf Help. | Need some inspo for your holiday gifting? Elf Help is your ultimate gift-giving assistant, offering creative and personalized suggestions for everyone on your list. | :grey_question: |
 | [Fabled](http://fabled.ai) | The Ultimate AI Story Generator. | Stories created by you, powered by AI. With a single sentence fabled.ai crafts personal illustrated stories, enriched by stunning images. | :white_check_mark: |
 | [Gift Genie](http://www.giftgenie.ai) | Gift Genie AI - Free Personalized Gift Ideas for Christmas, Birthdays, Holidays, Etc!. | Gift Genie AI is an AI-powered that allows you to find the perfect gift in seconds with AI for free. Jot down a brief description of your recipient, and get a list of gifts our AI genie believes will delight them. | :white_check_mark: |
 | [GiftBot](http://www.getgift.help) | Get Gift Help. | Struggling to figure out what to get someone for the holidays? GiftBot asks you questions to help recommend gift ideas!. | :white_check_mark: |
 | [GiftWizard](https://www.giftwizard.ai) | GiftWizard.ai - AI Powered Gift Inspiration. | GiftWizard is your friendly helper from the future, here to guide you through getting the most magical gift. | :white_check_mark: |
-| [Giftastic AI](http://giftastic.ai) | Giftastic.Ai - Perfect Gift for Your Special One!. | Personalised gift ideas for every occasion!. | :grey_question: |
-| [Lovelines](http://lovelines.xyz?ref=ai-collection) | Lovelines.Xyz - Share Your Love With Custom Keepsakes Made by AI. | Create custom keepsakes for a loved one using AI that are optimized for social media. AI-generated poems, stories, letters, and song lyrics. | :x: |
+| [Giftastic AI](http://giftastic.ai) | Giftastic.Ai - Perfect Gift for Your Special One!. | Personalised gift ideas for every occasion! | :grey_question: |
+| [Lovelines](http://lovelines.xyz?ref=ai-collection) | Lovelines.Xyz - Share Your Love With Custom Keepsakes Made by AI. | Create custom keepsakes for a loved one using AI that is optimized for social media. AI-generated poems, stories, letters, and song lyrics. | :x: |
 | [Text2present](http://text2present.com) | Text2Present.Com - Creative Presents From Busy People. | Allows you to create creative customized presents using artificial intelligence for your friends, family and acquaintances without taking your precious time. Simply enter a text description of what you want to gift and let our artificial intelligence do the rest. | :grey_question: |
 
 
@@ -403,7 +411,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [Replika](http://replika.com) | The AI Companion Who Cares. | Always here to listen and talk. Always on your side. Join the millions growing with their AI friends now!. | :grey_question: |
 | [Ubie AI Symptom Checker](http://ubiehealth.com) | Check Symptoms & Find Causes by AI. | Check Symptoms & Find Causes by AI - Answer quiz about your symptoms to find out possible causes, types, severity, and treatment for free by AI. Developed by doctors. | :white_check_mark: |
 | [ada](https://ada.com/) |  health.
-powered by ada. | supporting better health outcomes and clinical excellence with intelligent technology. | :grey_question: |
+powered by ada. | Supporting better health outcomes and clinical excellence with intelligent technology. | :grey_question: |
 | [tess by x2ai](https://www.x2ai.com/) | therapist in your pocket | affordable mental health access with proven results | :grey_question: |
 | [slepp ai](https://sleep.ai/) | slepp ai | diagnose snoring and tooth grinding with your phone. | :grey_question: |
 | [aerial](https://aerial.ai/) | aerial | home activity, movement and identity sensor | :x: |
@@ -416,13 +424,13 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Cover Letter AI](https://coverletterai.app/) | Cover Letter AI. | . | :white_check_mark: |
-| [Hire Hoc](http://hirehoc.com) | Hire Hoc - The AI Powered Hiring Tool. | Transform Your Organization with the Power of AI-Assisted Recruiting. | :grey_question: |
+| [Hire Hoc](http://hirehoc.com) | Hire Hoc - The AI-Powered Hiring Tool. | Transform Your Organization with the Power of AI-Assisted Recruiting. | :grey_question: |
 | [HireYaY](http://hireyay.com) | Hireyay, a Hiring Platform for Startups. | 92% of job seekers do not finish their online application. With HireYaY, you will never miss a qualified candidate again. | :grey_question: |
-| [Hirex.ai](http://www.hirex.ai) | Hirex.Ai. | Welcome to hirex.ai, a no-code AI platform to build voice-based bots that conduct and score interviews at scale. Get the complete suite of assessments tools like coding interviews, MCQ tests, hackathons, video interviews, and WhatsApp chatbots all under single dashboard. | :grey_question: |
+| [Hirex.ai](http://www.hirex.ai) | Hirex.Ai. | Welcome to hirex.ai, a no-code AI platform to build voice-based bots that conduct and score interviews at scale. Get the complete suite of assessment tools like coding interviews, MCQ tests, hackathons, video interviews, and WhatsApp chatbots all under a single dashboard. | :grey_question: |
 | [JD Generator](http://hirequotient.com) | Meet the Team - Hirequotient. | HireQuotient&apos;s Skill Assessment Platform helps you hire the top 10% of the talent pool in half the time. | :grey_question: |
-| [LazyApply](http://lazyapply.com) | Automate Your Job Application Process. | We automatically apply to all the jobs on platforms like Linkedin, Indeed and Ziprecruiter. | :x: |
+| [LazyApply](http://lazyapply.com) | Automate Your Job Application Process. | We automatically apply to all the jobs on platforms like Linkedin, Indeed and ZipRecruiter. | :x: |
 | [Resume Worded](http://resumeworded.com) | Improve Your Resume and Linkedin Profile. | Designed by top recruiters, our AI-powered platform instantly gives you tailored feedback on your resume and LinkedIn profile. Land 5x more interviews, opportunities and job offers. | :white_check_mark: |
-| [rankode](http://www.rankode.ai) | AI for Human Resources - Rankode. | Recruiters, everything you need to know about a candidate's programming skills is in their GitHub. Evaluate them automatically with Rankode to avoid expensive hiring mistakes and superboost your retention. | :grey_question: |
+| [rankode](http://www.rankode.ai) | AI for Human Resources - Rankode. | Recruiters, everything you need to know about a candidate's programming skills is in their GitHub. Evaluate them automatically with Rankode to avoid expensive hiring mistakes and super boost your retention. | :grey_question: |
 | [springworks](http://www.springworks.in) | Hr Software Solutions for Growing Businesses. | Springworks builds human resources software solutions to solve challenges in recruitment, background verification & employee engagement with Blockchain and AI. | :white_check_mark: |
 
 
@@ -434,6 +442,8 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [PatentPal](http://patentpal.com) | Generative AI for Intellectual Property. | Automate mechanical writing in your patent applications. | :white_check_mark: |
 | [Spellbook](https://www.spellbook.legal/) | Draft Contracts 3X Faster With AI. | Spellbook uses GPT-3 to review and suggest language for your contracts, right in Microsoft Word. | :grey_question: |
 | [AI Lawyer](https://ailawyer.pro/) | AI Lawyer | Personal AI lawyer at your fingertips | :x: |
+| [Legaliser](https://www.legaliser.com/) | Contract Analysis with Legal AI. | With Legaliser's AI legal assistant, upload and analyze contracts or create new ones swiftly. | :white_check_mark: |
+
 
 **[⬆ back to index](#index)**
 
@@ -442,24 +452,24 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 |---|---|---|:---:|
 | [Logo Rank](http://brandmark.io) | Brandmark Logo Maker - The Most Advanced AI Logo Design Tool. | . | :grey_question: |
 | [Looka](https://looka.grsm.io/jscfk35v34tn) | Free Logo Maker & Intelligent Brand Designer. | Make a logo and build a brand you love with Looka. | :white_check_mark: |
-| [Make Logo AI](https://makelogo.ai/) | Makelogo.Ai: Get the Perfect Logo for Your Startup. | Generate beautiful and unique logos for your startup, powered by Artifical Intelligence. | :x: |
-| [Text To Book Cover](http://stockimg.ai) | AI Image Generation for Teams - You Can Easily Generate AI Logo, AI Book Covers, AI Posters and More - Stockimg AI. | AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI. | :grey_question: |
+| [Make Logo AI](https://makelogo.ai/) | Makelogo.Ai: Get the Perfect Logo for Your Startup. | Generate beautiful and unique logos for your startup, powered by Artificial Intelligence. | :x: |
+| [Text To Book Cover](http://stockimg.ai) | AI Image Generation for Teams - You Can Easily Generate AI Logo, AI Book Covers, AI Posters and More - Stockimg AI. | AI image generation for teams - You can easily generate AI logos, AI book covers, AI posters and more - Stockimg AI. | :grey_question: |
 
 
 ### Music & Audio Generation
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Adobe Podcast](http://podcast.adobe.com) | Adobe Podcast - AI Audio Recording and Editing, All on the Web. | An audio tool for people with stories to tell. | :grey_question: |
-| [Assemblyai](http://www.assemblyai.com) | #1 Api Platform for AI Models. | Automatically convert audio and video files and live audio streams to text with AssemblyAI's Speech-to-Text APIs. Do more with Audio Intelligence - summarization, content moderation, topic detection. | :grey_question: |
-| [Cleanvoice AI](http://cleanvoice.ai) | Get Rid of Filler Words From Your Audio Recordings. | Cleanvoice is an artificial intelligence which removes filler sounds, stuttering and mouth sounds from your podcast or audio recording. | :grey_question: |
+| [Assemblyai](http://www.assemblyai.com) | #1 Api Platform for AI Models. | Automatically convert audio and video files and live audio streams to text with AssemblyAI's Speech-to-Text APIs. Do more with Audio Intelligence - summarization, content moderation, and topic detection. | :grey_question: |
+| [Cleanvoice AI](http://cleanvoice.ai) | Get Rid of Filler Words From Your Audio Recordings. | Cleanvoice is an artificial intelligence that removes filler sounds, stuttering and mouth sounds from your podcast or audio recording. | :grey_question: |
 | [Clip audio](http://www.clip.audio) | Clip - AI Audio Search Engine. | The audio search engine. | :grey_question: |
 | [Emergent Drums](http://audialab.com?ref=beth0) | Generate Unique Drum Samples Using Artificial Intelligence. | Use our breakthrough plugin to generate endless drum samples, all royalty-free. | :x: |
 | [Krisp](http://krisp.ai) | World&Apos;S #1 Noise Cancelling App - Krisp. | Krisp&apos;s AI removes background voices, noises and echo from all your calls, giving you peace of mind. | :white_check_mark: |
 | [LALAL.AI Voice Cleaner](http://www.lalal.ai/?fp_ref=beth0) | Extract Vocal, Accompaniment and Various Instruments From Any Audio and Video. | High-quality stem splitting based on the world's #1 AI-powered technology. | :grey_question: |
-| [Musico](http://www.musi-co.com) | Musico - AI Generative Music. | Musico is an AI-driven software engine that generates music. It can react to gesture, movement, code or other sound. | :grey_question: |
+| [Musico](http://www.musi-co.com) | Musico - AI Generative Music. | Musico is an AI-driven software engine that generates music. It can react to gestures, movements, code or another sound. | :grey_question: |
 | [Quasi Music](https://quasi.market/radio/) | Create Brand-New Beats. | Unleash your inner musician with Quasi's AI-powered music creation tool. Create never-before-heard sounds and remix classic artists with ease. | :white_check_mark: |
 | [Riffusion](http://www.riffusion.com) | Riffusion. | Stable diffusion for real-time music generation. | :white_check_mark: |
-| [Soundraw](http://soundraw.io) | Stop Searching for the Song You Need. Create It. | Royalty-free music, AI generated for you. | :white_check_mark: |
+| [Soundraw](http://soundraw.io) | Stop Searching for the Song You Need. Create It. | Royalty-free music, AI-generated for you. | :white_check_mark: |
 | [Descript](https://www.descript.com/) | Descript | All-in-one video editing, as easy as a doc. | Descript is the only tool you need to write, record, transcribe, edit, collaborate, and share your videos and podcasts. | :white_check_mark: |
 
 
@@ -467,7 +477,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [BuildAI](http://www.buildai.space) | Build AI Interfaces in Minutes. | Enter the description of an app that outputs text based on user text input, and we will BUILD IT FOR YOU!. | :grey_question: |
-| [Hexowatch](http://hexact.pxf.io/beth0) | Beyond Availability and Prices, 3Rd Party Websites as a Data Source, Visual Website Monitoring, Competitor Tracking. | Hexowatch is your AI sidekick to monitor any website for visual, content, source code, technology, availability, or price changes. | :x: |
+| [Hexowatch](http://hexact.pxf.io/beth0) | Beyond Availability and Prices, 3Rd Party Websites as a Data Source, Visual Website Monitoring, Competitor Tracking. | Hexowatch is your AI sidekick to monitor any website for visuals, content, source code, technology, availability, or price changes. | :x: |
 | [KUBIYA](http://kubiya.ai/) | Devops Virtual Assistant. | Provide developers secure, self-serve access to operational workflows, cloud resources and organizational knowledge with conversational AI. | :grey_question: |
 | [Product Launch AI](https://shapenship.com/productlaunchai) | Unleash the Power of AI to Supercharge Your Product Launches. | Blast off to a great launch without worrying about launch copy!. | :grey_question: |
 | [bardeen](https://www.bardeen.ai/ai) | AI Meets Automations. | Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity. | :grey_question: |
@@ -489,7 +499,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [ImgCreator](https://www.imgcreator.ai/) | ImgCreator | Creating images with text. Generate text-based images to help you think and create | :white_check_mark: |
 | [Imgupscaler](http://imgupscaler.com) | Smart PNG / JPG Image Upscaler. | Upscale and enhance your image by using the latest AI technology. | :grey_question: |
 | [Magic Eraser](http://magicstudio.com) | Magic Studio - Powered by Ai, Created by You. | Magic Studio helps you automatically edit and create images, using AI. | :grey_question: |
-| [Palette](http://palette.fm) | Palette - Colorize Photos. | A new AI colorizer. Colorize anything from old black and white photos ð¸, style your artworks ð¨, or give modern images a fresh look ð¶. It's as simple as instagram. | :white_check_mark: |
+| [Palette](http://palette.fm) | Palette - Colorize Photos. | A new AI colorizer. Colorize anything from old black-and-white photos¸, style your artwork¨, or give modern images a fresh look¶. It's as simple as Instagram. | :white_check_mark: |
 | [ImageColorizer](https://imagecolorizer.com) | ImageColorizer | We use AI technology to restore old photos automatically | :white_check_mark: |
 | [PhotoFix](http://photofix.io) | Photofix - Magically Edit Photos With AI. | . | :grey_question: |
 | [Photorestoration](http://photorestoration.ai) | Old Photo Restoration Online - Photorestoration.Ai. | . | :grey_question: |
@@ -504,7 +514,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [jpgRM](http://jpgrm.com) | JPGRM - AI Image Magic Cleanup. | Using 2022 cutting edged AI model to remove any unwanted objects from your images, automatically fill the background. | :grey_question: |
 | [jpghd](http://jpghd.com) | JPGHD - Lossless Restoration of Old Photos With AI. | Using 2022 cutting-edge AI models for lossless restoration of old photos (supports old, scratched photo restoration, colorization, and Magic Photo). | :grey_question: |
 | [paintbytext](https://paintbytext.chat) | Paint by Text. | paintbytext - Edit your photos using written instructions, with the help of an AI. | :white_check_mark: |
-| [InstructPix2Pix](https://www.timothybrooks.com/instruct-pix2pix) | We propose a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image. To obtain training data for this problem, we combine the knowledge of two large pretrained models to generate a large dataset of image editing examples. | . | :white_check_mark: |
+| [InstructPix2Pix](https://www.timothybrooks.com/instruct-pix2pix) | We propose a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image. To obtain training data for this problem, we combine the knowledge of two large pre-trained models to generate a large dataset of image editing examples. | . | :white_check_mark: |
 
 
 ### Plugins & Extensions
@@ -529,9 +539,9 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 ### Sales & Marketing
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [Altera AI](http://www.altera.ai) | Abetter Way to Sell on Linkedin. | Get more leads and close more deals with Altera, the AI sales assistant that generates hyper personalised comments, inmails and posts on LinkedIn. | :white_check_mark: |
-| [Briefly](http://www.trybriefly.com) | Briefly - The AI Powered Briefing Platform. | Marketing briefs that get to the best creative work. Improve your marketing effectiveness and reduce the cost of badly written briefs. | :grey_question: |
-| [Clickable](http://www.clickable.so) | Generate Ads in Seconds With AI. | Beautiful, brand-consistent, and highly converting ads for all marketing channels. No design experience needed. | :grey_question: |
+| [Altera AI](http://www.altera.ai) | Abetter Way to Sell on Linkedin. | Get more leads and close more deals with Altera, the AI sales assistant that generates hyper-personalised comments, emails and posts on LinkedIn. | :white_check_mark: |
+| [Briefly](http://www.trybriefly.com) | Briefly - The AI-Powered Briefing Platform. | Marketing briefs that get to the best creative work. Improve your marketing effectiveness and reduce the cost of badly written briefs. | :grey_question: |
+| [Clickable](http://www.clickable.so) | Generate Ads in Seconds With AI. | Beautiful, brand-consistent, and highly converting ads for all marketing channels. No design experience is needed. | :grey_question: |
 | [Copy.ai](http://www.copy.ai?via=beth0) | Write Better Marketing Copy and Content With AI. | Say goodbye&apos; to the blank page for good. | :white_check_mark: |
 | [Cuetap.com](https://cuetap.com/) | AI & CI Powred Sales Battlecards. | AI-powered platform provides automagical Battlecards and actionable Competitive Intelligence. | :white_check_mark: |
 | [GetResponse](http://www.getresponse.com) | Getresponse - Professional Email Marketing for Everyone. | Powerful, simplified tool to send emails, create pages, and automate your marketing. | :white_check_mark: |
@@ -540,8 +550,8 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [Octie.ai](http://octie.ai) | Octie.Ai - Your A.I. Ecommerce Marketing Assistant. | Write emails, product descriptions, and more, with A.I. Created by Octane AI. | :grey_question: |
 | [SaleWhale](http://salewhale.chat) | Sale Whale - AI-Powered Sales Rep Chatbot. | We provide impossibly good Sales Rep and Customer Support Chatbots, using the world's best available AI models. Learn how it will improve your business. | :grey_question: |
 | [Speaq.ai](https://www.speaq.ai/) | Ready Made Conversional AI for Your Business. | Our mission is to revolutionize B2B marketing and customer support with artificial intelligence. Effortlessly schedule meetings and verify attendance with AI. Streamline your survey process with AI conversational calls. | :grey_question: |
-| [unbounce](http://unbounce.com) | Smart Marketing Tools to Grow Your Business. | Turn more of your visitors into customers. Unbounce is the AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes. | :x: |
-| [Akkio](https://www.akkio.com/) | Akkio, Modern Business Runs on AI | Use your data to predict the future. Akkio is an easy-to-use, scalable, and affordable no-code AI platform for real-time decision making. | :x: |
+| [unbounce](http://unbounce.com) | Smart Marketing Tools to Grow Your Business. | Turn more of your visitors into customers. Unbounce is an AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes. | :x: |
+| [Akkio](https://www.akkio.com/) | Akkio, Modern Business Runs on AI | Use your data to predict the future. Akkio is an easy-to-use, scalable, and affordable no-code AI platform for real-time decision-making. | :x: |
 | [Reply](https://reply.io/) | Reply: Get more meetings in a click | Reply is your all-in-one sales engagement platform to create new opportunities at scale while keeping every touchpoint personal | :x: |
 | [Filtpod](https://filtpod.com/engage-ai/) | Filtpod | Empower Introverts, SMB Owners, and BDMs with AI in building relationships on LinkedIn  | :white_check_mark: |
 | [Howler](https://www.howler.media/) | Howler | Use Howler to run automated PR campaigns to relevant journalists in your niche  | :x: |
@@ -567,10 +577,10 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [Durable](http://durable.co) | Durable: AI Website Builder and Service Business Software. | . | :grey_question: |
 | [Magician](http://magician.design) | Magician for Figma. | A magical design tool for Figma powered by AI. | :grey_question: |
 | [Piggy](https://piggy.to/magic) | Mobile Content Creator. | Creating stunning content on your phone just got easy. | :white_check_mark: |
-| [SlidesAI](https://www.slidesai.io/) | Create Presentation Slides With AI in Seconds. | Say goodbye to tedious, manual slides creation. Let the AI write the outline and presentation content for you. With our tool, you can easily create professional, engaging slides from any text in no time. | :white_check_mark: |
+| [SlidesAI](https://www.slidesai.io/) | Create Presentation Slides With AI in Seconds. | Say goodbye to tedious, manual slide creation. Let the AI write the outline and presentation content for you. With our tool, you can easily create professional, engaging slides from any text in no time. | :white_check_mark: |
 | [Tome](http://beta.tome.app) | Generative Storytelling Has Arrived. | Unlock your best work with Tome's AI-powered storytelling format. | :white_check_mark: |
-| [GPT for Slides](https://www.gptforslides.app/) | GPT for Slides | GPT for Slides is a Google Slide add-on is AI-Powered Text To Presentation Tool that summarizes and creates presentation slides from any piece of text. | :white_check_mark: |
-| [Makemytale](https://makemytale.com) | Makemytale | The AI-generated kids books on this website are intended for entertainment and creative inspiration only. | :grey_question: |
+| [GPT for Slides](https://www.gptforslides.app/) | GPT for Slides | GPT for Slides is a Google Slide add-on is an AI-powered Text Presentation Tool that summarizes and creates presentation slides from any piece of text. | :white_check_mark: |
+| [Makemytale](https://makemytale.com) | Makemytale | The AI-generated kid's books on this website are intended for entertainment and creative inspiration only. | :grey_question: |
 
 
 ### Social Networks & Dating
@@ -697,19 +707,19 @@ TTSMaker is an online text-to-speech tool that can convert text to audio, and yo
 | [AI Host](https://livereacting.sjv.io/beth0) | Run Interactive Live Streams. | LiveReacting helps you get more followers and engagement by adding pre-recorded videos, games, countdowns, and polls to your stream. | :x: |
 | [Boolpic](http://boolv.tech) | An Intelligent Video Platform That Empowers Brands. | Generate on-brand videos 10X faster with AI to boost marketing performance. | :grey_question: |
 | [D-ID's Creative Reality Studio](https://www.d-id.com/) | Future-Facing Generative AI. | Produce customized videos featuring talking avatars at a touch of a button, giving businesses and creators superpowers. | :white_check_mark: |
-| [Deepfakesweb](http://deepfakesweb.com) | Make Your Own Deepfakes. | Our easy to use deepfake app uses AI and Deep Learning to generate amazing face swap videos. Make your own deepfake video today. | :grey_question: |
+| [Deepfakesweb](http://deepfakesweb.com) | Make Your Own Deepfakes. | Our easy-to-use deepfake app uses AI and Deep Learning to generate amazing face swap videos. Make your own deepfake video today. | :grey_question: |
 | [Elai](http://elai.io) | Create AI Videos From Just Text. | Build customized AI videos with a presenter in minutes without using a camera, studio and a greenscreen. | :white_check_mark: |
 | [FilmForge](http://filmforge.uwu.ai) | Filmforge AI. | Instantly generate engaging videos. Captions, voiceover, transcript, and graphics included. | :grey_question: |
 | [Fliki](http://fliki.ai?via=beth0) | Turn Text Into Videos With AI Voices. | Create videos from scripts or blog posts using realistic voices in 2 minutes!. | :white_check_mark: |
 | [Gling](http://www.gling.ai) | Creator, Get Your Time Back. | Our AI will cut silences and bad takes for you so you can focus on your YouTube videos. | :grey_question: |
-| [Move](https://www.move.ai/) | Move AI. | Capture high quality motion data from video in any environment using mobile phones. | :grey_question: |
-| [Pictory](http://pictory.ai?ref=milana31) | Video Creation Made Easy. | Automatically create short, highly-sharable branded videos from your long form content. | :grey_question: |
+| [Move](https://www.move.ai/) | Move AI. | Capture high-quality motion data from video in any environment using mobile phones. | :grey_question: |
+| [Pictory](http://pictory.ai?ref=milana31) | Video Creation Made Easy. | Automatically create short, highly sharable branded videos from your long form content. | :grey_question: |
 | [Story Bard](http://www.storybard.co) | Video Stories Generated by AI. | . | :grey_question: |
 | [Supercreator AI](http://www.supercreator.ai) | Supercreator.Ai Â¢ Create Videos 10X Faster With AI. | . | :grey_question: |
 | [Waymark](http://waymark.com) | Boost Local Sales With Unbelievably Easy Video. | When TV, CTV, and digital ads are this effortless, the possibilities are limitless. High-impact ads are now open to everyone, with Waymark. | :grey_question: |
 | [Wzrd.ai](http://wzrd.ai) | Experience Your Sound. | WZRD augments your audio with immersive video powered by artificial intelligence. | :grey_question: |
 | [adobe sensei](https://www.adobe.com/sensei/creative-cloud-artificial-intelligence.html) | adobe sensei | you were hired to create, not to spend hours on end searching for stock photos or tagging videos. with adobe sensei taking care of everything from organizing, editing, and producing, you can focus your energy on what you actually love — ideating, experimenting, and creating. | :grey_question: |
-| [nvidia ai demos](https://www.nvidia.com/en-us/research/ai-demos/) | nvidia ai demos | experience ai in action from nvidia research | :grey_question: |
+| [nvidia ai demos](https://www.nvidia.com/en-us/research/ai-demos/) | Nvidia ai demos | experience ai in action from nvidia research | :grey_question: |
 | [Gen-1](https://research.runwayml.com/gen1) | Gen-1: The Next Step, Forward for Generative AI | Use words and images to generate new videos out of existing ones. | :grey_question: |
 | [Shuffll](https://shuffll.com/) | Shuffll | Taking you from zero to fully produced videos | :x: |
 
@@ -717,7 +727,6 @@ TTSMaker is an online text-to-speech tool that can convert text to audio, and yo
 ### Writing Assistant
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [Writery AI](https://aiwritery.com) | Writery AI: SEO-friendly AI Writing Generators & AI Writer. | Generate blog outline/blog headline/blog introduction/blog ideas,expand an article outline, revise language, rephrase or summarize text, generate abstracts, enhance sentence structure, and perform other functions. | :white_check_mark: |
 | [AI Lyrics Generator](http://theselyricsdonotexist.com) | Artificial Intelligence Songwriter – These Lyrics Do Not Exist. | Generate your own song lyrics for any topic, also choose lyrics genre and lyrics mood. | :grey_question: |
 | [AI-Writer](http://ai-writer.com) | AI Writer™ - The Best AI Text Generator, Promised. | AI-Writer is the most accurate content generation platform, using state-of-the-art AI writing models to generate articles from just a headline. | :grey_question: |
 | [AIKIt](http://getaikit.com) | Aikit - Your Wordpress AI Assistant Using GPT-3. | . | :grey_question: |
@@ -735,11 +744,12 @@ TTSMaker is an online text-to-speech tool that can convert text to audio, and yo
 | [Rytr](http://rytr.me) | Rytr - Best AI Writer, Content Generator & Writing Assistant. | . | :grey_question: |
 | [SmartScribe](http://www.smartscribe.app) | Smartscribe - AI Writing Assistant - Writing Made Easy. | SmartScribe helps solve the complexities of writing through the use of Artificial Intelligence. | :grey_question: |
 | [Thundercontent](http://thundercontent.com) | Write Articles With AI-Assistant — Thundercontent. | Thundercontent uses artificial intelligence to help you write unique articles on any topic at the speed of light. Scale your content strategy. Overcome writer's block. | :grey_question: |
-| [Typly](http://typly.app) | Typly - Conversation Level Next!. | Typly is the ultimate cutting edge AI keyboard that helps you to answer all your messages with a single click!🚀. | :grey_question: |
+| [Typly](http://typly.app) | Typly - Conversation Level Next!. | Typly is the ultimate cutting-edge AI keyboard that helps you to answer all your messages with a single click!🚀. | :grey_question: |
 | [WebCopilot](http://www.webcopilot.co) | Webcopilot.Co ~ Notion AI Writing Assistant. | Write your Notion pages with AI. Speed up your writing process and focus on what matters. Free Forever. | :white_check_mark: |
-| [Whiskey AI](http://beta.whiskeyai.xyz) | Whiskey Will Help You Generate the Content You Want. | Whiskey has been designed for students, journalists and professionals to be able to express their thoughts into well-written text formats with minimal effort and time. | :white_check_mark: |
+| [Whiskey AI](http://beta.whiskeyai.xyz) | Whiskey Will Help You Generate the Content You Want. | Whiskey has been designed for students, journalists and professionals to be able to express their thoughts in well-written text formats with minimal effort and time. | :white_check_mark: |
 | [Wordtune](http://www.wordtune.com) | Wordtune - Your Personal Writing Assistant & Editor. | . | :grey_question: |
 | [Writefull Academizer](http://x.writefull.com) | Writefull X: AI Applied to Academic Writing. | . | :grey_question: |
+| [Writery AI](https://aiwritery.com) | Writery AI: SEO-friendly AI Writing Generators & AI Writer. | Generate blog outline/blog headline/blog introduction/blog ideas, expand an article outline, revise language, rephrase or summarize text, generate abstracts, enhance sentence structure, and perform other functions. | :white_check_mark: |
 
 
 ### Other
@@ -752,19 +762,19 @@ TTSMaker is an online text-to-speech tool that can convert text to audio, and yo
 | [ai lyrics generator](http://theselyricsdonotexist.com) | artificial intelligence songwriter – these lyrics do not exist. | generate your own song lyrics for any topic, also choose lyrics genre and lyrics mood. | :grey_question: |
 | [ai profile pictures](http://www.aiprofilepictures.com) | ai profile pictures. | now available in beta. | :grey_question: |
 | [josh](https://www.josh.ai/) | josh | josh is a home’s best friend. and like a dog, josh is intelligent, responsive, and learns his owner’s commands. while other smart home control systems only know one trick, josh combines all aspects of smart homes into one friendly, well-trained responder. josh is your companion, and always happy to see you come home.  | :x: |
-| [ai two](http://aitwo.co/) | aitwo.co - the ai-powered all-in-one design platform. | . | :grey_question: |
+| [ai two](http://aitwo.co/) | aitwo.co - the AI-powered all-in-one design platform. | . | :grey_question: |
 | [ACT-1](https://www.adept.ai/act) | ACT-1 | ACT-1 is a large-scale Transformer trained to use digital tools — among other things, we recently taught it how to use a web browser. | :grey_question: |
 | [ai time machine](http://www.myheritage.ro) | arbore genealogic gratuit, genealogie şi istoric de familie - myheritage. | . | :grey_question: |
 | [ai trip planner](http://www.buildai.space) | build ai. | . | :grey_question: |
-| [ai movie club](http://www.ai-movie.club) | ai-movie club. | ai-movie club is a social network that create movies with artificial intelligence!. | :grey_question: |
+| [ai movie club](http://www.ai-movie.club) | ai-movie club. | ai-movie club is a social network that creates movies with artificial intelligence!. | :grey_question: |
 | [ava](http://www.ava.me) | professional & ai-based captions for deaf & hoh - ava. | . | :grey_question: |
-| [briefly](http://www.trybriefly.com) | briefly - the ai powered briefing platform. | marketing briefs that get to the best creative work. improve your marketing effectiveness and reduce the cost of badly written briefs. | :grey_question: |
+| [briefly](http://www.trybriefly.com) | briefly - the AI-powered briefing platform. | marketing briefs that get to the best creative work. improve your marketing effectiveness and reduce the cost of badly written briefs. | :grey_question: |
 | [deepl](http://www.deepl.com) | deepl translate: the world's most accurate translator. | . | :grey_question: |
 | [dream](http://dream.ai) | dream by wombo. | . | :grey_question: |
 | [durable](http://durable.co) | durable: ai website builder and service business software. | . | :grey_question: |
 | [durable ai site builder](http://durable.co) | durable: ai website builder and service business software. | . | :grey_question: |
-| [eliv](http://chrome.google.com) | google chrome - download the fast, secure browser from google. | . | :grey_question: |
-| [elektrif](http://www.elektrif.ai) | your 🤖 powered dating assistant. | the first suite of ai-powered tools to supercharge your dating life ⚡️. | :grey_question: |
+| [eliv](http://chrome.google.com) | Google Chrome - download the fast, secure browser from Google. | . | :grey_question: |
+| [elektrif](http://www.elektrif.ai) | your 🤖 powered dating assistant. | the first suite of AI-powered tools to supercharge your dating life ⚡️. | :grey_question: |
 | [AI Content Generator](http://yep.so) | Yep.So - From Idea to Signups in 15 Minutes. | . | :grey_question: |
 | [AI Data Sidekick](http://www.airops.com) | Airops - Data Unlocked. 10X Faster With Ai. | . | :grey_question: |
 | [AI Image Upscaler](http://www.upscale.media) | AI Image Upscaler - Enlarge & Enhance Your Photos for Free. | Upscale your image to 2x or 4x without losing any textures or details with our AI tool. Use our super-resolution tool and bring new life to your images. | :white_check_mark: |
@@ -1143,7 +1153,7 @@ TTSMaker is an online text-to-speech tool that can convert text to audio, and yo
 | [wellsaid](http://wellsaidlabs.com) | . | . | :grey_question: |
 | [whiskey ai](http://beta.whiskeyai.xyz) | . | . | :grey_question: |
 | [Aleph Alpha](https://www.aleph-alpha.com/) | Aleph Alpha | Pioneering sovereign, European AI technology to transform human-machine interaction that can find solutions for the challenges of tomorrow. | :grey_question: |
-| [Lobe](https://www.lobe.ai/) | Lobe | Lobe helps you train machine learning models with a free, easy to use tool. | :grey_question: |
+| [Lobe](https://www.lobe.ai/) | Lobe | Lobe helps you train machine learning models with a free, easy-to-use tool. | :grey_question: |
 | [Siwalu Software](https://siwalusoftware.com/) | Siwalu Software | Siwalu develops AI-based image recognition. Our apps are a smart mobile solution to better understand animals and to learn about the diversity of nature. | :white_check_mark: |
 
 **[⬆ back to index](#index)**
@@ -1154,7 +1164,6 @@ TTSMaker is an online text-to-speech tool that can convert text to audio, and yo
 |---|---|---|:---:|
 | [emma](https://www.emma.ai/) | automatically calculates and adds meeting travel time | driving time added to your calendar, automatically  | :x: |
 | [spatial](https://www.spatial.ai/) | reveal the social layer of cities | predict and influence customer behavior with the world's first real-time social media segmentation system.  | :x: |
-| [iplan](https://iplan.ai/) | iplan | your smart travel planner  | :white_check_mark: |
 
 
 **[⬆ back to index](#index)**
@@ -1163,13 +1172,13 @@ TTSMaker is an online text-to-speech tool that can convert text to audio, and yo
 ### finance
 | name | title | description | offer free version |
 |---|---|---|:---:|
-| [abe.ai](https://www.abe.ai/) | artificial intelligence to enhance your customers’ digital banking experience | abe.ai gives financial institutions the ultimate solution by delivering pre-built, white-label virtual financial assistants or a conversational ai platform allowing them to engage customers in the language and channels they prefer.  | :x: |
-| [bond](https://bond.ai/) | bond.ai | powered by the world's first empathy engine®, the bond network is a first-of-its-kind network of financial institutions and employers for truly interconnected finance. it provides singular tools to boost the profitability of your institution and your peoples’ financial health on one supercharged network.  | :x: |
+| [abe.ai](https://www.abe.ai/) | Artificial intelligence to enhance your customers’ digital banking experience | abe.ai gives financial institutions the ultimate solution by delivering pre-built, white-label virtual financial assistants or a conversational ai platform allowing them to engage customers in the language and channels they prefer.  | :x: |
+| [bond](https://bond.ai/) | bond.ai | powered by the world's first empathy engine®, the bond network is a first-of-its-kind network of financial institutions and employers for truly interconnected finance. it provides singular tools to boost the profitability of your institution and your people’s financial health on one supercharged network.  | :x: |
 | [stockpredictionai](https://github.com/borisbanushev/stockpredictionai) | ai to predict stock market movements | a complete process for predicting stock price movements  | :white_check_mark: |
 | [finrl](https://github.com/ai4finance-foundation/finrl-trading) | finrl for trading | a deep reinforcement learning library for automated stock trading in quantitative finance. | :white_check_mark: |
 | [openai gym](https://github.com/hackthemarket/gym-trading) | openai gym environment for trading | environment for reinforcement-learning algorithmic trading models. | :white_check_mark: |
-| [sgx-full-orderbook-tick-data-trading-strategy](https://github.com/rorysroes/sgx-full-orderbook-tick-data-trading-strategy) | modeling high-frequency limit order book dynamics using machine learning |  providing the solutions for high-frequency trading (hft) strategies using data science approaches (machine learning) on full orderbook tick data. | :white_check_mark: |
-| [quant-trading](https://github.com/je-suis-tm/quant-trading) | python quantitative trading strategies. |  python quantitative trading strategies including vix calculator, pattern recognition, commodity trading advisor, monte carlo, options straddle, shooting star, london breakout, heikin-ashi, pair trading, rsi, bollinger bands, parabolic sar, dual thrust, awesome, macd  | :white_check_mark: |
+| [sgx-full-orderbook-tick-data-trading-strategy](https://github.com/rorysroes/sgx-full-orderbook-tick-data-trading-strategy) | modeling high-frequency limit order book dynamics using machine learning |  providing the solutions for high-frequency trading (hft) strategies using data science approaches (machine learning) on full order book tick data. | :white_check_mark: |
+| [quant-trading](https://github.com/je-suis-tm/quant-trading) | python quantitative trading strategies. |  python quantitative trading strategies including vix calculator, pattern recognition, commodity trading advisor, Monte Carlo, options straddle, shooting star, London breakout, heikin-ashi, pair trading, rsi, Bollinger bands, parabolic sar, dual thrust, awesome, macd  | :white_check_mark: |
 
 
 ### Detecting AI
