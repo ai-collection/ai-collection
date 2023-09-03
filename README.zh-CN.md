@@ -419,6 +419,7 @@
 | [AvatarAI](http://avatarai.me?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创建您自己的逼真 AI 头像. | 从 112 多种不同的风格中选择，变身为. | :x: |
 | [Avatarize.club](http://avatarize.club?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创建高质量的 AI 生成头像. | 由 Stable Diffusion 2.1 提供支持的专业照片、社交媒体 DP、游戏头像、约会资料照片等. | :x: |
 | [Avtrs](http://www.avtrs.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 快乐用户创建的头像. | 怎么运行的？ 1. 上传一些您（或其他人）不同角度的自拍照。 2. 稍等 - 在我们根据您的照片建造您的工作室时喝杯咖啡。 3. 提示 - 发挥你的想象力来制作完美的提示！. | :white_check_mark: |
+| [BetterPic](https://www.betterpic.io) | 使用AI生成职业肖像和人像 | 使用我们的AI摄影师在几分钟内获得专业的肖像。轻松拍摄肖像：选择风格，上传照片，并在不到2小时内收到数百个结果。 | :x: |
 | [Character.io](http://characterio.neeltron.repl.co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 生成新鲜卡通人物的免费工具. | 借助 GAN 的强大功能生成一组随机的角色或头像。按空格键生成一个新集. | :white_check_mark: |
 | [DreamPic](http://dreampic.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 梦图.AI. | AI 生成您主演的图片. | :grey_question: |
 | [EpicAvatar](http://epic-avatar.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Epic Avatar - AI头像生成器. | 制作您自己的最先进的 AI 头像个人资料图片. | :x: |
