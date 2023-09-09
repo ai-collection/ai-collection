@@ -1045,6 +1045,7 @@ Translations:
 | [Voicemaker](http://voicemaker.in?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voicemaker® - Text to Speech Converter. | Create audio files for your commercial use. Voicemaker allows you to redistribute your generated audio files even after your subscription expires. | :white_check_mark: |
 | [Voicera](http://www.voicera.co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voicera - Give Voice to Your Articles and Blogs. | . | :grey_question: |
 | [Wellsaid](http://wellsaidlabs.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Convert Text to Voice in Real Time. | With WellSaid, you and your team can create a compelling realistic AI voice over for all your digital content. | :white_check_mark: |
+| [Wavel AI](https://wavel.ai/) | Transform text into lifelike speech with our cutting-edge text-to-speech technology. | Experience natural-sounding speech with Wavel's text-to-speech solution.| :white_check_mark: |
 
 <!--End of Text To Speech 23-->
 
