@@ -20,7 +20,15 @@ Example project:
 | [Equally.ai](https://equally.ai/) | Web Accessibility Compliance For All | Achieve ADA & WCAG compliance easily | :white_check_mark: |
 ```
 
-## To Contribute
+## To Contribute Using the New Submission Flow
+
+The new and <b>preferred</b> way to contribute is simply to submit your application to https://www.thataicollection.com/submit and once approved, it will
+automatically be synced with this repo.
+
+## To Contribute using a PR to GitHub
+
+If you still prefer to create a PR, these are the old guidelines, but please make sure you submit also to https://www.thataicollection.com/submit so your application will not be lost in future syncs with the website.
+
 
 Created a branch on your fork with your changes, and [make a pull request][pr-link].
 
