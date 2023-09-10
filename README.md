@@ -109,7 +109,7 @@ Translations:
 
 
 
-> **_NOTE:_** A change on how the collection is displayed is coming. Only a few dozen hand picked generative AI applications will be displayed. The full collection will always be availale on https://ai-collection.org/
+> **_NOTE:_** A change on how the collection is displayed is coming. Only a few dozen hand picked generative AI applications will be displayed. The full collection will always be availale on https://www.thataicollection.com
 <br />
 
 ## Index
