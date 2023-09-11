@@ -52,7 +52,7 @@
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/rankwizard/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshots/screenshot-rankwizard.webp" alt="RankWizard" border="0"/>
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-rankwizard.webp" alt="RankWizard" border="0"/>
     </a>
     <h4>GPT-4, Google से वास्तविक समय डेटा और SERP विश्लेषण का उपयोग करके मिनटों में 1000+ ब्लॉग पोस्ट लिखें।</h4>
     <p>रैंकविज़ार्ड एक निर्बाध एआई लेखक है जो लेख, ब्लॉग पोस्ट और न्यूज़लेटर जैसी सामग्री के थोक निर्माण पर ध्यान केंद्रित करता है।

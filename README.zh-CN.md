@@ -52,7 +52,7 @@
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/rankwizard/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshots/screenshot-rankwizard.webp" alt="RankWizard" border="0"/>
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-rankwizard.webp" alt="RankWizard" border="0"/>
     </a>
     <h4>使用 GPT-4、来自 Google 的实时数据和 SERP 分析在几分钟内撰写 1000 多篇博客文章。</h4>
     <p>RankWizard 是一款无缝 AI 作家，专注于批量创建文章、博客文章和时事通讯等内容。

@@ -52,7 +52,7 @@
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/rankwizard/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshots/screenshot-rankwizard.webp" alt="RankWizard" border="0"/>
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-rankwizard.webp" alt="RankWizard" border="0"/>
     </a>
     <h4>Напишите более 1000 сообщений в блоге за считанные минуты, используя GPT-4, данные Google в реальном времени и анализ поисковой выдачи.</h4>
     <p>RankWizard — это программа для создания ИИ, специализирующаяся на массовом создании контента, такого как статьи, сообщения в блогах и информационные бюллетени.

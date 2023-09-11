@@ -52,7 +52,7 @@
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/rankwizard/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshots/screenshot-rankwizard.webp" alt="RankWizard" border="0"/>
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-rankwizard.webp" alt="RankWizard" border="0"/>
     </a>
     <h4>Rédigez plus de 1 000 articles de blog en quelques minutes à l'aide de GPT-4, des données en temps réel de Google et de l'analyse SERP.</h4>
     <p>RankWizard est un rédacteur d'IA transparent qui se concentre sur la création en masse de contenu tel que des articles, des billets de blog et des newsletters.
