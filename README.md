@@ -58,7 +58,7 @@ Translations:
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/rankwizard/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshots/screenshot-rankwizard.webp" alt="RankWizard" border="0"/>
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-rankwizard.webp" alt="RankWizard" border="0"/>
     </a>
     <h4>Write 1000+ blog posts in minutes using GPT-4, real-time data from Google, and SERP analysis.</h4>
     <p>RankWizard is a seamless AI writer focusing on bulk creation of content such as articles, blog posts and newsletters.
