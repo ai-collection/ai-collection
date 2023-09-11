@@ -51,13 +51,13 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/hix.ai/?ref=aicollection&utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+    <a href="https://www.thataicollection.com/redirect/hix.ai?ref=aicollection" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://static.tapfiliate.com/64f970e24e02d007847701.jpeg?a=135466-856f82" alt="HIX.AI" border="0"/>
     </a>
     <h4>सबसे शक्तिशाली, सबमें एक
 एआई राइटिंग कोपायलट</h4>
     <p>IX.AI: आपका सबसे शक्तिशाली, ऑल-इन-वन AI राइटिंग कोपायलट। बाजार में सबसे शक्तिशाली, ऑल-इन-वन एआई राइटिंग कोपायलट HIX.AI के साथ सेकंडों में विज्ञापनों, ईमेल, ब्लॉग आदि के लिए उच्च-गुणवत्ता वाली प्रतियां तैयार करें।</p>
-    <a href="https://www.thataicollection.com/redirect/hix.ai/?ref=aicollection&utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>HIX.AI के साथ आरंभ करें</b></a>
+    <a href="https://www.thataicollection.com/redirect/hix.ai?ref=aicollection" target="_blank"><b>HIX.AI के साथ आरंभ करें</b></a>
     <br />
 </div>
 
