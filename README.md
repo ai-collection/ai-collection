@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=911" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=912" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=42" />
@@ -57,25 +57,14 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/damn-good-tools/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/rankwizard/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshots/screenshot-rankwizard.webp" alt="RankWizard" border="0"/>
     </a>
-    <h4>Oh, these damn good tools Easy-to-use, fun tools—free (and open-source).</h4>
-    <p>Discover useful good tools that will boost your productivity. Example of some tools: Privacy Policy Generator, Screenshots, Detect Fonts, Chat With Any PDF, Summarize Any URL and more.</p>
-    <a href="https://www.thataicollection.com/redirect/damn-good-tools/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Damn Good Tools</b></a>
-    <br />
-</div>
+    <h4>Write 1000+ blog posts in minutes using GPT-4, real-time data from Google, and SERP analysis.</h4>
+    <p>RankWizard is a seamless AI writer focusing on bulk creation of content such as articles, blog posts and newsletters.
 
-<br>
-
-
-<div align="center">
-    <a href="https://ai-collection.org/redirect/phrasion/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-phrasion.webp" alt="phrasion" border="0"/>
-    </a>
-    <h4>Writer Blog Posts 2X Faster - With the Same Quality as Today!</h4>
-    <p>Having tried many (all?) copywriting AI tools for blog writing, we found that most would create too short (<1k words) blogs posts. Additionally, posts were simple not good enough to engage readers and rank well on search engines. Hence, we set out to create a hybrid human-AI approach to empower content writers rather than replace them.</p>
-    <a href="https://ai-collection.org/redirect/phrasion/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Phrasion</b></a>
+You only need to import keywords or topics in, nothing more. The AI will automatically find the most credible sources online to learn about your topic and write all your content in just minutes.</p>
+    <a href="https://www.thataicollection.com/redirect/rankwizard/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with RankWizard</b></a>
     <br />
 </div>
 

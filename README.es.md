@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=911" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=912" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=42" />
@@ -51,25 +51,14 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/damn-good-tools/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/rankwizard/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshots/screenshot-rankwizard.webp" alt="RankWizard" border="0"/>
     </a>
-    <h4>Oh, estas malditas buenas herramientas Herramientas divertidas y fáciles de usar, gratuitas (y de código abierto).</h4>
-    <p>Descubra buenas herramientas útiles que aumentarán su productividad. Ejemplo de algunas herramientas: Generador de políticas de privacidad, capturas de pantalla, detectar fuentes, chatear con cualquier PDF, resumir cualquier URL y más.</p>
-    <a href="https://www.thataicollection.com/redirect/damn-good-tools/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Damn Good Tools</b></a>
-    <br />
-</div>
+    <h4>Escriba más de 1000 publicaciones de blog en minutos utilizando GPT-4, datos en tiempo real de Google y análisis SERP.</h4>
+    <p>RankWizard es un escritor de IA fluido que se centra en la creación masiva de contenido, como artículos, publicaciones de blogs y boletines informativos.
 
-<br>
-
-
-<div align="center">
-    <a href="https://ai-collection.org/redirect/phrasion/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-phrasion.webp" alt="phrasion" border="0"/>
-    </a>
-    <h4>Writer Blog publica 2 veces más rápido, ¡con la misma calidad que hoy!</h4>
-    <p>Después de haber probado muchas (¿todas?) herramientas de IA de redacción para escribir blogs, descubrimos que la mayoría crearía publicaciones de blogs demasiado cortas (<1k palabras). Además, las publicaciones eran simples y no lo suficientemente buenas para atraer a los lectores y clasificarse bien en los motores de búsqueda. Por lo tanto, nos propusimos crear un enfoque híbrido humano-IA para empoderar a los escritores de contenido en lugar de reemplazarlos.</p>
-    <a href="https://ai-collection.org/redirect/phrasion/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Phrasion</b></a>
+Sólo necesitas importar palabras clave o temas, nada más. La IA encontrará automáticamente las fuentes más creíbles en línea para aprender sobre su tema y escribir todo su contenido en solo minutos.</p>
+    <a href="https://www.thataicollection.com/redirect/rankwizard/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con RankWizard</b></a>
     <br />
 </div>
 

@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=911" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=912" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -51,25 +51,14 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/damn-good-tools/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/rankwizard/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshots/screenshot-rankwizard.webp" alt="RankWizard" border="0"/>
     </a>
-    <h4>哦，这些该死的好工具 易于使用、有趣的工具——免费（且开源）。</h4>
-    <p>发现有用的好工具，将提高您的生产力。 一些工具的示例：隐私政策生成器、屏幕截图、检测字体、与任何 PDF 聊天、总结任何 URL 等等。</p>
-    <a href="https://www.thataicollection.com/redirect/damn-good-tools/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Damn Good Tools</b></a>
-    <br />
-</div>
+    <h4>使用 GPT-4、来自 Google 的实时数据和 SERP 分析在几分钟内撰写 1000 多篇博客文章。</h4>
+    <p>RankWizard 是一款无缝 AI 作家，专注于批量创建文章、博客文章和时事通讯等内容。
 
-<br>
-
-
-<div align="center">
-    <a href="https://ai-collection.org/redirect/phrasion/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-phrasion.webp" alt="phrasion" border="0"/>
-    </a>
-    <h4>作家博客文章速度提高 2 倍 - 质量与今天相同！</h4>
-    <p>在尝试了许多（全部？）用于博客写作的文案人工智能工具后，我们发现大多数工具都会创建太短（<1k 字）的博客文章。此外，帖子过于简单，不足以吸引读者并在搜索引擎上排名良好。因此，我们着手创建一种混合人类与人工智能的方法来增强内容作者的能力，而不是取代他们。</p>
-    <a href="https://ai-collection.org/redirect/phrasion/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Phrasion</b></a>
+您只需导入关键字或主题即可，仅此而已。人工智能将自动在网上找到最可靠的来源来了解您的主题并在短短几分钟内写出您的所有内容。</p>
+    <a href="https://www.thataicollection.com/redirect/rankwizard/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 RankWizard</b></a>
     <br />
 </div>
 
