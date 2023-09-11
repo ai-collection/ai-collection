@@ -51,6 +51,20 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/hix.ai/?ref=aicollection&utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://static.tapfiliate.com/64f970e24e02d007847701.jpeg?a=135466-856f82" alt="HIX.AI" border="0"/>
+    </a>
+    <h4>El todo en uno más potente
+Copiloto de escritura de IA</h4>
+    <p>IX.AI: su copiloto de escritura de IA todo en uno más potente. Genere copias de alta calidad para anuncios, correos electrónicos, blogs y más en segundos con HIX.AI, el copiloto de escritura de IA todo en uno más potente del mercado.</p>
+    <a href="https://www.thataicollection.com/redirect/hix.ai/?ref=aicollection&utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con HIX.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/rankwizard/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-rankwizard.webp" alt="RankWizard" border="0"/>
     </a>
@@ -259,6 +273,8 @@ Sólo necesitas importar palabras clave o temas, nada más. La IA encontrará au
 | [EssayBar](http://www.essay.bar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Essaybar: ¡revolucione su escritura con ensayos creados por IA!. | . | :grey_question: |
 | [FireTexts](https://www.firetexts.co/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Nunca pierdas el tiempo pensando en el texto perfecto otra vez. | Libera el poder de la IA y crea el mensaje de texto perfecto para un cumpleaños, agradecimiento, coqueteo, rechazo o cualquier otra situación. Usamos ChatGPT y entradas personalizadas para crear el texto perfecto para cualquier ocasión. | :white_check_mark: |
 | [FreewriteAI](http://freewriterai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | La herramienta de escritura de IA para todos. | . | :white_check_mark: |
+| [HIX.AI](https://hix.ai/?ref=aicollection?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | El todo en uno más potente
+Copiloto de escritura de IA. | IX.AI: su copiloto de escritura de IA todo en uno más potente. Genere copias de alta calidad para anuncios, correos electrónicos, blogs y más en segundos con HIX.AI, el copiloto de escritura de IA todo en uno más potente del mercado. | :white_check_mark: |
 | [Instascribe](https://instascribe.app/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instascribe es una aplicación impulsada por IA que crea subtítulos personalizados para sus fotos de Instagram. | Simplemente seleccione una imagen, elija entre una variedad de estilos de subtítulos o defina el suyo propio, y ajuste opciones como el tono de voz, el idioma y la duración del mensaje. Luego, la IA de la aplicación genera una leyenda única que se adapta a su imagen y preferencias, agilizando su proceso de publicación en las redes sociales. | :grey_question: |
 | [Paragraph AI](http://paragraphai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paragraphai • La mejor aplicación de escritura con IA • Herramienta gratuita de asistente de escritura con IA. | . | :white_check_mark: |
 | [Paraphraser](http://paraphrasetool.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Parafraseo gratuito para todos los idiomas. | . | :white_check_mark: |

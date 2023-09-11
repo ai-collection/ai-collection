@@ -51,6 +51,20 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/hix.ai/?ref=aicollection&utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://static.tapfiliate.com/64f970e24e02d007847701.jpeg?a=135466-856f82" alt="HIX.AI" border="0"/>
+    </a>
+    <h4>Самый мощный, «все в одном»
+Второй пилот по написанию искусственного интеллекта</h4>
+    <p>IX.AI: ваш самый мощный и универсальный второй пилот, работающий с искусственным интеллектом. Создавайте высококачественные копии для рекламы, электронных писем, блогов и многого другого за считанные секунды с помощью HIX.AI, самого мощного универсального второго пилота для написания ИИ на рынке.</p>
+    <a href="https://www.thataicollection.com/redirect/hix.ai/?ref=aicollection&utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с HIX.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/rankwizard/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-rankwizard.webp" alt="RankWizard" border="0"/>
     </a>
@@ -829,6 +843,8 @@
 | [EssayBar](http://www.essay.bar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EssayBar — революционизируйте свое письмо с помощью эссе, созданных искусственным интеллектом!. | . | :grey_question: |
 | [FireTexts](https://www.firetexts.co/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Никогда больше не тратьте время на обдумывание идеального текста. | Раскройте мощь искусственного интеллекта и создайте идеальное текстовое сообщение для дня рождения, благодарности, флирта, отказа или любой другой ситуации. Мы используем ChatGPT и настраиваемые входные данные для создания идеального текста для любого случая. | :white_check_mark: |
 | [FreewriteAI](http://freewriterai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Инструмент для письма с искусственным интеллектом для всех. | . | :white_check_mark: |
+| [HIX.AI](https://hix.ai/?ref=aicollection?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Самый мощный, «все в одном»
+Второй пилот по написанию искусственного интеллекта. | IX.AI: ваш самый мощный и универсальный второй пилот, работающий с искусственным интеллектом. Создавайте высококачественные копии для рекламы, электронных писем, блогов и многого другого за считанные секунды с помощью HIX.AI, самого мощного универсального второго пилота для написания ИИ на рынке. | :white_check_mark: |
 | [Instascribe](https://instascribe.app/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instascribe — приложение на базе искусственного интеллекта, которое создает персонализированные подписи к вашим фотографиям в Instagram. | Просто выберите изображение, выберите из множества стилей подписи или определите свой собственный и настройте такие параметры, как тон голоса, язык и длина сообщения. Затем искусственный интеллект приложения генерирует уникальную подпись, которая соответствует вашему изображению и предпочтениям, оптимизируя процесс публикации в социальных сетях. | :grey_question: |
 | [Paragraph AI](http://paragraphai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ParagraphAI • Лучшее приложение для письма с искусственным интеллектом • Бесплатный помощник для письма с искусственным интеллектом. | . | :white_check_mark: |
 | [Paraphraser](http://paraphrasetool.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Бесплатный перефразирование для всех языков. | . | :white_check_mark: |
