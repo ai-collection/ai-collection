@@ -51,6 +51,20 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/hix.ai/?ref=aicollection&utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://static.tapfiliate.com/64f970e24e02d007847701.jpeg?a=135466-856f82" alt="HIX.AI" border="0"/>
+    </a>
+    <h4>最强大的一体化
+AI写作副驾驶</h4>
+    <p>IX.AI：您最强大的一体化人工智能写作副驾驶。使用 HIX.AI（市场上最强大的一体化人工智能写作副驾驶）在几秒钟内为广告、电子邮件、博客等生成高质量的副本。</p>
+    <a href="https://www.thataicollection.com/redirect/hix.ai/?ref=aicollection&utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 HIX.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/rankwizard/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-rankwizard.webp" alt="RankWizard" border="0"/>
     </a>
@@ -331,6 +345,8 @@
 | [EssayBar](http://www.essay.bar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EssayBar — 用 AI 制作的论文彻底改变您的写作！. | . | :grey_question: |
 | [FireTexts](https://www.firetexts.co/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 再也不用浪费时间思考完美的文本了. | 释放人工智能的力量，为生日、感谢、调情、拒绝或任何其他情况创建完美的短信。我们使用 ChatGPT 和自定义输入来制作适合任何场合的完美文本。. | :white_check_mark: |
 | [FreewriteAI](http://freewriterai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 适合所有人的AI写作工具. | . | :white_check_mark: |
+| [HIX.AI](https://hix.ai/?ref=aicollection?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 最强大的一体化
+AI写作副驾驶. | IX.AI：您最强大的一体化人工智能写作副驾驶。使用 HIX.AI（市场上最强大的一体化人工智能写作副驾驶）在几秒钟内为广告、电子邮件、博客等生成高质量的副本。. | :white_check_mark: |
 | [Instascribe](https://instascribe.app/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instascribe 是一款人工智能应用程序，可为您的 Instagram 照片创建个性化字幕. | 只需选择一张图片，从一系列字幕样式中挑选或定义您自己的样式，然后调整语调、语言和消息长度等选项。然后，该应用程序的 AI 会生成适合您的图像和偏好的独特说明，从而简化您的社交媒体发布过程。. | :grey_question: |
 | [Paragraph AI](http://paragraphai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ParagraphAI • 最佳人工智能写作应用程序 • 免费人工智能写作助手工具. | . | :white_check_mark: |
 | [Paraphraser](http://paraphrasetool.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 所有语言的免费释义. | . | :white_check_mark: |

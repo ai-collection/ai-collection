@@ -57,6 +57,20 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/hix.ai/?ref=aicollection&utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://static.tapfiliate.com/64f970e24e02d007847701.jpeg?a=135466-856f82" alt="HIX.AI" border="0"/>
+    </a>
+    <h4>The Most Powerful, All-in-One
+AI Writing Copilot</h4>
+    <p>IX.AI: Your Most Powerful, All-In-One AI Writing Copilot. Generate high-quality copies for ads, emails, blogs, and more in seconds with HIX.AI, the most powerful, all-in-one AI writing copilot on the market.</p>
+    <a href="https://www.thataicollection.com/redirect/hix.ai/?ref=aicollection&utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with HIX.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/rankwizard/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-rankwizard.webp" alt="RankWizard" border="0"/>
     </a>
@@ -1139,6 +1153,8 @@ Explainer & How-to, Marketing, Personalized Sales, E-learning, Training & Onboar
 | [EssayBar](http://www.essay.bar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Essaybar — Revolutionize Your Writing With AI-Crafted Essays!. | . | :grey_question: |
 | [FireTexts](https://www.firetexts.co/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Never Waste Time Thinking of the Perfect Text Again. | Unleash the power of AI and create the perfect text message for a birthday, thank you, flirting, rejection or any other situation. We use ChatGPT and custom inputs to craft the perfect text for any occasion. | :white_check_mark: |
 | [FreewriteAI](http://freewriterai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The AI Writing Tool for Everyone. | . | :white_check_mark: |
+| [HIX.AI](https://hix.ai/?ref=aicollection?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The Most Powerful, All-in-One
+AI Writing Copilot. | IX.AI: Your Most Powerful, All-In-One AI Writing Copilot. Generate high-quality copies for ads, emails, blogs, and more in seconds with HIX.AI, the most powerful, all-in-one AI writing copilot on the market. | :white_check_mark: |
 | [Instascribe](https://instascribe.app/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instascribe Is an AI-powered App That Creates Personalised Captions for Your Instagram Photos. | Just select an image, pick from an array of caption styles or define your own, and adjust options such as tone of voice, language, and message length. The app's AI then generates a unique caption that suits your image and preferences, streamlining your social media posting process. | :grey_question: |
 | [Paragraph AI](http://paragraphai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paragraphai • Best AI Writing App • Free AI Writing Assistant Tool. | . | :white_check_mark: |
 | [Paraphraser](http://paraphrasetool.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Free Paraphrasing for All Languages. | . | :white_check_mark: |
