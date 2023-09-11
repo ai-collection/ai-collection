@@ -51,13 +51,13 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/hix.ai?ref=aicollection" target="_blank" style="outline:none;border:none;">
+    <a href="https://www.thataicollection.com/redirect/hix.ai" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://static.tapfiliate.com/64f970e24e02d007847701.jpeg?a=135466-856f82" alt="HIX.AI" border="0"/>
     </a>
     <h4>最强大的一体化
 AI写作副驾驶</h4>
     <p>IX.AI：您最强大的一体化人工智能写作副驾驶。使用 HIX.AI（市场上最强大的一体化人工智能写作副驾驶）在几秒钟内为广告、电子邮件、博客等生成高质量的副本。</p>
-    <a href="https://www.thataicollection.com/redirect/hix.ai?ref=aicollection" target="_blank"><b>开始使用 HIX.AI</b></a>
+    <a href="https://www.thataicollection.com/redirect/hix.ai" target="_blank"><b>开始使用 HIX.AI</b></a>
     <br />
 </div>
 

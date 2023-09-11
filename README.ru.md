@@ -51,13 +51,13 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/hix.ai?ref=aicollection" target="_blank" style="outline:none;border:none;">
+    <a href="https://www.thataicollection.com/redirect/hix.ai" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://static.tapfiliate.com/64f970e24e02d007847701.jpeg?a=135466-856f82" alt="HIX.AI" border="0"/>
     </a>
     <h4>Самый мощный, «все в одном»
 Второй пилот по написанию искусственного интеллекта</h4>
     <p>IX.AI: ваш самый мощный и универсальный второй пилот, работающий с искусственным интеллектом. Создавайте высококачественные копии для рекламы, электронных писем, блогов и многого другого за считанные секунды с помощью HIX.AI, самого мощного универсального второго пилота для написания ИИ на рынке.</p>
-    <a href="https://www.thataicollection.com/redirect/hix.ai?ref=aicollection" target="_blank"><b>Начать работу с HIX.AI</b></a>
+    <a href="https://www.thataicollection.com/redirect/hix.ai" target="_blank"><b>Начать работу с HIX.AI</b></a>
     <br />
 </div>
 
