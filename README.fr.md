@@ -51,13 +51,13 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/hix.ai?ref=aicollection" target="_blank" style="outline:none;border:none;">
+    <a href="https://www.thataicollection.com/redirect/hix.ai" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://static.tapfiliate.com/64f970e24e02d007847701.jpeg?a=135466-856f82" alt="HIX.AI" border="0"/>
     </a>
     <h4>Le tout-en-un le plus puissant
 Copilote d'écriture d'IA</h4>
     <p>IX.AI : votre copilote d'écriture d'IA tout-en-un le plus puissant. Générez des copies de haute qualité pour les publicités, les e-mails, les blogs et bien plus encore en quelques secondes avec HIX.AI, le copilote d'écriture d'IA tout-en-un le plus puissant du marché.</p>
-    <a href="https://www.thataicollection.com/redirect/hix.ai?ref=aicollection" target="_blank"><b>Démarrer avec HIX.AI</b></a>
+    <a href="https://www.thataicollection.com/redirect/hix.ai" target="_blank"><b>Démarrer avec HIX.AI</b></a>
     <br />
 </div>
 
