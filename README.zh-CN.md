@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=912" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=911" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -266,6 +266,7 @@ AI写作副驾驶</h4>
 |---|---|---|:---:|
 | [Orkoi](https://orkoi.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Orkoi - 快速制定个性化旅行计划，免费，无需注册. | 我们的 AI 将为您制定适合您想要游览的任何城市或地点的定制计划，包括餐厅、有趣的活动、景点和小贴士，助您开启最佳冒险之旅. | :white_check_mark: |
 | [Roamr](http://www.letsroam.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Roamr - 在几秒钟内完成您的梦想假期. | . | :grey_question: |
+| [Travel Blog Name Ideas Generator](https://travelfeed.io/tools/travel-blog-name-ideas-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 旅游博客名称创意生成器：找到完美的旅游博客名称！. | 使用 TravelFeed 的博客名称创意生成器解锁完美的旅行博客名称！输入一个关键字（也许是您自己的名字），然后我们的人工智能就会用大量时髦的建议让您眼花缭乱。喜欢一个名字吗？快速检查其 .com 域和 TravelFeed 用户名可用性。用一个和你一样富有冒险精神的名字开始你的博客之旅吧！. | :white_check_mark: |
 | [Vacay](https://usevacay.com/chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 假期聊天代理. | 这个 AI 助手可以设计定制旅行，为您提供去哪里的灵感，甚至可以为酒店、餐厅和景点生成本地推荐。. | :white_check_mark: |
 
 
@@ -340,6 +341,15 @@ AI写作副驾驶</h4>
 | [AIKIt](http://getaikit.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AIKit - 使用 GPT-3 的 Wordpress AI 助手. | . | :grey_question: |
 | [Bearly Ai](http://bearly.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用世界上最好的 AI 节省数百小时的阅读和写作时间. | . | :white_check_mark: |
 | [BlogNLP](http://www.blognlp.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 博客NLP. | 基于 AI 的博客写作工具，可以帮助您快速轻松地制作引人入胜的内容，消除写作障碍并节省您的时间. | :grey_question: |
+| [Chatchat for jobs done](https://www.chatchat.bio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 无需太多思考，我们的人工智能服务即可为您的工作提供清晰的输出. | 🚀 ChatChat.Bio：您的一站式人工智能服务！
+
+✨ 特点： 稳定访问 ChatGPT、GPT-4 和 Midjourney。我们的人工智能能够理解碎片化的想法，理清思路，指导中途使用。
+
+🎉 高用户保留率：70% 重复购买！
+
+🔧 技术优势：专注于模型微调和人工智能适应用户需求。
+
+💖 每日免费额度：每日免费使用服务，无需订阅！. | :white_check_mark: |
 | [Eilla](http://eilla.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Eilla AI - 人工智能内容生成助手. | . | :grey_question: |
 | [Elephas](https://gumroad.com/a/411783379/ntmtp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Elephas - 适用于 Mac、iPhone、iPad 的个人 AI 写作助手. | 每天节省数小时。世界上第一位跨 Mac、iPhone 和 iPad 工作的 AI 作家。. | :white_check_mark: |
 | [EssayBar](http://www.essay.bar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EssayBar — 用 AI 制作的论文彻底改变您的写作！. | . | :grey_question: |
@@ -734,6 +744,7 @@ Dreamwave 的 AI 头像生成器是由之前在 MIT 和 Google Brain 工作的 A
 | [ELSA SPEECH ANALYZER](http://speechanalyzer.elsaspeak.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 一次提高您的英语水平。. | Speech Analyzer 是一款由 AI 驱动的会话英语流利度教练，它会聆听您的演讲并为您提供即时反馈。. | :white_check_mark: |
 | [Pth.AI](https://pth.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Beyond Chat - AI Co-Pilot 助您实现业务目标. | Pth.AI 是一种人工智能工具，可通过提问和创建步骤来引导非专业业务用户实现他们的目标，从而更轻松地与人工智能系统进行交互。. | :white_check_mark: |
 | [Sidekick](https://www.jigso.io/lp-sidekick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 介绍 Jigso 的 Sidekick - AI Slackbot，充当您自己的业务个人助理。. | 直接从您的 Slack 即时免费访问 ChatGPT 4.0 并享受其他功能，例如在 Slack 中询问您的组织应用程序问题、跟踪重要主题、设置提醒、查询文档和总结对话. | :grey_question: |
+| [SlideSpeak](https://slidespeak.co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SlideSpeak - 使用 AI 总结 PowerPoint、Word、PDF. | SlideSpeak 是由 ChatGPT 支持的聊天机器人，可让您总结文档、提出问题等等。只需上传您的文件，您就可以使用聊天来询问任何问题。我们的 AI 速度非常快，您无需连接任何 OpenAI API 密钥。. | :white_check_mark: |
 | [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 驱动的技能建议. | 借助 Skill Suggestion AI 的强大功能，我们可以帮助您从任何类型的文本中提取世界上急需的技能。试试看！我们通过使用我们的更多内容库中超过 100 万个在线可用内容来训练我们的 AI，这些内容来自不同类型的来源和主题。. | :grey_question: |
 
 
@@ -947,11 +958,11 @@ Dreamwave 的 AI 头像生成器是由之前在 MIT 和 Google Brain 工作的 A
 | [Alltray](http://www.alltray.in?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 带图库的 AI 图像生成器 - 使用人工智能创建和浏览独特的自定义图像. | . | :grey_question: |
 | [Alter Ego AI](http://alterego-ai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能以各种风格生成你的图像. | 以您选择的样式生成图像 选择一种或多种样式来生成。 AI 生成图像的结果可能无法预测，所以请尝试并享受乐趣！. | :x: |
 | [Anime AI](http://animeai.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI动漫图片生成器 - 动漫AI. | 使用 AI 创建您完美的动漫图片。在海贼王、火影忍者、网络卡通风格和其他风格之间进行选择！. | :grey_question: |
-| [AnimeMaker](http://animediffusion.graydient.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 动漫制作器 /// AI 动漫制作器 / AnimeMaker.net. | . | :white_check_mark: |
 | [Apeture](https://lexica.art/aperture?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | 通过 Lexica 创建图像. | :grey_question: |
 | [Aragon](http://www.aragon.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 阿拉贡. | 使用 AI 以 10 倍的速度创建令人惊叹的艺术作品和图像。. | :grey_question: |
 | [ArtBot.ai](http://artbot.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ArtBot.ai - 让 AI 创造你完美的万圣节艺术. | 你觉得自己充满了有趣、明亮、令人兴奋、富有创意的万圣节创意吗？你需要一种工具来实现它们，而且......这个应用程序是你的选择！. | :grey_question: |
 | [Artbreeder](http://www.artbreeder.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 以前所未有的方式制作人工智能艺术. | artbreeder collager - 用形状和图像制作简单的拼贴画，用提示进行描述，然后观看 Artbreeder 将其变为现实。品种肖像等 - Splicer 可让您通过将图像混合在一起并编辑其基因来创建图像。创作肖像、风景、绘画等，然后观看其他人将您的艺术带向令人兴奋的新方向。. | :white_check_mark: |
+| [Artroom](http://artroom.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Artroom AI-利用尖端的人工智能艺术生成平台释放你的创造力. | 让自己沉浸在我们尖端的人工智能艺术生成平台中，在那里你可以释放你的创造力，以前所未有的方式将你的艺术愿景变为现实。借助我们先进的 AI 算法，创建新图像、编辑现有图像、增强图像并提高质量。. | :white_check_mark: |
 | [Artshop](http://artshops.xyz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 艺术品商店. | Artshop 将令人惊叹的 AI 艺术品带入您家中的墙壁艺术，为您美丽的家增添温馨气息。. | :grey_question: |
 | [artssy](https://www.artssy.co/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 一键创建独特的 AI 生成图像。. | 借助 Artssy AI，您的创造力可以流动起来。一键创建无限图像，发现无限可能！. | :x: |
 | [Astria.ai](http://www.astria.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Astria - 量身定制的 AI 图像生成. | 使用 AI 创建自定义图像. | :x: |
@@ -972,7 +983,9 @@ Dreamwave 的 AI 头像生成器是由之前在 MIT 和 Google Brain 工作的 A
 | [Draw Things](http://draw.nnc.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 画东西：人工智能辅助图像生成. | . | :grey_question: |
 | [DrawAnyone](http://drawanyone.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | drawanyone - 画任何人，任何你想要的方式. | AI 生成的肖像，随心所欲。 drawanyone.ai 让你自定义你的 AI 肖像. | :x: |
 | [Drawanything](http://www.drawanything.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Draw Anything - 稳定的扩散游乐场. | 使用 AI 在几分钟内创建新颖的图像。. | :grey_question: |
-| [Dreambooth](http://dream.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 数秒内的高品质艺术品. | . | :grey_question: |
+| [Dreambooth](http://dream.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 几秒钟内即可完成高品质艺术品——用 Dream 创作更多作品
+使用最佳 AI 应用程序获得无限乐趣. | 未来的艺术品
+输入提示，选择一种艺术风格，WOMBO Dream 将在几秒钟内将你的想法变成一幅由人工智能驱动的画作。. | :white_check_mark: |
 | [Dreamlike](http://dreamlike.art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 借助人工智能的力量，在几秒钟内创作出令人惊叹的原创艺术。. | 创建、升级、使用自然语言编辑、修复面部、复制姿势/深度/草图、进行变化等等。从 8 个 AI 模型中进行选择。使用高级参数根据您的喜好自定义您的创作。您所需的一切都在浏览器中，可以在任何设备上随时随地使用。. | :white_check_mark: |
 | [DreamUp](http://www.dreamup.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 梦想. | DeviantArt DreamUp™ AI 艺术生成器可让您安全公平地创作 AI 艺术。. | :grey_question: |
 | [Erase.bg](http://www.erase.bg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费背景图像去除器：在线从高清图像中去除 BG - Erase.bg. | 使人物、动物或物体图像的背景透明。免费下载高分辨率图像，供电子商务和个人使用。无需信用卡。. | :white_check_mark: |
@@ -1195,7 +1208,6 @@ Dreamwave 的 AI 头像生成器是由之前在 MIT 和 Google Brain 工作的 A
 | [Andisearch](http://andisearch.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 安迪 - 寻找下一代. | . | :grey_question: |
 | [Ansy](http://ansy.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ansy.ai - 用于您的 Discord 服务器的 GPT-3. | GPT-3 驱动的 Discord 机器人可以根据聊天记录回答 Discord 社区成员的问题. | :grey_question: |
 | [Artflow](http://artflow.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 艺流. | . | :grey_question: |
-| [Artroom](http://artroom.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 艺术室AI. | . | :grey_question: |
 | [ARTSIO](http://artsio.xyz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 雅思. | . | :grey_question: |
 | [Ask Poppy](http://www.poppylist.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Poppylist - 成为你想成为的父母. | 你知道你的生活方式。我们知道产品。让我们一起建立您的婴儿登记处。. | :grey_question: |
 | [Aspen](http://www.getaspenai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 白杨. | . | :grey_question: |
