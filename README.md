@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=912" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=911" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=42" />
@@ -216,11 +216,11 @@ You only need to import keywords or topics in, nothing more. The AI will automat
 | [Alltray](http://www.alltray.in?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Image Generator With Gallery - Create and Browse Unique, Custom Images With Artificial Intelligence. | . | :grey_question: |
 | [Alter Ego AI](http://alterego-ai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Generated Images of You in Heaps of Styles. | Generate images in your, chosen style Select one or several styles to generate. The outcome of the AI generated images can be unpredictable, so experiment, and have fun!. | :x: |
 | [Anime AI](http://animeai.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Anime Picture Generator - Anime AI. | Create your perfect anime picture with AI. Choose between One Piece, Naruto, Webtoon styles and others!. | :grey_question: |
-| [AnimeMaker](http://animediffusion.graydient.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Anime Maker /// AI Anime Maker / Animemaker.Net. | . | :white_check_mark: |
 | [Apeture](https://lexica.art/aperture?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | Create Images by Lexica. | :grey_question: |
 | [Aragon](http://www.aragon.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aragon. | Create stunning art & images 10X faster with AI. | :grey_question: |
 | [ArtBot.ai](http://artbot.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Artbot.Ai - Let AI Create Your Perfect Halloween Art. | Do you feel like you are full of fun, bright, exciting, creative Halloween ideas? You are in need of an instrument to realize them then, and… this app is your choice!. | :grey_question: |
 | [Artbreeder](http://www.artbreeder.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Craft AI Art Like Never Before. | artbreeder collager - Make a simple collage from shapes and images, describe it with a prompt, and watch as Artbreeder brings it to life. breed portraits and more - Splicer lets you create images by mixing them together and editing their genes. Create portraits, landscapes, paintings, and more — then watch as others take your art in exciting new directions. | :white_check_mark: |
+| [Artroom](http://artroom.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Artroom AI - Unleash Your Creativity with cutting-edge AI Art generating platform. | Immerse yourself in our cutting-edge AI Art generating platform, where you can unleash your creativity and bring your artistic visions to life like never before. Create new images, edit existing ones, enhance them, and improve the quality with the assistance of our advanced AI algorithms. | :white_check_mark: |
 | [Artshop](http://artshops.xyz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Artshop. | Artshop brings amazing AI artworks to wall arts in your home and create welcoming addition to your beautiful home. | :grey_question: |
 | [artssy](https://www.artssy.co/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create Unique AI Generated Images in 1-Click. | With Artssy AI, your creativity can flow. Create unlimited images in 1 click and discover a world of possibilities!. | :x: |
 | [Astria.ai](http://www.astria.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Astria - Tailor-Made AI Image Generation. | Create custom images using AI. | :x: |
@@ -241,7 +241,9 @@ You only need to import keywords or topics in, nothing more. The AI will automat
 | [Draw Things](http://draw.nnc.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Draw Things: AI-Assisted Image Generation. | . | :grey_question: |
 | [DrawAnyone](http://drawanyone.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Drawanyone - Draw Anyone, Any Way You Want. | AI-generated portraits, any way you want. drawanyone.ai lets you customize your AI portraits. | :x: |
 | [Drawanything](http://www.drawanything.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Draw Anything - Stable Diffusion Playground. | Use AI to create novel images in minutes. | :grey_question: |
-| [Dreambooth](http://dream.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | High Quality Artwork in Seconds. | . | :grey_question: |
+| [Dreambooth](http://dream.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | High Quality Artwork in Seconds - Create more with Dream
+Unlimited fun with the best AI app. | The Artwork of the Future
+Enter a prompt, pick an art style and WOMBO Dream turns your idea into an AI-powered painting in seconds. | :white_check_mark: |
 | [Dreamlike](http://dreamlike.art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create Stunning Original Art in Seconds With the Power of AI. | Create, upscale, edit with natural language, fix faces, copy pose/depth/sketch, make variations, and more. Choose from 8 AI Models. Customize your creations to your liking with advanced parameters. Everything you need right in your browser, available from anywhere on any device. | :white_check_mark: |
 | [DreamUp](http://www.dreamup.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dreamup. | The DeviantArt DreamUp™ AI-art generator lets you create AI-art safely and fairly. | :grey_question: |
 | [Erase.bg](http://www.erase.bg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Free Background Image Remover: Remove Bg From Hd Images Online - Erase.Bg. | Make the background transparent for images of humans, animals, or objects. Download images in high resolution for free for e-commerce and personal use. No credit card needed. | :white_check_mark: |
@@ -845,6 +847,7 @@ Example of some tools: Privacy Policy Generator, Screenshots, Detect Fonts, Chat
 | [ELSA SPEECH ANALYZER](http://speechanalyzer.elsaspeak.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Improve Your English One Conversation at a Time. | Speech Analyzer is an AI-powered conversational English fluency coach that listens to your speech and provides you with immediate feedback. | :white_check_mark: |
 | [Pth.AI](https://pth.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Beyond Chat - AI Co-Pilot That Helps You Achieve Your Business Goals. | Pth.AI is an AI-powered tool that guides non-professional business users towards their goals by asking questions and creating steps, making it easier to interact with AI systems. | :white_check_mark: |
 | [Sidekick](https://www.jigso.io/lp-sidekick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Introducing Jigso's Sidekick - AI Slackbot That Acts as Your Own Business Personal Assistant. | Get instant free access to ChatGPT 4.0 directly from your Slack and enjoy other features like asking your organizational apps questions, track important topics, set reminders, query documents and summarize conversations in Slack. | :grey_question: |
+| [SlideSpeak](https://slidespeak.co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SlideSpeak - Summarize PowerPoint, Word, PDF with AI. | SlideSpeak is a ChatGPT powered Chatbot that allows you to summarize documents, ask questions and much more. Simply upload your files and you can use the chat to ask anything. Our AI is super quick and you don't have to connect any OpenAI API key. | :white_check_mark: |
 | [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Powered Skill-Suggestion. | Using the power of Skill Suggestion AI we can help you extract in-demand skills in the world, from any kind of text. Try it out! We trained our AI by using more than 1 Million online available content in our Further Content Library which curated from different kinds of sources and topics. | :grey_question: |
 
 
@@ -1080,6 +1083,7 @@ Example of some tools: Privacy Policy Generator, Screenshots, Detect Fonts, Chat
 |---|---|---|:---:|
 | [Orkoi](https://orkoi.com/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Orkoi - Make a Personalized Travel Plan in Seconds, Free, No Signup. | Our AI will build you a customized plan for any city or location you'd like to visit, complete with restaurants, fun activities, attractions and tips to make the best adventure. | :white_check_mark: |
 | [Roamr](http://www.letsroam.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Roamr - Your Dream Vacation in Seconds. | . | :grey_question: |
+| [Travel Blog Name Ideas Generator](https://travelfeed.io/tools/travel-blog-name-ideas-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Travel Blog Name Ideas Generator: Find the perfect Travel Blog Name!. | Unlock the perfect travel blog name with TravelFeed's Blog Name Ideas Generator! Toss in a keyword—maybe your own name—and watch as our AI dazzles you with a slew of snazzy suggestions. Love a name? Snap-check its .com domain and TravelFeed username availability. Dive into your blogging journey with a name that's as adventurous as you are!. | :white_check_mark: |
 | [Vacay](https://usevacay.com/chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Vacation Chat Agent. | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions. | :white_check_mark: |
 
 
@@ -1148,6 +1152,15 @@ Explainer & How-to, Marketing, Personalized Sales, E-learning, Training & Onboar
 | [AIKIt](http://getaikit.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aikit - Your Wordpress AI Assistant Using GPT-3. | . | :grey_question: |
 | [Bearly Ai](http://bearly.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Save Hundreds of Hours Reading and Writing With the World'S Best AI. | . | :white_check_mark: |
 | [BlogNLP](http://www.blognlp.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Blognlp. | An AI-based blog writing tool that can help you craft captivating content quickly and easily, eliminating writer's block and saving you time. | :grey_question: |
+| [Chatchat for jobs done](https://www.chatchat.bio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | No need for to much think but clear output from our AI service for your job. | 🚀 ChatChat.Bio: Your One-Stop AI Service!
+
+✨ Features: Stable access to ChatGPT, GPT-4, and Midjourney. Our AI understands fragmented thoughts, clarifies ideas, and guides Midjourney use.
+
+🎉 High User Retention: 70% repeat purchases!
+
+🔧 Tech Advantages: Specialized in fine-tuning models and adapting AI to user needs.
+
+💖 Free Daily Quota: Access services daily for free, no subscription needed!. | :white_check_mark: |
 | [Eilla](http://eilla.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Eilla AI - AI Content Generation Assistant. | . | :grey_question: |
 | [Elephas](https://gumroad.com/a/411783379/ntmtp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Elephas - Personal AI Writing Assistant for Mac, Iphone, Ipad. | Save hours every day. The world's first AI writer that works across your Mac, iPhone, and iPad. | :white_check_mark: |
 | [EssayBar](http://www.essay.bar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Essaybar — Revolutionize Your Writing With AI-Crafted Essays!. | . | :grey_question: |
@@ -1204,7 +1217,6 @@ AI Writing Copilot. | IX.AI: Your Most Powerful, All-In-One AI Writing Copilot. 
 | [Andisearch](http://andisearch.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Andi - Search for the Next Generation. | . | :grey_question: |
 | [Ansy](http://ansy.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ansy.Ai - GPT-3 for Your Discord Server. | GPT-3 powered Discord bot that answers questions from your Discord community members based on chat history. | :grey_question: |
 | [Artflow](http://artflow.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Artflow. | . | :grey_question: |
-| [Artroom](http://artroom.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Artroom AI. | . | :grey_question: |
 | [ARTSIO](http://artsio.xyz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Artsio. | . | :grey_question: |
 | [Ask Poppy](http://www.poppylist.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Poppylist - Be the Parent You Want to Be. | You know your lifestyle. We know the products. Let's build your baby registry together. | :grey_question: |
 | [Aspen](http://www.getaspenai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aspen. | . | :grey_question: |
