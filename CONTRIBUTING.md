@@ -20,6 +20,8 @@ Example project:
 | [Equally.ai](https://equally.ai/) | Web Accessibility Compliance For All | Achieve ADA & WCAG compliance easily | :white_check_mark: |
 ```
 
+> Note: if you see links with this prefix: `https://www.thataicollection.com/redirect/`, it means that this application is listed on our website and we use redirect to be able to count amount of clicks to this application from AI Collection.
+
 ## To Contribute Using the New Submission Flow
 
 The new and <b>preferred</b> way to contribute is simply to submit your application to https://www.thataicollection.com/submit and once approved, it will
