@@ -72,7 +72,7 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.twic.pics/screenshots/screenshot-usertrail.webp" alt="usertrail" border="0"/>
     </a>
     <h4>मॉडर्न ऐप्स के लिए सरल और शक्तिशाली ईवेंट ट्रैकिंग।</h4>
@@ -80,7 +80,7 @@
 मॉनिटर -अपडेट रहो। कभी भी, कहीं भी।
 विज़ुअलाइज़ करें - साफ़ और सुंदर डैशबोर्ड। कुछ ही मिनटों में।
 कैप्चर - आसान इंटीग्रेशन।</p>
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>usertrail के साथ आरंभ करें</b></a>
+    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank"><b>usertrail के साथ आरंभ करें</b></a>
     <br />
 </div>
 
