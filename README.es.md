@@ -72,7 +72,7 @@ Copiloto de escritura de IA</h4>
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.twic.pics/screenshots/screenshot-usertrail.webp" alt="usertrail" border="0"/>
     </a>
     <h4>Seguimiento de eventos sencillo y potente para aplicaciones modernas.</h4>
@@ -80,7 +80,7 @@ Copiloto de escritura de IA</h4>
 Monitor: mantente actualizado. En cualquier momento y en cualquier lugar.
 Visualiza: panel de control claro y elegante. En minutos.
 Captura: integración sin esfuerzo.</p>
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con usertrail</b></a>
+    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank"><b>Comience con usertrail</b></a>
     <br />
 </div>
 

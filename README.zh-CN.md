@@ -72,7 +72,7 @@ AI写作副驾驶</h4>
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.twic.pics/screenshots/screenshot-usertrail.webp" alt="usertrail" border="0"/>
     </a>
     <h4>适用于现代应用程序的简单而强大的事件跟踪。</h4>
@@ -80,7 +80,7 @@ AI写作副驾驶</h4>
 监视器-保持更新。随时随地。
 可视化——清晰优雅的仪表板。几分钟之内。
 捕获-轻松集成。</p>
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 usertrail</b></a>
+    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank"><b>开始使用 usertrail</b></a>
     <br />
 </div>
 

@@ -78,7 +78,7 @@ AI Writing Copilot</h4>
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.twic.pics/screenshots/screenshot-usertrail.webp" alt="usertrail" border="0"/>
     </a>
     <h4>Simple and Powerful Event Tracking for Modern Apps.</h4>
@@ -86,7 +86,7 @@ AI Writing Copilot</h4>
 Monitor -Stay Updated. Anytime, Anywhere.
 Visualize - Clear & Elegant Dashboard. In minutes.
 Capture - Effortless Integration.</p>
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with usertrail</b></a>
+    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank"><b>Get Started with usertrail</b></a>
     <br />
 </div>
 

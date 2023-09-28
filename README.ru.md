@@ -72,7 +72,7 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.twic.pics/screenshots/screenshot-usertrail.webp" alt="usertrail" border="0"/>
     </a>
     <h4>Простое и мощное отслеживание событий для современных приложений.</h4>
@@ -80,7 +80,7 @@
 Мониторинг — будьте в курсе событий. В любое время и в любом месте.
 Визуализация - четкая и элегантная панель управления. За считанные минуты.
 Capture — простая интеграция.</p>
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с usertrail</b></a>
+    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank"><b>Начать работу с usertrail</b></a>
     <br />
 </div>
 
