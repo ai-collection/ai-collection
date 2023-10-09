@@ -400,6 +400,7 @@ Bu koleksiyon, yapay zeka (AI) ile ilgili farklı alanlarda kullanabileceğiniz 
 | [NOLU](http://noluai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI ile Etkileşim Basit Olmalıdır. | NOLU ile tanışın. Open AI GPT-3 motoru ile etkileşimde bulunmanın basit bir arayüzü. | :white_check_mark: |
 | [PageLines](https://www.pagelines.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Web Siteleri için AI Ajanlar. | Web sitenizi ve pazarlamayı iyileştiren ChapGPT destekli ajanlar ve sohbet botları. | :white_check_mark: |
 | [SiteGPT](https://sitegpt.ai/?via=aicollection) | Her Web Sitesi İçin ChatGPT. | Web siteniz içeriğine eğitilmiş kişiselleştirilmiş bir sohbet botu ile ziyaretçilerinizin sorularını anında yanıtlayın. | :white_check_mark: |
+| [SiteSpeakAI](https://sitespeak.ai) | ChatGPT ile müşteri desteğinizi otomatikleştirin. | Kendi içeriğinizi, destek belgelerinizi, PDF'lerinizi, API'nizi veya veritabanınızı kullanarak özel eğitimli bir AI destek sohbet robotu oluşturun. | :white_check_mark: |
 
 <!--Sohbet Botları 3 Sonu-->
 <!--lint ignore double-link-->
