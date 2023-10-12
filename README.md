@@ -19,6 +19,10 @@
 
 ---
 
+> My brothers and sisters in Israel were slaughtered by Hamas terrorists. I was drafted to protect my country. I may be slow to respond.
+
+---
+
 <div align="center">
     <h4>Status</h4>
 
