@@ -919,6 +919,7 @@ AI写作副驾驶</h4>
 | [NOLU](https://www.thataicollection.com/redirect/nolu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 与 AI 交互应该很简单。. | 认识诺鲁。用于与 Open AI GPT-3 引擎交互的简单界面。. | :white_check_mark: |
 | [PageLines](https://www.thataicollection.com/redirect/pagelines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 网站的 AI 代理. | ChapGPT 支持的代理和聊天机器人可改善您的网站和营销. | :white_check_mark: |
 | [SiteGPT](https://www.thataicollection.com/redirect/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 每个网站的 ChatGPT. | 使用根据您的网站内容训练的个性化聊天机器人即时回答访问者的问题。. | :white_check_mark: |
+| [SiteSpeakAI](https://sitespeak.ai) | 使用 ChatGPT 自动化您的客户支持. | 使用您自己的内容、支持文档、PDF、API 或数据库创建经过自定义训练的 AI 支持聊天机器人. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->

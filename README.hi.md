@@ -607,6 +607,7 @@
 | [NOLU](https://www.thataicollection.com/redirect/nolu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ बातचीत करना सरल होना चाहिए।. | एनओएलयू से मिलें। ओपन एआई जीपीटी-3 इंजन के साथ बातचीत करने के लिए एक सरल इंटरफ़ेस।. | :white_check_mark: |
 | [PageLines](https://www.thataicollection.com/redirect/pagelines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वेबसाइटों के लिए एआई एजेंट. | चैपजीपीटी संचालित एजेंट और चैटबॉट जो आपकी वेबसाइट और मार्केटिंग में सुधार करते हैं. | :white_check_mark: |
 | [SiteGPT](https://www.thataicollection.com/redirect/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हर वेबसाइट के लिए ChatGPT. | आपकी वेबसाइट की सामग्री पर प्रशिक्षित व्यक्तिगत चैटबॉट के साथ अपने आगंतुकों के सवालों का तुरंत जवाब दें।. | :white_check_mark: |
+| [SiteSpeakAI](https://sitespeak.ai) | ChatGPT के साथ अपने ग्राहक सहायता को स्वचालित करें. | अपनी स्वयं की सामग्री, समर्थन दस्तावेज़, पीडीएफ, एपीआई या डेटाबेस का उपयोग करके एक कस्टम प्रशिक्षित एआई समर्थन चैटबॉट बनाएं. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
