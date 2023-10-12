@@ -985,6 +985,7 @@ Captura: integración sin esfuerzo.</p>
 | [NOLU](https://www.thataicollection.com/redirect/nolu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Interactuar con IA debería ser simple. | Conoce a NOLU. Una interfaz simple para interactuar con el motor Open AI GPT-3. | :white_check_mark: |
 | [PageLines](https://www.thataicollection.com/redirect/pagelines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Agentes de IA para sitios web. | Agentes y chatbots potenciados por ChapGPT que mejoran su sitio web y marketing. | :white_check_mark: |
 | [SiteGPT](https://www.thataicollection.com/redirect/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT para cada sitio web. | Responda instantáneamente a las preguntas de sus visitantes con un chatbot personalizado entrenado en el contenido de su sitio web. | :white_check_mark: |
+| [SiteSpeakAI](https://sitespeak.ai) | Automatiza tu atención al cliente con ChatGPT. | Cree un chatbot de soporte de IA personalizado y capacitado utilizando su propio contenido, documentos de soporte, PDF, API o base de datos. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->

@@ -1098,6 +1098,7 @@ Capture — простая интеграция.</p>
 | [NOLU](https://www.thataicollection.com/redirect/nolu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ВЗАИМОДЕЙСТВИЕ с ИИ должно быть ПРОСТЫМ. | Встречайте НОЛУ. Простой интерфейс для взаимодействия с движком Open AI GPT-3. | :white_check_mark: |
 | [PageLines](https://www.thataicollection.com/redirect/pagelines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Агенты ИИ для веб-сайтов. | Агенты и чат-боты на базе ChapGPT, которые улучшают ваш веб-сайт и маркетинг. | :white_check_mark: |
 | [SiteGPT](https://www.thataicollection.com/redirect/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT для каждого сайта. | Мгновенно отвечайте на вопросы посетителей с помощью персонализированного чат-бота, обученного содержанию вашего сайта. | :white_check_mark: |
+| [SiteSpeakAI](https://sitespeak.ai) | Автоматизируйте поддержку клиентов с помощью ChatGPT. | Создайте специально обученного чат-бота поддержки искусственного интеллекта, используя собственный контент, документы поддержки, PDF-файлы, API или базу данных. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
