@@ -41,7 +41,8 @@
 
 <div align="center">
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
-    <a href="LICENSE">License</a>
+    <a href="LICENSE">License</a> •
+    <a href="https://aicollection.beehiiv.com/subscribe">Newsletter</a>
 </div>
 
 --- 
