@@ -27,7 +27,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=918" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=927" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -42,7 +42,8 @@
 <div align="center">
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
     <a href="LICENSE">License</a> •
-    <a href="https://aicollection.beehiiv.com/subscribe">Newsletter</a>
+    <a href="https://aicollection.beehiiv.com/subscribe">Newsletter</a> •
+    <a href="https://www.thataicollection.com/en/blog/">Blog</a>
 </div>
 
 --- 
@@ -106,6 +107,7 @@ Captura: integración sin esfuerzo.</p>
 - 📧 [Asistente De Correo Electrónico](#asistente-de-correo-electrónico)
 - 🎓 [Asistente De Investigación](#asistente-de-investigación)
 - ✍️ [Asistente De Redacción](#asistente-de-redacción)
+- 👨‍💻 [Asistente De Reuniones](#asistente-de-reuniones)
 - 👨‍💻 [Atención Al Cliente](#atención-al-cliente)
 - 😎 [Avatares](#avatares)
 - 🛒 [Comercio Electrónico](#comercio-electrónico)
@@ -135,7 +137,6 @@ Captura: integración sin esfuerzo.</p>
 - 👩‍💼 [Recursos Humanos Y Currículum](#recursos-humanos-y-currículum)
 - 💞 [Redes Sociales Y Citas](#redes-sociales-y-citas)
 - 🗳 [Reseñas Y Recomendaciones](#reseñas-y-recomendaciones)
-- 👨‍💻 [Resumen De La Reunión](#resumen-de-la-reunión)
 - 🤖💬 [Robot De Chat](#robot-de-chat)
 - 📝 [Texto](#texto)
 - 📝🔉 [Texto A Voz](#texto-a-voz)
@@ -284,6 +285,23 @@ Captura: integración sin esfuerzo.</p>
 | [Whiskey AI](https://www.thataicollection.com/redirect/whiskey-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Whisky te ayudará a generar el contenido que deseas. | Whiskey ha sido diseñado para que estudiantes, periodistas y profesionales puedan expresar sus pensamientos en formatos de texto bien escritos con el mínimo esfuerzo y tiempo. | :white_check_mark: |
 | [Wordtune](https://www.thataicollection.com/redirect/wordtune?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Wordtune: su editor y asistente de escritura personal. | . | :grey_question: |
 | [Writefull Academizer](https://www.thataicollection.com/redirect/writefull-academizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Donde AI 💛 Escritura Académica. | En Writefull, nos encanta experimentar con IA para ayudar a la escritura académica. Este es el lugar donde publicamos algunos de nuestros experimentos. | :white_check_mark: |
+
+
+<!--lint ignore double-link-->
+**[⬆ Volver al índice](#index)**
+
+## Asistente De Reuniones
+| Nombre | Título | Descripción | Ofrecer versión gratuita |
+|---|---|---|:---:|
+| [Avoma](https://www.thataicollection.com/redirect/avoma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Acelera la productividad de tu equipo y el crecimiento de los ingresos de la empresa. | La solución líder de IA para reuniones e inteligencia de ingresos. Todo en un solo lugar, no en todos lados. Asistente de reuniones con IA: obtén transcripciones y notas de IA para centrarte en las conversaciones. Colaboración en reuniones: colabora con equipos multifuncionales para una mejor alineación. Inteligencia de conversación e ingresos: aprenda información fundamental para tomar decisiones y asesorar basados en datos. | :white_check_mark: |
+| [Fathom](https://www.thataicollection.com/redirect/fathom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Mejora tu productividad con tu propio asistente de reuniones con IA gratuito. | Fathom graba, transcribe, destaca y resume tus reuniones para que puedas centrarte en la conversación. Prepárate en cuestión de minutos. | :white_check_mark: |
+| [Fireflies](https://www.thataicollection.com/redirect/fireflies?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Fireflies.Ai: automatiza tu notas de la reunión: anotador e inteligencia de conversaciones. | Fireflies.ai ayuda a tu equipo a grabar, transcribir, buscar y analizar las conversaciones de voz. Graba y transcribe automáticamente las reuniones, encuentra cualquier cosa con la búsqueda basada en la IA, colabora con tus compañeros de trabajo, analiza las reuniones mediante la inteligencia de conversación. | :white_check_mark: |
+| [Jamie](https://www.thataicollection.com/redirect/jamie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Jamie: asistente de IA para resúmenes de reuniones. | jamie es un asistente de IA que crea resúmenes de reuniones con calidad de redacción empresarial en cuestión de segundos. Inténtalo ahora y convéncete de la experiencia mágica. | :grey_question: |
+| [Otter](https://www.thataicollection.com/redirect/otter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Otter: recupera tu agenda con Otter. | Consigue un asistente de reuniones con IA que grabe el audio, escriba notas, capture las acciones y genere resúmenes. Escribe notas y resume las reuniones 30 veces más rápido y ahorra tiempo con las notas de las reuniones automatizadas. Obtén respuestas al instante y mantén a todos informados con Live Summary. | :white_check_mark: |
+| [Sembly AI](https://www.thataicollection.com/redirect/sembly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Sembly AI: el asistente de equipo de IA más inteligente. | Sembly transcribe, toma notas de las reuniones y genera información para tus reuniones profesionales. Haz que todas tus reuniones sean productivas: notas de las reuniones para cada reunión, encuentra cualquier reunión anterior en cualquier momento, recuerda tus reuniones anteriores, disfruta de los resúmenes de las reuniones de la IA, mantente informado sin necesidad de asistir, automatiza tus seguimientos. | :white_check_mark: |
+| [Supernormal](https://www.thataicollection.com/redirect/supernormal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Supernormal: IA que escribe las notas de tus reuniones. | Dedica menos tiempo a escribir, pulir y compartir notas y más tiempo al trabajo que solo tú puedes hacer. Con los lápices abajo. Supernormal tiene lo que necesitas. Supernormal toma notas durante la reunión y las formatea automáticamente, para diferentes casos de uso, mediante una IA segura. | :grey_question: |
+| [tl;dv](https://www.thataicollection.com/redirect/tl;dv?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tomamos las notas de la reunión. Tú diriges el programa. | La grabadora de reuniones que transcribe y resume tus llamadas con clientes, clientes potenciales y tu equipo. Graba y transcribe automáticamente Zoom y Google Meet, graba y transcribe automáticamente Zoom y Google Meet, céntrate en la conversación. La IA tomará tus notas y contará una historia poderosa con clips de clientes del tamaño de un bocado. | :white_check_mark: |
+| [Wudpecker](https://www.thataicollection.com/redirect/wudpecker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Wudpecker es una herramienta de reuniones de inteligencia artificial que establece el nuevo valor predeterminado para almacenar el conocimiento de las reuniones. Obtenga resúmenes, elementos de acción e información valiosa de sus equipos Zoom, Google Meet. | - Ofrece resúmenes y transcripciones basados ​​en chatGPT, lo que facilita la revisión de reuniones y encuentre información importante rápidamente. - Admite más de 100 idiomas - Reconoce diferentes hablantes e idiomas en un mismo encuentro. - Permite a los usuarios compartir grabaciones fácilmente, lo que facilita la colaboración - Fácil de usar y fácil de incorporar. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
@@ -595,6 +613,7 @@ Captura: integración sin esfuerzo.</p>
 |---|---|---|:---:|
 | [Business Idea Generator](https://www.thataicollection.com/redirect/business-idea-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Lluvia de ideas de negocios. | Obtén ideas de negocios personalizadas en segundos con el poder de la IA. | :white_check_mark: |
 | [Ideasai](https://www.thataicollection.com/redirect/ideasai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ideasai: ideas para empresas emergentes impulsadas por Openai. | Ideas generadas al 100% por la GPT-3 de OpenAI, un modelo de aprendizaje profundo con inteligencia artificial, sin la participación humana, y entrenadas por ti y más de 1.856.031 personas a las que les gustaban o no les gustaban las ideas. | :white_check_mark: |
+| [My Spicy Vanilla](https://www.thataicollection.com/redirect/my-spicy-vanilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generador de ideas para citas con IA de My Spicy Vanilla. | El generador de ideas para citas con IA de My Spicy Vanilla es una herramienta que utiliza la IA para generar planes únicos para una cita nocturna.  Para utilizar la herramienta, se pide a los usuarios que rellenen un formulario con información básica como la categoría, la ubicación, el presupuesto, la duración y la hora del día.  Una vez enviada, nuestra IA selecciona una fecha y descripción a medida, con consejos útiles y recomendaciones de productos para mejorar la experiencia/. | :white_check_mark: |
 | [Paperade](https://www.thataicollection.com/redirect/paperade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generador de ideas para startups de Paperade. | Paperade es la primera herramienta impulsada por IA que genera casos de uso comercial e ideas empresariales a partir de más de 100 millones de artículos académicos y estudios de investigación. | :grey_question: |
 | [Validator AI](https://www.thataicollection.com/redirect/validator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Comienza tu viaje empresarial hoy mismo de forma gratuita. | Introduce tu idea de startup y nuestro mentor de empresas emergentes de IA la analizará gratis. Puedes hablar con nuestro chatbot mentor de IA todo lo que quieras y aprender todo lo que necesites saber sobre el lanzamiento de una startup. | :grey_question: |
 | [Videomuse](https://www.thataicollection.com/redirect/videomuse?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Genere nuevas ideas de video sin esfuerzo simplemente pegando la URL de su canal. En segundos, reciba una gran cantidad de inspiración adaptada a su contenido. | Como creadores de contenido, todos nos encontramos con momentos en los que nuestro pozo de ideas se agota. Este sitio web lo ayudará a generar ideas basadas en sus cargas actuales. Simplemente dale el enlace a tu canal (o cualquier canal) y deja que suceda la magia. Para cada idea, también puede generar algunos detalles: qué debe cubrir el video, sugerencias sobre la estructura del video, etc. | :white_check_mark: |
@@ -999,17 +1018,6 @@ Captura: integración sin esfuerzo.</p>
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
 
-## Resumen De La Reunión
-| Nombre | Título | Descripción | Ofrecer versión gratuita |
-|---|---|---|:---:|
-| [Jamie](https://www.thataicollection.com/redirect/jamie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Jamie: asistente de IA para resúmenes de reuniones. | jamie es un asistente de IA que crea resúmenes de reuniones con calidad de redacción empresarial en cuestión de segundos. Inténtalo ahora y convéncete de la experiencia mágica. | :grey_question: |
-| [Supernormal](https://www.thataicollection.com/redirect/supernormal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Supernormal: IA que escribe las notas de tus reuniones. | Dedica menos tiempo a escribir, pulir y compartir notas y más tiempo al trabajo que solo tú puedes hacer. Con los lápices abajo. Supernormal tiene lo que necesitas. Supernormal toma notas durante la reunión y las formatea automáticamente, para diferentes casos de uso, mediante una IA segura. | :grey_question: |
-| [Wudpecker](https://www.thataicollection.com/redirect/wudpecker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Wudpecker es una herramienta de reuniones de inteligencia artificial que establece el nuevo valor predeterminado para almacenar el conocimiento de las reuniones. Obtenga resúmenes, elementos de acción e información valiosa de sus equipos Zoom, Google Meet. | - Ofrece resúmenes y transcripciones basados ​​en chatGPT, lo que facilita la revisión de reuniones y encuentre información importante rápidamente. - Admite más de 100 idiomas - Reconoce diferentes hablantes e idiomas en un mismo encuentro. - Permite a los usuarios compartir grabaciones fácilmente, lo que facilita la colaboración - Fácil de usar y fácil de incorporar. | :white_check_mark: |
-
-
-<!--lint ignore double-link-->
-**[⬆ Volver al índice](#index)**
-
 ## Robot De Chat
 | Nombre | Título | Descripción | Ofrecer versión gratuita |
 |---|---|---|:---:|
@@ -1173,6 +1181,7 @@ Captura: integración sin esfuerzo.</p>
 | [Copy.ai](https://www.thataicollection.com/redirect/copy.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Redacte mejores textos de marketing y contenido con IA. | Di adiós a la página en blanco para siempre. | :white_check_mark: |
 | [Ctrl](https://www.thataicollection.com/redirect/ctrl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Una interfaz de usuario moderna para sus flujos de trabajo complejos de CRM. | simplifique sus flujos de trabajo y tareas de ventas al automatizar las actualizaciones de CRM, generar seguimientos personalizados y facilitar la ejecución de acuerdos. | :white_check_mark: |
 | [Cuetap.com](https://www.thataicollection.com/redirect/cuetap.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tarjetas de batalla de ventas impulsadas por IA y CI. | La plataforma impulsada por IA proporciona Battlecards automágicos e inteligencia competitiva procesable. | :white_check_mark: |
+| [FlashIntel](https://www.thataicollection.com/redirect/flashintel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | FlashIntel: Aumente las estrategias de ingresos. ☁. | Presentamos FlashIntel: una de las principales empresas de inteligencia de comercialización que refuerza los equipos de ingresos al mejorar su capacidad de descubrir los perfiles de clientes ideales y conectarse con ellos. Nuestras soluciones integrales combinan las funciones de inteligencia de ventas y participación en una plataforma unificada, lo que permite a los equipos de ingresos refinar sus flujos de trabajo y concentrarse en lograr un mejor rendimiento. | :white_check_mark: |
 | [Genius Sheets](https://www.thataicollection.com/redirect/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Genius Sheets: INTELIGENCIA EMPRESARIAL DEL FUTURO Análisis de datos con IA. | Genius Sheets AI es un agente de inteligencia empresarial de autoservicio que responde a todas tus preguntas más importantes. IA conversacional: habla con Genius Sheets como si estuvieras hablando con un compañero de trabajo Seguridad empresarial: diseñada para los estándares de seguridad empresarial, para mantener tus datos seguros. Fácil de usar: no se necesita SQL ni Python Interfaz nativa: conéctate a tus datos en nuestra aplicación web, Slack o Teams. | :white_check_mark: |
 | [GetResponse](https://www.thataicollection.com/redirect/getresponse?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Getresponse - Email Marketing Profesional para Todos. | Herramienta poderosa y simplificada para enviar correos electrónicos, crear páginas y automatizar su comercialización. | :white_check_mark: |
 | [Hoppy Copy](https://www.thataicollection.com/redirect/hoppy-copy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hoppy Copy: plataforma de redacción publicitaria de marketing por correo electrónico con IA. | Ahorre incontables horas escribiendo. Use IA para generar una copia poderosa para cientos de diferentes campañas de marketing por correo electrónico, goteos, boletines y más, en segundos ⚡. | :grey_question: |
@@ -1218,6 +1227,7 @@ Captura: integración sin esfuerzo.</p>
 | [Vidyo](https://www.thataicollection.com/redirect/vidyo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Reutilización de contenido basado en IA - Vidyo.Ai. | Cree clips cortos aptos para redes sociales a partir de sus videos con IA ✨ Ahorre un 90 % de tiempo y esfuerzo. | :grey_question: |
 | [Waymark](https://www.thataicollection.com/redirect/waymark?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aumente las ventas locales con videos increíblemente fáciles. | Cuando los anuncios de TV, CTV y digitales son tan sencillos, las posibilidades son ilimitadas. Los anuncios de alto impacto ahora están abiertos a todos, con Waymark. | :grey_question: |
 | [Wzrd.ai](https://www.thataicollection.com/redirect/wzrd.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Experimenta tu sonido. | WZRD aumenta su audio con video inmersivo impulsado por inteligencia artificial. | :grey_question: |
+| [Yepic AI](https://www.thataicollection.com/redirect/yepic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tu kit de herramientas de vídeo de IA: crea, dobla y personaliza vídeos. | El futuro del vídeo es generado por IA, ultralocalizado e hiperpersonalizado. Con Yepic AI, cualquiera puede crear y traducir vídeos al estilo de un parlante en cuestión de minutos sin cámaras, actores o estudios caros. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
@@ -1279,7 +1289,6 @@ Captura: integración sin esfuerzo.</p>
 | [Echowin](https://www.thataicollection.com/redirect/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Gestión de llamadas impulsada por IA con comprensión total del lenguaje natural y respuestas personalizadas para cada escenario. | . | :grey_question: |
 | [Everypixel](https://www.thataicollection.com/redirect/everypixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Motor de búsqueda de imágenes de stock - Más de 50 mejores fuentes - Everypixel. | . | :grey_question: |
 | [ExactBuyer Search](https://www.thataicollection.com/redirect/exactbuyer-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Exactbuyer - Búsqueda de empresas impulsada por IA para equipos de prospección. | . | :grey_question: |
-| [Fireflies](https://www.thataicollection.com/redirect/fireflies?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Fireflies.Ai - Fireflies AI Notetaker & Conversation Intelligence. | Fireflies.ai ayuda a su equipo a grabar, transcribir, buscar y analizar conversaciones de voz. | :grey_question: |
 | [Friday AI](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Heyfriday: escritor de IA definitivo. | . | :grey_question: |
 | [Glasp](https://www.thataicollection.com/redirect/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Glasp: resaltador web social. | Resalte y agregue notas mientras lee. Cree una biblioteca de su aprendizaje. | :grey_question: |
 | [GooseAI](https://www.thataicollection.com/redirect/gooseai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | gansoai. | . | :grey_question: |
@@ -1396,7 +1405,6 @@ Captura: integración sin esfuerzo.</p>
 | [Writelyai](https://www.thataicollection.com/redirect/writelyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Writely: uso de IA para mejorar su escritura. | . | :grey_question: |
 | [Writeplus](https://www.thataicollection.com/redirect/writeplus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Write+: ¡escritura profesional al alcance de todos!. | . | :grey_question: |
 | [Writer](https://www.thataicollection.com/redirect/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Writer - Plataforma de escritura de IA para equipos. | Las empresas de clase mundial utilizan la plataforma de escritura con IA de Writer para desbloquear contenido de marca a escala. | :grey_question: |
-| [Yepic AI](https://www.thataicollection.com/redirect/yepic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Su kit de herramientas de video AI: cree, copie y personalice videos. | Cree, copie y personalice videos en cualquier lugar. | :grey_question: |
 
 
 <!--lint ignore double-link-->
