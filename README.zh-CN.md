@@ -27,7 +27,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=918" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=927" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -42,7 +42,8 @@
 <div align="center">
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
     <a href="LICENSE">License</a> •
-    <a href="https://aicollection.beehiiv.com/subscribe">Newsletter</a>
+    <a href="https://aicollection.beehiiv.com/subscribe">Newsletter</a> •
+    <a href="https://www.thataicollection.com/en/blog/">Blog</a>
 </div>
 
 --- 
@@ -104,7 +105,7 @@ AI写作副驾驶</h4>
 - 👩‍💼 [人力资源与简历](#人力资源与简历)
 - 💻 [代码和数据库助手](#代码和数据库助手)
 - 📈 [会计与金融](#会计与金融)
-- 👨‍💻 [会议纪要](#会议纪要)
+- 👨‍💻 [会议助理](#会议助理)
 - 🏖 [假期和旅行计划](#假期和旅行计划)
 - 📠 [内容生成和搜索引擎优化](#内容生成和搜索引擎优化)
 - ✍️ [写作助理](#写作助理)
@@ -255,11 +256,17 @@ AI写作副驾驶</h4>
 <!--lint ignore double-link-->
 **[⬆ 返回索引](#index)**
 
-## 会议纪要
+## 会议助理
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
+| [Avoma](https://www.thataicollection.com/redirect/avoma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 加快团队的工作效率和公司的收入增长. | 领先的 AI 会议助手和收入情报解决方案。全部集中在一个地方，而不是到处都是。AI Meeting Assistant-获取笔录和 AI 笔记，专注于对话。会议协作-与跨职能团队合作以实现更好的协调。对话与收入情报-学习关键见解，以进行数据驱动的决策和指导。. | :white_check_mark: |
+| [Fathom](https://www.thataicollection.com/redirect/fathom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用您的设备来提高您的工作效率 拥有免费的 AI 会议助手. | Fathom 记录、转录、突出显示和总结您的会议，以便您可以专注于对话。几分钟内即可完成设置。. | :white_check_mark: |
+| [Fireflies](https://www.thataicollection.com/redirect/fireflies?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Fireflies.Ai-自动化你的 会议记录-记笔记和会话情报. | Fireflies.ai 可帮助您的团队录制、转录、搜索和分析语音对话。自动录制和转录会议，使用 AI 驱动的搜索查找任何内容，与同事协作，使用对话智能分析会议. | :white_check_mark: |
 | [Jamie](https://www.thataicollection.com/redirect/jamie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Jamie-会议摘要的人工智能助手. | Jamie 是一位人工智能助手，可在几秒钟内以商业写作质量创建会议摘要。现在就试试吧，让自己相信魔法体验。. | :grey_question: |
+| [Otter](https://www.thataicollection.com/redirect/otter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Otter-和 Otter 一起恢复你的日程安排。. | 获取 AI 会议助手，它可以录制音频、写笔记、捕捉行动项目和生成摘要。写笔记和总结会议速度提高 30 倍，使用自动会议记录节省时间。立即获得答案，让所有人与实时摘要保持一致。. | :white_check_mark: |
+| [Sembly AI](https://www.thataicollection.com/redirect/sembly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Sembly AI-最聪明的人工智能团队助手. | Sembly 可以转录、记录会议笔记，并为您的专业会议生成见解。 让您的所有会议富有成效：每次会议的会议记录，随时查找过去的任何会议，回想过去的会议，享受人工智能会议摘要，无需出席即可随时了解情况，自动执行后续行动。. | :white_check_mark: |
 | [Supernormal](https://www.thataicollection.com/redirect/supernormal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Supernormal-写会议记录的人工智能. | 减少写作、完善和共享笔记的时间，将更多的时间花在只有你能做的工作上。把铅笔放下。 Supernormal 可以满足你的需求。 Supernormal 在会议期间记笔记，并使用安全的 AI 针对所有不同的用例自动对其进行格式化。. | :grey_question: |
+| [tl;dv](https://www.thataicollection.com/redirect/tl;dv?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 我们会记录您的会议记录。你掌权。. | 会议记录器，可记录和总结您与客户、潜在客户和团队的通话。自动录制和转录 Zoom 和 Google Meet，自动录制和转录 Zoom 和 Google Meet，专注于对话。人工智能会记录你的笔记，用一口大小的客户片段讲述一个有力的故事。. | :white_check_mark: |
 | [Wudpecker](https://www.thataicollection.com/redirect/wudpecker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Wudpecker 是一款人工智能会议工具，为存储会议知识设置了新的默认值。 从 Zoom、Google Meet、Microsoft Teams 获取摘要、行动项目和见解 会议。. | - 提供由 chatGPT 支持的摘要和文字记录，使您可以轻松回顾会议和 快速找到重要的见解。 - 支持 100 多种语言 - 在同一会议中识别不同的发言者和语言。 - 允许用户轻松共享录音，轻松协作 - 用户友好且易于上手. | :white_check_mark: |
 
 
@@ -397,6 +404,7 @@ AI写作副驾驶</h4>
 |---|---|---|:---:|
 | [Business Idea Generator](https://www.thataicollection.com/redirect/business-idea-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 集思广益的经营理念. | 借助 AI 的力量，在几秒钟内获得个性化的商业创意。. | :white_check_mark: |
 | [Ideasai](https://www.thataicollection.com/redirect/ideasai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ideasai-由 Openai 提供支持的创业创意. | 这些想法由 OpenAI 的 GPT-3（一种人工智能的深度学习模型）100% 生成，无需人工参与，由你和其他超过 1,856,031 个喜欢或不喜欢想法的人进行训练. | :white_check_mark: |
+| [My Spicy Vanilla](https://www.thataicollection.com/redirect/my-spicy-vanilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | My Spicy Vanilla 的 AI 日期创意生成器. | My Spicy Vanilla 的 AI Date Idea Generator 是一款利用人工智能生成独特的约会之夜计划的工具。  要使用该工具，系统会提示用户在表单中填写基本信息，例如类别、地点、预算、持续时间和一天中的时间。  提交后，我们的 AI 会精心策划一份量身定制的日期描述，提供有用的提示、产品推荐以提升体验/. | :white_check_mark: |
 | [Paperade](https://www.thataicollection.com/redirect/paperade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paperade 创业点子生成器. | Paperade 是第一个基于 AI 的工具，可以从 1 亿多篇学术论文和研究中生成商业用例和公司创意。. | :grey_question: |
 | [Validator AI](https://www.thataicollection.com/redirect/validator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 立即免费开始您的创业之旅. | 输入您的创业想法，我们的人工智能创业导师将免费对其进行分析。您可以随心所欲地与我们的人工智能导师聊天机器人交谈，并学习有关创办初创公司所需了解的任何信息！. | :grey_question: |
 | [Videomuse](https://www.thataicollection.com/redirect/videomuse?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 只需粘贴您的频道 URL，即可毫不费力地产生新鲜的视频创意。在几秒钟内，收到为您的内容量身定制的丰富灵感。. | 作为内容创作者，我们都会遇到想法枯竭的时刻。该网站将帮助您根据当前上传的内容集思广益。您只需给它链接到您的频道（或任何频道），让奇迹发生。对于每个想法，您还可以生成一些细节 - 视频应该涵盖什么、关于视频结构的提示等。. | :white_check_mark: |
@@ -1125,6 +1133,7 @@ AI写作副驾驶</h4>
 | [Vidyo](https://www.thataicollection.com/redirect/vidyo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 基于 AI 的内容再利用 - vidyo.ai. | 使用 AI 从您的视频创建适合社交的短片 ✨ 节省 90% 的时间和精力. | :grey_question: |
 | [Waymark](https://www.thataicollection.com/redirect/waymark?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过令人难以置信的简单视频促进本地销售。. | 当电视、CTV 和数字广告如此轻松时，可能性是无限的。高影响力的广告现在向所有人开放，Waymark。. | :grey_question: |
 | [Wzrd.ai](https://www.thataicollection.com/redirect/wzrd.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 体验您的声音. | WZRD 通过人工智能支持的沉浸式视频增强您的音频. | :grey_question: |
+| [Yepic AI](https://www.thataicollection.com/redirect/yepic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 你的 AI 视频工具包-创建、配音和个性化视频. | 视频的未来是人工智能生成、超本地化和超个性化。借助Yepic AI，任何人都可以在几分钟内创建和翻译会说话的头脑风格的视频，而无需昂贵的摄像机、演员或工作室。. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
@@ -1177,6 +1186,7 @@ AI写作副驾驶</h4>
 | [Copy.ai](https://www.thataicollection.com/redirect/copy.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 撰写更好的营销文案和内容. | 说再见'永远到空白页. | :white_check_mark: |
 | [Ctrl](https://www.thataicollection.com/redirect/ctrl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 适用于复杂 CRM 工作流程的现代 UI. | 通过自动化 CRM 更新、生成量身定制的后续行动并促进交易执行，简化您的销售工作流程和任务. | :white_check_mark: |
 | [Cuetap.com](https://www.thataicollection.com/redirect/cuetap.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 和 CI 助力销售战卡. | AI 驱动的平台提供自动魔法战卡和可操作的竞争情报。. | :white_check_mark: |
+| [FlashIntel](https://www.thataicollection.com/redirect/flashintel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | FlashIntel：提升收入策略。☁. | 介绍FlashIntel：一家首屈一指的上市情报公司，通过提高收入团队发现和联系理想客户档案的能力来加强收入团队。我们的包罗万象的解决方案将销售情报和参与功能整合到一个统一的平台中，使收入团队能够完善工作流程，专注于提高绩效。. | :white_check_mark: |
 | [Genius Sheets](https://www.thataicollection.com/redirect/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Genius Sheets-来自未来的商业智能 人工智能驱动的数据分析. | Genius Sheets AI 是一款自助式商业智能代理，可以回答你所有最重要的问题。 对话式 AI-与 Genius Sheets 交谈，就像在和同事说话一样 企业安全-专为企业安全标准而构建-确保您的数据安全。 易于使用-不需要 SQL 或 Python 原生界面-在我们的 WebApp、Slack 或 Teams 中连接到你的数据. | :white_check_mark: |
 | [GetResponse](https://www.thataicollection.com/redirect/getresponse?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | GetResponse - 适合所有人的专业电子邮件营销. | 用于发送电子邮件、创建页面和自动化营销的强大、简化的工具。. | :white_check_mark: |
 | [Hoppy Copy](https://www.thataicollection.com/redirect/hoppy-copy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hoppy Copy：人工智能邮件营销文案平台. | 节省无数的写作时间。使用 AI 在几秒钟内为数百种不同的电子邮件营销活动、滴灌、新闻通讯等生成强大的副本 ⚡. | :grey_question: |
@@ -1279,7 +1289,6 @@ AI写作副驾驶</h4>
 | [Echowin](https://www.thataicollection.com/redirect/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 支持的呼叫管理具有完全自然语言理解和针对每个场景的个性化响应。. | . | :grey_question: |
 | [Everypixel](https://www.thataicollection.com/redirect/everypixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 库存图片搜索引擎 - 超过 50 个最佳来源 - Everypixel. | . | :grey_question: |
 | [ExactBuyer Search](https://www.thataicollection.com/redirect/exactbuyer-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ExactBuyer - 面向潜在客户团队的人工智能业务搜索. | . | :grey_question: |
-| [Fireflies](https://www.thataicollection.com/redirect/fireflies?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Fireflies.ai - Fireflies AI 记事本和对话智能. | Fireflies.ai 帮助您的团队记录、转录、搜索和分析语音对话。. | :grey_question: |
 | [Friday AI](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | HeyFriday - 终极人工智能作家. | . | :grey_question: |
 | [Glasp](https://www.thataicollection.com/redirect/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Glasp：社交网络荧光笔. | 阅读时突出显示并添加注释。创建您的学习图书馆. | :grey_question: |
 | [GooseAI](https://www.thataicollection.com/redirect/gooseai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 鹅AI. | . | :grey_question: |
@@ -1396,7 +1405,6 @@ AI写作副驾驶</h4>
 | [Writelyai](https://www.thataicollection.com/redirect/writelyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Writely - 使用 AI 改善您的写作. | . | :grey_question: |
 | [Writeplus](https://www.thataicollection.com/redirect/writeplus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Write+ – 专业写作，人人可用！. | . | :grey_question: |
 | [Writer](https://www.thataicollection.com/redirect/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Writer - 团队人工智能写作平台. | 世界级公司使用 Writer 的 AI 写作平台大规模解锁品牌内容. | :grey_question: |
-| [Yepic AI](https://www.thataicollection.com/redirect/yepic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您的 AI 视频工具包 - 创建、配音和个性化视频. | 随时随地创建、复制和个性化视频。. | :grey_question: |
 
 
 <!--lint ignore double-link-->
