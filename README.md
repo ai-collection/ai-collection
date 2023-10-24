@@ -2,23 +2,23 @@
 
 <br />
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![FlowCog](https://aicollection.twic.pics/screenshots/screenshot-flowcog.webp?twic=v1/resize=240 "FlowCog")
 Inline-style:
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![StockGPT](https://aicollection.twic.pics/screenshots/screenshot-stockgpt.webp?twic=v1/resize=240 "StockGPT")
 Inline-style:
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Jinnee](https://aicollection.twic.pics/screenshots/screenshot-jinnee.webp?twic=v1/resize=240 "Jinnee")
 Inline-style:
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Torto.ai](https://aicollection.twic.pics/screenshots/screenshot-torto.ai.webp?twic=v1/resize=240 "Torto.ai")
 Inline-style:
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Stocknews AI](https://aicollection.twic.pics/screenshots/screenshot-stocknews-ai.webp?twic=v1/resize=240 "Stocknews AI")
 Inline-style:
 
 
