@@ -3,7 +3,7 @@
 <br />
 
 ### FlowCog
-![https://aicollection.twic.pics/screenshots/screenshot-flowcog.webp?twic=v1/resize=240](www.thataicollection.com/application/flowcog)
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-flowcog.webp?twic=v1/resize=240" alt="FlowCog">
 
 #### SaaS Financial Projections Quick & Easy ⚡
 Unlock cash runway & growth insights — no spreadsheets! 7 minute onboarding. QuickBooks & Stripe ready. Trusted by boards & investors
@@ -12,7 +12,7 @@ Unlock cash runway & growth insights — no spreadsheets! 7 minute onboarding. Q
 <br />
 
 ### StockGPT
-![https://aicollection.twic.pics/screenshots/screenshot-stockgpt.webp?twic=v1/resize=240](www.thataicollection.com/application/stockgpt)
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stockgpt.webp?twic=v1/resize=240" alt="StockGPT">
 
 #### AI-Powered Search Engine
 StockGPT is an AI-powered search engine that was trained on all of Teslas quarterly earnings call transcripts dating back to Q2 2011.
@@ -21,7 +21,7 @@ StockGPT is an AI-powered search engine that was trained on all of Teslas quarte
 <br />
 
 ### Jinnee
-![https://aicollection.twic.pics/screenshots/screenshot-jinnee.webp?twic=v1/resize=240](www.thataicollection.com/application/jinnee)
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jinnee.webp?twic=v1/resize=240" alt="Jinnee">
 
 #### Jinnee – Your Fintech Virtual Assistant
 problems Jinnee could solve: Limited capacity - Support department cannot process every request, Long waiting time - Customers located in different timezones, Repetitive queries - Can be automated to save time, Time-wasters - Create toxic work environment
@@ -30,7 +30,7 @@ problems Jinnee could solve: Limited capacity - Support department cannot proces
 <br />
 
 ### Torto.ai
-![https://aicollection.twic.pics/screenshots/screenshot-torto.ai.webp?twic=v1/resize=240](www.thataicollection.com/application/torto.ai)
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-torto.ai.webp?twic=v1/resize=240" alt="Torto.ai">
 
 #### Stock Market Made Simple
 .
@@ -39,7 +39,7 @@ problems Jinnee could solve: Limited capacity - Support department cannot proces
 <br />
 
 ### Stocknews AI
-![https://aicollection.twic.pics/screenshots/screenshot-stocknews-ai.webp?twic=v1/resize=240](www.thataicollection.com/application/stocknews-ai)
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stocknews-ai.webp?twic=v1/resize=240" alt="Stocknews AI">
 
 #### Stocknews AI - AI Picked Stock News
 .
