@@ -149,8 +149,6 @@ AI写作副驾驶</h4>
 
 ## 会计与金融
 
-<br />
-
 ### FlowCog
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-flowcog.webp?twic=v1/resize=240" alt="FlowCog">
 
@@ -214,8 +212,6 @@ Stocknews AI 每天都是精选最新股票新闻的策展人。发现每个人�
 ---
 
 ## 动画和 3D 建模
-
-<br />
 
 ### Blimey
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-blimey.webp?twic=v1/resize=240" alt="Blimey">
@@ -293,8 +289,6 @@ Blimey 是一款人工智能图像生成器，你可以在一分钟内将想法�
 ---
 
 ## 建筑与室内设计
-
-<br />
 
 ### Makeit.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-makeit.ai.webp?twic=v1/resize=240" alt="Makeit.ai">
@@ -400,8 +394,6 @@ Blimey 是一款人工智能图像生成器，你可以在一分钟内将想法�
 ---
 
 ## 艺术与图像生成器
-
-<br />
 
 ### Getimg.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-getimg.ai.webp?twic=v1/resize=240" alt="Getimg.ai">
@@ -550,8 +542,6 @@ None
 
 ## 化身
 
-<br />
-
 ### HairstyleAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hairstyleai.webp?twic=v1/resize=240" alt="HairstyleAI">
 
@@ -698,8 +688,6 @@ AI 生成您主演的图片
 ---
 
 ## 聊天机器人
-
-<br />
 
 ### AChatsimple
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-achatsimple.webp?twic=v1/resize=240" alt="AChatsimple">
@@ -848,8 +836,6 @@ Kore.ai 通过部署对话式 AI 优先虚拟助手和流程助手，实现每�
 
 ## 代码和数据库助手
 
-<br />
-
 ### Swimm AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-swimm-ai.webp?twic=v1/resize=240" alt="Swimm AI">
 
@@ -997,8 +983,6 @@ Klu.ai 是一个多合一平台，专为 AI 团队构建、部署和优化生成
 
 ## 内容生成和搜索引擎优化
 
-<br />
-
 ### CarbonCopy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-carboncopy.webp?twic=v1/resize=240" alt="CarbonCopy">
 
@@ -1145,8 +1129,6 @@ Creaitor 将帮助您以更强大、更能表达情感的方式编写内容
 ---
 
 ## 创作者工具包
-
-<br />
 
 ### Damn Good Tools
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-damn-good-tools.webp?twic=v1/resize=240" alt="Damn Good Tools">
@@ -1297,8 +1279,6 @@ TextSynth 使用自定义推理代码来更快地对标准 GPU 和 CPU 进行推
 
 ## 客户支持
 
-<br />
-
 ### Webapi.ai 2.0
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-webapi.ai-2.0.webp?twic=v1/resize=240" alt="Webapi.ai 2.0">
 
@@ -1448,8 +1428,6 @@ Wadeck 是一款免费的 WhatsApp CRM 工具，它配备了基于 GPT 的人工
 
 ## 电子商务
 
-<br />
-
 ### Octie.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-octie.ai.webp?twic=v1/resize=240" alt="Octie.ai">
 
@@ -1568,8 +1546,6 @@ None
 ---
 
 ## 教育与学习
-
-<br />
 
 ### QUIZGECKO
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-quizgecko.webp?twic=v1/resize=240" alt="QUIZGECKO">
@@ -1718,8 +1694,6 @@ TutoeAI Learn Anything 是一个搜索引擎，用于学习任何主题的模块
 
 ## 电子邮件助理
 
-<br />
-
 ### Smartwriter
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-smartwriter.webp?twic=v1/resize=240" alt="Smartwriter">
 
@@ -1867,8 +1841,6 @@ IntelliMail 是一个 chrome 扩展程序，可以生成您的电子邮件 - 因
 
 ## 时尚
 
-<br />
-
 ### FashionAdvisorAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fashionadvisorai.webp?twic=v1/resize=240" alt="FashionAdvisorAI">
 
@@ -1919,8 +1891,6 @@ SwaGai-人工智能在T恤上生成了图像。
 ---
 
 ## 乐趣
-
-<br />
 
 ### CharacterAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-characterai.webp?twic=v1/resize=240" alt="CharacterAI">
@@ -2068,8 +2038,6 @@ SwaGai-人工智能在T恤上生成了图像。
 ---
 
 ## 赌博
-
-<br />
 
 ### charisma
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-charisma.webp?twic=v1/resize=240" alt="charisma">
@@ -2219,8 +2187,6 @@ Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编�
 
 ## 礼物创意
 
-<br />
-
 ### Lovelines
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lovelines.webp?twic=v1/resize=240" alt="Lovelines">
 
@@ -2368,8 +2334,6 @@ Gift Genie AI 是一款由 AI 提供支持的软件，可让您在几秒钟内�
 
 ## 卫生保健
 
-<br />
-
 ### Replika
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-replika.webp?twic=v1/resize=240" alt="Replika">
 
@@ -2418,8 +2382,6 @@ GetActyv 基于人工智能的私人教练将彻底改变您的健身之旅
 ---
 
 ## 人力资源与简历
-
-<br />
 
 ### AI Resume Editor
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-resume-editor.webp?twic=v1/resize=240" alt="AI Resume Editor">
@@ -2569,8 +2531,6 @@ Springworks 构建人力资源软件解决方案，以解决招聘、背景验�
 
 ## 创意产生
 
-<br />
-
 ### Validator AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-validator-ai.webp?twic=v1/resize=240" alt="Validator AI">
 
@@ -2666,8 +2626,6 @@ My Spicy Vanilla 的 AI Date Idea Generator 是一款利用人工智能生成独
 
 ## 合法的
 
-<br />
-
 ### Paralegal AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paralegal-ai.webp?twic=v1/resize=240" alt="Paralegal AI">
 
@@ -2759,8 +2717,6 @@ Spellbook 使用 GPT-3 在 Microsoft Word 中为您的合同审查和建议语�
 
 ## 徽标生成器
 
-<br />
-
 ### Looka
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-looka.webp?twic=v1/resize=240" alt="Looka">
 
@@ -2838,8 +2794,6 @@ None
 ---
 
 ## 会议助理
-
-<br />
 
 ### Fireflies
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fireflies.webp?twic=v1/resize=240" alt="Fireflies">
@@ -2986,8 +2940,6 @@ Sembly 可以转录、记录会议笔记，并为您的专业会议生成见解�
 ---
 
 ## 音乐和音频生成
-
-<br />
 
 ### Emergent Drums
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-emergent-drums.webp?twic=v1/resize=240" alt="Emergent Drums">
@@ -3141,8 +3093,6 @@ Dadabots-我们制作可以模仿波段的原始音频神经网络
 ---
 
 ## 组织与自动化
-
-<br />
 
 ### Hexowatch
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hexowatch.webp?twic=v1/resize=240" alt="Hexowatch">
@@ -3300,8 +3250,6 @@ AI Prompt Generator‍ - 启发、创造、组织。使用 AI 提示激发灵感
 
 ## 照片和图像编辑
 
-<br />
-
 ### HitPaw Online Photo Enhancer
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hitpaw-online-photo-enhancer.webp?twic=v1/resize=240" alt="HitPaw Online Photo Enhancer">
 
@@ -3449,8 +3397,6 @@ HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化�
 
 ## 插件和扩展
 
-<br />
-
 ### AIduh
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aiduh.webp?twic=v1/resize=240" alt="AIduh">
 
@@ -3573,8 +3519,6 @@ Gist AI 是一款免费摘要生成器，只需单击一下即可从任何网站
 ---
 
 ## 生产力与个人成长
-
-<br />
 
 ### Podwise
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-podwise.webp?twic=v1/resize=240" alt="Podwise">
@@ -3727,8 +3671,6 @@ Pth.AI 是一种人工智能工具，可通过提问和创建步骤来引导非�
 
 ## 研究助理
 
-<br />
-
 ### Elicit
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elicit.webp?twic=v1/resize=240" alt="Elicit">
 
@@ -3834,8 +3776,6 @@ RTutor利用OpenAI强大的大语言模型将自然语言翻译成R代码，然�
 
 ## 评论和建议
 
-<br />
-
 ### Sona
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sona.webp?twic=v1/resize=240" alt="Sona">
 
@@ -3913,14 +3853,12 @@ Reviewz.ai 是一个新奇事物，旨在展示 AI 在消费品和推荐领域�
 
 ## 销售与市场营销
 
-<br />
-
 ### Copy.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-copy.ai.webp?twic=v1/resize=240" alt="Copy.ai">
 
 #### 使用 AI 撰写更好的营销文案和内容 - [Visit](https://www.thataicollection.com/redirect/copy.ai)
 
-说再见'永远到空白页
+获得畅销的优秀副本。 Copy.ai 是一款人工智能驱动的文案撰写者，可为您的企业生成高质量的文案。免费开始，无需信用卡！营销简单化！
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/copy.ai)
 
@@ -4067,8 +4005,6 @@ Traq.ai 分析您的销售团队打出的每一个电话，并为他们提供可
 
 ## 搜索引擎
 
-<br />
-
 ### Lexii.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lexii.ai.webp?twic=v1/resize=240" alt="Lexii.ai">
 
@@ -4206,8 +4142,6 @@ SEOify简介：借助我们尖端的人工智能平台，彻底改变您网站�
 
 ## 幻灯片和演示文稿
 
-<br />
-
 ### ChatBA
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chatba.webp?twic=v1/resize=240" alt="ChatBA">
 
@@ -4328,8 +4262,6 @@ Glimmer AI 使用 GPT-3 和 DALL-E 2 使用文本或语音命令轻松快速地�
 ---
 
 ## 社交网络和约会
-
-<br />
 
 ### Roast
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-roast.webp?twic=v1/resize=240" alt="Roast">
@@ -4481,8 +4413,6 @@ AI-MOVIE CLUB是一个用人工智能创作电影的社交网络！
 
 ## 演讲
 
-<br />
-
 ### Adobe Speech Enhancer
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-speech-enhancer.webp?twic=v1/resize=240" alt="Adobe Speech Enhancer">
 
@@ -4559,8 +4489,6 @@ Lingostar 是语言学习者可以用英语、西班牙语或法语与之交谈�
 ---
 
 ## 文本
-
-<br />
 
 ### Tally Forms
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tally-forms.webp?twic=v1/resize=240" alt="Tally Forms">
@@ -4709,8 +4637,6 @@ namewizard 是使用 AI 为您的下一个项目寻找完美业务和域名的�
 
 ## 文字转语音
 
-<br />
-
 ### Murf.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-murf.ai.webp?twic=v1/resize=240" alt="Murf.ai">
 
@@ -4857,8 +4783,6 @@ namewizard 是使用 AI 为您的下一个项目寻找完美业务和域名的�
 ---
 
 ## 翻译和成绩单
-
-<br />
 
 ### TranslateVideo
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-translatevideo.webp?twic=v1/resize=240" alt="TranslateVideo">
@@ -5019,8 +4943,6 @@ Stork 帮助团队改善沟通和生产力。它是混合和远程团队的商�
 
 ## 假期和旅行计划
 
-<br />
-
 ### Vacay
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-vacay.webp?twic=v1/resize=240" alt="Vacay">
 
@@ -5083,8 +5005,6 @@ Stork 帮助团队改善沟通和生产力。它是混合和远程团队的商�
 ---
 
 ## 视频
-
-<br />
 
 ### Colossyan
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-colossyan.webp?twic=v1/resize=240" alt="Colossyan">
@@ -5237,8 +5157,6 @@ HitPaw video upscaler 可帮助使用多个 AI 模型增加任何视频：降噪
 
 ## 网页设计
 
-<br />
-
 ### Magician
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-magician.webp?twic=v1/resize=240" alt="Magician">
 
@@ -5372,8 +5290,6 @@ HitPaw video upscaler 可帮助使用多个 AI 模型增加任何视频：降噪
 
 ## 写作助理
 
-<br />
-
 ### HIX.AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hix.ai.webp?twic=v1/resize=240" alt="HIX.AI">
 
@@ -5433,6 +5349,21 @@ Rytr是一款人工智能写作助手，可以帮助你在短短几秒钟内创�
 <br />
 
 
+### Paraphraser
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paraphraser.webp?twic=v1/resize=240" alt="Paraphraser">
+
+#### 所有语言的免费释义 - [Visit](https://www.thataicollection.com/redirect/paraphraser)
+
+释义工具包含 15 种免费模式，适用于 100 多种语言-改写句子、重写段落、重写论文、检查语法并消除抄袭
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/paraphraser)
+
+<br />
+
+<br />
+
+
 ### Typly
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-typly.webp?twic=v1/resize=240" alt="Typly">
 
@@ -5461,34 +5392,6 @@ Typly 是终极尖端的 AI 键盘，只需单击一下即可帮助您回复所�
 <br />
 
 
-### Paraphraser AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paraphraser-ai.webp?twic=v1/resize=240" alt="Paraphraser AI">
-
-#### Yaara — AI 驱动的写作助手 - [Visit](https://www.thataicollection.com/redirect/paraphraser-ai)
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/paraphraser-ai)
-
-<br />
-
-<br />
-
-
-### Wordtune
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wordtune.webp?twic=v1/resize=240" alt="Wordtune">
-
-#### Wordtune - 您的私人写作助理和编辑 - [Visit](https://www.thataicollection.com/redirect/wordtune)
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/wordtune)
-
-<br />
-
-<br />
-
-
 ### Ai Paragraph Generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-paragraph-generator.webp?twic=v1/resize=240" alt="Ai Paragraph Generator">
 
@@ -5503,14 +5406,29 @@ AI 段落生成器是一款利用人工智能力量的尖端内容创作工具�
 <br />
 
 
-### Paraphraser
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paraphraser.webp?twic=v1/resize=240" alt="Paraphraser">
+### Wordtune
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wordtune.webp?twic=v1/resize=240" alt="Wordtune">
 
-#### 所有语言的免费释义 - [Visit](https://www.thataicollection.com/redirect/paraphraser)
+#### WordTune-你的个人写作助理和编辑 - [Visit](https://www.thataicollection.com/redirect/wordtune)
+
+Wordtune 是一款人工智能写作助手，可帮助你在电子邮件、博客、广告等方面撰写高质量的内容。使用它来获得每次都值得信赖的结果。
 
 
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/wordtune)
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/paraphraser)
+<br />
+
+<br />
+
+
+### Writefull Academizer
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-writefull-academizer.webp?twic=v1/resize=240" alt="Writefull Academizer">
+
+#### 哪里有 AI 💛 学术写作 - [Visit](https://www.thataicollection.com/redirect/writefull-academizer)
+
+在 Writefull，我们喜欢尝试用 AI 来帮助学术写作。这是我们发布一些实验的地方。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/writefull-academizer)
 
 <br />
 

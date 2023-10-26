@@ -149,8 +149,6 @@ Capture — простая интеграция.</p>
 
 ## Бухгалтерский учет и финансы
 
-<br />
-
 ### FlowCog
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-flowcog.webp?twic=v1/resize=240" alt="FlowCog">
 
@@ -214,8 +212,6 @@ Stocknews AI — это куратор лучших новых биржевых 
 ---
 
 ## Анимация и 3D-моделирование
-
-<br />
 
 ### Blimey
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-blimey.webp?twic=v1/resize=240" alt="Blimey">
@@ -293,8 +289,6 @@ Blimey — это генератор изображений с искусств�
 ---
 
 ## Архитектура и дизайн интерьера
-
-<br />
 
 ### Makeit.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-makeit.ai.webp?twic=v1/resize=240" alt="Makeit.ai">
@@ -400,8 +394,6 @@ Blimey — это генератор изображений с искусств�
 ---
 
 ## Генератор изображений и изображений
-
-<br />
 
 ### Getimg.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-getimg.ai.webp?twic=v1/resize=240" alt="Getimg.ai">
@@ -550,8 +542,6 @@ None
 
 ## Аватары
 
-<br />
-
 ### HairstyleAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hairstyleai.webp?twic=v1/resize=240" alt="HairstyleAI">
 
@@ -698,8 +688,6 @@ HairstyleAI позволяет виртуально опробовать нов�
 ---
 
 ## Чат-бот
-
-<br />
 
 ### AChatsimple
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-achatsimple.webp?twic=v1/resize=240" alt="AChatsimple">
@@ -848,8 +836,6 @@ Kore.ai автоматизирует взаимодействие между ф�
 
 ## Помощник по коду и базе данных
 
-<br />
-
 ### Swimm AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-swimm-ai.webp?twic=v1/resize=240" alt="Swimm AI">
 
@@ -997,8 +983,6 @@ Klu.ai — это универсальная платформа, предназ�
 
 ## Генерация контента и SEO
 
-<br />
-
 ### CarbonCopy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-carboncopy.webp?twic=v1/resize=240" alt="CarbonCopy">
 
@@ -1145,8 +1129,6 @@ Creator поможет вам писать контент более мощно 
 ---
 
 ## Инструментарий для авторов
-
-<br />
 
 ### Damn Good Tools
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-damn-good-tools.webp?twic=v1/resize=240" alt="Damn Good Tools">
@@ -1297,8 +1279,6 @@ TextSynth использует собственный код логическо�
 
 ## Служба поддержки
 
-<br />
-
 ### Webapi.ai 2.0
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-webapi.ai-2.0.webp?twic=v1/resize=240" alt="Webapi.ai 2.0">
 
@@ -1448,8 +1428,6 @@ Wadeck — это бесплатный инструмент WhatsApp CRM с по
 
 ## Электронная торговля
 
-<br />
-
 ### Octie.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-octie.ai.webp?twic=v1/resize=240" alt="Octie.ai">
 
@@ -1568,8 +1546,6 @@ None
 ---
 
 ## Образование и обучение
-
-<br />
 
 ### QUIZGECKO
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-quizgecko.webp?twic=v1/resize=240" alt="QUIZGECKO">
@@ -1718,8 +1694,6 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 ## Помощник по электронной почте
 
-<br />
-
 ### Smartwriter
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-smartwriter.webp?twic=v1/resize=240" alt="Smartwriter">
 
@@ -1867,8 +1841,6 @@ IntelliMail — это расширение для Chrome, которое ген
 
 ## Мода
 
-<br />
-
 ### FashionAdvisorAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fashionadvisorai.webp?twic=v1/resize=240" alt="FashionAdvisorAI">
 
@@ -1919,8 +1891,6 @@ SwagAI — изображения, созданные искусственным
 ---
 
 ## Веселье
-
-<br />
 
 ### CharacterAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-characterai.webp?twic=v1/resize=240" alt="CharacterAI">
@@ -2068,8 +2038,6 @@ SwagAI — изображения, созданные искусственным
 ---
 
 ## Игры
-
-<br />
 
 ### charisma
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-charisma.webp?twic=v1/resize=240" alt="charisma">
@@ -2219,8 +2187,6 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 ## Идеи для подарка
 
-<br />
-
 ### Lovelines
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lovelines.webp?twic=v1/resize=240" alt="Lovelines">
 
@@ -2368,8 +2334,6 @@ Gift Genie AI — это приложение на базе искусствен
 
 ## Здравоохранение
 
-<br />
-
 ### Replika
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-replika.webp?twic=v1/resize=240" alt="Replika">
 
@@ -2418,8 +2382,6 @@ Gift Genie AI — это приложение на базе искусствен
 ---
 
 ## Человеческие ресурсы и резюме
-
-<br />
 
 ### AI Resume Editor
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-resume-editor.webp?twic=v1/resize=240" alt="AI Resume Editor">
@@ -2569,8 +2531,6 @@ Springworks создает программные решения для упра
 
 ## Генерация идей
 
-<br />
-
 ### Validator AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-validator-ai.webp?twic=v1/resize=240" alt="Validator AI">
 
@@ -2666,8 +2626,6 @@ Paperade — это первый инструмент на основе иску
 
 ## Юридический
 
-<br />
-
 ### Paralegal AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paralegal-ai.webp?twic=v1/resize=240" alt="Paralegal AI">
 
@@ -2759,8 +2717,6 @@ Paperade — это первый инструмент на основе иску
 
 ## Генератор логотипов
 
-<br />
-
 ### Looka
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-looka.webp?twic=v1/resize=240" alt="Looka">
 
@@ -2838,8 +2794,6 @@ None
 ---
 
 ## Помощник по встречам
-
-<br />
 
 ### Fireflies
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fireflies.webp?twic=v1/resize=240" alt="Fireflies">
@@ -2986,8 +2940,6 @@ Sembly записывает записи, делает заметки о вст�
 ---
 
 ## Генерация музыки и аудио
-
-<br />
 
 ### Emergent Drums
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-emergent-drums.webp?twic=v1/resize=240" alt="Emergent Drums">
@@ -3141,8 +3093,6 @@ Dadabots - Мы создаем нейронные сети с необработ
 ---
 
 ## Организация и автоматизация
-
-<br />
 
 ### Hexowatch
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hexowatch.webp?twic=v1/resize=240" alt="Hexowatch">
@@ -3300,8 +3250,6 @@ H2ogPT, генеративный искусственный интеллект �
 
 ## Редактирование фотографий и изображений
 
-<br />
-
 ### HitPaw Online Photo Enhancer
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hitpaw-online-photo-enhancer.webp?twic=v1/resize=240" alt="HitPaw Online Photo Enhancer">
 
@@ -3449,8 +3397,6 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 ## Плагины и расширения
 
-<br />
-
 ### AIduh
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aiduh.webp?twic=v1/resize=240" alt="AIduh">
 
@@ -3573,8 +3519,6 @@ Gist AI — это бесплатный генератор сводок, кот�
 ---
 
 ## Продуктивность и личностный рост
-
-<br />
 
 ### Podwise
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-podwise.webp?twic=v1/resize=240" alt="Podwise">
@@ -3727,8 +3671,6 @@ Pth.AI — это инструмент на основе ИИ, который н
 
 ## Научный сотрудник
 
-<br />
-
 ### Elicit
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elicit.webp?twic=v1/resize=240" alt="Elicit">
 
@@ -3834,8 +3776,6 @@ RTutor использует мощную модель большого язык�
 
 ## Отзывы и рекомендации
 
-<br />
-
 ### Sona
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sona.webp?twic=v1/resize=240" alt="Sona">
 
@@ -3913,20 +3853,18 @@ Reviewz.ai — это новинка, предназначенная для де
 
 ## Продажи и маркетинг
 
-<br />
-
 ### Copy.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-copy.ai.webp?twic=v1/resize=240" alt="Copy.ai">
 
 #### Пишите лучшие маркетинговые тексты и контент с помощью ИИ - [Visit](https://www.thataicollection.com/redirect/copy.ai)
 
-Попрощайтесь на чистую страницу навсегда
+Получите отличный экземпляр, который продается. Copy.ai — это копирайтер на базе искусственного интеллекта, который создает высококачественные тексты для вашего бизнеса. Начните бесплатно, кредитная карта не требуется! Маркетинг упрощен!
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/copy.ai)
 
 <br />
 
-<br />
+
 
 
 ### Clickable
@@ -4067,8 +4005,6 @@ Traq.ai анализирует каждый звонок, который дел�
 
 ## Поисковые системы
 
-<br />
-
 ### Lexii.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lexii.ai.webp?twic=v1/resize=240" alt="Lexii.ai">
 
@@ -4206,8 +4142,6 @@ Broker One AI Engine — это современный инструмент на
 
 ## Слайды и презентации
 
-<br />
-
 ### ChatBA
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chatba.webp?twic=v1/resize=240" alt="ChatBA">
 
@@ -4328,8 +4262,6 @@ Glimmer AI использует GPT-3 и DALL-E 2 для простого и б�
 ---
 
 ## Знакомства и социальные сети
-
-<br />
 
 ### Roast
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-roast.webp?twic=v1/resize=240" alt="Roast">
@@ -4481,8 +4413,6 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 ## Речь
 
-<br />
-
 ### Adobe Speech Enhancer
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-speech-enhancer.webp?twic=v1/resize=240" alt="Adobe Speech Enhancer">
 
@@ -4559,8 +4489,6 @@ Lingostar — это искусственный интеллект, с кото�
 ---
 
 ## Текст
-
-<br />
 
 ### Tally Forms
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tally-forms.webp?twic=v1/resize=240" alt="Tally Forms">
@@ -4709,8 +4637,6 @@ namewizard — это генератор, который использует и
 
 ## Текст в речь
 
-<br />
-
 ### Murf.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-murf.ai.webp?twic=v1/resize=240" alt="Murf.ai">
 
@@ -4857,8 +4783,6 @@ namewizard — это генератор, который использует и
 ---
 
 ## Перевод и стенограмма
-
-<br />
 
 ### TranslateVideo
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-translatevideo.webp?twic=v1/resize=240" alt="TranslateVideo">
@@ -5019,8 +4943,6 @@ Stork помогает командам улучшить коммуникаци�
 
 ## Планировщик отпусков и поездок
 
-<br />
-
 ### Vacay
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-vacay.webp?twic=v1/resize=240" alt="Vacay">
 
@@ -5083,8 +5005,6 @@ Stork помогает командам улучшить коммуникаци�
 ---
 
 ## видео
-
-<br />
 
 ### Colossyan
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-colossyan.webp?twic=v1/resize=240" alt="Colossyan">
@@ -5237,8 +5157,6 @@ HitPaw Video Enhancer помогает легко масштабировать �
 
 ## Веб-дизайн
 
-<br />
-
 ### Magician
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-magician.webp?twic=v1/resize=240" alt="Magician">
 
@@ -5372,8 +5290,6 @@ HitPaw Video Enhancer помогает легко масштабировать �
 
 ## Помощник по письму
 
-<br />
-
 ### HIX.AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hix.ai.webp?twic=v1/resize=240" alt="HIX.AI">
 
@@ -5433,6 +5349,21 @@ Rytr — это помощник по написанию текстов с ис�
 
 
 
+### Paraphraser
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paraphraser.webp?twic=v1/resize=240" alt="Paraphraser">
+
+#### Бесплатный перефразирование для всех языков - [Visit](https://www.thataicollection.com/redirect/paraphraser)
+
+Инструмент для перефразирования с 15 БЕСПЛАТНЫМИ режимами для более чем 100 языков: перефразируйте предложения, переформулируйте абзацы, переписывает эссе, проверяет грамматику и устраняет плагиат
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/paraphraser)
+
+<br />
+
+
+
+
 ### Typly
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-typly.webp?twic=v1/resize=240" alt="Typly">
 
@@ -5461,34 +5392,6 @@ Typly — это новейшая клавиатура с искусственн
 <br />
 
 
-### Paraphraser AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paraphraser-ai.webp?twic=v1/resize=240" alt="Paraphraser AI">
-
-#### Yaara — помощник по письму с искусственным интеллектом - [Visit](https://www.thataicollection.com/redirect/paraphraser-ai)
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/paraphraser-ai)
-
-<br />
-
-<br />
-
-
-### Wordtune
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wordtune.webp?twic=v1/resize=240" alt="Wordtune">
-
-#### Wordtune — ваш личный помощник и редактор - [Visit](https://www.thataicollection.com/redirect/wordtune)
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/wordtune)
-
-<br />
-
-<br />
-
-
 ### Ai Paragraph Generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-paragraph-generator.webp?twic=v1/resize=240" alt="Ai Paragraph Generator">
 
@@ -5503,18 +5406,33 @@ AI Pargraph Generator — это передовой инструмент для 
 
 
 
-### Paraphraser
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paraphraser.webp?twic=v1/resize=240" alt="Paraphraser">
+### Wordtune
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wordtune.webp?twic=v1/resize=240" alt="Wordtune">
 
-#### Бесплатный перефразирование для всех языков - [Visit](https://www.thataicollection.com/redirect/paraphraser)
+#### Wordtune — ваш персональный помощник по написанию текстов и редактор - [Visit](https://www.thataicollection.com/redirect/wordtune)
+
+Wordtune — это помощник по написанию текстов с искусственным интеллектом, который поможет вам писать высококачественный контент в электронных письмах, блогах, рекламе и т. д. Используйте его, чтобы каждый раз получать результаты, которым можно доверять.
 
 
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/paraphraser)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/wordtune)
 
 <br />
 
+
+
+
+### Writefull Academizer
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-writefull-academizer.webp?twic=v1/resize=240" alt="Writefull Academizer">
+
+#### Где ИИ 💛 Академическое письмо - [Visit](https://www.thataicollection.com/redirect/writefull-academizer)
+
+В Writefull мы любим экспериментировать с искусственным интеллектом, чтобы помочь академическому письму. Здесь мы публикуем некоторые из наших экспериментов.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/writefull-academizer)
+
 <br />
+
+
 
 
 

@@ -149,8 +149,6 @@
 
 ## लेखा और वित्त
 
-<br />
-
 ### FlowCog
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-flowcog.webp?twic=v1/resize=240" alt="FlowCog">
 
@@ -214,8 +212,6 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 ---
 
 ## एनिमेशन और 3डी मॉडलिंग
-
-<br />
 
 ### Blimey
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-blimey.webp?twic=v1/resize=240" alt="Blimey">
@@ -293,8 +289,6 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 ---
 
 ## वास्तुकला और आंतरिक डिजाइन
-
-<br />
 
 ### Makeit.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-makeit.ai.webp?twic=v1/resize=240" alt="Makeit.ai">
@@ -400,8 +394,6 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 ---
 
 ## कला और छवि जनरेटर
-
-<br />
 
 ### Getimg.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-getimg.ai.webp?twic=v1/resize=240" alt="Getimg.ai">
@@ -550,8 +542,6 @@ None
 
 ## अवतारों
 
-<br />
-
 ### HairstyleAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hairstyleai.webp?twic=v1/resize=240" alt="HairstyleAI">
 
@@ -698,8 +688,6 @@ GAN की शक्ति से वर्णों या अवतारो�
 ---
 
 ## चैट बॉट
-
-<br />
 
 ### AChatsimple
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-achatsimple.webp?twic=v1/resize=240" alt="AChatsimple">
@@ -848,8 +836,6 @@ Kore.ai, कन्वर्सेशनल AI-फ़र्स्ट वर्च
 
 ## कोड और डेटाबेस सहायक
 
-<br />
-
 ### Swimm AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-swimm-ai.webp?twic=v1/resize=240" alt="Swimm AI">
 
@@ -997,8 +983,6 @@ Klu.ai एक ऑल-इन-वन प्लेटफ़ॉर्म है ज�
 
 ## सामग्री निर्माण और एसईओ
 
-<br />
-
 ### CarbonCopy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-carboncopy.webp?twic=v1/resize=240" alt="CarbonCopy">
 
@@ -1145,8 +1129,6 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 ---
 
 ## निर्माता टूलकिट
-
-<br />
 
 ### Damn Good Tools
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-damn-good-tools.webp?twic=v1/resize=240" alt="Damn Good Tools">
@@ -1297,8 +1279,6 @@ TextSynth मानक GPU और CPU पर तेज़ी से अनुम
 
 ## ग्राहक सहेयता
 
-<br />
-
 ### Webapi.ai 2.0
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-webapi.ai-2.0.webp?twic=v1/resize=240" alt="Webapi.ai 2.0">
 
@@ -1448,8 +1428,6 @@ WaDeck एक मुफ़्त WhatsApp CRM टूल है, जिसमें 
 
 ## ई-कॉमर्स
 
-<br />
-
 ### Octie.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-octie.ai.webp?twic=v1/resize=240" alt="Octie.ai">
 
@@ -1568,8 +1546,6 @@ None
 ---
 
 ## शिक्षा और सीखना
-
-<br />
 
 ### QUIZGECKO
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-quizgecko.webp?twic=v1/resize=240" alt="QUIZGECKO">
@@ -1718,8 +1694,6 @@ TutoEAI लर्न एनीथिंग किसी भी विषय क�
 
 ## ईमेल सहायक
 
-<br />
-
 ### Smartwriter
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-smartwriter.webp?twic=v1/resize=240" alt="Smartwriter">
 
@@ -1867,8 +1841,6 @@ IntelliMail एक क्रोम एक्सटेंशन है जो आ
 
 ## पहनावा
 
-<br />
-
 ### FashionAdvisorAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fashionadvisorai.webp?twic=v1/resize=240" alt="FashionAdvisorAI">
 
@@ -1919,8 +1891,6 @@ AI द्वारा जेनरेट किया गया स्वैग�
 ---
 
 ## आनंद
-
-<br />
 
 ### CharacterAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-characterai.webp?twic=v1/resize=240" alt="CharacterAI">
@@ -2068,8 +2038,6 @@ AI द्वारा जेनरेट किया गया स्वैग�
 ---
 
 ## जुआ
-
-<br />
 
 ### charisma
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-charisma.webp?twic=v1/resize=240" alt="charisma">
@@ -2219,8 +2187,6 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 ## उपहार योजना
 
-<br />
-
 ### Lovelines
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lovelines.webp?twic=v1/resize=240" alt="Lovelines">
 
@@ -2368,8 +2334,6 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 ## स्वास्थ्य देखभाल
 
-<br />
-
 ### Replika
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-replika.webp?twic=v1/resize=240" alt="Replika">
 
@@ -2418,8 +2382,6 @@ GetActyv का AI-आधारित पर्सनल ट्रेनर आ�
 ---
 
 ## मानव संसाधन और फिर से शुरू
-
-<br />
 
 ### AI Resume Editor
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-resume-editor.webp?twic=v1/resize=240" alt="AI Resume Editor">
@@ -2569,8 +2531,6 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 ## आईडिया जनरेशन
 
-<br />
-
 ### Validator AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-validator-ai.webp?twic=v1/resize=240" alt="Validator AI">
 
@@ -2666,8 +2626,6 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 ## कानूनी
 
-<br />
-
 ### Paralegal AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paralegal-ai.webp?twic=v1/resize=240" alt="Paralegal AI">
 
@@ -2759,8 +2717,6 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 ## लोगो जनरेटर
 
-<br />
-
 ### Looka
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-looka.webp?twic=v1/resize=240" alt="Looka">
 
@@ -2838,8 +2794,6 @@ None
 ---
 
 ## बैठक सहायक
-
-<br />
 
 ### Fireflies
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fireflies.webp?twic=v1/resize=240" alt="Fireflies">
@@ -2986,8 +2940,6 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 ---
 
 ## संगीत और ऑडियो पीढ़ी
-
-<br />
 
 ### Emergent Drums
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-emergent-drums.webp?twic=v1/resize=240" alt="Emergent Drums">
@@ -3141,8 +3093,6 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 ---
 
 ## संगठन और स्वचालन
-
-<br />
 
 ### Hexowatch
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hexowatch.webp?twic=v1/resize=240" alt="Hexowatch">
@@ -3300,8 +3250,6 @@ H2OGPT, सच में ओपन सोर्स जनरेटिव AI ह�
 
 ## फोटो और छवि संपादन
 
-<br />
-
 ### HitPaw Online Photo Enhancer
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hitpaw-online-photo-enhancer.webp?twic=v1/resize=240" alt="HitPaw Online Photo Enhancer">
 
@@ -3449,8 +3397,6 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 ## प्लगइन्स और एक्सटेंशन
 
-<br />
-
 ### AIduh
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aiduh.webp?twic=v1/resize=240" alt="AIduh">
 
@@ -3573,8 +3519,6 @@ SplasHAI एक सहायक की तरह है, यह तुम्ह�
 ---
 
 ## उत्पादकता और व्यक्तिगत विकास
-
-<br />
 
 ### Podwise
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-podwise.webp?twic=v1/resize=240" alt="Podwise">
@@ -3727,8 +3671,6 @@ Pth.AI एक AI-संचालित उपकरण है जो गैर-�
 
 ## अनुसंधान सहायक
 
-<br />
-
 ### Elicit
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elicit.webp?twic=v1/resize=240" alt="Elicit">
 
@@ -3834,8 +3776,6 @@ RTutor प्राकृतिक भाषा को R कोड में अ
 
 ## समीक्षा और अनुशंसाएँ
 
-<br />
-
 ### Sona
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sona.webp?twic=v1/resize=240" alt="Sona">
 
@@ -3913,20 +3853,18 @@ Reviewz.ai एक नवीनता है और इसे उपभोक्�
 
 ## खरीद और बिक्री
 
-<br />
-
 ### Copy.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-copy.ai.webp?twic=v1/resize=240" alt="Copy.ai">
 
 #### एआई के साथ बेहतर मार्केटिंग कॉपी और कंटेंट लिखें - [Visit](https://www.thataicollection.com/redirect/copy.ai)
 
-अच्छे के लिए कोरे पन्ने को अलविदा कहो
+बिकने वाली बढ़िया प्रति प्राप्त करें। Copy.ai एक AI-संचालित कॉपीराइटर है जो आपके व्यवसाय के लिए उच्च गुणवत्ता वाली कॉपी तैयार करता है। निःशुल्क आरंभ करें, किसी क्रेडिट कार्ड की आवश्यकता नहीं! विपणन सरलीकृत!
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/copy.ai)
 
 <br />
 
-<br />
+
 
 
 ### Clickable
@@ -4067,8 +4005,6 @@ Traq.ai आपकी बिक्री टीम द्वारा की ज�
 
 ## खोज इंजन
 
-<br />
-
 ### Lexii.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lexii.ai.webp?twic=v1/resize=240" alt="Lexii.ai">
 
@@ -4206,8 +4142,6 @@ GPT-4 के साथ व्यापक प्रतिक्रियाए�
 
 ## स्लाइड और प्रस्तुतियाँ
 
-<br />
-
 ### ChatBA
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chatba.webp?twic=v1/resize=240" alt="ChatBA">
 
@@ -4328,8 +4262,6 @@ Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट �
 ---
 
 ## सामाजिक नेटवर्क और डेटिंग
-
-<br />
 
 ### Roast
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-roast.webp?twic=v1/resize=240" alt="Roast">
@@ -4481,8 +4413,6 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 
 ## भाषण
 
-<br />
-
 ### Adobe Speech Enhancer
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-speech-enhancer.webp?twic=v1/resize=240" alt="Adobe Speech Enhancer">
 
@@ -4559,8 +4489,6 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 ---
 
 ## मूलपाठ
-
-<br />
 
 ### Tally Forms
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tally-forms.webp?twic=v1/resize=240" alt="Tally Forms">
@@ -4709,8 +4637,6 @@ WhatsApp पर दुनिया के सबसे स्मार्ट ए
 
 ## भाषण के पाठ
 
-<br />
-
 ### Murf.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-murf.ai.webp?twic=v1/resize=240" alt="Murf.ai">
 
@@ -4857,8 +4783,6 @@ WhatsApp पर दुनिया के सबसे स्मार्ट ए
 ---
 
 ## अनुवाद और प्रतिलेख
-
-<br />
 
 ### TranslateVideo
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-translatevideo.webp?twic=v1/resize=240" alt="TranslateVideo">
@@ -5019,8 +4943,6 @@ WhatsApp पर दुनिया के सबसे स्मार्ट ए
 
 ## अवकाश और ट्रिप प्लानर
 
-<br />
-
 ### Vacay
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-vacay.webp?twic=v1/resize=240" alt="Vacay">
 
@@ -5083,8 +5005,6 @@ TravelFeed के ब्लॉग नाम विचार जनरेटर �
 ---
 
 ## वीडियो
-
-<br />
 
 ### Colossyan
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-colossyan.webp?twic=v1/resize=240" alt="Colossyan">
@@ -5237,8 +5157,6 @@ HitPaw वीडियो अपस्केलर कई AI मॉडल के
 
 ## वेब डिजाइन
 
-<br />
-
 ### Magician
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-magician.webp?twic=v1/resize=240" alt="Magician">
 
@@ -5372,8 +5290,6 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 ## लेखन सहायक
 
-<br />
-
 ### HIX.AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hix.ai.webp?twic=v1/resize=240" alt="HIX.AI">
 
@@ -5433,6 +5349,21 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 
 
 
+### Paraphraser
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paraphraser.webp?twic=v1/resize=240" alt="Paraphraser">
+
+#### सभी भाषाओं के लिए मुफ़्त पैराफ़्रेसिंग - [Visit](https://www.thataicollection.com/redirect/paraphraser)
+
+100 से अधिक भाषाओं के लिए 15 मुफ़्त मोड वाला पैराफ़्रेज़ टूल - वाक्य फिर से लिखता है, पैराग्राफ फिर से लिखता है, निबंध फिर से लिखता है, व्याकरण की जाँच करता है और साहित्यिक चोरी को खत्म करता है
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/paraphraser)
+
+<br />
+
+
+
+
 ### Typly
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-typly.webp?twic=v1/resize=240" alt="Typly">
 
@@ -5461,34 +5392,6 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 <br />
 
 
-### Paraphraser AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paraphraser-ai.webp?twic=v1/resize=240" alt="Paraphraser AI">
-
-#### यारा - एआई-पावर्ड राइटिंग असिस्टेंट - [Visit](https://www.thataicollection.com/redirect/paraphraser-ai)
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/paraphraser-ai)
-
-<br />
-
-<br />
-
-
-### Wordtune
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wordtune.webp?twic=v1/resize=240" alt="Wordtune">
-
-#### Wordtune - आपका व्यक्तिगत लेखन सहायक और संपादक - [Visit](https://www.thataicollection.com/redirect/wordtune)
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/wordtune)
-
-<br />
-
-<br />
-
-
 ### Ai Paragraph Generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-paragraph-generator.webp?twic=v1/resize=240" alt="Ai Paragraph Generator">
 
@@ -5503,14 +5406,29 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 
 
 
-### Paraphraser
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paraphraser.webp?twic=v1/resize=240" alt="Paraphraser">
+### Wordtune
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wordtune.webp?twic=v1/resize=240" alt="Wordtune">
 
-#### सभी भाषाओं के लिए नि:शुल्क भावानुवाद - [Visit](https://www.thataicollection.com/redirect/paraphraser)
+#### Wordtune - तुम्हारा निजी लेखन सहायक और संपादक - [Visit](https://www.thataicollection.com/redirect/wordtune)
+
+वर्डट्यून एआई राइटिंग असिस्टेंट है, जो ईमेल, ब्लॉग, विज्ञापन आदि पर उच्च गुणवत्ता वाली सामग्री लिखने में तुम्हारी मदद करता है। इसका इस्तेमाल ऐसे नतीजे पाने के लिए करो जिन पर तुम हर बार भरोसा कर सकते हो।
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/wordtune)
+
+<br />
 
 
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/paraphraser)
+
+### Writefull Academizer
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-writefull-academizer.webp?twic=v1/resize=240" alt="Writefull Academizer">
+
+#### जहां एआई 💛 अकादमिक लेखन - [Visit](https://www.thataicollection.com/redirect/writefull-academizer)
+
+राइटफुल में, हम अकादमिक लेखन में सहायता के लिए एआई के साथ प्रयोग करना पसंद करते हैं। यह वह जगह है जहां हम अपने कुछ प्रयोग प्रकाशित करते हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/writefull-academizer)
 
 <br />
 
