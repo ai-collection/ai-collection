@@ -212,11 +212,10 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 
 ---
 
-<br />
 
-[See All $📈 लेखा और वित्त Applications on AI Collection](https://www.thataicollection.com/hi/categories/accounting-and-finance)
+[See All 📈 लेखा और वित्त Applications on AI Collection](https://www.thataicollection.com/hi/categories/accounting-and-finance)
 
----
+___
 
 ## एनिमेशन और 3डी मॉडलिंग
 
@@ -297,11 +296,10 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 
 ---
 
-<br />
 
-[See All $🎲 एनिमेशन और 3डी मॉडलिंग Applications on AI Collection](https://www.thataicollection.com/hi/categories/animation-and-3d-modeling)
+[See All 🎲 एनिमेशन और 3डी मॉडलिंग Applications on AI Collection](https://www.thataicollection.com/hi/categories/animation-and-3d-modeling)
 
----
+___
 
 ## वास्तुकला और आंतरिक डिजाइन
 
@@ -412,11 +410,10 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 
 ---
 
-<br />
 
-[See All $🏯 वास्तुकला और आंतरिक डिजाइन Applications on AI Collection](https://www.thataicollection.com/hi/categories/architecture-and-interior-design)
+[See All 🏯 वास्तुकला और आंतरिक डिजाइन Applications on AI Collection](https://www.thataicollection.com/hi/categories/architecture-and-interior-design)
 
----
+___
 
 ## कला और छवि जनरेटर
 
@@ -572,11 +569,10 @@ None
 
 ---
 
-<br />
 
-[See All $🌄 कला और छवि जनरेटर Applications on AI Collection](https://www.thataicollection.com/hi/categories/art-and-image-generator)
+[See All 🌄 कला और छवि जनरेटर Applications on AI Collection](https://www.thataicollection.com/hi/categories/art-and-image-generator)
 
----
+___
 
 ## अवतारों
 
@@ -732,11 +728,10 @@ GAN की शक्ति से वर्णों या अवतारो�
 
 ---
 
-<br />
 
-[See All $😎 अवतारों Applications on AI Collection](https://www.thataicollection.com/hi/categories/avatars)
+[See All 😎 अवतारों Applications on AI Collection](https://www.thataicollection.com/hi/categories/avatars)
 
----
+___
 
 ## चैट बॉट
 
@@ -892,11 +887,10 @@ Kore.ai, कन्वर्सेशनल AI-फ़र्स्ट वर्च
 
 ---
 
-<br />
 
-[See All $🤖💬 चैट बॉट Applications on AI Collection](https://www.thataicollection.com/hi/categories/chat-bot)
+[See All 🤖💬 चैट बॉट Applications on AI Collection](https://www.thataicollection.com/hi/categories/chat-bot)
 
----
+___
 
 ## कोड और डेटाबेस सहायक
 
@@ -1052,11 +1046,10 @@ Klu.ai एक ऑल-इन-वन प्लेटफ़ॉर्म है ज�
 
 ---
 
-<br />
 
-[See All $💻 कोड और डेटाबेस सहायक Applications on AI Collection](https://www.thataicollection.com/hi/categories/code-and-database-assistant)
+[See All 💻 कोड और डेटाबेस सहायक Applications on AI Collection](https://www.thataicollection.com/hi/categories/code-and-database-assistant)
 
----
+___
 
 ## सामग्री निर्माण और एसईओ
 
@@ -1212,11 +1205,10 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 ---
 
-<br />
 
-[See All $📠 सामग्री निर्माण और एसईओ Applications on AI Collection](https://www.thataicollection.com/hi/categories/content-generation-and-seo)
+[See All 📠 सामग्री निर्माण और एसईओ Applications on AI Collection](https://www.thataicollection.com/hi/categories/content-generation-and-seo)
 
----
+___
 
 ## निर्माता टूलकिट
 
@@ -1374,11 +1366,10 @@ TextSynth मानक GPU और CPU पर तेज़ी से अनुम
 
 ---
 
-<br />
 
-[See All $🧰 निर्माता टूलकिट Applications on AI Collection](https://www.thataicollection.com/hi/categories/creators-toolkit)
+[See All 🧰 निर्माता टूलकिट Applications on AI Collection](https://www.thataicollection.com/hi/categories/creators-toolkit)
 
----
+___
 
 ## ग्राहक सहेयता
 
@@ -1536,11 +1527,10 @@ WaDeck एक मुफ़्त WhatsApp CRM टूल है, जिसमें 
 
 ---
 
-<br />
 
-[See All $👨‍💻 ग्राहक सहेयता Applications on AI Collection](https://www.thataicollection.com/hi/categories/customer-support)
+[See All 👨‍💻 ग्राहक सहेयता Applications on AI Collection](https://www.thataicollection.com/hi/categories/customer-support)
 
----
+___
 
 ## ई-कॉमर्स
 
@@ -1666,11 +1656,10 @@ None
 
 ---
 
-<br />
 
-[See All $🛒 ई-कॉमर्स Applications on AI Collection](https://www.thataicollection.com/hi/categories/ecommerce)
+[See All 🛒 ई-कॉमर्स Applications on AI Collection](https://www.thataicollection.com/hi/categories/ecommerce)
 
----
+___
 
 ## शिक्षा और सीखना
 
@@ -1826,11 +1815,10 @@ TutoEAI लर्न एनीथिंग किसी भी विषय क�
 
 ---
 
-<br />
 
-[See All $🧠 शिक्षा और सीखना Applications on AI Collection](https://www.thataicollection.com/hi/categories/education-and-learning)
+[See All 🧠 शिक्षा और सीखना Applications on AI Collection](https://www.thataicollection.com/hi/categories/education-and-learning)
 
----
+___
 
 ## ईमेल सहायक
 
@@ -1986,11 +1974,10 @@ IntelliMail एक क्रोम एक्सटेंशन है जो आ
 
 ---
 
-<br />
 
-[See All $📧 ईमेल सहायक Applications on AI Collection](https://www.thataicollection.com/hi/categories/email-assistant)
+[See All 📧 ईमेल सहायक Applications on AI Collection](https://www.thataicollection.com/hi/categories/email-assistant)
 
----
+___
 
 ## पहनावा
 
@@ -2043,11 +2030,10 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 ---
 
-<br />
 
-[See All $👩‍🎤 पहनावा Applications on AI Collection](https://www.thataicollection.com/hi/categories/fashion)
+[See All 👩‍🎤 पहनावा Applications on AI Collection](https://www.thataicollection.com/hi/categories/fashion)
 
----
+___
 
 ## आनंद
 
@@ -2203,11 +2189,10 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 ---
 
-<br />
 
-[See All $🤪 आनंद Applications on AI Collection](https://www.thataicollection.com/hi/categories/fun)
+[See All 🤪 आनंद Applications on AI Collection](https://www.thataicollection.com/hi/categories/fun)
 
----
+___
 
 ## जुआ
 
@@ -2364,11 +2349,10 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 ---
 
-<br />
 
-[See All $🎮 जुआ Applications on AI Collection](https://www.thataicollection.com/hi/categories/gaming)
+[See All 🎮 जुआ Applications on AI Collection](https://www.thataicollection.com/hi/categories/gaming)
 
----
+___
 
 ## उपहार योजना
 
@@ -2524,11 +2508,10 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 ---
 
-<br />
 
-[See All $🎁💡 उपहार योजना Applications on AI Collection](https://www.thataicollection.com/hi/categories/gift-ideas)
+[See All 🎁💡 उपहार योजना Applications on AI Collection](https://www.thataicollection.com/hi/categories/gift-ideas)
 
----
+___
 
 ## स्वास्थ्य देखभाल
 
@@ -2579,11 +2562,10 @@ GetActyv का AI-आधारित पर्सनल ट्रेनर आ�
 
 ---
 
-<br />
 
-[See All $👩‍⚕️ स्वास्थ्य देखभाल Applications on AI Collection](https://www.thataicollection.com/hi/categories/healthcare)
+[See All 👩‍⚕️ स्वास्थ्य देखभाल Applications on AI Collection](https://www.thataicollection.com/hi/categories/healthcare)
 
----
+___
 
 ## मानव संसाधन और फिर से शुरू
 
@@ -2740,11 +2722,10 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 ---
 
-<br />
 
-[See All $👩‍💼 मानव संसाधन और फिर से शुरू Applications on AI Collection](https://www.thataicollection.com/hi/categories/human-resources-and-resume)
+[See All 👩‍💼 मानव संसाधन और फिर से शुरू Applications on AI Collection](https://www.thataicollection.com/hi/categories/human-resources-and-resume)
 
----
+___
 
 ## आईडिया जनरेशन
 
@@ -2844,11 +2825,10 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 ---
 
-<br />
 
-[See All $💡 आईडिया जनरेशन Applications on AI Collection](https://www.thataicollection.com/hi/categories/idea-generation)
+[See All 💡 आईडिया जनरेशन Applications on AI Collection](https://www.thataicollection.com/hi/categories/idea-generation)
 
----
+___
 
 ## कानूनी
 
@@ -2944,11 +2924,10 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 ---
 
-<br />
 
-[See All $👩‍⚖️ कानूनी Applications on AI Collection](https://www.thataicollection.com/hi/categories/legal)
+[See All 👩‍⚖️ कानूनी Applications on AI Collection](https://www.thataicollection.com/hi/categories/legal)
 
----
+___
 
 ## लोगो जनरेटर
 
@@ -3030,11 +3009,10 @@ None
 
 ---
 
-<br />
 
-[See All $⚜️ लोगो जनरेटर Applications on AI Collection](https://www.thataicollection.com/hi/categories/logo-generator)
+[See All ⚜️ लोगो जनरेटर Applications on AI Collection](https://www.thataicollection.com/hi/categories/logo-generator)
 
----
+___
 
 ## बैठक सहायक
 
@@ -3188,11 +3166,10 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 ---
 
-<br />
 
-[See All $👨‍💻 बैठक सहायक Applications on AI Collection](https://www.thataicollection.com/hi/categories/meeting-assistant)
+[See All 👨‍💻 बैठक सहायक Applications on AI Collection](https://www.thataicollection.com/hi/categories/meeting-assistant)
 
----
+___
 
 ## संगीत और ऑडियो पीढ़ी
 
@@ -3354,11 +3331,10 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 ---
 
-<br />
 
-[See All $🎼 संगीत और ऑडियो पीढ़ी Applications on AI Collection](https://www.thataicollection.com/hi/categories/music-and-audio-generation)
+[See All 🎼 संगीत और ऑडियो पीढ़ी Applications on AI Collection](https://www.thataicollection.com/hi/categories/music-and-audio-generation)
 
----
+___
 
 ## संगठन और स्वचालन
 
@@ -3523,11 +3499,10 @@ H2OGPT, सच में ओपन सोर्स जनरेटिव AI ह�
 
 ---
 
-<br />
 
-[See All $🧞‍♂️ संगठन और स्वचालन Applications on AI Collection](https://www.thataicollection.com/hi/categories/organization-and-automation)
+[See All 🧞‍♂️ संगठन और स्वचालन Applications on AI Collection](https://www.thataicollection.com/hi/categories/organization-and-automation)
 
----
+___
 
 ## फोटो और छवि संपादन
 
@@ -3683,11 +3658,10 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 ---
 
-<br />
 
-[See All $📸 फोटो और छवि संपादन Applications on AI Collection](https://www.thataicollection.com/hi/categories/photo-and-image-editing)
+[See All 📸 फोटो और छवि संपादन Applications on AI Collection](https://www.thataicollection.com/hi/categories/photo-and-image-editing)
 
----
+___
 
 ## प्लगइन्स और एक्सटेंशन
 
@@ -3817,11 +3791,10 @@ SplasHAI एक सहायक की तरह है, यह तुम्ह�
 
 ---
 
-<br />
 
-[See All $🔌 प्लगइन्स और एक्सटेंशन Applications on AI Collection](https://www.thataicollection.com/hi/categories/plugins-and-extensions)
+[See All 🔌 प्लगइन्स और एक्सटेंशन Applications on AI Collection](https://www.thataicollection.com/hi/categories/plugins-and-extensions)
 
----
+___
 
 ## उत्पादकता और व्यक्तिगत विकास
 
@@ -3981,11 +3954,10 @@ Pth.AI एक AI-संचालित उपकरण है जो गैर-�
 
 ---
 
-<br />
 
-[See All $🚀 उत्पादकता और व्यक्तिगत विकास Applications on AI Collection](https://www.thataicollection.com/hi/categories/productivity-and-personal-growth)
+[See All 🚀 उत्पादकता और व्यक्तिगत विकास Applications on AI Collection](https://www.thataicollection.com/hi/categories/productivity-and-personal-growth)
 
----
+___
 
 ## अनुसंधान सहायक
 
@@ -4096,11 +4068,10 @@ RTutor प्राकृतिक भाषा को R कोड में अ
 
 ---
 
-<br />
 
-[See All $🎓 अनुसंधान सहायक Applications on AI Collection](https://www.thataicollection.com/hi/categories/research-assistant)
+[See All 🎓 अनुसंधान सहायक Applications on AI Collection](https://www.thataicollection.com/hi/categories/research-assistant)
 
----
+___
 
 ## समीक्षा और अनुशंसाएँ
 
@@ -4181,11 +4152,10 @@ Reviewz.ai एक नवीनता है और इसे उपभोक्�
 
 ---
 
-<br />
 
-[See All $🗳 समीक्षा और अनुशंसाएँ Applications on AI Collection](https://www.thataicollection.com/hi/categories/reviews-and-recommendations)
+[See All 🗳 समीक्षा और अनुशंसाएँ Applications on AI Collection](https://www.thataicollection.com/hi/categories/reviews-and-recommendations)
 
----
+___
 
 ## खरीद और बिक्री
 
@@ -4346,11 +4316,10 @@ Traq.ai आपकी बिक्री टीम द्वारा की ज�
 
 ---
 
-<br />
 
-[See All $💰 खरीद और बिक्री Applications on AI Collection](https://www.thataicollection.com/hi/categories/sales-and-marketing)
+[See All 💰 खरीद और बिक्री Applications on AI Collection](https://www.thataicollection.com/hi/categories/sales-and-marketing)
 
----
+___
 
 ## खोज इंजन
 
@@ -4495,11 +4464,10 @@ GPT-4 के साथ व्यापक प्रतिक्रियाए�
 
 ---
 
-<br />
 
-[See All $🔍 खोज इंजन Applications on AI Collection](https://www.thataicollection.com/hi/categories/search-engines)
+[See All 🔍 खोज इंजन Applications on AI Collection](https://www.thataicollection.com/hi/categories/search-engines)
 
----
+___
 
 ## स्लाइड और प्रस्तुतियाँ
 
@@ -4627,11 +4595,10 @@ Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट �
 
 ---
 
-<br />
 
-[See All $📊 स्लाइड और प्रस्तुतियाँ Applications on AI Collection](https://www.thataicollection.com/hi/categories/slides-and-presentations)
+[See All 📊 स्लाइड और प्रस्तुतियाँ Applications on AI Collection](https://www.thataicollection.com/hi/categories/slides-and-presentations)
 
----
+___
 
 ## सामाजिक नेटवर्क और डेटिंग
 
@@ -4790,11 +4757,10 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 
 ---
 
-<br />
 
-[See All $💞 सामाजिक नेटवर्क और डेटिंग Applications on AI Collection](https://www.thataicollection.com/hi/categories/social-networks-and-dating)
+[See All 💞 सामाजिक नेटवर्क और डेटिंग Applications on AI Collection](https://www.thataicollection.com/hi/categories/social-networks-and-dating)
 
----
+___
 
 ## भाषण
 
@@ -4875,11 +4841,10 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 
 ---
 
-<br />
 
-[See All $📢 भाषण Applications on AI Collection](https://www.thataicollection.com/hi/categories/speech)
+[See All 📢 भाषण Applications on AI Collection](https://www.thataicollection.com/hi/categories/speech)
 
----
+___
 
 ## मूलपाठ
 
@@ -5035,11 +5000,10 @@ WhatsApp पर दुनिया के सबसे स्मार्ट ए
 
 ---
 
-<br />
 
-[See All $📝 मूलपाठ Applications on AI Collection](https://www.thataicollection.com/hi/categories/text)
+[See All 📝 मूलपाठ Applications on AI Collection](https://www.thataicollection.com/hi/categories/text)
 
----
+___
 
 ## भाषण के पाठ
 
@@ -5195,11 +5159,10 @@ WhatsApp पर दुनिया के सबसे स्मार्ट ए
 
 ---
 
-<br />
 
-[See All $📝🔉 भाषण के पाठ Applications on AI Collection](https://www.thataicollection.com/hi/categories/text-to-speech)
+[See All 📝🔉 भाषण के पाठ Applications on AI Collection](https://www.thataicollection.com/hi/categories/text-to-speech)
 
----
+___
 
 ## अनुवाद और प्रतिलेख
 
@@ -5367,11 +5330,10 @@ WhatsApp पर दुनिया के सबसे स्मार्ट ए
 
 ---
 
-<br />
 
-[See All $🇺🇳 अनुवाद और प्रतिलेख Applications on AI Collection](https://www.thataicollection.com/hi/categories/translation-and-transcript)
+[See All 🇺🇳 अनुवाद और प्रतिलेख Applications on AI Collection](https://www.thataicollection.com/hi/categories/translation-and-transcript)
 
----
+___
 
 ## अवकाश और ट्रिप प्लानर
 
@@ -5437,11 +5399,10 @@ TravelFeed के ब्लॉग नाम विचार जनरेटर �
 
 ---
 
-<br />
 
-[See All $🏖 अवकाश और ट्रिप प्लानर Applications on AI Collection](https://www.thataicollection.com/hi/categories/vacation-and-trip-planner)
+[See All 🏖 अवकाश और ट्रिप प्लानर Applications on AI Collection](https://www.thataicollection.com/hi/categories/vacation-and-trip-planner)
 
----
+___
 
 ## वीडियो
 
@@ -5601,11 +5562,10 @@ HitPaw वीडियो अपस्केलर कई AI मॉडल के
 
 ---
 
-<br />
 
-[See All $🎬 वीडियो Applications on AI Collection](https://www.thataicollection.com/hi/categories/video)
+[See All 🎬 वीडियो Applications on AI Collection](https://www.thataicollection.com/hi/categories/video)
 
----
+___
 
 ## वेब डिजाइन
 
@@ -5746,11 +5706,10 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 ---
 
-<br />
 
-[See All $🕸 वेब डिजाइन Applications on AI Collection](https://www.thataicollection.com/hi/categories/web-design)
+[See All 🕸 वेब डिजाइन Applications on AI Collection](https://www.thataicollection.com/hi/categories/web-design)
 
----
+___
 
 ## लेखन सहायक
 
@@ -5909,9 +5868,8 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 
 ---
 
-<br />
 
-[See All $✍️ लेखन सहायक Applications on AI Collection](https://www.thataicollection.com/hi/categories/writing-assistant)
+[See All ✍️ लेखन सहायक Applications on AI Collection](https://www.thataicollection.com/hi/categories/writing-assistant)
 
----
+___
 

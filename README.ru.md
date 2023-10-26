@@ -212,11 +212,10 @@ Stocknews AI — это куратор лучших новых биржевых 
 
 ---
 
-<br />
 
-[See All $📈 Бухгалтерский учет и финансы Applications on AI Collection](https://www.thataicollection.com/ru/categories/accounting-and-finance)
+[See All 📈 Бухгалтерский учет и финансы Applications on AI Collection](https://www.thataicollection.com/ru/categories/accounting-and-finance)
 
----
+___
 
 ## Анимация и 3D-моделирование
 
@@ -297,11 +296,10 @@ Blimey — это генератор изображений с искусств�
 
 ---
 
-<br />
 
-[See All $🎲 Анимация и 3D-моделирование Applications on AI Collection](https://www.thataicollection.com/ru/categories/animation-and-3d-modeling)
+[See All 🎲 Анимация и 3D-моделирование Applications on AI Collection](https://www.thataicollection.com/ru/categories/animation-and-3d-modeling)
 
----
+___
 
 ## Архитектура и дизайн интерьера
 
@@ -412,11 +410,10 @@ Blimey — это генератор изображений с искусств�
 
 ---
 
-<br />
 
-[See All $🏯 Архитектура и дизайн интерьера Applications on AI Collection](https://www.thataicollection.com/ru/categories/architecture-and-interior-design)
+[See All 🏯 Архитектура и дизайн интерьера Applications on AI Collection](https://www.thataicollection.com/ru/categories/architecture-and-interior-design)
 
----
+___
 
 ## Генератор изображений и изображений
 
@@ -572,11 +569,10 @@ None
 
 ---
 
-<br />
 
-[See All $🌄 Генератор изображений и изображений Applications on AI Collection](https://www.thataicollection.com/ru/categories/art-and-image-generator)
+[See All 🌄 Генератор изображений и изображений Applications on AI Collection](https://www.thataicollection.com/ru/categories/art-and-image-generator)
 
----
+___
 
 ## Аватары
 
@@ -732,11 +728,10 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 ---
 
-<br />
 
-[See All $😎 Аватары Applications on AI Collection](https://www.thataicollection.com/ru/categories/avatars)
+[See All 😎 Аватары Applications on AI Collection](https://www.thataicollection.com/ru/categories/avatars)
 
----
+___
 
 ## Чат-бот
 
@@ -892,11 +887,10 @@ Kore.ai автоматизирует взаимодействие между ф�
 
 ---
 
-<br />
 
-[See All $🤖💬 Чат-бот Applications on AI Collection](https://www.thataicollection.com/ru/categories/chat-bot)
+[See All 🤖💬 Чат-бот Applications on AI Collection](https://www.thataicollection.com/ru/categories/chat-bot)
 
----
+___
 
 ## Помощник по коду и базе данных
 
@@ -1052,11 +1046,10 @@ Klu.ai — это универсальная платформа, предназ�
 
 ---
 
-<br />
 
-[See All $💻 Помощник по коду и базе данных Applications on AI Collection](https://www.thataicollection.com/ru/categories/code-and-database-assistant)
+[See All 💻 Помощник по коду и базе данных Applications on AI Collection](https://www.thataicollection.com/ru/categories/code-and-database-assistant)
 
----
+___
 
 ## Генерация контента и SEO
 
@@ -1212,11 +1205,10 @@ Creator поможет вам писать контент более мощно 
 
 ---
 
-<br />
 
-[See All $📠 Генерация контента и SEO Applications on AI Collection](https://www.thataicollection.com/ru/categories/content-generation-and-seo)
+[See All 📠 Генерация контента и SEO Applications on AI Collection](https://www.thataicollection.com/ru/categories/content-generation-and-seo)
 
----
+___
 
 ## Инструментарий для авторов
 
@@ -1374,11 +1366,10 @@ TextSynth использует собственный код логическо�
 
 ---
 
-<br />
 
-[See All $🧰 Инструментарий для авторов Applications on AI Collection](https://www.thataicollection.com/ru/categories/creators-toolkit)
+[See All 🧰 Инструментарий для авторов Applications on AI Collection](https://www.thataicollection.com/ru/categories/creators-toolkit)
 
----
+___
 
 ## Служба поддержки
 
@@ -1536,11 +1527,10 @@ Wadeck — это бесплатный инструмент WhatsApp CRM с по
 
 ---
 
-<br />
 
-[See All $👨‍💻 Служба поддержки Applications on AI Collection](https://www.thataicollection.com/ru/categories/customer-support)
+[See All 👨‍💻 Служба поддержки Applications on AI Collection](https://www.thataicollection.com/ru/categories/customer-support)
 
----
+___
 
 ## Электронная торговля
 
@@ -1666,11 +1656,10 @@ None
 
 ---
 
-<br />
 
-[See All $🛒 Электронная торговля Applications on AI Collection](https://www.thataicollection.com/ru/categories/ecommerce)
+[See All 🛒 Электронная торговля Applications on AI Collection](https://www.thataicollection.com/ru/categories/ecommerce)
 
----
+___
 
 ## Образование и обучение
 
@@ -1826,11 +1815,10 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 ---
 
-<br />
 
-[See All $🧠 Образование и обучение Applications on AI Collection](https://www.thataicollection.com/ru/categories/education-and-learning)
+[See All 🧠 Образование и обучение Applications on AI Collection](https://www.thataicollection.com/ru/categories/education-and-learning)
 
----
+___
 
 ## Помощник по электронной почте
 
@@ -1986,11 +1974,10 @@ IntelliMail — это расширение для Chrome, которое ген
 
 ---
 
-<br />
 
-[See All $📧 Помощник по электронной почте Applications on AI Collection](https://www.thataicollection.com/ru/categories/email-assistant)
+[See All 📧 Помощник по электронной почте Applications on AI Collection](https://www.thataicollection.com/ru/categories/email-assistant)
 
----
+___
 
 ## Мода
 
@@ -2043,11 +2030,10 @@ SwagAI — изображения, созданные искусственным
 
 ---
 
-<br />
 
-[See All $👩‍🎤 Мода Applications on AI Collection](https://www.thataicollection.com/ru/categories/fashion)
+[See All 👩‍🎤 Мода Applications on AI Collection](https://www.thataicollection.com/ru/categories/fashion)
 
----
+___
 
 ## Веселье
 
@@ -2203,11 +2189,10 @@ SwagAI — изображения, созданные искусственным
 
 ---
 
-<br />
 
-[See All $🤪 Веселье Applications on AI Collection](https://www.thataicollection.com/ru/categories/fun)
+[See All 🤪 Веселье Applications on AI Collection](https://www.thataicollection.com/ru/categories/fun)
 
----
+___
 
 ## Игры
 
@@ -2364,11 +2349,10 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 ---
 
-<br />
 
-[See All $🎮 Игры Applications on AI Collection](https://www.thataicollection.com/ru/categories/gaming)
+[See All 🎮 Игры Applications on AI Collection](https://www.thataicollection.com/ru/categories/gaming)
 
----
+___
 
 ## Идеи для подарка
 
@@ -2524,11 +2508,10 @@ Gift Genie AI — это приложение на базе искусствен
 
 ---
 
-<br />
 
-[See All $🎁💡 Идеи для подарка Applications on AI Collection](https://www.thataicollection.com/ru/categories/gift-ideas)
+[See All 🎁💡 Идеи для подарка Applications on AI Collection](https://www.thataicollection.com/ru/categories/gift-ideas)
 
----
+___
 
 ## Здравоохранение
 
@@ -2579,11 +2562,10 @@ Gift Genie AI — это приложение на базе искусствен
 
 ---
 
-<br />
 
-[See All $👩‍⚕️ Здравоохранение Applications on AI Collection](https://www.thataicollection.com/ru/categories/healthcare)
+[See All 👩‍⚕️ Здравоохранение Applications on AI Collection](https://www.thataicollection.com/ru/categories/healthcare)
 
----
+___
 
 ## Человеческие ресурсы и резюме
 
@@ -2740,11 +2722,10 @@ Springworks создает программные решения для упра
 
 ---
 
-<br />
 
-[See All $👩‍💼 Человеческие ресурсы и резюме Applications on AI Collection](https://www.thataicollection.com/ru/categories/human-resources-and-resume)
+[See All 👩‍💼 Человеческие ресурсы и резюме Applications on AI Collection](https://www.thataicollection.com/ru/categories/human-resources-and-resume)
 
----
+___
 
 ## Генерация идей
 
@@ -2844,11 +2825,10 @@ Paperade — это первый инструмент на основе иску
 
 ---
 
-<br />
 
-[See All $💡 Генерация идей Applications on AI Collection](https://www.thataicollection.com/ru/categories/idea-generation)
+[See All 💡 Генерация идей Applications on AI Collection](https://www.thataicollection.com/ru/categories/idea-generation)
 
----
+___
 
 ## Юридический
 
@@ -2944,11 +2924,10 @@ Paperade — это первый инструмент на основе иску
 
 ---
 
-<br />
 
-[See All $👩‍⚖️ Юридический Applications on AI Collection](https://www.thataicollection.com/ru/categories/legal)
+[See All 👩‍⚖️ Юридический Applications on AI Collection](https://www.thataicollection.com/ru/categories/legal)
 
----
+___
 
 ## Генератор логотипов
 
@@ -3030,11 +3009,10 @@ None
 
 ---
 
-<br />
 
-[See All $⚜️ Генератор логотипов Applications on AI Collection](https://www.thataicollection.com/ru/categories/logo-generator)
+[See All ⚜️ Генератор логотипов Applications on AI Collection](https://www.thataicollection.com/ru/categories/logo-generator)
 
----
+___
 
 ## Помощник по встречам
 
@@ -3188,11 +3166,10 @@ Sembly записывает записи, делает заметки о вст�
 
 ---
 
-<br />
 
-[See All $👨‍💻 Помощник по встречам Applications on AI Collection](https://www.thataicollection.com/ru/categories/meeting-assistant)
+[See All 👨‍💻 Помощник по встречам Applications on AI Collection](https://www.thataicollection.com/ru/categories/meeting-assistant)
 
----
+___
 
 ## Генерация музыки и аудио
 
@@ -3354,11 +3331,10 @@ Dadabots - Мы создаем нейронные сети с необработ
 
 ---
 
-<br />
 
-[See All $🎼 Генерация музыки и аудио Applications on AI Collection](https://www.thataicollection.com/ru/categories/music-and-audio-generation)
+[See All 🎼 Генерация музыки и аудио Applications on AI Collection](https://www.thataicollection.com/ru/categories/music-and-audio-generation)
 
----
+___
 
 ## Организация и автоматизация
 
@@ -3523,11 +3499,10 @@ H2ogPT, генеративный искусственный интеллект �
 
 ---
 
-<br />
 
-[See All $🧞‍♂️ Организация и автоматизация Applications on AI Collection](https://www.thataicollection.com/ru/categories/organization-and-automation)
+[See All 🧞‍♂️ Организация и автоматизация Applications on AI Collection](https://www.thataicollection.com/ru/categories/organization-and-automation)
 
----
+___
 
 ## Редактирование фотографий и изображений
 
@@ -3683,11 +3658,10 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 ---
 
-<br />
 
-[See All $📸 Редактирование фотографий и изображений Applications on AI Collection](https://www.thataicollection.com/ru/categories/photo-and-image-editing)
+[See All 📸 Редактирование фотографий и изображений Applications on AI Collection](https://www.thataicollection.com/ru/categories/photo-and-image-editing)
 
----
+___
 
 ## Плагины и расширения
 
@@ -3817,11 +3791,10 @@ Gist AI — это бесплатный генератор сводок, кот�
 
 ---
 
-<br />
 
-[See All $🔌 Плагины и расширения Applications on AI Collection](https://www.thataicollection.com/ru/categories/plugins-and-extensions)
+[See All 🔌 Плагины и расширения Applications on AI Collection](https://www.thataicollection.com/ru/categories/plugins-and-extensions)
 
----
+___
 
 ## Продуктивность и личностный рост
 
@@ -3981,11 +3954,10 @@ Pth.AI — это инструмент на основе ИИ, который н
 
 ---
 
-<br />
 
-[See All $🚀 Продуктивность и личностный рост Applications on AI Collection](https://www.thataicollection.com/ru/categories/productivity-and-personal-growth)
+[See All 🚀 Продуктивность и личностный рост Applications on AI Collection](https://www.thataicollection.com/ru/categories/productivity-and-personal-growth)
 
----
+___
 
 ## Научный сотрудник
 
@@ -4096,11 +4068,10 @@ RTutor использует мощную модель большого язык�
 
 ---
 
-<br />
 
-[See All $🎓 Научный сотрудник Applications on AI Collection](https://www.thataicollection.com/ru/categories/research-assistant)
+[See All 🎓 Научный сотрудник Applications on AI Collection](https://www.thataicollection.com/ru/categories/research-assistant)
 
----
+___
 
 ## Отзывы и рекомендации
 
@@ -4181,11 +4152,10 @@ Reviewz.ai — это новинка, предназначенная для де
 
 ---
 
-<br />
 
-[See All $🗳 Отзывы и рекомендации Applications on AI Collection](https://www.thataicollection.com/ru/categories/reviews-and-recommendations)
+[See All 🗳 Отзывы и рекомендации Applications on AI Collection](https://www.thataicollection.com/ru/categories/reviews-and-recommendations)
 
----
+___
 
 ## Продажи и маркетинг
 
@@ -4346,11 +4316,10 @@ Traq.ai анализирует каждый звонок, который дел�
 
 ---
 
-<br />
 
-[See All $💰 Продажи и маркетинг Applications on AI Collection](https://www.thataicollection.com/ru/categories/sales-and-marketing)
+[See All 💰 Продажи и маркетинг Applications on AI Collection](https://www.thataicollection.com/ru/categories/sales-and-marketing)
 
----
+___
 
 ## Поисковые системы
 
@@ -4495,11 +4464,10 @@ Broker One AI Engine — это современный инструмент на
 
 ---
 
-<br />
 
-[See All $🔍 Поисковые системы Applications on AI Collection](https://www.thataicollection.com/ru/categories/search-engines)
+[See All 🔍 Поисковые системы Applications on AI Collection](https://www.thataicollection.com/ru/categories/search-engines)
 
----
+___
 
 ## Слайды и презентации
 
@@ -4627,11 +4595,10 @@ Glimmer AI использует GPT-3 и DALL-E 2 для простого и б�
 
 ---
 
-<br />
 
-[See All $📊 Слайды и презентации Applications on AI Collection](https://www.thataicollection.com/ru/categories/slides-and-presentations)
+[See All 📊 Слайды и презентации Applications on AI Collection](https://www.thataicollection.com/ru/categories/slides-and-presentations)
 
----
+___
 
 ## Знакомства и социальные сети
 
@@ -4790,11 +4757,10 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 ---
 
-<br />
 
-[See All $💞 Знакомства и социальные сети Applications on AI Collection](https://www.thataicollection.com/ru/categories/social-networks-and-dating)
+[See All 💞 Знакомства и социальные сети Applications on AI Collection](https://www.thataicollection.com/ru/categories/social-networks-and-dating)
 
----
+___
 
 ## Речь
 
@@ -4875,11 +4841,10 @@ Lingostar — это искусственный интеллект, с кото�
 
 ---
 
-<br />
 
-[See All $📢 Речь Applications on AI Collection](https://www.thataicollection.com/ru/categories/speech)
+[See All 📢 Речь Applications on AI Collection](https://www.thataicollection.com/ru/categories/speech)
 
----
+___
 
 ## Текст
 
@@ -5035,11 +5000,10 @@ namewizard — это генератор, который использует и
 
 ---
 
-<br />
 
-[See All $📝 Текст Applications on AI Collection](https://www.thataicollection.com/ru/categories/text)
+[See All 📝 Текст Applications on AI Collection](https://www.thataicollection.com/ru/categories/text)
 
----
+___
 
 ## Текст в речь
 
@@ -5195,11 +5159,10 @@ namewizard — это генератор, который использует и
 
 ---
 
-<br />
 
-[See All $📝🔉 Текст в речь Applications on AI Collection](https://www.thataicollection.com/ru/categories/text-to-speech)
+[See All 📝🔉 Текст в речь Applications on AI Collection](https://www.thataicollection.com/ru/categories/text-to-speech)
 
----
+___
 
 ## Перевод и стенограмма
 
@@ -5367,11 +5330,10 @@ Stork помогает командам улучшить коммуникаци�
 
 ---
 
-<br />
 
-[See All $🇺🇳 Перевод и стенограмма Applications on AI Collection](https://www.thataicollection.com/ru/categories/translation-and-transcript)
+[See All 🇺🇳 Перевод и стенограмма Applications on AI Collection](https://www.thataicollection.com/ru/categories/translation-and-transcript)
 
----
+___
 
 ## Планировщик отпусков и поездок
 
@@ -5437,11 +5399,10 @@ Stork помогает командам улучшить коммуникаци�
 
 ---
 
-<br />
 
-[See All $🏖 Планировщик отпусков и поездок Applications on AI Collection](https://www.thataicollection.com/ru/categories/vacation-and-trip-planner)
+[See All 🏖 Планировщик отпусков и поездок Applications on AI Collection](https://www.thataicollection.com/ru/categories/vacation-and-trip-planner)
 
----
+___
 
 ## видео
 
@@ -5601,11 +5562,10 @@ HitPaw Video Enhancer помогает легко масштабировать �
 
 ---
 
-<br />
 
-[See All $🎬 видео Applications on AI Collection](https://www.thataicollection.com/ru/categories/video)
+[See All 🎬 видео Applications on AI Collection](https://www.thataicollection.com/ru/categories/video)
 
----
+___
 
 ## Веб-дизайн
 
@@ -5746,11 +5706,10 @@ HitPaw Video Enhancer помогает легко масштабировать �
 
 ---
 
-<br />
 
-[See All $🕸 Веб-дизайн Applications on AI Collection](https://www.thataicollection.com/ru/categories/web-design)
+[See All 🕸 Веб-дизайн Applications on AI Collection](https://www.thataicollection.com/ru/categories/web-design)
 
----
+___
 
 ## Помощник по письму
 
@@ -5909,9 +5868,8 @@ AI Pargraph Generator — это передовой инструмент для 
 
 ---
 
-<br />
 
-[See All $✍️ Помощник по письму Applications on AI Collection](https://www.thataicollection.com/ru/categories/writing-assistant)
+[See All ✍️ Помощник по письму Applications on AI Collection](https://www.thataicollection.com/ru/categories/writing-assistant)
 
----
+___
 
