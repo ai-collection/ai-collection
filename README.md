@@ -2,12 +2,11 @@
 
 <br />
 
-### FlowCog
+### FlowCog - [Visit](https://www.thataicollection.com/redirect/flowcog)
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-flowcog.webp?twic=v1/resize=240" alt="FlowCog">
 
 #### SaaS Financial Projections Quick & Easy ⚡
 
-<br />
 
 Unlock cash runway & growth insights — no spreadsheets! 7 minute onboarding. QuickBooks & Stripe ready. Trusted by boards & investors
 
@@ -15,18 +14,13 @@ Unlock cash runway & growth insights — no spreadsheets! 7 minute onboarding. Q
 
 <br />
 
-[Visit FlowCog](https://www.thataicollection.com/redirect/flowcog)
-
-<br />
-
 ---
 
-### StockGPT
+### StockGPT - [Visit](https://www.thataicollection.com/redirect/stockgpt)
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stockgpt.webp?twic=v1/resize=240" alt="StockGPT">
 
 #### AI-Powered Search Engine
 
-<br />
 
 StockGPT is an AI-powered search engine that was trained on all of Teslas quarterly earnings call transcripts dating back to Q2 2011.
 
@@ -34,18 +28,13 @@ StockGPT is an AI-powered search engine that was trained on all of Teslas quarte
 
 <br />
 
-[Visit StockGPT](https://www.thataicollection.com/redirect/stockgpt)
-
-<br />
-
 ---
 
-### Jinnee
+### Jinnee - [Visit](https://www.thataicollection.com/redirect/jinnee)
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jinnee.webp?twic=v1/resize=240" alt="Jinnee">
 
 #### Jinnee – Your Fintech Virtual Assistant
 
-<br />
 
 problems Jinnee could solve: Limited capacity - Support department cannot process every request, Long waiting time - Customers located in different timezones, Repetitive queries - Can be automated to save time, Time-wasters - Create toxic work environment
 
@@ -53,26 +42,18 @@ problems Jinnee could solve: Limited capacity - Support department cannot proces
 
 <br />
 
-[Visit Jinnee](https://www.thataicollection.com/redirect/jinnee)
-
-<br />
-
 ---
 
-### Stocknews AI
+### Stocknews AI - [Visit](https://www.thataicollection.com/redirect/stocknews-ai)
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stocknews-ai.webp?twic=v1/resize=240" alt="Stocknews AI">
 
-#### Stocknews AI - AI Picked Stock News
+#### Best Stocknews from 100+ sources
+Picked by AI
 
-<br />
 
-.
+Stocknews AI is a curation of the best new stocknews, every day. Discover the latest stocknews that everyone's talking about.
 
 [See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/en/application/stocknews-ai)
-
-<br />
-
-[Visit Stocknews AI](https://www.thataicollection.com/redirect/stocknews-ai)
 
 <br />
 
