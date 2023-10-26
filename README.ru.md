@@ -1,3 +1,152 @@
+# <img width="20" style="margin-right:6px;" alt="ai-collection-logo" src="https://ai-collection.b-cdn.net/logo.webp" /> AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+
+<div align="center">
+
+</div>
+<a target="_blank" href="https://twitter.com/intent/tweet?url=https://github.com/ai-collection/ai-collection/blob/main/README.ru.md&text=Ознакомьтесь с этой коллекцией потрясающих приложений для генеративного ИИ! @ai_collection_&hashtags=aicollection"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Share&style=social&url=https%3A%2F%2Ftwitter.com"></a> <a class="twitter-follow-button" href="https://twitter.com/ai_collection_" data-size="large"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ai_collection_?style=social"></a>
+
+---
+
+<div align="center">
+    <br />
+    <i>ГЕНЕРАТИВНЫЙ ЛАНДШАФТ ИИ</i>
+    <br />
+    <br />
+    <i>Коллекция потрясающих приложений для генеративного ИИ</i>
+    <br />
+</div>
+
+---
+
+> My brothers and sisters in Israel were slaughtered by Hamas terrorists. I was drafted to protect my country. I may be slow to respond.
+
+---
+
+<div align="center">
+    <h4>Положение дел</h4>
+
+<a href="https://github.com/ai-collection/ai-collection">
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=932" />
+</a> &nbsp;&nbsp;
+<a href="https://github.com/ai-collection/ai-collection">
+    <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
+</a>
+
+[![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
+
+</div>
+
+---
+
+<div align="center">
+    <a href="CONTRIBUTING.md">Contributing Guide</a> •
+    <a href="LICENSE">License</a> •
+    <a href="https://aicollection.beehiiv.com/subscribe">Newsletter</a> •
+    <a href="https://www.thataicollection.com/en/blog/">Blog</a>
+</div>
+
+--- 
+> Вы можете скопировать ссылку на сайт в этот инструмент, чтобы просмотреть сайт на русском языке - [link](https://translate.google.com/?sl=en&tl=ru&op=websites)
+
+---
+
+<div align="center">
+    <h5>Лучшие подборки</h5>
+    <p>Лучшие выборы AI Collection:</p>
+</div>
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/hix.ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://static.tapfiliate.com/64f970e24e02d007847701.jpeg?a=135466-856f82" alt="HIX.AI" border="0"/>
+    </a>
+    <h4>Самый мощный, «все в одном»
+Второй пилот по написанию искусственного интеллекта</h4>
+    <p>IX.AI: ваш самый мощный и универсальный второй пилот, работающий с искусственным интеллектом. Создавайте высококачественные копии для рекламы, электронных писем, блогов и многого другого за считанные секунды с помощью HIX.AI, самого мощного универсального второго пилота для написания ИИ на рынке.</p>
+    <a href="https://www.thataicollection.com/redirect/hix.ai" target="_blank"><b>Начать работу с HIX.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+---
+
+<div align="center">
+    <h5>Потрясающие инструменты для вашего приложения AI</h5>
+</div>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.twic.pics/screenshots/screenshot-usertrail.webp" alt="usertrail" border="0"/>
+    </a>
+    <h4>Простое и мощное отслеживание событий для современных приложений.</h4>
+    <p>Снимайте, отслеживайте и визуализируйте каждую веху пользователя, принимая решения на основе данных проще, чем когда-либо.
+Мониторинг — будьте в курсе событий. В любое время и в любом месте.
+Визуализация - четкая и элегантная панель управления. За считанные минуты.
+Capture — простая интеграция.</p>
+    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank"><b>Начать работу с usertrail</b></a>
+    <br />
+</div>
+
+
+---
+
+<p><a href="mailto: pavel@ai-collection.org">Связаться с нами</a> настроить продвижение для вашего удивительного приложения!</p>
+
+
+
+        > **_ПРИМЕЧАНИЕ:_** Грядут изменения в отображении коллекции. Будут показаны только несколько десятков приложений генеративного ИИ, отобранных вручную. Полная коллекция всегда будет доступна на https://www.thataicollection.com
+        <br />
+
+        ## Index
+- 😎 [Аватары](#аватары)
+- 🎲 [Анимация И 3D-Моделирование](#анимация-и-3d-моделирование)
+- 🏯 [Архитектура И Дизайн Интерьера](#архитектура-и-дизайн-интерьера)
+- 📈 [Бухгалтерский Учет И Финансы](#бухгалтерский-учет-и-финансы)
+- 🕸 [Веб-Дизайн](#веб-дизайн)
+- 🤪 [Веселье](#веселье)
+- 🎬 [Видео](#видео)
+- 🌄 [Генератор Изображений И Изображений](#генератор-изображений-и-изображений)
+- ⚜️ [Генератор Логотипов](#генератор-логотипов)
+- 💡 [Генерация Идей](#генерация-идей)
+- 📠 [Генерация Контента И Seo](#генерация-контента-и-seo)
+- 🎼 [Генерация Музыки И Аудио](#генерация-музыки-и-аудио)
+- 👩‍⚕️ [Здравоохранение](#здравоохранение)
+- 💞 [Знакомства И Социальные Сети](#знакомства-и-социальные-сети)
+- 🎮 [Игры](#игры)
+- 🎁💡 [Идеи Для Подарка](#идеи-для-подарка)
+- 🧰 [Инструментарий Для Авторов](#инструментарий-для-авторов)
+- 👩‍🎤 [Мода](#мода)
+- 🎓 [Научный Сотрудник](#научный-сотрудник)
+- 🧠 [Образование И Обучение](#образование-и-обучение)
+- 🧞‍♂️ [Организация И Автоматизация](#организация-и-автоматизация)
+- 🗳 [Отзывы И Рекомендации](#отзывы-и-рекомендации)
+- 🇺🇳 [Перевод И Стенограмма](#перевод-и-стенограмма)
+- 🔌 [Плагины И Расширения](#плагины-и-расширения)
+- 🏖 [Планировщик Отпусков И Поездок](#планировщик-отпусков-и-поездок)
+- 🔍 [Поисковые Системы](#поисковые-системы)
+- 👨‍💻 [Помощник По Встречам](#помощник-по-встречам)
+- 💻 [Помощник По Коду И Базе Данных](#помощник-по-коду-и-базе-данных)
+- ✍️ [Помощник По Письму](#помощник-по-письму)
+- 📧 [Помощник По Электронной Почте](#помощник-по-электронной-почте)
+- 💰 [Продажи И Маркетинг](#продажи-и-маркетинг)
+- 🚀 [Продуктивность И Личностный Рост](#продуктивность-и-личностный-рост)
+- 📸 [Редактирование Фотографий И Изображений](#редактирование-фотографий-и-изображений)
+- 📢 [Речь](#речь)
+- 📊 [Слайды И Презентации](#слайды-и-презентации)
+- 👨‍💻 [Служба Поддержки](#служба-поддержки)
+- 📝 [Текст](#текст)
+- 📝🔉 [Текст В Речь](#текст-в-речь)
+- 🤖💬 [Чат-Бот](#чат-бот)
+- 👩‍💼 [Человеческие Ресурсы И Резюме](#человеческие-ресурсы-и-резюме)
+- 🛒 [Электронная Торговля](#электронная-торговля)
+- 👩‍⚖️ [Юридический](#юридический)
+- [Другой](#другой)
+
+---
+
 ## 📈 Бухгалтерский учет и финансы
 
 <br />
@@ -9,7 +158,7 @@
 
 Разблокируйте денежный поток и информацию о росте — никаких электронных таблиц! 7-минутная регистрация. QuickBooks и Stripe готовы. Нам доверяют советы директоров и инвесторы
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/flowcog)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/flowcog)
 
 <br />
 
@@ -24,7 +173,7 @@
 
 StockGPT — это поисковая система на базе искусственного интеллекта, которая была обучена на всех расшифровках ежеквартальных отчетов о доходах Tesla, начиная со второго квартала 2011 года.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/stockgpt)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/stockgpt)
 
 <br />
 
@@ -39,7 +188,7 @@ StockGPT — это поисковая система на базе искусс
 
 Проблемы, которые может решить Джинни: Ограниченные возможности - Отдел поддержки не может обработать каждый запрос, Длительное время ожидания - Клиенты находятся в разных часовых поясах, Повторяющиеся запросы - Можно автоматизировать для экономии времени, Пожиратели времени - Создают токсичную рабочую среду
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/jinnee)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/jinnee)
 
 <br />
 
@@ -55,7 +204,7 @@ StockGPT — это поисковая система на базе искусс
 
 Stocknews AI — это куратор лучших новых биржевых новостей каждый день. Узнайте последние биржевые новости, о которых все говорят.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/stocknews-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/stocknews-ai)
 
 <br />
 
@@ -74,7 +223,7 @@ Stocknews AI — это куратор лучших новых биржевых 
 
 Blimey — это генератор изображений с искусственным интеллектом, с помощью которого вы можете за минуту перейти от идеи к реальности. С полным контролем над композицией, цветами и стилем. Настройте виртуальную 3D-сцену, чтобы полностью контролировать композицию и цвета при создании изображений с помощью искусственного интеллекта
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/blimey)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/blimey)
 
 <br />
 
@@ -89,7 +238,7 @@ Blimey — это генератор изображений с искусств�
 
 Создавайте 3D-текстуры для своей игры за считанные секунды благодаря искусственному интеллекту.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/texturelab)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/texturelab)
 
 <br />
 
@@ -104,7 +253,7 @@ Blimey — это генератор изображений с искусств�
 
 Хватит тратить часы на инструменты моделирования. Создавайте потрясающее 3D-искусство, используя только изображение.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/kaedim)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/kaedim)
 
 <br />
 
@@ -119,7 +268,7 @@ Blimey — это генератор изображений с искусств�
 
 Легко извлекайте движение из видео без дорогих комбинезонов или работы с движениями.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/plask)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/plask)
 
 <br />
 
@@ -134,7 +283,7 @@ Blimey — это генератор изображений с искусств�
 
 Ранний эксперимент по прототипированию и созданию 3D-текста. Доступ к генерации постепенно расширяется для всех, кто находится в списке ожидания.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/lumalabs)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/lumalabs)
 
 <br />
 
@@ -153,7 +302,7 @@ Blimey — это генератор изображений с искусств�
 
 Наше программное обеспечение для генеративного проектирования позволяет архитекторам, строителям и разработчикам мгновенно создавать тысячи архитектурных планов.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/makeit.ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/makeit.ai)
 
 <br />
 
@@ -168,7 +317,7 @@ Blimey — это генератор изображений с искусств�
 
 Получите идеи дизайна интерьера с помощью искусственного интеллекта и виртуально создавайте интерьеры для списков недвижимости с различными стилями интерьера.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/interior-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/interior-ai)
 
 <br />
 
@@ -183,7 +332,7 @@ Blimey — это генератор изображений с искусств�
 
 Используйте нашу мощную технологию искусственного интеллекта для создания изображений любого типа. В считанные секунды.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/image-computer)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/image-computer)
 
 <br />
 
@@ -198,7 +347,7 @@ Blimey — это генератор изображений с искусств�
 
 Представьте, что вы можете с легкостью создавать красивые интерьеры — вот что предлагает Dimensions.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/dimensions)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/dimensions)
 
 <br />
 
@@ -213,7 +362,7 @@ Blimey — это генератор изображений с искусств�
 
 Получите сотни идей дизайна интерьера для вашей комнаты — бесплатно и без ограничений.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ai-room-planner)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-room-planner)
 
 <br />
 
@@ -228,7 +377,7 @@ Blimey — это генератор изображений с искусств�
 
 Наши клиенты сообщают о росте числа звонков до 30 %, используя 2D- и 3D-планы этажей и виртуальные туры.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/getfloorplan)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/getfloorplan)
 
 <br />
 
@@ -243,7 +392,7 @@ Blimey — это генератор изображений с искусств�
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ai-two)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-two)
 
 <br />
 
@@ -262,7 +411,7 @@ Blimey — это генератор изображений с искусств�
 
 getimg.ai — это набор волшебных инструментов искусственного интеллекта. Создавайте исходные изображения в масштабе, изменяйте фотографии, расширяйте изображения за их первоначальные границы или создавайте собственные модели AI.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/getimg.ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/getimg.ai)
 
 <br />
 
@@ -277,7 +426,7 @@ getimg.ai — это набор волшебных инструментов ис
 
 ICONS8 ПОЗВОЛЯЕТ ДИЗАЙНЕРАМ ВЫРАЖАТЬ СВОИ ИДЕИ, ПРЕДОСТАВЛЯЯ НУЖНЫЕ ЭЛЕМЕНТЫ ДИЗАЙНА В НУЖНОЕ ВРЕМЯ.. Функции искусственного интеллекта: генератор лиц, смена лиц на стоковых фотографиях, интеллектуальное масштабирование, обновление сайта прямо из режима Lunacy и многое другое
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/icons8)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/icons8)
 
 <br />
 
@@ -292,7 +441,7 @@ ICONS8 ПОЗВОЛЯЕТ ДИЗАЙНЕРАМ ВЫРАЖАТЬ СВОИ ИДЕ�
 
 Получайте художественные красивые QR-коды по электронной почте менее чем за 10 минут. Выберите одну из доступных категорий QR-кода или запросите собственную. Сделайте свой бизнес уникальным с помощью QR-арта!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/customqr-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/customqr-ai)
 
 <br />
 
@@ -307,7 +456,7 @@ ICONS8 ПОЗВОЛЯЕТ ДИЗАЙНЕРАМ ВЫРАЖАТЬ СВОИ ИДЕ�
 
 Playground AI — это бесплатный онлайн-редактор изображений с искусственным интеллектом. Используйте его для создания рисунков, постов в социальных сетях, презентаций, постеров, видео, логотипов и многого другого.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/playground)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/playground)
 
 <br />
 
@@ -322,7 +471,7 @@ Playground AI — это бесплатный онлайн-редактор из
 
 Создавайте исключительные фотографии продуктов и многое другое: выберите любое изображение, чтобы начать волшебство ✨
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/designify)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/designify)
 
 <br />
 
@@ -337,7 +486,7 @@ Playground AI — это бесплатный онлайн-редактор из
 
 Портреты, созданные искусственным интеллектом, любым удобным для вас способом. Drawanyone.ai позволяет настраивать портреты ИИ
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/drawanyone)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/drawanyone)
 
 <br />
 
@@ -352,7 +501,7 @@ Playground AI — это бесплатный онлайн-редактор из
 
 Создайте свою идеальную аниме-картинку с помощью ИИ. Выбирайте между стилями One Piece, Naruto, Webtoon и другими!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/anime-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/anime-ai)
 
 <br />
 
@@ -367,7 +516,7 @@ Playground AI — это бесплатный онлайн-редактор из
 
 Создавайте собственные изображения, сгенерированные искусственным интеллектом
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/snapshotai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/snapshotai)
 
 <br />
 
@@ -382,7 +531,7 @@ Playground AI — это бесплатный онлайн-редактор из
 
 None
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/mini-dalle-3-online)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/mini-dalle-3-online)
 
 <br />
 
@@ -397,7 +546,7 @@ None
 
 Просматривайте миллионы стилей или создавайте собственные, создавайте автопортреты с помощью ИИ.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/not-me-netlify)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/not-me-netlify)
 
 <br />
 
@@ -416,7 +565,7 @@ None
 
 HairstyleAI позволяет виртуально опробовать новые стрижки с помощью ИИ, прежде чем сделать настоящую стрижку. Станьте более уверенным в своем внешнем виде и снова почувствуйте себя самим собой.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/hairstyleai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hairstyleai)
 
 <br />
 
@@ -431,7 +580,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 Выберите один из 112+ различных стилей, чтобы превратиться в
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/avatarai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/avatarai)
 
 <br />
 
@@ -446,7 +595,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 Создавайте случайный набор персонажей или аватаров с помощью GAN. Нажмите пробел, чтобы создать новый набор
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/character.io)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/character.io)
 
 <br />
 
@@ -461,7 +610,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 Как это работает? 1. Загрузите несколько своих селфи (или другого человека) с разных ракурсов. 2. Подождите - Выпейте кофе, пока мы строим вашу студию на основе ваших фотографий. 3. Подсказка. Используйте свое воображение, чтобы создать идеальную подсказку!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/avtrs)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/avtrs)
 
 <br />
 
@@ -476,7 +625,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 Просматривайте миллионы стилей или создавайте собственные, создавайте автопортреты с помощью ИИ.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/autoportrait)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/autoportrait)
 
 <br />
 
@@ -491,7 +640,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 Создайте волшебный аватар из ваших фотографий.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/aivatar)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/aivatar)
 
 <br />
 
@@ -506,7 +655,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 Создавайте свои идеальные аватары всего за несколько кликов с помощью нашей простой в использовании технологии искусственного интеллекта.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/aiprofilepic)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/aiprofilepic)
 
 <br />
 
@@ -521,7 +670,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 Изображения, созданные искусственным интеллектом, с вами в главной роли
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/dreampic)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/dreampic)
 
 <br />
 
@@ -536,7 +685,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 Создайте свой собственный современный аватар с искусственным интеллектом.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/epicavatar)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/epicavatar)
 
 <br />
 
@@ -551,7 +700,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 Получите профессиональные снимки студийного качества менее чем за 24 часа! Идеально подходит для фотографий LinkedIn, социальных сетей, команд и свиданий.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/tryitonai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/tryitonai)
 
 <br />
 
@@ -570,7 +719,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 ChatSimple — это платформа, которая специализируется на создании чат-ботов, ориентированных на конверсию, для малого и среднего бизнеса (SMB) всего за 5 минут. Платформа сосредоточена на трех ключевых функциях: привлечении потенциальных клиентов, управлении часто задаваемыми вопросами и обработке вопросов перед квалификацией. Позволяя малым и средним предприятиям создавать собственных чат-ботов с опытом работы в конкретных областях,
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/achatsimple)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/achatsimple)
 
 <br />
 
@@ -585,7 +734,7 @@ ChatSimple — это платформа, которая специализир�
 
 Создайте специально обученного чат-бота для поддержки искусственного интеллекта, используя свой собственный контент, вспомогательную документацию, PDF-файлы, API или базу данных. Затем добавьте его на свой веб-сайт с помощью одной строки кода, чтобы отвечать на вопросы посетителей в режиме реального времени и сократить количество обращений в службу поддержки.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/sitespeakai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/sitespeakai)
 
 <br />
 
@@ -600,7 +749,7 @@ ChatSimple — это платформа, которая специализир�
 
 Нулевое кодирование. Поделитесь на своем сайте за считанные минуты. Создайте чат-бота GPT-4 за считанные минуты. Обучите ИИ, настройте и вставьте на свой сайт.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/dante)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/dante)
 
 <br />
 
@@ -615,7 +764,7 @@ ChatSimple — это платформа, которая специализир�
 
 ChatBotKit помогает вам создавать диалоговых чат-ботов с искусственным интеллектом с вашими собственными данными для естественного общения с пользователями на вашем веб-сайте, в Slack, Discord и WhatsApp.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/chatbotkit)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/chatbotkit)
 
 <br />
 
@@ -630,7 +779,7 @@ ChatBotKit помогает вам создавать диалоговых ча�
 
 Мгновенно отвечайте на вопросы посетителей с помощью персонализированного чат-бота, обученного содержанию вашего сайта.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/sitegpt)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/sitegpt)
 
 <br />
 
@@ -645,7 +794,7 @@ ChatBotKit помогает вам создавать диалоговых ча�
 
 Встречайте НОЛУ. Простой интерфейс для взаимодействия с движком Open AI GPT-3.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/nolu)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/nolu)
 
 <br />
 
@@ -660,7 +809,7 @@ ChatBotKit помогает вам создавать диалоговых ча�
 
 Chai — это НАСТОЯЩЕЕ место для захватывающих разговоров с ИИ. На Chai вы можете создавать и развертывать чат-ботов с искусственным интеллектом для тысяч пользователей.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/chai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/chai)
 
 <br />
 
@@ -675,7 +824,7 @@ Chai — это НАСТОЯЩЕЕ место для захватывающих 
 
 Роби — мощный компаньон с искусственным интеллектом, который живет в вашем списке контактов, с ним можно поговорить через WhatsApp, он может помочь вам написать эссе или создать оригинальные изображения!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/askrobi)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/askrobi)
 
 <br />
 
@@ -690,7 +839,7 @@ Chai — это НАСТОЯЩЕЕ место для захватывающих 
 
 Компаньон AI, который заботится. Проведите дружескую беседу, ролевую игру, развивайте свои навыки общения и отношений.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/myanima-ai-companion)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/myanima-ai-companion)
 
 <br />
 
@@ -705,7 +854,7 @@ Chai — это НАСТОЯЩЕЕ место для захватывающих 
 
 Kore.ai автоматизирует взаимодействие между фронт-офисом и бэк-офисом во всех отраслях, развертывая виртуальных помощников и помощников по обработке процессов, ориентированных на разговорный искусственный интеллект.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/kore.ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/kore.ai)
 
 <br />
 
@@ -724,7 +873,7 @@ Kore.ai автоматизирует взаимодействие между ф�
 
 Создавайте структуры документации, генерируйте пояснения к коду и улучшайте видимость документов с помощью Swimm AI.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/swimm-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/swimm-ai)
 
 <br />
 
@@ -739,7 +888,7 @@ Kore.ai автоматизирует взаимодействие между ф�
 
 CodiumAI анализирует ваш код и создает содержательные тесты для выявления ошибок перед отправкой.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/codiumai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/codiumai)
 
 <br />
 
@@ -754,7 +903,7 @@ CodiumAI анализирует ваш код и создает содержат
 
 CodeWP — это генератор кода WordPress, который использует искусственный интеллект и специализированные модели для WordPress, Woo и других, чтобы помочь вам строить лучше и быстрее.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/codewp)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/codewp)
 
 <br />
 
@@ -769,7 +918,7 @@ CodeWP — это генератор кода WordPress, который испо
 
 ОбъяснениеDev помогает вам быть более уверенным и независимым в работе с чужим кодом. Получите пояснения по коду и прямые ответы на свои вопросы с помощью расширений Chrome и VS Code на базе искусственного интеллекта.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/explaindev)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/explaindev)
 
 <br />
 
@@ -784,7 +933,7 @@ CodeWP — это генератор кода WordPress, который испо
 
 TLDR — это подключаемый модуль IDE, который использует искусственный интеллект для объяснения кода простым английским языком.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/tldr---jetbrains-ide-plugin)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/tldr---jetbrains-ide-plugin)
 
 <br />
 
@@ -799,7 +948,7 @@ TLDR — это подключаемый модуль IDE, который исп
 
 Запускайте код прямо в браузере. Пишите и запускайте код на более чем 50 языках онлайн с помощью Replit, мощной интегрированной среды разработки, компилятора и интерпретатора.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ghostwriter)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ghostwriter)
 
 <br />
 
@@ -814,7 +963,7 @@ TLDR — это подключаемый модуль IDE, который исп
 
 Приложение GitHub на базе искусственного интеллекта, которое простым английским языком объясняет изменения в ваших запросах на вытягивание.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/whatthediff)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/whatthediff)
 
 <br />
 
@@ -829,7 +978,7 @@ TLDR — это подключаемый модуль IDE, который исп
 
 Он генерирует, изменяет, дополняет код и отвечает на вопросы.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/codeassist)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/codeassist)
 
 <br />
 
@@ -844,7 +993,7 @@ TLDR — это подключаемый модуль IDE, который исп
 
 Klu.ai — это универсальная платформа, предназначенная для команд искусственного интеллекта для создания, развертывания и оптимизации приложений генеративного искусственного интеллекта. Она позволяет пользователям легко проектировать, разрабатывать и внедрять функции и приложения Generative AI с помощью интуитивно понятного интерфейса Klu Studio.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/klu)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/klu)
 
 <br />
 
@@ -859,7 +1008,7 @@ Klu.ai — это универсальная платформа, предназ�
 
 Являетесь ли вы частью команды или разработчиком, работающим самостоятельно, Tabnine поможет вам писать код быстрее — и все это в вашей любимой среде IDE.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/tabnine)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/tabnine)
 
 <br />
 
@@ -878,7 +1027,7 @@ Klu.ai — это универсальная платформа, предназ�
 
 Выберите один из наших 50 шаблонов и создайте привлекательный текст для различных целей, включая описания, рекламу, статьи, электронные письма и многое другое... Предоставьте некоторую информацию, которую CarbonCopy будет использовать для создания вашего экземпляра. Наше программное обеспечение искусственного интеллекта за считанные секунды обеспечит замечательные результаты для вашего маркетинга.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/carboncopy)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/carboncopy)
 
 <br />
 
@@ -893,7 +1042,7 @@ Klu.ai — это универсальная платформа, предназ�
 
 Jasper — это генератор контента с искусственным интеллектом, который помогает вам и вашей команде преодолеть творческие препятствия и создавать удивительный оригинальный контент в 10 раз быстрее.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/jasper.ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/jasper.ai)
 
 <br />
 
@@ -908,7 +1057,7 @@ Jasper — это генератор контента с искусственн�
 
 LongShot — это помощник по написанию текстов с искусственным интеллектом, который поможет вам перейти от идеи к SEO-контенту за считанные минуты. Используйте творческую мощь ИИ с такими функциями, как контент в реальном времени, проверка фактов, семантическая поисковая оптимизация, настраиваемый ИИ и многое другое!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/longshot-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/longshot-ai)
 
 <br />
 
@@ -923,7 +1072,7 @@ LongShot — это помощник по написанию текстов с �
 
 Dashword — это программное обеспечение №1 для оптимизации контента для SEO-команд. Создавайте релевантный контент для своих читателей и увеличивайте органический трафик.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/dashword)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/dashword)
 
 <br />
 
@@ -938,7 +1087,7 @@ Dashword — это программное обеспечение №1 для о
 
 Используйте все лучшие инструменты генерации ИИ в одном месте, предназначенные для автоматизации создания контента для малого бизнеса, интернет-магазинов и авторов.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/unbound)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/unbound)
 
 <br />
 
@@ -953,7 +1102,7 @@ Dashword — это программное обеспечение №1 для о
 
 Автоматизируйте операции с контентом. Универсальная платформа для контент-маркетинга и SEO, которая экономит ваше время и деньги.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/neuraltext)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/neuraltext)
 
 <br />
 
@@ -968,7 +1117,7 @@ Dashword — это программное обеспечение №1 для о
 
 Используйте искусственный интеллект, чтобы сократить время обработки, увеличить бюджет и создать больше высококачественного контента, который понравится Google и читателям.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/wordai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/wordai)
 
 <br />
 
@@ -983,7 +1132,7 @@ Dashword — это программное обеспечение №1 для о
 
 Получите писательские сверхспособности с помощью искусственного интеллекта. Мы в AISEO поможем вам преобразовать ваши мысли в блоги и можем писать для вас одним нажатием кнопки.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/intelligent-paraphraser)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/intelligent-paraphraser)
 
 <br />
 
@@ -998,7 +1147,7 @@ Dashword — это программное обеспечение №1 для о
 
 Creator поможет вам писать контент более мощно и эмоционально выразительно.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/creator-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/creator-ai)
 
 <br />
 
@@ -1013,7 +1162,7 @@ Creator поможет вам писать контент более мощно 
 
 Используя продвинутый искусственный интеллект и глубокое обучение, Article Forge пишет совершенно уникальные, оптимизированные для SEO, высококачественные длинные статьи одним нажатием кнопки.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/articleforge)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/articleforge)
 
 <br />
 
@@ -1034,7 +1183,7 @@ Creator поможет вам писать контент более мощно 
 Откройте для себя полезные и хорошие инструменты, которые повысят вашу производительность.
 Пример некоторых инструментов: генератор политики конфиденциальности, снимки экрана, обнаружение шрифтов, чат с любым PDF-файлом, суммирование любого URL-адреса и многое другое.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/damn-good-tools)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/damn-good-tools)
 
 <br />
 
@@ -1049,7 +1198,7 @@ Creator поможет вам писать контент более мощно 
 
 Полная экосистема приложений, плагинов и ресурсов для всех авторов на основе искусственного интеллекта.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/clipdrop)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/clipdrop)
 
 <br />
 
@@ -1064,7 +1213,7 @@ Creator поможет вам писать контент более мощно 
 
 Descript — это простой, мощный и увлекательный способ редактирования.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/descript)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/descript)
 
 <br />
 
@@ -1079,7 +1228,7 @@ Descript — это простой, мощный и увлекательный �
 
 Платформа для визуального дизайна «все в одном», содержащая инструменты для редактирования фото и видео с искусственным интеллектом. Автоматический процесс удаления фона, восстановления изображений, графического дизайна и создания контента.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/cutout-pro)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/cutout-pro)
 
 <br />
 
@@ -1094,7 +1243,7 @@ Descript — это простой, мощный и увлекательный �
 
 Раскройте свой творческий потенциал с помощью ИИ на совместном холсте.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/fermat)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/fermat)
 
 <br />
 
@@ -1109,7 +1258,7 @@ Descript — это простой, мощный и увлекательный �
 
 Hotpot.ai поможет вам создать потрясающую графику, изображения и текст. Инструменты искусственного интеллекта, такие как AI Art Generator, стимулируют творчество и автоматизируют рутинную работу, а простые в редактировании шаблоны позволяют любому создавать макеты устройств, публикации в социальных сетях, маркетинговые изображения, значки приложений и другую рабочую графику.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/hotpot)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hotpot)
 
 <br />
 
@@ -1124,7 +1273,7 @@ Hotpot.ai поможет вам создать потрясающую графи
 
 Испытайте волшебство творчества с лучшими инструментами и сервисами для авторов: Facetune 2, Videoleap, Linkinbio и Photoleap. Проверьте это сейчас!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/lightricks)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/lightricks)
 
 <br />
 
@@ -1139,7 +1288,7 @@ Hotpot.ai поможет вам создать потрясающую графи
 
 Откройте для себя расширенные возможности редактирования видео, чтобы вывести свои творения на новый уровень.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/runway)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/runway)
 
 <br />
 
@@ -1154,7 +1303,7 @@ Hotpot.ai поможет вам создать потрясающую графи
 
 Рабочее пространство искусственного интеллекта на основе узлов, позволяющее авторам работать с нейронными сетями без кода. (Альфа)
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/phygital)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/phygital)
 
 <br />
 
@@ -1169,7 +1318,7 @@ Hotpot.ai поможет вам создать потрясающую графи
 
 TextSynth использует собственный код логического вывода для более быстрого вывода на стандартных графических процессорах и процессорах. Сайт был основан в 2020 году и одним из первых предоставил доступ к языковой модели GPT-2. Базовая услуга бесплатна, но тариф ограничен. Пользователи, которым не нужны ограничения, могут заплатить небольшую сумму за запрос (см. наши цены). Если вам нужна индивидуальная поддержка, свяжитесь с нами: свяжитесь с нами: свяжитесь с нами по адресу textsynth dot com.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/textsynth)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/textsynth)
 
 <br />
 
@@ -1188,7 +1337,7 @@ TextSynth использует собственный код логическо�
 
 Используйте GPT-4, чтобы привлекать потенциальных клиентов, отвечать на вопросы о своем бизнесе, записывать данные о клиентах и ​​подключать любой API по вашему выбору.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/webapi.ai-2.0)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/webapi.ai-2.0)
 
 <br />
 
@@ -1203,7 +1352,7 @@ TextSynth использует собственный код логическо�
 
 Поддержка на основе искусственного интеллекта, которая находит ответы из предыдущих заявок
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ai-answers-by-cohere)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-answers-by-cohere)
 
 <br />
 
@@ -1218,7 +1367,7 @@ TextSynth использует собственный код логическо�
 
 Автоматизация, которая поможет вашему бизнесу быстро обслуживать миллионы довольных клиентов, основана на искусственном интеллекте, специально разработанном для Bahasa Indonesia.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/bahasa)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/bahasa)
 
 <br />
 
@@ -1233,7 +1382,7 @@ TextSynth использует собственный код логическо�
 
 Наши чат-боты с искусственным интеллектом предназначены для понимания проблем клиентов и предоставления индивидуальных и точных ответов в режиме реального времени.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/resolveai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/resolveai)
 
 <br />
 
@@ -1248,7 +1397,7 @@ TextSynth использует собственный код логическо�
 
 Увеличьте продажи и сократите расходы на поддержку
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/eddyai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/eddyai)
 
 <br />
 
@@ -1263,7 +1412,7 @@ TextSynth использует собственный код логическо�
 
 Ваш партнер по обратной связи с искусственным интеллектом в презентациях, интервью, звонках клиентам. Общайтесь более эффективно на собраниях, оставляя личные отзывы до, во время и после онлайн-встреч
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/poised-2.0)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/poised-2.0)
 
 <br />
 
@@ -1278,7 +1427,7 @@ TextSynth использует собственный код логическо�
 
 OneTone.ai — это платформа на базе искусственного интеллекта, которая дает ценную информацию, позволяющую принимать обоснованные решения и обеспечивать первоклассное обслуживание клиентов.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/onetone.ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/onetone.ai)
 
 <br />
 
@@ -1293,7 +1442,7 @@ OneTone.ai — это платформа на базе искусственно�
 
 ChatGenius — компания-разработчик программного обеспечения, которая предоставляет мощное решение для чат-ботов с искусственным интеллектом на базе GPT-4 и ChatGPT. Наш чат-бот предлагает круглосуточную поддержку на более чем 110 языках и может быть легко интегрирован в ваш веб-сайт или платформу.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/chatgenius)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/chatgenius)
 
 <br />
 
@@ -1310,7 +1459,7 @@ ChatGenius — компания-разработчик программного 
 Создавайте чат-ботов на базе искусственного интеллекта для привлечения клиентов, повышения конверсии и увеличения доходов. Идеально подходит для SaaS, электронной коммерции или любого онлайн-бизнеса.
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/chatflow)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/chatflow)
 
 <br />
 
@@ -1325,7 +1474,7 @@ ChatGenius — компания-разработчик программного 
 
 Wadeck — это бесплатный инструмент WhatsApp CRM с помощником на базе искусственного интеллекта на базе GPS для улучшения рабочего процесса и производительности. Он позволяет настраивать вкладки для разговоров, обеспечивая эффективную координацию. Можно создавать и отправлять настраиваемые шаблоны сообщений с мультимедийными вложениями. Используйте Wadeck, чтобы без труда удвоить скорость транзакций.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/wadeck)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/wadeck)
 
 <br />
 
@@ -1344,7 +1493,7 @@ Wadeck — это бесплатный инструмент WhatsApp CRM с по
 
 Пишите электронные письма, описания продуктов и многое другое с помощью ИИ. Создано Octane AI.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/octie.ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/octie.ai)
 
 <br />
 
@@ -1359,7 +1508,7 @@ Wadeck — это бесплатный инструмент WhatsApp CRM с по
 
 Embolden использует искусственный интеллект, чтобы помочь вам написать все, от электронных писем до описаний продуктов для вашего бизнеса электронной коммерции.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/embolden)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/embolden)
 
 <br />
 
@@ -1374,7 +1523,7 @@ Embolden использует искусственный интеллект, ч�
 
 WiziShop делает электронную коммерцию на основе SEO проще, чем когда-либо прежде, делая успех в пределах досягаемости. Искусственный интеллект на службе вашего бизнеса в сфере электронной коммерции!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/wizishop)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/wizishop)
 
 <br />
 
@@ -1389,7 +1538,7 @@ WiziShop делает электронную коммерцию на основ�
 
 Проведите себя через фотосессию, используя только свой смартфон, и позвольте нашей технологии искусственного интеллекта взять на себя остальную часть процесса, превращая повседневные продукты в фотореалистичные изображения, которые обязательно поднимут маркетинговые стратегии на ступеньку выше.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/domyshoot)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/domyshoot)
 
 <br />
 
@@ -1404,7 +1553,7 @@ WiziShop делает электронную коммерцию на основ�
 
 Получите своего собственного помощника по покупкам с искусственным интеллектом в течение 1 минуты. Преобразите свой магазин с помощью персонализации на основе искусственного интеллекта и увеличьте продажи.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/manifest)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/manifest)
 
 <br />
 
@@ -1419,7 +1568,7 @@ WiziShop делает электронную коммерцию на основ�
 
 Gizzmo — мощный плагин WordPress, упрощающий процесс создания партнерских статей Amazon. Всего несколькими щелчками мыши вы можете создавать полностью оптимизированный контент, включая обзоры продуктов, сводки новостей и руководства по подаркам. Это меняет правила игры для аффилированных маркетологов!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/gizzmo-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/gizzmo-ai)
 
 <br />
 
@@ -1434,7 +1583,7 @@ Gizzmo — мощный плагин WordPress, упрощающий проце�
 
 vModel использует технологию искусственного интеллекта для создания виртуальных фотомоделей, заменяя потребность в реальных фотомоделях. Эти виртуальные модели используются для создания фотографий одежды, которые затем демонстрируются на платформах электронной коммерции.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/vmodel)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/vmodel)
 
 <br />
 
@@ -1449,7 +1598,7 @@ vModel использует технологию искусственного и
 
 None
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/gpt-gifts)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/gpt-gifts)
 
 <br />
 
@@ -1468,7 +1617,7 @@ None
 
 Мгновенно создавайте и делитесь вопросами викторины, карточками и заметками из любого текста. Идеально подходит для бизнеса, преподавателей и студентов.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/quizgecko)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/quizgecko)
 
 <br />
 
@@ -1483,7 +1632,7 @@ None
 
 Ваш бесплатный личный помощник преподавателя. Задавайте вопросы, получайте ответы. Botta делает онлайн-обучение проще простого.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/botta)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/botta)
 
 <br />
 
@@ -1498,7 +1647,7 @@ None
 
 Добро пожаловать в Speaking Club AI — лучший инструмент для изучения языка для всех, кто хочет улучшить свои разговорные навыки на иностранном языке. С Talking Club AI вы можете практиковать свои разговорные навыки с персонализированным языковым партнером AI в любое время и в любом месте.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/speakingclubai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/speakingclubai)
 
 <br />
 
@@ -1513,7 +1662,7 @@ None
 
 Сделайте свои холодные электронные письма намного теплее с помощью высоко персонализированных, захватывающих копий на основе AI и GPT-3.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/lorro)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/lorro)
 
 <br />
 
@@ -1528,7 +1677,7 @@ None
 
 TutoEAI Learn Anything — это поисковая система для изучения модулей по любой теме. Попробуйте такие темы, как физика, американская история или ваше собственное имя!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/tutorai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/tutorai)
 
 <br />
 
@@ -1543,7 +1692,7 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 Мы разработали самый мощный инструмент, к которому может иметь доступ учитель. Вы можете создавать задания и задания для всех уровней, а также тематические планы, планы на будущее, планы уроков и многое другое. Вы ограничены только своим воображением.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/teacherbot)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/teacherbot)
 
 <br />
 
@@ -1558,7 +1707,7 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 Запускайте модели с открытым исходным кодом с помощью облачного API.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/replicate)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/replicate)
 
 <br />
 
@@ -1573,7 +1722,7 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 Планируйте уроки. Используйте искусственный интеллект, чтобы составлять проекты уроков и экспортировать их в ваши любимые форматы. Создавайте расширенные оценки. Создавайте расширенные оценки с надежными критериями оценивания на основе рубрик. И более.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/teachology.ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/teachology.ai)
 
 <br />
 
@@ -1588,7 +1737,7 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 Научитесь программировать с помощью онлайн-уроков и мощного помощника ИИ! Помощник может анализировать ваш код, подталкивать вас в правильном направлении и писать статьи на простые темы.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/cratecode)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/cratecode)
 
 <br />
 
@@ -1603,7 +1752,7 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 Знакомьтесь, Сьерра! Этот эксперимент Wilco — первая в своем роде платформа, которая создает проблемы для разработчиков программного обеспечения, использующих ИИ. Просто скажите ему, что вы хотите узнать, и он создаст для вас персонализированный образовательный контент.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/wilco-sierra)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/wilco-sierra)
 
 <br />
 
@@ -1622,7 +1771,7 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 Больше никогда не тратьте время на изучение или написание «персонализированных» электронных писем. Автоматизируйте весь процесс работы с рекламой. В 40 раз быстрее и в 6 раз дешевле, чем люди.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/smartwriter)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/smartwriter)
 
 <br />
 
@@ -1637,7 +1786,7 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 Warmer использует персонализацию электронной почты AI для написания вашей электронной почты. Увеличьте количество ответов, встреч и продаж с помощью динамической персонализации.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/warmer.ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/warmer.ai)
 
 <br />
 
@@ -1652,7 +1801,7 @@ Warmer использует персонализацию электронной 
 
 Боритесь с авторским тупиком и добейтесь нулевого почтового ящика. DraftLab — это второй пилот Gmail на базе искусственного интеллекта, который генерирует для вас высококачественные ответы по электронной почте.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/draftlab)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/draftlab)
 
 <br />
 
@@ -1667,7 +1816,7 @@ Warmer использует персонализацию электронной 
 
 Элли учится на вашем стиле письма и составляет ответы так, как если бы они были написаны вами.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ellie)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ellie)
 
 <br />
 
@@ -1682,7 +1831,7 @@ Warmer использует персонализацию электронной 
 
 В EmailTriager мы создаем продукты, которые действительно работают от вашего имени.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/emailtriager)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/emailtriager)
 
 <br />
 
@@ -1697,7 +1846,7 @@ Warmer использует персонализацию электронной 
 
 Quicklines – это ваш новый помощник на базе искусственного интеллекта. Мы помогаем вам масштабировать ваши кампании по холодной электронной почте с помощью нашей углубленной социальной платформы и платформы для письма на естественном языке.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/quicklines)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/quicklines)
 
 <br />
 
@@ -1712,7 +1861,7 @@ Quicklines – это ваш новый помощник на базе иску
 
 Прием ответов по электронной почте, которого вы так долго ждали. Легко отправляйте эффективные ответы с индивидуальными ответами без необходимости писать с нуля
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/superreply)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/superreply)
 
 <br />
 
@@ -1727,7 +1876,7 @@ Quicklines – это ваш новый помощник на базе иску
 
 Экономьте 30 минут в день на написании электронных писем
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/rapidreply)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/rapidreply)
 
 <br />
 
@@ -1742,7 +1891,7 @@ Quicklines – это ваш новый помощник на базе иску
 
 Сделайте свои холодные электронные письма намного теплее с помощью высоко персонализированных, захватывающих копий на основе AI и GPT-3.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/recruiting-emails-ai-by-dover)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/recruiting-emails-ai-by-dover)
 
 <br />
 
@@ -1757,7 +1906,7 @@ Quicklines – это ваш новый помощник на базе иску
 
 IntelliMail — это расширение для Chrome, которое генерирует ваши электронные письма, так что вам никогда не придется писать их снова.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/intellimail)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/intellimail)
 
 <br />
 
@@ -1776,7 +1925,7 @@ IntelliMail — это расширение для Chrome, которое ген
 
 FashionAdvisor — это искусственный интеллект, основанный на GPT3, который мгновенно и бесплатно ответит на все ваши вопросы, связанные с модой.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/fashionadvisorai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/fashionadvisorai)
 
 <br />
 
@@ -1791,7 +1940,7 @@ FashionAdvisor — это искусственный интеллект, осн�
 
 Визуализируйте дизайн вашего продукта перед запуском в производство. Создавайте реалистичные изображения продуктов, чтобы добавлять их в свои мудборды и ускорять процесс проектирования.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/visualhound)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/visualhound)
 
 <br />
 
@@ -1808,7 +1957,7 @@ FashionAdvisor — это искусственный интеллект, осн�
 SwagAI — изображения, созданные искусственным интеллектом на футболках.
 1 доллар с каждой продажи идет организациям по защите животных и борьбе с браконьерством.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/swagai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/swagai)
 
 <br />
 
@@ -1827,7 +1976,7 @@ SwagAI — изображения, созданные искусственным
 
 Персонажи могут быть любыми. Наша революционная технология искусственного интеллекта может воплотить все ваши идеи в жизнь.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/characterai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/characterai)
 
 <br />
 
@@ -1842,7 +1991,7 @@ SwagAI — изображения, созданные искусственным
 
 Эксперимент с искусственным интеллектом: попросите судью Рут Бейдер Гинзбург принять решение по любому вопросу, который пожелает ваше сердце. Первый AI Drop от AI21 Labs.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ask-rbg)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ask-rbg)
 
 <br />
 
@@ -1857,7 +2006,7 @@ SwagAI — изображения, созданные искусственным
 
 Задавайте глубокие вопросы и получайте ответы от Уильяма Шекспира, Фридриха Ницше, Рене Декарта, Сократа, Конфуция, Аль-Кинди, Будды.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/philosophy)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/philosophy)
 
 <br />
 
@@ -1872,7 +2021,7 @@ SwagAI — изображения, созданные искусственным
 
 Веселый чат с любимыми персонажами
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/botify)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/botify)
 
 <br />
 
@@ -1887,7 +2036,7 @@ SwagAI — изображения, созданные искусственным
 
 Превратите реальные жизненные ситуации в забавные истории и иллюстрации за считанные секунды
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/storiesforkids)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/storiesforkids)
 
 <br />
 
@@ -1902,7 +2051,7 @@ SwagAI — изображения, созданные искусственным
 
 Используйте ИИ для создания идеального профессионального оправдания
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/excuses-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/excuses-ai)
 
 <br />
 
@@ -1917,7 +2066,7 @@ SwagAI — изображения, созданные искусственным
 
 Это эксперимент по использованию ИИ, чтобы сделать содержание моей книги более доступным. Задайте вопрос, и ИИ ответит на него в режиме реального времени:
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/askmybook)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/askmybook)
 
 <br />
 
@@ -1932,7 +2081,7 @@ SwagAI — изображения, созданные искусственным
 
 Создайте свой Fakemon, как никогда раньше, используя простые текстовые подсказки для управления дизайном. Хотите огненного драконоподобного существа или милого травяного зверька? У тебя есть сила! Погрузитесь, исследуйте и создайте Fakemon своей мечты сегодня!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ai-pokemon-generator)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-pokemon-generator)
 
 <br />
 
@@ -1947,7 +2096,7 @@ SwagAI — изображения, созданные искусственным
 
 Получайте удовольствие от рисования и смотрите, какую глупую вещь мы делаем из вашего рисунка. Магия - просто нажмите кнопку!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/silly-times)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/silly-times)
 
 <br />
 
@@ -1962,7 +2111,7 @@ SwagAI — изображения, созданные искусственным
 
 Хватит тратить месяцы на поиски следующей татуировки в Pinterest. Создавайте собственные уникальные татуировки за считанные секунды с помощью искусственного интеллекта BlackInk, предназначенного для создания дизайнов, похожих на татуировки, специально для вас.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/blackink)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/blackink)
 
 <br />
 
@@ -1981,7 +2130,7 @@ SwagAI — изображения, созданные искусственным
 
 Для игр • Метавселенные • Виртуальная реальность • Образование • ТВ и кино • Публикации и не только!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/charisma)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/charisma)
 
 <br />
 
@@ -1996,7 +2145,7 @@ SwagAI — изображения, созданные искусственным
 
 Новый вид социальной ролевой игры, основанный на повествовательном искусственном интеллекте.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/hidden-door)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hidden-door)
 
 <br />
 
@@ -2011,7 +2160,7 @@ SwagAI — изображения, созданные искусственным
 
 Мы делаем ИИ инструментом творчества и свободы для всех.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/latitude)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/latitude)
 
 <br />
 
@@ -2026,7 +2175,7 @@ SwagAI — изображения, созданные искусственным
 
 Betafish — это шахматный движок и ИИ-искатель ходов, написанный на Javascript и основанный на алгоритме Negamax. Он превосходит Stockfish Level 6 на Lichess, и я оцениваю его примерно в 1800-2000 Elo, в зависимости от предоставленного времени на обдумывание.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/chess-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/chess-ai)
 
 <br />
 
@@ -2041,7 +2190,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 Совершенствуйте свои навыки в CS:GO с помощью задач, созданных искусственным интеллектом, менее чем за 30 минут в день.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ggpredict)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ggpredict)
 
 <br />
 
@@ -2056,7 +2205,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 Раскройте потенциал ИИ в дизайне и разработке игр. Получите индивидуальные игровые ресурсы во множестве стилей, которые вдохновят вас и помогут вам в создании вашей следующей игры!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/assetsai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/assetsai)
 
 <br />
 
@@ -2071,7 +2220,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 Раскройте всю мощь игровых активов, созданных искусственным интеллектом, с помощью Scenario. Создавайте привлекательный контент быстро и легко, чтобы сэкономить время и стимулировать творчество
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/scenario)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/scenario)
 
 <br />
 
@@ -2086,7 +2235,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 Выбери свое приключение. Выберите или создайте персонажа, мир и историю. ИИ заполняет детали вашего уникального приключения: выберите один из предопределенных миров других создателей, выберите случайный мир с помощью быстрого запуска или придумайте его сами!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ai-dungeon)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-dungeon)
 
 <br />
 
@@ -2101,7 +2250,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 Ваш источник мобильных развлечений и творчества с использованием искусственного интеллекта
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/irmo)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/irmo)
 
 <br />
 
@@ -2117,7 +2266,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 Быстро создавайте концепции и создавайте решения вместе с вашим сотрудником по работе с активами на базе искусственного интеллекта.
 Создавайте: реквизит, портреты персонажей, изометрические плитки, спрайты персонажей, концепт-арт, окружение, графические интерфейсы, бесконечные вариации и многое другое
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/rosebud-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/rosebud-ai)
 
 <br />
 
@@ -2136,7 +2285,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 Создавайте индивидуальные сувениры для любимого человека с помощью ИИ, оптимизированного для социальных сетей. Созданные искусственным интеллектом стихи, рассказы, письма и тексты песен.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/lovelines)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/lovelines)
 
 <br />
 
@@ -2151,7 +2300,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 Позволяет создавать креативные индивидуальные подарки с использованием искусственного интеллекта для ваших друзей, семьи и знакомых, не отнимая вашего драгоценного времени. Просто введите текстовое описание того, что вы хотите подарить, и пусть наш искусственный интеллект сделает все остальное
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/text2present)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/text2present)
 
 <br />
 
@@ -2166,7 +2315,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 Создан, чтобы снять стресс. О покупках подарков. Опираясь на реальные данные о потребителях и наш тщательный процесс проверки, Outdone предлагает покупателям сотни лучших мировых брендов в быстром и простом в использовании инструменте для поиска отличных подарков.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/outdone-v2)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/outdone-v2)
 
 <br />
 
@@ -2181,7 +2330,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 Добро пожаловать в Джини! Наше приложение на базе искусственного интеллекта поможет вам найти уникальные и продуманные подарки для ваших близких. Просто предоставьте нам несколько деталей об их интересах, и мы предложим идеальный подарок 🎁
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/gifts-genie)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/gifts-genie)
 
 <br />
 
@@ -2196,7 +2345,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 Пытаетесь понять, что подарить кому-то на праздники? GiftBot задает вам вопросы, чтобы помочь порекомендовать идеи подарков!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/giftbot)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/giftbot)
 
 <br />
 
@@ -2211,7 +2360,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 Индивидуальные идеи подарков на любой случай!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/giftastic-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/giftastic-ai)
 
 <br />
 
@@ -2226,7 +2375,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 Gift Genie AI — это приложение на базе искусственного интеллекта, которое позволяет вам найти идеальный подарок за считанные секунды с помощью искусственного интеллекта бесплатно. Запишите краткое описание вашего получателя и получите список подарков, которые, по мнению нашего ИИ-джинна, порадуют их.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/gift-genie)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/gift-genie)
 
 <br />
 
@@ -2241,7 +2390,7 @@ Gift Genie AI — это приложение на базе искусствен
 
 Нужно вдохновение для вашего праздничного подарка? Elf help — ваш незаменимый помощник в выборе подарков, предлагающий творческие и персонализированные предложения каждому из вашего списка.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/elf-help)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/elf-help)
 
 <br />
 
@@ -2256,7 +2405,7 @@ Gift Genie AI — это приложение на базе искусствен
 
 Подарите идеальный подарок! Откройте для себя творческие идеи подарков для всех в зависимости от того, кто они
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/coolgiftideas)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/coolgiftideas)
 
 <br />
 
@@ -2271,7 +2420,7 @@ Gift Genie AI — это приложение на базе искусствен
 
 Движок AI для создания фотореалистичных открыток AI Holiday для пар
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ai-holiday-cards)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-holiday-cards)
 
 <br />
 
@@ -2290,7 +2439,7 @@ Gift Genie AI — это приложение на базе искусствен
 
 Всегда здесь, чтобы выслушать и поговорить. Всегда на вашей стороне. Присоединяйтесь к миллионам людей, которые растут вместе со своими друзьями по искусственному интеллекту прямо сейчас!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/replika)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/replika)
 
 <br />
 
@@ -2305,7 +2454,7 @@ Gift Genie AI — это приложение на базе искусствен
 
 Персональный тренер GetActyv на основе искусственного интеллекта изменит ваше фитнес-путешествие
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/getactyv)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/getactyv)
 
 <br />
 
@@ -2320,7 +2469,7 @@ Gift Genie AI — это приложение на базе искусствен
 
 Проверьте симптомы и найдите причины с помощью ИИ. Ответьте на вопросы о своих симптомах, чтобы узнать возможные причины, типы, серьезность и лечение бесплатно с помощью ИИ. Разработано врачами
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ubie-ai-symptom-checker)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ubie-ai-symptom-checker)
 
 <br />
 
@@ -2339,7 +2488,7 @@ Gift Genie AI — это приложение на базе искусствен
 
 Rezi — единственная платформа для резюме, использующая передовой ИИ для автоматизации всех аспектов создания привлекательного резюме — написания, редактирования, форматирования и оптимизации.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ai-resume-editor)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-resume-editor)
 
 <br />
 
@@ -2354,7 +2503,7 @@ Rezi — единственная платформа для резюме, исп
 
 Мы стремимся использовать новейшие технологии искусственного интеллекта для создания инструментов, которые помогут инженерам-программистам построить лучшую карьеру. Наши инструменты искусственного интеллекта на 100 % бесплатны.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/prodigy-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/prodigy-ai)
 
 <br />
 
@@ -2369,7 +2518,7 @@ Rezi — единственная платформа для резюме, исп
 
 Рекрутеры, все, что вам нужно знать о навыках программирования кандидата, есть на их GitHub. Оценивайте их автоматически с помощью Rankode, чтобы избежать дорогостоящих ошибок при найме и повысить уровень удержания.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/rankode)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/rankode)
 
 <br />
 
@@ -2384,7 +2533,7 @@ Rezi — единственная платформа для резюме, исп
 
 Мы автоматически подаем заявки на все вакансии на таких платформах, как Linkedin, Indeed и Ziprecruiter.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/lazyapply)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/lazyapply)
 
 <br />
 
@@ -2400,7 +2549,7 @@ Rezi — единственная платформа для резюме, исп
 CoverQuick — это революционная платформа для удобного создания контента и управления им. Искусственный интеллект, который учится на ваших данных.
 Загружая все ваши документы и ресурсы, наша платформа может изучать вашу информацию, что позволяет создавать персонализированный контент.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/coverquick)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/coverquick)
 
 <br />
 
@@ -2415,7 +2564,7 @@ CoverQuick — это революционная платформа для уд�
 
 92% соискателей не заполняют онлайн-заявку. С HireYaY вы больше никогда не упустите подходящего кандидата.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/hireyay)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hireyay)
 
 <br />
 
@@ -2430,7 +2579,7 @@ CoverQuick — это революционная платформа для уд�
 
 Платформа оценки навыков HireQuotient поможет вам нанять лучшие 10% кадрового резерва в два раза быстрее.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/jd-generator)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/jd-generator)
 
 <br />
 
@@ -2445,7 +2594,7 @@ CoverQuick — это революционная платформа для уд�
 
 Преобразуйте свою организацию с помощью рекрутинга с помощью ИИ.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/hire-hoc)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hire-hoc)
 
 <br />
 
@@ -2460,7 +2609,7 @@ CoverQuick — это революционная платформа для уд�
 
 Добро пожаловать на Hirex.ai, платформу искусственного интеллекта без кода для создания голосовых ботов, которые проводят и оценивают интервью в масштабе. Получите полный набор инструментов оценки, таких как собеседования по программированию, тесты MCQ, хакатоны, видеоинтервью и чат-боты WhatsApp, все на одной панели.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/hirex.ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hirex.ai)
 
 <br />
 
@@ -2475,7 +2624,7 @@ CoverQuick — это революционная платформа для уд�
 
 Springworks создает программные решения для управления персоналом, чтобы решать проблемы, связанные с набором персонала, проверкой биографических данных и вовлечением сотрудников с помощью блокчейна и искусственного интеллекта.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/springworks)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/springworks)
 
 <br />
 
@@ -2494,7 +2643,7 @@ Springworks создает программные решения для упра
 
 Введите свою идею стартапа, и наш наставник по искусственному интеллекту бесплатно проанализирует ее. Вы можете сколько угодно общаться с нашим чат-ботом для наставников по искусственному интеллекту и узнать все, что вам нужно знать о запуске стартапа!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/validator-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/validator-ai)
 
 <br />
 
@@ -2509,7 +2658,7 @@ Springworks создает программные решения для упра
 
 Paperade — это первый инструмент на основе искусственного интеллекта, который генерирует коммерческие варианты использования и идеи компаний из более чем 100 миллионов академических статей и исследований.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/paperade)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/paperade)
 
 <br />
 
@@ -2524,7 +2673,7 @@ Paperade — это первый инструмент на основе иску
 
 Получайте персонализированные бизнес-идеи за считанные секунды благодаря силе искусственного интеллекта.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/business-idea-generator)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/business-idea-generator)
 
 <br />
 
@@ -2539,7 +2688,7 @@ Paperade — это первый инструмент на основе иску
 
 Идеи, которые на 100% генерируются с помощью GPT-3 от OpenAI, модели глубокого обучения с искусственным интеллектом, без участия человека и обучены вами и более 1 856 031 другими людьми, которым понравились или не понравились идеи
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ideasai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ideasai)
 
 <br />
 
@@ -2554,7 +2703,7 @@ Paperade — это первый инструмент на основе иску
 
 Как создатели контента, мы все сталкиваемся с моментами, когда наш кладезь идей иссякает. Этот веб-сайт поможет вам провести мозговой штурм идей на основе ваших текущих загрузок. Вы просто даете ему ссылку на свой канал (или любой другой канал) и позволяете волшебству произойти. Для каждой идеи вы также можете сгенерировать некоторые детали — о чем должно быть видео, намеки на структуру видео и т. д.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/videomuse)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/videomuse)
 
 <br />
 
@@ -2573,7 +2722,7 @@ Paperade — это первый инструмент на основе иску
 
 После отправки заявки наш искусственный интеллект подготовит индивидуальное описание даты и предоставит полезные советы и рекомендации по продуктам, кот
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/my-spicy-vanilla)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/my-spicy-vanilla)
 
 <br />
 
@@ -2592,7 +2741,7 @@ Paperade — это первый инструмент на основе иску
 
 Юридические исследования и сводки на основе искусственного интеллекта.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/paralegal-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/paralegal-ai)
 
 <br />
 
@@ -2607,7 +2756,7 @@ Paperade — это первый инструмент на основе иску
 
 Система управления соответствием нормативным требованиям и опыт в энергетике, финансовых услугах и других регулируемых отраслях. Мы предлагаем экспертные системы и услуги, позволяющие снять с вас нормативное бремя.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/compliance-quarter)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/compliance-quarter)
 
 <br />
 
@@ -2622,7 +2771,7 @@ Paperade — это первый инструмент на основе иску
 
 Легко добиться соответствия требованиям ADA и WCAG
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/equally.ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/equally.ai)
 
 <br />
 
@@ -2637,7 +2786,7 @@ Paperade — это первый инструмент на основе иску
 
 Используйте ИИ, чтобы сделать юридическую информацию доступной для всех
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/donotpay)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/donotpay)
 
 <br />
 
@@ -2652,7 +2801,7 @@ Paperade — это первый инструмент на основе иску
 
 Автоматизируйте механическое написание в ваших патентных заявках
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/patentpal)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/patentpal)
 
 <br />
 
@@ -2667,7 +2816,7 @@ Paperade — это первый инструмент на основе иску
 
 Книга заклинаний использует GPT-3 для просмотра и предложения языка для ваших контрактов прямо в Microsoft Word.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/spellbook)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/spellbook)
 
 <br />
 
@@ -2686,7 +2835,7 @@ Paperade — это первый инструмент на основе иску
 
 Создайте логотип и создайте любимый бренд вместе с Looka.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/looka)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/looka)
 
 <br />
 
@@ -2701,7 +2850,7 @@ Paperade — это первый инструмент на основе иску
 
 Генерация изображений AI для команд. Вы можете легко создавать логотип AI, обложки книг AI, плакаты AI и многое другое - Stockimg AI
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/text-to-book-cover)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/text-to-book-cover)
 
 <br />
 
@@ -2716,7 +2865,7 @@ Paperade — это первый инструмент на основе иску
 
 Создавайте красивые и уникальные логотипы для своего стартапа с помощью искусственного интеллекта.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/make-logo-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/make-logo-ai)
 
 <br />
 
@@ -2732,7 +2881,7 @@ Paperade — это первый инструмент на основе иску
 Создайте уникальный профессиональный логотип для своего бизнеса
 Создайте свой бренд с помощью дизайна визитных карточек, графики для социальных сетей, значков приложений, заголовков букв и многого другого
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/logo-rank)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/logo-rank)
 
 <br />
 
@@ -2747,7 +2896,7 @@ Paperade — это первый инструмент на основе иску
 
 None
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/123123123)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/123123123)
 
 <br />
 
@@ -2768,7 +2917,7 @@ None
 Fireflies.ai помогает вашей команде записывать, транскрибировать, искать и анализировать голосовые разговоры. Автоматически записывайте и расшифровывайте совещания, находите что угодно с помощью поиска на базе искусственного интеллекта, сотрудничайте с коллегами, анализируйте встречи с помощью аналитики разговоров
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/fireflies)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/fireflies)
 
 <br />
 
@@ -2783,7 +2932,7 @@ Fireflies.ai помогает вашей команде записывать, т
 
 Джейми — помощник по искусственному интеллекту, который за считанные секунды создает резюме встреч в формате делового письма. Попробуйте сейчас и убедитесь сами в этом волшебном опыте.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/jamie)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/jamie)
 
 <br />
 
@@ -2800,7 +2949,7 @@ Fireflies.ai помогает вашей команде записывать, т
 Сверхнормальное поможет вам.
 Supernormal делает заметки во время встречи и автоматически форматирует их для самых разных сценариев использования с помощью безопасного искусственного интеллекта.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/supernormal)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/supernormal)
 
 <br />
 
@@ -2822,7 +2971,7 @@ Supernormal делает заметки во время встречи и авт
 - Позволяет пользователям легко обмениваться записями, что упрощает совместную работу.
 - Удобный и простой в использовании
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/wudpecker)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/wudpecker)
 
 <br />
 
@@ -2837,7 +2986,7 @@ Supernormal делает заметки во время встречи и авт
 
 Ведущее решение для помощника по проведению совещаний с искусственным интеллектом и анализа доходов. Все в одном месте, а не везде. AI Meeting Assistant — получайте стенограмму и заметки с помощью искусственного интеллекта, чтобы сосредоточиться на разговорах. Совместная работа на совещаниях. Сотрудничайте с многофункциональными командами для лучшей координации. Разговоры и анализ доходов — изучайте важную информацию для принятия решений и обучения на основе данных.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/avoma)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/avoma)
 
 <br />
 
@@ -2853,7 +3002,7 @@ Supernormal делает заметки во время встречи и авт
 
 Fathom записывает, расшифровывает, выделяет и подводит итоги ваших встреч, чтобы вы могли сосредоточиться на разговоре. Настройте процесс за считанные минуты.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/fathom)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/fathom)
 
 <br />
 
@@ -2868,7 +3017,7 @@ Fathom записывает, расшифровывает, выделяет и �
 
 Приобретите помощника по проведению совещаний с искусственным интеллектом, который записывает аудио, пишет заметки, записывает задания и генерирует сводки. Пишите заметки и подводите итоги собраний в 30 раз быстрее. Экономьте время с помощью автоматических заметок для собраний. Мгновенно получайте ответы и держите всех в курсе событий с помощью интерактивного сводного отчета.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/otter)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/otter)
 
 <br />
 
@@ -2883,7 +3032,7 @@ Fathom записывает, расшифровывает, выделяет и �
 
 Регистратор встреч, который расшифровывает и суммирует ваши разговоры с клиентами, потенциальными клиентами и вашей командой. Автоматически записывайте и транскрибируйте Zoom и Google Meet, автоматически записывайте и транскрибируйте Zoom и Google Meet, сосредоточьтесь на разговоре. Искусственный интеллект сделает ваши заметки и расскажет яркую историю с помощью небольших клипов для клиентов.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/tl;dv)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/tl;dv)
 
 <br />
 
@@ -2899,7 +3048,7 @@ Fathom записывает, расшифровывает, выделяет и �
 Sembly записывает записи, делает заметки о встречах и генерирует информацию для ваших профессиональных встреч.
 Сделайте все свои встречи продуктивными: заметки к каждому собранию, найдите все прошедшие встречи в любое время, вспомните свои прошлые встречи, наслаждайтесь сводками собраний с помощью искусственного интеллекта, будьте в курсе событий, не посещая их, автоматизируйте последующие действия.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/sembly-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/sembly-ai)
 
 <br />
 
@@ -2918,7 +3067,7 @@ Sembly записывает записи, делает заметки о вст�
 
 Используйте наш революционный плагин для создания бесконечных барабанных сэмплов, причем все это бесплатно.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/emergent-drums)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/emergent-drums)
 
 <br />
 
@@ -2933,7 +3082,7 @@ Sembly записывает записи, делает заметки о вст�
 
 Высококачественное расщепление ствола на основе технологии № 1 в мире на основе искусственного интеллекта.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/lalal.ai-voice-cleaner)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/lalal.ai-voice-cleaner)
 
 <br />
 
@@ -2948,7 +3097,7 @@ Sembly записывает записи, делает заметки о вст�
 
 Аудио инструмент для людей, которым есть что рассказать
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/adobe-podcast)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/adobe-podcast)
 
 <br />
 
@@ -2964,7 +3113,7 @@ Sembly записывает записи, делает заметки о вст�
 Получите совет о том, как улучшить настройку микрофона. Что ж, убедитесь, что вы готовы к выпуску подкастов.
 Улучшите речь — удалите шум и эхо из голосовых записей. Проверка микрофона — исправьте проблемы с микрофоном перед записью. Студия — записывайте, редактируйте и улучшайте в браузере
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/adobe-mic-check)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/adobe-mic-check)
 
 <br />
 
@@ -2979,7 +3128,7 @@ Sembly записывает записи, делает заметки о вст�
 
 ИИ Криспа удаляет фоновые голоса, шумы и эхо из всех ваших звонков, обеспечивая вам душевное спокойствие.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/krisp)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/krisp)
 
 <br />
 
@@ -2995,7 +3144,7 @@ Sembly записывает записи, делает заметки о вст�
 Креативный помощник для творческих людей
 Независимо от того, являетесь ли вы независимым разработчиком игр, новичком в музыке или опытным профессиональным композитором, AIVA поможет вам в вашем творческом процессе. Создавайте привлекательные темы для своих проектов быстрее, чем когда-либо прежде, используя возможности музыки, создаваемой искусственным интеллектом.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/aiva)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/aiva)
 
 <br />
 
@@ -3013,7 +3162,7 @@ Sembly записывает записи, делает заметки о вст�
 🌐 Размещайте свои песни на потоковых платформах и получайте деньги, когда люди их слушают
 💜 Присоединяйтесь к мировому сообществу артистов, вдохновленных генеративной музыкой.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/boomy)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/boomy)
 
 <br />
 
@@ -3028,7 +3177,7 @@ Sembly записывает записи, делает заметки о вст�
 
 Поисковая система по аудио
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/clip-audio)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/clip-audio)
 
 <br />
 
@@ -3043,7 +3192,7 @@ Sembly записывает записи, делает заметки о вст�
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/splash)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/splash)
 
 <br />
 
@@ -3059,7 +3208,7 @@ Sembly записывает записи, делает заметки о вст�
 Dadabots - Мы создаем нейронные сети с необработанным звуком, которые могут имитировать группы
 Мы — нечто среднее между группой, командой, участвующей в хакатоне, и эфемерной исследовательской лабораторией. Мы музыканты, соблазненные математикой. Мы занимаемся наукой, разрабатываем программное обеспечение, пишем музыку. Все в одном проекте. 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/dadabots--)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/dadabots--)
 
 <br />
 
@@ -3078,7 +3227,7 @@ Dadabots - Мы создаем нейронные сети с необработ
 
 Hexowatch — ваш помощник с искусственным интеллектом, который отслеживает визуальные эффекты, контент, исходный код, технологии, доступность или изменения цен на любом веб-сайте.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/hexowatch)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hexowatch)
 
 <br />
 
@@ -3093,7 +3242,7 @@ Hexowatch — ваш помощник с искусственным интелл
 
 Mem — это первое в мире рабочее пространство с искусственным интеллектом, персонализированное для вас. Расширяйте свои творческие возможности, автоматизируйте рутинную работу и оставайтесь организованным автоматически.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/mem)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/mem)
 
 <br />
 
@@ -3108,7 +3257,7 @@ Mem — это первое в мире рабочее пространство 
 
 Выходит в 2023 году — Bardeen представляет революционный искусственный интеллект для автоматизации ручных рабочих процессов, экономии вашего времени и расширения возможностей вашего творчества.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/bardeen)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/bardeen)
 
 <br />
 
@@ -3123,7 +3272,7 @@ Mem — это первое в мире рабочее пространство 
 
 AutoPredict — первое приложение, использующее искусственный интеллект для прогнозирования срока службы автомобиля. Анализируя более 100 миллионов точек данных, AutoPredict дает точную оценку срока службы вашего автомобиля.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/autopredict)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/autopredict)
 
 <br />
 
@@ -3139,7 +3288,7 @@ AutoPredict — первое приложение, использующее ис
 Привлекайте потенциальных клиентов B2B за несколько кликов благодаря искусственному интеллекту - Превратите своих потенциальных клиентов в доход - Уже сгенерировано более 10 000 потенциальных клиентов
 с быстрорастущими компаниями
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/looti)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/looti)
 
 <br />
 
@@ -3154,7 +3303,7 @@ AutoPredict — первое приложение, использующее ис
 
 От проектирования до производства: отслеживайте, измеряйте и улучшайте пользовательский опыт. Создавайте продукты мирового класса, собирая высококачественные отзывы пользователей о прототипах, бета-версиях и действующих функциях.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/hubble)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hubble)
 
 <br />
 
@@ -3176,7 +3325,7 @@ AutoPredict — первое приложение, использующее ис
 Запускайте, тестируйте и совершенствуйте конвейер, легко сравнивая выходные данные
 3. Разверните API — создавайте
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/takomo)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/takomo)
 
 <br />
 
@@ -3191,7 +3340,7 @@ AutoPredict — первое приложение, использующее ис
 
 все ваше вдохновение в одном месте
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/kive)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/kive)
 
 <br />
 
@@ -3207,7 +3356,7 @@ AutoPredict — первое приложение, использующее ис
 
 H2ogPT, генеративный искусственный интеллект с действительно открытым исходным кодом, дает таким организациям, как ваша, возможность владеть большими языковыми моделями, сохраняя при этом право собственности на данные.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/h2o-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/h2o-ai)
 
 <br />
 
@@ -3222,7 +3371,7 @@ H2ogPT, генеративный искусственный интеллект �
 
 Генератор подсказок AI‍ - вдохновляйте, создавайте, организуйте. Вдохновляйтесь подсказками AI, создавайте новые подсказки с помощью генератора подсказок, организуйте свои собственные подсказки с помощью шаблона Notion
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/prompt.cafe)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/prompt.cafe)
 
 <br />
 
@@ -3241,7 +3390,7 @@ H2ogPT, генеративный искусственный интеллект �
 
 HitPaw Online AI Photo Enhancer использует передовую технологию искусственного интеллекта для удаления шума, повышения резкости деталей и улучшения качества фотографий.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/hitpaw-online-photo-enhancer)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hitpaw-online-photo-enhancer)
 
 <br />
 
@@ -3256,7 +3405,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 Шаги, чтобы получить удивительные изображения себя: 1. Оплата. 2. Загрузить — прочитайте рекомендации и загрузите свои фотографии, когда у вас есть время (ваша ссылка отправляется по электронной почте). 3. Подождите. 4. Поделитесь.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/unrealme)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/unrealme)
 
 <br />
 
@@ -3271,7 +3420,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 С помощью StableDojo вы можете создать аватар для себя или фотоснимок для ваших любимых продуктов.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/stabledojo)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/stabledojo)
 
 <br />
 
@@ -3286,7 +3435,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 В вашем распоряжении более 700 блестящих художественных и портретных стилей. Возможность изменять как передний план, так и фон отдельно. Великолепные рамки для обновления ваших изображений.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/prisma)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/prisma)
 
 <br />
 
@@ -3301,7 +3450,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 Улучшите ретушь лица одним касанием Magic Correction. Совершенствуйте недостатки лица с помощью множества крутых инструментов. Замените или размойте фон одним касанием.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/prisma-lensa)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/prisma-lensa)
 
 <br />
 
@@ -3316,7 +3465,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 Автоматизируйте комплексное создание изображений и увеличьте свой бизнес с помощью нашего набора продуктов на основе ИИ. Создайте несколько изображений продукта, которые подходят вашему бренду. Упростите процесс создания контента, превратив скучные изображения продуктов в маркетинговые изображения фотографического качества.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/claid.ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/claid.ai)
 
 <br />
 
@@ -3331,7 +3480,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 Создавайте или обновляйте существующие изображения с помощью нашего инструмента для редактирования изображений AI.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/sceneryai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/sceneryai)
 
 <br />
 
@@ -3346,7 +3495,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 Раскрасить фото онлайн Colorize.cc - сервис искусственного интеллекта, который раскрашивает черно-белые фото и видео. В несколько кликов вы можете прикоснуться к магии технологий машинного обучения. Раскрасьте сотни ваших семейных фотографий за несколько минут.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/colorize)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/colorize)
 
 <br />
 
@@ -3361,7 +3510,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 Новый раскрашиватель AI. Раскрашивайте любые старые черно-белые фотографии ð¸, оформляйте свои работы ð¨ или придавайте современным изображениям свежий вид ð¶. Это так же просто, как инстаграм
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/palette)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/palette)
 
 <br />
 
@@ -3376,7 +3525,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 Удивительный ластик для фотографий
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/hama)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hama)
 
 <br />
 
@@ -3395,7 +3544,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 Расширение для Chrome, которое сокращает время написания на 98 % благодаря ответам на основе искусственного интеллекта. Создан хостами для хостов.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/aiduh)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/aiduh)
 
 <br />
 
@@ -3410,7 +3559,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 Texti будет сотрудничать с вами, чтобы повысить качество вашего контента!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/texti)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/texti)
 
 <br />
 
@@ -3425,7 +3574,7 @@ Texti будет сотрудничать с вами, чтобы повысит
 
 Переименуйте фреймы Figma в один клик, вот и все.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/autoname)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/autoname)
 
 <br />
 
@@ -3440,7 +3589,7 @@ Texti будет сотрудничать с вами, чтобы повысит
 
 SplashAI — это как помощник: он помогает быстро находить идеи с помощью функций поиска и бесконечно генерировать новые идеи, не покидая Figma.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/splashai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/splashai)
 
 <br />
 
@@ -3455,7 +3604,7 @@ SplashAI — это как помощник: он помогает быстро 
 
 Бесплатное расширение Open AI на базе ChatGPT для использования где угодно!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/merlin)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/merlin)
 
 <br />
 
@@ -3470,7 +3619,7 @@ SplashAI — это как помощник: он помогает быстро 
 
 Совершенствуйте свое письмо, получайте ответы на все свои вопросы, создавайте высококачественный контент и отвечайте на электронные письма. Все в одном месте.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/voilà)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/voilà)
 
 <br />
 
@@ -3485,7 +3634,7 @@ SplashAI — это как помощник: он помогает быстро 
 
 Агент ИИ для Chrome. Интегрируйте ChatGPT в Google Search, автоматизируйте веб-сайты, пишите текст: электронные письма, твиты, SEO-статьи. Альтернатива Bing AI и Notion AI.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/harpa-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/harpa-ai)
 
 <br />
 
@@ -3504,7 +3653,7 @@ Gist AI — это бесплатный генератор сводок, кот�
 
 Более того, Gist AI позволяет вам глубоко погрузиться в источник сводки для ясности или сразу перейти к этому моменту в видео на YouTube, выступая в качестве сумматора YouTube.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/gist-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/gist-ai)
 
 <br />
 
@@ -3523,7 +3672,7 @@ Gist AI — это бесплатный генератор сводок, кот�
 
 С помощью Podwise вы можете учиться на структурированных знаниях и выборочно слушать интересующие вас главы. Эта функция позволяет оптимизировать учебный процесс и сосредоточиться на наиболее важном для вас контенте.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/podwise)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/podwise)
 
 <br />
 
@@ -3538,7 +3687,7 @@ Gist AI — это бесплатный генератор сводок, кот�
 
 Вернитесь на правильный путь с дружелюбным напарником по ИИ. Дьюи поможет вам оставаться организованным и продуктивным. Благодаря напоминаниям в виде текстовых сообщений и отслеживанию целей вы как будто получаете в кармане напарника с искусственным интеллектом.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/dewey)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/dewey)
 
 <br />
 
@@ -3556,7 +3705,7 @@ Gist AI — это бесплатный генератор сводок, кот�
 Вы знаете свой образ жизни. Мы знаем продукты. Давайте создадим ваш детский реестр вместе.
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ask-poppy)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ask-poppy)
 
 <br />
 
@@ -3571,7 +3720,7 @@ Gist AI — это бесплатный генератор сводок, кот�
 
 Cogram использует искусственный интеллект, чтобы делать заметки на виртуальных встречах, отслеживать действия и автоматизировать последующие задачи, сохраняя конфиденциальность и безопасность ваших данных.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/cogram)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/cogram)
 
 <br />
 
@@ -3586,7 +3735,7 @@ Cogram использует искусственный интеллект, чт�
 
 Используя силу искусственного интеллекта Skill Suggestion AI, мы можем помочь вам извлечь востребованные в мире навыки из любого текста. Попробуйте! Мы обучили наш ИИ, используя более 1 миллиона доступного онлайн-контента в нашей библиотеке дополнительного контента, созданной из различных источников и тем.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ultimate-skill-extractor-by-further)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ultimate-skill-extractor-by-further)
 
 <br />
 
@@ -3601,7 +3750,7 @@ Cogram использует искусственный интеллект, чт�
 
 Speech Analyzer — это тренер по беглости разговорного английского на базе искусственного интеллекта, который слушает вашу речь и немедленно дает вам обратную связь.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/elsa-speech-analyzer)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/elsa-speech-analyzer)
 
 <br />
 
@@ -3617,7 +3766,7 @@ Speech Analyzer — это тренер по беглости разговорн
 
 Документный чат и краткое описание любого файла или ссылки! Общайтесь с PDF-файлами, видео на YouTube, подкастами, статьями, электронными таблицами и многим другим! Запишитесь в лист ожидания.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/detangleai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/detangleai)
 
 <br />
 
@@ -3632,7 +3781,7 @@ Speech Analyzer — это тренер по беглости разговорн
 
 Chivvy использует отрицательное подкрепление, чтобы заставить вас что-то делать. Создает ответственность в социальных сетях. Держит вас в курсе с умными подсказками. Все на базе ИИ
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/chivvy)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/chivvy)
 
 <br />
 
@@ -3647,7 +3796,7 @@ Chivvy использует отрицательное подкрепление,
 
 Pth.AI — это инструмент на основе ИИ, который направляет непрофессиональных бизнес-пользователей к их целям, задавая вопросы и создавая шаги, упрощая взаимодействие с системами ИИ.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/pth.ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/pth.ai)
 
 <br />
 
@@ -3662,7 +3811,7 @@ Pth.AI — это инструмент на основе ИИ, который н
 
 Получите мгновенный бесплатный доступ к ChatGPT 4.0 прямо из Slack и наслаждайтесь другими функциями, такими как задавание вопросов в приложениях вашей организации, отслеживание важных тем, установка напоминаний, запрос документов и подведение итогов разговоров в Slack.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/sidekick)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/sidekick)
 
 <br />
 
@@ -3681,7 +3830,7 @@ Pth.AI — это инструмент на основе ИИ, который н
 
 Elicit использует машинное обучение, чтобы помочь вам в ваших исследованиях: находить документы, извлекать ключевые утверждения, подводить итоги, проводить мозговой штурм и многое другое.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/elicit)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/elicit)
 
 <br />
 
@@ -3696,7 +3845,7 @@ Elicit использует машинное обучение, чтобы пом
 
 Ваша платформа для изучения и объяснения документов. Ищите более 270 миллионов статей, понимайте их простым языком и находите связанные статьи, авторов и темы.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/scispace)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/scispace)
 
 <br />
 
@@ -3711,7 +3860,7 @@ Elicit использует машинное обучение, чтобы пом
 
 RTutor использует мощную модель большого языка OpenAI для перевода естественного языка в код R, который затем выполняется. Вы можете запросить свой анализ так же, как спросить реального человека. Загрузите файл данных (CSV, TSV/текстовые файлы с разделителями табуляцией и Excel) и просто проанализируйте его на простом английском языке. Ваши результаты могут быть загружены в виде HTML-отчета за считанные минуты!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/rtutor)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/rtutor)
 
 <br />
 
@@ -3726,7 +3875,7 @@ RTutor использует мощную модель большого язык�
 
 Загрузите статью, выделите запутанный текст, получите объяснение. Мы делаем исследовательские работы удобными для чтения.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/explainpaper)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/explainpaper)
 
 <br />
 
@@ -3741,7 +3890,7 @@ RTutor использует мощную модель большого язык�
 
 Компаниям не хватает ответов и участия в опросах. Vocads заново изобретает опыт проведения опросов с помощью ГОЛОСОВОГО общения с ИИ.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/vocads-survey)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/vocads-survey)
 
 <br />
 
@@ -3756,7 +3905,7 @@ RTutor использует мощную модель большого язык�
 
 Составление отчетов Слишком много документов для чтения? Afforai проанализирует и составит для вас полный отчет, а также ответит на любые вопросы по документам. Запрос электронных таблиц. Используйте Afforai для извлечения важной информации из отчетов и электронных таблиц с помощью запросов на естественном языке. Веб-скрейпинг — Afforai может просматривать несколько веб-сайтов и извлекать ключевую информацию.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/afforai-build)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/afforai-build)
 
 <br />
 
@@ -3771,7 +3920,7 @@ RTutor использует мощную модель большого язык�
 
 Упрощайте статьи, чтобы понимать сложные термины, получать интересные рекомендации, искать похожие статьи и легко сотрудничать с командой.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/synthical)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/synthical)
 
 <br />
 
@@ -3790,7 +3939,7 @@ RTutor использует мощную модель большого язык�
 
 Мы тратим бесчисленные часы на поиски в Интернете рекомендаций лучших книг от людей, которыми вы восхищаетесь. Наша база данных постоянно пополняется, и каждая рекомендация проверена на подлинность и содержит ссылку на источник. Наслаждаться!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/sona)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/sona)
 
 <br />
 
@@ -3805,7 +3954,7 @@ RTutor использует мощную модель большого язык�
 
 Генератор ответов на отзывы с искусственным интеллектом: отвечайте в 3 раза быстрее на каждый отзыв клиента с помощью индивидуальных ответов, написанных вашим личным помощником на основе искусственного интеллекта. Шаблоны не нужны.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ai-review-reply-assistant)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-review-reply-assistant)
 
 <br />
 
@@ -3820,7 +3969,7 @@ RTutor использует мощную модель большого язык�
 
 Сэкономьте массу часов, используя GeniusReview, чтобы получить индивидуальные ответы на ваши вопросы по обзору производительности.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/geniusreview)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/geniusreview)
 
 <br />
 
@@ -3835,7 +3984,7 @@ RTutor использует мощную модель большого язык�
 
 Reviewz.ai — это новинка, предназначенная для демонстрации возможностей ИИ в сфере потребительских товаров и рекомендаций. Все продукты, выбранные и рассмотренные на этом сайте, полностью сделаны ИИ, и все обзоры написаны ИИ.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/reviewz)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/reviewz)
 
 <br />
 
@@ -3850,7 +3999,7 @@ Reviewz.ai — это новинка, предназначенная для де
 
 Инструмент обработки естественного языка и генератор текста. Он принимает набор слов в качестве подсказки, а затем генерирует набор предложений средней длины, которые приблизительно соответствуют обучающим данным.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/artreviewgenerator)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/artreviewgenerator)
 
 <br />
 
@@ -3869,7 +4018,7 @@ Reviewz.ai — это новинка, предназначенная для де
 
 Попрощайтесь на чистую страницу навсегда
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/copy.ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/copy.ai)
 
 <br />
 
@@ -3884,7 +4033,7 @@ Reviewz.ai — это новинка, предназначенная для де
 
 Красивая, соответствующая бренду и высококонверсионная реклама для всех маркетинговых каналов. Опыт проектирования не требуется.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/clickable)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/clickable)
 
 <br />
 
@@ -3899,7 +4048,7 @@ Reviewz.ai — это новинка, предназначенная для де
 
 Платформа на базе искусственного интеллекта предоставляет автоматические боевые карты и полезную информацию о конкурентах.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/cuetap.com)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/cuetap.com)
 
 <br />
 
@@ -3914,7 +4063,7 @@ Reviewz.ai — это новинка, предназначенная для де
 
 Сосредоточены ли вы на пользовательском интерфейсе, исследованиях UX, дизайне или клиентском опыте — искусственный интеллект User Evaluation может ответить на все ваши вопросы.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/userevaluation)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/userevaluation)
 
 <br />
 
@@ -3934,7 +4083,7 @@ Enterprise Security — создан в соответствии с корпор
 Прост в использовании — SQL или Python не требуются
 Нативный интерфейс — подключайтесь к своим данным в нашем WebApp, Slack или Teams
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/genius-sheets)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/genius-sheets)
 
 <br />
 
@@ -3949,7 +4098,7 @@ Enterprise Security — создан в соответствии с корпор
 
 Наша платформа превращает ваши ключевые сведения о продукте и цели в убедительную прозу, созданную специально для того, чтобы зацепить вашу аудиторию и резко повысить коэффициент конверсии.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/baruaai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/baruaai)
 
 <br />
 
@@ -3964,7 +4113,7 @@ Enterprise Security — создан в соответствии с корпор
 
 Сэкономьте бесчисленное количество часов письма. Используйте ИИ для создания мощных копий для сотен различных маркетинговых кампаний по электронной почте, рассылок, информационных бюллетеней и многого другого — за считанные секунды ⚡
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/hoppy-copy)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hoppy-copy)
 
 <br />
 
@@ -3979,7 +4128,7 @@ Enterprise Security — создан в соответствии с корпор
 
 Универсальный помощник по маркетингу с искусственным интеллектом, похожий на человека, который создает целевые страницы, промо-видео, рекламу, маркетинговые тексты, графику, электронные письма, озвучку, сообщения в блогах, искусство и многое другое.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/marketingblocks-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/marketingblocks-ai)
 
 <br />
 
@@ -3994,7 +4143,7 @@ Enterprise Security — создан в соответствии с корпор
 
 Маркетинговые сводки, которые доходят до лучших творческих работ. Повысьте эффективность своего маркетинга и сократите расходы на плохо написанные брифы.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/briefly)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/briefly)
 
 <br />
 
@@ -4009,7 +4158,7 @@ Enterprise Security — создан в соответствии с корпор
 
 Traq.ai анализирует каждый звонок, который делает ваш отдел продаж, и предоставляет им полезную информацию для достижения сверхчеловеческого уровня успеха.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/traq.ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/traq.ai)
 
 <br />
 
@@ -4028,7 +4177,7 @@ Traq.ai анализирует каждый звонок, который дел�
 
 Lexii.ai — помощник по поиску с искусственным интеллектом, который отвечает на вопросы и цитирует источники.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/lexii.ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/lexii.ai)
 
 <br />
 
@@ -4043,7 +4192,7 @@ Lexii.ai — помощник по поиску с искусственным и
 
 Найти творческий и уникальный домен, который все еще доступен, с SmartyNames.com легко. Расскажите нам, что вы делаете, и наши роботы найдут домен, который подходит именно вам. Генератор названий компаний в один клик.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/smarty-names)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/smarty-names)
 
 <br />
 
@@ -4058,7 +4207,7 @@ Lexii.ai — помощник по поиску с искусственным и
 
 Ищите более 10 миллионов подсказок и создавайте AI Art с помощью Stable Diffusion, DALL·E 2.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/openart-photo-booth)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/openart-photo-booth)
 
 <br />
 
@@ -4077,7 +4226,7 @@ Lexii.ai — помощник по поиску с искусственным и
 Создавайте более длинные и подробные ответы с большей точностью.
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/you)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/you)
 
 <br />
 
@@ -4092,7 +4241,7 @@ Lexii.ai — помощник по поиску с искусственным и
 
 Ask использует большие языковые модели и поисковые системы. Точность ограничена результатами поиска и возможностями ИИ.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/perplexity-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/perplexity-ai)
 
 <br />
 
@@ -4107,7 +4256,7 @@ Ask использует большие языковые модели и пои�
 
 Мы делаем ваш контент доступным для поиска
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/anypod)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/anypod)
 
 <br />
 
@@ -4122,7 +4271,7 @@ Ask использует большие языковые модели и пои�
 
 Мы в Namefinder стремимся сэкономить время людей, придумывая доменные имена для их бизнеса. Мы делаем это, предлагая имена, исходя из потребностей их веб-сайта, а перед этим мы проверяем реестр доменов, чтобы предоставить на выбор только доступные доменные имена. Все работает на чате Gpt.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/namefinder.ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/namefinder.ai)
 
 <br />
 
@@ -4137,7 +4286,7 @@ Ask использует большие языковые модели и пои�
 
 Broker One AI Engine — это современный инструмент на базе искусственного интеллекта, разработанный специально для сложного мира недвижимости. Эта инновационная платформа сочетает в себе возможности искусственного интеллекта с обширным и всеобъемлющим набором данных о свойствах, чтобы обеспечить точную оценку собственности и обеспечить эффективный просмотр недвижимости. Broker One AI Engine отличается сложной функциональностью поиска недвижимости.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/broker-one-ai-engine)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/broker-one-ai-engine)
 
 <br />
 
@@ -4152,7 +4301,7 @@ Broker One AI Engine — это современный инструмент на
 
 Представляем SEOIfy: революционизируйте SEO своего сайта с помощью нашей передовой платформы на базе искусственного интеллекта. Раскройте весь потенциал своего сайта с помощью автоматической оптимизации в реальном времени на основе отраслевых стандартов. С легкостью повышайте свой рейтинг и увеличивайте органический трафик с помощью нашего интеллектуального инструмента SEO на основе искусственного интеллекта. 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/seoify)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/seoify)
 
 <br />
 
@@ -4171,7 +4320,7 @@ Broker One AI Engine — это современный инструмент на
 
 Мгновенно создавайте наборы слайдов с помощью ChatBCG
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/chatba)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/chatba)
 
 <br />
 
@@ -4186,7 +4335,7 @@ Broker One AI Engine — это современный инструмент на
 
 Попрощайтесь с утомительным ручным созданием слайдов. Позвольте ИИ написать для вас план и содержание презентации. С помощью нашего инструмента вы можете легко и быстро создавать профессиональные привлекательные слайды из любого текста.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/slidesai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/slidesai)
 
 <br />
 
@@ -4201,7 +4350,7 @@ Broker One AI Engine — это современный инструмент на
 
 Питч-колода — это презентация, которую компания использует для презентации инвесторам. В нем рассматриваются бизнес-модель компании, финансовые прогнозы и другие ключевые показатели, которые хотели бы увидеть инвесторы.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/pitchgrade)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/pitchgrade)
 
 <br />
 
@@ -4218,7 +4367,7 @@ Broker One AI Engine — это современный инструмент на
 На основе ваших ответов наш искусственный интеллект создаст для вашего стартапа индивидуальный план презентационных материалов из 10 слайдов. Готовы к развитию!
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/my-pitch-deck)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/my-pitch-deck)
 
 <br />
 
@@ -4233,7 +4382,7 @@ Broker One AI Engine — это современный инструмент на
 
 Разблокируйте свою лучшую работу с форматом повествования Tome на основе искусственного интеллекта.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/tome)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/tome)
 
 <br />
 
@@ -4248,7 +4397,7 @@ Broker One AI Engine — это современный инструмент на
 
 Glimmer AI использует GPT-3 и DALL-E 2 для простого и быстрого создания презентаций профессионального качества с помощью текстовых или голосовых команд.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/glimmer-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/glimmer-ai)
 
 <br />
 
@@ -4263,7 +4412,7 @@ Glimmer AI использует GPT-3 и DALL-E 2 для простого и б�
 
 Помогает профессионалам быстро и легко создавать бизнес-презентации на основе данных.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/storyd)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/storyd)
 
 <br />
 
@@ -4278,7 +4427,7 @@ Glimmer AI использует GPT-3 и DALL-E 2 для простого и б�
 
 Создавайте презентации за считанные минуты с помощью Plus AI. Начать с пустой колоды — одна из самых сложных частей построения презентации. Кроме того, искусственный интеллект поможет вам создать схему, создать первый черновик и предложить дополнительные правки к вашим слайдам.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/plus-ai-for-google-slides)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/plus-ai-for-google-slides)
 
 <br />
 
@@ -4297,7 +4446,7 @@ Glimmer AI использует GPT-3 и DALL-E 2 для простого и б�
 
 ROAST помогает людям в 10 раз увеличить количество совпадений в таких приложениях для знакомств, как Tinder, Bumble и Hinge. На основе искусственного интеллекта он предоставляет информацию о свиданиях на основе данных и советы экспертов, чтобы увеличить количество и качество их совпадений.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/roast)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/roast)
 
 <br />
 
@@ -4312,7 +4461,7 @@ ROAST помогает людям в 10 раз увеличить количе�
 
 AI-MOVIE CLUB — социальная сеть, в которой создаются фильмы с помощью искусственного интеллекта!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ai-movie-club)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-movie-club)
 
 <br />
 
@@ -4327,7 +4476,7 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 Кокетливые чаты за считанные секунды. Сделайте скриншот биографии профиля или текущего разговора из Tinder, Bumble или любого приложения для знакомств -> Позвольте Hotconvo понять контекст для умных предложений -> Получите несколько предложений, чтобы получить вдохновение о том, что сказать для вашего следующего сообщения.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/hotconvo)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hotconvo)
 
 <br />
 
@@ -4345,7 +4494,7 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ai-social-bio)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-social-bio)
 
 <br />
 
@@ -4360,7 +4509,7 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 Твитнуть ИИ
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/tweetai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/tweetai)
 
 <br />
 
@@ -4375,7 +4524,7 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 Получите продажи, рост и новые сети. Быстрее, чем то, что вы сейчас пытаетесь.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/tweethunter)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/tweethunter)
 
 <br />
 
@@ -4390,7 +4539,7 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/tweetemote)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/tweetemote)
 
 <br />
 
@@ -4405,7 +4554,7 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 Пишите, планируйте и развивайтесь с помощью самого умного в мире инструмента искусственного интеллекта Twitter
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/postwise)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/postwise)
 
 <br />
 
@@ -4420,7 +4569,7 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/graham-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/graham-ai)
 
 <br />
 
@@ -4435,7 +4584,7 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 Революционное взаимодействие в Твиттере с предлагаемыми ответами на основе искусственного интеллекта.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/tweetspear)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/tweetspear)
 
 <br />
 
@@ -4454,7 +4603,7 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 Улучшение речи заставляет голосовые записи звучать так, как будто они были записаны в профессиональной студии.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/adobe-speech-enhancer)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/adobe-speech-enhancer)
 
 <br />
 
@@ -4469,7 +4618,7 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 Lingostar — это искусственный интеллект, с которым изучающие язык могут разговаривать на английском, испанском или французском языках. Достигните беглости с НАСТОЯЩИМИ устными разговорами бесплатно. Больше никаких репетиторов - общайтесь с Lingostar A.I. для улучшения произношения, словарного запаса и понимания
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/lingostar)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/lingostar)
 
 <br />
 
@@ -4484,7 +4633,7 @@ Lingostar — это искусственный интеллект, с кото�
 
 Постоянно предоставляйте лучший опыт взаимодействия с брендом, достигайте точных результатов и открывайте возможности для бизнеса, основанные на данных.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/poly-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/poly-ai)
 
 <br />
 
@@ -4499,7 +4648,7 @@ Lingostar — это искусственный интеллект, с кото�
 
 С помощью SmallTalk учащиеся могут самостоятельно оценить свой уровень владения английским языком, подготовиться к собеседованию на английском языке или к экзамену IELTS, а также выполнить упражнения по устной речи, которые подготовят их к разговорам на рабочем месте, в академической среде или в повседневной жизни.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/smalltalk2.me)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/smalltalk2.me)
 
 <br />
 
@@ -4514,7 +4663,7 @@ Lingostar — это искусственный интеллект, с кото�
 
 Преобразуйте текст в реалистичную речь для различных приложений. Идеально подходит для создателей видео, преподавателей и маркетологов. Предлагает широкий выбор голосов, языков и акцентов. Настройте параметры голоса, включая скорость, высоту тона и акцент. Идеально подходит для озвучивания, электронных учебных материалов и рекламы. Универсальное и комплексное решение для преобразования текста в речь.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/speechgen.io)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/speechgen.io)
 
 <br />
 
@@ -4533,7 +4682,7 @@ Lingostar — это искусственный интеллект, с кото�
 
 Создавайте формы для любых целей за считанные секунды. Не зная, как кодировать
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/tally-forms)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/tally-forms)
 
 <br />
 
@@ -4548,7 +4697,7 @@ Lingostar — это искусственный интеллект, с кото�
 
 Scholarcy™ — это онлайн-инструмент для обобщения, который генерирует и преобразует длинные статьи в карточки с кратким изложением. Зарегистрируйтесь бесплатно и начните подводить итоги
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/scholarcy)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/scholarcy)
 
 <br />
 
@@ -4563,7 +4712,7 @@ Scholarcy™ — это онлайн-инструмент для обобщен�
 
 Jot автоматически генерирует для вас бесконечные варианты рекламных копий с помощью искусственного интеллекта. Оптимизируйте процессы копирайтинга вашей команды с помощью искусственного интеллекта. Работает на OpenAI GPT-3.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/jot)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/jot)
 
 <br />
 
@@ -4578,7 +4727,7 @@ Jot автоматически генерирует для вас бесконе
 
 Изучайте книги бестселлеров, знаменитостей и книжных серий с помощью мощных рекомендаций, основанных на машинном обучении. Станьте частью растущего сообщества книголюбов на Bookclub.ai
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/bookclub)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/bookclub)
 
 <br />
 
@@ -4593,7 +4742,7 @@ Jot автоматически генерирует для вас бесконе
 
 namewizard — это генератор, который использует искусственный интеллект для поиска идеального бизнеса и доменного имени для вашего следующего проекта.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/namewizard)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/namewizard)
 
 <br />
 
@@ -4608,7 +4757,7 @@ namewizard — это генератор, который использует и
 
 сгенерировать короткое фирменное название компании с помощью искусственного интеллекта. Получить идеи имен Namelix генерирует короткие, запоминающиеся имена с помощью современной языковой модели.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/namelix)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/namelix)
 
 <br />
 
@@ -4623,7 +4772,7 @@ namewizard — это генератор, который использует и
 
 Создайте свою персональную колоду карт и играйте с друзьями. Выберите, какие карты должны быть частью вашей собственной колоды, проведя пальцем по 💅.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/langame-card-game)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/langame-card-game)
 
 <br />
 
@@ -4638,7 +4787,7 @@ namewizard — это генератор, который использует и
 
 Чат-приложения с искусственным интеллектом для всех
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/gandhiji)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/gandhiji)
 
 <br />
 
@@ -4653,7 +4802,7 @@ namewizard — это генератор, который использует и
 
 Вы когда-нибудь хотели задать несколько вопросов Наполеону или Эйнштейну? Что ж, теперь у вас есть шанс.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/goatchat)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/goatchat)
 
 <br />
 
@@ -4668,7 +4817,7 @@ namewizard — это генератор, который использует и
 
 Подключайтесь к самому умному в мире искусственному интеллекту в WhatsApp.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/gpt-hotline)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/gpt-hotline)
 
 <br />
 
@@ -4687,7 +4836,7 @@ namewizard — это генератор, который использует и
 
 Включен искусственный интеллект, голоса реальных людей. Сделайте озвучку студийного качества за считанные минуты. Используйте реалистичные голоса искусственного интеллекта Murf для подкастов, видео и всех ваших профессиональных презентаций.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/murf.ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/murf.ai)
 
 <br />
 
@@ -4702,7 +4851,7 @@ namewizard — это генератор, который использует и
 
 Создавайте реалистичный звук преобразования текста в речь (TTS) с помощью нашего генератора голоса AI с лучшими синтетическими голосами. Мгновенное преобразование текста в естественно звучащую речь и загрузка в форматах MP3 и WAV.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/listnr-2.0)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/listnr-2.0)
 
 <br />
 
@@ -4717,7 +4866,7 @@ namewizard — это генератор, который использует и
 
 Создавайте реалистичный звук преобразования текста в речь (TTS) с помощью онлайн-генератора голоса AI и лучших синтетических голосов. Мгновенное преобразование текста в естественно звучащую речь и загрузка в виде аудиофайлов MP3 и WAV.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/verbatik)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/verbatik)
 
 <br />
 
@@ -4732,7 +4881,7 @@ namewizard — это генератор, который использует и
 
 лень читать статью? не проблема, послушай! На платформе Thundercontent
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/article.audio)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/article.audio)
 
 <br />
 
@@ -4747,7 +4896,7 @@ namewizard — это генератор, который использует и
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/naturalreader)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/naturalreader)
 
 <br />
 
@@ -4762,7 +4911,7 @@ namewizard — это генератор, который использует и
 
 С WellSaid вы и ваша команда можете создать убедительную реалистичную озвучку с помощью искусственного интеллекта для всего вашего цифрового контента.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/wellsaid)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/wellsaid)
 
 <br />
 
@@ -4777,7 +4926,7 @@ namewizard — это генератор, который использует и
 
 Быстро преобразуйте текст в речь с помощью потрясающего реалистичного звучания\ n AI Voices, которые найдут отклик у вашей аудитории. НЕТ НЕОБХОДИМОСТИ арендовать студию звукозаписи для записи сценария.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/createaivoiceovers)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/createaivoiceovers)
 
 <br />
 
@@ -4792,7 +4941,7 @@ namewizard — это генератор, который использует и
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/voicera)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/voicera)
 
 <br />
 
@@ -4807,7 +4956,7 @@ namewizard — это генератор, который использует и
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/fakeyou)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/fakeyou)
 
 <br />
 
@@ -4822,7 +4971,7 @@ namewizard — это генератор, который использует и
 
 Создавайте аудиофайлы для коммерческого использования. Voicemaker позволяет вам распространять созданные вами аудиофайлы даже после истечения срока действия вашей подписки.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/voicemaker)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/voicemaker)
 
 <br />
 
@@ -4841,7 +4990,7 @@ namewizard — это генератор, который использует и
 
 Все, что нужно для ваших видео, в ОДНОМ приложении: создавайте титры, переводите субтитры, дублируйте видео, озвучивайте видео с помощью искусственного интеллекта, записывайте расшифровку голоса и многое другое. \nХватит тратить недели или месяцы\nПереводите видео и добавляйте субтитры в 100 раз быстрее\n
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/translatevideo)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/translatevideo)
 
 <br />
 
@@ -4856,7 +5005,7 @@ namewizard — это генератор, который использует и
 
 Rephrasely использует современный искусственный интеллект для создания вариантов вашего текста на более чем 100+ языках для каждого из восемнадцати (12 бесплатных и 6 премиальных) стилей, которые мы предлагаем. Делая это, мы можем предложить больше ценности и разнообразия, чем любая другая услуга.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/rephrasely)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/rephrasely)
 
 <br />
 
@@ -4871,7 +5020,7 @@ Rephrasely использует современный искусственны�
 
 Транскрибируйте аудио в текст легко, быстро и эффективно
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/rythmex)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/rythmex)
 
 <br />
 
@@ -4892,7 +5041,7 @@ Rephrasely использует современный искусственны�
 Исходный язык более чем на 100 языках.
 Автоматические транскрипции на 100 разных языках и идиом, умноженные на любой акцент или региональные особенности.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/riverside)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/riverside)
 
 <br />
 
@@ -4907,7 +5056,7 @@ Rephrasely использует современный искусственны�
 
 Благодаря глубокому искусственному интеллекту Deciphr ставит временные метки и резюмирует для вас всю расшифровку вашего подкаста. За меньшее время, чем нужно для приготовления кофе
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/deciphr-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/deciphr-ai)
 
 <br />
 
@@ -4922,7 +5071,7 @@ Rephrasely использует современный искусственны�
 
 Stork помогает командам улучшить коммуникацию и производительность. Это бизнес-мессенджер для гибридных и удаленных команд, который автоматически записывает и расшифровывает все встречи и звонки. Создано для асинхронного мира после пандемии и поддерживается искусственным интеллектом.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/graphic-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/graphic-ai)
 
 <br />
 
@@ -4937,7 +5086,7 @@ Stork помогает командам улучшить коммуникаци�
 
 Откройте для себя основные моменты Слушайте лучшие моменты из любимых подкастов и погрузитесь в полный выпуск
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/snipd-podcast-summaries)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/snipd-podcast-summaries)
 
 <br />
 
@@ -4952,7 +5101,7 @@ Stork помогает командам улучшить коммуникаци�
 
 Не позволяйте плотному графику мешать вам учиться у лучших. Сводки подкастов, сгенерированные искусственным интеллектом, доставляются прямо в ваш почтовый ящик. Будьте в курсе любимых шоу и открывайте для себя новые.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/sumly)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/sumly)
 
 <br />
 
@@ -4973,7 +5122,7 @@ Stork помогает командам улучшить коммуникаци�
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/whisperapi)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/whisperapi)
 
 <br />
 
@@ -4988,7 +5137,7 @@ Stork помогает командам улучшить коммуникаци�
 
 Получите точную транскрипцию для вашего АУДИО И ВИДЕО с помощью новейшей технологии распознавания речи.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/voicetapp)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/voicetapp)
 
 <br />
 
@@ -5007,7 +5156,7 @@ Stork помогает командам улучшить коммуникаци�
 
 Этот ИИ-помощник может спланировать индивидуальную поездку, подсказать, куда пойти, и даже составить местные рекомендации по отелям, ресторанам и достопримечательностям.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/vacay)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/vacay)
 
 <br />
 
@@ -5022,7 +5171,7 @@ Stork помогает командам улучшить коммуникаци�
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/roamr)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/roamr)
 
 <br />
 
@@ -5037,7 +5186,7 @@ Stork помогает командам улучшить коммуникаци�
 
 Наш ИИ создаст для вас индивидуальный план для любого города или места, которое вы хотели бы посетить, с ресторанами, веселыми мероприятиями, достопримечательностями и советами, чтобы сделать лучшее приключение
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/orkoi)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/orkoi)
 
 <br />
 
@@ -5052,7 +5201,7 @@ Stork помогает командам улучшить коммуникаци�
 
 Откройте для себя идеальное название для блога о путешествиях с помощью генератора идей названий для блогов TravelFeed! Введите ключевое слово — возможно, ваше собственное имя — и наблюдайте, как наш ИИ поражает вас множеством привлекательных предложений. Нравится имя? Быстро проверьте его домен .com и доступность имени пользователя TravelFeed. Погрузитесь в свое блоггерское путешествие с таким же авантюрным именем, как и вы!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/travel-blog-name-ideas-generator)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/travel-blog-name-ideas-generator)
 
 <br />
 
@@ -5071,7 +5220,7 @@ Stork помогает командам улучшить коммуникаци�
 
 Colossyan Creator делает создание видео простым и легким. Откройте для себя нашего создателя видео с помощью искусственного интеллекта и реальных актеров. Создавайте видео менее чем за 5 минут
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/colossyan)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/colossyan)
 
 <br />
 
@@ -5089,7 +5238,7 @@ HeyGen — это видеоплатформа, которая помогает 
 так же легко, как создавать PowerPoint для различных случаев использования:
 Объяснение и инструкции, маркетинг, персонализированные продажи, электронное обучение, обучение и адаптация, новости.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/heygen)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/heygen)
 
 <br />
 
@@ -5104,7 +5253,7 @@ HeyGen — это видеоплатформа, которая помогает 
 
 HitPaw Online Video Enhancer - лучшее решение для видео с низким разрешением, увеличивайте разрешение видео до 1080P/4K без каких-либо усилий.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/hitpaw-online-video-enhancer)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hitpaw-online-video-enhancer)
 
 <br />
 
@@ -5119,7 +5268,7 @@ HitPaw Online Video Enhancer - лучшее решение для видео с 
 
 ⚡️ Получайте мгновенные сводки видео на YouTube с помощью искусственного интеллекта, экономьте время и переводите на 28 языков.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/eightify)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/eightify)
 
 <br />
 
@@ -5134,7 +5283,7 @@ HitPaw Online Video Enhancer - лучшее решение для видео с 
 
 LiveReacting помогает вам привлечь больше подписчиков и вовлеченности, добавляя в свою трансляцию предварительно записанные видео, игры, обратный отсчет и опросы.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ai-host)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-host)
 
 <br />
 
@@ -5149,7 +5298,7 @@ LiveReacting помогает вам привлечь больше подпис�
 
 Создавайте видео из сценариев или сообщений в блогах, используя реалистичные голоса, за 2 минуты!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/fliki)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/fliki)
 
 <br />
 
@@ -5164,7 +5313,7 @@ LiveReacting помогает вам привлечь больше подпис�
 
 Автоматически создавайте короткие фирменные видеоролики, которыми можно поделиться, из длинного контента.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/pictory)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/pictory)
 
 <br />
 
@@ -5179,7 +5328,7 @@ LiveReacting помогает вам привлечь больше подпис�
 
 WZRD дополняет ваш звук захватывающим видео на основе искусственного интеллекта
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/wzrd.ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/wzrd.ai)
 
 <br />
 
@@ -5195,7 +5344,7 @@ WZRD дополняет ваш звук захватывающим видео н
 HitPaw Video Enhancer помогает легко масштабировать и улучшать качество видео без потери качества. Этот усилитель видео с искусственным интеллектом может улучшить качество видео, раскрасить черно-белое видео, конвертировать низкокачественное видео в 1080P, 4K, до 8K.
 Средство масштабирования видео HitPaw помогает улучшить качество любого видео с помощью нескольких моделей искусственного интеллекта: шумоподавления, анимации, распознавания лица, раскрашивания, улучшения цвета, модели интерполяции кадров, стаб
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/hitpaw-video-enhancer)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hitpaw-video-enhancer)
 
 <br />
 
@@ -5210,7 +5359,7 @@ HitPaw Video Enhancer помогает легко масштабировать �
 
 Создание самого лучшего навигационного приложения. Благодаря передовым технологиям, таким как машинное обучение и блокчейн, Atlas Navi станет лучшим выбором навигации для водителей по всему миру. Точное местоположение с использованием искусственного интеллекта для улучшения маршрутизации. Оно анализирует дорогу 25 раз в секунду и генерирует в 100 раз лучшие данные, чем другие навигационные приложения; 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/atlas-navi)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/atlas-navi)
 
 <br />
 
@@ -5229,7 +5378,7 @@ HitPaw Video Enhancer помогает легко масштабировать �
 
 Волшебный инструмент дизайна для Figma на базе искусственного интеллекта.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/magician)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/magician)
 
 <br />
 
@@ -5244,7 +5393,7 @@ HitPaw Video Enhancer помогает легко масштабировать �
 
 Создайте что-нибудь онлайн за 2 минуты! Создайте логотип, видео, баннер для социальных сетей, визитную карточку, флаер, макет и многое другое с помощью ИИ.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/designs-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/designs-ai)
 
 <br />
 
@@ -5259,7 +5408,7 @@ HitPaw Video Enhancer помогает легко масштабировать �
 
 Работайте с надежными, проверенными экспертами, создавшими многомиллионные продукты.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ai-project-description-generator)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-project-description-generator)
 
 <br />
 
@@ -5274,7 +5423,7 @@ HitPaw Video Enhancer помогает легко масштабировать �
 
 Создавайте потрясающие веб-сайты, веб-приложения, мобильные приложения, интерфейсы, каркасы, прототипы, макеты за считанные минуты. Визуализируйте и сообщайте свои идеи без особых усилий. Опыт проектирования не требуется!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/uizard)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/uizard)
 
 <br />
 
@@ -5289,7 +5438,7 @@ HitPaw Video Enhancer помогает легко масштабировать �
 
 Создайте веб-сайт за 30 секунд с помощью ИИ. Конструктор веб-сайтов с искусственным интеллектом создает целый веб-сайт с изображениями и копирует их за считанные секунды.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/durable)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/durable)
 
 <br />
 
@@ -5304,7 +5453,7 @@ HitPaw Video Enhancer помогает легко масштабировать �
 
 Создавать потрясающий контент на телефоне стало проще простого
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/piggy)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/piggy)
 
 <br />
 
@@ -5319,7 +5468,7 @@ HitPaw Video Enhancer помогает легко масштабировать �
 
 Присоединяйтесь к списку ожидания Genius by Diagram
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/genius-by-diagram)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/genius-by-diagram)
 
 <br />
 
@@ -5334,7 +5483,7 @@ HitPaw Video Enhancer помогает легко масштабировать �
 
 Создавайте потрясающие веб-сайты за 30 секунд, включая копирование и даже изображения с помощью ИИ
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/stunning.so)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/stunning.so)
 
 <br />
 
@@ -5349,7 +5498,7 @@ HitPaw Video Enhancer помогает легко масштабировать �
 
 Наш конструктор веб-сайтов на основе искусственного интеллекта мгновенно создает готовое для клиентов онлайн-присутствие с помощью инструментов, контента и изображений специально для вашей отрасли.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/b12-ai-website-builder)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/b12-ai-website-builder)
 
 <br />
 
@@ -5369,7 +5518,7 @@ HitPaw Video Enhancer помогает легко масштабировать �
 
 IX.AI: ваш самый мощный и универсальный второй пилот, работающий с искусственным интеллектом. Создавайте высококачественные копии для рекламы, электронных писем, блогов и многого другого за считанные секунды с помощью HIX.AI, самого мощного универсального второго пилота для написания ИИ на рынке.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/hix.ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hix.ai)
 
 <br />
 
@@ -5386,7 +5535,7 @@ Rytr — это помощник по написанию текстов с ис�
 Создавайте потрясающий контент без особых усилий
 Никогда больше не сталкивайтесь с трудностями в написании текстов — от блогов до электронных писем и рекламных материалов — вы автоматически создаете запоминающиеся, оригинальные и высококонверсионные копии популярных тонов и языков всего за несколько секунд. 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/rytr)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/rytr)
 
 <br />
 
@@ -5401,7 +5550,7 @@ Rytr — это помощник по написанию текстов с ис�
 
 Экономьте часы каждый день. Первый в мире писатель с искусственным интеллектом, который работает на вашем Mac, iPhone и iPad.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/elephas)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/elephas)
 
 <br />
 
@@ -5416,7 +5565,7 @@ Rytr — это помощник по написанию текстов с ис�
 
 Ваши слова имеют значение, и наш инструмент перефразирования предназначен для того, чтобы вы использовали правильные слова. Имея на выбор два бесплатных режима и пять премиальных режимов, вы можете использовать онлайн-перефразировщик QuillBot, чтобы перефразировать любой текст различными способами.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/quillbot-paraphraser)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/quillbot-paraphraser)
 
 <br />
 
@@ -5431,7 +5580,7 @@ Rytr — это помощник по написанию текстов с ис�
 
 Typly — это новейшая клавиатура с искусственным интеллектом, которая поможет вам отвечать на все ваши сообщения одним щелчком мыши!🚀
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/typly)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/typly)
 
 <br />
 
@@ -5446,7 +5595,7 @@ Typly — это новейшая клавиатура с искусственн
 
 Создайте свой собственный текст песни на любую тему, а также выберите жанр текста и настроение текста.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ai-lyrics-generator)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-lyrics-generator)
 
 <br />
 
@@ -5461,7 +5610,7 @@ Typly — это новейшая клавиатура с искусственн
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/paraphraser-ai)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/paraphraser-ai)
 
 <br />
 
@@ -5476,7 +5625,7 @@ Typly — это новейшая клавиатура с искусственн
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/wordtune)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/wordtune)
 
 <br />
 
@@ -5491,7 +5640,7 @@ Typly — это новейшая клавиатура с искусственн
 
 AI Pargraph Generator — это передовой инструмент для создания контента, использующий возможности искусственного интеллекта. Используя передовую обработку естественного языка и машинное обучение, он быстро генерирует последовательные и контекстуально релевантные абзацы, что делает его бесценным ресурсом для удовлетворения различных требований к написанию текстов. 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/ai-paragraph-generator)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-paragraph-generator)
 
 <br />
 
@@ -5506,7 +5655,7 @@ AI Pargraph Generator — это передовой инструмент для 
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/ru/application/paraphraser)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/paraphraser)
 
 <br />
 

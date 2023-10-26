@@ -1,3 +1,152 @@
+# <img width="20" style="margin-right:6px;" alt="ai-collection-logo" src="https://ai-collection.b-cdn.net/logo.webp" /> AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+
+<div align="center">
+
+</div>
+<a target="_blank" href="https://twitter.com/intent/tweet?url=https://github.com/ai-collection/ai-collection/blob/main/README.fr.md&text=Découvrez cette collection AI d'applications AI génératives impressionnantes! @ai_collection_&hashtags=aicollection"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Partager&style=social&url=https%3A%2F%2Ftwitter.com"></a> <a class="twitter-follow-button" href="https://twitter.com/ai_collection_" data-size="large"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ai_collection_?style=social"></a>
+
+---
+
+<div align="center">
+    <br />
+    <i>LE PAYSAGE DE L'IA GÉNÉRATIVE</i>
+    <br />
+    <br />
+    <i>Une collection d'applications d'IA génératives impressionnantes</i>
+    <br />
+</div>
+
+---
+
+> My brothers and sisters in Israel were slaughtered by Hamas terrorists. I was drafted to protect my country. I may be slow to respond.
+
+---
+
+<div align="center">
+    <h4>Statut</h4>
+
+<a href="https://github.com/ai-collection/ai-collection">
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=932" />
+</a> &nbsp;&nbsp;
+<a href="https://github.com/ai-collection/ai-collection">
+    <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
+</a>
+
+[![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
+
+</div>
+
+---
+
+<div align="center">
+    <a href="CONTRIBUTING.md">Contributing Guide</a> •
+    <a href="LICENSE">License</a> •
+    <a href="https://aicollection.beehiiv.com/subscribe">Newsletter</a> •
+    <a href="https://www.thataicollection.com/en/blog/">Blog</a>
+</div>
+
+--- 
+> Vous pouvez copier coller un lien de site Web vers cet outil afin de visualiser le site Web en français - [link](https://translate.google.com/?sl=en&tl=fr&op=websites)
+
+---
+
+<div align="center">
+    <h5>Meilleurs choix</h5>
+    <p>Les meilleurs choix d'AI Collection sont</p>
+</div>
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/hix.ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://static.tapfiliate.com/64f970e24e02d007847701.jpeg?a=135466-856f82" alt="HIX.AI" border="0"/>
+    </a>
+    <h4>Le tout-en-un le plus puissant
+Copilote d'écriture d'IA</h4>
+    <p>IX.AI : votre copilote d'écriture d'IA tout-en-un le plus puissant. Générez des copies de haute qualité pour les publicités, les e-mails, les blogs et bien plus encore en quelques secondes avec HIX.AI, le copilote d'écriture d'IA tout-en-un le plus puissant du marché.</p>
+    <a href="https://www.thataicollection.com/redirect/hix.ai" target="_blank"><b>Démarrer avec HIX.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+---
+
+<div align="center">
+    <h5>Des outils impressionnants pour votre application d'IA</h5>
+</div>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.twic.pics/screenshots/screenshot-usertrail.webp" alt="usertrail" border="0"/>
+    </a>
+    <h4>Suivi des événements simple et puissant pour les applications modernes.</h4>
+    <p>Capture, suit et visualise chaque étape importante de l'utilisateur, en simplifiant plus que jamais les décisions basées sur les données.
+Moniteur -Reste à jour. N'importe quand, n'importe où.
+Visualiser - Tableau de bord clair et élégant. En quelques minutes.
+Capture : intégration sans effort.</p>
+    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank"><b>Démarrer avec usertrail</b></a>
+    <br />
+</div>
+
+
+---
+
+<p><a href="mailto: pavel@ai-collection.org">Contactez-nous</a> pour mettre en place une promotion pour votre application géniale !</p>
+
+
+
+        > **_NOTE :_** Un changement sur la façon dont la collection est affichée est à venir. Seules quelques dizaines d'applications d'IA génératives triées sur le volet seront affichées. La collection complète sera toujours disponible sur https://www.thataicollection.com
+        <br />
+
+        ## Index
+- 🤪 [Amusant](#amusant)
+- 🎲 [Animation & Modélisation 3D](#animation--modélisation-3d)
+- 🏯 [Architecture & Design D'Intérieur](#architecture--design-d'intérieur)
+- 💻 [Assistant De Code Et De Base De Données](#assistant-de-code-et-de-base-de-données)
+- 📧 [Assistant De Messagerie](#assistant-de-messagerie)
+- 🎓 [Assistant De Recherche](#assistant-de-recherche)
+- ✍️ [Assistante D'Écriture](#assistante-d'écriture)
+- 👨‍💻 [Assistante De Réunion](#assistante-de-réunion)
+- 😎 [Avatars](#avatars)
+- 🗳 [Avis Et Recommandations](#avis-et-recommandations)
+- 🧰 [Boîte À Outils Des Créateurs](#boîte-à-outils-des-créateurs)
+- 🤖💬 [Chatbot](#chatbot)
+- 🛒 [Commerce Électronique](#commerce-électronique)
+- 📈 [Comptabilité Et Finance](#comptabilité-et-finance)
+- 🕸 [Création De Sites Web](#création-de-sites-web)
+- 📊 [Diapositives Et Présentations](#diapositives-et-présentations)
+- 📢 [Discours](#discours)
+- 🧠 [Éducation Et Apprentissage](#éducation-et-apprentissage)
+- 🌄 [Générateur D'Art Et D'Images](#générateur-d'art-et-d'images)
+- ⚜️ [Générateur De Logos](#générateur-de-logos)
+- 📠 [Génération De Contenu Et Référencement](#génération-de-contenu-et-référencement)
+- 🎁💡 [Idées De Cadeau](#idées-de-cadeau)
+- 🎮 [Jeux](#jeux)
+- 👩‍⚖️ [Juridique](#juridique)
+- 💡 [La Génération D'Idées](#la-génération-d'idées)
+- 👩‍🎤 [Mode](#mode)
+- 🔍 [Moteurs De Recherche](#moteurs-de-recherche)
+- 🎼 [Musique Et Génération Audio](#musique-et-génération-audio)
+- 🧞‍♂️ [Organisation & Automatisation](#organisation--automatisation)
+- 🏖 [Planificateur De Vacances Et De Voyages](#planificateur-de-vacances-et-de-voyages)
+- 🔌 [Plugins Et Extensions](#plugins-et-extensions)
+- 🚀 [Productivité Et Croissance Personnelle](#productivité-et-croissance-personnelle)
+- 💞 [Réseaux Sociaux & Rencontres](#réseaux-sociaux--rencontres)
+- 👩‍💼 [Ressources Humaines Et Cv](#ressources-humaines-et-cv)
+- 📸 [Retouche De Photos Et D'Images](#retouche-de-photos-et-d'images)
+- 👨‍💻 [Service Client](#service-client)
+- 👩‍⚕️ [Soins De Santé](#soins-de-santé)
+- 📝 [Texte](#texte)
+- 📝🔉 [Texte Pour Parler](#texte-pour-parler)
+- 🇺🇳 [Traduction Et Transcription](#traduction-et-transcription)
+- 💰 [Ventes Et Marketing](#ventes-et-marketing)
+- 🎬 [Vidéo](#vidéo)
+- [Autre](#autre)
+
+---
+
 ## 📈 Comptabilité et Finance
 
 <br />
@@ -9,7 +158,7 @@
 
 Débloquez des informations sur la piste de trésorerie et la croissance - pas de feuilles de calcul ! 7 minutes d'intégration. Prêt pour QuickBooks et Stripe. Approuvé par les conseils d'administration et les investisseurs
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/flowcog)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/flowcog)
 
 <br />
 
@@ -24,7 +173,7 @@ Débloquez des informations sur la piste de trésorerie et la croissance - pas d
 
 StockGPT est un moteur de recherche alimenté par l'IA qui a été formé sur toutes les transcriptions des appels de résultats trimestriels de Tesla datant du deuxième trimestre 2011.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/stockgpt)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/stockgpt)
 
 <br />
 
@@ -39,7 +188,7 @@ StockGPT est un moteur de recherche alimenté par l'IA qui a été formé sur to
 
 problèmes que Jinnee pourrait résoudre : Capacité limitée - Le service d'assistance ne peut pas traiter toutes les demandes, Long temps d'attente - Clients situés dans des fuseaux horaires différents, Requêtes répétitives - Peut être automatisée pour gagner du temps, Perte de temps - Créer un environnement de travail toxique
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/jinnee)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/jinnee)
 
 <br />
 
@@ -55,7 +204,7 @@ Choisi par l'IA - [Visit](https://www.thataicollection.com/redirect/stocknews-ai
 
 Stocknews AI est une sélection des meilleures actualités boursières de tous les jours. Découvrez les dernières actualités boursières dont tout le monde parle.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/stocknews-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/stocknews-ai)
 
 <br />
 
@@ -74,7 +223,7 @@ Stocknews AI est une sélection des meilleures actualités boursières de tous l
 
 Blimey est un générateur d'images basé sur l'intelligence artificielle qui te permet de passer de l'idée à la réalité en une minute. Avec un contrôle total sur la composition, les couleurs et le style. Configure une scène 3D virtuelle pour avoir un contrôle total sur la composition et les couleurs lors de la génération d'images avec l'IA
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/blimey)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/blimey)
 
 <br />
 
@@ -89,7 +238,7 @@ Blimey est un générateur d'images basé sur l'intelligence artificielle qui te
 
 Générez des textures 3D pour votre jeu en quelques secondes grâce à l'IA.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/texturelab)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/texturelab)
 
 <br />
 
@@ -104,7 +253,7 @@ Générez des textures 3D pour votre jeu en quelques secondes grâce à l'IA.
 
 Arrêtez de perdre des heures avec les outils de modélisation. Générez de superbes œuvres d'art 3D avec rien de plus qu'une image.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/kaedim)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/kaedim)
 
 <br />
 
@@ -119,7 +268,7 @@ Arrêtez de perdre des heures avec les outils de modélisation. Générez de sup
 
 Extrayez facilement le mouvement de la vidéo sans combinaisons ou mouvements coûteux.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/plask)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/plask)
 
 <br />
 
@@ -134,7 +283,7 @@ Extrayez facilement le mouvement de la vidéo sans combinaisons ou mouvements co
 
 Une première expérience pour prototyper et créer de la 3D avec du texte L'accès à la génération s'étend progressivement à toutes les personnes inscrites sur la liste d'attente
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/lumalabs)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/lumalabs)
 
 <br />
 
@@ -153,7 +302,7 @@ Une première expérience pour prototyper et créer de la 3D avec du texte L'acc
 
 Notre logiciel de conception générative permet aux architectes, constructeurs et développeurs de générer rapidement des milliers de plans architecturaux instantanément.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/makeit.ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/makeit.ai)
 
 <br />
 
@@ -168,7 +317,7 @@ Notre logiciel de conception générative permet aux architectes, constructeurs 
 
 Obtenez des idées de design d'intérieur à l'aide de l'intelligence artificielle et mettez en scène virtuellement des intérieurs pour des annonces immobilières avec différents styles d'intérieur.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/interior-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/interior-ai)
 
 <br />
 
@@ -183,7 +332,7 @@ Obtenez des idées de design d'intérieur à l'aide de l'intelligence artificiel
 
 Utilisez notre puissante technologie d'intelligence artificielle pour générer tout type d'image auquel vous pouvez penser. Dans quelques secondes.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/image-computer)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/image-computer)
 
 <br />
 
@@ -198,7 +347,7 @@ Utilisez notre puissante technologie d'intelligence artificielle pour générer 
 
 Imaginez pouvoir créer facilement de superbes intérieurs - c'est ce que propose Dimensions.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/dimensions)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/dimensions)
 
 <br />
 
@@ -213,7 +362,7 @@ Imaginez pouvoir créer facilement de superbes intérieurs - c'est ce que propos
 
 Obtenez des centaines d'idées de design d'intérieur pour votre chambre - gratuitement et sans limite.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ai-room-planner)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-room-planner)
 
 <br />
 
@@ -228,7 +377,7 @@ Obtenez des centaines d'idées de design d'intérieur pour votre chambre - gratu
 
 Jusqu'à 30 % d'augmentation des appels signalés par nos clients utilisant des plans d'étage 2D, 3D et des visites virtuelles
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/getfloorplan)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/getfloorplan)
 
 <br />
 
@@ -243,7 +392,7 @@ Jusqu'à 30 % d'augmentation des appels signalés par nos clients utilisant des
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ai-two)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-two)
 
 <br />
 
@@ -262,7 +411,7 @@ Jusqu'à 30 % d'augmentation des appels signalés par nos clients utilisant des
 
 getimg.ai est une suite d'outils d'IA magiques. Générez des images originales à l'échelle, modifiez des photos, développez des images au-delà de leurs bordures d'origine ou créez des modèles d'IA personnalisés.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/getimg.ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/getimg.ai)
 
 <br />
 
@@ -277,7 +426,7 @@ getimg.ai est une suite d'outils d'IA magiques. Générez des images originales 
 
 ICONS8 PERMET AUX DESIGNERS D'EXPRIMER LEURS IDÉES EN FOURNISSANT LES BONS ÉLÉMENTS DE DESIGN AU BON MOMENT. Fonctionnalités de l'IA : générateur de visages, changement de visage sur des photos de stock, amélioration intelligente, mise à jour de ton site web directement depuis Lunacy et bien plus encore
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/icons8)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/icons8)
 
 <br />
 
@@ -292,7 +441,7 @@ ICONS8 PERMET AUX DESIGNERS D'EXPRIMER LEURS IDÉES EN FOURNISSANT LES BONS ÉL�
 
 Obtenez de magnifiques codes QR artistiques sur votre e-mail en moins de 10 minutes. Choisissez parmi les catégories de codes QR disponibles ou demandez les vôtres. Faites en sorte que votre entreprise se démarque avec des arts QR uniques !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/customqr-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/customqr-ai)
 
 <br />
 
@@ -307,7 +456,7 @@ Obtenez de magnifiques codes QR artistiques sur votre e-mail en moins de 10 minu
 
 Playground AI est un créateur d'images AI en ligne gratuit. Utilisez-le pour créer des œuvres d'art, des publications sur les réseaux sociaux, des présentations, des affiches, des vidéos, des logos, etc.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/playground)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/playground)
 
 <br />
 
@@ -322,7 +471,7 @@ Playground AI est un créateur d'images AI en ligne gratuit. Utilisez-le pour cr
 
 Créez des photos de produits exceptionnelles et bien plus : choisissez n'importe quelle image pour lancer la magie ✨
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/designify)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/designify)
 
 <br />
 
@@ -337,7 +486,7 @@ Créez des photos de produits exceptionnelles et bien plus : choisissez n'impor
 
 Des portraits générés par l'IA, comme vous le souhaitez. drawanyone.ai vous permet de personnaliser vos portraits IA
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/drawanyone)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/drawanyone)
 
 <br />
 
@@ -352,7 +501,7 @@ Des portraits générés par l'IA, comme vous le souhaitez. drawanyone.ai vous p
 
 Créez votre image d'anime parfaite avec l'IA. Choisissez entre les styles One Piece, Naruto, Webtoon et autres !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/anime-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/anime-ai)
 
 <br />
 
@@ -367,7 +516,7 @@ Créez votre image d'anime parfaite avec l'IA. Choisissez entre les styles One P
 
 Créez vos propres images générées par l'IA
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/snapshotai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/snapshotai)
 
 <br />
 
@@ -382,7 +531,7 @@ Créez vos propres images générées par l'IA
 
 None
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/mini-dalle-3-online)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/mini-dalle-3-online)
 
 <br />
 
@@ -397,7 +546,7 @@ None
 
 Parcourez des millions de styles ou créez le vôtre, générez des autoportraits IA.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/not-me-netlify)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/not-me-netlify)
 
 <br />
 
@@ -416,7 +565,7 @@ Parcourez des millions de styles ou créez le vôtre, générez des autoportrait
 
 HairstyleAI vous permet d'essayer virtuellement de nouvelles coupes de cheveux avec l'IA avant de vous faire couper la vraie coupe. Ayez plus confiance en votre propre apparence et sentez-vous à nouveau vous-même.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/hairstyleai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/hairstyleai)
 
 <br />
 
@@ -431,7 +580,7 @@ HairstyleAI vous permet d'essayer virtuellement de nouvelles coupes de cheveux a
 
 Choisissez parmi plus de 112 styles différents à transformer en
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/avatarai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/avatarai)
 
 <br />
 
@@ -446,7 +595,7 @@ Choisissez parmi plus de 112 styles différents à transformer en
 
 Générez un ensemble aléatoire de personnages ou d'avatars avec la puissance des GAN. Appuyez sur la barre d'espace pour générer un nouvel ensemble
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/character.io)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/character.io)
 
 <br />
 
@@ -461,7 +610,7 @@ Générez un ensemble aléatoire de personnages ou d'avatars avec la puissance d
 
 Comment ça fonctionne? 1. Téléchargez des selfies de vous (ou d'une autre personne) sous différents angles. 2. Attendez - Prenez un café pendant que nous construisons votre studio à partir de vos photos. 3. Invite - Utilisez votre imagination pour créer l'invite parfaite !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/avtrs)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/avtrs)
 
 <br />
 
@@ -476,7 +625,7 @@ Comment ça fonctionne? 1. Téléchargez des selfies de vous (ou d'une autre per
 
 Parcourez des millions de styles ou créez le vôtre, générez des autoportraits IA.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/autoportrait)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/autoportrait)
 
 <br />
 
@@ -491,7 +640,7 @@ Parcourez des millions de styles ou créez le vôtre, générez des autoportrait
 
 Générez de l'art d'avatar magique à partir de vos photos.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/aivatar)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/aivatar)
 
 <br />
 
@@ -506,7 +655,7 @@ Générez de l'art d'avatar magique à partir de vos photos.
 
 Créez vos avatars parfaits en quelques clics grâce à notre technologie d'intelligence artificielle facile à utiliser.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/aiprofilepic)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/aiprofilepic)
 
 <br />
 
@@ -521,7 +670,7 @@ Créez vos avatars parfaits en quelques clics grâce à notre technologie d'inte
 
 Images générées par l'IA vous mettant en vedette
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/dreampic)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/dreampic)
 
 <br />
 
@@ -536,7 +685,7 @@ Images générées par l'IA vous mettant en vedette
 
 Créez vos propres images de profil d'avatar IA à la pointe de la technologie
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/epicavatar)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/epicavatar)
 
 <br />
 
@@ -551,7 +700,7 @@ Créez vos propres images de profil d'avatar IA à la pointe de la technologie
 
 Obtenez des portraits professionnels de qualité studio générés en moins de 24 heures ! Parfait pour les photos LinkedIn, sociales, d'équipe et de rencontres.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/tryitonai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/tryitonai)
 
 <br />
 
@@ -570,7 +719,7 @@ Obtenez des portraits professionnels de qualité studio générés en moins de 2
 
 ChatSimple est une plateforme spécialisée dans la création de chatbots orientés vers la conversion pour les petites et moyennes entreprises (PME) en seulement 5 minutes. La plateforme se concentre sur trois fonctionnalités clés : la génération de prospects, la gestion des FAQ et le traitement des questions de préqualification. En permettant aux PME de créer leurs propres chatbots dotés d'une expertise spécifique à un domaine,
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/achatsimple)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/achatsimple)
 
 <br />
 
@@ -585,7 +734,7 @@ ChatSimple est une plateforme spécialisée dans la création de chatbots orient
 
 Crée un chatbot d'assistance basé sur l'IA personnalisé en utilisant ton propre contenu, tes documents d'assistance, tes PDF, ton API ou ta base de données. Ajoute-le ensuite à ton site web à l'aide d'une seule ligne de code pour répondre aux questions de tes visiteurs en temps réel et réduire le nombre de demandes d'assistance.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/sitespeakai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/sitespeakai)
 
 <br />
 
@@ -600,7 +749,7 @@ Crée un chatbot d'assistance basé sur l'IA personnalisé en utilisant ton prop
 
 Zéro codage. Partagez sur votre site Web en quelques minutes. Créez un chatbot GPT-4 en quelques minutes. Entraînez l'IA, personnalisez et intégrez sur votre site Web.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/dante)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/dante)
 
 <br />
 
@@ -615,7 +764,7 @@ Zéro codage. Partagez sur votre site Web en quelques minutes. Créez un chatbot
 
 ChatBotKit vous aide à créer des chatbots IA conversationnels avec vos propres données pour communiquer naturellement avec les utilisateurs de votre site Web, Slack, Discord et WhatsApp.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/chatbotkit)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/chatbotkit)
 
 <br />
 
@@ -630,7 +779,7 @@ ChatBotKit vous aide à créer des chatbots IA conversationnels avec vos propres
 
 Répondez instantanément aux questions de vos visiteurs avec un chatbot personnalisé formé sur le contenu de votre site Web.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/sitegpt)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/sitegpt)
 
 <br />
 
@@ -645,7 +794,7 @@ Répondez instantanément aux questions de vos visiteurs avec un chatbot personn
 
 Rencontrez NOLU. Une interface simple pour interagir avec le moteur Open AI GPT-3.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/nolu)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/nolu)
 
 <br />
 
@@ -660,7 +809,7 @@ Rencontrez NOLU. Une interface simple pour interagir avec le moteur Open AI GPT-
 
 Chai est LA destination pour des conversations captivantes avec l'IA. Sur Chai, vous pouvez créer et déployer des chatbots IA pour des milliers d'utilisateurs.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/chai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/chai)
 
 <br />
 
@@ -675,7 +824,7 @@ Chai est LA destination pour des conversations captivantes avec l'IA. Sur Chai, 
 
 Robi est un puissant compagnon d'IA qui vit dans votre liste de contacts et peut être contacté via WhatsApp, il peut vous aider à rédiger un essai ou à générer des images originales !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/askrobi)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/askrobi)
 
 <br />
 
@@ -690,7 +839,7 @@ Robi est un puissant compagnon d'IA qui vit dans votre liste de contacts et peut
 
 Compagnon IA qui se soucie. Ayez une conversation amicale, un jeu de rôle, développez vos compétences en communication et en relations.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/myanima-ai-companion)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/myanima-ai-companion)
 
 <br />
 
@@ -705,7 +854,7 @@ Compagnon IA qui se soucie. Ayez une conversation amicale, un jeu de rôle, dév
 
 Kore.ai automatise les interactions entre le front office et le back-office dans tous les secteurs en déployant des assistants virtuels et des assistants de traitement basés sur l'IA conversationnelle.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/kore.ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/kore.ai)
 
 <br />
 
@@ -724,7 +873,7 @@ Kore.ai automatise les interactions entre le front office et le back-office dans
 
 Créez des structures de documentation, générez des explications de code et améliorez la visibilité des documents avec Swimm AI
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/swimm-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/swimm-ai)
 
 <br />
 
@@ -739,7 +888,7 @@ Créez des structures de documentation, générez des explications de code et am
 
 CodiumAI analyse votre code et génère des tests significatifs pour détecter les bogues avant l'expédition
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/codiumai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/codiumai)
 
 <br />
 
@@ -754,7 +903,7 @@ CodiumAI analyse votre code et génère des tests significatifs pour détecter l
 
 CodeWP est un générateur de code WordPress qui utilise l'IA et des modèles spécialisés pour WordPress, Woo et autres pour vous aider à construire mieux et plus rapidement.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/codewp)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/codewp)
 
 <br />
 
@@ -769,7 +918,7 @@ CodeWP est un générateur de code WordPress qui utilise l'IA et des modèles sp
 
 ExplainDev vous aide à être plus confiant et indépendant avec le code des autres. Obtenez des explications sur le code et des réponses directes à vos questions via les extensions Chrome et VS Code alimentées par l'IA.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/explaindev)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/explaindev)
 
 <br />
 
@@ -784,7 +933,7 @@ ExplainDev vous aide à être plus confiant et indépendant avec le code des aut
 
 TLDR est un plugin IDE qui exploite l'IA pour expliquer le code en anglais simple.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/tldr---jetbrains-ide-plugin)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/tldr---jetbrains-ide-plugin)
 
 <br />
 
@@ -799,7 +948,7 @@ TLDR est un plugin IDE qui exploite l'IA pour expliquer le code en anglais simpl
 
 Exécutez le code en direct dans votre navigateur. Écrivez et exécutez du code dans plus de 50 langues en ligne avec Replit, un puissant IDE, compilateur et interpréteur.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ghostwriter)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ghostwriter)
 
 <br />
 
@@ -814,7 +963,7 @@ Exécutez le code en direct dans votre navigateur. Écrivez et exécutez du code
 
 L'application GitHub alimentée par l'IA qui explique les changements dans vos demandes d'extraction en anglais simple
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/whatthediff)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/whatthediff)
 
 <br />
 
@@ -829,7 +978,7 @@ L'application GitHub alimentée par l'IA qui explique les changements dans vos d
 
 Il génère, modifie, complète le code et répond aux questions.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/codeassist)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/codeassist)
 
 <br />
 
@@ -844,7 +993,7 @@ Il génère, modifie, complète le code et répond aux questions.
 
 Klu.ai est une plateforme tout-en-un conçue pour permettre aux équipes d'IA de créer, déployer et optimiser des applications d'IA générative. Il permet aux utilisateurs de concevoir, développer et itérer facilement des fonctionnalités et des applications d'IA générative à l'aide de son interface intuitive appelée Klu Studio.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/klu)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/klu)
 
 <br />
 
@@ -859,7 +1008,7 @@ Klu.ai est une plateforme tout-en-un conçue pour permettre aux équipes d'IA de
 
 Que vous fassiez partie d'une équipe ou que vous soyez un développeur travaillant seul, Tabnine vous aidera à écrire du code plus rapidement, le tout dans votre IDE préféré.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/tabnine)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/tabnine)
 
 <br />
 
@@ -878,7 +1027,7 @@ Que vous fassiez partie d'une équipe ou que vous soyez un développeur travaill
 
 Choisissez l'un de nos 50 modèles et créez une copie convaincante à diverses fins, notamment des descriptions, des publicités, des articles, des e-mails, etc. Fournissez certaines informations que CarbonCopy utilisera pour créer votre copie. En quelques secondes, notre logiciel d’intelligence artificielle générera des résultats remarquables pour votre marketing.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/carboncopy)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/carboncopy)
 
 <br />
 
@@ -893,7 +1042,7 @@ Choisissez l'un de nos 50 modèles et créez une copie convaincante à diverses 
 
 Jasper est le générateur de contenu IA qui vous aide, vous et votre équipe, à briser les blocages créatifs pour créer un contenu original et étonnant 10 fois plus rapidement.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/jasper.ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/jasper.ai)
 
 <br />
 
@@ -908,7 +1057,7 @@ Jasper est le générateur de contenu IA qui vous aide, vous et votre équipe, �
 
 LongShot est un assistant d'écriture IA qui vous aide à passer de l'idée au contenu SEO en quelques minutes. Utilisez la puissance créative de l'IA avec des fonctionnalités telles que le contenu en temps réel, la vérification des faits, le référencement sémantique, l'IA personnalisée, et plus encore !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/longshot-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/longshot-ai)
 
 <br />
 
@@ -923,7 +1072,7 @@ LongShot est un assistant d'écriture IA qui vous aide à passer de l'idée au c
 
 Dashword est le logiciel d'optimisation de contenu n°1 pour les équipes SEO. Créez du contenu pertinent pour vos lecteurs et augmentez votre trafic organique.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/dashword)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/dashword)
 
 <br />
 
@@ -938,7 +1087,7 @@ Dashword est le logiciel d'optimisation de contenu n°1 pour les équipes SEO. C
 
 Tirez parti de tous les meilleurs outils de génération d'IA en un seul endroit, conçus pour automatiser la création de contenu pour les petites entreprises, les boutiques en ligne et les créateurs.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/unbound)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/unbound)
 
 <br />
 
@@ -953,7 +1102,7 @@ Tirez parti de tous les meilleurs outils de génération d'IA en un seul endroit
 
 Automatisez vos opérations de contenu. La plateforme de marketing de contenu et de référencement tout-en-un qui vous fait gagner du temps et de l'argent
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/neuraltext)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/neuraltext)
 
 <br />
 
@@ -968,7 +1117,7 @@ Automatisez vos opérations de contenu. La plateforme de marketing de contenu et
 
 Utilisez l'intelligence artificielle pour réduire les délais d'exécution, augmenter votre budget et créer davantage de contenu de haute qualité que Google et les lecteurs adoreront.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/wordai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/wordai)
 
 <br />
 
@@ -983,7 +1132,7 @@ Utilisez l'intelligence artificielle pour réduire les délais d'exécution, aug
 
 Obtenez des super pouvoirs d'écriture avec l'intelligence artificielle. Chez AISEO, nous vous aiderons à convertir vos pensées en blogs et pouvons écrire pour vous en un clic.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/intelligent-paraphraser)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/intelligent-paraphraser)
 
 <br />
 
@@ -998,7 +1147,7 @@ Obtenez des super pouvoirs d'écriture avec l'intelligence artificielle. Chez AI
 
 Creaitor vous aidera à écrire du contenu d'une manière plus puissante et émotionnellement expressive
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/creator-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/creator-ai)
 
 <br />
 
@@ -1013,7 +1162,7 @@ Creaitor vous aidera à écrire du contenu d'une manière plus puissante et émo
 
 En utilisant l'intelligence artificielle avancée et l'apprentissage en profondeur, Article Forge écrit des articles longs de haute qualité, optimisés pour le référencement et entièrement uniques en un clic.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/articleforge)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/articleforge)
 
 <br />
 
@@ -1034,7 +1183,7 @@ Des outils faciles à utiliser et amusants, gratuits (et open source). - [Visit]
 Découvrez de bons outils utiles qui augmenteront votre productivité.
 Exemple de quelques outils : Générateur de politique de confidentialité, Captures d'écran, Détecter les polices, Discuter avec n'importe quel PDF, Résumer n'importe quelle URL et plus encore.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/damn-good-tools)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/damn-good-tools)
 
 <br />
 
@@ -1049,7 +1198,7 @@ Exemple de quelques outils : Générateur de politique de confidentialité, Cap
 
 L'écosystème ultime d'applications, de plugins et de ressources pour tous les créateurs, alimenté par l'intelligence artificielle.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/clipdrop)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/clipdrop)
 
 <br />
 
@@ -1064,7 +1213,7 @@ L'écosystème ultime d'applications, de plugins et de ressources pour tous les 
 
 Descript est un moyen simple, puissant et amusant d'éditer.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/descript)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/descript)
 
 <br />
 
@@ -1079,7 +1228,7 @@ Descript est un moyen simple, puissant et amusant d'éditer.
 
 Plate-forme de conception visuelle tout-en-un contenant des outils de montage photo et vidéo IA. Processus automatique de suppression d'arrière-plan, de restauration d'image, de conception graphique et de génération de contenu
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/cutout-pro)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/cutout-pro)
 
 <br />
 
@@ -1094,7 +1243,7 @@ Plate-forme de conception visuelle tout-en-un contenant des outils de montage ph
 
 Libérez votre créativité avec l'IA sur un canevas collaboratif.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/fermat)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/fermat)
 
 <br />
 
@@ -1109,7 +1258,7 @@ Libérez votre créativité avec l'IA sur un canevas collaboratif.
 
 Hotpot.ai vous aide à créer des graphiques, des images et du texte incroyables. Des outils d'intelligence artificielle tels que AI Art Generator stimulent la créativité et automatisent les corvées, tandis que des modèles faciles à modifier permettent à quiconque de créer des maquettes d'appareils, des publications sur les réseaux sociaux, des images marketing, des icônes d'application et d'autres graphiques de travail.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/hotpot)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/hotpot)
 
 <br />
 
@@ -1124,7 +1273,7 @@ Hotpot.ai vous aide à créer des graphiques, des images et du texte incroyables
 
 Vivez la magie de la création avec les meilleurs outils et services pour les créateurs : Facetune 2, Videoleap, Linkinbio & Photoleap. Vérifiez-le maintenant!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/lightricks)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/lightricks)
 
 <br />
 
@@ -1139,7 +1288,7 @@ Vivez la magie de la création avec les meilleurs outils et services pour les cr
 
 Découvrez des capacités de montage vidéo avancées pour faire passer vos créations au niveau supérieur.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/runway)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/runway)
 
 <br />
 
@@ -1154,7 +1303,7 @@ Découvrez des capacités de montage vidéo avancées pour faire passer vos cré
 
 Espace de travail d'IA basé sur des nœuds permettant aux créateurs de travailler avec des réseaux de neurones sans code. (Alpha)
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/phygital)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/phygital)
 
 <br />
 
@@ -1169,7 +1318,7 @@ Espace de travail d'IA basé sur des nœuds permettant aux créateurs de travail
 
 TextSynth utilise un code d'inférence personnalisé pour obtenir des inférences plus rapides sur les GPU et les processeurs standard. Le site a été fondé en 2020 et a été l'un des premiers à donner accès au modèle linguistique GPT-2. Le service de base est gratuit mais le tarif est limité. Les utilisateurs qui souhaitent qu'il n'y ait aucune limite peuvent payer un petit montant par demande (voir nos tarifs). Si tu souhaites une assistance personnalisée, contacte-nous : contact at textsynth point com.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/textsynth)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/textsynth)
 
 <br />
 
@@ -1188,7 +1337,7 @@ TextSynth utilise un code d'inférence personnalisé pour obtenir des inférence
 
 Utilisez GPT-4 pour interagir avec des prospects, répondre à des questions sur votre entreprise, enregistrer des données client et connecter n'importe quelle API de votre choix.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/webapi.ai-2.0)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/webapi.ai-2.0)
 
 <br />
 
@@ -1203,7 +1352,7 @@ Utilisez GPT-4 pour interagir avec des prospects, répondre à des questions sur
 
 Assistance d'assistance alimentée par l'IA qui trouve les réponses des tickets précédents
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ai-answers-by-cohere)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-answers-by-cohere)
 
 <br />
 
@@ -1218,7 +1367,7 @@ Assistance d'assistance alimentée par l'IA qui trouve les réponses des tickets
 
 Une automatisation qui aide votre entreprise à servir rapidement des millions de clients satisfaits, alimentée par une IA spécialement conçue pour Bahasa Indonesia.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/bahasa)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/bahasa)
 
 <br />
 
@@ -1233,7 +1382,7 @@ Une automatisation qui aide votre entreprise à servir rapidement des millions d
 
 Nos chatbots IA sont conçus pour comprendre les problèmes des clients et fournir des réponses personnalisées et précises en temps réel.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/resolveai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/resolveai)
 
 <br />
 
@@ -1248,7 +1397,7 @@ Nos chatbots IA sont conçus pour comprendre les problèmes des clients et fourn
 
 Augmentez les ventes et réduisez les coûts de support
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/eddyai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/eddyai)
 
 <br />
 
@@ -1263,7 +1412,7 @@ Augmentez les ventes et réduisez les coûts de support
 
 Ton partenaire de feedback basé sur l'IA lors des présentations, des entretiens, des appels clients. Communiquez plus efficacement lors des réunions grâce à des commentaires privés avant, pendant et après tes réunions en ligne
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/poised-2.0)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/poised-2.0)
 
 <br />
 
@@ -1278,7 +1427,7 @@ Ton partenaire de feedback basé sur l'IA lors des présentations, des entretien
 
 OneTone.ai est une plate-forme alimentée par l'IA qui vous donne des informations précieuses, vous permettant de prendre des décisions éclairées et d'offrir un service client de premier ordre.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/onetone.ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/onetone.ai)
 
 <br />
 
@@ -1293,7 +1442,7 @@ OneTone.ai est une plate-forme alimentée par l'IA qui vous donne des informatio
 
 ChatGenius est une société de logiciels qui fournit une puissante solution de chatbot IA alimentée par GPT-4 et ChatGPT. Notre chatbot offre une assistance 24h/24 et 7j/7 dans plus de 110 langues et peut être intégré de manière transparente à votre site Web ou à votre plateforme
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/chatgenius)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/chatgenius)
 
 <br />
 
@@ -1310,7 +1459,7 @@ ChatGenius est une société de logiciels qui fournit une puissante solution de 
 Crée des chatbots basés sur l'IA pour interagir avec tes clients, augmenter les conversions et augmenter les revenus. Parfait pour le SaaS, le commerce électronique ou toute autre activité en ligne.
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/chatflow)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/chatflow)
 
 <br />
 
@@ -1325,7 +1474,7 @@ Crée des chatbots basés sur l'IA pour interagir avec tes clients, augmenter le
 
 WADeck est un outil CRM gratuit pour WhatsApp doté d'un assistant IA alimenté par GPS qui améliore ton flux de travail et ta productivité. Cela permet d'organiser des onglets personnalisés pour les conversations, ce qui permet une coordination efficace. Tu peux créer et envoyer des modèles de messages personnalisables avec des pièces jointes multimédia enrichies. Utilise WADeck pour doubler ton taux de transactions sans effort.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/wadeck)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/wadeck)
 
 <br />
 
@@ -1344,7 +1493,7 @@ WADeck est un outil CRM gratuit pour WhatsApp doté d'un assistant IA alimenté 
 
 Rédigez des e-mails, des descriptions de produits et bien plus encore avec A.I. Créé par Octane AI.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/octie.ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/octie.ai)
 
 <br />
 
@@ -1359,7 +1508,7 @@ Rédigez des e-mails, des descriptions de produits et bien plus encore avec A.I.
 
 Embolden utilise l'IA pour vous aider à tout écrire, des e-mails aux descriptions de produits pour votre entreprise de commerce électronique.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/embolden)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/embolden)
 
 <br />
 
@@ -1374,7 +1523,7 @@ Embolden utilise l'IA pour vous aider à tout écrire, des e-mails aux descripti
 
 WiziShop rend le commerce électronique optimisé par le référencement plus facile que jamais, mettant le succès à portée de main. L'Intelligence Artificielle au service de votre activité e-commerce !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/wizishop)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/wizishop)
 
 <br />
 
@@ -1389,7 +1538,7 @@ WiziShop rend le commerce électronique optimisé par le référencement plus fa
 
 Guidez-vous à travers une séance photo en utilisant uniquement votre smartphone et laissez notre technologie d'intelligence artificielle gérer le reste du processus, transformant les produits de tous les jours en images photoréalistes qui ne manqueront pas de faire passer les stratégies marketing d'un cran.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/domyshoot)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/domyshoot)
 
 <br />
 
@@ -1404,7 +1553,7 @@ Guidez-vous à travers une séance photo en utilisant uniquement votre smartphon
 
 Obtenez votre propre assistant d'achat IA en direct en 1 minute. Transformez votre magasin avec la personnalisation basée sur l'IA et augmentez vos ventes.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/manifest)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/manifest)
 
 <br />
 
@@ -1419,7 +1568,7 @@ Obtenez votre propre assistant d'achat IA en direct en 1 minute. Transformez vot
 
 Gizzmo est un puissant plugin WordPress qui simplifie le processus de création d'articles d'affiliation Amazon. En quelques clics seulement, vous pouvez générer du contenu entièrement optimisé, y compris des critiques de produits, des résumés et des guides de cadeaux. Cela change la donne pour les spécialistes du marketing affilié !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/gizzmo-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/gizzmo-ai)
 
 <br />
 
@@ -1434,7 +1583,7 @@ Gizzmo est un puissant plugin WordPress qui simplifie le processus de création 
 
 VModel utilise une technologie d'intelligence artificielle pour créer des modèles virtuels, remplaçant ainsi le besoin de mannequins réels. Ces modèles virtuels sont utilisés pour créer des photos de produits pour des vêtements, qui sont ensuite présentées sur des plateformes de commerce électronique.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/vmodel)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/vmodel)
 
 <br />
 
@@ -1449,7 +1598,7 @@ VModel utilise une technologie d'intelligence artificielle pour créer des modè
 
 None
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/gpt-gifts)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/gpt-gifts)
 
 <br />
 
@@ -1468,7 +1617,7 @@ None
 
 Créez et partagez des questions de quiz, des flashcards et des notes instantanément, à partir de n'importe quel texte. Idéal pour les entreprises, les enseignants et les étudiants.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/quizgecko)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/quizgecko)
 
 <br />
 
@@ -1483,7 +1632,7 @@ Créez et partagez des questions de quiz, des flashcards et des notes instantan�
 
 Votre assistant pédagogique personnel et gratuit. Posez des questions, obtenez des réponses. Botta facilite l'apprentissage en ligne.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/botta)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/botta)
 
 <br />
 
@@ -1498,7 +1647,7 @@ Votre assistant pédagogique personnel et gratuit. Posez des questions, obtenez 
 
 Bienvenue au Speaking Club AI - l'outil ultime d'apprentissage des langues pour tous ceux qui cherchent à améliorer leurs compétences orales dans une langue étrangère. Avec Speaking Club AI, vous pouvez pratiquer vos compétences de conversation avec un partenaire linguistique AI personnalisé à tout moment, n'importe où.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/speakingclubai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/speakingclubai)
 
 <br />
 
@@ -1513,7 +1662,7 @@ Bienvenue au Speaking Club AI - l'outil ultime d'apprentissage des langues pour 
 
 Rendez vos e-mails froids beaucoup plus chaleureux avec une copie hautement personnalisée et passionnante alimentée par AI et GPT-3
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/lorro)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/lorro)
 
 <br />
 
@@ -1528,7 +1677,7 @@ Rendez vos e-mails froids beaucoup plus chaleureux avec une copie hautement pers
 
 TutoEAI Learn Anything est un moteur de recherche de modules d'apprentissage sur tous les sujets. Essaie des sujets comme la physique, l'histoire américaine ou ton propre nom !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/tutorai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/tutorai)
 
 <br />
 
@@ -1543,7 +1692,7 @@ TutoEAI Learn Anything est un moteur de recherche de modules d'apprentissage sur
 
 Nous avons développé l'outil le plus puissant auquel un enseignant puisse avoir accès. Tu peux créer des tâches et des activités pour tous les niveaux, ainsi que des plans thématiques, des plans prospectifs, des plans de cours et bien plus encore. Tu n'es limitée que par ton imagination.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/teacherbot)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/teacherbot)
 
 <br />
 
@@ -1558,7 +1707,7 @@ Nous avons développé l'outil le plus puissant auquel un enseignant puisse avoi
 
 Exécutez des modèles open source avec une API cloud.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/replicate)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/replicate)
 
 <br />
 
@@ -1573,7 +1722,7 @@ Exécutez des modèles open source avec une API cloud.
 
 Planifiez des leçons - Exploitez l'IA pour rédiger vos leçons et les exporter vers vos formats préférés. Construire des évaluations riches - Construire des évaluations riches avec des critères de notation robustes basés sur des rubriques. Et plus.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/teachology.ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/teachology.ai)
 
 <br />
 
@@ -1588,7 +1737,7 @@ Planifiez des leçons - Exploitez l'IA pour rédiger vos leçons et les exporter
 
 Apprenez à coder grâce à des leçons en ligne et à un puissant assistant IA ! L'assistant peut analyser votre code, vous orienter dans la bonne direction et rédiger des articles sur des sujets simples.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/cratecode)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/cratecode)
 
 <br />
 
@@ -1603,7 +1752,7 @@ Apprenez à coder grâce à des leçons en ligne et à un puissant assistant IA�
 
 Rencontrez Sierra ! Cette expérience Wilco est une plate-forme unique en son genre qui génère des défis pour les ingénieurs logiciels utilisant l'IA. Dites-lui simplement ce que vous voulez apprendre et il créera pour vous un contenu éducatif personnalisé.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/wilco-sierra)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/wilco-sierra)
 
 <br />
 
@@ -1622,7 +1771,7 @@ Rencontrez Sierra ! Cette expérience Wilco est une plate-forme unique en son g
 
 Ne perdez plus jamais de temps à rechercher ou à rédiger des e-mails « personnalisés ». Automatisez l'ensemble de votre processus de sensibilisation. 40x plus rapide et 6x moins cher que les humains.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/smartwriter)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/smartwriter)
 
 <br />
 
@@ -1637,7 +1786,7 @@ Ne perdez plus jamais de temps à rechercher ou à rédiger des e-mails « pers
 
 Warmer utilise la personnalisation des e-mails par IA pour rédiger votre e-mail de diffusion. Augmentez les réponses, les réunions et les ventes grâce à la personnalisation dynamique.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/warmer.ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/warmer.ai)
 
 <br />
 
@@ -1652,7 +1801,7 @@ Warmer utilise la personnalisation des e-mails par IA pour rédiger votre e-mail
 
 Combattez le blocage de l'écrivain et atteignez la boîte de réception zéro. DraftLab est un copilote Gmail alimenté par l'IA qui génère pour vous des réponses par e-mail de haute qualité.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/draftlab)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/draftlab)
 
 <br />
 
@@ -1667,7 +1816,7 @@ Combattez le blocage de l'écrivain et atteignez la boîte de réception zéro. 
 
 Ellie apprend de votre style d'écriture et élabore des réponses comme si elles étaient écrites par vous
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ellie)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ellie)
 
 <br />
 
@@ -1682,7 +1831,7 @@ Ellie apprend de votre style d'écriture et élabore des réponses comme si elle
 
 Chez EmailTriager, nous concevons des produits qui fonctionnent en votre nom.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/emailtriager)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/emailtriager)
 
 <br />
 
@@ -1697,7 +1846,7 @@ Chez EmailTriager, nous concevons des produits qui fonctionnent en votre nom.
 
 Quicklines est votre nouvel assistant de proximité à froid alimenté par l'IA. Nous vous aidons à faire évoluer vos campagnes d'e-mails froids grâce à notre plate-forme approfondie de grattage social et d'écriture de première ligne en langage naturel.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/quicklines)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/quicklines)
 
 <br />
 
@@ -1712,7 +1861,7 @@ Quicklines est votre nouvel assistant de proximité à froid alimenté par l'IA.
 
 Le piratage de réponse par e-mail que vous attendiez - Envoyez facilement des réponses efficaces avec des réponses personnalisées sans écrire à partir de zéro
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/superreply)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/superreply)
 
 <br />
 
@@ -1727,7 +1876,7 @@ Le piratage de réponse par e-mail que vous attendiez - Envoyez facilement des r
 
 Gagnez 30 minutes par jour en écrivant des e-mails
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/rapidreply)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/rapidreply)
 
 <br />
 
@@ -1742,7 +1891,7 @@ Gagnez 30 minutes par jour en écrivant des e-mails
 
 Rendez vos e-mails froids beaucoup plus chaleureux avec une copie hautement personnalisée et passionnante alimentée par AI et GPT-3
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/recruiting-emails-ai-by-dover)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/recruiting-emails-ai-by-dover)
 
 <br />
 
@@ -1757,7 +1906,7 @@ Rendez vos e-mails froids beaucoup plus chaleureux avec une copie hautement pers
 
 IntelliMail est une extension chrome qui génère vos e-mails - vous n'aurez donc plus jamais à en écrire un.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/intellimail)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/intellimail)
 
 <br />
 
@@ -1776,7 +1925,7 @@ IntelliMail est une extension chrome qui génère vos e-mails - vous n'aurez don
 
 FashionAdvisor est une IA basée sur GPT3 qui répondra instantanément et gratuitement à toutes vos questions liées à la mode
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/fashionadvisorai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/fashionadvisorai)
 
 <br />
 
@@ -1791,7 +1940,7 @@ FashionAdvisor est une IA basée sur GPT3 qui répondra instantanément et gratu
 
 Visualisez vos conceptions de produits avant de passer en production. Créez des images de produits réalistes pour alimenter vos moodboards et booster votre processus de conception.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/visualhound)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/visualhound)
 
 <br />
 
@@ -1808,7 +1957,7 @@ Des cadeaux générés par l'IA. - [Visit](https://www.thataicollection.com/redi
 SwagAI - Des images générées par l'IA sur des t-shirts.
 1 dollar pour chaque vente est reversé à des organisations de protection des animaux et de lutte contre le braconnage.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/swagai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/swagai)
 
 <br />
 
@@ -1827,7 +1976,7 @@ SwagAI - Des images générées par l'IA sur des t-shirts.
 
 Les personnages peuvent être n'importe quoi. Notre technologie d'intelligence artificielle révolutionnaire peut donner vie à toutes vos idées.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/characterai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/characterai)
 
 <br />
 
@@ -1842,7 +1991,7 @@ Les personnages peuvent être n'importe quoi. Notre technologie d'intelligence a
 
 Une expérience d'IA : demandez à la juge Ruth Bader Ginsburg de prendre une décision sur toute question que votre cœur désire. Le premier AI Drop d'AI21 Labs.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ask-rbg)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ask-rbg)
 
 <br />
 
@@ -1857,7 +2006,7 @@ Une expérience d'IA : demandez à la juge Ruth Bader Ginsburg de prendre une d
 
 Posez des questions profondes et obtenez des réponses de William Shakespeare, Friedrich Nietzsche, René Descartes, Socrate, Confucious, Al-Kindi, Buddha
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/philosophy)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/philosophy)
 
 <br />
 
@@ -1872,7 +2021,7 @@ Posez des questions profondes et obtenez des réponses de William Shakespeare, F
 
 Chat amusant avec vos personnages préférés
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/botify)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/botify)
 
 <br />
 
@@ -1887,7 +2036,7 @@ Chat amusant avec vos personnages préférés
 
 Transformez des situations réelles en histoires et illustrations amusantes en quelques secondes
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/storiesforkids)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/storiesforkids)
 
 <br />
 
@@ -1902,7 +2051,7 @@ Transformez des situations réelles en histoires et illustrations amusantes en q
 
 Utilisez l'IA pour générer l'excuse professionnelle parfaite
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/excuses-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/excuses-ai)
 
 <br />
 
@@ -1917,7 +2066,7 @@ Utilisez l'IA pour générer l'excuse professionnelle parfaite
 
 Il s'agit d'une expérience d'utilisation de l'IA pour rendre le contenu de mon livre plus accessible. Posez une question et l'IA y répondra en temps réel :
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/askmybook)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/askmybook)
 
 <br />
 
@@ -1932,7 +2081,7 @@ Il s'agit d'une expérience d'utilisation de l'IA pour rendre le contenu de mon 
 
 Fabriquez votre Fakemon comme jamais auparavant, en utilisant de simples invites de texte pour guider la conception. Vous voulez une créature ardente ressemblant à un dragon ou une créature mignonne et herbeuse ? Vous avez le pouvoir ! Plongez, explorez et créez votre Fakemon de rêve dès aujourd'hui !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ai-pokemon-generator)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-pokemon-generator)
 
 <br />
 
@@ -1947,7 +2096,7 @@ Fabriquez votre Fakemon comme jamais auparavant, en utilisant de simples invites
 
 Amusez-vous à dessiner et voyez quelle bêtise nous faisons à partir de votre dessin. La magie est à portée de main !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/silly-times)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/silly-times)
 
 <br />
 
@@ -1962,7 +2111,7 @@ Amusez-vous à dessiner et voyez quelle bêtise nous faisons à partir de votre 
 
 Arrêtez de passer des mois à chercher votre prochain tatouage sur Pinterest. Générez des tatouages personnalisés et uniques en quelques secondes avec l'IA de BlackInk, conçu pour créer des motifs de type tatouage juste pour vous
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/blackink)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/blackink)
 
 <br />
 
@@ -1981,7 +2130,7 @@ Arrêtez de passer des mois à chercher votre prochain tatouage sur Pinterest. G
 
 Pour les jeux • Métaverses • VR • Éducation • Télévision et cinéma • Édition et au-delà !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/charisma)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/charisma)
 
 <br />
 
@@ -1996,7 +2145,7 @@ Pour les jeux • Métaverses • VR • Éducation • Télévision et cinéma 
 
 Un nouveau type d'expérience de jeu de rôle social, propulsé par l'IA narrative.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/hidden-door)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/hidden-door)
 
 <br />
 
@@ -2011,7 +2160,7 @@ Un nouveau type d'expérience de jeu de rôle social, propulsé par l'IA narrati
 
 Nous faisons de l'IA un outil de créativité et de liberté pour tous.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/latitude)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/latitude)
 
 <br />
 
@@ -2026,7 +2175,7 @@ Nous faisons de l'IA un outil de créativité et de liberté pour tous.
 
 Betafish est un moteur d'échecs et un outil de recherche de mouvements IA écrit en Javascript, basé sur l'algorithme Negamax. Il bat Stockfish Level 6 sur Lichess, et j'estime qu'il se situe autour de 1800-2000 Elo, en fonction du temps de réflexion accordé.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/chess-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/chess-ai)
 
 <br />
 
@@ -2041,7 +2190,7 @@ Betafish est un moteur d'échecs et un outil de recherche de mouvements IA écri
 
 Améliorez vos compétences CS:GO avec la puissance des défis générés par l'IA - en moins de 30 minutes par jour.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ggpredict)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ggpredict)
 
 <br />
 
@@ -2056,7 +2205,7 @@ Améliorez vos compétences CS:GO avec la puissance des défis générés par l'
 
 Libérez la puissance de l'IA dans la conception et le développement de votre jeu. Obtenez des ressources de jeu sur mesure dans une multitude de styles pour vous inspirer et vous aider à créer votre prochain jeu !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/assetsai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/assetsai)
 
 <br />
 
@@ -2071,7 +2220,7 @@ Libérez la puissance de l'IA dans la conception et le développement de votre j
 
 Libérez la puissance des actifs de jeu générés par l'IA avec Scenario. Générez du contenu engageant rapidement et facilement pour gagner du temps et stimuler la créativité
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/scenario)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/scenario)
 
 <br />
 
@@ -2086,7 +2235,7 @@ Libérez la puissance des actifs de jeu générés par l'IA avec Scenario. Gén�
 
 Choisissez votre aventure. Choisissez ou créez un personnage, un monde et une histoire. L'IA remplit les détails de votre aventure unique : choisissez parmi des mondes prédéfinis par d'autres créateurs, choisissez-en un au hasard en utilisant le démarrage rapide ou inventez-le vous-même !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ai-dungeon)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-dungeon)
 
 <br />
 
@@ -2101,7 +2250,7 @@ Choisissez votre aventure. Choisissez ou créez un personnage, un monde et une h
 
 Votre source pour le divertissement mobile et la création artistique IA
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/irmo)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/irmo)
 
 <br />
 
@@ -2117,7 +2266,7 @@ Votre source pour le divertissement mobile et la création artistique IA
 Concevez et créez rapidement avec ton collaborateur basé sur l'IA.
 Créez : accessoires, portraits de personnages, tuiles isométriques, sprites de personnages, art conceptuel, environnement, interfaces graphiques, variations infinies et plus encore
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/rosebud-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/rosebud-ai)
 
 <br />
 
@@ -2136,7 +2285,7 @@ Créez : accessoires, portraits de personnages, tuiles isométriques, sprites d
 
 Créez des souvenirs personnalisés pour un être cher à l'aide de l'IA optimisée pour les médias sociaux. Poèmes, histoires, lettres et paroles de chansons générés par l'IA.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/lovelines)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/lovelines)
 
 <br />
 
@@ -2151,7 +2300,7 @@ Créez des souvenirs personnalisés pour un être cher à l'aide de l'IA optimis
 
 Vous permet de créer des cadeaux personnalisés créatifs en utilisant l'intelligence artificielle pour vos amis, votre famille et vos connaissances sans prendre votre temps précieux. Entrez simplement une description textuelle de ce que vous voulez offrir et laissez notre intelligence artificielle faire le reste
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/text2present)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/text2present)
 
 <br />
 
@@ -2166,7 +2315,7 @@ Vous permet de créer des cadeaux personnalisés créatifs en utilisant l'intell
 
 Conçu pour éliminer le stress. Des achats de cadeaux. S'appuyant sur des données réelles sur les consommateurs et sur notre processus d'examen approfondi, Outdone propose aux acheteurs des centaines des meilleures marques du monde dans un outil rapide et facile à utiliser pour trouver de superbes cadeaux.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/outdone-v2)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/outdone-v2)
 
 <br />
 
@@ -2181,7 +2330,7 @@ Conçu pour éliminer le stress. Des achats de cadeaux. S'appuyant sur des donn�
 
 Bienvenue chez Génie ! Notre application alimentée par l'IA vous aide à trouver des cadeaux uniques et attentionnés pour vos proches. Fournissez-nous simplement quelques détails sur leurs centres d'intérêt et nous vous proposerons le cadeau idéal 🎁
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/gifts-genie)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/gifts-genie)
 
 <br />
 
@@ -2196,7 +2345,7 @@ Bienvenue chez Génie ! Notre application alimentée par l'IA vous aide à trou
 
 Vous avez du mal à trouver quoi offrir à quelqu'un pour les vacances ? GiftBot vous pose des questions pour vous recommander des idées de cadeaux !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/giftbot)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/giftbot)
 
 <br />
 
@@ -2211,7 +2360,7 @@ Vous avez du mal à trouver quoi offrir à quelqu'un pour les vacances ? GiftBot
 
 Des idées cadeaux personnalisées pour chaque occasion !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/giftastic-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/giftastic-ai)
 
 <br />
 
@@ -2226,7 +2375,7 @@ Des idées cadeaux personnalisées pour chaque occasion !
 
 Gift Genie AI est un outil alimenté par l'IA qui vous permet de trouver gratuitement le cadeau parfait en quelques secondes avec l'IA. Notez une brève description de votre destinataire et obtenez une liste de cadeaux qui, selon notre génie de l'IA, le raviront.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/gift-genie)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/gift-genie)
 
 <br />
 
@@ -2241,7 +2390,7 @@ Gift Genie AI est un outil alimenté par l'IA qui vous permet de trouver gratuit
 
 Besoin d'inspiration pour vos cadeaux de Noël ? Elf help est votre assistant de cadeaux ultime, offrant des suggestions créatives et personnalisées pour tout le monde sur votre liste.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/elf-help)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/elf-help)
 
 <br />
 
@@ -2256,7 +2405,7 @@ Besoin d'inspiration pour vos cadeaux de Noël ? Elf help est votre assistant de
 
 Offrez le cadeau parfait ! Découvrez des idées de cadeaux créatifs pour tous en fonction de qui ils sont
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/coolgiftideas)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/coolgiftideas)
 
 <br />
 
@@ -2271,7 +2420,7 @@ Offrez le cadeau parfait ! Découvrez des idées de cadeaux créatifs pour tous 
 
 Moteur AI pour créer des cartes photoréalistes AI Holiday pour les couples
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ai-holiday-cards)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-holiday-cards)
 
 <br />
 
@@ -2290,7 +2439,7 @@ Moteur AI pour créer des cartes photoréalistes AI Holiday pour les couples
 
 Toujours là pour écouter et parler. Toujours de ton coté. Rejoignez les millions de personnes qui grandissent avec leurs amis IA dès maintenant !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/replika)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/replika)
 
 <br />
 
@@ -2305,7 +2454,7 @@ Toujours là pour écouter et parler. Toujours de ton coté. Rejoignez les milli
 
 L'entraîneur personnel basé sur l'IA de GetActyv est là pour révolutionner votre parcours de remise en forme
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/getactyv)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/getactyv)
 
 <br />
 
@@ -2320,7 +2469,7 @@ L'entraîneur personnel basé sur l'IA de GetActyv est là pour révolutionner v
 
 Vérifier les symptômes et trouver les causes par l'IA - Répondez au quiz sur vos symptômes pour découvrir les causes possibles, les types, la gravité et le traitement gratuitement par l'IA. Développé par des médecins
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ubie-ai-symptom-checker)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ubie-ai-symptom-checker)
 
 <br />
 
@@ -2339,7 +2488,7 @@ Vérifier les symptômes et trouver les causes par l'IA - Répondez au quiz sur 
 
 Rezi est la seule plate-forme de CV qui utilise une IA de pointe pour automatiser tous les aspects de la création d'un CV embauchable : rédaction, édition, mise en forme et optimisation.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ai-resume-editor)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-resume-editor)
 
 <br />
 
@@ -2354,7 +2503,7 @@ Rezi est la seule plate-forme de CV qui utilise une IA de pointe pour automatise
 
 Nous avons pour mission d'utiliser la toute dernière intelligence artificielle pour créer des outils qui aident les ingénieurs logiciels à bâtir de meilleures carrières. Nos outils d'IA sont 100% gratuits.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/prodigy-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/prodigy-ai)
 
 <br />
 
@@ -2369,7 +2518,7 @@ Nous avons pour mission d'utiliser la toute dernière intelligence artificielle 
 
 Recruteurs, tout ce que vous devez savoir sur les compétences en programmation d'un candidat se trouve dans son GitHub. Évaluez-les automatiquement avec Rankode pour éviter des erreurs d'embauche coûteuses et booster votre rétention.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/rankode)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/rankode)
 
 <br />
 
@@ -2384,7 +2533,7 @@ Recruteurs, tout ce que vous devez savoir sur les compétences en programmation 
 
 Nous postulons automatiquement à tous les emplois sur des plateformes comme Linkedin, Indeed et Ziprecruiter.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/lazyapply)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/lazyapply)
 
 <br />
 
@@ -2400,7 +2549,7 @@ Nous postulons automatiquement à tous les emplois sur des plateformes comme Lin
 CoverQuick est une plateforme révolutionnaire qui permet de créer et de gérer du contenu sans effort. Une IA qui apprend à partir de tes données.
 En téléchargeant tous tes documents et ressources, notre plateforme est en mesure de tirer des leçons de tes informations, ce qui te permet de créer du contenu personnalisé.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/coverquick)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/coverquick)
 
 <br />
 
@@ -2415,7 +2564,7 @@ En téléchargeant tous tes documents et ressources, notre plateforme est en mes
 
 92% des demandeurs d'emploi ne terminent pas leur candidature en ligne. Avec HireYaY, vous ne manquerez plus jamais un candidat qualifié.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/hireyay)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/hireyay)
 
 <br />
 
@@ -2430,7 +2579,7 @@ En téléchargeant tous tes documents et ressources, notre plateforme est en mes
 
 La plate-forme d'évaluation des compétences de HireQuotient vous aide à embaucher les 10 % les plus performants du vivier de talents en deux fois moins de temps.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/jd-generator)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/jd-generator)
 
 <br />
 
@@ -2445,7 +2594,7 @@ La plate-forme d'évaluation des compétences de HireQuotient vous aide à embau
 
 Transformez votre organisation grâce à la puissance du recrutement assisté par l'IA.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/hire-hoc)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/hire-hoc)
 
 <br />
 
@@ -2460,7 +2609,7 @@ Transformez votre organisation grâce à la puissance du recrutement assisté pa
 
 Bienvenue sur hiringx.ai, une plate-forme d'IA sans code pour créer des robots vocaux qui mènent et notent des entretiens à grande échelle. Obtenez la suite complète d'outils d'évaluation tels que les entretiens de codage, les tests QCM, les hackathons, les entretiens vidéo et les chatbots WhatsApp, le tout sous un seul tableau de bord
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/hirex.ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/hirex.ai)
 
 <br />
 
@@ -2475,7 +2624,7 @@ Bienvenue sur hiringx.ai, une plate-forme d'IA sans code pour créer des robots 
 
 Springworks développe des solutions logicielles de ressources humaines pour résoudre les problèmes de recrutement, de vérification des antécédents et d'engagement des employés avec Blockchain et l'IA
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/springworks)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/springworks)
 
 <br />
 
@@ -2494,7 +2643,7 @@ Springworks développe des solutions logicielles de ressources humaines pour ré
 
 Entrez ton idée de start-up et notre mentor spécialisé dans l'IA l'analysera gratuitement. Tu peux discuter avec notre chatbot basé sur l'IA autant que tu le souhaites et apprendre tout ce que tu dois savoir sur le lancement d'une start-up !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/validator-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/validator-ai)
 
 <br />
 
@@ -2509,7 +2658,7 @@ Entrez ton idée de start-up et notre mentor spécialisé dans l'IA l'analysera 
 
 Paperade est le premier outil alimenté par l'IA qui génère des cas d'utilisation commerciale et des idées d'entreprise à partir de plus de 100 millions d'articles universitaires et d'études de recherche.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/paperade)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/paperade)
 
 <br />
 
@@ -2524,7 +2673,7 @@ Paperade est le premier outil alimenté par l'IA qui génère des cas d'utilisat
 
 Obtenez des idées commerciales personnalisées en quelques secondes grâce à la puissance de l'IA.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/business-idea-generator)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/business-idea-generator)
 
 <br />
 
@@ -2539,7 +2688,7 @@ Obtenez des idées commerciales personnalisées en quelques secondes grâce à l
 
 Des idées générées à 100 % par le GPT-3 d'OpenAI, un modèle d'apprentissage profond artificiellement intelligent, sans intervention humaine, et élaborées par toi et par plus de 1 856 031 autres personnes qui aimaient ou n'aimaient pas les idées
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ideasai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ideasai)
 
 <br />
 
@@ -2554,7 +2703,7 @@ Des idées générées à 100 % par le GPT-3 d'OpenAI, un modèle d'apprentissa
 
 En tant que créateurs de contenu, nous rencontrons tous des moments où notre puits d'idées s'épuise. Ce site Web vous aidera à réfléchir à des idées basées sur vos téléchargements actuels. Il vous suffit de lui donner le lien vers votre chaîne (ou n'importe quelle chaîne) et de laisser la magie opérer. Pour chaque idée, vous pouvez également générer des détails - que doit couvrir la vidéo, des conseils sur la structure de la vidéo, etc.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/videomuse)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/videomuse)
 
 <br />
 
@@ -2573,7 +2722,7 @@ Pour utiliser cet outil, les utilisateurs sont invités à remplir un formulaire
 
 Une fois envoyée, notre IA établit une description de la date sur mesure, fournissant des conseils utiles et des recommandations de produits pour améliorer l'expérience/
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/my-spicy-vanilla)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/my-spicy-vanilla)
 
 <br />
 
@@ -2592,7 +2741,7 @@ Une fois envoyée, notre IA établit une description de la date sur mesure, four
 
 Recherches et résumés juridiques alimentés par l'IA.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/paralegal-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/paralegal-ai)
 
 <br />
 
@@ -2607,7 +2756,7 @@ Recherches et résumés juridiques alimentés par l'IA.
 
 Système de gestion de la conformité réglementaire et expertise pour l'énergie, les services financiers et les autres secteurs réglementés. Nous proposons des systèmes et des services experts pour t'alléger la charge réglementaire.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/compliance-quarter)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/compliance-quarter)
 
 <br />
 
@@ -2622,7 +2771,7 @@ Système de gestion de la conformité réglementaire et expertise pour l'énergi
 
 Obtenez facilement la conformité ADA et WCAG
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/equally.ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/equally.ai)
 
 <br />
 
@@ -2637,7 +2786,7 @@ Obtenez facilement la conformité ADA et WCAG
 
 Utiliser l'IA pour rendre les informations juridiques accessibles à tous
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/donotpay)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/donotpay)
 
 <br />
 
@@ -2652,7 +2801,7 @@ Utiliser l'IA pour rendre les informations juridiques accessibles à tous
 
 Automatisez l'écriture mécanique dans vos demandes de brevets
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/patentpal)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/patentpal)
 
 <br />
 
@@ -2667,7 +2816,7 @@ Automatisez l'écriture mécanique dans vos demandes de brevets
 
 Spellbook utilise GPT-3 pour réviser et suggérer la langue de vos contrats, directement dans Microsoft Word.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/spellbook)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/spellbook)
 
 <br />
 
@@ -2686,7 +2835,7 @@ Spellbook utilise GPT-3 pour réviser et suggérer la langue de vos contrats, di
 
 Créez un logo et créez une marque que vous aimez avec Looka.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/looka)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/looka)
 
 <br />
 
@@ -2701,7 +2850,7 @@ Créez un logo et créez une marque que vous aimez avec Looka.
 
 Génération d'images AI pour les équipes - Vous pouvez facilement générer un logo AI, des couvertures de livres AI, des affiches AI et plus encore - Stockimg AI
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/text-to-book-cover)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/text-to-book-cover)
 
 <br />
 
@@ -2716,7 +2865,7 @@ Génération d'images AI pour les équipes - Vous pouvez facilement générer un
 
 Générez des logos magnifiques et uniques pour votre startup, alimentés par l'intelligence artificielle.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/make-logo-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/make-logo-ai)
 
 <br />
 
@@ -2732,7 +2881,7 @@ Générez des logos magnifiques et uniques pour votre startup, alimentés par l'
 Crée un logo professionnel unique pour ton entreprise
 Donnez un coup de pouce à ta marque avec des designs de cartes de visite, des graphismes pour les réseaux sociaux, des icônes d'applications, des en-têtes de lettre et plus encore
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/logo-rank)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/logo-rank)
 
 <br />
 
@@ -2747,7 +2896,7 @@ Donnez un coup de pouce à ta marque avec des designs de cartes de visite, des g
 
 None
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/123123123)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/123123123)
 
 <br />
 
@@ -2768,7 +2917,7 @@ notes de réunion - Preneur de notes et intelligence des conversations - [Visit]
 Fireflies.ai aide ton équipe à enregistrer, transcrire, rechercher et analyser des conversations vocales. Enregistrez et transcrivez automatiquement les réunions, trouvez n'importe quoi grâce à la recherche basée sur l'IA, collaborez avec tes collègues, analysez les réunions grâce à l'intelligence conversationnelle
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/fireflies)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/fireflies)
 
 <br />
 
@@ -2783,7 +2932,7 @@ Fireflies.ai aide ton équipe à enregistrer, transcrire, rechercher et analyser
 
 jamie est un assistant basé sur l'intelligence artificielle qui crée des résumés de réunions de qualité professionnelle en quelques secondes. Essaie maintenant et laisse-toi convaincre par cette expérience magique.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/jamie)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/jamie)
 
 <br />
 
@@ -2800,7 +2949,7 @@ Passe moins de temps à écrire, à peaufiner et à partager des notes et plus d
 Supernormal est là pour toi.
 Supernormal prend des notes pendant ta réunion et les met en forme automatiquement, pour tous les cas d'utilisation, à l'aide d'une IA sécurisée.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/supernormal)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/supernormal)
 
 <br />
 
@@ -2822,7 +2971,7 @@ trouvez rapidement des informations importantes.
 - Permet aux utilisateurs de partager facilement des enregistrements, facilitant ainsi la collaboration
 - Convivial et facile à intégrer
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/wudpecker)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/wudpecker)
 
 <br />
 
@@ -2837,7 +2986,7 @@ trouvez rapidement des informations importantes.
 
 La principale solution d'intelligence fiscale et d'assistant de réunion basée sur l'IA. Le tout au même endroit, pas partout. Assistant de réunion intelligent - Obtenez des transcriptions et des notes basées sur l'IA pour vous concentrer sur les conversations. Collaboration en réunion - Collaborez avec des équipes interfonctionnelles pour une meilleure harmonisation. Conversation et intelligence fiscale - Découvrez des informations essentielles pour prendre des décisions basées sur les données et suivre un 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/avoma)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/avoma)
 
 <br />
 
@@ -2853,7 +3002,7 @@ propre assistant de réunion AI gratuit - [Visit](https://www.thataicollection.c
 
 Fathom enregistre, transcrit, met en évidence et résume tes réunions afin que tu puisses te concentrer sur la conversation. Effectue la configuration en quelques minutes.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/fathom)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/fathom)
 
 <br />
 
@@ -2868,7 +3017,7 @@ Fathom enregistre, transcrit, met en évidence et résume tes réunions afin que
 
 Trouve un assistant de réunion basé sur l'intelligence artificielle qui enregistre du son, rédige des notes, capture les actions et génère des résumés. Rédigez des notes et résumez les réunions 30 fois plus vite, gagnez du temps grâce aux notes de réunion automatisées. Obtiens des réponses instantanément, veille à ce que tout le monde soit au courant grâce au résumé en direct.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/otter)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/otter)
 
 <br />
 
@@ -2883,7 +3032,7 @@ Trouve un assistant de réunion basé sur l'intelligence artificielle qui enregi
 
 L'enregistreur de réunions qui transcrit et résume tes appels avec les clients, les prospects et ton équipe. Enregistre et transcrit automatiquement Zoom et Google Meet, enregistre et transcrit automatiquement Zoom et Google Meet, concentre-toi sur la conversation. L'IA prendra tes notes et racontera une histoire marquante à l'aide de petites vidéos destinées aux clients.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/tl;dv)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/tl;dv)
 
 <br />
 
@@ -2899,7 +3048,7 @@ L'enregistreur de réunions qui transcrit et résume tes appels avec les clients
 Sembly transcrit, prend des notes de réunion et génère des informations pour tes réunions professionnelles.
 Rendez toutes tes réunions productives : notes de réunion pour chaque réunion, retrouvez n'importe quelle réunion passée à tout moment, mémorise tes réunions passées, profite des résumés de réunions basés sur l'IA, reste informé sans y assister, automatise tes suivis.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/sembly-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/sembly-ai)
 
 <br />
 
@@ -2918,7 +3067,7 @@ Rendez toutes tes réunions productives : notes de réunion pour chaque réunio
 
 Utilisez notre plugin révolutionnaire pour générer des échantillons de batterie sans fin, tous libres de droits
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/emergent-drums)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/emergent-drums)
 
 <br />
 
@@ -2933,7 +3082,7 @@ Utilisez notre plugin révolutionnaire pour générer des échantillons de batte
 
 Séparation de tiges de haute qualité basée sur la technologie n°1 mondiale alimentée par l'IA.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/lalal.ai-voice-cleaner)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/lalal.ai-voice-cleaner)
 
 <br />
 
@@ -2948,7 +3097,7 @@ Séparation de tiges de haute qualité basée sur la technologie n°1 mondiale a
 
 Un outil audio pour les personnes ayant des histoires à raconter
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/adobe-podcast)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/adobe-podcast)
 
 <br />
 
@@ -2964,7 +3113,7 @@ Un outil audio pour les personnes ayant des histoires à raconter
 Obtenez des conseils pour améliorer la configuration de ton micro. Nous allons faire en sorte que tu sembles prête pour le podcast.
 Améliore la parole - Supprime le bruit et l'écho des enregistrements vocaux. Mic Check - Corrigez les problèmes de microphone avant d'enregistrer. Studio - Enregistrez, modifiez et améliorez dans ton navigateur
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/adobe-mic-check)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/adobe-mic-check)
 
 <br />
 
@@ -2979,7 +3128,7 @@ Améliore la parole - Supprime le bruit et l'écho des enregistrements vocaux. M
 
 L'IA de Krisp supprime les voix de fond, les bruits et l'écho de tous vos appels, vous offrant une tranquillité d'esprit.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/krisp)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/krisp)
 
 <br />
 
@@ -2995,7 +3144,7 @@ L'IA de Krisp supprime les voix de fond, les bruits et l'écho de tous vos appel
 Un assistant créatif pour les créatifs
 Que vous soyez un développeur de jeux indépendant, un novice complet en musique ou un compositeur professionnel chevronné, AIVA vous accompagne dans votre processus créatif. Créez des thèmes convaincants pour vos projets plus rapidement que jamais, en tirant parti de la puissance de la musique générée par l'IA.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/aiva)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/aiva)
 
 <br />
 
@@ -3013,7 +3162,7 @@ Faites de la musique avec Boomy AI - [Visit](https://www.thataicollection.com/re
 🌐 Soumettez vos chansons aux plateformes de streaming et soyez payé lorsque les gens les écoutent
 💜 Rejoignez une communauté mondiale d'artistes animés par la musique générative
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/boomy)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/boomy)
 
 <br />
 
@@ -3028,7 +3177,7 @@ Faites de la musique avec Boomy AI - [Visit](https://www.thataicollection.com/re
 
 Le moteur de recherche audio
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/clip-audio)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/clip-audio)
 
 <br />
 
@@ -3043,7 +3192,7 @@ Le moteur de recherche audio
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/splash)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/splash)
 
 <br />
 
@@ -3059,7 +3208,7 @@ Le moteur de recherche audio
 Dadabots - Nous créons des réseaux neuronaux audio bruts capables d'imiter des bandes
 Nous sommes un mélange entre un groupe de musique, une équipe de hackathon et un laboratoire de recherche éphémère. Nous sommes des musiciens séduits par les mathématiques. Nous faisons de la science, nous concevons le logiciel, nous créons de la musique. Un projet tout-en-un. 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/dadabots--)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/dadabots--)
 
 <br />
 
@@ -3078,7 +3227,7 @@ Nous sommes un mélange entre un groupe de musique, une équipe de hackathon et 
 
 Hexowatch est votre compagnon IA pour surveiller n'importe quel site Web pour les changements visuels, de contenu, de code source, de technologie, de disponibilité ou de prix.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/hexowatch)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/hexowatch)
 
 <br />
 
@@ -3093,7 +3242,7 @@ Hexowatch est votre compagnon IA pour surveiller n'importe quel site Web pour le
 
 Mem est le premier espace de travail au monde alimenté par l'IA qui vous est personnalisé. Amplifiez votre créativité, automatisez le banal et restez organisé automatiquement.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/mem)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/mem)
 
 <br />
 
@@ -3108,7 +3257,7 @@ Mem est le premier espace de travail au monde alimenté par l'IA qui vous est pe
 
 À venir en 2023 - Bardeen introduit une IA révolutionnaire pour automatiser les flux de travail manuels, vous faire gagner du temps et renforcer votre créativité.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/bardeen)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/bardeen)
 
 <br />
 
@@ -3123,7 +3272,7 @@ Mem est le premier espace de travail au monde alimenté par l'IA qui vous est pe
 
 AutoPredict est la première application qui utilise l'intelligence artificielle pour prédire la durée de vie d'une voiture. En analysant plus de 100 millions de points de données, AutoPredict donne une estimation précise de la durée de vie de ta voiture.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/autopredict)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/autopredict)
 
 <br />
 
@@ -3139,7 +3288,7 @@ AutoPredict est la première application qui utilise l'intelligence artificielle
 Génère des prospects B2B en quelques clics grâce à l'IA - Transforme tes prospects en revenus - Déjà plus de 10 000 prospects générés
 avec des entreprises en hypercroissance
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/looti)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/looti)
 
 <br />
 
@@ -3154,7 +3303,7 @@ avec des entreprises en hypercroissance
 
 De la conception à la production, surveillez, mesurez et améliorez votre expérience utilisateur. Créez des produits de classe mondiale en recueillant des commentaires de haute qualité des utilisateurs sur les prototypes, les versions bêta et les fonctionnalités en direct.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/hubble)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/hubble)
 
 <br />
 
@@ -3176,7 +3325,7 @@ Crée ton propre pipeline en connectant des modèles de ML préentraînés
 Exécute, teste et affine ton pipeline en comparant facilement les résultats
 3. Déployer une API - Générez des API multimodèles grâce à une infrastructure cloud fiable
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/takomo)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/takomo)
 
 <br />
 
@@ -3191,7 +3340,7 @@ Exécute, teste et affine ton pipeline en comparant facilement les résultats
 
 toute votre inspiration au même endroit
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/kive)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/kive)
 
 <br />
 
@@ -3207,7 +3356,7 @@ toute votre inspiration au même endroit
 
 H2ogpt, une véritable intelligence artificielle générative open source, donne à des organisations comme la vôtre le pouvoir de posséder de grands modèles linguistiques tout en préservant la propriété de tes données.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/h2o-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/h2o-ai)
 
 <br />
 
@@ -3222,7 +3371,7 @@ H2ogpt, une véritable intelligence artificielle générative open source, donne
 
 AI Prompt Generator‍ - Inspirez, créez, organisez. Inspirez avec les invites AI, créez de nouvelles invites avec le générateur d'invites, organisez vos propres invites avec le modèle Notion
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/prompt.cafe)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/prompt.cafe)
 
 <br />
 
@@ -3241,7 +3390,7 @@ AI Prompt Generator‍ - Inspirez, créez, organisez. Inspirez avec les invites 
 
 HitPaw Online AI Photo Enhancer utilise une technologie d'intelligence artificielle avancée pour supprimer le bruit, accentuer les détails et améliorer la qualité des photos
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/hitpaw-online-photo-enhancer)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/hitpaw-online-photo-enhancer)
 
 <br />
 
@@ -3256,7 +3405,7 @@ HitPaw Online AI Photo Enhancer utilise une technologie d'intelligence artificie
 
 Étapes pour obtenir de superbes images de vous-même : 1. Paiement. 2. Télécharger - Lisez les recommandations et téléchargez vos photos chaque fois que vous en avez le temps (votre lien est envoyé par e-mail). 3. Attendez 4. Partagez.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/unrealme)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/unrealme)
 
 <br />
 
@@ -3271,7 +3420,7 @@ HitPaw Online AI Photo Enhancer utilise une technologie d'intelligence artificie
 
 Avec StableDojo, vous pouvez générer un avatar pour vous-même ou une photo de vos produits préférés.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/stabledojo)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/stabledojo)
 
 <br />
 
@@ -3286,7 +3435,7 @@ Avec StableDojo, vous pouvez générer un avatar pour vous-même ou une photo de
 
 Plus de 700 styles d'art et de portrait brillants à votre disposition. Possibilité de modifier l'avant-plan et l'arrière-plan séparément. De splendides cadres pour sublimer vos images.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/prisma)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/prisma)
 
 <br />
 
@@ -3301,7 +3450,7 @@ Plus de 700 styles d'art et de portrait brillants à votre disposition. Possibil
 
 Améliorez la retouche faciale en un seul clic avec Magic Correction. Perfectionnez les imperfections du visage avec des tonnes d'outils sympas. Remplacez ou floutez l'arrière-plan d'une simple pression.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/prisma-lensa)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/prisma-lensa)
 
 <br />
 
@@ -3316,7 +3465,7 @@ Améliorez la retouche faciale en un seul clic avec Magic Correction. Perfection
 
 Automatisez la création d'images de bout en bout et dynamisez votre entreprise à l'aide de notre suite de produits d'IA. Créez plusieurs images de produits qui correspondent à votre marque. Simplifiez votre processus de création de contenu en transformant des images de produits ennuyeuses en images marketing de qualité photoshoot
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/claid.ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/claid.ai)
 
 <br />
 
@@ -3331,7 +3480,7 @@ Automatisez la création d'images de bout en bout et dynamisez votre entreprise 
 
 Générez ou mettez à jour des images existantes avec notre outil d'édition d'images AI.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/sceneryai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/sceneryai)
 
 <br />
 
@@ -3346,7 +3495,7 @@ Générez ou mettez à jour des images existantes avec notre outil d'édition d'
 
 Coloriser des photos en ligne Colorize.cc - est un service d'intelligence artificielle qui colorise des photos et des vidéos en noir et blanc. En quelques clics, vous pouvez toucher la magie des technologies d'apprentissage automatique. Colorisez des centaines de vos photos de famille en quelques minutes.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/colorize)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/colorize)
 
 <br />
 
@@ -3361,7 +3510,7 @@ Coloriser des photos en ligne Colorize.cc - est un service d'intelligence artifi
 
 Un nouveau coloriseur AI. Colorisez n'importe quoi à partir de vieilles photos en noir et blanc ð¸, stylisez vos œuvres d'art ð¨ ou donnez un nouveau look aux images modernes ð¶. C'est aussi simple qu'instagram
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/palette)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/palette)
 
 <br />
 
@@ -3376,7 +3525,7 @@ Un nouveau coloriseur AI. Colorisez n'importe quoi à partir de vieilles photos 
 
 Incroyable gomme photo
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/hama)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/hama)
 
 <br />
 
@@ -3395,7 +3544,7 @@ Incroyable gomme photo
 
 Extension Chrome qui réduit votre temps d'écriture de 98 % avec des réponses alimentées par l'IA. Construit par des hôtes pour des hôtes.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/aiduh)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/aiduh)
 
 <br />
 
@@ -3410,7 +3559,7 @@ Extension Chrome qui réduit votre temps d'écriture de 98 % avec des réponses
 
 Texti coopérera avec vous pour améliorer la qualité de votre contenu !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/texti)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/texti)
 
 <br />
 
@@ -3425,7 +3574,7 @@ Texti coopérera avec vous pour améliorer la qualité de votre contenu !
 
 Renommer les cadres Figma en un clic, c'est à peu près tout.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/autoname)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/autoname)
 
 <br />
 
@@ -3440,7 +3589,7 @@ Renommer les cadres Figma en un clic, c'est à peu près tout.
 
 SplashAI est comme un assistant. Il t'aide à trouver des idées très rapidement grâce à la fonctionnalité de recherche et à générer de nouvelles idées à l'infini sans quitter Figma.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/splashai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/splashai)
 
 <br />
 
@@ -3455,7 +3604,7 @@ SplashAI est comme un assistant. Il t'aide à trouver des idées très rapidemen
 
 Extension gratuite alimentée par ChatGPT d'Open AI à utiliser n'importe où !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/merlin)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/merlin)
 
 <br />
 
@@ -3470,7 +3619,7 @@ Extension gratuite alimentée par ChatGPT d'Open AI à utiliser n'importe où !
 
 Améliorez votre rédaction, obtenez des réponses à toutes vos questions, rédigez du contenu de haute qualité et répondez aux e-mails. Tout en un seul endroit.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/voilà)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/voilà)
 
 <br />
 
@@ -3485,7 +3634,7 @@ Améliorez votre rédaction, obtenez des réponses à toutes vos questions, réd
 
 Agent IA pour Chrome. Intégrez ChatGPT à la recherche Google, automatisez les sites Web, rédigez du texte : e-mails, tweets, articles SEO. Alternative à Bing AI et Notion AI.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/harpa-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/harpa-ai)
 
 <br />
 
@@ -3504,7 +3653,7 @@ Gist AI est un générateur de résumé gratuit qui extrait les points clés de 
 
 Mieux encore, Gist AI vous permet de plonger en profondeur dans la source du résumé pour plus de clarté ou de passer directement à ce moment dans une vidéo YouTube, agissant comme un résumé YouTube.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/gist-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/gist-ai)
 
 <br />
 
@@ -3523,7 +3672,7 @@ Mieux encore, Gist AI vous permet de plonger en profondeur dans la source du ré
 
 Avec Podwise, tu peux apprendre grâce à des connaissances structurées et écouter de manière sélective les chapitres qui suscitent ton intérêt. Cette fonctionnalité te permet d'optimiser ton expérience d'apprentissage et de te concentrer sur le contenu qui compte le plus pour toi.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/podwise)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/podwise)
 
 <br />
 
@@ -3538,7 +3687,7 @@ Avec Podwise, tu peux apprendre grâce à des connaissances structurées et éco
 
 Remettez-vous sur la bonne voie avec un ami sympathique responsable de l'IA. Dewey est là pour vous aider à rester organisé et productif. Avec les rappels par SMS et le suivi des objectifs, c'est comme avoir un compagnon de responsabilité IA dans votre poche.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/dewey)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/dewey)
 
 <br />
 
@@ -3556,7 +3705,7 @@ Bienvenue sur Poppylist, le registre de ton bébé simplifié.
 Tu connais ton style de vie. Nous connaissons les produits. Construisons ensemble ton registre des bébés.
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ask-poppy)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ask-poppy)
 
 <br />
 
@@ -3571,7 +3720,7 @@ Tu connais ton style de vie. Nous connaissons les produits. Construisons ensembl
 
 Cogram utilise l'IA pour prendre des notes lors de réunions virtuelles, suivre les éléments d'action et automatiser les tâches en aval, tout en gardant vos données privées et sécurisées.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/cogram)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/cogram)
 
 <br />
 
@@ -3586,7 +3735,7 @@ Cogram utilise l'IA pour prendre des notes lors de réunions virtuelles, suivre 
 
 En utilisant la puissance de Skill Suggestion AI, nous pouvons vous aider à extraire les compétences recherchées dans le monde, à partir de n'importe quel type de texte. Essaye le! Nous avons formé notre IA en utilisant plus d'un million de contenus disponibles en ligne dans notre bibliothèque de contenu supplémentaire, organisée à partir de différents types de sources et de sujets.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ultimate-skill-extractor-by-further)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ultimate-skill-extractor-by-further)
 
 <br />
 
@@ -3601,7 +3750,7 @@ En utilisant la puissance de Skill Suggestion AI, nous pouvons vous aider à ext
 
 Speech Analyzer est un coach de maîtrise de l'anglais conversationnel alimenté par l'IA qui écoute votre discours et vous fournit un retour immédiat.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/elsa-speech-analyzer)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/elsa-speech-analyzer)
 
 <br />
 
@@ -3617,7 +3766,7 @@ concentre-toi sur ce qui compte. - [Visit](https://www.thataicollection.com/redi
 
 Discussion documentaire et résumé de n'importe quel fichier ou lien ! Discute avec des PDF, des vidéos YouTube, des podcasts, des articles, des feuilles de calcul et plus encore ! Monter sur la liste d'attente.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/detangleai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/detangleai)
 
 <br />
 
@@ -3632,7 +3781,7 @@ Discussion documentaire et résumé de n'importe quel fichier ou lien ! Discute
 
 Chivvy utilise le renforcement négatif pour vous faire faire des choses. Crée une responsabilisation sur les réseaux sociaux. Vous permet de rester sur la bonne voie avec des invites intelligentes. Le tout propulsé par l'IA
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/chivvy)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/chivvy)
 
 <br />
 
@@ -3647,7 +3796,7 @@ Chivvy utilise le renforcement négatif pour vous faire faire des choses. Crée 
 
 Pth.AI est un outil alimenté par l'IA qui guide les utilisateurs professionnels non professionnels vers leurs objectifs en posant des questions et en créant des étapes, ce qui facilite l'interaction avec les systèmes d'IA.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/pth.ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/pth.ai)
 
 <br />
 
@@ -3662,7 +3811,7 @@ Pth.AI est un outil alimenté par l'IA qui guide les utilisateurs professionnels
 
 Obtenez un accès gratuit instantané à ChatGPT 4.0 directement depuis votre Slack et profitez d'autres fonctionnalités telles que poser des questions à vos applications organisationnelles, suivre des sujets importants, définir des rappels, interroger des documents et résumer des conversations dans Slack
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/sidekick)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/sidekick)
 
 <br />
 
@@ -3681,7 +3830,7 @@ Obtenez un accès gratuit instantané à ChatGPT 4.0 directement depuis votre Sl
 
 Elicit utilise l'apprentissage automatique pour vous aider dans vos recherches : trouver des articles, extraire des revendications clés, résumer, réfléchir à des idées, etc.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/elicit)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/elicit)
 
 <br />
 
@@ -3696,7 +3845,7 @@ Elicit utilise l'apprentissage automatique pour vous aider dans vos recherches 
 
 Votre plateforme pour explorer et expliquer les papiers. Recherchez plus de 270 millions d'articles, comprenez-les dans un langage simple et trouvez des articles, des auteurs et des sujets liés.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/scispace)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/scispace)
 
 <br />
 
@@ -3711,7 +3860,7 @@ Votre plateforme pour explorer et expliquer les papiers. Recherchez plus de 270 
 
 RTutor utilise le puissant modèle de grand langage d'OpenAI pour traduire le langage naturel en code R, qui est ensuite exécuté. Vous pouvez demander votre analyse, tout comme demander à une vraie personne. Téléchargez un fichier de données (CSV, TSV/fichiers texte délimités par des tabulations et Excel) et analysez-le simplement en anglais simple. Vos résultats peuvent être téléchargés sous forme de rapport HTML en quelques minutes !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/rtutor)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/rtutor)
 
 <br />
 
@@ -3726,7 +3875,7 @@ RTutor utilise le puissant modèle de grand langage d'OpenAI pour traduire le la
 
 Téléchargez un article, mettez en surbrillance un texte confus, obtenez une explication. Nous rendons les documents de recherche faciles à lire.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/explainpaper)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/explainpaper)
 
 <br />
 
@@ -3741,7 +3890,7 @@ Téléchargez un article, mettez en surbrillance un texte confus, obtenez une ex
 
 Les entreprises manquent de réponses et d'engagement dans leurs sondages. Vocads réinvente l'expérience d'enquête, grâce à la conversation VOICE avec une IA.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/vocads-survey)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/vocads-survey)
 
 <br />
 
@@ -3756,7 +3905,7 @@ Les entreprises manquent de réponses et d'engagement dans leurs sondages. Vocad
 
 Rédaction de rapports Trop de documents à lire ? Afforai analysera et rédigera pour vous un rapport complet et répondra à toutes vos questions sur les documents. Requête de feuille de calcul - Utilisez Afforai pour extraire des informations importantes de rapports et de feuilles de calcul à l'aide d'une requête en langage naturel. Web Scraping - Afforai peut parcourir plusieurs sites Web et extraire des informations clés.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/afforai-build)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/afforai-build)
 
 <br />
 
@@ -3771,7 +3920,7 @@ Rédaction de rapports Trop de documents à lire ? Afforai analysera et rédiger
 
 Simplifiez les articles pour comprendre des termes complexes, obtenez des recommandations intéressantes, recherchez des articles similaires et collaborez facilement avec l'équipe.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/synthical)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/synthical)
 
 <br />
 
@@ -3790,7 +3939,7 @@ Simplifiez les articles pour comprendre des termes complexes, obtenez des recomm
 
 Nous passons d'innombrables heures à parcourir Internet à la recherche des meilleures recommandations de livres de personnes que vous admirez. Notre base de données ne cesse de croître et chaque recommandation a été vérifiée pour son authenticité et comprend un lien vers la source. Apprécier!
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/sona)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/sona)
 
 <br />
 
@@ -3805,7 +3954,7 @@ Nous passons d'innombrables heures à parcourir Internet à la recherche des mei
 
 Générateur de réponses aux avis IA : Répondez 3 fois plus rapidement à chaque avis client avec des réponses individuelles rédigées par votre assistant IA personnel. Aucun modèle n'est nécessaire.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ai-review-reply-assistant)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-review-reply-assistant)
 
 <br />
 
@@ -3820,7 +3969,7 @@ Générateur de réponses aux avis IA : Répondez 3 fois plus rapidement à chaq
 
 Économisez des tonnes d'heures en utilisant GeniusReview pour obtenir des réponses personnalisées à vos questions d'évaluation des performances.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/geniusreview)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/geniusreview)
 
 <br />
 
@@ -3835,7 +3984,7 @@ Générateur de réponses aux avis IA : Répondez 3 fois plus rapidement à chaq
 
 Reviewz.ai est une nouveauté et est conçu pour démontrer les capacités de l'IA dans le domaine des produits de consommation et de la recommandation. Tous les produits sélectionnés et examinés sur ce site le sont entièrement par AI, et tous les avis sont rédigés par AI.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/reviewz)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/reviewz)
 
 <br />
 
@@ -3850,7 +3999,7 @@ Reviewz.ai est une nouveauté et est conçu pour démontrer les capacités de l'
 
 Un outil de traitement du langage naturel et un générateur de texte. Il prend un ensemble de mots comme invite, puis génère un ensemble de phrases de longueur moyenne qui se rapprochent des données de formation
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/artreviewgenerator)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/artreviewgenerator)
 
 <br />
 
@@ -3869,7 +4018,7 @@ Un outil de traitement du langage naturel et un générateur de texte. Il prend 
 
 Dites au revoir à la page blanche pour de bon
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/copy.ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/copy.ai)
 
 <br />
 
@@ -3884,7 +4033,7 @@ Dites au revoir à la page blanche pour de bon
 
 De belles publicités cohérentes avec la marque et à fort taux de conversion pour tous les canaux marketing. Aucune expérience de conception nécessaire.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/clickable)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/clickable)
 
 <br />
 
@@ -3899,7 +4048,7 @@ De belles publicités cohérentes avec la marque et à fort taux de conversion p
 
 La plate-forme alimentée par l'IA fournit des Battlecards automagiques et une intelligence compétitive exploitable.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/cuetap.com)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/cuetap.com)
 
 <br />
 
@@ -3914,7 +4063,7 @@ La plate-forme alimentée par l'IA fournit des Battlecards automagiques et une i
 
 Que vous vous concentriez sur l'interface utilisateur, la recherche UX, la conception ou l'expérience utilisateur, l'IA de l'évaluation des utilisateurs peut répondre à toutes vos questions.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/userevaluation)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/userevaluation)
 
 <br />
 
@@ -3934,7 +4083,7 @@ Sécurité d'entreprise - Conçu selon les normes de sécurité de l'entreprise,
 Facile à utiliser, aucun SQL ou Python n'est requis
 Interface native - Connectez-vous à tes données sur notre application Web, Slack ou Teams
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/genius-sheets)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/genius-sheets)
 
 <br />
 
@@ -3949,7 +4098,7 @@ Interface native - Connectez-vous à tes données sur notre application Web, Sla
 
 Notre plate-forme transforme les détails et les objectifs clés de votre produit en prose persuasive, conçue sur mesure pour accrocher votre public et faire monter en flèche les taux de conversion.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/baruaai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/baruaai)
 
 <br />
 
@@ -3964,7 +4113,7 @@ Notre plate-forme transforme les détails et les objectifs clés de votre produi
 
 Économisez d'innombrables heures d'écriture. Utilisez l'IA pour générer une copie puissante pour des centaines de campagnes de marketing par e-mail différentes, des gouttes, des newsletters et plus encore, en quelques secondes ⚡
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/hoppy-copy)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/hoppy-copy)
 
 <br />
 
@@ -3979,7 +4128,7 @@ Notre plate-forme transforme les détails et les objectifs clés de votre produi
 
 Assistant marketing IA tout-en-un de type humain qui crée des pages de destination, des vidéos promotionnelles, des publicités, des textes marketing, des graphiques, des e-mails, des voix off, des articles de blog, des œuvres d'art, etc.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/marketingblocks-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/marketingblocks-ai)
 
 <br />
 
@@ -3994,7 +4143,7 @@ Assistant marketing IA tout-en-un de type humain qui crée des pages de destinat
 
 Des briefs marketing qui aboutissent au meilleur travail créatif. Améliorez votre efficacité marketing et réduisez le coût des briefs mal rédigés.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/briefly)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/briefly)
 
 <br />
 
@@ -4009,7 +4158,7 @@ Des briefs marketing qui aboutissent au meilleur travail créatif. Améliorez vo
 
 Traq.ai analyse chaque appel passé par votre équipe de vente et lui fournit des informations exploitables pour atteindre des niveaux de réussite surhumains.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/traq.ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/traq.ai)
 
 <br />
 
@@ -4028,7 +4177,7 @@ Traq.ai analyse chaque appel passé par votre équipe de vente et lui fournit de
 
 Lexii.ai est un assistant de recherche IA qui répond aux questions et cite des sources.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/lexii.ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/lexii.ai)
 
 <br />
 
@@ -4043,7 +4192,7 @@ Lexii.ai est un assistant de recherche IA qui répond aux questions et cite des 
 
 Trouver un domaine créatif et unique qui est encore disponible est facile avec SmartyNames.com - Dites-nous ce que vous faites, et nos robots trouveront le domaine qui vous convient. Générateur de nom d'entreprise en un clic.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/smarty-names)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/smarty-names)
 
 <br />
 
@@ -4058,7 +4207,7 @@ Trouver un domaine créatif et unique qui est encore disponible est facile avec 
 
 Recherchez plus de 10 millions d'invites et générez AI Art via Stable Diffusion, DALL·E 2.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/openart-photo-booth)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/openart-photo-booth)
 
 <br />
 
@@ -4077,7 +4226,7 @@ Réponses complètes avec le GPT-4
 Génère des réponses plus longues, plus détaillées et plus précises.
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/you)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/you)
 
 <br />
 
@@ -4092,7 +4241,7 @@ Génère des réponses plus longues, plus détaillées et plus précises.
 
 Ask est alimenté par de grands modèles de langage et des moteurs de recherche. La précision est limitée par les résultats de recherche et les capacités de l'IA.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/perplexity-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/perplexity-ai)
 
 <br />
 
@@ -4107,7 +4256,7 @@ Ask est alimenté par de grands modèles de langage et des moteurs de recherche.
 
 Nous rendons votre contenu consultable
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/anypod)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/anypod)
 
 <br />
 
@@ -4122,7 +4271,7 @@ Nous rendons votre contenu consultable
 
 Chez Namefinder, nous visons à faire gagner du temps aux gens en proposant des noms de domaine pour leurs entreprises. Nous le faisons en proposant les noms en fonction des besoins de leur site Web, et avant cela, nous vérifions le registre de domaine pour ne donner que les noms de domaine disponibles parmi lesquels choisir. Le tout propulsé par Chat Gpt.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/namefinder.ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/namefinder.ai)
 
 <br />
 
@@ -4137,7 +4286,7 @@ Chez Namefinder, nous visons à faire gagner du temps aux gens en proposant des 
 
 Broker One AI Engine est un outil de pointe alimenté par l'IA conçu spécifiquement pour le monde complexe de l'immobilier. Cette plateforme innovante combine la puissance de l'intelligence artificielle avec un ensemble de données vaste et complet de propriétés pour fournir des évaluations immobilières précises et permettre une navigation efficace dans les propriétés. Broker One AI Engine se distingue par sa fonctionnalité sophistiquée de recherche de propriétés.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/broker-one-ai-engine)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/broker-one-ai-engine)
 
 <br />
 
@@ -4152,7 +4301,7 @@ Broker One AI Engine est un outil de pointe alimenté par l'IA conçu spécifiqu
 
 Présentation de SEOIfy : révolutionne le référencement de ton site Web grâce à notre plateforme de pointe alimentée par l'IA. Exploitez tout le potentiel de ton site grâce à une optimisation automatique en temps réel basée sur les normes du secteur. Améliore ton classement et ton trafic organique sans effort grâce à notre outil de référencement intelligent piloté par l'IA. 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/seoify)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/seoify)
 
 <br />
 
@@ -4171,7 +4320,7 @@ Présentation de SEOIfy : révolutionne le référencement de ton site Web grâ
 
 Créez instantanément des diaporamas à l'aide de ChatBCG
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/chatba)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/chatba)
 
 <br />
 
@@ -4186,7 +4335,7 @@ Créez instantanément des diaporamas à l'aide de ChatBCG
 
 Dites adieu à la création manuelle fastidieuse de diapositives. Laissez l'IA écrire le plan et le contenu de la présentation pour vous. Avec notre outil, vous pouvez facilement créer des diapositives professionnelles et attrayantes à partir de n'importe quel texte en un rien de temps.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/slidesai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/slidesai)
 
 <br />
 
@@ -4201,7 +4350,7 @@ Dites adieu à la création manuelle fastidieuse de diapositives. Laissez l'IA �
 
 Un pitch deck est une présentation qu'une entreprise utilise pour présenter ses arguments aux investisseurs. Il passe en revue le modèle commercial de l'entreprise, ses projections financières et d'autres indicateurs clés que les investisseurs souhaiteraient connaître.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/pitchgrade)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/pitchgrade)
 
 <br />
 
@@ -4218,7 +4367,7 @@ Un modèle de pitch de 10 diapositives. Conçu pour toi.
 Sur la base de tes réponses, notre IA créera un plan de présentation personnalisé en 10 diapositives pour ta start-up. Prête à poursuivre sur cette lancée !
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/my-pitch-deck)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/my-pitch-deck)
 
 <br />
 
@@ -4233,7 +4382,7 @@ Sur la base de tes réponses, notre IA créera un plan de présentation personna
 
 Libérez votre meilleur travail avec le format de narration alimenté par l'IA de Tome.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/tome)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/tome)
 
 <br />
 
@@ -4248,7 +4397,7 @@ Libérez votre meilleur travail avec le format de narration alimenté par l'IA d
 
 Glimmer AI utilise GPT-3 et DALL-E 2 pour créer facilement et rapidement des présentations de qualité professionnelle à l'aide de commandes textuelles ou vocales
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/glimmer-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/glimmer-ai)
 
 <br />
 
@@ -4263,7 +4412,7 @@ Glimmer AI utilise GPT-3 et DALL-E 2 pour créer facilement et rapidement des pr
 
 Aide les professionnels à créer rapidement et facilement des présentations professionnelles basées sur les données.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/storyd)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/storyd)
 
 <br />
 
@@ -4278,7 +4427,7 @@ Aide les professionnels à créer rapidement et facilement des présentations pr
 
 Créez des présentations en quelques minutes avec Plus AI. Commencer avec un jeu vierge est l'une des parties les plus difficiles de la construction d'une présentation. De plus, l'IA vous aide à créer un plan, à créer un premier brouillon et à suggérer des modifications supplémentaires à vos diapositives
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/plus-ai-for-google-slides)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/plus-ai-for-google-slides)
 
 <br />
 
@@ -4297,7 +4446,7 @@ Créez des présentations en quelques minutes avec Plus AI. Commencer avec un je
 
 ROAST aide les gens à multiplier par 10 leurs correspondances sur des applications de rencontres comme Tinder, Bumble et Hinge. Propulsé par l'IA, il fournit des informations sur les rencontres basées sur les données et des conseils d'experts pour augmenter la quantité et la qualité de leurs matchs.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/roast)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/roast)
 
 <br />
 
@@ -4312,7 +4461,7 @@ ROAST aide les gens à multiplier par 10 leurs correspondances sur des applicati
 
 AI-MOVIE CLUB est un réseau social qui crée des films avec l'intelligence artificielle !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ai-movie-club)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-movie-club)
 
 <br />
 
@@ -4327,7 +4476,7 @@ AI-MOVIE CLUB est un réseau social qui crée des films avec l'intelligence arti
 
 Chats coquins en quelques secondes. Prenez une capture d'écran de la biographie du profil ou d'une conversation en cours, à partir de Tinder, Bumble ou de toute application de rencontres -> Laissez Hotconvo comprendre le contexte des suggestions intelligentes -> Obtenez plusieurs suggestions pour vous inspirer de ce qu'il faut dire pour votre prochain message.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/hotconvo)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/hotconvo)
 
 <br />
 
@@ -4345,7 +4494,7 @@ Parfait pour X (Twitter). Ajoutez un mot clé pour façonner ta biographie, choi
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ai-social-bio)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-social-bio)
 
 <br />
 
@@ -4360,7 +4509,7 @@ Parfait pour X (Twitter). Ajoutez un mot clé pour façonner ta biographie, choi
 
 Tweet IA
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/tweetai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/tweetai)
 
 <br />
 
@@ -4375,7 +4524,7 @@ Tweet IA
 
 Obtenez des ventes, de la croissance et de nouveaux réseaux. Plus rapide que ce que vous essayez actuellement.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/tweethunter)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/tweethunter)
 
 <br />
 
@@ -4390,7 +4539,7 @@ Obtenez des ventes, de la croissance et de nouveaux réseaux. Plus rapide que ce
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/tweetemote)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/tweetemote)
 
 <br />
 
@@ -4405,7 +4554,7 @@ Obtenez des ventes, de la croissance et de nouveaux réseaux. Plus rapide que ce
 
 Écrivez, planifiez et évoluez avec l'outil Twitter d'IA le plus intelligent au monde
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/postwise)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/postwise)
 
 <br />
 
@@ -4420,7 +4569,7 @@ Obtenez des ventes, de la croissance et de nouveaux réseaux. Plus rapide que ce
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/graham-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/graham-ai)
 
 <br />
 
@@ -4435,7 +4584,7 @@ Obtenez des ventes, de la croissance et de nouveaux réseaux. Plus rapide que ce
 
 Révolutionnez votre engagement sur Twitter avec les réponses suggérées basées sur l'IA.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/tweetspear)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/tweetspear)
 
 <br />
 
@@ -4454,7 +4603,7 @@ Révolutionnez votre engagement sur Twitter avec les réponses suggérées basé
 
 L'amélioration de la parole rend les enregistrements vocaux comme s'ils avaient été enregistrés dans un studio professionnel
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/adobe-speech-enhancer)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/adobe-speech-enhancer)
 
 <br />
 
@@ -4469,7 +4618,7 @@ L'amélioration de la parole rend les enregistrements vocaux comme s'ils avaient
 
 Lingostar est l'IA à qui les apprenants peuvent parler en anglais, en espagnol ou en français. Atteignez la fluidité avec de VRAIES conversations parlées gratuitement. Plus de tuteurs - discutez avec Lingostar A.I. pour améliorer votre prononciation, votre vocabulaire et votre compréhension
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/lingostar)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/lingostar)
 
 <br />
 
@@ -4484,7 +4633,7 @@ Lingostar est l'IA à qui les apprenants peuvent parler en anglais, en espagnol 
 
 Offrez constamment votre meilleure expérience de marque, obtenez une résolution précise et découvrez des opportunités commerciales basées sur les données
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/poly-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/poly-ai)
 
 <br />
 
@@ -4499,7 +4648,7 @@ Offrez constamment votre meilleure expérience de marque, obtenez une résolutio
 
 Avec SmallTalk, les apprenants peuvent auto-évaluer leur niveau de maîtrise de l'anglais, se préparer à un entretien d'embauche en anglais ou à l'examen IELTS, et participer à des exercices d'expression orale qui les préparent à des conversations sur le lieu de travail, dans un cadre universitaire ou dans la vie quotidienne.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/smalltalk2.me)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/smalltalk2.me)
 
 <br />
 
@@ -4514,7 +4663,7 @@ Avec SmallTalk, les apprenants peuvent auto-évaluer leur niveau de maîtrise de
 
 Transforme le texte en discours réaliste pour différentes applications. Parfait pour les vidéastes, les enseignants et les spécialistes du marketing. Propose un large éventail de voix, de langues et d'accents. Personnalise les paramètres vocaux, notamment la vitesse, la tonalité et l'accentuation. Idéal pour créer des voix off, du matériel d'apprentissage en ligne et de la publicité. Une solution de synthèse vocale polyvalente et complète.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/speechgen.io)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/speechgen.io)
 
 <br />
 
@@ -4533,7 +4682,7 @@ Transforme le texte en discours réaliste pour différentes applications. Parfai
 
 Créez des formulaires à toutes fins utiles en quelques secondes. Sans savoir coder
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/tally-forms)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/tally-forms)
 
 <br />
 
@@ -4548,7 +4697,7 @@ Créez des formulaires à toutes fins utiles en quelques secondes. Sans savoir c
 
 Scholarcy™ est un outil de synthèse en ligne qui génère et convertit de longs articles en fiches récapitulatives. Inscrivez-vous gratuitement et commencez à résumer
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/scholarcy)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/scholarcy)
 
 <br />
 
@@ -4563,7 +4712,7 @@ Scholarcy™ est un outil de synthèse en ligne qui génère et convertit de lon
 
 Jot génère automatiquement des variations infinies de copie publicitaire pour vous à l'aide de l'IA. Rationalisez les processus de rédaction de votre équipe grâce à l'intelligence artificielle. Propulsé par OpenAI GPT-3.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/jot)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/jot)
 
 <br />
 
@@ -4578,7 +4727,7 @@ Jot génère automatiquement des variations infinies de copie publicitaire pour 
 
 Explorez les livres des best-sellers, des célébrités et des séries de livres avec de puissantes recommandations basées sur l'apprentissage automatique. Faites partie de la communauté grandissante des bibliophiles sur Bookclub.ai
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/bookclub)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/bookclub)
 
 <br />
 
@@ -4593,7 +4742,7 @@ Explorez les livres des best-sellers, des célébrités et des séries de livres
 
 namewizard est le générateur qui utilise l'IA pour trouver l'entreprise et le nom de domaine parfaits pour votre prochain projet
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/namewizard)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/namewizard)
 
 <br />
 
@@ -4608,7 +4757,7 @@ namewizard est le générateur qui utilise l'IA pour trouver l'entreprise et le 
 
 générer un nom commercial court et personnalisable à l'aide de l'intelligence artificielle. Obtenez des idées de noms Namelix génère des noms courts et accrocheurs avec un modèle de langage de pointe
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/namelix)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/namelix)
 
 <br />
 
@@ -4623,7 +4772,7 @@ générer un nom commercial court et personnalisable à l'aide de l'intelligence
 
 Créez votre jeu de cartes personnalisé et jouez avec vos amis. Sélectionnez les cartes qui devraient faire partie de votre propre deck en balayant 💅.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/langame-card-game)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/langame-card-game)
 
 <br />
 
@@ -4638,7 +4787,7 @@ Créez votre jeu de cartes personnalisé et jouez avec vos amis. Sélectionnez l
 
 Applications de chat alimentées par l'IA pour tout le monde
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/gandhiji)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/gandhiji)
 
 <br />
 
@@ -4653,7 +4802,7 @@ Applications de chat alimentées par l'IA pour tout le monde
 
 Avez-vous déjà eu envie de poser quelques questions à Napoléon ou à Einstein ? Eh bien, maintenant vous avez une chance.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/goatchat)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/goatchat)
 
 <br />
 
@@ -4668,7 +4817,7 @@ Avez-vous déjà eu envie de poser quelques questions à Napoléon ou à Einstei
 
 Connectez-vous avec l'IA la plus intelligente au monde sur WhatsApp.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/gpt-hotline)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/gpt-hotline)
 
 <br />
 
@@ -4687,7 +4836,7 @@ Connectez-vous avec l'IA la plus intelligente au monde sur WhatsApp.
 
 IA activée, voix de vraies personnes. Créez des voix off de qualité studio en quelques minutes. Utilisez les voix d'IA réalistes de Murf pour les podcasts, les vidéos et toutes vos présentations professionnelles
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/murf.ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/murf.ai)
 
 <br />
 
@@ -4702,7 +4851,7 @@ IA activée, voix de vraies personnes. Créez des voix off de qualité studio en
 
 Générez un son réaliste de synthèse vocale (TTS) à l'aide de notre générateur de voix AI avec les meilleures voix synthétiques. Convertissez instantanément du texte en discours au son naturel et téléchargez-le aux formats MP3 et WAV.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/listnr-2.0)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/listnr-2.0)
 
 <br />
 
@@ -4717,7 +4866,7 @@ Générez un son réaliste de synthèse vocale (TTS) à l'aide de notre généra
 
 Générez un son réaliste de synthèse vocale (TTS) à l'aide du générateur de voix AI en ligne et des meilleures voix synthétiques. Convertissez instantanément du texte en paroles au son naturel et téléchargez-les sous forme de fichiers audio MP3 et WAV.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/verbatik)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/verbatik)
 
 <br />
 
@@ -4732,7 +4881,7 @@ Générez un son réaliste de synthèse vocale (TTS) à l'aide du générateur d
 
 trop paresseux pour lire un article? pas de problème, écoutez-le ! Propulsé par Thundercontent
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/article.audio)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/article.audio)
 
 <br />
 
@@ -4747,7 +4896,7 @@ trop paresseux pour lire un article? pas de problème, écoutez-le ! Propulsé p
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/naturalreader)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/naturalreader)
 
 <br />
 
@@ -4762,7 +4911,7 @@ trop paresseux pour lire un article? pas de problème, écoutez-le ! Propulsé p
 
 Avec WellSaid, vous et votre équipe pouvez créer une voix off IA réaliste et convaincante pour tout votre contenu numérique.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/wellsaid)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/wellsaid)
 
 <br />
 
@@ -4777,7 +4926,7 @@ Avec WellSaid, vous et votre équipe pouvez créer une voix off IA réaliste et 
 
 Convertissez rapidement ton texte en voix grâce à un son époustouflant et réaliste\nAI Voices qui trouvera un écho auprès de ton public. INUTILE de louer un studio d'enregistrement pour enregistrer ton script.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/createaivoiceovers)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/createaivoiceovers)
 
 <br />
 
@@ -4792,7 +4941,7 @@ Convertissez rapidement ton texte en voix grâce à un son époustouflant et ré
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/voicera)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/voicera)
 
 <br />
 
@@ -4807,7 +4956,7 @@ Convertissez rapidement ton texte en voix grâce à un son époustouflant et ré
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/fakeyou)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/fakeyou)
 
 <br />
 
@@ -4822,7 +4971,7 @@ Convertissez rapidement ton texte en voix grâce à un son époustouflant et ré
 
 Créez des fichiers audio pour votre usage commercial. Voicemaker vous permet de redistribuer vos fichiers audio générés même après l'expiration de votre abonnement.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/voicemaker)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/voicemaker)
 
 <br />
 
@@ -4841,7 +4990,7 @@ Créez des fichiers audio pour votre usage commercial. Voicemaker vous permet de
 
 Tout ce dont tes vidéos ont besoin dans une seule application : génération de sous-titres, traduction de sous-titres, doublage vidéo, voix off par IA, enregistrement de transcriptions vocales et plus encore. \nArrête de perdre des semaines ou des mois\nTraduisez et sous-titrez des vidéos 100 fois plus vite\n
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/translatevideo)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/translatevideo)
 
 <br />
 
@@ -4856,7 +5005,7 @@ Tout ce dont tes vidéos ont besoin dans une seule application : génération d
 
 Rephrasely utilise une IA de pointe pour produire des variations de votre texte dans plus de 100 langues pour chacun des dix-huit styles (12 gratuits et 6 premium) que nous proposons. Ce faisant, nous sommes en mesure d'offrir plus de valeur et de variété que tout autre service.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/rephrasely)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/rephrasely)
 
 <br />
 
@@ -4871,7 +5020,7 @@ Rephrasely utilise une IA de pointe pour produire des variations de votre texte 
 
 Transcrire l'audio en texte facilement, rapidement et efficacement
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/rythmex)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/rythmex)
 
 <br />
 
@@ -4892,7 +5041,7 @@ Exploite des algorithmes avancés et l'IA pour convertir ton son en texte avec u
 Langue maternelle dans plus de 100 langues.
 Des transcriptions automatiques dans 100 langues et expressions idiomatiques différentes, multipliées par l'accent ou les particularités régionales que tu y ajoutes.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/riverside)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/riverside)
 
 <br />
 
@@ -4907,7 +5056,7 @@ Des transcriptions automatiques dans 100 langues et expressions idiomatiques dif
 
 Propulsé par une intelligence artificielle profonde, Deciphr horodate et résume pour vous l'intégralité de la transcription de votre podcast. En moins de temps qu'il n'en faut pour faire du café
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/deciphr-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/deciphr-ai)
 
 <br />
 
@@ -4922,7 +5071,7 @@ Propulsé par une intelligence artificielle profonde, Deciphr horodate et résum
 
 Stork aide les équipes à améliorer leurs communications et leur productivité. Il s'agit d'un Business Messenger pour les équipes hybrides et distantes qui enregistre et transcrit automatiquement toutes les réunions et tous les appels. Conçu pour le monde post-pandémie asynchrone et assisté par l'intelligence artificielle.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/graphic-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/graphic-ai)
 
 <br />
 
@@ -4937,7 +5086,7 @@ Stork aide les équipes à améliorer leurs communications et leur productivité
 
 Découvrez les meilleurs moments Écoutez les meilleurs moments des podcasts que vous aimez et plongez dans l'épisode complet
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/snipd-podcast-summaries)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/snipd-podcast-summaries)
 
 <br />
 
@@ -4952,7 +5101,7 @@ Découvrez les meilleurs moments Écoutez les meilleurs moments des podcasts que
 
 Ne laissez pas un emploi du temps chargé vous empêcher d'apprendre des meilleurs. Des résumés de podcast générés par l'IA et livrés directement dans votre boîte de réception. Restez au courant de vos émissions préférées et découvrez-en de nouvelles.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/sumly)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/sumly)
 
 <br />
 
@@ -4973,7 +5122,7 @@ Nous te donnons une clé d'API pour envoyer des fichiers audio via notre API et,
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/whisperapi)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/whisperapi)
 
 <br />
 
@@ -4988,7 +5137,7 @@ Nous te donnons une clé d'API pour envoyer des fichiers audio via notre API et,
 
 Obtenez des transcriptions précises pour votre AUDIO & VIDEO avec la dernière technologie de reconnaissance vocale.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/voicetapp)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/voicetapp)
 
 <br />
 
@@ -5007,7 +5156,7 @@ Obtenez des transcriptions précises pour votre AUDIO & VIDEO avec la dernière 
 
 Cet assistant IA peut concevoir un voyage personnalisé, vous donner l'inspiration sur les endroits où aller et même générer des recommandations locales pour les hôtels, les restaurants et les attractions.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/vacay)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/vacay)
 
 <br />
 
@@ -5022,7 +5171,7 @@ Cet assistant IA peut concevoir un voyage personnalisé, vous donner l'inspirati
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/roamr)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/roamr)
 
 <br />
 
@@ -5037,7 +5186,7 @@ Cet assistant IA peut concevoir un voyage personnalisé, vous donner l'inspirati
 
 Notre IA vous élaborera un plan personnalisé pour n'importe quelle ville ou lieu que vous souhaitez visiter, avec des restaurants, des activités amusantes, des attractions et des conseils pour faire la meilleure aventure
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/orkoi)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/orkoi)
 
 <br />
 
@@ -5052,7 +5201,7 @@ Notre IA vous élaborera un plan personnalisé pour n'importe quelle ville ou li
 
 Débloquez le nom de blog de voyage parfait avec le générateur d'idées de noms de blog de TravelFeed ! Ajoutez un mot-clé (peut-être votre propre nom) et regardez notre IA vous éblouir avec une multitude de suggestions élégantes. Vous aimez un nom ? Vérifiez instantanément la disponibilité de son domaine .com et de son nom d'utilisateur TravelFeed. Plongez dans votre parcours de blogueur avec un nom aussi aventureux que vous !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/travel-blog-name-ideas-generator)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/travel-blog-name-ideas-generator)
 
 <br />
 
@@ -5071,7 +5220,7 @@ Débloquez le nom de blog de voyage parfait avec le générateur d'idées de nom
 
 Colossian Creator rend la création vidéo simple et sans stress. Découvrez notre créateur de vidéos IA avec de vrais acteurs. Créez des vidéos en moins de 5 minutes
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/colossyan)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/colossyan)
 
 <br />
 
@@ -5089,7 +5238,7 @@ HeyGen est une plateforme vidéo qui vous aide à créer des vidéos professionn
 aussi facilement que de créer des PowerPoints pour divers cas d'utilisation :
 Explication et procédures, marketing, ventes personnalisées, e-learning, formation et intégration et actualités.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/heygen)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/heygen)
 
 <br />
 
@@ -5104,7 +5253,7 @@ Explication et procédures, marketing, ventes personnalisées, e-learning, forma
 
 HitPaw Online Video Enhancer est la meilleure solution pour les vidéos basse résolution, augmentez la solution vidéo jusqu'à 1080P/4K sans effort.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/hitpaw-online-video-enhancer)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/hitpaw-online-video-enhancer)
 
 <br />
 
@@ -5119,7 +5268,7 @@ HitPaw Online Video Enhancer est la meilleure solution pour les vidéos basse r�
 
 ⚡️ Obtenez des résumés instantanés alimentés par l'IA pour les vidéos YouTube, gagnez du temps, traduisez en 28 langues
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/eightify)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/eightify)
 
 <br />
 
@@ -5134,7 +5283,7 @@ HitPaw Online Video Enhancer est la meilleure solution pour les vidéos basse r�
 
 LiveReacting vous aide à obtenir plus d'abonnés et d'engagement en ajoutant des vidéos, des jeux, des comptes à rebours et des sondages préenregistrés à votre flux.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ai-host)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-host)
 
 <br />
 
@@ -5149,7 +5298,7 @@ LiveReacting vous aide à obtenir plus d'abonnés et d'engagement en ajoutant de
 
 Créez des vidéos à partir de scripts ou d'articles de blog en utilisant des voix réalistes en 2 minutes !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/fliki)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/fliki)
 
 <br />
 
@@ -5164,7 +5313,7 @@ Créez des vidéos à partir de scripts ou d'articles de blog en utilisant des v
 
 Créez automatiquement des vidéos de marque courtes et hautement partageables à partir de votre contenu long
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/pictory)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/pictory)
 
 <br />
 
@@ -5179,7 +5328,7 @@ Créez automatiquement des vidéos de marque courtes et hautement partageables �
 
 WZRD augmente votre audio avec une vidéo immersive alimentée par l'intelligence artificielle
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/wzrd.ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/wzrd.ai)
 
 <br />
 
@@ -5195,7 +5344,7 @@ WZRD augmente votre audio avec une vidéo immersive alimentée par l'intelligenc
 HitPaw Video Enhancer permet d'améliorer facilement la qualité vidéo sans la perdre. Cet amplificateur vidéo basé sur l'IA peut améliorer la qualité d'une vidéo, coloriser des vidéos en noir et blanc, convertir des vidéos de faible qualité en 1080P, 4K ou 8K.
 L'upscaler vidéo HitPaw permet d'améliorer n'importe quelle vidéo grâce à plusieurs modèles d'IA : débruitage, animation, visage, colorisation, amélioration des couleurs, modèle d'interpolation d'images, stabilisation
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/hitpaw-video-enhancer)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/hitpaw-video-enhancer)
 
 <br />
 
@@ -5210,7 +5359,7 @@ L'upscaler vidéo HitPaw permet d'améliorer n'importe quelle vidéo grâce à p
 
 Créer la meilleure application de navigation. Grâce à des technologies de pointe telles que l'apprentissage automatique et la blockchain, Atlas Navi est en passe de devenir le principal choix de navigation pour les conducteurs du monde entier. Des localisations précises grâce à l'IA pour un meilleur itinéraire. Elle analyse la route 25 fois par seconde, ce qui génère des données 100 fois meilleures que les autres applications de navigation ; 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/atlas-navi)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/atlas-navi)
 
 <br />
 
@@ -5229,7 +5378,7 @@ Créer la meilleure application de navigation. Grâce à des technologies de poi
 
 Un outil de conception magique pour Figma alimenté par l'IA.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/magician)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/magician)
 
 <br />
 
@@ -5244,7 +5393,7 @@ Un outil de conception magique pour Figma alimenté par l'IA.
 
 Créez n'importe quoi en ligne en 2 minutes ! Créez un logo, une vidéo, une bannière de médias sociaux, une carte de visite, un dépliant, une maquette et plus encore avec l'IA.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/designs-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/designs-ai)
 
 <br />
 
@@ -5259,7 +5408,7 @@ Créez n'importe quoi en ligne en 2 minutes ! Créez un logo, une vidéo, une ba
 
 Travaillez avec des experts fiables et approuvés qui ont construit des produits de plusieurs millions de dollars
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ai-project-description-generator)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-project-description-generator)
 
 <br />
 
@@ -5274,7 +5423,7 @@ Travaillez avec des experts fiables et approuvés qui ont construit des produits
 
 Concevez de superbes sites Web, applications Web, applications mobiles, interfaces, structures filaires, prototypes, maquettes en quelques minutes. Visualisez et communiquez vos idées sans effort. Aucune expérience en conception requise !
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/uizard)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/uizard)
 
 <br />
 
@@ -5289,7 +5438,7 @@ Concevez de superbes sites Web, applications Web, applications mobiles, interfac
 
 Créez un site Web en 30 secondes avec AI - Le constructeur de site Web AI qui génère un site Web entier avec des images et copie en quelques secondes.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/durable)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/durable)
 
 <br />
 
@@ -5304,7 +5453,7 @@ Créez un site Web en 30 secondes avec AI - Le constructeur de site Web AI qui g
 
 Créer du contenu époustouflant sur votre téléphone est devenu facile
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/piggy)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/piggy)
 
 <br />
 
@@ -5319,7 +5468,7 @@ Créer du contenu époustouflant sur votre téléphone est devenu facile
 
 Inscrivez-vous sur la liste d'attente de Genius by Diagram
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/genius-by-diagram)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/genius-by-diagram)
 
 <br />
 
@@ -5334,7 +5483,7 @@ Inscrivez-vous sur la liste d'attente de Genius by Diagram
 
 Créez de superbes sites Web en 30 secondes, y compris des copies et même des images alimentées par l'IA
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/stunning.so)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/stunning.so)
 
 <br />
 
@@ -5349,7 +5498,7 @@ Créez de superbes sites Web en 30 secondes, y compris des copies et même des i
 
 Notre créateur de site Web alimenté par l'IA génère instantanément votre présence en ligne prête pour le client, avec des outils, du contenu et des images spécifiquement pour votre secteur
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/b12-ai-website-builder)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/b12-ai-website-builder)
 
 <br />
 
@@ -5369,7 +5518,7 @@ Copilote d'écriture d'IA - [Visit](https://www.thataicollection.com/redirect/hi
 
 IX.AI : votre copilote d'écriture d'IA tout-en-un le plus puissant. Générez des copies de haute qualité pour les publicités, les e-mails, les blogs et bien plus encore en quelques secondes avec HIX.AI, le copilote d'écriture d'IA tout-en-un le plus puissant du marché.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/hix.ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/hix.ai)
 
 <br />
 
@@ -5386,7 +5535,7 @@ Rytr est un assistant de rédaction basé sur l'intelligence artificielle qui t'
 Génère du contenu exceptionnel, sans effort
 Ne sois plus jamais confrontée au blocage des rédacteurs : qu'il s'agisse de blogs, d'e-mails ou de copies publicitaires, générez automatiquement des copies accrocheuses, originales et à fort taux de conversion dans des tons et des langues populaires en quelques secondes. 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/rytr)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/rytr)
 
 <br />
 
@@ -5401,7 +5550,7 @@ Ne sois plus jamais confrontée au blocage des rédacteurs : qu'il s'agisse de 
 
 Gagnez des heures chaque jour. Le premier rédacteur IA au monde qui fonctionne sur votre Mac, iPhone et iPad.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/elephas)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/elephas)
 
 <br />
 
@@ -5416,7 +5565,7 @@ Gagnez des heures chaque jour. Le premier rédacteur IA au monde qui fonctionne 
 
 Vos mots comptent, et notre outil de paraphrase est conçu pour vous assurer d'utiliser les bons. Avec deux modes gratuits et cinq modes Premium au choix, vous pouvez utiliser le Paraphraser en ligne de QuillBot pour reformuler n'importe quel texte de différentes manières.
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/quillbot-paraphraser)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/quillbot-paraphraser)
 
 <br />
 
@@ -5431,7 +5580,7 @@ Vos mots comptent, et notre outil de paraphrase est conçu pour vous assurer d'u
 
 Tyly est le clavier IA de pointe ultime qui vous aide à répondre à tous vos messages en un seul clic !🚀
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/typly)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/typly)
 
 <br />
 
@@ -5446,7 +5595,7 @@ Tyly est le clavier IA de pointe ultime qui vous aide à répondre à tous vos m
 
 Générez vos propres paroles de chansons pour n'importe quel sujet, choisissez également le genre de paroles et l'ambiance des paroles
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ai-lyrics-generator)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-lyrics-generator)
 
 <br />
 
@@ -5461,7 +5610,7 @@ Générez vos propres paroles de chansons pour n'importe quel sujet, choisissez 
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/paraphraser-ai)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/paraphraser-ai)
 
 <br />
 
@@ -5476,7 +5625,7 @@ Générez vos propres paroles de chansons pour n'importe quel sujet, choisissez 
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/wordtune)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/wordtune)
 
 <br />
 
@@ -5491,7 +5640,7 @@ Générez vos propres paroles de chansons pour n'importe quel sujet, choisissez 
 
 Le générateur de paragraphes AI est un outil de création de contenu de pointe qui exploite le pouvoir de l'intelligence artificielle. Grâce au traitement avancé du langage naturel et à l'apprentissage automatique, il génère rapidement des paragraphes cohérents et contextuellement pertinents, ce qui en fait une ressource inestimable pour répondre à diverses exigences rédactionnelles. 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/ai-paragraph-generator)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-paragraph-generator)
 
 <br />
 
@@ -5506,7 +5655,7 @@ Le générateur de paragraphes AI est un outil de création de contenu de pointe
 
 
 
-[See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/fr/application/paraphraser)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/paraphraser)
 
 <br />
 
