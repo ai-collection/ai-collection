@@ -14,6 +14,8 @@ Unlock cash runway & growth insights — no spreadsheets! 7 minute onboarding. Q
 
 <br />
 
+<br />
+
 ---
 
 ### StockGPT - [Visit](https://www.thataicollection.com/redirect/stockgpt)
@@ -25,6 +27,8 @@ Unlock cash runway & growth insights — no spreadsheets! 7 minute onboarding. Q
 StockGPT is an AI-powered search engine that was trained on all of Teslas quarterly earnings call transcripts dating back to Q2 2011.
 
 [See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/en/application/stockgpt)
+
+<br />
 
 <br />
 
@@ -42,6 +46,8 @@ problems Jinnee could solve: Limited capacity - Support department cannot proces
 
 <br />
 
+
+
 ---
 
 ### Stocknews AI - [Visit](https://www.thataicollection.com/redirect/stocknews-ai)
@@ -54,6 +60,8 @@ Picked by AI
 Stocknews AI is a curation of the best new stocknews, every day. Discover the latest stocknews that everyone's talking about.
 
 [See More Information and Pricing Plans on AI Collection](https://www.thataicollection.com/en/application/stocknews-ai)
+
+<br />
 
 <br />
 
