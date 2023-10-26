@@ -164,7 +164,6 @@ Desbloquee la pista de efectivo y las perspectivas de crecimiento, ¡sin hojas d
 
 
 
----
 
 ### StockGPT
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stockgpt.webp?twic=v1/resize=240" alt="StockGPT">
@@ -179,7 +178,6 @@ StockGPT es un motor de búsqueda impulsado por inteligencia artificial que se e
 
 
 
----
 
 ### Jinnee
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jinnee.webp?twic=v1/resize=240" alt="Jinnee">
@@ -194,7 +192,6 @@ Problemas que Jinnee podría resolver: Capacidad limitada: el departamento de so
 
 
 
----
 
 ### Stocknews AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stocknews-ai.webp?twic=v1/resize=240" alt="Stocknews AI">
@@ -210,12 +207,11 @@ Stocknews AI es una selección de las mejores noticias bursátiles nuevas de tod
 
 
 
----
 
 
 [See All 📈 Cuentas y finanzas Applications on AI Collection](https://www.thataicollection.com/es/categories/accounting-and-finance)
 
-___
+---
 
 ## Animación y Modelado 3D
 
@@ -234,7 +230,6 @@ Blimey es un generador de imágenes de IA en el que puedes pasar de la idea a la
 
 
 
----
 
 ### TextureLab
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-texturelab.webp?twic=v1/resize=240" alt="TextureLab">
@@ -249,7 +244,6 @@ Genera texturas 3D para tu juego en segundos gracias a la IA.
 
 <br />
 
----
 
 ### Kaedim
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-kaedim.webp?twic=v1/resize=240" alt="Kaedim">
@@ -264,7 +258,6 @@ Deje de perder horas con las herramientas de modelado. Genere arte 3D impresiona
 
 <br />
 
----
 
 ### plask
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-plask.webp?twic=v1/resize=240" alt="plask">
@@ -279,7 +272,6 @@ Extraiga fácilmente el movimiento del video sin costosos trajes ni trabajos de 
 
 <br />
 
----
 
 ### lumalabs
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lumalabs.webp?twic=v1/resize=240" alt="lumalabs">
@@ -294,12 +286,11 @@ Un experimento inicial para crear prototipos y crear 3D con texto El acceso a la
 
 
 
----
 
 
 [See All 🎲 Animación y Modelado 3D Applications on AI Collection](https://www.thataicollection.com/es/categories/animation-and-3d-modeling)
 
-___
+---
 
 ## Arquitectura e Interiorismo
 
@@ -318,7 +309,6 @@ Nuestro software de diseño generativo permite a los arquitectos, constructores 
 
 
 
----
 
 ### Interior AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-interior-ai.webp?twic=v1/resize=240" alt="Interior AI">
@@ -333,7 +323,6 @@ Obtenga ideas de diseño de interiores utilizando inteligencia artificial y orga
 
 
 
----
 
 ### Image Computer
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-image-computer.webp?twic=v1/resize=240" alt="Image Computer">
@@ -348,7 +337,6 @@ Utilice nuestra poderosa tecnología de IA para generar cualquier tipo de imagen
 
 <br />
 
----
 
 ### Dimensions
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dimensions.webp?twic=v1/resize=240" alt="Dimensions">
@@ -363,7 +351,6 @@ Imagine poder crear hermosos diseños de interiores con facilidad: eso es lo que
 
 <br />
 
----
 
 ### AI Room Planner
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-room-planner.webp?twic=v1/resize=240" alt="AI Room Planner">
@@ -378,7 +365,6 @@ Obtenga cientos de ideas de diseño de interiores para su habitación, gratis y 
 
 <br />
 
----
 
 ### Getfloorplan
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-getfloorplan.webp?twic=v1/resize=240" alt="Getfloorplan">
@@ -393,7 +379,6 @@ Hasta un 30% de aumento de llamadas reportado por nuestros clientes usando plano
 
 <br />
 
----
 
 ### AI TWO
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-two.webp?twic=v1/resize=240" alt="AI TWO">
@@ -408,12 +393,11 @@ Hasta un 30% de aumento de llamadas reportado por nuestros clientes usando plano
 
 <br />
 
----
 
 
 [See All 🏯 Arquitectura e Interiorismo Applications on AI Collection](https://www.thataicollection.com/es/categories/architecture-and-interior-design)
 
-___
+---
 
 ## Generador de imágenes y arte
 
@@ -432,7 +416,6 @@ getimg.ai es un conjunto de herramientas mágicas de IA. Genere imágenes origin
 
 
 
----
 
 ### ICONS8
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-icons8.webp?twic=v1/resize=240" alt="ICONS8">
@@ -447,7 +430,6 @@ ICONS8 PERMITE A LOS DISEÑADORES EXPRESAR SUS IDEAS Y PROPORCIONARLES LOS ELEME
 
 
 
----
 
 ### CustomQR AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-customqr-ai.webp?twic=v1/resize=240" alt="CustomQR AI">
@@ -462,7 +444,6 @@ Obtenga hermosos códigos QR artísticos en su correo electrónico en menos de 1
 
 
 
----
 
 ### Playground
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-playground.webp?twic=v1/resize=240" alt="Playground">
@@ -477,7 +458,6 @@ Playground AI es un creador de imágenes de IA en línea de uso gratuito. Úselo
 
 
 
----
 
 ### Designify
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-designify.webp?twic=v1/resize=240" alt="Designify">
@@ -492,7 +472,6 @@ Crea fotos de productos excepcionales y más: elige cualquier imagen para comenz
 
 <br />
 
----
 
 ### DrawAnyone
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-drawanyone.webp?twic=v1/resize=240" alt="DrawAnyone">
@@ -507,7 +486,6 @@ Retratos generados por IA, como quieras. drawanyone.ai te permite personalizar t
 
 <br />
 
----
 
 ### Anime AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-anime-ai.webp?twic=v1/resize=240" alt="Anime AI">
@@ -522,7 +500,6 @@ Crea tu imagen de anime perfecta con IA. ¡Elige entre los estilos One Piece, Na
 
 <br />
 
----
 
 ### SnapshotAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-snapshotai.webp?twic=v1/resize=240" alt="SnapshotAI">
@@ -537,7 +514,6 @@ Crea tus propias imágenes generadas por IA
 
 <br />
 
----
 
 ### Mini Dalle 3 Online
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-mini-dalle-3-online.webp?twic=v1/resize=240" alt="Mini Dalle 3 Online">
@@ -552,7 +528,6 @@ None
 
 <br />
 
----
 
 ### Not Me Netlify
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-not-me-netlify.webp?twic=v1/resize=240" alt="Not Me Netlify">
@@ -567,12 +542,11 @@ Explore millones de estilos o cree el suyo propio, genere autorretratos de IA.
 
 <br />
 
----
 
 
 [See All 🌄 Generador de imágenes y arte Applications on AI Collection](https://www.thataicollection.com/es/categories/art-and-image-generator)
 
-___
+---
 
 ## avatares
 
@@ -591,7 +565,6 @@ HairstyleAI te permite probar nuevos cortes de pelo con IA virtualmente antes de
 
 
 
----
 
 ### AvatarAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-avatarai.webp?twic=v1/resize=240" alt="AvatarAI">
@@ -606,7 +579,6 @@ Elige entre más de 112 estilos diferentes para transformarte
 
 <br />
 
----
 
 ### Character.io
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-character.io.webp?twic=v1/resize=240" alt="Character.io">
@@ -621,7 +593,6 @@ Genere un conjunto aleatorio de personajes o avatares con el poder de las GAN. P
 
 <br />
 
----
 
 ### Avtrs
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-avtrs.webp?twic=v1/resize=240" alt="Avtrs">
@@ -636,7 +607,6 @@ Genere un conjunto aleatorio de personajes o avatares con el poder de las GAN. P
 
 
 
----
 
 ### Autoportrait
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-autoportrait.webp?twic=v1/resize=240" alt="Autoportrait">
@@ -651,7 +621,6 @@ Explore millones de estilos o cree el suyo propio, genere autorretratos de IA.
 
 <br />
 
----
 
 ### AIVatar
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aivatar.webp?twic=v1/resize=240" alt="AIVatar">
@@ -666,7 +635,6 @@ Genera arte de avatar mágico a partir de tus fotos.
 
 <br />
 
----
 
 ### AIprofilepic
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aiprofilepic.webp?twic=v1/resize=240" alt="AIprofilepic">
@@ -681,7 +649,6 @@ Cree sus avatares perfectos con solo unos pocos clics con nuestra tecnología de
 
 <br />
 
----
 
 ### DreamPic
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dreampic.webp?twic=v1/resize=240" alt="DreamPic">
@@ -696,7 +663,6 @@ Imágenes generadas por IA protagonizadas por ti
 
 <br />
 
----
 
 ### EpicAvatar
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-epicavatar.webp?twic=v1/resize=240" alt="EpicAvatar">
@@ -711,7 +677,6 @@ Cree sus propias imágenes de perfil de avatar de IA de última generación
 
 <br />
 
----
 
 ### Tryitonai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tryitonai.webp?twic=v1/resize=240" alt="Tryitonai">
@@ -726,12 +691,11 @@ Cree sus propias imágenes de perfil de avatar de IA de última generación
 
 
 
----
 
 
 [See All 😎 avatares Applications on AI Collection](https://www.thataicollection.com/es/categories/avatars)
 
-___
+---
 
 ## Robot de chat
 
@@ -750,7 +714,6 @@ ChatSimple es una plataforma que se especializa en crear chatbots orientados a l
 
 
 
----
 
 ### SiteSpeakAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sitespeakai.webp?twic=v1/resize=240" alt="SiteSpeakAI">
@@ -765,7 +728,6 @@ Crea un chatbot de soporte de IA personalizado con tu propio contenido, document
 
 
 
----
 
 ### Dante
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dante.webp?twic=v1/resize=240" alt="Dante">
@@ -780,7 +742,6 @@ Codificación cero. Comparte en tu sitio web en minutos. Cree un chatbot GPT-4 e
 
 <br />
 
----
 
 ### ChatBotKit
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chatbotkit.webp?twic=v1/resize=240" alt="ChatBotKit">
@@ -795,7 +756,6 @@ ChatBotKit lo ayuda a crear chatbots conversacionales de IA con sus propios dato
 
 
 
----
 
 ### SiteGPT
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sitegpt.webp?twic=v1/resize=240" alt="SiteGPT">
@@ -810,7 +770,6 @@ Responda instantáneamente a las preguntas de sus visitantes con un chatbot pers
 
 <br />
 
----
 
 ### NOLU
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-nolu.webp?twic=v1/resize=240" alt="NOLU">
@@ -825,7 +784,6 @@ Conoce a NOLU. Una interfaz simple para interactuar con el motor Open AI GPT-3.
 
 <br />
 
----
 
 ### Chai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chai.webp?twic=v1/resize=240" alt="Chai">
@@ -840,7 +798,6 @@ Chai es EL destino para conversaciones convincentes con IA. En Chai, puede crear
 
 <br />
 
----
 
 ### Askrobi
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-askrobi.webp?twic=v1/resize=240" alt="Askrobi">
@@ -855,7 +812,6 @@ Robi es un poderoso compañero de IA que vive en su lista de contactos y se le p
 
 
 
----
 
 ### MyAnima AI Companion
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-myanima-ai-companion.webp?twic=v1/resize=240" alt="MyAnima AI Companion">
@@ -870,7 +826,6 @@ Compañero de IA que se preocupa. Tenga una charla amistosa, un juego de roles, 
 
 <br />
 
----
 
 ### Kore.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-kore.ai.webp?twic=v1/resize=240" alt="Kore.ai">
@@ -885,12 +840,11 @@ Kore.ai automatiza las interacciones entre la oficina principal y la oficina adm
 
 
 
----
 
 
 [See All 🤖💬 Robot de chat Applications on AI Collection](https://www.thataicollection.com/es/categories/chat-bot)
 
-___
+---
 
 ## Asistente de código y base de datos
 
@@ -909,7 +863,6 @@ Cree estructuras de documentación, genere explicaciones de código y mejore la 
 
 <br />
 
----
 
 ### CodiumAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-codiumai.webp?twic=v1/resize=240" alt="CodiumAI">
@@ -924,7 +877,6 @@ CodiumAI analiza su código y genera pruebas significativas para detectar errore
 
 <br />
 
----
 
 ### CodeWP
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-codewp.webp?twic=v1/resize=240" alt="CodeWP">
@@ -939,7 +891,6 @@ CodeWP es un generador de código de WordPress que utiliza IA y modelos especial
 
 
 
----
 
 ### ExplainDev
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-explaindev.webp?twic=v1/resize=240" alt="ExplainDev">
@@ -954,7 +905,6 @@ ExpliqueDev lo ayuda a tener más confianza e independencia con el código de ot
 
 
 
----
 
 ### TLDR - Jetbrains IDE Plugin
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tldr---jetbrains-ide-plugin.webp?twic=v1/resize=240" alt="TLDR - Jetbrains IDE Plugin">
@@ -969,7 +919,6 @@ TLDR es un complemento IDE que aprovecha la IA para explicar el código en un le
 
 <br />
 
----
 
 ### Ghostwriter
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ghostwriter.webp?twic=v1/resize=240" alt="Ghostwriter">
@@ -984,7 +933,6 @@ Ejecute el código en vivo en su navegador. Escriba y ejecute código en más de
 
 
 
----
 
 ### Whatthediff
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-whatthediff.webp?twic=v1/resize=240" alt="Whatthediff">
@@ -999,7 +947,6 @@ La aplicación GitHub impulsada por IA que explica los cambios dentro de sus sol
 
 <br />
 
----
 
 ### CodeAssist
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-codeassist.webp?twic=v1/resize=240" alt="CodeAssist">
@@ -1014,7 +961,6 @@ Genera, cambia, completa el código y responde preguntas.
 
 <br />
 
----
 
 ### Klu
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-klu.webp?twic=v1/resize=240" alt="Klu">
@@ -1029,7 +975,6 @@ Klu.ai es una plataforma todo en uno diseñada para que los equipos de IA creen,
 
 
 
----
 
 ### Tabnine
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tabnine.webp?twic=v1/resize=240" alt="Tabnine">
@@ -1044,12 +989,11 @@ Tanto si forma parte de un equipo como si es un desarrollador que trabaja por su
 
 
 
----
 
 
 [See All 💻 Asistente de código y base de datos Applications on AI Collection](https://www.thataicollection.com/es/categories/code-and-database-assistant)
 
-___
+---
 
 ## Generación de contenido y SEO
 
@@ -1068,7 +1012,6 @@ Elija una de nuestras 50 plantillas y cree una copia atractiva para una variedad
 
 
 
----
 
 ### Jasper.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jasper.ai.webp?twic=v1/resize=240" alt="Jasper.ai">
@@ -1083,7 +1026,6 @@ Jasper es el generador de contenido de IA que te ayuda a ti y a tu equipo a supe
 
 
 
----
 
 ### LongShot AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-longshot-ai.webp?twic=v1/resize=240" alt="LongShot AI">
@@ -1098,7 +1040,6 @@ LongShot es un asistente de escritura de IA que lo ayuda a pasar de la idea al c
 
 
 
----
 
 ### Dashword
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dashword.webp?twic=v1/resize=240" alt="Dashword">
@@ -1113,7 +1054,6 @@ Dashword es el software de optimización de contenido n.º 1 para equipos de SEO
 
 
 
----
 
 ### unbound
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-unbound.webp?twic=v1/resize=240" alt="unbound">
@@ -1128,7 +1068,6 @@ Aproveche las mejores herramientas de generación de IA en un solo lugar diseña
 
 
 
----
 
 ### Neuraltext
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-neuraltext.webp?twic=v1/resize=240" alt="Neuraltext">
@@ -1143,7 +1082,6 @@ Automatice sus operaciones de contenido. La plataforma todo en uno de marketing 
 
 <br />
 
----
 
 ### WordAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wordai.webp?twic=v1/resize=240" alt="WordAI">
@@ -1158,7 +1096,6 @@ Utilice la inteligencia artificial para reducir el tiempo de respuesta, ampliar 
 
 
 
----
 
 ### Intelligent paraphraser
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-intelligent-paraphraser.webp?twic=v1/resize=240" alt="Intelligent paraphraser">
@@ -1173,7 +1110,6 @@ Obtén superpoderes de escritura con inteligencia artificial. Nosotros en AISEO 
 
 
 
----
 
 ### Creator AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-creator-ai.webp?twic=v1/resize=240" alt="Creator AI">
@@ -1188,7 +1124,6 @@ Creaitor lo ayudará a escribir contenido de una manera más poderosa y emociona
 
 <br />
 
----
 
 ### ArticleForge
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-articleforge.webp?twic=v1/resize=240" alt="ArticleForge">
@@ -1203,12 +1138,11 @@ Utilizando inteligencia artificial avanzada y aprendizaje profundo, Article Forg
 
 
 
----
 
 
 [See All 📠 Generación de contenido y SEO Applications on AI Collection](https://www.thataicollection.com/es/categories/content-generation-and-seo)
 
-___
+---
 
 ## Kit de herramientas para creadores
 
@@ -1229,7 +1163,6 @@ Ejemplo de algunas herramientas: Generador de políticas de privacidad, capturas
 
 
 
----
 
 ### Clipdrop
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-clipdrop.webp?twic=v1/resize=240" alt="Clipdrop">
@@ -1244,7 +1177,6 @@ El ecosistema definitivo de aplicaciones, complementos y recursos para todos los
 
 <br />
 
----
 
 ### Descript
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-descript.webp?twic=v1/resize=240" alt="Descript">
@@ -1259,7 +1191,6 @@ Descript es la manera simple, poderosa y divertida de editar.
 
 <br />
 
----
 
 ### Cutout Pro
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cutout-pro.webp?twic=v1/resize=240" alt="Cutout Pro">
@@ -1274,7 +1205,6 @@ Plataforma de diseño visual todo en uno que contiene herramientas de edición d
 
 
 
----
 
 ### Fermat
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fermat.webp?twic=v1/resize=240" alt="Fermat">
@@ -1289,7 +1219,6 @@ Dé rienda suelta a su creatividad con IA en un lienzo colaborativo.
 
 <br />
 
----
 
 ### Hotpot
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hotpot.webp?twic=v1/resize=240" alt="Hotpot">
@@ -1304,7 +1233,6 @@ Hotpot.ai te ayuda a crear gráficos, imágenes y texto asombrosos. Las herramie
 
 
 
----
 
 ### Lightricks
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lightricks.webp?twic=v1/resize=240" alt="Lightricks">
@@ -1319,7 +1247,6 @@ Experimenta la magia de crear con las mejores herramientas y servicios para crea
 
 
 
----
 
 ### Runway
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-runway.webp?twic=v1/resize=240" alt="Runway">
@@ -1334,7 +1261,6 @@ Descubra capacidades avanzadas de edición de video para llevar sus creaciones a
 
 <br />
 
----
 
 ### Phygital
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-phygital.webp?twic=v1/resize=240" alt="Phygital">
@@ -1349,7 +1275,6 @@ Espacio de trabajo de IA basado en nodos para que los creadores trabajen con red
 
 <br />
 
----
 
 ### TextSynth
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-textsynth.webp?twic=v1/resize=240" alt="TextSynth">
@@ -1364,12 +1289,11 @@ TextSynth emplea un código de inferencia personalizado para obtener inferencias
 
 
 
----
 
 
 [See All 🧰 Kit de herramientas para creadores Applications on AI Collection](https://www.thataicollection.com/es/categories/creators-toolkit)
 
-___
+---
 
 ## Atención al cliente
 
@@ -1388,7 +1312,6 @@ Use GPT-4 para interactuar con clientes potenciales, responder preguntas sobre s
 
 
 
----
 
 ### AI Answers by Cohere
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-answers-by-cohere.webp?twic=v1/resize=240" alt="AI Answers by Cohere">
@@ -1403,7 +1326,6 @@ Asistencia de soporte impulsada por IA que encuentra respuestas de tickets anter
 
 <br />
 
----
 
 ### Bahasa
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-bahasa.webp?twic=v1/resize=240" alt="Bahasa">
@@ -1418,7 +1340,6 @@ Automatización que ayuda a su empresa a atender rápidamente a millones de clie
 
 
 
----
 
 ### ResolveAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-resolveai.webp?twic=v1/resize=240" alt="ResolveAI">
@@ -1433,7 +1354,6 @@ Nuestros chatbots de IA están diseñados para comprender los problemas de los c
 
 
 
----
 
 ### EddyAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-eddyai.webp?twic=v1/resize=240" alt="EddyAI">
@@ -1448,7 +1368,6 @@ Aumente las ventas y reduzca los costos de soporte
 
 <br />
 
----
 
 ### Poised 2.0
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-poised-2.0.webp?twic=v1/resize=240" alt="Poised 2.0">
@@ -1463,7 +1382,6 @@ Tu socio de comentarios sobre la IA en presentaciones, entrevistas y llamadas a 
 
 
 
----
 
 ### OneTone.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-onetone.ai.webp?twic=v1/resize=240" alt="OneTone.ai">
@@ -1478,7 +1396,6 @@ OneTone.ai es una plataforma impulsada por IA que le brinda información valiosa
 
 
 
----
 
 ### ChatGenius
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chatgenius.webp?twic=v1/resize=240" alt="ChatGenius">
@@ -1493,7 +1410,6 @@ ChatGenius es una empresa de software que ofrece una potente solución de chatbo
 
 
 
----
 
 ### ChatFlow
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chatflow.webp?twic=v1/resize=240" alt="ChatFlow">
@@ -1510,7 +1426,6 @@ Crea chatbots con IA para atraer a tus clientes, aumentar las conversiones y aum
 
 
 
----
 
 ### WADeck
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wadeck.webp?twic=v1/resize=240" alt="WADeck">
@@ -1525,12 +1440,11 @@ WaDeck es una herramienta de CRM gratuita para WhatsApp con un asistente de IA c
 
 
 
----
 
 
 [See All 👨‍💻 Atención al cliente Applications on AI Collection](https://www.thataicollection.com/es/categories/customer-support)
 
-___
+---
 
 ## Comercio electrónico
 
@@ -1549,7 +1463,6 @@ Escriba correos electrónicos, descripciones de productos y más, con A.I. Cread
 
 <br />
 
----
 
 ### Embolden
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-embolden.webp?twic=v1/resize=240" alt="Embolden">
@@ -1564,7 +1477,6 @@ Embolden usa IA para ayudarlo a escribir todo, desde correos electrónicos hasta
 
 <br />
 
----
 
 ### Wizishop
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wizishop.webp?twic=v1/resize=240" alt="Wizishop">
@@ -1579,7 +1491,6 @@ WiziShop hace que el comercio electrónico impulsado por SEO sea más fácil que
 
 
 
----
 
 ### DoMyShoot
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-domyshoot.webp?twic=v1/resize=240" alt="DoMyShoot">
@@ -1594,7 +1505,6 @@ Guíese a sí mismo a través de una sesión de fotos usando solo su teléfono i
 
 
 
----
 
 ### manifest
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-manifest.webp?twic=v1/resize=240" alt="manifest">
@@ -1609,7 +1519,6 @@ Obtenga su propio asistente de compras AI en vivo dentro de 1 minuto. Transforme
 
 <br />
 
----
 
 ### Gizzmo Ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gizzmo-ai.webp?twic=v1/resize=240" alt="Gizzmo Ai">
@@ -1624,7 +1533,6 @@ Gizzmo es un poderoso complemento de WordPress que simplifica el proceso de crea
 
 
 
----
 
 ### VModel
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-vmodel.webp?twic=v1/resize=240" alt="VModel">
@@ -1639,7 +1547,6 @@ VModel utiliza la tecnología de inteligencia artificial para generar modelos de
 
 
 
----
 
 ### GPT Gifts
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gpt-gifts.webp?twic=v1/resize=240" alt="GPT Gifts">
@@ -1654,12 +1561,11 @@ None
 
 <br />
 
----
 
 
 [See All 🛒 Comercio electrónico Applications on AI Collection](https://www.thataicollection.com/es/categories/ecommerce)
 
-___
+---
 
 ## Educación y aprendizaje
 
@@ -1678,7 +1584,6 @@ Cree y comparta preguntas de prueba, tarjetas didácticas y notas al instante, d
 
 
 
----
 
 ### Botta
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-botta.webp?twic=v1/resize=240" alt="Botta">
@@ -1693,7 +1598,6 @@ Su asistente de enseñanza personal y gratuito. Haga preguntas, obtenga respuest
 
 <br />
 
----
 
 ### Speakingclubai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-speakingclubai.webp?twic=v1/resize=240" alt="Speakingclubai">
@@ -1708,7 +1612,6 @@ Bienvenido a Speaking Club AI: la herramienta de aprendizaje de idiomas definiti
 
 
 
----
 
 ### Lorro
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lorro.webp?twic=v1/resize=240" alt="Lorro">
@@ -1723,7 +1626,6 @@ Haga que sus correos electrónicos fríos sean mucho más cálidos con una copia
 
 <br />
 
----
 
 ### TutorAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tutorai.webp?twic=v1/resize=240" alt="TutorAI">
@@ -1738,7 +1640,6 @@ TutoeAI Learn Anything es un motor de búsqueda de módulos de aprendizaje de cu
 
 
 
----
 
 ### Teacherbot
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-teacherbot.webp?twic=v1/resize=240" alt="Teacherbot">
@@ -1753,7 +1654,6 @@ Hemos desarrollado la herramienta más poderosa a la que puede acceder un profes
 
 
 
----
 
 ### Replicate
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-replicate.webp?twic=v1/resize=240" alt="Replicate">
@@ -1768,7 +1668,6 @@ Ejecute modelos de código abierto con una API en la nube.
 
 <br />
 
----
 
 ### teachology.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-teachology.ai.webp?twic=v1/resize=240" alt="teachology.ai">
@@ -1783,7 +1682,6 @@ Planificar lecciones: aproveche la IA para redactar sus lecciones y exportarlas 
 
 
 
----
 
 ### Cratecode
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cratecode.webp?twic=v1/resize=240" alt="Cratecode">
@@ -1798,7 +1696,6 @@ Planificar lecciones: aproveche la IA para redactar sus lecciones y exportarlas 
 
 
 
----
 
 ### Wilco Sierra
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wilco-sierra.webp?twic=v1/resize=240" alt="Wilco Sierra">
@@ -1813,12 +1710,11 @@ Planificar lecciones: aproveche la IA para redactar sus lecciones y exportarlas 
 
 
 
----
 
 
 [See All 🧠 Educación y aprendizaje Applications on AI Collection](https://www.thataicollection.com/es/categories/education-and-learning)
 
-___
+---
 
 ## Asistente de correo electrónico
 
@@ -1837,7 +1733,6 @@ Nunca pierdas el tiempo investigando o escribiendo correos electrónicos 'person
 
 
 
----
 
 ### Warmer.Ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-warmer.ai.webp?twic=v1/resize=240" alt="Warmer.Ai">
@@ -1852,7 +1747,6 @@ Warmer utiliza la personalización de correo electrónico de AI para escribir su
 
 
 
----
 
 ### DraftLab
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-draftlab.webp?twic=v1/resize=240" alt="DraftLab">
@@ -1867,7 +1761,6 @@ Lucha contra el bloqueo del escritor y logra la bandeja de entrada cero. DraftLa
 
 
 
----
 
 ### Ellie
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ellie.webp?twic=v1/resize=240" alt="Ellie">
@@ -1882,7 +1775,6 @@ Ellie aprende de tu estilo de escritura y crea respuestas como si las hubieras e
 
 <br />
 
----
 
 ### EmailTriager
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-emailtriager.webp?twic=v1/resize=240" alt="EmailTriager">
@@ -1897,7 +1789,6 @@ En EmailTriager, creamos productos que funcionan en su nombre.
 
 <br />
 
----
 
 ### Quicklines
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-quicklines.webp?twic=v1/resize=240" alt="Quicklines">
@@ -1912,7 +1803,6 @@ Quicklines es su nuevo asistente de divulgación en frío impulsado por IA. Lo a
 
 
 
----
 
 ### superReply
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-superreply.webp?twic=v1/resize=240" alt="superReply">
@@ -1927,7 +1817,6 @@ El truco de respuesta de correo electrónico que ha estado esperando: envíe fá
 
 
 
----
 
 ### Rapidreply
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rapidreply.webp?twic=v1/resize=240" alt="Rapidreply">
@@ -1942,7 +1831,6 @@ Ahorre 30 minutos al día escribiendo correos electrónicos
 
 <br />
 
----
 
 ### Recruiting Emails AI by Dover
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-recruiting-emails-ai-by-dover.webp?twic=v1/resize=240" alt="Recruiting Emails AI by Dover">
@@ -1957,7 +1845,6 @@ Haga que sus correos electrónicos fríos sean mucho más cálidos con una copia
 
 <br />
 
----
 
 ### Intellimail
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-intellimail.webp?twic=v1/resize=240" alt="Intellimail">
@@ -1972,12 +1859,11 @@ IntelliMail es una extensión de Chrome que genera sus correos electrónicos, po
 
 <br />
 
----
 
 
 [See All 📧 Asistente de correo electrónico Applications on AI Collection](https://www.thataicollection.com/es/categories/email-assistant)
 
-___
+---
 
 ## Moda
 
@@ -1996,7 +1882,6 @@ FashionAdvisor es una IA basada en GPT3 que responderá todas sus preguntas rela
 
 <br />
 
----
 
 ### Visualhound
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-visualhound.webp?twic=v1/resize=240" alt="Visualhound">
@@ -2011,7 +1896,6 @@ Visualice los diseños de sus productos antes de pasar a producción. Cree imág
 
 
 
----
 
 ### SwagAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-swagai.webp?twic=v1/resize=240" alt="SwagAI">
@@ -2028,12 +1912,11 @@ SwagAI: imágenes generadas por la IA en las camisetas.
 
 
 
----
 
 
 [See All 👩‍🎤 Moda Applications on AI Collection](https://www.thataicollection.com/es/categories/fashion)
 
-___
+---
 
 ## Divertido
 
@@ -2052,7 +1935,6 @@ Los personajes pueden ser cualquier cosa. Nuestra innovadora tecnología de IA p
 
 <br />
 
----
 
 ### Ask RBG
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ask-rbg.webp?twic=v1/resize=240" alt="Ask RBG">
@@ -2067,7 +1949,6 @@ Un experimento de IA: pídale a la jueza Ruth Bader Ginsburg que tome una decisi
 
 
 
----
 
 ### Philosophy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-philosophy.webp?twic=v1/resize=240" alt="Philosophy">
@@ -2082,7 +1963,6 @@ Haga preguntas profundas y obtenga respuestas de William Shakespeare, Friedrich 
 
 <br />
 
----
 
 ### Botify
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-botify.webp?twic=v1/resize=240" alt="Botify">
@@ -2097,7 +1977,6 @@ Charla divertida con tus personajes favoritos
 
 <br />
 
----
 
 ### StoriesForKids
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-storiesforkids.webp?twic=v1/resize=240" alt="StoriesForKids">
@@ -2112,7 +1991,6 @@ Convierta situaciones de la vida real en historias e ilustraciones divertidas en
 
 <br />
 
----
 
 ### Excuses AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-excuses-ai.webp?twic=v1/resize=240" alt="Excuses AI">
@@ -2127,7 +2005,6 @@ Usa la IA para generar la excusa profesional perfecta
 
 <br />
 
----
 
 ### Askmybook
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-askmybook.webp?twic=v1/resize=240" alt="Askmybook">
@@ -2142,7 +2019,6 @@ Este es un experimento sobre el uso de IA para hacer que el contenido de mi libr
 
 
 
----
 
 ### AI Pokemon generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-pokemon-generator.webp?twic=v1/resize=240" alt="AI Pokemon generator">
@@ -2157,7 +2033,6 @@ Crea tu Fakemon como nunca antes, utilizando indicaciones de texto simples para 
 
 
 
----
 
 ### Silly Times
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-silly-times.webp?twic=v1/resize=240" alt="Silly Times">
@@ -2172,7 +2047,6 @@ Diviértete dibujando y mira qué tontería hacemos con tu dibujo. ¡La magia es
 
 <br />
 
----
 
 ### Blackink
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-blackink.webp?twic=v1/resize=240" alt="Blackink">
@@ -2187,12 +2061,11 @@ Deja de pasar meses buscando en Pinterest tu próximo tatuaje. Genere tatuajes �
 
 
 
----
 
 
 [See All 🤪 Divertido Applications on AI Collection](https://www.thataicollection.com/es/categories/fun)
 
-___
+---
 
 ## Juego de azar
 
@@ -2211,7 +2084,6 @@ Para juegos • Metaversos • VR • Educación • Televisión y cine • ¡Pu
 
 <br />
 
----
 
 ### hidden door
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hidden-door.webp?twic=v1/resize=240" alt="hidden door">
@@ -2226,7 +2098,6 @@ Un nuevo tipo de experiencia de juego de rol social, impulsada por IA narrativa.
 
 <br />
 
----
 
 ### latitude
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-latitude.webp?twic=v1/resize=240" alt="latitude">
@@ -2241,7 +2112,6 @@ Estamos haciendo de la IA una herramienta de creatividad y libertad para todos.
 
 <br />
 
----
 
 ### Chess AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chess-ai.webp?twic=v1/resize=240" alt="Chess AI">
@@ -2256,7 +2126,6 @@ Betafish es un motor de ajedrez y un buscador de movimientos de IA escrito en Ja
 
 
 
----
 
 ### GGPredict
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ggpredict.webp?twic=v1/resize=240" alt="GGPredict">
@@ -2271,7 +2140,6 @@ Mejora tus habilidades de CS:GO con el poder de los desafíos generados por IA, 
 
 <br />
 
----
 
 ### Assetsai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-assetsai.webp?twic=v1/resize=240" alt="Assetsai">
@@ -2286,7 +2154,6 @@ Libere el poder de la IA en el diseño y desarrollo de su juego. ¡Obtenga activ
 
 
 
----
 
 ### Scenario
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-scenario.webp?twic=v1/resize=240" alt="Scenario">
@@ -2301,7 +2168,6 @@ Libere el poder de los activos de juego generados por IA con Scenario. Genere co
 
 
 
----
 
 ### AI Dungeon
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-dungeon.webp?twic=v1/resize=240" alt="AI Dungeon">
@@ -2316,7 +2182,6 @@ Elige tu aventura. Elige o crea un personaje, un mundo y una historia. La IA com
 
 
 
----
 
 ### IRMO
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-irmo.webp?twic=v1/resize=240" alt="IRMO">
@@ -2331,7 +2196,6 @@ Su fuente de entretenimiento móvil y creación de arte con IA
 
 <br />
 
----
 
 ### Rosebud AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rosebud-ai.webp?twic=v1/resize=240" alt="Rosebud AI">
@@ -2347,12 +2211,11 @@ Crea: utilería, retratos de personajes, mosaicos isométricos, duendecillos de 
 
 
 
----
 
 
 [See All 🎮 Juego de azar Applications on AI Collection](https://www.thataicollection.com/es/categories/gaming)
 
-___
+---
 
 ## Ideas de regalo
 
@@ -2371,7 +2234,6 @@ Cree recuerdos personalizados para un ser querido usando IA que están optimizad
 
 
 
----
 
 ### Text2present
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-text2present.webp?twic=v1/resize=240" alt="Text2present">
@@ -2386,7 +2248,6 @@ Le permite crear regalos personalizados creativos utilizando inteligencia artifi
 
 
 
----
 
 ### Outdone V2
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-outdone-v2.webp?twic=v1/resize=240" alt="Outdone V2">
@@ -2401,7 +2262,6 @@ Construido para eliminar el estrés. De compras de regalos. Respaldado por datos
 
 
 
----
 
 ### Gifts Genie
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gifts-genie.webp?twic=v1/resize=240" alt="Gifts Genie">
@@ -2416,7 +2276,6 @@ Construido para eliminar el estrés. De compras de regalos. Respaldado por datos
 
 
 
----
 
 ### GiftBot
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-giftbot.webp?twic=v1/resize=240" alt="GiftBot">
@@ -2431,7 +2290,6 @@ Construido para eliminar el estrés. De compras de regalos. Respaldado por datos
 
 
 
----
 
 ### Giftastic AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-giftastic-ai.webp?twic=v1/resize=240" alt="Giftastic AI">
@@ -2446,7 +2304,6 @@ Construido para eliminar el estrés. De compras de regalos. Respaldado por datos
 
 <br />
 
----
 
 ### Gift Genie
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gift-genie.webp?twic=v1/resize=240" alt="Gift Genie">
@@ -2461,7 +2318,6 @@ Gift Genie AI es una tecnología de IA que le permite encontrar el regalo perfec
 
 
 
----
 
 ### Elf Help
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elf-help.webp?twic=v1/resize=240" alt="Elf Help">
@@ -2476,7 +2332,6 @@ Gift Genie AI es una tecnología de IA que le permite encontrar el regalo perfec
 
 
 
----
 
 ### CoolGiftIdeas
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-coolgiftideas.webp?twic=v1/resize=240" alt="CoolGiftIdeas">
@@ -2491,7 +2346,6 @@ Gift Genie AI es una tecnología de IA que le permite encontrar el regalo perfec
 
 <br />
 
----
 
 ### AI Holiday Cards
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-holiday-cards.webp?twic=v1/resize=240" alt="AI Holiday Cards">
@@ -2506,12 +2360,11 @@ Motor de IA para crear tarjetas fotorrealistas de AI Holiday para parejas
 
 <br />
 
----
 
 
 [See All 🎁💡 Ideas de regalo Applications on AI Collection](https://www.thataicollection.com/es/categories/gift-ideas)
 
-___
+---
 
 ## Cuidado de la salud
 
@@ -2530,7 +2383,6 @@ Siempre aquí para escuchar y hablar. Siempre a tu lado. ¡Únase a los millones
 
 <br />
 
----
 
 ### Getactyv
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-getactyv.webp?twic=v1/resize=240" alt="Getactyv">
@@ -2545,7 +2397,6 @@ El entrenador personal basado en IA de GetActyv está aquí para revolucionar su
 
 <br />
 
----
 
 ### Ubie AI Symptom Checker
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ubie-ai-symptom-checker.webp?twic=v1/resize=240" alt="Ubie AI Symptom Checker">
@@ -2560,12 +2411,11 @@ Verifique los síntomas y encuentre causas por IA: responda el cuestionario sobr
 
 
 
----
 
 
 [See All 👩‍⚕️ Cuidado de la salud Applications on AI Collection](https://www.thataicollection.com/es/categories/healthcare)
 
-___
+---
 
 ## Recursos humanos y currículum
 
@@ -2584,7 +2434,6 @@ Rezi es la única plataforma de currículum que utiliza inteligencia artificial 
 
 
 
----
 
 ### Prodigy AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prodigy-ai.webp?twic=v1/resize=240" alt="Prodigy AI">
@@ -2599,7 +2448,6 @@ Tenemos la misión de utilizar la IA más reciente para crear herramientas que a
 
 
 
----
 
 ### rankode
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rankode.webp?twic=v1/resize=240" alt="rankode">
@@ -2614,7 +2462,6 @@ Reclutadores, todo lo que necesitan saber sobre las habilidades de programación
 
 
 
----
 
 ### LazyApply
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lazyapply.webp?twic=v1/resize=240" alt="LazyApply">
@@ -2629,7 +2476,6 @@ Aplicamos automáticamente a todos los trabajos en plataformas como Linkedin, In
 
 <br />
 
----
 
 ### Coverquick
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-coverquick.webp?twic=v1/resize=240" alt="Coverquick">
@@ -2645,7 +2491,6 @@ Al subir todos tus documentos y recursos, nuestra plataforma puede aprender de t
 
 
 
----
 
 ### HireYaY
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hireyay.webp?twic=v1/resize=240" alt="HireYaY">
@@ -2660,7 +2505,6 @@ El 92% de los buscadores de empleo no completan su solicitud en línea. Con Hire
 
 <br />
 
----
 
 ### JD Generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jd-generator.webp?twic=v1/resize=240" alt="JD Generator">
@@ -2675,7 +2519,6 @@ La plataforma de evaluación de habilidades de HireQuotient lo ayuda a contratar
 
 <br />
 
----
 
 ### Hire Hoc
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hire-hoc.webp?twic=v1/resize=240" alt="Hire Hoc">
@@ -2690,7 +2533,6 @@ Transforme su organización con el poder del reclutamiento asistido por IA.
 
 <br />
 
----
 
 ### Hirex.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hirex.ai.webp?twic=v1/resize=240" alt="Hirex.ai">
@@ -2705,7 +2547,6 @@ Bienvenido a Hirex.ai, una plataforma de IA sin código para crear bots basados 
 
 
 
----
 
 ### springworks
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-springworks.webp?twic=v1/resize=240" alt="springworks">
@@ -2720,12 +2561,11 @@ Springworks crea soluciones de software de recursos humanos para resolver desaf�
 
 
 
----
 
 
 [See All 👩‍💼 Recursos humanos y currículum Applications on AI Collection](https://www.thataicollection.com/es/categories/human-resources-and-resume)
 
-___
+---
 
 ## Generación de ideas
 
@@ -2744,7 +2584,6 @@ Introduce tu idea de startup y nuestro mentor de empresas emergentes de IA la an
 
 
 
----
 
 ### Paperade
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paperade.webp?twic=v1/resize=240" alt="Paperade">
@@ -2759,7 +2598,6 @@ Paperade es la primera herramienta impulsada por IA que genera casos de uso come
 
 
 
----
 
 ### Business Idea Generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-business-idea-generator.webp?twic=v1/resize=240" alt="Business Idea Generator">
@@ -2774,7 +2612,6 @@ Obtén ideas de negocios personalizadas en segundos con el poder de la IA.
 
 <br />
 
----
 
 ### Ideasai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ideasai.webp?twic=v1/resize=240" alt="Ideasai">
@@ -2789,7 +2626,6 @@ Ideas generadas al 100% por la GPT-3 de OpenAI, un modelo de aprendizaje profund
 
 
 
----
 
 ### Videomuse
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-videomuse.webp?twic=v1/resize=240" alt="Videomuse">
@@ -2804,7 +2640,6 @@ Como creadores de contenido, todos nos encontramos con momentos en los que nuest
 
 
 
----
 
 ### My Spicy Vanilla
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-my-spicy-vanilla.webp?twic=v1/resize=240" alt="My Spicy Vanilla">
@@ -2823,12 +2658,11 @@ Una vez enviada, nuestra IA selecciona una fecha y descripción a medida, con co
 
 
 
----
 
 
 [See All 💡 Generación de ideas Applications on AI Collection](https://www.thataicollection.com/es/categories/idea-generation)
 
-___
+---
 
 ## Legal
 
@@ -2847,7 +2681,6 @@ Resúmenes e investigaciones legales impulsadas por IA.
 
 <br />
 
----
 
 ### Compliance Quarter
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-compliance-quarter.webp?twic=v1/resize=240" alt="Compliance Quarter">
@@ -2862,7 +2695,6 @@ Sistema de gestión del cumplimiento normativo y experiencia en energía, servic
 
 
 
----
 
 ### Equally.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-equally.ai.webp?twic=v1/resize=240" alt="Equally.ai">
@@ -2877,7 +2709,6 @@ Logre el cumplimiento de ADA y WCAG fácilmente
 
 <br />
 
----
 
 ### DoNotPay
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-donotpay.webp?twic=v1/resize=240" alt="DoNotPay">
@@ -2892,7 +2723,6 @@ Use IA para hacer que la información legal sea accesible para todos
 
 <br />
 
----
 
 ### PatentPal
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-patentpal.webp?twic=v1/resize=240" alt="PatentPal">
@@ -2907,7 +2737,6 @@ Automatice la escritura mecánica en sus solicitudes de patentes
 
 <br />
 
----
 
 ### Spellbook
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-spellbook.webp?twic=v1/resize=240" alt="Spellbook">
@@ -2922,12 +2751,11 @@ Spellbook usa GPT-3 para revisar y sugerir lenguaje para sus contratos, directam
 
 <br />
 
----
 
 
 [See All 👩‍⚖️ Legal Applications on AI Collection](https://www.thataicollection.com/es/categories/legal)
 
-___
+---
 
 ## Generador de logotipos
 
@@ -2946,7 +2774,6 @@ Crea un logotipo y crea una marca que te encante con Looka.
 
 <br />
 
----
 
 ### Text To Book Cover
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-text-to-book-cover.webp?twic=v1/resize=240" alt="Text To Book Cover">
@@ -2961,7 +2788,6 @@ Generación de imágenes de IA para equipos: puede generar fácilmente logotipos
 
 <br />
 
----
 
 ### Make Logo AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-make-logo-ai.webp?twic=v1/resize=240" alt="Make Logo AI">
@@ -2976,7 +2802,6 @@ Genera logotipos hermosos y únicos para tu startup, con tecnología de Intelige
 
 <br />
 
----
 
 ### Logo Rank
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-logo-rank.webp?twic=v1/resize=240" alt="Logo Rank">
@@ -2992,7 +2817,6 @@ Impulsa tu marca con diseños de tarjetas de presentación, gráficos para redes
 
 
 
----
 
 ### 123123123
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-123123123.webp?twic=v1/resize=240" alt="123123123">
@@ -3007,12 +2831,11 @@ None
 
 <br />
 
----
 
 
 [See All ⚜️ Generador de logotipos Applications on AI Collection](https://www.thataicollection.com/es/categories/logo-generator)
 
-___
+---
 
 ## Asistente de reuniones
 
@@ -3033,7 +2856,6 @@ Fireflies.ai ayuda a tu equipo a grabar, transcribir, buscar y analizar las conv
 
 
 
----
 
 ### Jamie
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jamie.webp?twic=v1/resize=240" alt="Jamie">
@@ -3048,7 +2870,6 @@ jamie es un asistente de IA que crea resúmenes de reuniones con calidad de reda
 
 
 
----
 
 ### Supernormal
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-supernormal.webp?twic=v1/resize=240" alt="Supernormal">
@@ -3065,7 +2886,6 @@ Supernormal toma notas durante la reunión y las formatea automáticamente, para
 
 
 
----
 
 ### Wudpecker
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wudpecker.webp?twic=v1/resize=240" alt="Wudpecker">
@@ -3086,7 +2906,6 @@ encuentre información importante rápidamente.
 
 
 
----
 
 ### Avoma
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-avoma.webp?twic=v1/resize=240" alt="Avoma">
@@ -3101,7 +2920,6 @@ La solución líder de IA para reuniones e inteligencia de ingresos. Todo en un 
 
 
 
----
 
 ### Fathom
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fathom.webp?twic=v1/resize=240" alt="Fathom">
@@ -3117,7 +2935,6 @@ Fathom graba, transcribe, destaca y resume tus reuniones para que puedas centrar
 
 <br />
 
----
 
 ### Otter
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-otter.webp?twic=v1/resize=240" alt="Otter">
@@ -3132,7 +2949,6 @@ Consigue un asistente de reuniones con IA que grabe el audio, escriba notas, cap
 
 
 
----
 
 ### tl;dv
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tl;dv.webp?twic=v1/resize=240" alt="tl;dv">
@@ -3147,7 +2963,6 @@ La grabadora de reuniones que transcribe y resume tus llamadas con clientes, cli
 
 
 
----
 
 ### Sembly AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sembly-ai.webp?twic=v1/resize=240" alt="Sembly AI">
@@ -3163,12 +2978,11 @@ Haz que todas tus reuniones sean productivas: notas de las reuniones para cada r
 
 
 
----
 
 
 [See All 👨‍💻 Asistente de reuniones Applications on AI Collection](https://www.thataicollection.com/es/categories/meeting-assistant)
 
-___
+---
 
 ## Generación de música y audio
 
@@ -3187,7 +3001,6 @@ Utilice nuestro complemento innovador para generar infinitas muestras de baterí
 
 <br />
 
----
 
 ### LALAL.AI Voice Cleaner
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lalal.ai-voice-cleaner.webp?twic=v1/resize=240" alt="LALAL.AI Voice Cleaner">
@@ -3202,7 +3015,6 @@ División de tallos de alta calidad basada en la tecnología impulsada por IA n.
 
 <br />
 
----
 
 ### Adobe Podcast
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-podcast.webp?twic=v1/resize=240" alt="Adobe Podcast">
@@ -3217,7 +3029,6 @@ Una herramienta de audio para personas con historias que contar
 
 <br />
 
----
 
 ### Adobe Mic Check
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-mic-check.webp?twic=v1/resize=240" alt="Adobe Mic Check">
@@ -3233,7 +3044,6 @@ Mejora la voz: elimina el ruido y el eco de las grabaciones de voz. Mic Check: s
 
 
 
----
 
 ### Krisp
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-krisp.webp?twic=v1/resize=240" alt="Krisp">
@@ -3248,7 +3058,6 @@ La IA de Krisp elimina las voces de fondo, los ruidos y el eco de todas sus llam
 
 <br />
 
----
 
 ### Aiva
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aiva.webp?twic=v1/resize=240" alt="Aiva">
@@ -3264,7 +3073,6 @@ Si usted es un desarrollador de juegos independiente, un completo novato en mús
 
 
 
----
 
 ### Boomy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-boomy.webp?twic=v1/resize=240" alt="Boomy">
@@ -3282,7 +3090,6 @@ Haz música con Boomy AI - [Visit](https://www.thataicollection.com/redirect/boo
 
 
 
----
 
 ### Clip audio
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-clip-audio.webp?twic=v1/resize=240" alt="Clip audio">
@@ -3297,7 +3104,6 @@ El buscador de audio
 
 <br />
 
----
 
 ### Splash
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-splash.webp?twic=v1/resize=240" alt="Splash">
@@ -3312,7 +3118,6 @@ El buscador de audio
 
 <br />
 
----
 
 ### Dadabots
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dadabots--.webp?twic=v1/resize=240" alt="Dadabots">
@@ -3328,12 +3133,11 @@ Somos una mezcla entre una banda, un equipo de hackathon y un laboratorio de inv
 
 
 
----
 
 
 [See All 🎼 Generación de música y audio Applications on AI Collection](https://www.thataicollection.com/es/categories/music-and-audio-generation)
 
-___
+---
 
 ## Organización y Automatización
 
@@ -3352,7 +3156,6 @@ Hexowatch es su compañero de IA para monitorear cualquier sitio web en busca de
 
 
 
----
 
 ### mem
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-mem.webp?twic=v1/resize=240" alt="mem">
@@ -3367,7 +3170,6 @@ Mem es el primer espacio de trabajo impulsado por IA del mundo que está persona
 
 
 
----
 
 ### bardeen
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-bardeen.webp?twic=v1/resize=240" alt="bardeen">
@@ -3382,7 +3184,6 @@ Próximamente en 2023: Bardeen presenta una IA innovadora para automatizar los f
 
 
 
----
 
 ### AutoPredict
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-autopredict.webp?twic=v1/resize=240" alt="AutoPredict">
@@ -3397,7 +3198,6 @@ AutoPredict es la primera aplicación que utiliza inteligencia artificial para p
 
 
 
----
 
 ### Looti
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-looti.webp?twic=v1/resize=240" alt="Looti">
@@ -3413,7 +3213,6 @@ con empresas en crecimiento
 
 
 
----
 
 ### Hubble
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hubble.webp?twic=v1/resize=240" alt="Hubble">
@@ -3428,7 +3227,6 @@ Desde el diseño hasta la producción, monitoree, mida y mejore su experiencia d
 
 
 
----
 
 ### Takomo
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-takomo.webp?twic=v1/resize=240" alt="Takomo">
@@ -3450,7 +3248,6 @@ Ejecuta, prueba y refina tu cartera comparando fácilmente los resultados
 
 
 
----
 
 ### Kive
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-kive.webp?twic=v1/resize=240" alt="Kive">
@@ -3465,7 +3262,6 @@ toda tu inspiración en un solo lugar
 
 <br />
 
----
 
 ### H2O AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-h2o-ai.webp?twic=v1/resize=240" alt="H2O AI">
@@ -3481,7 +3277,6 @@ H2ogpt, una verdadera IA generativa de código abierto, permite a organizaciones
 
 
 
----
 
 ### Prompt.Cafe
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prompt.cafe.webp?twic=v1/resize=240" alt="Prompt.Cafe">
@@ -3496,12 +3291,11 @@ AI Prompt Generator‍ - Inspirar, crear, organizar. Inspírese con avisos de IA
 
 
 
----
 
 
 [See All 🧞‍♂️ Organización y Automatización Applications on AI Collection](https://www.thataicollection.com/es/categories/organization-and-automation)
 
-___
+---
 
 ## Edición de fotos e imágenes
 
@@ -3520,7 +3314,6 @@ HitPaw Online AI Photo Enhancer utiliza tecnología avanzada de IA para eliminar
 
 <br />
 
----
 
 ### Unrealme
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-unrealme.webp?twic=v1/resize=240" alt="Unrealme">
@@ -3535,7 +3328,6 @@ Pasos para obtener impresionantes imágenes de ti mismo: 1. Pago. 2. Subir: lee 
 
 
 
----
 
 ### Stabledojo
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stabledojo.webp?twic=v1/resize=240" alt="Stabledojo">
@@ -3550,7 +3342,6 @@ Con StableDojo puedes generar un avatar para ti o una sesión de fotos para tus 
 
 <br />
 
----
 
 ### Prisma
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prisma.webp?twic=v1/resize=240" alt="Prisma">
@@ -3565,7 +3356,6 @@ Más de 700 brillantes estilos artísticos y de retratos a tu disposición. Posi
 
 
 
----
 
 ### Prisma Lensa
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prisma-lensa.webp?twic=v1/resize=240" alt="Prisma Lensa">
@@ -3580,7 +3370,6 @@ Mejora el retoque facial con un solo toque de Magic Correction. Perfecciona las 
 
 
 
----
 
 ### Claid.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-claid.ai.webp?twic=v1/resize=240" alt="Claid.ai">
@@ -3595,7 +3384,6 @@ Automatice la creación de imágenes de extremo a extremo e impulse su negocio c
 
 
 
----
 
 ### SceneryAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sceneryai.webp?twic=v1/resize=240" alt="SceneryAI">
@@ -3610,7 +3398,6 @@ Genere o actualice imágenes existentes con nuestra herramienta de edición de i
 
 <br />
 
----
 
 ### Colorize
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-colorize.webp?twic=v1/resize=240" alt="Colorize">
@@ -3625,7 +3412,6 @@ Colorear fotos en línea Colorize.cc: es un servicio de inteligencia artificial 
 
 
 
----
 
 ### Palette
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-palette.webp?twic=v1/resize=240" alt="Palette">
@@ -3640,7 +3426,6 @@ Un nuevo colorizador de IA. Colorea cualquier cosa, desde viejas fotos en blanco
 
 
 
----
 
 ### Hama
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hama.webp?twic=v1/resize=240" alt="Hama">
@@ -3655,12 +3440,11 @@ Impresionante borrador de fotos
 
 <br />
 
----
 
 
 [See All 📸 Edición de fotos e imágenes Applications on AI Collection](https://www.thataicollection.com/es/categories/photo-and-image-editing)
 
-___
+---
 
 ## Complementos y extensiones
 
@@ -3679,7 +3463,6 @@ Extensión de Chrome que reduce el tiempo de escritura en un 98 % con respuestas
 
 <br />
 
----
 
 ### Texti
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-texti.webp?twic=v1/resize=240" alt="Texti">
@@ -3694,7 +3477,6 @@ Extensión de Chrome que reduce el tiempo de escritura en un 98 % con respuestas
 
 <br />
 
----
 
 ### Autoname
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-autoname.webp?twic=v1/resize=240" alt="Autoname">
@@ -3709,7 +3491,6 @@ Cambie el nombre de los marcos de Figma con un solo clic, eso es todo.
 
 <br />
 
----
 
 ### SplashAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-splashai.webp?twic=v1/resize=240" alt="SplashAI">
@@ -3724,7 +3505,6 @@ SplashAI es como un asistente. Te ayuda a obtener ideas muy rápido con la funci
 
 <br />
 
----
 
 ### Merlin
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-merlin.webp?twic=v1/resize=240" alt="Merlin">
@@ -3739,7 +3519,6 @@ SplashAI es como un asistente. Te ayuda a obtener ideas muy rápido con la funci
 
 <br />
 
----
 
 ### Voilà
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-voilà.webp?twic=v1/resize=240" alt="Voilà">
@@ -3754,7 +3533,6 @@ Mejore su escritura, obtenga respuestas a todas sus preguntas, redacte contenido
 
 <br />
 
----
 
 ### HARPA AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-harpa-ai.webp?twic=v1/resize=240" alt="HARPA AI">
@@ -3769,7 +3547,6 @@ Agente de IA para Chrome. Integre ChatGPT a la Búsqueda de Google, automatice s
 
 
 
----
 
 ### Gist AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gist-ai.webp?twic=v1/resize=240" alt="Gist AI">
@@ -3788,12 +3565,11 @@ Aún mejor, Gist AI le permite profundizar en la fuente del resumen para mayor c
 
 
 
----
 
 
 [See All 🔌 Complementos y extensiones Applications on AI Collection](https://www.thataicollection.com/es/categories/plugins-and-extensions)
 
-___
+---
 
 ## Productividad y crecimiento personal
 
@@ -3812,7 +3588,6 @@ Con Podwise, puedes aprender a partir de conocimientos estructurados y escuchar 
 
 
 
----
 
 ### Dewey
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dewey.webp?twic=v1/resize=240" alt="Dewey">
@@ -3827,7 +3602,6 @@ Vuelva a encarrilarse con un amable compañero de rendición de cuentas de IA. D
 
 
 
----
 
 ### Ask Poppy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ask-poppy.webp?twic=v1/resize=240" alt="Ask Poppy">
@@ -3845,7 +3619,6 @@ Conoces tu estilo de vida. Conocemos los productos. Construyamos juntos tu regis
 
 
 
----
 
 ### Cogram
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cogram.webp?twic=v1/resize=240" alt="Cogram">
@@ -3860,7 +3633,6 @@ Cogram utiliza IA para tomar notas en reuniones virtuales, realizar un seguimien
 
 
 
----
 
 ### Ultimate Skill Extractor by Further
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ultimate-skill-extractor-by-further.webp?twic=v1/resize=240" alt="Ultimate Skill Extractor by Further">
@@ -3875,7 +3647,6 @@ Usando el poder de Skill Suggestion AI, podemos ayudarlo a extraer habilidades e
 
 
 
----
 
 ### ELSA SPEECH ANALYZER
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elsa-speech-analyzer.webp?twic=v1/resize=240" alt="ELSA SPEECH ANALYZER">
@@ -3890,7 +3661,6 @@ Speech Analyzer es un entrenador de fluidez en inglés conversacional impulsado 
 
 
 
----
 
 ### DetangleAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-detangleai.webp?twic=v1/resize=240" alt="DetangleAI">
@@ -3906,7 +3676,6 @@ Chat de documentos + ¡resumen para cualquier archivo o enlace! ¡Chatea con arc
 
 
 
----
 
 ### Chivvy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chivvy.webp?twic=v1/resize=240" alt="Chivvy">
@@ -3921,7 +3690,6 @@ Chivvy usa el refuerzo negativo para que hagas cosas. Crea responsabilidad en la
 
 
 
----
 
 ### Pth.AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-pth.ai.webp?twic=v1/resize=240" alt="Pth.AI">
@@ -3936,7 +3704,6 @@ Pth.AI es una herramienta impulsada por IA que guía a los usuarios comerciales 
 
 
 
----
 
 ### Sidekick
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sidekick.webp?twic=v1/resize=240" alt="Sidekick">
@@ -3951,12 +3718,11 @@ Obtenga acceso instantáneo y gratuito a ChatGPT 4.0 directamente desde su Slack
 
 
 
----
 
 
 [See All 🚀 Productividad y crecimiento personal Applications on AI Collection](https://www.thataicollection.com/es/categories/productivity-and-personal-growth)
 
-___
+---
 
 ## Asistente de investigación
 
@@ -3975,7 +3741,6 @@ Elicit utiliza el aprendizaje automático para ayudarlo con su investigación: e
 
 
 
----
 
 ### Scispace
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-scispace.webp?twic=v1/resize=240" alt="Scispace">
@@ -3990,7 +3755,6 @@ Tu plataforma para explorar y explicar papers. Busque más de 270 millones de ar
 
 
 
----
 
 ### RTutor
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rtutor.webp?twic=v1/resize=240" alt="RTutor">
@@ -4005,7 +3769,6 @@ RTutor utiliza el poderoso modelo de lenguaje grande de OpenAI para traducir el 
 
 
 
----
 
 ### Explainpaper
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-explainpaper.webp?twic=v1/resize=240" alt="Explainpaper">
@@ -4020,7 +3783,6 @@ Cargue un documento, resalte el texto confuso, obtenga una explicación. Hacemos
 
 <br />
 
----
 
 ### Vocads Survey
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-vocads-survey.webp?twic=v1/resize=240" alt="Vocads Survey">
@@ -4035,7 +3797,6 @@ Las empresas carecen de respuestas y participación en sus encuestas. Vocads rei
 
 
 
----
 
 ### Afforai Build
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-afforai-build.webp?twic=v1/resize=240" alt="Afforai Build">
@@ -4050,7 +3811,6 @@ Redacción de informes ¿Demasiados documentos para leer? Afforai analizará y r
 
 
 
----
 
 ### Synthical
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-synthical.webp?twic=v1/resize=240" alt="Synthical">
@@ -4065,12 +3825,11 @@ Simplifique los artículos para comprender términos complejos, obtener recomend
 
 
 
----
 
 
 [See All 🎓 Asistente de investigación Applications on AI Collection](https://www.thataicollection.com/es/categories/research-assistant)
 
-___
+---
 
 ## Reseñas y recomendaciones
 
@@ -4089,7 +3848,6 @@ Pasamos incontables horas buscando en Internet las mejores recomendaciones de li
 
 
 
----
 
 ### AI Review Reply Assistant
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-review-reply-assistant.webp?twic=v1/resize=240" alt="AI Review Reply Assistant">
@@ -4104,7 +3862,6 @@ Generador de respuestas de revisión de AI: responda 3 veces más rápido a cada
 
 
 
----
 
 ### Geniusreview
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-geniusreview.webp?twic=v1/resize=240" alt="Geniusreview">
@@ -4119,7 +3876,6 @@ Ahorre toneladas de horas usando GeniusReview para obtener respuestas personaliz
 
 <br />
 
----
 
 ### Reviewz
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-reviewz.webp?twic=v1/resize=240" alt="Reviewz">
@@ -4134,7 +3890,6 @@ Reviewz.ai es una novedad y está diseñado para demostrar las capacidades de la
 
 
 
----
 
 ### Artreviewgenerator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-artreviewgenerator.webp?twic=v1/resize=240" alt="Artreviewgenerator">
@@ -4149,12 +3904,11 @@ Una herramienta de procesamiento de lenguaje natural y generador de texto. Toma 
 
 
 
----
 
 
 [See All 🗳 Reseñas y recomendaciones Applications on AI Collection](https://www.thataicollection.com/es/categories/reviews-and-recommendations)
 
-___
+---
 
 ## Ventas y Marketing
 
@@ -4173,7 +3927,6 @@ Di adiós a la página en blanco para siempre
 
 <br />
 
----
 
 ### Clickable
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-clickable.webp?twic=v1/resize=240" alt="Clickable">
@@ -4188,7 +3941,6 @@ Anuncios hermosos, consistentes con la marca y altamente convertibles para todos
 
 <br />
 
----
 
 ### Cuetap.com
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cuetap.com.webp?twic=v1/resize=240" alt="Cuetap.com">
@@ -4203,7 +3955,6 @@ La plataforma impulsada por IA proporciona Battlecards automágicos e inteligenc
 
 <br />
 
----
 
 ### Userevaluation
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-userevaluation.webp?twic=v1/resize=240" alt="Userevaluation">
@@ -4218,7 +3969,6 @@ Ya sea que esté enfocado en UI, UX Research, Design o CX, la IA de User Evaluat
 
 <br />
 
----
 
 ### Genius Sheets
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-genius-sheets.webp?twic=v1/resize=240" alt="Genius Sheets">
@@ -4238,7 +3988,6 @@ Interfaz nativa: conéctate a tus datos en nuestra aplicación web, Slack o Team
 
 
 
----
 
 ### BaruaAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-baruaai.webp?twic=v1/resize=240" alt="BaruaAI">
@@ -4253,7 +4002,6 @@ Nuestra plataforma transforma los detalles y objetivos clave de su producto en p
 
 
 
----
 
 ### Hoppy Copy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hoppy-copy.webp?twic=v1/resize=240" alt="Hoppy Copy">
@@ -4268,7 +4016,6 @@ Ahorre incontables horas escribiendo. Use IA para generar una copia poderosa par
 
 
 
----
 
 ### MarketingBlocks AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-marketingblocks-ai.webp?twic=v1/resize=240" alt="MarketingBlocks AI">
@@ -4283,7 +4030,6 @@ Asistente de marketing de inteligencia artificial todo en uno similar a un human
 
 
 
----
 
 ### Briefly
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-briefly.webp?twic=v1/resize=240" alt="Briefly">
@@ -4298,7 +4044,6 @@ Briefs de marketing que llegan al mejor trabajo creativo. Mejore su efectividad 
 
 <br />
 
----
 
 ### Traq.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-traq.ai.webp?twic=v1/resize=240" alt="Traq.ai">
@@ -4313,12 +4058,11 @@ Traq.ai analiza cada llamada que hace su equipo de ventas y proporciona informac
 
 <br />
 
----
 
 
 [See All 💰 Ventas y Marketing Applications on AI Collection](https://www.thataicollection.com/es/categories/sales-and-marketing)
 
-___
+---
 
 ## Los motores de búsqueda
 
@@ -4337,7 +4081,6 @@ Lexii.ai es un asistente de búsqueda de IA que responde preguntas y cita fuente
 
 <br />
 
----
 
 ### Smarty Names
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-smarty-names.webp?twic=v1/resize=240" alt="Smarty Names">
@@ -4352,7 +4095,6 @@ Encontrar un dominio creativo y único que aún esté disponible es fácil con S
 
 
 
----
 
 ### OpenArt Photo Booth
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-openart-photo-booth.webp?twic=v1/resize=240" alt="OpenArt Photo Booth">
@@ -4367,7 +4109,6 @@ Busque más de 10 millones de indicaciones y genere AI Art a través de Stable D
 
 <br />
 
----
 
 ### You
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-you.webp?twic=v1/resize=240" alt="You">
@@ -4386,7 +4127,6 @@ Genera respuestas más largas y detalladas con mayor precisión.
 
 
 
----
 
 ### Perplexity AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-perplexity-ai.webp?twic=v1/resize=240" alt="Perplexity AI">
@@ -4401,7 +4141,6 @@ Ask funciona con grandes modelos de lenguaje y motores de búsqueda. La precisi�
 
 
 
----
 
 ### Anypod
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-anypod.webp?twic=v1/resize=240" alt="Anypod">
@@ -4416,7 +4155,6 @@ Hacemos que tu contenido sea buscable
 
 <br />
 
----
 
 ### namefinder.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-namefinder.ai.webp?twic=v1/resize=240" alt="namefinder.ai">
@@ -4431,7 +4169,6 @@ Nosotros, en Namefinder, buscamos ahorrar tiempo a las personas creando nombres 
 
 
 
----
 
 ### Broker One AI Engine
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-broker-one-ai-engine.webp?twic=v1/resize=240" alt="Broker One AI Engine">
@@ -4446,7 +4183,6 @@ Broker One AI Engine es una herramienta de última generación impulsada por IA 
 
 
 
----
 
 ### SEOify
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-seoify.webp?twic=v1/resize=240" alt="SEOify">
@@ -4461,12 +4197,11 @@ Presentamos SEOify: revoluciona el SEO de tu sitio web con nuestra innovadora pl
 
 
 
----
 
 
 [See All 🔍 Los motores de búsqueda Applications on AI Collection](https://www.thataicollection.com/es/categories/search-engines)
 
-___
+---
 
 ## Diapositivas y presentaciones
 
@@ -4485,7 +4220,6 @@ Cree presentaciones de diapositivas al instante con ChatBCG
 
 <br />
 
----
 
 ### SlidesAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-slidesai.webp?twic=v1/resize=240" alt="SlidesAI">
@@ -4500,7 +4234,6 @@ Di adiós a la tediosa creación manual de diapositivas. Deje que la IA escriba 
 
 
 
----
 
 ### Pitchgrade
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-pitchgrade.webp?twic=v1/resize=240" alt="Pitchgrade">
@@ -4515,7 +4248,6 @@ Una presentación es una presentación que una empresa utiliza para presentar a 
 
 
 
----
 
 ### My Pitch Deck
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-my-pitch-deck.webp?twic=v1/resize=240" alt="My Pitch Deck">
@@ -4532,7 +4264,6 @@ En función de tus respuestas, nuestra IA creará un esquema de presentación pe
 
 
 
----
 
 ### Tome
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tome.webp?twic=v1/resize=240" alt="Tome">
@@ -4547,7 +4278,6 @@ Desbloquee su mejor trabajo con el formato de narración impulsado por IA de Tom
 
 <br />
 
----
 
 ### Glimmer AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-glimmer-ai.webp?twic=v1/resize=240" alt="Glimmer AI">
@@ -4562,7 +4292,6 @@ Glimmer AI usa GPT-3 y DALL-E 2 para hacer que la creación de presentaciones de
 
 <br />
 
----
 
 ### STORYD
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-storyd.webp?twic=v1/resize=240" alt="STORYD">
@@ -4577,7 +4306,6 @@ Ayuda a los profesionales a crear rápida y fácilmente presentaciones comercial
 
 <br />
 
----
 
 ### Plus AI for Google Slides
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-plus-ai-for-google-slides.webp?twic=v1/resize=240" alt="Plus AI for Google Slides">
@@ -4592,12 +4320,11 @@ Cree presentaciones en minutos con Plus AI. Comenzar con un mazo en blanco es un
 
 
 
----
 
 
 [See All 📊 Diapositivas y presentaciones Applications on AI Collection](https://www.thataicollection.com/es/categories/slides-and-presentations)
 
-___
+---
 
 ## Redes sociales y citas
 
@@ -4616,7 +4343,6 @@ ROAST ayuda a las personas a multiplicar por 10 sus coincidencias en aplicacione
 
 
 
----
 
 ### AI movie Club
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-movie-club.webp?twic=v1/resize=240" alt="AI movie Club">
@@ -4631,7 +4357,6 @@ ROAST ayuda a las personas a multiplicar por 10 sus coincidencias en aplicacione
 
 <br />
 
----
 
 ### HotConvo
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hotconvo.webp?twic=v1/resize=240" alt="HotConvo">
@@ -4646,7 +4371,6 @@ Charlas coquetas en segundos. Tome una captura de pantalla de la biografía del 
 
 
 
----
 
 ### AI Social Bio
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-social-bio.webp?twic=v1/resize=240" alt="AI Social Bio">
@@ -4664,7 +4388,6 @@ Perfecto para X (Twitter). Añade una palabra clave para dar forma a tu biograf�
 
 
 
----
 
 ### TweetAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweetai.webp?twic=v1/resize=240" alt="TweetAI">
@@ -4679,7 +4402,6 @@ Twittear IA
 
 <br />
 
----
 
 ### Tweethunter
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweethunter.webp?twic=v1/resize=240" alt="Tweethunter">
@@ -4694,7 +4416,6 @@ Obtenga ventas, crecimiento y nuevas redes. Más rápido de lo que estás intent
 
 <br />
 
----
 
 ### TweetEmote
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweetemote.webp?twic=v1/resize=240" alt="TweetEmote">
@@ -4709,7 +4430,6 @@ Obtenga ventas, crecimiento y nuevas redes. Más rápido de lo que estás intent
 
 <br />
 
----
 
 ### Postwise
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-postwise.webp?twic=v1/resize=240" alt="Postwise">
@@ -4724,7 +4444,6 @@ Escriba, programe y crezca con la herramienta de IA de Twitter más inteligente 
 
 <br />
 
----
 
 ### Graham AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-graham-ai.webp?twic=v1/resize=240" alt="Graham AI">
@@ -4739,7 +4458,6 @@ Escriba, programe y crezca con la herramienta de IA de Twitter más inteligente 
 
 <br />
 
----
 
 ### Tweetspear
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweetspear.webp?twic=v1/resize=240" alt="Tweetspear">
@@ -4754,12 +4472,11 @@ Revolucione su participación en Twitter con las respuestas sugeridas impulsadas
 
 <br />
 
----
 
 
 [See All 💞 Redes sociales y citas Applications on AI Collection](https://www.thataicollection.com/es/categories/social-networks-and-dating)
 
-___
+---
 
 ## Discurso
 
@@ -4778,7 +4495,6 @@ La mejora del habla hace que las grabaciones de voz suenen como si se hubieran g
 
 <br />
 
----
 
 ### Lingostar
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lingostar.webp?twic=v1/resize=240" alt="Lingostar">
@@ -4793,7 +4509,6 @@ Lingostar es la IA con la que los estudiantes de idiomas pueden hablar en inglé
 
 
 
----
 
 ### Poly AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-poly-ai.webp?twic=v1/resize=240" alt="Poly AI">
@@ -4808,7 +4523,6 @@ Ofrezca constantemente su mejor experiencia de marca, logre una resolución prec
 
 <br />
 
----
 
 ### SmallTalk2.me
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-smalltalk2.me.webp?twic=v1/resize=240" alt="SmallTalk2.me">
@@ -4823,7 +4537,6 @@ Con SmallTalk, los estudiantes pueden autoevaluar su nivel de dominio del inglé
 
 
 
----
 
 ### SpeechGen.io
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-speechgen.io.webp?twic=v1/resize=240" alt="SpeechGen.io">
@@ -4838,12 +4551,11 @@ Transforma el texto en voz realista para diversas aplicaciones. Perfecto para cr
 
 
 
----
 
 
 [See All 📢 Discurso Applications on AI Collection](https://www.thataicollection.com/es/categories/speech)
 
-___
+---
 
 ## Texto
 
@@ -4862,7 +4574,6 @@ Crea formularios para todos los propósitos en segundos. Sin saber programar
 
 <br />
 
----
 
 ### Scholarcy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-scholarcy.webp?twic=v1/resize=240" alt="Scholarcy">
@@ -4877,7 +4588,6 @@ Scholarcy™ es una herramienta de resumen en línea que genera y convierte art�
 
 
 
----
 
 ### Jot
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jot.webp?twic=v1/resize=240" alt="Jot">
@@ -4892,7 +4602,6 @@ Jot genera automáticamente infinitas variaciones del texto del anuncio para ti 
 
 
 
----
 
 ### Bookclub
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-bookclub.webp?twic=v1/resize=240" alt="Bookclub">
@@ -4907,7 +4616,6 @@ Explore libros de bestsellers, celebridades y series de libros con poderosas rec
 
 
 
----
 
 ### Namewizard
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-namewizard.webp?twic=v1/resize=240" alt="Namewizard">
@@ -4922,7 +4630,6 @@ namewizard es el generador que utiliza IA para encontrar el negocio y el nombre 
 
 <br />
 
----
 
 ### Namelix
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-namelix.webp?twic=v1/resize=240" alt="Namelix">
@@ -4937,7 +4644,6 @@ generar un nombre comercial corto y de marca utilizando inteligencia artificial.
 
 
 
----
 
 ### Langame card game
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-langame-card-game.webp?twic=v1/resize=240" alt="Langame card game">
@@ -4952,7 +4658,6 @@ Crea tu baraja de cartas personalizada y juega con tus amigos. Selecciona qué c
 
 <br />
 
----
 
 ### Gandhiji
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gandhiji.webp?twic=v1/resize=240" alt="Gandhiji">
@@ -4967,7 +4672,6 @@ Aplicaciones de chat impulsadas por IA para todos
 
 <br />
 
----
 
 ### Goatchat
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-goatchat.webp?twic=v1/resize=240" alt="Goatchat">
@@ -4982,7 +4686,6 @@ Aplicaciones de chat impulsadas por IA para todos
 
 <br />
 
----
 
 ### GPT Hotline
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gpt-hotline.webp?twic=v1/resize=240" alt="GPT Hotline">
@@ -4997,12 +4700,11 @@ Conéctese con la IA más inteligente del mundo en WhatsApp.
 
 <br />
 
----
 
 
 [See All 📝 Texto Applications on AI Collection](https://www.thataicollection.com/es/categories/text)
 
-___
+---
 
 ## Texto a voz
 
@@ -5021,7 +4723,6 @@ AI habilitado, voces de personas reales. Haz locuciones con calidad de estudio e
 
 
 
----
 
 ### Listnr 2.0
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-listnr-2.0.webp?twic=v1/resize=240" alt="Listnr 2.0">
@@ -5036,7 +4737,6 @@ Genere audio de texto a voz (TTS) realista utilizando nuestro generador de voz A
 
 
 
----
 
 ### VERBATIK
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-verbatik.webp?twic=v1/resize=240" alt="VERBATIK">
@@ -5051,7 +4751,6 @@ Genere audio realista de texto a voz (TTS) utilizando el generador de voz AI en 
 
 
 
----
 
 ### Article.Audio
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-article.audio.webp?twic=v1/resize=240" alt="Article.Audio">
@@ -5066,7 +4765,6 @@ demasiado perezoso para leer un artículo? No hay problema, ¡escúchalo! Desarr
 
 <br />
 
----
 
 ### NaturalReader
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-naturalreader.webp?twic=v1/resize=240" alt="NaturalReader">
@@ -5081,7 +4779,6 @@ demasiado perezoso para leer un artículo? No hay problema, ¡escúchalo! Desarr
 
 <br />
 
----
 
 ### Wellsaid
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wellsaid.webp?twic=v1/resize=240" alt="Wellsaid">
@@ -5096,7 +4793,6 @@ Con WellSaid, usted y su equipo pueden crear una voz en off de IA convincente y 
 
 <br />
 
----
 
 ### Createaivoiceovers
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-createaivoiceovers.webp?twic=v1/resize=240" alt="Createaivoiceovers">
@@ -5111,7 +4807,6 @@ Convierte rápidamente tu texto en voz con un impresionante sonido realista y vo
 
 
 
----
 
 ### Voicera
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-voicera.webp?twic=v1/resize=240" alt="Voicera">
@@ -5126,7 +4821,6 @@ Convierte rápidamente tu texto en voz con un impresionante sonido realista y vo
 
 <br />
 
----
 
 ### FakeYou
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fakeyou.webp?twic=v1/resize=240" alt="FakeYou">
@@ -5141,7 +4835,6 @@ Convierte rápidamente tu texto en voz con un impresionante sonido realista y vo
 
 <br />
 
----
 
 ### Voicemaker
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-voicemaker.webp?twic=v1/resize=240" alt="Voicemaker">
@@ -5156,12 +4849,11 @@ Cree archivos de audio para su uso comercial. Voicemaker le permite redistribuir
 
 
 
----
 
 
 [See All 📝🔉 Texto a voz Applications on AI Collection](https://www.thataicollection.com/es/categories/text-to-speech)
 
-___
+---
 
 ## Traducción y Transcripción
 
@@ -5180,7 +4872,6 @@ Todo lo que tus vídeos necesitan en UNA sola aplicación: generar subtítulos, 
 
 
 
----
 
 ### Rephrasely
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rephrasely.webp?twic=v1/resize=240" alt="Rephrasely">
@@ -5195,7 +4886,6 @@ Rephrasely utiliza IA de última generación para producir variaciones de su tex
 
 
 
----
 
 ### Rythmex
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rythmex.webp?twic=v1/resize=240" alt="Rythmex">
@@ -5210,7 +4900,6 @@ Transcribe audio a texto de manera fácil, rápida y efectiva
 
 <br />
 
----
 
 ### RIVERSIDE
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-riverside.webp?twic=v1/resize=240" alt="RIVERSIDE">
@@ -5231,7 +4920,6 @@ Transcripciones automáticas en 100 idiomas y modismos diferentes, multiplicados
 
 
 
----
 
 ### Deciphr AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-deciphr-ai.webp?twic=v1/resize=240" alt="Deciphr AI">
@@ -5246,7 +4934,6 @@ Impulsado por una IA profunda, Deciphr marca la hora y resume toda la transcripc
 
 
 
----
 
 ### Graphic AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-graphic-ai.webp?twic=v1/resize=240" alt="Graphic AI">
@@ -5261,7 +4948,6 @@ Stork ayuda a los equipos a mejorar las comunicaciones y la productividad. Es un
 
 
 
----
 
 ### Snipd Podcast Summaries
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-snipd-podcast-summaries.webp?twic=v1/resize=240" alt="Snipd Podcast Summaries">
@@ -5276,7 +4962,6 @@ Descubre los momentos destacados Escucha los mejores momentos destacados de los 
 
 <br />
 
----
 
 ### Sumly
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sumly.webp?twic=v1/resize=240" alt="Sumly">
@@ -5291,7 +4976,6 @@ No permita que una agenda apretada le impida aprender de los mejores. Resúmenes
 
 
 
----
 
 ### WhisperAPI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-whisperapi.webp?twic=v1/resize=240" alt="WhisperAPI">
@@ -5312,7 +4996,6 @@ Te damos una clave de API para enviar archivos de audio a través de nuestra API
 
 
 
----
 
 ### Voicetapp
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-voicetapp.webp?twic=v1/resize=240" alt="Voicetapp">
@@ -5327,12 +5010,11 @@ Obtenga transcripciones precisas para su AUDIO Y VIDEO con la última tecnologí
 
 <br />
 
----
 
 
 [See All 🇺🇳 Traducción y Transcripción Applications on AI Collection](https://www.thataicollection.com/es/categories/translation-and-transcript)
 
-___
+---
 
 ## Planificador de viajes y vacaciones
 
@@ -5351,7 +5033,6 @@ Este asistente de inteligencia artificial puede diseñar un viaje personalizado,
 
 
 
----
 
 ### Roamr
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-roamr.webp?twic=v1/resize=240" alt="Roamr">
@@ -5366,7 +5047,6 @@ Este asistente de inteligencia artificial puede diseñar un viaje personalizado,
 
 <br />
 
----
 
 ### Orkoi
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-orkoi.webp?twic=v1/resize=240" alt="Orkoi">
@@ -5381,7 +5061,6 @@ Nuestra IA creará un plan personalizado para cualquier ciudad o lugar que le gu
 
 
 
----
 
 ### Travel Blog Name Ideas Generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-travel-blog-name-ideas-generator.webp?twic=v1/resize=240" alt="Travel Blog Name Ideas Generator">
@@ -5396,12 +5075,11 @@ Nuestra IA creará un plan personalizado para cualquier ciudad o lugar que le gu
 
 
 
----
 
 
 [See All 🏖 Planificador de viajes y vacaciones Applications on AI Collection](https://www.thataicollection.com/es/categories/vacation-and-trip-planner)
 
-___
+---
 
 ## Video
 
@@ -5420,7 +5098,6 @@ Colossyan Creator hace que la creación de vídeos sea sencilla y sin estrés. D
 
 
 
----
 
 ### HeyGen
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-heygen.webp?twic=v1/resize=240" alt="HeyGen">
@@ -5438,7 +5115,6 @@ Explicación y procedimientos, marketing, ventas personalizadas, aprendizaje ele
 
 
 
----
 
 ### HitPaw Online Video Enhancer
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hitpaw-online-video-enhancer.webp?twic=v1/resize=240" alt="HitPaw Online Video Enhancer">
@@ -5453,7 +5129,6 @@ HitPaw Online Video Enhancer es la mejor solución para videos de baja resoluci�
 
 <br />
 
----
 
 ### Eightify
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-eightify.webp?twic=v1/resize=240" alt="Eightify">
@@ -5468,7 +5143,6 @@ HitPaw Online Video Enhancer es la mejor solución para videos de baja resoluci�
 
 <br />
 
----
 
 ### AI Host
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-host.webp?twic=v1/resize=240" alt="AI Host">
@@ -5483,7 +5157,6 @@ LiveReacting lo ayuda a obtener más seguidores y participación al agregar vide
 
 
 
----
 
 ### Fliki
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fliki.webp?twic=v1/resize=240" alt="Fliki">
@@ -5498,7 +5171,6 @@ LiveReacting lo ayuda a obtener más seguidores y participación al agregar vide
 
 <br />
 
----
 
 ### Pictory
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-pictory.webp?twic=v1/resize=240" alt="Pictory">
@@ -5513,7 +5185,6 @@ Cree automáticamente videos de marca cortos y altamente compartibles a partir d
 
 <br />
 
----
 
 ### Wzrd.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wzrd.ai.webp?twic=v1/resize=240" alt="Wzrd.ai">
@@ -5528,7 +5199,6 @@ WZRD aumenta su audio con video inmersivo impulsado por inteligencia artificial
 
 <br />
 
----
 
 ### HitPaw Video Enhancer
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hitpaw-video-enhancer.webp?twic=v1/resize=240" alt="HitPaw Video Enhancer">
@@ -5544,7 +5214,6 @@ El escalador de vídeo de HitPaw ayuda a aumentar cualquier vídeo con varios mo
 
 
 
----
 
 ### Atlas Navi
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-atlas-navi.webp?twic=v1/resize=240" alt="Atlas Navi">
@@ -5559,12 +5228,11 @@ Crear la mejor aplicación de navegación. Con tecnologías de vanguardia como e
 
 
 
----
 
 
 [See All 🎬 Video Applications on AI Collection](https://www.thataicollection.com/es/categories/video)
 
-___
+---
 
 ## Diseño web
 
@@ -5583,7 +5251,6 @@ Una herramienta de diseño mágica para Figma impulsada por IA.
 
 <br />
 
----
 
 ### Designs AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-designs-ai.webp?twic=v1/resize=240" alt="Designs AI">
@@ -5598,7 +5265,6 @@ Una herramienta de diseño mágica para Figma impulsada por IA.
 
 
 
----
 
 ### welovenocode
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-project-description-generator.webp?twic=v1/resize=240" alt="welovenocode">
@@ -5613,7 +5279,6 @@ Trabaje con expertos confiables y examinados que crearon productos multimillonar
 
 <br />
 
----
 
 ### Uizard
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-uizard.webp?twic=v1/resize=240" alt="Uizard">
@@ -5628,7 +5293,6 @@ Diseñe impresionantes sitios web, aplicaciones web, aplicaciones móviles, inte
 
 
 
----
 
 ### Durable
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-durable.webp?twic=v1/resize=240" alt="Durable">
@@ -5643,7 +5307,6 @@ Cree un sitio web en 30 segundos con AI: el creador de sitios web de AI que gene
 
 <br />
 
----
 
 ### Piggy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-piggy.webp?twic=v1/resize=240" alt="Piggy">
@@ -5658,7 +5321,6 @@ Crear contenido asombroso en tu teléfono ahora es fácil
 
 <br />
 
----
 
 ### Genius by Diagram
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-genius-by-diagram.webp?twic=v1/resize=240" alt="Genius by Diagram">
@@ -5673,7 +5335,6 @@ Apúntate a la lista de espera de Genius by Diagram
 
 <br />
 
----
 
 ### Stunning.so
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stunning.so.webp?twic=v1/resize=240" alt="Stunning.so">
@@ -5688,7 +5349,6 @@ Cree sitios web impresionantes en 30 segundos, incluida la copia e incluso las i
 
 <br />
 
----
 
 ### B12 AI Website Builder
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-b12-ai-website-builder.webp?twic=v1/resize=240" alt="B12 AI Website Builder">
@@ -5703,12 +5363,11 @@ Nuestro creador de sitios web impulsado por IA genera instantáneamente su prese
 
 
 
----
 
 
 [See All 🕸 Diseño web Applications on AI Collection](https://www.thataicollection.com/es/categories/web-design)
 
-___
+---
 
 ## Asistente de Redacción
 
@@ -5728,7 +5387,6 @@ IX.AI: su copiloto de escritura de IA todo en uno más potente. Genere copias de
 
 
 
----
 
 ### Rytr
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rytr.webp?twic=v1/resize=240" alt="Rytr">
@@ -5745,7 +5403,6 @@ No vuelvas a enfrentarte al bloqueo del escritor: desde blogs hasta correos elec
 
 
 
----
 
 ### Elephas
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elephas.webp?twic=v1/resize=240" alt="Elephas">
@@ -5760,7 +5417,6 @@ Ahorra horas todos los días. El primer escritor de inteligencia artificial del 
 
 <br />
 
----
 
 ### Quillbot Paraphraser
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-quillbot-paraphraser.webp?twic=v1/resize=240" alt="Quillbot Paraphraser">
@@ -5775,7 +5431,6 @@ Tus palabras importan, y nuestra herramienta de paráfrasis está diseñada para
 
 
 
----
 
 ### Typly
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-typly.webp?twic=v1/resize=240" alt="Typly">
@@ -5790,7 +5445,6 @@ Tus palabras importan, y nuestra herramienta de paráfrasis está diseñada para
 
 <br />
 
----
 
 ### AI Lyrics Generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-lyrics-generator.webp?twic=v1/resize=240" alt="AI Lyrics Generator">
@@ -5805,7 +5459,6 @@ Genere sus propias letras de canciones para cualquier tema, también elija el g�
 
 <br />
 
----
 
 ### Paraphraser AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paraphraser-ai.webp?twic=v1/resize=240" alt="Paraphraser AI">
@@ -5820,7 +5473,6 @@ Genere sus propias letras de canciones para cualquier tema, también elija el g�
 
 <br />
 
----
 
 ### Wordtune
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wordtune.webp?twic=v1/resize=240" alt="Wordtune">
@@ -5835,7 +5487,6 @@ Genere sus propias letras de canciones para cualquier tema, también elija el g�
 
 <br />
 
----
 
 ### Ai Paragraph Generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-paragraph-generator.webp?twic=v1/resize=240" alt="Ai Paragraph Generator">
@@ -5850,7 +5501,6 @@ El generador de párrafos con IA es una herramienta de creación de contenido va
 
 
 
----
 
 ### Paraphraser
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paraphraser.webp?twic=v1/resize=240" alt="Paraphraser">
@@ -5865,10 +5515,9 @@ El generador de párrafos con IA es una herramienta de creación de contenido va
 
 <br />
 
----
 
 
 [See All ✍️ Asistente de Redacción Applications on AI Collection](https://www.thataicollection.com/es/categories/writing-assistant)
 
-___
+---
 

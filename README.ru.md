@@ -164,7 +164,6 @@ Capture — простая интеграция.</p>
 
 
 
----
 
 ### StockGPT
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stockgpt.webp?twic=v1/resize=240" alt="StockGPT">
@@ -179,7 +178,6 @@ StockGPT — это поисковая система на базе искусс
 
 
 
----
 
 ### Jinnee
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jinnee.webp?twic=v1/resize=240" alt="Jinnee">
@@ -194,7 +192,6 @@ StockGPT — это поисковая система на базе искусс
 
 
 
----
 
 ### Stocknews AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stocknews-ai.webp?twic=v1/resize=240" alt="Stocknews AI">
@@ -210,12 +207,11 @@ Stocknews AI — это куратор лучших новых биржевых 
 
 <br />
 
----
 
 
 [See All 📈 Бухгалтерский учет и финансы Applications on AI Collection](https://www.thataicollection.com/ru/categories/accounting-and-finance)
 
-___
+---
 
 ## Анимация и 3D-моделирование
 
@@ -234,7 +230,6 @@ Blimey — это генератор изображений с искусств�
 
 
 
----
 
 ### TextureLab
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-texturelab.webp?twic=v1/resize=240" alt="TextureLab">
@@ -249,7 +244,6 @@ Blimey — это генератор изображений с искусств�
 
 <br />
 
----
 
 ### Kaedim
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-kaedim.webp?twic=v1/resize=240" alt="Kaedim">
@@ -264,7 +258,6 @@ Blimey — это генератор изображений с искусств�
 
 <br />
 
----
 
 ### plask
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-plask.webp?twic=v1/resize=240" alt="plask">
@@ -279,7 +272,6 @@ Blimey — это генератор изображений с искусств�
 
 <br />
 
----
 
 ### lumalabs
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lumalabs.webp?twic=v1/resize=240" alt="lumalabs">
@@ -294,12 +286,11 @@ Blimey — это генератор изображений с искусств�
 
 <br />
 
----
 
 
 [See All 🎲 Анимация и 3D-моделирование Applications on AI Collection](https://www.thataicollection.com/ru/categories/animation-and-3d-modeling)
 
-___
+---
 
 ## Архитектура и дизайн интерьера
 
@@ -318,7 +309,6 @@ ___
 
 
 
----
 
 ### Interior AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-interior-ai.webp?twic=v1/resize=240" alt="Interior AI">
@@ -333,7 +323,6 @@ ___
 
 
 
----
 
 ### Image Computer
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-image-computer.webp?twic=v1/resize=240" alt="Image Computer">
@@ -348,7 +337,6 @@ ___
 
 <br />
 
----
 
 ### Dimensions
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dimensions.webp?twic=v1/resize=240" alt="Dimensions">
@@ -363,7 +351,6 @@ ___
 
 <br />
 
----
 
 ### AI Room Planner
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-room-planner.webp?twic=v1/resize=240" alt="AI Room Planner">
@@ -378,7 +365,6 @@ ___
 
 <br />
 
----
 
 ### Getfloorplan
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-getfloorplan.webp?twic=v1/resize=240" alt="Getfloorplan">
@@ -393,7 +379,6 @@ ___
 
 <br />
 
----
 
 ### AI TWO
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-two.webp?twic=v1/resize=240" alt="AI TWO">
@@ -408,12 +393,11 @@ ___
 
 <br />
 
----
 
 
 [See All 🏯 Архитектура и дизайн интерьера Applications on AI Collection](https://www.thataicollection.com/ru/categories/architecture-and-interior-design)
 
-___
+---
 
 ## Генератор изображений и изображений
 
@@ -432,7 +416,6 @@ getimg.ai — это набор волшебных инструментов ис
 
 
 
----
 
 ### ICONS8
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-icons8.webp?twic=v1/resize=240" alt="ICONS8">
@@ -447,7 +430,6 @@ ICONS8 ПОЗВОЛЯЕТ ДИЗАЙНЕРАМ ВЫРАЖАТЬ СВОИ ИДЕ�
 
 
 
----
 
 ### CustomQR AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-customqr-ai.webp?twic=v1/resize=240" alt="CustomQR AI">
@@ -462,7 +444,6 @@ ICONS8 ПОЗВОЛЯЕТ ДИЗАЙНЕРАМ ВЫРАЖАТЬ СВОИ ИДЕ�
 
 
 
----
 
 ### Playground
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-playground.webp?twic=v1/resize=240" alt="Playground">
@@ -477,7 +458,6 @@ Playground AI — это бесплатный онлайн-редактор из
 
 
 
----
 
 ### Designify
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-designify.webp?twic=v1/resize=240" alt="Designify">
@@ -492,7 +472,6 @@ Playground AI — это бесплатный онлайн-редактор из
 
 <br />
 
----
 
 ### DrawAnyone
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-drawanyone.webp?twic=v1/resize=240" alt="DrawAnyone">
@@ -507,7 +486,6 @@ Playground AI — это бесплатный онлайн-редактор из
 
 <br />
 
----
 
 ### Anime AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-anime-ai.webp?twic=v1/resize=240" alt="Anime AI">
@@ -522,7 +500,6 @@ Playground AI — это бесплатный онлайн-редактор из
 
 <br />
 
----
 
 ### SnapshotAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-snapshotai.webp?twic=v1/resize=240" alt="SnapshotAI">
@@ -537,7 +514,6 @@ Playground AI — это бесплатный онлайн-редактор из
 
 <br />
 
----
 
 ### Mini Dalle 3 Online
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-mini-dalle-3-online.webp?twic=v1/resize=240" alt="Mini Dalle 3 Online">
@@ -552,7 +528,6 @@ None
 
 <br />
 
----
 
 ### Not Me Netlify
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-not-me-netlify.webp?twic=v1/resize=240" alt="Not Me Netlify">
@@ -567,12 +542,11 @@ None
 
 <br />
 
----
 
 
 [See All 🌄 Генератор изображений и изображений Applications on AI Collection](https://www.thataicollection.com/ru/categories/art-and-image-generator)
 
-___
+---
 
 ## Аватары
 
@@ -591,7 +565,6 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 
 
----
 
 ### AvatarAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-avatarai.webp?twic=v1/resize=240" alt="AvatarAI">
@@ -606,7 +579,6 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 <br />
 
----
 
 ### Character.io
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-character.io.webp?twic=v1/resize=240" alt="Character.io">
@@ -621,7 +593,6 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 <br />
 
----
 
 ### Avtrs
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-avtrs.webp?twic=v1/resize=240" alt="Avtrs">
@@ -636,7 +607,6 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 
 
----
 
 ### Autoportrait
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-autoportrait.webp?twic=v1/resize=240" alt="Autoportrait">
@@ -651,7 +621,6 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 <br />
 
----
 
 ### AIVatar
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aivatar.webp?twic=v1/resize=240" alt="AIVatar">
@@ -666,7 +635,6 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 <br />
 
----
 
 ### AIprofilepic
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aiprofilepic.webp?twic=v1/resize=240" alt="AIprofilepic">
@@ -681,7 +649,6 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 <br />
 
----
 
 ### DreamPic
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dreampic.webp?twic=v1/resize=240" alt="DreamPic">
@@ -696,7 +663,6 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 <br />
 
----
 
 ### EpicAvatar
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-epicavatar.webp?twic=v1/resize=240" alt="EpicAvatar">
@@ -711,7 +677,6 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 <br />
 
----
 
 ### Tryitonai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tryitonai.webp?twic=v1/resize=240" alt="Tryitonai">
@@ -726,12 +691,11 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 
 
----
 
 
 [See All 😎 Аватары Applications on AI Collection](https://www.thataicollection.com/ru/categories/avatars)
 
-___
+---
 
 ## Чат-бот
 
@@ -750,7 +714,6 @@ ChatSimple — это платформа, которая специализир�
 
 
 
----
 
 ### SiteSpeakAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sitespeakai.webp?twic=v1/resize=240" alt="SiteSpeakAI">
@@ -765,7 +728,6 @@ ChatSimple — это платформа, которая специализир�
 
 
 
----
 
 ### Dante
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dante.webp?twic=v1/resize=240" alt="Dante">
@@ -780,7 +742,6 @@ ChatSimple — это платформа, которая специализир�
 
 
 
----
 
 ### ChatBotKit
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chatbotkit.webp?twic=v1/resize=240" alt="ChatBotKit">
@@ -795,7 +756,6 @@ ChatBotKit помогает вам создавать диалоговых ча�
 
 
 
----
 
 ### SiteGPT
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sitegpt.webp?twic=v1/resize=240" alt="SiteGPT">
@@ -810,7 +770,6 @@ ChatBotKit помогает вам создавать диалоговых ча�
 
 <br />
 
----
 
 ### NOLU
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-nolu.webp?twic=v1/resize=240" alt="NOLU">
@@ -825,7 +784,6 @@ ChatBotKit помогает вам создавать диалоговых ча�
 
 <br />
 
----
 
 ### Chai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chai.webp?twic=v1/resize=240" alt="Chai">
@@ -840,7 +798,6 @@ Chai — это НАСТОЯЩЕЕ место для захватывающих 
 
 
 
----
 
 ### Askrobi
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-askrobi.webp?twic=v1/resize=240" alt="Askrobi">
@@ -855,7 +812,6 @@ Chai — это НАСТОЯЩЕЕ место для захватывающих 
 
 
 
----
 
 ### MyAnima AI Companion
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-myanima-ai-companion.webp?twic=v1/resize=240" alt="MyAnima AI Companion">
@@ -870,7 +826,6 @@ Chai — это НАСТОЯЩЕЕ место для захватывающих 
 
 <br />
 
----
 
 ### Kore.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-kore.ai.webp?twic=v1/resize=240" alt="Kore.ai">
@@ -885,12 +840,11 @@ Kore.ai автоматизирует взаимодействие между ф�
 
 
 
----
 
 
 [See All 🤖💬 Чат-бот Applications on AI Collection](https://www.thataicollection.com/ru/categories/chat-bot)
 
-___
+---
 
 ## Помощник по коду и базе данных
 
@@ -909,7 +863,6 @@ ___
 
 <br />
 
----
 
 ### CodiumAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-codiumai.webp?twic=v1/resize=240" alt="CodiumAI">
@@ -924,7 +877,6 @@ CodiumAI анализирует ваш код и создает содержат
 
 <br />
 
----
 
 ### CodeWP
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-codewp.webp?twic=v1/resize=240" alt="CodeWP">
@@ -939,7 +891,6 @@ CodeWP — это генератор кода WordPress, который испо
 
 
 
----
 
 ### ExplainDev
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-explaindev.webp?twic=v1/resize=240" alt="ExplainDev">
@@ -954,7 +905,6 @@ CodeWP — это генератор кода WordPress, который испо
 
 
 
----
 
 ### TLDR - Jetbrains IDE Plugin
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tldr---jetbrains-ide-plugin.webp?twic=v1/resize=240" alt="TLDR - Jetbrains IDE Plugin">
@@ -969,7 +919,6 @@ TLDR — это подключаемый модуль IDE, который исп
 
 <br />
 
----
 
 ### Ghostwriter
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ghostwriter.webp?twic=v1/resize=240" alt="Ghostwriter">
@@ -984,7 +933,6 @@ TLDR — это подключаемый модуль IDE, который исп
 
 
 
----
 
 ### Whatthediff
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-whatthediff.webp?twic=v1/resize=240" alt="Whatthediff">
@@ -999,7 +947,6 @@ TLDR — это подключаемый модуль IDE, который исп
 
 <br />
 
----
 
 ### CodeAssist
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-codeassist.webp?twic=v1/resize=240" alt="CodeAssist">
@@ -1014,7 +961,6 @@ TLDR — это подключаемый модуль IDE, который исп
 
 <br />
 
----
 
 ### Klu
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-klu.webp?twic=v1/resize=240" alt="Klu">
@@ -1029,7 +975,6 @@ Klu.ai — это универсальная платформа, предназ�
 
 
 
----
 
 ### Tabnine
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tabnine.webp?twic=v1/resize=240" alt="Tabnine">
@@ -1044,12 +989,11 @@ Klu.ai — это универсальная платформа, предназ�
 
 
 
----
 
 
 [See All 💻 Помощник по коду и базе данных Applications on AI Collection](https://www.thataicollection.com/ru/categories/code-and-database-assistant)
 
-___
+---
 
 ## Генерация контента и SEO
 
@@ -1068,7 +1012,6 @@ ___
 
 
 
----
 
 ### Jasper.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jasper.ai.webp?twic=v1/resize=240" alt="Jasper.ai">
@@ -1083,7 +1026,6 @@ Jasper — это генератор контента с искусственн�
 
 
 
----
 
 ### LongShot AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-longshot-ai.webp?twic=v1/resize=240" alt="LongShot AI">
@@ -1098,7 +1040,6 @@ LongShot — это помощник по написанию текстов с �
 
 
 
----
 
 ### Dashword
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dashword.webp?twic=v1/resize=240" alt="Dashword">
@@ -1113,7 +1054,6 @@ Dashword — это программное обеспечение №1 для о
 
 
 
----
 
 ### unbound
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-unbound.webp?twic=v1/resize=240" alt="unbound">
@@ -1128,7 +1068,6 @@ Dashword — это программное обеспечение №1 для о
 
 
 
----
 
 ### Neuraltext
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-neuraltext.webp?twic=v1/resize=240" alt="Neuraltext">
@@ -1143,7 +1082,6 @@ Dashword — это программное обеспечение №1 для о
 
 <br />
 
----
 
 ### WordAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wordai.webp?twic=v1/resize=240" alt="WordAI">
@@ -1158,7 +1096,6 @@ Dashword — это программное обеспечение №1 для о
 
 
 
----
 
 ### Intelligent paraphraser
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-intelligent-paraphraser.webp?twic=v1/resize=240" alt="Intelligent paraphraser">
@@ -1173,7 +1110,6 @@ Dashword — это программное обеспечение №1 для о
 
 
 
----
 
 ### Creator AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-creator-ai.webp?twic=v1/resize=240" alt="Creator AI">
@@ -1188,7 +1124,6 @@ Creator поможет вам писать контент более мощно 
 
 <br />
 
----
 
 ### ArticleForge
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-articleforge.webp?twic=v1/resize=240" alt="ArticleForge">
@@ -1203,12 +1138,11 @@ Creator поможет вам писать контент более мощно 
 
 
 
----
 
 
 [See All 📠 Генерация контента и SEO Applications on AI Collection](https://www.thataicollection.com/ru/categories/content-generation-and-seo)
 
-___
+---
 
 ## Инструментарий для авторов
 
@@ -1229,7 +1163,6 @@ ___
 
 
 
----
 
 ### Clipdrop
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-clipdrop.webp?twic=v1/resize=240" alt="Clipdrop">
@@ -1244,7 +1177,6 @@ ___
 
 <br />
 
----
 
 ### Descript
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-descript.webp?twic=v1/resize=240" alt="Descript">
@@ -1259,7 +1191,6 @@ Descript — это простой, мощный и увлекательный �
 
 <br />
 
----
 
 ### Cutout Pro
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cutout-pro.webp?twic=v1/resize=240" alt="Cutout Pro">
@@ -1274,7 +1205,6 @@ Descript — это простой, мощный и увлекательный �
 
 
 
----
 
 ### Fermat
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fermat.webp?twic=v1/resize=240" alt="Fermat">
@@ -1289,7 +1219,6 @@ Descript — это простой, мощный и увлекательный �
 
 <br />
 
----
 
 ### Hotpot
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hotpot.webp?twic=v1/resize=240" alt="Hotpot">
@@ -1304,7 +1233,6 @@ Hotpot.ai поможет вам создать потрясающую графи
 
 
 
----
 
 ### Lightricks
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lightricks.webp?twic=v1/resize=240" alt="Lightricks">
@@ -1319,7 +1247,6 @@ Hotpot.ai поможет вам создать потрясающую графи
 
 <br />
 
----
 
 ### Runway
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-runway.webp?twic=v1/resize=240" alt="Runway">
@@ -1334,7 +1261,6 @@ Hotpot.ai поможет вам создать потрясающую графи
 
 <br />
 
----
 
 ### Phygital
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-phygital.webp?twic=v1/resize=240" alt="Phygital">
@@ -1349,7 +1275,6 @@ Hotpot.ai поможет вам создать потрясающую графи
 
 <br />
 
----
 
 ### TextSynth
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-textsynth.webp?twic=v1/resize=240" alt="TextSynth">
@@ -1364,12 +1289,11 @@ TextSynth использует собственный код логическо�
 
 
 
----
 
 
 [See All 🧰 Инструментарий для авторов Applications on AI Collection](https://www.thataicollection.com/ru/categories/creators-toolkit)
 
-___
+---
 
 ## Служба поддержки
 
@@ -1388,7 +1312,6 @@ ___
 
 
 
----
 
 ### AI Answers by Cohere
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-answers-by-cohere.webp?twic=v1/resize=240" alt="AI Answers by Cohere">
@@ -1403,7 +1326,6 @@ ___
 
 <br />
 
----
 
 ### Bahasa
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-bahasa.webp?twic=v1/resize=240" alt="Bahasa">
@@ -1418,7 +1340,6 @@ ___
 
 
 
----
 
 ### ResolveAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-resolveai.webp?twic=v1/resize=240" alt="ResolveAI">
@@ -1433,7 +1354,6 @@ ___
 
 
 
----
 
 ### EddyAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-eddyai.webp?twic=v1/resize=240" alt="EddyAI">
@@ -1448,7 +1368,6 @@ ___
 
 <br />
 
----
 
 ### Poised 2.0
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-poised-2.0.webp?twic=v1/resize=240" alt="Poised 2.0">
@@ -1463,7 +1382,6 @@ ___
 
 
 
----
 
 ### OneTone.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-onetone.ai.webp?twic=v1/resize=240" alt="OneTone.ai">
@@ -1478,7 +1396,6 @@ OneTone.ai — это платформа на базе искусственно�
 
 
 
----
 
 ### ChatGenius
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chatgenius.webp?twic=v1/resize=240" alt="ChatGenius">
@@ -1493,7 +1410,6 @@ ChatGenius — компания-разработчик программного 
 
 
 
----
 
 ### ChatFlow
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chatflow.webp?twic=v1/resize=240" alt="ChatFlow">
@@ -1510,7 +1426,6 @@ ChatGenius — компания-разработчик программного 
 
 
 
----
 
 ### WADeck
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wadeck.webp?twic=v1/resize=240" alt="WADeck">
@@ -1525,12 +1440,11 @@ Wadeck — это бесплатный инструмент WhatsApp CRM с по
 
 
 
----
 
 
 [See All 👨‍💻 Служба поддержки Applications on AI Collection](https://www.thataicollection.com/ru/categories/customer-support)
 
-___
+---
 
 ## Электронная торговля
 
@@ -1549,7 +1463,6 @@ ___
 
 <br />
 
----
 
 ### Embolden
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-embolden.webp?twic=v1/resize=240" alt="Embolden">
@@ -1564,7 +1477,6 @@ Embolden использует искусственный интеллект, ч�
 
 
 
----
 
 ### Wizishop
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wizishop.webp?twic=v1/resize=240" alt="Wizishop">
@@ -1579,7 +1491,6 @@ WiziShop делает электронную коммерцию на основ�
 
 
 
----
 
 ### DoMyShoot
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-domyshoot.webp?twic=v1/resize=240" alt="DoMyShoot">
@@ -1594,7 +1505,6 @@ WiziShop делает электронную коммерцию на основ�
 
 
 
----
 
 ### manifest
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-manifest.webp?twic=v1/resize=240" alt="manifest">
@@ -1609,7 +1519,6 @@ WiziShop делает электронную коммерцию на основ�
 
 
 
----
 
 ### Gizzmo Ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gizzmo-ai.webp?twic=v1/resize=240" alt="Gizzmo Ai">
@@ -1624,7 +1533,6 @@ Gizzmo — мощный плагин WordPress, упрощающий проце�
 
 
 
----
 
 ### VModel
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-vmodel.webp?twic=v1/resize=240" alt="VModel">
@@ -1639,7 +1547,6 @@ vModel использует технологию искусственного и
 
 
 
----
 
 ### GPT Gifts
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gpt-gifts.webp?twic=v1/resize=240" alt="GPT Gifts">
@@ -1654,12 +1561,11 @@ None
 
 <br />
 
----
 
 
 [See All 🛒 Электронная торговля Applications on AI Collection](https://www.thataicollection.com/ru/categories/ecommerce)
 
-___
+---
 
 ## Образование и обучение
 
@@ -1678,7 +1584,6 @@ ___
 
 
 
----
 
 ### Botta
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-botta.webp?twic=v1/resize=240" alt="Botta">
@@ -1693,7 +1598,6 @@ ___
 
 <br />
 
----
 
 ### Speakingclubai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-speakingclubai.webp?twic=v1/resize=240" alt="Speakingclubai">
@@ -1708,7 +1612,6 @@ ___
 
 
 
----
 
 ### Lorro
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lorro.webp?twic=v1/resize=240" alt="Lorro">
@@ -1723,7 +1626,6 @@ ___
 
 <br />
 
----
 
 ### TutorAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tutorai.webp?twic=v1/resize=240" alt="TutorAI">
@@ -1738,7 +1640,6 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 
 
----
 
 ### Teacherbot
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-teacherbot.webp?twic=v1/resize=240" alt="Teacherbot">
@@ -1753,7 +1654,6 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 
 
----
 
 ### Replicate
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-replicate.webp?twic=v1/resize=240" alt="Replicate">
@@ -1768,7 +1668,6 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 <br />
 
----
 
 ### teachology.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-teachology.ai.webp?twic=v1/resize=240" alt="teachology.ai">
@@ -1783,7 +1682,6 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 
 
----
 
 ### Cratecode
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cratecode.webp?twic=v1/resize=240" alt="Cratecode">
@@ -1798,7 +1696,6 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 
 
----
 
 ### Wilco Sierra
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wilco-sierra.webp?twic=v1/resize=240" alt="Wilco Sierra">
@@ -1813,12 +1710,11 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 
 
----
 
 
 [See All 🧠 Образование и обучение Applications on AI Collection](https://www.thataicollection.com/ru/categories/education-and-learning)
 
-___
+---
 
 ## Помощник по электронной почте
 
@@ -1837,7 +1733,6 @@ ___
 
 
 
----
 
 ### Warmer.Ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-warmer.ai.webp?twic=v1/resize=240" alt="Warmer.Ai">
@@ -1852,7 +1747,6 @@ Warmer использует персонализацию электронной 
 
 
 
----
 
 ### DraftLab
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-draftlab.webp?twic=v1/resize=240" alt="DraftLab">
@@ -1867,7 +1761,6 @@ Warmer использует персонализацию электронной 
 
 
 
----
 
 ### Ellie
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ellie.webp?twic=v1/resize=240" alt="Ellie">
@@ -1882,7 +1775,6 @@ Warmer использует персонализацию электронной 
 
 <br />
 
----
 
 ### EmailTriager
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-emailtriager.webp?twic=v1/resize=240" alt="EmailTriager">
@@ -1897,7 +1789,6 @@ Warmer использует персонализацию электронной 
 
 <br />
 
----
 
 ### Quicklines
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-quicklines.webp?twic=v1/resize=240" alt="Quicklines">
@@ -1912,7 +1803,6 @@ Quicklines – это ваш новый помощник на базе иску
 
 
 
----
 
 ### superReply
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-superreply.webp?twic=v1/resize=240" alt="superReply">
@@ -1927,7 +1817,6 @@ Quicklines – это ваш новый помощник на базе иску
 
 
 
----
 
 ### Rapidreply
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rapidreply.webp?twic=v1/resize=240" alt="Rapidreply">
@@ -1942,7 +1831,6 @@ Quicklines – это ваш новый помощник на базе иску
 
 <br />
 
----
 
 ### Recruiting Emails AI by Dover
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-recruiting-emails-ai-by-dover.webp?twic=v1/resize=240" alt="Recruiting Emails AI by Dover">
@@ -1957,7 +1845,6 @@ Quicklines – это ваш новый помощник на базе иску
 
 <br />
 
----
 
 ### Intellimail
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-intellimail.webp?twic=v1/resize=240" alt="Intellimail">
@@ -1972,12 +1859,11 @@ IntelliMail — это расширение для Chrome, которое ген
 
 <br />
 
----
 
 
 [See All 📧 Помощник по электронной почте Applications on AI Collection](https://www.thataicollection.com/ru/categories/email-assistant)
 
-___
+---
 
 ## Мода
 
@@ -1996,7 +1882,6 @@ FashionAdvisor — это искусственный интеллект, осн�
 
 <br />
 
----
 
 ### Visualhound
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-visualhound.webp?twic=v1/resize=240" alt="Visualhound">
@@ -2011,7 +1896,6 @@ FashionAdvisor — это искусственный интеллект, осн�
 
 
 
----
 
 ### SwagAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-swagai.webp?twic=v1/resize=240" alt="SwagAI">
@@ -2028,12 +1912,11 @@ SwagAI — изображения, созданные искусственным
 
 
 
----
 
 
 [See All 👩‍🎤 Мода Applications on AI Collection](https://www.thataicollection.com/ru/categories/fashion)
 
-___
+---
 
 ## Веселье
 
@@ -2052,7 +1935,6 @@ ___
 
 <br />
 
----
 
 ### Ask RBG
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ask-rbg.webp?twic=v1/resize=240" alt="Ask RBG">
@@ -2067,7 +1949,6 @@ ___
 
 
 
----
 
 ### Philosophy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-philosophy.webp?twic=v1/resize=240" alt="Philosophy">
@@ -2082,7 +1963,6 @@ ___
 
 <br />
 
----
 
 ### Botify
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-botify.webp?twic=v1/resize=240" alt="Botify">
@@ -2097,7 +1977,6 @@ ___
 
 <br />
 
----
 
 ### StoriesForKids
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-storiesforkids.webp?twic=v1/resize=240" alt="StoriesForKids">
@@ -2112,7 +1991,6 @@ ___
 
 <br />
 
----
 
 ### Excuses AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-excuses-ai.webp?twic=v1/resize=240" alt="Excuses AI">
@@ -2127,7 +2005,6 @@ ___
 
 <br />
 
----
 
 ### Askmybook
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-askmybook.webp?twic=v1/resize=240" alt="Askmybook">
@@ -2142,7 +2019,6 @@ ___
 
 
 
----
 
 ### AI Pokemon generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-pokemon-generator.webp?twic=v1/resize=240" alt="AI Pokemon generator">
@@ -2157,7 +2033,6 @@ ___
 
 
 
----
 
 ### Silly Times
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-silly-times.webp?twic=v1/resize=240" alt="Silly Times">
@@ -2172,7 +2047,6 @@ ___
 
 <br />
 
----
 
 ### Blackink
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-blackink.webp?twic=v1/resize=240" alt="Blackink">
@@ -2187,12 +2061,11 @@ ___
 
 
 
----
 
 
 [See All 🤪 Веселье Applications on AI Collection](https://www.thataicollection.com/ru/categories/fun)
 
-___
+---
 
 ## Игры
 
@@ -2211,7 +2084,6 @@ ___
 
 <br />
 
----
 
 ### hidden door
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hidden-door.webp?twic=v1/resize=240" alt="hidden door">
@@ -2226,7 +2098,6 @@ ___
 
 <br />
 
----
 
 ### latitude
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-latitude.webp?twic=v1/resize=240" alt="latitude">
@@ -2241,7 +2112,6 @@ ___
 
 <br />
 
----
 
 ### Chess AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chess-ai.webp?twic=v1/resize=240" alt="Chess AI">
@@ -2256,7 +2126,6 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 
----
 
 ### GGPredict
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ggpredict.webp?twic=v1/resize=240" alt="GGPredict">
@@ -2271,7 +2140,6 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 <br />
 
----
 
 ### Assetsai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-assetsai.webp?twic=v1/resize=240" alt="Assetsai">
@@ -2286,7 +2154,6 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 
----
 
 ### Scenario
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-scenario.webp?twic=v1/resize=240" alt="Scenario">
@@ -2301,7 +2168,6 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 
----
 
 ### AI Dungeon
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-dungeon.webp?twic=v1/resize=240" alt="AI Dungeon">
@@ -2316,7 +2182,6 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 
----
 
 ### IRMO
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-irmo.webp?twic=v1/resize=240" alt="IRMO">
@@ -2331,7 +2196,6 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 <br />
 
----
 
 ### Rosebud AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rosebud-ai.webp?twic=v1/resize=240" alt="Rosebud AI">
@@ -2347,12 +2211,11 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 
----
 
 
 [See All 🎮 Игры Applications on AI Collection](https://www.thataicollection.com/ru/categories/gaming)
 
-___
+---
 
 ## Идеи для подарка
 
@@ -2371,7 +2234,6 @@ ___
 
 
 
----
 
 ### Text2present
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-text2present.webp?twic=v1/resize=240" alt="Text2present">
@@ -2386,7 +2248,6 @@ ___
 
 
 
----
 
 ### Outdone V2
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-outdone-v2.webp?twic=v1/resize=240" alt="Outdone V2">
@@ -2401,7 +2262,6 @@ ___
 
 
 
----
 
 ### Gifts Genie
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gifts-genie.webp?twic=v1/resize=240" alt="Gifts Genie">
@@ -2416,7 +2276,6 @@ ___
 
 
 
----
 
 ### GiftBot
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-giftbot.webp?twic=v1/resize=240" alt="GiftBot">
@@ -2431,7 +2290,6 @@ ___
 
 <br />
 
----
 
 ### Giftastic AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-giftastic-ai.webp?twic=v1/resize=240" alt="Giftastic AI">
@@ -2446,7 +2304,6 @@ ___
 
 <br />
 
----
 
 ### Gift Genie
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gift-genie.webp?twic=v1/resize=240" alt="Gift Genie">
@@ -2461,7 +2318,6 @@ Gift Genie AI — это приложение на базе искусствен
 
 
 
----
 
 ### Elf Help
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elf-help.webp?twic=v1/resize=240" alt="Elf Help">
@@ -2476,7 +2332,6 @@ Gift Genie AI — это приложение на базе искусствен
 
 
 
----
 
 ### CoolGiftIdeas
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-coolgiftideas.webp?twic=v1/resize=240" alt="CoolGiftIdeas">
@@ -2491,7 +2346,6 @@ Gift Genie AI — это приложение на базе искусствен
 
 <br />
 
----
 
 ### AI Holiday Cards
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-holiday-cards.webp?twic=v1/resize=240" alt="AI Holiday Cards">
@@ -2506,12 +2360,11 @@ Gift Genie AI — это приложение на базе искусствен
 
 <br />
 
----
 
 
 [See All 🎁💡 Идеи для подарка Applications on AI Collection](https://www.thataicollection.com/ru/categories/gift-ideas)
 
-___
+---
 
 ## Здравоохранение
 
@@ -2530,7 +2383,6 @@ ___
 
 
 
----
 
 ### Getactyv
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-getactyv.webp?twic=v1/resize=240" alt="Getactyv">
@@ -2545,7 +2397,6 @@ ___
 
 <br />
 
----
 
 ### Ubie AI Symptom Checker
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ubie-ai-symptom-checker.webp?twic=v1/resize=240" alt="Ubie AI Symptom Checker">
@@ -2560,12 +2411,11 @@ ___
 
 
 
----
 
 
 [See All 👩‍⚕️ Здравоохранение Applications on AI Collection](https://www.thataicollection.com/ru/categories/healthcare)
 
-___
+---
 
 ## Человеческие ресурсы и резюме
 
@@ -2584,7 +2434,6 @@ Rezi — единственная платформа для резюме, исп
 
 
 
----
 
 ### Prodigy AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prodigy-ai.webp?twic=v1/resize=240" alt="Prodigy AI">
@@ -2599,7 +2448,6 @@ Rezi — единственная платформа для резюме, исп
 
 
 
----
 
 ### rankode
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rankode.webp?twic=v1/resize=240" alt="rankode">
@@ -2614,7 +2462,6 @@ Rezi — единственная платформа для резюме, исп
 
 
 
----
 
 ### LazyApply
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lazyapply.webp?twic=v1/resize=240" alt="LazyApply">
@@ -2629,7 +2476,6 @@ Rezi — единственная платформа для резюме, исп
 
 <br />
 
----
 
 ### Coverquick
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-coverquick.webp?twic=v1/resize=240" alt="Coverquick">
@@ -2645,7 +2491,6 @@ CoverQuick — это революционная платформа для уд�
 
 
 
----
 
 ### HireYaY
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hireyay.webp?twic=v1/resize=240" alt="HireYaY">
@@ -2660,7 +2505,6 @@ CoverQuick — это революционная платформа для уд�
 
 <br />
 
----
 
 ### JD Generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jd-generator.webp?twic=v1/resize=240" alt="JD Generator">
@@ -2675,7 +2519,6 @@ CoverQuick — это революционная платформа для уд�
 
 <br />
 
----
 
 ### Hire Hoc
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hire-hoc.webp?twic=v1/resize=240" alt="Hire Hoc">
@@ -2690,7 +2533,6 @@ CoverQuick — это революционная платформа для уд�
 
 <br />
 
----
 
 ### Hirex.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hirex.ai.webp?twic=v1/resize=240" alt="Hirex.ai">
@@ -2705,7 +2547,6 @@ CoverQuick — это революционная платформа для уд�
 
 
 
----
 
 ### springworks
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-springworks.webp?twic=v1/resize=240" alt="springworks">
@@ -2720,12 +2561,11 @@ Springworks создает программные решения для упра
 
 
 
----
 
 
 [See All 👩‍💼 Человеческие ресурсы и резюме Applications on AI Collection](https://www.thataicollection.com/ru/categories/human-resources-and-resume)
 
-___
+---
 
 ## Генерация идей
 
@@ -2744,7 +2584,6 @@ ___
 
 
 
----
 
 ### Paperade
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paperade.webp?twic=v1/resize=240" alt="Paperade">
@@ -2759,7 +2598,6 @@ Paperade — это первый инструмент на основе иску
 
 
 
----
 
 ### Business Idea Generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-business-idea-generator.webp?twic=v1/resize=240" alt="Business Idea Generator">
@@ -2774,7 +2612,6 @@ Paperade — это первый инструмент на основе иску
 
 <br />
 
----
 
 ### Ideasai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ideasai.webp?twic=v1/resize=240" alt="Ideasai">
@@ -2789,7 +2626,6 @@ Paperade — это первый инструмент на основе иску
 
 
 
----
 
 ### Videomuse
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-videomuse.webp?twic=v1/resize=240" alt="Videomuse">
@@ -2804,7 +2640,6 @@ Paperade — это первый инструмент на основе иску
 
 
 
----
 
 ### My Spicy Vanilla
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-my-spicy-vanilla.webp?twic=v1/resize=240" alt="My Spicy Vanilla">
@@ -2823,12 +2658,11 @@ Paperade — это первый инструмент на основе иску
 
 
 
----
 
 
 [See All 💡 Генерация идей Applications on AI Collection](https://www.thataicollection.com/ru/categories/idea-generation)
 
-___
+---
 
 ## Юридический
 
@@ -2847,7 +2681,6 @@ ___
 
 <br />
 
----
 
 ### Compliance Quarter
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-compliance-quarter.webp?twic=v1/resize=240" alt="Compliance Quarter">
@@ -2862,7 +2695,6 @@ ___
 
 
 
----
 
 ### Equally.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-equally.ai.webp?twic=v1/resize=240" alt="Equally.ai">
@@ -2877,7 +2709,6 @@ ___
 
 <br />
 
----
 
 ### DoNotPay
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-donotpay.webp?twic=v1/resize=240" alt="DoNotPay">
@@ -2892,7 +2723,6 @@ ___
 
 <br />
 
----
 
 ### PatentPal
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-patentpal.webp?twic=v1/resize=240" alt="PatentPal">
@@ -2907,7 +2737,6 @@ ___
 
 <br />
 
----
 
 ### Spellbook
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-spellbook.webp?twic=v1/resize=240" alt="Spellbook">
@@ -2922,12 +2751,11 @@ ___
 
 <br />
 
----
 
 
 [See All 👩‍⚖️ Юридический Applications on AI Collection](https://www.thataicollection.com/ru/categories/legal)
 
-___
+---
 
 ## Генератор логотипов
 
@@ -2946,7 +2774,6 @@ ___
 
 <br />
 
----
 
 ### Text To Book Cover
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-text-to-book-cover.webp?twic=v1/resize=240" alt="Text To Book Cover">
@@ -2961,7 +2788,6 @@ ___
 
 <br />
 
----
 
 ### Make Logo AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-make-logo-ai.webp?twic=v1/resize=240" alt="Make Logo AI">
@@ -2976,7 +2802,6 @@ ___
 
 <br />
 
----
 
 ### Logo Rank
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-logo-rank.webp?twic=v1/resize=240" alt="Logo Rank">
@@ -2992,7 +2817,6 @@ ___
 
 
 
----
 
 ### 123123123
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-123123123.webp?twic=v1/resize=240" alt="123123123">
@@ -3007,12 +2831,11 @@ None
 
 <br />
 
----
 
 
 [See All ⚜️ Генератор логотипов Applications on AI Collection](https://www.thataicollection.com/ru/categories/logo-generator)
 
-___
+---
 
 ## Помощник по встречам
 
@@ -3033,7 +2856,6 @@ Fireflies.ai помогает вашей команде записывать, т
 
 
 
----
 
 ### Jamie
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jamie.webp?twic=v1/resize=240" alt="Jamie">
@@ -3048,7 +2870,6 @@ Fireflies.ai помогает вашей команде записывать, т
 
 
 
----
 
 ### Supernormal
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-supernormal.webp?twic=v1/resize=240" alt="Supernormal">
@@ -3065,7 +2886,6 @@ Supernormal делает заметки во время встречи и авт
 
 
 
----
 
 ### Wudpecker
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wudpecker.webp?twic=v1/resize=240" alt="Wudpecker">
@@ -3087,7 +2907,6 @@ Supernormal делает заметки во время встречи и авт
 
 
 
----
 
 ### Avoma
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-avoma.webp?twic=v1/resize=240" alt="Avoma">
@@ -3102,7 +2921,6 @@ Supernormal делает заметки во время встречи и авт
 
 
 
----
 
 ### Fathom
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fathom.webp?twic=v1/resize=240" alt="Fathom">
@@ -3118,7 +2936,6 @@ Fathom записывает, расшифровывает, выделяет и �
 
 
 
----
 
 ### Otter
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-otter.webp?twic=v1/resize=240" alt="Otter">
@@ -3133,7 +2950,6 @@ Fathom записывает, расшифровывает, выделяет и �
 
 
 
----
 
 ### tl;dv
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tl;dv.webp?twic=v1/resize=240" alt="tl;dv">
@@ -3148,7 +2964,6 @@ Fathom записывает, расшифровывает, выделяет и �
 
 
 
----
 
 ### Sembly AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sembly-ai.webp?twic=v1/resize=240" alt="Sembly AI">
@@ -3164,12 +2979,11 @@ Sembly записывает записи, делает заметки о вст�
 
 
 
----
 
 
 [See All 👨‍💻 Помощник по встречам Applications on AI Collection](https://www.thataicollection.com/ru/categories/meeting-assistant)
 
-___
+---
 
 ## Генерация музыки и аудио
 
@@ -3188,7 +3002,6 @@ ___
 
 <br />
 
----
 
 ### LALAL.AI Voice Cleaner
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lalal.ai-voice-cleaner.webp?twic=v1/resize=240" alt="LALAL.AI Voice Cleaner">
@@ -3203,7 +3016,6 @@ ___
 
 <br />
 
----
 
 ### Adobe Podcast
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-podcast.webp?twic=v1/resize=240" alt="Adobe Podcast">
@@ -3218,7 +3030,6 @@ ___
 
 <br />
 
----
 
 ### Adobe Mic Check
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-mic-check.webp?twic=v1/resize=240" alt="Adobe Mic Check">
@@ -3234,7 +3045,6 @@ ___
 
 
 
----
 
 ### Krisp
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-krisp.webp?twic=v1/resize=240" alt="Krisp">
@@ -3249,7 +3059,6 @@ ___
 
 <br />
 
----
 
 ### Aiva
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aiva.webp?twic=v1/resize=240" alt="Aiva">
@@ -3265,7 +3074,6 @@ ___
 
 
 
----
 
 ### Boomy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-boomy.webp?twic=v1/resize=240" alt="Boomy">
@@ -3283,7 +3091,6 @@ ___
 
 
 
----
 
 ### Clip audio
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-clip-audio.webp?twic=v1/resize=240" alt="Clip audio">
@@ -3298,7 +3105,6 @@ ___
 
 <br />
 
----
 
 ### Splash
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-splash.webp?twic=v1/resize=240" alt="Splash">
@@ -3313,7 +3119,6 @@ ___
 
 <br />
 
----
 
 ### Dadabots
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dadabots--.webp?twic=v1/resize=240" alt="Dadabots">
@@ -3329,12 +3134,11 @@ Dadabots - Мы создаем нейронные сети с необработ
 
 
 
----
 
 
 [See All 🎼 Генерация музыки и аудио Applications on AI Collection](https://www.thataicollection.com/ru/categories/music-and-audio-generation)
 
-___
+---
 
 ## Организация и автоматизация
 
@@ -3353,7 +3157,6 @@ Hexowatch — ваш помощник с искусственным интелл
 
 
 
----
 
 ### mem
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-mem.webp?twic=v1/resize=240" alt="mem">
@@ -3368,7 +3171,6 @@ Mem — это первое в мире рабочее пространство 
 
 
 
----
 
 ### bardeen
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-bardeen.webp?twic=v1/resize=240" alt="bardeen">
@@ -3383,7 +3185,6 @@ Mem — это первое в мире рабочее пространство 
 
 
 
----
 
 ### AutoPredict
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-autopredict.webp?twic=v1/resize=240" alt="AutoPredict">
@@ -3398,7 +3199,6 @@ AutoPredict — первое приложение, использующее ис
 
 
 
----
 
 ### Looti
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-looti.webp?twic=v1/resize=240" alt="Looti">
@@ -3414,7 +3214,6 @@ AutoPredict — первое приложение, использующее ис
 
 
 
----
 
 ### Hubble
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hubble.webp?twic=v1/resize=240" alt="Hubble">
@@ -3429,7 +3228,6 @@ AutoPredict — первое приложение, использующее ис
 
 
 
----
 
 ### Takomo
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-takomo.webp?twic=v1/resize=240" alt="Takomo">
@@ -3451,7 +3249,6 @@ AutoPredict — первое приложение, использующее ис
 
 
 
----
 
 ### Kive
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-kive.webp?twic=v1/resize=240" alt="Kive">
@@ -3466,7 +3263,6 @@ AutoPredict — первое приложение, использующее ис
 
 <br />
 
----
 
 ### H2O AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-h2o-ai.webp?twic=v1/resize=240" alt="H2O AI">
@@ -3482,7 +3278,6 @@ H2ogPT, генеративный искусственный интеллект �
 
 
 
----
 
 ### Prompt.Cafe
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prompt.cafe.webp?twic=v1/resize=240" alt="Prompt.Cafe">
@@ -3497,12 +3292,11 @@ H2ogPT, генеративный искусственный интеллект �
 
 
 
----
 
 
 [See All 🧞‍♂️ Организация и автоматизация Applications on AI Collection](https://www.thataicollection.com/ru/categories/organization-and-automation)
 
-___
+---
 
 ## Редактирование фотографий и изображений
 
@@ -3521,7 +3315,6 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 
----
 
 ### Unrealme
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-unrealme.webp?twic=v1/resize=240" alt="Unrealme">
@@ -3536,7 +3329,6 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 
----
 
 ### Stabledojo
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stabledojo.webp?twic=v1/resize=240" alt="Stabledojo">
@@ -3551,7 +3343,6 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 <br />
 
----
 
 ### Prisma
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prisma.webp?twic=v1/resize=240" alt="Prisma">
@@ -3566,7 +3357,6 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 
----
 
 ### Prisma Lensa
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prisma-lensa.webp?twic=v1/resize=240" alt="Prisma Lensa">
@@ -3581,7 +3371,6 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 
----
 
 ### Claid.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-claid.ai.webp?twic=v1/resize=240" alt="Claid.ai">
@@ -3596,7 +3385,6 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 
----
 
 ### SceneryAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sceneryai.webp?twic=v1/resize=240" alt="SceneryAI">
@@ -3611,7 +3399,6 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 <br />
 
----
 
 ### Colorize
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-colorize.webp?twic=v1/resize=240" alt="Colorize">
@@ -3626,7 +3413,6 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 
----
 
 ### Palette
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-palette.webp?twic=v1/resize=240" alt="Palette">
@@ -3641,7 +3427,6 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 
----
 
 ### Hama
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hama.webp?twic=v1/resize=240" alt="Hama">
@@ -3656,12 +3441,11 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 <br />
 
----
 
 
 [See All 📸 Редактирование фотографий и изображений Applications on AI Collection](https://www.thataicollection.com/ru/categories/photo-and-image-editing)
 
-___
+---
 
 ## Плагины и расширения
 
@@ -3680,7 +3464,6 @@ ___
 
 <br />
 
----
 
 ### Texti
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-texti.webp?twic=v1/resize=240" alt="Texti">
@@ -3695,7 +3478,6 @@ Texti будет сотрудничать с вами, чтобы повысит
 
 <br />
 
----
 
 ### Autoname
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-autoname.webp?twic=v1/resize=240" alt="Autoname">
@@ -3710,7 +3492,6 @@ Texti будет сотрудничать с вами, чтобы повысит
 
 <br />
 
----
 
 ### SplashAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-splashai.webp?twic=v1/resize=240" alt="SplashAI">
@@ -3725,7 +3506,6 @@ SplashAI — это как помощник: он помогает быстро 
 
 <br />
 
----
 
 ### Merlin
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-merlin.webp?twic=v1/resize=240" alt="Merlin">
@@ -3740,7 +3520,6 @@ SplashAI — это как помощник: он помогает быстро 
 
 <br />
 
----
 
 ### Voilà
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-voilà.webp?twic=v1/resize=240" alt="Voilà">
@@ -3755,7 +3534,6 @@ SplashAI — это как помощник: он помогает быстро 
 
 
 
----
 
 ### HARPA AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-harpa-ai.webp?twic=v1/resize=240" alt="HARPA AI">
@@ -3770,7 +3548,6 @@ SplashAI — это как помощник: он помогает быстро 
 
 
 
----
 
 ### Gist AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gist-ai.webp?twic=v1/resize=240" alt="Gist AI">
@@ -3789,12 +3566,11 @@ Gist AI — это бесплатный генератор сводок, кот�
 
 
 
----
 
 
 [See All 🔌 Плагины и расширения Applications on AI Collection](https://www.thataicollection.com/ru/categories/plugins-and-extensions)
 
-___
+---
 
 ## Продуктивность и личностный рост
 
@@ -3813,7 +3589,6 @@ ___
 
 
 
----
 
 ### Dewey
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dewey.webp?twic=v1/resize=240" alt="Dewey">
@@ -3828,7 +3603,6 @@ ___
 
 
 
----
 
 ### Ask Poppy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ask-poppy.webp?twic=v1/resize=240" alt="Ask Poppy">
@@ -3846,7 +3620,6 @@ ___
 
 
 
----
 
 ### Cogram
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cogram.webp?twic=v1/resize=240" alt="Cogram">
@@ -3861,7 +3634,6 @@ Cogram использует искусственный интеллект, чт�
 
 
 
----
 
 ### Ultimate Skill Extractor by Further
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ultimate-skill-extractor-by-further.webp?twic=v1/resize=240" alt="Ultimate Skill Extractor by Further">
@@ -3876,7 +3648,6 @@ Cogram использует искусственный интеллект, чт�
 
 
 
----
 
 ### ELSA SPEECH ANALYZER
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elsa-speech-analyzer.webp?twic=v1/resize=240" alt="ELSA SPEECH ANALYZER">
@@ -3891,7 +3662,6 @@ Speech Analyzer — это тренер по беглости разговорн
 
 
 
----
 
 ### DetangleAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-detangleai.webp?twic=v1/resize=240" alt="DetangleAI">
@@ -3907,7 +3677,6 @@ Speech Analyzer — это тренер по беглости разговорн
 
 
 
----
 
 ### Chivvy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chivvy.webp?twic=v1/resize=240" alt="Chivvy">
@@ -3922,7 +3691,6 @@ Chivvy использует отрицательное подкрепление,
 
 
 
----
 
 ### Pth.AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-pth.ai.webp?twic=v1/resize=240" alt="Pth.AI">
@@ -3937,7 +3705,6 @@ Pth.AI — это инструмент на основе ИИ, который н
 
 
 
----
 
 ### Sidekick
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sidekick.webp?twic=v1/resize=240" alt="Sidekick">
@@ -3952,12 +3719,11 @@ Pth.AI — это инструмент на основе ИИ, который н
 
 
 
----
 
 
 [See All 🚀 Продуктивность и личностный рост Applications on AI Collection](https://www.thataicollection.com/ru/categories/productivity-and-personal-growth)
 
-___
+---
 
 ## Научный сотрудник
 
@@ -3976,7 +3742,6 @@ Elicit использует машинное обучение, чтобы пом
 
 
 
----
 
 ### Scispace
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-scispace.webp?twic=v1/resize=240" alt="Scispace">
@@ -3991,7 +3756,6 @@ Elicit использует машинное обучение, чтобы пом
 
 
 
----
 
 ### RTutor
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rtutor.webp?twic=v1/resize=240" alt="RTutor">
@@ -4006,7 +3770,6 @@ RTutor использует мощную модель большого язык�
 
 
 
----
 
 ### Explainpaper
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-explainpaper.webp?twic=v1/resize=240" alt="Explainpaper">
@@ -4021,7 +3784,6 @@ RTutor использует мощную модель большого язык�
 
 <br />
 
----
 
 ### Vocads Survey
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-vocads-survey.webp?twic=v1/resize=240" alt="Vocads Survey">
@@ -4036,7 +3798,6 @@ RTutor использует мощную модель большого язык�
 
 <br />
 
----
 
 ### Afforai Build
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-afforai-build.webp?twic=v1/resize=240" alt="Afforai Build">
@@ -4051,7 +3812,6 @@ RTutor использует мощную модель большого язык�
 
 
 
----
 
 ### Synthical
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-synthical.webp?twic=v1/resize=240" alt="Synthical">
@@ -4066,12 +3826,11 @@ RTutor использует мощную модель большого язык�
 
 <br />
 
----
 
 
 [See All 🎓 Научный сотрудник Applications on AI Collection](https://www.thataicollection.com/ru/categories/research-assistant)
 
-___
+---
 
 ## Отзывы и рекомендации
 
@@ -4090,7 +3849,6 @@ ___
 
 
 
----
 
 ### AI Review Reply Assistant
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-review-reply-assistant.webp?twic=v1/resize=240" alt="AI Review Reply Assistant">
@@ -4105,7 +3863,6 @@ ___
 
 
 
----
 
 ### Geniusreview
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-geniusreview.webp?twic=v1/resize=240" alt="Geniusreview">
@@ -4120,7 +3877,6 @@ ___
 
 <br />
 
----
 
 ### Reviewz
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-reviewz.webp?twic=v1/resize=240" alt="Reviewz">
@@ -4135,7 +3891,6 @@ Reviewz.ai — это новинка, предназначенная для де
 
 
 
----
 
 ### Artreviewgenerator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-artreviewgenerator.webp?twic=v1/resize=240" alt="Artreviewgenerator">
@@ -4150,12 +3905,11 @@ Reviewz.ai — это новинка, предназначенная для де
 
 
 
----
 
 
 [See All 🗳 Отзывы и рекомендации Applications on AI Collection](https://www.thataicollection.com/ru/categories/reviews-and-recommendations)
 
-___
+---
 
 ## Продажи и маркетинг
 
@@ -4174,7 +3928,6 @@ ___
 
 <br />
 
----
 
 ### Clickable
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-clickable.webp?twic=v1/resize=240" alt="Clickable">
@@ -4189,7 +3942,6 @@ ___
 
 <br />
 
----
 
 ### Cuetap.com
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cuetap.com.webp?twic=v1/resize=240" alt="Cuetap.com">
@@ -4204,7 +3956,6 @@ ___
 
 <br />
 
----
 
 ### Userevaluation
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-userevaluation.webp?twic=v1/resize=240" alt="Userevaluation">
@@ -4219,7 +3970,6 @@ ___
 
 
 
----
 
 ### Genius Sheets
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-genius-sheets.webp?twic=v1/resize=240" alt="Genius Sheets">
@@ -4239,7 +3989,6 @@ Enterprise Security — создан в соответствии с корпор
 
 
 
----
 
 ### BaruaAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-baruaai.webp?twic=v1/resize=240" alt="BaruaAI">
@@ -4254,7 +4003,6 @@ Enterprise Security — создан в соответствии с корпор
 
 
 
----
 
 ### Hoppy Copy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hoppy-copy.webp?twic=v1/resize=240" alt="Hoppy Copy">
@@ -4269,7 +4017,6 @@ Enterprise Security — создан в соответствии с корпор
 
 
 
----
 
 ### MarketingBlocks AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-marketingblocks-ai.webp?twic=v1/resize=240" alt="MarketingBlocks AI">
@@ -4284,7 +4031,6 @@ Enterprise Security — создан в соответствии с корпор
 
 
 
----
 
 ### Briefly
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-briefly.webp?twic=v1/resize=240" alt="Briefly">
@@ -4299,7 +4045,6 @@ Enterprise Security — создан в соответствии с корпор
 
 
 
----
 
 ### Traq.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-traq.ai.webp?twic=v1/resize=240" alt="Traq.ai">
@@ -4314,12 +4059,11 @@ Traq.ai анализирует каждый звонок, который дел�
 
 
 
----
 
 
 [See All 💰 Продажи и маркетинг Applications on AI Collection](https://www.thataicollection.com/ru/categories/sales-and-marketing)
 
-___
+---
 
 ## Поисковые системы
 
@@ -4338,7 +4082,6 @@ Lexii.ai — помощник по поиску с искусственным и
 
 <br />
 
----
 
 ### Smarty Names
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-smarty-names.webp?twic=v1/resize=240" alt="Smarty Names">
@@ -4353,7 +4096,6 @@ Lexii.ai — помощник по поиску с искусственным и
 
 
 
----
 
 ### OpenArt Photo Booth
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-openart-photo-booth.webp?twic=v1/resize=240" alt="OpenArt Photo Booth">
@@ -4368,7 +4110,6 @@ Lexii.ai — помощник по поиску с искусственным и
 
 <br />
 
----
 
 ### You
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-you.webp?twic=v1/resize=240" alt="You">
@@ -4387,7 +4128,6 @@ Lexii.ai — помощник по поиску с искусственным и
 
 
 
----
 
 ### Perplexity AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-perplexity-ai.webp?twic=v1/resize=240" alt="Perplexity AI">
@@ -4402,7 +4142,6 @@ Ask использует большие языковые модели и пои�
 
 <br />
 
----
 
 ### Anypod
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-anypod.webp?twic=v1/resize=240" alt="Anypod">
@@ -4417,7 +4156,6 @@ Ask использует большие языковые модели и пои�
 
 <br />
 
----
 
 ### namefinder.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-namefinder.ai.webp?twic=v1/resize=240" alt="namefinder.ai">
@@ -4432,7 +4170,6 @@ Ask использует большие языковые модели и пои�
 
 
 
----
 
 ### Broker One AI Engine
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-broker-one-ai-engine.webp?twic=v1/resize=240" alt="Broker One AI Engine">
@@ -4447,7 +4184,6 @@ Broker One AI Engine — это современный инструмент на
 
 
 
----
 
 ### SEOify
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-seoify.webp?twic=v1/resize=240" alt="SEOify">
@@ -4462,12 +4198,11 @@ Broker One AI Engine — это современный инструмент на
 
 
 
----
 
 
 [See All 🔍 Поисковые системы Applications on AI Collection](https://www.thataicollection.com/ru/categories/search-engines)
 
-___
+---
 
 ## Слайды и презентации
 
@@ -4486,7 +4221,6 @@ ___
 
 <br />
 
----
 
 ### SlidesAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-slidesai.webp?twic=v1/resize=240" alt="SlidesAI">
@@ -4501,7 +4235,6 @@ ___
 
 
 
----
 
 ### Pitchgrade
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-pitchgrade.webp?twic=v1/resize=240" alt="Pitchgrade">
@@ -4516,7 +4249,6 @@ ___
 
 
 
----
 
 ### My Pitch Deck
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-my-pitch-deck.webp?twic=v1/resize=240" alt="My Pitch Deck">
@@ -4533,7 +4265,6 @@ ___
 
 
 
----
 
 ### Tome
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tome.webp?twic=v1/resize=240" alt="Tome">
@@ -4548,7 +4279,6 @@ ___
 
 <br />
 
----
 
 ### Glimmer AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-glimmer-ai.webp?twic=v1/resize=240" alt="Glimmer AI">
@@ -4563,7 +4293,6 @@ Glimmer AI использует GPT-3 и DALL-E 2 для простого и б�
 
 
 
----
 
 ### STORYD
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-storyd.webp?twic=v1/resize=240" alt="STORYD">
@@ -4578,7 +4307,6 @@ Glimmer AI использует GPT-3 и DALL-E 2 для простого и б�
 
 <br />
 
----
 
 ### Plus AI for Google Slides
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-plus-ai-for-google-slides.webp?twic=v1/resize=240" alt="Plus AI for Google Slides">
@@ -4593,12 +4321,11 @@ Glimmer AI использует GPT-3 и DALL-E 2 для простого и б�
 
 
 
----
 
 
 [See All 📊 Слайды и презентации Applications on AI Collection](https://www.thataicollection.com/ru/categories/slides-and-presentations)
 
-___
+---
 
 ## Знакомства и социальные сети
 
@@ -4617,7 +4344,6 @@ ROAST помогает людям в 10 раз увеличить количе�
 
 
 
----
 
 ### AI movie Club
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-movie-club.webp?twic=v1/resize=240" alt="AI movie Club">
@@ -4632,7 +4358,6 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 <br />
 
----
 
 ### HotConvo
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hotconvo.webp?twic=v1/resize=240" alt="HotConvo">
@@ -4647,7 +4372,6 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 
 
----
 
 ### AI Social Bio
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-social-bio.webp?twic=v1/resize=240" alt="AI Social Bio">
@@ -4665,7 +4389,6 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 
 
----
 
 ### TweetAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweetai.webp?twic=v1/resize=240" alt="TweetAI">
@@ -4680,7 +4403,6 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 <br />
 
----
 
 ### Tweethunter
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweethunter.webp?twic=v1/resize=240" alt="Tweethunter">
@@ -4695,7 +4417,6 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 <br />
 
----
 
 ### TweetEmote
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweetemote.webp?twic=v1/resize=240" alt="TweetEmote">
@@ -4710,7 +4431,6 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 <br />
 
----
 
 ### Postwise
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-postwise.webp?twic=v1/resize=240" alt="Postwise">
@@ -4725,7 +4445,6 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 <br />
 
----
 
 ### Graham AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-graham-ai.webp?twic=v1/resize=240" alt="Graham AI">
@@ -4740,7 +4459,6 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 <br />
 
----
 
 ### Tweetspear
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweetspear.webp?twic=v1/resize=240" alt="Tweetspear">
@@ -4755,12 +4473,11 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 <br />
 
----
 
 
 [See All 💞 Знакомства и социальные сети Applications on AI Collection](https://www.thataicollection.com/ru/categories/social-networks-and-dating)
 
-___
+---
 
 ## Речь
 
@@ -4779,7 +4496,6 @@ ___
 
 <br />
 
----
 
 ### Lingostar
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lingostar.webp?twic=v1/resize=240" alt="Lingostar">
@@ -4794,7 +4510,6 @@ Lingostar — это искусственный интеллект, с кото�
 
 
 
----
 
 ### Poly AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-poly-ai.webp?twic=v1/resize=240" alt="Poly AI">
@@ -4809,7 +4524,6 @@ Lingostar — это искусственный интеллект, с кото�
 
 
 
----
 
 ### SmallTalk2.me
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-smalltalk2.me.webp?twic=v1/resize=240" alt="SmallTalk2.me">
@@ -4824,7 +4538,6 @@ Lingostar — это искусственный интеллект, с кото�
 
 
 
----
 
 ### SpeechGen.io
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-speechgen.io.webp?twic=v1/resize=240" alt="SpeechGen.io">
@@ -4839,12 +4552,11 @@ Lingostar — это искусственный интеллект, с кото�
 
 
 
----
 
 
 [See All 📢 Речь Applications on AI Collection](https://www.thataicollection.com/ru/categories/speech)
 
-___
+---
 
 ## Текст
 
@@ -4863,7 +4575,6 @@ ___
 
 <br />
 
----
 
 ### Scholarcy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-scholarcy.webp?twic=v1/resize=240" alt="Scholarcy">
@@ -4878,7 +4589,6 @@ Scholarcy™ — это онлайн-инструмент для обобщен�
 
 
 
----
 
 ### Jot
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jot.webp?twic=v1/resize=240" alt="Jot">
@@ -4893,7 +4603,6 @@ Jot автоматически генерирует для вас бесконе
 
 
 
----
 
 ### Bookclub
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-bookclub.webp?twic=v1/resize=240" alt="Bookclub">
@@ -4908,7 +4617,6 @@ Jot автоматически генерирует для вас бесконе
 
 
 
----
 
 ### Namewizard
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-namewizard.webp?twic=v1/resize=240" alt="Namewizard">
@@ -4923,7 +4631,6 @@ namewizard — это генератор, который использует и
 
 <br />
 
----
 
 ### Namelix
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-namelix.webp?twic=v1/resize=240" alt="Namelix">
@@ -4938,7 +4645,6 @@ namewizard — это генератор, который использует и
 
 
 
----
 
 ### Langame card game
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-langame-card-game.webp?twic=v1/resize=240" alt="Langame card game">
@@ -4953,7 +4659,6 @@ namewizard — это генератор, который использует и
 
 <br />
 
----
 
 ### Gandhiji
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gandhiji.webp?twic=v1/resize=240" alt="Gandhiji">
@@ -4968,7 +4673,6 @@ namewizard — это генератор, который использует и
 
 <br />
 
----
 
 ### Goatchat
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-goatchat.webp?twic=v1/resize=240" alt="Goatchat">
@@ -4983,7 +4687,6 @@ namewizard — это генератор, который использует и
 
 <br />
 
----
 
 ### GPT Hotline
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gpt-hotline.webp?twic=v1/resize=240" alt="GPT Hotline">
@@ -4998,12 +4701,11 @@ namewizard — это генератор, который использует и
 
 <br />
 
----
 
 
 [See All 📝 Текст Applications on AI Collection](https://www.thataicollection.com/ru/categories/text)
 
-___
+---
 
 ## Текст в речь
 
@@ -5022,7 +4724,6 @@ ___
 
 
 
----
 
 ### Listnr 2.0
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-listnr-2.0.webp?twic=v1/resize=240" alt="Listnr 2.0">
@@ -5037,7 +4738,6 @@ ___
 
 
 
----
 
 ### VERBATIK
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-verbatik.webp?twic=v1/resize=240" alt="VERBATIK">
@@ -5052,7 +4752,6 @@ ___
 
 
 
----
 
 ### Article.Audio
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-article.audio.webp?twic=v1/resize=240" alt="Article.Audio">
@@ -5067,7 +4766,6 @@ ___
 
 <br />
 
----
 
 ### NaturalReader
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-naturalreader.webp?twic=v1/resize=240" alt="NaturalReader">
@@ -5082,7 +4780,6 @@ ___
 
 <br />
 
----
 
 ### Wellsaid
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wellsaid.webp?twic=v1/resize=240" alt="Wellsaid">
@@ -5097,7 +4794,6 @@ ___
 
 
 
----
 
 ### Createaivoiceovers
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-createaivoiceovers.webp?twic=v1/resize=240" alt="Createaivoiceovers">
@@ -5112,7 +4808,6 @@ ___
 
 
 
----
 
 ### Voicera
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-voicera.webp?twic=v1/resize=240" alt="Voicera">
@@ -5127,7 +4822,6 @@ ___
 
 <br />
 
----
 
 ### FakeYou
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fakeyou.webp?twic=v1/resize=240" alt="FakeYou">
@@ -5142,7 +4836,6 @@ ___
 
 <br />
 
----
 
 ### Voicemaker
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-voicemaker.webp?twic=v1/resize=240" alt="Voicemaker">
@@ -5157,12 +4850,11 @@ ___
 
 
 
----
 
 
 [See All 📝🔉 Текст в речь Applications on AI Collection](https://www.thataicollection.com/ru/categories/text-to-speech)
 
-___
+---
 
 ## Перевод и стенограмма
 
@@ -5181,7 +4873,6 @@ ___
 
 
 
----
 
 ### Rephrasely
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rephrasely.webp?twic=v1/resize=240" alt="Rephrasely">
@@ -5196,7 +4887,6 @@ Rephrasely использует современный искусственны�
 
 
 
----
 
 ### Rythmex
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rythmex.webp?twic=v1/resize=240" alt="Rythmex">
@@ -5211,7 +4901,6 @@ Rephrasely использует современный искусственны�
 
 <br />
 
----
 
 ### RIVERSIDE
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-riverside.webp?twic=v1/resize=240" alt="RIVERSIDE">
@@ -5232,7 +4921,6 @@ Rephrasely использует современный искусственны�
 
 
 
----
 
 ### Deciphr AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-deciphr-ai.webp?twic=v1/resize=240" alt="Deciphr AI">
@@ -5247,7 +4935,6 @@ Rephrasely использует современный искусственны�
 
 
 
----
 
 ### Graphic AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-graphic-ai.webp?twic=v1/resize=240" alt="Graphic AI">
@@ -5262,7 +4949,6 @@ Stork помогает командам улучшить коммуникаци�
 
 
 
----
 
 ### Snipd Podcast Summaries
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-snipd-podcast-summaries.webp?twic=v1/resize=240" alt="Snipd Podcast Summaries">
@@ -5277,7 +4963,6 @@ Stork помогает командам улучшить коммуникаци�
 
 <br />
 
----
 
 ### Sumly
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sumly.webp?twic=v1/resize=240" alt="Sumly">
@@ -5292,7 +4977,6 @@ Stork помогает командам улучшить коммуникаци�
 
 
 
----
 
 ### WhisperAPI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-whisperapi.webp?twic=v1/resize=240" alt="WhisperAPI">
@@ -5313,7 +4997,6 @@ Stork помогает командам улучшить коммуникаци�
 
 
 
----
 
 ### Voicetapp
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-voicetapp.webp?twic=v1/resize=240" alt="Voicetapp">
@@ -5328,12 +5011,11 @@ Stork помогает командам улучшить коммуникаци�
 
 <br />
 
----
 
 
 [See All 🇺🇳 Перевод и стенограмма Applications on AI Collection](https://www.thataicollection.com/ru/categories/translation-and-transcript)
 
-___
+---
 
 ## Планировщик отпусков и поездок
 
@@ -5352,7 +5034,6 @@ ___
 
 
 
----
 
 ### Roamr
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-roamr.webp?twic=v1/resize=240" alt="Roamr">
@@ -5367,7 +5048,6 @@ ___
 
 <br />
 
----
 
 ### Orkoi
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-orkoi.webp?twic=v1/resize=240" alt="Orkoi">
@@ -5382,7 +5062,6 @@ ___
 
 
 
----
 
 ### Travel Blog Name Ideas Generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-travel-blog-name-ideas-generator.webp?twic=v1/resize=240" alt="Travel Blog Name Ideas Generator">
@@ -5397,12 +5076,11 @@ ___
 
 
 
----
 
 
 [See All 🏖 Планировщик отпусков и поездок Applications on AI Collection](https://www.thataicollection.com/ru/categories/vacation-and-trip-planner)
 
-___
+---
 
 ## видео
 
@@ -5421,7 +5099,6 @@ Colossyan Creator делает создание видео простым и л�
 
 
 
----
 
 ### HeyGen
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-heygen.webp?twic=v1/resize=240" alt="HeyGen">
@@ -5439,7 +5116,6 @@ HeyGen — это видеоплатформа, которая помогает 
 
 
 
----
 
 ### HitPaw Online Video Enhancer
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hitpaw-online-video-enhancer.webp?twic=v1/resize=240" alt="HitPaw Online Video Enhancer">
@@ -5454,7 +5130,6 @@ HitPaw Online Video Enhancer - лучшее решение для видео с 
 
 <br />
 
----
 
 ### Eightify
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-eightify.webp?twic=v1/resize=240" alt="Eightify">
@@ -5469,7 +5144,6 @@ HitPaw Online Video Enhancer - лучшее решение для видео с 
 
 <br />
 
----
 
 ### AI Host
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-host.webp?twic=v1/resize=240" alt="AI Host">
@@ -5484,7 +5158,6 @@ LiveReacting помогает вам привлечь больше подпис�
 
 
 
----
 
 ### Fliki
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fliki.webp?twic=v1/resize=240" alt="Fliki">
@@ -5499,7 +5172,6 @@ LiveReacting помогает вам привлечь больше подпис�
 
 <br />
 
----
 
 ### Pictory
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-pictory.webp?twic=v1/resize=240" alt="Pictory">
@@ -5514,7 +5186,6 @@ LiveReacting помогает вам привлечь больше подпис�
 
 <br />
 
----
 
 ### Wzrd.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wzrd.ai.webp?twic=v1/resize=240" alt="Wzrd.ai">
@@ -5529,7 +5200,6 @@ WZRD дополняет ваш звук захватывающим видео н
 
 <br />
 
----
 
 ### HitPaw Video Enhancer
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hitpaw-video-enhancer.webp?twic=v1/resize=240" alt="HitPaw Video Enhancer">
@@ -5545,7 +5215,6 @@ HitPaw Video Enhancer помогает легко масштабировать �
 
 
 
----
 
 ### Atlas Navi
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-atlas-navi.webp?twic=v1/resize=240" alt="Atlas Navi">
@@ -5560,12 +5229,11 @@ HitPaw Video Enhancer помогает легко масштабировать �
 
 
 
----
 
 
 [See All 🎬 видео Applications on AI Collection](https://www.thataicollection.com/ru/categories/video)
 
-___
+---
 
 ## Веб-дизайн
 
@@ -5584,7 +5252,6 @@ ___
 
 <br />
 
----
 
 ### Designs AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-designs-ai.webp?twic=v1/resize=240" alt="Designs AI">
@@ -5599,7 +5266,6 @@ ___
 
 
 
----
 
 ### welovenocode
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-project-description-generator.webp?twic=v1/resize=240" alt="welovenocode">
@@ -5614,7 +5280,6 @@ ___
 
 <br />
 
----
 
 ### Uizard
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-uizard.webp?twic=v1/resize=240" alt="Uizard">
@@ -5629,7 +5294,6 @@ ___
 
 
 
----
 
 ### Durable
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-durable.webp?twic=v1/resize=240" alt="Durable">
@@ -5644,7 +5308,6 @@ ___
 
 
 
----
 
 ### Piggy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-piggy.webp?twic=v1/resize=240" alt="Piggy">
@@ -5659,7 +5322,6 @@ ___
 
 <br />
 
----
 
 ### Genius by Diagram
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-genius-by-diagram.webp?twic=v1/resize=240" alt="Genius by Diagram">
@@ -5674,7 +5336,6 @@ ___
 
 <br />
 
----
 
 ### Stunning.so
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stunning.so.webp?twic=v1/resize=240" alt="Stunning.so">
@@ -5689,7 +5350,6 @@ ___
 
 <br />
 
----
 
 ### B12 AI Website Builder
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-b12-ai-website-builder.webp?twic=v1/resize=240" alt="B12 AI Website Builder">
@@ -5704,12 +5364,11 @@ ___
 
 
 
----
 
 
 [See All 🕸 Веб-дизайн Applications on AI Collection](https://www.thataicollection.com/ru/categories/web-design)
 
-___
+---
 
 ## Помощник по письму
 
@@ -5729,7 +5388,6 @@ IX.AI: ваш самый мощный и универсальный второй
 
 
 
----
 
 ### Rytr
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rytr.webp?twic=v1/resize=240" alt="Rytr">
@@ -5746,7 +5404,6 @@ Rytr — это помощник по написанию текстов с ис�
 
 
 
----
 
 ### Elephas
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elephas.webp?twic=v1/resize=240" alt="Elephas">
@@ -5761,7 +5418,6 @@ Rytr — это помощник по написанию текстов с ис�
 
 <br />
 
----
 
 ### Quillbot Paraphraser
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-quillbot-paraphraser.webp?twic=v1/resize=240" alt="Quillbot Paraphraser">
@@ -5776,7 +5432,6 @@ Rytr — это помощник по написанию текстов с ис�
 
 
 
----
 
 ### Typly
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-typly.webp?twic=v1/resize=240" alt="Typly">
@@ -5791,7 +5446,6 @@ Typly — это новейшая клавиатура с искусственн
 
 <br />
 
----
 
 ### AI Lyrics Generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-lyrics-generator.webp?twic=v1/resize=240" alt="AI Lyrics Generator">
@@ -5806,7 +5460,6 @@ Typly — это новейшая клавиатура с искусственн
 
 <br />
 
----
 
 ### Paraphraser AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paraphraser-ai.webp?twic=v1/resize=240" alt="Paraphraser AI">
@@ -5821,7 +5474,6 @@ Typly — это новейшая клавиатура с искусственн
 
 <br />
 
----
 
 ### Wordtune
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wordtune.webp?twic=v1/resize=240" alt="Wordtune">
@@ -5836,7 +5488,6 @@ Typly — это новейшая клавиатура с искусственн
 
 <br />
 
----
 
 ### Ai Paragraph Generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-paragraph-generator.webp?twic=v1/resize=240" alt="Ai Paragraph Generator">
@@ -5851,7 +5502,6 @@ AI Pargraph Generator — это передовой инструмент для 
 
 
 
----
 
 ### Paraphraser
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paraphraser.webp?twic=v1/resize=240" alt="Paraphraser">
@@ -5866,10 +5516,9 @@ AI Pargraph Generator — это передовой инструмент для 
 
 <br />
 
----
 
 
 [See All ✍️ Помощник по письму Applications on AI Collection](https://www.thataicollection.com/ru/categories/writing-assistant)
 
-___
+---
 

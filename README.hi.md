@@ -158,13 +158,12 @@
 
 कैश रनवे और विकास अंतर्दृष्टि अनलॉक करें - कोई स्प्रेडशीट नहीं! 7 मिनट ऑनबोर्डिंग। QuickBooks और स्ट्राइप तैयार। बोर्डों और निवेशकों द्वारा भरोसा किया
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/flowcog)
+[More Information and Pricing](https://www.thataicollection.com/en/application/flowcog)
 
 <br />
 
 
 
----
 
 ### StockGPT
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stockgpt.webp?twic=v1/resize=240" alt="StockGPT">
@@ -173,13 +172,12 @@
 
 स्टॉकजीपीटी एक एआई-पावर्ड सर्च इंजन है जिसे 2011 की दूसरी तिमाही से लेकर टेस्ला की सभी तिमाही आय कॉल प्रतिलेखों पर प्रशिक्षित किया गया था।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/stockgpt)
+[More Information and Pricing](https://www.thataicollection.com/en/application/stockgpt)
 
 <br />
 
 <br />
 
----
 
 ### Jinnee
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jinnee.webp?twic=v1/resize=240" alt="Jinnee">
@@ -188,13 +186,12 @@
 
 जिनी समस्याएँ हल कर सकते हैं: सीमित क्षमता - सहायता विभाग हर अनुरोध को संसाधित नहीं कर सकता है, लंबी प्रतीक्षा समय - विभिन्न समय क्षेत्रों में स्थित ग्राहक, दोहराए जाने वाले प्रश्न - समय बचाने के लिए स्वचालित किए जा सकते हैं, समय बर्बाद करने वाले - विषाक्त कार्य वातावरण बनाते हैं
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/jinnee)
+[More Information and Pricing](https://www.thataicollection.com/en/application/jinnee)
 
 <br />
 
 
 
----
 
 ### Stocknews AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stocknews-ai.webp?twic=v1/resize=240" alt="Stocknews AI">
@@ -204,18 +201,17 @@ AI द्वारा चुना गया - [Visit](https://www.thataicollect
 
 Stocknews AI हर दिन के सबसे अच्छे नए स्टॉकन्यूज़ का संग्रह है। स्टॉक की सबसे ताज़ा ख़बरों के बारे में जानें, जिनके बारे में हर कोई बात कर रहा है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/stocknews-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/stocknews-ai)
 
 <br />
 
 <br />
+
+
+
+[See All 📈 लेखा और वित्त Applications on AI Collection](https://www.thataicollection.com/en/categories/accounting-and-finance)
 
 ---
-
-
-[See All 📈 लेखा और वित्त Applications on AI Collection](https://www.thataicollection.com/hi/categories/accounting-and-finance)
-
-___
 
 ## एनिमेशन और 3डी मॉडलिंग
 
@@ -228,13 +224,12 @@ ___
 
 ब्लिमी एक AI इमेज जनरेटर है जहाँ तुम एक मिनट में आइडिया से वास्तविकता की ओर जा सकते हो। जिसका कंपोज़िशन, रंग और स्टाइल पर पूरा नियंत्रण है। AI के ज़रिए इमेज बनाते समय कंपोज़िशन और रंगों पर पूरा नियंत्रण पाने के लिए वर्चुअल 3D सीन सेट करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/blimey)
+[More Information and Pricing](https://www.thataicollection.com/en/application/blimey)
 
 <br />
 
 
 
----
 
 ### TextureLab
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-texturelab.webp?twic=v1/resize=240" alt="TextureLab">
@@ -243,13 +238,12 @@ ___
 
 एआई की मदद से सेकेंडों में अपने गेम के लिए 3डी बनावट तैयार करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/texturelab)
+[More Information and Pricing](https://www.thataicollection.com/en/application/texturelab)
 
 <br />
 
 <br />
 
----
 
 ### Kaedim
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-kaedim.webp?twic=v1/resize=240" alt="Kaedim">
@@ -258,13 +252,12 @@ ___
 
 मॉडलिंग टूल के लिए घंटे बर्बाद करना बंद करें। एक छवि से ज्यादा कुछ नहीं के साथ आश्चर्यजनक 3डी कला उत्पन्न करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/kaedim)
+[More Information and Pricing](https://www.thataicollection.com/en/application/kaedim)
 
 <br />
 
 <br />
 
----
 
 ### plask
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-plask.webp?twic=v1/resize=240" alt="plask">
@@ -273,13 +266,12 @@ ___
 
 बिना महंगे बॉडीसूट या मोशन वर्क के आसानी से वीडियो से मोशन निकालें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/plask)
+[More Information and Pricing](https://www.thataicollection.com/en/application/plask)
 
 <br />
 
 <br />
 
----
 
 ### lumalabs
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lumalabs.webp?twic=v1/resize=240" alt="lumalabs">
@@ -288,18 +280,17 @@ ___
 
 पाठ के साथ प्रोटोटाइप और 3D बनाने का एक प्रारंभिक प्रयोग पीढ़ी तक पहुंच धीरे-धीरे प्रतीक्षा सूची में सभी के लिए विस्तारित हो रही है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/lumalabs)
+[More Information and Pricing](https://www.thataicollection.com/en/application/lumalabs)
 
 <br />
 
 <br />
+
+
+
+[See All 🎲 एनिमेशन और 3डी मॉडलिंग Applications on AI Collection](https://www.thataicollection.com/en/categories/animation-and-3d-modeling)
 
 ---
-
-
-[See All 🎲 एनिमेशन और 3डी मॉडलिंग Applications on AI Collection](https://www.thataicollection.com/hi/categories/animation-and-3d-modeling)
-
-___
 
 ## वास्तुकला और आंतरिक डिजाइन
 
@@ -312,13 +303,12 @@ ___
 
 हमारा जनरेटिव डिज़ाइन सॉफ़्टवेयर वास्तुकारों, बिल्डरों और डेवलपर्स को तुरंत हजारों वास्तुशिल्प योजनाओं को तुरंत उत्पन्न करने में सक्षम बनाता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/makeit.ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/makeit.ai)
 
 <br />
 
 <br />
 
----
 
 ### Interior AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-interior-ai.webp?twic=v1/resize=240" alt="Interior AI">
@@ -327,13 +317,12 @@ ___
 
 विभिन्न आंतरिक शैलियों के साथ रियल एस्टेट लिस्टिंग के लिए आर्टिफिशियल इंटेलिजेंस और वस्तुतः स्टेज इंटीरियर का उपयोग करके इंटीरियर डिजाइन विचार प्राप्त करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/interior-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/interior-ai)
 
 <br />
 
 
 
----
 
 ### Image Computer
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-image-computer.webp?twic=v1/resize=240" alt="Image Computer">
@@ -342,13 +331,12 @@ ___
 
 आप जिस भी प्रकार की छवि के बारे में सोच सकते हैं, उसे उत्पन्न करने के लिए हमारी शक्तिशाली एआई तकनीक का उपयोग करें। कुछ ही सेकण्ड में।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/image-computer)
+[More Information and Pricing](https://www.thataicollection.com/en/application/image-computer)
 
 <br />
 
 <br />
 
----
 
 ### Dimensions
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dimensions.webp?twic=v1/resize=240" alt="Dimensions">
@@ -357,13 +345,12 @@ ___
 
 कल्पना करें कि आप आसानी से सुंदर आंतरिक डिज़ाइन बना सकते हैं - यही आयाम प्रदान करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/dimensions)
+[More Information and Pricing](https://www.thataicollection.com/en/application/dimensions)
 
 <br />
 
 <br />
 
----
 
 ### AI Room Planner
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-room-planner.webp?twic=v1/resize=240" alt="AI Room Planner">
@@ -372,13 +359,12 @@ ___
 
 अपने कमरे के लिए सैकड़ों इंटीरियर डिजाइन विचार प्राप्त करें - बिना किसी सीमा के निःशुल्क।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ai-room-planner)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-room-planner)
 
 <br />
 
 <br />
 
----
 
 ### Getfloorplan
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-getfloorplan.webp?twic=v1/resize=240" alt="Getfloorplan">
@@ -387,13 +373,12 @@ ___
 
 2डी, 3डी फ्लोर प्लान और वर्चुअल टूर का उपयोग करने वाले हमारे ग्राहकों द्वारा 30% तक कॉल वृद्धि की सूचना दी गई है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/getfloorplan)
+[More Information and Pricing](https://www.thataicollection.com/en/application/getfloorplan)
 
 <br />
 
 <br />
 
----
 
 ### AI TWO
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-two.webp?twic=v1/resize=240" alt="AI TWO">
@@ -402,18 +387,17 @@ ___
 
 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ai-two)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-two)
 
 <br />
 
 <br />
+
+
+
+[See All 🏯 वास्तुकला और आंतरिक डिजाइन Applications on AI Collection](https://www.thataicollection.com/en/categories/architecture-and-interior-design)
 
 ---
-
-
-[See All 🏯 वास्तुकला और आंतरिक डिजाइन Applications on AI Collection](https://www.thataicollection.com/hi/categories/architecture-and-interior-design)
-
-___
 
 ## कला और छवि जनरेटर
 
@@ -426,13 +410,12 @@ ___
 
 getimg.ai जादुई AI टूल का एक सूट है। बड़े पैमाने पर मूल छवियां बनाएं, फ़ोटो संशोधित करें, चित्रों को उनकी मूल सीमाओं से परे विस्तारित करें, या कस्टम AI मॉडल बनाएं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/getimg.ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/getimg.ai)
 
 <br />
 
 
 
----
 
 ### ICONS8
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-icons8.webp?twic=v1/resize=240" alt="ICONS8">
@@ -441,13 +424,12 @@ getimg.ai जादुई AI टूल का एक सूट है। बड�
 
 ICONS8 डिज़ाइनर को अपने विचार व्यक्त करने की अनुमति देता है, जिससे वे सही समय पर सही डिज़ाइन तत्व प्रदान करते हैं। AI विशेषताएं: फ़ेस जनरेटर, स्टॉक के चेहरे बदलें, स्मार्ट अपस्केलर, अपनी वेबसाइट को सीधे Lunacy से अपडेट करें और बहुत कुछ
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/icons8)
+[More Information and Pricing](https://www.thataicollection.com/en/application/icons8)
 
 <br />
 
 
 
----
 
 ### CustomQR AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-customqr-ai.webp?twic=v1/resize=240" alt="CustomQR AI">
@@ -456,13 +438,12 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 
 10 मिनट से कम समय में अपने ईमेल पर कलात्मक सुंदर क्यूआर कोड प्राप्त करें। उपलब्ध QR कोड श्रेणियों में से चुनें या अपना स्वयं का अनुरोध करें। अद्वितीय क्यूआर कलाओं के साथ अपने व्यवसाय को अलग बनाएं!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/customqr-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/customqr-ai)
 
 <br />
 
 
 
----
 
 ### Playground
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-playground.webp?twic=v1/resize=240" alt="Playground">
@@ -471,13 +452,12 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 
 प्लेग्राउंड एआई एक फ्री-टू-यूज ऑनलाइन एआई इमेज क्रिएटर है। कला, सोशल मीडिया पोस्ट, प्रस्तुतियाँ, पोस्टर, वीडियो, लोगो और बहुत कुछ बनाने के लिए इसका उपयोग करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/playground)
+[More Information and Pricing](https://www.thataicollection.com/en/application/playground)
 
 <br />
 
 
 
----
 
 ### Designify
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-designify.webp?twic=v1/resize=240" alt="Designify">
@@ -486,13 +466,12 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 
 असाधारण उत्पाद तस्वीरें और अधिक बनाएं: जादू शुरू करने के लिए कोई भी छवि चुनें ✨
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/designify)
+[More Information and Pricing](https://www.thataicollection.com/en/application/designify)
 
 <br />
 
 <br />
 
----
 
 ### DrawAnyone
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-drawanyone.webp?twic=v1/resize=240" alt="DrawAnyone">
@@ -501,13 +480,12 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 
 एआई-जेनरेट किए गए पोर्ट्रेट, जिस तरह से आप चाहते हैं। drawanyone.ai आपको अपने एआई पोर्ट्रेट्स को कस्टमाइज़ करने देता है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/drawanyone)
+[More Information and Pricing](https://www.thataicollection.com/en/application/drawanyone)
 
 <br />
 
 <br />
 
----
 
 ### Anime AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-anime-ai.webp?twic=v1/resize=240" alt="Anime AI">
@@ -516,13 +494,12 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 
 एआई के साथ अपनी संपूर्ण एनीमे तस्वीर बनाएं। वन पीस, नारुतो, वेबटून स्टाइल और अन्य में से चुनें!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/anime-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/anime-ai)
 
 <br />
 
 <br />
 
----
 
 ### SnapshotAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-snapshotai.webp?twic=v1/resize=240" alt="SnapshotAI">
@@ -531,13 +508,12 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 
 अपनी स्वयं की एआई-जनित छवियां बनाएं
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/snapshotai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/snapshotai)
 
 <br />
 
 <br />
 
----
 
 ### Mini Dalle 3 Online
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-mini-dalle-3-online.webp?twic=v1/resize=240" alt="Mini Dalle 3 Online">
@@ -546,13 +522,12 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 
 None
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/mini-dalle-3-online)
+[More Information and Pricing](https://www.thataicollection.com/en/application/mini-dalle-3-online)
 
 <br />
 
 <br />
 
----
 
 ### Not Me Netlify
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-not-me-netlify.webp?twic=v1/resize=240" alt="Not Me Netlify">
@@ -561,18 +536,17 @@ None
 
 लाखों शैलियाँ ब्राउज़ करें या अपना स्वयं का बनाएँ, AI ऑटोपोर्ट्रेट बनाएँ।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/not-me-netlify)
+[More Information and Pricing](https://www.thataicollection.com/en/application/not-me-netlify)
 
 <br />
 
 <br />
+
+
+
+[See All 🌄 कला और छवि जनरेटर Applications on AI Collection](https://www.thataicollection.com/en/categories/art-and-image-generator)
 
 ---
-
-
-[See All 🌄 कला और छवि जनरेटर Applications on AI Collection](https://www.thataicollection.com/hi/categories/art-and-image-generator)
-
-___
 
 ## अवतारों
 
@@ -585,13 +559,12 @@ ___
 
 हेयरस्टाइलएआई आपको वास्तविक कटिंग कराने से पहले वस्तुतः एआई के साथ नए हेयरकट आज़माने की सुविधा देता है। अपने लुक में अधिक आत्मविश्वास लाएं और फिर से अपने जैसा महसूस करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/hairstyleai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/hairstyleai)
 
 <br />
 
 
 
----
 
 ### AvatarAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-avatarai.webp?twic=v1/resize=240" alt="AvatarAI">
@@ -600,13 +573,12 @@ ___
 
 रूपांतरित करने के लिए 112+ विभिन्न शैलियों में से चुनें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/avatarai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/avatarai)
 
 <br />
 
 <br />
 
----
 
 ### Character.io
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-character.io.webp?twic=v1/resize=240" alt="Character.io">
@@ -615,13 +587,12 @@ ___
 
 GAN की शक्ति से वर्णों या अवतारों का एक यादृच्छिक सेट उत्पन्न करें। नया सेट बनाने के लिए स्पेसबार दबाएं
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/character.io)
+[More Information and Pricing](https://www.thataicollection.com/en/application/character.io)
 
 <br />
 
 <br />
 
----
 
 ### Avtrs
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-avtrs.webp?twic=v1/resize=240" alt="Avtrs">
@@ -630,13 +601,12 @@ GAN की शक्ति से वर्णों या अवतारो�
 
 यह काम किस प्रकार करता है? 1. अलग-अलग कोणों से अपनी (या अन्य व्यक्ति की) कुछ सेल्फी अपलोड करें। 2. रुकिए - जब तक हम आपकी तस्वीरों के आधार पर आपका स्टूडियो बना रहे हैं, तब तक कॉफी लें। 3. शीघ्र - सही संकेत तैयार करने के लिए अपनी कल्पना का प्रयोग करें!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/avtrs)
+[More Information and Pricing](https://www.thataicollection.com/en/application/avtrs)
 
 <br />
 
 
 
----
 
 ### Autoportrait
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-autoportrait.webp?twic=v1/resize=240" alt="Autoportrait">
@@ -645,13 +615,12 @@ GAN की शक्ति से वर्णों या अवतारो�
 
 लाखों शैलियाँ ब्राउज़ करें या अपना स्वयं का बनाएँ, AI ऑटोपोर्ट्रेट बनाएँ।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/autoportrait)
+[More Information and Pricing](https://www.thataicollection.com/en/application/autoportrait)
 
 <br />
 
 <br />
 
----
 
 ### AIVatar
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aivatar.webp?twic=v1/resize=240" alt="AIVatar">
@@ -660,13 +629,12 @@ GAN की शक्ति से वर्णों या अवतारो�
 
 अपनी तस्वीरों से जादू अवतार कला उत्पन्न करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/aivatar)
+[More Information and Pricing](https://www.thataicollection.com/en/application/aivatar)
 
 <br />
 
 <br />
 
----
 
 ### AIprofilepic
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aiprofilepic.webp?twic=v1/resize=240" alt="AIprofilepic">
@@ -675,13 +643,12 @@ GAN की शक्ति से वर्णों या अवतारो�
 
 हमारी उपयोग में आसान एआई तकनीक के साथ कुछ ही क्लिक में अपने संपूर्ण अवतार बनाएं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/aiprofilepic)
+[More Information and Pricing](https://www.thataicollection.com/en/application/aiprofilepic)
 
 <br />
 
 <br />
 
----
 
 ### DreamPic
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dreampic.webp?twic=v1/resize=240" alt="DreamPic">
@@ -690,13 +657,12 @@ GAN की शक्ति से वर्णों या अवतारो�
 
 एआई ने आपके अभिनीत चित्र तैयार किए
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/dreampic)
+[More Information and Pricing](https://www.thataicollection.com/en/application/dreampic)
 
 <br />
 
 <br />
 
----
 
 ### EpicAvatar
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-epicavatar.webp?twic=v1/resize=240" alt="EpicAvatar">
@@ -705,13 +671,12 @@ GAN की शक्ति से वर्णों या अवतारो�
 
 अपना खुद का अत्याधुनिक AI अवतार प्रोफ़ाइल चित्र बनाएं
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/epicavatar)
+[More Information and Pricing](https://www.thataicollection.com/en/application/epicavatar)
 
 <br />
 
 <br />
 
----
 
 ### Tryitonai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tryitonai.webp?twic=v1/resize=240" alt="Tryitonai">
@@ -720,18 +685,17 @@ GAN की शक्ति से वर्णों या अवतारो�
 
 24 घंटे से भी कम समय में पेशेवर स्टूडियो गुणवत्ता वाले हेडशॉट प्राप्त करें! लिंक्डइन, सामाजिक, टीम और डेटिंग तस्वीरों के लिए बिल्कुल सही।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/tryitonai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/tryitonai)
 
 <br />
 
 <br />
+
+
+
+[See All 😎 अवतारों Applications on AI Collection](https://www.thataicollection.com/en/categories/avatars)
 
 ---
-
-
-[See All 😎 अवतारों Applications on AI Collection](https://www.thataicollection.com/hi/categories/avatars)
-
-___
 
 ## चैट बॉट
 
@@ -744,13 +708,12 @@ ___
 
 ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छोटे और मध्यम आकार के व्यवसायों (SMB) के लिए सिर्फ़ 5 मिनट में रूपांतरण-उन्मुख चैटबॉट बनाने में माहिर है। प्लेटफ़ॉर्म तीन प्रमुख कार्यक्षमताओं पर केंद्रित है: लीड जनरेशन, अक्सर पूछे जाने वाले प्रश्न प्रबंधन और प्री-क्वालिफिकेशन से संबंधित प्रश्नों को संभालना। एसएमबी को डोमेन-विशिष्ट विशेषज्ञता के साथ अपने स्वयं के चैटबॉट बनाने में सक्षम करके,
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/achatsimple)
+[More Information and Pricing](https://www.thataicollection.com/en/application/achatsimple)
 
 <br />
 
 
 
----
 
 ### SiteSpeakAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sitespeakai.webp?twic=v1/resize=240" alt="SiteSpeakAI">
@@ -759,13 +722,12 @@ ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छ
 
 अपनी सामग्री, सहायता दस्तावेज़ों, PDF, API या डेटाबेस का इस्तेमाल करके कस्टम प्रशिक्षित AI सपोर्ट चैटबॉट बनाएं। फिर इसे अपनी वेबसाइट पर कोड की एक लाइन के साथ जोड़ें, ताकि रीयल-टाइम में अपने विज़िटर के सवालों के जवाब मिल सकें और अपनी सहायता टिकट कम कर सकें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/sitespeakai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/sitespeakai)
 
 <br />
 
 
 
----
 
 ### Dante
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dante.webp?twic=v1/resize=240" alt="Dante">
@@ -774,13 +736,12 @@ ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छ
 
 शून्य कोडिंग। मिनटों में अपनी वेबसाइट पर साझा करें। मिनटों में GPT-4 चैटबॉट बनाएं। एआई को प्रशिक्षित करें, अनुकूलित करें और अपनी वेबसाइट पर एम्बेड करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/dante)
+[More Information and Pricing](https://www.thataicollection.com/en/application/dante)
 
 <br />
 
 
 
----
 
 ### ChatBotKit
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chatbotkit.webp?twic=v1/resize=240" alt="ChatBotKit">
@@ -789,13 +750,12 @@ ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छ
 
 ChatBotKit आपको अपनी वेबसाइट, स्लैक, डिस्कॉर्ड और व्हाट्सएप पर उपयोगकर्ताओं के साथ स्वाभाविक रूप से संवाद करने के लिए अपने स्वयं के डेटा के साथ संवादी AI चैटबॉट बनाने में मदद करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/chatbotkit)
+[More Information and Pricing](https://www.thataicollection.com/en/application/chatbotkit)
 
 <br />
 
 
 
----
 
 ### SiteGPT
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sitegpt.webp?twic=v1/resize=240" alt="SiteGPT">
@@ -804,13 +764,12 @@ ChatBotKit आपको अपनी वेबसाइट, स्लैक, ड
 
 आपकी वेबसाइट की सामग्री पर प्रशिक्षित व्यक्तिगत चैटबॉट के साथ अपने आगंतुकों के सवालों का तुरंत जवाब दें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/sitegpt)
+[More Information and Pricing](https://www.thataicollection.com/en/application/sitegpt)
 
 <br />
 
 <br />
 
----
 
 ### NOLU
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-nolu.webp?twic=v1/resize=240" alt="NOLU">
@@ -819,13 +778,12 @@ ChatBotKit आपको अपनी वेबसाइट, स्लैक, ड
 
 एनओएलयू से मिलें। ओपन एआई जीपीटी-3 इंजन के साथ बातचीत करने के लिए एक सरल इंटरफ़ेस।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/nolu)
+[More Information and Pricing](https://www.thataicollection.com/en/application/nolu)
 
 <br />
 
 <br />
 
----
 
 ### Chai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chai.webp?twic=v1/resize=240" alt="Chai">
@@ -834,13 +792,12 @@ ChatBotKit आपको अपनी वेबसाइट, स्लैक, ड
 
 एआई के साथ सम्मोहक बातचीत के लिए चाय गंतव्य है। चाय पर, आप हजारों उपयोगकर्ताओं के लिए एआई चैटबॉट बना और तैनात कर सकते हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/chai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/chai)
 
 <br />
 
 <br />
 
----
 
 ### Askrobi
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-askrobi.webp?twic=v1/resize=240" alt="Askrobi">
@@ -849,13 +806,12 @@ ChatBotKit आपको अपनी वेबसाइट, स्लैक, ड
 
 रॉबी एक शक्तिशाली एआई साथी है जो आपकी संपर्क सूची में रहता है और व्हाट्सएप के माध्यम से उससे बात की जा सकती है, वह आपको एक निबंध लिखने या मूल चित्र बनाने में मदद कर सकता है!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/askrobi)
+[More Information and Pricing](https://www.thataicollection.com/en/application/askrobi)
 
 <br />
 
 
 
----
 
 ### MyAnima AI Companion
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-myanima-ai-companion.webp?twic=v1/resize=240" alt="MyAnima AI Companion">
@@ -864,13 +820,12 @@ ChatBotKit आपको अपनी वेबसाइट, स्लैक, ड
 
 एआई साथी जो परवाह करता है। एक दोस्ताना चैट करें, रोलप्ले करें, अपने संचार और संबंध कौशल को विकसित करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/myanima-ai-companion)
+[More Information and Pricing](https://www.thataicollection.com/en/application/myanima-ai-companion)
 
 <br />
 
 <br />
 
----
 
 ### Kore.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-kore.ai.webp?twic=v1/resize=240" alt="Kore.ai">
@@ -879,18 +834,17 @@ ChatBotKit आपको अपनी वेबसाइट, स्लैक, ड
 
 Kore.ai, कन्वर्सेशनल AI-फ़र्स्ट वर्चुअल असिस्टेंट और प्रोसेस असिस्टेंट तैनात करके हर इंडस्ट्री के लिए फ़्रंट-ऑफ़िस और बैक-ऑफ़िस इंटरैक्शन को स्वचालित बनाता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/kore.ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/kore.ai)
 
 <br />
 
 
 
+
+
+[See All 🤖💬 चैट बॉट Applications on AI Collection](https://www.thataicollection.com/en/categories/chat-bot)
+
 ---
-
-
-[See All 🤖💬 चैट बॉट Applications on AI Collection](https://www.thataicollection.com/hi/categories/chat-bot)
-
-___
 
 ## कोड और डेटाबेस सहायक
 
@@ -903,13 +857,12 @@ ___
 
 डॉक्यूमेंटेशन संरचनाएँ बनाएँ, कोड स्पष्टीकरण उत्पन्न करें और स्विम एआई के साथ दस्तावेज़ दृश्यता बढ़ाएँ
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/swimm-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/swimm-ai)
 
 <br />
 
 <br />
 
----
 
 ### CodiumAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-codiumai.webp?twic=v1/resize=240" alt="CodiumAI">
@@ -918,13 +871,12 @@ ___
 
 CodiumAI आपके कोड का विश्लेषण करता है और आपके भेजने से पहले बग को पकड़ने के लिए सार्थक परीक्षण उत्पन्न करता है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/codiumai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/codiumai)
 
 <br />
 
 <br />
 
----
 
 ### CodeWP
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-codewp.webp?twic=v1/resize=240" alt="CodeWP">
@@ -933,13 +885,12 @@ CodiumAI आपके कोड का विश्लेषण करता ह
 
 CodeWP एक वर्डप्रेस कोड जनरेटर है जो आपको बेहतर और तेज बनाने में मदद करने के लिए वर्डप्रेस, वू और अन्य के लिए एआई और विशेष मॉडल का उपयोग करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/codewp)
+[More Information and Pricing](https://www.thataicollection.com/en/application/codewp)
 
 <br />
 
 <br />
 
----
 
 ### ExplainDev
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-explaindev.webp?twic=v1/resize=240" alt="ExplainDev">
@@ -948,13 +899,12 @@ CodeWP एक वर्डप्रेस कोड जनरेटर है �
 
 एक्सप्लेनडेव आपको दूसरों के कोड के साथ अधिक आत्मविश्वासी और स्वतंत्र होने में मदद करता है। एआई द्वारा संचालित क्रोम और वीएस कोड एक्सटेंशन के माध्यम से कोड स्पष्टीकरण और अपने प्रश्नों के सीधे उत्तर प्राप्त करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/explaindev)
+[More Information and Pricing](https://www.thataicollection.com/en/application/explaindev)
 
 <br />
 
 
 
----
 
 ### TLDR - Jetbrains IDE Plugin
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tldr---jetbrains-ide-plugin.webp?twic=v1/resize=240" alt="TLDR - Jetbrains IDE Plugin">
@@ -963,13 +913,12 @@ CodeWP एक वर्डप्रेस कोड जनरेटर है �
 
 टीएलडीआर एक आईडीई प्लगइन है जो सादे अंग्रेजी में कोड की व्याख्या करने के लिए एआई का लाभ उठाता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/tldr---jetbrains-ide-plugin)
+[More Information and Pricing](https://www.thataicollection.com/en/application/tldr---jetbrains-ide-plugin)
 
 <br />
 
 <br />
 
----
 
 ### Ghostwriter
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ghostwriter.webp?twic=v1/resize=240" alt="Ghostwriter">
@@ -978,13 +927,12 @@ CodeWP एक वर्डप्रेस कोड जनरेटर है �
 
 अपने ब्राउज़र में लाइव कोड चलाएँ। रिप्लिट, एक शक्तिशाली आईडीई, कंपाइलर और दुभाषिया के साथ 50+ भाषाओं में ऑनलाइन कोड लिखें और चलाएं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ghostwriter)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ghostwriter)
 
 <br />
 
 <br />
 
----
 
 ### Whatthediff
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-whatthediff.webp?twic=v1/resize=240" alt="Whatthediff">
@@ -993,13 +941,12 @@ CodeWP एक वर्डप्रेस कोड जनरेटर है �
 
 एआई संचालित गिटहब ऐप जो सादे अंग्रेजी में आपके पुल अनुरोधों में बदलाव की व्याख्या करता है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/whatthediff)
+[More Information and Pricing](https://www.thataicollection.com/en/application/whatthediff)
 
 <br />
 
 <br />
 
----
 
 ### CodeAssist
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-codeassist.webp?twic=v1/resize=240" alt="CodeAssist">
@@ -1008,13 +955,12 @@ CodeWP एक वर्डप्रेस कोड जनरेटर है �
 
 यह कोड उत्पन्न करता है, बदलता है, पूरा करता है और प्रश्नों का उत्तर देता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/codeassist)
+[More Information and Pricing](https://www.thataicollection.com/en/application/codeassist)
 
 <br />
 
 <br />
 
----
 
 ### Klu
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-klu.webp?twic=v1/resize=240" alt="Klu">
@@ -1023,13 +969,12 @@ CodeWP एक वर्डप्रेस कोड जनरेटर है �
 
 Klu.ai एक ऑल-इन-वन प्लेटफ़ॉर्म है जिसे AI टीमों के लिए जेनेरेटिव AI ऐप्लिकेशन बनाने, तैनात करने और ऑप्टिमाइज़ करने के लिए डिज़ाइन किया गया है। यह यूज़र, क्लू स्टूडियो नामक सहज इंटरफ़ेस का उपयोग करके जेनेरेटिव AI सुविधाओं और ऐप्स को आसानी से डिज़ाइन करने, विकसित करने और फिर से शुरू करने की सुविधा देता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/klu)
+[More Information and Pricing](https://www.thataicollection.com/en/application/klu)
 
 <br />
 
 
 
----
 
 ### Tabnine
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tabnine.webp?twic=v1/resize=240" alt="Tabnine">
@@ -1038,18 +983,17 @@ Klu.ai एक ऑल-इन-वन प्लेटफ़ॉर्म है ज�
 
 चाहे आप एक टीम का हिस्सा हों, या अपने दम पर काम करने वाले डेवलपर हों, Tabnine आपको तेजी से कोड लिखने में मदद करेगा - सब कुछ आपकी पसंदीदा IDE में।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/tabnine)
+[More Information and Pricing](https://www.thataicollection.com/en/application/tabnine)
 
 <br />
 
 <br />
+
+
+
+[See All 💻 कोड और डेटाबेस सहायक Applications on AI Collection](https://www.thataicollection.com/en/categories/code-and-database-assistant)
 
 ---
-
-
-[See All 💻 कोड और डेटाबेस सहायक Applications on AI Collection](https://www.thataicollection.com/hi/categories/code-and-database-assistant)
-
-___
 
 ## सामग्री निर्माण और एसईओ
 
@@ -1062,13 +1006,12 @@ ___
 
 विवरण, विज्ञापन, लेख, ईमेल और बहुत कुछ सहित विभिन्न उद्देश्यों के लिए हमारे 50 टेम्पलेट्स और शिल्प सम्मोहक प्रतिलिपि में से एक चुनें... कुछ जानकारी प्रदान करें जिसका उपयोग कार्बनकॉपी आपकी प्रतिलिपि बनाने के लिए करेगा। कुछ ही सेकंड में, हमारा कृत्रिम बुद्धिमत्ता सॉफ़्टवेयर आपकी मार्केटिंग के लिए उल्लेखनीय परिणाम उत्पन्न करेगा।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/carboncopy)
+[More Information and Pricing](https://www.thataicollection.com/en/application/carboncopy)
 
 <br />
 
 
 
----
 
 ### Jasper.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jasper.ai.webp?twic=v1/resize=240" alt="Jasper.ai">
@@ -1077,13 +1020,12 @@ ___
 
 जैस्पर एआई कंटेंट जेनरेटर है जो आपको और आपकी टीम को 10 गुना तेजी से अद्भुत, मूल सामग्री बनाने के लिए रचनात्मक अवरोधों को तोड़ने में मदद करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/jasper.ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/jasper.ai)
 
 <br />
 
 <br />
 
----
 
 ### LongShot AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-longshot-ai.webp?twic=v1/resize=240" alt="LongShot AI">
@@ -1092,13 +1034,12 @@ ___
 
 लॉन्गशॉट एक एआई लेखन सहायक है जो आपको विचार से एसईओ सामग्री तक मिनटों में जाने में मदद करता है। रियल टाइम कंटेंट, फैक्ट चेक, सिमेंटिक SEO, कस्टम AI, और बहुत कुछ जैसी सुविधाओं के साथ AI की रचनात्मक शक्ति का उपयोग करें!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/longshot-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/longshot-ai)
 
 <br />
 
 
 
----
 
 ### Dashword
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dashword.webp?twic=v1/resize=240" alt="Dashword">
@@ -1107,13 +1048,12 @@ ___
 
 SEO टीमों के लिए Dashword #1 सामग्री अनुकूलन सॉफ़्टवेयर है। अपने पाठकों के लिए प्रासंगिक सामग्री बनाएँ और अपना जैविक ट्रैफ़िक बढ़ाएँ।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/dashword)
+[More Information and Pricing](https://www.thataicollection.com/en/application/dashword)
 
 <br />
 
 <br />
 
----
 
 ### unbound
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-unbound.webp?twic=v1/resize=240" alt="unbound">
@@ -1122,13 +1062,12 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 छोटे व्यवसाय, ऑनलाइन दुकानों और रचनाकारों के लिए सामग्री निर्माण को स्वचालित करने के लिए डिज़ाइन किए गए सभी बेहतरीन AI पीढ़ी के उपकरणों का एक ही स्थान पर लाभ उठाएं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/unbound)
+[More Information and Pricing](https://www.thataicollection.com/en/application/unbound)
 
 <br />
 
 
 
----
 
 ### Neuraltext
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-neuraltext.webp?twic=v1/resize=240" alt="Neuraltext">
@@ -1137,13 +1076,12 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 अपने सामग्री संचालन को स्वचालित करें। ऑल-इन-वन कंटेंट मार्केटिंग और SEO प्लेटफॉर्म जो आपका समय और पैसा बचाता है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/neuraltext)
+[More Information and Pricing](https://www.thataicollection.com/en/application/neuraltext)
 
 <br />
 
 <br />
 
----
 
 ### WordAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wordai.webp?twic=v1/resize=240" alt="WordAI">
@@ -1152,13 +1090,12 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 टर्नअराउंड समय में कटौती करने, अपना बजट बढ़ाने और अधिक उच्च-गुणवत्ता वाली सामग्री बनाने के लिए कृत्रिम बुद्धिमत्ता का उपयोग करें जो Google और पाठकों को पसंद आएगी।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/wordai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/wordai)
 
 <br />
 
 
 
----
 
 ### Intelligent paraphraser
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-intelligent-paraphraser.webp?twic=v1/resize=240" alt="Intelligent paraphraser">
@@ -1167,13 +1104,12 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 आर्टिफिशियल इंटेलिजेंस के साथ लेखन महाशक्तियां प्राप्त करें। AISEO में हम आपको अपने विचारों को ब्लॉग में बदलने में मदद करेंगे और एक बटन के क्लिक पर आपके लिए लिख सकते हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/intelligent-paraphraser)
+[More Information and Pricing](https://www.thataicollection.com/en/application/intelligent-paraphraser)
 
 <br />
 
 
 
----
 
 ### Creator AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-creator-ai.webp?twic=v1/resize=240" alt="Creator AI">
@@ -1182,13 +1118,12 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 रचनाकार आपको अधिक शक्तिशाली, भावनात्मक रूप से अभिव्यंजक तरीके से सामग्री लिखने में मदद करेगा
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/creator-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/creator-ai)
 
 <br />
 
 <br />
 
----
 
 ### ArticleForge
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-articleforge.webp?twic=v1/resize=240" alt="ArticleForge">
@@ -1197,18 +1132,17 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 उन्नत आर्टिफिशियल इंटेलिजेंस और डीप लर्निंग का उपयोग करते हुए, आर्टिकल फोर्ज एक बटन के क्लिक के साथ पूरी तरह से अद्वितीय, एसईओ अनुकूलित, उच्च-गुणवत्ता, लंबे फॉर्म वाले लेख लिखता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/articleforge)
+[More Information and Pricing](https://www.thataicollection.com/en/application/articleforge)
 
 <br />
 
 
 
+
+
+[See All 📠 सामग्री निर्माण और एसईओ Applications on AI Collection](https://www.thataicollection.com/en/categories/content-generation-and-seo)
+
 ---
-
-
-[See All 📠 सामग्री निर्माण और एसईओ Applications on AI Collection](https://www.thataicollection.com/hi/categories/content-generation-and-seo)
-
-___
 
 ## निर्माता टूलकिट
 
@@ -1223,13 +1157,12 @@ ___
 उपयोगी अच्छे टूल खोजें जो आपकी उत्पादकता बढ़ाएंगे।
 कुछ टूल के उदाहरण: गोपनीयता नीति जनरेटर, स्क्रीनशॉट, फ़ॉन्ट का पता लगाएं, किसी भी पीडीएफ के साथ चैट करें, किसी भी यूआरएल का सारांश और बहुत कुछ।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/damn-good-tools)
+[More Information and Pricing](https://www.thataicollection.com/en/application/damn-good-tools)
 
 <br />
 
 
 
----
 
 ### Clipdrop
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-clipdrop.webp?twic=v1/resize=240" alt="Clipdrop">
@@ -1238,13 +1171,12 @@ ___
 
 आर्टिफिशियल इंटेलिजेंस द्वारा संचालित सभी क्रिएटर्स के लिए ऐप्स, प्लगइन्स और संसाधनों का बेहतरीन इकोसिस्टम।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/clipdrop)
+[More Information and Pricing](https://www.thataicollection.com/en/application/clipdrop)
 
 <br />
 
 <br />
 
----
 
 ### Descript
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-descript.webp?twic=v1/resize=240" alt="Descript">
@@ -1253,13 +1185,12 @@ ___
 
 विवरण संपादित करने का सरल, शक्तिशाली और मज़ेदार तरीका है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/descript)
+[More Information and Pricing](https://www.thataicollection.com/en/application/descript)
 
 <br />
 
 <br />
 
----
 
 ### Cutout Pro
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cutout-pro.webp?twic=v1/resize=240" alt="Cutout Pro">
@@ -1268,13 +1199,12 @@ ___
 
 ऑल-इन-वन विज़ुअल डिज़ाइन प्लेटफ़ॉर्म जिसमें एआई फोटो और वीडियो एडिटिंग टूल हैं। पृष्ठभूमि हटाने, छवि बहाली, ग्राफिक डिजाइन और सामग्री निर्माण के लिए स्वचालित प्रक्रिया
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/cutout-pro)
+[More Information and Pricing](https://www.thataicollection.com/en/application/cutout-pro)
 
 <br />
 
 
 
----
 
 ### Fermat
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fermat.webp?twic=v1/resize=240" alt="Fermat">
@@ -1283,13 +1213,12 @@ ___
 
 सहयोगी कैनवास पर एआई के साथ अपनी रचनात्मकता को उजागर करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/fermat)
+[More Information and Pricing](https://www.thataicollection.com/en/application/fermat)
 
 <br />
 
 <br />
 
----
 
 ### Hotpot
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hotpot.webp?twic=v1/resize=240" alt="Hotpot">
@@ -1298,13 +1227,12 @@ ___
 
 Hotpot.ai आपको अद्भुत ग्राफिक्स, चित्र और टेक्स्ट बनाने में मदद करता है। एआई आर्ट जेनरेटर जैसे एआई टूल रचनात्मकता को जगाते हैं और कड़ी मेहनत को स्वचालित करते हैं, जबकि आसानी से संपादित होने वाले टेम्प्लेट किसी को भी डिवाइस मॉकअप, सोशल मीडिया पोस्ट, मार्केटिंग इमेज, ऐप आइकन और अन्य वर्क ग्राफिक्स बनाने में सक्षम बनाते हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/hotpot)
+[More Information and Pricing](https://www.thataicollection.com/en/application/hotpot)
 
 <br />
 
 
 
----
 
 ### Lightricks
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lightricks.webp?twic=v1/resize=240" alt="Lightricks">
@@ -1313,13 +1241,12 @@ Hotpot.ai आपको अद्भुत ग्राफिक्स, चित
 
 क्रिएटर्स के लिए सर्वोत्तम टूल और सेवाओं के साथ सृजन के जादू का अनुभव करें: फेसट्यून 2, वीडियोलीप, लिंकिनबियो और फोटोलीप। अब इसे जांचें!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/lightricks)
+[More Information and Pricing](https://www.thataicollection.com/en/application/lightricks)
 
 <br />
 
 <br />
 
----
 
 ### Runway
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-runway.webp?twic=v1/resize=240" alt="Runway">
@@ -1328,13 +1255,12 @@ Hotpot.ai आपको अद्भुत ग्राफिक्स, चित
 
 अपनी रचनाओं को अगले स्तर पर ले जाने के लिए उन्नत वीडियो संपादन क्षमताओं की खोज करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/runway)
+[More Information and Pricing](https://www.thataicollection.com/en/application/runway)
 
 <br />
 
 <br />
 
----
 
 ### Phygital
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-phygital.webp?twic=v1/resize=240" alt="Phygital">
@@ -1343,13 +1269,12 @@ Hotpot.ai आपको अद्भुत ग्राफिक्स, चित
 
 कोड के बिना तंत्रिका नेटवर्क के साथ काम करने के लिए रचनाकारों के लिए नोड-आधारित एआई कार्यक्षेत्र। (अल्फा)
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/phygital)
+[More Information and Pricing](https://www.thataicollection.com/en/application/phygital)
 
 <br />
 
 <br />
 
----
 
 ### TextSynth
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-textsynth.webp?twic=v1/resize=240" alt="TextSynth">
@@ -1358,18 +1283,17 @@ Hotpot.ai आपको अद्भुत ग्राफिक्स, चित
 
 TextSynth मानक GPU और CPU पर तेज़ी से अनुमान लगाने के लिए कस्टम अनुमान कोड का इस्तेमाल करता है। साइट की स्थापना 2020 में हुई थी और यह GPT-2 भाषा मॉडल को ऐक्सेस देने वाले पहले लोगों में से थी। मूलभूत सेवा मुफ़्त है लेकिन दर सीमित है। जो यूज़र सीमा से बाहर जाना चाहते हैं, वे हर अनुरोध के हिसाब से थोड़ी राशि का भुगतान कर सकते हैं (हमारी कीमत देखें)। अगर तुम्हेंं कस्टम सहायता चाहिए, तो कृपया हमसे संपर्क करें: टेक्स्टसिंथ डॉट कॉम पर संपर्क करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/textsynth)
+[More Information and Pricing](https://www.thataicollection.com/en/application/textsynth)
 
 <br />
 
 
 
+
+
+[See All 🧰 निर्माता टूलकिट Applications on AI Collection](https://www.thataicollection.com/en/categories/creators-toolkit)
+
 ---
-
-
-[See All 🧰 निर्माता टूलकिट Applications on AI Collection](https://www.thataicollection.com/hi/categories/creators-toolkit)
-
-___
 
 ## ग्राहक सहेयता
 
@@ -1382,13 +1306,12 @@ ___
 
 लीड्स से जुड़ने, अपने व्यवसाय के बारे में सवालों के जवाब देने, ग्राहक डेटा रिकॉर्ड करने और अपनी पसंद के किसी भी एपीआई को जोड़ने के लिए GPT-4 का उपयोग करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/webapi.ai-2.0)
+[More Information and Pricing](https://www.thataicollection.com/en/application/webapi.ai-2.0)
 
 <br />
 
 
 
----
 
 ### AI Answers by Cohere
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-answers-by-cohere.webp?twic=v1/resize=240" alt="AI Answers by Cohere">
@@ -1397,13 +1320,12 @@ ___
 
 एआई-संचालित समर्थन सहायता जो पिछले टिकटों से उत्तर ढूंढती है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ai-answers-by-cohere)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-answers-by-cohere)
 
 <br />
 
 <br />
 
----
 
 ### Bahasa
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-bahasa.webp?twic=v1/resize=240" alt="Bahasa">
@@ -1412,13 +1334,12 @@ ___
 
 ऑटोमेशन जो आपके व्यवसाय में मदद करता है, लाखों खुश ग्राहकों को तेजी से सेवा प्रदान करता है, एआई द्वारा संचालित विशेष रूप से बहासा इंडोनेशिया के लिए बनाया गया है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/bahasa)
+[More Information and Pricing](https://www.thataicollection.com/en/application/bahasa)
 
 <br />
 
 
 
----
 
 ### ResolveAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-resolveai.webp?twic=v1/resize=240" alt="ResolveAI">
@@ -1427,13 +1348,12 @@ ___
 
 हमारे एआई चैटबॉट ग्राहकों की समस्याओं को समझने और वास्तविक समय में अनुरूप, सटीक प्रतिक्रिया प्रदान करने के लिए डिज़ाइन किए गए हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/resolveai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/resolveai)
 
 <br />
 
 <br />
 
----
 
 ### EddyAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-eddyai.webp?twic=v1/resize=240" alt="EddyAI">
@@ -1442,13 +1362,12 @@ ___
 
 बिक्री बढ़ाएँ और समर्थन लागत कम करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/eddyai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/eddyai)
 
 <br />
 
 <br />
 
----
 
 ### Poised 2.0
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-poised-2.0.webp?twic=v1/resize=240" alt="Poised 2.0">
@@ -1457,13 +1376,12 @@ ___
 
 प्रस्तुतियों, साक्षात्कारों, ग्राहकों की कॉल में तुम्हारा AI फ़ीडबैक पार्टनर। अपनी ऑनलाइन मीटिंग के पहले, दौरान और बाद में निजी फ़ीडबैक के साथ मीटिंग में ज़्यादा प्रभावी ढंग से संवाद करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/poised-2.0)
+[More Information and Pricing](https://www.thataicollection.com/en/application/poised-2.0)
 
 <br />
 
 
 
----
 
 ### OneTone.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-onetone.ai.webp?twic=v1/resize=240" alt="OneTone.ai">
@@ -1472,13 +1390,12 @@ ___
 
 OneTone.ai एक एआई-संचालित प्लेटफ़ॉर्म है जो आपको मूल्यवान अंतर्दृष्टि प्रदान करता है, जिससे आप सूचित निर्णय ले सकते हैं और उच्चतम ग्राहक सेवा प्रदान कर सकते हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/onetone.ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/onetone.ai)
 
 <br />
 
 
 
----
 
 ### ChatGenius
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chatgenius.webp?twic=v1/resize=240" alt="ChatGenius">
@@ -1487,13 +1404,12 @@ OneTone.ai एक एआई-संचालित प्लेटफ़ॉर्
 
 ChatGenius एक सॉफ्टवेयर कंपनी है जो GPT-4 और ChatGPT द्वारा संचालित एक शक्तिशाली AI चैटबॉट समाधान प्रदान करती है। हमारा चैटबॉट 110 से अधिक भाषाओं में 24/7 सहायता प्रदान करता है और इसे आपकी वेबसाइट या प्लेटफ़ॉर्म में मूल रूप से एकीकृत किया जा सकता है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/chatgenius)
+[More Information and Pricing](https://www.thataicollection.com/en/application/chatgenius)
 
 <br />
 
 
 
----
 
 ### ChatFlow
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chatflow.webp?twic=v1/resize=240" alt="ChatFlow">
@@ -1504,13 +1420,12 @@ ChatGenius एक सॉफ्टवेयर कंपनी है जो GPT-
 अपने ग्राहकों से जुड़ने, रूपांतरण बढ़ाने और आमदनी बढ़ाने के लिए AI-संचालित चैटबॉट बनाएं। SaaS, ई-कॉमर्स या किसी भी ऑनलाइन बिज़नेस के लिए बिल्कुल सही।
 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/chatflow)
+[More Information and Pricing](https://www.thataicollection.com/en/application/chatflow)
 
 <br />
 
 <br />
 
----
 
 ### WADeck
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wadeck.webp?twic=v1/resize=240" alt="WADeck">
@@ -1519,18 +1434,17 @@ ChatGenius एक सॉफ्टवेयर कंपनी है जो GPT-
 
 WaDeck एक मुफ़्त WhatsApp CRM टूल है, जिसमें GPT-संचालित AI असिस्टेंट है, जो तुम्हारे वर्कफ़्लो और उत्पादकता को बढ़ाता है। यह बातचीत के लिए कस्टम टैब संगठन को सक्षम बनाता है, जिससे कुशल समन्वय की अनुमति मिलती है। तुम रिच मीडिया अटैचमेंट की मदद से कस्टमाइज़ किए जा सकने योग्य संदेश टेम्पलेट बना सकते हो और भेज सकते हो। अपनी ट्रांजेक्शन दर को आसानी से दोगुना करने के लिए WADeck का इस्तेमाल करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/wadeck)
+[More Information and Pricing](https://www.thataicollection.com/en/application/wadeck)
 
 <br />
 
 
 
+
+
+[See All 👨‍💻 ग्राहक सहेयता Applications on AI Collection](https://www.thataicollection.com/en/categories/customer-support)
+
 ---
-
-
-[See All 👨‍💻 ग्राहक सहेयता Applications on AI Collection](https://www.thataicollection.com/hi/categories/customer-support)
-
-___
 
 ## ई-कॉमर्स
 
@@ -1543,13 +1457,12 @@ ___
 
 एआई के साथ ईमेल, उत्पाद विवरण आदि लिखें। ऑक्टेन एआई द्वारा बनाया गया।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/octie.ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/octie.ai)
 
 <br />
 
 <br />
 
----
 
 ### Embolden
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-embolden.webp?twic=v1/resize=240" alt="Embolden">
@@ -1558,13 +1471,12 @@ ___
 
 एम्बोल्डन आपके ईकॉमर्स व्यवसाय के लिए ईमेल से लेकर उत्पाद विवरण तक सब कुछ लिखने में आपकी मदद करने के लिए एआई का उपयोग करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/embolden)
+[More Information and Pricing](https://www.thataicollection.com/en/application/embolden)
 
 <br />
 
 <br />
 
----
 
 ### Wizishop
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wizishop.webp?twic=v1/resize=240" alt="Wizishop">
@@ -1573,13 +1485,12 @@ ___
 
 WiziShop SEO-संचालित ई-कॉमर्स को पहले से कहीं अधिक आसान बना देता है, जिससे सफलता पहुंच में आ जाती है। आपके ईकॉमर्स व्यवसाय की सेवा में आर्टिफिशियल इंटेलिजेंस!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/wizishop)
+[More Information and Pricing](https://www.thataicollection.com/en/application/wizishop)
 
 <br />
 
 
 
----
 
 ### DoMyShoot
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-domyshoot.webp?twic=v1/resize=240" alt="DoMyShoot">
@@ -1588,13 +1499,12 @@ WiziShop SEO-संचालित ई-कॉमर्स को पहले �
 
 केवल अपने स्मार्टफोन का उपयोग करके एक फोटोशूट के माध्यम से अपना मार्गदर्शन करें और हमारी एआई तकनीक को बाकी प्रक्रिया को संभालने दें, रोजमर्रा के उत्पादों को फोटो यथार्थवादी छवियों में बदल दें जो निश्चित रूप से मार्केटिंग रणनीतियों को एक पायदान ऊपर ले जाएं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/domyshoot)
+[More Information and Pricing](https://www.thataicollection.com/en/application/domyshoot)
 
 <br />
 
 
 
----
 
 ### manifest
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-manifest.webp?twic=v1/resize=240" alt="manifest">
@@ -1603,13 +1513,12 @@ WiziShop SEO-संचालित ई-कॉमर्स को पहले �
 
 1 मिनट के भीतर अपना स्वयं का AI शॉपिंग असिस्टेंट लाइव प्राप्त करें। एआई-संचालित वैयक्तिकरण के साथ अपने स्टोर को बदलें और अपनी बिक्री बढ़ाएं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/manifest)
+[More Information and Pricing](https://www.thataicollection.com/en/application/manifest)
 
 <br />
 
 <br />
 
----
 
 ### Gizzmo Ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gizzmo-ai.webp?twic=v1/resize=240" alt="Gizzmo Ai">
@@ -1618,13 +1527,12 @@ WiziShop SEO-संचालित ई-कॉमर्स को पहले �
 
 Gizzmo एक शक्तिशाली वर्डप्रेस प्लगइन है जो Amazon सहबद्ध लेख बनाने की प्रक्रिया को सरल बनाता है। बस कुछ ही क्लिक के साथ, आप उत्पाद समीक्षा, राउंडअप और उपहार गाइड सहित पूरी तरह से अनुकूलित सामग्री तैयार कर सकते हैं। यह सहबद्ध विपणक के लिए गेम-चेंजर है!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/gizzmo-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/gizzmo-ai)
 
 <br />
 
 
 
----
 
 ### VModel
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-vmodel.webp?twic=v1/resize=240" alt="VModel">
@@ -1633,13 +1541,12 @@ Gizzmo एक शक्तिशाली वर्डप्रेस प्ल�
 
 vModel वर्चुअल फ़ैशन मॉडल बनाने के लिए आर्टिफिशियल इंटेलिजेंस तकनीक का इस्तेमाल करता है, जिससे असल दुनिया के फ़ैशन मॉडल की ज़रूरत बदल जाती है। इन वर्चुअल मॉडल का इस्तेमाल कपड़ों के आइटम के लिए प्रॉडक्ट फ़ोटो बनाने के लिए किया जाता है, जिन्हें बाद में ई-कॉमर्स प्लेटफ़ॉर्म पर दिखाया जाता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/vmodel)
+[More Information and Pricing](https://www.thataicollection.com/en/application/vmodel)
 
 <br />
 
 
 
----
 
 ### GPT Gifts
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gpt-gifts.webp?twic=v1/resize=240" alt="GPT Gifts">
@@ -1648,18 +1555,17 @@ vModel वर्चुअल फ़ैशन मॉडल बनाने के
 
 None
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/gpt-gifts)
+[More Information and Pricing](https://www.thataicollection.com/en/application/gpt-gifts)
 
 <br />
 
 <br />
+
+
+
+[See All 🛒 ई-कॉमर्स Applications on AI Collection](https://www.thataicollection.com/en/categories/ecommerce)
 
 ---
-
-
-[See All 🛒 ई-कॉमर्स Applications on AI Collection](https://www.thataicollection.com/hi/categories/ecommerce)
-
-___
 
 ## शिक्षा और सीखना
 
@@ -1672,13 +1578,12 @@ ___
 
 किसी भी पाठ से प्रश्नोत्तरी प्रश्न, फ्लैशकार्ड और नोट्स तुरंत बनाएं और साझा करें। व्यवसायों, शिक्षकों और छात्रों के लिए समान रूप से आदर्श।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/quizgecko)
+[More Information and Pricing](https://www.thataicollection.com/en/application/quizgecko)
 
 <br />
 
 <br />
 
----
 
 ### Botta
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-botta.webp?twic=v1/resize=240" alt="Botta">
@@ -1687,13 +1592,12 @@ ___
 
 आपका निःशुल्क, व्यक्तिगत शिक्षण सहायक। प्रश्न पूछें, उत्तर पाएँ. बोटा ऑनलाइन सीखने को आसान बनाता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/botta)
+[More Information and Pricing](https://www.thataicollection.com/en/application/botta)
 
 <br />
 
 <br />
 
----
 
 ### Speakingclubai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-speakingclubai.webp?twic=v1/resize=240" alt="Speakingclubai">
@@ -1702,13 +1606,12 @@ ___
 
 स्पीकिंग क्लब एआई में आपका स्वागत है - विदेशी भाषा में अपने बोलने के कौशल में सुधार करने के इच्छुक किसी भी व्यक्ति के लिए अंतिम भाषा सीखने का उपकरण। स्पीकिंग क्लब एआई के साथ, आप किसी भी समय, कहीं भी व्यक्तिगत एआई भाषा पार्टनर के साथ अपने वार्तालाप कौशल का अभ्यास कर सकते हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/speakingclubai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/speakingclubai)
 
 <br />
 
 
 
----
 
 ### Lorro
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lorro.webp?twic=v1/resize=240" alt="Lorro">
@@ -1717,13 +1620,12 @@ ___
 
 AI और GPT-3 द्वारा संचालित अत्यधिक वैयक्तिकृत, रोमांचक कॉपी के साथ अपने कोल्ड ईमेल को बहुत गर्म बनाएं
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/lorro)
+[More Information and Pricing](https://www.thataicollection.com/en/application/lorro)
 
 <br />
 
 <br />
 
----
 
 ### TutorAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tutorai.webp?twic=v1/resize=240" alt="TutorAI">
@@ -1732,13 +1634,12 @@ AI और GPT-3 द्वारा संचालित अत्यधिक �
 
 TutoEAI लर्न एनीथिंग किसी भी विषय के मॉड्यूल सीखने के लिए एक सर्च इंजन है। फ़िज़िक्स, अमेरिकी इतिहास, या अपना नाम जैसे टॉपिक्स आज़माएँ!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/tutorai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/tutorai)
 
 <br />
 
 <br />
 
----
 
 ### Teacherbot
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-teacherbot.webp?twic=v1/resize=240" alt="Teacherbot">
@@ -1747,13 +1648,12 @@ TutoEAI लर्न एनीथिंग किसी भी विषय क�
 
 हमने सबसे शक्तिशाली टूल विकसित किया है, जिस तक एक शिक्षक पहुंच सकता है। तुम सभी स्तरों के लिए टास्क और गतिविधियाँ बना सकते हो, साथ ही टॉपिक प्लान, फ़ॉरवर्ड प्लान, पाठ योजनाएँ और भी बहुत कुछ कर सकते हो। तुम सिर्फ़ अपनी कल्पना से ही सीमित हो।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/teacherbot)
+[More Information and Pricing](https://www.thataicollection.com/en/application/teacherbot)
 
 <br />
 
 
 
----
 
 ### Replicate
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-replicate.webp?twic=v1/resize=240" alt="Replicate">
@@ -1762,13 +1662,12 @@ TutoEAI लर्न एनीथिंग किसी भी विषय क�
 
 क्लाउड एपीआई के साथ ओपन-सोर्स मॉडल चलाएं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/replicate)
+[More Information and Pricing](https://www.thataicollection.com/en/application/replicate)
 
 <br />
 
 <br />
 
----
 
 ### teachology.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-teachology.ai.webp?twic=v1/resize=240" alt="teachology.ai">
@@ -1777,13 +1676,12 @@ TutoEAI लर्न एनीथिंग किसी भी विषय क�
 
 योजना पाठ - अपने पाठों का मसौदा तैयार करने और अपने पसंदीदा प्रारूपों में निर्यात करने के लिए हार्नेस एआई। रिच असेसमेंट बनाएं - मजबूत रूब्रिक संचालित मार्किंग मानदंड के साथ रिच असेसमेंट का निर्माण करें। और अधिक।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/teachology.ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/teachology.ai)
 
 <br />
 
 
 
----
 
 ### Cratecode
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cratecode.webp?twic=v1/resize=240" alt="Cratecode">
@@ -1792,13 +1690,12 @@ TutoEAI लर्न एनीथिंग किसी भी विषय क�
 
 ऑनलाइन पाठों और एक शक्तिशाली AI सहायक के माध्यम से कोड करना सीखें! सहायक आपके कोड का विश्लेषण कर सकता है, आपको सही दिशा में ले जा सकता है और सरल विषयों पर लेख लिख सकता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/cratecode)
+[More Information and Pricing](https://www.thataicollection.com/en/application/cratecode)
 
 <br />
 
 
 
----
 
 ### Wilco Sierra
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wilco-sierra.webp?twic=v1/resize=240" alt="Wilco Sierra">
@@ -1807,18 +1704,17 @@ TutoEAI लर्न एनीथिंग किसी भी विषय क�
 
 सिएरा से मिलें! यह विल्को प्रयोग अपनी तरह का पहला प्लेटफॉर्म है जो एआई का उपयोग करने वाले सॉफ्टवेयर इंजीनियरों के लिए चुनौतियां पैदा करता है। बस इसे बताएं कि आप क्या सीखना चाहते हैं, और यह आपके लिए वैयक्तिकृत शैक्षिक सामग्री तैयार करेगा।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/wilco-sierra)
+[More Information and Pricing](https://www.thataicollection.com/en/application/wilco-sierra)
 
 <br />
 
 
 
+
+
+[See All 🧠 शिक्षा और सीखना Applications on AI Collection](https://www.thataicollection.com/en/categories/education-and-learning)
+
 ---
-
-
-[See All 🧠 शिक्षा और सीखना Applications on AI Collection](https://www.thataicollection.com/hi/categories/education-and-learning)
-
-___
 
 ## ईमेल सहायक
 
@@ -1831,13 +1727,12 @@ ___
 
 दोबारा 'व्यक्तिगत' ईमेल पर शोध करने या लिखने में समय बर्बाद न करें। अपनी संपूर्ण आउटरीच प्रक्रिया को स्वचालित करें। इंसानों से 40 गुना तेज और 6 गुना सस्ता।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/smartwriter)
+[More Information and Pricing](https://www.thataicollection.com/en/application/smartwriter)
 
 <br />
 
 
 
----
 
 ### Warmer.Ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-warmer.ai.webp?twic=v1/resize=240" alt="Warmer.Ai">
@@ -1846,13 +1741,12 @@ ___
 
 वार्मर आपके ईमेल आउटरीच को लिखने के लिए AI ईमेल वैयक्तिकरण का उपयोग करता है। गतिशील वैयक्तिकरण के साथ उत्तर, मीटिंग और बिक्री बढ़ाएँ।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/warmer.ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/warmer.ai)
 
 <br />
 
 <br />
 
----
 
 ### DraftLab
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-draftlab.webp?twic=v1/resize=240" alt="DraftLab">
@@ -1861,13 +1755,12 @@ ___
 
 राइटर्स ब्लॉक से लड़ें और इनबॉक्स जीरो हासिल करें। ड्राफ्टलैब एक एआई-संचालित जीमेल सह-पायलट है जो आपके लिए उच्च-गुणवत्ता वाले ईमेल उत्तर उत्पन्न करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/draftlab)
+[More Information and Pricing](https://www.thataicollection.com/en/application/draftlab)
 
 <br />
 
 
 
----
 
 ### Ellie
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ellie.webp?twic=v1/resize=240" alt="Ellie">
@@ -1876,13 +1769,12 @@ ___
 
 ऐली आपकी लेखन शैली और शिल्प उत्तरों से सीखती है जैसे कि वे आपके द्वारा लिखे गए हों
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ellie)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ellie)
 
 <br />
 
 <br />
 
----
 
 ### EmailTriager
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-emailtriager.webp?twic=v1/resize=240" alt="EmailTriager">
@@ -1891,13 +1783,12 @@ ___
 
 EmailTriager में, हम ऐसे उत्पाद बनाते हैं जो आपकी ओर से काम करते हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/emailtriager)
+[More Information and Pricing](https://www.thataicollection.com/en/application/emailtriager)
 
 <br />
 
 <br />
 
----
 
 ### Quicklines
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-quicklines.webp?twic=v1/resize=240" alt="Quicklines">
@@ -1906,13 +1797,12 @@ EmailTriager में, हम ऐसे उत्पाद बनाते ह�
 
 Quicklines आपका नया AI संचालित कोल्ड आउटरीच सहायक है। हम आपके ठंडे ईमेल अभियानों को हमारे गहन सामाजिक स्क्रैपिंग और प्राकृतिक भाषा प्रथम-पंक्ति लेखन मंच के साथ मदद करते हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/quicklines)
+[More Information and Pricing](https://www.thataicollection.com/en/application/quicklines)
 
 <br />
 
 
 
----
 
 ### superReply
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-superreply.webp?twic=v1/resize=240" alt="superReply">
@@ -1921,13 +1811,12 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 जिस ईमेल रिस्पांस हैक का आप इंतजार कर रहे थे - स्क्रैच से लिखे बिना आसानी से अनुरूप प्रतिक्रियाओं के साथ प्रभावी उत्तर भेजें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/superreply)
+[More Information and Pricing](https://www.thataicollection.com/en/application/superreply)
 
 <br />
 
 <br />
 
----
 
 ### Rapidreply
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rapidreply.webp?twic=v1/resize=240" alt="Rapidreply">
@@ -1936,13 +1825,12 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 ईमेल लिखने के लिए दिन में 30 मिनट बचाएं
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/rapidreply)
+[More Information and Pricing](https://www.thataicollection.com/en/application/rapidreply)
 
 <br />
 
 <br />
 
----
 
 ### Recruiting Emails AI by Dover
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-recruiting-emails-ai-by-dover.webp?twic=v1/resize=240" alt="Recruiting Emails AI by Dover">
@@ -1951,13 +1839,12 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 AI और GPT-3 द्वारा संचालित अत्यधिक वैयक्तिकृत, रोमांचक कॉपी के साथ अपने कोल्ड ईमेल को बहुत गर्म बनाएं
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/recruiting-emails-ai-by-dover)
+[More Information and Pricing](https://www.thataicollection.com/en/application/recruiting-emails-ai-by-dover)
 
 <br />
 
 <br />
 
----
 
 ### Intellimail
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-intellimail.webp?twic=v1/resize=240" alt="Intellimail">
@@ -1966,18 +1853,17 @@ AI और GPT-3 द्वारा संचालित अत्यधिक �
 
 IntelliMail एक क्रोम एक्सटेंशन है जो आपके ईमेल जेनरेट करता है - इसलिए आपको दोबारा कभी भी ईमेल नहीं लिखना पड़ेगा।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/intellimail)
+[More Information and Pricing](https://www.thataicollection.com/en/application/intellimail)
 
 <br />
 
 <br />
+
+
+
+[See All 📧 ईमेल सहायक Applications on AI Collection](https://www.thataicollection.com/en/categories/email-assistant)
 
 ---
-
-
-[See All 📧 ईमेल सहायक Applications on AI Collection](https://www.thataicollection.com/hi/categories/email-assistant)
-
-___
 
 ## पहनावा
 
@@ -1990,13 +1876,12 @@ ___
 
 FashionAdvisor GPT3 पर आधारित एक AI है जो आपके फैशन संबंधी सभी सवालों का तुरंत मुफ्त में जवाब देगा
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/fashionadvisorai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/fashionadvisorai)
 
 <br />
 
 <br />
 
----
 
 ### Visualhound
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-visualhound.webp?twic=v1/resize=240" alt="Visualhound">
@@ -2005,13 +1890,12 @@ FashionAdvisor GPT3 पर आधारित एक AI है जो आपक�
 
 उत्पादन शुरू करने से पहले अपने उत्पाद के डिजाइन की कल्पना करें। अपने मूडबोर्ड को फीड करने और अपनी डिजाइन प्रक्रिया को बढ़ावा देने के लिए यथार्थवादी दिखने वाली उत्पाद छवियां बनाएं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/visualhound)
+[More Information and Pricing](https://www.thataicollection.com/en/application/visualhound)
 
 <br />
 
 
 
----
 
 ### SwagAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-swagai.webp?twic=v1/resize=240" alt="SwagAI">
@@ -2022,18 +1906,17 @@ AI द्वारा जेनरेट किया गया स्वैग�
 स्वागएआई - एआई ने टी-शर्ट पर छवियां बनाईं।
 जानवरों के संरक्षण और अवैध शिकार विरोधी संगठनों की हर बिक्री पर $1 जाता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/swagai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/swagai)
 
 <br />
 
 <br />
+
+
+
+[See All 👩‍🎤 पहनावा Applications on AI Collection](https://www.thataicollection.com/en/categories/fashion)
 
 ---
-
-
-[See All 👩‍🎤 पहनावा Applications on AI Collection](https://www.thataicollection.com/hi/categories/fashion)
-
-___
 
 ## आनंद
 
@@ -2046,13 +1929,12 @@ ___
 
 वर्ण कुछ भी हो सकते हैं। हमारी सफल एआई तकनीक आपके सभी विचारों को जीवंत कर सकती है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/characterai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/characterai)
 
 <br />
 
 <br />
 
----
 
 ### Ask RBG
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ask-rbg.webp?twic=v1/resize=240" alt="Ask RBG">
@@ -2061,13 +1943,12 @@ ___
 
 एक एआई प्रयोग: न्यायमूर्ति रूथ बेडर गिन्सबर्ग से किसी भी ऐसे प्रश्न के बारे में निर्णय लेने के लिए कहें, जिसे आप दिल से चाहते हैं। AI21 लैब्स से पहली AI ड्रॉप।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ask-rbg)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ask-rbg)
 
 <br />
 
 
 
----
 
 ### Philosophy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-philosophy.webp?twic=v1/resize=240" alt="Philosophy">
@@ -2076,13 +1957,12 @@ ___
 
 गहरे प्रश्न पूछें और विलियम शेक्सपियर, फ्रेडरिक नीत्शे, रेने डेसकार्टेस, सुकरात, कन्फ्यूशियस, अल-किंडी, बुद्ध से उत्तर प्राप्त करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/philosophy)
+[More Information and Pricing](https://www.thataicollection.com/en/application/philosophy)
 
 <br />
 
 <br />
 
----
 
 ### Botify
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-botify.webp?twic=v1/resize=240" alt="Botify">
@@ -2091,13 +1971,12 @@ ___
 
 अपने पसंदीदा पात्रों के साथ मजेदार चैट करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/botify)
+[More Information and Pricing](https://www.thataicollection.com/en/application/botify)
 
 <br />
 
 <br />
 
----
 
 ### StoriesForKids
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-storiesforkids.webp?twic=v1/resize=240" alt="StoriesForKids">
@@ -2106,13 +1985,12 @@ ___
 
 सेकंडों में वास्तविक जीवन की स्थितियों को मजेदार कहानियों और चित्रों में बदल दें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/storiesforkids)
+[More Information and Pricing](https://www.thataicollection.com/en/application/storiesforkids)
 
 <br />
 
 <br />
 
----
 
 ### Excuses AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-excuses-ai.webp?twic=v1/resize=240" alt="Excuses AI">
@@ -2121,13 +1999,12 @@ ___
 
 सही पेशेवर बहाना बनाने के लिए AI का उपयोग करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/excuses-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/excuses-ai)
 
 <br />
 
 <br />
 
----
 
 ### Askmybook
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-askmybook.webp?twic=v1/resize=240" alt="Askmybook">
@@ -2136,13 +2013,12 @@ ___
 
 यह मेरी पुस्तक की सामग्री को और अधिक सुलभ बनाने के लिए AI का उपयोग करने का एक प्रयोग है। एक प्रश्न पूछें और AI वास्तविक समय में इसका उत्तर देगा:
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/askmybook)
+[More Information and Pricing](https://www.thataicollection.com/en/application/askmybook)
 
 <br />
 
 <br />
 
----
 
 ### AI Pokemon generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-pokemon-generator.webp?twic=v1/resize=240" alt="AI Pokemon generator">
@@ -2151,13 +2027,12 @@ ___
 
 डिजाइन को निर्देशित करने के लिए सरल पाठ संकेतों का उपयोग करके अपने फेकमोन को पहले कभी नहीं बनाएं। एक उग्र, ड्रैगन जैसा प्राणी या एक प्यारा, घास वाला गड्ढा चाहते हैं? आपके पास शक्ति है! आज ही गोता लगाएँ, एक्सप्लोर करें और अपने सपनों का फेकमन बनाएं!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ai-pokemon-generator)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-pokemon-generator)
 
 <br />
 
 
 
----
 
 ### Silly Times
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-silly-times.webp?twic=v1/resize=240" alt="Silly Times">
@@ -2166,13 +2041,12 @@ ___
 
 ड्राइंग का मज़ा लें और देखें कि हम आपके ड्राइंग से क्या मूर्खतापूर्ण चीज़ बनाते हैं। जादू बस बटन दबाने की दूरी पर है!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/silly-times)
+[More Information and Pricing](https://www.thataicollection.com/en/application/silly-times)
 
 <br />
 
 <br />
 
----
 
 ### Blackink
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-blackink.webp?twic=v1/resize=240" alt="Blackink">
@@ -2181,18 +2055,17 @@ ___
 
 अपने अगले टैटू के लिए Pinterest को खोजने में महीनों खर्च करना बंद करें। BlackInk के AI के साथ सेकंड में कस्टम, अद्वितीय टैटू बनाएं, जिसे केवल आपके लिए टैटू जैसी डिज़ाइन बनाने के लिए डिज़ाइन किया गया है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/blackink)
+[More Information and Pricing](https://www.thataicollection.com/en/application/blackink)
 
 <br />
 
 
 
+
+
+[See All 🤪 आनंद Applications on AI Collection](https://www.thataicollection.com/en/categories/fun)
+
 ---
-
-
-[See All 🤪 आनंद Applications on AI Collection](https://www.thataicollection.com/hi/categories/fun)
-
-___
 
 ## जुआ
 
@@ -2205,13 +2078,12 @@ ___
 
 खेलों के लिए • मेटावर्स • वीआर • शिक्षा • टीवी और फिल्म • प्रकाशन और उससे आगे!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/charisma)
+[More Information and Pricing](https://www.thataicollection.com/en/application/charisma)
 
 <br />
 
 <br />
 
----
 
 ### hidden door
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hidden-door.webp?twic=v1/resize=240" alt="hidden door">
@@ -2220,13 +2092,12 @@ ___
 
 नैरेटिव एआई द्वारा संचालित एक नए प्रकार का सामाजिक रोलप्लेइंग अनुभव।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/hidden-door)
+[More Information and Pricing](https://www.thataicollection.com/en/application/hidden-door)
 
 <br />
 
 <br />
 
----
 
 ### latitude
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-latitude.webp?twic=v1/resize=240" alt="latitude">
@@ -2235,13 +2106,12 @@ ___
 
 हम एआई को सभी के लिए रचनात्मकता और स्वतंत्रता का साधन बना रहे हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/latitude)
+[More Information and Pricing](https://www.thataicollection.com/en/application/latitude)
 
 <br />
 
 <br />
 
----
 
 ### Chess AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chess-ai.webp?twic=v1/resize=240" alt="Chess AI">
@@ -2250,13 +2120,12 @@ ___
 
 बेटाफिश एक शतरंज इंजन और एआई मूव फाइंडर है जिसे नेगामैक्स एल्गोरिथम पर आधारित जावास्क्रिप्ट में लिखा गया है। यह लिचेस पर स्टॉकफिश लेवल 6 को हराता है, और मैं अनुमान लगाता हूं कि यह लगभग 1800-2000 एलो है, जो सोचने के समय पर निर्भर करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/chess-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/chess-ai)
 
 <br />
 
 
 
----
 
 ### GGPredict
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ggpredict.webp?twic=v1/resize=240" alt="GGPredict">
@@ -2265,13 +2134,12 @@ ___
 
 प्रतिदिन 30 मिनट से भी कम समय में एआई-जनित चुनौतियों की शक्ति के साथ अपना सीएस:जीओ कौशल बढ़ाएं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ggpredict)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ggpredict)
 
 <br />
 
 <br />
 
----
 
 ### Assetsai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-assetsai.webp?twic=v1/resize=240" alt="Assetsai">
@@ -2280,13 +2148,12 @@ ___
 
 अपने गेम डिजाइन और विकास में एआई की शक्ति को उजागर करें। अपने अगले गेम के निर्माण में प्रेरित करने और आपकी मदद करने के लिए ढेर सारी शैलियों में पहले से तैयार गेम एसेट्स प्राप्त करें!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/assetsai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/assetsai)
 
 <br />
 
 
 
----
 
 ### Scenario
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-scenario.webp?twic=v1/resize=240" alt="Scenario">
@@ -2295,13 +2162,12 @@ ___
 
 परिदृश्य के साथ एआई-जेनरेट की गई गेमिंग संपत्ति की शक्ति को अनलॉक करें। समय बचाने और रचनात्मकता को जगाने के लिए जल्दी और आसानी से आकर्षक सामग्री तैयार करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/scenario)
+[More Information and Pricing](https://www.thataicollection.com/en/application/scenario)
 
 <br />
 
 
 
----
 
 ### AI Dungeon
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-dungeon.webp?twic=v1/resize=240" alt="AI Dungeon">
@@ -2310,13 +2176,12 @@ ___
 
 अपना साहसिक चुनें। एक चरित्र, एक दुनिया और एक कहानी चुनें या बनाएं। एआई आपके अनूठे साहसिक कार्य के लिए विवरण भरता है: अन्य रचनाकारों द्वारा पूर्वनिर्धारित दुनिया से चुनें, त्वरित शुरुआत का उपयोग करके एक यादृच्छिक चुनें, या इसे स्वयं बनाएं!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ai-dungeon)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-dungeon)
 
 <br />
 
 
 
----
 
 ### IRMO
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-irmo.webp?twic=v1/resize=240" alt="IRMO">
@@ -2325,13 +2190,12 @@ ___
 
 मोबाइल मनोरंजन और एआई कला निर्माण के लिए आपका स्रोत
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/irmo)
+[More Information and Pricing](https://www.thataicollection.com/en/application/irmo)
 
 <br />
 
 <br />
 
----
 
 ### Rosebud AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rosebud-ai.webp?twic=v1/resize=240" alt="Rosebud AI">
@@ -2341,18 +2205,17 @@ ___
 अपने AI द्वारा संचालित एसेट सहयोगी की मदद से कॉन्सेप्ट करें और तेज़ी से बनाएँ।
 सृजन: प्रॉप्स, कैरेक्टर पोर्ट्रेट्स, आइसोमेट्रिक टाइलें, कैरेक्टर स्प्राइट्स, कॉन्सेप्ट आर्ट, पर्यावरण, जीयूआई, अनंत विविधताएँ और बहुत कुछ
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/rosebud-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/rosebud-ai)
 
 <br />
 
 
 
+
+
+[See All 🎮 जुआ Applications on AI Collection](https://www.thataicollection.com/en/categories/gaming)
+
 ---
-
-
-[See All 🎮 जुआ Applications on AI Collection](https://www.thataicollection.com/hi/categories/gaming)
-
-___
 
 ## उपहार योजना
 
@@ -2365,13 +2228,12 @@ ___
 
 सोशल मीडिया के लिए अनुकूलित AI का उपयोग करके किसी प्रियजन के लिए कस्टम उपहार बनाएं। एआई-जनित कविताएँ, कहानियाँ, पत्र और गीत के बोल।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/lovelines)
+[More Information and Pricing](https://www.thataicollection.com/en/application/lovelines)
 
 <br />
 
 <br />
 
----
 
 ### Text2present
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-text2present.webp?twic=v1/resize=240" alt="Text2present">
@@ -2380,13 +2242,12 @@ ___
 
 आपको अपना कीमती समय बर्बाद किए बिना अपने दोस्तों, परिवार और परिचितों के लिए कृत्रिम बुद्धिमत्ता का उपयोग करके रचनात्मक अनुकूलित उपहार बनाने की अनुमति देता है। बस आप जो उपहार देना चाहते हैं उसका टेक्स्ट विवरण दर्ज करें और बाकी काम हमारी आर्टिफिशियल इंटेलिजेंस को करने दें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/text2present)
+[More Information and Pricing](https://www.thataicollection.com/en/application/text2present)
 
 <br />
 
 
 
----
 
 ### Outdone V2
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-outdone-v2.webp?twic=v1/resize=240" alt="Outdone V2">
@@ -2395,13 +2256,12 @@ ___
 
 तनाव को बाहर निकालने के लिए बनाया गया है. गिफ्ट की खरीदारी का। वास्तविक उपभोक्ता डेटा और हमारी संपूर्ण समीक्षा प्रक्रिया द्वारा समर्थित, आउटडोन दुनिया के सैकड़ों सर्वश्रेष्ठ ब्रांडों को खरीदारी करने वालों के लिए एक त्वरित, उपयोग में आसान टूल के रूप में शानदार उपहार खोजने के लिए लाता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/outdone-v2)
+[More Information and Pricing](https://www.thataicollection.com/en/application/outdone-v2)
 
 <br />
 
 
 
----
 
 ### Gifts Genie
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gifts-genie.webp?twic=v1/resize=240" alt="Gifts Genie">
@@ -2410,13 +2270,12 @@ ___
 
 जिन्न में आपका स्वागत है! हमारा एआई-संचालित ऐप आपको अपने प्रियजनों के लिए अद्वितीय और विचारशील उपहार ढूंढने में मदद करता है। बस हमें उनकी रुचियों के बारे में कुछ विवरण प्रदान करें, और हम सही उपहार सुझाएंगे 🎁
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/gifts-genie)
+[More Information and Pricing](https://www.thataicollection.com/en/application/gifts-genie)
 
 <br />
 
 
 
----
 
 ### GiftBot
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-giftbot.webp?twic=v1/resize=240" alt="GiftBot">
@@ -2425,13 +2284,12 @@ ___
 
 छुट्टियों के लिए किसी को क्या लाना है, यह पता लगाने के लिए संघर्ष कर रहे हैं? उपहार विचारों की अनुशंसा करने में सहायता के लिए गिफ्टबॉट आपसे प्रश्न पूछता है!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/giftbot)
+[More Information and Pricing](https://www.thataicollection.com/en/application/giftbot)
 
 <br />
 
 
 
----
 
 ### Giftastic AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-giftastic-ai.webp?twic=v1/resize=240" alt="Giftastic AI">
@@ -2440,13 +2298,12 @@ ___
 
 हर अवसर के लिए निजीकृत उपहार विचार!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/giftastic-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/giftastic-ai)
 
 <br />
 
 <br />
 
----
 
 ### Gift Genie
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gift-genie.webp?twic=v1/resize=240" alt="Gift Genie">
@@ -2455,13 +2312,12 @@ ___
 
 गिफ्ट जिनी एआई एक एआई-पावर्ड है जो आपको एआई के साथ सेकंड में मुफ्त में सही उपहार खोजने की अनुमति देता है। अपने प्राप्तकर्ता का एक संक्षिप्त विवरण लिखें, और उपहारों की एक सूची प्राप्त करें जो हमारे एआई जीनी का मानना है कि उन्हें प्रसन्न करेगा।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/gift-genie)
+[More Information and Pricing](https://www.thataicollection.com/en/application/gift-genie)
 
 <br />
 
 
 
----
 
 ### Elf Help
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elf-help.webp?twic=v1/resize=240" alt="Elf Help">
@@ -2470,13 +2326,12 @@ ___
 
 अपने हॉलिडे गिफ्टिंग के लिए कुछ निरीक्षण चाहिए? Elf help आपका अंतिम उपहार देने वाला सहायक है, जो आपकी सूची में सभी के लिए रचनात्मक और व्यक्तिगत सुझाव प्रदान करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/elf-help)
+[More Information and Pricing](https://www.thataicollection.com/en/application/elf-help)
 
 <br />
 
 
 
----
 
 ### CoolGiftIdeas
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-coolgiftideas.webp?twic=v1/resize=240" alt="CoolGiftIdeas">
@@ -2485,13 +2340,12 @@ ___
 
 उत्तम उपहार दें! किसी भी व्यक्ति की पहचान के आधार पर उसके लिए रचनात्मक उपहार विचारों की खोज करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/coolgiftideas)
+[More Information and Pricing](https://www.thataicollection.com/en/application/coolgiftideas)
 
 <br />
 
 <br />
 
----
 
 ### AI Holiday Cards
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-holiday-cards.webp?twic=v1/resize=240" alt="AI Holiday Cards">
@@ -2500,18 +2354,17 @@ ___
 
 कपल्स के लिए AI हॉलिडे फोटोरियलिस्टिक कार्ड बनाने के लिए AI इंजन
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ai-holiday-cards)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-holiday-cards)
 
 <br />
 
 <br />
+
+
+
+[See All 🎁💡 उपहार योजना Applications on AI Collection](https://www.thataicollection.com/en/categories/gift-ideas)
 
 ---
-
-
-[See All 🎁💡 उपहार योजना Applications on AI Collection](https://www.thataicollection.com/hi/categories/gift-ideas)
-
-___
 
 ## स्वास्थ्य देखभाल
 
@@ -2524,13 +2377,12 @@ ___
 
 हमेशा यहां सुनने और बात करने के लिए। हमेशा अपनी तरफ रहो। उनके एआई मित्रों के साथ बढ़ रहे लाखों लोगों से अभी जुड़ें!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/replika)
+[More Information and Pricing](https://www.thataicollection.com/en/application/replika)
 
 <br />
 
 <br />
 
----
 
 ### Getactyv
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-getactyv.webp?twic=v1/resize=240" alt="Getactyv">
@@ -2539,13 +2391,12 @@ ___
 
 GetActyv का AI-आधारित पर्सनल ट्रेनर आपकी फिटनेस यात्रा में क्रांति लाने के लिए यहां है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/getactyv)
+[More Information and Pricing](https://www.thataicollection.com/en/application/getactyv)
 
 <br />
 
 <br />
 
----
 
 ### Ubie AI Symptom Checker
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ubie-ai-symptom-checker.webp?twic=v1/resize=240" alt="Ubie AI Symptom Checker">
@@ -2554,18 +2405,17 @@ GetActyv का AI-आधारित पर्सनल ट्रेनर आ�
 
 एआई द्वारा लक्षणों की जांच करें और कारणों का पता लगाएं - एआई द्वारा संभावित कारणों, प्रकारों, गंभीरता और उपचार का पता लगाने के लिए अपने लक्षणों के बारे में प्रश्नोत्तरी का उत्तर दें। डॉक्टरों द्वारा विकसित
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ubie-ai-symptom-checker)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ubie-ai-symptom-checker)
 
 <br />
 
 
 
+
+
+[See All 👩‍⚕️ स्वास्थ्य देखभाल Applications on AI Collection](https://www.thataicollection.com/en/categories/healthcare)
+
 ---
-
-
-[See All 👩‍⚕️ स्वास्थ्य देखभाल Applications on AI Collection](https://www.thataicollection.com/hi/categories/healthcare)
-
-___
 
 ## मानव संसाधन और फिर से शुरू
 
@@ -2578,13 +2428,12 @@ ___
 
 Rezi एकमात्र रिज्यूमे प्लेटफॉर्म है जो किराए पर लेने योग्य रिज्यूमे बनाने के हर पहलू को स्वचालित करने के लिए प्रमुख AI का उपयोग करता है - लेखन, संपादन, स्वरूपण और अनुकूलन।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ai-resume-editor)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-resume-editor)
 
 <br />
 
 
 
----
 
 ### Prodigy AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prodigy-ai.webp?twic=v1/resize=240" alt="Prodigy AI">
@@ -2593,13 +2442,12 @@ Rezi एकमात्र रिज्यूमे प्लेटफॉर्�
 
 हम सॉफ्टवेयर इंजीनियरों को बेहतर करियर बनाने में मदद करने वाले टूल बनाने के लिए नवीनतम एआई का उपयोग करने के मिशन पर हैं। हमारे एआई उपकरण 100% निःशुल्क हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/prodigy-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/prodigy-ai)
 
 <br />
 
 
 
----
 
 ### rankode
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rankode.webp?twic=v1/resize=240" alt="rankode">
@@ -2608,13 +2456,12 @@ Rezi एकमात्र रिज्यूमे प्लेटफॉर्�
 
 भर्तीकर्ता, उम्मीदवार के प्रोग्रामिंग कौशल के बारे में आपको जो कुछ भी जानने की आवश्यकता है, वह उनके GitHub में है। हायरिंग की महंगी गलतियों से बचने और अपने रिटेंशन को सुपरबूस्ट करने के लिए रैंककोड के साथ स्वचालित रूप से उनका मूल्यांकन करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/rankode)
+[More Information and Pricing](https://www.thataicollection.com/en/application/rankode)
 
 <br />
 
 
 
----
 
 ### LazyApply
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lazyapply.webp?twic=v1/resize=240" alt="LazyApply">
@@ -2623,13 +2470,12 @@ Rezi एकमात्र रिज्यूमे प्लेटफॉर्�
 
 हम स्वचालित रूप से Linkedin, Fed और Ziprecruiter जैसे प्लेटफॉर्म पर सभी नौकरियों के लिए आवेदन करते हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/lazyapply)
+[More Information and Pricing](https://www.thataicollection.com/en/application/lazyapply)
 
 <br />
 
 <br />
 
----
 
 ### Coverquick
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-coverquick.webp?twic=v1/resize=240" alt="Coverquick">
@@ -2639,13 +2485,12 @@ Rezi एकमात्र रिज्यूमे प्लेटफॉर्�
 CoverQuick आसानी से कंटेंट बनाने और प्रबंधन के लिए एक क्रांतिकारी मंच है। एआई जो तुम्हारे डेटा से सीखता है।
 तुम्हारे सभी दस्तावेज़ों और संसाधनों को अपलोड करके, हमारा प्लैटफ़ॉर्म तुम्हारी जानकारी से सीख सकता है, जिससे तुम वैयक्तिकृत सामग्री बना सकते हो।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/coverquick)
+[More Information and Pricing](https://www.thataicollection.com/en/application/coverquick)
 
 <br />
 
 
 
----
 
 ### HireYaY
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hireyay.webp?twic=v1/resize=240" alt="HireYaY">
@@ -2654,13 +2499,12 @@ CoverQuick आसानी से कंटेंट बनाने और प�
 
 92% नौकरी चाहने वाले अपना ऑनलाइन आवेदन पूरा नहीं करते हैं। HireYaY के साथ, आप एक योग्य उम्मीदवार को फिर कभी नहीं चूकेंगे।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/hireyay)
+[More Information and Pricing](https://www.thataicollection.com/en/application/hireyay)
 
 <br />
 
 <br />
 
----
 
 ### JD Generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jd-generator.webp?twic=v1/resize=240" alt="JD Generator">
@@ -2669,13 +2513,12 @@ CoverQuick आसानी से कंटेंट बनाने और प�
 
 HireQuotients Skill Assessment Platform आपको आधे समय में प्रतिभा पूल के शीर्ष 10% को किराए पर लेने में मदद करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/jd-generator)
+[More Information and Pricing](https://www.thataicollection.com/en/application/jd-generator)
 
 <br />
 
 <br />
 
----
 
 ### Hire Hoc
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hire-hoc.webp?twic=v1/resize=240" alt="Hire Hoc">
@@ -2684,13 +2527,12 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 एआई-असिस्टेड भर्ती की शक्ति के साथ अपने संगठन को बदलें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/hire-hoc)
+[More Information and Pricing](https://www.thataicollection.com/en/application/hire-hoc)
 
 <br />
 
 <br />
 
----
 
 ### Hirex.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hirex.ai.webp?twic=v1/resize=240" alt="Hirex.ai">
@@ -2699,13 +2541,12 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 वॉयस-आधारित बॉट बनाने के लिए एक नो-कोड एआई प्लेटफॉर्म, हायरेक्स.एआई में आपका स्वागत है जो बड़े पैमाने पर साक्षात्कार आयोजित करता है और स्कोर करता है। कोडिंग इंटरव्यू, एमसीक्यू टेस्ट, हैकाथॉन, वीडियो इंटरव्यू और व्हाट्सएप चैटबॉट जैसे असेसमेंट टूल का पूरा सूट एक ही डैशबोर्ड में पाएं
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/hirex.ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/hirex.ai)
 
 <br />
 
 
 
----
 
 ### springworks
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-springworks.webp?twic=v1/resize=240" alt="springworks">
@@ -2714,18 +2555,17 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 स्प्रिंगवर्क्स ब्लॉकचेन और एआई के साथ भर्ती, पृष्ठभूमि सत्यापन और कर्मचारी जुड़ाव में चुनौतियों को हल करने के लिए मानव संसाधन सॉफ्टवेयर समाधान बनाता है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/springworks)
+[More Information and Pricing](https://www.thataicollection.com/en/application/springworks)
 
 <br />
 
 
 
+
+
+[See All 👩‍💼 मानव संसाधन और फिर से शुरू Applications on AI Collection](https://www.thataicollection.com/en/categories/human-resources-and-resume)
+
 ---
-
-
-[See All 👩‍💼 मानव संसाधन और फिर से शुरू Applications on AI Collection](https://www.thataicollection.com/hi/categories/human-resources-and-resume)
-
-___
 
 ## आईडिया जनरेशन
 
@@ -2738,13 +2578,12 @@ ___
 
 अपना स्टार्टअप आइडिया डालें और हमारे AI स्टार्टअप मेंटर इसका मुफ़्त में विश्लेषण करेंगे। तुम हमारे AI मेंटर चैटबॉट से जितना चाहें बात कर सकते हो और स्टार्टअप शुरू करने के बारे में तुम्हेंं जो कुछ भी जानने की ज़रूरत हो उसे सीख सकते हो!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/validator-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/validator-ai)
 
 <br />
 
 
 
----
 
 ### Paperade
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paperade.webp?twic=v1/resize=240" alt="Paperade">
@@ -2753,13 +2592,12 @@ ___
 
 पेपरेड पहला एआई-संचालित उपकरण है जो 100 मिलियन से अधिक अकादमिक पत्रों और शोध अध्ययनों से व्यावसायिक उपयोग के मामलों और कंपनी के विचारों को उत्पन्न करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/paperade)
+[More Information and Pricing](https://www.thataicollection.com/en/application/paperade)
 
 <br />
 
 
 
----
 
 ### Business Idea Generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-business-idea-generator.webp?twic=v1/resize=240" alt="Business Idea Generator">
@@ -2768,13 +2606,12 @@ ___
 
 एआई की शक्ति के साथ सेकेंडों में वैयक्तिकृत व्यावसायिक विचार प्राप्त करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/business-idea-generator)
+[More Information and Pricing](https://www.thataicollection.com/en/application/business-idea-generator)
 
 <br />
 
 <br />
 
----
 
 ### Ideasai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ideasai.webp?twic=v1/resize=240" alt="Ideasai">
@@ -2783,13 +2620,12 @@ ___
 
 ऐसे विचार जो 100% OpenAI के GPT-3 द्वारा तैयार किए गए हैं, जो कृत्रिम रूप से इंटेलिजेंट डीप लर्निंग मॉडल है, बिना मानवीय भागीदारी के, और तुम्हेंं और 1,856,031+ अन्य लोगों द्वारा प्रशिक्षित किया गया है, जिन्हें विचार पसंद या नापसंद हैं
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ideasai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ideasai)
 
 <br />
 
 
 
----
 
 ### Videomuse
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-videomuse.webp?twic=v1/resize=240" alt="Videomuse">
@@ -2798,13 +2634,12 @@ ___
 
 सामग्री निर्माता के रूप में, हम सभी ऐसे क्षणों का सामना करते हैं जब हमारे विचारों का कुआँ सूख जाता है। यह वेबसाइट आपके वर्तमान अपलोड के आधार पर विचारों पर मंथन करने में आपकी मदद करेगी। आप बस इसे अपने चैनल (या किसी भी चैनल) का लिंक दें और जादू होने दें। प्रत्येक विचार के लिए, आप कुछ विवरण भी उत्पन्न कर सकते हैं - वीडियो कवर क्या होना चाहिए, वीडियो संरचना के बारे में संकेत आदि।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/videomuse)
+[More Information and Pricing](https://www.thataicollection.com/en/application/videomuse)
 
 <br />
 
 
 
----
 
 ### My Spicy Vanilla
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-my-spicy-vanilla.webp?twic=v1/resize=240" alt="My Spicy Vanilla">
@@ -2817,18 +2652,17 @@ ___
 
 सबमिट करने के बाद, हमारा AI तारीख के लिए खास जानकारी तैयार करता है, जिसमें अनुभव को बेहतर बनाने के लिए उपयोगी टिप्स, प्रॉडक्ट के सुझाव दिए गए हैं
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/my-spicy-vanilla)
+[More Information and Pricing](https://www.thataicollection.com/en/application/my-spicy-vanilla)
 
 <br />
 
 
 
+
+
+[See All 💡 आईडिया जनरेशन Applications on AI Collection](https://www.thataicollection.com/en/categories/idea-generation)
+
 ---
-
-
-[See All 💡 आईडिया जनरेशन Applications on AI Collection](https://www.thataicollection.com/hi/categories/idea-generation)
-
-___
 
 ## कानूनी
 
@@ -2841,13 +2675,12 @@ ___
 
 एआई संचालित कानूनी अनुसंधान और सारांश।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/paralegal-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/paralegal-ai)
 
 <br />
 
 <br />
 
----
 
 ### Compliance Quarter
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-compliance-quarter.webp?twic=v1/resize=240" alt="Compliance Quarter">
@@ -2856,13 +2689,12 @@ ___
 
 ऊर्जा, वित्तीय सेवाओं और अन्य विनियमित उद्योगों के लिए विनियामक अनुपालन प्रबंधन प्रणाली और विशेषज्ञता। हम तुम्हारे कंधों से विनियामक का बोझ उठाने के लिए विशेषज्ञ सिस्टम और सेवाएँ देते हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/compliance-quarter)
+[More Information and Pricing](https://www.thataicollection.com/en/application/compliance-quarter)
 
 <br />
 
 
 
----
 
 ### Equally.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-equally.ai.webp?twic=v1/resize=240" alt="Equally.ai">
@@ -2871,13 +2703,12 @@ ___
 
 आसानी से एडीए और डब्लुसीएजी अनुपालन प्राप्त करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/equally.ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/equally.ai)
 
 <br />
 
 <br />
 
----
 
 ### DoNotPay
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-donotpay.webp?twic=v1/resize=240" alt="DoNotPay">
@@ -2886,13 +2717,12 @@ ___
 
 कानूनी जानकारी को सभी के लिए सुलभ बनाने के लिए AI का उपयोग करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/donotpay)
+[More Information and Pricing](https://www.thataicollection.com/en/application/donotpay)
 
 <br />
 
 <br />
 
----
 
 ### PatentPal
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-patentpal.webp?twic=v1/resize=240" alt="PatentPal">
@@ -2901,13 +2731,12 @@ ___
 
 अपने पेटेंट आवेदनों में यांत्रिक लेखन को स्वचालित करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/patentpal)
+[More Information and Pricing](https://www.thataicollection.com/en/application/patentpal)
 
 <br />
 
 <br />
 
----
 
 ### Spellbook
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-spellbook.webp?twic=v1/resize=240" alt="Spellbook">
@@ -2916,18 +2745,17 @@ ___
 
 स्पेलबुक सीधे Microsoft Word में आपके अनुबंधों की समीक्षा करने और भाषा का सुझाव देने के लिए GPT-3 का उपयोग करती है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/spellbook)
+[More Information and Pricing](https://www.thataicollection.com/en/application/spellbook)
 
 <br />
 
 <br />
+
+
+
+[See All 👩‍⚖️ कानूनी Applications on AI Collection](https://www.thataicollection.com/en/categories/legal)
 
 ---
-
-
-[See All 👩‍⚖️ कानूनी Applications on AI Collection](https://www.thataicollection.com/hi/categories/legal)
-
-___
 
 ## लोगो जनरेटर
 
@@ -2940,13 +2768,12 @@ ___
 
 एक लोगो बनाएं और एक ब्रांड बनाएं जिसे आप लुका से प्यार करते हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/looka)
+[More Information and Pricing](https://www.thataicollection.com/en/application/looka)
 
 <br />
 
 <br />
 
----
 
 ### Text To Book Cover
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-text-to-book-cover.webp?twic=v1/resize=240" alt="Text To Book Cover">
@@ -2955,13 +2782,12 @@ ___
 
 टीमों के लिए एआई छवि निर्माण - आप आसानी से एआई लोगो, एआई बुक कवर, एआई पोस्टर और बहुत कुछ उत्पन्न कर सकते हैं - स्टॉकिमग एआई
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/text-to-book-cover)
+[More Information and Pricing](https://www.thataicollection.com/en/application/text-to-book-cover)
 
 <br />
 
 <br />
 
----
 
 ### Make Logo AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-make-logo-ai.webp?twic=v1/resize=240" alt="Make Logo AI">
@@ -2970,13 +2796,12 @@ ___
 
 आर्टिफिशियल इंटेलिजेंस द्वारा संचालित, अपने स्टार्टअप के लिए सुंदर और अद्वितीय लोगो उत्पन्न करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/make-logo-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/make-logo-ai)
 
 <br />
 
 <br />
 
----
 
 ### Logo Rank
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-logo-rank.webp?twic=v1/resize=240" alt="Logo Rank">
@@ -2986,13 +2811,12 @@ ___
 अपने व्यवसाय के लिए एक अनोखा, पेशेवर लोगो बनाएं
 बिज़नेस कार्ड डिज़ाइन, सोशल मीडिया ग्राफ़िक्स, ऐप आइकन, लेटर हेड्स वगैरह के साथ अपने ब्रांड की शुरुआत करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/logo-rank)
+[More Information and Pricing](https://www.thataicollection.com/en/application/logo-rank)
 
 <br />
 
 
 
----
 
 ### 123123123
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-123123123.webp?twic=v1/resize=240" alt="123123123">
@@ -3001,18 +2825,17 @@ ___
 
 None
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/123123123)
+[More Information and Pricing](https://www.thataicollection.com/en/application/123123123)
 
 <br />
 
 <br />
+
+
+
+[See All ⚜️ लोगो जनरेटर Applications on AI Collection](https://www.thataicollection.com/en/categories/logo-generator)
 
 ---
-
-
-[See All ⚜️ लोगो जनरेटर Applications on AI Collection](https://www.thataicollection.com/hi/categories/logo-generator)
-
-___
 
 ## बैठक सहायक
 
@@ -3027,13 +2850,12 @@ ___
 Fireflies.ai तुम्हारी टीम को वॉइस वार्तालापों को रिकॉर्ड करने, ट्रांसक्रिप्ट करने, खोजने और उनका विश्लेषण करने में मदद करता है। मीटिंग्स को अपने-आप रिकॉर्ड करें और ट्रांसक्रिप्ट करें, AI-संचालित खोज से कुछ भी ढूंढें, अपने सहकर्मियों के साथ सहयोग करें, बातचीत की बुद्धिमत्ता का इस्तेमाल करके मीटिंग्स का विश्लेषण करें
 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/fireflies)
+[More Information and Pricing](https://www.thataicollection.com/en/application/fireflies)
 
 <br />
 
 
 
----
 
 ### Jamie
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jamie.webp?twic=v1/resize=240" alt="Jamie">
@@ -3042,13 +2864,12 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 जैमी एक AI असिस्टेंट है, जो बिज़नेस राइटिंग क्वालिटी में मीटिंग्स का सारांश कुछ ही सेकंड में तैयार कर देता है। अभी कोशिश करो और ख़ुद को जादुई अनुभव के बारे में समझाओ।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/jamie)
+[More Information and Pricing](https://www.thataicollection.com/en/application/jamie)
 
 <br />
 
 
 
----
 
 ### Supernormal
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-supernormal.webp?twic=v1/resize=240" alt="Supernormal">
@@ -3059,13 +2880,12 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 सुपरनॉर्मल ने तुम्हेंं कवर किया है।
 सुपरनॉर्मल सुरक्षित AI का इस्तेमाल करके, अलग-अलग इस्तेमाल के सभी मामलों में, तुम्हारी मीटिंग के दौरान नोट्स लेता है और उन्हें अपने-आप फ़ॉर्मेट करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/supernormal)
+[More Information and Pricing](https://www.thataicollection.com/en/application/supernormal)
 
 <br />
 
 
 
----
 
 ### Wudpecker
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wudpecker.webp?twic=v1/resize=240" alt="Wudpecker">
@@ -3081,13 +2901,12 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 - उपयोगकर्ताओं को आसानी से रिकॉर्डिंग साझा करने की अनुमति देता है, जिससे सहयोग करना आसान हो जाता है
 - उपयोगकर्ता के अनुकूल और जहाज पर आसान
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/wudpecker)
+[More Information and Pricing](https://www.thataicollection.com/en/application/wudpecker)
 
 <br />
 
 
 
----
 
 ### Avoma
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-avoma.webp?twic=v1/resize=240" alt="Avoma">
@@ -3096,13 +2915,12 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 प्रमुख AI मीटिंग असिस्टेंट और रेवेन्यू इंटेलिजेंस समाधान। सभी एक ही जगह पर, हर जगह नहीं। AI मीटिंग असिस्टेंट - बातचीत पर ध्यान देने के लिए ट्रांसक्रिप्ट और AI नोट्स लें। मीटिंग में सहयोग - बेहतर संरेखण के लिए क्रॉस-फ़ंक्शनल टीमों के साथ सहयोग करें। बातचीत और राजस्व से जुड़ी जानकारी - डेटा-आधारित निर्णयों और कोचिंग के लिए महत्वपूर्ण जानकारी सीखें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/avoma)
+[More Information and Pricing](https://www.thataicollection.com/en/application/avoma)
 
 <br />
 
 
 
----
 
 ### Fathom
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fathom.webp?twic=v1/resize=240" alt="Fathom">
@@ -3112,13 +2930,12 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 फ़ैदम तुम्हारी मीटिंग्स को रिकॉर्ड करता है, ट्रांसक्रिप्ट करता है, हाइलाइट्स बनाता है और उन्हें सारांशित करता है ताकि तुम बातचीत पर ध्यान केंद्रित कर सको। मिनटों में सेटअप हो जाओ।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/fathom)
+[More Information and Pricing](https://www.thataicollection.com/en/application/fathom)
 
 <br />
 
 
 
----
 
 ### Otter
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-otter.webp?twic=v1/resize=240" alt="Otter">
@@ -3127,13 +2944,12 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 एक AI मीटिंग असिस्टेंट लें, जो ऑडियो रिकॉर्ड करता हो, नोट्स लिखता हो, एक्शन आइटम कैप्चर करता हो और सारांश तैयार करता हो। नोट्स लिखें और मीटिंग्स को 30 गुना तेज़ी से सारांशित करें, स्वचालित मीटिंग नोट्स के साथ समय बचाएं। तुरंत जवाब पाओ, सबको लाइव सारांश के साथ जोड़े रखो।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/otter)
+[More Information and Pricing](https://www.thataicollection.com/en/application/otter)
 
 <br />
 
 
 
----
 
 ### tl;dv
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tl;dv.webp?twic=v1/resize=240" alt="tl;dv">
@@ -3142,13 +2958,12 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 मीटिंग रिकॉर्डर जो ग्राहकों, संभावित लोगों और तुम्हारी टीम के साथ तुम्हारे कॉल को ट्रांसक्रिप्ट करता है और उसका सारांश देता है। ज़ूम और Google मीट को अपने-आप रिकॉर्ड करें और ट्रांसक्रिप्ट करें, ज़ूम और Google मीट को अपने-आप रिकॉर्ड करें और ट्रांसक्रिप्ट करें, बातचीत पर ध्यान दें। AI तुम्हारे नोट्स लेगा, छोटे आकार के ग्राहक क्लिप के साथ एक शक्तिशाली कहानी सुनाएगा।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/tl;dv)
+[More Information and Pricing](https://www.thataicollection.com/en/application/tl;dv)
 
 <br />
 
 
 
----
 
 ### Sembly AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sembly-ai.webp?twic=v1/resize=240" alt="Sembly AI">
@@ -3158,18 +2973,17 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 सेम्बली ट्रांसक्रिप्ट करती है, मीटिंग नोट्स लेती है और तुम्हारी पेशेवर मीटिंग्स के लिए जानकारी तैयार करती है।
 अपनी सभी मीटिंग्स को उपयोगी बनाएं: हर मीटिंग के लिए मीटिंग नोट्स, किसी भी समय पिछली मीटिंग ढूँढें, अपनी पिछली मीटिंग्स को याद करें, AI मीटिंग के सारांश का आनंद लें, बिना रुके सूचित रहें, अपने फ़ॉलो-अप स्वचालित करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/sembly-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/sembly-ai)
 
 <br />
 
 
 
+
+
+[See All 👨‍💻 बैठक सहायक Applications on AI Collection](https://www.thataicollection.com/en/categories/meeting-assistant)
+
 ---
-
-
-[See All 👨‍💻 बैठक सहायक Applications on AI Collection](https://www.thataicollection.com/hi/categories/meeting-assistant)
-
-___
 
 ## संगीत और ऑडियो पीढ़ी
 
@@ -3182,13 +2996,12 @@ ___
 
 अंतहीन ड्रम नमूने उत्पन्न करने के लिए हमारे सफलता प्लगइन का उपयोग करें, सभी रॉयल्टी-मुक्त
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/emergent-drums)
+[More Information and Pricing](https://www.thataicollection.com/en/application/emergent-drums)
 
 <br />
 
 <br />
 
----
 
 ### LALAL.AI Voice Cleaner
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lalal.ai-voice-cleaner.webp?twic=v1/resize=240" alt="LALAL.AI Voice Cleaner">
@@ -3197,13 +3010,12 @@ ___
 
 दुनिया की #1 एआई-संचालित तकनीक पर आधारित उच्च गुणवत्ता वाला स्टेम स्प्लिटिंग।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/lalal.ai-voice-cleaner)
+[More Information and Pricing](https://www.thataicollection.com/en/application/lalal.ai-voice-cleaner)
 
 <br />
 
 <br />
 
----
 
 ### Adobe Podcast
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-podcast.webp?twic=v1/resize=240" alt="Adobe Podcast">
@@ -3212,13 +3024,12 @@ ___
 
 कहानियों वाले लोगों के लिए एक ऑडियो टूल
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/adobe-podcast)
+[More Information and Pricing](https://www.thataicollection.com/en/application/adobe-podcast)
 
 <br />
 
 <br />
 
----
 
 ### Adobe Mic Check
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-mic-check.webp?twic=v1/resize=240" alt="Adobe Mic Check">
@@ -3228,13 +3039,12 @@ ___
 अपने माइक्रोफ़ोन सेटअप को बेहतर बनाने के बारे में सलाह लें। ठीक है, पक्का कर लो कि तुम पॉडकास्ट के लिए तैयार हो।
 भाषण बेहतर बनाएं - वॉइस रिकॉर्डिंग से शोर और गूंज हटाएँ। माइक चेक - रिकॉर्ड करने से पहले माइक्रोफ़ोन की समस्याओं को ठीक करें। स्टूडियो - अपने ब्राउज़र में रिकॉर्ड करें, एडिट करें और बेहतर बनाएं
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/adobe-mic-check)
+[More Information and Pricing](https://www.thataicollection.com/en/application/adobe-mic-check)
 
 <br />
 
 
 
----
 
 ### Krisp
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-krisp.webp?twic=v1/resize=240" alt="Krisp">
@@ -3243,13 +3053,12 @@ ___
 
 क्रिस्प्स एआई आपके सभी कॉलों से पृष्ठभूमि की आवाज़, शोर और प्रतिध्वनि को हटा देता है, जिससे आपको मानसिक शांति मिलती है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/krisp)
+[More Information and Pricing](https://www.thataicollection.com/en/application/krisp)
 
 <br />
 
 <br />
 
----
 
 ### Aiva
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aiva.webp?twic=v1/resize=240" alt="Aiva">
@@ -3259,13 +3068,12 @@ ___
 रचनात्मक लोगों के लिए एक रचनात्मक सहायक
 चाहे आप एक स्वतंत्र गेम डेवलपर हों, संगीत में पूर्ण नौसिखिया हों, या एक अनुभवी पेशेवर संगीतकार हों, AIVA आपकी रचनात्मक प्रक्रिया में आपकी सहायता करता है। एआई-जनित संगीत की शक्ति का लाभ उठाकर, अपनी परियोजनाओं के लिए पहले से कहीं अधिक तेजी से सम्मोहक थीम बनाएं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/aiva)
+[More Information and Pricing](https://www.thataicollection.com/en/application/aiva)
 
 <br />
 
 
 
----
 
 ### Boomy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-boomy.webp?twic=v1/resize=240" alt="Boomy">
@@ -3277,13 +3085,12 @@ ___
 🌐 अपने गाने स्ट्रीमिंग प्लेटफॉर्म पर सबमिट करें और जब लोग सुनें तो भुगतान पाएं
 💜 जनरेटिव संगीत से सशक्त कलाकारों के वैश्विक समुदाय में शामिल हों
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/boomy)
+[More Information and Pricing](https://www.thataicollection.com/en/application/boomy)
 
 <br />
 
 
 
----
 
 ### Clip audio
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-clip-audio.webp?twic=v1/resize=240" alt="Clip audio">
@@ -3292,13 +3099,12 @@ ___
 
 ऑडियो सर्च इंजन
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/clip-audio)
+[More Information and Pricing](https://www.thataicollection.com/en/application/clip-audio)
 
 <br />
 
 <br />
 
----
 
 ### Splash
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-splash.webp?twic=v1/resize=240" alt="Splash">
@@ -3307,13 +3113,12 @@ ___
 
 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/splash)
+[More Information and Pricing](https://www.thataicollection.com/en/application/splash)
 
 <br />
 
 <br />
 
----
 
 ### Dadabots
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dadabots--.webp?twic=v1/resize=240" alt="Dadabots">
@@ -3323,18 +3128,17 @@ ___
 डैडबॉट्स - हम रॉ ऑडियो न्यूरल नेटवर्क बनाते हैं जो बैंड की नकल कर सकते हैं
 हम एक बैंड, एक हैकाथॉन टीम और एक अल्पकालिक शोध प्रयोगशाला के बीच का अंतर हैं। हम संगीतकार हैं जो गणित के बहकावे में आ जाते हैं। हम विज्ञान करते हैं, हम सॉफ़्टवेयर इंजीनियर करते हैं, हम संगीत बनाते हैं। सभी एक प्रोजेक्ट में हैं। 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/dadabots--)
+[More Information and Pricing](https://www.thataicollection.com/en/application/dadabots--)
 
 <br />
 
 
 
+
+
+[See All 🎼 संगीत और ऑडियो पीढ़ी Applications on AI Collection](https://www.thataicollection.com/en/categories/music-and-audio-generation)
+
 ---
-
-
-[See All 🎼 संगीत और ऑडियो पीढ़ी Applications on AI Collection](https://www.thataicollection.com/hi/categories/music-and-audio-generation)
-
-___
 
 ## संगठन और स्वचालन
 
@@ -3347,13 +3151,12 @@ ___
 
 दृश्य, सामग्री, स्रोत कोड, प्रौद्योगिकी, उपलब्धता, या मूल्य परिवर्तन के लिए किसी भी वेबसाइट की निगरानी करने के लिए हेक्सोवॉच आपका एआई साइडकिक है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/hexowatch)
+[More Information and Pricing](https://www.thataicollection.com/en/application/hexowatch)
 
 <br />
 
 <br />
 
----
 
 ### mem
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-mem.webp?twic=v1/resize=240" alt="mem">
@@ -3362,13 +3165,12 @@ ___
 
 मेम दुनिया का पहला एआई-संचालित कार्यक्षेत्र है जो आपके लिए वैयक्तिकृत है। अपनी रचनात्मकता को बढ़ाएँ, सांसारिक को स्वचालित करें, और स्वचालित रूप से व्यवस्थित रहें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/mem)
+[More Information and Pricing](https://www.thataicollection.com/en/application/mem)
 
 <br />
 
 
 
----
 
 ### bardeen
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-bardeen.webp?twic=v1/resize=240" alt="bardeen">
@@ -3377,13 +3179,12 @@ ___
 
 2023 में आ रहा है - बारडीन मैनुअल वर्कफ्लो को स्वचालित करने, आपका समय बचाने और आपकी रचनात्मकता को सशक्त बनाने के लिए ब्रेकथ्रू एआई पेश कर रहा है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/bardeen)
+[More Information and Pricing](https://www.thataicollection.com/en/application/bardeen)
 
 <br />
 
 <br />
 
----
 
 ### AutoPredict
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-autopredict.webp?twic=v1/resize=240" alt="AutoPredict">
@@ -3392,13 +3193,12 @@ ___
 
 AutoPredict वह पहला ऐप है जो आर्टिफिशियल इंटेलिजेंस का इस्तेमाल करके यह पता लगाता है कि कार कितनी देर तक चलेगी। 100 मिलियन से ज़्यादा डेटा पॉइंट का विश्लेषण करने पर AutoPredict तुम्हारी कार की जिंदगी का सटीक अनुमान लगाता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/autopredict)
+[More Information and Pricing](https://www.thataicollection.com/en/application/autopredict)
 
 <br />
 
 
 
----
 
 ### Looti
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-looti.webp?twic=v1/resize=240" alt="Looti">
@@ -3408,13 +3208,12 @@ AutoPredict वह पहला ऐप है जो आर्टिफिशि
 AI की बदौलत कुछ ही क्लिक में B2B लीड जेनरेट करें - अपनी लीड को राजस्व में बदलें - पहले से ही 10,000 से अधिक लीड जेनरेट हो चुके हैं
 हाइपरग्रोइंग कंपनियों के साथ
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/looti)
+[More Information and Pricing](https://www.thataicollection.com/en/application/looti)
 
 <br />
 
 
 
----
 
 ### Hubble
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hubble.webp?twic=v1/resize=240" alt="Hubble">
@@ -3423,13 +3222,12 @@ AI की बदौलत कुछ ही क्लिक में B2B ली�
 
 डिज़ाइन से लेकर उत्पादन तक, मॉनिटर करें, मापें और अपने उपयोगकर्ता अनुभव को बढ़ाएं। प्रोटोटाइप, बीटा और लाइव सुविधाओं पर उपयोगकर्ताओं से उच्च गुणवत्ता वाली प्रतिक्रिया एकत्र करके विश्व स्तरीय उत्पाद बनाएं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/hubble)
+[More Information and Pricing](https://www.thataicollection.com/en/application/hubble)
 
 <br />
 
 
 
----
 
 ### Takomo
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-takomo.webp?twic=v1/resize=240" alt="Takomo">
@@ -3445,13 +3243,12 @@ AI की बदौलत कुछ ही क्लिक में B2B ली�
 आउटपुट की तुलना करके अपनी पाइपलाइन चलाओ, उसका परीक्षण करो और उसमें सुधार करो
 3। API डिप्लॉय करें - विश्वसनीय क्लाउड इंफ्रास्ट्रक्चर के साथ मल्टी-मॉडल API जेनरेट करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/takomo)
+[More Information and Pricing](https://www.thataicollection.com/en/application/takomo)
 
 <br />
 
 
 
----
 
 ### Kive
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-kive.webp?twic=v1/resize=240" alt="Kive">
@@ -3460,13 +3257,12 @@ AI की बदौलत कुछ ही क्लिक में B2B ली�
 
 आपकी सभी प्रेरणा एक ही स्थान पर
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/kive)
+[More Information and Pricing](https://www.thataicollection.com/en/application/kive)
 
 <br />
 
 <br />
 
----
 
 ### H2O AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-h2o-ai.webp?twic=v1/resize=240" alt="H2O AI">
@@ -3476,13 +3272,12 @@ AI की बदौलत कुछ ही क्लिक में B2B ली�
 
 H2OGPT, सच में ओपन सोर्स जनरेटिव AI है, जो तुम्हारे जैसे संगठनों को तुम्हारे डेटा के स्वामित्व को सुरक्षित रखते हुए बड़े भाषा मॉडल के मालिक होने की शक्ति देता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/h2o-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/h2o-ai)
 
 <br />
 
 
 
----
 
 ### Prompt.Cafe
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prompt.cafe.webp?twic=v1/resize=240" alt="Prompt.Cafe">
@@ -3491,18 +3286,17 @@ H2OGPT, सच में ओपन सोर्स जनरेटिव AI ह�
 
 एआई प्रॉम्प्ट जेनरेटर - प्रेरित करें, बनाएं, व्यवस्थित करें। एआई प्रांप्ट से प्रेरणा लें, प्रांप्ट जेनरेटर के साथ नए प्रांप्ट बनाएं, अपने स्वयं के प्रांप्ट को धारणा टेम्पलेट के साथ व्यवस्थित करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/prompt.cafe)
+[More Information and Pricing](https://www.thataicollection.com/en/application/prompt.cafe)
 
 <br />
 
 
 
+
+
+[See All 🧞‍♂️ संगठन और स्वचालन Applications on AI Collection](https://www.thataicollection.com/en/categories/organization-and-automation)
+
 ---
-
-
-[See All 🧞‍♂️ संगठन और स्वचालन Applications on AI Collection](https://www.thataicollection.com/hi/categories/organization-and-automation)
-
-___
 
 ## फोटो और छवि संपादन
 
@@ -3515,13 +3309,12 @@ ___
 
 HitPaw ऑनलाइन एआई फोटो एन्हांसर शोर को दूर करने, विवरण को तेज करने और फोटो की गुणवत्ता में सुधार करने के लिए उन्नत एआई तकनीक का उपयोग करता है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/hitpaw-online-photo-enhancer)
+[More Information and Pricing](https://www.thataicollection.com/en/application/hitpaw-online-photo-enhancer)
 
 <br />
 
 <br />
 
----
 
 ### Unrealme
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-unrealme.webp?twic=v1/resize=240" alt="Unrealme">
@@ -3530,13 +3323,12 @@ HitPaw ऑनलाइन एआई फोटो एन्हांसर शो
 
 अपनी शानदार तस्वीरें प्राप्त करने के लिए कदम: 1. भुगतान। 2. अपलोड करें - सिफारिशें पढ़ें और जब भी आपके पास समय हो अपनी तस्वीरें अपलोड करें (आपका लिंक ईमेल द्वारा भेजा जाता है)। 3. प्रतीक्षा करें 4. साझा करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/unrealme)
+[More Information and Pricing](https://www.thataicollection.com/en/application/unrealme)
 
 <br />
 
 
 
----
 
 ### Stabledojo
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stabledojo.webp?twic=v1/resize=240" alt="Stabledojo">
@@ -3545,13 +3337,12 @@ HitPaw ऑनलाइन एआई फोटो एन्हांसर शो
 
 StableDojo के साथ आप अपने लिए एक अवतार या अपने पसंदीदा उत्पादों के लिए एक फोटोशूट तैयार कर सकते हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/stabledojo)
+[More Information and Pricing](https://www.thataicollection.com/en/application/stabledojo)
 
 <br />
 
 <br />
 
----
 
 ### Prisma
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prisma.webp?twic=v1/resize=240" alt="Prisma">
@@ -3560,13 +3351,12 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 आपके निपटान में 700 से अधिक शानदार कला और चित्र शैली। अग्रभूमि और पृष्ठभूमि दोनों को अलग-अलग संशोधित करने की संभावना। अपनी छवियों को अपग्रेड करने के लिए शानदार फ्रेम।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/prisma)
+[More Information and Pricing](https://www.thataicollection.com/en/application/prisma)
 
 <br />
 
 
 
----
 
 ### Prisma Lensa
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prisma-lensa.webp?twic=v1/resize=240" alt="Prisma Lensa">
@@ -3575,13 +3365,12 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 मैजिक करेक्शन के एक टैप से फेशियल रीटचिंग को बेहतर बनाएं। ढेर सारे कूल टूल्स से चेहरे की खामियों को दूर करें। पृष्ठभूमि को एक स्पर्श से बदलें या धुंधला करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/prisma-lensa)
+[More Information and Pricing](https://www.thataicollection.com/en/application/prisma-lensa)
 
 <br />
 
 
 
----
 
 ### Claid.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-claid.ai.webp?twic=v1/resize=240" alt="Claid.ai">
@@ -3590,13 +3379,12 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 हमारे एआई उत्पादों के सुइट का उपयोग करके एंड-टू-एंड छवि निर्माण को स्वचालित करें और अपने व्यवसाय को बढ़ावा दें। आपके ब्रांड के अनुरूप अनेक उत्पाद छवियाँ बनाएँ। उबाऊ उत्पाद छवियों को फोटोशूट-गुणवत्ता वाली मार्केटिंग छवियों में बदलकर अपनी सामग्री निर्माण प्रक्रिया को सरल बनाएं
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/claid.ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/claid.ai)
 
 <br />
 
 
 
----
 
 ### SceneryAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sceneryai.webp?twic=v1/resize=240" alt="SceneryAI">
@@ -3605,13 +3393,12 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 हमारे एआई इमेज एडिटिंग टूल के साथ मौजूदा इमेज जेनरेट या अपडेट करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/sceneryai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/sceneryai)
 
 <br />
 
 <br />
 
----
 
 ### Colorize
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-colorize.webp?twic=v1/resize=240" alt="Colorize">
@@ -3620,13 +3407,12 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 फोटो को ऑनलाइन रंगीन करें Colorize.cc - AI सेवा है जो ब्लैक एंड व्हाइट फोटो और वीडियो को रंगीन करती है। कुछ ही क्लिक में आप मशीन लर्निंग प्रौद्योगिकियों के जादू को छू सकते हैं। कुछ ही मिनटों में अपने परिवार की सैकड़ों तस्वीरों को रंगीन बनाएं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/colorize)
+[More Information and Pricing](https://www.thataicollection.com/en/application/colorize)
 
 <br />
 
 
 
----
 
 ### Palette
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-palette.webp?twic=v1/resize=240" alt="Palette">
@@ -3635,13 +3421,12 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 एक नया एआई रंगीन। पुरानी श्वेत-श्याम तस्वीरों में से किसी भी चीज़ को रंग दें, अपनी कलाकृतियों को शैलीबद्ध करें, या आधुनिक छवियों को एक नया रूप दें। यह इंस्टाग्राम जितना आसान है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/palette)
+[More Information and Pricing](https://www.thataicollection.com/en/application/palette)
 
 <br />
 
 
 
----
 
 ### Hama
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hama.webp?twic=v1/resize=240" alt="Hama">
@@ -3650,18 +3435,17 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 अद्भुत फोटो इरेज़र
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/hama)
+[More Information and Pricing](https://www.thataicollection.com/en/application/hama)
 
 <br />
 
 <br />
+
+
+
+[See All 📸 फोटो और छवि संपादन Applications on AI Collection](https://www.thataicollection.com/en/categories/photo-and-image-editing)
 
 ---
-
-
-[See All 📸 फोटो और छवि संपादन Applications on AI Collection](https://www.thataicollection.com/hi/categories/photo-and-image-editing)
-
-___
 
 ## प्लगइन्स और एक्सटेंशन
 
@@ -3674,13 +3458,12 @@ ___
 
 क्रोम एक्सटेंशन जो एआई-संचालित प्रतिक्रियाओं के साथ आपके लेखन समय को 98% तक कम कर देता है। होस्ट्स फॉर होस्ट्स द्वारा निर्मित।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/aiduh)
+[More Information and Pricing](https://www.thataicollection.com/en/application/aiduh)
 
 <br />
 
 <br />
 
----
 
 ### Texti
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-texti.webp?twic=v1/resize=240" alt="Texti">
@@ -3689,13 +3472,12 @@ ___
 
 टेक्स्टी आपकी सामग्री की गुणवत्ता बढ़ाने में आपका सहयोग करेगा!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/texti)
+[More Information and Pricing](https://www.thataicollection.com/en/application/texti)
 
 <br />
 
 <br />
 
----
 
 ### Autoname
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-autoname.webp?twic=v1/resize=240" alt="Autoname">
@@ -3704,13 +3486,12 @@ ___
 
 एक क्लिक में Figma फ्रेम का नाम बदलें, बस इतना ही।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/autoname)
+[More Information and Pricing](https://www.thataicollection.com/en/application/autoname)
 
 <br />
 
 <br />
 
----
 
 ### SplashAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-splashai.webp?twic=v1/resize=240" alt="SplashAI">
@@ -3719,13 +3500,12 @@ ___
 
 SplasHAI एक सहायक की तरह है, यह तुम्हेंं सर्च की सुविधा के साथ बहुत तेज़ी से विचार प्राप्त करने में मदद करता है और फ़िगमा से बाहर निकले बिना लगातार नए विचार उत्पन्न करने में मदद करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/splashai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/splashai)
 
 <br />
 
 
 
----
 
 ### Merlin
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-merlin.webp?twic=v1/resize=240" alt="Merlin">
@@ -3734,13 +3514,12 @@ SplasHAI एक सहायक की तरह है, यह तुम्ह�
 
 कहीं भी उपयोग करने के लिए मुफ्त ओपन एआई चैटजीपीटी संचालित एक्सटेंशन!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/merlin)
+[More Information and Pricing](https://www.thataicollection.com/en/application/merlin)
 
 <br />
 
 <br />
 
----
 
 ### Voilà
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-voilà.webp?twic=v1/resize=240" alt="Voilà">
@@ -3749,13 +3528,12 @@ SplasHAI एक सहायक की तरह है, यह तुम्ह�
 
 अपने लेखन में सुधार करें, अपने सभी प्रश्नों के उत्तर प्राप्त करें, उच्च-गुणवत्ता वाली सामग्री का मसौदा तैयार करें और ईमेल का जवाब दें। सभी एक ही स्थान पर।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/voilà)
+[More Information and Pricing](https://www.thataicollection.com/en/application/voilà)
 
 <br />
 
 
 
----
 
 ### HARPA AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-harpa-ai.webp?twic=v1/resize=240" alt="HARPA AI">
@@ -3764,13 +3542,12 @@ SplasHAI एक सहायक की तरह है, यह तुम्ह�
 
 क्रोम के लिए एआई एजेंट। ChatGPT को Google खोज में एकीकृत करें, वेबसाइटों को स्वचालित करें, पाठ लिखें: ईमेल, ट्वीट, SEO लेख। बिंग एआई और नोशन एआई विकल्प।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/harpa-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/harpa-ai)
 
 <br />
 
 
 
----
 
 ### Gist AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gist-ai.webp?twic=v1/resize=240" alt="Gist AI">
@@ -3783,18 +3560,17 @@ SplasHAI एक सहायक की तरह है, यह तुम्ह�
 
 इससे भी बेहतर, Gist AI आपको स्पष्टता के लिए सारांश स्रोत में गहराई से गोता लगाने या यूट्यूब सारांश के रूप में कार्य करते हुए YouTube वीडियो में सीधे उस क्षण तक पहुंचने की सुविधा देता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/gist-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/gist-ai)
 
 <br />
 
 
 
+
+
+[See All 🔌 प्लगइन्स और एक्सटेंशन Applications on AI Collection](https://www.thataicollection.com/en/categories/plugins-and-extensions)
+
 ---
-
-
-[See All 🔌 प्लगइन्स और एक्सटेंशन Applications on AI Collection](https://www.thataicollection.com/hi/categories/plugins-and-extensions)
-
-___
 
 ## उत्पादकता और व्यक्तिगत विकास
 
@@ -3807,13 +3583,12 @@ ___
 
 Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/podwise)
+[More Information and Pricing](https://www.thataicollection.com/en/application/podwise)
 
 <br />
 
 
 
----
 
 ### Dewey
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dewey.webp?twic=v1/resize=240" alt="Dewey">
@@ -3822,13 +3597,12 @@ Podwise के साथ, तुम संरचित ज्ञान से �
 
 मित्रवत AI जवाबदेही मित्र के साथ वापस पटरी पर आएं। डेवी संगठित और उत्पादक बने रहने में आपकी मदद करने के लिए यहां है। पाठ संदेश अनुस्मारक और लक्ष्य ट्रैकिंग के साथ, यह आपकी जेब में एआई उत्तरदायित्व मित्र होने जैसा है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/dewey)
+[More Information and Pricing](https://www.thataicollection.com/en/application/dewey)
 
 <br />
 
 
 
----
 
 ### Ask Poppy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ask-poppy.webp?twic=v1/resize=240" alt="Ask Poppy">
@@ -3840,13 +3614,12 @@ Podwise के साथ, तुम संरचित ज्ञान से �
 तुम्हेंं अपनी जीवनशैली के बारे में पता है। हमें प्रॉडक्ट्स के बारे में पता है। चलिए मिलकर तुम्हारे बच्चे की रजिस्ट्री बनाते हैं।
 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ask-poppy)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ask-poppy)
 
 <br />
 
 
 
----
 
 ### Cogram
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cogram.webp?twic=v1/resize=240" alt="Cogram">
@@ -3855,13 +3628,12 @@ Podwise के साथ, तुम संरचित ज्ञान से �
 
 कोग्राम आपके डेटा को निजी और सुरक्षित रखते हुए वर्चुअल मीटिंग्स में नोट्स लेने, एक्शन आइटम ट्रैक करने और डाउनस्ट्रीम कार्यों को स्वचालित करने के लिए एआई का उपयोग करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/cogram)
+[More Information and Pricing](https://www.thataicollection.com/en/application/cogram)
 
 <br />
 
 
 
----
 
 ### Ultimate Skill Extractor by Further
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ultimate-skill-extractor-by-further.webp?twic=v1/resize=240" alt="Ultimate Skill Extractor by Further">
@@ -3870,13 +3642,12 @@ Podwise के साथ, तुम संरचित ज्ञान से �
 
 कौशल सुझाव एआई की शक्ति का उपयोग करके हम किसी भी प्रकार के पाठ से दुनिया में मांग में कौशल निकालने में आपकी सहायता कर सकते हैं। कोशिश करके देखो! हमने अपनी आगे की सामग्री लाइब्रेरी में 1 मिलियन से अधिक ऑनलाइन उपलब्ध सामग्री का उपयोग करके अपने एआई को प्रशिक्षित किया जो विभिन्न प्रकार के स्रोतों और विषयों से क्यूरेट किया गया।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ultimate-skill-extractor-by-further)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ultimate-skill-extractor-by-further)
 
 <br />
 
 
 
----
 
 ### ELSA SPEECH ANALYZER
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elsa-speech-analyzer.webp?twic=v1/resize=240" alt="ELSA SPEECH ANALYZER">
@@ -3885,13 +3656,12 @@ Podwise के साथ, तुम संरचित ज्ञान से �
 
 भाषण विश्लेषक एक एआई-संचालित संवादी अंग्रेजी प्रवाह कोच है जो आपके भाषण को सुनता है और आपको तत्काल प्रतिक्रिया प्रदान करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/elsa-speech-analyzer)
+[More Information and Pricing](https://www.thataicollection.com/en/application/elsa-speech-analyzer)
 
 <br />
 
 <br />
 
----
 
 ### DetangleAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-detangleai.webp?twic=v1/resize=240" alt="DetangleAI">
@@ -3901,13 +3671,12 @@ Podwise के साथ, तुम संरचित ज्ञान से �
 
 दस्तावेज़ से बातचीत + किसी भी फ़ाइल या लिंक के लिए सारांश! PDF, YouTube वीडियो, पॉडकास्ट, लेख, स्प्रेडशीट वगैरह के साथ चैट करें! वेटलिस्ट पर हॉप करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/detangleai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/detangleai)
 
 <br />
 
 
 
----
 
 ### Chivvy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chivvy.webp?twic=v1/resize=240" alt="Chivvy">
@@ -3916,13 +3685,12 @@ Podwise के साथ, तुम संरचित ज्ञान से �
 
 Chivvy आपको काम करने के लिए नकारात्मक सुदृढीकरण का उपयोग करता है। सोशल मीडिया पर जवाबदेही बनाता है। आपको स्मार्ट संकेतों के साथ ट्रैक पर रखता है। सभी एआई द्वारा संचालित
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/chivvy)
+[More Information and Pricing](https://www.thataicollection.com/en/application/chivvy)
 
 <br />
 
 
 
----
 
 ### Pth.AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-pth.ai.webp?twic=v1/resize=240" alt="Pth.AI">
@@ -3931,13 +3699,12 @@ Chivvy आपको काम करने के लिए नकारात�
 
 Pth.AI एक AI-संचालित उपकरण है जो गैर-पेशेवर व्यावसायिक उपयोगकर्ताओं को प्रश्न पूछकर और कदम बनाकर उनके लक्ष्यों की ओर मार्गदर्शन करता है, जिससे AI सिस्टम के साथ बातचीत करना आसान हो जाता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/pth.ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/pth.ai)
 
 <br />
 
 
 
----
 
 ### Sidekick
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sidekick.webp?twic=v1/resize=240" alt="Sidekick">
@@ -3946,18 +3713,17 @@ Pth.AI एक AI-संचालित उपकरण है जो गैर-�
 
 सीधे अपने Slack से ChatGPT 4.0 तक तुरंत निःशुल्क पहुंच प्राप्त करें और अन्य सुविधाओं का आनंद लें जैसे अपने संगठनात्मक ऐप्स प्रश्न पूछना, महत्वपूर्ण विषयों को ट्रैक करना, रिमाइंडर सेट करना, दस्तावेज़ों को क्वेरी करना और Slack में वार्तालापों को सारांशित करना
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/sidekick)
+[More Information and Pricing](https://www.thataicollection.com/en/application/sidekick)
 
 <br />
 
 
 
+
+
+[See All 🚀 उत्पादकता और व्यक्तिगत विकास Applications on AI Collection](https://www.thataicollection.com/en/categories/productivity-and-personal-growth)
+
 ---
-
-
-[See All 🚀 उत्पादकता और व्यक्तिगत विकास Applications on AI Collection](https://www.thataicollection.com/hi/categories/productivity-and-personal-growth)
-
-___
 
 ## अनुसंधान सहायक
 
@@ -3970,13 +3736,12 @@ ___
 
 एलिसिट आपके शोध में आपकी मदद करने के लिए मशीन लर्निंग का उपयोग करता है: कागजात खोजें, प्रमुख दावों को निकालें, सारांशित करें, विचार मंथन करें, और बहुत कुछ।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/elicit)
+[More Information and Pricing](https://www.thataicollection.com/en/application/elicit)
 
 <br />
 
 
 
----
 
 ### Scispace
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-scispace.webp?twic=v1/resize=240" alt="Scispace">
@@ -3985,13 +3750,12 @@ ___
 
 कागजात तलाशने और समझाने के लिए आपका मंच। 270M+ पेपर खोजें, उन्हें सरल भाषा में समझें, और जुड़े हुए पेपर, लेखक, विषय खोजें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/scispace)
+[More Information and Pricing](https://www.thataicollection.com/en/application/scispace)
 
 <br />
 
 <br />
 
----
 
 ### RTutor
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rtutor.webp?twic=v1/resize=240" alt="RTutor">
@@ -4000,13 +3764,12 @@ ___
 
 RTutor प्राकृतिक भाषा को R कोड में अनुवाद करने के लिए OpenAI के शक्तिशाली बड़े भाषा मॉडल का उपयोग करता है, जिसे बाद में एक्सक्यूट किया जाता है। आप अपने विश्लेषण का अनुरोध कर सकते हैं, जैसे किसी वास्तविक व्यक्ति से पूछ रहे हों। एक डेटा फ़ाइल (CSV, TSV/टैब-डीलिमिटेड टेक्स्ट फ़ाइलें, और एक्सेल) अपलोड करें और सरल अंग्रेजी में इसका विश्लेषण करें। आपके परिणाम मिनटों में HTML रिपोर्ट के रूप में डाउनलोड किए जा सकते हैं!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/rtutor)
+[More Information and Pricing](https://www.thataicollection.com/en/application/rtutor)
 
 <br />
 
 
 
----
 
 ### Explainpaper
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-explainpaper.webp?twic=v1/resize=240" alt="Explainpaper">
@@ -4015,13 +3778,12 @@ RTutor प्राकृतिक भाषा को R कोड में अ
 
 एक पेपर अपलोड करें, भ्रमित करने वाले टेक्स्ट को हाइलाइट करें, स्पष्टीकरण प्राप्त करें। हम शोध पत्रों को पढ़ने में आसान बनाते हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/explainpaper)
+[More Information and Pricing](https://www.thataicollection.com/en/application/explainpaper)
 
 <br />
 
 <br />
 
----
 
 ### Vocads Survey
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-vocads-survey.webp?twic=v1/resize=240" alt="Vocads Survey">
@@ -4030,13 +3792,12 @@ RTutor प्राकृतिक भाषा को R कोड में अ
 
 कंपनियों के पास अपने सर्वेक्षणों पर प्रतिक्रियाओं और जुड़ाव की कमी है। एआई के साथ वॉयस बातचीत के जरिए वोकाड्स ने सर्वेक्षण के अनुभव को नया रूप दिया।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/vocads-survey)
+[More Information and Pricing](https://www.thataicollection.com/en/application/vocads-survey)
 
 <br />
 
 <br />
 
----
 
 ### Afforai Build
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-afforai-build.webp?twic=v1/resize=240" alt="Afforai Build">
@@ -4045,13 +3806,12 @@ RTutor प्राकृतिक भाषा को R कोड में अ
 
 रिपोर्ट का मसौदा तैयार करना पढ़ने के लिए बहुत सारे दस्तावेज़ हैं? अफ़ोराई आपके लिए एक पूरी रिपोर्ट का विश्लेषण और मसौदा तैयार करेगा और साथ ही दस्तावेज़ों के बारे में किसी भी प्रश्न का उत्तर देगा। स्प्रेडशीट क्वेरी - प्राकृतिक भाषा क्वेरी का उपयोग करके रिपोर्ट और स्प्रेडशीट से महत्वपूर्ण जानकारी निकालने के लिए अफ़ोराई का उपयोग करें। वेब स्क्रैपिंग - अफ़ोराई कई वेबसाइटों को खंगाल सकता है और महत्वपूर्ण जानकारी निकाल सकता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/afforai-build)
+[More Information and Pricing](https://www.thataicollection.com/en/application/afforai-build)
 
 <br />
 
 
 
----
 
 ### Synthical
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-synthical.webp?twic=v1/resize=240" alt="Synthical">
@@ -4060,18 +3820,17 @@ RTutor प्राकृतिक भाषा को R कोड में अ
 
 जटिल शब्दों को समझने के लिए लेखों को सरल बनाएं, अच्छी अनुशंसाएँ प्राप्त करें, समान लेख खोजें और टीम के साथ आसानी से सहयोग करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/synthical)
+[More Information and Pricing](https://www.thataicollection.com/en/application/synthical)
 
 <br />
 
 <br />
+
+
+
+[See All 🎓 अनुसंधान सहायक Applications on AI Collection](https://www.thataicollection.com/en/categories/research-assistant)
 
 ---
-
-
-[See All 🎓 अनुसंधान सहायक Applications on AI Collection](https://www.thataicollection.com/hi/categories/research-assistant)
-
-___
 
 ## समीक्षा और अनुशंसाएँ
 
@@ -4084,13 +3843,12 @@ ___
 
 जिन लोगों की आप प्रशंसा करते हैं, उनकी सर्वोत्तम पुस्तक अनुशंसाओं के लिए हम इंटरनेट पर अनगिनत घंटे खंगालते हैं। हमारा डेटाबेस लगातार बढ़ रहा है, और हर एक सिफारिश को प्रामाणिकता के लिए सत्यापित किया गया है और इसमें स्रोत के लिए एक लिंक शामिल है। आनंद लेना!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/sona)
+[More Information and Pricing](https://www.thataicollection.com/en/application/sona)
 
 <br />
 
 
 
----
 
 ### AI Review Reply Assistant
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-review-reply-assistant.webp?twic=v1/resize=240" alt="AI Review Reply Assistant">
@@ -4099,13 +3857,12 @@ ___
 
 एआई समीक्षा उत्तर जनरेटर: आपके व्यक्तिगत एआई सहायक द्वारा लिखित व्यक्तिगत प्रतिक्रियाओं के साथ प्रत्येक ग्राहक समीक्षा के लिए 3x तेजी से उत्तर दें। किसी टेम्प्लेट की आवश्यकता नहीं है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ai-review-reply-assistant)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-review-reply-assistant)
 
 <br />
 
 
 
----
 
 ### Geniusreview
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-geniusreview.webp?twic=v1/resize=240" alt="Geniusreview">
@@ -4114,13 +3871,12 @@ ___
 
 अपने प्रदर्शन समीक्षा प्रश्नों के अनुरूप उत्तर प्राप्त करने के लिए GeniusReview का उपयोग करके घंटों की बचत करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/geniusreview)
+[More Information and Pricing](https://www.thataicollection.com/en/application/geniusreview)
 
 <br />
 
 <br />
 
----
 
 ### Reviewz
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-reviewz.webp?twic=v1/resize=240" alt="Reviewz">
@@ -4129,13 +3885,12 @@ ___
 
 Reviewz.ai एक नवीनता है और इसे उपभोक्ता उत्पाद और अनुशंसा स्थान में AI की क्षमताओं को प्रदर्शित करने के लिए डिज़ाइन किया गया है। इस साइट पर चयनित और समीक्षा किए गए सभी उत्पाद पूरी तरह से एआई द्वारा किए गए हैं, और सभी समीक्षाएं एआई द्वारा लिखी गई हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/reviewz)
+[More Information and Pricing](https://www.thataicollection.com/en/application/reviewz)
 
 <br />
 
 
 
----
 
 ### Artreviewgenerator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-artreviewgenerator.webp?twic=v1/resize=240" alt="Artreviewgenerator">
@@ -4144,18 +3899,17 @@ Reviewz.ai एक नवीनता है और इसे उपभोक्�
 
 एक प्राकृतिक भाषा प्रसंस्करण उपकरण और पाठ जनरेटर। यह एक संकेत के रूप में शब्दों का एक सेट लेता है और फिर वाक्यों का एक मध्यम लंबाई का सेट उत्पन्न करता है जो प्रशिक्षण डेटा का अनुमान लगाता है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/artreviewgenerator)
+[More Information and Pricing](https://www.thataicollection.com/en/application/artreviewgenerator)
 
 <br />
 
 
 
+
+
+[See All 🗳 समीक्षा और अनुशंसाएँ Applications on AI Collection](https://www.thataicollection.com/en/categories/reviews-and-recommendations)
+
 ---
-
-
-[See All 🗳 समीक्षा और अनुशंसाएँ Applications on AI Collection](https://www.thataicollection.com/hi/categories/reviews-and-recommendations)
-
-___
 
 ## खरीद और बिक्री
 
@@ -4168,13 +3922,12 @@ ___
 
 अच्छे के लिए कोरे पन्ने को अलविदा कहो
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/copy.ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/copy.ai)
 
 <br />
 
 <br />
 
----
 
 ### Clickable
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-clickable.webp?twic=v1/resize=240" alt="Clickable">
@@ -4183,13 +3936,12 @@ ___
 
 सभी मार्केटिंग चैनलों के लिए सुंदर, ब्रांड-संगत और अत्यधिक रूपांतरित विज्ञापन। किसी डिज़ाइन अनुभव की आवश्यकता नहीं है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/clickable)
+[More Information and Pricing](https://www.thataicollection.com/en/application/clickable)
 
 <br />
 
 <br />
 
----
 
 ### Cuetap.com
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cuetap.com.webp?twic=v1/resize=240" alt="Cuetap.com">
@@ -4198,13 +3950,12 @@ ___
 
 एआई-पावर्ड प्लेटफॉर्म ऑटोमैजिकल बैटलकार्ड्स और एक्शनेबल कॉम्पिटिटिव इंटेलिजेंस प्रदान करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/cuetap.com)
+[More Information and Pricing](https://www.thataicollection.com/en/application/cuetap.com)
 
 <br />
 
 <br />
 
----
 
 ### Userevaluation
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-userevaluation.webp?twic=v1/resize=240" alt="Userevaluation">
@@ -4213,13 +3964,12 @@ ___
 
 चाहे आप यूआई, यूएक्स रिसर्च, डिजाइन, या सीएक्स यूजर इवैल्यूएशन के एआई पर केंद्रित हों, आपके सभी सवालों का जवाब दे सकता है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/userevaluation)
+[More Information and Pricing](https://www.thataicollection.com/en/application/userevaluation)
 
 <br />
 
 <br />
 
----
 
 ### Genius Sheets
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-genius-sheets.webp?twic=v1/resize=240" alt="Genius Sheets">
@@ -4233,13 +3983,12 @@ Genius Sheets AI तुम्हारे सभी महत्वपूर्�
 इस्तेमाल में आसान - किसी SQL या Python की आवश्यकता नहीं है
 नेटिव इंटरफ़ेस - हमारे वेबऐप, स्लैक या टीम में अपने डेटा से कनेक्ट करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/genius-sheets)
+[More Information and Pricing](https://www.thataicollection.com/en/application/genius-sheets)
 
 <br />
 
 
 
----
 
 ### BaruaAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-baruaai.webp?twic=v1/resize=240" alt="BaruaAI">
@@ -4248,13 +3997,12 @@ Genius Sheets AI तुम्हारे सभी महत्वपूर्�
 
 हमारा मंच आपके प्रमुख उत्पाद विवरण और उद्देश्यों को प्रेरक गद्य में बदल देता है, जो आपके दर्शकों को आकर्षित करने और रूपांतरण दरों को आसमान छूने के लिए तैयार किया गया है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/baruaai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/baruaai)
 
 <br />
 
 
 
----
 
 ### Hoppy Copy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hoppy-copy.webp?twic=v1/resize=240" alt="Hoppy Copy">
@@ -4263,13 +4011,12 @@ Genius Sheets AI तुम्हारे सभी महत्वपूर्�
 
 लिखने के अनगिनत घंटे बचाएं। सैकड़ों अलग-अलग ईमेल मार्केटिंग अभियानों, ड्रिप, न्यूज़लेटर्स और बहुत कुछ के लिए सेकंड में शक्तिशाली कॉपी बनाने के लिए AI का उपयोग करें ⚡
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/hoppy-copy)
+[More Information and Pricing](https://www.thataicollection.com/en/application/hoppy-copy)
 
 <br />
 
 
 
----
 
 ### MarketingBlocks AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-marketingblocks-ai.webp?twic=v1/resize=240" alt="MarketingBlocks AI">
@@ -4278,13 +4025,12 @@ Genius Sheets AI तुम्हारे सभी महत्वपूर्�
 
 लैंडिंग पेज, प्रोमो वीडियो, विज्ञापन, मार्केटिंग कॉपी, ग्राफिक्स, ईमेल, वॉइसओवर, ब्लॉग पोस्ट, कला और बहुत कुछ बनाने वाला मानव जैसा ऑल-इन-वन एआई मार्केटिंग सहायक
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/marketingblocks-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/marketingblocks-ai)
 
 <br />
 
 
 
----
 
 ### Briefly
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-briefly.webp?twic=v1/resize=240" alt="Briefly">
@@ -4293,13 +4039,12 @@ Genius Sheets AI तुम्हारे सभी महत्वपूर्�
 
 मार्केटिंग ब्रीफ्स जो सर्वोत्तम रचनात्मक कार्य को प्राप्त करते हैं। अपनी मार्केटिंग प्रभावशीलता में सुधार करें और बुरी तरह से लिखे गए ब्रीफ की लागत कम करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/briefly)
+[More Information and Pricing](https://www.thataicollection.com/en/application/briefly)
 
 <br />
 
 
 
----
 
 ### Traq.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-traq.ai.webp?twic=v1/resize=240" alt="Traq.ai">
@@ -4308,18 +4053,17 @@ Genius Sheets AI तुम्हारे सभी महत्वपूर्�
 
 Traq.ai आपकी बिक्री टीम द्वारा की जाने वाली हर कॉल का विश्लेषण करती है और उन्हें सफलता के अलौकिक स्तरों तक पहुँचने के लिए कार्रवाई योग्य अंतर्दृष्टि प्रदान करती है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/traq.ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/traq.ai)
 
 <br />
 
 
 
+
+
+[See All 💰 खरीद और बिक्री Applications on AI Collection](https://www.thataicollection.com/en/categories/sales-and-marketing)
+
 ---
-
-
-[See All 💰 खरीद और बिक्री Applications on AI Collection](https://www.thataicollection.com/hi/categories/sales-and-marketing)
-
-___
 
 ## खोज इंजन
 
@@ -4332,13 +4076,12 @@ ___
 
 Lexi.ai एक AI खोज सहायक है जो सवालों के जवाब देता है और स्रोतों का हवाला देता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/lexii.ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/lexii.ai)
 
 <br />
 
 <br />
 
----
 
 ### Smarty Names
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-smarty-names.webp?twic=v1/resize=240" alt="Smarty Names">
@@ -4347,13 +4090,12 @@ Lexi.ai एक AI खोज सहायक है जो सवालों क
 
 SmartyNames.com के साथ एक रचनात्मक और अद्वितीय डोमेन खोजना आसान है जो अभी भी उपलब्ध है - हमें बताएं कि आप क्या करते हैं, और हमारे रोबोट आपके लिए सही डोमेन ढूंढ लेंगे। एक क्लिक में कंपनी का नाम जनरेटर।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/smarty-names)
+[More Information and Pricing](https://www.thataicollection.com/en/application/smarty-names)
 
 <br />
 
 
 
----
 
 ### OpenArt Photo Booth
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-openart-photo-booth.webp?twic=v1/resize=240" alt="OpenArt Photo Booth">
@@ -4362,13 +4104,12 @@ SmartyNames.com के साथ एक रचनात्मक और अद�
 
 10M+ प्रॉम्प्ट खोजें, और स्थिर प्रसार, DALL·E 2 के माध्यम से AI कला उत्पन्न करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/openart-photo-booth)
+[More Information and Pricing](https://www.thataicollection.com/en/application/openart-photo-booth)
 
 <br />
 
 <br />
 
----
 
 ### You
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-you.webp?twic=v1/resize=240" alt="You">
@@ -4381,13 +4122,12 @@ GPT-4 के साथ व्यापक प्रतिक्रियाए�
 ज़्यादा सटीकता के साथ लंबे और ज़्यादा विस्तृत जवाब जनरेट करें।
 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/you)
+[More Information and Pricing](https://www.thataicollection.com/en/application/you)
 
 <br />
 
 
 
----
 
 ### Perplexity AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-perplexity-ai.webp?twic=v1/resize=240" alt="Perplexity AI">
@@ -4396,13 +4136,12 @@ GPT-4 के साथ व्यापक प्रतिक्रियाए�
 
 आस्क बड़े भाषा मॉडल और सर्च इंजन द्वारा संचालित है। सटीकता खोज परिणामों और AI क्षमताओं द्वारा सीमित है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/perplexity-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/perplexity-ai)
 
 <br />
 
 <br />
 
----
 
 ### Anypod
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-anypod.webp?twic=v1/resize=240" alt="Anypod">
@@ -4411,13 +4150,12 @@ GPT-4 के साथ व्यापक प्रतिक्रियाए�
 
 हम आपकी सामग्री को खोजने योग्य बनाते हैं
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/anypod)
+[More Information and Pricing](https://www.thataicollection.com/en/application/anypod)
 
 <br />
 
 <br />
 
----
 
 ### namefinder.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-namefinder.ai.webp?twic=v1/resize=240" alt="namefinder.ai">
@@ -4426,13 +4164,12 @@ GPT-4 के साथ व्यापक प्रतिक्रियाए�
 
 हम, Namefinder पर, लोगों के व्यवसायों के लिए डोमेन नाम लेकर आने से उनका समय बचाने का लक्ष्य रखते हैं। हम ऐसा उनकी वेबसाइट की जरूरतों के आधार पर नामों का प्रस्ताव करके करते हैं, और इससे पहले हम डोमेन रजिस्ट्री की जांच करते हैं ताकि केवल उपलब्ध डोमेन नामों को चुनने के लिए दिया जा सके। सभी चैट Gpt द्वारा संचालित।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/namefinder.ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/namefinder.ai)
 
 <br />
 
 
 
----
 
 ### Broker One AI Engine
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-broker-one-ai-engine.webp?twic=v1/resize=240" alt="Broker One AI Engine">
@@ -4441,13 +4178,12 @@ GPT-4 के साथ व्यापक प्रतिक्रियाए�
 
 ब्रोकर वन एआई इंजन एक अत्याधुनिक, एआई-संचालित टूल है जिसे विशेष रूप से रियल एस्टेट की जटिल दुनिया के लिए डिज़ाइन किया गया है। यह नवोन्वेषी प्लेटफ़ॉर्म संपत्तियों के विशाल और व्यापक डेटासेट के साथ कृत्रिम बुद्धिमत्ता की शक्ति को जोड़ता है ताकि सटीक संपत्ति मूल्यांकन प्रदान किया जा सके और कुशल संपत्ति ब्राउज़िंग सक्षम की जा सके। ब्रोकर वन एआई इंजन अपनी परिष्कृत संपत्ति खोज कार्यक्षमता के साथ अलग दिखता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/broker-one-ai-engine)
+[More Information and Pricing](https://www.thataicollection.com/en/application/broker-one-ai-engine)
 
 <br />
 
 
 
----
 
 ### SEOify
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-seoify.webp?twic=v1/resize=240" alt="SEOify">
@@ -4456,18 +4192,17 @@ GPT-4 के साथ व्यापक प्रतिक्रियाए�
 
 पेश है SEOiFy: हमारे अत्याधुनिक AI-संचालित प्लेटफ़ॉर्म की मदद से अपनी वेबसाइट के SEO में क्रांति लाएं। इंडस्ट्री के मानकों के आधार पर स्वचालित, रीयल-टाइम ऑप्टिमाइज़ेशन के ज़रिए अपनी साइट की पूरी क्षमता को अनलॉक करें। हमारे अच्छे AI-संचालित SEO टूल की बदौलत, अपनी रैंकिंग और ऑर्गेनिक ट्रैफ़िक को आसानी से बेहतर बनाएं। 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/seoify)
+[More Information and Pricing](https://www.thataicollection.com/en/application/seoify)
 
 <br />
 
 
 
+
+
+[See All 🔍 खोज इंजन Applications on AI Collection](https://www.thataicollection.com/en/categories/search-engines)
+
 ---
-
-
-[See All 🔍 खोज इंजन Applications on AI Collection](https://www.thataicollection.com/hi/categories/search-engines)
-
-___
 
 ## स्लाइड और प्रस्तुतियाँ
 
@@ -4480,13 +4215,12 @@ ___
 
 चैटबीसीजी का उपयोग करके तुरंत स्लाइड डेक बनाएं
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/chatba)
+[More Information and Pricing](https://www.thataicollection.com/en/application/chatba)
 
 <br />
 
 <br />
 
----
 
 ### SlidesAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-slidesai.webp?twic=v1/resize=240" alt="SlidesAI">
@@ -4495,13 +4229,12 @@ ___
 
 थकाऊ, मैन्युअल स्लाइड निर्माण को अलविदा कहें। एआई को आपके लिए रूपरेखा और प्रस्तुति सामग्री लिखने दें। हमारे टूल से, आप बहुत ही कम समय में किसी भी टेक्स्ट से आसानी से पेशेवर, आकर्षक स्लाइड बना सकते हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/slidesai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/slidesai)
 
 <br />
 
 
 
----
 
 ### Pitchgrade
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-pitchgrade.webp?twic=v1/resize=240" alt="Pitchgrade">
@@ -4510,13 +4243,12 @@ ___
 
 पिच डेक एक ऐसा प्रज़ेंटेशन होता है जिसका इस्तेमाल कंपनी निवेशकों को देने के लिए करती है। यह कंपनी के बिज़नेस मॉडल, वित्तीय अनुमानों और अन्य प्रमुख मैट्रिक्स के बारे में बताता है, जिन्हें निवेशक देखना चाहेंगे।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/pitchgrade)
+[More Information and Pricing](https://www.thataicollection.com/en/application/pitchgrade)
 
 <br />
 
 
 
----
 
 ### My Pitch Deck
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-my-pitch-deck.webp?twic=v1/resize=240" alt="My Pitch Deck">
@@ -4527,13 +4259,12 @@ ___
 तुम्हारे जवाबों के आधार पर हमारा AI तुम्हारे स्टार्टअप के लिए कस्टम 10-स्लाइड पिच डेक आउटलाइन तैयार करेगा। आगे बढ़ने के लिए तैयार!
 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/my-pitch-deck)
+[More Information and Pricing](https://www.thataicollection.com/en/application/my-pitch-deck)
 
 <br />
 
 
 
----
 
 ### Tome
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tome.webp?twic=v1/resize=240" alt="Tome">
@@ -4542,13 +4273,12 @@ ___
 
 टोम के एआई-संचालित कहानी कहने के प्रारूप के साथ अपने सर्वश्रेष्ठ काम को अनलॉक करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/tome)
+[More Information and Pricing](https://www.thataicollection.com/en/application/tome)
 
 <br />
 
 <br />
 
----
 
 ### Glimmer AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-glimmer-ai.webp?twic=v1/resize=240" alt="Glimmer AI">
@@ -4557,13 +4287,12 @@ ___
 
 Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट या वॉयस कमांड का उपयोग करके पेशेवर-गुणवत्ता की प्रस्तुतियों को आसान और तेज़ बनाने के लिए करता है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/glimmer-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/glimmer-ai)
 
 <br />
 
 <br />
 
----
 
 ### STORYD
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-storyd.webp?twic=v1/resize=240" alt="STORYD">
@@ -4572,13 +4301,12 @@ Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट �
 
 डेटा-संचालित व्यावसायिक प्रस्तुतियों को जल्दी और आसानी से बनाने में पेशेवरों की मदद करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/storyd)
+[More Information and Pricing](https://www.thataicollection.com/en/application/storyd)
 
 <br />
 
 <br />
 
----
 
 ### Plus AI for Google Slides
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-plus-ai-for-google-slides.webp?twic=v1/resize=240" alt="Plus AI for Google Slides">
@@ -4587,18 +4315,17 @@ Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट �
 
 प्लस एआई के साथ मिनटों में प्रस्तुतिकरण बनाएं। एक खाली डेक से शुरू करना प्रस्तुति बनाने के सबसे चुनौतीपूर्ण हिस्सों में से एक है। प्लस एआई आपको एक रूपरेखा बनाने, पहला मसौदा बनाने और अपनी स्लाइड्स में अतिरिक्त संपादन का सुझाव देने में मदद करता है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/plus-ai-for-google-slides)
+[More Information and Pricing](https://www.thataicollection.com/en/application/plus-ai-for-google-slides)
 
 <br />
 
 
 
+
+
+[See All 📊 स्लाइड और प्रस्तुतियाँ Applications on AI Collection](https://www.thataicollection.com/en/categories/slides-and-presentations)
+
 ---
-
-
-[See All 📊 स्लाइड और प्रस्तुतियाँ Applications on AI Collection](https://www.thataicollection.com/hi/categories/slides-and-presentations)
-
-___
 
 ## सामाजिक नेटवर्क और डेटिंग
 
@@ -4611,13 +4338,12 @@ ___
 
 रोस्ट लोगों को टिंडर, बम्बल और हिंज जैसे डेटिंग ऐप्स पर उनके मैच में 10 गुना मदद करता है। एआई द्वारा संचालित, यह उनके मैचों की मात्रा और गुणवत्ता बढ़ाने के लिए डेटा-संचालित डेटिंग अंतर्दृष्टि और विशेषज्ञ सलाह प्रदान करता है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/roast)
+[More Information and Pricing](https://www.thataicollection.com/en/application/roast)
 
 <br />
 
 
 
----
 
 ### AI movie Club
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-movie-club.webp?twic=v1/resize=240" alt="AI movie Club">
@@ -4626,13 +4352,12 @@ ___
 
 AI-मूवी क्लब एक सोशल नेटवर्क है जो आर्टिफिशियल इंटेलिजेंस के साथ फिल्में बनाता है!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ai-movie-club)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-movie-club)
 
 <br />
 
 <br />
 
----
 
 ### HotConvo
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hotconvo.webp?twic=v1/resize=240" alt="HotConvo">
@@ -4641,13 +4366,12 @@ AI-मूवी क्लब एक सोशल नेटवर्क है �
 
 सेकंड में फ्लर्टी चैट। Tinder, Bumble, या किसी भी डेटिंग ऐप्स से प्रोफाइल बायो या चल रही बातचीत का स्क्रीनशॉट लें -> Hotconvo को स्मार्ट सुझावों के संदर्भ को समझने दें -> अपने अगले संदेश के लिए क्या कहना है इसकी प्रेरणा पाने के लिए कई सुझाव प्राप्त करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/hotconvo)
+[More Information and Pricing](https://www.thataicollection.com/en/application/hotconvo)
 
 <br />
 
 
 
----
 
 ### AI Social Bio
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-social-bio.webp?twic=v1/resize=240" alt="AI Social Bio">
@@ -4659,13 +4383,12 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 
 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ai-social-bio)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-social-bio)
 
 <br />
 
 
 
----
 
 ### TweetAI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweetai.webp?twic=v1/resize=240" alt="TweetAI">
@@ -4674,13 +4397,12 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 
 ट्वीट एआई
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/tweetai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/tweetai)
 
 <br />
 
 <br />
 
----
 
 ### Tweethunter
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweethunter.webp?twic=v1/resize=240" alt="Tweethunter">
@@ -4689,13 +4411,12 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 
 बिक्री, विकास और नए नेटवर्क प्राप्त करें। आप वर्तमान में जो प्रयास कर रहे हैं उससे तेज़।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/tweethunter)
+[More Information and Pricing](https://www.thataicollection.com/en/application/tweethunter)
 
 <br />
 
 <br />
 
----
 
 ### TweetEmote
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweetemote.webp?twic=v1/resize=240" alt="TweetEmote">
@@ -4704,13 +4425,12 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 
 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/tweetemote)
+[More Information and Pricing](https://www.thataicollection.com/en/application/tweetemote)
 
 <br />
 
 <br />
 
----
 
 ### Postwise
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-postwise.webp?twic=v1/resize=240" alt="Postwise">
@@ -4719,13 +4439,12 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 
 दुनिया के सबसे स्मार्ट एआई ट्विटर टूल के साथ लिखें, शेड्यूल करें और आगे बढ़ें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/postwise)
+[More Information and Pricing](https://www.thataicollection.com/en/application/postwise)
 
 <br />
 
 <br />
 
----
 
 ### Graham AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-graham-ai.webp?twic=v1/resize=240" alt="Graham AI">
@@ -4734,13 +4453,12 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 
 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/graham-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/graham-ai)
 
 <br />
 
 <br />
 
----
 
 ### Tweetspear
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweetspear.webp?twic=v1/resize=240" alt="Tweetspear">
@@ -4749,18 +4467,17 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 
 एआई-पावर्ड सुझाए गए उत्तरों के साथ अपने ट्विटर एंगेजमेंट में क्रांति लाएं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/tweetspear)
+[More Information and Pricing](https://www.thataicollection.com/en/application/tweetspear)
 
 <br />
 
 <br />
+
+
+
+[See All 💞 सामाजिक नेटवर्क और डेटिंग Applications on AI Collection](https://www.thataicollection.com/en/categories/social-networks-and-dating)
 
 ---
-
-
-[See All 💞 सामाजिक नेटवर्क और डेटिंग Applications on AI Collection](https://www.thataicollection.com/hi/categories/social-networks-and-dating)
-
-___
 
 ## भाषण
 
@@ -4773,13 +4490,12 @@ ___
 
 स्पीच एन्हांसमेंट वॉयस रिकॉर्डिंग को ध्वनि बनाता है जैसे कि वे एक पेशेवर स्टूडियो में रिकॉर्ड किए गए हों
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/adobe-speech-enhancer)
+[More Information and Pricing](https://www.thataicollection.com/en/application/adobe-speech-enhancer)
 
 <br />
 
 <br />
 
----
 
 ### Lingostar
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lingostar.webp?twic=v1/resize=240" alt="Lingostar">
@@ -4788,13 +4504,12 @@ ___
 
 लिंगोस्टार एआई है जिससे भाषा सीखने वाले अंग्रेजी, स्पेनिश या फ्रेंच में बात कर सकते हैं। मुफ़्त में बोली जाने वाली वास्तविक बातचीत के साथ धाराप्रवाहिता तक पहुँचें। अब और शिक्षक नहीं - लिंगोस्टार ए.आई. के साथ चैट करें। अपने उच्चारण, शब्दावली और समझ में सुधार करने के लिए
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/lingostar)
+[More Information and Pricing](https://www.thataicollection.com/en/application/lingostar)
 
 <br />
 
 
 
----
 
 ### Poly AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-poly-ai.webp?twic=v1/resize=240" alt="Poly AI">
@@ -4803,13 +4518,12 @@ ___
 
 लगातार अपना सर्वश्रेष्ठ ब्रांड अनुभव प्रदान करें, सटीक समाधान प्राप्त करें और डेटा-संचालित व्यावसायिक अवसरों को उजागर करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/poly-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/poly-ai)
 
 <br />
 
 <br />
 
----
 
 ### SmallTalk2.me
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-smalltalk2.me.webp?twic=v1/resize=240" alt="SmallTalk2.me">
@@ -4818,13 +4532,12 @@ ___
 
 स्मॉलटॉक के साथ, शिक्षार्थी अपने अंग्रेजी दक्षता स्तर का स्व-मूल्यांकन कर सकते हैं, अंग्रेजी या आईईएलटीएस परीक्षा में नौकरी के लिए इंटरव्यू की तैयारी कर सकते हैं, और बोलने के अभ्यास में संलग्न हो सकते हैं जो उन्हें कार्यस्थल, शैक्षणिक सेटिंग्स या रोजमर्रा की जिंदगी में बातचीत के लिए तैयार करते हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/smalltalk2.me)
+[More Information and Pricing](https://www.thataicollection.com/en/application/smalltalk2.me)
 
 <br />
 
 
 
----
 
 ### SpeechGen.io
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-speechgen.io.webp?twic=v1/resize=240" alt="SpeechGen.io">
@@ -4833,18 +4546,17 @@ ___
 
 अलग-अलग ऐप्लिकेशन के लिए टेक्स्ट को वास्तविक भाषण में रूपांतरित करें। वीडियो निर्माताओं, शिक्षकों और मार्केटर्स के लिए बिल्कुल सही। आवाज़ों, भाषाओं और एक्सेंट की एक विस्तृत रेंज प्रदान करता है। गति, पिच और ज़ोर देने सहित वॉइस सेटिंग को कस्टमाइज़ करें। वॉयसओवर, ई-लर्निंग सामग्री और विज्ञापन बनाने के लिए आदर्श। टेक्स्ट-टू-स्पीच का एक बहुमुखी और व्यापक समाधान।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/speechgen.io)
+[More Information and Pricing](https://www.thataicollection.com/en/application/speechgen.io)
 
 <br />
 
 
 
+
+
+[See All 📢 भाषण Applications on AI Collection](https://www.thataicollection.com/en/categories/speech)
+
 ---
-
-
-[See All 📢 भाषण Applications on AI Collection](https://www.thataicollection.com/hi/categories/speech)
-
-___
 
 ## मूलपाठ
 
@@ -4857,13 +4569,12 @@ ___
 
 सेकंड में सभी उद्देश्यों के लिए फॉर्म बनाएं। कोड को जानने के बिना
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/tally-forms)
+[More Information and Pricing](https://www.thataicollection.com/en/application/tally-forms)
 
 <br />
 
 <br />
 
----
 
 ### Scholarcy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-scholarcy.webp?twic=v1/resize=240" alt="Scholarcy">
@@ -4872,13 +4583,12 @@ ___
 
 स्कॉलरसी ™ एक ऑनलाइन सारांश उपकरण है जो लंबे लेखों को सारांश फ्लैशकार्ड में बनाता और परिवर्तित करता है। निःशुल्क साइन अप करें और संक्षेप करना शुरू करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/scholarcy)
+[More Information and Pricing](https://www.thataicollection.com/en/application/scholarcy)
 
 <br />
 
 
 
----
 
 ### Jot
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jot.webp?twic=v1/resize=240" alt="Jot">
@@ -4887,13 +4597,12 @@ ___
 
 Jot स्वचालित रूप से AI का उपयोग करके आपके लिए असीमित विज्ञापन कॉपी विविधताएँ उत्पन्न करता है। आर्टिफिशियल इंटेलिजेंस के साथ अपनी टीम की कॉपी राइटिंग प्रक्रियाओं को कारगर बनाएं। OpenAI GPT-3 द्वारा संचालित।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/jot)
+[More Information and Pricing](https://www.thataicollection.com/en/application/jot)
 
 <br />
 
 
 
----
 
 ### Bookclub
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-bookclub.webp?twic=v1/resize=240" alt="Bookclub">
@@ -4902,13 +4611,12 @@ Jot स्वचालित रूप से AI का उपयोग कर�
 
 शक्तिशाली मशीन लर्निंग आधारित सिफारिशों के साथ बेस्टसेलर, मशहूर हस्तियों और पुस्तक-श्रृंखला की पुस्तकों का अन्वेषण करें। Bookclub.ai पर बढ़ते पुस्तकप्रेमी समुदाय का हिस्सा बनें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/bookclub)
+[More Information and Pricing](https://www.thataicollection.com/en/application/bookclub)
 
 <br />
 
 
 
----
 
 ### Namewizard
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-namewizard.webp?twic=v1/resize=240" alt="Namewizard">
@@ -4917,13 +4625,12 @@ Jot स्वचालित रूप से AI का उपयोग कर�
 
 नेमविज़ार्ड जनरेटर है जो आपके अगले प्रोजेक्ट के लिए सही व्यवसाय और डोमेन नाम खोजने के लिए एआई का उपयोग करता है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/namewizard)
+[More Information and Pricing](https://www.thataicollection.com/en/application/namewizard)
 
 <br />
 
 <br />
 
----
 
 ### Namelix
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-namelix.webp?twic=v1/resize=240" alt="Namelix">
@@ -4932,13 +4639,12 @@ Jot स्वचालित रूप से AI का उपयोग कर�
 
 आर्टिफिशियल इंटेलिजेंस का उपयोग करके एक छोटा, ब्रांड योग्य व्यवसाय नाम उत्पन्न करें। नाम विचार प्राप्त करें Namelix अत्याधुनिक भाषा मॉडल के साथ छोटे, आकर्षक नाम उत्पन्न करता है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/namelix)
+[More Information and Pricing](https://www.thataicollection.com/en/application/namelix)
 
 <br />
 
 
 
----
 
 ### Langame card game
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-langame-card-game.webp?twic=v1/resize=240" alt="Langame card game">
@@ -4947,13 +4653,12 @@ Jot स्वचालित रूप से AI का उपयोग कर�
 
 ताश के अपने व्यक्तिगत डेक बनाएं और अपने दोस्तों के साथ खेलें। 💅 स्वाइप करके चुनें कि कौन से कार्ड आपके खुद के डेक का हिस्सा होने चाहिए।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/langame-card-game)
+[More Information and Pricing](https://www.thataicollection.com/en/application/langame-card-game)
 
 <br />
 
 <br />
 
----
 
 ### Gandhiji
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gandhiji.webp?twic=v1/resize=240" alt="Gandhiji">
@@ -4962,13 +4667,12 @@ Jot स्वचालित रूप से AI का उपयोग कर�
 
 सभी के लिए एआई संचालित चैट ऐप्स
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/gandhiji)
+[More Information and Pricing](https://www.thataicollection.com/en/application/gandhiji)
 
 <br />
 
 <br />
 
----
 
 ### Goatchat
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-goatchat.webp?twic=v1/resize=240" alt="Goatchat">
@@ -4977,13 +4681,12 @@ Jot स्वचालित रूप से AI का उपयोग कर�
 
 क्या आप कभी नेपोलियन या आइंस्टीन से कुछ सवाल पूछना चाहते हैं? खैर, अब आपके पास मौका है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/goatchat)
+[More Information and Pricing](https://www.thataicollection.com/en/application/goatchat)
 
 <br />
 
 <br />
 
----
 
 ### GPT Hotline
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gpt-hotline.webp?twic=v1/resize=240" alt="GPT Hotline">
@@ -4992,18 +4695,17 @@ Jot स्वचालित रूप से AI का उपयोग कर�
 
 WhatsApp पर दुनिया के सबसे स्मार्ट एआई से जुड़ें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/gpt-hotline)
+[More Information and Pricing](https://www.thataicollection.com/en/application/gpt-hotline)
 
 <br />
 
 <br />
+
+
+
+[See All 📝 मूलपाठ Applications on AI Collection](https://www.thataicollection.com/en/categories/text)
 
 ---
-
-
-[See All 📝 मूलपाठ Applications on AI Collection](https://www.thataicollection.com/hi/categories/text)
-
-___
 
 ## भाषण के पाठ
 
@@ -5016,13 +4718,12 @@ ___
 
 एआई सक्षम, वास्तविक लोगों की आवाज। मिनटों में स्टूडियो-गुणवत्ता वाला वॉइस ओवर करें। पॉडकास्ट, वीडियो और अपनी सभी पेशेवर प्रस्तुतियों के लिए Murfs की सजीव एआई आवाजों का उपयोग करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/murf.ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/murf.ai)
 
 <br />
 
 
 
----
 
 ### Listnr 2.0
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-listnr-2.0.webp?twic=v1/resize=240" alt="Listnr 2.0">
@@ -5031,13 +4732,12 @@ ___
 
 सर्वश्रेष्ठ सिंथेटिक आवाजों के साथ हमारे एआई वॉयस जेनरेटर का उपयोग करके यथार्थवादी टेक्स्ट टू स्पीच (टीटीएस) ऑडियो उत्पन्न करें। तुरंत टेक्स्ट को नेचुरल-साउंडिंग स्पीच में कन्वर्ट करें और MP3 और WAV फॉर्मेट में डाउनलोड करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/listnr-2.0)
+[More Information and Pricing](https://www.thataicollection.com/en/application/listnr-2.0)
 
 <br />
 
 
 
----
 
 ### VERBATIK
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-verbatik.webp?twic=v1/resize=240" alt="VERBATIK">
@@ -5046,13 +4746,12 @@ ___
 
 ऑनलाइन एआई वॉयस जेनरेटर और सर्वश्रेष्ठ सिंथेटिक आवाज का उपयोग करके यथार्थवादी टेक्स्ट टू स्पीच (टीटीएस) ऑडियो उत्पन्न करें। तुरंत टेक्स्ट को नेचुरल-साउंडिंग स्पीच में बदलें और MP3 और WAV ऑडियो फाइलों के रूप में डाउनलोड करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/verbatik)
+[More Information and Pricing](https://www.thataicollection.com/en/application/verbatik)
 
 <br />
 
 
 
----
 
 ### Article.Audio
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-article.audio.webp?twic=v1/resize=240" alt="Article.Audio">
@@ -5061,13 +4760,12 @@ ___
 
 एक लेख पढ़ने के लिए बहुत आलसी? कोई बात नहीं, इसे सुनो! थंडरकंटेंट द्वारा संचालित
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/article.audio)
+[More Information and Pricing](https://www.thataicollection.com/en/application/article.audio)
 
 <br />
 
 <br />
 
----
 
 ### NaturalReader
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-naturalreader.webp?twic=v1/resize=240" alt="NaturalReader">
@@ -5076,13 +4774,12 @@ ___
 
 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/naturalreader)
+[More Information and Pricing](https://www.thataicollection.com/en/application/naturalreader)
 
 <br />
 
 <br />
 
----
 
 ### Wellsaid
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wellsaid.webp?twic=v1/resize=240" alt="Wellsaid">
@@ -5091,13 +4788,12 @@ ___
 
 वेलसैड के साथ, आप और आपकी टीम आपकी सभी डिजिटल सामग्री के लिए एक सम्मोहक यथार्थवादी एआई वॉयस ओवर बना सकते हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/wellsaid)
+[More Information and Pricing](https://www.thataicollection.com/en/application/wellsaid)
 
 <br />
 
 <br />
 
----
 
 ### Createaivoiceovers
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-createaivoiceovers.webp?twic=v1/resize=240" alt="Createaivoiceovers">
@@ -5106,13 +4802,12 @@ ___
 
 सजीव जैसी दिखने वाली आकर्षक आवाज़ की मदद से अपने टेक्स्ट को तेज़ी से बोलचाल में बदलें, जो तुम्हारे दर्शकों को पसंद आएगी। तुम्हारी स्क्रिप्ट रिकॉर्ड करवाने के लिए रिकॉर्डिंग स्टूडियो किराए पर लेने की ज़रूरत नहीं है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/createaivoiceovers)
+[More Information and Pricing](https://www.thataicollection.com/en/application/createaivoiceovers)
 
 <br />
 
 
 
----
 
 ### Voicera
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-voicera.webp?twic=v1/resize=240" alt="Voicera">
@@ -5121,13 +4816,12 @@ ___
 
 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/voicera)
+[More Information and Pricing](https://www.thataicollection.com/en/application/voicera)
 
 <br />
 
 <br />
 
----
 
 ### FakeYou
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fakeyou.webp?twic=v1/resize=240" alt="FakeYou">
@@ -5136,13 +4830,12 @@ ___
 
 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/fakeyou)
+[More Information and Pricing](https://www.thataicollection.com/en/application/fakeyou)
 
 <br />
 
 <br />
 
----
 
 ### Voicemaker
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-voicemaker.webp?twic=v1/resize=240" alt="Voicemaker">
@@ -5151,18 +4844,17 @@ ___
 
 अपने व्यावसायिक उपयोग के लिए ऑडियो फ़ाइलें बनाएँ। वॉयसमेकर आपकी सदस्यता समाप्त होने के बाद भी आपको अपनी जेनरेट की गई ऑडियो फाइलों को पुनर्वितरित करने की अनुमति देता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/voicemaker)
+[More Information and Pricing](https://www.thataicollection.com/en/application/voicemaker)
 
 <br />
 
 
 
+
+
+[See All 📝🔉 भाषण के पाठ Applications on AI Collection](https://www.thataicollection.com/en/categories/text-to-speech)
+
 ---
-
-
-[See All 📝🔉 भाषण के पाठ Applications on AI Collection](https://www.thataicollection.com/hi/categories/text-to-speech)
-
-___
 
 ## अनुवाद और प्रतिलेख
 
@@ -5175,13 +4867,12 @@ ___
 
 वह सब कुछ जो तुम्हारे वीडियो को एक ही ऐप में चाहिए: कैप्शन जेनरेट करें, सबटाइटल ट्रांसलेट करें, वीडियो डबिंग, AI वॉयस-ओवर, वॉइस ट्रांसक्रिप्ट रिकॉर्ड करें वगैरह। &n हफ़्तों या महीनों को बर्बाद करना बंद करोn, 100 गुना तेज़ी से वीडियो ट्रांसलेट और सबटाइटल करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/translatevideo)
+[More Information and Pricing](https://www.thataicollection.com/en/application/translatevideo)
 
 <br />
 
 
 
----
 
 ### Rephrasely
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rephrasely.webp?twic=v1/resize=240" alt="Rephrasely">
@@ -5190,13 +4881,12 @@ ___
 
 हमारे द्वारा प्रदान की जाने वाली अठारह (12 मुफ़्त और 6 प्रीमियम) शैलियों में से प्रत्येक के लिए 100+ से अधिक भाषाओं में आपके पाठ की विविधताएं उत्पन्न करने के लिए अत्याधुनिक AI का उपयोग करता है। ऐसा करने से, हम किसी भी अन्य सेवा की तुलना में अधिक मूल्य और विविधता प्रदान करने में सक्षम होते हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/rephrasely)
+[More Information and Pricing](https://www.thataicollection.com/en/application/rephrasely)
 
 <br />
 
 
 
----
 
 ### Rythmex
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rythmex.webp?twic=v1/resize=240" alt="Rythmex">
@@ -5205,13 +4895,12 @@ ___
 
 आसानी से, जल्दी और प्रभावी रूप से ऑडियो को टेक्स्ट में ट्रांसक्रिप्ट करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/rythmex)
+[More Information and Pricing](https://www.thataicollection.com/en/application/rythmex)
 
 <br />
 
 <br />
 
----
 
 ### RIVERSIDE
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-riverside.webp?twic=v1/resize=240" alt="RIVERSIDE">
@@ -5226,13 +4915,12 @@ ___
 100+ भाषाओं में मूल निवासी।
 100 अलग-अलग भाषाओं और मुहावरे में अपने-आप ट्रांसक्रिप्शन, इस पर तुम्हारे द्वारा फेंके गए किसी भी एक्सेंट या क्षेत्रीय विवरण से कई गुना बढ़ जाता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/riverside)
+[More Information and Pricing](https://www.thataicollection.com/en/application/riverside)
 
 <br />
 
 
 
----
 
 ### Deciphr AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-deciphr-ai.webp?twic=v1/resize=240" alt="Deciphr AI">
@@ -5241,13 +4929,12 @@ ___
 
 डीप एआई द्वारा संचालित, टाइमस्टैंप को डिसीफर करता है और आपके लिए आपके संपूर्ण पॉडकास्ट ट्रांसक्रिप्ट को सारांशित करता है। कॉफी बनाने में जितना समय लगता है, उससे भी कम समय में
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/deciphr-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/deciphr-ai)
 
 <br />
 
 
 
----
 
 ### Graphic AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-graphic-ai.webp?twic=v1/resize=240" alt="Graphic AI">
@@ -5256,13 +4943,12 @@ ___
 
 स्टॉर्क टीमों को संचार और उत्पादकता में सुधार करने में मदद करता है। यह हाइब्रिड और रिमोट टीमों के लिए एक बिजनेस मैसेंजर है जो सभी मीटिंग्स और कॉल को स्वचालित रूप से रिकॉर्ड और ट्रांसक्राइब करता है। अतुल्यकालिक पोस्ट महामारी दुनिया के लिए बनाया गया है और कृत्रिम बुद्धि द्वारा सहायता प्रदान की गई है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/graphic-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/graphic-ai)
 
 <br />
 
 
 
----
 
 ### Snipd Podcast Summaries
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-snipd-podcast-summaries.webp?twic=v1/resize=240" alt="Snipd Podcast Summaries">
@@ -5271,13 +4957,12 @@ ___
 
 हाइलाइट खोजें अपने पसंद के पॉडकास्ट से सबसे अच्छी हाइलाइट सुनें और पूरे एपिसोड में गोता लगाएँ
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/snipd-podcast-summaries)
+[More Information and Pricing](https://www.thataicollection.com/en/application/snipd-podcast-summaries)
 
 <br />
 
 <br />
 
----
 
 ### Sumly
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sumly.webp?twic=v1/resize=240" alt="Sumly">
@@ -5286,13 +4971,12 @@ ___
 
 व्यस्त कार्यक्रम को सर्वश्रेष्ठ से सीखने से पीछे न हटने दें। AI-जनित पॉडकास्ट सारांश सीधे आपके इनबॉक्स में डिलीवर किए जाते हैं। अपने पसंदीदा शो पर अद्यतित रहें और नए खोजें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/sumly)
+[More Information and Pricing](https://www.thataicollection.com/en/application/sumly)
 
 <br />
 
 
 
----
 
 ### WhisperAPI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-whisperapi.webp?twic=v1/resize=240" alt="WhisperAPI">
@@ -5307,13 +4991,12 @@ ___
 
 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/whisperapi)
+[More Information and Pricing](https://www.thataicollection.com/en/application/whisperapi)
 
 <br />
 
 
 
----
 
 ### Voicetapp
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-voicetapp.webp?twic=v1/resize=240" alt="Voicetapp">
@@ -5322,18 +5005,17 @@ ___
 
 नवीनतम भाषण पहचान तकनीक के साथ अपने ऑडियो और वीडियो के लिए सटीक ट्रांसक्रिप्शन प्राप्त करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/voicetapp)
+[More Information and Pricing](https://www.thataicollection.com/en/application/voicetapp)
 
 <br />
 
 <br />
+
+
+
+[See All 🇺🇳 अनुवाद और प्रतिलेख Applications on AI Collection](https://www.thataicollection.com/en/categories/translation-and-transcript)
 
 ---
-
-
-[See All 🇺🇳 अनुवाद और प्रतिलेख Applications on AI Collection](https://www.thataicollection.com/hi/categories/translation-and-transcript)
-
-___
 
 ## अवकाश और ट्रिप प्लानर
 
@@ -5346,13 +5028,12 @@ ___
 
 यह एआई-सहायक एक कस्टम ट्रिप डिजाइन कर सकता है, आपको कहां जाना है, इस पर प्रेरणा देता है, और यहां तक कि होटल, रेस्तरां और आकर्षण के लिए स्थानीय अनुशंसाएं भी उत्पन्न करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/vacay)
+[More Information and Pricing](https://www.thataicollection.com/en/application/vacay)
 
 <br />
 
 
 
----
 
 ### Roamr
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-roamr.webp?twic=v1/resize=240" alt="Roamr">
@@ -5361,13 +5042,12 @@ ___
 
 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/roamr)
+[More Information and Pricing](https://www.thataicollection.com/en/application/roamr)
 
 <br />
 
 <br />
 
----
 
 ### Orkoi
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-orkoi.webp?twic=v1/resize=240" alt="Orkoi">
@@ -5376,13 +5056,12 @@ ___
 
 हमारा एआई आपको किसी भी शहर या स्थान के लिए एक अनुकूलित योजना तैयार करेगा, जहां आप जाना चाहते हैं, रेस्तरां, मजेदार गतिविधियों, आकर्षण और सर्वोत्तम साहसिक कार्य करने के लिए युक्तियों के साथ पूरा करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/orkoi)
+[More Information and Pricing](https://www.thataicollection.com/en/application/orkoi)
 
 <br />
 
 
 
----
 
 ### Travel Blog Name Ideas Generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-travel-blog-name-ideas-generator.webp?twic=v1/resize=240" alt="Travel Blog Name Ideas Generator">
@@ -5391,18 +5070,17 @@ ___
 
 TravelFeed के ब्लॉग नाम विचार जनरेटर के साथ सही यात्रा ब्लॉग नाम अनलॉक करें! एक कीवर्ड डालें - शायद आपका अपना नाम - और देखें कि हमारा एआई आपको कई आकर्षक सुझावों से चकाचौंध कर देता है। क्या आपको कोई नाम पसंद है? इसके .com डोमेन और TravelFeed उपयोगकर्ता नाम की उपलब्धता को स्नैप-चेक करें। एक ऐसे नाम के साथ अपनी ब्लॉगिंग यात्रा शुरू करें जो आपकी तरह ही साहसिक हो!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/travel-blog-name-ideas-generator)
+[More Information and Pricing](https://www.thataicollection.com/en/application/travel-blog-name-ideas-generator)
 
 <br />
 
 
 
+
+
+[See All 🏖 अवकाश और ट्रिप प्लानर Applications on AI Collection](https://www.thataicollection.com/en/categories/vacation-and-trip-planner)
+
 ---
-
-
-[See All 🏖 अवकाश और ट्रिप प्लानर Applications on AI Collection](https://www.thataicollection.com/hi/categories/vacation-and-trip-planner)
-
-___
 
 ## वीडियो
 
@@ -5415,13 +5093,12 @@ ___
 
 कोलोसियन क्रिएटर वीडियो निर्माण को सरल और तनाव मुक्त बनाता है। वास्तविक अभिनेताओं के साथ हमारे AI वीडियो निर्माता की खोज करें। 5 मिनट से भी कम समय में वीडियो बनाएं
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/colossyan)
+[More Information and Pricing](https://www.thataicollection.com/en/application/colossyan)
 
 <br />
 
 
 
----
 
 ### HeyGen
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-heygen.webp?twic=v1/resize=240" alt="HeyGen">
@@ -5433,13 +5110,12 @@ ___
 विभिन्न उपयोग के मामलों के लिए पावरप्वाइंट बनाने जितनी आसानी से:
 व्याख्याकार और कैसे करें, विपणन, वैयक्तिकृत बिक्री, ई-लर्निंग, प्रशिक्षण और ऑनबोर्डिंग और समाचार।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/heygen)
+[More Information and Pricing](https://www.thataicollection.com/en/application/heygen)
 
 <br />
 
 
 
----
 
 ### HitPaw Online Video Enhancer
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hitpaw-online-video-enhancer.webp?twic=v1/resize=240" alt="HitPaw Online Video Enhancer">
@@ -5448,13 +5124,12 @@ ___
 
 HitPaw ऑनलाइन वीडियो एन्हांसर कम रिज़ॉल्यूशन वाले वीडियो के लिए सबसे अच्छा समाधान है, वीडियो समाधान को बिना किसी प्रयास के 1080P/4K तक बढ़ाएं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/hitpaw-online-video-enhancer)
+[More Information and Pricing](https://www.thataicollection.com/en/application/hitpaw-online-video-enhancer)
 
 <br />
 
 <br />
 
----
 
 ### Eightify
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-eightify.webp?twic=v1/resize=240" alt="Eightify">
@@ -5463,13 +5138,12 @@ HitPaw ऑनलाइन वीडियो एन्हांसर कम र
 
 ⚡️ YouTube वीडियो के लिए तत्काल AI-संचालित सारांश प्राप्त करें, समय बचाएं, 28 भाषाओं में अनुवाद करें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/eightify)
+[More Information and Pricing](https://www.thataicollection.com/en/application/eightify)
 
 <br />
 
 <br />
 
----
 
 ### AI Host
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-host.webp?twic=v1/resize=240" alt="AI Host">
@@ -5478,13 +5152,12 @@ HitPaw ऑनलाइन वीडियो एन्हांसर कम र
 
 LiveReacting आपकी स्ट्रीम में पहले से रिकॉर्ड किए गए वीडियो, गेम, काउंटडाउन और पोल जोड़कर आपको अधिक फ़ॉलोअर और सहभागिता प्राप्त करने में मदद करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ai-host)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-host)
 
 <br />
 
 <br />
 
----
 
 ### Fliki
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fliki.webp?twic=v1/resize=240" alt="Fliki">
@@ -5493,13 +5166,12 @@ LiveReacting आपकी स्ट्रीम में पहले से �
 
 2 मिनट में यथार्थवादी आवाजों का उपयोग करके स्क्रिप्ट या ब्लॉग पोस्ट से वीडियो बनाएं!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/fliki)
+[More Information and Pricing](https://www.thataicollection.com/en/application/fliki)
 
 <br />
 
 <br />
 
----
 
 ### Pictory
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-pictory.webp?twic=v1/resize=240" alt="Pictory">
@@ -5508,13 +5180,12 @@ LiveReacting आपकी स्ट्रीम में पहले से �
 
 अपनी लंबी फ़ॉर्म सामग्री से स्वचालित रूप से लघु, अत्यधिक साझा करने योग्य ब्रांडेड वीडियो बनाएं
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/pictory)
+[More Information and Pricing](https://www.thataicollection.com/en/application/pictory)
 
 <br />
 
 <br />
 
----
 
 ### Wzrd.ai
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wzrd.ai.webp?twic=v1/resize=240" alt="Wzrd.ai">
@@ -5523,13 +5194,12 @@ LiveReacting आपकी स्ट्रीम में पहले से �
 
 WZRD आर्टिफिशियल इंटेलिजेंस द्वारा संचालित इमर्सिव वीडियो के साथ आपके ऑडियो को बढ़ाता है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/wzrd.ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/wzrd.ai)
 
 <br />
 
 <br />
 
----
 
 ### HitPaw Video Enhancer
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hitpaw-video-enhancer.webp?twic=v1/resize=240" alt="HitPaw Video Enhancer">
@@ -5539,13 +5209,12 @@ WZRD आर्टिफिशियल इंटेलिजेंस द्व�
 HitPaw वीडियो एन्हांसर गुणवत्ता खोए बिना वीडियो की गुणवत्ता को आसानी से बढ़ाने और बढ़ाने में मदद करता है। यह AI वीडियो बढ़ाने वाला वीडियो की गुणवत्ता में सुधार कर सकता है, काले और सफेद वीडियो को रंगीन कर सकता है, कम गुणवत्ता वाले वीडियो को 1080P, 4K, 8K में बदल सकता है।
 HitPaw वीडियो अपस्केलर कई AI मॉडल के साथ किसी भी वीडियो को बढ़ाने में मदद करता है: डेनोइस, एनिमेशन, फेस, कलराइज़, कलर एन्हांसमेंट, फ़्रेम इंटरपोलेशन मॉडल, स्टैबलाइज़
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/hitpaw-video-enhancer)
+[More Information and Pricing](https://www.thataicollection.com/en/application/hitpaw-video-enhancer)
 
 <br />
 
 
 
----
 
 ### Atlas Navi
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-atlas-navi.webp?twic=v1/resize=240" alt="Atlas Navi">
@@ -5554,18 +5223,17 @@ HitPaw वीडियो अपस्केलर कई AI मॉडल के
 
 सबसे अच्छा नेविगेशन ऐप बनाया जा रहा है। मशीन लर्निंग और ब्लॉकचैन जैसी अत्याधुनिक तकनीकों के साथ, एटलस नवी दुनिया भर के ड्राइवरों के लिए नेविगेशन की अग्रणी पसंद बनने के लिए तैयार है। बेहतर रूटिंग के लिए A.I का इस्तेमाल करने वाली सटीक जगहें यह हर सेकंड 25 बार सड़क का विश्लेषण करती है जिससे दूसरे नेविगेशन ऐप्लिकेशन की तुलना में 100 गुना बेहतर डेटा मिलता है; 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/atlas-navi)
+[More Information and Pricing](https://www.thataicollection.com/en/application/atlas-navi)
 
 <br />
 
 
 
+
+
+[See All 🎬 वीडियो Applications on AI Collection](https://www.thataicollection.com/en/categories/video)
+
 ---
-
-
-[See All 🎬 वीडियो Applications on AI Collection](https://www.thataicollection.com/hi/categories/video)
-
-___
 
 ## वेब डिजाइन
 
@@ -5578,13 +5246,12 @@ ___
 
 AI द्वारा संचालित Figma के लिए एक जादुई डिज़ाइन टूल।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/magician)
+[More Information and Pricing](https://www.thataicollection.com/en/application/magician)
 
 <br />
 
 <br />
 
----
 
 ### Designs AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-designs-ai.webp?twic=v1/resize=240" alt="Designs AI">
@@ -5593,13 +5260,12 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 2 मिनट में कुछ भी ऑनलाइन बनाएं! AI के साथ एक लोगो, वीडियो, सोशल मीडिया बैनर, बिजनेस कार्ड, फ्लायर, मॉकअप और बहुत कुछ बनाएं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/designs-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/designs-ai)
 
 <br />
 
 <br />
 
----
 
 ### welovenocode
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-project-description-generator.webp?twic=v1/resize=240" alt="welovenocode">
@@ -5608,13 +5274,12 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 भरोसेमंद, जांचे-परखे विशेषज्ञों के साथ काम करें, जिन्होंने करोड़ों डॉलर के उत्पाद बनाए हैं
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ai-project-description-generator)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-project-description-generator)
 
 <br />
 
 <br />
 
----
 
 ### Uizard
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-uizard.webp?twic=v1/resize=240" alt="Uizard">
@@ -5623,13 +5288,12 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 मिनटों में शानदार वेबसाइट, वेब ऐप, मोबाइल ऐप, इंटरफेस, वायरफ्रेम, प्रोटोटाइप, मॉकअप डिज़ाइन करें। अपने विचारों को सहजता से देखें और संप्रेषित करें। कोई डिज़ाइन अनुभव आवश्यक नहीं है!
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/uizard)
+[More Information and Pricing](https://www.thataicollection.com/en/application/uizard)
 
 <br />
 
 
 
----
 
 ### Durable
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-durable.webp?twic=v1/resize=240" alt="Durable">
@@ -5638,13 +5302,12 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 एआई के साथ 30 सेकंड में एक वेबसाइट बनाएं - एआई वेबसाइट बिल्डर जो सेकंड में इमेज और कॉपी के साथ एक पूरी वेबसाइट तैयार करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/durable)
+[More Information and Pricing](https://www.thataicollection.com/en/application/durable)
 
 <br />
 
 <br />
 
----
 
 ### Piggy
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-piggy.webp?twic=v1/resize=240" alt="Piggy">
@@ -5653,13 +5316,12 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 अपने फोन पर शानदार सामग्री बनाना अब आसान हो गया है
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/piggy)
+[More Information and Pricing](https://www.thataicollection.com/en/application/piggy)
 
 <br />
 
 <br />
 
----
 
 ### Genius by Diagram
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-genius-by-diagram.webp?twic=v1/resize=240" alt="Genius by Diagram">
@@ -5668,13 +5330,12 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 डायग्राम द्वारा जीनियस की प्रतीक्षा सूची में शामिल हों
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/genius-by-diagram)
+[More Information and Pricing](https://www.thataicollection.com/en/application/genius-by-diagram)
 
 <br />
 
 <br />
 
----
 
 ### Stunning.so
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stunning.so.webp?twic=v1/resize=240" alt="Stunning.so">
@@ -5683,13 +5344,12 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 एआई द्वारा संचालित कॉपी और यहां तक कि छवियों सहित 30 सेकंड में शानदार वेबसाइट बनाएं
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/stunning.so)
+[More Information and Pricing](https://www.thataicollection.com/en/application/stunning.so)
 
 <br />
 
 <br />
 
----
 
 ### B12 AI Website Builder
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-b12-ai-website-builder.webp?twic=v1/resize=240" alt="B12 AI Website Builder">
@@ -5698,18 +5358,17 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 हमारा एआई-संचालित वेबसाइट बिल्डर विशेष रूप से आपके उद्योग के लिए टूल, सामग्री और छवियों के साथ आपकी ग्राहक-तैयार ऑनलाइन उपस्थिति उत्पन्न करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/b12-ai-website-builder)
+[More Information and Pricing](https://www.thataicollection.com/en/application/b12-ai-website-builder)
 
 <br />
 
 <br />
+
+
+
+[See All 🕸 वेब डिजाइन Applications on AI Collection](https://www.thataicollection.com/en/categories/web-design)
 
 ---
-
-
-[See All 🕸 वेब डिजाइन Applications on AI Collection](https://www.thataicollection.com/hi/categories/web-design)
-
-___
 
 ## लेखन सहायक
 
@@ -5723,13 +5382,12 @@ ___
 
 IX.AI: आपका सबसे शक्तिशाली, ऑल-इन-वन AI राइटिंग कोपायलट। बाजार में सबसे शक्तिशाली, ऑल-इन-वन एआई राइटिंग कोपायलट HIX.AI के साथ सेकंडों में विज्ञापनों, ईमेल, ब्लॉग आदि के लिए उच्च-गुणवत्ता वाली प्रतियां तैयार करें।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/hix.ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/hix.ai)
 
 <br />
 
 
 
----
 
 ### Rytr
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rytr.webp?twic=v1/resize=240" alt="Rytr">
@@ -5740,13 +5398,12 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 आसानी से किलर कंटेंट जेनरेट करें
 फिर कभी राइटर के ब्लॉक का सामना न करना पड़े — ब्लॉग से लेकर ईमेल से लेकर विज्ञापन कॉपी तक, कुछ ही सेकंड में लोकप्रिय टोन और भाषाओं में आकर्षक, मूल और हाई-कन्वर्ट करने वाली कॉपियां अपने आप जेनरेट करें। 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/rytr)
+[More Information and Pricing](https://www.thataicollection.com/en/application/rytr)
 
 <br />
 
 
 
----
 
 ### Elephas
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elephas.webp?twic=v1/resize=240" alt="Elephas">
@@ -5755,13 +5412,12 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 
 प्रतिदिन घंटे बचाएं। दुनिया का पहला एआई लेखक जो आपके मैक, आईफोन और आईपैड पर काम करता है।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/elephas)
+[More Information and Pricing](https://www.thataicollection.com/en/application/elephas)
 
 <br />
 
 <br />
 
----
 
 ### Quillbot Paraphraser
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-quillbot-paraphraser.webp?twic=v1/resize=240" alt="Quillbot Paraphraser">
@@ -5770,13 +5426,12 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 
 आपके शब्द मायने रखते हैं, और हमारा व्याख्यात्मक उपकरण यह सुनिश्चित करने के लिए डिज़ाइन किया गया है कि आप सही शब्दों का उपयोग करें। चुनने के लिए दो निःशुल्क मोड और पांच प्रीमियम मोड के साथ, आप QuillBot के ऑनलाइन Paraphraser का उपयोग विभिन्न तरीकों से किसी भी टेक्स्ट को फिर से लिखने के लिए कर सकते हैं।
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/quillbot-paraphraser)
+[More Information and Pricing](https://www.thataicollection.com/en/application/quillbot-paraphraser)
 
 <br />
 
 
 
----
 
 ### Typly
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-typly.webp?twic=v1/resize=240" alt="Typly">
@@ -5785,13 +5440,12 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 
 विशिष्ट रूप से अत्याधुनिक एआई कीबोर्ड है जो आपको एक क्लिक के साथ आपके सभी संदेशों का उत्तर देने में मदद करता है!🚀
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/typly)
+[More Information and Pricing](https://www.thataicollection.com/en/application/typly)
 
 <br />
 
 <br />
 
----
 
 ### AI Lyrics Generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-lyrics-generator.webp?twic=v1/resize=240" alt="AI Lyrics Generator">
@@ -5800,13 +5454,12 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 
 किसी भी विषय के लिए अपने स्वयं के गीत के बोल उत्पन्न करें, गीत की शैली और गीत के मूड को भी चुनें
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ai-lyrics-generator)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-lyrics-generator)
 
 <br />
 
 <br />
 
----
 
 ### Paraphraser AI
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paraphraser-ai.webp?twic=v1/resize=240" alt="Paraphraser AI">
@@ -5815,13 +5468,12 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 
 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/paraphraser-ai)
+[More Information and Pricing](https://www.thataicollection.com/en/application/paraphraser-ai)
 
 <br />
 
 <br />
 
----
 
 ### Wordtune
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wordtune.webp?twic=v1/resize=240" alt="Wordtune">
@@ -5830,13 +5482,12 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 
 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/wordtune)
+[More Information and Pricing](https://www.thataicollection.com/en/application/wordtune)
 
 <br />
 
 <br />
 
----
 
 ### Ai Paragraph Generator
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-paragraph-generator.webp?twic=v1/resize=240" alt="Ai Paragraph Generator">
@@ -5845,13 +5496,12 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 
 एआई पैराग्राफ जेनरेटर एक अत्याधुनिक कंटेंट क्रिएशन टूल है जो आर्टिफिशियल इंटेलिजेंस की ताकत का इस्तेमाल करता है। एडवांस नेचुरल लैंग्वेज प्रोसेसिंग और मशीन लर्निंग का उपयोग करते हुए, यह तेज़ी से सुसंगत और प्रासंगिक पैराग्राफ़ बनाता है, जिससे यह लेखन की विभिन्न आवश्यकताओं के लिए एक अमूल्य संसाधन बन जाता है। 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/ai-paragraph-generator)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-paragraph-generator)
 
 <br />
 
 
 
----
 
 ### Paraphraser
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paraphraser.webp?twic=v1/resize=240" alt="Paraphraser">
@@ -5860,16 +5510,15 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 
 
 
-[More Information and Pricing](https://www.thataicollection.com/hi/application/paraphraser)
+[More Information and Pricing](https://www.thataicollection.com/en/application/paraphraser)
 
 <br />
 
 <br />
+
+
+
+[See All ✍️ लेखन सहायक Applications on AI Collection](https://www.thataicollection.com/en/categories/writing-assistant)
 
 ---
-
-
-[See All ✍️ लेखन सहायक Applications on AI Collection](https://www.thataicollection.com/hi/categories/writing-assistant)
-
-___
 
