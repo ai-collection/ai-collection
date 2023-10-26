@@ -147,7 +147,7 @@ AI写作副驾驶</h4>
 
 ---
 
-## 📈 会计与金融
+## 会计与金融
 
 <br />
 
@@ -212,7 +212,13 @@ Stocknews AI 每天都是精选最新股票新闻的策展人。发现每个人�
 
 ---
 
-## 🎲 动画和 3D 建模
+<br />
+
+[See All $📈 会计与金融 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/accounting-and-finance)
+
+---
+
+## 动画和 3D 建模
 
 <br />
 
@@ -291,7 +297,13 @@ Blimey 是一款人工智能图像生成器，你可以在一分钟内将想法�
 
 ---
 
-## 🏯 建筑与室内设计
+<br />
+
+[See All $🎲 动画和 3D 建模 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/animation-and-3d-modeling)
+
+---
+
+## 建筑与室内设计
 
 <br />
 
@@ -400,7 +412,13 @@ Blimey 是一款人工智能图像生成器，你可以在一分钟内将想法�
 
 ---
 
-## 🌄 艺术与图像生成器
+<br />
+
+[See All $🏯 建筑与室内设计 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/architecture-and-interior-design)
+
+---
+
+## 艺术与图像生成器
 
 <br />
 
@@ -554,7 +572,13 @@ None
 
 ---
 
-## 😎 化身
+<br />
+
+[See All $🌄 艺术与图像生成器 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/art-and-image-generator)
+
+---
+
+## 化身
 
 <br />
 
@@ -708,7 +732,13 @@ AI 生成您主演的图片
 
 ---
 
-## 🤖💬 聊天机器人
+<br />
+
+[See All $😎 化身 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/avatars)
+
+---
+
+## 聊天机器人
 
 <br />
 
@@ -862,7 +892,13 @@ Kore.ai 通过部署对话式 AI 优先虚拟助手和流程助手，实现每�
 
 ---
 
-## 💻 代码和数据库助手
+<br />
+
+[See All $🤖💬 聊天机器人 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/chat-bot)
+
+---
+
+## 代码和数据库助手
 
 <br />
 
@@ -1016,7 +1052,13 @@ Klu.ai 是一个多合一平台，专为 AI 团队构建、部署和优化生成
 
 ---
 
-## 📠 内容生成和搜索引擎优化
+<br />
+
+[See All $💻 代码和数据库助手 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/code-and-database-assistant)
+
+---
+
+## 内容生成和搜索引擎优化
 
 <br />
 
@@ -1170,7 +1212,13 @@ Creaitor 将帮助您以更强大、更能表达情感的方式编写内容
 
 ---
 
-## 🧰 创作者工具包
+<br />
+
+[See All $📠 内容生成和搜索引擎优化 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/content-generation-and-seo)
+
+---
+
+## 创作者工具包
 
 <br />
 
@@ -1326,7 +1374,13 @@ TextSynth 使用自定义推理代码来更快地对标准 GPU 和 CPU 进行推
 
 ---
 
-## 👨‍💻 客户支持
+<br />
+
+[See All $🧰 创作者工具包 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/creators-toolkit)
+
+---
+
+## 客户支持
 
 <br />
 
@@ -1482,7 +1536,13 @@ Wadeck 是一款免费的 WhatsApp CRM 工具，它配备了基于 GPT 的人工
 
 ---
 
-## 🛒 电子商务
+<br />
+
+[See All $👨‍💻 客户支持 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/customer-support)
+
+---
+
+## 电子商务
 
 <br />
 
@@ -1606,7 +1666,13 @@ None
 
 ---
 
-## 🧠 教育与学习
+<br />
+
+[See All $🛒 电子商务 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/ecommerce)
+
+---
+
+## 教育与学习
 
 <br />
 
@@ -1760,7 +1826,13 @@ TutoeAI Learn Anything 是一个搜索引擎，用于学习任何主题的模块
 
 ---
 
-## 📧 电子邮件助理
+<br />
+
+[See All $🧠 教育与学习 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/education-and-learning)
+
+---
+
+## 电子邮件助理
 
 <br />
 
@@ -1914,7 +1986,13 @@ IntelliMail 是一个 chrome 扩展程序，可以生成您的电子邮件 - 因
 
 ---
 
-## 👩‍🎤 时尚
+<br />
+
+[See All $📧 电子邮件助理 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/email-assistant)
+
+---
+
+## 时尚
 
 <br />
 
@@ -1965,7 +2043,13 @@ SwaGai-人工智能在T恤上生成了图像。
 
 ---
 
-## 🤪 乐趣
+<br />
+
+[See All $👩‍🎤 时尚 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/fashion)
+
+---
+
+## 乐趣
 
 <br />
 
@@ -2119,7 +2203,13 @@ SwaGai-人工智能在T恤上生成了图像。
 
 ---
 
-## 🎮 赌博
+<br />
+
+[See All $🤪 乐趣 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/fun)
+
+---
+
+## 赌博
 
 <br />
 
@@ -2274,7 +2364,13 @@ Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编�
 
 ---
 
-## 🎁💡 礼物创意
+<br />
+
+[See All $🎮 赌博 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/gaming)
+
+---
+
+## 礼物创意
 
 <br />
 
@@ -2428,7 +2524,13 @@ Gift Genie AI 是一款由 AI 提供支持的软件，可让您在几秒钟内�
 
 ---
 
-## 👩‍⚕️ 卫生保健
+<br />
+
+[See All $🎁💡 礼物创意 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/gift-ideas)
+
+---
+
+## 卫生保健
 
 <br />
 
@@ -2477,7 +2579,13 @@ GetActyv 基于人工智能的私人教练将彻底改变您的健身之旅
 
 ---
 
-## 👩‍💼 人力资源与简历
+<br />
+
+[See All $👩‍⚕️ 卫生保健 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/healthcare)
+
+---
+
+## 人力资源与简历
 
 <br />
 
@@ -2632,7 +2740,13 @@ Springworks 构建人力资源软件解决方案，以解决招聘、背景验�
 
 ---
 
-## 💡 创意产生
+<br />
+
+[See All $👩‍💼 人力资源与简历 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/human-resources-and-resume)
+
+---
+
+## 创意产生
 
 <br />
 
@@ -2730,7 +2844,13 @@ My Spicy Vanilla 的 AI Date Idea Generator 是一款利用人工智能生成独
 
 ---
 
-## 👩‍⚖️ 合法的
+<br />
+
+[See All $💡 创意产生 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/idea-generation)
+
+---
+
+## 合法的
 
 <br />
 
@@ -2824,7 +2944,13 @@ Spellbook 使用 GPT-3 在 Microsoft Word 中为您的合同审查和建议语�
 
 ---
 
-## ⚜️ 徽标生成器
+<br />
+
+[See All $👩‍⚖️ 合法的 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/legal)
+
+---
+
+## 徽标生成器
 
 <br />
 
@@ -2904,7 +3030,13 @@ None
 
 ---
 
-## 👨‍💻 会议助理
+<br />
+
+[See All $⚜️ 徽标生成器 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/logo-generator)
+
+---
+
+## 会议助理
 
 <br />
 
@@ -3056,7 +3188,13 @@ Sembly 可以转录、记录会议笔记，并为您的专业会议生成见解�
 
 ---
 
-## 🎼 音乐和音频生成
+<br />
+
+[See All $👨‍💻 会议助理 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/meeting-assistant)
+
+---
+
+## 音乐和音频生成
 
 <br />
 
@@ -3216,7 +3354,13 @@ Dadabots-我们制作可以模仿波段的原始音频神经网络
 
 ---
 
-## 🧞‍♂️ 组织与自动化
+<br />
+
+[See All $🎼 音乐和音频生成 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/music-and-audio-generation)
+
+---
+
+## 组织与自动化
 
 <br />
 
@@ -3379,7 +3523,13 @@ AI Prompt Generator‍ - 启发、创造、组织。使用 AI 提示激发灵感
 
 ---
 
-## 📸 照片和图像编辑
+<br />
+
+[See All $🧞‍♂️ 组织与自动化 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/organization-and-automation)
+
+---
+
+## 照片和图像编辑
 
 <br />
 
@@ -3533,7 +3683,13 @@ HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化�
 
 ---
 
-## 🔌 插件和扩展
+<br />
+
+[See All $📸 照片和图像编辑 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/photo-and-image-editing)
+
+---
+
+## 插件和扩展
 
 <br />
 
@@ -3661,7 +3817,13 @@ Gist AI 是一款免费摘要生成器，只需单击一下即可从任何网站
 
 ---
 
-## 🚀 生产力与个人成长
+<br />
+
+[See All $🔌 插件和扩展 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/plugins-and-extensions)
+
+---
+
+## 生产力与个人成长
 
 <br />
 
@@ -3819,7 +3981,13 @@ Pth.AI 是一种人工智能工具，可通过提问和创建步骤来引导非�
 
 ---
 
-## 🎓 研究助理
+<br />
+
+[See All $🚀 生产力与个人成长 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/productivity-and-personal-growth)
+
+---
+
+## 研究助理
 
 <br />
 
@@ -3928,7 +4096,13 @@ RTutor利用OpenAI强大的大语言模型将自然语言翻译成R代码，然�
 
 ---
 
-## 🗳 评论和建议
+<br />
+
+[See All $🎓 研究助理 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/research-assistant)
+
+---
+
+## 评论和建议
 
 <br />
 
@@ -4007,7 +4181,13 @@ Reviewz.ai 是一个新奇事物，旨在展示 AI 在消费品和推荐领域�
 
 ---
 
-## 💰 销售与市场营销
+<br />
+
+[See All $🗳 评论和建议 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/reviews-and-recommendations)
+
+---
+
+## 销售与市场营销
 
 <br />
 
@@ -4166,7 +4346,13 @@ Traq.ai 分析您的销售团队打出的每一个电话，并为他们提供可
 
 ---
 
-## 🔍 搜索引擎
+<br />
+
+[See All $💰 销售与市场营销 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/sales-and-marketing)
+
+---
+
+## 搜索引擎
 
 <br />
 
@@ -4309,7 +4495,13 @@ SEOify简介：借助我们尖端的人工智能平台，彻底改变您网站�
 
 ---
 
-## 📊 幻灯片和演示文稿
+<br />
+
+[See All $🔍 搜索引擎 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/search-engines)
+
+---
+
+## 幻灯片和演示文稿
 
 <br />
 
@@ -4435,7 +4627,13 @@ Glimmer AI 使用 GPT-3 和 DALL-E 2 使用文本或语音命令轻松快速地�
 
 ---
 
-## 💞 社交网络和约会
+<br />
+
+[See All $📊 幻灯片和演示文稿 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/slides-and-presentations)
+
+---
+
+## 社交网络和约会
 
 <br />
 
@@ -4592,7 +4790,13 @@ AI-MOVIE CLUB是一个用人工智能创作电影的社交网络！
 
 ---
 
-## 📢 演讲
+<br />
+
+[See All $💞 社交网络和约会 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/social-networks-and-dating)
+
+---
+
+## 演讲
 
 <br />
 
@@ -4671,7 +4875,13 @@ Lingostar 是语言学习者可以用英语、西班牙语或法语与之交谈�
 
 ---
 
-## 📝 文本
+<br />
+
+[See All $📢 演讲 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/speech)
+
+---
+
+## 文本
 
 <br />
 
@@ -4825,7 +5035,13 @@ namewizard 是使用 AI 为您的下一个项目寻找完美业务和域名的�
 
 ---
 
-## 📝🔉 文字转语音
+<br />
+
+[See All $📝 文本 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/text)
+
+---
+
+## 文字转语音
 
 <br />
 
@@ -4979,7 +5195,13 @@ namewizard 是使用 AI 为您的下一个项目寻找完美业务和域名的�
 
 ---
 
-## 🇺🇳 翻译和成绩单
+<br />
+
+[See All $📝🔉 文字转语音 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/text-to-speech)
+
+---
+
+## 翻译和成绩单
 
 <br />
 
@@ -5145,7 +5367,13 @@ Stork 帮助团队改善沟通和生产力。它是混合和远程团队的商�
 
 ---
 
-## 🏖 假期和旅行计划
+<br />
+
+[See All $🇺🇳 翻译和成绩单 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/translation-and-transcript)
+
+---
+
+## 假期和旅行计划
 
 <br />
 
@@ -5209,7 +5437,13 @@ Stork 帮助团队改善沟通和生产力。它是混合和远程团队的商�
 
 ---
 
-## 🎬 视频
+<br />
+
+[See All $🏖 假期和旅行计划 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/vacation-and-trip-planner)
+
+---
+
+## 视频
 
 <br />
 
@@ -5367,7 +5601,13 @@ HitPaw video upscaler 可帮助使用多个 AI 模型增加任何视频：降噪
 
 ---
 
-## 🕸 网页设计
+<br />
+
+[See All $🎬 视频 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/video)
+
+---
+
+## 网页设计
 
 <br />
 
@@ -5506,7 +5746,13 @@ HitPaw video upscaler 可帮助使用多个 AI 模型增加任何视频：降噪
 
 ---
 
-## ✍️ 写作助理
+<br />
+
+[See All $🕸 网页设计 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/web-design)
+
+---
+
+## 写作助理
 
 <br />
 
@@ -5660,6 +5906,12 @@ AI 段落生成器是一款利用人工智能力量的尖端内容创作工具�
 <br />
 
 <br />
+
+---
+
+<br />
+
+[See All $✍️ 写作助理 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/writing-assistant)
 
 ---
 

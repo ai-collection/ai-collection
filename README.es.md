@@ -147,7 +147,7 @@ Captura: integración sin esfuerzo.</p>
 
 ---
 
-## 📈 Cuentas y finanzas
+## Cuentas y finanzas
 
 <br />
 
@@ -212,7 +212,13 @@ Stocknews AI es una selección de las mejores noticias bursátiles nuevas de tod
 
 ---
 
-## 🎲 Animación y Modelado 3D
+<br />
+
+[See All $📈 Cuentas y finanzas Applications on AI Collection](https://www.thataicollection.com/es/categories/accounting-and-finance)
+
+---
+
+## Animación y Modelado 3D
 
 <br />
 
@@ -291,7 +297,13 @@ Un experimento inicial para crear prototipos y crear 3D con texto El acceso a la
 
 ---
 
-## 🏯 Arquitectura e Interiorismo
+<br />
+
+[See All $🎲 Animación y Modelado 3D Applications on AI Collection](https://www.thataicollection.com/es/categories/animation-and-3d-modeling)
+
+---
+
+## Arquitectura e Interiorismo
 
 <br />
 
@@ -400,7 +412,13 @@ Hasta un 30% de aumento de llamadas reportado por nuestros clientes usando plano
 
 ---
 
-## 🌄 Generador de imágenes y arte
+<br />
+
+[See All $🏯 Arquitectura e Interiorismo Applications on AI Collection](https://www.thataicollection.com/es/categories/architecture-and-interior-design)
+
+---
+
+## Generador de imágenes y arte
 
 <br />
 
@@ -554,7 +572,13 @@ Explore millones de estilos o cree el suyo propio, genere autorretratos de IA.
 
 ---
 
-## 😎 avatares
+<br />
+
+[See All $🌄 Generador de imágenes y arte Applications on AI Collection](https://www.thataicollection.com/es/categories/art-and-image-generator)
+
+---
+
+## avatares
 
 <br />
 
@@ -708,7 +732,13 @@ Cree sus propias imágenes de perfil de avatar de IA de última generación
 
 ---
 
-## 🤖💬 Robot de chat
+<br />
+
+[See All $😎 avatares Applications on AI Collection](https://www.thataicollection.com/es/categories/avatars)
+
+---
+
+## Robot de chat
 
 <br />
 
@@ -862,7 +892,13 @@ Kore.ai automatiza las interacciones entre la oficina principal y la oficina adm
 
 ---
 
-## 💻 Asistente de código y base de datos
+<br />
+
+[See All $🤖💬 Robot de chat Applications on AI Collection](https://www.thataicollection.com/es/categories/chat-bot)
+
+---
+
+## Asistente de código y base de datos
 
 <br />
 
@@ -1016,7 +1052,13 @@ Tanto si forma parte de un equipo como si es un desarrollador que trabaja por su
 
 ---
 
-## 📠 Generación de contenido y SEO
+<br />
+
+[See All $💻 Asistente de código y base de datos Applications on AI Collection](https://www.thataicollection.com/es/categories/code-and-database-assistant)
+
+---
+
+## Generación de contenido y SEO
 
 <br />
 
@@ -1170,7 +1212,13 @@ Utilizando inteligencia artificial avanzada y aprendizaje profundo, Article Forg
 
 ---
 
-## 🧰 Kit de herramientas para creadores
+<br />
+
+[See All $📠 Generación de contenido y SEO Applications on AI Collection](https://www.thataicollection.com/es/categories/content-generation-and-seo)
+
+---
+
+## Kit de herramientas para creadores
 
 <br />
 
@@ -1326,7 +1374,13 @@ TextSynth emplea un código de inferencia personalizado para obtener inferencias
 
 ---
 
-## 👨‍💻 Atención al cliente
+<br />
+
+[See All $🧰 Kit de herramientas para creadores Applications on AI Collection](https://www.thataicollection.com/es/categories/creators-toolkit)
+
+---
+
+## Atención al cliente
 
 <br />
 
@@ -1482,7 +1536,13 @@ WaDeck es una herramienta de CRM gratuita para WhatsApp con un asistente de IA c
 
 ---
 
-## 🛒 Comercio electrónico
+<br />
+
+[See All $👨‍💻 Atención al cliente Applications on AI Collection](https://www.thataicollection.com/es/categories/customer-support)
+
+---
+
+## Comercio electrónico
 
 <br />
 
@@ -1606,7 +1666,13 @@ None
 
 ---
 
-## 🧠 Educación y aprendizaje
+<br />
+
+[See All $🛒 Comercio electrónico Applications on AI Collection](https://www.thataicollection.com/es/categories/ecommerce)
+
+---
+
+## Educación y aprendizaje
 
 <br />
 
@@ -1760,7 +1826,13 @@ Planificar lecciones: aproveche la IA para redactar sus lecciones y exportarlas 
 
 ---
 
-## 📧 Asistente de correo electrónico
+<br />
+
+[See All $🧠 Educación y aprendizaje Applications on AI Collection](https://www.thataicollection.com/es/categories/education-and-learning)
+
+---
+
+## Asistente de correo electrónico
 
 <br />
 
@@ -1914,7 +1986,13 @@ IntelliMail es una extensión de Chrome que genera sus correos electrónicos, po
 
 ---
 
-## 👩‍🎤 Moda
+<br />
+
+[See All $📧 Asistente de correo electrónico Applications on AI Collection](https://www.thataicollection.com/es/categories/email-assistant)
+
+---
+
+## Moda
 
 <br />
 
@@ -1965,7 +2043,13 @@ SwagAI: imágenes generadas por la IA en las camisetas.
 
 ---
 
-## 🤪 Divertido
+<br />
+
+[See All $👩‍🎤 Moda Applications on AI Collection](https://www.thataicollection.com/es/categories/fashion)
+
+---
+
+## Divertido
 
 <br />
 
@@ -2119,7 +2203,13 @@ Deja de pasar meses buscando en Pinterest tu próximo tatuaje. Genere tatuajes �
 
 ---
 
-## 🎮 Juego de azar
+<br />
+
+[See All $🤪 Divertido Applications on AI Collection](https://www.thataicollection.com/es/categories/fun)
+
+---
+
+## Juego de azar
 
 <br />
 
@@ -2274,7 +2364,13 @@ Crea: utilería, retratos de personajes, mosaicos isométricos, duendecillos de 
 
 ---
 
-## 🎁💡 Ideas de regalo
+<br />
+
+[See All $🎮 Juego de azar Applications on AI Collection](https://www.thataicollection.com/es/categories/gaming)
+
+---
+
+## Ideas de regalo
 
 <br />
 
@@ -2428,7 +2524,13 @@ Motor de IA para crear tarjetas fotorrealistas de AI Holiday para parejas
 
 ---
 
-## 👩‍⚕️ Cuidado de la salud
+<br />
+
+[See All $🎁💡 Ideas de regalo Applications on AI Collection](https://www.thataicollection.com/es/categories/gift-ideas)
+
+---
+
+## Cuidado de la salud
 
 <br />
 
@@ -2477,7 +2579,13 @@ Verifique los síntomas y encuentre causas por IA: responda el cuestionario sobr
 
 ---
 
-## 👩‍💼 Recursos humanos y currículum
+<br />
+
+[See All $👩‍⚕️ Cuidado de la salud Applications on AI Collection](https://www.thataicollection.com/es/categories/healthcare)
+
+---
+
+## Recursos humanos y currículum
 
 <br />
 
@@ -2632,7 +2740,13 @@ Springworks crea soluciones de software de recursos humanos para resolver desaf�
 
 ---
 
-## 💡 Generación de ideas
+<br />
+
+[See All $👩‍💼 Recursos humanos y currículum Applications on AI Collection](https://www.thataicollection.com/es/categories/human-resources-and-resume)
+
+---
+
+## Generación de ideas
 
 <br />
 
@@ -2730,7 +2844,13 @@ Una vez enviada, nuestra IA selecciona una fecha y descripción a medida, con co
 
 ---
 
-## 👩‍⚖️ Legal
+<br />
+
+[See All $💡 Generación de ideas Applications on AI Collection](https://www.thataicollection.com/es/categories/idea-generation)
+
+---
+
+## Legal
 
 <br />
 
@@ -2824,7 +2944,13 @@ Spellbook usa GPT-3 para revisar y sugerir lenguaje para sus contratos, directam
 
 ---
 
-## ⚜️ Generador de logotipos
+<br />
+
+[See All $👩‍⚖️ Legal Applications on AI Collection](https://www.thataicollection.com/es/categories/legal)
+
+---
+
+## Generador de logotipos
 
 <br />
 
@@ -2904,7 +3030,13 @@ None
 
 ---
 
-## 👨‍💻 Asistente de reuniones
+<br />
+
+[See All $⚜️ Generador de logotipos Applications on AI Collection](https://www.thataicollection.com/es/categories/logo-generator)
+
+---
+
+## Asistente de reuniones
 
 <br />
 
@@ -3055,7 +3187,13 @@ Haz que todas tus reuniones sean productivas: notas de las reuniones para cada r
 
 ---
 
-## 🎼 Generación de música y audio
+<br />
+
+[See All $👨‍💻 Asistente de reuniones Applications on AI Collection](https://www.thataicollection.com/es/categories/meeting-assistant)
+
+---
+
+## Generación de música y audio
 
 <br />
 
@@ -3215,7 +3353,13 @@ Somos una mezcla entre una banda, un equipo de hackathon y un laboratorio de inv
 
 ---
 
-## 🧞‍♂️ Organización y Automatización
+<br />
+
+[See All $🎼 Generación de música y audio Applications on AI Collection](https://www.thataicollection.com/es/categories/music-and-audio-generation)
+
+---
+
+## Organización y Automatización
 
 <br />
 
@@ -3378,7 +3522,13 @@ AI Prompt Generator‍ - Inspirar, crear, organizar. Inspírese con avisos de IA
 
 ---
 
-## 📸 Edición de fotos e imágenes
+<br />
+
+[See All $🧞‍♂️ Organización y Automatización Applications on AI Collection](https://www.thataicollection.com/es/categories/organization-and-automation)
+
+---
+
+## Edición de fotos e imágenes
 
 <br />
 
@@ -3532,7 +3682,13 @@ Impresionante borrador de fotos
 
 ---
 
-## 🔌 Complementos y extensiones
+<br />
+
+[See All $📸 Edición de fotos e imágenes Applications on AI Collection](https://www.thataicollection.com/es/categories/photo-and-image-editing)
+
+---
+
+## Complementos y extensiones
 
 <br />
 
@@ -3660,7 +3816,13 @@ Aún mejor, Gist AI le permite profundizar en la fuente del resumen para mayor c
 
 ---
 
-## 🚀 Productividad y crecimiento personal
+<br />
+
+[See All $🔌 Complementos y extensiones Applications on AI Collection](https://www.thataicollection.com/es/categories/plugins-and-extensions)
+
+---
+
+## Productividad y crecimiento personal
 
 <br />
 
@@ -3818,7 +3980,13 @@ Obtenga acceso instantáneo y gratuito a ChatGPT 4.0 directamente desde su Slack
 
 ---
 
-## 🎓 Asistente de investigación
+<br />
+
+[See All $🚀 Productividad y crecimiento personal Applications on AI Collection](https://www.thataicollection.com/es/categories/productivity-and-personal-growth)
+
+---
+
+## Asistente de investigación
 
 <br />
 
@@ -3927,7 +4095,13 @@ Simplifique los artículos para comprender términos complejos, obtener recomend
 
 ---
 
-## 🗳 Reseñas y recomendaciones
+<br />
+
+[See All $🎓 Asistente de investigación Applications on AI Collection](https://www.thataicollection.com/es/categories/research-assistant)
+
+---
+
+## Reseñas y recomendaciones
 
 <br />
 
@@ -4006,7 +4180,13 @@ Una herramienta de procesamiento de lenguaje natural y generador de texto. Toma 
 
 ---
 
-## 💰 Ventas y Marketing
+<br />
+
+[See All $🗳 Reseñas y recomendaciones Applications on AI Collection](https://www.thataicollection.com/es/categories/reviews-and-recommendations)
+
+---
+
+## Ventas y Marketing
 
 <br />
 
@@ -4165,7 +4345,13 @@ Traq.ai analiza cada llamada que hace su equipo de ventas y proporciona informac
 
 ---
 
-## 🔍 Los motores de búsqueda
+<br />
+
+[See All $💰 Ventas y Marketing Applications on AI Collection](https://www.thataicollection.com/es/categories/sales-and-marketing)
+
+---
+
+## Los motores de búsqueda
 
 <br />
 
@@ -4308,7 +4494,13 @@ Presentamos SEOify: revoluciona el SEO de tu sitio web con nuestra innovadora pl
 
 ---
 
-## 📊 Diapositivas y presentaciones
+<br />
+
+[See All $🔍 Los motores de búsqueda Applications on AI Collection](https://www.thataicollection.com/es/categories/search-engines)
+
+---
+
+## Diapositivas y presentaciones
 
 <br />
 
@@ -4434,7 +4626,13 @@ Cree presentaciones en minutos con Plus AI. Comenzar con un mazo en blanco es un
 
 ---
 
-## 💞 Redes sociales y citas
+<br />
+
+[See All $📊 Diapositivas y presentaciones Applications on AI Collection](https://www.thataicollection.com/es/categories/slides-and-presentations)
+
+---
+
+## Redes sociales y citas
 
 <br />
 
@@ -4591,7 +4789,13 @@ Revolucione su participación en Twitter con las respuestas sugeridas impulsadas
 
 ---
 
-## 📢 Discurso
+<br />
+
+[See All $💞 Redes sociales y citas Applications on AI Collection](https://www.thataicollection.com/es/categories/social-networks-and-dating)
+
+---
+
+## Discurso
 
 <br />
 
@@ -4670,7 +4874,13 @@ Transforma el texto en voz realista para diversas aplicaciones. Perfecto para cr
 
 ---
 
-## 📝 Texto
+<br />
+
+[See All $📢 Discurso Applications on AI Collection](https://www.thataicollection.com/es/categories/speech)
+
+---
+
+## Texto
 
 <br />
 
@@ -4824,7 +5034,13 @@ Conéctese con la IA más inteligente del mundo en WhatsApp.
 
 ---
 
-## 📝🔉 Texto a voz
+<br />
+
+[See All $📝 Texto Applications on AI Collection](https://www.thataicollection.com/es/categories/text)
+
+---
+
+## Texto a voz
 
 <br />
 
@@ -4978,7 +5194,13 @@ Cree archivos de audio para su uso comercial. Voicemaker le permite redistribuir
 
 ---
 
-## 🇺🇳 Traducción y Transcripción
+<br />
+
+[See All $📝🔉 Texto a voz Applications on AI Collection](https://www.thataicollection.com/es/categories/text-to-speech)
+
+---
+
+## Traducción y Transcripción
 
 <br />
 
@@ -5144,7 +5366,13 @@ Obtenga transcripciones precisas para su AUDIO Y VIDEO con la última tecnologí
 
 ---
 
-## 🏖 Planificador de viajes y vacaciones
+<br />
+
+[See All $🇺🇳 Traducción y Transcripción Applications on AI Collection](https://www.thataicollection.com/es/categories/translation-and-transcript)
+
+---
+
+## Planificador de viajes y vacaciones
 
 <br />
 
@@ -5208,7 +5436,13 @@ Nuestra IA creará un plan personalizado para cualquier ciudad o lugar que le gu
 
 ---
 
-## 🎬 Video
+<br />
+
+[See All $🏖 Planificador de viajes y vacaciones Applications on AI Collection](https://www.thataicollection.com/es/categories/vacation-and-trip-planner)
+
+---
+
+## Video
 
 <br />
 
@@ -5366,7 +5600,13 @@ Crear la mejor aplicación de navegación. Con tecnologías de vanguardia como e
 
 ---
 
-## 🕸 Diseño web
+<br />
+
+[See All $🎬 Video Applications on AI Collection](https://www.thataicollection.com/es/categories/video)
+
+---
+
+## Diseño web
 
 <br />
 
@@ -5505,7 +5745,13 @@ Nuestro creador de sitios web impulsado por IA genera instantáneamente su prese
 
 ---
 
-## ✍️ Asistente de Redacción
+<br />
+
+[See All $🕸 Diseño web Applications on AI Collection](https://www.thataicollection.com/es/categories/web-design)
+
+---
+
+## Asistente de Redacción
 
 <br />
 
@@ -5659,6 +5905,12 @@ El generador de párrafos con IA es una herramienta de creación de contenido va
 <br />
 
 <br />
+
+---
+
+<br />
+
+[See All $✍️ Asistente de Redacción Applications on AI Collection](https://www.thataicollection.com/es/categories/writing-assistant)
 
 ---
 
