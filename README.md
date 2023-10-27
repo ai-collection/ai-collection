@@ -72,10 +72,11 @@ AI Writing Copilot</h4>
 <br>
 
 
+---
+
 ### A hand-picked list of awesome AI applications featured on AI Collection
 
 
----
 
 <p>If your AI application deserves a spot on this hand-picked list, please talk to me: <a href="mailto: pavel@ai-collection.org">Email Pavel</a></p>
 
