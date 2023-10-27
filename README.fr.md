@@ -97,7 +97,8 @@ Capture : intégration sans effort.</p>
 
 
 
-        > **_NOTE :_** Un changement sur la façon dont la collection est affichée est à venir. Seules quelques dizaines d'applications d'IA génératives triées sur le volet seront affichées. La collection complète sera toujours disponible sur https://www.thataicollection.com
+> Pour voir la collection complète des applications IA dans la vue tableau héritée, accédez à cette page : [link](https://github.com/ai-collection/ai-collection/FULL_README.fr.md)
+
         <br />
 
         ## Index
@@ -209,6 +210,10 @@ Stocknews AI est une sélection des meilleures actualités boursières de tous l
 
 [See All 📈 Comptabilité et Finance Applications on AI Collection](https://www.thataicollection.com/fr/categories/accounting-and-finance)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Animation & Modélisation 3D
@@ -286,6 +291,10 @@ Une première expérience pour prototyper et créer de la 3D avec du texte L'acc
 
 [See All 🎲 Animation & Modélisation 3D Applications on AI Collection](https://www.thataicollection.com/fr/categories/animation-and-3d-modeling)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Architecture & Design d'intérieur
@@ -391,6 +400,10 @@ Jusqu'à 30 % d'augmentation des appels signalés par nos clients utilisant des
 
 [See All 🏯 Architecture & Design d'intérieur Applications on AI Collection](https://www.thataicollection.com/fr/categories/architecture-and-interior-design)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Générateur d'art et d'images
@@ -496,6 +509,10 @@ Créez votre image d'anime parfaite avec l'IA. Choisissez entre les styles One P
 
 [See All 🌄 Générateur d'art et d'images Applications on AI Collection](https://www.thataicollection.com/fr/categories/art-and-image-generator)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Avatars
@@ -601,6 +618,10 @@ Créez vos avatars parfaits en quelques clics grâce à notre technologie d'inte
 
 [See All 😎 Avatars Applications on AI Collection](https://www.thataicollection.com/fr/categories/avatars)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Chatbot
@@ -706,6 +727,10 @@ Robi est un puissant compagnon d'IA qui vit dans votre liste de contacts et peut
 
 [See All 🤖💬 Chatbot Applications on AI Collection](https://www.thataicollection.com/fr/categories/chat-bot)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Assistant de code et de base de données
@@ -811,6 +836,10 @@ L'application GitHub alimentée par l'IA qui explique les changements dans vos d
 
 [See All 💻 Assistant de code et de base de données Applications on AI Collection](https://www.thataicollection.com/fr/categories/code-and-database-assistant)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Génération de contenu et référencement
@@ -916,6 +945,10 @@ Obtenez des super pouvoirs d'écriture avec l'intelligence artificielle. Chez AI
 
 [See All 📠 Génération de contenu et référencement Applications on AI Collection](https://www.thataicollection.com/fr/categories/content-generation-and-seo)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Boîte à outils des créateurs
@@ -1023,6 +1056,10 @@ Vivez la magie de la création avec les meilleurs outils et services pour les cr
 
 [See All 🧰 Boîte à outils des créateurs Applications on AI Collection](https://www.thataicollection.com/fr/categories/creators-toolkit)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Service client
@@ -1128,6 +1165,10 @@ OneTone.ai est une plate-forme alimentée par l'IA qui vous donne des informatio
 
 [See All 👨‍💻 Service client Applications on AI Collection](https://www.thataicollection.com/fr/categories/customer-support)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Commerce électronique
@@ -1233,6 +1274,10 @@ VModel utilise une technologie d'intelligence artificielle pour créer des modè
 
 [See All 🛒 Commerce électronique Applications on AI Collection](https://www.thataicollection.com/fr/categories/ecommerce)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Éducation et apprentissage
@@ -1338,6 +1383,10 @@ Exécutez des modèles open source avec une API cloud.
 
 [See All 🧠 Éducation et apprentissage Applications on AI Collection](https://www.thataicollection.com/fr/categories/education-and-learning)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Assistant de messagerie
@@ -1443,6 +1492,10 @@ Le piratage de réponse par e-mail que vous attendiez - Envoyez facilement des r
 
 [See All 📧 Assistant de messagerie Applications on AI Collection](https://www.thataicollection.com/fr/categories/email-assistant)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Mode
@@ -1494,6 +1547,10 @@ SwagAI - Des images générées par l'IA sur des t-shirts.
 
 [See All 👩‍🎤 Mode Applications on AI Collection](https://www.thataicollection.com/fr/categories/fashion)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Amusant
@@ -1599,6 +1656,10 @@ Il s'agit d'une expérience d'utilisation de l'IA pour rendre le contenu de mon 
 
 [See All 🤪 Amusant Applications on AI Collection](https://www.thataicollection.com/fr/categories/fun)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Jeux
@@ -1704,6 +1765,10 @@ Libérez la puissance des actifs de jeu générés par l'IA avec Scenario. Gén�
 
 [See All 🎮 Jeux Applications on AI Collection](https://www.thataicollection.com/fr/categories/gaming)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Idées de cadeau
@@ -1809,6 +1874,10 @@ Gift Genie AI est un outil alimenté par l'IA qui vous permet de trouver gratuit
 
 [See All 🎁💡 Idées de cadeau Applications on AI Collection](https://www.thataicollection.com/fr/categories/gift-ideas)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Soins de santé
@@ -1858,6 +1927,10 @@ Vérifier les symptômes et trouver les causes par l'IA - Répondez au quiz sur 
 
 [See All 👩‍⚕️ Soins de santé Applications on AI Collection](https://www.thataicollection.com/fr/categories/healthcare)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Ressources humaines et CV
@@ -1964,6 +2037,10 @@ La plate-forme d'évaluation des compétences de HireQuotient vous aide à embau
 
 [See All 👩‍💼 Ressources humaines et CV Applications on AI Collection](https://www.thataicollection.com/fr/categories/human-resources-and-resume)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## La génération d'idées
@@ -2059,6 +2136,10 @@ Une fois envoyée, notre IA établit une description de la date sur mesure, four
 
 [See All 💡 La génération d'idées Applications on AI Collection](https://www.thataicollection.com/fr/categories/idea-generation)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Juridique
@@ -2150,6 +2231,10 @@ Spellbook utilise GPT-3 pour réviser et suggérer la langue de vos contrats, di
 
 [See All 👩‍⚖️ Juridique Applications on AI Collection](https://www.thataicollection.com/fr/categories/legal)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Générateur de logos
@@ -2214,6 +2299,10 @@ Donnez un coup de pouce à ta marque avec des designs de cartes de visite, des g
 
 [See All ⚜️ Générateur de logos Applications on AI Collection](https://www.thataicollection.com/fr/categories/logo-generator)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Assistante de réunion
@@ -2331,6 +2420,10 @@ Trouve un assistant de réunion basé sur l'intelligence artificielle qui enregi
 
 [See All 👨‍💻 Assistante de réunion Applications on AI Collection](https://www.thataicollection.com/fr/categories/meeting-assistant)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Musique et génération audio
@@ -2441,6 +2534,10 @@ Faites de la musique avec Boomy AI - [Visit](https://www.thataicollection.com/re
 
 [See All 🎼 Musique et génération audio Applications on AI Collection](https://www.thataicollection.com/fr/categories/music-and-audio-generation)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Organisation & Automatisation
@@ -2554,6 +2651,10 @@ Exécute, teste et affine ton pipeline en comparant facilement les résultats
 
 [See All 🧞‍♂️ Organisation & Automatisation Applications on AI Collection](https://www.thataicollection.com/fr/categories/organization-and-automation)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Retouche de photos et d'images
@@ -2659,6 +2760,10 @@ Générez ou mettez à jour des images existantes avec notre outil d'édition d'
 
 [See All 📸 Retouche de photos et d'images Applications on AI Collection](https://www.thataicollection.com/fr/categories/photo-and-image-editing)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Plugins et extensions
@@ -2764,6 +2869,10 @@ Agent IA pour Chrome. Intégrez ChatGPT à la recherche Google, automatisez les 
 
 [See All 🔌 Plugins et extensions Applications on AI Collection](https://www.thataicollection.com/fr/categories/plugins-and-extensions)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Productivité et croissance personnelle
@@ -2873,6 +2982,10 @@ Discussion documentaire et résumé de n'importe quel fichier ou lien ! Discute
 
 [See All 🚀 Productivité et croissance personnelle Applications on AI Collection](https://www.thataicollection.com/fr/categories/productivity-and-personal-growth)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Assistant de recherche
@@ -2978,6 +3091,10 @@ Simplifiez les articles pour comprendre des termes complexes, obtenez des recomm
 
 [See All 🎓 Assistant de recherche Applications on AI Collection](https://www.thataicollection.com/fr/categories/research-assistant)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Avis et recommandations
@@ -3055,6 +3172,10 @@ Un outil de traitement du langage naturel et un générateur de texte. Il prend 
 
 [See All 🗳 Avis et recommandations Applications on AI Collection](https://www.thataicollection.com/fr/categories/reviews-and-recommendations)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Ventes et Marketing
@@ -3165,6 +3286,10 @@ Notre plate-forme transforme les détails et les objectifs clés de votre produi
 
 [See All 💰 Ventes et Marketing Applications on AI Collection](https://www.thataicollection.com/fr/categories/sales-and-marketing)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Moteurs de recherche
@@ -3274,6 +3399,10 @@ Chez Namefinder, nous visons à faire gagner du temps aux gens en proposant des 
 
 [See All 🔍 Moteurs de recherche Applications on AI Collection](https://www.thataicollection.com/fr/categories/search-engines)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Diapositives et présentations
@@ -3381,6 +3510,10 @@ Aide les professionnels à créer rapidement et facilement des présentations pr
 
 [See All 📊 Diapositives et présentations Applications on AI Collection](https://www.thataicollection.com/fr/categories/slides-and-presentations)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Réseaux Sociaux & Rencontres
@@ -3491,6 +3624,10 @@ L'assistant de Tweet alimenté par l'IA : Rédigez des Tweets expressifs avec T
 
 [See All 💞 Réseaux Sociaux & Rencontres Applications on AI Collection](https://www.thataicollection.com/fr/categories/social-networks-and-dating)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Discours
@@ -3568,6 +3705,10 @@ Transforme le texte en discours réaliste pour différentes applications. Parfai
 
 [See All 📢 Discours Applications on AI Collection](https://www.thataicollection.com/fr/categories/speech)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Texte
@@ -3673,6 +3814,10 @@ Créez votre jeu de cartes personnalisé et jouez avec vos amis. Sélectionnez l
 
 [See All 📝 Texte Applications on AI Collection](https://www.thataicollection.com/fr/categories/text)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Texte pour parler
@@ -3778,6 +3923,10 @@ Convertissez rapidement ton texte en voix grâce à un son époustouflant et ré
 
 [See All 📝🔉 Texte pour parler Applications on AI Collection](https://www.thataicollection.com/fr/categories/text-to-speech)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Traduction et transcription
@@ -3889,6 +4038,10 @@ Découvrez les meilleurs moments Écoutez les meilleurs moments des podcasts que
 
 [See All 🇺🇳 Traduction et transcription Applications on AI Collection](https://www.thataicollection.com/fr/categories/translation-and-transcript)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Planificateur de vacances et de voyages
@@ -3952,6 +4105,10 @@ Débloquez le nom de blog de voyage parfait avec le générateur d'idées de nom
 
 [See All 🏖 Planificateur de vacances et de voyages Applications on AI Collection](https://www.thataicollection.com/fr/categories/vacation-and-trip-planner)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Vidéo
@@ -4060,6 +4217,10 @@ Créez des vidéos à partir de scripts ou d'articles de blog en utilisant des v
 
 [See All 🎬 Vidéo Applications on AI Collection](https://www.thataicollection.com/fr/categories/video)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Création de sites web
@@ -4165,6 +4326,10 @@ Inscrivez-vous sur la liste d'attente de Genius by Diagram
 
 [See All 🕸 Création de sites web Applications on AI Collection](https://www.thataicollection.com/fr/categories/web-design)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
 ## Assistante d'écriture
@@ -4274,5 +4439,9 @@ Générez vos propres paroles de chansons pour n'importe quel sujet, choisissez 
 
 [See All ✍️ Assistante d'écriture Applications on AI Collection](https://www.thataicollection.com/fr/categories/writing-assistant)
 
+<!--lint ignore double-link-->
+**[⬆ Retour à l'index](#index)**
+
+"""
 ---
 
