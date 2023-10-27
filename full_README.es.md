@@ -65,15 +65,6 @@ Copiloto de escritura de IA</h4>
 
 <br>
 
-
----
-
-### Una lista cuidadosamente seleccionada de increíbles aplicaciones de IA incluidas en AI Collection
-
-
-
-<p>Si su aplicación de IA merece un lugar en esta lista cuidadosamente seleccionada, hable conmigo: <a href="mailto: pavel@ai-collection.org">Envíe un correo electrónico a Pablo</a></p>
-
 ## Index
 - 🎲 [Animación Y Modelado 3D](#animación-y-modelado-3d)
 - 🏯 [Arquitectura E Interiorismo](#arquitectura-e-interiorismo)

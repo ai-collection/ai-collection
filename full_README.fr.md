@@ -65,15 +65,6 @@ Copilote d'écriture d'IA</h4>
 
 <br>
 
-
----
-
-### Une liste triée sur le volet d'applications d'IA géniales présentées sur AI Collection
-
-
-
-<p>Si votre application d'IA mérite une place sur cette liste triée sur le volet, parlez-moi: <a href="mailto: pavel@ai-collection.org">Envoyer un e-mail à Pavel</a></p>
-
 ## Index
 - 🤪 [Amusant](#amusant)
 - 🎲 [Animation & Modélisation 3D](#animation--modélisation-3d)
