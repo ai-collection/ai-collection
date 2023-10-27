@@ -142,10 +142,6 @@ Captura: integración sin esfuerzo.</p>
 - 🇺🇳 [Traducción Y Transcripción](#traducción-y-transcripción)
 - 💰 [Ventas Y Marketing](#ventas-y-marketing)
 - 🎬 [Video](#video)
-- [Otro](#otro)
-
----
-
 ## Cuentas y finanzas
 
 ### FlowCog
@@ -211,6 +207,5 @@ Stocknews AI es una selección de las mejores noticias bursátiles nuevas de tod
 <!--lint ignore double-link-->
 **[⬆ Volver al índice](#index)**
 
-"""
 ---
 

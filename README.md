@@ -148,10 +148,6 @@ Capture - Effortless Integration.</p>
 - 🎬 [Video](#video)
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
-- [Other](#other)
-
----
-
 ## Accounting & Finance
 
 ### FlowCog
@@ -217,6 +213,5 @@ Stocknews AI is a curation of the best new stocknews, every day. Discover the la
 <!--lint ignore double-link-->
 **[⬆ Back to Index](#index)**
 
-"""
 ---
 
