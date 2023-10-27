@@ -19,10 +19,6 @@
 
 ---
 
-> My brothers and sisters in Israel were slaughtered by Hamas terrorists. I was drafted to protect my country. I may be slow to respond.
-
----
-
 <div align="center">
     <h4>Status</h4>
 
@@ -78,35 +74,17 @@ AI Writing Copilot</h4>
 
 ---
 
-<div align="center">
-    <h5>Awesome Tools for your AI Application</h5>
-</div>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.twic.pics/screenshots/screenshot-usertrail.webp" alt="usertrail" border="0"/>
-    </a>
-    <h4>Simple and Powerful Event Tracking for Modern Apps.</h4>
-    <p>Capture, track, and visualize every user milestone, making data-driven decisions simpler than ever.
-Monitor -Stay Updated. Anytime, Anywhere.
-Visualize - Clear & Elegant Dashboard. In minutes.
-Capture - Effortless Integration.</p>
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank"><b>Get Started with usertrail</b></a>
-    <br />
-</div>
-
-
----
-
-<p><a href="mailto: pavel@ai-collection.org">Contact Us</a> to set up a promotion for your awesome app!</p>
+### A hand-picked list of awesome AI applications featured on AI Collection
 
 
 
-        > **_NOTE:_** A change on how the collection is displayed is coming. Only a few dozen hand picked generative AI applications will be displayed. The full collection will always be availale on https://www.thataicollection.com
-        <br />
+<p>If your AI application deserves a spot on this hand-picked list, please talk to me: <a href="mailto: pavel@ai-collection.org">Email Pavel</a></p>
 
-        ## Index
+
+
+To see the full collection of AI Applications in legacy table view, go to this page: [link](https://github.com/ai-collection/ai-collection/FULL_README.md)
+
+## Index
 - 📈 [Accounting & Finance](#accounting--finance)
 - 🎲 [Animation & 3D Modeling](#animation--3d-modeling)
 - 🏯 [Architecture & Interior Design](#architecture--interior-design)
@@ -149,10 +127,6 @@ Capture - Effortless Integration.</p>
 - 🎬 [Video](#video)
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
-- [Other](#other)
-
----
-
 ## Accounting & Finance
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
@@ -946,7 +920,7 @@ Capture - Effortless Integration.</p>
 | [Briefly](https://www.thataicollection.com/redirect/briefly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Briefly - The AI Powered Briefing Platform. | Marketing briefs that get to the best creative work. Improve your marketing effectiveness and reduce the cost of badly written briefs. | :grey_question: |
 | [CastPush](https://www.thataicollection.com/redirect/castpush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-Driven Multi-Channel Broadcasting. | Connect and broadcast to all your social media channels with just a few clicks using CastPush. Our magical AI technology optimizes your content for each individual connection, ensuring maximum reach and engagement. | :white_check_mark: |
 | [Clickable](https://www.thataicollection.com/redirect/clickable?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generate Ads in Seconds With AI. | Beautiful, brand-consistent, and highly converting ads for all marketing channels. No design experience needed. | :grey_question: |
-| [Copy.ai](https://www.thataicollection.com/redirect/copy.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Write Better Marketing Copy and Content With AI. | Say goodbye to the blank page for good. | :white_check_mark: |
+| [Copy.ai](https://www.thataicollection.com/redirect/copy.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Write Better Marketing Copy and Content With AI. | Get great copy that sells. Copy.ai is an AI-powered copywriter that generates high-quality copy for your business. Get started for free, no credit card required! Marketing simplified!. | :white_check_mark: |
 | [Ctrl](https://www.thataicollection.com/redirect/ctrl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | A Modern UI for Your Complex CRM Workflows. | simplify your sales workflows and tasks by automating CRM updates, generating tailored follow-ups, and facilitating deal execution. | :white_check_mark: |
 | [Cuetap.com](https://www.thataicollection.com/redirect/cuetap.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI & CI Powred Sales Battlecards. | AI-powered platform provides automagical Battlecards and actionable Competitive Intelligence. | :white_check_mark: |
 | [FlashIntel](https://www.thataicollection.com/redirect/flashintel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | FlashIntel: Elevate revenue strategies. ☁. | Introducing FlashIntel: A premier Go-to-Market Intelligence company that strengthens revenue teams by improving their capacity to discover and connect with ideal customer profiles. Our all-inclusive solutions combine sales intelligence and engagement functionalities within a unified platform, allowing revenue teams to refine their workflows and concentrate on achieving enhanced performance. | :white_check_mark: |
@@ -1002,7 +976,7 @@ Capture - Effortless Integration.</p>
 |---|---|---|:---:|
 | [AI movie Club](https://www.thataicollection.com/redirect/ai-movie-club?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-Movie Club. | AI-MOVIE CLUB is a social network that create movies with artificial intelligence!. | :grey_question: |
 | [AI Social Bio](https://www.thataicollection.com/redirect/ai-social-bio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Social Bio - Your social media bio created by artificial intelligence. | Perfect for X (Twitter). Add a keyword to shape your bio, choose an influencer to inspire your AI bio and generate your bio. | :white_check_mark: |
-| [Graham AI](https://www.thataicollection.com/redirect/graham-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Graham.Ai - Tech Tweet Generator. | . | :grey_question: |
+| [Graham AI](https://www.thataicollection.com/redirect/graham-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Graham.Ai - Tech Tweet Generator. Tweet like a genius tech influencer, generated by AI. | Just choose a topic from a list or write a custom one, and let generative AI create a tweet for you. All you need to do is just share the generated tweet. | :white_check_mark: |
 | [HotConvo](https://www.thataicollection.com/redirect/hotconvo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Spark Romance - Get Fun, Witty, and Sexy Chat Suggestions for Your Online Dating. | Flirty chats in seconds. Take a screenshot of profile bio or an ongoing conversation, from Tinder, Bumble, or any dating apps -> Let Hotconvo understand the context for smart suggestions -> Get multiple suggestions to get inspiration of what to say for your next message. | :white_check_mark: |
 | [LoveGenius](https://www.thataicollection.com/redirect/lovegenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create Catchy and Attention-Grabbing Dating Bios and Get Better Matches on Tinder, Bumble and Others!. | LoveGenius is an AI dating assistant that helps attract better matches by crafting an outstanding dating profile. It uses a combination of machine learning algorithms, data from successful dating profiles, and human insights based on interviews with dating coaches and experts. | :white_check_mark: |
 | [Postwise](https://www.thataicollection.com/redirect/postwise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Postwise - Write, Schedule & Grow With Twitter AI. | Write, schedule and grow with the world's smartest AI Twitter tool. | :grey_question: |
@@ -1010,8 +984,8 @@ Capture - Effortless Integration.</p>
 | [Roast](https://www.thataicollection.com/redirect/roast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dating App Profile AI Analysis - Photoshoot AI Generator. | ROAST helps people 10x their matches on dating apps like Tinder, Bumble, and Hinge. Powered by AI, it provides offers data-driven dating insights and expert advice to increase the quantity and quality of their matches. | :grey_question: |
 | [TinderProfile.ai](https://www.thataicollection.com/redirect/tinderprofile.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Photoshoot Generator for Dating. | TinderProfile.ai uses AI to analyze users' selfies & photos and generate high-quality images to enhance dating profiles, boosting chances of getting more matches. | :grey_question: |
 | [Tribescaler](https://www.thataicollection.com/redirect/tribescaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tribescaler. | . | :grey_question: |
-| [TweetAI](https://www.thataicollection.com/redirect/tweetai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Get Inspired to Tweet • Tweetai.Com. | Tweet AI. | :grey_question: |
-| [TweetEmote](https://www.thataicollection.com/redirect/tweetemote?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tweetemote. | . | :grey_question: |
+| [TweetAI](https://www.thataicollection.com/redirect/tweetai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Get Inspired to Tweet • Tweetai.Com. | Inspire and write your tweets in seconds with Smart AI Tweet Generator. | :grey_question: |
+| [TweetEmote](https://www.thataicollection.com/redirect/tweetemote?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TweetEmote - The AI Powered Tweet Assistant. | The AI-Powered Tweet Assistant - Write Expressive Tweets With Tweet Emote And Get The Engagement That Your Content Deserves!. | :white_check_mark: |
 | [Tweethunter](https://www.thataicollection.com/redirect/tweethunter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tweet Hunter - Get More Twitter Followers Â Tweets, Threads, Scheduler, Analytics. | Get sales, growth and new networks. Faster than what you're currently trying. | :grey_question: |
 | [Tweetspear](https://www.thataicollection.com/redirect/tweetspear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tweetspear - Boost Your Twitter Engagement. | Revolutionize Your Twitter Engagement with  AI-Powered Suggested Replies . | :grey_question: |
 
@@ -1095,12 +1069,12 @@ Capture - Effortless Integration.</p>
 | [Article.Audio](https://www.thataicollection.com/redirect/article.audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Convert Articles in Audio. | too lazy to read an article? no problem, listen to it! Powered by Thundercontent. | :white_check_mark: |
 | [Createaivoiceovers](https://www.thataicollection.com/redirect/createaivoiceovers?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Text to Speech Online Voice Generator, Text to Speech Generator - Realistic Voices - Create AI Voice Overs. | Rapidly convert your text to speech with stunning lifelike sounding\nAI Voices that will resonate with your audience. NO NEED to rent a recording studio to get your script recorded. | :white_check_mark: |
 | [ElevenLabs](https://www.thataicollection.com/redirect/eleven?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Prime Voice AI. | The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling. | :white_check_mark: |
-| [FakeYou](https://www.thataicollection.com/redirect/fakeyou?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Fakeyou. Deep Fake Text to Speech. | . | :grey_question: |
+| [FakeYou](https://www.thataicollection.com/redirect/fakeyou?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | FakeYou Celebrity Voice Generator - FakeYou. | FakeYou is a text to speech wonderland where all of your dreams come true. Use FakeYou's deepfake technology to generate audio or videos of your favorite characters saying anything you want. | :grey_question: |
 | [Free Text-To-Speech](https://www.thataicollection.com/redirect/free-text-to-speech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Free Text to Speech Online Converter Tools. | . | :white_check_mark: |
 | [Listnr 2.0](https://www.thataicollection.com/redirect/listnr-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Voice Generator - Text to Speech Converter - Listnr. | Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with the best synthetic voices. Instantly convert text in to natural-sounding speech and download in MP3 and WAV formats. | :x: |
 | [Lovo](https://www.thataicollection.com/redirect/lovo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Lovo AI - Free Text to Speech Online With Natural Voices. | . | :white_check_mark: |
 | [Murf.ai](https://www.thataicollection.com/redirect/murf.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Go From Text to Speech With a Versatile AI Voice Generator. | AI enabled, real people's voices. Make studio-quality voice overs in minutes. Use Murfs lifelike AI voices for podcasts, videos, and all your professional presentations. | :white_check_mark: |
-| [NaturalReader](https://www.thataicollection.com/redirect/naturalreader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Voices - Naturalreader Home. | . | :grey_question: |
+| [NaturalReader](https://www.thataicollection.com/redirect/naturalreader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The #1 text to speech solution for personal, commercial, and educational use. | Free Text to Speech for Online, Mobile App, Commercial license and Education with AI voices. NaturalReader converts text, PDF, and 20+ formats into spoken audio so you can listen to your documents, ebooks, and school materials anytime, anywhere. | :white_check_mark: |
 | [Play.ht](https://www.thataicollection.com/redirect/play.ht?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Powered Text to Voice Generator. | Generate realistic Text to Speech (TTS) audio using our online AI Voice Generator and the best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files. | :white_check_mark: |
 | [Resemble’s AI voice generator](https://www.thataicollection.com/redirect/resembles-ai-voice-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Your Complete Generative Voice AI Toolkit. | Resembles AI voice generator lets you create human–like voice overs in seconds. | :x: |
 | [Speechelo](https://www.thataicollection.com/redirect/speechelo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Speechelo - Generate Voice From Text With Only 3 Clicks. The Most Realistic Souding Text to Audio Converter. | We GUARANTEE no one will tell your voiceover is A.I. generated with a text to voice tool. | :grey_question: |
@@ -1108,7 +1082,7 @@ Capture - Effortless Integration.</p>
 | [Underduck](https://www.thataicollection.com/redirect/underduck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Uberduck - Text-to-Speech, Voice Automation, Synthetic Media. | Make Music With AI Vocals, Make AI vocals and voiceovers with 5,000+ expressive voices, Build killer audio apps in minutes with our APIs, Synthesize yourself with your own custom voice clone. | :grey_question: |
 | [VERBATIK](https://www.thataicollection.com/redirect/verbatik?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Powered Text to Voice Generation. | Generate Realistic Text to Speech (TTS) audio using online AI Voice Generator and best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files. | :x: |
 | [Voicemaker](https://www.thataicollection.com/redirect/voicemaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voicemaker® - Text to Speech Converter. | Create audio files for your commercial use. Voicemaker allows you to redistribute your generated audio files even after your subscription expires. | :white_check_mark: |
-| [Voicera](https://www.thataicollection.com/redirect/voicera?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voicera - Give Voice to Your Articles and Blogs. | . | :grey_question: |
+| [Voicera](https://www.thataicollection.com/redirect/voicera?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voicera - Give Voice to Your Articles and Blogs. | Create life-like voice dictation for your blogs and articles in one click. Embed the voice into your content. Increase users' engagement. | :grey_question: |
 | [Wavel AI](https://www.thataicollection.com/redirect/wavel-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Best AI Dubbing and Translator For Video Content Creators. | Step into the realm of AI excellence – real people's voices, now powered by Wavel AI. Create impeccable studio-quality voiceovers effortlessly. Elevate your podcasts, videos, and professional presentations with our advanced AI dubbing, translation, and voice cloning capabilities. | :grey_question: |
 | [Wellsaid](https://www.thataicollection.com/redirect/wellsaid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Convert Text to Voice in Real Time. | With WellSaid, you and your team can create a compelling realistic AI voice over for all your digital content. | :white_check_mark: |
 
@@ -1147,7 +1121,7 @@ Capture - Effortless Integration.</p>
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Orkoi](https://www.thataicollection.com/redirect/orkoi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Orkoi - Make a Personalized Travel Plan in Seconds, Free, No Signup. | Our AI will build you a customized plan for any city or location you'd like to visit, complete with restaurants, fun activities, attractions and tips to make the best adventure. | :white_check_mark: |
-| [Roamr](https://www.thataicollection.com/redirect/roamr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Roamr - Your Dream Vacation in Seconds. | . | :grey_question: |
+| [Roamr](https://www.thataicollection.com/redirect/roamr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Roamr - AI Travel Planner - Your Dream Vacation in Seconds. | Experience the future of AI travel planning with Roam Around! We've crafted over 10 million tailor-made itineraries to date Just pick your destination, and we'll provide a unique plan within seconds. Embrace seamless travel planning now!. | :grey_question: |
 | [Travel Blog Name Ideas Generator](https://www.thataicollection.com/redirect/travel-blog-name-ideas-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Travel Blog Name Ideas Generator: Find the perfect Travel Blog Name!. | Unlock the perfect travel blog name with TravelFeed's Blog Name Ideas Generator! Toss in a keyword—maybe your own name—and watch as our AI dazzles you with a slew of snazzy suggestions. Love a name? Snap-check its .com domain and TravelFeed username availability. Dive into your blogging journey with a name that's as adventurous as you are!. | :white_check_mark: |
 | [Vacay](https://www.thataicollection.com/redirect/vacay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Vacation Chat Agent. | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions. | :white_check_mark: |
 
@@ -1232,7 +1206,7 @@ Capture - Effortless Integration.</p>
 | [HIX.AI](https://www.thataicollection.com/redirect/hix.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The Most Powerful, All-in-One AI Writing Copilot. | IX.AI: Your Most Powerful, All-In-One AI Writing Copilot. Generate high-quality copies for ads, emails, blogs, and more in seconds with HIX.AI, the most powerful, all-in-one AI writing copilot on the market. | :white_check_mark: |
 | [Instascribe](https://www.thataicollection.com/redirect/instascribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instascribe Is an AI-powered App That Creates Personalised Captions for Your Instagram Photos. | Just select an image, pick from an array of caption styles or define your own, and adjust options such as tone of voice, language, and message length. The app's AI then generates a unique caption that suits your image and preferences, streamlining your social media posting process. | :grey_question: |
 | [Paragraph AI](https://www.thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paragraphai • Best AI Writing App • Free AI Writing Assistant Tool. | . | :white_check_mark: |
-| [Paraphraser](https://www.thataicollection.com/redirect/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Free Paraphrasing for All Languages. | . | :white_check_mark: |
+| [Paraphraser](https://www.thataicollection.com/redirect/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Free Paraphrasing for All Languages. | Paraphrase Tool with 15 FREE Modes for 100+ Languages - Rephrases Sentences, Rewords Paragraphs, Rewrites Essays, Checks Grammar and Eliminates Plagiarism. | :white_check_mark: |
 | [Paraphraser AI](https://www.thataicollection.com/redirect/paraphraser-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Yaara — AI-Powered Writing Assistant. | . | :grey_question: |
 | [Quillbot Paraphraser](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | QuillBot's AI-powered Paraphrasing Tool Will Enhance Your Writing. | Your words matter, and our paraphrasing tool is designed to ensure you use the right ones. With two free modes and five Premium modes to choose from, you can use QuillBot’s online Paraphraser to rephrase any text in a variety of ways. | :white_check_mark: |
 | [Rizz!](https://www.thataicollection.com/redirect/rizz!?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unleash the Power of Infinite Rizz!. | The world's most powerful text AI, built into your keyboard. | :grey_question: |
@@ -1243,7 +1217,7 @@ Capture - Effortless Integration.</p>
 | [Typly](https://www.thataicollection.com/redirect/typly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Typly - Conversation Level Next!. | Typly is the ultimate cutting edge AI keyboard that helps you to answer all your messages with a single click!🚀. | :grey_question: |
 | [WebCopilot](https://www.thataicollection.com/redirect/webcopilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Webcopilot.Co ~ Notion AI Writing Assistant. | Write your Notion pages with AI. Speed up your writing process and focus on what matters. Free Forever. | :white_check_mark: |
 | [Whiskey AI](https://www.thataicollection.com/redirect/whiskey-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Whiskey Will Help You Generate the Content You Want. | Whiskey has been designed for students, journalists and professionals to be able to express their thoughts into well-written text formats with minimal effort and time. | :white_check_mark: |
-| [Wordtune](https://www.thataicollection.com/redirect/wordtune?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Wordtune - Your Personal Writing Assistant & Editor. | . | :grey_question: |
+| [Wordtune](https://www.thataicollection.com/redirect/wordtune?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Wordtune - Your Personal Writing Assistant & Editor. | Wordtune is the AI writing assistant that helps you write high-quality content across emails, blogs, ads, and more. Use it to get results you can trust every time. | :white_check_mark: |
 | [Writefull Academizer](https://www.thataicollection.com/redirect/writefull-academizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Where AI 💛 Academic Writing. | At Writefull, we love to experiment with AI to help academic writing. This is the place where we publish some of our experiments. | :white_check_mark: |
 
 

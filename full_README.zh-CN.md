@@ -19,10 +19,6 @@
 
 ---
 
-> My brothers and sisters in Israel were slaughtered by Hamas terrorists. I was drafted to protect my country. I may be slow to respond.
-
----
-
 <div align="center">
     <h4>地位</h4>
 
@@ -72,35 +68,17 @@ AI写作副驾驶</h4>
 
 ---
 
-<div align="center">
-    <h5>适用于您的 AI 应用程序的出色工具</h5>
-</div>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.twic.pics/screenshots/screenshot-usertrail.webp" alt="usertrail" border="0"/>
-    </a>
-    <h4>适用于现代应用程序的简单而强大的事件跟踪。</h4>
-    <p>捕获、跟踪和可视化每个用户里程碑，使数据驱动的决策比以往任何时候都更加简单。
-监视器-保持更新。随时随地。
-可视化——清晰优雅的仪表板。几分钟之内。
-捕获-轻松集成。</p>
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank"><b>开始使用 usertrail</b></a>
-    <br />
-</div>
-
-
----
-
-<p><a href="mailto: pavel@ai-collection.org">联系我们</a> 为您的精彩应用设置促销活动！</p>
+### AI Collection 中精选的精彩 AI 应用程序列表
 
 
 
-        > **_注意：_** 集合的显示方式即将发生变化。 将仅展示几十个手工挑选的生成式 AI 应用程序。 完整的收藏将始终在 https://www.thataicollection.com 上提供
-        <br />
+<p>如果您的人工智能应用程序值得在此精选列表中占有一席之地，请与我联系: <a href="mailto: pavel@ai-collection.org">电子邮件帕维尔</a></p>
 
-        ## Index
+
+
+要在旧表视图中查看 AI 应用程序的完整集合，请转到此页面： [link](https://github.com/ai-collection/ai-collection/FULL_README.zh-CN.md)
+
+## Index
 - 🤪 [乐趣](#乐趣)
 - 👩‍💼 [人力资源与简历](#人力资源与简历)
 - 💻 [代码和数据库助手](#代码和数据库助手)
@@ -143,10 +121,6 @@ AI写作副驾驶</h4>
 - 🎮 [赌博](#赌博)
 - 💰 [销售与市场营销](#销售与市场营销)
 - 🎼 [音乐和音频生成](#音乐和音频生成)
-- [其他](#其他)
-
----
-
 ## 乐趣
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
@@ -277,7 +251,7 @@ AI写作副驾驶</h4>
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [Orkoi](https://www.thataicollection.com/redirect/orkoi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Orkoi - 快速制定个性化旅行计划，免费，无需注册. | 我们的 AI 将为您制定适合您想要游览的任何城市或地点的定制计划，包括餐厅、有趣的活动、景点和小贴士，助您开启最佳冒险之旅. | :white_check_mark: |
-| [Roamr](https://www.thataicollection.com/redirect/roamr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Roamr - 在几秒钟内完成您的梦想假期. | . | :grey_question: |
+| [Roamr](https://www.thataicollection.com/redirect/roamr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Roamr-AI 旅行规划师-几秒钟内即可实现您的梦想假期. | 使用 Roam Around 体验人工智能旅行规划的未来！迄今为止，我们已经精心设计了超过1000万条量身定制的行程，只需选择您的目的地，我们将在几秒钟内提供独特的计划。立即采用无缝旅行计划！. | :grey_question: |
 | [Travel Blog Name Ideas Generator](https://www.thataicollection.com/redirect/travel-blog-name-ideas-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 旅游博客名称创意生成器：找到完美的旅游博客名称！. | 使用 TravelFeed 的博客名称创意生成器解锁完美的旅行博客名称！输入一个关键字（也许是您自己的名字），然后我们的人工智能就会用大量时髦的建议让您眼花缭乱。喜欢一个名字吗？快速检查其 .com 域和 TravelFeed 用户名可用性。用一个和你一样富有冒险精神的名字开始你的博客之旅吧！. | :white_check_mark: |
 | [Vacay](https://www.thataicollection.com/redirect/vacay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 假期聊天代理. | 这个 AI 助手可以设计定制旅行，为您提供去哪里的灵感，甚至可以为酒店、餐厅和景点生成本地推荐。. | :white_check_mark: |
 
@@ -361,7 +335,7 @@ AI写作副驾驶</h4>
 | [HIX.AI](https://www.thataicollection.com/redirect/hix.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 最强大的一体化 AI写作副驾驶. | IX.AI：您最强大的一体化人工智能写作副驾驶。使用 HIX.AI（市场上最强大的一体化人工智能写作副驾驶）在几秒钟内为广告、电子邮件、博客等生成高质量的副本。. | :white_check_mark: |
 | [Instascribe](https://www.thataicollection.com/redirect/instascribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instascribe 是一款人工智能应用程序，可为您的 Instagram 照片创建个性化字幕. | 只需选择一张图片，从一系列字幕样式中挑选或定义您自己的样式，然后调整语调、语言和消息长度等选项。然后，该应用程序的 AI 会生成适合您的图像和偏好的独特说明，从而简化您的社交媒体发布过程。. | :grey_question: |
 | [Paragraph AI](https://www.thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ParagraphAI • 最佳人工智能写作应用程序 • 免费人工智能写作助手工具. | . | :white_check_mark: |
-| [Paraphraser](https://www.thataicollection.com/redirect/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 所有语言的免费释义. | . | :white_check_mark: |
+| [Paraphraser](https://www.thataicollection.com/redirect/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 所有语言的免费释义. | 释义工具包含 15 种免费模式，适用于 100 多种语言-改写句子、重写段落、重写论文、检查语法并消除抄袭. | :white_check_mark: |
 | [Paraphraser AI](https://www.thataicollection.com/redirect/paraphraser-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Yaara — AI 驱动的写作助手. | . | :grey_question: |
 | [Quillbot Paraphraser](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | QuillBot 的 AI 驱动的释义工具将提高您的写作水平. | 您的话很重要，我们的释义工具旨在确保您使用正确的措辞。有两种免费模式和五种高级模式可供选择，您可以使用 QuillBot 的在线释义器以各种方式改写任何文本。. | :white_check_mark: |
 | [Rizz!](https://www.thataicollection.com/redirect/rizz!?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 释放无限活力的力量！. | 世界上最强大的文本 AI，内置于您的键盘中. | :grey_question: |
@@ -372,7 +346,7 @@ AI写作副驾驶</h4>
 | [Typly](https://www.thataicollection.com/redirect/typly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Typly - 接下来是对话级别！. | Typly 是终极尖端的 AI 键盘，只需单击一下即可帮助您回复所有消息！🚀. | :grey_question: |
 | [WebCopilot](https://www.thataicollection.com/redirect/webcopilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | webcopilot.co ~ 概念 ai 写作助手. | 用 AI 编写您的概念页面。加快您的写作过程并专注于重要的事情。永远免费. | :white_check_mark: |
 | [Whiskey AI](https://www.thataicollection.com/redirect/whiskey-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 威士忌将帮助您生成您想要的内容。. | Whiskey 专为学生、记者和专业人士设计，能够以最少的精力和时间将他们的想法表达为精心编写的文本格式. | :white_check_mark: |
-| [Wordtune](https://www.thataicollection.com/redirect/wordtune?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Wordtune - 您的私人写作助理和编辑. | . | :grey_question: |
+| [Wordtune](https://www.thataicollection.com/redirect/wordtune?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | WordTune-你的个人写作助理和编辑. | Wordtune 是一款人工智能写作助手，可帮助你在电子邮件、博客、广告等方面撰写高质量的内容。使用它来获得每次都值得信赖的结果。. | :white_check_mark: |
 | [Writefull Academizer](https://www.thataicollection.com/redirect/writefull-academizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 哪里有 AI 💛 学术写作. | 在 Writefull，我们喜欢尝试用 AI 来帮助学术写作。这是我们发布一些实验的地方。. | :white_check_mark: |
 
 
@@ -613,12 +587,12 @@ AI写作副驾驶</h4>
 | [Article.Audio](https://www.thataicollection.com/redirect/article.audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 将文章转换为音频. | 懒得看文章？没问题，听听吧！由 Thundercontent 提供支持. | :white_check_mark: |
 | [Createaivoiceovers](https://www.thataicollection.com/redirect/createaivoiceovers?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 文字转语音在线语音生成器，文字转语音生成器-逼真的声音-创建 AI 配音. | 快速将您的文本转换为语音，声音逼真\ n AI Voices 会引起听众的共鸣。无需租用录音室来录制剧本。. | :white_check_mark: |
 | [ElevenLabs](https://www.thataicollection.com/redirect/eleven?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Prime语音人工智能. | 有史以来最逼真、最通用的 AI 语音软件。 Eleven 为寻求终极讲故事工具的创作者和出版商带来了最引人注目、最丰富和最逼真的声音。. | :white_check_mark: |
-| [FakeYou](https://www.thataicollection.com/redirect/fakeyou?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 假你。深假文本到语音。. | . | :grey_question: |
+| [FakeYou](https://www.thataicollection.com/redirect/fakeyou?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | FakeYou 名人配音生成器 - FakeYou. | FakeYou 是一个文字转语音的仙境，在那里你可以实现所有梦想。使用 FakeYou 的 deepfake 技术生成你最喜欢的角色说任何你想说的话的音频或视频。. | :grey_question: |
 | [Free Text-To-Speech](https://www.thataicollection.com/redirect/free-text-to-speech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费的文本到语音在线转换器工具. | . | :white_check_mark: |
 | [Listnr 2.0](https://www.thataicollection.com/redirect/listnr-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 语音生成器 - 文本到语音转换器 - Listnr. | 使用我们的 AI 语音生成器和最佳合成语音生成逼真的文本到语音 (TTS) 音频。立即将文本转换为听起来自然的语音并以 MP3 和 WAV 格式下载。. | :x: |
 | [Lovo](https://www.thataicollection.com/redirect/lovo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | LOVO AI - 自然语音在线免费文字转语音. | . | :white_check_mark: |
 | [Murf.ai](https://www.thataicollection.com/redirect/murf.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用多功能 AI 语音生成器从文本到语音. | 启用 AI，真人的声音。在几分钟内制作出录音棚品质的配音。将 Murf 逼真的 AI 声音用于播客、视频和所有专业演示. | :white_check_mark: |
-| [NaturalReader](https://www.thataicollection.com/redirect/naturalreader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 语音 - NaturalReader 主页. | . | :grey_question: |
+| [NaturalReader](https://www.thataicollection.com/redirect/naturalreader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | #1 文本转语音解决方案，适用于个人、商业和教育用途. | 带有人工智能语音的免费文本语音转换，适用于在线、移动应用程序、商业许可证和教育领域。NaturalReader 将文本、PDF 和 20 多种格式转换为语音音频，因此您可以随时随地收听文档、电子书和学校资料. | :white_check_mark: |
 | [Play.ht](https://www.thataicollection.com/redirect/play.ht?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的文本到语音生成器. | 使用我们的在线 AI 语音生成器和最佳合成语音生成逼真的文本到语音 (TTS) 音频。立即将文本转换为听起来自然的语音并下载为 MP3 和 WAV 音频文件。. | :white_check_mark: |
 | [Resemble’s AI voice generator](https://www.thataicollection.com/redirect/resembles-ai-voice-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您完整的生成语音 AI 工具包. | Resemble 的 AI 语音生成器可让您在几秒钟内创建类似人类的配音。. | :x: |
 | [Speechelo](https://www.thataicollection.com/redirect/speechelo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Speechelo - 只需单击 3 次即可从文本生成语音。最逼真的发声文本到音频转换器. | 我们保证没有人会说您的画外音是 A.I.使用文本到语音工具生成. | :grey_question: |
@@ -626,7 +600,7 @@ AI写作副驾驶</h4>
 | [Underduck](https://www.thataicollection.com/redirect/underduck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Uberduck - 文字转语音、语音自动化、合成媒体. | 使用 AI 人声创作音乐，使用 5,000 多种富有表现力的声音制作 AI 人声和画外音，使用我们的 API 在几分钟内构建杀手级音频应用程序，用您自己的自定义语音克隆合成自己. | :grey_question: |
 | [VERBATIK](https://www.thataicollection.com/redirect/verbatik?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 驱动的文本到语音生成。. | 使用在线 AI 语音生成器和最佳合成语音生成逼真的文本到语音 (TTS) 音频。立即将文本转换为听起来自然的语音并下载为 MP3 和 WAV 音频文件。. | :x: |
 | [Voicemaker](https://www.thataicollection.com/redirect/voicemaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voicemaker® - 文本到语音转换器. | 创建用于商业用途的音频文件。即使在您的订阅到期后，Voicemaker 也允许您重新分发您生成的音频文件。. | :white_check_mark: |
-| [Voicera](https://www.thataicollection.com/redirect/voicera?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voicera - 为您的文章和博客发声. | . | :grey_question: |
+| [Voicera](https://www.thataicollection.com/redirect/voicera?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voicera-为你的文章和博客发声. | 一键为您的博客和文章创建逼真的语音听写。将声音嵌入到您的内容中。提高用户的参与度。. | :grey_question: |
 | [Wavel AI](https://www.thataicollection.com/redirect/wavel-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 视频内容创作者的最佳人工智能配音和翻译器. | 步入人工智能卓越领域——真实的人们的声音，现在由 Wavel AI 提供支持。轻松创建无可挑剔的录音室品质配音。利用我们先进的人工智能配音、翻译和语音克隆功能提升您的播客、视频和专业演示。. | :grey_question: |
 | [Wellsaid](https://www.thataicollection.com/redirect/wellsaid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 将文本实时转换为语音. | 借助 WellSaid，您和您的团队可以为所有数字内容创建引人入胜的逼真 AI 配音。. | :white_check_mark: |
 
@@ -857,7 +831,7 @@ AI写作副驾驶</h4>
 |---|---|---|:---:|
 | [AI movie Club](https://www.thataicollection.com/redirect/ai-movie-club?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 爱影会. | AI-MOVIE CLUB是一个用人工智能创作电影的社交网络！. | :grey_question: |
 | [AI Social Bio](https://www.thataicollection.com/redirect/ai-social-bio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Social Bio-你的社交媒体简历由人工智能创作. | 非常适合 X（Twitter）。添加关键字来塑造你的个人简历，选择一个有影响力的人来激发你的人工智能简历并生成你的个人简历. | :white_check_mark: |
-| [Graham AI](https://www.thataicollection.com/redirect/graham-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Graham.AI - 技术推文生成器. | . | :grey_question: |
+| [Graham AI](https://www.thataicollection.com/redirect/graham-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Graham.Ai-科技推文生成器。像天才的科技影响者一样发推文，由人工智能生成。. | 只需从列表中选择一个话题或写一个自定义主题，然后让生成式 AI 为你创建一条推文。你所需要做的就是分享生成的推文。. | :white_check_mark: |
 | [HotConvo](https://www.thataicollection.com/redirect/hotconvo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Spark Romance - 为您的在线约会获取有趣、机智和性感的聊天建议。. | 在几秒钟内进行调情聊天。从 Tinder、Bumble 或任何约会应用程序截取个人资料简介或正在进行的对话 -> 让 Hotconvo 了解智能建议的上下文 -> 获取多个建议以获取灵感，为你的下一条消息说些什么。. | :white_check_mark: |
 | [LoveGenius](https://www.thataicollection.com/redirect/lovegenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创建引人入胜且引人注目的约会简历，并在 Tinder、Bumble 和其他网站上获得更好的匹配！. | LoveGenius 是一款 AI 约会助手，可通过制作出色的约会档案来帮助吸引更好的匹配对象。它结合了机器学习算法、来自成功约会资料的数据，以及基于对约会教练和专家的采访的人类见解。. | :white_check_mark: |
 | [Postwise](https://www.thataicollection.com/redirect/postwise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Postwise - 使用 Twitter AI 编写、安排和成长. | 使用世界上最智能的 AI Twitter 工具编写、安排和成长. | :grey_question: |
@@ -865,8 +839,8 @@ AI写作副驾驶</h4>
 | [Roast](https://www.thataicollection.com/redirect/roast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 约会应用程序个人资料 AI 分析 - 拍摄照片 AI 生成器. | ROAST 帮助人们将他们在 Tinder、Bumble 和 Hinge 等约会应用程序上的匹配度提高 10 倍。在 AI 的支持下，它提供了数据驱动的约会见解和专家建议，以提高他们匹配的数量和质量. | :grey_question: |
 | [TinderProfile.ai](https://www.thataicollection.com/redirect/tinderprofile.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用于约会的 AI Photoshoot 生成器. | TinderProfile.ai 使用 AI 分析用户的自拍和照片并生成高质量图像以增强约会档案，增加获得更多匹配的机会. | :grey_question: |
 | [Tribescaler](https://www.thataicollection.com/redirect/tribescaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 部落攀爬者. | . | :grey_question: |
-| [TweetAI](https://www.thataicollection.com/redirect/tweetai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 从推文中获得灵感 • TweetAI.com. | 鸣叫人工智能. | :grey_question: |
-| [TweetEmote](https://www.thataicollection.com/redirect/tweetemote?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 推文表情. | . | :grey_question: |
+| [TweetAI](https://www.thataicollection.com/redirect/tweetai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 从推文中获得灵感 • TweetAI.com. | 使用智能 AI 推文生成器在几秒钟内激发灵感并撰写推文. | :grey_question: |
+| [TweetEmote](https://www.thataicollection.com/redirect/tweetemote?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TweeteMote - 由人工智能驱动的推文助手. | 人工智能驱动的推文助手——使用推文表情写出富有表现力的推文，让你的内容获得应有的参与度！. | :white_check_mark: |
 | [Tweethunter](https://www.thataicollection.com/redirect/tweethunter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tweet Hunter - 获得更多 Twitter 关注者 - 推文、线程、调度程序、分析. | 获得销售、增长和新网络。比你目前正在尝试的更快。. | :grey_question: |
 | [Tweetspear](https://www.thataicollection.com/redirect/tweetspear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tweetspear - 提高你的推特参与度. | 通过 AI 支持的建议回复彻底改变您的 Twitter 参与度。. | :grey_question: |
 
@@ -1193,7 +1167,7 @@ AI写作副驾驶</h4>
 | [Briefly](https://www.thataicollection.com/redirect/briefly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Briefly - 人工智能驱动的简报平台. | 获得最佳创意作品的营销简报。提高您的营销效率并减少写得不好的简报的成本。. | :grey_question: |
 | [CastPush](https://www.thataicollection.com/redirect/castpush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的多频道广播. | 使用 CastPush 只需点击几下即可连接并广播到您的所有社交媒体频道。我们神奇的 AI 技术针对每个单独的连接优化您的内容，确保最大的覆盖面和参与度。. | :white_check_mark: |
 | [Clickable](https://www.thataicollection.com/redirect/clickable?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 在几秒钟内生成广告. | 适用于所有营销渠道的美观、品牌一致且转化率高的广告。无需设计经验。. | :grey_question: |
-| [Copy.ai](https://www.thataicollection.com/redirect/copy.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 撰写更好的营销文案和内容. | 说再见'永远到空白页. | :white_check_mark: |
+| [Copy.ai](https://www.thataicollection.com/redirect/copy.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 撰写更好的营销文案和内容. | 获得畅销的优秀副本。 Copy.ai 是一款人工智能驱动的文案撰写者，可为您的企业生成高质量的文案。免费开始，无需信用卡！营销简单化！. | :white_check_mark: |
 | [Ctrl](https://www.thataicollection.com/redirect/ctrl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 适用于复杂 CRM 工作流程的现代 UI. | 通过自动化 CRM 更新、生成量身定制的后续行动并促进交易执行，简化您的销售工作流程和任务. | :white_check_mark: |
 | [Cuetap.com](https://www.thataicollection.com/redirect/cuetap.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 和 CI 助力销售战卡. | AI 驱动的平台提供自动魔法战卡和可操作的竞争情报。. | :white_check_mark: |
 | [FlashIntel](https://www.thataicollection.com/redirect/flashintel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | FlashIntel：提升收入策略。☁. | 介绍FlashIntel：一家首屈一指的上市情报公司，通过提高收入团队发现和联系理想客户档案的能力来加强收入团队。我们的包罗万象的解决方案将销售情报和参与功能整合到一个统一的平台中，使收入团队能够完善工作流程，专注于提高绩效。. | :white_check_mark: |
