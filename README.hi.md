@@ -19,15 +19,11 @@
 
 ---
 
-> My brothers and sisters in Israel were slaughtered by Hamas terrorists. I was drafted to protect my country. I may be slow to respond.
-
----
-
 <div align="center">
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=927" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=932" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -72,33 +68,15 @@
 
 ---
 
-<div align="center">
-    <h5>आपके एआई एप्लिकेशन के लिए अद्भुत उपकरण</h5>
-</div>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.twic.pics/screenshots/screenshot-usertrail.webp" alt="usertrail" border="0"/>
-    </a>
-    <h4>मॉडर्न ऐप्स के लिए सरल और शक्तिशाली ईवेंट ट्रैकिंग।</h4>
-    <p>यूज़र के हर माइलस्टोन को कैप्चर करें, ट्रैक करें और विज़ुअलाइज़ करें, जिससे डेटा-आधारित निर्णय पहले से कहीं ज्यादा आसान हो जाते हैं।
-मॉनिटर -अपडेट रहो। कभी भी, कहीं भी।
-विज़ुअलाइज़ करें - साफ़ और सुंदर डैशबोर्ड। कुछ ही मिनटों में।
-कैप्चर - आसान इंटीग्रेशन।</p>
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank"><b>usertrail के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-
----
-
-<p><a href="mailto: pavel@ai-collection.org">संपर्क करें</a> अपने शानदार ऐप के लिए प्रमोशन सेट अप करने के लिए!</p>
+### एआई संग्रह पर प्रदर्शित अद्भुत एआई अनुप्रयोगों की एक चुनिंदा सूची
 
 
 
-> **_ध्यान दें:_** संग्रह को प्रदर्शित करने के तरीके में बदलाव आ रहा है। केवल कुछ दर्जन हाथ से चुने गए जनरेटिव एआई एप्लिकेशन प्रदर्शित किए जाएंगे। पूरा संग्रह हमेशा https://www.thataicollection.com पर उपलब्ध रहेगा।
-<br />
+<p>यदि आपका एआई एप्लिकेशन इस चयनित सूची में स्थान पाने का हकदार है, तो कृपया मुझसे बात करें: <a href="mailto: pavel@ai-collection.org">ईमेल पावेल</a></p>
+
+
+
+लीगेसी तालिका दृश्य में AI एप्लिकेशन का पूरा संग्रह देखने के लिए, इस पृष्ठ पर जाएँ: [link](https://github.com/ai-collection/ai-collection/FULL_README.hi.md)
 
 ## Index
 - 🇺🇳 [अनुवाद और प्रतिलेख](#अनुवाद-और-प्रतिलेख)
@@ -143,1270 +121,4258 @@
 - 💞 [सामाजिक नेटवर्क और डेटिंग](#सामाजिक-नेटवर्क-और-डेटिंग)
 - 📊 [स्लाइड और प्रस्तुतियाँ](#स्लाइड-और-प्रस्तुतियाँ)
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
-- [अन्य](#अन्य)
+## लेखा और वित्त
+
+### FlowCog
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-flowcog.webp?twic=v1/resize=240" alt="FlowCog">
+
+#### सास वित्तीय अनुमान त्वरित और आसान ⚡ - [Visit](https://www.thataicollection.com/redirect/flowcog)
+
+कैश रनवे और विकास अंतर्दृष्टि अनलॉक करें - कोई स्प्रेडशीट नहीं! 7 मिनट ऑनबोर्डिंग। QuickBooks और स्ट्राइप तैयार। बोर्डों और निवेशकों द्वारा भरोसा किया
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/flowcog)
+
+<br />
+
+
+
+
+### StockGPT
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stockgpt.webp?twic=v1/resize=240" alt="StockGPT">
+
+#### एआई-पावर्ड सर्च इंजन - [Visit](https://www.thataicollection.com/redirect/stockgpt)
+
+स्टॉकजीपीटी एक एआई-पावर्ड सर्च इंजन है जिसे 2011 की दूसरी तिमाही से लेकर टेस्ला की सभी तिमाही आय कॉल प्रतिलेखों पर प्रशिक्षित किया गया था।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/stockgpt)
+
+<br />
+
+<br />
+
+
+### Jinnee
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jinnee.webp?twic=v1/resize=240" alt="Jinnee">
+
+#### जिनी - आपका फिनटेक वर्चुअल असिस्टेंट - [Visit](https://www.thataicollection.com/redirect/jinnee)
+
+जिनी समस्याएँ हल कर सकते हैं: सीमित क्षमता - सहायता विभाग हर अनुरोध को संसाधित नहीं कर सकता है, लंबी प्रतीक्षा समय - विभिन्न समय क्षेत्रों में स्थित ग्राहक, दोहराए जाने वाले प्रश्न - समय बचाने के लिए स्वचालित किए जा सकते हैं, समय बर्बाद करने वाले - विषाक्त कार्य वातावरण बनाते हैं
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/jinnee)
+
+<br />
+
+
+
+
+### Stocknews AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stocknews-ai.webp?twic=v1/resize=240" alt="Stocknews AI">
+
+#### 100+ स्रोतों से स्टॉक की सबसे अच्छी खबर
+AI द्वारा चुना गया - [Visit](https://www.thataicollection.com/redirect/stocknews-ai)
+
+Stocknews AI हर दिन के सबसे अच्छे नए स्टॉकन्यूज़ का संग्रह है। स्टॉक की सबसे ताज़ा ख़बरों के बारे में जानें, जिनके बारे में हर कोई बात कर रहा है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/stocknews-ai)
+
+<br />
+
+<br />
+
+
+
+[See All 📈 लेखा और वित्त Applications on AI Collection](https://www.thataicollection.com/en/categories/accounting-and-finance)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## एनिमेशन और 3डी मॉडलिंग
+
+### Blimey
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-blimey.webp?twic=v1/resize=240" alt="Blimey">
+
+#### ब्लिमी - कल्पना से छवि तक मिनटों में - [Visit](https://www.thataicollection.com/redirect/blimey)
+
+ब्लिमी एक AI इमेज जनरेटर है जहाँ तुम एक मिनट में आइडिया से वास्तविकता की ओर जा सकते हो। जिसका कंपोज़िशन, रंग और स्टाइल पर पूरा नियंत्रण है। AI के ज़रिए इमेज बनाते समय कंपोज़िशन और रंगों पर पूरा नियंत्रण पाने के लिए वर्चुअल 3D सीन सेट करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/blimey)
+
+<br />
+
+
+
+
+### TextureLab
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-texturelab.webp?twic=v1/resize=240" alt="TextureLab">
+
+#### आपके अगले गेम के लिए तत्काल और अद्वितीय 3डी बनावट - [Visit](https://www.thataicollection.com/redirect/texturelab)
+
+एआई की मदद से सेकेंडों में अपने गेम के लिए 3डी बनावट तैयार करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/texturelab)
+
+<br />
+
+<br />
+
+
+### Kaedim
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-kaedim.webp?twic=v1/resize=240" alt="Kaedim">
+
+#### मिनटों में जादुई रूप से Custom3D मॉडल बनाएं - [Visit](https://www.thataicollection.com/redirect/kaedim)
+
+मॉडलिंग टूल के लिए घंटे बर्बाद करना बंद करें। एक छवि से ज्यादा कुछ नहीं के साथ आश्चर्यजनक 3डी कला उत्पन्न करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/kaedim)
+
+<br />
+
+<br />
+
+
+### plask
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-plask.webp?twic=v1/resize=240" alt="plask">
+
+#### एआई-पावर्ड मोकैप एनिमेशन टूल - [Visit](https://www.thataicollection.com/redirect/plask)
+
+बिना महंगे बॉडीसूट या मोशन वर्क के आसानी से वीडियो से मोशन निकालें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/plask)
+
+<br />
+
+<br />
+
+
+### lumalabs
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lumalabs.webp?twic=v1/resize=240" alt="lumalabs">
+
+#### 3D V1.2 (अल्फ़ा) की कल्पना करें - [Visit](https://www.thataicollection.com/redirect/lumalabs)
+
+पाठ के साथ प्रोटोटाइप और 3D बनाने का एक प्रारंभिक प्रयोग पीढ़ी तक पहुंच धीरे-धीरे प्रतीक्षा सूची में सभी के लिए विस्तारित हो रही है
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/lumalabs)
+
+<br />
+
+<br />
+
+
+
+[See All 🎲 एनिमेशन और 3डी मॉडलिंग Applications on AI Collection](https://www.thataicollection.com/en/categories/animation-and-3d-modeling)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## वास्तुकला और आंतरिक डिजाइन
+
+### Makeit.ai
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-makeit.ai.webp?twic=v1/resize=240" alt="Makeit.ai">
+
+#### जनरेटिव डिज़ाइन - आर्किटेक्चर डिज़ाइन सॉफ़्टवेयर - माकेट - [Visit](https://www.thataicollection.com/redirect/makeit.ai)
+
+हमारा जनरेटिव डिज़ाइन सॉफ़्टवेयर वास्तुकारों, बिल्डरों और डेवलपर्स को तुरंत हजारों वास्तुशिल्प योजनाओं को तुरंत उत्पन्न करने में सक्षम बनाता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/makeit.ai)
+
+<br />
+
+<br />
+
+
+### Interior AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-interior-ai.webp?twic=v1/resize=240" alt="Interior AI">
+
+#### इंटीरियर एआई: आर्टिफिशियल इंटेलिजेंस का उपयोग करते हुए इंटीरियर डिजाइन आइडियाज इंस्पिरेशन और वर्चुअल स्टेजिंग ऐप - [Visit](https://www.thataicollection.com/redirect/interior-ai)
+
+विभिन्न आंतरिक शैलियों के साथ रियल एस्टेट लिस्टिंग के लिए आर्टिफिशियल इंटेलिजेंस और वस्तुतः स्टेज इंटीरियर का उपयोग करके इंटीरियर डिजाइन विचार प्राप्त करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/interior-ai)
+
+<br />
+
+
+
+
+### Image Computer
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-image-computer.webp?twic=v1/resize=240" alt="Image Computer">
+
+#### अपनी अगली आंतरिक सज्जा / पैनिटिंग / फैशन संग्रह / संकल्पना कला तैयार करें - [Visit](https://www.thataicollection.com/redirect/image-computer)
+
+आप जिस भी प्रकार की छवि के बारे में सोच सकते हैं, उसे उत्पन्न करने के लिए हमारी शक्तिशाली एआई तकनीक का उपयोग करें। कुछ ही सेकण्ड में।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/image-computer)
+
+<br />
+
+<br />
+
+
+### Dimensions
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dimensions.webp?twic=v1/resize=240" alt="Dimensions">
+
+#### डाइमेंशन - एआई के साथ तेजी से विज़ुअल कॉन्सेप्ट बनाएं - [Visit](https://www.thataicollection.com/redirect/dimensions)
+
+कल्पना करें कि आप आसानी से सुंदर आंतरिक डिज़ाइन बना सकते हैं - यही आयाम प्रदान करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/dimensions)
+
+<br />
+
+<br />
+
+
+### AI Room Planner
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-room-planner.webp?twic=v1/resize=240" alt="AI Room Planner">
+
+#### एआई द्वारा आंतरिक डिजाइन - [Visit](https://www.thataicollection.com/redirect/ai-room-planner)
+
+अपने कमरे के लिए सैकड़ों इंटीरियर डिजाइन विचार प्राप्त करें - बिना किसी सीमा के निःशुल्क।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-room-planner)
+
+<br />
+
+<br />
+
+
+### Getfloorplan
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-getfloorplan.webp?twic=v1/resize=240" alt="Getfloorplan">
+
+#### एआई के साथ 2डी और 3डी फ्लोर प्लान बनाना - [Visit](https://www.thataicollection.com/redirect/getfloorplan)
+
+2डी, 3डी फ्लोर प्लान और वर्चुअल टूर का उपयोग करने वाले हमारे ग्राहकों द्वारा 30% तक कॉल वृद्धि की सूचना दी गई है
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/getfloorplan)
+
+<br />
+
+<br />
+
+
+### AI TWO
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-two.webp?twic=v1/resize=240" alt="AI TWO">
+
+#### Aitwo.Co - एआई-पावर्ड ऑल-इन-वन डिज़ाइन प्लेटफ़ॉर्म - [Visit](https://www.thataicollection.com/redirect/ai-two)
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-two)
+
+<br />
+
+<br />
+
+
+
+[See All 🏯 वास्तुकला और आंतरिक डिजाइन Applications on AI Collection](https://www.thataicollection.com/en/categories/architecture-and-interior-design)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## कला और छवि जनरेटर
+
+### Getimg.ai
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-getimg.ai.webp?twic=v1/resize=240" alt="Getimg.ai">
+
+#### एआई की शक्ति से अद्भुत अवतार, चित्र, कला, तस्वीरें बनाएं। - [Visit](https://www.thataicollection.com/redirect/getimg.ai)
+
+getimg.ai जादुई AI टूल का एक सूट है। बड़े पैमाने पर मूल छवियां बनाएं, फ़ोटो संशोधित करें, चित्रों को उनकी मूल सीमाओं से परे विस्तारित करें, या कस्टम AI मॉडल बनाएं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/getimg.ai)
+
+<br />
+
+
+
+
+### ICONS8
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-icons8.webp?twic=v1/resize=240" alt="ICONS8">
+
+#### प्रतीक, चित्रण, फ़ोटो, संगीत और डिज़ाइन टूल - [Visit](https://www.thataicollection.com/redirect/icons8)
+
+ICONS8 डिज़ाइनर को अपने विचार व्यक्त करने की अनुमति देता है, जिससे वे सही समय पर सही डिज़ाइन तत्व प्रदान करते हैं। AI विशेषताएं: फ़ेस जनरेटर, स्टॉक के चेहरे बदलें, स्मार्ट अपस्केलर, अपनी वेबसाइट को सीधे Lunacy से अपडेट करें और बहुत कुछ
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/icons8)
+
+<br />
+
+
+
+
+### CustomQR AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-customqr-ai.webp?twic=v1/resize=240" alt="CustomQR AI">
+
+#### व्यवसाय के लिए क्यूआर कोड जनरेशन सेवा - [Visit](https://www.thataicollection.com/redirect/customqr-ai)
+
+10 मिनट से कम समय में अपने ईमेल पर कलात्मक सुंदर क्यूआर कोड प्राप्त करें। उपलब्ध QR कोड श्रेणियों में से चुनें या अपना स्वयं का अनुरोध करें। अद्वितीय क्यूआर कलाओं के साथ अपने व्यवसाय को अलग बनाएं!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/customqr-ai)
+
+<br />
+
+
+
+
+### Playground
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-playground.webp?twic=v1/resize=240" alt="Playground">
+
+#### खेल का मैदान ऐ - ऑनलाइन ऐ छवि निर्माता - [Visit](https://www.thataicollection.com/redirect/playground)
+
+प्लेग्राउंड एआई एक फ्री-टू-यूज ऑनलाइन एआई इमेज क्रिएटर है। कला, सोशल मीडिया पोस्ट, प्रस्तुतियाँ, पोस्टर, वीडियो, लोगो और बहुत कुछ बनाने के लिए इसका उपयोग करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/playground)
+
+<br />
+
+
+
+
+### Designify
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-designify.webp?twic=v1/resize=240" alt="Designify">
+
+#### Designify - किसी भी फोटो को शानदार बनाएं - [Visit](https://www.thataicollection.com/redirect/designify)
+
+असाधारण उत्पाद तस्वीरें और अधिक बनाएं: जादू शुरू करने के लिए कोई भी छवि चुनें ✨
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/designify)
+
+<br />
+
+<br />
+
+
+### NSFW Art Generator AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-nsfw-art-generator-ai.webp?twic=v1/resize=240" alt="NSFW Art Generator AI">
+
+#### तुम पूरी आसानी से गुणवत्तापूर्ण NSFW AI इमेज जेनरेट कर सकते हो। - [Visit](https://www.thataicollection.com/redirect/nsfw-art-generator-ai)
+
+हमारे NSFW AI जनरेटर के साथ। तुम पूरी आसानी से गुणवत्तापूर्ण NSFW AI इमेज जेनरेट कर सकते हो। यह टूल यूज़र को AI इमेज एक्सप्लोर करने और बनाने की सुविधा देता है, जिसमें असली, एनीमे, हाइपररियल और फ़ैंटसी विकल्प शामिल हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/nsfw-art-generator-ai)
+
+<br />
+
+
+
+
+### Anime AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-anime-ai.webp?twic=v1/resize=240" alt="Anime AI">
+
+#### एआई एनीमे पिक्चर जेनरेटर - एनीमे एआई - [Visit](https://www.thataicollection.com/redirect/anime-ai)
+
+एआई के साथ अपनी संपूर्ण एनीमे तस्वीर बनाएं। वन पीस, नारुतो, वेबटून स्टाइल और अन्य में से चुनें!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/anime-ai)
+
+<br />
+
+<br />
+
+
+
+[See All 🌄 कला और छवि जनरेटर Applications on AI Collection](https://www.thataicollection.com/en/categories/art-and-image-generator)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## अवतारों
+
+### HairstyleAI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hairstyleai.webp?twic=v1/resize=240" alt="HairstyleAI">
+
+#### एआई की शक्ति से नए हेयर स्टाइल आज़माएं - [Visit](https://www.thataicollection.com/redirect/hairstyleai)
+
+हेयरस्टाइलएआई आपको वास्तविक कटिंग कराने से पहले वस्तुतः एआई के साथ नए हेयरकट आज़माने की सुविधा देता है। अपने लुक में अधिक आत्मविश्वास लाएं और फिर से अपने जैसा महसूस करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/hairstyleai)
+
+<br />
+
+
+
+
+### AvatarAI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-avatarai.webp?twic=v1/resize=240" alt="AvatarAI">
+
+#### अपना खुद का फोटोरियलिस्टिक एआई अवतार बनाएं - [Visit](https://www.thataicollection.com/redirect/avatarai)
+
+रूपांतरित करने के लिए 112+ विभिन्न शैलियों में से चुनें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/avatarai)
+
+<br />
+
+<br />
+
+
+### Character.io
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-character.io.webp?twic=v1/resize=240" alt="Character.io">
+
+#### नए कार्टून चरित्रों को उत्पन्न करने के लिए नि: शुल्क उपकरण - [Visit](https://www.thataicollection.com/redirect/character.io)
+
+GAN की शक्ति से वर्णों या अवतारों का एक यादृच्छिक सेट उत्पन्न करें। नया सेट बनाने के लिए स्पेसबार दबाएं
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/character.io)
+
+<br />
+
+<br />
+
+
+### Avtrs
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-avtrs.webp?twic=v1/resize=240" alt="Avtrs">
+
+#### हैप्पी यूजर्स द्वारा बनाए गए अवतार - [Visit](https://www.thataicollection.com/redirect/avtrs)
+
+यह काम किस प्रकार करता है? 1. अलग-अलग कोणों से अपनी (या अन्य व्यक्ति की) कुछ सेल्फी अपलोड करें। 2. रुकिए - जब तक हम आपकी तस्वीरों के आधार पर आपका स्टूडियो बना रहे हैं, तब तक कॉफी लें। 3. शीघ्र - सही संकेत तैयार करने के लिए अपनी कल्पना का प्रयोग करें!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/avtrs)
+
+<br />
+
+
+
+
+### Autoportrait
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-autoportrait.webp?twic=v1/resize=240" alt="Autoportrait">
+
+#### ऑटोपोर्ट्रेट - एआई पोर्ट्रेट बनाएं - [Visit](https://www.thataicollection.com/redirect/autoportrait)
+
+लाखों शैलियाँ ब्राउज़ करें या अपना स्वयं का बनाएँ, AI ऑटोपोर्ट्रेट बनाएँ।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/autoportrait)
+
+<br />
+
+<br />
+
+
+### AIVatar
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aivatar.webp?twic=v1/resize=240" alt="AIVatar">
+
+#### ऐवतार - मैजिक अवतार जेनरेटर - [Visit](https://www.thataicollection.com/redirect/aivatar)
+
+अपनी तस्वीरों से जादू अवतार कला उत्पन्न करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/aivatar)
+
+<br />
+
+<br />
+
+
+### AIprofilepic
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aiprofilepic.webp?twic=v1/resize=240" alt="AIprofilepic">
+
+#### एआई का उपयोग करके आश्चर्यजनक प्रोफ़ाइल चित्र बनाएं - Aiprofilepic.Art - [Visit](https://www.thataicollection.com/redirect/aiprofilepic)
+
+हमारी उपयोग में आसान एआई तकनीक के साथ कुछ ही क्लिक में अपने संपूर्ण अवतार बनाएं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/aiprofilepic)
+
+<br />
+
+<br />
+
+
+
+[See All 😎 अवतारों Applications on AI Collection](https://www.thataicollection.com/en/categories/avatars)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## चैट बॉट
+
+### AChatsimple
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-achatsimple.webp?twic=v1/resize=240" alt="AChatsimple">
+
+#### ChatGPT बिज़नेस चैटबॉट तुम्हारे लिए आसान बना दिया गया है - [Visit](https://www.thataicollection.com/redirect/achatsimple)
+
+ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छोटे और मध्यम आकार के व्यवसायों (SMB) के लिए सिर्फ़ 5 मिनट में रूपांतरण-उन्मुख चैटबॉट बनाने में माहिर है। प्लेटफ़ॉर्म तीन प्रमुख कार्यक्षमताओं पर केंद्रित है: लीड जनरेशन, अक्सर पूछे जाने वाले प्रश्न प्रबंधन और प्री-क्वालिफिकेशन से संबंधित प्रश्नों को संभालना। एसएमबी को डोमेन-विशिष्ट विशेषज्ञता के साथ अपने स्वयं के चैटबॉट बनाने में सक्षम करके,
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/achatsimple)
+
+<br />
+
+
+
+
+### SiteSpeakAI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sitespeakai.webp?twic=v1/resize=240" alt="SiteSpeakAI">
+
+#### ChatGPT के साथ अपनी ग्राहक सहायता को स्वचालित बनाएं। - [Visit](https://www.thataicollection.com/redirect/sitespeakai)
+
+अपनी सामग्री, सहायता दस्तावेज़ों, PDF, API या डेटाबेस का इस्तेमाल करके कस्टम प्रशिक्षित AI सपोर्ट चैटबॉट बनाएं। फिर इसे अपनी वेबसाइट पर कोड की एक लाइन के साथ जोड़ें, ताकि रीयल-टाइम में अपने विज़िटर के सवालों के जवाब मिल सकें और अपनी सहायता टिकट कम कर सकें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/sitespeakai)
+
+<br />
+
+
+
+
+### Dante
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dante.webp?twic=v1/resize=240" alt="Dante">
+
+#### आपके डेटा पर प्रशिक्षित कस्टम जीपीटी चैटबॉट्स - [Visit](https://www.thataicollection.com/redirect/dante)
+
+शून्य कोडिंग। मिनटों में अपनी वेबसाइट पर साझा करें। मिनटों में GPT-4 चैटबॉट बनाएं। एआई को प्रशिक्षित करें, अनुकूलित करें और अपनी वेबसाइट पर एम्बेड करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/dante)
+
+<br />
+
+
+
+
+### ChatBotKit
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chatbotkit.webp?twic=v1/resize=240" alt="ChatBotKit">
+
+#### उन्नत एआई चैट बॉट बनाने का सबसे तेज़ तरीका - [Visit](https://www.thataicollection.com/redirect/chatbotkit)
+
+ChatBotKit आपको अपनी वेबसाइट, स्लैक, डिस्कॉर्ड और व्हाट्सएप पर उपयोगकर्ताओं के साथ स्वाभाविक रूप से संवाद करने के लिए अपने स्वयं के डेटा के साथ संवादी AI चैटबॉट बनाने में मदद करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/chatbotkit)
+
+<br />
+
+
+
+
+### SiteGPT
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sitegpt.webp?twic=v1/resize=240" alt="SiteGPT">
+
+#### हर वेबसाइट के लिए ChatGPT - [Visit](https://www.thataicollection.com/redirect/sitegpt)
+
+आपकी वेबसाइट की सामग्री पर प्रशिक्षित व्यक्तिगत चैटबॉट के साथ अपने आगंतुकों के सवालों का तुरंत जवाब दें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/sitegpt)
+
+<br />
+
+<br />
+
+
+### NOLU
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-nolu.webp?twic=v1/resize=240" alt="NOLU">
+
+#### एआई के साथ बातचीत करना सरल होना चाहिए। - [Visit](https://www.thataicollection.com/redirect/nolu)
+
+एनओएलयू से मिलें। ओपन एआई जीपीटी-3 इंजन के साथ बातचीत करने के लिए एक सरल इंटरफ़ेस।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/nolu)
+
+<br />
+
+<br />
+
+
+### Askrobi
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-askrobi.webp?twic=v1/resize=240" alt="Askrobi">
+
+#### व्हाट्सएप में एआई की शक्ति - [Visit](https://www.thataicollection.com/redirect/askrobi)
+
+रॉबी एक शक्तिशाली एआई साथी है जो आपकी संपर्क सूची में रहता है और व्हाट्सएप के माध्यम से उससे बात की जा सकती है, वह आपको एक निबंध लिखने या मूल चित्र बनाने में मदद कर सकता है!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/askrobi)
+
+<br />
+
+
+
+
+
+[See All 🤖💬 चैट बॉट Applications on AI Collection](https://www.thataicollection.com/en/categories/chat-bot)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## कोड और डेटाबेस सहायक
+
+### Swimm AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-swimm-ai.webp?twic=v1/resize=240" alt="Swimm AI">
+
+#### आपका कोड दस्तावेज़ीकरण महाशक्ति - [Visit](https://www.thataicollection.com/redirect/swimm-ai)
+
+डॉक्यूमेंटेशन संरचनाएँ बनाएँ, कोड स्पष्टीकरण उत्पन्न करें और स्विम एआई के साथ दस्तावेज़ दृश्यता बढ़ाएँ
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/swimm-ai)
+
+<br />
+
+<br />
+
+
+### CodiumAI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-codiumai.webp?twic=v1/resize=240" alt="CodiumAI">
+
+#### व्यस्त देवों के लिए सार्थक परीक्षण - [Visit](https://www.thataicollection.com/redirect/codiumai)
+
+CodiumAI आपके कोड का विश्लेषण करता है और आपके भेजने से पहले बग को पकड़ने के लिए सार्थक परीक्षण उत्पन्न करता है
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/codiumai)
+
+<br />
+
+<br />
+
+
+### CodeWP
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-codewp.webp?twic=v1/resize=240" alt="CodeWP">
+
+#### Codewp - AI Wordpress कोड जेनरेटर और सहायक - [Visit](https://www.thataicollection.com/redirect/codewp)
+
+CodeWP एक वर्डप्रेस कोड जनरेटर है जो आपको बेहतर और तेज बनाने में मदद करने के लिए वर्डप्रेस, वू और अन्य के लिए एआई और विशेष मॉडल का उपयोग करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/codewp)
+
+<br />
+
+<br />
+
+
+### ExplainDev
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-explaindev.webp?twic=v1/resize=240" alt="ExplainDev">
+
+#### एक्सप्लेनदेव - कोड एक्सप्लेनर जो संदर्भ में आपके प्रश्नों का उत्तर देता है - [Visit](https://www.thataicollection.com/redirect/explaindev)
+
+एक्सप्लेनडेव आपको दूसरों के कोड के साथ अधिक आत्मविश्वासी और स्वतंत्र होने में मदद करता है। एआई द्वारा संचालित क्रोम और वीएस कोड एक्सटेंशन के माध्यम से कोड स्पष्टीकरण और अपने प्रश्नों के सीधे उत्तर प्राप्त करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/explaindev)
+
+<br />
+
+
+
+
+### TLDR - Jetbrains IDE Plugin
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tldr---jetbrains-ide-plugin.webp?twic=v1/resize=240" alt="TLDR - Jetbrains IDE Plugin">
+
+#### टीएलडीआर - सादे अंग्रेजी में कोड समझाएं - [Visit](https://www.thataicollection.com/redirect/tldr---jetbrains-ide-plugin)
+
+टीएलडीआर एक आईडीई प्लगइन है जो सादे अंग्रेजी में कोड की व्याख्या करने के लिए एआई का लाभ उठाता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/tldr---jetbrains-ide-plugin)
+
+<br />
+
+<br />
+
+
+### Klu
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-klu.webp?twic=v1/resize=240" alt="Klu">
+
+#### Klu.ai एक ऑल-इन-वन प्लेटफ़ॉर्म है जिसे AI टीमों के लिए जेनेरेटिव AI ऐप्लिकेशन बनाने, तैनात करने और ऑप्टिमाइज़ करने के लिए डिज़ाइन किया गया है।  - [Visit](https://www.thataicollection.com/redirect/klu)
+
+Klu.ai एक ऑल-इन-वन प्लेटफ़ॉर्म है जिसे AI टीमों के लिए जेनेरेटिव AI ऐप्लिकेशन बनाने, तैनात करने और ऑप्टिमाइज़ करने के लिए डिज़ाइन किया गया है। यह यूज़र, क्लू स्टूडियो नामक सहज इंटरफ़ेस का उपयोग करके जेनेरेटिव AI सुविधाओं और ऐप्स को आसानी से डिज़ाइन करने, विकसित करने और फिर से शुरू करने की सुविधा देता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/klu)
+
+<br />
+
+
+
+
+### Whatthediff
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-whatthediff.webp?twic=v1/resize=240" alt="Whatthediff">
+
+#### व्हाट-द-डिफ - एआई-संचालित कोड समीक्षा सहायक - [Visit](https://www.thataicollection.com/redirect/whatthediff)
+
+एआई संचालित गिटहब ऐप जो सादे अंग्रेजी में आपके पुल अनुरोधों में बदलाव की व्याख्या करता है
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/whatthediff)
+
+<br />
+
+<br />
+
+
+
+[See All 💻 कोड और डेटाबेस सहायक Applications on AI Collection](https://www.thataicollection.com/en/categories/code-and-database-assistant)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## सामग्री निर्माण और एसईओ
+
+### CarbonCopy
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-carboncopy.webp?twic=v1/resize=240" alt="CarbonCopy">
+
+#### कार्बनकॉपी एआई लेखन उपकरण और सामग्री जेनरेटर - [Visit](https://www.thataicollection.com/redirect/carboncopy)
+
+विवरण, विज्ञापन, लेख, ईमेल और बहुत कुछ सहित विभिन्न उद्देश्यों के लिए हमारे 50 टेम्पलेट्स और शिल्प सम्मोहक प्रतिलिपि में से एक चुनें... कुछ जानकारी प्रदान करें जिसका उपयोग कार्बनकॉपी आपकी प्रतिलिपि बनाने के लिए करेगा। कुछ ही सेकंड में, हमारा कृत्रिम बुद्धिमत्ता सॉफ़्टवेयर आपकी मार्केटिंग के लिए उल्लेखनीय परिणाम उत्पन्न करेगा।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/carboncopy)
+
+<br />
+
+
+
+
+### Jasper.ai
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jasper.ai.webp?twic=v1/resize=240" alt="Jasper.ai">
+
+#### जैस्पर - एआई कॉपीराइटर - टीमों के लिए एआई कंटेंट जेनरेटर - [Visit](https://www.thataicollection.com/redirect/jasper.ai)
+
+जैस्पर एआई कंटेंट जेनरेटर है जो आपको और आपकी टीम को 10 गुना तेजी से अद्भुत, मूल सामग्री बनाने के लिए रचनात्मक अवरोधों को तोड़ने में मदद करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/jasper.ai)
+
+<br />
+
+<br />
+
+
+### WordAI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wordai.webp?twic=v1/resize=240" alt="WordAI">
+
+#### एआई टेक्स्ट रिवाइटर - वर्डई - [Visit](https://www.thataicollection.com/redirect/wordai)
+
+टर्नअराउंड समय में कटौती करने, अपना बजट बढ़ाने और अधिक उच्च-गुणवत्ता वाली सामग्री बनाने के लिए कृत्रिम बुद्धिमत्ता का उपयोग करें जो Google और पाठकों को पसंद आएगी।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/wordai)
+
+<br />
+
+
+
+
+### Dashword
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dashword.webp?twic=v1/resize=240" alt="Dashword">
+
+#### बेहतरीन सामग्री लिखें, तेजी से। कुछ ही समय में सामग्री संक्षिप्त बनाएं और एसईओ के लिए अपनी सामग्री को अनुकूलित करें। - [Visit](https://www.thataicollection.com/redirect/dashword)
+
+SEO टीमों के लिए Dashword #1 सामग्री अनुकूलन सॉफ़्टवेयर है। अपने पाठकों के लिए प्रासंगिक सामग्री बनाएँ और अपना जैविक ट्रैफ़िक बढ़ाएँ।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/dashword)
+
+<br />
+
+<br />
+
+
+### unbound
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-unbound.webp?twic=v1/resize=240" alt="unbound">
+
+#### आपके छोटे व्यवसाय के लिए स्वचालित सामग्री निर्माण - [Visit](https://www.thataicollection.com/redirect/unbound)
+
+छोटे व्यवसाय, ऑनलाइन दुकानों और रचनाकारों के लिए सामग्री निर्माण को स्वचालित करने के लिए डिज़ाइन किए गए सभी बेहतरीन AI पीढ़ी के उपकरणों का एक ही स्थान पर लाभ उठाएं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/unbound)
+
+<br />
+
+
+
+
+### Neuraltext
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-neuraltext.webp?twic=v1/resize=240" alt="Neuraltext">
+
+#### Neuraltext - AI लेखक और SEO प्लेटफ़ॉर्म। - [Visit](https://www.thataicollection.com/redirect/neuraltext)
+
+अपने सामग्री संचालन को स्वचालित करें। ऑल-इन-वन कंटेंट मार्केटिंग और SEO प्लेटफॉर्म जो आपका समय और पैसा बचाता है
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/neuraltext)
+
+<br />
+
+<br />
+
+
+### Intelligent paraphraser
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-intelligent-paraphraser.webp?twic=v1/resize=240" alt="Intelligent paraphraser">
+
+#### Aiseo - AI राइटिंग असिस्टेंट, AI कॉपी राइटिंग और कंटेंट जेनरेटर - [Visit](https://www.thataicollection.com/redirect/intelligent-paraphraser)
+
+आर्टिफिशियल इंटेलिजेंस के साथ लेखन महाशक्तियां प्राप्त करें। AISEO में हम आपको अपने विचारों को ब्लॉग में बदलने में मदद करेंगे और एक बटन के क्लिक पर आपके लिए लिख सकते हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/intelligent-paraphraser)
+
+<br />
+
+
+
+
+
+[See All 📠 सामग्री निर्माण और एसईओ Applications on AI Collection](https://www.thataicollection.com/en/categories/content-generation-and-seo)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## निर्माता टूलकिट
+
+### Damn Good Tools
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-damn-good-tools.webp?twic=v1/resize=240" alt="Damn Good Tools">
+
+#### ओह, ये बहुत अच्छे उपकरण हैं
+उपयोग में आसान, मज़ेदार उपकरण—निःशुल्क (और ओपन-सोर्स)। - [Visit](https://www.thataicollection.com/redirect/damn-good-tools)
+
+उपयोगी अच्छे टूल खोजें जो आपकी उत्पादकता बढ़ाएंगे।
+कुछ टूल के उदाहरण: गोपनीयता नीति जनरेटर, स्क्रीनशॉट, फ़ॉन्ट का पता लगाएं, किसी भी पीडीएफ के साथ चैट करें, किसी भी यूआरएल का सारांश और बहुत कुछ।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/damn-good-tools)
+
+<br />
+
+
+
+
+### Clipdrop
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-clipdrop.webp?twic=v1/resize=240" alt="Clipdrop">
+
+#### सेकंड में आश्चर्यजनक दृश्य बनाएँ - [Visit](https://www.thataicollection.com/redirect/clipdrop)
+
+आर्टिफिशियल इंटेलिजेंस द्वारा संचालित सभी क्रिएटर्स के लिए ऐप्स, प्लगइन्स और संसाधनों का बेहतरीन इकोसिस्टम।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/clipdrop)
+
+<br />
+
+<br />
+
+
+### Descript
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-descript.webp?twic=v1/resize=240" alt="Descript">
+
+#### वीडियो और पॉडकास्ट बनाने का एक नया तरीका है। एक अच्छा तरीका। - [Visit](https://www.thataicollection.com/redirect/descript)
+
+विवरण संपादित करने का सरल, शक्तिशाली और मज़ेदार तरीका है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/descript)
+
+<br />
+
+<br />
+
+
+### Cutout Pro
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cutout-pro.webp?twic=v1/resize=240" alt="Cutout Pro">
+
+#### Cutout.Pro - AI फोटो एडिटिंग - विजुअल कंटेंट जनरेशन प्लेटफॉर्म, इमेज और वीडियो डिजाइन के लिए बेस्ट - [Visit](https://www.thataicollection.com/redirect/cutout-pro)
+
+ऑल-इन-वन विज़ुअल डिज़ाइन प्लेटफ़ॉर्म जिसमें एआई फोटो और वीडियो एडिटिंग टूल हैं। पृष्ठभूमि हटाने, छवि बहाली, ग्राफिक डिजाइन और सामग्री निर्माण के लिए स्वचालित प्रक्रिया
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/cutout-pro)
+
+<br />
+
+
+
+
+### Fermat
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fermat.webp?twic=v1/resize=240" alt="Fermat">
+
+#### सामग्री निर्माण के लिए रचनात्मकता संवर्धित - [Visit](https://www.thataicollection.com/redirect/fermat)
+
+सहयोगी कैनवास पर एआई के साथ अपनी रचनात्मकता को उजागर करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/fermat)
+
+<br />
+
+<br />
+
+
+### Adobe Express
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-express.webp?twic=v1/resize=240" alt="Adobe Express">
+
+#### YouTube के थंबनेल मिनटों में मुफ़्त बनाएं। - [Visit](https://www.thataicollection.com/redirect/adobe-express)
+
+बस कुछ ही टैप में अपने चैनल के लिए ध्यान खींचने वाले YouTube थंबनेल बनाएं। मुफ़्त टेम्प्लेट के साथ शुरुआत करें, जिन्हें तुम कस्टमाइज़ करके Adobe Express में क्लिक-योग्य थंबनेल बनाने के लिए कस्टमाइज़ कर सकते हो।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/adobe-express)
+
+<br />
+
+
+
+
+### Lightricks
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lightricks.webp?twic=v1/resize=240" alt="Lightricks">
+
+#### हर जगह रचनाकारों का घर - [Visit](https://www.thataicollection.com/redirect/lightricks)
+
+क्रिएटर्स के लिए सर्वोत्तम टूल और सेवाओं के साथ सृजन के जादू का अनुभव करें: फेसट्यून 2, वीडियोलीप, लिंकिनबियो और फोटोलीप। अब इसे जांचें!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/lightricks)
+
+<br />
+
+<br />
+
+
+
+[See All 🧰 निर्माता टूलकिट Applications on AI Collection](https://www.thataicollection.com/en/categories/creators-toolkit)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## ग्राहक सहेयता
+
+### Webapi.ai 2.0
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-webapi.ai-2.0.webp?twic=v1/resize=240" alt="Webapi.ai 2.0">
+
+#### ग्राहक सेवा के लिए ChatGPT - [Visit](https://www.thataicollection.com/redirect/webapi.ai-2.0)
+
+लीड्स से जुड़ने, अपने व्यवसाय के बारे में सवालों के जवाब देने, ग्राहक डेटा रिकॉर्ड करने और अपनी पसंद के किसी भी एपीआई को जोड़ने के लिए GPT-4 का उपयोग करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/webapi.ai-2.0)
+
+<br />
+
+
+
+
+### AI Answers by Cohere
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-answers-by-cohere.webp?twic=v1/resize=240" alt="AI Answers by Cohere">
+
+#### ग्राहक सहायता के लिए संवादी AI प्लेटफ़ॉर्म - कोहेयर - [Visit](https://www.thataicollection.com/redirect/ai-answers-by-cohere)
+
+एआई-संचालित समर्थन सहायता जो पिछले टिकटों से उत्तर ढूंढती है
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-answers-by-cohere)
+
+<br />
+
+<br />
+
+
+### Bahasa
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-bahasa.webp?twic=v1/resize=240" alt="Bahasa">
+
+#### बहासा.आई - चैटबॉट जो ग्राहकों को पूरी तरह से सेवा प्रदान करता है - [Visit](https://www.thataicollection.com/redirect/bahasa)
+
+ऑटोमेशन जो आपके व्यवसाय में मदद करता है, लाखों खुश ग्राहकों को तेजी से सेवा प्रदान करता है, एआई द्वारा संचालित विशेष रूप से बहासा इंडोनेशिया के लिए बनाया गया है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/bahasa)
+
+<br />
+
+
+
+
+### ResolveAI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-resolveai.webp?twic=v1/resize=240" alt="ResolveAI">
+
+#### समाधान - [Visit](https://www.thataicollection.com/redirect/resolveai)
+
+हमारे एआई चैटबॉट ग्राहकों की समस्याओं को समझने और वास्तविक समय में अनुरूप, सटीक प्रतिक्रिया प्रदान करने के लिए डिज़ाइन किए गए हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/resolveai)
+
+<br />
+
+<br />
+
+
+### EddyAI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-eddyai.webp?twic=v1/resize=240" alt="EddyAI">
+
+#### अपने ग्राहकों को स्वचालित रूप से 24/7 बेचें और उनका समर्थन करें - [Visit](https://www.thataicollection.com/redirect/eddyai)
+
+बिक्री बढ़ाएँ और समर्थन लागत कम करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/eddyai)
+
+<br />
+
+<br />
+
+
+### Poised 2.0
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-poised-2.0.webp?twic=v1/resize=240" alt="Poised 2.0">
+
+#### तैयार - मुफ़्त AI- संचालित कम्यूनिकेशन कोच - [Visit](https://www.thataicollection.com/redirect/poised-2.0)
+
+प्रस्तुतियों, साक्षात्कारों, ग्राहकों की कॉल में तुम्हारा AI फ़ीडबैक पार्टनर। अपनी ऑनलाइन मीटिंग के पहले, दौरान और बाद में निजी फ़ीडबैक के साथ मीटिंग में ज़्यादा प्रभावी ढंग से संवाद करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/poised-2.0)
+
+<br />
+
+
+
+
+### OneTone.ai
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-onetone.ai.webp?twic=v1/resize=240" alt="OneTone.ai">
+
+#### हम सहायता टीमों को तेज़ और अधिक सटीक संचार करने में मदद करते हैं - [Visit](https://www.thataicollection.com/redirect/onetone.ai)
+
+OneTone.ai एक एआई-संचालित प्लेटफ़ॉर्म है जो आपको मूल्यवान अंतर्दृष्टि प्रदान करता है, जिससे आप सूचित निर्णय ले सकते हैं और उच्चतम ग्राहक सेवा प्रदान कर सकते हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/onetone.ai)
+
+<br />
+
+
+
+
+
+[See All 👨‍💻 ग्राहक सहेयता Applications on AI Collection](https://www.thataicollection.com/en/categories/customer-support)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## ई-कॉमर्स
+
+### Octie.ai
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-octie.ai.webp?twic=v1/resize=240" alt="Octie.ai">
+
+#### Octie.Ai - आपका A.I. ईकॉमर्स मार्केटिंग असिस्टेंट - [Visit](https://www.thataicollection.com/redirect/octie.ai)
+
+एआई के साथ ईमेल, उत्पाद विवरण आदि लिखें। ऑक्टेन एआई द्वारा बनाया गया।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/octie.ai)
+
+<br />
+
+<br />
+
+
+### Embolden
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-embolden.webp?twic=v1/resize=240" alt="Embolden">
+
+#### अपने ईकॉमर्स लेखन को सशक्त बनाने के लिए एआई का उपयोग करें। - [Visit](https://www.thataicollection.com/redirect/embolden)
+
+एम्बोल्डन आपके ईकॉमर्स व्यवसाय के लिए ईमेल से लेकर उत्पाद विवरण तक सब कुछ लिखने में आपकी मदद करने के लिए एआई का उपयोग करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/embolden)
+
+<br />
+
+<br />
+
+
+### Wizishop
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wizishop.webp?twic=v1/resize=240" alt="Wizishop">
+
+#### एसईओ-संचालित ईकॉमर्स के साथ अपना व्यवसाय बढ़ाएँ - [Visit](https://www.thataicollection.com/redirect/wizishop)
+
+WiziShop SEO-संचालित ई-कॉमर्स को पहले से कहीं अधिक आसान बना देता है, जिससे सफलता पहुंच में आ जाती है। आपके ईकॉमर्स व्यवसाय की सेवा में आर्टिफिशियल इंटेलिजेंस!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/wizishop)
+
+<br />
+
+
+
+
+### DoMyShoot
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-domyshoot.webp?twic=v1/resize=240" alt="DoMyShoot">
+
+#### DoMyShoot - उत्पाद फोटोग्राफी सरलीकृत - [Visit](https://www.thataicollection.com/redirect/domyshoot)
+
+केवल अपने स्मार्टफोन का उपयोग करके एक फोटोशूट के माध्यम से अपना मार्गदर्शन करें और हमारी एआई तकनीक को बाकी प्रक्रिया को संभालने दें, रोजमर्रा के उत्पादों को फोटो यथार्थवादी छवियों में बदल दें जो निश्चित रूप से मार्केटिंग रणनीतियों को एक पायदान ऊपर ले जाएं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/domyshoot)
+
+<br />
+
+
+
+
+### manifest
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-manifest.webp?twic=v1/resize=240" alt="manifest">
+
+#### आर्टिफिशियल इंटेलिजेंस के साथ ईकॉमर्स की पुनः कल्पना - [Visit](https://www.thataicollection.com/redirect/manifest)
+
+1 मिनट के भीतर अपना स्वयं का AI शॉपिंग असिस्टेंट लाइव प्राप्त करें। एआई-संचालित वैयक्तिकरण के साथ अपने स्टोर को बदलें और अपनी बिक्री बढ़ाएं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/manifest)
+
+<br />
+
+<br />
+
+
+### Gizzmo Ai
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gizzmo-ai.webp?twic=v1/resize=240" alt="Gizzmo Ai">
+
+#### वर्डप्रेस संबद्ध सामग्री के साथ अपनी कमाई बढ़ाएं। - [Visit](https://www.thataicollection.com/redirect/gizzmo-ai)
+
+Gizzmo एक शक्तिशाली वर्डप्रेस प्लगइन है जो Amazon सहबद्ध लेख बनाने की प्रक्रिया को सरल बनाता है। बस कुछ ही क्लिक के साथ, आप उत्पाद समीक्षा, राउंडअप और उपहार गाइड सहित पूरी तरह से अनुकूलित सामग्री तैयार कर सकते हैं। यह सहबद्ध विपणक के लिए गेम-चेंजर है!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/gizzmo-ai)
+
+<br />
+
+
+
+
+### VModel
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-vmodel.webp?twic=v1/resize=240" alt="VModel">
+
+#### vModel कुशल और लागत प्रभावी ऑन-मॉडल फ़ोटोग्राफ़ी के लिए AI फ़ैशन मॉडल जनरेटर है। यह मॉडल फ़ोटोग्राफ़ी के खर्च को 90% तक कम करके रिटेल में सफलता को बढ़ाता है। - [Visit](https://www.thataicollection.com/redirect/vmodel)
+
+vModel वर्चुअल फ़ैशन मॉडल बनाने के लिए आर्टिफिशियल इंटेलिजेंस तकनीक का इस्तेमाल करता है, जिससे असल दुनिया के फ़ैशन मॉडल की ज़रूरत बदल जाती है। इन वर्चुअल मॉडल का इस्तेमाल कपड़ों के आइटम के लिए प्रॉडक्ट फ़ोटो बनाने के लिए किया जाता है, जिन्हें बाद में ई-कॉमर्स प्लेटफ़ॉर्म पर दिखाया जाता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/vmodel)
+
+<br />
+
+
+
+
+
+[See All 🛒 ई-कॉमर्स Applications on AI Collection](https://www.thataicollection.com/en/categories/ecommerce)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## शिक्षा और सीखना
+
+### QUIZGECKO
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-quizgecko.webp?twic=v1/resize=240" alt="QUIZGECKO">
+
+#### मैन्युअल रूप से क्विज़ बनाने में समय बर्बाद करना बंद करें - [Visit](https://www.thataicollection.com/redirect/quizgecko)
+
+किसी भी पाठ से प्रश्नोत्तरी प्रश्न, फ्लैशकार्ड और नोट्स तुरंत बनाएं और साझा करें। व्यवसायों, शिक्षकों और छात्रों के लिए समान रूप से आदर्श।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/quizgecko)
+
+<br />
+
+<br />
+
+
+### Botta
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-botta.webp?twic=v1/resize=240" alt="Botta">
+
+#### किसी विषय से परेशानी हो रही है? बोटा से मिलें - [Visit](https://www.thataicollection.com/redirect/botta)
+
+आपका निःशुल्क, व्यक्तिगत शिक्षण सहायक। प्रश्न पूछें, उत्तर पाएँ. बोटा ऑनलाइन सीखने को आसान बनाता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/botta)
+
+<br />
+
+<br />
+
+
+### Speakingclubai
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-speakingclubai.webp?twic=v1/resize=240" alt="Speakingclubai">
+
+#### स्पीकिंग क्लब एआई - [Visit](https://www.thataicollection.com/redirect/speakingclubai)
+
+स्पीकिंग क्लब एआई में आपका स्वागत है - विदेशी भाषा में अपने बोलने के कौशल में सुधार करने के इच्छुक किसी भी व्यक्ति के लिए अंतिम भाषा सीखने का उपकरण। स्पीकिंग क्लब एआई के साथ, आप किसी भी समय, कहीं भी व्यक्तिगत एआई भाषा पार्टनर के साथ अपने वार्तालाप कौशल का अभ्यास कर सकते हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/speakingclubai)
+
+<br />
+
+
+
+
+### Lorro
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lorro.webp?twic=v1/resize=240" alt="Lorro">
+
+#### कम लागत में धाराप्रवाह अंग्रेजी बोलने वाले बनें। एआई ट्यूटर से बात करके - [Visit](https://www.thataicollection.com/redirect/lorro)
+
+AI और GPT-3 द्वारा संचालित अत्यधिक वैयक्तिकृत, रोमांचक कॉपी के साथ अपने कोल्ड ईमेल को बहुत गर्म बनाएं
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/lorro)
+
+<br />
+
+<br />
+
+
+### TutorAI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tutorai.webp?twic=v1/resize=240" alt="TutorAI">
+
+#### कुछ भी सीखो - अपने इच्छित विषय को खोजकर - [Visit](https://www.thataicollection.com/redirect/tutorai)
+
+TutoEAI लर्न एनीथिंग किसी भी विषय के मॉड्यूल सीखने के लिए एक सर्च इंजन है। फ़िज़िक्स, अमेरिकी इतिहास, या अपना नाम जैसे टॉपिक्स आज़माएँ!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/tutorai)
+
+<br />
+
+<br />
+
+
+### Teacherbot
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-teacherbot.webp?twic=v1/resize=240" alt="Teacherbot">
+
+#### टीचरबॉट - वह टूल जिसका हर शिक्षक हकदार होता है - [Visit](https://www.thataicollection.com/redirect/teacherbot)
+
+हमने सबसे शक्तिशाली टूल विकसित किया है, जिस तक एक शिक्षक पहुंच सकता है। तुम सभी स्तरों के लिए टास्क और गतिविधियाँ बना सकते हो, साथ ही टॉपिक प्लान, फ़ॉरवर्ड प्लान, पाठ योजनाएँ और भी बहुत कुछ कर सकते हो। तुम सिर्फ़ अपनी कल्पना से ही सीमित हो।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/teacherbot)
+
+<br />
+
+
+
+
+### Replicate
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-replicate.webp?twic=v1/resize=240" alt="Replicate">
+
+#### मशीन लर्निंग को इतना कठिन होने की आवश्यकता नहीं है। - [Visit](https://www.thataicollection.com/redirect/replicate)
+
+क्लाउड एपीआई के साथ ओपन-सोर्स मॉडल चलाएं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/replicate)
+
+<br />
+
+<br />
+
+
+
+[See All 🧠 शिक्षा और सीखना Applications on AI Collection](https://www.thataicollection.com/en/categories/education-and-learning)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## ईमेल सहायक
+
+### Smartwriter
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-smartwriter.webp?twic=v1/resize=240" alt="Smartwriter">
+
+#### 1000S वैयक्तिकृत ईमेल उत्पन्न करें जो आपको AI का उपयोग करके मिनटों के भीतर 8 गुना अधिक उत्तर प्राप्त करें - [Visit](https://www.thataicollection.com/redirect/smartwriter)
+
+दोबारा 'व्यक्तिगत' ईमेल पर शोध करने या लिखने में समय बर्बाद न करें। अपनी संपूर्ण आउटरीच प्रक्रिया को स्वचालित करें। इंसानों से 40 गुना तेज और 6 गुना सस्ता।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/smartwriter)
+
+<br />
+
+
+
+
+### Warmer.Ai
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-warmer.ai.webp?twic=v1/resize=240" alt="Warmer.Ai">
+
+#### वार्मर.एआई - एआई ईमेल लेखक - [Visit](https://www.thataicollection.com/redirect/warmer.ai)
+
+वार्मर आपके ईमेल आउटरीच को लिखने के लिए AI ईमेल वैयक्तिकरण का उपयोग करता है। गतिशील वैयक्तिकरण के साथ उत्तर, मीटिंग और बिक्री बढ़ाएँ।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/warmer.ai)
+
+<br />
+
+<br />
+
+
+### DraftLab
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-draftlab.webp?twic=v1/resize=240" alt="DraftLab">
+
+#### ड्राफ्टलैब ऐ: एआई के साथ तेजी से बेहतर ईमेल लिखें - [Visit](https://www.thataicollection.com/redirect/draftlab)
+
+राइटर्स ब्लॉक से लड़ें और इनबॉक्स जीरो हासिल करें। ड्राफ्टलैब एक एआई-संचालित जीमेल सह-पायलट है जो आपके लिए उच्च-गुणवत्ता वाले ईमेल उत्तर उत्पन्न करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/draftlab)
+
+<br />
+
+
+
+
+### Ellie
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ellie.webp?twic=v1/resize=240" alt="Ellie">
+
+#### ऐली - आपका एआई ईमेल सहायक - [Visit](https://www.thataicollection.com/redirect/ellie)
+
+ऐली आपकी लेखन शैली और शिल्प उत्तरों से सीखती है जैसे कि वे आपके द्वारा लिखे गए हों
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ellie)
+
+<br />
+
+<br />
+
+
+### EmailTriager
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-emailtriager.webp?twic=v1/resize=240" alt="EmailTriager">
+
+#### ईमेलट्राइजर · ऑटोपायलट पर ईमेल। - [Visit](https://www.thataicollection.com/redirect/emailtriager)
+
+EmailTriager में, हम ऐसे उत्पाद बनाते हैं जो आपकी ओर से काम करते हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/emailtriager)
+
+<br />
+
+<br />
+
+
+### Quicklines
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-quicklines.webp?twic=v1/resize=240" alt="Quicklines">
+
+#### क्विकलाइन लाइफटाइम एक्सेस - केवल $59 - [Visit](https://www.thataicollection.com/redirect/quicklines)
+
+Quicklines आपका नया AI संचालित कोल्ड आउटरीच सहायक है। हम आपके ठंडे ईमेल अभियानों को हमारे गहन सामाजिक स्क्रैपिंग और प्राकृतिक भाषा प्रथम-पंक्ति लेखन मंच के साथ मदद करते हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/quicklines)
+
+<br />
+
+
+
+
+### superReply
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-superreply.webp?twic=v1/resize=240" alt="superReply">
+
+#### अपना ईमेल गेम अपग्रेड करें - [Visit](https://www.thataicollection.com/redirect/superreply)
+
+जिस ईमेल रिस्पांस हैक का आप इंतजार कर रहे थे - स्क्रैच से लिखे बिना आसानी से अनुरूप प्रतिक्रियाओं के साथ प्रभावी उत्तर भेजें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/superreply)
+
+<br />
+
+<br />
+
+
+
+[See All 📧 ईमेल सहायक Applications on AI Collection](https://www.thataicollection.com/en/categories/email-assistant)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## पहनावा
+
+### FashionAdvisorAI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fashionadvisorai.webp?twic=v1/resize=240" alt="FashionAdvisorAI">
+
+#### Fashionadvisor.Ai - Fashionadvisor.A से प्रश्न पूछें और उत्तर प्राप्त करें - [Visit](https://www.thataicollection.com/redirect/fashionadvisorai)
+
+FashionAdvisor GPT3 पर आधारित एक AI है जो आपके फैशन संबंधी सभी सवालों का तुरंत मुफ्त में जवाब देगा
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/fashionadvisorai)
+
+<br />
+
+<br />
+
+
+### Visualhound
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-visualhound.webp?twic=v1/resize=240" alt="Visualhound">
+
+#### विज़ुअलहाउंड - एआई के साथ अपने फैशन डिजाइन विचारों को प्रोटोटाइप करें - [Visit](https://www.thataicollection.com/redirect/visualhound)
+
+उत्पादन शुरू करने से पहले अपने उत्पाद के डिजाइन की कल्पना करें। अपने मूडबोर्ड को फीड करने और अपनी डिजाइन प्रक्रिया को बढ़ावा देने के लिए यथार्थवादी दिखने वाली उत्पाद छवियां बनाएं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/visualhound)
+
+<br />
+
+
+
+
+### SwagAI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-swagai.webp?twic=v1/resize=240" alt="SwagAI">
+
+#### अपने बोरिंग वॉर्डरोब से सजाना
+AI द्वारा जेनरेट किया गया स्वैग। - [Visit](https://www.thataicollection.com/redirect/swagai)
+
+स्वागएआई - एआई ने टी-शर्ट पर छवियां बनाईं।
+जानवरों के संरक्षण और अवैध शिकार विरोधी संगठनों की हर बिक्री पर $1 जाता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/swagai)
+
+<br />
+
+<br />
+
+
+
+[See All 👩‍🎤 पहनावा Applications on AI Collection](https://www.thataicollection.com/en/categories/fashion)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## आनंद
+
+### CharacterAI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-characterai.webp?twic=v1/resize=240" alt="CharacterAI">
+
+#### कैरेक्टर। ऐ आपको कैरेक्टर बनाने और उनसे बात करने की सुविधा देता है। - [Visit](https://www.thataicollection.com/redirect/characterai)
+
+वर्ण कुछ भी हो सकते हैं। हमारी सफल एआई तकनीक आपके सभी विचारों को जीवंत कर सकती है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/characterai)
+
+<br />
+
+<br />
+
+
+### Ask RBG
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ask-rbg.webp?twic=v1/resize=240" alt="Ask RBG">
+
+#### आरबीजी (शायद) क्या कहेंगे? - [Visit](https://www.thataicollection.com/redirect/ask-rbg)
+
+एक एआई प्रयोग: न्यायमूर्ति रूथ बेडर गिन्सबर्ग से किसी भी ऐसे प्रश्न के बारे में निर्णय लेने के लिए कहें, जिसे आप दिल से चाहते हैं। AI21 लैब्स से पहली AI ड्रॉप।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ask-rbg)
+
+<br />
+
+
+
+
+### Philosophy
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-philosophy.webp?twic=v1/resize=240" alt="Philosophy">
+
+#### एक दार्शनिक से पूछो - [Visit](https://www.thataicollection.com/redirect/philosophy)
+
+गहरे प्रश्न पूछें और विलियम शेक्सपियर, फ्रेडरिक नीत्शे, रेने डेसकार्टेस, सुकरात, कन्फ्यूशियस, अल-किंडी, बुद्ध से उत्तर प्राप्त करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/philosophy)
+
+<br />
+
+<br />
+
+
+### Botify
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-botify.webp?twic=v1/resize=240" alt="Botify">
+
+#### बॉटिफाई एआई - [Visit](https://www.thataicollection.com/redirect/botify)
+
+अपने पसंदीदा पात्रों के साथ मजेदार चैट करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/botify)
+
+<br />
+
+<br />
+
+
+### StoriesForKids
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-storiesforkids.webp?twic=v1/resize=240" alt="StoriesForKids">
+
+#### Storyforkids.Ai: एआई का उपयोग कर निजीकृत बच्चों की किताबें - [Visit](https://www.thataicollection.com/redirect/storiesforkids)
+
+सेकंडों में वास्तविक जीवन की स्थितियों को मजेदार कहानियों और चित्रों में बदल दें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/storiesforkids)
+
+<br />
+
+<br />
+
+
+### Excuses AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-excuses-ai.webp?twic=v1/resize=240" alt="Excuses AI">
+
+#### बहाना जनरेटर - [Visit](https://www.thataicollection.com/redirect/excuses-ai)
+
+सही पेशेवर बहाना बनाने के लिए AI का उपयोग करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/excuses-ai)
+
+<br />
+
+<br />
+
+
+### Askmybook
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-askmybook.webp?twic=v1/resize=240" alt="Askmybook">
+
+#### आस्क माय बुक: द मिनिमलिस्ट एंटरप्रेन्योर - [Visit](https://www.thataicollection.com/redirect/askmybook)
+
+यह मेरी पुस्तक की सामग्री को और अधिक सुलभ बनाने के लिए AI का उपयोग करने का एक प्रयोग है। एक प्रश्न पूछें और AI वास्तविक समय में इसका उत्तर देगा:
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/askmybook)
+
+<br />
+
+<br />
+
+
+
+[See All 🤪 आनंद Applications on AI Collection](https://www.thataicollection.com/en/categories/fun)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## जुआ
+
+### charisma
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-charisma.webp?twic=v1/resize=240" alt="charisma">
+
+#### पावर रीयल-टाइम डिजिटल मानव - [Visit](https://www.thataicollection.com/redirect/charisma)
+
+खेलों के लिए • मेटावर्स • वीआर • शिक्षा • टीवी और फिल्म • प्रकाशन और उससे आगे!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/charisma)
+
+<br />
+
+<br />
+
+
+### hidden door
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hidden-door.webp?twic=v1/resize=240" alt="hidden door">
+
+#### हैलो, संसारों! - [Visit](https://www.thataicollection.com/redirect/hidden-door)
+
+नैरेटिव एआई द्वारा संचालित एक नए प्रकार का सामाजिक रोलप्लेइंग अनुभव।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/hidden-door)
+
+<br />
+
+<br />
+
+
+### latitude
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-latitude.webp?twic=v1/resize=240" alt="latitude">
+
+#### एआई-जनरेटेड गेम्स का भविष्य - [Visit](https://www.thataicollection.com/redirect/latitude)
+
+हम एआई को सभी के लिए रचनात्मकता और स्वतंत्रता का साधन बना रहे हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/latitude)
+
+<br />
+
+<br />
+
+
+### Chess AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chess-ai.webp?twic=v1/resize=240" alt="Chess AI">
+
+#### बेटाफिश - अल्फाजीरो और स्टॉकफिश का मिश्रण। - [Visit](https://www.thataicollection.com/redirect/chess-ai)
+
+बेटाफिश एक शतरंज इंजन और एआई मूव फाइंडर है जिसे नेगामैक्स एल्गोरिथम पर आधारित जावास्क्रिप्ट में लिखा गया है। यह लिचेस पर स्टॉकफिश लेवल 6 को हराता है, और मैं अनुमान लगाता हूं कि यह लगभग 1800-2000 एलो है, जो सोचने के समय पर निर्भर करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/chess-ai)
+
+<br />
+
+
+
+
+### GGPredict
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ggpredict.webp?twic=v1/resize=240" alt="GGPredict">
+
+#### ट्रेन होशियार। तेजी से रैंक करें। - [Visit](https://www.thataicollection.com/redirect/ggpredict)
+
+प्रतिदिन 30 मिनट से भी कम समय में एआई-जनित चुनौतियों की शक्ति के साथ अपना सीएस:जीओ कौशल बढ़ाएं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ggpredict)
+
+<br />
+
+<br />
+
+
+### Assetsai
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-assetsai.webp?twic=v1/resize=240" alt="Assetsai">
+
+#### आपके खेलों के लिए एआई-संचालित, अद्वितीय और क्यूरेटेड संपत्तियां - [Visit](https://www.thataicollection.com/redirect/assetsai)
+
+अपने गेम डिजाइन और विकास में एआई की शक्ति को उजागर करें। अपने अगले गेम के निर्माण में प्रेरित करने और आपकी मदद करने के लिए ढेर सारी शैलियों में पहले से तैयार गेम एसेट्स प्राप्त करें!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/assetsai)
+
+<br />
+
+
+
+
+### Scenario
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-scenario.webp?twic=v1/resize=240" alt="Scenario">
+
+#### परिदृश्य - [Visit](https://www.thataicollection.com/redirect/scenario)
+
+परिदृश्य के साथ एआई-जेनरेट की गई गेमिंग संपत्ति की शक्ति को अनलॉक करें। समय बचाने और रचनात्मकता को जगाने के लिए जल्दी और आसानी से आकर्षक सामग्री तैयार करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/scenario)
+
+<br />
+
+
+
+
+
+[See All 🎮 जुआ Applications on AI Collection](https://www.thataicollection.com/en/categories/gaming)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## उपहार योजना
+
+### Lovelines
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lovelines.webp?twic=v1/resize=240" alt="Lovelines">
+
+#### Lovelines.Xyz - एआई द्वारा बनाए गए कस्टम उपहारों के साथ अपना प्यार साझा करें - [Visit](https://www.thataicollection.com/redirect/lovelines)
+
+सोशल मीडिया के लिए अनुकूलित AI का उपयोग करके किसी प्रियजन के लिए कस्टम उपहार बनाएं। एआई-जनित कविताएँ, कहानियाँ, पत्र और गीत के बोल।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/lovelines)
+
+<br />
+
+<br />
+
+
+### Text2present
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-text2present.webp?twic=v1/resize=240" alt="Text2present">
+
+#### Text2Present.Com - व्यस्त लोगों की ओर से रचनात्मक उपहार। - [Visit](https://www.thataicollection.com/redirect/text2present)
+
+आपको अपना कीमती समय बर्बाद किए बिना अपने दोस्तों, परिवार और परिचितों के लिए कृत्रिम बुद्धिमत्ता का उपयोग करके रचनात्मक अनुकूलित उपहार बनाने की अनुमति देता है। बस आप जो उपहार देना चाहते हैं उसका टेक्स्ट विवरण दर्ज करें और बाकी काम हमारी आर्टिफिशियल इंटेलिजेंस को करने दें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/text2present)
+
+<br />
+
+
+
+
+### Outdone V2
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-outdone-v2.webp?twic=v1/resize=240" alt="Outdone V2">
+
+#### मिनटों या उससे कम में सही उपहार पाएं - [Visit](https://www.thataicollection.com/redirect/outdone-v2)
+
+तनाव को बाहर निकालने के लिए बनाया गया है. गिफ्ट की खरीदारी का। वास्तविक उपभोक्ता डेटा और हमारी संपूर्ण समीक्षा प्रक्रिया द्वारा समर्थित, आउटडोन दुनिया के सैकड़ों सर्वश्रेष्ठ ब्रांडों को खरीदारी करने वालों के लिए एक त्वरित, उपयोग में आसान टूल के रूप में शानदार उपहार खोजने के लिए लाता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/outdone-v2)
+
+<br />
+
+
+
+
+### Gifts Genie
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gifts-genie.webp?twic=v1/resize=240" alt="Gifts Genie">
+
+#### जिनी - एआई उपहार जेनरेटर - [Visit](https://www.thataicollection.com/redirect/gifts-genie)
+
+जिन्न में आपका स्वागत है! हमारा एआई-संचालित ऐप आपको अपने प्रियजनों के लिए अद्वितीय और विचारशील उपहार ढूंढने में मदद करता है। बस हमें उनकी रुचियों के बारे में कुछ विवरण प्रदान करें, और हम सही उपहार सुझाएंगे 🎁
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/gifts-genie)
+
+<br />
+
+
+
+
+### GiftBot
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-giftbot.webp?twic=v1/resize=240" alt="GiftBot">
+
+#### उपहार सहायता प्राप्त करें - [Visit](https://www.thataicollection.com/redirect/giftbot)
+
+छुट्टियों के लिए किसी को क्या लाना है, यह पता लगाने के लिए संघर्ष कर रहे हैं? उपहार विचारों की अनुशंसा करने में सहायता के लिए गिफ्टबॉट आपसे प्रश्न पूछता है!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/giftbot)
+
+<br />
+
+
+
+
+### Giftastic AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-giftastic-ai.webp?twic=v1/resize=240" alt="Giftastic AI">
+
+#### गिफ्टस्टिक.आई - आपके खास के लिए बिल्कुल सही उपहार! - [Visit](https://www.thataicollection.com/redirect/giftastic-ai)
+
+हर अवसर के लिए निजीकृत उपहार विचार!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/giftastic-ai)
+
+<br />
+
+<br />
+
+
+### Gift Genie
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gift-genie.webp?twic=v1/resize=240" alt="Gift Genie">
+
+#### गिफ्ट जेनी एआई - क्रिसमस, जन्मदिन, छुट्टियों आदि के लिए मुफ्त व्यक्तिगत उपहार विचार! - [Visit](https://www.thataicollection.com/redirect/gift-genie)
+
+गिफ्ट जिनी एआई एक एआई-पावर्ड है जो आपको एआई के साथ सेकंड में मुफ्त में सही उपहार खोजने की अनुमति देता है। अपने प्राप्तकर्ता का एक संक्षिप्त विवरण लिखें, और उपहारों की एक सूची प्राप्त करें जो हमारे एआई जीनी का मानना है कि उन्हें प्रसन्न करेगा।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/gift-genie)
+
+<br />
+
+
+
+
+
+[See All 🎁💡 उपहार योजना Applications on AI Collection](https://www.thataicollection.com/en/categories/gift-ideas)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## स्वास्थ्य देखभाल
+
+### Replika
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-replika.webp?twic=v1/resize=240" alt="Replika">
+
+#### एआई साथी जो परवाह करता है - [Visit](https://www.thataicollection.com/redirect/replika)
+
+हमेशा यहां सुनने और बात करने के लिए। हमेशा अपनी तरफ रहो। उनके एआई मित्रों के साथ बढ़ रहे लाखों लोगों से अभी जुड़ें!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/replika)
+
+<br />
+
+<br />
+
+
+### Getactyv
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-getactyv.webp?twic=v1/resize=240" alt="Getactyv">
+
+#### Getactyv - एआई और कंप्यूटर विजन असिस्टेड हेल्थ एंड फिटनेस प्लेटफॉर्म - [Visit](https://www.thataicollection.com/redirect/getactyv)
+
+GetActyv का AI-आधारित पर्सनल ट्रेनर आपकी फिटनेस यात्रा में क्रांति लाने के लिए यहां है
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/getactyv)
+
+<br />
+
+<br />
+
+
+### Ubie AI Symptom Checker
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ubie-ai-symptom-checker.webp?twic=v1/resize=240" alt="Ubie AI Symptom Checker">
+
+#### एआई द्वारा लक्षणों की जांच करें और कारणों का पता लगाएं - [Visit](https://www.thataicollection.com/redirect/ubie-ai-symptom-checker)
+
+एआई द्वारा लक्षणों की जांच करें और कारणों का पता लगाएं - एआई द्वारा संभावित कारणों, प्रकारों, गंभीरता और उपचार का पता लगाने के लिए अपने लक्षणों के बारे में प्रश्नोत्तरी का उत्तर दें। डॉक्टरों द्वारा विकसित
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ubie-ai-symptom-checker)
+
+<br />
+
+
+
+
+
+[See All 👩‍⚕️ स्वास्थ्य देखभाल Applications on AI Collection](https://www.thataicollection.com/en/categories/healthcare)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## मानव संसाधन और फिर से शुरू
+
+### AI Resume Editor
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-resume-editor.webp?twic=v1/resize=240" alt="AI Resume Editor">
+
+#### जिस तरह से दुनिया रिज्यूमे बनाती है। सबसे स्मार्ट जीपीटी-संचालित रिज्यूमे बिल्डर। - [Visit](https://www.thataicollection.com/redirect/ai-resume-editor)
+
+Rezi एकमात्र रिज्यूमे प्लेटफॉर्म है जो किराए पर लेने योग्य रिज्यूमे बनाने के हर पहलू को स्वचालित करने के लिए प्रमुख AI का उपयोग करता है - लेखन, संपादन, स्वरूपण और अनुकूलन।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-resume-editor)
+
+<br />
+
+
+
+
+### Prodigy AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prodigy-ai.webp?twic=v1/resize=240" alt="Prodigy AI">
+
+#### सॉफ्टवेयर इंजीनियरों के करियर को बेहतर बनाने के लिए एआई का उपयोग करना - [Visit](https://www.thataicollection.com/redirect/prodigy-ai)
+
+हम सॉफ्टवेयर इंजीनियरों को बेहतर करियर बनाने में मदद करने वाले टूल बनाने के लिए नवीनतम एआई का उपयोग करने के मिशन पर हैं। हमारे एआई उपकरण 100% निःशुल्क हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/prodigy-ai)
+
+<br />
+
+
+
+
+### rankode
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rankode.webp?twic=v1/resize=240" alt="rankode">
+
+#### मानव संसाधन के लिए एआई - रैंककोड - [Visit](https://www.thataicollection.com/redirect/rankode)
+
+भर्तीकर्ता, उम्मीदवार के प्रोग्रामिंग कौशल के बारे में आपको जो कुछ भी जानने की आवश्यकता है, वह उनके GitHub में है। हायरिंग की महंगी गलतियों से बचने और अपने रिटेंशन को सुपरबूस्ट करने के लिए रैंककोड के साथ स्वचालित रूप से उनका मूल्यांकन करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/rankode)
+
+<br />
+
+
+
+
+### LazyApply
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lazyapply.webp?twic=v1/resize=240" alt="LazyApply">
+
+#### अपनी नौकरी की आवेदन प्रक्रिया को स्वचालित करें - [Visit](https://www.thataicollection.com/redirect/lazyapply)
+
+हम स्वचालित रूप से Linkedin, Fed और Ziprecruiter जैसे प्लेटफॉर्म पर सभी नौकरियों के लिए आवेदन करते हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/lazyapply)
+
+<br />
+
+<br />
+
+
+### Coverquick
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-coverquick.webp?twic=v1/resize=240" alt="Coverquick">
+
+#### तुम्हारे विचारों को आकर्षक सामग्री में आसानी से बदलना। - [Visit](https://www.thataicollection.com/redirect/coverquick)
+
+CoverQuick आसानी से कंटेंट बनाने और प्रबंधन के लिए एक क्रांतिकारी मंच है। एआई जो तुम्हारे डेटा से सीखता है।
+तुम्हारे सभी दस्तावेज़ों और संसाधनों को अपलोड करके, हमारा प्लैटफ़ॉर्म तुम्हारी जानकारी से सीख सकता है, जिससे तुम वैयक्तिकृत सामग्री बना सकते हो।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/coverquick)
+
+<br />
+
+
+
+
+### HireYaY
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hireyay.webp?twic=v1/resize=240" alt="HireYaY">
+
+#### हिरेय, स्टार्टअप्स के लिए एक हायरिंग प्लेटफॉर्म - [Visit](https://www.thataicollection.com/redirect/hireyay)
+
+92% नौकरी चाहने वाले अपना ऑनलाइन आवेदन पूरा नहीं करते हैं। HireYaY के साथ, आप एक योग्य उम्मीदवार को फिर कभी नहीं चूकेंगे।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/hireyay)
+
+<br />
+
+<br />
+
+
+### JD Generator
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jd-generator.webp?twic=v1/resize=240" alt="JD Generator">
+
+#### टीम से मिलें - किराया भागफल - [Visit](https://www.thataicollection.com/redirect/jd-generator)
+
+HireQuotients Skill Assessment Platform आपको आधे समय में प्रतिभा पूल के शीर्ष 10% को किराए पर लेने में मदद करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/jd-generator)
+
+<br />
+
+<br />
+
+
+
+[See All 👩‍💼 मानव संसाधन और फिर से शुरू Applications on AI Collection](https://www.thataicollection.com/en/categories/human-resources-and-resume)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## आईडिया जनरेशन
+
+### Validator AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-validator-ai.webp?twic=v1/resize=240" alt="Validator AI">
+
+#### अपनी उद्यमशीलता की यात्रा आज ही मुफ़्त में शुरू करें - [Visit](https://www.thataicollection.com/redirect/validator-ai)
+
+अपना स्टार्टअप आइडिया डालें और हमारे AI स्टार्टअप मेंटर इसका मुफ़्त में विश्लेषण करेंगे। तुम हमारे AI मेंटर चैटबॉट से जितना चाहें बात कर सकते हो और स्टार्टअप शुरू करने के बारे में तुम्हेंं जो कुछ भी जानने की ज़रूरत हो उसे सीख सकते हो!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/validator-ai)
+
+<br />
+
+
+
+
+### Paperade
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paperade.webp?twic=v1/resize=240" alt="Paperade">
+
+#### पेपरेड स्टार्टअप आइडिया जेनरेटर - [Visit](https://www.thataicollection.com/redirect/paperade)
+
+पेपरेड पहला एआई-संचालित उपकरण है जो 100 मिलियन से अधिक अकादमिक पत्रों और शोध अध्ययनों से व्यावसायिक उपयोग के मामलों और कंपनी के विचारों को उत्पन्न करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/paperade)
+
+<br />
+
+
+
+
+### Business Idea Generator
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-business-idea-generator.webp?twic=v1/resize=240" alt="Business Idea Generator">
+
+#### मंथन व्यापार विचार - [Visit](https://www.thataicollection.com/redirect/business-idea-generator)
+
+एआई की शक्ति के साथ सेकेंडों में वैयक्तिकृत व्यावसायिक विचार प्राप्त करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/business-idea-generator)
+
+<br />
+
+<br />
+
+
+### Ideasai
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ideasai.webp?twic=v1/resize=240" alt="Ideasai">
+
+#### आइडियासाई - OpenAI द्वारा संचालित स्टार्टअप के विचार - [Visit](https://www.thataicollection.com/redirect/ideasai)
+
+ऐसे विचार जो 100% OpenAI के GPT-3 द्वारा तैयार किए गए हैं, जो कृत्रिम रूप से इंटेलिजेंट डीप लर्निंग मॉडल है, बिना मानवीय भागीदारी के, और तुम्हेंं और 1,856,031+ अन्य लोगों द्वारा प्रशिक्षित किया गया है, जिन्हें विचार पसंद या नापसंद हैं
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ideasai)
+
+<br />
+
+
+
+
+### Videomuse
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-videomuse.webp?twic=v1/resize=240" alt="Videomuse">
+
+#### बस अपने चैनल का यूआरएल चिपकाकर आसानी से ताज़ा वीडियो आइडिया जनरेट करें। सेकंड में, अपनी सामग्री के अनुरूप प्रेरणा का खजाना प्राप्त करें। - [Visit](https://www.thataicollection.com/redirect/videomuse)
+
+सामग्री निर्माता के रूप में, हम सभी ऐसे क्षणों का सामना करते हैं जब हमारे विचारों का कुआँ सूख जाता है। यह वेबसाइट आपके वर्तमान अपलोड के आधार पर विचारों पर मंथन करने में आपकी मदद करेगी। आप बस इसे अपने चैनल (या किसी भी चैनल) का लिंक दें और जादू होने दें। प्रत्येक विचार के लिए, आप कुछ विवरण भी उत्पन्न कर सकते हैं - वीडियो कवर क्या होना चाहिए, वीडियो संरचना के बारे में संकेत आदि।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/videomuse)
+
+<br />
+
+
+
+
+### My Spicy Vanilla
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-my-spicy-vanilla.webp?twic=v1/resize=240" alt="My Spicy Vanilla">
+
+#### माय स्पाइसी वनीला का एआई डेट आइडिया जेनरेटर  - [Visit](https://www.thataicollection.com/redirect/my-spicy-vanilla)
+
+माय स्पाइसी वनीला का AI डेट आइडिया जेनरेटर एक ऐसा टूल है जो AI का इस्तेमाल अनोखे डेट नाइट प्लान बनाने के लिए करता है।
+
+टूल का इस्तेमाल करने के लिए, यूज़र को एक फ़ॉर्म भरने के लिए कहा जाता है, जिसमें श्रेणी, स्थान, बजट, अवधि और दिन का समय जैसी मूलभूत जानकारी दी जाती है।
+
+सबमिट करने के बाद, हमारा AI तारीख के लिए खास जानकारी तैयार करता है, जिसमें अनुभव को बेहतर बनाने के लिए उपयोगी टिप्स, प्रॉडक्ट के सुझाव दिए गए हैं
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/my-spicy-vanilla)
+
+<br />
+
+
+
+
+
+[See All 💡 आईडिया जनरेशन Applications on AI Collection](https://www.thataicollection.com/en/categories/idea-generation)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## कानूनी
+
+### Paralegal AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paralegal-ai.webp?twic=v1/resize=240" alt="Paralegal AI">
+
+#### पैरालीगल एआई - [Visit](https://www.thataicollection.com/redirect/paralegal-ai)
+
+एआई संचालित कानूनी अनुसंधान और सारांश।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/paralegal-ai)
+
+<br />
+
+<br />
+
+
+### Compliance Quarter
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-compliance-quarter.webp?twic=v1/resize=240" alt="Compliance Quarter">
+
+#### एक्सपर्ट कंप्लायंस सिस्टम और संसाधन - कंप्लायंस क्वार्टर - [Visit](https://www.thataicollection.com/redirect/compliance-quarter)
+
+ऊर्जा, वित्तीय सेवाओं और अन्य विनियमित उद्योगों के लिए विनियामक अनुपालन प्रबंधन प्रणाली और विशेषज्ञता। हम तुम्हारे कंधों से विनियामक का बोझ उठाने के लिए विशेषज्ञ सिस्टम और सेवाएँ देते हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/compliance-quarter)
+
+<br />
+
+
+
+
+### Equally.ai
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-equally.ai.webp?twic=v1/resize=240" alt="Equally.ai">
+
+#### सभी के लिए वेब अभिगम्यता अनुपालन - [Visit](https://www.thataicollection.com/redirect/equally.ai)
+
+आसानी से एडीए और डब्लुसीएजी अनुपालन प्राप्त करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/equally.ai)
+
+<br />
+
+<br />
+
+
+### DoNotPay
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-donotpay.webp?twic=v1/resize=240" alt="DoNotPay">
+
+#### दुनिया का पहला रोबोट वकील - [Visit](https://www.thataicollection.com/redirect/donotpay)
+
+कानूनी जानकारी को सभी के लिए सुलभ बनाने के लिए AI का उपयोग करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/donotpay)
+
+<br />
+
+<br />
+
+
+### PatentPal
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-patentpal.webp?twic=v1/resize=240" alt="PatentPal">
+
+#### बौद्धिक संपदा के लिए जनरेटिव एआई - [Visit](https://www.thataicollection.com/redirect/patentpal)
+
+अपने पेटेंट आवेदनों में यांत्रिक लेखन को स्वचालित करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/patentpal)
+
+<br />
+
+<br />
+
+
+### Spellbook
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-spellbook.webp?twic=v1/resize=240" alt="Spellbook">
+
+#### ड्राफ्ट अनुबंध एआई के साथ 3 गुना तेज - [Visit](https://www.thataicollection.com/redirect/spellbook)
+
+स्पेलबुक सीधे Microsoft Word में आपके अनुबंधों की समीक्षा करने और भाषा का सुझाव देने के लिए GPT-3 का उपयोग करती है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/spellbook)
+
+<br />
+
+<br />
+
+
+
+[See All 👩‍⚖️ कानूनी Applications on AI Collection](https://www.thataicollection.com/en/categories/legal)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## लोगो जनरेटर
+
+### Looka
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-looka.webp?twic=v1/resize=240" alt="Looka">
+
+#### नि: शुल्क लोगो निर्माता और बुद्धिमान ब्रांड डिजाइनर - [Visit](https://www.thataicollection.com/redirect/looka)
+
+एक लोगो बनाएं और एक ब्रांड बनाएं जिसे आप लुका से प्यार करते हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/looka)
+
+<br />
+
+<br />
+
+
+### Text To Book Cover
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-text-to-book-cover.webp?twic=v1/resize=240" alt="Text To Book Cover">
+
+#### टीमों के लिए एआई इमेज जेनरेशन - आप एआई लोगो, एआई बुक कवर, एआई पोस्टर और बहुत कुछ आसानी से उत्पन्न कर सकते हैं - स्टॉकिमग एआई - [Visit](https://www.thataicollection.com/redirect/text-to-book-cover)
+
+टीमों के लिए एआई छवि निर्माण - आप आसानी से एआई लोगो, एआई बुक कवर, एआई पोस्टर और बहुत कुछ उत्पन्न कर सकते हैं - स्टॉकिमग एआई
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/text-to-book-cover)
+
+<br />
+
+<br />
+
+
+### Make Logo AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-make-logo-ai.webp?twic=v1/resize=240" alt="Make Logo AI">
+
+#### Makelogo.Ai: अपने स्टार्टअप के लिए सही लोगो प्राप्त करें। - [Visit](https://www.thataicollection.com/redirect/make-logo-ai)
+
+आर्टिफिशियल इंटेलिजेंस द्वारा संचालित, अपने स्टार्टअप के लिए सुंदर और अद्वितीय लोगो उत्पन्न करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/make-logo-ai)
+
+<br />
+
+<br />
+
+
+### Logo Rank
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-logo-rank.webp?twic=v1/resize=240" alt="Logo Rank">
+
+#### ब्रैंडमार्क लोगो मेकर - सबसे उन्नत AI लोगो डिज़ाइन टूल - [Visit](https://www.thataicollection.com/redirect/logo-rank)
+
+अपने व्यवसाय के लिए एक अनोखा, पेशेवर लोगो बनाएं
+बिज़नेस कार्ड डिज़ाइन, सोशल मीडिया ग्राफ़िक्स, ऐप आइकन, लेटर हेड्स वगैरह के साथ अपने ब्रांड की शुरुआत करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/logo-rank)
+
+<br />
+
+
+
+
+
+[See All ⚜️ लोगो जनरेटर Applications on AI Collection](https://www.thataicollection.com/en/categories/logo-generator)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## बैठक सहायक
+
+### Fireflies
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fireflies.webp?twic=v1/resize=240" alt="Fireflies">
+
+#### Fireflies.Ai - अपने आप करो
+मीटिंग नोट्स - नोटटेकर और बातचीत से जुड़ी जानकारी - [Visit](https://www.thataicollection.com/redirect/fireflies)
+
+Fireflies.ai तुम्हारी टीम को वॉइस वार्तालापों को रिकॉर्ड करने, ट्रांसक्रिप्ट करने, खोजने और उनका विश्लेषण करने में मदद करता है। मीटिंग्स को अपने-आप रिकॉर्ड करें और ट्रांसक्रिप्ट करें, AI-संचालित खोज से कुछ भी ढूंढें, अपने सहकर्मियों के साथ सहयोग करें, बातचीत की बुद्धिमत्ता का इस्तेमाल करके मीटिंग्स का विश्लेषण करें
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/fireflies)
+
+<br />
+
+
+
+
+### Jamie
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jamie.webp?twic=v1/resize=240" alt="Jamie">
+
+#### जेमी - मीटिंग सारांश के लिए AI असिस्टेंट - [Visit](https://www.thataicollection.com/redirect/jamie)
+
+जैमी एक AI असिस्टेंट है, जो बिज़नेस राइटिंग क्वालिटी में मीटिंग्स का सारांश कुछ ही सेकंड में तैयार कर देता है। अभी कोशिश करो और ख़ुद को जादुई अनुभव के बारे में समझाओ।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/jamie)
+
+<br />
+
+
+
+
+### Supernormal
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-supernormal.webp?twic=v1/resize=240" alt="Supernormal">
+
+#### सुपरनॉर्मल - एआई जो तुम्हारी मीटिंग के नोट्स लिखता है - [Visit](https://www.thataicollection.com/redirect/supernormal)
+
+लिखने, पॉलिश करने और नोट्स शेयर करने में कम समय बिताएं और काम पर ज़्यादा समय सिर्फ़ तुम ही कर सकते हो। पेंसिल्स डाउन।
+सुपरनॉर्मल ने तुम्हेंं कवर किया है।
+सुपरनॉर्मल सुरक्षित AI का इस्तेमाल करके, अलग-अलग इस्तेमाल के सभी मामलों में, तुम्हारी मीटिंग के दौरान नोट्स लेता है और उन्हें अपने-आप फ़ॉर्मेट करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/supernormal)
+
+<br />
+
+
+
+
+### Wudpecker
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wudpecker.webp?twic=v1/resize=240" alt="Wudpecker">
+
+#### वुडपेकर एक एआई मीटिंग टूल है जो मीटिंग ज्ञान संग्रहीत करने के लिए नया डिफ़ॉल्ट सेट करता है।
+अपने ज़ूम, गूगल मीट, माइक्रोसॉफ्ट टीमों से सारांश, कार्रवाई आइटम और अंतर्दृष्टि प्राप्त करें
+बैठकें. - [Visit](https://www.thataicollection.com/redirect/wudpecker)
+
+- चैटजीपीटी-संचालित सारांश और प्रतिलेख प्रदान करता है, जिससे बैठकों की समीक्षा करना आसान हो जाता है
+महत्वपूर्ण जानकारियां शीघ्रता से प्राप्त करें।
+- 100+ भाषाओं का समर्थन करता है
+- एक ही मीटिंग में विभिन्न वक्ताओं और भाषाओं को पहचानता है।
+- उपयोगकर्ताओं को आसानी से रिकॉर्डिंग साझा करने की अनुमति देता है, जिससे सहयोग करना आसान हो जाता है
+- उपयोगकर्ता के अनुकूल और जहाज पर आसान
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/wudpecker)
+
+<br />
+
+
+
+
+### Avoma
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-avoma.webp?twic=v1/resize=240" alt="Avoma">
+
+#### अपनी टीम की उत्पादकता और कंपनी के राजस्व में वृद्धि में तेज़ी लाएँ - [Visit](https://www.thataicollection.com/redirect/avoma)
+
+प्रमुख AI मीटिंग असिस्टेंट और रेवेन्यू इंटेलिजेंस समाधान। सभी एक ही जगह पर, हर जगह नहीं। AI मीटिंग असिस्टेंट - बातचीत पर ध्यान देने के लिए ट्रांसक्रिप्ट और AI नोट्स लें। मीटिंग में सहयोग - बेहतर संरेखण के लिए क्रॉस-फ़ंक्शनल टीमों के साथ सहयोग करें। बातचीत और राजस्व से जुड़ी जानकारी - डेटा-आधारित निर्णयों और कोचिंग के लिए महत्वपूर्ण जानकारी सीखें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/avoma)
+
+<br />
+
+
+
+
+### Fathom
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fathom.webp?twic=v1/resize=240" alt="Fathom">
+
+#### अपनी उत्पादकता को अपने ज़रिए बेहतर बनाएं
+मुफ़्त AI मीटिंग असिस्टेंट का मालिक - [Visit](https://www.thataicollection.com/redirect/fathom)
+
+फ़ैदम तुम्हारी मीटिंग्स को रिकॉर्ड करता है, ट्रांसक्रिप्ट करता है, हाइलाइट्स बनाता है और उन्हें सारांशित करता है ताकि तुम बातचीत पर ध्यान केंद्रित कर सको। मिनटों में सेटअप हो जाओ।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/fathom)
+
+<br />
+
+
+
+
+### Otter
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-otter.webp?twic=v1/resize=240" alt="Otter">
+
+#### ओटर - ओटर के साथ अपना शेड्यूल फिर से हासिल करें। - [Visit](https://www.thataicollection.com/redirect/otter)
+
+एक AI मीटिंग असिस्टेंट लें, जो ऑडियो रिकॉर्ड करता हो, नोट्स लिखता हो, एक्शन आइटम कैप्चर करता हो और सारांश तैयार करता हो। नोट्स लिखें और मीटिंग्स को 30 गुना तेज़ी से सारांशित करें, स्वचालित मीटिंग नोट्स के साथ समय बचाएं। तुरंत जवाब पाओ, सबको लाइव सारांश के साथ जोड़े रखो।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/otter)
+
+<br />
+
+
+
+
+
+[See All 👨‍💻 बैठक सहायक Applications on AI Collection](https://www.thataicollection.com/en/categories/meeting-assistant)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## संगीत और ऑडियो पीढ़ी
+
+### Emergent Drums
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-emergent-drums.webp?twic=v1/resize=240" alt="Emergent Drums">
+
+#### आर्टिफिशियल इंटेलिजेंस का उपयोग करके अद्वितीय ड्रम नमूने उत्पन्न करें - [Visit](https://www.thataicollection.com/redirect/emergent-drums)
+
+अंतहीन ड्रम नमूने उत्पन्न करने के लिए हमारे सफलता प्लगइन का उपयोग करें, सभी रॉयल्टी-मुक्त
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/emergent-drums)
+
+<br />
+
+<br />
+
+
+### LALAL.AI Voice Cleaner
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lalal.ai-voice-cleaner.webp?twic=v1/resize=240" alt="LALAL.AI Voice Cleaner">
+
+#### किसी भी ऑडियो और वीडियो से वोकल, संगत और विभिन्न वाद्ययंत्र निकालें - [Visit](https://www.thataicollection.com/redirect/lalal.ai-voice-cleaner)
+
+दुनिया की #1 एआई-संचालित तकनीक पर आधारित उच्च गुणवत्ता वाला स्टेम स्प्लिटिंग।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/lalal.ai-voice-cleaner)
+
+<br />
+
+<br />
+
+
+### Adobe Podcast
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-podcast.webp?twic=v1/resize=240" alt="Adobe Podcast">
+
+#### एडोब पॉडकास्ट - एआई ऑडियो रिकॉर्डिंग और संपादन, सभी वेब पर - [Visit](https://www.thataicollection.com/redirect/adobe-podcast)
+
+कहानियों वाले लोगों के लिए एक ऑडियो टूल
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/adobe-podcast)
+
+<br />
+
+<br />
+
+
+### Adobe Mic Check
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-mic-check.webp?twic=v1/resize=240" alt="Adobe Mic Check">
+
+#### Adobe माइक चेक - अपने माइक को मुफ़्त में जाँचें - [Visit](https://www.thataicollection.com/redirect/adobe-mic-check)
+
+अपने माइक्रोफ़ोन सेटअप को बेहतर बनाने के बारे में सलाह लें। ठीक है, पक्का कर लो कि तुम पॉडकास्ट के लिए तैयार हो।
+भाषण बेहतर बनाएं - वॉइस रिकॉर्डिंग से शोर और गूंज हटाएँ। माइक चेक - रिकॉर्ड करने से पहले माइक्रोफ़ोन की समस्याओं को ठीक करें। स्टूडियो - अपने ब्राउज़र में रिकॉर्ड करें, एडिट करें और बेहतर बनाएं
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/adobe-mic-check)
+
+<br />
+
+
+
+
+### Krisp
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-krisp.webp?twic=v1/resize=240" alt="Krisp">
+
+#### दुनिया का #1 शोर रद्द करने वाला ऐप - क्रिस्प - [Visit](https://www.thataicollection.com/redirect/krisp)
+
+क्रिस्प्स एआई आपके सभी कॉलों से पृष्ठभूमि की आवाज़, शोर और प्रतिध्वनि को हटा देता है, जिससे आपको मानसिक शांति मिलती है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/krisp)
+
+<br />
+
+<br />
+
+
+### Aiva
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aiva.webp?twic=v1/resize=240" alt="Aiva">
+
+#### AIVA - आर्टिफिशियल इंटेलिजेंस भावनात्मक साउंडट्रैक संगीत तैयार कर रहा है - [Visit](https://www.thataicollection.com/redirect/aiva)
+
+रचनात्मक लोगों के लिए एक रचनात्मक सहायक
+चाहे आप एक स्वतंत्र गेम डेवलपर हों, संगीत में पूर्ण नौसिखिया हों, या एक अनुभवी पेशेवर संगीतकार हों, AIVA आपकी रचनात्मक प्रक्रिया में आपकी सहायता करता है। एआई-जनित संगीत की शक्ति का लाभ उठाकर, अपनी परियोजनाओं के लिए पहले से कहीं अधिक तेजी से सम्मोहक थीम बनाएं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/aiva)
+
+<br />
+
+
+
+
+### Boomy
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-boomy.webp?twic=v1/resize=240" alt="Boomy">
+
+#### बूमी - अपनी रचनात्मकता को उजागर करें
+बूमी एआई के साथ संगीत बनाएं - [Visit](https://www.thataicollection.com/redirect/boomy)
+
+🎶 सेकंडों में मौलिक गीत बनाएं, भले ही आपने पहले कभी संगीत न बनाया हो
+🌐 अपने गाने स्ट्रीमिंग प्लेटफॉर्म पर सबमिट करें और जब लोग सुनें तो भुगतान पाएं
+💜 जनरेटिव संगीत से सशक्त कलाकारों के वैश्विक समुदाय में शामिल हों
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/boomy)
+
+<br />
+
+
+
+
+
+[See All 🎼 संगीत और ऑडियो पीढ़ी Applications on AI Collection](https://www.thataicollection.com/en/categories/music-and-audio-generation)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## संगठन और स्वचालन
+
+### Hexowatch
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hexowatch.webp?twic=v1/resize=240" alt="Hexowatch">
+
+#### उपलब्धता और कीमतों से परे, डेटा स्रोत के रूप में तृतीय पक्ष की वेबसाइटें, विज़ुअल वेबसाइट मॉनिटरिंग, प्रतियोगी ट्रैकिंग। - [Visit](https://www.thataicollection.com/redirect/hexowatch)
+
+दृश्य, सामग्री, स्रोत कोड, प्रौद्योगिकी, उपलब्धता, या मूल्य परिवर्तन के लिए किसी भी वेबसाइट की निगरानी करने के लिए हेक्सोवॉच आपका एआई साइडकिक है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/hexowatch)
+
+<br />
+
+<br />
+
+
+### mem
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-mem.webp?twic=v1/resize=240" alt="mem">
+
+#### स्व-आयोजन कार्यक्षेत्र - [Visit](https://www.thataicollection.com/redirect/mem)
+
+मेम दुनिया का पहला एआई-संचालित कार्यक्षेत्र है जो आपके लिए वैयक्तिकृत है। अपनी रचनात्मकता को बढ़ाएँ, सांसारिक को स्वचालित करें, और स्वचालित रूप से व्यवस्थित रहें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/mem)
+
+<br />
+
+
+
+
+### bardeen
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-bardeen.webp?twic=v1/resize=240" alt="bardeen">
+
+#### एआई ऑटोमेशन से मिलता है - [Visit](https://www.thataicollection.com/redirect/bardeen)
+
+2023 में आ रहा है - बारडीन मैनुअल वर्कफ्लो को स्वचालित करने, आपका समय बचाने और आपकी रचनात्मकता को सशक्त बनाने के लिए ब्रेकथ्रू एआई पेश कर रहा है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/bardeen)
+
+<br />
+
+<br />
+
+
+### AutoPredict
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-autopredict.webp?twic=v1/resize=240" alt="AutoPredict">
+
+#### ऑटोप्रेडिक्ट - भविष्यवाणी करो कि तुम्हारी कार कितने समय तक चलेगी - [Visit](https://www.thataicollection.com/redirect/autopredict)
+
+AutoPredict वह पहला ऐप है जो आर्टिफिशियल इंटेलिजेंस का इस्तेमाल करके यह पता लगाता है कि कार कितनी देर तक चलेगी। 100 मिलियन से ज़्यादा डेटा पॉइंट का विश्लेषण करने पर AutoPredict तुम्हारी कार की जिंदगी का सटीक अनुमान लगाता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/autopredict)
+
+<br />
+
+
+
+
+### Looti
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-looti.webp?twic=v1/resize=240" alt="Looti">
+
+#### हाइपरक्वालिफाई करने से तुम्हारी ग्रोथ पर सुपरचार्ज लग जाता है - [Visit](https://www.thataicollection.com/redirect/looti)
+
+AI की बदौलत कुछ ही क्लिक में B2B लीड जेनरेट करें - अपनी लीड को राजस्व में बदलें - पहले से ही 10,000 से अधिक लीड जेनरेट हो चुके हैं
+हाइपरग्रोइंग कंपनियों के साथ
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/looti)
+
+<br />
+
+
+
+
+### Hubble
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hubble.webp?twic=v1/resize=240" alt="Hubble">
+
+#### हबल - उपयोगकर्ताओं से उत्पाद प्रतिक्रिया और अंतर्दृष्टि - [Visit](https://www.thataicollection.com/redirect/hubble)
+
+डिज़ाइन से लेकर उत्पादन तक, मॉनिटर करें, मापें और अपने उपयोगकर्ता अनुभव को बढ़ाएं। प्रोटोटाइप, बीटा और लाइव सुविधाओं पर उपयोगकर्ताओं से उच्च गुणवत्ता वाली प्रतिक्रिया एकत्र करके विश्व स्तरीय उत्पाद बनाएं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/hubble)
+
+<br />
+
+
+
+
+### Takomo
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-takomo.webp?twic=v1/resize=240" alt="Takomo">
+
+#### कुछ ही सेकंड में AI मॉडल कनेक्ट और डिप्लॉय करें
+अनोखे AI ऐप्लिकेशन बनाने के लिए एक साधारण विज़ुअल बिल्डर में सबसे अच्छे AI मॉडल को मिलाएं - [Visit](https://www.thataicollection.com/redirect/takomo)
+
+सबसे अच्छे AI मॉडल को मिलाएं
+किसी साधारण नो-कोड बिल्डर के साथ सबसे अच्छे AI मॉडल का इस्तेमाल करो और उन्हें मिलाकर अनोखे AI ऐप्लिकेशन बनाओ।
+1। पाइपलाइन बनाएं - 
+पहले से प्रशिक्षित ML मॉडल को जोड़कर अपनी खुद की पाइपलाइन बनाएं
+2। प्रीव्यू आउटपुट - 
+आउटपुट की तुलना करके अपनी पाइपलाइन चलाओ, उसका परीक्षण करो और उसमें सुधार करो
+3। API डिप्लॉय करें - विश्वसनीय क्लाउड इंफ्रास्ट्रक्चर के साथ मल्टी-मॉडल API जेनरेट करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/takomo)
+
+<br />
+
+
+
+
+
+[See All 🧞‍♂️ संगठन और स्वचालन Applications on AI Collection](https://www.thataicollection.com/en/categories/organization-and-automation)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## फोटो और छवि संपादन
+
+### HitPaw Online Photo Enhancer
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hitpaw-online-photo-enhancer.webp?twic=v1/resize=240" alt="HitPaw Online Photo Enhancer">
+
+#### छवियों को धुंधला करें और कम गुणवत्ता वाली तस्वीरों को अलविदा कहें। - [Visit](https://www.thataicollection.com/redirect/hitpaw-online-photo-enhancer)
+
+HitPaw ऑनलाइन एआई फोटो एन्हांसर शोर को दूर करने, विवरण को तेज करने और फोटो की गुणवत्ता में सुधार करने के लिए उन्नत एआई तकनीक का उपयोग करता है
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/hitpaw-online-photo-enhancer)
+
+<br />
+
+<br />
+
+
+### Unrealme
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-unrealme.webp?twic=v1/resize=240" alt="Unrealme">
+
+#### अवास्तविक मैं - आप की एआई जनित छवियां प्राप्त करें - [Visit](https://www.thataicollection.com/redirect/unrealme)
+
+अपनी शानदार तस्वीरें प्राप्त करने के लिए कदम: 1. भुगतान। 2. अपलोड करें - सिफारिशें पढ़ें और जब भी आपके पास समय हो अपनी तस्वीरें अपलोड करें (आपका लिंक ईमेल द्वारा भेजा जाता है)। 3. प्रतीक्षा करें 4. साझा करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/unrealme)
+
+<br />
+
+
+
+
+### Stabledojo
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stabledojo.webp?twic=v1/resize=240" alt="Stabledojo">
+
+#### पहला एआई फोटो स्टूडियो - [Visit](https://www.thataicollection.com/redirect/stabledojo)
+
+StableDojo के साथ आप अपने लिए एक अवतार या अपने पसंदीदा उत्पादों के लिए एक फोटोशूट तैयार कर सकते हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/stabledojo)
+
+<br />
+
+<br />
+
+
+### Prisma
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prisma.webp?twic=v1/resize=240" alt="Prisma">
+
+#### प्रिज्मा आपकी तस्वीरों के सार को कैप्चर करता है और उन्हें चमकीले रंग की पेंटिंग में बदल देता है - [Visit](https://www.thataicollection.com/redirect/prisma)
+
+आपके निपटान में 700 से अधिक शानदार कला और चित्र शैली। अग्रभूमि और पृष्ठभूमि दोनों को अलग-अलग संशोधित करने की संभावना। अपनी छवियों को अपग्रेड करने के लिए शानदार फ्रेम।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/prisma)
+
+<br />
+
+
+
+
+### Prisma Lensa
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prisma-lensa.webp?twic=v1/resize=240" alt="Prisma Lensa">
+
+#### लेंसा एक ऑल-इन-वन इमेज एडिटिंग ऐप है जो आपकी तस्वीरों को अगले स्तर तक ले जाता है। - [Visit](https://www.thataicollection.com/redirect/prisma-lensa)
+
+मैजिक करेक्शन के एक टैप से फेशियल रीटचिंग को बेहतर बनाएं। ढेर सारे कूल टूल्स से चेहरे की खामियों को दूर करें। पृष्ठभूमि को एक स्पर्श से बदलें या धुंधला करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/prisma-lensa)
+
+<br />
+
+
+
+
+### Claid.ai
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-claid.ai.webp?twic=v1/resize=240" alt="Claid.ai">
+
+#### एआई के साथ सुंदर रूपांतरित सामग्री बनाएं - [Visit](https://www.thataicollection.com/redirect/claid.ai)
+
+हमारे एआई उत्पादों के सुइट का उपयोग करके एंड-टू-एंड छवि निर्माण को स्वचालित करें और अपने व्यवसाय को बढ़ावा दें। आपके ब्रांड के अनुरूप अनेक उत्पाद छवियाँ बनाएँ। उबाऊ उत्पाद छवियों को फोटोशूट-गुणवत्ता वाली मार्केटिंग छवियों में बदलकर अपनी सामग्री निर्माण प्रक्रिया को सरल बनाएं
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/claid.ai)
+
+<br />
+
+
+
+
+### SceneryAI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sceneryai.webp?twic=v1/resize=240" alt="SceneryAI">
+
+#### सीनरी - [Visit](https://www.thataicollection.com/redirect/sceneryai)
+
+हमारे एआई इमेज एडिटिंग टूल के साथ मौजूदा इमेज जेनरेट या अपडेट करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/sceneryai)
+
+<br />
+
+<br />
+
+
+
+[See All 📸 फोटो और छवि संपादन Applications on AI Collection](https://www.thataicollection.com/en/categories/photo-and-image-editing)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## प्लगइन्स और एक्सटेंशन
+
+### AIduh
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aiduh.webp?twic=v1/resize=240" alt="AIduh">
+
+#### एआई-रिस्पोंडर फॉर होस्टअवे - एआई डुह - [Visit](https://www.thataicollection.com/redirect/aiduh)
+
+क्रोम एक्सटेंशन जो एआई-संचालित प्रतिक्रियाओं के साथ आपके लेखन समय को 98% तक कम कर देता है। होस्ट्स फॉर होस्ट्स द्वारा निर्मित।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/aiduh)
+
+<br />
+
+<br />
+
+
+### Texti
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-texti.webp?twic=v1/resize=240" alt="Texti">
+
+#### एआई जो आपके ब्राउज़र में रहता है! - [Visit](https://www.thataicollection.com/redirect/texti)
+
+टेक्स्टी आपकी सामग्री की गुणवत्ता बढ़ाने में आपका सहयोग करेगा!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/texti)
+
+<br />
+
+<br />
+
+
+### Autoname
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-autoname.webp?twic=v1/resize=240" alt="Autoname">
+
+#### एक क्लिक में अपनी सभी परतों का नाम बदलें। आई के लिए धन्यवाद। खुला स्त्रोत - [Visit](https://www.thataicollection.com/redirect/autoname)
+
+एक क्लिक में Figma फ्रेम का नाम बदलें, बस इतना ही।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/autoname)
+
+<br />
+
+<br />
+
+
+### SplashAI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-splashai.webp?twic=v1/resize=240" alt="SplashAI">
+
+#### Splashai एक फ़िग्मा प्लगइन, सर्च इंजन और AI इमेज जेनरेटर है। - [Visit](https://www.thataicollection.com/redirect/splashai)
+
+SplasHAI एक सहायक की तरह है, यह तुम्हेंं सर्च की सुविधा के साथ बहुत तेज़ी से विचार प्राप्त करने में मदद करता है और फ़िगमा से बाहर निकले बिना लगातार नए विचार उत्पन्न करने में मदद करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/splashai)
+
+<br />
+
+
+
+
+### Merlin
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-merlin.webp?twic=v1/resize=240" alt="Merlin">
+
+#### एक प्रकार का बाज़ - [Visit](https://www.thataicollection.com/redirect/merlin)
+
+कहीं भी उपयोग करने के लिए मुफ्त ओपन एआई चैटजीपीटी संचालित एक्सटेंशन!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/merlin)
+
+<br />
+
+<br />
+
+
+### Voilà
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-voilà.webp?twic=v1/resize=240" alt="Voilà">
+
+#### सुपरचार्ज्ड उत्पादकता के लिए व्यक्तिगत चैटजीपीटी सहायक - [Visit](https://www.thataicollection.com/redirect/voilà)
+
+अपने लेखन में सुधार करें, अपने सभी प्रश्नों के उत्तर प्राप्त करें, उच्च-गुणवत्ता वाली सामग्री का मसौदा तैयार करें और ईमेल का जवाब दें। सभी एक ही स्थान पर।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/voilà)
+
+<br />
+
+
+
+
+### HARPA AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-harpa-ai.webp?twic=v1/resize=240" alt="HARPA AI">
+
+#### चैटजीपीटी क्रोम ऑटोमेशन कोपिलॉट - [Visit](https://www.thataicollection.com/redirect/harpa-ai)
+
+क्रोम के लिए एआई एजेंट। ChatGPT को Google खोज में एकीकृत करें, वेबसाइटों को स्वचालित करें, पाठ लिखें: ईमेल, ट्वीट, SEO लेख। बिंग एआई और नोशन एआई विकल्प।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/harpa-ai)
+
+<br />
+
+
+
+
+
+[See All 🔌 प्लगइन्स और एक्सटेंशन Applications on AI Collection](https://www.thataicollection.com/en/categories/plugins-and-extensions)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## उत्पादकता और व्यक्तिगत विकास
+
+### Podwise
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-podwise.webp?twic=v1/resize=240" alt="Podwise">
+
+#### पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है। - [Visit](https://www.thataicollection.com/redirect/podwise)
+
+Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/podwise)
+
+<br />
+
+
+
+
+### Dewey
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dewey.webp?twic=v1/resize=240" alt="Dewey">
+
+#### डेवी के साथ और अधिक करें। रिमाइंडर प्राप्त करें और डेवी, आपके एआई जवाबदेही बडी के टेक्स्ट संदेशों से प्रेरित रहें। - [Visit](https://www.thataicollection.com/redirect/dewey)
+
+मित्रवत AI जवाबदेही मित्र के साथ वापस पटरी पर आएं। डेवी संगठित और उत्पादक बने रहने में आपकी मदद करने के लिए यहां है। पाठ संदेश अनुस्मारक और लक्ष्य ट्रैकिंग के साथ, यह आपकी जेब में एआई उत्तरदायित्व मित्र होने जैसा है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/dewey)
+
+<br />
+
+
+
+
+### Ask Poppy
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ask-poppy.webp?twic=v1/resize=240" alt="Ask Poppy">
+
+#### पॉपीलिस्ट - माता-पिता बनो, जो तुम बनना चाहते हो - [Visit](https://www.thataicollection.com/redirect/ask-poppy)
+
+एक बार में एक बच्चे के माता-पिता बनने की यात्रा की तैयारी करना।
+पॉपीलिस्ट में आपका स्वागत है, तुम्हारे बच्चों की रजिस्ट्री आसान हो गई है।
+तुम्हेंं अपनी जीवनशैली के बारे में पता है। हमें प्रॉडक्ट्स के बारे में पता है। चलिए मिलकर तुम्हारे बच्चे की रजिस्ट्री बनाते हैं।
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ask-poppy)
+
+<br />
+
+
+
+
+### Cogram
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cogram.webp?twic=v1/resize=240" alt="Cogram">
+
+#### अपनी टीम के लिए एक बुद्धिमान सहकर्मी के साथ अपनी उत्पादकता दोगुनी करें - [Visit](https://www.thataicollection.com/redirect/cogram)
+
+कोग्राम आपके डेटा को निजी और सुरक्षित रखते हुए वर्चुअल मीटिंग्स में नोट्स लेने, एक्शन आइटम ट्रैक करने और डाउनस्ट्रीम कार्यों को स्वचालित करने के लिए एआई का उपयोग करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/cogram)
+
+<br />
+
+
+
+
+### Ultimate Skill Extractor by Further
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ultimate-skill-extractor-by-further.webp?twic=v1/resize=240" alt="Ultimate Skill Extractor by Further">
+
+#### एआई संचालित कौशल-सुझाव - [Visit](https://www.thataicollection.com/redirect/ultimate-skill-extractor-by-further)
+
+कौशल सुझाव एआई की शक्ति का उपयोग करके हम किसी भी प्रकार के पाठ से दुनिया में मांग में कौशल निकालने में आपकी सहायता कर सकते हैं। कोशिश करके देखो! हमने अपनी आगे की सामग्री लाइब्रेरी में 1 मिलियन से अधिक ऑनलाइन उपलब्ध सामग्री का उपयोग करके अपने एआई को प्रशिक्षित किया जो विभिन्न प्रकार के स्रोतों और विषयों से क्यूरेट किया गया।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ultimate-skill-extractor-by-further)
+
+<br />
+
+
+
+
+### ELSA SPEECH ANALYZER
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elsa-speech-analyzer.webp?twic=v1/resize=240" alt="ELSA SPEECH ANALYZER">
+
+#### एक समय में अपनी अंग्रेजी एक बातचीत में सुधार करें। - [Visit](https://www.thataicollection.com/redirect/elsa-speech-analyzer)
+
+भाषण विश्लेषक एक एआई-संचालित संवादी अंग्रेजी प्रवाह कोच है जो आपके भाषण को सुनता है और आपको तत्काल प्रतिक्रिया प्रदान करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/elsa-speech-analyzer)
+
+<br />
+
+<br />
+
+
+### DetangleAI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-detangleai.webp?twic=v1/resize=240" alt="DetangleAI">
+
+#### किसी भी पॉडकास्ट, ईमेल, कानूनी दस्तावेज़, किताब वगैरह को संक्षेप में बताओ, ताकि तुम कर सको
+जो मायने रखता है उस पर ध्यान दो। - [Visit](https://www.thataicollection.com/redirect/detangleai)
+
+दस्तावेज़ से बातचीत + किसी भी फ़ाइल या लिंक के लिए सारांश! PDF, YouTube वीडियो, पॉडकास्ट, लेख, स्प्रेडशीट वगैरह के साथ चैट करें! वेटलिस्ट पर हॉप करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/detangleai)
+
+<br />
+
+
+
+
+
+[See All 🚀 उत्पादकता और व्यक्तिगत विकास Applications on AI Collection](https://www.thataicollection.com/en/categories/productivity-and-personal-growth)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## अनुसंधान सहायक
+
+### Elicit
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elicit.webp?twic=v1/resize=240" alt="Elicit">
+
+#### एलिसिट: एआई रिसर्च असिस्टेंट - [Visit](https://www.thataicollection.com/redirect/elicit)
+
+एलिसिट आपके शोध में आपकी मदद करने के लिए मशीन लर्निंग का उपयोग करता है: कागजात खोजें, प्रमुख दावों को निकालें, सारांशित करें, विचार मंथन करें, और बहुत कुछ।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/elicit)
+
+<br />
+
+
+
+
+### Scispace
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-scispace.webp?twic=v1/resize=240" alt="Scispace">
+
+#### टाइपसेट द्वारा स्किस्पेस - डिस्कवर करें, बनाएं, प्रकाशित करें और अपने शोध पत्र का प्रचार करें - [Visit](https://www.thataicollection.com/redirect/scispace)
+
+कागजात तलाशने और समझाने के लिए आपका मंच। 270M+ पेपर खोजें, उन्हें सरल भाषा में समझें, और जुड़े हुए पेपर, लेखक, विषय खोजें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/scispace)
+
+<br />
+
+<br />
+
+
+### RTutor
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rtutor.webp?twic=v1/resize=240" alt="RTutor">
+
+#### दर्जनों मानवीय भाषाओं में अपने डेटा के साथ चैट करें। - [Visit](https://www.thataicollection.com/redirect/rtutor)
+
+RTutor प्राकृतिक भाषा को R कोड में अनुवाद करने के लिए OpenAI के शक्तिशाली बड़े भाषा मॉडल का उपयोग करता है, जिसे बाद में एक्सक्यूट किया जाता है। आप अपने विश्लेषण का अनुरोध कर सकते हैं, जैसे किसी वास्तविक व्यक्ति से पूछ रहे हों। एक डेटा फ़ाइल (CSV, TSV/टैब-डीलिमिटेड टेक्स्ट फ़ाइलें, और एक्सेल) अपलोड करें और सरल अंग्रेजी में इसका विश्लेषण करें। आपके परिणाम मिनटों में HTML रिपोर्ट के रूप में डाउनलोड किए जा सकते हैं!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/rtutor)
+
+<br />
+
+
+
+
+### Explainpaper
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-explainpaper.webp?twic=v1/resize=240" alt="Explainpaper">
+
+#### शोध पत्रों को पढ़ने का सबसे तेज़ तरीका - [Visit](https://www.thataicollection.com/redirect/explainpaper)
+
+एक पेपर अपलोड करें, भ्रमित करने वाले टेक्स्ट को हाइलाइट करें, स्पष्टीकरण प्राप्त करें। हम शोध पत्रों को पढ़ने में आसान बनाते हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/explainpaper)
+
+<br />
+
+<br />
+
+
+### Vocads Survey
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-vocads-survey.webp?twic=v1/resize=240" alt="Vocads Survey">
+
+#### संवादी आवाज एआई द्वारा सर्वेक्षण को फिर से खोजा गया - [Visit](https://www.thataicollection.com/redirect/vocads-survey)
+
+कंपनियों के पास अपने सर्वेक्षणों पर प्रतिक्रियाओं और जुड़ाव की कमी है। एआई के साथ वॉयस बातचीत के जरिए वोकाड्स ने सर्वेक्षण के अनुभव को नया रूप दिया।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/vocads-survey)
+
+<br />
+
+<br />
+
+
+### Afforai Build
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-afforai-build.webp?twic=v1/resize=240" alt="Afforai Build">
+
+#### आपका एआई रीडिंग कोपायलट। पाठ विश्लेषण, अनुसंधान और दस्तावेज़ खोज के लिए आवश्यक उपकरण - [Visit](https://www.thataicollection.com/redirect/afforai-build)
+
+रिपोर्ट का मसौदा तैयार करना पढ़ने के लिए बहुत सारे दस्तावेज़ हैं? अफ़ोराई आपके लिए एक पूरी रिपोर्ट का विश्लेषण और मसौदा तैयार करेगा और साथ ही दस्तावेज़ों के बारे में किसी भी प्रश्न का उत्तर देगा। स्प्रेडशीट क्वेरी - प्राकृतिक भाषा क्वेरी का उपयोग करके रिपोर्ट और स्प्रेडशीट से महत्वपूर्ण जानकारी निकालने के लिए अफ़ोराई का उपयोग करें। वेब स्क्रैपिंग - अफ़ोराई कई वेबसाइटों को खंगाल सकता है और महत्वपूर्ण जानकारी निकाल सकता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/afforai-build)
+
+<br />
+
+
+
+
+### Synthical
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-synthical.webp?twic=v1/resize=240" alt="Synthical">
+
+#### एआई-संचालित सहयोगात्मक अनुसंधान वातावरण - [Visit](https://www.thataicollection.com/redirect/synthical)
+
+जटिल शब्दों को समझने के लिए लेखों को सरल बनाएं, अच्छी अनुशंसाएँ प्राप्त करें, समान लेख खोजें और टीम के साथ आसानी से सहयोग करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/synthical)
+
+<br />
+
+<br />
+
+
+
+[See All 🎓 अनुसंधान सहायक Applications on AI Collection](https://www.thataicollection.com/en/categories/research-assistant)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## समीक्षा और अनुशंसाएँ
+
+### Sona
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sona.webp?twic=v1/resize=240" alt="Sona">
+
+#### इसे दो बार पढ़ें - दो बार पढ़ने लायक किताबें। - [Visit](https://www.thataicollection.com/redirect/sona)
+
+जिन लोगों की आप प्रशंसा करते हैं, उनकी सर्वोत्तम पुस्तक अनुशंसाओं के लिए हम इंटरनेट पर अनगिनत घंटे खंगालते हैं। हमारा डेटाबेस लगातार बढ़ रहा है, और हर एक सिफारिश को प्रामाणिकता के लिए सत्यापित किया गया है और इसमें स्रोत के लिए एक लिंक शामिल है। आनंद लेना!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/sona)
+
+<br />
+
+
+
+
+### AI Review Reply Assistant
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-review-reply-assistant.webp?twic=v1/resize=240" alt="AI Review Reply Assistant">
+
+#### अपने एआई रिव्यू रिप्लाई असिस्टेंट के साथ समीक्षाओं का जवाब दें - [Visit](https://www.thataicollection.com/redirect/ai-review-reply-assistant)
+
+एआई समीक्षा उत्तर जनरेटर: आपके व्यक्तिगत एआई सहायक द्वारा लिखित व्यक्तिगत प्रतिक्रियाओं के साथ प्रत्येक ग्राहक समीक्षा के लिए 3x तेजी से उत्तर दें। किसी टेम्प्लेट की आवश्यकता नहीं है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-review-reply-assistant)
+
+<br />
+
+
+
+
+### Geniusreview
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-geniusreview.webp?twic=v1/resize=240" alt="Geniusreview">
+
+#### Geniusreview - 360° AI प्रदर्शन समीक्षाएं - [Visit](https://www.thataicollection.com/redirect/geniusreview)
+
+अपने प्रदर्शन समीक्षा प्रश्नों के अनुरूप उत्तर प्राप्त करने के लिए GeniusReview का उपयोग करके घंटों की बचत करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/geniusreview)
+
+<br />
+
+<br />
+
+
+### Reviewz
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-reviewz.webp?twic=v1/resize=240" alt="Reviewz">
+
+#### Reviewz.ai - डिस्कवर ऑल द बेस्ट प्रोडक्ट्स। एआई द्वारा क्यूरेट और अनुशंसित। - [Visit](https://www.thataicollection.com/redirect/reviewz)
+
+Reviewz.ai एक नवीनता है और इसे उपभोक्ता उत्पाद और अनुशंसा स्थान में AI की क्षमताओं को प्रदर्शित करने के लिए डिज़ाइन किया गया है। इस साइट पर चयनित और समीक्षा किए गए सभी उत्पाद पूरी तरह से एआई द्वारा किए गए हैं, और सभी समीक्षाएं एआई द्वारा लिखी गई हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/reviewz)
+
+<br />
+
+
+
+
+### Artreviewgenerator
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-artreviewgenerator.webp?twic=v1/resize=240" alt="Artreviewgenerator">
+
+#### कला समीक्षा जेनरेटर - [Visit](https://www.thataicollection.com/redirect/artreviewgenerator)
+
+एक प्राकृतिक भाषा प्रसंस्करण उपकरण और पाठ जनरेटर। यह एक संकेत के रूप में शब्दों का एक सेट लेता है और फिर वाक्यों का एक मध्यम लंबाई का सेट उत्पन्न करता है जो प्रशिक्षण डेटा का अनुमान लगाता है
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/artreviewgenerator)
+
+<br />
+
+
+
+
+
+[See All 🗳 समीक्षा और अनुशंसाएँ Applications on AI Collection](https://www.thataicollection.com/en/categories/reviews-and-recommendations)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## खरीद और बिक्री
+
+### Copy.ai
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-copy.ai.webp?twic=v1/resize=240" alt="Copy.ai">
+
+#### एआई के साथ बेहतर मार्केटिंग कॉपी और कंटेंट लिखें - [Visit](https://www.thataicollection.com/redirect/copy.ai)
+
+बिकने वाली बढ़िया प्रति प्राप्त करें। Copy.ai एक AI-संचालित कॉपीराइटर है जो आपके व्यवसाय के लिए उच्च गुणवत्ता वाली कॉपी तैयार करता है। निःशुल्क आरंभ करें, किसी क्रेडिट कार्ड की आवश्यकता नहीं! विपणन सरलीकृत!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/copy.ai)
+
+<br />
+
+
+
+
+### Clickable
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-clickable.webp?twic=v1/resize=240" alt="Clickable">
+
+#### एआई के साथ सेकंड में विज्ञापन उत्पन्न करें - [Visit](https://www.thataicollection.com/redirect/clickable)
+
+सभी मार्केटिंग चैनलों के लिए सुंदर, ब्रांड-संगत और अत्यधिक रूपांतरित विज्ञापन। किसी डिज़ाइन अनुभव की आवश्यकता नहीं है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/clickable)
+
+<br />
+
+<br />
+
+
+### Cuetap.com
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cuetap.com.webp?twic=v1/resize=240" alt="Cuetap.com">
+
+#### एआई और सीआई संचालित बिक्री युद्धकार्ड - [Visit](https://www.thataicollection.com/redirect/cuetap.com)
+
+एआई-पावर्ड प्लेटफॉर्म ऑटोमैजिकल बैटलकार्ड्स और एक्शनेबल कॉम्पिटिटिव इंटेलिजेंस प्रदान करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/cuetap.com)
+
+<br />
+
+<br />
+
+
+### Userevaluation
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-userevaluation.webp?twic=v1/resize=240" alt="Userevaluation">
+
+#### उपयोगकर्ता मूल्यांकन - ग्राहक समझ मंच - [Visit](https://www.thataicollection.com/redirect/userevaluation)
+
+चाहे आप यूआई, यूएक्स रिसर्च, डिजाइन, या सीएक्स यूजर इवैल्यूएशन के एआई पर केंद्रित हों, आपके सभी सवालों का जवाब दे सकता है
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/userevaluation)
+
+<br />
+
+<br />
+
+
+### Genius Sheets
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-genius-sheets.webp?twic=v1/resize=240" alt="Genius Sheets">
+
+#### जीनियस शीट्स - बिज़नेस इंटेलिजेंस फ़्रॉम द फ्यूचर
+एआई पावर्ड डेटा एनालिटिक्स - [Visit](https://www.thataicollection.com/redirect/genius-sheets)
+
+Genius Sheets AI तुम्हारे सभी महत्वपूर्ण सवालों के जवाब देने के लिए सेल्फ़ सर्विस बिज़नेस इंटेलिजेंस एजेंट है।
+संवादी एआई - जीनियस शीट्स से ऐसे बात करो जैसे कि तुम किसी सहकर्मी से बात कर रहे हो
+एंटरप्राइज़ सुरक्षा - एंटरप्राइज़ सुरक्षा मानकों के लिए बनाई गई - तुम्हारा डेटा सुरक्षित रखना।
+इस्तेमाल में आसान - किसी SQL या Python की आवश्यकता नहीं है
+नेटिव इंटरफ़ेस - हमारे वेबऐप, स्लैक या टीम में अपने डेटा से कनेक्ट करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/genius-sheets)
+
+<br />
+
+
+
+
+### BaruaAI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-baruaai.webp?twic=v1/resize=240" alt="BaruaAI">
+
+#### सेकेंड में उच्च परिवर्तित बिक्री ईमेल उत्पन्न करें - [Visit](https://www.thataicollection.com/redirect/baruaai)
+
+हमारा मंच आपके प्रमुख उत्पाद विवरण और उद्देश्यों को प्रेरक गद्य में बदल देता है, जो आपके दर्शकों को आकर्षित करने और रूपांतरण दरों को आसमान छूने के लिए तैयार किया गया है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/baruaai)
+
+<br />
+
+
+
+
+### Hoppy Copy
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hoppy-copy.webp?twic=v1/resize=240" alt="Hoppy Copy">
+
+#### हॉपी कॉपी: एआई ईमेल मार्केटिंग कॉपी राइटिंग प्लेटफॉर्म - [Visit](https://www.thataicollection.com/redirect/hoppy-copy)
+
+लिखने के अनगिनत घंटे बचाएं। सैकड़ों अलग-अलग ईमेल मार्केटिंग अभियानों, ड्रिप, न्यूज़लेटर्स और बहुत कुछ के लिए सेकंड में शक्तिशाली कॉपी बनाने के लिए AI का उपयोग करें ⚡
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/hoppy-copy)
+
+<br />
+
+
+
+
+
+[See All 💰 खरीद और बिक्री Applications on AI Collection](https://www.thataicollection.com/en/categories/sales-and-marketing)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## खोज इंजन
+
+### Lexii.ai
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lexii.ai.webp?twic=v1/resize=240" alt="Lexii.ai">
+
+#### लेक्सी.ऐ - [Visit](https://www.thataicollection.com/redirect/lexii.ai)
+
+Lexi.ai एक AI खोज सहायक है जो सवालों के जवाब देता है और स्रोतों का हवाला देता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/lexii.ai)
+
+<br />
+
+<br />
+
+
+### Smarty Names
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-smarty-names.webp?twic=v1/resize=240" alt="Smarty Names">
+
+#### एआई रोबोट्स द्वारा नि:शुल्क रचनात्मक डोमेन नाम खोज - [Visit](https://www.thataicollection.com/redirect/smarty-names)
+
+SmartyNames.com के साथ एक रचनात्मक और अद्वितीय डोमेन खोजना आसान है जो अभी भी उपलब्ध है - हमें बताएं कि आप क्या करते हैं, और हमारे रोबोट आपके लिए सही डोमेन ढूंढ लेंगे। एक क्लिक में कंपनी का नाम जनरेटर।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/smarty-names)
+
+<br />
+
+
+
+
+### OpenArt Photo Booth
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-openart-photo-booth.webp?twic=v1/resize=240" alt="OpenArt Photo Booth">
+
+#### डिस्कवर और एआई कला उत्पन्न करें - ओपनआर्ट - [Visit](https://www.thataicollection.com/redirect/openart-photo-booth)
+
+10M+ प्रॉम्प्ट खोजें, और स्थिर प्रसार, DALL·E 2 के माध्यम से AI कला उत्पन्न करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/openart-photo-booth)
+
+<br />
+
+<br />
+
+
+### You
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-you.webp?twic=v1/resize=240" alt="You">
+
+#### वह AI सर्च इंजन जिसे तुम नियंत्रित करते हो - [Visit](https://www.thataicollection.com/redirect/you)
+
+AI असिस्टेंट जो तुम्हेंं ज़्यादा काम करने में मदद करता है। बिना किसी परेशानी के, AI चैट का अनुभव करें
+बस तुमसे चैट करने के लिए कुछ भी पूछो और तुरंत, उपयोगी जवाब पाओ।
+GPT-4 के साथ व्यापक प्रतिक्रियाएँ
+ज़्यादा सटीकता के साथ लंबे और ज़्यादा विस्तृत जवाब जनरेट करें।
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/you)
+
+<br />
+
+
+
+
+### Perplexity AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-perplexity-ai.webp?twic=v1/resize=240" alt="Perplexity AI">
+
+#### Perplexity AI एक उत्तर इंजन है जो बड़े भाषा मॉडल का उपयोग करके जटिल प्रश्नों के सटीक उत्तर देता है। - [Visit](https://www.thataicollection.com/redirect/perplexity-ai)
+
+आस्क बड़े भाषा मॉडल और सर्च इंजन द्वारा संचालित है। सटीकता खोज परिणामों और AI क्षमताओं द्वारा सीमित है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/perplexity-ai)
+
+<br />
+
+<br />
+
+
+### Anypod
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-anypod.webp?twic=v1/resize=240" alt="Anypod">
+
+#### रचनाकारों के लिए निर्मित खोज इंजन - [Visit](https://www.thataicollection.com/redirect/anypod)
+
+हम आपकी सामग्री को खोजने योग्य बनाते हैं
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/anypod)
+
+<br />
+
+<br />
+
+
+### namefinder.ai
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-namefinder.ai.webp?twic=v1/resize=240" alt="namefinder.ai">
+
+#### एआई-संचालित व्यवसाय और डोमेन नाम जेनरेटर - [Visit](https://www.thataicollection.com/redirect/namefinder.ai)
+
+हम, Namefinder पर, लोगों के व्यवसायों के लिए डोमेन नाम लेकर आने से उनका समय बचाने का लक्ष्य रखते हैं। हम ऐसा उनकी वेबसाइट की जरूरतों के आधार पर नामों का प्रस्ताव करके करते हैं, और इससे पहले हम डोमेन रजिस्ट्री की जांच करते हैं ताकि केवल उपलब्ध डोमेन नामों को चुनने के लिए दिया जा सके। सभी चैट Gpt द्वारा संचालित।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/namefinder.ai)
+
+<br />
+
+
+
+
+
+[See All 🔍 खोज इंजन Applications on AI Collection](https://www.thataicollection.com/en/categories/search-engines)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## स्लाइड और प्रस्तुतियाँ
+
+### ChatBA
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chatba.webp?twic=v1/resize=240" alt="ChatBA">
+
+#### Chatbcg: स्लाइड के लिए जनरेटिव AI - [Visit](https://www.thataicollection.com/redirect/chatba)
+
+चैटबीसीजी का उपयोग करके तुरंत स्लाइड डेक बनाएं
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/chatba)
+
+<br />
+
+<br />
+
+
+### SlidesAI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-slidesai.webp?twic=v1/resize=240" alt="SlidesAI">
+
+#### सेकंड में एआई के साथ प्रेजेंटेशन स्लाइड बनाएं - [Visit](https://www.thataicollection.com/redirect/slidesai)
+
+थकाऊ, मैन्युअल स्लाइड निर्माण को अलविदा कहें। एआई को आपके लिए रूपरेखा और प्रस्तुति सामग्री लिखने दें। हमारे टूल से, आप बहुत ही कम समय में किसी भी टेक्स्ट से आसानी से पेशेवर, आकर्षक स्लाइड बना सकते हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/slidesai)
+
+<br />
+
+
+
+
+### Pitchgrade
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-pitchgrade.webp?twic=v1/resize=240" alt="Pitchgrade">
+
+#### पिचग्रेड - प्रस्तुतियों ने दर्द रहित बना दिया - [Visit](https://www.thataicollection.com/redirect/pitchgrade)
+
+पिच डेक एक ऐसा प्रज़ेंटेशन होता है जिसका इस्तेमाल कंपनी निवेशकों को देने के लिए करती है। यह कंपनी के बिज़नेस मॉडल, वित्तीय अनुमानों और अन्य प्रमुख मैट्रिक्स के बारे में बताता है, जिन्हें निवेशक देखना चाहेंगे।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/pitchgrade)
+
+<br />
+
+
+
+
+### My Pitch Deck
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-my-pitch-deck.webp?twic=v1/resize=240" alt="My Pitch Deck">
+
+#### माय पिच डेक - अपने स्टार्टअप के लिए कस्टम पिच डेक टेम्पलेट के साथ अपनी फ़ंडिंग की शुरुआत करें। - [Visit](https://www.thataicollection.com/redirect/my-pitch-deck)
+
+10-स्लाइड वाला पिच डेक टेम्पलेट। तुम्हारे हिसाब से बनाया गया।
+तुम्हारे जवाबों के आधार पर हमारा AI तुम्हारे स्टार्टअप के लिए कस्टम 10-स्लाइड पिच डेक आउटलाइन तैयार करेगा। आगे बढ़ने के लिए तैयार!
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/my-pitch-deck)
+
+<br />
+
+
+
+
+### Tome
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tome.webp?twic=v1/resize=240" alt="Tome">
+
+#### जनरेटिव स्टोरीटेलिंग आ गई है। - [Visit](https://www.thataicollection.com/redirect/tome)
+
+टोम के एआई-संचालित कहानी कहने के प्रारूप के साथ अपने सर्वश्रेष्ठ काम को अनलॉक करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/tome)
+
+<br />
+
+<br />
+
+
+### Glimmer AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-glimmer-ai.webp?twic=v1/resize=240" alt="Glimmer AI">
+
+#### एआई-पावर्ड प्रेजेंटेशन मैजिक - [Visit](https://www.thataicollection.com/redirect/glimmer-ai)
+
+Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट या वॉयस कमांड का उपयोग करके पेशेवर-गुणवत्ता की प्रस्तुतियों को आसान और तेज़ बनाने के लिए करता है
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/glimmer-ai)
+
+<br />
+
+<br />
+
+
+### STORYD
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-storyd.webp?twic=v1/resize=240" alt="STORYD">
+
+#### डेटा प्रेजेंटेशन लीडर्स लव - [Visit](https://www.thataicollection.com/redirect/storyd)
+
+डेटा-संचालित व्यावसायिक प्रस्तुतियों को जल्दी और आसानी से बनाने में पेशेवरों की मदद करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/storyd)
+
+<br />
+
+<br />
+
+
+
+[See All 📊 स्लाइड और प्रस्तुतियाँ Applications on AI Collection](https://www.thataicollection.com/en/categories/slides-and-presentations)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## सामाजिक नेटवर्क और डेटिंग
+
+### Roast
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-roast.webp?twic=v1/resize=240" alt="Roast">
+
+#### डेटिंग ऐप प्रोफाइल एआई विश्लेषण - फोटोशूट एआई जेनरेटर - [Visit](https://www.thataicollection.com/redirect/roast)
+
+रोस्ट लोगों को टिंडर, बम्बल और हिंज जैसे डेटिंग ऐप्स पर उनके मैच में 10 गुना मदद करता है। एआई द्वारा संचालित, यह उनके मैचों की मात्रा और गुणवत्ता बढ़ाने के लिए डेटा-संचालित डेटिंग अंतर्दृष्टि और विशेषज्ञ सलाह प्रदान करता है
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/roast)
+
+<br />
+
+
+
+
+### AI movie Club
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-movie-club.webp?twic=v1/resize=240" alt="AI movie Club">
+
+#### एआई-मूवी क्लब - [Visit](https://www.thataicollection.com/redirect/ai-movie-club)
+
+AI-मूवी क्लब एक सोशल नेटवर्क है जो आर्टिफिशियल इंटेलिजेंस के साथ फिल्में बनाता है!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-movie-club)
+
+<br />
+
+<br />
+
+
+### HotConvo
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hotconvo.webp?twic=v1/resize=240" alt="HotConvo">
+
+#### चिंगारी रोमांस - अपने ऑनलाइन डेटिंग के लिए मज़ा, मजाकिया और सेक्सी चैट सुझाव प्राप्त करें। - [Visit](https://www.thataicollection.com/redirect/hotconvo)
+
+सेकंड में फ्लर्टी चैट। Tinder, Bumble, या किसी भी डेटिंग ऐप्स से प्रोफाइल बायो या चल रही बातचीत का स्क्रीनशॉट लें -> Hotconvo को स्मार्ट सुझावों के संदर्भ को समझने दें -> अपने अगले संदेश के लिए क्या कहना है इसकी प्रेरणा पाने के लिए कई सुझाव प्राप्त करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/hotconvo)
+
+<br />
+
+
+
+
+### AI Social Bio
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-social-bio.webp?twic=v1/resize=240" alt="AI Social Bio">
+
+#### एआई सोशल बायो - आर्टिफिशियल इंटेलिजेंस द्वारा बनाया गया तुम्हारा सोशल मीडिया बायो
+ - [Visit](https://www.thataicollection.com/redirect/ai-social-bio)
+
+X (Twitter) के लिए बिल्कुल सही। अपने बायो को आकार देने के लिए एक कीवर्ड जोड़ें, अपने AI बायो को प्रेरित करने और अपना बायो जेनरेट करने के लिए एक प्रभावशाली व्यक्ति चुनें
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-social-bio)
+
+<br />
+
+
+
+
+### TweetAI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweetai.webp?twic=v1/resize=240" alt="TweetAI">
+
+#### ट्वीट करने के लिए प्रेरित हों • Tweetai.Com - [Visit](https://www.thataicollection.com/redirect/tweetai)
+
+स्मार्ट एआई ट्वीट जेनरेटर के साथ सेकंडों में प्रेरित हों और अपने ट्वीट लिखें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/tweetai)
+
+<br />
+
+<br />
+
+
+### Tweethunter
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweethunter.webp?twic=v1/resize=240" alt="Tweethunter">
+
+#### ट्वीट हंटर - अधिक ट्विटर फॉलोअर्स प्राप्त करें ट्वीट्स, थ्रेड्स, शेड्यूलर, एनालिटिक्स - [Visit](https://www.thataicollection.com/redirect/tweethunter)
+
+बिक्री, विकास और नए नेटवर्क प्राप्त करें। आप वर्तमान में जो प्रयास कर रहे हैं उससे तेज़।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/tweethunter)
+
+<br />
+
+<br />
+
+
+### TweetEmote
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweetemote.webp?twic=v1/resize=240" alt="TweetEmote">
+
+#### TweetEmote | AI द्वारा संचालित ट्वीट असिस्टेंट
+ - [Visit](https://www.thataicollection.com/redirect/tweetemote)
+
+AI-संचालित ट्वीट सहायक - ट्वीट इमोशन के साथ अभिव्यंजक ट्वीट लिखें और वह सहभागिता पाएं जिसके लिए आपकी सामग्री योग्य है!
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/tweetemote)
+
+<br />
+
+<br />
+
+
+
+[See All 💞 सामाजिक नेटवर्क और डेटिंग Applications on AI Collection](https://www.thataicollection.com/en/categories/social-networks-and-dating)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## भाषण
+
+### Adobe Speech Enhancer
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-speech-enhancer.webp?twic=v1/resize=240" alt="Adobe Speech Enhancer">
+
+#### वॉयस रिकॉर्डिंग को मुफ्त में बढ़ाएं - [Visit](https://www.thataicollection.com/redirect/adobe-speech-enhancer)
+
+स्पीच एन्हांसमेंट वॉयस रिकॉर्डिंग को ध्वनि बनाता है जैसे कि वे एक पेशेवर स्टूडियो में रिकॉर्ड किए गए हों
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/adobe-speech-enhancer)
+
+<br />
+
+<br />
+
+
+### Lingostar
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lingostar.webp?twic=v1/resize=240" alt="Lingostar">
+
+#### लिंगोस्टार - आर्टिफिशियल इंटेलिजेंस के साथ वास्तविक बातचीत - [Visit](https://www.thataicollection.com/redirect/lingostar)
+
+लिंगोस्टार एआई है जिससे भाषा सीखने वाले अंग्रेजी, स्पेनिश या फ्रेंच में बात कर सकते हैं। मुफ़्त में बोली जाने वाली वास्तविक बातचीत के साथ धाराप्रवाहिता तक पहुँचें। अब और शिक्षक नहीं - लिंगोस्टार ए.आई. के साथ चैट करें। अपने उच्चारण, शब्दावली और समझ में सुधार करने के लिए
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/lingostar)
+
+<br />
+
+
+
+
+### Poly AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-poly-ai.webp?twic=v1/resize=240" alt="Poly AI">
+
+#### ग्राहक के नेतृत्व वाली आवाज सहायक - [Visit](https://www.thataicollection.com/redirect/poly-ai)
+
+लगातार अपना सर्वश्रेष्ठ ब्रांड अनुभव प्रदान करें, सटीक समाधान प्राप्त करें और डेटा-संचालित व्यावसायिक अवसरों को उजागर करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/poly-ai)
+
+<br />
+
+<br />
+
+
+### SmallTalk2.me
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-smalltalk2.me.webp?twic=v1/resize=240" alt="SmallTalk2.me">
+
+#### अंग्रेजी बोलने के कौशल के परीक्षण और सुधार के लिए एआई-संचालित शिक्षण सहायक - [Visit](https://www.thataicollection.com/redirect/smalltalk2.me)
+
+स्मॉलटॉक के साथ, शिक्षार्थी अपने अंग्रेजी दक्षता स्तर का स्व-मूल्यांकन कर सकते हैं, अंग्रेजी या आईईएलटीएस परीक्षा में नौकरी के लिए इंटरव्यू की तैयारी कर सकते हैं, और बोलने के अभ्यास में संलग्न हो सकते हैं जो उन्हें कार्यस्थल, शैक्षणिक सेटिंग्स या रोजमर्रा की जिंदगी में बातचीत के लिए तैयार करते हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/smalltalk2.me)
+
+<br />
+
+
+
+
+### SpeechGen.io
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-speechgen.io.webp?twic=v1/resize=240" alt="SpeechGen.io">
+
+####  150 टेक्स्ट-टू-स्पीच भाषाओं और कई एक्सेंट विकल्पों के साथ, SpeechGen.io यूज़र के लिए कई तरह के विकल्प सुनिश्चित करता है, जो वैश्विक और बहुसांस्कृतिक दर्शकों के लिए है। - [Visit](https://www.thataicollection.com/redirect/speechgen.io)
+
+अलग-अलग ऐप्लिकेशन के लिए टेक्स्ट को वास्तविक भाषण में रूपांतरित करें। वीडियो निर्माताओं, शिक्षकों और मार्केटर्स के लिए बिल्कुल सही। आवाज़ों, भाषाओं और एक्सेंट की एक विस्तृत रेंज प्रदान करता है। गति, पिच और ज़ोर देने सहित वॉइस सेटिंग को कस्टमाइज़ करें। वॉयसओवर, ई-लर्निंग सामग्री और विज्ञापन बनाने के लिए आदर्श। टेक्स्ट-टू-स्पीच का एक बहुमुखी और व्यापक समाधान।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/speechgen.io)
+
+<br />
+
+
+
+
+
+[See All 📢 भाषण Applications on AI Collection](https://www.thataicollection.com/en/categories/speech)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## मूलपाठ
+
+### Tally Forms
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tally-forms.webp?twic=v1/resize=240" alt="Tally Forms">
+
+#### फ़ॉर्म बनाने का सबसे आसान तरीका - [Visit](https://www.thataicollection.com/redirect/tally-forms)
+
+सेकंड में सभी उद्देश्यों के लिए फॉर्म बनाएं। कोड को जानने के बिना
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/tally-forms)
+
+<br />
+
+<br />
+
+
+### Scholarcy
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-scholarcy.webp?twic=v1/resize=240" alt="Scholarcy">
+
+#### ऑनलाइन समराइज़िंग टूल - फ्लैशकार्ड जेनरेटर और समराइज़र - स्कॉलरसी - [Visit](https://www.thataicollection.com/redirect/scholarcy)
+
+स्कॉलरसी ™ एक ऑनलाइन सारांश उपकरण है जो लंबे लेखों को सारांश फ्लैशकार्ड में बनाता और परिवर्तित करता है। निःशुल्क साइन अप करें और संक्षेप करना शुरू करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/scholarcy)
+
+<br />
+
+
+
+
+### Jot
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jot.webp?twic=v1/resize=240" alt="Jot">
+
+#### जोत - एआई विज्ञापन प्रति - [Visit](https://www.thataicollection.com/redirect/jot)
+
+Jot स्वचालित रूप से AI का उपयोग करके आपके लिए असीमित विज्ञापन कॉपी विविधताएँ उत्पन्न करता है। आर्टिफिशियल इंटेलिजेंस के साथ अपनी टीम की कॉपी राइटिंग प्रक्रियाओं को कारगर बनाएं। OpenAI GPT-3 द्वारा संचालित।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/jot)
+
+<br />
+
+
+
+
+### Bookclub
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-bookclub.webp?twic=v1/resize=240" alt="Bookclub">
+
+#### Bookclub.Ai - मिलिए योर नेक्स्ट बुक - [Visit](https://www.thataicollection.com/redirect/bookclub)
+
+शक्तिशाली मशीन लर्निंग आधारित सिफारिशों के साथ बेस्टसेलर, मशहूर हस्तियों और पुस्तक-श्रृंखला की पुस्तकों का अन्वेषण करें। Bookclub.ai पर बढ़ते पुस्तकप्रेमी समुदाय का हिस्सा बनें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/bookclub)
+
+<br />
+
+
+
+
+### Namewizard
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-namewizard.webp?twic=v1/resize=240" alt="Namewizard">
+
+#### Namewizard.Ai - आपका AI-महाशक्तिशाली डोमेन नाम जेनरेटर - [Visit](https://www.thataicollection.com/redirect/namewizard)
+
+नेमविज़ार्ड जनरेटर है जो आपके अगले प्रोजेक्ट के लिए सही व्यवसाय और डोमेन नाम खोजने के लिए एआई का उपयोग करता है
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/namewizard)
+
+<br />
+
+<br />
+
+
+### Namelix
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-namelix.webp?twic=v1/resize=240" alt="Namelix">
+
+#### बिजनेस नेम जेनरेटर - फ्री एआई-पावर्ड नेमिंग टूल - नेमलिक्स - [Visit](https://www.thataicollection.com/redirect/namelix)
+
+आर्टिफिशियल इंटेलिजेंस का उपयोग करके एक छोटा, ब्रांड योग्य व्यवसाय नाम उत्पन्न करें। नाम विचार प्राप्त करें Namelix अत्याधुनिक भाषा मॉडल के साथ छोटे, आकर्षक नाम उत्पन्न करता है
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/namelix)
+
+<br />
+
+
+
+
+### Langame card game
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-langame-card-game.webp?twic=v1/resize=240" alt="Langame card game">
+
+#### अपने मित्रों और परिवार के साथ आनंद लेने के लिए एआई-जेनरेटेड वार्तालाप कार्ड गेम - [Visit](https://www.thataicollection.com/redirect/langame-card-game)
+
+ताश के अपने व्यक्तिगत डेक बनाएं और अपने दोस्तों के साथ खेलें। 💅 स्वाइप करके चुनें कि कौन से कार्ड आपके खुद के डेक का हिस्सा होने चाहिए।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/langame-card-game)
+
+<br />
+
+<br />
+
+
+
+[See All 📝 मूलपाठ Applications on AI Collection](https://www.thataicollection.com/en/categories/text)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
+
+## भाषण के पाठ
+
+### Murf.ai
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-murf.ai.webp?twic=v1/resize=240" alt="Murf.ai">
+
+#### वर्सेटाइल एआई वॉयस जेनरेटर के साथ टेक्स्ट से स्पीच पर जाएं - [Visit](https://www.thataicollection.com/redirect/murf.ai)
+
+एआई सक्षम, वास्तविक लोगों की आवाज। मिनटों में स्टूडियो-गुणवत्ता वाला वॉइस ओवर करें। पॉडकास्ट, वीडियो और अपनी सभी पेशेवर प्रस्तुतियों के लिए Murfs की सजीव एआई आवाजों का उपयोग करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/murf.ai)
+
+<br />
+
+
+
+
+### Listnr 2.0
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-listnr-2.0.webp?twic=v1/resize=240" alt="Listnr 2.0">
+
+#### एआई वॉयस जेनरेटर - टेक्स्ट टू स्पीच कन्वर्टर - लिस्टएनआर - [Visit](https://www.thataicollection.com/redirect/listnr-2.0)
+
+सर्वश्रेष्ठ सिंथेटिक आवाजों के साथ हमारे एआई वॉयस जेनरेटर का उपयोग करके यथार्थवादी टेक्स्ट टू स्पीच (टीटीएस) ऑडियो उत्पन्न करें। तुरंत टेक्स्ट को नेचुरल-साउंडिंग स्पीच में कन्वर्ट करें और MP3 और WAV फॉर्मेट में डाउनलोड करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/listnr-2.0)
+
+<br />
+
+
+
+
+### VERBATIK
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-verbatik.webp?twic=v1/resize=240" alt="VERBATIK">
+
+#### एआई पावर्ड टेक्स्ट टू वॉयस जनरेशन। - [Visit](https://www.thataicollection.com/redirect/verbatik)
+
+ऑनलाइन एआई वॉयस जेनरेटर और सर्वश्रेष्ठ सिंथेटिक आवाज का उपयोग करके यथार्थवादी टेक्स्ट टू स्पीच (टीटीएस) ऑडियो उत्पन्न करें। तुरंत टेक्स्ट को नेचुरल-साउंडिंग स्पीच में बदलें और MP3 और WAV ऑडियो फाइलों के रूप में डाउनलोड करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/verbatik)
+
+<br />
+
+
+
+
+### Article.Audio
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-article.audio.webp?twic=v1/resize=240" alt="Article.Audio">
+
+#### लेख को ऑडियो में बदलें - [Visit](https://www.thataicollection.com/redirect/article.audio)
+
+एक लेख पढ़ने के लिए बहुत आलसी? कोई बात नहीं, इसे सुनो! थंडरकंटेंट द्वारा संचालित
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/article.audio)
+
+<br />
+
+<br />
+
+
+### NaturalReader
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-naturalreader.webp?twic=v1/resize=240" alt="NaturalReader">
+
+#### व्यक्तिगत, व्यावसायिक और शैक्षिक उपयोग के लिए #1 टेक्स्ट टू स्पीच समाधान - [Visit](https://www.thataicollection.com/redirect/naturalreader)
+
+AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, कमर्शियल लाइसेंस और शिक्षा के लिए टेक्स्ट टू स्पीच मुफ़्त। NaturalReader टेक्स्ट, PDF और 20+ फ़ॉर्मेट को स्पोकन ऑडियो में बदलता है, ताकि तुम कभी भी, कहीं भी अपने दस्तावेज़ों, ई-बुक्स और स्कूल सामग्री को सुन सकें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/naturalreader)
+
+<br />
+
+
+
+
+### Wavel AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wavel-ai.webp?twic=v1/resize=240" alt="Wavel AI">
+
+#### वीडियो सामग्री निर्माताओं के लिए सर्वश्रेष्ठ एआई डबिंग और अनुवादक - [Visit](https://www.thataicollection.com/redirect/wavel-ai)
+
+एआई उत्कृष्टता के क्षेत्र में कदम रखें - वास्तविक लोगों की आवाज़ें, अब वेवेल एआई द्वारा संचालित। सहजता से त्रुटिहीन स्टूडियो-गुणवत्ता वाले वॉयसओवर बनाएं। हमारी उन्नत एआई डबिंग, अनुवाद और वॉयस क्लोनिंग क्षमताओं के साथ अपने पॉडकास्ट, वीडियो और पेशेवर प्रस्तुतियों को उन्नत बनाएं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/wavel-ai)
+
+<br />
+
+
+
+
+### Createaivoiceovers
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-createaivoiceovers.webp?twic=v1/resize=240" alt="Createaivoiceovers">
+
+#### टेक्स्ट टू स्पीच ऑनलाइन वॉइस जेनरेटर, टेक्स्ट टू स्पीच जनरेटर - यथार्थवादी आवाज़ें - AI वॉइस ओवर बनाएँ - [Visit](https://www.thataicollection.com/redirect/createaivoiceovers)
+
+सजीव जैसी दिखने वाली आकर्षक आवाज़ की मदद से अपने टेक्स्ट को तेज़ी से बोलचाल में बदलें, जो तुम्हारे दर्शकों को पसंद आएगी। तुम्हारी स्क्रिप्ट रिकॉर्ड करवाने के लिए रिकॉर्डिंग स्टूडियो किराए पर लेने की ज़रूरत नहीं है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/createaivoiceovers)
+
+<br />
+
+
+
+
+
+[See All 📝🔉 भाषण के पाठ Applications on AI Collection](https://www.thataicollection.com/en/categories/text-to-speech)
+
+<!--lint ignore double-link-->
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
 
 ---
 
 ## अनुवाद और प्रतिलेख
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Ava](https://www.thataicollection.com/redirect/ava?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बधिरों और होह के लिए पेशेवर और एआई-आधारित कैप्शन - शुक्रिया. | . | :grey_question: |
-| [Deciphr AI](https://www.thataicollection.com/redirect/deciphr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डिसिफर एआई. | डीप एआई द्वारा संचालित, टाइमस्टैंप को डिसीफर करता है और आपके लिए आपके संपूर्ण पॉडकास्ट ट्रांसक्रिप्ट को सारांशित करता है। कॉफी बनाने में जितना समय लगता है, उससे भी कम समय में. | :white_check_mark: |
-| [DeepL](https://www.thataicollection.com/redirect/deepl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डीप ट्रांसलेट: दुनिया का सबसे सटीक अनुवादक. | डीपएल राइट के ज़रिये अपने लेखन में बेहतरीन है। व्याकरण और विराम चिह्न की गलतियों को ठीक करें, वाक्यों को फिर से लिखें, बारीकियां व्यक्त करें और अपनी आवाज़ का सही लहजा ढूँढें. | :white_check_mark: |
-| [Graphic AI](https://www.thataicollection.com/redirect/graphic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टीमों के लिए एआई असिस्टेड वर्क कोलैबोरेशन प्लेटफॉर्म. | स्टॉर्क टीमों को संचार और उत्पादकता में सुधार करने में मदद करता है। यह हाइब्रिड और रिमोट टीमों के लिए एक बिजनेस मैसेंजर है जो सभी मीटिंग्स और कॉल को स्वचालित रूप से रिकॉर्ड और ट्रांसक्राइब करता है। अतुल्यकालिक पोस्ट महामारी दुनिया के लिए बनाया गया है और कृत्रिम बुद्धि द्वारा सहायता प्रदान की गई है।. | :grey_question: |
-| [Papercup](https://www.thataicollection.com/redirect/papercup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पेपरकप - एआई डबिंग और वीडियो ट्रांसलेशन सॉफ्टवेयर. | . | :grey_question: |
-| [Rephrasely](https://www.thataicollection.com/redirect/rephrasely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सभी भाषाओं के लिए मुफ़्त रीफ़्रेज़ जेनरेटर!. | हमारे द्वारा प्रदान की जाने वाली अठारह (12 मुफ़्त और 6 प्रीमियम) शैलियों में से प्रत्येक के लिए 100+ से अधिक भाषाओं में आपके पाठ की विविधताएं उत्पन्न करने के लिए अत्याधुनिक AI का उपयोग करता है। ऐसा करने से, हम किसी भी अन्य सेवा की तुलना में अधिक मूल्य और विविधता प्रदान करने में सक्षम होते हैं।. | :white_check_mark: |
-| [RIVERSIDE](https://www.thataicollection.com/redirect/riverside?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऑडियो और वीडियो ट्रांसक्रिप्शन। AI द्वारा संचालित। 99% सटीकता के साथ ऑडियो और वीडियो को टेक्स्ट में ट्रांसक्रिप्ट करें। 100+ भाषाओं में और मुफ़्त में उपलब्ध है।. | मार्क पर लिखता है। अपने ऑडियो को टेक्स्ट में पूरी सटीकता के साथ, शब्द दर शब्द, अंतिम शब्दांश, मुहावरे और बारीकियां में बदलने के लिए एडवांस एल्गोरिदम और AI का इस्तेमाल करें।  100+ भाषाओं में मूल निवासी। 100 अलग-अलग भाषाओं और मुहावरे में अपने-आप ट्रांसक्रिप्शन, इस पर तुम्हारे द्वारा फेंके गए किसी भी एक्सेंट या क्षेत्रीय विवरण से कई गुना बढ़ जाता है।. | :white_check_mark: |
-| [Rythmex](https://www.thataicollection.com/redirect/rythmex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Rythmex कन्वर्टर के साथ ऑडियो को टेक्स्ट में बदलें. | आसानी से, जल्दी और प्रभावी रूप से ऑडियो को टेक्स्ट में ट्रांसक्रिप्ट करें. | :white_check_mark: |
-| [ScreenApp](https://www.thataicollection.com/redirect/screenapp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऑनलाइन स्क्रीन रिकॉर्डर - अपनी स्क्रीन रिकॉर्ड करने और शक्तिशाली अंतर्दृष्टि निकालने, साझा करने और सारांशित करने का सबसे तेज़ और सबसे कुशल तरीका।. | कुछ ही क्लिक के साथ, आप अपनी स्क्रीन को रिकॉर्ड कर सकते हैं, इसे ट्रांसक्राइब कर सकते हैं और अपनी सामग्री को मूल्यवान ज्ञान में बदल सकते हैं। थकाऊ नोट लेने को अलविदा कहें और उत्पादकता को नमस्कार करें। आज ही ScreenApp आज़माएं और अपने सीखने और काम करने के तरीके में क्रांति लाएं. | :white_check_mark: |
-| [Scribebuddy](https://www.thataicollection.com/redirect/scribebuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई का प्रयोग करें। ट्रांसक्रिप्शन के लिए, उपशीर्षक बनाना, अनुवाद और बहुत कुछ. | किसी भी ऑडियो, वीडियो, जूम कॉल, गूगल मीट, पॉडकास्ट, लाइव स्पीच आदि को मिनटों में अपने आप ट्रांसक्राइब करें. | :x: |
-| [Snipd Podcast Summaries](https://www.thataicollection.com/redirect/snipd-podcast-summaries?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पॉडकास्ट में ज्ञान अनलॉक करें - Snipd. | हाइलाइट खोजें अपने पसंद के पॉडकास्ट से सबसे अच्छी हाइलाइट सुनें और पूरे एपिसोड में गोता लगाएँ. | :white_check_mark: |
-| [Sumly](https://www.thataicollection.com/redirect/sumly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-जनरेटेड पॉडकास्ट सारांश - Sumly.Ai. | व्यस्त कार्यक्रम को सर्वश्रेष्ठ से सीखने से पीछे न हटने दें। AI-जनित पॉडकास्ट सारांश सीधे आपके इनबॉक्स में डिलीवर किए जाते हैं। अपने पसंदीदा शो पर अद्यतित रहें और नए खोजें।. | :white_check_mark: |
-| [Supertranslate](https://www.thataicollection.com/redirect/supertranslate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सुपरट्रांसलेट - वीडियो में स्वचालित रूप से उपशीर्षक जोड़ें. | ओपनएआई के व्हिस्पर द्वारा संचालित, दुनिया का सबसे सटीक भाषण-से-पाठ इंजन!. | :grey_question: |
-| [Taption](https://www.thataicollection.com/redirect/taption?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्वचालित रूप से प्रतिलेख, अनुवाद और उपशीर्षक उत्पन्न करें - Taption. | . | :grey_question: |
-| [TranscriptLOL](https://www.thataicollection.com/redirect/transcriptlol?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 1500+ प्लेटफ़ॉर्म से किसी भी ऑडियो या वीडियो को ट्रांसक्राइब करें।. | किसी भी वीडियो या पॉडकास्ट को ट्रांसक्राइब और अनुवाद करें। प्रश्न पूछें और संदर्भ के रूप में केवल प्रतिलेख का उपयोग करके उत्तर प्राप्त करें - कोई मतिभ्रम नहीं! वीडियो या पॉडकास्ट का सारांश और चर्चा किए गए सभी विषयों की सूची प्राप्त करें। ट्रांस्क्रिप्ट के बिना वीडियो पर काम करता है। प्रतिलेख में वक्ताओं की पहचान करता है। यूट्यूब या अन्य स्वतः उत्पन्न कैप्शन की तुलना में प्रतिलेखों की सटीकता बहुत अधिक है!. | :white_check_mark: |
-| [TranslateVideo](https://www.thataicollection.com/redirect/translatevideo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अनुवाद करें। वीडियो - सिर्फ़ 1 क्लिक से वीडियो ट्रांसलेट करें. | वह सब कुछ जो तुम्हारे वीडियो को एक ही ऐप में चाहिए: कैप्शन जेनरेट करें, सबटाइटल ट्रांसलेट करें, वीडियो डबिंग, AI वॉयस-ओवर, वॉइस ट्रांसक्रिप्ट रिकॉर्ड करें वगैरह। &n हफ़्तों या महीनों को बर्बाद करना बंद करोn, 100 गुना तेज़ी से वीडियो ट्रांसलेट और सबटाइटल करें. | :grey_question: |
-| [VideoDub](https://www.thataicollection.com/redirect/videodub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आसानी से अपने वीडियो का अनुवाद करें और वॉयसओवर करें. | Videodub.io एक एआई-संचालित प्लेटफॉर्म है जो वीडियो में पेशेवर-गुणवत्ता वाले वॉइस-ओवर जोड़ने की प्रक्रिया को सरल करता है। यह भाषण का लिप्यंतरण करता है, इसका अनुवाद करता है, और आपकी पसंद की भाषा में एक प्राकृतिक-ध्वनि वाला वॉइस-ओवर जोड़ता है। यह सामग्री निर्माताओं के लिए एक आवश्यक उपकरण है जो न्यूनतम प्रयास और बिना किसी शारीरिक श्रम के विश्व स्तर पर अपनी पहुंच का विस्तार करना चाहते हैं।. | :white_check_mark: |
-| [Voicetapp](https://www.thataicollection.com/redirect/voicetapp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वॉयसटैप - स्पीच टू टेक्स्ट ट्रांसक्रिप्शन. | नवीनतम भाषण पहचान तकनीक के साथ अपने ऑडियो और वीडियो के लिए सटीक ट्रांसक्रिप्शन प्राप्त करें।. | :grey_question: |
-| [WhisperAPI](https://www.thataicollection.com/redirect/whisperapi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Whisper API एक किफ़ायती, उपयोग में आसान ऑडियो ट्रांसक्रिप्शन API है, जो OpenAI के व्हिस्पर मॉडल द्वारा संचालित है. | आज ही 30 मिनट के मुफ़्त ऑडियो ट्रांसक्रिप्शन के लिए व्हिस्पर एपीआई ट्रांसक्रिप्शन डैशबोर्ड में साइन इन करें! हम तुम्हेंं अपने API के ज़रिए ऑडियो फ़ाइलें भेजने के लिए एक API कुंजी देते हैं और OpenAI Whisper का उपयोग करके, हम उस ऑडियो को ट्रांसक्रिप्शन करते हैं और तुम्हेंं वापस ट्रांसक्रिप्शन भेजते हैं।. | :grey_question: |
 
+### TranslateVideo
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-translatevideo.webp?twic=v1/resize=240" alt="TranslateVideo">
+
+#### अनुवाद करें। वीडियो - सिर्फ़ 1 क्लिक से वीडियो ट्रांसलेट करें - [Visit](https://www.thataicollection.com/redirect/translatevideo)
+
+वह सब कुछ जो तुम्हारे वीडियो को एक ही ऐप में चाहिए: कैप्शन जेनरेट करें, सबटाइटल ट्रांसलेट करें, वीडियो डबिंग, AI वॉयस-ओवर, वॉइस ट्रांसक्रिप्ट रिकॉर्ड करें वगैरह। &n हफ़्तों या महीनों को बर्बाद करना बंद करोn, 100 गुना तेज़ी से वीडियो ट्रांसलेट और सबटाइटल करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/translatevideo)
+
+<br />
+
+
+
+
+### Rephrasely
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rephrasely.webp?twic=v1/resize=240" alt="Rephrasely">
+
+#### सभी भाषाओं के लिए मुफ़्त रीफ़्रेज़ जेनरेटर! - [Visit](https://www.thataicollection.com/redirect/rephrasely)
+
+हमारे द्वारा प्रदान की जाने वाली अठारह (12 मुफ़्त और 6 प्रीमियम) शैलियों में से प्रत्येक के लिए 100+ से अधिक भाषाओं में आपके पाठ की विविधताएं उत्पन्न करने के लिए अत्याधुनिक AI का उपयोग करता है। ऐसा करने से, हम किसी भी अन्य सेवा की तुलना में अधिक मूल्य और विविधता प्रदान करने में सक्षम होते हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/rephrasely)
+
+<br />
+
+
+
+
+### RIVERSIDE
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-riverside.webp?twic=v1/resize=240" alt="RIVERSIDE">
+
+#### ऑडियो और वीडियो ट्रांसक्रिप्शन। AI द्वारा संचालित।
+99% सटीकता के साथ ऑडियो और वीडियो को टेक्स्ट में ट्रांसक्रिप्ट करें।
+100+ भाषाओं में और मुफ़्त में उपलब्ध है। - [Visit](https://www.thataicollection.com/redirect/riverside)
+
+मार्क पर लिखता है।
+अपने ऑडियो को टेक्स्ट में पूरी सटीकता के साथ, शब्द दर शब्द, अंतिम शब्दांश, मुहावरे और बारीकियां में बदलने के लिए एडवांस एल्गोरिदम और AI का इस्तेमाल करें।
+
+100+ भाषाओं में मूल निवासी।
+100 अलग-अलग भाषाओं और मुहावरे में अपने-आप ट्रांसक्रिप्शन, इस पर तुम्हारे द्वारा फेंके गए किसी भी एक्सेंट या क्षेत्रीय विवरण से कई गुना बढ़ जाता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/riverside)
+
+<br />
+
+
+
+
+### Rythmex
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rythmex.webp?twic=v1/resize=240" alt="Rythmex">
+
+#### Rythmex कन्वर्टर के साथ ऑडियो को टेक्स्ट में बदलें - [Visit](https://www.thataicollection.com/redirect/rythmex)
+
+आसानी से, जल्दी और प्रभावी रूप से ऑडियो को टेक्स्ट में ट्रांसक्रिप्ट करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/rythmex)
+
+<br />
+
+<br />
+
+
+### Deciphr AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-deciphr-ai.webp?twic=v1/resize=240" alt="Deciphr AI">
+
+#### डिसिफर एआई - [Visit](https://www.thataicollection.com/redirect/deciphr-ai)
+
+डीप एआई द्वारा संचालित, टाइमस्टैंप को डिसीफर करता है और आपके लिए आपके संपूर्ण पॉडकास्ट ट्रांसक्रिप्ट को सारांशित करता है। कॉफी बनाने में जितना समय लगता है, उससे भी कम समय में
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/deciphr-ai)
+
+<br />
+
+
+
+
+### Graphic AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-graphic-ai.webp?twic=v1/resize=240" alt="Graphic AI">
+
+#### टीमों के लिए एआई असिस्टेड वर्क कोलैबोरेशन प्लेटफॉर्म - [Visit](https://www.thataicollection.com/redirect/graphic-ai)
+
+स्टॉर्क टीमों को संचार और उत्पादकता में सुधार करने में मदद करता है। यह हाइब्रिड और रिमोट टीमों के लिए एक बिजनेस मैसेंजर है जो सभी मीटिंग्स और कॉल को स्वचालित रूप से रिकॉर्ड और ट्रांसक्राइब करता है। अतुल्यकालिक पोस्ट महामारी दुनिया के लिए बनाया गया है और कृत्रिम बुद्धि द्वारा सहायता प्रदान की गई है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/graphic-ai)
+
+<br />
+
+
+
+
+### Snipd Podcast Summaries
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-snipd-podcast-summaries.webp?twic=v1/resize=240" alt="Snipd Podcast Summaries">
+
+#### पॉडकास्ट में ज्ञान अनलॉक करें - Snipd - [Visit](https://www.thataicollection.com/redirect/snipd-podcast-summaries)
+
+हाइलाइट खोजें अपने पसंद के पॉडकास्ट से सबसे अच्छी हाइलाइट सुनें और पूरे एपिसोड में गोता लगाएँ
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/snipd-podcast-summaries)
+
+<br />
+
+<br />
+
+
+
+[See All 🇺🇳 अनुवाद और प्रतिलेख Applications on AI Collection](https://www.thataicollection.com/en/categories/translation-and-transcript)
 
 <!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
 
-## अनुसंधान सहायक
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Afforai Build](https://www.thataicollection.com/redirect/afforai-build?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपका एआई रीडिंग कोपायलट। पाठ विश्लेषण, अनुसंधान और दस्तावेज़ खोज के लिए आवश्यक उपकरण. | रिपोर्ट का मसौदा तैयार करना पढ़ने के लिए बहुत सारे दस्तावेज़ हैं? अफ़ोराई आपके लिए एक पूरी रिपोर्ट का विश्लेषण और मसौदा तैयार करेगा और साथ ही दस्तावेज़ों के बारे में किसी भी प्रश्न का उत्तर देगा। स्प्रेडशीट क्वेरी - प्राकृतिक भाषा क्वेरी का उपयोग करके रिपोर्ट और स्प्रेडशीट से महत्वपूर्ण जानकारी निकालने के लिए अफ़ोराई का उपयोग करें। वेब स्क्रैपिंग - अफ़ोराई कई वेबसाइटों को खंगाल सकता है और महत्वपूर्ण जानकारी निकाल सकता है।. | :white_check_mark: |
-| [Elicit](https://www.thataicollection.com/redirect/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एलिसिट: एआई रिसर्च असिस्टेंट. | एलिसिट आपके शोध में आपकी मदद करने के लिए मशीन लर्निंग का उपयोग करता है: कागजात खोजें, प्रमुख दावों को निकालें, सारांशित करें, विचार मंथन करें, और बहुत कुछ।. | :grey_question: |
-| [Explainpaper](https://www.thataicollection.com/redirect/explainpaper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | शोध पत्रों को पढ़ने का सबसे तेज़ तरीका. | एक पेपर अपलोड करें, भ्रमित करने वाले टेक्स्ट को हाइलाइट करें, स्पष्टीकरण प्राप्त करें। हम शोध पत्रों को पढ़ने में आसान बनाते हैं।. | :white_check_mark: |
-| [RTutor](https://www.thataicollection.com/redirect/rtutor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | दर्जनों मानवीय भाषाओं में अपने डेटा के साथ चैट करें।. | RTutor प्राकृतिक भाषा को R कोड में अनुवाद करने के लिए OpenAI के शक्तिशाली बड़े भाषा मॉडल का उपयोग करता है, जिसे बाद में एक्सक्यूट किया जाता है। आप अपने विश्लेषण का अनुरोध कर सकते हैं, जैसे किसी वास्तविक व्यक्ति से पूछ रहे हों। एक डेटा फ़ाइल (CSV, TSV/टैब-डीलिमिटेड टेक्स्ट फ़ाइलें, और एक्सेल) अपलोड करें और सरल अंग्रेजी में इसका विश्लेषण करें। आपके परिणाम मिनटों में HTML रिपोर्ट के रूप में डाउनलोड किए जा सकते हैं!. | :white_check_mark: |
-| [Scispace](https://www.thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टाइपसेट द्वारा स्किस्पेस - डिस्कवर करें, बनाएं, प्रकाशित करें और अपने शोध पत्र का प्रचार करें. | कागजात तलाशने और समझाने के लिए आपका मंच। 270M+ पेपर खोजें, उन्हें सरल भाषा में समझें, और जुड़े हुए पेपर, लेखक, विषय खोजें।. | :grey_question: |
-| [Synthical](https://www.thataicollection.com/redirect/synthical?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-संचालित सहयोगात्मक अनुसंधान वातावरण. | जटिल शब्दों को समझने के लिए लेखों को सरल बनाएं, अच्छी अनुशंसाएँ प्राप्त करें, समान लेख खोजें और टीम के साथ आसानी से सहयोग करें।. | :white_check_mark: |
-| [Vocads Survey](https://www.thataicollection.com/redirect/vocads-survey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | संवादी आवाज एआई द्वारा सर्वेक्षण को फिर से खोजा गया. | कंपनियों के पास अपने सर्वेक्षणों पर प्रतिक्रियाओं और जुड़ाव की कमी है। एआई के साथ वॉयस बातचीत के जरिए वोकाड्स ने सर्वेक्षण के अनुभव को नया रूप दिया।. | :grey_question: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
+---
 
 ## अवकाश और ट्रिप प्लानर
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Orkoi](https://www.thataicollection.com/redirect/orkoi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Orkoi - सेकंड में एक व्यक्तिगत यात्रा योजना बनाएं, निःशुल्क, कोई पंजीकरण नहीं. | हमारा एआई आपको किसी भी शहर या स्थान के लिए एक अनुकूलित योजना तैयार करेगा, जहां आप जाना चाहते हैं, रेस्तरां, मजेदार गतिविधियों, आकर्षण और सर्वोत्तम साहसिक कार्य करने के लिए युक्तियों के साथ पूरा करें।. | :white_check_mark: |
-| [Roamr](https://www.thataicollection.com/redirect/roamr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रोमर - सेकेंड में आपका ड्रीम वेकेशन. | . | :grey_question: |
-| [Travel Blog Name Ideas Generator](https://www.thataicollection.com/redirect/travel-blog-name-ideas-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | यात्रा ब्लॉग नाम विचार जेनरेटर: सही यात्रा ब्लॉग नाम खोजें!. | TravelFeed के ब्लॉग नाम विचार जनरेटर के साथ सही यात्रा ब्लॉग नाम अनलॉक करें! एक कीवर्ड डालें - शायद आपका अपना नाम - और देखें कि हमारा एआई आपको कई आकर्षक सुझावों से चकाचौंध कर देता है। क्या आपको कोई नाम पसंद है? इसके .com डोमेन और TravelFeed उपयोगकर्ता नाम की उपलब्धता को स्नैप-चेक करें। एक ऐसे नाम के साथ अपनी ब्लॉगिंग यात्रा शुरू करें जो आपकी तरह ही साहसिक हो!. | :white_check_mark: |
-| [Vacay](https://www.thataicollection.com/redirect/vacay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अवकाश चैट एजेंट. | यह एआई-सहायक एक कस्टम ट्रिप डिजाइन कर सकता है, आपको कहां जाना है, इस पर प्रेरणा देता है, और यहां तक कि होटल, रेस्तरां और आकर्षण के लिए स्थानीय अनुशंसाएं भी उत्पन्न करता है।. | :white_check_mark: |
+
+### Vacay
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-vacay.webp?twic=v1/resize=240" alt="Vacay">
+
+#### अवकाश चैट एजेंट - [Visit](https://www.thataicollection.com/redirect/vacay)
+
+यह एआई-सहायक एक कस्टम ट्रिप डिजाइन कर सकता है, आपको कहां जाना है, इस पर प्रेरणा देता है, और यहां तक कि होटल, रेस्तरां और आकर्षण के लिए स्थानीय अनुशंसाएं भी उत्पन्न करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/vacay)
+
+<br />
 
 
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## अवतारों
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [AI Profile Pictures](https://www.thataicollection.com/redirect/ai-profile-pictures?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई प्रोफाइल पिक्चर्स. | अब बीटा में उपलब्ध है।. | :x: |
-| [AIprofilepic](https://www.thataicollection.com/redirect/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई का उपयोग करके आश्चर्यजनक प्रोफ़ाइल चित्र बनाएं - Aiprofilepic.Art. | हमारी उपयोग में आसान एआई तकनीक के साथ कुछ ही क्लिक में अपने संपूर्ण अवतार बनाएं।. | :grey_question: |
-| [AIVatar](https://www.thataicollection.com/redirect/aivatar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऐवतार - मैजिक अवतार जेनरेटर. | अपनी तस्वीरों से जादू अवतार कला उत्पन्न करें।. | :grey_question: |
-| [ARTI.PICS](https://www.thataicollection.com/redirect/arti.pics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-संचालित अवतार निर्माता. | Arti.Pics आपको अपनी कुछ तस्वीरें अपलोड करने की अनुमति देता है और विभिन्न शैलियों में 200 से अधिक आकर्षक दिखने वाले अवतार उत्पन्न करता है।. | :x: |
-| [Autoportrait](https://www.thataicollection.com/redirect/autoportrait?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऑटोपोर्ट्रेट - एआई पोर्ट्रेट बनाएं. | लाखों शैलियाँ ब्राउज़ करें या अपना स्वयं का बनाएँ, AI ऑटोपोर्ट्रेट बनाएँ।. | :grey_question: |
-| [AvatarAI](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपना खुद का फोटोरियलिस्टिक एआई अवतार बनाएं. | रूपांतरित करने के लिए 112+ विभिन्न शैलियों में से चुनें. | :x: |
-| [Avatarize.club](https://www.thataicollection.com/redirect/avatarize.club?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उच्च गुणवत्ता वाले एआई-जेनरेटेड अवतार बनाएं. | पेशेवर तस्वीरें, सोशल मीडिया डीपी, खेल अवतार, डेटिंग प्रोफ़ाइल तस्वीरें, और अधिक स्थिर प्रसार 2.1 द्वारा संचालित. | :x: |
-| [Avtrs](https://www.thataicollection.com/redirect/avtrs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हैप्पी यूजर्स द्वारा बनाए गए अवतार. | यह काम किस प्रकार करता है? 1. अलग-अलग कोणों से अपनी (या अन्य व्यक्ति की) कुछ सेल्फी अपलोड करें। 2. रुकिए - जब तक हम आपकी तस्वीरों के आधार पर आपका स्टूडियो बना रहे हैं, तब तक कॉफी लें। 3. शीघ्र - सही संकेत तैयार करने के लिए अपनी कल्पना का प्रयोग करें!. | :white_check_mark: |
-| [BetterPic](https://www.thataicollection.com/redirect/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बेटरपिक: कैज़ुअल फ़ोटो को पेशेवर हेडशॉट में बदलें. | बेटरपिक खोजें: त्रुटिहीन कॉर्पोरेट हेडशॉट्स के लिए एआई-संचालित समाधान। बस 15 छवियां अपलोड करें, अपनी इच्छित शैली चुनें, और 2 घंटे के भीतर, सैकड़ों दोषरहित हेडशॉट प्राप्त करें।   अपने परिणामों से अपने पसंदीदा चुनें और डाउनलोड करें—वे स्टूडियो शॉट्स से अप्रभेद्य हैं, फिर भी पारंपरिक फोटोशूट की तुलना में 20 गुना अधिक किफायती हैं।. | :white_check_mark: |
-| [Character.io](https://www.thataicollection.com/redirect/character.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | नए कार्टून चरित्रों को उत्पन्न करने के लिए नि: शुल्क उपकरण. | GAN की शक्ति से वर्णों या अवतारों का एक यादृच्छिक सेट उत्पन्न करें। नया सेट बनाने के लिए स्पेसबार दबाएं. | :white_check_mark: |
-| [DreamPic](https://www.thataicollection.com/redirect/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ड्रीमपिक.ऐ. | एआई ने आपके अभिनीत चित्र तैयार किए. | :grey_question: |
-| [Dreamwave AI](https://www.thataicollection.com/redirect/dreamwave-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ड्रीमवेव एआई - एआई लुक के बिना प्राकृतिक एआई हेडशॉट के लिए अगली पीढ़ी का एआई हेडशॉट जनरेटर. | ड्रीमवेव एक एआई हेडशॉट जनरेटर है जो दो घंटे से कम समय में अगली पीढ़ी, उच्च गुणवत्ता वाले एआई हेडशॉट का उत्पादन कर सकता है। इसका इस्तेमाल करने के लिए यूजर्स को सिर्फ 5-8 सैंपल फोटो अपलोड करने होंगे।  ड्रीमवेव का एआई हेडशॉट जनरेटर पहले एमआईटी और गूगल ब्रेन में एआई विशेषज्ञों की एक टीम द्वारा विकसित किया गया था।  ड्रीमवेव के वास्तविक ग्राहक परिणामों के उदाहरण देखने के लिए, https://www.dreamwave.ai/ai-headshots पर जाएं।. | :grey_question: |
-| [EpicAvatar](https://www.thataicollection.com/redirect/epicavatar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एपिक अवतार - एआई प्रोफाइल पिक्चर जेनरेटर. | अपना खुद का अत्याधुनिक AI अवतार प्रोफ़ाइल चित्र बनाएं. | :x: |
-| [Face Swapper](https://www.thataicollection.com/redirect/face-swapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फेस स्वैपर ऑनलाइन. | फ़ोटो और वीडियो से चेहरे की अदला-बदली अपने आप करें। मुफ्त और असीमित फोटो अदला-बदली. | :white_check_mark: |
-| [Hairgen](https://www.thataicollection.com/redirect/hairgen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई का उपयोग करके अपने फ्यू/फुट हेयर ट्रांसप्लांट का पूर्वावलोकन करें - हेयरजेन.एआई. | क्या आपने कभी सोचा है कि हेयर ट्रांसप्लांट के बाद आप कैसे दिखेंगे? FUE/FUT प्रक्रिया पर हजारों डॉलर खर्च करने से पहले अंदाजा लगा लें कि आप कैसे दिखेंगे। अभी एआई के साथ अपनी हेयरलाइन को नीचे देखें।. | :x: |
-| [HairstyleAI](https://www.thataicollection.com/redirect/hairstyleai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ नई हेयर स्टाइल आज़माएं - हेयरस्टाइल एआई. | नए लुक के लिए तैयार हैं? अपनी तस्वीरें अपलोड करें और आर्टिफिशियल इंटेलिजेंस तकनीक को आपके लिए नई हेयर स्टाइल बनाने दें। इसे आज ही आजमाएं!. | :x: |
-| [HeroPack](https://www.thataicollection.com/redirect/heropack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हीरोपैक. | अपने पसंदीदा वीडियो गेम से प्रेरित AI जनित अवतारों के साथ हीरो बनें।. | :grey_question: |
-| [Magic AI Avatars](https://www.thataicollection.com/redirect/magic-ai-avatars?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | आर्टिफिशियल इंटेलिजेंस द्वारा बनाए गए 200+ कस्टम अवतार प्राप्त करें।. | :grey_question: |
-| [Passphoto](https://www.thataicollection.com/redirect/passphoto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ अपना पासपोर्ट फोटो बनाएं. | यह चार सरल चरणों में कैसे काम करता है: देश और इनपुट, आर्टिफिशियल इंटेलिजेंस, चेक और क्रॉप, अपनी तस्वीरों का आनंद लें! Passphoto.ai इंटरनेट उद्यमी Gijs Heerkens का एक विचार है। 2009 से, हम ऐसी तकनीकों का विकास कर रहे हैं जो लोगों को पासपोर्ट फोटो ऑनलाइन बनाने में सक्षम बनाती हैं।. | :x: |
-| [Pfpmaker](https://www.thataicollection.com/redirect/pfpmaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक बढ़िया प्रोफ़ाइल पिक्चर मुफ़्त में बनाएं. | अपनी फ़ोटो अपलोड करें और तुरंत AI के साथ सैकड़ों पेशेवर प्रोफ़ाइल चित्र बनाएं, ताकि अपना सर्वश्रेष्ठ ऑनलाइन प्रदर्शन किया जा सके। LinkedIn, CV, और रिज्यूमे के लिए बिज़नेस हेडशॉट शैलियों में से चुनें या Instagram और मैसेजिंग के लिए क्रिएटिव फ़्लेयर में से चुनें. | :white_check_mark: |
-| [PhotoAI](https://www.thataicollection.com/redirect/photoai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फोटाई. | अपनी एआई-जेनरेट की गई छवियां बनाएं. | :grey_question: |
-| [PhotoLeaf](https://www.thataicollection.com/redirect/photoleaf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फोटोलीफ एआई. | अपने एआई-जनित सोशल मीडिया चित्र बनाएं. | :grey_question: |
-| [Photoshot](https://www.thataicollection.com/redirect/photoshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपका एआई अवतार जेनरेटर. | अवतार उत्पन्न करें जो आपकी अनूठी शैली को पूरी तरह से कैप्चर करें. | :x: |
-| [Pictureperfect](https://www.thataicollection.com/redirect/pictureperfect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई अवतार जेनरेटर और मेकर - पिक्चरपरफेक्ट।एआई. | एआई तकनीक की मदद से रचनात्मक बनें और अपना खुद का वैयक्तिकृत अवतार डिजाइन करें। बस एक फोटो अपलोड करें और हमारा सिस्टम आपका प्रतिनिधित्व करने वाला एक अनूठा अवतार उत्पन्न करेगा। सोशल मीडिया पर दोस्तों और परिवार के साथ अपना पिक्चर परफेक्ट अवतार साझा करें और अपनी रचनात्मकता को चमकने दें!. | :grey_question: |
-| [PIXELVIBE](https://www.thataicollection.com/redirect/pixelvibe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई सुव्यवस्थित क्रिएटिव वर्कफ़्लो।. | प्रस्तुतियाँ बनाएँ, डिज़ाइन, स्टॉक फ़ोटो, इंस्टाग्राम प्रोमो, उत्पाद फ़ोटोग्राफ़ी, वेक्टर कला, एनिमेटेड अवतार. | :grey_question: |
-| [Posed](https://www.thataicollection.com/redirect/posed?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उत्पन्न. | अपनी तस्वीरें अपलोड करें और हमारे एआई को आपके जैसी दिखने वाली शैलियों की एक विस्तृत श्रृंखला में आश्चर्यजनक उच्च-गुणवत्ता वाले पोर्ट्रेट बनाने दें।. | :grey_question: |
-| [ProfilePicture.ai](https://www.thataicollection.com/redirect/profilepicture.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऐ के साथ अपना संपूर्ण प्रोफ़ाइल चित्र बनाएं।. | #1 एआई प्रोफाइल पिक्चर मेकर और जेनरेटर जब लोग आपकी प्रोफाइल देखते हैं तो सबसे पहले आपकी प्रोफाइल पिक्चर देखते हैं। हम आर्टिफिशियल इंटेलिजेंस का उपयोग आपके जादुई अवतारों को उत्पन्न करने के लिए करते हैं जो एकदम सही दिखता है और आपको दर्शाता है कि आप कौन हैं। आप कुछ भी या कोई भी हो सकते हैं!. | :x: |
-| [ReflectMe](https://www.thataicollection.com/redirect/reflectme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मुझे प्रतिबिंबित करें। - अपने एआई अवतार उत्पन्न करें!. | अपने आप को उस तरह से देखें जैसा आपने पहले कभी नहीं देखा! आर्टिफिशियल इंटेलिजेंस का उपयोग करके अपने एआई अवतार, एआई फोटो, एआई फोटोग्राफ, प्रोफाइल पिक्चर, लिंक्डइन प्रोफेशनल प्रोफाइल फोटो जेनरेट करें! स्थिर प्रसार और ड्रीमबूथ पर निर्मित।. | :grey_question: |
-| [Stableboost](https://www.thataicollection.com/redirect/stableboost?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऐ के साथ वैयक्तिकृत छवियां बनाएं!. | अपनी, किसी प्रियजन, किसी पालतू जानवर, किसी उत्पाद या अपनी पसंद की शैली की कुछ तस्वीरें अपलोड करें, और हम सैकड़ों अलग-अलग शैलियों में आपके चित्र बनाने के लिए स्वचालित रूप से एक AI मॉडल को प्रशिक्षित करेंगे।. | :x: |
-| [Theoasis](https://www.thataicollection.com/redirect/theoasis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ओएसिस ने कभी इस बात की चिंता नहीं की कि आप फिर से कैमरे में कैसे दिखते हैं. | एक फोटोरिअलिस्टिक अवतार बनाएं जिसका उपयोग आप हर वीडियो प्लेटफॉर्म पर कर सकते हैं।. | :grey_question: |
-| [Tokkingheads](https://www.thataicollection.com/redirect/tokkingheads?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई मैजिक के ज़रिए पोर्ट्रेट्स को जीवंत करो। तुरन्त।. | टॉकिंगहेड्स - सिर्फ़ एक तस्वीर से किसी भी अवतार की कठपुतली बनाना AI मैजिक के ज़रिए पोर्ट्रेट्स को जीवंत करें। तुरन्त। रोज़बड एआई द्वारा बनाया गया।. | :white_check_mark: |
-| [Tryitonai](https://www.thataicollection.com/redirect/tryitonai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आश्चर्यजनक पेशेवर हेडशॉट्स और पोर्ट्रेट्स - इसे एआई पर आज़माएं. | 24 घंटे से भी कम समय में पेशेवर स्टूडियो गुणवत्ता वाले हेडशॉट प्राप्त करें! लिंक्डइन, सामाजिक, टीम और डेटिंग तस्वीरों के लिए बिल्कुल सही।. | :grey_question: |
-| [xpression camera 2.0](https://www.thataicollection.com/redirect/xpression-camera-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक्सप्रेशन कैमरा. | जूम, ट्विच या किसी स्ट्रीमिंग वीडियो पर कोई भी बनें. | :grey_question: |
 
 
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
+### Roamr
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-roamr.webp?twic=v1/resize=240" alt="Roamr">
 
-## आईडिया जनरेशन
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Business Idea Generator](https://www.thataicollection.com/redirect/business-idea-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मंथन व्यापार विचार. | एआई की शक्ति के साथ सेकेंडों में वैयक्तिकृत व्यावसायिक विचार प्राप्त करें।. | :white_check_mark: |
-| [Ideasai](https://www.thataicollection.com/redirect/ideasai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आइडियासाई - OpenAI द्वारा संचालित स्टार्टअप के विचार. | ऐसे विचार जो 100% OpenAI के GPT-3 द्वारा तैयार किए गए हैं, जो कृत्रिम रूप से इंटेलिजेंट डीप लर्निंग मॉडल है, बिना मानवीय भागीदारी के, और तुम्हेंं और 1,856,031+ अन्य लोगों द्वारा प्रशिक्षित किया गया है, जिन्हें विचार पसंद या नापसंद हैं. | :white_check_mark: |
-| [My Spicy Vanilla](https://www.thataicollection.com/redirect/my-spicy-vanilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | माय स्पाइसी वनीला का एआई डेट आइडिया जेनरेटर. | माय स्पाइसी वनीला का AI डेट आइडिया जेनरेटर एक ऐसा टूल है जो AI का इस्तेमाल अनोखे डेट नाइट प्लान बनाने के लिए करता है।  टूल का इस्तेमाल करने के लिए, यूज़र को एक फ़ॉर्म भरने के लिए कहा जाता है, जिसमें श्रेणी, स्थान, बजट, अवधि और दिन का समय जैसी मूलभूत जानकारी दी जाती है।  सबमिट करने के बाद, हमारा AI तारीख के लिए खास जानकारी तैयार करता है, जिसमें अनुभव को बेहतर बनाने के लिए उपयोगी टिप्स, प्रॉडक्ट के सुझाव दिए गए हैं. | :white_check_mark: |
-| [Paperade](https://www.thataicollection.com/redirect/paperade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पेपरेड स्टार्टअप आइडिया जेनरेटर. | पेपरेड पहला एआई-संचालित उपकरण है जो 100 मिलियन से अधिक अकादमिक पत्रों और शोध अध्ययनों से व्यावसायिक उपयोग के मामलों और कंपनी के विचारों को उत्पन्न करता है।. | :grey_question: |
-| [Validator AI](https://www.thataicollection.com/redirect/validator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी उद्यमशीलता की यात्रा आज ही मुफ़्त में शुरू करें. | अपना स्टार्टअप आइडिया डालें और हमारे AI स्टार्टअप मेंटर इसका मुफ़्त में विश्लेषण करेंगे। तुम हमारे AI मेंटर चैटबॉट से जितना चाहें बात कर सकते हो और स्टार्टअप शुरू करने के बारे में तुम्हेंं जो कुछ भी जानने की ज़रूरत हो उसे सीख सकते हो!. | :grey_question: |
-| [Videomuse](https://www.thataicollection.com/redirect/videomuse?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बस अपने चैनल का यूआरएल चिपकाकर आसानी से ताज़ा वीडियो आइडिया जनरेट करें। सेकंड में, अपनी सामग्री के अनुरूप प्रेरणा का खजाना प्राप्त करें।. | सामग्री निर्माता के रूप में, हम सभी ऐसे क्षणों का सामना करते हैं जब हमारे विचारों का कुआँ सूख जाता है। यह वेबसाइट आपके वर्तमान अपलोड के आधार पर विचारों पर मंथन करने में आपकी मदद करेगी। आप बस इसे अपने चैनल (या किसी भी चैनल) का लिंक दें और जादू होने दें। प्रत्येक विचार के लिए, आप कुछ विवरण भी उत्पन्न कर सकते हैं - वीडियो कवर क्या होना चाहिए, वीडियो संरचना के बारे में संकेत आदि।. | :white_check_mark: |
+#### रोमर - AI ट्रेवल प्लानर - कुछ ही सेकंड में आपका ड्रीम वेकेशन - [Visit](https://www.thataicollection.com/redirect/roamr)
 
+Roam Around के साथ AI ट्रेवल प्लानिंग के भविष्य का अनुभव करें! हमने अब तक 10 मिलियन से अधिक विशेष यात्रा कार्यक्रम तैयार किए हैं, बस अपनी मंज़िल चुनें, और हम कुछ ही सेकंड में एक अनोखा प्लान उपलब्ध कराएँगे। यात्रा की आसान योजना को अभी अपनाएं!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/roamr)
+
+<br />
+
+
+
+
+### Orkoi
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-orkoi.webp?twic=v1/resize=240" alt="Orkoi">
+
+#### Orkoi - सेकंड में एक व्यक्तिगत यात्रा योजना बनाएं, निःशुल्क, कोई पंजीकरण नहीं - [Visit](https://www.thataicollection.com/redirect/orkoi)
+
+हमारा एआई आपको किसी भी शहर या स्थान के लिए एक अनुकूलित योजना तैयार करेगा, जहां आप जाना चाहते हैं, रेस्तरां, मजेदार गतिविधियों, आकर्षण और सर्वोत्तम साहसिक कार्य करने के लिए युक्तियों के साथ पूरा करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/orkoi)
+
+<br />
+
+
+
+
+### Travel Blog Name Ideas Generator
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-travel-blog-name-ideas-generator.webp?twic=v1/resize=240" alt="Travel Blog Name Ideas Generator">
+
+#### यात्रा ब्लॉग नाम विचार जेनरेटर: सही यात्रा ब्लॉग नाम खोजें! - [Visit](https://www.thataicollection.com/redirect/travel-blog-name-ideas-generator)
+
+TravelFeed के ब्लॉग नाम विचार जनरेटर के साथ सही यात्रा ब्लॉग नाम अनलॉक करें! एक कीवर्ड डालें - शायद आपका अपना नाम - और देखें कि हमारा एआई आपको कई आकर्षक सुझावों से चकाचौंध कर देता है। क्या आपको कोई नाम पसंद है? इसके .com डोमेन और TravelFeed उपयोगकर्ता नाम की उपलब्धता को स्नैप-चेक करें। एक ऐसे नाम के साथ अपनी ब्लॉगिंग यात्रा शुरू करें जो आपकी तरह ही साहसिक हो!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/travel-blog-name-ideas-generator)
+
+<br />
+
+
+
+
+
+[See All 🏖 अवकाश और ट्रिप प्लानर Applications on AI Collection](https://www.thataicollection.com/en/categories/vacation-and-trip-planner)
 
 <!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
 
-## आनंद
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [AI Pokemon generator](https://www.thataicollection.com/redirect/ai-pokemon-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI का उपयोग करके Fakemon उत्पन्न करें. | डिजाइन को निर्देशित करने के लिए सरल पाठ संकेतों का उपयोग करके अपने फेकमोन को पहले कभी नहीं बनाएं। एक उग्र, ड्रैगन जैसा प्राणी या एक प्यारा, घास वाला गड्ढा चाहते हैं? आपके पास शक्ति है! आज ही गोता लगाएँ, एक्सप्लोर करें और अपने सपनों का फेकमन बनाएं!. | :white_check_mark: |
-| [AI Story Generator](https://www.thataicollection.com/redirect/ai-story-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई स्टोरी जेनरेटर. | एक निःशुल्क एआई कहानी जनरेटर जो किसी भी विषय पर आपके लिए रचनात्मक लघु कथाएँ लिखता है. | :white_check_mark: |
-| [Ask RBG](https://www.thataicollection.com/redirect/ask-rbg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आरबीजी (शायद) क्या कहेंगे?. | एक एआई प्रयोग: न्यायमूर्ति रूथ बेडर गिन्सबर्ग से किसी भी ऐसे प्रश्न के बारे में निर्णय लेने के लिए कहें, जिसे आप दिल से चाहते हैं। AI21 लैब्स से पहली AI ड्रॉप।. | :white_check_mark: |
-| [Askmybook](https://www.thataicollection.com/redirect/askmybook?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आस्क माय बुक: द मिनिमलिस्ट एंटरप्रेन्योर. | यह मेरी पुस्तक की सामग्री को और अधिक सुलभ बनाने के लिए AI का उपयोग करने का एक प्रयोग है। एक प्रश्न पूछें और AI वास्तविक समय में इसका उत्तर देगा:. | :white_check_mark: |
-| [Blackink](https://www.thataicollection.com/redirect/blackink?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सेकेंड में अपना खुद का अनोखा फ्लैश टैटू बनाएं. | अपने अगले टैटू के लिए Pinterest को खोजने में महीनों खर्च करना बंद करें। BlackInk के AI के साथ सेकंड में कस्टम, अद्वितीय टैटू बनाएं, जिसे केवल आपके लिए टैटू जैसी डिज़ाइन बनाने के लिए डिज़ाइन किया गया है. | :white_check_mark: |
-| [Botify](https://www.thataicollection.com/redirect/botify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बॉटिफाई एआई. | अपने पसंदीदा पात्रों के साथ मजेदार चैट करें. | :grey_question: |
-| [CharacterAI](https://www.thataicollection.com/redirect/characterai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कैरेक्टर। ऐ आपको कैरेक्टर बनाने और उनसे बात करने की सुविधा देता है।. | वर्ण कुछ भी हो सकते हैं। हमारी सफल एआई तकनीक आपके सभी विचारों को जीवंत कर सकती है।. | :white_check_mark: |
-| [Excuses AI](https://www.thataicollection.com/redirect/excuses-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बहाना जनरेटर. | सही पेशेवर बहाना बनाने के लिए AI का उपयोग करें. | :grey_question: |
-| [FoodAI](https://www.thataicollection.com/redirect/foodai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Foodai.App - AI की मदद से कुकिंग रेसिपी जेनरेट करें!. | उन सामग्रियों को चुनें जिन्हें तुम इस्तेमाल करना चाहते हो और हमारा AI तुम्हेंं उनमें से कुछ सामग्री के साथ बनाने की रेसिपी देगा। फिर अपनी रेसिपी लेने के लिए नीचे दिए गए बटन पर क्लिक करें।. | :white_check_mark: |
-| [Jokelub](https://www.thataicollection.com/redirect/jokelub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जोकेलब. | हर जगह हास्य लाओ. | :grey_question: |
-| [Kanye Tweet Generator](https://www.thataicollection.com/redirect/kanye-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कान्ये ट्वीट जनरेशन. | एआई का उपयोग करके कान्ये ट्वीट जेनरेट करें। रयान डॉयल द्वारा निर्मित।. | :grey_question: |
-| [Nudify.online](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हमारी निःशुल्क सेवा से किसी को भी निर्वस्त्र करें।. | बस उम्र, शरीर का प्रकार, गुणवत्ता चुनें और कुछ ही सेकंड में परिणाम प्राप्त करें. | :white_check_mark: |
-| [Oscar Stories](https://www.thataicollection.com/redirect/oscar-stories?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वैयक्तिकृत सोने के समय की कहानियाँ बनाएँ. | अपने बच्चों को मुख्य पात्रों के रूप में दिखाने वाली वैयक्तिकृत सोने की कहानियाँ बनाएँ. | :white_check_mark: |
-| [Philosophy](https://www.thataicollection.com/redirect/philosophy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक दार्शनिक से पूछो. | गहरे प्रश्न पूछें और विलियम शेक्सपियर, फ्रेडरिक नीत्शे, रेने डेसकार्टेस, सुकरात, कन्फ्यूशियस, अल-किंडी, बुद्ध से उत्तर प्राप्त करें. | :white_check_mark: |
-| [Pit Stop ChatterGPT](https://www.thataicollection.com/redirect/pit-stop-chattergpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पिट स्टॉप चैटरजीपीटी: एफ1 लेजेंड्स, अपने रेस डे साथी के साथ चैट करें. | इस ऐप के साथ, आप एक बड़ी दौड़ से पहले अपने पसंदीदा ड्राइवरों की मानसिकता का पता लगा सकते हैं, उनकी तैयारी की दिनचर्या के बारे में पूछ सकते हैं, या बस एक दोस्ताना चैट कर सकते हैं। यह लुईस हैमिल्टन या मैक्स वेरस्टैपेन जैसे प्रतिष्ठित F1 ड्राइवरों के साथ व्यक्तिगत बातचीत करने जैसा है।. | :x: |
-| [Podcast.ai](https://www.thataicollection.com/redirect/podcast.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पॉडकास्ट आई. | Podcast.ai में आपका स्वागत है, एक ऐसा पॉडकास्‍ट जो पूरी तरह से आर्टिफिशियल इंटेलिजेंस द्वारा जनरेट किया गया है। हर हफ्ते, हम एक नए विषय को गहराई से एक्सप्लोर करते हैं, और श्रोता भविष्य के एपिसोड के लिए विषय या मेहमान और होस्ट भी सुझा सकते हैं।. | :grey_question: |
-| [Silly Times](https://www.thataicollection.com/redirect/silly-times?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई का उपयोग कर आसान ड्राइंग ऐप. | ड्राइंग का मज़ा लें और देखें कि हम आपके ड्राइंग से क्या मूर्खतापूर्ण चीज़ बनाते हैं। जादू बस बटन दबाने की दूरी पर है!. | :white_check_mark: |
-| [Songtell](https://www.thataicollection.com/redirect/songtell?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने पसंदीदा गीतों के पीछे की कहानियों को जानें।. | सोंगटेल के साथ अपने पसंदीदा गीतों में गहराई तक उतरें, एआई की शक्ति के माध्यम से मनोरम कहानियों और उनके गीतों के पीछे के अर्थ को प्रकट करें. | :white_check_mark: |
-| [StoriesForKids](https://www.thataicollection.com/redirect/storiesforkids?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Storyforkids.Ai: एआई का उपयोग कर निजीकृत बच्चों की किताबें. | सेकंडों में वास्तविक जीवन की स्थितियों को मजेदार कहानियों और चित्रों में बदल दें. | :grey_question: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## ई-कॉमर्स
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [DoMyShoot](https://www.thataicollection.com/redirect/domyshoot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | DoMyShoot - उत्पाद फोटोग्राफी सरलीकृत. | केवल अपने स्मार्टफोन का उपयोग करके एक फोटोशूट के माध्यम से अपना मार्गदर्शन करें और हमारी एआई तकनीक को बाकी प्रक्रिया को संभालने दें, रोजमर्रा के उत्पादों को फोटो यथार्थवादी छवियों में बदल दें जो निश्चित रूप से मार्केटिंग रणनीतियों को एक पायदान ऊपर ले जाएं।. | :white_check_mark: |
-| [Embolden](https://www.thataicollection.com/redirect/embolden?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने ईकॉमर्स लेखन को सशक्त बनाने के लिए एआई का उपयोग करें।. | एम्बोल्डन आपके ईकॉमर्स व्यवसाय के लिए ईमेल से लेकर उत्पाद विवरण तक सब कुछ लिखने में आपकी मदद करने के लिए एआई का उपयोग करता है।. | :white_check_mark: |
-| [Gizzmo Ai](https://www.thataicollection.com/redirect/gizzmo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वर्डप्रेस संबद्ध सामग्री के साथ अपनी कमाई बढ़ाएं।. | Gizzmo एक शक्तिशाली वर्डप्रेस प्लगइन है जो Amazon सहबद्ध लेख बनाने की प्रक्रिया को सरल बनाता है। बस कुछ ही क्लिक के साथ, आप उत्पाद समीक्षा, राउंडअप और उपहार गाइड सहित पूरी तरह से अनुकूलित सामग्री तैयार कर सकते हैं। यह सहबद्ध विपणक के लिए गेम-चेंजर है!. | :x: |
-| [manifest](https://www.thataicollection.com/redirect/manifest?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आर्टिफिशियल इंटेलिजेंस के साथ ईकॉमर्स की पुनः कल्पना. | 1 मिनट के भीतर अपना स्वयं का AI शॉपिंग असिस्टेंट लाइव प्राप्त करें। एआई-संचालित वैयक्तिकरण के साथ अपने स्टोर को बदलें और अपनी बिक्री बढ़ाएं।. | :white_check_mark: |
-| [Octie.ai](https://www.thataicollection.com/redirect/octie.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Octie.Ai - आपका A.I. ईकॉमर्स मार्केटिंग असिस्टेंट. | एआई के साथ ईमेल, उत्पाद विवरण आदि लिखें। ऑक्टेन एआई द्वारा बनाया गया।. | :grey_question: |
-| [VModel](https://www.thataicollection.com/redirect/vmodel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | vModel कुशल और लागत प्रभावी ऑन-मॉडल फ़ोटोग्राफ़ी के लिए AI फ़ैशन मॉडल जनरेटर है। यह मॉडल फ़ोटोग्राफ़ी के खर्च को 90% तक कम करके रिटेल में सफलता को बढ़ाता है।. | vModel वर्चुअल फ़ैशन मॉडल बनाने के लिए आर्टिफिशियल इंटेलिजेंस तकनीक का इस्तेमाल करता है, जिससे असल दुनिया के फ़ैशन मॉडल की ज़रूरत बदल जाती है। इन वर्चुअल मॉडल का इस्तेमाल कपड़ों के आइटम के लिए प्रॉडक्ट फ़ोटो बनाने के लिए किया जाता है, जिन्हें बाद में ई-कॉमर्स प्लेटफ़ॉर्म पर दिखाया जाता है।. | :white_check_mark: |
-| [Wizishop](https://www.thataicollection.com/redirect/wizishop?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एसईओ-संचालित ईकॉमर्स के साथ अपना व्यवसाय बढ़ाएँ. | WiziShop SEO-संचालित ई-कॉमर्स को पहले से कहीं अधिक आसान बना देता है, जिससे सफलता पहुंच में आ जाती है। आपके ईकॉमर्स व्यवसाय की सेवा में आर्टिफिशियल इंटेलिजेंस!. | :white_check_mark: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## ईमेल सहायक
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [DraftLab](https://www.thataicollection.com/redirect/draftlab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ड्राफ्टलैब ऐ: एआई के साथ तेजी से बेहतर ईमेल लिखें. | राइटर्स ब्लॉक से लड़ें और इनबॉक्स जीरो हासिल करें। ड्राफ्टलैब एक एआई-संचालित जीमेल सह-पायलट है जो आपके लिए उच्च-गुणवत्ता वाले ईमेल उत्तर उत्पन्न करता है।. | :grey_question: |
-| [Ellie](https://www.thataicollection.com/redirect/ellie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऐली - आपका एआई ईमेल सहायक. | ऐली आपकी लेखन शैली और शिल्प उत्तरों से सीखती है जैसे कि वे आपके द्वारा लिखे गए हों. | :grey_question: |
-| [EmailTriager](https://www.thataicollection.com/redirect/emailtriager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ईमेलट्राइजर · ऑटोपायलट पर ईमेल।. | EmailTriager में, हम ऐसे उत्पाद बनाते हैं जो आपकी ओर से काम करते हैं।. | :grey_question: |
-| [Intellimail](https://www.thataicollection.com/redirect/intellimail?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपका व्यक्तिगत ईमेल सहायक. | IntelliMail एक क्रोम एक्सटेंशन है जो आपके ईमेल जेनरेट करता है - इसलिए आपको दोबारा कभी भी ईमेल नहीं लिखना पड़ेगा।. | :white_check_mark: |
-| [Quicklines](https://www.thataicollection.com/redirect/quicklines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | क्विकलाइन लाइफटाइम एक्सेस - केवल $59. | Quicklines आपका नया AI संचालित कोल्ड आउटरीच सहायक है। हम आपके ठंडे ईमेल अभियानों को हमारे गहन सामाजिक स्क्रैपिंग और प्राकृतिक भाषा प्रथम-पंक्ति लेखन मंच के साथ मदद करते हैं।. | :x: |
-| [Rapidreply](https://www.thataicollection.com/redirect/rapidreply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रैपिड रिप्लाई - एआई ईमेल असिस्टेंट. | ईमेल लिखने के लिए दिन में 30 मिनट बचाएं. | :grey_question: |
-| [Recruiting Emails AI by Dover](https://www.thataicollection.com/redirect/recruiting-emails-ai-by-dover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डोवर - अनुकूलित भर्ती ईमेल उत्पन्न करें. | AI और GPT-3 द्वारा संचालित अत्यधिक वैयक्तिकृत, रोमांचक कॉपी के साथ अपने कोल्ड ईमेल को बहुत गर्म बनाएं. | :white_check_mark: |
-| [Remail](https://www.thataicollection.com/redirect/remail?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ईमेल 10 गुना तेजी से लिखें. | Remail, gmail के लिए एक क्रोम एक्सटेंशन है जो सेकंड में उच्च गुणवत्ता वाले ईमेल उत्तरों को ड्राफ़्ट करने के लिए कृत्रिम बुद्धिमत्ता का उपयोग करता है।. | :white_check_mark: |
-| [Smartwriter](https://www.thataicollection.com/redirect/smartwriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 1000S वैयक्तिकृत ईमेल उत्पन्न करें जो आपको AI का उपयोग करके मिनटों के भीतर 8 गुना अधिक उत्तर प्राप्त करें. | दोबारा 'व्यक्तिगत' ईमेल पर शोध करने या लिखने में समय बर्बाद न करें। अपनी संपूर्ण आउटरीच प्रक्रिया को स्वचालित करें। इंसानों से 40 गुना तेज और 6 गुना सस्ता।. | :white_check_mark: |
-| [superReply](https://www.thataicollection.com/redirect/superreply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपना ईमेल गेम अपग्रेड करें. | जिस ईमेल रिस्पांस हैक का आप इंतजार कर रहे थे - स्क्रैच से लिखे बिना आसानी से अनुरूप प्रतिक्रियाओं के साथ प्रभावी उत्तर भेजें. | :white_check_mark: |
-| [Warmer.Ai](https://www.thataicollection.com/redirect/warmer.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वार्मर.एआई - एआई ईमेल लेखक. | वार्मर आपके ईमेल आउटरीच को लिखने के लिए AI ईमेल वैयक्तिकरण का उपयोग करता है। गतिशील वैयक्तिकरण के साथ उत्तर, मीटिंग और बिक्री बढ़ाएँ।. | :grey_question: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## उत्पादकता और व्यक्तिगत विकास
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Ask Poppy](https://www.thataicollection.com/redirect/ask-poppy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पॉपीलिस्ट - माता-पिता बनो, जो तुम बनना चाहते हो. | एक बार में एक बच्चे के माता-पिता बनने की यात्रा की तैयारी करना। पॉपीलिस्ट में आपका स्वागत है, तुम्हारे बच्चों की रजिस्ट्री आसान हो गई है। तुम्हेंं अपनी जीवनशैली के बारे में पता है। हमें प्रॉडक्ट्स के बारे में पता है। चलिए मिलकर तुम्हारे बच्चे की रजिस्ट्री बनाते हैं।. | :white_check_mark: |
-| [Bongocat](https://www.thataicollection.com/redirect/bongocat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बोंगोकैट एक एआई-इंटीग्रेटेड कंटेंट मैनेजमेंट सिस्टम है, एक ऐसा ब्लॉग है जो खुद लिख सकता है. | अपनी Bongocat साइट बनाना एक आसान नो-कोड प्रोसेस है। कुछ ही क्लिक और थोड़े से सेटअप के साथ, तुम्हारी नई ब्लॉग साइट लाइव हो जाएगी और AI-जनरेट की गई उच्च-गुणवत्ता वाली सामग्री बनाना शुरू करने के लिए तैयार है, जिसकी तुम मिनटों में समीक्षा कर सकते हो, संपादित कर सकते हो और प्रकाशित कर सकते हो।. | :grey_question: |
-| [Chivvy](https://www.thataicollection.com/redirect/chivvy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई संचालित एंटी-प्रोक्रैस्टिनेशन ऐप. | Chivvy आपको काम करने के लिए नकारात्मक सुदृढीकरण का उपयोग करता है। सोशल मीडिया पर जवाबदेही बनाता है। आपको स्मार्ट संकेतों के साथ ट्रैक पर रखता है। सभी एआई द्वारा संचालित. | :white_check_mark: |
-| [Cogram](https://www.thataicollection.com/redirect/cogram?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी टीम के लिए एक बुद्धिमान सहकर्मी के साथ अपनी उत्पादकता दोगुनी करें. | कोग्राम आपके डेटा को निजी और सुरक्षित रखते हुए वर्चुअल मीटिंग्स में नोट्स लेने, एक्शन आइटम ट्रैक करने और डाउनस्ट्रीम कार्यों को स्वचालित करने के लिए एआई का उपयोग करता है।. | :grey_question: |
-| [DetangleAI](https://www.thataicollection.com/redirect/detangleai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | किसी भी पॉडकास्ट, ईमेल, कानूनी दस्तावेज़, किताब वगैरह को संक्षेप में बताओ, ताकि तुम कर सको जो मायने रखता है उस पर ध्यान दो।. | दस्तावेज़ से बातचीत + किसी भी फ़ाइल या लिंक के लिए सारांश! PDF, YouTube वीडियो, पॉडकास्ट, लेख, स्प्रेडशीट वगैरह के साथ चैट करें! वेटलिस्ट पर हॉप करें।. | :grey_question: |
-| [Dewey](https://www.thataicollection.com/redirect/dewey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डेवी के साथ और अधिक करें। रिमाइंडर प्राप्त करें और डेवी, आपके एआई जवाबदेही बडी के टेक्स्ट संदेशों से प्रेरित रहें।. | मित्रवत AI जवाबदेही मित्र के साथ वापस पटरी पर आएं। डेवी संगठित और उत्पादक बने रहने में आपकी मदद करने के लिए यहां है। पाठ संदेश अनुस्मारक और लक्ष्य ट्रैकिंग के साथ, यह आपकी जेब में एआई उत्तरदायित्व मित्र होने जैसा है।. | :white_check_mark: |
-| [ELSA SPEECH ANALYZER](https://www.thataicollection.com/redirect/elsa-speech-analyzer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक समय में अपनी अंग्रेजी एक बातचीत में सुधार करें।. | भाषण विश्लेषक एक एआई-संचालित संवादी अंग्रेजी प्रवाह कोच है जो आपके भाषण को सुनता है और आपको तत्काल प्रतिक्रिया प्रदान करता है।. | :white_check_mark: |
-| [Podwise](https://www.thataicollection.com/redirect/podwise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।. | Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।. | :white_check_mark: |
-| [Pth.AI](https://www.thataicollection.com/redirect/pth.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई बियॉन्ड चैट - एआई सह-पायलट जो आपको अपने व्यावसायिक लक्ष्यों को प्राप्त करने में मदद करता है. | Pth.AI एक AI-संचालित उपकरण है जो गैर-पेशेवर व्यावसायिक उपयोगकर्ताओं को प्रश्न पूछकर और कदम बनाकर उनके लक्ष्यों की ओर मार्गदर्शन करता है, जिससे AI सिस्टम के साथ बातचीत करना आसान हो जाता है।. | :white_check_mark: |
-| [Sidekick](https://www.thataicollection.com/redirect/sidekick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पेश है जिग्सो की साइडकिक - एआई स्लैकबॉट जो आपके खुद के बिजनेस पर्सनल असिस्टेंट के रूप में काम करता है।. | सीधे अपने Slack से ChatGPT 4.0 तक तुरंत निःशुल्क पहुंच प्राप्त करें और अन्य सुविधाओं का आनंद लें जैसे अपने संगठनात्मक ऐप्स प्रश्न पूछना, महत्वपूर्ण विषयों को ट्रैक करना, रिमाइंडर सेट करना, दस्तावेज़ों को क्वेरी करना और Slack में वार्तालापों को सारांशित करना. | :grey_question: |
-| [SlideSpeak](https://www.thataicollection.com/redirect/slidespeak?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्लाइडस्पीक - एआई के साथ पावरपॉइंट, वर्ड, पीडीएफ को सारांशित करें. | स्लाइडस्पीक एक चैटजीपीटी संचालित चैटबॉट है जो आपको दस्तावेजों को सारांशित करने, प्रश्न पूछने और बहुत कुछ करने की अनुमति देता है। बस अपनी फ़ाइलें अपलोड करें और आप कुछ भी पूछने के लिए चैट का उपयोग कर सकते हैं। हमारा AI बहुत तेज़ है और आपको कोई OpenAI API कुंजी कनेक्ट करने की आवश्यकता नहीं है।. | :white_check_mark: |
-| [Ultimate Skill Extractor by Further](https://www.thataicollection.com/redirect/ultimate-skill-extractor-by-further?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई संचालित कौशल-सुझाव. | कौशल सुझाव एआई की शक्ति का उपयोग करके हम किसी भी प्रकार के पाठ से दुनिया में मांग में कौशल निकालने में आपकी सहायता कर सकते हैं। कोशिश करके देखो! हमने अपनी आगे की सामग्री लाइब्रेरी में 1 मिलियन से अधिक ऑनलाइन उपलब्ध सामग्री का उपयोग करके अपने एआई को प्रशिक्षित किया जो विभिन्न प्रकार के स्रोतों और विषयों से क्यूरेट किया गया।. | :grey_question: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## उपहार योजना
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [AI Holiday Cards](https://www.thataicollection.com/redirect/ai-holiday-cards?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई हॉलिडे कार्ड. | कपल्स के लिए AI हॉलिडे फोटोरियलिस्टिक कार्ड बनाने के लिए AI इंजन. | :grey_question: |
-| [AI Poem Generator](https://www.thataicollection.com/redirect/ai-poem-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AiPoemGenerator.Com - सहजता से सुंदर और अनूठी कविताएँ उत्पन्न करें।. | हर अवसर के लिए सही उपहार बनाएं: किसी मित्र या परिवार के सदस्य का जन्मदिन, शादी, जन्म आदि। बस कुछ कीवर्ड/विषय दर्ज करें और बाकी काम हमारे रोबोट को करने दें। जितने अधिक खोजशब्द आप प्रदान करते हैं उतनी ही अधिक व्यक्तिगत उत्पन्न कविताएँ बन जाती हैं. | :x: |
-| [AIchristmascards](https://www.thataicollection.com/redirect/aichristmascards?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अवकाश कार्ड, पुनर्कल्पित. | वैयक्तिकृत एआई आर्ट ग्रीटिंग्स कार्ड. | :x: |
-| [CoolGiftIdeas](https://www.thataicollection.com/redirect/coolgiftideas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बढ़िया उपहार विचार - एआई-संचालित उपहार सुझाव. | उत्तम उपहार दें! किसी भी व्यक्ति की पहचान के आधार पर उसके लिए रचनात्मक उपहार विचारों की खोज करें. | :white_check_mark: |
-| [Elf Help](https://www.thataicollection.com/redirect/elf-help?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एल्फ हेल्प. | अपने हॉलिडे गिफ्टिंग के लिए कुछ निरीक्षण चाहिए? Elf help आपका अंतिम उपहार देने वाला सहायक है, जो आपकी सूची में सभी के लिए रचनात्मक और व्यक्तिगत सुझाव प्रदान करता है।. | :grey_question: |
-| [Fabled](https://www.thataicollection.com/redirect/fabled?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अल्टीमेट एआई स्टोरी जेनरेटर. | एआई द्वारा संचालित, आपके द्वारा बनाई गई कहानियां। एक ही वाक्य के साथ Fabled.ai शिल्प व्यक्तिगत सचित्र कहानियां, आश्चर्यजनक छवियों से समृद्ध।. | :white_check_mark: |
-| [Gift Genie](https://www.thataicollection.com/redirect/gift-genie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | गिफ्ट जेनी एआई - क्रिसमस, जन्मदिन, छुट्टियों आदि के लिए मुफ्त व्यक्तिगत उपहार विचार!. | गिफ्ट जिनी एआई एक एआई-पावर्ड है जो आपको एआई के साथ सेकंड में मुफ्त में सही उपहार खोजने की अनुमति देता है। अपने प्राप्तकर्ता का एक संक्षिप्त विवरण लिखें, और उपहारों की एक सूची प्राप्त करें जो हमारे एआई जीनी का मानना है कि उन्हें प्रसन्न करेगा।. | :white_check_mark: |
-| [Gift Ideas AI](https://www.thataicollection.com/redirect/gift-ideas-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कुछ ही समय में सही उपहार ढूंढें!. | शीघ्रता से आदर्श उपहार खोजें! हमारा प्लेटफ़ॉर्म प्रियजनों की रुचियों के आधार पर वैयक्तिकृत समाधान प्रदान करता है।. | :white_check_mark: |
-| [Giftastic AI](https://www.thataicollection.com/redirect/giftastic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | गिफ्टस्टिक.आई - आपके खास के लिए बिल्कुल सही उपहार!. | हर अवसर के लिए निजीकृत उपहार विचार!. | :grey_question: |
-| [GiftBot](https://www.thataicollection.com/redirect/giftbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उपहार सहायता प्राप्त करें. | छुट्टियों के लिए किसी को क्या लाना है, यह पता लगाने के लिए संघर्ष कर रहे हैं? उपहार विचारों की अनुशंसा करने में सहायता के लिए गिफ्टबॉट आपसे प्रश्न पूछता है!. | :white_check_mark: |
-| [GiftList Genie: AI-Powered Gift Ideas Generator](https://www.thataicollection.com/redirect/giftlist-genie:-ai-powered-gift-ideas-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | गिफ़्टलिस्ट जिनी: AI- संचालित गिफ्ट आइडिया जेनरेटर. | जिनी एक AI-संचालित गिफ़्ट आइडिया जनरेटर है, जो 1,000 रिटेलर्स के टॉप रेटेड उत्पादों के साथ विचारशील और प्रासंगिक उपहार विचार प्रदान करता है। प्रॉडक्ट्स की कुल रेटिंग, रीयल-टाइम मूल्य निर्धारण और ख़रीदने के लिए लिंक होते हैं।  जिनी मुफ्त में इस्तेमाल कर सकते हैं और इसके लिए साइन अप करने की ज़रूरत नहीं है, हालाँकि अगर तुम्हारा कोई गिफ़्टलिस्ट खाता है, तो तुम जिनी की ओर से सीधे अपनी उपहार सूची में आइटम जोड़ सकते हो।. | :white_check_mark: |
-| [Gifts Genie](https://www.thataicollection.com/redirect/gifts-genie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जिनी - एआई उपहार जेनरेटर. | जिन्न में आपका स्वागत है! हमारा एआई-संचालित ऐप आपको अपने प्रियजनों के लिए अद्वितीय और विचारशील उपहार ढूंढने में मदद करता है। बस हमें उनकी रुचियों के बारे में कुछ विवरण प्रदान करें, और हम सही उपहार सुझाएंगे 🎁. | :white_check_mark: |
-| [GiftWizard](https://www.thataicollection.com/redirect/giftwizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | GiftWizard.ai - एआई संचालित उपहार प्रेरणा. | गिफ्टविजार्ड भविष्य से आपका मित्रवत सहायक है, यहां आपको सबसे जादुई उपहार प्राप्त करने के लिए मार्गदर्शन करने के लिए. | :white_check_mark: |
-| [Kindred Tales](https://www.thataicollection.com/redirect/kindred-tales?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऑनलाइन प्लेटफ़ॉर्म जो लोगों को एक सुंदर हार्डकवर पुस्तक में उनकी जीवन कहानियों को पकड़ने और संरक्षित करने में मदद करता है. | किसी के लिए भी जो एक संस्मरण बनाना चाहता है लेकिन यह नहीं जानता कि कहां से शुरू करें या लिखने में कठिनाई हो। एआई की मदद से, उपयोगकर्ता आसानी से अपने जीवन के बारे में सवालों के जवाब दे सकते हैं, और हम इसे पेशेवर रूप से डिज़ाइन की गई किताब में बदल देंगे, जिसे वे आने वाली पीढ़ियों के लिए संजो सकते हैं।. | :x: |
-| [Lovelines](https://www.thataicollection.com/redirect/lovelines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Lovelines.Xyz - एआई द्वारा बनाए गए कस्टम उपहारों के साथ अपना प्यार साझा करें. | सोशल मीडिया के लिए अनुकूलित AI का उपयोग करके किसी प्रियजन के लिए कस्टम उपहार बनाएं। एआई-जनित कविताएँ, कहानियाँ, पत्र और गीत के बोल।. | :x: |
-| [Outdone V2](https://www.thataicollection.com/redirect/outdone-v2?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मिनटों या उससे कम में सही उपहार पाएं. | तनाव को बाहर निकालने के लिए बनाया गया है. गिफ्ट की खरीदारी का। वास्तविक उपभोक्ता डेटा और हमारी संपूर्ण समीक्षा प्रक्रिया द्वारा समर्थित, आउटडोन दुनिया के सैकड़ों सर्वश्रेष्ठ ब्रांडों को खरीदारी करने वालों के लिए एक त्वरित, उपयोग में आसान टूल के रूप में शानदार उपहार खोजने के लिए लाता है।. | :white_check_mark: |
-| [OUTERMODE](https://www.thataicollection.com/redirect/outermode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई द्वारा संचालित उपहार विचार 🎁. | एआई-पावर्ड गिफ्ट आइडियाज टूल आपकी उपहार देने की सभी दुविधाओं का समाधान है, जो इस प्रक्रिया को न केवल आसान बनाता है, बल्कि वास्तव में आनंददायक भी बनाता है। आर्टिफिशियल इंटेलिजेंस की शक्ति का लाभ उठाकर, टूल विश्लेषण ने प्राप्तकर्ता के स्वाद और प्राथमिकताओं के अनुरूप व्यक्तिगत उपहार सुझाव उत्पन्न करने के लिए जानकारी प्रदान की।. | :white_check_mark: |
-| [Text2present](https://www.thataicollection.com/redirect/text2present?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Text2Present.Com - व्यस्त लोगों की ओर से रचनात्मक उपहार।. | आपको अपना कीमती समय बर्बाद किए बिना अपने दोस्तों, परिवार और परिचितों के लिए कृत्रिम बुद्धिमत्ता का उपयोग करके रचनात्मक अनुकूलित उपहार बनाने की अनुमति देता है। बस आप जो उपहार देना चाहते हैं उसका टेक्स्ट विवरण दर्ज करें और बाकी काम हमारी आर्टिफिशियल इंटेलिजेंस को करने दें. | :grey_question: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## एनिमेशन और 3डी मॉडलिंग
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Blimey](https://www.thataicollection.com/redirect/blimey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ब्लिमी - कल्पना से छवि तक मिनटों में. | ब्लिमी एक AI इमेज जनरेटर है जहाँ तुम एक मिनट में आइडिया से वास्तविकता की ओर जा सकते हो। जिसका कंपोज़िशन, रंग और स्टाइल पर पूरा नियंत्रण है। AI के ज़रिए इमेज बनाते समय कंपोज़िशन और रंगों पर पूरा नियंत्रण पाने के लिए वर्चुअल 3D सीन सेट करें. | :white_check_mark: |
-| [Kaedim](https://www.thataicollection.com/redirect/kaedim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मिनटों में जादुई रूप से Custom3D मॉडल बनाएं. | मॉडलिंग टूल के लिए घंटे बर्बाद करना बंद करें। एक छवि से ज्यादा कुछ नहीं के साथ आश्चर्यजनक 3डी कला उत्पन्न करें।. | :x: |
-| [lumalabs](https://www.thataicollection.com/redirect/lumalabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 3D V1.2 (अल्फ़ा) की कल्पना करें. | पाठ के साथ प्रोटोटाइप और 3D बनाने का एक प्रारंभिक प्रयोग पीढ़ी तक पहुंच धीरे-धीरे प्रतीक्षा सूची में सभी के लिए विस्तारित हो रही है. | :white_check_mark: |
-| [plask](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-पावर्ड मोकैप एनिमेशन टूल. | बिना महंगे बॉडीसूट या मोशन वर्क के आसानी से वीडियो से मोशन निकालें।. | :white_check_mark: |
-| [TextureLab](https://www.thataicollection.com/redirect/texturelab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके अगले गेम के लिए तत्काल और अद्वितीय 3डी बनावट. | एआई की मदद से सेकेंडों में अपने गेम के लिए 3डी बनावट तैयार करें।. | :grey_question: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## कला और छवि जनरेटर
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Accomplice](https://www.thataicollection.com/redirect/accomplice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-संचालित डिजाइन जनरेशन, संपादन और प्रशिक्षण. | सह-अपराधी एआई-पावर्ड प्लेटफॉर्म आपकी टीम को 100% रॉयल्टी-मुक्त लोगो, फोटो और ग्राफिक्स बनाने में मदद करता है, समय की बचत करता है, लागत में कटौती करता है, और आपके वर्कफ़्लो को सरल बनाता है।. | :white_check_mark: |
-| [Ai Art Generator](https://www.thataicollection.com/redirect/ai-art-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई आर्ट जेनरेटर - एआई इमेज मेकर - एआई आर्ट लिमिटेड. | एआई आर्ट लिमिटेड, आर्टिफिशियल इंटेलिजेंस का उपयोग करके आपके लिए चित्र, वीडियो, संगीत और लेख बनाता है। हमारे ऐप से आप आर्टिफिशियल इंटेलिजेंस का उपयोग करके कलाकार बन सकते हैं।. | :grey_question: |
-| [AI Background Generator by PhotoRoom](https://www.thataicollection.com/redirect/ai-background-generator-by-photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फोटोरूम - पृष्ठभूमि हटाएं और उत्पाद चित्र बनाएं. | केवल अपने फ़ोन का उपयोग करके उत्पाद और चित्र चित्र बनाएँ। पृष्ठभूमि हटाएं, पृष्ठभूमि बदलें और उत्पादों का प्रदर्शन करें।. | :grey_question: |
-| [AI Comic Factory](https://www.thataicollection.com/redirect/ai-comic-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI कॉमिक फ़ैक्टरी एक ऑनलाइन प्लेटफ़ॉर्म है, जिसकी मदद से तुम्हेंं AI की मदद से अपनी कॉमिक्स बनाने की सुविधा देता है।. | AI Comic Factory एक मुफ़्त और ओपन-सोर्स एप्लिकेशन है, जिसे AI मॉडल की क्षमताओं को प्रदर्शित करने के लिए बनाया गया है।  हर पैनल के विवरण जेनरेट करने के लिए इस्तेमाल किया जाने वाला भाषा मॉडल लामा-2 70b है। इमेज जेनरेट करने के लिए जिस स्टेबल डिफ़्यूज़न मॉडल का इस्तेमाल किया गया, वह है बेस SDXL 1.0। कोड सार्वजनिक है और आर्किटेक्चर के बारे में जानकारी के लिए README में कुछ बदलावों के साथ इसे घर पर ही लागू किया जा सकता है।. | :white_check_mark: |
-| [AI Image and Design Generator](https://www.thataicollection.com/redirect/imgcreator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अल्टीमेट एआई इमेज, आर्ट, डिज़ाइन जेनरेटर. | एआई की शक्ति का उपयोग करके सेकंडों में टेक्स्ट से छवि तक। टेक्स्ट से छवि, छवि से छवि और चैटजीपीटी संचालित एआई डिजाइनर। बस टेक्स्ट चयनकर्ता इनपुट के साथ आप जो देखना चाहते हैं उसका वर्णन करें और फिर चार उम्मीदवार छवियों में से सर्वोत्तम परिणाम चुनें। यदि आप फोटो संपादित करना चाहते हैं, तो कृपया उस भाग को मिटा दें जिसे आप संपादित करना चाहते हैं, और उस अनुभाग के वांछित परिणाम का वर्णन करें।. | :white_check_mark: |
-| [AI Picasso](https://www.thataicollection.com/redirect/ai-picasso?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई पिकासो. | शक्तिशाली एआई के साथ अद्भुत कलाकृति बनाएं! यह आपके द्वारा दर्ज किए गए पाठ से एक छवि उत्पन्न करता है, ठीक वैसे ही जैसे आप स्टेबल डिफ्यूजन नामक एआई का उपयोग करने की अपेक्षा करते हैं। एआई के साथ कला बनाने का आनंद लें!. | :grey_question: |
-| [AI Wall Decor](https://www.thataicollection.com/redirect/ai-wall-decor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हाइड्रोजन. | ब्रश उठाए बिना, उच्च गुणवत्ता वाली फ़्रेम कला उत्पन्न करने के लिए स्थिर प्रसार का उपयोग करें। बस टाइप करें कि आप अपनी पेंटिंग को कैसा दिखाना चाहते हैं, अपनी कला बनाएं, अपना पसंदीदा फ्रेम चुनें और इसे शिप करें।. | :grey_question: |
-| [AI2image](https://www.thataicollection.com/redirect/ai2image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फ्री एआई इमेज जेनरेटर - ऑनलाइन टेक्स्ट टू इमेज ऐप - एआई2इमेज. | AI2image द्वारा निःशुल्क AI छवि जेनरेटर के साथ ऑनलाइन सर्वश्रेष्ठ छवियां बनाएं। अपने इच्छित किसी भी आकार और शैली की उच्च-गुणवत्ता वाली छवियां उत्पन्न करने के लिए AI का उपयोग करें!. | :white_check_mark: |
-| [AIGraphics](https://www.thataicollection.com/redirect/aigraphics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई ग्राफिक्स. | एआई का उपयोग करके सेकंड में ग्राफिक्स उत्पन्न करें. | :white_check_mark: |
-| [AIimages](https://www.thataicollection.com/redirect/aiimages?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आइमाग.ई.एस. | मुफ़्त और आसान Text2Image AI. | :white_check_mark: |
-| [Alltray](https://www.thataicollection.com/redirect/alltray?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | गैलरी के साथ एआई इमेज जेनरेटर - आर्टिफिशियल इंटेलिजेंस के साथ अद्वितीय, कस्टम छवियां बनाएं और ब्राउज़ करें. | . | :white_check_mark: |
-| [Alter Ego AI](https://www.thataicollection.com/redirect/alter-ego-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई ढेरों शैलियों में आपकी छवियां उत्पन्न करता है. | अपनी चुनी हुई शैली में छवियां उत्पन्न करें उत्पन्न करने के लिए एक या कई शैलियों का चयन करें। AI द्वारा उत्पन्न छवियों के परिणाम अप्रत्याशित हो सकते हैं, इसलिए प्रयोग करें और मज़े करें!. | :x: |
-| [Anime AI](https://www.thataicollection.com/redirect/anime-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई एनीमे पिक्चर जेनरेटर - एनीमे एआई. | एआई के साथ अपनी संपूर्ण एनीमे तस्वीर बनाएं। वन पीस, नारुतो, वेबटून स्टाइल और अन्य में से चुनें!. | :grey_question: |
-| [Apeture](https://www.thataicollection.com/redirect/apeture?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | लेक्सिका द्वारा छवियां बनाएं. | :grey_question: |
-| [Aragon](https://www.thataicollection.com/redirect/aragon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आरागॉन. | एआई के साथ 10 गुना तेजी से शानदार कला और छवियां बनाएं।. | :grey_question: |
-| [ArtBot.ai](https://www.thataicollection.com/redirect/artbot.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Artbot.Ai - AI को आपकी संपूर्ण हेलोवीन कला बनाने दें. | क्या आपको ऐसा लगता है कि आप मज़ेदार, उज्ज्वल, रोमांचक, रचनात्मक हेलोवीन विचारों से भरे हुए हैं? आपको उन्हें महसूस करने के लिए एक उपकरण की आवश्यकता होती है, और ... यह ऐप आपकी पसंद है!. | :grey_question: |
-| [Artbreeder](https://www.thataicollection.com/redirect/artbreeder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | क्राफ्ट एआई कला जैसा पहले कभी नहीं हुआ. | आर्टब्रीडर कोलाजर - आकृतियों और छवियों से एक सरल कोलाज बनाएं, संकेत के साथ इसका वर्णन करें, और देखें कि आर्टब्रीडर इसे कैसे जीवंत करता है। नस्ल चित्र और बहुत कुछ - स्प्लिसर आपको उन्हें एक साथ मिलाकर और उनके जीन को संपादित करके छवियां बनाने की सुविधा देता है। चित्र, परिदृश्य, पेंटिंग और बहुत कुछ बनाएं - फिर देखें कि अन्य लोग आपकी कला को रोमांचक नई दिशाओं में ले जा रहे हैं।. | :white_check_mark: |
-| [Artroom](https://www.thataicollection.com/redirect/artroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आर्टरूम एआई - अत्याधुनिक एआई आर्ट जनरेटिंग प्लेटफॉर्म के साथ अपनी रचनात्मकता को उजागर करें. | हमारे अत्याधुनिक AI आर्ट जनरेटिंग प्लैटफ़ॉर्म में डूबो, जहाँ तुम अपनी रचनात्मकता को उजागर कर सकते हो और अपने कलात्मक सपने को साकार कर सकते हो जैसा पहले कभी नहीं हुआ। हमारे एडवांस AI एल्गोरिदम की मदद से नई इमेज बनाएं, मौजूदा इमेज संपादित करें, उन्हें बेहतर बनाएं और गुणवत्ता सुधारें।. | :white_check_mark: |
-| [ARTSIO](https://www.thataicollection.com/redirect/artsio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पता चलता है  इंस्पायर करें, सृजन करें स्टेबल डिफ़्यूज़न, मिडजर्नी, DALL-E की लाखों आर्ट इमेज खोजे और उनसे प्रेरणा लें... | डेवलपर और AI आर्टिस्ट होने के नाते, हमने प्रॉम्प्ट तैयार करने में काफी समय बिताया। लेकिन कभी-कभी हमने पाया कि सिमेंटिक सर्च इतना शक्तिशाली और इतना तेज़ होता है कि यह हमारे दिमाग में मौजूद डिज़ाइन के करीब जल्दी पहुंचने में हमारी मदद कर सकता है, आमतौर पर परिणाम हमें रचनात्मकता और संभावनाओं से स्तब्ध कर देते हैं। तुम प्लैटफ़ॉर्म पर किसी भी सार्वजनिक तस्वीर के साथ बिना किसी हिचकिचाहट के रीमिक्स कर सकते हो. | :white_check_mark: |
-| [artssy](https://www.thataicollection.com/redirect/artssy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 1-क्लिक में अद्वितीय AI जनित छवियां बनाएं।. | Artssy AI के साथ, आपकी रचनात्मकता प्रवाहित हो सकती है। 1 क्लिक में असीमित छवियां बनाएं और संभावनाओं की दुनिया की खोज करें!. | :x: |
-| [Astria.ai](https://www.thataicollection.com/redirect/astria.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एस्ट्रिया - टेलर-मेड एआई इमेज जेनरेशन. | एआई का उपयोग करके कस्टम इमेज बनाएं. | :x: |
-| [B^ DISCOVER](https://www.thataicollection.com/redirect/b^-discover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | B^ डिस्कवर - IMAGEEES में अपनी इच्छा, फ़ैंटसी, भावना, सपने, डायरी, जीवन, फ़ैंटसी के बारे में जानो!. | तुम्हेंं तस्वीरों में अपनी कहानी खोजने का एक नया अनुभव मिलेगा। B^ DISCOVER एक सेवा है जो AI जेनेरेटिव मॉडल - कार्लो पर आधारित है।. | :white_check_mark: |
-| [Bg Eraser](https://www.thataicollection.com/redirect/bg-eraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बीजी इरेज़र - पिक्चर क्लीन अप के लिए मैजिक इरेज़र. | शक्तिशाली एआई पेंटिंग और पिक्चर क्लीन अप तकनीक। अवांछित वस्तुओं को हटा दें और सेकंड में चित्रों को साफ करें।. | :grey_question: |
-| [Bloomoon](https://www.thataicollection.com/redirect/bloomoon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ब्लूमून - राइड द डिजिटल वेव ऑफ़ आर्ट।. | आर्टिफिशियल इंटेलिजेंस एल्गोरिदम द्वारा बनाया गया AI आर्ट। जुनून के साथ बनाई गई AI द्वारा बनाई गई कला। ब्लूमून में AI द्वारा बनाई गई अनोखी पेंटिंग्स के बारे में पता लगाओ।. | :grey_question: |
-| [Cartoonize](https://www.thataicollection.com/redirect/cartoonize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कार्टून के लिए छवि - एआई कार्टूनाइज़र। तुरंत निःशुल्क विभिन्न शैलियों वाले अद्भुत कार्टून अवतार और पात्र बनाएं!. | अपने चेहरे की फोटो को शैलियों के साथ कार्टून बनाएं और शानदार अवतार बनाएं। चेहरे की छवियों या तस्वीरों को कार्टून में बदलें और शून्य क्लिक के साथ 5 सेकंड में स्वचालित रूप से 100% खुद को कार्टून बनाएं।. | :white_check_mark: |
-| [caspa AI](https://www.thataicollection.com/redirect/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कैस्पा एआई मिनटों में एआई छवियों को बनाने और अनुकूलित करने का एक मंच है. | इस मुफ्त टूल के साथ एआई-संचालित छवि निर्माण और संपादन की क्षमता को अनलॉक करें, विभिन्न अनुप्रयोगों के लिए जल्दी और लागत प्रभावी रूप से अद्वितीय दृश्य तैयार करें।. | :grey_question: |
-| [CLIP STUDIO PAINT](https://www.thataicollection.com/redirect/clip-studio-paint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | は は 売上 No.1 ＆ 利用率 利用率 No.1. | ।. | :grey_question: |
-| [ComicsMaker.ai](https://www.thataicollection.com/redirect/comicsmaker.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कॉमिक्समेकर.एआई - एआई का उपयोग करके कॉमिक्स बनाएं. | ComicsMaker.ai के एआई टूल्स का उपयोग करके अद्भुत कॉमिक्स, मंगा और ग्राफिक उपन्यास बनाएं. | :white_check_mark: |
-| [CoverDesignAI](https://www.thataicollection.com/redirect/coverdesignai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | CoverDesignAI - इंडी लेखकों और डिजाइनरों के लिए अनुकूलित पुस्तक कवर विचार/संकेत/छवियां/मॉकअप बनाने के लिए एक उपकरण. | CoverDesignAI डिजाइन प्रक्रिया में इंडी लेखकों के लिए एक बड़ी संपत्ति हो सकती है, उन्हें प्रेरणा प्रदान कर सकती है, उनके विचारों की कल्पना कर सकती है, ठोस दृश्य वरीयताओं पर उनके डिजाइनरों के साथ संचार टूटने को कम कर सकती है, प्रारंभिक चरण में अपने दर्शकों को चित्र दिखा सकती है, या बस DIYing का उपयोग कर सकती है। उत्पन्न डिजाइन।. | :white_check_mark: |
-| [Craiyon](https://www.thataicollection.com/redirect/craiyon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | क्रेयॉन - हमारे मुफ़्त AI इमेज जनरेटर की मदद से AI आर्ट बनाएं।. | क्रेयॉन एक AI मॉडल है जो किसी भी टेक्स्ट प्रॉम्प्ट से तस्वीरें बना सकता है! नए सुझावों के साथ अपनी रचनात्मक गति को बढ़ाने के लिए अपनी पहली AI इमेज तैयार करें!. | :grey_question: |
-| [CustomQR AI](https://www.thataicollection.com/redirect/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | व्यवसाय के लिए क्यूआर कोड जनरेशन सेवा. | 10 मिनट से कम समय में अपने ईमेल पर कलात्मक सुंदर क्यूआर कोड प्राप्त करें। उपलब्ध QR कोड श्रेणियों में से चुनें या अपना स्वयं का अनुरोध करें। अद्वितीय क्यूआर कलाओं के साथ अपने व्यवसाय को अलग बनाएं!. | :x: |
-| [DALL·E 2](https://www.thataicollection.com/redirect/dall·e-2?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dall·E 2 एक नया AI सिस्टम है जो प्राकृतिक भाषा में वर्णन से यथार्थवादी छवियां और कला बना सकता है. | DALL·E 2 एक पाठ विवरण से मूल, यथार्थवादी छवियां और कला बना सकता है। यह अवधारणाओं, विशेषताओं और शैलियों को जोड़ सकता है।. | :white_check_mark: |
-| [DaVinciFace](https://www.thataicollection.com/redirect/davinciface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई पोर्ट्रेट - मैथेमा द्वारा निर्मित डेविंसी चेहरा. | DaVinci Face एक सॉफ्टवेयर है - सबसे नवीन आर्टिफिशियल इंटेलिजेंस तकनीकों पर आधारित, विशेष रूप से लियोनार्डेस्क-शैली के पोर्ट्रेट बनाने के लिए GAN (जेनरेटिव एडवरसैरियल नेटवर्क) पर।. | :grey_question: |
-| [Deep Dream Generator](https://www.thataicollection.com/redirect/deep-dream-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मानव एआई सहयोग. | हमारे एआई सक्षम टूल के सहयोग से प्रेरक विज़ुअल सामग्री बनाएं।. | :white_check_mark: |
-| [Designify](https://www.thataicollection.com/redirect/designify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Designify - किसी भी फोटो को शानदार बनाएं. | असाधारण उत्पाद तस्वीरें और अधिक बनाएं: जादू शुरू करने के लिए कोई भी छवि चुनें ✨. | :grey_question: |
-| [Dezgo](https://www.thataicollection.com/redirect/dezgo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dezgo.Com. | किसी भी टेक्स्ट प्रॉम्प्ट से उच्च-गुणवत्ता वाली छवियां बनाएं। एआई को ड्रा करने दें!. | :grey_question: |
-| [DigitalMuses](https://www.thataicollection.com/redirect/digitalmuses?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपना खुद का क्रश बनाएं. | आकाश आपकी सीमा है. अपने क्रश को वह करने दें, पहनने दें और जैसा आप कल्पना करते हैं वैसा बनने दें। कोई सीमा नहीं. अपना मॉडल चुनें, DigitalMuses के 6 अद्वितीय व्यक्तियों के आकर्षक समूह की खोज करें, जिनमें से प्रत्येक का अपना उल्लेखनीय आकर्षण और आकर्षण है। हर महीने नए मॉडल जारी किए जाएंगे।. | :white_check_mark: |
-| [Draw Things](https://www.thataicollection.com/redirect/draw-things?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | चीज़़ें बनाएं: AI की सहायता से छवि जनरेशन. | लोकप्रिय स्टेबल डिफ़्यूज़न मॉडल पर आधारित, ड्रा थिंग्स तुम्हेंं दिनों के बजाय मिनटों में ऐसी छवियां बनाने में मदद करती है जो तुम्हारे मन में हों। यह मुफ़्त है, तुम्हारी गोपनीयता बनाए रखने के लिए तुम्हारे डिवाइस पर सब कुछ 100% ऑफ़लाइन चलता है।. | :white_check_mark: |
-| [DrawAnyone](https://www.thataicollection.com/redirect/drawanyone?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | किसी को भी ड्रा करें - किसी को भी, जिस तरह से आप चाहते हैं, ड्रा करें. | एआई-जेनरेट किए गए पोर्ट्रेट, जिस तरह से आप चाहते हैं। drawanyone.ai आपको अपने एआई पोर्ट्रेट्स को कस्टमाइज़ करने देता है. | :x: |
-| [Drawanything](https://www.thataicollection.com/redirect/drawanything?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कुछ भी ड्रा करें - स्थिर प्रसार खेल का मैदान. | मिनटों में नई छवियां बनाने के लिए AI का उपयोग करें।. | :grey_question: |
-| [Dreambooth](https://www.thataicollection.com/redirect/dreambooth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कुछ ही सेकंड में हाई क्वालिटी आर्टवर्क - ड्रीम के साथ और बनाएँ सबसे अच्छे AI ऐप के साथ बहुत मज़ा आता है. | द आर्टवर्क ऑफ़ द फ़्यूचर प्रॉम्प्ट डालें, आर्ट स्टाइल चुनें और WOMBO ड्रीम तुम्हारे विचार को कुछ ही सेकंड में AI-संचालित पेंटिंग में बदल देता है।. | :white_check_mark: |
-| [Dreamlike](https://www.thataicollection.com/redirect/dreamlike?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई की शक्ति से सेकंडों में आश्चर्यजनक मूल कला बनाएं।. | बनाएं, उन्नत बनाएं, प्राकृतिक भाषा से संपादित करें, चेहरों को ठीक करें, मुद्रा/गहराई/स्केच की नकल करें, विविधताएं बनाएं और बहुत कुछ करें। 8 एआई मॉडल में से चुनें। उन्नत मापदंडों के साथ अपनी रचनाओं को अपनी पसंद के अनुसार अनुकूलित करें। आपको जो कुछ भी चाहिए वह सीधे आपके ब्राउज़र में, कहीं से भी, किसी भी डिवाइस पर उपलब्ध है।. | :white_check_mark: |
-| [DreamUp](https://www.thataicollection.com/redirect/dreamup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सपने देखो. | DeviantArt DreamUp™ AI-आर्ट जनरेटर आपको AI-आर्ट को सुरक्षित और निष्पक्ष रूप से बनाने देता है।. | :grey_question: |
-| [Erase.bg](https://www.thataicollection.com/redirect/erase.bg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | नि: शुल्क पृष्ठभूमि छवि हटानेवाला: ऑनलाइन एचडी छवियों से बीजी निकालें - मिटा दें। बीजी. | मनुष्यों, जानवरों या वस्तुओं की छवियों के लिए पृष्ठभूमि को पारदर्शी बनाएं। ई-कॉमर्स और व्यक्तिगत उपयोग के लिए छवियों को उच्च रिज़ॉल्यूशन में मुफ्त में डाउनलोड करें। क्रेडिट कार्ड की जरूरत नहीं है।. | :white_check_mark: |
-| [Eye for AI](https://www.thataicollection.com/redirect/eye-for-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आसान टेक्स्ट-टू-इमेज टूल और टेम्प्लेट. | एक मिनट के अंदर टेक्स्ट से इमेज बनाएं. | :white_check_mark: |
-| [Facet 2.0](https://www.thataicollection.com/redirect/facet-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पहलू: छवि निर्माण, पुनर्कल्पित. | रचनात्मक प्रक्रिया को तेज, प्रभावी और सुलभ बनाने के लिए एआई की शक्ति का उपयोग करें। विज़ुअल दिशाओं के साथ प्रयोग करें, चयनों को स्वचालित करें, और सहयोग करें--सब कुछ वेब पर. | :grey_question: |
-| [flair](https://www.thataicollection.com/redirect/flair?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ब्रांडेड सामग्री के लिए AI डिज़ाइन टूल. | कुछ ही क्लिक के साथ आरंभ करें। कैनवस में अपने उत्पाद की तस्वीरें खींचें। अपने उत्पाद के आस-पास के दृश्य का वर्णन करें। संपादित करें, निर्यात करें और साझा करें!. | :white_check_mark: |
-| [Flying Dog for Photoshop](https://www.thataicollection.com/redirect/flying-dog-for-photoshop?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फोटो हॉप के लिए एआई महाशक्ति. | चार शक्तिशाली AI कनेक्टर: स्थिर प्रसार के लिए तीन और DALL-E 2. अपने स्वयं के स्थिर प्रसार सर्वर का उपयोग करें. | :grey_question: |
-| [For the Wall](https://www.thataicollection.com/redirect/for-the-wall?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | दीवार के लिए - AI जनित दीवार कला - Forthewall.Art. | forthewall.art के साथ अपने खुद के अनूठे और वैयक्तिकृत आर्ट प्रिंट बनाएं! हमारा एआई-पावर्ड प्लेटफॉर्म आपको स्क्रैच से कला के शानदार काम उत्पन्न करने देता है। आज ही अपनी तरह का अनूठा प्रिंट ऑर्डर करें और अपनी खाली दीवारों को कुछ खास में बदलें। इसे अभी forthewall.art पर आज़माएं!. | :grey_question: |
-| [Galileo AI](https://www.thataicollection.com/redirect/galileo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई द्वारा संचालित, तुरंत डिजाइन करने का विचार. | गैलीलियो एआई एक साधारण पाठ विवरण से रमणीय, संपादन योग्य यूआई डिज़ाइन बनाता है। यह आपको पहले से कहीं ज्यादा तेजी से डिजाइन करने का अधिकार देता है।. | :grey_question: |
-| [Generated Photos](https://www.thataicollection.com/redirect/generated-photos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उत्पन्न तस्वीरें - अद्वितीय, चिंता मुक्त मॉडल तस्वीरें. | पूरी तरह से AI द्वारा तैयार की गई तस्वीरों के साथ अपने रचनात्मक कार्यों को निखारें। हमारे क्रमबद्ध और टैग किए गए ऐप के माध्यम से मॉडल छवियां ढूंढें, या एपीआई के माध्यम से छवियों को एकीकृत करें।. | :white_check_mark: |
-| [Getimg.ai](https://www.thataicollection.com/redirect/getimg.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई की शक्ति से अद्भुत अवतार, चित्र, कला, तस्वीरें बनाएं।. | getimg.ai जादुई AI टूल का एक सूट है। बड़े पैमाने पर मूल छवियां बनाएं, फ़ोटो संशोधित करें, चित्रों को उनकी मूल सीमाओं से परे विस्तारित करें, या कस्टम AI मॉडल बनाएं।. | :white_check_mark: |
-| [Green Screen AI](https://www.thataicollection.com/redirect/green-screen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ किसी भी छवि की पृष्ठभूमि बदलें।. | ग्रीन स्क्रीन एआई आपके चित्रों को जनरेटिव एआई कला में बदलने का एक मजेदार और आसान तरीका है।. | :grey_question: |
-| [HappyDiffusion](https://www.thataicollection.com/redirect/happydiffusion?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हैप्पीडिफ्यूजन - स्थिर डिफ्यूजन ऑनलाइन. | हैप्पीडिफ्यूजन आपके मोबाइल और डेस्कटॉप पर स्टेबल डिफ्यूजन ऑटोमैटिक वेबयूआई चलाने का सबसे तेज़ और आसान तरीका है। प्रत्येक उपयोगकर्ता को एक समर्पित जीपीयू और स्टोरेज मिलता है, जो 100% निजी है। हैप्पीडिफ्यूजन में स्टेबल डिफ्यूजन एक्सएल सहित 50+ से अधिक शीर्ष-रैंक वाले छवि मॉडल हैं, और सिविटाई से कोई भी कस्टम छवि मॉडल इस पर लोड किया जा सकता है।. | :grey_question: |
-| [ICONS8](https://www.thataicollection.com/redirect/icons8?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्रतीक, चित्रण, फ़ोटो, संगीत और डिज़ाइन टूल. | ICONS8 डिज़ाइनर को अपने विचार व्यक्त करने की अनुमति देता है, जिससे वे सही समय पर सही डिज़ाइन तत्व प्रदान करते हैं। AI विशेषताएं: फ़ेस जनरेटर, स्टॉक के चेहरे बदलें, स्मार्ट अपस्केलर, अपनी वेबसाइट को सीधे Lunacy से अपडेट करें और बहुत कुछ. | :white_check_mark: |
-| [IllostrationAI](https://www.thataicollection.com/redirect/illostrationai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उदाहरण. | एआई-जेनरेट किए गए चित्र बनाएं। कुछ लम्हों में।. | :grey_question: |
-| [Illusion Diffusion](https://www.thataicollection.com/redirect/illusion-diffusion?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इल्यूज़न डिफ्यूज़न 🌀 मुफ़्त में अपना खुद का AI आर्ट इल्यूज़न बनाएँ. | हमारे अत्याधुनिक इल्यूज़न डिफ़्यूज़न AI इमेज जनरेशन टूल का उपयोग करके अपने रचनात्मक विचारों को मनोरम दृश्यों में रूपांतरित करें। आज अनंत संभावनाएं खोलो।. | :white_check_mark: |
-| [Imaginator](https://www.thataicollection.com/redirect/imaginator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इमेजिनेटर - अपने टेक्स्ट को छवियों में बदलें. | अपने विचारों को अपने सामने सजीव होते देखने में सक्षम होने की कल्पना करें। अब केवल एक विचार नहीं, एक छवि अब वास्तविकता बन जाती है।. | :grey_question: |
-| [Imagine Me](https://www.thataicollection.com/redirect/imagine-me?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | होम - मेरी कल्पना करो. | इमेजिन मी पहला ऑनलाइन प्लेटफॉर्म है जो आपको टेक्स्ट की एक सरल पंक्ति के साथ खुद की आश्चर्यजनक एआई कला उत्पन्न करने देता है।. | :grey_question: |
-| [Imajinn AI Children's Book](https://www.thataicollection.com/redirect/imajinn-ai-childrens-book?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इमाजिन एआई. | फ़ाइन-ट्यून AI के साथ विज़ुअलाइज़ेशन की फिर से कल्पना की गई। केवल आपकी कल्पना द्वारा सीमित प्रोफ़ाइल चित्र, उत्पाद चित्र, ब्रांड और शैलियाँ उत्पन्न करें!. | :grey_question: |
-| [IMGN - Image Engine](https://www.thataicollection.com/redirect/imgn---image-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई की कल्पना करें - एडवांस्ड टेक मेड ईज़ी टू यूज़. | हम सभी आर्टिफिशियल इंटेलिजेंस की शक्ति और संभावनाओं के बारे में सुनते हैं। लेकिन मैदान के बाहर हर किसी के लिए यह हमारी समझ से परे एक जटिल मामला लगता है। कल्पना कीजिए कि एआई की स्थापना बिना किसी परेशानी के सभी लाभ प्राप्त करने के लिए दूसरों को सशक्त बनाने के लिए की गई थी। यही कारण है कि हमने आईएमजीएन ऐप बनाया है।. | :grey_question: |
-| [Kiri.art](https://www.thataicollection.com/redirect/kiri.art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | किरी। कला. | डिफ्यूजन इमेज जेनरेशन. | :grey_question: |
-| [Krea](https://www.thataicollection.com/redirect/krea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई कैनवस. | क्रिया द्वारा एआई कैनवस का परिचय. | :grey_question: |
-| [Leonardo](https://www.thataicollection.com/redirect/leonardo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लियोनार्डो.एआई - एआई के साथ आश्चर्यजनक दृश्य संपत्ति बनाएं।. | एआई-संचालित गति और शैली-संगति के साथ अपनी रचनात्मक परियोजनाओं के लिए उत्पादन गुणवत्ता संपत्तियां उत्पन्न करें।. | :grey_question: |
-| [Mage Space](https://www.thataicollection.com/redirect/mage-space?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | mage.space - कुछ भी बनाएं - कुछ भी एक्सप्लोर करें. | फ़ैंटेसी आर्ट, एनीमे, कैरेक्टर, लैंडस्केप, साइबरपंक, स्पेस, पेंटिंग, पॉप आर्ट, क्यूबिज़्म, आर्किटेक्चर, इंटीरियर डिज़ाइन जैसे विभिन्न रचनाकारों और श्रेणियों की छवियों का अन्वेषण करें।. | :white_check_mark: |
-| [MagiMaker](https://www.thataicollection.com/redirect/magimaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इंडी क्रिएटिव के लिए आसान, तेज़ और किफायती एआई डिज़ाइन समाधान, जिसमें पुस्तक कवर, पॉडकास्ट कवर, लोगो और बहुत कुछ शामिल है।. | मैगीमेकर पुस्तक/पॉडकास्ट कवर, लोगो और बहुत कुछ के लिए अनुकूलित डिज़ाइन समाधान प्रदान करता है।  हमारा उपयोगकर्ता-अनुकूल प्लेटफ़ॉर्म एक सरल प्रश्नोत्तर प्रक्रिया के माध्यम से उच्च गुणवत्ता वाले परिणाम बनाता है - किसी सीखने की आवश्यकता नहीं है!  हम आपकी रचनात्मक अवधारणाओं, मिडजॉर्नी प्रॉम्प्ट्स और पाठ या तत्व हटाने जैसे किसी भी आवश्यक समायोजन के साथ 24 घंटों के भीतर चयनित सर्वोत्तम छवियों को प्रदान करके शीघ्रता के लिए प्रयास करते हैं।. | :white_check_mark: |
-| [Midjourney](https://www.thataicollection.com/redirect/midjourney?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मध्य यात्रा. | विचार के नए माध्यमों की खोज और मानव प्रजाति की कल्पनाशील शक्तियों का विस्तार करने वाली एक स्वतंत्र अनुसंधान प्रयोगशाला।. | :grey_question: |
-| [Neural.Love](https://www.thataicollection.com/redirect/neural.love?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मुफ़्त एआई इमेज जेनरेटर और एआई एन्हांस - न्यूरल. लव. | AI इमेज जनरेटर का मुफ़्त में इस्तेमाल करें या AI बेहतर बनाएं, या लाखों सार्वजनिक डोमेन इमेज ऐक्सेस करें - AI बेहतर बनाने और इस्तेमाल में आसान ऑनलाइन AI टूल. | :white_check_mark: |
-| [Neuralblender](https://www.thataicollection.com/redirect/neuralblender?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | NeuralBlender टेक्स्ट जानकारी से इमेज जेनरेट करने के लिए अत्याधुनिक AI तकनीक का इस्तेमाल करता है. | चलो कुछ आर्ट मिलाते हैं AI से सब कुछ पूछो और टेक्स्ट इनपुट के ज़रिए नई सिक आर्ट तैयार करो। चुनिंदा सामुदायिक कलाओं को एक्सप्लोर करें, या अपनी खुद की बनाएं।. | :white_check_mark: |
-| [Neuralcanvas](https://www.thataicollection.com/redirect/neuralcanvas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | न्यूरल कैनवस - एआई कॉमिक जेनरेटर।. | एआई के समर्थन से अपनी रचनात्मकता को व्यक्त करें - अपने कॉमिक्स, ब्लॉगपोस्ट, ई-बुक, ग्राफिक उपन्यास और अन्य के लिए एआई जेनरेटेड इलस्ट्रेशन बनाएं।. | :grey_question: |
-| [NightCafe](https://www.thataicollection.com/redirect/nightcafe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई आर्ट जेनरेटर, एआई आर्ट मेकर. | एआई आर्ट जेनरेटर ऐप। #9989; तेज़ & #9989; मुफ़्त &#9989; आसान। आर्टिफिशियल इंटेलिजेंस का उपयोग करके अद्भुत कलाकृतियां बनाएं।. | :white_check_mark: |
-| [Niji Journey](https://www.thataicollection.com/redirect/niji-journey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | निजी जर्नी - चलो जादुई एनीमे तस्वीरें बनाते हैं!. | निजी·जर्नी में आपका स्वागत है, जो एक अत्याधुनिक एआई है, जो कस्टम एनीमे चित्रण बनाता है, बस तुम्हारे लिए! एक जादुई सहयोग, जिसे स्पेलब्रश और मिडजर्नी में प्रतिभाशाली दिमागों के बीच मिलकर बनाया गया था। चाहे तुम्हेंं चिबी के प्यारे किरदार की तलाश हो या डायनामिक एक्शन सीन की, निजी·जर्नी तुम्हारे सपने को जीवंत कर सकती है। हम यह देखने के लिए इंतजार नहीं कर सकते कि तुम क्या बनाते हो!. | :white_check_mark: |
-| [Not Me Netlify](https://www.thataicollection.com/redirect/not-me-netlify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऑटोपोर्ट्रेट - एआई पोर्ट्रेट बनाएं. | लाखों शैलियाँ ब्राउज़ करें या अपना स्वयं का बनाएँ, AI ऑटोपोर्ट्रेट बनाएँ।. | :grey_question: |
-| [NSFW Art Generator AI](https://www.thataicollection.com/redirect/nsfw-art-generator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | तुम पूरी आसानी से गुणवत्तापूर्ण NSFW AI इमेज जेनरेट कर सकते हो।. | हमारे NSFW AI जनरेटर के साथ। तुम पूरी आसानी से गुणवत्तापूर्ण NSFW AI इमेज जेनरेट कर सकते हो। यह टूल यूज़र को AI इमेज एक्सप्लोर करने और बनाने की सुविधा देता है, जिसमें असली, एनीमे, हाइपररियल और फ़ैंटसी विकल्प शामिल हैं।. | :grey_question: |
-| [OddVibe](https://www.thataicollection.com/redirect/oddvibe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Oddvibe: एआई-जनरेटेड छवियों को अस्त-व्यस्त करने का बेहतरीन संग्रह।. | खौफनाक एआई-जेनरेट की गई छवियों को ठीक करें। लेकिन सावधान रहें, आप फिर कभी नहीं सो सकते।. | :grey_question: |
-| [Partly](https://www.thataicollection.com/redirect/partly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आंशिक रूप से एआई द्वारा आपकी तस्वीरों से मन उड़ाने वाली कला. | एआई जादू की मदद से अपनी तस्वीरों को कला के कार्यों में बदलें!. | :grey_question: |
-| [Patience](https://www.thataicollection.com/redirect/patience?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PatienceAI - 500+ AI मॉडल और स्टाइल के साथ आर्ट बनाएं. | Patience.ai, AUTOMATIC1111 के स्टेबल डिफ़्यूज़न वेब UI से कनेक्ट हो सकता है, ताकि तुम्हारे कंप्यूटर पर क्लाउड के बजाय इमेज जेनरेट की जा सके। अगर तुमने साइन इन किया है, तो तुम्हारे द्वारा बनाई गई इमेज को तुम्हारे Patience.ai कलेक्शन में सेव कर दिया जाता है। लोकल जनरेशन 100% मुफ़्त है।. | :white_check_mark: |
-| [PatternedAI](https://www.thataicollection.com/redirect/patternedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पैटर्नडीएआई - एआई का उपयोग करके अपने उत्पाद के लिए अद्वितीय पैटर्न बनाएं!. | अपने व्यवसाय में पैटर्नेडएआई को एकीकृत करें! पैटर्नडएआई एंटरप्राइज तक शीघ्र पहुंच प्राप्त करें। वर्कफ़्लो को बदलने और विकास को गति देने में चयनित ग्राहकों से जुड़ें।. | :grey_question: |
-| [Photosonic AI](https://www.thataicollection.com/redirect/photosonic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फोटोसोनिक एआई आर्ट जेनरेटर - एआई के साथ अद्वितीय छवियां बनाएं. | फोटोसोनिक - एआई कला जनरेटर के साथ अपनी कल्पना को आश्चर्यजनक डिजिटल कला में बदलें। अपने रचनात्मक सुझावों के साथ, यह राइट्सोनिक का एआई इमेज जनरेटर आपके भीतर के कलाकार को बाहर निकालने में मदद कर सकता है और आपकी रचनाओं को दुनिया के साथ साझा कर सकता है।. | :grey_question: |
-| [Phraser](https://www.thataicollection.com/redirect/phraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Phraser - सहयोगात्मक क्रिएटिव AI टूल. | Phraser एक ऐसा ऐप है जो आपको जनरेटिव AI (मिडजर्नी, स्टेबल डिफ्यूजन और DALLE 2) का उपयोग करके इमेज बनाने, सहयोग करने और प्रेरित होने में मदद करता है।. | :grey_question: |
-| [Pictorial](https://www.thataicollection.com/redirect/pictorial?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सचित्र - अपने वेब ऐप्लिकेशन के लिए आसानी से ग्राफ़िक्स बनाएँ. | प्रेरणा मिलना मुश्किल है। विश्वसनीय, उपयोग के लिए तैयार विज़ुअल मास्टरपीस तैयार करने में सक्षम AI का लाभ उठाकर अपने संदेश को बिना किसी परेशानी के पहुंचाएं।. | :grey_question: |
-| [PirateDiffusion](https://www.thataicollection.com/redirect/piratediffusion?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कुछ भी वर्णन करें. | यथार्थवादी HD चित्र, अधिक शैलियाँ, कोई प्रतिबंध नहीं प्राप्त करें. | :white_check_mark: |
-| [Pixian](https://www.thataicollection.com/redirect/pixian?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इमेज बैकग्राउंड हटाएं, फ्री एचडी, नो साइनअप - Pixian.Ai. | छवि पृष्ठभूमि हटाएं, निःशुल्क एचडी, कोई पंजीकरण नहीं. | :white_check_mark: |
-| [Playground](https://www.thataicollection.com/redirect/playground?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | खेल का मैदान ऐ - ऑनलाइन ऐ छवि निर्माता. | प्लेग्राउंड एआई एक फ्री-टू-यूज ऑनलाइन एआई इमेज क्रिएटर है। कला, सोशल मीडिया पोस्ट, प्रस्तुतियाँ, पोस्टर, वीडियो, लोगो और बहुत कुछ बनाने के लिए इसका उपयोग करें।. | :white_check_mark: |
-| [Pollinations](https://www.thataicollection.com/redirect/pollinations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वैयक्तिकृत मीडिया के लिए आपका इंजन. | हम असीमित, अनुकूलित AI मीडिया के निर्माण की अनुमति देते हुए, किसी भी सौंदर्यशास्त्र से मेल खाने के लिए एल्गोरिदम को संयोजित और फाइन-ट्यून करते हैं।. | :grey_question: |
-| [Portrait by Vana](https://www.thataicollection.com/redirect/portrait-by-vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पोर्ट्रेट - वाना. | वाना द्वारा "पोर्ट्रेट" एक जनरेटिव आर्ट स्टूडियो है जो अनंत शैलियों में आपके सेल्फ-पोर्ट्रेट बना सकता है।. | :grey_question: |
-| [PromeAI](https://www.thataicollection.com/redirect/promeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रेंडरिंग और कलरिंग स्केच के लिए एआई टूल. | एक एआई-संचालित डिज़ाइन सहायक की तलाश कर रहे हैं जो आपके रचनात्मक विचारों को जीवन में लाने में मदद कर सके? हमारे व्यापक नियंत्रित एआईजीसी (सी-एआईजीसी) मॉडल स्टाइल लाइब्रेरी के साथ शानदार डिजाइन बनाएं। चाहे आप आर्किटेक्ट हों, इंटीरियर डिज़ाइनर हों, प्रोडक्ट डिज़ाइनर हों या गेम एनिमेशन डिज़ाइनर हों।. | :white_check_mark: |
-| [Rayst Gradients](https://www.thataicollection.com/redirect/rayst-gradients?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रेयस्ट ग्रेडिएंट्स. | एआई द्वारा उत्पन्न 64 सुंदर ग्रेडियेंट का संग्रह।. | :grey_question: |
-| [Re.Art AI Image Generator](https://www.thataicollection.com/redirect/re.art-ai-image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक छवि उत्पन्न करें। आप जो भी कल्पना करना चाहते हैं उसकी कल्पना करें!. | यह AI इमेज जेनरेटर स्टेबल डिफ्यूजन का उपयोग करके बनाया गया है। इस सेवा को जीवित रखने के लिए आप डेवलपर का समर्थन कर सकते हैं।. | :white_check_mark: |
-| [Removal.ai](https://www.thataicollection.com/redirect/removal.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बैकग्राउंड रिमूवर - पारदर्शी बैकग्राउंड बनाएं. | बैकग्राउंड रिमूवर का उपयोग करके इमेज से ऑनलाइन बैकग्राउंड हटाएं। पारदर्शी पृष्ठभूमि बनाएं - उच्च-रिज़ॉल्यूशन तुरंत और निःशुल्क डाउनलोड करें।. | :white_check_mark: |
-| [Remove.bg](https://www.thataicollection.com/redirect/remove.bg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इमेज से बैकग्राउंड हटाएं - Remove.Bg. | केवल एक क्लिक के साथ 5 सेकंड में छवि पृष्ठभूमि को स्वचालित रूप से हटाएं। मैन्युअल रूप से पिक्सेल चुनने में घंटों खर्च न करें। अभी अपनी फोटो अपलोड करें और जादू देखें।. | :white_check_mark: |
-| [Renderflux](https://www.thataicollection.com/redirect/renderflux?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रेंडरफ्लक्स - एआई के साथ डिजाइन. | सेकंड में सुंदर कला बनाना प्रारंभ करें। तकनीकी सामान के बारे में चिंता न करें, हमने आपको कवर कर लिया है।. | :grey_question: |
-| [RunDiffusion](https://www.thataicollection.com/redirect/rundiffusion?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रंडिफ्यूजन - 3 मिनट में स्थिर प्रसार कार्यक्षेत्र. | फील करने के लिए कोई कोड नहीं, इंस्टॉल करने के लिए कुछ नहीं। बहुत कम समय में एक निजी स्थिर प्रसार कार्यक्षेत्र प्राप्त करें। 3 मिनट से कम समय में AI जनित कला बनाना शुरू करें।. | :white_check_mark: |
-| [Seek art](https://www.thataicollection.com/redirect/seek-art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अचरज एआई कला बनाएँ. | अन्वेषण करें, एकत्र करें और साझा करें। शुरू करने के लिए कोई लागत नहीं। मुफ्त क्रेडिट हर दिन. | :white_check_mark: |
-| [Short Description Image Generator](https://www.thataicollection.com/redirect/short-description-image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लघु विवरण छवि जनरेटर. | एक संक्षिप्त विवरण से और डेटाबेस के आधार पर मैजिकप्रॉम्प्ट-स्टेबल-डिफ्यूजन फ्रॉम हगिंगफेस + द एपीआई ऑफ स्टेबलडिफ्यूजन; कुछ शब्दों के आधार पर चित्र बनाए जा सकते हैं. | :grey_question: |
-| [Simulai](https://www.thataicollection.com/redirect/simulai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी छवि के लिए विचार प्रदान करें। एआई को बाकी काम करने दें।. | उच्चतम गुणवत्ता वाली मशीन ने कला और स्टॉक तस्वीरें तैयार कीं। आप अपनी छवि के लिए एक विचार प्रदान करते हैं, हमारी मशीनें आपकी तस्वीर बनाने के लिए जितनी मेहनत कर सकती हैं उतनी मेहनत करती हैं।. | :white_check_mark: |
-| [SlashDreamer](https://www.thataicollection.com/redirect/slashdreamer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | धारणा + स्थिर प्रसार = एक सपना सच हो गया. | एक नए स्लैश कमांड के साथ छवियों को उत्पन्न करने के लिए धारणा में एकीकरण स्थिर प्रसार।. | :x: |
-| [Slazzer 3.0](https://www.thataicollection.com/redirect/slazzer-3.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | छवि से पृष्ठभूमि मुक्त करने के लिए निकालें. | 5 सेकंड में स्वचालित रूप से छवि से पृष्ठभूमि हटाएं। मैन्युअल रूप से पिक्सेल चुनने में समय बर्बाद न करें। बस फोटो अपलोड करें और तुरंत कटआउट प्राप्त करें।. | :white_check_mark: |
-| [SnapshotAI](https://www.thataicollection.com/redirect/snapshotai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्नैपशॉटाई. | अपनी स्वयं की एआई-जनित छवियां बनाएं. | :grey_question: |
-| [Snowpixel](https://www.thataicollection.com/redirect/snowpixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने संकेत को कलाकृति में बदलें. | आप + एआई = कला। प्रत्येक संकेत के लिए 20+ एआई जनरेट की गई छवियां प्राप्त करें, मौजूदा छवियों को और भी अधिक ऑन-ब्रांड चित्रों के लिए अपलोड करें, और उन्हें एनिमेट करें।. | :x: |
-| [Soreal.AI Studio](https://www.thataicollection.com/redirect/soreal.ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई इमेज जनरेशन के साथ शुरुआत करने का सबसे आसान तरीका. | आप जो कुछ भी देखना चाहते हैं उसे टाइप करें। सेकंड में कस्टम AI इमेज प्राप्त करें।. | :white_check_mark: |
-| [StableCog](https://www.thataicollection.com/redirect/stablecog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्थिरकोग. | स्थिर प्रसार का उपयोग करके नि: शुल्क, उपयोग में आसान, बहुभाषी और ओपन-सोर्स एआई छवि जनरेटर।. | :white_check_mark: |
-| [StarByFace](https://www.thataicollection.com/redirect/starbyface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सेलिब्रिटी लुक अलाइक फेस-रिकग्निशन ऐप - सेलेब्स लाइक मी. | मैं किस सेलिब्रिटी की तरह दिखता हूँ? पता करने की कोशिश करें! सेलेब्रिटी एक जैसे दिखने वाले चेहरे की पहचान करने वाली प्रणाली। अपने हमशक्ल का पता लगाएं।. | :grey_question: |
-| [Starryai](https://www.thataicollection.com/redirect/starryai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Starryai - AI आर्ट जेनरेटर ऐप - AI आर्ट मेकर. | बस एक संकेत दर्ज करें और हमारा एआई आपके शब्दों को कला के कार्यों में बदल देता है।. | :grey_question: |
-| [Stylized](https://www.thataicollection.com/redirect/stylized?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उत्पाद की तस्वीरें लेने का बेहतर तरीका. | फोन से सूची तक 30 सेकंड में. | :grey_question: |
-| [TattosAI](https://www.thataicollection.com/redirect/tattosai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-पावर्ड टैटू आर्टिस्ट - टैटूसाई. | यदि आपके पास टैटू के लिए कोई विचार है लेकिन सही डिज़ाइन नहीं मिल पा रहा है, तो हमारे एआई को सेकंड के भीतर एक बनाने दें। यह आपको जो पसंद है उसके आधार पर आपको सही डिज़ाइन बनाने देता है, और यह आपको असीमित विकल्प देगा ताकि सभी के लिए कुछ न कुछ हो।. | :grey_question: |
-| [This campsite does not exist](https://www.thataicollection.com/redirect/this-campsite-does-not-exist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | यह कैंपसाइट मौजूद नहीं है - 100% AI द्वारा बनाए गए कैंपसाइट्स 🤖. | AI ने कैंपसाइट्स बनाए जिनमें शानदार जगहें, टेंट और मौसम शामिल हैं, ये सभी AI द्वारा स्टेबल डिफ़्यूज़न का इस्तेमाल करके बनाए गए हैं। स्टेबल डिफ्यूज़न का इस्तेमाल करके 100% AI द्वारा जेनरेट की गई कैंपसाइट्स। हर घंटे नए कैंपसाइट जोड़े जाते हैं जिन्हें नए पेज पर देखा जा सकता है। अगर तुम्हेंं किसी भी कैंपसाइट पर अपवोट करने के लिए क्लिक करें, तो ऊपर वाले पेज पर सबसे बेहतर कैंपसाइट देखें।. | :grey_question: |
-| [USP](https://www.thataicollection.com/redirect/usp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लेखकों और रचनाकारों के लिए अद्वितीय `एआई जनित` छवियां. | अद्भुत AI ने आपकी कहानियों और ब्लॉग पोस्ट के लिए रॉयल्टी मुक्त छवियां उत्पन्न कीं। usp.ai के साथ समय, पैसा बचाएं और बेहतर छवियां प्राप्त करें अपने ब्लॉग, लेखों, सोशल मीडिया पोस्ट और बिक्री ईमेल के लिए सही छवियों की तलाश में इतना समय बर्बाद करना बंद करें... USP.ai को यह आपके लिए करने दें।. | :white_check_mark: |
-| [Visuali](https://www.thataicollection.com/redirect/visuali?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Visuali - अपनी कल्पना को विज़ुअलाइज़ करें - AI इमेज जनरेशन को आसान बनाया गया. | Visuali के AI द्वारा संचालित जनरेटिव आर्ट टूल के साथ अपनी कल्पना को हकीकत में बदलो। मुफ़्त खाते के लिए अभी साइन अप करें या नीचे टेक्स्ट प्रॉम्प्ट डालकर इसे मुफ़्त में आज़माएँ।. | :grey_question: |
-| [Vizcom AI](https://www.thataicollection.com/redirect/vizcom-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उत्पाद विज़ुअलाइज़ेशन की अगली पीढ़ी. | विज़कॉम के हैंड स्केचिंग और एआई प्रोसेसिंग टूल का शक्तिशाली संयोजन डिजाइनरों को पहले से कहीं अधिक तेजी से बनाने और प्रस्तुत करने में सक्षम बनाता है।. | :white_check_mark: |
-| [Zazow](https://www.thataicollection.com/redirect/zazow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ज़ाज़ो :: एल्गोरिथम जनरेटिव आर्ट. | कंप्यूटर जनित एल्गोरिदम का उपयोग करके अपनी स्वयं की कलाकृति बनाएँ। जनरेटिव या एल्गोरिथम कला के बारे में जानें।. | :grey_question: |
-| [Zoomscape](https://www.thataicollection.com/redirect/zoomscape?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जूमस्केप.आई. | एआई के साथ शानदार ज़ूम बैकग्राउंड बनाएं. | :grey_question: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## कानूनी
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Compliance Quarter](https://www.thataicollection.com/redirect/compliance-quarter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक्सपर्ट कंप्लायंस सिस्टम और संसाधन - कंप्लायंस क्वार्टर. | ऊर्जा, वित्तीय सेवाओं और अन्य विनियमित उद्योगों के लिए विनियामक अनुपालन प्रबंधन प्रणाली और विशेषज्ञता। हम तुम्हारे कंधों से विनियामक का बोझ उठाने के लिए विशेषज्ञ सिस्टम और सेवाएँ देते हैं।. | :grey_question: |
-| [DoNotPay](https://www.thataicollection.com/redirect/donotpay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | दुनिया का पहला रोबोट वकील. | कानूनी जानकारी को सभी के लिए सुलभ बनाने के लिए AI का उपयोग करें. | :grey_question: |
-| [Equally.ai](https://www.thataicollection.com/redirect/equally.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सभी के लिए वेब अभिगम्यता अनुपालन. | आसानी से एडीए और डब्लुसीएजी अनुपालन प्राप्त करें. | :white_check_mark: |
-| [Paralegal AI](https://www.thataicollection.com/redirect/paralegal-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पैरालीगल एआई. | एआई संचालित कानूनी अनुसंधान और सारांश।. | :white_check_mark: |
-| [PatentPal](https://www.thataicollection.com/redirect/patentpal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बौद्धिक संपदा के लिए जनरेटिव एआई. | अपने पेटेंट आवेदनों में यांत्रिक लेखन को स्वचालित करें. | :white_check_mark: |
-| [Spellbook](https://www.thataicollection.com/redirect/spellbook?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ड्राफ्ट अनुबंध एआई के साथ 3 गुना तेज. | स्पेलबुक सीधे Microsoft Word में आपके अनुबंधों की समीक्षा करने और भाषा का सुझाव देने के लिए GPT-3 का उपयोग करती है।. | :grey_question: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## कोड और डेटाबेस सहायक
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Adrenaline](https://www.thataicollection.com/redirect/adrenaline?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्टैक ओवरफ़्लो में अपनी त्रुटियों को प्लग करना बंद करें. | एड्रेनालाईन OpenAI कोडेक्स द्वारा संचालित एक डिबगिंग सहायक है। यह सेकंडों में आपके टूटे हुए कोड को ठीक कर सकता है और समझा सकता है।. | :white_check_mark: |
-| [AI Docstrings](https://www.thataicollection.com/redirect/ai-docstrings?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डॉकस्ट्रिंग्स को स्वचालित रूप से लिखें. | ट्रेलेंट एआई का उपयोग आपके कार्यों के लिए सहायक डॉकस्ट्रिंग्स को तुरंत लिखने के लिए करता है।. | :white_check_mark: |
-| [aidev.codes](https://www.thataicollection.com/redirect/aidev.codes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके लिए एआई देव कोड. | विशिष्टताओं को दर्ज करके सरल ऐप और डेमो बनाएं - एक नए प्रकार का एआई प्रांप्ट इंजीनियरिंग।. | :white_check_mark: |
-| [Anania](https://www.thataicollection.com/redirect/anania?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | विश्लेषिकी के लिए एआई सहायक. | अपने डेटा और दस्तावेज़ों पर प्रश्न पूछें. | :white_check_mark: |
-| [Ask Command](https://www.thataicollection.com/redirect/ask-command?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आस्क कमांड - एआई-पावर्ड डेवलपर असिस्टेंट. | उन आदेशों के बारे में आपको याद दिलाने के लिए एक छोटा ऐप जो आप हमेशा भूल जाते हैं। एआई द्वारा संचालित।. | :grey_question: |
-| [Baseten](https://www.thataicollection.com/redirect/baseten?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बेसटेन - स्टार्टअप्स के लिए एमलोप्स प्लेटफ़ॉर्म. | ML-संचालित एप्लिकेशन बनाने के लिए बेसटेन एक सर्वर रहित बैकएंड है। ऑटो-स्केलिंग, GPU ऐक्सेस, क्रोन जॉब और सर्वर रहित सुविधाओं के साथ ऐप्लिकेशन बनाएं।. | :grey_question: |
-| [BI.P.EYE](https://www.thataicollection.com/redirect/bi.p.eye?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सेल्फ सर्विस बीआई प्लेटफॉर्म।. | चैट-आधारित चार्ट के साथ डेटा विश्लेषण को मज़ेदार और इंटरैक्टिव बनाएं. | :white_check_mark: |
-| [Bito AI](https://www.thataicollection.com/redirect/bito-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अद्भुत कोड उत्पन्न करें, कोड प्रदर्शन में सुधार करें, अद्भुत कोड उत्पन्न करें, ChatGPT के साथ 10 गुना तेज. | दुनिया की सर्वश्रेष्ठ कंपनियों में 100K+ डेवलपर्स द्वारा भरोसा करके 31% उत्पादकता बढ़ाएं. | :white_check_mark: |
-| [Channel](https://www.thataicollection.com/redirect/channel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | चैनल. | अपना डेटाबेस कनेक्ट करें, प्रश्न पूछें, उत्तर प्राप्त करें।. | :grey_question: |
-| [Code Language Converter](https://www.thataicollection.com/redirect/code-language-converter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कोड लैंग्वेज कन्वर्टर - AI का उपयोग करके कोड को अन्य भाषाओं में बदलें. | अपना कोड स्निपेट पेस्ट करें, और AI इसे चयनित भाषा में बदल देगा!. | :white_check_mark: |
-| [CodeAssist](https://www.thataicollection.com/redirect/codeassist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कोडेसिस्ट प्रोग्रामिंग के लिए एआई असिस्टेंट / चैटबॉट / कोपिलॉट है - जेटब्रेन्स मार्केटप्लेस. | यह कोड उत्पन्न करता है, बदलता है, पूरा करता है और प्रश्नों का उत्तर देता है।. | :grey_question: |
-| [CodeGPT](https://www.thataicollection.com/redirect/codegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई इनसाइड योर आइडी. | कोड GPT AI के साथ अपना कोड सुधारें. | :white_check_mark: |
-| [Codeium](https://www.thataicollection.com/redirect/codeium?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कोडियम - द मॉडर्न कोडिंग सुपरपावर. | फास्ट एआई-आधारित कोड त्वरण और गिटहब कोपिलॉट के लिए मुफ्त विकल्प. | :white_check_mark: |
-| [CodeWP](https://www.thataicollection.com/redirect/codewp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Codewp - AI Wordpress कोड जेनरेटर और सहायक. | CodeWP एक वर्डप्रेस कोड जनरेटर है जो आपको बेहतर और तेज बनाने में मदद करने के लिए वर्डप्रेस, वू और अन्य के लिए एआई और विशेष मॉडल का उपयोग करता है।. | :white_check_mark: |
-| [CodiumAI](https://www.thataicollection.com/redirect/codiumai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | व्यस्त देवों के लिए सार्थक परीक्षण. | CodiumAI आपके कोड का विश्लेषण करता है और आपके भेजने से पहले बग को पकड़ने के लिए सार्थक परीक्षण उत्पन्न करता है. | :white_check_mark: |
-| [Datamaker](https://www.thataicollection.com/redirect/datamaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई संचालित वेबफ्लो कोड और डिजाइनरों के लिए कॉपी टूल्स।. | यदि आप एक वेबफ्लो डिज़ाइनर या वेबफ्लो डेवलपर हैं तो आपको इन उपकरणों को देखने की आवश्यकता है। अपनी वेबफ्लो समस्याओं को हल करने के लिए कोड बनाने और कॉपी करने के लिए AI का उपयोग करें।. | :grey_question: |
-| [Decile](https://www.thataicollection.com/redirect/decile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पूछकर अपनी जरूरत का डेटा प्राप्त करें।. | एआई की शक्ति के साथ डेटा-आधारित संगठन बनाएं।. | :x: |
-| [DocuWriter.ai](https://www.thataicollection.com/redirect/docuwriter.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ✨ कोड प्रलेखन के लिए अंतिम एआई. | एक शक्तिशाली उपकरण जो स्वचालित रूप से स्रोत कोड फ़ाइलों से व्यापक और सटीक दस्तावेज़ तैयार करता है. | :white_check_mark: |
-| [Explain An Error](https://www.thataicollection.com/redirect/explain-an-error?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वाईबग द्वारा स्पष्ट कीजिए. | एआई आपको समझाता है कि आपका कोड खराब क्यों है और इसे कैसे ठीक किया जाए. | :grey_question: |
-| [ExplainDev](https://www.thataicollection.com/redirect/explaindev?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक्सप्लेनदेव - कोड एक्सप्लेनर जो संदर्भ में आपके प्रश्नों का उत्तर देता है. | एक्सप्लेनडेव आपको दूसरों के कोड के साथ अधिक आत्मविश्वासी और स्वतंत्र होने में मदद करता है। एआई द्वारा संचालित क्रोम और वीएस कोड एक्सटेंशन के माध्यम से कोड स्पष्टीकरण और अपने प्रश्नों के सीधे उत्तर प्राप्त करें।. | :grey_question: |
-| [Fine](https://www.thataicollection.com/redirect/fine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बेहतर सॉफ़्टवेयर बनाएं, तेज़ गति से. | फाइन आपके कार्यों को अनुरूप विशिष्टताओं में बदल देता है और उन्हें आपके लिए लागू करने के लिए एआई एजेंटों का उपयोग करता है। दक्षता के लिए नए मानक के साथ सॉफ्टवेयर विकास में तेजी लाएं। विस्तृत विशिष्टताओं के आधार पर कोड तैयार करके अपनी टीम की शुरुआत करें, जिससे आपका कोडिंग समय 80% तक कम हो जाएगा।. | :white_check_mark: |
-| [Flexberry AI Assistant](https://www.thataicollection.com/redirect/flexberry-ai-assistant?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फ़्लेक्सबेरी एआई असिस्टेंट - बिज़नेस एनालिस्ट के लिए AI असिस्टेंट. | बिज़नेस विश्लेषकों और UI/UX डिज़ाइनर जैसे अन्य विशेषज्ञों के लिए टेक्स्ट का विश्लेषण करना आसान और तेज़ बनाना, और एक मिनट में मॉकअप फ़ॉर्म, SQL स्क्रिप्ट और UML डायग्राम जेनरेट करने के लिए।. | :grey_question: |
-| [Ghostwriter](https://www.thataicollection.com/redirect/ghostwriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उत्तर दें: सहयोगात्मक ब्राउज़र आधारित विचारधारा. | अपने ब्राउज़र में लाइव कोड चलाएँ। रिप्लिट, एक शक्तिशाली आईडीई, कंपाइलर और दुभाषिया के साथ 50+ भाषाओं में ऑनलाइन कोड लिखें और चलाएं।. | :grey_question: |
-| [GitHub Copilot](https://www.thataicollection.com/redirect/github-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपका एआई जोड़ी प्रोग्रामर. | GitHub Copilot सीधे आपके संपादक से वास्तविक समय में कोड और संपूर्ण कार्यों का सुझाव देने के लिए OpenAI कोडेक्स का उपयोग करता है. | :grey_question: |
-| [Hiphops AI](https://www.thataicollection.com/redirect/hiphops-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने विकास कार्यप्रवाह में कहीं भी एआई इंजेक्ट करें. | हिपॉप्स एआई आपको अपने विकास वर्कफ़्लो में कहीं भी जेनरेटिव एआई को एकीकृत करने की सुविधा देता है ताकि आप अपने विकास, परीक्षण, तैनाती और रिलीज प्रक्रिया को पूरी तरह से स्वचालित कर सकें।. | :white_check_mark: |
-| [Kyligence Copilot](https://www.thataicollection.com/redirect/kyligence-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डेटा के लिए AI कोपायलट के साथ अपने KPI को एक्सेल करें. | काइलिगेंस कोपायलट से मिलें - डेटा के लिए आपका एआई कोपायलट। बस चैट करें, पूछें और खोजें। हमारा AI-संचालित चैटबॉट आपके व्यावसायिक मेट्रिक्स को समझता है, जिससे आप अपने KPI का मूल्यांकन कर सकते हैं, सिफारिशें प्रदान कर सकते हैं, तकनीकी विशेषज्ञता की आवश्यकता के बिना, प्राकृतिक भाषा में डेटा उत्पाद बना सकते हैं।. | :white_check_mark: |
-| [Mutable.ai](https://www.thataicollection.com/redirect/mutable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Mutableai। एआई त्वरित सॉफ्टवेयर विकास।. | एआई का उपयोग करके उत्पादन गुणवत्ता के साथ तेजी से निर्माण करें।. | :grey_question: |
-| [QueryGenie](https://www.thataicollection.com/redirect/querygenie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डीबी प्रश्न तेजी से लिखें!. | एआई का उपयोग करके सादे-अंग्रेजी विवरण से डेटाबेस प्रश्न उत्पन्न करें।. | :grey_question: |
-| [Rome AI](https://www.thataicollection.com/redirect/rome-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने डेटा को संवादी तरीके से क्वेरी करें. | रोम एआई आपके डेटा स्रोत से जुड़ता है, विश्लेषण करता है और आपके अपने डेटा के साथ संवादात्मक चर्चा की अनुमति देता है! रोम एक एआई संचालित नो-कोड डेटा सक्षमता और विश्लेषण परत है, जो गैर-तकनीकी कर्मचारियों को अलौकिक डेटा विश्लेषक बनने के लिए सशक्त बनाता है।. | :white_check_mark: |
-| [Scale](https://www.thataicollection.com/redirect/scale?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्केल एआई: तुम्हारे डेटा के साथ पावर जनरेटिव एआई. | विश्व स्तरीय कंपनियों पर भरोसा किया जाता है, स्केल AI अनुप्रयोगों के लिए उच्च गुणवत्ता वाला प्रशिक्षण डेटा देता है, जैसे कि सेल्फ-ड्राइविंग कार, मैपिंग, AR/VR, रोबोटिक्स आदि। सबसे अच्छे डेटा के साथ सबसे अच्छे मॉडल बनाओ। स्केल डेटा इंजन तुम्हारे एंटरप्राइज़ डेटा का फ़ायदा उठाता है, और स्केल जेनेरेटिव AI प्लेटफ़ॉर्म के साथ, AI के मान को सुरक्षित रूप से अनलॉक करता है।. | :grey_question: |
-| [SQLgenius](https://www.thataicollection.com/redirect/sqlgenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एसक्यूएल जीनियस - अंग्रेजी से एसक्यूएल क्वैरी एआई ट्रांसलेटर. | एसक्यूएल जीनियस को तुम्हारे लिए एसक्यूएल लिखने दो।  अपग्रेड एसक्यूएल जीनियस का इस्तेमाल करने के फायदे: असीमित क्वेरीज़, एक बार में अधिकतम 15 टेबल सेव करना, मल्टीपल जॉइन, विंडो फ़ंक्शंस, पार्टीशन, अननेस्टिंग, शानदार ग्राहक सहायता।. | :grey_question: |
-| [Swimm AI](https://www.thataicollection.com/redirect/swimm-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपका कोड दस्तावेज़ीकरण महाशक्ति. | डॉक्यूमेंटेशन संरचनाएँ बनाएँ, कोड स्पष्टीकरण उत्पन्न करें और स्विम एआई के साथ दस्तावेज़ दृश्यता बढ़ाएँ. | :white_check_mark: |
-| [Tabnine](https://www.thataicollection.com/redirect/tabnine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सॉफ्टवेयर डेवलपर्स के लिए एआई सहायक - Tabnine. | चाहे आप एक टीम का हिस्सा हों, या अपने दम पर काम करने वाले डेवलपर हों, Tabnine आपको तेजी से कोड लिखने में मदद करेगा - सब कुछ आपकी पसंदीदा IDE में।. | :grey_question: |
-| [Text2SQL](https://www.thataicollection.com/redirect/text2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Text2Sql.Ai - AI के साथ मुफ्त में SQL क्वेरी जेनरेट करें!. | . | :white_check_mark: |
-| [TLDR - Jetbrains IDE Plugin](https://www.thataicollection.com/redirect/tldr---jetbrains-ide-plugin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टीएलडीआर - सादे अंग्रेजी में कोड समझाएं. | टीएलडीआर एक आईडीई प्लगइन है जो सादे अंग्रेजी में कोड की व्याख्या करने के लिए एआई का लाभ उठाता है।. | :grey_question: |
-| [Whatthediff](https://www.thataicollection.com/redirect/whatthediff?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | व्हाट-द-डिफ - एआई-संचालित कोड समीक्षा सहायक. | एआई संचालित गिटहब ऐप जो सादे अंग्रेजी में आपके पुल अनुरोधों में बदलाव की व्याख्या करता है. | :grey_question: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## खरीद और बिक्री
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [AdInsights](https://www.thataicollection.com/redirect/adinsights?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डिजिटल विज्ञापन अभियान डेटा से इंटेलिजेंट एक्शन आइटम उत्पन्न करने के लिए एआई का उपयोग करें. | विश्लेषण के लिए प्राथमिक उद्देश्य इनपुट करें, प्रत्येक प्लेटफ़ॉर्म के लिए 1+ डिजिटल विज्ञापन अभियान डेटा अपलोड करें, निष्पादित करने के लिए बुद्धिमान कार्रवाई योग्य आइटम प्राप्त करें. | :white_check_mark: |
-| [Altera AI](https://www.thataicollection.com/redirect/altera-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लिंक्डइन पर बेचने का बेहतर तरीका. | अधिक लीड प्राप्त करें और Altera के साथ अधिक सौदे करें, AI बिक्री सहायक जो लिंक्डइन पर अति व्यक्तिगत टिप्पणियां, इनमेल और पोस्ट उत्पन्न करता है।. | :white_check_mark: |
-| [Ampifire](https://www.thataicollection.com/redirect/ampifire?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सामग्री और ब्रांड प्रवर्धन के साथ तुम्हारे लिए ऑर्गेनिक ट्रैफ़िक किया गया है, जिसे A.I. ने बेहतर बनाया है. | दुनिया के सबसे बड़े और सबसे अच्छे ट्रैफ़िक स्रोत से ऑर्गेनिक लक्षित खरीदार ट्रैफ़िक प्राप्त करें, ताकि ज़्यादा लोग तुम्हारी चीज़़ें ख़रीदें। तुम्हारे ब्रांड को आगे बढ़ाने का AmpiFire तरीका 3 चरणों में काम करता है: 1। 2 बनाएं। पुनरुत्पादन 3। वितरण करें: जिससे ऑनलाइन तुम्हारे ब्रांड की उपस्थिति और प्रतिष्ठा में सुधार होता है और तुम्हारे सभी ट्रैफ़िक स्रोतों में रूपांतरण बढ़ता है।. | :grey_question: |
-| [BaruaAI](https://www.thataicollection.com/redirect/baruaai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सेकेंड में उच्च परिवर्तित बिक्री ईमेल उत्पन्न करें. | हमारा मंच आपके प्रमुख उत्पाद विवरण और उद्देश्यों को प्रेरक गद्य में बदल देता है, जो आपके दर्शकों को आकर्षित करने और रूपांतरण दरों को आसमान छूने के लिए तैयार किया गया है।. | :white_check_mark: |
-| [Briefly](https://www.thataicollection.com/redirect/briefly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | संक्षेप में - एआई पावर्ड ब्रीफिंग प्लेटफॉर्म. | मार्केटिंग ब्रीफ्स जो सर्वोत्तम रचनात्मक कार्य को प्राप्त करते हैं। अपनी मार्केटिंग प्रभावशीलता में सुधार करें और बुरी तरह से लिखे गए ब्रीफ की लागत कम करें।. | :grey_question: |
-| [CastPush](https://www.thataicollection.com/redirect/castpush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-संचालित मल्टी-चैनल प्रसारण. | CastPush का उपयोग करके कुछ ही क्लिक के साथ अपने सभी सोशल मीडिया चैनलों से कनेक्ट और प्रसारित करें। हमारी जादुई एआई तकनीक अधिकतम पहुंच और जुड़ाव सुनिश्चित करते हुए प्रत्येक व्यक्तिगत कनेक्शन के लिए आपकी सामग्री का अनुकूलन करती है।. | :white_check_mark: |
-| [Clickable](https://www.thataicollection.com/redirect/clickable?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ सेकंड में विज्ञापन उत्पन्न करें. | सभी मार्केटिंग चैनलों के लिए सुंदर, ब्रांड-संगत और अत्यधिक रूपांतरित विज्ञापन। किसी डिज़ाइन अनुभव की आवश्यकता नहीं है।. | :grey_question: |
-| [Copy.ai](https://www.thataicollection.com/redirect/copy.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ बेहतर मार्केटिंग कॉपी और कंटेंट लिखें. | अच्छे के लिए कोरे पन्ने को अलविदा कहो. | :white_check_mark: |
-| [Ctrl](https://www.thataicollection.com/redirect/ctrl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके जटिल सीआरएम वर्कफ़्लोज़ के लिए एक आधुनिक यूआई. | सीआरएम अपडेट को स्वचालित करके, अनुरूप फॉलो-अप तैयार करके और डील निष्पादन को सुविधाजनक बनाकर अपने बिक्री वर्कफ़्लो और कार्यों को सरल बनाएं. | :white_check_mark: |
-| [Cuetap.com](https://www.thataicollection.com/redirect/cuetap.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई और सीआई संचालित बिक्री युद्धकार्ड. | एआई-पावर्ड प्लेटफॉर्म ऑटोमैजिकल बैटलकार्ड्स और एक्शनेबल कॉम्पिटिटिव इंटेलिजेंस प्रदान करता है।. | :white_check_mark: |
-| [FlashIntel](https://www.thataicollection.com/redirect/flashintel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | FlashIntel: राजस्व बढ़ाने की रणनीतियाँ। ☁. | पेश है FlashIntel: एक प्रमुख गो-टू-मार्केट इंटेलिजेंस कंपनी जो आदर्श ग्राहक प्रोफ़ाइल खोजने और उनसे जुड़ने की क्षमता में सुधार करके राजस्व टीमों को मजबूत करती है। हमारे सभी समावेशी समाधान एक एकीकृत प्लेटफ़ॉर्म के अंदर सेल्स इंटेलिजेंस और सहभागिता की सुविधाओं को जोड़ते हैं, जिससे राजस्व टीमें अपने काम के फ़्लो को बेहतर बना सकती हैं और बेहतर प्रदर्शन हासिल करने पर ध्यान केंद्रित कर सकती हैं।. | :white_check_mark: |
-| [Genius Sheets](https://www.thataicollection.com/redirect/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जीनियस शीट्स - बिज़नेस इंटेलिजेंस फ़्रॉम द फ्यूचर एआई पावर्ड डेटा एनालिटिक्स. | Genius Sheets AI तुम्हारे सभी महत्वपूर्ण सवालों के जवाब देने के लिए सेल्फ़ सर्विस बिज़नेस इंटेलिजेंस एजेंट है। संवादी एआई - जीनियस शीट्स से ऐसे बात करो जैसे कि तुम किसी सहकर्मी से बात कर रहे हो एंटरप्राइज़ सुरक्षा - एंटरप्राइज़ सुरक्षा मानकों के लिए बनाई गई - तुम्हारा डेटा सुरक्षित रखना। इस्तेमाल में आसान - किसी SQL या Python की आवश्यकता नहीं है नेटिव इंटरफ़ेस - हमारे वेबऐप, स्लैक या टीम में अपने डेटा से कनेक्ट करें. | :white_check_mark: |
-| [GetResponse](https://www.thataicollection.com/redirect/getresponse?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्रतिक्रिया प्राप्त करें - सभी के लिए व्यावसायिक ईमेल मार्केटिंग. | ईमेल भेजने, पेज बनाने और अपनी मार्केटिंग को स्वचालित करने के लिए शक्तिशाली, सरलीकृत टूल।. | :white_check_mark: |
-| [Hoppy Copy](https://www.thataicollection.com/redirect/hoppy-copy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हॉपी कॉपी: एआई ईमेल मार्केटिंग कॉपी राइटिंग प्लेटफॉर्म. | लिखने के अनगिनत घंटे बचाएं। सैकड़ों अलग-अलग ईमेल मार्केटिंग अभियानों, ड्रिप, न्यूज़लेटर्स और बहुत कुछ के लिए सेकंड में शक्तिशाली कॉपी बनाने के लिए AI का उपयोग करें ⚡. | :grey_question: |
-| [MarketingBlocks AI](https://www.thataicollection.com/redirect/marketingblocks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मार्केटिंग का भविष्य यहां है. | लैंडिंग पेज, प्रोमो वीडियो, विज्ञापन, मार्केटिंग कॉपी, ग्राफिक्स, ईमेल, वॉइसओवर, ब्लॉग पोस्ट, कला और बहुत कुछ बनाने वाला मानव जैसा ऑल-इन-वन एआई मार्केटिंग सहायक. | :grey_question: |
-| [SimplePhones.ai](https://www.thataicollection.com/redirect/simplephones.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | किसी ग्राहक की कॉल मिस न करें. | अपने छूटे हुए कॉल को अग्रेषित करें, या एक नया नंबर प्राप्त करें, और सरल फ़ोन एआई का उपयोग करके इसका उत्तर देंगे। आपको अपने व्यवसाय के लिए निःशुल्क एक फ़ोन एजेंट बनाया जाएगा। आप किसी भी इनकमिंग कॉल के लिए केवल 19¢/मिनट का भुगतान करते हैं. | :x: |
-| [Speaq.ai](https://www.thataicollection.com/redirect/speaq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके व्यवसाय के लिए रेडी मेड रूपांतरण एआई. | हमारा मिशन आर्टिफिशियल इंटेलिजेंस के साथ बी2बी मार्केटिंग और कस्टमर सपोर्ट में क्रांति लाना है। सहजता से मीटिंग शेड्यूल करें और AI के साथ उपस्थिति सत्यापित करें। एआई संवादी कॉल के साथ अपनी सर्वेक्षण प्रक्रिया को व्यवस्थित करें।. | :grey_question: |
-| [Traq.ai](https://www.thataicollection.com/redirect/traq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-पावर्ड कन्वर्सेशन इंटेलिजेंस के साथ अधिक बिक्री बंद करें. | Traq.ai आपकी बिक्री टीम द्वारा की जाने वाली हर कॉल का विश्लेषण करती है और उन्हें सफलता के अलौकिक स्तरों तक पहुँचने के लिए कार्रवाई योग्य अंतर्दृष्टि प्रदान करती है।. | :white_check_mark: |
-| [unbounce](https://www.thataicollection.com/redirect/unbounce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके व्यवसाय को बढ़ाने के लिए स्मार्ट मार्केटिंग टूल. | अपने अधिक आगंतुकों को ग्राहकों में बदलें। अनबॉन्स एआई-पावर्ड लैंडिंग पेज बिल्डर है जिसमें स्मार्ट विशेषताएं हैं जो आपको कुछ ही मिनटों में सुंदर, उच्च-प्रदर्शन वाले मार्केटिंग अभियान बनाने देती हैं।. | :x: |
-| [Userevaluation](https://www.thataicollection.com/redirect/userevaluation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उपयोगकर्ता मूल्यांकन - ग्राहक समझ मंच. | चाहे आप यूआई, यूएक्स रिसर्च, डिजाइन, या सीएक्स यूजर इवैल्यूएशन के एआई पर केंद्रित हों, आपके सभी सवालों का जवाब दे सकता है. | :white_check_mark: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## खोज इंजन
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Anypod](https://www.thataicollection.com/redirect/anypod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रचनाकारों के लिए निर्मित खोज इंजन. | हम आपकी सामग्री को खोजने योग्य बनाते हैं. | :white_check_mark: |
-| [Broker One AI Engine](https://www.thataicollection.com/redirect/broker-one-ai-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ब्रोकर वन एआई इंजन एक एआई-संचालित उपकरण है जो रियल एस्टेट को सरल बनाता है।. | ब्रोकर वन एआई इंजन एक अत्याधुनिक, एआई-संचालित टूल है जिसे विशेष रूप से रियल एस्टेट की जटिल दुनिया के लिए डिज़ाइन किया गया है। यह नवोन्वेषी प्लेटफ़ॉर्म संपत्तियों के विशाल और व्यापक डेटासेट के साथ कृत्रिम बुद्धिमत्ता की शक्ति को जोड़ता है ताकि सटीक संपत्ति मूल्यांकन प्रदान किया जा सके और कुशल संपत्ति ब्राउज़िंग सक्षम की जा सके। ब्रोकर वन एआई इंजन अपनी परिष्कृत संपत्ति खोज कार्यक्षमता के साथ अलग दिखता है।. | :white_check_mark: |
-| [Lexii.ai](https://www.thataicollection.com/redirect/lexii.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लेक्सी.ऐ. | Lexi.ai एक AI खोज सहायक है जो सवालों के जवाब देता है और स्रोतों का हवाला देता है।. | :white_check_mark: |
-| [namefinder.ai](https://www.thataicollection.com/redirect/namefinder.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-संचालित व्यवसाय और डोमेन नाम जेनरेटर. | हम, Namefinder पर, लोगों के व्यवसायों के लिए डोमेन नाम लेकर आने से उनका समय बचाने का लक्ष्य रखते हैं। हम ऐसा उनकी वेबसाइट की जरूरतों के आधार पर नामों का प्रस्ताव करके करते हैं, और इससे पहले हम डोमेन रजिस्ट्री की जांच करते हैं ताकि केवल उपलब्ध डोमेन नामों को चुनने के लिए दिया जा सके। सभी चैट Gpt द्वारा संचालित।. | :white_check_mark: |
-| [OpenArt Photo Booth](https://www.thataicollection.com/redirect/openart-photo-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डिस्कवर और एआई कला उत्पन्न करें - ओपनआर्ट. | 10M+ प्रॉम्प्ट खोजें, और स्थिर प्रसार, DALL·E 2 के माध्यम से AI कला उत्पन्न करें।. | :white_check_mark: |
-| [Perplexity AI](https://www.thataicollection.com/redirect/perplexity-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Perplexity AI एक उत्तर इंजन है जो बड़े भाषा मॉडल का उपयोग करके जटिल प्रश्नों के सटीक उत्तर देता है।. | आस्क बड़े भाषा मॉडल और सर्च इंजन द्वारा संचालित है। सटीकता खोज परिणामों और AI क्षमताओं द्वारा सीमित है।. | :white_check_mark: |
-| [SEOify](https://www.thataicollection.com/redirect/seoify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Google में रैंकिंग में मदद करने के लिए SEOiFy AI SEO स्वचालित सहायक उपकरण. | पेश है SEOiFy: हमारे अत्याधुनिक AI-संचालित प्लेटफ़ॉर्म की मदद से अपनी वेबसाइट के SEO में क्रांति लाएं। इंडस्ट्री के मानकों के आधार पर स्वचालित, रीयल-टाइम ऑप्टिमाइज़ेशन के ज़रिए अपनी साइट की पूरी क्षमता को अनलॉक करें। हमारे अच्छे AI-संचालित SEO टूल की बदौलत, अपनी रैंकिंग और ऑर्गेनिक ट्रैफ़िक को आसानी से बेहतर बनाएं।. | :white_check_mark: |
-| [Smarty Names](https://www.thataicollection.com/redirect/smarty-names?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई रोबोट्स द्वारा नि:शुल्क रचनात्मक डोमेन नाम खोज. | SmartyNames.com के साथ एक रचनात्मक और अद्वितीय डोमेन खोजना आसान है जो अभी भी उपलब्ध है - हमें बताएं कि आप क्या करते हैं, और हमारे रोबोट आपके लिए सही डोमेन ढूंढ लेंगे। एक क्लिक में कंपनी का नाम जनरेटर।. | :white_check_mark: |
-| [You](https://www.thataicollection.com/redirect/you?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वह AI सर्च इंजन जिसे तुम नियंत्रित करते हो. | AI असिस्टेंट जो तुम्हेंं ज़्यादा काम करने में मदद करता है। बिना किसी परेशानी के, AI चैट का अनुभव करें बस तुमसे चैट करने के लिए कुछ भी पूछो और तुरंत, उपयोगी जवाब पाओ। GPT-4 के साथ व्यापक प्रतिक्रियाएँ ज़्यादा सटीकता के साथ लंबे और ज़्यादा विस्तृत जवाब जनरेट करें।. | :white_check_mark: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## ग्राहक सहेयता
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [AI Answers by Cohere](https://www.thataicollection.com/redirect/ai-answers-by-cohere?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ग्राहक सहायता के लिए संवादी AI प्लेटफ़ॉर्म - कोहेयर. | एआई-संचालित समर्थन सहायता जो पिछले टिकटों से उत्तर ढूंढती है. | :grey_question: |
-| [Bahasa](https://www.thataicollection.com/redirect/bahasa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बहासा.आई - चैटबॉट जो ग्राहकों को पूरी तरह से सेवा प्रदान करता है. | ऑटोमेशन जो आपके व्यवसाय में मदद करता है, लाखों खुश ग्राहकों को तेजी से सेवा प्रदान करता है, एआई द्वारा संचालित विशेष रूप से बहासा इंडोनेशिया के लिए बनाया गया है।. | :grey_question: |
-| [ChatFlow](https://www.thataicollection.com/redirect/chatflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी वेबसाइट के लिए ChatGPT की क्षमता को अनलॉक करें. | अपने ग्राहकों से जुड़ने, रूपांतरण बढ़ाने और आमदनी बढ़ाने के लिए AI-संचालित चैटबॉट बनाएं। SaaS, ई-कॉमर्स या किसी भी ऑनलाइन बिज़नेस के लिए बिल्कुल सही।. | :white_check_mark: |
-| [ChatGenius](https://www.thataicollection.com/redirect/chatgenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | चैटजीनियस - बहुभाषी संचार की शक्ति को अनलॉक करें. | ChatGenius एक सॉफ्टवेयर कंपनी है जो GPT-4 और ChatGPT द्वारा संचालित एक शक्तिशाली AI चैटबॉट समाधान प्रदान करती है। हमारा चैटबॉट 110 से अधिक भाषाओं में 24/7 सहायता प्रदान करता है और इसे आपकी वेबसाइट या प्लेटफ़ॉर्म में मूल रूप से एकीकृत किया जा सकता है. | :white_check_mark: |
-| [EddyAI](https://www.thataicollection.com/redirect/eddyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने ग्राहकों को स्वचालित रूप से 24/7 बेचें और उनका समर्थन करें. | बिक्री बढ़ाएँ और समर्थन लागत कम करें. | :white_check_mark: |
-| [OneTone.ai](https://www.thataicollection.com/redirect/onetone.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हम सहायता टीमों को तेज़ और अधिक सटीक संचार करने में मदद करते हैं. | OneTone.ai एक एआई-संचालित प्लेटफ़ॉर्म है जो आपको मूल्यवान अंतर्दृष्टि प्रदान करता है, जिससे आप सूचित निर्णय ले सकते हैं और उच्चतम ग्राहक सेवा प्रदान कर सकते हैं।. | :white_check_mark: |
-| [Poised 2.0](https://www.thataicollection.com/redirect/poised-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | तैयार - मुफ़्त AI- संचालित कम्यूनिकेशन कोच. | प्रस्तुतियों, साक्षात्कारों, ग्राहकों की कॉल में तुम्हारा AI फ़ीडबैक पार्टनर। अपनी ऑनलाइन मीटिंग के पहले, दौरान और बाद में निजी फ़ीडबैक के साथ मीटिंग में ज़्यादा प्रभावी ढंग से संवाद करें. | :white_check_mark: |
-| [ResolveAI](https://www.thataicollection.com/redirect/resolveai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | समाधान. | हमारे एआई चैटबॉट ग्राहकों की समस्याओं को समझने और वास्तविक समय में अनुरूप, सटीक प्रतिक्रिया प्रदान करने के लिए डिज़ाइन किए गए हैं।. | :grey_question: |
-| [Webapi.ai 2.0](https://www.thataicollection.com/redirect/webapi.ai-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ग्राहक सेवा के लिए ChatGPT. | लीड्स से जुड़ने, अपने व्यवसाय के बारे में सवालों के जवाब देने, ग्राहक डेटा रिकॉर्ड करने और अपनी पसंद के किसी भी एपीआई को जोड़ने के लिए GPT-4 का उपयोग करें।. | :white_check_mark: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## चैट बॉट
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [AChatsimple](https://www.thataicollection.com/redirect/achatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT बिज़नेस चैटबॉट तुम्हारे लिए आसान बना दिया गया है. | ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छोटे और मध्यम आकार के व्यवसायों (SMB) के लिए सिर्फ़ 5 मिनट में रूपांतरण-उन्मुख चैटबॉट बनाने में माहिर है। प्लेटफ़ॉर्म तीन प्रमुख कार्यक्षमताओं पर केंद्रित है: लीड जनरेशन, अक्सर पूछे जाने वाले प्रश्न प्रबंधन और प्री-क्वालिफिकेशन से संबंधित प्रश्नों को संभालना। एसएमबी को डोमेन-विशिष्ट विशेषज्ञता के साथ अपने स्वयं के चैटबॉट बनाने में सक्षम करके,. | :white_check_mark: |
-| [Askrobi](https://www.thataicollection.com/redirect/askrobi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | व्हाट्सएप में एआई की शक्ति. | रॉबी एक शक्तिशाली एआई साथी है जो आपकी संपर्क सूची में रहता है और व्हाट्सएप के माध्यम से उससे बात की जा सकती है, वह आपको एक निबंध लिखने या मूल चित्र बनाने में मदद कर सकता है!. | :white_check_mark: |
-| [Beam](https://www.thataicollection.com/redirect/beam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बीम - macOS के लिए सबसे बेहतर ChatGPT UI।. | लॉन्चर ऐप की तरह, बीम एक फ़्लोटिंग चैट विंडो देता है, जिसे तुम एक ही कीबोर्ड शॉर्टकट से खोल सकते हो और अपनी मौजूदा विंडो से छोड़े बिना मॉडल के साथ चैट कर सकते हो। GPT मॉडल और व्यक्तित्व बदलें, पहले से बनाए गए टेम्पलेट का इस्तेमाल करें, अपने Mac पर किसी भी ऐप के साथ इंटरैक्ट करें और कई अन्य सुविधाएँ एक ही क्लिक में उपलब्ध हो जाती हैं!. | :white_check_mark: |
-| [BLOONY](https://www.thataicollection.com/redirect/bloony?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ब्लूनी - एआई चैटबॉट. | चैटट्रिप पर जाएँ!. | :grey_question: |
-| [Bodt](https://www.thataicollection.com/redirect/bodt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bodt - तुम्हारी वेबसाइट के लिए AI ग्राहक सहायता. | Bodt.io, AI चैटबॉट बनाने के लिए एक सहज, नो-कोड प्लेटफ़ॉर्म है। सिर्फ़ 15 मिनट में, अपनी वेबसाइट के कॉन्टेंट पर प्रशिक्षित वैयक्तिकृत चैटबॉट बनाएँ।   Bodt द्वारा संचालित AI चैट सहायता के साथ अपने ऑनलाइन स्टोर के अनुभव को बेहतर बनाएं। अपने खरीदारों को 24/7 ग्राहक सहायता, स्मार्ट प्रॉडक्ट सुझाव, ऑर्डर ट्रैकिंग और तुरंत प्रतिक्रियाएँ दें।. | :grey_question: |
-| [BotGPT](https://www.thataicollection.com/redirect/botgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टेलीग्राम जीपीटी बॉट. | टेलीग्राम बॉट जो जीपीटी तक तेज और सहज पहुंच की अनुमति देता है, आपके इतिहास को सहेजता है, और आपके फोन या डेस्कटॉप से उपलब्ध है। कूल फीचर्स आने वाले हैं।. | :white_check_mark: |
-| [Build Chatbot](https://www.thataicollection.com/redirect/build-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | दुनिया के #1 एआई चैटबॉट का अनावरण - आपके निजी डेटा पर स्वचालित रूप से प्रशिक्षित, सभी फ़ाइल प्रारूपों का समर्थन करता है. | बिल्ड चैटबॉट एक अद्वितीय नो-कोड चैटबॉट बिल्डर है जो व्यवसायों और व्यक्तियों को कुछ आसान चरणों में अपना व्यक्तिगत चैटबॉट बनाने के लिए सशक्त बनाता है। यह एक शक्तिशाली एआई टूल है जो पीडीएफ, सीएसवी, डीओसीएक्स फाइलों, यूआरएल और यहां तक ​​कि ऑडियो और वीडियो फाइलों जैसे विभिन्न फ़ाइल प्रारूपों से आसानी से सटीक जानकारी निकालता है।. | :white_check_mark: |
-| [Chai](https://www.thataicollection.com/redirect/chai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | चाय - एआई के साथ चैट करें. | एआई के साथ सम्मोहक बातचीत के लिए चाय गंतव्य है। चाय पर, आप हजारों उपयोगकर्ताओं के लिए एआई चैटबॉट बना और तैनात कर सकते हैं।. | :grey_question: |
-| [Chatbase](https://www.thataicollection.com/redirect/chatbase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने डेटा पर प्रशिक्षित AI चैटबॉट बनाएं. | बस एक पीडीएफ अपलोड करें और जीपीटी आधारित चैटबॉट का लिंक प्राप्त करें जो इस पर किसी भी प्रश्न का उत्तर दे सकता है।. | :white_check_mark: |
-| [ChatBotKit](https://www.thataicollection.com/redirect/chatbotkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उन्नत एआई चैट बॉट बनाने का सबसे तेज़ तरीका. | ChatBotKit आपको अपनी वेबसाइट, स्लैक, डिस्कॉर्ड और व्हाट्सएप पर उपयोगकर्ताओं के साथ स्वाभाविक रूप से संवाद करने के लिए अपने स्वयं के डेटा के साथ संवादी AI चैटबॉट बनाने में मदद करता है।. | :white_check_mark: |
-| [ChatGPT](https://www.thataicollection.com/redirect/chatgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टेक्स्ट जनरेशन और अंडरस्टैंडिंग के लिए एक शक्तिशाली लैंग्वेज मॉडल. | चैटजीपीटी ओपनएआई द्वारा विकसित एक उन्नत भाषा मॉडल है। मानव जैसी प्रतिक्रियाओं को समझने और उत्पन्न करने के लिए इसे विविध प्रकार के ग्रंथों पर प्रशिक्षित किया गया है। ChatGPT का प्राथमिक उद्देश्य उपयोगकर्ताओं को सवालों के जवाब देने, जानकारी प्रदान करने और विभिन्न विषयों पर बातचीत में शामिल होने में सहायता करना है।. | :white_check_mark: |
-| [ChatGPT PopTalk](https://www.thataicollection.com/redirect/chatgpt-poptalk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | . | :white_check_mark: |
-| [ChatPro AI](https://www.thataicollection.com/redirect/chatpro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने व्यवसाय के लिए सेकंडों में AI असिस्टेंट बनाएं।. | चैटप्रो एआई एक नो कोड प्लेटफॉर्म है जो व्यवसाय के लिए सेकंडों में बहुउद्देशीय एआई असिस्टेंट बनाने की अनुमति देता है, आप चैटजीपीटी को कई डेटा स्रोतों जैसे यूट्यूब वीडियो, पीडीएफ, वर्ड दस्तावेज़, सादा पाठ और यहां तक ​​​​कि अपनी वेबसाइट डेटा के साथ प्रशिक्षित कर सकते हैं। फिर अपनी वेबसाइट में चैट विजेट के रूप में जोड़ें। असीमित वेबसाइटें. | :white_check_mark: |
-| [Claude](https://www.thataicollection.com/redirect/claude?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | क्लॉड तुम्हारे कामों के लिए अगली पीढ़ी का AI असिस्टेंट है, चाहे वह कितना भी पैमाना क्यों न हो।. | क्लॉड हमारा सबसे शक्तिशाली मॉडल, जो परिष्कृत संवाद और रचनात्मक सामग्री तैयार करने से लेकर विस्तृत निर्देशों तक कई तरह के कार्यों में उत्कृष्ट है।  इसके लिए अच्छा है: जटिल तर्क क्रिएटिविटी विचारशील संवाद कोडिंग विस्तृत सामग्री निर्माण. | :white_check_mark: |
-| [Commandbar HelpHub](https://www.thataicollection.com/redirect/commandbar-helphub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | किसी भी साइट के लिए जीपीटी-संचालित चैटबॉट।. | आप 3 तरीकों से स्रोत सामग्री जोड़ सकते हैं: - किसी URL (जैसे आपकी मार्केटिंग साइट या ब्लॉग) के माध्यम से किसी भी सार्वजनिक साइट को क्रॉल करना - CMS (जैसे Zendesk या Intercom) के साथ सिंक करना - मैन्युअल रूप से सामग्री जोड़ें। चैटबॉट को तब उस सामग्री पर प्रशिक्षित किया जाता है और वह केवल उस सामग्री के आधार पर सवालों के जवाब देगा।. | :white_check_mark: |
-| [Context Search](https://www.thataicollection.com/redirect/context-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्रसंग - एआई-संचालित ऑडियो और वीडियो चैटबॉट. | . | :grey_question: |
-| [CrushOn.AI](https://www.thataicollection.com/redirect/crushon.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | CrushonAI: बिना किसी फिल्टर के वास्तविक, अप्रतिबंधित NSFW कैरेक्टर AI चैट का अनुभव करें। 🚀🤖. | अपने आप को अनफ़िल्टर्ड NSFW कैरेक्टर AI चैट में डुबो दें। अपने एआई अक्षर बनाएं और प्रामाणिक, असीमित एनएसएफडब्ल्यू इंटरैक्शन का अनुभव करें। अपने अद्वितीय एआई व्यक्तित्व को गढ़ने की शक्ति का अन्वेषण करें। अभी गोता लगाएँ!. | :white_check_mark: |
-| [Dante](https://www.thataicollection.com/redirect/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके डेटा पर प्रशिक्षित कस्टम जीपीटी चैटबॉट्स. | शून्य कोडिंग। मिनटों में अपनी वेबसाइट पर साझा करें। मिनटों में GPT-4 चैटबॉट बनाएं। एआई को प्रशिक्षित करें, अनुकूलित करें और अपनी वेबसाइट पर एम्बेड करें।. | :white_check_mark: |
-| [Docubro](https://www.thataicollection.com/redirect/docubro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपकी वेबसाइट प्रलेखन के लिए ChatGPT. | अपने दस्तावेज़ीकरण के लिए ChatGPT, सामग्री का पता लगाने के लिए बातचीत करके इसे सुलभ और उपयोग में आसान बनाएं. | :grey_question: |
-| [Flot.ai](https://www.thataicollection.com/redirect/flot.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सभी ऐप्स और वेबसाइटों के लिए आपका AI सहपायलट. | आप जहां भी टाइप करें या चुनें, वहां कॉपी-पेस्ट किए बिना चैटजीपीटी का उपयोग करें। एआई को एक क्लिक से किसी भी पाठ को लिखने, सुधारने, व्याख्या करने, सारांशित करने, अनुवाद करने, समझाने या उत्तर देने के लिए कहें।. | :white_check_mark: |
-| [HUMATA](https://www.thataicollection.com/redirect/humata?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपकी फाइलों के लिए चैटजीपीटी।. | 100 गुना तेजी से सीखें, 100 गुना तेजी से रिपोर्ट बनाएं, कानूनी दस्तावेजों का 100 गुना तेजी से विश्लेषण करें, तकनीकी पेपर्स को 100 गुना तेजी से समझें। प्रश्न पूछें और किसी भी फ़ाइल के बारे में तुरंत उत्तर प्राप्त करें।. | :white_check_mark: |
-| [Keepi](https://www.thataicollection.com/redirect/keepi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | व्हाट्सएप पर एआई।. | चलते-फिरते आज उपलब्ध सबसे उन्नत AI तक पहुंचें। कीपी आपको प्रासंगिक ज्ञान के साथ स्मार्ट और तैयार रखेगा।. | :white_check_mark: |
-| [Kore.ai](https://www.thataicollection.com/redirect/kore.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एंटरप्राइज़ेज़ के लिए एआई-फर्स्ट एक्सपीरियंस ऑप्टिमाइज़ेशन प्लैटफ़ा. | Kore.ai, कन्वर्सेशनल AI-फ़र्स्ट वर्चुअल असिस्टेंट और प्रोसेस असिस्टेंट तैनात करके हर इंडस्ट्री के लिए फ़्रंट-ऑफ़िस और बैक-ऑफ़िस इंटरैक्शन को स्वचालित बनाता है।. | :grey_question: |
-| [LLM App](https://www.thataicollection.com/redirect/llm-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | . | :white_check_mark: |
-| [Muah AI](https://www.thataicollection.com/redirect/muah-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मुआह एआई - हार्डकोर बिना सेंसर वाली एआई गर्लफ्रेंड. | Muah.ai की मदद से तुम AI-संचालित साथी NSFW चैट कर सकते हो, फ़ोटो एक्सचेंज कर सकते हो और यहाँ तक कि वॉइस चैट भी कर सकते हो। Muah AI की कुछ प्रमुख विशेषताओं में बिना सेंसर की गई बातचीत, फ़ोटो एक्सचेंज (फ़ोटो प्राप्त करने और भेजने की क्षमता), वॉइस इंटरैक्शन, रियल-टाइम फ़ोन कॉल (लाइव फ़ोन कॉल पर), फ़ोटो X रे और यहाँ तक कि 4K फ़ोटो को बेहतर बनाना शामिल है।. | :white_check_mark: |
-| [MyAnima AI Companion](https://www.thataicollection.com/redirect/myanima-ai-companion?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एनिमा: वर्चुअल एआई फ्रेंड. | एआई साथी जो परवाह करता है। एक दोस्ताना चैट करें, रोलप्ले करें, अपने संचार और संबंध कौशल को विकसित करें।. | :white_check_mark: |
-| [MyZone AI Chatbots](https://www.thataicollection.com/redirect/myzone-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | MyZone AI चैटबॉट्स के साथ अपने कर्मचारियों को सशक्त बनाएं, अपनी प्रक्रियाओं को कारगर बनाएं और अपनी कंपनी की कार्यक्षमता बढ़ाएँ।. | MyZone AI चैटबॉट्स, तुम्हारी कंपनी के AI असिस्टेंट, जो ChatGPT द्वारा संचालित है। कस्टम सुविधाओं से भरपूर और तुम्हारे विशिष्ट ज्ञान और डेटाबेस पर प्रशिक्षित, यह तुम्हारे खास व्यवसाय के निर्देशों का पालन करता है। अपने कारोबार की कार्रवाइयों को बदलने के लिए AI की पूरी क्षमता का इस्तेमाल करें।. | :grey_question: |
-| [NOLU](https://www.thataicollection.com/redirect/nolu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ बातचीत करना सरल होना चाहिए।. | एनओएलयू से मिलें। ओपन एआई जीपीटी-3 इंजन के साथ बातचीत करने के लिए एक सरल इंटरफ़ेस।. | :white_check_mark: |
-| [PageLines](https://www.thataicollection.com/redirect/pagelines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वेबसाइटों के लिए एआई एजेंट. | चैपजीपीटी संचालित एजेंट और चैटबॉट जो आपकी वेबसाइट और मार्केटिंग में सुधार करते हैं. | :white_check_mark: |
-| [SiteGPT](https://www.thataicollection.com/redirect/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हर वेबसाइट के लिए ChatGPT. | आपकी वेबसाइट की सामग्री पर प्रशिक्षित व्यक्तिगत चैटबॉट के साथ अपने आगंतुकों के सवालों का तुरंत जवाब दें।. | :white_check_mark: |
-| [SiteSpeakAI](https://www.thataicollection.com/redirect/sitespeakai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT के साथ अपनी ग्राहक सहायता को स्वचालित बनाएं।. | अपनी सामग्री, सहायता दस्तावेज़ों, PDF, API या डेटाबेस का इस्तेमाल करके कस्टम प्रशिक्षित AI सपोर्ट चैटबॉट बनाएं। फिर इसे अपनी वेबसाइट पर कोड की एक लाइन के साथ जोड़ें, ताकि रीयल-टाइम में अपने विज़िटर के सवालों के जवाब मिल सकें और अपनी सहायता टिकट कम कर सकें।. | :white_check_mark: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## जुआ
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [AI Dungeon](https://www.thataicollection.com/redirect/ai-dungeon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अनंत संभावनाओं के साथ एआई-जेनरेटेड एडवेंचर खेलें और बनाएं. | अपना साहसिक चुनें। एक चरित्र, एक दुनिया और एक कहानी चुनें या बनाएं। एआई आपके अनूठे साहसिक कार्य के लिए विवरण भरता है: अन्य रचनाकारों द्वारा पूर्वनिर्धारित दुनिया से चुनें, त्वरित शुरुआत का उपयोग करके एक यादृच्छिक चुनें, या इसे स्वयं बनाएं!. | :grey_question: |
-| [Assetsai](https://www.thataicollection.com/redirect/assetsai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके खेलों के लिए एआई-संचालित, अद्वितीय और क्यूरेटेड संपत्तियां. | अपने गेम डिजाइन और विकास में एआई की शक्ति को उजागर करें। अपने अगले गेम के निर्माण में प्रेरित करने और आपकी मदद करने के लिए ढेर सारी शैलियों में पहले से तैयार गेम एसेट्स प्राप्त करें!. | :white_check_mark: |
-| [charisma](https://www.thataicollection.com/redirect/charisma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पावर रीयल-टाइम डिजिटल मानव. | खेलों के लिए • मेटावर्स • वीआर • शिक्षा • टीवी और फिल्म • प्रकाशन और उससे आगे!. | :grey_question: |
-| [Chess AI](https://www.thataicollection.com/redirect/chess-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बेटाफिश - अल्फाजीरो और स्टॉकफिश का मिश्रण।. | बेटाफिश एक शतरंज इंजन और एआई मूव फाइंडर है जिसे नेगामैक्स एल्गोरिथम पर आधारित जावास्क्रिप्ट में लिखा गया है। यह लिचेस पर स्टॉकफिश लेवल 6 को हराता है, और मैं अनुमान लगाता हूं कि यह लगभग 1800-2000 एलो है, जो सोचने के समय पर निर्भर करता है।. | :white_check_mark: |
-| [GGPredict](https://www.thataicollection.com/redirect/ggpredict?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ट्रेन होशियार। तेजी से रैंक करें।. | प्रतिदिन 30 मिनट से भी कम समय में एआई-जनित चुनौतियों की शक्ति के साथ अपना सीएस:जीओ कौशल बढ़ाएं।. | :x: |
-| [hidden door](https://www.thataicollection.com/redirect/hidden-door?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हैलो, संसारों!. | नैरेटिव एआई द्वारा संचालित एक नए प्रकार का सामाजिक रोलप्लेइंग अनुभव।. | :grey_question: |
-| [IRMO](https://www.thataicollection.com/redirect/irmo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सृजन के लिए बनाया गया। एआई ऐप्स में सर्वश्रेष्ठ. | मोबाइल मनोरंजन और एआई कला निर्माण के लिए आपका स्रोत. | :white_check_mark: |
-| [latitude](https://www.thataicollection.com/redirect/latitude?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-जनरेटेड गेम्स का भविष्य. | हम एआई को सभी के लिए रचनात्मकता और स्वतंत्रता का साधन बना रहे हैं।. | :grey_question: |
-| [Opus](https://www.thataicollection.com/redirect/opus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ओपसवेबसाइट. | . | :grey_question: |
-| [Plailabs](https://www.thataicollection.com/redirect/plailabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ खेलो. | (क्रिया) - गेमिंग, मनोरंजन, कहानी कहने और प्रौद्योगिकी के बढ़ते ब्रह्मांड के विकास के लक्ष्य के साथ आनंद और मनोरंजन के उद्देश्य से कृत्रिम बुद्धि में संलग्न होना।. | :grey_question: |
-| [Ponzu.gg](https://www.thataicollection.com/redirect/ponzu.gg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पोंजु. | एआई ने सेकंड के भीतर किसी भी विचार के लिए पीबीआर बनावट के नक्शे तैयार किए।. | :grey_question: |
-| [Rosebud AI](https://www.thataicollection.com/redirect/rosebud-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Rosebud AI - AI ने मिनटों में लगातार गेम एसेट्स जेनरेट किए।. | अपने AI द्वारा संचालित एसेट सहयोगी की मदद से कॉन्सेप्ट करें और तेज़ी से बनाएँ। सृजन: प्रॉप्स, कैरेक्टर पोर्ट्रेट्स, आइसोमेट्रिक टाइलें, कैरेक्टर स्प्राइट्स, कॉन्सेप्ट आर्ट, पर्यावरण, जीयूआई, अनंत विविधताएँ और बहुत कुछ. | :white_check_mark: |
-| [Scenario](https://www.thataicollection.com/redirect/scenario?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | परिदृश्य. | परिदृश्य के साथ एआई-जेनरेट की गई गेमिंग संपत्ति की शक्ति को अनलॉक करें। समय बचाने और रचनात्मकता को जगाने के लिए जल्दी और आसानी से आकर्षक सामग्री तैयार करें. | :grey_question: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## निर्माता टूलकिट
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Adobe Express](https://www.thataicollection.com/redirect/adobe-express?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | YouTube के थंबनेल मिनटों में मुफ़्त बनाएं।. | बस कुछ ही टैप में अपने चैनल के लिए ध्यान खींचने वाले YouTube थंबनेल बनाएं। मुफ़्त टेम्प्लेट के साथ शुरुआत करें, जिन्हें तुम कस्टमाइज़ करके Adobe Express में क्लिक-योग्य थंबनेल बनाने के लिए कस्टमाइज़ कर सकते हो।. | :white_check_mark: |
-| [B12 No-Code AI](https://www.thataicollection.com/redirect/b12-no-code-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | B12 का नो-कोड AI किसी को भी मिनटों में कस्टम AI टूल बनाने में सक्षम बनाता है। एआई का उपयोग करने से लेकर बिना किसी विशेषज्ञता के मिनटों में अपना खुद का एआई टूल बनाने तक जाएं।. | लीड को आकर्षित करने, नए विचारों की खोज करने, डेटा का विश्लेषण करने और अपने उद्योग के लिए विशिष्ट कार्यों से निपटने तक हर चीज़ के लिए नई रोजमर्रा की दक्षताओं को अनलॉक करें।. | :white_check_mark: |
-| [Clipdrop](https://www.thataicollection.com/redirect/clipdrop?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सेकंड में आश्चर्यजनक दृश्य बनाएँ. | आर्टिफिशियल इंटेलिजेंस द्वारा संचालित सभी क्रिएटर्स के लिए ऐप्स, प्लगइन्स और संसाधनों का बेहतरीन इकोसिस्टम।. | :white_check_mark: |
-| [Cutout Pro](https://www.thataicollection.com/redirect/cutout-pro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cutout.Pro - AI फोटो एडिटिंग - विजुअल कंटेंट जनरेशन प्लेटफॉर्म, इमेज और वीडियो डिजाइन के लिए बेस्ट. | ऑल-इन-वन विज़ुअल डिज़ाइन प्लेटफ़ॉर्म जिसमें एआई फोटो और वीडियो एडिटिंग टूल हैं। पृष्ठभूमि हटाने, छवि बहाली, ग्राफिक डिजाइन और सामग्री निर्माण के लिए स्वचालित प्रक्रिया. | :grey_question: |
-| [Damn Good Tools](https://www.thataicollection.com/redirect/damn-good-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ओह, ये बहुत अच्छे उपकरण हैं उपयोग में आसान, मज़ेदार उपकरण—निःशुल्क (और ओपन-सोर्स)।. | उपयोगी अच्छे टूल खोजें जो आपकी उत्पादकता बढ़ाएंगे। कुछ टूल के उदाहरण: गोपनीयता नीति जनरेटर, स्क्रीनशॉट, फ़ॉन्ट का पता लगाएं, किसी भी पीडीएफ के साथ चैट करें, किसी भी यूआरएल का सारांश और बहुत कुछ।. | :grey_question: |
-| [Descript](https://www.thataicollection.com/redirect/descript?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वीडियो और पॉडकास्ट बनाने का एक नया तरीका है। एक अच्छा तरीका।. | विवरण संपादित करने का सरल, शक्तिशाली और मज़ेदार तरीका है।. | :white_check_mark: |
-| [Fermat](https://www.thataicollection.com/redirect/fermat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सामग्री निर्माण के लिए रचनात्मकता संवर्धित. | सहयोगी कैनवास पर एआई के साथ अपनी रचनात्मकता को उजागर करें।. | :grey_question: |
-| [Hotpot](https://www.thataicollection.com/redirect/hotpot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हॉटपॉट।ऐ. | Hotpot.ai आपको अद्भुत ग्राफिक्स, चित्र और टेक्स्ट बनाने में मदद करता है। एआई आर्ट जेनरेटर जैसे एआई टूल रचनात्मकता को जगाते हैं और कड़ी मेहनत को स्वचालित करते हैं, जबकि आसानी से संपादित होने वाले टेम्प्लेट किसी को भी डिवाइस मॉकअप, सोशल मीडिया पोस्ट, मार्केटिंग इमेज, ऐप आइकन और अन्य वर्क ग्राफिक्स बनाने में सक्षम बनाते हैं।. | :grey_question: |
-| [Lightricks](https://www.thataicollection.com/redirect/lightricks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हर जगह रचनाकारों का घर. | क्रिएटर्स के लिए सर्वोत्तम टूल और सेवाओं के साथ सृजन के जादू का अनुभव करें: फेसट्यून 2, वीडियोलीप, लिंकिनबियो और फोटोलीप। अब इसे जांचें!. | :grey_question: |
-| [Media.io](https://www.thataicollection.com/redirect/media.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई द्वारा संचालित ऑनलाइन वीडियो, ऑडियो, इमेज क्रिएटिविटी प्लेटफॉर्म. | सादगी। विविधता। लचीलापन।. | :white_check_mark: |
-| [Phygital](https://www.thataicollection.com/redirect/phygital?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | महाशक्तियों वाले निर्माता. | कोड के बिना तंत्रिका नेटवर्क के साथ काम करने के लिए रचनाकारों के लिए नोड-आधारित एआई कार्यक्षेत्र। (अल्फा). | :grey_question: |
-| [Runway](https://www.thataicollection.com/redirect/runway?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रनवे - नेक्स्ट-जेनरेशन क्रिएशन सूट - सब कुछ जो आपको सामग्री बनाने के लिए चाहिए, तेज़।. | अपनी रचनाओं को अगले स्तर पर ले जाने के लिए उन्नत वीडियो संपादन क्षमताओं की खोज करें।. | :white_check_mark: |
-| [TextSynth](https://www.thataicollection.com/redirect/textsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TextSynth बड़ी भाषा या टेक्स्ट-टू-इमेज मॉडल जैसे कि Llama2, Falcon, GPT-J, GPT-NeoX, फ़्लैं-T5, M2M100, कोडजेन, स्टेबल डिफ्यूज़न जैसे REST API और प्लेग्राउंड के ज़रिये ऐक्सेस प्रदान करता है।. | TextSynth मानक GPU और CPU पर तेज़ी से अनुमान लगाने के लिए कस्टम अनुमान कोड का इस्तेमाल करता है। साइट की स्थापना 2020 में हुई थी और यह GPT-2 भाषा मॉडल को ऐक्सेस देने वाले पहले लोगों में से थी। मूलभूत सेवा मुफ़्त है लेकिन दर सीमित है। जो यूज़र सीमा से बाहर जाना चाहते हैं, वे हर अनुरोध के हिसाब से थोड़ी राशि का भुगतान कर सकते हैं (हमारी कीमत देखें)। अगर तुम्हेंं कस्टम सहायता चाहिए, तो कृपया हमसे संपर्क करें: टेक्स्टसिंथ डॉट कॉम पर संपर्क करें।. | :white_check_mark: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## पहनावा
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [FashionAdvisorAI](https://www.thataicollection.com/redirect/fashionadvisorai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Fashionadvisor.Ai - Fashionadvisor.A से प्रश्न पूछें और उत्तर प्राप्त करें. | FashionAdvisor GPT3 पर आधारित एक AI है जो आपके फैशन संबंधी सभी सवालों का तुरंत मुफ्त में जवाब देगा. | :grey_question: |
-| [SwagAI](https://www.thataicollection.com/redirect/swagai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने बोरिंग वॉर्डरोब से सजाना AI द्वारा जेनरेट किया गया स्वैग।. | स्वागएआई - एआई ने टी-शर्ट पर छवियां बनाईं। जानवरों के संरक्षण और अवैध शिकार विरोधी संगठनों की हर बिक्री पर $1 जाता है।. | :grey_question: |
-| [Visualhound](https://www.thataicollection.com/redirect/visualhound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | विज़ुअलहाउंड - एआई के साथ अपने फैशन डिजाइन विचारों को प्रोटोटाइप करें. | उत्पादन शुरू करने से पहले अपने उत्पाद के डिजाइन की कल्पना करें। अपने मूडबोर्ड को फीड करने और अपनी डिजाइन प्रक्रिया को बढ़ावा देने के लिए यथार्थवादी दिखने वाली उत्पाद छवियां बनाएं।. | :grey_question: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## प्लगइन्स और एक्सटेंशन
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [AIduh](https://www.thataicollection.com/redirect/aiduh?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-रिस्पोंडर फॉर होस्टअवे - एआई डुह. | क्रोम एक्सटेंशन जो एआई-संचालित प्रतिक्रियाओं के साथ आपके लेखन समय को 98% तक कम कर देता है। होस्ट्स फॉर होस्ट्स द्वारा निर्मित।. | :white_check_mark: |
-| [Autoname](https://www.thataicollection.com/redirect/autoname?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक क्लिक में अपनी सभी परतों का नाम बदलें। आई के लिए धन्यवाद। खुला स्त्रोत. | एक क्लिक में Figma फ्रेम का नाम बदलें, बस इतना ही।. | :grey_question: |
-| [Gist AI](https://www.thataicollection.com/redirect/gist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हर चीज़ को संक्षेप में प्रस्तुत करने के लिए एक एक्सटेंशन!  वेबसाइटों, यूट्यूब वीडियो और पीडीएफ के लिए चैटजीपीटी-संचालित मुफ्त सारांश उपकरण। सब कुछ संक्षेप में प्रस्तुत करने के लिए एक एआई सारांश!. | गिस्ट एआई एक निःशुल्क सारांश जनरेटर है जो किसी भी वेबसाइट लेख, यूट्यूब वीडियो या पीडीएफ से मुख्य बिंदुओं को केवल एक क्लिक में निकालता है। यह संक्षेपण के लिए सर्वोत्तम उपकरण है और यह केवल एक पाठ सारांश से कहीं अधिक है; यह आपका ऑल-इन-वन समाधान है।  इससे भी बेहतर, Gist AI आपको स्पष्टता के लिए सारांश स्रोत में गहराई से गोता लगाने या यूट्यूब सारांश के रूप में कार्य करते हुए YouTube वीडियो में सीधे उस क्षण तक पहुंचने की सुविधा देता है।. | :white_check_mark: |
-| [HARPA AI](https://www.thataicollection.com/redirect/harpa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | चैटजीपीटी क्रोम ऑटोमेशन कोपिलॉट. | क्रोम के लिए एआई एजेंट। ChatGPT को Google खोज में एकीकृत करें, वेबसाइटों को स्वचालित करें, पाठ लिखें: ईमेल, ट्वीट, SEO लेख। बिंग एआई और नोशन एआई विकल्प।. | :white_check_mark: |
-| [Merlin](https://www.thataicollection.com/redirect/merlin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक प्रकार का बाज़. | कहीं भी उपयोग करने के लिए मुफ्त ओपन एआई चैटजीपीटी संचालित एक्सटेंशन!. | :white_check_mark: |
-| [SplashAI](https://www.thataicollection.com/redirect/splashai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Splashai एक फ़िग्मा प्लगइन, सर्च इंजन और AI इमेज जेनरेटर है।. | SplasHAI एक सहायक की तरह है, यह तुम्हेंं सर्च की सुविधा के साथ बहुत तेज़ी से विचार प्राप्त करने में मदद करता है और फ़िगमा से बाहर निकले बिना लगातार नए विचार उत्पन्न करने में मदद करता है।. | :white_check_mark: |
-| [Texti](https://www.thataicollection.com/redirect/texti?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई जो आपके ब्राउज़र में रहता है!. | टेक्स्टी आपकी सामग्री की गुणवत्ता बढ़ाने में आपका सहयोग करेगा!. | :white_check_mark: |
-| [Voilà](https://www.thataicollection.com/redirect/voilà?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सुपरचार्ज्ड उत्पादकता के लिए व्यक्तिगत चैटजीपीटी सहायक. | अपने लेखन में सुधार करें, अपने सभी प्रश्नों के उत्तर प्राप्त करें, उच्च-गुणवत्ता वाली सामग्री का मसौदा तैयार करें और ईमेल का जवाब दें। सभी एक ही स्थान पर।. | :white_check_mark: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## फोटो और छवि संपादन
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [AI Image Enlarger](https://www.thataicollection.com/redirect/ai-image-enlarger?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई इमेज एनलार्जर के साथ छवियों को बड़ा करें और बेहतर बनाएं. | अपनी तस्वीरों को शार्प, क्रिस्पर और साफ-सुथरा बनाने के लिए एक-क्लिक AI समाधान। गुणवत्ता खोए बिना छवि रिज़ॉल्यूशन बढ़ाएँ। आश्चर्यजनक गुणवत्ता और परिणाम। गुणवत्ता खोए बिना किसी भी छोटी छवि को 2k और 4k तक बड़ा करें। साझा करने और मुद्रण के लिए छवि के दृश्य को बेहतर बनाने के लिए विवरणों को तेज़ करें। फ़ोटो को बेहतर बनाना हर किसी के लिए आसान बना दिया गया!. | :white_check_mark: |
-| [AVC AI](https://www.thataicollection.com/redirect/avc-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऑनलाइन एआई इमेज एन्हान्सर जो अपस्केलिंग, डीनोइजिंग, रिस्टोरिंग, फेस रिफाइनमेंट, और बहुत कुछ करके फोटो की गुणवत्ता में सुधार करता है. | फ़ोटो की गुणवत्ता को स्वचालित रूप से और आसानी से सुधारने और पुनर्स्थापित करने के लिए गहन शिक्षण एल्गोरिदम का उपयोग करें। एआई की शक्ति से बेहतर फोटो गुणवत्ता प्राप्त करें। छवि रिज़ॉल्यूशन को निम्न से उच्च तक बढ़ाएं, और डीनोइज़िंग, शार्पनिंग, फेस रीटचिंग, कलराइज़िंग, कलर कैलिब्रेशन और बहुत कुछ करके इसकी गुणवत्ता बढ़ाएं।. | :x: |
-| [Blend](https://www.thataicollection.com/redirect/blend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ सेकंड में आश्चर्यजनक उत्पाद दृश्य. | अपने उत्पादों के लिए आश्चर्यजनक दृश्य बनाने के लिए आपको जो कुछ भी चाहिए - सेकंड में! अपने उत्पादों को पेशेवर-ग्रेड एआई-जनित पृष्ठभूमि में टेलीपोर्ट करें। एक सहज संपादक के साथ हजारों अनुकूलन योग्य टेम्पलेट प्राप्त करें।. | :white_check_mark: |
-| [Blend Studio](https://www.thataicollection.com/redirect/blend-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टेक्स्ट-टू-इमेज AI बैकग्राउंड जेनरेटर. | अपने विवरण के आधार पर एआई-जनित पृष्ठभूमि दृश्यों के साथ अपने उत्पादों के लिए सुंदर उच्च-गुणवत्ता वाली तस्वीरें बनाएं।. | :white_check_mark: |
-| [Claid.ai](https://www.thataicollection.com/redirect/claid.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ सुंदर रूपांतरित सामग्री बनाएं. | हमारे एआई उत्पादों के सुइट का उपयोग करके एंड-टू-एंड छवि निर्माण को स्वचालित करें और अपने व्यवसाय को बढ़ावा दें। आपके ब्रांड के अनुरूप अनेक उत्पाद छवियाँ बनाएँ। उबाऊ उत्पाद छवियों को फोटोशूट-गुणवत्ता वाली मार्केटिंग छवियों में बदलकर अपनी सामग्री निर्माण प्रक्रिया को सरल बनाएं. | :white_check_mark: |
-| [Colorize](https://www.thataicollection.com/redirect/colorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | गहन शिक्षण की शक्ति से फोटो को रंगीन करें. | फोटो को ऑनलाइन रंगीन करें Colorize.cc - AI सेवा है जो ब्लैक एंड व्हाइट फोटो और वीडियो को रंगीन करती है। कुछ ही क्लिक में आप मशीन लर्निंग प्रौद्योगिकियों के जादू को छू सकते हैं। कुछ ही मिनटों में अपने परिवार की सैकड़ों तस्वीरों को रंगीन बनाएं।. | :x: |
-| [Edit @ Scale](https://www.thataicollection.com/redirect/edit-@-scale?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके उत्पाद फ़ोटो के लिए AI बैच संपादक. | उत्पाद फ़ोटो के लिए अंतिम बैच संपादक, एडिट @ स्केल के साथ अपने ई-कॉमर्स व्यवसाय को बदलें। सुंदर, अद्वितीय पृष्ठभूमि के साथ एक साथ कई छवियों को सहजता से बढ़ाकर समय और प्रयास बचाएं।. | :white_check_mark: |
-| [ExtendImage](https://www.thataicollection.com/redirect/extendimage?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक्सटेंडिमेजाई - जनरेटिव एआई के साथ अपनी छवियों का विस्तार करें. | एक्सटेंडइमेजएआई एक ऐसा उपकरण है जो आपको अपनी छवियों को जेनेरेटिव एआई के साथ विस्तारित करने की अनुमति देता है।. | :grey_question: |
-| [FinalTouch](https://www.thataicollection.com/redirect/finaltouch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पेशेवर फ़ोटोग्राफ़ी और डिज़ाइन की शक्ति आपकी उंगलियों पर. | फ़ाइनलटच आपको एक साधारण उत्पाद फ़ोटो से एक पल में एक मनोरम दृश्य में ले जाता है। स्टूडियो-गुणवत्ता वाली छवियों से ग्राहकों को लुभाने के लिए आपको एक विशेषज्ञ डिजाइनर होने की आवश्यकता नहीं है। अपनी डिजिटल उपस्थिति और मार्केटिंग अभियानों में नई जान फूंकने के लिए अपनी पसंद की किसी भी सेटिंग में एक ही उत्पाद की कई छवियां बनाएं।. | :white_check_mark: |
-| [Hama](https://www.thataicollection.com/redirect/hama?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हामा. | अद्भुत फोटो इरेज़र. | :grey_question: |
-| [HitPaw Online Photo Enhancer](https://www.thataicollection.com/redirect/hitpaw-online-photo-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | छवियों को धुंधला करें और कम गुणवत्ता वाली तस्वीरों को अलविदा कहें।. | HitPaw ऑनलाइन एआई फोटो एन्हांसर शोर को दूर करने, विवरण को तेज करने और फोटो की गुणवत्ता में सुधार करने के लिए उन्नत एआई तकनीक का उपयोग करता है. | :white_check_mark: |
-| [ImageColorizer](https://www.thataicollection.com/redirect/imagecolorizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Colorize - iOS और Android के लिए मोबाइल ऐप. | क्या आप आईओएस और एंड्रॉइड फोन पर सर्वश्रेष्ठ पिक्चर कलराइज़र ऐप्स खोज रहे हैं? हमारे ऐप्स आज़माएं - 'रंगीन करें!' और अपनी पुरानी श्वेत-श्याम तस्वीरों को तुरंत रंगीन करें। किसी फ़ोटोशॉप कौशल की आवश्यकता नहीं है और शुरुआती लोगों के लिए रंग को बेअसर करने का यह सबसे आसान तरीका है। अभी डाउनलोड करें और इसे 100% निःशुल्क उपयोग करें!. | :white_check_mark: |
-| [img-cut](https://www.thataicollection.com/redirect/img-cut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सटीक, सुरक्षित और निःशुल्क पृष्ठभूमि हटाने के लिए अंतिम AI समाधान. | आपकी तस्वीरें, आपका उपकरण - अपनी निजी तस्वीरें इंटरनेट पर यादृच्छिक स्थानों पर भेजना बंद करें। नियंत्रण रखें, अपने ब्राउज़र में स्थानीय रूप से अत्याधुनिक AI चलाएं और काम पूरा करें।. | :white_check_mark: |
-| [Imgupscaler](https://www.thataicollection.com/redirect/imgupscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्मार्ट पीएनजी / जेपीजी इमेज अपस्केलर. | नवीनतम AI तकनीक का उपयोग करके अपनी छवि को उन्नत और बेहतर बनाएं. | :grey_question: |
-| [jpghd](https://www.thataicollection.com/redirect/jpghd?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जेपीजीएचडी - एआई के साथ पुरानी तस्वीरों की दोषरहित बहाली. | पुरानी तस्वीरों की दोषरहित बहाली के लिए 2022 अत्याधुनिक एआई मॉडल का उपयोग करना (पुरानी, खरोंच वाली फोटो बहाली, रंगीकरण और मैजिक फोटो का समर्थन करता है). | :grey_question: |
-| [jpgRM](https://www.thataicollection.com/redirect/jpgrm?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जेपीजीआरएम - एआई इमेज मैजिक क्लीनअप. | अपनी छवियों से किसी भी अवांछित वस्तु को हटाने के लिए 2022 अत्याधुनिक AI मॉडल का उपयोग करके, स्वचालित रूप से पृष्ठभूमि को भर दें. | :grey_question: |
-| [Liro.ai](https://www.thataicollection.com/redirect/liro.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Liro.ai एक ऑनलाइन AI इमेज जनरेटर है जो तुम्हेंं बस एक क्लिक में वह सब कुछ बनाने में मदद करता है जिसकी तुम कल्पना कर सकते हो।. | - 100% निजी छवि जनरेशन - बिना सेंसर किया हुआ स्टेबल डिफ़्यूज़न - इमेज जनरेशन की पाँच शैलियाँ - यूज़र इंटरफ़ेस का इस्तेमाल करना आसान है - हाई-क्वालिटी की छवियां - नेगेटिव संकेत - फ़ास्ट जनरेशन टाइम - व्यावसायिक उपयोग. | :white_check_mark: |
-| [Magic Eraser](https://www.thataicollection.com/redirect/magic-eraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मैजिक स्टूडियो - एआई द्वारा संचालित, आपके द्वारा बनाया गया. | मैजिक स्टूडियो आपको एआई का उपयोग करके छवियों को स्वचालित रूप से संपादित करने और बनाने में मदद करता है. | :grey_question: |
-| [OurBabyAI](https://www.thataicollection.com/redirect/ourbabyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI द्वारा बनाई गई तस्वीरों में अपने होने वाले बच्चे को देखना माता-पिता की तस्वीरों या 4D अल्ट्रासाउंड स्कैन के साथ. | बस फ़ोटो अपलोड करें और हमारे AI को जादुई तरीके से तुम्हारे होने वाले बच्चे की छवि बनाने दें। माता-पिता की तस्वीरों के साथ अपने बच्चे को देखें  एक दिन में डिलीवर हो गया 90% मैच रेट के साथ #1 बेबी जेनरेटर 5,500+ ख़ुश ग्राहकों द्वारा 4.8 🌟 रेटिंग दी गई. | :grey_question: |
-| [paintbytext](https://www.thataicollection.com/redirect/paintbytext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पाठ द्वारा पेंट करें. | पेंटबायटेक्स्ट - एआई की मदद से लिखित निर्देशों का उपयोग करके अपनी तस्वीरों को संपादित करें. | :white_check_mark: |
-| [Palette](https://www.thataicollection.com/redirect/palette?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पैलेट - तस्वीरों को रंगीन करें. | एक नया एआई रंगीन। पुरानी श्वेत-श्याम तस्वीरों में से किसी भी चीज़ को रंग दें, अपनी कलाकृतियों को शैलीबद्ध करें, या आधुनिक छवियों को एक नया रूप दें। यह इंस्टाग्राम जितना आसान है. | :white_check_mark: |
-| [Photorestoration](https://www.thataicollection.com/redirect/photorestoration?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पुरानी फोटो बहाली ऑनलाइन - फोटोरेस्टोरेशन।आई. | VanceAI फोटो रिस्टोरर पुरानी तस्वीरों को 100% स्वचालित रूप से पुनर्स्थापित करने में मदद करता है। एआई फोटो रेस्टोरेशन तकनीक द्वारा संचालित, यह ऑनलाइन क्षतिग्रस्त पुरानी तस्वीरों से खरोंच, साथ ही आंसू, धब्बे, धूल और सीपिया को तुरंत हटा देता है। पुरानी फ़ोटो को ऑनलाइन पुनर्स्थापित करें या बस फ़ोटो पुनर्स्थापना डाउनलोड करें।. | :x: |
-| [Photospells](https://www.thataicollection.com/redirect/photospells?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फोटो मंत्र - एआई के साथ व्यावसायिक फोटो संस्करण. | फोटो स्पेल से बालों का रंग, कपड़े और स्टाइल बदलें. | :grey_question: |
-| [Prisma](https://www.thataicollection.com/redirect/prisma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्रिज्मा आपकी तस्वीरों के सार को कैप्चर करता है और उन्हें चमकीले रंग की पेंटिंग में बदल देता है. | आपके निपटान में 700 से अधिक शानदार कला और चित्र शैली। अग्रभूमि और पृष्ठभूमि दोनों को अलग-अलग संशोधित करने की संभावना। अपनी छवियों को अपग्रेड करने के लिए शानदार फ्रेम।. | :white_check_mark: |
-| [Prisma Lensa](https://www.thataicollection.com/redirect/prisma-lensa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लेंसा एक ऑल-इन-वन इमेज एडिटिंग ऐप है जो आपकी तस्वीरों को अगले स्तर तक ले जाता है।. | मैजिक करेक्शन के एक टैप से फेशियल रीटचिंग को बेहतर बनाएं। ढेर सारे कूल टूल्स से चेहरे की खामियों को दूर करें। पृष्ठभूमि को एक स्पर्श से बदलें या धुंधला करें।. | :white_check_mark: |
-| [Remover.app](https://www.thataicollection.com/redirect/remover.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कुछ भी हटाएं - रिमूवर.ऐप फोटो में मौजूद किसी भी अवांछित चीज को सेकंडों में मुफ्त में हटा सकता है. | अपने उत्पादों को चमकदार बनाएं. अपने दर्शकों को प्रभावित करें, विकर्षण दूर करें। रिमूवर.ऐप अवांछित वस्तुओं, लोगों या दोषों को हटाने के लिए रिमूवर.ऐप (एक निःशुल्क रचनात्मक संपादन उपकरण) का उपयोग करें। ए.आई. एल्गोरिदम केवल एक क्लिक में ऑब्जेक्ट के पीछे क्या था उसका पुनर्निर्माण करेगा। सुनिश्चित करें कि वस्तुओं को हटाने के लिए अवांछित तत्वों को कवर किया गया है। आप व्यक्तियों को हटा सकते हैं, या पाठ को उसी तरह हटा सकते हैं।. | :white_check_mark: |
-| [RestorePhotos.io](https://www.thataicollection.com/redirect/restorephotos.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सभी के लिए एआई का उपयोग करके पुरानी तस्वीरों को पुनर्स्थापित करना. | पुराने और धुंधले चेहरे की तस्वीरें हैं? हमारे एआई को उन्हें बहाल करने दें ताकि वे यादें जीवित रह सकें। 100% मुफ़्त - आज ही अपनी फ़ोटो पुनर्स्थापित करें. | :white_check_mark: |
-| [SceneryAI](https://www.thataicollection.com/redirect/sceneryai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सीनरी. | हमारे एआई इमेज एडिटिंग टूल के साथ मौजूदा इमेज जेनरेट या अपडेट करें।. | :grey_question: |
-| [Stabledojo](https://www.thataicollection.com/redirect/stabledojo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पहला एआई फोटो स्टूडियो. | StableDojo के साथ आप अपने लिए एक अवतार या अपने पसंदीदा उत्पादों के लिए एक फोटोशूट तैयार कर सकते हैं।. | :x: |
-| [Stillgram](https://www.thataicollection.com/redirect/stillgram?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्टिलग्राम™ - ए.आई. Iphone® के लिए यात्रा फोटो कैमरा ऐप. | स्टिलग्राम एक एआई है। पॉइंट एंड शूट कैमरा ऐप जो जादुई रूप से आपकी शहरी/यात्रा की तस्वीरों से पृष्ठभूमि की भीड़ को हटा देता है. | :white_check_mark: |
-| [Topaz Photo AI](https://www.thataicollection.com/redirect/topaz-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पुखराज लैब्स: एआई छवि गुणवत्ता सॉफ्टवेयर. | डीप लर्निंग द्वारा संचालित फोटो और वीडियो एन्हांसमेंट सॉफ़्टवेयर आपको शोर में कमी, पैनापन, अपस्केलिंग और बहुत कुछ के लिए उपलब्ध सर्वोत्तम छवि गुणवत्ता प्रदान करता है।. | :grey_question: |
-| [Unfake](https://www.thataicollection.com/redirect/unfake?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई टूल जो कष्टप्रद Fake.Png को सच, Unfake.Png में बदल सकता है।. | जब आप उस संपूर्ण, अनुमानित रूप से पृष्ठभूमि-रहित छवि को ढूंढते हैं, और उसे डाउनलोड करते हैं, लेकिन जब आप इसका उपयोग करने जाते हैं, तो आपको इससे नफरत नहीं होती है, खतरनाक चेकरबोर्ड दिखाई देता है?. | :white_check_mark: |
-| [Unrealme](https://www.thataicollection.com/redirect/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अवास्तविक मैं - आप की एआई जनित छवियां प्राप्त करें. | अपनी शानदार तस्वीरें प्राप्त करने के लिए कदम: 1. भुगतान। 2. अपलोड करें - सिफारिशें पढ़ें और जब भी आपके पास समय हो अपनी तस्वीरें अपलोड करें (आपका लिंक ईमेल द्वारा भेजा जाता है)। 3. प्रतीक्षा करें 4. साझा करें।. | :x: |
-| [Waifu XL](https://www.thataicollection.com/redirect/waifu-xl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Waifuxl एक बटन के क्लिक पर सीधे तुम्हारे ब्राउज़र में अत्याधुनिक अपस्केलिंग प्रदान करता है।. | Waifuxl एक बटन के क्लिक पर सीधे तुम्हारे ब्राउज़र में अत्याधुनिक अपस्केलिंग प्रदान करता है। शोर का स्तर चुनने की ज़रूरत नहीं है, कोई कैप्चा नहीं है, और तुम्हारी छवियां हमें कभी नहीं भेजी जाती हैं। सब कुछ स्थानीय स्तर पर किया जाता है!. | :grey_question: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## बैठक सहायक
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Avoma](https://www.thataicollection.com/redirect/avoma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी टीम की उत्पादकता और कंपनी के राजस्व में वृद्धि में तेज़ी लाएँ. | प्रमुख AI मीटिंग असिस्टेंट और रेवेन्यू इंटेलिजेंस समाधान। सभी एक ही जगह पर, हर जगह नहीं। AI मीटिंग असिस्टेंट - बातचीत पर ध्यान देने के लिए ट्रांसक्रिप्ट और AI नोट्स लें। मीटिंग में सहयोग - बेहतर संरेखण के लिए क्रॉस-फ़ंक्शनल टीमों के साथ सहयोग करें। बातचीत और राजस्व से जुड़ी जानकारी - डेटा-आधारित निर्णयों और कोचिंग के लिए महत्वपूर्ण जानकारी सीखें।. | :white_check_mark: |
-| [Fathom](https://www.thataicollection.com/redirect/fathom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी उत्पादकता को अपने ज़रिए बेहतर बनाएं मुफ़्त AI मीटिंग असिस्टेंट का मालिक. | फ़ैदम तुम्हारी मीटिंग्स को रिकॉर्ड करता है, ट्रांसक्रिप्ट करता है, हाइलाइट्स बनाता है और उन्हें सारांशित करता है ताकि तुम बातचीत पर ध्यान केंद्रित कर सको। मिनटों में सेटअप हो जाओ।. | :white_check_mark: |
-| [Fireflies](https://www.thataicollection.com/redirect/fireflies?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Fireflies.Ai - अपने आप करो मीटिंग नोट्स - नोटटेकर और बातचीत से जुड़ी जानकारी. | Fireflies.ai तुम्हारी टीम को वॉइस वार्तालापों को रिकॉर्ड करने, ट्रांसक्रिप्ट करने, खोजने और उनका विश्लेषण करने में मदद करता है। मीटिंग्स को अपने-आप रिकॉर्ड करें और ट्रांसक्रिप्ट करें, AI-संचालित खोज से कुछ भी ढूंढें, अपने सहकर्मियों के साथ सहयोग करें, बातचीत की बुद्धिमत्ता का इस्तेमाल करके मीटिंग्स का विश्लेषण करें. | :white_check_mark: |
-| [Jamie](https://www.thataicollection.com/redirect/jamie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जेमी - मीटिंग सारांश के लिए AI असिस्टेंट. | जैमी एक AI असिस्टेंट है, जो बिज़नेस राइटिंग क्वालिटी में मीटिंग्स का सारांश कुछ ही सेकंड में तैयार कर देता है। अभी कोशिश करो और ख़ुद को जादुई अनुभव के बारे में समझाओ।. | :grey_question: |
-| [Otter](https://www.thataicollection.com/redirect/otter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ओटर - ओटर के साथ अपना शेड्यूल फिर से हासिल करें।. | एक AI मीटिंग असिस्टेंट लें, जो ऑडियो रिकॉर्ड करता हो, नोट्स लिखता हो, एक्शन आइटम कैप्चर करता हो और सारांश तैयार करता हो। नोट्स लिखें और मीटिंग्स को 30 गुना तेज़ी से सारांशित करें, स्वचालित मीटिंग नोट्स के साथ समय बचाएं। तुरंत जवाब पाओ, सबको लाइव सारांश के साथ जोड़े रखो।. | :white_check_mark: |
-| [Sembly AI](https://www.thataicollection.com/redirect/sembly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सेम्बली एआई - सबसे स्मार्ट एआई टीम असिस्टेंट. | सेम्बली ट्रांसक्रिप्ट करती है, मीटिंग नोट्स लेती है और तुम्हारी पेशेवर मीटिंग्स के लिए जानकारी तैयार करती है। अपनी सभी मीटिंग्स को उपयोगी बनाएं: हर मीटिंग के लिए मीटिंग नोट्स, किसी भी समय पिछली मीटिंग ढूँढें, अपनी पिछली मीटिंग्स को याद करें, AI मीटिंग के सारांश का आनंद लें, बिना रुके सूचित रहें, अपने फ़ॉलो-अप स्वचालित करें।. | :white_check_mark: |
-| [Supernormal](https://www.thataicollection.com/redirect/supernormal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सुपरनॉर्मल - एआई जो तुम्हारी मीटिंग के नोट्स लिखता है. | लिखने, पॉलिश करने और नोट्स शेयर करने में कम समय बिताएं और काम पर ज़्यादा समय सिर्फ़ तुम ही कर सकते हो। पेंसिल्स डाउन। सुपरनॉर्मल ने तुम्हेंं कवर किया है। सुपरनॉर्मल सुरक्षित AI का इस्तेमाल करके, अलग-अलग इस्तेमाल के सभी मामलों में, तुम्हारी मीटिंग के दौरान नोट्स लेता है और उन्हें अपने-आप फ़ॉर्मेट करता है।. | :grey_question: |
-| [tl;dv](https://www.thataicollection.com/redirect/tl;dv?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हम तुम्हारी मीटिंग के नोट्स लेते हैं। तुम शो चलाते हो।. | मीटिंग रिकॉर्डर जो ग्राहकों, संभावित लोगों और तुम्हारी टीम के साथ तुम्हारे कॉल को ट्रांसक्रिप्ट करता है और उसका सारांश देता है। ज़ूम और Google मीट को अपने-आप रिकॉर्ड करें और ट्रांसक्रिप्ट करें, ज़ूम और Google मीट को अपने-आप रिकॉर्ड करें और ट्रांसक्रिप्ट करें, बातचीत पर ध्यान दें। AI तुम्हारे नोट्स लेगा, छोटे आकार के ग्राहक क्लिप के साथ एक शक्तिशाली कहानी सुनाएगा।. | :white_check_mark: |
-| [Wudpecker](https://www.thataicollection.com/redirect/wudpecker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वुडपेकर एक एआई मीटिंग टूल है जो मीटिंग ज्ञान संग्रहीत करने के लिए नया डिफ़ॉल्ट सेट करता है। अपने ज़ूम, गूगल मीट, माइक्रोसॉफ्ट टीमों से सारांश, कार्रवाई आइटम और अंतर्दृष्टि प्राप्त करें बैठकें. | - चैटजीपीटी-संचालित सारांश और प्रतिलेख प्रदान करता है, जिससे बैठकों की समीक्षा करना आसान हो जाता है महत्वपूर्ण जानकारियां शीघ्रता से प्राप्त करें। - 100+ भाषाओं का समर्थन करता है - एक ही मीटिंग में विभिन्न वक्ताओं और भाषाओं को पहचानता है। - उपयोगकर्ताओं को आसानी से रिकॉर्डिंग साझा करने की अनुमति देता है, जिससे सहयोग करना आसान हो जाता है - उपयोगकर्ता के अनुकूल और जहाज पर आसान. | :white_check_mark: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## भाषण
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Adobe Speech Enhancer](https://www.thataicollection.com/redirect/adobe-speech-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वॉयस रिकॉर्डिंग को मुफ्त में बढ़ाएं. | स्पीच एन्हांसमेंट वॉयस रिकॉर्डिंग को ध्वनि बनाता है जैसे कि वे एक पेशेवर स्टूडियो में रिकॉर्ड किए गए हों. | :white_check_mark: |
-| [Lingostar](https://www.thataicollection.com/redirect/lingostar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लिंगोस्टार - आर्टिफिशियल इंटेलिजेंस के साथ वास्तविक बातचीत. | लिंगोस्टार एआई है जिससे भाषा सीखने वाले अंग्रेजी, स्पेनिश या फ्रेंच में बात कर सकते हैं। मुफ़्त में बोली जाने वाली वास्तविक बातचीत के साथ धाराप्रवाहिता तक पहुँचें। अब और शिक्षक नहीं - लिंगोस्टार ए.आई. के साथ चैट करें। अपने उच्चारण, शब्दावली और समझ में सुधार करने के लिए. | :white_check_mark: |
-| [Poly AI](https://www.thataicollection.com/redirect/poly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ग्राहक के नेतृत्व वाली आवाज सहायक. | लगातार अपना सर्वश्रेष्ठ ब्रांड अनुभव प्रदान करें, सटीक समाधान प्राप्त करें और डेटा-संचालित व्यावसायिक अवसरों को उजागर करें. | :x: |
-| [SmallTalk2.me](https://www.thataicollection.com/redirect/smalltalk2.me?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अंग्रेजी बोलने के कौशल के परीक्षण और सुधार के लिए एआई-संचालित शिक्षण सहायक. | स्मॉलटॉक के साथ, शिक्षार्थी अपने अंग्रेजी दक्षता स्तर का स्व-मूल्यांकन कर सकते हैं, अंग्रेजी या आईईएलटीएस परीक्षा में नौकरी के लिए इंटरव्यू की तैयारी कर सकते हैं, और बोलने के अभ्यास में संलग्न हो सकते हैं जो उन्हें कार्यस्थल, शैक्षणिक सेटिंग्स या रोजमर्रा की जिंदगी में बातचीत के लिए तैयार करते हैं।. | :white_check_mark: |
-| [SpeechGen.io](https://www.thataicollection.com/redirect/speechgen.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 150 टेक्स्ट-टू-स्पीच भाषाओं और कई एक्सेंट विकल्पों के साथ, SpeechGen.io यूज़र के लिए कई तरह के विकल्प सुनिश्चित करता है, जो वैश्विक और बहुसांस्कृतिक दर्शकों के लिए है।. | अलग-अलग ऐप्लिकेशन के लिए टेक्स्ट को वास्तविक भाषण में रूपांतरित करें। वीडियो निर्माताओं, शिक्षकों और मार्केटर्स के लिए बिल्कुल सही। आवाज़ों, भाषाओं और एक्सेंट की एक विस्तृत रेंज प्रदान करता है। गति, पिच और ज़ोर देने सहित वॉइस सेटिंग को कस्टमाइज़ करें। वॉयसओवर, ई-लर्निंग सामग्री और विज्ञापन बनाने के लिए आदर्श। टेक्स्ट-टू-स्पीच का एक बहुमुखी और व्यापक समाधान।. | :white_check_mark: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## भाषण के पाठ
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [AI Voice Generator](https://www.thataicollection.com/redirect/ai-voice-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई वॉयस जेनरेटर: फ्री टेक्स्ट-टू-स्पीच एआई वॉयस ओवर जेनरेटर. | जनरेटिव वॉयस एआई का उपयोग करके प्राकृतिक मानव-ध्वनि वाली आवाजों के साथ वॉयस ओवर उत्पन्न करें. | :white_check_mark: |
-| [Article.Audio](https://www.thataicollection.com/redirect/article.audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लेख को ऑडियो में बदलें. | एक लेख पढ़ने के लिए बहुत आलसी? कोई बात नहीं, इसे सुनो! थंडरकंटेंट द्वारा संचालित. | :white_check_mark: |
-| [Createaivoiceovers](https://www.thataicollection.com/redirect/createaivoiceovers?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टेक्स्ट टू स्पीच ऑनलाइन वॉइस जेनरेटर, टेक्स्ट टू स्पीच जनरेटर - यथार्थवादी आवाज़ें - AI वॉइस ओवर बनाएँ. | सजीव जैसी दिखने वाली आकर्षक आवाज़ की मदद से अपने टेक्स्ट को तेज़ी से बोलचाल में बदलें, जो तुम्हारे दर्शकों को पसंद आएगी। तुम्हारी स्क्रिप्ट रिकॉर्ड करवाने के लिए रिकॉर्डिंग स्टूडियो किराए पर लेने की ज़रूरत नहीं है।. | :white_check_mark: |
-| [ElevenLabs](https://www.thataicollection.com/redirect/eleven?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्राइम वॉयस एआई. | सबसे यथार्थवादी और बहुमुखी एआई भाषण सॉफ्टवेयर, कभी। ग्यारह कहानी कहने के लिए अंतिम उपकरण की तलाश करने वाले रचनाकारों और प्रकाशकों के लिए सबसे सम्मोहक, समृद्ध और जीवंत आवाजें लाता है।. | :white_check_mark: |
-| [FakeYou](https://www.thataicollection.com/redirect/fakeyou?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आप झूठे हैं। डीप फेक टेक्स्ट टू स्पीच।. | . | :grey_question: |
-| [Free Text-To-Speech](https://www.thataicollection.com/redirect/free-text-to-speech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मुफ़्त टेक्स्ट टू स्पीच ऑनलाइन कन्वर्टर टूल. | . | :white_check_mark: |
-| [Listnr 2.0](https://www.thataicollection.com/redirect/listnr-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई वॉयस जेनरेटर - टेक्स्ट टू स्पीच कन्वर्टर - लिस्टएनआर. | सर्वश्रेष्ठ सिंथेटिक आवाजों के साथ हमारे एआई वॉयस जेनरेटर का उपयोग करके यथार्थवादी टेक्स्ट टू स्पीच (टीटीएस) ऑडियो उत्पन्न करें। तुरंत टेक्स्ट को नेचुरल-साउंडिंग स्पीच में कन्वर्ट करें और MP3 और WAV फॉर्मेट में डाउनलोड करें।. | :x: |
-| [Lovo](https://www.thataicollection.com/redirect/lovo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लोवो एआई - प्राकृतिक आवाज़ों के साथ मुफ्त टेक्स्ट टू स्पीच ऑनलाइन. | . | :white_check_mark: |
-| [Murf.ai](https://www.thataicollection.com/redirect/murf.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वर्सेटाइल एआई वॉयस जेनरेटर के साथ टेक्स्ट से स्पीच पर जाएं. | एआई सक्षम, वास्तविक लोगों की आवाज। मिनटों में स्टूडियो-गुणवत्ता वाला वॉइस ओवर करें। पॉडकास्ट, वीडियो और अपनी सभी पेशेवर प्रस्तुतियों के लिए Murfs की सजीव एआई आवाजों का उपयोग करें. | :white_check_mark: |
-| [NaturalReader](https://www.thataicollection.com/redirect/naturalreader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऐ आवाज - नेचुरलरीडर होम. | . | :grey_question: |
-| [Play.ht](https://www.thataicollection.com/redirect/play.ht?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई संचालित टेक्स्ट टू वॉयस जेनरेटर. | हमारे ऑनलाइन एआई वॉयस जेनरेटर और सर्वश्रेष्ठ सिंथेटिक आवाजों का उपयोग करके यथार्थवादी टेक्स्ट टू स्पीच (टीटीएस) ऑडियो उत्पन्न करें। तुरंत टेक्स्ट को नेचुरल-साउंडिंग स्पीच में बदलें और MP3 और WAV ऑडियो फाइलों के रूप में डाउनलोड करें।. | :white_check_mark: |
-| [Resemble’s AI voice generator](https://www.thataicollection.com/redirect/resembles-ai-voice-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपका पूरा जनरेटिव वॉयस एआई टूलकिट. | एआई वॉयस जनरेटर जैसा दिखता है जिससे आप सेकंड में मानव-जैसी वॉयस ओवर बना सकते हैं।. | :x: |
-| [Speechelo](https://www.thataicollection.com/redirect/speechelo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्पीचेलो - केवल 3 क्लिक के साथ टेक्स्ट से आवाज उत्पन्न करें। ऑडियो कन्वर्टर के लिए सबसे यथार्थवादी साउंडिंग टेक्स्ट. | हम गारंटी देते हैं कि कोई भी आपके वॉयसओवर को एआई नहीं बताएगा। एक टेक्स्ट टू वॉयस टूल के साथ उत्पन्न. | :grey_question: |
-| [Speechify](https://www.thataicollection.com/redirect/speechify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | #1 टेक्स्ट टू स्पीच रीडर. | डॉक्स, लेख, पीडीएफ, ईमेल के माध्यम से पावर - आप जो कुछ भी पढ़ते हैं - हमारे प्रमुख टेक्स्ट-टू-स्पीच रीडर के साथ सुनकर।. | :white_check_mark: |
-| [Underduck](https://www.thataicollection.com/redirect/underduck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Uberduck - टेक्स्ट-टू-स्पीच, वॉयस ऑटोमेशन, सिंथेटिक मीडिया. | एआई वोकल्स के साथ संगीत बनाएं, 5,000+ अभिव्यंजक आवाजों के साथ एआई वोकल्स और वॉयसओवर बनाएं, हमारे एपीआई के साथ मिनटों में किलर ऑडियो ऐप बनाएं, अपने स्वयं के कस्टम वॉयस क्लोन के साथ खुद को सिंथेसाइज़ करें. | :grey_question: |
-| [VERBATIK](https://www.thataicollection.com/redirect/verbatik?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई पावर्ड टेक्स्ट टू वॉयस जनरेशन।. | ऑनलाइन एआई वॉयस जेनरेटर और सर्वश्रेष्ठ सिंथेटिक आवाज का उपयोग करके यथार्थवादी टेक्स्ट टू स्पीच (टीटीएस) ऑडियो उत्पन्न करें। तुरंत टेक्स्ट को नेचुरल-साउंडिंग स्पीच में बदलें और MP3 और WAV ऑडियो फाइलों के रूप में डाउनलोड करें।. | :x: |
-| [Voicemaker](https://www.thataicollection.com/redirect/voicemaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वॉयसमेकर® - टेक्स्ट टू स्पीच कन्वर्टर. | अपने व्यावसायिक उपयोग के लिए ऑडियो फ़ाइलें बनाएँ। वॉयसमेकर आपकी सदस्यता समाप्त होने के बाद भी आपको अपनी जेनरेट की गई ऑडियो फाइलों को पुनर्वितरित करने की अनुमति देता है।. | :white_check_mark: |
-| [Voicera](https://www.thataicollection.com/redirect/voicera?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वोइसरा - अपने लेखों और ब्लॉगों को आवाज़ दें. | . | :grey_question: |
-| [Wavel AI](https://www.thataicollection.com/redirect/wavel-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वीडियो सामग्री निर्माताओं के लिए सर्वश्रेष्ठ एआई डबिंग और अनुवादक. | एआई उत्कृष्टता के क्षेत्र में कदम रखें - वास्तविक लोगों की आवाज़ें, अब वेवेल एआई द्वारा संचालित। सहजता से त्रुटिहीन स्टूडियो-गुणवत्ता वाले वॉयसओवर बनाएं। हमारी उन्नत एआई डबिंग, अनुवाद और वॉयस क्लोनिंग क्षमताओं के साथ अपने पॉडकास्ट, वीडियो और पेशेवर प्रस्तुतियों को उन्नत बनाएं।. | :grey_question: |
-| [Wellsaid](https://www.thataicollection.com/redirect/wellsaid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रीयल टाइम में टेक्स्ट को वॉइस में बदलें. | वेलसैड के साथ, आप और आपकी टीम आपकी सभी डिजिटल सामग्री के लिए एक सम्मोहक यथार्थवादी एआई वॉयस ओवर बना सकते हैं।. | :white_check_mark: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## मानव संसाधन और फिर से शुरू
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [AI Cover Letter Generator](https://www.thataicollection.com/redirect/ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऐ कवर लेटर जेनरेटर. | एआई का उपयोग करके सेकंड में एक कवर लेटर बनाएं। GPT द्वारा संचालित AI की मदद से तुरंत एक व्यक्तिगत और अत्यधिक पेशेवर कवर लेटर बनाएं. | :white_check_mark: |
-| [AI Resume Editor](https://www.thataicollection.com/redirect/ai-resume-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जिस तरह से दुनिया रिज्यूमे बनाती है। सबसे स्मार्ट जीपीटी-संचालित रिज्यूमे बिल्डर।. | Rezi एकमात्र रिज्यूमे प्लेटफॉर्म है जो किराए पर लेने योग्य रिज्यूमे बनाने के हर पहलू को स्वचालित करने के लिए प्रमुख AI का उपयोग करता है - लेखन, संपादन, स्वरूपण और अनुकूलन।. | :white_check_mark: |
-| [Cover Letter AI App](https://www.thataicollection.com/redirect/cover-letter-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कवर लेटर एआई. | . | :white_check_mark: |
-| [Coverquick](https://www.thataicollection.com/redirect/coverquick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | तुम्हारे विचारों को आकर्षक सामग्री में आसानी से बदलना।. | CoverQuick आसानी से कंटेंट बनाने और प्रबंधन के लिए एक क्रांतिकारी मंच है। एआई जो तुम्हारे डेटा से सीखता है। तुम्हारे सभी दस्तावेज़ों और संसाधनों को अपलोड करके, हमारा प्लैटफ़ॉर्म तुम्हारी जानकारी से सीख सकता है, जिससे तुम वैयक्तिकृत सामग्री बना सकते हो।. | :white_check_mark: |
-| [Hire Hoc](https://www.thataicollection.com/redirect/hire-hoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हायर हॉक - एआई पावर्ड हायरिंग टूल. | एआई-असिस्टेड भर्ती की शक्ति के साथ अपने संगठन को बदलें।. | :grey_question: |
-| [Hirex.ai](https://www.thataicollection.com/redirect/hirex.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hirex.ऐ. | वॉयस-आधारित बॉट बनाने के लिए एक नो-कोड एआई प्लेटफॉर्म, हायरेक्स.एआई में आपका स्वागत है जो बड़े पैमाने पर साक्षात्कार आयोजित करता है और स्कोर करता है। कोडिंग इंटरव्यू, एमसीक्यू टेस्ट, हैकाथॉन, वीडियो इंटरव्यू और व्हाट्सएप चैटबॉट जैसे असेसमेंट टूल का पूरा सूट एक ही डैशबोर्ड में पाएं. | :grey_question: |
-| [HireYaY](https://www.thataicollection.com/redirect/hireyay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हिरेय, स्टार्टअप्स के लिए एक हायरिंग प्लेटफॉर्म. | 92% नौकरी चाहने वाले अपना ऑनलाइन आवेदन पूरा नहीं करते हैं। HireYaY के साथ, आप एक योग्य उम्मीदवार को फिर कभी नहीं चूकेंगे।. | :grey_question: |
-| [JD Generator](https://www.thataicollection.com/redirect/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टीम से मिलें - किराया भागफल. | HireQuotients Skill Assessment Platform आपको आधे समय में प्रतिभा पूल के शीर्ष 10% को किराए पर लेने में मदद करता है।. | :grey_question: |
-| [LazyApply](https://www.thataicollection.com/redirect/lazyapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी नौकरी की आवेदन प्रक्रिया को स्वचालित करें. | हम स्वचालित रूप से Linkedin, Fed और Ziprecruiter जैसे प्लेटफॉर्म पर सभी नौकरियों के लिए आवेदन करते हैं।. | :x: |
-| [Prodigy AI](https://www.thataicollection.com/redirect/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सॉफ्टवेयर इंजीनियरों के करियर को बेहतर बनाने के लिए एआई का उपयोग करना. | हम सॉफ्टवेयर इंजीनियरों को बेहतर करियर बनाने में मदद करने वाले टूल बनाने के लिए नवीनतम एआई का उपयोग करने के मिशन पर हैं। हमारे एआई उपकरण 100% निःशुल्क हैं।. | :white_check_mark: |
-| [rankode](https://www.thataicollection.com/redirect/rankode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मानव संसाधन के लिए एआई - रैंककोड. | भर्तीकर्ता, उम्मीदवार के प्रोग्रामिंग कौशल के बारे में आपको जो कुछ भी जानने की आवश्यकता है, वह उनके GitHub में है। हायरिंग की महंगी गलतियों से बचने और अपने रिटेंशन को सुपरबूस्ट करने के लिए रैंककोड के साथ स्वचालित रूप से उनका मूल्यांकन करें।. | :grey_question: |
-| [ResumAI](https://www.thataicollection.com/redirect/resumai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वंसल्टिंग - हम ड्रीम जॉब्स ढूंढते हैं. | हमने 100,000 से अधिक लोगों को उनके सपनों की नौकरी दिलाने में मदद की है। हमारी नौकरी खोज रणनीतियों को आपको रिज्यूमे से बेहतर दिनों तक ले जाने दें।. | :grey_question: |
-| [resumator](https://www.thataicollection.com/redirect/resumator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक नौकरी के लिए देख रहे हैं? हमने आपका ध्यान रखा है।. | हमारे एआई-संचालित व्यक्तिगत कवर लेटर के साथ तेजी से काम पर रखें। इसमें कुछ ही सेकंड लगते हैं!. | :white_check_mark: |
-| [Resume Worded](https://www.thataicollection.com/redirect/resume-worded?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने बायोडाटा और लिंक्डइन प्रोफाइल में सुधार करें. | शीर्ष रिक्रूटर्स द्वारा डिज़ाइन किया गया, हमारा एआई-पावर्ड प्लेटफ़ॉर्म आपको आपके रिज्यूमे और लिंक्डइन प्रोफाइल पर तुरंत प्रतिक्रिया देता है। 5 गुना अधिक साक्षात्कार, अवसर और नौकरी के प्रस्ताव प्राप्त करें।. | :white_check_mark: |
-| [SidekicAI](https://www.thataicollection.com/redirect/sidekicai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपकी नौकरी की खोज को तेज़ी से समाप्त करने के लिए एक मददगार हाथ। नौकरियों के लिए तेज़ी से आवेदन करने में आपकी सहायता के लिए एक नौकरी आवेदन सहायक।. | साइडकिक एआई से मिलें। एक क्रोम एक्सटेंशन सहायक जो एआई संचालित कवर लेटर जेनरेशन के साथ तिगुनी गति से नौकरियों के लिए आवेदन करने में आपकी मदद करता है। साइडकिकएआई आपकी जॉब हंट के दौरान तेजी से कवर लेटर जेनरेट करने में आपकी मदद करता है। अपने मौजूदा कवर लेटर और कुछ स्किल्स को इनपुट करें और आप जिस भी जॉब के लिए अप्लाई कर रहे हैं उसके लिए एक AI मॉडिफाइड कवर लेटर जेनरेट करें।. | :white_check_mark: |
-| [springworks](https://www.thataicollection.com/redirect/springworks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बढ़ते कारोबार के लिए एचआर सॉफ्टवेयर सॉल्यूशंस. | स्प्रिंगवर्क्स ब्लॉकचेन और एआई के साथ भर्ती, पृष्ठभूमि सत्यापन और कर्मचारी जुड़ाव में चुनौतियों को हल करने के लिए मानव संसाधन सॉफ्टवेयर समाधान बनाता है. | :white_check_mark: |
-| [Uniglobal Careers](https://www.thataicollection.com/redirect/uniglobal-careers?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | यूनीग्लोबल करियर के साथ अंतरराष्ट्रीय शिक्षा की दुनिया को अनलॉक करें - क्योंकि आपकी सुपर हीरो शक्तियां एक वैश्विक मंच की हकदार हैं! 💪🌎. | यूनीग्लोबल सीवी और कवर लेटर जेनरेटर का परिचय, अंतर्राष्ट्रीय शिक्षा क्षेत्र में नौकरी चाहने वालों के लिए एआई-संचालित सुपर-टूल! UniGlobal Careers अत्याधुनिक AI का उपयोग आपको आकर्षक सीवी और अंतरराष्ट्रीय अवसरों के लिए तैयार किए गए कवर लेटर के साथ सशक्त बनाने के लिए करता है। 🌍✨. | :white_check_mark: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## मूलपाठ
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [AI Rental Cover Letter](https://www.thataicollection.com/redirect/ai-rental-cover-letter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 🏡 शेयरहाउस - AI द्वारा संचालित रेंटल कवर लेटर के साथ मुफ़्त हाउसमेट फ़ाइंडर ⚡️ AI से मिलने वाले कवर लेटर के साथ भीड़ से अलग दिखें. | एआई-संचालित रेंटल संदर्भ के साथ, रेंटर्स अपनी विशिष्ट ज़रूरतों और स्थितियों के अनुरूप कवर लेटर जल्दी और आसानी से जेनरेट कर सकते हैं, जिससे उन्हें रेंटल हासिल करने का बेहतर मौका मिलता है  यह क्रांतिकारी तकनीक एडवांस AI का इस्तेमाल करती है, ताकि किराएदारों को वैयक्तिकृत, उच्च-गुणवत्ता वाले कवर लेटर बनाने में मदद मिल सके, जो उन्हें प्रतियोगिता से अलग दिखाएंगे. | :white_check_mark: |
-| [Ansy](https://www.thataicollection.com/redirect/ansy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ansy.Ai - 5 मिनट में समुदाय के बारे में अक्सर पूछे जाने वाले सवालों के जवाब अपने-आप करें. | GPT-3 द्वारा संचालित Discord बॉट जो बातचीत के इतिहास के आधार पर तुम्हारे Discord समुदाय के सदस्यों के सवालों के जवाब देता है। अपनी ओर से सवालों के जवाब देने के लिए, GPT-3 द्वारा संचालित Ansi, AI बॉट को अपने Discord और Slack में ले जाओ. | :white_check_mark: |
-| [Bookclub](https://www.thataicollection.com/redirect/bookclub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bookclub.Ai - मिलिए योर नेक्स्ट बुक. | शक्तिशाली मशीन लर्निंग आधारित सिफारिशों के साथ बेस्टसेलर, मशहूर हस्तियों और पुस्तक-श्रृंखला की पुस्तकों का अन्वेषण करें। Bookclub.ai पर बढ़ते पुस्तकप्रेमी समुदाय का हिस्सा बनें. | :grey_question: |
-| [ChatGPT Writer](https://www.thataicollection.com/redirect/chatgpt-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | चैटजीपीटी राइटर क्रोम एक्सटेंशन. | ChatGPT AI का उपयोग करके ईमेल और संदेश लिखें, व्याकरण की गलतियों को ठीक करें, टेक्स्ट को रीफ़्रेज़ करें, राइटिंग टोन बदलें, टेक्स्ट को सारांशित करें, और भी बहुत कुछ। सभी साइटों पर काम करता है। उपयोग करने के लिए नि: शुल्क।. | :white_check_mark: |
-| [Childbook](https://www.thataicollection.com/redirect/childbook?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | चिल्ड्रन्स बुक क्रिएटर में आपका स्वागत है!. | आपकी पुस्तक पात्रों, चित्रों और कहानी के साथ वैयक्तिकृत होगी। कहानी और चित्रों में टेक्स्ट-टू-स्पीच फीचर भी है और इसे सुना जा सकता है।. | :grey_question: |
-| [Cover Letter AI](https://www.thataicollection.com/redirect/cover-letter-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कवर लेटर एआई. | सही कवर लेटर तैयार करने के लिए परम उपकरण. | :grey_question: |
-| [coverletter.app](https://www.thataicollection.com/redirect/coverletter.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कस्टम-मेड कवर लेटर मिनटों में तैयार नहीं घंटे - Coverletter.App. | प्रतिस्पर्धा से अलग दिखें और हमारी उन्नत एआई तकनीक से व्यक्तिगत कवर लेटर के साथ काम पर रखने की संभावना बढ़ाएं।. | :grey_question: |
-| [Coverletterwrite](https://www.thataicollection.com/redirect/coverletterwrite?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कवर लेटर लिखें. | एआई से एक व्यक्तिगत कवर लेटर लिखने के लिए कहें।. | :grey_question: |
-| [Deploy Prompt](https://www.thataicollection.com/redirect/deploy-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पुन: प्रयोज्य संकेत बनाएं और साझा करें. | अपने त्वरित विचारों का परीक्षण करें, फिर प्रतिक्रियाओं को रिकॉर्ड करें, साझा करें और पुनरावृति करें। बिना किसी कोड के, अपने ऐप में, API के रूप में, या ChatGPT प्लगइन के रूप में, और बहुत कुछ के साथ परिनियोजित करें। यह आपके शीघ्र-संचालित एप्लिकेशन को उत्पादन में लाइव करने का सबसे तेज़ तरीका है।. | :white_check_mark: |
-| [Digital Dogs](https://www.thataicollection.com/redirect/digital-dogs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डिजिटल कुत्ते. | आभासी दुनिया के लिए क्रॉस-ऐप, एआई डिजिटल डॉग एनएफटी, वीआर, एआर, सोशल ऐप, गेम और बहुत कुछ।. | :grey_question: |
-| [Excelformulabot](https://www.thataicollection.com/redirect/excelformulabot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक्सेल और गूगल शीट एआई फॉर्मूला जेनरेटर - Excelformulabot.Com. | एआई की मदद से अपने टेक्स्ट निर्देशों को एक्सेल और गूगल शीट फॉर्मूले में सेकंड में बदलें. | :grey_question: |
-| [Filechat](https://www.thataicollection.com/redirect/filechat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आर्टिफिशियल इंटेलिजेंस का उपयोग करके दस्तावेजों का अन्वेषण करें. | फाइलचैट आर्टिफिशियल इंटेलिजेंस का उपयोग करके दस्तावेजों का पता लगाने के लिए एक सही उपकरण है। बस अपना PDF अपलोड करें और अपने वैयक्तिकृत चैटबॉट से प्रश्न पूछना शुरू करें।. | :white_check_mark: |
-| [Form Approval](https://www.thataicollection.com/redirect/form-approval?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फ़ॉर्म स्वीकृति वर्कफ़्लो सॉफ़्टवेयर - Google फ़ॉर्म ऐड ऑन. | अपनी स्वीकृति प्रक्रिया को सहजता से स्वचालित करें। अपने वर्कफ़्लो में स्वीकृतियों को सहजता से प्रबंधित करें। एचआर अनुरोध, नौकरी आवेदन, आईटी टिकट और ऑनलाइन फॉर्म का उपयोग करने से परे इकट्ठा करें, और उन्हें स्वचालित स्वीकृति प्रक्रियाओं में परिवर्तित करें।. | :white_check_mark: |
-| [Formula Dog](https://www.thataicollection.com/redirect/formula-dog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई - फॉर्मूला डॉग का उपयोग करके एक्सेल सूत्र और अधिक उत्पन्न करें. | एआई की मदद से सेकंड में अपने टेक्स्ट निर्देशों को एक्सेल फॉर्मूला, वीबीए, रेगेक्स इत्यादि में बदलें. | :grey_question: |
-| [Formulagod](https://www.thataicollection.com/redirect/formulagod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उन सब पर राज करने का एक सूत्र. | बिल्ट-इन आर्टिफिशियल इंटेलिजेंस वाली शीट से बात करें. | :grey_question: |
-| [Gandhiji](https://www.thataicollection.com/redirect/gandhiji?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Messengerx.Io - एआई के साथ चैट करें. | सभी के लिए एआई संचालित चैट ऐप्स. | :grey_question: |
-| [GoalsGPT](https://www.thataicollection.com/redirect/goalsgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tability - स्प्रेडशीट से अपने लक्ष्य प्राप्त करें. | अपने ओकेआर और टीम के लक्ष्यों पर नज़र रखने का सबसे आसान तरीका। एक काम की तरह महसूस किए बिना अपनी टीम को परिणामों के आसपास संरेखित करें।. | :grey_question: |
-| [Goatchat](https://www.thataicollection.com/redirect/goatchat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बकरीचैट एआई - अवतार चैटजीपीटी. | क्या आप कभी नेपोलियन या आइंस्टीन से कुछ सवाल पूछना चाहते हैं? खैर, अब आपके पास मौका है।. | :grey_question: |
-| [GPT Hotline](https://www.thataicollection.com/redirect/gpt-hotline?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जीपीटी हॉटलाइन. | WhatsApp पर दुनिया के सबसे स्मार्ट एआई से जुड़ें।. | :grey_question: |
-| [Hello History](https://www.thataicollection.com/redirect/hello-history?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हेलो हिस्ट्री - एआई जनित ऐतिहासिक आंकड़ों के साथ चैट करें. | आधुनिक एआई और मशीन लर्निंग की मदद से हमने ऐतिहासिक आंकड़ों को फिर से जीवंत कर दिया है। अब आपके पास उन सवालों को पूछने का मौका है जो आप हमेशा से पूछना चाहते थे।. | :grey_question: |
-| [Infiniteconversation](https://www.thataicollection.com/redirect/infiniteconversation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अनंत बातचीत. | वर्नर हर्ज़ोग और स्लावोज ज़ीज़ेक के बीच एक एआई उत्पन्न, कभी न खत्म होने वाली चर्चा।. | :grey_question: |
-| [Jot](https://www.thataicollection.com/redirect/jot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जोत - एआई विज्ञापन प्रति. | Jot स्वचालित रूप से AI का उपयोग करके आपके लिए असीमित विज्ञापन कॉपी विविधताएँ उत्पन्न करता है। आर्टिफिशियल इंटेलिजेंस के साथ अपनी टीम की कॉपी राइटिंग प्रक्रियाओं को कारगर बनाएं। OpenAI GPT-3 द्वारा संचालित।. | :grey_question: |
-| [Justlearn](https://www.thataicollection.com/redirect/justlearn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई मित्र, चैट और कॉल - बस सीखें. | एआई फ्रेंड, चैट और कॉल ऐप जिसे आपको कुछ भी सिखाने के लिए डिज़ाइन किया गया है। आवाज़। डायरी। संगीत। कसरत करना।. | :grey_question: |
-| [Kidotail](https://www.thataicollection.com/redirect/kidotail?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | किडोटेल एआई. | आपके बच्चे की कल्पना को प्रज्वलित करने का एक नया तरीका। अंतहीन कहानी कहने की संभावनाएं।. | :grey_question: |
-| [Langame card game](https://www.thataicollection.com/redirect/langame-card-game?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने मित्रों और परिवार के साथ आनंद लेने के लिए एआई-जेनरेटेड वार्तालाप कार्ड गेम. | ताश के अपने व्यक्तिगत डेक बनाएं और अपने दोस्तों के साथ खेलें। 💅 स्वाइप करके चुनें कि कौन से कार्ड आपके खुद के डेक का हिस्सा होने चाहिए।. | :grey_question: |
-| [Myess](https://www.thataicollection.com/redirect/myess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Myessai - एआई संचालित निबंध ट्यूटर. | हमारे एआई ट्यूटर से तत्काल, अत्यधिक विस्तृत प्रतिक्रिया के साथ अपने लेखन को सुपरचार्ज करें। वास्तविक, कार्रवाई योग्य प्रतिक्रिया - न केवल एक और व्याकरण।. | :grey_question: |
-| [Namelix](https://www.thataicollection.com/redirect/namelix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बिजनेस नेम जेनरेटर - फ्री एआई-पावर्ड नेमिंग टूल - नेमलिक्स. | आर्टिफिशियल इंटेलिजेंस का उपयोग करके एक छोटा, ब्रांड योग्य व्यवसाय नाम उत्पन्न करें। नाम विचार प्राप्त करें Namelix अत्याधुनिक भाषा मॉडल के साथ छोटे, आकर्षक नाम उत्पन्न करता है. | :white_check_mark: |
-| [Namewizard](https://www.thataicollection.com/redirect/namewizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Namewizard.Ai - आपका AI-महाशक्तिशाली डोमेन नाम जेनरेटर. | नेमविज़ार्ड जनरेटर है जो आपके अगले प्रोजेक्ट के लिए सही व्यवसाय और डोमेन नाम खोजने के लिए एआई का उपयोग करता है. | :grey_question: |
-| [Neural Formula](https://www.thataicollection.com/redirect/neural-formula?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आर्टिफिशियल इंटेलिजेंस के साथ पावर-अप स्प्रेडशीट्स. | सूत्रों को उत्पन्न करने, समझाने, संशोधित करने और अनुवाद करने के लिए संपूर्ण टूल सूट - सभी VBA मैक्रोज़ और ऑफिस स्क्रिप्ट्स के लिए पूर्ण समर्थन के साथ पैक किए गए हैं।. | :white_check_mark: |
-| [Oracle](https://www.thataicollection.com/redirect/oracle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Oracle - अपने सभी नॉलेजबेस से तत्काल उत्तर प्राप्त करें. | Oracle के साथ अपने सभी ज्वलंत प्रश्नों के तुरंत उत्तर प्राप्त करें। बस स्लैक पर पूछें और हमारे एआई को आपके लिए उत्तर उत्पन्न करने दें। केवल एक क्लिक के साथ Oracle को Slack, Google Docs, और Confluence से कनेक्ट करें और अपनी उत्पादकता को अधिकतम करें।. | :grey_question: |
-| [Politepost](https://www.thataicollection.com/redirect/politepost?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पेशेवर बनने के लिए एआई के साथ अपने ईमेल को दोबारा लिखना. | सुनिश्चित करें कि आपके ईमेल पेशेवर हैं और कार्यस्थल के लिए उपयुक्त हैं। अपनी सभी गालियों और अपशब्दों के साथ अपना मसौदा लिखें, और हमारा एआई बॉट पाठ को फिर से लिखेगा और साफ करेगा. | :grey_question: |
-| [Promptmakr](https://www.thataicollection.com/redirect/promptmakr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्रॉम्प्ट इंजीनियर्स के लिए मुफ़्त में असीमित AI आर्ट प्रॉम्प्ट जेनरेट करने और शेयर करने का प्लेटफ़ॉर्म. | मिडजर्नी जैसे AI इमेज प्लेटफ़ॉर्म के ज़रिये उच्च गुणवत्ता वाली छवियां जेनरेट करने के लिए, बहुत कुछ तुम्हारे द्वारा इनपुट किए गए प्रॉम्प्ट की गुणवत्ता पर निर्भर करता है। PromptMakr की मदद से इंटरैक्टिव यूज़र इंटरफ़ेस के ज़रिये इन उच्च गुणवत्ता वाले संकेतों को लिखना और अपना खुद का रिपॉजिटरी बनाना तुम्हारे लिए बहुत आसान हो जाता है।. | :white_check_mark: |
-| [Promptomania](https://www.thataicollection.com/redirect/promptomania?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PromptoMania प्रॉम्प्ट जेनरेटर - ऑनलाइन प्रॉम्प्ट बिल्डर के साथ AI कला समुदाय. | क्या तुम आज सीएफ स्पार्क, मिडजर्नी या स्टेबल डिफ्यूज़न मास्टर बनना चाहते हो? मानव-अनुकूल प्रॉम्प्ट बिल्डर तुम्हारी मदद करेगा। तुम इसे अन्य डिफ्यूज़न मॉडल के साथ भी आज़मा सकते हो, जैसे कि DALL-E 2, डिस्को डिफ्यूज़न, WOMBO ड्रीम या किसी डिफ़्यूज़न मॉडल के साथ। अगर ऐसा होता है, तो अनुभव को सोशल मीडिया पर शेयर करें।. | :grey_question: |
-| [Proposalgenie](https://www.thataicollection.com/redirect/proposalgenie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्रस्ताव जिन्न. | सेकंड में परफेक्ट अपवर्क प्रस्ताव लिखें. | :grey_question: |
-| [Rephrasee.com](https://www.thataicollection.com/redirect/rephrasee.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Rephrasee.com - आसानी से रीफ़्रेज़, अनुवाद और प्रूफरीड. | यह टूल रीफ्रेशिंग, अनुवाद और प्रूफरीडिंग में आपकी मदद करने के लिए आर्टिफिशियल इंटेलिजेंस का उपयोग करता है। एआई-संचालित तकनीक के साथ, अपनी लिखित सामग्री के लिए उच्चतम गुणवत्ता वाली सहायता जल्दी और सटीक रूप से प्राप्त करें. | :white_check_mark: |
-| [ReplAI](https://www.thataicollection.com/redirect/replai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Replai - AI के साथ तुरंत जवाब दें. | ReplAI एक ब्राउज़र एक्सटेंशन है जो GPT-3 मॉडल टेक्स्ट जेनरेशन के साथ आपके व्यक्तिगत संदेश, ईमेल, या किसी अन्य टेक्स्ट को ड्राफ़्ट करने में आपकी मदद करता है, जिससे आपको अपना व्यवसाय जल्दी से पूरा करने की आवश्यकता होती है।. | :x: |
-| [Scarlettpanda](https://www.thataicollection.com/redirect/scarlettpanda?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्कारलेट पांडा - स्वनिर्धारित लघु सोने के समय की कहानियाँ. | स्कारलेट पांडा - अपने मित्रों और परिवार की विशेषता वाली अनुकूलित बेडटाइम कहानियां बनाने के लिए हमारे जादू का उपयोग करें।. | :grey_question: |
-| [Scholarcy](https://www.thataicollection.com/redirect/scholarcy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऑनलाइन समराइज़िंग टूल - फ्लैशकार्ड जेनरेटर और समराइज़र - स्कॉलरसी. | स्कॉलरसी ™ एक ऑनलाइन सारांश उपकरण है जो लंबे लेखों को सारांश फ्लैशकार्ड में बनाता और परिवर्तित करता है। निःशुल्क साइन अप करें और संक्षेप करना शुरू करें. | :white_check_mark: |
-| [Sheet AI](https://www.thataicollection.com/redirect/sheet-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | शीटाई ऐप - अपने गूगल शीट्स में एआई पावर को अनलॉक करें।. | शीटएआई एक Google शीट ऐड-ऑन है जो आपकी स्प्रैडशीट्स में एआई की शक्ति को अनलॉक करने में आपकी सहायता करता है।. | :grey_question: |
-| [Solidpoint](https://www.thataicollection.com/redirect/solidpoint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सॉलिडपॉइंट - घंटों के कॉन्टेंट को मिनटों के मुख्य विचारों में बदल दें!. | ज़रूरी विचारों को जल्दी और कुशलता से खोजें! 'कमेंट इनसाइट्स' के ज़रिए बातचीत की गहराई को उजागर करें, जो भावनाओं का विश्लेषण करने और टिप्पणी की टाइमलाइन आसानी से नेविगेट करने का तुम्हारा व्यापक टूल है।. | :grey_question: |
-| [Spellbox](https://www.thataicollection.com/redirect/spellbox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्पेलबॉक्स - एआई प्रोग्रामिंग असिस्टेंट. | स्पेलबॉक्स आपको सरल संकेतों से आवश्यक कोड बनाने के लिए कृत्रिम बुद्धिमत्ता का उपयोग करता है। एआई के साथ अपनी सबसे कठिन प्रोग्रामिंग समस्याओं को सेकंड में हल करें!. | :grey_question: |
-| [Splitjoin](https://www.thataicollection.com/redirect/splitjoin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्प्लिटजॉइन. | प्रतिबद्ध संदेशों को तेज़ी से लिखने में आपकी मदद करने के लिए एआई सहायक. | :grey_question: |
-| [Storywizard](https://www.thataicollection.com/redirect/storywizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Storywizard.Ai - AI का उपयोग करके बहुत कम समय में अविश्वसनीय बच्चों की कहानियां बनाएं. | Storywizard एआई का उपयोग आपको बच्चों के लिए ज्वलंत छवियों और सुंदर भूखंडों के साथ आश्चर्यजनक कहानियां बनाने में मदद करने के लिए करता है।. | :grey_question: |
-| [Sudowrite](https://www.thataicollection.com/redirect/sudowrite?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हमारे जादुई लेखन एआई के साथ लेखक के ब्लॉक को तोड़ें और अधिक रचनात्मक बनें. | द न्यू यॉर्कर, एनवाई टाइम्स, द वर्ज और कई अन्य के अनुसार सर्वश्रेष्ठ एआई लेखन उपकरण के साथ अपना उपन्यास या पटकथा तेजी से लिखें।. | :grey_question: |
-| [Tally Forms](https://www.thataicollection.com/redirect/tally-forms?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फ़ॉर्म बनाने का सबसे आसान तरीका. | सेकंड में सभी उद्देश्यों के लिए फॉर्म बनाएं। कोड को जानने के बिना. | :white_check_mark: |
-| [Upword](https://www.thataicollection.com/redirect/upword?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ अपने 10X लेख, समाचार रिपोर्ट, ब्लॉग, समाचार पत्र, लेख तेजी से पढ़ें. | Upwords AI के साथ सामग्री से प्रमुख विचारों को प्राप्त करें। ऑनलाइन सारांश दस्तावेज़ बनाएँ। अपना ज्ञान बढ़ाओ।. | :white_check_mark: |
-| [Writemeacoverletter](https://www.thataicollection.com/redirect/writemeacoverletter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मुझे एक कवर लेटर लिखें. | एआई का उपयोग करके सेकंड में एक कवर लेटर उत्पन्न करें। बस अपना सीवी अपलोड करें, अपनी मनचाही नौकरी का लिंक साझा करें और बाकी काम हम कर लेंगे।. | :grey_question: |
-| [Your Cover Letter](https://www.thataicollection.com/redirect/your-cover-letter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई कवर लेटर बिल्डर - आरंभ करने के लिए अपना बायोडाटा अपलोड करें. | हमारे एआई कवर लेटर बिल्डर का उपयोग करके अपने सपनों की नौकरियों के लिए आवेदन करें। सेकंड में कवर लेटर बनाने के लिए अपना रिज्यूमे और नौकरी का विवरण जोड़ें।. | :grey_question: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## लेखन सहायक
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Afforai Ask](https://www.thataicollection.com/redirect/afforai-ask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ सुपरचार्ज लेखन कार्य. | व्यवसाय - त्वरित ईमेल और दस्तावेज़ लेखक आपको पेशेवर ईमेल और दस्तावेज़ बनाने में मदद कर सकते हैं। रोजगार - हमारे एआई-संचालित टूल से अपनी भर्ती प्रक्रिया को आसान बनाएं जो नौकरी विवरण तैयार करता है। नौकरी चाहने वाले असाधारण बायोडाटा और कवर लेटर बना सकते हैं। तकनीकी - अफ़ोराई आपके मुख्य बिंदुओं को देखते हुए निबंध और रिपोर्ट को जल्दी और आसानी से तैयार करने में आपकी मदद करता है।. | :white_check_mark: |
-| [AI Lyrics Generator](https://www.thataicollection.com/redirect/ai-lyrics-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आर्टिफिशियल इंटेलिजेंस सॉन्ग राइटर - ये लिरिक्स मौजूद नहीं हैं. | किसी भी विषय के लिए अपने स्वयं के गीत के बोल उत्पन्न करें, गीत की शैली और गीत के मूड को भी चुनें. | :grey_question: |
-| [AI-Writer](https://www.thataicollection.com/redirect/ai-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई राइटर™ - सर्वश्रेष्ठ एआई टेक्स्ट जेनरेटर, वादा किया गया।. | एआई-राइटर सबसे सटीक कंटेंट जेनरेशन प्लेटफॉर्म है, जो अत्याधुनिक एआई राइटिंग मॉडल का उपयोग करके सिर्फ एक हेडलाइन से लेख तैयार करता है।. | :grey_question: |
-| [AIKIt](https://www.thataicollection.com/redirect/aikit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऐकिट - आपका Wordpress AI सहायक GPT-3 का उपयोग कर रहा है. | . | :grey_question: |
-| [AssignmentGPT AI](https://www.thataicollection.com/redirect/assignmentgpt-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | असाइनमेंटजीपीटी एआई एक क्रांतिकारी नई लेखक टूल वेबसाइट है जो उपयोगकर्ताओं को एक शक्तिशाली एआई-संचालित लेखन सहायक प्रदान करती है  उत्कृष्ट कार्य, निबंध, ब्लॉग, पाठ योजना तैयार करें. | असाइनमेंटजीपीटी एआई - लेखन सहायक सुविधाएँ  अपने प्रश्नों के सटीक उत्तर पाने के लिए AI की शक्ति को अनलॉक करें। छात्रों, पेशेवरों और त्वरित, विश्वसनीय जानकारी की आवश्यकता वाले किसी भी व्यक्ति के लिए आदर्श।  क्या आप किसी कठिन काम में फंस गए हैं? विभिन्न विषयों पर चरण-दर-चरण समाधान प्राप्त करें। होमवर्क को कम तनावपूर्ण और अधिक शैक्षिक बनाएं।. | :white_check_mark: |
-| [Bearly Ai](https://www.thataicollection.com/redirect/bearly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | दुनिया के सर्वश्रेष्ठ एआई के साथ पढ़ने और लिखने के सैकड़ों घंटे बचाएं. | . | :white_check_mark: |
-| [BlogNLP](https://www.thataicollection.com/redirect/blognlp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Blognlp. | एक एआई-आधारित ब्लॉग लेखन उपकरण जो आपको जल्दी और आसानी से मनोरम सामग्री तैयार करने में मदद कर सकता है, लेखक के अवरोध को दूर कर सकता है और आपके समय की बचत कर सकता है. | :grey_question: |
-| [Chatchat for jobs done](https://www.thataicollection.com/redirect/chatchat-for-jobs-done?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ज्यादा सोचने की जरूरत नहीं है लेकिन आपके काम के लिए हमारी एआई सेवा से स्पष्ट परिणाम मिलेंगे. | 🚀 ChatChat.Bio: आपकी वन-स्टॉप AI सेवा!  ✨ विशेषताएं: चैटजीपीटी, जीपीटी-4 और मिडजर्नी तक स्थिर पहुंच। हमारा एआई खंडित विचारों को समझता है, विचारों को स्पष्ट करता है और मिडजर्नी उपयोग का मार्गदर्शन करता है।  🎉 उच्च उपयोगकर्ता प्रतिधारण: 70% बार-बार खरीदारी!  🔧 तकनीकी लाभ: मॉडल को बेहतर बनाने और एआई को उपयोगकर्ता की जरूरतों के अनुरूप ढालने में विशेषज्ञता।  💖 निःशुल्क दैनिक कोटा: सेवाओं तक प्रतिदिन निःशुल्क पहुंच, किसी सदस्यता की आवश्यकता नहीं!. | :white_check_mark: |
-| [Eilla](https://www.thataicollection.com/redirect/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एला एआई - एआई कंटेंट जनरेशन असिस्टेंट. | . | :grey_question: |
-| [Elephas](https://www.thataicollection.com/redirect/elephas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एलिफस - मैक, आईफोन, आईपैड के लिए पर्सनल एआई राइटिंग असिस्टेंट. | प्रतिदिन घंटे बचाएं। दुनिया का पहला एआई लेखक जो आपके मैक, आईफोन और आईपैड पर काम करता है।. | :white_check_mark: |
-| [EssayBar](https://www.thataicollection.com/redirect/essaybar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Essaybar - एआई-क्राफ्टेड निबंधों के साथ अपने लेखन में क्रांतिकारी बदलाव करें!. | . | :grey_question: |
-| [FireTexts](https://www.thataicollection.com/redirect/firetexts?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | दोबारा कभी भी सही पाठ के बारे में सोचने में समय बर्बाद न करें. | एआई की शक्ति को उजागर करें और जन्मदिन, धन्यवाद, छेड़खानी, अस्वीकृति या किसी अन्य स्थिति के लिए सही टेक्स्ट संदेश बनाएं। हम किसी भी अवसर के लिए सही टेक्स्ट तैयार करने के लिए चैटजीपीटी और कस्टम इनपुट का उपयोग करते हैं।. | :white_check_mark: |
-| [FreewriteAI](https://www.thataicollection.com/redirect/freewriteai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सभी के लिए एआई लेखन उपकरण. | . | :white_check_mark: |
-| [HIX.AI](https://www.thataicollection.com/redirect/hix.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सबसे शक्तिशाली, सबमें एक एआई राइटिंग कोपायलट. | IX.AI: आपका सबसे शक्तिशाली, ऑल-इन-वन AI राइटिंग कोपायलट। बाजार में सबसे शक्तिशाली, ऑल-इन-वन एआई राइटिंग कोपायलट HIX.AI के साथ सेकंडों में विज्ञापनों, ईमेल, ब्लॉग आदि के लिए उच्च-गुणवत्ता वाली प्रतियां तैयार करें।. | :white_check_mark: |
-| [Instascribe](https://www.thataicollection.com/redirect/instascribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instascribe एक AI-संचालित ऐप है जो आपके Instagram फ़ोटो के लिए वैयक्तिकृत कैप्शन बनाता है. | बस एक छवि का चयन करें, कैप्शन शैलियों की एक सरणी से चुनें या अपनी खुद की परिभाषित करें, और स्वर, भाषा और संदेश की लंबाई जैसे विकल्पों को समायोजित करें। ऐप का एआई तब एक अद्वितीय कैप्शन उत्पन्न करता है जो आपकी छवि और वरीयताओं के अनुरूप होता है, जो आपकी सोशल मीडिया पोस्टिंग प्रक्रिया को सुव्यवस्थित करता है।. | :grey_question: |
-| [Paragraph AI](https://www.thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paragraphai • सर्वश्रेष्ठ AI लेखन ऐप • निःशुल्क AI लेखन सहायक उपकरण. | . | :white_check_mark: |
-| [Paraphraser](https://www.thataicollection.com/redirect/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सभी भाषाओं के लिए नि:शुल्क भावानुवाद. | . | :white_check_mark: |
-| [Paraphraser AI](https://www.thataicollection.com/redirect/paraphraser-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | यारा - एआई-पावर्ड राइटिंग असिस्टेंट. | . | :grey_question: |
-| [Quillbot Paraphraser](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | QuillBot का AI-पावर्ड पैराफ़्रेसिंग टूल आपके लेखन को बेहतर बनाएगा. | आपके शब्द मायने रखते हैं, और हमारा व्याख्यात्मक उपकरण यह सुनिश्चित करने के लिए डिज़ाइन किया गया है कि आप सही शब्दों का उपयोग करें। चुनने के लिए दो निःशुल्क मोड और पांच प्रीमियम मोड के साथ, आप QuillBot के ऑनलाइन Paraphraser का उपयोग विभिन्न तरीकों से किसी भी टेक्स्ट को फिर से लिखने के लिए कर सकते हैं।. | :white_check_mark: |
-| [Rizz!](https://www.thataicollection.com/redirect/rizz!?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अनंत रिज़ की शक्ति प्राप्त करें!. | आपके कीबोर्ड में निर्मित दुनिया का सबसे शक्तिशाली टेक्स्ट AI. | :grey_question: |
-| [Rytr](https://www.thataicollection.com/redirect/rytr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Rytr - सर्वश्रेष्ठ AI राइटर, कंटेंट जनरेटर और लेखन सहायक. | Rytr एक AI राइटिंग असिस्टेंट है, जो कुछ ही सेकंड में, बहुत कम लागत पर, हाई-क्वालिटी वाला कंटेंट बनाने में तुम्हारी मदद करता है! आसानी से किलर कंटेंट जेनरेट करें फिर कभी राइटर के ब्लॉक का सामना न करना पड़े — ब्लॉग से लेकर ईमेल से लेकर विज्ञापन कॉपी तक, कुछ ही सेकंड में लोकप्रिय टोन और भाषाओं में आकर्षक, मूल और हाई-कन्वर्ट करने वाली कॉपियां अपने आप जेनरेट करें।. | :white_check_mark: |
-| [SmartScribe](https://www.thataicollection.com/redirect/smartscribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्मार्टस्क्राइब - एआई राइटिंग असिस्टेंट - राइटिंग मेड ईज़ी. | SmartScribe आर्टिफिशियल इंटेलिजेंस के उपयोग के माध्यम से लेखन की जटिलताओं को हल करने में मदद करता है. | :grey_question: |
-| [Thundercontent](https://www.thataicollection.com/redirect/thundercontent?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-असिस्टेंट के साथ लेख लिखें - थंडरकंटेंट. | थंडरकंटेंट प्रकाश की गति से किसी भी विषय पर अद्वितीय लेख लिखने में आपकी मदद करने के लिए कृत्रिम बुद्धिमत्ता का उपयोग करता है। अपनी सामग्री रणनीति को स्केल करें। लेखक के ब्लॉक पर काबू पाएं।. | :grey_question: |
-| [Txt Muse](https://www.thataicollection.com/redirect/txt-muse?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | txt Muse - 10 गुना बेहतर लिखें, न कि सिर्फ़ 10 गुना तेज़ी से. | Txt Muse एक AI-संचालित टेक्स्ट एडिटर है, जो तुम्हारे विचारों को लेखन में बदलने में तुम्हारी मदद करता है, जिन्हें लोग पढ़ना चाहेंगे। AI एक लेखक की तुलना में बेहतर सहयोगी है, Txt Muse को सहयोगात्मक वर्कफ़्लो को आसान बनाने के लिए डिज़ाइन किया गया है। सही शब्द खोजने या अपने वाक्यों को सही तरीके से फ़ॉर्मेट करने के बजाय अपने विचारों को विकसित करने पर ज़्यादा ध्यान दें—तुम्हारे पाठक इसे पसंद करेंगे।. | :white_check_mark: |
-| [Typly](https://www.thataicollection.com/redirect/typly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टाइपली - वार्तालाप स्तर अगला!. | विशिष्ट रूप से अत्याधुनिक एआई कीबोर्ड है जो आपको एक क्लिक के साथ आपके सभी संदेशों का उत्तर देने में मदद करता है!🚀. | :grey_question: |
-| [WebCopilot](https://www.thataicollection.com/redirect/webcopilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Webcopilot.Co ~ धारणा एआई लेखन सहायक. | एआई के साथ अपने धारणा पृष्ठ लिखें। अपनी लेखन प्रक्रिया को गति दें और जो मायने रखता है उस पर ध्यान केंद्रित करें। हमेशा के लिए आज़ाद. | :white_check_mark: |
-| [Whiskey AI](https://www.thataicollection.com/redirect/whiskey-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | व्हिस्की आपकी मनचाही सामग्री तैयार करने में आपकी मदद करेगी।. | व्हिस्की को छात्रों, पत्रकारों और पेशेवरों के लिए डिज़ाइन किया गया है ताकि वे कम से कम प्रयास और समय के साथ अच्छी तरह से लिखे गए पाठ प्रारूपों में अपने विचार व्यक्त कर सकें।. | :white_check_mark: |
-| [Wordtune](https://www.thataicollection.com/redirect/wordtune?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Wordtune - आपका व्यक्तिगत लेखन सहायक और संपादक. | . | :grey_question: |
-| [Writefull Academizer](https://www.thataicollection.com/redirect/writefull-academizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जहां एआई 💛 अकादमिक लेखन. | राइटफुल में, हम अकादमिक लेखन में सहायता के लिए एआई के साथ प्रयोग करना पसंद करते हैं। यह वह जगह है जहां हम अपने कुछ प्रयोग प्रकाशित करते हैं।. | :white_check_mark: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## लेखा और वित्त
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [FlowCog](https://www.thataicollection.com/redirect/flowcog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सास वित्तीय अनुमान त्वरित और आसान ⚡. | कैश रनवे और विकास अंतर्दृष्टि अनलॉक करें - कोई स्प्रेडशीट नहीं! 7 मिनट ऑनबोर्डिंग। QuickBooks और स्ट्राइप तैयार। बोर्डों और निवेशकों द्वारा भरोसा किया. | :white_check_mark: |
-| [Jinnee](https://www.thataicollection.com/redirect/jinnee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जिनी - आपका फिनटेक वर्चुअल असिस्टेंट. | जिनी समस्याएँ हल कर सकते हैं: सीमित क्षमता - सहायता विभाग हर अनुरोध को संसाधित नहीं कर सकता है, लंबी प्रतीक्षा समय - विभिन्न समय क्षेत्रों में स्थित ग्राहक, दोहराए जाने वाले प्रश्न - समय बचाने के लिए स्वचालित किए जा सकते हैं, समय बर्बाद करने वाले - विषाक्त कार्य वातावरण बनाते हैं. | :grey_question: |
-| [StockGPT](https://www.thataicollection.com/redirect/stockgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-पावर्ड सर्च इंजन. | स्टॉकजीपीटी एक एआई-पावर्ड सर्च इंजन है जिसे 2011 की दूसरी तिमाही से लेकर टेस्ला की सभी तिमाही आय कॉल प्रतिलेखों पर प्रशिक्षित किया गया था।. | :white_check_mark: |
-| [Stocknews AI](https://www.thataicollection.com/redirect/stocknews-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्टॉकन्यूज़ एआई - एआई चुनिंदा स्टॉक न्यूज़. | . | :white_check_mark: |
-| [Torto.ai](https://www.thataicollection.com/redirect/torto.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्टॉक मार्केट मेड सिंपल. | . | :white_check_mark: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## लोगो जनरेटर
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Logo Rank](https://www.thataicollection.com/redirect/logo-rank?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ब्रैंडमार्क लोगो मेकर - सबसे उन्नत AI लोगो डिज़ाइन टूल. | अपने व्यवसाय के लिए एक अनोखा, पेशेवर लोगो बनाएं बिज़नेस कार्ड डिज़ाइन, सोशल मीडिया ग्राफ़िक्स, ऐप आइकन, लेटर हेड्स वगैरह के साथ अपने ब्रांड की शुरुआत करें. | :grey_question: |
-| [Looka](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | नि: शुल्क लोगो निर्माता और बुद्धिमान ब्रांड डिजाइनर. | एक लोगो बनाएं और एक ब्रांड बनाएं जिसे आप लुका से प्यार करते हैं।. | :white_check_mark: |
-| [Make Logo AI](https://www.thataicollection.com/redirect/make-logo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Makelogo.Ai: अपने स्टार्टअप के लिए सही लोगो प्राप्त करें।. | आर्टिफिशियल इंटेलिजेंस द्वारा संचालित, अपने स्टार्टअप के लिए सुंदर और अद्वितीय लोगो उत्पन्न करें।. | :x: |
-| [Text To Book Cover](https://www.thataicollection.com/redirect/text-to-book-cover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टीमों के लिए एआई इमेज जेनरेशन - आप एआई लोगो, एआई बुक कवर, एआई पोस्टर और बहुत कुछ आसानी से उत्पन्न कर सकते हैं - स्टॉकिमग एआई. | टीमों के लिए एआई छवि निर्माण - आप आसानी से एआई लोगो, एआई बुक कवर, एआई पोस्टर और बहुत कुछ उत्पन्न कर सकते हैं - स्टॉकिमग एआई. | :grey_question: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## वास्तुकला और आंतरिक डिजाइन
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [AI Room Planner](https://www.thataicollection.com/redirect/ai-room-planner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई द्वारा आंतरिक डिजाइन. | अपने कमरे के लिए सैकड़ों इंटीरियर डिजाइन विचार प्राप्त करें - बिना किसी सीमा के निःशुल्क।. | :white_check_mark: |
-| [AI TWO](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aitwo.Co - एआई-पावर्ड ऑल-इन-वन डिज़ाइन प्लेटफ़ॉर्म. | . | :grey_question: |
-| [Dimensions](https://www.thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डाइमेंशन - एआई के साथ तेजी से विज़ुअल कॉन्सेप्ट बनाएं. | कल्पना करें कि आप आसानी से सुंदर आंतरिक डिज़ाइन बना सकते हैं - यही आयाम प्रदान करता है।. | :white_check_mark: |
-| [Getfloorplan](https://www.thataicollection.com/redirect/getfloorplan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ 2डी और 3डी फ्लोर प्लान बनाना. | 2डी, 3डी फ्लोर प्लान और वर्चुअल टूर का उपयोग करने वाले हमारे ग्राहकों द्वारा 30% तक कॉल वृद्धि की सूचना दी गई है. | :grey_question: |
-| [Image Computer](https://www.thataicollection.com/redirect/image-computer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी अगली आंतरिक सज्जा / पैनिटिंग / फैशन संग्रह / संकल्पना कला तैयार करें. | आप जिस भी प्रकार की छवि के बारे में सोच सकते हैं, उसे उत्पन्न करने के लिए हमारी शक्तिशाली एआई तकनीक का उपयोग करें। कुछ ही सेकण्ड में।. | :x: |
-| [Interior AI](https://www.thataicollection.com/redirect/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इंटीरियर एआई: आर्टिफिशियल इंटेलिजेंस का उपयोग करते हुए इंटीरियर डिजाइन आइडियाज इंस्पिरेशन और वर्चुअल स्टेजिंग ऐप. | विभिन्न आंतरिक शैलियों के साथ रियल एस्टेट लिस्टिंग के लिए आर्टिफिशियल इंटेलिजेंस और वस्तुतः स्टेज इंटीरियर का उपयोग करके इंटीरियर डिजाइन विचार प्राप्त करें।. | :white_check_mark: |
-| [Makeit.ai](https://www.thataicollection.com/redirect/makeit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जनरेटिव डिज़ाइन - आर्किटेक्चर डिज़ाइन सॉफ़्टवेयर - माकेट. | हमारा जनरेटिव डिज़ाइन सॉफ़्टवेयर वास्तुकारों, बिल्डरों और डेवलपर्स को तुरंत हजारों वास्तुशिल्प योजनाओं को तुरंत उत्पन्न करने में सक्षम बनाता है।. | :grey_question: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
+---
 
 ## वीडियो
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [AI Host](https://www.thataicollection.com/redirect/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इंटरएक्टिव लाइव स्ट्रीम चलाएं. | LiveReacting आपकी स्ट्रीम में पहले से रिकॉर्ड किए गए वीडियो, गेम, काउंटडाउन और पोल जोड़कर आपको अधिक फ़ॉलोअर और सहभागिता प्राप्त करने में मदद करता है।. | :x: |
-| [Atlas Navi](https://www.thataicollection.com/redirect/atlas-navi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लाइसेंस प्राप्त वाहन NFT के साथ ड्राइव-टू-अर्न A.I नेविगेशन ऐप. | सबसे अच्छा नेविगेशन ऐप बनाया जा रहा है। मशीन लर्निंग और ब्लॉकचैन जैसी अत्याधुनिक तकनीकों के साथ, एटलस नवी दुनिया भर के ड्राइवरों के लिए नेविगेशन की अग्रणी पसंद बनने के लिए तैयार है। बेहतर रूटिंग के लिए A.I का इस्तेमाल करने वाली सटीक जगहें यह हर सेकंड 25 बार सड़क का विश्लेषण करती है जिससे दूसरे नेविगेशन ऐप्लिकेशन की तुलना में 100 गुना बेहतर डेटा मिलता है;. | :white_check_mark: |
-| [Augie](https://www.thataicollection.com/redirect/augie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऑगी शब्दों को वीडियो में बदलता है!. | पाठ, कथन, या क्लिप अपलोड करें, और ऑगी सामग्री का विश्लेषण करेगा और आपके शब्दों से मेल खाने के लिए तुरंत एक वीडियो बनाएगा!. | :white_check_mark: |
-| [Boolpic](https://www.thataicollection.com/redirect/boolpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक इंटेलिजेंट वीडियो प्लेटफॉर्म जो ब्रांड्स को सशक्त बनाता है. | मार्केटिंग प्रदर्शन को बढ़ावा देने के लिए एआई के साथ 10 गुना तेजी से ऑन-ब्रांड वीडियो बनाएं. | :grey_question: |
-| [BRIA](https://www.thataicollection.com/redirect/bria?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बड़े पैमाने पर छवियां और वीडियो बनाएं - ब्रिया. | . | :grey_question: |
-| [Colossyan](https://www.thataicollection.com/redirect/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कार्यस्थल पर सीखने के लिए एआई वीडियो प्लेटफ़ॉर्म. | कोलोसियन क्रिएटर वीडियो निर्माण को सरल और तनाव मुक्त बनाता है। वास्तविक अभिनेताओं के साथ हमारे AI वीडियो निर्माता की खोज करें। 5 मिनट से भी कम समय में वीडियो बनाएं. | :white_check_mark: |
-| [D-ID's Creative Reality Studio](https://www.thataicollection.com/redirect/d-ids-creative-reality-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फ्यूचर-फेसिंग जनरेशन एआई. | एक बटन के स्पर्श में बोलने वाले अवतारों की विशेषता वाले अनुकूलित वीडियो बनाएं, व्यवसायों और रचनाकारों को महाशक्तियां प्रदान करें।. | :white_check_mark: |
-| [Deepfakesweb](https://www.thataicollection.com/redirect/deepfakesweb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपना खुद का डीपफेक बनाएं. | हमारे उपयोग में आसान डीपफेक ऐप अद्भुत फेस स्वैप वीडियो बनाने के लिए एआई और डीप लर्निंग का उपयोग करता है। आज ही अपना डीपफेक वीडियो बनाएं।. | :grey_question: |
-| [Eightify](https://www.thataicollection.com/redirect/eightify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | YouTube वीडियो से 8 प्रमुख विचार प्राप्त करें. | ⚡️ YouTube वीडियो के लिए तत्काल AI-संचालित सारांश प्राप्त करें, समय बचाएं, 28 भाषाओं में अनुवाद करें. | :white_check_mark: |
-| [Elai](https://www.thataicollection.com/redirect/elai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सिर्फ टेक्स्ट से एआई वीडियो बनाएं।. | कैमरा, स्टूडियो और ग्रीन स्क्रीन का उपयोग किए बिना मिनटों में प्रस्तुतकर्ता के साथ अनुकूलित AI वीडियो बनाएं।. | :white_check_mark: |
-| [FilmForge](https://www.thataicollection.com/redirect/filmforge?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फिल्मफोर्ज एआई. | तुरंत आकर्षक वीडियो बनाएं। कैप्शन, वॉयसओवर, ट्रांसक्रिप्ट और ग्राफिक्स शामिल हैं।. | :grey_question: |
-| [FlexClip](https://www.thataicollection.com/redirect/flexclip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फ्लेक्सक्लिप- इस्तेमाल में आसान AI वीडियो एडिटर. | FlexClip एक AI-संचालित वीडियो एडिटिंग प्लेटफ़ॉर्म है, जो यूज़र को पेशेवर क्षमता के वीडियो बनाने की सुविधा आसानी से प्रदान करता है। यह एक ऐसा इंटरफ़ेस पेश करता है जो सभी स्तरों के यूज़र का स्वागत करता है। FlexClip में पहले से डिज़ाइन किए गए टेम्प्लेट, स्टॉक इमेजरी, वीडियो और संगीत का भंडार है, जो यूज़र को उनके प्रोजेक्ट शुरू करने के लिए प्रभावी रूप से तैयार करता है।. | :white_check_mark: |
-| [Fliki](https://www.thataicollection.com/redirect/fliki?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई वॉयस के साथ टेक्स्ट को वीडियो में बदलें. | 2 मिनट में यथार्थवादी आवाजों का उपयोग करके स्क्रिप्ट या ब्लॉग पोस्ट से वीडियो बनाएं!. | :white_check_mark: |
-| [Gling](https://www.thataicollection.com/redirect/gling?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | निर्माता, अपना समय वापस पाएं. | हमारा एआई आपके लिए खामोशी और बुरे कदम उठाएगा ताकि आप अपने यूट्यूब वीडियो पर ध्यान केंद्रित कर सकें. | :grey_question: |
-| [HeyGen](https://www.thataicollection.com/redirect/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कैमरा नहीं? कोई दल नहीं? कोई बात नहीं! अनुकूलन योग्य AI अवतारों के साथ अपने वीडियो उत्पादन को बढ़ाएं. | हेजेन एक वीडियो प्लेटफ़ॉर्म है जो आपको जेनरेटिव एआई के साथ आकर्षक व्यावसायिक वीडियो बनाने में मदद करता है। विभिन्न उपयोग के मामलों के लिए पावरप्वाइंट बनाने जितनी आसानी से: व्याख्याकार और कैसे करें, विपणन, वैयक्तिकृत बिक्री, ई-लर्निंग, प्रशिक्षण और ऑनबोर्डिंग और समाचार।. | :grey_question: |
-| [HitPaw Online Video Enhancer](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्रशिक्षित एआई द्वारा अपने वीडियो को अनब्लर और अपस्केल करने के लिए वन-क्लिक।. | HitPaw ऑनलाइन वीडियो एन्हांसर कम रिज़ॉल्यूशन वाले वीडियो के लिए सबसे अच्छा समाधान है, वीडियो समाधान को बिना किसी प्रयास के 1080P/4K तक बढ़ाएं।. | :x: |
-| [Move](https://www.thataicollection.com/redirect/move?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऐ ले जाएँ. | मोबाइल फ़ोन का उपयोग करके किसी भी वातावरण में वीडियो से उच्च गुणवत्ता गति डेटा कैप्चर करें।. | :grey_question: |
-| [Not A Person](https://www.thataicollection.com/redirect/not-a-person?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई अभिनेताओं का उपयोग करके स्टूडियो गुणवत्ता वाले वीडियो बनाएं. | एक अभिनेता चुनें और उन्हें एआई 🤯 का उपयोग करके बोलने दें। हमारे एआई-जनित अभिनेता वास्तविक मनुष्यों की तरह चलते और बात करते हैं। हमारे आर्टिफिशियल इंटेलिजेंस एक्टर्स हाइपर-रियलिस्टिक हैं। वे हिल-डुल सकते हैं और वही कार्य कर सकते हैं जो एक वास्तविक मानव अभिनेता करता है।. | :white_check_mark: |
-| [Pictory](https://www.thataicollection.com/redirect/pictory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वीडियो बनाना आसान हो गया. | अपनी लंबी फ़ॉर्म सामग्री से स्वचालित रूप से लघु, अत्यधिक साझा करने योग्य ब्रांडेड वीडियो बनाएं. | :grey_question: |
-| [Simplified](https://www.thataicollection.com/redirect/simplified?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सरलीकृत: आधुनिक मार्केटिंग टीमों के लिए उपयोग में आसान ऑल-इन-वन ऐप. | वीडियो डिज़ाइन करें, लिखें, संपादित करें और सामग्री प्रकाशित करें। टीमों के लिए बनाया गया।. | :grey_question: |
-| [Story Bard](https://www.thataicollection.com/redirect/story-bard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई द्वारा निर्मित वीडियो कहानियां. | लघु एआई वीडियो। एआई जनरेट किए गए वीडियो बनाएं, देखें और साझा करें. | :grey_question: |
-| [Summarize Tech](https://www.thataicollection.com/redirect/summarize-tech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Summarize.Tech: एआई-संचालित वीडियो सारांश. | किसी भी लंबे YouTube वीडियो का सारांश प्राप्त करें, जैसे व्याख्यान, लाइव इवेंट या सरकारी बैठक। GPT-3 द्वारा संचालित।. | :grey_question: |
-| [Supercreator AI](https://www.thataicollection.com/redirect/supercreator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Supercreator.Ai - AI के साथ 10 गुना तेजी से वीडियो बनाएं. | . | :grey_question: |
-| [ToWords](https://www.thataicollection.com/redirect/towords?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Towords: YouTube to Words. | लिखित शब्दों के साथ अपने वीडियो और ऑडियो को जीवंत बनाएं. | :grey_question: |
-| [Typestudio](https://www.thataicollection.com/redirect/typestudio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्टूडियो टाइप करें - टेक्स्ट संपादित करके अपने वीडियो को संपादित करें. | टाइप स्टूडियो आपके पॉडकास्ट, स्ट्रीम और साक्षात्कार को संपादित करने और विकसित करने का एक तेज़, सरल और आनंददायक तरीका है।. | :grey_question: |
-| [Vidyo](https://www.thataicollection.com/redirect/vidyo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई आधारित सामग्री का पुनरुद्देश्य - Vidyo.Ai. | AI के साथ अपने वीडियो से सोशल रेडी शॉर्ट क्लिप बनाएं ✨ 90% समय और प्रयास बचाएं. | :grey_question: |
-| [Waymark](https://www.thataicollection.com/redirect/waymark?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अविश्वसनीय रूप से आसान वीडियो के साथ स्थानीय बिक्री बढ़ाएँ।. | जब टीवी, सीटीवी और डिजिटल विज्ञापन इतने सहज हों, तो संभावनाएं असीमित होती हैं। वेमार्क के साथ उच्च प्रभाव वाले विज्ञापन अब सभी के लिए खुले हैं।. | :grey_question: |
-| [Wzrd.ai](https://www.thataicollection.com/redirect/wzrd.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी आवाज का अनुभव करें. | WZRD आर्टिफिशियल इंटेलिजेंस द्वारा संचालित इमर्सिव वीडियो के साथ आपके ऑडियो को बढ़ाता है. | :grey_question: |
-| [Yepic AI](https://www.thataicollection.com/redirect/yepic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | तुम्हारा AI वीडियो टूलकिट - वीडियो बनाएं, डब करें और उन्हें वैयक्तिकृत करें. | वीडियो का भविष्य AI जनरेटेड, अल्ट्रा लोकलाइज़्ड और हाइपर पर्सनलाइज़्ड है। Yepic AI के साथ, कोई भी महंगे कैमरे, अभिनेता या स्टूडियो के बिना मिनटों में टॉकिंग हेड स्टाइल वीडियो बना सकता है और उसका अनुवाद कर सकता है।. | :white_check_mark: |
 
+### Colossyan
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-colossyan.webp?twic=v1/resize=240" alt="Colossyan">
+
+#### कार्यस्थल पर सीखने के लिए एआई वीडियो प्लेटफ़ॉर्म - [Visit](https://www.thataicollection.com/redirect/colossyan)
+
+कोलोसियन क्रिएटर वीडियो निर्माण को सरल और तनाव मुक्त बनाता है। वास्तविक अभिनेताओं के साथ हमारे AI वीडियो निर्माता की खोज करें। 5 मिनट से भी कम समय में वीडियो बनाएं
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/colossyan)
+
+<br />
+
+
+
+
+### HitPaw Online Video Enhancer
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hitpaw-online-video-enhancer.webp?twic=v1/resize=240" alt="HitPaw Online Video Enhancer">
+
+#### प्रशिक्षित एआई द्वारा अपने वीडियो को अनब्लर और अपस्केल करने के लिए वन-क्लिक। - [Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer)
+
+HitPaw ऑनलाइन वीडियो एन्हांसर कम रिज़ॉल्यूशन वाले वीडियो के लिए सबसे अच्छा समाधान है, वीडियो समाधान को बिना किसी प्रयास के 1080P/4K तक बढ़ाएं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/hitpaw-online-video-enhancer)
+
+<br />
+
+<br />
+
+
+### Eightify
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-eightify.webp?twic=v1/resize=240" alt="Eightify">
+
+#### YouTube वीडियो से 8 प्रमुख विचार प्राप्त करें - [Visit](https://www.thataicollection.com/redirect/eightify)
+
+⚡️ YouTube वीडियो के लिए तत्काल AI-संचालित सारांश प्राप्त करें, समय बचाएं, 28 भाषाओं में अनुवाद करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/eightify)
+
+<br />
+
+<br />
+
+
+### HeyGen
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-heygen.webp?twic=v1/resize=240" alt="HeyGen">
+
+#### कैमरा नहीं? कोई दल नहीं? कोई बात नहीं!
+अनुकूलन योग्य AI अवतारों के साथ अपने वीडियो उत्पादन को बढ़ाएं - [Visit](https://www.thataicollection.com/redirect/heygen)
+
+हेजेन एक वीडियो प्लेटफ़ॉर्म है जो आपको जेनरेटिव एआई के साथ आकर्षक व्यावसायिक वीडियो बनाने में मदद करता है।
+विभिन्न उपयोग के मामलों के लिए पावरप्वाइंट बनाने जितनी आसानी से:
+व्याख्याकार और कैसे करें, विपणन, वैयक्तिकृत बिक्री, ई-लर्निंग, प्रशिक्षण और ऑनबोर्डिंग और समाचार।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/heygen)
+
+<br />
+
+
+
+
+### Pictory
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-pictory.webp?twic=v1/resize=240" alt="Pictory">
+
+#### वीडियो बनाना आसान हो गया - [Visit](https://www.thataicollection.com/redirect/pictory)
+
+अपनी लंबी फ़ॉर्म सामग्री से स्वचालित रूप से लघु, अत्यधिक साझा करने योग्य ब्रांडेड वीडियो बनाएं
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/pictory)
+
+<br />
+
+<br />
+
+
+### AI Host
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-host.webp?twic=v1/resize=240" alt="AI Host">
+
+#### इंटरएक्टिव लाइव स्ट्रीम चलाएं - [Visit](https://www.thataicollection.com/redirect/ai-host)
+
+LiveReacting आपकी स्ट्रीम में पहले से रिकॉर्ड किए गए वीडियो, गेम, काउंटडाउन और पोल जोड़कर आपको अधिक फ़ॉलोअर और सहभागिता प्राप्त करने में मदद करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-host)
+
+<br />
+
+<br />
+
+
+### Fliki
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fliki.webp?twic=v1/resize=240" alt="Fliki">
+
+#### एआई वॉयस के साथ टेक्स्ट को वीडियो में बदलें - [Visit](https://www.thataicollection.com/redirect/fliki)
+
+2 मिनट में यथार्थवादी आवाजों का उपयोग करके स्क्रिप्ट या ब्लॉग पोस्ट से वीडियो बनाएं!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/fliki)
+
+<br />
+
+<br />
+
+
+
+[See All 🎬 वीडियो Applications on AI Collection](https://www.thataicollection.com/en/categories/video)
 
 <!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
 
 ## वेब डिजाइन
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [B12 AI Website Builder](https://www.thataicollection.com/redirect/b12-ai-website-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सबसे आसान एआई वेबसाइट बिल्डर के साथ 60 सेकंड में अपनी वेबसाइट बनाएं. | हमारा एआई-संचालित वेबसाइट बिल्डर विशेष रूप से आपके उद्योग के लिए टूल, सामग्री और छवियों के साथ आपकी ग्राहक-तैयार ऑनलाइन उपस्थिति उत्पन्न करता है।. | :white_check_mark: |
-| [Designs AI](https://www.thataicollection.com/redirect/designs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ लोगो, वीडियो, बैनर, वॉयसओवर बनाएं. | 2 मिनट में कुछ भी ऑनलाइन बनाएं! AI के साथ एक लोगो, वीडियो, सोशल मीडिया बैनर, बिजनेस कार्ड, फ्लायर, मॉकअप और बहुत कुछ बनाएं।. | :white_check_mark: |
-| [Durable](https://www.thataicollection.com/redirect/durable?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टिकाऊ: एआई वेबसाइट बिल्डर और सर्विस बिजनेस सॉफ्टवेयर. | एआई के साथ 30 सेकंड में एक वेबसाइट बनाएं - एआई वेबसाइट बिल्डर जो सेकंड में इमेज और कॉपी के साथ एक पूरी वेबसाइट तैयार करता है।. | :x: |
-| [Genius by Diagram](https://www.thataicollection.com/redirect/genius-by-diagram?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्रतिभा - आपका एआई डिजाइन साथी. | डायग्राम द्वारा जीनियस की प्रतीक्षा सूची में शामिल हों. | :grey_question: |
-| [Magician](https://www.thataicollection.com/redirect/magician?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Figma के लिए जादूगर. | AI द्वारा संचालित Figma के लिए एक जादुई डिज़ाइन टूल।. | :grey_question: |
-| [Piggy](https://www.thataicollection.com/redirect/piggy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मोबाइल सामग्री निर्माता।. | अपने फोन पर शानदार सामग्री बनाना अब आसान हो गया है. | :white_check_mark: |
-| [Stunning.so](https://www.thataicollection.com/redirect/stunning.so?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ वेबसाइट बनाएं।. | एआई द्वारा संचालित कॉपी और यहां तक कि छवियों सहित 30 सेकंड में शानदार वेबसाइट बनाएं. | :white_check_mark: |
-| [Uizard](https://www.thataicollection.com/redirect/uizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | यूज़ार्ड - ऐप, वेब, और यूआई डिज़ाइन मेड ईज़ी - एआई द्वारा संचालित. | मिनटों में शानदार वेबसाइट, वेब ऐप, मोबाइल ऐप, इंटरफेस, वायरफ्रेम, प्रोटोटाइप, मॉकअप डिज़ाइन करें। अपने विचारों को सहजता से देखें और संप्रेषित करें। कोई डिज़ाइन अनुभव आवश्यक नहीं है!. | :white_check_mark: |
-| [welovenocode](https://www.thataicollection.com/redirect/ai-project-description-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी वेबसाइट को तेज़ और किफ़ायती तरीके से बनाने के लिए टॉप नो-कोड और लो-कोड टैलेंट को हायर करें. | भरोसेमंद, जांचे-परखे विशेषज्ञों के साथ काम करें, जिन्होंने करोड़ों डॉलर के उत्पाद बनाए हैं. | :x: |
+
+### Magician
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-magician.webp?twic=v1/resize=240" alt="Magician">
+
+#### Figma के लिए जादूगर - [Visit](https://www.thataicollection.com/redirect/magician)
+
+AI द्वारा संचालित Figma के लिए एक जादुई डिज़ाइन टूल।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/magician)
+
+<br />
+
+<br />
 
 
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
+### Designs AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-designs-ai.webp?twic=v1/resize=240" alt="Designs AI">
 
-## शिक्षा और सीखना
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Botta](https://www.thataicollection.com/redirect/botta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | किसी विषय से परेशानी हो रही है? बोटा से मिलें. | आपका निःशुल्क, व्यक्तिगत शिक्षण सहायक। प्रश्न पूछें, उत्तर पाएँ. बोटा ऑनलाइन सीखने को आसान बनाता है।. | :white_check_mark: |
-| [Cratecode](https://www.thataicollection.com/redirect/cratecode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cratecode - मुफ़्त में कोड करना सीखें. | ऑनलाइन पाठों और एक शक्तिशाली AI सहायक के माध्यम से कोड करना सीखें! सहायक आपके कोड का विश्लेषण कर सकता है, आपको सही दिशा में ले जा सकता है और सरल विषयों पर लेख लिख सकता है।. | :white_check_mark: |
-| [Lorro](https://www.thataicollection.com/redirect/lorro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कम लागत में धाराप्रवाह अंग्रेजी बोलने वाले बनें। एआई ट्यूटर से बात करके. | AI और GPT-3 द्वारा संचालित अत्यधिक वैयक्तिकृत, रोमांचक कॉपी के साथ अपने कोल्ड ईमेल को बहुत गर्म बनाएं. | :white_check_mark: |
-| [QUIZGECKO](https://www.thataicollection.com/redirect/quizgecko?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मैन्युअल रूप से क्विज़ बनाने में समय बर्बाद करना बंद करें. | किसी भी पाठ से प्रश्नोत्तरी प्रश्न, फ्लैशकार्ड और नोट्स तुरंत बनाएं और साझा करें। व्यवसायों, शिक्षकों और छात्रों के लिए समान रूप से आदर्श।. | :white_check_mark: |
-| [Replicate](https://www.thataicollection.com/redirect/replicate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मशीन लर्निंग को इतना कठिन होने की आवश्यकता नहीं है।. | क्लाउड एपीआई के साथ ओपन-सोर्स मॉडल चलाएं।. | :white_check_mark: |
-| [Speakingclubai](https://www.thataicollection.com/redirect/speakingclubai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्पीकिंग क्लब एआई. | स्पीकिंग क्लब एआई में आपका स्वागत है - विदेशी भाषा में अपने बोलने के कौशल में सुधार करने के इच्छुक किसी भी व्यक्ति के लिए अंतिम भाषा सीखने का उपकरण। स्पीकिंग क्लब एआई के साथ, आप किसी भी समय, कहीं भी व्यक्तिगत एआई भाषा पार्टनर के साथ अपने वार्तालाप कौशल का अभ्यास कर सकते हैं।. | :grey_question: |
-| [teachology.ai](https://www.thataicollection.com/redirect/teachology.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | शिक्षकों और शिक्षकों के लिए उनके शिक्षाशास्त्र और योजना में एआई की शक्ति का उपयोग करने के लिए उपकरणों का एक संग्रह।. | योजना पाठ - अपने पाठों का मसौदा तैयार करने और अपने पसंदीदा प्रारूपों में निर्यात करने के लिए हार्नेस एआई। रिच असेसमेंट बनाएं - मजबूत रूब्रिक संचालित मार्किंग मानदंड के साथ रिच असेसमेंट का निर्माण करें। और अधिक।. | :white_check_mark: |
-| [TutorAI](https://www.thataicollection.com/redirect/tutorai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कुछ भी सीखो - अपने इच्छित विषय को खोजकर. | TutoEAI लर्न एनीथिंग किसी भी विषय के मॉड्यूल सीखने के लिए एक सर्च इंजन है। फ़िज़िक्स, अमेरिकी इतिहास, या अपना नाम जैसे टॉपिक्स आज़माएँ!. | :white_check_mark: |
-| [Wilco Sierra](https://www.thataicollection.com/redirect/wilco-sierra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक ऐसा प्लेटफॉर्म जो एआई का उपयोग करने वाले सॉफ्टवेयर इंजीनियरों के लिए इंजीनियरिंग चुनौतियां उत्पन्न करता है. | सिएरा से मिलें! यह विल्को प्रयोग अपनी तरह का पहला प्लेटफॉर्म है जो एआई का उपयोग करने वाले सॉफ्टवेयर इंजीनियरों के लिए चुनौतियां पैदा करता है। बस इसे बताएं कि आप क्या सीखना चाहते हैं, और यह आपके लिए वैयक्तिकृत शैक्षिक सामग्री तैयार करेगा।. | :white_check_mark: |
+#### एआई के साथ लोगो, वीडियो, बैनर, वॉयसओवर बनाएं - [Visit](https://www.thataicollection.com/redirect/designs-ai)
+
+2 मिनट में कुछ भी ऑनलाइन बनाएं! AI के साथ एक लोगो, वीडियो, सोशल मीडिया बैनर, बिजनेस कार्ड, फ्लायर, मॉकअप और बहुत कुछ बनाएं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/designs-ai)
+
+<br />
+
+<br />
 
 
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
+### welovenocode
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-project-description-generator.webp?twic=v1/resize=240" alt="welovenocode">
 
-## संगठन और स्वचालन
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Adaptify SEO Agent](https://www.thataicollection.com/redirect/adaptify-seo-agent?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्वचालित एसईओ विपणन. | Google पर आपके व्यवसाय, आपके ग्राहकों और आपके प्रतिस्पर्धियों की एक प्रोफ़ाइल बनाता है। फिर एक कीवर्ड रणनीति और लंबी-फ़ॉर्म वाली सामग्री तैयार करता है जो Google पर अच्छी रैंक करती है. | :white_check_mark: |
-| [AutoPredict](https://www.thataicollection.com/redirect/autopredict?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऑटोप्रेडिक्ट - भविष्यवाणी करो कि तुम्हारी कार कितने समय तक चलेगी. | AutoPredict वह पहला ऐप है जो आर्टिफिशियल इंटेलिजेंस का इस्तेमाल करके यह पता लगाता है कि कार कितनी देर तक चलेगी। 100 मिलियन से ज़्यादा डेटा पॉइंट का विश्लेषण करने पर AutoPredict तुम्हारी कार की जिंदगी का सटीक अनुमान लगाता है।. | :white_check_mark: |
-| [bardeen](https://www.thataicollection.com/redirect/bardeen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई ऑटोमेशन से मिलता है. | 2023 में आ रहा है - बारडीन मैनुअल वर्कफ्लो को स्वचालित करने, आपका समय बचाने और आपकी रचनात्मकता को सशक्त बनाने के लिए ब्रेकथ्रू एआई पेश कर रहा है।. | :grey_question: |
-| [BuildAI](https://www.thataicollection.com/redirect/buildai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मिनटों में एआई इंटरफेस बनाएं. | उपयोगकर्ता टेक्स्ट इनपुट के आधार पर टेक्स्ट आउटपुट करने वाले ऐप का विवरण दर्ज करें, और हम इसे आपके लिए बनाएंगे!. | :grey_question: |
-| [guidde](https://www.thataicollection.com/redirect/guidde?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जादुई रूप से आश्चर्यजनक प्रशिक्षण मीटरियल, फीचर नोट्स, एसओपी, ऑनबोर्डिंग गाइड, हाउ-टू गाइड, एआई के साथ अक्सर पूछे जाने वाले प्रश्न बनाएं।. | guidde व्यवसाय के लिए जनरेटिव AI प्लेटफ़ॉर्म है जो आपकी टीम को 11 गुना तेज़ी से वीडियो दस्तावेज़ बनाने में मदद करता है।. | :white_check_mark: |
-| [H2O AI](https://www.thataicollection.com/redirect/h2o-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | H2O.Ai - AI क्लाउड प्लेटफ़ॉर्म - डेमोक्रैटाइज़िंग जेनेरेटिव AI. | H2OGPT, सच में ओपन सोर्स जनरेटिव AI है, जो तुम्हारे जैसे संगठनों को तुम्हारे डेटा के स्वामित्व को सुरक्षित रखते हुए बड़े भाषा मॉडल के मालिक होने की शक्ति देता है।. | :grey_question: |
-| [Hexowatch](https://www.thataicollection.com/redirect/hexowatch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उपलब्धता और कीमतों से परे, डेटा स्रोत के रूप में तृतीय पक्ष की वेबसाइटें, विज़ुअल वेबसाइट मॉनिटरिंग, प्रतियोगी ट्रैकिंग।. | दृश्य, सामग्री, स्रोत कोड, प्रौद्योगिकी, उपलब्धता, या मूल्य परिवर्तन के लिए किसी भी वेबसाइट की निगरानी करने के लिए हेक्सोवॉच आपका एआई साइडकिक है।. | :x: |
-| [Hubble](https://www.thataicollection.com/redirect/hubble?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हबल - उपयोगकर्ताओं से उत्पाद प्रतिक्रिया और अंतर्दृष्टि. | डिज़ाइन से लेकर उत्पादन तक, मॉनिटर करें, मापें और अपने उपयोगकर्ता अनुभव को बढ़ाएं। प्रोटोटाइप, बीटा और लाइव सुविधाओं पर उपयोगकर्ताओं से उच्च गुणवत्ता वाली प्रतिक्रिया एकत्र करके विश्व स्तरीय उत्पाद बनाएं।. | :grey_question: |
-| [Keploy.io](https://www.thataicollection.com/redirect/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | . | :white_check_mark: |
-| [Kive](https://www.thataicollection.com/redirect/kive?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कीव - ऐ कैनवस. | आपकी सभी प्रेरणा एक ही स्थान पर. | :grey_question: |
-| [KUBIYA](https://www.thataicollection.com/redirect/kubiya?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Devops आभासी सहायक. | संवादात्मक एआई के साथ डेवलपर्स को सुरक्षित, परिचालन कार्यप्रवाह, क्लाउड संसाधनों और संगठनात्मक ज्ञान तक स्वयं-सेवा पहुंच प्रदान करें. | :grey_question: |
-| [Looti](https://www.thataicollection.com/redirect/looti?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हाइपरक्वालिफाई करने से तुम्हारी ग्रोथ पर सुपरचार्ज लग जाता है. | AI की बदौलत कुछ ही क्लिक में B2B लीड जेनरेट करें - अपनी लीड को राजस्व में बदलें - पहले से ही 10,000 से अधिक लीड जेनरेट हो चुके हैं हाइपरग्रोइंग कंपनियों के साथ. | :grey_question: |
-| [Magical](https://www.thataicollection.com/redirect/magical?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कार्य गायब करें। जादू की तरह।. | जादुई एआई पर उन सभी कामों को करने के लिए कॉल करें जिन्हें करने से आपको नफरत है। स्क्रैच से संदेश बनाएं, फ़ॉर्म को तुरंत अपडेट करें, और कष्टप्रद कार्यों को स्वचालित करें—कहीं भी, कभी भी।. | :white_check_mark: |
-| [mem](https://www.thataicollection.com/redirect/mem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्व-आयोजन कार्यक्षेत्र. | मेम दुनिया का पहला एआई-संचालित कार्यक्षेत्र है जो आपके लिए वैयक्तिकृत है। अपनी रचनात्मकता को बढ़ाएँ, सांसारिक को स्वचालित करें, और स्वचालित रूप से व्यवस्थित रहें।. | :white_check_mark: |
-| [Nekton.ai](https://www.thataicollection.com/redirect/nekton.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ अपने वर्कफ़्लोज़ को स्वचालित करें. | बुनियादी ढांचे को कोड या बनाए रखने की आवश्यकता के बिना अपने और अपनी टीम के लिए नियमित प्रक्रियाओं को स्वचालित करें।. | :white_check_mark: |
-| [Product Launch AI](https://www.thataicollection.com/redirect/product-launch-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लॉन्च किए गए अपने उत्पाद को सुपरचार्ज करने के लिए एआई की शक्ति का प्रयोग करें. | लॉन्च कॉपी की चिंता किए बिना शानदार लॉन्च के लिए ब्लास्ट करें!. | :grey_question: |
-| [Prompt.Cafe](https://www.thataicollection.com/redirect/prompt.cafe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Prompt.Cafe - AI प्रॉम्प्ट स्टार्टर पैक. | एआई प्रॉम्प्ट जेनरेटर - प्रेरित करें, बनाएं, व्यवस्थित करें। एआई प्रांप्ट से प्रेरणा लें, प्रांप्ट जेनरेटर के साथ नए प्रांप्ट बनाएं, अपने स्वयं के प्रांप्ट को धारणा टेम्पलेट के साथ व्यवस्थित करें. | :white_check_mark: |
-| [Rationale](https://www.thataicollection.com/redirect/rationale?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | तर्क - नवीनतम जीपीटी और इन-संदर्भ शिक्षण द्वारा संचालित एक क्रांतिकारी निर्णय लेने का उपकरण. | हमारे नवीनतम जीपीटी और इन-संदर्भ शिक्षण एल्गोरिदम पेशेवरों और विपक्षों को सूचीबद्ध करेंगे, एक एसडब्ल्यूओटी विश्लेषण उत्पन्न करेंगे, आपके विकल्पों को तौलने में मदद करने के लिए बहु-मानदंड विश्लेषण या कारण विश्लेषण करेंगे। सभी प्रासंगिक कारकों और आपकी पृष्ठभूमि पर विचार करके, रैशनेल आपको तर्कसंगत निर्णय लेने में मदद करता है।. | :grey_question: |
-| [Spoke](https://www.thataicollection.com/redirect/spoke?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | शक्तिशाली एआई के साथ कार्यस्थल के शोर को कम करता है जो सभी उपकरणों को प्राथमिकता देता है और सारांशित करता है ⚡️. | शोर से बचें. स्पोक कल की टीमों के लिए ओएस है। कार्य के लिए संदर्भ बनाने के लिए अपने सभी टूल को एकत्रित करें, प्राथमिकता दें और सारांशित करें। आपके सभी चैनलों और थ्रेड्स के लिए त्वरित संदर्भ - किसी भी बातचीत या विषय को सारांशित करने के लिए निजी और सुरक्षित एआई, ताकि आप कभी भी कोई महत्वपूर्ण अपडेट न चूकें - उपयोग के लिए निःशुल्क, सीधे स्लैक के भीतर।. | :white_check_mark: |
-| [Takomo](https://www.thataicollection.com/redirect/takomo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कुछ ही सेकंड में AI मॉडल कनेक्ट और डिप्लॉय करें अनोखे AI ऐप्लिकेशन बनाने के लिए एक साधारण विज़ुअल बिल्डर में सबसे अच्छे AI मॉडल को मिलाएं. | सबसे अच्छे AI मॉडल को मिलाएं किसी साधारण नो-कोड बिल्डर के साथ सबसे अच्छे AI मॉडल का इस्तेमाल करो और उन्हें मिलाकर अनोखे AI ऐप्लिकेशन बनाओ। 1। पाइपलाइन बनाएं -  पहले से प्रशिक्षित ML मॉडल को जोड़कर अपनी खुद की पाइपलाइन बनाएं 2। प्रीव्यू आउटपुट -  आउटपुट की तुलना करके अपनी पाइपलाइन चलाओ, उसका परीक्षण करो और उसमें सुधार करो 3। API डिप्लॉय करें - विश्वसनीय क्लाउड इंफ्रास्ट्रक्चर के साथ मल्टी-मॉडल API जेनरेट करें. | :grey_question: |
-| [timeMaster](https://www.thataicollection.com/redirect/timemaster?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने फोकस और उत्पादकता को सुपरचार्ज करें. | TimeMaster स्वचालित रूप से पता लगाता है कि आप किस पर काम कर रहे हैं, आपकी गतिविधियों को वर्गीकृत करता है, परियोजनाओं को टैग करता है, और आपकी ओर से समय लॉग भी लिखता है।. | :white_check_mark: |
-| [Umbrellabird](https://www.thataicollection.com/redirect/umbrellabird?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके साक्षात्कार रिकॉर्डिंग से स्वचालित उत्पाद दस्तावेज़ ड्राफ्ट. | अम्ब्रेलाबर्ड: साक्षात्कार रिकॉर्डिंग को एआई-जनरेटेड अंतर्दृष्टि और रणनीति संक्षेप में बदलें। उपयोगकर्ता के दर्द, लाभ और वांछित परिणामों को तुरंत उजागर करें। निष्पक्ष डेटा विश्लेषण के साथ अपनी उत्पाद योजना को सुव्यवस्थित करें।. | :white_check_mark: |
+#### अपनी वेबसाइट को तेज़ और किफ़ायती तरीके से बनाने के लिए टॉप नो-कोड और लो-कोड टैलेंट को हायर करें - [Visit](https://www.thataicollection.com/redirect/ai-project-description-generator)
+
+भरोसेमंद, जांचे-परखे विशेषज्ञों के साथ काम करें, जिन्होंने करोड़ों डॉलर के उत्पाद बनाए हैं
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-project-description-generator)
+
+<br />
+
+<br />
 
 
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
+### Uizard
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-uizard.webp?twic=v1/resize=240" alt="Uizard">
 
-## संगीत और ऑडियो पीढ़ी
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Adobe Mic Check](https://www.thataicollection.com/redirect/adobe-mic-check?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Adobe माइक चेक - अपने माइक को मुफ़्त में जाँचें. | अपने माइक्रोफ़ोन सेटअप को बेहतर बनाने के बारे में सलाह लें। ठीक है, पक्का कर लो कि तुम पॉडकास्ट के लिए तैयार हो। भाषण बेहतर बनाएं - वॉइस रिकॉर्डिंग से शोर और गूंज हटाएँ। माइक चेक - रिकॉर्ड करने से पहले माइक्रोफ़ोन की समस्याओं को ठीक करें। स्टूडियो - अपने ब्राउज़र में रिकॉर्ड करें, एडिट करें और बेहतर बनाएं. | :white_check_mark: |
-| [Adobe Podcast](https://www.thataicollection.com/redirect/adobe-podcast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एडोब पॉडकास्ट - एआई ऑडियो रिकॉर्डिंग और संपादन, सभी वेब पर. | कहानियों वाले लोगों के लिए एक ऑडियो टूल. | :grey_question: |
-| [Aiva](https://www.thataicollection.com/redirect/aiva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AIVA - आर्टिफिशियल इंटेलिजेंस भावनात्मक साउंडट्रैक संगीत तैयार कर रहा है. | रचनात्मक लोगों के लिए एक रचनात्मक सहायक चाहे आप एक स्वतंत्र गेम डेवलपर हों, संगीत में पूर्ण नौसिखिया हों, या एक अनुभवी पेशेवर संगीतकार हों, AIVA आपकी रचनात्मक प्रक्रिया में आपकी सहायता करता है। एआई-जनित संगीत की शक्ति का लाभ उठाकर, अपनी परियोजनाओं के लिए पहले से कहीं अधिक तेजी से सम्मोहक थीम बनाएं।. | :white_check_mark: |
-| [Assemblyai](https://www.thataicollection.com/redirect/assemblyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई मॉडल के लिए #1 एपीआई प्लेटफॉर्म. | असेंबली एआई के स्पीच-टू-टेक्स्ट एपीआई के साथ ऑडियो और वीडियो फ़ाइलों और लाइव ऑडियो स्ट्रीम को स्वचालित रूप से टेक्स्ट में कनवर्ट करें। ऑडियो इंटेलिजेंस के साथ और अधिक करें - संक्षेपण, सामग्री मॉडरेशन, विषय पहचान. | :grey_question: |
-| [Boomy](https://www.thataicollection.com/redirect/boomy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बूमी - अपनी रचनात्मकता को उजागर करें बूमी एआई के साथ संगीत बनाएं. | 🎶 सेकंडों में मौलिक गीत बनाएं, भले ही आपने पहले कभी संगीत न बनाया हो 🌐 अपने गाने स्ट्रीमिंग प्लेटफॉर्म पर सबमिट करें और जब लोग सुनें तो भुगतान पाएं 💜 जनरेटिव संगीत से सशक्त कलाकारों के वैश्विक समुदाय में शामिल हों. | :white_check_mark: |
-| [Cleanvoice AI](https://www.thataicollection.com/redirect/cleanvoice-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने ऑडियो रिकॉर्डिंग्स से फिलर वर्ड्स से छुटकारा पाएं. | Cleanvoice एक आर्टिफिशियल इंटेलिजेंस है जो आपके पॉडकास्ट या ऑडियो रिकॉर्डिंग से फिलर साउंड, हकलाने और मुंह की आवाज को हटा देता है. | :grey_question: |
-| [Clip audio](https://www.thataicollection.com/redirect/clip-audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | क्लिप - एआई ऑडियो सर्च इंजन. | ऑडियो सर्च इंजन. | :grey_question: |
-| [Coqui](https://www.thataicollection.com/redirect/coqui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कोकी. | वीडियो गेम, पोस्ट-प्रोडक्शन, डबिंग और बहुत कुछ के लिए डायरेक्ट इमोशनल, जेनेरेटिव AI वॉइस... | :grey_question: |
-| [Dadabots](https://www.thataicollection.com/redirect/dadabots--?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लाइवस्ट्रीम के ज़रिए 24/7 से अनंत तक म्यूज़िक जेनरेट करना. | डैडबॉट्स - हम रॉ ऑडियो न्यूरल नेटवर्क बनाते हैं जो बैंड की नकल कर सकते हैं हम एक बैंड, एक हैकाथॉन टीम और एक अल्पकालिक शोध प्रयोगशाला के बीच का अंतर हैं। हम संगीतकार हैं जो गणित के बहकावे में आ जाते हैं। हम विज्ञान करते हैं, हम सॉफ़्टवेयर इंजीनियर करते हैं, हम संगीत बनाते हैं। सभी एक प्रोजेक्ट में हैं।. | :white_check_mark: |
-| [DrumNet](https://www.thataicollection.com/redirect/drumnet?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अनंत नमूना पीढ़ी के साथ एआई-संचालित ड्रम मशीन. | अत्याधुनिक एआई तकनीक का उपयोग करके, यह आपको बिना किसी तकनीकी ज्ञान के, किसी भी संगीत शैली में आसानी से अपने स्वयं के ड्रम नमूने बनाने और उन्हें इच्छानुसार संशोधित करने की अनुमति देता है।. | :white_check_mark: |
-| [Ecrett Music](https://www.thataicollection.com/redirect/ecrett-music?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रॉयल्टी मुक्त म्यूज़िक बनाने का आसान तरीका - एक्रेट म्यूज़िक. | हम म्यूज़िशियन, कंपोज़र, डांसर, डिज़ाइनर और इंजीनियर की एक टीम हैं। इक्रेट म्यूज़िक का जन्म सही म्यूज़िक चुनने की निराशाजनक प्रक्रिया में कॉन्टेंट निर्माताओं की मदद करने और हमारे AI कंपोज़िंग सॉफ़्टवेयर के साथ निर्माण को बेहतर बनाने के लिए हुआ था।. | :grey_question: |
-| [Emergent Drums](https://www.thataicollection.com/redirect/emergent-drums?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आर्टिफिशियल इंटेलिजेंस का उपयोग करके अद्वितीय ड्रम नमूने उत्पन्न करें. | अंतहीन ड्रम नमूने उत्पन्न करने के लिए हमारे सफलता प्लगइन का उपयोग करें, सभी रॉयल्टी-मुक्त. | :x: |
-| [GetSound](https://www.thataicollection.com/redirect/getsound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हॉस्पिटैलिटी एआई साउंडस्केप्स के भविष्य में आपका स्वागत है।. | सौना, शावर और मालिश क्षेत्रों के लिए आरामदेह साउंडस्केप। पूल, समुद्र तट, बगीचे, या छतों को सही साउंडस्केप मिलेगा। अपनी लॉबी, हॉलवे या लिफ्ट को फिर से अद्वितीय बनाएं। बेहतर फ़ोकस और सामंजस्य के लिए प्राकृतिक साउंडस्केप के साथ अधिक काम करें।. | :white_check_mark: |
-| [Krisp](https://www.thataicollection.com/redirect/krisp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | दुनिया का #1 शोर रद्द करने वाला ऐप - क्रिस्प. | क्रिस्प्स एआई आपके सभी कॉलों से पृष्ठभूमि की आवाज़, शोर और प्रतिध्वनि को हटा देता है, जिससे आपको मानसिक शांति मिलती है।. | :white_check_mark: |
-| [LALAL.AI Voice Cleaner](https://www.thataicollection.com/redirect/lalal.ai-voice-cleaner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | किसी भी ऑडियो और वीडियो से वोकल, संगत और विभिन्न वाद्ययंत्र निकालें. | दुनिया की #1 एआई-संचालित तकनीक पर आधारित उच्च गुणवत्ता वाला स्टेम स्प्लिटिंग।. | :grey_question: |
-| [Musico](https://www.thataicollection.com/redirect/musico?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Musico - एआई जनरेटिव म्यूजिक. | Musico एक AI-संचालित सॉफ़्टवेयर इंजन है जो संगीत उत्पन्न करता है। यह इशारा, आंदोलन, कोड या अन्य ध्वनि पर प्रतिक्रिया कर सकता है।. | :grey_question: |
-| [Replica](https://www.thataicollection.com/redirect/replica?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सिंथेसाइज़ वॉयस एआई और नेचुरल साउंडिंग टेक्स्ट-टू-स्पीच - रेप्लिका. | 30 मिनट के निःशुल्क वॉयस क्रेडिट के साथ आज ही प्रयास करें।. | :white_check_mark: |
-| [Riffusion](https://www.thataicollection.com/redirect/riffusion?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रिफ्यूजन. | रीयल-टाइम संगीत निर्माण के लिए स्थिर प्रसार. | :white_check_mark: |
-| [Song Donkey](https://www.thataicollection.com/redirect/song-donkey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सॉन्गडोंकी द्वारा ऑडियो स्प्लिटिंग - आर्टिफिशियल इंटेलिजेंस के साथ स्वर और वाद्ययंत्र निकालें. | सोंगडोंकी एक उच्च गुणवत्ता वाला वोकल रिमूवर है जो आपको तनों को आसानी से अलग करने की अनुमति देता है। बस कुछ ही क्लिक से किसी भी गाने से स्वर और वाद्ययंत्र (ड्रम, बास, पियानो, आदि) हटाएं।. | :x: |
-| [Soundful](https://www.thataicollection.com/redirect/soundful?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | म्यूज़िक बनाने के लिए दुनिया को सशक्त बनाना - सौहार्दपूर्ण. | साउंडफ़ुल क्रिएटर्स को एक बटन के क्लिक पर रॉयल्टी फ़्री ट्रैक जेनरेट करने का अधिकार देता है। साउंडफ़ुल म्यूज़िक की क्वालिटी इतनी समृद्ध है, तुम्हेंं यकीन नहीं होगा कि इसे AI के साथ बनाया गया था। अपने वीडियो, स्ट्रीम, पॉडकास्ट और बहुत कुछ के लिए एक बटन के क्लिक पर रॉयल्टी मुक्त बैकग्राउंड म्यूज़िक जेनरेट करने के लिए AI की ताकत का लाभ उठाएं।. | :white_check_mark: |
-| [Soundraw](https://www.thataicollection.com/redirect/soundraw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपको जो गाना चाहिए उसे खोजना बंद करें। इसे बनाओ।. | अकल्पनीय संभावनाएं, असीमित संगीत, बस मूड, शैली और लंबाई चुनें। हमारा AI आपके लिए सुंदर गाने तैयार करेगा। फिवियो फॉरेन जैसी बीट्स जेनरेट करें और अपने खुद के ट्रैक बनाएं।. | :white_check_mark: |
-| [Splash](https://www.thataicollection.com/redirect/splash?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्पलैश - हर किसी के लिए संगीत बनाने का आनंद लाना. | . | :white_check_mark: |
-| [Suno AI](https://www.thataicollection.com/redirect/suno-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सुनना विश्वास करना है - एआई के साथ संगीत और भाषण बनाएं. | हमारे एआई मॉडल क्रिएटिव और डेवलपर्स को हाइपर-यथार्थवादी भाषण, संगीत और ध्वनि प्रभाव उत्पन्न करने में सक्षम बनाते हैं - गेमिंग, सोशल मीडिया, मनोरंजन और अन्य में वैयक्तिकृत, इंटरैक्टिव और मजेदार अनुभव प्रदान करते हैं।. | :grey_question: |
-| [TuneFlow](https://www.thataicollection.com/redirect/tuneflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई महाशक्तियों के एक सूट के साथ नेक्स्ट-जेन म्यूजिक-मेकिंग टूल. | किसी भी अन्य पेशेवर डीएडब्ल्यू की तरह उन्हें संपादित करने में सक्षम होने के दौरान भी आपको मेलोडी, बीट्स या यहां तक कि एक पूरे गीत को उत्पन्न करने में मदद मिलती है।. | :white_check_mark: |
+#### यूज़ार्ड - ऐप, वेब, और यूआई डिज़ाइन मेड ईज़ी - एआई द्वारा संचालित - [Visit](https://www.thataicollection.com/redirect/uizard)
+
+मिनटों में शानदार वेबसाइट, वेब ऐप, मोबाइल ऐप, इंटरफेस, वायरफ्रेम, प्रोटोटाइप, मॉकअप डिज़ाइन करें। अपने विचारों को सहजता से देखें और संप्रेषित करें। कोई डिज़ाइन अनुभव आवश्यक नहीं है!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/uizard)
+
+<br />
 
 
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
 
-## समीक्षा और अनुशंसाएँ
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [AI Review Reply Assistant](https://www.thataicollection.com/redirect/ai-review-reply-assistant?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने एआई रिव्यू रिप्लाई असिस्टेंट के साथ समीक्षाओं का जवाब दें. | एआई समीक्षा उत्तर जनरेटर: आपके व्यक्तिगत एआई सहायक द्वारा लिखित व्यक्तिगत प्रतिक्रियाओं के साथ प्रत्येक ग्राहक समीक्षा के लिए 3x तेजी से उत्तर दें। किसी टेम्प्लेट की आवश्यकता नहीं है।. | :grey_question: |
-| [Artreviewgenerator](https://www.thataicollection.com/redirect/artreviewgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कला समीक्षा जेनरेटर. | एक प्राकृतिक भाषा प्रसंस्करण उपकरण और पाठ जनरेटर। यह एक संकेत के रूप में शब्दों का एक सेट लेता है और फिर वाक्यों का एक मध्यम लंबाई का सेट उत्पन्न करता है जो प्रशिक्षण डेटा का अनुमान लगाता है. | :grey_question: |
-| [Geniusreview](https://www.thataicollection.com/redirect/geniusreview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Geniusreview - 360° AI प्रदर्शन समीक्षाएं. | अपने प्रदर्शन समीक्षा प्रश्नों के अनुरूप उत्तर प्राप्त करने के लिए GeniusReview का उपयोग करके घंटों की बचत करें।. | :grey_question: |
-| [Reviewz](https://www.thataicollection.com/redirect/reviewz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Reviewz.ai - डिस्कवर ऑल द बेस्ट प्रोडक्ट्स। एआई द्वारा क्यूरेट और अनुशंसित।. | Reviewz.ai एक नवीनता है और इसे उपभोक्ता उत्पाद और अनुशंसा स्थान में AI की क्षमताओं को प्रदर्शित करने के लिए डिज़ाइन किया गया है। इस साइट पर चयनित और समीक्षा किए गए सभी उत्पाद पूरी तरह से एआई द्वारा किए गए हैं, और सभी समीक्षाएं एआई द्वारा लिखी गई हैं।. | :white_check_mark: |
-| [Sona](https://www.thataicollection.com/redirect/sona?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इसे दो बार पढ़ें - दो बार पढ़ने लायक किताबें।. | जिन लोगों की आप प्रशंसा करते हैं, उनकी सर्वोत्तम पुस्तक अनुशंसाओं के लिए हम इंटरनेट पर अनगिनत घंटे खंगालते हैं। हमारा डेटाबेस लगातार बढ़ रहा है, और हर एक सिफारिश को प्रामाणिकता के लिए सत्यापित किया गया है और इसमें स्रोत के लिए एक लिंक शामिल है। आनंद लेना!. | :grey_question: |
 
+### Durable
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-durable.webp?twic=v1/resize=240" alt="Durable">
+
+#### टिकाऊ: एआई वेबसाइट बिल्डर और सर्विस बिजनेस सॉफ्टवेयर - [Visit](https://www.thataicollection.com/redirect/durable)
+
+एआई के साथ 30 सेकंड में एक वेबसाइट बनाएं - एआई वेबसाइट बिल्डर जो सेकंड में इमेज और कॉपी के साथ एक पूरी वेबसाइट तैयार करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/durable)
+
+<br />
+
+<br />
+
+
+### Piggy
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-piggy.webp?twic=v1/resize=240" alt="Piggy">
+
+#### मोबाइल सामग्री निर्माता। - [Visit](https://www.thataicollection.com/redirect/piggy)
+
+अपने फोन पर शानदार सामग्री बनाना अब आसान हो गया है
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/piggy)
+
+<br />
+
+<br />
+
+
+### Genius by Diagram
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-genius-by-diagram.webp?twic=v1/resize=240" alt="Genius by Diagram">
+
+#### प्रतिभा - आपका एआई डिजाइन साथी - [Visit](https://www.thataicollection.com/redirect/genius-by-diagram)
+
+डायग्राम द्वारा जीनियस की प्रतीक्षा सूची में शामिल हों
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/genius-by-diagram)
+
+<br />
+
+<br />
+
+
+
+[See All 🕸 वेब डिजाइन Applications on AI Collection](https://www.thataicollection.com/en/categories/web-design)
 
 <!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
 
-## सामग्री निर्माण और एसईओ
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [AI Paraphrasing Tool](https://www.thataicollection.com/redirect/ai-paraphrasing-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Contentbot - AI लेखक - संस्थापकों और सामग्री विपणक के लिए AI सामग्री. | एआई ऑटोमेशन एट इट्स बेस्ट। कस्टम एआई सामग्री वर्कफ़्लो बनाएँ, आयात के माध्यम से चलाएँ, या बस हमारे एआई लेखक का उपयोग करें।. | :x: |
-| [aitxt](https://www.thataicollection.com/redirect/aitxt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रूसी में ऑनलाइन पाठ जनरेटर. | हमारी सेवा एक पाठ उत्पन्न करती है जिसे कृत्रिम बुद्धिमत्ता का उपयोग करके किसी भी विषय पर 1 मिनट तक अर्थ के साथ समझा जा सकता है. | :white_check_mark: |
-| [ArticleForge](https://www.thataicollection.com/redirect/articleforge?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उच्च गुणवत्ता, एआई कंटेंट जेनरेटर - आर्टिकल फोर्ज. | उन्नत आर्टिफिशियल इंटेलिजेंस और डीप लर्निंग का उपयोग करते हुए, आर्टिकल फोर्ज एक बटन के क्लिक के साथ पूरी तरह से अद्वितीय, एसईओ अनुकूलित, उच्च-गुणवत्ता, लंबे फॉर्म वाले लेख लिखता है।. | :white_check_mark: |
-| [Backlink GPT](https://www.thataicollection.com/redirect/backlink-gpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ गुणवत्तापूर्ण बैकलिंक्स उत्पन्न करें।. | अपनी वेबसाइट के एसईओ को बढ़ावा दें और अपनी ऑनलाइन दृश्यता में सुधार करें। BacklinkGPT.com अत्यधिक प्रभावी आउटरीच संदेश बनाने के लिए उन्नत AI तकनीक का उपयोग करता है, जिससे आपको अधिक बैकलिंक प्राप्त करने और अपनी वेबसाइट के प्रदर्शन को बेहतर बनाने में मदद मिलती है।. | :white_check_mark: |
-| [beehiiv AI](https://www.thataicollection.com/redirect/beehiiv-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | न्यूज़लेटर संचालकों के लिए निर्मित कृत्रिम बुद्धिमत्ता।. | एआई लेखन सहायक - आप क्या लिखना चाहते हैं इसका एक विचार बताएं, स्वर और लंबाई का चयन करें। एआई टेक्स्ट टूल्स - ऑटो-सही, ऑटो-पूर्ण या पूरी तरह से पुनर्जीवित करने के लिए मौजूदा टेक्स्ट का चयन करें। एआई इमेज टूल्स - केवल अपनी कल्पना से सुंदर छवियां बनाएं। छवि का वर्णन करें और उसे जीवंत बनाएं। एआई अनुवादक - अपनी सामग्री का कई भाषाओं में निर्बाध रूप से अनुवाद करें।. | :white_check_mark: |
-| [Bertha.ai](https://www.thataicollection.com/redirect/bertha.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बर्था के साथ आकर्षक प्रति बनाने के लिए एआई की शक्ति में निवेश करें. | झंझट के बिना आकर्षक सामग्री बनाएं...खैर, इसे बनाएं। क्राफ्ट वेबसाइट मिनटों में कॉपी करें, छवियां और चित्र बनाएं, परिवर्तित उत्पाद विवरण उत्पन्न करें, विचार प्राप्त करें और अपना अगला ब्लॉग पोस्ट लिखें।. | :white_check_mark: |
-| [CarbonCopy](https://www.thataicollection.com/redirect/carboncopy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कार्बनकॉपी एआई लेखन उपकरण और सामग्री जेनरेटर. | विवरण, विज्ञापन, लेख, ईमेल और बहुत कुछ सहित विभिन्न उद्देश्यों के लिए हमारे 50 टेम्पलेट्स और शिल्प सम्मोहक प्रतिलिपि में से एक चुनें... कुछ जानकारी प्रदान करें जिसका उपयोग कार्बनकॉपी आपकी प्रतिलिपि बनाने के लिए करेगा। कुछ ही सेकंड में, हमारा कृत्रिम बुद्धिमत्ता सॉफ़्टवेयर आपकी मार्केटिंग के लिए उल्लेखनीय परिणाम उत्पन्न करेगा।. | :white_check_mark: |
-| [Content brief generator](https://www.thataicollection.com/redirect/content-brief-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एसईओ सामग्री अनुकूलन सॉफ्टवेयर - डैशवर्ड. | SEO टीमों के लिए Dashword #1 सामग्री अनुकूलन सॉफ़्टवेयर है। अपने पाठकों के लिए प्रासंगिक सामग्री बनाएँ और अपना जैविक ट्रैफ़िक बढ़ाएँ।. | :x: |
-| [Contentedge](https://www.thataicollection.com/redirect/contentedge?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उन्नत एआई कंटेंट जनरेशन और एसईओ कॉपी राइटिंग सॉफ्टवेयर. | क्रिएटिव बर्नआउट को छोड़ें और कम से कम 15 सेकंड में उच्च रैंकिंग वाली सामग्री तैयार करें. | :white_check_mark: |
-| [CopyGen](https://www.thataicollection.com/redirect/copygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-पावर्ड कंटेंट राइटिंग असिस्टेंट।. | लेखक के अवरोध के बिना सेकंड में उच्च-गुणवत्ता, एसईओ-अनुकूलित सामग्री बनाने के लिए आपका जाने-माने एआई लेखन उपकरण. | :x: |
-| [Copymatic](https://www.thataicollection.com/redirect/copymatic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ कंटेंट, कॉपी और इमेज जेनरेट करें. | अपने ट्रैफ़िक को बढ़ाने और काम के घंटे बचाने के लिए AI का उपयोग करें। स्वचालित रूप से अद्वितीय, आकर्षक और उच्च-गुणवत्ता वाली कॉपी या सामग्री लिखें: लंबे-लंबे ब्लॉग पोस्ट या लैंडिंग पेज से लेकर सेकंड में डिजिटल विज्ञापन तक।. | :white_check_mark: |
-| [CopyMonkey](https://www.thataicollection.com/redirect/copymonkey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपका एआई-संचालित अमेज़ॅन लिस्टिंग अनुकूलन विशेषज्ञ. | CopyMonkey सेकंडों में Amazon लिस्टिंग को जनरेट और ऑप्टिमाइज़ करता है। एआई आपको पहले पृष्ठ पर व्यवस्थित रूप से रैंकिंग दिलाने के लिए आपके अमेज़ॅन लिस्टिंग में सभी महत्वपूर्ण कीवर्ड रखने में मदद करता है. | :white_check_mark: |
-| [Creator AI](https://www.thataicollection.com/redirect/creator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई को आपके लिए बनाने दें. | रचनाकार आपको अधिक शक्तिशाली, भावनात्मक रूप से अभिव्यंजक तरीके से सामग्री लिखने में मदद करेगा. | :x: |
-| [Ctrify](https://www.thataicollection.com/redirect/ctrify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पहला एआई-पावर्ड एसईओ एक्शन प्लेटफॉर्म. | हमारे आर्टिफिशियल इंटेलिजेंस को सिर्फ एक कीवर्ड देकर ऐसी वेबसाइटें बनाएं जो Google पर रैंक करें।. | :grey_question: |
-| [Easy-Peasy.AI](https://www.thataicollection.com/redirect/easy-peasy.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अफोर्डेबल एआई राइटर - ईज़ी-पेसी। एआई: एआई कंटेंट असिस्टेंट. | अद्भुत सामग्री 10 गुना तेजी से बनाएं। एआई छवियां, एआई ऑडियो ट्रांसक्रिप्शन और एआई दोस्त मार्की के साथ चैट करें।. | :white_check_mark: |
-| [Enwrite](https://www.thataicollection.com/redirect/enwrite?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई टूल जिसका उद्देश्य लेखकों को समय बचाने में मदद करना है - उन्हें बदलना नहीं।. | एसईओ-अनुकूलित सामग्री निर्माण में विशेषज्ञता वाला एआई हेल्पर। एनराइट आपको तेजी से बेहतर सामग्री लिखने में मदद करता है।. | :white_check_mark: |
-| [Frase.io (first month - 60% discount)](https://www.thataicollection.com/redirect/frase.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फ्रेज़ - सर्वश्रेष्ठ एसईओ सामग्री अनुकूलन उपकरण और एआई लेखक. | फ्रेज़ एआई आपको घंटों के बजाय मिनटों में उच्च गुणवत्ता वाली एसईओ सामग्री का शोध करने, लिखने और अनुकूलित करने में मदद करता है।. | :x: |
-| [H-supertools AI Writer](https://www.thataicollection.com/redirect/h-supertools-ai-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई लेखक: मुफ्त में सामग्री तैयार करें!. | इस शक्तिशाली नि: शुल्क एआई लेखक के साथ सेकंड में ब्लॉग अनुभाग और पैराग्राफ उत्पन्न करें।. | :white_check_mark: |
-| [Hypotenuse.ai](https://www.thataicollection.com/redirect/hypotenuse.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई को सेकंड में अपनी सामग्री लिखने दें। राइटरएस ब्लॉक के बिना।. | दुनिया के विशाल ज्ञान के साथ हमारे विश्व स्तरीय एआई का उपयोग करते हुए, कुछ कीवर्ड प्रदान करें, और तुरंत उन्हें पूर्ण-लंबाई वाले लेखों और मार्केटिंग सामग्री में बदल दें।. | :white_check_mark: |
-| [Intelligent paraphraser](https://www.thataicollection.com/redirect/intelligent-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aiseo - AI राइटिंग असिस्टेंट, AI कॉपी राइटिंग और कंटेंट जेनरेटर. | आर्टिफिशियल इंटेलिजेंस के साथ लेखन महाशक्तियां प्राप्त करें। AISEO में हम आपको अपने विचारों को ब्लॉग में बदलने में मदद करेंगे और एक बटन के क्लिक पर आपके लिए लिख सकते हैं।. | :white_check_mark: |
-| [Jasper.ai](https://www.thataicollection.com/redirect/jasper.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जैस्पर - एआई कॉपीराइटर - टीमों के लिए एआई कंटेंट जेनरेटर. | जैस्पर एआई कंटेंट जेनरेटर है जो आपको और आपकी टीम को 10 गुना तेजी से अद्भुत, मूल सामग्री बनाने के लिए रचनात्मक अवरोधों को तोड़ने में मदद करता है।. | :white_check_mark: |
-| [Kafkai](https://www.thataicollection.com/redirect/kafkai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अद्वितीय और पठनीय एआई सामग्री जेनरेटर. | काफ्काई एक एआई लेखक सहायक है जो डॉलर के बजाय सेंट के लिए अद्वितीय एसईओ-अनुकूल लेख बनाने में आपकी सहायता करता है।. | :x: |
-| [Katteb](https://www.thataicollection.com/redirect/katteb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फैक्ट-चेक्ड कंटेंट लिखें. | कट्टेब एआई आपके ब्लॉग और ऑनलाइन स्टोर के लिए सामग्री बनाना तेज़ और आसान बनाता है. | :white_check_mark: |
-| [LAIKA](https://www.thataicollection.com/redirect/laika?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लेखकों के लिए वैयक्तिकृत आर्टिफिशियल इंटेलिजेंस. | हम लेखन के उबाऊ हिस्सों को रोमांचक बनाते हैं। लाइका एक क्रिएटिव पार्टनर है जिसे आप अपनी तरह (या जिसे आप चाहते हैं) लिखने के लिए प्रशिक्षित करते हैं। रचनात्मक लेखकों, खेल लेखकों, और अन्य सभी फिक्शन फैब्रिकेटर्स के लिए बनाया गया।. | :white_check_mark: |
-| [Lek](https://www.thataicollection.com/redirect/lek?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Lek.Ai - AI द्वारा संचालित परम सामग्री निर्माता टूलकिट. | हर चीज के लिए कुछ भी लिखें। सामग्री बनाने और कॉपी करने का सबसे तेज़ और आसान तरीका. | :white_check_mark: |
-| [Lex](https://www.thataicollection.com/redirect/lex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने सर्वश्रेष्ठ लेखन को अनलॉक करें. | . | :grey_question: |
-| [LongShot AI](https://www.thataicollection.com/redirect/longshot-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऐसी सामग्री बनाएं जो मनुष्य और खोज इंजन आर्टिफिशियल इंटेलिजेंस का उपयोग करके पसंद करें. | लॉन्गशॉट एक एआई लेखन सहायक है जो आपको विचार से एसईओ सामग्री तक मिनटों में जाने में मदद करता है। रियल टाइम कंटेंट, फैक्ट चेक, सिमेंटिक SEO, कस्टम AI, और बहुत कुछ जैसी सुविधाओं के साथ AI की रचनात्मक शक्ति का उपयोग करें!. | :x: |
-| [Netus.ai](https://www.thataicollection.com/redirect/netus.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-संचालित बायपासर, पैराफ्रेजर और डिटेक्टर. | NetusAI एक शक्तिशाली AI-संचालित तकनीक है, जिसे सामग्री निर्माताओं को पारंपरिक तरीकों की तुलना में 10 गुना तेजी से अद्वितीय, उच्च-गुणवत्ता वाली सामग्री उत्पन्न करने में मदद करने के लिए डिज़ाइन किया गया है।. | :white_check_mark: |
-| [Neuraltext](https://www.thataicollection.com/redirect/neuraltext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Neuraltext - AI लेखक और SEO प्लेटफ़ॉर्म।. | अपने सामग्री संचालन को स्वचालित करें। ऑल-इन-वन कंटेंट मार्केटिंग और SEO प्लेटफॉर्म जो आपका समय और पैसा बचाता है. | :x: |
-| [Phrasion](https://www.thataicollection.com/redirect/phrasion?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लेखक ब्लॉग पोस्ट 2 गुना तेज - आज की तरह ही गुणवत्ता के साथ!. | ब्लॉग लेखन के लिए कई (सभी?) कॉपी राइटिंग एआई टूल आज़माने के बाद, हमने पाया कि अधिकांश बहुत छोटे (<1k शब्द) ब्लॉग पोस्ट बनाएंगे। इसके अतिरिक्त, पोस्ट सरल नहीं थीं और पाठकों को आकर्षित करने और खोज इंजन पर अच्छी रैंक करने के लिए पर्याप्त नहीं थीं।  इसलिए, हम सामग्री लेखकों को प्रतिस्थापित करने के बजाय उन्हें सशक्त बनाने के लिए एक हाइब्रिड मानव-एआई दृष्टिकोण बनाने के लिए तैयार हैं।. | :grey_question: |
-| [Quattr](https://www.thataicollection.com/redirect/quattr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | क्वाटर आपका विकास मुख्यालय है. | नींव के रूप में शक्तिशाली एआई और जीएससी डेटा के साथ बनाया गया उद्यम एसईओ मंच. | :x: |
-| [RankWizard](https://www.thataicollection.com/redirect/rankwizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | GPT-4, Google से वास्तविक समय डेटा और SERP विश्लेषण का उपयोग करके मिनटों में 1000+ ब्लॉग पोस्ट लिखें।. | रैंकविज़ार्ड एक निर्बाध एआई लेखक है जो लेख, ब्लॉग पोस्ट और न्यूज़लेटर जैसी सामग्री के थोक निर्माण पर ध्यान केंद्रित करता है।  आपको केवल कीवर्ड या विषय आयात करने की आवश्यकता है, इससे अधिक कुछ नहीं। एआई आपके विषय के बारे में जानने और कुछ ही मिनटों में आपकी सभी सामग्री लिखने के लिए स्वचालित रूप से सबसे विश्वसनीय ऑनलाइन स्रोत ढूंढ लेगा।. | :white_check_mark: |
-| [Summari](https://www.thataicollection.com/redirect/summari?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी साइट पर पढ़ने के अनुभव में सुधार करें. | हमारी विश्व स्तरीय एआई सारांश तकनीक का उपयोग करके लिंक को संक्षिप्त, सूचनात्मक पूर्वावलोकन में अपग्रेड करें।. | :grey_question: |
-| [Taskade](https://www.thataicollection.com/redirect/taskade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके और आपकी टीमों के लिए दूसरा मस्तिष्क। आपकी टीम की उत्पादकता को सुपरचार्ज करने के लिए एक साथ पांच एआई-संचालित उपकरण। टास्कडे के साथ, आपका सारा काम एक एकीकृत कार्यक्षेत्र में समन्वयित होता है।. | टास्कडे बिल्ट-इन टास्क मैनेजमेंट और वीडियो चैट वाली टीमों के लिए पहला सहयोगी एआई लेखक और आउटलाइनर है। माइंड मैप, टास्क लिस्ट बनाएं और अपनी टीम के साथ रीयल-टाइम में स्ट्रक्चर्ड नोट्स लें।. | :white_check_mark: |
-| [TLDR This](https://www.thataicollection.com/redirect/tldr-this?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टीएलडीआर यह - आर्टिकल समराइज़र और ऑनलाइन टेक्स्ट समराइज़िंग टूल. | यह आपको पाठ के किसी भी हिस्से को संक्षिप्त, पचाने में आसान सामग्री में सारांशित करने में मदद करता है ताकि आप स्वयं को सूचना अधिभार से मुक्त कर सकें।. | :white_check_mark: |
-| [TweetStorm.ai](https://www.thataicollection.com/redirect/tweetstorm.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-पावर्ड ट्वीट जेनरेटर।. | AI GPT4 का उपयोग करके ट्वीट्स, बायोस, हैशटैग और उपयोगकर्ता नाम उत्पन्न करें. | :white_check_mark: |
-| [TypeDroid](https://www.thataicollection.com/redirect/typedroid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टाइपड्रॉइड - फ्री एआई टेक्स्ट जेनरेटर. | . | :white_check_mark: |
-| [Typli](https://www.thataicollection.com/redirect/typli?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Typli.Ai - एआई लेखक और एसईओ लेखन सहायक. | सबसे सहज एआई सामग्री उपकरण जो एआई लेखन और एक एसईओ सहायक को जोड़ता है।. | :white_check_mark: |
-| [unbound](https://www.thataicollection.com/redirect/unbound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके छोटे व्यवसाय के लिए स्वचालित सामग्री निर्माण. | छोटे व्यवसाय, ऑनलाइन दुकानों और रचनाकारों के लिए सामग्री निर्माण को स्वचालित करने के लिए डिज़ाइन किए गए सभी बेहतरीन AI पीढ़ी के उपकरणों का एक ही स्थान पर लाभ उठाएं।. | :white_check_mark: |
-| [vlog2blog](https://www.thataicollection.com/redirect/vlog2blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने YouTube सामग्री को तुरंत आकर्षक ब्लॉग आलेखों में रूपांतरित करें. | अपने एसईओ और ब्रांड उपस्थिति को बढ़ावा दें।. | :white_check_mark: |
-| [Word Spinner](https://www.thataicollection.com/redirect/word-spinner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वर्ड स्पिनर: द बेस्ट फ्री आर्टिकल रिराइटर एंड पैराफ्रेज टूल ऑनलाइन. | . | :white_check_mark: |
-| [WordAI](https://www.thataicollection.com/redirect/wordai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई टेक्स्ट रिवाइटर - वर्डई. | टर्नअराउंड समय में कटौती करने, अपना बजट बढ़ाने और अधिक उच्च-गुणवत्ता वाली सामग्री बनाने के लिए कृत्रिम बुद्धिमत्ता का उपयोग करें जो Google और पाठकों को पसंद आएगी।. | :white_check_mark: |
-| [WordHero](https://www.thataicollection.com/redirect/wordhero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-संचालित सामग्री उत्पन्न करें - 1 क्लिक में।. | WordHero की AI तकनीक से, आप मूल ब्लॉग पोस्ट, सोशल मीडिया सामग्री, ईमेल, और बहुत कुछ - कुछ ही सेकंड में बना सकते हैं।. | :x: |
-| [Wordkraft](https://www.thataicollection.com/redirect/wordkraft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ तुरंत उच्च गुणवत्ता वाली सामग्री बनाएं. | Wordkraft AI कंटेंट राइटर GPT-3 द्वारा संचालित एक क्रांतिकारी टूल है जो आपके ब्लॉग, वेबसाइट या मार्केटिंग आवश्यकताओं के लिए अच्छी तरह से लिखित, कीवर्ड-अनुकूलित सामग्री उत्पन्न करने के लिए सबसे उन्नत आर्टिफिशियल इंटेलिजेंस तकनीक है।. | :white_check_mark: |
-| [Wordplay](https://www.thataicollection.com/redirect/wordplay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सेकंड में लॉन्ग-फॉर्म कंटेंट बनाएं।. | SEO और सामग्री प्रकाशकों के लिए निर्मित #1 AI सामग्री जनरेटर।. | :white_check_mark: |
-| [Writery AI](https://www.thataicollection.com/redirect/writery-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-संचालित लेखन मंच जिसने लिखित सामग्री बनाने के तरीके को बेहद बदल दिया है। किसी विषय या कीवर्ड से अपना लेख लिखें।. | हमारे मुफ़्त एआई लेखन जनरेटर को सर्वोत्तम एसईओ प्रथाओं के लिए अनुकूलित किया गया है और यह किसी विषय या कीवर्ड से ब्लॉग पोस्ट/लेख के लिए उच्च-गुणवत्ता, मूल सामग्री तैयार कर सकता है। हम आपकी ब्लॉग सामग्री आवश्यकताओं के अनुरूप विकल्पों की एक श्रृंखला प्रदान करते हैं, जिसमें चार कार्य प्रकार (ब्लॉग रूपरेखा, ब्लॉग परिचय, ब्लॉग शीर्षक और ब्लॉग विचार), और चुनने के लिए 14 से अधिक विभिन्न स्वर और 23 भाषाएँ शामिल हैं।. | :white_check_mark: |
-| [Writesonic](https://www.thataicollection.com/redirect/writesonic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | राइट्सोनिक - बेस्ट एआई राइटर, कॉपी राइटिंग और पैराफ्रासिंग टूल. | अपने ब्लॉग, विज्ञापनों, ईमेल और वेबसाइट के लिए एसईओ-अनुकूलित और साहित्यिक चोरी-मुक्त सामग्री 10 गुना तेज़ी से बनाएँ।. | :white_check_mark: |
-| [Writey AI](https://www.thataicollection.com/redirect/writey-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हाँ - एक एआई जो मूल, शोधित ब्लॉग पोस्ट मिनटों में लिखता है. | मूल और शोधित सामग्री के साथ पहली सच्ची मुक्त साहित्यिक चोरी A.I, क्रियाशील A.I की जाँच करें।. | :white_check_mark: |
+---
+
+## लेखन सहायक
+
+### HIX.AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hix.ai.webp?twic=v1/resize=240" alt="HIX.AI">
+
+#### सबसे शक्तिशाली, सबमें एक
+एआई राइटिंग कोपायलट - [Visit](https://www.thataicollection.com/redirect/hix.ai)
+
+IX.AI: आपका सबसे शक्तिशाली, ऑल-इन-वन AI राइटिंग कोपायलट। बाजार में सबसे शक्तिशाली, ऑल-इन-वन एआई राइटिंग कोपायलट HIX.AI के साथ सेकंडों में विज्ञापनों, ईमेल, ब्लॉग आदि के लिए उच्च-गुणवत्ता वाली प्रतियां तैयार करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/hix.ai)
+
+<br />
 
 
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## सामाजिक नेटवर्क और डेटिंग
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [AI movie Club](https://www.thataicollection.com/redirect/ai-movie-club?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-मूवी क्लब. | AI-मूवी क्लब एक सोशल नेटवर्क है जो आर्टिफिशियल इंटेलिजेंस के साथ फिल्में बनाता है!. | :grey_question: |
-| [AI Social Bio](https://www.thataicollection.com/redirect/ai-social-bio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई सोशल बायो - आर्टिफिशियल इंटेलिजेंस द्वारा बनाया गया तुम्हारा सोशल मीडिया बायो. | X (Twitter) के लिए बिल्कुल सही। अपने बायो को आकार देने के लिए एक कीवर्ड जोड़ें, अपने AI बायो को प्रेरित करने और अपना बायो जेनरेट करने के लिए एक प्रभावशाली व्यक्ति चुनें. | :white_check_mark: |
-| [Graham AI](https://www.thataicollection.com/redirect/graham-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ग्राहम.एआई - टेक ट्वीट जेनरेटर. | . | :grey_question: |
-| [HotConvo](https://www.thataicollection.com/redirect/hotconvo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | चिंगारी रोमांस - अपने ऑनलाइन डेटिंग के लिए मज़ा, मजाकिया और सेक्सी चैट सुझाव प्राप्त करें।. | सेकंड में फ्लर्टी चैट। Tinder, Bumble, या किसी भी डेटिंग ऐप्स से प्रोफाइल बायो या चल रही बातचीत का स्क्रीनशॉट लें -> Hotconvo को स्मार्ट सुझावों के संदर्भ को समझने दें -> अपने अगले संदेश के लिए क्या कहना है इसकी प्रेरणा पाने के लिए कई सुझाव प्राप्त करें।. | :white_check_mark: |
-| [LoveGenius](https://www.thataicollection.com/redirect/lovegenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आकर्षक और ध्यान आकर्षित करने वाला डेटिंग बायोस बनाएं और टिंडर, बंबल और अन्य पर बेहतर मिलान प्राप्त करें!. | लवजीनियस एक एआई डेटिंग सहायक है जो एक उत्कृष्ट डेटिंग प्रोफ़ाइल तैयार करके बेहतर मेलों को आकर्षित करने में मदद करता है। यह मशीन लर्निंग एल्गोरिदम, सफल डेटिंग प्रोफाइल से डेटा और डेटिंग कोच और विशेषज्ञों के साक्षात्कार के आधार पर मानव अंतर्दृष्टि के संयोजन का उपयोग करता है।. | :white_check_mark: |
-| [Postwise](https://www.thataicollection.com/redirect/postwise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बाद में - Twitter AI के साथ लिखें, शेड्यूल करें और आगे बढ़ें. | दुनिया के सबसे स्मार्ट एआई ट्विटर टूल के साथ लिखें, शेड्यूल करें और आगे बढ़ें. | :grey_question: |
-| [ReContent.AI](https://www.thataicollection.com/redirect/recontent.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने ब्लॉग पोस्ट से वायरल सोशल मीडिया सामग्री उत्पन्न करें - न्यूज़लैटर - ऑडियो सामग्री - दीर्घ-रूप वाली सामग्री. | क्या आप अपनी सामग्री को दोबारा उपयोग में लाने में घंटों खर्च कर रहे हैं? आपने पहले ही भारी काम कर लिया है, अब अपनी सामग्री की क्षमता को अधिकतम करें, AI को आपके लिए काम करने दें।. | :white_check_mark: |
-| [Roast](https://www.thataicollection.com/redirect/roast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डेटिंग ऐप प्रोफाइल एआई विश्लेषण - फोटोशूट एआई जेनरेटर. | रोस्ट लोगों को टिंडर, बम्बल और हिंज जैसे डेटिंग ऐप्स पर उनके मैच में 10 गुना मदद करता है। एआई द्वारा संचालित, यह उनके मैचों की मात्रा और गुणवत्ता बढ़ाने के लिए डेटा-संचालित डेटिंग अंतर्दृष्टि और विशेषज्ञ सलाह प्रदान करता है. | :grey_question: |
-| [TinderProfile.ai](https://www.thataicollection.com/redirect/tinderprofile.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डेटिंग के लिए एआई फोटोशूट जेनरेटर. | TinderProfile.ai डेटिंग प्रोफ़ाइल को बढ़ाने के लिए उपयोगकर्ताओं की सेल्फी और फ़ोटो का विश्लेषण करने और उच्च-गुणवत्ता वाली छवियां उत्पन्न करने के लिए AI का उपयोग करता है, जिससे अधिक मैच होने की संभावना बढ़ जाती है. | :grey_question: |
-| [Tribescaler](https://www.thataicollection.com/redirect/tribescaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ट्राइबस्केलर. | . | :grey_question: |
-| [TweetAI](https://www.thataicollection.com/redirect/tweetai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ट्वीट करने के लिए प्रेरित हों • Tweetai.Com. | ट्वीट एआई. | :grey_question: |
-| [TweetEmote](https://www.thataicollection.com/redirect/tweetemote?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ट्वीटमोट. | . | :grey_question: |
-| [Tweethunter](https://www.thataicollection.com/redirect/tweethunter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ट्वीट हंटर - अधिक ट्विटर फॉलोअर्स प्राप्त करें ट्वीट्स, थ्रेड्स, शेड्यूलर, एनालिटिक्स. | बिक्री, विकास और नए नेटवर्क प्राप्त करें। आप वर्तमान में जो प्रयास कर रहे हैं उससे तेज़।. | :grey_question: |
-| [Tweetspear](https://www.thataicollection.com/redirect/tweetspear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ट्वीट्सपीयर - अपने ट्विटर जुड़ाव को बढ़ावा दें. | एआई-पावर्ड सुझाए गए उत्तरों के साथ अपने ट्विटर एंगेजमेंट में क्रांति लाएं।. | :grey_question: |
 
 
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
+### Rytr
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rytr.webp?twic=v1/resize=240" alt="Rytr">
 
-## स्लाइड और प्रस्तुतियाँ
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [ChatBA](https://www.thataicollection.com/redirect/chatba?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Chatbcg: स्लाइड के लिए जनरेटिव AI. | चैटबीसीजी का उपयोग करके तुरंत स्लाइड डेक बनाएं. | :grey_question: |
-| [Glimmer AI](https://www.thataicollection.com/redirect/glimmer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-पावर्ड प्रेजेंटेशन मैजिक. | Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट या वॉयस कमांड का उपयोग करके पेशेवर-गुणवत्ता की प्रस्तुतियों को आसान और तेज़ बनाने के लिए करता है. | :white_check_mark: |
-| [My Pitch Deck](https://www.thataicollection.com/redirect/my-pitch-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | माय पिच डेक - अपने स्टार्टअप के लिए कस्टम पिच डेक टेम्पलेट के साथ अपनी फ़ंडिंग की शुरुआत करें।. | 10-स्लाइड वाला पिच डेक टेम्पलेट। तुम्हारे हिसाब से बनाया गया। तुम्हारे जवाबों के आधार पर हमारा AI तुम्हारे स्टार्टअप के लिए कस्टम 10-स्लाइड पिच डेक आउटलाइन तैयार करेगा। आगे बढ़ने के लिए तैयार!. | :grey_question: |
-| [Pitchgrade](https://www.thataicollection.com/redirect/pitchgrade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पिचग्रेड - प्रस्तुतियों ने दर्द रहित बना दिया. | पिच डेक एक ऐसा प्रज़ेंटेशन होता है जिसका इस्तेमाल कंपनी निवेशकों को देने के लिए करती है। यह कंपनी के बिज़नेस मॉडल, वित्तीय अनुमानों और अन्य प्रमुख मैट्रिक्स के बारे में बताता है, जिन्हें निवेशक देखना चाहेंगे।. | :grey_question: |
-| [Plus AI for Google Slides](https://www.thataicollection.com/redirect/plus-ai-for-google-slides?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Google स्लाइड में AI-संचालित प्रस्तुतियाँ बनाएँ।. | प्लस एआई के साथ मिनटों में प्रस्तुतिकरण बनाएं। एक खाली डेक से शुरू करना प्रस्तुति बनाने के सबसे चुनौतीपूर्ण हिस्सों में से एक है। प्लस एआई आपको एक रूपरेखा बनाने, पहला मसौदा बनाने और अपनी स्लाइड्स में अतिरिक्त संपादन का सुझाव देने में मदद करता है. | :white_check_mark: |
-| [SlidesAI](https://www.thataicollection.com/redirect/slidesai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सेकंड में एआई के साथ प्रेजेंटेशन स्लाइड बनाएं. | थकाऊ, मैन्युअल स्लाइड निर्माण को अलविदा कहें। एआई को आपके लिए रूपरेखा और प्रस्तुति सामग्री लिखने दें। हमारे टूल से, आप बहुत ही कम समय में किसी भी टेक्स्ट से आसानी से पेशेवर, आकर्षक स्लाइड बना सकते हैं।. | :white_check_mark: |
-| [STORYD](https://www.thataicollection.com/redirect/storyd?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डेटा प्रेजेंटेशन लीडर्स लव. | डेटा-संचालित व्यावसायिक प्रस्तुतियों को जल्दी और आसानी से बनाने में पेशेवरों की मदद करता है।. | :white_check_mark: |
-| [Tome](https://www.thataicollection.com/redirect/tome?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जनरेटिव स्टोरीटेलिंग आ गई है।. | टोम के एआई-संचालित कहानी कहने के प्रारूप के साथ अपने सर्वश्रेष्ठ काम को अनलॉक करें।. | :white_check_mark: |
+#### Rytr - सर्वश्रेष्ठ AI राइटर, कंटेंट जनरेटर और लेखन सहायक - [Visit](https://www.thataicollection.com/redirect/rytr)
+
+Rytr एक AI राइटिंग असिस्टेंट है, जो कुछ ही सेकंड में, बहुत कम लागत पर, हाई-क्वालिटी वाला कंटेंट बनाने में तुम्हारी मदद करता है!
+आसानी से किलर कंटेंट जेनरेट करें
+फिर कभी राइटर के ब्लॉक का सामना न करना पड़े — ब्लॉग से लेकर ईमेल से लेकर विज्ञापन कॉपी तक, कुछ ही सेकंड में लोकप्रिय टोन और भाषाओं में आकर्षक, मूल और हाई-कन्वर्ट करने वाली कॉपियां अपने आप जेनरेट करें। 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/rytr)
+
+<br />
 
 
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## स्वास्थ्य देखभाल
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Getactyv](https://www.thataicollection.com/redirect/getactyv?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Getactyv - एआई और कंप्यूटर विजन असिस्टेड हेल्थ एंड फिटनेस प्लेटफॉर्म. | GetActyv का AI-आधारित पर्सनल ट्रेनर आपकी फिटनेस यात्रा में क्रांति लाने के लिए यहां है. | :grey_question: |
-| [Replika](https://www.thataicollection.com/redirect/replika?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई साथी जो परवाह करता है. | हमेशा यहां सुनने और बात करने के लिए। हमेशा अपनी तरफ रहो। उनके एआई मित्रों के साथ बढ़ रहे लाखों लोगों से अभी जुड़ें!. | :grey_question: |
-| [Ubie AI Symptom Checker](https://www.thataicollection.com/redirect/ubie-ai-symptom-checker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई द्वारा लक्षणों की जांच करें और कारणों का पता लगाएं. | एआई द्वारा लक्षणों की जांच करें और कारणों का पता लगाएं - एआई द्वारा संभावित कारणों, प्रकारों, गंभीरता और उपचार का पता लगाने के लिए अपने लक्षणों के बारे में प्रश्नोत्तरी का उत्तर दें। डॉक्टरों द्वारा विकसित. | :white_check_mark: |
 
 
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
+### Elephas
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elephas.webp?twic=v1/resize=240" alt="Elephas">
 
-## अन्य
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [1Case](https://www.thataicollection.com/redirect/1case?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई द्वारा निर्मित कस्टम फोन केस. | सेकंड में अपनी तरह का पहला मामला खोजें. | :grey_question: |
-| [AI Car Diagnosis](https://www.thataicollection.com/redirect/ai-car-diagnosis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कार निदान एआई. | हमारे अत्याधुनिक टूल से अपनी कारों के प्रदर्शन में रीयल-टाइम डायग्नोस्टिक्स और अंतर्दृष्टि प्राप्त करें।. | :grey_question: |
-| [AI Content Generator](https://www.thataicollection.com/redirect/ai-content-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हां.तो - 15 मिनट में आइडिया से साइनअप तक।. | . | :white_check_mark: |
-| [AI Data Sidekick](https://www.thataicollection.com/redirect/ai-data-sidekick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Airops - डेटा अनलॉक। ऐ के साथ 10 गुना तेज।. | . | :grey_question: |
-| [AI Image Upscaler](https://www.thataicollection.com/redirect/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई इमेज अपस्केलर - अपनी तस्वीरों को मुफ्त में बड़ा और बेहतर बनाएं. | हमारे एआई टूल के साथ किसी भी बनावट या विवरण को खोए बिना अपनी छवि को 2x या 4x तक बढ़ाएं। हमारे सुपर-रिज़ॉल्यूशन टूल का उपयोग करें और अपनी छवियों में नया जीवन लाएं।. | :white_check_mark: |
-| [AI Pickup Lines Generator](https://www.thataicollection.com/redirect/ai-pickup-lines-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई पिकअप लाइन्स. | . | :grey_question: |
-| [AI Prompt Generator](https://www.thataicollection.com/redirect/ai-prompt-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उपन्यास. | . | :grey_question: |
-| [AI Query](https://www.thataicollection.com/redirect/ai-query?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI क्वेरी - सेकंड में AI के साथ SQL क्वेरी जनरेट करें. | सरल अंग्रेजी का प्रयोग करें और एआई को आपके लिए भारी उठाने दें। एआई क्वेरी के साथ कोई भी इसके बारे में कुछ भी जाने बिना कुशल SQL क्वेरी बना सकता है।. | :grey_question: |
-| [AI Recipe Generator](https://www.thataicollection.com/redirect/ai-recipe-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई पकाने की विधि जेनरेटर. | . | :grey_question: |
-| [AI Social Media Post Writerby Socialblu](https://www.thataicollection.com/redirect/ai-social-media-post-writerby-socialblu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सोशलबु - सोशल मीडिया प्रबंधन और स्वचालन. | सोशलब्यू आपकी सोशल मीडिया उपस्थिति को बेहतर बनाने और आपके परिणामों को अधिकतम करने के लिए सही समाधान है। प्रकाशित करें, प्रतिक्रिया दें, विश्लेषण करें और स्वचालित करें - सब कुछ SocialBu के भीतर से. | :grey_question: |
-| [AI Sports Prediction](https://www.thataicollection.com/redirect/ai-sports-prediction?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई स्पोर्ट्स बेटिंग भविष्यवाणियां - खेल भविष्यवाणी एआई. | . | :grey_question: |
-| [AI SQL BOT](https://www.thataicollection.com/redirect/ai-sql-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI SQL क्वेरी बिल्डर: पूर्व SQL ज्ञान के बिना SQL क्वेरी बनाने का सबसे आसान तरीका - AI का उपयोग करके SQL क्वेरी बिल्डर. | . | :grey_question: |
-| [AI Writer by Picsart](https://www.thataicollection.com/redirect/ai-writer-by-picsart?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | छवियों, वीडियो और दस्तावेज़ों को मुफ्त में संपादित करें - Picsart द्वारा Quicktools. | अपनी छवियों के लिए पारदर्शी पृष्ठभूमि बनाना, वीडियो ट्रिम करना और फ़ाइल प्रकारों को परिवर्तित करना - यह सब Quicktools के साथ करें।. | :white_check_mark: |
-| [ai2sql](https://www.thataicollection.com/redirect/ai2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SQL क्वेरी बिल्डर - SQL क्वेरी बिल्डर AI बॉट. | AI2sql के साथ, इंजीनियर और गैर-इंजीनियर SQL को जाने बिना आसानी से कुशल, त्रुटि मुक्त SQL क्वेरी लिख सकते हैं। यह अपना समय वापस लेने का समय है!. | :white_check_mark: |
-| [AIArt](https://www.thataicollection.com/redirect/aiart?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एयर्ट.देव. | . | :grey_question: |
-| [Aida](https://www.thataicollection.com/redirect/aida?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपना व्यवसाय चलाने में समय व्यतीत करें, अपनी वेबसाइट नहीं. | हमारे एआई संचालित वेबसाइट बिल्डर को मिनटों में अपना व्यवसाय ऑनलाइन करने दें।. | :white_check_mark: |
-| [Albus](https://www.thataicollection.com/redirect/albus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एल्बस - चैटजीपीटी अब स्लैक पर. | स्लैक छोड़े बिना आपके सभी सवालों के जवाब खोजने में आपकी मदद करने के लिए एल्बस नेचुरल लैंग्वेज प्रोसेसिंग तकनीक का उपयोग करता है। ChatGPT की शक्ति अभी अपने कार्यक्षेत्र में प्राप्त करें!. | :white_check_mark: |
-| [Alfred](https://www.thataicollection.com/redirect/alfred?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अल्फ्रेड - मोबाइल पर जीपीटी चैट. | . | :grey_question: |
-| [Amadeus Code](https://www.thataicollection.com/redirect/amadeus-code?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एमॅड्यूस कोड - 公式企業サイト. | 企業情報、採用情報、投資家情報、ニュースなど、Amadeus Codeの企業情報全般を提供する公式企業サササササ. | :grey_question: |
-| [Amper AI](https://www.thataicollection.com/redirect/amper-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सामग्री निर्माताओं के लिए एआई संगीत रचना उपकरण. | एम्पर एक एआई संगीत रचना कंपनी है जो सभी प्रकार के सामग्री निर्माताओं के लिए उपकरण विकसित करती है। हमारे नए एंटरप्राइज़ प्लैटफ़ॉर्म, Score और साथ ही हमारे क्रिएटर API के बारे में जानें. | :grey_question: |
-| [Andisearch](https://www.thataicollection.com/redirect/andisearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Andi - अगली पीढ़ी के लिए खोजें. | . | :grey_question: |
-| [Artflow](https://www.thataicollection.com/redirect/artflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कला प्रवाह. | . | :grey_question: |
-| [Aspen](https://www.thataicollection.com/redirect/aspen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऐस्पन. | . | :grey_question: |
-| [Athena](https://www.thataicollection.com/redirect/athena?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एपीएसी एआई खाता पोर्टल. | . | :grey_question: |
-| [Auto Draw](https://www.thataicollection.com/redirect/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऑटो ड्रा. | सभी के लिए फास्ट ड्राइंग। तेजी से सामग्री बनाने में आपकी मदद करने के लिए प्रतिभावान कलाकारों के रेखाचित्रों के साथ AutoDraw जोड़े मशीन लर्निंग।. | :grey_question: |
-| [Beb AI](https://www.thataicollection.com/redirect/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बेब।अई. | संभावनाएं असीम हैं, बेब. | :grey_question: |
-| [BedtimeStory](https://www.thataicollection.com/redirect/bedtimestory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | . | :grey_question: |
-| [BetterWriter](https://www.thataicollection.com/redirect/betterwriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ तेजी से लिखें। बेहतर लेखक।ऐ. | . | :grey_question: |
-| [BigJpg](https://www.thataicollection.com/redirect/bigjpg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bigjpg - एआई सुपर-रिज़ॉल्यूशन लॉसलेस इमेज एनलार्जिंग / अपस्केलिंग टूल डीप कंवोल्यूशनल न्यूरल नेटवर्क्स का उपयोग करना. | Bigjpg - बिना गुणवत्ता हानि के डीप कनवॉल्यूशनल न्यूरल नेटवर्क का उपयोग करके एनीमे-शैली की कलाकृतियों के लिए छवि सुपर-रिज़ॉल्यूशन। तस्वीरें भी समर्थित हैं।. | :grey_question: |
-| [bigmp4](https://www.thataicollection.com/redirect/bigmp4?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई वीडियो एन्हांसमेंट, 2022 अत्याधुनिक एआई मॉडल का उपयोग करके दोषरहित वीडियो को बड़ा करना, वीडियो को बेहतर बनाना. | . | :grey_question: |
-| [Boo AI](https://www.thataicollection.com/redirect/boo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | . | :grey_question: |
-| [Botowski](https://www.thataicollection.com/redirect/botowski?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपका व्यक्तिगत एआई कॉपीराइटर - बोटोवस्की. | . | :grey_question: |
-| [BrameWork](https://www.thataicollection.com/redirect/bramework?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ब्रैमवर्क - एआई लेखक जो आपको 5 गुना तेजी से ब्लॉग लिखने में मदद करता है. | Bramework उपयोग में आसान AI लेखक है जो ब्लॉगर्स, फ्रीलांसरों और एजेंसियों को प्रति ब्लॉग पोस्ट घंटों की बचत करने में मदद करता है।. | :grey_question: |
-| [Caktus](https://www.thataicollection.com/redirect/caktus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कैक्टस एआई. | . | :grey_question: |
-| [CFRexplorer](https://www.thataicollection.com/redirect/cfrexplorer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सीएफआर एक्सप्लोरर - सीएफआरएस के बारे में एआई प्रश्न पूछें. | . | :grey_question: |
-| [Chapterme](https://www.thataicollection.com/redirect/chapterme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अध्याय - आपके वीडियो के लिए एआई संचालित अध्याय. | . | :grey_question: |
-| [CheapNFT.Art](https://www.thataicollection.com/redirect/cheapnft.art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सस्ता एनएफटीएस. | . | :grey_question: |
-| [Compose AI](https://www.thataicollection.com/redirect/compose-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रचना ऐ: अपने लेखन को स्वचालित करें. | . | :white_check_mark: |
-| [Coolaiid](https://www.thataicollection.com/redirect/coolaiid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कूलाइड. | चाहे आप सजना-संवरना चाह रहे हों या बस थोड़ी सी प्रेरणा की जरूरत हो, हम एआई का उपयोग करके अद्वितीय विचार उत्पन्न करेंगे।. | :grey_question: |
-| [CopyScouts](https://www.thataicollection.com/redirect/copyscouts?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कॉपीस्काउट्स - सस्टेनेबल एआई-असिस्टेड कॉपी राइटिंग टूल. | निश्चित मासिक मूल्य पर असीमित GPT-3 आधारित AI राइटिंग का उपयोग करें।. | :grey_question: |
-| [Cowriter](https://www.thataicollection.com/redirect/cowriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सह लेखक - प्रेरक विपणन सामग्री के लिए आपका एआई बडी. | . | :grey_question: |
-| [Daft Art](https://www.thataicollection.com/redirect/daft-art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डाफ्ट आर्ट - वह एल्बम कवर बनाएं जिसका आपने हमेशा सपना देखा है. | Daft आपको AI द्वारा संचालित कुछ ही मिनटों में अपने एल्बम कवर के लिए एक अद्भुत, उच्च गुणवत्ता वाली कलाकृति बनाने की अनुमति देता है।. | :grey_question: |
-| [Daydrm](https://www.thataicollection.com/redirect/daydrm?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Daydrm.ऐ. | रचनात्मक सोच को प्रदर्शित करने के लिए विज्ञापन का भविष्य मशीन लर्निंग का उपयोग कर रहा है. | :grey_question: |
-| [Debuild](https://www.thataicollection.com/redirect/debuild?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डीबिल्ड - वेब ऐप्स तेजी से बनाएं. | . | :grey_question: |
-| [Diffusion Bee](https://www.thataicollection.com/redirect/diffusion-bee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डिफ्यूजनबी - एआई कला के लिए स्थिर प्रसार ऐप. | डिफ्यूजनबी आपके कंप्यूटर पर स्टेबल डिफ्यूजन के साथ एआई कला उत्पन्न करने का सबसे आसान तरीका है. | :white_check_mark: |
-| [DREAM.page](https://www.thataicollection.com/redirect/dream.page?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | . | :grey_question: |
-| [Dreamily](https://www.thataicollection.com/redirect/dreamily?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्वप्निल-बीटा. | . | :grey_question: |
-| [Dubverse.ai](https://www.thataicollection.com/redirect/dubverse.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dubverse.Ai के साथ ऑनलाइन वीडियो डबिंग. | . | :grey_question: |
-| [Dust](https://www.thataicollection.com/redirect/dust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | धूल-Xp1. | . | :grey_question: |
-| [Ebsynth](https://www.thataicollection.com/redirect/ebsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ebsynth - एक फ्रेम पर पेंटिंग करके वीडियो बदलें. | आप एक फ्रेम को पेंट करते हैं और EbSynth इसे बाकी फुटेज में प्रचारित करता है।. | :grey_question: |
-| [Echowin](https://www.thataicollection.com/redirect/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई संचालित कॉल प्रबंधन पूर्ण प्राकृतिक भाषा समझ और हर परिदृश्य के लिए व्यक्तिगत प्रतिक्रियाओं के साथ।. | . | :grey_question: |
-| [Everypixel](https://www.thataicollection.com/redirect/everypixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्टॉक इमेज सर्च इंजन - 50 से अधिक सर्वश्रेष्ठ स्रोत - एवरीपिक्सल. | . | :grey_question: |
-| [ExactBuyer Search](https://www.thataicollection.com/redirect/exactbuyer-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Exactbuyer - पूर्वेक्षण टीमों के लिए AI संचालित व्यवसाय खोज. | . | :grey_question: |
-| [Friday AI](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Heyfriday - अल्टीमेट एआई राइटर. | . | :grey_question: |
-| [Glasp](https://www.thataicollection.com/redirect/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Glasp: सोशल वेब हाइलाइटर. | जैसे ही आप पढ़ते हैं हाइलाइट करें और नोट्स जोड़ें। अपने सीखने की एक लाइब्रेरी बनाएं. | :grey_question: |
-| [GooseAI](https://www.thataicollection.com/redirect/gooseai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | गूसाई. | . | :grey_question: |
-| [GPTKey](https://www.thataicollection.com/redirect/gptkey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Gptkey - GPT कीबोर्ड का उपयोग करके AI के साथ लिखें. | GPT कस्टम कीबोर्ड एक्सटेंशन का उपयोग करके किसी भी ऐप में AI के साथ लिखें।. | :grey_question: |
-| [Handywriter](https://www.thataicollection.com/redirect/handywriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हैंडीप्लगइन्स - अच्छी तरह से तैयार किए गए वर्डप्रेस प्लगइन्स. | . | :grey_question: |
-| [Headline-ai](https://www.thataicollection.com/redirect/headline-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हेडलाइन एआई. | . | :grey_question: |
-| [HelloScribe](https://www.thataicollection.com/redirect/helloscribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हेलोस्क्राइब: अपने सर्वोत्तम विचारों को जीवन में उतारें. | . | :grey_question: |
-| [Hour One](https://www.thataicollection.com/redirect/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | किसी को भी प्रशिक्षित करने या कुछ भी समझाने के लिए एआई वीडियो बनाएं - एक घंटा. | . | :grey_question: |
-| [Inferkit](https://www.thataicollection.com/redirect/inferkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Inferkit. | . | :grey_question: |
-| [Inworld](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इनवर्ल्ड एआई - एआई वर्ण बनाएं और उनसे कुछ भी पूछें. | गेम, मेटावर्स और व्यावसायिक अनुप्रयोगों के लिए AI वर्ण और NPC बनाएँ - या केवल मनोरंजन के लिए। आप एआई पात्रों से किसी भी बारे में बात कर सकते हैं। यह आसान, मुफ्त और संभावनाओं से भरा है।. | :white_check_mark: |
-| [Jenni](https://www.thataicollection.com/redirect/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जेनी एआई के साथ अपने लेखन को सुपरचार्ज करें. | . | :grey_question: |
-| [Kinestex](https://www.thataicollection.com/redirect/kinestex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | किनेस्टेक्स - आपके फोन में एआई कोच. | . | :grey_question: |
-| [Langotalk](https://www.thataicollection.com/redirect/langotalk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लैंगोटॉक: एआई के साथ 6 गुना तेजी से भाषाएं सीखें. | वर्षों के बजाय सप्ताहों में आत्मविश्वास से भरी बातचीत करें।. | :grey_question: |
-| [Letsenhance](https://www.thataicollection.com/redirect/letsenhance?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लेट्स एन्हांस - इमेज क्वालिटी ऑनलाइन ऐप और फ्री फोटो एनलार्जर. | चित्रों को बढ़ाने और उन्नत करने के लिए एआई सॉफ्टवेयर। संकल्प और गुणवत्ता बढ़ाएँ। धुंधली, पिक्सेलयुक्त और खराब छवियों को ठीक करें। हर फोटो को शार्प और क्लियर बनाएं।. | :white_check_mark: |
-| [Levity](https://www.thataicollection.com/redirect/levity?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लेविटी - नो-कोड एआई वर्कफ़्लो ऑटोमेशन प्लेटफ़ॉर्म. | . | :grey_question: |
-| [Linkedin Posts Generator](https://www.thataicollection.com/redirect/linkedin-posts-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सिद्धार्थ वर्मा - फुल स्टैक फ्रीलांसर - स्टार्टअप गाय. | हाय, मैं सिद्धार्थ वर्मा हूं। 6+ साल के अनुभव के साथ एक स्टार्ट-अप उत्साही। मैंने 50+ से अधिक एसएएएस कंपनियों के साथ काम किया है और उन्हें मजबूत स्केलेबल समाधान, उत्पाद और इंजीनियरिंग समस्याओं का निर्माण करने में मदद की है. | :grey_question: |
-| [LuciaAI](https://www.thataicollection.com/redirect/luciaai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लुसियाई. | लूसिया नवीनतम और सबसे उन्नत आर्टिफिशियल इंटेलिजेंस तकनीक का उपयोग करती है। लूसिया के साथ आप पहले से कहीं ज्यादा तेज और बेहतर लिख सकते हैं।. | :grey_question: |
-| [Magic Mate](https://www.thataicollection.com/redirect/magic-mate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जादू करनेवाला. | . | :grey_question: |
-| [MagicStock](https://www.thataicollection.com/redirect/magicstock?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aimages - ऑनलाइन AI वीडियो और छवि बढ़ाने वाला. | एआई का उपयोग करके वीडियो और छवियों को उन्नत और बेहतर बनाएं. | :white_check_mark: |
-| [Make a Video](https://www.thataicollection.com/redirect/make-a-video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वीडियो बनाओ. | . | :grey_question: |
-| [Make3D](https://www.thataicollection.com/redirect/make3d?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी छवि को 3डी बनाएं. | . | :grey_question: |
-| [Masterpiece Studio](https://www.thataicollection.com/redirect/masterpiece-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मास्टरपीस स्टूडियो. | . | :grey_question: |
-| [micro Dalle-2](https://www.thataicollection.com/redirect/micro-dalle-2?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डल्ले-2 इमेज जेनरेटर - माइक्रोपे. | बेनामी और उपयोग के अनुसार भुगतान जनरेटिव एआई सॉफ्टवेयर. | :grey_question: |
-| [Mokker](https://www.thataicollection.com/redirect/mokker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मोकर एआई. | ई-कॉमर्स के लिए एआई-पावर्ड फोटो जेनरेशन. | :grey_question: |
-| [Moonbeam](https://www.thataicollection.com/redirect/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मूनबीम - कभी भी स्क्रैच से दोबारा न लिखें।. | . | :grey_question: |
-| [Movio](https://www.thataicollection.com/redirect/movio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मूवी - एआई प्रवक्ता वीडियो जेनरेटर. | . | :grey_question: |
-| [Mrgn](https://www.thataicollection.com/redirect/mrgn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लघु व्यवसाय के लिए एंटरप्राइज़ इंटेलिजेंस. | . | :white_check_mark: |
-| [My Instant Writer](https://www.thataicollection.com/redirect/my-instant-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मेरे तत्काल लेखक. | . | :grey_question: |
-| [Natural Language Playlist](https://www.thataicollection.com/redirect/natural-language-playlist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्राकृतिक भाषा प्लेलिस्ट. | . | :grey_question: |
-| [Neural Studio](https://www.thataicollection.com/redirect/neural-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | न्यूरलकैम. | एआई संचालित इमेज प्रोसेसिंग के साथ. | :grey_question: |
-| [Neuralframes](https://www.thataicollection.com/redirect/neuralframes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | तंत्रिका फ्रेम्स. | . | :grey_question: |
-| [Neuroflash](https://www.thataicollection.com/redirect/neuroflash?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऐप - न्यूरोफ्लैश. | . | :grey_question: |
-| [NewsDeck from OneSub](https://www.thataicollection.com/redirect/newsdeck-from-onesub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | न्यूज़डेक - रोज़ाना हज़ारों लेख ढूँढ़ें, फ़िल्टर करें और उनका विश्लेषण करें।. | . | :grey_question: |
-| [Nichess](https://www.thataicollection.com/redirect/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Nichesss - AI राइटर - AI कॉपी राइटिंग सॉफ्टवेयर. | . | :grey_question: |
-| [Nightcap](https://www.thataicollection.com/redirect/nightcap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रात्रि गुरु. | . | :grey_question: |
-| [Notion AI](https://www.thataicollection.com/redirect/notion-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | धारणा - एक कार्यक्षेत्र। हर टीम।. | . | :grey_question: |
-| [NovelAI](https://www.thataicollection.com/redirect/novelai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | नोवेलई - द जीपीटी-पावर्ड एआई स्टोरीटेलर. | . | :grey_question: |
-| [NSFW JS](https://www.thataicollection.com/redirect/nsfw-js?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | NSFW जे.एस. | . | :grey_question: |
-| [Nyx Gallery](https://www.thataicollection.com/redirect/nyx-gallery?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Nyx.Gallery - AI-जनरेटेड फ़ोटोग्राफ़ी. | इस वेबसाइट पर छवियां एआई के साथ उत्पन्न की गई हैं और इसलिए "असली नहीं" हैं।. | :grey_question: |
-| [Oda Studio](https://www.thataicollection.com/redirect/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ओडीए मूडबोर्ड. | एआई के साथ सेकेंडों में अपने घर को अनुकूलित करने के लिए अपनी शैली और रंग चुनें. | :grey_question: |
-| [Once Upon A Bot](https://www.thataicollection.com/redirect/once-upon-a-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वंस अपॉन ए बॉट • एआई के साथ बच्चों की कहानियां बनाएं. | वन्स अपॉन एबॉट को अपनी कहानी का विचार बताएं, और रोबोट एआई का उपयोग करके शुरुआत से एक कहानी लिखेगा। फिर आप अपनी रचनाओं को पढ़, संपादित, निर्यात और साझा कर सकते हैं।. | :x: |
-| [Orchard](https://www.thataicollection.com/redirect/orchard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऑर्चर्ड. | . | :grey_question: |
-| [Pattern Maker AI](https://www.thataicollection.com/redirect/pattern-maker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आर्टिफिशियल इंटेलिजेंस का उपयोग करके सहज पैटर्न उत्पन्न करें. | आर्टिफिशियल इंटेलिजेंस का उपयोग करके निर्बाध वेक्टर पैटर्न उत्पन्न करें. | :grey_question: |
-| [Peppertype.ai](https://www.thataicollection.com/redirect/peppertype.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Peppertype.Ai - गुणवत्ता सामग्री तेजी से बनाएँ. | ऐसी सामग्री उत्पन्न करें जो सेकंड में परिवर्तित हो जाए।. | :grey_question: |
-| [Petpic](https://www.thataicollection.com/redirect/petpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पेटपिक.ऐ. | आपका पसंदीदा जानवर अब कुछ भी, कहीं भी, कोई भी हो सकता है। बस कुछ तस्वीरें अपलोड करें और एआई को अपना रचनात्मक जादू करने दें. | :grey_question: |
-| [Petportrait](https://www.thataicollection.com/redirect/petportrait?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पेट पोर्ट्रेट एआई - सुंदर कस्टम पेट पोर्ट्रेट. | एक विचारशील पालतू उपहार की तलाश है? पेट पोर्ट्रेट एआई विभिन्न शैलियों में आपकी बिल्लियों, कुत्तों और अन्य पालतू जानवरों के अद्वितीय, कस्टम-निर्मित पोर्ट्रेट बनाता है। हमारी एआई तकनीक यह सुनिश्चित करती है कि प्रत्येक चित्र आपके पालतू जानवर की तरह एक तरह का हो।. | :grey_question: |
-| [Photoleap](https://www.thataicollection.com/redirect/photoleap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टेक्स्ट टू इमेज - लाइट्रिक्स द्वारा क्रिएटिव और पावरफुल फोटो एडिटिंग ऐप. | अपने iPhone पर अद्भुत कृतियों के लिए ऑल-इन-वन फोटो संपादक Photoleap का उपयोग करें: पृष्ठभूमि बदलें, ऑब्जेक्ट हटाएं, कोलाज बनाएं, फ़िल्टर और प्रभाव लागू करें. | :white_check_mark: |
-| [PicSo](https://www.thataicollection.com/redirect/picso?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पिक्सो एआई आर्ट जेनरेटर. | PicSo रचनात्मक डिजिटल कला के लिए एक टेक्स्ट-टू-इमेज AI आर्ट जेनरेटर ऐप और ऑनलाइन प्लेटफॉर्म है। नि:शुल्क प्रयास करें और अपने विचारों को एनएफटी कला, तैल चित्र और अन्य में बदलें।. | :white_check_mark: |
-| [PictoDream](https://www.thataicollection.com/redirect/pictodream?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ स्वयं की छवियां उत्पन्न करें - Pictodream.Com. | एक सरल पाठ विवरण का उपयोग करके किसी भी शैली या सेटिंग में अपनी (या किसी अन्य व्यक्ति की) कोई भी छवि उत्पन्न करें।. | :grey_question: |
-| [Pinegraph](https://www.thataicollection.com/redirect/pinegraph?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मैजिक स्केचपैड. | अपनी रचनात्मकता को जीवंत करने के लिए आपको बस पाइनग्राफ की आवश्यकता है। एनीमे, अमूर्त कला, और बहुत कुछ जैसी शैलियों के लिए पाइनकासो के साथ मुफ्त में एआई कला उत्पन्न करें। वेफस और पति, खेल कला, और बहुत कुछ सहित अपने स्वयं के अवधारणा चरित्र बनाएं।. | :white_check_mark: |
-| [Pixelmind](https://www.thataicollection.com/redirect/pixelmind?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pixelmind - NFTS को AI-पावर्ड आर्ट एंड मिंटिंग. | एआई-संचालित कला में आपकी यात्रा। पिक्सेलमाइंड पोर्टल के माध्यम से एनएफटी बनाएं और एकत्र करें। अपनी शैली विकसित करें। अपना खेल बढ़ाएं. | :grey_question: |
-| [Pixelz AI](https://www.thataicollection.com/redirect/pixelz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पिक्सेलज़ एआई आर्ट जेनरेटर. | एनएफटी के रूप में पाठ, वाक्यांशों, छवियों और प्रीसेट, शेयर, डाउनलोड, प्रिंट और टकसाल का उपयोग करके अद्वितीय एआई कलाकृति बनाएं. | :grey_question: |
-| [Polymath Robotics](https://www.thataicollection.com/redirect/polymath-robotics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पॉलीमैथ रोबोटिक्स. | औद्योगिक वाहनों के लिए जादुई रूप से सरलीकृत स्वायत्तता. | :white_check_mark: |
-| [Post Parrot](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Post Parrot - Reddit के लिए एक मुफ़्त मार्केटिंग टूल. | . | :white_check_mark: |
-| [Predis](https://www.thataicollection.com/redirect/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ सोशल मीडिया मार्केटिंग को आसान बनाया - Predis.Ai. | . | :grey_question: |
-| [Prettysmart.co](https://www.thataicollection.com/redirect/prettysmart.co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बहुत बुद्धिमान. | . | :grey_question: |
-| [Project Blink](https://www.thataicollection.com/redirect/project-blink?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एडोब लैब्स. | रचनात्मकता, अभिव्यक्ति और संचार के भविष्य में हमारे कुछ अन्वेषणों को साझा करने के लिए हमारे लिए एक जगह।. | :grey_question: |
-| [PrometheanAI](https://www.thataicollection.com/redirect/prometheanai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्रोमेथियन एआई. | . | :grey_question: |
-| [PromptExplained](https://www.thataicollection.com/redirect/promptexplained?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वेबसाइट जो उपयोगकर्ताओं को एआई प्रॉम्प्ट को अनुकूलित करने के लिए अंतर्दृष्टि, तकनीक और युक्तियों के माध्यम से इंजीनियरिंग में महारत हासिल करने में मदद करती है. | ChatGPT, Dall-e, स्थिर प्रसार और बढ़ी हुई बातचीत के लिए मिडजर्नी, हड़ताली दृश्यों और अनुप्रयोगों में असीमित रचनात्मकता के लिए त्वरित अनुकूलन पर आसान-से-अनुसरण मार्गदर्शिकाओं के साथ अपने एआई अनुभव को बढ़ाएं. | :white_check_mark: |
-| [Promptextend](https://www.thataicollection.com/redirect/promptextend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Promptextend - मिडजर्नी के लिए एआई आर्ट प्रॉम्प्ट्स को एक्सटेंड/जेनरेट करें।. | . | :grey_question: |
-| [Prompthunt](https://www.thataicollection.com/redirect/prompthunt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्रांप्ट हंट - एआई कला की खोज, निर्माण और साझा करने के लिए आपका घर. | DALL·E, स्थिर प्रसार और मध्य यात्रा का उपयोग करके AI कला बनाएं, एक्सप्लोर करें और साझा करें. | :grey_question: |
-| [Question Base](https://www.thataicollection.com/redirect/question-base?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्केल ज्ञान. | प्रश्न आधार एक नए प्रकार का ज्ञान आधार है। एआई द्वारा संचालित यह स्लैक के अंदर आपकी टीम के सवालों का जवाब देता है। खुद ब खुद।. | :grey_question: |
-| [Quilt & Create](https://www.thataicollection.com/redirect/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रजाई और बनाएँ. | . | :grey_question: |
-| [Quizwhiz](https://www.thataicollection.com/redirect/quizwhiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Quizwhiz - किसी भी टेक्स्ट से McQ उत्पन्न करें. | पाठ का एक भाग प्रदान करें और उनके बहु-विकल्प विकल्पों के साथ एआई-जनित प्रश्न और उत्तर प्राप्त करें।. | :grey_question: |
-| [Raplyrics](https://www.thataicollection.com/redirect/raplyrics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रैपिलिक्स - अपने रैप म्यूजिक पंचलाइन्स को जनरेट करें।. | नीचे दिए गए संकेत में कुछ शब्द लिखें और आर्टिफिशियल इंटेलिजेंस का उपयोग करके एक अद्वितीय रैप संगीत पंचलाइन बनाएं!. | :grey_question: |
-| [Recommendme](https://www.thataicollection.com/redirect/recommendme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मेरे लिए अनुग्रह करो. | . | :grey_question: |
-| [Redacta.me](https://www.thataicollection.com/redirect/redacta.me?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Redacta.Me - Tu कम्युनिटी मैनेजर वर्चुअल. | . | :grey_question: |
-| [Reface](https://www.thataicollection.com/redirect/reface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रीफेस। कोई भी हो. | केवल एक सेल्फी के साथ यथार्थवादी फेस स्वैप वीडियो, जीआईएफ और मीम्स बनाएं. | :grey_question: |
-| [Resume Studio](https://www.thataicollection.com/redirect/resume-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | . | :grey_question: |
-| [Revspot](https://www.thataicollection.com/redirect/revspot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रेवस्पॉट एआई - लेखन का एक नया तरीका. | . | :grey_question: |
-| [Rewind](https://www.thataicollection.com/redirect/rewind?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रिवाइंड. | . | :grey_question: |
-| [Rick and Mortify](https://www.thataicollection.com/redirect/rick-and-mortify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रिक और गिरवी रखना. | . | :grey_question: |
-| [Riku](https://www.thataicollection.com/redirect/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Riku.Ai - AI मॉडल के लिए नो-कोड प्रॉम्प्ट और डेटासेट बनाएं. | . | :grey_question: |
-| [SafeSpelling](https://www.thataicollection.com/redirect/safespelling?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सेफस्पेलिंग - बिना गलतियों के लिखें. | . | :grey_question: |
-| [Scene One](https://www.thataicollection.com/redirect/scene-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उपन्यास, लघु कथाएँ और व्यवसाय के लिए ऑनलाइन पुस्तक लेखन ऐप. | हमारे सहज ज्ञान युक्त लेखन ऐप के साथ अधिक कहानियाँ लिखें और जटिल विशेषताओं को सीखने में कम समय व्यतीत करें।. | :grey_question: |
-| [Scribe](https://www.thataicollection.com/redirect/scribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | . | :grey_question: |
-| [Sitekick](https://www.thataicollection.com/redirect/sitekick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई लैंडिंग पेज बिल्डर. | . | :grey_question: |
-| [Snackable AI](https://www.thataicollection.com/redirect/snackable-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्नैकेबल. | . | :grey_question: |
-| [Songmastr](https://www.thataicollection.com/redirect/songmastr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सोंगमास्टर - संदर्भ के लिए स्वचालित गीत माहिर. | . | :white_check_mark: |
-| [Steve AI](https://www.thataicollection.com/redirect/steve-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्टीव.एआई - वीडियो बनाने का दुनिया का सबसे तेज तरीका. | हमारी पेटेंट की गई AI तकनीक से आप मिनटों में पेशेवर वीडियो बना सकते हैं। मैजिक होते देखें क्योंकि AI आपके वीडियो के लिए सही रचनात्मक मीडिया संपत्तियां चुनता है।. | :grey_question: |
-| [StoriesbyAI](https://www.thataicollection.com/redirect/storiesbyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई की कहानियां - सबस्टैक. | . | :grey_question: |
-| [Storya](https://www.thataicollection.com/redirect/storya?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्टोरीया - एआई पब्लिशिंग फॉर एवरीवन. | . | :grey_question: |
-| [Studio Design](https://www.thataicollection.com/redirect/studio-design?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्टूडियो, एक एआई-ऑगमेंटेड डिज़ाइन टूल. | . | :grey_question: |
-| [SuenaGringo AI](https://www.thataicollection.com/redirect/suenagringo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सुएनाग्रिंगो. | इंगलिस कॉन कॉन्फिंज़ा वाई रोम्पे लास बैरेरास लिखें. | :grey_question: |
-| [SummerEyes](https://www.thataicollection.com/redirect/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | समरआईज़: आपके ब्राउज़र में एआई-संचालित सारांश. | . | :grey_question: |
-| [Summon](https://www.thataicollection.com/redirect/summon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फिग्मा: द कोलैबोरेटिव इंटरफेस डिजाइन टूल।. | एक टीम के रूप में बेहतर उत्पाद बनाएं। Figma के साथ एक ही स्थान पर डिजाइन, प्रोटोटाइप, और फीडबैक इकट्ठा करें।. | :grey_question: |
-| [Super Prompt](https://www.thataicollection.com/redirect/super-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सुपर संकेत. | अपनी एआई कला के लिए एक गैलरी बनाएं। अगली बार जब कोई आपकी सभी कलाओं को देखने के लिए कहेगा, तो आपके पास उन्हें इंगित करने के लिए कहीं न कहीं होगा। अपनी सभी AI कला को एक ही स्थान पर प्रदर्शित करें।. | :grey_question: |
-| [SUPERMACHINE](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सुपरमशीन - एआई के साथ स्टॉक तस्वीरें, कला और छवियां उत्पन्न करें. | सुपरमशीन आपको आर्टिफिशियल इंटेलिजेंस तकनीक में नवीनतम के साथ छवियां उत्पन्न करने में सक्षम बनाती है।. | :grey_question: |
-| [Supermeme.ai](https://www.thataicollection.com/redirect/supermeme.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Supermeme.Ai - AI Memes आपके व्यक्तिगत और व्यावसायिक ब्रांड को बढ़ावा देने के लिए. | किसी भी टेक्स्ट इनपुट को दर्ज करके और उसे साझा करने योग्य मेम्स में बदलकर 110+ भाषा में मूल एआई मेम्स उत्पन्न करें। GPT-3 द्वारा संचालित और एक कस्टम निर्मित मेम डेटाबेस. | :grey_question: |
-| [Synthesia](https://www.thataicollection.com/redirect/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सिंथेसिया - #1 एआई वीडियो जेनरेशन प्लेटफॉर्म. | . | :grey_question: |
-| [Talk to Books](https://www.thataicollection.com/redirect/talk-to-books?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | गूगल बुक्स. | . | :grey_question: |
-| [TalkingPhoto by Movio](https://www.thataicollection.com/redirect/talkingphoto-by-movio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मूवी - एआई प्रवक्ता वीडियो निर्माता. | . | :grey_question: |
-| [Tavus](https://www.thataicollection.com/redirect/tavus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्वागत. | . | :grey_question: |
-| [Teacherbot](https://www.thataicollection.com/redirect/teacherbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टीचरबॉट - वह टूल जिसका हर शिक्षक हकदार है. | हमने सबसे शक्तिशाली उपकरण विकसित किया है जिस तक शिक्षक की पहुंच हो सकती है। आप सभी स्तरों के साथ-साथ विषय योजनाओं, आगे की योजनाओं, पाठ योजनाओं और बहुत कुछ के लिए कार्य और गतिविधियाँ बना सकते हैं। आप केवल अपनी कल्पना से ही सीमित हैं।. | :grey_question: |
-| [Text Assistant](https://www.thataicollection.com/redirect/text-assistant?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जॉर्डी ब्रुइन. | . | :grey_question: |
-| [Textunbox](https://www.thataicollection.com/redirect/textunbox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टेक्स्टनबॉक्स.ऐप. | टेक्स्टअनबॉक्स - एआई की शक्ति का उपयोग करें!. | :grey_question: |
-| [Thegist](https://www.thataicollection.com/redirect/thegist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Thegist AI ने स्लैक थ्रेड और चैनल्स का सारांश दिया - इसका सार प्राप्त करें. | . | :grey_question: |
-| [Thumbsnap](https://www.thataicollection.com/redirect/thumbsnap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई कला जेनरेटर! स्थिर प्रसार द्वारा संचालित - Thumbsnap - निःशुल्क फोटो और वीडियो होस्टिंग. | ThumbSnap: फ्री फोटो और वीडियो शेयरिंग. | :white_check_mark: |
-| [Tunes For Tales](https://www.thataicollection.com/redirect/tunes-for-tales?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कहानियों के लिए धुन. | . | :grey_question: |
-| [Twelve Labs](https://www.thataicollection.com/redirect/twelve-labs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बारह प्रयोगशालाएँ. | . | :grey_question: |
-| [Userpersona](https://www.thataicollection.com/redirect/userpersona?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | यूजर पर्सोना - एआई-जनरेटेड यूजर पर्सोना. | . | :grey_question: |
-| [Vee](https://www.thataicollection.com/redirect/vee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक बुद्धिमान सलाहकार लोग बात करने का आनंद लेते हैं। Z Którą Ludzie Lubią Rozmawiać. | वी पहले ही 5 मिलियन पोल्स के साथ बात कर चुका है, विभिन्न उद्योगों की दर्जनों कंपनियों के लिए व्यावसायिक प्रक्रियाओं को प्रभावी ढंग से लागू कर रहा है। 5 मिलियन पोलाको, स्क्यूटेज़नी रियलिज़ुजेक प्रोसेस बिज़नेसोवे डीएलए डीज़ीज़िएटेक फ़र्म ज़ेड रोसनीच ब्रैन्ज़ के साथ रोज़मोवी जूस ज़ पोनाड का प्रचार करें।. | :grey_question: |
-| [Versational](https://www.thataicollection.com/redirect/versational?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | दूरस्थ टीमों के लिए संस्करण. | वर्शनल हर बातचीत में कहे गए मूल्य को अधिकतम करता है। AI वार्तालाप परिणाम निःशुल्क प्राप्त करें। वर्शनल लिप्यंतरण, सारांश, डेटा प्रविष्टि को स्वचालित करता है, निष्कर्ष निकालता है, आपको क्लिप साझा करने देता है, और आपकी बातचीत को बेहतर बनाने के तरीके दिखाता है।. | :white_check_mark: |
-| [Viral Post Generator](https://www.thataicollection.com/redirect/viral-post-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वायरल पोस्ट जेनरेटर क्लोन. | Linkedin पर मेगा-वायरल करें - AI की शक्ति के साथ एक सफल पोस्ट बनाएं. | :grey_question: |
-| [Voice AI](https://www.thataicollection.com/redirect/voice-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पीसी और मैक के लिए एआई वॉयस चेंजर ऐप - फ्लाई पर अपनी आवाज बदलें. | . | :grey_question: |
-| [Voicemod](https://www.thataicollection.com/redirect/voicemod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फ्री रियल टाइम वॉयस चेंजर और मॉड्यूलेटर - वॉयसमॉड. | हमारे रीयल-टाइम एआई वॉयस चेंजर और साउंडबोर्ड के साथ खुद को अभिव्यक्त करें ताकि आप मेटावर्स में जब चाहें वह बन सकें। Roblox, OBS, VRChat, Discord, आदि जैसे प्लैटफ़ॉर्म के लिए अपनी ध्वनि पहचान बनाएं. | :white_check_mark: |
-| [Waifulabs](https://www.thataicollection.com/redirect/waifulabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वेफू लैब्स - जादुई एनीमे पोर्ट्रेट्स. | एक अत्याधुनिक एआई जो केवल आपके लिए कस्टम एनीम पोर्ट्रेट बनाती है! यह मशीन लर्निंग आर्टिस्ट आपकी प्राथमिकताओं का पता लगाता है और 4 आसान चरणों में एक आदर्श चरित्र चित्रण बनाता है। अगर यह जादू जैसा लगता है, ऐसा इसलिए है क्योंकि यह है!. | :grey_question: |
-| [Watermark Remover](https://www.thataicollection.com/redirect/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वॉटरमार्क रिमूवर - मुफ्त में छवियों से ऑनलाइन वॉटरमार्क हटाएं. | हमारी शक्तिशाली AI तकनीक का उपयोग करके अपनी छवियों से वॉटरमार्क हटाएं. | :white_check_mark: |
-| [Whisper Memos](https://www.thataicollection.com/redirect/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कानाफूसी मेमो. | . | :grey_question: |
-| [Wisecut](https://www.thataicollection.com/redirect/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वाइसकट - स्वचालित वीडियो संपादक. | . | :grey_question: |
-| [WithPoly](https://www.thataicollection.com/redirect/withpoly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पॉली: एआई के साथ डिजाइन संपत्तियां उत्पन्न करें। · पॉली. | . | :grey_question: |
-| [Wordfixerbot](https://www.thataicollection.com/redirect/wordfixerbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पैराफ्रेशिंग टूल - सर्वश्रेष्ठ मुफ्त ऑनलाइन पैराफ्रेजर - वर्डफिक्सरबॉट. | . | :grey_question: |
-| [Write A Thank You](https://www.thataicollection.com/redirect/write-a-thank-you?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | थैंक यू नोट लिखें - थैंक्यूनोट.ऐप. | किसी भी अवसर के लिए सही धन्यवाद नोट लिखें! चाहे आपको किसी मित्र, परिवार के सदस्य, या व्यावसायिक सहयोगी का धन्यवाद करने की आवश्यकता हो, हमारे पास आपके लिए एकदम सही शब्द हैं। इसे अजमाएं!. | :grey_question: |
-| [Writelyai](https://www.thataicollection.com/redirect/writelyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | राइटली - अपने लेखन को बेहतर बनाने के लिए एआई का उपयोग करना. | . | :grey_question: |
-| [Writeplus](https://www.thataicollection.com/redirect/writeplus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | राइट+ - व्यावसायिक लेखन को सभी के लिए सुलभ बनाया गया!. | . | :grey_question: |
-| [Writer](https://www.thataicollection.com/redirect/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लेखक - टीमों के लिए एआई लेखन मंच. | विश्व स्तरीय कंपनियाँ बड़े पैमाने पर ऑन-ब्रांड सामग्री को अनलॉक करने के लिए राइटर्स एआई लेखन मंच का उपयोग करती हैं. | :grey_question: |
+#### एलिफस - मैक, आईफोन, आईपैड के लिए पर्सनल एआई राइटिंग असिस्टेंट - [Visit](https://www.thataicollection.com/redirect/elephas)
 
+प्रतिदिन घंटे बचाएं। दुनिया का पहला एआई लेखक जो आपके मैक, आईफोन और आईपैड पर काम करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/elephas)
+
+<br />
+
+<br />
+
+
+### Quillbot Paraphraser
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-quillbot-paraphraser.webp?twic=v1/resize=240" alt="Quillbot Paraphraser">
+
+#### QuillBot का AI-पावर्ड पैराफ़्रेसिंग टूल आपके लेखन को बेहतर बनाएगा - [Visit](https://www.thataicollection.com/redirect/quillbot-paraphraser)
+
+आपके शब्द मायने रखते हैं, और हमारा व्याख्यात्मक उपकरण यह सुनिश्चित करने के लिए डिज़ाइन किया गया है कि आप सही शब्दों का उपयोग करें। चुनने के लिए दो निःशुल्क मोड और पांच प्रीमियम मोड के साथ, आप QuillBot के ऑनलाइन Paraphraser का उपयोग विभिन्न तरीकों से किसी भी टेक्स्ट को फिर से लिखने के लिए कर सकते हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/quillbot-paraphraser)
+
+<br />
+
+
+
+
+### Paraphraser
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paraphraser.webp?twic=v1/resize=240" alt="Paraphraser">
+
+#### सभी भाषाओं के लिए मुफ़्त पैराफ़्रेसिंग - [Visit](https://www.thataicollection.com/redirect/paraphraser)
+
+100 से अधिक भाषाओं के लिए 15 मुफ़्त मोड वाला पैराफ़्रेज़ टूल - वाक्य फिर से लिखता है, पैराग्राफ फिर से लिखता है, निबंध फिर से लिखता है, व्याकरण की जाँच करता है और साहित्यिक चोरी को खत्म करता है
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/paraphraser)
+
+<br />
+
+
+
+
+### Ai Paragraph Generator
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-paragraph-generator.webp?twic=v1/resize=240" alt="Ai Paragraph Generator">
+
+#### टेक्स्ट को बेहतर तरीके से बनाने के लिए, AI पैराग्राफ़ जेनरेटर का इस्तेमाल करें, जो लिखने की अलग-अलग ज़रूरतों के लिए उपयोगी कॉन्टेंट जनरेटर है। - [Visit](https://www.thataicollection.com/redirect/ai-paragraph-generator)
+
+एआई पैराग्राफ जेनरेटर एक अत्याधुनिक कंटेंट क्रिएशन टूल है जो आर्टिफिशियल इंटेलिजेंस की ताकत का इस्तेमाल करता है। एडवांस नेचुरल लैंग्वेज प्रोसेसिंग और मशीन लर्निंग का उपयोग करते हुए, यह तेज़ी से सुसंगत और प्रासंगिक पैराग्राफ़ बनाता है, जिससे यह लेखन की विभिन्न आवश्यकताओं के लिए एक अमूल्य संसाधन बन जाता है। 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-paragraph-generator)
+
+<br />
+
+
+
+
+### AI Lyrics Generator
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-lyrics-generator.webp?twic=v1/resize=240" alt="AI Lyrics Generator">
+
+#### आर्टिफिशियल इंटेलिजेंस सॉन्ग राइटर - ये लिरिक्स मौजूद नहीं हैं - [Visit](https://www.thataicollection.com/redirect/ai-lyrics-generator)
+
+किसी भी विषय के लिए अपने स्वयं के गीत के बोल उत्पन्न करें, गीत की शैली और गीत के मूड को भी चुनें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-lyrics-generator)
+
+<br />
+
+<br />
+
+
+
+[See All ✍️ लेखन सहायक Applications on AI Collection](https://www.thataicollection.com/en/categories/writing-assistant)
 
 <!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
+**[⬆ सूचकांक पर वापस जाएँ](#index)**
+
+---
 
