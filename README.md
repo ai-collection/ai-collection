@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=932" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=934" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -241,15 +241,17 @@ Stop losing hours to modeling tools. Generate stunning 3D art with nothing more 
 ### plask
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-plask.webp?twic=v1/resize=240" alt="plask">
 
-#### AI-Powered Mocap Animation Tool - [Visit](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Plask Motion: AI-powered Mocap Animation Tool
+ - [Visit](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Easily extract motion from video without expensive bodysuits or motions work.
+Plask offers AI motion capture from video, transforming your videos into stunning animations. Dive into our step-by-step guide and learn how to use our motion capture camera for the best results.
+
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### lumalabs
@@ -363,15 +365,16 @@ Up to 30% calls increase reported by our clients using 2D, 3D floor plans and vi
 ### AI TWO
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-two.webp?twic=v1/resize=240" alt="AI TWO">
 
-#### Aitwo.Co - The AI-Powered All-in-One Design Platform - [Visit](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Aitwo.Co - Remodel AI - Remodeled Interior & Exterior - [Visit](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-.
+Remodel and Design your spaces with Remodel AI - The first and #1 AI for remodeling, AI house designer and AI Interior designer. Get Remodeled Concepts for your space in less than 30 seconds.
+
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 

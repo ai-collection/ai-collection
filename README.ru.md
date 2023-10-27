@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=932" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=934" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -235,15 +235,17 @@ Blimey — это генератор изображений с искусств�
 ### plask
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-plask.webp?twic=v1/resize=240" alt="plask">
 
-#### Инструмент анимации Mocap на базе искусственного интеллекта - [Visit](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Plask Motion: инструмент анимации Mocap на базе искусственного интеллекта
+ - [Visit](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Легко извлекайте движение из видео без дорогих комбинезонов или работы с движениями.
+Plask предлагает искусственный захват движения из видео, превращая ваши видео в потрясающие анимации. Ознакомьтесь с нашим пошаговым руководством и узнайте, как использовать нашу камеру захвата движений для достижения наилучших результатов.
+
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### lumalabs
@@ -357,15 +359,16 @@ Blimey — это генератор изображений с искусств�
 ### AI TWO
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-two.webp?twic=v1/resize=240" alt="AI TWO">
 
-#### AITWO.CO — универсальная платформа дизайна на базе искусственного интеллекта - [Visit](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Aitwo.Co - Remodel AI - Обновленный интерьер и экстерьер - [Visit](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+Реконструируйте и оформляйте свои помещения с помощью Remodel AI — первого и #1 искусственного интеллекта для реконструкции, дизайнера домов с искусственным интеллектом и дизайнера интерьеров с искусственным интеллектом. Получите обновленные концепции вашего пространства менее чем за 30 секунд.
 
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 

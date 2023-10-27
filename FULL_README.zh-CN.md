@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=932" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=934" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -381,7 +381,7 @@ AI写作副驾驶</h4>
 | [Blimey](https://www.thataicollection.com/redirect/blimey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Blimey-在几分钟内从想象到图像. | Blimey 是一款人工智能图像生成器，你可以在一分钟内将想法变为现实。完全控制构图、颜色和风格。设置虚拟 3D 场景，以便在使用 AI 生成图像时完全控制构图和颜色. | :white_check_mark: |
 | [Kaedim](https://www.thataicollection.com/redirect/kaedim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在几分钟内神奇地生成自定义 3D 模型. | 不要再为建模工具浪费时间了。仅需一张图像即可生成令人惊叹的 3D 艺术作品。. | :x: |
 | [lumalabs](https://www.thataicollection.com/redirect/lumalabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 畅想3D v1.2 (alpha). | 一个早期的原型和创建带有文本的 3D 访问世代的实验正在逐渐扩展到候补名单上的每个人. | :white_check_mark: |
-| [plask](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的动捕动画工具. | 无需昂贵的紧身衣裤或动作工作即可轻松从视频中提取动作。. | :white_check_mark: |
+| [plask](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Plask Motion：人工智能驱动的动作捕捉动画工具. | Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人惊叹的动画。深入阅读我们的分步指南，学习如何使用我们的动作捕捉摄像头以获得最佳效果。. | :white_check_mark: |
 | [TextureLab](https://www.thataicollection.com/redirect/texturelab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为您的下一款游戏提供即时且独特的 3D 纹理. | 借助 AI，在几秒钟内为您的游戏生成 3D 纹理。. | :grey_question: |
 
 
@@ -493,7 +493,7 @@ AI写作副驾驶</h4>
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [AI Room Planner](https://www.thataicollection.com/redirect/ai-room-planner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能室内设计. | 为您的房间获取数百种室内设计理念 - 免费且无限制。. | :white_check_mark: |
-| [AI TWO](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AITWO.CO - 人工智能驱动的一体化设计平台. | . | :grey_question: |
+| [AI TWO](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aitwo.Co-Remodel AI-改造内部和外部. | 使用 Remodel AI 改造和设计您的空间-第一个和 #1 用于改造的 AI、AI 房屋设计师和 AI 室内设计师。在不到 30 秒的时间内，为你的空间获取改造后的概念车。. | :grey_question: |
 | [Dimensions](https://www.thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dimensions - 使用 AI 快速创建视觉概念. | 想象一下能够轻松创建漂亮的室内设计——这就是 Dimensions 所提供的。. | :white_check_mark: |
 | [Getfloorplan](https://www.thataicollection.com/redirect/getfloorplan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 创建 2d 和 3d 平面图. | 我们的客户使用 2D、3D 楼层平面图和虚拟游览报告称来电增加了多达 30%. | :grey_question: |
 | [Image Computer](https://www.thataicollection.com/redirect/image-computer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 生成您的下一个室内设计/镶嵌/时装系列/概念艺术. | 使用我们强大的 AI 技术生成您能想到的任何类型的图像。在几秒钟内。. | :x: |

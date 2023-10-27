@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=932" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=934" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -114,7 +114,7 @@ Copiloto de escritura de IA</h4>
 | [Blimey](https://www.thataicollection.com/redirect/blimey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Caray, DE LA IMAGINACIÓN A LA IMAGEN EN MINUTOS. | Blimey es un generador de imágenes de IA en el que puedes pasar de la idea a la realidad en un minuto. Con el control total de la composición, los colores y el estilo. Configura una escena 3D virtual para tener el control total de la composición y los colores al generar imágenes con la IA. | :white_check_mark: |
 | [Kaedim](https://www.thataicollection.com/redirect/kaedim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Genere mágicamente modelos 3D personalizados en minutos. | Deje de perder horas con las herramientas de modelado. Genere arte 3D impresionante con nada más que una imagen. | :x: |
 | [lumalabs](https://www.thataicollection.com/redirect/lumalabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Imagine 3D V1.2 (Alfa). | Un experimento inicial para crear prototipos y crear 3D con texto El acceso a la generación se está expandiendo gradualmente a todos los que están en la lista de espera. | :white_check_mark: |
-| [plask](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Herramienta de animación Mocap impulsada por IA. | Extraiga fácilmente el movimiento del video sin costosos trajes ni trabajos de movimiento. | :white_check_mark: |
+| [plask](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Plask Motion: herramienta de animación Mocap con tecnología de IA. | Plask ofrece captura de movimiento mediante IA a partir de vídeos, lo que transforma tus vídeos en impresionantes animaciones. Consulta nuestra guía paso a paso y aprende a utilizar nuestra cámara de captura de movimiento para obtener los mejores resultados. | :white_check_mark: |
 | [TextureLab](https://www.thataicollection.com/redirect/texturelab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Texturas 3D instantáneas y únicas para su próximo juego. | Genera texturas 3D para tu juego en segundos gracias a la IA. | :grey_question: |
 
 
@@ -125,7 +125,7 @@ Copiloto de escritura de IA</h4>
 | Nombre | Título | Descripción | Ofrecer versión gratuita |
 |---|---|---|:---:|
 | [AI Room Planner](https://www.thataicollection.com/redirect/ai-room-planner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Diseño de interiores por IA. | Obtenga cientos de ideas de diseño de interiores para su habitación, gratis y sin límite. | :white_check_mark: |
-| [AI TWO](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aitwo.Co: la plataforma de diseño todo en uno impulsada por IA. | . | :grey_question: |
+| [AI TWO](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aitwo.Co - Remodelación de IA - Interior y exterior remodelados. | Remodela y diseña tus espacios con Remodel AI, la primera y #1 IA para la remodelación, diseñador de casas con IA y diseñador de interiores con IA. Consigue conceptos de remodelación para tu espacio en menos de 30 segundos. | :grey_question: |
 | [Dimensions](https://www.thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dimensiones - Cree rápidamente conceptos visuales con IA. | Imagine poder crear hermosos diseños de interiores con facilidad: eso es lo que ofrece Dimensions. | :white_check_mark: |
 | [Getfloorplan](https://www.thataicollection.com/redirect/getfloorplan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Creación de planos de planta 2D y 3D con IA. | Hasta un 30% de aumento de llamadas reportado por nuestros clientes usando planos de planta 2D, 3D y recorridos virtuales. | :grey_question: |
 | [Image Computer](https://www.thataicollection.com/redirect/image-computer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Genere su próximo diseño de interiores/decoración/colección de moda/arte conceptual. | Utilice nuestra poderosa tecnología de IA para generar cualquier tipo de imagen que se le ocurra. En cuestión de segundos. | :x: |

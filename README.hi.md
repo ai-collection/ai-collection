@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=932" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=934" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -235,15 +235,17 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 ### plask
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-plask.webp?twic=v1/resize=240" alt="plask">
 
-#### एआई-पावर्ड मोकैप एनिमेशन टूल - [Visit](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### प्लास्क मोशन: एआई-पावर्ड मोकैप एनिमेशन टूल
+ - [Visit](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-बिना महंगे बॉडीसूट या मोशन वर्क के आसानी से वीडियो से मोशन निकालें।
+प्लास्क वीडियो से AI मोशन कैप्चर प्रदान करता है, जो तुम्हारे वीडियो को शानदार एनिमेशन में बदल देता है। हमारी चरण-दर-चरण मार्गदर्शिका देखें और जानें कि बेहतरीन नतीजों के लिए हमारे मोशन कैप्चर कैमरे का इस्तेमाल कैसे किया जाता है।
+
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### lumalabs
@@ -357,15 +359,16 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 ### AI TWO
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-two.webp?twic=v1/resize=240" alt="AI TWO">
 
-#### Aitwo.Co - एआई-पावर्ड ऑल-इन-वन डिज़ाइन प्लेटफ़ॉर्म - [Visit](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Aitwo.Co - रीमॉडल AI - रीमॉडेल्ड इंटीरियर और एक्सटीरियर - [Visit](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+रीमॉडल AI के साथ अपने स्पेस को फिर से तैयार करें और डिज़ाइन करें - रीमॉडेलिंग के लिए पहला और #1 AI, AI हाउस डिज़ाइनर और AI इंटीरियर डिज़ाइनर। 30 सेकंड से भी कम समय में अपने स्पेस के लिए रीमॉडेल्ड कॉन्सेप्ट पाएँ।
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 

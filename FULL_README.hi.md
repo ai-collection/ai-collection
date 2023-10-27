@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=932" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=934" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -331,7 +331,7 @@
 | [Blimey](https://www.thataicollection.com/redirect/blimey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ब्लिमी - कल्पना से छवि तक मिनटों में. | ब्लिमी एक AI इमेज जनरेटर है जहाँ तुम एक मिनट में आइडिया से वास्तविकता की ओर जा सकते हो। जिसका कंपोज़िशन, रंग और स्टाइल पर पूरा नियंत्रण है। AI के ज़रिए इमेज बनाते समय कंपोज़िशन और रंगों पर पूरा नियंत्रण पाने के लिए वर्चुअल 3D सीन सेट करें. | :white_check_mark: |
 | [Kaedim](https://www.thataicollection.com/redirect/kaedim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मिनटों में जादुई रूप से Custom3D मॉडल बनाएं. | मॉडलिंग टूल के लिए घंटे बर्बाद करना बंद करें। एक छवि से ज्यादा कुछ नहीं के साथ आश्चर्यजनक 3डी कला उत्पन्न करें।. | :x: |
 | [lumalabs](https://www.thataicollection.com/redirect/lumalabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 3D V1.2 (अल्फ़ा) की कल्पना करें. | पाठ के साथ प्रोटोटाइप और 3D बनाने का एक प्रारंभिक प्रयोग पीढ़ी तक पहुंच धीरे-धीरे प्रतीक्षा सूची में सभी के लिए विस्तारित हो रही है. | :white_check_mark: |
-| [plask](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-पावर्ड मोकैप एनिमेशन टूल. | बिना महंगे बॉडीसूट या मोशन वर्क के आसानी से वीडियो से मोशन निकालें।. | :white_check_mark: |
+| [plask](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्लास्क मोशन: एआई-पावर्ड मोकैप एनिमेशन टूल. | प्लास्क वीडियो से AI मोशन कैप्चर प्रदान करता है, जो तुम्हारे वीडियो को शानदार एनिमेशन में बदल देता है। हमारी चरण-दर-चरण मार्गदर्शिका देखें और जानें कि बेहतरीन नतीजों के लिए हमारे मोशन कैप्चर कैमरे का इस्तेमाल कैसे किया जाता है।. | :white_check_mark: |
 | [TextureLab](https://www.thataicollection.com/redirect/texturelab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके अगले गेम के लिए तत्काल और अद्वितीय 3डी बनावट. | एआई की मदद से सेकेंडों में अपने गेम के लिए 3डी बनावट तैयार करें।. | :grey_question: |
 
 
@@ -938,7 +938,7 @@
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
 | [AI Room Planner](https://www.thataicollection.com/redirect/ai-room-planner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई द्वारा आंतरिक डिजाइन. | अपने कमरे के लिए सैकड़ों इंटीरियर डिजाइन विचार प्राप्त करें - बिना किसी सीमा के निःशुल्क।. | :white_check_mark: |
-| [AI TWO](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aitwo.Co - एआई-पावर्ड ऑल-इन-वन डिज़ाइन प्लेटफ़ॉर्म. | . | :grey_question: |
+| [AI TWO](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aitwo.Co - रीमॉडल AI - रीमॉडेल्ड इंटीरियर और एक्सटीरियर. | रीमॉडल AI के साथ अपने स्पेस को फिर से तैयार करें और डिज़ाइन करें - रीमॉडेलिंग के लिए पहला और #1 AI, AI हाउस डिज़ाइनर और AI इंटीरियर डिज़ाइनर। 30 सेकंड से भी कम समय में अपने स्पेस के लिए रीमॉडेल्ड कॉन्सेप्ट पाएँ।. | :grey_question: |
 | [Dimensions](https://www.thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डाइमेंशन - एआई के साथ तेजी से विज़ुअल कॉन्सेप्ट बनाएं. | कल्पना करें कि आप आसानी से सुंदर आंतरिक डिज़ाइन बना सकते हैं - यही आयाम प्रदान करता है।. | :white_check_mark: |
 | [Getfloorplan](https://www.thataicollection.com/redirect/getfloorplan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ 2डी और 3डी फ्लोर प्लान बनाना. | 2डी, 3डी फ्लोर प्लान और वर्चुअल टूर का उपयोग करने वाले हमारे ग्राहकों द्वारा 30% तक कॉल वृद्धि की सूचना दी गई है. | :grey_question: |
 | [Image Computer](https://www.thataicollection.com/redirect/image-computer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी अगली आंतरिक सज्जा / पैनिटिंग / फैशन संग्रह / संकल्पना कला तैयार करें. | आप जिस भी प्रकार की छवि के बारे में सोच सकते हैं, उसे उत्पन्न करने के लिए हमारी शक्तिशाली एआई तकनीक का उपयोग करें। कुछ ही सेकण्ड में।. | :x: |
