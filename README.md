@@ -72,13 +72,16 @@ AI Writing Copilot</h4>
 <br>
 
 
+### {'en': 'A hand-picked list of awesome AI applications featured on AI Collection', 'ru': 'Тщательно подобранный список потрясающих приложений искусственного интеллекта, представленных в AI Collection.', 'zh-CN': 'AI Collection 中精选的精彩 AI 应用程序列表', 'fr': "Une liste triée sur le volet d'applications d'IA géniales présentées sur AI Collection", 'es': 'Una lista cuidadosamente seleccionada de increíbles aplicaciones de IA incluidas en AI Collection', 'hi': 'एआई संग्रह पर प्रदर्शित अद्भुत एआई अनुप्रयोगों की एक चुनिंदा सूची'}
+
+
 ---
 
-<p>If your AI application deserves a spot on this hand picked list, please talk to me <a href="mailto: pavel@ai-collection.org">Email Pavel</a></p>
+<p>If your AI application deserves a spot on this hand-picked list, please talk to me: <a href="mailto: pavel@ai-collection.org">Email Pavel</a></p>
 
 
 
-> To see the full collection of AI Application in legacy table view, go to this page: [link](https://github.com/ai-collection/ai-collection/FULL_README.md)
+To see the full collection of AI Applications in legacy table view, go to this page: [link](https://github.com/ai-collection/ai-collection/FULL_README.md)
 
 ## Index
 - 📈 [Accounting & Finance](#accounting--finance)
