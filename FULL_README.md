@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=932" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=934" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -132,7 +132,7 @@ AI Writing Copilot</h4>
 | [Blimey](https://www.thataicollection.com/redirect/blimey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Blimey - FROM IMAGINATION TO IMAGE IN MINUTES. | Blimey is an ai image generator where you can go from idea to reality in a minute. With full control over composition, colors and style. Set up a virtual 3D scene to have full control over composition and colors when generating images with AI. | :white_check_mark: |
 | [Kaedim](https://www.thataicollection.com/redirect/kaedim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Magically Generate Custom3D Models in Minutes. | Stop losing hours to modeling tools. Generate stunning 3D art with nothing more than an image. | :x: |
 | [lumalabs](https://www.thataicollection.com/redirect/lumalabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Imagine 3D V1.2 (Alpha). | An early experiment to prototype and create 3D with text Access to generation is gradually expanding to everyone on the waitlist. | :white_check_mark: |
-| [plask](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-Powered Mocap Animation Tool. | Easily extract motion from video without expensive bodysuits or motions work. | :white_check_mark: |
+| [plask](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Plask Motion: AI-powered Mocap Animation Tool. | Plask offers AI motion capture from video, transforming your videos into stunning animations. Dive into our step-by-step guide and learn how to use our motion capture camera for the best results. | :white_check_mark: |
 | [TextureLab](https://www.thataicollection.com/redirect/texturelab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instant and Unique 3D Textures for Your Next Game. | Generate 3D textures for your game in seconds thanks to AI. | :grey_question: |
 
 
@@ -143,7 +143,7 @@ AI Writing Copilot</h4>
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Room Planner](https://www.thataicollection.com/redirect/ai-room-planner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Interior Design by AI. | Get hundreds of interior design ideas for your room - free with no limit. | :white_check_mark: |
-| [AI TWO](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aitwo.Co - The AI-Powered All-in-One Design Platform. | . | :grey_question: |
+| [AI TWO](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aitwo.Co - Remodel AI - Remodeled Interior & Exterior. | Remodel and Design your spaces with Remodel AI - The first and #1 AI for remodeling, AI house designer and AI Interior designer. Get Remodeled Concepts for your space in less than 30 seconds. | :grey_question: |
 | [Dimensions](https://www.thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dimensions - Rapidly Create Visual Concepts With AI. | Imagine being able to create beautiful interior designs with ease – thats what Dimensions offers. | :white_check_mark: |
 | [Getfloorplan](https://www.thataicollection.com/redirect/getfloorplan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Creating 2D and 3D Floor Plans With AI. | Up to 30% calls increase reported by our clients using 2D, 3D floor plans and virtual tours. | :grey_question: |
 | [Image Computer](https://www.thataicollection.com/redirect/image-computer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generate Your Next Interior Design / Paniting / Fashion Collection / Concept Art. | Use our powerful AI technology to generate any type of image you can think of. In a matter of seconds. | :x: |

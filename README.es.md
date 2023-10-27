@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=932" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=934" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -235,15 +235,17 @@ Deje de perder horas con las herramientas de modelado. Genere arte 3D impresiona
 ### plask
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-plask.webp?twic=v1/resize=240" alt="plask">
 
-#### Herramienta de animación Mocap impulsada por IA - [Visit](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Plask Motion: herramienta de animación Mocap con tecnología de IA
+ - [Visit](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Extraiga fácilmente el movimiento del video sin costosos trajes ni trabajos de movimiento.
+Plask ofrece captura de movimiento mediante IA a partir de vídeos, lo que transforma tus vídeos en impresionantes animaciones. Consulta nuestra guía paso a paso y aprende a utilizar nuestra cámara de captura de movimiento para obtener los mejores resultados.
+
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### lumalabs
@@ -357,15 +359,16 @@ Hasta un 30% de aumento de llamadas reportado por nuestros clientes usando plano
 ### AI TWO
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-two.webp?twic=v1/resize=240" alt="AI TWO">
 
-#### Aitwo.Co: la plataforma de diseño todo en uno impulsada por IA - [Visit](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Aitwo.Co - Remodelación de IA - Interior y exterior remodelados - [Visit](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+Remodela y diseña tus espacios con Remodel AI, la primera y #1 IA para la remodelación, diseñador de casas con IA y diseñador de interiores con IA. Consigue conceptos de remodelación para tu espacio en menos de 30 segundos.
 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 

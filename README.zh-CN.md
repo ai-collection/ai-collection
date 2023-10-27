@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=932" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=934" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -235,9 +235,11 @@ Blimey 是一款人工智能图像生成器，你可以在一分钟内将想法�
 ### plask
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-plask.webp?twic=v1/resize=240" alt="plask">
 
-#### 人工智能驱动的动捕动画工具 - [Visit](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Plask Motion：人工智能驱动的动作捕捉动画工具
+ - [Visit](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-无需昂贵的紧身衣裤或动作工作即可轻松从视频中提取动作。
+Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人惊叹的动画。深入阅读我们的分步指南，学习如何使用我们的动作捕捉摄像头以获得最佳效果。
+
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -357,8 +359,9 @@ Blimey 是一款人工智能图像生成器，你可以在一分钟内将想法�
 ### AI TWO
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-two.webp?twic=v1/resize=240" alt="AI TWO">
 
-#### AITWO.CO - 人工智能驱动的一体化设计平台 - [Visit](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Aitwo.Co-Remodel AI-改造内部和外部 - [Visit](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+使用 Remodel AI 改造和设计您的空间-第一个和 #1 用于改造的 AI、AI 房屋设计师和 AI 室内设计师。在不到 30 秒的时间内，为你的空间获取改造后的概念车。
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)

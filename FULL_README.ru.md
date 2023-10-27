@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=932" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=934" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -156,7 +156,7 @@
 | [Blimey](https://www.thataicollection.com/redirect/blimey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Blimey — ОТ ВООБРАЖЕНИЯ К ОБРАЗУ ЗА СЧИТАННЫЕ МИНУТЫ. | Blimey — это генератор изображений с искусственным интеллектом, с помощью которого вы можете за минуту перейти от идеи к реальности. С полным контролем над композицией, цветами и стилем. Настройте виртуальную 3D-сцену, чтобы полностью контролировать композицию и цвета при создании изображений с помощью искусственного интеллекта. | :white_check_mark: |
 | [Kaedim](https://www.thataicollection.com/redirect/kaedim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Волшебное создание пользовательских 3D-моделей за считанные минуты. | Хватит тратить часы на инструменты моделирования. Создавайте потрясающее 3D-искусство, используя только изображение. | :x: |
 | [lumalabs](https://www.thataicollection.com/redirect/lumalabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Представьте себе 3D v1.2 (альфа). | Ранний эксперимент по прототипированию и созданию 3D-текста. Доступ к генерации постепенно расширяется для всех, кто находится в списке ожидания. | :white_check_mark: |
-| [plask](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Инструмент анимации Mocap на базе искусственного интеллекта. | Легко извлекайте движение из видео без дорогих комбинезонов или работы с движениями. | :white_check_mark: |
+| [plask](https://www.thataicollection.com/redirect/plask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Plask Motion: инструмент анимации Mocap на базе искусственного интеллекта. | Plask предлагает искусственный захват движения из видео, превращая ваши видео в потрясающие анимации. Ознакомьтесь с нашим пошаговым руководством и узнайте, как использовать нашу камеру захвата движений для достижения наилучших результатов. | :white_check_mark: |
 | [TextureLab](https://www.thataicollection.com/redirect/texturelab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Мгновенные и уникальные 3D-текстуры для вашей следующей игры. | Создавайте 3D-текстуры для своей игры за считанные секунды благодаря искусственному интеллекту. | :grey_question: |
 
 
@@ -167,7 +167,7 @@
 | Имя | Заголовок | Описание | Предложить бесплатную версию |
 |---|---|---|:---:|
 | [AI Room Planner](https://www.thataicollection.com/redirect/ai-room-planner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Дизайн интерьера от AI. | Получите сотни идей дизайна интерьера для вашей комнаты — бесплатно и без ограничений. | :white_check_mark: |
-| [AI TWO](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AITWO.CO — универсальная платформа дизайна на базе искусственного интеллекта. | . | :grey_question: |
+| [AI TWO](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aitwo.Co - Remodel AI - Обновленный интерьер и экстерьер. | Реконструируйте и оформляйте свои помещения с помощью Remodel AI — первого и #1 искусственного интеллекта для реконструкции, дизайнера домов с искусственным интеллектом и дизайнера интерьеров с искусственным интеллектом. Получите обновленные концепции вашего пространства менее чем за 30 секунд. | :grey_question: |
 | [Dimensions](https://www.thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Размеры — быстро создавайте визуальные концепции с помощью ИИ. | Представьте, что вы можете с легкостью создавать красивые интерьеры — вот что предлагает Dimensions. | :white_check_mark: |
 | [Getfloorplan](https://www.thataicollection.com/redirect/getfloorplan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Создание 2d и 3d планов этажей с помощью ИИ. | Наши клиенты сообщают о росте числа звонков до 30 %, используя 2D- и 3D-планы этажей и виртуальные туры. | :grey_question: |
 | [Image Computer](https://www.thataicollection.com/redirect/image-computer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Создайте свой следующий дизайн интерьера / панорамирование / модную коллекцию / концепт-арт. | Используйте нашу мощную технологию искусственного интеллекта для создания изображений любого типа. В считанные секунды. | :x: |
