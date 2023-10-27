@@ -74,10 +74,6 @@ AI写作副驾驶</h4>
 
 <p>如果您的人工智能应用程序值得在此精选列表中占有一席之地，请与我联系: <a href="mailto: pavel@ai-collection.org">电子邮件帕维尔</a></p>
 
-
-
-要在旧表视图中查看 AI 应用程序的完整集合，请转到此页面： [link](https://github.com/ai-collection/ai-collection/FULL_README.zh-CN.md)
-
 ## Index
 - 🤪 [乐趣](#乐趣)
 - 👩‍💼 [人力资源与简历](#人力资源与简历)

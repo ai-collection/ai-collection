@@ -74,10 +74,6 @@ Copilote d'écriture d'IA</h4>
 
 <p>Si votre application d'IA mérite une place sur cette liste triée sur le volet, parlez-moi: <a href="mailto: pavel@ai-collection.org">Envoyer un e-mail à Pavel</a></p>
 
-
-
-Pour voir la collection complète des applications IA dans la vue tableau héritée, accédez à cette page : [link](https://github.com/ai-collection/ai-collection/FULL_README.fr.md)
-
 ## Index
 - 🤪 [Amusant](#amusant)
 - 🎲 [Animation & Modélisation 3D](#animation--modélisation-3d)

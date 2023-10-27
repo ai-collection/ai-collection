@@ -80,10 +80,6 @@ AI Writing Copilot</h4>
 
 <p>If your AI application deserves a spot on this hand-picked list, please talk to me: <a href="mailto: pavel@ai-collection.org">Email Pavel</a></p>
 
-
-
-To see the full collection of AI Applications in legacy table view, go to this page: [link](https://github.com/ai-collection/ai-collection/FULL_README.md)
-
 ## Index
 - 📈 [Accounting & Finance](#accounting--finance)
 - 🎲 [Animation & 3D Modeling](#animation--3d-modeling)

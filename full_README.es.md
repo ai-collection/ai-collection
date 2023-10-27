@@ -74,10 +74,6 @@ Copiloto de escritura de IA</h4>
 
 <p>Si su aplicación de IA merece un lugar en esta lista cuidadosamente seleccionada, hable conmigo: <a href="mailto: pavel@ai-collection.org">Envíe un correo electrónico a Pablo</a></p>
 
-
-
-Para ver la colección completa de aplicaciones de IA en la vista de tabla heredada, vaya a esta página: [link](https://github.com/ai-collection/ai-collection/FULL_README.es.md)
-
 ## Index
 - 🎲 [Animación Y Modelado 3D](#animación-y-modelado-3d)
 - 🏯 [Arquitectura E Interiorismo](#arquitectura-e-interiorismo)
