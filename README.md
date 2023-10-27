@@ -19,10 +19,6 @@
 
 ---
 
-> My brothers and sisters in Israel were slaughtered by Hamas terrorists. I was drafted to protect my country. I may be slow to respond.
-
----
-
 <div align="center">
     <h4>Status</h4>
 
@@ -78,7 +74,7 @@ AI Writing Copilot</h4>
 
 ---
 
-<p><a href="mailto: pavel@ai-collection.org">Contact Us</a> to set up a promotion for your awesome app!</p>
+<p>If your AI application deserves a spot on this hand picked list, please talk to me <a href="mailto: pavel@ai-collection.org">Email Pavel</a></p>
 
 
 
