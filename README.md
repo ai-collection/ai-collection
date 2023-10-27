@@ -78,27 +78,6 @@ AI Writing Copilot</h4>
 
 ---
 
-<div align="center">
-    <h5>Awesome Tools for your AI Application</h5>
-</div>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.twic.pics/screenshots/screenshot-usertrail.webp" alt="usertrail" border="0"/>
-    </a>
-    <h4>Simple and Powerful Event Tracking for Modern Apps.</h4>
-    <p>Capture, track, and visualize every user milestone, making data-driven decisions simpler than ever.
-Monitor -Stay Updated. Anytime, Anywhere.
-Visualize - Clear & Elegant Dashboard. In minutes.
-Capture - Effortless Integration.</p>
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank"><b>Get Started with usertrail</b></a>
-    <br />
-</div>
-
-
----
-
 <p><a href="mailto: pavel@ai-collection.org">Contact Us</a> to set up a promotion for your awesome app!</p>
 
 
