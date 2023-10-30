@@ -125,7 +125,7 @@
 ## Бухгалтерский учет и финансы
 
 ### BeeBee AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-beebee-ai.webp?twic=v1/resize=240" alt="BeeBee AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI">
 
 #### BeeBee.AI разработан специально для фондового рынка США и предназначен для долгосрочных инвесторов, которые в основном сосредоточены на фундаментальном анализе и ценят данные и информацию.
 [Visit](https://www.thataicollection.com/redirect/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -142,7 +142,7 @@
 
 
 ### FlowCog
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-flowcog.webp?twic=v1/resize=240" alt="FlowCog">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-flowcog.webp" alt="FlowCog">
 
 #### Финансовые прогнозы SaaS быстро и легко ⚡
 [Visit](https://www.thataicollection.com/redirect/flowcog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -157,7 +157,7 @@
 
 
 ### StockGPT
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stockgpt.webp?twic=v1/resize=240" alt="StockGPT">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stockgpt.webp" alt="StockGPT">
 
 #### поисковая система с искусственным интеллектом
 [Visit](https://www.thataicollection.com/redirect/stockgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -172,7 +172,7 @@ StockGPT — это поисковая система на базе искусс
 
 
 ### Jinnee
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jinnee.webp?twic=v1/resize=240" alt="Jinnee">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jinnee.webp" alt="Jinnee">
 
 #### Джинни — ваш виртуальный ассистент в сфере финансовых технологий
 [Visit](https://www.thataicollection.com/redirect/jinnee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -187,7 +187,7 @@ StockGPT — это поисковая система на базе искусс
 
 
 ### Stocknews AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stocknews-ai.webp?twic=v1/resize=240" alt="Stocknews AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stocknews-ai.webp" alt="Stocknews AI">
 
 #### Лучшие биржевые новости из более чем 100 источников
 Выбрано искусственным интеллектом
@@ -213,7 +213,7 @@ Stocknews AI — это куратор лучших новых биржевых 
 ## Анимация и 3D-моделирование
 
 ### Blimey
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-blimey.webp?twic=v1/resize=240" alt="Blimey">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-blimey.webp" alt="Blimey">
 
 #### Blimey — ОТ ВООБРАЖЕНИЯ К ОБРАЗУ ЗА СЧИТАННЫЕ МИНУТЫ
 [Visit](https://www.thataicollection.com/redirect/blimey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -228,7 +228,7 @@ Blimey — это генератор изображений с искусств�
 
 
 ### TextureLab
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-texturelab.webp?twic=v1/resize=240" alt="TextureLab">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-texturelab.webp" alt="TextureLab">
 
 #### Мгновенные и уникальные 3D-текстуры для вашей следующей игры
 [Visit](https://www.thataicollection.com/redirect/texturelab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -243,7 +243,7 @@ Blimey — это генератор изображений с искусств�
 
 
 ### Kaedim
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-kaedim.webp?twic=v1/resize=240" alt="Kaedim">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-kaedim.webp" alt="Kaedim">
 
 #### Волшебное создание пользовательских 3D-моделей за считанные минуты
 [Visit](https://www.thataicollection.com/redirect/kaedim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -258,7 +258,7 @@ Blimey — это генератор изображений с искусств�
 
 
 ### plask
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-plask.webp?twic=v1/resize=240" alt="plask">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-plask.webp" alt="plask">
 
 #### Plask Motion: инструмент анимации Mocap на базе искусственного интеллекта
 
@@ -275,7 +275,7 @@ Plask предлагает искусственный захват движен�
 
 
 ### lumalabs
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lumalabs.webp?twic=v1/resize=240" alt="lumalabs">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lumalabs.webp" alt="lumalabs">
 
 #### Представьте себе 3D v1.2 (альфа)
 [Visit](https://www.thataicollection.com/redirect/lumalabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -300,7 +300,7 @@ Plask предлагает искусственный захват движен�
 ## Архитектура и дизайн интерьера
 
 ### Makeit.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-makeit.ai.webp?twic=v1/resize=240" alt="Makeit.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-makeit.ai.webp" alt="Makeit.ai">
 
 #### Генеративный дизайн - Программное обеспечение для архитектурного проектирования - Maket
 [Visit](https://www.thataicollection.com/redirect/makeit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -315,7 +315,7 @@ Plask предлагает искусственный захват движен�
 
 
 ### Interior AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-interior-ai.webp?twic=v1/resize=240" alt="Interior AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
 
 #### AI для интерьера: вдохновение для идей дизайна интерьера и приложение для виртуальной постановки с использованием искусственного интеллекта
 [Visit](https://www.thataicollection.com/redirect/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -330,7 +330,7 @@ Plask предлагает искусственный захват движен�
 
 
 ### Image Computer
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-image-computer.webp?twic=v1/resize=240" alt="Image Computer">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-image-computer.webp" alt="Image Computer">
 
 #### Создайте свой следующий дизайн интерьера / панорамирование / модную коллекцию / концепт-арт
 [Visit](https://www.thataicollection.com/redirect/image-computer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -345,7 +345,7 @@ Plask предлагает искусственный захват движен�
 
 
 ### Dimensions
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dimensions.webp?twic=v1/resize=240" alt="Dimensions">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dimensions.webp" alt="Dimensions">
 
 #### Размеры — быстро создавайте визуальные концепции с помощью ИИ
 [Visit](https://www.thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -360,7 +360,7 @@ Plask предлагает искусственный захват движен�
 
 
 ### AI Room Planner
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-room-planner.webp?twic=v1/resize=240" alt="AI Room Planner">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-room-planner.webp" alt="AI Room Planner">
 
 #### Дизайн интерьера от AI
 [Visit](https://www.thataicollection.com/redirect/ai-room-planner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -375,7 +375,7 @@ Plask предлагает искусственный захват движен�
 
 
 ### Getfloorplan
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-getfloorplan.webp?twic=v1/resize=240" alt="Getfloorplan">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getfloorplan.webp" alt="Getfloorplan">
 
 #### Создание 2d и 3d планов этажей с помощью ИИ
 [Visit](https://www.thataicollection.com/redirect/getfloorplan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -390,7 +390,7 @@ Plask предлагает искусственный захват движен�
 
 
 ### AI TWO
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-two.webp?twic=v1/resize=240" alt="AI TWO">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-two.webp" alt="AI TWO">
 
 #### Aitwo.Co - Remodel AI - Обновленный интерьер и экстерьер
 [Visit](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -416,7 +416,7 @@ Plask предлагает искусственный захват движен�
 ## Генератор изображений и изображений
 
 ### Getimg.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-getimg.ai.webp?twic=v1/resize=240" alt="Getimg.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getimg.ai.webp" alt="Getimg.ai">
 
 #### Создавайте потрясающие аватары, изображения, рисунки, фотографии с помощью искусственного интеллекта.
 [Visit](https://www.thataicollection.com/redirect/getimg.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -431,7 +431,7 @@ getimg.ai — это набор волшебных инструментов ис
 
 
 ### ICONS8
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-icons8.webp?twic=v1/resize=240" alt="ICONS8">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-icons8.webp" alt="ICONS8">
 
 #### Иконки, иллюстрации, фотографии, музыка и инструменты дизайна
 [Visit](https://www.thataicollection.com/redirect/icons8?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -446,7 +446,7 @@ ICONS8 ПОЗВОЛЯЕТ ДИЗАЙНЕРАМ ВЫРАЖАТЬ СВОИ ИДЕ�
 
 
 ### CustomQR AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-customqr-ai.webp?twic=v1/resize=240" alt="CustomQR AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customqr-ai.webp" alt="CustomQR AI">
 
 #### Сервис генерации QR-кода для бизнеса
 [Visit](https://www.thataicollection.com/redirect/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -461,7 +461,7 @@ ICONS8 ПОЗВОЛЯЕТ ДИЗАЙНЕРАМ ВЫРАЖАТЬ СВОИ ИДЕ�
 
 
 ### Playground
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-playground.webp?twic=v1/resize=240" alt="Playground">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-playground.webp" alt="Playground">
 
 #### Playground AI - онлайн-создатель изображений AI
 [Visit](https://www.thataicollection.com/redirect/playground?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -476,7 +476,7 @@ Playground AI — это бесплатный онлайн-редактор из
 
 
 ### Designify
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-designify.webp?twic=v1/resize=240" alt="Designify">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-designify.webp" alt="Designify">
 
 #### Designify - Превратите любую фотографию в потрясающую
 [Visit](https://www.thataicollection.com/redirect/designify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -491,7 +491,7 @@ Playground AI — это бесплатный онлайн-редактор из
 
 
 ### NSFW Art Generator AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-nsfw-art-generator-ai.webp?twic=v1/resize=240" alt="NSFW Art Generator AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nsfw-art-generator-ai.webp" alt="NSFW Art Generator AI">
 
 #### Вы можете с легкостью создавать качественные изображения NSFW AI.
 [Visit](https://www.thataicollection.com/redirect/nsfw-art-generator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -506,7 +506,7 @@ Playground AI — это бесплатный онлайн-редактор из
 
 
 ### Anime AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-anime-ai.webp?twic=v1/resize=240" alt="Anime AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-anime-ai.webp" alt="Anime AI">
 
 #### AI Anime Picture Generator - Аниме AI
 [Visit](https://www.thataicollection.com/redirect/anime-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -531,7 +531,7 @@ Playground AI — это бесплатный онлайн-редактор из
 ## Аватары
 
 ### HairstyleAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hairstyleai.webp?twic=v1/resize=240" alt="HairstyleAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hairstyleai.webp" alt="HairstyleAI">
 
 #### Попробуйте новые прически с помощью искусственного интеллекта
 [Visit](https://www.thataicollection.com/redirect/hairstyleai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -546,7 +546,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 
 ### AvatarAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-avatarai.webp?twic=v1/resize=240" alt="AvatarAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="AvatarAI">
 
 #### Создавайте свои собственные фотореалистичные аватары с искусственным интеллектом
 [Visit](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -561,7 +561,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 
 ### Character.io
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-character.io.webp?twic=v1/resize=240" alt="Character.io">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-character.io.webp" alt="Character.io">
 
 #### Бесплатный инструмент для создания свежих мультяшных персонажей
 [Visit](https://www.thataicollection.com/redirect/character.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -576,7 +576,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 
 ### Avtrs
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-avtrs.webp?twic=v1/resize=240" alt="Avtrs">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avtrs.webp" alt="Avtrs">
 
 #### Аватары, созданные счастливыми пользователями
 [Visit](https://www.thataicollection.com/redirect/avtrs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -591,7 +591,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 
 ### Autoportrait
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-autoportrait.webp?twic=v1/resize=240" alt="Autoportrait">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-autoportrait.webp" alt="Autoportrait">
 
 #### Автопортрет — создавайте портреты с помощью ИИ
 [Visit](https://www.thataicollection.com/redirect/autoportrait?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -606,7 +606,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 
 ### AIVatar
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aivatar.webp?twic=v1/resize=240" alt="AIVatar">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aivatar.webp" alt="AIVatar">
 
 #### AIVatar - Генератор волшебных аватаров
 [Visit](https://www.thataicollection.com/redirect/aivatar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -621,7 +621,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 
 ### AIprofilepic
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aiprofilepic.webp?twic=v1/resize=240" alt="AIprofilepic">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiprofilepic.webp" alt="AIprofilepic">
 
 #### Создавайте потрясающие фотографии профиля с помощью AI - AIProfilePic.art
 [Visit](https://www.thataicollection.com/redirect/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -646,7 +646,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 ## Чат-бот
 
 ### AChatsimple
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-achatsimple.webp?twic=v1/resize=240" alt="AChatsimple">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-achatsimple.webp" alt="AChatsimple">
 
 #### Бизнес-чат-бот ChatGPT стал проще для вас
 [Visit](https://www.thataicollection.com/redirect/achatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -661,7 +661,7 @@ ChatSimple — это платформа, которая специализир�
 
 
 ### SiteSpeakAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sitespeakai.webp?twic=v1/resize=240" alt="SiteSpeakAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sitespeakai.webp" alt="SiteSpeakAI">
 
 #### Автоматизируйте поддержку клиентов с помощью ChatGPT.
 [Visit](https://www.thataicollection.com/redirect/sitespeakai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -676,7 +676,7 @@ ChatSimple — это платформа, которая специализир�
 
 
 ### Dante
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dante.webp?twic=v1/resize=240" alt="Dante">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dante.webp" alt="Dante">
 
 #### Пользовательские чат-боты GPT, обученные на ваших данных
 [Visit](https://www.thataicollection.com/redirect/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -691,7 +691,7 @@ ChatSimple — это платформа, которая специализир�
 
 
 ### ChatBotKit
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chatbotkit.webp?twic=v1/resize=240" alt="ChatBotKit">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbotkit.webp" alt="ChatBotKit">
 
 #### Самый быстрый способ создания продвинутых чат-ботов с искусственным интеллектом
 [Visit](https://www.thataicollection.com/redirect/chatbotkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -706,7 +706,7 @@ ChatBotKit помогает вам создавать диалоговых ча�
 
 
 ### SiteGPT
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sitegpt.webp?twic=v1/resize=240" alt="SiteGPT">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sitegpt.webp" alt="SiteGPT">
 
 #### ChatGPT для каждого сайта
 [Visit](https://www.thataicollection.com/redirect/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -721,7 +721,7 @@ ChatBotKit помогает вам создавать диалоговых ча�
 
 
 ### NOLU
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-nolu.webp?twic=v1/resize=240" alt="NOLU">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nolu.webp" alt="NOLU">
 
 #### ВЗАИМОДЕЙСТВИЕ с ИИ должно быть ПРОСТЫМ.
 [Visit](https://www.thataicollection.com/redirect/nolu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -736,7 +736,7 @@ ChatBotKit помогает вам создавать диалоговых ча�
 
 
 ### Askrobi
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-askrobi.webp?twic=v1/resize=240" alt="Askrobi">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-askrobi.webp" alt="Askrobi">
 
 #### Сила ИИ в WhatsApp
 [Visit](https://www.thataicollection.com/redirect/askrobi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -761,7 +761,7 @@ ChatBotKit помогает вам создавать диалоговых ча�
 ## Помощник по коду и базе данных
 
 ### Swimm AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-swimm-ai.webp?twic=v1/resize=240" alt="Swimm AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-swimm-ai.webp" alt="Swimm AI">
 
 #### Ваша сверхмощная документация по коду
 [Visit](https://www.thataicollection.com/redirect/swimm-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -776,7 +776,7 @@ ChatBotKit помогает вам создавать диалоговых ча�
 
 
 ### CodiumAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-codiumai.webp?twic=v1/resize=240" alt="CodiumAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-codiumai.webp" alt="CodiumAI">
 
 #### Значимые тесты для занятых разработчиков
 [Visit](https://www.thataicollection.com/redirect/codiumai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -791,7 +791,7 @@ CodiumAI анализирует ваш код и создает содержат
 
 
 ### CodeWP
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-codewp.webp?twic=v1/resize=240" alt="CodeWP">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-codewp.webp" alt="CodeWP">
 
 #### CodeWP — Генератор кода и помощник WordPress с искусственным интеллектом
 [Visit](https://www.thataicollection.com/redirect/codewp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -806,7 +806,7 @@ CodeWP — это генератор кода WordPress, который испо
 
 
 ### ExplainDev
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-explaindev.webp?twic=v1/resize=240" alt="ExplainDev">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-explaindev.webp" alt="ExplainDev">
 
 #### ОбъяснениеDev — Объяснитель кода, который отвечает на ваши вопросы в контексте
 [Visit](https://www.thataicollection.com/redirect/explaindev?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -821,7 +821,7 @@ CodeWP — это генератор кода WordPress, который испо
 
 
 ### TLDR - Jetbrains IDE Plugin
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tldr---jetbrains-ide-plugin.webp?twic=v1/resize=240" alt="TLDR - Jetbrains IDE Plugin">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tldr---jetbrains-ide-plugin.webp" alt="TLDR - Jetbrains IDE Plugin">
 
 #### TLDR — объясните код простым английским языком
 [Visit](https://www.thataicollection.com/redirect/tldr---jetbrains-ide-plugin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -836,7 +836,7 @@ TLDR — это подключаемый модуль IDE, который исп
 
 
 ### Klu
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-klu.webp?twic=v1/resize=240" alt="Klu">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-klu.webp" alt="Klu">
 
 #### Klu.ai — это универсальная платформа, предназначенная для команд искусственного интеллекта для создания, развертывания и оптимизации приложений генеративного искусственного интеллекта. 
 [Visit](https://www.thataicollection.com/redirect/klu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -851,7 +851,7 @@ Klu.ai — это универсальная платформа, предназ�
 
 
 ### Whatthediff
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-whatthediff.webp?twic=v1/resize=240" alt="Whatthediff">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-whatthediff.webp" alt="Whatthediff">
 
 #### What-the-Diff — помощник по проверке кода на основе искусственного интеллекта.
 [Visit](https://www.thataicollection.com/redirect/whatthediff?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -876,7 +876,7 @@ Klu.ai — это универсальная платформа, предназ�
 ## Генерация контента и SEO
 
 ### CarbonCopy
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-carboncopy.webp?twic=v1/resize=240" alt="CarbonCopy">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-carboncopy.webp" alt="CarbonCopy">
 
 #### Инструмент для письма с искусственным интеллектом CarbonCopy и генератор контента
 [Visit](https://www.thataicollection.com/redirect/carboncopy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -891,7 +891,7 @@ Klu.ai — это универсальная платформа, предназ�
 
 
 ### Jasper.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jasper.ai.webp?twic=v1/resize=240" alt="Jasper.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jasper.ai.webp" alt="Jasper.ai">
 
 #### Джаспер - Копирайтер с искусственным интеллектом - Генератор контента с искусственным интеллектом для команд
 [Visit](https://www.thataicollection.com/redirect/jasper.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -906,7 +906,7 @@ Jasper — это генератор контента с искусственн�
 
 
 ### WordAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wordai.webp?twic=v1/resize=240" alt="WordAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordai.webp" alt="WordAI">
 
 #### Рерайтер текста с ИИ — WordAi
 [Visit](https://www.thataicollection.com/redirect/wordai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -921,7 +921,7 @@ Jasper — это генератор контента с искусственн�
 
 
 ### Dashword
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dashword.webp?twic=v1/resize=240" alt="Dashword">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dashword.webp" alt="Dashword">
 
 #### Пишите отличный контент быстро. Создавайте краткие описания контента и оптимизируйте свой контент для SEO.
 [Visit](https://www.thataicollection.com/redirect/dashword?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -936,7 +936,7 @@ Dashword — это программное обеспечение №1 для о
 
 
 ### unbound
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-unbound.webp?twic=v1/resize=240" alt="unbound">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unbound.webp" alt="unbound">
 
 #### Автоматизируйте создание контента для вашего малого бизнеса
 [Visit](https://www.thataicollection.com/redirect/unbound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -951,7 +951,7 @@ Dashword — это программное обеспечение №1 для о
 
 
 ### Neuraltext
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-neuraltext.webp?twic=v1/resize=240" alt="Neuraltext">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuraltext.webp" alt="Neuraltext">
 
 #### Neuraltext - писатель AI и платформа SEO.
 [Visit](https://www.thataicollection.com/redirect/neuraltext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -966,7 +966,7 @@ Dashword — это программное обеспечение №1 для о
 
 
 ### Intelligent paraphraser
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-intelligent-paraphraser.webp?twic=v1/resize=240" alt="Intelligent paraphraser">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-intelligent-paraphraser.webp" alt="Intelligent paraphraser">
 
 #### AISEO - помощник по написанию ИИ, копирайтинг ИИ и генератор контента
 [Visit](https://www.thataicollection.com/redirect/intelligent-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -991,7 +991,7 @@ Dashword — это программное обеспечение №1 для о
 ## Инструментарий для авторов
 
 ### Damn Good Tools
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-damn-good-tools.webp?twic=v1/resize=240" alt="Damn Good Tools">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools">
 
 #### Ох уж эти чертовски хорошие инструменты
 Простые в использовании и интересные инструменты — бесплатные (и с открытым исходным кодом).
@@ -1008,7 +1008,7 @@ Dashword — это программное обеспечение №1 для о
 
 
 ### Clipdrop
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-clipdrop.webp?twic=v1/resize=240" alt="Clipdrop">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clipdrop.webp" alt="Clipdrop">
 
 #### Создавайте потрясающие визуальные эффекты за считанные секунды
 [Visit](https://www.thataicollection.com/redirect/clipdrop?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1023,7 +1023,7 @@ Dashword — это программное обеспечение №1 для о
 
 
 ### Descript
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-descript.webp?twic=v1/resize=240" alt="Descript">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-descript.webp" alt="Descript">
 
 #### Появился новый способ создания видео и подкастов. Хороший путь.
 [Visit](https://www.thataicollection.com/redirect/descript?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1038,7 +1038,7 @@ Descript — это простой, мощный и увлекательный �
 
 
 ### Cutout Pro
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cutout-pro.webp?twic=v1/resize=240" alt="Cutout Pro">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cutout-pro.webp" alt="Cutout Pro">
 
 #### Cutout.Pro - AI Photo Editing - Платформа для создания визуального контента, лучшая для дизайна изображений и видео
 [Visit](https://www.thataicollection.com/redirect/cutout-pro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1053,7 +1053,7 @@ Descript — это простой, мощный и увлекательный �
 
 
 ### Fermat
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fermat.webp?twic=v1/resize=240" alt="Fermat">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fermat.webp" alt="Fermat">
 
 #### Креативность увеличена для создания контента
 [Visit](https://www.thataicollection.com/redirect/fermat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1068,7 +1068,7 @@ Descript — это простой, мощный и увлекательный �
 
 
 ### Adobe Express
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-express.webp?twic=v1/resize=240" alt="Adobe Express">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-adobe-express.webp" alt="Adobe Express">
 
 #### Создавайте эскизы YouTube бесплатно за считанные минуты.
 [Visit](https://www.thataicollection.com/redirect/adobe-express?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1083,7 +1083,7 @@ Descript — это простой, мощный и увлекательный �
 
 
 ### Lightricks
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lightricks.webp?twic=v1/resize=240" alt="Lightricks">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lightricks.webp" alt="Lightricks">
 
 #### Дом для авторов повсюду
 [Visit](https://www.thataicollection.com/redirect/lightricks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1108,7 +1108,7 @@ Descript — это простой, мощный и увлекательный �
 ## Служба поддержки
 
 ### Webapi.ai 2.0
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-webapi.ai-2.0.webp?twic=v1/resize=240" alt="Webapi.ai 2.0">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-webapi.ai-2.0.webp" alt="Webapi.ai 2.0">
 
 #### ChatGPT для обслуживания клиентов
 [Visit](https://www.thataicollection.com/redirect/webapi.ai-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1123,7 +1123,7 @@ Descript — это простой, мощный и увлекательный �
 
 
 ### AI Answers by Cohere
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-answers-by-cohere.webp?twic=v1/resize=240" alt="AI Answers by Cohere">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-answers-by-cohere.webp" alt="AI Answers by Cohere">
 
 #### Разговорная платформа искусственного интеллекта для поддержки клиентов — Cohere
 [Visit](https://www.thataicollection.com/redirect/ai-answers-by-cohere?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1138,7 +1138,7 @@ Descript — это простой, мощный и увлекательный �
 
 
 ### Bahasa
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-bahasa.webp?twic=v1/resize=240" alt="Bahasa">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bahasa.webp" alt="Bahasa">
 
 #### Bahasa.ai - чат-бот, который полностью обслуживает клиентов
 [Visit](https://www.thataicollection.com/redirect/bahasa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1153,7 +1153,7 @@ Descript — это простой, мощный и увлекательный �
 
 
 ### ResolveAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-resolveai.webp?twic=v1/resize=240" alt="ResolveAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-resolveai.webp" alt="ResolveAI">
 
 #### Решить AI
 [Visit](https://www.thataicollection.com/redirect/resolveai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1168,7 +1168,7 @@ Descript — это простой, мощный и увлекательный �
 
 
 ### EddyAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-eddyai.webp?twic=v1/resize=240" alt="EddyAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eddyai.webp" alt="EddyAI">
 
 #### Продавайте и поддерживайте своих клиентов автоматически 24/7
 [Visit](https://www.thataicollection.com/redirect/eddyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1183,7 +1183,7 @@ Descript — это простой, мощный и увлекательный �
 
 
 ### Poised 2.0
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-poised-2.0.webp?twic=v1/resize=240" alt="Poised 2.0">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-poised-2.0.webp" alt="Poised 2.0">
 
 #### Poised - бесплатный тренер по общению на базе искусственного интеллекта
 [Visit](https://www.thataicollection.com/redirect/poised-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1198,7 +1198,7 @@ Descript — это простой, мощный и увлекательный �
 
 
 ### OneTone.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-onetone.ai.webp?twic=v1/resize=240" alt="OneTone.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-onetone.ai.webp" alt="OneTone.ai">
 
 #### Мы помогаем группам поддержки общаться быстрее и точнее
 [Visit](https://www.thataicollection.com/redirect/onetone.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1223,7 +1223,7 @@ OneTone.ai — это платформа на базе искусственно�
 ## Электронная торговля
 
 ### Octie.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-octie.ai.webp?twic=v1/resize=240" alt="Octie.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-octie.ai.webp" alt="Octie.ai">
 
 #### Octie.ai - Ваш ИИ помощник по маркетингу электронной коммерции
 [Visit](https://www.thataicollection.com/redirect/octie.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1238,7 +1238,7 @@ OneTone.ai — это платформа на базе искусственно�
 
 
 ### Embolden
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-embolden.webp?twic=v1/resize=240" alt="Embolden">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-embolden.webp" alt="Embolden">
 
 #### Используйте ИИ для написания текстов для электронной коммерции.
 [Visit](https://www.thataicollection.com/redirect/embolden?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1253,7 +1253,7 @@ Embolden использует искусственный интеллект, ч�
 
 
 ### Wizishop
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wizishop.webp?twic=v1/resize=240" alt="Wizishop">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wizishop.webp" alt="Wizishop">
 
 #### РАЗВИВАЙТЕ СВОЙ БИЗНЕС С ПОМОЩЬЮ ЭЛЕКТРОННОЙ КОММЕРЦИИ
 [Visit](https://www.thataicollection.com/redirect/wizishop?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1268,7 +1268,7 @@ WiziShop делает электронную коммерцию на основ�
 
 
 ### DoMyShoot
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-domyshoot.webp?twic=v1/resize=240" alt="DoMyShoot">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-domyshoot.webp" alt="DoMyShoot">
 
 #### DoMyShoot — упрощенная фотосъемка товаров
 [Visit](https://www.thataicollection.com/redirect/domyshoot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1283,7 +1283,7 @@ WiziShop делает электронную коммерцию на основ�
 
 
 ### manifest
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-manifest.webp?twic=v1/resize=240" alt="manifest">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-manifest.webp" alt="manifest">
 
 #### Переосмысление электронной коммерции с помощью искусственного интеллекта
 [Visit](https://www.thataicollection.com/redirect/manifest?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1298,7 +1298,7 @@ WiziShop делает электронную коммерцию на основ�
 
 
 ### Gizzmo Ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gizzmo-ai.webp?twic=v1/resize=240" alt="Gizzmo Ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gizzmo-ai.webp" alt="Gizzmo Ai">
 
 #### Увеличьте свои доходы с партнерским контентом WordPress.
 [Visit](https://www.thataicollection.com/redirect/gizzmo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1313,7 +1313,7 @@ Gizzmo — мощный плагин WordPress, упрощающий проце�
 
 
 ### VModel
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-vmodel.webp?twic=v1/resize=240" alt="VModel">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vmodel.webp" alt="VModel">
 
 #### vModel — это генератор модных моделей с искусственным интеллектом для эффективной и экономичной фотосъемки на модели. Он способствует успеху в розничной торговле, снижая затраты на фотосъемку моделей на 90%.
 [Visit](https://www.thataicollection.com/redirect/vmodel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1338,7 +1338,7 @@ vModel использует технологию искусственного и
 ## Образование и обучение
 
 ### QUIZGECKO
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-quizgecko.webp?twic=v1/resize=240" alt="QUIZGECKO">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quizgecko.webp" alt="QUIZGECKO">
 
 #### Хватит тратить время на создание тестов вручную
 [Visit](https://www.thataicollection.com/redirect/quizgecko?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1353,7 +1353,7 @@ vModel использует технологию искусственного и
 
 
 ### Botta
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-botta.webp?twic=v1/resize=240" alt="Botta">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-botta.webp" alt="Botta">
 
 #### Проблемы с темой? Познакомьтесь с Боттой
 [Visit](https://www.thataicollection.com/redirect/botta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1368,7 +1368,7 @@ vModel использует технологию искусственного и
 
 
 ### Speakingclubai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-speakingclubai.webp?twic=v1/resize=240" alt="Speakingclubai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-speakingclubai.webp" alt="Speakingclubai">
 
 #### Разговорный клуб ИИ
 [Visit](https://www.thataicollection.com/redirect/speakingclubai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1383,7 +1383,7 @@ vModel использует технологию искусственного и
 
 
 ### Lorro
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lorro.webp?twic=v1/resize=240" alt="Lorro">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lorro.webp" alt="Lorro">
 
 #### Станьте свободно говорящим по-английски за небольшие деньги. Поговорив с репетитором по ИИ
 [Visit](https://www.thataicollection.com/redirect/lorro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1398,7 +1398,7 @@ vModel использует технологию искусственного и
 
 
 ### TutorAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tutorai.webp?twic=v1/resize=240" alt="TutorAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tutorai.webp" alt="TutorAI">
 
 #### Узнайте все, что угодно, выполнив поиск по нужной теме
 [Visit](https://www.thataicollection.com/redirect/tutorai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1413,7 +1413,7 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 
 ### Teacherbot
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-teacherbot.webp?twic=v1/resize=240" alt="Teacherbot">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-teacherbot.webp" alt="Teacherbot">
 
 #### Teacherbot — инструмент, которого заслуживает каждый учитель
 [Visit](https://www.thataicollection.com/redirect/teacherbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1428,7 +1428,7 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 
 ### Replicate
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-replicate.webp?twic=v1/resize=240" alt="Replicate">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-replicate.webp" alt="Replicate">
 
 #### Машинное обучение не должно быть таким сложным.
 [Visit](https://www.thataicollection.com/redirect/replicate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1453,7 +1453,7 @@ TutoEAI Learn Anything — это поисковая система для из�
 ## Помощник по электронной почте
 
 ### Smartwriter
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-smartwriter.webp?twic=v1/resize=240" alt="Smartwriter">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-smartwriter.webp" alt="Smartwriter">
 
 #### Создавайте тысячи персонализированных электронных писем, которые принесут вам в 8 раз больше ответов за считанные минуты с помощью ИИ.
 [Visit](https://www.thataicollection.com/redirect/smartwriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1468,7 +1468,7 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 
 ### Warmer.Ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-warmer.ai.webp?twic=v1/resize=240" alt="Warmer.Ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-warmer.ai.webp" alt="Warmer.Ai">
 
 #### WARMER.ai - Писатель электронной почты AI
 [Visit](https://www.thataicollection.com/redirect/warmer.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1483,7 +1483,7 @@ Warmer использует персонализацию электронной 
 
 
 ### DraftLab
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-draftlab.webp?twic=v1/resize=240" alt="DraftLab">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-draftlab.webp" alt="DraftLab">
 
 #### DraftLab AI: пишите более качественные электронные письма быстрее с помощью ИИ
 [Visit](https://www.thataicollection.com/redirect/draftlab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1498,7 +1498,7 @@ Warmer использует персонализацию электронной 
 
 
 ### Ellie
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ellie.webp?twic=v1/resize=240" alt="Ellie">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ellie.webp" alt="Ellie">
 
 #### Элли — ваш помощник по работе с электронной почтой с искусственным интеллектом
 [Visit](https://www.thataicollection.com/redirect/ellie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1513,7 +1513,7 @@ Warmer использует персонализацию электронной 
 
 
 ### EmailTriager
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-emailtriager.webp?twic=v1/resize=240" alt="EmailTriager">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-emailtriager.webp" alt="EmailTriager">
 
 #### EmailTriager · Электронная почта на автопилоте.
 [Visit](https://www.thataicollection.com/redirect/emailtriager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1528,7 +1528,7 @@ Warmer использует персонализацию электронной 
 
 
 ### Quicklines
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-quicklines.webp?twic=v1/resize=240" alt="Quicklines">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quicklines.webp" alt="Quicklines">
 
 #### Пожизненный доступ к Quicklines — всего $59
 [Visit](https://www.thataicollection.com/redirect/quicklines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1543,7 +1543,7 @@ Quicklines – это ваш новый помощник на базе иску
 
 
 ### superReply
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-superreply.webp?twic=v1/resize=240" alt="superReply">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-superreply.webp" alt="superReply">
 
 #### Обновите свою электронную игру
 [Visit](https://www.thataicollection.com/redirect/superreply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1568,7 +1568,7 @@ Quicklines – это ваш новый помощник на базе иску
 ## Мода
 
 ### FashionAdvisorAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fashionadvisorai.webp?twic=v1/resize=240" alt="FashionAdvisorAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fashionadvisorai.webp" alt="FashionAdvisorAI">
 
 #### FashionAdvisor.AI — задавайте вопросы и получайте ответы от FashionAdvisor.AI
 [Visit](https://www.thataicollection.com/redirect/fashionadvisorai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1583,7 +1583,7 @@ FashionAdvisor — это искусственный интеллект, осн�
 
 
 ### Visualhound
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-visualhound.webp?twic=v1/resize=240" alt="Visualhound">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-visualhound.webp" alt="Visualhound">
 
 #### VisualHound — прототипируйте свои идеи дизайна одежды с помощью ИИ
 [Visit](https://www.thataicollection.com/redirect/visualhound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1598,7 +1598,7 @@ FashionAdvisor — это искусственный интеллект, осн�
 
 
 ### SwagAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-swagai.webp?twic=v1/resize=240" alt="SwagAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-swagai.webp" alt="SwagAI">
 
 #### Украсьте свой скучный гардероб с помощью
 Сувениры, созданные искусственным интеллектом.
@@ -1625,7 +1625,7 @@ SwagAI — изображения, созданные искусственным
 ## Веселье
 
 ### CharacterAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-characterai.webp?twic=v1/resize=240" alt="CharacterAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-characterai.webp" alt="CharacterAI">
 
 #### Character.AI позволяет создавать персонажей и разговаривать с ними.
 [Visit](https://www.thataicollection.com/redirect/characterai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1640,7 +1640,7 @@ SwagAI — изображения, созданные искусственным
 
 
 ### Ask RBG
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ask-rbg.webp?twic=v1/resize=240" alt="Ask RBG">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ask-rbg.webp" alt="Ask RBG">
 
 #### Что сказал бы РБГ (вероятно)?
 [Visit](https://www.thataicollection.com/redirect/ask-rbg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1655,7 +1655,7 @@ SwagAI — изображения, созданные искусственным
 
 
 ### Philosophy
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-philosophy.webp?twic=v1/resize=240" alt="Philosophy">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-philosophy.webp" alt="Philosophy">
 
 #### Спросите философа
 [Visit](https://www.thataicollection.com/redirect/philosophy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1670,7 +1670,7 @@ SwagAI — изображения, созданные искусственным
 
 
 ### Botify
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-botify.webp?twic=v1/resize=240" alt="Botify">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-botify.webp" alt="Botify">
 
 #### Ботифай ИИ
 [Visit](https://www.thataicollection.com/redirect/botify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1685,7 +1685,7 @@ SwagAI — изображения, созданные искусственным
 
 
 ### StoriesForKids
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-storiesforkids.webp?twic=v1/resize=240" alt="StoriesForKids">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storiesforkids.webp" alt="StoriesForKids">
 
 #### StoriesForKids.ai: Персонализированные детские книги с использованием ИИ
 [Visit](https://www.thataicollection.com/redirect/storiesforkids?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1700,7 +1700,7 @@ SwagAI — изображения, созданные искусственным
 
 
 ### Excuses AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-excuses-ai.webp?twic=v1/resize=240" alt="Excuses AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-excuses-ai.webp" alt="Excuses AI">
 
 #### Извините Генератор
 [Visit](https://www.thataicollection.com/redirect/excuses-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1715,7 +1715,7 @@ SwagAI — изображения, созданные искусственным
 
 
 ### Askmybook
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-askmybook.webp?twic=v1/resize=240" alt="Askmybook">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-askmybook.webp" alt="Askmybook">
 
 #### Спросите мою книгу: предприниматель-минималист
 [Visit](https://www.thataicollection.com/redirect/askmybook?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1740,7 +1740,7 @@ SwagAI — изображения, созданные искусственным
 ## Игры
 
 ### charisma
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-charisma.webp?twic=v1/resize=240" alt="charisma">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-charisma.webp" alt="charisma">
 
 #### Мощные цифровые люди в реальном времени
 [Visit](https://www.thataicollection.com/redirect/charisma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1755,7 +1755,7 @@ SwagAI — изображения, созданные искусственным
 
 
 ### hidden door
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hidden-door.webp?twic=v1/resize=240" alt="hidden door">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hidden-door.webp" alt="hidden door">
 
 #### Привет, миры!
 [Visit](https://www.thataicollection.com/redirect/hidden-door?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1770,7 +1770,7 @@ SwagAI — изображения, созданные искусственным
 
 
 ### latitude
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-latitude.webp?twic=v1/resize=240" alt="latitude">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-latitude.webp" alt="latitude">
 
 #### Будущее игр, созданных искусственным интеллектом
 [Visit](https://www.thataicollection.com/redirect/latitude?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1785,7 +1785,7 @@ SwagAI — изображения, созданные искусственным
 
 
 ### Chess AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chess-ai.webp?twic=v1/resize=240" alt="Chess AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chess-ai.webp" alt="Chess AI">
 
 #### Betafish — объединение AlphaZero и Stockfish.
 [Visit](https://www.thataicollection.com/redirect/chess-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1800,7 +1800,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### GGPredict
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ggpredict.webp?twic=v1/resize=240" alt="GGPredict">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ggpredict.webp" alt="GGPredict">
 
 #### Тренируйтесь умнее. Ранг вверх быстрее.
 [Visit](https://www.thataicollection.com/redirect/ggpredict?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1815,7 +1815,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### Assetsai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-assetsai.webp?twic=v1/resize=240" alt="Assetsai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-assetsai.webp" alt="Assetsai">
 
 #### УНИКАЛЬНЫЕ И ОБЕСПЕЧЕННЫЕ АКТИВЫ ДЛЯ ВАШИХ ИГР
 [Visit](https://www.thataicollection.com/redirect/assetsai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1830,7 +1830,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### Scenario
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-scenario.webp?twic=v1/resize=240" alt="Scenario">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scenario.webp" alt="Scenario">
 
 #### Сценарий
 [Visit](https://www.thataicollection.com/redirect/scenario?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1855,7 +1855,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 ## Идеи для подарка
 
 ### Lovelines
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lovelines.webp?twic=v1/resize=240" alt="Lovelines">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lovelines.webp" alt="Lovelines">
 
 #### Lovelines.xyz - Поделись своей любовью с подарками на память, сделанными искусственным интеллектом
 [Visit](https://www.thataicollection.com/redirect/lovelines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1870,7 +1870,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### Text2present
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-text2present.webp?twic=v1/resize=240" alt="Text2present">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-text2present.webp" alt="Text2present">
 
 #### text2present.com - Креативные подарки от занятых людей.
 [Visit](https://www.thataicollection.com/redirect/text2present?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1885,7 +1885,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### Outdone V2
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-outdone-v2.webp?twic=v1/resize=240" alt="Outdone V2">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-outdone-v2.webp" alt="Outdone V2">
 
 #### Найдите идеальный подарок за считанные минуты или меньше
 [Visit](https://www.thataicollection.com/redirect/outdone-v2?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1900,7 +1900,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### Gifts Genie
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gifts-genie.webp?twic=v1/resize=240" alt="Gifts Genie">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gifts-genie.webp" alt="Gifts Genie">
 
 #### Genie - Генератор подарков с искусственным интеллектом
 [Visit](https://www.thataicollection.com/redirect/gifts-genie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1915,7 +1915,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### GiftBot
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-giftbot.webp?twic=v1/resize=240" alt="GiftBot">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-giftbot.webp" alt="GiftBot">
 
 ####  Получить помощь в виде подарка
 [Visit](https://www.thataicollection.com/redirect/giftbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1930,7 +1930,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### Giftastic AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-giftastic-ai.webp?twic=v1/resize=240" alt="Giftastic AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-giftastic-ai.webp" alt="Giftastic AI">
 
 #### Giftastic.ai - Идеальный подарок для вашего особенного!
 [Visit](https://www.thataicollection.com/redirect/giftastic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1945,7 +1945,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### Gift Genie
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gift-genie.webp?twic=v1/resize=240" alt="Gift Genie">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gift-genie.webp" alt="Gift Genie">
 
 #### Gift Genie AI - бесплатные персонализированные идеи подарков на Рождество, дни рождения, праздники и т. д.!
 [Visit](https://www.thataicollection.com/redirect/gift-genie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1970,7 +1970,7 @@ Gift Genie AI — это приложение на базе искусствен
 ## Здравоохранение
 
 ### Replika
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-replika.webp?twic=v1/resize=240" alt="Replika">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-replika.webp" alt="Replika">
 
 #### Компаньон с искусственным интеллектом, который заботится
 [Visit](https://www.thataicollection.com/redirect/replika?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1985,7 +1985,7 @@ Gift Genie AI — это приложение на базе искусствен
 
 
 ### Getactyv
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-getactyv.webp?twic=v1/resize=240" alt="Getactyv">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getactyv.webp" alt="Getactyv">
 
 #### Getactyv - Платформа для здоровья и фитнеса с искусственным интеллектом и компьютерным зрением
 [Visit](https://www.thataicollection.com/redirect/getactyv?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2000,7 +2000,7 @@ Gift Genie AI — это приложение на базе искусствен
 
 
 ### Ubie AI Symptom Checker
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ubie-ai-symptom-checker.webp?twic=v1/resize=240" alt="Ubie AI Symptom Checker">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ubie-ai-symptom-checker.webp" alt="Ubie AI Symptom Checker">
 
 #### Проверьте симптомы и найдите причины с помощью ИИ
 [Visit](https://www.thataicollection.com/redirect/ubie-ai-symptom-checker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2025,7 +2025,7 @@ Gift Genie AI — это приложение на базе искусствен
 ## Человеческие ресурсы и резюме
 
 ### AI Resume Editor
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-resume-editor.webp?twic=v1/resize=240" alt="AI Resume Editor">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-resume-editor.webp" alt="AI Resume Editor">
 
 #### Как мир делает резюме. Самый умный конструктор резюме на основе GPT.
 [Visit](https://www.thataicollection.com/redirect/ai-resume-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2040,7 +2040,7 @@ Rezi — единственная платформа для резюме, исп
 
 
 ### Prodigy AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prodigy-ai.webp?twic=v1/resize=240" alt="Prodigy AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prodigy-ai.webp" alt="Prodigy AI">
 
 #### Использование ИИ для улучшения карьеры инженеров-программистов
 [Visit](https://www.thataicollection.com/redirect/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2055,7 +2055,7 @@ Rezi — единственная платформа для резюме, исп
 
 
 ### rankode
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rankode.webp?twic=v1/resize=240" alt="rankode">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rankode.webp" alt="rankode">
 
 #### ИИ для управления персоналом — Rankode
 [Visit](https://www.thataicollection.com/redirect/rankode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2070,7 +2070,7 @@ Rezi — единственная платформа для резюме, исп
 
 
 ### LazyApply
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lazyapply.webp?twic=v1/resize=240" alt="LazyApply">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lazyapply.webp" alt="LazyApply">
 
 #### Автоматизируйте процесс подачи заявления о приеме на работу
 [Visit](https://www.thataicollection.com/redirect/lazyapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2085,7 +2085,7 @@ Rezi — единственная платформа для резюме, исп
 
 
 ### Coverquick
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-coverquick.webp?twic=v1/resize=240" alt="Coverquick">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-coverquick.webp" alt="Coverquick">
 
 #### Превратите свои идеи в интересный контент без особых усилий.
 [Visit](https://www.thataicollection.com/redirect/coverquick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2101,7 +2101,7 @@ CoverQuick — это революционная платформа для уд�
 
 
 ### HireYaY
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hireyay.webp?twic=v1/resize=240" alt="HireYaY">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hireyay.webp" alt="HireYaY">
 
 #### HireYaY, рекрутинговая платформа для стартапов
 [Visit](https://www.thataicollection.com/redirect/hireyay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2116,7 +2116,7 @@ CoverQuick — это революционная платформа для уд�
 
 
 ### JD Generator
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jd-generator.webp?twic=v1/resize=240" alt="JD Generator">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jd-generator.webp" alt="JD Generator">
 
 #### Познакомьтесь с командой - HireQuotient
 [Visit](https://www.thataicollection.com/redirect/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2141,7 +2141,7 @@ CoverQuick — это революционная платформа для уд�
 ## Генерация идей
 
 ### Validator AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-validator-ai.webp?twic=v1/resize=240" alt="Validator AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-validator-ai.webp" alt="Validator AI">
 
 #### Начните свой предпринимательский путь сегодня бесплатно
 [Visit](https://www.thataicollection.com/redirect/validator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2156,7 +2156,7 @@ CoverQuick — это революционная платформа для уд�
 
 
 ### Paperade
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paperade.webp?twic=v1/resize=240" alt="Paperade">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paperade.webp" alt="Paperade">
 
 #### Генератор идей для стартапов Paperade
 [Visit](https://www.thataicollection.com/redirect/paperade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2171,7 +2171,7 @@ Paperade — это первый инструмент на основе иску
 
 
 ### Business Idea Generator
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-business-idea-generator.webp?twic=v1/resize=240" alt="Business Idea Generator">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-business-idea-generator.webp" alt="Business Idea Generator">
 
 #### Мозговой штурм бизнес-идей
 [Visit](https://www.thataicollection.com/redirect/business-idea-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2186,7 +2186,7 @@ Paperade — это первый инструмент на основе иску
 
 
 ### Ideasai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ideasai.webp?twic=v1/resize=240" alt="Ideasai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ideasai.webp" alt="Ideasai">
 
 #### Ideasai — идеи для стартапов на базе Openai
 [Visit](https://www.thataicollection.com/redirect/ideasai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2201,7 +2201,7 @@ Paperade — это первый инструмент на основе иску
 
 
 ### Videomuse
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-videomuse.webp?twic=v1/resize=240" alt="Videomuse">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videomuse.webp" alt="Videomuse">
 
 #### Создавайте свежие идеи для видео без особых усилий, просто вставив URL своего канала. За считанные секунды получите массу вдохновения, адаптированного к вашему контенту.
 [Visit](https://www.thataicollection.com/redirect/videomuse?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2216,7 +2216,7 @@ Paperade — это первый инструмент на основе иску
 
 
 ### My Spicy Vanilla
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-my-spicy-vanilla.webp?twic=v1/resize=240" alt="My Spicy Vanilla">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-spicy-vanilla.webp" alt="My Spicy Vanilla">
 
 #### Генератор идей для свидания с искусственным интеллектом от My Spicy 
 [Visit](https://www.thataicollection.com/redirect/my-spicy-vanilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2245,7 +2245,7 @@ Paperade — это первый инструмент на основе иску
 ## Юридический
 
 ### Paralegal AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paralegal-ai.webp?twic=v1/resize=240" alt="Paralegal AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paralegal-ai.webp" alt="Paralegal AI">
 
 #### Параюрист ИИ
 [Visit](https://www.thataicollection.com/redirect/paralegal-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2260,7 +2260,7 @@ Paperade — это первый инструмент на основе иску
 
 
 ### Compliance Quarter
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-compliance-quarter.webp?twic=v1/resize=240" alt="Compliance Quarter">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-compliance-quarter.webp" alt="Compliance Quarter">
 
 #### Экспертные системы и ресурсы по соблюдению нормативных требований — квартал соответствия нормативным требованиям
 [Visit](https://www.thataicollection.com/redirect/compliance-quarter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2275,7 +2275,7 @@ Paperade — это первый инструмент на основе иску
 
 
 ### Equally.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-equally.ai.webp?twic=v1/resize=240" alt="Equally.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-equally.ai.webp" alt="Equally.ai">
 
 #### Соответствие веб-доступности для всех
 [Visit](https://www.thataicollection.com/redirect/equally.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2290,7 +2290,7 @@ Paperade — это первый инструмент на основе иску
 
 
 ### DoNotPay
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-donotpay.webp?twic=v1/resize=240" alt="DoNotPay">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-donotpay.webp" alt="DoNotPay">
 
 #### Первый в мире робот-адвокат
 [Visit](https://www.thataicollection.com/redirect/donotpay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2305,7 +2305,7 @@ Paperade — это первый инструмент на основе иску
 
 
 ### PatentPal
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-patentpal.webp?twic=v1/resize=240" alt="PatentPal">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-patentpal.webp" alt="PatentPal">
 
 #### Генеративный ИИ для интеллектуальной собственности
 [Visit](https://www.thataicollection.com/redirect/patentpal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2320,7 +2320,7 @@ Paperade — это первый инструмент на основе иску
 
 
 ### Spellbook
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-spellbook.webp?twic=v1/resize=240" alt="Spellbook">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-spellbook.webp" alt="Spellbook">
 
 #### Составляйте контракты в 3 раза быстрее с помощью ИИ
 [Visit](https://www.thataicollection.com/redirect/spellbook?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2345,7 +2345,7 @@ Paperade — это первый инструмент на основе иску
 ## Генератор логотипов
 
 ### Looka
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-looka.webp?twic=v1/resize=240" alt="Looka">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka">
 
 #### Бесплатный конструктор логотипов и интеллектуальный бренд-дизайнер
 [Visit](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2360,7 +2360,7 @@ Paperade — это первый инструмент на основе иску
 
 
 ### Text To Book Cover
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-text-to-book-cover.webp?twic=v1/resize=240" alt="Text To Book Cover">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-text-to-book-cover.webp" alt="Text To Book Cover">
 
 #### Генерация изображений AI для команд. Вы можете легко создавать логотип AI, обложки книг AI, плакаты AI и многое другое - Stockimg AI
 [Visit](https://www.thataicollection.com/redirect/text-to-book-cover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2375,7 +2375,7 @@ Paperade — это первый инструмент на основе иску
 
 
 ### Make Logo AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-make-logo-ai.webp?twic=v1/resize=240" alt="Make Logo AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-make-logo-ai.webp" alt="Make Logo AI">
 
 #### MakeLogo.AI: получите идеальный логотип для своего стартапа.
 [Visit](https://www.thataicollection.com/redirect/make-logo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2390,7 +2390,7 @@ Paperade — это первый инструмент на основе иску
 
 
 ### Logo Rank
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-logo-rank.webp?twic=v1/resize=240" alt="Logo Rank">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-logo-rank.webp" alt="Logo Rank">
 
 #### Brandmark Logo Maker - самый передовой инструмент для разработки логотипов с искусственным интеллектом
 [Visit](https://www.thataicollection.com/redirect/logo-rank?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2416,7 +2416,7 @@ Paperade — это первый инструмент на основе иску
 ## Помощник по встречам
 
 ### Fireflies
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fireflies.webp?twic=v1/resize=240" alt="Fireflies">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fireflies.webp" alt="Fireflies">
 
 #### Fireflies.Ai — автоматизируйте свою
 заметки о собраниях — блокнот и аналитика разговоров
@@ -2433,7 +2433,7 @@ Fireflies.ai помогает вашей команде записывать, т
 
 
 ### Jamie
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jamie.webp?twic=v1/resize=240" alt="Jamie">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jamie.webp" alt="Jamie">
 
 #### Джейми — помощник по искусственному интеллекту для составления отчетов о совещаниях
 [Visit](https://www.thataicollection.com/redirect/jamie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2448,7 +2448,7 @@ Fireflies.ai помогает вашей команде записывать, т
 
 
 ### Supernormal
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-supernormal.webp?twic=v1/resize=240" alt="Supernormal">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supernormal.webp" alt="Supernormal">
 
 #### Supernormal — искусственный интеллект, который пишет заметки о ваших встречах
 [Visit](https://www.thataicollection.com/redirect/supernormal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2465,7 +2465,7 @@ Supernormal делает заметки во время встречи и авт
 
 
 ### Wudpecker
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wudpecker.webp?twic=v1/resize=240" alt="Wudpecker">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wudpecker.webp" alt="Wudpecker">
 
 #### Wudpecker — это инструмент для встреч с искусственным интеллектом, который устанавливает новый стандарт по умолчанию для хранения информации о собраниях.
 Получайте сводки, действия и аналитическую информацию из Zoom, Google Meet и Microsoft Teams.
@@ -2487,7 +2487,7 @@ Supernormal делает заметки во время встречи и авт
 
 
 ### Avoma
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-avoma.webp?twic=v1/resize=240" alt="Avoma">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avoma.webp" alt="Avoma">
 
 #### Ускорьте производительность своей команды и рост доходов компании
 [Visit](https://www.thataicollection.com/redirect/avoma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2502,7 +2502,7 @@ Supernormal делает заметки во время встречи и авт
 
 
 ### Fathom
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fathom.webp?twic=v1/resize=240" alt="Fathom">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fathom.webp" alt="Fathom">
 
 #### Повысьте производительность с помощью
 собственный бесплатный помощник по организации встреч с искусственным интеллектом
@@ -2518,7 +2518,7 @@ Fathom записывает, расшифровывает, выделяет и �
 
 
 ### Otter
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-otter.webp?twic=v1/resize=240" alt="Otter">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-otter.webp" alt="Otter">
 
 #### Otter - Восстановите свое расписание вместе с Otter.
 [Visit](https://www.thataicollection.com/redirect/otter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2543,7 +2543,7 @@ Fathom записывает, расшифровывает, выделяет и �
 ## Генерация музыки и аудио
 
 ### Emergent Drums
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-emergent-drums.webp?twic=v1/resize=240" alt="Emergent Drums">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-emergent-drums.webp" alt="Emergent Drums">
 
 #### Создавайте уникальные барабанные сэмплы с помощью искусственного интеллекта
 [Visit](https://www.thataicollection.com/redirect/emergent-drums?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2558,7 +2558,7 @@ Fathom записывает, расшифровывает, выделяет и �
 
 
 ### LALAL.AI Voice Cleaner
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lalal.ai-voice-cleaner.webp?twic=v1/resize=240" alt="LALAL.AI Voice Cleaner">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lalal.ai-voice-cleaner.webp" alt="LALAL.AI Voice Cleaner">
 
 #### Извлечение вокала, аккомпанемента и различных инструментов из любого аудио и видео
 [Visit](https://www.thataicollection.com/redirect/lalal.ai-voice-cleaner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2573,7 +2573,7 @@ Fathom записывает, расшифровывает, выделяет и �
 
 
 ### Adobe Podcast
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-podcast.webp?twic=v1/resize=240" alt="Adobe Podcast">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-adobe-podcast.webp" alt="Adobe Podcast">
 
 #### Adobe Podcast — аудиозапись и редактирование с помощью ИИ, все в Интернете
 [Visit](https://www.thataicollection.com/redirect/adobe-podcast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2588,7 +2588,7 @@ Fathom записывает, расшифровывает, выделяет и �
 
 
 ### Adobe Mic Check
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-mic-check.webp?twic=v1/resize=240" alt="Adobe Mic Check">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-adobe-mic-check.webp" alt="Adobe Mic Check">
 
 #### Adobe Mic Check — проверьте свой микрофон бесплатно
 [Visit](https://www.thataicollection.com/redirect/adobe-mic-check?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2604,7 +2604,7 @@ Fathom записывает, расшифровывает, выделяет и �
 
 
 ### Krisp
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-krisp.webp?twic=v1/resize=240" alt="Krisp">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-krisp.webp" alt="Krisp">
 
 #### Приложение для шумоподавления №1 в мире - Krisp
 [Visit](https://www.thataicollection.com/redirect/krisp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2619,7 +2619,7 @@ Fathom записывает, расшифровывает, выделяет и �
 
 
 ### Aiva
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aiva.webp?twic=v1/resize=240" alt="Aiva">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiva.webp" alt="Aiva">
 
 #### AIVA - Искусственный интеллект, сочиняющий эмоциональный саундтрек
 [Visit](https://www.thataicollection.com/redirect/aiva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2635,7 +2635,7 @@ Fathom записывает, расшифровывает, выделяет и �
 
 
 ### Boomy
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-boomy.webp?twic=v1/resize=240" alt="Boomy">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-boomy.webp" alt="Boomy">
 
 #### Boomy - Раскройте свой творческий потенциал
 Создавайте музыку с помощью Boomy AI
@@ -2663,7 +2663,7 @@ Fathom записывает, расшифровывает, выделяет и �
 ## Организация и автоматизация
 
 ### Hexowatch
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hexowatch.webp?twic=v1/resize=240" alt="Hexowatch">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hexowatch.webp" alt="Hexowatch">
 
 #### Помимо доступности и цен, сторонние веб-сайты как источник данных, визуальный мониторинг веб-сайтов, отслеживание конкурентов.
 [Visit](https://www.thataicollection.com/redirect/hexowatch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2678,7 +2678,7 @@ Hexowatch — ваш помощник с искусственным интелл
 
 
 ### mem
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-mem.webp?twic=v1/resize=240" alt="mem">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mem.webp" alt="mem">
 
 #### Самоорганизующееся рабочее пространство
 [Visit](https://www.thataicollection.com/redirect/mem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2693,7 +2693,7 @@ Mem — это первое в мире рабочее пространство 
 
 
 ### bardeen
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-bardeen.webp?twic=v1/resize=240" alt="bardeen">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bardeen.webp" alt="bardeen">
 
 #### ИИ встречается с автоматизацией
 [Visit](https://www.thataicollection.com/redirect/bardeen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2708,7 +2708,7 @@ Mem — это первое в мире рабочее пространство 
 
 
 ### AutoPredict
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-autopredict.webp?twic=v1/resize=240" alt="AutoPredict">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-autopredict.webp" alt="AutoPredict">
 
 #### Автопрогноз - предскажите, как долго прослужит ваш автомобиль
 [Visit](https://www.thataicollection.com/redirect/autopredict?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2723,7 +2723,7 @@ AutoPredict — первое приложение, использующее ис
 
 
 ### Looti
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-looti.webp?twic=v1/resize=240" alt="Looti">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looti.webp" alt="Looti">
 
 #### Гиперквалификация способствует ускорению вашего роста
 [Visit](https://www.thataicollection.com/redirect/looti?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2739,7 +2739,7 @@ AutoPredict — первое приложение, использующее ис
 
 
 ### Hubble
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hubble.webp?twic=v1/resize=240" alt="Hubble">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hubble.webp" alt="Hubble">
 
 #### Хаббл – Отзывы о продукте и мнения пользователей
 [Visit](https://www.thataicollection.com/redirect/hubble?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2754,7 +2754,7 @@ AutoPredict — первое приложение, использующее ис
 
 
 ### Takomo
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-takomo.webp?twic=v1/resize=240" alt="Takomo">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-takomo.webp" alt="Takomo">
 
 #### Подключайте и развертывайте модели искусственного интеллекта за считанные секунды
 Объедините лучшие модели искусственного интеллекта в простом визуальном конструкторе для создания уникальных приложений искусственного интеллекта
@@ -2786,7 +2786,7 @@ AutoPredict — первое приложение, использующее ис
 ## Редактирование фотографий и изображений
 
 ### HitPaw Online Photo Enhancer
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hitpaw-online-photo-enhancer.webp?twic=v1/resize=240" alt="HitPaw Online Photo Enhancer">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-photo-enhancer.webp" alt="HitPaw Online Photo Enhancer">
 
 #### Размытие изображений и попрощайтесь с некачественными фотографиями.
 [Visit](https://www.thataicollection.com/redirect/hitpaw-online-photo-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2801,7 +2801,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 ### Unrealme
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-unrealme.webp?twic=v1/resize=240" alt="Unrealme">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unrealme.webp" alt="Unrealme">
 
 #### Unreal Me - Получите изображения, сгенерированные AI
 [Visit](https://www.thataicollection.com/redirect/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2816,7 +2816,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 ### Stabledojo
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stabledojo.webp?twic=v1/resize=240" alt="Stabledojo">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stabledojo.webp" alt="Stabledojo">
 
 #### Первая фотостудия с искусственным интеллектом
 [Visit](https://www.thataicollection.com/redirect/stabledojo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2831,7 +2831,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 ### Prisma
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prisma.webp?twic=v1/resize=240" alt="Prisma">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prisma.webp" alt="Prisma">
 
 #### Prisma улавливает суть ваших фотографий, превращая их в яркие цветные картины.
 [Visit](https://www.thataicollection.com/redirect/prisma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2846,7 +2846,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 ### Prisma Lensa
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prisma-lensa.webp?twic=v1/resize=240" alt="Prisma Lensa">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prisma-lensa.webp" alt="Prisma Lensa">
 
 #### Lensa — это универсальное приложение для редактирования изображений, которое выводит ваши фотографии на новый уровень.
 [Visit](https://www.thataicollection.com/redirect/prisma-lensa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2861,7 +2861,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 ### Claid.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-claid.ai.webp?twic=v1/resize=240" alt="Claid.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-claid.ai.webp" alt="Claid.ai">
 
 #### Создавайте красивый конвертирующий контент с помощью ИИ
 [Visit](https://www.thataicollection.com/redirect/claid.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2876,7 +2876,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 ### SceneryAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sceneryai.webp?twic=v1/resize=240" alt="SceneryAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sceneryai.webp" alt="SceneryAI">
 
 #### ДекорацииAI
 [Visit](https://www.thataicollection.com/redirect/sceneryai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2901,7 +2901,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 ## Плагины и расширения
 
 ### AIduh
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aiduh.webp?twic=v1/resize=240" alt="AIduh">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiduh.webp" alt="AIduh">
 
 #### AI-Responder для HostAway - AI Duh
 [Visit](https://www.thataicollection.com/redirect/aiduh?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2916,7 +2916,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 ### Texti
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-texti.webp?twic=v1/resize=240" alt="Texti">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-texti.webp" alt="Texti">
 
 #### ИИ, живущий в вашем браузере!
 [Visit](https://www.thataicollection.com/redirect/texti?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2931,7 +2931,7 @@ Texti будет сотрудничать с вами, чтобы повысит
 
 
 ### Autoname
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-autoname.webp?twic=v1/resize=240" alt="Autoname">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-autoname.webp" alt="Autoname">
 
 #### Переименуйте все свои слои в один клик. Благодаря ИИ. Открытый источник
 [Visit](https://www.thataicollection.com/redirect/autoname?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2946,7 +2946,7 @@ Texti будет сотрудничать с вами, чтобы повысит
 
 
 ### SplashAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-splashai.webp?twic=v1/resize=240" alt="SplashAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-splashai.webp" alt="SplashAI">
 
 #### Splashai — это плагин Figma, поисковая система и генератор изображений AI.
 [Visit](https://www.thataicollection.com/redirect/splashai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2961,7 +2961,7 @@ SplashAI — это как помощник: он помогает быстро 
 
 
 ### Merlin
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-merlin.webp?twic=v1/resize=240" alt="Merlin">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-merlin.webp" alt="Merlin">
 
 #### Мерлин
 [Visit](https://www.thataicollection.com/redirect/merlin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2976,7 +2976,7 @@ SplashAI — это как помощник: он помогает быстро 
 
 
 ### Voilà
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-voilà.webp?twic=v1/resize=240" alt="Voilà">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voilà.webp" alt="Voilà">
 
 #### Персональный помощник ChatGPT для повышения производительности
 [Visit](https://www.thataicollection.com/redirect/voilà?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2991,7 +2991,7 @@ SplashAI — это как помощник: он помогает быстро 
 
 
 ### HARPA AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-harpa-ai.webp?twic=v1/resize=240" alt="HARPA AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-harpa-ai.webp" alt="HARPA AI">
 
 #### Chatgpt Chrome Automation Copilot
 [Visit](https://www.thataicollection.com/redirect/harpa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3016,7 +3016,7 @@ SplashAI — это как помощник: он помогает быстро 
 ## Продуктивность и личностный рост
 
 ### Podwise
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-podwise.webp?twic=v1/resize=240" alt="Podwise">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise">
 
 #### Podwise, ведущее приложение для обучения искусственному интеллекту для слушателей подкастов.
 [Visit](https://www.thataicollection.com/redirect/podwise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3031,7 +3031,7 @@ SplashAI — это как помощник: он помогает быстро 
 
 
 ### Dewey
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dewey.webp?twic=v1/resize=240" alt="Dewey">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dewey.webp" alt="Dewey">
 
 #### Делайте больше с Дьюи. Получайте напоминания и оставайтесь мотивированными с помощью текстовых сообщений от Дьюи, вашего друга по подотчетности ИИ.
 [Visit](https://www.thataicollection.com/redirect/dewey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3046,7 +3046,7 @@ SplashAI — это как помощник: он помогает быстро 
 
 
 ### Ask Poppy
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ask-poppy.webp?twic=v1/resize=240" alt="Ask Poppy">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ask-poppy.webp" alt="Ask Poppy">
 
 #### Poppylist - будь родителем, которым хочешь быть
 [Visit](https://www.thataicollection.com/redirect/ask-poppy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3064,7 +3064,7 @@ SplashAI — это как помощник: он помогает быстро 
 
 
 ### Cogram
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cogram.webp?twic=v1/resize=240" alt="Cogram">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cogram.webp" alt="Cogram">
 
 #### Удвойте свою производительность с интеллектуальным коллегой для вашей команды
 [Visit](https://www.thataicollection.com/redirect/cogram?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3079,7 +3079,7 @@ Cogram использует искусственный интеллект, чт�
 
 
 ### Ultimate Skill Extractor by Further
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ultimate-skill-extractor-by-further.webp?twic=v1/resize=240" alt="Ultimate Skill Extractor by Further">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ultimate-skill-extractor-by-further.webp" alt="Ultimate Skill Extractor by Further">
 
 #### Предложение навыков на основе искусственного интеллекта
 [Visit](https://www.thataicollection.com/redirect/ultimate-skill-extractor-by-further?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3094,7 +3094,7 @@ Cogram использует искусственный интеллект, чт�
 
 
 ### ELSA SPEECH ANALYZER
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elsa-speech-analyzer.webp?twic=v1/resize=240" alt="ELSA SPEECH ANALYZER">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elsa-speech-analyzer.webp" alt="ELSA SPEECH ANALYZER">
 
 #### Улучшайте свой английский по одному разговору за раз.
 [Visit](https://www.thataicollection.com/redirect/elsa-speech-analyzer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3109,7 +3109,7 @@ Speech Analyzer — это тренер по беглости разговорн
 
 
 ### DetangleAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-detangleai.webp?twic=v1/resize=240" alt="DetangleAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-detangleai.webp" alt="DetangleAI">
 
 #### Обобщите любой подкаст, электронное письмо, юридический документ, книгу и многое другое, чтобы вы могли
 сосредоточьтесь на том, что важно.
@@ -3135,7 +3135,7 @@ Speech Analyzer — это тренер по беглости разговорн
 ## Научный сотрудник
 
 ### Elicit
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elicit.webp?twic=v1/resize=240" alt="Elicit">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elicit.webp" alt="Elicit">
 
 #### Elicit: помощник по исследованиям в области ИИ
 [Visit](https://www.thataicollection.com/redirect/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3150,7 +3150,7 @@ Elicit использует машинное обучение, чтобы пом
 
 
 ### Scispace
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-scispace.webp?twic=v1/resize=240" alt="Scispace">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scispace.webp" alt="Scispace">
 
 #### SciSpace by Typeset — находите, создавайте, публикуйте и продвигайте свою исследовательскую работу
 [Visit](https://www.thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3165,7 +3165,7 @@ Elicit использует машинное обучение, чтобы пом
 
 
 ### RTutor
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rtutor.webp?twic=v1/resize=240" alt="RTutor">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rtutor.webp" alt="RTutor">
 
 #### Общайтесь с вашими данными на десятках человеческих языков.
 [Visit](https://www.thataicollection.com/redirect/rtutor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3180,7 +3180,7 @@ RTutor использует мощную модель большого язык�
 
 
 ### Explainpaper
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-explainpaper.webp?twic=v1/resize=240" alt="Explainpaper">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-explainpaper.webp" alt="Explainpaper">
 
 #### Самый быстрый способ читать исследовательские работы
 [Visit](https://www.thataicollection.com/redirect/explainpaper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3195,7 +3195,7 @@ RTutor использует мощную модель большого язык�
 
 
 ### Jenni
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jenni.webp?twic=v1/resize=240" alt="Jenni">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jenni.webp" alt="Jenni">
 
 #### Дженни — искусственный интеллект для написания эссе, исследовательских работ и многого другого!
 
@@ -3211,7 +3211,7 @@ RTutor использует мощную модель большого язык�
 
 
 ### Vocads Survey
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-vocads-survey.webp?twic=v1/resize=240" alt="Vocads Survey">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vocads-survey.webp" alt="Vocads Survey">
 
 #### Новый опрос с помощью разговорного голосового ИИ
 [Visit](https://www.thataicollection.com/redirect/vocads-survey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3226,7 +3226,7 @@ RTutor использует мощную модель большого язык�
 
 
 ### Afforai Build
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-afforai-build.webp?twic=v1/resize=240" alt="Afforai Build">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-afforai-build.webp" alt="Afforai Build">
 
 #### Ваш помощник по чтению с искусственным интеллектом. Обязательные инструменты для анализа текста, исследований и поиска документов
 [Visit](https://www.thataicollection.com/redirect/afforai-build?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3251,7 +3251,7 @@ RTutor использует мощную модель большого язык�
 ## Отзывы и рекомендации
 
 ### Sona
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sona.webp?twic=v1/resize=240" alt="Sona">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sona.webp" alt="Sona">
 
 #### Прочтите это дважды — книги, которые стоит прочитать дважды.
 [Visit](https://www.thataicollection.com/redirect/sona?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3266,7 +3266,7 @@ RTutor использует мощную модель большого язык�
 
 
 ### AI Review Reply Assistant
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-review-reply-assistant.webp?twic=v1/resize=240" alt="AI Review Reply Assistant">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-review-reply-assistant.webp" alt="AI Review Reply Assistant">
 
 #### Отвечайте на отзывы с помощью помощника по ответам на отзывы с искусственным интеллектом.
 [Visit](https://www.thataicollection.com/redirect/ai-review-reply-assistant?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3281,7 +3281,7 @@ RTutor использует мощную модель большого язык�
 
 
 ### Geniusreview
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-geniusreview.webp?twic=v1/resize=240" alt="Geniusreview">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-geniusreview.webp" alt="Geniusreview">
 
 #### GeniusReview — 360-градусные обзоры производительности ИИ
 [Visit](https://www.thataicollection.com/redirect/geniusreview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3296,7 +3296,7 @@ RTutor использует мощную модель большого язык�
 
 
 ### Reviewz
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-reviewz.webp?twic=v1/resize=240" alt="Reviewz">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-reviewz.webp" alt="Reviewz">
 
 #### Reviewz.ai - Откройте для себя все лучшие продукты. Курирует и рекомендует AI.
 [Visit](https://www.thataicollection.com/redirect/reviewz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3311,7 +3311,7 @@ Reviewz.ai — это новинка, предназначенная для де
 
 
 ### Artreviewgenerator
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-artreviewgenerator.webp?twic=v1/resize=240" alt="Artreviewgenerator">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-artreviewgenerator.webp" alt="Artreviewgenerator">
 
 #### Генератор художественных обзоров
 [Visit](https://www.thataicollection.com/redirect/artreviewgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3336,7 +3336,7 @@ Reviewz.ai — это новинка, предназначенная для де
 ## Продажи и маркетинг
 
 ### Copy.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-copy.ai.webp?twic=v1/resize=240" alt="Copy.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-copy.ai.webp" alt="Copy.ai">
 
 #### Пишите лучшие маркетинговые тексты и контент с помощью ИИ
 [Visit](https://www.thataicollection.com/redirect/copy.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3351,7 +3351,7 @@ Reviewz.ai — это новинка, предназначенная для де
 
 
 ### Clickable
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-clickable.webp?twic=v1/resize=240" alt="Clickable">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clickable.webp" alt="Clickable">
 
 #### Создавайте рекламу за считанные секунды с помощью ИИ
 [Visit](https://www.thataicollection.com/redirect/clickable?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3366,7 +3366,7 @@ Reviewz.ai — это новинка, предназначенная для де
 
 
 ### Cuetap.com
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cuetap.com.webp?twic=v1/resize=240" alt="Cuetap.com">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cuetap.com.webp" alt="Cuetap.com">
 
 #### Боевые карты продаж на основе AI и CI
 [Visit](https://www.thataicollection.com/redirect/cuetap.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3381,7 +3381,7 @@ Reviewz.ai — это новинка, предназначенная для де
 
 
 ### Userevaluation
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-userevaluation.webp?twic=v1/resize=240" alt="Userevaluation">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-userevaluation.webp" alt="Userevaluation">
 
 #### Пользовательская оценка — Платформа понимания клиентов
 [Visit](https://www.thataicollection.com/redirect/userevaluation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3396,7 +3396,7 @@ Reviewz.ai — это новинка, предназначенная для де
 
 
 ### Genius Sheets
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-genius-sheets.webp?twic=v1/resize=240" alt="Genius Sheets">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-genius-sheets.webp" alt="Genius Sheets">
 
 #### Genius Sheets — БИЗНЕС-АНАЛИТИКА ИЗ БУДУЩЕГО
 Аналитика данных на основе искусственного интеллекта
@@ -3416,7 +3416,7 @@ Enterprise Security — создан в соответствии с корпор
 
 
 ### BaruaAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-baruaai.webp?twic=v1/resize=240" alt="BaruaAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-baruaai.webp" alt="BaruaAI">
 
 #### Создавайте электронные письма с высокой конверсией за считанные секунды
 [Visit](https://www.thataicollection.com/redirect/baruaai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3431,7 +3431,7 @@ Enterprise Security — создан в соответствии с корпор
 
 
 ### Hoppy Copy
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hoppy-copy.webp?twic=v1/resize=240" alt="Hoppy Copy">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hoppy-copy.webp" alt="Hoppy Copy">
 
 #### Hoppy Copy: Платформа для копирайтинга по электронной почте с искусственным интеллектом
 [Visit](https://www.thataicollection.com/redirect/hoppy-copy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3456,7 +3456,7 @@ Enterprise Security — создан в соответствии с корпор
 ## Поисковые системы
 
 ### Lexii.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lexii.ai.webp?twic=v1/resize=240" alt="Lexii.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lexii.ai.webp" alt="Lexii.ai">
 
 #### Lexii.ai
 [Visit](https://www.thataicollection.com/redirect/lexii.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3471,7 +3471,7 @@ Lexii.ai — помощник по поиску с искусственным и
 
 
 ### Smarty Names
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-smarty-names.webp?twic=v1/resize=240" alt="Smarty Names">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-smarty-names.webp" alt="Smarty Names">
 
 #### Бесплатный креативный поиск доменных имен от AI Robots
 [Visit](https://www.thataicollection.com/redirect/smarty-names?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3486,7 +3486,7 @@ Lexii.ai — помощник по поиску с искусственным и
 
 
 ### OpenArt Photo Booth
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-openart-photo-booth.webp?twic=v1/resize=240" alt="OpenArt Photo Booth">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-openart-photo-booth.webp" alt="OpenArt Photo Booth">
 
 #### Откройте для себя и создайте AI Art - OpenArt
 [Visit](https://www.thataicollection.com/redirect/openart-photo-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3501,7 +3501,7 @@ Lexii.ai — помощник по поиску с искусственным и
 
 
 ### You
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-you.webp?twic=v1/resize=240" alt="You">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-you.webp" alt="You">
 
 #### Поисковая система AI, которой вы управляете
 [Visit](https://www.thataicollection.com/redirect/you?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3520,7 +3520,7 @@ Lexii.ai — помощник по поиску с искусственным и
 
 
 ### Perplexity AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-perplexity-ai.webp?twic=v1/resize=240" alt="Perplexity AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-perplexity-ai.webp" alt="Perplexity AI">
 
 #### Perplexity AI — это механизм ответов, который дает точные ответы на сложные вопросы, используя большие языковые модели.
 [Visit](https://www.thataicollection.com/redirect/perplexity-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3535,7 +3535,7 @@ Ask использует большие языковые модели и пои�
 
 
 ### Anypod
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-anypod.webp?twic=v1/resize=240" alt="Anypod">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-anypod.webp" alt="Anypod">
 
 #### Поисковые системы, созданные для авторов
 [Visit](https://www.thataicollection.com/redirect/anypod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3550,7 +3550,7 @@ Ask использует большие языковые модели и пои�
 
 
 ### namefinder.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-namefinder.ai.webp?twic=v1/resize=240" alt="namefinder.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-namefinder.ai.webp" alt="namefinder.ai">
 
 #### Генератор доменных имен и бизнеса на базе искусственного интеллекта
 [Visit](https://www.thataicollection.com/redirect/namefinder.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3575,7 +3575,7 @@ Ask использует большие языковые модели и пои�
 ## Слайды и презентации
 
 ### ChatBA
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chatba.webp?twic=v1/resize=240" alt="ChatBA">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatba.webp" alt="ChatBA">
 
 #### ChatBCG: генеративный ИИ для слайдов
 [Visit](https://www.thataicollection.com/redirect/chatba?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3590,7 +3590,7 @@ Ask использует большие языковые модели и пои�
 
 
 ### SlidesAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-slidesai.webp?twic=v1/resize=240" alt="SlidesAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-slidesai.webp" alt="SlidesAI">
 
 #### Создавайте слайды презентации с помощью ИИ за считанные секунды
 [Visit](https://www.thataicollection.com/redirect/slidesai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3605,7 +3605,7 @@ Ask использует большие языковые модели и пои�
 
 
 ### Pitchgrade
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-pitchgrade.webp?twic=v1/resize=240" alt="Pitchgrade">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pitchgrade.webp" alt="Pitchgrade">
 
 #### Pitchgrade — презентации прошли безболезненно
 [Visit](https://www.thataicollection.com/redirect/pitchgrade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3620,7 +3620,7 @@ Ask использует большие языковые модели и пои�
 
 
 ### My Pitch Deck
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-my-pitch-deck.webp?twic=v1/resize=240" alt="My Pitch Deck">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-pitch-deck.webp" alt="My Pitch Deck">
 
 #### My Pitch Deck — начните финансирование с помощью специального шаблона презентационного колоды для своего стартапа.
 [Visit](https://www.thataicollection.com/redirect/my-pitch-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3637,7 +3637,7 @@ Ask использует большие языковые модели и пои�
 
 
 ### Tome
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tome.webp?twic=v1/resize=240" alt="Tome">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tome.webp" alt="Tome">
 
 #### Появилось генеративное повествование.
 [Visit](https://www.thataicollection.com/redirect/tome?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3652,7 +3652,7 @@ Ask использует большие языковые модели и пои�
 
 
 ### Glimmer AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-glimmer-ai.webp?twic=v1/resize=240" alt="Glimmer AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-glimmer-ai.webp" alt="Glimmer AI">
 
 #### Магия презентаций на базе искусственного интеллекта
 [Visit](https://www.thataicollection.com/redirect/glimmer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3667,7 +3667,7 @@ Glimmer AI использует GPT-3 и DALL-E 2 для простого и б�
 
 
 ### STORYD
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-storyd.webp?twic=v1/resize=240" alt="STORYD">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storyd.webp" alt="STORYD">
 
 #### Презентации данных любят лидеры
 [Visit](https://www.thataicollection.com/redirect/storyd?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3692,7 +3692,7 @@ Glimmer AI использует GPT-3 и DALL-E 2 для простого и б�
 ## Знакомства и социальные сети
 
 ### Roast
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-roast.webp?twic=v1/resize=240" alt="Roast">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-roast.webp" alt="Roast">
 
 #### AI-анализ профиля приложения для знакомств - AI-генератор для фотосессии
 [Visit](https://www.thataicollection.com/redirect/roast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3707,7 +3707,7 @@ ROAST помогает людям в 10 раз увеличить количе�
 
 
 ### AI movie Club
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-movie-club.webp?twic=v1/resize=240" alt="AI movie Club">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-movie-club.webp" alt="AI movie Club">
 
 #### АЙ-КИНО КЛУБ
 [Visit](https://www.thataicollection.com/redirect/ai-movie-club?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3722,7 +3722,7 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 
 ### HotConvo
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hotconvo.webp?twic=v1/resize=240" alt="HotConvo">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hotconvo.webp" alt="HotConvo">
 
 #### Spark Romance - получите веселые, остроумные и сексуальные предложения в чате для ваших онлайн-знакомств.
 [Visit](https://www.thataicollection.com/redirect/hotconvo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3737,7 +3737,7 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 
 ### AI Social Bio
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-social-bio.webp?twic=v1/resize=240" alt="AI Social Bio">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-social-bio.webp" alt="AI Social Bio">
 
 #### AI Social Bio - ваша биография в социальных сетях, созданная искусственным интеллектом
 
@@ -3755,7 +3755,7 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 
 ### TweetAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweetai.webp?twic=v1/resize=240" alt="TweetAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tweetai.webp" alt="TweetAI">
 
 #### Вдохновитесь, чтобы написать твит • TweetAI.com
 [Visit](https://www.thataicollection.com/redirect/tweetai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3770,7 +3770,7 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 
 ### Tweethunter
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweethunter.webp?twic=v1/resize=240" alt="Tweethunter">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tweethunter.webp" alt="Tweethunter">
 
 #### Tweet Hunter — получите больше подписчиков в Твиттере — твиты, темы, планировщик, аналитика
 [Visit](https://www.thataicollection.com/redirect/tweethunter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3785,7 +3785,7 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 
 ### TweetEmote
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweetemote.webp?twic=v1/resize=240" alt="TweetEmote">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tweetemote.webp" alt="TweetEmote">
 
 #### TweeteMote | Помощник по работе с твитами на базе искусственного интеллекта
 
@@ -3812,7 +3812,7 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 ## Речь
 
 ### Adobe Speech Enhancer
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-speech-enhancer.webp?twic=v1/resize=240" alt="Adobe Speech Enhancer">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-adobe-speech-enhancer.webp" alt="Adobe Speech Enhancer">
 
 #### Улучшайте голосовые записи бесплатно
 [Visit](https://www.thataicollection.com/redirect/adobe-speech-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3827,7 +3827,7 @@ AI-MOVIE CLUB — социальная сеть, в которой создаю�
 
 
 ### Lingostar
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lingostar.webp?twic=v1/resize=240" alt="Lingostar">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lingostar.webp" alt="Lingostar">
 
 #### Lingostar - Реальные разговоры с искусственным интеллектом
 [Visit](https://www.thataicollection.com/redirect/lingostar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3842,7 +3842,7 @@ Lingostar — это искусственный интеллект, с кото�
 
 
 ### Poly AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-poly-ai.webp?twic=v1/resize=240" alt="Poly AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-poly-ai.webp" alt="Poly AI">
 
 #### Голосовые помощники под руководством клиентов
 [Visit](https://www.thataicollection.com/redirect/poly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3857,7 +3857,7 @@ Lingostar — это искусственный интеллект, с кото�
 
 
 ### SmallTalk2.me
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-smalltalk2.me.webp?twic=v1/resize=240" alt="SmallTalk2.me">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-smalltalk2.me.webp" alt="SmallTalk2.me">
 
 #### Помощник преподавателя на базе искусственного интеллекта для тестирования и улучшения навыков разговорной речи на английском языке
 [Visit](https://www.thataicollection.com/redirect/smalltalk2.me?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3872,7 +3872,7 @@ Lingostar — это искусственный интеллект, с кото�
 
 
 ### SpeechGen.io
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-speechgen.io.webp?twic=v1/resize=240" alt="SpeechGen.io">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-speechgen.io.webp" alt="SpeechGen.io">
 
 ####  Благодаря 150 языкам преобразования текста в речь и множеству вариантов акцента Speechgen.io предоставляет пользователям широкий выбор вариантов, ориентированных на глобальную и многокультурную аудиторию.
 [Visit](https://www.thataicollection.com/redirect/speechgen.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3897,7 +3897,7 @@ Lingostar — это искусственный интеллект, с кото�
 ## Текст
 
 ### Tally Forms
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tally-forms.webp?twic=v1/resize=240" alt="Tally Forms">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tally-forms.webp" alt="Tally Forms">
 
 #### Самый простой способ создания форм
 [Visit](https://www.thataicollection.com/redirect/tally-forms?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3912,7 +3912,7 @@ Lingostar — это искусственный интеллект, с кото�
 
 
 ### Scholarcy
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-scholarcy.webp?twic=v1/resize=240" alt="Scholarcy">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scholarcy.webp" alt="Scholarcy">
 
 #### Онлайн-инструмент для подведения итогов - Генератор карточек и сумматор - Scholarcy
 [Visit](https://www.thataicollection.com/redirect/scholarcy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3927,7 +3927,7 @@ Scholarcy™ — это онлайн-инструмент для обобщен�
 
 
 ### Jot
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jot.webp?twic=v1/resize=240" alt="Jot">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jot.webp" alt="Jot">
 
 #### Jot – копия объявления AI
 [Visit](https://www.thataicollection.com/redirect/jot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3942,7 +3942,7 @@ Jot автоматически генерирует для вас бесконе
 
 
 ### Bookclub
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-bookclub.webp?twic=v1/resize=240" alt="Bookclub">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bookclub.webp" alt="Bookclub">
 
 #### Bookclub.ai - Встречайте свою следующую книгу
 [Visit](https://www.thataicollection.com/redirect/bookclub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3957,7 +3957,7 @@ Jot автоматически генерирует для вас бесконе
 
 
 ### Namewizard
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-namewizard.webp?twic=v1/resize=240" alt="Namewizard">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-namewizard.webp" alt="Namewizard">
 
 #### namewizard.ai — генератор доменных имен с искусственным интеллектом
 [Visit](https://www.thataicollection.com/redirect/namewizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3972,7 +3972,7 @@ namewizard — это генератор, который использует и
 
 
 ### Namelix
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-namelix.webp?twic=v1/resize=240" alt="Namelix">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-namelix.webp" alt="Namelix">
 
 #### Генератор бизнес-названий — бесплатный инструмент для наименования на базе искусственного интеллекта — Namelix
 [Visit](https://www.thataicollection.com/redirect/namelix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3987,7 +3987,7 @@ namewizard — это генератор, который использует и
 
 
 ### Langame card game
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-langame-card-game.webp?twic=v1/resize=240" alt="Langame card game">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-langame-card-game.webp" alt="Langame card game">
 
 #### Созданная искусственным интеллектом карточная игра для общения с друзьями и семьей
 [Visit](https://www.thataicollection.com/redirect/langame-card-game?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4012,7 +4012,7 @@ namewizard — это генератор, который использует и
 ## Текст в речь
 
 ### Murf.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-murf.ai.webp?twic=v1/resize=240" alt="Murf.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-murf.ai.webp" alt="Murf.ai">
 
 #### Переходите от текста к речи с помощью универсального голосового генератора с искусственным интеллектом
 [Visit](https://www.thataicollection.com/redirect/murf.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4027,7 +4027,7 @@ namewizard — это генератор, который использует и
 
 
 ### Listnr 2.0
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-listnr-2.0.webp?twic=v1/resize=240" alt="Listnr 2.0">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-listnr-2.0.webp" alt="Listnr 2.0">
 
 #### AI Voice Generator - Преобразователь текста в речь - Listnr
 [Visit](https://www.thataicollection.com/redirect/listnr-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4042,7 +4042,7 @@ namewizard — это генератор, который использует и
 
 
 ### VERBATIK
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-verbatik.webp?twic=v1/resize=240" alt="VERBATIK">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-verbatik.webp" alt="VERBATIK">
 
 #### Генерация текста на основе искусственного интеллекта.
 [Visit](https://www.thataicollection.com/redirect/verbatik?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4057,7 +4057,7 @@ namewizard — это генератор, который использует и
 
 
 ### Article.Audio
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-article.audio.webp?twic=v1/resize=240" alt="Article.Audio">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-article.audio.webp" alt="Article.Audio">
 
 #### Конвертировать статьи в аудио
 [Visit](https://www.thataicollection.com/redirect/article.audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4072,7 +4072,7 @@ namewizard — это генератор, который использует и
 
 
 ### NaturalReader
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-naturalreader.webp?twic=v1/resize=240" alt="NaturalReader">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-naturalreader.webp" alt="NaturalReader">
 
 #### Решение #1 для преобразования текста в речь для личного, коммерческого и образовательного использования
 [Visit](https://www.thataicollection.com/redirect/naturalreader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4087,7 +4087,7 @@ namewizard — это генератор, который использует и
 
 
 ### Wavel AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wavel-ai.webp?twic=v1/resize=240" alt="Wavel AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wavel-ai.webp" alt="Wavel AI">
 
 #### Лучший дубляж и переводчик AI для создателей видеоконтента
 [Visit](https://www.thataicollection.com/redirect/wavel-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4102,7 +4102,7 @@ namewizard — это генератор, который использует и
 
 
 ### Createaivoiceovers
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-createaivoiceovers.webp?twic=v1/resize=240" alt="Createaivoiceovers">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-createaivoiceovers.webp" alt="Createaivoiceovers">
 
 #### Онлайн-генератор голоса из текста в речь, генератор текста в речь - реалистичные голоса - создавайте озвучку с искусственным интеллектом
 [Visit](https://www.thataicollection.com/redirect/createaivoiceovers?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4127,7 +4127,7 @@ namewizard — это генератор, который использует и
 ## Перевод и стенограмма
 
 ### TranslateVideo
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-translatevideo.webp?twic=v1/resize=240" alt="TranslateVideo">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-translatevideo.webp" alt="TranslateVideo">
 
 #### Translate.Video - Переводите видео одним щелчком мыши
 [Visit](https://www.thataicollection.com/redirect/translatevideo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4142,7 +4142,7 @@ namewizard — это генератор, который использует и
 
 
 ### Rephrasely
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rephrasely.webp?twic=v1/resize=240" alt="Rephrasely">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rephrasely.webp" alt="Rephrasely">
 
 #### БЕСПЛАТНЫЙ генератор перефраз для всех языков!
 [Visit](https://www.thataicollection.com/redirect/rephrasely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4157,7 +4157,7 @@ Rephrasely использует современный искусственны�
 
 
 ### RIVERSIDE
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-riverside.webp?twic=v1/resize=240" alt="RIVERSIDE">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-riverside.webp" alt="RIVERSIDE">
 
 #### Транскрипция аудио и видео. Работает на искусственном интеллекте.
 Преобразуйте аудио и видео в текст с точностью 99%.
@@ -4178,7 +4178,7 @@ Rephrasely использует современный искусственны�
 
 
 ### Rythmex
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rythmex.webp?twic=v1/resize=240" alt="Rythmex">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rythmex.webp" alt="Rythmex">
 
 #### Преобразование аудио в текст с помощью Rythmex Converter
 [Visit](https://www.thataicollection.com/redirect/rythmex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4193,7 +4193,7 @@ Rephrasely использует современный искусственны�
 
 
 ### Deciphr AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-deciphr-ai.webp?twic=v1/resize=240" alt="Deciphr AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deciphr-ai.webp" alt="Deciphr AI">
 
 #### Расшифровать ИИ
 [Visit](https://www.thataicollection.com/redirect/deciphr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4208,7 +4208,7 @@ Rephrasely использует современный искусственны�
 
 
 ### Graphic AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-graphic-ai.webp?twic=v1/resize=240" alt="Graphic AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-graphic-ai.webp" alt="Graphic AI">
 
 #### Платформа совместной работы с поддержкой искусственного интеллекта для команд
 [Visit](https://www.thataicollection.com/redirect/graphic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4223,7 +4223,7 @@ Stork помогает командам улучшить коммуникаци�
 
 
 ### Snipd Podcast Summaries
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-snipd-podcast-summaries.webp?twic=v1/resize=240" alt="Snipd Podcast Summaries">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-snipd-podcast-summaries.webp" alt="Snipd Podcast Summaries">
 
 #### Раскройте знания в подкастах - Snipd
 [Visit](https://www.thataicollection.com/redirect/snipd-podcast-summaries?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4248,7 +4248,7 @@ Stork помогает командам улучшить коммуникаци�
 ## Планировщик отпусков и поездок
 
 ### Vacay
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-vacay.webp?twic=v1/resize=240" alt="Vacay">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vacay.webp" alt="Vacay">
 
 #### Агент чата в отпуске
 [Visit](https://www.thataicollection.com/redirect/vacay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4263,7 +4263,7 @@ Stork помогает командам улучшить коммуникаци�
 
 
 ### Roamr
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-roamr.webp?twic=v1/resize=240" alt="Roamr">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-roamr.webp" alt="Roamr">
 
 #### Roamr — планировщик путешествий с искусственным интеллектом — отпуск вашей мечты за считанные секунды
 [Visit](https://www.thataicollection.com/redirect/roamr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4278,7 +4278,7 @@ Stork помогает командам улучшить коммуникаци�
 
 
 ### Orkoi
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-orkoi.webp?twic=v1/resize=240" alt="Orkoi">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-orkoi.webp" alt="Orkoi">
 
 #### Orkoi — составьте индивидуальный план путешествия за считанные секунды, бесплатно, без регистрации
 [Visit](https://www.thataicollection.com/redirect/orkoi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4293,7 +4293,7 @@ Stork помогает командам улучшить коммуникаци�
 
 
 ### Travel Blog Name Ideas Generator
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-travel-blog-name-ideas-generator.webp?twic=v1/resize=240" alt="Travel Blog Name Ideas Generator">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-travel-blog-name-ideas-generator.webp" alt="Travel Blog Name Ideas Generator">
 
 #### Генератор идей названий для блогов о путешествиях: найдите идеальное название для блога о путешествиях!
 [Visit](https://www.thataicollection.com/redirect/travel-blog-name-ideas-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4318,7 +4318,7 @@ Stork помогает командам улучшить коммуникаци�
 ## видео
 
 ### Colossyan
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-colossyan.webp?twic=v1/resize=240" alt="Colossyan">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-colossyan.webp" alt="Colossyan">
 
 #### Видеоплатформа искусственного интеллекта для обучения на рабочем месте
 [Visit](https://www.thataicollection.com/redirect/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4333,7 +4333,7 @@ Colossyan Creator делает создание видео простым и л�
 
 
 ### HitPaw Online Video Enhancer
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hitpaw-online-video-enhancer.webp?twic=v1/resize=240" alt="HitPaw Online Video Enhancer">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
 
 #### Один щелчок, чтобы размыть и улучшить ваше видео с помощью обученного ИИ.
 [Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4348,7 +4348,7 @@ HitPaw Online Video Enhancer - лучшее решение для видео с 
 
 
 ### Eightify
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-eightify.webp?twic=v1/resize=240" alt="Eightify">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eightify.webp" alt="Eightify">
 
 #### Получите 8 ключевых идей из видео на YouTube
 [Visit](https://www.thataicollection.com/redirect/eightify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4363,7 +4363,7 @@ HitPaw Online Video Enhancer - лучшее решение для видео с 
 
 
 ### HeyGen
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-heygen.webp?twic=v1/resize=240" alt="HeyGen">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-heygen.webp" alt="HeyGen">
 
 #### НЕ СНИМАТЬ? НЕТ ЭКИПАЖА? БЕЗ ПРОБЛЕМ!
 Масштабируйте производство видео с помощью настраиваемых аватаров с искусственным интеллектом
@@ -4381,7 +4381,7 @@ HeyGen — это видеоплатформа, которая помогает 
 
 
 ### Pictory
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-pictory.webp?twic=v1/resize=240" alt="Pictory">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pictory.webp" alt="Pictory">
 
 #### СОЗДАВАТЬ ВИДЕО ПРОСТО
 [Visit](https://www.thataicollection.com/redirect/pictory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4396,7 +4396,7 @@ HeyGen — это видеоплатформа, которая помогает 
 
 
 ### AI Host
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-host.webp?twic=v1/resize=240" alt="AI Host">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-host.webp" alt="AI Host">
 
 #### Запуск интерактивных прямых трансляций
 [Visit](https://www.thataicollection.com/redirect/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4411,7 +4411,7 @@ LiveReacting помогает вам привлечь больше подпис�
 
 
 ### Fliki
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fliki.webp?twic=v1/resize=240" alt="Fliki">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fliki.webp" alt="Fliki">
 
 #### Превратите текст в видео с помощью голосов AI
 [Visit](https://www.thataicollection.com/redirect/fliki?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4436,7 +4436,7 @@ LiveReacting помогает вам привлечь больше подпис�
 ## Веб-дизайн
 
 ### Magician
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-magician.webp?twic=v1/resize=240" alt="Magician">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magician.webp" alt="Magician">
 
 #### Фокусник для Фигмы
 [Visit](https://www.thataicollection.com/redirect/magician?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4451,7 +4451,7 @@ LiveReacting помогает вам привлечь больше подпис�
 
 
 ### Designs AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-designs-ai.webp?twic=v1/resize=240" alt="Designs AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-designs-ai.webp" alt="Designs AI">
 
 #### Создавайте логотипы, видеоролики, баннеры, озвучку с помощью ИИ
 [Visit](https://www.thataicollection.com/redirect/designs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4466,7 +4466,7 @@ LiveReacting помогает вам привлечь больше подпис�
 
 
 ### welovenocode
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-project-description-generator.webp?twic=v1/resize=240" alt="welovenocode">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-project-description-generator.webp" alt="welovenocode">
 
 #### Наймите лучших специалистов без кода и с низким кодом, чтобы быстро и недорого создать свой веб-сайт
 [Visit](https://www.thataicollection.com/redirect/ai-project-description-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4481,7 +4481,7 @@ LiveReacting помогает вам привлечь больше подпис�
 
 
 ### Uizard
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-uizard.webp?twic=v1/resize=240" alt="Uizard">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-uizard.webp" alt="Uizard">
 
 #### Uizard — дизайн приложений, веб-сайтов и пользовательского интерфейса стал проще — на основе искусственного интеллекта
 [Visit](https://www.thataicollection.com/redirect/uizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4496,7 +4496,7 @@ LiveReacting помогает вам привлечь больше подпис�
 
 
 ### Durable
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-durable.webp?twic=v1/resize=240" alt="Durable">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-durable.webp" alt="Durable">
 
 #### Долговечность: конструктор веб-сайтов с искусственным интеллектом и сервисное программное обеспечение для бизнеса
 [Visit](https://www.thataicollection.com/redirect/durable?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4511,7 +4511,7 @@ LiveReacting помогает вам привлечь больше подпис�
 
 
 ### Piggy
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-piggy.webp?twic=v1/resize=240" alt="Piggy">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-piggy.webp" alt="Piggy">
 
 #### Создатель мобильного контента.
 [Visit](https://www.thataicollection.com/redirect/piggy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4526,7 +4526,7 @@ LiveReacting помогает вам привлечь больше подпис�
 
 
 ### Genius by Diagram
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-genius-by-diagram.webp?twic=v1/resize=240" alt="Genius by Diagram">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-genius-by-diagram.webp" alt="Genius by Diagram">
 
 #### Genius — ваш помощник в разработке ИИ
 [Visit](https://www.thataicollection.com/redirect/genius-by-diagram?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4551,7 +4551,7 @@ LiveReacting помогает вам привлечь больше подпис�
 ## Помощник по письму
 
 ### HIX.AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hix.ai.webp?twic=v1/resize=240" alt="HIX.AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hix.ai.webp" alt="HIX.AI">
 
 #### Самый мощный, «все в одном»
 Второй пилот по написанию искусственного интеллекта
@@ -4567,7 +4567,7 @@ IX.AI: ваш самый мощный и универсальный второй
 
 
 ### Rytr
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rytr.webp?twic=v1/resize=240" alt="Rytr">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rytr.webp" alt="Rytr">
 
 #### Rytr — лучший писатель искусственного интеллекта, генератор контента и помощник по написанию
 [Visit](https://www.thataicollection.com/redirect/rytr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4584,7 +4584,7 @@ Rytr — это помощник по написанию текстов с ис�
 
 
 ### Elephas
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elephas.webp?twic=v1/resize=240" alt="Elephas">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephas.webp" alt="Elephas">
 
 #### Elephas — персональный помощник по письму с искусственным интеллектом для Mac, iPhone, iPad
 [Visit](https://www.thataicollection.com/redirect/elephas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4599,7 +4599,7 @@ Rytr — это помощник по написанию текстов с ис�
 
 
 ### Quillbot Paraphraser
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-quillbot-paraphraser.webp?twic=v1/resize=240" alt="Quillbot Paraphraser">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quillbot-paraphraser.webp" alt="Quillbot Paraphraser">
 
 #### Инструмент перефразирования QuillBot на базе искусственного интеллекта улучшит ваше письмо
 [Visit](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4614,7 +4614,7 @@ Rytr — это помощник по написанию текстов с ис�
 
 
 ### Paraphraser
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paraphraser.webp?twic=v1/resize=240" alt="Paraphraser">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paraphraser.webp" alt="Paraphraser">
 
 #### Бесплатный перефразирование для всех языков
 [Visit](https://www.thataicollection.com/redirect/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4630,7 +4630,7 @@ Rytr — это помощник по написанию текстов с ис�
 
 
 ### Ai Paragraph Generator
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-paragraph-generator.webp?twic=v1/resize=240" alt="Ai Paragraph Generator">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-paragraph-generator.webp" alt="Ai Paragraph Generator">
 
 #### Используйте AI Pargaph Generator, полезный генератор контента для различных требований к письму, для эффективного создания текста.
 [Visit](https://www.thataicollection.com/redirect/ai-paragraph-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4645,7 +4645,7 @@ AI Pargraph Generator — это передовой инструмент для 
 
 
 ### AI Lyrics Generator
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-lyrics-generator.webp?twic=v1/resize=240" alt="AI Lyrics Generator">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-lyrics-generator.webp" alt="AI Lyrics Generator">
 
 #### Автор песен с искусственным интеллектом - Этих текстов не существует
 [Visit](https://www.thataicollection.com/redirect/ai-lyrics-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
