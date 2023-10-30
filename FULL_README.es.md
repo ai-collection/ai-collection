@@ -54,7 +54,7 @@
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI" border="0"/>
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI" border="0"/>
     </a>
     <h4>BeeBee.AI está diseñado para el mercado de valores estadounidense y está dirigido a inversores a largo plazo que se centran principalmente en el análisis fundamental y que valoran los datos y la información.</h4>
     <p>Apoyamos a más de 2000 empresas (incluidas el Dow Jones 30, el S&P500 y el NASDAQ 100, según el volumen de operaciones y la actividad). Aprovechar la base de la GPT y combinarla con minimodelos especializados de PNL. Ofrecemos principalmente dos servicios principales:

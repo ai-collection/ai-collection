@@ -54,7 +54,7 @@
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI" border="0"/>
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI" border="0"/>
     </a>
     <h4>BeeBee.AI 专为美国股市量身定制，适合主要关注基本面分析并重视数据和信息的长期投资者。</h4>
     <p>我们为2000多家公司提供支持（包括道琼斯30指数、标准普尔500指数、纳斯达克100指数，按交易量和活动排序）。利用 GPT 基础并将其与专门的 NLP 迷你模型相结合。我们主要提供两项核心服务：

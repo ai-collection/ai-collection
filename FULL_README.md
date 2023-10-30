@@ -60,7 +60,7 @@ Translations:
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI" border="0"/>
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI" border="0"/>
     </a>
     <h4>BeeBee.AI is tailored for the US stock market, catering to long-term investors who primarily focus on fundamental analysis, and who value data and information.</h4>
     <p>We support over 2000 companies (including Dow Jones 30, S&P500, NASDAQ 100, ranked by trade volume and activity). Leveraging the GPT foundation and combining it with specialized NLP mini-models. We primarily offer two core services:
