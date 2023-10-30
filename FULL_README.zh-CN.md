@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=934" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=937" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,13 +53,14 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/hix.ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://static.tapfiliate.com/64f970e24e02d007847701.jpeg?a=135466-856f82" alt="HIX.AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI" border="0"/>
     </a>
-    <h4>最强大的一体化
-AI写作副驾驶</h4>
-    <p>IX.AI：您最强大的一体化人工智能写作副驾驶。使用 HIX.AI（市场上最强大的一体化人工智能写作副驾驶）在几秒钟内为广告、电子邮件、博客等生成高质量的副本。</p>
-    <a href="https://www.thataicollection.com/redirect/hix.ai" target="_blank"><b>开始使用 HIX.AI</b></a>
+    <h4>BeeBee.AI 专为美国股市量身定制，适合主要关注基本面分析并重视数据和信息的长期投资者。</h4>
+    <p>我们为2000多家公司提供支持（包括道琼斯30指数、标准普尔500指数、纳斯达克100指数，按交易量和活动排序）。利用 GPT 基础并将其与专门的 NLP 迷你模型相结合。我们主要提供两项核心服务：
+（1）全面解读财报和电话会议。 
+(2) 对公司广泛的数字足迹的深入分析。 </p>
+    <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 BeeBee AI</b></a>
     <br />
 </div>
 
@@ -208,6 +209,7 @@ AI写作副驾驶</h4>
 ## 会计与金融
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
+| [BeeBee AI](https://www.thataicollection.com/redirect/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | BeeBee.AI 专为美国股市量身定制，适合主要关注基本面分析并重视数据和信息的长期投资者。. | 我们为2000多家公司提供支持（包括道琼斯30指数、标准普尔500指数、纳斯达克100指数，按交易量和活动排序）。利用 GPT 基础并将其与专门的 NLP 迷你模型相结合。我们主要提供两项核心服务： （1）全面解读财报和电话会议。  (2) 对公司广泛的数字足迹的深入分析。. | :white_check_mark: |
 | [FlowCog](https://www.thataicollection.com/redirect/flowcog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SaaS 财务预测 快速简单 ⚡. | 解锁现金跑道和增长洞察力——没有电子表格！ 7 分钟入职。 QuickBooks 和 Stripe 准备就绪。深受董事会和投资者信赖. | :white_check_mark: |
 | [Jinnee](https://www.thataicollection.com/redirect/jinnee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Jinnee – 您的金融科技虚拟助手. | Jinnee 可以解决的问题：能力有限 - 支持部门无法处理每个请求，等待时间长 - 客户位于不同时区，重复查询 - 可以自动化以节省时间，浪费时间 - 创造有毒的工作环境. | :grey_question: |
 | [StockGPT](https://www.thataicollection.com/redirect/stockgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的搜索引擎. | StockGPT 是一个基于人工智能的搜索引擎，它接受了特斯拉 2011 年第二季度以来所有季度收益电话会议记录的训练。. | :white_check_mark: |
@@ -577,7 +579,7 @@ AI写作副驾驶</h4>
 | [FakeYou](https://www.thataicollection.com/redirect/fakeyou?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | FakeYou 名人配音生成器 - FakeYou. | FakeYou 是一个文字转语音的仙境，在那里你可以实现所有梦想。使用 FakeYou 的 deepfake 技术生成你最喜欢的角色说任何你想说的话的音频或视频。. | :grey_question: |
 | [Free Text-To-Speech](https://www.thataicollection.com/redirect/free-text-to-speech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费的文本到语音在线转换器工具. | . | :white_check_mark: |
 | [Listnr 2.0](https://www.thataicollection.com/redirect/listnr-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 语音生成器 - 文本到语音转换器 - Listnr. | 使用我们的 AI 语音生成器和最佳合成语音生成逼真的文本到语音 (TTS) 音频。立即将文本转换为听起来自然的语音并以 MP3 和 WAV 格式下载。. | :x: |
-| [Lovo](https://www.thataicollection.com/redirect/lovo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | LOVO AI - 自然语音在线免费文字转语音. | . | :white_check_mark: |
+| [Lovo](https://www.thataicollection.com/redirect/lovo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 语音生成器：逼真的文本转语音和语音克隆. | 屡获殊荣的 AI 语音生成器和文本转语音软件，支持 100 种语言的 500 多种语音。带有在线视频编辑器的逼真人工智能语音。克隆你自己的声音。. | :white_check_mark: |
 | [Murf.ai](https://www.thataicollection.com/redirect/murf.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用多功能 AI 语音生成器从文本到语音. | 启用 AI，真人的声音。在几分钟内制作出录音棚品质的配音。将 Murf 逼真的 AI 声音用于播客、视频和所有专业演示. | :white_check_mark: |
 | [NaturalReader](https://www.thataicollection.com/redirect/naturalreader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | #1 文本转语音解决方案，适用于个人、商业和教育用途. | 带有人工智能语音的免费文本语音转换，适用于在线、移动应用程序、商业许可证和教育领域。NaturalReader 将文本、PDF 和 20 多种格式转换为语音音频，因此您可以随时随地收听文档、电子书和学校资料. | :white_check_mark: |
 | [Play.ht](https://www.thataicollection.com/redirect/play.ht?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的文本到语音生成器. | 使用我们的在线 AI 语音生成器和最佳合成语音生成逼真的文本到语音 (TTS) 音频。立即将文本转换为听起来自然的语音并下载为 MP3 和 WAV 音频文件。. | :white_check_mark: |
@@ -744,6 +746,7 @@ AI写作副驾驶</h4>
 | [DoMyShoot](https://www.thataicollection.com/redirect/domyshoot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | DoMyShoot - 简化产品摄影. | 仅使用您的智能手机引导自己完成照片拍摄，让我们的 AI 技术处理剩余的过程，将日常产品变成照片般逼真的图像，这些图像一定会让营销策略更上一层楼。. | :white_check_mark: |
 | [Embolden](https://www.thataicollection.com/redirect/embolden?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 为您的电子商务写作提供支持。. | Embolden 使用 AI 帮助您为电子商务业务编写从电子邮件到产品描述的所有内容。. | :white_check_mark: |
 | [Gizzmo Ai](https://www.thataicollection.com/redirect/gizzmo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过 WordPress 附属内容让您的收入飙升。. | Gizzmo 是一个功能强大的 WordPress 插件，可以简化创建亚马逊附属文章的过程。只需点击几下，您就可以生成完全优化的内容，包括产品评论、综述和礼品指南。对于联盟营销人员来说，这是一个游戏规则改变者！. | :x: |
+| [GPT Gifts](https://www.thataicollection.com/redirect/gpt-gifts?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 描述你想为谁找礼物，然后让我们的人工智能提出五个想法。. | 拼命在谷歌上输入 “[插入隐秘兴趣] 的礼物创意”？有更好的方法！描述你要送给谁，然后让 GPT Gifts 破解密码。. | :white_check_mark: |
 | [manifest](https://www.thataicollection.com/redirect/manifest?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用人工智能重新构想电子商务. | 1 分钟内即可获得您自己的人工智能购物助手。通过人工智能驱动的个性化改造您的商店并提高您的销售额。. | :white_check_mark: |
 | [Octie.ai](https://www.thataicollection.com/redirect/octie.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Octie.ai - 你的人工智能电子商务营销助理. | 使用 A.I. 编写电子邮件、产品说明等。由 Octane AI 创建。. | :grey_question: |
 | [VModel](https://www.thataicollection.com/redirect/vmodel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | vModel 是一款 AI 时装模特生成器，用于高效且具有成本效益的模特摄影。它通过将模特摄影成本降低90％来提高零售成功率。. | vModel 利用人工智能技术生成虚拟时装模特，取代了对现实世界时装模特的需求。这些虚拟模型用于为服装产品创建产品照片，然后在电子商务平台上进行展示。. | :white_check_mark: |
@@ -778,6 +781,7 @@ AI写作副驾驶</h4>
 | [Afforai Build](https://www.thataicollection.com/redirect/afforai-build?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您的人工智能阅读副驾驶。文本分析、研究和文档搜索的必备工具. | 起草报告 文件太多无法阅读？ Afforai 将为您分析和起草一份完整的报告，并回答有关文件的任何问题。电子表格查询 - 使用 Afforai 使用自然语言查询从报告和电子表格中提取重要信息。网页抓取 - Afforai 可以抓取多个网站并提取关键信息。. | :white_check_mark: |
 | [Elicit](https://www.thataicollection.com/redirect/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 引出：人工智能研究助理. | Elicit 使用机器学习来帮助您进行研究：查找论文、提取关键声明、总结、集思广益等等。. | :grey_question: |
 | [Explainpaper](https://www.thataicollection.com/redirect/explainpaper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 阅读研究论文的最快方式. | 上传一篇论文，突出令人困惑的文本，获得解释。我们使研究论文易于阅读。. | :white_check_mark: |
+| [Jenni](https://www.thataicollection.com/redirect/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Jenni-用于撰写论文、研究论文等的人工智能！. | Jenni 是你在学术旅程中处理所有事物的 AI 助手。我们专门开发可帮助您撰写论文、研究论文等的人工智能！. | :white_check_mark: |
 | [RTutor](https://www.thataicollection.com/redirect/rtutor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用数十种人类语言与您的数据聊天。. | RTutor利用OpenAI强大的大语言模型将自然语言翻译成R代码，然后执行。您可以请求您的分析，就像询问真人一样。上传数据文件（CSV、TSV/制表符分隔的文本文件和 Excel），然后用简单的英语对其进行分析。您的结果可以在几分钟内下载为 HTML 报告！. | :white_check_mark: |
 | [Scispace](https://www.thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SciSpace by Typeset - 发现、创建、发布和推广您的研究论文. | 您探索和解释论文的平台。搜索超过 27000 万篇论文，用简单的语言理解它们，并找到相关的论文、作者和主题。. | :grey_question: |
 | [Synthical](https://www.thataicollection.com/redirect/synthical?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的协作研究环境. | 简化文章以理解复杂的术语、获得精彩的推荐、搜索类似的文章并轻松与团队协作。. | :white_check_mark: |
@@ -1033,6 +1037,7 @@ AI写作副驾驶</h4>
 | [PatternedAI](https://www.thataicollection.com/redirect/patternedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PatterndAI - 使用人工智能为您的产品生成独特的图案！. | 将 PatternedAI 集成到您的业务中！ 尽早访问 PatternedAI Enterprise。与选定的客户一起转变工作流程并推动增长。. | :grey_question: |
 | [Photosonic AI](https://www.thataicollection.com/redirect/photosonic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Photosonic AI Art Generator - 使用 AI 创建独特的图像. | 使用人工智能艺术生成器 Photosonic，将您的想象力转化为令人惊叹的数字艺术。凭借其创造性的建议，这款 Writesonic 的 AI 图像生成器可以帮助释放您的内在艺术家并与世界分享您的创作。. | :grey_question: |
 | [Phraser](https://www.thataicollection.com/redirect/phraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Phraser——协作式创意 AI 工具. | Phraser 是一款应用程序，可帮助您使用生成式 AI（Midjourney、Stable Diffusion 和 DALLE 2）创建图像、协作并获得灵感. | :grey_question: |
+| [PicSo](https://www.thataicollection.com/redirect/picso?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 艺术生成器：所有艺术风格的文本到图像-PicSo. | PicSo是一款文本到图像的AI艺术生成器应用程序和用于创意数字艺术的在线平台。免费尝试将你的想法转化为 NFT 艺术、油画等。. | :white_check_mark: |
 | [Pictorial](https://www.thataicollection.com/redirect/pictorial?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pictorial-毫不费力地为你的 Web 应用程序创建图形. | 灵感很难获得。利用能够生成可靠、随时可用的视觉杰作的人工智能，轻松传达您的信息。. | :grey_question: |
 | [PirateDiffusion](https://www.thataicollection.com/redirect/piratediffusion?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 描述任何东西. | 获得逼真的高清图像，更多样式，无限制. | :white_check_mark: |
 | [Pixian](https://www.thataicollection.com/redirect/pixian?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 去除图片背景, 免费高清, 无需注册 - 皮线.AI. | 删除图像背景，免费高清，无需注册. | :white_check_mark: |
@@ -1269,7 +1274,6 @@ AI写作副驾驶</h4>
 | [Hour One](https://www.thataicollection.com/redirect/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 制作人工智能视频来训练任何人或解释任何事情——第一小时. | . | :grey_question: |
 | [Inferkit](https://www.thataicollection.com/redirect/inferkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 推理套件. | . | :grey_question: |
 | [Inworld](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Inworld AI – 创建 AI 角色并向他们提出任何问题. | 为游戏、元宇宙和商业应用程序创建 AI 角色和 NPC，或者只是为了好玩。您可以与 AI 角色谈论任何事情。它简单、免费且充满可能性。. | :white_check_mark: |
-| [Jenni](https://www.thataicollection.com/redirect/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用 Jenni AI 增强你的写作. | . | :grey_question: |
 | [Kinestex](https://www.thataicollection.com/redirect/kinestex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | KinesteX - 手机中的人工智能教练. | . | :grey_question: |
 | [Langotalk](https://www.thataicollection.com/redirect/langotalk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Langotalk：使用 AI 将语言学习速度提高 6 倍. | 在几周而不是几年内进行自信的对话。. | :grey_question: |
 | [Letsenhance](https://www.thataicollection.com/redirect/letsenhance?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Letâ¯s Enhance - 图像质量在线应用程序和免费照片放大器. | 用于增强和提升图片质量的 AI 软件。提高分辨率和质量。修复模糊、像素化和不良图像。让每张照片都清晰锐利。. | :white_check_mark: |
@@ -1306,7 +1310,6 @@ AI写作副驾驶</h4>
 | [Petpic](https://www.thataicollection.com/redirect/petpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 爱画画. | 您最喜欢的动物现在可以是任何地方，甚至任何人。只需上传一些图片，让 AI 施展它的创意魔法. | :grey_question: |
 | [Petportrait](https://www.thataicollection.com/redirect/petportrait?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 宠物肖像 AI - 美丽的自定义宠物肖像. | 正在寻找贴心的宠物礼物？ Pet Portrait AI 以各种风格为您的猫、狗和其他宠物生成独特的、定制的肖像。我们的 AI 技术确保每幅肖像都是独一无二的，就像您的宠物一样。. | :grey_question: |
 | [Photoleap](https://www.thataicollection.com/redirect/photoleap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 文本到图像 - Lightricks 的创意和强大的照片编辑应用程序. | 使用多合一照片编辑器 Photoleap 在您的 iPhone 上创作出令人惊叹的作品：更改背景、删除对象、创建拼贴画、应用滤镜和效果. | :white_check_mark: |
-| [PicSo](https://www.thataicollection.com/redirect/picso?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PicSo 人工智能艺术生成器. | PicSo 是一个文本到图像的 AI 艺术生成器应用程序和创意数字艺术在线平台。免费尝试将您的想法转化为 NFT 艺术、油画等。. | :white_check_mark: |
 | [PictoDream](https://www.thataicollection.com/redirect/pictodream?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用 AI 生成你自己的图像 - PictoDream.com. | 使用简单的文本描述以任何风格或设置生成您自己（或其他人）的任何图像。. | :grey_question: |
 | [Pinegraph](https://www.thataicollection.com/redirect/pinegraph?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 魔术画板. | Pinegraph 是将您的创造力带入生活所需要的一切。使用 Pinecasso 免费生成 AI 艺术，用于动漫、抽象艺术等风格。创建您自己的概念角色，包括 waifus 和 husbusos、游戏艺术等。. | :white_check_mark: |
 | [Pixelmind](https://www.thataicollection.com/redirect/pixelmind?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pixelmind - AI 驱动的艺术和 NFT 铸造. | 您的人工智能艺术之旅。通过 Pixelmind 门户创建和收集 NFT。发展你的风格。提升你的游戏水平. | :grey_question: |
