@@ -125,7 +125,7 @@
 ## लेखा और वित्त
 
 ### BeeBee AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-beebee-ai.webp?twic=v1/resize=240" alt="BeeBee AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI">
 
 #### BeeBee.AI को अमेरिका के शेयर बाज़ार के लिए तैयार किया गया है, जो लंबी अवधि के निवेशकों के लिए है, जो मुख्य रूप से फ़ंडामेंटल विश्लेषण पर ध्यान देते हैं, और जो डेटा और जानकारी को महत्व देते हैं।
 [Visit](https://www.thataicollection.com/redirect/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -142,7 +142,7 @@
 
 
 ### FlowCog
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-flowcog.webp?twic=v1/resize=240" alt="FlowCog">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-flowcog.webp" alt="FlowCog">
 
 #### सास वित्तीय अनुमान त्वरित और आसान ⚡
 [Visit](https://www.thataicollection.com/redirect/flowcog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -157,7 +157,7 @@
 
 
 ### StockGPT
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stockgpt.webp?twic=v1/resize=240" alt="StockGPT">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stockgpt.webp" alt="StockGPT">
 
 #### एआई-पावर्ड सर्च इंजन
 [Visit](https://www.thataicollection.com/redirect/stockgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -172,7 +172,7 @@
 
 
 ### Jinnee
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jinnee.webp?twic=v1/resize=240" alt="Jinnee">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jinnee.webp" alt="Jinnee">
 
 #### जिनी - आपका फिनटेक वर्चुअल असिस्टेंट
 [Visit](https://www.thataicollection.com/redirect/jinnee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -187,7 +187,7 @@
 
 
 ### Stocknews AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stocknews-ai.webp?twic=v1/resize=240" alt="Stocknews AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stocknews-ai.webp" alt="Stocknews AI">
 
 #### 100+ स्रोतों से स्टॉक की सबसे अच्छी खबर
 AI द्वारा चुना गया
@@ -213,7 +213,7 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 ## एनिमेशन और 3डी मॉडलिंग
 
 ### Blimey
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-blimey.webp?twic=v1/resize=240" alt="Blimey">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-blimey.webp" alt="Blimey">
 
 #### ब्लिमी - कल्पना से छवि तक मिनटों में
 [Visit](https://www.thataicollection.com/redirect/blimey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -228,7 +228,7 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 
 
 ### TextureLab
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-texturelab.webp?twic=v1/resize=240" alt="TextureLab">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-texturelab.webp" alt="TextureLab">
 
 #### आपके अगले गेम के लिए तत्काल और अद्वितीय 3डी बनावट
 [Visit](https://www.thataicollection.com/redirect/texturelab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -243,7 +243,7 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 
 
 ### Kaedim
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-kaedim.webp?twic=v1/resize=240" alt="Kaedim">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-kaedim.webp" alt="Kaedim">
 
 #### मिनटों में जादुई रूप से Custom3D मॉडल बनाएं
 [Visit](https://www.thataicollection.com/redirect/kaedim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -258,7 +258,7 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 
 
 ### plask
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-plask.webp?twic=v1/resize=240" alt="plask">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-plask.webp" alt="plask">
 
 #### प्लास्क मोशन: एआई-पावर्ड मोकैप एनिमेशन टूल
 
@@ -275,7 +275,7 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 
 
 ### lumalabs
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lumalabs.webp?twic=v1/resize=240" alt="lumalabs">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lumalabs.webp" alt="lumalabs">
 
 #### 3D V1.2 (अल्फ़ा) की कल्पना करें
 [Visit](https://www.thataicollection.com/redirect/lumalabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -300,7 +300,7 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 ## वास्तुकला और आंतरिक डिजाइन
 
 ### Makeit.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-makeit.ai.webp?twic=v1/resize=240" alt="Makeit.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-makeit.ai.webp" alt="Makeit.ai">
 
 #### जनरेटिव डिज़ाइन - आर्किटेक्चर डिज़ाइन सॉफ़्टवेयर - माकेट
 [Visit](https://www.thataicollection.com/redirect/makeit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -315,7 +315,7 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 
 
 ### Interior AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-interior-ai.webp?twic=v1/resize=240" alt="Interior AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
 
 #### इंटीरियर एआई: आर्टिफिशियल इंटेलिजेंस का उपयोग करते हुए इंटीरियर डिजाइन आइडियाज इंस्पिरेशन और वर्चुअल स्टेजिंग ऐप
 [Visit](https://www.thataicollection.com/redirect/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -330,7 +330,7 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 
 
 ### Image Computer
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-image-computer.webp?twic=v1/resize=240" alt="Image Computer">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-image-computer.webp" alt="Image Computer">
 
 #### अपनी अगली आंतरिक सज्जा / पैनिटिंग / फैशन संग्रह / संकल्पना कला तैयार करें
 [Visit](https://www.thataicollection.com/redirect/image-computer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -345,7 +345,7 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 
 
 ### Dimensions
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dimensions.webp?twic=v1/resize=240" alt="Dimensions">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dimensions.webp" alt="Dimensions">
 
 #### डाइमेंशन - एआई के साथ तेजी से विज़ुअल कॉन्सेप्ट बनाएं
 [Visit](https://www.thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -360,7 +360,7 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 
 
 ### AI Room Planner
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-room-planner.webp?twic=v1/resize=240" alt="AI Room Planner">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-room-planner.webp" alt="AI Room Planner">
 
 #### एआई द्वारा आंतरिक डिजाइन
 [Visit](https://www.thataicollection.com/redirect/ai-room-planner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -375,7 +375,7 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 
 
 ### Getfloorplan
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-getfloorplan.webp?twic=v1/resize=240" alt="Getfloorplan">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getfloorplan.webp" alt="Getfloorplan">
 
 #### एआई के साथ 2डी और 3डी फ्लोर प्लान बनाना
 [Visit](https://www.thataicollection.com/redirect/getfloorplan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -390,7 +390,7 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 
 
 ### AI TWO
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-two.webp?twic=v1/resize=240" alt="AI TWO">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-two.webp" alt="AI TWO">
 
 #### Aitwo.Co - रीमॉडल AI - रीमॉडेल्ड इंटीरियर और एक्सटीरियर
 [Visit](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -416,7 +416,7 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 ## कला और छवि जनरेटर
 
 ### Getimg.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-getimg.ai.webp?twic=v1/resize=240" alt="Getimg.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getimg.ai.webp" alt="Getimg.ai">
 
 #### एआई की शक्ति से अद्भुत अवतार, चित्र, कला, तस्वीरें बनाएं।
 [Visit](https://www.thataicollection.com/redirect/getimg.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -431,7 +431,7 @@ getimg.ai जादुई AI टूल का एक सूट है। बड�
 
 
 ### ICONS8
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-icons8.webp?twic=v1/resize=240" alt="ICONS8">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-icons8.webp" alt="ICONS8">
 
 #### प्रतीक, चित्रण, फ़ोटो, संगीत और डिज़ाइन टूल
 [Visit](https://www.thataicollection.com/redirect/icons8?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -446,7 +446,7 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 
 
 ### CustomQR AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-customqr-ai.webp?twic=v1/resize=240" alt="CustomQR AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customqr-ai.webp" alt="CustomQR AI">
 
 #### व्यवसाय के लिए क्यूआर कोड जनरेशन सेवा
 [Visit](https://www.thataicollection.com/redirect/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -461,7 +461,7 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 
 
 ### Playground
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-playground.webp?twic=v1/resize=240" alt="Playground">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-playground.webp" alt="Playground">
 
 #### खेल का मैदान ऐ - ऑनलाइन ऐ छवि निर्माता
 [Visit](https://www.thataicollection.com/redirect/playground?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -476,7 +476,7 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 
 
 ### Designify
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-designify.webp?twic=v1/resize=240" alt="Designify">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-designify.webp" alt="Designify">
 
 #### Designify - किसी भी फोटो को शानदार बनाएं
 [Visit](https://www.thataicollection.com/redirect/designify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -491,7 +491,7 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 
 
 ### NSFW Art Generator AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-nsfw-art-generator-ai.webp?twic=v1/resize=240" alt="NSFW Art Generator AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nsfw-art-generator-ai.webp" alt="NSFW Art Generator AI">
 
 #### तुम पूरी आसानी से गुणवत्तापूर्ण NSFW AI इमेज जेनरेट कर सकते हो।
 [Visit](https://www.thataicollection.com/redirect/nsfw-art-generator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -506,7 +506,7 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 
 
 ### Anime AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-anime-ai.webp?twic=v1/resize=240" alt="Anime AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-anime-ai.webp" alt="Anime AI">
 
 #### एआई एनीमे पिक्चर जेनरेटर - एनीमे एआई
 [Visit](https://www.thataicollection.com/redirect/anime-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -531,7 +531,7 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 ## अवतारों
 
 ### HairstyleAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hairstyleai.webp?twic=v1/resize=240" alt="HairstyleAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hairstyleai.webp" alt="HairstyleAI">
 
 #### एआई की शक्ति से नए हेयर स्टाइल आज़माएं
 [Visit](https://www.thataicollection.com/redirect/hairstyleai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -546,7 +546,7 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 
 
 ### AvatarAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-avatarai.webp?twic=v1/resize=240" alt="AvatarAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="AvatarAI">
 
 #### अपना खुद का फोटोरियलिस्टिक एआई अवतार बनाएं
 [Visit](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -561,7 +561,7 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 
 
 ### Character.io
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-character.io.webp?twic=v1/resize=240" alt="Character.io">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-character.io.webp" alt="Character.io">
 
 #### नए कार्टून चरित्रों को उत्पन्न करने के लिए नि: शुल्क उपकरण
 [Visit](https://www.thataicollection.com/redirect/character.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -576,7 +576,7 @@ GAN की शक्ति से वर्णों या अवतारो�
 
 
 ### Avtrs
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-avtrs.webp?twic=v1/resize=240" alt="Avtrs">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avtrs.webp" alt="Avtrs">
 
 #### हैप्पी यूजर्स द्वारा बनाए गए अवतार
 [Visit](https://www.thataicollection.com/redirect/avtrs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -591,7 +591,7 @@ GAN की शक्ति से वर्णों या अवतारो�
 
 
 ### Autoportrait
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-autoportrait.webp?twic=v1/resize=240" alt="Autoportrait">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-autoportrait.webp" alt="Autoportrait">
 
 #### ऑटोपोर्ट्रेट - एआई पोर्ट्रेट बनाएं
 [Visit](https://www.thataicollection.com/redirect/autoportrait?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -606,7 +606,7 @@ GAN की शक्ति से वर्णों या अवतारो�
 
 
 ### AIVatar
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aivatar.webp?twic=v1/resize=240" alt="AIVatar">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aivatar.webp" alt="AIVatar">
 
 #### ऐवतार - मैजिक अवतार जेनरेटर
 [Visit](https://www.thataicollection.com/redirect/aivatar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -621,7 +621,7 @@ GAN की शक्ति से वर्णों या अवतारो�
 
 
 ### AIprofilepic
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aiprofilepic.webp?twic=v1/resize=240" alt="AIprofilepic">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiprofilepic.webp" alt="AIprofilepic">
 
 #### एआई का उपयोग करके आश्चर्यजनक प्रोफ़ाइल चित्र बनाएं - Aiprofilepic.Art
 [Visit](https://www.thataicollection.com/redirect/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -646,7 +646,7 @@ GAN की शक्ति से वर्णों या अवतारो�
 ## चैट बॉट
 
 ### AChatsimple
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-achatsimple.webp?twic=v1/resize=240" alt="AChatsimple">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-achatsimple.webp" alt="AChatsimple">
 
 #### ChatGPT बिज़नेस चैटबॉट तुम्हारे लिए आसान बना दिया गया है
 [Visit](https://www.thataicollection.com/redirect/achatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -661,7 +661,7 @@ ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छ
 
 
 ### SiteSpeakAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sitespeakai.webp?twic=v1/resize=240" alt="SiteSpeakAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sitespeakai.webp" alt="SiteSpeakAI">
 
 #### ChatGPT के साथ अपनी ग्राहक सहायता को स्वचालित बनाएं।
 [Visit](https://www.thataicollection.com/redirect/sitespeakai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -676,7 +676,7 @@ ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छ
 
 
 ### Dante
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dante.webp?twic=v1/resize=240" alt="Dante">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dante.webp" alt="Dante">
 
 #### आपके डेटा पर प्रशिक्षित कस्टम जीपीटी चैटबॉट्स
 [Visit](https://www.thataicollection.com/redirect/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -691,7 +691,7 @@ ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छ
 
 
 ### ChatBotKit
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chatbotkit.webp?twic=v1/resize=240" alt="ChatBotKit">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbotkit.webp" alt="ChatBotKit">
 
 #### उन्नत एआई चैट बॉट बनाने का सबसे तेज़ तरीका
 [Visit](https://www.thataicollection.com/redirect/chatbotkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -706,7 +706,7 @@ ChatBotKit आपको अपनी वेबसाइट, स्लैक, ड
 
 
 ### SiteGPT
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sitegpt.webp?twic=v1/resize=240" alt="SiteGPT">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sitegpt.webp" alt="SiteGPT">
 
 #### हर वेबसाइट के लिए ChatGPT
 [Visit](https://www.thataicollection.com/redirect/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -721,7 +721,7 @@ ChatBotKit आपको अपनी वेबसाइट, स्लैक, ड
 
 
 ### NOLU
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-nolu.webp?twic=v1/resize=240" alt="NOLU">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nolu.webp" alt="NOLU">
 
 #### एआई के साथ बातचीत करना सरल होना चाहिए।
 [Visit](https://www.thataicollection.com/redirect/nolu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -736,7 +736,7 @@ ChatBotKit आपको अपनी वेबसाइट, स्लैक, ड
 
 
 ### Askrobi
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-askrobi.webp?twic=v1/resize=240" alt="Askrobi">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-askrobi.webp" alt="Askrobi">
 
 #### व्हाट्सएप में एआई की शक्ति
 [Visit](https://www.thataicollection.com/redirect/askrobi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -761,7 +761,7 @@ ChatBotKit आपको अपनी वेबसाइट, स्लैक, ड
 ## कोड और डेटाबेस सहायक
 
 ### Swimm AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-swimm-ai.webp?twic=v1/resize=240" alt="Swimm AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-swimm-ai.webp" alt="Swimm AI">
 
 #### आपका कोड दस्तावेज़ीकरण महाशक्ति
 [Visit](https://www.thataicollection.com/redirect/swimm-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -776,7 +776,7 @@ ChatBotKit आपको अपनी वेबसाइट, स्लैक, ड
 
 
 ### CodiumAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-codiumai.webp?twic=v1/resize=240" alt="CodiumAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-codiumai.webp" alt="CodiumAI">
 
 #### व्यस्त देवों के लिए सार्थक परीक्षण
 [Visit](https://www.thataicollection.com/redirect/codiumai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -791,7 +791,7 @@ CodiumAI आपके कोड का विश्लेषण करता ह
 
 
 ### CodeWP
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-codewp.webp?twic=v1/resize=240" alt="CodeWP">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-codewp.webp" alt="CodeWP">
 
 #### Codewp - AI Wordpress कोड जेनरेटर और सहायक
 [Visit](https://www.thataicollection.com/redirect/codewp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -806,7 +806,7 @@ CodeWP एक वर्डप्रेस कोड जनरेटर है �
 
 
 ### ExplainDev
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-explaindev.webp?twic=v1/resize=240" alt="ExplainDev">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-explaindev.webp" alt="ExplainDev">
 
 #### एक्सप्लेनदेव - कोड एक्सप्लेनर जो संदर्भ में आपके प्रश्नों का उत्तर देता है
 [Visit](https://www.thataicollection.com/redirect/explaindev?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -821,7 +821,7 @@ CodeWP एक वर्डप्रेस कोड जनरेटर है �
 
 
 ### TLDR - Jetbrains IDE Plugin
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tldr---jetbrains-ide-plugin.webp?twic=v1/resize=240" alt="TLDR - Jetbrains IDE Plugin">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tldr---jetbrains-ide-plugin.webp" alt="TLDR - Jetbrains IDE Plugin">
 
 #### टीएलडीआर - सादे अंग्रेजी में कोड समझाएं
 [Visit](https://www.thataicollection.com/redirect/tldr---jetbrains-ide-plugin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -836,7 +836,7 @@ CodeWP एक वर्डप्रेस कोड जनरेटर है �
 
 
 ### Klu
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-klu.webp?twic=v1/resize=240" alt="Klu">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-klu.webp" alt="Klu">
 
 #### Klu.ai एक ऑल-इन-वन प्लेटफ़ॉर्म है जिसे AI टीमों के लिए जेनेरेटिव AI ऐप्लिकेशन बनाने, तैनात करने और ऑप्टिमाइज़ करने के लिए डिज़ाइन किया गया है। 
 [Visit](https://www.thataicollection.com/redirect/klu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -851,7 +851,7 @@ Klu.ai एक ऑल-इन-वन प्लेटफ़ॉर्म है ज�
 
 
 ### Whatthediff
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-whatthediff.webp?twic=v1/resize=240" alt="Whatthediff">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-whatthediff.webp" alt="Whatthediff">
 
 #### व्हाट-द-डिफ - एआई-संचालित कोड समीक्षा सहायक
 [Visit](https://www.thataicollection.com/redirect/whatthediff?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -876,7 +876,7 @@ Klu.ai एक ऑल-इन-वन प्लेटफ़ॉर्म है ज�
 ## सामग्री निर्माण और एसईओ
 
 ### CarbonCopy
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-carboncopy.webp?twic=v1/resize=240" alt="CarbonCopy">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-carboncopy.webp" alt="CarbonCopy">
 
 #### कार्बनकॉपी एआई लेखन उपकरण और सामग्री जेनरेटर
 [Visit](https://www.thataicollection.com/redirect/carboncopy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -891,7 +891,7 @@ Klu.ai एक ऑल-इन-वन प्लेटफ़ॉर्म है ज�
 
 
 ### Jasper.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jasper.ai.webp?twic=v1/resize=240" alt="Jasper.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jasper.ai.webp" alt="Jasper.ai">
 
 #### जैस्पर - एआई कॉपीराइटर - टीमों के लिए एआई कंटेंट जेनरेटर
 [Visit](https://www.thataicollection.com/redirect/jasper.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -906,7 +906,7 @@ Klu.ai एक ऑल-इन-वन प्लेटफ़ॉर्म है ज�
 
 
 ### WordAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wordai.webp?twic=v1/resize=240" alt="WordAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordai.webp" alt="WordAI">
 
 #### एआई टेक्स्ट रिवाइटर - वर्डई
 [Visit](https://www.thataicollection.com/redirect/wordai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -921,7 +921,7 @@ Klu.ai एक ऑल-इन-वन प्लेटफ़ॉर्म है ज�
 
 
 ### Dashword
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dashword.webp?twic=v1/resize=240" alt="Dashword">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dashword.webp" alt="Dashword">
 
 #### बेहतरीन सामग्री लिखें, तेजी से। कुछ ही समय में सामग्री संक्षिप्त बनाएं और एसईओ के लिए अपनी सामग्री को अनुकूलित करें।
 [Visit](https://www.thataicollection.com/redirect/dashword?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -936,7 +936,7 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 
 ### unbound
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-unbound.webp?twic=v1/resize=240" alt="unbound">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unbound.webp" alt="unbound">
 
 #### आपके छोटे व्यवसाय के लिए स्वचालित सामग्री निर्माण
 [Visit](https://www.thataicollection.com/redirect/unbound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -951,7 +951,7 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 
 ### Neuraltext
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-neuraltext.webp?twic=v1/resize=240" alt="Neuraltext">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuraltext.webp" alt="Neuraltext">
 
 #### Neuraltext - AI लेखक और SEO प्लेटफ़ॉर्म।
 [Visit](https://www.thataicollection.com/redirect/neuraltext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -966,7 +966,7 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 
 ### Intelligent paraphraser
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-intelligent-paraphraser.webp?twic=v1/resize=240" alt="Intelligent paraphraser">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-intelligent-paraphraser.webp" alt="Intelligent paraphraser">
 
 #### Aiseo - AI राइटिंग असिस्टेंट, AI कॉपी राइटिंग और कंटेंट जेनरेटर
 [Visit](https://www.thataicollection.com/redirect/intelligent-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -991,7 +991,7 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 ## निर्माता टूलकिट
 
 ### Damn Good Tools
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-damn-good-tools.webp?twic=v1/resize=240" alt="Damn Good Tools">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools">
 
 #### ओह, ये बहुत अच्छे उपकरण हैं
 उपयोग में आसान, मज़ेदार उपकरण—निःशुल्क (और ओपन-सोर्स)।
@@ -1008,7 +1008,7 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 
 ### Clipdrop
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-clipdrop.webp?twic=v1/resize=240" alt="Clipdrop">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clipdrop.webp" alt="Clipdrop">
 
 #### सेकंड में आश्चर्यजनक दृश्य बनाएँ
 [Visit](https://www.thataicollection.com/redirect/clipdrop?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1023,7 +1023,7 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 
 ### Descript
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-descript.webp?twic=v1/resize=240" alt="Descript">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-descript.webp" alt="Descript">
 
 #### वीडियो और पॉडकास्ट बनाने का एक नया तरीका है। एक अच्छा तरीका।
 [Visit](https://www.thataicollection.com/redirect/descript?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1038,7 +1038,7 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 
 ### Cutout Pro
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cutout-pro.webp?twic=v1/resize=240" alt="Cutout Pro">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cutout-pro.webp" alt="Cutout Pro">
 
 #### Cutout.Pro - AI फोटो एडिटिंग - विजुअल कंटेंट जनरेशन प्लेटफॉर्म, इमेज और वीडियो डिजाइन के लिए बेस्ट
 [Visit](https://www.thataicollection.com/redirect/cutout-pro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1053,7 +1053,7 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 
 ### Fermat
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fermat.webp?twic=v1/resize=240" alt="Fermat">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fermat.webp" alt="Fermat">
 
 #### सामग्री निर्माण के लिए रचनात्मकता संवर्धित
 [Visit](https://www.thataicollection.com/redirect/fermat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1068,7 +1068,7 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 
 ### Adobe Express
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-express.webp?twic=v1/resize=240" alt="Adobe Express">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-adobe-express.webp" alt="Adobe Express">
 
 #### YouTube के थंबनेल मिनटों में मुफ़्त बनाएं।
 [Visit](https://www.thataicollection.com/redirect/adobe-express?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1083,7 +1083,7 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 
 ### Lightricks
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lightricks.webp?twic=v1/resize=240" alt="Lightricks">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lightricks.webp" alt="Lightricks">
 
 #### हर जगह रचनाकारों का घर
 [Visit](https://www.thataicollection.com/redirect/lightricks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1108,7 +1108,7 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 ## ग्राहक सहेयता
 
 ### Webapi.ai 2.0
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-webapi.ai-2.0.webp?twic=v1/resize=240" alt="Webapi.ai 2.0">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-webapi.ai-2.0.webp" alt="Webapi.ai 2.0">
 
 #### ग्राहक सेवा के लिए ChatGPT
 [Visit](https://www.thataicollection.com/redirect/webapi.ai-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1123,7 +1123,7 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 
 ### AI Answers by Cohere
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-answers-by-cohere.webp?twic=v1/resize=240" alt="AI Answers by Cohere">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-answers-by-cohere.webp" alt="AI Answers by Cohere">
 
 #### ग्राहक सहायता के लिए संवादी AI प्लेटफ़ॉर्म - कोहेयर
 [Visit](https://www.thataicollection.com/redirect/ai-answers-by-cohere?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1138,7 +1138,7 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 
 ### Bahasa
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-bahasa.webp?twic=v1/resize=240" alt="Bahasa">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bahasa.webp" alt="Bahasa">
 
 #### बहासा.आई - चैटबॉट जो ग्राहकों को पूरी तरह से सेवा प्रदान करता है
 [Visit](https://www.thataicollection.com/redirect/bahasa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1153,7 +1153,7 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 
 ### ResolveAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-resolveai.webp?twic=v1/resize=240" alt="ResolveAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-resolveai.webp" alt="ResolveAI">
 
 #### समाधान
 [Visit](https://www.thataicollection.com/redirect/resolveai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1168,7 +1168,7 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 
 ### EddyAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-eddyai.webp?twic=v1/resize=240" alt="EddyAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eddyai.webp" alt="EddyAI">
 
 #### अपने ग्राहकों को स्वचालित रूप से 24/7 बेचें और उनका समर्थन करें
 [Visit](https://www.thataicollection.com/redirect/eddyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1183,7 +1183,7 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 
 ### Poised 2.0
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-poised-2.0.webp?twic=v1/resize=240" alt="Poised 2.0">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-poised-2.0.webp" alt="Poised 2.0">
 
 #### तैयार - मुफ़्त AI- संचालित कम्यूनिकेशन कोच
 [Visit](https://www.thataicollection.com/redirect/poised-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1198,7 +1198,7 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 
 
 ### OneTone.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-onetone.ai.webp?twic=v1/resize=240" alt="OneTone.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-onetone.ai.webp" alt="OneTone.ai">
 
 #### हम सहायता टीमों को तेज़ और अधिक सटीक संचार करने में मदद करते हैं
 [Visit](https://www.thataicollection.com/redirect/onetone.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1223,7 +1223,7 @@ OneTone.ai एक एआई-संचालित प्लेटफ़ॉर्
 ## ई-कॉमर्स
 
 ### Octie.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-octie.ai.webp?twic=v1/resize=240" alt="Octie.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-octie.ai.webp" alt="Octie.ai">
 
 #### Octie.Ai - आपका A.I. ईकॉमर्स मार्केटिंग असिस्टेंट
 [Visit](https://www.thataicollection.com/redirect/octie.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1238,7 +1238,7 @@ OneTone.ai एक एआई-संचालित प्लेटफ़ॉर्
 
 
 ### Embolden
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-embolden.webp?twic=v1/resize=240" alt="Embolden">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-embolden.webp" alt="Embolden">
 
 #### अपने ईकॉमर्स लेखन को सशक्त बनाने के लिए एआई का उपयोग करें।
 [Visit](https://www.thataicollection.com/redirect/embolden?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1253,7 +1253,7 @@ OneTone.ai एक एआई-संचालित प्लेटफ़ॉर्
 
 
 ### Wizishop
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wizishop.webp?twic=v1/resize=240" alt="Wizishop">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wizishop.webp" alt="Wizishop">
 
 #### एसईओ-संचालित ईकॉमर्स के साथ अपना व्यवसाय बढ़ाएँ
 [Visit](https://www.thataicollection.com/redirect/wizishop?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1268,7 +1268,7 @@ WiziShop SEO-संचालित ई-कॉमर्स को पहले �
 
 
 ### DoMyShoot
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-domyshoot.webp?twic=v1/resize=240" alt="DoMyShoot">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-domyshoot.webp" alt="DoMyShoot">
 
 #### DoMyShoot - उत्पाद फोटोग्राफी सरलीकृत
 [Visit](https://www.thataicollection.com/redirect/domyshoot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1283,7 +1283,7 @@ WiziShop SEO-संचालित ई-कॉमर्स को पहले �
 
 
 ### manifest
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-manifest.webp?twic=v1/resize=240" alt="manifest">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-manifest.webp" alt="manifest">
 
 #### आर्टिफिशियल इंटेलिजेंस के साथ ईकॉमर्स की पुनः कल्पना
 [Visit](https://www.thataicollection.com/redirect/manifest?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1298,7 +1298,7 @@ WiziShop SEO-संचालित ई-कॉमर्स को पहले �
 
 
 ### Gizzmo Ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gizzmo-ai.webp?twic=v1/resize=240" alt="Gizzmo Ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gizzmo-ai.webp" alt="Gizzmo Ai">
 
 #### वर्डप्रेस संबद्ध सामग्री के साथ अपनी कमाई बढ़ाएं।
 [Visit](https://www.thataicollection.com/redirect/gizzmo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1313,7 +1313,7 @@ Gizzmo एक शक्तिशाली वर्डप्रेस प्ल�
 
 
 ### VModel
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-vmodel.webp?twic=v1/resize=240" alt="VModel">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vmodel.webp" alt="VModel">
 
 #### vModel कुशल और लागत प्रभावी ऑन-मॉडल फ़ोटोग्राफ़ी के लिए AI फ़ैशन मॉडल जनरेटर है। यह मॉडल फ़ोटोग्राफ़ी के खर्च को 90% तक कम करके रिटेल में सफलता को बढ़ाता है।
 [Visit](https://www.thataicollection.com/redirect/vmodel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1338,7 +1338,7 @@ vModel वर्चुअल फ़ैशन मॉडल बनाने के
 ## शिक्षा और सीखना
 
 ### QUIZGECKO
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-quizgecko.webp?twic=v1/resize=240" alt="QUIZGECKO">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quizgecko.webp" alt="QUIZGECKO">
 
 #### मैन्युअल रूप से क्विज़ बनाने में समय बर्बाद करना बंद करें
 [Visit](https://www.thataicollection.com/redirect/quizgecko?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1353,7 +1353,7 @@ vModel वर्चुअल फ़ैशन मॉडल बनाने के
 
 
 ### Botta
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-botta.webp?twic=v1/resize=240" alt="Botta">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-botta.webp" alt="Botta">
 
 #### किसी विषय से परेशानी हो रही है? बोटा से मिलें
 [Visit](https://www.thataicollection.com/redirect/botta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1368,7 +1368,7 @@ vModel वर्चुअल फ़ैशन मॉडल बनाने के
 
 
 ### Speakingclubai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-speakingclubai.webp?twic=v1/resize=240" alt="Speakingclubai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-speakingclubai.webp" alt="Speakingclubai">
 
 #### स्पीकिंग क्लब एआई
 [Visit](https://www.thataicollection.com/redirect/speakingclubai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1383,7 +1383,7 @@ vModel वर्चुअल फ़ैशन मॉडल बनाने के
 
 
 ### Lorro
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lorro.webp?twic=v1/resize=240" alt="Lorro">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lorro.webp" alt="Lorro">
 
 #### कम लागत में धाराप्रवाह अंग्रेजी बोलने वाले बनें। एआई ट्यूटर से बात करके
 [Visit](https://www.thataicollection.com/redirect/lorro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1398,7 +1398,7 @@ AI और GPT-3 द्वारा संचालित अत्यधिक �
 
 
 ### TutorAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tutorai.webp?twic=v1/resize=240" alt="TutorAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tutorai.webp" alt="TutorAI">
 
 #### कुछ भी सीखो - अपने इच्छित विषय को खोजकर
 [Visit](https://www.thataicollection.com/redirect/tutorai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1413,7 +1413,7 @@ TutoEAI लर्न एनीथिंग किसी भी विषय क�
 
 
 ### Teacherbot
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-teacherbot.webp?twic=v1/resize=240" alt="Teacherbot">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-teacherbot.webp" alt="Teacherbot">
 
 #### टीचरबॉट - वह टूल जिसका हर शिक्षक हकदार होता है
 [Visit](https://www.thataicollection.com/redirect/teacherbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1428,7 +1428,7 @@ TutoEAI लर्न एनीथिंग किसी भी विषय क�
 
 
 ### Replicate
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-replicate.webp?twic=v1/resize=240" alt="Replicate">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-replicate.webp" alt="Replicate">
 
 #### मशीन लर्निंग को इतना कठिन होने की आवश्यकता नहीं है।
 [Visit](https://www.thataicollection.com/redirect/replicate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1453,7 +1453,7 @@ TutoEAI लर्न एनीथिंग किसी भी विषय क�
 ## ईमेल सहायक
 
 ### Smartwriter
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-smartwriter.webp?twic=v1/resize=240" alt="Smartwriter">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-smartwriter.webp" alt="Smartwriter">
 
 #### 1000S वैयक्तिकृत ईमेल उत्पन्न करें जो आपको AI का उपयोग करके मिनटों के भीतर 8 गुना अधिक उत्तर प्राप्त करें
 [Visit](https://www.thataicollection.com/redirect/smartwriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1468,7 +1468,7 @@ TutoEAI लर्न एनीथिंग किसी भी विषय क�
 
 
 ### Warmer.Ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-warmer.ai.webp?twic=v1/resize=240" alt="Warmer.Ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-warmer.ai.webp" alt="Warmer.Ai">
 
 #### वार्मर.एआई - एआई ईमेल लेखक
 [Visit](https://www.thataicollection.com/redirect/warmer.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1483,7 +1483,7 @@ TutoEAI लर्न एनीथिंग किसी भी विषय क�
 
 
 ### DraftLab
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-draftlab.webp?twic=v1/resize=240" alt="DraftLab">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-draftlab.webp" alt="DraftLab">
 
 #### ड्राफ्टलैब ऐ: एआई के साथ तेजी से बेहतर ईमेल लिखें
 [Visit](https://www.thataicollection.com/redirect/draftlab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1498,7 +1498,7 @@ TutoEAI लर्न एनीथिंग किसी भी विषय क�
 
 
 ### Ellie
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ellie.webp?twic=v1/resize=240" alt="Ellie">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ellie.webp" alt="Ellie">
 
 #### ऐली - आपका एआई ईमेल सहायक
 [Visit](https://www.thataicollection.com/redirect/ellie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1513,7 +1513,7 @@ TutoEAI लर्न एनीथिंग किसी भी विषय क�
 
 
 ### EmailTriager
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-emailtriager.webp?twic=v1/resize=240" alt="EmailTriager">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-emailtriager.webp" alt="EmailTriager">
 
 #### ईमेलट्राइजर · ऑटोपायलट पर ईमेल।
 [Visit](https://www.thataicollection.com/redirect/emailtriager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1528,7 +1528,7 @@ EmailTriager में, हम ऐसे उत्पाद बनाते ह�
 
 
 ### Quicklines
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-quicklines.webp?twic=v1/resize=240" alt="Quicklines">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quicklines.webp" alt="Quicklines">
 
 #### क्विकलाइन लाइफटाइम एक्सेस - केवल $59
 [Visit](https://www.thataicollection.com/redirect/quicklines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1543,7 +1543,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### superReply
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-superreply.webp?twic=v1/resize=240" alt="superReply">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-superreply.webp" alt="superReply">
 
 #### अपना ईमेल गेम अपग्रेड करें
 [Visit](https://www.thataicollection.com/redirect/superreply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1568,7 +1568,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 ## पहनावा
 
 ### FashionAdvisorAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fashionadvisorai.webp?twic=v1/resize=240" alt="FashionAdvisorAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fashionadvisorai.webp" alt="FashionAdvisorAI">
 
 #### Fashionadvisor.Ai - Fashionadvisor.A से प्रश्न पूछें और उत्तर प्राप्त करें
 [Visit](https://www.thataicollection.com/redirect/fashionadvisorai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1583,7 +1583,7 @@ FashionAdvisor GPT3 पर आधारित एक AI है जो आपक�
 
 
 ### Visualhound
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-visualhound.webp?twic=v1/resize=240" alt="Visualhound">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-visualhound.webp" alt="Visualhound">
 
 #### विज़ुअलहाउंड - एआई के साथ अपने फैशन डिजाइन विचारों को प्रोटोटाइप करें
 [Visit](https://www.thataicollection.com/redirect/visualhound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1598,7 +1598,7 @@ FashionAdvisor GPT3 पर आधारित एक AI है जो आपक�
 
 
 ### SwagAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-swagai.webp?twic=v1/resize=240" alt="SwagAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-swagai.webp" alt="SwagAI">
 
 #### अपने बोरिंग वॉर्डरोब से सजाना
 AI द्वारा जेनरेट किया गया स्वैग।
@@ -1625,7 +1625,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 ## आनंद
 
 ### CharacterAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-characterai.webp?twic=v1/resize=240" alt="CharacterAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-characterai.webp" alt="CharacterAI">
 
 #### कैरेक्टर। ऐ आपको कैरेक्टर बनाने और उनसे बात करने की सुविधा देता है।
 [Visit](https://www.thataicollection.com/redirect/characterai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1640,7 +1640,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### Ask RBG
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ask-rbg.webp?twic=v1/resize=240" alt="Ask RBG">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ask-rbg.webp" alt="Ask RBG">
 
 #### आरबीजी (शायद) क्या कहेंगे?
 [Visit](https://www.thataicollection.com/redirect/ask-rbg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1655,7 +1655,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### Philosophy
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-philosophy.webp?twic=v1/resize=240" alt="Philosophy">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-philosophy.webp" alt="Philosophy">
 
 #### एक दार्शनिक से पूछो
 [Visit](https://www.thataicollection.com/redirect/philosophy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1670,7 +1670,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### Botify
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-botify.webp?twic=v1/resize=240" alt="Botify">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-botify.webp" alt="Botify">
 
 #### बॉटिफाई एआई
 [Visit](https://www.thataicollection.com/redirect/botify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1685,7 +1685,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### StoriesForKids
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-storiesforkids.webp?twic=v1/resize=240" alt="StoriesForKids">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storiesforkids.webp" alt="StoriesForKids">
 
 #### Storyforkids.Ai: एआई का उपयोग कर निजीकृत बच्चों की किताबें
 [Visit](https://www.thataicollection.com/redirect/storiesforkids?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1700,7 +1700,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### Excuses AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-excuses-ai.webp?twic=v1/resize=240" alt="Excuses AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-excuses-ai.webp" alt="Excuses AI">
 
 #### बहाना जनरेटर
 [Visit](https://www.thataicollection.com/redirect/excuses-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1715,7 +1715,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### Askmybook
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-askmybook.webp?twic=v1/resize=240" alt="Askmybook">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-askmybook.webp" alt="Askmybook">
 
 #### आस्क माय बुक: द मिनिमलिस्ट एंटरप्रेन्योर
 [Visit](https://www.thataicollection.com/redirect/askmybook?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1740,7 +1740,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 ## जुआ
 
 ### charisma
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-charisma.webp?twic=v1/resize=240" alt="charisma">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-charisma.webp" alt="charisma">
 
 #### पावर रीयल-टाइम डिजिटल मानव
 [Visit](https://www.thataicollection.com/redirect/charisma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1755,7 +1755,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### hidden door
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hidden-door.webp?twic=v1/resize=240" alt="hidden door">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hidden-door.webp" alt="hidden door">
 
 #### हैलो, संसारों!
 [Visit](https://www.thataicollection.com/redirect/hidden-door?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1770,7 +1770,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### latitude
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-latitude.webp?twic=v1/resize=240" alt="latitude">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-latitude.webp" alt="latitude">
 
 #### एआई-जनरेटेड गेम्स का भविष्य
 [Visit](https://www.thataicollection.com/redirect/latitude?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1785,7 +1785,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### Chess AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chess-ai.webp?twic=v1/resize=240" alt="Chess AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chess-ai.webp" alt="Chess AI">
 
 #### बेटाफिश - अल्फाजीरो और स्टॉकफिश का मिश्रण।
 [Visit](https://www.thataicollection.com/redirect/chess-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1800,7 +1800,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### GGPredict
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ggpredict.webp?twic=v1/resize=240" alt="GGPredict">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ggpredict.webp" alt="GGPredict">
 
 #### ट्रेन होशियार। तेजी से रैंक करें।
 [Visit](https://www.thataicollection.com/redirect/ggpredict?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1815,7 +1815,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### Assetsai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-assetsai.webp?twic=v1/resize=240" alt="Assetsai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-assetsai.webp" alt="Assetsai">
 
 #### आपके खेलों के लिए एआई-संचालित, अद्वितीय और क्यूरेटेड संपत्तियां
 [Visit](https://www.thataicollection.com/redirect/assetsai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1830,7 +1830,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### Scenario
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-scenario.webp?twic=v1/resize=240" alt="Scenario">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scenario.webp" alt="Scenario">
 
 #### परिदृश्य
 [Visit](https://www.thataicollection.com/redirect/scenario?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1855,7 +1855,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 ## उपहार योजना
 
 ### Lovelines
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lovelines.webp?twic=v1/resize=240" alt="Lovelines">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lovelines.webp" alt="Lovelines">
 
 #### Lovelines.Xyz - एआई द्वारा बनाए गए कस्टम उपहारों के साथ अपना प्यार साझा करें
 [Visit](https://www.thataicollection.com/redirect/lovelines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1870,7 +1870,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### Text2present
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-text2present.webp?twic=v1/resize=240" alt="Text2present">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-text2present.webp" alt="Text2present">
 
 #### Text2Present.Com - व्यस्त लोगों की ओर से रचनात्मक उपहार।
 [Visit](https://www.thataicollection.com/redirect/text2present?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1885,7 +1885,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### Outdone V2
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-outdone-v2.webp?twic=v1/resize=240" alt="Outdone V2">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-outdone-v2.webp" alt="Outdone V2">
 
 #### मिनटों या उससे कम में सही उपहार पाएं
 [Visit](https://www.thataicollection.com/redirect/outdone-v2?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1900,7 +1900,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### Gifts Genie
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gifts-genie.webp?twic=v1/resize=240" alt="Gifts Genie">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gifts-genie.webp" alt="Gifts Genie">
 
 #### जिनी - एआई उपहार जेनरेटर
 [Visit](https://www.thataicollection.com/redirect/gifts-genie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1915,7 +1915,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### GiftBot
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-giftbot.webp?twic=v1/resize=240" alt="GiftBot">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-giftbot.webp" alt="GiftBot">
 
 #### उपहार सहायता प्राप्त करें
 [Visit](https://www.thataicollection.com/redirect/giftbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1930,7 +1930,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### Giftastic AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-giftastic-ai.webp?twic=v1/resize=240" alt="Giftastic AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-giftastic-ai.webp" alt="Giftastic AI">
 
 #### गिफ्टस्टिक.आई - आपके खास के लिए बिल्कुल सही उपहार!
 [Visit](https://www.thataicollection.com/redirect/giftastic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1945,7 +1945,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### Gift Genie
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-gift-genie.webp?twic=v1/resize=240" alt="Gift Genie">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gift-genie.webp" alt="Gift Genie">
 
 #### गिफ्ट जेनी एआई - क्रिसमस, जन्मदिन, छुट्टियों आदि के लिए मुफ्त व्यक्तिगत उपहार विचार!
 [Visit](https://www.thataicollection.com/redirect/gift-genie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1970,7 +1970,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 ## स्वास्थ्य देखभाल
 
 ### Replika
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-replika.webp?twic=v1/resize=240" alt="Replika">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-replika.webp" alt="Replika">
 
 #### एआई साथी जो परवाह करता है
 [Visit](https://www.thataicollection.com/redirect/replika?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1985,7 +1985,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### Getactyv
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-getactyv.webp?twic=v1/resize=240" alt="Getactyv">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getactyv.webp" alt="Getactyv">
 
 #### Getactyv - एआई और कंप्यूटर विजन असिस्टेड हेल्थ एंड फिटनेस प्लेटफॉर्म
 [Visit](https://www.thataicollection.com/redirect/getactyv?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2000,7 +2000,7 @@ GetActyv का AI-आधारित पर्सनल ट्रेनर आ�
 
 
 ### Ubie AI Symptom Checker
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ubie-ai-symptom-checker.webp?twic=v1/resize=240" alt="Ubie AI Symptom Checker">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ubie-ai-symptom-checker.webp" alt="Ubie AI Symptom Checker">
 
 #### एआई द्वारा लक्षणों की जांच करें और कारणों का पता लगाएं
 [Visit](https://www.thataicollection.com/redirect/ubie-ai-symptom-checker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2025,7 +2025,7 @@ GetActyv का AI-आधारित पर्सनल ट्रेनर आ�
 ## मानव संसाधन और फिर से शुरू
 
 ### AI Resume Editor
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-resume-editor.webp?twic=v1/resize=240" alt="AI Resume Editor">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-resume-editor.webp" alt="AI Resume Editor">
 
 #### जिस तरह से दुनिया रिज्यूमे बनाती है। सबसे स्मार्ट जीपीटी-संचालित रिज्यूमे बिल्डर।
 [Visit](https://www.thataicollection.com/redirect/ai-resume-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2040,7 +2040,7 @@ Rezi एकमात्र रिज्यूमे प्लेटफॉर्�
 
 
 ### Prodigy AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prodigy-ai.webp?twic=v1/resize=240" alt="Prodigy AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prodigy-ai.webp" alt="Prodigy AI">
 
 #### सॉफ्टवेयर इंजीनियरों के करियर को बेहतर बनाने के लिए एआई का उपयोग करना
 [Visit](https://www.thataicollection.com/redirect/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2055,7 +2055,7 @@ Rezi एकमात्र रिज्यूमे प्लेटफॉर्�
 
 
 ### rankode
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rankode.webp?twic=v1/resize=240" alt="rankode">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rankode.webp" alt="rankode">
 
 #### मानव संसाधन के लिए एआई - रैंककोड
 [Visit](https://www.thataicollection.com/redirect/rankode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2070,7 +2070,7 @@ Rezi एकमात्र रिज्यूमे प्लेटफॉर्�
 
 
 ### LazyApply
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lazyapply.webp?twic=v1/resize=240" alt="LazyApply">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lazyapply.webp" alt="LazyApply">
 
 #### अपनी नौकरी की आवेदन प्रक्रिया को स्वचालित करें
 [Visit](https://www.thataicollection.com/redirect/lazyapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2085,7 +2085,7 @@ Rezi एकमात्र रिज्यूमे प्लेटफॉर्�
 
 
 ### Coverquick
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-coverquick.webp?twic=v1/resize=240" alt="Coverquick">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-coverquick.webp" alt="Coverquick">
 
 #### तुम्हारे विचारों को आकर्षक सामग्री में आसानी से बदलना।
 [Visit](https://www.thataicollection.com/redirect/coverquick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2101,7 +2101,7 @@ CoverQuick आसानी से कंटेंट बनाने और प�
 
 
 ### HireYaY
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hireyay.webp?twic=v1/resize=240" alt="HireYaY">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hireyay.webp" alt="HireYaY">
 
 #### हिरेय, स्टार्टअप्स के लिए एक हायरिंग प्लेटफॉर्म
 [Visit](https://www.thataicollection.com/redirect/hireyay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2116,7 +2116,7 @@ CoverQuick आसानी से कंटेंट बनाने और प�
 
 
 ### JD Generator
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jd-generator.webp?twic=v1/resize=240" alt="JD Generator">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jd-generator.webp" alt="JD Generator">
 
 #### टीम से मिलें - किराया भागफल
 [Visit](https://www.thataicollection.com/redirect/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2141,7 +2141,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 ## आईडिया जनरेशन
 
 ### Validator AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-validator-ai.webp?twic=v1/resize=240" alt="Validator AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-validator-ai.webp" alt="Validator AI">
 
 #### अपनी उद्यमशीलता की यात्रा आज ही मुफ़्त में शुरू करें
 [Visit](https://www.thataicollection.com/redirect/validator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2156,7 +2156,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 
 ### Paperade
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paperade.webp?twic=v1/resize=240" alt="Paperade">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paperade.webp" alt="Paperade">
 
 #### पेपरेड स्टार्टअप आइडिया जेनरेटर
 [Visit](https://www.thataicollection.com/redirect/paperade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2171,7 +2171,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 
 ### Business Idea Generator
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-business-idea-generator.webp?twic=v1/resize=240" alt="Business Idea Generator">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-business-idea-generator.webp" alt="Business Idea Generator">
 
 #### मंथन व्यापार विचार
 [Visit](https://www.thataicollection.com/redirect/business-idea-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2186,7 +2186,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 
 ### Ideasai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ideasai.webp?twic=v1/resize=240" alt="Ideasai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ideasai.webp" alt="Ideasai">
 
 #### आइडियासाई - OpenAI द्वारा संचालित स्टार्टअप के विचार
 [Visit](https://www.thataicollection.com/redirect/ideasai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2201,7 +2201,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 
 ### Videomuse
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-videomuse.webp?twic=v1/resize=240" alt="Videomuse">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videomuse.webp" alt="Videomuse">
 
 #### बस अपने चैनल का यूआरएल चिपकाकर आसानी से ताज़ा वीडियो आइडिया जनरेट करें। सेकंड में, अपनी सामग्री के अनुरूप प्रेरणा का खजाना प्राप्त करें।
 [Visit](https://www.thataicollection.com/redirect/videomuse?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2216,7 +2216,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 
 ### My Spicy Vanilla
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-my-spicy-vanilla.webp?twic=v1/resize=240" alt="My Spicy Vanilla">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-spicy-vanilla.webp" alt="My Spicy Vanilla">
 
 #### माय स्पाइसी वनीला का एआई डेट आइडिया जेनरेटर 
 [Visit](https://www.thataicollection.com/redirect/my-spicy-vanilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2245,7 +2245,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 ## कानूनी
 
 ### Paralegal AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paralegal-ai.webp?twic=v1/resize=240" alt="Paralegal AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paralegal-ai.webp" alt="Paralegal AI">
 
 #### पैरालीगल एआई
 [Visit](https://www.thataicollection.com/redirect/paralegal-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2260,7 +2260,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 
 ### Compliance Quarter
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-compliance-quarter.webp?twic=v1/resize=240" alt="Compliance Quarter">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-compliance-quarter.webp" alt="Compliance Quarter">
 
 #### एक्सपर्ट कंप्लायंस सिस्टम और संसाधन - कंप्लायंस क्वार्टर
 [Visit](https://www.thataicollection.com/redirect/compliance-quarter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2275,7 +2275,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 
 ### Equally.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-equally.ai.webp?twic=v1/resize=240" alt="Equally.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-equally.ai.webp" alt="Equally.ai">
 
 #### सभी के लिए वेब अभिगम्यता अनुपालन
 [Visit](https://www.thataicollection.com/redirect/equally.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2290,7 +2290,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 
 ### DoNotPay
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-donotpay.webp?twic=v1/resize=240" alt="DoNotPay">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-donotpay.webp" alt="DoNotPay">
 
 #### दुनिया का पहला रोबोट वकील
 [Visit](https://www.thataicollection.com/redirect/donotpay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2305,7 +2305,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 
 ### PatentPal
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-patentpal.webp?twic=v1/resize=240" alt="PatentPal">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-patentpal.webp" alt="PatentPal">
 
 #### बौद्धिक संपदा के लिए जनरेटिव एआई
 [Visit](https://www.thataicollection.com/redirect/patentpal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2320,7 +2320,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 
 ### Spellbook
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-spellbook.webp?twic=v1/resize=240" alt="Spellbook">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-spellbook.webp" alt="Spellbook">
 
 #### ड्राफ्ट अनुबंध एआई के साथ 3 गुना तेज
 [Visit](https://www.thataicollection.com/redirect/spellbook?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2345,7 +2345,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 ## लोगो जनरेटर
 
 ### Looka
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-looka.webp?twic=v1/resize=240" alt="Looka">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka">
 
 #### नि: शुल्क लोगो निर्माता और बुद्धिमान ब्रांड डिजाइनर
 [Visit](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2360,7 +2360,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 
 ### Text To Book Cover
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-text-to-book-cover.webp?twic=v1/resize=240" alt="Text To Book Cover">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-text-to-book-cover.webp" alt="Text To Book Cover">
 
 #### टीमों के लिए एआई इमेज जेनरेशन - आप एआई लोगो, एआई बुक कवर, एआई पोस्टर और बहुत कुछ आसानी से उत्पन्न कर सकते हैं - स्टॉकिमग एआई
 [Visit](https://www.thataicollection.com/redirect/text-to-book-cover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2375,7 +2375,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 
 ### Make Logo AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-make-logo-ai.webp?twic=v1/resize=240" alt="Make Logo AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-make-logo-ai.webp" alt="Make Logo AI">
 
 #### Makelogo.Ai: अपने स्टार्टअप के लिए सही लोगो प्राप्त करें।
 [Visit](https://www.thataicollection.com/redirect/make-logo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2390,7 +2390,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 
 ### Logo Rank
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-logo-rank.webp?twic=v1/resize=240" alt="Logo Rank">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-logo-rank.webp" alt="Logo Rank">
 
 #### ब्रैंडमार्क लोगो मेकर - सबसे उन्नत AI लोगो डिज़ाइन टूल
 [Visit](https://www.thataicollection.com/redirect/logo-rank?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2416,7 +2416,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 ## बैठक सहायक
 
 ### Fireflies
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fireflies.webp?twic=v1/resize=240" alt="Fireflies">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fireflies.webp" alt="Fireflies">
 
 #### Fireflies.Ai - अपने आप करो
 मीटिंग नोट्स - नोटटेकर और बातचीत से जुड़ी जानकारी
@@ -2433,7 +2433,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### Jamie
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jamie.webp?twic=v1/resize=240" alt="Jamie">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jamie.webp" alt="Jamie">
 
 #### जेमी - मीटिंग सारांश के लिए AI असिस्टेंट
 [Visit](https://www.thataicollection.com/redirect/jamie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2448,7 +2448,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### Supernormal
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-supernormal.webp?twic=v1/resize=240" alt="Supernormal">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supernormal.webp" alt="Supernormal">
 
 #### सुपरनॉर्मल - एआई जो तुम्हारी मीटिंग के नोट्स लिखता है
 [Visit](https://www.thataicollection.com/redirect/supernormal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2465,7 +2465,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### Wudpecker
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wudpecker.webp?twic=v1/resize=240" alt="Wudpecker">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wudpecker.webp" alt="Wudpecker">
 
 #### वुडपेकर एक एआई मीटिंग टूल है जो मीटिंग ज्ञान संग्रहीत करने के लिए नया डिफ़ॉल्ट सेट करता है।
 अपने ज़ूम, गूगल मीट, माइक्रोसॉफ्ट टीमों से सारांश, कार्रवाई आइटम और अंतर्दृष्टि प्राप्त करें
@@ -2487,7 +2487,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### Avoma
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-avoma.webp?twic=v1/resize=240" alt="Avoma">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avoma.webp" alt="Avoma">
 
 #### अपनी टीम की उत्पादकता और कंपनी के राजस्व में वृद्धि में तेज़ी लाएँ
 [Visit](https://www.thataicollection.com/redirect/avoma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2502,7 +2502,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### Fathom
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fathom.webp?twic=v1/resize=240" alt="Fathom">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fathom.webp" alt="Fathom">
 
 #### अपनी उत्पादकता को अपने ज़रिए बेहतर बनाएं
 मुफ़्त AI मीटिंग असिस्टेंट का मालिक
@@ -2518,7 +2518,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### Otter
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-otter.webp?twic=v1/resize=240" alt="Otter">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-otter.webp" alt="Otter">
 
 #### ओटर - ओटर के साथ अपना शेड्यूल फिर से हासिल करें।
 [Visit](https://www.thataicollection.com/redirect/otter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2543,7 +2543,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 ## संगीत और ऑडियो पीढ़ी
 
 ### Emergent Drums
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-emergent-drums.webp?twic=v1/resize=240" alt="Emergent Drums">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-emergent-drums.webp" alt="Emergent Drums">
 
 #### आर्टिफिशियल इंटेलिजेंस का उपयोग करके अद्वितीय ड्रम नमूने उत्पन्न करें
 [Visit](https://www.thataicollection.com/redirect/emergent-drums?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2558,7 +2558,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### LALAL.AI Voice Cleaner
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lalal.ai-voice-cleaner.webp?twic=v1/resize=240" alt="LALAL.AI Voice Cleaner">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lalal.ai-voice-cleaner.webp" alt="LALAL.AI Voice Cleaner">
 
 #### किसी भी ऑडियो और वीडियो से वोकल, संगत और विभिन्न वाद्ययंत्र निकालें
 [Visit](https://www.thataicollection.com/redirect/lalal.ai-voice-cleaner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2573,7 +2573,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### Adobe Podcast
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-podcast.webp?twic=v1/resize=240" alt="Adobe Podcast">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-adobe-podcast.webp" alt="Adobe Podcast">
 
 #### एडोब पॉडकास्ट - एआई ऑडियो रिकॉर्डिंग और संपादन, सभी वेब पर
 [Visit](https://www.thataicollection.com/redirect/adobe-podcast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2588,7 +2588,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### Adobe Mic Check
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-mic-check.webp?twic=v1/resize=240" alt="Adobe Mic Check">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-adobe-mic-check.webp" alt="Adobe Mic Check">
 
 #### Adobe माइक चेक - अपने माइक को मुफ़्त में जाँचें
 [Visit](https://www.thataicollection.com/redirect/adobe-mic-check?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2604,7 +2604,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### Krisp
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-krisp.webp?twic=v1/resize=240" alt="Krisp">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-krisp.webp" alt="Krisp">
 
 #### दुनिया का #1 शोर रद्द करने वाला ऐप - क्रिस्प
 [Visit](https://www.thataicollection.com/redirect/krisp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2619,7 +2619,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### Aiva
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aiva.webp?twic=v1/resize=240" alt="Aiva">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiva.webp" alt="Aiva">
 
 #### AIVA - आर्टिफिशियल इंटेलिजेंस भावनात्मक साउंडट्रैक संगीत तैयार कर रहा है
 [Visit](https://www.thataicollection.com/redirect/aiva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2635,7 +2635,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### Boomy
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-boomy.webp?twic=v1/resize=240" alt="Boomy">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-boomy.webp" alt="Boomy">
 
 #### बूमी - अपनी रचनात्मकता को उजागर करें
 बूमी एआई के साथ संगीत बनाएं
@@ -2663,7 +2663,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 ## संगठन और स्वचालन
 
 ### Hexowatch
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hexowatch.webp?twic=v1/resize=240" alt="Hexowatch">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hexowatch.webp" alt="Hexowatch">
 
 #### उपलब्धता और कीमतों से परे, डेटा स्रोत के रूप में तृतीय पक्ष की वेबसाइटें, विज़ुअल वेबसाइट मॉनिटरिंग, प्रतियोगी ट्रैकिंग।
 [Visit](https://www.thataicollection.com/redirect/hexowatch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2678,7 +2678,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### mem
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-mem.webp?twic=v1/resize=240" alt="mem">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mem.webp" alt="mem">
 
 #### स्व-आयोजन कार्यक्षेत्र
 [Visit](https://www.thataicollection.com/redirect/mem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2693,7 +2693,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### bardeen
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-bardeen.webp?twic=v1/resize=240" alt="bardeen">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bardeen.webp" alt="bardeen">
 
 #### एआई ऑटोमेशन से मिलता है
 [Visit](https://www.thataicollection.com/redirect/bardeen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2708,7 +2708,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### AutoPredict
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-autopredict.webp?twic=v1/resize=240" alt="AutoPredict">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-autopredict.webp" alt="AutoPredict">
 
 #### ऑटोप्रेडिक्ट - भविष्यवाणी करो कि तुम्हारी कार कितने समय तक चलेगी
 [Visit](https://www.thataicollection.com/redirect/autopredict?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2723,7 +2723,7 @@ AutoPredict वह पहला ऐप है जो आर्टिफिशि
 
 
 ### Looti
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-looti.webp?twic=v1/resize=240" alt="Looti">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looti.webp" alt="Looti">
 
 #### हाइपरक्वालिफाई करने से तुम्हारी ग्रोथ पर सुपरचार्ज लग जाता है
 [Visit](https://www.thataicollection.com/redirect/looti?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2739,7 +2739,7 @@ AI की बदौलत कुछ ही क्लिक में B2B ली�
 
 
 ### Hubble
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hubble.webp?twic=v1/resize=240" alt="Hubble">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hubble.webp" alt="Hubble">
 
 #### हबल - उपयोगकर्ताओं से उत्पाद प्रतिक्रिया और अंतर्दृष्टि
 [Visit](https://www.thataicollection.com/redirect/hubble?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2754,7 +2754,7 @@ AI की बदौलत कुछ ही क्लिक में B2B ली�
 
 
 ### Takomo
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-takomo.webp?twic=v1/resize=240" alt="Takomo">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-takomo.webp" alt="Takomo">
 
 #### कुछ ही सेकंड में AI मॉडल कनेक्ट और डिप्लॉय करें
 अनोखे AI ऐप्लिकेशन बनाने के लिए एक साधारण विज़ुअल बिल्डर में सबसे अच्छे AI मॉडल को मिलाएं
@@ -2786,7 +2786,7 @@ AI की बदौलत कुछ ही क्लिक में B2B ली�
 ## फोटो और छवि संपादन
 
 ### HitPaw Online Photo Enhancer
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hitpaw-online-photo-enhancer.webp?twic=v1/resize=240" alt="HitPaw Online Photo Enhancer">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-photo-enhancer.webp" alt="HitPaw Online Photo Enhancer">
 
 #### छवियों को धुंधला करें और कम गुणवत्ता वाली तस्वीरों को अलविदा कहें।
 [Visit](https://www.thataicollection.com/redirect/hitpaw-online-photo-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2801,7 +2801,7 @@ HitPaw ऑनलाइन एआई फोटो एन्हांसर शो
 
 
 ### Unrealme
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-unrealme.webp?twic=v1/resize=240" alt="Unrealme">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unrealme.webp" alt="Unrealme">
 
 #### अवास्तविक मैं - आप की एआई जनित छवियां प्राप्त करें
 [Visit](https://www.thataicollection.com/redirect/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2816,7 +2816,7 @@ HitPaw ऑनलाइन एआई फोटो एन्हांसर शो
 
 
 ### Stabledojo
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-stabledojo.webp?twic=v1/resize=240" alt="Stabledojo">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stabledojo.webp" alt="Stabledojo">
 
 #### पहला एआई फोटो स्टूडियो
 [Visit](https://www.thataicollection.com/redirect/stabledojo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2831,7 +2831,7 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 
 ### Prisma
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prisma.webp?twic=v1/resize=240" alt="Prisma">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prisma.webp" alt="Prisma">
 
 #### प्रिज्मा आपकी तस्वीरों के सार को कैप्चर करता है और उन्हें चमकीले रंग की पेंटिंग में बदल देता है
 [Visit](https://www.thataicollection.com/redirect/prisma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2846,7 +2846,7 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 
 ### Prisma Lensa
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-prisma-lensa.webp?twic=v1/resize=240" alt="Prisma Lensa">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prisma-lensa.webp" alt="Prisma Lensa">
 
 #### लेंसा एक ऑल-इन-वन इमेज एडिटिंग ऐप है जो आपकी तस्वीरों को अगले स्तर तक ले जाता है।
 [Visit](https://www.thataicollection.com/redirect/prisma-lensa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2861,7 +2861,7 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 
 ### Claid.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-claid.ai.webp?twic=v1/resize=240" alt="Claid.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-claid.ai.webp" alt="Claid.ai">
 
 #### एआई के साथ सुंदर रूपांतरित सामग्री बनाएं
 [Visit](https://www.thataicollection.com/redirect/claid.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2876,7 +2876,7 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 
 ### SceneryAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sceneryai.webp?twic=v1/resize=240" alt="SceneryAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sceneryai.webp" alt="SceneryAI">
 
 #### सीनरी
 [Visit](https://www.thataicollection.com/redirect/sceneryai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2901,7 +2901,7 @@ StableDojo के साथ आप अपने लिए एक अवतार
 ## प्लगइन्स और एक्सटेंशन
 
 ### AIduh
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-aiduh.webp?twic=v1/resize=240" alt="AIduh">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiduh.webp" alt="AIduh">
 
 #### एआई-रिस्पोंडर फॉर होस्टअवे - एआई डुह
 [Visit](https://www.thataicollection.com/redirect/aiduh?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2916,7 +2916,7 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 
 ### Texti
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-texti.webp?twic=v1/resize=240" alt="Texti">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-texti.webp" alt="Texti">
 
 #### एआई जो आपके ब्राउज़र में रहता है!
 [Visit](https://www.thataicollection.com/redirect/texti?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2931,7 +2931,7 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 
 ### Autoname
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-autoname.webp?twic=v1/resize=240" alt="Autoname">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-autoname.webp" alt="Autoname">
 
 #### एक क्लिक में अपनी सभी परतों का नाम बदलें। आई के लिए धन्यवाद। खुला स्त्रोत
 [Visit](https://www.thataicollection.com/redirect/autoname?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2946,7 +2946,7 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 
 ### SplashAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-splashai.webp?twic=v1/resize=240" alt="SplashAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-splashai.webp" alt="SplashAI">
 
 #### Splashai एक फ़िग्मा प्लगइन, सर्च इंजन और AI इमेज जेनरेटर है।
 [Visit](https://www.thataicollection.com/redirect/splashai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2961,7 +2961,7 @@ SplasHAI एक सहायक की तरह है, यह तुम्ह�
 
 
 ### Merlin
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-merlin.webp?twic=v1/resize=240" alt="Merlin">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-merlin.webp" alt="Merlin">
 
 #### एक प्रकार का बाज़
 [Visit](https://www.thataicollection.com/redirect/merlin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2976,7 +2976,7 @@ SplasHAI एक सहायक की तरह है, यह तुम्ह�
 
 
 ### Voilà
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-voilà.webp?twic=v1/resize=240" alt="Voilà">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voilà.webp" alt="Voilà">
 
 #### सुपरचार्ज्ड उत्पादकता के लिए व्यक्तिगत चैटजीपीटी सहायक
 [Visit](https://www.thataicollection.com/redirect/voilà?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2991,7 +2991,7 @@ SplasHAI एक सहायक की तरह है, यह तुम्ह�
 
 
 ### HARPA AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-harpa-ai.webp?twic=v1/resize=240" alt="HARPA AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-harpa-ai.webp" alt="HARPA AI">
 
 #### चैटजीपीटी क्रोम ऑटोमेशन कोपिलॉट
 [Visit](https://www.thataicollection.com/redirect/harpa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3016,7 +3016,7 @@ SplasHAI एक सहायक की तरह है, यह तुम्ह�
 ## उत्पादकता और व्यक्तिगत विकास
 
 ### Podwise
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-podwise.webp?twic=v1/resize=240" alt="Podwise">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise">
 
 #### पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।
 [Visit](https://www.thataicollection.com/redirect/podwise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3031,7 +3031,7 @@ Podwise के साथ, तुम संरचित ज्ञान से �
 
 
 ### Dewey
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-dewey.webp?twic=v1/resize=240" alt="Dewey">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dewey.webp" alt="Dewey">
 
 #### डेवी के साथ और अधिक करें। रिमाइंडर प्राप्त करें और डेवी, आपके एआई जवाबदेही बडी के टेक्स्ट संदेशों से प्रेरित रहें।
 [Visit](https://www.thataicollection.com/redirect/dewey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3046,7 +3046,7 @@ Podwise के साथ, तुम संरचित ज्ञान से �
 
 
 ### Ask Poppy
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ask-poppy.webp?twic=v1/resize=240" alt="Ask Poppy">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ask-poppy.webp" alt="Ask Poppy">
 
 #### पॉपीलिस्ट - माता-पिता बनो, जो तुम बनना चाहते हो
 [Visit](https://www.thataicollection.com/redirect/ask-poppy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3064,7 +3064,7 @@ Podwise के साथ, तुम संरचित ज्ञान से �
 
 
 ### Cogram
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cogram.webp?twic=v1/resize=240" alt="Cogram">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cogram.webp" alt="Cogram">
 
 #### अपनी टीम के लिए एक बुद्धिमान सहकर्मी के साथ अपनी उत्पादकता दोगुनी करें
 [Visit](https://www.thataicollection.com/redirect/cogram?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3079,7 +3079,7 @@ Podwise के साथ, तुम संरचित ज्ञान से �
 
 
 ### Ultimate Skill Extractor by Further
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ultimate-skill-extractor-by-further.webp?twic=v1/resize=240" alt="Ultimate Skill Extractor by Further">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ultimate-skill-extractor-by-further.webp" alt="Ultimate Skill Extractor by Further">
 
 #### एआई संचालित कौशल-सुझाव
 [Visit](https://www.thataicollection.com/redirect/ultimate-skill-extractor-by-further?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3094,7 +3094,7 @@ Podwise के साथ, तुम संरचित ज्ञान से �
 
 
 ### ELSA SPEECH ANALYZER
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elsa-speech-analyzer.webp?twic=v1/resize=240" alt="ELSA SPEECH ANALYZER">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elsa-speech-analyzer.webp" alt="ELSA SPEECH ANALYZER">
 
 #### एक समय में अपनी अंग्रेजी एक बातचीत में सुधार करें।
 [Visit](https://www.thataicollection.com/redirect/elsa-speech-analyzer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3109,7 +3109,7 @@ Podwise के साथ, तुम संरचित ज्ञान से �
 
 
 ### DetangleAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-detangleai.webp?twic=v1/resize=240" alt="DetangleAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-detangleai.webp" alt="DetangleAI">
 
 #### किसी भी पॉडकास्ट, ईमेल, कानूनी दस्तावेज़, किताब वगैरह को संक्षेप में बताओ, ताकि तुम कर सको
 जो मायने रखता है उस पर ध्यान दो।
@@ -3135,7 +3135,7 @@ Podwise के साथ, तुम संरचित ज्ञान से �
 ## अनुसंधान सहायक
 
 ### Elicit
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elicit.webp?twic=v1/resize=240" alt="Elicit">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elicit.webp" alt="Elicit">
 
 #### एलिसिट: एआई रिसर्च असिस्टेंट
 [Visit](https://www.thataicollection.com/redirect/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3150,7 +3150,7 @@ Podwise के साथ, तुम संरचित ज्ञान से �
 
 
 ### Scispace
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-scispace.webp?twic=v1/resize=240" alt="Scispace">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scispace.webp" alt="Scispace">
 
 #### टाइपसेट द्वारा स्किस्पेस - डिस्कवर करें, बनाएं, प्रकाशित करें और अपने शोध पत्र का प्रचार करें
 [Visit](https://www.thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3165,7 +3165,7 @@ Podwise के साथ, तुम संरचित ज्ञान से �
 
 
 ### RTutor
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rtutor.webp?twic=v1/resize=240" alt="RTutor">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rtutor.webp" alt="RTutor">
 
 #### दर्जनों मानवीय भाषाओं में अपने डेटा के साथ चैट करें।
 [Visit](https://www.thataicollection.com/redirect/rtutor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3180,7 +3180,7 @@ RTutor प्राकृतिक भाषा को R कोड में अ
 
 
 ### Explainpaper
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-explainpaper.webp?twic=v1/resize=240" alt="Explainpaper">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-explainpaper.webp" alt="Explainpaper">
 
 #### शोध पत्रों को पढ़ने का सबसे तेज़ तरीका
 [Visit](https://www.thataicollection.com/redirect/explainpaper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3195,7 +3195,7 @@ RTutor प्राकृतिक भाषा को R कोड में अ
 
 
 ### Jenni
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jenni.webp?twic=v1/resize=240" alt="Jenni">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jenni.webp" alt="Jenni">
 
 #### जेनी - निबंध, शोध पत्र वगैरह लिखने के लिए AI!
 
@@ -3211,7 +3211,7 @@ RTutor प्राकृतिक भाषा को R कोड में अ
 
 
 ### Vocads Survey
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-vocads-survey.webp?twic=v1/resize=240" alt="Vocads Survey">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vocads-survey.webp" alt="Vocads Survey">
 
 #### संवादी आवाज एआई द्वारा सर्वेक्षण को फिर से खोजा गया
 [Visit](https://www.thataicollection.com/redirect/vocads-survey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3226,7 +3226,7 @@ RTutor प्राकृतिक भाषा को R कोड में अ
 
 
 ### Afforai Build
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-afforai-build.webp?twic=v1/resize=240" alt="Afforai Build">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-afforai-build.webp" alt="Afforai Build">
 
 #### आपका एआई रीडिंग कोपायलट। पाठ विश्लेषण, अनुसंधान और दस्तावेज़ खोज के लिए आवश्यक उपकरण
 [Visit](https://www.thataicollection.com/redirect/afforai-build?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3251,7 +3251,7 @@ RTutor प्राकृतिक भाषा को R कोड में अ
 ## समीक्षा और अनुशंसाएँ
 
 ### Sona
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-sona.webp?twic=v1/resize=240" alt="Sona">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sona.webp" alt="Sona">
 
 #### इसे दो बार पढ़ें - दो बार पढ़ने लायक किताबें।
 [Visit](https://www.thataicollection.com/redirect/sona?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3266,7 +3266,7 @@ RTutor प्राकृतिक भाषा को R कोड में अ
 
 
 ### AI Review Reply Assistant
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-review-reply-assistant.webp?twic=v1/resize=240" alt="AI Review Reply Assistant">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-review-reply-assistant.webp" alt="AI Review Reply Assistant">
 
 #### अपने एआई रिव्यू रिप्लाई असिस्टेंट के साथ समीक्षाओं का जवाब दें
 [Visit](https://www.thataicollection.com/redirect/ai-review-reply-assistant?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3281,7 +3281,7 @@ RTutor प्राकृतिक भाषा को R कोड में अ
 
 
 ### Geniusreview
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-geniusreview.webp?twic=v1/resize=240" alt="Geniusreview">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-geniusreview.webp" alt="Geniusreview">
 
 #### Geniusreview - 360° AI प्रदर्शन समीक्षाएं
 [Visit](https://www.thataicollection.com/redirect/geniusreview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3296,7 +3296,7 @@ RTutor प्राकृतिक भाषा को R कोड में अ
 
 
 ### Reviewz
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-reviewz.webp?twic=v1/resize=240" alt="Reviewz">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-reviewz.webp" alt="Reviewz">
 
 #### Reviewz.ai - डिस्कवर ऑल द बेस्ट प्रोडक्ट्स। एआई द्वारा क्यूरेट और अनुशंसित।
 [Visit](https://www.thataicollection.com/redirect/reviewz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3311,7 +3311,7 @@ Reviewz.ai एक नवीनता है और इसे उपभोक्�
 
 
 ### Artreviewgenerator
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-artreviewgenerator.webp?twic=v1/resize=240" alt="Artreviewgenerator">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-artreviewgenerator.webp" alt="Artreviewgenerator">
 
 #### कला समीक्षा जेनरेटर
 [Visit](https://www.thataicollection.com/redirect/artreviewgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3336,7 +3336,7 @@ Reviewz.ai एक नवीनता है और इसे उपभोक्�
 ## खरीद और बिक्री
 
 ### Copy.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-copy.ai.webp?twic=v1/resize=240" alt="Copy.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-copy.ai.webp" alt="Copy.ai">
 
 #### एआई के साथ बेहतर मार्केटिंग कॉपी और कंटेंट लिखें
 [Visit](https://www.thataicollection.com/redirect/copy.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3351,7 +3351,7 @@ Reviewz.ai एक नवीनता है और इसे उपभोक्�
 
 
 ### Clickable
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-clickable.webp?twic=v1/resize=240" alt="Clickable">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clickable.webp" alt="Clickable">
 
 #### एआई के साथ सेकंड में विज्ञापन उत्पन्न करें
 [Visit](https://www.thataicollection.com/redirect/clickable?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3366,7 +3366,7 @@ Reviewz.ai एक नवीनता है और इसे उपभोक्�
 
 
 ### Cuetap.com
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-cuetap.com.webp?twic=v1/resize=240" alt="Cuetap.com">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cuetap.com.webp" alt="Cuetap.com">
 
 #### एआई और सीआई संचालित बिक्री युद्धकार्ड
 [Visit](https://www.thataicollection.com/redirect/cuetap.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3381,7 +3381,7 @@ Reviewz.ai एक नवीनता है और इसे उपभोक्�
 
 
 ### Userevaluation
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-userevaluation.webp?twic=v1/resize=240" alt="Userevaluation">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-userevaluation.webp" alt="Userevaluation">
 
 #### उपयोगकर्ता मूल्यांकन - ग्राहक समझ मंच
 [Visit](https://www.thataicollection.com/redirect/userevaluation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3396,7 +3396,7 @@ Reviewz.ai एक नवीनता है और इसे उपभोक्�
 
 
 ### Genius Sheets
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-genius-sheets.webp?twic=v1/resize=240" alt="Genius Sheets">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-genius-sheets.webp" alt="Genius Sheets">
 
 #### जीनियस शीट्स - बिज़नेस इंटेलिजेंस फ़्रॉम द फ्यूचर
 एआई पावर्ड डेटा एनालिटिक्स
@@ -3416,7 +3416,7 @@ Genius Sheets AI तुम्हारे सभी महत्वपूर्�
 
 
 ### BaruaAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-baruaai.webp?twic=v1/resize=240" alt="BaruaAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-baruaai.webp" alt="BaruaAI">
 
 #### सेकेंड में उच्च परिवर्तित बिक्री ईमेल उत्पन्न करें
 [Visit](https://www.thataicollection.com/redirect/baruaai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3431,7 +3431,7 @@ Genius Sheets AI तुम्हारे सभी महत्वपूर्�
 
 
 ### Hoppy Copy
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hoppy-copy.webp?twic=v1/resize=240" alt="Hoppy Copy">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hoppy-copy.webp" alt="Hoppy Copy">
 
 #### हॉपी कॉपी: एआई ईमेल मार्केटिंग कॉपी राइटिंग प्लेटफॉर्म
 [Visit](https://www.thataicollection.com/redirect/hoppy-copy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3456,7 +3456,7 @@ Genius Sheets AI तुम्हारे सभी महत्वपूर्�
 ## खोज इंजन
 
 ### Lexii.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lexii.ai.webp?twic=v1/resize=240" alt="Lexii.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lexii.ai.webp" alt="Lexii.ai">
 
 #### लेक्सी.ऐ
 [Visit](https://www.thataicollection.com/redirect/lexii.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3471,7 +3471,7 @@ Lexi.ai एक AI खोज सहायक है जो सवालों क
 
 
 ### Smarty Names
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-smarty-names.webp?twic=v1/resize=240" alt="Smarty Names">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-smarty-names.webp" alt="Smarty Names">
 
 #### एआई रोबोट्स द्वारा नि:शुल्क रचनात्मक डोमेन नाम खोज
 [Visit](https://www.thataicollection.com/redirect/smarty-names?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3486,7 +3486,7 @@ SmartyNames.com के साथ एक रचनात्मक और अद�
 
 
 ### OpenArt Photo Booth
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-openart-photo-booth.webp?twic=v1/resize=240" alt="OpenArt Photo Booth">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-openart-photo-booth.webp" alt="OpenArt Photo Booth">
 
 #### डिस्कवर और एआई कला उत्पन्न करें - ओपनआर्ट
 [Visit](https://www.thataicollection.com/redirect/openart-photo-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3501,7 +3501,7 @@ SmartyNames.com के साथ एक रचनात्मक और अद�
 
 
 ### You
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-you.webp?twic=v1/resize=240" alt="You">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-you.webp" alt="You">
 
 #### वह AI सर्च इंजन जिसे तुम नियंत्रित करते हो
 [Visit](https://www.thataicollection.com/redirect/you?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3520,7 +3520,7 @@ GPT-4 के साथ व्यापक प्रतिक्रियाए�
 
 
 ### Perplexity AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-perplexity-ai.webp?twic=v1/resize=240" alt="Perplexity AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-perplexity-ai.webp" alt="Perplexity AI">
 
 #### Perplexity AI एक उत्तर इंजन है जो बड़े भाषा मॉडल का उपयोग करके जटिल प्रश्नों के सटीक उत्तर देता है।
 [Visit](https://www.thataicollection.com/redirect/perplexity-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3535,7 +3535,7 @@ GPT-4 के साथ व्यापक प्रतिक्रियाए�
 
 
 ### Anypod
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-anypod.webp?twic=v1/resize=240" alt="Anypod">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-anypod.webp" alt="Anypod">
 
 #### रचनाकारों के लिए निर्मित खोज इंजन
 [Visit](https://www.thataicollection.com/redirect/anypod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3550,7 +3550,7 @@ GPT-4 के साथ व्यापक प्रतिक्रियाए�
 
 
 ### namefinder.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-namefinder.ai.webp?twic=v1/resize=240" alt="namefinder.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-namefinder.ai.webp" alt="namefinder.ai">
 
 #### एआई-संचालित व्यवसाय और डोमेन नाम जेनरेटर
 [Visit](https://www.thataicollection.com/redirect/namefinder.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3575,7 +3575,7 @@ GPT-4 के साथ व्यापक प्रतिक्रियाए�
 ## स्लाइड और प्रस्तुतियाँ
 
 ### ChatBA
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-chatba.webp?twic=v1/resize=240" alt="ChatBA">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatba.webp" alt="ChatBA">
 
 #### Chatbcg: स्लाइड के लिए जनरेटिव AI
 [Visit](https://www.thataicollection.com/redirect/chatba?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3590,7 +3590,7 @@ GPT-4 के साथ व्यापक प्रतिक्रियाए�
 
 
 ### SlidesAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-slidesai.webp?twic=v1/resize=240" alt="SlidesAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-slidesai.webp" alt="SlidesAI">
 
 #### सेकंड में एआई के साथ प्रेजेंटेशन स्लाइड बनाएं
 [Visit](https://www.thataicollection.com/redirect/slidesai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3605,7 +3605,7 @@ GPT-4 के साथ व्यापक प्रतिक्रियाए�
 
 
 ### Pitchgrade
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-pitchgrade.webp?twic=v1/resize=240" alt="Pitchgrade">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pitchgrade.webp" alt="Pitchgrade">
 
 #### पिचग्रेड - प्रस्तुतियों ने दर्द रहित बना दिया
 [Visit](https://www.thataicollection.com/redirect/pitchgrade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3620,7 +3620,7 @@ GPT-4 के साथ व्यापक प्रतिक्रियाए�
 
 
 ### My Pitch Deck
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-my-pitch-deck.webp?twic=v1/resize=240" alt="My Pitch Deck">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-pitch-deck.webp" alt="My Pitch Deck">
 
 #### माय पिच डेक - अपने स्टार्टअप के लिए कस्टम पिच डेक टेम्पलेट के साथ अपनी फ़ंडिंग की शुरुआत करें।
 [Visit](https://www.thataicollection.com/redirect/my-pitch-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3637,7 +3637,7 @@ GPT-4 के साथ व्यापक प्रतिक्रियाए�
 
 
 ### Tome
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tome.webp?twic=v1/resize=240" alt="Tome">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tome.webp" alt="Tome">
 
 #### जनरेटिव स्टोरीटेलिंग आ गई है।
 [Visit](https://www.thataicollection.com/redirect/tome?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3652,7 +3652,7 @@ GPT-4 के साथ व्यापक प्रतिक्रियाए�
 
 
 ### Glimmer AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-glimmer-ai.webp?twic=v1/resize=240" alt="Glimmer AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-glimmer-ai.webp" alt="Glimmer AI">
 
 #### एआई-पावर्ड प्रेजेंटेशन मैजिक
 [Visit](https://www.thataicollection.com/redirect/glimmer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3667,7 +3667,7 @@ Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट �
 
 
 ### STORYD
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-storyd.webp?twic=v1/resize=240" alt="STORYD">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storyd.webp" alt="STORYD">
 
 #### डेटा प्रेजेंटेशन लीडर्स लव
 [Visit](https://www.thataicollection.com/redirect/storyd?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3692,7 +3692,7 @@ Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट �
 ## सामाजिक नेटवर्क और डेटिंग
 
 ### Roast
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-roast.webp?twic=v1/resize=240" alt="Roast">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-roast.webp" alt="Roast">
 
 #### डेटिंग ऐप प्रोफाइल एआई विश्लेषण - फोटोशूट एआई जेनरेटर
 [Visit](https://www.thataicollection.com/redirect/roast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3707,7 +3707,7 @@ Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट �
 
 
 ### AI movie Club
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-movie-club.webp?twic=v1/resize=240" alt="AI movie Club">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-movie-club.webp" alt="AI movie Club">
 
 #### एआई-मूवी क्लब
 [Visit](https://www.thataicollection.com/redirect/ai-movie-club?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3722,7 +3722,7 @@ AI-मूवी क्लब एक सोशल नेटवर्क है �
 
 
 ### HotConvo
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hotconvo.webp?twic=v1/resize=240" alt="HotConvo">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hotconvo.webp" alt="HotConvo">
 
 #### चिंगारी रोमांस - अपने ऑनलाइन डेटिंग के लिए मज़ा, मजाकिया और सेक्सी चैट सुझाव प्राप्त करें।
 [Visit](https://www.thataicollection.com/redirect/hotconvo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3737,7 +3737,7 @@ AI-मूवी क्लब एक सोशल नेटवर्क है �
 
 
 ### AI Social Bio
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-social-bio.webp?twic=v1/resize=240" alt="AI Social Bio">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-social-bio.webp" alt="AI Social Bio">
 
 #### एआई सोशल बायो - आर्टिफिशियल इंटेलिजेंस द्वारा बनाया गया तुम्हारा सोशल मीडिया बायो
 
@@ -3755,7 +3755,7 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 
 
 ### TweetAI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweetai.webp?twic=v1/resize=240" alt="TweetAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tweetai.webp" alt="TweetAI">
 
 #### ट्वीट करने के लिए प्रेरित हों • Tweetai.Com
 [Visit](https://www.thataicollection.com/redirect/tweetai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3770,7 +3770,7 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 
 
 ### Tweethunter
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweethunter.webp?twic=v1/resize=240" alt="Tweethunter">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tweethunter.webp" alt="Tweethunter">
 
 #### ट्वीट हंटर - अधिक ट्विटर फॉलोअर्स प्राप्त करें ट्वीट्स, थ्रेड्स, शेड्यूलर, एनालिटिक्स
 [Visit](https://www.thataicollection.com/redirect/tweethunter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3785,7 +3785,7 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 
 
 ### TweetEmote
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tweetemote.webp?twic=v1/resize=240" alt="TweetEmote">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tweetemote.webp" alt="TweetEmote">
 
 #### TweetEmote | AI द्वारा संचालित ट्वीट असिस्टेंट
 
@@ -3812,7 +3812,7 @@ AI-संचालित ट्वीट सहायक - ट्वीट इ�
 ## भाषण
 
 ### Adobe Speech Enhancer
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-adobe-speech-enhancer.webp?twic=v1/resize=240" alt="Adobe Speech Enhancer">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-adobe-speech-enhancer.webp" alt="Adobe Speech Enhancer">
 
 #### वॉयस रिकॉर्डिंग को मुफ्त में बढ़ाएं
 [Visit](https://www.thataicollection.com/redirect/adobe-speech-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3827,7 +3827,7 @@ AI-संचालित ट्वीट सहायक - ट्वीट इ�
 
 
 ### Lingostar
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-lingostar.webp?twic=v1/resize=240" alt="Lingostar">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lingostar.webp" alt="Lingostar">
 
 #### लिंगोस्टार - आर्टिफिशियल इंटेलिजेंस के साथ वास्तविक बातचीत
 [Visit](https://www.thataicollection.com/redirect/lingostar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3842,7 +3842,7 @@ AI-संचालित ट्वीट सहायक - ट्वीट इ�
 
 
 ### Poly AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-poly-ai.webp?twic=v1/resize=240" alt="Poly AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-poly-ai.webp" alt="Poly AI">
 
 #### ग्राहक के नेतृत्व वाली आवाज सहायक
 [Visit](https://www.thataicollection.com/redirect/poly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3857,7 +3857,7 @@ AI-संचालित ट्वीट सहायक - ट्वीट इ�
 
 
 ### SmallTalk2.me
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-smalltalk2.me.webp?twic=v1/resize=240" alt="SmallTalk2.me">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-smalltalk2.me.webp" alt="SmallTalk2.me">
 
 #### अंग्रेजी बोलने के कौशल के परीक्षण और सुधार के लिए एआई-संचालित शिक्षण सहायक
 [Visit](https://www.thataicollection.com/redirect/smalltalk2.me?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3872,7 +3872,7 @@ AI-संचालित ट्वीट सहायक - ट्वीट इ�
 
 
 ### SpeechGen.io
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-speechgen.io.webp?twic=v1/resize=240" alt="SpeechGen.io">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-speechgen.io.webp" alt="SpeechGen.io">
 
 ####  150 टेक्स्ट-टू-स्पीच भाषाओं और कई एक्सेंट विकल्पों के साथ, SpeechGen.io यूज़र के लिए कई तरह के विकल्प सुनिश्चित करता है, जो वैश्विक और बहुसांस्कृतिक दर्शकों के लिए है।
 [Visit](https://www.thataicollection.com/redirect/speechgen.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3897,7 +3897,7 @@ AI-संचालित ट्वीट सहायक - ट्वीट इ�
 ## मूलपाठ
 
 ### Tally Forms
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-tally-forms.webp?twic=v1/resize=240" alt="Tally Forms">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tally-forms.webp" alt="Tally Forms">
 
 #### फ़ॉर्म बनाने का सबसे आसान तरीका
 [Visit](https://www.thataicollection.com/redirect/tally-forms?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3912,7 +3912,7 @@ AI-संचालित ट्वीट सहायक - ट्वीट इ�
 
 
 ### Scholarcy
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-scholarcy.webp?twic=v1/resize=240" alt="Scholarcy">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scholarcy.webp" alt="Scholarcy">
 
 #### ऑनलाइन समराइज़िंग टूल - फ्लैशकार्ड जेनरेटर और समराइज़र - स्कॉलरसी
 [Visit](https://www.thataicollection.com/redirect/scholarcy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3927,7 +3927,7 @@ AI-संचालित ट्वीट सहायक - ट्वीट इ�
 
 
 ### Jot
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jot.webp?twic=v1/resize=240" alt="Jot">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jot.webp" alt="Jot">
 
 #### जोत - एआई विज्ञापन प्रति
 [Visit](https://www.thataicollection.com/redirect/jot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3942,7 +3942,7 @@ Jot स्वचालित रूप से AI का उपयोग कर�
 
 
 ### Bookclub
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-bookclub.webp?twic=v1/resize=240" alt="Bookclub">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bookclub.webp" alt="Bookclub">
 
 #### Bookclub.Ai - मिलिए योर नेक्स्ट बुक
 [Visit](https://www.thataicollection.com/redirect/bookclub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3957,7 +3957,7 @@ Jot स्वचालित रूप से AI का उपयोग कर�
 
 
 ### Namewizard
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-namewizard.webp?twic=v1/resize=240" alt="Namewizard">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-namewizard.webp" alt="Namewizard">
 
 #### Namewizard.Ai - आपका AI-महाशक्तिशाली डोमेन नाम जेनरेटर
 [Visit](https://www.thataicollection.com/redirect/namewizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3972,7 +3972,7 @@ Jot स्वचालित रूप से AI का उपयोग कर�
 
 
 ### Namelix
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-namelix.webp?twic=v1/resize=240" alt="Namelix">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-namelix.webp" alt="Namelix">
 
 #### बिजनेस नेम जेनरेटर - फ्री एआई-पावर्ड नेमिंग टूल - नेमलिक्स
 [Visit](https://www.thataicollection.com/redirect/namelix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3987,7 +3987,7 @@ Jot स्वचालित रूप से AI का उपयोग कर�
 
 
 ### Langame card game
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-langame-card-game.webp?twic=v1/resize=240" alt="Langame card game">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-langame-card-game.webp" alt="Langame card game">
 
 #### अपने मित्रों और परिवार के साथ आनंद लेने के लिए एआई-जेनरेटेड वार्तालाप कार्ड गेम
 [Visit](https://www.thataicollection.com/redirect/langame-card-game?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4012,7 +4012,7 @@ Jot स्वचालित रूप से AI का उपयोग कर�
 ## भाषण के पाठ
 
 ### Murf.ai
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-murf.ai.webp?twic=v1/resize=240" alt="Murf.ai">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-murf.ai.webp" alt="Murf.ai">
 
 #### वर्सेटाइल एआई वॉयस जेनरेटर के साथ टेक्स्ट से स्पीच पर जाएं
 [Visit](https://www.thataicollection.com/redirect/murf.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4027,7 +4027,7 @@ Jot स्वचालित रूप से AI का उपयोग कर�
 
 
 ### Listnr 2.0
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-listnr-2.0.webp?twic=v1/resize=240" alt="Listnr 2.0">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-listnr-2.0.webp" alt="Listnr 2.0">
 
 #### एआई वॉयस जेनरेटर - टेक्स्ट टू स्पीच कन्वर्टर - लिस्टएनआर
 [Visit](https://www.thataicollection.com/redirect/listnr-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4042,7 +4042,7 @@ Jot स्वचालित रूप से AI का उपयोग कर�
 
 
 ### VERBATIK
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-verbatik.webp?twic=v1/resize=240" alt="VERBATIK">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-verbatik.webp" alt="VERBATIK">
 
 #### एआई पावर्ड टेक्स्ट टू वॉयस जनरेशन।
 [Visit](https://www.thataicollection.com/redirect/verbatik?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4057,7 +4057,7 @@ Jot स्वचालित रूप से AI का उपयोग कर�
 
 
 ### Article.Audio
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-article.audio.webp?twic=v1/resize=240" alt="Article.Audio">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-article.audio.webp" alt="Article.Audio">
 
 #### लेख को ऑडियो में बदलें
 [Visit](https://www.thataicollection.com/redirect/article.audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4072,7 +4072,7 @@ Jot स्वचालित रूप से AI का उपयोग कर�
 
 
 ### NaturalReader
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-naturalreader.webp?twic=v1/resize=240" alt="NaturalReader">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-naturalreader.webp" alt="NaturalReader">
 
 #### व्यक्तिगत, व्यावसायिक और शैक्षिक उपयोग के लिए #1 टेक्स्ट टू स्पीच समाधान
 [Visit](https://www.thataicollection.com/redirect/naturalreader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4087,7 +4087,7 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 
 
 ### Wavel AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-wavel-ai.webp?twic=v1/resize=240" alt="Wavel AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wavel-ai.webp" alt="Wavel AI">
 
 #### वीडियो सामग्री निर्माताओं के लिए सर्वश्रेष्ठ एआई डबिंग और अनुवादक
 [Visit](https://www.thataicollection.com/redirect/wavel-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4102,7 +4102,7 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 
 
 ### Createaivoiceovers
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-createaivoiceovers.webp?twic=v1/resize=240" alt="Createaivoiceovers">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-createaivoiceovers.webp" alt="Createaivoiceovers">
 
 #### टेक्स्ट टू स्पीच ऑनलाइन वॉइस जेनरेटर, टेक्स्ट टू स्पीच जनरेटर - यथार्थवादी आवाज़ें - AI वॉइस ओवर बनाएँ
 [Visit](https://www.thataicollection.com/redirect/createaivoiceovers?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4127,7 +4127,7 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 ## अनुवाद और प्रतिलेख
 
 ### TranslateVideo
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-translatevideo.webp?twic=v1/resize=240" alt="TranslateVideo">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-translatevideo.webp" alt="TranslateVideo">
 
 #### अनुवाद करें। वीडियो - सिर्फ़ 1 क्लिक से वीडियो ट्रांसलेट करें
 [Visit](https://www.thataicollection.com/redirect/translatevideo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4142,7 +4142,7 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 
 
 ### Rephrasely
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rephrasely.webp?twic=v1/resize=240" alt="Rephrasely">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rephrasely.webp" alt="Rephrasely">
 
 #### सभी भाषाओं के लिए मुफ़्त रीफ़्रेज़ जेनरेटर!
 [Visit](https://www.thataicollection.com/redirect/rephrasely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4157,7 +4157,7 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 
 
 ### RIVERSIDE
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-riverside.webp?twic=v1/resize=240" alt="RIVERSIDE">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-riverside.webp" alt="RIVERSIDE">
 
 #### ऑडियो और वीडियो ट्रांसक्रिप्शन। AI द्वारा संचालित।
 99% सटीकता के साथ ऑडियो और वीडियो को टेक्स्ट में ट्रांसक्रिप्ट करें।
@@ -4178,7 +4178,7 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 
 
 ### Rythmex
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rythmex.webp?twic=v1/resize=240" alt="Rythmex">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rythmex.webp" alt="Rythmex">
 
 #### Rythmex कन्वर्टर के साथ ऑडियो को टेक्स्ट में बदलें
 [Visit](https://www.thataicollection.com/redirect/rythmex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4193,7 +4193,7 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 
 
 ### Deciphr AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-deciphr-ai.webp?twic=v1/resize=240" alt="Deciphr AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deciphr-ai.webp" alt="Deciphr AI">
 
 #### डिसिफर एआई
 [Visit](https://www.thataicollection.com/redirect/deciphr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4208,7 +4208,7 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 
 
 ### Graphic AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-graphic-ai.webp?twic=v1/resize=240" alt="Graphic AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-graphic-ai.webp" alt="Graphic AI">
 
 #### टीमों के लिए एआई असिस्टेड वर्क कोलैबोरेशन प्लेटफॉर्म
 [Visit](https://www.thataicollection.com/redirect/graphic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4223,7 +4223,7 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 
 
 ### Snipd Podcast Summaries
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-snipd-podcast-summaries.webp?twic=v1/resize=240" alt="Snipd Podcast Summaries">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-snipd-podcast-summaries.webp" alt="Snipd Podcast Summaries">
 
 #### पॉडकास्ट में ज्ञान अनलॉक करें - Snipd
 [Visit](https://www.thataicollection.com/redirect/snipd-podcast-summaries?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4248,7 +4248,7 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 ## अवकाश और ट्रिप प्लानर
 
 ### Vacay
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-vacay.webp?twic=v1/resize=240" alt="Vacay">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vacay.webp" alt="Vacay">
 
 #### अवकाश चैट एजेंट
 [Visit](https://www.thataicollection.com/redirect/vacay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4263,7 +4263,7 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 
 
 ### Roamr
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-roamr.webp?twic=v1/resize=240" alt="Roamr">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-roamr.webp" alt="Roamr">
 
 #### रोमर - AI ट्रेवल प्लानर - कुछ ही सेकंड में आपका ड्रीम वेकेशन
 [Visit](https://www.thataicollection.com/redirect/roamr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4278,7 +4278,7 @@ Roam Around के साथ AI ट्रेवल प्लानिंग क�
 
 
 ### Orkoi
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-orkoi.webp?twic=v1/resize=240" alt="Orkoi">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-orkoi.webp" alt="Orkoi">
 
 #### Orkoi - सेकंड में एक व्यक्तिगत यात्रा योजना बनाएं, निःशुल्क, कोई पंजीकरण नहीं
 [Visit](https://www.thataicollection.com/redirect/orkoi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4293,7 +4293,7 @@ Roam Around के साथ AI ट्रेवल प्लानिंग क�
 
 
 ### Travel Blog Name Ideas Generator
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-travel-blog-name-ideas-generator.webp?twic=v1/resize=240" alt="Travel Blog Name Ideas Generator">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-travel-blog-name-ideas-generator.webp" alt="Travel Blog Name Ideas Generator">
 
 #### यात्रा ब्लॉग नाम विचार जेनरेटर: सही यात्रा ब्लॉग नाम खोजें!
 [Visit](https://www.thataicollection.com/redirect/travel-blog-name-ideas-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4318,7 +4318,7 @@ TravelFeed के ब्लॉग नाम विचार जनरेटर �
 ## वीडियो
 
 ### Colossyan
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-colossyan.webp?twic=v1/resize=240" alt="Colossyan">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-colossyan.webp" alt="Colossyan">
 
 #### कार्यस्थल पर सीखने के लिए एआई वीडियो प्लेटफ़ॉर्म
 [Visit](https://www.thataicollection.com/redirect/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4333,7 +4333,7 @@ TravelFeed के ब्लॉग नाम विचार जनरेटर �
 
 
 ### HitPaw Online Video Enhancer
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hitpaw-online-video-enhancer.webp?twic=v1/resize=240" alt="HitPaw Online Video Enhancer">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
 
 #### प्रशिक्षित एआई द्वारा अपने वीडियो को अनब्लर और अपस्केल करने के लिए वन-क्लिक।
 [Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4348,7 +4348,7 @@ HitPaw ऑनलाइन वीडियो एन्हांसर कम र
 
 
 ### Eightify
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-eightify.webp?twic=v1/resize=240" alt="Eightify">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eightify.webp" alt="Eightify">
 
 #### YouTube वीडियो से 8 प्रमुख विचार प्राप्त करें
 [Visit](https://www.thataicollection.com/redirect/eightify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4363,7 +4363,7 @@ HitPaw ऑनलाइन वीडियो एन्हांसर कम र
 
 
 ### HeyGen
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-heygen.webp?twic=v1/resize=240" alt="HeyGen">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-heygen.webp" alt="HeyGen">
 
 #### कैमरा नहीं? कोई दल नहीं? कोई बात नहीं!
 अनुकूलन योग्य AI अवतारों के साथ अपने वीडियो उत्पादन को बढ़ाएं
@@ -4381,7 +4381,7 @@ HitPaw ऑनलाइन वीडियो एन्हांसर कम र
 
 
 ### Pictory
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-pictory.webp?twic=v1/resize=240" alt="Pictory">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pictory.webp" alt="Pictory">
 
 #### वीडियो बनाना आसान हो गया
 [Visit](https://www.thataicollection.com/redirect/pictory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4396,7 +4396,7 @@ HitPaw ऑनलाइन वीडियो एन्हांसर कम र
 
 
 ### AI Host
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-host.webp?twic=v1/resize=240" alt="AI Host">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-host.webp" alt="AI Host">
 
 #### इंटरएक्टिव लाइव स्ट्रीम चलाएं
 [Visit](https://www.thataicollection.com/redirect/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4411,7 +4411,7 @@ LiveReacting आपकी स्ट्रीम में पहले से �
 
 
 ### Fliki
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-fliki.webp?twic=v1/resize=240" alt="Fliki">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fliki.webp" alt="Fliki">
 
 #### एआई वॉयस के साथ टेक्स्ट को वीडियो में बदलें
 [Visit](https://www.thataicollection.com/redirect/fliki?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4436,7 +4436,7 @@ LiveReacting आपकी स्ट्रीम में पहले से �
 ## वेब डिजाइन
 
 ### Magician
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-magician.webp?twic=v1/resize=240" alt="Magician">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magician.webp" alt="Magician">
 
 #### Figma के लिए जादूगर
 [Visit](https://www.thataicollection.com/redirect/magician?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4451,7 +4451,7 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 
 ### Designs AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-designs-ai.webp?twic=v1/resize=240" alt="Designs AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-designs-ai.webp" alt="Designs AI">
 
 #### एआई के साथ लोगो, वीडियो, बैनर, वॉयसओवर बनाएं
 [Visit](https://www.thataicollection.com/redirect/designs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4466,7 +4466,7 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 
 ### welovenocode
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-project-description-generator.webp?twic=v1/resize=240" alt="welovenocode">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-project-description-generator.webp" alt="welovenocode">
 
 #### अपनी वेबसाइट को तेज़ और किफ़ायती तरीके से बनाने के लिए टॉप नो-कोड और लो-कोड टैलेंट को हायर करें
 [Visit](https://www.thataicollection.com/redirect/ai-project-description-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4481,7 +4481,7 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 
 ### Uizard
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-uizard.webp?twic=v1/resize=240" alt="Uizard">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-uizard.webp" alt="Uizard">
 
 #### यूज़ार्ड - ऐप, वेब, और यूआई डिज़ाइन मेड ईज़ी - एआई द्वारा संचालित
 [Visit](https://www.thataicollection.com/redirect/uizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4496,7 +4496,7 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 
 ### Durable
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-durable.webp?twic=v1/resize=240" alt="Durable">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-durable.webp" alt="Durable">
 
 #### टिकाऊ: एआई वेबसाइट बिल्डर और सर्विस बिजनेस सॉफ्टवेयर
 [Visit](https://www.thataicollection.com/redirect/durable?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4511,7 +4511,7 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 
 ### Piggy
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-piggy.webp?twic=v1/resize=240" alt="Piggy">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-piggy.webp" alt="Piggy">
 
 #### मोबाइल सामग्री निर्माता।
 [Visit](https://www.thataicollection.com/redirect/piggy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4526,7 +4526,7 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 
 ### Genius by Diagram
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-genius-by-diagram.webp?twic=v1/resize=240" alt="Genius by Diagram">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-genius-by-diagram.webp" alt="Genius by Diagram">
 
 #### प्रतिभा - आपका एआई डिजाइन साथी
 [Visit](https://www.thataicollection.com/redirect/genius-by-diagram?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4551,7 +4551,7 @@ AI द्वारा संचालित Figma के लिए एक जा
 ## लेखन सहायक
 
 ### HIX.AI
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-hix.ai.webp?twic=v1/resize=240" alt="HIX.AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hix.ai.webp" alt="HIX.AI">
 
 #### सबसे शक्तिशाली, सबमें एक
 एआई राइटिंग कोपायलट
@@ -4567,7 +4567,7 @@ IX.AI: आपका सबसे शक्तिशाली, ऑल-इन-व�
 
 
 ### Rytr
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-rytr.webp?twic=v1/resize=240" alt="Rytr">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rytr.webp" alt="Rytr">
 
 #### Rytr - सर्वश्रेष्ठ AI राइटर, कंटेंट जनरेटर और लेखन सहायक
 [Visit](https://www.thataicollection.com/redirect/rytr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4584,7 +4584,7 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 
 
 ### Elephas
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-elephas.webp?twic=v1/resize=240" alt="Elephas">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephas.webp" alt="Elephas">
 
 #### एलिफस - मैक, आईफोन, आईपैड के लिए पर्सनल एआई राइटिंग असिस्टेंट
 [Visit](https://www.thataicollection.com/redirect/elephas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4599,7 +4599,7 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 
 
 ### Quillbot Paraphraser
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-quillbot-paraphraser.webp?twic=v1/resize=240" alt="Quillbot Paraphraser">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quillbot-paraphraser.webp" alt="Quillbot Paraphraser">
 
 #### QuillBot का AI-पावर्ड पैराफ़्रेसिंग टूल आपके लेखन को बेहतर बनाएगा
 [Visit](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4614,7 +4614,7 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 
 
 ### Paraphraser
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-paraphraser.webp?twic=v1/resize=240" alt="Paraphraser">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paraphraser.webp" alt="Paraphraser">
 
 #### सभी भाषाओं के लिए मुफ़्त पैराफ़्रेसिंग
 [Visit](https://www.thataicollection.com/redirect/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4630,7 +4630,7 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 
 
 ### Ai Paragraph Generator
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-paragraph-generator.webp?twic=v1/resize=240" alt="Ai Paragraph Generator">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-paragraph-generator.webp" alt="Ai Paragraph Generator">
 
 #### टेक्स्ट को बेहतर तरीके से बनाने के लिए, AI पैराग्राफ़ जेनरेटर का इस्तेमाल करें, जो लिखने की अलग-अलग ज़रूरतों के लिए उपयोगी कॉन्टेंट जनरेटर है।
 [Visit](https://www.thataicollection.com/redirect/ai-paragraph-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4645,7 +4645,7 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 
 
 ### AI Lyrics Generator
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-ai-lyrics-generator.webp?twic=v1/resize=240" alt="AI Lyrics Generator">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-lyrics-generator.webp" alt="AI Lyrics Generator">
 
 #### आर्टिफिशियल इंटेलिजेंस सॉन्ग राइटर - ये लिरिक्स मौजूद नहीं हैं
 [Visit](https://www.thataicollection.com/redirect/ai-lyrics-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
