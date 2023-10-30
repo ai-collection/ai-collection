@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=934" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=937" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -53,13 +53,14 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/hix.ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://static.tapfiliate.com/64f970e24e02d007847701.jpeg?a=135466-856f82" alt="HIX.AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://ai-collection.b-cdn.net/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI" border="0"/>
     </a>
-    <h4>Le tout-en-un le plus puissant
-Copilote d'écriture d'IA</h4>
-    <p>IX.AI : votre copilote d'écriture d'IA tout-en-un le plus puissant. Générez des copies de haute qualité pour les publicités, les e-mails, les blogs et bien plus encore en quelques secondes avec HIX.AI, le copilote d'écriture d'IA tout-en-un le plus puissant du marché.</p>
-    <a href="https://www.thataicollection.com/redirect/hix.ai" target="_blank"><b>Démarrer avec HIX.AI</b></a>
+    <h4>BeeBee.AI est adapté au marché boursier américain et s'adresse aux investisseurs de long terme qui se concentrent principalement sur l'analyse fondamentale et qui valorisent les données et les informations.</h4>
+    <p>Nous soutenons plus de 2 000 entreprises (dont le Dow Jones 30, le S&P500, le NASDAQ 100, classés selon le volume des transactions et l'activité). Tirer parti de la fondation GPT et l'associer à des mini-modèles spécialisés en PNL. Nous proposons principalement deux services principaux :
+(1) Interprétation complète des rapports sur les bénéfices et des conférences téléphoniques. 
+(2) Analyse approfondie de l'importante empreinte numérique d'une entreprise. </p>
+    <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec BeeBee AI</b></a>
     <br />
 </div>
 
@@ -122,6 +123,23 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 💰 [Ventes Et Marketing](#ventes-et-marketing)
 - 🎬 [Vidéo](#vidéo)
 ## Comptabilité et Finance
+
+### BeeBee AI
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-beebee-ai.webp?twic=v1/resize=240" alt="BeeBee AI">
+
+#### BeeBee.AI est adapté au marché boursier américain et s'adresse aux investisseurs de long terme qui se concentrent principalement sur l'analyse fondamentale et qui valorisent les données et les informations.
+[Visit](https://www.thataicollection.com/redirect/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nous soutenons plus de 2 000 entreprises (dont le Dow Jones 30, le S&P500, le NASDAQ 100, classés selon le volume des transactions et l'activité). Tirer parti de la fondation GPT et l'associer à des mini-modèles spécialisés en PNL. Nous proposons principalement deux services principaux :
+(1) Interprétation complète des rapports sur les bénéfices et des conférences téléphoniques. 
+(2) Analyse approfondie de l'importante empreinte numérique d'une entreprise. 
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### FlowCog
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-flowcog.webp?twic=v1/resize=240" alt="FlowCog">
@@ -3176,6 +3194,22 @@ Téléchargez un article, mettez en surbrillance un texte confus, obtenez une ex
 <br />
 
 
+### Jenni
+<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-jenni.webp?twic=v1/resize=240" alt="Jenni">
+
+#### Jenni, l'IA pour rédiger des essais, des articles de recherche et plus encore !
+
+[Visit](https://www.thataicollection.com/redirect/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Jenni est ton assistante IA pour tout ce qui concerne ton parcours universitaire. Nous sommes spécialisés dans le développement de l'IA qui t'aide à rédiger des dissertations, des articles de recherche et plus encore !
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Vocads Survey
 <img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-vocads-survey.webp?twic=v1/resize=240" alt="Vocads Survey">
 
@@ -3200,21 +3234,6 @@ Les entreprises manquent de réponses et d'engagement dans leurs sondages. Vocad
 Rédaction de rapports Trop de documents à lire ? Afforai analysera et rédigera pour vous un rapport complet et répondra à toutes vos questions sur les documents. Requête de feuille de calcul - Utilisez Afforai pour extraire des informations importantes de rapports et de feuilles de calcul à l'aide d'une requête en langage naturel. Web Scraping - Afforai peut parcourir plusieurs sites Web et extraire des informations clés.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/afforai-build?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Synthical
-<img align="left" src="https://aicollection.twic.pics/screenshots/screenshot-synthical.webp?twic=v1/resize=240" alt="Synthical">
-
-#### Environnement de recherche collaboratif alimenté par l'IA
-[Visit](https://www.thataicollection.com/redirect/synthical?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Simplifiez les articles pour comprendre des termes complexes, obtenez des recommandations intéressantes, recherchez des articles similaires et collaborez facilement avec l'équipe.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/synthical?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
