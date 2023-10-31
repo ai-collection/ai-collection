@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=937" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=941" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -61,6 +61,20 @@
 （1）全面解读财报和电话会议。 
 (2) 对公司广泛的数字足迹的深入分析。 </p>
     <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 BeeBee AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-olympia.webp" alt="Olympia" border="0"/>
+    </a>
+    <h4>为个体企业家和初创企业提供负担得起的虚拟员工。</h4>
+    <p>Olympia是一款由人工智能驱动的虚拟人员配备工具，专为自营企业家和自力更生的初创企业而设计。它旨在通过提供负担得起的具有广泛技能的专家顾问来帮助企业发展，从而无需雇用昂贵的人力员工。
+</p>
+    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Olympia</b></a>
     <br />
 </div>
 
@@ -645,6 +659,22 @@ HairstyleAI 可让您在实际剪发之前通过 AI 虚拟尝试新发型。对�
 
 ## 聊天机器人
 
+### Olympia
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-olympia.webp" alt="Olympia">
+
+#### 为个体企业家和初创企业提供负担得起的虚拟员工。
+[Visit](https://www.thataicollection.com/redirect/olympia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Olympia是一款由人工智能驱动的虚拟人员配备工具，专为自营企业家和自力更生的初创企业而设计。它旨在通过提供负担得起的具有广泛技能的专家顾问来帮助企业发展，从而无需雇用昂贵的人力员工。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/olympia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### AChatsimple
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-achatsimple.webp" alt="AChatsimple">
 
@@ -729,21 +759,6 @@ ChatBotKit 可帮助您使用自己的数据创建对话式 AI 聊天机器人�
 认识诺鲁。用于与 Open AI GPT-3 引擎交互的简单界面。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nolu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Askrobi
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-askrobi.webp" alt="Askrobi">
-
-#### WhatsApp 中 AI 的力量
-[Visit](https://www.thataicollection.com/redirect/askrobi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Robi 是一个强大的 AI 伴侣，它住在您的联系人列表中，可以通过 WhatsApp 与他交谈，他可以帮助您撰写文章或生成原始图像！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/askrobi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4317,21 +4332,6 @@ Stork 帮助团队改善沟通和生产力。它是混合和远程团队的商�
 
 ## 视频
 
-### Colossyan
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-colossyan.webp" alt="Colossyan">
-
-#### 用于工作场所学习的人工智能视频平台
-[Visit](https://www.thataicollection.com/redirect/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Colossyan Creator 让视频创作变得简单、无压力。与真实演员一起探索我们的人工智能视频创作者。在 5 分钟内创建视频
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### HitPaw Online Video Enhancer
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
 
@@ -4374,6 +4374,21 @@ HeyGen 是一个视频平台，可帮助您利用生成式 AI 创建引人入胜
 讲解和操作方法、营销、个性化销售、电子学习、培训和入职以及新闻。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Colossyan
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-colossyan.webp" alt="Colossyan">
+
+#### 用于工作场所学习的人工智能视频平台
+[Visit](https://www.thataicollection.com/redirect/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Colossyan Creator 让视频创作变得简单、无压力。与真实演员一起探索我们的人工智能视频创作者。在 5 分钟内创建视频
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4629,15 +4644,18 @@ Rytr是一款人工智能写作助手，可以帮助你在短短几秒钟内创�
 <br />
 
 
-### Ai Paragraph Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-paragraph-generator.webp" alt="Ai Paragraph Generator">
+### Neuron Writer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuron-writer.webp" alt="Neuron Writer">
 
-#### 使用 AI 段落生成器（一款适用于不同写作要求的有用内容生成器）来高效创建文本。
-[Visit](https://www.thataicollection.com/redirect/ai-paragraph-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### NeuronWriter — 使用 #semanticSEO 进行内容优化
+[Visit](https://www.thataicollection.com/redirect/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AI 段落生成器是一款利用人工智能力量的尖端内容创作工具。它使用先进的自然语言处理和机器学习，可以快速生成连贯且与上下文相关的段落，使其成为满足各种写作要求的宝贵资源。 
+优化您的网站内容
+所以谷歌很喜欢它。
+高级内容编辑器，包含语义模型 (NLP)、谷歌 SERP 分析和竞争数据。
+NeuronWriter 可帮助您规划、编写和优化内容，同时考虑用户意图！
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-paragraph-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
