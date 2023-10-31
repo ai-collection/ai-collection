@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=937" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=941" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -61,6 +61,20 @@
 （1）全面解读财报和电话会议。 
 (2) 对公司广泛的数字足迹的深入分析。 </p>
     <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 BeeBee AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-olympia.webp" alt="Olympia" border="0"/>
+    </a>
+    <h4>为个体企业家和初创企业提供负担得起的虚拟员工。</h4>
+    <p>Olympia是一款由人工智能驱动的虚拟人员配备工具，专为自营企业家和自力更生的初创企业而设计。它旨在通过提供负担得起的具有广泛技能的专家顾问来帮助企业发展，从而无需雇用昂贵的人力员工。
+</p>
+    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Olympia</b></a>
     <br />
 </div>
 
@@ -316,6 +330,7 @@
 | [Bearly Ai](https://www.thataicollection.com/redirect/bearly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用世界上最好的 AI 节省数百小时的阅读和写作时间. | . | :white_check_mark: |
 | [BlogNLP](https://www.thataicollection.com/redirect/blognlp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 博客NLP. | 基于 AI 的博客写作工具，可以帮助您快速轻松地制作引人入胜的内容，消除写作障碍并节省您的时间. | :grey_question: |
 | [Chatchat for jobs done](https://www.thataicollection.com/redirect/chatchat-for-jobs-done?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 无需太多思考，我们的人工智能服务即可为您的工作提供清晰的输出. | 🚀 ChatChat.Bio：您的一站式人工智能服务！  ✨ 特点： 稳定访问 ChatGPT、GPT-4 和 Midjourney。我们的人工智能能够理解碎片化的想法，理清思路，指导中途使用。  🎉 高用户保留率：70% 重复购买！  🔧 技术优势：专注于模型微调和人工智能适应用户需求。  💖 每日免费额度：每日免费使用服务，无需订阅！. | :white_check_mark: |
+| [Editpad - paraphrasing-tool](https://www.thataicollection.com/redirect/editpad---paraphrasing-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Editpad 在线释义文本是最好的释义工具，它可以帮助你解释句子、段落和文章以消除抄袭。. | Editpad 的在线释义是一种自由文本释义工具，用于更改单词和句子结构以避免抄袭。. | :white_check_mark: |
 | [Eilla](https://www.thataicollection.com/redirect/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Eilla AI - 人工智能内容生成助手. | . | :grey_question: |
 | [Elephas](https://www.thataicollection.com/redirect/elephas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Elephas - 适用于 Mac、iPhone、iPad 的个人 AI 写作助手. | 每天节省数小时。世界上第一位跨 Mac、iPhone 和 iPad 工作的 AI 作家。. | :white_check_mark: |
 | [EssayBar](https://www.thataicollection.com/redirect/essaybar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EssayBar — 用 AI 制作的论文彻底改变您的写作！. | . | :grey_question: |
@@ -323,7 +338,10 @@
 | [FreewriteAI](https://www.thataicollection.com/redirect/freewriteai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 适合所有人的AI写作工具. | . | :white_check_mark: |
 | [HIX.AI](https://www.thataicollection.com/redirect/hix.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 最强大的一体化 AI写作副驾驶. | IX.AI：您最强大的一体化人工智能写作副驾驶。使用 HIX.AI（市场上最强大的一体化人工智能写作副驾驶）在几秒钟内为广告、电子邮件、博客等生成高质量的副本。. | :white_check_mark: |
 | [Instascribe](https://www.thataicollection.com/redirect/instascribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instascribe 是一款人工智能应用程序，可为您的 Instagram 照片创建个性化字幕. | 只需选择一张图片，从一系列字幕样式中挑选或定义您自己的样式，然后调整语调、语言和消息长度等选项。然后，该应用程序的 AI 会生成适合您的图像和偏好的独特说明，从而简化您的社交媒体发布过程。. | :grey_question: |
+| [Neuron Writer](https://www.thataicollection.com/redirect/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | NeuronWriter — 使用 #semanticSEO 进行内容优化. | 优化您的网站内容 所以谷歌很喜欢它。 高级内容编辑器，包含语义模型 (NLP)、谷歌 SERP 分析和竞争数据。 NeuronWriter 可帮助您规划、编写和优化内容，同时考虑用户意图！. | :grey_question: |
+| [Parafrasear](https://www.thataicollection.com/redirect/parafrasear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 释义文本-最佳在线释义（100% 免费）. | 释义文本免费在线释义工具。我们的 Paraphrase.ai 释义工具可帮助您解读抄袭的内容。. | :white_check_mark: |
 | [Paragraph AI](https://www.thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ParagraphAI • 最佳人工智能写作应用程序 • 免费人工智能写作助手工具. | . | :white_check_mark: |
+| [Paraphrasear Online](https://www.thataicollection.com/redirect/paraphrasear-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在线解释-释义文本-100% 免费. | 这个在线释义是解读文本的免费工具。使用在线释义来消除抄袭。这是一款由人工智能驱动的在线释义工具，可以轻松解读文章、论文、句子、故事、作业、研究论文和许多其他类型的内容。. | :white_check_mark: |
 | [Paraphraser](https://www.thataicollection.com/redirect/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 所有语言的免费释义. | 释义工具包含 15 种免费模式，适用于 100 多种语言-改写句子、重写段落、重写论文、检查语法并消除抄袭. | :white_check_mark: |
 | [Paraphraser AI](https://www.thataicollection.com/redirect/paraphraser-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Yaara — AI 驱动的写作助手. | . | :grey_question: |
 | [Quillbot Paraphraser](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | QuillBot 的 AI 驱动的释义工具将提高您的写作水平. | 您的话很重要，我们的释义工具旨在确保您使用正确的措辞。有两种免费模式和五种高级模式可供选择，您可以使用 QuillBot 的在线释义器以各种方式改写任何文本。. | :white_check_mark: |

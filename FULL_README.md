@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=937" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=941" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -67,6 +67,20 @@ Translations:
 (1) Comprehensive interpretation of earnings reports and conference calls. 
 (2) In-depth analysis of a company’s extensive digital footprint. </p>
     <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with BeeBee AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-olympia.webp" alt="Olympia" border="0"/>
+    </a>
+    <h4>Affordable virtual staff for solopreneurs and startups.</h4>
+    <p>Olympia is an AI-powered virtual staffing tool designed for solopreneurs and bootstrapped startups. It aims to help businesses grow by providing affordable access to expert consultants with a wide range of skillsets, eliminating the need to hire expensive human employees.
+</p>
+    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Olympia</b></a>
     <br />
 </div>
 
@@ -1190,6 +1204,7 @@ Translations:
 | [Bearly Ai](https://www.thataicollection.com/redirect/bearly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Save Hundreds of Hours Reading and Writing With the World'S Best AI. | . | :white_check_mark: |
 | [BlogNLP](https://www.thataicollection.com/redirect/blognlp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Blognlp. | An AI-based blog writing tool that can help you craft captivating content quickly and easily, eliminating writer's block and saving you time. | :grey_question: |
 | [Chatchat for jobs done](https://www.thataicollection.com/redirect/chatchat-for-jobs-done?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | No need for to much think but clear output from our AI service for your job. | 🚀 ChatChat.Bio: Your One-Stop AI Service!  ✨ Features: Stable access to ChatGPT, GPT-4, and Midjourney. Our AI understands fragmented thoughts, clarifies ideas, and guides Midjourney use.  🎉 High User Retention: 70% repeat purchases!  🔧 Tech Advantages: Specialized in fine-tuning models and adapting AI to user needs.  💖 Free Daily Quota: Access services daily for free, no subscription needed!. | :white_check_mark: |
+| [Editpad - paraphrasing-tool](https://www.thataicollection.com/redirect/editpad---paraphrasing-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paraphrase texts online by Editpad is the best paraphraser that helps you paraphrase sentences, paragraphs and essays to eliminate plagiarism. | Online Paraphrasing by Editpad is a free text paraphrasing tool to change words and sentence structure to avoid plagiarism. | :white_check_mark: |
 | [Eilla](https://www.thataicollection.com/redirect/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Eilla AI - AI Content Generation Assistant. | . | :grey_question: |
 | [Elephas](https://www.thataicollection.com/redirect/elephas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Elephas - Personal AI Writing Assistant for Mac, Iphone, Ipad. | Save hours every day. The world's first AI writer that works across your Mac, iPhone, and iPad. | :white_check_mark: |
 | [EssayBar](https://www.thataicollection.com/redirect/essaybar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Essaybar — Revolutionize Your Writing With AI-Crafted Essays!. | . | :grey_question: |
@@ -1197,7 +1212,10 @@ Translations:
 | [FreewriteAI](https://www.thataicollection.com/redirect/freewriteai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The AI Writing Tool for Everyone. | . | :white_check_mark: |
 | [HIX.AI](https://www.thataicollection.com/redirect/hix.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The Most Powerful, All-in-One AI Writing Copilot. | IX.AI: Your Most Powerful, All-In-One AI Writing Copilot. Generate high-quality copies for ads, emails, blogs, and more in seconds with HIX.AI, the most powerful, all-in-one AI writing copilot on the market. | :white_check_mark: |
 | [Instascribe](https://www.thataicollection.com/redirect/instascribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instascribe Is an AI-powered App That Creates Personalised Captions for Your Instagram Photos. | Just select an image, pick from an array of caption styles or define your own, and adjust options such as tone of voice, language, and message length. The app's AI then generates a unique caption that suits your image and preferences, streamlining your social media posting process. | :grey_question: |
+| [Neuron Writer](https://www.thataicollection.com/redirect/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | NeuronWriter – Content optimization with #semanticSEO. | Optimize your website content so Google adores it. Advanced content editor with semantic models (NLP), Google SERP analysis, and competition data. NEURONwriter helps you to plan, write and optimize content with user intent in mind!. | :grey_question: |
+| [Parafrasear](https://www.thataicollection.com/redirect/parafrasear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paraphrase Texts - The Best Online Paraphrasing (100% Free). | Paraphrase texts free online paraphrasing tool. Our Paraphrase.ai paraphrasing tool helps you paraphrase plagiarized content. | :white_check_mark: |
 | [Paragraph AI](https://www.thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paragraphai • Best AI Writing App • Free AI Writing Assistant Tool. | . | :white_check_mark: |
+| [Paraphrasear Online](https://www.thataicollection.com/redirect/paraphrasear-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paraphrase online - Paraphrase texts - 100% Free. | This online paraphrasing is a free tool to paraphrase texts. Use online paraphrasing to eliminate plagiarism. This is an AI-powered online paraphrasing tool, which can easily paraphrase articles, essays, sentences, stories, assignments, research papers and many other types of content. | :white_check_mark: |
 | [Paraphraser](https://www.thataicollection.com/redirect/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Free Paraphrasing for All Languages. | Paraphrase Tool with 15 FREE Modes for 100+ Languages - Rephrases Sentences, Rewords Paragraphs, Rewrites Essays, Checks Grammar and Eliminates Plagiarism. | :white_check_mark: |
 | [Paraphraser AI](https://www.thataicollection.com/redirect/paraphraser-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Yaara — AI-Powered Writing Assistant. | . | :grey_question: |
 | [Quillbot Paraphraser](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | QuillBot's AI-powered Paraphrasing Tool Will Enhance Your Writing. | Your words matter, and our paraphrasing tool is designed to ensure you use the right ones. With two free modes and five Premium modes to choose from, you can use QuillBot’s online Paraphraser to rephrase any text in a variety of ways. | :white_check_mark: |

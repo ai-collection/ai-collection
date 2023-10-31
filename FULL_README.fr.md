@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=937" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=941" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -61,6 +61,20 @@
 (1) Interprétation complète des rapports sur les bénéfices et des conférences téléphoniques. 
 (2) Analyse approfondie de l'importante empreinte numérique d'une entreprise. </p>
     <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec BeeBee AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-olympia.webp" alt="Olympia" border="0"/>
+    </a>
+    <h4>Du personnel virtuel abordable pour les solopreneurs et les startups.</h4>
+    <p>Olympia est un outil de recrutement virtuel basé sur l'IA conçu pour les solopreneurs et les start-up en démarrage. Il vise à aider les entreprises à se développer en fournissant un accès abordable à des consultants experts dotés d'un large éventail de compétences, éliminant ainsi le besoin d'embaucher des employés humains onéreux.
+</p>
+    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Olympia</b></a>
     <br />
 </div>
 
@@ -256,6 +270,7 @@
 | [Bearly Ai](https://www.thataicollection.com/redirect/bearly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Économisez des centaines d'heures de lecture et d'écriture avec la meilleure IA au monde. | . | :white_check_mark: |
 | [BlogNLP](https://www.thataicollection.com/redirect/blognlp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | BlogPNL. | Un outil d'écriture de blog basé sur l'IA qui peut vous aider à créer rapidement et facilement un contenu captivant, en éliminant le blocage de l'écrivain et en vous faisant gagner du temps. | :grey_question: |
 | [Chatchat for jobs done](https://www.thataicollection.com/redirect/chatchat-for-jobs-done?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pas besoin de trop réfléchir, mais des résultats clairs de notre service d'IA pour votre travail. | 🚀 ChatChat.Bio : votre service d'IA à guichet unique !  ✨ Caractéristiques : accès stable à ChatGPT, GPT-4 et Midjourney. Notre IA comprend les pensées fragmentées, clarifie les idées et guide l'utilisation de Midjourney.  🎉 Rétention élevée des utilisateurs : 70 % d'achats répétés !  🔧 Avantages technologiques : spécialisé dans la mise au point des modèles et l'adaptation de l'IA aux besoins des utilisateurs.  💖 Quota quotidien gratuit : accédez quotidiennement aux services gratuitement, sans abonnement !. | :white_check_mark: |
+| [Editpad - paraphrasing-tool](https://www.thataicollection.com/redirect/editpad---paraphrasing-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paraphrase des textes en ligne par Editpad est le meilleur outil qui t'aide à paraphraser des phrases, des paragraphes et des dissertations afin d'éliminer le plagiat. | La paraphrase en ligne d'Editpad est un outil de paraphrase en texte gratuit qui permet de modifier la structure des mots et des phrases afin d'éviter le plagiat. | :white_check_mark: |
 | [Eilla](https://www.thataicollection.com/redirect/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Eilla AI - Assistante de génération de contenu IA. | . | :grey_question: |
 | [Elephas](https://www.thataicollection.com/redirect/elephas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Elephas - Assistant personnel d'écriture IA pour Mac, iPhone, iPad. | Gagnez des heures chaque jour. Le premier rédacteur IA au monde qui fonctionne sur votre Mac, iPhone et iPad. | :white_check_mark: |
 | [EssayBar](https://www.thataicollection.com/redirect/essaybar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EssayBar - Révolutionnez votre écriture avec des essais créés par l'IA !. | . | :grey_question: |
@@ -263,7 +278,10 @@
 | [FreewriteAI](https://www.thataicollection.com/redirect/freewriteai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | L'outil d'écriture IA pour tous. | . | :white_check_mark: |
 | [HIX.AI](https://www.thataicollection.com/redirect/hix.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Le tout-en-un le plus puissant Copilote d'écriture d'IA. | IX.AI : votre copilote d'écriture d'IA tout-en-un le plus puissant. Générez des copies de haute qualité pour les publicités, les e-mails, les blogs et bien plus encore en quelques secondes avec HIX.AI, le copilote d'écriture d'IA tout-en-un le plus puissant du marché. | :white_check_mark: |
 | [Instascribe](https://www.thataicollection.com/redirect/instascribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instascribe est une application basée sur l'IA qui crée des légendes personnalisées pour vos photos Instagram. | Sélectionnez simplement une image, choisissez parmi une gamme de styles de légende ou définissez le vôtre, et ajustez les options telles que le ton de la voix, la langue et la longueur du message. L'IA de l'application génère ensuite une légende unique qui correspond à votre image et à vos préférences, rationalisant ainsi votre processus de publication sur les réseaux sociaux. | :grey_question: |
+| [Neuron Writer](https://www.thataicollection.com/redirect/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | NeuronWriter — Optimisation du contenu avec #semanticSEO. | Optimise le contenu de ton site Web donc Google adore ça. Éditeur de contenu avancé avec modèles sémantiques (NLP), analyse des SERP de Google et données sur la concurrence. NeuronWriter t'aide à planifier, rédiger et optimiser le contenu en tenant compte des intentions de l'utilisateur !. | :grey_question: |
+| [Parafrasear](https://www.thataicollection.com/redirect/parafrasear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paraphrase des textes - La meilleure paraphrase en ligne (100 % gratuite). | Outil de paraphrase en ligne gratuit. Notre outil de paraphrase Paraphrase.ai t'aide à paraphraser du contenu plagié. | :white_check_mark: |
 | [Paragraph AI](https://www.thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ParagraphAI • Meilleure application d'écriture d'IA • Outil gratuit d'assistant d'écriture d'IA. | . | :white_check_mark: |
+| [Paraphrasear Online](https://www.thataicollection.com/redirect/paraphrasear-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paraphrase en ligne - Paraphrase des textes - 100 % gratuit. | Cette paraphrase en ligne est un outil gratuit pour paraphraser des textes. Paraphrase en ligne pour éliminer le plagiat. Il s'agit d'un outil de paraphrase en ligne alimenté par l'IA, qui peut facilement paraphraser des articles, des essais, des phrases, des histoires, des devoirs, des articles de recherche et bien d'autres types de contenu. | :white_check_mark: |
 | [Paraphraser](https://www.thataicollection.com/redirect/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paraphrase gratuite pour toutes les langues. | Outil de paraphrase avec 15 modes GRATUITS pour plus de 100 langues : reformule des phrases, reformule des paragraphes, réécrit des dissertations, vérifie la grammaire et élimine le plagiat. | :white_check_mark: |
 | [Paraphraser AI](https://www.thataicollection.com/redirect/paraphraser-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Yaara - Assistant d'écriture alimenté par l'IA. | . | :grey_question: |
 | [Quillbot Paraphraser](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | L'outil de paraphrase alimenté par l'IA de QuillBot améliorera votre écriture. | Vos mots comptent, et notre outil de paraphrase est conçu pour vous assurer d'utiliser les bons. Avec deux modes gratuits et cinq modes Premium au choix, vous pouvez utiliser le Paraphraser en ligne de QuillBot pour reformuler n'importe quel texte de différentes manières. | :white_check_mark: |

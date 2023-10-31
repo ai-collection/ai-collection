@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=937" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=941" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -67,6 +67,20 @@ Translations:
 (1) Comprehensive interpretation of earnings reports and conference calls. 
 (2) In-depth analysis of a company’s extensive digital footprint. </p>
     <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with BeeBee AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-olympia.webp" alt="Olympia" border="0"/>
+    </a>
+    <h4>Affordable virtual staff for solopreneurs and startups.</h4>
+    <p>Olympia is an AI-powered virtual staffing tool designed for solopreneurs and bootstrapped startups. It aims to help businesses grow by providing affordable access to expert consultants with a wide range of skillsets, eliminating the need to hire expensive human employees.
+</p>
+    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Olympia</b></a>
     <br />
 </div>
 
@@ -651,6 +665,22 @@ Create your perfect avatars in just a few clicks with our easy-to-use AI technol
 
 ## Chat Bot
 
+### Olympia
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-olympia.webp" alt="Olympia">
+
+#### Affordable virtual staff for solopreneurs and startups.
+[Visit](https://www.thataicollection.com/redirect/olympia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Olympia is an AI-powered virtual staffing tool designed for solopreneurs and bootstrapped startups. It aims to help businesses grow by providing affordable access to expert consultants with a wide range of skillsets, eliminating the need to hire expensive human employees.
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/olympia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AChatsimple
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-achatsimple.webp" alt="AChatsimple">
 
@@ -739,21 +769,6 @@ Meet NOLU. A simple interface for interacting with the Open AI GPT-3 engine.
 <br />
 
 <br />
-
-
-### Askrobi
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-askrobi.webp" alt="Askrobi">
-
-#### Power of AI in WhatsApp
-[Visit](https://www.thataicollection.com/redirect/askrobi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Robi is a powerful AI companion that lives in your contact list and can be talked to through WhatsApp, he can help you write an essay or generate original images!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/askrobi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 
@@ -4323,21 +4338,6 @@ Unlock the perfect travel blog name with TravelFeed's Blog Name Ideas Generator!
 
 ## Video
 
-### Colossyan
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-colossyan.webp" alt="Colossyan">
-
-#### The AI video platform for workplace learning
-[Visit](https://www.thataicollection.com/redirect/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Colossyan Creator makes video creation simple and stress-free. Discover our AI video creator with real actors. Create videos in less than 5 minutes
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### HitPaw Online Video Enhancer
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
 
@@ -4384,6 +4384,21 @@ Explainer & How-to, Marketing, Personalized Sales, E-learning, Training & Onboar
 <br />
 
 
+
+
+### Colossyan
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-colossyan.webp" alt="Colossyan">
+
+#### The AI video platform for workplace learning
+[Visit](https://www.thataicollection.com/redirect/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Colossyan Creator makes video creation simple and stress-free. Discover our AI video creator with real actors. Create videos in less than 5 minutes
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
 
 
 ### Pictory
@@ -4635,15 +4650,18 @@ Paraphrase Tool with 15 FREE Modes for 100+ Languages - Rephrases Sentences, Rew
 
 
 
-### Ai Paragraph Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-paragraph-generator.webp" alt="Ai Paragraph Generator">
+### Neuron Writer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuron-writer.webp" alt="Neuron Writer">
 
-#### Use AI Paragraph Generator, a useful content generator for different writing requirements, to efficiently create text.
-[Visit](https://www.thataicollection.com/redirect/ai-paragraph-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### NeuronWriter – Content optimization with #semanticSEO
+[Visit](https://www.thataicollection.com/redirect/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AI Paragraph Generator is a cutting-edge content creation tool that harnesses the power of artificial intelligence. Using advanced natural language processing and machine learning, it rapidly generates coherent and contextually relevant paragraphs, making it an invaluable resource for various writing requirements. 
+Optimize your website content
+so Google adores it.
+Advanced content editor with semantic models (NLP), Google SERP analysis, and competition data.
+NEURONwriter helps you to plan, write and optimize content with user intent in mind!
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-paragraph-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

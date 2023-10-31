@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=937" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=941" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -61,6 +61,20 @@
 (1) Комплексная интерпретация отчетов о прибылях и убытках и конференц-звонков. 
 (2) Углубленный анализ обширного цифрового присутствия компании. </p>
     <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с BeeBee AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-olympia.webp" alt="Olympia" border="0"/>
+    </a>
+    <h4>Доступный виртуальный персонал для индивидуальных предпринимателей и стартапов.</h4>
+    <p>Olympia — это виртуальный кадровый инструмент на базе искусственного интеллекта, предназначенный для индивидуальных предпринимателей и начинающих стартапов. Он призван помочь бизнесу расти, предоставляя доступный доступ к экспертам-консультантам с широким спектром навыков и устраняя необходимость найма дорогостоящих человеческих сотрудников.
+</p>
+    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Olympia</b></a>
     <br />
 </div>
 
@@ -645,6 +659,22 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 ## Чат-бот
 
+### Olympia
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-olympia.webp" alt="Olympia">
+
+#### Доступный виртуальный персонал для индивидуальных предпринимателей и стартапов.
+[Visit](https://www.thataicollection.com/redirect/olympia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Olympia — это виртуальный кадровый инструмент на базе искусственного интеллекта, предназначенный для индивидуальных предпринимателей и начинающих стартапов. Он призван помочь бизнесу расти, предоставляя доступный доступ к экспертам-консультантам с широким спектром навыков и устраняя необходимость найма дорогостоящих человеческих сотрудников.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/olympia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AChatsimple
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-achatsimple.webp" alt="AChatsimple">
 
@@ -733,21 +763,6 @@ ChatBotKit помогает вам создавать диалоговых ча�
 <br />
 
 <br />
-
-
-### Askrobi
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-askrobi.webp" alt="Askrobi">
-
-#### Сила ИИ в WhatsApp
-[Visit](https://www.thataicollection.com/redirect/askrobi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Роби — мощный компаньон с искусственным интеллектом, который живет в вашем списке контактов, с ним можно поговорить через WhatsApp, он может помочь вам написать эссе или создать оригинальные изображения!
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/askrobi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 
@@ -4317,21 +4332,6 @@ Stork помогает командам улучшить коммуникаци�
 
 ## видео
 
-### Colossyan
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-colossyan.webp" alt="Colossyan">
-
-#### Видеоплатформа искусственного интеллекта для обучения на рабочем месте
-[Visit](https://www.thataicollection.com/redirect/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Colossyan Creator делает создание видео простым и легким. Откройте для себя нашего создателя видео с помощью искусственного интеллекта и реальных актеров. Создавайте видео менее чем за 5 минут
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### HitPaw Online Video Enhancer
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
 
@@ -4374,6 +4374,21 @@ HeyGen — это видеоплатформа, которая помогает 
 Объяснение и инструкции, маркетинг, персонализированные продажи, электронное обучение, обучение и адаптация, новости.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Colossyan
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-colossyan.webp" alt="Colossyan">
+
+#### Видеоплатформа искусственного интеллекта для обучения на рабочем месте
+[Visit](https://www.thataicollection.com/redirect/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Colossyan Creator делает создание видео простым и легким. Откройте для себя нашего создателя видео с помощью искусственного интеллекта и реальных актеров. Создавайте видео менее чем за 5 минут
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4629,15 +4644,18 @@ Rytr — это помощник по написанию текстов с ис�
 
 
 
-### Ai Paragraph Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-paragraph-generator.webp" alt="Ai Paragraph Generator">
+### Neuron Writer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuron-writer.webp" alt="Neuron Writer">
 
-#### Используйте AI Pargaph Generator, полезный генератор контента для различных требований к письму, для эффективного создания текста.
-[Visit](https://www.thataicollection.com/redirect/ai-paragraph-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### NeuronWriter — оптимизация контента с помощью #semanticSEO
+[Visit](https://www.thataicollection.com/redirect/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AI Pargraph Generator — это передовой инструмент для создания контента, использующий возможности искусственного интеллекта. Используя передовую обработку естественного языка и машинное обучение, он быстро генерирует последовательные и контекстуально релевантные абзацы, что делает его бесценным ресурсом для удовлетворения различных требований к написанию текстов. 
+Оптимизируйте контент своего сайта
+поэтому Google это обожает.
+Продвинутый редактор контента с семантическими моделями (NLP), анализом поисковой выдачи Google и данными о конкуренции.
+NeuronWriter поможет вам планировать, писать и оптимизировать контент с учетом пожеланий пользователей!
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-paragraph-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
