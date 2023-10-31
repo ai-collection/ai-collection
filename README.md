@@ -4032,6 +4032,22 @@ Create your personalized deck of cards and play with your friends. Select which 
 
 ## Text To Speech
 
+### Lovo
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lovo.webp" alt="Lovo">
+
+#### AI Voice Generator: Realistic Text to Speech & Voice Cloning
+
+[Visit](https://www.thataicollection.com/redirect/lovo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Award-winning AI Voice Generator and text to speech software with 500+ voices in 100 languages. Realistic AI Voices with Online Video Editor. Clone your own voice.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/lovo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Murf.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-murf.ai.webp" alt="Murf.ai">
 
@@ -4062,15 +4078,15 @@ Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with 
 
 
 
-### VERBATIK
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-verbatik.webp" alt="VERBATIK">
+### Wavel AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wavel-ai.webp" alt="Wavel AI">
 
-#### AI Powered Text to Voice Generation.
-[Visit](https://www.thataicollection.com/redirect/verbatik?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Best AI Dubbing and Translator For Video Content Creators
+[Visit](https://www.thataicollection.com/redirect/wavel-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Generate Realistic Text to Speech (TTS) audio using online AI Voice Generator and best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files.
+Step into the realm of AI excellence – real people's voices, now powered by Wavel AI. Create impeccable studio-quality voiceovers effortlessly. Elevate your podcasts, videos, and professional presentations with our advanced AI dubbing, translation, and voice cloning capabilities.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/verbatik?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/wavel-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4101,21 +4117,6 @@ too lazy to read an article? no problem, listen to it! Powered by Thundercontent
 Free Text to Speech for Online, Mobile App, Commercial license and Education with AI voices. NaturalReader converts text, PDF, and 20+ formats into spoken audio so you can listen to your documents, ebooks, and school materials anytime, anywhere
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/naturalreader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Wavel AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wavel-ai.webp" alt="Wavel AI">
-
-#### Best AI Dubbing and Translator For Video Content Creators
-[Visit](https://www.thataicollection.com/redirect/wavel-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Step into the realm of AI excellence – real people's voices, now powered by Wavel AI. Create impeccable studio-quality voiceovers effortlessly. Elevate your podcasts, videos, and professional presentations with our advanced AI dubbing, translation, and voice cloning capabilities.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/wavel-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
