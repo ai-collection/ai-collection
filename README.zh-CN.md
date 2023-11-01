@@ -39,10 +39,10 @@
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
     <a href="LICENSE">License</a> •
     <a href="https://aicollection.beehiiv.com/subscribe">Newsletter</a> •
-    <a href="https://www.thataicollection.com/en/blog/">Blog</a>
+    <a href="https://www.thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
 
---- 
+---
 > 您可以复制粘贴网站链接到此工具以查看中文网站 - [link](https://translate.google.com/?sl=en&tl=zh-CN&op=websites)
 
 ---
@@ -58,7 +58,7 @@
     </a>
     <h4>BeeBee.AI 专为美国股市量身定制，适合主要关注基本面分析并重视数据和信息的长期投资者。</h4>
     <p>我们为2000多家公司提供支持（包括道琼斯30指数、标准普尔500指数、纳斯达克100指数，按交易量和活动排序）。利用 GPT 基础并将其与专门的 NLP 迷你模型相结合。我们主要提供两项核心服务：
-（1）全面解读财报和电话会议。 
+（1）全面解读财报和电话会议。
 (2) 对公司广泛的数字足迹的深入分析。 </p>
     <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 BeeBee AI</b></a>
     <br />
@@ -94,6 +94,7 @@
 要在旧表视图中查看 AI 应用程序的完整集合，请转至 [here](FULL_README.zh-CN.md)
 
 ## Index
+- [Latest Additions to AI Collection](#latest-additions-to-ai-collection)
 - 🤪 [乐趣](#乐趣)
 - 👩‍💼 [人力资源与简历](#人力资源与简历)
 - 💻 [代码和数据库助手](#代码和数据库助手)
@@ -136,6 +137,122 @@
 - 🎮 [赌博](#赌博)
 - 💰 [销售与市场营销](#销售与市场营销)
 - 🎼 [音乐和音频生成](#音乐和音频生成)
+
+<br />
+
+## Latest Additions to AI Collection
+
+### novita.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-novita.ai.webp" alt="novita.ai">
+
+#### 适用于 10000 多个模型的快速而便宜的 AI 图像生成 API
+
+[Visit](https://www.thataicollection.com/redirect/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在短短 2 秒内生成速度最快，按使用量付费，每张标准映像 0.0015 美元，您可以添加自己的模型并避免 GPU 维护
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Synthesia
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-synthesia.webp" alt="Synthesia">
+
+#### Synthesia-#1 人工智能视频生成平台。在几分钟内将你的文字变成视频
+[Visit](https://www.thataicollection.com/redirect/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+借助人工智能头像和画外音，使用人工智能视频生成器制作没有麦克风、摄像头或演员的专业视频，支持超过 120 种语言。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Chatbase
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
+
+#### 自定义 ChatGPT
+为了您的数据-构建一个根据您的数据进行训练的 AI 聊天机器人
+[Visit](https://www.thataicollection.com/redirect/chatbase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在您的知识库中构建 AI 聊天机器人并将其添加到您的网站或通过我们的 API 与之互动。只需连接您的数据源，即可为您的数据获取类似 ChatGPT 的聊天机器人。然后将其作为插件添加到您的网站或通过我们的集成或 API 与之聊天。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chatbase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Neuron Writer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuron-writer.webp" alt="Neuron Writer">
+
+#### NeuronWriter — 使用 #semanticSEO 进行内容优化
+[Visit](https://www.thataicollection.com/redirect/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+优化您的网站内容
+所以谷歌很喜欢它。
+高级内容编辑器，包含语义模型 (NLP)、谷歌 SERP 分析和竞争数据。
+NeuronWriter 可帮助您规划、编写和优化内容，同时考虑用户意图！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Editpad - paraphrasing-tool
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-editpad---paraphrasing-tool.webp" alt="Editpad - paraphrasing-tool">
+
+#### Editpad 在线释义文本是最好的释义工具，它可以帮助你解释句子、段落和文章以消除抄袭。
+[Visit](https://www.thataicollection.com/redirect/editpad---paraphrasing-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Editpad 的在线释义是一种自由文本释义工具，用于更改单词和句子结构以避免抄袭。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/editpad---paraphrasing-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Paraphrasear Online
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paraphrasear-online.webp" alt="Paraphrasear Online">
+
+#### 在线解释-释义文本-100% 免费
+[Visit](https://www.thataicollection.com/redirect/paraphrasear-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+这个在线释义是解读文本的免费工具。使用在线释义来消除抄袭。这是一款由人工智能驱动的在线释义工具，可以轻松解读文章、论文、句子、故事、作业、研究论文和许多其他类型的内容。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/paraphrasear-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Parafrasear
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-parafrasear.webp" alt="Parafrasear">
+
+#### 释义文本-最佳在线释义（100% 免费）
+[Visit](https://www.thataicollection.com/redirect/parafrasear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+释义文本免费在线释义工具。我们的 Paraphrase.ai 释义工具可帮助您解读抄袭的内容。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/parafrasear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ## 会计与金融
 
 ### BeeBee AI
@@ -145,8 +262,8 @@
 [Visit](https://www.thataicollection.com/redirect/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 我们为2000多家公司提供支持（包括道琼斯30指数、标准普尔500指数、纳斯达克100指数，按交易量和活动排序）。利用 GPT 基础并将其与专门的 NLP 迷你模型相结合。我们主要提供两项核心服务：
-（1）全面解读财报和电话会议。 
-(2) 对公司广泛的数字足迹的深入分析。 
+（1）全面解读财报和电话会议。
+(2) 对公司广泛的数字足迹的深入分析。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -504,15 +621,17 @@ Playground AI 是一个免费使用的在线 AI 图像创建器。用它来创�
 <br />
 
 
-### NSFW Art Generator AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nsfw-art-generator-ai.webp" alt="NSFW Art Generator AI">
+### novita.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-novita.ai.webp" alt="novita.ai">
 
-#### 您可以轻松生成高质量的 NSFW AI 图像。
-[Visit](https://www.thataicollection.com/redirect/nsfw-art-generator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 适用于 10000 多个模型的快速而便宜的 AI 图像生成 API
 
-使用我们的 NSFW 人工智能生成器。您可以轻松生成高质量的 NSFW AI 图像。该工具允许用户探索和创建人工智能图像，包括真实、动画、超现实和幻想选项。
+[Visit](https://www.thataicollection.com/redirect/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nsfw-art-generator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+在短短 2 秒内生成速度最快，按使用量付费，每张标准映像 0.0015 美元，您可以添加自己的模型并避免 GPU 维护
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -675,6 +794,22 @@ Olympia是一款由人工智能驱动的虚拟人员配备工具，专为自营�
 <br />
 
 
+### Chatbase
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
+
+#### 自定义 ChatGPT
+为了您的数据-构建一个根据您的数据进行训练的 AI 聊天机器人
+[Visit](https://www.thataicollection.com/redirect/chatbase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在您的知识库中构建 AI 聊天机器人并将其添加到您的网站或通过我们的 API 与之互动。只需连接您的数据源，即可为您的数据获取类似 ChatGPT 的聊天机器人。然后将其作为插件添加到您的网站或通过我们的集成或 API 与之聊天。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chatbase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### AChatsimple
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-achatsimple.webp" alt="AChatsimple">
 
@@ -744,21 +879,6 @@ ChatBotKit 可帮助您使用自己的数据创建对话式 AI 聊天机器人�
 使用根据您的网站内容训练的个性化聊天机器人即时回答访问者的问题。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### NOLU
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nolu.webp" alt="NOLU">
-
-#### 与 AI 交互应该很简单。
-[Visit](https://www.thataicollection.com/redirect/nolu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-认识诺鲁。用于与 Open AI GPT-3 引擎交互的简单界面。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nolu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -853,7 +973,7 @@ TLDR 是一个 IDE 插件，它利用 AI 以简单的英语解释代码。
 ### Klu
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-klu.webp" alt="Klu">
 
-#### Klu.ai 是一个多合一平台，专为 AI 团队构建、部署和优化生成式 AI 应用程序而设计。 
+#### Klu.ai 是一个多合一平台，专为 AI 团队构建、部署和优化生成式 AI 应用程序而设计。
 [Visit](https://www.thataicollection.com/redirect/klu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 Klu.ai 是一个多合一平台，专为 AI 团队构建、部署和优化生成式 AI 应用程序而设计。它允许用户使用其名为Klu Studio的直观界面轻松设计、开发和迭代生成式人工智能功能和应用程序。
@@ -2233,7 +2353,7 @@ Paperade 是第一个基于 AI 的工具，可以从 1 亿多篇学术论文和�
 ### My Spicy Vanilla
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-spicy-vanilla.webp" alt="My Spicy Vanilla">
 
-#### My Spicy Vanilla 的 AI 日期创意生成器 
+#### My Spicy Vanilla 的 AI 日期创意生成器
 [Visit](https://www.thataicollection.com/redirect/my-spicy-vanilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 My Spicy Vanilla 的 AI Date Idea Generator 是一款利用人工智能生成独特的约会之夜计划的工具。
@@ -2777,9 +2897,9 @@ AutoPredict是第一款使用人工智能来预测汽车将持续多久的应用
 
 组合最佳 AI 模型
 使用最佳 AI 模型和简单的无代码生成器，将它们组合起来创建独特的 AI 应用程序。
-1。创建管道- 
+1。创建管道-
 通过连接预训练的 ML 模型来创建自己的管道
-2。预览输出- 
+2。预览输出-
 通过轻松比较输出来运行、测试和完善您的管道
 3。部署 API-使用可靠的云基础架构生成多模型 API
 
@@ -4333,15 +4453,33 @@ Stork 帮助团队改善沟通和生产力。它是混合和远程团队的商�
 
 ## 视频
 
-### HitPaw Online Video Enhancer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
+### Synthesia
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-synthesia.webp" alt="Synthesia">
 
-#### 通过训练有素的 AI 一键取消模糊和升级您的视频。
-[Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Synthesia-#1 人工智能视频生成平台。在几分钟内将你的文字变成视频
+[Visit](https://www.thataicollection.com/redirect/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-HitPaw Online Video Enhancer 是低分辨率视频的最佳解决方案，可以毫不费力地将视频解决方案提高到 1080P/4K。
+借助人工智能头像和画外音，使用人工智能视频生成器制作没有麦克风、摄像头或演员的专业视频，支持超过 120 种语言。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### HeyGen
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-heygen.webp" alt="HeyGen">
+
+#### 没有相机？没有船员？没问题！
+使用可定制的 AI 头像扩展您的视频制作
+[Visit](https://www.thataicollection.com/redirect/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HeyGen 是一个视频平台，可帮助您利用生成式 AI 创建引人入胜的商业视频，
+就像为各种用例制作 PowerPoint 一样简单：
+讲解和操作方法、营销、个性化销售、电子学习、培训和入职以及新闻。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4363,18 +4501,15 @@ HitPaw Online Video Enhancer 是低分辨率视频的最佳解决方案，可以
 <br />
 
 
-### HeyGen
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-heygen.webp" alt="HeyGen">
+### HitPaw Online Video Enhancer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
 
-#### 没有相机？没有船员？没问题！
-使用可定制的 AI 头像扩展您的视频制作
-[Visit](https://www.thataicollection.com/redirect/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 通过训练有素的 AI 一键取消模糊和升级您的视频。
+[Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-HeyGen 是一个视频平台，可帮助您利用生成式 AI 创建引人入胜的商业视频，
-就像为各种用例制作 PowerPoint 一样简单：
-讲解和操作方法、营销、个性化销售、电子学习、培训和入职以及新闻。
+HitPaw Online Video Enhancer 是低分辨率视频的最佳解决方案，可以毫不费力地将视频解决方案提高到 1080P/4K。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4420,21 +4555,6 @@ Colossyan Creator 让视频创作变得简单、无压力。与真实演员一�
 LiveReacting 通过将预先录制的视频、游戏、倒计时和投票添加到您的流中，帮助您获得更多关注者和参与度。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Fliki
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fliki.webp" alt="Fliki">
-
-#### 将文本变成带有 AI 语音的视频
-[Visit](https://www.thataicollection.com/redirect/fliki?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在 2 分钟内使用逼真的声音从脚本或博客文章创建视频！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fliki?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4590,7 +4710,7 @@ IX.AI：您最强大的一体化人工智能写作副驾驶。使用 HIX.AI（�
 
 Rytr是一款人工智能写作助手，可以帮助你在短短几秒钟内创建高质量的内容，而成本却是其中的一小部分！
 毫不费力地生成杀手级内容
-再也不会面对作者的封锁——从博客到电子邮件再到广告文案，在短短几秒钟内以流行的语气和语言自动生成引人入胜、原创和高转化率的副本。 
+再也不会面对作者的封锁——从博客到电子邮件再到广告文案，在短短几秒钟内以流行的语气和语言自动生成引人入胜、原创和高转化率的副本。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/rytr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
