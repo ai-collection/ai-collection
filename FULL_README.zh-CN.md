@@ -39,7 +39,7 @@
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
     <a href="LICENSE">License</a> •
     <a href="https://aicollection.beehiiv.com/subscribe">Newsletter</a> •
-    <a href="https://www.thataicollection.com/en/blog/">Blog</a>
+    <a href="https://www.thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
 
 --- 
@@ -942,7 +942,7 @@
 | [BotGPT](https://www.thataicollection.com/redirect/botgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 电报 GPT 机器人. | Telegram 机器人允许快速和直观地访问 GPT，保存您的历史记录，并可从您的手机或桌面使用。很酷的功能即将推出。. | :white_check_mark: |
 | [Build Chatbot](https://www.thataicollection.com/redirect/build-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 推出世界排名第一的人工智能聊天机器人 - 根据您的私人数据自动训练，支持所有文件格式. | Build Chatbot 是一款独特的无代码聊天机器人构建器，使企业和个人能够通过几个简单的步骤创建自己的个性化聊天机器人。它是一款功能强大的人工智能工具，可以轻松地从各种文件格式（如 PDF、CSV、DOCX 文件、URL，甚至音频和视频文件）中提取精确信息。. | :white_check_mark: |
 | [Chai](https://www.thataicollection.com/redirect/chai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Chai - 与 AI 聊天. | Chai 是与 AI 进行引人入胜的对话的最佳目的地。在 Chai 上，您可以为成千上万的用户构建和部署 AI 聊天机器人。. | :grey_question: |
-| [Chatbase](https://www.thataicollection.com/redirect/chatbase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 构建根据您的数据训练的 AI 聊天机器人. | 只需上传一个 pdf 文件并获得一个基于 GPT 的聊天机器人的链接，该聊天机器人可以回答关于它的任何问题。. | :white_check_mark: |
+| [Chatbase](https://www.thataicollection.com/redirect/chatbase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 自定义 ChatGPT 为了您的数据-构建一个根据您的数据进行训练的 AI 聊天机器人. | 在您的知识库中构建 AI 聊天机器人并将其添加到您的网站或通过我们的 API 与之互动。只需连接您的数据源，即可为您的数据获取类似 ChatGPT 的聊天机器人。然后将其作为插件添加到您的网站或通过我们的集成或 API 与之聊天。. | :white_check_mark: |
 | [ChatBotKit](https://www.thataicollection.com/redirect/chatbotkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 构建高级 AI 聊天机器人的最快方法. | ChatBotKit 可帮助您使用自己的数据创建对话式 AI 聊天机器人，以便与您网站、Slack、Discord 和 WhatsApp 上的用户自然交流。. | :white_check_mark: |
 | [ChatGPT](https://www.thataicollection.com/redirect/chatgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用于文本生成和理解的强大语言模型. | ChatGPT 是 OpenAI 开发的高级语言模型。它已经接受过各种文本的训练，以理解和产生类似人类的反应。 ChatGPT 的主要目标是通过回答问题、提供信息和参与各种主题的对话来帮助用户。. | :white_check_mark: |
 | [ChatGPT PopTalk](https://www.thataicollection.com/redirect/chatgpt-poptalk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | . | :white_check_mark: |
@@ -1048,6 +1048,7 @@
 | [NightCafe](https://www.thataicollection.com/redirect/nightcafe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能艺术生成器，人工智能艺术制造者. | 人工智能艺术生成器应用程序。 &#9989;快速&#9989;免费 &#9989;简单的。使用人工智能创作令人惊叹的艺术品。. | :white_check_mark: |
 | [Niji Journey](https://www.thataicollection.com/redirect/niji-journey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Niji Journey-来制作魔法动漫照片吧！. | 欢迎来到 niji·journey，这是一款最先进的人工智能，可以为你绘制自定义动画插图！这是一场神奇的合作，由 Spellbrush & Midjourney 的才华共同设计。无论你是在寻找可爱的赤壁人物还是动态的动作场景，niji·journey 都能将你的愿景变为现实。我们迫不及待地想看看你创造了什么！. | :white_check_mark: |
 | [Not Me Netlify](https://www.thataicollection.com/redirect/not-me-netlify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Autoportrait - 创建 AI 人像. | 浏览数百万种风格或创建您自己的风格，生成 AI 自画像。. | :grey_question: |
+| [novita.ai](https://www.thataicollection.com/redirect/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 适用于 10000 多个模型的快速而便宜的 AI 图像生成 API. | 在短短 2 秒内生成速度最快，按使用量付费，每张标准映像 0.0015 美元，您可以添加自己的模型并避免 GPU 维护. | :white_check_mark: |
 | [NSFW Art Generator AI](https://www.thataicollection.com/redirect/nsfw-art-generator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您可以轻松生成高质量的 NSFW AI 图像。. | 使用我们的 NSFW 人工智能生成器。您可以轻松生成高质量的 NSFW AI 图像。该工具允许用户探索和创建人工智能图像，包括真实、动画、超现实和幻想选项。. | :grey_question: |
 | [OddVibe](https://www.thataicollection.com/redirect/oddvibe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | OddVibe：令人不安的 AI 生成图像的最佳集合。. | 修复令人毛骨悚然的 AI 生成图像。但请注意，您可能再也睡不着了。. | :grey_question: |
 | [Partly](https://www.thataicollection.com/redirect/partly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 从你的照片中提取令人惊叹的艺术，来自 Partly AI. | 借助 AI 魔法，将您的照片变成艺术品！. | :grey_question: |
@@ -1122,6 +1123,7 @@
 | [Story Bard](https://www.thataicollection.com/redirect/story-bard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能生成的视频故事. | 简短的 AI 视频。生成、观看和分享 AI 生成的视频. | :grey_question: |
 | [Summarize Tech](https://www.thataicollection.com/redirect/summarize-tech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | summarize.tech：人工智能驱动的视频摘要. | 获取任何长 YouTube 视频的摘要，例如讲座、现场活动或政府会议。由 GPT-3 提供支持。. | :grey_question: |
 | [Supercreator AI](https://www.thataicollection.com/redirect/supercreator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Supercreator.ai - 使用 AI 将视频制作速度提高 10 倍. | . | :grey_question: |
+| [Synthesia](https://www.thataicollection.com/redirect/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Synthesia-#1 人工智能视频生成平台。在几分钟内将你的文字变成视频. | 借助人工智能头像和画外音，使用人工智能视频生成器制作没有麦克风、摄像头或演员的专业视频，支持超过 120 种语言。. | :grey_question: |
 | [ToWords](https://www.thataicollection.com/redirect/towords?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ToWords：YouTube 到单词. | 用文字让您的视频和音频生动起来. | :grey_question: |
 | [Typestudio](https://www.thataicollection.com/redirect/typestudio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Type Studio â 通过编辑文本来编辑您的视频. | Type Studio 是一种快速、简单、愉快的方式来编辑和发展你的播客、流媒体和采访。. | :grey_question: |
 | [Vidyo](https://www.thataicollection.com/redirect/vidyo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 基于 AI 的内容再利用 - vidyo.ai. | 使用 AI 从您的视频创建适合社交的短片 ✨ 节省 90% 的时间和精力. | :grey_question: |
@@ -1368,7 +1370,6 @@
 | [Super Prompt](https://www.thataicollection.com/redirect/super-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 超级提示. | 为您的 AI 艺术创建画廊。下次有人要求查看您的所有艺术作品时，您将有地方可以指向他们。在一个地方展示你所有的人工智能艺术。. | :grey_question: |
 | [SUPERMACHINE](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SUPERMACHINE - 使用 AI 生成库存照片、艺术作品和图像. | SUPERMACHINE 使您能够使用最新的人工智能技术生成图像。. | :grey_question: |
 | [Supermeme.ai](https://www.thataicollection.com/redirect/supermeme.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Supermeme.ai - AI 模因提升您的个人和专业品牌. | 通过输入任何文本并将其转换为可共享的模因，以 110 多种语言生成原始 AI 模因。由 GPT-3 和定制的模因数据库提供支持. | :grey_question: |
-| [Synthesia](https://www.thataicollection.com/redirect/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Synthesia - #1 人工智能视频生成平台. | . | :grey_question: |
 | [Talk to Books](https://www.thataicollection.com/redirect/talk-to-books?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 谷歌图书. | . | :grey_question: |
 | [TalkingPhoto by Movio](https://www.thataicollection.com/redirect/talkingphoto-by-movio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Movio - 人工智能代言人视频创作者. | . | :grey_question: |
 | [Tavus](https://www.thataicollection.com/redirect/tavus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 欢迎. | . | :grey_question: |

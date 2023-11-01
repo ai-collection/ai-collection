@@ -39,10 +39,10 @@
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
     <a href="LICENSE">License</a> •
     <a href="https://aicollection.beehiiv.com/subscribe">Newsletter</a> •
-    <a href="https://www.thataicollection.com/en/blog/">Blog</a>
+    <a href="https://www.thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
 
---- 
+---
 > Puede copiar el enlace del sitio web en esta herramienta para ver el sitio web en español - [link](https://translate.google.com/?sl=en&tl=es&op=websites)
 
 ---
@@ -58,7 +58,7 @@
     </a>
     <h4>BeeBee.AI está diseñado para el mercado de valores estadounidense y está dirigido a inversores a largo plazo que se centran principalmente en el análisis fundamental y que valoran los datos y la información.</h4>
     <p>Apoyamos a más de 2000 empresas (incluidas el Dow Jones 30, el S&P500 y el NASDAQ 100, según el volumen de operaciones y la actividad). Aprovechar la base de la GPT y combinarla con minimodelos especializados de PNL. Ofrecemos principalmente dos servicios principales:
-(1) Interpretación exhaustiva de los informes de ganancias y las teleconferencias. 
+(1) Interpretación exhaustiva de los informes de ganancias y las teleconferencias.
 (2) Análisis en profundidad de la amplia presencia digital de una empresa. </p>
     <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con BeeBee AI</b></a>
     <br />
@@ -94,6 +94,7 @@
 Para ver la colección completa de aplicaciones de IA en la vista de tabla heredada, vaya [here](FULL_README.es.md)
 
 ## Index
+- [Latest Additions to AI Collection](#latest-additions-to-ai-collection)
 - 🎲 [Animación Y Modelado 3D](#animación-y-modelado-3d)
 - 🏯 [Arquitectura E Interiorismo](#arquitectura-e-interiorismo)
 - 💻 [Asistente De Código Y Base De Datos](#asistente-de-código-y-base-de-datos)
@@ -136,6 +137,122 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🇺🇳 [Traducción Y Transcripción](#traducción-y-transcripción)
 - 💰 [Ventas Y Marketing](#ventas-y-marketing)
 - 🎬 [Video](#video)
+
+<br />
+
+## Latest Additions to AI Collection
+
+### novita.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-novita.ai.webp" alt="novita.ai">
+
+#### API de generación de imágenes de IA rápida y barata para más de 10 000 modelos
+
+[Visit](https://www.thataicollection.com/redirect/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La generación más rápida en solo 2 segundos, pago por uso, 0,0015$ por cada imagen estándar, puedes añadir tus propios modelos y evitar el mantenimiento de la GPU
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Synthesia
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-synthesia.webp" alt="Synthesia">
+
+#### Synthesia: plataforma #1 de generación de vídeo con IA. Convierte tu texto en vídeos en cuestión de minutos
+[Visit](https://www.thataicollection.com/redirect/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Crea vídeos profesionales sin micrófonos, cámaras ni actores con el generador de vídeos de IA con la ayuda de avatares y voces en off de la IA, en más de 120 idiomas.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Chatbase
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
+
+#### ChatGPT personalizado
+para tus datos: crea un chatbot de IA entrenado en tus datos
+[Visit](https://www.thataicollection.com/redirect/chatbase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Crea un chatbot de IA a partir de tu base de conocimientos y añádelo a tu sitio web o interactúa con él a través de nuestra API. Solo tienes que conectar tus fuentes de datos y conseguir un chatbot tipo ChatGP para tus datos. A continuación, añádelo como un widget a tu sitio web o chatea con él a través de nuestras integraciones o API.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/chatbase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Neuron Writer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuron-writer.webp" alt="Neuron Writer">
+
+#### NeuronWriter — Optimización de contenido con #semanticSEO
+[Visit](https://www.thataicollection.com/redirect/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Optimiza el contenido de tu sitio web
+así que Google lo adora.
+Editor de contenido avanzado con modelos semánticos (PNL), análisis de SERP de Google y datos de la competencia.
+NeuronWriter te ayuda a planificar, escribir y optimizar el contenido teniendo en cuenta la intención del usuario.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Editpad - paraphrasing-tool
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-editpad---paraphrasing-tool.webp" alt="Editpad - paraphrasing-tool">
+
+#### Parafrasear textos en línea de Editpad es el mejor paráfrasis que te ayuda a parafrasear frases, párrafos y ensayos para eliminar el plagio.
+[Visit](https://www.thataicollection.com/redirect/editpad---paraphrasing-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La paráfrasis en línea de Editpad es una herramienta gratuita de paráfrasis de texto que permite cambiar la estructura de las palabras y las frases a fin de evitar el plagio.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/editpad---paraphrasing-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Paraphrasear Online
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paraphrasear-online.webp" alt="Paraphrasear Online">
+
+#### Paráfrasis en línea - Paráfrasis de textos - 100% gratis
+[Visit](https://www.thataicollection.com/redirect/paraphrasear-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Esta paráfrasis en Internet es una herramienta gratuita para parafrasear textos. Usa la paráfrasis en Internet para eliminar el plagio. Se trata de una herramienta de paráfrasis en línea basada en la IA que puede parafrasear fácilmente artículos, ensayos, frases, historias, tareas, trabajos de investigación y muchos otros tipos de contenido.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/paraphrasear-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Parafrasear
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-parafrasear.webp" alt="Parafrasear">
+
+#### Parafrasear textos: las mejores paráfrasis de Internet (100% gratis)
+[Visit](https://www.thataicollection.com/redirect/parafrasear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Paráfrasis de textos, herramienta gratuita de paráfrasis en línea. Nuestra herramienta de paráfrasis de Paraphrase.ai te ayuda a parafrasear el contenido plagiado.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/parafrasear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ## Cuentas y finanzas
 
 ### BeeBee AI
@@ -145,8 +262,8 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 [Visit](https://www.thataicollection.com/redirect/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 Apoyamos a más de 2000 empresas (incluidas el Dow Jones 30, el S&P500 y el NASDAQ 100, según el volumen de operaciones y la actividad). Aprovechar la base de la GPT y combinarla con minimodelos especializados de PNL. Ofrecemos principalmente dos servicios principales:
-(1) Interpretación exhaustiva de los informes de ganancias y las teleconferencias. 
-(2) Análisis en profundidad de la amplia presencia digital de una empresa. 
+(1) Interpretación exhaustiva de los informes de ganancias y las teleconferencias.
+(2) Análisis en profundidad de la amplia presencia digital de una empresa.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -504,15 +621,17 @@ Crea fotos de productos excepcionales y más: elige cualquier imagen para comenz
 <br />
 
 
-### NSFW Art Generator AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nsfw-art-generator-ai.webp" alt="NSFW Art Generator AI">
+### novita.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-novita.ai.webp" alt="novita.ai">
 
-#### Puedes generar imágenes de IA NSFW de calidad con total facilidad.
-[Visit](https://www.thataicollection.com/redirect/nsfw-art-generator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### API de generación de imágenes de IA rápida y barata para más de 10 000 modelos
 
-Con nuestro generador de IA NSFW. Puedes generar imágenes de IA NSFW de calidad con total facilidad. La herramienta permite a los usuarios explorar y crear imágenes de IA, incluidas opciones reales, de anime, hiperrealistas y fantásticas.
+[Visit](https://www.thataicollection.com/redirect/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/nsfw-art-generator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+La generación más rápida en solo 2 segundos, pago por uso, 0,0015$ por cada imagen estándar, puedes añadir tus propios modelos y evitar el mantenimiento de la GPU
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -675,6 +794,22 @@ Olympia es una herramienta de personal virtual basada en la IA diseñada para em
 
 
 
+### Chatbase
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
+
+#### ChatGPT personalizado
+para tus datos: crea un chatbot de IA entrenado en tus datos
+[Visit](https://www.thataicollection.com/redirect/chatbase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Crea un chatbot de IA a partir de tu base de conocimientos y añádelo a tu sitio web o interactúa con él a través de nuestra API. Solo tienes que conectar tus fuentes de datos y conseguir un chatbot tipo ChatGP para tus datos. A continuación, añádelo como un widget a tu sitio web o chatea con él a través de nuestras integraciones o API.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/chatbase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AChatsimple
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-achatsimple.webp" alt="AChatsimple">
 
@@ -744,21 +879,6 @@ ChatBotKit lo ayuda a crear chatbots conversacionales de IA con sus propios dato
 Responda instantáneamente a las preguntas de sus visitantes con un chatbot personalizado entrenado en el contenido de su sitio web.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### NOLU
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nolu.webp" alt="NOLU">
-
-#### Interactuar con IA debería ser simple.
-[Visit](https://www.thataicollection.com/redirect/nolu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Conoce a NOLU. Una interfaz simple para interactuar con el motor Open AI GPT-3.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/nolu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -853,7 +973,7 @@ TLDR es un complemento IDE que aprovecha la IA para explicar el código en un le
 ### Klu
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-klu.webp" alt="Klu">
 
-#### Klu.ai es una plataforma todo en uno diseñada para que los equipos de IA creen, desplieguen y optimicen aplicaciones de IA generativa. 
+#### Klu.ai es una plataforma todo en uno diseñada para que los equipos de IA creen, desplieguen y optimicen aplicaciones de IA generativa.
 [Visit](https://www.thataicollection.com/redirect/klu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 Klu.ai es una plataforma todo en uno diseñada para que los equipos de IA creen, desplieguen y optimicen aplicaciones de IA generativa. Permite a los usuarios diseñar, desarrollar e iterar fácilmente las funciones y aplicaciones de la IA generativa mediante su interfaz intuitiva llamada Klu Studio.
@@ -2233,7 +2353,7 @@ Como creadores de contenido, todos nos encontramos con momentos en los que nuest
 ### My Spicy Vanilla
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-spicy-vanilla.webp" alt="My Spicy Vanilla">
 
-#### Generador de ideas para citas con IA de My Spicy Vanilla 
+#### Generador de ideas para citas con IA de My Spicy Vanilla
 [Visit](https://www.thataicollection.com/redirect/my-spicy-vanilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 El generador de ideas para citas con IA de My Spicy Vanilla es una herramienta que utiliza la IA para generar planes únicos para una cita nocturna.
@@ -2483,7 +2603,7 @@ Supernormal toma notas durante la reunión y las formatea automáticamente, para
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wudpecker.webp" alt="Wudpecker">
 
 #### Wudpecker es una herramienta de reuniones de inteligencia artificial que establece el nuevo valor predeterminado para almacenar el conocimiento de las reuniones.
-Obtenga resúmenes, elementos de acción e información valiosa de sus equipos Zoom, Google Meet 
+Obtenga resúmenes, elementos de acción e información valiosa de sus equipos Zoom, Google Meet
 [Visit](https://www.thataicollection.com/redirect/wudpecker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 - Ofrece resúmenes y transcripciones basados ​​en chatGPT, lo que facilita la revisión de reuniones y
@@ -2776,9 +2896,9 @@ Combina los mejores modelos de IA en un sencillo generador visual para crear apl
 
 Combina los mejores modelos de IA
 Usa los mejores modelos de IA con un sencillo creador sin código y combínalos para crear aplicaciones de IA únicas.
-1. Crear canalización - 
+1. Crear canalización -
 Crea tu propia canalización conectando modelos de aprendizaje automático previamente entrenados
-2. Salidas de vista previa - 
+2. Salidas de vista previa -
 Ejecuta, prueba y refina tu cartera comparando fácilmente los resultados
 3. Implementa la API: genera API multimodelo con una infraestructura de nube fiable
 
@@ -4332,34 +4452,19 @@ Nuestra IA creará un plan personalizado para cualquier ciudad o lugar que le gu
 
 ## Video
 
-### HitPaw Online Video Enhancer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
+### Synthesia
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-synthesia.webp" alt="Synthesia">
 
-#### Un clic para desenfocar y mejorar su video por IA entrenada.
-[Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Synthesia: plataforma #1 de generación de vídeo con IA. Convierte tu texto en vídeos en cuestión de minutos
+[Visit](https://www.thataicollection.com/redirect/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-HitPaw Online Video Enhancer es la mejor solución para videos de baja resolución, aumente la solución de video hasta 1080P/4K sin esfuerzo.
+Crea vídeos profesionales sin micrófonos, cámaras ni actores con el generador de vídeos de IA con la ayuda de avatares y voces en off de la IA, en más de 120 idiomas.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+[More Information and Pricing](https://www.thataicollection.com/es/application/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
-### Eightify
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eightify.webp" alt="Eightify">
-
-#### Obtenga 8 ideas clave de los videos de YouTube
-[Visit](https://www.thataicollection.com/redirect/eightify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-⚡️ Obtenga resúmenes instantáneos con tecnología de inteligencia artificial para videos de YouTube, ahorre tiempo, traduzca en 28 idiomas
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/eightify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ### HeyGen
@@ -4378,6 +4483,36 @@ Explicación y procedimientos, marketing, ventas personalizadas, aprendizaje ele
 <br />
 
 
+
+
+### Eightify
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eightify.webp" alt="Eightify">
+
+#### Obtenga 8 ideas clave de los videos de YouTube
+[Visit](https://www.thataicollection.com/redirect/eightify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+⚡️ Obtenga resúmenes instantáneos con tecnología de inteligencia artificial para videos de YouTube, ahorre tiempo, traduzca en 28 idiomas
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/eightify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### HitPaw Online Video Enhancer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
+
+#### Un clic para desenfocar y mejorar su video por IA entrenada.
+[Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HitPaw Online Video Enhancer es la mejor solución para videos de baja resolución, aumente la solución de video hasta 1080P/4K sin esfuerzo.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
 
 
 ### Colossyan
@@ -4423,21 +4558,6 @@ LiveReacting lo ayuda a obtener más seguidores y participación al agregar vide
 <br />
 
 
-
-
-### Fliki
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fliki.webp" alt="Fliki">
-
-#### Convierte texto en videos con voces de IA
-[Visit](https://www.thataicollection.com/redirect/fliki?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¡Cree videos a partir de guiones o publicaciones de blog usando voces realistas en 2 minutos!
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/fliki?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 
@@ -4589,7 +4709,7 @@ IX.AI: su copiloto de escritura de IA todo en uno más potente. Genere copias de
 
 Rytr es un asistente de redacción con IA que te ayuda a crear contenido de alta calidad, en solo unos segundos, ¡a una fracción del coste!
 Genera contenido increíble sin esfuerzo
-No vuelvas a enfrentarte al bloqueo del escritor: desde blogs hasta correos electrónicos y textos de anuncios, genera automáticamente copias pegadizas, originales y de alta conversión en los tonos e idiomas populares en solo unos segundos. 
+No vuelvas a enfrentarte al bloqueo del escritor: desde blogs hasta correos electrónicos y textos de anuncios, genera automáticamente copias pegadizas, originales y de alta conversión en los tonos e idiomas populares en solo unos segundos.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/rytr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
