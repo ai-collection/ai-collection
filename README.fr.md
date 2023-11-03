@@ -42,7 +42,7 @@
     <a href="https://www.thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
 
----
+--- 
 > Vous pouvez copier coller un lien de site Web vers cet outil afin de visualiser le site Web en français - [link](https://translate.google.com/?sl=en&tl=fr&op=websites)
 
 ---
@@ -58,7 +58,7 @@
     </a>
     <h4>BeeBee.AI est adapté au marché boursier américain et s'adresse aux investisseurs de long terme qui se concentrent principalement sur l'analyse fondamentale et qui valorisent les données et les informations.</h4>
     <p>Nous soutenons plus de 2 000 entreprises (dont le Dow Jones 30, le S&P500, le NASDAQ 100, classés selon le volume des transactions et l'activité). Tirer parti de la fondation GPT et l'associer à des mini-modèles spécialisés en PNL. Nous proposons principalement deux services principaux :
-(1) Interprétation complète des rapports sur les bénéfices et des conférences téléphoniques.
+(1) Interprétation complète des rapports sur les bénéfices et des conférences téléphoniques. 
 (2) Analyse approfondie de l'importante empreinte numérique d'une entreprise. </p>
     <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec BeeBee AI</b></a>
     <br />
@@ -137,10 +137,84 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🇺🇳 [Traduction Et Transcription](#traduction-et-transcription)
 - 💰 [Ventes Et Marketing](#ventes-et-marketing)
 - 🎬 [Vidéo](#vidéo)
+## Latest Additions to AI Collection
+
+### Afforai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-afforai.webp" alt="Afforai">
+
+#### Ton copilote de lecture IA. Outils indispensables pour l'analyse de texte, la recherche et la recherche de documents
+[Visit](https://www.thataicollection.com/redirect/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Afforai est un chatbot IA qui recherche, résume et traduit des informations provenant de multiples sources afin de produire des recherches fiables. Discute avec tes documents et en tire les principales conclusions relatives à tes objectifs du jour !
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-## Latest Additions to AI Collection
+
+
+
+### My AskAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
+
+#### Crée un assistant IA plus rapidement qu'il n'en faut pour préparer un café
+[Visit](https://www.thataicollection.com/redirect/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Épargnez à ton équipe ou à tes clients des heures de recherche et de lecture, avec des réponses instantanées, pour tout ton contenu. Ajoutez tes documents, ton site Web ou ton contenu et crée ton propre assistant IA, en moins de 2 minutes.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Profile Bakery
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-profile-bakery.webp" alt="Profile Bakery">
+
+#### Ton générateur de headshot IA professionnel.
+[Visit](https://www.thataicollection.com/redirect/profile-bakery?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nous sommes spécialisés dans la création de superbes portraits grâce à la technologie IA. Nos portraits sont conçus pour refléter ta personnalité unique et mettre en valeur tes meilleures caractéristiques. Grâce à notre équipe de photographes expérimentés et à des logiciels avancés, nous proposons des portraits professionnels à la fois abordables et efficaces. 
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/profile-bakery?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Albus
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-albus.webp" alt="Albus">
+
+#### Albums - ChatGPT est désormais disponible sur Slack | Springworks
+[Visit](https://www.thataicollection.com/redirect/albus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Albus est une plateforme d'IA qui tire parti de la puissance de ChatGPT pour aider les employés des ressources humaines et rationaliser les opérations RH. Profitez de la puissance de ChatGPT4 dès maintenant, directement dans ton espace de travail !
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/albus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Nudify.online
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online.webp" alt="Nudify.online">
+
+#### Déshabillez n'importe qui grâce à notre service GRATUIT. Deepnude AI On Nudify — Déshabillez n'importe quelle fille gratuitement !
+
+[Visit](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Déshabillez le générateur de photos AI pour DeepNudes gratuitement. Nudifie DeepNude AI avec la plus grande précision de photos de nude et de bikini. Il suffit de choisir l'âge, la morphologie, la qualité et d'obtenir un résultat en quelques secondes. 
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### novita.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-novita.ai.webp" alt="novita.ai">
@@ -174,85 +248,6 @@ Crée des vidéos professionnelles sans micro, caméra ou acteur avec AI Video G
 
 
 
-### Chatbase
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
-
-#### ChatGPT personnalisé
-pour tes données : crée un chatbot IA formé à partir de tes données
-[Visit](https://www.thataicollection.com/redirect/chatbase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Créez un chatbot IA à partir de ta base de connaissances et ajoute-le à ton site web ou interagis avec lui via notre API. Il suffit de connecter tes sources de données et de créer un chatbot de type ChatGPT pour tes données. Ajoute-le ensuite sous forme de widget sur ton site web ou discute avec lui via nos intégrations ou notre API.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/chatbase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Neuron Writer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuron-writer.webp" alt="Neuron Writer">
-
-#### NeuronWriter — Optimisation du contenu avec #semanticSEO
-[Visit](https://www.thataicollection.com/redirect/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Optimise le contenu de ton site Web
-donc Google adore ça.
-Éditeur de contenu avancé avec modèles sémantiques (NLP), analyse des SERP de Google et données sur la concurrence.
-NeuronWriter t'aide à planifier, rédiger et optimiser le contenu en tenant compte des intentions de l'utilisateur !
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Editpad - paraphrasing-tool
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-editpad---paraphrasing-tool.webp" alt="Editpad - paraphrasing-tool">
-
-#### Paraphrase des textes en ligne par Editpad est le meilleur outil qui t'aide à paraphraser des phrases, des paragraphes et des dissertations afin d'éliminer le plagiat.
-[Visit](https://www.thataicollection.com/redirect/editpad---paraphrasing-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-La paraphrase en ligne d'Editpad est un outil de paraphrase en texte gratuit qui permet de modifier la structure des mots et des phrases afin d'éviter le plagiat.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/editpad---paraphrasing-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Paraphrasear Online
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paraphrasear-online.webp" alt="Paraphrasear Online">
-
-#### Paraphrase en ligne - Paraphrase des textes - 100 % gratuit
-[Visit](https://www.thataicollection.com/redirect/paraphrasear-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cette paraphrase en ligne est un outil gratuit pour paraphraser des textes. Paraphrase en ligne pour éliminer le plagiat. Il s'agit d'un outil de paraphrase en ligne alimenté par l'IA, qui peut facilement paraphraser des articles, des essais, des phrases, des histoires, des devoirs, des articles de recherche et bien d'autres types de contenu.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/paraphrasear-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Parafrasear
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-parafrasear.webp" alt="Parafrasear">
-
-#### Paraphrase des textes - La meilleure paraphrase en ligne (100 % gratuite)
-[Visit](https://www.thataicollection.com/redirect/parafrasear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Outil de paraphrase en ligne gratuit. Notre outil de paraphrase Paraphrase.ai t'aide à paraphraser du contenu plagié.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/parafrasear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ## Comptabilité et Finance
 
 ### BeeBee AI
@@ -262,8 +257,8 @@ Outil de paraphrase en ligne gratuit. Notre outil de paraphrase Paraphrase.ai t'
 [Visit](https://www.thataicollection.com/redirect/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 Nous soutenons plus de 2 000 entreprises (dont le Dow Jones 30, le S&P500, le NASDAQ 100, classés selon le volume des transactions et l'activité). Tirer parti de la fondation GPT et l'associer à des mini-modèles spécialisés en PNL. Nous proposons principalement deux services principaux :
-(1) Interprétation complète des rapports sur les bénéfices et des conférences téléphoniques.
-(2) Analyse approfondie de l'importante empreinte numérique d'une entreprise.
+(1) Interprétation complète des rapports sur les bénéfices et des conférences téléphoniques. 
+(2) Analyse approfondie de l'importante empreinte numérique d'une entreprise. 
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -973,7 +968,7 @@ TLDR est un plugin IDE qui exploite l'IA pour expliquer le code en anglais simpl
 ### Klu
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-klu.webp" alt="Klu">
 
-#### Klu.ai est une plateforme tout-en-un conçue pour permettre aux équipes d'IA de créer, déployer et optimiser des applications d'IA générative.
+#### Klu.ai est une plateforme tout-en-un conçue pour permettre aux équipes d'IA de créer, déployer et optimiser des applications d'IA générative. 
 [Visit](https://www.thataicollection.com/redirect/klu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 Klu.ai est une plateforme tout-en-un conçue pour permettre aux équipes d'IA de créer, déployer et optimiser des applications d'IA générative. Il permet aux utilisateurs de concevoir, développer et itérer facilement des fonctionnalités et des applications d'IA générative à l'aide de son interface intuitive appelée Klu Studio.
@@ -2353,7 +2348,7 @@ En tant que créateurs de contenu, nous rencontrons tous des moments où notre p
 ### My Spicy Vanilla
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-spicy-vanilla.webp" alt="My Spicy Vanilla">
 
-#### Générateur d'idées de dates basé sur l'IA par My Spicy Vanilla
+#### Générateur d'idées de dates basé sur l'IA par My Spicy Vanilla 
 [Visit](https://www.thataicollection.com/redirect/my-spicy-vanilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 AI Date Idea Generator de My Spicy Vanilla est un outil qui utilise l'IA pour créer des plans uniques pour un rendez-vous galant.
@@ -2627,7 +2622,7 @@ trouvez rapidement des informations importantes.
 #### Accélérez la productivité de ton équipe et la croissance du chiffre d'affaires de l'entreprise
 [Visit](https://www.thataicollection.com/redirect/avoma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-La principale solution d'intelligence fiscale et d'assistant de réunion basée sur l'IA. Le tout au même endroit, pas partout. Assistant de réunion intelligent - Obtenez des transcriptions et des notes basées sur l'IA pour vous concentrer sur les conversations. Collaboration en réunion - Collaborez avec des équipes interfonctionnelles pour une meilleure harmonisation. Conversation et intelligence fiscale - Découvrez des informations essentielles pour prendre des décisions basées sur les données et suivre un
+La principale solution d'intelligence fiscale et d'assistant de réunion basée sur l'IA. Le tout au même endroit, pas partout. Assistant de réunion intelligent - Obtenez des transcriptions et des notes basées sur l'IA pour vous concentrer sur les conversations. Collaboration en réunion - Collaborez avec des équipes interfonctionnelles pour une meilleure harmonisation. Conversation et intelligence fiscale - Découvrez des informations essentielles pour prendre des décisions basées sur les données et suivre un 
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/avoma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -2797,6 +2792,21 @@ Faites de la musique avec Boomy AI
 
 ## Organisation & Automatisation
 
+### Albus
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-albus.webp" alt="Albus">
+
+#### Albums - ChatGPT est désormais disponible sur Slack | Springworks
+[Visit](https://www.thataicollection.com/redirect/albus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Albus est une plateforme d'IA qui tire parti de la puissance de ChatGPT pour aider les employés des ressources humaines et rationaliser les opérations RH. Profitez de la puissance de ChatGPT4 dès maintenant, directement dans ton espace de travail !
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/albus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Hexowatch
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hexowatch.webp" alt="Hexowatch">
 
@@ -2857,20 +2867,19 @@ AutoPredict est la première application qui utilise l'intelligence artificielle
 
 
 
-### Looti
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looti.webp" alt="Looti">
+### Keploy.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-keploy.io.webp" alt="Keploy.io">
 
-#### Des prospects hyperqualifiés pour accélérer ta croissance
-[Visit](https://www.thataicollection.com/redirect/looti?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### None
+[Visit](https://www.thataicollection.com/redirect/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Génère des prospects B2B en quelques clics grâce à l'IA - Transforme tes prospects en revenus - Déjà plus de 10 000 prospects générés
-avec des entreprises en hypercroissance
+None
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/looti?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-
+<br />
 
 
 ### Hubble
@@ -2882,28 +2891,6 @@ avec des entreprises en hypercroissance
 De la conception à la production, surveillez, mesurez et améliorez votre expérience utilisateur. Créez des produits de classe mondiale en recueillant des commentaires de haute qualité des utilisateurs sur les prototypes, les versions bêta et les fonctionnalités en direct.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/hubble?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Takomo
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-takomo.webp" alt="Takomo">
-
-#### Connecte et déploie des modèles d'IA en quelques secondes
-Combinez les meilleurs modèles d'IA dans un outil de création visuel simple pour créer des applications d'IA uniques
-[Visit](https://www.thataicollection.com/redirect/takomo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Combinez les meilleurs modèles d'IA
-Utilise les meilleurs modèles d'IA avec un simple outil de création sans code, et combine-les pour créer des applications d'IA uniques.
-1. Créer un pipeline -
-Crée ton propre pipeline en connectant des modèles de ML préentraînés
-2. Aperçu des sorties -
-Exécute, teste et affine ton pipeline en comparant facilement les résultats
-3. Déployer une API - Générez des API multimodèles grâce à une infrastructure cloud fiable
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/takomo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3269,6 +3256,21 @@ Discussion documentaire et résumé de n'importe quel fichier ou lien ! Discute
 
 ## Assistant de recherche
 
+### Afforai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-afforai.webp" alt="Afforai">
+
+#### Ton copilote de lecture IA. Outils indispensables pour l'analyse de texte, la recherche et la recherche de documents
+[Visit](https://www.thataicollection.com/redirect/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Afforai est un chatbot IA qui recherche, résume et traduit des informations provenant de multiples sources afin de produire des recherches fiables. Discute avec tes documents et en tire les principales conclusions relatives à tes objectifs du jour !
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Elicit
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elicit.webp" alt="Elicit">
 
@@ -3354,21 +3356,6 @@ Jenni est ton assistante IA pour tout ce qui concerne ton parcours universitaire
 Les entreprises manquent de réponses et d'engagement dans leurs sondages. Vocads réinvente l'expérience d'enquête, grâce à la conversation VOICE avec une IA.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/vocads-survey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Afforai Build
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-afforai-build.webp" alt="Afforai Build">
-
-#### Votre copilote de lecture IA. Outils indispensables pour l'analyse de texte, la recherche et la recherche de documents
-[Visit](https://www.thataicollection.com/redirect/afforai-build?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Rédaction de rapports Trop de documents à lire ? Afforai analysera et rédigera pour vous un rapport complet et répondra à toutes vos questions sur les documents. Requête de feuille de calcul - Utilisez Afforai pour extraire des informations importantes de rapports et de feuilles de calcul à l'aide d'une requête en langage naturel. Web Scraping - Afforai peut parcourir plusieurs sites Web et extraire des informations clés.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/afforai-build?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4710,7 +4697,7 @@ IX.AI : votre copilote d'écriture d'IA tout-en-un le plus puissant. Générez 
 
 Rytr est un assistant de rédaction basé sur l'intelligence artificielle qui t'aide à créer du contenu de haute qualité, en quelques secondes, pour une fraction du prix !
 Génère du contenu exceptionnel, sans effort
-Ne sois plus jamais confrontée au blocage des rédacteurs : qu'il s'agisse de blogs, d'e-mails ou de copies publicitaires, générez automatiquement des copies accrocheuses, originales et à fort taux de conversion dans des tons et des langues populaires en quelques secondes.
+Ne sois plus jamais confrontée au blocage des rédacteurs : qu'il s'agisse de blogs, d'e-mails ou de copies publicitaires, générez automatiquement des copies accrocheuses, originales et à fort taux de conversion dans des tons et des langues populaires en quelques secondes. 
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/rytr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
