@@ -137,7 +137,7 @@
 | [FoodAI](https://www.thataicollection.com/redirect/foodai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Foodai.App-用 Ai 生成烹饪食谱！. | 选择您要使用的食材，我们的人工智能将为您提供使用其中一些食材制作的食谱。然后点击下面的按钮获取您的食谱。. | :white_check_mark: |
 | [Jokelub](https://www.thataicollection.com/redirect/jokelub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 约克卢布. | 让幽默无处不在. | :grey_question: |
 | [Kanye Tweet Generator](https://www.thataicollection.com/redirect/kanye-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Kanye 推文一代. | 使用 AI 生成 Kanye 推文。由瑞安道尔建造。. | :grey_question: |
-| [Nudify.online](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用我们的免费服务为任何人脱衣服。. | 只需选择年龄、体型、品质，几秒钟内即可得出结果. | :white_check_mark: |
+| [Nudify.online](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用我们的免费服务脱衣服任何人。Deepnude AI On Nudify — 免费为任何女孩脱衣服！. | 用于免费深度裸体的Undress AI照片生成器.Nudify deepnude AI 使用深度伪造裸照和比基尼照片的最高精度。只需选择年龄、体型、素质，即可在几秒钟内得到结果。. | :white_check_mark: |
 | [Oscar Stories](https://www.thataicollection.com/redirect/oscar-stories?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创建个性化的睡前故事. | 创建以您的孩子为主角的个性化睡前故事. | :white_check_mark: |
 | [Philosophy](https://www.thataicollection.com/redirect/philosophy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 问哲学家. | 提出深刻的问题并从威廉·莎士比亚、弗里德里希·尼采、勒内·笛卡尔、苏格拉底、孔子、Al-Kindi、佛陀那里得到答案. | :white_check_mark: |
 | [Pit Stop ChatterGPT](https://www.thataicollection.com/redirect/pit-stop-chattergpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pit Stop ChatterGPT：与 F1 Legends 聊天，您的比赛日伴侣. | 有了这个应用程序，您可以在大赛前探索您最喜欢的车手的心态，询问他们的准备程序，或者只是进行友好的聊天。这就像与 Lewis Hamilton 或 Max Verstappen 等标志性 F1 车手进行私人对话。. | :x: |
@@ -321,7 +321,6 @@
 ## 写作助理
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
-| [Afforai Ask](https://www.thataicollection.com/redirect/afforai-ask?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 利用人工智能增强写作任务. | 商业 - 快速电子邮件和文档编写器可以帮助您创建专业的电子邮件和文档。就业 - 使用我们的人工智能工具生成职位描述，让您的招聘流程变得更加轻松。求职者可以创建出色的简历和求职信。技术 - Afforai 可以帮助您快速、轻松地根据您的要点起草论文和报告。. | :white_check_mark: |
 | [AI Lyrics Generator](https://www.thataicollection.com/redirect/ai-lyrics-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能词曲作者——这些歌词不存在. | 为任何主题生成您自己的歌曲歌词，还可以选择歌词流派和歌词心情. | :grey_question: |
 | [Ai Paragraph Generator](https://www.thataicollection.com/redirect/ai-paragraph-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 段落生成器（一款适用于不同写作要求的有用内容生成器）来高效创建文本。. | AI 段落生成器是一款利用人工智能力量的尖端内容创作工具。它使用先进的自然语言处理和机器学习，可以快速生成连贯且与上下文相关的段落，使其成为满足各种写作要求的宝贵资源。. | :white_check_mark: |
 | [AI-Writer](https://www.thataicollection.com/redirect/ai-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Writer™ - 承诺的最佳 AI 文本生成器。. | AI-Writer 是最准确的内容生成平台，使用最先进的 AI 写作模型仅从标题生成文章。. | :grey_question: |
@@ -438,6 +437,7 @@
 | [Pictureperfect](https://www.thataicollection.com/redirect/pictureperfect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能头像生成器和制作器 - PicturePerfect.AI. | 在 AI 技术的帮助下发挥创意并设计您自己的个性化头像。只需上传一张照片，我们的系统就会生成一个代表您的独特头像。在社交媒体上与朋友和家人分享您完美的头像，让您的创造力大放异彩！. | :grey_question: |
 | [PIXELVIBE](https://www.thataicollection.com/redirect/pixelvibe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 简化了创意工作流程。. | 创建演示文稿、设计、库存照片、Instagram 促销、产品摄影、矢量艺术、动画化身. | :grey_question: |
 | [Posed](https://www.thataicollection.com/redirect/posed?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 构成. | 上传您的照片，让我们的 AI 以各种风格创建令人惊叹的高质量肖像，看起来就像您一样。. | :grey_question: |
+| [Profile Bakery](https://www.thataicollection.com/redirect/profile-bakery?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您的专业 AI 头像生成器。. | 我们专门使用人工智能技术创作令人惊叹的人像照片。我们的肖像旨在捕捉您的独特个性，展现您的最佳特征。凭借我们经验丰富的摄影师团队和先进的软件，我们提供既经济实惠又高效的专业人像摄影。. | :grey_question: |
 | [ProfilePicture.ai](https://www.thataicollection.com/redirect/profilepicture.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 创建完美的头像。. | 排名第一的 AI 个人资料图片制作和生成器 您的个人资料图片是人们在查看您的个人资料时首先看到的。我们使用人工智能为您生成一个神奇的化身，看起来很完美并且能捕捉到您的真实身份。你可以是任何人或任何人！. | :x: |
 | [ReflectMe](https://www.thataicollection.com/redirect/reflectme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 反映我。 - 生成您的 AI 头像！. | 以前所未有的方式看待自己！使用人工智能生成您的 AI 头像、AI 照片、AI 照片、个人资料图片、LinkedIn 专业个人资料照片！建立在 Stable Diffusion 和 Dreambooth 之上。. | :grey_question: |
 | [Stableboost](https://www.thataicollection.com/redirect/stableboost?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 创建个性化图像！. | 上传几张你自己、爱人、宠物、产品或你喜欢的风格的照片，我们将自动训练一个 AI 模型为你生成数百种不同风格的肖像. | :x: |
@@ -796,7 +796,7 @@
 ## 研究助理
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
-| [Afforai Build](https://www.thataicollection.com/redirect/afforai-build?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您的人工智能阅读副驾驶。文本分析、研究和文档搜索的必备工具. | 起草报告 文件太多无法阅读？ Afforai 将为您分析和起草一份完整的报告，并回答有关文件的任何问题。电子表格查询 - 使用 Afforai 使用自然语言查询从报告和电子表格中提取重要信息。网页抓取 - Afforai 可以抓取多个网站并提取关键信息。. | :white_check_mark: |
+| [Afforai](https://www.thataicollection.com/redirect/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 你的 AI 阅读副驾驶。文本分析、研究和文档搜索的必备工具. | Afforai是一款人工智能聊天机器人，可以搜索、汇总和翻译来自多个来源的信息，以进行值得信赖的研究。立即与您的文档聊天，提取与您的目标相关的关键发现！. | :white_check_mark: |
 | [Elicit](https://www.thataicollection.com/redirect/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 引出：人工智能研究助理. | Elicit 使用机器学习来帮助您进行研究：查找论文、提取关键声明、总结、集思广益等等。. | :grey_question: |
 | [Explainpaper](https://www.thataicollection.com/redirect/explainpaper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 阅读研究论文的最快方式. | 上传一篇论文，突出令人困惑的文本，获得解释。我们使研究论文易于阅读。. | :white_check_mark: |
 | [Jenni](https://www.thataicollection.com/redirect/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Jenni-用于撰写论文、研究论文等的人工智能！. | Jenni 是你在学术旅程中处理所有事物的 AI 助手。我们专门开发可帮助您撰写论文、研究论文等的人工智能！. | :white_check_mark: |
@@ -861,6 +861,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [Adaptify SEO Agent](https://www.thataicollection.com/redirect/adaptify-seo-agent?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 自动化搜索引擎优化营销. | 在 Google 上建立您的企业、客户和竞争对手的资料。然后生成在 Google 上排名良好的关键字策略和长篇内容. | :white_check_mark: |
+| [Albus](https://www.thataicollection.com/redirect/albus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Albus-ChatGPT 现已上线 Slack - Springworks. | Albus 是一个人工智能平台，它利用 ChatGPT 的力量来帮助人力资源员工并简化人力资源运营。现在就在你的工作空间中拥有 ChatGPT4 的强大功能吧！. | :white_check_mark: |
 | [AutoPredict](https://www.thataicollection.com/redirect/autopredict?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 自动预测-预测您的汽车能持续多久. | AutoPredict是第一款使用人工智能来预测汽车将持续多久的应用程序。通过分析超过1亿个数据点，AutoPredict可以准确估计汽车的寿命。. | :white_check_mark: |
 | [bardeen](https://www.thataicollection.com/redirect/bardeen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能遇见自动化. | 即将于 2023 年推出 – Bardeen 将引入突破性的 AI 来自动化手动工作流程，节省您的时间并激发您的创造力。. | :grey_question: |
 | [BuildAI](https://www.thataicollection.com/redirect/buildai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在几分钟内构建 AI 界面. | 输入基于用户文本输入输出文本的应用程序的描述，我们将为您打造！. | :grey_question: |
@@ -960,6 +961,7 @@
 | [Kore.ai](https://www.thataicollection.com/redirect/kore.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 面向企业的 AI 优先体验优化平台. | Kore.ai 通过部署对话式 AI 优先虚拟助手和流程助手，实现每个行业的前台和后台交互自动化。. | :grey_question: |
 | [LLM App](https://www.thataicollection.com/redirect/llm-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | . | :white_check_mark: |
 | [Muah AI](https://www.thataicollection.com/redirect/muah-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Muah AI-硬核无码人工智能女友. | Muah.ai 允许你参与人工智能驱动的同伴 NSFW 聊天、交换照片，甚至进行语音聊天。Muah AI 的一些主要功能包括未经审查的聊天、照片交换（能够接收和发送照片）、语音互动、实时电话（通过实时通话）、照片 X 射线，甚至 4K 照片增强。. | :white_check_mark: |
+| [My AskAI](https://www.thataicollection.com/redirect/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创建 AI 助手的速度比煮咖啡的速度更快. | 为您的团队或客户节省数小时的搜索和阅读时间，并提供即时答案。添加您的文档、网站或内容并创建自己的 AI 助手，只需不到 2 分钟。. | :white_check_mark: |
 | [MyAnima AI Companion](https://www.thataicollection.com/redirect/myanima-ai-companion?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Anima：虚拟人工智能朋友. | 关心的 AI 伴侣。进行友好的聊天、角色扮演，提高您的沟通和人际关系技巧。. | :white_check_mark: |
 | [MyZone AI Chatbots](https://www.thataicollection.com/redirect/myzone-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 借助 MyZone AI 聊天机器人，增强员工能力，简化流程并提高公司效率。. | MyZone 人工智能聊天机器人，贵公司的人工智能助手，由 ChatGPT 提供支持。它具有自定义功能，并根据您的特定知识和数据库进行了培训，并遵循了您独特的业务说明。充分发挥 AI 的潜力，实现业务运营转型。. | :grey_question: |
 | [NOLU](https://www.thataicollection.com/redirect/nolu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 与 AI 交互应该很简单。. | 认识诺鲁。用于与 Open AI GPT-3 引擎交互的简单界面。. | :white_check_mark: |
@@ -1249,8 +1251,6 @@
 | [ai2sql](https://www.thataicollection.com/redirect/ai2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SQL 查询生成器 - SQL 查询生成器 AI 机器人. | 使用 AI2sql，工程师和非工程师都可以在不了解 SQL 的情况下轻松编写高效、无错误的 SQL 查询。是时候收回你的时间了！. | :white_check_mark: |
 | [AIArt](https://www.thataicollection.com/redirect/aiart?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | aiart.dev. | . | :grey_question: |
 | [Aida](https://www.thataicollection.com/redirect/aida?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 花时间经营您的业务，而不是您的网站. | 让我们的人工智能网站建设者在几分钟内让您的业务上线。. | :white_check_mark: |
-| [Albus](https://www.thataicollection.com/redirect/albus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Albus - ChatGPT 现在在 Slack 上. | Albus 使用自然语言处理技术帮助您在不离开 Slack 的情况下找到所有问题的答案。现在就在您的工作区中使用 ChatGPT 的强大功能！. | :white_check_mark: |
-| [Alfred](https://www.thataicollection.com/redirect/alfred?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Alfred - 手机上的 GPT 聊天. | . | :grey_question: |
 | [Amadeus Code](https://www.thataicollection.com/redirect/amadeus-code?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 株式会社Amadeus Code - 公共企业saito. | 企业情报、招聘情报、投资家情报、ニュースナど、Amadeus Codeの企业情报报告一般を提供する公共企业さいとです。. | :grey_question: |
 | [Andisearch](https://www.thataicollection.com/redirect/andisearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 安迪 - 寻找下一代. | . | :grey_question: |
 | [Artflow](https://www.thataicollection.com/redirect/artflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 艺流. | . | :grey_question: |
@@ -1357,7 +1357,6 @@
 | [Riku](https://www.thataicollection.com/redirect/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Riku.AI - 为 AI 模型构建无代码提示和数据集. | . | :grey_question: |
 | [SafeSpelling](https://www.thataicollection.com/redirect/safespelling?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SafeSpelling - 书写无误. | . | :grey_question: |
 | [Scene One](https://www.thataicollection.com/redirect/scene-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 适用于小说、短篇小说和商业的在线图书写作应用程序. | 使用我们直观的写作应用程序编写更多故事，花更少的时间学习复杂的功能。. | :grey_question: |
-| [Scribe](https://www.thataicollection.com/redirect/scribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | . | :grey_question: |
 | [Sitekick](https://www.thataicollection.com/redirect/sitekick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI登陆页面构建器. | . | :grey_question: |
 | [Snackable AI](https://www.thataicollection.com/redirect/snackable-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 可当零食. | . | :grey_question: |
 | [Songmastr](https://www.thataicollection.com/redirect/songmastr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Songmastr - 自动歌曲掌握参考. | . | :white_check_mark: |
@@ -1377,7 +1376,6 @@
 | [Textunbox](https://www.thataicollection.com/redirect/textunbox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TextUnbox.app. | TextUnbox - 利用 AI 的力量！. | :grey_question: |
 | [Thegist](https://www.thataicollection.com/redirect/thegist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | theGist AI - 总结 Slack 线程和通道 - 了解它的要点. | . | :grey_question: |
 | [Thumbsnap](https://www.thataicollection.com/redirect/thumbsnap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能艺术生成器！由 Stable Diffusion 提供支持 - ThumbSnap - 免费照片和视频托管. | ThumbSnap：免费照片和视频共享. | :white_check_mark: |
-| [Tunes For Tales](https://www.thataicollection.com/redirect/tunes-for-tales?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 故事曲调. | . | :grey_question: |
 | [Twelve Labs](https://www.thataicollection.com/redirect/twelve-labs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 十二实验室. | . | :grey_question: |
 | [Userpersona](https://www.thataicollection.com/redirect/userpersona?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用户画像 - AI 生成的用户画像. | . | :grey_question: |
 | [Vee](https://www.thataicollection.com/redirect/vee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人们喜欢与之交谈的聪明顾问。 z którą ludzie lubią rozmawiać. | Vee 已经与 500 万波兰人进行了交谈，有效地为来自不同行业的数十家公司实施了业务流程。 Vee przeprowadziła rozmowy już z ponad 5 milionami Polaków, skutecznie realizując procedes biznesowe dla dziesiątek firm z różnych branż. | :grey_question: |

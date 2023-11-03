@@ -42,7 +42,7 @@
     <a href="https://www.thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
 
----
+--- 
 > 您可以复制粘贴网站链接到此工具以查看中文网站 - [link](https://translate.google.com/?sl=en&tl=zh-CN&op=websites)
 
 ---
@@ -58,7 +58,7 @@
     </a>
     <h4>BeeBee.AI 专为美国股市量身定制，适合主要关注基本面分析并重视数据和信息的长期投资者。</h4>
     <p>我们为2000多家公司提供支持（包括道琼斯30指数、标准普尔500指数、纳斯达克100指数，按交易量和活动排序）。利用 GPT 基础并将其与专门的 NLP 迷你模型相结合。我们主要提供两项核心服务：
-（1）全面解读财报和电话会议。
+（1）全面解读财报和电话会议。 
 (2) 对公司广泛的数字足迹的深入分析。 </p>
     <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 BeeBee AI</b></a>
     <br />
@@ -137,10 +137,84 @@
 - 🎮 [赌博](#赌博)
 - 💰 [销售与市场营销](#销售与市场营销)
 - 🎼 [音乐和音频生成](#音乐和音频生成)
+## Latest Additions to AI Collection
+
+### Afforai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-afforai.webp" alt="Afforai">
+
+#### 你的 AI 阅读副驾驶。文本分析、研究和文档搜索的必备工具
+[Visit](https://www.thataicollection.com/redirect/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Afforai是一款人工智能聊天机器人，可以搜索、汇总和翻译来自多个来源的信息，以进行值得信赖的研究。立即与您的文档聊天，提取与您的目标相关的关键发现！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-## Latest Additions to AI Collection
+<br />
+
+
+### My AskAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
+
+#### 创建 AI 助手的速度比煮咖啡的速度更快
+[Visit](https://www.thataicollection.com/redirect/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+为您的团队或客户节省数小时的搜索和阅读时间，并提供即时答案。添加您的文档、网站或内容并创建自己的 AI 助手，只需不到 2 分钟。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Profile Bakery
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-profile-bakery.webp" alt="Profile Bakery">
+
+#### 您的专业 AI 头像生成器。
+[Visit](https://www.thataicollection.com/redirect/profile-bakery?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+我们专门使用人工智能技术创作令人惊叹的人像照片。我们的肖像旨在捕捉您的独特个性，展现您的最佳特征。凭借我们经验丰富的摄影师团队和先进的软件，我们提供既经济实惠又高效的专业人像摄影。 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/profile-bakery?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Albus
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-albus.webp" alt="Albus">
+
+#### Albus-ChatGPT 现已上线 Slack | Springworks
+[Visit](https://www.thataicollection.com/redirect/albus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Albus 是一个人工智能平台，它利用 ChatGPT 的力量来帮助人力资源员工并简化人力资源运营。现在就在你的工作空间中拥有 ChatGPT4 的强大功能吧！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/albus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Nudify.online
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online.webp" alt="Nudify.online">
+
+#### 使用我们的免费服务脱衣服任何人。Deepnude AI On Nudify — 免费为任何女孩脱衣服！
+
+[Visit](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+用于免费深度裸体的Undress AI照片生成器.Nudify deepnude AI 使用深度伪造裸照和比基尼照片的最高精度。只需选择年龄、体型、素质，即可在几秒钟内得到结果。 
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 
 ### novita.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-novita.ai.webp" alt="novita.ai">
@@ -174,85 +248,6 @@
 <br />
 
 
-### Chatbase
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
-
-#### 自定义 ChatGPT
-为了您的数据-构建一个根据您的数据进行训练的 AI 聊天机器人
-[Visit](https://www.thataicollection.com/redirect/chatbase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在您的知识库中构建 AI 聊天机器人并将其添加到您的网站或通过我们的 API 与之互动。只需连接您的数据源，即可为您的数据获取类似 ChatGPT 的聊天机器人。然后将其作为插件添加到您的网站或通过我们的集成或 API 与之聊天。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chatbase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Neuron Writer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuron-writer.webp" alt="Neuron Writer">
-
-#### NeuronWriter — 使用 #semanticSEO 进行内容优化
-[Visit](https://www.thataicollection.com/redirect/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-优化您的网站内容
-所以谷歌很喜欢它。
-高级内容编辑器，包含语义模型 (NLP)、谷歌 SERP 分析和竞争数据。
-NeuronWriter 可帮助您规划、编写和优化内容，同时考虑用户意图！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Editpad - paraphrasing-tool
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-editpad---paraphrasing-tool.webp" alt="Editpad - paraphrasing-tool">
-
-#### Editpad 在线释义文本是最好的释义工具，它可以帮助你解释句子、段落和文章以消除抄袭。
-[Visit](https://www.thataicollection.com/redirect/editpad---paraphrasing-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Editpad 的在线释义是一种自由文本释义工具，用于更改单词和句子结构以避免抄袭。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/editpad---paraphrasing-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Paraphrasear Online
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paraphrasear-online.webp" alt="Paraphrasear Online">
-
-#### 在线解释-释义文本-100% 免费
-[Visit](https://www.thataicollection.com/redirect/paraphrasear-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-这个在线释义是解读文本的免费工具。使用在线释义来消除抄袭。这是一款由人工智能驱动的在线释义工具，可以轻松解读文章、论文、句子、故事、作业、研究论文和许多其他类型的内容。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/paraphrasear-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Parafrasear
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-parafrasear.webp" alt="Parafrasear">
-
-#### 释义文本-最佳在线释义（100% 免费）
-[Visit](https://www.thataicollection.com/redirect/parafrasear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-释义文本免费在线释义工具。我们的 Paraphrase.ai 释义工具可帮助您解读抄袭的内容。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/parafrasear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ## 会计与金融
 
 ### BeeBee AI
@@ -262,8 +257,8 @@ Editpad 的在线释义是一种自由文本释义工具，用于更改单词和
 [Visit](https://www.thataicollection.com/redirect/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 我们为2000多家公司提供支持（包括道琼斯30指数、标准普尔500指数、纳斯达克100指数，按交易量和活动排序）。利用 GPT 基础并将其与专门的 NLP 迷你模型相结合。我们主要提供两项核心服务：
-（1）全面解读财报和电话会议。
-(2) 对公司广泛的数字足迹的深入分析。
+（1）全面解读财报和电话会议。 
+(2) 对公司广泛的数字足迹的深入分析。 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -973,7 +968,7 @@ TLDR 是一个 IDE 插件，它利用 AI 以简单的英语解释代码。
 ### Klu
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-klu.webp" alt="Klu">
 
-#### Klu.ai 是一个多合一平台，专为 AI 团队构建、部署和优化生成式 AI 应用程序而设计。
+#### Klu.ai 是一个多合一平台，专为 AI 团队构建、部署和优化生成式 AI 应用程序而设计。 
 [Visit](https://www.thataicollection.com/redirect/klu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 Klu.ai 是一个多合一平台，专为 AI 团队构建、部署和优化生成式 AI 应用程序而设计。它允许用户使用其名为Klu Studio的直观界面轻松设计、开发和迭代生成式人工智能功能和应用程序。
@@ -2353,7 +2348,7 @@ Paperade 是第一个基于 AI 的工具，可以从 1 亿多篇学术论文和�
 ### My Spicy Vanilla
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-spicy-vanilla.webp" alt="My Spicy Vanilla">
 
-#### My Spicy Vanilla 的 AI 日期创意生成器
+#### My Spicy Vanilla 的 AI 日期创意生成器 
 [Visit](https://www.thataicollection.com/redirect/my-spicy-vanilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 My Spicy Vanilla 的 AI Date Idea Generator 是一款利用人工智能生成独特的约会之夜计划的工具。
@@ -2797,6 +2792,21 @@ Krisp 的 AI 可以消除您所有通话中的背景声音、噪音和回声，�
 
 ## 组织与自动化
 
+### Albus
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-albus.webp" alt="Albus">
+
+#### Albus-ChatGPT 现已上线 Slack | Springworks
+[Visit](https://www.thataicollection.com/redirect/albus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Albus 是一个人工智能平台，它利用 ChatGPT 的力量来帮助人力资源员工并简化人力资源运营。现在就在你的工作空间中拥有 ChatGPT4 的强大功能吧！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/albus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Hexowatch
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hexowatch.webp" alt="Hexowatch">
 
@@ -2857,16 +2867,15 @@ AutoPredict是第一款使用人工智能来预测汽车将持续多久的应用
 <br />
 
 
-### Looti
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looti.webp" alt="Looti">
+### Keploy.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-keploy.io.webp" alt="Keploy.io">
 
-#### 高素质可促进您的成长
-[Visit](https://www.thataicollection.com/redirect/looti?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### None
+[Visit](https://www.thataicollection.com/redirect/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-借助人工智能，只需点击几下即可生成B2B潜在客户-将潜在客户转化为收入-已经产生了10,000多个潜在客户
-与高速成长的公司合作
+None
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/looti?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2882,28 +2891,6 @@ AutoPredict是第一款使用人工智能来预测汽车将持续多久的应用
 从设计到生产，监控、测量和增强您的用户体验。通过收集用户对原型、测试版和实时功能的高质量反馈来创建世界一流的产品。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/hubble?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Takomo
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-takomo.webp" alt="Takomo">
-
-#### 在几秒钟内连接和部署 AI 模型
-将最佳 AI 模型整合到一个简单的可视化生成器中，创建独特的 AI 应用程序
-[Visit](https://www.thataicollection.com/redirect/takomo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-组合最佳 AI 模型
-使用最佳 AI 模型和简单的无代码生成器，将它们组合起来创建独特的 AI 应用程序。
-1。创建管道-
-通过连接预训练的 ML 模型来创建自己的管道
-2。预览输出-
-通过轻松比较输出来运行、测试和完善您的管道
-3。部署 API-使用可靠的云基础架构生成多模型 API
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/takomo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3269,6 +3256,21 @@ Speech Analyzer 是一款由 AI 驱动的会话英语流利度教练，它会聆
 
 ## 研究助理
 
+### Afforai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-afforai.webp" alt="Afforai">
+
+#### 你的 AI 阅读副驾驶。文本分析、研究和文档搜索的必备工具
+[Visit](https://www.thataicollection.com/redirect/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Afforai是一款人工智能聊天机器人，可以搜索、汇总和翻译来自多个来源的信息，以进行值得信赖的研究。立即与您的文档聊天，提取与您的目标相关的关键发现！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Elicit
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elicit.webp" alt="Elicit">
 
@@ -3354,21 +3356,6 @@ Jenni 是你在学术旅程中处理所有事物的 AI 助手。我们专门开�
 公司在调查中缺乏回应和参与。 Vocads 通过与 AI 的语音对话重塑调查体验。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/vocads-survey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Afforai Build
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-afforai-build.webp" alt="Afforai Build">
-
-#### 您的人工智能阅读副驾驶。文本分析、研究和文档搜索的必备工具
-[Visit](https://www.thataicollection.com/redirect/afforai-build?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-起草报告 文件太多无法阅读？ Afforai 将为您分析和起草一份完整的报告，并回答有关文件的任何问题。电子表格查询 - 使用 Afforai 使用自然语言查询从报告和电子表格中提取重要信息。网页抓取 - Afforai 可以抓取多个网站并提取关键信息。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/afforai-build?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4710,7 +4697,7 @@ IX.AI：您最强大的一体化人工智能写作副驾驶。使用 HIX.AI（�
 
 Rytr是一款人工智能写作助手，可以帮助你在短短几秒钟内创建高质量的内容，而成本却是其中的一小部分！
 毫不费力地生成杀手级内容
-再也不会面对作者的封锁——从博客到电子邮件再到广告文案，在短短几秒钟内以流行的语气和语言自动生成引人入胜、原创和高转化率的副本。
+再也不会面对作者的封锁——从博客到电子邮件再到广告文案，在短短几秒钟内以流行的语气和语言自动生成引人入胜、原创和高转化率的副本。 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/rytr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
