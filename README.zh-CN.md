@@ -139,6 +139,102 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### Mini Dalle 3 Online
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mini-dalle-3-online.webp" alt="Mini Dalle 3 Online">
+
+#### DALL-E 3：通过文本创建高质量图像，无需登录，免费访问。
+[Visit](https://www.thataicollection.com/redirect/mini-dalle-3-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+DALL-E 3 以其能够理解细微差别和详细的文字描述而闻名，使其能够将想法转化为准确的图像。
+与其他文本到图像生成器相比，DALL-E 3 生成的图像质量要高得多，特别强调生成具有惊人细节和照片真实感的图像。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/mini-dalle-3-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Voice AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voice-ai.webp" alt="Voice AI">
+
+#### 适用于 Pc 和 Mac 的 AI 语音转换器应用程序-即时更改声音
+[Visit](https://www.thataicollection.com/redirect/voice-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+立即下载适用于PC的免费实时语音转换器。修改你的声音，从 Voice Universe 中选择一个或克隆任何你想要的声音
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/voice-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Prompthunt
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prompthunt.webp" alt="Prompthunt">
+
+#### Prompt Hunt-探索、创作和分享 AI 艺术的家
+[Visit](https://www.thataicollection.com/redirect/prompthunt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 DALL·E、Stable Diffusion 和 Midjourney 创作、探索和分享 AI 艺术作品。使用我们的高级 AI 模型 Chroma，以惊人的速度、控制和细节制作高质量的视觉效果。为您和您的团队创建一致的资产。Prompt Hunt 使创建、编辑和共享模板变得比以往任何时候都更加容易。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/prompthunt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### PrometheanAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prometheanai.webp" alt="PrometheanAI">
+
+#### Promethean AI-人工智能
+它建立了虚拟世界
+[Visit](https://www.thataicollection.com/redirect/prometheanai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Promethean AI，全球领先的人工智能套件，用于数字资产管理和虚拟世界创建。将您的独特愿景变为现实。
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/prometheanai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Aida
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aida.webp" alt="Aida">
+
+#### Bookmark.com | 无代码建站神器助你创业
+
+[Visit](https://www.thataicollection.com/redirect/aida?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+让我们的人工智能网站构建器让您的企业在几分钟内上线。我们的人工智能平台可确保您的业务经得起未来考验。免费试用书签。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aida?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Make a Video
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-make-a-video.webp" alt="Make a Video">
+
+#### Make-A-Video 是一种最先进的人工智能系统，可以从文本生成视频。
+[Visit](https://www.thataicollection.com/redirect/make-a-video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Make-A-Video研究建立在文本到图像生成技术的最新进展的基础上，该技术旨在实现文本到视频的生成。该系统使用带有描述的图像来了解世界是什么样子以及通常是如何描述世界的。有了这些数据，Make-A-Video 只需几个字或几行文字就能生成异想天开、独一无二的视频，让你的想象力变为现实。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/make-a-video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Afforai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-afforai.webp" alt="Afforai">
 
@@ -148,100 +244,6 @@
 Afforai是一款人工智能聊天机器人，可以搜索、汇总和翻译来自多个来源的信息，以进行值得信赖的研究。立即与您的文档聊天，提取与您的目标相关的关键发现！
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### My AskAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
-
-#### 创建 AI 助手的速度比煮咖啡的速度更快
-[Visit](https://www.thataicollection.com/redirect/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-为您的团队或客户节省数小时的搜索和阅读时间，并提供即时答案。添加您的文档、网站或内容并创建自己的 AI 助手，只需不到 2 分钟。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Profile Bakery
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-profile-bakery.webp" alt="Profile Bakery">
-
-#### 您的专业 AI 头像生成器。
-[Visit](https://www.thataicollection.com/redirect/profile-bakery?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我们专门使用人工智能技术创作令人惊叹的人像照片。我们的肖像旨在捕捉您的独特个性，展现您的最佳特征。凭借我们经验丰富的摄影师团队和先进的软件，我们提供既经济实惠又高效的专业人像摄影。 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/profile-bakery?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Albus
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-albus.webp" alt="Albus">
-
-#### Albus-ChatGPT 现已上线 Slack | Springworks
-[Visit](https://www.thataicollection.com/redirect/albus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Albus 是一个人工智能平台，它利用 ChatGPT 的力量来帮助人力资源员工并简化人力资源运营。现在就在你的工作空间中拥有 ChatGPT4 的强大功能吧！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/albus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Nudify.online
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online.webp" alt="Nudify.online">
-
-#### 使用我们的免费服务脱衣服任何人。Deepnude AI On Nudify — 免费为任何女孩脱衣服！
-
-[Visit](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-用于免费深度裸体的Undress AI照片生成器.Nudify deepnude AI 使用深度伪造裸照和比基尼照片的最高精度。只需选择年龄、体型、素质，即可在几秒钟内得到结果。 
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### novita.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-novita.ai.webp" alt="novita.ai">
-
-#### 适用于 10000 多个模型的快速而便宜的 AI 图像生成 API
-
-[Visit](https://www.thataicollection.com/redirect/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在短短 2 秒内生成速度最快，按使用量付费，每张标准映像 0.0015 美元，您可以添加自己的模型并避免 GPU 维护
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Synthesia
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-synthesia.webp" alt="Synthesia">
-
-#### Synthesia-#1 人工智能视频生成平台。在几分钟内将你的文字变成视频
-[Visit](https://www.thataicollection.com/redirect/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-借助人工智能头像和画外音，使用人工智能视频生成器制作没有麦克风、摄像头或演员的专业视频，支持超过 120 种语言。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -616,17 +618,16 @@ Playground AI 是一个免费使用的在线 AI 图像创建器。用它来创�
 <br />
 
 
-### novita.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-novita.ai.webp" alt="novita.ai">
+### Mini Dalle 3 Online
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mini-dalle-3-online.webp" alt="Mini Dalle 3 Online">
 
-#### 适用于 10000 多个模型的快速而便宜的 AI 图像生成 API
+#### DALL-E 3：通过文本创建高质量图像，无需登录，免费访问。
+[Visit](https://www.thataicollection.com/redirect/mini-dalle-3-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+DALL-E 3 以其能够理解细微差别和详细的文字描述而闻名，使其能够将想法转化为准确的图像。
+与其他文本到图像生成器相比，DALL-E 3 生成的图像质量要高得多，特别强调生成具有惊人细节和照片真实感的图像。
 
-在短短 2 秒内生成速度最快，按使用量付费，每张标准映像 0.0015 美元，您可以添加自己的模型并避免 GPU 维护
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/mini-dalle-3-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -789,6 +790,21 @@ Olympia是一款由人工智能驱动的虚拟人员配备工具，专为自营�
 <br />
 
 
+### My AskAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
+
+#### 创建 AI 助手的速度比煮咖啡的速度更快
+[Visit](https://www.thataicollection.com/redirect/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+为您的团队或客户节省数小时的搜索和阅读时间，并提供即时答案。添加您的文档、网站或内容并创建自己的 AI 助手，只需不到 2 分钟。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Chatbase
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
 
@@ -859,21 +875,6 @@ ChatSimple是一个专门在短短5分钟内为中小型企业（SMB）创建以
 ChatBotKit 可帮助您使用自己的数据创建对话式 AI 聊天机器人，以便与您网站、Slack、Discord 和 WhatsApp 上的用户自然交流。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chatbotkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### SiteGPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sitegpt.webp" alt="SiteGPT">
-
-#### 每个网站的 ChatGPT
-[Visit](https://www.thataicollection.com/redirect/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用根据您的网站内容训练的个性化聊天机器人即时回答访问者的问题。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4633,6 +4634,23 @@ LiveReacting 通过将预先录制的视频、游戏、倒计时和投票添加�
 <br />
 
 
+### Aida
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aida.webp" alt="Aida">
+
+#### Bookmark.com | 无代码建站神器助你创业
+
+[Visit](https://www.thataicollection.com/redirect/aida?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+让我们的人工智能网站构建器让您的企业在几分钟内上线。我们的人工智能平台可确保您的业务经得起未来考验。免费试用书签。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aida?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Piggy
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-piggy.webp" alt="Piggy">
 
@@ -4642,21 +4660,6 @@ LiveReacting 通过将预先录制的视频、游戏、倒计时和投票添加�
 在您的手机上创建令人惊叹的内容变得简单
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/piggy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Genius by Diagram
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-genius-by-diagram.webp" alt="Genius by Diagram">
-
-#### Genius - 你的 AI 设计伙伴
-[Visit](https://www.thataicollection.com/redirect/genius-by-diagram?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-加入 Genius by Diagram 等候名单
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/genius-by-diagram?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

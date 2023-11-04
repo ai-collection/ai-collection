@@ -139,6 +139,102 @@
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
 
+### Mini Dalle 3 Online
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mini-dalle-3-online.webp" alt="Mini Dalle 3 Online">
+
+#### DALL-E 3: टेक्स्ट से अच्छी क्वालिटी वाली इमेज बनाना, लॉगिन की ज़रूरत नहीं, मुफ़्त ऐक्सेस।
+[Visit](https://www.thataicollection.com/redirect/mini-dalle-3-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+DALL-E 3 को सूक्ष्म और विस्तृत पाठ्य विवरणों को समझने की क्षमता के लिए जाना जाता है, जिससे यह विचारों को सटीक छवियों में बदल देता है।
+DALL-E 3 द्वारा बनाई गई इमेज क्वालिटी अन्य टेक्स्ट-टू-इमेज जेनरेटर की तुलना में काफी ज़्यादा है, जिसमें खास तौर से शानदार विवरण और फ़ोटोरियलिज़्म के साथ इमेज बनाने पर जोर दिया जाता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/mini-dalle-3-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Voice AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voice-ai.webp" alt="Voice AI">
+
+#### Pc और Mac के लिए AI वॉइस चेंजर ऐप - तुरंत अपनी आवाज़ बदलें
+[Visit](https://www.thataicollection.com/redirect/voice-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PC के लिए अभी मुफ़्त रीयल टाइम वॉइस चेंजर डाउनलोड करें। अपनी आवाज़ में बदलाव करें, वॉइस यूनिवर्स में से किसी एक को चुनें या अपनी मनचाही आवाज़ को क्लोन करें
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/voice-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Prompthunt
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prompthunt.webp" alt="Prompthunt">
+
+#### प्रॉम्प्ट हंट - AI आर्ट की खोज, निर्माण और शेयर करने के लिए आपका घर
+[Visit](https://www.thataicollection.com/redirect/prompthunt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+DAL·E, स्टेबल डिफ़्यूज़न और मिडजर्नी का इस्तेमाल करके AI आर्ट बनाएं, एक्सप्लोर करें और शेयर करें। हमारे एडवांस AI मॉडल Chroma का इस्तेमाल करके अविश्वसनीय गति, नियंत्रण और विवरण के साथ उच्च गुणवत्ता वाले विज़ुअल तैयार करें। अपने और अपनी टीम के लिए लगातार एसेट बनाएं। प्रॉम्प्ट हंट से टेम्पलेट बनाना, संपादित करना और शेयर करना पहले से कहीं ज्यादा आसान हो गया है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/prompthunt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### PrometheanAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prometheanai.webp" alt="PrometheanAI">
+
+#### प्रोमेथियन AI - आर्टिफिशियल इंटेलिजेंस
+जो वर्चुअल वर्ल्ड बनाता है
+[Visit](https://www.thataicollection.com/redirect/prometheanai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+प्रोमेथियन AI, डिजिटल संपत्ति प्रबंधन और वर्चुअल वर्ल्ड क्रिएशन के लिए दुनिया का अग्रणी आर्टिफिशियल इंटेलिजेंस सुइट है। जो तुम्हारे दर्शकों के लिए तुम्हारे अनोखे दृष्टिकोण को जीवंत कर रहा है।
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/prometheanai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Aida
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aida.webp" alt="Aida">
+
+#### Bookmark.com | अपना बिज़नेस शुरू करने के लिए नो-कोड वेबसाइट बिल्डर
+
+[Visit](https://www.thataicollection.com/redirect/aida?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+हमारे AI द्वारा संचालित वेबसाइट बिल्डर को मिनटों में तुम्हारा कारोबार ऑनलाइन करने दें। हमारा AI संचालित प्लेटफ़ॉर्म यह सुनिश्चित करता है कि तुम्हारा व्यवसाय भविष्य में सुरक्षित रहे। बुकमार्क मुफ़्त में आज़माएँ।
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/aida?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Make a Video
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-make-a-video.webp" alt="Make a Video">
+
+#### मेक-ए-वीडियो एक अत्याधुनिक AI सिस्टम है जो टेक्स्ट से वीडियो बनाता है।
+[Visit](https://www.thataicollection.com/redirect/make-a-video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+मेक-ए-वीडियो रिसर्च टेक्स्ट-टू-इमेज जनरेशन तकनीक में हुई हालिया प्रगति पर आधारित है, जिसे टेक्स्ट-टू-वीडियो जेनरेशन को सक्षम करने के लिए बनाया गया है। सिस्टम यह जानने के लिए कि दुनिया कैसी दिखती है और अक्सर इसका वर्णन कैसे किया जाता है, यह जानने के लिए सिस्टम तस्वीरों का उपयोग करता है। इस डेटा की मदद से, Make-A-Video से तुम सिर्फ़ कुछ शब्दों या टेक्स्ट की पंक्तियों के ज़रिए मनमोहक, अनोखे वीडियो बनाकर अपनी कल्पना को जीवंत कर सकते हो।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/make-a-video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Afforai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-afforai.webp" alt="Afforai">
 
@@ -152,100 +248,6 @@ Afforai एक AI चैटबॉट है जो भरोसेमंद श�
 <br />
 
 
-
-
-### My AskAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
-
-#### कॉफ़ी बनाने में जितनी जल्दी होती है, उससे कहीं ज़्यादा तेज़ी से AI असिस्टेंट बनाएँ
-[Visit](https://www.thataicollection.com/redirect/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-अपनी सभी सामग्री से तुरंत जवाब देकर, अपनी टीम या ग्राहकों को खोजने और पढ़ने में घंटों की बचत करें। अपने दस्तावेज़, वेबसाइट या कॉन्टेंट जोड़ें और <2 मिनट में अपना खुद का AI असिस्टेंट बनाएं।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Profile Bakery
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-profile-bakery.webp" alt="Profile Bakery">
-
-#### तुम्हारा पेशेवर AI हेडशॉट जनरेटर।
-[Visit](https://www.thataicollection.com/redirect/profile-bakery?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-हम AI तकनीक का इस्तेमाल करके शानदार पोर्ट्रेट तस्वीरें बनाने में माहिर हैं। हमारे पोर्ट्रेट्स तुम्हारे अद्वितीय व्यक्तित्व को कैद करने और तुम्हारी सबसे अच्छी विशेषताओं को दिखाने के लिए डिज़ाइन किए गए हैं। अनुभवी फ़ोटोग्राफ़रों और एडवांस सॉफ़्टवेयर की हमारी टीम के साथ, हम पेशेवर पोर्ट्रेट फ़ोटोग्राफ़ी की पेशकश करते हैं, जो कि सस्ती और कुशल दोनों है। 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/profile-bakery?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Albus
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-albus.webp" alt="Albus">
-
-#### एल्बस - चैटजीपीटी नाउ ऑन स्लैक | स्प्रिंगवर्क्स
-[Visit](https://www.thataicollection.com/redirect/albus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Albus एक AI प्लेटफ़ॉर्म है जो मानव संसाधन कर्मचारियों की सहायता करने और मानव संसाधन संचालन को कारगर बनाने के लिए ChatGPT की शक्ति का लाभ उठाता है। अब अपने वर्कस्पेस के अंदर ही ChatGPT4 की ताकत पाओ!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/albus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nudify.online
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online.webp" alt="Nudify.online">
-
-#### हमारी मुफ़्त सेवा से किसी के भी कपड़े उतारें। न्यूडिफ़ाई पर डीप न्यूड एआई — किसी भी लड़की को मुफ्त में अनड्रेस करें!
-
-[Visit](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-मुफ्त डीप न्यूड के लिए AI फोटो जनरेटर को अनड्रेस करें। डीप फ़ेक न्यूड और बिकिनी तस्वीरों की उच्चतम सटीकता के साथ डीप न्यूड AI को न्यूडिफ़ाई करें। बस उम्र, बॉडी टाइप, क्वालिटी चुनें और कुछ ही सेकंड में नतीजे पाएं। 
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### novita.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-novita.ai.webp" alt="novita.ai">
-
-#### 10000+ मॉडल्स के लिए तेज़ और सस्ता AI इमेज जनरेशन API
-
-[Visit](https://www.thataicollection.com/redirect/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-सिर्फ़ दो सेकंड में सबसे तेज़ जनरेशन, पे-एज़-यू-गो, हर मानक इमेज के लिए $0.0015, तुम अपने खुद के मॉडल जोड़ सकते हो और GPU के रखरखाव से बच सकते हो
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Synthesia
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-synthesia.webp" alt="Synthesia">
-
-#### सिंथेसिया - #1 AI वीडियो जनरेशन प्लेटफ़ॉर्म। मिनटों में अपने टेक्स्ट को वीडियो में बदलो
-[Visit](https://www.thataicollection.com/redirect/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI अवतारों और वॉयसओवर की मदद से AI वीडियो जेनरेटर की मदद से माइक, कैमरा या ऐक्टर के बिना पेशेवर वीडियो बनाएं — 120 से अधिक भाषाओं में।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ## लेखा और वित्त
@@ -616,21 +618,20 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 <br />
 
 
-### novita.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-novita.ai.webp" alt="novita.ai">
+### Mini Dalle 3 Online
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mini-dalle-3-online.webp" alt="Mini Dalle 3 Online">
 
-#### 10000+ मॉडल्स के लिए तेज़ और सस्ता AI इमेज जनरेशन API
+#### DALL-E 3: टेक्स्ट से अच्छी क्वालिटी वाली इमेज बनाना, लॉगिन की ज़रूरत नहीं, मुफ़्त ऐक्सेस।
+[Visit](https://www.thataicollection.com/redirect/mini-dalle-3-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+DALL-E 3 को सूक्ष्म और विस्तृत पाठ्य विवरणों को समझने की क्षमता के लिए जाना जाता है, जिससे यह विचारों को सटीक छवियों में बदल देता है।
+DALL-E 3 द्वारा बनाई गई इमेज क्वालिटी अन्य टेक्स्ट-टू-इमेज जेनरेटर की तुलना में काफी ज़्यादा है, जिसमें खास तौर से शानदार विवरण और फ़ोटोरियलिज़्म के साथ इमेज बनाने पर जोर दिया जाता है।
 
-सिर्फ़ दो सेकंड में सबसे तेज़ जनरेशन, पे-एज़-यू-गो, हर मानक इमेज के लिए $0.0015, तुम अपने खुद के मॉडल जोड़ सकते हो और GPU के रखरखाव से बच सकते हो
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+[More Information and Pricing](https://www.thataicollection.com/en/application/mini-dalle-3-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
+
+
 
 
 ### Anime AI
@@ -789,6 +790,21 @@ GAN की शक्ति से वर्णों या अवतारो�
 
 
 
+### My AskAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
+
+#### कॉफ़ी बनाने में जितनी जल्दी होती है, उससे कहीं ज़्यादा तेज़ी से AI असिस्टेंट बनाएँ
+[Visit](https://www.thataicollection.com/redirect/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+अपनी सभी सामग्री से तुरंत जवाब देकर, अपनी टीम या ग्राहकों को खोजने और पढ़ने में घंटों की बचत करें। अपने दस्तावेज़, वेबसाइट या कॉन्टेंट जोड़ें और <2 मिनट में अपना खुद का AI असिस्टेंट बनाएं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Chatbase
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
 
@@ -863,21 +879,6 @@ ChatBotKit आपको अपनी वेबसाइट, स्लैक, ड
 <br />
 
 
-
-
-### SiteGPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sitegpt.webp" alt="SiteGPT">
-
-#### हर वेबसाइट के लिए ChatGPT
-[Visit](https://www.thataicollection.com/redirect/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-आपकी वेबसाइट की सामग्री पर प्रशिक्षित व्यक्तिगत चैटबॉट के साथ अपने आगंतुकों के सवालों का तुरंत जवाब दें।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 
@@ -4633,6 +4634,23 @@ AI द्वारा संचालित Figma के लिए एक जा
 <br />
 
 
+### Aida
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aida.webp" alt="Aida">
+
+#### Bookmark.com | अपना बिज़नेस शुरू करने के लिए नो-कोड वेबसाइट बिल्डर
+
+[Visit](https://www.thataicollection.com/redirect/aida?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+हमारे AI द्वारा संचालित वेबसाइट बिल्डर को मिनटों में तुम्हारा कारोबार ऑनलाइन करने दें। हमारा AI संचालित प्लेटफ़ॉर्म यह सुनिश्चित करता है कि तुम्हारा व्यवसाय भविष्य में सुरक्षित रहे। बुकमार्क मुफ़्त में आज़माएँ।
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/aida?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Piggy
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-piggy.webp" alt="Piggy">
 
@@ -4642,21 +4660,6 @@ AI द्वारा संचालित Figma के लिए एक जा
 अपने फोन पर शानदार सामग्री बनाना अब आसान हो गया है
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/piggy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Genius by Diagram
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-genius-by-diagram.webp" alt="Genius by Diagram">
-
-#### प्रतिभा - आपका एआई डिजाइन साथी
-[Visit](https://www.thataicollection.com/redirect/genius-by-diagram?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-डायग्राम द्वारा जीनियस की प्रतीक्षा सूची में शामिल हों
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/genius-by-diagram?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -139,6 +139,102 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### Mini Dalle 3 Online
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mini-dalle-3-online.webp" alt="Mini Dalle 3 Online">
+
+#### DALL-E 3: creación de imágenes de alta calidad a partir de texto, sin necesidad de iniciar sesión, acceso gratuito.
+[Visit](https://www.thataicollection.com/redirect/mini-dalle-3-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+El DAL-E 3 se ha destacado por su capacidad de entender descripciones textuales detalladas y matizadas, lo que le permite traducir ideas en imágenes precisas.
+La calidad de imagen que genera el DALL-E 3 es significativamente superior en comparación con otros generadores de conversión de texto a imagen, con un énfasis especial en la producción de imágenes con detalles y fotorrealismo asombrosos.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/mini-dalle-3-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Voice AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voice-ai.webp" alt="Voice AI">
+
+#### Aplicación AI Voice Changer para PC y Mac: cambia tu voz sobre la marcha
+[Visit](https://www.thataicollection.com/redirect/voice-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Descarga ahora el cambiador de voz en tiempo real gratuito para ordenador. Modifica tu voz, selecciona una del universo de la voz o clona la voz que quieras
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/voice-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Prompthunt
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prompthunt.webp" alt="Prompthunt">
+
+#### Prompt Hunt: tu hogar para explorar, crear y compartir arte con IA
+[Visit](https://www.thataicollection.com/redirect/prompthunt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Crea, explora y comparte arte de IA con DALL·E, Stable Diffusion y Midjourney. Crea imágenes de la mejor calidad con una velocidad, un control y un detalle increíbles con Chroma, nuestro modelo de IA avanzada. Crea activos consistentes para ti y tu equipo. Prompt Hunt hace que crear, editar y compartir plantillas sea más fácil que nunca.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/prompthunt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### PrometheanAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prometheanai.webp" alt="PrometheanAI">
+
+#### Inteligencia artificial de Promethean: Inteligencia artificial
+Eso crea mundos virtuales
+[Visit](https://www.thataicollection.com/redirect/prometheanai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Promethean AI, la suite de inteligencia artificial líder en el mundo para la gestión de activos digitales y la creación de mundos virtuales. Da vida a tu visión única para tu público.
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/prometheanai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Aida
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aida.webp" alt="Aida">
+
+#### Bookmark.com | Creador de sitios web sin código para iniciar tu negocio
+
+[Visit](https://www.thataicollection.com/redirect/aida?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Deja que nuestro creador de sitios web con tecnología de IA ponga tu negocio en línea en cuestión de minutos. Nuestra plataforma basada en la IA garantiza que tu empresa esté preparada para el futuro. Prueba Bookmark gratis.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/aida?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Make a Video
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-make-a-video.webp" alt="Make a Video">
+
+#### Make-A-Video es un sistema de IA de última generación que genera vídeos a partir del texto.
+[Visit](https://www.thataicollection.com/redirect/make-a-video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La investigación sobre creación de vídeo se basa en los avances recientes en la tecnología de generación de texto a imagen, creada para permitir la generación de texto a vídeo. El sistema utiliza imágenes con descripciones para saber qué aspecto tiene el mundo y cómo se describe a menudo. Con estos datos, Make-A-Video te permite dar vida a tu imaginación al generar vídeos caprichosos y únicos con solo unas palabras o líneas de texto.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/make-a-video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Afforai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-afforai.webp" alt="Afforai">
 
@@ -148,100 +244,6 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 Afforai es un chatbot de IA que busca, resume y traduce información de varias fuentes para producir investigaciones fiables. ¡Charla con tus documentos y extrae las principales conclusiones relevantes para tus objetivos hoy mismo!
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### My AskAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
-
-#### Crea un asistente de IA más rápido de lo necesario para preparar un café
-[Visit](https://www.thataicollection.com/redirect/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ahorra a tu equipo o a tus clientes horas de búsqueda y lectura, con respuestas instantáneas, de todo tu contenido. Añade tus documentos, sitio web o contenido y crea tu propio asistente de IA en menos de 2 minutos.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Profile Bakery
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-profile-bakery.webp" alt="Profile Bakery">
-
-#### Tu generador profesional de tiros en la cabeza de IA.
-[Visit](https://www.thataicollection.com/redirect/profile-bakery?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nos especializamos en crear impresionantes fotografías de retratos con tecnología de inteligencia artificial. Nuestros retratos están diseñados para capturar tu personalidad única y mostrar tus mejores características. Con nuestro equipo de fotógrafos experimentados y un software avanzado, ofrecemos fotografías de retratos profesionales asequibles y eficientes. 
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/profile-bakery?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Albus
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-albus.webp" alt="Albus">
-
-#### Albus - ChatGPT ahora en Slack | Springworks
-[Visit](https://www.thataicollection.com/redirect/albus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Albus, una plataforma de inteligencia artificial que aprovecha la potencia de ChatGPT para ayudar a los empleados de recursos humanos y optimizar las operaciones de recursos humanos. ¡Ten el poder de ChatGPT4 ahora mismo en tu espacio de trabajo!
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/albus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nudify.online
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online.webp" alt="Nudify.online">
-
-#### Desviste a cualquiera con nuestro servicio GRATUITO. Deepnude AI en Nudify: ¡desnuda a cualquier chica gratis!
-
-[Visit](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Generador de fotos Undress AI para desnudos profundos gratis. Desnuda la IA de Deepnude con la más alta precisión de las fotos de desnudos y bikinis de deepfake. Solo tienes que elegir la edad, el tipo de cuerpo y la calidad y obtendrás el resultado en unos segundos. 
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### novita.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-novita.ai.webp" alt="novita.ai">
-
-#### API de generación de imágenes de IA rápida y barata para más de 10 000 modelos
-
-[Visit](https://www.thataicollection.com/redirect/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-La generación más rápida en solo 2 segundos, pago por uso, 0,0015$ por cada imagen estándar, puedes añadir tus propios modelos y evitar el mantenimiento de la GPU
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Synthesia
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-synthesia.webp" alt="Synthesia">
-
-#### Synthesia: plataforma #1 de generación de vídeo con IA. Convierte tu texto en vídeos en cuestión de minutos
-[Visit](https://www.thataicollection.com/redirect/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Crea vídeos profesionales sin micrófonos, cámaras ni actores con el generador de vídeos de IA con la ayuda de avatares y voces en off de la IA, en más de 120 idiomas.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -616,17 +618,16 @@ Crea fotos de productos excepcionales y más: elige cualquier imagen para comenz
 <br />
 
 
-### novita.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-novita.ai.webp" alt="novita.ai">
+### Mini Dalle 3 Online
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mini-dalle-3-online.webp" alt="Mini Dalle 3 Online">
 
-#### API de generación de imágenes de IA rápida y barata para más de 10 000 modelos
+#### DALL-E 3: creación de imágenes de alta calidad a partir de texto, sin necesidad de iniciar sesión, acceso gratuito.
+[Visit](https://www.thataicollection.com/redirect/mini-dalle-3-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+El DAL-E 3 se ha destacado por su capacidad de entender descripciones textuales detalladas y matizadas, lo que le permite traducir ideas en imágenes precisas.
+La calidad de imagen que genera el DALL-E 3 es significativamente superior en comparación con otros generadores de conversión de texto a imagen, con un énfasis especial en la producción de imágenes con detalles y fotorrealismo asombrosos.
 
-La generación más rápida en solo 2 segundos, pago por uso, 0,0015$ por cada imagen estándar, puedes añadir tus propios modelos y evitar el mantenimiento de la GPU
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/mini-dalle-3-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -789,6 +790,21 @@ Olympia es una herramienta de personal virtual basada en la IA diseñada para em
 
 
 
+### My AskAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
+
+#### Crea un asistente de IA más rápido de lo necesario para preparar un café
+[Visit](https://www.thataicollection.com/redirect/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Ahorra a tu equipo o a tus clientes horas de búsqueda y lectura, con respuestas instantáneas, de todo tu contenido. Añade tus documentos, sitio web o contenido y crea tu propio asistente de IA en menos de 2 minutos.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Chatbase
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
 
@@ -863,21 +879,6 @@ ChatBotKit lo ayuda a crear chatbots conversacionales de IA con sus propios dato
 <br />
 
 
-
-
-### SiteGPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sitegpt.webp" alt="SiteGPT">
-
-#### ChatGPT para cada sitio web
-[Visit](https://www.thataicollection.com/redirect/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Responda instantáneamente a las preguntas de sus visitantes con un chatbot personalizado entrenado en el contenido de su sitio web.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 
@@ -4632,6 +4633,23 @@ Cree un sitio web en 30 segundos con AI: el creador de sitios web de AI que gene
 <br />
 
 
+### Aida
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aida.webp" alt="Aida">
+
+#### Bookmark.com | Creador de sitios web sin código para iniciar tu negocio
+
+[Visit](https://www.thataicollection.com/redirect/aida?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Deja que nuestro creador de sitios web con tecnología de IA ponga tu negocio en línea en cuestión de minutos. Nuestra plataforma basada en la IA garantiza que tu empresa esté preparada para el futuro. Prueba Bookmark gratis.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/aida?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Piggy
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-piggy.webp" alt="Piggy">
 
@@ -4641,21 +4659,6 @@ Cree un sitio web en 30 segundos con AI: el creador de sitios web de AI que gene
 Crear contenido asombroso en tu teléfono ahora es fácil
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/piggy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Genius by Diagram
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-genius-by-diagram.webp" alt="Genius by Diagram">
-
-#### Genius: su compañero de diseño de IA
-[Visit](https://www.thataicollection.com/redirect/genius-by-diagram?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Apúntate a la lista de espera de Genius by Diagram
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/genius-by-diagram?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
