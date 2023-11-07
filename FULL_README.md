@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=941" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=944" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -74,13 +74,12 @@ Translations:
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-olympia.webp" alt="Olympia" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip.webp" alt="Undress.Vip" border="0"/>
     </a>
-    <h4>Affordable virtual staff for solopreneurs and startups.</h4>
-    <p>Olympia is an AI-powered virtual staffing tool designed for solopreneurs and bootstrapped startups. It aims to help businesses grow by providing affordable access to expert consultants with a wide range of skillsets, eliminating the need to hire expensive human employees.
-</p>
-    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Olympia</b></a>
+    <h4>undress.vip–2023 best 100% Working undress ai deepnude </h4>
+    <p>undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Undress.Vip</b></a>
     <br />
 </div>
 
@@ -284,6 +283,7 @@ Translations:
 | [Stylized](https://www.thataicollection.com/redirect/stylized?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The Better Way to Take Product Photos. | From phone to catalog in 30 seconds. | :grey_question: |
 | [TattosAI](https://www.thataicollection.com/redirect/tattosai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-Powered Tattoo Artist - Tattoosai. | If you have an idea for a tattoo but can't find the right design, let our AI generate one within seconds. It lets you create the perfect design based on what you like, and it will give you unlimited options so that there's something for everyone. | :grey_question: |
 | [This campsite does not exist](https://www.thataicollection.com/redirect/this-campsite-does-not-exist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | This Campsite Does Not Exist - 100% AI Generated Campsites 🤖. | AI generated campsites featuring stunning locations, tents, and weather all created by AI using stable diffusion. 100% AI generated campsites using Stable Diffusion. New campsites are added every hour which can be viewed on the new page. Click upvote on any campsite if you like it, view most upvoted campsites on the top page. | :grey_question: |
+| [Undress.Vip](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | undress.vip–2023 best 100% Working undress ai deepnude. | undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots. | :white_check_mark: |
 | [USP](https://www.thataicollection.com/redirect/usp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unique `AI generated` images for writers and creatives. | Awesome AI generated ROYALTY FREE IMAGES for your stories and blog posts. Save time, money and get better images with usp.ai Stop spending so much time looking for the perfect images for your blogs, articles, social media posts, and sales emails... let USP.ai do it for you. | :white_check_mark: |
 | [Visuali](https://www.thataicollection.com/redirect/visuali?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Visuali - Visualize your imagination - AI image generation made easy. | Turn your imagination into reality with Visuali's AI-powered generative art tools. Sign up for a free account now or try it for free by entering a text prompt below. | :grey_question: |
 | [Vizcom AI](https://www.thataicollection.com/redirect/vizcom-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The Next Generation of Product Visualization. | Vizcom's powerful combination of hand sketching and AI processing tools enables designers to create and render faster than ever before. | :white_check_mark: |

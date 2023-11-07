@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=941" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=944" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -68,13 +68,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-olympia.webp" alt="Olympia" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip.webp" alt="Undress.Vip" border="0"/>
     </a>
-    <h4>Доступный виртуальный персонал для индивидуальных предпринимателей и стартапов.</h4>
-    <p>Olympia — это виртуальный кадровый инструмент на базе искусственного интеллекта, предназначенный для индивидуальных предпринимателей и начинающих стартапов. Он призван помочь бизнесу расти, предоставляя доступный доступ к экспертам-консультантам с широким спектром навыков и устраняя необходимость найма дорогостоящих человеческих сотрудников.
-</p>
-    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Olympia</b></a>
+    <h4>undress.vip—2023 лучшее 100% рабочее раздевание в обнаженном виде </h4>
+    <p>Undress.vip, новаторский инструмент для искусственного интеллекта, лежащий в авангарде этого прогресса. undress.vip—2023 лучшие телеграмы раздевают искусственные боты с искусственным интеллектом на 100% работающим искусственным интеллектом в стиле deepnude и deepfake</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Undress.Vip</b></a>
     <br />
 </div>
 
@@ -138,6 +137,21 @@
 - 🛒 [Электронная Торговля](#электронная-торговля)
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
+
+### Undress.Vip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip.webp" alt="Undress.Vip">
+
+#### undress.vip—2023 лучшее 100% рабочее раздевание в обнаженном виде 
+[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress.vip, новаторский инструмент для искусственного интеллекта, лежащий в авангарде этого прогресса. undress.vip—2023 лучшие телеграмы раздевают искусственные боты с искусственным интеллектом на 100% работающим искусственным интеллектом в стиле deepnude и deepfake
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Mini Dalle 3 Online
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mini-dalle-3-online.webp" alt="Mini Dalle 3 Online">
@@ -229,21 +243,6 @@ Promethean AI, ведущий в мире пакет искусственног�
 Исследование Make-A-Video основано на недавнем прогрессе, достигнутом в технологии преобразования текста в изображение, предназначенной для преобразования текста в видео. Система использует изображения с описаниями, чтобы узнать, как выглядит мир и как его часто описывают. Используя эти данные, Make-A-Video позволяет воплотить в жизнь свое воображение, создавая причудливые, единственные в своем роде видеоролики, состоящие всего из нескольких слов или строк текста.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/make-a-video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Afforai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-afforai.webp" alt="Afforai">
-
-#### Ваш второй пилот по чтению с помощью искусственного интеллекта. Необходимые инструменты для анализа текста, исследований и поиска документов
-[Visit](https://www.thataicollection.com/redirect/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Afforai — это чат-бот с искусственным интеллектом, который ищет, обобщает и переводит информацию из нескольких источников для проведения заслуживающих доверия исследований. Общайтесь со своими документами и извлекайте ключевые выводы, относящиеся к вашим целям уже сегодня!
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -543,6 +542,21 @@ Plask предлагает искусственный захват движен�
 
 ## Генератор изображений и изображений
 
+### Undress.Vip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip.webp" alt="Undress.Vip">
+
+#### undress.vip—2023 лучшее 100% рабочее раздевание в обнаженном виде 
+[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress.vip, новаторский инструмент для искусственного интеллекта, лежащий в авангарде этого прогресса. undress.vip—2023 лучшие телеграмы раздевают искусственные боты с искусственным интеллектом на 100% работающим искусственным интеллектом в стиле deepnude и deepfake
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Getimg.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getimg.ai.webp" alt="Getimg.ai">
 
@@ -616,22 +630,6 @@ Playground AI — это бесплатный онлайн-редактор из
 <br />
 
 <br />
-
-
-### Mini Dalle 3 Online
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mini-dalle-3-online.webp" alt="Mini Dalle 3 Online">
-
-#### DALL-E 3: создание высококачественных изображений из текста, вход в систему не требуется, бесплатный доступ.
-[Visit](https://www.thataicollection.com/redirect/mini-dalle-3-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-DALL-E 3 отличается способностью понимать детальные и детальные текстовые описания, что позволяет воплощать идеи в точные изображения.
-Качество изображения, создаваемого DALL-E 3, значительно выше по сравнению с другими генераторами преобразования текста в изображение, при этом особое внимание уделяется созданию изображений с потрясающей детализацией и фотореалистичностью.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/mini-dalle-3-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ### Anime AI
