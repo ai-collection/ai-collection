@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=941" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=944" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -68,13 +68,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-olympia.webp" alt="Olympia" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip.webp" alt="Undress.Vip" border="0"/>
     </a>
-    <h4>为个体企业家和初创企业提供负担得起的虚拟员工。</h4>
-    <p>Olympia是一款由人工智能驱动的虚拟人员配备工具，专为自营企业家和自力更生的初创企业而设计。它旨在通过提供负担得起的具有广泛技能的专家顾问来帮助企业发展，从而无需雇用昂贵的人力员工。
-</p>
-    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Olympia</b></a>
+    <h4>undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude </h4>
+    <p>Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Undress.Vip</b></a>
     <br />
 </div>
 
@@ -1089,6 +1088,7 @@
 | [Stylized](https://www.thataicollection.com/redirect/stylized?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 拍摄产品照片的更好方式. | 30 秒内从电话到目录. | :grey_question: |
 | [TattosAI](https://www.thataicollection.com/redirect/tattosai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能纹身艺术家 - TattoosAI. | 如果您有纹身的想法但找不到合适的设计，让我们的 AI 在几秒钟内生成一个。它可以让您根据自己的喜好创建完美的设计，并为您提供无限的选择，让每个人都能找到适合自己的东西。. | :grey_question: |
 | [This campsite does not exist](https://www.thataicollection.com/redirect/this-campsite-does-not-exist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 这个露营地不存在-100% 人工智能生成的露营地 🤖. | 人工智能生成的露营地，包括令人惊叹的地点、帐篷和天气，所有这些都是由人工智能使用稳定的扩散创建的。 100% 使用稳定扩散生成的 AI 露营地。每小时都会添加新的露营地，可以在新页面上查看。如果你愿意，可以在任何露营地上点击 upvote，在首页查看最受好评的露营地。. | :grey_question: |
+| [Undress.Vip](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude. | Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人. | :white_check_mark: |
 | [USP](https://www.thataicollection.com/redirect/usp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为作家和创意人员提供独特的“人工智能生成”图像. | 出色的人工智能为您的故事和博客文章生成免版税图像。使用 usp.ai 节省时间、金钱并获得更好的图像 无需花费大量时间为您的博客、文章、社交媒体帖子和销售电子邮件寻找完美的图像......让 USP.ai 为您做这件事。. | :white_check_mark: |
 | [Visuali](https://www.thataicollection.com/redirect/visuali?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Visuali-可视化你的想象力-轻松生成人工智能图像. | 使用 Visuali 的人工智能生成艺术工具，将你的想象力变为现实。立即注册一个免费帐户，或者在下面输入文字提示免费试用。. | :grey_question: |
 | [Vizcom AI](https://www.thataicollection.com/redirect/vizcom-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 下一代产品可视化. | Vizcom 的手绘草图和 AI 处理工具的强大组合使设计师能够比以往更快地创建和渲染。. | :white_check_mark: |

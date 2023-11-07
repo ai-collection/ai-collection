@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=941" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=944" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -68,13 +68,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-olympia.webp" alt="Olympia" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip.webp" alt="Undress.Vip" border="0"/>
     </a>
-    <h4>Du personnel virtuel abordable pour les solopreneurs et les startups.</h4>
-    <p>Olympia est un outil de recrutement virtuel basé sur l'IA conçu pour les solopreneurs et les start-up en démarrage. Il vise à aider les entreprises à se développer en fournissant un accès abordable à des consultants experts dotés d'un large éventail de compétences, éliminant ainsi le besoin d'embaucher des employés humains onéreux.
-</p>
-    <a href="https://www.thataicollection.com/redirect/olympia/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Olympia</b></a>
+    <h4>undress.vip—Le meilleur déshabillage 100 % fonctionnel de 2023 sur deepnude </h4>
+    <p>Undress.vip, un outil d'IA révolutionnaire qui joue un rôle de premier plan dans cette progression. undress.vip—2023 best 100 % Working AI Deepnude & Deepfake Telegram Undress AI Bots</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Undress.Vip</b></a>
     <br />
 </div>
 
@@ -643,6 +642,7 @@
 | [Stylized](https://www.thataicollection.com/redirect/stylized?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | La meilleure façon de prendre des photos de produits. | Du téléphone au catalogue en 30 secondes. | :grey_question: |
 | [TattosAI](https://www.thataicollection.com/redirect/tattosai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tatoueur propulsé par l'IA - TattoosAI. | Si vous avez une idée de tatouage mais que vous ne trouvez pas le bon design, laissez notre IA en générer une en quelques secondes. Il vous permet de créer le design parfait en fonction de ce que vous aimez et vous offre des options illimitées pour qu'il y en ait pour tous les goûts. | :grey_question: |
 | [This campsite does not exist](https://www.thataicollection.com/redirect/this-campsite-does-not-exist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ce camping n'existe pas - Campings 100 % créés par l'IA 🤖. | Des campings créés par l'IA proposant des emplacements, des tentes et des conditions météorologiques magnifiques, tous créés par l'IA en utilisant une diffusion stable. Des campings générés à 100 % par IA grâce à Stable Diffusion. De nouveaux campings sont ajoutés toutes les heures et peuvent être consultés sur la nouvelle page. Cliquez sur Vote pour n'importe quel camping si tu aimes, voir les campings les plus favorables sur la page d'accueil. | :grey_question: |
+| [Undress.Vip](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | undress.vip—Le meilleur déshabillage 100 % fonctionnel de 2023 sur deepnude. | Undress.vip, un outil d'IA révolutionnaire qui joue un rôle de premier plan dans cette progression. undress.vip—2023 best 100 % Working AI Deepnude & Deepfake Telegram Undress AI Bots. | :white_check_mark: |
 | [USP](https://www.thataicollection.com/redirect/usp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Images uniques « générées par l'IA » pour les écrivains et les créatifs. | De superbes IMAGES SANS ROYALTIES générées par l'IA pour vos histoires et vos articles de blog. Gagnez du temps, de l'argent et obtenez de meilleures images avec usp.ai Arrêtez de passer autant de temps à chercher les images parfaites pour vos blogs, articles, publications sur les réseaux sociaux et e-mails commerciaux... laissez USP.ai le faire pour vous. | :white_check_mark: |
 | [Visuali](https://www.thataicollection.com/redirect/visuali?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Visuali - Visualise ton imagination - La génération d'images par l'IA en toute simplicité. | Transforme ton imagination en réalité grâce aux outils artistiques génératifs basés sur l'IA de Visuali. Ouvrez un compte gratuit dès maintenant ou essayez-le gratuitement en saisissant le message ci-dessous. | :grey_question: |
 | [Vizcom AI](https://www.thataicollection.com/redirect/vizcom-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | La nouvelle génération de visualisation de produits. | La puissante combinaison d'outils de dessin à la main et de traitement de l'IA de Vizcom permet aux concepteurs de créer et de rendre plus rapidement que jamais. | :white_check_mark: |
