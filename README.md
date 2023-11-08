@@ -42,7 +42,7 @@
     <a href="https://www.thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
 
---- 
+---
 
 Translations:
 - Русский: [README.ru.md](https://github.com/ai-collection/ai-collection/blob/main/README.ru.md)
@@ -64,7 +64,7 @@ Translations:
     </a>
     <h4>BeeBee.AI is tailored for the US stock market, catering to long-term investors who primarily focus on fundamental analysis, and who value data and information.</h4>
     <p>We support over 2000 companies (including Dow Jones 30, S&P500, NASDAQ 100, ranked by trade volume and activity). Leveraging the GPT foundation and combining it with specialized NLP mini-models. We primarily offer two core services:
-(1) Comprehensive interpretation of earnings reports and conference calls. 
+(1) Comprehensive interpretation of earnings reports and conference calls.
 (2) In-depth analysis of a company’s extensive digital footprint. </p>
     <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with BeeBee AI</b></a>
     <br />
@@ -75,7 +75,7 @@ Translations:
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip.webp" alt="Undress.Vip" border="0"/>
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
     </a>
     <h4>undress.vip–2023 best 100% Working undress ai deepnude </h4>
     <p>undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots</p>
@@ -145,9 +145,9 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 ## Latest Additions to AI Collection
 
 ### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip.webp" alt="Undress.Vip">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
 
-#### undress.vip–2023 best 100% Working undress ai deepnude 
+#### undress.vip–2023 best 100% Working undress ai deepnude
 [Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots
@@ -264,8 +264,8 @@ Make-A-Video research builds on the recent progress made in text-to-image genera
 [Visit](https://www.thataicollection.com/redirect/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 We support over 2000 companies (including Dow Jones 30, S&P500, NASDAQ 100, ranked by trade volume and activity). Leveraging the GPT foundation and combining it with specialized NLP mini-models. We primarily offer two core services:
-(1) Comprehensive interpretation of earnings reports and conference calls. 
-(2) In-depth analysis of a company’s extensive digital footprint. 
+(1) Comprehensive interpretation of earnings reports and conference calls.
+(2) In-depth analysis of a company’s extensive digital footprint.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -483,7 +483,7 @@ Use our powerful AI technology to generate any type of image you can think of. I
 #### Dimensions - Rapidly Create Visual Concepts With AI
 [Visit](https://www.thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Imagine being able to create beautiful interior designs with ease – thats what Dimensions offers. 
+Imagine being able to create beautiful interior designs with ease – thats what Dimensions offers.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -549,9 +549,9 @@ Remodel and Design your spaces with Remodel AI - The first and #1 AI for remodel
 ## Art & Image Generator
 
 ### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip.webp" alt="Undress.Vip">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
 
-#### undress.vip–2023 best 100% Working undress ai deepnude 
+#### undress.vip–2023 best 100% Working undress ai deepnude
 [Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots
@@ -973,7 +973,7 @@ TLDR is an IDE plugin that leverages AI to explain code in plain english.
 ### Klu
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-klu.webp" alt="Klu">
 
-#### Klu.ai is an all-in-one platform designed for AI teams to build, deploy, and optimize Generative AI applications. 
+#### Klu.ai is an all-in-one platform designed for AI teams to build, deploy, and optimize Generative AI applications.
 [Visit](https://www.thataicollection.com/redirect/klu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 Klu.ai is an all-in-one platform designed for AI teams to build, deploy, and optimize Generative AI applications. It allows users to easily design, develop, and iterate Generative AI features and apps using its intuitive interface called Klu Studio.
@@ -1508,7 +1508,7 @@ Your free, personal teaching assistant. Ask questions, get answers. Botta makes 
 #### Speaking Club AI
 [Visit](https://www.thataicollection.com/redirect/speakingclubai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Welcome to Speaking Club AI - the ultimate language learning tool for anyone looking to improve their speaking skills in a foreign language. With Speaking Club AI, you can practice    your conversation skills with a personalized AI language partner anytime, anywhere.  
+Welcome to Speaking Club AI - the ultimate language learning tool for anyone looking to improve their speaking skills in a foreign language. With Speaking Club AI, you can practice    your conversation skills with a personalized AI language partner anytime, anywhere.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/speakingclubai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -2353,7 +2353,7 @@ As content creators, we all encounter moments when our well of ideas runs dry. T
 ### My Spicy Vanilla
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-spicy-vanilla.webp" alt="My Spicy Vanilla">
 
-#### AI Date Idea Generator by My Spicy Vanilla 
+#### AI Date Idea Generator by My Spicy Vanilla
 [Visit](https://www.thataicollection.com/redirect/my-spicy-vanilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 AI Date Idea Generator by My Spicy Vanilla is a tool that utilizes AI to generate unique date night plans.
@@ -3563,7 +3563,7 @@ Our platform transforms your key product details and objectives into persuasive 
 #### Hoppy Copy: AI Email Marketing Copywriting Platform
 [Visit](https://www.thataicollection.com/redirect/hoppy-copy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Save countless hours writing. Use AI to generate powerful copy for hundreds of different email marketing campaigns, drips, newsletters and more—in seconds ⚡ 
+Save countless hours writing. Use AI to generate powerful copy for hundreds of different email marketing campaigns, drips, newsletters and more—in seconds ⚡
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/hoppy-copy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -4704,7 +4704,7 @@ IX.AI: Your Most Powerful, All-In-One AI Writing Copilot. Generate high-quality 
 
 Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost!
 Generate killer content, effortlessly
-Never face writer's block again — from blogs to emails to ad copies, auto-generate catchy, original, and high-converting copies in popular tones & languages in just a few seconds. 
+Never face writer's block again — from blogs to emails to ad copies, auto-generate catchy, original, and high-converting copies in popular tones & languages in just a few seconds.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/rytr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
