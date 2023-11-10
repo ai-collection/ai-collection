@@ -4454,6 +4454,24 @@ Stork 帮助团队改善沟通和生产力。它是混合和远程团队的商�
 
 ## 视频
 
+### Vidnoz AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai.webp" alt="Vidnoz AI">
+
+#### Vidnoz AI：推出免费的人工智能视频平台，将用户成本降低80％，并将生产力提高10倍
+[Visit](https://www.thataicollection.com/redirect/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+免费的人工智能视频生成器——Vidnoz AI，它可以帮助人们比以往任何时候都更轻松、更快地制作视频。为了利用其高效的人工智能视频工具使更多人受益，Vidnoz
+向所有用户提供每日免费视频生成权限。通过使用 AI 头像、视频
+模板和其他基于人工智能的工具，Vidnoz 上的每个人都可以创建引人入胜的视频
+毫不费力
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Synthesia
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-synthesia.webp" alt="Synthesia">
 
@@ -4541,21 +4559,6 @@ Colossyan Creator 让视频创作变得简单、无压力。与真实演员一�
 从您的长篇内容中自动创建简短的、高度共享的品牌视频
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pictory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AI Host
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-host.webp" alt="AI Host">
-
-#### 运行交互式直播
-[Visit](https://www.thataicollection.com/redirect/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LiveReacting 通过将预先录制的视频、游戏、倒计时和投票添加到您的流中，帮助您获得更多关注者和参与度。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

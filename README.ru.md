@@ -4454,6 +4454,24 @@ Stork помогает командам улучшить коммуникаци�
 
 ## видео
 
+### Vidnoz AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai.webp" alt="Vidnoz AI">
+
+#### Vidnoz AI: представляем бесплатную видеоплатформу с искусственным интеллектом, позволяющую сократить расходы пользователей на 80% и повысить производительность в 10 раз
+[Visit](https://www.thataicollection.com/redirect/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+бесплатный генератор видео с искусственным интеллектом — Vidnoz AI, который помогает людям делать видео проще и быстрее, чем когда-либо прежде. Чтобы помочь большему количеству людей с помощью эффективных видеоинструментов с искусственным интеллектом, Vidnoz
+предоставляет всем пользователям ежедневный бесплатный доступ к генерации видео. Используя аватары AI, видео
+шаблоны и другие инструменты на основе искусственного интеллекта позволяют каждому пользователю Vidnoz создавать увлекательные видеоролики
+Без о
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Synthesia
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-synthesia.webp" alt="Synthesia">
 
@@ -4545,21 +4563,6 @@ Colossyan Creator делает создание видео простым и л�
 <br />
 
 <br />
-
-
-### AI Host
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-host.webp" alt="AI Host">
-
-#### Запуск интерактивных прямых трансляций
-[Visit](https://www.thataicollection.com/redirect/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LiveReacting помогает вам привлечь больше подписчиков и вовлеченности, добавляя в свою трансляцию предварительно записанные видео, игры, обратный отсчет и опросы.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 
