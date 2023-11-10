@@ -42,7 +42,7 @@
     <a href="https://www.thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
 
---- 
+---
 
 Translations:
 - Русский: [README.ru.md](https://github.com/ai-collection/ai-collection/blob/main/README.ru.md)
@@ -64,7 +64,7 @@ Translations:
     </a>
     <h4>BeeBee.AI is tailored for the US stock market, catering to long-term investors who primarily focus on fundamental analysis, and who value data and information.</h4>
     <p>We support over 2000 companies (including Dow Jones 30, S&P500, NASDAQ 100, ranked by trade volume and activity). Leveraging the GPT foundation and combining it with specialized NLP mini-models. We primarily offer two core services:
-(1) Comprehensive interpretation of earnings reports and conference calls. 
+(1) Comprehensive interpretation of earnings reports and conference calls.
 (2) In-depth analysis of a company’s extensive digital footprint. </p>
     <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with BeeBee AI</b></a>
     <br />
@@ -75,7 +75,7 @@ Translations:
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip.webp" alt="Undress.Vip" border="0"/>
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
     </a>
     <h4>undress.vip–2023 best 100% Working undress ai deepnude </h4>
     <p>undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots</p>

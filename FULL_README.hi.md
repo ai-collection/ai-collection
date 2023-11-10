@@ -42,7 +42,7 @@
     <a href="https://www.thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
 
---- 
+---
 > वेबसाइट को हिंदी में देखने के लिए आप इस टूल में वेबसाइट लिंक को कॉपी कर सकते हैं - [link](https://translate.google.com/?sl=en&tl=hi&op=websites)
 
 ---
@@ -58,7 +58,7 @@
     </a>
     <h4>BeeBee.AI को अमेरिका के शेयर बाज़ार के लिए तैयार किया गया है, जो लंबी अवधि के निवेशकों के लिए है, जो मुख्य रूप से फ़ंडामेंटल विश्लेषण पर ध्यान देते हैं, और जो डेटा और जानकारी को महत्व देते हैं।</h4>
     <p>हम 2000 से ज़्यादा कंपनियों को सपोर्ट करते हैं (जिनमें डॉव जोन्स 30, S&P500, NASDAQ 100 शामिल हैं, जिन्हें ट्रेड वॉल्यूम और गतिविधि के आधार पर रैंक किया गया है)। GPT फ़ाउंडेशन का फ़ाउंडेशन का इस्तेमाल करना और इसे खास NLP मिनी-मॉडल्स के साथ जोड़ना। हम मुख्य रूप से दो मुख्य सेवाएँ देते हैं:
-(1) कमाई की रिपोर्ट और कॉन्फ़्रेंस कॉल की व्यापक व्याख्या। 
+(1) कमाई की रिपोर्ट और कॉन्फ़्रेंस कॉल की व्यापक व्याख्या।
 (2) कंपनी के व्यापक डिजिटल फ़ुटप्रिंट का गहन विश्लेषण। </p>
     <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>BeeBee AI के साथ आरंभ करें</b></a>
     <br />
@@ -69,7 +69,7 @@
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip.webp" alt="Undress.Vip" border="0"/>
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
     </a>
     <h4>कपड़े उतारना.vip—2023 सबसे अच्छा 100% काम करने वाला अनड्रेस ऐ डीप न्यूड </h4>
     <p>Undress.vip, एक ज़बरदस्त एयर टूल, जो इस प्रगति में सबसे आगे है। undress.vip—2023 सबसे अच्छा 100% वर्किंग एआई डीपन्यूड और डीपफ़ेक टेलीग्राम अनड्रेस एयर बॉट्स</p>
