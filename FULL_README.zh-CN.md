@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=944" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=947" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -42,7 +42,7 @@
     <a href="https://www.thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
 
----
+--- 
 > 您可以复制粘贴网站链接到此工具以查看中文网站 - [link](https://translate.google.com/?sl=en&tl=zh-CN&op=websites)
 
 ---
@@ -58,7 +58,7 @@
     </a>
     <h4>BeeBee.AI 专为美国股市量身定制，适合主要关注基本面分析并重视数据和信息的长期投资者。</h4>
     <p>我们为2000多家公司提供支持（包括道琼斯30指数、标准普尔500指数、纳斯达克100指数，按交易量和活动排序）。利用 GPT 基础并将其与专门的 NLP 迷你模型相结合。我们主要提供两项核心服务：
-（1）全面解读财报和电话会议。
+（1）全面解读财报和电话会议。 
 (2) 对公司广泛的数字足迹的深入分析。 </p>
     <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 BeeBee AI</b></a>
     <br />
@@ -69,7 +69,7 @@
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip.webp" alt="Undress.Vip" border="0"/>
     </a>
     <h4>undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude </h4>
     <p>Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人</p>
@@ -179,6 +179,7 @@
 |---|---|---|:---:|
 | [Adrenaline](https://www.thataicollection.com/redirect/adrenaline?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 停止将错误插入 Stack Overflow. | Adrenaline 是由 OpenAI Codex 提供支持的调试助手。它可以在几秒钟内修复并解释您损坏的代码。. | :white_check_mark: |
 | [AI Docstrings](https://www.thataicollection.com/redirect/ai-docstrings?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 自动编写文档字符串. | Trelent 使用 AI 立即为您的函数编写有用的文档字符串。. | :white_check_mark: |
+| [ai2sql](https://www.thataicollection.com/redirect/ai2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SQL 查询生成器-SQL 查询生成器 AI Bot. | 借助 Ai2SQL，工程师和非工程师可以在不知道 SQL 的情况下轻松编写高效、无错误的 SQL 查询。基于 AI 的 SQL 查询生成器让初学者无需任何 SQL 知识即可快速构建 SQL 查询。. | :white_check_mark: |
 | [aidev.codes](https://www.thataicollection.com/redirect/aidev.codes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为您编写 AI 开发代码. | 只需输入规格即可创建简单的应用程序和演示——一种新型的 AI 提示工程。. | :white_check_mark: |
 | [Anania](https://www.thataicollection.com/redirect/anania?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 分析助手. | 就您的数据和文件提出问题. | :white_check_mark: |
 | [Ask Command](https://www.thataicollection.com/redirect/ask-command?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ask Command——人工智能驱动的开发者助手. | 一个小应用程序，可以提醒您那些您总是忘记的命令。由人工智能提供支持。. | :grey_question: |
@@ -526,6 +527,7 @@
 ## 徽标生成器
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
+| [AI Logo Generator](https://www.thataicollection.com/redirect/ai-logo-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 精度制作徽标：快速、免费、完美无瑕。. | 探索终极 AI 徽标生成器：使用我们的高级 AI，在几分钟内创建自定义的、行业特定的徽标。无需设计技能。免费生成科技、零售、房地产等领域的徽标。自定义颜色、字体和布局，然后以 PNG、JPG、PDF、SVG 格式下载。非常适合企业、个人品牌推广等！. | :white_check_mark: |
 | [Logo Rank](https://www.thataicollection.com/redirect/logo-rank?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Brandmark 徽标制作器-最先进的人工智能徽标设计工具. | 为您的企业创建独一无二的专业徽标 用名片设计、社交媒体图片、应用程序图标、信头等来启动你的品牌. | :grey_question: |
 | [Looka](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费徽标制作工具和智能品牌设计师. | 使用 Looka 制作徽标并打造您喜爱的品牌。. | :white_check_mark: |
 | [Make Logo AI](https://www.thataicollection.com/redirect/make-logo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | MakeLogo.AI：为您的初创公司制作完美的徽标。. | 在人工智能的支持下，为您的初创公司生成精美而独特的徽标。. | :x: |
@@ -556,6 +558,7 @@
 |---|---|---|:---:|
 | [Anypod](https://www.thataicollection.com/redirect/anypod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为创作者打造的搜索引擎. | 我们让您的内容可搜索. | :white_check_mark: |
 | [Broker One AI Engine](https://www.thataicollection.com/redirect/broker-one-ai-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Broker One AI 引擎是一款人工智能驱动的工具，可简化房地产业务。. | Broker One AI Engine 是一款最先进的人工智能工具，专为复杂的房地产世界而设计。这个创新平台将人工智能的力量与庞大而全面的房产数据集相结合，提供准确的房产估价并实现高效的房产浏览。 Broker One AI Engine 以其复杂的房产搜索功能脱颖而出。. | :white_check_mark: |
+| [Everypixel](https://www.thataicollection.com/redirect/everypixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 图库图片搜索引擎-50 多个最佳来源-Everypixel. | 图库图片查找器适合所有讨厌劣库存照片的人。使用它可以以最低的价格找到最好的许可图片。超过 50 个图像来源。. | :grey_question: |
 | [Lexii.ai](https://www.thataicollection.com/redirect/lexii.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 乐视网. | Lexii.ai 是一个 AI 搜索助手，可以回答问题并引用来源。. | :white_check_mark: |
 | [namefinder.ai](https://www.thataicollection.com/redirect/namefinder.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的业务和域名生成器. | 在 Namefinder，我们的目标是通过为他们的企业提出域名来节省人们的时间。我们通过根据他们的网站需要提出名称来做到这一点，在此之前我们检查域注册以仅提供可用的域名以供选择。全部由 Chat Gpt 提供支持。. | :white_check_mark: |
 | [OpenArt Photo Booth](https://www.thataicollection.com/redirect/openart-photo-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 发现并生成 AI 艺术 - OpenArt. | 搜索10M+提示，通过Stable Diffusion生成AI艺术，DALL·E 2。. | :white_check_mark: |
@@ -572,6 +575,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [Botta](https://www.thataicollection.com/redirect/botta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 话题有问题？认识博塔. | 您的免费个人助教。提出问题，获得答案。 Botta 让在线学习变得轻而易举。. | :white_check_mark: |
+| [Coursebox](https://www.thataicollection.com/redirect/coursebox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 课程创建器和学习管理系统. | 使用人工智能快速创建在线课程。Coursebox 可在几分钟内为您设计并生成可编辑的课程。. | :white_check_mark: |
 | [Cratecode](https://www.thataicollection.com/redirect/cratecode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cratecode - 免费学习编码. | 通过在线课程和强大的 AI 助手学习编码！该助手可以分析您的代码，将您推向正确的方向，并为简单的主题撰写文章。. | :white_check_mark: |
 | [Lorro](https://www.thataicollection.com/redirect/lorro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 花很少的钱就能说一口流利的英语。通过与 AI 导师交谈. | 使用由 AI 和 GPT-3 提供支持的高度个性化、令人兴奋的副本，让您的冷冰冰的电子邮件变得更加温暖. | :white_check_mark: |
 | [QUIZGECKO](https://www.thataicollection.com/redirect/quizgecko?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 停止浪费时间手动创建测验. | 从任何文本即时创建和共享测验问题、抽认卡和笔记。非常适合企业、教育工作者和学生。. | :white_check_mark: |
@@ -699,6 +703,7 @@
 |---|---|---|:---:|
 | [AI Image Enlarger](https://www.thataicollection.com/redirect/ai-image-enlarger?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 图像放大器放大和增强图像. | 一键式 AI 解决方案让您的照片更清晰、更清晰、更干净。提高图像分辨率而不损失质量。令人惊叹的质量和结果。将任何小图像放大到 2k 和 4k，而不会损失质量。锐化细节以改善图像的共享和打印视觉效果。照片增强对每个人来说都很容易！. | :white_check_mark: |
 | [AVC AI](https://www.thataicollection.com/redirect/avc-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在线 AI 图像增强器，通过放大、去噪、恢复、面部细化等提高照片质量. | 使用深度学习算法自动轻松地提高和恢复照片质量。借助人工智能的力量获得更好的照片质量。将图像分辨率从低到高提升，并通过去噪、锐化、面部修饰、着色、颜色校准等来提高其质量。. | :x: |
+| [Background Blur](https://www.thataicollection.com/redirect/background-blur?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用AI免费在线模糊照片背景. | 在几秒钟内增加照片的深度！AI 可以模糊照片的背景并突出显示你的拍摄对象。只需上传人像、产品拍摄、宠物照片或更多，让 AI 制作模糊背景。. | :white_check_mark: |
 | [Blend](https://www.thataicollection.com/redirect/blend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 在几秒钟内制作出令人惊叹的产品视觉效果. | 为您的产品创建令人惊叹的视觉效果所需的一切 - 只需几秒钟！将您的产品传送到专业级 AI 生成的背景中。使用直观的编辑器获取 1000 个可自定义的模板。. | :white_check_mark: |
 | [Blend Studio](https://www.thataicollection.com/redirect/blend-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 文本到图像 AI 背景生成器. | 根据您的描述，使用 AI 生成的背景场景为您的产品创建精美的高质量照片。. | :white_check_mark: |
 | [Claid.ai](https://www.thataicollection.com/redirect/claid.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 创建精美的转换内容. | 使用我们的人工智能产品套件自动化端到端图像创建并促进您的业务。创建适合您品牌的多个产品图像。通过将无聊的产品图像转变为拍摄质量的营销图像，简化您的内容创建过程. | :white_check_mark: |
@@ -716,6 +721,7 @@
 | [jpgRM](https://www.thataicollection.com/redirect/jpgrm?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | jpgRM - AI图像魔术清理. | 使用 2022 尖端 AI 模型从图像中删除任何不需要的对象，自动填充背景. | :grey_question: |
 | [Liro.ai](https://www.thataicollection.com/redirect/liro.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Liro.ai 是一款在线 AI 图像生成器，只需点击一下即可轻松生成任何你能想象的东西。. | -100% 私有镜像生成 -未经审查的稳定扩散 -五种图像生成风格 -易于使用的用户界面 -高品质图片 -负面提示 -快速生成时间 -商业用途. | :white_check_mark: |
 | [Magic Eraser](https://www.thataicollection.com/redirect/magic-eraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Magic Studio - 由人工智能驱动，由你创造. | Magic Studio 使用 AI 帮助您自动编辑和创建图像. | :grey_question: |
+| [Old Photo Restoration](https://www.thataicollection.com/redirect/old-photo-restoration?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 在几秒钟内免费在线恢复旧照片. | 人工智能旧照片修复可以修复和增强已售出、损坏或褪色的照片。我们使用先进的技术和技术来恢复复古版画的色彩、清晰度和质感，有助于为子孙后代保留珍贵的回忆。无论您是想修复旧的家庭照片还是复古纪念品，我们的旧照片修复服务都将为珍贵的纪念品注入新的活力。. | :white_check_mark: |
 | [OurBabyAI](https://www.thataicollection.com/redirect/ourbabyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在 AI 生成的照片中看到你未来的宝贝 附上父母的照片或 4D 超声波扫描. | 只需上传照片，让我们的人工智能神奇地生成你未来宝宝的照片。 用父母的照片看宝宝  一天之内送达 #1 匹配率为 90% 的婴儿生成器 被 5,500 多位满意的客户评为 4.8 🌟. | :grey_question: |
 | [paintbytext](https://www.thataicollection.com/redirect/paintbytext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 按文字绘画. | paintbytext - 在 AI 的帮助下，使用书面说明编辑您的照片. | :white_check_mark: |
 | [Palette](https://www.thataicollection.com/redirect/palette?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 调色板 - 给照片上色. | 一种新的 AI 着色器。为旧黑白照片中的任何内容着色 ð¸，为您的作品设计风格 ð¨，或为现代图像赋予全新的外观 ð¶。就像 instagram 一样简单. | :white_check_mark: |
@@ -969,6 +975,7 @@
 | [PageLines](https://www.thataicollection.com/redirect/pagelines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 网站的 AI 代理. | ChapGPT 支持的代理和聊天机器人可改善您的网站和营销. | :white_check_mark: |
 | [SiteGPT](https://www.thataicollection.com/redirect/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 每个网站的 ChatGPT. | 使用根据您的网站内容训练的个性化聊天机器人即时回答访问者的问题。. | :white_check_mark: |
 | [SiteSpeakAI](https://www.thataicollection.com/redirect/sitespeakai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 ChatGPT 实现客户支持自动化。. | 使用你自己的内容、支持文档、PDF、API 或数据库创建经过自定义训练的 AI 支持聊天机器人。然后使用一行代码将其添加到您的网站中，以实时回答访客的问题并减少您的支持请求量。. | :white_check_mark: |
+| [YesChat-Free Claude 2 Globally](https://www.thataicollection.com/redirect/yeschat-free-claude-2-globally?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费全球聊天，不受地区或电话号码限制，Claude 2的AI力量在后面。. | YesChat.ai 利用了 Claude 2 的尖端自然语言处理 API。它继承了 Claude 2 的高级能力，例如分析复杂文档、生成代码、总结多达 100,000 个代币的长文本，以及提供深思熟虑、细致入微的回应。. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
@@ -1132,6 +1139,7 @@
 | [Synthesia](https://www.thataicollection.com/redirect/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Synthesia-#1 人工智能视频生成平台。在几分钟内将你的文字变成视频. | 借助人工智能头像和画外音，使用人工智能视频生成器制作没有麦克风、摄像头或演员的专业视频，支持超过 120 种语言。. | :grey_question: |
 | [ToWords](https://www.thataicollection.com/redirect/towords?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ToWords：YouTube 到单词. | 用文字让您的视频和音频生动起来. | :grey_question: |
 | [Typestudio](https://www.thataicollection.com/redirect/typestudio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Type Studio â 通过编辑文本来编辑您的视频. | Type Studio 是一种快速、简单、愉快的方式来编辑和发展你的播客、流媒体和采访。. | :grey_question: |
+| [Vidnoz AI](https://www.thataicollection.com/redirect/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Vidnoz AI：推出免费的人工智能视频平台，将用户成本降低80％，并将生产力提高10倍. | 免费的人工智能视频生成器——Vidnoz AI，它可以帮助人们比以往任何时候都更轻松、更快地制作视频。为了利用其高效的人工智能视频工具使更多人受益，Vidnoz 向所有用户提供每日免费视频生成权限。通过使用 AI 头像、视频 模板和其他基于人工智能的工具，Vidnoz 上的每个人都可以创建引人入胜的视频 毫不费力. | :white_check_mark: |
 | [Vidyo](https://www.thataicollection.com/redirect/vidyo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 基于 AI 的内容再利用 - vidyo.ai. | 使用 AI 从您的视频创建适合社交的短片 ✨ 节省 90% 的时间和精力. | :grey_question: |
 | [Waymark](https://www.thataicollection.com/redirect/waymark?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过令人难以置信的简单视频促进本地销售。. | 当电视、CTV 和数字广告如此轻松时，可能性是无限的。高影响力的广告现在向所有人开放，Waymark。. | :grey_question: |
 | [Wzrd.ai](https://www.thataicollection.com/redirect/wzrd.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 体验您的声音. | WZRD 通过人工智能支持的沉浸式视频增强您的音频. | :grey_question: |
@@ -1254,7 +1262,6 @@
 | [AI Sports Prediction](https://www.thataicollection.com/redirect/ai-sports-prediction?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能体育博彩预测 - 人工智能体育预测. | . | :grey_question: |
 | [AI SQL BOT](https://www.thataicollection.com/redirect/ai-sql-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI SQL 查询生成器：无需先验 SQL 知识即可构建 SQL 查询的最简单方法 - 使用 AI 的 SQL 查询生成器. | . | :grey_question: |
 | [AI Writer by Picsart](https://www.thataicollection.com/redirect/ai-writer-by-picsart?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费编辑图片、视频和文档 - Picsart Quicktools. | 为您的图像创建透明背景、修剪视频和转换文件类型——使用 Quicktools 即可完成这一切。. | :white_check_mark: |
-| [ai2sql](https://www.thataicollection.com/redirect/ai2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SQL 查询生成器 - SQL 查询生成器 AI 机器人. | 使用 AI2sql，工程师和非工程师都可以在不了解 SQL 的情况下轻松编写高效、无错误的 SQL 查询。是时候收回你的时间了！. | :white_check_mark: |
 | [AIArt](https://www.thataicollection.com/redirect/aiart?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | aiart.dev. | . | :grey_question: |
 | [Amadeus Code](https://www.thataicollection.com/redirect/amadeus-code?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 株式会社Amadeus Code - 公共企业saito. | 企业情报、招聘情报、投资家情报、ニュースナど、Amadeus Codeの企业情报报告一般を提供する公共企业さいとです。. | :grey_question: |
 | [Andisearch](https://www.thataicollection.com/redirect/andisearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 安迪 - 寻找下一代. | . | :grey_question: |
@@ -1287,7 +1294,6 @@
 | [Dust](https://www.thataicollection.com/redirect/dust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 灰尘 - XP1. | . | :grey_question: |
 | [Ebsynth](https://www.thataicollection.com/redirect/ebsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EbSynth - 通过在单帧上绘画来转换视频. | 您绘制一帧，EbSynth 将其传播到其余的素材。. | :grey_question: |
 | [Echowin](https://www.thataicollection.com/redirect/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 支持的呼叫管理具有完全自然语言理解和针对每个场景的个性化响应。. | . | :grey_question: |
-| [Everypixel](https://www.thataicollection.com/redirect/everypixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 库存图片搜索引擎 - 超过 50 个最佳来源 - Everypixel. | . | :grey_question: |
 | [ExactBuyer Search](https://www.thataicollection.com/redirect/exactbuyer-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ExactBuyer - 面向潜在客户团队的人工智能业务搜索. | . | :grey_question: |
 | [Friday AI](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | HeyFriday - 终极人工智能作家. | . | :grey_question: |
 | [Glasp](https://www.thataicollection.com/redirect/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Glasp：社交网络荧光笔. | 阅读时突出显示并添加注释。创建您的学习图书馆. | :grey_question: |
