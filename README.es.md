@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=947" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=951" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -138,110 +138,108 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
-### Coursebox
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-coursebox.webp" alt="Coursebox">
+### Chatsimple
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatsimple.webp" alt="Chatsimple">
 
-#### Creador de cursos de IA y sistema de gestión del aprendizaje
-[Visit](https://www.thataicollection.com/redirect/coursebox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### El chatbot empresarial ChatGPT simplificado para ti
+[Visit](https://www.thataicollection.com/redirect/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Crea un curso en línea rápidamente con inteligencia artificial. Coursebox diseña y produce un curso editable para ti en cuestión de minutos.
+ChatSimple es una plataforma que se especializa en crear chatbots orientados a la conversión para pequeñas y medianas empresas (pymes) en solo 5 minutos. La plataforma se centra en tres funcionalidades clave: la generación de leads, la gestión de las preguntas frecuentes y la gestión de las preguntas de precalificación. Al permitir a las pymes crear sus propios chatbots con experiencia en dominios específicos,
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/coursebox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### YesChat-Free Claude 2 Globally
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-yeschat-free-claude-2-globally.webp" alt="YesChat-Free Claude 2 Globally">
-
-#### Chats globales gratuitos sin restricciones regionales ni de número de teléfono, detrás del poder de la IA de Claude 2.
-[Visit](https://www.thataicollection.com/redirect/yeschat-free-claude-2-globally?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-
-YesChat.ai utiliza la vanguardista API de procesamiento del lenguaje natural de Claude 2. Hereda las habilidades avanzadas de Claude 2, como analizar documentos complejos, generar código, resumir textos largos de hasta 100 000 fichas y ofrecer respuestas bien pensadas y matizadas.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/yeschat-free-claude-2-globally?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Vidnoz AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai.webp" alt="Vidnoz AI">
+### AISEO
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiseo.webp" alt="AISEO">
 
-#### Vidnoz AI: presentamos una plataforma de vídeo de IA gratuita para reducir los costes de los usuarios en un 80% y aumentar 10 veces la productividad
-[Visit](https://www.thataicollection.com/redirect/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Aiseo - Asistente de redacción de IA, redacción de textos publicitarios de IA y generador de contenido
+[Visit](https://www.thataicollection.com/redirect/aiseo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-un generador de vídeos de IA gratuito, la IA de Vidnoz, que ayuda a las personas a crear vídeos de forma más fácil y rápida que nunca. Para beneficiar a más personas con sus eficientes herramientas de vídeo de IA, Vidnoz
-proporciona acceso diario gratuito a la generación de vídeo a todos los usuarios. Mediante el uso de avatares de IA, vídeo
-plantillas y otras herramientas basadas en la IA, todos en Vidnoz pueden crear vídeos atractivos
-sin esfuerzo
+Obtén superpoderes de escritura con inteligencia artificial. Nosotros en AISEO lo ayudaremos a convertir sus pensamientos en blogs y podemos escribir por usted con solo hacer clic en un botón.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/aiseo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Old Photo Restoration
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-old-photo-restoration.webp" alt="Old Photo Restoration">
+### ChatHelp.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chathelp.ai.webp" alt="ChatHelp.ai">
 
-#### Restaura fotos antiguas en línea gratis en segundos con la IA
-[Visit](https://www.thataicollection.com/redirect/old-photo-restoration?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### ChatHelp.ai: widget de chat de negocios, trabajo, estudio y sitio web impulsado por la IA.
+[Visit](https://www.thataicollection.com/redirect/chathelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-La restauración de fotografías antiguas con IA puede reparar y mejorar fotografías antiguas, dañadas o descoloridas. Utilizamos tecnología y técnicas avanzadas para restaurar el color, la claridad y la textura de los estampados antiguos, lo que ayuda a conservar recuerdos valiosos para las generaciones futuras. Tanto si quieres restaurar fotos familiares antiguas como recuerdos antiguos, nuestro servicio de restauración de fotografías antiguas dará nueva vida a los recuerdos más preciados.
+👉 Chatea con una base de conocimientos de IA privada: aumenta la eficiencia del trabajo diario con un asistente de IA que lo sepa todo sobre tu negocio y la competencia, tu trabajo o tus estudios...
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/old-photo-restoration?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+👉 Ahorra tiempo y dinero en el servicio de atención al cliente. Impulse más ventas al permitir que la IA interactúe con los clientes potenciales las 24 horas del día, los 7 días de la semana, a través del widget de chat del sitio web ¡Entrena la IA con los datos de tu sitio web y otros documentos!
 
 
-
-
-### Background Blur
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-background-blur.webp" alt="Background Blur">
-
-#### Difuminar el fondo de una foto en línea gratis con la IA
-[Visit](https://www.thataicollection.com/redirect/background-blur?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¡Añade profundidad a tus fotos en segundos! La IA puede difuminar el fondo de la foto y resaltar el sujeto. Simplemente sube un retrato, una sesión de producto, una foto de una mascota o más y deja que la IA haga un fondo borroso.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/background-blur?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/chathelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### AI Logo Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-logo-generator.webp" alt="AI Logo Generator">
+### Eilla
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eilla.webp" alt="Eilla">
 
-#### Creación de logotipos con la precisión de la IA: rápido, gratuito e impecable.
-[Visit](https://www.thataicollection.com/redirect/ai-logo-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Eilla: plataforma de inteligencia artificial para impulsar el flujo de trabajo de las operaciones de fusiones y adquisiciones, capital riesgo y educación física.
+[Visit](https://www.thataicollection.com/redirect/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Descubre el mejor generador de logotipos de IA: crea logotipos personalizados y específicos del sector en cuestión de minutos con nuestra IA avanzada. No se necesitan habilidades de diseño. Genera logotipos para tecnología, venta minorista, bienes raíces y más de forma gratuita. Personaliza los colores, las fuentes y el diseño y, a continuación, descárgalos en los formatos PNG, JPG, PDF y SVG. Perfecto para empresas, marcas personales y mucho más.
+Reflejando a profesionales de la industria de la más alta calidad para automatizar las tareas mundanas y apoyar la toma de decisiones complejas. Consigue acceso anticipado a Eilla ahora.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/ai-logo-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### ai2sql
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai2sql.webp" alt="ai2sql">
+### SuperDuperDB
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-superduperdb.webp" alt="SuperDuperDB">
 
-#### Generador de consultas de SQL - Bot de IA de creación de consultas de SQL
-[Visit](https://www.thataicollection.com/redirect/ai2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### SuperDuperDB: ¡Lleva la IA a tu base de datos favorita!
+[Visit](https://www.thataicollection.com/redirect/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Con Ai2SQL, los ingenieros y no ingenieros pueden escribir fácilmente consultas SQL eficientes y sin errores sin saber SQL. El creador de consultas SQL con tecnología de IA te permite crear consultas SQL rápidamente sin ningún conocimiento de SQL para los principiantes.
+Crea aplicaciones de IA con facilidad sin necesidad de mover tus datos a tuberías complejas y bases de datos vectoriales especializadas. Integra la IA y la búsqueda vectorial directamente en tu base de datos, incluida la inferencia en tiempo real y el entrenamiento de modelos. ¡Solo uso Python!
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/ai2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### nolim.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nolim.ai.webp" alt="nolim.ai">
+
+#### nolim.ai - Generador de imágenes NSFW de IA sin censura
+[Visit](https://www.thataicollection.com/redirect/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Lanzado en mayo de 2023, nolim.ai es una herramienta de generación de imágenes de IA que admite imágenes NSFW de IA. Con el control total de los modelos de difusión estable, los usuarios pueden generar cualquier cosa que imaginen.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Wavinai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wavinai.webp" alt="Wavinai">
+
+#### Wavinai | El generador de texto de IA que escribe lo que quieras
+[Visit](https://www.thataicollection.com/redirect/wavinai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Genera tus textos empresariales con nuestra IA. El generador de texto con inteligencia artificial en español que te ayudará a vender más. Regístrate gratis.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/wavinai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -322,6 +320,21 @@ Elegido por la IA
 Stocknews AI es una selección de las mejores noticias bursátiles nuevas de todos los días. Descubre las últimas noticias bursátiles de las que habla todo el mundo.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/stocknews-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Eilla
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eilla.webp" alt="Eilla">
+
+#### Eilla: plataforma de inteligencia artificial para impulsar el flujo de trabajo de las operaciones de fusiones y adquisiciones, capital riesgo y educación física.
+[Visit](https://www.thataicollection.com/redirect/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Reflejando a profesionales de la industria de la más alta calidad para automatizar las tareas mundanas y apoyar la toma de decisiones complejas. Consigue acceso anticipado a Eilla ahora.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -541,21 +554,6 @@ Remodela y diseña tus espacios con Remodel AI, la primera y #1 IA para la remod
 
 ## Generador de imágenes y arte
 
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
-
-#### undress.vip—2023 mejor vestido 100% funcional ai deepnude
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Getimg.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getimg.ai.webp" alt="Getimg.ai">
 
@@ -631,6 +629,21 @@ Crea fotos de productos excepcionales y más: elige cualquier imagen para comenz
 <br />
 
 
+### nolim.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nolim.ai.webp" alt="nolim.ai">
+
+#### nolim.ai - Generador de imágenes NSFW de IA sin censura
+[Visit](https://www.thataicollection.com/redirect/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Lanzado en mayo de 2023, nolim.ai es una herramienta de generación de imágenes de IA que admite imágenes NSFW de IA. Con el control total de los modelos de difusión estable, los usuarios pueden generar cualquier cosa que imaginen.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Anime AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-anime-ai.webp" alt="Anime AI">
 
@@ -686,21 +699,6 @@ Elige entre más de 112 estilos diferentes para transformarte
 <br />
 
 
-### Character.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-character.io.webp" alt="Character.io">
-
-#### Herramienta gratuita para generar nuevos personajes de dibujos animados
-[Visit](https://www.thataicollection.com/redirect/character.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Genere un conjunto aleatorio de personajes o avatares con el poder de las GAN. Presione la barra espaciadora para generar un nuevo conjunto
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/character.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### Avtrs
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avtrs.webp" alt="Avtrs">
 
@@ -731,21 +729,6 @@ Explore millones de estilos o cree el suyo propio, genere autorretratos de IA.
 <br />
 
 
-### AIVatar
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aivatar.webp" alt="AIVatar">
-
-#### Aivatar - Generador mágico de avatares
-[Visit](https://www.thataicollection.com/redirect/aivatar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Genera arte de avatar mágico a partir de tus fotos.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/aivatar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### AIprofilepic
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiprofilepic.webp" alt="AIprofilepic">
 
@@ -755,6 +738,36 @@ Genera arte de avatar mágico a partir de tus fotos.
 Cree sus avatares perfectos con solo unos pocos clics con nuestra tecnología de inteligencia artificial fácil de usar.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### DreamPic
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreampic.webp" alt="DreamPic">
+
+#### Dreampic.Ai
+[Visit](https://www.thataicollection.com/redirect/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Imágenes generadas por IA protagonizadas por ti
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### EpicAvatar
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-epicavatar.webp" alt="EpicAvatar">
+
+#### Epic Avatar - Generador de imágenes de perfil con IA
+[Visit](https://www.thataicollection.com/redirect/epicavatar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Cree sus propias imágenes de perfil de avatar de IA de última generación
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/epicavatar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -802,21 +815,6 @@ Crea un chatbot de IA a partir de tu base de conocimientos y añádelo a tu siti
 
 
 
-### AChatsimple
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-achatsimple.webp" alt="AChatsimple">
-
-#### El chatbot empresarial ChatGPT simplificado para ti
-[Visit](https://www.thataicollection.com/redirect/achatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ChatSimple es una plataforma que se especializa en crear chatbots orientados a la conversión para pequeñas y medianas empresas (pymes) en solo 5 minutos. La plataforma se centra en tres funcionalidades clave: la generación de leads, la gestión de las preguntas frecuentes y la gestión de las preguntas de precalificación. Al permitir a las pymes crear sus propios chatbots con experiencia en dominios específicos,
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/achatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### SiteSpeakAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sitespeakai.webp" alt="SiteSpeakAI">
 
@@ -826,6 +824,21 @@ ChatSimple es una plataforma que se especializa en crear chatbots orientados a l
 Crea un chatbot de soporte de IA personalizado con tu propio contenido, documentos de soporte, PDF, API o base de datos. Luego agrégalo a tu sitio web con una sola línea de código para responder a las preguntas de tus visitantes en tiempo real y reducir tus solicitudes de soporte.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/sitespeakai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Chatsimple
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatsimple.webp" alt="Chatsimple">
+
+#### El chatbot empresarial ChatGPT simplificado para ti
+[Visit](https://www.thataicollection.com/redirect/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ChatSimple es una plataforma que se especializa en crear chatbots orientados a la conversión para pequeñas y medianas empresas (pymes) en solo 5 minutos. La plataforma se centra en tres funcionalidades clave: la generación de leads, la gestión de las preguntas frecuentes y la gestión de las preguntas de precalificación. Al permitir a las pymes crear sus propios chatbots con experiencia en dominios específicos,
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -847,6 +860,21 @@ Codificación cero. Comparte en tu sitio web en minutos. Cree un chatbot GPT-4 e
 <br />
 
 
+### ChatBotKit
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbotkit.webp" alt="ChatBotKit">
+
+#### La forma más rápida de crear bots de chat de IA avanzados
+[Visit](https://www.thataicollection.com/redirect/chatbotkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ChatBotKit lo ayuda a crear chatbots conversacionales de IA con sus propios datos para comunicarse naturalmente con los usuarios en su sitio web, Slack, Discord y WhatsApp.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/chatbotkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Olympia
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-olympia.webp" alt="Olympia">
 
@@ -857,21 +885,6 @@ Olympia es una herramienta de personal virtual basada en la IA diseñada para em
 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/olympia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### ChatBotKit
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbotkit.webp" alt="ChatBotKit">
-
-#### La forma más rápida de crear bots de chat de IA avanzados
-[Visit](https://www.thataicollection.com/redirect/chatbotkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ChatBotKit lo ayuda a crear chatbots conversacionales de IA con sus propios datos para comunicarse naturalmente con los usuarios en su sitio web, Slack, Discord y WhatsApp.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/chatbotkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -963,15 +976,15 @@ TLDR es un complemento IDE que aprovecha la IA para explicar el código en un le
 <br />
 
 
-### Klu
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-klu.webp" alt="Klu">
+### SuperDuperDB
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-superduperdb.webp" alt="SuperDuperDB">
 
-#### Klu.ai es una plataforma todo en uno diseñada para que los equipos de IA creen, desplieguen y optimicen aplicaciones de IA generativa.
-[Visit](https://www.thataicollection.com/redirect/klu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### SuperDuperDB: ¡Lleva la IA a tu base de datos favorita!
+[Visit](https://www.thataicollection.com/redirect/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Klu.ai es una plataforma todo en uno diseñada para que los equipos de IA creen, desplieguen y optimicen aplicaciones de IA generativa. Permite a los usuarios diseñar, desarrollar e iterar fácilmente las funciones y aplicaciones de la IA generativa mediante su interfaz intuitiva llamada Klu Studio.
+Crea aplicaciones de IA con facilidad sin necesidad de mover tus datos a tuberías complejas y bases de datos vectoriales especializadas. Integra la IA y la búsqueda vectorial directamente en tu base de datos, incluida la inferencia en tiempo real y el entrenamiento de modelos. ¡Solo uso Python!
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/klu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1093,15 +1106,15 @@ Automatice sus operaciones de contenido. La plataforma todo en uno de marketing 
 <br />
 
 
-### Intelligent paraphraser
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-intelligent-paraphraser.webp" alt="Intelligent paraphraser">
+### LongShot AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-longshot-ai.webp" alt="LongShot AI">
 
-#### Aiseo - Asistente de redacción de IA, redacción de textos publicitarios de IA y generador de contenido
-[Visit](https://www.thataicollection.com/redirect/intelligent-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Cree contenido que los humanos y los motores de búsqueda adoren usando inteligencia artificial
+[Visit](https://www.thataicollection.com/redirect/longshot-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Obtén superpoderes de escritura con inteligencia artificial. Nosotros en AISEO lo ayudaremos a convertir sus pensamientos en blogs y podemos escribir por usted con solo hacer clic en un botón.
+LongShot es un asistente de escritura de IA que lo ayuda a pasar de la idea al contenido de SEO en minutos. ¡Use el poder creativo de la IA con características como contenido en tiempo real, verificación de hechos, SEO semántico, IA personalizada y más!
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/intelligent-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/longshot-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1752,6 +1765,21 @@ SwagAI: imágenes generadas por la IA en las camisetas.
 
 ## Divertido
 
+### Undress.Vip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+
+#### undress.vip—2023 mejor vestido 100% funcional ai deepnude
+[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### CharacterAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-characterai.webp" alt="CharacterAI">
 
@@ -1840,21 +1868,6 @@ Usa la IA para generar la excusa profesional perfecta
 <br />
 
 <br />
-
-
-### Askmybook
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-askmybook.webp" alt="Askmybook">
-
-#### Pregúntale a mi libro: el emprendedor minimalista
-[Visit](https://www.thataicollection.com/redirect/askmybook?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Este es un experimento sobre el uso de IA para hacer que el contenido de mi libro sea más accesible. Haga una pregunta y AI la responderá en tiempo real:
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/askmybook?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 
@@ -4076,21 +4089,6 @@ Jot genera automáticamente infinitas variaciones del texto del anuncio para ti 
 
 
 
-### Bookclub
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bookclub.webp" alt="Bookclub">
-
-#### Bookclub.Ai - Conoce tu próximo libro
-[Visit](https://www.thataicollection.com/redirect/bookclub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Explore libros de bestsellers, celebridades y series de libros con poderosas recomendaciones basadas en Machine Learning. Sea parte de la creciente comunidad de amantes de los libros en Bookclub.ai
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/bookclub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Namewizard
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-namewizard.webp" alt="Namewizard">
 
@@ -4130,6 +4128,21 @@ generar un nombre comercial corto y de marca utilizando inteligencia artificial.
 Crea tu baraja de cartas personalizada y juega con tus amigos. Selecciona qué cartas deben formar parte de tu propio mazo deslizando 💅.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/langame-card-game?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Gandhiji
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gandhiji.webp" alt="Gandhiji">
+
+#### Messengerx.Io - Chatea con IA
+[Visit](https://www.thataicollection.com/redirect/gandhiji?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Aplicaciones de chat impulsadas por IA para todos
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/gandhiji?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4770,18 +4783,15 @@ Herramienta de paráfrasis con 15 modos GRATUITOS para más de 100 idiomas: refo
 
 
 
-### Neuron Writer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuron-writer.webp" alt="Neuron Writer">
+### Wavinai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wavinai.webp" alt="Wavinai">
 
-#### NeuronWriter — Optimización de contenido con #semanticSEO
-[Visit](https://www.thataicollection.com/redirect/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Wavinai | El generador de texto de IA que escribe lo que quieras
+[Visit](https://www.thataicollection.com/redirect/wavinai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Optimiza el contenido de tu sitio web
-así que Google lo adora.
-Editor de contenido avanzado con modelos semánticos (PNL), análisis de SERP de Google y datos de la competencia.
-NeuronWriter te ayuda a planificar, escribir y optimizar el contenido teniendo en cuenta la intención del usuario.
+Genera tus textos empresariales con nuestra IA. El generador de texto con inteligencia artificial en español que te ayudará a vender más. Regístrate gratis.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/wavinai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
