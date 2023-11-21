@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=951" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=957" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -138,6 +138,66 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### caspa AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai.webp" alt="caspa AI">
+
+#### Caspa AI — платформа для создания и настройки изображений AI за считанные минуты
+[Visit](https://www.thataicollection.com/redirect/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Раскройте потенциал создания и редактирования изображений с помощью искусственного интеллекта с помощью этого бесплатного инструмента, позволяющего быстро и экономично создавать уникальные визуальные эффекты для различных приложений.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AvatarAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="AvatarAI">
+
+#### Создайте свои собственные фотореалистичные аватары с искусственным интеллектом
+[Visit](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Создавайте фотореалистичные изображения людей с помощью искусственного интеллекта. Создавайте более 120 различных стилей аватаров на основе оригинального Avatar AI™, положившего начало тенденции к созданию аватаров с искусственным интеллектом. Это займет всего 46 секунд. Посмотрите больше пакетов фотографий в разных позах, местах и стилях.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### PhotoRoom
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoroom.webp" alt="PhotoRoom">
+
+#### PhotoRoom — удаление фона и создание изображений товаров
+[Visit](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Создавайте изображения продуктов и портреты, используя только свой телефон. Удалите фон, измените фон и продемонстрируйте продукты.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### content-brief-generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-content-brief-generator.webp" alt="content-brief-generator">
+
+#### Пишите отличный контент быстро. Создавайте краткие описания контента и оптимизируйте свой контент для SEO.
+[Visit](https://www.thataicollection.com/redirect/content-brief-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dashword — это программное обеспечение №1 для оптимизации контента для SEO-команд. Создавайте релевантный контент для своих читателей и увеличивайте органический трафик.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/content-brief-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Chatsimple
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatsimple.webp" alt="Chatsimple">
 
@@ -179,66 +239,6 @@ ChatSimple — это платформа, которая специализир�
 👉 Экономьте время и деньги на поддержке клиентов. Увеличивайте продажи, позволяя искусственному интеллекту взаимодействовать с потенциальными клиентами круглосуточно и без выходных с помощью виджета чата на веб-сайте. Тренируйте искусственный интеллект, используя данные своег
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/chathelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Eilla
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eilla.webp" alt="Eilla">
-
-#### Eilla — платформа искусственного интеллекта для управления процессами слияний и поглощений, венчурного капитала и прямых инвестиций.
-[Visit](https://www.thataicollection.com/redirect/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Привлечение профессионалов отрасли высочайшего уровня для автоматизации рутинных задач и поддержки принятия сложных решений. Получите ранний доступ к Eilla прямо сейчас.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SuperDuperDB
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-superduperdb.webp" alt="SuperDuperDB">
-
-#### SuperDuperDB: добавьте искусственный интеллект в свою любимую базу данных!
-[Visit](https://www.thataicollection.com/redirect/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Легко создавайте приложения на основе искусственного интеллекта без необходимости переноса данных в сложные конвейеры и специализированные векторные базы данных. Интегрируйте искусственный интеллект и векторный поиск непосредственно в свою базу данных, включая получение логических выводов и обучение моделей в реальном времени. Просто используйте Python!
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### nolim.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nolim.ai.webp" alt="nolim.ai">
-
-#### nolim.ai - генератор изображений AI NSFW без цензуры
-[Visit](https://www.thataicollection.com/redirect/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-nolim.ai, запущенный в мае 2023 года, представляет собой инструмент для создания изображений AI, поддерживающий изображения AI NSFW. Имея полный контроль над моделями Stable Diffusion, пользователи могут создавать все, что захотят.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Wavinai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wavinai.webp" alt="Wavinai">
-
-#### Wavinai | Генератор текста с искусственным интеллектом, который пишет все, что вам нравится
-[Visit](https://www.thataicollection.com/redirect/wavinai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Создавайте бизнес-тексты с помощью нашего искусственного интеллекта. Текстовый генератор с искусственным интеллектом на испанском языке, который поможет вам продавать больше. Зарегистрируйтесь бесплатно.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/wavinai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -553,6 +553,21 @@ Plask предлагает искусственный захват движен�
 
 ## Генератор изображений и изображений
 
+### caspa AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai.webp" alt="caspa AI">
+
+#### Caspa AI — платформа для создания и настройки изображений AI за считанные минуты
+[Visit](https://www.thataicollection.com/redirect/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Раскройте потенциал создания и редактирования изображений с помощью искусственного интеллекта с помощью этого бесплатного инструмента, позволяющего быстро и экономично создавать уникальные визуальные эффекты для различных приложений.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Getimg.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getimg.ai.webp" alt="Getimg.ai">
 
@@ -598,19 +613,19 @@ ICONS8 ПОЗВОЛЯЕТ ДИЗАЙНЕРАМ ВЫРАЖАТЬ СВОИ ИДЕ�
 
 
 
-### Playground
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-playground.webp" alt="Playground">
+### PhotoRoom
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoroom.webp" alt="PhotoRoom">
 
-#### Playground AI - онлайн-создатель изображений AI
-[Visit](https://www.thataicollection.com/redirect/playground?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### PhotoRoom — удаление фона и создание изображений товаров
+[Visit](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Playground AI — это бесплатный онлайн-редактор изображений с искусственным интеллектом. Используйте его для создания рисунков, постов в социальных сетях, презентаций, постеров, видео, логотипов и многого другого.
+Создавайте изображения продуктов и портреты, используя только свой телефон. Удалите фон, измените фон и продемонстрируйте продукты.
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/playground?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-
+<br />
 
 
 ### Designify
@@ -626,21 +641,6 @@ Playground AI — это бесплатный онлайн-редактор из
 <br />
 
 <br />
-
-
-### nolim.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nolim.ai.webp" alt="nolim.ai">
-
-#### nolim.ai - генератор изображений AI NSFW без цензуры
-[Visit](https://www.thataicollection.com/redirect/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-nolim.ai, запущенный в мае 2023 года, представляет собой инструмент для создания изображений AI, поддерживающий изображения AI NSFW. Имея полный контроль над моделями Stable Diffusion, пользователи могут создавать все, что захотят.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ### Anime AI
@@ -686,16 +686,16 @@ HairstyleAI позволяет виртуально опробовать нов�
 ### AvatarAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="AvatarAI">
 
-#### Создавайте свои собственные фотореалистичные аватары с искусственным интеллектом
+#### Создайте свои собственные фотореалистичные аватары с искусственным интеллектом
 [Visit](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Выберите один из 112+ различных стилей, чтобы превратиться в
+Создавайте фотореалистичные изображения людей с помощью искусственного интеллекта. Создавайте более 120 различных стилей аватаров на основе оригинального Avatar AI™, положившего начало тенденции к созданию аватаров с искусственным интеллектом. Это займет всего 46 секунд. Посмотрите больше пакетов фотографий в разных позах, местах и стилях.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### Avtrs

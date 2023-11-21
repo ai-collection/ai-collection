@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=951" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=957" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -417,7 +417,7 @@
 | [AIprofilepic](https://www.thataicollection.com/redirect/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 创建令人惊叹的个人资料图片 - AIProfilePic.art. | 借助我们易于使用的 AI 技术，只需点击几下即可创建完美的头像。. | :grey_question: |
 | [ARTI.PICS](https://www.thataicollection.com/redirect/arti.pics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI驱动的头像制作者. | Arti.Pics 允许您上传几张自己的照片，并生成 200 多个不同风格的酷炫头像。. | :x: |
 | [Autoportrait](https://www.thataicollection.com/redirect/autoportrait?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Autoportrait - 创建 AI 人像. | 浏览数百万种风格或创建您自己的风格，生成 AI 自画像。. | :grey_question: |
-| [AvatarAI](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创建您自己的逼真 AI 头像. | 从 112 多种不同的风格中选择，变身为. | :x: |
+| [AvatarAI](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创建你自己的逼真的 AI 头像. | 使用 AI 生成逼真的人物图像。基于开启 AI 头像潮流的原始 Avatar AI™ 生成 120 多种不同风格的头像。只需 46 秒。查看更多不同姿势、地点和风格的照片包。. | :grey_question: |
 | [AvatarCraft](https://www.thataicollection.com/redirect/avatarcraft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 Avatarcraft 的人工智能生成的头像展示你最好的自我. | 乍一看，你的个人资料照片是人们评判你的第一件事。使用 AvatarCraft，使用人工智能轻松地从照片中创建 100 个高质量的头像。为 LinkedIn 选择专业风格来展示专业知识，或者为 Instagram、TikTok、X 等选择创意风格。. | :white_check_mark: |
 | [Avatarize.club](https://www.thataicollection.com/redirect/avatarize.club?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创建高质量的 AI 生成头像. | 由 Stable Diffusion 2.1 提供支持的专业照片、社交媒体 DP、游戏头像、约会资料照片等. | :x: |
 | [Avtrs](https://www.thataicollection.com/redirect/avtrs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 快乐用户创建的头像. | 怎么运行的？ 1. 上传一些您（或其他人）不同角度的自拍照。 2. 稍等 - 在我们根据您的照片建造您的工作室时喝杯咖啡。 3. 提示 - 发挥你的想象力来制作完美的提示！. | :white_check_mark: |
@@ -987,7 +987,6 @@
 |---|---|---|:---:|
 | [Accomplice](https://www.thataicollection.com/redirect/accomplice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的设计生成、编辑和培训. | Accomplice 的人工智能平台可帮助您的团队生成 100% 免版税的徽标、照片和图形，同时节省时间、降低成本并简化您的工作流程. | :white_check_mark: |
 | [Ai Art Generator](https://www.thataicollection.com/redirect/ai-art-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ai Art Generator - Ai Image Maker - 艾艺有限公司. | Ai Art Limited，使用人工智能为您创建图像、视频、音乐和文章。使用我们的应用程序，您可以成为使用人工智能的艺术家。. | :grey_question: |
-| [AI Background Generator by PhotoRoom](https://www.thataicollection.com/redirect/ai-background-generator-by-photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PhotoRoom - 删除背景并创建产品图片. | 仅使用您的手机创建产品和肖像图片。删除背景、更改背景和展示产品。. | :grey_question: |
 | [AI Comic Factory](https://www.thataicollection.com/redirect/ai-comic-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Comic Factory 是一个在线平台，允许你在人工智能的帮助下生成自己的漫画。. | AI Comic Factory 是一款免费的开源应用程序，旨在演示人工智能模型的功能。  用于生成每个面板描述的语言模型是 Llama-2 70b。 用于生成图像的稳定扩散模型是 SDXL 1.0 的基础。 该代码是公开的，可以在家中部署，只需在README中进行一些更改，以获取有关架构的详细信息。. | :white_check_mark: |
 | [AI Image and Design Generator](https://www.thataicollection.com/redirect/imgcreator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 终极人工智能图像、艺术、设计生成器. | 利用人工智能的力量，在几秒钟内从文本到图像。文本到图像、图像到图像和 chatGPT 支持的人工智能设计师。只需使用文本选择器输入描述您想要看到的内容，然后从四个候选图像中选择最佳结果。如果您想编辑照片，请删除您想要编辑的部分，并描述该部分想要的结果。. | :white_check_mark: |
 | [AI Picasso](https://www.thataicollection.com/redirect/ai-picasso?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能毕加索. | 用强大的 AI 创造惊人的艺术作品！它会根据您输入的文本生成图像，就像您期望使用名为 Stable Diffusion 的 AI 一样。让我们享受用 AI 创作艺术吧！. | :grey_question: |
@@ -1010,7 +1009,7 @@
 | [Bg Eraser](https://www.thataicollection.com/redirect/bg-eraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bg Eraser - 图片清理魔术橡皮擦. | 强大的人工智能修复和图片清理技术。在几秒钟内删除不需要的对象并清理图片。. | :grey_question: |
 | [Bloomoon](https://www.thataicollection.com/redirect/bloomoon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bloomoon-顺应艺术的数字浪潮。. | 由人工智能算法创作的 AI 艺术。人工智能生成的艺术充满激情。在 bloomoon 探索人工智能生成的独特画作。. | :grey_question: |
 | [Cartoonize](https://www.thataicollection.com/redirect/cartoonize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 图像到卡通-人工智能漫画家。立即免费创建令人惊叹的不同风格的卡通头像和人物！. | 用样式卡通化您的脸部照片并制作出色的头像。将人脸图像或照片转换为卡通，并在 5 秒内零点击自动将自己 100% 卡通化。. | :white_check_mark: |
-| [caspa AI](https://www.thataicollection.com/redirect/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Caspa AI 是一个在几分钟内创建和自定义 AI 图像的平台. | 使用此免费工具释放 AI 支持的图像创建和编辑的潜力，为各种应用程序快速且经济高效地制作独特的视觉效果。. | :grey_question: |
+| [caspa AI](https://www.thataicollection.com/redirect/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Caspa AI 是一个在几分钟内创建和自定义 AI 图像的平台. | 使用这款免费工具，发挥 AI 驱动的图像创建和编辑的潜力，为各种应用程序快速且经济高效地制作独特的视觉效果。. | :white_check_mark: |
 | [CLIP STUDIO PAINT](https://www.thataicollection.com/redirect/clip-studio-paint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 第1号第1号*のののの，アニメーションアプリ。みんな使ってるてるから，憧れのの作风も再现再现再现できできてたくさん. | はリアルな味と充実の充実，惊くほど便利多数多数多数。世界世界世界世界中中のユーザーユーザーががアップロードしたたたたたた万点万点万点万点万点以上素材素材素材を. | :grey_question: |
 | [ComicsMaker.ai](https://www.thataicollection.com/redirect/comicsmaker.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ComicsMaker.ai - 使用 AI 创作漫画. | 使用 ComicsMaker.ai 的 AI 工具创作精彩的漫画、漫画和图画小说. | :white_check_mark: |
 | [CoverDesignAI](https://www.thataicollection.com/redirect/coverdesignai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | CoverDesignAI - 为独立作者和设计师创建定制书籍封面创意/提示/图像/模型的工具. | CoverDesignAI 可以成为独立作者在设计过程中的重要资产，为他们提供灵感，将他们的想法可视化，减少与设计师在具体视觉偏好方面的沟通障碍，在早期阶段向他们的观众展示图片，或者简单地使用生成的设计。. | :white_check_mark: |
@@ -1066,6 +1065,7 @@
 | [Partly](https://www.thataicollection.com/redirect/partly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 从你的照片中提取令人惊叹的艺术，来自 Partly AI. | 借助 AI 魔法，将您的照片变成艺术品！. | :grey_question: |
 | [Patience](https://www.thataicollection.com/redirect/patience?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PatienceAI-使用 500 多种人工智能模型和风格创作艺术品. | Patience.ai 可以连接到 AUTOMATIC1111 的 Stable Diffusion Web 用户界面，在电脑上而不是云端生成图像。如果您已登录，则生成的图像将保存到您的 Patience.ai 收藏中。本地发电是 100% 免费的。. | :white_check_mark: |
 | [PatternedAI](https://www.thataicollection.com/redirect/patternedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PatterndAI - 使用人工智能为您的产品生成独特的图案！. | 将 PatternedAI 集成到您的业务中！ 尽早访问 PatternedAI Enterprise。与选定的客户一起转变工作流程并推动增长。. | :grey_question: |
+| [PhotoRoom](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PhotoRoom - 删除背景并创建产品图片. | 仅使用您的手机创建产品和肖像图片。删除背景、更改背景和展示产品。. | :grey_question: |
 | [Photosonic AI](https://www.thataicollection.com/redirect/photosonic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Photosonic AI Art Generator - 使用 AI 创建独特的图像. | 使用人工智能艺术生成器 Photosonic，将您的想象力转化为令人惊叹的数字艺术。凭借其创造性的建议，这款 Writesonic 的 AI 图像生成器可以帮助释放您的内在艺术家并与世界分享您的创作。. | :grey_question: |
 | [Phraser](https://www.thataicollection.com/redirect/phraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Phraser——协作式创意 AI 工具. | Phraser 是一款应用程序，可帮助您使用生成式 AI（Midjourney、Stable Diffusion 和 DALLE 2）创建图像、协作并获得灵感. | :grey_question: |
 | [PicSo](https://www.thataicollection.com/redirect/picso?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 艺术生成器：所有艺术风格的文本到图像-PicSo. | PicSo是一款文本到图像的AI艺术生成器应用程序和用于创意数字艺术的在线平台。免费尝试将你的想法转化为 NFT 艺术、油画等。. | :white_check_mark: |

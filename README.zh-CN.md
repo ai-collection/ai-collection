@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=951" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=957" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -138,6 +138,66 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### caspa AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai.webp" alt="caspa AI">
+
+#### Caspa AI 是一个在几分钟内创建和自定义 AI 图像的平台
+[Visit](https://www.thataicollection.com/redirect/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用这款免费工具，发挥 AI 驱动的图像创建和编辑的潜力，为各种应用程序快速且经济高效地制作独特的视觉效果。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### AvatarAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="AvatarAI">
+
+#### 创建你自己的逼真的 AI 头像
+[Visit](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 AI 生成逼真的人物图像。基于开启 AI 头像潮流的原始 Avatar AI™ 生成 120 多种不同风格的头像。只需 46 秒。查看更多不同姿势、地点和风格的照片包。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### PhotoRoom
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoroom.webp" alt="PhotoRoom">
+
+#### PhotoRoom - 删除背景并创建产品图片
+[Visit](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+仅使用您的手机创建产品和肖像图片。删除背景、更改背景和展示产品。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### content-brief-generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-content-brief-generator.webp" alt="content-brief-generator">
+
+#### 快速撰写优质内容。立即创建内容简介并优化您的内容以进行 SEO。
+[Visit](https://www.thataicollection.com/redirect/content-brief-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dashword 是 SEO 团队排名第一的内容优化软件。为您的读者创建相关内容并增加您的有机流量。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/content-brief-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Chatsimple
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatsimple.webp" alt="Chatsimple">
 
@@ -180,66 +240,6 @@ ChatSimple是一个专门在短短5分钟内为中小型企业（SMB）创建以
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chathelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Eilla
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eilla.webp" alt="Eilla">
-
-#### Eilla-支持并购、风险投资和私募股权交易工作流程的人工智能平台。
-[Visit](https://www.thataicollection.com/redirect/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-镜像最高素质的行业专业人士，以自动执行平凡的任务并支持复杂的决策。立即抢先体验 Eilla。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### SuperDuperDB
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-superduperdb.webp" alt="SuperDuperDB">
-
-#### SuperDuperDB：将人工智能带到你最喜欢的数据库！
-[Visit](https://www.thataicollection.com/redirect/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-轻松构建 AI 应用程序，无需将数据移动到复杂的管道和专门的矢量数据库。将 AI 和矢量搜索直接与您的数据库集成，包括实时推理和模型训练。只需使用 Python！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### nolim.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nolim.ai.webp" alt="nolim.ai">
-
-#### nolim.ai-未经审查 AI NSFW 图像生成器
-[Visit](https://www.thataicollection.com/redirect/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-nolim.ai 于 2023 年 5 月推出，是一款支持 AI NSFW 图像的人工智能图像生成工具。通过完全控制稳定扩散模型，用户可以生成他们想象中的任何东西。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Wavinai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wavinai.webp" alt="Wavinai">
-
-#### Wavinai | 可以随心所欲写的 AI 文本生成器
-[Visit](https://www.thataicollection.com/redirect/wavinai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用我们的 AI 生成您的商务文本。带有西班牙语人工智能的文本生成器将帮助您提高销量。免费注册。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/wavinai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -554,6 +554,21 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 
 ## 艺术与图像生成器
 
+### caspa AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai.webp" alt="caspa AI">
+
+#### Caspa AI 是一个在几分钟内创建和自定义 AI 图像的平台
+[Visit](https://www.thataicollection.com/redirect/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用这款免费工具，发挥 AI 驱动的图像创建和编辑的潜力，为各种应用程序快速且经济高效地制作独特的视觉效果。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Getimg.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getimg.ai.webp" alt="Getimg.ai">
 
@@ -599,15 +614,15 @@ ICONS8 允许设计师表达自己的想法，在正确的时间提供正确的�
 <br />
 
 
-### Playground
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-playground.webp" alt="Playground">
+### PhotoRoom
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoroom.webp" alt="PhotoRoom">
 
-#### Playground AI - 在线 AI 图像创建器
-[Visit](https://www.thataicollection.com/redirect/playground?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### PhotoRoom - 删除背景并创建产品图片
+[Visit](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Playground AI 是一个免费使用的在线 AI 图像创建器。用它来创作艺术、社交媒体帖子、演示文稿、海报、视频、徽标等。
+仅使用您的手机创建产品和肖像图片。删除背景、更改背景和展示产品。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/playground?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -623,21 +638,6 @@ Playground AI 是一个免费使用的在线 AI 图像创建器。用它来创�
 创建出色的产品照片等：选择任何图像开始魔法 ✨
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/designify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### nolim.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nolim.ai.webp" alt="nolim.ai">
-
-#### nolim.ai-未经审查 AI NSFW 图像生成器
-[Visit](https://www.thataicollection.com/redirect/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-nolim.ai 于 2023 年 5 月推出，是一款支持 AI NSFW 图像的人工智能图像生成工具。通过完全控制稳定扩散模型，用户可以生成他们想象中的任何东西。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -687,10 +687,10 @@ HairstyleAI 可让您在实际剪发之前通过 AI 虚拟尝试新发型。对�
 ### AvatarAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="AvatarAI">
 
-#### 创建您自己的逼真 AI 头像
+#### 创建你自己的逼真的 AI 头像
 [Visit](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-从 112 多种不同的风格中选择，变身为
+使用 AI 生成逼真的人物图像。基于开启 AI 头像潮流的原始 Avatar AI™ 生成 120 多种不同风格的头像。只需 46 秒。查看更多不同姿势、地点和风格的照片包。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
