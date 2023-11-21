@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=951" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=957" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -138,6 +138,66 @@
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
 
+### caspa AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai.webp" alt="caspa AI">
+
+#### Caspa AI मिनटों में AI इमेज बनाने और कस्टमाइज़ करने का एक प्लेटफ़ॉर्म है
+[Visit](https://www.thataicollection.com/redirect/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+इस मुफ़्त टूल की मदद से AI-संचालित छवि निर्माण और संपादन की संभावनाओं को अनलॉक करें, विभिन्न ऐप्लीकेशन के लिए तेज़ी से और लागत प्रभावी ढंग से अनोखे विज़ुअल तैयार करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AvatarAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="AvatarAI">
+
+#### अपना खुद का फ़ोटोरियलिस्टिक AI अवतार बनाएं
+[Visit](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI की मदद से लोगों की फ़ोटोरियलिस्टिक इमेज जेनरेट करें। मूल अवतार AI™ के आधार पर अवतार की 120+ विभिन्न शैलियों को जेनरेट करें, जिसने AI अवतार ट्रेंड शुरू किया। इसमें सिर्फ़ 46 सेकंड का समय लगता है। अलग-अलग पोज़, जगहों और स्टाइल में ज़्यादा फ़ोटो पैक देखें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### PhotoRoom
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoroom.webp" alt="PhotoRoom">
+
+#### फोटोरूम - पृष्ठभूमि हटाएं और उत्पाद चित्र बनाएं
+[Visit](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+केवल अपने फ़ोन का उपयोग करके उत्पाद और चित्र चित्र बनाएँ। पृष्ठभूमि हटाएं, पृष्ठभूमि बदलें और उत्पादों का प्रदर्शन करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### content-brief-generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-content-brief-generator.webp" alt="content-brief-generator">
+
+#### बेहतरीन सामग्री लिखें, तेजी से। कुछ ही समय में सामग्री संक्षिप्त बनाएं और एसईओ के लिए अपनी सामग्री को अनुकूलित करें।
+[Visit](https://www.thataicollection.com/redirect/content-brief-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SEO टीमों के लिए Dashword #1 सामग्री अनुकूलन सॉफ़्टवेयर है। अपने पाठकों के लिए प्रासंगिक सामग्री बनाएँ और अपना जैविक ट्रैफ़िक बढ़ाएँ।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/content-brief-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Chatsimple
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatsimple.webp" alt="Chatsimple">
 
@@ -180,66 +240,6 @@ ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छ
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/chathelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Eilla
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eilla.webp" alt="Eilla">
-
-#### ईला - एम एंड ए, वीसी और पीई डील वर्कफ़्लो को पावर देने के लिए AI प्लेटफ़ॉर्म।
-[Visit](https://www.thataicollection.com/redirect/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-सांसारिक कार्यों को स्वचालित करने और जटिल निर्णय लेने में सहायता करने के लिए उच्चतम गुणवत्ता वाले उद्योग के पेशेवरों को पेश करना। अभी ईल्ला तक जल्दी पहुँच पाओ।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SuperDuperDB
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-superduperdb.webp" alt="SuperDuperDB">
-
-#### SuperDuperDB: AI को अपने पसंदीदा डेटाबेस में लाओ!
-[Visit](https://www.thataicollection.com/redirect/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-अपने डेटा को जटिल पाइपलाइनों और खास वेक्टर डेटाबेस में ले जाने की ज़रूरत के बिना आसानी से AI ऐप्लिकेशन बनाएं। AI और वेक्टर खोज को सीधे अपने डेटाबेस के साथ एकीकृत करें, जिसमें रीयल-टाइम अनुमान और मॉडल प्रशिक्षण शामिल हैं। बस पायथन का इस्तेमाल कर रहा हूँ!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### nolim.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nolim.ai.webp" alt="nolim.ai">
-
-#### nolim.ai - बिना सेंसर किया हुआ AI NSFW इमेज जेनरेटर
-[Visit](https://www.thataicollection.com/redirect/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-मई 2023 में लॉन्च किया गया, nolim.ai एक AI इमेज जनरेशन टूल है जो AI NSFW इमेज को सपोर्ट करता है। स्टेबल डिफ़्यूज़न मॉडल पर पूर्ण नियंत्रण के साथ, यूज़र अपनी कल्पना की हर चीज़ जेनरेट कर सकते हैं।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Wavinai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wavinai.webp" alt="Wavinai">
-
-#### वाविनाई | AI टेक्स्ट जेनरेटर जो तुम्हेंं जो भी पसंद हो उसे लिखता है
-[Visit](https://www.thataicollection.com/redirect/wavinai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-हमारे AI की मदद से अपने बिज़नेस टेक्स्ट जेनरेट करें। स्पैनिश में आर्टिफिशियल इंटेलिजेंस वाला टेक्स्ट जनरेटर जो तुम्हेंं और बेचने में मदद करेगा। मुफ़्त में साइन अप करें।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/wavinai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -554,6 +554,21 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 
 ## कला और छवि जनरेटर
 
+### caspa AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai.webp" alt="caspa AI">
+
+#### Caspa AI मिनटों में AI इमेज बनाने और कस्टमाइज़ करने का एक प्लेटफ़ॉर्म है
+[Visit](https://www.thataicollection.com/redirect/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+इस मुफ़्त टूल की मदद से AI-संचालित छवि निर्माण और संपादन की संभावनाओं को अनलॉक करें, विभिन्न ऐप्लीकेशन के लिए तेज़ी से और लागत प्रभावी ढंग से अनोखे विज़ुअल तैयार करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Getimg.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getimg.ai.webp" alt="Getimg.ai">
 
@@ -599,19 +614,19 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 
 
 
-### Playground
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-playground.webp" alt="Playground">
+### PhotoRoom
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoroom.webp" alt="PhotoRoom">
 
-#### खेल का मैदान ऐ - ऑनलाइन ऐ छवि निर्माता
-[Visit](https://www.thataicollection.com/redirect/playground?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### फोटोरूम - पृष्ठभूमि हटाएं और उत्पाद चित्र बनाएं
+[Visit](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-प्लेग्राउंड एआई एक फ्री-टू-यूज ऑनलाइन एआई इमेज क्रिएटर है। कला, सोशल मीडिया पोस्ट, प्रस्तुतियाँ, पोस्टर, वीडियो, लोगो और बहुत कुछ बनाने के लिए इसका उपयोग करें।
+केवल अपने फ़ोन का उपयोग करके उत्पाद और चित्र चित्र बनाएँ। पृष्ठभूमि हटाएं, पृष्ठभूमि बदलें और उत्पादों का प्रदर्शन करें।
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/playground?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-
+<br />
 
 
 ### Designify
@@ -627,21 +642,6 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 <br />
 
 <br />
-
-
-### nolim.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nolim.ai.webp" alt="nolim.ai">
-
-#### nolim.ai - बिना सेंसर किया हुआ AI NSFW इमेज जेनरेटर
-[Visit](https://www.thataicollection.com/redirect/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-मई 2023 में लॉन्च किया गया, nolim.ai एक AI इमेज जनरेशन टूल है जो AI NSFW इमेज को सपोर्ट करता है। स्टेबल डिफ़्यूज़न मॉडल पर पूर्ण नियंत्रण के साथ, यूज़र अपनी कल्पना की हर चीज़ जेनरेट कर सकते हैं।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ### Anime AI
@@ -687,16 +687,16 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 ### AvatarAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="AvatarAI">
 
-#### अपना खुद का फोटोरियलिस्टिक एआई अवतार बनाएं
+#### अपना खुद का फ़ोटोरियलिस्टिक AI अवतार बनाएं
 [Visit](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-रूपांतरित करने के लिए 112+ विभिन्न शैलियों में से चुनें
+AI की मदद से लोगों की फ़ोटोरियलिस्टिक इमेज जेनरेट करें। मूल अवतार AI™ के आधार पर अवतार की 120+ विभिन्न शैलियों को जेनरेट करें, जिसने AI अवतार ट्रेंड शुरू किया। इसमें सिर्फ़ 46 सेकंड का समय लगता है। अलग-अलग पोज़, जगहों और स्टाइल में ज़्यादा फ़ोटो पैक देखें।
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### Avtrs

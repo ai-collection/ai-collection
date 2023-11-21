@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=951" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=957" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -144,6 +144,66 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### caspa AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai.webp" alt="caspa AI">
+
+#### Caspa AI Is a Platform to Create and Customise AI Images in Minutes
+[Visit](https://www.thataicollection.com/redirect/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Unlock the potential of AI-powered image creation and editing with this free tool, producing unique visuals quickly and cost-effectively for various applications.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AvatarAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="AvatarAI">
+
+#### Create Your Own Photorealistic AI Avatars
+[Visit](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Generate photorealistic images of people with AI. Generate 120+ different styles of avatars based on the original Avatar AI™ that started the AI avatars trend. It takes just 46 seconds. See more photo packs in different poses, places and styles.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### PhotoRoom
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoroom.webp" alt="PhotoRoom">
+
+#### Photoroom - Remove Background and Create Product Pictures
+[Visit](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### content-brief-generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-content-brief-generator.webp" alt="content-brief-generator">
+
+#### Write Great Content, Fast. Create content briefs in no time and optimize your content for SEO.
+[Visit](https://www.thataicollection.com/redirect/content-brief-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dashword is the #1 content optimization software for SEO teams. Create relevant content for your readers and grow your organic traffic.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/content-brief-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Chatsimple
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatsimple.webp" alt="Chatsimple">
 
@@ -190,66 +250,6 @@ Get writing superpowers with artificial intelligence. We at AISEO will help you 
 <br />
 
 
-
-
-### Eilla
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eilla.webp" alt="Eilla">
-
-#### Eilla - AI Platform to Power the M&A, VC and PE Deal Workflow.
-[Visit](https://www.thataicollection.com/redirect/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Mirroring highest quality industry professionals to automate mundane tasks and support complex decision-making. Get early access to Eilla now.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### SuperDuperDB
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-superduperdb.webp" alt="SuperDuperDB">
-
-#### SuperDuperDB: Bring AI to your favorite database!
-[Visit](https://www.thataicollection.com/redirect/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Build AI applications easily without needing to move your data to complex pipelines and specialized vector databases. Integrate AI and vector search directly with your database including real-time inference and model training. Just using Python!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### nolim.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nolim.ai.webp" alt="nolim.ai">
-
-#### nolim.ai - Uncensored AI NSFW image generator
-[Visit](https://www.thataicollection.com/redirect/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Launched in May 2023, nolim.ai is an AI image generation tool that supports AI NSFW images. With full control to Stable Diffusion models, users can generate anything they imagine.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Wavinai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wavinai.webp" alt="Wavinai">
-
-#### Wavinai | The AI Text Generator That Writes Whatever You Like
-[Visit](https://www.thataicollection.com/redirect/wavinai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Generate your business texts with our AI. The text generator with artificial intelligence in Spanish that will help you sell more. Sign up for free.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/wavinai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ## Accounting & Finance
@@ -560,6 +560,21 @@ Remodel and Design your spaces with Remodel AI - The first and #1 AI for remodel
 
 ## Art & Image Generator
 
+### caspa AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai.webp" alt="caspa AI">
+
+#### Caspa AI Is a Platform to Create and Customise AI Images in Minutes
+[Visit](https://www.thataicollection.com/redirect/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Unlock the potential of AI-powered image creation and editing with this free tool, producing unique visuals quickly and cost-effectively for various applications.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Getimg.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getimg.ai.webp" alt="Getimg.ai">
 
@@ -605,15 +620,15 @@ Get artistic beautiful QR codes on your email in under 10 minutes. Choose from a
 
 
 
-### Playground
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-playground.webp" alt="Playground">
+### PhotoRoom
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoroom.webp" alt="PhotoRoom">
 
-#### Playground AI - Online AI Image Creator
-[Visit](https://www.thataicollection.com/redirect/playground?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Photoroom - Remove Background and Create Product Pictures
+[Visit](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more.
+Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/playground?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -633,21 +648,6 @@ Create exceptional product photos and more: Pick any image to start the magic �
 <br />
 
 <br />
-
-
-### nolim.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nolim.ai.webp" alt="nolim.ai">
-
-#### nolim.ai - Uncensored AI NSFW image generator
-[Visit](https://www.thataicollection.com/redirect/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Launched in May 2023, nolim.ai is an AI image generation tool that supports AI NSFW images. With full control to Stable Diffusion models, users can generate anything they imagine.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/nolim.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ### Anime AI
@@ -696,13 +696,13 @@ HairstyleAI lets you try out new haircuts with AI virtually before getting the r
 #### Create Your Own Photorealistic AI Avatars
 [Visit](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Choose from 112+ different styles to transform into
+Generate photorealistic images of people with AI. Generate 120+ different styles of avatars based on the original Avatar AI™ that started the AI avatars trend. It takes just 46 seconds. See more photo packs in different poses, places and styles.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### Avtrs
