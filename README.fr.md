@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=957" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=959" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -138,108 +138,113 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
 
-### caspa AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai.webp" alt="caspa AI">
+### aiundetect
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiundetect.webp" alt="aiundetect">
 
-#### Caspa AI est une plateforme qui permet de créer et de personnaliser des images d'IA en quelques minutes
-[Visit](https://www.thataicollection.com/redirect/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### L'outil d'écriture IA indétectable Freemium qui contourne les détecteurs d'IA
+[Visit](https://www.thataicollection.com/redirect/aiundetect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Exploite le potentiel de la création et de l'édition d'images basées sur l'IA grâce à cet outil gratuit, qui produit des visuels uniques rapidement et à moindre coût pour diverses applications.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+Nous sommes un outil de réécriture d'IA indétectable. Il propose un service de suppression de la détection de l'IA qui intègre 8 interfaces de détection d'IA gratuites, dont GPTZero, ZeroGPT, Copyleak, Writer et SAPLING. En un seul clic, tu peux déterminer si ton contenu a été généré par l'IA.
 
 
-
-
-### AvatarAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="AvatarAI">
-
-#### Crée tes propres avatars photoréalistes basés sur l'IA
-[Visit](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Génère des images photoréalistes de personnes grâce à l'IA. Génère plus de 120 styles d'avatars différents sur la base de l'Avatar AI™ original qui a lancé la tendance des avatars IA. Cela ne prend que 46 secondes. Découvrez d'autres packs de photos dans des poses, des lieux et des styles différents.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/aiundetect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### PhotoRoom
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoroom.webp" alt="PhotoRoom">
+### StoryBee
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storybee.webp" alt="StoryBee">
 
-#### PhotoRoom - Supprimer l'arrière-plan et créer des images de produits
-[Visit](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### StoryBee est une plateforme sur laquelle les utilisateurs peuvent créer des histoires à l'aide de l'IA.
+[Visit](https://www.thataicollection.com/redirect/storybee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Créez des images de produits et de portraits en utilisant uniquement votre téléphone. Supprimez l'arrière-plan, modifiez l'arrière-plan et présentez les produits.
+StoryBee est une plateforme basée sur l'IA conçue pour créer des histoires captivantes pour les enfants. Les utilisateurs commencent par fournir un indice ou un thème, qui aide l'IA à créer un récit personnalisé. La plateforme permet de personnaliser davantage le genre, le style et l'esthétique visuelle de l'histoire, afin qu'elle trouve un écho auprès du public cible.
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### content-brief-generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-content-brief-generator.webp" alt="content-brief-generator">
-
-#### Écrivez du contenu de qualité, rapidement. Créez des résumés de contenu en un rien de temps et optimisez votre contenu pour le référencement.
-[Visit](https://www.thataicollection.com/redirect/content-brief-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Dashword est le logiciel d'optimisation de contenu n°1 pour les équipes SEO. Créez du contenu pertinent pour vos lecteurs et augmentez votre trafic organique.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/content-brief-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/storybee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Chatsimple
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatsimple.webp" alt="Chatsimple">
+### Post Parrot
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-post-parrot.webp" alt="Post Parrot">
 
-#### Le chatbot professionnel ChatGPT simplifié pour toi
-[Visit](https://www.thataicollection.com/redirect/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Post Parrot, un outil marketing gratuit pour Reddit
+[Visit](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-ChatSimple est une plateforme spécialisée dans la création de chatbots orientés vers la conversion pour les petites et moyennes entreprises (PME) en seulement 5 minutes. La plateforme se concentre sur trois fonctionnalités clés : la génération de prospects, la gestion des FAQ et le traitement des questions de préqualification. En permettant aux PME de créer leurs propres chatbots dotés d'une expertise spécifique à un domaine,
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+Tu veux générer des titres de posts sur Reddit qui suscitent de l'engagement ? Consultez notre outil de marketing numérique gratuit qui améliore le titre de tes publications pour des subreddits ciblés.
 
 
-
-
-### AISEO
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiseo.webp" alt="AISEO">
-
-#### AISEO - Assistante rédaction IA, Rédaction IA & Générateur de contenu
-[Visit](https://www.thataicollection.com/redirect/aiseo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Obtenez des super pouvoirs d'écriture avec l'intelligence artificielle. Chez AISEO, nous vous aiderons à convertir vos pensées en blogs et pouvons écrire pour vous en un clic.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/aiseo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### ChatHelp.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chathelp.ai.webp" alt="ChatHelp.ai">
+### Handywriter
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-handywriter.webp" alt="Handywriter">
 
-#### ChatHelp.ai - Widget de chat pour les affaires, le travail, les études et le site Web alimenté par l'IA.
-[Visit](https://www.thataicollection.com/redirect/chathelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Handyplugins — Des plugins Wordpress bien conçus - Synthèse vocale facile pour WordPress
+[Visit](https://www.thataicollection.com/redirect/handywriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-👉 Discutez avec une base de connaissances privée sur l'IA - Améliorez l'efficacité de votre travail quotidien en ayant un assistant IA qui connaît tout sur ton activité et tes concurrents, ton travail ou tes études...
+Convertit ton texte en un son naturel, offrant ainsi une expérience unique et captivante à tous tes visiteurs grâce au plugin « Easy Text-to-Speech ».
 
-👉 Gagnez du temps et de l'argent sur le service client. Augmentez vos ventes en permettant à l'IA d'interagir avec des clients potentiels 24 heures sur 24, 7 jours sur 7, via le widget de chat du site Web. Développez l'IA à l'aide des données de votre site Web et d'autres documents !
+[More Information and Pricing](https://www.thataicollection.com/fr/application/handywriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
 
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/chathelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+### QuizRise
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quizrise.webp" alt="QuizRise">
+
+#### QuizRise | Créez facilement des questions pour les quiz, les tests et les examens en ligne à l'aide de l'IA.
+[Visit](https://www.thataicollection.com/redirect/quizrise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Plongez dans l'univers des quiz interactifs avec QuizRise ! 🧠✨
+Créez, personnalisez et partagez des quiz sans effort. 🌟
+Que tu partages des connaissances ou que tu perfectionnes tes compétences, QuizRise est là pour toi.
+Exporte les questionnaires aux formats PDF, TXT ou DOCX.
+Partez à la découverte avec nous ! 🚀📚
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/quizrise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### BedtimeStory
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bedtimestory.webp" alt="BedtimeStory">
+
+#### Créez de merveilleuses histoires à l'heure du coucher, grâce à l'IA
+[Visit](https://www.thataicollection.com/redirect/bedtimestory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Crée des histoires personnalisées et instantanées à l'heure du coucher en quelques secondes. Créez une histoire sur ton enfant, avec les membres de sa famille comme personnages, ajoute un genre, un style artistique, une morale et bien plus encore, en utilisant l'intelligence artificielle.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/bedtimestory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Whisper Memos
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-whisper-memos.webp" alt="Whisper Memos">
+
+#### Mémos Whisper : enregistre un mémo vocal,
+le recevoir par e-mail.
+[Visit](https://www.thataicollection.com/redirect/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Whisper Memos transforme tes divagations en articles composés de paragraphes et te les envoie par e-mail.
+Grâce à GPT-4, nous transformons ton mémo en article de journal, plutôt qu'en un mélange de mots.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1553,15 +1558,15 @@ Rendez vos e-mails froids beaucoup plus chaleureux avec une copie hautement pers
 <br />
 
 
-### TutorAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tutorai.webp" alt="TutorAI">
+### StoryBee
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storybee.webp" alt="StoryBee">
 
-#### Apprenez n'importe quoi, en recherchant le sujet de votre choix
-[Visit](https://www.thataicollection.com/redirect/tutorai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### StoryBee est une plateforme sur laquelle les utilisateurs peuvent créer des histoires à l'aide de l'IA.
+[Visit](https://www.thataicollection.com/redirect/storybee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-TutoEAI Learn Anything est un moteur de recherche de modules d'apprentissage sur tous les sujets. Essaie des sujets comme la physique, l'histoire américaine ou ton propre nom !
+StoryBee est une plateforme basée sur l'IA conçue pour créer des histoires captivantes pour les enfants. Les utilisateurs commencent par fournir un indice ou un thème, qui aide l'IA à créer un récit personnalisé. La plateforme permet de personnaliser davantage le genre, le style et l'esthétique visuelle de l'histoire, afin qu'elle trouve un écho auprès du public cible.
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/tutorai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/storybee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3241,6 +3246,23 @@ En utilisant la puissance de Skill Suggestion AI, nous pouvons vous aider à ext
 
 
 
+### Whisper Memos
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-whisper-memos.webp" alt="Whisper Memos">
+
+#### Mémos Whisper : enregistre un mémo vocal,
+le recevoir par e-mail.
+[Visit](https://www.thataicollection.com/redirect/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Whisper Memos transforme tes divagations en articles composés de paragraphes et te les envoie par e-mail.
+Grâce à GPT-4, nous transformons ton mémo en article de journal, plutôt qu'en un mélange de mots.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### ELSA SPEECH ANALYZER
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elsa-speech-analyzer.webp" alt="ELSA SPEECH ANALYZER">
 
@@ -3254,22 +3276,6 @@ Speech Analyzer est un coach de maîtrise de l'anglais conversationnel alimenté
 <br />
 
 <br />
-
-
-### DetangleAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-detangleai.webp" alt="DetangleAI">
-
-#### Résume n'importe quel podcast, e-mail, document juridique, livre et plus encore, afin de pouvoir
-concentre-toi sur ce qui compte.
-[Visit](https://www.thataicollection.com/redirect/detangleai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Discussion documentaire et résumé de n'importe quel fichier ou lien ! Discute avec des PDF, des vidéos YouTube, des podcasts, des articles, des feuilles de calcul et plus encore ! Monter sur la liste d'attente.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/detangleai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 
@@ -4784,15 +4790,16 @@ Outil de paraphrase avec 15 modes GRATUITS pour plus de 100 langues : reformule
 
 
 
-### Wavinai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wavinai.webp" alt="Wavinai">
+### aiundetect
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiundetect.webp" alt="aiundetect">
 
-#### Wavinai | Le générateur de texte basé sur l'IA qui écrit ce que tu veux
-[Visit](https://www.thataicollection.com/redirect/wavinai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### L'outil d'écriture IA indétectable Freemium qui contourne les détecteurs d'IA
+[Visit](https://www.thataicollection.com/redirect/aiundetect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Génère tes textes professionnels grâce à notre IA. Le générateur de texte doté d'intelligence artificielle en espagnol qui t'aidera à vendre davantage. Inscris-toi gratuitement.
+Nous sommes un outil de réécriture d'IA indétectable. Il propose un service de suppression de la détection de l'IA qui intègre 8 interfaces de détection d'IA gratuites, dont GPTZero, ZeroGPT, Copyleak, Writer et SAPLING. En un seul clic, tu peux déterminer si ton contenu a été généré par l'IA.
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/wavinai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/aiundetect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=957" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=959" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -138,108 +138,113 @@
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
 
-### caspa AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai.webp" alt="caspa AI">
+### aiundetect
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiundetect.webp" alt="aiundetect">
 
-#### Caspa AI मिनटों में AI इमेज बनाने और कस्टमाइज़ करने का एक प्लेटफ़ॉर्म है
-[Visit](https://www.thataicollection.com/redirect/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### फ्रीमियम अनडिटेक्टेबल AI राइटिंग टूल जो AI डिटेक्टर्स को बायपास करता है
+[Visit](https://www.thataicollection.com/redirect/aiundetect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-इस मुफ़्त टूल की मदद से AI-संचालित छवि निर्माण और संपादन की संभावनाओं को अनलॉक करें, विभिन्न ऐप्लीकेशन के लिए तेज़ी से और लागत प्रभावी ढंग से अनोखे विज़ुअल तैयार करें।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+हमारा पता नहीं चल पाया है AI रीराइट टूल, यह AI डिटेक्शन रिमूवर सेवा प्रदान करता है, जो 8 मुफ़्त AI डिटेक्टर इंटरफेस को एकीकृत करती है, जिनमें GPTZero, ZeroGPT, Copyleak, Writer और SAPLING शामिल हैं। एक क्लिक से, तुम यह निर्धारित कर सकते हो कि तुम्हारी सामग्री AI द्वारा जनरेट की गई है या नहीं।
 
 
-
-
-### AvatarAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="AvatarAI">
-
-#### अपना खुद का फ़ोटोरियलिस्टिक AI अवतार बनाएं
-[Visit](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI की मदद से लोगों की फ़ोटोरियलिस्टिक इमेज जेनरेट करें। मूल अवतार AI™ के आधार पर अवतार की 120+ विभिन्न शैलियों को जेनरेट करें, जिसने AI अवतार ट्रेंड शुरू किया। इसमें सिर्फ़ 46 सेकंड का समय लगता है। अलग-अलग पोज़, जगहों और स्टाइल में ज़्यादा फ़ोटो पैक देखें।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/aiundetect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### PhotoRoom
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoroom.webp" alt="PhotoRoom">
+### StoryBee
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storybee.webp" alt="StoryBee">
 
-#### फोटोरूम - पृष्ठभूमि हटाएं और उत्पाद चित्र बनाएं
-[Visit](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### StoryBee एक ऐसा प्लेटफ़ॉर्म है जहाँ यूज़र AI की मदद से स्टोरीज़ बना सकते हैं।
+[Visit](https://www.thataicollection.com/redirect/storybee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-केवल अपने फ़ोन का उपयोग करके उत्पाद और चित्र चित्र बनाएँ। पृष्ठभूमि हटाएं, पृष्ठभूमि बदलें और उत्पादों का प्रदर्शन करें।
+StoryBee एक AI-संचालित प्लेटफ़ॉर्म है, जिसे बच्चों के लिए दिलचस्प कहानियाँ बनाने के लिए डिज़ाइन किया गया है। यूज़र एक संकेत या थीम प्रदान करके शुरू करते हैं, जो व्यक्तिगत कहानी तैयार करने में AI का मार्गदर्शन करता है। यह प्लेटफ़ॉर्म कहानी की शैली, शैली और दृश्य सौंदर्यशास्त्र को चुनने में और अधिक अनुकूलन की अनुमति देता है, जिससे यह सुनिश्चित होता है कि यह इच्छित दर्शकों को अच्छी तरह से पसंद आए।
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### content-brief-generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-content-brief-generator.webp" alt="content-brief-generator">
-
-#### बेहतरीन सामग्री लिखें, तेजी से। कुछ ही समय में सामग्री संक्षिप्त बनाएं और एसईओ के लिए अपनी सामग्री को अनुकूलित करें।
-[Visit](https://www.thataicollection.com/redirect/content-brief-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SEO टीमों के लिए Dashword #1 सामग्री अनुकूलन सॉफ़्टवेयर है। अपने पाठकों के लिए प्रासंगिक सामग्री बनाएँ और अपना जैविक ट्रैफ़िक बढ़ाएँ।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/content-brief-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Chatsimple
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatsimple.webp" alt="Chatsimple">
-
-#### ChatGPT बिज़नेस चैटबॉट तुम्हारे लिए आसान बना दिया गया है
-[Visit](https://www.thataicollection.com/redirect/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छोटे और मध्यम आकार के व्यवसायों (SMB) के लिए सिर्फ़ 5 मिनट में रूपांतरण-उन्मुख चैटबॉट बनाने में माहिर है। प्लेटफ़ॉर्म तीन प्रमुख कार्यक्षमताओं पर केंद्रित है: लीड जनरेशन, अक्सर पूछे जाने वाले प्रश्न प्रबंधन और प्री-क्वालिफिकेशन से संबंधित प्रश्नों को संभालना। एसएमबी को डोमेन-विशिष्ट विशेषज्ञता के साथ अपने स्वयं के चैटबॉट बनाने में सक्षम करके,
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/storybee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### AISEO
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiseo.webp" alt="AISEO">
+### Post Parrot
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-post-parrot.webp" alt="Post Parrot">
 
-#### Aiseo - AI राइटिंग असिस्टेंट, AI कॉपी राइटिंग और कंटेंट जेनरेटर
-[Visit](https://www.thataicollection.com/redirect/aiseo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### पोस्ट पैरट - रेडिट के लिए मुफ़्त मार्केटिंग टूल
+[Visit](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-आर्टिफिशियल इंटेलिजेंस के साथ लेखन महाशक्तियां प्राप्त करें। AISEO में हम आपको अपने विचारों को ब्लॉग में बदलने में मदद करेंगे और एक बटन के क्लिक पर आपके लिए लिख सकते हैं।
+क्या आप रेडिट पोस्ट टाइटल जेनरेट करना चाहते हैं जो एंगेजमेंट बढ़ाए? लक्षित सबरेडिट्स के लिए अपने पोस्ट टाइटल को बेहतर बनाने के लिए हमारा मुफ़्त डिजिटल मार्केटिंग टूल देखें।
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/aiseo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### ChatHelp.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chathelp.ai.webp" alt="ChatHelp.ai">
+### Handywriter
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-handywriter.webp" alt="Handywriter">
 
-#### ChatHelp.ai - AI- संचालित बिज़नेस, वर्क, स्टडी असिस्टेंट और वेबसाइट चैट विजेट।
-[Visit](https://www.thataicollection.com/redirect/chathelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### हैंडीप्लगइन्स - अच्छी तरह से तैयार किए गए WordPress प्लगइन्स - WordPress के लिए आसान टेक्स्ट-टू-स्पीच
+[Visit](https://www.thataicollection.com/redirect/handywriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-👉 निजी AI नॉलेज बेस से बात करें - AI सहायक होने से, जो तुम्हारे व्यवसाय और प्रतिस्पर्धियों, तुम्हारे काम या पढ़ाई के बारे में सब कुछ जानता हो, दैनिक कार्य कुशलता बढ़ाएँ...
+अपने टेक्स्ट को प्राकृतिक लगने वाले ऑडियो में बदलें, जो “आसान टेक्स्ट-टू-स्पीच” प्लगइन के साथ अपने सभी विज़िटर के लिए एक अनोखा और आकर्षक अनुभव प्रदान करता है।
 
-👉 ग्राहक सहायता पर समय और पैसे बचाओ। वेबसाइट चैट विजेट के ज़रिए AI को संभावित ग्राहकों के साथ 24/7 इंटरैक्ट करने की सुविधा देकर ज़्यादा बिक्री बढ़ाएँ। अपनी वेबसाइट के डेटा और अन्य दस्तावेज़ों से AI को प्रशिक्षित करें!
+[More Information and Pricing](https://www.thataicollection.com/en/application/handywriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
 
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/chathelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+### QuizRise
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quizrise.webp" alt="QuizRise">
+
+#### QuizRise | AI का इस्तेमाल करके आसानी से ऑनलाइन क्विज़, टेस्ट और परीक्षा के लिए प्रश्न तैयार करें।
+[Visit](https://www.thataicollection.com/redirect/quizrise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+QuizRise के साथ इंटरैक्टिव क्विज़ की दुनिया में गोता लगाएँ! 🧠✨
+आसानी से क्विज़ तैयार करें, कस्टमाइज़ करें और शेयर करें। 🌟
+चाहे तुम नॉलेज शेयर करने वाले हो या स्किल पॉलिशर, QuizRise ने तुम्हेंं कवर किया है।
+PDF, TXT, या DOCX फ़ॉर्मेट में क्विज़ एक्सपोर्ट करें।
+खोज की यात्रा में हमारे साथ शामिल हों! 🚀📚
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/quizrise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### BedtimeStory
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bedtimestory.webp" alt="BedtimeStory">
+
+#### सोने के समय की बेहतरीन कहानियाँ तैयार करें — AI द्वारा संचालित
+[Visit](https://www.thataicollection.com/redirect/bedtimestory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+कुछ ही सेकंड में वैयक्तिकृत, तुरंत सोने के समय की कहानियाँ बनाएँ। आर्टिफिशियल इंटेलिजेंस का इस्तेमाल करके अपने बच्चे के बारे में एक कहानी तैयार करें, जिसमें परिवार के सदस्य पात्र हों, एक शैली, कला-शैली, नैतिकता और बहुत कुछ जोड़ें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/bedtimestory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Whisper Memos
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-whisper-memos.webp" alt="Whisper Memos">
+
+#### व्हिस्पर मेमो - वॉइस मेमो रिकॉर्ड करें,
+इसे ईमेल के रूप में प्राप्त करें।
+[Visit](https://www.thataicollection.com/redirect/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+व्हिस्पर मेमो तुम्हारी रैंबलिंग को पैराग्राफ किए गए लेखों में बदल देता है और उन्हें तुम्हेंं ईमेल कर देता है।
+GPT-4 की बदौलत, हम शब्दों की गड़बड़ी के बजाय तुम्हारे ज्ञापन को अख़बार शैली के लेख में बदल देते हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1553,19 +1558,19 @@ AI और GPT-3 द्वारा संचालित अत्यधिक �
 <br />
 
 
-### TutorAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tutorai.webp" alt="TutorAI">
+### StoryBee
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storybee.webp" alt="StoryBee">
 
-#### कुछ भी सीखो - अपने इच्छित विषय को खोजकर
-[Visit](https://www.thataicollection.com/redirect/tutorai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### StoryBee एक ऐसा प्लेटफ़ॉर्म है जहाँ यूज़र AI की मदद से स्टोरीज़ बना सकते हैं।
+[Visit](https://www.thataicollection.com/redirect/storybee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-TutoEAI लर्न एनीथिंग किसी भी विषय के मॉड्यूल सीखने के लिए एक सर्च इंजन है। फ़िज़िक्स, अमेरिकी इतिहास, या अपना नाम जैसे टॉपिक्स आज़माएँ!
+StoryBee एक AI-संचालित प्लेटफ़ॉर्म है, जिसे बच्चों के लिए दिलचस्प कहानियाँ बनाने के लिए डिज़ाइन किया गया है। यूज़र एक संकेत या थीम प्रदान करके शुरू करते हैं, जो व्यक्तिगत कहानी तैयार करने में AI का मार्गदर्शन करता है। यह प्लेटफ़ॉर्म कहानी की शैली, शैली और दृश्य सौंदर्यशास्त्र को चुनने में और अधिक अनुकूलन की अनुमति देता है, जिससे यह सुनिश्चित होता है कि यह इच्छित दर्शकों को अच्छी तरह से पसंद आए।
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/tutorai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+[More Information and Pricing](https://www.thataicollection.com/en/application/storybee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
+
+
 
 
 ### Teacherbot
@@ -3241,6 +3246,23 @@ Podwise के साथ, तुम संरचित ज्ञान से �
 
 
 
+### Whisper Memos
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-whisper-memos.webp" alt="Whisper Memos">
+
+#### व्हिस्पर मेमो - वॉइस मेमो रिकॉर्ड करें,
+इसे ईमेल के रूप में प्राप्त करें।
+[Visit](https://www.thataicollection.com/redirect/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+व्हिस्पर मेमो तुम्हारी रैंबलिंग को पैराग्राफ किए गए लेखों में बदल देता है और उन्हें तुम्हेंं ईमेल कर देता है।
+GPT-4 की बदौलत, हम शब्दों की गड़बड़ी के बजाय तुम्हारे ज्ञापन को अख़बार शैली के लेख में बदल देते हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### ELSA SPEECH ANALYZER
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elsa-speech-analyzer.webp" alt="ELSA SPEECH ANALYZER">
 
@@ -3254,22 +3276,6 @@ Podwise के साथ, तुम संरचित ज्ञान से �
 <br />
 
 <br />
-
-
-### DetangleAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-detangleai.webp" alt="DetangleAI">
-
-#### किसी भी पॉडकास्ट, ईमेल, कानूनी दस्तावेज़, किताब वगैरह को संक्षेप में बताओ, ताकि तुम कर सको
-जो मायने रखता है उस पर ध्यान दो।
-[Visit](https://www.thataicollection.com/redirect/detangleai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-दस्तावेज़ से बातचीत + किसी भी फ़ाइल या लिंक के लिए सारांश! PDF, YouTube वीडियो, पॉडकास्ट, लेख, स्प्रेडशीट वगैरह के साथ चैट करें! वेटलिस्ट पर हॉप करें।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/detangleai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 
@@ -4784,15 +4790,16 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 
 
 
-### Wavinai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wavinai.webp" alt="Wavinai">
+### aiundetect
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiundetect.webp" alt="aiundetect">
 
-#### वाविनाई | AI टेक्स्ट जेनरेटर जो तुम्हेंं जो भी पसंद हो उसे लिखता है
-[Visit](https://www.thataicollection.com/redirect/wavinai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### फ्रीमियम अनडिटेक्टेबल AI राइटिंग टूल जो AI डिटेक्टर्स को बायपास करता है
+[Visit](https://www.thataicollection.com/redirect/aiundetect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-हमारे AI की मदद से अपने बिज़नेस टेक्स्ट जेनरेट करें। स्पैनिश में आर्टिफिशियल इंटेलिजेंस वाला टेक्स्ट जनरेटर जो तुम्हेंं और बेचने में मदद करेगा। मुफ़्त में साइन अप करें।
+हमारा पता नहीं चल पाया है AI रीराइट टूल, यह AI डिटेक्शन रिमूवर सेवा प्रदान करता है, जो 8 मुफ़्त AI डिटेक्टर इंटरफेस को एकीकृत करती है, जिनमें GPTZero, ZeroGPT, Copyleak, Writer और SAPLING शामिल हैं। एक क्लिक से, तुम यह निर्धारित कर सकते हो कि तुम्हारी सामग्री AI द्वारा जनरेट की गई है या नहीं।
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/wavinai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/aiundetect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
