@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=959" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=960" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -138,6 +138,66 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
 
+### Krea AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-krea-ai.webp" alt="Krea AI">
+
+#### Krea AI : création d'images instantanée et sans effort
+[Visit](https://www.thataicollection.com/redirect/krea-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Il suffit de dessiner un croquis de base et de fournir une invite sur le côté gauche de l'interface, et notre outil basé sur l'IA transforme instantanément ces entrées en images vives et détaillées sur la droite
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/krea-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Dubverse.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dubverse.ai.webp" alt="Dubverse.ai">
+
+#### Doublage de vidéos en ligne avec Dubverse.Ai
+[Visit](https://www.thataicollection.com/redirect/dubverse.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dubverse est une plateforme de doublage vidéo en ligne. Dubverse utilise l'intelligence artificielle pour doubler des vidéos en 30 langues à la vitesse de l'éclair
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/dubverse.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Dropout Developer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dropout-developer.webp" alt="Dropout Developer">
+
+#### Dropout Developer : révolutionner l'enseignement du codage pour les programmeurs en herbe
+[Visit](https://www.thataicollection.com/redirect/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Découvrez Dropout Developer, la plateforme améliorée par l'IA qui transforme la programmation autodidacte. Avec un apprentissage personnalisé, des cours basés sur des projets et une communauté de soutien, c'est idéal pour tous les passionnés de programmation, quel que soit leur parcours universitaire.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Quilt & Create
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quilt-and-create.webp" alt="Quilt & Create">
+
+#### Quilt & Create - Informations sur l'application Marketing Copy
+[Visit](https://www.thataicollection.com/redirect/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Ta boîte à outils unique connectée à Internet pour prendre des décisions stratégiques. Créez du texte et des images générés par l'IA en quelques secondes et créez facilement du contenu personnalisé qui trouve un écho auprès de votre public et reflète les valeurs de votre marque.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### aiundetect
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiundetect.webp" alt="aiundetect">
 
@@ -179,72 +239,6 @@ Tu veux générer des titres de posts sur Reddit qui suscitent de l'engagement 
 
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Handywriter
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-handywriter.webp" alt="Handywriter">
-
-#### Handyplugins — Des plugins Wordpress bien conçus - Synthèse vocale facile pour WordPress
-[Visit](https://www.thataicollection.com/redirect/handywriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Convertit ton texte en un son naturel, offrant ainsi une expérience unique et captivante à tous tes visiteurs grâce au plugin « Easy Text-to-Speech ».
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/handywriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### QuizRise
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quizrise.webp" alt="QuizRise">
-
-#### QuizRise | Créez facilement des questions pour les quiz, les tests et les examens en ligne à l'aide de l'IA.
-[Visit](https://www.thataicollection.com/redirect/quizrise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Plongez dans l'univers des quiz interactifs avec QuizRise ! 🧠✨
-Créez, personnalisez et partagez des quiz sans effort. 🌟
-Que tu partages des connaissances ou que tu perfectionnes tes compétences, QuizRise est là pour toi.
-Exporte les questionnaires aux formats PDF, TXT ou DOCX.
-Partez à la découverte avec nous ! 🚀📚
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/quizrise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### BedtimeStory
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bedtimestory.webp" alt="BedtimeStory">
-
-#### Créez de merveilleuses histoires à l'heure du coucher, grâce à l'IA
-[Visit](https://www.thataicollection.com/redirect/bedtimestory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Crée des histoires personnalisées et instantanées à l'heure du coucher en quelques secondes. Créez une histoire sur ton enfant, avec les membres de sa famille comme personnages, ajoute un genre, un style artistique, une morale et bien plus encore, en utilisant l'intelligence artificielle.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/bedtimestory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Whisper Memos
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-whisper-memos.webp" alt="Whisper Memos">
-
-#### Mémos Whisper : enregistre un mémo vocal,
-le recevoir par e-mail.
-[Visit](https://www.thataicollection.com/redirect/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Whisper Memos transforme tes divagations en articles composés de paragraphes et te les envoie par e-mail.
-Grâce à GPT-4, nous transformons ton mémo en article de journal, plutôt qu'en un mélange de mots.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -981,15 +975,15 @@ TLDR est un plugin IDE qui exploite l'IA pour expliquer le code en anglais simpl
 <br />
 
 
-### SuperDuperDB
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-superduperdb.webp" alt="SuperDuperDB">
+### Dropout Developer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dropout-developer.webp" alt="Dropout Developer">
 
-#### SuperDuperDB : Intégrez l'IA à votre base de données préférée !
-[Visit](https://www.thataicollection.com/redirect/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Dropout Developer : révolutionner l'enseignement du codage pour les programmeurs en herbe
+[Visit](https://www.thataicollection.com/redirect/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Créez facilement des applications d'IA sans avoir à déplacer vos données vers des pipelines complexes et des bases de données vectorielles spécialisées. Intégrez l'IA et la recherche vectorielle directement à votre base de données, y compris l'inférence en temps réel et l'entraînement de modèles. Il suffit d'utiliser Python !
+Découvrez Dropout Developer, la plateforme améliorée par l'IA qui transforme la programmation autodidacte. Avec un apprentissage personnalisé, des cours basés sur des projets et une communauté de soutien, c'est idéal pour tous les passionnés de programmation, quel que soit leur parcours universitaire.
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

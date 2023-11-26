@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=959" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=960" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -144,6 +144,66 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### Krea AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-krea-ai.webp" alt="Krea AI">
+
+#### Krea AI - Effortless, Instant Image Creation
+[Visit](https://www.thataicollection.com/redirect/krea-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Simply draw a basic sketch and provide a prompt on the left side of the interface, and our AI-driven tool instantly transforms these inputs into vivid, detailed images on the right
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/krea-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Dubverse.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dubverse.ai.webp" alt="Dubverse.ai">
+
+#### Online Video Dubbing With Dubverse.Ai
+[Visit](https://www.thataicollection.com/redirect/dubverse.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dubverse is an online video dubbing platform. Dubverse uses artificial intelligence to dub video across 30 languages at a lightning fast speed
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/dubverse.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Dropout Developer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dropout-developer.webp" alt="Dropout Developer">
+
+#### Dropout Developer: Revolutionizing Coding Education for Aspiring Programmers
+[Visit](https://www.thataicollection.com/redirect/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Discover Dropout Developer, the AI-enhanced platform transforming self-taught programming. With personalized learning, project-based courses, and a supportive community, it's ideal for anyone passionate about coding, regardless of their academic background.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Quilt & Create
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quilt-and-create.webp" alt="Quilt & Create">
+
+#### Quilt & Create - Marketing Copy App Info
+[Visit](https://www.thataicollection.com/redirect/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Your one-stop internet-enabled toolkit to power strategic decisions. Craft AI-generated text and images in seconds and effortlessly create personalised content that resonates with your audience and reflects your brand values.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### aiundetect
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiundetect.webp" alt="aiundetect">
 
@@ -185,72 +245,6 @@ Looking to generate reddit post titles that drive engagement? Checkout out our f
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Handywriter
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-handywriter.webp" alt="Handywriter">
-
-#### Handyplugins — Well-Crafted Wordpress Plugins - Easy Text-to-Speech for WordPress
-[Visit](https://www.thataicollection.com/redirect/handywriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Convert your text into natural-sounding audio, offering a unique and engaging experience for all your visitors with "Easy Text-to-Speech" plugin.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/handywriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### QuizRise
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quizrise.webp" alt="QuizRise">
-
-#### QuizRise | Effortlessly create questions for online quizzes, tests, and exams using AI.
-[Visit](https://www.thataicollection.com/redirect/quizrise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Dive into the world of interactive quizzes with QuizRise! 🧠✨
-Craft, customize, and share quizzes effortlessly. 🌟
-Whether you're a knowledge sharer or a skill polisher, QuizRise has you covered.
-Export quizzes in PDF, TXT, or DOCX formats.
-Join us on a journey of discovery! 🚀📚
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/quizrise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### BedtimeStory
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bedtimestory.webp" alt="BedtimeStory">
-
-#### Craft wonderful bedtime stories – powered by AI
-[Visit](https://www.thataicollection.com/redirect/bedtimestory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Create personalised, instant bedtime stories in seconds. Generate a story about your child, with family members as characters, add a genre, art style, moral and much more – using artificial intelligence.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/bedtimestory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Whisper Memos
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-whisper-memos.webp" alt="Whisper Memos">
-
-#### Whisper Memos - Record a voice memo,
-receive it as email.
-[Visit](https://www.thataicollection.com/redirect/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Whisper Memos turns your ramblings into paragraphed articles, and emails them to you.
-Thanks to GPT-4, we transform your memo into a newspaper-style article, rather than a jumble of words.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -987,15 +981,15 @@ TLDR is an IDE plugin that leverages AI to explain code in plain english.
 <br />
 
 
-### SuperDuperDB
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-superduperdb.webp" alt="SuperDuperDB">
+### Dropout Developer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dropout-developer.webp" alt="Dropout Developer">
 
-#### SuperDuperDB: Bring AI to your favorite database!
-[Visit](https://www.thataicollection.com/redirect/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Dropout Developer: Revolutionizing Coding Education for Aspiring Programmers
+[Visit](https://www.thataicollection.com/redirect/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Build AI applications easily without needing to move your data to complex pipelines and specialized vector databases. Integrate AI and vector search directly with your database including real-time inference and model training. Just using Python!
+Discover Dropout Developer, the AI-enhanced platform transforming self-taught programming. With personalized learning, project-based courses, and a supportive community, it's ideal for anyone passionate about coding, regardless of their academic background.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

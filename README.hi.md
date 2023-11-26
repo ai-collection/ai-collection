@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=959" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=960" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -138,6 +138,66 @@
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
 
+### Krea AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-krea-ai.webp" alt="Krea AI">
+
+#### कोरिया एआई - बिना किसी आसान, इंस्टेंट इमेज क्रिएशन
+[Visit](https://www.thataicollection.com/redirect/krea-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+बस एक बुनियादी स्केच बनाएं और इंटरफ़ेस के बाईं ओर संकेत दें, और हमारा AI-संचालित टूल इन इनपुट को तुरंत दाईं ओर स्पष्ट, विस्तृत तस्वीरों में बदल देता है
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/krea-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Dubverse.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dubverse.ai.webp" alt="Dubverse.ai">
+
+#### Dubverse.Ai के साथ ऑनलाइन वीडियो डबिंग
+[Visit](https://www.thataicollection.com/redirect/dubverse.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+डबवर्स एक ऑनलाइन वीडियो डबिंग प्लेटफ़ॉर्म है। डबवर्स 30 भाषाओं में वीडियो को तेज़ गति से डब करने के लिए आर्टिफिशियल इंटेलिजेंस का इस्तेमाल करता है
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/dubverse.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Dropout Developer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dropout-developer.webp" alt="Dropout Developer">
+
+#### ड्रॉपआउट डेवलपर: महत्वाकांक्षी प्रोग्रामर्स के लिए कोडिंग शिक्षा में क्रांति ला रहा है
+[Visit](https://www.thataicollection.com/redirect/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+डिस्कवर ड्रॉपआउट डेवलपर, एआई-एन्हांस्ड प्लेटफ़ॉर्म, जो स्व-सिखाई गई प्रोग्रामिंग को बदल देता है। व्यक्तिगत शिक्षा, प्रोजेक्ट-आधारित कोर्स और एक सहायक समुदाय के साथ, यह कोडिंग के शौक़ीन लोगों के लिए आदर्श है, चाहे उनकी शैक्षणिक पृष्ठभूमि कुछ भी हो।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Quilt & Create
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quilt-and-create.webp" alt="Quilt & Create">
+
+#### क्विल्ट एंड क्रिएट - मार्केटिंग कॉपी ऐप की जानकारी
+[Visit](https://www.thataicollection.com/redirect/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+रणनीतिक फ़ैसले लेने के लिए तुम्हारा वन-स्टॉप इंटरनेट-सक्षम टूलकिट। कुछ ही सेकंड में AI-जनरेट किया गया टेक्स्ट और इमेज तैयार करें और आसानी से वैयक्तिकृत कॉन्टेंट बनाएं, जो तुम्हारे दर्शकों को पसंद आए और तुम्हारे ब्रांड मूल्यों को दर्शाए।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### aiundetect
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiundetect.webp" alt="aiundetect">
 
@@ -179,72 +239,6 @@ StoryBee एक AI-संचालित प्लेटफ़ॉर्म ह�
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Handywriter
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-handywriter.webp" alt="Handywriter">
-
-#### हैंडीप्लगइन्स - अच्छी तरह से तैयार किए गए WordPress प्लगइन्स - WordPress के लिए आसान टेक्स्ट-टू-स्पीच
-[Visit](https://www.thataicollection.com/redirect/handywriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-अपने टेक्स्ट को प्राकृतिक लगने वाले ऑडियो में बदलें, जो “आसान टेक्स्ट-टू-स्पीच” प्लगइन के साथ अपने सभी विज़िटर के लिए एक अनोखा और आकर्षक अनुभव प्रदान करता है।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/handywriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### QuizRise
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quizrise.webp" alt="QuizRise">
-
-#### QuizRise | AI का इस्तेमाल करके आसानी से ऑनलाइन क्विज़, टेस्ट और परीक्षा के लिए प्रश्न तैयार करें।
-[Visit](https://www.thataicollection.com/redirect/quizrise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-QuizRise के साथ इंटरैक्टिव क्विज़ की दुनिया में गोता लगाएँ! 🧠✨
-आसानी से क्विज़ तैयार करें, कस्टमाइज़ करें और शेयर करें। 🌟
-चाहे तुम नॉलेज शेयर करने वाले हो या स्किल पॉलिशर, QuizRise ने तुम्हेंं कवर किया है।
-PDF, TXT, या DOCX फ़ॉर्मेट में क्विज़ एक्सपोर्ट करें।
-खोज की यात्रा में हमारे साथ शामिल हों! 🚀📚
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/quizrise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### BedtimeStory
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bedtimestory.webp" alt="BedtimeStory">
-
-#### सोने के समय की बेहतरीन कहानियाँ तैयार करें — AI द्वारा संचालित
-[Visit](https://www.thataicollection.com/redirect/bedtimestory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-कुछ ही सेकंड में वैयक्तिकृत, तुरंत सोने के समय की कहानियाँ बनाएँ। आर्टिफिशियल इंटेलिजेंस का इस्तेमाल करके अपने बच्चे के बारे में एक कहानी तैयार करें, जिसमें परिवार के सदस्य पात्र हों, एक शैली, कला-शैली, नैतिकता और बहुत कुछ जोड़ें।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/bedtimestory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Whisper Memos
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-whisper-memos.webp" alt="Whisper Memos">
-
-#### व्हिस्पर मेमो - वॉइस मेमो रिकॉर्ड करें,
-इसे ईमेल के रूप में प्राप्त करें।
-[Visit](https://www.thataicollection.com/redirect/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-व्हिस्पर मेमो तुम्हारी रैंबलिंग को पैराग्राफ किए गए लेखों में बदल देता है और उन्हें तुम्हेंं ईमेल कर देता है।
-GPT-4 की बदौलत, हम शब्दों की गड़बड़ी के बजाय तुम्हारे ज्ञापन को अख़बार शैली के लेख में बदल देते हैं।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -981,15 +975,15 @@ CodeWP एक वर्डप्रेस कोड जनरेटर है �
 <br />
 
 
-### SuperDuperDB
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-superduperdb.webp" alt="SuperDuperDB">
+### Dropout Developer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dropout-developer.webp" alt="Dropout Developer">
 
-#### SuperDuperDB: AI को अपने पसंदीदा डेटाबेस में लाओ!
-[Visit](https://www.thataicollection.com/redirect/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### ड्रॉपआउट डेवलपर: महत्वाकांक्षी प्रोग्रामर्स के लिए कोडिंग शिक्षा में क्रांति ला रहा है
+[Visit](https://www.thataicollection.com/redirect/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-अपने डेटा को जटिल पाइपलाइनों और खास वेक्टर डेटाबेस में ले जाने की ज़रूरत के बिना आसानी से AI ऐप्लिकेशन बनाएं। AI और वेक्टर खोज को सीधे अपने डेटाबेस के साथ एकीकृत करें, जिसमें रीयल-टाइम अनुमान और मॉडल प्रशिक्षण शामिल हैं। बस पायथन का इस्तेमाल कर रहा हूँ!
+डिस्कवर ड्रॉपआउट डेवलपर, एआई-एन्हांस्ड प्लेटफ़ॉर्म, जो स्व-सिखाई गई प्रोग्रामिंग को बदल देता है। व्यक्तिगत शिक्षा, प्रोजेक्ट-आधारित कोर्स और एक सहायक समुदाय के साथ, यह कोडिंग के शौक़ीन लोगों के लिए आदर्श है, चाहे उनकी शैक्षणिक पृष्ठभूमि कुछ भी हो।
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

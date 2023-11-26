@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=959" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=960" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -138,6 +138,66 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### Krea AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-krea-ai.webp" alt="Krea AI">
+
+#### Krea AI-轻松、即时地创建图像
+[Visit](https://www.thataicollection.com/redirect/krea-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+只需绘制基本草图并在界面左侧提供提示，我们的人工智能驱动工具即可在右侧将这些输入立即转换为生动、详细的图像
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/krea-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Dubverse.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dubverse.ai.webp" alt="Dubverse.ai">
+
+#### 使用 Dubverse.Ai 进行在线视频配音
+[Visit](https://www.thataicollection.com/redirect/dubverse.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dubverse 是一个在线视频配音平台。Dubverse 使用人工智能以闪电般的速度对 30 种语言的视频进行配音
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dubverse.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Dropout Developer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dropout-developer.webp" alt="Dropout Developer">
+
+#### 辍学开发者：彻底改变有抱负的程序员的编程教育
+[Visit](https://www.thataicollection.com/redirect/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+探索 Dropout Developer，这是一款改造自学编程的人工智能增强平台凭借个性化学习、基于项目的课程和支持社区，它非常适合任何热衷于编程的人，无论其学术背景如何。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Quilt & Create
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quilt-and-create.webp" alt="Quilt & Create">
+
+#### Quilt & Create-营销文案应用程序信息
+[Visit](https://www.thataicollection.com/redirect/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+您的一站式互联网工具包可为战略决策提供支持。在几秒钟内制作 AI 生成的文本和图像，轻松创建个性化内容，与受众产生共鸣并反映您的品牌价值。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### aiundetect
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiundetect.webp" alt="aiundetect">
 
@@ -179,72 +239,6 @@ StoryBee 是一个人工智能驱动的平台，旨在为孩子们创作引人�
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Handywriter
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-handywriter.webp" alt="Handywriter">
-
-#### Handyplugins — 精心制作的 WordPress 插件-适用于 WordPres
-[Visit](https://www.thataicollection.com/redirect/handywriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-将您的文本转换为听起来自然的音频，使用 “Easy Text-to-Speech” 插件为所有访客提供独特而引人入胜的体验。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/handywriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### QuizRise
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quizrise.webp" alt="QuizRise">
-
-#### QuizRise | 使用 AI 轻松地为在线测验、测试和考试创建问题。
-[Visit](https://www.thataicollection.com/redirect/quizrise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 QuizRise 潜入互动测验的世界！🧠✨
-轻松制作、自定义和共享测验。🌟
-无论你是知识共享者还是技能提升者，QuizRise 都能满足你的需求。
-以 PDF、TXT 或 DOCX 格式导出测验。
-加入我们，踏上探索之旅！🚀📚
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/quizrise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### BedtimeStory
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bedtimestory.webp" alt="BedtimeStory">
-
-#### 制作精彩的睡前故事——由 AI 提供支持
-[Visit](https://www.thataicollection.com/redirect/bedtimestory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在几秒钟内创建个性化的即时睡前故事。使用人工智能，以家庭成员为角色创作一个关于孩子的故事，添加流派、艺术风格、道德等等。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/bedtimestory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Whisper Memos
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-whisper-memos.webp" alt="Whisper Memos">
-
-#### Whisper Memos-录制语音备忘录，
-以电子邮件的形式接收。
-[Visit](https://www.thataicollection.com/redirect/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Whisper Memos 将你的胡言乱语变成分段文章，然后通过电子邮件发送给你。
-感谢 GPT-4，我们将你的备忘录转换为报纸风格的文章，而不是一言不发的文字。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -981,15 +975,15 @@ TLDR 是一个 IDE 插件，它利用 AI 以简单的英语解释代码。
 <br />
 
 
-### SuperDuperDB
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-superduperdb.webp" alt="SuperDuperDB">
+### Dropout Developer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dropout-developer.webp" alt="Dropout Developer">
 
-#### SuperDuperDB：将人工智能带到你最喜欢的数据库！
-[Visit](https://www.thataicollection.com/redirect/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 辍学开发者：彻底改变有抱负的程序员的编程教育
+[Visit](https://www.thataicollection.com/redirect/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-轻松构建 AI 应用程序，无需将数据移动到复杂的管道和专门的矢量数据库。将 AI 和矢量搜索直接与您的数据库集成，包括实时推理和模型训练。只需使用 Python！
+探索 Dropout Developer，这是一款改造自学编程的人工智能增强平台凭借个性化学习、基于项目的课程和支持社区，它非常适合任何热衷于编程的人，无论其学术背景如何。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
