@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=959" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=960" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -198,6 +198,7 @@
 | [Datamaker](https://www.thataicollection.com/redirect/datamaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 面向设计师的 AI 支持的 Webflow 代码和复制工具。. | 如果您是 Webflow Designer 或 Webflow Developer，那么您需要查看这些工具。使用 AI 创建代码和复制来解决您的 Webflow 问题。. | :grey_question: |
 | [Decile](https://www.thataicollection.com/redirect/decile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过询问获取您需要的数据。. | 借助 AI 的力量建立一个数据主导的组织。. | :x: |
 | [DocuWriter.ai](https://www.thataicollection.com/redirect/docuwriter.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ✨ 代码文档的终极人工智能. | 一个强大的工具，可以从源代码文件自动生成全面准确的文档. | :white_check_mark: |
+| [Dropout Developer](https://www.thataicollection.com/redirect/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 辍学开发者：彻底改变有抱负的程序员的编程教育. | 探索 Dropout Developer，这是一款改造自学编程的人工智能增强平台凭借个性化学习、基于项目的课程和支持社区，它非常适合任何热衷于编程的人，无论其学术背景如何。. | :white_check_mark: |
 | [Explain An Error](https://www.thataicollection.com/redirect/explain-an-error?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 由 Whybug 解释. | 让 AI 向您解释为什么您的代码有问题以及如何修复它. | :grey_question: |
 | [ExplainDev](https://www.thataicollection.com/redirect/explaindev?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ExplainDev - 在上下文中回答您的问题的代码解释器. | ExplainDev 帮助您更加自信和独立地处理他人的代码。通过由 AI 提供支持的 Chrome 和 VS Code 扩展，获取代码解释和问题的直接答案。. | :grey_question: |
 | [Fine](https://www.thataicollection.com/redirect/fine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 更快地构建更好的软件. | Fine 将您的任务转化为量身定制的规范，并使用 AI 代理为您实施它们。通过新的效率标准加速软件开发。通过根据详细规范生成代码来启动您的团队，最多可减少 80% 的编码时间。. | :white_check_mark: |
@@ -378,6 +379,7 @@
 | [Lightricks](https://www.thataicollection.com/redirect/lightricks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 各地创作者的家园. | 使用面向创作者的最佳工具和服务体验创作的魔力：Facetune 2、Videoleap、Linkinbio 和 Photoleap。现在检查一下！. | :grey_question: |
 | [Media.io](https://www.thataicollection.com/redirect/media.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 由人工智能驱动的在线视频、音频、图像创意平台. | 简单。多样性。灵活性。. | :white_check_mark: |
 | [Phygital](https://www.thataicollection.com/redirect/phygital?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 拥有超能力的创作者. | 基于节点的 AI 工作区，供创作者在没有代码的情况下使用神经网络。 （Α）. | :grey_question: |
+| [Quilt & Create](https://www.thataicollection.com/redirect/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Quilt & Create-营销文案应用程序信息. | 您的一站式互联网工具包可为战略决策提供支持。在几秒钟内制作 AI 生成的文本和图像，轻松创建个性化内容，与受众产生共鸣并反映您的品牌价值。. | :grey_question: |
 | [Runway](https://www.thataicollection.com/redirect/runway?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Runway - 下一代创作套件 - 快速制作内容所需的一切。. | 探索高级视频编辑功能，让您的创作更上一层楼。. | :white_check_mark: |
 | [TextSynth](https://www.thataicollection.com/redirect/textsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TextSynth 允许通过 REST API 和游乐场访问大型语言或文本到图像模型，例如 Llama2、Falcon、GPT-J、GPT-Neox、Flan-T5、M2M100、CodeGen、Stable Diffusion。. | TextSynth 使用自定义推理代码来更快地对标准 GPU 和 CPU 进行推理。该网站成立于 2020 年，是最早提供 GPT-2 语言模型访问权限的网站之一。基本服务是免费的，但价格有限。希望没有限制的用户可以为每个请求支付少量费用（参见我们的定价）。如果您需要定制支持，请联系我们：通过 textsynth dot com 联系我们。. | :white_check_mark: |
 
@@ -726,6 +728,7 @@
 | [Imgupscaler](https://www.thataicollection.com/redirect/imgupscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 智能 PNG / JPG 图像升级器. | 使用最新的 AI 技术提升和增强您的形象. | :grey_question: |
 | [jpghd](https://www.thataicollection.com/redirect/jpghd?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | jpgHD - 老照片AI无损修复. | 使用2022前沿AI模型对老照片进行无损修复（支持老照片、划痕照片修复、调色、Magic Photo）. | :grey_question: |
 | [jpgRM](https://www.thataicollection.com/redirect/jpgrm?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | jpgRM - AI图像魔术清理. | 使用 2022 尖端 AI 模型从图像中删除任何不需要的对象，自动填充背景. | :grey_question: |
+| [Krea AI](https://www.thataicollection.com/redirect/krea-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Krea AI-轻松、即时地创建图像. | 只需绘制基本草图并在界面左侧提供提示，我们的人工智能驱动工具即可在右侧将这些输入立即转换为生动、详细的图像. | :white_check_mark: |
 | [Liro.ai](https://www.thataicollection.com/redirect/liro.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Liro.ai 是一款在线 AI 图像生成器，只需点击一下即可轻松生成任何你能想象的东西。. | -100% 私有镜像生成 -未经审查的稳定扩散 -五种图像生成风格 -易于使用的用户界面 -高品质图片 -负面提示 -快速生成时间 -商业用途. | :white_check_mark: |
 | [Magic Eraser](https://www.thataicollection.com/redirect/magic-eraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Magic Studio - 由人工智能驱动，由你创造. | Magic Studio 使用 AI 帮助您自动编辑和创建图像. | :grey_question: |
 | [Old Photo Restoration](https://www.thataicollection.com/redirect/old-photo-restoration?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 在几秒钟内免费在线恢复旧照片. | 人工智能旧照片修复可以修复和增强已售出、损坏或褪色的照片。我们使用先进的技术和技术来恢复复古版画的色彩、清晰度和质感，有助于为子孙后代保留珍贵的回忆。无论您是想修复旧的家庭照片还是复古纪念品，我们的旧照片修复服务都将为珍贵的纪念品注入新的活力。. | :white_check_mark: |
@@ -925,6 +928,7 @@
 | [Ava](https://www.thataicollection.com/redirect/ava?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 针对聋人和 HoH 的专业和基于 AI 的字幕 - Ava. | . | :grey_question: |
 | [Deciphr AI](https://www.thataicollection.com/redirect/deciphr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 破译AI. | 在深度 AI 的支持下，Deciphr 为您添加时间戳并总结您的整个播客记录。比煮咖啡的时间还短. | :white_check_mark: |
 | [DeepL](https://www.thataicollection.com/redirect/deepl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Deepl Translate：世界上最准确的翻译器. | 使用 DeepL Write 完善你的写作。 修复语法和标点符号错误，改写句子，表达细微差别，找到完美的语气. | :white_check_mark: |
+| [Dubverse.ai](https://www.thataicollection.com/redirect/dubverse.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 Dubverse.Ai 进行在线视频配音. | Dubverse 是一个在线视频配音平台。Dubverse 使用人工智能以闪电般的速度对 30 种语言的视频进行配音. | :white_check_mark: |
 | [Graphic AI](https://www.thataicollection.com/redirect/graphic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI辅助团队工作协作平台. | Stork 帮助团队改善沟通和生产力。它是混合和远程团队的商务信使，可自动记录和转录所有会议和电话。为异步后大流行世界而制作，并由人工智能辅助。. | :grey_question: |
 | [Papercup](https://www.thataicollection.com/redirect/papercup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Papercup - 人工智能配音和视频翻译软件. | . | :grey_question: |
 | [Rephrasely](https://www.thataicollection.com/redirect/rephrasely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 适用于所有语言的免费改写生成器！. | Rephrasely 使用最先进的 AI 为我们提供的 18 种（12 种免费和 6 种高级）样式中的每一种样式生成 100 多种语言的文本变体。通过这样做，我们能够提供比任何其他服务更多的价值和多样性。. | :white_check_mark: |
@@ -1298,7 +1302,6 @@
 | [Diffusion Bee](https://www.thataicollection.com/redirect/diffusion-bee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | DiffusionBee - 稳定的 AI 艺术扩散应用程序. | DiffusionBee 是使用 Stable Diffusion 在计算机上生成 AI 艺术的最简单方法. | :white_check_mark: |
 | [DREAM.page](https://www.thataicollection.com/redirect/dream.page?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | . | :grey_question: |
 | [Dreamily](https://www.thataicollection.com/redirect/dreamily?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 梦幻般的测试版. | . | :grey_question: |
-| [Dubverse.ai](https://www.thataicollection.com/redirect/dubverse.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 Dubverse.ai 进行在线视频配音. | . | :grey_question: |
 | [Ebsynth](https://www.thataicollection.com/redirect/ebsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EbSynth - 通过在单帧上绘画来转换视频. | 您绘制一帧，EbSynth 将其传播到其余的素材。. | :grey_question: |
 | [Echowin](https://www.thataicollection.com/redirect/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 支持的呼叫管理具有完全自然语言理解和针对每个场景的个性化响应。. | . | :grey_question: |
 | [ExactBuyer Search](https://www.thataicollection.com/redirect/exactbuyer-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ExactBuyer - 面向潜在客户团队的人工智能业务搜索. | . | :grey_question: |
@@ -1357,7 +1360,6 @@
 | [PromptExplained](https://www.thataicollection.com/redirect/promptexplained?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过洞察、技术和提示定制 AI 提示帮助用户掌握提示工程的网站. | 通过有关 ChatGPT、Dall-e、Stable Diffusion 和 MidJourney 的快速定制的易于遵循的指南提升您的 AI 体验，以增强对话、引人注目的视觉效果和跨应用程序的无限创造力. | :white_check_mark: |
 | [Promptextend](https://www.thataicollection.com/redirect/promptextend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PromptExtend - 为 MidJourney 扩展/生成 Ai 艺术提示. | . | :grey_question: |
 | [Question Base](https://www.thataicollection.com/redirect/question-base?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 规模知识. | 问题库是一种新型的知识库。它由 AI 提供支持，可以在 Slack 中回答您团队的问题。自动地。. | :grey_question: |
-| [Quilt & Create](https://www.thataicollection.com/redirect/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 被子与创造. | . | :grey_question: |
 | [Quizwhiz](https://www.thataicollection.com/redirect/quizwhiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | QuizWhiz - 从任何文本生成 MCQ. | 提供正文并获得 AI 生成的问题和答案，以及它们的多项选择选项。. | :grey_question: |
 | [Raplyrics](https://www.thataicollection.com/redirect/raplyrics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Raplyrics – 生成您的说唱音乐妙语。. | 在下面的提示中写下几个词，并使用人工智能生成独特的说唱音乐妙语！. | :grey_question: |
 | [Recommendme](https://www.thataicollection.com/redirect/recommendme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 推荐我. | . | :grey_question: |

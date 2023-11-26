@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=959" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=960" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -138,6 +138,66 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### Krea AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-krea-ai.webp" alt="Krea AI">
+
+#### Krea AI — простое и мгновенное создание изображений
+[Visit](https://www.thataicollection.com/redirect/krea-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Просто нарисуйте базовый эскиз и введите подсказку в левой части интерфейса, и наш инструмент на базе искусственного интеллекта мгновенно преобразует эти входные данные в яркие детализированные изображения справа
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/krea-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Dubverse.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dubverse.ai.webp" alt="Dubverse.ai">
+
+#### Онлайн-дубляж видео с помощью Dubverse.Ai
+[Visit](https://www.thataicollection.com/redirect/dubverse.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dubverse — это онлайн-платформа для озвучивания видео. Dubverse использует искусственный интеллект для молниеносного дублирования видео на 30 языков
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/dubverse.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Dropout Developer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dropout-developer.webp" alt="Dropout Developer">
+
+#### Dropout Developer: революция в обучении программированию для начинающих программистов
+[Visit](https://www.thataicollection.com/redirect/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Откройте для себя Dropout Developer, усовершенствованную платформу искусственного интеллекта, которая трансформирует программирование для самообучения. Благодаря персонализированному обучению, проектным курсам и поддерживающему сообществу эта программа идеально подходит для всех, кто увлекается программированием, независимо от их академического образования.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Quilt & Create
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quilt-and-create.webp" alt="Quilt & Create">
+
+#### Quilt & Create - информация о приложении для создания рекламных текстов
+[Visit](https://www.thataicollection.com/redirect/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Ваш универсальный набор инструментов с подключением к Интернету для принятия стратегических решений. Создавайте текст и изображения, созданные искусственным интеллектом, за считанные секунды и без труда создавайте персонализированный контент, который найдет отклик у вашей аудитории и отражает ценности вашего бренда.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### aiundetect
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiundetect.webp" alt="aiundetect">
 
@@ -179,72 +239,6 @@ StoryBee — это платформа на базе искусственног�
 
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Handywriter
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-handywriter.webp" alt="Handywriter">
-
-#### Handyplugins — хорошо продуманные плагины Wordpress — простое преобразование текста в речь для WordPress
-[Visit](https://www.thataicollection.com/redirect/handywriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Преобразуйте текст в звук с естественным звучанием, предлагая уникальный и увлекательный опыт для всех ваших посетителей с помощью плагина «Easy Text-to-Speech».
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/handywriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### QuizRise
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quizrise.webp" alt="QuizRise">
-
-#### QuizRise | Легко создавайте вопросы для онлайн-викторин, тестов и экзаменов с помощью искусственного интеллекта.
-[Visit](https://www.thataicollection.com/redirect/quizrise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Погрузитесь в мир интерактивных викторин вместе с QuizRise! 🧠✨
-Создавайте, настраивайте и делитесь викторинами без труда. 🌟
-Независимо от того, делитесь ли вы знаниями или занимаетесь совершенствованием навыков, QuizRise поможет вам.
-Экспортируйте тесты в форматах PDF, TXT или DOCX.
-Отправляйтесь с нами в путешествие, полное открытий! 🚀📚
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/quizrise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### BedtimeStory
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bedtimestory.webp" alt="BedtimeStory">
-
-#### Создавайте чудесные сказки на ночь с помощью искусственного интеллекта
-[Visit](https://www.thataicollection.com/redirect/bedtimestory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Создавайте персонализированные сказки на ночь за считанные секунды. Создайте историю о своем ребенке с участием членов семьи, добавьте жанр, художественный стиль, мораль и многое другое — используя искусственный интеллект.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/bedtimestory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Whisper Memos
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-whisper-memos.webp" alt="Whisper Memos">
-
-#### Whisper Memos — запишите голосовую заметку,
-получите ее по электронной почте.
-[Visit](https://www.thataicollection.com/redirect/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Whisper Memos превращает ваши разговоры в статьи с абзацами и отправляет их вам по электронной почте.
-Благодаря GPT-4 мы превращаем вашу заметку в статью в газетном стиле, а не в набор слов.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -981,15 +975,15 @@ TLDR — это подключаемый модуль IDE, который исп
 <br />
 
 
-### SuperDuperDB
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-superduperdb.webp" alt="SuperDuperDB">
+### Dropout Developer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dropout-developer.webp" alt="Dropout Developer">
 
-#### SuperDuperDB: добавьте искусственный интеллект в свою любимую базу данных!
-[Visit](https://www.thataicollection.com/redirect/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Dropout Developer: революция в обучении программированию для начинающих программистов
+[Visit](https://www.thataicollection.com/redirect/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Легко создавайте приложения на основе искусственного интеллекта без необходимости переноса данных в сложные конвейеры и специализированные векторные базы данных. Интегрируйте искусственный интеллект и векторный поиск непосредственно в свою базу данных, включая получение логических выводов и обучение моделей в реальном времени. Просто используйте Python!
+Откройте для себя Dropout Developer, усовершенствованную платформу искусственного интеллекта, которая трансформирует программирование для самообучения. Благодаря персонализированному обучению, проектным курсам и поддерживающему сообществу эта программа идеально подходит для всех, кто увлекается программированием, независимо от их академического образования.
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
