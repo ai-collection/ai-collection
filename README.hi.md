@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=960" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=967" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -74,6 +74,25 @@
     <h4>कपड़े उतारना.vip—2023 सबसे अच्छा 100% काम करने वाला अनड्रेस ऐ डीप न्यूड </h4>
     <p>Undress.vip, एक ज़बरदस्त एयर टूल, जो इस प्रगति में सबसे आगे है। undress.vip—2023 सबसे अच्छा 100% वर्किंग एआई डीपन्यूड और डीपफ़ेक टेलीग्राम अनड्रेस एयर बॉट्स</p>
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Undress.Vip के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/pet-booth/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth" border="0"/>
+    </a>
+    <h4>पेट बूथ तुम्हारे खुद के AI पेट पोर्ट्रेट्स, आर्टवर्क और फ़ोटो बनाने की सेवा है। बस अपनी बिल्ली या कुत्ते की 10-20 तस्वीरें अपलोड करें और उन्हें बदलने के लिए 80 से अधिक थीम में से चुनें।</h4>
+    <p>पेट बूथ आपके खुद के अद्भुत AI पेट पोर्ट्रेट, फ़ोटो और आर्टवर्क बनाने की सेवा है। यह तेज़, आसान और मज़ेदार है!
+
+यह कैसे काम करता है?
+
+बस अपनी बिल्ली या कुत्ते की 10-20 तस्वीरें अपलोड करें और उन्हें बदलने के लिए 80 से अधिक थीम में से चुनें।
+
+फ़ोटो-यथार्थवादी और कलात्मक दोनों शैलियों में अपने पालतू जानवरों की 100 AI जनरेट की गई तस्वीरों का एक पैकेट प्राप्त करें।</p>
+    <a href="https://www.thataicollection.com/redirect/pet-booth/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Pet Booth के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -138,107 +157,111 @@
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
 
-### Krea AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-krea-ai.webp" alt="Krea AI">
+### Pet Booth
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
 
-#### कोरिया एआई - बिना किसी आसान, इंस्टेंट इमेज क्रिएशन
-[Visit](https://www.thataicollection.com/redirect/krea-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### पेट बूथ तुम्हारे खुद के AI पेट पोर्ट्रेट्स, आर्टवर्क और फ़ोटो बनाने की सेवा है। बस अपनी बिल्ली या कुत्ते की 10-20 तस्वीरें अपलोड करें और उन्हें बदलने के लिए 80 से अधिक थीम में से चुनें।
+[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-बस एक बुनियादी स्केच बनाएं और इंटरफ़ेस के बाईं ओर संकेत दें, और हमारा AI-संचालित टूल इन इनपुट को तुरंत दाईं ओर स्पष्ट, विस्तृत तस्वीरों में बदल देता है
+पेट बूथ आपके खुद के अद्भुत AI पेट पोर्ट्रेट, फ़ोटो और आर्टवर्क बनाने की सेवा है। यह तेज़, आसान और मज़ेदार है!
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/krea-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+यह कैसे काम करता है?
 
-<br />
+बस अपनी बिल्ली या कुत्ते की 10-20 तस्वीरें अपलोड करें और उन्हें बदलने के लिए 80 से अधिक थीम में से चुनें।
 
+फ़ोटो-यथार्थवादी और कलात्मक दोनों शैलियों में अपने पालतू जानवरों की 100 AI जनरेट की गई तस्वीरों का एक पैकेट प्राप्त करें।
 
-
-
-### Dubverse.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dubverse.ai.webp" alt="Dubverse.ai">
-
-#### Dubverse.Ai के साथ ऑनलाइन वीडियो डबिंग
-[Visit](https://www.thataicollection.com/redirect/dubverse.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-डबवर्स एक ऑनलाइन वीडियो डबिंग प्लेटफ़ॉर्म है। डबवर्स 30 भाषाओं में वीडियो को तेज़ गति से डब करने के लिए आर्टिफिशियल इंटेलिजेंस का इस्तेमाल करता है
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/dubverse.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Dropout Developer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dropout-developer.webp" alt="Dropout Developer">
-
-#### ड्रॉपआउट डेवलपर: महत्वाकांक्षी प्रोग्रामर्स के लिए कोडिंग शिक्षा में क्रांति ला रहा है
-[Visit](https://www.thataicollection.com/redirect/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-डिस्कवर ड्रॉपआउट डेवलपर, एआई-एन्हांस्ड प्लेटफ़ॉर्म, जो स्व-सिखाई गई प्रोग्रामिंग को बदल देता है। व्यक्तिगत शिक्षा, प्रोजेक्ट-आधारित कोर्स और एक सहायक समुदाय के साथ, यह कोडिंग के शौक़ीन लोगों के लिए आदर्श है, चाहे उनकी शैक्षणिक पृष्ठभूमि कुछ भी हो।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Quilt & Create
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quilt-and-create.webp" alt="Quilt & Create">
+### Creative QR codes using AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-creative-qr-codes-using-ai.webp" alt="Creative QR codes using AI">
 
-#### क्विल्ट एंड क्रिएट - मार्केटिंग कॉपी ऐप की जानकारी
-[Visit](https://www.thataicollection.com/redirect/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI का इस्तेमाल करके अपने लिंक को कलात्मक QR में बदलो और कन्वर्ज़न बढ़ाओ
+[Visit](https://www.thataicollection.com/redirect/creative-qr-codes-using-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-रणनीतिक फ़ैसले लेने के लिए तुम्हारा वन-स्टॉप इंटरनेट-सक्षम टूलकिट। कुछ ही सेकंड में AI-जनरेट किया गया टेक्स्ट और इमेज तैयार करें और आसानी से वैयक्तिकृत कॉन्टेंट बनाएं, जो तुम्हारे दर्शकों को पसंद आए और तुम्हारे ब्रांड मूल्यों को दर्शाए।
+हमारे कलात्मक QR कोड के साथ सहज जुड़ाव का अनुभव करें — डिज़ाइन और कार्यक्षमता का एक आकर्षक मिश्रण। अपने यूज़र पर स्थायी छाप छोड़ते हुए, शानदार तरीके से संदेश या ब्रांड पहचान को तुरन्त संप्रेषित करें।
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### aiundetect
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiundetect.webp" alt="aiundetect">
-
-#### फ्रीमियम अनडिटेक्टेबल AI राइटिंग टूल जो AI डिटेक्टर्स को बायपास करता है
-[Visit](https://www.thataicollection.com/redirect/aiundetect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-हमारा पता नहीं चल पाया है AI रीराइट टूल, यह AI डिटेक्शन रिमूवर सेवा प्रदान करता है, जो 8 मुफ़्त AI डिटेक्टर इंटरफेस को एकीकृत करती है, जिनमें GPTZero, ZeroGPT, Copyleak, Writer और SAPLING शामिल हैं। एक क्लिक से, तुम यह निर्धारित कर सकते हो कि तुम्हारी सामग्री AI द्वारा जनरेट की गई है या नहीं।
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/aiundetect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/creative-qr-codes-using-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### StoryBee
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storybee.webp" alt="StoryBee">
+### Photoshift
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoshift.webp" alt="Photoshift">
 
-#### StoryBee एक ऐसा प्लेटफ़ॉर्म है जहाँ यूज़र AI की मदद से स्टोरीज़ बना सकते हैं।
-[Visit](https://www.thataicollection.com/redirect/storybee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### अपने प्रॉडक्ट को मिडजर्नी सीन या किसी स्टॉक फ़ोटो में शिफ्ट करें
+[Visit](https://www.thataicollection.com/redirect/photoshift?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-StoryBee एक AI-संचालित प्लेटफ़ॉर्म है, जिसे बच्चों के लिए दिलचस्प कहानियाँ बनाने के लिए डिज़ाइन किया गया है। यूज़र एक संकेत या थीम प्रदान करके शुरू करते हैं, जो व्यक्तिगत कहानी तैयार करने में AI का मार्गदर्शन करता है। यह प्लेटफ़ॉर्म कहानी की शैली, शैली और दृश्य सौंदर्यशास्त्र को चुनने में और अधिक अनुकूलन की अनुमति देता है, जिससे यह सुनिश्चित होता है कि यह इच्छित दर्शकों को अच्छी तरह से पसंद आए।
+Photoshift के ज़रिए अपने प्रॉडक्ट की प्रस्तुति को बेहतर बनाएं। बेहद यथार्थवादी दृश्यों के लिए अपने उत्पाद को किसी भी स्टॉक इमेज या मिडजर्नी सीन में आसानी से ब्लेंड करें। तुरंत होने वाले बदलावों का अनुभव करें, नहीं, संकेत की ज़रूरत नहीं है
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/storybee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/photoshift?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Post Parrot
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-post-parrot.webp" alt="Post Parrot">
+### Zust AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zust-ai.webp" alt="Zust AI">
 
-#### पोस्ट पैरट - रेडिट के लिए मुफ़्त मार्केटिंग टूल
-[Visit](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### प्रॉडक्ट फ़ोटोशूट के लिए बेहतरीन AI प्लेटफ़ॉर्म
+[Visit](https://www.thataicollection.com/redirect/zust-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-क्या आप रेडिट पोस्ट टाइटल जेनरेट करना चाहते हैं जो एंगेजमेंट बढ़ाए? लक्षित सबरेडिट्स के लिए अपने पोस्ट टाइटल को बेहतर बनाने के लिए हमारा मुफ़्त डिजिटल मार्केटिंग टूल देखें।
+AI का इस्तेमाल करके तुरंत शानदार स्टूडियो-क्वालिटी प्रोडक्ट इमेज बनाएं। रचनात्मकता को उजागर करें, समय बचाएं और अपने दर्शकों को आसानी से आकर्षित करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/zust-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
 
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+### Vidnoz Flex
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-flex.webp" alt="Vidnoz Flex">
+
+####  शक्तिशाली तरीके से अपने वीडियो बनाएं, शेयर करें, मैनेज करें और ट्रैक करें।
+[Visit](https://www.thataicollection.com/redirect/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vidnoz Flex, Vidnoz का एक आसान लेकिन शक्तिशाली वीडियो टूल है, जिसमें वीडियो बनाने, वैयक्तिकरण, शेयरिंग और ट्रैक सुविधाओं को एक ही जगह पर जोड़ा जाता है। यह दैनिक रूटीन में वीडियो निर्माण और प्रचार की तुम्हारी उत्पादकता को पूरी तरह से बढ़ा देगा और सबसे महत्वपूर्ण परिणाम लाएगा।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### undressing.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undressing.io.webp" alt="undressing.io">
+
+#### AI अनड्रेसिंग - AI अनड्रेसिंग के ज़रिए फ़ोटो मुफ़्त में न्यूडिफ़ाई करें
+[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+सबसे अच्छी नई मुफ़्त AI अनड्रेसिंग तकनीक! तस्वीरों के लिए AI से चलने वाली अनड्रेसिंग! तुरन्त रूप बदलो। एक क्लिक में नंगी तस्वीरें। कई स्टाइल और प्रॉम्प्ट के साथ इसे करने के अवसर
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Martin
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="Martin">
+
+#### AI अनड्रेसिंग - AI अनड्रेसिंग के ज़रिए फ़ोटो मुफ़्त में न्यूडिफ़ाई करें
+[Visit](https://www.thataicollection.com/redirect/martin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+सबसे अच्छी नई मुफ़्त AI अनड्रेसिंग तकनीक! तस्वीरों के लिए AI से चलने वाली अनड्रेसिंग! तुरन्त रूप बदलो। एक क्लिक में नंगी तस्वीरें। कई स्टाइल और प्रॉम्प्ट के साथ इसे करने के अवसर
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/martin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -334,6 +357,21 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 सांसारिक कार्यों को स्वचालित करने और जटिल निर्णय लेने में सहायता करने के लिए उच्चतम गुणवत्ता वाले उद्योग के पेशेवरों को पेश करना। अभी ईल्ला तक जल्दी पहुँच पाओ।
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### GooseAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gooseai.webp" alt="GooseAI">
+
+#### Gooseai - अपने AI इंफ़्रास्ट्रक्चर के लिए ज़्यादा भुगतान करना बंद करो।
+[Visit](https://www.thataicollection.com/redirect/gooseai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+GooseAI API के ज़रिए डिलीवर की जाने वाली पूरी तरह से प्रबंधित NLP-A-A-S-A-Service है, इस संबंध में इसकी तुलना OpenAI से की जा सकती है। और इससे भी बढ़कर, यह OpenAI के कंप्लीशन API के साथ पूरी तरह से संगत है!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/gooseai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -613,19 +651,25 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 
 
 
-### PhotoRoom
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoroom.webp" alt="PhotoRoom">
+### Pet Booth
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
 
-#### फोटोरूम - पृष्ठभूमि हटाएं और उत्पाद चित्र बनाएं
-[Visit](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### पेट बूथ तुम्हारे खुद के AI पेट पोर्ट्रेट्स, आर्टवर्क और फ़ोटो बनाने की सेवा है। बस अपनी बिल्ली या कुत्ते की 10-20 तस्वीरें अपलोड करें और उन्हें बदलने के लिए 80 से अधिक थीम में से चुनें।
+[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-केवल अपने फ़ोन का उपयोग करके उत्पाद और चित्र चित्र बनाएँ। पृष्ठभूमि हटाएं, पृष्ठभूमि बदलें और उत्पादों का प्रदर्शन करें।
+पेट बूथ आपके खुद के अद्भुत AI पेट पोर्ट्रेट, फ़ोटो और आर्टवर्क बनाने की सेवा है। यह तेज़, आसान और मज़ेदार है!
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+यह कैसे काम करता है?
+
+बस अपनी बिल्ली या कुत्ते की 10-20 तस्वीरें अपलोड करें और उन्हें बदलने के लिए 80 से अधिक थीम में से चुनें।
+
+फ़ोटो-यथार्थवादी और कलात्मक दोनों शैलियों में अपने पालतू जानवरों की 100 AI जनरेट की गई तस्वीरों का एक पैकेट प्राप्त करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### Designify
@@ -1207,15 +1251,15 @@ SEO टीमों के लिए Dashword #1 सामग्री अनु
 <br />
 
 
-### Adobe Express
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-adobe-express.webp" alt="Adobe Express">
+### Creative QR codes using AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-creative-qr-codes-using-ai.webp" alt="Creative QR codes using AI">
 
-#### YouTube के थंबनेल मिनटों में मुफ़्त बनाएं।
-[Visit](https://www.thataicollection.com/redirect/adobe-express?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI का इस्तेमाल करके अपने लिंक को कलात्मक QR में बदलो और कन्वर्ज़न बढ़ाओ
+[Visit](https://www.thataicollection.com/redirect/creative-qr-codes-using-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-बस कुछ ही टैप में अपने चैनल के लिए ध्यान खींचने वाले YouTube थंबनेल बनाएं। मुफ़्त टेम्प्लेट के साथ शुरुआत करें, जिन्हें तुम कस्टमाइज़ करके Adobe Express में क्लिक-योग्य थंबनेल बनाने के लिए कस्टमाइज़ कर सकते हो।
+हमारे कलात्मक QR कोड के साथ सहज जुड़ाव का अनुभव करें — डिज़ाइन और कार्यक्षमता का एक आकर्षक मिश्रण। अपने यूज़र पर स्थायी छाप छोड़ते हुए, शानदार तरीके से संदेश या ब्रांड पहचान को तुरन्त संप्रेषित करें।
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/adobe-express?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/creative-qr-codes-using-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4548,21 +4592,6 @@ HitPaw ऑनलाइन वीडियो एन्हांसर कम र
 <br />
 
 
-### Colossyan
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-colossyan.webp" alt="Colossyan">
-
-#### कार्यस्थल पर सीखने के लिए एआई वीडियो प्लेटफ़ॉर्म
-[Visit](https://www.thataicollection.com/redirect/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-कोलोसियन क्रिएटर वीडियो निर्माण को सरल और तनाव मुक्त बनाता है। वास्तविक अभिनेताओं के साथ हमारे AI वीडियो निर्माता की खोज करें। 5 मिनट से भी कम समय में वीडियो बनाएं
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Pictory
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pictory.webp" alt="Pictory">
 
@@ -4572,6 +4601,21 @@ HitPaw ऑनलाइन वीडियो एन्हांसर कम र
 अपनी लंबी फ़ॉर्म सामग्री से स्वचालित रूप से लघु, अत्यधिक साझा करने योग्य ब्रांडेड वीडियो बनाएं
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/pictory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### AI Host
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-host.webp" alt="AI Host">
+
+#### इंटरएक्टिव लाइव स्ट्रीम चलाएं
+[Visit](https://www.thataicollection.com/redirect/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+LiveReacting आपकी स्ट्रीम में पहले से रिकॉर्ड किए गए वीडियो, गेम, काउंटडाउन और पोल जोड़कर आपको अधिक फ़ॉलोअर और सहभागिता प्राप्त करने में मदद करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

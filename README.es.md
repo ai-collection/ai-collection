@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=960" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=967" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -74,6 +74,25 @@
     <h4>undress.vip—2023 mejor vestido 100% funcional ai deepnude </h4>
     <p>Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023</p>
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Undress.Vip</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/pet-booth/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth" border="0"/>
+    </a>
+    <h4>Pet Booth es un servicio para crear tus propios retratos, ilustraciones y fotos de mascotas con IA. Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.</h4>
+    <p>Pet Booth es un servicio para crear tus propios increíbles retratos, fotos e ilustraciones de mascotas con IA. ¡Es rápido, fácil y divertido!
+
+¿Cómo funciona?
+
+Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.
+
+Recibe un paquete de 100 imágenes generadas por la IA de tu mascota en estilos fotorrealista y artístico.</p>
+    <a href="https://www.thataicollection.com/redirect/pet-booth/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Pet Booth</b></a>
     <br />
 </div>
 
@@ -138,107 +157,111 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
-### Krea AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-krea-ai.webp" alt="Krea AI">
+### Pet Booth
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
 
-#### Krea AI: creación de imágenes instantánea y sin esfuerzo
-[Visit](https://www.thataicollection.com/redirect/krea-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Pet Booth es un servicio para crear tus propios retratos, ilustraciones y fotos de mascotas con IA. Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.
+[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Simplemente dibuja un boceto básico y proporciona un mensaje en la parte izquierda de la interfaz y nuestra herramienta basada en la IA transformará al instante estas entradas en imágenes nítidas y detalladas de la derecha
+Pet Booth es un servicio para crear tus propios increíbles retratos, fotos e ilustraciones de mascotas con IA. ¡Es rápido, fácil y divertido!
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/krea-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+¿Cómo funciona?
 
-<br />
+Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.
 
+Recibe un paquete de 100 imágenes generadas por la IA de tu mascota en estilos fotorrealista y artístico.
 
-
-
-### Dubverse.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dubverse.ai.webp" alt="Dubverse.ai">
-
-#### Doblaje de vídeos en línea con Dubverse.Ai
-[Visit](https://www.thataicollection.com/redirect/dubverse.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Dubverse es una plataforma de doblaje de vídeos online. Dubverse utiliza inteligencia artificial para doblar vídeos en 30 idiomas a una velocidad vertiginosa
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/dubverse.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Dropout Developer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dropout-developer.webp" alt="Dropout Developer">
+### Creative QR codes using AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-creative-qr-codes-using-ai.webp" alt="Creative QR codes using AI">
 
-#### Desarrollador que ha abandonado: revoluciona la educación en programación para los aspirantes a programadores
-[Visit](https://www.thataicollection.com/redirect/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Convierte tu enlace en un QR artístico con la IA y aumenta la conversión
+[Visit](https://www.thataicollection.com/redirect/creative-qr-codes-using-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Descubre Dropout Developer, la plataforma mejorada con IA que transforma la programación autodidacta. Con un aprendizaje personalizado, cursos basados en proyectos y una comunidad de apoyo, es ideal para cualquier persona apasionada por la programación, independientemente de su formación académica.
+Disfruta de una interacción perfecta con nuestros códigos QR artísticos, una cautivadora fusión de diseño y funcionalidad. Transmite al instante los mensajes o la identidad de la marca de una manera visualmente impresionante, dejando una impresión duradera en los usuarios.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Quilt & Create
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quilt-and-create.webp" alt="Quilt & Create">
-
-#### Quilt & Create: copia de marketing de la información de la aplicación
-[Visit](https://www.thataicollection.com/redirect/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Tu conjunto de herramientas integral con acceso a Internet para tomar decisiones estratégicas. Crea texto e imágenes generados por IA en cuestión de segundos y crea sin esfuerzo contenido personalizado que llegue a tu público y refleje los valores de tu marca.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/creative-qr-codes-using-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### aiundetect
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiundetect.webp" alt="aiundetect">
+### Photoshift
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoshift.webp" alt="Photoshift">
 
-#### La herramienta de escritura de IA indetectable de Freemium que evita los detectores de IA
-[Visit](https://www.thataicollection.com/redirect/aiundetect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Cambia tu producto a la escena de mitad del viaje o a cualquier foto de archivo
+[Visit](https://www.thataicollection.com/redirect/photoshift?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Somos una herramienta de reescritura de IA indetectable. Ofrece un servicio de eliminación de detecciones de IA que integra 8 interfaces de detectores de IA gratuitas, incluidas GPTZero, ZeroGPT, Copyleak, Writer y SAPLING. Con un solo clic, puedes determinar si tu contenido lo ha generado la IA.
+Mejora la presentación de tus productos con Photoshift. Combina tu producto a la perfección con cualquier imagen de archivo o escena de mitad del viaje para obtener imágenes sorprendentemente realistas. Experimenta transformaciones instantáneas, no se necesita prontitud
 
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/aiundetect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### StoryBee
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storybee.webp" alt="StoryBee">
-
-#### StoryBee es una plataforma en la que los usuarios pueden crear historias con la ayuda de la IA.
-[Visit](https://www.thataicollection.com/redirect/storybee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-StoryBee es una plataforma basada en la IA diseñada para crear historias cautivadoras para niños. Los usuarios comienzan por dar una pista o un tema que guíe a la IA en la creación de una narración personalizada. La plataforma permite una mayor personalización a la hora de seleccionar el género, el estilo y la estética visual de la historia, lo que garantiza que llegue bien al público objetivo.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/storybee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/photoshift?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Post Parrot
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-post-parrot.webp" alt="Post Parrot">
+### Zust AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zust-ai.webp" alt="Zust AI">
 
-#### Post Parrot: una herramienta de marketing gratuita para Reddit
-[Visit](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### La plataforma de IA definitiva para sesiones de fotos de productos
+[Visit](https://www.thataicollection.com/redirect/zust-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-¿Quieres generar títulos de publicaciones de Reddit que generen participación? Consulta nuestra herramienta de marketing digital gratuita para mejorar los títulos de tus publicaciones para subreddits segmentados.
+Crea impresionantes imágenes de productos con calidad de estudio al instante con la IA. Da rienda suelta a la creatividad, ahorra tiempo y cautiva a tu público sin esfuerzo.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/zust-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
 
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+### Vidnoz Flex
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-flex.webp" alt="Vidnoz Flex">
+
+####  Crea, comparte, gestiona y rastrea tus vídeos de forma potente.
+[Visit](https://www.thataicollection.com/redirect/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vidnoz Flex es una herramienta de vídeo fácil pero potente de Vidnoz, que combina funciones de creación, personalización, intercambio y seguimiento de vídeos en un solo lugar. Aumentará totalmente tu productividad en la creación y promoción de vídeos en las rutinas diarias y proporcionará los resultados más significativos.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### undressing.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undressing.io.webp" alt="undressing.io">
+
+#### Desvestirse con IA: desnuda fotos GRATIS con AI Undressing
+[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Martin
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="Martin">
+
+#### Desvestirse con IA: desnuda fotos GRATIS con AI Undressing
+[Visit](https://www.thataicollection.com/redirect/martin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/martin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -334,6 +357,21 @@ Stocknews AI es una selección de las mejores noticias bursátiles nuevas de tod
 Reflejando a profesionales de la industria de la más alta calidad para automatizar las tareas mundanas y apoyar la toma de decisiones complejas. Consigue acceso anticipado a Eilla ahora.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### GooseAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gooseai.webp" alt="GooseAI">
+
+#### Gooseai: deja de pagar de más por tu infraestructura de IA.
+[Visit](https://www.thataicollection.com/redirect/gooseai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+GooseAI es un PNL como servicio totalmente gestionado que se entrega a través de una API. Es comparable a OpenAI en este sentido. Y aún más, ¡es totalmente compatible con la API de finalización de OpenAI!
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/gooseai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -613,19 +651,25 @@ Obtenga hermosos códigos QR artísticos en su correo electrónico en menos de 1
 
 
 
-### PhotoRoom
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoroom.webp" alt="PhotoRoom">
+### Pet Booth
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
 
-#### Photoroom: elimine el fondo y cree imágenes de productos
-[Visit](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Pet Booth es un servicio para crear tus propios retratos, ilustraciones y fotos de mascotas con IA. Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.
+[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Cree imágenes de productos y retratos usando solo su teléfono. Quite el fondo, cambie el fondo y muestre productos.
+Pet Booth es un servicio para crear tus propios increíbles retratos, fotos e ilustraciones de mascotas con IA. ¡Es rápido, fácil y divertido!
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+¿Cómo funciona?
+
+Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.
+
+Recibe un paquete de 100 imágenes generadas por la IA de tu mascota en estilos fotorrealista y artístico.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### Designify
@@ -1207,15 +1251,15 @@ Dé rienda suelta a su creatividad con IA en un lienzo colaborativo.
 <br />
 
 
-### Adobe Express
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-adobe-express.webp" alt="Adobe Express">
+### Creative QR codes using AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-creative-qr-codes-using-ai.webp" alt="Creative QR codes using AI">
 
-#### Crea miniaturas de YouTube gratis en cuestión de minutos.
-[Visit](https://www.thataicollection.com/redirect/adobe-express?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Convierte tu enlace en un QR artístico con la IA y aumenta la conversión
+[Visit](https://www.thataicollection.com/redirect/creative-qr-codes-using-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Crea miniaturas de YouTube que llamen la atención para tu canal con solo unos toques. Empieza con plantillas gratuitas que puedes personalizar para crear una miniatura en la que merezca la pena hacer clic en Adobe Express.
+Disfruta de una interacción perfecta con nuestros códigos QR artísticos, una cautivadora fusión de diseño y funcionalidad. Transmite al instante los mensajes o la identidad de la marca de una manera visualmente impresionante, dejando una impresión duradera en los usuarios.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/adobe-express?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/creative-qr-codes-using-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4547,21 +4591,6 @@ HitPaw Online Video Enhancer es la mejor solución para videos de baja resoluci�
 <br />
 
 
-### Colossyan
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-colossyan.webp" alt="Colossyan">
-
-#### La plataforma de vídeo de IA para el aprendizaje en el lugar de trabajo
-[Visit](https://www.thataicollection.com/redirect/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Colossyan Creator hace que la creación de vídeos sea sencilla y sin estrés. Descubra nuestro creador de vídeos de IA con actores reales. Crea vídeos en menos de 5 minutos
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Pictory
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pictory.webp" alt="Pictory">
 
@@ -4575,6 +4604,21 @@ Cree automáticamente videos de marca cortos y altamente compartibles a partir d
 <br />
 
 <br />
+
+
+### AI Host
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-host.webp" alt="AI Host">
+
+#### Ejecutar transmisiones en vivo interactivas
+[Visit](https://www.thataicollection.com/redirect/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+LiveReacting lo ayuda a obtener más seguidores y participación al agregar videos pregrabados, juegos, cuentas regresivas y encuestas a su transmisión.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 
 
 
