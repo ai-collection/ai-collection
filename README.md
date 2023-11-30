@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=967" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=966" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -163,6 +163,66 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### NameSnack
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-namesnack.webp" alt="NameSnack">
+
+#### Find your perfect business name in seconds using our powerful AI name generator.
+[Visit](https://www.thataicollection.com/redirect/namesnack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+NameSnack combines cutting-edge AI with advanced naming techniques to help you find the perfect name for your business. Discover thousands of memorable business name ideas for your brand in seconds using our unique machine-learning algorithm and instant domain checker. Pick the one you love, register it, and start building your brand!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/namesnack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### PlanSnack
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dan-duhrkoop.webp" alt="PlanSnack">
+
+#### Create your business plan in minutes with our guided business plan generator.
+[Visit](https://www.thataicollection.com/redirect/plansnack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PlanSnack is the easiest way to create a working business plan for your startup or small business. With our industry-proven business plan templates and easy-to-customize examples you'll create a professional one-page business plan in minutes rather than days or hours. PlanSnack is also 100% free in every sense of the word, so you can create, share, and download your business plan at no cost.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/plansnack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI-Girlfriend.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend.ai.webp" alt="AI-Girlfriend.AI">
+
+#### Revolutionize Your Sexting Experience with AI-Girlfriend.AI
+[Visit](https://www.thataicollection.com/redirect/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Welcome to AI-Girlfriend.ai,where we redefine the art of sexting through our AI-powered girlfriend experience. Dive into the world of digital intimacy with a playful, commitment-free AI sexting simulation, tailored to enhance your skills and enrich your interactive experiences.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### EmbedAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-embedai.webp" alt="EmbedAI">
+
+#### EmbedAI - Custom AI Chatbot trained on your data
+[Visit](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Develop a personalized AI support chatbot by utilizing your unique content, support documents, PDFs, APIs, or databases. Easily integrate it into your website with just one line of code to provide real-time responses to your visitors' inquiries, thereby minimizing the number of support tickets you receive.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Pet Booth
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
 
@@ -208,66 +268,6 @@ Experience seamless engagement with our artistic QR codes – a captivating fusi
 Elevate your product presentation with Photoshift. Seamlessly blend your product into any stock image or midjourney scene for strikingly realistic visuals. Experience instantaneous transformations, no is prompt needed
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/photoshift?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Zust AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zust-ai.webp" alt="Zust AI">
-
-#### The ultimate AI platform for Product Photoshoot
-[Visit](https://www.thataicollection.com/redirect/zust-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Create stunning studio-quality product images instantly using AI. Unleash creativity, save time, and captivate your audience effortlessly.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/zust-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Vidnoz Flex
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-flex.webp" alt="Vidnoz Flex">
-
-####  Create, share, manage & track your videos powerfully.
-[Visit](https://www.thataicollection.com/redirect/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Vidnoz Flex is a easy but powerful video tool from Vidnoz, which combines video creation, personalization, sharing, and track features at one place. It will totally boost your productivity of video creation and promotion in daily routines and brings the most significant results.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### undressing.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undressing.io.webp" alt="undressing.io">
-
-#### AI Undressing - Nudify Photos for FREE with AI Undressing
-[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instantly transform looks. Nude photos in one click. Many styles and opportunity to do it with prompt
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Martin
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="Martin">
-
-#### AI Undressing - Nudify Photos for FREE with AI Undressing
-[Visit](https://www.thataicollection.com/redirect/martin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instantly transform looks. Nude photos in one click. Many styles and opportunity to do it with prompt
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/martin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -597,6 +597,27 @@ Remodel and Design your spaces with Remodel AI - The first and #1 AI for remodel
 
 ## Art & Image Generator
 
+### Pet Booth
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
+
+#### Pet Booth is a service for creating your own AI Pet Portraits, Artwork, and Photos. Simply upload 10-20 photos of your cat or dog and select from over 80+ themes to transform them into.
+[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Pet Booth is a service for creating your own amazing AI pet portraits, photos, and artwork. It's fast, easy, and fun!
+
+How does it work?
+
+Simply upload 10-20 photos of your cat or dog and select from over 80+ themes to transform them into.
+
+Receive a pack of 100 AI generated images of your pet in both photo-realistic and artistic styles.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### caspa AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai.webp" alt="caspa AI">
 
@@ -651,27 +672,6 @@ ICONS8 ALLOWS DESIGNERS TO EXPRESS THEIR IDEAS, PROVIDING THE RIGHT DESIGN ELEME
 Get artistic beautiful QR codes on your email in under 10 minutes. Choose from available QR code categories or request your own. Make your business stand out with unique QR arts!
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Pet Booth
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
-
-#### Pet Booth is a service for creating your own AI Pet Portraits, Artwork, and Photos. Simply upload 10-20 photos of your cat or dog and select from over 80+ themes to transform them into.
-[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pet Booth is a service for creating your own amazing AI pet portraits, photos, and artwork. It's fast, easy, and fun!
-
-How does it work?
-
-Simply upload 10-20 photos of your cat or dog and select from over 80+ themes to transform them into.
-
-Receive a pack of 100 AI generated images of your pet in both photo-realistic and artistic styles.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -880,7 +880,7 @@ Create a custom trained AI support chatbot using your own content, support docs,
 
 
 ### Chatsimple
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatsimple.webp" alt="Chatsimple">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-achatsimple.webp" alt="Chatsimple">
 
 #### ChatGPT Business Chatbot Made Simple for you
 [Visit](https://www.thataicollection.com/redirect/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -894,19 +894,19 @@ ChatSimple is a platform that specializes in creating conversion-oriented chatbo
 
 
 
-### Dante
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dante.webp" alt="Dante">
+### EmbedAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-embedai.webp" alt="EmbedAI">
 
-#### Custom GPT Chatbots Trained on Your Data
-[Visit](https://www.thataicollection.com/redirect/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### EmbedAI - Custom AI Chatbot trained on your data
+[Visit](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Zero coding. Share on your website in minutes. Build a GPT-4 chatbot in minutes. Train the AI, customize, and embed on your website.
+Develop a personalized AI support chatbot by utilizing your unique content, support documents, PDFs, APIs, or databases. Easily integrate it into your website with just one line of code to provide real-time responses to your visitors' inquiries, thereby minimizing the number of support tickets you receive.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+[More Information and Pricing](https://www.thataicollection.com/en/application/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
+
+
 
 
 ### ChatBotKit
@@ -1829,19 +1829,51 @@ undress.VIP, a groundbreaking ai tool at the forefront of this progression. undr
 
 
 
-### CharacterAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-characterai.webp" alt="CharacterAI">
+### undressing.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
 
-#### Character.Ai Lets You Create Characters and Talk to Them.
-[Visit](https://www.thataicollection.com/redirect/characterai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI Undressing - Nudify Photos for FREE with AI Undressing
+[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Characters can be anything. Our breakthrough AI technology can bring all of your ideas to life.
+Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instantly transform looks. Nude photos in one click. Many styles and opportunity to do it with prompt
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/characterai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI-Girlfriend.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend.ai.webp" alt="AI-Girlfriend.AI">
+
+#### Revolutionize Your Sexting Experience with AI-Girlfriend.AI
+[Visit](https://www.thataicollection.com/redirect/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Welcome to AI-Girlfriend.ai,where we redefine the art of sexting through our AI-powered girlfriend experience. Dive into the world of digital intimacy with a playful, commitment-free AI sexting simulation, tailored to enhance your skills and enrich your interactive experiences.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
+
+
+
+### Nudify.online
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online_.webp" alt="Nudify.online">
+
+#### Undress Anybody With Our FREE Service. Deepnude AI On Nudify – Undress any Girl For Free!
+
+[Visit](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress AI photo generator for free deepnudes. Nudify deepnude AI with the highest accuracy of deepfake nude and bikini photos. Just choose age, body type, quality and get a result in a few seconds.
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
 <br />
+
+
 
 
 ### Ask RBG
@@ -1874,21 +1906,6 @@ Ask deep questions and get answers from William Shakespeare, Friedrich Nietzsche
 <br />
 
 
-### Botify
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-botify.webp" alt="Botify">
-
-#### Botify AI
-[Visit](https://www.thataicollection.com/redirect/botify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Fun chat with your favorite characters
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/botify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### StoriesForKids
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storiesforkids.webp" alt="StoriesForKids">
 
@@ -1898,21 +1915,6 @@ Fun chat with your favorite characters
 Turn real-life situations into fun stories & illustrations in seconds
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/storiesforkids?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Excuses AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-excuses-ai.webp" alt="Excuses AI">
-
-#### Excuse Generator
-[Visit](https://www.thataicollection.com/redirect/excuses-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Use AI to generate the perfect professional excuse
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/excuses-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2418,6 +2420,21 @@ To use the tool, users are prompted to fill out a form with basic information su
 Once submitted, our AI curates a tailor-made date description, providing helpful tips, product recommendations to elevate the experience/
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/my-spicy-vanilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### PlanSnack
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dan-duhrkoop.webp" alt="PlanSnack">
+
+#### Create your business plan in minutes with our guided business plan generator.
+[Visit](https://www.thataicollection.com/redirect/plansnack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PlanSnack is the easiest way to create a working business plan for your startup or small business. With our industry-proven business plan templates and easy-to-customize examples you'll create a professional one-page business plan in minutes rather than days or hours. PlanSnack is also 100% free in every sense of the word, so you can create, share, and download your business plan at no cost.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/plansnack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
