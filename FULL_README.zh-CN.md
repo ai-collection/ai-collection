@@ -53,21 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI" border="0"/>
-    </a>
-    <h4>BeeBee.AI 专为美国股市量身定制，适合主要关注基本面分析并重视数据和信息的长期投资者。</h4>
-    <p>我们为2000多家公司提供支持（包括道琼斯30指数、标准普尔500指数、纳斯达克100指数，按交易量和活动排序）。利用 GPT 基础并将其与专门的 NLP 迷你模型相结合。我们主要提供两项核心服务：
-（1）全面解读财报和电话会议。
-(2) 对公司广泛的数字足迹的深入分析。 </p>
-    <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 BeeBee AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
     </a>
@@ -418,6 +403,7 @@
 | [Ideasai](https://www.thataicollection.com/redirect/ideasai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ideasai-由 Openai 提供支持的创业创意. | 这些想法由 OpenAI 的 GPT-3（一种人工智能的深度学习模型）100% 生成，无需人工参与，由你和其他超过 1,856,031 个喜欢或不喜欢想法的人进行训练. | :white_check_mark: |
 | [My Spicy Vanilla](https://www.thataicollection.com/redirect/my-spicy-vanilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | My Spicy Vanilla 的 AI 日期创意生成器. | My Spicy Vanilla 的 AI Date Idea Generator 是一款利用人工智能生成独特的约会之夜计划的工具。  要使用该工具，系统会提示用户在表单中填写基本信息，例如类别、地点、预算、持续时间和一天中的时间。  提交后，我们的 AI 会精心策划一份量身定制的日期描述，提供有用的提示、产品推荐以提升体验/. | :white_check_mark: |
 | [NameSnack](https://www.thataicollection.com/redirect/namesnack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用我们强大的人工智能名称生成器，在几秒钟内找到理想的公司名称。. | NamesNack 将尖端的人工智能与先进的命名技术相结合，可帮助您为企业找到完美的名称。使用我们独特的机器学习算法和即时域名检查器，在几秒钟内为您的品牌发现数千个令人难忘的企业名称创意。选择你喜欢的那个，注册它，然后开始建立你的品牌！. | :white_check_mark: |
+| [Namy.ai](https://www.thataicollection.com/redirect/namy.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 Namy.ai 的人工智能域名生成器，在超过一千万个域名上经过训练，在几秒钟内找到你的完美域名！. | Namy.ai 是一个 AI 域名生成器，其实很不错！只需输入一个单词或短语然后让 AI 来完成工作——Namy.ai 的高级域名 LLM 将在不到 10 秒钟的时间内生成数百个域名创意。最重要的是它是免费的！立即试用 Namy.ai 的域名生成器！. | :white_check_mark: |
 | [Paperade](https://www.thataicollection.com/redirect/paperade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paperade 创业点子生成器. | Paperade 是第一个基于 AI 的工具，可以从 1 亿多篇学术论文和研究中生成商业用例和公司创意。. | :grey_question: |
 | [PlanSnack](https://www.thataicollection.com/redirect/plansnack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用我们的商业计划书生成器，在几分钟内创建您的商业计划书。. | PlanSnack是为您的初创企业或小型企业制定有效的商业计划的最简单方法。借助我们经过行业验证的商业计划书模板和易于定制的示例，您将在几分钟内而不是几天或几小时内创建专业的单页商业计划书。PlanSnack 在任何意义上都是 100% 免费的，因此您可以免费创建、共享和下载商业计划书。. | :white_check_mark: |
 | [Validator AI](https://www.thataicollection.com/redirect/validator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 立即免费开始您的创业之旅. | 输入您的创业想法，我们的人工智能创业导师将免费对其进行分析。您可以随心所欲地与我们的人工智能导师聊天机器人交谈，并学习有关创办初创公司所需了解的任何信息！. | :grey_question: |
@@ -565,6 +551,7 @@
 | [Looka](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费徽标制作工具和智能品牌设计师. | 使用 Looka 制作徽标并打造您喜爱的品牌。. | :white_check_mark: |
 | [Make Logo AI](https://www.thataicollection.com/redirect/make-logo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | MakeLogo.AI：为您的初创公司制作完美的徽标。. | 在人工智能的支持下，为您的初创公司生成精美而独特的徽标。. | :x: |
 | [Text To Book Cover](https://www.thataicollection.com/redirect/text-to-book-cover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为团队生成 AI 图像 - 您可以轻松生成 AI 徽标、AI 书籍封面、AI 海报等 - Stockimg AI. | 为团队生成 AI 图像 - 您可以轻松生成 AI 徽标、AI 书籍封面、AI 海报等 - Stockimg AI. | :grey_question: |
+| [Zarla Logo Maker](https://www.thataicollection.com/redirect/zarla-logo-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在几秒钟内创建免费的专业徽标！-使用 Zarla 简单、直观的徽标制作器，适用于任何企业或品牌。. | Zarla 的创建是为了向所有人提供专业品质的徽标。只需输入您的公司名称和行业，我们的徽标制作器就会生成无限的徽标设计供您选择。你可以编辑徽标的各个方面，包括字体、颜色、图标和位置，然后在完成后免费下载！. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
@@ -1256,6 +1243,7 @@
 | [Post Parrot](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Post Parrot-一款适用于 Reddit 的免费营销工具. | 想生成能提高参与度的 reddit 帖子标题？查看我们的免费数字营销工具，为有针对性的subreddits增强您的帖子标题。. | :white_check_mark: |
 | [SimplePhones.ai](https://www.thataicollection.com/redirect/simplephones.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 绝不会错过客户的来电. | 转接未接来电或获取新号码，Simple Phones 将使用 AI 接听。您将免费获得为您的企业创建的电话代理。您只需为任何来电支付 19 美分/分钟. | :x: |
 | [Speaq.ai](https://www.thataicollection.com/redirect/speaq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为您的企业现成的转换 AI. | 我们的使命是通过人工智能彻底改变 B2B 营销和客户支持。使用 AI 轻松安排会议并验证出席情况。通过 AI 对话呼叫简化您的调查流程。. | :grey_question: |
+| [Tabula](https://www.thataicollection.com/redirect/tabula?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | GPT 支持的营销数据分析。建立多点触控归因，了解不同的营销渠道如何协同合作，将潜在客户转化为客户. | Tabula是一个人工智能端到端分析平台，使营销和销售经理能够评估其活动的有效性。它是如何工作的： -一键从多个来源获取数据 -自动跟踪 KPI 和指标 -生成活动报告和绩效仪表板 -使用人工智能分析非结构化数据（电子邮件、调查、PDF）. | :white_check_mark: |
 | [Traq.ai](https://www.thataicollection.com/redirect/traq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过 AI 支持的对话智能完成更多销售. | Traq.ai 分析您的销售团队打出的每一个电话，并为他们提供可操作的见解，以达到超人的成功水平。. | :white_check_mark: |
 | [unbounce](https://www.thataicollection.com/redirect/unbounce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 助您发展业务的智能营销工具. | 将更多的访问者变成客户。 Unbounce 是人工智能驱动的登陆页面构建器，具有智能功能，可让您在短短几分钟内创建美观、高效的营销活动。. | :x: |
 | [Userevaluation](https://www.thataicollection.com/redirect/userevaluation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用户评价-客户了解平台. | 无论您专注于 UI、UX 研究、设计还是 CX——用户评估的 AI 都可以回答您的所有问题. | :white_check_mark: |

@@ -53,21 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI" border="0"/>
-    </a>
-    <h4>BeeBee.AI está diseñado para el mercado de valores estadounidense y está dirigido a inversores a largo plazo que se centran principalmente en el análisis fundamental y que valoran los datos y la información.</h4>
-    <p>Apoyamos a más de 2000 empresas (incluidas el Dow Jones 30, el S&P500 y el NASDAQ 100, según el volumen de operaciones y la actividad). Aprovechar la base de la GPT y combinarla con minimodelos especializados de PNL. Ofrecemos principalmente dos servicios principales:
-(1) Interpretación exhaustiva de los informes de ganancias y las teleconferencias.
-(2) Análisis en profundidad de la amplia presencia digital de una empresa. </p>
-    <a href="https://www.thataicollection.com/redirect/beebee-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con BeeBee AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
     </a>
@@ -157,6 +142,55 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### Tabula
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tabula.webp" alt="Tabula">
+
+#### Análisis de datos de marketing basados en GPT. Crea una atribución multitáctil para ver cómo los diferentes canales de marketing trabajan juntos para convertir clientes potenciales en clientes
+[Visit](https://www.thataicollection.com/redirect/tabula?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Tabula es una plataforma de análisis integral de IA que permite a los directores de marketing y ventas evaluar la eficacia de sus campañas. Cómo funciona:
+- reunir datos de varias fuentes en un solo lugar con un solo clic
+- automatizar el seguimiento de los KPI y las métricas
+- crear informes de campañas y paneles de rendimiento
+- utilizar la IA para analizar datos no estructurados (correos electrónicos, encuestas, PDF)
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/tabula?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Zarla Logo Maker
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zarla-logo-maker.webp" alt="Zarla Logo Maker">
+
+#### Crea un logotipo profesional gratuito, ¡en cuestión de segundos! - para cualquier empresa o marca con el creador de logotipos sencillo e intuitivo de Zarla.
+[Visit](https://www.thataicollection.com/redirect/zarla-logo-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Zarla se creó para poner a disposición de todo el mundo logotipos de calidad profesional. Solo tienes que introducir el nombre de tu empresa y tu sector y nuestro creador de logotipos generará diseños de logotipos ilimitados entre los que podrás elegir. Puedes editar todos los aspectos de tu logotipo, desde la fuente, el color, el icono y la ubicación, y luego descargarlo gratis cuando hayas terminado.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/zarla-logo-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Namy.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-namy.ai.webp" alt="Namy.ai">
+
+#### Encuentra tu dominio perfecto en segundos con el generador de dominios de Namy.ai con tecnología de IA que utiliza más de 10 millones de nombres de dominio.
+[Visit](https://www.thataicollection.com/redirect/namy.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Namy.ai es un generador de nombres de dominio de IA que es REALMENTE bueno. Simplemente escribe una palabra o frase y deja que la IA haga su trabajo. El LLM avanzado de nombres de dominio de Namy.ai generará cientos de ideas de dominios en menos de 10 segundos. ¡Lo mejor de todo es que es gratis! ¡Prueba hoy mismo el generador de nombres de dominio de Namy.ai!
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/namy.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### NameSnack
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-namesnack.webp" alt="NameSnack">
 
@@ -211,57 +245,6 @@ Bienvenido a AI-Girlfriend.ai, donde redefinimos el arte del sexting a través d
 Desarrolla un chatbot de soporte de IA personalizado utilizando tu contenido, documentos de soporte, PDF, API o bases de datos únicos. Intégralo fácilmente en tu sitio web con una sola línea de código para responder en tiempo real a las consultas de tus visitantes y minimizar así el número de solicitudes de soporte que recibes.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Pet Booth
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
-
-#### Pet Booth es un servicio para crear tus propios retratos, ilustraciones y fotos de mascotas con IA. Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.
-[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pet Booth es un servicio para crear tus propios increíbles retratos, fotos e ilustraciones de mascotas con IA. ¡Es rápido, fácil y divertido!
-
-¿Cómo funciona?
-
-Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.
-
-Recibe un paquete de 100 imágenes generadas por la IA de tu mascota en estilos fotorrealista y artístico.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Creative QR codes using AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-creative-qr-codes-using-ai.webp" alt="Creative QR codes using AI">
-
-#### Convierte tu enlace en un QR artístico con la IA y aumenta la conversión
-[Visit](https://www.thataicollection.com/redirect/creative-qr-codes-using-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Disfruta de una interacción perfecta con nuestros códigos QR artísticos, una cautivadora fusión de diseño y funcionalidad. Transmite al instante los mensajes o la identidad de la marca de una manera visualmente impresionante, dejando una impresión duradera en los usuarios.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/creative-qr-codes-using-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Photoshift
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoshift.webp" alt="Photoshift">
-
-#### Cambia tu producto a la escena de mitad del viaje o a cualquier foto de archivo
-[Visit](https://www.thataicollection.com/redirect/photoshift?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Mejora la presentación de tus productos con Photoshift. Combina tu producto a la perfección con cualquier imagen de archivo o escena de mitad del viaje para obtener imágenes sorprendentemente realistas. Experimenta transformaciones instantáneas, no se necesita prontitud
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/photoshift?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -613,7 +596,7 @@ Recibe un paquete de 100 imágenes generadas por la IA de tu mascota en estilos 
 
 
 ### caspa AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai.webp" alt="caspa AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI">
 
 #### Caspa AI es una plataforma para crear y personalizar imágenes de IA en cuestión de minutos
 [Visit](https://www.thataicollection.com/redirect/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2621,6 +2604,21 @@ Descubre el mejor generador de logotipos de IA: crea logotipos personalizados y 
 
 
 
+### Zarla Logo Maker
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zarla-logo-maker.webp" alt="Zarla Logo Maker">
+
+#### Crea un logotipo profesional gratuito, ¡en cuestión de segundos! - para cualquier empresa o marca con el creador de logotipos sencillo e intuitivo de Zarla.
+[Visit](https://www.thataicollection.com/redirect/zarla-logo-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Zarla se creó para poner a disposición de todo el mundo logotipos de calidad profesional. Solo tienes que introducir el nombre de tu empresa y tu sector y nuestro creador de logotipos generará diseños de logotipos ilimitados entre los que podrás elegir. Puedes editar todos los aspectos de tu logotipo, desde la fuente, el color, el icono y la ubicación, y luego descargarlo gratis cuando hayas terminado.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/zarla-logo-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 
 [See All ⚜️ Generador de logotipos Applications on AI Collection](https://www.thataicollection.com/es/categories/logo-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -3543,6 +3541,25 @@ Una herramienta de procesamiento de lenguaje natural y generador de texto. Toma 
 
 ## Ventas y Marketing
 
+### Tabula
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tabula.webp" alt="Tabula">
+
+#### Análisis de datos de marketing basados en GPT. Crea una atribución multitáctil para ver cómo los diferentes canales de marketing trabajan juntos para convertir clientes potenciales en clientes
+[Visit](https://www.thataicollection.com/redirect/tabula?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Tabula es una plataforma de análisis integral de IA que permite a los directores de marketing y ventas evaluar la eficacia de sus campañas. Cómo funciona:
+- reunir datos de varias fuentes en un solo lugar con un solo clic
+- automatizar el seguimiento de los KPI y las métricas
+- crear informes de campañas y paneles de rendimiento
+- utilizar la IA para analizar datos no estructurados (correos electrónicos, encuestas, PDF)
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/tabula?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Copy.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-copy.ai.webp" alt="Copy.ai">
 
@@ -3632,21 +3649,6 @@ Interfaz nativa: conéctate a tus datos en nuestra aplicación web, Slack o Team
 Nuestra plataforma transforma los detalles y objetivos clave de su producto en prosa persuasiva, hecha a medida para enganchar a su audiencia y disparar las tasas de conversión.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/baruaai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Hoppy Copy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hoppy-copy.webp" alt="Hoppy Copy">
-
-#### Hoppy Copy: plataforma de redacción publicitaria de marketing por correo electrónico con IA
-[Visit](https://www.thataicollection.com/redirect/hoppy-copy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ahorre incontables horas escribiendo. Use IA para generar una copia poderosa para cientos de diferentes campañas de marketing por correo electrónico, goteos, boletines y más, en segundos ⚡
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/hoppy-copy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
