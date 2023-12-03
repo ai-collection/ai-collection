@@ -1,6 +1,6 @@
 # Contributing to AI Collection
 
-## Contribution are made through the self service flow only
+## Contributions are made through the self service flow only
 
 ---
 
