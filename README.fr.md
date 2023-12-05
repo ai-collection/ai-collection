@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=961" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=962" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -155,6 +155,38 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
 
+### Blocks
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-blocks.webp" alt="Blocks">
+
+#### Un puissant outil de création d'e-mails amélioré par la fonctionnalité IA.
+[Visit](https://www.thataicollection.com/redirect/blocks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Blocks est un outil de création d'e-mails par glisser-déposer sans code. Amélioré par les capacités de l'IA (notamment un assistant de rédaction et un générateur d'images), Blocks fait passer le processus de conception des e-mails à un niveau supérieur. Crée ton adresse e-mail à partir de zéro ou utilise plus de 65 modèles HTML réactifs (et plus encore) pour créer des e-mails en quelques minutes. Tous les modèles sont entièrement réactifs : ton e-mail s'affichera parfaitement sur n'importe quel appareil !
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/blocks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### airops
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-airops.webp" alt="airops">
+
+#### AirOps, des flux de travail basés sur l'IA qui stimulent la croissance. Créez, testez, déployez et faites évoluer des applications d'IA avec AirOps Studio.
+
+[Visit](https://www.thataicollection.com/redirect/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Créez des flux de travail, des outils et des agents de chat basés sur la LLM qui raviront tes utilisateurs et ton équipe. De l'idée à la production, remarquablement vite.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Highperformr.ai - Twitter Analytics & Scheduling Software
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-highperformr.ai---twitter-analytics-and-scheduling-software.webp" alt="Highperformr.ai - Twitter Analytics & Scheduling Software">
 
@@ -230,37 +262,6 @@ Des contes uniques écrits, illustrés et racontés par IA. Cliquez pour lire St
 
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/storiesbyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Petportrait
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-petportrait.webp" alt="Petportrait">
-
-#### Pet Portrait AI - De magnifiques portraits d'animaux personnalisés
-[Visit](https://www.thataicollection.com/redirect/petportrait?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Tu cherches un cadeau bien pensé pour ton animal de compagnie ? Pet Portrait AI génère des portraits uniques et personnalisés de tes chats, chiens et autres animaux de compagnie dans différents styles. Notre technologie d'IA garantit que chaque portrait est unique, tout comme celui de ton animal de compagnie.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/petportrait?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Sports Prediction
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-sports-prediction.webp" alt="AI Sports Prediction">
-
-#### Prédictions de paris sportifs IA - Prédictions sportives IA
-[Visit](https://www.thataicollection.com/redirect/ai-sports-prediction?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Sports Prediction AI utilise les dernières technologies d'IA pour prédire avec précision les résultats des principaux événements sportifs du monde entier. Football, NFL, golf et bien plus encore.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-sports-prediction?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -901,6 +902,21 @@ Développe un chatbot d'assistance IA personnalisé en utilisant ton contenu uni
 
 
 
+### Dante
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dante.webp" alt="Dante">
+
+#### Chatbots GPT personnalisés formés sur vos données
+[Visit](https://www.thataicollection.com/redirect/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Zéro codage. Partagez sur votre site Web en quelques minutes. Créez un chatbot GPT-4 en quelques minutes. Entraînez l'IA, personnalisez et intégrez sur votre site Web.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### ChatBotKit
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbotkit.webp" alt="ChatBotKit">
 
@@ -910,22 +926,6 @@ Développe un chatbot d'assistance IA personnalisé en utilisant ton contenu uni
 ChatBotKit vous aide à créer des chatbots IA conversationnels avec vos propres données pour communiquer naturellement avec les utilisateurs de votre site Web, Slack, Discord et WhatsApp.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/chatbotkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Olympia
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-olympia.webp" alt="Olympia">
-
-#### Du personnel virtuel abordable pour les solopreneurs et les startups.
-[Visit](https://www.thataicollection.com/redirect/olympia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Olympia est un outil de recrutement virtuel basé sur l'IA conçu pour les solopreneurs et les start-up en démarrage. Il vise à aider les entreprises à se développer en fournissant un accès abordable à des consultants experts dotés d'un large éventail de compétences, éliminant ainsi le besoin d'embaucher des employés humains onéreux.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/olympia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2920,6 +2920,23 @@ Albus est une plateforme d'IA qui tire parti de la puissance de ChatGPT pour aid
 
 
 
+### airops
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-airops.webp" alt="airops">
+
+#### AirOps, des flux de travail basés sur l'IA qui stimulent la croissance. Créez, testez, déployez et faites évoluer des applications d'IA avec AirOps Studio.
+
+[Visit](https://www.thataicollection.com/redirect/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Créez des flux de travail, des outils et des agents de chat basés sur la LLM qui raviront tes utilisateurs et ton équipe. De l'idée à la production, remarquablement vite.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Hexowatch
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hexowatch.webp" alt="Hexowatch">
 
@@ -2935,19 +2952,19 @@ Hexowatch est votre compagnon IA pour surveiller n'importe quel site Web pour le
 
 
 
-### mem
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mem.webp" alt="mem">
+### Keploy.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-keploy.io.webp" alt="Keploy.io">
 
-#### L'espace de travail auto-organisé
-[Visit](https://www.thataicollection.com/redirect/mem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### None
+[Visit](https://www.thataicollection.com/redirect/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Mem est le premier espace de travail au monde alimenté par l'IA qui vous est personnalisé. Amplifiez votre créativité, automatisez le banal et restez organisé automatiquement.
+None
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/mem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-
+<br />
 
 
 ### bardeen
@@ -2978,21 +2995,6 @@ AutoPredict est la première application qui utilise l'intelligence artificielle
 <br />
 
 
-
-
-### Keploy.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-keploy.io.webp" alt="Keploy.io">
-
-#### None
-[Visit](https://www.thataicollection.com/redirect/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-None
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ### Hubble

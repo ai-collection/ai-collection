@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=961" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=962" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -155,6 +155,38 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### Blocks
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-blocks.webp" alt="Blocks">
+
+#### Мощный инструмент для создания электронных писем, дополненный функциональностью искусственного интеллекта.
+[Visit](https://www.thataicollection.com/redirect/blocks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Blocks — это конструктор писем без перетаскивания кода. Благодаря возможностям искусственного интеллекта (включая помощник по написанию писем с искусственным интеллектом и генератор изображений), Blocks выводит процесс проектирования электронных писем на новый уровень. Создайте электронное письмо с нуля или используйте более 65 (и их число постоянно растет) адаптивных HTML-шаблонов, чтобы создавать электронные письма за считанные минуты. Все шаблоны полностью адаптивны: ваше письмо будет отлично отображатьс
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/blocks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### airops
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-airops.webp" alt="airops">
+
+#### AirPS — рабочие процессы искусственного интеллекта, способствующие росту. Создавайте, тестируйте, развертывайте и масштабируйте приложения искусственного интеллекта с помощью AirPS Studio.
+
+[Visit](https://www.thataicollection.com/redirect/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Создавайте рабочие процессы, инструменты и чат-агенты на базе LLM, которые порадуют ваших пользователей и команду. От идеи до производства — очень быстро.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Highperformr.ai - Twitter Analytics & Scheduling Software
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-highperformr.ai---twitter-analytics-and-scheduling-software.webp" alt="Highperformr.ai - Twitter Analytics & Scheduling Software">
 
@@ -230,37 +262,6 @@ Highperformr — это мощное программное обеспечени
 
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/storiesbyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Petportrait
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-petportrait.webp" alt="Petportrait">
-
-#### Pet Portrait AI - красивые портреты домашних животных на заказ
-[Visit](https://www.thataicollection.com/redirect/petportrait?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ищете продуманный подарок для питомца? Pet Portrait AI создает уникальные индивидуальные портреты ваших кошек, собак и других домашних животных в различных стилях. Наша технология искусственного интеллекта гарантирует, что каждый портрет будет уникальным, как и портрет вашего питомца.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/petportrait?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Sports Prediction
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-sports-prediction.webp" alt="AI Sports Prediction">
-
-#### Прогнозы ставок на спорт с искусственным интеллектом - ИИ спортивных прогнозов
-[Visit](https://www.thataicollection.com/redirect/ai-sports-prediction?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Sports Prediction AI использует новейшую технологию искусственного интеллекта для точного прогнозирования результатов главных спортивных событий по всему миру. Футбол, NFL, гольф и многое другое.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-sports-prediction?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -901,6 +902,21 @@ ChatSimple — это платформа, которая специализир�
 
 
 
+### Dante
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dante.webp" alt="Dante">
+
+#### Пользовательские чат-боты GPT, обученные на ваших данных
+[Visit](https://www.thataicollection.com/redirect/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Нулевое кодирование. Поделитесь на своем сайте за считанные минуты. Создайте чат-бота GPT-4 за считанные минуты. Обучите ИИ, настройте и вставьте на свой сайт.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### ChatBotKit
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbotkit.webp" alt="ChatBotKit">
 
@@ -910,22 +926,6 @@ ChatSimple — это платформа, которая специализир�
 ChatBotKit помогает вам создавать диалоговых чат-ботов с искусственным интеллектом с вашими собственными данными для естественного общения с пользователями на вашем веб-сайте, в Slack, Discord и WhatsApp.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/chatbotkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Olympia
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-olympia.webp" alt="Olympia">
-
-#### Доступный виртуальный персонал для индивидуальных предпринимателей и стартапов.
-[Visit](https://www.thataicollection.com/redirect/olympia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Olympia — это виртуальный кадровый инструмент на базе искусственного интеллекта, предназначенный для индивидуальных предпринимателей и начинающих стартапов. Он призван помочь бизнесу расти, предоставляя доступный доступ к экспертам-консультантам с широким спектром навыков и устраняя необходимость найма дорогостоящих человеческих сотрудников.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/olympia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2920,6 +2920,23 @@ Albus — платформа искусственного интеллекта, 
 
 
 
+### airops
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-airops.webp" alt="airops">
+
+#### AirPS — рабочие процессы искусственного интеллекта, способствующие росту. Создавайте, тестируйте, развертывайте и масштабируйте приложения искусственного интеллекта с помощью AirPS Studio.
+
+[Visit](https://www.thataicollection.com/redirect/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Создавайте рабочие процессы, инструменты и чат-агенты на базе LLM, которые порадуют ваших пользователей и команду. От идеи до производства — очень быстро.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Hexowatch
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hexowatch.webp" alt="Hexowatch">
 
@@ -2935,19 +2952,19 @@ Hexowatch — ваш помощник с искусственным интелл
 
 
 
-### mem
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mem.webp" alt="mem">
+### Keploy.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-keploy.io.webp" alt="Keploy.io">
 
-#### Самоорганизующееся рабочее пространство
-[Visit](https://www.thataicollection.com/redirect/mem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### None
+[Visit](https://www.thataicollection.com/redirect/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Mem — это первое в мире рабочее пространство с искусственным интеллектом, персонализированное для вас. Расширяйте свои творческие возможности, автоматизируйте рутинную работу и оставайтесь организованным автоматически.
+None
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/mem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-
+<br />
 
 
 ### bardeen
@@ -2978,21 +2995,6 @@ AutoPredict — первое приложение, использующее ис
 <br />
 
 
-
-
-### Keploy.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-keploy.io.webp" alt="Keploy.io">
-
-#### None
-[Visit](https://www.thataicollection.com/redirect/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-None
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ### Hubble
