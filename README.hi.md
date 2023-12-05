@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=961" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=962" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -155,6 +155,38 @@
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
 
+### Blocks
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-blocks.webp" alt="Blocks">
+
+#### AI फ़ंक्शनैलिटी के ज़रिए बेहतर ईमेल बनाने का एक शक्तिशाली टूल।
+[Visit](https://www.thataicollection.com/redirect/blocks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ब्लॉक्स एक नो-कोड ड्रैग-एन-ड्रॉप ईमेल बिल्डर है। AI क्षमताओं (AI राइटिंग असिस्टेंट और इमेज जेनरेटर सहित) के कारण, ब्लॉक्स ईमेल डिज़ाइन की प्रक्रिया को एक नए स्तर पर लाता है। शुरुआत से अपना ईमेल बनाएं या मिनटों में ईमेल बनाने के लिए 65+ (और बढ़ते) रिस्पॉन्सिव HTML टेम्प्लेट का इस्तेमाल करें। सभी टेम्पलेट पूरी तरह से रेस्पॉन्सिव हैं: तुम्हारा ईमेल किसी भी डिवाइस पर ठीक-ठाक दिखेगा!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/blocks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### airops
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-airops.webp" alt="airops">
+
+#### AirOps - AI वर्कफ़्लोज़ जो ग्रोथ को बढ़ावा देते हैं - AirOps Studio के साथ AI ऐप्स बनाएं, उनका परीक्षण करें, उन्हें लागू करें और स्केल करें।
+
+[Visit](https://www.thataicollection.com/redirect/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+LLM-संचालित वर्कफ़्लोज़, टूल और चैट एजेंट बनाएं, जो तुम्हारे यूज़र और टीम को ख़ुशी दें। आइडिया से लेकर प्रोडक्शन तक, बहुत तेज़।
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Highperformr.ai - Twitter Analytics & Scheduling Software
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-highperformr.ai---twitter-analytics-and-scheduling-software.webp" alt="Highperformr.ai - Twitter Analytics & Scheduling Software">
 
@@ -234,37 +266,6 @@ AI के साथ लिखी, सचित्र और सुनाई ग�
 <br />
 
 <br />
-
-
-### Petportrait
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-petportrait.webp" alt="Petportrait">
-
-#### पेट पोर्ट्रेट AI - सुंदर कस्टम पेट पोर्ट्रेट्स
-[Visit](https://www.thataicollection.com/redirect/petportrait?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-एक विचारशील पालतू उपहार खोज रहे हैं? पेट पोर्ट्रेट AI कई तरह के स्टाइल में तुम्हारी बिल्लियों, कुत्तों और अन्य पालतू जानवरों के अनोखे, कस्टम-निर्मित पोर्ट्रेट बनाता है। हमारी AI तकनीक यह सुनिश्चित करती है कि हर पोर्ट्रेट तुम्हारे पालतू जानवर की तरह अनोखा हो।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/petportrait?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Sports Prediction
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-sports-prediction.webp" alt="AI Sports Prediction">
-
-#### AI स्पोर्ट्स बेटिंग की भविष्यवाणी - स्पोर्ट्स प्रेडिक्शन AI
-[Visit](https://www.thataicollection.com/redirect/ai-sports-prediction?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-स्पोर्ट्स प्रेडिक्शन AI दुनिया भर के प्रमुख खेल आयोजनों के नतीजों का सटीक अनुमान लगाने के लिए नवीनतम AI तकनीक का इस्तेमाल करता है। फ़ुटबॉल, एनएफ़एल, गोल्फ़ और भी बहुत कुछ।
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-sports-prediction?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ## लेखा और वित्त
@@ -901,6 +902,21 @@ ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छ
 
 
 
+### Dante
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dante.webp" alt="Dante">
+
+#### आपके डेटा पर प्रशिक्षित कस्टम जीपीटी चैटबॉट्स
+[Visit](https://www.thataicollection.com/redirect/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+शून्य कोडिंग। मिनटों में अपनी वेबसाइट पर साझा करें। मिनटों में GPT-4 चैटबॉट बनाएं। एआई को प्रशिक्षित करें, अनुकूलित करें और अपनी वेबसाइट पर एम्बेड करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### ChatBotKit
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbotkit.webp" alt="ChatBotKit">
 
@@ -910,22 +926,6 @@ ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छ
 ChatBotKit आपको अपनी वेबसाइट, स्लैक, डिस्कॉर्ड और व्हाट्सएप पर उपयोगकर्ताओं के साथ स्वाभाविक रूप से संवाद करने के लिए अपने स्वयं के डेटा के साथ संवादी AI चैटबॉट बनाने में मदद करता है।
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/chatbotkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Olympia
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-olympia.webp" alt="Olympia">
-
-#### सोलोप्रीनर्स और स्टार्टअप्स के लिए किफ़ायती वर्चुअल स्टाफ़।
-[Visit](https://www.thataicollection.com/redirect/olympia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ओलंपिया एक एआई-संचालित वर्चुअल स्टाफिंग टूल है, जिसे सोलोप्रीनर्स और बूटस्ट्रैप्ड स्टार्टअप्स के लिए डिज़ाइन किया गया है। इसका उद्देश्य कई तरह के कौशल के साथ विशेषज्ञ सलाहकारों तक सस्ती पहुँच प्रदान करके बिज़नेस को बढ़ने में मदद करना है, जिससे महंगे मानव कर्मचारियों को काम पर रखने की आवश्यकता समाप्त हो जाती है।
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/olympia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2920,6 +2920,23 @@ Albus एक AI प्लेटफ़ॉर्म है जो मानव स
 
 
 
+### airops
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-airops.webp" alt="airops">
+
+#### AirOps - AI वर्कफ़्लोज़ जो ग्रोथ को बढ़ावा देते हैं - AirOps Studio के साथ AI ऐप्स बनाएं, उनका परीक्षण करें, उन्हें लागू करें और स्केल करें।
+
+[Visit](https://www.thataicollection.com/redirect/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+LLM-संचालित वर्कफ़्लोज़, टूल और चैट एजेंट बनाएं, जो तुम्हारे यूज़र और टीम को ख़ुशी दें। आइडिया से लेकर प्रोडक्शन तक, बहुत तेज़।
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Hexowatch
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hexowatch.webp" alt="Hexowatch">
 
@@ -2935,19 +2952,19 @@ Albus एक AI प्लेटफ़ॉर्म है जो मानव स
 <br />
 
 
-### mem
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mem.webp" alt="mem">
+### Keploy.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-keploy.io.webp" alt="Keploy.io">
 
-#### स्व-आयोजन कार्यक्षेत्र
-[Visit](https://www.thataicollection.com/redirect/mem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### None
+[Visit](https://www.thataicollection.com/redirect/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-मेम दुनिया का पहला एआई-संचालित कार्यक्षेत्र है जो आपके लिए वैयक्तिकृत है। अपनी रचनात्मकता को बढ़ाएँ, सांसारिक को स्वचालित करें, और स्वचालित रूप से व्यवस्थित रहें।
+None
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/mem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-
+<br />
 
 
 ### bardeen
@@ -2978,21 +2995,6 @@ AutoPredict वह पहला ऐप है जो आर्टिफिशि
 <br />
 
 
-
-
-### Keploy.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-keploy.io.webp" alt="Keploy.io">
-
-#### None
-[Visit](https://www.thataicollection.com/redirect/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-None
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ### Hubble

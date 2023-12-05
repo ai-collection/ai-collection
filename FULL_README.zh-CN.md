@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=961" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=962" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -844,6 +844,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [AImReply](https://www.thataicollection.com/redirect/aimreply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您的终极 AI 电子邮件助手。通过智能自动化提高您的电子邮件生产力。让 AimReply 分析和增强您的电子邮件回复，为您节省时间. | 在简化您的电子邮件发送流程方面，AimReply可以发挥重要作用。你知道吗，普通人每周在电子邮件上花费11个小时？一年后，这意味着他们仅在发送电子邮件上就花费了572个小时。  在AimReply，我们的团队将有效地帮助您节省大量时间。人们已经习惯将电子邮件当作日常生活的一部分。. | :white_check_mark: |
+| [Blocks](https://www.thataicollection.com/redirect/blocks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 由人工智能功能增强的强大电子邮件构建工具。. | Blocks 是一款无需代码的拖放式电子邮件生成器。在人工智能功能（包括人工智能写作助手和图像生成器）的增强下，Blocks将电子邮件设计过程提升到了一个新的水平。从头开始创建您的电子邮件，或者使用超过 65 个（并且还在增长）的响应式 HTML 模板在几分钟内创建电子邮件。所有模板都是完全响应式的：您的电子邮件在任何设备上都能正常显示！. | :white_check_mark: |
 | [DraftLab](https://www.thataicollection.com/redirect/draftlab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | DraftLab AI：使用 AI 更快地编写更好的电子邮件. | 打击作家的障碍并实现收件箱为零。 DraftLab 是一款由 AI 驱动的 Gmail 副驾驶，可为您生成高质量的电子邮件回复。. | :grey_question: |
 | [Ellie](https://www.thataicollection.com/redirect/ellie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ellie - 你的 AI 邮件助理. | Ellie 从您的写作风格中学习，并像您写的一样精心回复. | :grey_question: |
 | [EmailTriager](https://www.thataicollection.com/redirect/emailtriager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EmailTriager · 电子邮件自动驾驶。. | 在 EmailTriager，我们构建的产品可以代表您工作。. | :grey_question: |
@@ -930,6 +931,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [Adaptify SEO Agent](https://www.thataicollection.com/redirect/adaptify-seo-agent?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 自动化搜索引擎优化营销. | 在 Google 上建立您的企业、客户和竞争对手的资料。然后生成在 Google 上排名良好的关键字策略和长篇内容. | :white_check_mark: |
+| [airops](https://www.thataicollection.com/redirect/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Airops-推动增长的人工智能工作流程-使用 Airops Studio 创建、测试、部署和扩展人工智能应用程序。. | 创建由 LLM 提供支持的工作流程、工具和聊天代理，让您的用户和团队感到高兴。从构思到生产，速度非常快。. | :white_check_mark: |
 | [Albus](https://www.thataicollection.com/redirect/albus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Albus-ChatGPT 现已上线 Slack - Springworks. | Albus 是一个人工智能平台，它利用 ChatGPT 的力量来帮助人力资源员工并简化人力资源运营。现在就在你的工作空间中拥有 ChatGPT4 的强大功能吧！. | :white_check_mark: |
 | [AutoPredict](https://www.thataicollection.com/redirect/autopredict?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 自动预测-预测您的汽车能持续多久. | AutoPredict是第一款使用人工智能来预测汽车将持续多久的应用程序。通过分析超过1亿个数据点，AutoPredict可以准确估计汽车的寿命。. | :white_check_mark: |
 | [bardeen](https://www.thataicollection.com/redirect/bardeen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能遇见自动化. | 即将于 2023 年推出 – Bardeen 将引入突破性的 AI 来自动化手动工作流程，节省您的时间并激发您的创造力。. | :grey_question: |
@@ -1336,7 +1338,6 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [AI Car Diagnosis](https://www.thataicollection.com/redirect/ai-car-diagnosis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 汽车诊断AI. | 使用我们的尖端工具获得实时诊断和洞察您汽车的性能。. | :grey_question: |
-| [AI Data Sidekick](https://www.thataicollection.com/redirect/ai-data-sidekick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AirOps - 数据解锁。 AI 快 10 倍。. | . | :grey_question: |
 | [AI Image Upscaler](https://www.thataicollection.com/redirect/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Image Upscaler - 免费放大和增强您的照片. | 使用我们的 AI 工具将您的图像放大到 2 倍或 4 倍，而不会丢失任何纹理或细节。使用我们的超分辨率工具，为您的图像注入新的活力。. | :white_check_mark: |
 | [AI Pickup Lines Generator](https://www.thataicollection.com/redirect/ai-pickup-lines-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能取件线. | . | :grey_question: |
 | [AI Social Media Post Writerby Socialblu](https://www.thataicollection.com/redirect/ai-social-media-post-writerby-socialblu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SocialBu - 社交媒体管理和自动化. | SocialBu 是提高社交媒体影响力和最大化结果的完美解决方案。发布、响应、分析和自动化——一切都在 SocialBu 中. | :grey_question: |
