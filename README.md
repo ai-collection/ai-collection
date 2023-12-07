@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=962" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=960" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -85,18 +85,16 @@ Translations:
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/pet-booth/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/ai-girlfriend-wtf/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF" border="0"/>
     </a>
-    <h4>Pet Booth is a service for creating your own AI Pet Portraits, Artwork, and Photos. Simply upload 10-20 photos of your cat or dog and select from over 80+ themes to transform them into.</h4>
-    <p>Pet Booth is a service for creating your own amazing AI pet portraits, photos, and artwork. It's fast, easy, and fun!
+    <h4>Dive into hot adventures with AI Girlfriends!</h4>
+    <p>Experience thrilling adventures and live different lives with AI girls! 
 
-How does it work?
+Whether surviving on a deserted island, navigating through space in a spaceship, or simply enjoying casual chats with your very own cat girl, there's something for everyone. 
 
-Simply upload 10-20 photos of your cat or dog and select from over 80+ themes to transform them into.
-
-Receive a pack of 100 AI generated images of your pet in both photo-realistic and artistic styles.</p>
-    <a href="https://www.thataicollection.com/redirect/pet-booth/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Pet Booth</b></a>
+Dive into the world of numerous AI girls and start playing now!</p>
+    <a href="https://www.thataicollection.com/redirect/ai-girlfriend-wtf/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with AI Girlfriend WTF</b></a>
     <br />
 </div>
 
@@ -161,117 +159,118 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
-### Blocks
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-blocks.webp" alt="Blocks">
+### Orchard
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-orchard.webp" alt="Orchard">
 
-#### A powerful email building tool enhanced by the AI functionality.
-[Visit](https://www.thataicollection.com/redirect/blocks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Orchard: GPT Text Editor. Upload documents, Ask questions, Enhance your writing.
+[Visit](https://www.thataicollection.com/redirect/orchard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Blocks is a no-code drag-n-drop email builder. Enhaced by AI capabilities (including AI writing assistant and image generator), Blocks brings the process of email design to a new level. Create your email from scratch or use 65+ (and growing) responsive HTML templates to build emails in minutes. All templates are fully responsive: your email will display just fine on any device!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/blocks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+Orchard: Context Aware AI Assistant. Get precise answers and insights with web search, files, and documents integrated into your chat interface
 
 
-
-
-### airops
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-airops.webp" alt="airops">
-
-#### AirOps - AI workflows that drive growth - Create, test, deploy and scale AI Apps with AirOps Studio.
-
-[Visit](https://www.thataicollection.com/redirect/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Create LLM-powered Workflows, Tools and Chat Agents that delight your users and team. From idea to production, remarkably fast.
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/orchard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Highperformr.ai - Twitter Analytics & Scheduling Software
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-highperformr.ai---twitter-analytics-and-scheduling-software.webp" alt="Highperformr.ai - Twitter Analytics & Scheduling Software">
+### Riku
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-riku.webp" alt="Riku">
 
-#### Enhance your Twitter presence with Highperformr. Features include Twitter Analytics, CRM, audience building, tweet scheduling, and more.
+#### Riku.Ai - Build No-Code Prompts & Datasets for AI Models
+[Visit](https://www.thataicollection.com/redirect/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/highperformr.ai---twitter-analytics-and-scheduling-software?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Transform Your Business with AI
+Build AI, Experiment, Deploy - User Feedback Approved. Embed Generative AI Workflow in Your Business with No-Code!
 
-Highperformr is a powerful twitter management software with a user-friendly analytics and publishing tool designed specifically for Twitter. 
-It sparks inspiration and helps you effortlessly generate brilliant content ideas. It comes with an AI coach that refines your ideas to your unique tone. Analytics that visualise beyond numbers, guiding your journey to a stronger & impactful online presence.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/highperformr.ai---twitter-analytics-and-scheduling-software?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Twinkle Tales
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-twinkle-tales.webp" alt="Twinkle Tales">
-
-#### Twinkle Tales - Custom, short story bedtime audiobooks
-[Visit](https://www.thataicollection.com/redirect/twinkle-tales?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Your ultimate AI-powered bedtime story companion 📚✨
-
-Get your custom, short story audiobook via email - ready to play by bedtime! 🎧
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/twinkle-tales?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Natural Language Playlist
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-natural-language-playlist.webp" alt="Natural Language Playlist">
+### Nichess
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nichess.webp" alt="Nichess">
 
-#### Natural Language Playlist - AI generated mixtapes!
-[Visit](https://www.thataicollection.com/redirect/natural-language-playlist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Nichesss - AI Writer - Write anything 10x faster.
+[Visit](https://www.thataicollection.com/redirect/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Natural Language Playlist - Describe your playlist and click Make me a playlist! created by Abelardo Riojas. Discovering new music can be a challenging task, and my primary objective is to make this experience excitng for people.
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/natural-language-playlist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+Ready to start generating content in seconds? Nichesss has got you covered. Forget writers block. Get blog posts, ads, social media content, poems, business ideas and more by just clicking a button. Our bots will write everything for you.
 
 
-
-
-### Question Base
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-question-base.webp" alt="Question Base">
-
-#### Improve Operational Efficiency with Question Base. Instant, Trustworthy Answers for Every Question at Work
-[Visit](https://www.thataicollection.com/redirect/question-base?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Question Base helps customer-facing teams close more deals and support tickets by accessing instant verified answers to their questions in Slack. Powered by AI.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/question-base?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### StoriesbyAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storiesbyai.webp" alt="StoriesbyAI">
+### Friday AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-friday-ai_.webp" alt="Friday AI">
 
-#### Stories by AI - Unique tales written, illustrated, and narrated with AI
-[Visit](https://www.thataicollection.com/redirect/storiesbyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Heyfriday - Ultimate AI Writer - Less Writing, More Inspiration Ultra Writing With Friday
+[Visit](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Unique tales written, illustrated, and narrated with AI. Click to read Stories by AI, a Substack publication with thousands of subscribers.
+An AI writing assistant that helps you brainstorm and complete your blog, advertisement, or creative story quickly, saving you time and money. Start your free trial today!
 
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/storiesbyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI Girlfriend WTF
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
+
+#### Dive into hot adventures with AI Girlfriends!
+[Visit](https://www.thataicollection.com/redirect/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Experience thrilling adventures and live different lives with AI girls! 
+
+Whether surviving on a deserted island, navigating through space in a spaceship, or simply enjoying casual chats with your very own cat girl, there's something for everyone. 
+
+Dive into the world of numerous AI girls and start playing now!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
+
+
+
+### AIPoemGenerator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aipoemgenerator.webp" alt="AIPoemGenerator">
+
+#### The Al Poem Generator can quickly generate poems for you in various poem styles in seconds.
+[Visit](https://www.thataicollection.com/redirect/aipoemgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Al Poem Generator is a tool designed for poetry enthusiasts and creatives alike. Simply input your keywords and select your desired poem style, and our generator will swiftly craft a unique poem tailored to your preferences. This innovative tool blends the art of poetry with Al technology, making poem creation accessible and enjoyable for everyone.
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/aipoemgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
 <br />
+
+
+
+
+### SDXL TURBO ONLINE
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sdxl-turbo-online.webp" alt="SDXL TURBO ONLINE">
+
+#### Generate high-quality images in seconds.
+[Visit](https://www.thataicollection.com/redirect/sdxl-turbo-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SDXL Turbo is based on a novel distillation technique called Adversarial Diffusion Distillation (ADD), which can quickly generate high-quality images.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/sdxl-turbo-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 
 
 ## Accounting & Finance
@@ -1842,6 +1841,25 @@ undress.VIP, a groundbreaking ai tool at the forefront of this progression. undr
 
 
 
+### AI Girlfriend WTF
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
+
+#### Dive into hot adventures with AI Girlfriends!
+[Visit](https://www.thataicollection.com/redirect/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Experience thrilling adventures and live different lives with AI girls! 
+
+Whether surviving on a deserted island, navigating through space in a spaceship, or simply enjoying casual chats with your very own cat girl, there's something for everyone. 
+
+Dive into the world of numerous AI girls and start playing now!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI-Girlfriend.AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend.ai.webp" alt="AI-Girlfriend.AI">
 
@@ -1883,21 +1901,6 @@ Undress AI photo generator for free deepnudes. Nudify deepnude AI with the highe
 An AI experiment: Ask Justice Ruth Bader Ginsburg to make a decision about any question your heart desires. The first AI Drop from AI21 Labs.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/ask-rbg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Philosophy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-philosophy.webp" alt="Philosophy">
-
-#### Ask a Philosopher
-[Visit](https://www.thataicollection.com/redirect/philosophy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ask deep questions and get answers from William Shakespeare, Friedrich Nietzsche, René Descartes, Socrates, Confucious, Al-Kindi, Buddha
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/philosophy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
