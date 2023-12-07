@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=962" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=960" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -79,18 +79,16 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/pet-booth/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/ai-girlfriend-wtf/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF" border="0"/>
     </a>
-    <h4>Pet Booth 是一项用于创建自己的 AI 宠物肖像、艺术品和照片的服务。只需上传 10-20 张您的猫或狗的照片，然后从 80 多个主题中进行选择，即可将其转换成。</h4>
-    <p>Pet Booth 是一项用于创建自己精彩的 AI 宠物肖像、照片和艺术品的服务。它快速、简单、有趣！
+    <h4>与 AI 女友一起潜入热门冒险之旅！</h4>
+    <p>与AI女孩一起体验惊险刺激的冒险并过上不同的生活！ 
 
-它是如何工作的？
+无论是在荒岛上生存，乘坐太空飞船在太空中航行，还是只是与自己的猫咪女郎随意聊天，每个人都能找到适合自己的东西。 
 
-只需上传 10-20 张您的猫或狗的照片，然后从 80 多个主题中进行选择，即可将其转换成。
-
-收到一包 100 张 AI 生成的宠物图片，既有照片级逼真度，也有艺术风格。</p>
-    <a href="https://www.thataicollection.com/redirect/pet-booth/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Pet Booth</b></a>
+潜入众多 AI 女孩的世界，立即开始玩吧！</p>
+    <a href="https://www.thataicollection.com/redirect/ai-girlfriend-wtf/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 AI Girlfriend WTF</b></a>
     <br />
 </div>
 
@@ -155,113 +153,114 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### Blocks
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-blocks.webp" alt="Blocks">
+### Orchard
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-orchard.webp" alt="Orchard">
 
-#### 由人工智能功能增强的强大电子邮件构建工具。
-[Visit](https://www.thataicollection.com/redirect/blocks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 果园：GPT 文本编辑器。上传文档，提问，增强写作能力。
+[Visit](https://www.thataicollection.com/redirect/orchard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Blocks 是一款无需代码的拖放式电子邮件生成器。在人工智能功能（包括人工智能写作助手和图像生成器）的增强下，Blocks将电子邮件设计过程提升到了一个新的水平。从头开始创建您的电子邮件，或者使用超过 65 个（并且还在增长）的响应式 HTML 模板在几分钟内创建电子邮件。所有模板都是完全响应式的：您的电子邮件在任何设备上都能正常显示！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/blocks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+果园：情境感知人工智能助手。通过将网络搜索、文件和文档集成到聊天界面中，获得精确的答案和见解
 
 
-
-
-### airops
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-airops.webp" alt="airops">
-
-#### Airops-推动增长的人工智能工作流程-使用 Airops Studio 创建、测试、部署和扩展人工智能应用程序。
-
-[Visit](https://www.thataicollection.com/redirect/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-创建由 LLM 提供支持的工作流程、工具和聊天代理，让您的用户和团队感到高兴。从构思到生产，速度非常快。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/orchard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Highperformr.ai - Twitter Analytics & Scheduling Software
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-highperformr.ai---twitter-analytics-and-scheduling-software.webp" alt="Highperformr.ai - Twitter Analytics & Scheduling Software">
+### Riku
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-riku.webp" alt="Riku">
 
-#### 使用高性能增强你的 Twitter 知名度。功能包括 Twitter 分析、客户关系管理、受众群体构建、推文排程等。
+#### Riku.Ai-为 AI 模型构建无代码提示和数据集
+[Visit](https://www.thataicollection.com/redirect/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/highperformr.ai---twitter-analytics-and-scheduling-software?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+利用 AI 实现业务转型
+构建 AI、实验、部署-用户反馈已获批准。使用无代码将生成式 AI 工作流程嵌入到您的业务中！
 
-Highperformr 是一款功能强大的推特管理软件，具有专为 Twitter 设计的用户友好型分析和发布工具。 
-它可以激发灵感，并帮助您毫不费力地提出精彩的内容创意。它配备了人工智能教练，可以根据自己的独特语气将你的想法提炼出来。分析可视化程度超越数字，引导您走向更强大、更具影响力的在线形象。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/highperformr.ai---twitter-analytics-and-scheduling-software?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Twinkle Tales
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-twinkle-tales.webp" alt="Twinkle Tales">
-
-#### Twinkle Tales-定制的短篇小说睡前有声读物
-[Visit](https://www.thataicollection.com/redirect/twinkle-tales?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-你的终极人工智能睡前故事伴侣 📚✨
-
-通过电子邮件获取您的定制短篇小说有声读物-准备在睡觉前开始播放！🎧
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/twinkle-tales?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Natural Language Playlist
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-natural-language-playlist.webp" alt="Natural Language Playlist">
+### Nichess
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nichess.webp" alt="Nichess">
 
-#### 自然语言播放列表-AI 生成的混音带！
-[Visit](https://www.thataicollection.com/redirect/natural-language-playlist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Nichesss——AI Writer——写任何东西的速度都快 10 倍。
+[Visit](https://www.thataicollection.com/redirect/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-自然语言播放列表-描述您的播放列表，然后单击 “将我设为播放列表”！由阿贝拉多·里奥哈斯创作。发现新音乐可能是一项艰巨的任务，我的主要目标是让这种体验激动人心。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/natural-language-playlist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
+准备好在几秒钟内开始生成内容了吗？Nichesss 已经为你准备好了。忘记作家封锁了。只需点击按钮即可获取博客文章、广告、社交媒体内容、诗歌、商业创意等。我们的机器人会为你写所有东西。
 
 
-### Question Base
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-question-base.webp" alt="Question Base">
-
-#### 使用问题库提高运营效率。为工作中的每个问题提供即时、值得信赖的答案
-[Visit](https://www.thataicollection.com/redirect/question-base?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Question Base 通过在 Slack 中访问即时经过验证的问题的答案，帮助面向客户的团队达成更多交易和支持请求。由 AI 提供支持。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/question-base?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### StoriesbyAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storiesbyai.webp" alt="StoriesbyAI">
+### Friday AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-friday-ai_.webp" alt="Friday AI">
 
-#### AI 的故事-使用 AI 编写、插图和叙述的独特故事
-[Visit](https://www.thataicollection.com/redirect/storiesbyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Heyfriday——终极人工智能作家——周五少写作，更多灵感 Ultra Writing
+[Visit](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-使用 AI 编写、插图和叙述的独特故事。点击阅读《人工智能故事》，这是一本拥有数千名订阅者的Substack出版物。
+一款人工智能写作助手，可帮助您集思广益，快速完成博客、广告或创意故事，为您节省时间和金钱。立即开始免费试用！
 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/storiesbyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### AI Girlfriend WTF
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
+
+#### 与 AI 女友一起潜入热门冒险之旅！
+[Visit](https://www.thataicollection.com/redirect/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+与AI女孩一起体验惊险刺激的冒险并过上不同的生活！ 
+
+无论是在荒岛上生存，乘坐太空飞船在太空中航行，还是只是与自己的猫咪女郎随意聊天，每个人都能找到适合自己的东西。 
+
+潜入众多 AI 女孩的世界，立即开始玩吧！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### AIPoemGenerator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aipoemgenerator.webp" alt="AIPoemGenerator">
+
+#### Al Poem Generator 可以在几秒钟内快速为你生成各种诗歌风格的诗歌。
+[Visit](https://www.thataicollection.com/redirect/aipoemgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Al Poem Generator 是一款专为诗歌爱好者和创作者设计的工具。只需输入您的关键字并选择所需的诗歌风格，我们的生成器就会根据您的喜好迅速制作一首独特的诗歌。这款创新工具将诗歌艺术与 Al 技术融为一体，让每个人都能轻松愉快地创作诗歌。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aipoemgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### SDXL TURBO ONLINE
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sdxl-turbo-online.webp" alt="SDXL TURBO ONLINE">
+
+#### 在几秒钟内生成高质量的图像。
+[Visit](https://www.thataicollection.com/redirect/sdxl-turbo-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SDXL Turbo 基于一种名为对抗扩散蒸馏法 (ADD) 的新型蒸馏技术，该技术可以快速生成高质量的图像。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/sdxl-turbo-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -590,27 +589,6 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 
 ## 艺术与图像生成器
 
-### Pet Booth
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
-
-#### Pet Booth 是一项用于创建自己的 AI 宠物肖像、艺术品和照片的服务。只需上传 10-20 张您的猫或狗的照片，然后从 80 多个主题中进行选择，即可将其转换成。
-[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pet Booth 是一项用于创建自己精彩的 AI 宠物肖像、照片和艺术品的服务。它快速、简单、有趣！
-
-它是如何工作的？
-
-只需上传 10-20 张您的猫或狗的照片，然后从 80 多个主题中进行选择，即可将其转换成。
-
-收到一包 100 张 AI 生成的宠物图片，既有照片级逼真度，也有艺术风格。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### caspa AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI">
 
@@ -650,6 +628,27 @@ getimg.ai 是一套神奇的人工智能工具。大规模生成原始图像、�
 ICONS8 允许设计师表达自己的想法，在正确的时间提供正确的设计元素。人工智能功能：人脸生成器、更改库存照片的面孔、Smart Upscaler、直接从 Lunacy 更新你的网站等等
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/icons8?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Pet Booth
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
+
+#### Pet Booth 是一项用于创建自己的 AI 宠物肖像、艺术品和照片的服务。只需上传 10-20 张您的猫或狗的照片，然后从 80 多个主题中进行选择，即可将其转换成。
+[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Pet Booth 是一项用于创建自己精彩的 AI 宠物肖像、照片和艺术品的服务。它快速、简单、有趣！
+
+它是如何工作的？
+
+只需上传 10-20 张您的猫或狗的照片，然后从 80 多个主题中进行选择，即可将其转换成。
+
+收到一包 100 张 AI 生成的宠物图片，既有照片级逼真度，也有艺术风格。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1836,6 +1835,25 @@ Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。
 <br />
 
 
+### AI Girlfriend WTF
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
+
+#### 与 AI 女友一起潜入热门冒险之旅！
+[Visit](https://www.thataicollection.com/redirect/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+与AI女孩一起体验惊险刺激的冒险并过上不同的生活！ 
+
+无论是在荒岛上生存，乘坐太空飞船在太空中航行，还是只是与自己的猫咪女郎随意聊天，每个人都能找到适合自己的东西。 
+
+潜入众多 AI 女孩的世界，立即开始玩吧！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### AI-Girlfriend.AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend.ai.webp" alt="AI-Girlfriend.AI">
 
@@ -1877,21 +1895,6 @@ Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。
 一项 AI 实验：让大法官 Ruth Bader Ginsburg 就您心中想要的任何问题做出决定。 AI21 Labs 的第一个 AI Drop。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ask-rbg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Philosophy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-philosophy.webp" alt="Philosophy">
-
-#### 问哲学家
-[Visit](https://www.thataicollection.com/redirect/philosophy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-提出深刻的问题并从威廉·莎士比亚、弗里德里希·尼采、勒内·笛卡尔、苏格拉底、孔子、Al-Kindi、佛陀那里得到答案
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/philosophy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

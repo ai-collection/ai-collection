@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=962" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=960" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -79,18 +79,16 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/pet-booth/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/ai-girlfriend-wtf/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF" border="0"/>
     </a>
-    <h4>Pet Booth es un servicio para crear tus propios retratos, ilustraciones y fotos de mascotas con IA. Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.</h4>
-    <p>Pet Booth es un servicio para crear tus propios increíbles retratos, fotos e ilustraciones de mascotas con IA. ¡Es rápido, fácil y divertido!
+    <h4>¡Sumérgete en grandes aventuras con AI Girlfriends!</h4>
+    <p>¡Vive emocionantes aventuras y vive vidas diferentes con chicas de IA! 
 
-¿Cómo funciona?
+Ya sea sobrevivir en una isla desierta, navegar por el espacio en una nave espacial o simplemente disfrutar de charlas informales con tu propia gata, hay algo para todos los gustos. 
 
-Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.
-
-Recibe un paquete de 100 imágenes generadas por la IA de tu mascota en estilos fotorrealista y artístico.</p>
-    <a href="https://www.thataicollection.com/redirect/pet-booth/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Pet Booth</b></a>
+¡Sumérgete en el mundo de numerosas chicas de la IA y empieza a jugar ahora!</p>
+    <a href="https://www.thataicollection.com/redirect/ai-girlfriend-wtf/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con AI Girlfriend WTF</b></a>
     <br />
 </div>
 
@@ -155,117 +153,118 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
-### Blocks
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-blocks.webp" alt="Blocks">
+### Orchard
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-orchard.webp" alt="Orchard">
 
-#### Una potente herramienta de creación de correos electrónicos mejorada con la funcionalidad de IA.
-[Visit](https://www.thataicollection.com/redirect/blocks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Orchard: editor de texto GPT. Sube documentos, haz preguntas, mejora tu escritura.
+[Visit](https://www.thataicollection.com/redirect/orchard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Blocks es un creador de correo electrónico sin código de arrastrar y soltar. Mejorado por las capacidades de IA (incluidos el asistente de escritura de IA y el generador de imágenes), Blocks lleva el proceso de diseño del correo electrónico a un nuevo nivel. Crea tu correo electrónico desde cero o utiliza más de 65 (y cada vez más) plantillas HTML responsivas para crear correos electrónicos en cuestión de minutos. Todas las plantillas son totalmente responsivas: ¡tu correo electrónico se mostrará perfectame
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/blocks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+Orchard: asistente de IA sensible al contexto. Obtén respuestas e información precisos con la búsqueda web, los archivos y los documentos integrados en tu interfaz de chat
 
 
-
-
-### airops
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-airops.webp" alt="airops">
-
-#### AirOps (flujos de trabajo de IA que impulsan el crecimiento) Crea, prueba, despliega y escala aplicaciones de IA con AirOps Studio.
-
-[Visit](https://www.thataicollection.com/redirect/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Crea flujos de trabajo, herramientas y agentes de chat con tecnología LLM que deleiten a tus usuarios y a tu equipo. De la idea a la producción, extraordinariamente rápido.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/orchard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Highperformr.ai - Twitter Analytics & Scheduling Software
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-highperformr.ai---twitter-analytics-and-scheduling-software.webp" alt="Highperformr.ai - Twitter Analytics & Scheduling Software">
+### Riku
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-riku.webp" alt="Riku">
 
-#### Mejora tu presencia en Twitter con Highperformr. Las funciones incluyen Twitter Analytics, CRM, creación de audiencia, programación de tuits y más.
+#### Riku.Ai: crea mensajes y conjuntos de datos sin código para modelos de IA
+[Visit](https://www.thataicollection.com/redirect/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/highperformr.ai---twitter-analytics-and-scheduling-software?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Transforma tu empresa con la IA
+Crea IA, experimenta, despliega: se aprueban los comentarios de los usuarios. ¡Incrusta el flujo de trabajo de IA generativa en tu empresa sin código!
 
-Highperformr es un potente software de gestión de Twitter con una herramienta de análisis y publicación fácil de usar diseñada específicamente para Twitter. 
-Inspira y te ayuda a generar ideas de contenido brillantes sin esfuerzo. Viene con un entrenador de IA que refina tus ideas con tu tono único. Análisis que visualizan más allá de los números y que guían tu camino hacia una presencia en línea más sólida e impactante.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/highperformr.ai---twitter-analytics-and-scheduling-software?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Twinkle Tales
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-twinkle-tales.webp" alt="Twinkle Tales">
-
-#### Twinkle Tales: audiolibros personalizados de cuentos cortos para dormir
-[Visit](https://www.thataicollection.com/redirect/twinkle-tales?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Tu mejor compañero de cuentos para dormir con inteligencia artificial 📚✨
-
-Recibe tu audiolibro de cuentos cortos personalizado por correo electrónico, ¡listo para jugar antes de dormir! 🎧
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/twinkle-tales?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Natural Language Playlist
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-natural-language-playlist.webp" alt="Natural Language Playlist">
+### Nichess
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nichess.webp" alt="Nichess">
 
-#### Lista de reproducción en lenguaje natural: mixtapes generados por la IA.
-[Visit](https://www.thataicollection.com/redirect/natural-language-playlist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Nichesss, escritor de IA, escribe cualquier cosa 10 veces más rápido.
+[Visit](https://www.thataicollection.com/redirect/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Lista de reproducción en idioma natural: describe tu lista de reproducción y haz clic en ¡Hazme una lista de reproducción! creado por Abelardo Riojas. Descubrir música nueva puede ser una tarea difícil y mi objetivo principal es hacer que esta experiencia sea emocionante para la gente.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/natural-language-playlist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+¿Estás listo para empezar a generar contenido en cuestión de segundos? Nichesss lo tiene cubierto. Olvídate del bloqueo de escritores. Obtén publicaciones de blog, anuncios, contenido para redes sociales, poemas, ideas de negocio y mucho más con solo hacer clic en un botón. Nuestros bots lo escribirán todo por ti.
 
 
-
-
-### Question Base
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-question-base.webp" alt="Question Base">
-
-#### Mejore la eficiencia operativa con la base de preguntas. Respuestas instantáneas y fiables para todas las preguntas del trabajo
-[Visit](https://www.thataicollection.com/redirect/question-base?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-La base de preguntas ayuda a los equipos de atención al cliente a cerrar más ofertas y solicitudes de soporte al acceder a respuestas verificadas al instante a sus preguntas en Slack. Impulsado por la IA.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/question-base?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### StoriesbyAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storiesbyai.webp" alt="StoriesbyAI">
+### Friday AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-friday-ai_.webp" alt="Friday AI">
 
-#### Historias de la IA: cuentos únicos escritos, ilustrados y narrados con la IA
-[Visit](https://www.thataicollection.com/redirect/storiesbyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Heyfriday, el mejor escritor de IA, menos escritura, más inspiración, ultra escritura con Friday
+[Visit](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Cuentos únicos escritos, ilustrados y narrados con IA. Haz clic para leer Stories by AI, una publicación de Substack con miles de suscriptores.
+Un asistente de redacción con IA que te ayuda a hacer una lluvia de ideas y completar tu blog, anuncio o historia creativa rápidamente, lo que te permite ahorrar tiempo y dinero. ¡Empieza tu prueba gratuita hoy mismo!
 
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/storiesbyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI Girlfriend WTF
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
+
+#### ¡Sumérgete en grandes aventuras con AI Girlfriends!
+[Visit](https://www.thataicollection.com/redirect/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+¡Vive emocionantes aventuras y vive vidas diferentes con chicas de IA! 
+
+Ya sea sobrevivir en una isla desierta, navegar por el espacio en una nave espacial o simplemente disfrutar de charlas informales con tu propia gata, hay algo para todos los gustos. 
+
+¡Sumérgete en el mundo de numerosas chicas de la IA y empieza a jugar ahora!
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
+
+
+
+### AIPoemGenerator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aipoemgenerator.webp" alt="AIPoemGenerator">
+
+#### El generador de poemas Al puede generar rápidamente poemas para ti en varios estilos de poemas en cuestión de segundos.
+[Visit](https://www.thataicollection.com/redirect/aipoemgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Al Poem Generator es una herramienta diseñada tanto para entusiastas de la poesía como para creativos. Simplemente introduce tus palabras clave y selecciona el estilo de poema que desees y nuestro generador creará rápidamente un poema único que se adapte a tus preferencias. Esta innovadora herramienta combina el arte de la poesía con la tecnología Al, lo que hace que la creación de poemas sea accesible y agradable para todos.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/aipoemgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
 <br />
+
+
+
+
+### SDXL TURBO ONLINE
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sdxl-turbo-online.webp" alt="SDXL TURBO ONLINE">
+
+#### Genera imágenes de alta calidad en segundos.
+[Visit](https://www.thataicollection.com/redirect/sdxl-turbo-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La SDXL Turbo se basa en una novedosa técnica de destilación llamada destilación por difusión adversa (ADD), que puede generar rápidamente imágenes de alta calidad.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/sdxl-turbo-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 
 
 ## Cuentas y finanzas
@@ -590,27 +589,6 @@ Hasta un 30% de aumento de llamadas reportado por nuestros clientes usando plano
 
 ## Generador de imágenes y arte
 
-### Pet Booth
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
-
-#### Pet Booth es un servicio para crear tus propios retratos, ilustraciones y fotos de mascotas con IA. Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.
-[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pet Booth es un servicio para crear tus propios increíbles retratos, fotos e ilustraciones de mascotas con IA. ¡Es rápido, fácil y divertido!
-
-¿Cómo funciona?
-
-Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.
-
-Recibe un paquete de 100 imágenes generadas por la IA de tu mascota en estilos fotorrealista y artístico.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### caspa AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI">
 
@@ -650,6 +628,27 @@ getimg.ai es un conjunto de herramientas mágicas de IA. Genere imágenes origin
 ICONS8 PERMITE A LOS DISEÑADORES EXPRESAR SUS IDEAS Y PROPORCIONARLES LOS ELEMENTOS DE DISEÑO CORRECTOS EN EL MOMENTO ADECUADO. Funciones de IA: generador de rostros, cambia las caras de las fotos de archivo, escalador inteligente, actualiza tu sitio web directamente desde Lunacy y más
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/icons8?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Pet Booth
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
+
+#### Pet Booth es un servicio para crear tus propios retratos, ilustraciones y fotos de mascotas con IA. Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.
+[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Pet Booth es un servicio para crear tus propios increíbles retratos, fotos e ilustraciones de mascotas con IA. ¡Es rápido, fácil y divertido!
+
+¿Cómo funciona?
+
+Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.
+
+Recibe un paquete de 100 imágenes generadas por la IA de tu mascota en estilos fotorrealista y artístico.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1836,6 +1835,25 @@ Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguard
 
 
 
+### AI Girlfriend WTF
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
+
+#### ¡Sumérgete en grandes aventuras con AI Girlfriends!
+[Visit](https://www.thataicollection.com/redirect/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+¡Vive emocionantes aventuras y vive vidas diferentes con chicas de IA! 
+
+Ya sea sobrevivir en una isla desierta, navegar por el espacio en una nave espacial o simplemente disfrutar de charlas informales con tu propia gata, hay algo para todos los gustos. 
+
+¡Sumérgete en el mundo de numerosas chicas de la IA y empieza a jugar ahora!
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI-Girlfriend.AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend.ai.webp" alt="AI-Girlfriend.AI">
 
@@ -1881,21 +1899,6 @@ Un experimento de IA: pídale a la jueza Ruth Bader Ginsburg que tome una decisi
 <br />
 
 
-
-
-### Philosophy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-philosophy.webp" alt="Philosophy">
-
-#### Pregúntale a un filósofo
-[Visit](https://www.thataicollection.com/redirect/philosophy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Haga preguntas profundas y obtenga respuestas de William Shakespeare, Friedrich Nietzsche, René Descartes, Sócrates, Confucio, Al-Kindi, Buda
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/philosophy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ### StoriesForKids
