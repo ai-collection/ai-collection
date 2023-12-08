@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=960" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=963" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -65,19 +65,6 @@ Translations:
     <h4>AI Undressing - Nudify Photos for FREE with AI Undressing</h4>
     <p>Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instantly transform looks. Nude photos in one click. Many styles and opportunity to do it with prompt</p>
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with undressing.io</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
-    </a>
-    <h4>undress.vip–2023 best 100% Working undress ai deepnude </h4>
-    <p>undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Undress.Vip</b></a>
     <br />
 </div>
 
@@ -158,6 +145,24 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+
+### Vidnoz AI HEADSHOT GENERATOR
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
+
+#### Create Professional AI Headshots Easily and Effortlessly
+[Visit](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vidnoz AI Headshot Generator is an online AI headshot generator, a revolutionary tool that
+transforms your selfies into high-quality headshots without expensive photo shoots. Simply
+upload a few daily photos and let Vidnoz's AI algorithms work their magic, seamlessly blending
+your face onto a variety of professional backdrops and clothing options. 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Orchard
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-orchard.webp" alt="Orchard">
@@ -252,21 +257,6 @@ Al Poem Generator is a tool designed for poetry enthusiasts and creatives alike.
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/aipoemgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SDXL TURBO ONLINE
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sdxl-turbo-online.webp" alt="SDXL TURBO ONLINE">
-
-#### Generate high-quality images in seconds.
-[Visit](https://www.thataicollection.com/redirect/sdxl-turbo-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SDXL Turbo is based on a novel distillation technique called Adversarial Diffusion Distillation (ADD), which can quickly generate high-quality images.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/sdxl-turbo-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -595,27 +585,6 @@ Up to 30% calls increase reported by our clients using 2D, 3D floor plans and vi
 
 ## Art & Image Generator
 
-### Pet Booth
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
-
-#### Pet Booth is a service for creating your own AI Pet Portraits, Artwork, and Photos. Simply upload 10-20 photos of your cat or dog and select from over 80+ themes to transform them into.
-[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pet Booth is a service for creating your own amazing AI pet portraits, photos, and artwork. It's fast, easy, and fun!
-
-How does it work?
-
-Simply upload 10-20 photos of your cat or dog and select from over 80+ themes to transform them into.
-
-Receive a pack of 100 AI generated images of your pet in both photo-realistic and artistic styles.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### caspa AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI">
 
@@ -655,6 +624,27 @@ getimg.ai is a suite of magical AI tools. Generate original images at scale, mod
 ICONS8 ALLOWS DESIGNERS TO EXPRESS THEIR IDEAS, PROVIDING THE RIGHT DESIGN ELEMENTS AT THE RIGHT TIME.. AI features: Face Generator, Change faces of stock photos, Smart Upscaler, Update your website right from Lunacy and more
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/icons8?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Pet Booth
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
+
+#### Pet Booth is a service for creating your own AI Pet Portraits, Artwork, and Photos. Simply upload 10-20 photos of your cat or dog and select from over 80+ themes to transform them into.
+[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Pet Booth is a service for creating your own amazing AI pet portraits, photos, and artwork. It's fast, easy, and fun!
+
+How does it work?
+
+Simply upload 10-20 photos of your cat or dog and select from over 80+ themes to transform them into.
+
+Receive a pack of 100 AI generated images of your pet in both photo-realistic and artistic styles.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1826,21 +1816,6 @@ Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instan
 
 
 
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
-
-#### undress.vip–2023 best 100% Working undress ai deepnude 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### AI Girlfriend WTF
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
 
@@ -1869,6 +1844,21 @@ Dive into the world of numerous AI girls and start playing now!
 Welcome to AI-Girlfriend.ai,where we redefine the art of sexting through our AI-powered girlfriend experience. Dive into the world of digital intimacy with a playful, commitment-free AI sexting simulation, tailored to enhance your skills and enrich your interactive experiences.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Undress.Vip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+
+#### undress.vip–2023 best 100% Working undress ai deepnude 
+[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3106,20 +3096,22 @@ Over 700+ brilliant art & portrait styles to your disposal. Possibility to modif
 
 
 
-### tensorpix
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magicstock.webp" alt="tensorpix">
+### Vidnoz AI HEADSHOT GENERATOR
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
 
-#### TensorPix - Online video enhancer. Improve and upscale videos using AI from web browser.
-[Visit](https://www.thataicollection.com/redirect/tensorpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Create Professional AI Headshots Easily and Effortlessly
+[Visit](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Upscale and Enhance videos and images online using AI. Get professional quality for every video or image. Try for Free.
+Vidnoz AI Headshot Generator is an online AI headshot generator, a revolutionary tool that
+transforms your selfies into high-quality headshots without expensive photo shoots. Simply
+upload a few daily photos and let Vidnoz's AI algorithms work their magic, seamlessly blending
+your face onto a variety of professional backdrops and clothing options. 
 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/tensorpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### Claid.ai

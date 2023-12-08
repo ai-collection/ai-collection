@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=960" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=963" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -59,19 +59,6 @@
     <h4>AI अनड्रेसिंग - AI अनड्रेसिंग के ज़रिए फ़ोटो मुफ़्त में न्यूडिफ़ाई करें</h4>
     <p>सबसे अच्छी नई मुफ़्त AI अनड्रेसिंग तकनीक! तस्वीरों के लिए AI से चलने वाली अनड्रेसिंग! तुरन्त रूप बदलो। एक क्लिक में नंगी तस्वीरें। कई स्टाइल और प्रॉम्प्ट के साथ इसे करने के अवसर</p>
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>undressing.io के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
-    </a>
-    <h4>कपड़े उतारना.vip—2023 सबसे अच्छा 100% काम करने वाला अनड्रेस ऐ डीप न्यूड </h4>
-    <p>Undress.vip, एक ज़बरदस्त एयर टूल, जो इस प्रगति में सबसे आगे है। undress.vip—2023 सबसे अच्छा 100% वर्किंग एआई डीपन्यूड और डीपफ़ेक टेलीग्राम अनड्रेस एयर बॉट्स</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Undress.Vip के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -152,6 +139,24 @@
 - 📊 [स्लाइड और प्रस्तुतियाँ](#स्लाइड-और-प्रस्तुतियाँ)
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
+
+### Vidnoz AI HEADSHOT GENERATOR
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
+
+#### आसानी से और आसानी से पेशेवर AI हेडशॉट बनाएं
+[Visit](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+विडनोज़ एआई हेडशॉट जेनरेटर एक ऑनलाइन एआई हेडशॉट जेनरेटर है, जो एक क्रांतिकारी टूल है
+महंगे फ़ोटोशूट के बिना तुम्हारी सेल्फी को हाई-क्वालिटी हेडशॉट में बदल देता है। सिर्फ़
+रोज़ाना कुछ फ़ोटो अपलोड करें और Vidnoz के AI एल्गोरिदम को अपना जादू चलाने दें, बिना किसी रुकावट के
+तुम्हारा चेहरा कई तरह के पेशेवर बैकड्रॉप और कपड़ों के विकल्पों पर है। 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Orchard
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-orchard.webp" alt="Orchard">
@@ -250,21 +255,6 @@ AI के ज़रिए अपने कारोबार में बदल
 <br />
 
 
-
-
-### SDXL TURBO ONLINE
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sdxl-turbo-online.webp" alt="SDXL TURBO ONLINE">
-
-#### कुछ ही सेकंड में हाई-क्वालिटी इमेज जेनरेट करें।
-[Visit](https://www.thataicollection.com/redirect/sdxl-turbo-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SDXL टर्बो एडवरसेरियल डिफ़्यूज़न डिस्टिलेशन (ADD) नामक एक नई डिस्टिलेशन तकनीक पर आधारित है, जो जल्दी से हाई-क्वालिटी इमेज जेनरेट कर सकती है।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/sdxl-turbo-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ## लेखा और वित्त
@@ -1820,21 +1810,6 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
-
-#### कपड़े उतारना.vip—2023 सबसे अच्छा 100% काम करने वाला अनड्रेस ऐ डीप न्यूड 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress.vip, एक ज़बरदस्त एयर टूल, जो इस प्रगति में सबसे आगे है। undress.vip—2023 सबसे अच्छा 100% वर्किंग एआई डीपन्यूड और डीपफ़ेक टेलीग्राम अनड्रेस एयर बॉट्स
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### AI Girlfriend WTF
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
 
@@ -1863,6 +1838,21 @@ Undress.vip, एक ज़बरदस्त एयर टूल, जो इस 
 AI-Girlfriend.ai में आपका स्वागत है, जहाँ हम अपने AI-संचालित गर्लफ्रेंड अनुभव के ज़रिए सेक्सटिंग की कला को फिर से परिभाषित करते हैं। एक मज़ेदार, प्रतिबद्धता-मुक्त AI सेक्सटिंग सिमुलेशन के साथ डिजिटल इंटिमेसी की दुनिया में गोता लगाएँ, जो तुम्हारे कौशल को बढ़ाने और तुम्हारे इंटरैक्टिव अनुभवों को समृद्ध बनाने के लिए तैयार किया गया है।
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Undress.Vip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+
+#### कपड़े उतारना.vip—2023 सबसे अच्छा 100% काम करने वाला अनड्रेस ऐ डीप न्यूड 
+[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress.vip, एक ज़बरदस्त एयर टूल, जो इस प्रगति में सबसे आगे है। undress.vip—2023 सबसे अच्छा 100% वर्किंग एआई डीपन्यूड और डीपफ़ेक टेलीग्राम अनड्रेस एयर बॉट्स
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3100,20 +3090,22 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 
 
-### tensorpix
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magicstock.webp" alt="tensorpix">
+### Vidnoz AI HEADSHOT GENERATOR
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
 
-#### TensorPix - ऑनलाइन वीडियो बढ़ाने वाला। वेब ब्राउज़र से AI का इस्तेमाल करके वीडियो सुधारें और अपस्केल करें।
-[Visit](https://www.thataicollection.com/redirect/tensorpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### आसानी से और आसानी से पेशेवर AI हेडशॉट बनाएं
+[Visit](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AI का इस्तेमाल करके ऑनलाइन वीडियो और इमेज को बेहतर बनाएं और बेहतर बनाएं। हर वीडियो या इमेज के लिए पेशेवर क्वालिटी पाओ। मुफ़्त में आज़माएँ।
+विडनोज़ एआई हेडशॉट जेनरेटर एक ऑनलाइन एआई हेडशॉट जेनरेटर है, जो एक क्रांतिकारी टूल है
+महंगे फ़ोटोशूट के बिना तुम्हारी सेल्फी को हाई-क्वालिटी हेडशॉट में बदल देता है। सिर्फ़
+रोज़ाना कुछ फ़ोटो अपलोड करें और Vidnoz के AI एल्गोरिदम को अपना जादू चलाने दें, बिना किसी रुकावट के
+तुम्हारा चेहरा कई तरह के पेशेवर बैकड्रॉप और कपड़ों के विकल्पों पर है। 
 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/tensorpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### Claid.ai
