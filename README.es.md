@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=960" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=963" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -59,19 +59,6 @@
     <h4>Desvestirse con IA: desnuda fotos GRATIS con AI Undressing</h4>
     <p>¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez</p>
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con undressing.io</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
-    </a>
-    <h4>undress.vip—2023 mejor vestido 100% funcional ai deepnude </h4>
-    <p>Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Undress.Vip</b></a>
     <br />
 </div>
 
@@ -152,6 +139,24 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 💰 [Ventas Y Marketing](#ventas-y-marketing)
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
+
+### Vidnoz AI HEADSHOT GENERATOR
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
+
+#### Crea fotos profesionales de IA en la cabeza de forma fácil y sin esfuerzo
+[Visit](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+El generador de fotos de IA de Vidnoz es un generador de fotos en la cabeza de IA en línea, una herramienta revolucionaria que
+transforma tus selfies en fotos de la cabeza de alta calidad sin costosas sesiones de fotos. Simplemente
+sube unas cuantas fotos diarias y deja que los algoritmos de IA de Vidnoz hagan su magia, mezclándose a la perfección
+tu rostro en una variedad de fondos profesionales y opciones de ropa. 
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Orchard
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-orchard.webp" alt="Orchard">
@@ -246,21 +251,6 @@ Al Poem Generator es una herramienta diseñada tanto para entusiastas de la poes
 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/aipoemgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SDXL TURBO ONLINE
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sdxl-turbo-online.webp" alt="SDXL TURBO ONLINE">
-
-#### Genera imágenes de alta calidad en segundos.
-[Visit](https://www.thataicollection.com/redirect/sdxl-turbo-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-La SDXL Turbo se basa en una novedosa técnica de destilación llamada destilación por difusión adversa (ADD), que puede generar rápidamente imágenes de alta calidad.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/sdxl-turbo-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1820,21 +1810,6 @@ SwagAI: imágenes generadas por la IA en las camisetas.
 
 
 
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
-
-#### undress.vip—2023 mejor vestido 100% funcional ai deepnude 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### AI Girlfriend WTF
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
 
@@ -1863,6 +1838,21 @@ Ya sea sobrevivir en una isla desierta, navegar por el espacio en una nave espac
 Bienvenido a AI-Girlfriend.ai, donde redefinimos el arte del sexting a través de nuestra experiencia de novia basada en la IA. Sumérgete en el mundo de la intimidad digital con una simulación de sexting con IA divertida y sin compromisos, diseñada para mejorar tus habilidades y enriquecer tus experiencias interactivas.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Undress.Vip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+
+#### undress.vip—2023 mejor vestido 100% funcional ai deepnude 
+[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3099,20 +3089,22 @@ Más de 700 brillantes estilos artísticos y de retratos a tu disposición. Posi
 
 
 
-### tensorpix
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magicstock.webp" alt="tensorpix">
+### Vidnoz AI HEADSHOT GENERATOR
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
 
-#### TensorPix: potenciador de vídeo en línea. Mejora y mejora los vídeos mediante la IA desde el navegador web.
-[Visit](https://www.thataicollection.com/redirect/tensorpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Crea fotos profesionales de IA en la cabeza de forma fácil y sin esfuerzo
+[Visit](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Mejora y mejora los vídeos e imágenes en línea mediante la IA. Consigue una calidad profesional para cada vídeo o imagen. Pruébalo gratis.
+El generador de fotos de IA de Vidnoz es un generador de fotos en la cabeza de IA en línea, una herramienta revolucionaria que
+transforma tus selfies en fotos de la cabeza de alta calidad sin costosas sesiones de fotos. Simplemente
+sube unas cuantas fotos diarias y deja que los algoritmos de IA de Vidnoz hagan su magia, mezclándose a la perfección
+tu rostro en una variedad de fondos profesionales y opciones de ropa. 
 
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/tensorpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### Claid.ai

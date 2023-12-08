@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=960" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=963" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -59,19 +59,6 @@
     <h4>AI Undressing - Nudifie des photos GRATUITEMENT avec AI Undressing</h4>
     <p>Meilleure nouvelle technologie de déshabillage IA GRATUITE ! Se déshabiller grâce à l'IA pour les photos ! Transforme instantanément l'apparence. Des photos de nu en un clic. De nombreux styles et la possibilité de le faire rapidement</p>
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec undressing.io</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
-    </a>
-    <h4>undress.vip—Le meilleur déshabillage 100 % fonctionnel de 2023 sur deepnude </h4>
-    <p>Undress.vip, un outil d'IA révolutionnaire qui joue un rôle de premier plan dans cette progression. undress.vip—2023 best 100 % Working AI Deepnude & Deepfake Telegram Undress AI Bots</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Undress.Vip</b></a>
     <br />
 </div>
 
@@ -1117,6 +1104,7 @@ Plongez dans l'univers de nombreuses filles animées par l'IA et commencez à jo
 | [Topaz Photo AI](https://www.thataicollection.com/redirect/topaz-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Topaz Labs : Logiciel de qualité d'image IA. | Le logiciel d'amélioration des photos et des vidéos optimisé par l'apprentissage en profondeur vous offre la meilleure qualité d'image disponible pour la réduction du bruit, la netteté, la mise à l'échelle, etc. | :grey_question: |
 | [Unfake](https://www.thataicollection.com/redirect/unfake?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Outil d'IA qui peut transformer fake.png ennuyeux en true, unfake.png. | Ne détestez-vous pas trouver cette image parfaite, supposée sans arrière-plan, et la télécharger, mais lorsque vous allez l'utiliser, le redoutable damier apparaît ?. | :white_check_mark: |
 | [Unrealme](https://www.thataicollection.com/redirect/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unreal Me - Obtenez des images de vous générées par l'IA. | Étapes pour obtenir de superbes images de vous-même : 1. Paiement. 2. Télécharger - Lisez les recommandations et téléchargez vos photos chaque fois que vous en avez le temps (votre lien est envoyé par e-mail). 3. Attendez 4. Partagez. | :x: |
+| [Vidnoz AI HEADSHOT GENERATOR](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Créez des portraits professionnels grâce à l'IA facilement et sans effort. | Vidnoz AI Headshot Generator est un générateur de portraits IA en ligne, un outil révolutionnaire qui transforme tes selfies en photos de haute qualité sans recourir à des séances photos coûteuses. Tout simplement télécharge quelques photos par jour et laisse les algorithmes d'IA de Vidnoz opérer leur magie, en les mélangeant parfaitement ton visage sur une variété de décors et de vêtements professionnels. | :white_check_mark: |
 | [Waifu XL](https://www.thataicollection.com/redirect/waifu-xl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Waifuxl propose une mise à l'échelle ultramoderne directement dans ton navigateur en un clic. | Waifuxl propose une mise à l'échelle ultramoderne directement dans ton navigateur en un clic. Inutile de choisir un niveau de bruit, pas de captcha, et tes images ne nous sont jamais envoyées. Tout est fait localement !. | :grey_question: |
 
 

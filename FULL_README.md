@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=960" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=963" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -65,19 +65,6 @@ Translations:
     <h4>AI Undressing - Nudify Photos for FREE with AI Undressing</h4>
     <p>Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instantly transform looks. Nude photos in one click. Many styles and opportunity to do it with prompt</p>
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with undressing.io</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
-    </a>
-    <h4>undress.vip–2023 best 100% Working undress ai deepnude </h4>
-    <p>undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Undress.Vip</b></a>
     <br />
 </div>
 
@@ -932,6 +919,7 @@ Dive into the world of numerous AI girls and start playing now!</p>
 | [Topaz Photo AI](https://www.thataicollection.com/redirect/topaz-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Topaz Labs: AI Image Quality Software. | Photo and video enhancement software powered by deep learning gets you the best image quality available for noise reduction, sharpening, upscaling, and more. | :grey_question: |
 | [Unfake](https://www.thataicollection.com/redirect/unfake?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Tool That Can Turn Annoying Fake.Png Into True, Unfake.Png. | Dont you hate it when you find that perfect, supposedly background-less Image, and download it, but when you go to use it, the dreaded checkerboard appears?. | :white_check_mark: |
 | [Unrealme](https://www.thataicollection.com/redirect/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unreal Me - Get AI Generated Images of You. | Steps to get awesome images of yourself: 1. Payment. 2. Upload - Read recommendations and upload your photos whenever you have time (your link is sent by email). 3. Wait 4. Share. | :x: |
+| [Vidnoz AI HEADSHOT GENERATOR](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create Professional AI Headshots Easily and Effortlessly. | Vidnoz AI Headshot Generator is an online AI headshot generator, a revolutionary tool that transforms your selfies into high-quality headshots without expensive photo shoots. Simply upload a few daily photos and let Vidnoz's AI algorithms work their magic, seamlessly blending your face onto a variety of professional backdrops and clothing options. | :white_check_mark: |
 | [Waifu XL](https://www.thataicollection.com/redirect/waifu-xl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Waifuxl provides state of the art upscaling directly in your browser at the click of a button. | Waifuxl provides state of the art upscaling directly in your browser at the click of a button. No need to choose a noise level, no captcha, and your images are never sent to us. Everything is done locally!. | :grey_question: |
 
 

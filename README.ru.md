@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=960" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=963" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -59,19 +59,6 @@
     <h4>Раздевание с искусственным интеллектом - БЕСПЛАТНОЕ раздевание фотографий обнаженной натуры с помощью искусственного интеллекта</h4>
     <p>Лучшая НОВАЯ БЕСПЛАТНАЯ технология раздевания с искусственным интеллектом! Раздевание на базе искусственного интеллекта для фотографий! Мгновенно меняйте внешний вид. Обнаженные фотографии в один клик. Множество стилей и возможность сделать это в кратчайшие сроки</p>
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с undressing.io</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
-    </a>
-    <h4>undress.vip—2023 лучшее 100% рабочее раздевание в обнаженном виде </h4>
-    <p>Undress.vip, новаторский инструмент для искусственного интеллекта, лежащий в авангарде этого прогресса. undress.vip—2023 лучшие телеграмы раздевают искусственные боты с искусственным интеллектом на 100% работающим искусственным интеллектом в стиле deepnude и deepfake</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Undress.Vip</b></a>
     <br />
 </div>
 
@@ -152,6 +139,24 @@
 - 🛒 [Электронная Торговля](#электронная-торговля)
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
+
+### Vidnoz AI HEADSHOT GENERATOR
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
+
+#### Создавайте профессиональные хедшоты с искусственным интеллектом легко и без усилий
+[Visit](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vidnoz AI Headshot Generator — это онлайн-генератор выстрелов в голову с искусственным интеллектом, революционный инструмент, который
+Превращает ваши селфи в высококачественные снимки головы без дорогостоящих фотосессий. Просто
+загружайте несколько ежедневных фотографий и позвольте алгоритмам искусственного интеллекта Vidnoz творить чудеса, легко смешиваясь
+ваше лицо на различных профессиональных фонах и вариантах одежды. 
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Orchard
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-orchard.webp" alt="Orchard">
@@ -246,21 +251,6 @@ Al Poem Generator — это инструмент, предназначенны�
 
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/aipoemgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SDXL TURBO ONLINE
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sdxl-turbo-online.webp" alt="SDXL TURBO ONLINE">
-
-#### Создавайте высококачественные изображения за считанные секунды.
-[Visit](https://www.thataicollection.com/redirect/sdxl-turbo-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SDXL Turbo основан на новой технологии дистилляции под названием Adversarial Diffusion Distillation (ADD), которая позволяет быстро создавать высококачественные изображения.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/sdxl-turbo-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -589,27 +579,6 @@ Plask предлагает искусственный захват движен�
 
 ## Генератор изображений и изображений
 
-### Pet Booth
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
-
-#### Pet Booth — это сервис для создания собственных портретов, иллюстраций и фотографий домашних животных с искусственным интеллектом. Просто загрузите 10-20 фотографий своей кошки или собаки и выберите из более чем 80 тем, в которые можно превратить их.
-[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pet Booth — это сервис для создания собственных удивительных портретов, фотографий и произведений искусства с искусственным интеллектом. Это быстро, просто и увлекательно!
-
-Как это работает?
-
-Просто загрузите 10-20 фотографий вашей кошки или собаки и выберите из более чем 80 тем, в которые можно превратить их.
-
-Получите набор из 100 изображений вашего питомца, созданных искусственным интеллектом, как в фотореалистичном, так и в художественном стиле.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### caspa AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI">
 
@@ -649,6 +618,27 @@ getimg.ai — это набор волшебных инструментов ис
 ICONS8 ПОЗВОЛЯЕТ ДИЗАЙНЕРАМ ВЫРАЖАТЬ СВОИ ИДЕИ, ПРЕДОСТАВЛЯЯ НУЖНЫЕ ЭЛЕМЕНТЫ ДИЗАЙНА В НУЖНОЕ ВРЕМЯ.. Функции искусственного интеллекта: генератор лиц, смена лиц на стоковых фотографиях, интеллектуальное масштабирование, обновление сайта прямо из режима Lunacy и многое другое
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/icons8?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Pet Booth
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
+
+#### Pet Booth — это сервис для создания собственных портретов, иллюстраций и фотографий домашних животных с искусственным интеллектом. Просто загрузите 10-20 фотографий своей кошки или собаки и выберите из более чем 80 тем, в которые можно превратить их.
+[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Pet Booth — это сервис для создания собственных удивительных портретов, фотографий и произведений искусства с искусственным интеллектом. Это быстро, просто и увлекательно!
+
+Как это работает?
+
+Просто загрузите 10-20 фотографий вашей кошки или собаки и выберите из более чем 80 тем, в которые можно превратить их.
+
+Получите набор из 100 изображений вашего питомца, созданных искусственным интеллектом, как в фотореалистичном, так и в художественном стиле.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1820,21 +1810,6 @@ SwagAI — изображения, созданные искусственным
 
 
 
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
-
-#### undress.vip—2023 лучшее 100% рабочее раздевание в обнаженном виде 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress.vip, новаторский инструмент для искусственного интеллекта, лежащий в авангарде этого прогресса. undress.vip—2023 лучшие телеграмы раздевают искусственные боты с искусственным интеллектом на 100% работающим искусственным интеллектом в стиле deepnude и deepfake
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### AI Girlfriend WTF
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
 
@@ -1863,6 +1838,21 @@ Undress.vip, новаторский инструмент для искусств
 Добро пожаловать в AI-Girlfriend.ai, где мы переосмысливаем искусство секстинга с помощью нашего опыта работы с девушками с искусственным интеллектом. Погрузитесь в мир цифровой интимной близости с помощью игривого симулятора секстинга с искусственным интеллектом, который поможет вам улучшить ваши навыки и обогатить интерактивный опыт.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Undress.Vip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+
+#### undress.vip—2023 лучшее 100% рабочее раздевание в обнаженном виде 
+[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress.vip, новаторский инструмент для искусственного интеллекта, лежащий в авангарде этого прогресса. undress.vip—2023 лучшие телеграмы раздевают искусственные боты с искусственным интеллектом на 100% работающим искусственным интеллектом в стиле deepnude и deepfake
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3100,16 +3090,18 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 
-### tensorpix
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magicstock.webp" alt="tensorpix">
+### Vidnoz AI HEADSHOT GENERATOR
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
 
-#### TensorPix - онлайн-усилитель видео. Улучшайте и повышайте качество видео с помощью искусственного интеллекта в веб-браузере.
-[Visit](https://www.thataicollection.com/redirect/tensorpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Создавайте профессиональные хедшоты с искусственным интеллектом легко и без усилий
+[Visit](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Улучшайте и улучшайте видео и изображения в Интернете с помощью искусственного интеллекта. Обеспечьте профессиональное качество каждого видео или изображения. Попробуйте бесплатно.
+Vidnoz AI Headshot Generator — это онлайн-генератор выстрелов в голову с искусственным интеллектом, революционный инструмент, который
+Превращает ваши селфи в высококачественные снимки головы без дорогостоящих фотосессий. Просто
+загружайте несколько ежедневных фотографий и позвольте алгоритмам искусственного интеллекта Vidnoz творить чудеса, легко смешиваясь
+ваше лицо на различных профессиональных фонах и вариантах одежды. 
 
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/tensorpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

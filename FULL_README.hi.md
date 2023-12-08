@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=960" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=963" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -59,19 +59,6 @@
     <h4>AI अनड्रेसिंग - AI अनड्रेसिंग के ज़रिए फ़ोटो मुफ़्त में न्यूडिफ़ाई करें</h4>
     <p>सबसे अच्छी नई मुफ़्त AI अनड्रेसिंग तकनीक! तस्वीरों के लिए AI से चलने वाली अनड्रेसिंग! तुरन्त रूप बदलो। एक क्लिक में नंगी तस्वीरें। कई स्टाइल और प्रॉम्प्ट के साथ इसे करने के अवसर</p>
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>undressing.io के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
-    </a>
-    <h4>कपड़े उतारना.vip—2023 सबसे अच्छा 100% काम करने वाला अनड्रेस ऐ डीप न्यूड </h4>
-    <p>Undress.vip, एक ज़बरदस्त एयर टूल, जो इस प्रगति में सबसे आगे है। undress.vip—2023 सबसे अच्छा 100% वर्किंग एआई डीपन्यूड और डीपफ़ेक टेलीग्राम अनड्रेस एयर बॉट्स</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Undress.Vip के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -822,6 +809,7 @@
 | [Topaz Photo AI](https://www.thataicollection.com/redirect/topaz-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पुखराज लैब्स: एआई छवि गुणवत्ता सॉफ्टवेयर. | डीप लर्निंग द्वारा संचालित फोटो और वीडियो एन्हांसमेंट सॉफ़्टवेयर आपको शोर में कमी, पैनापन, अपस्केलिंग और बहुत कुछ के लिए उपलब्ध सर्वोत्तम छवि गुणवत्ता प्रदान करता है।. | :grey_question: |
 | [Unfake](https://www.thataicollection.com/redirect/unfake?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई टूल जो कष्टप्रद Fake.Png को सच, Unfake.Png में बदल सकता है।. | जब आप उस संपूर्ण, अनुमानित रूप से पृष्ठभूमि-रहित छवि को ढूंढते हैं, और उसे डाउनलोड करते हैं, लेकिन जब आप इसका उपयोग करने जाते हैं, तो आपको इससे नफरत नहीं होती है, खतरनाक चेकरबोर्ड दिखाई देता है?. | :white_check_mark: |
 | [Unrealme](https://www.thataicollection.com/redirect/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अवास्तविक मैं - आप की एआई जनित छवियां प्राप्त करें. | अपनी शानदार तस्वीरें प्राप्त करने के लिए कदम: 1. भुगतान। 2. अपलोड करें - सिफारिशें पढ़ें और जब भी आपके पास समय हो अपनी तस्वीरें अपलोड करें (आपका लिंक ईमेल द्वारा भेजा जाता है)। 3. प्रतीक्षा करें 4. साझा करें।. | :x: |
+| [Vidnoz AI HEADSHOT GENERATOR](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आसानी से और आसानी से पेशेवर AI हेडशॉट बनाएं. | विडनोज़ एआई हेडशॉट जेनरेटर एक ऑनलाइन एआई हेडशॉट जेनरेटर है, जो एक क्रांतिकारी टूल है महंगे फ़ोटोशूट के बिना तुम्हारी सेल्फी को हाई-क्वालिटी हेडशॉट में बदल देता है। सिर्फ़ रोज़ाना कुछ फ़ोटो अपलोड करें और Vidnoz के AI एल्गोरिदम को अपना जादू चलाने दें, बिना किसी रुकावट के तुम्हारा चेहरा कई तरह के पेशेवर बैकड्रॉप और कपड़ों के विकल्पों पर है।. | :white_check_mark: |
 | [Waifu XL](https://www.thataicollection.com/redirect/waifu-xl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Waifuxl एक बटन के क्लिक पर सीधे तुम्हारे ब्राउज़र में अत्याधुनिक अपस्केलिंग प्रदान करता है।. | Waifuxl एक बटन के क्लिक पर सीधे तुम्हारे ब्राउज़र में अत्याधुनिक अपस्केलिंग प्रदान करता है। शोर का स्तर चुनने की ज़रूरत नहीं है, कोई कैप्चा नहीं है, और तुम्हारी छवियां हमें कभी नहीं भेजी जाती हैं। सब कुछ स्थानीय स्तर पर किया जाता है!. | :grey_question: |
 
 

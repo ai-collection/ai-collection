@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=960" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=963" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -59,19 +59,6 @@
     <h4>AI Undressing-使用 AI Undressing 免费裸体照片</h4>
     <p>最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成</p>
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 undressing.io</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
-    </a>
-    <h4>undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude </h4>
-    <p>Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Undress.Vip</b></a>
     <br />
 </div>
 
@@ -798,6 +785,7 @@
 | [Topaz Photo AI](https://www.thataicollection.com/redirect/topaz-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Topaz Labs：AI 图像质量软件. | 由深度学习提供支持的照片和视频增强软件可为您提供可用于降噪、锐化、放大等的最佳图像质量。. | :grey_question: |
 | [Unfake](https://www.thataicollection.com/redirect/unfake?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 可以将烦人的 fake.png 变成真实的 unfake.png 的 AI 工具。. | 当您找到那个完美的、据称没有背景的图像并下载它时，您是否讨厌它，但是当您使用它时，可怕的棋盘格出现了？. | :white_check_mark: |
 | [Unrealme](https://www.thataicollection.com/redirect/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unreal Me - 获取 AI 生成的你的图像. | 获得令人惊叹的自己照片的步骤： 1. 付款。 2. 上传 - 阅读推荐并在有时间时上传您的照片（您的链接通过电子邮件发送）。 3. 等待 4. 分享。. | :x: |
+| [Vidnoz AI HEADSHOT GENERATOR](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 轻松轻松地创建专业的 AI 头像. | Vidnoz AI Headshot Generator 是一款在线人工智能头像生成器，是一款革命性的工具 无需昂贵的照片拍摄，即可将您的自拍照转换为高质量的头像。只是 每天上传几张照片，让 Vidnoz 的人工智能算法发挥魔力，无缝融合 面对各种专业背景和服装选择。. | :white_check_mark: |
 | [Waifu XL](https://www.thataicollection.com/redirect/waifu-xl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 只需单击一下按钮，Waifuxl即可直接在浏览器中提供最先进的放大功能。. | 只需单击一下按钮，Waifuxl即可直接在浏览器中提供最先进的放大功能。无需选择噪音等级，无需验证码，而且您的图像永远不会发送给我们。一切都是在本地完成的！. | :grey_question: |
 
 
