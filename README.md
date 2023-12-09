@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=963" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=964" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -65,6 +65,19 @@ Translations:
     <h4>AI Undressing - Nudify Photos for FREE with AI Undressing</h4>
     <p>Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instantly transform looks. Nude photos in one click. Many styles and opportunity to do it with prompt</p>
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with undressing.io</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    </a>
+    <h4>undress.vip–2023 best 100% Working undress ai deepnude </h4>
+    <p>undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Undress.Vip</b></a>
     <br />
 </div>
 
@@ -145,6 +158,22 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+
+### FaceVary
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-facevary.webp" alt="FaceVary">
+
+#### Free online face changer that allows you to swap heads and replace faces in photos.
+[Visit](https://www.thataicollection.com/redirect/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+FaceVary is a revolutionary new product that allows you to swap faces in photos with just a few taps. It's easy to use, and there are no watermarks or ads.
+With FaceVary, you can swap your face with your friends, celebrities, or even historical figures. You can create funny videos, memes, and collages, or just have some fun experimenting with your appearance.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Vidnoz AI HEADSHOT GENERATOR
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
@@ -241,22 +270,6 @@ Whether surviving on a deserted island, navigating through space in a spaceship,
 Dive into the world of numerous AI girls and start playing now!
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AIPoemGenerator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aipoemgenerator.webp" alt="AIPoemGenerator">
-
-#### The Al Poem Generator can quickly generate poems for you in various poem styles in seconds.
-[Visit](https://www.thataicollection.com/redirect/aipoemgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Al Poem Generator is a tool designed for poetry enthusiasts and creatives alike. Simply input your keywords and select your desired poem style, and our generator will swiftly craft a unique poem tailored to your preferences. This innovative tool blends the art of poetry with Al technology, making poem creation accessible and enjoyable for everyone.
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/aipoemgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

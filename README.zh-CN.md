@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=963" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=964" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -59,6 +59,19 @@
     <h4>AI Undressing-使用 AI Undressing 免费裸体照片</h4>
     <p>最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成</p>
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 undressing.io</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    </a>
+    <h4>undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude </h4>
+    <p>Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Undress.Vip</b></a>
     <br />
 </div>
 
@@ -139,6 +152,22 @@
 - 💰 [销售与市场营销](#销售与市场营销)
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
+
+### FaceVary
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-facevary.webp" alt="FaceVary">
+
+#### 免费的在线换脸器，可让您交换头部并替换照片中的面孔。
+[Visit](https://www.thataicollection.com/redirect/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+FaceVary 是一款革命性的新产品，只需轻点几下即可交换照片中的面孔。它易于使用，并且没有水印或广告。
+使用 FaceVary，你可以与朋友、名人甚至历史人物交换脸。你可以制作有趣的视频、模因和拼贴画，或者只是尝试一下自己的外表。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 
 ### Vidnoz AI HEADSHOT GENERATOR
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
@@ -235,22 +264,6 @@ Vidnoz AI Headshot Generator 是一款在线人工智能头像生成器，是一
 潜入众多 AI 女孩的世界，立即开始玩吧！
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AIPoemGenerator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aipoemgenerator.webp" alt="AIPoemGenerator">
-
-#### Al Poem Generator 可以在几秒钟内快速为你生成各种诗歌风格的诗歌。
-[Visit](https://www.thataicollection.com/redirect/aipoemgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Al Poem Generator 是一款专为诗歌爱好者和创作者设计的工具。只需输入您的关键字并选择所需的诗歌风格，我们的生成器就会根据您的喜好迅速制作一首独特的诗歌。这款创新工具将诗歌艺术与 Al 技术融为一体，让每个人都能轻松愉快地创作诗歌。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aipoemgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
