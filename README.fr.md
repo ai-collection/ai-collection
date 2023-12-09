@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=963" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=964" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -59,6 +59,19 @@
     <h4>AI Undressing - Nudifie des photos GRATUITEMENT avec AI Undressing</h4>
     <p>Meilleure nouvelle technologie de déshabillage IA GRATUITE ! Se déshabiller grâce à l'IA pour les photos ! Transforme instantanément l'apparence. Des photos de nu en un clic. De nombreux styles et la possibilité de le faire rapidement</p>
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec undressing.io</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    </a>
+    <h4>undress.vip—Le meilleur déshabillage 100 % fonctionnel de 2023 sur deepnude </h4>
+    <p>Undress.vip, un outil d'IA révolutionnaire qui joue un rôle de premier plan dans cette progression. undress.vip—2023 best 100 % Working AI Deepnude & Deepfake Telegram Undress AI Bots</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Undress.Vip</b></a>
     <br />
 </div>
 
@@ -139,6 +152,22 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 💰 [Ventes Et Marketing](#ventes-et-marketing)
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
+
+### FaceVary
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-facevary.webp" alt="FaceVary">
+
+#### Changeur de visage en ligne gratuit qui te permet d'échanger des têtes et de remplacer des visages sur les photos.
+[Visit](https://www.thataicollection.com/redirect/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+FaceVary est un nouveau produit révolutionnaire qui te permet d'échanger des visages sur des photos en quelques clics. Il est facile à utiliser et il n'y a ni filigrane ni publicité.
+Avec FaceVary, tu peux échanger ton visage avec celui de tes amis, des célébrités ou même des personnages historiques. Tu peux créer des vidéos, des mèmes et des collages amusants, ou simplement t'amuser à expérimenter ton apparence.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Vidnoz AI HEADSHOT GENERATOR
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
@@ -235,22 +264,6 @@ Qu'il s'agisse de survivre sur une île déserte, de naviguer dans l'espace à b
 Plongez dans l'univers de nombreuses filles animées par l'IA et commencez à jouer dès maintenant !
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AIPoemGenerator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aipoemgenerator.webp" alt="AIPoemGenerator">
-
-#### Le générateur de poèmes Al peut générer rapidement des poèmes pour toi dans différents styles de poèmes en quelques secondes.
-[Visit](https://www.thataicollection.com/redirect/aipoemgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Al Poem Generator est un outil conçu pour les passionnés de poésie comme pour les créatifs. Il suffit de saisir tes mots clés et de sélectionner le style de poème que tu souhaites, et notre générateur créera rapidement un poème unique adapté à tes préférences. Cet outil innovant associe l'art de la poésie à la technologie Al, rendant la création de poèmes accessible et agréable pour tous.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/aipoemgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1829,21 +1842,6 @@ Plongez dans l'univers de nombreuses filles animées par l'IA et commencez à jo
 
 
 
-### AI-Girlfriend.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend.ai.webp" alt="AI-Girlfriend.AI">
-
-#### Révolutionne ton expérience des sextos avec AI-Girlfriend.AI
-[Visit](https://www.thataicollection.com/redirect/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Bienvenue sur AI-Girlfriend.ai, où nous redéfinissons l'art du sexting grâce à notre expérience entre copines basée sur l'IA. Plongez dans l'univers de l'intimité numérique grâce à une simulation de sexting ludique et sans engagement basée sur l'IA, conçue pour améliorer tes compétences et enrichir tes expériences interactives.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Undress.Vip
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
 
@@ -1853,6 +1851,21 @@ Bienvenue sur AI-Girlfriend.ai, où nous redéfinissons l'art du sexting grâce 
 Undress.vip, un outil d'IA révolutionnaire qui joue un rôle de premier plan dans cette progression. undress.vip—2023 best 100 % Working AI Deepnude & Deepfake Telegram Undress AI Bots
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI-Girlfriend.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend.ai.webp" alt="AI-Girlfriend.AI">
+
+#### Révolutionne ton expérience des sextos avec AI-Girlfriend.AI
+[Visit](https://www.thataicollection.com/redirect/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Bienvenue sur AI-Girlfriend.ai, où nous redéfinissons l'art du sexting grâce à notre expérience entre copines basée sur l'IA. Plongez dans l'univers de l'intimité numérique grâce à une simulation de sexting ludique et sans engagement basée sur l'IA, conçue pour améliorer tes compétences et enrichir tes expériences interactives.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=963" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=964" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -59,6 +59,19 @@
     <h4>AI अनड्रेसिंग - AI अनड्रेसिंग के ज़रिए फ़ोटो मुफ़्त में न्यूडिफ़ाई करें</h4>
     <p>सबसे अच्छी नई मुफ़्त AI अनड्रेसिंग तकनीक! तस्वीरों के लिए AI से चलने वाली अनड्रेसिंग! तुरन्त रूप बदलो। एक क्लिक में नंगी तस्वीरें। कई स्टाइल और प्रॉम्प्ट के साथ इसे करने के अवसर</p>
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>undressing.io के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    </a>
+    <h4>कपड़े उतारना.vip—2023 सबसे अच्छा 100% काम करने वाला अनड्रेस ऐ डीप न्यूड </h4>
+    <p>Undress.vip, एक ज़बरदस्त एयर टूल, जो इस प्रगति में सबसे आगे है। undress.vip—2023 सबसे अच्छा 100% वर्किंग एआई डीपन्यूड और डीपफ़ेक टेलीग्राम अनड्रेस एयर बॉट्स</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Undress.Vip के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -776,6 +789,7 @@
 | [Colorize](https://www.thataicollection.com/redirect/colorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | गहन शिक्षण की शक्ति से फोटो को रंगीन करें. | फोटो को ऑनलाइन रंगीन करें Colorize.cc - AI सेवा है जो ब्लैक एंड व्हाइट फोटो और वीडियो को रंगीन करती है। कुछ ही क्लिक में आप मशीन लर्निंग प्रौद्योगिकियों के जादू को छू सकते हैं। कुछ ही मिनटों में अपने परिवार की सैकड़ों तस्वीरों को रंगीन बनाएं।. | :x: |
 | [Edit @ Scale](https://www.thataicollection.com/redirect/edit-@-scale?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके उत्पाद फ़ोटो के लिए AI बैच संपादक. | उत्पाद फ़ोटो के लिए अंतिम बैच संपादक, एडिट @ स्केल के साथ अपने ई-कॉमर्स व्यवसाय को बदलें। सुंदर, अद्वितीय पृष्ठभूमि के साथ एक साथ कई छवियों को सहजता से बढ़ाकर समय और प्रयास बचाएं।. | :white_check_mark: |
 | [ExtendImage](https://www.thataicollection.com/redirect/extendimage?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक्सटेंडिमेजाई - जनरेटिव एआई के साथ अपनी छवियों का विस्तार करें. | एक्सटेंडइमेजएआई एक ऐसा उपकरण है जो आपको अपनी छवियों को जेनेरेटिव एआई के साथ विस्तारित करने की अनुमति देता है।. | :grey_question: |
+| [FaceVary](https://www.thataicollection.com/redirect/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मुफ़्त ऑनलाइन फ़ेस चेंजर जिसकी मदद से तुम सिर बदल सकते हो और फ़ोटो में चेहरे बदल सकते हो।. | FaceVary एक क्रांतिकारी नया प्रॉडक्ट है जिससे तुम बस कुछ टैप में फ़ोटो में चेहरों की अदला-बदली कर सकते हो। इसका इस्तेमाल करना आसान है, और इसमें कोई वॉटरमार्क या विज्ञापन नहीं हैं। FaceVary के ज़रिए, तुम अपने दोस्तों, मशहूर हस्तियों, या यहाँ तक कि ऐतिहासिक हस्तियों के साथ अपना चेहरा बदल सकते हो। तुम मज़ेदार वीडियो, मीम और कोलाज बना सकते हो या अपनी उपस्थिति के साथ कुछ मज़ेदार प्रयोग कर सकते हो।. | :white_check_mark: |
 | [FinalTouch](https://www.thataicollection.com/redirect/finaltouch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पेशेवर फ़ोटोग्राफ़ी और डिज़ाइन की शक्ति आपकी उंगलियों पर. | फ़ाइनलटच आपको एक साधारण उत्पाद फ़ोटो से एक पल में एक मनोरम दृश्य में ले जाता है। स्टूडियो-गुणवत्ता वाली छवियों से ग्राहकों को लुभाने के लिए आपको एक विशेषज्ञ डिजाइनर होने की आवश्यकता नहीं है। अपनी डिजिटल उपस्थिति और मार्केटिंग अभियानों में नई जान फूंकने के लिए अपनी पसंद की किसी भी सेटिंग में एक ही उत्पाद की कई छवियां बनाएं।. | :white_check_mark: |
 | [Hama](https://www.thataicollection.com/redirect/hama?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हामा. | अद्भुत फोटो इरेज़र. | :grey_question: |
 | [HitPaw Online Photo Enhancer](https://www.thataicollection.com/redirect/hitpaw-online-photo-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | छवियों को धुंधला करें और कम गुणवत्ता वाली तस्वीरों को अलविदा कहें।. | HitPaw ऑनलाइन एआई फोटो एन्हांसर शोर को दूर करने, विवरण को तेज करने और फोटो की गुणवत्ता में सुधार करने के लिए उन्नत एआई तकनीक का उपयोग करता है. | :white_check_mark: |

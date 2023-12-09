@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=963" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=964" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -59,6 +59,19 @@
     <h4>Раздевание с искусственным интеллектом - БЕСПЛАТНОЕ раздевание фотографий обнаженной натуры с помощью искусственного интеллекта</h4>
     <p>Лучшая НОВАЯ БЕСПЛАТНАЯ технология раздевания с искусственным интеллектом! Раздевание на базе искусственного интеллекта для фотографий! Мгновенно меняйте внешний вид. Обнаженные фотографии в один клик. Множество стилей и возможность сделать это в кратчайшие сроки</p>
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с undressing.io</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    </a>
+    <h4>undress.vip—2023 лучшее 100% рабочее раздевание в обнаженном виде </h4>
+    <p>Undress.vip, новаторский инструмент для искусственного интеллекта, лежащий в авангарде этого прогресса. undress.vip—2023 лучшие телеграмы раздевают искусственные боты с искусственным интеллектом на 100% работающим искусственным интеллектом в стиле deepnude и deepfake</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Undress.Vip</b></a>
     <br />
 </div>
 
@@ -139,6 +152,22 @@
 - 🛒 [Электронная Торговля](#электронная-торговля)
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
+
+### FaceVary
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-facevary.webp" alt="FaceVary">
+
+#### Бесплатная онлайн-программа для смены лица, которая позволяет менять головы и заменять лица на фотографиях.
+[Visit](https://www.thataicollection.com/redirect/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+FaceVary — это революционный новый продукт, который позволяет менять лица на фотографиях всего несколькими нажатиями. Он прост в использовании, в нем нет водяных знаков или рекламы.
+С FaceVary вы можете поменяться лицом со своими друзьями, знаменитостями или даже историческими личностями. Вы можете создавать забавные видеоролики, мемы и коллажи или просто весело проводить время, экспериментируя со своей внешностью.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Vidnoz AI HEADSHOT GENERATOR
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
@@ -235,22 +264,6 @@ Orchard: помощник по искусственному интеллекту
 Погрузитесь в мир многочисленных девушек с искусственным интеллектом и начните играть прямо сейчас!
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AIPoemGenerator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aipoemgenerator.webp" alt="AIPoemGenerator">
-
-#### Генератор стихотворений Al Poem может быстро создавать для вас стихи в различных стилях за считанные секунды.
-[Visit](https://www.thataicollection.com/redirect/aipoemgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Al Poem Generator — это инструмент, предназначенный как для любителей поэзии, так и для творческих людей. Просто введите ключевые слова и выберите желаемый стиль стихотворения, и наш генератор быстро создаст уникальное стихотворение в соответствии с вашими предпочтениями. Этот инновационный инструмент сочетает искусство поэзии и технологию Al, делая создание стихотворений доступным и приятным для всех.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/aipoemgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

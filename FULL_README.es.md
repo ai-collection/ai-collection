@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=963" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=964" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -59,6 +59,19 @@
     <h4>Desvestirse con IA: desnuda fotos GRATIS con AI Undressing</h4>
     <p>¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez</p>
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con undressing.io</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    </a>
+    <h4>undress.vip—2023 mejor vestido 100% funcional ai deepnude </h4>
+    <p>Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Undress.Vip</b></a>
     <br />
 </div>
 
@@ -523,6 +536,7 @@ Ya sea sobrevivir en una isla desierta, navegar por el espacio en una nave espac
 | [Colorize](https://www.thataicollection.com/redirect/colorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Colorea una foto con el poder del aprendizaje profundo. | Colorear fotos en línea Colorize.cc: es un servicio de inteligencia artificial que colorea fotos y videos en blanco y negro. En unos pocos clics puede tocar la magia de las tecnologías de aprendizaje automático. Colorea cientos de tus fotos familiares en pocos minutos. | :x: |
 | [Edit @ Scale](https://www.thataicollection.com/redirect/edit-@-scale?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Editor de lotes AI para sus fotos de productos. | Transforme su negocio de comercio electrónico con Edit @ Scale, el editor por lotes definitivo para fotos de productos. Ahorre tiempo y esfuerzo al mejorar sin problemas varias imágenes a la vez con hermosos fondos únicos. | :white_check_mark: |
 | [ExtendImage](https://www.thataicollection.com/redirect/extendimage?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Extendimageai: amplíe sus imágenes con IA generativa. | ExtendImageAI es una herramienta que te permite ampliar tus imágenes con IA generativa. | :grey_question: |
+| [FaceVary](https://www.thataicollection.com/redirect/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cambiador de rostros en línea gratuito que te permite cambiar cabezas y reemplazar caras en las fotos. | FaceVary es un nuevo y revolucionario producto que permite intercambiar rostros en las fotos con solo unos toques. Es fácil de usar y no hay marcas de agua ni anuncios. Con FaceVary, puedes cambiar tu rostro por el de tus amigos, famosos o incluso personajes históricos. Puedes crear vídeos, memes y collages divertidos, o simplemente divertirte un poco experimentando con tu apariencia. | :white_check_mark: |
 | [FinalTouch](https://www.thataicollection.com/redirect/finaltouch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Fotografía profesional y poder de diseño al alcance de tu mano. | FinalTouch lo lleva de una simple foto de producto a una escena cautivadora, en un instante. No necesita ser un diseñador experto para sorprender a los clientes con imágenes con calidad de estudio. Cree múltiples imágenes del mismo producto en cualquier entorno que desee, para dar nueva vida a su presencia digital y campañas de marketing. | :white_check_mark: |
 | [Hama](https://www.thataicollection.com/redirect/hama?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | hama. | Impresionante borrador de fotos. | :grey_question: |
 | [HitPaw Online Photo Enhancer](https://www.thataicollection.com/redirect/hitpaw-online-photo-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Desenfoca las imágenes y di adiós a las fotos de baja calidad. | HitPaw Online AI Photo Enhancer utiliza tecnología avanzada de IA para eliminar el ruido, afinar los detalles y mejorar la calidad de las fotos. | :white_check_mark: |

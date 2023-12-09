@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=963" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=964" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -59,6 +59,19 @@
     <h4>AI Undressing-使用 AI Undressing 免费裸体照片</h4>
     <p>最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成</p>
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 undressing.io</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    </a>
+    <h4>undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude </h4>
+    <p>Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Undress.Vip</b></a>
     <br />
 </div>
 
@@ -752,6 +765,7 @@
 | [Colorize](https://www.thataicollection.com/redirect/colorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 利用深度学习的力量为照片着色. | 在线为照片着色 Colorize.cc - 是一种为黑白照片和视频着色的人工智能服务。只需点击几下，您就可以感受到机器学习技术的魔力。在几分钟内为数百张家庭照片着色。. | :x: |
 | [Edit @ Scale](https://www.thataicollection.com/redirect/edit-@-scale?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 产品照片的人工智能批量编辑器. | 使用 Edit @ Scale（产品照片的终极批量编辑器）转变您的电子商务业务。使用美丽、独特的背景同时无缝增强多个图像，从而节省时间和精力。. | :white_check_mark: |
 | [ExtendImage](https://www.thataicollection.com/redirect/extendimage?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ExtendImageAI - 使用生成式 AI 扩展您的图像. | ExtendImageAI 是一种工具，可让您使用生成式 AI 扩展图像。. | :grey_question: |
+| [FaceVary](https://www.thataicollection.com/redirect/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费的在线换脸器，可让您交换头部并替换照片中的面孔。. | FaceVary 是一款革命性的新产品，只需轻点几下即可交换照片中的面孔。它易于使用，并且没有水印或广告。 使用 FaceVary，你可以与朋友、名人甚至历史人物交换脸。你可以制作有趣的视频、模因和拼贴画，或者只是尝试一下自己的外表。. | :white_check_mark: |
 | [FinalTouch](https://www.thataicollection.com/redirect/finaltouch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 专业摄影和设计力量触手可及. | FinalTouch 瞬间将您从普通的产品照片转变为迷人的场景。您无需成为专业设计师即可通过工作室品质的图像让客户惊叹不已。在您喜欢的任何环境中创建同一产品的多个图像，为您的数字形象和营销活动注入新的活力。. | :white_check_mark: |
 | [Hama](https://www.thataicollection.com/redirect/hama?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 哈马. | 惊人的照片橡皮擦. | :grey_question: |
 | [HitPaw Online Photo Enhancer](https://www.thataicollection.com/redirect/hitpaw-online-photo-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 取消模糊图像并告别低质量照片。. | HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化细节并提高照片质量. | :white_check_mark: |
