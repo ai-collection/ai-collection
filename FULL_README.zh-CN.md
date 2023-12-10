@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=964" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=968" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -371,6 +371,7 @@
 | [Instascribe](https://www.thataicollection.com/redirect/instascribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instascribe 是一款人工智能应用程序，可为您的 Instagram 照片创建个性化字幕. | 只需选择一张图片，从一系列字幕样式中挑选或定义您自己的样式，然后调整语调、语言和消息长度等选项。然后，该应用程序的 AI 会生成适合您的图像和偏好的独特说明，从而简化您的社交媒体发布过程。. | :grey_question: |
 | [LeadCopy](https://www.thataicollection.com/redirect/leadcopy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在谷歌文档中使用 ChatGPT 和 GPT4。在几分钟内创建专业、高保密度的营销文案、网络研讨会、播客等. | ⚡ LeadCopy 是一款谷歌文档™ 插件，它可以利用 “GPT-4” 和 “ChatGPT” 的力量帮助任何人成为 “专家撰稿人”  在几分钟内创建专业、高保密度的营销文案、网络研讨会、播客等. | :grey_question: |
 | [Neuron Writer](https://www.thataicollection.com/redirect/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | NeuronWriter — 使用 #semanticSEO 进行内容优化. | 优化您的网站内容 所以谷歌很喜欢它。 高级内容编辑器，包含语义模型 (NLP)、谷歌 SERP 分析和竞争数据。 NeuronWriter 可帮助您规划、编写和优化内容，同时考虑用户意图！. | :grey_question: |
+| [Never Jobless LinkedIn Message Generator](https://www.thataicollection.com/redirect/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 永不失业 LinkedIn 消息生成器. | 利用人工智能驱动的 LinkedIn 消息最大限度地提高面试机会使用我们的 AI 工具提升您的职业前景，该工具旨在创建个性化、引人入胜的 LinkedIn 消息。通过分析吸引招聘经理的关键要素，我们的工具会根据你的目标职位和过去的项目量身定制信息，突出你的兴趣、经验和价值。. | :grey_question: |
 | [Nichess](https://www.thataicollection.com/redirect/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Nichesss——AI Writer——写任何东西的速度都快 10 倍。. | 准备好在几秒钟内开始生成内容了吗？Nichesss 已经为你准备好了。忘记作家封锁了。只需点击按钮即可获取博客文章、广告、社交媒体内容、诗歌、商业创意等。我们的机器人会为你写所有东西。. | :white_check_mark: |
 | [Parafrasear](https://www.thataicollection.com/redirect/parafrasear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 释义文本-最佳在线释义（100% 免费）. | 释义文本免费在线释义工具。我们的 Paraphrase.ai 释义工具可帮助您解读抄袭的内容。. | :white_check_mark: |
 | [Paragraph AI](https://www.thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ParagraphAI • 最佳人工智能写作应用程序 • 免费人工智能写作助手工具. | . | :white_check_mark: |

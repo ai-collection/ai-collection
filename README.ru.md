@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=964" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=968" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -153,6 +153,22 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### Never Jobless LinkedIn Message Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-never-jobless-linkedin-message-generator.webp" alt="Never Jobless LinkedIn Message Generator">
+
+#### Генератор сообщений LinkedIn «Никогда не оставляйте работу
+
+[Visit](https://www.thataicollection.com/redirect/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Увеличьте шансы на собеседование с помощью сообщений LinkedIn на базе искусственного интеллекта Повысьте свои карьерные перспективы с помощью нашего инструмента искусственного интеллекта, предназначенного для создания персонализированных и увлекательных сообщений LinkedIn. Анализируя ключевые элементы, которые нравятся менеджерам по найму, наш инструмент создает сообщения, отражающие ваши интересы, опыт и ценности, с учетом вашей целевой должности и прошлых проектов. 
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### FaceVary
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-facevary.webp" alt="FaceVary">
 
@@ -245,25 +261,6 @@ Orchard: помощник по искусственному интеллекту
 
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Girlfriend WTF
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
-
-#### Погрузитесь в жаркие приключения вместе с подружками с искусственным интеллектом!
-[Visit](https://www.thataicollection.com/redirect/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Испытайте захватывающие приключения и живите другой жизнью с девушками с искусственным интеллектом! 
-
-Выживать на необитаемом острове, путешествовать по космосу на космическом корабле или просто наслаждаться непринужденной беседой со своей девушкой-кошкой — каждый найдет что-то для себя. 
-
-Погрузитесь в мир многочисленных девушек с искусственным интеллектом и начните играть прямо сейчас!
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1823,6 +1820,21 @@ SwagAI — изображения, созданные искусственным
 
 
 
+### Undress.Vip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+
+#### undress.vip—2023 лучшее 100% рабочее раздевание в обнаженном виде 
+[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress.vip, новаторский инструмент для искусственного интеллекта, лежащий в авангарде этого прогресса. undress.vip—2023 лучшие телеграмы раздевают искусственные боты с искусственным интеллектом на 100% работающим искусственным интеллектом в стиле deepnude и deepfake
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI Girlfriend WTF
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
 
@@ -1851,21 +1863,6 @@ SwagAI — изображения, созданные искусственным
 Добро пожаловать в AI-Girlfriend.ai, где мы переосмысливаем искусство секстинга с помощью нашего опыта работы с девушками с искусственным интеллектом. Погрузитесь в мир цифровой интимной близости с помощью игривого симулятора секстинга с искусственным интеллектом, который поможет вам улучшить ваши навыки и обогатить интерактивный опыт.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
-
-#### undress.vip—2023 лучшее 100% рабочее раздевание в обнаженном виде 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress.vip, новаторский инструмент для искусственного интеллекта, лежащий в авангарде этого прогресса. undress.vip—2023 лучшие телеграмы раздевают искусственные боты с искусственным интеллектом на 100% работающим искусственным интеллектом в стиле deepnude и deepfake
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4889,15 +4886,16 @@ Rytr — это помощник по написанию текстов с ис�
 
 
 
-### yaara.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-yaara.ai.webp" alt="yaara.ai">
+### Never Jobless LinkedIn Message Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-never-jobless-linkedin-message-generator.webp" alt="Never Jobless LinkedIn Message Generator">
 
-#### Yaara — помощник по письму на базе искусственного интеллекта. Наконец-то наступило будущее писательства.
-[Visit](https://www.thataicollection.com/redirect/yaara.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Генератор сообщений LinkedIn «Никогда не оставляйте работу
 
-Yaara.ai — это инструмент для создания контента на базе искусственного интеллекта, который помогает компаниям создавать контент в 3 раза быстрее. С помощью Yaara вы можете создавать высококачественный и интересный контент за считанные минуты. Используйте искусственный интеллект для написания проверенных текстов с высокой конверсией, что повысит конверсию и окупаемость инвестиций. Мгновенно создавайте первоклассные тексты для рекламы, электронных писем, веб-сайтов, списков, блогов, историй и многого другого.
+[Visit](https://www.thataicollection.com/redirect/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/yaara.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Увеличьте шансы на собеседование с помощью сообщений LinkedIn на базе искусственного интеллекта Повысьте свои карьерные перспективы с помощью нашего инструмента искусственного интеллекта, предназначенного для создания персонализированных и увлекательных сообщений LinkedIn. Анализируя ключевые элементы, которые нравятся менеджерам по найму, наш инструмент создает сообщения, отражающие ваши интересы, опыт и ценности, с учетом вашей целевой должности и прошлых проектов. 
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=964" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=968" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -153,6 +153,22 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### Never Jobless LinkedIn Message Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-never-jobless-linkedin-message-generator.webp" alt="Never Jobless LinkedIn Message Generator">
+
+#### Generador de mensajes de LinkedIn nunca sin trabajo
+
+[Visit](https://www.thataicollection.com/redirect/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Maximice sus posibilidades de entrevista con la mensajería de LinkedIn basada en la IA Aumente sus perspectivas profesionales con nuestra herramienta de inteligencia artificial, diseñada para crear mensajes de LinkedIn personalizados y atractivos. Al analizar los elementos clave que atraen a los gerentes de contratación, nuestra herramienta elabora mensajes en los que destacan tu interés, experiencia y valor, y se adaptan a tu puesto objetivo y a tus proyectos anteriores. 
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### FaceVary
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-facevary.webp" alt="FaceVary">
 
@@ -245,25 +261,6 @@ Un asistente de redacción con IA que te ayuda a hacer una lluvia de ideas y com
 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Girlfriend WTF
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
-
-#### ¡Sumérgete en grandes aventuras con AI Girlfriends!
-[Visit](https://www.thataicollection.com/redirect/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¡Vive emocionantes aventuras y vive vidas diferentes con chicas de IA! 
-
-Ya sea sobrevivir en una isla desierta, navegar por el espacio en una nave espacial o simplemente disfrutar de charlas informales con tu propia gata, hay algo para todos los gustos. 
-
-¡Sumérgete en el mundo de numerosas chicas de la IA y empieza a jugar ahora!
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4888,17 +4885,16 @@ Herramienta de paráfrasis con 15 modos GRATUITOS para más de 100 idiomas: refo
 
 
 
-### yaara.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-yaara.ai.webp" alt="yaara.ai">
+### Never Jobless LinkedIn Message Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-never-jobless-linkedin-message-generator.webp" alt="Never Jobless LinkedIn Message Generator">
 
-#### Yaara: asistente de escritura con inteligencia artificial. El futuro de la escritura por fin está aquí.
-[Visit](https://www.thataicollection.com/redirect/yaara.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Generador de mensajes de LinkedIn nunca sin trabajo
 
-Yaara.ai es una herramienta de generación de contenido basada en la IA que ayuda a las empresas a crear contenido 3 veces más rápido. Con Yaara, puedes crear contenido atractivo y de alta calidad en cuestión de minutos. Utiliza la IA para escribir textos comprobados y de alta conversión para aumentar las conversiones y aumentar el ROI. Genera al instante textos de primera categoría para anuncios, correos electrónicos, sitios web, anuncios, blogs, historias y más...
+[Visit](https://www.thataicollection.com/redirect/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+Maximice sus posibilidades de entrevista con la mensajería de LinkedIn basada en la IA Aumente sus perspectivas profesionales con nuestra herramienta de inteligencia artificial, diseñada para crear mensajes de LinkedIn personalizados y atractivos. Al analizar los elementos clave que atraen a los gerentes de contratación, nuestra herramienta elabora mensajes en los que destacan tu interés, experiencia y valor, y se adaptan a tu puesto objetivo y a tus proyectos anteriores. 
 
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/yaara.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

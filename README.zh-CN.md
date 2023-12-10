@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=964" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=968" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -153,6 +153,22 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### Never Jobless LinkedIn Message Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-never-jobless-linkedin-message-generator.webp" alt="Never Jobless LinkedIn Message Generator">
+
+#### 永不失业 LinkedIn 消息生成器
+
+[Visit](https://www.thataicollection.com/redirect/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+利用人工智能驱动的 LinkedIn 消息最大限度地提高面试机会使用我们的 AI 工具提升您的职业前景，该工具旨在创建个性化、引人入胜的 LinkedIn 消息。通过分析吸引招聘经理的关键要素，我们的工具会根据你的目标职位和过去的项目量身定制信息，突出你的兴趣、经验和价值。 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### FaceVary
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-facevary.webp" alt="FaceVary">
 
@@ -245,25 +261,6 @@ Vidnoz AI Headshot Generator 是一款在线人工智能头像生成器，是一
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AI Girlfriend WTF
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
-
-#### 与 AI 女友一起潜入热门冒险之旅！
-[Visit](https://www.thataicollection.com/redirect/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-与AI女孩一起体验惊险刺激的冒险并过上不同的生活！ 
-
-无论是在荒岛上生存，乘坐太空飞船在太空中航行，还是只是与自己的猫咪女郎随意聊天，每个人都能找到适合自己的东西。 
-
-潜入众多 AI 女孩的世界，立即开始玩吧！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1823,6 +1820,21 @@ SwaGai-人工智能在T恤上生成了图像。
 <br />
 
 
+### Undress.Vip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+
+#### undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude 
+[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### AI Girlfriend WTF
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
 
@@ -1851,21 +1863,6 @@ SwaGai-人工智能在T恤上生成了图像。
 欢迎来到 AI-Girlfriend.ai，在这里，我们通过人工智能驱动的女友体验重新定义了色情艺术。通过有趣的、无需承诺的 AI 色情短信模拟，潜入数字亲密世界，该模拟专为提高您的技能和丰富您的互动体验而量身定制。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
-
-#### undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4889,17 +4886,16 @@ Rytr是一款人工智能写作助手，可以帮助你在短短几秒钟内创�
 <br />
 
 
-### yaara.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-yaara.ai.webp" alt="yaara.ai">
+### Never Jobless LinkedIn Message Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-never-jobless-linkedin-message-generator.webp" alt="Never Jobless LinkedIn Message Generator">
 
-#### Yaara —人工智能驱动的写作助手。写作的未来终于来了。
-[Visit](https://www.thataicollection.com/redirect/yaara.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 永不失业 LinkedIn 消息生成器
 
-Yaara.ai 是一款由 AI 驱动的内容生成工具，可帮助企业将内容创建速度提高 3 倍。使用Yaara，您可以在几分钟内创建高质量、引人入胜的内容。使用 AI 编写久经考验的高转化率副本，以提高转化率和更高的投资回报率。立即为广告、电子邮件、网站、列表、博客、故事等生成一流的文案...
+[Visit](https://www.thataicollection.com/redirect/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+利用人工智能驱动的 LinkedIn 消息最大限度地提高面试机会使用我们的 AI 工具提升您的职业前景，该工具旨在创建个性化、引人入胜的 LinkedIn 消息。通过分析吸引招聘经理的关键要素，我们的工具会根据你的目标职位和过去的项目量身定制信息，突出你的兴趣、经验和价值。 
 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/yaara.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
