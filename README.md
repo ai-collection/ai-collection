@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=964" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=968" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -159,6 +159,22 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### Never Jobless LinkedIn Message Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-never-jobless-linkedin-message-generator.webp" alt="Never Jobless LinkedIn Message Generator">
+
+#### Never Jobless LinkedIn Message Generator
+
+[Visit](https://www.thataicollection.com/redirect/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Maximize Your Interview Chances with AI-Powered LinkedIn Messaging Elevate your career prospects with our AI tool, designed to create personalized, engaging LinkedIn messages. By analyzing key elements that appeal to hiring managers, our tool crafts messages highlighting your interest, experience, and value, tailored to your target job title and past projects. 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### FaceVary
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-facevary.webp" alt="FaceVary">
 
@@ -251,25 +267,6 @@ An AI writing assistant that helps you brainstorm and complete your blog, advert
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Girlfriend WTF
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
-
-#### Dive into hot adventures with AI Girlfriends!
-[Visit](https://www.thataicollection.com/redirect/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Experience thrilling adventures and live different lives with AI girls! 
-
-Whether surviving on a deserted island, navigating through space in a spaceship, or simply enjoying casual chats with your very own cat girl, there's something for everyone. 
-
-Dive into the world of numerous AI girls and start playing now!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1829,6 +1826,21 @@ Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instan
 
 
 
+### Undress.Vip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+
+#### undress.vip–2023 best 100% Working undress ai deepnude 
+[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI Girlfriend WTF
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
 
@@ -1857,21 +1869,6 @@ Dive into the world of numerous AI girls and start playing now!
 Welcome to AI-Girlfriend.ai,where we redefine the art of sexting through our AI-powered girlfriend experience. Dive into the world of digital intimacy with a playful, commitment-free AI sexting simulation, tailored to enhance your skills and enrich your interactive experiences.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
-
-#### undress.vip–2023 best 100% Working undress ai deepnude 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4895,17 +4892,16 @@ Paraphrase Tool with 15 FREE Modes for 100+ Languages - Rephrases Sentences, Rew
 
 
 
-### yaara.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-yaara.ai.webp" alt="yaara.ai">
+### Never Jobless LinkedIn Message Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-never-jobless-linkedin-message-generator.webp" alt="Never Jobless LinkedIn Message Generator">
 
-#### Yaara — AI-Powered Writing Assistant. The Future Of Writing Is Finally Here.
-[Visit](https://www.thataicollection.com/redirect/yaara.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Never Jobless LinkedIn Message Generator
 
-Yaara.ai is an AI-powered content generation tool that helps businesses create content 3X faster. With Yaara, you can create high-quality, engaging content in minutes. Use AI to write proven, high-converting copy for increased conversions and higher ROI. Instantly generate top-notch copy for ads, emails, websites, listings, blogs, stories, and more...
+[Visit](https://www.thataicollection.com/redirect/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+Maximize Your Interview Chances with AI-Powered LinkedIn Messaging Elevate your career prospects with our AI tool, designed to create personalized, engaging LinkedIn messages. By analyzing key elements that appeal to hiring managers, our tool crafts messages highlighting your interest, experience, and value, tailored to your target job title and past projects. 
 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/yaara.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
