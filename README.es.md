@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=968" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=969" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -153,6 +153,36 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### StockPhotoAI.net
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stockphotoai.net.webp" alt="StockPhotoAI.net">
+
+#### Usa la IA para generar fotos de archivo para presentaciones de diapositivas, sitios web o medios impresos.
+[Visit](https://www.thataicollection.com/redirect/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Todas las fotos creadas para que pareciera que las habían hecho con cámaras y actores profesionales. Usamos datos de entrenamiento personalizados y los últimos modelos de Dall-E para producir estas fotos de archivo. Los usuarios pueden elegir entre la orientación cuadrada, horizontal y vertical y el estilo de la foto.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### OneDateIdea
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-onedateidea.webp" alt="OneDateIdea">
+
+#### ¡Consigue una idea para una cita! OneDateIdea.com actúa como fuente de inspiración, ya que garantiza que tu cita no sea una excursión aburrida o típica.
+[Visit](https://www.thataicollection.com/redirect/onedateidea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+OneDateIdea es la solución definitiva para cualquiera que se esté enfrentando a la abrumadora tarea de planificar una cita. Si te falta inspiración o te abruma la multitud de opciones que existen, este servicio te salvará el día.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/onedateidea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Never Jobless LinkedIn Message Generator
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-never-jobless-linkedin-message-generator.webp" alt="Never Jobless LinkedIn Message Generator">
 
@@ -229,38 +259,6 @@ Transforma tu empresa con la IA
 Crea IA, experimenta, despliega: se aprueban los comentarios de los usuarios. ¡Incrusta el flujo de trabajo de IA generativa en tu empresa sin código!
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nichess
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nichess.webp" alt="Nichess">
-
-#### Nichesss, escritor de IA, escribe cualquier cosa 10 veces más rápido.
-[Visit](https://www.thataicollection.com/redirect/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¿Estás listo para empezar a generar contenido en cuestión de segundos? Nichesss lo tiene cubierto. Olvídate del bloqueo de escritores. Obtén publicaciones de blog, anuncios, contenido para redes sociales, poemas, ideas de negocio y mucho más con solo hacer clic en un botón. Nuestros bots lo escribirán todo por ti.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Friday AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-friday-ai_.webp" alt="Friday AI">
-
-#### Heyfriday, el mejor escritor de IA, menos escritura, más inspiración, ultra escritura con Friday
-[Visit](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Un asistente de redacción con IA que te ayuda a hacer una lluvia de ideas y completar tu blog, anuncio o historia creativa rápidamente, lo que te permite ahorrar tiempo y dinero. ¡Empieza tu prueba gratuita hoy mismo!
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
