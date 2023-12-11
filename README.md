@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=968" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=969" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -159,6 +159,36 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### StockPhotoAI.net
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stockphotoai.net.webp" alt="StockPhotoAI.net">
+
+#### Use AI to generate stock photos for slideshows, websites or print media.
+[Visit](https://www.thataicollection.com/redirect/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Every photo created to look like it was done with professional cameras and professional actors. We use custom training inputs and latest Dall-E models to produce these stock photos. Users can choose between square, landscape and portrait orientation and style of photo.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### OneDateIdea
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-onedateidea.webp" alt="OneDateIdea">
+
+#### Get One Date Idea! Onedateidea.com acts as a wellspring of inspiration, ensuring that your date won't be a boring or typical outing.
+[Visit](https://www.thataicollection.com/redirect/onedateidea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+OneDateIdea is the ultimate solution for anyone grappling with the daunting task of planning a date. If you're stuck for inspiration or overwhelmed by the multitude of options out there, this service swoops in to save the day.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/onedateidea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Never Jobless LinkedIn Message Generator
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-never-jobless-linkedin-message-generator.webp" alt="Never Jobless LinkedIn Message Generator">
 
@@ -239,38 +269,6 @@ Build AI, Experiment, Deploy - User Feedback Approved. Embed Generative AI Workf
 <br />
 
 <br />
-
-
-### Nichess
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nichess.webp" alt="Nichess">
-
-#### Nichesss - AI Writer - Write anything 10x faster.
-[Visit](https://www.thataicollection.com/redirect/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ready to start generating content in seconds? Nichesss has got you covered. Forget writers block. Get blog posts, ads, social media content, poems, business ideas and more by just clicking a button. Our bots will write everything for you.
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Friday AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-friday-ai_.webp" alt="Friday AI">
-
-#### Heyfriday - Ultimate AI Writer - Less Writing, More Inspiration Ultra Writing With Friday
-[Visit](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-An AI writing assistant that helps you brainstorm and complete your blog, advertisement, or creative story quickly, saving you time and money. Start your free trial today!
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ## Accounting & Finance

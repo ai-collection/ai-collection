@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=968" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=969" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -153,6 +153,36 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### StockPhotoAI.net
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stockphotoai.net.webp" alt="StockPhotoAI.net">
+
+#### 使用 AI 为幻灯片、网站或印刷媒体生成素材照片。
+[Visit](https://www.thataicollection.com/redirect/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+每张照片都是用专业相机和专业演员拍摄的。我们使用自定义训练输入和最新的 Dall-E 模型来制作这些库存照片。用户可以在正方形、横向和人像方向和照片风格之间进行选择。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### OneDateIdea
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-onedateidea.webp" alt="OneDateIdea">
+
+#### 获取一次约会的想法!OnedateIdea.com是灵感的源泉，可确保您的约会不会是一次无聊或典型的郊游。
+[Visit](https://www.thataicollection.com/redirect/onedateidea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+OneDateIdea是任何努力完成计划约会这一艰巨任务的人的终极解决方案.如果你想获得灵感，或者对众多的选择感到不知所措，那么这项服务可以帮助你挽救局面。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/onedateidea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Never Jobless LinkedIn Message Generator
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-never-jobless-linkedin-message-generator.webp" alt="Never Jobless LinkedIn Message Generator">
 
@@ -229,38 +259,6 @@ Vidnoz AI Headshot Generator 是一款在线人工智能头像生成器，是一
 构建 AI、实验、部署-用户反馈已获批准。使用无代码将生成式 AI 工作流程嵌入到您的业务中！
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Nichess
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nichess.webp" alt="Nichess">
-
-#### Nichesss——AI Writer——写任何东西的速度都快 10 倍。
-[Visit](https://www.thataicollection.com/redirect/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-准备好在几秒钟内开始生成内容了吗？Nichesss 已经为你准备好了。忘记作家封锁了。只需点击按钮即可获取博客文章、广告、社交媒体内容、诗歌、商业创意等。我们的机器人会为你写所有东西。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Friday AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-friday-ai_.webp" alt="Friday AI">
-
-#### Heyfriday——终极人工智能作家——周五少写作，更多灵感 Ultra Writing
-[Visit](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-一款人工智能写作助手，可帮助您集思广益，快速完成博客、广告或创意故事，为您节省时间和金钱。立即开始免费试用！
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

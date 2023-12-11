@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=968" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=969" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -153,6 +153,36 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### StockPhotoAI.net
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stockphotoai.net.webp" alt="StockPhotoAI.net">
+
+#### Используйте искусственный интеллект для создания стоковых фотографий для слайд-шоу, веб-сайтов или печатных изданий.
+[Visit](https://www.thataicollection.com/redirect/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Каждая фотография создана так, чтобы она выглядела так, как будто она была сделана профессиональными камерами и профессиональными актерами. Для создания этих стоковых фотографий мы используем специальные учебные материалы и новейшие модели Dall-E. Пользователи могут выбирать между квадратной, ландшафтной и портретной ориентацией и стилем фотографии.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### OneDateIdea
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-onedateidea.webp" alt="OneDateIdea">
+
+#### Получите идею для одного свидания! OnedateIdea.com — источник вдохновения, гарантирующий, что ваше свидание не будет скучным или типичным.
+[Visit](https://www.thataicollection.com/redirect/onedateidea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+OneDateIdea — идеальное решение для всех, кто сталкивается с непростой задачей планирования свидания. Если вас не хватает вдохновения или вы ошеломлены множеством вариантов, этот сервис поможет вам в этом.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/onedateidea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Never Jobless LinkedIn Message Generator
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-never-jobless-linkedin-message-generator.webp" alt="Never Jobless LinkedIn Message Generator">
 
@@ -229,38 +259,6 @@ Orchard: помощник по искусственному интеллекту
 Создавайте искусственный интеллект, экспериментируйте, внедряйте — отзывы пользователей одобрены. Внедряйте генеративный рабочий процесс искусственного интеллекта в свой бизнес без программирования!
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nichess
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nichess.webp" alt="Nichess">
-
-#### Nichesss — AI Writer — пишите что угодно в 10 раз быстрее.
-[Visit](https://www.thataicollection.com/redirect/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Готовы начать генерировать контент за считанные секунды? Nichesss поможет вам. Забудьте о писательском блоке. Получайте сообщения в блогах, рекламу, контент в социальных сетях, стихи, бизнес-идеи и многое другое, просто нажав кнопку. Наши боты напишут все за вас.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Friday AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-friday-ai_.webp" alt="Friday AI">
-
-#### Heyfriday — лучший писатель с искусственным интеллектом — меньше писателей, больше вдохновения — с пятницей
-[Visit](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Помощник по написанию текстов с искусственным интеллектом, который поможет вам быстро провести мозговой штурм и завершить свой блог, рекламу или творческую историю, экономя время и деньги. Оформите бесплатную пробную версию уже сегодня!
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

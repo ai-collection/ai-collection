@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=968" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=969" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -153,6 +153,36 @@
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
 
+### StockPhotoAI.net
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stockphotoai.net.webp" alt="StockPhotoAI.net">
+
+#### स्लाइडशो, वेबसाइट या प्रिंट मीडिया के लिए स्टॉक फ़ोटो जेनरेट करने के लिए AI का इस्तेमाल करें।
+[Visit](https://www.thataicollection.com/redirect/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ऐसा दिखने के लिए बनाई गई हर तस्वीर पेशेवर कैमरों और पेशेवर अभिनेताओं के साथ बनाई गई थी। हम इन स्टॉक फ़ोटो को बनाने के लिए कस्टम ट्रेनिंग इनपुट और नए Dall-E मॉडल का इस्तेमाल करते हैं। यूज़र स्क्वायर, लैंडस्केप और पोर्ट्रेट ओरिएंटेशन और फ़ोटो के स्टाइल के बीच चयन कर सकते हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### OneDateIdea
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-onedateidea.webp" alt="OneDateIdea">
+
+#### वन डेट आइडिया पाओ! OneDateIdea.com प्रेरणा स्रोत के रूप में काम करता है, यह पक्का करता है कि तुम्हारी डेट उबाऊ या सामान्य यात्रा न हो।
+[Visit](https://www.thataicollection.com/redirect/onedateidea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+OneDateIdea किसी डेट की योजना बनाने के चुनौतीपूर्ण काम से जूझ रहे किसी भी व्यक्ति के लिए सबसे अच्छा समाधान है। अगर तुम प्रेरणा के लिए अटक जाते हो या बहुत सारे विकल्पों से अभिभूत हो जाते हो, तो दिन बचाने के लिए यह सेवा आपके पास आ जाती है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/onedateidea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Never Jobless LinkedIn Message Generator
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-never-jobless-linkedin-message-generator.webp" alt="Never Jobless LinkedIn Message Generator">
 
@@ -229,38 +259,6 @@ AI के ज़रिए अपने कारोबार में बदल
 एआई बनाएं, एक्सपेरिमेंट करें, डिप्लॉय करें - यूज़र फ़ीडबैक स्वीकृत। बिना कोड के अपने बिज़नेस में जेनेरेटिव AI वर्कफ़्लो एम्बेड करें!
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nichess
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nichess.webp" alt="Nichess">
-
-#### निचेस - AI राइटर - 10 गुना तेज़ी से कुछ भी लिखें।
-[Visit](https://www.thataicollection.com/redirect/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-कुछ ही सेकंड में कॉन्टेंट जनरेट करना शुरू करने के लिए तैयार हैं? निचेस ने तुम्हेंं कवर कर लिया है। राइटर्स ब्लॉक को भूल जाइए। बस एक बटन क्लिक करके ब्लॉग पोस्ट, विज्ञापन, सोशल मीडिया कॉन्टेंट, कविताएं, बिज़नेस आइडिया और बहुत कुछ पाएं। हमारे बॉट तुम्हारे लिए सब कुछ लिखेंगे।
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Friday AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-friday-ai_.webp" alt="Friday AI">
-
-#### हेफ़्राइडे - अल्टीमेट एआई राइटर - कम लेखन, ज़्यादा प्रेरणा, शुक्रवार के साथ अल्ट्रा राइटिंग
-[Visit](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-एक AI लेखन सहायक जो विचार-मंथन करने और अपने ब्लॉग, विज्ञापन या रचनात्मक कहानी को तेज़ी से पूरा करने में तुम्हारी मदद करता है, जिससे तुम्हारा समय और पैसा बचता है। अपना मुफ़्त ट्रायल आज ही शुरू करें!
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
