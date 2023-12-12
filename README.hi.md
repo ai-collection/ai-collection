@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=969" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=972" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -153,6 +153,52 @@
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
 
+### AiApply
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
+
+#### AIApply: नौकरी चाहने वालों के लिए AI टूल, जो बेहतरीन एप्लीकेशन तैयार करते हैं
+[Visit](https://www.thataicollection.com/redirect/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AIApply AI टूल का एक डायनामिक सुइट है, जिसे नौकरी चाहने वालों को सशक्त बनाने के लिए डिज़ाइन किया गया है। यह नौकरी के लिए आवेदन प्रक्रिया को सरल बनाता है, रिज्यूमे की गुणवत्ता को बढ़ाता है, इंटरव्यू के लिए तैयारी करता है, और करियर के बेहतरीन अवसरों की पहचान करता है। AIApply नौकरी खोजने की रणनीतियों को वैयक्तिकृत करता है, जिससे यह सुनिश्चित होता है कि यूज़र प्रतिस्पर्धी बाज़ारों में अलग दिखें। AI की ताकत से अपने करियर की राह को गति देने वाले किसी भी व्यक्ति के लिए यह एक ज़रूरी टूल है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Nightcap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nightcap---make-sense-of-your-dreams..webp" alt="Nightcap">
+
+#### नाइटकैप गुरु - अपने सपनों का एहसास कराओ।
+[Visit](https://www.thataicollection.com/redirect/nightcap---make-sense-of-your-dreams.?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nightcap तुम्हारे सपनों की तुरन्त व्याख्या कर देता है, उन्हें सपनों की पत्रिका में सहेजता है, और तुम्हेंं अपने जीवन के बारे में समझने में मदद करता है।         
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/nightcap---make-sense-of-your-dreams.?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### RoboResposneAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-roboresposneai.webp" alt="RoboResposneAI">
+
+#### RoboResponseAI, एक अत्याधुनिक सक्रिय AI चैटबोट है, जिसे वेबसाइट पर आने वाले लोगों के साथ तुम्हारे इंटरैक्ट करने के तरीके को बदलने के लिए डिज़ाइन किया गया है।
+[Visit](https://www.thataicollection.com/redirect/roboresposneai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ यह नवोन्मेषी समाधान न केवल लीड कन्वर्ज़न बढ़ाकर, बल्कि तुम्हारी बिक्री टीम के प्रदर्शन को बढ़ाकर और ग्राहक सहायता प्रदान करके तुम्हारी ऑनलाइन उपस्थिति में क्रांति लाने की ओर अग्रसर है।
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/roboresposneai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### StockPhotoAI.net
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stockphotoai.net.webp" alt="StockPhotoAI.net">
 
@@ -209,56 +255,6 @@ FaceVary एक क्रांतिकारी नया प्रॉडक�
 FaceVary के ज़रिए, तुम अपने दोस्तों, मशहूर हस्तियों, या यहाँ तक कि ऐतिहासिक हस्तियों के साथ अपना चेहरा बदल सकते हो। तुम मज़ेदार वीडियो, मीम और कोलाज बना सकते हो या अपनी उपस्थिति के साथ कुछ मज़ेदार प्रयोग कर सकते हो।
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Vidnoz AI HEADSHOT GENERATOR
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
-
-#### आसानी से और आसानी से पेशेवर AI हेडशॉट बनाएं
-[Visit](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-विडनोज़ एआई हेडशॉट जेनरेटर एक ऑनलाइन एआई हेडशॉट जेनरेटर है, जो एक क्रांतिकारी टूल है
-महंगे फ़ोटोशूट के बिना तुम्हारी सेल्फी को हाई-क्वालिटी हेडशॉट में बदल देता है। सिर्फ़
-रोज़ाना कुछ फ़ोटो अपलोड करें और Vidnoz के AI एल्गोरिदम को अपना जादू चलाने दें, बिना किसी रुकावट के
-तुम्हारा चेहरा कई तरह के पेशेवर बैकड्रॉप और कपड़ों के विकल्पों पर है। 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Orchard
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-orchard.webp" alt="Orchard">
-
-#### ऑर्चर्ड: GPT टेक्स्ट एडिटर। दस्तावेज़ अपलोड करें, सवाल पूछें, अपने लेखन को बेहतर बनाएं।
-[Visit](https://www.thataicollection.com/redirect/orchard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ऑर्चर्ड: कॉन्टेक्स्ट अवेयर एआई असिस्टेंट। अपने चैट इंटरफ़ेस में वेब खोज, फ़ाइलों और दस्तावेज़ों के साथ सटीक उत्तर और जानकारी पाएँ
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/orchard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Riku
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-riku.webp" alt="Riku">
-
-#### Riku.Ai - AI मॉडल के लिए नो-कोड प्रॉम्प्ट और डेटासेट बनाएं
-[Visit](https://www.thataicollection.com/redirect/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI के ज़रिए अपने कारोबार में बदलाव करें
-एआई बनाएं, एक्सपेरिमेंट करें, डिप्लॉय करें - यूज़र फ़ीडबैक स्वीकृत। बिना कोड के अपने बिज़नेस में जेनेरेटिव AI वर्कफ़्लो एम्बेड करें!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -899,21 +895,6 @@ ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छ
 
 
 
-### Dante
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dante.webp" alt="Dante">
-
-#### आपके डेटा पर प्रशिक्षित कस्टम जीपीटी चैटबॉट्स
-[Visit](https://www.thataicollection.com/redirect/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-शून्य कोडिंग। मिनटों में अपनी वेबसाइट पर साझा करें। मिनटों में GPT-4 चैटबॉट बनाएं। एआई को प्रशिक्षित करें, अनुकूलित करें और अपनी वेबसाइट पर एम्बेड करें।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### ChatBotKit
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbotkit.webp" alt="ChatBotKit">
 
@@ -927,6 +908,21 @@ ChatBotKit आपको अपनी वेबसाइट, स्लैक, ड
 <br />
 
 
+
+
+### SiteGPT
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sitegpt.webp" alt="SiteGPT">
+
+#### हर वेबसाइट के लिए ChatGPT
+[Visit](https://www.thataicollection.com/redirect/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+आपकी वेबसाइट की सामग्री पर प्रशिक्षित व्यक्तिगत चैटबॉट के साथ अपने आगंतुकों के सवालों का तुरंत जवाब दें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
 
 
 
@@ -2209,6 +2205,21 @@ GetActyv का AI-आधारित पर्सनल ट्रेनर आ�
 
 ## मानव संसाधन और फिर से शुरू
 
+### AiApply
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
+
+#### AIApply: नौकरी चाहने वालों के लिए AI टूल, जो बेहतरीन एप्लीकेशन तैयार करते हैं
+[Visit](https://www.thataicollection.com/redirect/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AIApply AI टूल का एक डायनामिक सुइट है, जिसे नौकरी चाहने वालों को सशक्त बनाने के लिए डिज़ाइन किया गया है। यह नौकरी के लिए आवेदन प्रक्रिया को सरल बनाता है, रिज्यूमे की गुणवत्ता को बढ़ाता है, इंटरव्यू के लिए तैयारी करता है, और करियर के बेहतरीन अवसरों की पहचान करता है। AIApply नौकरी खोजने की रणनीतियों को वैयक्तिकृत करता है, जिससे यह सुनिश्चित होता है कि यूज़र प्रतिस्पर्धी बाज़ारों में अलग दिखें। AI की ताकत से अपने करियर की राह को गति देने वाले किसी भी व्यक्ति के लिए यह एक ज़रूरी टूल है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI Resume Editor
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-resume-editor.webp" alt="AI Resume Editor">
 
@@ -2294,21 +2305,6 @@ CoverQuick आसानी से कंटेंट बनाने और प�
 92% नौकरी चाहने वाले अपना ऑनलाइन आवेदन पूरा नहीं करते हैं। HireYaY के साथ, आप एक योग्य उम्मीदवार को फिर कभी नहीं चूकेंगे।
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/hireyay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### JD Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jd-generator.webp" alt="JD Generator">
-
-#### टीम से मिलें - किराया भागफल
-[Visit](https://www.thataicollection.com/redirect/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HireQuotients Skill Assessment Platform आपको आधे समय में प्रतिभा पूल के शीर्ष 10% को किराए पर लेने में मदद करता है।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=969" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=972" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -153,6 +153,52 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### AiApply
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
+
+#### AiApply：供求职者制作完美应用程序的人工智能工具
+[Visit](https://www.thataicollection.com/redirect/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AiApply 是一套动态的人工智能工具，旨在为求职者提供支持。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AiApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是必不可少的工具。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Nightcap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nightcap---make-sense-of-your-dreams..webp" alt="Nightcap">
+
+#### Nightcap Guru-让你的梦想有意义。
+[Visit](https://www.thataicollection.com/redirect/nightcap---make-sense-of-your-dreams.?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nightcap 可以立即解释你的梦想，将它们保存到梦想日记中，并帮助你理解自己的生活。         
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nightcap---make-sense-of-your-dreams.?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### RoboResposneAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-roboresposneai.webp" alt="RoboResposneAI">
+
+#### RoboResponseAI，一款前沿的主动人工智能聊天机器人，旨在改变您与网站访问者的互动方式。
+[Visit](https://www.thataicollection.com/redirect/roboresposneai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ 这种创新的解决方案不仅可以提高潜在客户转化率，还可以提升销售团队的绩效并提供无缝的客户支持，从而彻底改变您的在线形象。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/roboresposneai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### StockPhotoAI.net
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stockphotoai.net.webp" alt="StockPhotoAI.net">
 
@@ -209,56 +255,6 @@ FaceVary 是一款革命性的新产品，只需轻点几下即可交换照片�
 使用 FaceVary，你可以与朋友、名人甚至历史人物交换脸。你可以制作有趣的视频、模因和拼贴画，或者只是尝试一下自己的外表。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Vidnoz AI HEADSHOT GENERATOR
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
-
-#### 轻松轻松地创建专业的 AI 头像
-[Visit](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Vidnoz AI Headshot Generator 是一款在线人工智能头像生成器，是一款革命性的工具
-无需昂贵的照片拍摄，即可将您的自拍照转换为高质量的头像。只是
-每天上传几张照片，让 Vidnoz 的人工智能算法发挥魔力，无缝融合
-面对各种专业背景和服装选择。 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Orchard
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-orchard.webp" alt="Orchard">
-
-#### 果园：GPT 文本编辑器。上传文档，提问，增强写作能力。
-[Visit](https://www.thataicollection.com/redirect/orchard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-果园：情境感知人工智能助手。通过将网络搜索、文件和文档集成到聊天界面中，获得精确的答案和见解
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/orchard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Riku
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-riku.webp" alt="Riku">
-
-#### Riku.Ai-为 AI 模型构建无代码提示和数据集
-[Visit](https://www.thataicollection.com/redirect/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-利用 AI 实现业务转型
-构建 AI、实验、部署-用户反馈已获批准。使用无代码将生成式 AI 工作流程嵌入到您的业务中！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -899,21 +895,6 @@ ChatSimple是一个专门在短短5分钟内为中小型企业（SMB）创建以
 <br />
 
 
-### Dante
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dante.webp" alt="Dante">
-
-#### 根据您的数据训练的自定义 GPT 聊天机器人
-[Visit](https://www.thataicollection.com/redirect/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-零编码。在几分钟内在您的网站上分享。在几分钟内构建一个 GPT-4 聊天机器人。训练 AI、自定义并嵌入您的网站。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### ChatBotKit
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbotkit.webp" alt="ChatBotKit">
 
@@ -923,6 +904,21 @@ ChatSimple是一个专门在短短5分钟内为中小型企业（SMB）创建以
 ChatBotKit 可帮助您使用自己的数据创建对话式 AI 聊天机器人，以便与您网站、Slack、Discord 和 WhatsApp 上的用户自然交流。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chatbotkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### SiteGPT
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sitegpt.webp" alt="SiteGPT">
+
+#### 每个网站的 ChatGPT
+[Visit](https://www.thataicollection.com/redirect/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用根据您的网站内容训练的个性化聊天机器人即时回答访问者的问题。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2209,6 +2205,21 @@ GetActyv 基于人工智能的私人教练将彻底改变您的健身之旅
 
 ## 人力资源与简历
 
+### AiApply
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
+
+#### AiApply：供求职者制作完美应用程序的人工智能工具
+[Visit](https://www.thataicollection.com/redirect/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AiApply 是一套动态的人工智能工具，旨在为求职者提供支持。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AiApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是必不可少的工具。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### AI Resume Editor
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-resume-editor.webp" alt="AI Resume Editor">
 
@@ -2294,21 +2305,6 @@ CoverQuick是一个革命性的平台，可轻松创建和管理内容。从您�
 92% 的求职者没有完成在线申请。有了 HireYaY，您再也不会错过合格的候选人。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/hireyay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### JD Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jd-generator.webp" alt="JD Generator">
-
-#### 认识团队 - HireQuotient
-[Visit](https://www.thataicollection.com/redirect/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HireQuotient 的技能评估平台可帮助您以一半的时间雇用人才库中前 10% 的人才。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

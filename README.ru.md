@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=969" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=972" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -153,6 +153,52 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### AiApply
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
+
+#### AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения
+[Visit](https://www.thataicollection.com/redirect/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AiApply — это динамический набор инструментов искусственного интеллекта, предназначенных для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявки на работу, повышает качество резюме, подготовку к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, помогая пользователям выделяться на конкурентных рынках. Это незаменимый инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интеллекта.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Nightcap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nightcap---make-sense-of-your-dreams..webp" alt="Nightcap">
+
+#### Nightcap Guru - воплотите свои мечты в жизнь.
+[Visit](https://www.thataicollection.com/redirect/nightcap---make-sense-of-your-dreams.?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nightcap мгновенно интерпретирует ваши сны, сохраняет их в дневнике сновидений и помогает вам разобраться в вашей жизни.         
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/nightcap---make-sense-of-your-dreams.?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### RoboResposneAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-roboresposneai.webp" alt="RoboResposneAI">
+
+#### RoboResponseAI, передовой проактивный чат-бот с искусственным интеллектом, разработанный для изменения вашего взаимодействия с посетителями вашего сайта.
+[Visit](https://www.thataicollection.com/redirect/roboresposneai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ Это инновационное решение призвано революционизировать ваше присутствие в Интернете, не только повысив конверсию потенциальных клиентов, но и повысив эффективность работы отдела продаж и обеспечив бесперебойную поддержку клиентов.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/roboresposneai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### StockPhotoAI.net
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stockphotoai.net.webp" alt="StockPhotoAI.net">
 
@@ -209,56 +255,6 @@ FaceVary — это революционный новый продукт, кот
 С FaceVary вы можете поменяться лицом со своими друзьями, знаменитостями или даже историческими личностями. Вы можете создавать забавные видеоролики, мемы и коллажи или просто весело проводить время, экспериментируя со своей внешностью.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Vidnoz AI HEADSHOT GENERATOR
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
-
-#### Создавайте профессиональные хедшоты с искусственным интеллектом легко и без усилий
-[Visit](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Vidnoz AI Headshot Generator — это онлайн-генератор выстрелов в голову с искусственным интеллектом, революционный инструмент, который
-Превращает ваши селфи в высококачественные снимки головы без дорогостоящих фотосессий. Просто
-загружайте несколько ежедневных фотографий и позвольте алгоритмам искусственного интеллекта Vidnoz творить чудеса, легко смешиваясь
-ваше лицо на различных профессиональных фонах и вариантах одежды. 
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Orchard
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-orchard.webp" alt="Orchard">
-
-#### Orchard: текстовый редактор GPT. Загружайте документы, задавайте вопросы, улучшайте свой текст.
-[Visit](https://www.thataicollection.com/redirect/orchard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Orchard: помощник по искусственному интеллекту с учетом контекста. Получайте точные ответы и аналитические данные с помощью веб-поиска, файлов и документов, интегрированных в интерфейс чата
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/orchard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Riku
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-riku.webp" alt="Riku">
-
-#### Riku.Ai - создание подсказок и наборов данных без кода для моделей искусственного интеллекта
-[Visit](https://www.thataicollection.com/redirect/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Трансформируйте свой бизнес с помощью искусственного интеллекта
-Создавайте искусственный интеллект, экспериментируйте, внедряйте — отзывы пользователей одобрены. Внедряйте генеративный рабочий процесс искусственного интеллекта в свой бизнес без программирования!
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -899,21 +895,6 @@ ChatSimple — это платформа, которая специализир�
 
 
 
-### Dante
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dante.webp" alt="Dante">
-
-#### Пользовательские чат-боты GPT, обученные на ваших данных
-[Visit](https://www.thataicollection.com/redirect/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Нулевое кодирование. Поделитесь на своем сайте за считанные минуты. Создайте чат-бота GPT-4 за считанные минуты. Обучите ИИ, настройте и вставьте на свой сайт.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### ChatBotKit
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbotkit.webp" alt="ChatBotKit">
 
@@ -927,6 +908,21 @@ ChatBotKit помогает вам создавать диалоговых ча�
 <br />
 
 
+
+
+### SiteGPT
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sitegpt.webp" alt="SiteGPT">
+
+#### ChatGPT для каждого сайта
+[Visit](https://www.thataicollection.com/redirect/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Мгновенно отвечайте на вопросы посетителей с помощью персонализированного чат-бота, обученного содержанию вашего сайта.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
 
 
 
@@ -2209,6 +2205,21 @@ Gift Genie AI — это приложение на базе искусствен
 
 ## Человеческие ресурсы и резюме
 
+### AiApply
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
+
+#### AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения
+[Visit](https://www.thataicollection.com/redirect/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AiApply — это динамический набор инструментов искусственного интеллекта, предназначенных для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявки на работу, повышает качество резюме, подготовку к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, помогая пользователям выделяться на конкурентных рынках. Это незаменимый инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интеллекта.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI Resume Editor
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-resume-editor.webp" alt="AI Resume Editor">
 
@@ -2294,21 +2305,6 @@ CoverQuick — это революционная платформа для уд�
 92% соискателей не заполняют онлайн-заявку. С HireYaY вы больше никогда не упустите подходящего кандидата.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/hireyay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### JD Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jd-generator.webp" alt="JD Generator">
-
-#### Познакомьтесь с командой - HireQuotient
-[Visit](https://www.thataicollection.com/redirect/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Платформа оценки навыков HireQuotient поможет вам нанять лучшие 10% кадрового резерва в два раза быстрее.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
