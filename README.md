@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=969" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=972" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -159,6 +159,52 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### AiApply
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
+
+#### AIApply: AI tools for Jobseekers to craft the perfect application
+[Visit](https://www.thataicollection.com/redirect/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It's an essential tool for anyone looking to accelerate their career path with the power of AI.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Nightcap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nightcap---make-sense-of-your-dreams..webp" alt="Nightcap">
+
+#### Nightcap Guru - Make sense of your dreams.
+[Visit](https://www.thataicollection.com/redirect/nightcap---make-sense-of-your-dreams.?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nightcap instantly interprets your dreams, saves them in a dream journal, and helps you make sense of your life.         
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/nightcap---make-sense-of-your-dreams.?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### RoboResposneAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-roboresposneai.webp" alt="RoboResposneAI">
+
+#### RoboResponseAI, a cutting-edge proactive AI Chatbot designed to transform the way you interact with your website visitors.
+[Visit](https://www.thataicollection.com/redirect/roboresposneai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ This innovative solution is poised to revolutionize your online presence by not only enhancing lead conversion but also elevating your sales team's performance and delivering seamless customer support.
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/roboresposneai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### StockPhotoAI.net
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stockphotoai.net.webp" alt="StockPhotoAI.net">
 
@@ -219,56 +265,6 @@ With FaceVary, you can swap your face with your friends, celebrities, or even hi
 <br />
 
 
-
-
-### Vidnoz AI HEADSHOT GENERATOR
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
-
-#### Create Professional AI Headshots Easily and Effortlessly
-[Visit](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Vidnoz AI Headshot Generator is an online AI headshot generator, a revolutionary tool that
-transforms your selfies into high-quality headshots without expensive photo shoots. Simply
-upload a few daily photos and let Vidnoz's AI algorithms work their magic, seamlessly blending
-your face onto a variety of professional backdrops and clothing options. 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Orchard
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-orchard.webp" alt="Orchard">
-
-#### Orchard: GPT Text Editor. Upload documents, Ask questions, Enhance your writing.
-[Visit](https://www.thataicollection.com/redirect/orchard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Orchard: Context Aware AI Assistant. Get precise answers and insights with web search, files, and documents integrated into your chat interface
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/orchard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Riku
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-riku.webp" alt="Riku">
-
-#### Riku.Ai - Build No-Code Prompts & Datasets for AI Models
-[Visit](https://www.thataicollection.com/redirect/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Transform Your Business with AI
-Build AI, Experiment, Deploy - User Feedback Approved. Embed Generative AI Workflow in Your Business with No-Code!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ## Accounting & Finance
@@ -905,21 +901,6 @@ Develop a personalized AI support chatbot by utilizing your unique content, supp
 
 
 
-### Dante
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dante.webp" alt="Dante">
-
-#### Custom GPT Chatbots Trained on Your Data
-[Visit](https://www.thataicollection.com/redirect/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Zero coding. Share on your website in minutes. Build a GPT-4 chatbot in minutes. Train the AI, customize, and embed on your website.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### ChatBotKit
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbotkit.webp" alt="ChatBotKit">
 
@@ -933,6 +914,21 @@ ChatBotKit helps you create conversational AI chatbots with your own data to com
 <br />
 
 
+
+
+### SiteGPT
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sitegpt.webp" alt="SiteGPT">
+
+#### ChatGPT for Every Website
+[Visit](https://www.thataicollection.com/redirect/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Instantly answer your visitors' questions with a personalized chatbot trained on your website content.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
 
 
 
@@ -2215,6 +2211,21 @@ Check Symptoms & Find Causes by AI - Answer quiz about your symptoms to find out
 
 ## Human Resources & Resume
 
+### AiApply
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
+
+#### AIApply: AI tools for Jobseekers to craft the perfect application
+[Visit](https://www.thataicollection.com/redirect/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It's an essential tool for anyone looking to accelerate their career path with the power of AI.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI Resume Editor
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-resume-editor.webp" alt="AI Resume Editor">
 
@@ -2300,21 +2311,6 @@ By uploading all of your documents and resources, our platform is able to learn 
 92% of job seekers do not finish their online application. With HireYaY, you will never miss a qualified candidate again.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/hireyay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### JD Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jd-generator.webp" alt="JD Generator">
-
-#### Meet the Team - Hirequotient
-[Visit](https://www.thataicollection.com/redirect/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HireQuotients Skill Assessment Platform helps you hire the top 10% of the talent pool in half the time.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

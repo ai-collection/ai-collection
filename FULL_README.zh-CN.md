@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=969" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=972" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -178,6 +178,7 @@
 |---|---|---|:---:|
 | [AI Cover Letter Generator](https://www.thataicollection.com/redirect/ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 求职信生成器. | 使用 AI 在几秒钟内创建求职信。借助由 GPT 提供支持的 AI，即时创建个性化且高度专业的求职信. | :white_check_mark: |
 | [AI Resume Editor](https://www.thataicollection.com/redirect/ai-resume-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 世界制作简历的方式。最智能的 GPT 驱动的简历生成器。. | Rezi 是唯一一个使用领先的 AI 来自动化创建可雇用简历的各个方面的简历平台——写作、编辑、格式化和优化。. | :white_check_mark: |
+| [AiApply](https://www.thataicollection.com/redirect/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AiApply：供求职者制作完美应用程序的人工智能工具. | AiApply 是一套动态的人工智能工具，旨在为求职者提供支持。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AiApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是必不可少的工具。. | :white_check_mark: |
 | [Cover Letter AI App](https://www.thataicollection.com/redirect/cover-letter-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 求职信人工智能. | . | :white_check_mark: |
 | [Coverquick](https://www.thataicollection.com/redirect/coverquick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 毫不费力地将您的想法转化为引人入胜的内容。. | CoverQuick是一个革命性的平台，可轻松创建和管理内容。从您的数据中学习的人工智能。 通过上传您的所有文档和资源，我们的平台能够从您的信息中学习，从而允许您创建个性化内容。. | :white_check_mark: |
 | [Hire Hoc](https://www.thataicollection.com/redirect/hire-hoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hire Hoc - 人工智能驱动的招聘工具. | 借助 AI 辅助招聘的力量改变您的组织。. | :grey_question: |
@@ -819,6 +820,7 @@
 | [Dewey](https://www.thataicollection.com/redirect/dewey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 与杜威一起做更多。从您的 AI 问责伙伴 Dewey 那里获取提醒并保持动力。. | 与友好的 AI 问责伙伴一起回到正轨。 Dewey 在这里帮助您保持井然有序和高效。有了短信提醒和目标追踪，就好像口袋里有了一个 AI 责任伙伴。. | :white_check_mark: |
 | [ELSA SPEECH ANALYZER](https://www.thataicollection.com/redirect/elsa-speech-analyzer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 一次提高您的英语水平。. | Speech Analyzer 是一款由 AI 驱动的会话英语流利度教练，它会聆听您的演讲并为您提供即时反馈。. | :white_check_mark: |
 | [Kinestex](https://www.thataicollection.com/redirect/kinestex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Kinestex-随时随地使用您的私人人工智能教练进行锻炼. | 体验 AI 的力量，增强您的锻炼效果。KinestEx 会跟踪您的运动并提供实时反馈，以确保您从健身计划中获得最大收益。Kinestex 可根据您的特定需求量身定制锻炼方案。无论您是想减肥、锻炼肌肉还是改善整体健康状况，KinestEx 都能满足您的需求。. | :grey_question: |
+| [Nightcap](https://www.thataicollection.com/redirect/nightcap---make-sense-of-your-dreams.?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Nightcap Guru-让你的梦想有意义。. | Nightcap 可以立即解释你的梦想，将它们保存到梦想日记中，并帮助你理解自己的生活。. | :white_check_mark: |
 | [Podwise](https://www.thataicollection.com/redirect/podwise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Podwise，面向播客听众的首选 AI 学习应用程序。. | 使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。. | :white_check_mark: |
 | [Pth.AI](https://www.thataicollection.com/redirect/pth.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Beyond Chat - AI Co-Pilot 助您实现业务目标. | Pth.AI 是一种人工智能工具，可通过提问和创建步骤来引导非专业业务用户实现他们的目标，从而更轻松地与人工智能系统进行交互。. | :white_check_mark: |
 | [Sidekick](https://www.thataicollection.com/redirect/sidekick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 介绍 Jigso 的 Sidekick - AI Slackbot，充当您自己的业务个人助理。. | 直接从您的 Slack 即时免费访问 ChatGPT 4.0 并享受其他功能，例如在 Slack 中询问您的组织应用程序问题、跟踪重要主题、设置提醒、查询文档和总结对话. | :grey_question: |
@@ -1058,6 +1060,7 @@
 | [Orchard](https://www.thataicollection.com/redirect/orchard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 果园：GPT 文本编辑器。上传文档，提问，增强写作能力。. | 果园：情境感知人工智能助手。通过将网络搜索、文件和文档集成到聊天界面中，获得精确的答案和见解. | :white_check_mark: |
 | [PageLines](https://www.thataicollection.com/redirect/pagelines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 网站的 AI 代理. | ChapGPT 支持的代理和聊天机器人可改善您的网站和营销. | :white_check_mark: |
 | [Rewind](https://www.thataicollection.com/redirect/rewind?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 倒带-人工智能生成了你一整天的笔记。. | Rewind 是一款个性化的人工智能，由你所见、说过或听到的一切提供支持。你的同事会想知道你是怎么做的。. | :white_check_mark: |
+| [RoboResposneAI](https://www.thataicollection.com/redirect/roboresposneai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | RoboResponseAI，一款前沿的主动人工智能聊天机器人，旨在改变您与网站访问者的互动方式。. | 这种创新的解决方案不仅可以提高潜在客户转化率，还可以提升销售团队的绩效并提供无缝的客户支持，从而彻底改变您的在线形象。. | :white_check_mark: |
 | [SiteGPT](https://www.thataicollection.com/redirect/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 每个网站的 ChatGPT. | 使用根据您的网站内容训练的个性化聊天机器人即时回答访问者的问题。. | :white_check_mark: |
 | [SiteSpeakAI](https://www.thataicollection.com/redirect/sitespeakai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 ChatGPT 实现客户支持自动化。. | 使用你自己的内容、支持文档、PDF、API 或数据库创建经过自定义训练的 AI 支持聊天机器人。然后使用一行代码将其添加到您的网站中，以实时回答访客的问题并减少您的支持请求量。. | :white_check_mark: |
 | [Vee](https://www.thataicollection.com/redirect/vee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Vee-人们喜欢与之交谈的聪明顾问. | 你喜欢和你交谈的聪明顾问  -Vee已经与数百万人进行了交谈，有效地为来自不同行业的数十家公司实施了业务流程。. | :grey_question: |
@@ -1395,7 +1398,6 @@
 | [Neuralframes](https://www.thataicollection.com/redirect/neuralframes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 神经框架. | . | :grey_question: |
 | [Neuroflash](https://www.thataicollection.com/redirect/neuroflash?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 应用程序-神经闪光. | . | :grey_question: |
 | [NewsDeck from OneSub](https://www.thataicollection.com/redirect/newsdeck-from-onesub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | NewsDeck - 每天查找、过滤和分析数千篇文章。. | . | :grey_question: |
-| [Nightcap](https://www.thataicollection.com/redirect/nightcap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 睡帽大师. | . | :grey_question: |
 | [Notion AI](https://www.thataicollection.com/redirect/notion-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 概念——一个工作空间。每支球队。. | . | :grey_question: |
 | [NovelAI](https://www.thataicollection.com/redirect/novelai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | NovelAI - GPT 驱动的 AI 讲故事者. | . | :grey_question: |
 | [Oda Studio](https://www.thataicollection.com/redirect/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 尾田情绪板. | 选择你的风格和颜色，用人工智能在几秒钟内定制你的家. | :grey_question: |
