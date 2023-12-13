@@ -153,6 +153,58 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
 
+### Interior AI Designs
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai-designs.webp" alt="Interior AI Designs">
+
+#### Design d'intérieur basé sur l'IA : créer des pièces de rêve grâce à l'IA pour tous.
+[Visit](https://www.thataicollection.com/redirect/interior-ai-designs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Prends une photo de ta chambre et vois à quoi ressemble ta chambre selon différents thèmes. Rénove ta chambre aujourd'hui.
+Découvrez un monde de possibilités de design grâce à notre sélection de thèmes en vedette. Chaque thème a été soigneusement conçu pour transformer ton espace.
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/interior-ai-designs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Photo AI Studio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-ai-studio.webp" alt="Photo AI Studio">
+
+#### Photo AI Studio - Séances photos professionnelles avec UN SEUL SELFIE
+[Visit](https://www.thataicollection.com/redirect/photo-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Prends un selfie rapproché et génère instantanément des centaines d'images. Une seule photo est nécessaire.
+Nous avons le choix entre une grande variété de styles. Nous sommes sûrs que tu trouveras celle qui te convient le mieux. Aucune restriction, aucun forfait. Tu choisis ce que tu veux.
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/photo-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Perplexity AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-perplexity-ai_.webp" alt="Perplexity AI">
+
+#### Perplexity AI est un moteur de réponse qui fournit des réponses précises à des questions complexes à l'aide de grands modèles linguistiques.
+[Visit](https://www.thataicollection.com/redirect/perplexity-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Perplexity AI dévoile le pouvoir du savoir grâce à la découverte et au partage d'informations. Perplexity AI est alimentée par de grands modèles linguistiques et des moteurs de recherche. La précision est limitée par les résultats de recherche et les capacités de l'IA.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/perplexity-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AiApply
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
 
@@ -208,53 +260,6 @@ Nightcap interprète instantanément tes rêves, les enregistre dans un journal 
 Chaque photo créée pour y ressembler a été prise par des caméras et des acteurs professionnels. Nous utilisons des données de formation personnalisées et les derniers modèles Dall-E pour produire ces photos libres de droits. Les utilisateurs peuvent choisir entre l'orientation carrée, paysage et portrait et le style de la photo.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### OneDateIdea
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-onedateidea.webp" alt="OneDateIdea">
-
-#### Trouve une idée de rendez-vous ! OneDateIdea.com est une source d'inspiration et fait en sorte que ton rendez-vous ne soit pas une sortie ennuyeuse ou normale.
-[Visit](https://www.thataicollection.com/redirect/onedateidea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-OneDateIdea est la solution ultime pour tous ceux qui ont la lourde tâche de planifier un rendez-vous. Si tu es en panne d'inspiration ou si tu es bouleversée par la multitude d'options qui s'offrent à toi, ce service intervient pour te sauver la situation.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/onedateidea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Never Jobless LinkedIn Message Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-never-jobless-linkedin-message-generator.webp" alt="Never Jobless LinkedIn Message Generator">
-
-#### Générateur de messages LinkedIn Never Jobless
-
-[Visit](https://www.thataicollection.com/redirect/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Maximisez vos chances d'entretien grâce à la messagerie LinkedIn alimentée par l'IA Améliorez vos perspectives de carrière grâce à notre outil d'IA, conçu pour créer des messages LinkedIn personnalisés et engageants. En analysant les principaux éléments qui intéressent les responsables du recrutement, notre outil crée des messages mettant en valeur tes intérêts, ton expérience et ta valeur, en fonction de l'intitulé du poste que tu souhaites et de tes projets antérieurs. 
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### FaceVary
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-facevary.webp" alt="FaceVary">
-
-#### Changeur de visage en ligne gratuit qui te permet d'échanger des têtes et de remplacer des visages sur les photos.
-[Visit](https://www.thataicollection.com/redirect/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-FaceVary est un nouveau produit révolutionnaire qui te permet d'échanger des visages sur des photos en quelques clics. Il est facile à utiliser et il n'y a ni filigrane ni publicité.
-Avec FaceVary, tu peux échanger ton visage avec celui de tes amis, des célébrités ou même des personnages historiques. Tu peux créer des vidéos, des mèmes et des collages amusants, ou simplement t'amuser à expérimenter ton apparence.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3094,18 +3099,18 @@ Plus de 700 styles d'art et de portrait brillants à votre disposition. Possibil
 
 
 
-### Vidnoz AI HEADSHOT GENERATOR
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
+### Photo AI Studio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-ai-studio.webp" alt="Photo AI Studio">
 
-#### Créez des portraits professionnels grâce à l'IA facilement et sans effort
-[Visit](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Photo AI Studio - Séances photos professionnelles avec UN SEUL SELFIE
+[Visit](https://www.thataicollection.com/redirect/photo-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Vidnoz AI Headshot Generator est un générateur de portraits IA en ligne, un outil révolutionnaire qui
-transforme tes selfies en photos de haute qualité sans recourir à des séances photos coûteuses. Tout simplement
-télécharge quelques photos par jour et laisse les algorithmes d'IA de Vidnoz opérer leur magie, en les mélangeant parfaitement
-ton visage sur une variété de décors et de vêtements professionnels. 
+Prends un selfie rapproché et génère instantanément des centaines d'images. Une seule photo est nécessaire.
+Nous avons le choix entre une grande variété de styles. Nous sommes sûrs que tu trouveras celle qui te convient le mieux. Aucune restriction, aucun forfait. Tu choisis ce que tu veux.
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/photo-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3761,12 +3766,13 @@ Génère des réponses plus longues, plus détaillées et plus précises.
 
 
 ### Perplexity AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-perplexity-ai.webp" alt="Perplexity AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-perplexity-ai_.webp" alt="Perplexity AI">
 
-#### Perplexity AI est un moteur de réponse qui fournit des réponses précises à des questions complexes à l'aide de grands modèles de langage.
+#### Perplexity AI est un moteur de réponse qui fournit des réponses précises à des questions complexes à l'aide de grands modèles linguistiques.
 [Visit](https://www.thataicollection.com/redirect/perplexity-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Ask est alimenté par de grands modèles de langage et des moteurs de recherche. La précision est limitée par les résultats de recherche et les capacités de l'IA.
+Perplexity AI dévoile le pouvoir du savoir grâce à la découverte et au partage d'informations. Perplexity AI est alimentée par de grands modèles linguistiques et des moteurs de recherche. La précision est limitée par les résultats de recherche et les capacités de l'IA.
+
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/perplexity-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 

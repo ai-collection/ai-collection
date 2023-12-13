@@ -153,6 +153,58 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### Interior AI Designs
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai-designs.webp" alt="Interior AI Designs">
+
+#### 室内人工智能设计-使用人工智能为每个人生成梦想房间。
+[Visit](https://www.thataicollection.com/redirect/interior-ai-designs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+拍张房间的照片，看看房间在不同主题下的样子。今天就改造你的房间。
+通过我们精选的特色主题，探索设计可能性的世界。每个主题都经过精心设计，旨在改变您的空间。
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/interior-ai-designs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Photo AI Studio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-ai-studio.webp" alt="Photo AI Studio">
+
+#### Photo AI Studio-只需一张自拍照即可拍摄专业 AI 照片
+[Visit](https://www.thataicollection.com/redirect/photo-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+近距离自拍并立即生成数百张图像。只需 1 张照片。
+我们有各种各样的款式可供选择。我们相信你会找到最适合你的产品。没有限制，没有套餐。你选择你想要的。
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/photo-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Perplexity AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-perplexity-ai_.webp" alt="Perplexity AI">
+
+#### Perplexity AI 是一个答案引擎，它使用大型语言模型为复杂的问题提供准确的答案。
+[Visit](https://www.thataicollection.com/redirect/perplexity-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Perplexity AI 通过信息发现和共享来释放知识的力量。Perplexity AI 由大型语言模型和搜索引擎提供支持。准确性受到搜索结果和人工智能功能的限制。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/perplexity-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### AiApply
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
 
@@ -208,53 +260,6 @@ Nightcap 可以立即解释你的梦想，将它们保存到梦想日记中，�
 每张照片都是用专业相机和专业演员拍摄的。我们使用自定义训练输入和最新的 Dall-E 模型来制作这些库存照片。用户可以在正方形、横向和人像方向和照片风格之间进行选择。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### OneDateIdea
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-onedateidea.webp" alt="OneDateIdea">
-
-#### 获取一次约会的想法!OnedateIdea.com是灵感的源泉，可确保您的约会不会是一次无聊或典型的郊游。
-[Visit](https://www.thataicollection.com/redirect/onedateidea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-OneDateIdea是任何努力完成计划约会这一艰巨任务的人的终极解决方案.如果你想获得灵感，或者对众多的选择感到不知所措，那么这项服务可以帮助你挽救局面。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/onedateidea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Never Jobless LinkedIn Message Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-never-jobless-linkedin-message-generator.webp" alt="Never Jobless LinkedIn Message Generator">
-
-#### 永不失业 LinkedIn 消息生成器
-
-[Visit](https://www.thataicollection.com/redirect/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-利用人工智能驱动的 LinkedIn 消息最大限度地提高面试机会使用我们的 AI 工具提升您的职业前景，该工具旨在创建个性化、引人入胜的 LinkedIn 消息。通过分析吸引招聘经理的关键要素，我们的工具会根据你的目标职位和过去的项目量身定制信息，突出你的兴趣、经验和价值。 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### FaceVary
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-facevary.webp" alt="FaceVary">
-
-#### 免费的在线换脸器，可让您交换头部并替换照片中的面孔。
-[Visit](https://www.thataicollection.com/redirect/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-FaceVary 是一款革命性的新产品，只需轻点几下即可交换照片中的面孔。它易于使用，并且没有水印或广告。
-使用 FaceVary，你可以与朋友、名人甚至历史人物交换脸。你可以制作有趣的视频、模因和拼贴画，或者只是尝试一下自己的外表。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3094,18 +3099,18 @@ HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化�
 <br />
 
 
-### Vidnoz AI HEADSHOT GENERATOR
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
+### Photo AI Studio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-ai-studio.webp" alt="Photo AI Studio">
 
-#### 轻松轻松地创建专业的 AI 头像
-[Visit](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Photo AI Studio-只需一张自拍照即可拍摄专业 AI 照片
+[Visit](https://www.thataicollection.com/redirect/photo-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Vidnoz AI Headshot Generator 是一款在线人工智能头像生成器，是一款革命性的工具
-无需昂贵的照片拍摄，即可将您的自拍照转换为高质量的头像。只是
-每天上传几张照片，让 Vidnoz 的人工智能算法发挥魔力，无缝融合
-面对各种专业背景和服装选择。 
+近距离自拍并立即生成数百张图像。只需 1 张照片。
+我们有各种各样的款式可供选择。我们相信你会找到最适合你的产品。没有限制，没有套餐。你选择你想要的。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/photo-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3761,12 +3766,13 @@ AI 助手可帮助您完成更多工作。毫不费力地体验 AI 聊天
 
 
 ### Perplexity AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-perplexity-ai.webp" alt="Perplexity AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-perplexity-ai_.webp" alt="Perplexity AI">
 
-#### Perplexity AI 是一个答案引擎，可以使用大型语言模型为复杂问题提供准确的答案。
+#### Perplexity AI 是一个答案引擎，它使用大型语言模型为复杂的问题提供准确的答案。
 [Visit](https://www.thataicollection.com/redirect/perplexity-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Ask 由大型语言模型和搜索引擎提供支持。准确性受搜索结果和 AI 功能的限制。
+Perplexity AI 通过信息发现和共享来释放知识的力量。Perplexity AI 由大型语言模型和搜索引擎提供支持。准确性受到搜索结果和人工智能功能的限制。
+
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/perplexity-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
