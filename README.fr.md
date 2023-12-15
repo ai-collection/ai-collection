@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=972" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=979" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -153,6 +153,56 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
 
+### PressPulse AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presspulse-ai.webp" alt="PressPulse AI">
+
+#### Bénéficiez d'une couverture médiatique personnalisée chaque matin.
+[Visit](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PressPulse AI est un assistant basé sur l'IA qui répond aux demandes personnalisées des journalistes et répond à des opportunités médiatiques au quotidien. 
+
+Notre service permet aux professionnels très occupés d'obtenir des backlinks officiels, une couverture médiatique et d'élargir ta portée organique en tant que leader d'opinion en seulement 5 minutes par jour.
+
+Tu auras accès aux principales publications, notamment Forbes, Time, VentureBeat, Mashable et bien d'autres encore.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### 123GPT.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-123gpt.ai.webp" alt="123GPT.AI">
+
+#### 123GPT.AI - Support client automatisé grâce à l'IA | ChatGPT sur tes données | Des chatbots personnalisés pour ton entreprise
+[Visit](https://www.thataicollection.com/redirect/123gpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+L'IA alimente les conversations pour ton entreprise et fournit une assistance 24 h/24 et 7 j/7 à tes clients. Réduisez les demandes d'assistance, améliorez les ventes et réduisez les coûts en déployant un agent d'assistance IA personnalisé formé sur les données de votre entreprise. En 3 étapes simples, tu peux créer une solution de chat basée sur l'IA basée sur tes données.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/123gpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Voicemod
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voicemod.webp" alt="Voicemod">
+
+#### Changeur et modulateur de voix en temps réel gratuits - Voicemod
+[Visit](https://www.thataicollection.com/redirect/voicemod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Exprime-toi grâce à notre changeur de voix IA en temps réel et à notre table d'harmonie pour être qui tu veux, quand tu veux dans le métaverse. Construis ton identité sonore pour des plateformes telles que Roblox, OBS, VRChat, Discord, et bien d'autres
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/voicemod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Interior AI Designs
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai-designs.webp" alt="Interior AI Designs">
 
@@ -214,52 +264,6 @@ Perplexity AI dévoile le pouvoir du savoir grâce à la découverte et au parta
 AIApply est une suite dynamique d'outils d'IA conçus pour aider les demandeurs d'emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les opportunités de carrière optimales. AIApply personnalise les stratégies de recherche d'emploi, permettant ainsi aux utilisateurs de se démarquer sur des marchés concurrentiels. C'est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l'IA.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nightcap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nightcap---make-sense-of-your-dreams..webp" alt="Nightcap">
-
-#### Nightcap Guru : donne un sens à tes rêves.
-[Visit](https://www.thataicollection.com/redirect/nightcap---make-sense-of-your-dreams.?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nightcap interprète instantanément tes rêves, les enregistre dans un journal de rêves et t'aide à donner un sens à ta vie.         
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/nightcap---make-sense-of-your-dreams.?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### RoboResposneAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-roboresposneai.webp" alt="RoboResposneAI">
-
-#### RoboResponseAI, un chatbot IA proactif de pointe conçu pour transformer la façon dont tu interagis avec les visiteurs de ton site Web.
-[Visit](https://www.thataicollection.com/redirect/roboresposneai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
- Cette solution innovante est sur le point de révolutionner ta présence en ligne non seulement en améliorant la conversion des prospects, mais aussi en améliorant les performances de ton équipe commerciale et en fournissant un support client fluide.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/roboresposneai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### StockPhotoAI.net
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stockphotoai.net.webp" alt="StockPhotoAI.net">
-
-#### Utilise l'IA pour générer des photos de stock pour des diaporamas, des sites Web ou des médias imprimés.
-[Visit](https://www.thataicollection.com/redirect/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chaque photo créée pour y ressembler a été prise par des caméras et des acteurs professionnels. Nous utilisons des données de formation personnalisées et les derniers modèles Dall-E pour produire ces photos libres de droits. Les utilisateurs peuvent choisir entre l'orientation carrée, paysage et portrait et le style de la photo.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3656,20 +3660,20 @@ Que vous vous concentriez sur l'interface utilisateur, la recherche UX, la conce
 
 
 
-### Genius Sheets
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-genius-sheets.webp" alt="Genius Sheets">
+### PressPulse AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presspulse-ai.webp" alt="PressPulse AI">
 
-#### Genius Sheets - L'INTELLIGENCE COMMERCIALE DU FUTUR
-Analyse de données basée sur l'IA
-[Visit](https://www.thataicollection.com/redirect/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Bénéficiez d'une couverture médiatique personnalisée chaque matin.
+[Visit](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Genius Sheets AI est un agent de business intelligence en libre-service qui répond à toutes tes questions les plus importantes.
-IA conversationnelle - Parle à Genius Sheets comme si tu parlais à un collègue
-Sécurité d'entreprise - Conçu selon les normes de sécurité de l'entreprise, protection de tes données.
-Facile à utiliser, aucun SQL ou Python n'est requis
-Interface native - Connectez-vous à tes données sur notre application Web, Slack ou Teams
+PressPulse AI est un assistant basé sur l'IA qui répond aux demandes personnalisées des journalistes et répond à des opportunités médiatiques au quotidien. 
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Notre service permet aux professionnels très occupés d'obtenir des backlinks officiels, une couverture médiatique et d'élargir ta portée organique en tant que leader d'opinion en seulement 5 minutes par jour.
+
+Tu auras accès aux principales publications, notamment Forbes, Time, VentureBeat, Mashable et bien d'autres encore.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

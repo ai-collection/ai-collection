@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=972" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=979" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -153,6 +153,56 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### PressPulse AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presspulse-ai.webp" alt="PressPulse AI">
+
+#### 每天早上获取个性化的媒体报道线索。
+[Visit](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PressPulse AI 是一款由人工智能驱动的助手，每天提供个性化的记者请求和媒体机会。 
+
+我们的服务使忙碌的专业人士每天只需5分钟即可获得高权威的反向链接、新闻报道并扩大您作为思想领袖的自然影响力。
+
+你可以访问包括《福布斯》、《时代》、《VentureBeat》、《Mashable》等热门出版物。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### 123GPT.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-123gpt.ai.webp" alt="123GPT.AI">
+
+#### 123GPT.AI-使用 AI 自动提供客户支持 | 在您的数据上使用 ChatGPT | 为您的企业定制聊天机器人
+[Visit](https://www.thataicollection.com/redirect/123gpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI 为您的企业提供对话支持，为您的客户提供全天候支持。通过部署针对您的业务数据进行培训的个性化 AI 支持代理，减少支持查询、提高销售并降低成本。只需 3 个简单步骤，您就可以根据您的数据对 AI 聊天解决方案进行训练。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/123gpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Voicemod
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voicemod.webp" alt="Voicemod">
+
+#### 免费实时语音转换器和调制器-Voicemod
+[Visit](https://www.thataicollection.com/redirect/voicemod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用我们的实时 AI 语音转换器和音板表达自我，在元宇宙中成为你想要的人。在 Roblox、OBS、VrChat、Discord 等平台上建立你的声音身份
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/voicemod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Interior AI Designs
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai-designs.webp" alt="Interior AI Designs">
 
@@ -214,52 +264,6 @@ Perplexity AI 通过信息发现和共享来释放知识的力量。Perplexity A
 AiApply 是一套动态的人工智能工具，旨在为求职者提供支持。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AiApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是必不可少的工具。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Nightcap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nightcap---make-sense-of-your-dreams..webp" alt="Nightcap">
-
-#### Nightcap Guru-让你的梦想有意义。
-[Visit](https://www.thataicollection.com/redirect/nightcap---make-sense-of-your-dreams.?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nightcap 可以立即解释你的梦想，将它们保存到梦想日记中，并帮助你理解自己的生活。         
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nightcap---make-sense-of-your-dreams.?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### RoboResposneAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-roboresposneai.webp" alt="RoboResposneAI">
-
-#### RoboResponseAI，一款前沿的主动人工智能聊天机器人，旨在改变您与网站访问者的互动方式。
-[Visit](https://www.thataicollection.com/redirect/roboresposneai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
- 这种创新的解决方案不仅可以提高潜在客户转化率，还可以提升销售团队的绩效并提供无缝的客户支持，从而彻底改变您的在线形象。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/roboresposneai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### StockPhotoAI.net
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stockphotoai.net.webp" alt="StockPhotoAI.net">
-
-#### 使用 AI 为幻灯片、网站或印刷媒体生成素材照片。
-[Visit](https://www.thataicollection.com/redirect/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-每张照片都是用专业相机和专业演员拍摄的。我们使用自定义训练输入和最新的 Dall-E 模型来制作这些库存照片。用户可以在正方形、横向和人像方向和照片风格之间进行选择。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3656,20 +3660,20 @@ AI 驱动的平台提供自动魔法战卡和可操作的竞争情报。
 <br />
 
 
-### Genius Sheets
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-genius-sheets.webp" alt="Genius Sheets">
+### PressPulse AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presspulse-ai.webp" alt="PressPulse AI">
 
-#### Genius Sheets-来自未来的商业智能
-人工智能驱动的数据分析
-[Visit](https://www.thataicollection.com/redirect/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 每天早上获取个性化的媒体报道线索。
+[Visit](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Genius Sheets AI 是一款自助式商业智能代理，可以回答你所有最重要的问题。
-对话式 AI-与 Genius Sheets 交谈，就像在和同事说话一样
-企业安全-专为企业安全标准而构建-确保您的数据安全。
-易于使用-不需要 SQL 或 Python
-原生界面-在我们的 WebApp、Slack 或 Teams 中连接到你的数据
+PressPulse AI 是一款由人工智能驱动的助手，每天提供个性化的记者请求和媒体机会。 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+我们的服务使忙碌的专业人士每天只需5分钟即可获得高权威的反向链接、新闻报道并扩大您作为思想领袖的自然影响力。
+
+你可以访问包括《福布斯》、《时代》、《VentureBeat》、《Mashable》等热门出版物。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
