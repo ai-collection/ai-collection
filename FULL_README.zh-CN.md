@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=972" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=979" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -1028,6 +1028,7 @@
 ## 聊天机器人
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
+| [123GPT.AI](https://www.thataicollection.com/redirect/123gpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 123GPT.AI-使用 AI 自动提供客户支持 - 在您的数据上使用 ChatGPT - 为您的企业定制聊天机器人. | AI 为您的企业提供对话支持，为您的客户提供全天候支持。通过部署针对您的业务数据进行培训的个性化 AI 支持代理，减少支持查询、提高销售并降低成本。只需 3 个简单步骤，您就可以根据您的数据对 AI 聊天解决方案进行训练。. | :white_check_mark: |
 | [Askrobi](https://www.thataicollection.com/redirect/askrobi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | WhatsApp 中 AI 的力量. | Robi 是一个强大的 AI 伴侣，它住在您的联系人列表中，可以通过 WhatsApp 与他交谈，他可以帮助您撰写文章或生成原始图像！. | :white_check_mark: |
 | [Beam](https://www.thataicollection.com/redirect/beam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Beam——适用于 macOS 的最有效的 ChatGPT 用户界面。. | 与启动器应用程序一样，Beam提供了一个浮动的聊天窗口，您可以通过一个键盘快捷键打开并与模型聊天，而无需离开当前窗口。切换 GPT 模型和角色、使用预制模板、与 Mac 上的任何应用程序进行交互，还有许多其他功能一键即可使用！. | :white_check_mark: |
 | [BLOONY](https://www.thataicollection.com/redirect/bloony?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | BLOONY - 人工智能聊天机器人. | 加入 ChatTrip！. | :grey_question: |
@@ -1306,6 +1307,7 @@
 | [Hoppy Copy](https://www.thataicollection.com/redirect/hoppy-copy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hoppy Copy：人工智能邮件营销文案平台. | 节省无数的写作时间。使用 AI 在几秒钟内为数百种不同的电子邮件营销活动、滴灌、新闻通讯等生成强大的副本 ⚡. | :grey_question: |
 | [MarketingBlocks AI](https://www.thataicollection.com/redirect/marketingblocks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 营销的未来就在这里. | 类人一体的 AI 营销助理，可创建登陆页面、宣传视频、广告、营销文案、图形、电子邮件、画外音、博客文章、艺术等. | :grey_question: |
 | [Post Parrot](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Post Parrot-一款适用于 Reddit 的免费营销工具. | 想生成能提高参与度的 reddit 帖子标题？查看我们的免费数字营销工具，为有针对性的subreddits增强您的帖子标题。. | :white_check_mark: |
+| [PressPulse AI](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 每天早上获取个性化的媒体报道线索。. | PressPulse AI 是一款由人工智能驱动的助手，每天提供个性化的记者请求和媒体机会。   我们的服务使忙碌的专业人士每天只需5分钟即可获得高权威的反向链接、新闻报道并扩大您作为思想领袖的自然影响力。  你可以访问包括《福布斯》、《时代》、《VentureBeat》、《Mashable》等热门出版物。. | :grey_question: |
 | [SimplePhones.ai](https://www.thataicollection.com/redirect/simplephones.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 绝不会错过客户的来电. | 转接未接来电或获取新号码，Simple Phones 将使用 AI 接听。您将免费获得为您的企业创建的电话代理。您只需为任何来电支付 19 美分/分钟. | :x: |
 | [Speaq.ai](https://www.thataicollection.com/redirect/speaq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为您的企业现成的转换 AI. | 我们的使命是通过人工智能彻底改变 B2B 营销和客户支持。使用 AI 轻松安排会议并验证出席情况。通过 AI 对话呼叫简化您的调查流程。. | :grey_question: |
 | [Tabula](https://www.thataicollection.com/redirect/tabula?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | GPT 支持的营销数据分析。建立多点触控归因，了解不同的营销渠道如何协同合作，将潜在客户转化为客户. | Tabula是一个人工智能端到端分析平台，使营销和销售经理能够评估其活动的有效性。它是如何工作的： -一键从多个来源获取数据 -自动跟踪 KPI 和指标 -生成活动报告和绩效仪表板 -使用人工智能分析非结构化数据（电子邮件、调查、PDF）. | :white_check_mark: |
@@ -1350,6 +1352,7 @@
 | [Suno AI](https://www.thataicollection.com/redirect/suno-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 耳听为虚 - 利用 AI 创作音乐和语音. | 我们的人工智能模型使创意人员和开发人员能够生成超现实的语音、音乐和音效，为游戏、社交媒体、娱乐等领域提供个性化、互动和有趣的体验。. | :grey_question: |
 | [TuneFlow](https://www.thataicollection.com/redirect/tuneflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 具有一套 AI 超能力的下一代音乐制作工具. | 帮助您生成旋律、节拍甚至整首歌曲，同时仍然能够像任何其他专业 DAW 一样编辑它们。. | :white_check_mark: |
 | [Voice AI](https://www.thataicollection.com/redirect/voice-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 适用于 Pc 和 Mac 的 AI 语音转换器应用程序-即时更改声音. | 立即下载适用于PC的免费实时语音转换器。修改你的声音，从 Voice Universe 中选择一个或克隆任何你想要的声音. | :white_check_mark: |
+| [Voicemod](https://www.thataicollection.com/redirect/voicemod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费实时语音转换器和调制器-Voicemod. | 使用我们的实时 AI 语音转换器和音板表达自我，在元宇宙中成为你想要的人。在 Roblox、OBS、VrChat、Discord 等平台上建立你的声音身份. | :grey_question: |
 
 
 <!--lint ignore double-link-->
@@ -1426,7 +1429,6 @@
 | [Super Prompt](https://www.thataicollection.com/redirect/super-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 超级提示. | 为您的 AI 艺术创建画廊。下次有人要求查看您的所有艺术作品时，您将有地方可以指向他们。在一个地方展示你所有的人工智能艺术。. | :grey_question: |
 | [SUPERMACHINE](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SUPERMACHINE - 使用 AI 生成库存照片、艺术作品和图像. | SUPERMACHINE 使您能够使用最新的人工智能技术生成图像。. | :grey_question: |
 | [Textunbox](https://www.thataicollection.com/redirect/textunbox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TextUnbox.app. | TextUnbox - 利用 AI 的力量！. | :grey_question: |
-| [Voicemod](https://www.thataicollection.com/redirect/voicemod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费实时语音转换器和调制器 - Voicemod. | 使用我们的实时 AI 变声器和音板表达自己，随时随地在元宇宙中成为您想要的人。为 Roblox、OBS、VRChat、Discord 等平台建立您的声音身份. | :white_check_mark: |
 | [Waifulabs](https://www.thataicollection.com/redirect/waifulabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Waifu Labs - 神奇的动漫肖像. | 最先进的 AI 可以绘制自定义动漫肖像，只为您而生！这位机器学习艺术家通过 4 个简单的步骤找出您的偏好并创建完美的人物插图。如果这听起来像魔术，那是因为它是！. | :grey_question: |
 | [Watermark Remover](https://www.thataicollection.com/redirect/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Watermark Remover - 免费在线去除图像水印. | 使用我们强大的 AI 技术去除图像中的水印. | :white_check_mark: |
 | [Wisecut](https://www.thataicollection.com/redirect/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Wisecut - 自动视频编辑器. | . | :grey_question: |

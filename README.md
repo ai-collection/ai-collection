@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=972" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=979" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -159,6 +159,56 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### PressPulse AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presspulse-ai.webp" alt="PressPulse AI">
+
+#### Get personalized media coverage leads every morning.
+[Visit](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PressPulse AI is an AI-powered assistant that delivers personalized journalist requests and media opportunities daily. 
+
+Our service enables busy professionals to secure high-authority backlinks, press coverage and expand your organic reach as a thought leader with just 5 minutes a day.
+
+You'll gain access to top publications including Forbes, Time, VentureBeat, Mashable and more.
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### 123GPT.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-123gpt.ai.webp" alt="123GPT.AI">
+
+#### 123GPT.AI - Automated Customer Support with AI | ChatGPT on your Data | Custom Chatbots for your Business
+[Visit](https://www.thataicollection.com/redirect/123gpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI powering conversations for your business providing 24x7 support to your customers. Reduce support queries, enhance sales, and cut costs by deploying a personalized AI support agent trained on your business data. In 3 simple steps, you can have an AI chat solution trained on your data.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/123gpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Voicemod
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voicemod.webp" alt="Voicemod">
+
+#### Free Real Time Voice Changer & Modulator - Voicemod
+[Visit](https://www.thataicollection.com/redirect/voicemod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Express yourself with our real-time AI Voice Changer and soundboard to be who you want, when you want in the metaverse. Build your sonic identity for platforms like Roblox, OBS, VRChat, Discord, and more
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/voicemod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Interior AI Designs
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai-designs.webp" alt="Interior AI Designs">
 
@@ -220,52 +270,6 @@ Perplexity AI unlocks the power of knowledge with information discovery and shar
 AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It's an essential tool for anyone looking to accelerate their career path with the power of AI.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nightcap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nightcap---make-sense-of-your-dreams..webp" alt="Nightcap">
-
-#### Nightcap Guru - Make sense of your dreams.
-[Visit](https://www.thataicollection.com/redirect/nightcap---make-sense-of-your-dreams.?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nightcap instantly interprets your dreams, saves them in a dream journal, and helps you make sense of your life.         
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/nightcap---make-sense-of-your-dreams.?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### RoboResposneAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-roboresposneai.webp" alt="RoboResposneAI">
-
-#### RoboResponseAI, a cutting-edge proactive AI Chatbot designed to transform the way you interact with your website visitors.
-[Visit](https://www.thataicollection.com/redirect/roboresposneai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
- This innovative solution is poised to revolutionize your online presence by not only enhancing lead conversion but also elevating your sales team's performance and delivering seamless customer support.
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/roboresposneai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### StockPhotoAI.net
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stockphotoai.net.webp" alt="StockPhotoAI.net">
-
-#### Use AI to generate stock photos for slideshows, websites or print media.
-[Visit](https://www.thataicollection.com/redirect/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Every photo created to look like it was done with professional cameras and professional actors. We use custom training inputs and latest Dall-E models to produce these stock photos. Users can choose between square, landscape and portrait orientation and style of photo.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3662,20 +3666,20 @@ Whether you're focused on UI, UX Research, Design, or CX User Evaluation's AI ca
 <br />
 
 
-### Genius Sheets
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-genius-sheets.webp" alt="Genius Sheets">
+### PressPulse AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presspulse-ai.webp" alt="PressPulse AI">
 
-#### Genius Sheets - BUSINESS INTELLIGENCE FROM THE FUTURE
-AI Powered Data Analytics
-[Visit](https://www.thataicollection.com/redirect/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Get personalized media coverage leads every morning.
+[Visit](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Genius Sheets AI is a Self service business intelligence agent to answer all of your most important questions.
-Conversational AI - Talk to Genius Sheets as if you were talking to a coworker
-Enterprise Security - Built for enterprise security standards - keeping your data safe.
-Easy to Use - No SQL or Python required
-Native Interface - Connect to your data in our WebApp, Slack or Teams
+PressPulse AI is an AI-powered assistant that delivers personalized journalist requests and media opportunities daily. 
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Our service enables busy professionals to secure high-authority backlinks, press coverage and expand your organic reach as a thought leader with just 5 minutes a day.
+
+You'll gain access to top publications including Forbes, Time, VentureBeat, Mashable and more.
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
