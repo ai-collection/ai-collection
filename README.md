@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=979" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=984" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -159,24 +159,36 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
-### PressPulse AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presspulse-ai.webp" alt="PressPulse AI">
+### Neuralframes
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuralframes.webp" alt="Neuralframes">
 
-#### Get personalized media coverage leads every morning.
-[Visit](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Neural Frames - Discover the synthesizer for the visual world.
+[Visit](https://www.thataicollection.com/redirect/neuralframes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-PressPulse AI is an AI-powered assistant that delivers personalized journalist requests and media opportunities daily. 
-
-Our service enables busy professionals to secure high-authority backlinks, press coverage and expand your organic reach as a thought leader with just 5 minutes a day.
-
-You'll gain access to top publications including Forbes, Time, VentureBeat, Mashable and more.
+Neural Frames - AI animation generator that makes trippy videos quickly, with frame-by-frame image automation. Great for music videos, digital art or AI animations.
 
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/neuralframes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
+
+
+### Bearly Ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bearly-ai.webp" alt="Bearly Ai">
+
+#### Bearly makes you 10x faster by adding state of the art AI to your workflow. Reading, writing, and content creation all one shortcut away.
+[Visit](https://www.thataicollection.com/redirect/bearly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Read, write, and learn faster with the world best AI accessible with a hotkey directly on your desktop. Available for Mac, Windows & Linux.
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/bearly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
 
 
 ### 123GPT.AI
@@ -194,82 +206,60 @@ AI powering conversations for your business providing 24x7 support to your custo
 
 
 
-### Voicemod
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voicemod.webp" alt="Voicemod">
+### GummySearch
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gummysearch.webp" alt="GummySearch">
 
-#### Free Real Time Voice Changer & Modulator - Voicemod
-[Visit](https://www.thataicollection.com/redirect/voicemod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
+[Visit](https://www.thataicollection.com/redirect/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Express yourself with our real-time AI Voice Changer and soundboard to be who you want, when you want in the metaverse. Build your sonic identity for platforms like Roblox, OBS, VRChat, Discord, and more
+GummySearch is an AI-based Audience Research tool for Reddit. It allows you to systematically research what people are talking about, and how they feel about your competition and your industry. You can use it to find pain points and solutions asking to be built, content ideas to create, or sales leads to connect with. 
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/voicemod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Interior AI Designs
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai-designs.webp" alt="Interior AI Designs">
-
-#### Interior AI Designs - Generating dream rooms using AI for everyone.
-[Visit](https://www.thataicollection.com/redirect/interior-ai-designs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Take a picture of your room and see how your room looks in different themes. Remodel your room today.
-Discover a world of design possibilities with our curated selection of Featured Themes. Each theme has been carefully crafted to transform your space.
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/interior-ai-designs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Photo AI Studio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-ai-studio.webp" alt="Photo AI Studio">
+### EmojiBrew
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-emojibrew.webp" alt="EmojiBrew">
 
-#### Photo AI Studio - Professional AI photoshoots with ONLY ONE SELFIE
-[Visit](https://www.thataicollection.com/redirect/photo-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### EmojiBrew - Emoji combinations to copy & paste
+[Visit](https://www.thataicollection.com/redirect/emojibrew?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Take a close selfie and instantly generate hundreds of images. ONLY 1 photo needed.
-We have a huge variety of styles to choose from. We are sure you'll find the perfect one for you. No restrictions, no packages. You choose what you want.
+Search through thousands of emoji combinations generated by AI to copy & paste ✂📋 Save time by searching for any word and find the matching combo
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/emojibrew?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
 
 
+### Free Text-To-Speech
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-free-text-to-speech.webp" alt="Free Text-To-Speech">
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/photo-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Free Text to Speech Online Converter Tools
+[Visit](https://www.thataicollection.com/redirect/free-text-to-speech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+We developed an online text-to-speech synthesis tool, which converts text into natural and smooth human voice, provides 100+ speakers for you to choose, supports multi-language, multi-dialect and Chinese-English mixing, and can configure audio flexibly parameter. It is widely used in news reading, travel navigation, intelligent hardware and notification broadcasting.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/free-text-to-speech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Perplexity AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-perplexity-ai_.webp" alt="Perplexity AI">
+### AI Image Upscaler
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-image-upscaler.webp" alt="AI Image Upscaler">
 
-#### Perplexity AI Is an Answer Engine That Delivers Accurate Answers to Complex Questions Using Large Language Models.
-[Visit](https://www.thataicollection.com/redirect/perplexity-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI Image Upscaler - Enlarge & Enhance Your Photos for Free
+[Visit](https://www.thataicollection.com/redirect/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Perplexity AI unlocks the power of knowledge with information discovery and sharing. Perplexity AI is powered by large language models and search engines. Accuracy is limited by search results and AI capabilities.
+Upscale your image to 2x or 4x without losing any textures or details with our AI tool. Use our super-resolution tool and bring new life to your images.
 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/perplexity-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AiApply
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
-
-#### AIApply: AI tools for Jobseekers to craft the perfect application
-[Visit](https://www.thataicollection.com/redirect/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It's an essential tool for anyone looking to accelerate their career path with the power of AI.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3666,20 +3656,15 @@ Whether you're focused on UI, UX Research, Design, or CX User Evaluation's AI ca
 <br />
 
 
-### PressPulse AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presspulse-ai.webp" alt="PressPulse AI">
+### GummySearch
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gummysearch.webp" alt="GummySearch">
 
-#### Get personalized media coverage leads every morning.
-[Visit](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
+[Visit](https://www.thataicollection.com/redirect/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-PressPulse AI is an AI-powered assistant that delivers personalized journalist requests and media opportunities daily. 
+GummySearch is an AI-based Audience Research tool for Reddit. It allows you to systematically research what people are talking about, and how they feel about your competition and your industry. You can use it to find pain points and solutions asking to be built, content ideas to create, or sales leads to connect with. 
 
-Our service enables busy professionals to secure high-authority backlinks, press coverage and expand your organic reach as a thought leader with just 5 minutes a day.
-
-You'll gain access to top publications including Forbes, Time, VentureBeat, Mashable and more.
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

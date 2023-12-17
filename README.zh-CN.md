@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=979" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=984" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -153,24 +153,36 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### PressPulse AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presspulse-ai.webp" alt="PressPulse AI">
+### Neuralframes
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuralframes.webp" alt="Neuralframes">
 
-#### 每天早上获取个性化的媒体报道线索。
-[Visit](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 神经框架-探索视觉世界的合成器。
+[Visit](https://www.thataicollection.com/redirect/neuralframes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-PressPulse AI 是一款由人工智能驱动的助手，每天提供个性化的记者请求和媒体机会。 
-
-我们的服务使忙碌的专业人士每天只需5分钟即可获得高权威的反向链接、新闻报道并扩大您作为思想领袖的自然影响力。
-
-你可以访问包括《福布斯》、《时代》、《VentureBeat》、《Mashable》等热门出版物。
+Neural Frames-人工智能动画生成器，可快速制作令人毛骨悚然的视频，并具有逐帧图像自动化功能。非常适合音乐视频、数字艺术或 AI 动画。
 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/neuralframes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
 
 <br />
 
 
+### Bearly Ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bearly-ai.webp" alt="Bearly Ai">
+
+#### Bearly 通过在工作流程中添加最先进的人工智能，可以将你的速度提高 10 倍。阅读、写作和内容创作只需一个快捷方式即可。
+[Visit](https://www.thataicollection.com/redirect/bearly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用世界上最好的 AI，通过快捷键直接在桌面上访问，可以更快地阅读、写作和学习。适用于 Mac、Windows 和 Linux。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/bearly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
 
 
 ### 123GPT.AI
@@ -188,82 +200,60 @@ AI 为您的企业提供对话支持，为您的客户提供全天候支持。�
 <br />
 
 
-### Voicemod
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voicemod.webp" alt="Voicemod">
+### GummySearch
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gummysearch.webp" alt="GummySearch">
 
-#### 免费实时语音转换器和调制器-Voicemod
-[Visit](https://www.thataicollection.com/redirect/voicemod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 通过 Reddit 进行基于人工智能的客户研究。发现需要解决的问题、对当前解决方案的看法以及想要购买您的产品的人。
+[Visit](https://www.thataicollection.com/redirect/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-使用我们的实时 AI 语音转换器和音板表达自我，在元宇宙中成为你想要的人。在 Roblox、OBS、VrChat、Discord 等平台上建立你的声音身份
+GummySearch 是一款基于 AI 的 Reddit 受众研究工具。它使您可以系统地研究人们在谈论什么，以及他们对您的竞争和行业的看法。你可以用它来寻找需要构建的痛点和解决方案、需要创建的内容创意或需要联系的销售线索。 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/voicemod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Interior AI Designs
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai-designs.webp" alt="Interior AI Designs">
-
-#### 室内人工智能设计-使用人工智能为每个人生成梦想房间。
-[Visit](https://www.thataicollection.com/redirect/interior-ai-designs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-拍张房间的照片，看看房间在不同主题下的样子。今天就改造你的房间。
-通过我们精选的特色主题，探索设计可能性的世界。每个主题都经过精心设计，旨在改变您的空间。
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/interior-ai-designs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Photo AI Studio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-ai-studio.webp" alt="Photo AI Studio">
+### EmojiBrew
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-emojibrew.webp" alt="EmojiBrew">
 
-#### Photo AI Studio-只需一张自拍照即可拍摄专业 AI 照片
-[Visit](https://www.thataicollection.com/redirect/photo-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### EmojiBrew-用于复制和粘贴的表情符号组合
+[Visit](https://www.thataicollection.com/redirect/emojibrew?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-近距离自拍并立即生成数百张图像。只需 1 张照片。
-我们有各种各样的款式可供选择。我们相信你会找到最适合你的产品。没有限制，没有套餐。你选择你想要的。
+搜索人工智能生成的数千种表情符号组合以进行复制和粘贴 ✂📋 通过搜索任何单词并找到匹配的组合来节省时间
 
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/photo-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/emojibrew?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Perplexity AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-perplexity-ai_.webp" alt="Perplexity AI">
+### Free Text-To-Speech
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-free-text-to-speech.webp" alt="Free Text-To-Speech">
 
-#### Perplexity AI 是一个答案引擎，它使用大型语言模型为复杂的问题提供准确的答案。
-[Visit](https://www.thataicollection.com/redirect/perplexity-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 免费文字转语音在线转换工具
+[Visit](https://www.thataicollection.com/redirect/free-text-to-speech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Perplexity AI 通过信息发现和共享来释放知识的力量。Perplexity AI 由大型语言模型和搜索引擎提供支持。准确性受到搜索结果和人工智能功能的限制。
+我们开发了一款在线文本到语音合成工具，可以将文本转换为自然流畅的人声，提供100多种扬声器供您选择，支持多语言、多方言和中英混音，并且可以灵活配置音频参数。它广泛应用于新闻阅读、旅行导航、智能硬件和通知广播。
 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/perplexity-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/free-text-to-speech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
+<br />
 
-### AiApply
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
 
-#### AiApply：供求职者制作完美应用程序的人工智能工具
-[Visit](https://www.thataicollection.com/redirect/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+### AI Image Upscaler
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-image-upscaler.webp" alt="AI Image Upscaler">
 
-AiApply 是一套动态的人工智能工具，旨在为求职者提供支持。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AiApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是必不可少的工具。
+#### AI Image Upscaler-免费放大和增强您的照片
+[Visit](https://www.thataicollection.com/redirect/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+使用我们的 AI 工具将您的图像放大到 2 倍或 4 倍，而不会丢失任何纹理或细节。使用我们的超分辨率工具，让您的图像焕然一新。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3660,24 +3650,19 @@ AI 驱动的平台提供自动魔法战卡和可操作的竞争情报。
 <br />
 
 
-### PressPulse AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presspulse-ai.webp" alt="PressPulse AI">
+### GummySearch
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gummysearch.webp" alt="GummySearch">
 
-#### 每天早上获取个性化的媒体报道线索。
-[Visit](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 通过 Reddit 进行基于人工智能的客户研究。发现需要解决的问题、对当前解决方案的看法以及想要购买您的产品的人。
+[Visit](https://www.thataicollection.com/redirect/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-PressPulse AI 是一款由人工智能驱动的助手，每天提供个性化的记者请求和媒体机会。 
+GummySearch 是一款基于 AI 的 Reddit 受众研究工具。它使您可以系统地研究人们在谈论什么，以及他们对您的竞争和行业的看法。你可以用它来寻找需要构建的痛点和解决方案、需要创建的内容创意或需要联系的销售线索。 
 
-我们的服务使忙碌的专业人士每天只需5分钟即可获得高权威的反向链接、新闻报道并扩大您作为思想领袖的自然影响力。
-
-你可以访问包括《福布斯》、《时代》、《VentureBeat》、《Mashable》等热门出版物。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-
+<br />
 
 
 ### BaruaAI
