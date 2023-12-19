@@ -153,6 +153,89 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### AI Emoji Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-emoji-generator.webp" alt="AI Emoji Generator">
+
+#### AI 表情符号生成器：在几秒钟内将文本转换为富有表现力的表情符号。
+[Visit](https://www.thataicollection.com/redirect/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI 表情符号生成器是一款创新工具，可通过将单词转换为表情符号来使您的文字生动起来。 
+
+只需输入任何短语或情感，该工具就会智能地选择和生成相关的表情符号，通过有趣的视觉效果增强数字沟通。 
+
+非常适合为信息、社交媒体帖子或任何形式的数字内容增添趣味。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Boo AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-boo-ai.webp" alt="Boo AI">
+
+#### 极简主义人工智能驱动的写作助手·boo.ai
+[Visit](https://www.thataicollection.com/redirect/boo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+用人工智能写作的最简单方法。Boo.ai 是一款非常简单的写作应用程序，可为你提供超能力。Boo.ai 使用 AI 来帮助你比以往任何时候都更快地写作。内置人工智能带来无干扰的写作体验，让写作变得轻松。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/boo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Echowin
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-echowin.webp" alt="Echowin">
+
+#### Echowin-基于人工智能的呼叫管理，具有完全的自然语言理解能力和针对每个场景的个性化响应。
+[Visit](https://www.thataicollection.com/redirect/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 echowin 体验商业通信的未来。您的人工智能代理将接听您的电话，对来电者进行预先筛选，提供客户服务并处理退款申请、智能呼叫转接、收集信息等工作流程。这就像雇用 ChatGPT 来接听你的电话一样。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Athena
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-athena.webp" alt="Athena">
+
+#### Apac AI-释放你的创造者精神。我们通过多模态人工智能实现创作民主化。
+[Visit](https://www.thataicollection.com/redirect/athena?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+认识雅典娜——一套工具可帮助你用简单的语言自动化 1000 个工作流程。Athena Writer Extension- 
+在浏览器中无缝自动执行 1000 个任务。雅典娜浏览器工作流程自动化- 
+使用您的浏览器副驾驶 Athena 将文本转换为自动化工作流程！Athena Search-由人工智能驱动的快速搜索，具有可靠的引文
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/athena?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### HitPaw Photo AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-photo-ai.webp" alt="HitPaw Photo AI">
+
+#### HitPaw Photo AI 是一款多功能 AI 照片编辑工具，它集成了照片增强、物体和背景去除功能，并生成 AI 艺术作品。
+[Visit](https://www.thataicollection.com/redirect/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HitPaw Photo AI 是一款多功能 AI 照片编辑工具，它集成了照片增强、物体和背景去除功能，并生成 AI 艺术作品。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Voxio
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voxio.webp" alt="Voxio">
 
@@ -180,88 +263,6 @@ aiurbate是一位可以帮助您管理一天的虚拟助手，或者只是与您
 一切都是为了让对话变得有趣和引人入胜。我们的聊天机器人配备了复杂的个性引擎，使其能够适应您的沟通风格，并以自然而真实的方式做出回应。 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### GPTHelp.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gpthelp.ai.webp" alt="GPTHelp.ai">
-
-#### 适用于您的网站的 ChatGPT /AI 客户支持聊天机器人
-[Visit](https://www.thataicollection.com/redirect/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-GPTHelp.ai 提供用户友好、无代码的 AI 聊天机器人，可根据您自己的网页、文件和常见问题解答进行训练。
-
-GPTHelp.ai 引入了一种将人工智能集成到客户支持系统的直观方法。我们的平台允许您创建个性化的聊天机器人，这些聊天机器人直接根据您的网站内容、文件和常见问题进行训练。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Hour One
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hour-one.webp" alt="Hour One">
-
-#### 制作 AI 视频来训练任何人或解释任何事情-第一小时
-[Visit](https://www.thataicollection.com/redirect/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-唯一一款具有自定义视频模板、不同口音和语言的人工智能演示者等功能的 AI 视频生成器。今天免费试用！
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### VEED.IO
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO">
-
-#### VEED.IO-人工智能视频编辑器-快速、在线、免费
-
-[Visit](https://www.thataicollection.com/redirect/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-免费的 AI 视频编辑器，包含文字转视频、头像、自动字幕、语音翻译等。使用 VEED 在线录制、编辑和共享您的视频。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Neuralframes
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuralframes.webp" alt="Neuralframes">
-
-#### 神经框架-探索视觉世界的合成器。
-[Visit](https://www.thataicollection.com/redirect/neuralframes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Neural Frames-人工智能动画生成器，可快速制作令人毛骨悚然的视频，并具有逐帧图像自动化功能。非常适合音乐视频、数字艺术或 AI 动画。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/neuralframes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Bearly Ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bearly-ai.webp" alt="Bearly Ai">
-
-#### Bearly 通过在工作流程中添加最先进的人工智能，可以将你的速度提高 10 倍。阅读、写作和内容创作只需一个快捷方式即可。
-[Visit](https://www.thataicollection.com/redirect/bearly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用世界上最好的 AI，通过快捷键直接在桌面上访问，可以更快地阅读、写作和学习。适用于 Mac、Windows 和 Linux。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/bearly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1364,6 +1365,22 @@ AI 驱动的支持帮助，可从以前的工单中找到答案
 <br />
 
 
+### Echowin
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-echowin.webp" alt="Echowin">
+
+#### Echowin-基于人工智能的呼叫管理，具有完全的自然语言理解能力和针对每个场景的个性化响应。
+[Visit](https://www.thataicollection.com/redirect/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 echowin 体验商业通信的未来。您的人工智能代理将接听您的电话，对来电者进行预先筛选，提供客户服务并处理退款申请、智能呼叫转接、收集信息等工作流程。这就像雇用 ChatGPT 来接听你的电话一样。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Poised 2.0
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-poised-2.0.webp" alt="Poised 2.0">
 
@@ -1373,21 +1390,6 @@ AI 驱动的支持帮助，可从以前的工单中找到答案
 在演示、访谈、客户电话等方面，您的 AI 反馈合作伙伴。通过在线会议之前、期间和之后的私人反馈，在会议中更有效地沟通
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/poised-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### OneTone.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-onetone.ai.webp" alt="OneTone.ai">
-
-#### 我们帮助支持团队更快、更准确地沟通
-[Visit](https://www.thataicollection.com/redirect/onetone.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-OneTone.ai 是一个人工智能平台，可为您提供宝贵的见解，让您做出明智的决策并提供一流的客户服务。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/onetone.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3101,18 +3103,15 @@ HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化�
 <br />
 
 
-### Photo AI Studio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-ai-studio.webp" alt="Photo AI Studio">
+### HitPaw Photo AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-photo-ai.webp" alt="HitPaw Photo AI">
 
-#### Photo AI Studio-只需一张自拍照即可拍摄专业 AI 照片
-[Visit](https://www.thataicollection.com/redirect/photo-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### HitPaw Photo AI 是一款多功能 AI 照片编辑工具，它集成了照片增强、物体和背景去除功能，并生成 AI 艺术作品。
+[Visit](https://www.thataicollection.com/redirect/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-近距离自拍并立即生成数百张图像。只需 1 张照片。
-我们有各种各样的款式可供选择。我们相信你会找到最适合你的产品。没有限制，没有套餐。你选择你想要的。
+HitPaw Photo AI 是一款多功能 AI 照片编辑工具，它集成了照片增强、物体和背景去除功能，并生成 AI 艺术作品。
 
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/photo-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
