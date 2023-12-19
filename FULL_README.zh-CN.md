@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=984" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=988" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -831,6 +831,7 @@
 | [SlideSpeak](https://www.thataicollection.com/redirect/slidespeak?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SlideSpeak - 使用 AI 总结 PowerPoint、Word、PDF. | SlideSpeak 是由 ChatGPT 支持的聊天机器人，可让您总结文档、提出问题等等。只需上传您的文件，您就可以使用聊天来询问任何问题。我们的 AI 速度非常快，您无需连接任何 OpenAI API 密钥。. | :white_check_mark: |
 | [Thegist](https://www.thataicollection.com/redirect/thegist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Thegist AI 总结了 Slack 话题和频道——了解要点. | TheGist Workspace-您的所有工作应用程序都集中在一个地方，由 AI 提供支持。智能统一收件箱、AI 洞察、个性化摘要、工作项目状态等等。. | :grey_question: |
 | [Ultimate Skill Extractor by Further](https://www.thataicollection.com/redirect/ultimate-skill-extractor-by-further?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 驱动的技能建议. | 借助 Skill Suggestion AI 的强大功能，我们可以帮助您从任何类型的文本中提取世界上急需的技能。试试看！我们通过使用我们的更多内容库中超过 100 万个在线可用内容来训练我们的 AI，这些内容来自不同类型的来源和主题。. | :grey_question: |
+| [Voxio](https://www.thataicollection.com/redirect/voxio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voxio：轻松将您的声音转换为有条理的笔记. | Voxio 是一款创新的应用程序，可将录音转换为结构化笔记。它是讲座、会议和个人备忘录的理想之选，它提供可自定义的布局并与主要的笔记平台无缝集成，简化了信息的组织和检索。. | :white_check_mark: |
 | [Whisper Memos](https://www.thataicollection.com/redirect/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Whisper Memos-录制语音备忘录， 以电子邮件的形式接收。. | Whisper Memos 将你的胡言乱语变成分段文章，然后通过电子邮件发送给你。 感谢 GPT-4，我们将你的备忘录转换为报纸风格的文章，而不是一言不发的文字。. | :white_check_mark: |
 
 
@@ -1031,6 +1032,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [123GPT.AI](https://www.thataicollection.com/redirect/123gpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 123GPT.AI-使用 AI 自动提供客户支持 - 在您的数据上使用 ChatGPT - 为您的企业定制聊天机器人. | AI 为您的企业提供对话支持，为您的客户提供全天候支持。通过部署针对您的业务数据进行培训的个性化 AI 支持代理，减少支持查询、提高销售并降低成本。只需 3 个简单步骤，您就可以根据您的数据对 AI 聊天解决方案进行训练。. | :white_check_mark: |
+| [aiurbate](https://www.thataicollection.com/redirect/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | aiurbate-终极虚拟伴侣，旨在让您的生活更轻松、更愉快。尖端的人工智能和先进的自然语言处理能力。. | aiurbate是一位可以帮助您管理一天的虚拟助手，或者只是与您分享想法和感受的人，aiurbate可以满足您的需求。  一切都是为了让对话变得有趣和引人入胜。我们的聊天机器人配备了复杂的个性引擎，使其能够适应您的沟通风格，并以自然而真实的方式做出回应。. | :white_check_mark: |
 | [Askrobi](https://www.thataicollection.com/redirect/askrobi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | WhatsApp 中 AI 的力量. | Robi 是一个强大的 AI 伴侣，它住在您的联系人列表中，可以通过 WhatsApp 与他交谈，他可以帮助您撰写文章或生成原始图像！. | :white_check_mark: |
 | [Beam](https://www.thataicollection.com/redirect/beam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Beam——适用于 macOS 的最有效的 ChatGPT 用户界面。. | 与启动器应用程序一样，Beam提供了一个浮动的聊天窗口，您可以通过一个键盘快捷键打开并与模型聊天，而无需离开当前窗口。切换 GPT 模型和角色、使用预制模板、与 Mac 上的任何应用程序进行交互，还有许多其他功能一键即可使用！. | :white_check_mark: |
 | [BLOONY](https://www.thataicollection.com/redirect/bloony?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | BLOONY - 人工智能聊天机器人. | 加入 ChatTrip！. | :grey_question: |
@@ -1052,6 +1054,7 @@
 | [Docubro](https://www.thataicollection.com/redirect/docubro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 网站文档的 ChatGPT. | ChatGPT 用于您的文档，通过对话来探索内容，使其易于访问和使用. | :grey_question: |
 | [EmbedAI](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EmbeDai-根据您的数据进行训练的自定义 AI 聊天机器人. | 利用您的独特内容、支持文档、PDF、API 或数据库开发个性化的 AI 支持聊天机器人。只需一行代码即可轻松将其集成到您的网站中，以实时响应访问者的查询，从而最大限度地减少您收到的支持请求的数量。. | :white_check_mark: |
 | [Flot.ai](https://www.thataicollection.com/redirect/flot.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您所有应用程序和网站的人工智能副驾驶. | 在您键入或选择的任何位置使用 ChatGPT，无需复制粘贴。让人工智能一键编写、改进、释义、总结、翻译、解释或回复任何文本。. | :white_check_mark: |
+| [GPTHelp.ai](https://www.thataicollection.com/redirect/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 适用于您的网站的 ChatGPT /AI 客户支持聊天机器人. | GPTHelp.ai 提供用户友好、无代码的 AI 聊天机器人，可根据您自己的网页、文件和常见问题解答进行训练。  GPTHelp.ai 引入了一种将人工智能集成到客户支持系统的直观方法。我们的平台允许您创建个性化的聊天机器人，这些聊天机器人直接根据您的网站内容、文件和常见问题进行训练。. | :grey_question: |
 | [HUMATA](https://www.thataicollection.com/redirect/humata?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Humata-ChatGPT 用于存储您的数据文件。提问比略读要快。. | 学习速度提高100倍，创建报告的速度提高100倍，分析法律文档的速度提高100倍，理解技术论文的速度提高100倍。立即提出问题并获得有关任何文件的答案。. | :white_check_mark: |
 | [Keepi](https://www.thataicollection.com/redirect/keepi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 胜过 WhatsApp。. | 随时随地访问当今最先进的 AI。 Keepi 将使您保持聪明并准备好相关知识。. | :white_check_mark: |
 | [Kore.ai](https://www.thataicollection.com/redirect/kore.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 面向企业的 AI 优先体验优化平台. | Kore.ai 通过部署对话式 AI 优先虚拟助手和流程助手，实现每个行业的前台和后台交互自动化。. | :grey_question: |
@@ -1229,6 +1232,7 @@
 | [HeyGen](https://www.thataicollection.com/redirect/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 没有相机？没有船员？没问题！ 使用可定制的 AI 头像扩展您的视频制作. | HeyGen 是一个视频平台，可帮助您利用生成式 AI 创建引人入胜的商业视频， 就像为各种用例制作 PowerPoint 一样简单： 讲解和操作方法、营销、个性化销售、电子学习、培训和入职以及新闻。. | :grey_question: |
 | [HitPaw Online Video Enhancer](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过训练有素的 AI 一键取消模糊和升级您的视频。. | HitPaw Online Video Enhancer 是低分辨率视频的最佳解决方案，可以毫不费力地将视频解决方案提高到 1080P/4K。. | :x: |
 | [HitPaw Video Enhancer](https://www.thataicollection.com/redirect/hitpaw-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | HitPaw 视频增强器-高品质 AI 视频分辨率增强器. | HitPaw Video Enhancer 有助于在不损失质量的情况下轻松升级和提高视频质量。这款 AI 视频增强器可以提高视频质量，为黑白视频着色，将低质量的视频转换为 1080P、4K，最高可达 8K。 HitPaw video upscaler 可帮助使用多个 AI 模型增加任何视频：降噪、动画、面部、着色、色彩增强、帧插值模型、稳定. | :white_check_mark: |
+| [Hour One](https://www.thataicollection.com/redirect/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 制作 AI 视频来训练任何人或解释任何事情-第一小时. | 唯一一款具有自定义视频模板、不同口音和语言的人工智能演示者等功能的 AI 视频生成器。今天免费试用！. | :white_check_mark: |
 | [Make a Video](https://www.thataicollection.com/redirect/make-a-video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Make-A-Video 是一种最先进的人工智能系统，可以从文本生成视频。. | Make-A-Video研究建立在文本到图像生成技术的最新进展的基础上，该技术旨在实现文本到视频的生成。该系统使用带有描述的图像来了解世界是什么样子以及通常是如何描述世界的。有了这些数据，Make-A-Video 只需几个字或几行文字就能生成异想天开、独一无二的视频，让你的想象力变为现实。. | :grey_question: |
 | [Move](https://www.thataicollection.com/redirect/move?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 移动爱. | 使用手机在任何环境中从视频中捕获高质量的运动数据。. | :grey_question: |
 | [Neuralframes](https://www.thataicollection.com/redirect/neuralframes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 神经框架-探索视觉世界的合成器。. | Neural Frames-人工智能动画生成器，可快速制作令人毛骨悚然的视频，并具有逐帧图像自动化功能。非常适合音乐视频、数字艺术或 AI 动画。. | :white_check_mark: |
@@ -1244,6 +1248,7 @@
 | [ToWords](https://www.thataicollection.com/redirect/towords?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ToWords：YouTube 到单词. | 用文字让您的视频和音频生动起来. | :grey_question: |
 | [Twelve Labs](https://www.thataicollection.com/redirect/twelve-labs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Twelve Labs-利用多模态视频理解的力量. | Twelve Labs 通过为开发者提供最强大的视频搜索 API，帮助他们制作能够像我们一样观看、聆听和理解世界的程序. | :white_check_mark: |
 | [Typestudio](https://www.thataicollection.com/redirect/typestudio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Type Studio â 通过编辑文本来编辑您的视频. | Type Studio 是一种快速、简单、愉快的方式来编辑和发展你的播客、流媒体和采访。. | :grey_question: |
+| [VEED.IO](https://www.thataicollection.com/redirect/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | VEED.IO-人工智能视频编辑器-快速、在线、免费. | 免费的 AI 视频编辑器，包含文字转视频、头像、自动字幕、语音翻译等。使用 VEED 在线录制、编辑和共享您的视频。. | :white_check_mark: |
 | [Vidnoz AI](https://www.thataicollection.com/redirect/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Vidnoz AI：推出免费的人工智能视频平台，将用户成本降低80％，并将生产力提高10倍. | 免费的人工智能视频生成器——Vidnoz AI，它可以帮助人们比以往任何时候都更轻松、更快地制作视频。为了利用其高效的人工智能视频工具使更多人受益，Vidnoz 向所有用户提供每日免费视频生成权限。通过使用 AI 头像、视频 模板和其他基于人工智能的工具，Vidnoz 上的每个人都可以创建引人入胜的视频 毫不费力. | :white_check_mark: |
 | [Vidnoz Flex](https://www.thataicollection.com/redirect/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 强有力地创建、共享、管理和跟踪您的视频。. | Vidnoz Flex 是 Vidnoz 推出的一款简单但功能强大的视频工具，它集视频创作、个性化、共享和跟踪功能于一身。它将完全提高您在日常工作中制作和推广视频的效率，并带来最显著的效果。. | :white_check_mark: |
 | [Vidyo](https://www.thataicollection.com/redirect/vidyo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 基于 AI 的内容再利用 - vidyo.ai. | 使用 AI 从您的视频创建适合社交的短片 ✨ 节省 90% 的时间和精力. | :grey_question: |
@@ -1393,7 +1398,6 @@
 | [Glasp](https://www.thataicollection.com/redirect/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Glasp：社交网络荧光笔. | 阅读时突出显示并添加注释。创建您的学习图书馆. | :grey_question: |
 | [GPTKey](https://www.thataicollection.com/redirect/gptkey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | GPTKey – 使用 GPT 键盘与 AI 一起书写. | 使用 GPT 自定义键盘扩展在任何应用程序中使用 AI 进行书写。. | :grey_question: |
 | [HelloScribe](https://www.thataicollection.com/redirect/helloscribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | HelloScribe：将您的最佳创意变为现实. | . | :grey_question: |
-| [Hour One](https://www.thataicollection.com/redirect/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 制作人工智能视频来训练任何人或解释任何事情——第一小时. | . | :grey_question: |
 | [Inworld](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Inworld AI – 创建 AI 角色并向他们提出任何问题. | 为游戏、元宇宙和商业应用程序创建 AI 角色和 NPC，或者只是为了好玩。您可以与 AI 角色谈论任何事情。它简单、免费且充满可能性。. | :white_check_mark: |
 | [LuciaAI](https://www.thataicollection.com/redirect/luciaai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 露西亚AI. | 露西亚使用最新最先进的人工智能技术。使用 Lucia，您可以比以往更快更好地书写。. | :grey_question: |
 | [Magic Mate](https://www.thataicollection.com/redirect/magic-mate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 魔法伴侣. | . | :grey_question: |

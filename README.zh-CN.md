@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=984" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=988" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -153,6 +153,89 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### Voxio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voxio.webp" alt="Voxio">
+
+#### Voxio：轻松将您的声音转换为有条理的笔记
+[Visit](https://www.thataicollection.com/redirect/voxio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Voxio 是一款创新的应用程序，可将录音转换为结构化笔记。它是讲座、会议和个人备忘录的理想之选，它提供可自定义的布局并与主要的笔记平台无缝集成，简化了信息的组织和检索。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/voxio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### aiurbate
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dgdfg.webp" alt="aiurbate">
+
+#### aiurbate-终极虚拟伴侣，旨在让您的生活更轻松、更愉快。尖端的人工智能和先进的自然语言处理能力。
+[Visit](https://www.thataicollection.com/redirect/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+aiurbate是一位可以帮助您管理一天的虚拟助手，或者只是与您分享想法和感受的人，aiurbate可以满足您的需求。
+
+一切都是为了让对话变得有趣和引人入胜。我们的聊天机器人配备了复杂的个性引擎，使其能够适应您的沟通风格，并以自然而真实的方式做出回应。 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### GPTHelp.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gpthelp.ai.webp" alt="GPTHelp.ai">
+
+#### 适用于您的网站的 ChatGPT /AI 客户支持聊天机器人
+[Visit](https://www.thataicollection.com/redirect/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+GPTHelp.ai 提供用户友好、无代码的 AI 聊天机器人，可根据您自己的网页、文件和常见问题解答进行训练。
+
+GPTHelp.ai 引入了一种将人工智能集成到客户支持系统的直观方法。我们的平台允许您创建个性化的聊天机器人，这些聊天机器人直接根据您的网站内容、文件和常见问题进行训练。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Hour One
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hour-one.webp" alt="Hour One">
+
+#### 制作 AI 视频来训练任何人或解释任何事情-第一小时
+[Visit](https://www.thataicollection.com/redirect/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+唯一一款具有自定义视频模板、不同口音和语言的人工智能演示者等功能的 AI 视频生成器。今天免费试用！
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### VEED.IO
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO">
+
+#### VEED.IO-人工智能视频编辑器-快速、在线、免费
+
+[Visit](https://www.thataicollection.com/redirect/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+免费的 AI 视频编辑器，包含文字转视频、头像、自动字幕、语音翻译等。使用 VEED 在线录制、编辑和共享您的视频。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Neuralframes
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuralframes.webp" alt="Neuralframes">
 
@@ -179,81 +262,6 @@ Neural Frames-人工智能动画生成器，可快速制作令人毛骨悚然的
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/bearly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### 123GPT.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-123gpt.ai.webp" alt="123GPT.AI">
-
-#### 123GPT.AI-使用 AI 自动提供客户支持 | 在您的数据上使用 ChatGPT | 为您的企业定制聊天机器人
-[Visit](https://www.thataicollection.com/redirect/123gpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI 为您的企业提供对话支持，为您的客户提供全天候支持。通过部署针对您的业务数据进行培训的个性化 AI 支持代理，减少支持查询、提高销售并降低成本。只需 3 个简单步骤，您就可以根据您的数据对 AI 聊天解决方案进行训练。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/123gpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### GummySearch
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gummysearch.webp" alt="GummySearch">
-
-#### 通过 Reddit 进行基于人工智能的客户研究。发现需要解决的问题、对当前解决方案的看法以及想要购买您的产品的人。
-[Visit](https://www.thataicollection.com/redirect/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-GummySearch 是一款基于 AI 的 Reddit 受众研究工具。它使您可以系统地研究人们在谈论什么，以及他们对您的竞争和行业的看法。你可以用它来寻找需要构建的痛点和解决方案、需要创建的内容创意或需要联系的销售线索。 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### EmojiBrew
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-emojibrew.webp" alt="EmojiBrew">
-
-#### EmojiBrew-用于复制和粘贴的表情符号组合
-[Visit](https://www.thataicollection.com/redirect/emojibrew?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-搜索人工智能生成的数千种表情符号组合以进行复制和粘贴 ✂📋 通过搜索任何单词并找到匹配的组合来节省时间
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/emojibrew?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Free Text-To-Speech
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-free-text-to-speech.webp" alt="Free Text-To-Speech">
-
-#### 免费文字转语音在线转换工具
-[Visit](https://www.thataicollection.com/redirect/free-text-to-speech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我们开发了一款在线文本到语音合成工具，可以将文本转换为自然流畅的人声，提供100多种扬声器供您选择，支持多语言、多方言和中英混音，并且可以灵活配置音频参数。它广泛应用于新闻阅读、旅行导航、智能硬件和通知广播。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/free-text-to-speech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AI Image Upscaler
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-image-upscaler.webp" alt="AI Image Upscaler">
-
-#### AI Image Upscaler-免费放大和增强您的照片
-[Visit](https://www.thataicollection.com/redirect/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用我们的 AI 工具将您的图像放大到 2 倍或 4 倍，而不会丢失任何纹理或细节。使用我们的超分辨率工具，让您的图像焕然一新。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
