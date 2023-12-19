@@ -153,6 +153,89 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### AI Emoji Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-emoji-generator.webp" alt="AI Emoji Generator">
+
+#### Generador de emojis de IA: transforma el texto en emojis expresivos en segundos.
+[Visit](https://www.thataicollection.com/redirect/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+El generador de emojis de IA es una herramienta innovadora que da vida a tu texto al convertir las palabras en emojis. 
+
+Simplemente introduce cualquier frase o sentimiento y la herramienta seleccionará y generará de forma inteligente los emojis relevantes, lo que mejorará la comunicación digital con un toque visual y divertido. 
+
+Perfecto para condimentar mensajes, publicaciones en redes sociales o cualquier tipo de contenido digital.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Boo AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-boo-ai.webp" alt="Boo AI">
+
+#### Asistente de escritura minimalista con IA · boo.ai
+[Visit](https://www.thataicollection.com/redirect/boo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La forma más sencilla de escribir con IA. Boo.ai es una aplicación de escritura hermosa y sencilla que te da superpoderes. Boo.ai utiliza la IA para ayudarte a escribir más rápido que nunca. Una experiencia de escritura sin distracciones con IA integrada para que escribir sea sencillo.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/boo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Echowin
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-echowin.webp" alt="Echowin">
+
+#### Echowon: gestión de llamadas basada en inteligencia artificial con comprensión total del lenguaje natural y respuestas personalizadas para cada escenario.
+[Visit](https://www.thataicollection.com/redirect/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vive el futuro de las comunicaciones empresariales con Echowin. Tu agente de IA atenderá tus llamadas, preseleccionará a las personas que llaman, proporcionará servicio de atención al cliente y gestionará flujos de trabajo como las solicitudes de reembolso, las transferencias inteligentes de llamadas, la recopilación de información y mucho más. Es como contratar a ChatGPT para atender tus llamadas de teléfono.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Athena
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-athena.webp" alt="Athena">
+
+#### Apac AI: da rienda suelta a tu espíritu creador. Democratizamos la creación a través de la IA multimodal.
+[Visit](https://www.thataicollection.com/redirect/athena?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Conoce a Athena, un conjunto de herramientas que te ayudará a automatizar miles de flujos de trabajo en un lenguaje sencillo. Athena Writer Extension - 
+Automatiza miles de tareas sin problemas en tu navegador. Automatizador del flujo de trabajo del navegador Athena - 
+Transforma el texto en flujos de trabajo automatizados con Athena, ¡el copiloto de tu navegador! Athena Search: búsqueda ultrarrápida basada en IA con citas fiables
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/athena?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### HitPaw Photo AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-photo-ai.webp" alt="HitPaw Photo AI">
+
+#### HitPaw Photo AI es una herramienta multifuncional de edición de fotografías con IA que integra funciones de mejora fotográfica, eliminación de objetos y fondos y genera arte con IA.
+[Visit](https://www.thataicollection.com/redirect/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HitPaw Photo AI es una herramienta multifuncional de edición de fotografías con IA que integra funciones de mejora fotográfica, eliminación de objetos y fondos y genera arte con IA.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Voxio
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voxio.webp" alt="Voxio">
 
@@ -180,88 +263,6 @@ Un asistente virtual que te ayude a gestionar tu día, o simplemente a alguien c
 Se trata de hacer que la conversación sea divertida y atractiva. Nuestro chatbot está equipado con un sofisticado motor de personalidad que le permite adaptarse a tu estilo de comunicación y responder de una manera natural y auténtica. 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### GPTHelp.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gpthelp.ai.webp" alt="GPTHelp.ai">
-
-#### ChatGPT para tu sitio web/Chatbot de atención al cliente con IA
-[Visit](https://www.thataicollection.com/redirect/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-GPTHelp.ai ofrece chatbots de IA sin código y fáciles de usar, entrenados en tus propias páginas web, archivos y preguntas frecuentes.
-
-GPTHelp.ai introduce una forma intuitiva de integrar la IA en tu sistema de atención al cliente. Nuestra plataforma te permite crear chatbots personalizados que se entrenan directamente a partir del contenido, los archivos y las preguntas frecuentes de tu sitio web.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Hour One
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hour-one.webp" alt="Hour One">
-
-#### Crea vídeos de IA para entrenar a cualquiera o explicar cualquier cosa: primera hora
-[Visit](https://www.thataicollection.com/redirect/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-El único generador de vídeo de IA con plantillas de vídeo personalizadas, presentadores de IA con diferentes acentos e idiomas y más. ¡Pruébalo gratis HOY!
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### VEED.IO
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO">
-
-#### VEED.IO - Editor de vídeo con IA - Rápido, en línea, gratuito
-
-[Visit](https://www.thataicollection.com/redirect/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Editor de vídeo con IA gratuito con conversión de texto a vídeo, avatares, subtítulos automáticos, traducciones de voz y mucho más. Graba, edita y comparte tus vídeos en línea con VEED.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Neuralframes
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuralframes.webp" alt="Neuralframes">
-
-#### Neural Frames: descubre el sintetizador del mundo visual.
-[Visit](https://www.thataicollection.com/redirect/neuralframes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Neural Frames: generador de animaciones de IA que crea vídeos alucinantes rápidamente, con automatización de imágenes cuadro a cuadro. Ideal para vídeos musicales, arte digital o animaciones de IA.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/neuralframes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Bearly Ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bearly-ai.webp" alt="Bearly Ai">
-
-#### Bearly hace que seas 10 veces más rápido al añadir una IA de última generación a tu flujo de trabajo. La lectura, la escritura y la creación de contenido están a un atajo de distancia.
-[Visit](https://www.thataicollection.com/redirect/bearly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Lee, escribe y aprende más rápido con la mejor IA del mundo, accesible con una tecla rápida directamente en tu escritorio. Disponible para Mac, Windows y Linux.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/bearly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1364,6 +1365,22 @@ Aumente las ventas y reduzca los costos de soporte
 <br />
 
 
+### Echowin
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-echowin.webp" alt="Echowin">
+
+#### Echowon: gestión de llamadas basada en inteligencia artificial con comprensión total del lenguaje natural y respuestas personalizadas para cada escenario.
+[Visit](https://www.thataicollection.com/redirect/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vive el futuro de las comunicaciones empresariales con Echowin. Tu agente de IA atenderá tus llamadas, preseleccionará a las personas que llaman, proporcionará servicio de atención al cliente y gestionará flujos de trabajo como las solicitudes de reembolso, las transferencias inteligentes de llamadas, la recopilación de información y mucho más. Es como contratar a ChatGPT para atender tus llamadas de teléfono.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Poised 2.0
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-poised-2.0.webp" alt="Poised 2.0">
 
@@ -1373,21 +1390,6 @@ Aumente las ventas y reduzca los costos de soporte
 Tu socio de comentarios sobre la IA en presentaciones, entrevistas y llamadas a los clientes. Comunícate de forma más eficaz en las reuniones con comentarios privados antes, durante y después de las reuniones en línea
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/poised-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### OneTone.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-onetone.ai.webp" alt="OneTone.ai">
-
-#### Ayudamos a los equipos de soporte a comunicarse de manera más rápida y precisa
-[Visit](https://www.thataicollection.com/redirect/onetone.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-OneTone.ai es una plataforma impulsada por IA que le brinda información valiosa, lo que le permite tomar decisiones informadas y brindar un servicio al cliente de primer nivel.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/onetone.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3100,18 +3102,15 @@ Más de 700 brillantes estilos artísticos y de retratos a tu disposición. Posi
 
 
 
-### Photo AI Studio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-ai-studio.webp" alt="Photo AI Studio">
+### HitPaw Photo AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-photo-ai.webp" alt="HitPaw Photo AI">
 
-#### Estudio fotográfico de IA: sesiones de fotos profesionales de IA con UNA SOLA SELFIE
-[Visit](https://www.thataicollection.com/redirect/photo-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### HitPaw Photo AI es una herramienta multifuncional de edición de fotografías con IA que integra funciones de mejora fotográfica, eliminación de objetos y fondos y genera arte con IA.
+[Visit](https://www.thataicollection.com/redirect/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Hazte un selfie de cerca y genera cientos de imágenes al instante. SOLO se necesita 1 foto.
-Tenemos una enorme variedad de estilos entre los que elegir. Estamos seguros de que encontrarás el perfecto para ti. Sin restricciones, sin paquetes. Tú eliges lo que quieres.
+HitPaw Photo AI es una herramienta multifuncional de edición de fotografías con IA que integra funciones de mejora fotográfica, eliminación de objetos y fondos y genera arte con IA.
 
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/photo-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

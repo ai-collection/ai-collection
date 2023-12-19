@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=988" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=987" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -153,6 +153,89 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### AI Emoji Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-emoji-generator.webp" alt="AI Emoji Generator">
+
+#### Генератор смайликов AI: преобразование текста в выразительные смайлики за считанные секунды.
+[Visit](https://www.thataicollection.com/redirect/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Генератор смайликов AI — это инновационный инструмент, который оживляет ваш текст, превращая слова в смайлики. 
+
+Просто введите любую фразу или мнение, и инструмент интеллектуально отбирает и генерирует релевантные смайлики, улучшая цифровую коммуникацию с помощью увлекательного визуального оформления. 
+
+Идеально подходит для придания пикантности сообщениям, публикациям в социальных сетях или любому цифровому контенту.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Boo AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-boo-ai.webp" alt="Boo AI">
+
+#### Минималистский помощник по письму на базе искусственного интеллекта · boo.ai
+[Visit](https://www.thataicollection.com/redirect/boo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Самый простой способ писать с помощью ИИ. Boo.ai — это очень простое приложение для письма, которое дает вам суперспособности. Boo.ai использует искусственный интеллект, чтобы помочь вам писать быстрее, чем когда-либо. Благодаря встроенному искусственному интеллекту вы сможете писать без лишних отвлекающих факторов, чтобы сделать процесс письма безболезненным.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/boo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Echowin
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-echowin.webp" alt="Echowin">
+
+#### Echowin — управление вызовами на основе искусственного интеллекта с полным пониманием естественного языка и персонализированными ответами для каждого сценария.
+[Visit](https://www.thataicollection.com/redirect/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Откройте для себя будущее деловых коммуникаций с echowin. Ваш агент по искусственному интеллекту будет отвечать на ваши телефонные звонки, предварительно проверять звонки, обеспечивать обслуживание клиентов и обрабатывать такие рабочие процессы, как запросы на возврат средств, интеллектуальный перевод звонков, сбор информации и многое другое. Это все равно, что нанимать ChatGPT для ответа на ваши телефонные звонки.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Athena
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-athena.webp" alt="Athena">
+
+#### Apac AI — дайте волю своему творческому духу. Мы демократизируем творчество с помощью мультимодального искусственного интеллекта.
+[Visit](https://www.thataicollection.com/redirect/athena?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Познакомьтесь с Athena — набором инструментов, которые помогут вам автоматизировать тысячи рабочих процессов простым языком.Расширение Athena Writer - 
+Легко автоматизируйте тысячи задач в своем браузере. Автоматизатор рабочих процессов в браузере Athena - 
+Преобразуйте текст в автоматизированные рабочие процессы с помощью Athena, второго пилота вашего браузера! Athena Search — молниеносный поиск на основе искусственного интеллекта с надежными ссылками
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/athena?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### HitPaw Photo AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-photo-ai.webp" alt="HitPaw Photo AI">
+
+#### HitPaw Photo AI — это многофункциональный инструмент для редактирования фотографий с искусственным интеллектом, который объединяет функции улучшения фотографий, удаления объектов и фона, а также создает искусственный интеллект.
+[Visit](https://www.thataicollection.com/redirect/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HitPaw Photo AI — это многофункциональный инструмент для редактирования фотографий с искусственным интеллектом, который объединяет функции улучшения фотографий, удаления объектов и фона, а также создает искусственный интеллект.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Voxio
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voxio.webp" alt="Voxio">
 
@@ -180,88 +263,6 @@ Voxio — инновационное приложение, преобразую�
 Все дело в том, чтобы сделать разговор увлекательным и увлекательным. Наш чат-бот оснащен сложным механизмом персонализации, который позволяет ему адаптироваться к вашему стилю общения и реагировать естественным и аутентичным образом. 
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### GPTHelp.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gpthelp.ai.webp" alt="GPTHelp.ai">
-
-#### ChatGPT для вашего сайта/Чат-бот для поддержки клиентов с искусственным интеллектом
-[Visit](https://www.thataicollection.com/redirect/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-GPTHelp.ai предлагает удобные в использовании чат-боты с искусственным интеллектом, не требующие написания кода, которые обучаются на ваших собственных веб-страницах, файлах и часто задаваемых вопросах.
-
-GPTHelp.ai предлагает интуитивно понятный способ интеграции искусственного интеллекта в вашу систему поддержки клиентов. Наша платформа позволяет создавать персонализированных чат-ботов, которые обучаются непосредственно на основе содержимого вашего веб-сайта, файлов и часто задаваемых вопросов.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Hour One
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hour-one.webp" alt="Hour One">
-
-#### Создавайте видеоролики с искусственным интеллектом, чтобы обучить любого или объяснить что угодно — час первый
-[Visit](https://www.thataicollection.com/redirect/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Единственный генератор видео с искусственным интеллектом с настраиваемыми шаблонами видео, презентаторами с искусственным интеллектом с разными акцентами и языками и многим другим. Попробуйте бесплатно СЕГОДНЯ!
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### VEED.IO
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO">
-
-#### VEED.IO - Редактор видео с искусственным интеллектом - быстро, онлайн, бесплатно
-
-[Visit](https://www.thataicollection.com/redirect/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Бесплатный видеоредактор с искусственным интеллектом с преобразованием текста в видео, аватарами, автосубтитрами, голосовыми переводами и многим другим. Записывайте, редактируйте и делитесь своими видео онлайн с помощью VEED.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Neuralframes
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuralframes.webp" alt="Neuralframes">
-
-#### Neural Frames — откройте для себя синтезатор для визуального мира.
-[Visit](https://www.thataicollection.com/redirect/neuralframes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Neural Frames — генератор анимации с искусственным интеллектом, который быстро создает триппи-видео с автоматизацией покадрового изображения. Отлично подходит для музыкальных клипов, цифрового искусства или анимации с искусственным интеллектом.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/neuralframes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Bearly Ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bearly-ai.webp" alt="Bearly Ai">
-
-#### Bearly ускоряет работу в 10 раз, добавляя в рабочий процесс современный искусственный интеллект. Чтение, письмо и создание контента — все это в одном кратчайшем режиме.
-[Visit](https://www.thataicollection.com/redirect/bearly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Читайте, пишите и учитесь быстрее благодаря лучшему в мире искусственному интеллекту, доступному с помощью горячей клавиши прямо на рабочем столе. Доступно для Mac, Windows и Linux.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/bearly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1364,6 +1365,22 @@ Descript — это простой, мощный и увлекательный �
 <br />
 
 
+### Echowin
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-echowin.webp" alt="Echowin">
+
+#### Echowin — управление вызовами на основе искусственного интеллекта с полным пониманием естественного языка и персонализированными ответами для каждого сценария.
+[Visit](https://www.thataicollection.com/redirect/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Откройте для себя будущее деловых коммуникаций с echowin. Ваш агент по искусственному интеллекту будет отвечать на ваши телефонные звонки, предварительно проверять звонки, обеспечивать обслуживание клиентов и обрабатывать такие рабочие процессы, как запросы на возврат средств, интеллектуальный перевод звонков, сбор информации и многое другое. Это все равно, что нанимать ChatGPT для ответа на ваши телефонные звонки.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Poised 2.0
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-poised-2.0.webp" alt="Poised 2.0">
 
@@ -1373,21 +1390,6 @@ Descript — это простой, мощный и увлекательный �
 Ваш партнер по обратной связи с искусственным интеллектом в презентациях, интервью, звонках клиентам. Общайтесь более эффективно на собраниях, оставляя личные отзывы до, во время и после онлайн-встреч
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/poised-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### OneTone.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-onetone.ai.webp" alt="OneTone.ai">
-
-#### Мы помогаем группам поддержки общаться быстрее и точнее
-[Visit](https://www.thataicollection.com/redirect/onetone.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-OneTone.ai — это платформа на базе искусственного интеллекта, которая дает ценную информацию, позволяющую принимать обоснованные решения и обеспечивать первоклассное обслуживание клиентов.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/onetone.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3101,18 +3103,15 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 
-### Photo AI Studio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-ai-studio.webp" alt="Photo AI Studio">
+### HitPaw Photo AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-photo-ai.webp" alt="HitPaw Photo AI">
 
-#### Photo AI Studio - профессиональные фотосессии с искусственным интеллектом только с одним селфи
-[Visit](https://www.thataicollection.com/redirect/photo-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### HitPaw Photo AI — это многофункциональный инструмент для редактирования фотографий с искусственным интеллектом, который объединяет функции улучшения фотографий, удаления объектов и фона, а также создает искусственный интеллект.
+[Visit](https://www.thataicollection.com/redirect/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Сделайте близкое селфи и мгновенно создайте сотни изображений. Нужна ТОЛЬКО 1 фотография.
-У нас есть огромный выбор стилей. Мы уверены, что вы найдете идеальный вариант для себя. Никаких ограничений, никаких пакетов. Вы выбираете то, что хотите.
+HitPaw Photo AI — это многофункциональный инструмент для редактирования фотографий с искусственным интеллектом, который объединяет функции улучшения фотографий, удаления объектов и фона, а также создает искусственный интеллект.
 
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/photo-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
