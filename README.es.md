@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=984" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=988" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -153,6 +153,89 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### Voxio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voxio.webp" alt="Voxio">
+
+#### Voxio: transforma tu voz en notas organizadas con facilidad
+[Visit](https://www.thataicollection.com/redirect/voxio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Voxio es una aplicación innovadora que transforma las grabaciones de audio en notas estructuradas. Ideal para conferencias, reuniones y notas personales, ofrece diseños personalizables y se integra a la perfección con las principales plataformas de toma de notas, lo que simplifica la organización y la recuperación de la información.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/voxio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### aiurbate
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dgdfg.webp" alt="aiurbate">
+
+#### aiurbate: el mejor compañero virtual diseñado para hacerte la vida más fácil y agradable. Inteligencia artificial de vanguardia y capacidades avanzadas de procesamiento del lenguaje natural.
+[Visit](https://www.thataicollection.com/redirect/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Un asistente virtual que te ayude a gestionar tu día, o simplemente a alguien con quien compartir tus ideas y sentimientos, aiurbate lo tiene todo.
+
+Se trata de hacer que la conversación sea divertida y atractiva. Nuestro chatbot está equipado con un sofisticado motor de personalidad que le permite adaptarse a tu estilo de comunicación y responder de una manera natural y auténtica. 
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### GPTHelp.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gpthelp.ai.webp" alt="GPTHelp.ai">
+
+#### ChatGPT para tu sitio web/Chatbot de atención al cliente con IA
+[Visit](https://www.thataicollection.com/redirect/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+GPTHelp.ai ofrece chatbots de IA sin código y fáciles de usar, entrenados en tus propias páginas web, archivos y preguntas frecuentes.
+
+GPTHelp.ai introduce una forma intuitiva de integrar la IA en tu sistema de atención al cliente. Nuestra plataforma te permite crear chatbots personalizados que se entrenan directamente a partir del contenido, los archivos y las preguntas frecuentes de tu sitio web.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Hour One
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hour-one.webp" alt="Hour One">
+
+#### Crea vídeos de IA para entrenar a cualquiera o explicar cualquier cosa: primera hora
+[Visit](https://www.thataicollection.com/redirect/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+El único generador de vídeo de IA con plantillas de vídeo personalizadas, presentadores de IA con diferentes acentos e idiomas y más. ¡Pruébalo gratis HOY!
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### VEED.IO
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO">
+
+#### VEED.IO - Editor de vídeo con IA - Rápido, en línea, gratuito
+
+[Visit](https://www.thataicollection.com/redirect/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Editor de vídeo con IA gratuito con conversión de texto a vídeo, avatares, subtítulos automáticos, traducciones de voz y mucho más. Graba, edita y comparte tus vídeos en línea con VEED.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Neuralframes
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuralframes.webp" alt="Neuralframes">
 
@@ -179,81 +262,6 @@ Lee, escribe y aprende más rápido con la mejor IA del mundo, accesible con una
 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/bearly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### 123GPT.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-123gpt.ai.webp" alt="123GPT.AI">
-
-#### 123GPT.AI - Atención al cliente automatizada con IA | ChatGPT en tus datos | Chatbots personalizados para tu empresa
-[Visit](https://www.thataicollection.com/redirect/123gpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-La IA impulsa las conversaciones para tu empresa y brinda soporte a tus clientes las 24 horas del día, los 7 días de la semana. Reduzca las consultas de soporte, mejore las ventas y reduzca los costes mediante el despliegue de un agente de soporte de IA personalizado que utilice los datos de su empresa. En 3 sencillos pasos, puedes disponer de una solución de chat de IA basada en tus datos.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/123gpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### GummySearch
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gummysearch.webp" alt="GummySearch">
-
-#### Investigación de clientes basada en la IA a través de Reddit. Descubre los problemas que resolver, la opinión sobre las soluciones actuales y las personas que quieren comprar tu producto.
-[Visit](https://www.thataicollection.com/redirect/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-GummySearch es una herramienta de investigación de audiencias basada en la IA para Reddit. Te permite investigar sistemáticamente de qué habla la gente y qué opinan de tu competencia y tu sector. Puedes usarlo para encontrar puntos débiles y soluciones que se puedan crear, ideas de contenido que crear o clientes potenciales de ventas con los que conectar. 
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### EmojiBrew
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-emojibrew.webp" alt="EmojiBrew">
-
-#### EmojiBrew: combinaciones de emojis para copiar y pegar
-[Visit](https://www.thataicollection.com/redirect/emojibrew?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Busca entre miles de combinaciones de emojis generadas por la IA para copiar y pegar ✂📋 Ahorra tiempo buscando cualquier palabra y encuentra la combinación correspondiente
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/emojibrew?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Free Text-To-Speech
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-free-text-to-speech.webp" alt="Free Text-To-Speech">
-
-#### Herramientas gratuitas de conversión de texto a voz en línea
-[Visit](https://www.thataicollection.com/redirect/free-text-to-speech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Hemos desarrollado una herramienta de síntesis de texto a voz en línea que convierte el texto en una voz humana natural y fluida, ofrece más de 100 altavoces para que elijas, admite la mezcla de varios idiomas, dialectos y chino-inglés, y puede configurar los parámetros de audio de forma flexible. Se utiliza ampliamente en la lectura de noticias, la navegación de viajes, el hardware inteligente y la transmisión de notificaciones.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/free-text-to-speech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Image Upscaler
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-image-upscaler.webp" alt="AI Image Upscaler">
-
-#### Ampliador de imágenes con IA: amplía y mejora tus fotos de forma gratuita
-[Visit](https://www.thataicollection.com/redirect/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Amplía tu imagen a 2 o 4 veces sin perder ninguna textura ni detalle con nuestra herramienta de IA. Utiliza nuestra herramienta de superresolución y da nueva vida a tus imágenes.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

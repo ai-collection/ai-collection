@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=984" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=988" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -153,6 +153,89 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### Voxio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voxio.webp" alt="Voxio">
+
+#### Voxio: с легкостью превращайте свой голос в организованные заметки
+[Visit](https://www.thataicollection.com/redirect/voxio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Voxio — инновационное приложение, преобразующее аудиозаписи в структурированные заметки. Оно идеально подходит для лекций, собраний и личных заметок. Оно предлагает настраиваемые макеты и легко интегрируется с основными платформами для создания заметок, упрощая организацию и поиск информации.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/voxio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### aiurbate
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dgdfg.webp" alt="aiurbate">
+
+#### aiurbate — идеальный виртуальный компаньон, призванный сделать вашу жизнь проще и приятнее. Передовой искусственный интеллект и расширенные возможности обработки естественного языка.
+[Visit](https://www.thataicollection.com/redirect/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Виртуальный помощник, который поможет вам управлять своим днем, или просто кто-то, с кем можно поделиться своими мыслями и чувствами, aurbate поможет вам.
+
+Все дело в том, чтобы сделать разговор увлекательным и увлекательным. Наш чат-бот оснащен сложным механизмом персонализации, который позволяет ему адаптироваться к вашему стилю общения и реагировать естественным и аутентичным образом. 
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### GPTHelp.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gpthelp.ai.webp" alt="GPTHelp.ai">
+
+#### ChatGPT для вашего сайта/Чат-бот для поддержки клиентов с искусственным интеллектом
+[Visit](https://www.thataicollection.com/redirect/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+GPTHelp.ai предлагает удобные в использовании чат-боты с искусственным интеллектом, не требующие написания кода, которые обучаются на ваших собственных веб-страницах, файлах и часто задаваемых вопросах.
+
+GPTHelp.ai предлагает интуитивно понятный способ интеграции искусственного интеллекта в вашу систему поддержки клиентов. Наша платформа позволяет создавать персонализированных чат-ботов, которые обучаются непосредственно на основе содержимого вашего веб-сайта, файлов и часто задаваемых вопросов.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Hour One
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hour-one.webp" alt="Hour One">
+
+#### Создавайте видеоролики с искусственным интеллектом, чтобы обучить любого или объяснить что угодно — час первый
+[Visit](https://www.thataicollection.com/redirect/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Единственный генератор видео с искусственным интеллектом с настраиваемыми шаблонами видео, презентаторами с искусственным интеллектом с разными акцентами и языками и многим другим. Попробуйте бесплатно СЕГОДНЯ!
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### VEED.IO
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO">
+
+#### VEED.IO - Редактор видео с искусственным интеллектом - быстро, онлайн, бесплатно
+
+[Visit](https://www.thataicollection.com/redirect/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Бесплатный видеоредактор с искусственным интеллектом с преобразованием текста в видео, аватарами, автосубтитрами, голосовыми переводами и многим другим. Записывайте, редактируйте и делитесь своими видео онлайн с помощью VEED.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Neuralframes
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuralframes.webp" alt="Neuralframes">
 
@@ -179,81 +262,6 @@ Neural Frames — генератор анимации с искусственн�
 
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/bearly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### 123GPT.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-123gpt.ai.webp" alt="123GPT.AI">
-
-#### 123GPT.AI — автоматизированная поддержка клиентов с помощью искусственного интеллекта | ChatGPT на ваших данных | Индивидуальные чат-боты для вашего бизнеса
-[Visit](https://www.thataicollection.com/redirect/123gpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Искусственный интеллект помогает вашему бизнесу вести разговоры, обеспечивая круглосуточную поддержку ваших клиентов. Сократите количество запросов в службу поддержки, увеличьте продажи и сократите расходы, развернув персонализированного агента по поддержке искусственного интеллекта, обученного работе с вашими бизнес-данными. За три простых шага вы можете обучить работу чата с искусственным интеллектом на основе ваших данных.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/123gpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### GummySearch
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gummysearch.webp" alt="GummySearch">
-
-#### Исследование клиентов на основе искусственного интеллекта с помощью Reddit. Узнайте о проблемах, которые необходимо решить, об отношении текущих решений и о людях, которые хотят купить ваш продукт.
-[Visit](https://www.thataicollection.com/redirect/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-GummySearch — это инструмент для исследования аудитории Reddit на основе искусственного интеллекта. Он позволяет систематически изучать, о чем говорят люди и как они относятся к вашим конкурентам и вашей отрасли. Вы можете использовать его для поиска проблемных мест и решений, которые нужно найти, идей для создания контента или потенциальных клиентов, с которыми можно связаться. 
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### EmojiBrew
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-emojibrew.webp" alt="EmojiBrew">
-
-#### EmojiBrew - комбинации смайликов для копирования и вставки
-[Visit](https://www.thataicollection.com/redirect/emojibrew?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ищите тысячи комбинаций смайликов, созданных искусственным интеллектом, для копирования и вставки ✂📋 Экономьте время, ища любое слово и найдите подходящую комбинацию
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/emojibrew?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Free Text-To-Speech
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-free-text-to-speech.webp" alt="Free Text-To-Speech">
-
-#### Бесплатные инструменты онлайн-конвертации текста в речь
-[Visit](https://www.thataicollection.com/redirect/free-text-to-speech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Мы разработали онлайн-инструмент для синтеза текста в речь, который преобразует текст в естественный и плавный человеческий голос, предоставляет на ваш выбор более 100 динамиков, поддерживает многоязычное, многодиалектное и китайско-английское микширование, а также может гибко настраивать параметры звука. Он широко используется для чтения новостей, навигации по путешествиям, интеллектуального оборудования и трансляции уведомлений.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/free-text-to-speech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Image Upscaler
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-image-upscaler.webp" alt="AI Image Upscaler">
-
-#### AI Image Upscaler - увеличивайте и улучшайте свои фотографии бесплатно
-[Visit](https://www.thataicollection.com/redirect/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Увеличьте изображение в 2 или 4 раза без потери текстур и деталей с помощью нашего инструмента искусственного интеллекта. Воспользуйтесь нашим инструментом сверхвысокого разрешения и вдохните новую жизнь в свои изображения.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
