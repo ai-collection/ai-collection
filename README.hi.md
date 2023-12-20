@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=988" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=989" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -51,6 +51,19 @@
     <h5>ऊपर उठाता है</h5>
     <p>एआई संग्रह के शीर्ष चयन हैं</p>
 </div>
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI" border="0"/>
+    </a>
+    <h4>AI वीडियो ट्रांसलेशन, सबटाइटल जनरेशन और ट्रांसलेशन, टेक्स्ट-टू-स्पीच और वॉइस क्लोनिंग - मुफ़्त में आज़माएं</h4>
+    <p>एआई-संचालित मुफ्त वीडियो अनुवाद, डबिंग, वॉइस क्लोनिंग और टेक्स्ट-टू-स्पीच सेवाएं। हमारे साथ 30+ भाषाओं में अपने दर्शकों के साइज़ को आसानी से 10 गुना तक स्केल करें!</p>
+    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>VideoDubber AI के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -153,6 +166,71 @@
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
 
+### VideoDubber AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI">
+
+#### AI वीडियो ट्रांसलेशन, सबटाइटल जनरेशन और ट्रांसलेशन, टेक्स्ट-टू-स्पीच और वॉइस क्लोनिंग - मुफ़्त में आज़माएं
+[Visit](https://www.thataicollection.com/redirect/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+एआई-संचालित मुफ्त वीडियो अनुवाद, डबिंग, वॉइस क्लोनिंग और टेक्स्ट-टू-स्पीच सेवाएं। हमारे साथ 30+ भाषाओं में अपने दर्शकों के साइज़ को आसानी से 10 गुना तक स्केल करें!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Girlfriend GPT - NSFW AI Chatbots
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
+
+#### हमारे डरावने तेज़ NSFW AI कैरेक्टर इंजन के साथ मुफ़्त में चैट करना शुरू करें। चंचल, मददगार, हमारे 7500+ AI सेक्सटिंग कैरेक्टर्स को यह समझ में आया। बिना सेंसर किया हुआ AI, कोई फ़ैसला नहीं। तुम कंट्रोल में हो।
+[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+डोमिनेंट से लेकर विनम्र और उससे आगे तक कई तरह की विविधताएं। 24/7 एआई सेक्सटिंग और मसालेदार चैट के लिए अभी साइन इन करें, जिससे तुम्हारी सांसें फूल जाएँगी।
+
+तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### HelloScribe
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-helloscribe.webp" alt="HelloScribe">
+
+#### हैलोस्क्राइब: तुम्हारा ऑटोनॉमस रीज़निंग इंजन।
+
+[Visit](https://www.thataicollection.com/redirect/helloscribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HelloScribe, प्रोफ़ेशनल्स के लिए ऑटोनॉमस रीज़निंग इंजन है। अपना सर्वश्रेष्ठ काम करो, सहजता से। 
+हमारा एआई रीज़निंग इंजन तुम्हारे विचारों को आगे बढ़ाने और अच्छा काम करने में मदद करता है। बस अपना लक्ष्य तय करो और जादू को आगे बढ़ने दो।
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/helloscribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### SummerEyes
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-summereyes.webp" alt="SummerEyes">
+
+#### Summereyes: तुम्हारे ब्राउज़र में AI द्वारा संचालित सारांश
+[Visit](https://www.thataicollection.com/redirect/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Summereyes - इंटरनेट पर मौजूद किसी भी टेक्स्ट को एक क्लिक में सारांशित करें। मुद्दे पर पहुँचो। तेज़। एक एकीकृत, स्वचालित टूल के साथ अपनी उत्पादकता को टर्बोचार्ज करें, जिससे तुम ज़्यादा जानकारी, और तेज़ी से प्रोसेस कर सकते हो। लेखों से लेकर ईमेल तक, बीएस के बारे में जानकारी दें और पता करें कि क्या ज़रूरी है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI Emoji Generator
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-emoji-generator.webp" alt="AI Emoji Generator">
 
@@ -198,71 +276,6 @@ AI के ज़रिए लिखने का सबसे आसान त�
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Athena
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-athena.webp" alt="Athena">
-
-#### Apac AI - अपने क्रिएटर स्पिरिट को उजागर करें। हम मल्टी-मोडैलिटी एआई के ज़रिए क्रिएशन का लोकतंत्रीकरण करते हैं।
-[Visit](https://www.thataicollection.com/redirect/athena?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-एथेना से मिलें - आसान भाषा में हज़ारों वर्कफ़्लो को ऑटोमेट करने में तुम्हारी मदद करने के लिए कई टूल। एथेना राइटर एक्सटेंशन - 
-अपने ब्राउज़र में हज़ारों टास्क को आसानी से स्वचालित करें। एथेना ब्राउज़र वर्कफ़्लो ऑटोमेटर - 
-एथेना के साथ टेक्स्ट को स्वचालित वर्कफ़्लो में ट्रांसफ़ॉर्म करें, तुम्हारा ब्राउज़र सह-पायलट है! एथेना सर्च - भरोसेमंद उद्धरणों के साथ एआई-संचालित बहुत तेज़ खोज
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/athena?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### HitPaw Photo AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-photo-ai.webp" alt="HitPaw Photo AI">
-
-#### HitPaw Photo AI एक मल्टी-फ़ंक्शनल AI फ़ोटो एडिटिंग टूल है, जो फ़ोटो एन्हांसमेंट, ऑब्जेक्ट और बैकग्राउंड हटाने के फंक्शन को एकीकृत करता है और AI आर्ट जेनरेट करता है।
-[Visit](https://www.thataicollection.com/redirect/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HitPaw Photo AI एक मल्टी-फ़ंक्शनल AI फ़ोटो एडिटिंग टूल है, जो फ़ोटो एन्हांसमेंट, ऑब्जेक्ट और बैकग्राउंड हटाने के फंक्शन को एकीकृत करता है और AI आर्ट जेनरेट करता है।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Voxio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voxio.webp" alt="Voxio">
-
-#### Voxio: आसानी से अपनी आवाज़ को व्यवस्थित नोट्स में ट्रांसफ़ॉर्म करें
-[Visit](https://www.thataicollection.com/redirect/voxio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Voxio एक अभिनव ऐप है, जो ऑडियो रिकॉर्डिंग को स्ट्रक्चर्ड नोट्स में बदलता है। व्याख्यान, मीटिंग, और व्यक्तिगत मेमो के लिए आदर्श, यह कस्टमाइज़ किए जा सकने वाले लेआउट प्रदान करता है और प्रमुख नोट लेने वाले प्लेटफ़ॉर्म के साथ मूल रूप से इंटीग्रेट किया जाता है, जिससे संगठन को सरल बनाया जाता है और जानकारी पुनर्प्राप्त की जाती है।
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/voxio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### aiurbate
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dgdfg.webp" alt="aiurbate">
-
-#### एयरबेट - एक बेहतरीन वर्चुअल साथी जिसे तुम्हारे जीवन को आसान और ज़्यादा आनंददायक बनाने के लिए डिज़ाइन किया गया है। अत्याधुनिक आर्टिफिशियल इंटेलिजेंस और एडवांस नेचुरल लैंग्वेज प्रोसेसिंग क्षमताएं।
-[Visit](https://www.thataicollection.com/redirect/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-अपना दिन मैनेज करने में तुम्हारी मदद करने के लिए वर्चुअल असिस्टेंट या किसी ऐसे व्यक्ति के साथ जो अपने विचारों और भावनाओं को शेयर कर सके, एयरबेट ने तुम्हेंं इसके लिए पूरी जानकारी दी है।
-
-बातचीत को मज़ेदार और दिलचस्प बनाने के बारे में सब कुछ। हमारा चैटबोट एक बेहतरीन व्यक्तित्व इंजन से लैस है, जिससे वह तुम्हारी बातचीत करने की शैली के अनुकूल हो सकता है और इस तरह से प्रतिक्रिया दे सकता है, जो स्वाभाविक और प्रामाणिक लगता है। 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4373,6 +4386,21 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 
 ## अनुवाद और प्रतिलेख
 
+### VideoDubber AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI">
+
+#### AI वीडियो ट्रांसलेशन, सबटाइटल जनरेशन और ट्रांसलेशन, टेक्स्ट-टू-स्पीच और वॉइस क्लोनिंग - मुफ़्त में आज़माएं
+[Visit](https://www.thataicollection.com/redirect/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+एआई-संचालित मुफ्त वीडियो अनुवाद, डबिंग, वॉइस क्लोनिंग और टेक्स्ट-टू-स्पीच सेवाएं। हमारे साथ 30+ भाषाओं में अपने दर्शकों के साइज़ को आसानी से 10 गुना तक स्केल करें!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### TranslateVideo
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-translatevideo.webp" alt="TranslateVideo">
 
@@ -4467,21 +4495,6 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 <br />
 
 
-
-
-### Snipd Podcast Summaries
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-snipd-podcast-summaries.webp" alt="Snipd Podcast Summaries">
-
-#### पॉडकास्ट में ज्ञान अनलॉक करें - Snipd
-[Visit](https://www.thataicollection.com/redirect/snipd-podcast-summaries?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-हाइलाइट खोजें अपने पसंद के पॉडकास्ट से सबसे अच्छी हाइलाइट सुनें और पूरे एपिसोड में गोता लगाएँ
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/snipd-podcast-summaries?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 

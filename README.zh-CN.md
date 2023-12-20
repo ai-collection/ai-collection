@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=988" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=989" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -51,6 +51,19 @@
     <h5>热门精选</h5>
     <p>AI Collection 的首选是</p>
 </div>
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI" border="0"/>
+    </a>
+    <h4>AI 视频翻译、字幕生成和翻译、文字转语音和语音克隆-免费试用</h4>
+    <p>由人工智能驱动的免费视频翻译、配音、语音克隆和文字转语音服务。和我们一起轻松扩展到 30 多种语言，将受众规模扩大到 10 倍！</p>
+    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 VideoDubber AI</b></a>
+    <br />
+</div>
+
+<br>
+
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -153,6 +166,71 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### VideoDubber AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI">
+
+#### AI 视频翻译、字幕生成和翻译、文字转语音和语音克隆-免费试用
+[Visit](https://www.thataicollection.com/redirect/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+由人工智能驱动的免费视频翻译、配音、语音克隆和文字转语音服务。和我们一起轻松扩展到 30 多种语言，将受众规模扩大到 10 倍！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Girlfriend GPT - NSFW AI Chatbots
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
+
+#### 使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。
+[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。
+
+今天只需点击一下即可实现您最疯狂的梦想！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### HelloScribe
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-helloscribe.webp" alt="HelloScribe">
+
+#### HelloScribe：你的自主推理引擎。
+
+[Visit](https://www.thataicollection.com/redirect/helloscribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HelloScribe 是面向专业人士的自主推理引擎。毫不费力地把工作做到最好。 
+我们的 AI 推理引擎可以帮助你的想法流动，让出色的工作成为现实。只需设定目标，然后让魔法展开。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/helloscribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### SummerEyes
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-summereyes.webp" alt="SummerEyes">
+
+#### Summereyes：浏览器中的人工智能摘要
+[Visit](https://www.thataicollection.com/redirect/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Summereyes-一键汇总互联网上的任何文本。切入正题。快速。使用集成的自动化工具提高您的生产力，该工具可让您更快地处理更多信息。从文章到电子邮件，浏览BS，找出重要内容。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### AI Emoji Generator
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-emoji-generator.webp" alt="AI Emoji Generator">
 
@@ -198,71 +276,6 @@ AI 表情符号生成器是一款创新工具，可通过将单词转换为表�
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Athena
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-athena.webp" alt="Athena">
-
-#### Apac AI-释放你的创造者精神。我们通过多模态人工智能实现创作民主化。
-[Visit](https://www.thataicollection.com/redirect/athena?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-认识雅典娜——一套工具可帮助你用简单的语言自动化 1000 个工作流程。Athena Writer Extension- 
-在浏览器中无缝自动执行 1000 个任务。雅典娜浏览器工作流程自动化- 
-使用您的浏览器副驾驶 Athena 将文本转换为自动化工作流程！Athena Search-由人工智能驱动的快速搜索，具有可靠的引文
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/athena?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### HitPaw Photo AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-photo-ai.webp" alt="HitPaw Photo AI">
-
-#### HitPaw Photo AI 是一款多功能 AI 照片编辑工具，它集成了照片增强、物体和背景去除功能，并生成 AI 艺术作品。
-[Visit](https://www.thataicollection.com/redirect/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HitPaw Photo AI 是一款多功能 AI 照片编辑工具，它集成了照片增强、物体和背景去除功能，并生成 AI 艺术作品。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Voxio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voxio.webp" alt="Voxio">
-
-#### Voxio：轻松将您的声音转换为有条理的笔记
-[Visit](https://www.thataicollection.com/redirect/voxio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Voxio 是一款创新的应用程序，可将录音转换为结构化笔记。它是讲座、会议和个人备忘录的理想之选，它提供可自定义的布局并与主要的笔记平台无缝集成，简化了信息的组织和检索。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/voxio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### aiurbate
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dgdfg.webp" alt="aiurbate">
-
-#### aiurbate-终极虚拟伴侣，旨在让您的生活更轻松、更愉快。尖端的人工智能和先进的自然语言处理能力。
-[Visit](https://www.thataicollection.com/redirect/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-aiurbate是一位可以帮助您管理一天的虚拟助手，或者只是与您分享想法和感受的人，aiurbate可以满足您的需求。
-
-一切都是为了让对话变得有趣和引人入胜。我们的聊天机器人配备了复杂的个性引擎，使其能够适应您的沟通风格，并以自然而真实的方式做出回应。 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4373,6 +4386,21 @@ namewizard 是使用 AI 为您的下一个项目寻找完美业务和域名的�
 
 ## 翻译和成绩单
 
+### VideoDubber AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI">
+
+#### AI 视频翻译、字幕生成和翻译、文字转语音和语音克隆-免费试用
+[Visit](https://www.thataicollection.com/redirect/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+由人工智能驱动的免费视频翻译、配音、语音克隆和文字转语音服务。和我们一起轻松扩展到 30 多种语言，将受众规模扩大到 10 倍！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### TranslateVideo
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-translatevideo.webp" alt="TranslateVideo">
 
@@ -4463,21 +4491,6 @@ Rephrasely 使用最先进的 AI 为我们提供的 18 种（12 种免费和 6 �
 Stork 帮助团队改善沟通和生产力。它是混合和远程团队的商务信使，可自动记录和转录所有会议和电话。为异步后大流行世界而制作，并由人工智能辅助。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/graphic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Snipd Podcast Summaries
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-snipd-podcast-summaries.webp" alt="Snipd Podcast Summaries">
-
-#### 解锁播客中的知识 - Snipd
-[Visit](https://www.thataicollection.com/redirect/snipd-podcast-summaries?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-发现亮点收听您喜爱的播客中的最佳亮点并深入了解整集
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/snipd-podcast-summaries?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

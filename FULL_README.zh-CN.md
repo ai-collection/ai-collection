@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=988" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=989" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -51,6 +51,19 @@
     <h5>热门精选</h5>
     <p>AI Collection 的首选是</p>
 </div>
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI" border="0"/>
+    </a>
+    <h4>AI 视频翻译、字幕生成和翻译、文字转语音和语音克隆-免费试用</h4>
+    <p>由人工智能驱动的免费视频翻译、配音、语音克隆和文字转语音服务。和我们一起轻松扩展到 30 多种语言，将受众规模扩大到 10 倍！</p>
+    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 VideoDubber AI</b></a>
+    <br />
+</div>
+
+<br>
+
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -826,12 +839,14 @@
 | [DetangleAI](https://www.thataicollection.com/redirect/detangleai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 总结任何播客、电子邮件、法律文档、书籍等，这样你就可以 专注于重要的事情。. | 文档聊天+任何文件或链接的摘要！与 PDF、YouTube 视频、播客、文章、电子表格等聊天！跳上候补名单。. | :grey_question: |
 | [Dewey](https://www.thataicollection.com/redirect/dewey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 与杜威一起做更多。从您的 AI 问责伙伴 Dewey 那里获取提醒并保持动力。. | 与友好的 AI 问责伙伴一起回到正轨。 Dewey 在这里帮助您保持井然有序和高效。有了短信提醒和目标追踪，就好像口袋里有了一个 AI 责任伙伴。. | :white_check_mark: |
 | [ELSA SPEECH ANALYZER](https://www.thataicollection.com/redirect/elsa-speech-analyzer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 一次提高您的英语水平。. | Speech Analyzer 是一款由 AI 驱动的会话英语流利度教练，它会聆听您的演讲并为您提供即时反馈。. | :white_check_mark: |
+| [HelloScribe](https://www.thataicollection.com/redirect/helloscribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | HelloScribe：你的自主推理引擎。. | HelloScribe 是面向专业人士的自主推理引擎。毫不费力地把工作做到最好。  我们的 AI 推理引擎可以帮助你的想法流动，让出色的工作成为现实。只需设定目标，然后让魔法展开。. | :grey_question: |
 | [Kinestex](https://www.thataicollection.com/redirect/kinestex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Kinestex-随时随地使用您的私人人工智能教练进行锻炼. | 体验 AI 的力量，增强您的锻炼效果。KinestEx 会跟踪您的运动并提供实时反馈，以确保您从健身计划中获得最大收益。Kinestex 可根据您的特定需求量身定制锻炼方案。无论您是想减肥、锻炼肌肉还是改善整体健康状况，KinestEx 都能满足您的需求。. | :grey_question: |
 | [Nightcap](https://www.thataicollection.com/redirect/nightcap---make-sense-of-your-dreams.?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Nightcap Guru-让你的梦想有意义。. | Nightcap 可以立即解释你的梦想，将它们保存到梦想日记中，并帮助你理解自己的生活。. | :white_check_mark: |
 | [Podwise](https://www.thataicollection.com/redirect/podwise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Podwise，面向播客听众的首选 AI 学习应用程序。. | 使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。. | :white_check_mark: |
 | [Pth.AI](https://www.thataicollection.com/redirect/pth.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Beyond Chat - AI Co-Pilot 助您实现业务目标. | Pth.AI 是一种人工智能工具，可通过提问和创建步骤来引导非专业业务用户实现他们的目标，从而更轻松地与人工智能系统进行交互。. | :white_check_mark: |
 | [Sidekick](https://www.thataicollection.com/redirect/sidekick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 介绍 Jigso 的 Sidekick - AI Slackbot，充当您自己的业务个人助理。. | 直接从您的 Slack 即时免费访问 ChatGPT 4.0 并享受其他功能，例如在 Slack 中询问您的组织应用程序问题、跟踪重要主题、设置提醒、查询文档和总结对话. | :grey_question: |
 | [SlideSpeak](https://www.thataicollection.com/redirect/slidespeak?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SlideSpeak - 使用 AI 总结 PowerPoint、Word、PDF. | SlideSpeak 是由 ChatGPT 支持的聊天机器人，可让您总结文档、提出问题等等。只需上传您的文件，您就可以使用聊天来询问任何问题。我们的 AI 速度非常快，您无需连接任何 OpenAI API 密钥。. | :white_check_mark: |
+| [SummerEyes](https://www.thataicollection.com/redirect/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Summereyes：浏览器中的人工智能摘要. | Summereyes-一键汇总互联网上的任何文本。切入正题。快速。使用集成的自动化工具提高您的生产力，该工具可让您更快地处理更多信息。从文章到电子邮件，浏览BS，找出重要内容。. | :white_check_mark: |
 | [Thegist](https://www.thataicollection.com/redirect/thegist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Thegist AI 总结了 Slack 话题和频道——了解要点. | TheGist Workspace-您的所有工作应用程序都集中在一个地方，由 AI 提供支持。智能统一收件箱、AI 洞察、个性化摘要、工作项目状态等等。. | :grey_question: |
 | [Ultimate Skill Extractor by Further](https://www.thataicollection.com/redirect/ultimate-skill-extractor-by-further?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 驱动的技能建议. | 借助 Skill Suggestion AI 的强大功能，我们可以帮助您从任何类型的文本中提取世界上急需的技能。试试看！我们通过使用我们的更多内容库中超过 100 万个在线可用内容来训练我们的 AI，这些内容来自不同类型的来源和主题。. | :grey_question: |
 | [Voxio](https://www.thataicollection.com/redirect/voxio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voxio：轻松将您的声音转换为有条理的笔记. | Voxio 是一款创新的应用程序，可将录音转换为结构化笔记。它是讲座、会议和个人备忘录的理想之选，它提供可自定义的布局并与主要的笔记平台无缝集成，简化了信息的组织和检索。. | :white_check_mark: |
@@ -1025,6 +1040,7 @@
 | [TranscriptLOL](https://www.thataicollection.com/redirect/transcriptlol?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 转录来自 1500 多个平台的任何音频或视频。. | 转录和翻译任何视频或播客。仅使用文字记录作为上下文提出问题并获得答案 - 没有幻觉！获取视频或播客的摘要以及讨论的所有主题的列表。适用于没有文字记录的视频。识别记录中的发言者。文字记录的准确性比 YouTube 或其他自动生成的字幕高得多！. | :white_check_mark: |
 | [TranslateVideo](https://www.thataicollection.com/redirect/translatevideo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Translate.Video-一键翻译视频. | 您的视频所需的一切都在一个应用程序中：生成字幕、翻译字幕、视频配音、AI 画外音、录制语音笔录等。\ n 别再浪费数周或数月了\ n 翻译和字幕视频的速度提高 100 倍\ n. | :grey_question: |
 | [VideoDub](https://www.thataicollection.com/redirect/videodub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 毫不费力地翻译和配音您的视频. | Videodub.io 是一个由人工智能驱动的平台，可简化为视频添加专业品质画外音的过程。它转录语音、翻译语音，并以您选择的语言添加听起来自然的画外音。对于寻求以最少的努力和无需手动操作在全球范围内扩展其影响力的内容创建者来说，这是一个必要的工具。. | :white_check_mark: |
+| [VideoDubber AI](https://www.thataicollection.com/redirect/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 视频翻译、字幕生成和翻译、文字转语音和语音克隆-免费试用. | 由人工智能驱动的免费视频翻译、配音、语音克隆和文字转语音服务。和我们一起轻松扩展到 30 多种语言，将受众规模扩大到 10 倍！. | :white_check_mark: |
 | [Voicetapp](https://www.thataicollection.com/redirect/voicetapp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voicetapp - 语音到文本转录. | 使用最新的语音识别技术准确转录您的音频和视频。. | :grey_question: |
 | [WhisperAPI](https://www.thataicollection.com/redirect/whisperapi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Whisper API 是一款经济实惠、易于使用的音频转录 API，由 OpenAI 的 Whisper 模型提供支持. | 立即登录 Whisper API 转录仪表板享受 30 分钟的免费音频转录！ 我们为您提供 API 密钥，允许您通过我们的 API 发送音频文件，并使用 OpenAI Whisper 转录该音频并将转录内容发回给您。. | :grey_question: |
 
@@ -1058,6 +1074,7 @@
 | [Docubro](https://www.thataicollection.com/redirect/docubro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 网站文档的 ChatGPT. | ChatGPT 用于您的文档，通过对话来探索内容，使其易于访问和使用. | :grey_question: |
 | [EmbedAI](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EmbeDai-根据您的数据进行训练的自定义 AI 聊天机器人. | 利用您的独特内容、支持文档、PDF、API 或数据库开发个性化的 AI 支持聊天机器人。只需一行代码即可轻松将其集成到您的网站中，以实时响应访问者的查询，从而最大限度地减少您收到的支持请求的数量。. | :white_check_mark: |
 | [Flot.ai](https://www.thataicollection.com/redirect/flot.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您所有应用程序和网站的人工智能副驾驶. | 在您键入或选择的任何位置使用 ChatGPT，无需复制粘贴。让人工智能一键编写、改进、释义、总结、翻译、解释或回复任何文本。. | :white_check_mark: |
+| [Girlfriend GPT - NSFW AI Chatbots](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。. | 从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。  今天只需点击一下即可实现您最疯狂的梦想！. | :white_check_mark: |
 | [GPTHelp.ai](https://www.thataicollection.com/redirect/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 适用于您的网站的 ChatGPT /AI 客户支持聊天机器人. | GPTHelp.ai 提供用户友好、无代码的 AI 聊天机器人，可根据您自己的网页、文件和常见问题解答进行训练。  GPTHelp.ai 引入了一种将人工智能集成到客户支持系统的直观方法。我们的平台允许您创建个性化的聊天机器人，这些聊天机器人直接根据您的网站内容、文件和常见问题进行训练。. | :grey_question: |
 | [HUMATA](https://www.thataicollection.com/redirect/humata?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Humata-ChatGPT 用于存储您的数据文件。提问比略读要快。. | 学习速度提高100倍，创建报告的速度提高100倍，分析法律文档的速度提高100倍，理解技术论文的速度提高100倍。立即提出问题并获得有关任何文件的答案。. | :white_check_mark: |
 | [Keepi](https://www.thataicollection.com/redirect/keepi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 胜过 WhatsApp。. | 随时随地访问当今最先进的 AI。 Keepi 将使您保持聪明并准备好相关知识。. | :white_check_mark: |
@@ -1398,7 +1415,6 @@
 | [Ebsynth](https://www.thataicollection.com/redirect/ebsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EbSynth - 通过在单帧上绘画来转换视频. | 您绘制一帧，EbSynth 将其传播到其余的素材。. | :grey_question: |
 | [Glasp](https://www.thataicollection.com/redirect/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Glasp：社交网络荧光笔. | 阅读时突出显示并添加注释。创建您的学习图书馆. | :grey_question: |
 | [GPTKey](https://www.thataicollection.com/redirect/gptkey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | GPTKey – 使用 GPT 键盘与 AI 一起书写. | 使用 GPT 自定义键盘扩展在任何应用程序中使用 AI 进行书写。. | :grey_question: |
-| [HelloScribe](https://www.thataicollection.com/redirect/helloscribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | HelloScribe：将您的最佳创意变为现实. | . | :grey_question: |
 | [Inworld](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Inworld AI – 创建 AI 角色并向他们提出任何问题. | 为游戏、元宇宙和商业应用程序创建 AI 角色和 NPC，或者只是为了好玩。您可以与 AI 角色谈论任何事情。它简单、免费且充满可能性。. | :white_check_mark: |
 | [LuciaAI](https://www.thataicollection.com/redirect/luciaai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 露西亚AI. | 露西亚使用最新最先进的人工智能技术。使用 Lucia，您可以比以往更快更好地书写。. | :grey_question: |
 | [Magic Mate](https://www.thataicollection.com/redirect/magic-mate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 魔法伴侣. | . | :grey_question: |
@@ -1432,7 +1448,6 @@
 | [Scene One](https://www.thataicollection.com/redirect/scene-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 适用于小说、短篇小说和商业的在线图书写作应用程序. | 使用我们直观的写作应用程序编写更多故事，花更少的时间学习复杂的功能。. | :grey_question: |
 | [Snackable AI](https://www.thataicollection.com/redirect/snackable-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 可当零食. | . | :grey_question: |
 | [SuenaGringo AI](https://www.thataicollection.com/redirect/suenagringo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 苏埃纳外国佬. | Escribe inglés con confianza y rompe las barreras. | :grey_question: |
-| [SummerEyes](https://www.thataicollection.com/redirect/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SummerEyes：浏览器中的人工智能摘要. | . | :grey_question: |
 | [Summon](https://www.thataicollection.com/redirect/summon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Figma：协作界面设计工具。. | 以团队的形式打造更好的产品。使用 Figma 在一处设计、制作原型并收集反馈。. | :grey_question: |
 | [Super Prompt](https://www.thataicollection.com/redirect/super-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 超级提示. | 为您的 AI 艺术创建画廊。下次有人要求查看您的所有艺术作品时，您将有地方可以指向他们。在一个地方展示你所有的人工智能艺术。. | :grey_question: |
 | [SUPERMACHINE](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SUPERMACHINE - 使用 AI 生成库存照片、艺术作品和图像. | SUPERMACHINE 使您能够使用最新的人工智能技术生成图像。. | :grey_question: |
