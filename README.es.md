@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=988" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=989" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -51,6 +51,19 @@
     <h5>Mejores opciones</h5>
     <p>Las mejores opciones de AI Collection son</p>
 </div>
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI" border="0"/>
+    </a>
+    <h4>Traducción de vídeo mediante IA, generación y traducción de subtítulos, conversión de texto a voz y clonación de voz. Pruébelo gratis</h4>
+    <p>Servicios gratuitos de traducción de vídeos, doblaje, clonación de voz y conversión de texto a voz con tecnología de IA. Amplía con nosotros a más de 30 idiomas y multiplica 10 veces el tamaño de tu audiencia sin esfuerzo.</p>
+    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con VideoDubber AI</b></a>
+    <br />
+</div>
+
+<br>
+
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -153,6 +166,71 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### VideoDubber AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI">
+
+#### Traducción de vídeo mediante IA, generación y traducción de subtítulos, conversión de texto a voz y clonación de voz. Pruébelo gratis
+[Visit](https://www.thataicollection.com/redirect/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Servicios gratuitos de traducción de vídeos, doblaje, clonación de voz y conversión de texto a voz con tecnología de IA. Amplía con nosotros a más de 30 idiomas y multiplica 10 veces el tamaño de tu audiencia sin esfuerzo.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Girlfriend GPT - NSFW AI Chatbots
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
+
+#### Empieza a chatear gratis con nuestro rápido y aterrador motor de personajes de IA de la NSFW. Divertido, útil, nuestros más de 7500 personajes de sexting con IA lo tienen. IA sin censura, sin juicio. Tú tienes el control.
+[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para recibir mensajes de texto con IA y charlas picantes las 24 horas del día, los 7 días de la semana
+
+¡Tus sueños más locos están a un clic de distancia hoy!
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### HelloScribe
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-helloscribe.webp" alt="HelloScribe">
+
+#### HelloScribe: tu motor de razonamiento autónomo.
+
+[Visit](https://www.thataicollection.com/redirect/helloscribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HelloScribe es el motor de razonamiento autónomo para profesionales. Haz tu mejor trabajo, sin esfuerzo. 
+Nuestro motor de razonamiento de IA ayuda a que tus ideas fluyan y a hacer un buen trabajo. Simplemente establece tu objetivo y deja que la magia se desarrolle.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/helloscribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### SummerEyes
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-summereyes.webp" alt="SummerEyes">
+
+#### Summereyes: resúmenes basados en la IA en tu navegador
+[Visit](https://www.thataicollection.com/redirect/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Summereyes: resume cualquier texto de Internet con un solo clic. Vaya al grano. Rápido. Aumente su productividad con una herramienta integrada y automatizada que le permite procesar mucha más información y con mucha más rapidez. Desde artículos hasta correos electrónicos, pasa por las tonterías y encuentra lo que importa.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI Emoji Generator
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-emoji-generator.webp" alt="AI Emoji Generator">
 
@@ -198,71 +276,6 @@ Vive el futuro de las comunicaciones empresariales con Echowin. Tu agente de IA 
 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Athena
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-athena.webp" alt="Athena">
-
-#### Apac AI: da rienda suelta a tu espíritu creador. Democratizamos la creación a través de la IA multimodal.
-[Visit](https://www.thataicollection.com/redirect/athena?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Conoce a Athena, un conjunto de herramientas que te ayudará a automatizar miles de flujos de trabajo en un lenguaje sencillo. Athena Writer Extension - 
-Automatiza miles de tareas sin problemas en tu navegador. Automatizador del flujo de trabajo del navegador Athena - 
-Transforma el texto en flujos de trabajo automatizados con Athena, ¡el copiloto de tu navegador! Athena Search: búsqueda ultrarrápida basada en IA con citas fiables
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/athena?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### HitPaw Photo AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-photo-ai.webp" alt="HitPaw Photo AI">
-
-#### HitPaw Photo AI es una herramienta multifuncional de edición de fotografías con IA que integra funciones de mejora fotográfica, eliminación de objetos y fondos y genera arte con IA.
-[Visit](https://www.thataicollection.com/redirect/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HitPaw Photo AI es una herramienta multifuncional de edición de fotografías con IA que integra funciones de mejora fotográfica, eliminación de objetos y fondos y genera arte con IA.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Voxio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voxio.webp" alt="Voxio">
-
-#### Voxio: transforma tu voz en notas organizadas con facilidad
-[Visit](https://www.thataicollection.com/redirect/voxio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Voxio es una aplicación innovadora que transforma las grabaciones de audio en notas estructuradas. Ideal para conferencias, reuniones y notas personales, ofrece diseños personalizables y se integra a la perfección con las principales plataformas de toma de notas, lo que simplifica la organización y la recuperación de la información.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/voxio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### aiurbate
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dgdfg.webp" alt="aiurbate">
-
-#### aiurbate: el mejor compañero virtual diseñado para hacerte la vida más fácil y agradable. Inteligencia artificial de vanguardia y capacidades avanzadas de procesamiento del lenguaje natural.
-[Visit](https://www.thataicollection.com/redirect/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Un asistente virtual que te ayude a gestionar tu día, o simplemente a alguien con quien compartir tus ideas y sentimientos, aiurbate lo tiene todo.
-
-Se trata de hacer que la conversación sea divertida y atractiva. Nuestro chatbot está equipado con un sofisticado motor de personalidad que le permite adaptarse a tu estilo de comunicación y responder de una manera natural y auténtica. 
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4372,6 +4385,21 @@ Convierte rápidamente tu texto en voz con un impresionante sonido realista y vo
 
 ## Traducción y Transcripción
 
+### VideoDubber AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI">
+
+#### Traducción de vídeo mediante IA, generación y traducción de subtítulos, conversión de texto a voz y clonación de voz. Pruébelo gratis
+[Visit](https://www.thataicollection.com/redirect/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Servicios gratuitos de traducción de vídeos, doblaje, clonación de voz y conversión de texto a voz con tecnología de IA. Amplía con nosotros a más de 30 idiomas y multiplica 10 veces el tamaño de tu audiencia sin esfuerzo.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### TranslateVideo
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-translatevideo.webp" alt="TranslateVideo">
 
@@ -4466,21 +4494,6 @@ Stork ayuda a los equipos a mejorar las comunicaciones y la productividad. Es un
 <br />
 
 
-
-
-### Snipd Podcast Summaries
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-snipd-podcast-summaries.webp" alt="Snipd Podcast Summaries">
-
-#### Desbloquea el conocimiento en podcasts - Snipd
-[Visit](https://www.thataicollection.com/redirect/snipd-podcast-summaries?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Descubre los momentos destacados Escucha los mejores momentos destacados de los podcasts que te encantan y sumérgete en el episodio completo
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/snipd-podcast-summaries?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 
