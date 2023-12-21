@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=989" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=992" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -51,6 +51,21 @@
     <h5>热门精选</h5>
     <p>AI Collection 的首选是</p>
 </div>
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO" border="0"/>
+    </a>
+    <h4>VEED.IO-人工智能视频编辑器-快速、在线、免费
+</h4>
+    <p>免费的 AI 视频编辑器，包含文字转视频、头像、自动字幕、语音翻译等。使用 VEED 在线录制、编辑和共享您的视频。
+</p>
+    <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 VEED.IO</b></a>
+    <br />
+</div>
+
+<br>
+
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -85,23 +100,6 @@
     <h4>undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude </h4>
     <p>Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人</p>
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Undress.Vip</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/ai-girlfriend-wtf/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF" border="0"/>
-    </a>
-    <h4>与 AI 女友一起潜入热门冒险之旅！</h4>
-    <p>与AI女孩一起体验惊险刺激的冒险并过上不同的生活！ 
-
-无论是在荒岛上生存，乘坐太空飞船在太空中航行，还是只是与自己的猫咪女郎随意聊天，每个人都能找到适合自己的东西。 
-
-潜入众多 AI 女孩的世界，立即开始玩吧！</p>
-    <a href="https://www.thataicollection.com/redirect/ai-girlfriend-wtf/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 AI Girlfriend WTF</b></a>
     <br />
 </div>
 
@@ -166,116 +164,117 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### VideoDubber AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI">
+### Scene One
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scene-one.webp" alt="Scene One">
 
-#### AI 视频翻译、字幕生成和翻译、文字转语音和语音克隆-免费试用
-[Visit](https://www.thataicollection.com/redirect/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 适用于小说、短篇小说和商业的在线图书写作应用程序
+[Visit](https://www.thataicollection.com/redirect/scene-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-由人工智能驱动的免费视频翻译、配音、语音克隆和文字转语音服务。和我们一起轻松扩展到 30 多种语言，将受众规模扩大到 10 倍！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
+免费的在线小说和书籍写作软件。Scene One 可在您的浏览器和包括手机在内的所有设备上运行！
 
 
-### Girlfriend GPT - NSFW AI Chatbots
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
-
-#### 使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。
-[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。
-
-今天只需点击一下即可实现您最疯狂的梦想！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/scene-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### HelloScribe
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-helloscribe.webp" alt="HelloScribe">
+### Botowski
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-botowski.webp" alt="Botowski">
 
-#### HelloScribe：你的自主推理引擎。
+#### 博托夫斯基是你的全新个人人工智能撰稿人！
+[Visit](https://www.thataicollection.com/redirect/botowski?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/helloscribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HelloScribe 是面向专业人士的自主推理引擎。毫不费力地把工作做到最好。 
-我们的 AI 推理引擎可以帮助你的想法流动，让出色的工作成为现实。只需设定目标，然后让魔法展开。
+人工智能内容生成器，为企业和非专业作家创建内容。从醒目的口号到电子邮件模板或博客内容。
 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/helloscribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/botowski?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### SummerEyes
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-summereyes.webp" alt="SummerEyes">
+### zap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zap.webp" alt="zap">
 
-#### Summereyes：浏览器中的人工智能摘要
-[Visit](https://www.thataicollection.com/redirect/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Summereyes-一键汇总互联网上的任何文本。切入正题。快速。使用集成的自动化工具提高您的生产力，该工具可让您更快地处理更多信息。从文章到电子邮件，浏览BS，找出重要内容。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
+#### Zap-停止写求职信。开始免费试用！
 
 
-### AI Emoji Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-emoji-generator.webp" alt="AI Emoji Generator">
+[Visit](https://www.thataicollection.com/redirect/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-#### AI 表情符号生成器：在几秒钟内将文本转换为富有表现力的表情符号。
-[Visit](https://www.thataicollection.com/redirect/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+带有 AI 的免费即时求职信。定制且成功。
+净利润的25％捐赠给非营利组织，这些非营利组织帮助以前被监禁的人找到有报酬的工作。
 
-AI 表情符号生成器是一款创新工具，可通过将单词转换为表情符号来使您的文字生动起来。 
-
-只需输入任何短语或情感，该工具就会智能地选择和生成相关的表情符号，通过有趣的视觉效果增强数字沟通。 
-
-非常适合为信息、社交媒体帖子或任何形式的数字内容增添趣味。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Boo AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-boo-ai.webp" alt="Boo AI">
+### Cover Letter AI App
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cover-letter-ai-app.webp" alt="Cover Letter AI App">
 
-#### 极简主义人工智能驱动的写作助手·boo.ai
-[Visit](https://www.thataicollection.com/redirect/boo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-用人工智能写作的最简单方法。Boo.ai 是一款非常简单的写作应用程序，可为你提供超能力。Boo.ai 使用 AI 来帮助你比以往任何时候都更快地写作。内置人工智能带来无干扰的写作体验，让写作变得轻松。
+#### Zap-停止写求职信。开始免费试用！
 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/boo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://www.thataicollection.com/redirect/cover-letter-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+带有 AI 的免费即时求职信。定制且成功。
+净利润的25％捐赠给非营利组织，这些非营利组织帮助以前被监禁的人找到有报酬的工作。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/cover-letter-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Echowin
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-echowin.webp" alt="Echowin">
+### AIKIt
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aikit.webp" alt="AIKIt">
 
-#### Echowin-基于人工智能的呼叫管理，具有完全的自然语言理解能力和针对每个场景的个性化响应。
-[Visit](https://www.thataicollection.com/redirect/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Aikit-你使用 GPT-3 的 Wordpress 人工智能
+[Visit](https://www.thataicollection.com/redirect/aikit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-使用 echowin 体验商业通信的未来。您的人工智能代理将接听您的电话，对来电者进行预先筛选，提供客户服务并处理退款申请、智能呼叫转接、收集信息等工作流程。这就像雇用 ChatGPT 来接听你的电话一样。
+AI 内容生成。避开 Writer 的方块
+获取有关主题所需的想法，然后让人工智能完成繁重的工作，以撰写有关这些想法的完整段落。
+你会惊讶于你的写作会变得多么容易！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aikit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+### Based Labs AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-based-labs-ai_.webp" alt="Based Labs AI">
+
+#### basedLabs 是生成 AI 视频的创意中心，使用户能够探索、创建和分享各种人工智能驱动的视频。
+[Visit](https://www.thataicollection.com/redirect/based-labs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+basedLabs提供了一个引人入胜的平台，用于探索和创建人工智能生成的视频，从抽象动画到故事丰富的内容。它为用户提供了制作和共享自己的人工智能视频的直观工具，从而促进了创新和创造力的社区。 
+该网站既是观看精彩的人工智能视频创作的目的地，也是通过人工智能技术表达个人艺术愿景的目的地。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/based-labs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Ava
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ava.webp" alt="Ava">
+
+#### Deaf & Hoh 的专业和基于人工智能的字幕-Ava
+[Visit](https://www.thataicollection.com/redirect/ava?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Ava 为视频会议（包括 Zoom 和 Meet）和面对面会议提供免费的实时字幕或转录。只需点击一下，Ava 即可使用人工智能和专业字幕精确地为任何会议、讲座、就诊或重要对话添加字幕，为聋人和听力障碍者提供全天候的沟通渠道。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ava?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -901,6 +900,23 @@ ChatSimple是一个专门在短短5分钟内为中小型企业（SMB）创建以
 <br />
 
 
+### PromptPal
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-promptpal.webp" alt="PromptPal">
+
+#### 搜索提示和机器人，然后将其与你最喜欢的 AI 一起使用。全部集中在一个地方。
+[Visit](https://www.thataicollection.com/redirect/promptpal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 PromptPal 释放人工智能的全部潜力，它是精心策划的提示和针对各种需求量身定制的复杂人工智能机器人的终极资源。无论你是参与营销、软件开发、平面设计还是产品管理，PromptPal都提供了一个广泛且可搜索的工具库，旨在优化你的AI交互。 
+ 
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/promptpal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### EmbedAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-embedai.webp" alt="EmbedAI">
 
@@ -925,21 +941,6 @@ ChatSimple是一个专门在短短5分钟内为中小型企业（SMB）创建以
 ChatBotKit 可帮助您使用自己的数据创建对话式 AI 聊天机器人，以便与您网站、Slack、Discord 和 WhatsApp 上的用户自然交流。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chatbotkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### SiteGPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sitegpt.webp" alt="SiteGPT">
-
-#### 每个网站的 ChatGPT
-[Visit](https://www.thataicollection.com/redirect/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用根据您的网站内容训练的个性化聊天机器人即时回答访问者的问题。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2302,16 +2303,18 @@ Rezi 是唯一一个使用领先的 AI 来自动化创建可雇用简历的各�
 <br />
 
 
-### Coverquick
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-coverquick.webp" alt="Coverquick">
+### zap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zap.webp" alt="zap">
 
-#### 毫不费力地将您的想法转化为引人入胜的内容。
-[Visit](https://www.thataicollection.com/redirect/coverquick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Zap-停止写求职信。开始免费试用！
 
-CoverQuick是一个革命性的平台，可轻松创建和管理内容。从您的数据中学习的人工智能。
-通过上传您的所有文档和资源，我们的平台能够从您的信息中学习，从而允许您创建个性化内容。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/coverquick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://www.thataicollection.com/redirect/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+带有 AI 的免费即时求职信。定制且成功。
+净利润的25％捐赠给非营利组织，这些非营利组织帮助以前被监禁的人找到有报酬的工作。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3116,15 +3119,16 @@ HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化�
 <br />
 
 
-### HitPaw Photo AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-photo-ai.webp" alt="HitPaw Photo AI">
+### FaceSwapper
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-faceswapper.webp" alt="FaceSwapper">
 
-#### HitPaw Photo AI 是一款多功能 AI 照片编辑工具，它集成了照片增强、物体和背景去除功能，并生成 AI 艺术作品。
-[Visit](https://www.thataicollection.com/redirect/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 释放笑声：FaceSwapper AI 如何变换面孔以获得搞笑乐趣！
 
-HitPaw Photo AI 是一款多功能 AI 照片编辑工具，它集成了照片增强、物体和背景去除功能，并生成 AI 艺术作品。
+[Visit](https://www.thataicollection.com/redirect/faceswapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+使用 FaceSwapper.AI（基于人工智能的尖端面部交换工具）释放您的创造力。只需点击几下即可毫不费力地交换面孔，将普通照片变成非凡的杰作。我们直观的界面使浏览变得轻而易举，确保即使是初学者也可以创建令人惊叹而有趣的脸部互换。探索无限的可能性，实现乐趣和艺术表达！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/faceswapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4577,6 +4581,23 @@ Stork 帮助团队改善沟通和生产力。它是混合和远程团队的商�
 
 ## 视频
 
+### VEED.IO
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO">
+
+#### VEED.IO-人工智能视频编辑器-快速、在线、免费
+
+[Visit](https://www.thataicollection.com/redirect/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+免费的 AI 视频编辑器，包含文字转视频、头像、自动字幕、语音翻译等。使用 VEED 在线录制、编辑和共享您的视频。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Vidnoz AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai.webp" alt="Vidnoz AI">
 
@@ -4667,21 +4688,6 @@ HitPaw Online Video Enhancer 是低分辨率视频的最佳解决方案，可以
 从您的长篇内容中自动创建简短的、高度共享的品牌视频
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pictory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AI Host
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-host.webp" alt="AI Host">
-
-#### 运行交互式直播
-[Visit](https://www.thataicollection.com/redirect/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LiveReacting 通过将预先录制的视频、游戏、倒计时和投票添加到您的流中，帮助您获得更多关注者和参与度。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

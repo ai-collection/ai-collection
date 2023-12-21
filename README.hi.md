@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=989" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=992" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -51,6 +51,21 @@
     <h5>ऊपर उठाता है</h5>
     <p>एआई संग्रह के शीर्ष चयन हैं</p>
 </div>
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO" border="0"/>
+    </a>
+    <h4>VEED.IO - AI वीडियो एडिटर - तेज़, ऑनलाइन, मुफ़्त
+</h4>
+    <p>टेक्स्ट से वीडियो, अवतार, ऑटो-सबटाइटल, वॉइस ट्रांसलेशन और बहुत कुछ के साथ मुफ़्त AI वीडियो एडिटर। VEED के साथ अपने वीडियो रिकॉर्ड करें, संपादित करें और उसे ऑनलाइन शेयर करें।
+</p>
+    <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>VEED.IO के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -85,23 +100,6 @@
     <h4>कपड़े उतारना.vip—2023 सबसे अच्छा 100% काम करने वाला अनड्रेस ऐ डीप न्यूड </h4>
     <p>Undress.vip, एक ज़बरदस्त एयर टूल, जो इस प्रगति में सबसे आगे है। undress.vip—2023 सबसे अच्छा 100% वर्किंग एआई डीपन्यूड और डीपफ़ेक टेलीग्राम अनड्रेस एयर बॉट्स</p>
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Undress.Vip के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/ai-girlfriend-wtf/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF" border="0"/>
-    </a>
-    <h4>AI गर्लफ्रेंड के साथ हॉट एडवेंचर्स में गोता लगाएँ!</h4>
-    <p>रोमांचक रोमांच का अनुभव करें और AI लड़कियों के साथ अलग जीवन जिएं! 
-
-चाहे किसी सुनसान द्वीप पर जीवित रहना हो, किसी अंतरिक्ष यान में अंतरिक्ष में नेविगेट करना हो, या बस अपनी ही बिल्ली वाली लड़की के साथ कैज़ुअल चैट का मजा लेना हो, हर किसी के लिए कुछ न कुछ है। 
-
-कई AI लड़कियों की दुनिया में गोता लगाएँ और अभी खेलना शुरू करें!</p>
-    <a href="https://www.thataicollection.com/redirect/ai-girlfriend-wtf/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>AI Girlfriend WTF के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -166,116 +164,117 @@
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
 
-### VideoDubber AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI">
+### Scene One
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scene-one.webp" alt="Scene One">
 
-#### AI वीडियो ट्रांसलेशन, सबटाइटल जनरेशन और ट्रांसलेशन, टेक्स्ट-टू-स्पीच और वॉइस क्लोनिंग - मुफ़्त में आज़माएं
-[Visit](https://www.thataicollection.com/redirect/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### उपन्यास, लघु कथाओं और कारोबार के लिए ऑनलाइन किताब लेखन ऐप्लिकेशन
+[Visit](https://www.thataicollection.com/redirect/scene-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-एआई-संचालित मुफ्त वीडियो अनुवाद, डबिंग, वॉइस क्लोनिंग और टेक्स्ट-टू-स्पीच सेवाएं। हमारे साथ 30+ भाषाओं में अपने दर्शकों के साइज़ को आसानी से 10 गुना तक स्केल करें!
+मुफ़्त ऑनलाइन नॉवेल और किताब लिखने का सॉफ़्टवेयर। सीन वन तुम्हारे ब्राउज़र में और हर डिवाइस पर काम करता है, जिसमें तुम्हारा फ़ोन भी शामिल है!
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/scene-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Botowski
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-botowski.webp" alt="Botowski">
+
+#### बोटोवस्की तुम्हारा नया निजी AI कॉपीराइटर है!
+[Visit](https://www.thataicollection.com/redirect/botowski?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI कॉन्टेंट जनरेटर जो बिज़नेस और ऐसे लोगों के लिए कॉन्टेंट बनाता है, जो पेशेवर लेखक नहीं हैं। आकर्षक स्लोगन से लेकर ईमेल टेम्प्लेट या ब्लॉग कॉन्टेंट तक।
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/botowski?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Girlfriend GPT - NSFW AI Chatbots
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
+### zap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zap.webp" alt="zap">
 
-#### हमारे डरावने तेज़ NSFW AI कैरेक्टर इंजन के साथ मुफ़्त में चैट करना शुरू करें। चंचल, मददगार, हमारे 7500+ AI सेक्सटिंग कैरेक्टर्स को यह समझ में आया। बिना सेंसर किया हुआ AI, कोई फ़ैसला नहीं। तुम कंट्रोल में हो।
-[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-डोमिनेंट से लेकर विनम्र और उससे आगे तक कई तरह की विविधताएं। 24/7 एआई सेक्सटिंग और मसालेदार चैट के लिए अभी साइन इन करें, जिससे तुम्हारी सांसें फूल जाएँगी।
-
-तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+#### ज़ैप - कवर लेटर लिखना बंद करो। मुफ़्त में शुरू करो!
 
 
+[Visit](https://www.thataicollection.com/redirect/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+एआई के साथ मुफ़्त, तत्काल कवर लेटर। अनुकूलित और सफल।
+कुल मुनाफ़े का 25% ग़ैर-लाभकारी संस्थाओं को दान किया जाता है, जो पहले जेल में बंद लोगों को फ़ायदेमंद रोज़गार खोजने में मदद करते हैं।
 
-### HelloScribe
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-helloscribe.webp" alt="HelloScribe">
-
-#### हैलोस्क्राइब: तुम्हारा ऑटोनॉमस रीज़निंग इंजन।
-
-[Visit](https://www.thataicollection.com/redirect/helloscribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HelloScribe, प्रोफ़ेशनल्स के लिए ऑटोनॉमस रीज़निंग इंजन है। अपना सर्वश्रेष्ठ काम करो, सहजता से। 
-हमारा एआई रीज़निंग इंजन तुम्हारे विचारों को आगे बढ़ाने और अच्छा काम करने में मदद करता है। बस अपना लक्ष्य तय करो और जादू को आगे बढ़ने दो।
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/helloscribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### SummerEyes
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-summereyes.webp" alt="SummerEyes">
+### Cover Letter AI App
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cover-letter-ai-app.webp" alt="Cover Letter AI App">
 
-#### Summereyes: तुम्हारे ब्राउज़र में AI द्वारा संचालित सारांश
-[Visit](https://www.thataicollection.com/redirect/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Summereyes - इंटरनेट पर मौजूद किसी भी टेक्स्ट को एक क्लिक में सारांशित करें। मुद्दे पर पहुँचो। तेज़। एक एकीकृत, स्वचालित टूल के साथ अपनी उत्पादकता को टर्बोचार्ज करें, जिससे तुम ज़्यादा जानकारी, और तेज़ी से प्रोसेस कर सकते हो। लेखों से लेकर ईमेल तक, बीएस के बारे में जानकारी दें और पता करें कि क्या ज़रूरी है।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+#### ज़ैप - कवर लेटर लिखना बंद करो। मुफ़्त में शुरू करो!
 
 
+[Visit](https://www.thataicollection.com/redirect/cover-letter-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+एआई के साथ मुफ़्त, तत्काल कवर लेटर। अनुकूलित और सफल।
+कुल मुनाफ़े का 25% ग़ैर-लाभकारी संस्थाओं को दान किया जाता है, जो पहले जेल में बंद लोगों को फ़ायदेमंद रोज़गार खोजने में मदद करते हैं।
 
-### AI Emoji Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-emoji-generator.webp" alt="AI Emoji Generator">
-
-#### AI इमोजी जेनरेटर: कुछ ही सेकंड में टेक्स्ट को एक्सप्रेसिव इमोजी में ट्रांसफ़ॉर्म करना।
-[Visit](https://www.thataicollection.com/redirect/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI इमोजी जेनरेटर एक नवोन्मेषी टूल है, जो शब्दों को इमोजी में बदलकर तुम्हारे टेक्स्ट को जीवंत बनाता है। 
-
-बस किसी भी वाक्यांश या भावना को इनपुट करें, और टूल समझदारी से प्रासंगिक इमोजी को चुनता है और जनरेट करता है, जिससे एक मजेदार, विज़ुअल ट्विस्ट के साथ डिजिटल संचार बढ़ता है। 
-
-मैसेज, सोशल मीडिया पोस्ट या किसी भी तरह के डिजिटल कॉन्टेंट की जानकारी देने के लिए बहुत बढ़िया।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/cover-letter-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Boo AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-boo-ai.webp" alt="Boo AI">
+### AIKIt
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aikit.webp" alt="AIKIt">
 
-#### मिनिमलिस्ट एआई-संचालित राइटिंग असिस्टेंट · boo.ai
-[Visit](https://www.thataicollection.com/redirect/boo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### ऐकिट - GPT-3 का इस्तेमाल करने वाला तुम्हारा WordPress AI असिस्टेंट
+[Visit](https://www.thataicollection.com/redirect/aikit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AI के ज़रिए लिखने का सबसे आसान तरीका। Boo.ai एक बहुत ही सरल लेखन ऐप है, जो तुम्हेंं सुपरपावर देता है। Boo.ai तुम्हेंं पहले से ज़्यादा तेज़ी से लिखने में मदद करने के लिए AI का इस्तेमाल करता है। लिखने को आसान बनाने के लिए बिल्ट-इन AI की मदद से लिखने का व्याकुलता से मुक्त अनुभव।
+एआई कॉन्टेंट जनरेशन। राइटर्स ब्लॉक से बचो
+अपने विषय पर तुम्हेंं ज़रूरत के विचार पाएँ और AI को उन पर पूरे पैराग्राफ लिखने के लिए कड़ी मेहनत करने दें।
+तुम्हेंं हैरानी होगी कि तुम्हारा लेखन कितना आसान हो जाएगा!
 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/boo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/aikit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Echowin
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-echowin.webp" alt="Echowin">
+### Based Labs AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-based-labs-ai_.webp" alt="Based Labs AI">
 
-#### इकोविन - एआई द्वारा संचालित कॉल प्रबंधन, जिसमें प्राकृतिक भाषा की पूरी समझ होती है और हर परिदृश्य के लिए वैयक्तिकृत प्रतिक्रियाएँ होती हैं।
-[Visit](https://www.thataicollection.com/redirect/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### BasedLabs AI वीडियो बनाने का एक क्रिएटिव हब है, जिससे यूज़र AI-संचालित विविध वीडियो एक्सप्लोर कर सकते हैं, बना सकते हैं और शेयर कर सकते हैं।
+[Visit](https://www.thataicollection.com/redirect/based-labs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-इकोविन के साथ बिज़नेस कम्युनिकेशंस के भविष्य का अनुभव करो। तुम्हारा AI एजेंट तुम्हारे फ़ोन कॉल, प्री-स्क्रीन कॉल, ग्राहक सेवा प्रदान करेगा और रिफ़ंड अनुरोध, स्मार्ट कॉल ट्रांसफ़र, जानकारी इकट्ठा करने आदि जैसे वर्कफ़्लो को हैंडल करेगा। यह अपने फ़ोन कॉल लेने के लिए ChatGPT को किराए पर लेने जैसा है।
+बेस्डलैब्स एब्स्ट्रैक्ट एनिमेशन से लेकर कहानी से भरपूर कॉन्टेंट तक, एआई-जनरेट किए गए वीडियो खोजने और बनाने के लिए एक आकर्षक प्लेटफ़ॉर्म प्रदान करता है। यह यूज़र को अपने AI वीडियो बनाने और शेयर करने के लिए सहज टूल प्रदान करता है, जिससे नवोन्मेष और रचनात्मकता के समुदाय को बढ़ावा मिलता है। 
+यह साइट उल्लेखनीय AI वीडियो बनाने और AI तकनीक के माध्यम से व्यक्तिगत कलात्मक नज़रिया व्यक्त करने, दोनों के लिए एक गंतव्य है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/based-labs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
 
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+### Ava
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ava.webp" alt="Ava">
+
+#### डेफ़ एंड होह के लिए पेशेवर और एआई-आधारित कैप्शन - अवा
+[Visit](https://www.thataicollection.com/redirect/ava?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+अवा वीडियो कॉन्फ़्रेंसिंग (ज़ूम और मीट सहित) और व्यक्तिगत मीटिंग के लिए मुफ़्त लाइव कैप्शन या ट्रांसक्रिप्शन देती है। एक क्लिक में, अवा किसी भी मीटिंग, लेक्चर, डॉक्टर से मुलाक़ात या महत्वपूर्ण बातचीत को सटीक रूप से कैप्शन देती है और पेशेवर कैप्शनर्स, जो बहरे और सुनने में मुश्किल लोगों के लिए 24/7 संचार ऐक्सेस प्रदान करते हैं।
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ava?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -901,6 +900,23 @@ ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छ
 
 
 
+### PromptPal
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-promptpal.webp" alt="PromptPal">
+
+#### प्रॉम्प्ट और बॉट्स खोजें, फिर अपने पसंदीदा AI के साथ उनका इस्तेमाल करें। सब एक ही जगह पर।
+[Visit](https://www.thataicollection.com/redirect/promptpal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PromptPal के साथ AI की पूरी क्षमता का लाभ उठाएं, जो सावधानी से तैयार किए गए प्रॉम्प्ट और विभिन्न ज़रूरतों के अनुरूप परिष्कृत AI बॉट्स के लिए तुम्हारा बेहतरीन संसाधन है। चाहे तुम मार्केटिंग, सॉफ़्टवेयर डेवलपमेंट, ग्राफ़िक डिज़ाइन या प्रॉडक्ट मैनेजमेंट में शामिल हो, PromptPal तुम्हारे AI इंटरैक्शन को ऑप्टिमाइज़ करने के लिए डिज़ाइन किए गए टूल का एक विस्तृत और खोजने योग्य रिपॉजिटरी प्रदान करता है। 
+ 
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/promptpal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### EmbedAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-embedai.webp" alt="EmbedAI">
 
@@ -929,21 +945,6 @@ ChatBotKit आपको अपनी वेबसाइट, स्लैक, ड
 <br />
 
 
-
-
-### SiteGPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sitegpt.webp" alt="SiteGPT">
-
-#### हर वेबसाइट के लिए ChatGPT
-[Visit](https://www.thataicollection.com/redirect/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-आपकी वेबसाइट की सामग्री पर प्रशिक्षित व्यक्तिगत चैटबॉट के साथ अपने आगंतुकों के सवालों का तुरंत जवाब दें।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 
@@ -2302,16 +2303,18 @@ Rezi एकमात्र रिज्यूमे प्लेटफॉर्�
 <br />
 
 
-### Coverquick
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-coverquick.webp" alt="Coverquick">
+### zap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zap.webp" alt="zap">
 
-#### तुम्हारे विचारों को आकर्षक सामग्री में आसानी से बदलना।
-[Visit](https://www.thataicollection.com/redirect/coverquick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### ज़ैप - कवर लेटर लिखना बंद करो। मुफ़्त में शुरू करो!
 
-CoverQuick आसानी से कंटेंट बनाने और प्रबंधन के लिए एक क्रांतिकारी मंच है। एआई जो तुम्हारे डेटा से सीखता है।
-तुम्हारे सभी दस्तावेज़ों और संसाधनों को अपलोड करके, हमारा प्लैटफ़ॉर्म तुम्हारी जानकारी से सीख सकता है, जिससे तुम वैयक्तिकृत सामग्री बना सकते हो।
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/coverquick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://www.thataicollection.com/redirect/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+एआई के साथ मुफ़्त, तत्काल कवर लेटर। अनुकूलित और सफल।
+कुल मुनाफ़े का 25% ग़ैर-लाभकारी संस्थाओं को दान किया जाता है, जो पहले जेल में बंद लोगों को फ़ायदेमंद रोज़गार खोजने में मदद करते हैं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3116,15 +3119,16 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 
 
-### HitPaw Photo AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-photo-ai.webp" alt="HitPaw Photo AI">
+### FaceSwapper
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-faceswapper.webp" alt="FaceSwapper">
 
-#### HitPaw Photo AI एक मल्टी-फ़ंक्शनल AI फ़ोटो एडिटिंग टूल है, जो फ़ोटो एन्हांसमेंट, ऑब्जेक्ट और बैकग्राउंड हटाने के फंक्शन को एकीकृत करता है और AI आर्ट जेनरेट करता है।
-[Visit](https://www.thataicollection.com/redirect/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### हंसी को उजागर करें: फ़ेसस्वैपर एआई किस तरह मजेदार मज़े के लिए चेहरे बदल देता है!
 
-HitPaw Photo AI एक मल्टी-फ़ंक्शनल AI फ़ोटो एडिटिंग टूल है, जो फ़ोटो एन्हांसमेंट, ऑब्जेक्ट और बैकग्राउंड हटाने के फंक्शन को एकीकृत करता है और AI आर्ट जेनरेट करता है।
+[Visit](https://www.thataicollection.com/redirect/faceswapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+FaceSwapper.AI, एआई-संचालित फ़ेस स्वैपिंग टूल, के ज़रिये अपनी रचनात्मकता को निखारें। बस कुछ ही क्लिक की मदद से चेहरे की अदला-बदली करके साधारण तस्वीरों को असाधारण मास्टरपीस में बदलें। हमारा सहज इंटरफ़ेस इसे नेविगेट करने में आसान बनाता है, यह सुनिश्चित करता है कि नौसिखिए भी शानदार और मजेदार फ़ेस स्वैप बना सकते हैं। मज़ेदार और कलात्मक अभिव्यक्ति के लिए अनंत संभावनाएं तलाशें!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/faceswapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4577,6 +4581,23 @@ TravelFeed के ब्लॉग नाम विचार जनरेटर �
 
 ## वीडियो
 
+### VEED.IO
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO">
+
+#### VEED.IO - AI वीडियो एडिटर - तेज़, ऑनलाइन, मुफ़्त
+
+[Visit](https://www.thataicollection.com/redirect/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+टेक्स्ट से वीडियो, अवतार, ऑटो-सबटाइटल, वॉइस ट्रांसलेशन और बहुत कुछ के साथ मुफ़्त AI वीडियो एडिटर। VEED के साथ अपने वीडियो रिकॉर्ड करें, संपादित करें और उसे ऑनलाइन शेयर करें।
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Vidnoz AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai.webp" alt="Vidnoz AI">
 
@@ -4667,21 +4688,6 @@ HitPaw ऑनलाइन वीडियो एन्हांसर कम र
 अपनी लंबी फ़ॉर्म सामग्री से स्वचालित रूप से लघु, अत्यधिक साझा करने योग्य ब्रांडेड वीडियो बनाएं
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/pictory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AI Host
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-host.webp" alt="AI Host">
-
-#### इंटरएक्टिव लाइव स्ट्रीम चलाएं
-[Visit](https://www.thataicollection.com/redirect/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LiveReacting आपकी स्ट्रीम में पहले से रिकॉर्ड किए गए वीडियो, गेम, काउंटडाउन और पोल जोड़कर आपको अधिक फ़ॉलोअर और सहभागिता प्राप्त करने में मदद करता है।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
