@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=989" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=992" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -51,6 +51,21 @@
     <h5>Mejores opciones</h5>
     <p>Las mejores opciones de AI Collection son</p>
 </div>
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO" border="0"/>
+    </a>
+    <h4>VEED.IO - Editor de vídeo con IA - Rápido, en línea, gratuito
+</h4>
+    <p>Editor de vídeo con IA gratuito con conversión de texto a vídeo, avatares, subtítulos automáticos, traducciones de voz y mucho más. Graba, edita y comparte tus vídeos en línea con VEED.
+</p>
+    <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con VEED.IO</b></a>
+    <br />
+</div>
+
+<br>
+
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -85,23 +100,6 @@
     <h4>undress.vip—2023 mejor vestido 100% funcional ai deepnude </h4>
     <p>Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023</p>
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Undress.Vip</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/ai-girlfriend-wtf/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF" border="0"/>
-    </a>
-    <h4>¡Sumérgete en grandes aventuras con AI Girlfriends!</h4>
-    <p>¡Vive emocionantes aventuras y vive vidas diferentes con chicas de IA! 
-
-Ya sea sobrevivir en una isla desierta, navegar por el espacio en una nave espacial o simplemente disfrutar de charlas informales con tu propia gata, hay algo para todos los gustos. 
-
-¡Sumérgete en el mundo de numerosas chicas de la IA y empieza a jugar ahora!</p>
-    <a href="https://www.thataicollection.com/redirect/ai-girlfriend-wtf/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con AI Girlfriend WTF</b></a>
     <br />
 </div>
 
@@ -166,116 +164,117 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
-### VideoDubber AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI">
+### Scene One
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scene-one.webp" alt="Scene One">
 
-#### Traducción de vídeo mediante IA, generación y traducción de subtítulos, conversión de texto a voz y clonación de voz. Pruébelo gratis
-[Visit](https://www.thataicollection.com/redirect/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Aplicación de escritura de libros en línea para novelas, cuentos y negocios
+[Visit](https://www.thataicollection.com/redirect/scene-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Servicios gratuitos de traducción de vídeos, doblaje, clonación de voz y conversión de texto a voz con tecnología de IA. Amplía con nosotros a más de 30 idiomas y multiplica 10 veces el tamaño de tu audiencia sin esfuerzo.
+Software gratuito en línea para escribir novelas y libros. Scene One funciona en el navegador y en todos los dispositivos, ¡incluido el teléfono!
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/scene-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Botowski
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-botowski.webp" alt="Botowski">
+
+#### ¡Botowski es tu nuevo redactor personal de IA!
+[Visit](https://www.thataicollection.com/redirect/botowski?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Generador de contenido de IA que crea contenido para empresas y personas que no son escritores profesionales. Desde lemas pegadizos hasta plantillas de correo electrónico o contenido de blogs.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/botowski?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Girlfriend GPT - NSFW AI Chatbots
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
+### zap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zap.webp" alt="zap">
 
-#### Empieza a chatear gratis con nuestro rápido y aterrador motor de personajes de IA de la NSFW. Divertido, útil, nuestros más de 7500 personajes de sexting con IA lo tienen. IA sin censura, sin juicio. Tú tienes el control.
-[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para recibir mensajes de texto con IA y charlas picantes las 24 horas del día, los 7 días de la semana
-
-¡Tus sueños más locos están a un clic de distancia hoy!
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+#### Zap: Deja de escribir cartas de presentación. ¡Empieza gratis!
 
 
+[Visit](https://www.thataicollection.com/redirect/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+Cartas de presentación gratuitas e instantáneas con IA. Personalizado y exitoso.
+El 25% de los beneficios netos se dona a organizaciones sin fines de lucro que ayudan a las personas que han estado encarceladas a encontrar un empleo gratificante.
 
-### HelloScribe
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-helloscribe.webp" alt="HelloScribe">
-
-#### HelloScribe: tu motor de razonamiento autónomo.
-
-[Visit](https://www.thataicollection.com/redirect/helloscribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HelloScribe es el motor de razonamiento autónomo para profesionales. Haz tu mejor trabajo, sin esfuerzo. 
-Nuestro motor de razonamiento de IA ayuda a que tus ideas fluyan y a hacer un buen trabajo. Simplemente establece tu objetivo y deja que la magia se desarrolle.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/helloscribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### SummerEyes
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-summereyes.webp" alt="SummerEyes">
+### Cover Letter AI App
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cover-letter-ai-app.webp" alt="Cover Letter AI App">
 
-#### Summereyes: resúmenes basados en la IA en tu navegador
-[Visit](https://www.thataicollection.com/redirect/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Summereyes: resume cualquier texto de Internet con un solo clic. Vaya al grano. Rápido. Aumente su productividad con una herramienta integrada y automatizada que le permite procesar mucha más información y con mucha más rapidez. Desde artículos hasta correos electrónicos, pasa por las tonterías y encuentra lo que importa.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+#### Zap: Deja de escribir cartas de presentación. ¡Empieza gratis!
 
 
+[Visit](https://www.thataicollection.com/redirect/cover-letter-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+Cartas de presentación gratuitas e instantáneas con IA. Personalizado y exitoso.
+El 25% de los beneficios netos se dona a organizaciones sin fines de lucro que ayudan a las personas que han estado encarceladas a encontrar un empleo gratificante.
 
-### AI Emoji Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-emoji-generator.webp" alt="AI Emoji Generator">
-
-#### Generador de emojis de IA: transforma el texto en emojis expresivos en segundos.
-[Visit](https://www.thataicollection.com/redirect/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-El generador de emojis de IA es una herramienta innovadora que da vida a tu texto al convertir las palabras en emojis. 
-
-Simplemente introduce cualquier frase o sentimiento y la herramienta seleccionará y generará de forma inteligente los emojis relevantes, lo que mejorará la comunicación digital con un toque visual y divertido. 
-
-Perfecto para condimentar mensajes, publicaciones en redes sociales o cualquier tipo de contenido digital.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/cover-letter-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Boo AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-boo-ai.webp" alt="Boo AI">
+### AIKIt
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aikit.webp" alt="AIKIt">
 
-#### Asistente de escritura minimalista con IA · boo.ai
-[Visit](https://www.thataicollection.com/redirect/boo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Aikit: tu asistente de IA de Wordpress con GPT-3
+[Visit](https://www.thataicollection.com/redirect/aikit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-La forma más sencilla de escribir con IA. Boo.ai es una aplicación de escritura hermosa y sencilla que te da superpoderes. Boo.ai utiliza la IA para ayudarte a escribir más rápido que nunca. Una experiencia de escritura sin distracciones con IA integrada para que escribir sea sencillo.
+GENERACIÓN DE CONTENIDO DE IA. Evitar el bloqueo del escritor
+Consigue las ideas que necesitas sobre tu tema y deja que la IA se encargue del trabajo pesado de escribir párrafos completos sobre ellas.
+¡Te sorprenderá lo fácil que será escribir!
 
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/boo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/aikit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Echowin
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-echowin.webp" alt="Echowin">
+### Based Labs AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-based-labs-ai_.webp" alt="Based Labs AI">
 
-#### Echowon: gestión de llamadas basada en inteligencia artificial con comprensión total del lenguaje natural y respuestas personalizadas para cada escenario.
-[Visit](https://www.thataicollection.com/redirect/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### BasedLabs es un centro creativo para la generación de vídeos de IA que permite a los usuarios explorar, crear y compartir diversos vídeos basados en la IA.
+[Visit](https://www.thataicollection.com/redirect/based-labs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Vive el futuro de las comunicaciones empresariales con Echowin. Tu agente de IA atenderá tus llamadas, preseleccionará a las personas que llaman, proporcionará servicio de atención al cliente y gestionará flujos de trabajo como las solicitudes de reembolso, las transferencias inteligentes de llamadas, la recopilación de información y mucho más. Es como contratar a ChatGPT para atender tus llamadas de teléfono.
+BasedLabs ofrece una atractiva plataforma para explorar y crear vídeos generados por la IA, desde animaciones abstractas hasta contenido rico en historias. Proporciona herramientas intuitivas para que los usuarios creen y compartan sus propios vídeos de IA, lo que fomenta una comunidad de innovación y creatividad. 
+Este sitio es un destino tanto para ver notables creaciones de vídeo de IA como para expresar una visión artística personal a través de la tecnología de IA.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/based-labs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
 
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+### Ava
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ava.webp" alt="Ava">
+
+#### Subtítulos profesionales y basados en la IA para sordos y hoh - Ava
+[Visit](https://www.thataicollection.com/redirect/ava?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Ava ofrece subtítulos o transcripciones en directo gratuitos para videoconferencias (incluidas Zoom y Meet) y reuniones presenciales. Con un solo clic, Ava subtitula con precisión cualquier reunión, clase, visita al médico o conversación importante mediante inteligencia artificial y subtituladores profesionales que proporcionan acceso a la comunicación las 24 horas del día, los 7 días de la semana para personas sordas y con problemas de audición.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/ava?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -901,6 +900,23 @@ ChatSimple es una plataforma que se especializa en crear chatbots orientados a l
 
 
 
+### PromptPal
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-promptpal.webp" alt="PromptPal">
+
+#### Busca indicaciones y bots y, luego, úsalos con tu IA favorita. Todo en un solo lugar.
+[Visit](https://www.thataicollection.com/redirect/promptpal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Da rienda suelta a todo el potencial de la IA con PromptPal, tu mejor recurso para obtener indicaciones meticulosamente seleccionadas y sofisticados bots de IA que se adaptan a una amplia gama de necesidades. Tanto si te dedicas al marketing, el desarrollo de software, el diseño gráfico o la gestión de productos, PromptPal ofrece un amplio repositorio de herramientas con capacidad de búsqueda diseñado para optimizar tus interacciones con la IA. 
+ 
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/promptpal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### EmbedAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-embedai.webp" alt="EmbedAI">
 
@@ -929,21 +945,6 @@ ChatBotKit lo ayuda a crear chatbots conversacionales de IA con sus propios dato
 <br />
 
 
-
-
-### SiteGPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sitegpt.webp" alt="SiteGPT">
-
-#### ChatGPT para cada sitio web
-[Visit](https://www.thataicollection.com/redirect/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Responda instantáneamente a las preguntas de sus visitantes con un chatbot personalizado entrenado en el contenido de su sitio web.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/sitegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 
@@ -2302,16 +2303,18 @@ Aplicamos automáticamente a todos los trabajos en plataformas como Linkedin, In
 <br />
 
 
-### Coverquick
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-coverquick.webp" alt="Coverquick">
+### zap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zap.webp" alt="zap">
 
-#### Transforma tus ideas en contenido atractivo sin esfuerzo.
-[Visit](https://www.thataicollection.com/redirect/coverquick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Zap: Deja de escribir cartas de presentación. ¡Empieza gratis!
 
-CoverQuick es una plataforma revolucionaria para crear y gestionar contenido sin esfuerzo. IA que aprende de tus datos.
-Al subir todos tus documentos y recursos, nuestra plataforma puede aprender de tu información y te permite crear contenido personalizado.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/coverquick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://www.thataicollection.com/redirect/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Cartas de presentación gratuitas e instantáneas con IA. Personalizado y exitoso.
+El 25% de los beneficios netos se dona a organizaciones sin fines de lucro que ayudan a las personas que han estado encarceladas a encontrar un empleo gratificante.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3115,15 +3118,16 @@ Más de 700 brillantes estilos artísticos y de retratos a tu disposición. Posi
 
 
 
-### HitPaw Photo AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-photo-ai.webp" alt="HitPaw Photo AI">
+### FaceSwapper
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-faceswapper.webp" alt="FaceSwapper">
 
-#### HitPaw Photo AI es una herramienta multifuncional de edición de fotografías con IA que integra funciones de mejora fotográfica, eliminación de objetos y fondos y genera arte con IA.
-[Visit](https://www.thataicollection.com/redirect/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Da rienda suelta a las risas: ¡Cómo la IA de FaceSwapper transforma los rostros para una diversión divertidísima!
 
-HitPaw Photo AI es una herramienta multifuncional de edición de fotografías con IA que integra funciones de mejora fotográfica, eliminación de objetos y fondos y genera arte con IA.
+[Visit](https://www.thataicollection.com/redirect/faceswapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Da rienda suelta a tu creatividad con FaceSwapper.AI, la vanguardista herramienta de intercambio de rostros basada en la IA. Transforma fotos normales en obras maestras extraordinarias intercambiando rostros sin esfuerzo con solo unos clics. Nuestra intuitiva interfaz facilita la navegación, lo que garantiza que incluso los principiantes puedan crear impresionantes e hilarantes cambios de rostros. ¡Explora infinitas posibilidades de expresión artística y divertida!
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/faceswapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4576,6 +4580,23 @@ Nuestra IA creará un plan personalizado para cualquier ciudad o lugar que le gu
 
 ## Video
 
+### VEED.IO
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO">
+
+#### VEED.IO - Editor de vídeo con IA - Rápido, en línea, gratuito
+
+[Visit](https://www.thataicollection.com/redirect/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Editor de vídeo con IA gratuito con conversión de texto a vídeo, avatares, subtítulos automáticos, traducciones de voz y mucho más. Graba, edita y comparte tus vídeos en línea con VEED.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Vidnoz AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai.webp" alt="Vidnoz AI">
 
@@ -4670,21 +4691,6 @@ Cree automáticamente videos de marca cortos y altamente compartibles a partir d
 <br />
 
 <br />
-
-
-### AI Host
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-host.webp" alt="AI Host">
-
-#### Ejecutar transmisiones en vivo interactivas
-[Visit](https://www.thataicollection.com/redirect/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LiveReacting lo ayuda a obtener más seguidores y participación al agregar videos pregrabados, juegos, cuentas regresivas y encuestas a su transmisión.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 
