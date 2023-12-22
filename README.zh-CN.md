@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=992" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=994" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -164,6 +164,39 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### VideoDubber AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI">
+
+#### AI 视频翻译、字幕生成和翻译、文字转语音和语音克隆-免费试用
+[Visit](https://www.thataicollection.com/redirect/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+由人工智能驱动的免费视频翻译、配音、语音克隆和文字转语音服务。和我们一起轻松扩展到 30 多种语言，将受众规模扩大到 10 倍！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Taplio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-taplio.webp" alt="Taplio">
+
+#### 由人工智能驱动的多合一LinkedIn工具。
+
+[Visit](https://www.thataicollection.com/redirect/taplio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Taplio帮助6200多位LinkedIn专业人士建立强大的个人品牌，吸引客户和机会。
+
+获取高性能内容、高级日程安排、深度分析和参与度生成器。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/taplio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Scene One
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scene-one.webp" alt="Scene One">
 
@@ -243,38 +276,6 @@ AI 内容生成。避开 Writer 的方块
 你会惊讶于你的写作会变得多么容易！
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aikit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Based Labs AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-based-labs-ai_.webp" alt="Based Labs AI">
-
-#### basedLabs 是生成 AI 视频的创意中心，使用户能够探索、创建和分享各种人工智能驱动的视频。
-[Visit](https://www.thataicollection.com/redirect/based-labs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-basedLabs提供了一个引人入胜的平台，用于探索和创建人工智能生成的视频，从抽象动画到故事丰富的内容。它为用户提供了制作和共享自己的人工智能视频的直观工具，从而促进了创新和创造力的社区。 
-该网站既是观看精彩的人工智能视频创作的目的地，也是通过人工智能技术表达个人艺术愿景的目的地。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/based-labs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Ava
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ava.webp" alt="Ava">
-
-#### Deaf & Hoh 的专业和基于人工智能的字幕-Ava
-[Visit](https://www.thataicollection.com/redirect/ava?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ava 为视频会议（包括 Zoom 和 Meet）和面对面会议提供免费的实时字幕或转录。只需点击一下，Ava 即可使用人工智能和专业字幕精确地为任何会议、讲座、就诊或重要对话添加字幕，为聋人和听力障碍者提供全天候的沟通渠道。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ava?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -870,6 +871,21 @@ AI 生成您主演的图片
 <br />
 
 
+### Chatsimple
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-achatsimple.webp" alt="Chatsimple">
+
+#### ChatGPT 商业聊天机器人让你变得简单
+[Visit](https://www.thataicollection.com/redirect/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ChatSimple是一个专门在短短5分钟内为中小型企业（SMB）创建以转化为导向的聊天机器人的平台。该平台侧重于三个关键功能：潜在客户生成、常见问题解答管理和资格预审问题处理。通过使中小型企业能够使用特定领域的专业知识构建自己的聊天机器人，
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### SiteSpeakAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sitespeakai.webp" alt="SiteSpeakAI">
 
@@ -885,15 +901,15 @@ AI 生成您主演的图片
 <br />
 
 
-### Chatsimple
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-achatsimple.webp" alt="Chatsimple">
+### HUMATA
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-humata.webp" alt="HUMATA">
 
-#### ChatGPT 商业聊天机器人让你变得简单
-[Visit](https://www.thataicollection.com/redirect/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Humata-ChatGPT 用于存储您的数据文件。提问比略读要快。
+[Visit](https://www.thataicollection.com/redirect/humata?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-ChatSimple是一个专门在短短5分钟内为中小型企业（SMB）创建以转化为导向的聊天机器人的平台。该平台侧重于三个关键功能：潜在客户生成、常见问题解答管理和资格预审问题处理。通过使中小型企业能够使用特定领域的专业知识构建自己的聊天机器人，
+学习速度提高100倍，创建报告的速度提高100倍，分析法律文档的速度提高100倍，理解技术论文的速度提高100倍。立即提出问题并获得有关任何文件的答案。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/humata?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -926,21 +942,6 @@ ChatSimple是一个专门在短短5分钟内为中小型企业（SMB）创建以
 利用您的独特内容、支持文档、PDF、API 或数据库开发个性化的 AI 支持聊天机器人。只需一行代码即可轻松将其集成到您的网站中，以实时响应访问者的查询，从而最大限度地减少您收到的支持请求的数量。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### ChatBotKit
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbotkit.webp" alt="ChatBotKit">
-
-#### 构建高级 AI 聊天机器人的最快方法
-[Visit](https://www.thataicollection.com/redirect/chatbotkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ChatBotKit 可帮助您使用自己的数据创建对话式 AI 聊天机器人，以便与您网站、Slack、Discord 和 WhatsApp 上的用户自然交流。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chatbotkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3044,6 +3045,24 @@ AutoPredict是第一款使用人工智能来预测汽车将持续多久的应用
 
 ## 照片和图像编辑
 
+### Vidnoz AI HEADSHOT GENERATOR
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
+
+#### 轻松轻松地创建专业的 AI 头像
+[Visit](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vidnoz AI Headshot Generator 是一款在线人工智能头像生成器，是一款革命性的工具
+无需昂贵的照片拍摄，即可将您的自拍照转换为高质量的头像。只是
+每天上传几张照片，让 Vidnoz 的人工智能算法发挥魔力，无缝融合
+面对各种专业背景和服装选择。 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Photoshift
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoshift.webp" alt="Photoshift">
 
@@ -3074,15 +3093,16 @@ HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化�
 <br />
 
 
-### Unrealme
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unrealme.webp" alt="Unrealme">
+### FaceSwapper
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-faceswapper.webp" alt="FaceSwapper">
 
-#### Unreal Me - 获取 AI 生成的你的图像
-[Visit](https://www.thataicollection.com/redirect/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 释放笑声：FaceSwapper AI 如何变换面孔以获得搞笑乐趣！
 
-获得令人惊叹的自己照片的步骤： 1. 付款。 2. 上传 - 阅读推荐并在有时间时上传您的照片（您的链接通过电子邮件发送）。 3. 等待 4. 分享。
+[Visit](https://www.thataicollection.com/redirect/faceswapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+使用 FaceSwapper.AI（基于人工智能的尖端面部交换工具）释放您的创造力。只需点击几下即可毫不费力地交换面孔，将普通照片变成非凡的杰作。我们直观的界面使浏览变得轻而易举，确保即使是初学者也可以创建令人惊叹而有趣的脸部互换。探索无限的可能性，实现乐趣和艺术表达！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/faceswapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3113,22 +3133,6 @@ HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化�
 超过 700 种精美的艺术和肖像风格供您使用。可以分别修改前景和背景。精美的相框可升级您的图像。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/prisma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### FaceSwapper
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-faceswapper.webp" alt="FaceSwapper">
-
-#### 释放笑声：FaceSwapper AI 如何变换面孔以获得搞笑乐趣！
-
-[Visit](https://www.thataicollection.com/redirect/faceswapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 FaceSwapper.AI（基于人工智能的尖端面部交换工具）释放您的创造力。只需点击几下即可毫不费力地交换面孔，将普通照片变成非凡的杰作。我们直观的界面使浏览变得轻而易举，确保即使是初学者也可以创建令人惊叹而有趣的脸部互换。探索无限的可能性，实现乐趣和艺术表达！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/faceswapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4598,6 +4602,36 @@ Stork 帮助团队改善沟通和生产力。它是混合和远程团队的商�
 <br />
 
 
+### Vidnoz Flex
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-flex.webp" alt="Vidnoz Flex">
+
+####  强有力地创建、共享、管理和跟踪您的视频。
+[Visit](https://www.thataicollection.com/redirect/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vidnoz Flex 是 Vidnoz 推出的一款简单但功能强大的视频工具，它集视频创作、个性化、共享和跟踪功能于一身。它将完全提高您在日常工作中制作和推广视频的效率，并带来最显著的效果。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Synthesia
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-synthesia.webp" alt="Synthesia">
+
+#### Synthesia-#1 人工智能视频生成平台。在几分钟内将你的文字变成视频
+[Visit](https://www.thataicollection.com/redirect/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+借助人工智能头像和画外音，使用人工智能视频生成器制作没有麦克风、摄像头或演员的专业视频，支持超过 120 种语言。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Vidnoz AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai.webp" alt="Vidnoz AI">
 
@@ -4614,21 +4648,6 @@ Stork 帮助团队改善沟通和生产力。它是混合和远程团队的商�
 <br />
 
 
-
-
-### Synthesia
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-synthesia.webp" alt="Synthesia">
-
-#### Synthesia-#1 人工智能视频生成平台。在几分钟内将你的文字变成视频
-[Visit](https://www.thataicollection.com/redirect/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-借助人工智能头像和画外音，使用人工智能视频生成器制作没有麦克风、摄像头或演员的专业视频，支持超过 120 种语言。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ### HeyGen
@@ -4673,21 +4692,6 @@ HeyGen 是一个视频平台，可帮助您利用生成式 AI 创建引人入胜
 HitPaw Online Video Enhancer 是低分辨率视频的最佳解决方案，可以毫不费力地将视频解决方案提高到 1080P/4K。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Pictory
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pictory.webp" alt="Pictory">
-
-#### 轻松制作视频
-[Visit](https://www.thataicollection.com/redirect/pictory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-从您的长篇内容中自动创建简短的、高度共享的品牌视频
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pictory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

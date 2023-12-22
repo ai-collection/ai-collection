@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=992" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=994" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -164,6 +164,39 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### VideoDubber AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI">
+
+#### Traducción de vídeo mediante IA, generación y traducción de subtítulos, conversión de texto a voz y clonación de voz. Pruébelo gratis
+[Visit](https://www.thataicollection.com/redirect/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Servicios gratuitos de traducción de vídeos, doblaje, clonación de voz y conversión de texto a voz con tecnología de IA. Amplía con nosotros a más de 30 idiomas y multiplica 10 veces el tamaño de tu audiencia sin esfuerzo.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Taplio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-taplio.webp" alt="Taplio">
+
+#### La herramienta de LinkedIn todo en uno basada en la IA.
+
+[Visit](https://www.thataicollection.com/redirect/taplio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Taplio ayuda a más de 6200 profesionales de LinkedIn a crear una marca personal sólida que atraiga clientes y oportunidades.
+
+Consigue contenido de alto rendimiento, programación avanzada, análisis detallados y generador de interacciones.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/taplio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Scene One
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scene-one.webp" alt="Scene One">
 
@@ -243,38 +276,6 @@ Consigue las ideas que necesitas sobre tu tema y deja que la IA se encargue del 
 ¡Te sorprenderá lo fácil que será escribir!
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/aikit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Based Labs AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-based-labs-ai_.webp" alt="Based Labs AI">
-
-#### BasedLabs es un centro creativo para la generación de vídeos de IA que permite a los usuarios explorar, crear y compartir diversos vídeos basados en la IA.
-[Visit](https://www.thataicollection.com/redirect/based-labs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-BasedLabs ofrece una atractiva plataforma para explorar y crear vídeos generados por la IA, desde animaciones abstractas hasta contenido rico en historias. Proporciona herramientas intuitivas para que los usuarios creen y compartan sus propios vídeos de IA, lo que fomenta una comunidad de innovación y creatividad. 
-Este sitio es un destino tanto para ver notables creaciones de vídeo de IA como para expresar una visión artística personal a través de la tecnología de IA.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/based-labs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Ava
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ava.webp" alt="Ava">
-
-#### Subtítulos profesionales y basados en la IA para sordos y hoh - Ava
-[Visit](https://www.thataicollection.com/redirect/ava?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ava ofrece subtítulos o transcripciones en directo gratuitos para videoconferencias (incluidas Zoom y Meet) y reuniones presenciales. Con un solo clic, Ava subtitula con precisión cualquier reunión, clase, visita al médico o conversación importante mediante inteligencia artificial y subtituladores profesionales que proporcionan acceso a la comunicación las 24 horas del día, los 7 días de la semana para personas sordas y con problemas de audición.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/ava?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -870,6 +871,21 @@ Crea un chatbot de IA a partir de tu base de conocimientos y añádelo a tu siti
 
 
 
+### Chatsimple
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-achatsimple.webp" alt="Chatsimple">
+
+#### El chatbot empresarial ChatGPT simplificado para ti
+[Visit](https://www.thataicollection.com/redirect/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ChatSimple es una plataforma que se especializa en crear chatbots orientados a la conversión para pequeñas y medianas empresas (pymes) en solo 5 minutos. La plataforma se centra en tres funcionalidades clave: la generación de leads, la gestión de las preguntas frecuentes y la gestión de las preguntas de precalificación. Al permitir a las pymes crear sus propios chatbots con experiencia en dominios específicos,
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### SiteSpeakAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sitespeakai.webp" alt="SiteSpeakAI">
 
@@ -885,15 +901,15 @@ Crea un chatbot de soporte de IA personalizado con tu propio contenido, document
 
 
 
-### Chatsimple
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-achatsimple.webp" alt="Chatsimple">
+### HUMATA
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-humata.webp" alt="HUMATA">
 
-#### El chatbot empresarial ChatGPT simplificado para ti
-[Visit](https://www.thataicollection.com/redirect/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Humata: ChatGPT para tus archivos de datos. Preguntar es más rápido que hojear.
+[Visit](https://www.thataicollection.com/redirect/humata?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-ChatSimple es una plataforma que se especializa en crear chatbots orientados a la conversión para pequeñas y medianas empresas (pymes) en solo 5 minutos. La plataforma se centra en tres funcionalidades clave: la generación de leads, la gestión de las preguntas frecuentes y la gestión de las preguntas de precalificación. Al permitir a las pymes crear sus propios chatbots con experiencia en dominios específicos,
+Aprende 100 veces más rápido, crea informes 100 veces más rápido, analiza documentos legales 100 veces más rápido, entiende los documentos técnicos 100 veces más rápido. Haz preguntas y obtén respuestas sobre cualquier archivo al instante.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/humata?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -926,21 +942,6 @@ Da rienda suelta a todo el potencial de la IA con PromptPal, tu mejor recurso pa
 Desarrolla un chatbot de soporte de IA personalizado utilizando tu contenido, documentos de soporte, PDF, API o bases de datos únicos. Intégralo fácilmente en tu sitio web con una sola línea de código para responder en tiempo real a las consultas de tus visitantes y minimizar así el número de solicitudes de soporte que recibes.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### ChatBotKit
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbotkit.webp" alt="ChatBotKit">
-
-#### La forma más rápida de crear bots de chat de IA avanzados
-[Visit](https://www.thataicollection.com/redirect/chatbotkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ChatBotKit lo ayuda a crear chatbots conversacionales de IA con sus propios datos para comunicarse naturalmente con los usuarios en su sitio web, Slack, Discord y WhatsApp.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/chatbotkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3043,6 +3044,24 @@ Desde el diseño hasta la producción, monitoree, mida y mejore su experiencia d
 
 ## Edición de fotos e imágenes
 
+### Vidnoz AI HEADSHOT GENERATOR
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
+
+#### Crea fotos profesionales de IA en la cabeza de forma fácil y sin esfuerzo
+[Visit](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+El generador de fotos de IA de Vidnoz es un generador de fotos en la cabeza de IA en línea, una herramienta revolucionaria que
+transforma tus selfies en fotos de la cabeza de alta calidad sin costosas sesiones de fotos. Simplemente
+sube unas cuantas fotos diarias y deja que los algoritmos de IA de Vidnoz hagan su magia, mezclándose a la perfección
+tu rostro en una variedad de fondos profesionales y opciones de ropa. 
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Photoshift
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoshift.webp" alt="Photoshift">
 
@@ -3073,15 +3092,16 @@ HitPaw Online AI Photo Enhancer utiliza tecnología avanzada de IA para eliminar
 <br />
 
 
-### Unrealme
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unrealme.webp" alt="Unrealme">
+### FaceSwapper
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-faceswapper.webp" alt="FaceSwapper">
 
-#### Unreal Me: obtén imágenes tuyas generadas por IA
-[Visit](https://www.thataicollection.com/redirect/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Da rienda suelta a las risas: ¡Cómo la IA de FaceSwapper transforma los rostros para una diversión divertidísima!
 
-Pasos para obtener impresionantes imágenes de ti mismo: 1. Pago. 2. Subir: lee las recomendaciones y sube tus fotos cuando tengas tiempo (tu enlace se envía por correo electrónico). 3. Esperar 4. Compartir.
+[Visit](https://www.thataicollection.com/redirect/faceswapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Da rienda suelta a tu creatividad con FaceSwapper.AI, la vanguardista herramienta de intercambio de rostros basada en la IA. Transforma fotos normales en obras maestras extraordinarias intercambiando rostros sin esfuerzo con solo unos clics. Nuestra intuitiva interfaz facilita la navegación, lo que garantiza que incluso los principiantes puedan crear impresionantes e hilarantes cambios de rostros. ¡Explora infinitas posibilidades de expresión artística y divertida!
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/faceswapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3112,22 +3132,6 @@ Con StableDojo puedes generar un avatar para ti o una sesión de fotos para tus 
 Más de 700 brillantes estilos artísticos y de retratos a tu disposición. Posibilidad de modificar tanto el primer plano como el fondo por separado. Marcos espléndidos para actualizar tus imágenes.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/prisma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### FaceSwapper
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-faceswapper.webp" alt="FaceSwapper">
-
-#### Da rienda suelta a las risas: ¡Cómo la IA de FaceSwapper transforma los rostros para una diversión divertidísima!
-
-[Visit](https://www.thataicollection.com/redirect/faceswapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Da rienda suelta a tu creatividad con FaceSwapper.AI, la vanguardista herramienta de intercambio de rostros basada en la IA. Transforma fotos normales en obras maestras extraordinarias intercambiando rostros sin esfuerzo con solo unos clics. Nuestra intuitiva interfaz facilita la navegación, lo que garantiza que incluso los principiantes puedan crear impresionantes e hilarantes cambios de rostros. ¡Explora infinitas posibilidades de expresión artística y divertida!
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/faceswapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4597,18 +4601,15 @@ Editor de vídeo con IA gratuito con conversión de texto a vídeo, avatares, su
 
 
 
-### Vidnoz AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai.webp" alt="Vidnoz AI">
+### Vidnoz Flex
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-flex.webp" alt="Vidnoz Flex">
 
-#### Vidnoz AI: presentamos una plataforma de vídeo de IA gratuita para reducir los costes de los usuarios en un 80% y aumentar 10 veces la productividad
-[Visit](https://www.thataicollection.com/redirect/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+####  Crea, comparte, gestiona y rastrea tus vídeos de forma potente.
+[Visit](https://www.thataicollection.com/redirect/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-un generador de vídeos de IA gratuito, la IA de Vidnoz, que ayuda a las personas a crear vídeos de forma más fácil y rápida que nunca. Para beneficiar a más personas con sus eficientes herramientas de vídeo de IA, Vidnoz
-proporciona acceso diario gratuito a la generación de vídeo a todos los usuarios. Mediante el uso de avatares de IA, vídeo
-plantillas y otras herramientas basadas en la IA, todos en Vidnoz pueden crear vídeos atractivos
-sin esfuerzo
+Vidnoz Flex es una herramienta de vídeo fácil pero potente de Vidnoz, que combina funciones de creación, personalización, intercambio y seguimiento de vídeos en un solo lugar. Aumentará totalmente tu productividad en la creación y promoción de vídeos en las rutinas diarias y proporcionará los resultados más significativos.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4624,6 +4625,24 @@ sin esfuerzo
 Crea vídeos profesionales sin micrófonos, cámaras ni actores con el generador de vídeos de IA con la ayuda de avatares y voces en off de la IA, en más de 120 idiomas.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/synthesia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Vidnoz AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai.webp" alt="Vidnoz AI">
+
+#### Vidnoz AI: presentamos una plataforma de vídeo de IA gratuita para reducir los costes de los usuarios en un 80% y aumentar 10 veces la productividad
+[Visit](https://www.thataicollection.com/redirect/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+un generador de vídeos de IA gratuito, la IA de Vidnoz, que ayuda a las personas a crear vídeos de forma más fácil y rápida que nunca. Para beneficiar a más personas con sus eficientes herramientas de vídeo de IA, Vidnoz
+proporciona acceso diario gratuito a la generación de vídeo a todos los usuarios. Mediante el uso de avatares de IA, vídeo
+plantillas y otras herramientas basadas en la IA, todos en Vidnoz pueden crear vídeos atractivos
+sin esfuerzo
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4672,21 +4691,6 @@ Explicación y procedimientos, marketing, ventas personalizadas, aprendizaje ele
 HitPaw Online Video Enhancer es la mejor solución para videos de baja resolución, aumente la solución de video hasta 1080P/4K sin esfuerzo.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Pictory
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pictory.webp" alt="Pictory">
-
-#### Creación de video fácil
-[Visit](https://www.thataicollection.com/redirect/pictory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cree automáticamente videos de marca cortos y altamente compartibles a partir de su contenido de formato largo
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/pictory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
