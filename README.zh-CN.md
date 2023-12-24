@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=994" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=997" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -164,118 +164,111 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### VideoDubber AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI">
+### AICamp
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aicamp.webp" alt="AICamp">
 
-#### AI 视频翻译、字幕生成和翻译、文字转语音和语音克隆-免费试用
-[Visit](https://www.thataicollection.com/redirect/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 适用于团队的 ChatGPT
+AiCamp 使团队能够通过统一平台集中访问领先的人工智能模型，如 Claude、Bard 和自定义大型语言模型。 
+[Visit](https://www.thataicollection.com/redirect/aicamp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-由人工智能驱动的免费视频翻译、配音、语音克隆和文字转语音服务。和我们一起轻松扩展到 30 多种语言，将受众规模扩大到 10 倍！
+您可以使用自己的 API 密钥集成这些模型，以便在一个解决方案中无缝访问。
+该平台使团队无需在多个工具之间切换即可利用不同的人工智能功能，从而提高生产力。借助 AiCamp，员工可以获得由最先进的语言模型支持的答案、推荐和自动回复。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Taplio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-taplio.webp" alt="Taplio">
-
-#### 由人工智能驱动的多合一LinkedIn工具。
-
-[Visit](https://www.thataicollection.com/redirect/taplio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Taplio帮助6200多位LinkedIn专业人士建立强大的个人品牌，吸引客户和机会。
-
-获取高性能内容、高级日程安排、深度分析和参与度生成器。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/taplio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aicamp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Scene One
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scene-one.webp" alt="Scene One">
+### BrameWork
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bramework.webp" alt="BrameWork">
 
-#### 适用于小说、短篇小说和商业的在线图书写作应用程序
-[Visit](https://www.thataicollection.com/redirect/scene-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Bramework-AI 作家，可帮助你将博客写作速度提高 5 倍
+[Visit](https://www.thataicollection.com/redirect/bramework?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-免费的在线小说和书籍写作软件。Scene One 可在您的浏览器和包括手机在内的所有设备上运行！
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/scene-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
+Bramework 的人工智能作家通过快速的、经过搜索引擎优化的帖子来强化你的博客。今天就把你对博客的热情变成全职职业！
 
 
-### Botowski
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-botowski.webp" alt="Botowski">
-
-#### 博托夫斯基是你的全新个人人工智能撰稿人！
-[Visit](https://www.thataicollection.com/redirect/botowski?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-人工智能内容生成器，为企业和非专业作家创建内容。从醒目的口号到电子邮件模板或博客内容。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/botowski?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/bramework?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### zap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zap.webp" alt="zap">
+### Waifulabs
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-waifulabs.webp" alt="Waifulabs">
 
-#### Zap-停止写求职信。开始免费试用！
+#### Waifu Labs-神奇的动漫肖像。   
+[Visit](https://www.thataicollection.com/redirect/waifulabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+一款专为你绘制自定义动漫肖像的最先进的人工智能！这位机器学习艺术家会找出你的喜好，只需 4 个简单步骤即可绘制出完美的角色插画。如果听起来像魔法，那是因为确实如此！
 
-[Visit](https://www.thataicollection.com/redirect/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-带有 AI 的免费即时求职信。定制且成功。
-净利润的25％捐赠给非营利组织，这些非营利组织帮助以前被监禁的人找到有报酬的工作。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/waifulabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Cover Letter AI App
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cover-letter-ai-app.webp" alt="Cover Letter AI App">
+### Chapterme
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chapterme.webp" alt="Chapterme">
 
-#### Zap-停止写求职信。开始免费试用！
+#### Chapterme-为你的视频提供人工智能支持的章节
+[Visit](https://www.thataicollection.com/redirect/chapterme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+有了 ChapterMe ChapterGPT，人工智能会在几分钟内自动为你的视频和播客生成带有时间戳的章节。节省数小时的时间和金钱，同时专注于创作精彩内容。
 
 
-[Visit](https://www.thataicollection.com/redirect/cover-letter-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-带有 AI 的免费即时求职信。定制且成功。
-净利润的25％捐赠给非营利组织，这些非营利组织帮助以前被监禁的人找到有报酬的工作。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/cover-letter-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chapterme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### AIKIt
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aikit.webp" alt="AIKIt">
+### Wisecut
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wisecut.webp" alt="Wisecut">
 
-#### Aikit-你使用 GPT-3 的 Wordpress 人工智能
-[Visit](https://www.thataicollection.com/redirect/aikit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Wisecut-使用 AI 自动剪切和编辑视频
+[Visit](https://www.thataicollection.com/redirect/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AI 内容生成。避开 Writer 的方块
-获取有关主题所需的想法，然后让人工智能完成繁重的工作，以撰写有关这些想法的完整段落。
-你会惊讶于你的写作会变得多么容易！
+Wisecut是一款基于语音识别的自动视频编辑器。使用 Wisecut，您可以轻松地将长篇有声视频转换为带有音乐、字幕和自动重构的简短而有影响力的片段。这些短片非常适合YouTube短片、抖音、Instagram Reels和社交广告等平台。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aikit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Type AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshot/screenshot-gptkey.webp" alt="Type AI">
+
+#### GPTKey – 使用 GPT 键盘与 AI 一起书写
+[Visit](https://www.thataicollection.com/redirect/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 GPT 自定义键盘扩展在任何应用程序中使用 AI 进行书写。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Predis
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-predis.webp" alt="Predis">
+
+#### 使用 AI 轻松进行社交媒体营销-Predis.Ai
+[Visit](https://www.thataicollection.com/redirect/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Predis是一款用于社交媒体的人工智能营销工具，可帮助企业制作引人入胜的视频和图像内容，并获得基于人工智能的内容分析。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4905,16 +4898,15 @@ Rytr是一款人工智能写作助手，可以帮助你在短短几秒钟内创�
 <br />
 
 
-### Never Jobless LinkedIn Message Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-never-jobless-linkedin-message-generator.webp" alt="Never Jobless LinkedIn Message Generator">
+### Type AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshot/screenshot-gptkey.webp" alt="Type AI">
 
-#### 永不失业 LinkedIn 消息生成器
+#### GPTKey – 使用 GPT 键盘与 AI 一起书写
+[Visit](https://www.thataicollection.com/redirect/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+使用 GPT 自定义键盘扩展在任何应用程序中使用 AI 进行书写。
 
-利用人工智能驱动的 LinkedIn 消息最大限度地提高面试机会使用我们的 AI 工具提升您的职业前景，该工具旨在创建个性化、引人入胜的 LinkedIn 消息。通过分析吸引招聘经理的关键要素，我们的工具会根据你的目标职位和过去的项目量身定制信息，突出你的兴趣、经验和价值。 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

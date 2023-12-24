@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=994" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=997" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -170,122 +170,115 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
-### VideoDubber AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI">
+### AICamp
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aicamp.webp" alt="AICamp">
 
-#### AI Video Translation, Subtitle Generation & Translation, Text-to-Speech and Voice Cloning - Try Free
-[Visit](https://www.thataicollection.com/redirect/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### ChatGPT for Teams
+AICamp enables teams to centralize access to leading AI models like Claude, Bard, and custom large language models through a unified platform. 
+[Visit](https://www.thataicollection.com/redirect/aicamp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Free AI-powered video translation, dubbing, voice cloning and text-to-speech services. Scale with us to 30+ languages to 10x your audience size effortlessly!
+You can integrate these models using your own API keys for seamless access within one solution.
+The platform allows teams to boost productivity by eliminating the need to toggle between multiple tools to leverage different AI capabilities. With AICamp, employees can get answers, recommendations, and automated responses powered by state-of-the-art language models.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Taplio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-taplio.webp" alt="Taplio">
-
-#### The all-in-one, AI-powered LinkedIn tool.
-
-[Visit](https://www.thataicollection.com/redirect/taplio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Taplio helps 6200+ LinkedIn pros build a strong personal brand that attracts clients and opportunities.
-
-Get High-Performing Content, Advanced Scheduling, In-Depth Analytics & Engagement Builder.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/taplio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/aicamp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Scene One
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scene-one.webp" alt="Scene One">
+### BrameWork
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bramework.webp" alt="BrameWork">
 
-#### Online Book Writing App for Novels, Short Stories, and Business
-[Visit](https://www.thataicollection.com/redirect/scene-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Bramework - AI Writer That Helps You Write Blogs 5X Faster
+[Visit](https://www.thataicollection.com/redirect/bramework?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Free online novel and book writing software. Scene One works in your browser and on every device, including your phone!
+Bramework's AI writer boosts your blog with quick, SEO-optimized posts. Turn your blogging passion into a full-time career today!
 
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/scene-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+[More Information and Pricing](https://www.thataicollection.com/en/application/bramework?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
-
-
-### Botowski
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-botowski.webp" alt="Botowski">
-
-#### Botowski is your new personal AI copywriter!
-[Visit](https://www.thataicollection.com/redirect/botowski?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI content generator that creates content for businesses and people who aren't professional writers. From catchy slogans to email templates or blog content.
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/botowski?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
+### Waifulabs
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-waifulabs.webp" alt="Waifulabs">
 
+#### Waifu Labs - Magical Anime Portraits.   
+[Visit](https://www.thataicollection.com/redirect/waifulabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-### zap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zap.webp" alt="zap">
+A state-of-the-art AI that draws custom anime portraits, just for you! This machine learning artist figures out your preferences and creates a perfect character illustration in 4 easy steps. If it sounds like magic, that's because it is!
 
-#### Zap - Stop writing cover letters. Get started for free!
-
-
-[Visit](https://www.thataicollection.com/redirect/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Free, instant cover letters with AI. Customized and successful.
-25% of net profits donated to nonprofits that help formerly incarcerated individuals find rewarding employment.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/waifulabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Cover Letter AI App
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cover-letter-ai-app.webp" alt="Cover Letter AI App">
+### Chapterme
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chapterme.webp" alt="Chapterme">
 
-#### Zap - Stop writing cover letters. Get started for free!
+#### Chapterme - AI Powered Chapters for Your Videos
+[Visit](https://www.thataicollection.com/redirect/chapterme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+With ChapterMe ChapterGPT, AI automatically generates timestamped chapters for your videos and podcasts in minutes. Save hours of time and money while focusing on creating great content.
 
 
-[Visit](https://www.thataicollection.com/redirect/cover-letter-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Free, instant cover letters with AI. Customized and successful.
-25% of net profits donated to nonprofits that help formerly incarcerated individuals find rewarding employment.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/cover-letter-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/chapterme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### AIKIt
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aikit.webp" alt="AIKIt">
+### Wisecut
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wisecut.webp" alt="Wisecut">
 
-#### Aikit - Your Wordpress AI Assistant Using GPT-3
-[Visit](https://www.thataicollection.com/redirect/aikit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Wisecut - Automatically cut and edit videos with AI
+[Visit](https://www.thataicollection.com/redirect/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AI CONTENT GENERATION. Avoid Writer’s block
-Get the ideas you need on your topic, and let AI do the heavy lifting to write complete paragraphs on them.
-You‘ll be amazed at how much easier your writing will become!
+Wisecut is an automatic video editor based on voice recognition. With Wisecut, you can easily turn your long-form talking videos into short, impactful clips with music, subtitles, and auto reframe. These short clips are perfect for platforms like YouTube Shorts, TikTok, Instagram Reels, and Social Ads.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/aikit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
+
+
+### Type AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshot/screenshot-gptkey.webp" alt="Type AI">
+
+#### Gptkey – Write With AI Using the GPT Keyboard
+[Visit](https://www.thataicollection.com/redirect/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Write with AI in any app using the GPT custom keyboard extension.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Predis
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-predis.webp" alt="Predis">
+
+#### Social Media Marketing Made Easy With AI - Predis.Ai
+[Visit](https://www.thataicollection.com/redirect/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Predis is an AI marketing tool for social media helping businesses make captivating Video and Image content and get AI-powered content analysis.
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
 
 
 ## Accounting & Finance
@@ -4911,20 +4904,19 @@ Paraphrase Tool with 15 FREE Modes for 100+ Languages - Rephrases Sentences, Rew
 
 
 
-### Never Jobless LinkedIn Message Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-never-jobless-linkedin-message-generator.webp" alt="Never Jobless LinkedIn Message Generator">
+### Type AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshot/screenshot-gptkey.webp" alt="Type AI">
 
-#### Never Jobless LinkedIn Message Generator
+#### Gptkey – Write With AI Using the GPT Keyboard
+[Visit](https://www.thataicollection.com/redirect/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Write with AI in any app using the GPT custom keyboard extension.
 
-Maximize Your Interview Chances with AI-Powered LinkedIn Messaging Elevate your career prospects with our AI tool, designed to create personalized, engaging LinkedIn messages. By analyzing key elements that appeal to hiring managers, our tool crafts messages highlighting your interest, experience, and value, tailored to your target job title and past projects. 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-
+<br />
 
 
 ### AI Lyrics Generator
