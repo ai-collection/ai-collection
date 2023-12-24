@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=994" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=997" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -164,118 +164,111 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
-### VideoDubber AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI">
+### AICamp
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aicamp.webp" alt="AICamp">
 
-#### Перевод видео с помощью искусственного интеллекта, генерация и перевод субтитров, преобразование текста в речь и клонирование голоса — попробуйте бесплатно
-[Visit](https://www.thataicollection.com/redirect/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### ChatGPT для команд
+AICamp позволяет командам централизовать доступ к ведущим моделям искусственного интеллекта, таким как Claude, Bard, и пользовательским крупноязычным моделям с помощью унифицированной платформы. 
+[Visit](https://www.thataicollection.com/redirect/aicamp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Бесплатные сервисы перевода видео, озвучивания, клонирования голоса и преобразования текста в речь на базе искусственного интеллекта. Расширяйтесь вместе с нами до более чем 30 языков, чтобы увеличить аудиторию в 10 раз!
+Вы можете интегрировать эти модели, используя собственные ключи API для беспрепятственного доступа в одном решении.
+Платформа позволяет командам повысить производительность, устраняя необходимость переключаться между несколькими инструментами для использования различных возможностей искусственного интеллекта. С помощью AiCamp сотрудники могут получать ответы, рекомендации и автоматические ответы на основе самых современных языковых моделей.
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Taplio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-taplio.webp" alt="Taplio">
-
-#### Универсальный инструмент LinkedIn на базе искусственного интеллекта.
-
-[Visit](https://www.thataicollection.com/redirect/taplio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Taplio помогает более чем 6200 профессионалам LinkedIn создать сильный личный бренд, который привлекает клиентов и открывает новые возможности.
-
-Получите высокоэффективный контент, расширенное планирование, углубленную аналитику и конструктор взаимодействия.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/taplio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/aicamp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Scene One
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scene-one.webp" alt="Scene One">
+### BrameWork
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bramework.webp" alt="BrameWork">
 
-#### Онлайн-приложение для написания книг для романов, рассказов и бизнеса
-[Visit](https://www.thataicollection.com/redirect/scene-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Bramework — редактор с искусственным интеллектом, который помогает писать блоги в 5 раз быстрее
+[Visit](https://www.thataicollection.com/redirect/bramework?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Бесплатное онлайн-программное обеспечение для написания романов и книг. Scene One работает в вашем браузере и на любом устройстве, включая телефон!
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/scene-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
+ИИ-писатель Bramework дополняет ваш блог быстрыми публикациями, оптимизированными для SEO. Превратите свою страсть к ведению блога в полноценную карьеру уже сегодня!
 
 
-### Botowski
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-botowski.webp" alt="Botowski">
-
-#### Botowski — ваш новый персональный копирайтер с искусственным интеллектом!
-[Visit](https://www.thataicollection.com/redirect/botowski?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Генератор контента с искусственным интеллектом, который создает контент для компаний и людей, которые не являются профессиональными писателями. От броских слоганов до шаблонов электронных писем или контента для блогов.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/botowski?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/bramework?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### zap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zap.webp" alt="zap">
+### Waifulabs
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-waifulabs.webp" alt="Waifulabs">
 
-#### Zap - Хватит писать сопроводительные письма. Начните бесплатно!
+#### Waifu Labs - волшебные аниме-портреты.   
+[Visit](https://www.thataicollection.com/redirect/waifulabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+Ультрасовременный искусственный интеллект, который рисует собственные аниме-портреты именно для вас! Этот художник с машинным обучением выяснит ваши предпочтения и создаст идеальную иллюстрацию персонажей за 4 простых шага. Если это звучит как волшебство, значит, так оно и есть!
 
-[Visit](https://www.thataicollection.com/redirect/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Бесплатные мгновенные сопроводительные письма с искусственным интеллектом. Индивидуально и успешно.
-25% чистой прибыли пожертвовано некоммерческим организациям, которые помогают бывшим заключенным найти достойную работу.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/waifulabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Cover Letter AI App
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cover-letter-ai-app.webp" alt="Cover Letter AI App">
+### Chapterme
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chapterme.webp" alt="Chapterme">
 
-#### Zap - Хватит писать сопроводительные письма. Начните бесплатно!
+#### Chapterme - главы для ваших видео с использованием искусственного интеллекта
+[Visit](https://www.thataicollection.com/redirect/chapterme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+С ChapterME ChapterGPT искусственный интеллект автоматически генерирует главы с отметками времени для ваших видео и подкастов за считанные минуты. Сэкономьте часы времени и денег, сосредоточившись на создании отличного контента.
 
 
-[Visit](https://www.thataicollection.com/redirect/cover-letter-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Бесплатные мгновенные сопроводительные письма с искусственным интеллектом. Индивидуально и успешно.
-25% чистой прибыли пожертвовано некоммерческим организациям, которые помогают бывшим заключенным найти достойную работу.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/cover-letter-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/chapterme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### AIKIt
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aikit.webp" alt="AIKIt">
+### Wisecut
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wisecut.webp" alt="Wisecut">
 
-#### Aikit — ваш помощник по искусственному интеллекту на Wordpress, использующий GPT-3
-[Visit](https://www.thataicollection.com/redirect/aikit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Wisecut - автоматическое вырезание и редактирование видео с помощью AI
+[Visit](https://www.thataicollection.com/redirect/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-ГЕНЕРАЦИЯ AI-КОНТЕНТА. Избегайте блокировки Writer
-Почерпните нужные идеи по своей теме, а искусственный интеллект сделает всю работу по написанию на них целых абзацев.
-Вы удивитесь, насколько легче станет писать!
+Wisecut — это автоматический видеоредактор, основанный на распознавании голоса. С помощью Wisecut вы можете легко превратить длинные разговорные видеоролики в короткие эффектные клипы с музыкой, субтитрами и автоматическим перекадриванием. Эти короткие клипы идеально подходят для таких платформ, как YouTube Shorts, TikTok, ролики в Instagram и социальные объявления.
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/aikit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Type AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshot/screenshot-gptkey.webp" alt="Type AI">
+
+#### GPTKey — пишите с помощью ИИ, используя клавиатуру GPT
+[Visit](https://www.thataicollection.com/redirect/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Пишите с помощью ИИ в любом приложении, используя пользовательское расширение клавиатуры GPT.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Predis
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-predis.webp" alt="Predis">
+
+#### Маркетинг в социальных сетях стал проще с помощью искусственного интеллекта - Predis.Ai
+[Visit](https://www.thataicollection.com/redirect/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Predis — это маркетинговый инструмент искусственного интеллекта для социальных сетей, помогающий компаниям создавать увлекательный контент с видео и изображениями и анализировать контент на основе искусственного интеллекта.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4903,20 +4896,19 @@ Rytr — это помощник по написанию текстов с ис�
 
 
 
-### Never Jobless LinkedIn Message Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-never-jobless-linkedin-message-generator.webp" alt="Never Jobless LinkedIn Message Generator">
+### Type AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshot/screenshot-gptkey.webp" alt="Type AI">
 
-#### Генератор сообщений LinkedIn «Никогда не оставляйте работу
+#### GPTKey — пишите с помощью ИИ, используя клавиатуру GPT
+[Visit](https://www.thataicollection.com/redirect/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Пишите с помощью ИИ в любом приложении, используя пользовательское расширение клавиатуры GPT.
 
-Увеличьте шансы на собеседование с помощью сообщений LinkedIn на базе искусственного интеллекта Повысьте свои карьерные перспективы с помощью нашего инструмента искусственного интеллекта, предназначенного для создания персонализированных и увлекательных сообщений LinkedIn. Анализируя ключевые элементы, которые нравятся менеджерам по найму, наш инструмент создает сообщения, отражающие ваши интересы, опыт и ценности, с учетом вашей целевой должности и прошлых проектов. 
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-
+<br />
 
 
 ### AI Lyrics Generator
