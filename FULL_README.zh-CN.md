@@ -68,12 +68,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
-    <h4>AI 视频翻译、字幕生成和翻译、文字转语音和语音克隆-免费试用</h4>
-    <p>由人工智能驱动的免费视频翻译、配音、语音克隆和文字转语音服务。和我们一起轻松扩展到 30 多种语言，将受众规模扩大到 10 倍！</p>
-    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 VideoDubber AI</b></a>
+    <h4>AI Undressing-使用 AI Undressing 免费裸体照片</h4>
+    <p>最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成</p>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 undressing.io</b></a>
     <br />
 </div>
 
@@ -81,12 +81,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI" border="0"/>
     </a>
-    <h4>AI Undressing-使用 AI Undressing 免费裸体照片</h4>
-    <p>最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 undressing.io</b></a>
+    <h4>AI 视频翻译、字幕生成和翻译、文字转语音和语音克隆-免费试用</h4>
+    <p>由人工智能驱动的免费视频翻译、配音、语音克隆和文字转语音服务。和我们一起轻松扩展到 30 多种语言，将受众规模扩大到 10 倍！</p>
+    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 VideoDubber AI</b></a>
     <br />
 </div>
 
@@ -172,6 +172,7 @@
 | [Pit Stop ChatterGPT](https://www.thataicollection.com/redirect/pit-stop-chattergpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pit Stop ChatterGPT：与 F1 Legends 聊天，您的比赛日伴侣. | 有了这个应用程序，您可以在大赛前探索您最喜欢的车手的心态，询问他们的准备程序，或者只是进行友好的聊天。这就像与 Lewis Hamilton 或 Max Verstappen 等标志性 F1 车手进行私人对话。. | :x: |
 | [Podcast.ai](https://www.thataicollection.com/redirect/podcast.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 播客.ai. | 欢迎来到 podcast.ai，一个完全由人工智能生成的播客。每周，我们都会深入探讨一个新话题，听众可以为未来的节目推荐话题甚至嘉宾和主持人。. | :grey_question: |
 | [Raplyrics](https://www.thataicollection.com/redirect/raplyrics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Raplyrics —生成您的说唱音乐口号. | 欢迎来到 Raplyrics-在下面的提示中写几句话，然后使用人工智能生成一首独特的说唱音乐口号！. | :grey_question: |
+| [Rick and Mortify](https://www.thataicollection.com/redirect/rick-and-mortify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Rick and Mortify-一个用于创作《瑞克和莫蒂》新剧集的人工智能游乐场。. | Rick and Mortify 是我们开发的一款工具，旨在证明未来比你想象的要近。  我们的工具使用最先进的大视觉和语言模型，以最少的人为干预创出前所未有的《瑞克和莫蒂》剧集。所有情节点、对话和随附的视觉效果都是通过机器学习生成的。. | :white_check_mark: |
 | [Silly Times](https://www.thataicollection.com/redirect/silly-times?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 一个使用AI的简单绘图应用程序. | 享受愉快的绘画时光，看看我们从您的绘画中做出了什么愚蠢的事情。魔术只需按下按钮即可！. | :white_check_mark: |
 | [Songtell](https://www.thataicollection.com/redirect/songtell?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 揭开您喜爱的歌词背后的故事。. | 使用 Songtell 深入挖掘您最喜爱的歌曲，通过 AI 的力量揭示歌词背后的迷人故事和意义. | :white_check_mark: |
 | [StoriesbyAI](https://www.thataicollection.com/redirect/storiesbyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 的故事-使用 AI 编写、插图和叙述的独特故事. | 使用 AI 编写、插图和叙述的独特故事。点击阅读《人工智能故事》，这是一本拥有数千名订阅者的Substack出版物。. | :grey_question: |
@@ -221,6 +222,7 @@
 | [AI SQL BOT](https://www.thataicollection.com/redirect/ai-sql-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI SQL 查询生成器：无需事先 SQL 知识即可构建 SQL 查询的最简单方法-使用 AI 的 SQL 查询生成器. | 专业的人工智能驱动的 SQL 和 NoSQL 生成器，提供免费套餐。AI 使用尖端的 AI 技术在几秒钟内为您生成、解释和优化 SQL 查询。. | :grey_question: |
 | [ai2sql](https://www.thataicollection.com/redirect/ai2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SQL 查询生成器-SQL 查询生成器 AI Bot. | 借助 Ai2SQL，工程师和非工程师可以在不知道 SQL 的情况下轻松编写高效、无错误的 SQL 查询。基于 AI 的 SQL 查询生成器让初学者无需任何 SQL 知识即可快速构建 SQL 查询。. | :white_check_mark: |
 | [aidev.codes](https://www.thataicollection.com/redirect/aidev.codes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为您编写 AI 开发代码. | 只需输入规格即可创建简单的应用程序和演示——一种新型的 AI 提示工程。. | :white_check_mark: |
+| [AITable.ai](https://www.thataicollection.com/redirect/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | : 无代码所有代理生成器。自定义 ChatGPT 可将您的着陆页转化率提高到 5 倍。. | AlTable.ai 是一个工作平台，允许你使用 Al 来组织任何数据。AlTable.ai 有助于使用 Visual Al 数据库轻松转换数据。使用 Al 简化您的 CRM 和项目管理，开启增长和效率的新可能性。. | :white_check_mark: |
 | [Anania](https://www.thataicollection.com/redirect/anania?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 分析助手. | 就您的数据和文件提出问题. | :white_check_mark: |
 | [Ask Command](https://www.thataicollection.com/redirect/ask-command?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ask Command——人工智能驱动的开发者助手. | 一个小应用程序，可以提醒您那些您总是忘记的命令。由人工智能提供支持。. | :grey_question: |
 | [Baseten](https://www.thataicollection.com/redirect/baseten?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Baseten-面向初创企业的 Mlops 平台. | Baseten 是用于构建基于 ML 的应用程序的无服务器后端。使用自动缩放、GPU 访问权限、CRON 任务和无服务器功能构建应用程序。. | :grey_question: |
@@ -257,6 +259,7 @@
 | [Text2SQL](https://www.thataicollection.com/redirect/text2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Text2SQL.AI - 使用 AI 免费生成 SQL 查询！. | . | :white_check_mark: |
 | [TLDR - Jetbrains IDE Plugin](https://www.thataicollection.com/redirect/tldr---jetbrains-ide-plugin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TLDR——用简单的英语解释代码. | TLDR 是一个 IDE 插件，它利用 AI 以简单的英语解释代码。. | :grey_question: |
 | [Whatthediff](https://www.thataicollection.com/redirect/whatthediff?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | What-the-Diff – AI 驱动的代码审查助手. | 人工智能驱动的 GitHub 应用程序，以简单的英语解释您的拉取请求中的更改. | :grey_question: |
+| [Writer](https://www.thataicollection.com/redirect/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Writer-利用企业生成式 AI 实现工作转型. | 获取全栈平台，实现更高质量的输出和更快的上市时间。不再需要将不同的 AI 工具拼接在一起。. | :grey_question: |
 
 
 <!--lint ignore double-link-->
@@ -335,7 +338,7 @@
 | [Katteb](https://www.thataicollection.com/redirect/katteb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 编写经过事实核查的内容. | Katteb AI 可以快速轻松地为您的博客和在线商店创建内容. | :white_check_mark: |
 | [LAIKA](https://www.thataicollection.com/redirect/laika?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 作家的个性化人工智能. | 我们让写作中乏味的部分变得有趣。 LAIKA 是一个创意伙伴，您可以训练它像您（或您想要的任何人）一样写作。专为创意作家、游戏作家和所有其他小说创作者打造。. | :white_check_mark: |
 | [Lek](https://www.thataicollection.com/redirect/lek?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Lek.ai - 由 AI 提供支持的终极内容创建者工具包. | 为一切写任何东西。创建内容和复制的最快和最简单的方法. | :white_check_mark: |
-| [Lex](https://www.thataicollection.com/redirect/lex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 解锁你最好的写作. | . | :grey_question: |
+| [Lex](https://www.thataicollection.com/redirect/lex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Lex-解锁你的最佳写作-优质的写作体验。. | 智能、协作、强大——LEX 是一款现代文字处理器，它支持一种全新的写作方式。永远不要再单独打字了。. | :grey_question: |
 | [LongShot AI](https://www.thataicollection.com/redirect/longshot-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用人工智能创建人类和搜索引擎喜欢的内容. | LongShot 是一款 AI 写作助手，可帮助您在几分钟内将创意转化为 SEO 内容。借助实时内容、事实核查、语义 SEO、自定义 AI 等功能，利用 AI 的创造力！. | :x: |
 | [Netus.ai](https://www.thataicollection.com/redirect/netus.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 驱动的旁路器、释义器和检测器. | NetusAI 是一项强大的人工智能驱动技术，旨在帮助内容创作者生成独特、高质量的内容，速度比传统方法快 10 倍. | :white_check_mark: |
 | [Neuraltext](https://www.thataicollection.com/redirect/neuraltext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Neuraltext - AI 作家和 SEO 平台。. | 自动化您的内容操作。多合一的内容营销和 SEO 平台，可为您节省时间和金钱. | :x: |
@@ -828,6 +831,7 @@
 | [Unrealme](https://www.thataicollection.com/redirect/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unreal Me - 获取 AI 生成的你的图像. | 获得令人惊叹的自己照片的步骤： 1. 付款。 2. 上传 - 阅读推荐并在有时间时上传您的照片（您的链接通过电子邮件发送）。 3. 等待 4. 分享。. | :x: |
 | [Vidnoz AI HEADSHOT GENERATOR](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 轻松轻松地创建专业的 AI 头像. | Vidnoz AI Headshot Generator 是一款在线人工智能头像生成器，是一款革命性的工具 无需昂贵的照片拍摄，即可将您的自拍照转换为高质量的头像。只是 每天上传几张照片，让 Vidnoz 的人工智能算法发挥魔力，无缝融合 面对各种专业背景和服装选择。. | :white_check_mark: |
 | [Waifu XL](https://www.thataicollection.com/redirect/waifu-xl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 只需单击一下按钮，Waifuxl即可直接在浏览器中提供最先进的放大功能。. | 只需单击一下按钮，Waifuxl即可直接在浏览器中提供最先进的放大功能。无需选择噪音等级，无需验证码，而且您的图像永远不会发送给我们。一切都是在本地完成的！. | :grey_question: |
+| [Watermark Remover](https://www.thataicollection.com/redirect/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 水印去除器-免费在线删除图像中的水印. | 使用我们的 AI 技术去除图像中的水印。使用我们的水印去除工具，让您的图像免受水印。. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
@@ -1455,18 +1459,15 @@
 | [Redacta.me](https://www.thataicollection.com/redirect/redacta.me?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | redacta.me - Tu 社区经理虚拟. | . | :grey_question: |
 | [Reface](https://www.thataicollection.com/redirect/reface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 重新面对。成为任何人. | 只需一张自拍即可创建逼真的换脸视频、GIF 和表情包. | :grey_question: |
 | [Revspot](https://www.thataicollection.com/redirect/revspot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Revspot AI - 一种新的写作方式. | . | :grey_question: |
-| [Rick and Mortify](https://www.thataicollection.com/redirect/rick-and-mortify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 瑞克和莫蒂夫. | . | :grey_question: |
 | [Snackable AI](https://www.thataicollection.com/redirect/snackable-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 可当零食. | . | :grey_question: |
 | [SuenaGringo AI](https://www.thataicollection.com/redirect/suenagringo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 苏埃纳外国佬. | Escribe inglés con confianza y rompe las barreras. | :grey_question: |
 | [Summon](https://www.thataicollection.com/redirect/summon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Figma：协作界面设计工具。. | 以团队的形式打造更好的产品。使用 Figma 在一处设计、制作原型并收集反馈。. | :grey_question: |
 | [Super Prompt](https://www.thataicollection.com/redirect/super-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 超级提示. | 为您的 AI 艺术创建画廊。下次有人要求查看您的所有艺术作品时，您将有地方可以指向他们。在一个地方展示你所有的人工智能艺术。. | :grey_question: |
 | [SUPERMACHINE](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SUPERMACHINE - 使用 AI 生成库存照片、艺术作品和图像. | SUPERMACHINE 使您能够使用最新的人工智能技术生成图像。. | :grey_question: |
 | [Textunbox](https://www.thataicollection.com/redirect/textunbox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TextUnbox.app. | TextUnbox - 利用 AI 的力量！. | :grey_question: |
-| [Watermark Remover](https://www.thataicollection.com/redirect/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Watermark Remover - 免费在线去除图像水印. | 使用我们强大的 AI 技术去除图像中的水印. | :white_check_mark: |
 | [WithPoly](https://www.thataicollection.com/redirect/withpoly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Poly：使用 A.I. 生成设计资产·保利. | . | :grey_question: |
 | [Writelyai](https://www.thataicollection.com/redirect/writelyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Writely - 使用 AI 改善您的写作. | . | :grey_question: |
 | [Writeplus](https://www.thataicollection.com/redirect/writeplus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Write+ – 专业写作，人人可用！. | . | :grey_question: |
-| [Writer](https://www.thataicollection.com/redirect/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Writer - 团队人工智能写作平台. | 世界级公司使用 Writer 的 AI 写作平台大规模解锁品牌内容. | :grey_question: |
 
 
 <!--lint ignore double-link-->

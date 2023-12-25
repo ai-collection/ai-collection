@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
+    </a>
+    <h4>Desvestirse con IA: desnuda fotos GRATIS con AI Undressing</h4>
+    <p>¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez</p>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con undressing.io</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO" border="0"/>
     </a>
@@ -74,19 +87,6 @@
     <h4>Traducción de vídeo mediante IA, generación y traducción de subtítulos, conversión de texto a voz y clonación de voz. Pruébelo gratis</h4>
     <p>Servicios gratuitos de traducción de vídeos, doblaje, clonación de voz y conversión de texto a voz con tecnología de IA. Amplía con nosotros a más de 30 idiomas y multiplica 10 veces el tamaño de tu audiencia sin esfuerzo.</p>
     <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con VideoDubber AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
-    </a>
-    <h4>Desvestirse con IA: desnuda fotos GRATIS con AI Undressing</h4>
-    <p>¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con undressing.io</b></a>
     <br />
 </div>
 
@@ -188,6 +188,7 @@
 | [AI SQL BOT](https://www.thataicollection.com/redirect/ai-sql-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Creador de consultas SQL de IA: la forma más fácil de crear consultas de SQL sin conocimientos previos de SQL: generador de consultas de SQL con IA. | Generador profesional de SQL y NoSQL con tecnología de IA con capa gratuita. La IA genera, explica y optimiza las consultas de SQL para ti mediante tecnología de IA de vanguardia en segundos. | :grey_question: |
 | [ai2sql](https://www.thataicollection.com/redirect/ai2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generador de consultas de SQL - Bot de IA de creación de consultas de SQL. | Con Ai2SQL, los ingenieros y no ingenieros pueden escribir fácilmente consultas SQL eficientes y sin errores sin saber SQL. El creador de consultas SQL con tecnología de IA te permite crear consultas SQL rápidamente sin ningún conocimiento de SQL para los principiantes. | :white_check_mark: |
 | [aidev.codes](https://www.thataicollection.com/redirect/aidev.codes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Códigos de desarrollo de IA para usted. | Cree aplicaciones y demostraciones sencillas simplemente ingresando especificaciones: un nuevo tipo de ingeniería de avisos de IA. | :white_check_mark: |
+| [AITable.ai](https://www.thataicollection.com/redirect/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | : Al Agents Builder sin código. ChatGPT personalizado para 5 veces la tasa de conversión de tu página de destino. | AlTable.ai es una plataforma de trabajo que te permite organizar cualquier dato con Al. AlTable.ai ayuda a transformar tus datos sin esfuerzo con la base de datos Visual Al. Optimiza tu CRM y la gestión de proyectos con Al y abre nuevas posibilidades de crecimiento y eficiencia. | :white_check_mark: |
 | [Anania](https://www.thataicollection.com/redirect/anania?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Asistente de IA para análisis. | Haz preguntas sobre tus datos y documentos. | :white_check_mark: |
 | [Ask Command](https://www.thataicollection.com/redirect/ask-command?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ask Command: asistente de desarrollo impulsado por IA. | Una pequeña aplicación para recordarte esos comandos que siempre olvidas. Impulsado por IA. | :grey_question: |
 | [Baseten](https://www.thataicollection.com/redirect/baseten?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Baseten: La plataforma Mlops para empresas emergentes. | Baseten es un backend sin servidores para crear aplicaciones basadas en ML. Crea aplicaciones con escalado automático, acceso a la GPU, tareas de CRON y funciones sin servidor. | :grey_question: |
@@ -224,6 +225,7 @@
 | [Text2SQL](https://www.thataicollection.com/redirect/text2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Text2Sql.Ai - ¡Genera consultas SQL con IA gratis!. | . | :white_check_mark: |
 | [TLDR - Jetbrains IDE Plugin](https://www.thataicollection.com/redirect/tldr---jetbrains-ide-plugin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TLDR: explicación del código en lenguaje sencillo. | TLDR es un complemento IDE que aprovecha la IA para explicar el código en un lenguaje sencillo. | :grey_question: |
 | [Whatthediff](https://www.thataicollection.com/redirect/whatthediff?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | What-the-Diff: asistente de revisión de código impulsado por IA. | La aplicación GitHub impulsada por IA que explica los cambios dentro de sus solicitudes de extracción en un lenguaje sencillo. | :grey_question: |
+| [Writer](https://www.thataicollection.com/redirect/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Escritor: Transforma el trabajo con la IA generativa empresarial. | Consigue una plataforma completa que permita productos de mayor calidad y un tiempo de comercialización más rápido. Se acabó de unir herramientas de IA dispares. | :grey_question: |
 
 
 <!--lint ignore double-link-->
@@ -534,6 +536,7 @@
 | [Pit Stop ChatterGPT](https://www.thataicollection.com/redirect/pit-stop-chattergpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pit Stop ChatterGPT: Chatea con F1 Legends, tu compañero del día de la carrera. | Con esta aplicación, puedes explorar la mentalidad de tus pilotos favoritos antes de una gran carrera, preguntarles sobre sus rutinas de preparación o simplemente tener una charla amistosa. Es como tener una conversación personal con pilotos icónicos de F1 como Lewis Hamilton o Max Verstappen. | :x: |
 | [Podcast.ai](https://www.thataicollection.com/redirect/podcast.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Podcast.Ai. | Bienvenido a podcast.ai, un podcast generado íntegramente por inteligencia artificial. Cada semana, exploramos un nuevo tema en profundidad y los oyentes pueden sugerir temas o incluso invitados y anfitriones para futuros episodios. | :grey_question: |
 | [Raplyrics](https://www.thataicollection.com/redirect/raplyrics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Letras de canciones: genera tus remates de la música rap. | Bienvenido a Raplyrics. Escribe unas palabras en el mensaje de abajo y genera un chiste de música rap único con la inteligencia artificial. | :grey_question: |
+| [Rick and Mortify](https://www.thataicollection.com/redirect/rick-and-mortify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Rick and Mortify: un patio de recreo de IA para crear nuevos episodios de Rick y Morty. | Rick and Mortify es una herramienta que creamos para demostrar que el futuro está más cerca de lo que piensas.  Nuestra herramienta utiliza lo último en modelos de visión y lenguaje a gran escala para crear episodios nunca antes vistos de Rick y Morty con una mínima intervención humana. Todos los puntos de la trama, los diálogos y las imágenes que los acompañan se generan con el aprendizaje automático. | :white_check_mark: |
 | [Silly Times](https://www.thataicollection.com/redirect/silly-times?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Una aplicación de dibujo simple usando AI. | Diviértete dibujando y mira qué tontería hacemos con tu dibujo. ¡La magia está a solo presionar un botón!. | :white_check_mark: |
 | [Songtell](https://www.thataicollection.com/redirect/songtell?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Desentraña las historias detrás de las letras que amas. | Profundice en sus canciones favoritas con Songtell, revelando las cautivadoras historias y el significado detrás de sus letras a través del poder de la IA. | :white_check_mark: |
 | [StoriesbyAI](https://www.thataicollection.com/redirect/storiesbyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Historias de la IA: cuentos únicos escritos, ilustrados y narrados con la IA. | Cuentos únicos escritos, ilustrados y narrados con IA. Haz clic para leer Stories by AI, una publicación de Substack con miles de suscriptores. | :grey_question: |
@@ -600,6 +603,7 @@
 | [Unrealme](https://www.thataicollection.com/redirect/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unreal Me: obtén imágenes tuyas generadas por IA. | Pasos para obtener impresionantes imágenes de ti mismo: 1. Pago. 2. Subir: lee las recomendaciones y sube tus fotos cuando tengas tiempo (tu enlace se envía por correo electrónico). 3. Esperar 4. Compartir. | :x: |
 | [Vidnoz AI HEADSHOT GENERATOR](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Crea fotos profesionales de IA en la cabeza de forma fácil y sin esfuerzo. | El generador de fotos de IA de Vidnoz es un generador de fotos en la cabeza de IA en línea, una herramienta revolucionaria que transforma tus selfies en fotos de la cabeza de alta calidad sin costosas sesiones de fotos. Simplemente sube unas cuantas fotos diarias y deja que los algoritmos de IA de Vidnoz hagan su magia, mezclándose a la perfección tu rostro en una variedad de fondos profesionales y opciones de ropa. | :white_check_mark: |
 | [Waifu XL](https://www.thataicollection.com/redirect/waifu-xl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Waifuxl ofrece mejoras de escala de última generación directamente en el navegador con solo hacer clic en un botón. | Waifuxl ofrece mejoras de escala de última generación directamente en el navegador con solo hacer clic en un botón. No es necesario elegir un nivel de ruido ni un captcha y tus imágenes nunca nos las enviaremos. ¡Todo se hace a nivel local!. | :grey_question: |
+| [Watermark Remover](https://www.thataicollection.com/redirect/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Eliminador de marcas de agua: elimina las marcas de agua en línea de las imágenes de forma gratuita. | Elimina las marcas de agua de tus imágenes con nuestra tecnología de inteligencia artificial. Usa nuestra herramienta de eliminación de marcas de agua y consigue tus imágenes sin marcas de agua. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
@@ -657,7 +661,7 @@
 | [Katteb](https://www.thataicollection.com/redirect/katteb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Escribir contenido verificado. | Katteb AI hace que sea rápido y fácil crear contenido para su blog y tienda en línea. | :white_check_mark: |
 | [LAIKA](https://www.thataicollection.com/redirect/laika?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Inteligencia artificial personalizada para escritores. | Hacemos que las partes aburridas de escribir sean emocionantes. LAIKA es un socio creativo que entrenas para escribir como tú (o como quieras). Hecho para escritores creativos, escritores de juegos y todos los demás fabricantes de ficción. | :white_check_mark: |
 | [Lek](https://www.thataicollection.com/redirect/lek?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Lek.Ai: el kit de herramientas de creación de contenido definitivo con tecnología de IA. | Escribe cualquier cosa por todo. La forma más rápida y sencilla de crear contenido y copiar. | :white_check_mark: |
-| [Lex](https://www.thataicollection.com/redirect/lex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Desbloquea tu mejor escritura. | . | :grey_question: |
+| [Lex](https://www.thataicollection.com/redirect/lex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Lex: Descubre tu mejor escritura: una experiencia de escritura de primera calidad. | Inteligente, colaborativo y potente: Lex es un procesador de textos moderno que permite una forma de escribir radicalmente nueva. No vuelvas a escribir solo. | :grey_question: |
 | [LongShot AI](https://www.thataicollection.com/redirect/longshot-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cree contenido que los humanos y los motores de búsqueda adoren usando inteligencia artificial. | LongShot es un asistente de escritura de IA que lo ayuda a pasar de la idea al contenido de SEO en minutos. ¡Use el poder creativo de la IA con características como contenido en tiempo real, verificación de hechos, SEO semántico, IA personalizada y más!. | :x: |
 | [Netus.ai](https://www.thataicollection.com/redirect/netus.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Derivación, parafraseado y detector impulsados por IA. | NetusAI es una poderosa tecnología impulsada por IA diseñada para ayudar a los creadores de contenido a generar contenido único y de alta calidad hasta 10 veces más rápido que los métodos tradicionales. | :white_check_mark: |
 | [Neuraltext](https://www.thataicollection.com/redirect/neuraltext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Neuraltext - AI Writer y Seo Platform. | Automatice sus operaciones de contenido. La plataforma todo en uno de marketing de contenidos y SEO que le ahorra tiempo y dinero. | :x: |
@@ -1455,18 +1459,15 @@
 | [Redacta.me](https://www.thataicollection.com/redirect/redacta.me?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Redacta.Me - Tu Community Manager Virtual. | . | :grey_question: |
 | [Reface](https://www.thataicollection.com/redirect/reface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Revestir de nuevo. ser cualquiera. | Cree videos, GIF y memes de intercambio de caras realistas con solo una selfie. | :grey_question: |
 | [Revspot](https://www.thataicollection.com/redirect/revspot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Revspot AI: una nueva forma de escribir. | . | :grey_question: |
-| [Rick and Mortify](https://www.thataicollection.com/redirect/rick-and-mortify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Rick y mortificar. | . | :grey_question: |
 | [Snackable AI](https://www.thataicollection.com/redirect/snackable-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aperitivo. | . | :grey_question: |
 | [SuenaGringo AI](https://www.thataicollection.com/redirect/suenagringo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | suenagringo. | Escribe inglés con confianza y rompe las barreras. | :grey_question: |
 | [Summon](https://www.thataicollection.com/redirect/summon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Figma: la herramienta de diseño de interfaz colaborativa. | Construir mejores productos como equipo. Diseñe, cree prototipos y recopile comentarios, todo en un solo lugar con Figma. | :grey_question: |
 | [Super Prompt](https://www.thataicollection.com/redirect/super-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Súper avisos. | Crea una galería para tu arte de IA. La próxima vez que alguien te pida ver todo tu arte, tendrás un lugar al que señalarle. Muestre todo su arte de IA en un solo lugar. | :grey_question: |
 | [SUPERMACHINE](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Supermachine - Genere fotos, arte e imágenes de stock con IA. | SUPERMACHINE te permite generar imágenes con lo último en tecnología de inteligencia artificial. | :grey_question: |
 | [Textunbox](https://www.thataicollection.com/redirect/textunbox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Textunbox.Aplicación. | TextUnbox: ¡aproveche el poder de la IA!. | :grey_question: |
-| [Watermark Remover](https://www.thataicollection.com/redirect/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Eliminador de marcas de agua: elimine marcas de agua en línea de imágenes de forma gratuita. | Deshazte de las marcas de agua de tus imágenes usando nuestra poderosa tecnología de IA. | :white_check_mark: |
 | [WithPoly](https://www.thataicollection.com/redirect/withpoly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Poly: genere recursos de diseño con IA · poli. | . | :grey_question: |
 | [Writelyai](https://www.thataicollection.com/redirect/writelyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Writely: uso de IA para mejorar su escritura. | . | :grey_question: |
 | [Writeplus](https://www.thataicollection.com/redirect/writeplus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Write+: ¡escritura profesional al alcance de todos!. | . | :grey_question: |
-| [Writer](https://www.thataicollection.com/redirect/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Writer - Plataforma de escritura de IA para equipos. | Las empresas de clase mundial utilizan la plataforma de escritura con IA de Writer para desbloquear contenido de marca a escala. | :grey_question: |
 
 
 <!--lint ignore double-link-->

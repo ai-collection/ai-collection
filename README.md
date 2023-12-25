@@ -59,6 +59,19 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI" border="0"/>
+    </a>
+    <h4>AI Video Translation, Subtitle Generation & Translation, Text-to-Speech and Voice Cloning - Try Free</h4>
+    <p>Free AI-powered video translation, dubbing, voice cloning and text-to-speech services. Scale with us to 30+ languages to 10x your audience size effortlessly!</p>
+    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with VideoDubber AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO" border="0"/>
     </a>
@@ -67,19 +80,6 @@ Translations:
     <p>Free AI video editor with text to video, avatars, auto-subtitles, voice translations and more. Record, edit and share your videos online with VEED.
 </p>
     <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with VEED.IO</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI" border="0"/>
-    </a>
-    <h4>AI Video Translation, Subtitle Generation & Translation, Text-to-Speech and Voice Cloning - Try Free</h4>
-    <p>Free AI-powered video translation, dubbing, voice cloning and text-to-speech services. Scale with us to 30+ languages to 10x your audience size effortlessly!</p>
-    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with VideoDubber AI</b></a>
     <br />
 </div>
 
@@ -170,6 +170,87 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### AITable.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aitable.ai.webp" alt="AITable.ai">
+
+#### : No-code Al Agents Builder. Custom ChatGPT for 5x your landing page conversion rate.
+
+[Visit](https://www.thataicollection.com/redirect/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AlTable.ai is a work platform that lets you organize any data with Al. AlTable.ai helps to transform your data effortlessly with the Visual Al Database. Streamline your CRM and project management with Al, and unlock new possibilities for growth and efficiency.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Rick and Mortify
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rick-and-mortify.webp" alt="Rick and Mortify">
+
+#### Rick and Mortify - An AI playground for creating new Rick and Morty episodes.
+[Visit](https://www.thataicollection.com/redirect/rick-and-mortify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Rick and Mortify is a tool we built to demonstrate that future is closer than you might think.
+
+Our tool uses the state-of-the-art in large vision and language models to create never-before-seen episodes of Rick and Morty with minimal human intervention. All the plot points, dialogue, and accompanying visuals are generated with machine learning.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/rick-and-mortify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Watermark Remover
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-watermark-remover.webp" alt="Watermark Remover">
+
+#### Watermark Remover - Remove Watermarks Online From Images for Free
+[Visit](https://www.thataicollection.com/redirect/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Remove watermarks from your images using our AI technology. Use our watermark-remover tool and get your images watermark free.
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Lex
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lex.webp" alt="Lex">
+
+#### Lex - Unlock Your Best Writing - A premium writing experience.
+[Visit](https://www.thataicollection.com/redirect/lex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Intelligent, collaborative, and powerful—Lex is a modern word processor that enables a radically new way to write. Never type alone again.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/lex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Writer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writer.webp" alt="Writer">
+
+#### Writer - Transform work with enterprise generative AI
+
+[Visit](https://www.thataicollection.com/redirect/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Get a full-stack platform that enables higher-quality outputs and faster time to market. No more stitching disparate AI tools together.
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### AICamp
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aicamp.webp" alt="AICamp">
 
@@ -197,84 +278,6 @@ Bramework's AI writer boosts your blog with quick, SEO-optimized posts. Turn you
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/bramework?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Waifulabs
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-waifulabs.webp" alt="Waifulabs">
-
-#### Waifu Labs - Magical Anime Portraits.   
-[Visit](https://www.thataicollection.com/redirect/waifulabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-A state-of-the-art AI that draws custom anime portraits, just for you! This machine learning artist figures out your preferences and creates a perfect character illustration in 4 easy steps. If it sounds like magic, that's because it is!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/waifulabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Chapterme
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chapterme.webp" alt="Chapterme">
-
-#### Chapterme - AI Powered Chapters for Your Videos
-[Visit](https://www.thataicollection.com/redirect/chapterme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-With ChapterMe ChapterGPT, AI automatically generates timestamped chapters for your videos and podcasts in minutes. Save hours of time and money while focusing on creating great content.
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/chapterme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Wisecut
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wisecut.webp" alt="Wisecut">
-
-#### Wisecut - Automatically cut and edit videos with AI
-[Visit](https://www.thataicollection.com/redirect/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Wisecut is an automatic video editor based on voice recognition. With Wisecut, you can easily turn your long-form talking videos into short, impactful clips with music, subtitles, and auto reframe. These short clips are perfect for platforms like YouTube Shorts, TikTok, Instagram Reels, and Social Ads.
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Type AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshot/screenshot-gptkey.webp" alt="Type AI">
-
-#### Gptkey – Write With AI Using the GPT Keyboard
-[Visit](https://www.thataicollection.com/redirect/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Write with AI in any app using the GPT custom keyboard extension.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Predis
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-predis.webp" alt="Predis">
-
-#### Social Media Marketing Made Easy With AI - Predis.Ai
-[Visit](https://www.thataicollection.com/redirect/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Predis is an AI marketing tool for social media helping businesses make captivating Video and Image content and get AI-powered content analysis.
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -957,6 +960,22 @@ Develop a personalized AI support chatbot by utilizing your unique content, supp
 
 ## Code & Database Assistant
 
+### AITable.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aitable.ai.webp" alt="AITable.ai">
+
+#### : No-code Al Agents Builder. Custom ChatGPT for 5x your landing page conversion rate.
+
+[Visit](https://www.thataicollection.com/redirect/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AlTable.ai is a work platform that lets you organize any data with Al. AlTable.ai helps to transform your data effortlessly with the Visual Al Database. Streamline your CRM and project management with Al, and unlock new possibilities for growth and efficiency.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Swimm AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-swimm-ai.webp" alt="Swimm AI">
 
@@ -1030,21 +1049,6 @@ TLDR is an IDE plugin that leverages AI to explain code in plain english.
 <br />
 
 <br />
-
-
-### Dropout Developer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dropout-developer.webp" alt="Dropout Developer">
-
-#### Dropout Developer: Revolutionizing Coding Education for Aspiring Programmers
-[Visit](https://www.thataicollection.com/redirect/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Discover Dropout Developer, the AI-enhanced platform transforming self-taught programming. With personalized learning, project-based courses, and a supportive community, it's ideal for anyone passionate about coding, regardless of their academic background.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ### Whatthediff

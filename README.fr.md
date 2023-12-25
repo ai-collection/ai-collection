@@ -68,12 +68,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
     </a>
-    <h4>Traduction vidéo par IA, génération et traduction de sous-titres, synthèse vocale et clonage vocal - Essaie gratuitement</h4>
-    <p>Services gratuits de traduction vidéo, de doublage, de clonage vocal et de synthèse vocale basés sur l'IA. Avec nous, passez à plus de 30 langues, soit 10 fois la taille de votre public sans effort !</p>
-    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec VideoDubber AI</b></a>
+    <h4>undress.vip—Le meilleur déshabillage 100 % fonctionnel de 2023 sur deepnude </h4>
+    <p>Undress.vip, un outil d'IA révolutionnaire qui joue un rôle de premier plan dans cette progression. undress.vip—2023 best 100 % Working AI Deepnude & Deepfake Telegram Undress AI Bots</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Undress.Vip</b></a>
     <br />
 </div>
 
@@ -94,12 +94,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI" border="0"/>
     </a>
-    <h4>undress.vip—Le meilleur déshabillage 100 % fonctionnel de 2023 sur deepnude </h4>
-    <p>Undress.vip, un outil d'IA révolutionnaire qui joue un rôle de premier plan dans cette progression. undress.vip—2023 best 100 % Working AI Deepnude & Deepfake Telegram Undress AI Bots</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Undress.Vip</b></a>
+    <h4>Traduction vidéo par IA, génération et traduction de sous-titres, synthèse vocale et clonage vocal - Essaie gratuitement</h4>
+    <p>Services gratuits de traduction vidéo, de doublage, de clonage vocal et de synthèse vocale basés sur l'IA. Avec nous, passez à plus de 30 langues, soit 10 fois la taille de votre public sans effort !</p>
+    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec VideoDubber AI</b></a>
     <br />
 </div>
 
@@ -164,6 +164,87 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
 
+### AITable.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aitable.ai.webp" alt="AITable.ai">
+
+#### : Al Agents Builder sans code. ChatGPT personnalisé pour un taux de conversion de 5 fois celui de ta page de destination.
+
+[Visit](https://www.thataicollection.com/redirect/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AlTable.ai est une plateforme de travail qui te permet d'organiser toutes tes données avec Al. AlTable.ai permet de transformer tes données sans effort grâce à la base de données Visual Al. Rationalise ton CRM et ta gestion de projet avec Al, et ouvre de nouvelles possibilités de croissance et d'efficacité.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Rick and Mortify
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rick-and-mortify.webp" alt="Rick and Mortify">
+
+#### Rick et Mortify - Un terrain de jeu basé sur l'IA pour créer de nouveaux épisodes de Rick et Morty.
+[Visit](https://www.thataicollection.com/redirect/rick-and-mortify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Rick and Mortify est un outil que nous avons créé pour montrer que le futur est plus proche que tu ne le penses.
+
+Notre outil utilise les dernières technologies en matière de vision à grande échelle et de modèles linguistiques pour créer des épisodes inédits de Rick et Morty avec un minimum d'intervention humaine. Tous les points de l'intrigue, les dialogues et les éléments visuels qui les accompagnent sont générés grâce à l'apprentissage automatique.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/rick-and-mortify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Watermark Remover
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-watermark-remover.webp" alt="Watermark Remover">
+
+#### Watermark Remover : Supprime les filigranes en ligne sur les images gratuitement
+[Visit](https://www.thataicollection.com/redirect/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Supprime les filigranes de tes images à l'aide de notre technologie d'intelligence artificielle. Utilise notre outil de suppression des filigranes et imprime tes images en filigrane gratuitement.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Lex
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lex.webp" alt="Lex">
+
+#### Lex - Débloquez votre meilleure écriture - Une expérience d'écriture haut de gamme.
+[Visit](https://www.thataicollection.com/redirect/lex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Intelligent, collaboratif et puissant : Lex est un traitement de texte moderne qui propose une façon d'écrire radicalement nouvelle. Ne tape plus jamais seule.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/lex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Writer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writer.webp" alt="Writer">
+
+#### Rédacteur - Transformez le travail grâce à l'IA générative d'entreprise
+
+[Visit](https://www.thataicollection.com/redirect/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Opte pour une plateforme complète qui permet des sorties de meilleure qualité et des délais de mise sur le marché plus rapides. Plus besoin d'associer des outils d'IA disparates.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AICamp
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aicamp.webp" alt="AICamp">
 
@@ -191,84 +272,6 @@ Le rédacteur IA de Bramework améliore ton blog grâce à des articles rapides 
 
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/bramework?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Waifulabs
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-waifulabs.webp" alt="Waifulabs">
-
-#### Waifu Labs - Portraits animés magiques.   
-[Visit](https://www.thataicollection.com/redirect/waifulabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Une IA ultramoderne qui dessine des portraits animés personnalisés, rien que pour toi ! Cet artiste d'apprentissage automatique détermine tes préférences et crée une illustration de personnage parfaite en 4 étapes faciles. Si ça a l'air magique, c'est parce que ça l'est !
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/waifulabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Chapterme
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chapterme.webp" alt="Chapterme">
-
-#### Chapterme - Des chapitres alimentés par l'IA pour tes vidéos
-[Visit](https://www.thataicollection.com/redirect/chapterme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Avec ChapterMe ChapterGPT, l'IA génère automatiquement des chapitres horodatés pour tes vidéos et podcasts en quelques minutes. Gagnez du temps et de l'argent tout en vous concentrant sur la création de contenu de qualité.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/chapterme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Wisecut
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wisecut.webp" alt="Wisecut">
-
-#### Wisecut - Découpe et édite des vidéos automatiquement grâce à l'IA
-[Visit](https://www.thataicollection.com/redirect/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Wisecut est un éditeur vidéo automatique basé sur la reconnaissance vocale. Avec Wisecut, tu peux facilement transformer tes longues vidéos parlantes en clips courts et percutants avec de la musique, des sous-titres et un recadrage automatique. Ces courts clips sont parfaits pour des plateformes telles que YouTube Shorts, TikTok, Instagram Reels et les publicités sur les réseaux sociaux.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Type AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshot/screenshot-gptkey.webp" alt="Type AI">
-
-#### GPTKey - Écrivez avec l'IA à l'aide du clavier GPT
-[Visit](https://www.thataicollection.com/redirect/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Écrivez avec l'IA dans n'importe quelle application à l'aide de l'extension de clavier personnalisée GPT.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Predis
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-predis.webp" alt="Predis">
-
-#### Le marketing sur les réseaux sociaux simplifié grâce à l'IA - Predis.Ai
-[Visit](https://www.thataicollection.com/redirect/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Predis est un outil marketing basé sur l'IA pour les réseaux sociaux qui aide les entreprises à créer des vidéos et des images captivants et à effectuer des analyses de contenu basées sur l'IA.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -951,6 +954,22 @@ Développe un chatbot d'assistance IA personnalisé en utilisant ton contenu uni
 
 ## Assistant de code et de base de données
 
+### AITable.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aitable.ai.webp" alt="AITable.ai">
+
+#### : Al Agents Builder sans code. ChatGPT personnalisé pour un taux de conversion de 5 fois celui de ta page de destination.
+
+[Visit](https://www.thataicollection.com/redirect/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AlTable.ai est une plateforme de travail qui te permet d'organiser toutes tes données avec Al. AlTable.ai permet de transformer tes données sans effort grâce à la base de données Visual Al. Rationalise ton CRM et ta gestion de projet avec Al, et ouvre de nouvelles possibilités de croissance et d'efficacité.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Swimm AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-swimm-ai.webp" alt="Swimm AI">
 
@@ -1024,21 +1043,6 @@ TLDR est un plugin IDE qui exploite l'IA pour expliquer le code en anglais simpl
 <br />
 
 <br />
-
-
-### Dropout Developer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dropout-developer.webp" alt="Dropout Developer">
-
-#### Dropout Developer : révolutionner l'enseignement du codage pour les programmeurs en herbe
-[Visit](https://www.thataicollection.com/redirect/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Découvrez Dropout Developer, la plateforme améliorée par l'IA qui transforme la programmation autodidacte. Avec un apprentissage personnalisé, des cours basés sur des projets et une communauté de soutien, c'est idéal pour tous les passionnés de programmation, quel que soit leur parcours universitaire.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ### Whatthediff

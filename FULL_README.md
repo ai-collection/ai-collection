@@ -59,6 +59,19 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI" border="0"/>
+    </a>
+    <h4>AI Video Translation, Subtitle Generation & Translation, Text-to-Speech and Voice Cloning - Try Free</h4>
+    <p>Free AI-powered video translation, dubbing, voice cloning and text-to-speech services. Scale with us to 30+ languages to 10x your audience size effortlessly!</p>
+    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with VideoDubber AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO" border="0"/>
     </a>
@@ -67,19 +80,6 @@ Translations:
     <p>Free AI video editor with text to video, avatars, auto-subtitles, voice translations and more. Record, edit and share your videos online with VEED.
 </p>
     <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with VEED.IO</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI" border="0"/>
-    </a>
-    <h4>AI Video Translation, Subtitle Generation & Translation, Text-to-Speech and Voice Cloning - Try Free</h4>
-    <p>Free AI-powered video translation, dubbing, voice cloning and text-to-speech services. Scale with us to 30+ languages to 10x your audience size effortlessly!</p>
-    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with VideoDubber AI</b></a>
     <br />
 </div>
 
@@ -439,6 +439,7 @@ Translations:
 | [AI SQL BOT](https://www.thataicollection.com/redirect/ai-sql-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI SQL Query Builder: Easiest Way to Build SQL Queries Without Prior SQL Knowledge - SQL Query Builder Using AI. | Professional AI-powered SQL and NoSQL generator with free tier. AI generates, explains, optimizes SQL queries for you using cutting-edge AI technology in seconds. | :grey_question: |
 | [ai2sql](https://www.thataicollection.com/redirect/ai2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SQL Query Builder - SQL Query Builder AI Bot. | With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL. AI-powered SQL query builder enables you to quickly build SQL queries without any knowledge of SQL for beginners. | :white_check_mark: |
 | [aidev.codes](https://www.thataicollection.com/redirect/aidev.codes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Dev Codes for You. | Create simple apps and demos just by entering specifications — a new type of AI prompt engineering. | :white_check_mark: |
+| [AITable.ai](https://www.thataicollection.com/redirect/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | : No-code Al Agents Builder. Custom ChatGPT for 5x your landing page conversion rate. | AlTable.ai is a work platform that lets you organize any data with Al. AlTable.ai helps to transform your data effortlessly with the Visual Al Database. Streamline your CRM and project management with Al, and unlock new possibilities for growth and efficiency. | :white_check_mark: |
 | [Anania](https://www.thataicollection.com/redirect/anania?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Assistant for Analytics. | Ask questions on your data and documents. | :white_check_mark: |
 | [Ask Command](https://www.thataicollection.com/redirect/ask-command?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ask Command — AI-Powered Developer Assistant. | A tiny app to remind you about those commands you always forget. Powered by AI. | :grey_question: |
 | [Baseten](https://www.thataicollection.com/redirect/baseten?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Baseten - The Mlops Platform for Startups. | Baseten is a serverless backend for building ML-powered applications. Build apps with auto-scaling, GPU access, CRON jobs, and serverless functions. | :grey_question: |
@@ -475,6 +476,7 @@ Translations:
 | [Text2SQL](https://www.thataicollection.com/redirect/text2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Text2Sql.Ai - Generate SQL Queries With AI for Free!. | . | :white_check_mark: |
 | [TLDR - Jetbrains IDE Plugin](https://www.thataicollection.com/redirect/tldr---jetbrains-ide-plugin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TLDR – Explain Code in Plain English. | TLDR is an IDE plugin that leverages AI to explain code in plain english. | :grey_question: |
 | [Whatthediff](https://www.thataicollection.com/redirect/whatthediff?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | What-the-Diff – AI-Powered Code Review Assistant. | The AI powered GitHub app that explains the changes within your pull requests in plain english. | :grey_question: |
+| [Writer](https://www.thataicollection.com/redirect/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Writer - Transform work with enterprise generative AI. | Get a full-stack platform that enables higher-quality outputs and faster time to market. No more stitching disparate AI tools together. | :grey_question: |
 
 
 <!--lint ignore double-link-->
@@ -509,7 +511,7 @@ Translations:
 | [Katteb](https://www.thataicollection.com/redirect/katteb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Write Fact-Checked Content. | Katteb AI makes it fast & easy to create content for your blog and online store. | :white_check_mark: |
 | [LAIKA](https://www.thataicollection.com/redirect/laika?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Personalised Artificial Intelligence for Writers. | We make the boring parts of writing exciting. LAIKA is a creative partner that you train to write like you (or anyone you want). Made for creative writers, game writers, and all other fiction fabricators. | :white_check_mark: |
 | [Lek](https://www.thataicollection.com/redirect/lek?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Lek.Ai - The Ultimate Content Creator Toolkit Powered by AI. | Write Anything For Everything. The fastest and easiest way to create content and copy. | :white_check_mark: |
-| [Lex](https://www.thataicollection.com/redirect/lex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unlock Your Best Writing. | . | :grey_question: |
+| [Lex](https://www.thataicollection.com/redirect/lex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Lex - Unlock Your Best Writing - A premium writing experience. | Intelligent, collaborative, and powerful—Lex is a modern word processor that enables a radically new way to write. Never type alone again. | :grey_question: |
 | [LongShot AI](https://www.thataicollection.com/redirect/longshot-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create Content That Humans and Search Engines Love Using Artificial Intelligence. | LongShot is an AI writing assistant that helps you go from idea to SEO content in minutes. Use creative power of AI with features like real time content, fact check, semantic SEO, custom AI, & more!. | :x: |
 | [Netus.ai](https://www.thataicollection.com/redirect/netus.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-Driven Bypasser, Paraphraser and Detector. | NetusAI is a powerful AI-driven technology designed to help content creators generate unique, high-quality content up to 10x faster than traditional methods. | :white_check_mark: |
 | [Neuraltext](https://www.thataicollection.com/redirect/neuraltext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Neuraltext - AI Writer and Seo Platform. | Automate your content operations. The all-in-one content marketing and SEO platform that saves you time and money. | :x: |
@@ -676,6 +678,7 @@ Translations:
 | [Pit Stop ChatterGPT](https://www.thataicollection.com/redirect/pit-stop-chattergpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pit Stop ChatterGPT: Chat With F1 Legends, Your Race Day Companion. | With this app, you can explore the mindset of your favorite drivers before a big race, ask about their preparation routines, or just have a friendly chat. It's like having a personal conversation with iconic F1 drivers like Lewis Hamilton or Max Verstappen. | :x: |
 | [Podcast.ai](https://www.thataicollection.com/redirect/podcast.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Podcast.Ai. | Welcome to podcast.ai, a podcast that is entirely generated by artificial intelligence. Every week, we explore a new topic in depth, and listeners can suggest topics or even guests and hosts for future episodes. | :grey_question: |
 | [Raplyrics](https://www.thataicollection.com/redirect/raplyrics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Raplyrics – Generate Your Rap Music Punchlines. | Welcome to Raplyrics - Write a few words in the prompt below and generate a unique rap music punchline using Artificial Intelligence!. | :grey_question: |
+| [Rick and Mortify](https://www.thataicollection.com/redirect/rick-and-mortify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Rick and Mortify - An AI playground for creating new Rick and Morty episodes. | Rick and Mortify is a tool we built to demonstrate that future is closer than you might think.  Our tool uses the state-of-the-art in large vision and language models to create never-before-seen episodes of Rick and Morty with minimal human intervention. All the plot points, dialogue, and accompanying visuals are generated with machine learning. | :white_check_mark: |
 | [Silly Times](https://www.thataicollection.com/redirect/silly-times?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Asimple Drawing App Using AI. | Have a fun time drawing and see what silly thing we make from your drawing.  Magic is just button press away!. | :white_check_mark: |
 | [Songtell](https://www.thataicollection.com/redirect/songtell?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unravel the Stories Behind the Lyrics You Love. | Delve deeper into your favorite songs with Songtell, revealing the captivating stories and meaning behind their lyrics through the power of AI. | :white_check_mark: |
 | [StoriesbyAI](https://www.thataicollection.com/redirect/storiesbyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Stories by AI - Unique tales written, illustrated, and narrated with AI. | Unique tales written, illustrated, and narrated with AI. Click to read Stories by AI, a Substack publication with thousands of subscribers. | :grey_question: |
@@ -968,6 +971,7 @@ Translations:
 | [Unrealme](https://www.thataicollection.com/redirect/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unreal Me - Get AI Generated Images of You. | Steps to get awesome images of yourself: 1. Payment. 2. Upload - Read recommendations and upload your photos whenever you have time (your link is sent by email). 3. Wait 4. Share. | :x: |
 | [Vidnoz AI HEADSHOT GENERATOR](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create Professional AI Headshots Easily and Effortlessly. | Vidnoz AI Headshot Generator is an online AI headshot generator, a revolutionary tool that transforms your selfies into high-quality headshots without expensive photo shoots. Simply upload a few daily photos and let Vidnoz's AI algorithms work their magic, seamlessly blending your face onto a variety of professional backdrops and clothing options. | :white_check_mark: |
 | [Waifu XL](https://www.thataicollection.com/redirect/waifu-xl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Waifuxl provides state of the art upscaling directly in your browser at the click of a button. | Waifuxl provides state of the art upscaling directly in your browser at the click of a button. No need to choose a noise level, no captcha, and your images are never sent to us. Everything is done locally!. | :grey_question: |
+| [Watermark Remover](https://www.thataicollection.com/redirect/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Watermark Remover - Remove Watermarks Online From Images for Free. | Remove watermarks from your images using our AI technology. Use our watermark-remover tool and get your images watermark free. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
@@ -1461,18 +1465,15 @@ Translations:
 | [Redacta.me](https://www.thataicollection.com/redirect/redacta.me?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Redacta.Me - Tu Community Manager Virtual. | . | :grey_question: |
 | [Reface](https://www.thataicollection.com/redirect/reface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Reface. Be Anyone. | Create realistic face swap videos, GIFs and memes with just one selfie. | :grey_question: |
 | [Revspot](https://www.thataicollection.com/redirect/revspot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Revspot AI - A New Way of Writing. | . | :grey_question: |
-| [Rick and Mortify](https://www.thataicollection.com/redirect/rick-and-mortify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Rick and Mortify. | . | :grey_question: |
 | [Snackable AI](https://www.thataicollection.com/redirect/snackable-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Snackable. | . | :grey_question: |
 | [SuenaGringo AI](https://www.thataicollection.com/redirect/suenagringo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Suenagringo. | Escribe inglÃ©s con confianza y rompe las barreras. | :grey_question: |
 | [Summon](https://www.thataicollection.com/redirect/summon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Figma: The Collaborative Interface Design Tool. | Build better products as a team. Design, prototype, and gather feedback all in one place with Figma. | :grey_question: |
 | [Super Prompt](https://www.thataicollection.com/redirect/super-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Super Prompts. | Create a gallery for your AI art. Next time someone asks to see all your art, you'll have somewhere to point them to. Showcase all your AI art in one place. | :grey_question: |
 | [SUPERMACHINE](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Supermachine - Generate Stock Photos, Art, and Images With AI. | SUPERMACHINE enables you to generate images with the latest in artificial intelligence technology. | :grey_question: |
 | [Textunbox](https://www.thataicollection.com/redirect/textunbox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Textunbox.App. | TextUnbox - harness the power of AI!. | :grey_question: |
-| [Watermark Remover](https://www.thataicollection.com/redirect/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Watermark Remover - Remove Watermarks Online From Images for Free. | Get rid of the watermarks from your images using our powerful AI technology. | :white_check_mark: |
 | [WithPoly](https://www.thataicollection.com/redirect/withpoly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Poly: Generate Design Assets With A.I. · Poly. | . | :grey_question: |
 | [Writelyai](https://www.thataicollection.com/redirect/writelyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Writely - Using AI to Improve Your Writing. | . | :grey_question: |
 | [Writeplus](https://www.thataicollection.com/redirect/writeplus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Write+ – Professional Writing Made Accessible for All!. | . | :grey_question: |
-| [Writer](https://www.thataicollection.com/redirect/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Writer - AI Writing Platform for Teams. | World-class companies use Writers AI writing platform to unlock on-brand content at scale. | :grey_question: |
 
 
 <!--lint ignore double-link-->

@@ -81,12 +81,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
     </a>
-    <h4>Раздевание с искусственным интеллектом - БЕСПЛАТНОЕ раздевание фотографий обнаженной натуры с помощью искусственного интеллекта</h4>
-    <p>Лучшая НОВАЯ БЕСПЛАТНАЯ технология раздевания с искусственным интеллектом! Раздевание на базе искусственного интеллекта для фотографий! Мгновенно меняйте внешний вид. Обнаженные фотографии в один клик. Множество стилей и возможность сделать это в кратчайшие сроки</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с undressing.io</b></a>
+    <h4>undress.vip—2023 лучшее 100% рабочее раздевание в обнаженном виде </h4>
+    <p>Undress.vip, новаторский инструмент для искусственного интеллекта, лежащий в авангарде этого прогресса. undress.vip—2023 лучшие телеграмы раздевают искусственные боты с искусственным интеллектом на 100% работающим искусственным интеллектом в стиле deepnude и deepfake</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Undress.Vip</b></a>
     <br />
 </div>
 
@@ -94,12 +94,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
-    <h4>undress.vip—2023 лучшее 100% рабочее раздевание в обнаженном виде </h4>
-    <p>Undress.vip, новаторский инструмент для искусственного интеллекта, лежащий в авангарде этого прогресса. undress.vip—2023 лучшие телеграмы раздевают искусственные боты с искусственным интеллектом на 100% работающим искусственным интеллектом в стиле deepnude и deepfake</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Undress.Vip</b></a>
+    <h4>Раздевание с искусственным интеллектом - БЕСПЛАТНОЕ раздевание фотографий обнаженной натуры с помощью искусственного интеллекта</h4>
+    <p>Лучшая НОВАЯ БЕСПЛАТНАЯ технология раздевания с искусственным интеллектом! Раздевание на базе искусственного интеллекта для фотографий! Мгновенно меняйте внешний вид. Обнаженные фотографии в один клик. Множество стилей и возможность сделать это в кратчайшие сроки</p>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с undressing.io</b></a>
     <br />
 </div>
 
@@ -164,6 +164,87 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### AITable.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aitable.ai.webp" alt="AITable.ai">
+
+#### A: Конструктор всех агентов без кода. Настройте ChatGPT, чтобы повысить конверсию целевой страницы в 5 раз.
+
+[Visit](https://www.thataicollection.com/redirect/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AlTable.ai — это рабочая платформа, которая позволяет организовать любые данные с помощью Al. AlTable.ai помогает легко преобразовывать данные с помощью базы данных Visual Al. Оптимизируйте CRM и управление проектами с помощью Al и откройте новые возможности роста и эффективности.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Rick and Mortify
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rick-and-mortify.webp" alt="Rick and Mortify">
+
+#### Rick and Mortify — игровая площадка с искусственным интеллектом для создания новых эпизодов Рика и Морти.
+[Visit](https://www.thataicollection.com/redirect/rick-and-mortify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Rick and Mortify — это инструмент, который мы создали, чтобы продемонстрировать, что будущее ближе, чем вы думаете.
+
+Наш инструмент использует самые современные модели расширенного зрения и языка для создания невиданных ранее эпизодов сериала «Рик и Морти» с минимальным вмешательством человека. Все сюжетные моменты, диалоги и сопутствующие визуальные эффекты созданы с помощью машинного обучения.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/rick-and-mortify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Watermark Remover
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-watermark-remover.webp" alt="Watermark Remover">
+
+#### Средство для удаления водяных знаков - удаляйте водяные знаки онлайн с изображений бесплатно
+[Visit](https://www.thataicollection.com/redirect/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Удалите водяные знаки с изображений с помощью нашей технологии искусственного интеллекта. Воспользуйтесь нашим инструментом для удаления водяных знаков и избавьтесь от водяных знаков на своих изображениях.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Lex
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lex.webp" alt="Lex">
+
+#### Lex - Открой свой лучший текст - первоклассный опыт письма.
+[Visit](https://www.thataicollection.com/redirect/lex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Интеллектуальный, эффективный и эффективный для совместной работы — LEX — это современный текстовый процессор, который позволяет использовать совершенно новый способ письма. Никогда больше не печатайте в одиночку.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/lex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Writer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writer.webp" alt="Writer">
+
+#### Writer — Преобразуйте работу с помощью корпоративного генерирующего искусственного интеллекта
+
+[Visit](https://www.thataicollection.com/redirect/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Получите полнофункциональную платформу, обеспечивающую более высокое качество продукции и ускоряющую вывод продукции на рынок. Больше не нужно объединять разрозненные инструменты искусственного интеллекта.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AICamp
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aicamp.webp" alt="AICamp">
 
@@ -191,84 +272,6 @@ AICamp позволяет командам централизовать дост
 
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/bramework?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Waifulabs
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-waifulabs.webp" alt="Waifulabs">
-
-#### Waifu Labs - волшебные аниме-портреты.   
-[Visit](https://www.thataicollection.com/redirect/waifulabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ультрасовременный искусственный интеллект, который рисует собственные аниме-портреты именно для вас! Этот художник с машинным обучением выяснит ваши предпочтения и создаст идеальную иллюстрацию персонажей за 4 простых шага. Если это звучит как волшебство, значит, так оно и есть!
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/waifulabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Chapterme
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chapterme.webp" alt="Chapterme">
-
-#### Chapterme - главы для ваших видео с использованием искусственного интеллекта
-[Visit](https://www.thataicollection.com/redirect/chapterme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-С ChapterME ChapterGPT искусственный интеллект автоматически генерирует главы с отметками времени для ваших видео и подкастов за считанные минуты. Сэкономьте часы времени и денег, сосредоточившись на создании отличного контента.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/chapterme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Wisecut
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wisecut.webp" alt="Wisecut">
-
-#### Wisecut - автоматическое вырезание и редактирование видео с помощью AI
-[Visit](https://www.thataicollection.com/redirect/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Wisecut — это автоматический видеоредактор, основанный на распознавании голоса. С помощью Wisecut вы можете легко превратить длинные разговорные видеоролики в короткие эффектные клипы с музыкой, субтитрами и автоматическим перекадриванием. Эти короткие клипы идеально подходят для таких платформ, как YouTube Shorts, TikTok, ролики в Instagram и социальные объявления.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Type AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshot/screenshot-gptkey.webp" alt="Type AI">
-
-#### GPTKey — пишите с помощью ИИ, используя клавиатуру GPT
-[Visit](https://www.thataicollection.com/redirect/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Пишите с помощью ИИ в любом приложении, используя пользовательское расширение клавиатуры GPT.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Predis
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-predis.webp" alt="Predis">
-
-#### Маркетинг в социальных сетях стал проще с помощью искусственного интеллекта - Predis.Ai
-[Visit](https://www.thataicollection.com/redirect/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Predis — это маркетинговый инструмент искусственного интеллекта для социальных сетей, помогающий компаниям создавать увлекательный контент с видео и изображениями и анализировать контент на основе искусственного интеллекта.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -949,6 +952,22 @@ ChatSimple — это платформа, которая специализир�
 
 ## Помощник по коду и базе данных
 
+### AITable.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aitable.ai.webp" alt="AITable.ai">
+
+#### A: Конструктор всех агентов без кода. Настройте ChatGPT, чтобы повысить конверсию целевой страницы в 5 раз.
+
+[Visit](https://www.thataicollection.com/redirect/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AlTable.ai — это рабочая платформа, которая позволяет организовать любые данные с помощью Al. AlTable.ai помогает легко преобразовывать данные с помощью базы данных Visual Al. Оптимизируйте CRM и управление проектами с помощью Al и откройте новые возможности роста и эффективности.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Swimm AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-swimm-ai.webp" alt="Swimm AI">
 
@@ -1022,21 +1041,6 @@ TLDR — это подключаемый модуль IDE, который исп
 <br />
 
 <br />
-
-
-### Dropout Developer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dropout-developer.webp" alt="Dropout Developer">
-
-#### Dropout Developer: революция в обучении программированию для начинающих программистов
-[Visit](https://www.thataicollection.com/redirect/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Откройте для себя Dropout Developer, усовершенствованную платформу искусственного интеллекта, которая трансформирует программирование для самообучения. Благодаря персонализированному обучению, проектным курсам и поддерживающему сообществу эта программа идеально подходит для всех, кто увлекается программированием, независимо от их академического образования.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ### Whatthediff

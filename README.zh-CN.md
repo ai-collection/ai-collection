@@ -68,12 +68,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
-    <h4>AI 视频翻译、字幕生成和翻译、文字转语音和语音克隆-免费试用</h4>
-    <p>由人工智能驱动的免费视频翻译、配音、语音克隆和文字转语音服务。和我们一起轻松扩展到 30 多种语言，将受众规模扩大到 10 倍！</p>
-    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 VideoDubber AI</b></a>
+    <h4>AI Undressing-使用 AI Undressing 免费裸体照片</h4>
+    <p>最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成</p>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 undressing.io</b></a>
     <br />
 </div>
 
@@ -81,12 +81,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI" border="0"/>
     </a>
-    <h4>AI Undressing-使用 AI Undressing 免费裸体照片</h4>
-    <p>最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 undressing.io</b></a>
+    <h4>AI 视频翻译、字幕生成和翻译、文字转语音和语音克隆-免费试用</h4>
+    <p>由人工智能驱动的免费视频翻译、配音、语音克隆和文字转语音服务。和我们一起轻松扩展到 30 多种语言，将受众规模扩大到 10 倍！</p>
+    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 VideoDubber AI</b></a>
     <br />
 </div>
 
@@ -164,6 +164,87 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### AITable.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aitable.ai.webp" alt="AITable.ai">
+
+#### : 无代码所有代理生成器。自定义 ChatGPT 可将您的着陆页转化率提高到 5 倍。
+
+[Visit](https://www.thataicollection.com/redirect/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AlTable.ai 是一个工作平台，允许你使用 Al 来组织任何数据。AlTable.ai 有助于使用 Visual Al 数据库轻松转换数据。使用 Al 简化您的 CRM 和项目管理，开启增长和效率的新可能性。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Rick and Mortify
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rick-and-mortify.webp" alt="Rick and Mortify">
+
+#### Rick and Mortify-一个用于创作《瑞克和莫蒂》新剧集的人工智能游乐场。
+[Visit](https://www.thataicollection.com/redirect/rick-and-mortify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Rick and Mortify 是我们开发的一款工具，旨在证明未来比你想象的要近。
+
+我们的工具使用最先进的大视觉和语言模型，以最少的人为干预创出前所未有的《瑞克和莫蒂》剧集。所有情节点、对话和随附的视觉效果都是通过机器学习生成的。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/rick-and-mortify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Watermark Remover
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-watermark-remover.webp" alt="Watermark Remover">
+
+#### 水印去除器-免费在线删除图像中的水印
+[Visit](https://www.thataicollection.com/redirect/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用我们的 AI 技术去除图像中的水印。使用我们的水印去除工具，让您的图像免受水印。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Lex
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lex.webp" alt="Lex">
+
+#### Lex-解锁你的最佳写作-优质的写作体验。
+[Visit](https://www.thataicollection.com/redirect/lex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+智能、协作、强大——LEX 是一款现代文字处理器，它支持一种全新的写作方式。永远不要再单独打字了。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/lex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Writer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writer.webp" alt="Writer">
+
+#### Writer-利用企业生成式 AI 实现工作转型
+
+[Visit](https://www.thataicollection.com/redirect/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+获取全栈平台，实现更高质量的输出和更快的上市时间。不再需要将不同的 AI 工具拼接在一起。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### AICamp
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aicamp.webp" alt="AICamp">
 
@@ -191,84 +272,6 @@ Bramework 的人工智能作家通过快速的、经过搜索引擎优化的帖�
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/bramework?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Waifulabs
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-waifulabs.webp" alt="Waifulabs">
-
-#### Waifu Labs-神奇的动漫肖像。   
-[Visit](https://www.thataicollection.com/redirect/waifulabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-一款专为你绘制自定义动漫肖像的最先进的人工智能！这位机器学习艺术家会找出你的喜好，只需 4 个简单步骤即可绘制出完美的角色插画。如果听起来像魔法，那是因为确实如此！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/waifulabs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Chapterme
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chapterme.webp" alt="Chapterme">
-
-#### Chapterme-为你的视频提供人工智能支持的章节
-[Visit](https://www.thataicollection.com/redirect/chapterme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-有了 ChapterMe ChapterGPT，人工智能会在几分钟内自动为你的视频和播客生成带有时间戳的章节。节省数小时的时间和金钱，同时专注于创作精彩内容。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chapterme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Wisecut
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wisecut.webp" alt="Wisecut">
-
-#### Wisecut-使用 AI 自动剪切和编辑视频
-[Visit](https://www.thataicollection.com/redirect/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Wisecut是一款基于语音识别的自动视频编辑器。使用 Wisecut，您可以轻松地将长篇有声视频转换为带有音乐、字幕和自动重构的简短而有影响力的片段。这些短片非常适合YouTube短片、抖音、Instagram Reels和社交广告等平台。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Type AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshot/screenshot-gptkey.webp" alt="Type AI">
-
-#### GPTKey – 使用 GPT 键盘与 AI 一起书写
-[Visit](https://www.thataicollection.com/redirect/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 GPT 自定义键盘扩展在任何应用程序中使用 AI 进行书写。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Predis
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-predis.webp" alt="Predis">
-
-#### 使用 AI 轻松进行社交媒体营销-Predis.Ai
-[Visit](https://www.thataicollection.com/redirect/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Predis是一款用于社交媒体的人工智能营销工具，可帮助企业制作引人入胜的视频和图像内容，并获得基于人工智能的内容分析。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -951,6 +954,22 @@ ChatSimple是一个专门在短短5分钟内为中小型企业（SMB）创建以
 
 ## 代码和数据库助手
 
+### AITable.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aitable.ai.webp" alt="AITable.ai">
+
+#### : 无代码所有代理生成器。自定义 ChatGPT 可将您的着陆页转化率提高到 5 倍。
+
+[Visit](https://www.thataicollection.com/redirect/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AlTable.ai 是一个工作平台，允许你使用 Al 来组织任何数据。AlTable.ai 有助于使用 Visual Al 数据库轻松转换数据。使用 Al 简化您的 CRM 和项目管理，开启增长和效率的新可能性。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Swimm AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-swimm-ai.webp" alt="Swimm AI">
 
@@ -1020,21 +1039,6 @@ ExplainDev 帮助您更加自信和独立地处理他人的代码。通过由 AI
 TLDR 是一个 IDE 插件，它利用 AI 以简单的英语解释代码。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/tldr---jetbrains-ide-plugin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Dropout Developer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dropout-developer.webp" alt="Dropout Developer">
-
-#### 辍学开发者：彻底改变有抱负的程序员的编程教育
-[Visit](https://www.thataicollection.com/redirect/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-探索 Dropout Developer，这是一款改造自学编程的人工智能增强平台凭借个性化学习、基于项目的课程和支持社区，它非常适合任何热衷于编程的人，无论其学术背景如何。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dropout-developer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
