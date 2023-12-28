@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=997" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=996" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -53,14 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
-    <h4>VEED.IO - Éditeur vidéo basé sur l'IA, rapide, en ligne et gratuit
-</h4>
-    <p>Éditeur vidéo IA gratuit avec conversion de texte en vidéo, avatars, sous-titres automatiques, traductions vocales et plus encore. Enregistre, modifie et partage tes vidéos en ligne avec VEED.
-</p>
-    <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec VEED.IO</b></a>
+    <h4>AI Undressing - Nudifie des photos GRATUITEMENT avec AI Undressing</h4>
+    <p>Meilleure nouvelle technologie de déshabillage IA GRATUITE ! Se déshabiller grâce à l'IA pour les photos ! Transforme instantanément l'apparence. Des photos de nu en un clic. De nombreux styles et la possibilité de le faire rapidement</p>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec undressing.io</b></a>
     <br />
 </div>
 
@@ -81,25 +79,14 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO" border="0"/>
     </a>
-    <h4>AI Undressing - Nudifie des photos GRATUITEMENT avec AI Undressing</h4>
-    <p>Meilleure nouvelle technologie de déshabillage IA GRATUITE ! Se déshabiller grâce à l'IA pour les photos ! Transforme instantanément l'apparence. Des photos de nu en un clic. De nombreux styles et la possibilité de le faire rapidement</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec undressing.io</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI" border="0"/>
-    </a>
-    <h4>Traduction vidéo par IA, génération et traduction de sous-titres, synthèse vocale et clonage vocal - Essaie gratuitement</h4>
-    <p>Services gratuits de traduction vidéo, de doublage, de clonage vocal et de synthèse vocale basés sur l'IA. Avec nous, passez à plus de 30 langues, soit 10 fois la taille de votre public sans effort !</p>
-    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec VideoDubber AI</b></a>
+    <h4>VEED.IO - Éditeur vidéo basé sur l'IA, rapide, en ligne et gratuit
+</h4>
+    <p>Éditeur vidéo IA gratuit avec conversion de texte en vidéo, avatars, sous-titres automatiques, traductions vocales et plus encore. Enregistre, modifie et partage tes vidéos en ligne avec VEED.
+</p>
+    <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec VEED.IO</b></a>
     <br />
 </div>
 
@@ -164,114 +151,110 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
 
-### AITable.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aitable.ai.webp" alt="AITable.ai">
+### Outfit Anyone AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-outfit-anyone-ai.webp" alt="Outfit Anyone AI">
 
-#### : Al Agents Builder sans code. ChatGPT personnalisé pour un taux de conversion de 5 fois celui de ta page de destination.
+#### Outfit Anyone AI : essayage virtuel facile pour tous les styles
+[Visit](https://www.thataicollection.com/redirect/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Avec Outfit Anyone AI, explore une nouvelle ère de la mode où il suffit d'un clic pour essayer n'importe quelle tenue. Notre plateforme transforme ton expérience de sélection de vêtements grâce à une technologie d'IA de pointe.
 
-AlTable.ai est une plateforme de travail qui te permet d'organiser toutes tes données avec Al. AlTable.ai permet de transformer tes données sans effort grâce à la base de données Visual Al. Rationalise ton CRM et ta gestion de projet avec Al, et ouvre de nouvelles possibilités de croissance et d'efficacité.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Rick and Mortify
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rick-and-mortify.webp" alt="Rick and Mortify">
-
-#### Rick et Mortify - Un terrain de jeu basé sur l'IA pour créer de nouveaux épisodes de Rick et Morty.
-[Visit](https://www.thataicollection.com/redirect/rick-and-mortify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Rick and Mortify est un outil que nous avons créé pour montrer que le futur est plus proche que tu ne le penses.
-
-Notre outil utilise les dernières technologies en matière de vision à grande échelle et de modèles linguistiques pour créer des épisodes inédits de Rick et Morty avec un minimum d'intervention humaine. Tous les points de l'intrigue, les dialogues et les éléments visuels qui les accompagnent sont générés grâce à l'apprentissage automatique.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/rick-and-mortify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Watermark Remover
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-watermark-remover.webp" alt="Watermark Remover">
+### Moonbeam
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moonbeam.webp" alt="Moonbeam">
 
-#### Watermark Remover : Supprime les filigranes en ligne sur les images gratuitement
-[Visit](https://www.thataicollection.com/redirect/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Moonbeam - N'écris plus jamais de zéro.
+[Visit](https://www.thataicollection.com/redirect/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Supprime les filigranes de tes images à l'aide de notre technologie d'intelligence artificielle. Utilise notre outil de suppression des filigranes et imprime tes images en filigrane gratuitement.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+Lance ton prochain excellent blog avec Moonbeam, ton assistant de rédaction basé sur l'intelligence artificielle. Rédiger du contenu long et brillant ne doit pas être une corvée. Moonbeam est le seul assistant de rédaction basé sur l'IA spécialement conçu pour t'aider à rédiger des essais, des articles, des blogs et d'autres contenus longs.
 
 
-
-
-### Lex
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lex.webp" alt="Lex">
-
-#### Lex - Débloquez votre meilleure écriture - Une expérience d'écriture haut de gamme.
-[Visit](https://www.thataicollection.com/redirect/lex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Intelligent, collaboratif et puissant : Lex est un traitement de texte moderne qui propose une façon d'écrire radicalement nouvelle. Ne tape plus jamais seule.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/lex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Writer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writer.webp" alt="Writer">
+### Papercup
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-papercup.webp" alt="Papercup">
 
-#### Rédacteur - Transformez le travail grâce à l'IA générative d'entreprise
+#### Papercup, logiciel de doublage et de traduction vidéo par IA
+[Visit](https://www.thataicollection.com/redirect/papercup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Élargissez votre audience mondiale grâce au doublage IA primé
+Des voix d'IA réalistes, perfectionnées par de vrais traducteurs. Nous utilisons les données de vrais acteurs pour produire des voix si réelles que le public ne peut pas les distinguer des voix réelles. 
 
-Opte pour une plateforme complète qui permet des sorties de meilleure qualité et des délais de mise sur le marché plus rapides. Plus besoin d'associer des outils d'IA disparates.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AICamp
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aicamp.webp" alt="AICamp">
-
-#### ChatGPT pour les équipes
-AiCamp permet aux équipes de centraliser l'accès aux principaux modèles d'IA tels que Claude, Bard, et à de grands modèles linguistiques personnalisés via une plateforme unifiée. 
-[Visit](https://www.thataicollection.com/redirect/aicamp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Tu peux intégrer ces modèles à l'aide de tes propres clés API pour un accès fluide au sein d'une seule solution.
-La plateforme permet aux équipes d'améliorer leur productivité en évitant d'avoir à basculer entre plusieurs outils pour tirer parti des différentes capacités de l'IA. Avec AiCamp, les employés peuvent obtenir des réponses, des recommandations et des réponses automatisées grâce à des modèles linguistiques de pointe.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/aicamp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/papercup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### BrameWork
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bramework.webp" alt="BrameWork">
+### Caktus
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caktus.webp" alt="Caktus">
 
-#### Bramework, un rédacteur IA qui t'aide à rédiger des blogs 5 fois plus vite
-[Visit](https://www.thataicollection.com/redirect/bramework?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Caktus AI, LE MEILLEUR ASSISTANT D'IA DE SA CATÉGORIE POUR LES ÉTUDIANTS
+[Visit](https://www.thataicollection.com/redirect/caktus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Le rédacteur IA de Bramework améliore ton blog grâce à des articles rapides et optimisés pour le référencement. Transforme ta passion pour les blogs en carrière à plein temps dès aujourd'hui !
+L'IA la plus puissante conçue pour les étudiants. Écrivez, résolvez, codez instantanément et plus encore grâce à l'IA de Caktus. Caktus est un outil d'étude qui te permet de développer ton esprit grâce à ton propre assistant IA abordable, spécialement conçu pour les devoirs et l'apprentissage.
 
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/bramework?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/caktus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Artflow
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-artflow.webp" alt="Artflow">
+
+#### Artflow
+[Visit](https://www.thataicollection.com/redirect/artflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Crée des personnages cohérents. Crée des personnages complets comme tu le souhaites, en veillant à ce que leur apparence soit uniforme d'une scène à l'autre. Crée des scènes. Lieux. Mondes. Crée des images de ton personnage dans différents lieux et mondes, contrôle le type de plan comme un réalisateur. Mode réalisateur : contrôle précis de la position, de l'échelle et de la rotation des personnages. 
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/artflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Petpic
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-petpic.webp" alt="Petpic">
+
+#### Petpic.Ai - Créez des photos animées de ton animal de compagnie grâce à l'IA
+[Visit](https://www.thataicollection.com/redirect/petpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PetPic permet à ton animal préféré d'être n'importe quoi, n'importe où, même n'importe qui. Il suffit de télécharger quelques photos et de laisser l'IA opérer sa magie créative.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/petpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Peppertype.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-peppertype.ai.webp" alt="Peppertype.ai">
+
+#### Peppertype.Ai - Créez du contenu de qualité plus rapidement
+[Visit](https://www.thataicollection.com/redirect/peppertype.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Peppertype vient de s'améliorer !
+Tirez parti de la plateforme alimentée par l'IA pour concevoir, créer, diffuser et mesurer ton contenu et prouver le retour sur investissement de ton marketing de contenu
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/peppertype.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -422,6 +405,24 @@ Blimey est un générateur d'images basé sur l'intelligence artificielle qui te
 Générez des textures 3D pour votre jeu en quelques secondes grâce à l'IA.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/texturelab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Make3D
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-make3d.webp" alt="Make3D">
+
+#### Make3D : crée ton image en 3D
+            
+[Visit](https://www.thataicollection.com/redirect/make3d?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Convertit ton image en 3D sans quitter ton appareil.
+                                                                        
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/make3d?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1000,6 +1001,22 @@ CodiumAI analyse votre code et génère des tests significatifs pour détecter l
 <br />
 
 
+### Text2SQL
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-text2sql.webp" alt="Text2SQL">
+
+#### Text2Sql.Ai - Génère des requêtes SQL à l'aide de l'IA gratuitement !
+[Visit](https://www.thataicollection.com/redirect/text2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+TEXT-TO-SQL : traduis l'anglais clair en SQL grâce à l'IA ! Créez rapidement des requêtes SQL complexes, des formules Excel et des expressions Regex à partir de tes instructions !
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/text2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### CodeWP
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-codewp.webp" alt="CodeWP">
 
@@ -1009,21 +1026,6 @@ CodiumAI analyse votre code et génère des tests significatifs pour détecter l
 CodeWP est un générateur de code WordPress qui utilise l'IA et des modèles spécialisés pour WordPress, Woo et autres pour vous aider à construire mieux et plus rapidement.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/codewp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### ExplainDev
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-explaindev.webp" alt="ExplainDev">
-
-#### ExplainDev - Explicateur de code qui répond à vos questions en contexte
-[Visit](https://www.thataicollection.com/redirect/explaindev?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ExplainDev vous aide à être plus confiant et indépendant avec le code des autres. Obtenez des explications sur le code et des réponses directes à vos questions via les extensions Chrome et VS Code alimentées par l'IA.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/explaindev?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1100,6 +1102,22 @@ Jasper est le générateur de contenu IA qui vous aide, vous et votre équipe, �
 
 
 
+### Writelyai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writelyai.webp" alt="Writelyai">
+
+#### Writely - Utiliser l'IA pour améliorer ton écriture
+[Visit](https://www.thataicollection.com/redirect/writelyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Beat AI Detection : tu écris, Writely complète !
+Rédigez plus de contenu, plus vite que jamais et contournez la détection par l'IA. Il te suffit de saisir ton adresse e-mail et de demander ton essai dès aujourd'hui.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/writelyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### WordAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordai.webp" alt="WordAI">
 
@@ -1109,21 +1127,6 @@ Jasper est le générateur de contenu IA qui vous aide, vous et votre équipe, �
 Utilisez l'intelligence artificielle pour réduire les délais d'exécution, augmenter votre budget et créer davantage de contenu de haute qualité que Google et les lecteurs adoreront.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/wordai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Dashword
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dashword.webp" alt="Dashword">
-
-#### Écrivez du contenu de qualité, rapidement. Créez des résumés de contenu en un rien de temps et optimisez votre contenu pour le référencement.
-[Visit](https://www.thataicollection.com/redirect/dashword?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Dashword est le logiciel d'optimisation de contenu n°1 pour les équipes SEO. Créez du contenu pertinent pour vos lecteurs et augmentez votre trafic organique.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/dashword?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1380,10 +1383,10 @@ Augmentez les ventes et réduisez les coûts de support
 ### Echowin
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-echowin.webp" alt="Echowin">
 
-#### Echowin - Gestion des appels basée sur l'IA avec compréhension complète du langage naturel et réponses personnalisées pour chaque scénario.
+#### Echowin - Gestion des appels basée sur l'IA avec une compréhension complète du langage naturel et des réponses personnalisées pour chaque scénario.
 [Visit](https://www.thataicollection.com/redirect/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Découvrez le futur des communications professionnelles avec Echowin. Ton agent IA répondra à tes appels téléphoniques, présélectionnera les appelants, fournira le service client et gérera les flux de travail tels que les demandes de remboursement, les transferts d'appels intelligents, la collecte d'informations, etc. C'est comme faire appel à ChatGPT pour répondre à tes appels téléphoniques.
+Découvrez le futur de la communication d'entreprise avec Echowin. Ton agent IA répondra à tes appels téléphoniques, sélectionnera les appelants, fournira un service client et gérera les flux de travail tels que les demandes de remboursement, les transferts d'appels intelligents, la collecte d'informations, etc. C'est comme engager ChatGPT pour répondre à tes appels téléphoniques.
 
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4856,6 +4859,22 @@ Ne sois plus jamais confrontée au blocage des rédacteurs : qu'il s'agisse de 
 
 
 
+### Moonbeam
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moonbeam.webp" alt="Moonbeam">
+
+#### Moonbeam - N'écris plus jamais de zéro.
+[Visit](https://www.thataicollection.com/redirect/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Lance ton prochain excellent blog avec Moonbeam, ton assistant de rédaction basé sur l'intelligence artificielle. Rédiger du contenu long et brillant ne doit pas être une corvée. Moonbeam est le seul assistant de rédaction basé sur l'IA spécialement conçu pour t'aider à rédiger des essais, des articles, des blogs et d'autres contenus longs.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Elephas
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephas.webp" alt="Elephas">
 
@@ -4900,21 +4919,6 @@ Outil de paraphrase avec 15 modes GRATUITS pour plus de 100 langues : reformule
 <br />
 
 
-
-
-### Type AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshot/screenshot-gptkey.webp" alt="Type AI">
-
-#### GPTKey - Écrivez avec l'IA à l'aide du clavier GPT
-[Visit](https://www.thataicollection.com/redirect/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Écrivez avec l'IA dans n'importe quelle application à l'aide de l'extension de clavier personnalisée GPT.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ### AI Lyrics Generator

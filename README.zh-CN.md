@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=997" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=996" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,21 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO" border="0"/>
-    </a>
-    <h4>VEED.IO-人工智能视频编辑器-快速、在线、免费
-</h4>
-    <p>免费的 AI 视频编辑器，包含文字转视频、头像、自动字幕、语音翻译等。使用 VEED 在线录制、编辑和共享您的视频。
-</p>
-    <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 VEED.IO</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
@@ -81,12 +66,14 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO" border="0"/>
     </a>
-    <h4>AI 视频翻译、字幕生成和翻译、文字转语音和语音克隆-免费试用</h4>
-    <p>由人工智能驱动的免费视频翻译、配音、语音克隆和文字转语音服务。和我们一起轻松扩展到 30 多种语言，将受众规模扩大到 10 倍！</p>
-    <a href="https://www.thataicollection.com/redirect/videodubber-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 VideoDubber AI</b></a>
+    <h4>VEED.IO-人工智能视频编辑器-快速、在线、免费
+</h4>
+    <p>免费的 AI 视频编辑器，包含文字转视频、头像、自动字幕、语音翻译等。使用 VEED 在线录制、编辑和共享您的视频。
+</p>
+    <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 VEED.IO</b></a>
     <br />
 </div>
 
@@ -164,114 +151,110 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### AITable.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aitable.ai.webp" alt="AITable.ai">
+### Outfit Anyone AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-outfit-anyone-ai.webp" alt="Outfit Anyone AI">
 
-#### : 无代码所有代理生成器。自定义 ChatGPT 可将您的着陆页转化率提高到 5 倍。
+#### 为任何人搭配 AI-适合各种风格的轻松虚拟试穿
+[Visit](https://www.thataicollection.com/redirect/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+借助 Outfit Anyone AI，探索时尚新时代，只需点击一下即可试穿任何服装。我们的平台利用最先进的人工智能技术改变您的服装选择体验。
 
-AlTable.ai 是一个工作平台，允许你使用 Al 来组织任何数据。AlTable.ai 有助于使用 Visual Al 数据库轻松转换数据。使用 Al 简化您的 CRM 和项目管理，开启增长和效率的新可能性。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aitable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Rick and Mortify
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rick-and-mortify.webp" alt="Rick and Mortify">
-
-#### Rick and Mortify-一个用于创作《瑞克和莫蒂》新剧集的人工智能游乐场。
-[Visit](https://www.thataicollection.com/redirect/rick-and-mortify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Rick and Mortify 是我们开发的一款工具，旨在证明未来比你想象的要近。
-
-我们的工具使用最先进的大视觉和语言模型，以最少的人为干预创出前所未有的《瑞克和莫蒂》剧集。所有情节点、对话和随附的视觉效果都是通过机器学习生成的。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/rick-and-mortify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Watermark Remover
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-watermark-remover.webp" alt="Watermark Remover">
+### Moonbeam
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moonbeam.webp" alt="Moonbeam">
 
-#### 水印去除器-免费在线删除图像中的水印
-[Visit](https://www.thataicollection.com/redirect/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Moonbeam-永远不要再从头开始写作了。
+[Visit](https://www.thataicollection.com/redirect/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-使用我们的 AI 技术去除图像中的水印。使用我们的水印去除工具，让您的图像免受水印。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
+使用 Moonbeam 开启你的下一个精彩博客：你的长篇写作人工智能助手。撰写精彩的长篇内容不一定是件苦差事。Moonbeam 是唯一一款经过专门培训的人工智能写作助手，可以帮助你撰写论文、故事、文章、博客和其他长篇内容。
 
 
-### Lex
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lex.webp" alt="Lex">
-
-#### Lex-解锁你的最佳写作-优质的写作体验。
-[Visit](https://www.thataicollection.com/redirect/lex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-智能、协作、强大——LEX 是一款现代文字处理器，它支持一种全新的写作方式。永远不要再单独打字了。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/lex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Writer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writer.webp" alt="Writer">
+### Papercup
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-papercup.webp" alt="Papercup">
 
-#### Writer-利用企业生成式 AI 实现工作转型
+#### Papercup-人工智能配音和视频翻译软件
+[Visit](https://www.thataicollection.com/redirect/papercup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+通过屡获殊荣的 AI 配音扩大您的全球受众
+逼真的 AI 语音，由真正的翻译者完善。我们使用来自真实演员的数据来制作如此真实的声音，以至于观众无法将他们与真实事物区分开来。 
 
-获取全栈平台，实现更高质量的输出和更快的上市时间。不再需要将不同的 AI 工具拼接在一起。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AICamp
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aicamp.webp" alt="AICamp">
-
-#### 适用于团队的 ChatGPT
-AiCamp 使团队能够通过统一平台集中访问领先的人工智能模型，如 Claude、Bard 和自定义大型语言模型。 
-[Visit](https://www.thataicollection.com/redirect/aicamp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-您可以使用自己的 API 密钥集成这些模型，以便在一个解决方案中无缝访问。
-该平台使团队无需在多个工具之间切换即可利用不同的人工智能功能，从而提高生产力。借助 AiCamp，员工可以获得由最先进的语言模型支持的答案、推荐和自动回复。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aicamp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/papercup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### BrameWork
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bramework.webp" alt="BrameWork">
+### Caktus
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caktus.webp" alt="Caktus">
 
-#### Bramework-AI 作家，可帮助你将博客写作速度提高 5 倍
-[Visit](https://www.thataicollection.com/redirect/bramework?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Caktus AI-一流的学生人工智能助手
+[Visit](https://www.thataicollection.com/redirect/caktus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Bramework 的人工智能作家通过快速的、经过搜索引擎优化的帖子来强化你的博客。今天就把你对博客的热情变成全职职业！
+专为学生打造的最强大的人工智能。使用 Caktus AI 即时编写、求解、编码等。Caktus 是一款学习工具，可使用专为家庭作业和学习而设计的自己经济实惠的 AI 助手来发展思维。
 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/bramework?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/caktus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Artflow
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-artflow.webp" alt="Artflow">
+
+#### 艺术流
+[Visit](https://www.thataicollection.com/redirect/artflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+创建一致的角色。按照你喜欢的方式设计全身角色，保持他们在不同场景中的外观一致。创建场景。地方。世界。在不同的地点和世界中创建角色的图像，像电影导演一样控制镜头类型。导演模式-精确控制角色位置/缩放/旋转的图像。 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/artflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Petpic
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-petpic.webp" alt="Petpic">
+
+#### Petpic.Ai-使用 AI 为你的宠物创建动画照片
+[Visit](https://www.thataicollection.com/redirect/petpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PetPic 可以让你最喜欢的动物成为任何地方，甚至是任何人。只需上传一些照片，让 AI 发挥其创造魔力。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/petpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Peppertype.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-peppertype.ai.webp" alt="Peppertype.ai">
+
+#### Peppertype.Ai-更快地创建高质量的内容
+[Visit](https://www.thataicollection.com/redirect/peppertype.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Peppertype 变得更好了！
+利用人工智能平台来构思、创建、分发和衡量您的内容，并证明您的内容营销投资回报率
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/peppertype.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -422,6 +405,24 @@ Blimey 是一款人工智能图像生成器，你可以在一分钟内将想法�
 借助 AI，在几秒钟内为您的游戏生成 3D 纹理。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/texturelab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Make3D
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-make3d.webp" alt="Make3D">
+
+#### Make3D-让你的图像变成 3D
+            
+[Visit](https://www.thataicollection.com/redirect/make3d?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+无需离开设备即可将图像转换为 3D。
+                                                                        
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/make3d?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1000,6 +1001,22 @@ CodiumAI 分析您的代码并生成有意义的测试以在您发布之前发�
 <br />
 
 
+### Text2SQL
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-text2sql.webp" alt="Text2SQL">
+
+#### Text2Sql.Ai-使用 AI 免费生成 SQL 查询！
+[Visit](https://www.thataicollection.com/redirect/text2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+TEXT-TO-SQL：使用 AI 将普通英语翻译成 SQL！根据提示快速构建复杂的 SQL 查询、Excel 公式和正则表达式！
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/text2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### CodeWP
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-codewp.webp" alt="CodeWP">
 
@@ -1009,21 +1026,6 @@ CodiumAI 分析您的代码并生成有意义的测试以在您发布之前发�
 CodeWP 是一个 WordPress 代码生成器，它使用 AI 和适用于 WordPress、Woo 等的专用模型来帮助您更好更快地构建代码。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/codewp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### ExplainDev
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-explaindev.webp" alt="ExplainDev">
-
-#### ExplainDev - 在上下文中回答您的问题的代码解释器
-[Visit](https://www.thataicollection.com/redirect/explaindev?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ExplainDev 帮助您更加自信和独立地处理他人的代码。通过由 AI 提供支持的 Chrome 和 VS Code 扩展，获取代码解释和问题的直接答案。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/explaindev?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1100,6 +1102,22 @@ Jasper 是 AI 内容生成器，可帮助您和您的团队突破创意障碍，
 <br />
 
 
+### Writelyai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writelyai.webp" alt="Writelyai">
+
+#### Writely-使用 AI 改善写作
+[Visit](https://www.thataicollection.com/redirect/writelyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+击败 AI 检测：你写作，写作完成！
+比以往任何时候都更快地撰写更多内容，绕过 AI 检测。只需输入您的电子邮件地址即可立即申请试用。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/writelyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### WordAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordai.webp" alt="WordAI">
 
@@ -1109,21 +1127,6 @@ Jasper 是 AI 内容生成器，可帮助您和您的团队突破创意障碍，
 使用人工智能来缩短周转时间、增加预算并创建更多 Google 和读者会喜欢的高质量内容。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/wordai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Dashword
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dashword.webp" alt="Dashword">
-
-#### 快速撰写优质内容。立即创建内容简介并优化您的内容以进行 SEO。
-[Visit](https://www.thataicollection.com/redirect/dashword?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Dashword 是 SEO 团队排名第一的内容优化软件。为您的读者创建相关内容并增加您的有机流量。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dashword?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1380,10 +1383,10 @@ AI 驱动的支持帮助，可从以前的工单中找到答案
 ### Echowin
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-echowin.webp" alt="Echowin">
 
-#### Echowin-基于人工智能的呼叫管理，具有完全的自然语言理解能力和针对每个场景的个性化响应。
+#### Echowin-人工智能驱动的呼叫管理，具有完整的自然语言理解能力和针对每个场景的个性化响应。
 [Visit](https://www.thataicollection.com/redirect/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-使用 echowin 体验商业通信的未来。您的人工智能代理将接听您的电话，对来电者进行预先筛选，提供客户服务并处理退款申请、智能呼叫转接、收集信息等工作流程。这就像雇用 ChatGPT 来接听你的电话一样。
+与echowin一起体验商业通信的未来。您的AI代理将接听您的电话，预先筛选来电者，提供客户服务，并处理退款申请、智能呼叫转移、收集信息等工作流程。这就像雇用 ChatGPT 来接听你的电话。
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -4856,6 +4859,22 @@ Rytr是一款人工智能写作助手，可以帮助你在短短几秒钟内创�
 <br />
 
 
+### Moonbeam
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moonbeam.webp" alt="Moonbeam">
+
+#### Moonbeam-永远不要再从头开始写作了。
+[Visit](https://www.thataicollection.com/redirect/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 Moonbeam 开启你的下一个精彩博客：你的长篇写作人工智能助手。撰写精彩的长篇内容不一定是件苦差事。Moonbeam 是唯一一款经过专门培训的人工智能写作助手，可以帮助你撰写论文、故事、文章、博客和其他长篇内容。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Elephas
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephas.webp" alt="Elephas">
 
@@ -4896,21 +4915,6 @@ Rytr是一款人工智能写作助手，可以帮助你在短短几秒钟内创�
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Type AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshot/screenshot-gptkey.webp" alt="Type AI">
-
-#### GPTKey – 使用 GPT 键盘与 AI 一起书写
-[Visit](https://www.thataicollection.com/redirect/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 GPT 自定义键盘扩展在任何应用程序中使用 AI 进行书写。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
