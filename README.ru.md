@@ -164,21 +164,6 @@ Chtrbx — это чат-платформа с искусственным инт
 
 
 
-### Jake B
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="Jake B">
-
-#### Chtrbx: революционизируйте обслуживание клиентов с помощью аналитики на основе искусственного интеллекта
-[Visit](https://www.thataicollection.com/redirect/jake-b?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chtrbx — это чат-платформа с искусственным интеллектом, которая помогает компаниям улучшить взаимодействие с клиентами в Интернете. Она анализирует настроения и интересы посетителей, обеспечивая эффективное взаимодействие и стратегическую аналитику. Это приводит к улучшению пользовательского опыта, персонализированным рекомендациям и потенциальному увеличению продаж. Chtrbx предлагает больше, чем просто чат; это инструмент, основанный на данных, для улучшения обслуживания и стимулирования роста.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/jake-b?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Prettysmart.co
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prettysmart.co.webp" alt="Prettysmart.co">
 
@@ -254,6 +239,23 @@ Cowriter — это текстовый редактор и генератор т
 
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/cowriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### NewsDeck from OneSub
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newsdeck-from-onesub.webp" alt="NewsDeck from OneSub">
+
+#### Newsdeck — ежедневно находите, фильтруйте и анализируйте тысячи статей.
+[Visit](https://www.thataicollection.com/redirect/newsdeck-from-onesub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Смотрите новости, касающиеся более 500 000 человек, компаний, стран и тем. Узнайте и организуйте репортажи о новостях
+NewsDeck использует возможности интеллектуального искусственного интеллекта для чтения новостей OneSub, чтобы предоставить вам доступ к глобальному новостному циклу в реальном времени.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/newsdeck-from-onesub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
