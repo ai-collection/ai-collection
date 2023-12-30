@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="chtrbx" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
-    <h4>Chtrbx : Révolutionnez le service client grâce à des informations basées sur l'IA</h4>
-    <p>Chtrbx est une plateforme de chat basée sur l'IA qui aide les entreprises à améliorer les interactions en ligne avec leurs clients. Il analyse les sentiments et les intérêts des visiteurs, ce qui permet un engagement efficace et des informations stratégiques. Cela se traduit par une meilleure expérience utilisateur, des recommandations personnalisées et une augmentation potentielle des ventes. Chtrbx ne se contente pas de discuter ; c'est un outil basé sur les données qui permet d'améliorer le service et de</p>
-    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec chtrbx</b></a>
+    <h4>AI Undressing - Nudifie des photos GRATUITEMENT avec AI Undressing</h4>
+    <p>Meilleure nouvelle technologie de déshabillage IA GRATUITE ! Se déshabiller grâce à l'IA pour les photos ! Transforme instantanément l'apparence. Des photos de nu en un clic. De nombreux styles et la possibilité de le faire rapidement</p>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec undressing.io</b></a>
     <br />
 </div>
 
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="chtrbx" border="0"/>
     </a>
-    <h4>AI Undressing - Nudifie des photos GRATUITEMENT avec AI Undressing</h4>
-    <p>Meilleure nouvelle technologie de déshabillage IA GRATUITE ! Se déshabiller grâce à l'IA pour les photos ! Transforme instantanément l'apparence. Des photos de nu en un clic. De nombreux styles et la possibilité de le faire rapidement</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec undressing.io</b></a>
+    <h4>Chtrbx : Révolutionnez le service client grâce à des informations basées sur l'IA</h4>
+    <p>Chtrbx est une plateforme de chat basée sur l'IA qui aide les entreprises à améliorer les interactions en ligne avec leurs clients. Il analyse les sentiments et les intérêts des visiteurs, ce qui permet un engagement efficace et des informations stratégiques. Cela se traduit par une meilleure expérience utilisateur, des recommandations personnalisées et une augmentation potentielle des ventes. Chtrbx ne se contente pas de discuter ; c'est un outil basé sur les données qui permet d'améliorer le service et de</p>
+    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec chtrbx</b></a>
     <br />
 </div>
 
@@ -164,21 +164,6 @@ Chtrbx est une plateforme de chat basée sur l'IA qui aide les entreprises à am
 
 
 
-### Jake B
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="Jake B">
-
-#### Chtrbx : Révolutionnez le service client grâce à des informations basées sur l'IA
-[Visit](https://www.thataicollection.com/redirect/jake-b?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chtrbx est une plateforme de chat basée sur l'IA qui aide les entreprises à améliorer les interactions en ligne avec leurs clients. Il analyse les sentiments et les intérêts des visiteurs, ce qui permet un engagement efficace et des informations stratégiques. Cela se traduit par une meilleure expérience utilisateur, des recommandations personnalisées et une augmentation potentielle des ventes. Chtrbx ne se contente pas de discuter ; c'est un outil basé sur les données qui permet d'améliorer le service et de
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/jake-b?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Prettysmart.co
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prettysmart.co.webp" alt="Prettysmart.co">
 
@@ -254,6 +239,23 @@ Cowriter est un éditeur de texte et un générateur de textes alimentés par l'
 
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/cowriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### NewsDeck from OneSub
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newsdeck-from-onesub.webp" alt="NewsDeck from OneSub">
+
+#### Newsdeck - Trouvez, filtrez et analysez des milliers d'articles par jour.
+[Visit](https://www.thataicollection.com/redirect/newsdeck-from-onesub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Diffuse des actualités concernant plus de 500 000 personnes, entreprises, pays et sujets. Découvre et organise ta couverture de l'actualité
+NewsDeck utilise la puissance de l'intelligence artificielle de OneSub pour accéder en temps réel au cycle mondial de l'actualité.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/newsdeck-from-onesub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
