@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=996" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1000" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="chtrbx" border="0"/>
+    </a>
+    <h4>Chtrbx : Révolutionnez le service client grâce à des informations basées sur l'IA</h4>
+    <p>Chtrbx est une plateforme de chat basée sur l'IA qui aide les entreprises à améliorer les interactions en ligne avec leurs clients. Il analyse les sentiments et les intérêts des visiteurs, ce qui permet un engagement efficace et des informations stratégiques. Cela se traduit par une meilleure expérience utilisateur, des recommandations personnalisées et une augmentation potentielle des ventes. Chtrbx ne se contente pas de discuter ; c'est un outil basé sur les données qui permet d'améliorer le service et de</p>
+    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec chtrbx</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
@@ -72,21 +85,6 @@
     <h4>undress.vip—Le meilleur déshabillage 100 % fonctionnel de 2023 sur deepnude </h4>
     <p>Undress.vip, un outil d'IA révolutionnaire qui joue un rôle de premier plan dans cette progression. undress.vip—2023 best 100 % Working AI Deepnude & Deepfake Telegram Undress AI Bots</p>
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Undress.Vip</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO" border="0"/>
-    </a>
-    <h4>VEED.IO - Éditeur vidéo basé sur l'IA, rapide, en ligne et gratuit
-</h4>
-    <p>Éditeur vidéo IA gratuit avec conversion de texte en vidéo, avatars, sous-titres automatiques, traductions vocales et plus encore. Enregistre, modifie et partage tes vidéos en ligne avec VEED.
-</p>
-    <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec VEED.IO</b></a>
     <br />
 </div>
 
@@ -151,110 +149,111 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
 
-### Outfit Anyone AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-outfit-anyone-ai.webp" alt="Outfit Anyone AI">
+### chtrbx
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="chtrbx">
 
-#### Outfit Anyone AI : essayage virtuel facile pour tous les styles
-[Visit](https://www.thataicollection.com/redirect/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Chtrbx : Révolutionnez le service client grâce à des informations basées sur l'IA
+[Visit](https://www.thataicollection.com/redirect/chtrbx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Avec Outfit Anyone AI, explore une nouvelle ère de la mode où il suffit d'un clic pour essayer n'importe quelle tenue. Notre plateforme transforme ton expérience de sélection de vêtements grâce à une technologie d'IA de pointe.
+Chtrbx est une plateforme de chat basée sur l'IA qui aide les entreprises à améliorer les interactions en ligne avec leurs clients. Il analyse les sentiments et les intérêts des visiteurs, ce qui permet un engagement efficace et des informations stratégiques. Cela se traduit par une meilleure expérience utilisateur, des recommandations personnalisées et une augmentation potentielle des ventes. Chtrbx ne se contente pas de discuter ; c'est un outil basé sur les données qui permet d'améliorer le service et de
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Moonbeam
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moonbeam.webp" alt="Moonbeam">
-
-#### Moonbeam - N'écris plus jamais de zéro.
-[Visit](https://www.thataicollection.com/redirect/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Lance ton prochain excellent blog avec Moonbeam, ton assistant de rédaction basé sur l'intelligence artificielle. Rédiger du contenu long et brillant ne doit pas être une corvée. Moonbeam est le seul assistant de rédaction basé sur l'IA spécialement conçu pour t'aider à rédiger des essais, des articles, des blogs et d'autres contenus longs.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/chtrbx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Papercup
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-papercup.webp" alt="Papercup">
+### Jake B
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="Jake B">
 
-#### Papercup, logiciel de doublage et de traduction vidéo par IA
-[Visit](https://www.thataicollection.com/redirect/papercup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Chtrbx : Révolutionnez le service client grâce à des informations basées sur l'IA
+[Visit](https://www.thataicollection.com/redirect/jake-b?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Élargissez votre audience mondiale grâce au doublage IA primé
-Des voix d'IA réalistes, perfectionnées par de vrais traducteurs. Nous utilisons les données de vrais acteurs pour produire des voix si réelles que le public ne peut pas les distinguer des voix réelles. 
+Chtrbx est une plateforme de chat basée sur l'IA qui aide les entreprises à améliorer les interactions en ligne avec leurs clients. Il analyse les sentiments et les intérêts des visiteurs, ce qui permet un engagement efficace et des informations stratégiques. Cela se traduit par une meilleure expérience utilisateur, des recommandations personnalisées et une augmentation potentielle des ventes. Chtrbx ne se contente pas de discuter ; c'est un outil basé sur les données qui permet d'améliorer le service et de
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/papercup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Caktus
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caktus.webp" alt="Caktus">
-
-#### Caktus AI, LE MEILLEUR ASSISTANT D'IA DE SA CATÉGORIE POUR LES ÉTUDIANTS
-[Visit](https://www.thataicollection.com/redirect/caktus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-L'IA la plus puissante conçue pour les étudiants. Écrivez, résolvez, codez instantanément et plus encore grâce à l'IA de Caktus. Caktus est un outil d'étude qui te permet de développer ton esprit grâce à ton propre assistant IA abordable, spécialement conçu pour les devoirs et l'apprentissage.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/caktus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/jake-b?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Artflow
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-artflow.webp" alt="Artflow">
+### Prettysmart.co
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prettysmart.co.webp" alt="Prettysmart.co">
 
-#### Artflow
-[Visit](https://www.thataicollection.com/redirect/artflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Prettysmart, la créatrice de réseaux sociaux la plus rapide au monde.
+[Visit](https://www.thataicollection.com/redirect/prettysmart.co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Crée des personnages cohérents. Crée des personnages complets comme tu le souhaites, en veillant à ce que leur apparence soit uniforme d'une scène à l'autre. Crée des scènes. Lieux. Mondes. Crée des images de ton personnage dans différents lieux et mondes, contrôle le type de plan comme un réalisateur. Mode réalisateur : contrôle précis de la position, de l'échelle et de la rotation des personnages. 
+Nous utilisons l'intelligence artificielle pour rédiger ton texte et utilisons les supports de ta marque pour créer le design. Design fluide : télécharge les supports de ta marque, et prettysmart concevra tes publications en fonction de ta marque. Rédactrice par intérim - Dis-nous simplement ce que tu veux dire, et l'IA rédigera les articles en quelques secondes. 
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/artflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Petpic
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-petpic.webp" alt="Petpic">
-
-#### Petpic.Ai - Créez des photos animées de ton animal de compagnie grâce à l'IA
-[Visit](https://www.thataicollection.com/redirect/petpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PetPic permet à ton animal préféré d'être n'importe quoi, n'importe où, même n'importe qui. Il suffit de télécharger quelques photos et de laisser l'IA opérer sa magie créative.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/petpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/prettysmart.co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Peppertype.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-peppertype.ai.webp" alt="Peppertype.ai">
+### Paragraph AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paragraph-ai.webp" alt="Paragraph AI">
 
-#### Peppertype.Ai - Créez du contenu de qualité plus rapidement
-[Visit](https://www.thataicollection.com/redirect/peppertype.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Meilleure application gratuite d'assistant de rédaction basé sur l'IA : ParagrapHai
 
-Peppertype vient de s'améliorer !
-Tirez parti de la plateforme alimentée par l'IA pour concevoir, créer, diffuser et mesurer ton contenu et prouver le retour sur investissement de ton marketing de contenu
+[Visit](https://www.thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/peppertype.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Améliore tes compétences rédactionnelles grâce au meilleur logiciel d'aide à la rédaction. Cet outil d'IA gratuit améliore la grammaire, l'orthographe et le style. Essaye-le maintenant !
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Glasp
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-glasp.webp" alt="Glasp">
+
+#### Glasp : collecte et partage tes mots préférés
+[Visit](https://www.thataicollection.com/redirect/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Glasp est un surligneur sur les réseaux sociaux qui permet aux utilisateurs de surligner et d'organiser des citations et des réflexions provenant du Web, et d'accéder aux connaissances d'autres personnes partageant les mêmes idées.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Magic Mate
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magic-mate.webp" alt="Magic Mate">
+
+#### Magicmate, assistant intelligent doté d'une intelligence artificielle pour WhatsApp, Chat GPT, Dalle, Instruct Pix2Pix et plus encore
+
+[Visit](https://www.thataicollection.com/redirect/magic-mate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Magic Mate est un assistant intelligent doté d'une intelligence artificielle : discute avec ChatGPT, dessine avec Dalle, colorie et restaure des images, retouche des images en langage naturel, traduis du son et bien plus encore, directement sur WhatsApp !
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/magic-mate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Cowriter
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cowriter_.webp" alt="Cowriter">
+
+#### CoWriter - Ta plateforme d'IA pour accélérer l'écriture créative
+
+[Visit](https://www.thataicollection.com/redirect/cowriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Cowriter est un éditeur de texte et un générateur de textes alimentés par l'IA, conçus pour donner plus de moyens aux rédacteurs et révolutionner le processus d'écriture créative. Générez instantanément du contenu tel que des blogs, des essais, des e-mails, des publicités, etc.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/cowriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -837,6 +836,21 @@ Créez vos propres images de profil d'avatar IA à la pointe de la technologie
 
 ## Chatbot
 
+### chtrbx
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="chtrbx">
+
+#### Chtrbx : Révolutionnez le service client grâce à des informations basées sur l'IA
+[Visit](https://www.thataicollection.com/redirect/chtrbx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chtrbx est une plateforme de chat basée sur l'IA qui aide les entreprises à améliorer les interactions en ligne avec leurs clients. Il analyse les sentiments et les intérêts des visiteurs, ce qui permet un engagement efficace et des informations stratégiques. Cela se traduit par une meilleure expérience utilisateur, des recommandations personnalisées et une augmentation potentielle des ventes. Chtrbx ne se contente pas de discuter ; c'est un outil basé sur les données qui permet d'améliorer le service et de
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/chtrbx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### My AskAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
 
@@ -924,21 +938,6 @@ Exploite tout le potentiel de l'IA avec PromptPal, ta ressource ultime pour des 
 
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/promptpal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### EmbedAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-embedai.webp" alt="EmbedAI">
-
-#### EmbedAI - Chatbot IA personnalisé formé à partir de tes données
-[Visit](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Développe un chatbot d'assistance IA personnalisé en utilisant ton contenu unique, tes documents d'assistance, tes PDF, tes API ou bases de données. Intégrez-le facilement à ton site web à l'aide d'une seule ligne de code pour répondre en temps réel aux demandes de tes visiteurs, minimisant ainsi le nombre de tickets d'assistance que tu reçois.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1807,6 +1806,21 @@ SwagAI - Des images générées par l'IA sur des t-shirts.
 1 dollar pour chaque vente est reversé à des organisations de protection des animaux et de lutte contre le braconnage.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/swagai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Outfit Anyone AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-outfit-anyone-ai.webp" alt="Outfit Anyone AI">
+
+#### Outfit Anyone AI : essayage virtuel facile pour tous les styles
+[Visit](https://www.thataicollection.com/redirect/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Avec Outfit Anyone AI, explore une nouvelle ère de la mode où il suffit d'un clic pour essayer n'importe quelle tenue. Notre plateforme transforme ton expérience de sélection de vêtements grâce à une technologie d'IA de pointe.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3240,6 +3254,22 @@ Une bibliothèque JavaScript simple pour t'aider à identifier rapidement les im
 
 
 
+### Glasp
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-glasp.webp" alt="Glasp">
+
+#### Glasp : collecte et partage tes mots préférés
+[Visit](https://www.thataicollection.com/redirect/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Glasp est un surligneur sur les réseaux sociaux qui permet aux utilisateurs de surligner et d'organiser des citations et des réflexions provenant du Web, et d'accéder aux connaissances d'autres personnes partageant les mêmes idées.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Merlin
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-merlin.webp" alt="Merlin">
 
@@ -3253,21 +3283,6 @@ Extension gratuite alimentée par ChatGPT d'Open AI à utiliser n'importe où !
 <br />
 
 <br />
-
-
-### Voilà
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voilà.webp" alt="Voilà">
-
-#### Assistant ChatGPT personnel pour une productivité suralimentée
-[Visit](https://www.thataicollection.com/redirect/voilà?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Améliorez votre rédaction, obtenez des réponses à toutes vos questions, rédigez du contenu de haute qualité et répondez aux e-mails. Tout en un seul endroit.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/voilà?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 
@@ -3343,6 +3358,23 @@ Cogram utilise l'IA pour prendre des notes lors de réunions virtuelles, suivre 
 
 
 
+### NewsDeck from OneSub
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newsdeck-from-onesub.webp" alt="NewsDeck from OneSub">
+
+#### Newsdeck - Trouvez, filtrez et analysez des milliers d'articles par jour.
+[Visit](https://www.thataicollection.com/redirect/newsdeck-from-onesub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Diffuse des actualités concernant plus de 500 000 personnes, entreprises, pays et sujets. Découvre et organise ta couverture de l'actualité
+NewsDeck utilise la puissance de l'intelligence artificielle de OneSub pour accéder en temps réel au cycle mondial de l'actualité.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/newsdeck-from-onesub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Kinestex
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-kinestex.webp" alt="Kinestex">
 
@@ -3367,21 +3399,6 @@ Découvrez la puissance de l'IA pour améliorer tes entraînements. KinesteX sui
 En utilisant la puissance de Skill Suggestion AI, nous pouvons vous aider à extraire les compétences recherchées dans le monde, à partir de n'importe quel type de texte. Essaye le! Nous avons formé notre IA en utilisant plus d'un million de contenus disponibles en ligne dans notre bibliothèque de contenu supplémentaire, organisée à partir de différents types de sources et de sujets.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/ultimate-skill-extractor-by-further?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Thegist
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-thegist.webp" alt="Thegist">
-
-#### L'IA Thegist résume le fil de discussion et les chaînes Slack. Comprends l'essentiel
-[Visit](https://www.thataicollection.com/redirect/thegist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-TheGist Workspace - Toutes tes applications professionnelles réunies en un seul endroit grâce à l'IA. Boîte de réception unifiée intelligente, informations sur l'IA, résumés personnalisés, statut des projets professionnels et bien plus encore.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/thegist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4859,6 +4876,23 @@ Ne sois plus jamais confrontée au blocage des rédacteurs : qu'il s'agisse de 
 
 
 
+### Paragraph AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paragraph-ai.webp" alt="Paragraph AI">
+
+#### Meilleure application gratuite d'assistant de rédaction basé sur l'IA : ParagrapHai
+
+[Visit](https://www.thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Améliore tes compétences rédactionnelles grâce au meilleur logiciel d'aide à la rédaction. Cet outil d'IA gratuit améliore la grammaire, l'orthographe et le style. Essaye-le maintenant !
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Moonbeam
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moonbeam.webp" alt="Moonbeam">
 
@@ -4919,21 +4953,6 @@ Outil de paraphrase avec 15 modes GRATUITS pour plus de 100 langues : reformule
 <br />
 
 
-
-
-### AI Lyrics Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-lyrics-generator.webp" alt="AI Lyrics Generator">
-
-#### Auteur-compositeur d'intelligence artificielle - Ces paroles n'existent pas
-[Visit](https://www.thataicollection.com/redirect/ai-lyrics-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Générez vos propres paroles de chansons pour n'importe quel sujet, choisissez également le genre de paroles et l'ambiance des paroles
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-lyrics-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 
