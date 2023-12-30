@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=996" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1000" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,14 +59,12 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="chtrbx" border="0"/>
     </a>
-    <h4>VEED.IO - AI Video Editor - Fast, Online, Free
-</h4>
-    <p>Free AI video editor with text to video, avatars, auto-subtitles, voice translations and more. Record, edit and share your videos online with VEED.
-</p>
-    <a href="https://www.thataicollection.com/redirect/veed.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with VEED.IO</b></a>
+    <h4>Chtrbx: Revolutionize customer service with AI-driven insights</h4>
+    <p>Chtrbx is an AI chat platform that helps businesses improve online customer interactions. It analyzes visitor sentiments and interests, enabling effective engagement and strategic insights. This leads to better user experiences, personalized recommendations, and potentially higher sales. Chtrbx offers more than chat; it's a data-driven tool for enhancing service and driving growth.</p>
+    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with chtrbx</b></a>
     <br />
 </div>
 
@@ -157,110 +155,111 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
-### Outfit Anyone AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-outfit-anyone-ai.webp" alt="Outfit Anyone AI">
+### chtrbx
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="chtrbx">
 
-#### Outfit Anyone AI - Effortless Virtual Try-On for Every Style
-[Visit](https://www.thataicollection.com/redirect/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Chtrbx: Revolutionize customer service with AI-driven insights
+[Visit](https://www.thataicollection.com/redirect/chtrbx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-With Outfit Anyone AI, explore a new era of fashion where trying on any outfit is just a click away. Our platform transforms your clothing selection experience with state-of-the-art AI technology.
+Chtrbx is an AI chat platform that helps businesses improve online customer interactions. It analyzes visitor sentiments and interests, enabling effective engagement and strategic insights. This leads to better user experiences, personalized recommendations, and potentially higher sales. Chtrbx offers more than chat; it's a data-driven tool for enhancing service and driving growth.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Moonbeam
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moonbeam.webp" alt="Moonbeam">
-
-#### Moonbeam - Never Write From Scratch Again.
-[Visit](https://www.thataicollection.com/redirect/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Kickstart your next great blog with Moonbeam: your long-form writing AI assistant. Writing brilliant long form content doesn't have to feel like a chore. Moonbeam is the only AI writing assistant specifically trained to help you write essays, stories, articles, blogs, and other long form content.
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/chtrbx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Papercup
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-papercup.webp" alt="Papercup">
+### Jake B
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="Jake B">
 
-#### Papercup - AI Dubbing and Video Translation Software
-[Visit](https://www.thataicollection.com/redirect/papercup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Chtrbx: Revolutionize customer service with AI-driven insights
+[Visit](https://www.thataicollection.com/redirect/jake-b?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Grow your global audience with award-winning AI dubbing
-Lifelike AI voices, perfected by real translators. We use data from real actors to produce voices so real that audiences can’t tell them apart from the real thing. 
+Chtrbx is an AI chat platform that helps businesses improve online customer interactions. It analyzes visitor sentiments and interests, enabling effective engagement and strategic insights. This leads to better user experiences, personalized recommendations, and potentially higher sales. Chtrbx offers more than chat; it's a data-driven tool for enhancing service and driving growth.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/papercup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Caktus
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caktus.webp" alt="Caktus">
-
-#### Caktus AI - BEST-IN-CLASS AI HELPER FOR STUDENTS
-[Visit](https://www.thataicollection.com/redirect/caktus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-The most powerful AI built for students. Instantly write, solve, code, and more with Caktus AI. Caktus is a study tool to grow your mind with your own affordable AI assistant designed specifically for homework and learning.
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/caktus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/jake-b?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Artflow
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-artflow.webp" alt="Artflow">
+### Prettysmart.co
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prettysmart.co.webp" alt="Prettysmart.co">
 
-#### Artflow
-[Visit](https://www.thataicollection.com/redirect/artflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Prettysmart - The fastest social media creator in the world.
+[Visit](https://www.thataicollection.com/redirect/prettysmart.co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Create consistent characters. Design full-body characters the way you like, keep their appearance consistent across different scenes. Create Scenes. Places. Worlds. Create images of your character in a variety of locations and worlds, control shot type like a film director. Director Mode - Precise image control of character position/scale/rotation. 
+We use artificial intelligence to write your copy and use your brand collateral to create the design. Seamless Design - Upload your brand collateral, and prettysmart will design your posts according to your brand. A.I. Copywriter - Just tell us what you want to say, and the AI will write the posts in literally seconds. 
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/artflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/prettysmart.co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Paragraph AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paragraph-ai.webp" alt="Paragraph AI">
+
+#### Best Free AI Writing Assistant App: ParagraphAI
+
+[Visit](https://www.thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Boost your writing skills with the best writing assistant software. This free AI tool improves grammar, spelling, and style. Try it now!
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Glasp
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-glasp.webp" alt="Glasp">
+
+#### Glasp: Collect and Share Your Favorite Words
+[Visit](https://www.thataicollection.com/redirect/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Glasp is a social web highlighter that people can highlight and organize quotes and thoughts from the web, and access other like-minded people’s learning.
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Petpic
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-petpic.webp" alt="Petpic">
+### Magic Mate
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magic-mate.webp" alt="Magic Mate">
 
-#### Petpic.Ai - Create animated pics of your pet with AI
-[Visit](https://www.thataicollection.com/redirect/petpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Magicmate - Smart AI assistant for WhatsApp - Chat GPT, Dalle, Instruct Pix2Pix and more
 
-PetPic lets your favorite animal be anything, anywhere, even anyone. Just upload some pics and let AI do its creative magic.
+[Visit](https://www.thataicollection.com/redirect/magic-mate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+Magic Mate is a smart AI assistant - chat with ChatGPT, draw with Dalle, colorize and restore images, edit images in natural language, translate audio and more right in WhatsApp!
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/petpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+[More Information and Pricing](https://www.thataicollection.com/en/application/magic-mate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
-### Peppertype.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-peppertype.ai.webp" alt="Peppertype.ai">
 
-#### Peppertype.Ai - Create Quality Content Faster
-[Visit](https://www.thataicollection.com/redirect/peppertype.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Peppertype just got better!
-Leverage the AI-powered platform to ideate, create, distribute, and measure your content and prove your content marketing ROI
+### Cowriter
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cowriter_.webp" alt="Cowriter">
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/peppertype.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### CoWriter - Your AI platform for speeding up creative writing
+
+[Visit](https://www.thataicollection.com/redirect/cowriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Cowriter is an AI-powered text editor and copy generator designed to empower writers and revolutionize the creative writing process. Instantly generate content such as blogs, essays, emails, ads, and more.
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/cowriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -843,6 +842,21 @@ Make your own state-of-the-art AI avatar profile pictures
 
 ## Chat Bot
 
+### chtrbx
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="chtrbx">
+
+#### Chtrbx: Revolutionize customer service with AI-driven insights
+[Visit](https://www.thataicollection.com/redirect/chtrbx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chtrbx is an AI chat platform that helps businesses improve online customer interactions. It analyzes visitor sentiments and interests, enabling effective engagement and strategic insights. This leads to better user experiences, personalized recommendations, and potentially higher sales. Chtrbx offers more than chat; it's a data-driven tool for enhancing service and driving growth.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/chtrbx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### My AskAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
 
@@ -930,21 +944,6 @@ Unleash the full potential of AI with PromptPal, your ultimate resource for meti
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/promptpal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### EmbedAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-embedai.webp" alt="EmbedAI">
-
-#### EmbedAI - Custom AI Chatbot trained on your data
-[Visit](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Develop a personalized AI support chatbot by utilizing your unique content, support documents, PDFs, APIs, or databases. Easily integrate it into your website with just one line of code to provide real-time responses to your visitors' inquiries, thereby minimizing the number of support tickets you receive.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1817,6 +1816,21 @@ $1 from every sale goes towards animal conservation and anti-poaching organizati
 <br />
 
 <br />
+
+
+### Outfit Anyone AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-outfit-anyone-ai.webp" alt="Outfit Anyone AI">
+
+#### Outfit Anyone AI - Effortless Virtual Try-On for Every Style
+[Visit](https://www.thataicollection.com/redirect/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+With Outfit Anyone AI, explore a new era of fashion where trying on any outfit is just a click away. Our platform transforms your clothing selection experience with state-of-the-art AI technology.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 
 
 
@@ -3246,6 +3260,22 @@ A simple JavaScript library to help you quickly identify unseemly images; all in
 
 
 
+### Glasp
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-glasp.webp" alt="Glasp">
+
+#### Glasp: Collect and Share Your Favorite Words
+[Visit](https://www.thataicollection.com/redirect/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Glasp is a social web highlighter that people can highlight and organize quotes and thoughts from the web, and access other like-minded people’s learning.
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Merlin
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-merlin.webp" alt="Merlin">
 
@@ -3255,21 +3285,6 @@ A simple JavaScript library to help you quickly identify unseemly images; all in
 Free Open AIs ChatGPT powered extension to use anywhere!
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/merlin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Voilà
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-voilà.webp" alt="Voilà">
-
-#### Personal ChatGPT Assistant for Supercharged Productivity
-[Visit](https://www.thataicollection.com/redirect/voilà?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Improve your writing, get answers to all your questions, draft high-quality content and respond to emails. All in one place.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/voilà?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3349,6 +3364,23 @@ Cogram uses AI to take notes in virtual meetings, track action items, and automa
 <br />
 
 
+### NewsDeck from OneSub
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newsdeck-from-onesub.webp" alt="NewsDeck from OneSub">
+
+#### Newsdeck - Find, Filter & Analyse Thousands of Articles, Daily.
+[Visit](https://www.thataicollection.com/redirect/newsdeck-from-onesub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Stream news stories related to over 500,000 people, companies, countries and topics. Discover and organise your news coverage
+NewsDeck uses the power of OneSub's intelligent newsreader AI to give you realtime access to the global news cycle.
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/newsdeck-from-onesub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Kinestex
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-kinestex.webp" alt="Kinestex">
 
@@ -3373,21 +3405,6 @@ Experience the power of AI enhancing your workouts. KinesteX tracks your movemen
 Using the power of Skill Suggestion AI we can help you extract in-demand skills in the world, from any kind of text. Try it out! We trained our AI by using more than 1 Million online available content in our Further Content Library which curated from different kinds of sources and topics.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/ultimate-skill-extractor-by-further?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Thegist
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-thegist.webp" alt="Thegist">
-
-#### Thegist AI Summarize Slack Thread and Channels - Get the Gist of It
-[Visit](https://www.thataicollection.com/redirect/thegist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-theGist Workspace - All your work apps in a single place powered by AI. Smart Unified Inbox, AI Insights, Personalized Summaries, Status of work projects and much more.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/thegist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4865,6 +4882,23 @@ Never face writer's block again — from blogs to emails to ad copies, auto-gene
 
 
 
+### Paragraph AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paragraph-ai.webp" alt="Paragraph AI">
+
+#### Best Free AI Writing Assistant App: ParagraphAI
+
+[Visit](https://www.thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Boost your writing skills with the best writing assistant software. This free AI tool improves grammar, spelling, and style. Try it now!
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Moonbeam
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moonbeam.webp" alt="Moonbeam">
 
@@ -4925,21 +4959,6 @@ Paraphrase Tool with 15 FREE Modes for 100+ Languages - Rephrases Sentences, Rew
 <br />
 
 
-
-
-### AI Lyrics Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-lyrics-generator.webp" alt="AI Lyrics Generator">
-
-#### Artificial Intelligence Songwriter – These Lyrics Do Not Exist
-[Visit](https://www.thataicollection.com/redirect/ai-lyrics-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Generate your own song lyrics for any topic, also choose lyrics genre and lyrics mood
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-lyrics-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 
