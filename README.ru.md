@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1000" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=999" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -72,19 +72,6 @@
     <h4>undress.vip—2023 лучшее 100% рабочее раздевание в обнаженном виде </h4>
     <p>Undress.vip, новаторский инструмент для искусственного интеллекта, лежащий в авангарде этого прогресса. undress.vip—2023 лучшие телеграмы раздевают искусственные боты с искусственным интеллектом на 100% работающим искусственным интеллектом в стиле deepnude и deepfake</p>
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Undress.Vip</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
-    </a>
-    <h4>Раздевание с искусственным интеллектом - БЕСПЛАТНОЕ раздевание фотографий обнаженной натуры с помощью искусственного интеллекта</h4>
-    <p>Лучшая НОВАЯ БЕСПЛАТНАЯ технология раздевания с искусственным интеллектом! Раздевание на базе искусственного интеллекта для фотографий! Мгновенно меняйте внешний вид. Обнаженные фотографии в один клик. Множество стилей и возможность сделать это в кратчайшие сроки</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с undressing.io</b></a>
     <br />
 </div>
 
@@ -149,113 +136,110 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
-### chtrbx
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="chtrbx">
+### Textunbox
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-textunbox.webp" alt="Textunbox">
 
-#### Chtrbx: революционизируйте обслуживание клиентов с помощью аналитики на основе искусственного интеллекта
-[Visit](https://www.thataicollection.com/redirect/chtrbx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### TextUnbox — используйте возможности искусственного интеллекта!    
+[Visit](https://www.thataicollection.com/redirect/textunbox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Chtrbx — это чат-платформа с искусственным интеллектом, которая помогает компаниям улучшить взаимодействие с клиентами в Интернете. Она анализирует настроения и интересы посетителей, обеспечивая эффективное взаимодействие и стратегическую аналитику. Это приводит к улучшению пользовательского опыта, персонализированным рекомендациям и потенциальному увеличению продаж. Chtrbx предлагает больше, чем просто чат; это инструмент, основанный на данных, для улучшения обслуживания и стимулирования роста.
+Используйте возможности искусственного интеллекта с помощью знакомых вам инструментов и технологий — используйте браузер или реализуйте собственное решение с помощью API.
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/chtrbx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Prettysmart.co
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prettysmart.co.webp" alt="Prettysmart.co">
-
-#### Prettysmart — самый быстрый создатель социальных сетей в мире.
-[Visit](https://www.thataicollection.com/redirect/prettysmart.co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Мы используем искусственный интеллект для написания вашей копии и используем материалы вашего бренда для создания дизайна. Безупречный дизайн. Загрузите рекламные материалы для своего бренда, и prettysmart создаст ваши посты в соответствии с вашим брендом. Копирайтер с искусственным интеллектом. Просто скажите нам, что вы хотите сказать, и искусственный интеллект напишет посты буквально за секунды. 
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/prettysmart.co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/textunbox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Paragraph AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paragraph-ai.webp" alt="Paragraph AI">
+### Dreamily
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreamily.webp" alt="Dreamily">
 
-#### Лучшее бесплатное приложение для написания текстов с искусственным интеллектом: ParagraphAI
+#### Dreamily — мультивселенная, написанная вами и искусственным интеллектом.
+[Visit](https://www.thataicollection.com/redirect/dreamily?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+наберите что-нибудь. Вы можете написать начало истории или попробовать набрать одно слово или имя главного героя, и пусть искусственный интеллект напишет и создаст для вас мир.
 
-Улучшите свои навыки письма с помощью лучшего программного обеспечения для помощников по написанию. Этот бесплатный инструмент искусственного интеллекта улучшает грамматику, орфографию и стиль. Попробуйте прямо сейчас!
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/dreamily?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Glasp
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-glasp.webp" alt="Glasp">
+### Reface
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-reface.webp" alt="Reface">
 
-#### Glasp: собирайте любимые слова и делитесь ими
-[Visit](https://www.thataicollection.com/redirect/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Reface — приложение для обмена лицами с искусственным интеллектом и видео для обмена лицами
 
-Glasp — это социальный веб-маркер, с помощью которого люди могут выделять и систематизировать цитаты и мысли из Интернета, а также получать доступ к обучению других единомышленников.
+[Visit](https://www.thataicollection.com/redirect/reface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Reface — здесь вы можете менять лица на видео и GIF-файлах всего за одно селфи, анимировать фотографии и превращать фотографии в мультфильмы. 
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/reface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
 
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+### WriteHuman
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writehuman.webp" alt="WriteHuman">
+
+#### WriteHuman: необнаруживаемый искусственный интеллект и гуманизатор искусственного интеллекта
+
+[Visit](https://www.thataicollection.com/redirect/writehuman?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+WriteHuman: превращайте текст искусственного интеллекта в необнаруживаемый искусственный интеллект. Обходите возможности обнаружения искусственным интеллектом с помощью лучшего в мире средства для удаления ошибок с помощью искусственного интеллекта и AI Humanizer. Работает с GPTZero, Turnitin, Originality AI и другими.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/writehuman?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Magic Mate
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magic-mate.webp" alt="Magic Mate">
+### Photoleap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoleap.webp" alt="Photoleap">
 
-#### Magicmate — умный помощник с искусственным интеллектом для WhatsApp — общайтесь в чате с GPT, звоните, инструктируйте Pix2Pix и многое другое
+#### Преобразование текста в изображение - креативное и мощное приложение для редактирования фотографий от Lightricks
+[Visit](https://www.thataicollection.com/redirect/photoleap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/magic-mate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Используйте универсальный фоторедактор Photoleap для создания потрясающих творений на вашем iPhone: меняйте фон, удаляйте объекты, создавайте коллажи, применяйте фильтры и эффекты
 
-Magic Mate — это умный помощник с искусственным интеллектом: общайтесь с ChatGPT, рисуйте с Dalle, раскрашивайте и восстанавливайте изображения, редактируйте изображения на естественном языке, переводите аудио и многое другое прямо в WhatsApp!
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/magic-mate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Cowriter
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cowriter_.webp" alt="Cowriter">
-
-#### CoWriter — ваша платформа искусственного интеллекта для ускорения творческого письма
-
-[Visit](https://www.thataicollection.com/redirect/cowriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cowriter — это текстовый редактор и генератор текстов на базе искусственного интеллекта, призванный расширить возможности писателей и революционизировать творческий процесс письма. Мгновенно создавайте контент, такой как блоги, эссе, электронные письма, рекламу и многое другое.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/cowriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/photoleap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### NewsDeck from OneSub
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newsdeck-from-onesub.webp" alt="NewsDeck from OneSub">
+### WithPoly
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-withpoly.webp" alt="WithPoly">
 
-#### Newsdeck — ежедневно находите, фильтруйте и анализируйте тысячи статей.
-[Visit](https://www.thataicollection.com/redirect/newsdeck-from-onesub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Poly: интеллектуальное облачное хранилище нового поколения 
+[Visit](https://www.thataicollection.com/redirect/withpoly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Смотрите новости, касающиеся более 500 000 человек, компаний, стран и тем. Узнайте и организуйте репортажи о новостях
-NewsDeck использует возможности интеллектуального искусственного интеллекта для чтения новостей OneSub, чтобы предоставить вам доступ к глобальному новостному циклу в реальном времени.
+Poly создает лучший облачный хостинг для ваших личных файлов и медиафайлов, который позволяет искать на интуитивно понятном естественном языке, просматривать и отмечать объекты, а также синхронизировать их с любимыми службами искусственного интеллекта. И все это благодаря быстрому и удобному инструменту.
 
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/newsdeck-from-onesub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/withpoly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### DREAM.page
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dream.page.webp" alt="DREAM.page">
+
+#### Dream.page - Персональная публикация с помощью искусственного интеллекта
+[Visit](https://www.thataicollection.com/redirect/dream.page?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dream Page — это блог-платформа на базе искусственного интеллекта, которая позволяет создать блог и веб-сайт за считанные минуты. Начните свой блог сегодня!
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/dream.page?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -443,6 +427,23 @@ Blimey — это генератор изображений с искусств�
 <br />
 
 <br />
+
+
+### Masterpiece Studio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-masterpiece-studio.webp" alt="Masterpiece Studio">
+
+#### Студия Masterpiece — совершенно новый способ создания 3D
+Генерация. Редактировать. Делитесь и используйте.
+[Visit](https://www.thataicollection.com/redirect/masterpiece-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Создавайте, редактируйте и развертывайте 3D-технологии с помощью генеративного искусственного интеллекта. Первый полный набор для творчества в виртуальной реальности в 3D для независимых авторов.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/masterpiece-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 
 
 ### plask
@@ -1086,6 +1087,23 @@ TLDR — это подключаемый модуль IDE, который исп
 
 
 
+### WriteHuman
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writehuman.webp" alt="WriteHuman">
+
+#### WriteHuman: необнаруживаемый искусственный интеллект и гуманизатор искусственного интеллекта
+
+[Visit](https://www.thataicollection.com/redirect/writehuman?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+WriteHuman: превращайте текст искусственного интеллекта в необнаруживаемый искусственный интеллект. Обходите возможности обнаружения искусственным интеллектом с помощью лучшего в мире средства для удаления ошибок с помощью искусственного интеллекта и AI Humanizer. Работает с GPTZero, Turnitin, Originality AI и другими.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/writehuman?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Jasper.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jasper.ai.webp" alt="Jasper.ai">
 
@@ -1160,21 +1178,6 @@ Jasper — это генератор контента с искусственн�
 <br />
 
 <br />
-
-
-### LongShot AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-longshot-ai.webp" alt="LongShot AI">
-
-#### Создавайте контент, который нравится людям и поисковым системам, с помощью искусственного интеллекта.
-[Visit](https://www.thataicollection.com/redirect/longshot-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LongShot — это помощник по написанию текстов с искусственным интеллектом, который поможет вам перейти от идеи к SEO-контенту за считанные минуты. Используйте творческую мощь ИИ с такими функциями, как контент в реальном времени, проверка фактов, семантическая поисковая оптимизация, настраиваемый ИИ и многое другое!
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/longshot-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 
@@ -1837,21 +1840,6 @@ SwagAI — изображения, созданные искусственным
 
 ## Веселье
 
-### undressing.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
-
-#### Раздевание с искусственным интеллектом - БЕСПЛАТНОЕ раздевание фотографий обнаженной натуры с помощью искусственного интеллекта
-[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Лучшая НОВАЯ БЕСПЛАТНАЯ технология раздевания с искусственным интеллектом! Раздевание на базе искусственного интеллекта для фотографий! Мгновенно меняйте внешний вид. Обнаженные фотографии в один клик. Множество стилей и возможность сделать это в кратчайшие сроки
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Undress.Vip
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
 
@@ -1880,6 +1868,21 @@ Undress.vip, новаторский инструмент для искусств
 Погрузитесь в мир многочисленных девушек с искусственным интеллектом и начните играть прямо сейчас!
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### undressing.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
+
+#### Раздевание с искусственным интеллектом - БЕСПЛАТНОЕ раздевание фотографий обнаженной натуры с помощью искусственного интеллекта
+[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Лучшая НОВАЯ БЕСПЛАТНАЯ технология раздевания с искусственным интеллектом! Раздевание на базе искусственного интеллекта для фотографий! Мгновенно меняйте внешний вид. Обнаженные фотографии в один клик. Множество стилей и возможность сделать это в кратчайшие сроки
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2249,7 +2252,7 @@ Gift Genie AI — это приложение на базе искусствен
 #### AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения
 [Visit](https://www.thataicollection.com/redirect/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AiApply — это динамический набор инструментов искусственного интеллекта, предназначенных для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявки на работу, повышает качество резюме, подготовку к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, помогая пользователям выделяться на конкурентных рынках. Это незаменимый инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интеллекта.
+AiApply — это динамичный набор инструментов искусственного интеллекта, разработанный для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявления о приеме на работу, повышает качество резюме, готовит к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, обеспечивая пользователям возможность выделиться на конкурентных рынках. Это важный инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интел
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -2989,19 +2992,21 @@ Hexowatch — ваш помощник с искусственным интелл
 
 
 
-### Keploy.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-keploy.io.webp" alt="Keploy.io">
+### hr365
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fred-smith.webp" alt="hr365">
 
-#### None
-[Visit](https://www.thataicollection.com/redirect/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Модернизируйте свои кадровые и бизнес-процессы с помощью наших приложений Microsoft teams для управления персоналом и бизнеса
 
-None
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://www.thataicollection.com/redirect/hr365?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+«Оптимизируйте рабочие процессы управления персоналом и бизнеса с помощью HR365 и BizApps 365. Эти решения охватывают адаптацию, управление эффективностью, управление проектами и взаимоотношениями с клиентами, а Helpdesk 365 обеспечивает эффективное управление поддержкой. Интеграция с Microsoft Teams и Power Apps способствует совместной работе и автоматизации, а также повышает производительность».
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hr365?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### bardeen
@@ -4843,6 +4848,23 @@ Sitekick позволяет создавать красивые целевые �
 
 ## Помощник по письму
 
+### Rytr
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rytr.webp" alt="Rytr">
+
+#### Rytr — лучший писатель искусственного интеллекта, генератор контента и помощник по написанию
+[Visit](https://www.thataicollection.com/redirect/rytr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Rytr — это помощник по написанию текстов с искусственным интеллектом, который поможет вам создать высококачественный контент всего за несколько секунд и за небольшую часть стоимости!
+Создавайте потрясающий контент без особых усилий
+Никогда больше не сталкивайтесь с трудностями в написании текстов — от блогов до электронных писем и рекламных материалов — вы автоматически создаете запоминающиеся, оригинальные и высококонверсионные копии популярных тонов и языков всего за несколько секунд. 
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/rytr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### HIX.AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hix.ai.webp" alt="HIX.AI">
 
@@ -4859,17 +4881,16 @@ IX.AI: ваш самый мощный и универсальный второй
 
 
 
-### Rytr
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rytr.webp" alt="Rytr">
+### Moonbeam
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moonbeam.webp" alt="Moonbeam">
 
-#### Rytr — лучший писатель искусственного интеллекта, генератор контента и помощник по написанию
-[Visit](https://www.thataicollection.com/redirect/rytr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Moonbeam — больше никогда не пишите с нуля.
+[Visit](https://www.thataicollection.com/redirect/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Rytr — это помощник по написанию текстов с искусственным интеллектом, который поможет вам создать высококачественный контент всего за несколько секунд и за небольшую часть стоимости!
-Создавайте потрясающий контент без особых усилий
-Никогда больше не сталкивайтесь с трудностями в написании текстов — от блогов до электронных писем и рекламных материалов — вы автоматически создаете запоминающиеся, оригинальные и высококонверсионные копии популярных тонов и языков всего за несколько секунд. 
+Начните свой новый отличный блог с помощью Moonbeam — вашего помощника по написанию полных текстов на основе искусственного интеллекта. Написание великолепного объемного контента не должно казаться рутинной работой. Moonbeam — единственный помощник по написанию текстов с искусственным интеллектом, специально обученный помогать вам писать эссе, истории, статьи, блоги и другой объемный контент.
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/rytr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4893,22 +4914,6 @@ Rytr — это помощник по написанию текстов с ис�
 
 
 
-### Moonbeam
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moonbeam.webp" alt="Moonbeam">
-
-#### Moonbeam — больше никогда не пишите с нуля.
-[Visit](https://www.thataicollection.com/redirect/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Начните свой новый отличный блог с помощью Moonbeam — вашего помощника по написанию полных текстов на основе искусственного интеллекта. Написание великолепного объемного контента не должно казаться рутинной работой. Moonbeam — единственный помощник по написанию текстов с искусственным интеллектом, специально обученный помогать вам писать эссе, истории, статьи, блоги и другой объемный контент.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Elephas
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephas.webp" alt="Elephas">
 
@@ -4924,21 +4929,6 @@ Rytr — это помощник по написанию текстов с ис�
 <br />
 
 
-### Quillbot Paraphraser
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quillbot-paraphraser.webp" alt="Quillbot Paraphraser">
-
-#### Инструмент перефразирования QuillBot на базе искусственного интеллекта улучшит ваше письмо
-[Visit](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ваши слова имеют значение, и наш инструмент перефразирования предназначен для того, чтобы вы использовали правильные слова. Имея на выбор два бесплатных режима и пять премиальных режимов, вы можете использовать онлайн-перефразировщик QuillBot, чтобы перефразировать любой текст различными способами.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Paraphraser
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paraphraser.webp" alt="Paraphraser">
 
@@ -4949,6 +4939,21 @@ Rytr — это помощник по написанию текстов с ис�
 
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Quillbot Paraphraser
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quillbot-paraphraser.webp" alt="Quillbot Paraphraser">
+
+#### Инструмент перефразирования QuillBot на базе искусственного интеллекта улучшит ваше письмо
+[Visit](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Ваши слова имеют значение, и наш инструмент перефразирования предназначен для того, чтобы вы использовали правильные слова. Имея на выбор два бесплатных режима и пять премиальных режимов, вы можете использовать онлайн-перефразировщик QuillBot, чтобы перефразировать любой текст различными способами.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

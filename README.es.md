@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1000" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=999" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
     </a>
-    <h4>Desvestirse con IA: desnuda fotos GRATIS con AI Undressing</h4>
-    <p>¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con undressing.io</b></a>
+    <h4>undress.vip—2023 mejor vestido 100% funcional ai deepnude </h4>
+    <p>Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Undress.Vip</b></a>
     <br />
 </div>
 
@@ -72,19 +72,6 @@
     <h4>Chtrbx: Revoluciona el servicio de atención al cliente con información basada en la IA</h4>
     <p>Chtrbx es una plataforma de chat de IA que ayuda a las empresas a mejorar las interacciones en línea con los clientes. Analiza los sentimientos e intereses de los visitantes, lo que permite una participación eficaz y una visión estratégica. Esto se traduce en mejores experiencias de usuario, recomendaciones personalizadas y, potencialmente, en mayores ventas. Chtrbx ofrece más que chat, es una herramienta basada en datos para mejorar el servicio e impulsar el crecimiento.</p>
     <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con chtrbx</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
-    </a>
-    <h4>undress.vip—2023 mejor vestido 100% funcional ai deepnude </h4>
-    <p>Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Undress.Vip</b></a>
     <br />
 </div>
 
@@ -149,113 +136,110 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
-### chtrbx
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="chtrbx">
+### Textunbox
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-textunbox.webp" alt="Textunbox">
 
-#### Chtrbx: Revoluciona el servicio de atención al cliente con información basada en la IA
-[Visit](https://www.thataicollection.com/redirect/chtrbx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### TextUnbox: ¡aprovecha el poder de la IA!    
+[Visit](https://www.thataicollection.com/redirect/textunbox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Chtrbx es una plataforma de chat de IA que ayuda a las empresas a mejorar las interacciones en línea con los clientes. Analiza los sentimientos e intereses de los visitantes, lo que permite una participación eficaz y una visión estratégica. Esto se traduce en mejores experiencias de usuario, recomendaciones personalizadas y, potencialmente, en mayores ventas. Chtrbx ofrece más que chat, es una herramienta basada en datos para mejorar el servicio e impulsar el crecimiento.
+Aprovecha el poder de la IA con herramientas y tecnologías que ya conoces: usa el navegador o implementa tu propia solución mediante la API.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/chtrbx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/textunbox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Dreamily
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreamily.webp" alt="Dreamily">
+
+#### Dreamily: Multiverse, escrito por ti y la IA.
+[Visit](https://www.thataicollection.com/redirect/dreamily?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+escribe algo. Puedes escribir el principio de una historia o puedes intentar escribir una sola palabra o el nombre del personaje principal y dejar que la IA escriba y cree un mundo para ti.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/dreamily?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Prettysmart.co
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prettysmart.co.webp" alt="Prettysmart.co">
+### Reface
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-reface.webp" alt="Reface">
 
-#### Prettysmart: el creador de redes sociales más rápido del mundo.
-[Visit](https://www.thataicollection.com/redirect/prettysmart.co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Reface: aplicación AI Face Swap y vídeo Face Swaps
 
-Usamos inteligencia artificial para escribir tu texto y utilizamos el material publicitario de tu marca para crear el diseño. Diseño impecable: sube el material promocional de tu marca y prettysmart diseñará tus publicaciones según tu marca. Redactor de IA: simplemente dinos lo que quieres decir y la IA escribirá las publicaciones literalmente en segundos. 
+[Visit](https://www.thataicollection.com/redirect/reface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/prettysmart.co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Reface: aquí puedes intercambiar caras en vídeos y GIF con una sola selfie, animar fotos y convertir fotos en dibujos animados. 
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/reface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### WriteHuman
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writehuman.webp" alt="WriteHuman">
+
+#### WriteHuman: IA indetectable y humanizador de la IA
+
+[Visit](https://www.thataicollection.com/redirect/writehuman?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+WriteHuman: humaniza el texto de la IA hasta convertirlo en una IA indetectable. Evita la detección de la IA con el mejor eliminador de detecciones de IA y humanizador de IA del mundo. Funciona con GPTZero, Turnitin, Originality AI y más.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/writehuman?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Paragraph AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paragraph-ai.webp" alt="Paragraph AI">
+### Photoleap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoleap.webp" alt="Photoleap">
 
-#### La mejor aplicación gratuita de asistente de escritura de IA: ParagrapHai
+#### Texto a imagen: aplicación de edición de fotos potente y creativa de Lightricks
+[Visit](https://www.thataicollection.com/redirect/photoleap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Usa el editor de fotos multifunción Photoleap para crear increíbles en tu iPhone: cambia fondos, elimina objetos, crea collages, aplica filtros y efectos
 
-Mejora tus habilidades de escritura con el mejor software de asistente de escritura. Esta herramienta de IA gratuita mejora la gramática, la ortografía y el estilo. ¡Pruébalo ahora!
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/photoleap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Glasp
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-glasp.webp" alt="Glasp">
+### WithPoly
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-withpoly.webp" alt="WithPoly">
 
-#### Glasp: Colecciona y comparte tus palabras favoritas
-[Visit](https://www.thataicollection.com/redirect/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Poly: almacenamiento inteligente en la nube de próxima generación 
+[Visit](https://www.thataicollection.com/redirect/withpoly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Glasp es un marcador web social en el que la gente puede destacar y organizar citas y pensamientos de la web y acceder al aprendizaje de otras personas con ideas afines.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+Poly está creando un servicio de alojamiento en la nube mejor para tus archivos y contenido multimedia personales, que te permita buscar en un lenguaje natural intuitivo, navegar y etiquetar cosas y sincronizar desde tus servicios de IA favoritos. Todo con una herramienta que parece rápida y nativa.
 
 
-
-
-### Magic Mate
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magic-mate.webp" alt="Magic Mate">
-
-#### Magicmate, asistente de IA inteligente para WhatsApp, chatea, GPT, Dalle, instruye a Pix2Pix y más
-
-[Visit](https://www.thataicollection.com/redirect/magic-mate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Magic Mate es un asistente de IA inteligente: chatea con ChatGPT, dibuja con Dalle, colorea y restaura imágenes, edita imágenes en lenguaje natural, traduce audio y mucho más directamente en WhatsApp.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/magic-mate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/withpoly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Cowriter
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cowriter_.webp" alt="Cowriter">
+### DREAM.page
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dream.page.webp" alt="DREAM.page">
 
-#### CoWriter: tu plataforma de inteligencia artificial para acelerar la escritura creativa
+#### Dream.Page: Publicación personal asistida por IA
+[Visit](https://www.thataicollection.com/redirect/dream.page?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/cowriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cowriter es un editor de texto y generador de textos con IA diseñado para ayudar a los escritores y revolucionar el proceso de escritura creativa. Genera contenido al instante como blogs, ensayos, correos electrónicos, anuncios y más.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/cowriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+Dream Page es una plataforma de blogs impulsada por la IA que te permite crear un blog y un sitio web en cuestión de minutos. ¡Empieza tu blog hoy mismo!
 
 
-
-
-### NewsDeck from OneSub
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newsdeck-from-onesub.webp" alt="NewsDeck from OneSub">
-
-#### Newsdeck: encuentra, filtra y analiza miles de artículos a diario.
-[Visit](https://www.thataicollection.com/redirect/newsdeck-from-onesub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Transmite noticias relacionadas con más de 500 000 personas, empresas, países y temas. Descubre y organiza tu cobertura de noticias
-NewsDeck utiliza la potencia de la IA lectora de noticias inteligente de OneSub para darte acceso en tiempo real al ciclo mundial de noticias.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/newsdeck-from-onesub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/dream.page?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -443,6 +427,23 @@ Deje de perder horas con las herramientas de modelado. Genere arte 3D impresiona
 <br />
 
 <br />
+
+
+### Masterpiece Studio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-masterpiece-studio.webp" alt="Masterpiece Studio">
+
+#### Masterpiece Studio: una forma completamente nueva de crear 3D
+Generar. Editar. Compartir y usar.
+[Visit](https://www.thataicollection.com/redirect/masterpiece-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Hacer que el 3D sea sencillo con la IA generativa: generar, editar, implementar. La primera suite creativa completa de realidad virtual y 3D para creadores independientes.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/masterpiece-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 
 
 ### plask
@@ -1088,6 +1089,23 @@ Elija una de nuestras 50 plantillas y cree una copia atractiva para una variedad
 
 
 
+### WriteHuman
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writehuman.webp" alt="WriteHuman">
+
+#### WriteHuman: IA indetectable y humanizador de la IA
+
+[Visit](https://www.thataicollection.com/redirect/writehuman?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+WriteHuman: humaniza el texto de la IA hasta convertirlo en una IA indetectable. Evita la detección de la IA con el mejor eliminador de detecciones de IA y humanizador de IA del mundo. Funciona con GPTZero, Turnitin, Originality AI y más.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/writehuman?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Jasper.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jasper.ai.webp" alt="Jasper.ai">
 
@@ -1162,21 +1180,6 @@ Automatice sus operaciones de contenido. La plataforma todo en uno de marketing 
 <br />
 
 <br />
-
-
-### LongShot AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-longshot-ai.webp" alt="LongShot AI">
-
-#### Cree contenido que los humanos y los motores de búsqueda adoren usando inteligencia artificial
-[Visit](https://www.thataicollection.com/redirect/longshot-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LongShot es un asistente de escritura de IA que lo ayuda a pasar de la idea al contenido de SEO en minutos. ¡Use el poder creativo de la IA con características como contenido en tiempo real, verificación de hechos, SEO semántico, IA personalizada y más!
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/longshot-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 
@@ -1839,21 +1842,6 @@ Con la IA Outfit Anyone, explora una nueva era de la moda en la que probarte cua
 
 ## Divertido
 
-### undressing.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
-
-#### Desvestirse con IA: desnuda fotos GRATIS con AI Undressing
-[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Undress.Vip
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
 
@@ -1882,6 +1870,21 @@ Ya sea sobrevivir en una isla desierta, navegar por el espacio en una nave espac
 ¡Sumérgete en el mundo de numerosas chicas de la IA y empieza a jugar ahora!
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### undressing.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
+
+#### Desvestirse con IA: desnuda fotos GRATIS con AI Undressing
+[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2248,10 +2251,10 @@ Verifique los síntomas y encuentre causas por IA: responda el cuestionario sobr
 ### AiApply
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
 
-#### aiApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la solicitud perfecta
+#### AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta
 [Visit](https://www.thataicollection.com/redirect/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AiApply es un conjunto dinámico de herramientas de IA diseñadas para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AiApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.
+AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -2990,19 +2993,21 @@ Hexowatch es su compañero de IA para monitorear cualquier sitio web en busca de
 
 
 
-### Keploy.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-keploy.io.webp" alt="Keploy.io">
+### hr365
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fred-smith.webp" alt="hr365">
 
-#### None
-[Visit](https://www.thataicollection.com/redirect/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Moderniza tus procesos empresariales y de recursos humanos con nuestras aplicaciones empresariales y de recursos humanos de Microsoft Teams
 
-None
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/keploy.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://www.thataicollection.com/redirect/hr365?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+«Optimiza los flujos de trabajo empresariales y de RRHH con HR365 y BizApps 365. Estas soluciones abarcan la incorporación, la gestión del rendimiento, los proyectos y la gestión de las relaciones con los clientes, mientras que Helpdesk 365 garantiza una gestión del soporte eficaz. La integración con Microsoft Teams y Power Apps fomenta la colaboración y la automatización, lo que mejora la productividad».
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/hr365?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### bardeen
@@ -4415,10 +4420,10 @@ Convierte rápidamente tu texto en voz con un impresionante sonido realista y vo
 ### VideoDubber AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI">
 
-#### Traducción de vídeo mediante IA, generación y traducción de subtítulos, conversión de texto a voz y clonación de voz. Pruébelo gratis
+#### Traducción de vídeo mediante IA, generación y traducción de subtítulos, conversión de texto a voz y clonación de voz: pruébalo gratis
 [Visit](https://www.thataicollection.com/redirect/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Servicios gratuitos de traducción de vídeos, doblaje, clonación de voz y conversión de texto a voz con tecnología de IA. Amplía con nosotros a más de 30 idiomas y multiplica 10 veces el tamaño de tu audiencia sin esfuerzo.
+Servicios gratuitos de traducción de vídeo, doblaje, clonación de voz y conversión de texto a voz con inteligencia artificial. ¡Amplía con nosotros a más de 30 idiomas y 10 veces tu audiencia sin esfuerzo!
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -4844,6 +4849,23 @@ Sitekick te permite crear hermosas páginas de destino. Sin necesidad de conocim
 
 ## Asistente de Redacción
 
+### Rytr
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rytr.webp" alt="Rytr">
+
+#### Rytr: mejor escritor, generador de contenido y asistente de escritura de IA
+[Visit](https://www.thataicollection.com/redirect/rytr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Rytr es un asistente de redacción con IA que te ayuda a crear contenido de alta calidad, en solo unos segundos, ¡a una fracción del coste!
+Genera contenido increíble sin esfuerzo
+No vuelvas a enfrentarte al bloqueo del escritor: desde blogs hasta correos electrónicos y textos de anuncios, genera automáticamente copias pegadizas, originales y de alta conversión en los tonos e idiomas populares en solo unos segundos. 
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/rytr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### HIX.AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hix.ai.webp" alt="HIX.AI">
 
@@ -4860,17 +4882,16 @@ IX.AI: su copiloto de escritura de IA todo en uno más potente. Genere copias de
 
 
 
-### Rytr
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rytr.webp" alt="Rytr">
+### Moonbeam
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moonbeam.webp" alt="Moonbeam">
 
-#### Rytr: mejor escritor, generador de contenido y asistente de escritura de IA
-[Visit](https://www.thataicollection.com/redirect/rytr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Moonbeam: no vuelvas a escribir desde cero.
+[Visit](https://www.thataicollection.com/redirect/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Rytr es un asistente de redacción con IA que te ayuda a crear contenido de alta calidad, en solo unos segundos, ¡a una fracción del coste!
-Genera contenido increíble sin esfuerzo
-No vuelvas a enfrentarte al bloqueo del escritor: desde blogs hasta correos electrónicos y textos de anuncios, genera automáticamente copias pegadizas, originales y de alta conversión en los tonos e idiomas populares en solo unos segundos. 
+Pon en marcha tu próximo gran blog con Moonbeam: tu asistente de IA de escritura larga. Escribir contenido brillante en formato largo no tiene por qué parecer una tarea ardua. Moonbeam es el único asistente de redacción de IA formado específicamente para ayudarte a escribir ensayos, historias, artículos, blogs y otros contenidos de formato largo.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/rytr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4894,22 +4915,6 @@ Mejora tus habilidades de escritura con el mejor software de asistente de escrit
 
 
 
-### Moonbeam
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moonbeam.webp" alt="Moonbeam">
-
-#### Moonbeam: no vuelvas a escribir desde cero.
-[Visit](https://www.thataicollection.com/redirect/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pon en marcha tu próximo gran blog con Moonbeam: tu asistente de IA de escritura larga. Escribir contenido brillante en formato largo no tiene por qué parecer una tarea ardua. Moonbeam es el único asistente de redacción de IA formado específicamente para ayudarte a escribir ensayos, historias, artículos, blogs y otros contenidos de formato largo.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Elephas
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephas.webp" alt="Elephas">
 
@@ -4925,21 +4930,6 @@ Ahorra horas todos los días. El primer escritor de inteligencia artificial del 
 <br />
 
 
-### Quillbot Paraphraser
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quillbot-paraphraser.webp" alt="Quillbot Paraphraser">
-
-#### La herramienta de paráfrasis impulsada por IA de QuillBot mejorará su escritura
-[Visit](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Tus palabras importan, y nuestra herramienta de paráfrasis está diseñada para garantizar que uses las correctas. Con dos modos gratuitos y cinco modos Premium para elegir, puede usar el Paraphraser en línea de QuillBot para reformular cualquier texto de varias maneras.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Paraphraser
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paraphraser.webp" alt="Paraphraser">
 
@@ -4950,6 +4940,21 @@ Herramienta de paráfrasis con 15 modos GRATUITOS para más de 100 idiomas: refo
 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Quillbot Paraphraser
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quillbot-paraphraser.webp" alt="Quillbot Paraphraser">
+
+#### La herramienta de paráfrasis impulsada por IA de QuillBot mejorará su escritura
+[Visit](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Tus palabras importan, y nuestra herramienta de paráfrasis está diseñada para garantizar que uses las correctas. Con dos modos gratuitos y cinco modos Premium para elegir, puede usar el Paraphraser en línea de QuillBot para reformular cualquier texto de varias maneras.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
