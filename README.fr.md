@@ -149,110 +149,106 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
 
-### Textunbox
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-textunbox.webp" alt="Textunbox">
+### Oda Studio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
 
-#### TextUnbox : exploite la puissance de l'IA !    
-[Visit](https://www.thataicollection.com/redirect/textunbox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Oda Moodboard • Oda Studio - Choisissez ton style et ta couleur pour personnaliser ton intérieur en quelques secondes grâce à l'IA.
 
-Exploite la puissance de l'IA à l'aide d'outils et de technologies que tu connais : utilise le navigateur ou implémente ta propre solution à l'aide de l'API.
+[Visit](https://www.thataicollection.com/redirect/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/textunbox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Choisis ton style et ta couleur pour personnaliser ta maison en quelques secondes grâce à l'IA. Commence à concevoir ta maison ou utilise un tableau d'échantillons.  
 
-<br />
-
-
-
-
-### Dreamily
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreamily.webp" alt="Dreamily">
-
-#### Dreamily - Multiverse, écrit par toi et AI.
-[Visit](https://www.thataicollection.com/redirect/dreamily?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-tape quelque chose. Tu peux écrire le début d'une histoire, ou essayer de taper un seul mot ou le nom du personnage principal, et laisser l'IA écrire et te créer un monde.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/dreamily?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Reface
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-reface.webp" alt="Reface">
+### PictoDream
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pictodream.webp" alt="PictoDream">
 
-#### Reface — Application AI Face Swap et vidéos
+#### Génère des images de toi grâce à l'IA - Pictodream.Com
+[Visit](https://www.thataicollection.com/redirect/pictodream?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/reface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Génère des images de toi (ou d'une autre personne) dans n'importe quel style ou décor à l'aide d'une simple description textuelle. Génère des images de toi grâce à l'IA. Met n'importe qui dans n'importe quel style ou décor à l'aide d'une simple description textuelle. À utiliser comme avatar et photo de profil, impression sur toile, cadeau idéal, essaie de nouvelles coupes de cheveux et de nouvelles tenues
 
-Reface — ici, tu peux échanger des visages dans des vidéos et des GIF avec un seul selfie, animer des photos et transformer des photos en dessins animés. 
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/reface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### WriteHuman
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writehuman.webp" alt="WriteHuman">
-
-#### WriteHuman : IA indétectable et humaniseur d'IA
-
-[Visit](https://www.thataicollection.com/redirect/writehuman?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-WriteHuman : humanise le texte de l'IA pour en faire une IA indétectable. Contournez la détection de l'IA avec le meilleur outil de suppression de détection d'IA au monde et AI Humanizer. Fonctionne avec GPTZero, Turnitin, Originality AI, etc.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/writehuman?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/pictodream?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Photoleap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoleap.webp" alt="Photoleap">
+### SUPERMACHINE
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
 
-#### Texte en image : application de retouche photo créative et puissante de Lightricks
-[Visit](https://www.thataicollection.com/redirect/photoleap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Supermachine - Générez des photos, des œuvres d'art et des images à l'aide de l'IA
+[Visit](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Utilise l'éditeur de photos tout-en-un Photoleap pour réaliser de superbes créations sur ton iPhone : change d'arrière-plan, supprime des objets, crée des collages, applique des filtres et des effets
+SUPERMACHINE te permet de générer des images à l'aide des dernières technologies d'intelligence artificielle. Génère de superbes images d'IA avec plus de 55 modèles.
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/photoleap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### WithPoly
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-withpoly.webp" alt="WithPoly">
-
-#### Poly : stockage intelligent dans le cloud de nouvelle génération 
-[Visit](https://www.thataicollection.com/redirect/withpoly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Poly met en place un meilleur service d'hébergement cloud pour tes fichiers personnels et tes contenus multimédias, qui te permet de faire des recherches dans un langage naturel intuitif, de parcourir et d'étiqueter des éléments, et de te synchroniser depuis tes services d'IA préférés. Le tout avec un outil rapide et natif.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/withpoly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### DREAM.page
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dream.page.webp" alt="DREAM.page">
+### Ebsynth
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ebsynth.webp" alt="Ebsynth">
 
-#### Dream.page - Publication personnelle assistée par l'IA
-[Visit](https://www.thataicollection.com/redirect/dream.page?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Ebsynth - Transforme une vidéo en la peignant sur une seule image
+[Visit](https://www.thataicollection.com/redirect/ebsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Dream Page est une plateforme de blogs alimentée par l'IA qui te permet de créer un blog et un site web en quelques minutes. Lance ton blog dès aujourd'hui !
+Donnez vie à tes peintures. Tu peins une image et EBSynth la diffuse sur le reste de la vidéo. EBSynth est là pour rendre l'art et l'animation plus accessibles à tous. Ça accélère les choses mais ça ne prend pas le contrôle. Ce que tu crées avec ça reste ton œuvre d'art originale
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ebsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
 
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/dream.page?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+### AI Funko Pop Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-funko-pop-generator.webp" alt="AI Funko Pop Generator">
+
+#### Le générateur AI Funko Pop est un générateur d'images gratuit basé sur l'intelligence artificielle. 
+[Visit](https://www.thataicollection.com/redirect/ai-funko-pop-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Le générateur AI Funko Pop est un générateur d'images gratuit basé sur l'intelligence artificielle. Il peut créer des images Funko Pop personnalisées selon les descriptions spécifiées par l'utilisateur, afin de diffuser ton image personnalisée en moins d'une seconde.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-funko-pop-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Imgak - 照片AI修复工具
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-imgak---照片ai修复工具.webp" alt="Imgak - 照片AI修复工具">
+
+#### Imgak - Restaurer de vieilles photos grâce à l'IA pour tous
+[Visit](https://www.thataicollection.com/redirect/imgak---照片ai修复工具?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+L'ancien outil de réparation sans perte de photos d'Imgak est un outil de retouche photo basé sur l'IA complet et facile à utiliser. Il fournit des fonctions telles que la réparation, la coloration et l'agrandissement sans perte d'anciennes photos, afin de répondre aux différents besoins des utilisateurs en matière de retouche photo. Que tu sois un utilisateur ordinaire ou un retoucheur photo professionnel, tu peux facilement réparer et améliorer de vieilles photos grâce à imgak.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/imgak---照片ai修复工具?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### FairyTailAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fairytailai.webp" alt="FairyTailAI">
+
+#### Générateur d'histoires personnalisé à l'heure du coucher grâce à l'IA
+[Visit](https://www.thataicollection.com/redirect/fairytailai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Créez chaque jour un conte de fées personnalisé pour tes enfants à l'heure du coucher à l'aide de l'IA. Choisis le décor, l'environnement, les noms des personnages et la morale que tu souhaites transmettre à tes enfants. Ton histoire sera prête en moins d'une minute avec une illustration et une voix personnalisées et appropriées. Sinon, tu peux choisir une histoire déjà créée dans un répertoire à lire.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/fairytailai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -501,6 +497,22 @@ Une première expérience pour prototyper et créer de la 3D avec du texte L'acc
 
 ## Architecture & Design d'intérieur
 
+### Oda Studio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
+
+#### Oda Moodboard • Oda Studio - Choisissez ton style et ta couleur pour personnaliser ton intérieur en quelques secondes grâce à l'IA.
+
+[Visit](https://www.thataicollection.com/redirect/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Choisis ton style et ta couleur pour personnaliser ta maison en quelques secondes grâce à l'IA. Commence à concevoir ta maison ou utilise un tableau d'échantillons.  
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Makeit.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-makeit.ai.webp" alt="Makeit.ai">
 
@@ -589,21 +601,6 @@ Découvrez les possibilités infinies en matière de design d'intérieur grâce 
 <br />
 
 
-
-
-### Getfloorplan
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getfloorplan.webp" alt="Getfloorplan">
-
-#### Création de plans d'étage 2D et 3D avec l'IA
-[Visit](https://www.thataicollection.com/redirect/getfloorplan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Jusqu'à 30 % d'augmentation des appels signalés par nos clients utilisant des plans d'étage 2D, 3D et des visites virtuelles
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/getfloorplan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 
@@ -1102,6 +1099,21 @@ Choisissez l'un de nos 50 modèles et créez une copie convaincante à diverses 
 
 
 
+### Jasper.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jasper.ai.webp" alt="Jasper.ai">
+
+#### Jasper - Rédacteur IA - Générateur de contenu IA pour les équipes
+[Visit](https://www.thataicollection.com/redirect/jasper.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Jasper est le générateur de contenu IA qui vous aide, vous et votre équipe, à briser les blocages créatifs pour créer un contenu original et étonnant 10 fois plus rapidement.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/jasper.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### WriteHuman
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writehuman.webp" alt="WriteHuman">
 
@@ -1119,21 +1131,6 @@ WriteHuman : humanise le texte de l'IA pour en faire une IA indétectable. Cont
 
 
 
-### Jasper.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jasper.ai.webp" alt="Jasper.ai">
-
-#### Jasper - Rédacteur IA - Générateur de contenu IA pour les équipes
-[Visit](https://www.thataicollection.com/redirect/jasper.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Jasper est le générateur de contenu IA qui vous aide, vous et votre équipe, à briser les blocages créatifs pour créer un contenu original et étonnant 10 fois plus rapidement.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/jasper.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Writelyai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writelyai.webp" alt="Writelyai">
 
@@ -1144,6 +1141,23 @@ Beat AI Detection : tu écris, Writely complète !
 Rédigez plus de contenu, plus vite que jamais et contournez la détection par l'IA. Il te suffit de saisir ton adresse e-mail et de demander ton essai dès aujourd'hui.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/writelyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Neuroflash
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuroflash_.webp" alt="Neuroflash">
+
+#### neuroflash, le générateur de texte et d'images IA numéro 1 en Europe
+
+[Visit](https://www.thataicollection.com/redirect/neuroflash?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Utilise notre générateur de texte et d'images basé sur l'IA pour générer du contenu de la plus haute qualité dans 7 langues différentes. La création de contenu n'a jamais été aussi simple !
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/neuroflash?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1174,21 +1188,6 @@ Utilisez l'intelligence artificielle pour réduire les délais d'exécution, aug
 Tirez parti de tous les meilleurs outils de génération d'IA en un seul endroit, conçus pour automatiser la création de contenu pour les petites entreprises, les boutiques en ligne et les créateurs.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/unbound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Neuraltext
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neuraltext.webp" alt="Neuraltext">
-
-#### Neuraltext - Rédacteur IA et plateforme SEO.
-[Visit](https://www.thataicollection.com/redirect/neuraltext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Automatisez vos opérations de contenu. La plateforme de marketing de contenu et de référencement tout-en-un qui vous fait gagner du temps et de l'argent
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/neuraltext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1282,19 +1281,19 @@ Plate-forme de conception visuelle tout-en-un contenant des outils de montage ph
 
 
 
-### Fermat
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fermat.webp" alt="Fermat">
+### AI-story-Generator.site
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-story-generator.site.webp" alt="AI-story-Generator.site">
 
-#### Créativité augmentée pour la création de contenu
-[Visit](https://www.thataicollection.com/redirect/fermat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Cet outil peut t'aider à créer de belles histoires
+[Visit](https://www.thataicollection.com/redirect/ai-story-generator.site?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Libérez votre créativité avec l'IA sur un canevas collaboratif.
+AI Story Generator est un outil en ligne gratuit qui peut t'aider à créer de magnifiques histoires. Tu n'as qu'à saisir de simples instructions pour générer rapidement de magnifiques histoires. Ce site propose de nombreux autres outils gratuits.
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/fermat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-story-generator.site?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
+
+
 
 
 ### Lightricks
@@ -1628,15 +1627,15 @@ Rendez vos e-mails froids beaucoup plus chaleureux avec une copie hautement pers
 <br />
 
 
-### StoryBee
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storybee.webp" alt="StoryBee">
+### FairyTailAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fairytailai.webp" alt="FairyTailAI">
 
-#### StoryBee est une plateforme sur laquelle les utilisateurs peuvent créer des histoires à l'aide de l'IA.
-[Visit](https://www.thataicollection.com/redirect/storybee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Générateur d'histoires personnalisé à l'heure du coucher grâce à l'IA
+[Visit](https://www.thataicollection.com/redirect/fairytailai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-StoryBee est une plateforme basée sur l'IA conçue pour créer des histoires captivantes pour les enfants. Les utilisateurs commencent par fournir un indice ou un thème, qui aide l'IA à créer un récit personnalisé. La plateforme permet de personnaliser davantage le genre, le style et l'esthétique visuelle de l'histoire, afin qu'elle trouve un écho auprès du public cible. 
+Créez chaque jour un conte de fées personnalisé pour tes enfants à l'heure du coucher à l'aide de l'IA. Choisis le décor, l'environnement, les noms des personnages et la morale que tu souhaites transmettre à tes enfants. Ton histoire sera prête en moins d'une minute avec une illustration et une voix personnalisées et appropriées. Sinon, tu peux choisir une histoire déjà créée dans un répertoire à lire.
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/storybee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/fairytailai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3127,16 +3126,15 @@ HitPaw Online AI Photo Enhancer utilise une technologie d'intelligence artificie
 
 
 
-### FaceSwapper
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-faceswapper.webp" alt="FaceSwapper">
+### Imgak - 照片AI修复工具
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-imgak---照片ai修复工具.webp" alt="Imgak - 照片AI修复工具">
 
-#### Laisse éclater de rire : comment l'IA de FaceSwapper transforme les visages pour s'amuser complètement !
+#### Imgak - Restaurer de vieilles photos grâce à l'IA pour tous
+[Visit](https://www.thataicollection.com/redirect/imgak---照片ai修复工具?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/faceswapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+L'ancien outil de réparation sans perte de photos d'Imgak est un outil de retouche photo basé sur l'IA complet et facile à utiliser. Il fournit des fonctions telles que la réparation, la coloration et l'agrandissement sans perte d'anciennes photos, afin de répondre aux différents besoins des utilisateurs en matière de retouche photo. Que tu sois un utilisateur ordinaire ou un retoucheur photo professionnel, tu peux facilement réparer et améliorer de vieilles photos grâce à imgak.
 
-Laisse libre cours à ta créativité avec FaceSwapper.AI, l'outil d'échange de visages de pointe basé sur l'IA. Transforme des photos ordinaires en chefs-d'œuvre extraordinaires en échangeant des visages sans effort en quelques clics. Notre interface intuitive facilite la navigation et permet même aux débutants de créer des échanges de visages époustouflants et hilarants. Explorez une infinité de possibilités d'expression artistique et amusante !
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/faceswapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/imgak---照片ai修复工具?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3636,6 +3634,22 @@ Un outil de traitement du langage naturel et un générateur de texte. Il prend 
 
 ## Ventes et Marketing
 
+### Predis
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-predis.webp" alt="Predis">
+
+#### Le marketing sur les réseaux sociaux simplifié grâce à l'IA - Predis.Ai
+[Visit](https://www.thataicollection.com/redirect/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Predis est un outil marketing basé sur l'IA pour les réseaux sociaux qui aide les entreprises à créer des vidéos et des images captivants et à effectuer des analyses de contenu basées sur l'IA.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Tabula
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tabula.webp" alt="Tabula">
 
@@ -3670,15 +3684,15 @@ Obtenez une superbe copie qui se vend. Copy.ai est un rédacteur basé sur l'IA 
 
 
 
-### Clickable
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clickable.webp" alt="Clickable">
+### GummySearch
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gummysearch.webp" alt="GummySearch">
 
-#### Générez des publicités en quelques secondes avec l'IA
-[Visit](https://www.thataicollection.com/redirect/clickable?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Étude client basée sur l'IA via Reddit. Découvre les problèmes à résoudre, les sentiments à l'égard des solutions actuelles et les personnes qui souhaitent acheter ton produit.
+[Visit](https://www.thataicollection.com/redirect/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-De belles publicités cohérentes avec la marque et à fort taux de conversion pour tous les canaux marketing. Aucune expérience de conception nécessaire.
+GummySearch est un outil d'étude d'audience basé sur l'IA pour Reddit. Cela te permet de faire des recherches systématiques sur ce dont les gens parlent et sur ce qu'ils pensent de tes concurrents et de ton secteur d'activité. Tu peux l'utiliser pour trouver des points faibles et des solutions qui demandent à être créées, des idées de contenu à créer ou des prospects avec lesquels entrer en contact. 
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/clickable?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3709,21 +3723,6 @@ La plate-forme alimentée par l'IA fournit des Battlecards automagiques et une i
 Que vous vous concentriez sur l'interface utilisateur, la recherche UX, la conception ou l'expérience utilisateur, l'IA de l'évaluation des utilisateurs peut répondre à toutes vos questions.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/userevaluation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### GummySearch
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gummysearch.webp" alt="GummySearch">
-
-#### Étude client basée sur l'IA via Reddit. Découvre les problèmes à résoudre, les sentiments à l'égard des solutions actuelles et les personnes qui souhaitent acheter ton produit.
-[Visit](https://www.thataicollection.com/redirect/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-GummySearch est un outil d'étude d'audience basé sur l'IA pour Reddit. Cela te permet de faire des recherches systématiques sur ce dont les gens parlent et sur ce qu'ils pensent de tes concurrents et de ton secteur d'activité. Tu peux l'utiliser pour trouver des points faibles et des solutions qui demandent à être créées, des idées de contenu à créer ou des prospects avec lesquels entrer en contact. 
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4431,21 +4430,6 @@ Convertissez rapidement ton texte en voix grâce à un son époustouflant et ré
 
 ## Traduction et transcription
 
-### VideoDubber AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI">
-
-#### Traduction vidéo par IA, génération et traduction de sous-titres, synthèse vocale et clonage vocal. Essayez gratuitement
-[Visit](https://www.thataicollection.com/redirect/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Services gratuits de traduction vidéo, de doublage, de clonage vocal et de synthèse vocale alimentés par l'IA. Évoluez avec nous dans plus de 30 langues pour multiplier par 10 la taille de ton audience, sans effort !
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### TranslateVideo
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-translatevideo.webp" alt="TranslateVideo">
 
@@ -4455,6 +4439,21 @@ Services gratuits de traduction vidéo, de doublage, de clonage vocal et de synt
 Tout ce dont tes vidéos ont besoin dans une seule application : génération de sous-titres, traduction de sous-titres, doublage vidéo, voix off par IA, enregistrement de transcriptions vocales et plus encore. \nArrête de perdre des semaines ou des mois\nTraduisez et sous-titrez des vidéos 100 fois plus vite\n
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/translatevideo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### VideoDubber AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber-ai.webp" alt="VideoDubber AI">
+
+#### Traduction vidéo par IA, génération et traduction de sous-titres, synthèse vocale et clonage vocal. Essayez gratuitement
+[Visit](https://www.thataicollection.com/redirect/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Services gratuits de traduction vidéo, de doublage, de clonage vocal et de synthèse vocale alimentés par l'IA. Évoluez avec nous dans plus de 30 langues pour multiplier par 10 la taille de ton audience, sans effort !
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/videodubber-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4622,38 +4621,6 @@ Débloquez le nom de blog de voyage parfait avec le générateur d'idées de nom
 
 ## Vidéo
 
-### VEED.IO
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO">
-
-#### VEED.IO - Éditeur vidéo basé sur l'IA, rapide, en ligne et gratuit
-
-[Visit](https://www.thataicollection.com/redirect/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Éditeur vidéo IA gratuit avec conversion de texte en vidéo, avatars, sous-titres automatiques, traductions vocales et plus encore. Enregistre, modifie et partage tes vidéos en ligne avec VEED.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Vidnoz Flex
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-flex.webp" alt="Vidnoz Flex">
-
-####  Crée, partage, gère et suit tes vidéos de manière efficace.
-[Visit](https://www.thataicollection.com/redirect/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Vidnoz Flex est un outil vidéo simple mais puissant de Vidnoz, qui combine la création de vidéos, la personnalisation, le partage et les fonctionnalités de suivi en un seul endroit. Cela augmentera totalement ta productivité en matière de création et de promotion de vidéos au quotidien et tu obtiendras les meilleurs résultats.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Synthesia
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-synthesia.webp" alt="Synthesia">
 
@@ -4687,6 +4654,53 @@ sans effort
 
 
 
+### Vidnoz Flex
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-flex.webp" alt="Vidnoz Flex">
+
+####  Crée, partage, gère et suit tes vidéos de manière efficace.
+[Visit](https://www.thataicollection.com/redirect/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vidnoz Flex est un outil vidéo simple mais puissant de Vidnoz, qui combine la création de vidéos, la personnalisation, le partage et les fonctionnalités de suivi en un seul endroit. Cela augmentera totalement ta productivité en matière de création et de promotion de vidéos au quotidien et tu obtiendras les meilleurs résultats.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### HitPaw Online Video Enhancer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
+
+#### Un clic pour débloquer et mettre à l'échelle votre vidéo par une IA formée.
+[Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HitPaw Online Video Enhancer est la meilleure solution pour les vidéos basse résolution, augmentez la solution vidéo jusqu'à 1080P/4K sans effort.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### VEED.IO
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO">
+
+#### VEED.IO - Éditeur vidéo basé sur l'IA, rapide, en ligne et gratuit
+
+[Visit](https://www.thataicollection.com/redirect/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Éditeur vidéo IA gratuit avec conversion de texte en vidéo, avatars, sous-titres automatiques, traductions vocales et plus encore. Enregistre, modifie et partage tes vidéos en ligne avec VEED.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### HeyGen
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-heygen.webp" alt="HeyGen">
 
@@ -4714,21 +4728,6 @@ Explication et procédures, marketing, ventes personnalisées, e-learning, forma
 ⚡️ Obtenez des résumés instantanés alimentés par l'IA pour les vidéos YouTube, gagnez du temps, traduisez en 28 langues
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/eightify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### HitPaw Online Video Enhancer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
-
-#### Un clic pour débloquer et mettre à l'échelle votre vidéo par une IA formée.
-[Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HitPaw Online Video Enhancer est la meilleure solution pour les vidéos basse résolution, augmentez la solution vidéo jusqu'à 1080P/4K sans effort.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
