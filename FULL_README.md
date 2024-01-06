@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=999" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=995" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,6 +59,19 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    </a>
+    <h4>undress.vip–2023 best 100% Working undress ai deepnude </h4>
+    <p>undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Undress.Vip</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="chtrbx" border="0"/>
     </a>
@@ -78,19 +91,6 @@ Translations:
     <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
     <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
     <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
-    </a>
-    <h4>undress.vip–2023 best 100% Working undress ai deepnude </h4>
-    <p>undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Undress.Vip</b></a>
     <br />
 </div>
 
@@ -287,6 +287,7 @@ Translations:
 | [PictoDream](https://www.thataicollection.com/redirect/pictodream?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generate Images of Yourself With AI - Pictodream.Com. | Generate any images of yourself (or another person) in any style or setting using a simple text description. Generate images of yourself with AI. Put anyone in any style or setting using a simple text description. Use as avatars and profile photos, Print on canvas, Great as a gift, Try new haircuts and outfits. | :grey_question: |
 | [Pictorial](https://www.thataicollection.com/redirect/pictorial?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pictorial - Effortlessly Create Graphics for Your Web Applications. | Inspiration is hard to come by. Get your message across hustle-free by leveraging an AI able to generate reliable, ready-to-use visual masterpieces. | :grey_question: |
 | [PirateDiffusion](https://www.thataicollection.com/redirect/piratediffusion?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Describe Anything. | get realistic HD images, more styles, no restrictions. | :white_check_mark: |
+| [Pixelmind](https://www.thataicollection.com/redirect/pixelmind?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pixelmind - AI-Powered Art & Minting to NFTS. | Your journey into AI-powered art. Create and collect NFTs through the Pixelmind portal. Evolve your style. Raise your game. | :grey_question: |
 | [Pixian](https://www.thataicollection.com/redirect/pixian?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Remove Image Backgrounds, Free Hd, No Signup - Pixian.Ai. | Remove Image Backgrounds, Free HD, No Signup. | :white_check_mark: |
 | [Playground](https://www.thataicollection.com/redirect/playground?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Playground AI - Online AI Image Creator. | Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more. | :white_check_mark: |
 | [Pollinations](https://www.thataicollection.com/redirect/pollinations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | YOUR ENGINE FOR PERSONALIZED MEDIA. | We combine and fine-tune algorithms to match any aesthetics, allowing the creation of unlimited, customized AI media. | :grey_question: |
@@ -1050,6 +1051,7 @@ Translations:
 | [Jenni](https://www.thataicollection.com/redirect/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Jenni - The AI For Writing Essays, Research Papers & More!. | Jenni is your AI assistant for all things in your academic journey. We specialise in developing AI that helps you with essay writing, research papers and more!. | :white_check_mark: |
 | [RTutor](https://www.thataicollection.com/redirect/rtutor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Chat With Your Data in Dozens of Human Languages. | RTutor uses OpenAI's powerful large language model to translate natural language into R code, which is then excuted. You can request your analysis, just like asking a real person. Upload a data file (CSV, TSV/tab-delimited text files, and Excel) and just analyze it in plain English. Your results can be downloaded as an HTML report in minutes!. | :white_check_mark: |
 | [Scispace](https://www.thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Scispace by Typeset - Discover, Create, Publish, and Promote Your Research Paper. | Your platform to explore and explain papers. Search for 270M+ papers, understand them in simple language, and find connected papers, authors, topics. | :grey_question: |
+| [Sourcely](https://www.thataicollection.com/redirect/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Sourcely- Finish Your Research in Minutes. Save Your Sleep. | AI-powered literature sourcing tool that quickly retrieves relevant texts based on user input. With advanced natural language processing techniques, it provides easy access to diverse information sources, saving time and effort. Get help from Sourcely AI. | :white_check_mark: |
 | [Synthical](https://www.thataicollection.com/redirect/synthical?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-powered collaborative research environment. | Simplify articles to understand complex terms, get cool recommendations, search for similar articles, and easily collaborate with the team. | :white_check_mark: |
 | [Vocads Survey](https://www.thataicollection.com/redirect/vocads-survey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Survey Reinvented by Conversational Voice AI. | Companies lack responses & engagement on their surveys. Vocads reinvents survey experience, through VOICE conversation with an AI. | :grey_question: |
 
@@ -1077,6 +1079,7 @@ Translations:
 | [Altera AI](https://www.thataicollection.com/redirect/altera-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Abetter Way to Sell on Linkedin. | Get more leads and close more deals with Altera, the AI sales assistant that generates hyper personalised comments, inmails and posts on LinkedIn. | :white_check_mark: |
 | [Ampifire](https://www.thataicollection.com/redirect/ampifire?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Organic Traffic Done For You With Content & Brand Amplification Enhanced by A.I. | Get more organic targeted buyer traffic from the biggest and best traffic source in the world so more people buy your stuff. The AmpiFire Method to grow your brand works in 3 steps: 1. Create 2. Repurpose 3. Distribute: which improves your brand presence & reputation online and increases conversions across all your traffic sources. | :grey_question: |
 | [BaruaAI](https://www.thataicollection.com/redirect/baruaai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generate High Converting Sales Emails in Seconds. | Our platform transforms your key product details and objectives into persuasive prose, tailor-made to hook your audience and skyrocket conversion rates. | :white_check_mark: |
+| [Beb AI](https://www.thataicollection.com/redirect/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Beb.Ai - Receive endless creative content for your brand. | The Possibilities Are Endless, Zero Design Skills Required. ✓ Engaging Social Media Posts ✓ Pattern Interupt Ads ✓ Marketing Campaigns ✓ Dynamic Marketing Materials ✓ Holiday Cards ✓ Or Just FOR FUN!. | :grey_question: |
 | [Briefly](https://www.thataicollection.com/redirect/briefly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Briefly - The AI Powered Briefing Platform. | Marketing briefs that get to the best creative work. Improve your marketing effectiveness and reduce the cost of badly written briefs. | :grey_question: |
 | [CastPush](https://www.thataicollection.com/redirect/castpush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-Driven Multi-Channel Broadcasting. | Connect and broadcast to all your social media channels with just a few clicks using CastPush. Our magical AI technology optimizes your content for each individual connection, ensuring maximum reach and engagement. | :white_check_mark: |
 | [Clickable](https://www.thataicollection.com/redirect/clickable?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generate Ads in Seconds With AI. | Beautiful, brand-consistent, and highly converting ads for all marketing channels. No design experience needed. | :grey_question: |
@@ -1332,6 +1335,7 @@ Translations:
 | [Hour One](https://www.thataicollection.com/redirect/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Make AI Videos to Train Anyone or Explain Anything - Hour One. | The only AI video generator with customized video templates, AI presenters in different accents and languages, and more. Try for free TODAY!. | :white_check_mark: |
 | [Make a Video](https://www.thataicollection.com/redirect/make-a-video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Make-A-Video is a state-of-the-art AI system that generates videos from text. | Make-A-Video research builds on the recent progress made in text-to-image generation technology built to enable text-to-video generation. The system uses images with descriptions to learn what the world looks like and how it is often described. With this data, Make-A-Video lets you bring your imagination to life by generating whimsical, one-of-a-kind videos with just a few words or lines of text. | :grey_question: |
 | [Move](https://www.thataicollection.com/redirect/move?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Move AI. | Capture high quality motion data from video in any environment using mobile phones. | :grey_question: |
+| [Neural Studio](https://www.thataicollection.com/redirect/neural-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Neuralcam - We build smart camera apps with AI powered image processing. | We build AI powered camera apps. We think that the newly developed deep learning technologies have enabled the creation of a new category of devices called Smart Cameras — cameras that not just see and record the world but can also understand what they see and can even react to events in real-time. | :grey_question: |
 | [Neuralframes](https://www.thataicollection.com/redirect/neuralframes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Neural Frames - Discover the synthesizer for the visual world. | Neural Frames - AI animation generator that makes trippy videos quickly, with frame-by-frame image automation. Great for music videos, digital art or AI animations. | :white_check_mark: |
 | [Not A Person](https://www.thataicollection.com/redirect/not-a-person?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generate Studio Quality Videos Using AI Actors. | Choose an actor and make them speak using AI 🤯. Our AI-generated actors move and talk like real humans. Our artificial intelligence actors are hyper-realistic. They can move and do the same actions that a real human actor would do. | :white_check_mark: |
 | [Pictory](https://www.thataicollection.com/redirect/pictory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Video Creation Made Easy. | Automatically create short, highly-sharable branded videos from your long form content. | :grey_question: |
@@ -1412,6 +1416,7 @@ Translations:
 | [Neuron Writer](https://www.thataicollection.com/redirect/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | NeuronWriter – Content optimization with #semanticSEO. | Optimize your website content so Google adores it. Advanced content editor with semantic models (NLP), Google SERP analysis, and competition data. NEURONwriter helps you to plan, write and optimize content with user intent in mind!. | :grey_question: |
 | [Never Jobless LinkedIn Message Generator](https://www.thataicollection.com/redirect/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Never Jobless LinkedIn Message Generator. | Maximize Your Interview Chances with AI-Powered LinkedIn Messaging Elevate your career prospects with our AI tool, designed to create personalized, engaging LinkedIn messages. By analyzing key elements that appeal to hiring managers, our tool crafts messages highlighting your interest, experience, and value, tailored to your target job title and past projects. | :grey_question: |
 | [Nichess](https://www.thataicollection.com/redirect/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Nichesss - AI Writer - Write anything 10x faster. | Ready to start generating content in seconds? Nichesss has got you covered. Forget writers block. Get blog posts, ads, social media content, poems, business ideas and more by just clicking a button. Our bots will write everything for you. | :white_check_mark: |
+| [OpenTyper](https://www.thataicollection.com/redirect/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | OpenTyper - AI-powered copywriter that writes for you. | AI Writing Assistant with Power and Ease. Save time and write better content with Opentyper. Our 70+ writing templates and wizard make it easy for you to create high-quality content faster than ever. | :white_check_mark: |
 | [Parafrasear](https://www.thataicollection.com/redirect/parafrasear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paraphrase Texts - The Best Online Paraphrasing (100% Free). | Paraphrase texts free online paraphrasing tool. Our Paraphrase.ai paraphrasing tool helps you paraphrase plagiarized content. | :white_check_mark: |
 | [Paragraph AI](https://www.thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Best Free AI Writing Assistant App: ParagraphAI. | Boost your writing skills with the best writing assistant software. This free AI tool improves grammar, spelling, and style. Try it now!. | :white_check_mark: |
 | [Paraphrasear Online](https://www.thataicollection.com/redirect/paraphrasear-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paraphrase online - Paraphrase texts - 100% Free. | This online paraphrasing is a free tool to paraphrase texts. Use online paraphrasing to eliminate plagiarism. This is an AI-powered online paraphrasing tool, which can easily paraphrase articles, essays, sentences, stories, assignments, research papers and many other types of content. | :white_check_mark: |
@@ -1443,17 +1448,8 @@ Translations:
 ## Other
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [AI Pickup Lines Generator](https://www.thataicollection.com/redirect/ai-pickup-lines-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Pickup Lines. | . | :grey_question: |
 | [Auto Draw](https://www.thataicollection.com/redirect/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Autodraw. | Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast. | :grey_question: |
-| [Beb AI](https://www.thataicollection.com/redirect/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Beb.Ai. | The possibilities are limitless, beb. | :grey_question: |
-| [Daft Art](https://www.thataicollection.com/redirect/daft-art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Daft Art — Create the Album Cover You'Ve Always Dreamed Of. | Daft allows you to create an amazing, high quality artwork for your album cover within a few minutes, powered by AI. | :grey_question: |
-| [Diffusion Bee](https://www.thataicollection.com/redirect/diffusion-bee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Diffusionbee - Stable Diffusion App for AI Art. | DiffusionBee is the easiest way to generate AI art on your computer with Stable Diffusion. | :white_check_mark: |
 | [Inworld](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Inworld AI – Create AI Characters and Ask Them Anything. | Create AI characters and NPCs for games, metaverse, and business applications – or just for fun. You can talk to AI characters about anything. Its easy, free, and full of possibilities. | :white_check_mark: |
-| [My Instant Writer](https://www.thataicollection.com/redirect/my-instant-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | My Instant Writer. | . | :grey_question: |
-| [Neural Studio](https://www.thataicollection.com/redirect/neural-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Neuralcam. | with AI powered image processing. | :grey_question: |
-| [Pixelmind](https://www.thataicollection.com/redirect/pixelmind?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pixelmind - AI-Powered Art & Minting to NFTS. | Your journey into AI-powered art. Create and collect NFTs through the Pixelmind portal. Evolve your style. Raise your game. | :grey_question: |
-| [Pixelz AI](https://www.thataicollection.com/redirect/pixelz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pixelz AI Art Generator. | Create unique AI artwork using text, phrases, images & presets, share, download, print & mint as NFTs. | :grey_question: |
-| [Super Prompt](https://www.thataicollection.com/redirect/super-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Super Prompts. | Create a gallery for your AI art. Next time someone asks to see all your art, you'll have somewhere to point them to. Showcase all your AI art in one place. | :grey_question: |
 
 
 <!--lint ignore double-link-->
