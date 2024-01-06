@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=999" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=995" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>undress.vip—2023 mejor vestido 100% funcional ai deepnude </h4>
-    <p>Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Undress.Vip</b></a>
+    <h4>Podwise, la principal aplicación de aprendizaje de IA para los oyentes de podcasts.</h4>
+    <p>Con Podwise, puedes aprender a partir de conocimientos estructurados y escuchar de forma selectiva los capítulos que despierten tu interés. Esta función te permite optimizar tu experiencia de aprendizaje y centrarte en el contenido que más te importa.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Podwise</b></a>
     <br />
 </div>
 
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
     </a>
-    <h4>Podwise, la principal aplicación de aprendizaje de IA para los oyentes de podcasts.</h4>
-    <p>Con Podwise, puedes aprender a partir de conocimientos estructurados y escuchar de forma selectiva los capítulos que despierten tu interés. Esta función te permite optimizar tu experiencia de aprendizaje y centrarte en el contenido que más te importa.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Podwise</b></a>
+    <h4>undress.vip—2023 mejor vestido 100% funcional ai deepnude </h4>
+    <p>Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Undress.Vip</b></a>
     <br />
 </div>
 
@@ -149,6 +149,89 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### Sourcely
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sourcely.webp" alt="Sourcely">
+
+#### Fuente: termina tu investigación en minutos. Ahorra tu sueño.
+[Visit](https://www.thataicollection.com/redirect/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Herramienta de búsqueda de literatura impulsada por la IA que recupera rápidamente los textos relevantes en función de los comentarios del usuario. Con técnicas avanzadas de procesamiento del lenguaje natural, proporciona un fácil acceso a diversas fuentes de información, lo que ahorra tiempo y esfuerzo. Obtén ayuda de Sourcely AI.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Beb AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-beb-ai.webp" alt="Beb AI">
+
+#### Beb.Ai: Recibe un sinfín de contenido creativo para tu marca
+[Visit](https://www.thataicollection.com/redirect/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Las posibilidades son infinitas, no se requieren habilidades de diseño.
+✓ Publicaciones atractivas en las redes sociales
+✓ Anuncios de interrupción de patrones
+✓ Campañas de marketing
+✓ Materiales de marketing dinámicos
+✓ Tarjetas navideñas
+✓ ¡O simplemente POR DIVERSIÓN!
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### OpenTyper
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-opentyper.webp" alt="OpenTyper">
+
+#### OpenTyper: redactor con inteligencia artificial que escribe para ti.
+[Visit](https://www.thataicollection.com/redirect/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Asistente de escritura de IA con potencia y facilidad. Ahorra tiempo y escribe mejor contenido con Opentyper. Nuestras más de 70 plantillas de escritura y nuestro asistente te facilitan la creación de contenido de alta calidad más rápido que nunca.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Pixelmind
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pixelmind.webp" alt="Pixelmind">
+
+#### Pixelmind: Arte y acuñación impulsados por la IA para NFTS
+[Visit](https://www.thataicollection.com/redirect/pixelmind?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Tu viaje al arte impulsado por la IA. Crea y colecciona NFT a través del portal Pixelmind. Haz evolucionar tu estilo. Mejora tu juego
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/pixelmind?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Neural Studio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neural-studio.webp" alt="Neural Studio">
+
+#### Neuralcam: creamos aplicaciones de cámaras inteligentes
+con procesamiento de imágenes impulsado por IA
+[Visit](https://www.thataicollection.com/redirect/neural-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Creamos aplicaciones de cámara impulsadas por IA. Creemos que las tecnologías de aprendizaje profundo desarrolladas recientemente han permitido la creación de una nueva categoría de dispositivos llamada cámaras inteligentes, cámaras que no solo ven y graban el mundo, sino que también pueden entender lo que ven e incluso pueden reaccionar ante los acontecimientos en tiempo real. 
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/neural-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Oda Studio
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
 
@@ -174,81 +257,6 @@ Elige tu estilo y color para personalizar tu casa en segundos con la IA. Empieza
 Genera cualquier imagen tuya (o de otra persona) en cualquier estilo o entorno con una descripción textual sencilla. Genera imágenes de ti mismo con la IA. Pon a cualquier persona en cualquier estilo o entorno con una descripción textual sencilla. Úsalo como avatares y fotos de perfil, imprime sobre lienzo, ideal como regalo, prueba nuevos cortes de pelo y atuendos
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/pictodream?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SUPERMACHINE
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
-
-#### Supermachine: genera fotos, arte e imágenes de archivo con IA
-[Visit](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SUPERMACHINE te permite generar imágenes con lo último en tecnología de inteligencia artificial. Genera imágenes de IA impresionantes con más de 55 modelos.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Ebsynth
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ebsynth.webp" alt="Ebsynth">
-
-#### Ebsynth: Transforma un vídeo pintando sobre un solo fotograma
-[Visit](https://www.thataicollection.com/redirect/ebsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Da vida a tus cuadros. Pintas un fotograma y EBSynth lo propaga al resto de las imágenes. EBSynth está aquí para hacer que el arte y la animación sean más accesibles para todos. Acelera las cosas, pero no toma el control. Lo que creas con ella sigue siendo tu obra original
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/ebsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Funko Pop Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-funko-pop-generator.webp" alt="AI Funko Pop Generator">
-
-#### El generador Funko Pop de IA es un generador de imágenes gratuito basado en inteligencia artificial. 
-[Visit](https://www.thataicollection.com/redirect/ai-funko-pop-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-El generador Funko Pop de IA es un generador de imágenes gratuito basado en inteligencia artificial. Puede crear imágenes Funko Pop personalizadas según las descripciones especificadas por el usuario, y entregar tu imagen personalizada en menos de un segundo.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/ai-funko-pop-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Imgak - 照片AI修复工具
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-imgak---照片ai修复工具.webp" alt="Imgak - 照片AI修复工具">
-
-#### Imgak: Restauración de fotos antiguas con IA para todo el mundo
-[Visit](https://www.thataicollection.com/redirect/imgak---照片ai修复工具?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-La herramienta de reparación sin pérdida de fotos antiguas de imgak es una herramienta de edición de fotos basada en IA completa y fácil de usar. Ofrece funciones como reparar, colorear y ampliar fotos antiguas sin pérdida, para satisfacer las diversas necesidades de retoque fotográfico de los usuarios. Tanto si eres un usuario normal como un retoque fotográfico profesional, puedes reparar y mejorar fácilmente fotos antiguas a través de imgak.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/imgak---照片ai修复工具?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### FairyTailAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fairytailai.webp" alt="FairyTailAI">
-
-#### Generador de cuentos personalizados para dormir con IA
-[Visit](https://www.thataicollection.com/redirect/fairytailai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Genera un cuento de hadas personalizado para dormir para tus hijos todos los días con la IA. Elige el escenario, el entorno, los nombres de los personajes y la moraleja que te gustaría transmitir a tus hijos. Tu historia estará lista en menos de un minuto con una ilustración y un doblaje personalizados y adecuados. Como alternativa, puedes elegir una historia ya generada en un directorio para leerla.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/fairytailai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3447,6 +3455,22 @@ Afforai es un chatbot de IA que busca, resume y traduce información de varias f
 
 
 
+### Sourcely
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sourcely.webp" alt="Sourcely">
+
+#### Fuente: termina tu investigación en minutos. Ahorra tu sueño.
+[Visit](https://www.thataicollection.com/redirect/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Herramienta de búsqueda de literatura impulsada por la IA que recupera rápidamente los textos relevantes en función de los comentarios del usuario. Con técnicas avanzadas de procesamiento del lenguaje natural, proporciona un fácil acceso a diversas fuentes de información, lo que ahorra tiempo y esfuerzo. Obtén ayuda de Sourcely AI.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Elicit
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elicit.webp" alt="Elicit">
 
@@ -3517,21 +3541,6 @@ Cargue un documento, resalte el texto confuso, obtenga una explicación. Hacemos
 Jenni es tu asistente de IA para todo lo relacionado con tu trayectoria académica. ¡Nos especializamos en el desarrollo de la IA que te ayude a escribir ensayos, trabajos de investigación y mucho más!
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Vocads Survey
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vocads-survey.webp" alt="Vocads Survey">
-
-#### Encuesta reinventada por Conversational Voice AI
-[Visit](https://www.thataicollection.com/redirect/vocads-survey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Las empresas carecen de respuestas y participación en sus encuestas. Vocads reinventa la experiencia de las encuestas, a través de la conversación de VOZ con una IA.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/vocads-survey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3698,6 +3707,27 @@ GummySearch es una herramienta de investigación de audiencias basada en la IA p
 
 
 
+### Beb AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-beb-ai.webp" alt="Beb AI">
+
+#### Beb.Ai: Recibe un sinfín de contenido creativo para tu marca
+[Visit](https://www.thataicollection.com/redirect/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Las posibilidades son infinitas, no se requieren habilidades de diseño.
+✓ Publicaciones atractivas en las redes sociales
+✓ Anuncios de interrupción de patrones
+✓ Campañas de marketing
+✓ Materiales de marketing dinámicos
+✓ Tarjetas navideñas
+✓ ¡O simplemente POR DIVERSIÓN!
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Cuetap.com
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cuetap.com.webp" alt="Cuetap.com">
 
@@ -3713,30 +3743,20 @@ La plataforma impulsada por IA proporciona Battlecards automágicos e inteligenc
 <br />
 
 
-### Userevaluation
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-userevaluation.webp" alt="Userevaluation">
+### Genius Sheets
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-genius-sheets.webp" alt="Genius Sheets">
 
-#### Evaluación del usuario la plataforma de comprensión del cliente
-[Visit](https://www.thataicollection.com/redirect/userevaluation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Genius Sheets: INTELIGENCIA EMPRESARIAL DEL FUTURO
+Análisis de datos con IA
+[Visit](https://www.thataicollection.com/redirect/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Ya sea que esté enfocado en UI, UX Research, Design o CX, la IA de User Evaluation puede responder todas sus preguntas.
+Genius Sheets AI es un agente de inteligencia empresarial de autoservicio que responde a todas tus preguntas más importantes.
+IA conversacional: habla con Genius Sheets como si estuvieras hablando con un compañero de trabajo
+Seguridad empresarial: diseñada para los estándares de seguridad empresarial, para mantener tus datos seguros.
+Fácil de usar: no se necesita SQL ni Python
+Interfaz nativa: conéctate a tus datos en nuestra aplicación web, Slack o Teams
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/userevaluation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### BaruaAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-baruaai.webp" alt="BaruaAI">
-
-#### Genere correos electrónicos de ventas de alta conversión en segundos
-[Visit](https://www.thataicollection.com/redirect/baruaai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nuestra plataforma transforma los detalles y objetivos clave de su producto en prosa persuasiva, hecha a medida para enganchar a su audiencia y disparar las tasas de conversión.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/baruaai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

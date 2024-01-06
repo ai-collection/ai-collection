@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=999" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=995" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
     </a>
-    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
-    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
+    <h4>undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude </h4>
+    <p>Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Undress.Vip</b></a>
     <br />
 </div>
 
@@ -79,12 +79,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude </h4>
-    <p>Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Undress.Vip</b></a>
+    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
+    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
     <br />
 </div>
 
@@ -385,6 +385,7 @@
 | [Neuron Writer](https://www.thataicollection.com/redirect/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | NeuronWriter — 使用 #semanticSEO 进行内容优化. | 优化您的网站内容 所以谷歌很喜欢它。 高级内容编辑器，包含语义模型 (NLP)、谷歌 SERP 分析和竞争数据。 NeuronWriter 可帮助您规划、编写和优化内容，同时考虑用户意图！. | :grey_question: |
 | [Never Jobless LinkedIn Message Generator](https://www.thataicollection.com/redirect/never-jobless-linkedin-message-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 永不失业 LinkedIn 消息生成器. | 利用人工智能驱动的 LinkedIn 消息最大限度地提高面试机会使用我们的 AI 工具提升您的职业前景，该工具旨在创建个性化、引人入胜的 LinkedIn 消息。通过分析吸引招聘经理的关键要素，我们的工具会根据你的目标职位和过去的项目量身定制信息，突出你的兴趣、经验和价值。. | :grey_question: |
 | [Nichess](https://www.thataicollection.com/redirect/nichess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Nichesss——AI Writer——写任何东西的速度都快 10 倍。. | 准备好在几秒钟内开始生成内容了吗？Nichesss 已经为你准备好了。忘记作家封锁了。只需点击按钮即可获取博客文章、广告、社交媒体内容、诗歌、商业创意等。我们的机器人会为你写所有东西。. | :white_check_mark: |
+| [OpenTyper](https://www.thataicollection.com/redirect/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | OpenTyper-由人工智能驱动的撰稿人，为你写作。. | AI 写作助手，既强大又简单。使用 Opentyper 可以节省时间并撰写更好的内容。我们的 70 多个写作模板和向导使您可以比以往任何时候都更轻松地创建高质量的内容。. | :white_check_mark: |
 | [Parafrasear](https://www.thataicollection.com/redirect/parafrasear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 释义文本-最佳在线释义（100% 免费）. | 释义文本免费在线释义工具。我们的 Paraphrase.ai 释义工具可帮助您解读抄袭的内容。. | :white_check_mark: |
 | [Paragraph AI](https://www.thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 最佳免费人工智能写作助手应用程序：ParagrapHai. | 使用最好的写作助手软件提高您的写作技巧。这个免费的 AI 工具改进了语法、拼写和风格。现在就试试吧！. | :white_check_mark: |
 | [Paraphrasear Online](https://www.thataicollection.com/redirect/paraphrasear-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在线解释-释义文本-100% 免费. | 这个在线释义是解读文本的免费工具。使用在线释义来消除抄袭。这是一款由人工智能驱动的在线释义工具，可以轻松解读文章、论文、句子、故事、作业、研究论文和许多其他类型的内容。. | :white_check_mark: |
@@ -928,6 +929,7 @@
 | [Jenni](https://www.thataicollection.com/redirect/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Jenni-用于撰写论文、研究论文等的人工智能！. | Jenni 是你在学术旅程中处理所有事物的 AI 助手。我们专门开发可帮助您撰写论文、研究论文等的人工智能！. | :white_check_mark: |
 | [RTutor](https://www.thataicollection.com/redirect/rtutor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用数十种人类语言与您的数据聊天。. | RTutor利用OpenAI强大的大语言模型将自然语言翻译成R代码，然后执行。您可以请求您的分析，就像询问真人一样。上传数据文件（CSV、TSV/制表符分隔的文本文件和 Excel），然后用简单的英语对其进行分析。您的结果可以在几分钟内下载为 HTML 报告！. | :white_check_mark: |
 | [Scispace](https://www.thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SciSpace by Typeset - 发现、创建、发布和推广您的研究论文. | 您探索和解释论文的平台。搜索超过 27000 万篇论文，用简单的语言理解它们，并找到相关的论文、作者和主题。. | :grey_question: |
+| [Sourcely](https://www.thataicollection.com/redirect/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Sourcely-在几分钟内完成研究。拯救您的睡眠。. | 人工智能驱动的文献采购工具，可根据用户输入快速检索相关文本。借助先进的自然语言处理技术，它可以轻松访问各种信息源，从而节省时间和精力。向 Sourcely AI 寻求帮助。. | :white_check_mark: |
 | [Synthical](https://www.thataicollection.com/redirect/synthical?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的协作研究环境. | 简化文章以理解复杂的术语、获得精彩的推荐、搜索类似的文章并轻松与团队协作。. | :white_check_mark: |
 | [Vocads Survey](https://www.thataicollection.com/redirect/vocads-survey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 对话式语音 AI 重塑调查. | 公司在调查中缺乏回应和参与。 Vocads 通过与 AI 的语音对话重塑调查体验。. | :grey_question: |
 
@@ -1232,6 +1234,7 @@
 | [PictoDream](https://www.thataicollection.com/redirect/pictodream?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 生成自己的图像-Pictodream.Com. | 使用简单的文字描述生成任何样式或设置的自己（或其他人）的任何图像。使用 AI 生成自己的图像。使用简单的文字描述将任何人置于任何风格或设置中。用作头像和个人资料照片，在画布上打印，非常适合作为礼物，尝试新的发型和服装. | :grey_question: |
 | [Pictorial](https://www.thataicollection.com/redirect/pictorial?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pictorial-毫不费力地为你的 Web 应用程序创建图形. | 灵感很难获得。利用能够生成可靠、随时可用的视觉杰作的人工智能，轻松传达您的信息。. | :grey_question: |
 | [PirateDiffusion](https://www.thataicollection.com/redirect/piratediffusion?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 描述任何东西. | 获得逼真的高清图像，更多样式，无限制. | :white_check_mark: |
+| [Pixelmind](https://www.thataicollection.com/redirect/pixelmind?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pixelmind-人工智能驱动的艺术和铸造到 NFTS. | 您的人工智能艺术之旅。通过 Pixelmind 门户创建和收集 NFT。发展你的风格。提升你的游戏水平. | :grey_question: |
 | [Pixian](https://www.thataicollection.com/redirect/pixian?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 去除图片背景, 免费高清, 无需注册 - 皮线.AI. | 删除图像背景，免费高清，无需注册. | :white_check_mark: |
 | [Playground](https://www.thataicollection.com/redirect/playground?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Playground AI - 在线 AI 图像创建器. | Playground AI 是一个免费使用的在线 AI 图像创建器。用它来创作艺术、社交媒体帖子、演示文稿、海报、视频、徽标等。. | :white_check_mark: |
 | [Pollinations](https://www.thataicollection.com/redirect/pollinations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您的个性化媒体引擎. | 我们结合并微调算法以匹配任何美学，允许创建无限的、定制的 AI 媒体。. | :grey_question: |
@@ -1298,6 +1301,7 @@
 | [Hour One](https://www.thataicollection.com/redirect/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 制作人工智能视频来训练任何人或解释任何事情-Hour One. | 唯一一款具有自定义视频模板、不同口音和语言的人工智能演示者等的 AI 视频生成器。今天免费试用！. | :white_check_mark: |
 | [Make a Video](https://www.thataicollection.com/redirect/make-a-video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Make-A-Video 是一种最先进的人工智能系统，可以从文本生成视频。. | Make-A-Video研究建立在文本到图像生成技术的最新进展的基础上，该技术旨在实现文本到视频的生成。该系统使用带有描述的图像来了解世界是什么样子以及通常是如何描述世界的。有了这些数据，Make-A-Video 只需几个字或几行文字就能生成异想天开、独一无二的视频，让你的想象力变为现实。. | :grey_question: |
 | [Move](https://www.thataicollection.com/redirect/move?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 移动爱. | 使用手机在任何环境中从视频中捕获高质量的运动数据。. | :grey_question: |
+| [Neural Studio](https://www.thataicollection.com/redirect/neural-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Neuralcam-我们开发智能相机应用程序 采用 AI 驱动的图像处理. | 我们开发基于人工智能的相机应用程序。我们认为，新开发的深度学习技术促成了一类名为智能相机的新设备——相机不仅可以看到和记录世界，还可以理解所看到的内容，甚至可以实时对事件做出反应。. | :grey_question: |
 | [Neuralframes](https://www.thataicollection.com/redirect/neuralframes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 神经框架-探索视觉世界的合成器。. | Neural Frames-AI 动画生成器，可通过逐帧图像自动化快速制作迷幻视频。非常适合音乐视频、数字艺术或 AI 动画。. | :white_check_mark: |
 | [Not A Person](https://www.thataicollection.com/redirect/not-a-person?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 演员生成工作室品质的视频. | 选择一个演员，让他们使用 AI 🤯 说话。我们的 AI 生成的演员像真人一样移动和说话。我们的人工智能演员是超现实的。他们可以移动并做出与真人演员相同的动作。. | :white_check_mark: |
 | [Pictory](https://www.thataicollection.com/redirect/pictory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 轻松制作视频. | 从您的长篇内容中自动创建简短的、高度共享的品牌视频. | :grey_question: |
@@ -1367,6 +1371,7 @@
 | [Altera AI](https://www.thataicollection.com/redirect/altera-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在 LinkedIn 上销售的更好方式. | 通过 Altera 获得更多潜在客户并完成更多交易，Altera 是 AI 销售助理，可在 LinkedIn 上生成高度个性化的评论、电子邮件和帖子。. | :white_check_mark: |
 | [Ampifire](https://www.thataicollection.com/redirect/ampifire?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过人工智能增强内容和品牌放大，为您完成自然流量. | 从世界上最大、最好的流量来源获得更多有机的定向买家流量，让更多的人购买你的东西。发展品牌的 AmpiFire 方法分为 3 个步骤：1.创建 2。重新利用 3.分发：这可以提高您的品牌形象和在线声誉，并提高所有流量来源的转化率。. | :grey_question: |
 | [BaruaAI](https://www.thataicollection.com/redirect/baruaai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在几秒钟内生成高转化率的销售电子邮件. | 我们的平台将您的关键产品细节和目标转化为有说服力的散文，量身定制以吸引您的观众和飙升的转化率。. | :white_check_mark: |
+| [Beb AI](https://www.thataicollection.com/redirect/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Beb.Ai-为您的品牌接收无穷无尽的创意内容. | 可能性是无限的，不需要任何设计技能。 ✓ 引人入胜的社交媒体帖子 ✓ 图案中断广告 ✓ 营销活动 ✓ 动态营销材料 ✓ 节日贺卡 ✓ 或者只是为了好玩！. | :grey_question: |
 | [Briefly](https://www.thataicollection.com/redirect/briefly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Briefly - 人工智能驱动的简报平台. | 获得最佳创意作品的营销简报。提高您的营销效率并减少写得不好的简报的成本。. | :grey_question: |
 | [CastPush](https://www.thataicollection.com/redirect/castpush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的多频道广播. | 使用 CastPush 只需点击几下即可连接并广播到您的所有社交媒体频道。我们神奇的 AI 技术针对每个单独的连接优化您的内容，确保最大的覆盖面和参与度。. | :white_check_mark: |
 | [Clickable](https://www.thataicollection.com/redirect/clickable?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 在几秒钟内生成广告. | 适用于所有营销渠道的美观、品牌一致且转化率高的广告。无需设计经验。. | :grey_question: |
@@ -1437,17 +1442,8 @@
 ## 其他
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
-| [AI Pickup Lines Generator](https://www.thataicollection.com/redirect/ai-pickup-lines-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能取件线. | . | :grey_question: |
 | [Auto Draw](https://www.thataicollection.com/redirect/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 自动绘图. | 为大家快速绘图。 AutoDraw 将机器学习与才华横溢的艺术家的绘画相结合，帮助您快速绘制内容。. | :grey_question: |
-| [Beb AI](https://www.thataicollection.com/redirect/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | beb.ai. | 可能性是无限的，贝. | :grey_question: |
-| [Daft Art](https://www.thataicollection.com/redirect/daft-art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Daft Art — 制作您梦寐以求的专辑封面. | Daft 允许您在几分钟内为您的专辑封面创建令人惊叹的高质量艺术品，由 AI 提供支持。. | :grey_question: |
-| [Diffusion Bee](https://www.thataicollection.com/redirect/diffusion-bee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | DiffusionBee - 稳定的 AI 艺术扩散应用程序. | DiffusionBee 是使用 Stable Diffusion 在计算机上生成 AI 艺术的最简单方法. | :white_check_mark: |
 | [Inworld](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Inworld AI – 创建 AI 角色并向他们提出任何问题. | 为游戏、元宇宙和商业应用程序创建 AI 角色和 NPC，或者只是为了好玩。您可以与 AI 角色谈论任何事情。它简单、免费且充满可能性。. | :white_check_mark: |
-| [My Instant Writer](https://www.thataicollection.com/redirect/my-instant-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 我的即时作家. | . | :grey_question: |
-| [Neural Studio](https://www.thataicollection.com/redirect/neural-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 神经摄像头. | 具有人工智能驱动的图像处理. | :grey_question: |
-| [Pixelmind](https://www.thataicollection.com/redirect/pixelmind?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pixelmind - AI 驱动的艺术和 NFT 铸造. | 您的人工智能艺术之旅。通过 Pixelmind 门户创建和收集 NFT。发展你的风格。提升你的游戏水平. | :grey_question: |
-| [Pixelz AI](https://www.thataicollection.com/redirect/pixelz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pixelz AI 艺术生成器. | 使用文本、短语、图像和预设创建独特的 AI 艺术品，分享、下载、打印和铸造为 NFT. | :grey_question: |
-| [Super Prompt](https://www.thataicollection.com/redirect/super-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 超级提示. | 为您的 AI 艺术创建画廊。下次有人要求查看您的所有艺术作品时，您将有地方可以指向他们。在一个地方展示你所有的人工智能艺术。. | :grey_question: |
 
 
 <!--lint ignore double-link-->

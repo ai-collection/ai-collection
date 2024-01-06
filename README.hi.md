@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=999" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=995" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
-    </a>
-    <h4>कपड़े उतारना.vip—2023 सबसे अच्छा 100% काम करने वाला अनड्रेस ऐ डीप न्यूड </h4>
-    <p>Undress.vip, एक ज़बरदस्त एयर टूल, जो इस प्रगति में सबसे आगे है। undress.vip—2023 सबसे अच्छा 100% वर्किंग एआई डीपन्यूड और डीपफ़ेक टेलीग्राम अनड्रेस एयर बॉट्स</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Undress.Vip के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
@@ -85,6 +72,19 @@
     <h4>Chtrbx: AI-संचालित जानकारी के साथ ग्राहक सेवा में क्रांति लाएं</h4>
     <p>Chtrbx एक AI चैट प्लेटफ़ॉर्म है जो बिज़नेस को ऑनलाइन ग्राहक इंटरैक्शन को बेहतर बनाने में मदद करता है। यह आगंतुकों की भावनाओं और रुचियों का विश्लेषण करता है, जिससे प्रभावी सहभागिता और रणनीतिक जानकारी मिलती है। इससे यूज़र के अनुभव बेहतर होते हैं, वैयक्तिकृत सुझाव मिलते हैं, और संभावित रूप से ज़्यादा बिक्री होती है। Chtrbx चैट से ज़्यादा ऑफ़र करता है; यह सेवा बढ़ाने और तरक्की बढ़ाने के लिए डेटा-चालित टूल है।</p>
     <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>chtrbx के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    </a>
+    <h4>कपड़े उतारना.vip—2023 सबसे अच्छा 100% काम करने वाला अनड्रेस ऐ डीप न्यूड </h4>
+    <p>Undress.vip, एक ज़बरदस्त एयर टूल, जो इस प्रगति में सबसे आगे है। undress.vip—2023 सबसे अच्छा 100% वर्किंग एआई डीपन्यूड और डीपफ़ेक टेलीग्राम अनड्रेस एयर बॉट्स</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Undress.Vip के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -149,6 +149,89 @@
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
 
+### Sourcely
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sourcely.webp" alt="Sourcely">
+
+#### स्रोत- अपने रिसर्च को मिनटों में पूरा करें। अपनी नींद बचाओ।
+[Visit](https://www.thataicollection.com/redirect/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+एआई-संचालित लिटरेचर सोर्सिंग टूल, जो यूज़र इनपुट के आधार पर प्रासंगिक टेक्स्ट को तुरंत रिकवर करता है। एडवांस प्राकृतिक भाषा प्रोसेसिंग तकनीकों के साथ, यह विविध सूचना स्रोतों तक आसान पहुँच प्रदान करता है, जिससे समय और मेहनत की बचत होती है। सोर्सली एआई से मदद पाओ।
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Beb AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-beb-ai.webp" alt="Beb AI">
+
+#### Beb.Ai - अपने ब्रांड के लिए अंतहीन रचनात्मक सामग्री पाओ
+[Visit](https://www.thataicollection.com/redirect/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+संभावनाएं अनंत हैं, किसी डिज़ाइन कौशल की आवश्यकता नहीं है।
+✓ दिलचस्प सोशल मीडिया पोस्ट
+✓ पैटर्न इंटरप्ट विज्ञापन
+✓ मार्केटिंग कैंपेन
+✓ डायनामिक मार्केटिंग सामग्रियां
+✓ हॉलिडे कार्ड्स
+✓ या सिर्फ़ मनोरंजन के लिए!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### OpenTyper
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-opentyper.webp" alt="OpenTyper">
+
+#### ओपनटाइपर - एआई-संचालित कॉपीराइटर जो तुम्हारे लिए लिखता है।
+[Visit](https://www.thataicollection.com/redirect/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+पावर एंड ईज़ी के साथ एआई राइटिंग असिस्टेंट। समय बचाएं और OpenTyper के ज़रिए बेहतर कॉन्टेंट लिखें। हमारे 70+ राइटिंग टेम्प्लेट और विज़ार्ड से तुम्हारे लिए हाई-क्वालिटी का कॉन्टेंट पहले से कहीं ज़्यादा तेज़ी से बनाना आसान हो जाता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Pixelmind
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pixelmind.webp" alt="Pixelmind">
+
+#### पिक्सेलमाइंड - एआई-संचालित आर्ट एंड मिंटिंग से लेकर एनएफ़टीएस तक
+[Visit](https://www.thataicollection.com/redirect/pixelmind?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+एआई-संचालित कला में तुम्हारी यात्रा। पिक्सेलमाइंड पोर्टल के ज़रिए एनएफटी बनाएं और इकट्ठा करें। अपने स्टाइल को विकसित करो। अपने गेम को बेहतर बनाएं
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/pixelmind?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Neural Studio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neural-studio.webp" alt="Neural Studio">
+
+#### न्यूरलकैम - हम स्मार्ट कैमरा ऐप बनाते हैं
+AI द्वारा संचालित इमेज प्रोसेसिंग के साथ
+[Visit](https://www.thataicollection.com/redirect/neural-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+हम AI से चलने वाले कैमरा ऐप्स बनाते हैं। हमें लगता है कि नई विकसित की गई गहरी शिक्षा तकनीकों ने स्मार्ट कैमरा नामक उपकरणों की एक नई श्रेणी के निर्माण की सुविधा दी है — ऐसे कैमरे जो न सिर्फ़ दुनिया को देखते और रिकॉर्ड करते हैं बल्कि यह भी समझ सकते हैं कि वे क्या देखते हैं और रीयल-टाइम की घटनाओं पर प्रतिक्रिया भी दे सकते हैं। 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/neural-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Oda Studio
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
 
@@ -174,81 +257,6 @@ AI की मदद से कुछ ही सेकंड में अपन�
 सरल टेक्स्ट विवरण का उपयोग करके किसी भी स्टाइल या सेटिंग में अपनी (या किसी अन्य व्यक्ति) की कोई भी छवि जेनरेट करें। AI की मदद से अपनी इमेज जेनरेट करें। सरल टेक्स्ट विवरण का उपयोग करके किसी भी स्टाइल या सेटिंग में किसी को भी तैयार करें। अवतार और प्रोफ़ाइल फ़ोटो के तौर पर इस्तेमाल करें, कैनवास पर प्रिंट करें, उपहार के तौर पर बढ़िया, नए हेयरकट और पहनावे आज़माएँ
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/pictodream?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SUPERMACHINE
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
-
-#### सुपरमशीन - AI की मदद से स्टॉक फ़ोटो, आर्ट और इमेज जेनरेट करें
-[Visit](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-सुपर मशीन तुम्हेंं सबसे नई आर्टिफिशियल इंटेलिजेंस तकनीक से इमेज जेनरेट करने में मदद करती है। 55+ मॉडल के साथ शानदार AI इमेज जेनरेट करें।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Ebsynth
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ebsynth.webp" alt="Ebsynth">
-
-#### एब्सिंथ - सिंगल फ़्रेम पर पेंटिंग करके वीडियो ट्रांसफ़ॉर्म करें
-[Visit](https://www.thataicollection.com/redirect/ebsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-अपनी पेंटिंग्स को जीवंत जीवन में लाओ। तुम एक फ़्रेम को पेंट करते हो और EBSynth इसे बाकी फुटेज में प्रचारित करता है। आर्ट और ऐनिमेशन को हर किसी के लिए ज़्यादा ऐक्सेस करने के लिए ईबीसिंथ मौजूद है। यह चीज़ों को गति देता है, लेकिन यह नियंत्रण में नहीं आता है। तुम इससे जो बनाते हो वह अभी भी तुम्हारा मूल आर्टवर्क है
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ebsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Funko Pop Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-funko-pop-generator.webp" alt="AI Funko Pop Generator">
-
-#### एआई फ़नको पॉप जेनरेटर आर्टिफ़िशियल इंटेलीजेंस पर आधारित एक मुफ़्त इमेज जनरेटर है। 
-[Visit](https://www.thataicollection.com/redirect/ai-funko-pop-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-एआई फ़नको पॉप जेनरेटर आर्टिफ़िशियल इंटेलीजेंस पर आधारित एक मुफ़्त इमेज जनरेटर है। यह यूज़र द्वारा बताए गए विवरण के अनुसार व्यक्तिगत फ़नको पॉप इमेज बना सकता है, जिससे तुम्हारी कस्टमाइज्ड इमेज एक सेकंड से भी कम समय में डिलीवर हो जाएगी।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-funko-pop-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Imgak - 照片AI修复工具
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-imgak---照片ai修复工具.webp" alt="Imgak - 照片AI修复工具">
-
-#### Imgak - हर किसी के लिए AI का इस्तेमाल करके पुरानी फ़ोटो रीस्टोर करना
-[Visit](https://www.thataicollection.com/redirect/imgak---照片ai修复工具?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-बहुत पुराना फ़ोटो लॉसलेस रिपेयर टूल एक व्यापक और आसानी से इस्तेमाल होने वाला AI फ़ोटो एडिटिंग टूल है। यह पुरानी तस्वीरों को दुरुस्त करने, रंगने और दोषरहित इज़ाफ़ा करने जैसे फ़ंक्शन प्रदान करता है, जो यूज़र की फ़ोटो सुधारने की विभिन्न ज़रूरतों को पूरा करता है। चाहे तुम सामान्य यूज़र हो या पेशेवर फ़ोटो रिटूचर, तुम imgak के ज़रिये पुरानी फ़ोटो को आसानी से सुधार सकते हो और उन्हें बेहतर बना सकते हो।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/imgak---照片ai修复工具?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### FairyTailAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fairytailai.webp" alt="FairyTailAI">
-
-#### एआई का इस्तेमाल करके वैयक्तिकृत बेडटाइम स्टोरी जेनरेटर
-[Visit](https://www.thataicollection.com/redirect/fairytailai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI का इस्तेमाल करके हर दिन अपने बच्चों के लिए सोने के समय की एक मनमुताबिक परी कथा तैयार करें। वह सेटिंग, परिवेश, चरित्र नाम और ऐसी बातें चुनें, जिनके बारे में तुम अपने बच्चों को बताना चाहते हो। तुम्हारी कहानी एक मिनट से भी कम समय में तैयार हो जाएगी, जिसमें अनुकूलित, उपयुक्त चित्रण और आवाज़ दी जाएगी। वैकल्पिक रूप से, तुम पढ़ने के लिए डायरेक्टरी से पहले से जेनरेट की गई कहानी चुन सकते हो।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/fairytailai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3448,6 +3456,22 @@ Afforai एक AI चैटबॉट है जो भरोसेमंद श�
 
 
 
+### Sourcely
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sourcely.webp" alt="Sourcely">
+
+#### स्रोत- अपने रिसर्च को मिनटों में पूरा करें। अपनी नींद बचाओ।
+[Visit](https://www.thataicollection.com/redirect/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+एआई-संचालित लिटरेचर सोर्सिंग टूल, जो यूज़र इनपुट के आधार पर प्रासंगिक टेक्स्ट को तुरंत रिकवर करता है। एडवांस प्राकृतिक भाषा प्रोसेसिंग तकनीकों के साथ, यह विविध सूचना स्रोतों तक आसान पहुँच प्रदान करता है, जिससे समय और मेहनत की बचत होती है। सोर्सली एआई से मदद पाओ।
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Elicit
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elicit.webp" alt="Elicit">
 
@@ -3522,21 +3546,6 @@ RTutor प्राकृतिक भाषा को R कोड में अ
 <br />
 
 
-
-
-### Vocads Survey
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vocads-survey.webp" alt="Vocads Survey">
-
-#### संवादी आवाज एआई द्वारा सर्वेक्षण को फिर से खोजा गया
-[Visit](https://www.thataicollection.com/redirect/vocads-survey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-कंपनियों के पास अपने सर्वेक्षणों पर प्रतिक्रियाओं और जुड़ाव की कमी है। एआई के साथ वॉयस बातचीत के जरिए वोकाड्स ने सर्वेक्षण के अनुभव को नया रूप दिया।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/vocads-survey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 
@@ -3699,6 +3708,27 @@ Reviewz.ai एक नवीनता है और इसे उपभोक्�
 
 
 
+### Beb AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-beb-ai.webp" alt="Beb AI">
+
+#### Beb.Ai - अपने ब्रांड के लिए अंतहीन रचनात्मक सामग्री पाओ
+[Visit](https://www.thataicollection.com/redirect/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+संभावनाएं अनंत हैं, किसी डिज़ाइन कौशल की आवश्यकता नहीं है।
+✓ दिलचस्प सोशल मीडिया पोस्ट
+✓ पैटर्न इंटरप्ट विज्ञापन
+✓ मार्केटिंग कैंपेन
+✓ डायनामिक मार्केटिंग सामग्रियां
+✓ हॉलिडे कार्ड्स
+✓ या सिर्फ़ मनोरंजन के लिए!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Cuetap.com
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cuetap.com.webp" alt="Cuetap.com">
 
@@ -3714,30 +3744,20 @@ Reviewz.ai एक नवीनता है और इसे उपभोक्�
 <br />
 
 
-### Userevaluation
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-userevaluation.webp" alt="Userevaluation">
+### Genius Sheets
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-genius-sheets.webp" alt="Genius Sheets">
 
-#### उपयोगकर्ता मूल्यांकन - ग्राहक समझ मंच
-[Visit](https://www.thataicollection.com/redirect/userevaluation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### जीनियस शीट्स - बिज़नेस इंटेलिजेंस फ़्रॉम द फ्यूचर
+एआई पावर्ड डेटा एनालिटिक्स
+[Visit](https://www.thataicollection.com/redirect/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-चाहे आप यूआई, यूएक्स रिसर्च, डिजाइन, या सीएक्स यूजर इवैल्यूएशन के एआई पर केंद्रित हों, आपके सभी सवालों का जवाब दे सकता है
+Genius Sheets AI तुम्हारे सभी महत्वपूर्ण सवालों के जवाब देने के लिए सेल्फ़ सर्विस बिज़नेस इंटेलिजेंस एजेंट है।
+संवादी एआई - जीनियस शीट्स से ऐसे बात करो जैसे कि तुम किसी सहकर्मी से बात कर रहे हो
+एंटरप्राइज़ सुरक्षा - एंटरप्राइज़ सुरक्षा मानकों के लिए बनाई गई - तुम्हारा डेटा सुरक्षित रखना।
+इस्तेमाल में आसान - किसी SQL या Python की आवश्यकता नहीं है
+नेटिव इंटरफ़ेस - हमारे वेबऐप, स्लैक या टीम में अपने डेटा से कनेक्ट करें
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/userevaluation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### BaruaAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-baruaai.webp" alt="BaruaAI">
-
-#### सेकेंड में उच्च परिवर्तित बिक्री ईमेल उत्पन्न करें
-[Visit](https://www.thataicollection.com/redirect/baruaai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-हमारा मंच आपके प्रमुख उत्पाद विवरण और उद्देश्यों को प्रेरक गद्य में बदल देता है, जो आपके दर्शकों को आकर्षित करने और रूपांतरण दरों को आसमान छूने के लिए तैयार किया गया है।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/baruaai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
