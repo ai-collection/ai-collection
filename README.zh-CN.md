@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=995" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=996" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -59,19 +59,6 @@
     <h4>undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude </h4>
     <p>Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人</p>
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Undress.Vip</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="chtrbx" border="0"/>
-    </a>
-    <h4>Chtrbx：利用人工智能驱动的洞察力彻底改变客户服务</h4>
-    <p>Chtrbx是一个人工智能聊天平台，可帮助企业改善在线客户互动。它分析访客的情绪和兴趣，从而实现有效的参与和战略见解。这可以带来更好的用户体验、个性化推荐和潜在的更高销售额。Chtrbx 提供的不仅仅是聊天；它是一个数据驱动的工具，用于增强服务和推动增长。</p>
-    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 chtrbx</b></a>
     <br />
 </div>
 
@@ -149,6 +136,69 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### ProductShots.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-productshots.ai.webp" alt="ProductShots.ai">
+
+#### 使用 AI 即时为您的产品创建精彩内容
+[Visit](https://www.thataicollection.com/redirect/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ProductShots.ai 是领先的生成式 AI 工具，可创建令人惊叹的产品图片，以吸引您的客户并提高转化率。ProductShots.ai 使用我们的 AI 图像生成和编辑工具，帮助电子商务品牌在几秒钟内生成独特而令人难忘的产品图片。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Room Reinvented
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-room-reinvented.webp" alt="Room Reinvented">
+
+#### 使用 Room Reinvented 轻松改造您的房间！上传一张照片，让 AI 创作 30 多种令人惊叹的室内风格。立即提升您的空间。
+[Visit](https://www.thataicollection.com/redirect/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+毫不费力地改造您的房间。只需上传现有空间的照片，让 Room Reinvented 发挥其魔力。探索从极简主义到巴洛克风格的 30 多种独特风格，并尝试超过 20 种令人惊艳的调色板。将您的想法整理在便捷的画册中，以保持您的愿景井井有条和新鲜。
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Inworld
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-inworld.webp" alt="Inworld">
+
+#### Inworld AI — 创建 AI 角色并问他们任何问题
+[Visit](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+为游戏、元宇宙和商业应用程序创建 AI 角色和 NPC，或者只是为了好玩。你可以和人工智能角色谈论任何事情。它简单、免费且充满可能性。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Auto Draw
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-auto-draw.webp" alt="Auto Draw">
+
+#### Google Creative Lab 的 AutoDraw-谷歌实验
+
+[Visit](https://www.thataicollection.com/redirect/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+自动绘图是一种新的绘图工具。它将机器学习与才华横溢的艺术家的绘画相结合，帮助每个人快速创作任何可视的东西。没有什么可下载的。没什么可支付的。它可以在任何地方使用：智能手机、平板电脑、笔记本电脑、台式机等。 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Sourcely
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sourcely.webp" alt="Sourcely">
 
@@ -195,68 +245,6 @@
 AI 写作助手，既强大又简单。使用 Opentyper 可以节省时间并撰写更好的内容。我们的 70 多个写作模板和向导使您可以比以往任何时候都更轻松地创建高质量的内容。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Pixelmind
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pixelmind.webp" alt="Pixelmind">
-
-#### Pixelmind-人工智能驱动的艺术和铸造到 NFTS
-[Visit](https://www.thataicollection.com/redirect/pixelmind?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-您的人工智能艺术之旅。通过 Pixelmind 门户创建和收集 NFT。发展你的风格。提升你的游戏水平
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pixelmind?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Neural Studio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neural-studio.webp" alt="Neural Studio">
-
-#### Neuralcam-我们开发智能相机应用程序
-采用 AI 驱动的图像处理
-[Visit](https://www.thataicollection.com/redirect/neural-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我们开发基于人工智能的相机应用程序。我们认为，新开发的深度学习技术促成了一类名为智能相机的新设备——相机不仅可以看到和记录世界，还可以理解所看到的内容，甚至可以实时对事件做出反应。 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/neural-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Oda Studio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
-
-#### Oda Moodboard • Oda Studio——选择你的风格和颜色，用人工智能在几秒钟内定制你的家。
-
-[Visit](https://www.thataicollection.com/redirect/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-选择你的风格和颜色，使用 AI 在几秒钟内自定义你的家-开始设计你的家或使用样板吧。  
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### PictoDream
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pictodream.webp" alt="PictoDream">
-
-#### 使用 AI 生成自己的图像-Pictodream.Com
-[Visit](https://www.thataicollection.com/redirect/pictodream?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用简单的文字描述生成任何样式或设置的自己（或其他人）的任何图像。使用 AI 生成自己的图像。使用简单的文字描述将任何人置于任何风格或设置中。用作头像和个人资料照片，在画布上打印，非常适合作为礼物，尝试新的发型和服装
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pictodream?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2028,6 +2016,21 @@ Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。
 <br />
 
 
+### Inworld
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-inworld.webp" alt="Inworld">
+
+#### Inworld AI — 创建 AI 角色并问他们任何问题
+[Visit](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+为游戏、元宇宙和商业应用程序创建 AI 角色和 NPC，或者只是为了好玩。你可以和人工智能角色谈论任何事情。它简单、免费且充满可能性。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Chess AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chess-ai.webp" alt="Chess AI">
 
@@ -2067,21 +2070,6 @@ Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编�
 在您的游戏设计和开发中释放 AI 的力量。获取多种风格的定制游戏资产，以激发并帮助您打造下一款游戏！
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/assetsai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Scenario
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scenario.webp" alt="Scenario">
-
-#### 设想
-[Visit](https://www.thataicollection.com/redirect/scenario?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 Scenario 释放 AI 生成的游戏资产的力量。快速轻松地生成引人入胜的内容，以节省时间并激发创造力
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/scenario?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3134,15 +3122,15 @@ HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化�
 <br />
 
 
-### Imgak - 照片AI修复工具
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-imgak---照片ai修复工具.webp" alt="Imgak - 照片AI修复工具">
+### ProductShots.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-productshots.ai.webp" alt="ProductShots.ai">
 
-#### Imgak-使用 AI 为所有人恢复旧照片
-[Visit](https://www.thataicollection.com/redirect/imgak---照片ai修复工具?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 使用 AI 即时为您的产品创建精彩内容
+[Visit](https://www.thataicollection.com/redirect/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-imgak 旧照片无损修复工具是一款全面且易于使用的 AI 照片编辑工具。它提供旧照片的修复、着色和无损放大等功能，满足用户对照片修饰的各种需求。无论您是普通用户还是专业照片修图师，都可以通过imgak轻松修复和改善旧照片。
+ProductShots.ai 是领先的生成式 AI 工具，可创建令人惊叹的产品图片，以吸引您的客户并提高转化率。ProductShots.ai 使用我们的 AI 图像生成和编辑工具，帮助电子商务品牌在几秒钟内生成独特而令人难忘的产品图片。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/imgak---照片ai修复工具?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

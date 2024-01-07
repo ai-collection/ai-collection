@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=995" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=996" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -72,19 +72,6 @@
     <h4>undress.vip—2023 mejor vestido 100% funcional ai deepnude </h4>
     <p>Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023</p>
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Undress.Vip</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="chtrbx" border="0"/>
-    </a>
-    <h4>Chtrbx: Revoluciona el servicio de atención al cliente con información basada en la IA</h4>
-    <p>Chtrbx es una plataforma de chat de IA que ayuda a las empresas a mejorar las interacciones en línea con los clientes. Analiza los sentimientos e intereses de los visitantes, lo que permite una participación eficaz y una visión estratégica. Esto se traduce en mejores experiencias de usuario, recomendaciones personalizadas y, potencialmente, en mayores ventas. Chtrbx ofrece más que chat, es una herramienta basada en datos para mejorar el servicio e impulsar el crecimiento.</p>
-    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con chtrbx</b></a>
     <br />
 </div>
 
@@ -162,6 +149,7 @@
 | [Interior AI Designs](https://www.thataicollection.com/redirect/interior-ai-designs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Diseños de interiores con IA: generar habitaciones de ensueño con la IA para todo el mundo. | Haz una foto de tu habitación y comprueba cómo se ve tu habitación según los diferentes temas. Remodela tu habitación hoy mismo. Descubre un mundo de posibilidades de diseño con nuestra selección selecta de temas destacados. Cada tema se ha creado cuidadosamente para transformar tu espacio. | :white_check_mark: |
 | [Makeit.ai](https://www.thataicollection.com/redirect/makeit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Diseño generativo - Software de diseño de arquitectura - Maket. | Nuestro software de diseño generativo permite a los arquitectos, constructores y desarrolladores generar rápidamente miles de planos arquitectónicos al instante. | :grey_question: |
 | [Oda Studio](https://www.thataicollection.com/redirect/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Oda Moodboard • Oda Studio: elige tu estilo y color para personalizar tu casa en segundos con la IA. | Elige tu estilo y color para personalizar tu casa en segundos con la IA. Empieza a diseñar tu casa o utiliza una tabla de muestra. | :white_check_mark: |
+| [Room Reinvented](https://www.thataicollection.com/redirect/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ¡Transforma tu habitación sin esfuerzo con Room Reinvented! Sube una foto y deja que la IA cree más de 30 impresionantes estilos de interiores. Mejora tu espacio hoy mismo. | Transforma tu habitación sin esfuerzo. Simplemente sube una imagen de tu espacio actual y deja que Room Reinvented haga su magia. Explora más de 30 estilos únicos, que van desde el minimalismo hasta el barroco, y experimenta con más de 20 impresionantes paletas de colores. Organiza tus ideas en un práctico catálogo para mantener tu visión organizada y fresca. | :grey_question: |
 
 
 <!--lint ignore double-link-->
@@ -594,6 +582,7 @@
 | [Photospells](https://www.thataicollection.com/redirect/photospells?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Photo Spells - Edición de fotos profesional con IA. | Cambia el color del cabello, la ropa y el estilo con Photo Spell. | :grey_question: |
 | [Prisma](https://www.thataicollection.com/redirect/prisma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Prisma captura la esencia de tus fotos transformándolas en pinturas de colores vivos. | Más de 700 brillantes estilos artísticos y de retratos a tu disposición. Posibilidad de modificar tanto el primer plano como el fondo por separado. Marcos espléndidos para actualizar tus imágenes. | :white_check_mark: |
 | [Prisma Lensa](https://www.thataicollection.com/redirect/prisma-lensa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Lensa es una aplicación de edición de imágenes todo en uno que lleva tus fotos al siguiente nivel. | Mejora el retoque facial con un solo toque de Magic Correction. Perfecciona las imperfecciones faciales con toneladas de herramientas geniales. Reemplace o desenfoque el fondo con un solo toque. | :white_check_mark: |
+| [ProductShots.ai](https://www.thataicollection.com/redirect/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Crea contenido impresionante para tus productos al instante con la IA. | ProductShots.ai es la principal herramienta de IA generativa que crea impresionantes imágenes de productos para atraer a tus clientes e impulsar las conversiones. ProductShots.ai ayuda a las marcas de comercio electrónico a generar imágenes de productos únicas y memorables en segundos con nuestras herramientas de generación y edición de imágenes de IA. | :white_check_mark: |
 | [Reface](https://www.thataicollection.com/redirect/reface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Reface: aplicación AI Face Swap y vídeo Face Swaps. | Reface: aquí puedes intercambiar caras en vídeos y GIF con una sola selfie, animar fotos y convertir fotos en dibujos animados. | :grey_question: |
 | [Remover.app](https://www.thataicollection.com/redirect/remover.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ELIMINAR CUALQUIER COSA - Remover.app puede eliminar cualquier cosa no deseada en una foto, en segundos, de forma gratuita. | Haz que tus productos brillen. Impresiona a tu audiencia, elimina las distracciones. remover.app Use remover.app (una herramienta de edición creativa gratuita) para eliminar objetos, personas o defectos no deseados. La IA algoritmo reconstruirá lo que había detrás del objeto en un solo clic. Asegúrese de que los elementos no deseados estén cubiertos para eliminar objetos. Puede eliminar personas o eliminar texto de la misma manera. | :white_check_mark: |
 | [RestorePhotos.io](https://www.thataicollection.com/redirect/restorephotos.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Restauración de fotos antiguas con IA para todos. | ¿Tienes fotos de caras viejas y borrosas? Deje que nuestra IA los restaure para que esos recuerdos puedan vivir. 100% gratis: restaura tus fotos hoy. | :white_check_mark: |
@@ -781,6 +770,7 @@
 | [ARTSIO](https://www.thataicollection.com/redirect/artsio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Descubre  Inspira, crea Busca e inspírate con millones de imágenes de arte de Stable Diffusion, Midjourney, DALL-E... | Como desarrolladores y artistas de IA, dedicamos mucho tiempo a crear el mensaje. Pero a veces descubrimos que la búsqueda semántica es tan potente y rápida que puede ayudarnos a acercarnos rápidamente al diseño que tenemos en mente. Por lo general, los resultados nos sorprenden con la creatividad y las posibilidades. No dudes en hacer remezclas con cualquier imagen pública de la plataforma. | :white_check_mark: |
 | [artssy](https://www.thataicollection.com/redirect/artssy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cree imágenes únicas generadas por IA en 1 clic. | Con Artssy AI, tu creatividad puede fluir. ¡Crea imágenes ilimitadas en 1 clic y descubre un mundo de posibilidades!. | :x: |
 | [Astria.ai](https://www.thataicollection.com/redirect/astria.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Astria - Generación de imágenes de IA a medida. | Crea imágenes personalizadas usando IA. | :x: |
+| [Auto Draw](https://www.thataicollection.com/redirect/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AutoDraw de Google Creative Lab: Experimentos con Google. | AutoDraw es un nuevo tipo de herramienta de dibujo. Combina el aprendizaje automático con dibujos de artistas con talento para ayudar a todos a crear cualquier cosa visual y rápida. No hay nada que descargar. Nada por lo que pagar. Y funciona en cualquier lugar: smartphone, tableta, portátil, ordenador de sobremesa, etc. | :white_check_mark: |
 | [B^ DISCOVER](https://www.thataicollection.com/redirect/b^-discover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | B^ Descubre: ¡DESCUBRE TU deseo, fantasía, emoción, sueño, diario, vida, fantasía en IMAGEEEES!. | Tendrás una nueva experiencia al descubrir tu historia en imágenes. B^ DISCOVER es un servicio basado en el modelo generativo de IA: Karlo. | :white_check_mark: |
 | [Bg Eraser](https://www.thataicollection.com/redirect/bg-eraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bg Eraser - Magic Eraser para limpiar imágenes. | Potente tecnología AI Repinting y Picture Clean Up. Elimine objetos no deseados y limpie las imágenes en segundos. | :grey_question: |
 | [Bloomoon](https://www.thataicollection.com/redirect/bloomoon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bloomoon: súbete a la ola digital del arte. | Arte de IA creado por algoritmos de inteligencia artificial. Arte generado por la IA hecho con pasión. Descubre pinturas únicas generadas por la IA en bloomoon. | :grey_question: |
@@ -944,6 +934,7 @@
 | [Chess AI](https://www.thataicollection.com/redirect/chess-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Betafish: una fusión de AlphaZero y Stockfish. | Betafish es un motor de ajedrez y un buscador de movimientos de IA escrito en Javascript, basado en el algoritmo Negamax. Supera el nivel 6 de Stockfish en Lichess, y estimo que tiene alrededor de 1800-2000 Elo, según el tiempo de reflexión que se le dé. | :white_check_mark: |
 | [GGPredict](https://www.thataicollection.com/redirect/ggpredict?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Entrena de forma más inteligente. Sube de rango más rápido. | Mejora tus habilidades de CS:GO con el poder de los desafíos generados por IA, en menos de 30 minutos diarios. | :x: |
 | [hidden door](https://www.thataicollection.com/redirect/hidden-door?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ¡Hola, Mundos!. | Un nuevo tipo de experiencia de juego de rol social, impulsada por IA narrativa. | :grey_question: |
+| [Inworld](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Inworld AI: crea personajes de IA y pregúntales cualquier cosa. | Crea personajes de IA y PNJ para juegos, metaverso y aplicaciones empresariales, o simplemente por diversión. Puedes hablar con los personajes de la IA sobre cualquier cosa. Es fácil, gratis y está lleno de posibilidades. | :white_check_mark: |
 | [IRMO](https://www.thataicollection.com/redirect/irmo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hecho para la Creación. Lo mejor en aplicaciones de IA. | Su fuente de entretenimiento móvil y creación de arte con IA. | :white_check_mark: |
 | [latitude](https://www.thataicollection.com/redirect/latitude?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | El futuro de los juegos generados por IA. | Estamos haciendo de la IA una herramienta de creatividad y libertad para todos. | :grey_question: |
 | [Opus](https://www.thataicollection.com/redirect/opus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Opus AI: construyamos juntos el futuro del entretenimiento descentralizado. | Convierte tus palabras en un mundo vivo que respira en un abrir y cerrar de ojos. Escribe escenas, personajes y sus diálogos y observa cómo suceden en tiempo real. Da rienda suelta a tu imaginación y deja que nuestra tecnología haga su trabajo. | :grey_question: |
@@ -1434,16 +1425,6 @@
 | [Wisecut](https://www.thataicollection.com/redirect/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Wisecut: corta y edita vídeos automáticamente con IA. | Wisecut es un editor de vídeo automático basado en el reconocimiento de voz. Con Wisecut, puedes convertir fácilmente tus vídeos largos de conversación en clips cortos e impactantes con música, subtítulos y reencuadre automático. Estos clips cortos son perfectos para plataformas como YouTube Shorts, TikTok, Instagram Reels y Social Ads. | :white_check_mark: |
 | [Wzrd.ai](https://www.thataicollection.com/redirect/wzrd.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Experimenta tu sonido. | WZRD aumenta su audio con video inmersivo impulsado por inteligencia artificial. | :grey_question: |
 | [Yepic AI](https://www.thataicollection.com/redirect/yepic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tu kit de herramientas de vídeo de IA: crea, dobla y personaliza vídeos. | El futuro del vídeo es generado por IA, ultralocalizado e hiperpersonalizado. Con Yepic AI, cualquiera puede crear y traducir vídeos al estilo de un parlante en cuestión de minutos sin cámaras, actores o estudios caros. | :white_check_mark: |
-
-
-<!--lint ignore double-link-->
-**[⬆ Volver al índice](#index)**
-
-## Otro
-| Nombre | Título | Descripción | Ofrecer versión gratuita |
-|---|---|---|:---:|
-| [Auto Draw](https://www.thataicollection.com/redirect/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dibujo automático. | Dibujo rápido para todos. AutoDraw combina el aprendizaje automático con dibujos de artistas talentosos para ayudarlo a dibujar cosas rápidamente. | :grey_question: |
-| [Inworld](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Inworld AI: crea personajes de IA y pregúntales cualquier cosa. | Cree personajes de IA y NPC para juegos, metaverso y aplicaciones comerciales, o simplemente por diversión. Puedes hablar con personajes de IA sobre cualquier cosa. Es fácil, gratis y lleno de posibilidades. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->

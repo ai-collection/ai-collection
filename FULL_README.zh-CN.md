@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=995" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=996" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -59,19 +59,6 @@
     <h4>undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude </h4>
     <p>Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人</p>
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Undress.Vip</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="chtrbx" border="0"/>
-    </a>
-    <h4>Chtrbx：利用人工智能驱动的洞察力彻底改变客户服务</h4>
-    <p>Chtrbx是一个人工智能聊天平台，可帮助企业改善在线客户互动。它分析访客的情绪和兴趣，从而实现有效的参与和战略见解。这可以带来更好的用户体验、个性化推荐和潜在的更高销售额。Chtrbx 提供的不仅仅是聊天；它是一个数据驱动的工具，用于增强服务和推动增长。</p>
-    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 chtrbx</b></a>
     <br />
 </div>
 
@@ -590,6 +577,7 @@
 | [Interior AI Designs](https://www.thataicollection.com/redirect/interior-ai-designs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 室内人工智能设计-使用人工智能为每个人生成梦想房间。. | 拍张房间的照片，看看房间在不同主题下的样子。今天就改造你的房间。 通过我们精选的特色主题，探索设计可能性的世界。每个主题都经过精心设计，旨在改变您的空间。. | :white_check_mark: |
 | [Makeit.ai](https://www.thataicollection.com/redirect/makeit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 生成式设计 - 建筑设计软件 - Maket. | 我们的生成设计软件使建筑师、建筑商和开发人员能够立即快速生成数以千计的建筑计划。. | :grey_question: |
 | [Oda Studio](https://www.thataicollection.com/redirect/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Oda Moodboard • Oda Studio——选择你的风格和颜色，用人工智能在几秒钟内定制你的家。. | 选择你的风格和颜色，使用 AI 在几秒钟内自定义你的家-开始设计你的家或使用样板吧。. | :white_check_mark: |
+| [Room Reinvented](https://www.thataicollection.com/redirect/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 Room Reinvented 轻松改造您的房间！上传一张照片，让 AI 创作 30 多种令人惊叹的室内风格。立即提升您的空间。. | 毫不费力地改造您的房间。只需上传现有空间的照片，让 Room Reinvented 发挥其魔力。探索从极简主义到巴洛克风格的 30 多种独特风格，并尝试超过 20 种令人惊艳的调色板。将您的想法整理在便捷的画册中，以保持您的愿景井井有条和新鲜。. | :grey_question: |
 
 
 <!--lint ignore double-link-->
@@ -830,6 +818,7 @@
 | [Photospells](https://www.thataicollection.com/redirect/photospells?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Photo Spells - 具有AI的专业照片版. | 使用 Photo Spell 改变头发颜色、服装和风格. | :grey_question: |
 | [Prisma](https://www.thataicollection.com/redirect/prisma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Prisma 捕捉照片的本质，将它们变成生动的彩色画作. | 超过 700 种精美的艺术和肖像风格供您使用。可以分别修改前景和背景。精美的相框可升级您的图像。. | :white_check_mark: |
 | [Prisma Lensa](https://www.thataicollection.com/redirect/prisma-lensa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Lensa 是一款一体化图像编辑应用程序，可让您的照片更上一层楼。. | 只需轻按一下 Magic Correction，即可改善面部修饰效果。使用大量很酷的工具来完善面部瑕疵。只需轻轻一按即可替换或模糊背景。. | :white_check_mark: |
+| [ProductShots.ai](https://www.thataicollection.com/redirect/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 即时为您的产品创建精彩内容. | ProductShots.ai 是领先的生成式 AI 工具，可创建令人惊叹的产品图片，以吸引您的客户并提高转化率。ProductShots.ai 使用我们的 AI 图像生成和编辑工具，帮助电子商务品牌在几秒钟内生成独特而令人难忘的产品图片。. | :white_check_mark: |
 | [Reface](https://www.thataicollection.com/redirect/reface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Reface — AI 人脸交换应用程序和视频人脸交换. | Reface — 在这里，您只需一张自拍照即可在视频和 GIF 中交换面孔，为照片制作动画并将照片变成卡通片。. | :grey_question: |
 | [Remover.app](https://www.thataicollection.com/redirect/remover.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 删除任何内容 - Remover.app 可以在几秒钟内免费删除照片中不需要的任何内容. | 让您的产品熠熠生辉。给观众留下深刻印象，消除干扰。 remover.app 使用remover.app（免费的创意编辑工具）删除不需要的对象、人物或缺陷。人工智能只需单击一下，算法即可重建物体背后的内容。确保覆盖不需要的元素以移除对象。您可以删除人物，或以相同的方式删除文本。. | :white_check_mark: |
 | [RestorePhotos.io](https://www.thataicollection.com/redirect/restorephotos.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为所有人使用 AI 修复旧照片. | 有旧的和模糊的面部照片吗？让我们的 AI 恢复它们，让这些记忆得以延续。 100% 免费 – 立即恢复您的照片. | :white_check_mark: |
@@ -1164,6 +1153,7 @@
 | [ARTSIO](https://www.thataicollection.com/redirect/artsio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 探索  激发灵感，创造 搜索来自 Stable Diffusion、Midjourney、DALL-E 的数百万张艺术图片并从中获得灵感... | 作为开发人员和人工智能艺术家，我们花了很多时间制作提示。但是有时我们发现语义搜索非常强大，速度如此之快，以至于它可以帮助我们快速接近脑海中的设计，通常结果的创造力和可能性让我们大吃一惊。 你可以随意与平台上的任何公开图片混音. | :white_check_mark: |
 | [artssy](https://www.thataicollection.com/redirect/artssy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 一键创建独特的 AI 生成图像。. | 借助 Artssy AI，您的创造力可以流动起来。一键创建无限图像，发现无限可能！. | :x: |
 | [Astria.ai](https://www.thataicollection.com/redirect/astria.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Astria - 量身定制的 AI 图像生成. | 使用 AI 创建自定义图像. | :x: |
+| [Auto Draw](https://www.thataicollection.com/redirect/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Google Creative Lab 的 AutoDraw-谷歌实验. | 自动绘图是一种新的绘图工具。它将机器学习与才华横溢的艺术家的绘画相结合，帮助每个人快速创作任何可视的东西。没有什么可下载的。没什么可支付的。它可以在任何地方使用：智能手机、平板电脑、笔记本电脑、台式机等。. | :white_check_mark: |
 | [B^ DISCOVER](https://www.thataicollection.com/redirect/b^-discover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | B^ Discover-在 IMAGEEEES 中发现你的愿望、幻想、情感、梦想、日记、生活、幻想！. | 您将获得在图像中发现故事的全新体验。B^ DISCOVER 是一项基于人工智能生成模型的服务 Karlo。. | :white_check_mark: |
 | [Bg Eraser](https://www.thataicollection.com/redirect/bg-eraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bg Eraser - 图片清理魔术橡皮擦. | 强大的人工智能修复和图片清理技术。在几秒钟内删除不需要的对象并清理图片。. | :grey_question: |
 | [Bloomoon](https://www.thataicollection.com/redirect/bloomoon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bloomoon-顺应艺术的数字浪潮。. | 由人工智能算法创作的 AI 艺术。人工智能生成的艺术充满激情。在 bloomoon 探索人工智能生成的独特画作。. | :grey_question: |
@@ -1351,6 +1341,7 @@
 | [Chess AI](https://www.thataicollection.com/redirect/chess-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Betafish - AlphaZero 和 Stockfish 的合并。. | Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编写，基于 Negamax 算法。它击败了 Lichess 上的 Stockfish Level 6，我估计它的 Elo 大约为 1800-2000，具体取决于提供的思考时间。. | :white_check_mark: |
 | [GGPredict](https://www.thataicollection.com/redirect/ggpredict?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 训练更聪明。排名更快。. | 借助 AI 生成的挑战的力量提高您的 CS:GO 技能 - 每天不到 30 分钟。. | :x: |
 | [hidden door](https://www.thataicollection.com/redirect/hidden-door?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 你好，世界！. | 一种由叙事 AI 提供支持的新型社交角色扮演体验。. | :grey_question: |
+| [Inworld](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Inworld AI — 创建 AI 角色并问他们任何问题. | 为游戏、元宇宙和商业应用程序创建 AI 角色和 NPC，或者只是为了好玩。你可以和人工智能角色谈论任何事情。它简单、免费且充满可能性。. | :white_check_mark: |
 | [IRMO](https://www.thataicollection.com/redirect/irmo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为创造而生。最好的 AI 应用程序. | 您的移动娱乐和 AI 艺术创作资源. | :white_check_mark: |
 | [latitude](https://www.thataicollection.com/redirect/latitude?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能生成游戏的未来. | 我们正在使 AI 成为每个人发挥创造力和自由的工具。. | :grey_question: |
 | [Opus](https://www.thataicollection.com/redirect/opus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Opus AI-让我们共同打造去中心化娱乐的未来。. | 瞬间将你的话语变成一个活生生的呼吸世界。撰写场景、角色及其对白，并实时观看其发生。 释放您的想象力，让我们的技术来完成工作。. | :grey_question: |
@@ -1434,16 +1425,6 @@
 | [TuneFlow](https://www.thataicollection.com/redirect/tuneflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 具有一套 AI 超能力的下一代音乐制作工具. | 帮助您生成旋律、节拍甚至整首歌曲，同时仍然能够像任何其他专业 DAW 一样编辑它们。. | :white_check_mark: |
 | [Voice AI](https://www.thataicollection.com/redirect/voice-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 适用于 Pc 和 Mac 的 AI 语音转换器应用程序-即时更改声音. | 立即下载适用于PC的免费实时语音转换器。修改你的声音，从 Voice Universe 中选择一个或克隆任何你想要的声音. | :white_check_mark: |
 | [Voicemod](https://www.thataicollection.com/redirect/voicemod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费实时语音转换器和调制器-Voicemod. | 使用我们的实时 AI 语音转换器和音板表达自我，在元宇宙中成为你想要的人。在 Roblox、OBS、VrChat、Discord 等平台上建立你的声音身份. | :grey_question: |
-
-
-<!--lint ignore double-link-->
-**[⬆ 返回索引](#index)**
-
-## 其他
-| 姓名 | 标题 | 描述 | 提供免费版本 |
-|---|---|---|:---:|
-| [Auto Draw](https://www.thataicollection.com/redirect/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 自动绘图. | 为大家快速绘图。 AutoDraw 将机器学习与才华横溢的艺术家的绘画相结合，帮助您快速绘制内容。. | :grey_question: |
-| [Inworld](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Inworld AI – 创建 AI 角色并向他们提出任何问题. | 为游戏、元宇宙和商业应用程序创建 AI 角色和 NPC，或者只是为了好玩。您可以与 AI 角色谈论任何事情。它简单、免费且充满可能性。. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
