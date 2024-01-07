@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=995" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=996" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,38 +53,25 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
-    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="chtrbx" border="0"/>
-    </a>
-    <h4>Chtrbx: AI-संचालित जानकारी के साथ ग्राहक सेवा में क्रांति लाएं</h4>
-    <p>Chtrbx एक AI चैट प्लेटफ़ॉर्म है जो बिज़नेस को ऑनलाइन ग्राहक इंटरैक्शन को बेहतर बनाने में मदद करता है। यह आगंतुकों की भावनाओं और रुचियों का विश्लेषण करता है, जिससे प्रभावी सहभागिता और रणनीतिक जानकारी मिलती है। इससे यूज़र के अनुभव बेहतर होते हैं, वैयक्तिकृत सुझाव मिलते हैं, और संभावित रूप से ज़्यादा बिक्री होती है। Chtrbx चैट से ज़्यादा ऑफ़र करता है; यह सेवा बढ़ाने और तरक्की बढ़ाने के लिए डेटा-चालित टूल है।</p>
-    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>chtrbx के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
     </a>
     <h4>कपड़े उतारना.vip—2023 सबसे अच्छा 100% काम करने वाला अनड्रेस ऐ डीप न्यूड </h4>
     <p>Undress.vip, एक ज़बरदस्त एयर टूल, जो इस प्रगति में सबसे आगे है। undress.vip—2023 सबसे अच्छा 100% वर्किंग एआई डीपन्यूड और डीपफ़ेक टेलीग्राम अनड्रेस एयर बॉट्स</p>
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Undress.Vip के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
+    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -430,6 +417,7 @@
 | [ARTSIO](https://www.thataicollection.com/redirect/artsio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पता चलता है  इंस्पायर करें, सृजन करें स्टेबल डिफ़्यूज़न, मिडजर्नी, DALL-E की लाखों आर्ट इमेज खोजे और उनसे प्रेरणा लें... | डेवलपर और AI आर्टिस्ट होने के नाते, हमने प्रॉम्प्ट तैयार करने में काफी समय बिताया। लेकिन कभी-कभी हमने पाया कि सिमेंटिक सर्च इतना शक्तिशाली और इतना तेज़ होता है कि यह हमारे दिमाग में मौजूद डिज़ाइन के करीब जल्दी पहुंचने में हमारी मदद कर सकता है, आमतौर पर परिणाम हमें रचनात्मकता और संभावनाओं से स्तब्ध कर देते हैं। तुम प्लैटफ़ॉर्म पर किसी भी सार्वजनिक तस्वीर के साथ बिना किसी हिचकिचाहट के रीमिक्स कर सकते हो. | :white_check_mark: |
 | [artssy](https://www.thataicollection.com/redirect/artssy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 1-क्लिक में अद्वितीय AI जनित छवियां बनाएं।. | Artssy AI के साथ, आपकी रचनात्मकता प्रवाहित हो सकती है। 1 क्लिक में असीमित छवियां बनाएं और संभावनाओं की दुनिया की खोज करें!. | :x: |
 | [Astria.ai](https://www.thataicollection.com/redirect/astria.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एस्ट्रिया - टेलर-मेड एआई इमेज जेनरेशन. | एआई का उपयोग करके कस्टम इमेज बनाएं. | :x: |
+| [Auto Draw](https://www.thataicollection.com/redirect/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Google क्रिएटिव लैब द्वारा AutoDraw - Google के साथ प्रयोग. | AutoDraw एक नए तरह का ड्रॉइंग टूल है। यह मशीन लर्निंग को प्रतिभाशाली कलाकारों के चित्रों के साथ जोड़ता है, ताकि हर किसी को कुछ भी विज़ुअल, तेज़ी से बनाने में मदद मिल सके। डाउनलोड करने के लिए कुछ भी नहीं है। भुगतान करने के लिए कुछ भी नहीं है। और यह हर जगह काम करता है: स्मार्टफ़ोन, टैबलेट, लैपटॉप, डेस्कटॉप, वगैरह।. | :white_check_mark: |
 | [B^ DISCOVER](https://www.thataicollection.com/redirect/b^-discover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | B^ डिस्कवर - IMAGEEES में अपनी इच्छा, फ़ैंटसी, भावना, सपने, डायरी, जीवन, फ़ैंटसी के बारे में जानो!. | तुम्हेंं तस्वीरों में अपनी कहानी खोजने का एक नया अनुभव मिलेगा। B^ DISCOVER एक सेवा है जो AI जेनेरेटिव मॉडल - कार्लो पर आधारित है।. | :white_check_mark: |
 | [Bg Eraser](https://www.thataicollection.com/redirect/bg-eraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बीजी इरेज़र - पिक्चर क्लीन अप के लिए मैजिक इरेज़र. | शक्तिशाली एआई पेंटिंग और पिक्चर क्लीन अप तकनीक। अवांछित वस्तुओं को हटा दें और सेकंड में चित्रों को साफ करें।. | :grey_question: |
 | [Bloomoon](https://www.thataicollection.com/redirect/bloomoon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ब्लूमून - राइड द डिजिटल वेव ऑफ़ आर्ट।. | आर्टिफिशियल इंटेलिजेंस एल्गोरिदम द्वारा बनाया गया AI आर्ट। जुनून के साथ बनाई गई AI द्वारा बनाई गई कला। ब्लूमून में AI द्वारा बनाई गई अनोखी पेंटिंग्स के बारे में पता लगाओ।. | :grey_question: |
@@ -750,6 +738,7 @@
 | [Chess AI](https://www.thataicollection.com/redirect/chess-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बेटाफिश - अल्फाजीरो और स्टॉकफिश का मिश्रण।. | बेटाफिश एक शतरंज इंजन और एआई मूव फाइंडर है जिसे नेगामैक्स एल्गोरिथम पर आधारित जावास्क्रिप्ट में लिखा गया है। यह लिचेस पर स्टॉकफिश लेवल 6 को हराता है, और मैं अनुमान लगाता हूं कि यह लगभग 1800-2000 एलो है, जो सोचने के समय पर निर्भर करता है।. | :white_check_mark: |
 | [GGPredict](https://www.thataicollection.com/redirect/ggpredict?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ट्रेन होशियार। तेजी से रैंक करें।. | प्रतिदिन 30 मिनट से भी कम समय में एआई-जनित चुनौतियों की शक्ति के साथ अपना सीएस:जीओ कौशल बढ़ाएं।. | :x: |
 | [hidden door](https://www.thataicollection.com/redirect/hidden-door?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हैलो, संसारों!. | नैरेटिव एआई द्वारा संचालित एक नए प्रकार का सामाजिक रोलप्लेइंग अनुभव।. | :grey_question: |
+| [Inworld](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इनवर्ल्ड एआई — एआई कैरेक्टर बनाएं और उनसे कुछ भी पूछें. | गेम, मेटावर्स और बिज़नेस ऐप्लिकेशन के लिए AI कैरेक्टर और NPC बनाएं — या सिर्फ़ मनोरंजन के लिए। तुम AI कैरेक्टर से किसी भी चीज़ के बारे में बात कर सकते हो। यह आसान है, मुफ़्त है, और संभावनाओं से भरपूर है।. | :white_check_mark: |
 | [IRMO](https://www.thataicollection.com/redirect/irmo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सृजन के लिए बनाया गया। एआई ऐप्स में सर्वश्रेष्ठ. | मोबाइल मनोरंजन और एआई कला निर्माण के लिए आपका स्रोत. | :white_check_mark: |
 | [latitude](https://www.thataicollection.com/redirect/latitude?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-जनरेटेड गेम्स का भविष्य. | हम एआई को सभी के लिए रचनात्मकता और स्वतंत्रता का साधन बना रहे हैं।. | :grey_question: |
 | [Opus](https://www.thataicollection.com/redirect/opus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Opus AI - आइए मिलकर विकेंद्रीकृत मनोरंजन के भविष्य का निर्माण करें।. | पलक झपकते ही अपने शब्दों को एक जीवंत सांस लेने वाली दुनिया में बदल दें। दृश्य, किरदार और उनके संवाद लिखें और उन्हें रियल टाइम में होते हुए देखें। अपनी कल्पना को उजागर करें और हमारी टेक्नोलॉजी को काम करने दें।. | :grey_question: |
@@ -865,6 +854,7 @@
 | [Photospells](https://www.thataicollection.com/redirect/photospells?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फोटो मंत्र - एआई के साथ व्यावसायिक फोटो संस्करण. | फोटो स्पेल से बालों का रंग, कपड़े और स्टाइल बदलें. | :grey_question: |
 | [Prisma](https://www.thataicollection.com/redirect/prisma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्रिज्मा आपकी तस्वीरों के सार को कैप्चर करता है और उन्हें चमकीले रंग की पेंटिंग में बदल देता है. | आपके निपटान में 700 से अधिक शानदार कला और चित्र शैली। अग्रभूमि और पृष्ठभूमि दोनों को अलग-अलग संशोधित करने की संभावना। अपनी छवियों को अपग्रेड करने के लिए शानदार फ्रेम।. | :white_check_mark: |
 | [Prisma Lensa](https://www.thataicollection.com/redirect/prisma-lensa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लेंसा एक ऑल-इन-वन इमेज एडिटिंग ऐप है जो आपकी तस्वीरों को अगले स्तर तक ले जाता है।. | मैजिक करेक्शन के एक टैप से फेशियल रीटचिंग को बेहतर बनाएं। ढेर सारे कूल टूल्स से चेहरे की खामियों को दूर करें। पृष्ठभूमि को एक स्पर्श से बदलें या धुंधला करें।. | :white_check_mark: |
+| [ProductShots.ai](https://www.thataicollection.com/redirect/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI की मदद से तुरन्त अपने उत्पादों के लिए शानदार कॉन्टेंट बनाएं. | ProductShots.ai एक प्रमुख जनरेटिव AI टूल है, जो तुम्हारे ग्राहकों को आकर्षित करने और कन्वर्ज़न ड्राइव करने के लिए शानदार प्रॉडक्ट इमेज बनाता है। ProductShots.ai हमारे AI इमेज जनरेशन और एडिटिंग टूल की मदद से कुछ ही सेकंड में ईकॉमर्स ब्रांड्स को अनोखी और यादगार प्रॉडक्ट इमेज जनरेट करने में मदद करता है।. | :white_check_mark: |
 | [Reface](https://www.thataicollection.com/redirect/reface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Reface — AI फ़ेस स्वैप ऐप और वीडियो फ़ेस स्वैप. | रीफ़ेस — यहाँ तुम सिर्फ़ एक सेल्फी से वीडियो और GIF में चेहरों की अदला-बदली कर सकते हो, फ़ोटो को एनिमेट कर सकते हो और फ़ोटो को कार्टून में बदल सकते हो।. | :grey_question: |
 | [Remover.app](https://www.thataicollection.com/redirect/remover.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कुछ भी हटाएं - रिमूवर.ऐप फोटो में मौजूद किसी भी अवांछित चीज को सेकंडों में मुफ्त में हटा सकता है. | अपने उत्पादों को चमकदार बनाएं. अपने दर्शकों को प्रभावित करें, विकर्षण दूर करें। रिमूवर.ऐप अवांछित वस्तुओं, लोगों या दोषों को हटाने के लिए रिमूवर.ऐप (एक निःशुल्क रचनात्मक संपादन उपकरण) का उपयोग करें। ए.आई. एल्गोरिदम केवल एक क्लिक में ऑब्जेक्ट के पीछे क्या था उसका पुनर्निर्माण करेगा। सुनिश्चित करें कि वस्तुओं को हटाने के लिए अवांछित तत्वों को कवर किया गया है। आप व्यक्तियों को हटा सकते हैं, या पाठ को उसी तरह हटा सकते हैं।. | :white_check_mark: |
 | [RestorePhotos.io](https://www.thataicollection.com/redirect/restorephotos.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सभी के लिए एआई का उपयोग करके पुरानी तस्वीरों को पुनर्स्थापित करना. | पुराने और धुंधले चेहरे की तस्वीरें हैं? हमारे एआई को उन्हें बहाल करने दें ताकि वे यादें जीवित रह सकें। 100% मुफ़्त - आज ही अपनी फ़ोटो पुनर्स्थापित करें. | :white_check_mark: |
@@ -1129,6 +1119,7 @@
 | [Interior AI Designs](https://www.thataicollection.com/redirect/interior-ai-designs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इंटीरियर एआई डिज़ाइन - हर किसी के लिए AI का इस्तेमाल करके ड्रीम रूम तैयार करना।. | अपने कमरे की तस्वीर लें और देखें कि अलग-अलग थीम में तुम्हारा कमरा कैसा दिखता है। आज ही अपने कमरे को फिर से तैयार करें। हमारे चुनिंदा थीम के चयन के साथ डिज़ाइन की संभावनाओं की दुनिया के बारे में जानें। तुम्हारे स्थान को बदलने के लिए हर थीम को सावधानी से तैयार किया गया है।. | :white_check_mark: |
 | [Makeit.ai](https://www.thataicollection.com/redirect/makeit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जनरेटिव डिज़ाइन - आर्किटेक्चर डिज़ाइन सॉफ़्टवेयर - माकेट. | हमारा जनरेटिव डिज़ाइन सॉफ़्टवेयर वास्तुकारों, बिल्डरों और डेवलपर्स को तुरंत हजारों वास्तुशिल्प योजनाओं को तुरंत उत्पन्न करने में सक्षम बनाता है।. | :grey_question: |
 | [Oda Studio](https://www.thataicollection.com/redirect/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ओडा मूडबोर्ड • ओडीए स्टूडियो - एआई की मदद से कुछ ही सेकंड में अपने घर को कस्टमाइज़ करने के लिए अपना स्टाइल और रंग चुनें।. | AI की मदद से कुछ ही सेकंड में अपने घर को कस्टमाइज़ करने के लिए अपना स्टाइल और रंग चुनें - अपना घर डिज़ाइन करना शुरू करें या सैंपल बोर्ड का इस्तेमाल करें।. | :white_check_mark: |
+| [Room Reinvented](https://www.thataicollection.com/redirect/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रूम रीइनवेंटेड के साथ अपने कमरे को आसानी से ट्रांसफ़ॉर्म करें! एक फ़ोटो अपलोड करें और AI को 30 से ज़्यादा शानदार इंटीरियर स्टाइल बनाने दें। आज ही अपनी जगह को बेहतर बनाओ।. | अपने कमरे को आसानी से ट्रांसफ़ॉर्म करें। बस अपनी मौजूदा जगह की एक तस्वीर अपलोड करें और रूम रीइनवेंटेड को अपना जादू चलाने दें। मिनिमलिज़्म से लेकर बैरोक तक के 30 से ज़्यादा अनोखे स्टाइल देखें और 20 से ज़्यादा शानदार कलर पैलेट्स के साथ एक्सपेरिमेंट करें। अपने विचारों को एक सुविधाजनक लुकबुक में व्यवस्थित करें, ताकि तुम्हारे विज़न को व्यवस्थित और ताज़ा रखा जा सके।. | :grey_question: |
 
 
 <!--lint ignore double-link-->
@@ -1434,16 +1425,6 @@
 | [Getactyv](https://www.thataicollection.com/redirect/getactyv?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Getactyv - एआई और कंप्यूटर विजन असिस्टेड हेल्थ एंड फिटनेस प्लेटफॉर्म. | GetActyv का AI-आधारित पर्सनल ट्रेनर आपकी फिटनेस यात्रा में क्रांति लाने के लिए यहां है. | :grey_question: |
 | [Replika](https://www.thataicollection.com/redirect/replika?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई साथी जो परवाह करता है. | हमेशा यहां सुनने और बात करने के लिए। हमेशा अपनी तरफ रहो। उनके एआई मित्रों के साथ बढ़ रहे लाखों लोगों से अभी जुड़ें!. | :grey_question: |
 | [Ubie AI Symptom Checker](https://www.thataicollection.com/redirect/ubie-ai-symptom-checker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई द्वारा लक्षणों की जांच करें और कारणों का पता लगाएं. | एआई द्वारा लक्षणों की जांच करें और कारणों का पता लगाएं - एआई द्वारा संभावित कारणों, प्रकारों, गंभीरता और उपचार का पता लगाने के लिए अपने लक्षणों के बारे में प्रश्नोत्तरी का उत्तर दें। डॉक्टरों द्वारा विकसित. | :white_check_mark: |
-
-
-<!--lint ignore double-link-->
-**[⬆ इंडेक्स पर वापस](#index)**
-
-## अन्य
-| नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
-|---|---|---|:---:|
-| [Auto Draw](https://www.thataicollection.com/redirect/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऑटो ड्रा. | सभी के लिए फास्ट ड्राइंग। तेजी से सामग्री बनाने में आपकी मदद करने के लिए प्रतिभावान कलाकारों के रेखाचित्रों के साथ AutoDraw जोड़े मशीन लर्निंग।. | :grey_question: |
-| [Inworld](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इनवर्ल्ड एआई - एआई वर्ण बनाएं और उनसे कुछ भी पूछें. | गेम, मेटावर्स और व्यावसायिक अनुप्रयोगों के लिए AI वर्ण और NPC बनाएँ - या केवल मनोरंजन के लिए। आप एआई पात्रों से किसी भी बारे में बात कर सकते हैं। यह आसान, मुफ्त और संभावनाओं से भरा है।. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->

@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=995" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=996" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -65,19 +65,6 @@ Translations:
     <h4>undress.vip–2023 best 100% Working undress ai deepnude </h4>
     <p>undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots</p>
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Undress.Vip</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="chtrbx" border="0"/>
-    </a>
-    <h4>Chtrbx: Revolutionize customer service with AI-driven insights</h4>
-    <p>Chtrbx is an AI chat platform that helps businesses improve online customer interactions. It analyzes visitor sentiments and interests, enabling effective engagement and strategic insights. This leads to better user experiences, personalized recommendations, and potentially higher sales. Chtrbx offers more than chat; it's a data-driven tool for enhancing service and driving growth.</p>
-    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with chtrbx</b></a>
     <br />
 </div>
 
@@ -155,6 +142,69 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### ProductShots.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-productshots.ai.webp" alt="ProductShots.ai">
+
+#### Create stunning content for your products instantly with AI
+[Visit](https://www.thataicollection.com/redirect/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ProductShots.ai is the leading generative AI tool that creates stunning product images to engage your customers and drive conversions. ProductShots.ai helps ecommerce brands generate unique & memorable product images in seconds with our AI image generation & editing tools.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Room Reinvented
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-room-reinvented.webp" alt="Room Reinvented">
+
+#### Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
+[Visit](https://www.thataicollection.com/redirect/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Transform your room effortlessly. Simply upload a picture of your existing space, and let Room Reinvented work its magic. Explore over 30 unique styles, ranging from Minimalism to Baroque, and experiment with over 20 stunning color palettes. Organize your ideas in a convenient lookbook to keep your vision organized and fresh.
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Inworld
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-inworld.webp" alt="Inworld">
+
+#### Inworld AI – Create AI Characters and Ask Them Anything
+[Visit](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Create AI characters and NPCs for games, metaverse, and business applications – or just for fun. You can talk to AI characters about anything. Its easy, free, and full of possibilities.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Auto Draw
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-auto-draw.webp" alt="Auto Draw">
+
+#### AutoDraw by Google Creative Lab - Experiments with Google
+
+[Visit](https://www.thataicollection.com/redirect/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AutoDraw is a new kind of drawing tool. It pairs machine learning with drawings from talented artists to help everyone create anything visual, fast. There’s nothing to download. Nothing to pay for. And it works anywhere: smartphone, tablet, laptop, desktop, etc. 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Sourcely
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sourcely.webp" alt="Sourcely">
 
@@ -201,68 +251,6 @@ The Possibilities Are Endless, Zero Design Skills Required.
 AI Writing Assistant with Power and Ease. Save time and write better content with Opentyper. Our 70+ writing templates and wizard make it easy for you to create high-quality content faster than ever.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Pixelmind
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pixelmind.webp" alt="Pixelmind">
-
-#### Pixelmind - AI-Powered Art & Minting to NFTS
-[Visit](https://www.thataicollection.com/redirect/pixelmind?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Your journey into AI-powered art. Create and collect NFTs through the Pixelmind portal. Evolve your style. Raise your game
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/pixelmind?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Neural Studio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neural-studio.webp" alt="Neural Studio">
-
-#### Neuralcam - We build smart camera apps
-with AI powered image processing
-[Visit](https://www.thataicollection.com/redirect/neural-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-We build AI powered camera apps. We think that the newly developed deep learning technologies have enabled the creation of a new category of devices called Smart Cameras — cameras that not just see and record the world but can also understand what they see and can even react to events in real-time. 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/neural-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Oda Studio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
-
-#### Oda Moodboard • Oda Studio - Pick your style and color to customize your home in seconds with AI.
-
-[Visit](https://www.thataicollection.com/redirect/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pick your style and color to customize your home in seconds with AI - Start Designing Your Home or Use a Sample Board.  
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### PictoDream
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pictodream.webp" alt="PictoDream">
-
-#### Generate Images of Yourself With AI - Pictodream.Com
-[Visit](https://www.thataicollection.com/redirect/pictodream?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Generate any images of yourself (or another person) in any style or setting using a simple text description. Generate images of yourself with AI. Put anyone in any style or setting using a simple text description. Use as avatars and profile photos, Print on canvas, Great as a gift, Try new haircuts and outfits
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/pictodream?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2034,6 +2022,21 @@ We are making AI a tool of creativity and freedom for everyone.
 <br />
 
 
+### Inworld
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-inworld.webp" alt="Inworld">
+
+#### Inworld AI – Create AI Characters and Ask Them Anything
+[Visit](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Create AI characters and NPCs for games, metaverse, and business applications – or just for fun. You can talk to AI characters about anything. Its easy, free, and full of possibilities.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Chess AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chess-ai.webp" alt="Chess AI">
 
@@ -2077,21 +2080,6 @@ Unleash the power of AI in your game design and development. Get bespoke game as
 <br />
 
 
-
-
-### Scenario
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scenario.webp" alt="Scenario">
-
-#### Scenario
-[Visit](https://www.thataicollection.com/redirect/scenario?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Unlock the power of AI-generated gaming assets with Scenario. Generate engaging content quickly and easily to save time and spark creativity
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/scenario?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 
@@ -3140,15 +3128,15 @@ HitPaw Online AI Photo Enhancer uses advanced AI technology to remove noise, sha
 <br />
 
 
-### Imgak - 照片AI修复工具
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-imgak---照片ai修复工具.webp" alt="Imgak - 照片AI修复工具">
+### ProductShots.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-productshots.ai.webp" alt="ProductShots.ai">
 
-#### Imgak - Restoring old photos using AI for everyone
-[Visit](https://www.thataicollection.com/redirect/imgak---照片ai修复工具?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Create stunning content for your products instantly with AI
+[Visit](https://www.thataicollection.com/redirect/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-The imgak old photo lossless repair tool is a comprehensive and easy-to-use AI photo editing tool. It provides functions such as repairing, coloring, and lossless enlargement of old photos, meeting users' various needs for photo retouching. Whether you are an ordinary user or a professional photo retoucher, you can easily repair and improve old photos through imgak.
+ProductShots.ai is the leading generative AI tool that creates stunning product images to engage your customers and drive conversions. ProductShots.ai helps ecommerce brands generate unique & memorable product images in seconds with our AI image generation & editing tools.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/imgak---照片ai修复工具?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

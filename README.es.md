@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=995" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=996" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -72,19 +72,6 @@
     <h4>undress.vip—2023 mejor vestido 100% funcional ai deepnude </h4>
     <p>Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023</p>
     <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Undress.Vip</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="chtrbx" border="0"/>
-    </a>
-    <h4>Chtrbx: Revoluciona el servicio de atención al cliente con información basada en la IA</h4>
-    <p>Chtrbx es una plataforma de chat de IA que ayuda a las empresas a mejorar las interacciones en línea con los clientes. Analiza los sentimientos e intereses de los visitantes, lo que permite una participación eficaz y una visión estratégica. Esto se traduce en mejores experiencias de usuario, recomendaciones personalizadas y, potencialmente, en mayores ventas. Chtrbx ofrece más que chat, es una herramienta basada en datos para mejorar el servicio e impulsar el crecimiento.</p>
-    <a href="https://www.thataicollection.com/redirect/chtrbx/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con chtrbx</b></a>
     <br />
 </div>
 
@@ -149,6 +136,69 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### ProductShots.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-productshots.ai.webp" alt="ProductShots.ai">
+
+#### Crea contenido impresionante para tus productos al instante con la IA
+[Visit](https://www.thataicollection.com/redirect/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ProductShots.ai es la principal herramienta de IA generativa que crea impresionantes imágenes de productos para atraer a tus clientes e impulsar las conversiones. ProductShots.ai ayuda a las marcas de comercio electrónico a generar imágenes de productos únicas y memorables en segundos con nuestras herramientas de generación y edición de imágenes de IA.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Room Reinvented
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-room-reinvented.webp" alt="Room Reinvented">
+
+#### ¡Transforma tu habitación sin esfuerzo con Room Reinvented! Sube una foto y deja que la IA cree más de 30 impresionantes estilos de interiores. Mejora tu espacio hoy mismo.
+[Visit](https://www.thataicollection.com/redirect/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Transforma tu habitación sin esfuerzo. Simplemente sube una imagen de tu espacio actual y deja que Room Reinvented haga su magia. Explora más de 30 estilos únicos, que van desde el minimalismo hasta el barroco, y experimenta con más de 20 impresionantes paletas de colores. Organiza tus ideas en un práctico catálogo para mantener tu visión organizada y fresca.
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Inworld
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-inworld.webp" alt="Inworld">
+
+#### Inworld AI: crea personajes de IA y pregúntales cualquier cosa
+[Visit](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Crea personajes de IA y PNJ para juegos, metaverso y aplicaciones empresariales, o simplemente por diversión. Puedes hablar con los personajes de la IA sobre cualquier cosa. Es fácil, gratis y está lleno de posibilidades.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Auto Draw
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-auto-draw.webp" alt="Auto Draw">
+
+#### AutoDraw de Google Creative Lab: Experimentos con Google
+
+[Visit](https://www.thataicollection.com/redirect/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AutoDraw es un nuevo tipo de herramienta de dibujo. Combina el aprendizaje automático con dibujos de artistas con talento para ayudar a todos a crear cualquier cosa visual y rápida. No hay nada que descargar. Nada por lo que pagar. Y funciona en cualquier lugar: smartphone, tableta, portátil, ordenador de sobremesa, etc. 
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Sourcely
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sourcely.webp" alt="Sourcely">
 
@@ -195,68 +245,6 @@ Las posibilidades son infinitas, no se requieren habilidades de diseño.
 Asistente de escritura de IA con potencia y facilidad. Ahorra tiempo y escribe mejor contenido con Opentyper. Nuestras más de 70 plantillas de escritura y nuestro asistente te facilitan la creación de contenido de alta calidad más rápido que nunca.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Pixelmind
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pixelmind.webp" alt="Pixelmind">
-
-#### Pixelmind: Arte y acuñación impulsados por la IA para NFTS
-[Visit](https://www.thataicollection.com/redirect/pixelmind?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Tu viaje al arte impulsado por la IA. Crea y colecciona NFT a través del portal Pixelmind. Haz evolucionar tu estilo. Mejora tu juego
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/pixelmind?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Neural Studio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-neural-studio.webp" alt="Neural Studio">
-
-#### Neuralcam: creamos aplicaciones de cámaras inteligentes
-con procesamiento de imágenes impulsado por IA
-[Visit](https://www.thataicollection.com/redirect/neural-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Creamos aplicaciones de cámara impulsadas por IA. Creemos que las tecnologías de aprendizaje profundo desarrolladas recientemente han permitido la creación de una nueva categoría de dispositivos llamada cámaras inteligentes, cámaras que no solo ven y graban el mundo, sino que también pueden entender lo que ven e incluso pueden reaccionar ante los acontecimientos en tiempo real. 
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/neural-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Oda Studio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
-
-#### Oda Moodboard • Oda Studio: elige tu estilo y color para personalizar tu casa en segundos con la IA.
-
-[Visit](https://www.thataicollection.com/redirect/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Elige tu estilo y color para personalizar tu casa en segundos con la IA. Empieza a diseñar tu casa o utiliza una tabla de muestra.  
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### PictoDream
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pictodream.webp" alt="PictoDream">
-
-#### Genera imágenes de ti mismo con la IA - Pictodream.Com
-[Visit](https://www.thataicollection.com/redirect/pictodream?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Genera cualquier imagen tuya (o de otra persona) en cualquier estilo o entorno con una descripción textual sencilla. Genera imágenes de ti mismo con la IA. Pon a cualquier persona en cualquier estilo o entorno con una descripción textual sencilla. Úsalo como avatares y fotos de perfil, imprime sobre lienzo, ideal como regalo, prueba nuevos cortes de pelo y atuendos
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/pictodream?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2028,6 +2016,21 @@ Estamos haciendo de la IA una herramienta de creatividad y libertad para todos.
 <br />
 
 
+### Inworld
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-inworld.webp" alt="Inworld">
+
+#### Inworld AI: crea personajes de IA y pregúntales cualquier cosa
+[Visit](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Crea personajes de IA y PNJ para juegos, metaverso y aplicaciones empresariales, o simplemente por diversión. Puedes hablar con los personajes de la IA sobre cualquier cosa. Es fácil, gratis y está lleno de posibilidades.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Chess AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chess-ai.webp" alt="Chess AI">
 
@@ -2067,21 +2070,6 @@ Mejora tus habilidades de CS:GO con el poder de los desafíos generados por IA, 
 Libere el poder de la IA en el diseño y desarrollo de su juego. ¡Obtenga activos de juego personalizados en una multitud de estilos para inspirarlo y ayudarlo a construir su próximo juego!
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/assetsai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Scenario
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scenario.webp" alt="Scenario">
-
-#### Guión
-[Visit](https://www.thataicollection.com/redirect/scenario?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Libere el poder de los activos de juego generados por IA con Scenario. Genere contenido atractivo de forma rápida y sencilla para ahorrar tiempo y despertar la creatividad
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/scenario?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3133,15 +3121,15 @@ HitPaw Online AI Photo Enhancer utiliza tecnología avanzada de IA para eliminar
 <br />
 
 
-### Imgak - 照片AI修复工具
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-imgak---照片ai修复工具.webp" alt="Imgak - 照片AI修复工具">
+### ProductShots.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-productshots.ai.webp" alt="ProductShots.ai">
 
-#### Imgak: Restauración de fotos antiguas con IA para todo el mundo
-[Visit](https://www.thataicollection.com/redirect/imgak---照片ai修复工具?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Crea contenido impresionante para tus productos al instante con la IA
+[Visit](https://www.thataicollection.com/redirect/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-La herramienta de reparación sin pérdida de fotos antiguas de imgak es una herramienta de edición de fotos basada en IA completa y fácil de usar. Ofrece funciones como reparar, colorear y ampliar fotos antiguas sin pérdida, para satisfacer las diversas necesidades de retoque fotográfico de los usuarios. Tanto si eres un usuario normal como un retoque fotográfico profesional, puedes reparar y mejorar fácilmente fotos antiguas a través de imgak.
+ProductShots.ai es la principal herramienta de IA generativa que crea impresionantes imágenes de productos para atraer a tus clientes e impulsar las conversiones. ProductShots.ai ayuda a las marcas de comercio electrónico a generar imágenes de productos únicas y memorables en segundos con nuestras herramientas de generación y edición de imágenes de IA.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/imgak---照片ai修复工具?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
