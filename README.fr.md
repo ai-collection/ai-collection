@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=996" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1000" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
     </a>
-    <h4>Podwise, la meilleure application d'apprentissage basée sur l'IA pour les auditeurs de podcasts.</h4>
-    <p>Avec Podwise, tu peux apprendre grâce à des connaissances structurées et écouter de manière sélective les chapitres qui suscitent ton intérêt. Cette fonctionnalité te permet d'optimiser ton expérience d'apprentissage et de te concentrer sur le contenu qui compte le plus pour toi.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Podwise</b></a>
+    <h4>undress.vip—Le meilleur déshabillage 100 % fonctionnel de 2023 sur deepnude </h4>
+    <p>Undress.vip, un outil d'IA révolutionnaire qui joue un rôle de premier plan dans cette progression. undress.vip—2023 best 100 % Working AI Deepnude & Deepfake Telegram Undress AI Bots</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Undress.Vip</b></a>
     <br />
 </div>
 
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>undress.vip—Le meilleur déshabillage 100 % fonctionnel de 2023 sur deepnude </h4>
-    <p>Undress.vip, un outil d'IA révolutionnaire qui joue un rôle de premier plan dans cette progression. undress.vip—2023 best 100 % Working AI Deepnude & Deepfake Telegram Undress AI Bots</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Undress.Vip</b></a>
+    <h4>Podwise, la meilleure application d'apprentissage basée sur l'IA pour les auditeurs de podcasts.</h4>
+    <p>Avec Podwise, tu peux apprendre grâce à des connaissances structurées et écouter de manière sélective les chapitres qui suscitent ton intérêt. Cette fonctionnalité te permet d'optimiser ton expérience d'apprentissage et de te concentrer sur le contenu qui compte le plus pour toi.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Podwise</b></a>
     <br />
 </div>
 
@@ -136,115 +136,117 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
 
-### ProductShots.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-productshots.ai.webp" alt="ProductShots.ai">
+### NSFWGirlfriend
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nsfwgirlfriend.webp" alt="NSFWGirlfriend">
 
-#### Créez instantanément du contenu époustouflant pour tes produits grâce à l'IA
-[Visit](https://www.thataicollection.com/redirect/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### NSFWGirlfriend : Plongez dans des chats IA authentiques et désinhibés avec des personnages de la NSFW, sans aucune restriction.
+[Visit](https://www.thataicollection.com/redirect/nsfwgirlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-ProductShots.ai est le principal outil d'intelligence artificielle générative qui crée de superbes images de produits pour susciter l'intérêt de tes clients et générer des conversions. ProductShots.ai aide les marques de commerce électronique à générer des images de produits uniques et mémorables en quelques secondes grâce à nos outils de génération et de retouche d'images basés sur l'IA.
+Participe à des chats IA avec des personnages de la NSFW sans restriction. Créez tes personnages dotés d'IA et participez à des engagements authentiques et illimités avec la NSFW. Laisse libre cours à ta créativité en façonnant ta personnalité unique en matière d'IA. Plongez aujourd'hui !
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Room Reinvented
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-room-reinvented.webp" alt="Room Reinvented">
-
-#### Transformez ta chambre sans effort avec Room Reinvented ! Ajoute une photo et laisse l'IA créer plus de 30 styles d'intérieur époustouflants. Améliore ton espace aujourd'hui.
-[Visit](https://www.thataicollection.com/redirect/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Transforme ta chambre sans effort. Il suffit de télécharger une photo de ton espace existant et de laisser Room Reinvented opérer sa magie. Explorez plus de 30 styles uniques, allant du minimalisme au baroque, et testez plus de 20 palettes de couleurs époustouflantes. Organise tes idées dans un lookbook pratique pour garder ta vision organisée et actualisée.
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/nsfwgirlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Inworld
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-inworld.webp" alt="Inworld">
+### MoneyCoach
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
 
-#### Inworld AI — Créez des personnages dotés d'IA et demandez-leur tout
-[Visit](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### MoneyCoach, une application moderne de gestion financière et de budgétisation
 
-Crée des personnages IA et des PNJ pour les jeux, le métaverse et les applications commerciales, ou juste pour le fun. Tu peux parler de tout avec des personnages dotés d'IA. C'est facile, gratuit et plein de possibilités.
+[Visit](https://www.thataicollection.com/redirect/moneycoach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+MoneyCoach est une application de finances personnelles qui t'aide à gérer ton argent, ton budget et à suivre tes dépenses. Disponible pour iPhone, iPad, Mac et Apple Watch.
 
 
-
-
-### Auto Draw
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-auto-draw.webp" alt="Auto Draw">
-
-#### AutoDraw de Google Creative Lab - Expériences avec Google
-
-[Visit](https://www.thataicollection.com/redirect/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AutoDraw est un outil de dessin d'un nouveau type. Il associe l'apprentissage automatique à des dessins d'artistes talentueux pour aider tout le monde à créer rapidement des objets visuels. Il n'y a rien à télécharger. Rien à payer. Et il fonctionne n'importe où : smartphone, tablette, ordinateur portable, ordinateur de bureau, etc. 
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/moneycoach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Sourcely
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sourcely.webp" alt="Sourcely">
+### Videodubber.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber.ai.webp" alt="Videodubber.ai">
 
-#### Sourcely- Finis tes recherches en quelques minutes. Sauve ton sommeil.
-[Visit](https://www.thataicollection.com/redirect/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Videodubber : traduction vidéo par IA, services de synthèse vocale
+[Visit](https://www.thataicollection.com/redirect/videodubber.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Outil de recherche documentaire basé sur l'IA qui permet de récupérer rapidement les textes pertinents en fonction des saisies par l'utilisateur. Grâce à des techniques avancées de traitement du langage naturel, il permet d'accéder facilement à diverses sources d'information, ce qui permet d'économiser du temps et des efforts. Demande de l'aide à Sourcely AI.
+Traduction vidéo de l'espagnol vers l'anglais, clonage vocal et synthèse vocale gratuits alimentés par l'IA. Évoluez avec nous dans plus de 30 langues pour multiplier par 10 la taille de ton audience !
 
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Beb AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-beb-ai.webp" alt="Beb AI">
-
-#### Beb.Ai - Recevez une infinité de contenus créatifs pour ta marque
-[Visit](https://www.thataicollection.com/redirect/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Les possibilités sont infinies, aucune compétence en design n'est requise.
-✓ Des publications engageantes sur les réseaux sociaux
-✓ Pattern Interruption Ads
-✓ Campagnes marketing
-✓ Supports marketing dynamiques
-✓ Cartes de vœux
-✓ Ou juste pour le fun !
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/videodubber.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### OpenTyper
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-opentyper.webp" alt="OpenTyper">
+### Photo to Anime
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-to-anime.webp" alt="Photo to Anime">
 
-#### OpenTyper, un rédacteur basé sur l'IA qui écrit pour toi.
-[Visit](https://www.thataicollection.com/redirect/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Filtre d'anime basé sur l'intelligence artificielle centré sur la confidentialité pour Memory Keepers
+[Visit](https://www.thataicollection.com/redirect/photo-to-anime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Assistant de rédaction intelligent, puissant et facile. Gagnez du temps et rédigez du contenu de meilleure qualité avec Opentyper. Nos plus de 70 modèles d'écriture et notre assistant te permettent de créer du contenu de haute qualité plus rapidement que jamais.
+Caractéristiques :
+- Conversion de photos en anime : transforme des photos en anime sur ton propre appareil sans te soucier des problèmes de confidentialité liés au téléchargement
+- Création de texte en anime : crée une image de style anime à l'aide d'une invite textuelle
+- Design centré sur la confidentialité : ta photo ne sera pas téléchargée sur le cloud, le filtre d'anime se fait sur ton propre appareil
+- Totalement gratuit, pas besoin de connexion
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/photo-to-anime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Drawing Prompt
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-drawing-prompt.webp" alt="Drawing Prompt">
+
+#### Générateur d'invites amélioré par IA pour tous les artistes
+[Visit](https://www.thataicollection.com/redirect/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Drawing Prompt est un outil gratuit conçu pour les passionnés d'art basé sur l'IA. Il propose :
+1. Expansion rapide : convertit des mots simples en instructions détaillées et créatives.
+2. Exploration rapide et aléatoire : génère des invites aléatoires pour ceux qui recherchent des surprises et le plaisir de l'exploration, idéal lorsque tu ne sais pas quoi créer.
+3. Création d'images : utilise le modèle SDXL pour transformer les instructions en œuvres d'art visuel époustouflantes.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AVCLabs Photo Enhancer AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
+
+#### Améliorateur de photos AVCLabs AI : améliorez facilement la qualité des photos grâce à l'IA 
+
+[Visit](https://www.thataicollection.com/redirect/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Améliorateur de photos intelligent tout-en-un pour améliorer la qualité des photos en réduisant automatiquement le bruit, en effilant, en améliorant la netteté, en ajustant la couleur et la tonalité, et en redimensionnant l'image jusqu'à 400 % sans en sacrifier la qualité.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AVCLabs PhotoPro AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photopro-ai.webp" alt="AVCLabs PhotoPro AI">
+
+#### Éditeur de photos IA : améliore tous tes éléments de retouche photo | AVCLabs
+
+[Visit](https://www.thataicollection.com/redirect/avclabs-photopro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+L'outil de retouche photo spécialisé assisté par IA, qui propose des outils de retouche photo professionnels tels que la suppression d'objets et d'arrière-plans, l'amélioration de la qualité des photos, l'augmentation de la résolution des photos, la colorisation de photos en noir et blanc, la retouche de portraits et la stylisation des photos.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/avclabs-photopro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3122,15 +3124,16 @@ HitPaw Online AI Photo Enhancer utilise une technologie d'intelligence artificie
 
 
 
-### ProductShots.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-productshots.ai.webp" alt="ProductShots.ai">
+### AVCLabs Photo Enhancer AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
 
-#### Créez instantanément du contenu époustouflant pour tes produits grâce à l'IA
-[Visit](https://www.thataicollection.com/redirect/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Améliorateur de photos AVCLabs AI : améliorez facilement la qualité des photos grâce à l'IA 
 
-ProductShots.ai est le principal outil d'intelligence artificielle générative qui crée de superbes images de produits pour susciter l'intérêt de tes clients et générer des conversions. ProductShots.ai aide les marques de commerce électronique à générer des images de produits uniques et mémorables en quelques secondes grâce à nos outils de génération et de retouche d'images basés sur l'IA.
+[Visit](https://www.thataicollection.com/redirect/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Améliorateur de photos intelligent tout-en-un pour améliorer la qualité des photos en réduisant automatiquement le bruit, en effilant, en améliorant la netteté, en ajustant la couleur et la tonalité, et en redimensionnant l'image jusqu'à 400 % sans en sacrifier la qualité.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

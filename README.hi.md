@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=996" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1000" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -136,115 +136,117 @@
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
 
-### ProductShots.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-productshots.ai.webp" alt="ProductShots.ai">
+### NSFWGirlfriend
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nsfwgirlfriend.webp" alt="NSFWGirlfriend">
 
-#### AI की मदद से तुरन्त अपने उत्पादों के लिए शानदार कॉन्टेंट बनाएं
-[Visit](https://www.thataicollection.com/redirect/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### NSFWGirlfriend: ज़ीरो प्रतिबंधों के साथ प्रामाणिक, बेहिचक NSFW कैरेक्टर AI चैट में गोता लगाएँ।
+[Visit](https://www.thataicollection.com/redirect/nsfwgirlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-ProductShots.ai एक प्रमुख जनरेटिव AI टूल है, जो तुम्हारे ग्राहकों को आकर्षित करने और कन्वर्ज़न ड्राइव करने के लिए शानदार प्रॉडक्ट इमेज बनाता है। ProductShots.ai हमारे AI इमेज जनरेशन और एडिटिंग टूल की मदद से कुछ ही सेकंड में ईकॉमर्स ब्रांड्स को अनोखी और यादगार प्रॉडक्ट इमेज जनरेट करने में मदद करता है।
+अप्रतिबंधित NSFW कैरेक्टर AI चैट का आनंद लें। अपने AI कैरेक्टर तैयार करें और असली, असीमित NSFW एंगेजमेंट का सामना करें। अपने अनोखे AI व्यक्तित्व को आकार देने की रचनात्मकता को उजागर करें। आज ही डाइव इन करें!
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Room Reinvented
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-room-reinvented.webp" alt="Room Reinvented">
-
-#### रूम रीइनवेंटेड के साथ अपने कमरे को आसानी से ट्रांसफ़ॉर्म करें! एक फ़ोटो अपलोड करें और AI को 30 से ज़्यादा शानदार इंटीरियर स्टाइल बनाने दें। आज ही अपनी जगह को बेहतर बनाओ।
-[Visit](https://www.thataicollection.com/redirect/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-अपने कमरे को आसानी से ट्रांसफ़ॉर्म करें। बस अपनी मौजूदा जगह की एक तस्वीर अपलोड करें और रूम रीइनवेंटेड को अपना जादू चलाने दें। मिनिमलिज़्म से लेकर बैरोक तक के 30 से ज़्यादा अनोखे स्टाइल देखें और 20 से ज़्यादा शानदार कलर पैलेट्स के साथ एक्सपेरिमेंट करें। अपने विचारों को एक सुविधाजनक लुकबुक में व्यवस्थित करें, ताकि तुम्हारे विज़न को व्यवस्थित और ताज़ा रखा जा सके।
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/nsfwgirlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Inworld
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-inworld.webp" alt="Inworld">
+### MoneyCoach
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
 
-#### इनवर्ल्ड एआई — एआई कैरेक्टर बनाएं और उनसे कुछ भी पूछें
-[Visit](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### MoneyCoach - मॉडर्न मनी मैनेजर और बजट ऐप
 
-गेम, मेटावर्स और बिज़नेस ऐप्लिकेशन के लिए AI कैरेक्टर और NPC बनाएं — या सिर्फ़ मनोरंजन के लिए। तुम AI कैरेक्टर से किसी भी चीज़ के बारे में बात कर सकते हो। यह आसान है, मुफ़्त है, और संभावनाओं से भरपूर है।
+[Visit](https://www.thataicollection.com/redirect/moneycoach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+MoneyCoach एक पर्सनल फाइनेंस ऐप है, जो तुम्हेंं अपने पैसे, बजट और अपने खर्च को ट्रैक करने में मदद करता है। iPhone, iPad, Mac और Apple Watch के लिए उपलब्ध है।
 
 
-
-
-### Auto Draw
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-auto-draw.webp" alt="Auto Draw">
-
-#### Google क्रिएटिव लैब द्वारा AutoDraw - Google के साथ प्रयोग
-
-[Visit](https://www.thataicollection.com/redirect/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AutoDraw एक नए तरह का ड्रॉइंग टूल है। यह मशीन लर्निंग को प्रतिभाशाली कलाकारों के चित्रों के साथ जोड़ता है, ताकि हर किसी को कुछ भी विज़ुअल, तेज़ी से बनाने में मदद मिल सके। डाउनलोड करने के लिए कुछ भी नहीं है। भुगतान करने के लिए कुछ भी नहीं है। और यह हर जगह काम करता है: स्मार्टफ़ोन, टैबलेट, लैपटॉप, डेस्कटॉप, वगैरह। 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/moneycoach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Sourcely
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sourcely.webp" alt="Sourcely">
+### Videodubber.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber.ai.webp" alt="Videodubber.ai">
 
-#### स्रोत- अपने रिसर्च को मिनटों में पूरा करें। अपनी नींद बचाओ।
-[Visit](https://www.thataicollection.com/redirect/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### वीडियोडबर: एआई वीडियो ट्रांसलेशन, टेक्स्ट-टू-स्पीच सेवाएं
+[Visit](https://www.thataicollection.com/redirect/videodubber.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-एआई-संचालित लिटरेचर सोर्सिंग टूल, जो यूज़र इनपुट के आधार पर प्रासंगिक टेक्स्ट को तुरंत रिकवर करता है। एडवांस प्राकृतिक भाषा प्रोसेसिंग तकनीकों के साथ, यह विविध सूचना स्रोतों तक आसान पहुँच प्रदान करता है, जिससे समय और मेहनत की बचत होती है। सोर्सली एआई से मदद पाओ।
+मुफ़्त AI-संचालित स्पैनिश से अंग्रेज़ी वीडियो अनुवाद, वॉइस क्लोनिंग और टेक्स्ट-टू-स्पीच। हमारे ज़रिये 30+ भाषाओं में अपने दर्शकों के साइज़ को 10 गुना तक स्केल करें!
 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Beb AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-beb-ai.webp" alt="Beb AI">
-
-#### Beb.Ai - अपने ब्रांड के लिए अंतहीन रचनात्मक सामग्री पाओ
-[Visit](https://www.thataicollection.com/redirect/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-संभावनाएं अनंत हैं, किसी डिज़ाइन कौशल की आवश्यकता नहीं है।
-✓ दिलचस्प सोशल मीडिया पोस्ट
-✓ पैटर्न इंटरप्ट विज्ञापन
-✓ मार्केटिंग कैंपेन
-✓ डायनामिक मार्केटिंग सामग्रियां
-✓ हॉलिडे कार्ड्स
-✓ या सिर्फ़ मनोरंजन के लिए!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/videodubber.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### OpenTyper
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-opentyper.webp" alt="OpenTyper">
+### Photo to Anime
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-to-anime.webp" alt="Photo to Anime">
 
-#### ओपनटाइपर - एआई-संचालित कॉपीराइटर जो तुम्हारे लिए लिखता है।
-[Visit](https://www.thataicollection.com/redirect/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### मेमोरी कीपर्स के लिए प्राइवेसी-सेंट्रिक AI एनीमे फ़िल्टर
+[Visit](https://www.thataicollection.com/redirect/photo-to-anime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-पावर एंड ईज़ी के साथ एआई राइटिंग असिस्टेंट। समय बचाएं और OpenTyper के ज़रिए बेहतर कॉन्टेंट लिखें। हमारे 70+ राइटिंग टेम्प्लेट और विज़ार्ड से तुम्हारे लिए हाई-क्वालिटी का कॉन्टेंट पहले से कहीं ज़्यादा तेज़ी से बनाना आसान हो जाता है।
+विशेषताऐं:
+- फ़ोटो को एनीमे में कनवर्ज़न: अपलोड होने से गोपनीयता संबंधी समस्याओं की चिंता किए बिना अपने डिवाइस पर फ़ोटो को एनीमे स्टाइल में बदलें
+- टेक्स्ट टू एनीमे क्रिएशन: टेक्स्ट प्रॉम्प्ट के जरिए एनीमे स्टाइल इमेज बनाएं
+- प्राइवेसी-सेंट्रिक डिज़ाइन: तुम्हारी तस्वीर क्लाउड पर अपलोड नहीं की जाएगी, एनीमे फ़िल्टर तुम्हारे ही डिवाइस पर किया जाता है
+- पूरी तरह से मुफ़्त, लॉगइन की ज़रूरत नहीं
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/photo-to-anime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Drawing Prompt
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-drawing-prompt.webp" alt="Drawing Prompt">
+
+#### हर कलाकार के लिए एआई-एन्हांस्ड प्रॉम्प्ट्स जेनरेटर
+[Visit](https://www.thataicollection.com/redirect/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ड्रॉइंग प्रॉम्प्ट एक मुफ़्त टूल है जिसे AI कला के शौकीनों के लिए डिज़ाइन किया गया है। यह ऑफर देता है:
+1। तुरंत विस्तार: सरल शब्दों को विस्तृत, रचनात्मक संकेतों में बदलता है।
+2। रैंडम प्रॉम्प्ट एक्सप्लोरेशन: उन लोगों के लिए रैंडम प्रॉम्प्ट बनाता है जो सरप्राइज़ और खोज का आनंद लेना चाहते हैं, बहुत बढ़िया जब तुम अनिश्चित होते हो कि क्या बनाया जाए।
+3। इमेज क्रिएशन: प्रॉम्प्ट्स को शानदार विज़ुअल आर्ट में बदलने के लिए SDXL मॉडल का इस्तेमाल करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AVCLabs Photo Enhancer AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
+
+#### AVCLabs AI फ़ोटो एन्हांसर: AI के साथ आसानी से फ़ोटो की क्वालिटी बेहतर करें 
+
+[Visit](https://www.thataicollection.com/redirect/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+फ़ोटो की क्वालिटी बढ़ाने के लिए ऑल-इन-वन AI फ़ोटो एन्हांसर, ताकि क्वालिटी का त्याग किए बिना ऑटोमेटिक ढंग से नोइज़ करके, डिबोरिंग, शार्पनिंग, रंग और टोन एडजस्ट करके और इमेज को 400% तक बेहतर बनाया जा सके।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AVCLabs PhotoPro AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photopro-ai.webp" alt="AVCLabs PhotoPro AI">
+
+#### AI फ़ोटो एडिटर: अपने फ़ोटो एडिटिंग में सब कुछ बेहतर बनाएँ | AVCLabs
+
+[Visit](https://www.thataicollection.com/redirect/avclabs-photopro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+विशेष एआई-असिस्टेड फ़ोटो एडिटिंग टूल, जिसमें पेशेवर फ़ोटो एडिटिंग टूल जैसे ऑब्जेक्ट और बैकग्राउंड हटाना, फ़ोटो क्वालिटी बढ़ाना, फ़ोटो रिज़ॉल्यूशन बढ़ाना, श्वेत-श्याम तस्वीरों को रंगना, पोर्ट्रेट रीटचिंग और फ़ोटो स्टाइलाइज़ेशन जैसे पेशेवर फ़ोटो एडिटिंग टूल की पेशकश की जाती है।
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/avclabs-photopro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3122,15 +3124,16 @@ HitPaw ऑनलाइन एआई फोटो एन्हांसर शो
 <br />
 
 
-### ProductShots.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-productshots.ai.webp" alt="ProductShots.ai">
+### AVCLabs Photo Enhancer AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
 
-#### AI की मदद से तुरन्त अपने उत्पादों के लिए शानदार कॉन्टेंट बनाएं
-[Visit](https://www.thataicollection.com/redirect/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AVCLabs AI फ़ोटो एन्हांसर: AI के साथ आसानी से फ़ोटो की क्वालिटी बेहतर करें 
 
-ProductShots.ai एक प्रमुख जनरेटिव AI टूल है, जो तुम्हारे ग्राहकों को आकर्षित करने और कन्वर्ज़न ड्राइव करने के लिए शानदार प्रॉडक्ट इमेज बनाता है। ProductShots.ai हमारे AI इमेज जनरेशन और एडिटिंग टूल की मदद से कुछ ही सेकंड में ईकॉमर्स ब्रांड्स को अनोखी और यादगार प्रॉडक्ट इमेज जनरेट करने में मदद करता है।
+[Visit](https://www.thataicollection.com/redirect/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+फ़ोटो की क्वालिटी बढ़ाने के लिए ऑल-इन-वन AI फ़ोटो एन्हांसर, ताकि क्वालिटी का त्याग किए बिना ऑटोमेटिक ढंग से नोइज़ करके, डिबोरिंग, शार्पनिंग, रंग और टोन एडजस्ट करके और इमेज को 400% तक बेहतर बनाया जा सके।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

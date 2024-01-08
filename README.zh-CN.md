@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=996" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1000" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -136,115 +136,117 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### ProductShots.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-productshots.ai.webp" alt="ProductShots.ai">
+### NSFWGirlfriend
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nsfwgirlfriend.webp" alt="NSFWGirlfriend">
 
-#### 使用 AI 即时为您的产品创建精彩内容
-[Visit](https://www.thataicollection.com/redirect/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### NSFWGirlfriend：畅享真实、不受约束的 NSFW 角色人工智能聊天，不受任何限制。
+[Visit](https://www.thataicollection.com/redirect/nsfwgirlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-ProductShots.ai 是领先的生成式 AI 工具，可创建令人惊叹的产品图片，以吸引您的客户并提高转化率。ProductShots.ai 使用我们的 AI 图像生成和编辑工具，帮助电子商务品牌在几秒钟内生成独特而令人难忘的产品图片。
+尽情享受不受限制的 NSFW 角色人工智能聊天。制作你的 AI 角色，体验真正的、无限的 NSFW 互动。释放塑造你独特的 AI 角色的创造力。今天就潜水吧！
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Room Reinvented
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-room-reinvented.webp" alt="Room Reinvented">
-
-#### 使用 Room Reinvented 轻松改造您的房间！上传一张照片，让 AI 创作 30 多种令人惊叹的室内风格。立即提升您的空间。
-[Visit](https://www.thataicollection.com/redirect/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-毫不费力地改造您的房间。只需上传现有空间的照片，让 Room Reinvented 发挥其魔力。探索从极简主义到巴洛克风格的 30 多种独特风格，并尝试超过 20 种令人惊艳的调色板。将您的想法整理在便捷的画册中，以保持您的愿景井井有条和新鲜。
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nsfwgirlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Inworld
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-inworld.webp" alt="Inworld">
+### MoneyCoach
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
 
-#### Inworld AI — 创建 AI 角色并问他们任何问题
-[Visit](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### MoneyCoach-现代资金经理和预算应用程序
 
-为游戏、元宇宙和商业应用程序创建 AI 角色和 NPC，或者只是为了好玩。你可以和人工智能角色谈论任何事情。它简单、免费且充满可能性。
+[Visit](https://www.thataicollection.com/redirect/moneycoach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
+MoneyCoach是一款个人理财应用程序，可帮助您管理资金、预算和跟踪支出。适用于 iPhone、iPad、Mac 和 Apple Watch。
 
 
-### Auto Draw
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-auto-draw.webp" alt="Auto Draw">
-
-#### Google Creative Lab 的 AutoDraw-谷歌实验
-
-[Visit](https://www.thataicollection.com/redirect/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-自动绘图是一种新的绘图工具。它将机器学习与才华横溢的艺术家的绘画相结合，帮助每个人快速创作任何可视的东西。没有什么可下载的。没什么可支付的。它可以在任何地方使用：智能手机、平板电脑、笔记本电脑、台式机等。 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/moneycoach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Sourcely
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sourcely.webp" alt="Sourcely">
+### Videodubber.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber.ai.webp" alt="Videodubber.ai">
 
-#### Sourcely-在几分钟内完成研究。拯救您的睡眠。
-[Visit](https://www.thataicollection.com/redirect/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Videodubber：人工智能视频翻译、文字转语音服务
+[Visit](https://www.thataicollection.com/redirect/videodubber.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-人工智能驱动的文献采购工具，可根据用户输入快速检索相关文本。借助先进的自然语言处理技术，它可以轻松访问各种信息源，从而节省时间和精力。向 Sourcely AI 寻求帮助。
+由人工智能驱动的免费西班牙语到英语的视频翻译、语音克隆和文字转语音。与我们一起扩展到 30 多种语言，让您的受众规模扩大到 10 倍！
 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Beb AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-beb-ai.webp" alt="Beb AI">
-
-#### Beb.Ai-为您的品牌接收无穷无尽的创意内容
-[Visit](https://www.thataicollection.com/redirect/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-可能性是无限的，不需要任何设计技能。
-✓ 引人入胜的社交媒体帖子
-✓ 图案中断广告
-✓ 营销活动
-✓ 动态营销材料
-✓ 节日贺卡
-✓ 或者只是为了好玩！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/videodubber.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### OpenTyper
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-opentyper.webp" alt="OpenTyper">
+### Photo to Anime
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-to-anime.webp" alt="Photo to Anime">
 
-#### OpenTyper-由人工智能驱动的撰稿人，为你写作。
-[Visit](https://www.thataicollection.com/redirect/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 以隐私为中心的 AI 动画过滤器，适用于记忆守护者
+[Visit](https://www.thataicollection.com/redirect/photo-to-anime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AI 写作助手，既强大又简单。使用 Opentyper 可以节省时间并撰写更好的内容。我们的 70 多个写作模板和向导使您可以比以往任何时候都更轻松地创建高质量的内容。
+特点：
+-照片到动画的转换：在自己的设备上将照片转换为动漫风格，无需担心上传时会出现隐私问题
+-文字转动画创作：通过文字提示创建动漫风格图片
+-以隐私为中心的设计：您的照片不会上传到云端，动画滤镜是在您自己的设备上完成的
+-完全免费，无需登录
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/photo-to-anime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Drawing Prompt
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-drawing-prompt.webp" alt="Drawing Prompt">
+
+#### 适用于每位艺术家的 AI 增强提示生成器
+[Visit](https://www.thataicollection.com/redirect/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Drawing Prompt 是一款专为 AI 艺术爱好者设计的免费工具。它提供：
+1。提示扩展：将简单的单词转换为详细、有创意的提示。
+2。随机提示探索：为那些寻求惊喜和探索乐趣的人生成随机提示，当你不确定要创作什么时，这是完美的选择。
+3.图像创作：使用 SDXL 模型将提示变成令人惊叹的视觉艺术。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AVCLabs Photo Enhancer AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
+
+#### AVcLabs AI 照片增强器：使用 AI 轻松提高照片质量 
+
+[Visit](https://www.thataicollection.com/redirect/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+一体式 AI 照片增强器可通过自动去噪、去毛刺、锐化、调整颜色和色调来提高照片质量，并在不牺牲质量的情况下将图像放大多达 400%。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### AVCLabs PhotoPro AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photopro-ai.webp" alt="AVCLabs PhotoPro AI">
+
+#### AI 照片编辑器：增强照片编辑中的所有功能 | AVcLabs
+
+[Visit](https://www.thataicollection.com/redirect/avclabs-photopro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+专业的人工智能辅助照片编辑工具，提供专业的照片编辑工具，例如删除对象和背景、增强照片质量、提高照片分辨率、为黑白照片着色、人像修饰和照片风格化。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/avclabs-photopro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3122,15 +3124,16 @@ HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化�
 <br />
 
 
-### ProductShots.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-productshots.ai.webp" alt="ProductShots.ai">
+### AVCLabs Photo Enhancer AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
 
-#### 使用 AI 即时为您的产品创建精彩内容
-[Visit](https://www.thataicollection.com/redirect/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AVcLabs AI 照片增强器：使用 AI 轻松提高照片质量 
 
-ProductShots.ai 是领先的生成式 AI 工具，可创建令人惊叹的产品图片，以吸引您的客户并提高转化率。ProductShots.ai 使用我们的 AI 图像生成和编辑工具，帮助电子商务品牌在几秒钟内生成独特而令人难忘的产品图片。
+[Visit](https://www.thataicollection.com/redirect/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+一体式 AI 照片增强器可通过自动去噪、去毛刺、锐化、调整颜色和色调来提高照片质量，并在不牺牲质量的情况下将图像放大多达 400%。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
