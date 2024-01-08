@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=996" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1000" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -142,115 +142,117 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
-### ProductShots.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-productshots.ai.webp" alt="ProductShots.ai">
+### NSFWGirlfriend
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nsfwgirlfriend.webp" alt="NSFWGirlfriend">
 
-#### Create stunning content for your products instantly with AI
-[Visit](https://www.thataicollection.com/redirect/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### NSFWGirlfriend: Dive into Authentic, Uninhibited NSFW Character AI Chats with Zero Restrictions.
+[Visit](https://www.thataicollection.com/redirect/nsfwgirlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-ProductShots.ai is the leading generative AI tool that creates stunning product images to engage your customers and drive conversions. ProductShots.ai helps ecommerce brands generate unique & memorable product images in seconds with our AI image generation & editing tools.
+Indulge in Unrestricted NSFW Character AI Chats. Craft Your AI Characters and Encounter Genuine, Boundless NSFW Engagements. Unleash the Creativity of Shaping Your Unique AI Persona. Dive In Today!
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Room Reinvented
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-room-reinvented.webp" alt="Room Reinvented">
-
-#### Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
-[Visit](https://www.thataicollection.com/redirect/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Transform your room effortlessly. Simply upload a picture of your existing space, and let Room Reinvented work its magic. Explore over 30 unique styles, ranging from Minimalism to Baroque, and experiment with over 20 stunning color palettes. Organize your ideas in a convenient lookbook to keep your vision organized and fresh.
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/nsfwgirlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Inworld
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-inworld.webp" alt="Inworld">
+### MoneyCoach
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
 
-#### Inworld AI – Create AI Characters and Ask Them Anything
-[Visit](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### MoneyCoach - Modern Money Manager And Budgeting App
 
-Create AI characters and NPCs for games, metaverse, and business applications – or just for fun. You can talk to AI characters about anything. Its easy, free, and full of possibilities.
+[Visit](https://www.thataicollection.com/redirect/moneycoach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/inworld?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+MoneyCoach is a personal finance app that helps you manage your money, budget, and track your spending. Available for iPhone, iPad, Mac and Apple Watch.
 
 
-
-
-### Auto Draw
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-auto-draw.webp" alt="Auto Draw">
-
-#### AutoDraw by Google Creative Lab - Experiments with Google
-
-[Visit](https://www.thataicollection.com/redirect/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AutoDraw is a new kind of drawing tool. It pairs machine learning with drawings from talented artists to help everyone create anything visual, fast. There’s nothing to download. Nothing to pay for. And it works anywhere: smartphone, tablet, laptop, desktop, etc. 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/auto-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/moneycoach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Sourcely
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sourcely.webp" alt="Sourcely">
+### Videodubber.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber.ai.webp" alt="Videodubber.ai">
 
-#### Sourcely- Finish Your Research in Minutes. Save Your Sleep.
-[Visit](https://www.thataicollection.com/redirect/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Videodubber: AI video Translation, Text-to-Speech Services
+[Visit](https://www.thataicollection.com/redirect/videodubber.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AI-powered literature sourcing tool that quickly retrieves relevant texts based on user input. With advanced natural language processing techniques, it provides easy access to diverse information sources, saving time and effort. Get help from Sourcely AI.
+Free AI-powered spanish to english video translation, voice cloning and text-to-speech. Scale with us to 30+ languages to 10x your audience size!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/videodubber.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
 
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+### Photo to Anime
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-to-anime.webp" alt="Photo to Anime">
+
+#### Privacy-Centric AI Anime Filter for Memory Keepers
+[Visit](https://www.thataicollection.com/redirect/photo-to-anime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Features:
+- Photo to Anime Conversion: turn photos into anime style on your own device without worrying about privacy issues from uploading
+- Text to Anime Creation: create anime style image through text prompt
+- Privacy-Centric Design: your photo will not be uploaded to the cloud, the anime filter is done on your own device
+- Totally Free, no login need
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/photo-to-anime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Beb AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-beb-ai.webp" alt="Beb AI">
+### Drawing Prompt
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-drawing-prompt.webp" alt="Drawing Prompt">
 
-#### Beb.Ai - Receive endless creative content for your brand
-[Visit](https://www.thataicollection.com/redirect/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI-Enhanced Prompts Generator for Every Artist
+[Visit](https://www.thataicollection.com/redirect/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-The Possibilities Are Endless, Zero Design Skills Required.
-✓ Engaging Social Media Posts
-✓ Pattern Interupt Ads
-✓ Marketing Campaigns
-✓ Dynamic Marketing Materials
-✓ Holiday Cards
-✓ Or Just FOR FUN!
+Drawing Prompt is a free tool designed for AI art enthusiasts. It offers:
+1. Prompt Expansion: Converts simple words into detailed, creative prompts.
+2. Random Prompt Exploration: Generates random prompts for those seeking surprises and the joy of exploration, perfect when you're unsure what to create.
+3. Image Creation: Uses the SDXL model to turn prompts into stunning visual art.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### OpenTyper
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-opentyper.webp" alt="OpenTyper">
+### AVCLabs Photo Enhancer AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
 
-#### OpenTyper - AI-powered copywriter that writes for you.
-[Visit](https://www.thataicollection.com/redirect/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AVCLabs AI Photo Enhancer: Enhance Photo Quality at Ease with AI 
 
-AI Writing Assistant with Power and Ease. Save time and write better content with Opentyper. Our 70+ writing templates and wizard make it easy for you to create high-quality content faster than ever.
+[Visit](https://www.thataicollection.com/redirect/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+All-in-one AI photo enhancer to enhance photo quality by automatically denoising, deburring, sharpening, adjusting color and tone, and upscale image by up to 400% without sacrificing the quality.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AVCLabs PhotoPro AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photopro-ai.webp" alt="AVCLabs PhotoPro AI">
+
+#### AI Photo Editor: Enhance Everything in Your Photo Editing | AVCLabs
+
+[Visit](https://www.thataicollection.com/redirect/avclabs-photopro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+The specialized AI-assisted photo editing tool, offering professional photo editing tools such as removing objects and backgrounds, enhancing photo quality, increasing photo resolution, colorizing black-and-white photos, portrait retouching, and photo stylization.
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/avclabs-photopro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3128,15 +3130,16 @@ HitPaw Online AI Photo Enhancer uses advanced AI technology to remove noise, sha
 <br />
 
 
-### ProductShots.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-productshots.ai.webp" alt="ProductShots.ai">
+### AVCLabs Photo Enhancer AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
 
-#### Create stunning content for your products instantly with AI
-[Visit](https://www.thataicollection.com/redirect/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AVCLabs AI Photo Enhancer: Enhance Photo Quality at Ease with AI 
 
-ProductShots.ai is the leading generative AI tool that creates stunning product images to engage your customers and drive conversions. ProductShots.ai helps ecommerce brands generate unique & memorable product images in seconds with our AI image generation & editing tools.
+[Visit](https://www.thataicollection.com/redirect/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/productshots.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+All-in-one AI photo enhancer to enhance photo quality by automatically denoising, deburring, sharpening, adjusting color and tone, and upscale image by up to 400% without sacrificing the quality.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
