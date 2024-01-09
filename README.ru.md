@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1000" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1004" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -136,6 +136,25 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### Pandalyst
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pandalyst.webp" alt="Pandalyst">
+
+#### Pandalyst — это инструмент для быстрого и безошибочного написания SQL-запросов путем генерации высокопроизводительных SQL-запросов с помощью искусственного интеллекта из подсказок пользователя.
+[Visit](https://www.thataicollection.com/redirect/pandalyst?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Pandalyst позволяет вам предоставить подробную информацию о вашей базе данных.
+
+После этого Pandalyst преобразует введенные данные в структурированные и упрощенные SQL-запросы. С помощью Pandalyst вы можете сэкономить энергию и сосредоточиться, а также сосредоточиться на основных обязанностях.
+
+Раскройте весь потенциал своих данных, независимо от того, являетесь ли вы новичком или профессионалом, с помощью удобного интерфейса Pandalyst.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/pandalyst?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### NSFWGirlfriend
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nsfwgirlfriend.webp" alt="NSFWGirlfriend">
 
@@ -236,24 +255,24 @@ Drawing Prompt — это бесплатный инструмент, разра�
 
 
 
-### AVCLabs PhotoPro AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photopro-ai.webp" alt="AVCLabs PhotoPro AI">
+## Бухгалтерский учет и финансы
 
-#### Редактор фотографий с искусственным интеллектом: улучшите все возможности редактирования фотографий | AVCLabs
+### MoneyCoach
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
 
-[Visit](https://www.thataicollection.com/redirect/avclabs-photopro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### MoneyCoach - современное приложение для управления капиталом и бюджетирования
 
-Специализированный инструмент для редактирования фотографий с использованием искусственного интеллекта, предлагающий профессиональные инструменты для редактирования фотографий, такие как удаление объектов и фона, улучшение качества фотографий, увеличение разрешения фотографий, раскрашивание черно-белых фотографий, ретушь портретов и стилизация фотографий.
+[Visit](https://www.thataicollection.com/redirect/moneycoach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+MoneyCoach — это приложение для личных финансов, которое помогает управлять деньгами, бюджетом и отслеживать расходы. Доступно для iPhone, iPad, Mac и Apple Watch.
 
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/avclabs-photopro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/moneycoach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
-
-## Бухгалтерский учет и финансы
 
 ### FlowCog
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-flowcog.webp" alt="FlowCog">
@@ -342,21 +361,6 @@ Stocknews AI — это куратор лучших новых биржевых 
 Привлечение профессионалов отрасли высочайшего уровня для автоматизации рутинных задач и поддержки принятия сложных решений. Получите ранний доступ к Eilla прямо сейчас.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### GooseAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gooseai.webp" alt="GooseAI">
-
-#### Gooseai — прекратите переплачивать за инфраструктуру искусственного интеллекта.
-[Visit](https://www.thataicollection.com/redirect/gooseai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-GooseAI — это полностью управляемый сервис NLP как услуга, предоставляемый через API. В этом отношении он сопоставим с OpenAI. Более того, он полностью совместим с API доработки OpenAI!
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/gooseai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

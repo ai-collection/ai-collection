@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1000" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1004" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>कपड़े उतारना.vip—2023 सबसे अच्छा 100% काम करने वाला अनड्रेस ऐ डीप न्यूड </h4>
-    <p>Undress.vip, एक ज़बरदस्त एयर टूल, जो इस प्रगति में सबसे आगे है। undress.vip—2023 सबसे अच्छा 100% वर्किंग एआई डीपन्यूड और डीपफ़ेक टेलीग्राम अनड्रेस एयर बॉट्स</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Undress.Vip के साथ आरंभ करें</b></a>
+    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
+    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
     </a>
-    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
-    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
+    <h4>कपड़े उतारना.vip—2023 सबसे अच्छा 100% काम करने वाला अनड्रेस ऐ डीप न्यूड </h4>
+    <p>Undress.vip, एक ज़बरदस्त एयर टूल, जो इस प्रगति में सबसे आगे है। undress.vip—2023 सबसे अच्छा 100% वर्किंग एआई डीपन्यूड और डीपफ़ेक टेलीग्राम अनड्रेस एयर बॉट्स</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Undress.Vip के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -135,6 +135,25 @@
 - 📊 [स्लाइड और प्रस्तुतियाँ](#स्लाइड-और-प्रस्तुतियाँ)
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
+
+### Pandalyst
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pandalyst.webp" alt="Pandalyst">
+
+#### Pandalyst यूज़र के संकेतों से AI के साथ उच्च प्रदर्शन करने वाले SQL क्वेरीज़ जेनरेट करके SQL क्वेरीज़ को तेज़ी से और बिना किसी त्रुटि के लिखने का एक टूल है।
+[Visit](https://www.thataicollection.com/redirect/pandalyst?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Pandalyst से तुम्हेंं अपने डेटाबेस के बारे में जानकारी मिलती है।
+
+इससे, Pandalyst तुम्हारे इनपुट को स्ट्रक्चर्ड और सरल SQL क्वेरीज़ में बदल देता है। Pandalyst की मदद से, तुम ऊर्जा बचा सकते हो और ध्यान केंद्रित कर सकते हो, जिससे तुम्हेंं ज़रूरी कामों पर ज़ोर दिया जा सकता है।
+
+Pandalyst के यूज़र फ़्रेंडली इंटरफ़ेस की मदद से, चाहे तुम नौसिखिए हो या पेशेवर, अपने डेटा की पूरी क्षमता को अनलॉक करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/pandalyst?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### NSFWGirlfriend
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nsfwgirlfriend.webp" alt="NSFWGirlfriend">
@@ -236,24 +255,24 @@ MoneyCoach एक पर्सनल फाइनेंस ऐप है, जो
 
 
 
-### AVCLabs PhotoPro AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photopro-ai.webp" alt="AVCLabs PhotoPro AI">
+## लेखा और वित्त
 
-#### AI फ़ोटो एडिटर: अपने फ़ोटो एडिटिंग में सब कुछ बेहतर बनाएँ | AVCLabs
+### MoneyCoach
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
 
-[Visit](https://www.thataicollection.com/redirect/avclabs-photopro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### MoneyCoach - मॉडर्न मनी मैनेजर और बजट ऐप
 
-विशेष एआई-असिस्टेड फ़ोटो एडिटिंग टूल, जिसमें पेशेवर फ़ोटो एडिटिंग टूल जैसे ऑब्जेक्ट और बैकग्राउंड हटाना, फ़ोटो क्वालिटी बढ़ाना, फ़ोटो रिज़ॉल्यूशन बढ़ाना, श्वेत-श्याम तस्वीरों को रंगना, पोर्ट्रेट रीटचिंग और फ़ोटो स्टाइलाइज़ेशन जैसे पेशेवर फ़ोटो एडिटिंग टूल की पेशकश की जाती है।
+[Visit](https://www.thataicollection.com/redirect/moneycoach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+MoneyCoach एक पर्सनल फाइनेंस ऐप है, जो तुम्हेंं अपने पैसे, बजट और अपने खर्च को ट्रैक करने में मदद करता है। iPhone, iPad, Mac और Apple Watch के लिए उपलब्ध है।
 
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/avclabs-photopro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/moneycoach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
-
-## लेखा और वित्त
 
 ### FlowCog
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-flowcog.webp" alt="FlowCog">
@@ -342,21 +361,6 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 सांसारिक कार्यों को स्वचालित करने और जटिल निर्णय लेने में सहायता करने के लिए उच्चतम गुणवत्ता वाले उद्योग के पेशेवरों को पेश करना। अभी ईल्ला तक जल्दी पहुँच पाओ।
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### GooseAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gooseai.webp" alt="GooseAI">
-
-#### Gooseai - अपने AI इंफ़्रास्ट्रक्चर के लिए ज़्यादा भुगतान करना बंद करो।
-[Visit](https://www.thataicollection.com/redirect/gooseai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-GooseAI API के ज़रिए डिलीवर की जाने वाली पूरी तरह से प्रबंधित NLP-A-A-S-A-Service है, इस संबंध में इसकी तुलना OpenAI से की जा सकती है। और इससे भी बढ़कर, यह OpenAI के कंप्लीशन API के साथ पूरी तरह से संगत है!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/gooseai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

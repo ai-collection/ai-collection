@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1000" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1004" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>कपड़े उतारना.vip—2023 सबसे अच्छा 100% काम करने वाला अनड्रेस ऐ डीप न्यूड </h4>
-    <p>Undress.vip, एक ज़बरदस्त एयर टूल, जो इस प्रगति में सबसे आगे है। undress.vip—2023 सबसे अच्छा 100% वर्किंग एआई डीपन्यूड और डीपफ़ेक टेलीग्राम अनड्रेस एयर बॉट्स</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Undress.Vip के साथ आरंभ करें</b></a>
+    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
+    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
     </a>
-    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
-    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
+    <h4>कपड़े उतारना.vip—2023 सबसे अच्छा 100% काम करने वाला अनड्रेस ऐ डीप न्यूड </h4>
+    <p>Undress.vip, एक ज़बरदस्त एयर टूल, जो इस प्रगति में सबसे आगे है। undress.vip—2023 सबसे अच्छा 100% वर्किंग एआई डीपन्यूड और डीपफ़ेक टेलीग्राम अनड्रेस एयर बॉट्स</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Undress.Vip के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -582,6 +582,7 @@
 | [Klu](https://www.thataicollection.com/redirect/klu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Klu.ai एक ऑल-इन-वन प्लेटफ़ॉर्म है जिसे AI टीमों के लिए जेनेरेटिव AI ऐप्लिकेशन बनाने, तैनात करने और ऑप्टिमाइज़ करने के लिए डिज़ाइन किया गया है।. | Klu.ai एक ऑल-इन-वन प्लेटफ़ॉर्म है जिसे AI टीमों के लिए जेनेरेटिव AI ऐप्लिकेशन बनाने, तैनात करने और ऑप्टिमाइज़ करने के लिए डिज़ाइन किया गया है। यह यूज़र, क्लू स्टूडियो नामक सहज इंटरफ़ेस का उपयोग करके जेनेरेटिव AI सुविधाओं और ऐप्स को आसानी से डिज़ाइन करने, विकसित करने और फिर से शुरू करने की सुविधा देता है।. | :white_check_mark: |
 | [Kyligence Copilot](https://www.thataicollection.com/redirect/kyligence-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डेटा के लिए AI कोपायलट के साथ अपने KPI को एक्सेल करें. | काइलिगेंस कोपायलट से मिलें - डेटा के लिए आपका एआई कोपायलट। बस चैट करें, पूछें और खोजें। हमारा AI-संचालित चैटबॉट आपके व्यावसायिक मेट्रिक्स को समझता है, जिससे आप अपने KPI का मूल्यांकन कर सकते हैं, सिफारिशें प्रदान कर सकते हैं, तकनीकी विशेषज्ञता की आवश्यकता के बिना, प्राकृतिक भाषा में डेटा उत्पाद बना सकते हैं।. | :white_check_mark: |
 | [Mutable.ai](https://www.thataicollection.com/redirect/mutable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Mutableai। एआई त्वरित सॉफ्टवेयर विकास।. | एआई का उपयोग करके उत्पादन गुणवत्ता के साथ तेजी से निर्माण करें।. | :grey_question: |
+| [Pandalyst](https://www.thataicollection.com/redirect/pandalyst?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pandalyst यूज़र के संकेतों से AI के साथ उच्च प्रदर्शन करने वाले SQL क्वेरीज़ जेनरेट करके SQL क्वेरीज़ को तेज़ी से और बिना किसी त्रुटि के लिखने का एक टूल है।. | Pandalyst से तुम्हेंं अपने डेटाबेस के बारे में जानकारी मिलती है।  इससे, Pandalyst तुम्हारे इनपुट को स्ट्रक्चर्ड और सरल SQL क्वेरीज़ में बदल देता है। Pandalyst की मदद से, तुम ऊर्जा बचा सकते हो और ध्यान केंद्रित कर सकते हो, जिससे तुम्हेंं ज़रूरी कामों पर ज़ोर दिया जा सकता है।  Pandalyst के यूज़र फ़्रेंडली इंटरफ़ेस की मदद से, चाहे तुम नौसिखिए हो या पेशेवर, अपने डेटा की पूरी क्षमता को अनलॉक करें।. | :white_check_mark: |
 | [QueryGenie](https://www.thataicollection.com/redirect/querygenie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डीबी प्रश्न तेजी से लिखें!. | एआई का उपयोग करके सादे-अंग्रेजी विवरण से डेटाबेस प्रश्न उत्पन्न करें।. | :grey_question: |
 | [Rome AI](https://www.thataicollection.com/redirect/rome-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने डेटा को संवादी तरीके से क्वेरी करें. | रोम एआई आपके डेटा स्रोत से जुड़ता है, विश्लेषण करता है और आपके अपने डेटा के साथ संवादात्मक चर्चा की अनुमति देता है! रोम एक एआई संचालित नो-कोड डेटा सक्षमता और विश्लेषण परत है, जो गैर-तकनीकी कर्मचारियों को अलौकिक डेटा विश्लेषक बनने के लिए सशक्त बनाता है।. | :white_check_mark: |
 | [Scale](https://www.thataicollection.com/redirect/scale?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्केल एआई: तुम्हारे डेटा के साथ पावर जनरेटिव एआई. | विश्व स्तरीय कंपनियों पर भरोसा किया जाता है, स्केल AI अनुप्रयोगों के लिए उच्च गुणवत्ता वाला प्रशिक्षण डेटा देता है, जैसे कि सेल्फ-ड्राइविंग कार, मैपिंग, AR/VR, रोबोटिक्स आदि। सबसे अच्छे डेटा के साथ सबसे अच्छे मॉडल बनाओ। स्केल डेटा इंजन तुम्हारे एंटरप्राइज़ डेटा का फ़ायदा उठाता है, और स्केल जेनेरेटिव AI प्लेटफ़ॉर्म के साथ, AI के मान को सुरक्षित रूप से अनलॉक करता है।. | :grey_question: |
