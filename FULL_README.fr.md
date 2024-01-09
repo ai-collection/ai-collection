@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1000" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1004" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>undress.vip—Le meilleur déshabillage 100 % fonctionnel de 2023 sur deepnude </h4>
-    <p>Undress.vip, un outil d'IA révolutionnaire qui joue un rôle de premier plan dans cette progression. undress.vip—2023 best 100 % Working AI Deepnude & Deepfake Telegram Undress AI Bots</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Undress.Vip</b></a>
+    <h4>Podwise, la meilleure application d'apprentissage basée sur l'IA pour les auditeurs de podcasts.</h4>
+    <p>Avec Podwise, tu peux apprendre grâce à des connaissances structurées et écouter de manière sélective les chapitres qui suscitent ton intérêt. Cette fonctionnalité te permet d'optimiser ton expérience d'apprentissage et de te concentrer sur le contenu qui compte le plus pour toi.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Podwise</b></a>
     <br />
 </div>
 
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
     </a>
-    <h4>Podwise, la meilleure application d'apprentissage basée sur l'IA pour les auditeurs de podcasts.</h4>
-    <p>Avec Podwise, tu peux apprendre grâce à des connaissances structurées et écouter de manière sélective les chapitres qui suscitent ton intérêt. Cette fonctionnalité te permet d'optimiser ton expérience d'apprentissage et de te concentrer sur le contenu qui compte le plus pour toi.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Podwise</b></a>
+    <h4>undress.vip—Le meilleur déshabillage 100 % fonctionnel de 2023 sur deepnude </h4>
+    <p>Undress.vip, un outil d'IA révolutionnaire qui joue un rôle de premier plan dans cette progression. undress.vip—2023 best 100 % Working AI Deepnude & Deepfake Telegram Undress AI Bots</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Undress.Vip</b></a>
     <br />
 </div>
 
@@ -229,6 +229,7 @@
 | [Klu](https://www.thataicollection.com/redirect/klu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Klu.ai est une plateforme tout-en-un conçue pour permettre aux équipes d'IA de créer, déployer et optimiser des applications d'IA générative. | Klu.ai est une plateforme tout-en-un conçue pour permettre aux équipes d'IA de créer, déployer et optimiser des applications d'IA générative. Il permet aux utilisateurs de concevoir, développer et itérer facilement des fonctionnalités et des applications d'IA générative à l'aide de son interface intuitive appelée Klu Studio. | :white_check_mark: |
 | [Kyligence Copilot](https://www.thataicollection.com/redirect/kyligence-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Excellez vos KPI avec le copilote IA pour les données. | Découvrez Kyligence Copilot - Votre copilote IA pour les données. Discutez, demandez et découvrez. Notre chatbot basé sur l'IA comprend les métriques de votre entreprise, vous permettant d'évaluer vos KPI, de fournir des recommandations, de créer des produits de données en langage naturel, sans avoir besoin d'expertise technique. | :white_check_mark: |
 | [Mutable.ai](https://www.thataicollection.com/redirect/mutable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | MutableAI. Développement logiciel accéléré par l'IA. | Construisez rapidement avec une qualité de production à l'aide de l'IA. | :grey_question: |
+| [Pandalyst](https://www.thataicollection.com/redirect/pandalyst?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pandalyst est un outil qui permet d'écrire des requêtes SQL plus rapidement et sans erreur en générant des requêtes SQL très performantes à l'aide de l'IA à partir des instructions de l'utilisateur. | Pandalyst te permet de fournir des informations sur ta base de données.  À partir de là, Pandalyst transforme tes données en requêtes SQL structurées et rationalisées. Avec Pandalyst, tu peux économiser de l'énergie et te concentrer, ce qui te permet de mettre l'accent sur les tâches essentielles.  Exploitez tout le potentiel de tes données, que tu sois novice ou pro, grâce à l'interface conviviale de Pandalyst. | :white_check_mark: |
 | [QueryGenie](https://www.thataicollection.com/redirect/querygenie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Écrivez des requêtes DB plus rapidement !. | Générez des requêtes de base de données à partir d'une description en anglais simple à l'aide de l'IA. | :grey_question: |
 | [Rome AI](https://www.thataicollection.com/redirect/rome-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Interrogez vos données de manière conversationnelle. | Rome AI se connecte à votre source de données, analyse et permet des discussions conversationnelles avec vos propres données ! Rome est une couche d'activation et d'analyse de données sans code alimentée par l'IA, permettant aux employés non techniques de devenir des analystes de données surhumains. | :white_check_mark: |
 | [Scale](https://www.thataicollection.com/redirect/scale?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Scale Ai : alimente l'IA grâce à tes données. | Bénéficiant de la confiance d'entreprises de renommée mondiale, Scale fournit des données d'entraînement de haute qualité pour des applications d'IA telles que les voitures autonomes, la cartographie, la réalité augmentée et virtuelle, la robotique, etc. Fabrique les meilleurs modèles avec les meilleures données. Scale Data Engine exploite les données de ton entreprise et, grâce à la plateforme d'intelligence artificielle Scale Generative, exploite la valeur de l'IA en toute sécurité. | :grey_question: |

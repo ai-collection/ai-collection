@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1000" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1004" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude </h4>
-    <p>Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Undress.Vip</b></a>
+    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
+    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
     <br />
 </div>
 
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
     </a>
-    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
-    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
+    <h4>undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude </h4>
+    <p>Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人</p>
+    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Undress.Vip</b></a>
     <br />
 </div>
 
@@ -221,6 +221,7 @@
 | [Klu](https://www.thataicollection.com/redirect/klu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Klu.ai 是一个多合一平台，专为 AI 团队构建、部署和优化生成式 AI 应用程序而设计。. | Klu.ai 是一个多合一平台，专为 AI 团队构建、部署和优化生成式 AI 应用程序而设计。它允许用户使用其名为Klu Studio的直观界面轻松设计、开发和迭代生成式人工智能功能和应用程序。. | :white_check_mark: |
 | [Kyligence Copilot](https://www.thataicollection.com/redirect/kyligence-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过 AI Copilot for Data 提高您的 KPI. | 认识一下 Kyligence Copilot – 您的数据人工智能副驾驶。只需聊天、询问和发现即可。我们的人工智能驱动的聊天机器人了解您的业务指标，使您能够评估您的 KPI、提供建议、以自然语言创建数据产品，而无需技术专业知识。. | :white_check_mark: |
 | [Mutable.ai](https://www.thataicollection.com/redirect/mutable.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 可变人工智能。人工智能加速软件开发。. | 使用 AI 以生产质量快速构建。. | :grey_question: |
+| [Pandalyst](https://www.thataicollection.com/redirect/pandalyst?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pandalyst是一种工具，通过根据用户的提示使用AI生成高性能的SQL查询，可以更快地编写SQL查询，而不会出现错误。. | Pandalyst允许您提供有关数据库的详细信息。  由此，Pandalyst将您的输入转换为结构化和简化的SQL查询。使用Pandalyst，您可以节省精力和注意力，从而使您能够强调基本职责。  使用 Pandalyst 的用户友好界面，无论您是新手还是专业人士，都可以释放数据的全部潜力。. | :white_check_mark: |
 | [QueryGenie](https://www.thataicollection.com/redirect/querygenie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 更快地编写数据库查询！. | 使用 AI 从纯英文描述生成数据库查询。. | :grey_question: |
 | [Rome AI](https://www.thataicollection.com/redirect/rome-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 以对话方式查询您的数据. | Rome AI 连接您的数据源、分析并允许与您自己的数据进行对话式讨论！ Rome 是一个人工智能驱动的无代码数据支持和分析层，使非技术员工能够成为超人的数据分析师。. | :white_check_mark: |
 | [Scale](https://www.thataicollection.com/redirect/scale?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Scale Ai：利用您的数据为生成式 AI 提供动力. | Scale 深受世界一流公司的信赖，为自动驾驶汽车、地图、增强现实/虚拟现实、机器人等人工智能应用提供高质量的训练数据。用最好的数据制作最佳模型。Scale Data Engine 利用您的企业数据，借助 Scale Generation AI 平台，安全地释放人工智能的价值。. | :grey_question: |
