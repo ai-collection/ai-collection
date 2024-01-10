@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1004" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1005" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,12 +59,12 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>undress.vip–2023 best 100% Working undress ai deepnude </h4>
-    <p>undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Undress.Vip</b></a>
+    <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
+    <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
     <br />
 </div>
 
@@ -72,12 +72,12 @@ Translations:
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/None" alt="Looka" border="0"/>
     </a>
-    <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
-    <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
+    <h4>Free Logo Maker & Intelligent Brand Designer</h4>
+    <p>Make a logo and build a brand you love with Looka.</p>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Looka</b></a>
     <br />
 </div>
 
@@ -1095,6 +1095,7 @@ Translations:
 | [Post Parrot](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Post Parrot - A Free Marketing Tool for Reddit. | Looking to generate reddit post titles that drive engagement? Checkout out our free digital marketing tool to enhance your post titles for targeted subreddits. | :white_check_mark: |
 | [Predis](https://www.thataicollection.com/redirect/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Social Media Marketing Made Easy With AI - Predis.Ai. | Predis is an AI marketing tool for social media helping businesses make captivating Video and Image content and get AI-powered content analysis. | :white_check_mark: |
 | [PressPulse AI](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Get personalized media coverage leads every morning. | PressPulse AI is an AI-powered assistant that delivers personalized journalist requests and media opportunities daily.   Our service enables busy professionals to secure high-authority backlinks, press coverage and expand your organic reach as a thought leader with just 5 minutes a day.  You'll gain access to top publications including Forbes, Time, VentureBeat, Mashable and more. | :grey_question: |
+| [Remagine AI](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Remagine AI is a content writer tool equipped with 200+ AI templates. | Remagine AI offers a vast library of AI templates and tools, enabling businesses to effortlessly generate top-quality marketing content within seconds. From blog posts and social media updates to ads, youtube scripts, emails, job postings, and e-commerce catalogues, Remagine AI covers it all. | :white_check_mark: |
 | [SimplePhones.ai](https://www.thataicollection.com/redirect/simplephones.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Never Miss a Call From a Customer. | Forward your missed calls, or get a new number, and Simple Phones will answer it using AI. You'll get a phone agent created for your business for free. You just pay 19¢/min for any incoming calls. | :x: |
 | [Speaq.ai](https://www.thataicollection.com/redirect/speaq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ready Made Conversional AI for Your Business. | Our mission is to revolutionize B2B marketing and customer support with artificial intelligence. Effortlessly schedule meetings and verify attendance with AI. Streamline your survey process with AI conversational calls. | :grey_question: |
 | [Tabula](https://www.thataicollection.com/redirect/tabula?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | GPT-powered marketing data analytics. Build multi-touch attribution to see how different marketing channels work together to convert leads into customers. | Tabula is an AI end-to-end analytics platform that enables marketing and sales managers evaluate effectiveness of their campaigns. How it works: - bring data from multiple source at one place in one click - automate KPI and metrics tracking - build camapign reports and performance dashboards - use AI to analyze unstructured data (emails, surveys, PDFs). | :white_check_mark: |
@@ -1418,6 +1419,7 @@ Translations:
 | [OpenTyper](https://www.thataicollection.com/redirect/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | OpenTyper - AI-powered copywriter that writes for you. | AI Writing Assistant with Power and Ease. Save time and write better content with Opentyper. Our 70+ writing templates and wizard make it easy for you to create high-quality content faster than ever. | :white_check_mark: |
 | [Parafrasear](https://www.thataicollection.com/redirect/parafrasear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paraphrase Texts - The Best Online Paraphrasing (100% Free). | Paraphrase texts free online paraphrasing tool. Our Paraphrase.ai paraphrasing tool helps you paraphrase plagiarized content. | :white_check_mark: |
 | [Paragraph AI](https://www.thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Best Free AI Writing Assistant App: ParagraphAI. | Boost your writing skills with the best writing assistant software. This free AI tool improves grammar, spelling, and style. Try it now!. | :white_check_mark: |
+| [Paraphrase Online](https://www.thataicollection.com/redirect/paraphrase-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paraphrase online any text using our AI paraphrasing tool. Paste paragraphs in the input box below and click the “Paraphrase” button. | Paraphrase Online accohas many features that make it one of the best paraphrase tool. Content writers, students, researchers, or even journalists can use this paraphraser to improve and rephrase their content. | :white_check_mark: |
 | [Paraphrasear Online](https://www.thataicollection.com/redirect/paraphrasear-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paraphrase online - Paraphrase texts - 100% Free. | This online paraphrasing is a free tool to paraphrase texts. Use online paraphrasing to eliminate plagiarism. This is an AI-powered online paraphrasing tool, which can easily paraphrase articles, essays, sentences, stories, assignments, research papers and many other types of content. | :white_check_mark: |
 | [Paraphraser](https://www.thataicollection.com/redirect/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Free Paraphrasing for All Languages. | Paraphrase Tool with 15 FREE Modes for 100+ Languages - Rephrases Sentences, Rewords Paragraphs, Rewrites Essays, Checks Grammar and Eliminates Plagiarism. | :white_check_mark: |
 | [Quillbot Paraphraser](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | QuillBot's AI-powered Paraphrasing Tool Will Enhance Your Writing. | Your words matter, and our paraphrasing tool is designed to ensure you use the right ones. With two free modes and five Premium modes to choose from, you can use QuillBot’s online Paraphraser to rephrase any text in a variety of ways. | :white_check_mark: |

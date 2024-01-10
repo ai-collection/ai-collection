@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1004" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1005" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>undress.vip—2023 лучшее 100% рабочее раздевание в обнаженном виде </h4>
-    <p>Undress.vip, новаторский инструмент для искусственного интеллекта, лежащий в авангарде этого прогресса. undress.vip—2023 лучшие телеграмы раздевают искусственные боты с искусственным интеллектом на 100% работающим искусственным интеллектом в стиле deepnude и deepfake</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Undress.Vip</b></a>
+    <h4>Podwise, ведущее приложение для обучения искусственному интеллекту для слушателей подкастов.</h4>
+    <p>С помощью Podwise вы можете учиться на структурированных знаниях и выборочно слушать интересующие вас главы. Эта функция позволяет оптимизировать учебный процесс и сосредоточиться на наиболее важном для вас контенте.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Podwise</b></a>
     <br />
 </div>
 
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/None" alt="Looka" border="0"/>
     </a>
-    <h4>Podwise, ведущее приложение для обучения искусственному интеллекту для слушателей подкастов.</h4>
-    <p>С помощью Podwise вы можете учиться на структурированных знаниях и выборочно слушать интересующие вас главы. Эта функция позволяет оптимизировать учебный процесс и сосредоточиться на наиболее важном для вас контенте.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Podwise</b></a>
+    <h4>Бесплатный конструктор логотипов и интеллектуальный бренд-дизайнер</h4>
+    <p>Создайте логотип и создайте любимый бренд вместе с Looka.</p>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Looka</b></a>
     <br />
 </div>
 
@@ -135,6 +135,36 @@
 - 🛒 [Электронная Торговля](#электронная-торговля)
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
+
+### Remagine AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remagine-ai.webp" alt="Remagine AI">
+
+#### Remagine AI — это инструмент для написания контента, оснащенный более чем 200 шаблонами искусственного интеллекта.
+[Visit](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Remagine AI предлагает обширную библиотеку шаблонов и инструментов искусственного интеллекта, позволяющую компаниям легко создавать высококачественный маркетинговый контент за считанные секунды. Remagine AI охватывает все: от публикаций в блогах и социальных сетях до рекламы, скриптов YouTube, электронных писем, объявлений о вакансиях и каталогов электронной коммерции.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Paraphrase Online
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paraphrase-online.webp" alt="Paraphrase Online">
+
+#### Перефразируйте любой текст онлайн с помощью нашего инструмента перефразирования AI. Вставьте абзацы в поле ввода ниже и нажмите кнопку «Перефразировать».
+[Visit](https://www.thataicollection.com/redirect/paraphrase-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Paraphrase Online имеет множество функций, которые делают его одним из лучших инструментов для перефразирования. Авторы контента, студенты, исследователи и даже журналисты могут использовать этот парафраз, чтобы улучшить и перефразировать свой контент.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/paraphrase-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Pandalyst
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pandalyst.webp" alt="Pandalyst">
@@ -215,40 +245,6 @@ MoneyCoach — это приложение для личных финансов,
 - Абсолютно бесплатно, вход в систему не требуется
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/photo-to-anime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Drawing Prompt
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-drawing-prompt.webp" alt="Drawing Prompt">
-
-#### Генератор подсказок с улучшенным искусственным интеллектом для каждого художника
-[Visit](https://www.thataicollection.com/redirect/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Drawing Prompt — это бесплатный инструмент, разработанный для любителей искусства искусственного интеллекта. Он предлагает:
-1. Быстрое расширение: превращает простые слова в подробные креативные подсказки.
-2. Поиск в случайном порядке: генерирует случайные подсказки для тех, кто жаждет сюрпризов и удовольствия от исследования. Это идеальный вариант, если вы не знаете, что создать.
-3. Создание изображений: использует модель SDXL для превращения подсказок в потрясающее визуальное искусство.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AVCLabs Photo Enhancer AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
-
-#### AVClabs AI Photo Enhancer: легко улучшайте качество фотографий с помощью искусственного интеллекта 
-
-[Visit](https://www.thataicollection.com/redirect/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Универсальный усилитель фотографий с искусственным интеллектом для улучшения качества фотографий за счет автоматического шумоподавления, удаления заусенцев, повышения резкости, регулировки цвета и тона, а также увеличения изображения до 400% без ущерба для качества.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1854,21 +1850,6 @@ SwagAI — изображения, созданные искусственным
 
 ## Веселье
 
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
-
-#### undress.vip—2023 лучшее 100% рабочее раздевание в обнаженном виде 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress.vip, новаторский инструмент для искусственного интеллекта, лежащий в авангарде этого прогресса. undress.vip—2023 лучшие телеграмы раздевают искусственные боты с искусственным интеллектом на 100% работающим искусственным интеллектом в стиле deepnude и deepfake
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### AI Girlfriend WTF
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
 
@@ -1882,6 +1863,21 @@ Undress.vip, новаторский инструмент для искусств
 Погрузитесь в мир многочисленных девушек с искусственным интеллектом и начните играть прямо сейчас!
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Undress.Vip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+
+#### undress.vip—2023 лучшее 100% рабочее раздевание в обнаженном виде 
+[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress.vip, новаторский инструмент для искусственного интеллекта, лежащий в авангарде этого прогресса. undress.vip—2023 лучшие телеграмы раздевают искусственные боты с искусственным интеллектом на 100% работающим искусственным интеллектом в стиле deepnude и deepfake
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3686,15 +3682,15 @@ Tabula — это комплексная аналитическая платфо
 
 
 
-### GummySearch
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gummysearch.webp" alt="GummySearch">
+### Remagine AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remagine-ai.webp" alt="Remagine AI">
 
-#### Исследование клиентов на основе искусственного интеллекта с помощью Reddit. Узнайте о проблемах, которые необходимо решить, об отношении текущих решений и о людях, которые хотят купить ваш продукт.
-[Visit](https://www.thataicollection.com/redirect/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Remagine AI — это инструмент для написания контента, оснащенный более чем 200 шаблонами искусственного интеллекта.
+[Visit](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-GummySearch — это инструмент для исследования аудитории Reddit на основе искусственного интеллекта. Он позволяет систематически изучать, о чем говорят люди и как они относятся к вашим конкурентам и вашей отрасли. Вы можете использовать его для поиска проблемных мест и решений, которые нужно найти, идей для создания контента или потенциальных клиентов, с которыми можно связаться. 
+Remagine AI предлагает обширную библиотеку шаблонов и инструментов искусственного интеллекта, позволяющую компаниям легко создавать высококачественный маркетинговый контент за считанные секунды. Remagine AI охватывает все: от публикаций в блогах и социальных сетях до рекламы, скриптов YouTube, электронных писем, объявлений о вакансиях и каталогов электронной коммерции.
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

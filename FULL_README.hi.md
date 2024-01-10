@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1004" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1005" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/None" alt="Looka" border="0"/>
     </a>
-    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
-    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
+    <h4>नि: शुल्क लोगो निर्माता और बुद्धिमान ब्रांड डिजाइनर</h4>
+    <p>एक लोगो बनाएं और एक ब्रांड बनाएं जिसे आप लुका से प्यार करते हैं।</p>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Looka के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>कपड़े उतारना.vip—2023 सबसे अच्छा 100% काम करने वाला अनड्रेस ऐ डीप न्यूड </h4>
-    <p>Undress.vip, एक ज़बरदस्त एयर टूल, जो इस प्रगति में सबसे आगे है। undress.vip—2023 सबसे अच्छा 100% वर्किंग एआई डीपन्यूड और डीपफ़ेक टेलीग्राम अनड्रेस एयर बॉट्स</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Undress.Vip के साथ आरंभ करें</b></a>
+    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
+    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -624,6 +624,7 @@
 | [Post Parrot](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पोस्ट पैरट - रेडिट के लिए मुफ़्त मार्केटिंग टूल. | क्या आप रेडिट पोस्ट टाइटल जेनरेट करना चाहते हैं जो एंगेजमेंट बढ़ाए? लक्षित सबरेडिट्स के लिए अपने पोस्ट टाइटल को बेहतर बनाने के लिए हमारा मुफ़्त डिजिटल मार्केटिंग टूल देखें।. | :white_check_mark: |
 | [Predis](https://www.thataicollection.com/redirect/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI के ज़रिए सोशल मीडिया मार्केटिंग को आसान बनाया गया - Predis.Ai. | प्रेडिस सोशल मीडिया के लिए AI मार्केटिंग टूल है, जो बिज़नेस को आकर्षक वीडियो और छवि कॉन्टेंट बनाने और AI-संचालित कंटेंट का विश्लेषण करने में मदद करता है।. | :white_check_mark: |
 | [PressPulse AI](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हर सुबह वैयक्तिकृत मीडिया कवरेज लीड पाओ।. | PressPulse AI, AI-संचालित सहायक है, जो रोज़ाना व्यक्तिगत पत्रकार अनुरोध और मीडिया के अवसर प्रदान करता है।   हमारी सेवा की मदद से व्यस्त पेशेवर हाई-अथॉरिटी बैकलिंक सुरक्षित कर सकते हैं, कवरेज कर सकते हैं और एक थॉट लीडर के तौर पर सिर्फ़ 5 मिनट की मदद से अपनी ऑर्गेनिक पहुंच बढ़ा सकते हैं।  तुम्हेंं फ़ोर्ब्स, टाइम, वेंचरबीट, मैशेबल आदि सहित टॉप प्रकाशनों का ऐक्सेस मिलेगा।. | :grey_question: |
+| [Remagine AI](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रीमैगीन एआई एक कंटेंट राइटर टूल है, जो 200+ एआई टेम्प्लेट से लैस है।. | Remagine AI, AI टेम्प्लेट और टूल की एक विशाल लाइब्रेरी प्रदान करता है, जिससे बिज़नेस कुछ ही सेकंड में आसानी से उच्च गुणवत्ता वाली मार्केटिंग सामग्री जेनरेट कर सकते हैं। ब्लॉग पोस्ट और सोशल मीडिया अपडेट से लेकर विज्ञापन, यूट्यूब स्क्रिप्ट, ईमेल, जॉब पोस्टिंग और ई-कॉमर्स कैटलॉग तक, Remagine AI में यह सब शामिल है।. | :white_check_mark: |
 | [SimplePhones.ai](https://www.thataicollection.com/redirect/simplephones.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | किसी ग्राहक की कॉल मिस न करें. | अपने छूटे हुए कॉल को अग्रेषित करें, या एक नया नंबर प्राप्त करें, और सरल फ़ोन एआई का उपयोग करके इसका उत्तर देंगे। आपको अपने व्यवसाय के लिए निःशुल्क एक फ़ोन एजेंट बनाया जाएगा। आप किसी भी इनकमिंग कॉल के लिए केवल 19¢/मिनट का भुगतान करते हैं. | :x: |
 | [Speaq.ai](https://www.thataicollection.com/redirect/speaq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके व्यवसाय के लिए रेडी मेड रूपांतरण एआई. | हमारा मिशन आर्टिफिशियल इंटेलिजेंस के साथ बी2बी मार्केटिंग और कस्टमर सपोर्ट में क्रांति लाना है। सहजता से मीटिंग शेड्यूल करें और AI के साथ उपस्थिति सत्यापित करें। एआई संवादी कॉल के साथ अपनी सर्वेक्षण प्रक्रिया को व्यवस्थित करें।. | :grey_question: |
 | [Tabula](https://www.thataicollection.com/redirect/tabula?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | GPT-संचालित मार्केटिंग डेटा एनालिटिक्स। मल्टी-टच एट्रिब्यूशन बनाएं, यह देखने के लिए कि लीड को ग्राहकों में बदलने के लिए अलग-अलग मार्केटिंग चैनल एक साथ कैसे काम करते हैं. | तबुला एक AI एंड-टू-एंड एनालिटिक्स प्लेटफ़ॉर्म है, जो मार्केटिंग और सेल्स मैनेजरों को अपने अभियानों की प्रभावशीलता का मूल्यांकन करने में मदद करता है। यह काम किस प्रकार करता है: - एक क्लिक में एक ही जगह पर कई स्रोतों से डेटा लाना - KPI और मेट्रिक्स ट्रैकिंग को ऑटोमेटिक करें - कैंपेन रिपोर्ट और परफ़ॉर्मेंस डैशबोर्ड बनाएं - असंरचित डेटा का विश्लेषण करने के लिए AI का इस्तेमाल करें (ईमेल, सर्वे, PDF). | :white_check_mark: |
@@ -1055,6 +1056,7 @@
 | [OpenTyper](https://www.thataicollection.com/redirect/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ओपनटाइपर - एआई-संचालित कॉपीराइटर जो तुम्हारे लिए लिखता है।. | पावर एंड ईज़ी के साथ एआई राइटिंग असिस्टेंट। समय बचाएं और OpenTyper के ज़रिए बेहतर कॉन्टेंट लिखें। हमारे 70+ राइटिंग टेम्प्लेट और विज़ार्ड से तुम्हारे लिए हाई-क्वालिटी का कॉन्टेंट पहले से कहीं ज़्यादा तेज़ी से बनाना आसान हो जाता है।. | :white_check_mark: |
 | [Parafrasear](https://www.thataicollection.com/redirect/parafrasear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पैराफ़्रेज़ टेक्स्ट - सबसे अच्छा ऑनलाइन पैराफ़्रेसिंग (100% मुफ़्त). | पैराफ़्रेज़ टेक्स्ट मुफ़्त ऑनलाइन पैराफ़्रेसिंग टूल। हमारा Paraphrase.ai पैराफ़्रेसिंग टूल, साहित्यिक सामग्री की व्याख्या करने में तुम्हारी मदद करता है।. | :white_check_mark: |
 | [Paragraph AI](https://www.thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सबसे अच्छा मुफ़्त एआई राइटिंग असिस्टेंट ऐप: पैराग्राफ़ाई. | सबसे अच्छे लेखन सहायक सॉफ़्टवेयर की मदद से अपने लेखन कौशल को बढ़ावा दें। यह मुफ़्त AI टूल व्याकरण, स्पेलिंग और स्टाइल को बेहतर बनाता है। अभी इसे आजमाओ!. | :white_check_mark: |
+| [Paraphrase Online](https://www.thataicollection.com/redirect/paraphrase-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हमारे AI पैराफ़्रेसिंग टूल का इस्तेमाल करके किसी भी टेक्स्ट की ऑनलाइन पैराफ़्रेज़ करें। नीचे दिए गए इनपुट बॉक्स में पैराग्राफ़ चिपकाएँ और “पैराफ़्रीज़” बटन पर क्लिक करें।. | पैराफ़्रेज़ ऑनलाइन में ऐसी कई सुविधाएं हैं, जो इसे सबसे अच्छे पैराफ़्रेज़ टूल में से एक बनाती हैं। कॉन्टेंट लेखक, छात्र, रिसर्चर, या पत्रकार भी अपनी सामग्री को बेहतर बनाने और फिर से लिखने के लिए इस पैराफ़्रेज़र का इस्तेमाल कर सकते हैं।. | :white_check_mark: |
 | [Paraphrasear Online](https://www.thataicollection.com/redirect/paraphrasear-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पैराफ़्रेज़ ऑनलाइन - पैराफ़्रेज़ टेक्स्ट - 100% मुफ़्त. | यह ऑनलाइन पैराफ़्रेसिंग टेक्स्ट की व्याख्या करने के लिए एक मुफ़्त टूल है। साहित्यिक चोरी को ख़त्म करने के लिए ऑनलाइन पैराफ़्रेशिंग का इस्तेमाल करें। यह AI-संचालित ऑनलाइन पैराफ़्रेसिंग टूल है, जो लेखों, निबंधों, वाक्यों, कहानियों, असाइनमेंट, शोध पत्रों और कई अन्य प्रकार की सामग्री को आसानी से पैराफ़्रेश कर सकता है।. | :white_check_mark: |
 | [Paraphraser](https://www.thataicollection.com/redirect/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सभी भाषाओं के लिए मुफ़्त पैराफ़्रेसिंग. | 100 से अधिक भाषाओं के लिए 15 मुफ़्त मोड वाला पैराफ़्रेज़ टूल - वाक्य फिर से लिखता है, पैराग्राफ फिर से लिखता है, निबंध फिर से लिखता है, व्याकरण की जाँच करता है और साहित्यिक चोरी को खत्म करता है. | :white_check_mark: |
 | [Quillbot Paraphraser](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | QuillBot का AI-पावर्ड पैराफ़्रेसिंग टूल आपके लेखन को बेहतर बनाएगा. | आपके शब्द मायने रखते हैं, और हमारा व्याख्यात्मक उपकरण यह सुनिश्चित करने के लिए डिज़ाइन किया गया है कि आप सही शब्दों का उपयोग करें। चुनने के लिए दो निःशुल्क मोड और पांच प्रीमियम मोड के साथ, आप QuillBot के ऑनलाइन Paraphraser का उपयोग विभिन्न तरीकों से किसी भी टेक्स्ट को फिर से लिखने के लिए कर सकते हैं।. | :white_check_mark: |

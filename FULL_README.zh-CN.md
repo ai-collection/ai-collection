@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1004" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1005" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/None" alt="Looka" border="0"/>
     </a>
-    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
-    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
+    <h4>免费徽标制作工具和智能品牌设计师</h4>
+    <p>使用 Looka 制作徽标并打造您喜爱的品牌。</p>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Looka</b></a>
     <br />
 </div>
 
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude </h4>
-    <p>Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Undress.Vip</b></a>
+    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
+    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
     <br />
 </div>
 
@@ -377,6 +377,7 @@
 | [OpenTyper](https://www.thataicollection.com/redirect/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | OpenTyper-由人工智能驱动的撰稿人，为你写作。. | AI 写作助手，既强大又简单。使用 Opentyper 可以节省时间并撰写更好的内容。我们的 70 多个写作模板和向导使您可以比以往任何时候都更轻松地创建高质量的内容。. | :white_check_mark: |
 | [Parafrasear](https://www.thataicollection.com/redirect/parafrasear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 释义文本-最佳在线释义（100% 免费）. | 释义文本免费在线释义工具。我们的 Paraphrase.ai 释义工具可帮助您解读抄袭的内容。. | :white_check_mark: |
 | [Paragraph AI](https://www.thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 最佳免费人工智能写作助手应用程序：ParagrapHai. | 使用最好的写作助手软件提高您的写作技巧。这个免费的 AI 工具改进了语法、拼写和风格。现在就试试吧！. | :white_check_mark: |
+| [Paraphrase Online](https://www.thataicollection.com/redirect/paraphrase-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用我们的 AI 释义工具在线解释任何文本。将段落粘贴到下面的输入框中，然后单击 “解释” 按钮。. | Paraphrase Online 具有许多功能，使其成为最好的释义工具之一。内容作家、学生、研究人员甚至记者都可以使用这个解释器来改进和改写他们的内容。. | :white_check_mark: |
 | [Paraphrasear Online](https://www.thataicollection.com/redirect/paraphrasear-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在线解释-释义文本-100% 免费. | 这个在线释义是解读文本的免费工具。使用在线释义来消除抄袭。这是一款由人工智能驱动的在线释义工具，可以轻松解读文章、论文、句子、故事、作业、研究论文和许多其他类型的内容。. | :white_check_mark: |
 | [Paraphraser](https://www.thataicollection.com/redirect/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 所有语言的免费释义. | 释义工具包含 15 种免费模式，适用于 100 多种语言-改写句子、重写段落、重写论文、检查语法并消除抄袭. | :white_check_mark: |
 | [Quillbot Paraphraser](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | QuillBot 的 AI 驱动的释义工具将提高您的写作水平. | 您的话很重要，我们的释义工具旨在确保您使用正确的措辞。有两种免费模式和五种高级模式可供选择，您可以使用 QuillBot 的在线释义器以各种方式改写任何文本。. | :white_check_mark: |
@@ -1388,6 +1389,7 @@
 | [Post Parrot](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Post Parrot-一款适用于 Reddit 的免费营销工具. | 想生成能提高参与度的 reddit 帖子标题？查看我们的免费数字营销工具，为有针对性的subreddits增强您的帖子标题。. | :white_check_mark: |
 | [Predis](https://www.thataicollection.com/redirect/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 轻松进行社交媒体营销-Predis.Ai. | Predis是一款用于社交媒体的人工智能营销工具，可帮助企业制作引人入胜的视频和图像内容，并获得基于人工智能的内容分析。. | :white_check_mark: |
 | [PressPulse AI](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 每天早上获取个性化的媒体报道线索。. | PressPulse AI 是一款由人工智能驱动的助手，每天提供个性化的记者请求和媒体机会。   我们的服务使忙碌的专业人士每天只需5分钟即可获得高权威的反向链接、新闻报道并扩大您作为思想领袖的自然影响力。  你可以访问包括《福布斯》、《时代》、《VentureBeat》、《Mashable》等热门出版物。. | :grey_question: |
+| [Remagine AI](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Remagine AI 是一款内容编写工具，配备 200 多个人工智能模板。. | Remagine AI 提供了庞大的 AI 模板和工具库，使企业能够在几秒钟内轻松生成高质量的营销内容。从博客文章和社交媒体更新到广告、YouTube脚本、电子邮件、招聘信息以及电子商务目录，Remagine AI涵盖了所有内容。. | :white_check_mark: |
 | [SimplePhones.ai](https://www.thataicollection.com/redirect/simplephones.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 绝不会错过客户的来电. | 转接未接来电或获取新号码，Simple Phones 将使用 AI 接听。您将免费获得为您的企业创建的电话代理。您只需为任何来电支付 19 美分/分钟. | :x: |
 | [Speaq.ai](https://www.thataicollection.com/redirect/speaq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为您的企业现成的转换 AI. | 我们的使命是通过人工智能彻底改变 B2B 营销和客户支持。使用 AI 轻松安排会议并验证出席情况。通过 AI 对话呼叫简化您的调查流程。. | :grey_question: |
 | [Tabula](https://www.thataicollection.com/redirect/tabula?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | GPT 支持的营销数据分析。建立多点触控归因，了解不同的营销渠道如何协同合作，将潜在客户转化为客户. | Tabula是一个人工智能端到端分析平台，使营销和销售经理能够评估其活动的有效性。它是如何工作的： -一键从多个来源获取数据 -自动跟踪 KPI 和指标 -生成活动报告和绩效仪表板 -使用人工智能分析非结构化数据（电子邮件、调查、PDF）. | :white_check_mark: |
