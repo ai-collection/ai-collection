@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1004" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1005" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/None" alt="Looka" border="0"/>
     </a>
-    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
-    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
+    <h4>免费徽标制作工具和智能品牌设计师</h4>
+    <p>使用 Looka 制作徽标并打造您喜爱的品牌。</p>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Looka</b></a>
     <br />
 </div>
 
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude </h4>
-    <p>Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Undress.Vip</b></a>
+    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
+    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
     <br />
 </div>
 
@@ -135,6 +135,36 @@
 - 💰 [销售与市场营销](#销售与市场营销)
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
+
+### Remagine AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remagine-ai.webp" alt="Remagine AI">
+
+#### Remagine AI 是一款内容编写工具，配备 200 多个人工智能模板。
+[Visit](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Remagine AI 提供了庞大的 AI 模板和工具库，使企业能够在几秒钟内轻松生成高质量的营销内容。从博客文章和社交媒体更新到广告、YouTube脚本、电子邮件、招聘信息以及电子商务目录，Remagine AI涵盖了所有内容。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Paraphrase Online
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paraphrase-online.webp" alt="Paraphrase Online">
+
+#### 使用我们的 AI 释义工具在线解释任何文本。将段落粘贴到下面的输入框中，然后单击 “解释” 按钮。
+[Visit](https://www.thataicollection.com/redirect/paraphrase-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Paraphrase Online 具有许多功能，使其成为最好的释义工具之一。内容作家、学生、研究人员甚至记者都可以使用这个解释器来改进和改写他们的内容。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/paraphrase-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 
 ### Pandalyst
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pandalyst.webp" alt="Pandalyst">
@@ -215,40 +245,6 @@ MoneyCoach是一款个人理财应用程序，可帮助您管理资金、预算�
 -完全免费，无需登录
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/photo-to-anime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Drawing Prompt
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-drawing-prompt.webp" alt="Drawing Prompt">
-
-#### 适用于每位艺术家的 AI 增强提示生成器
-[Visit](https://www.thataicollection.com/redirect/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Drawing Prompt 是一款专为 AI 艺术爱好者设计的免费工具。它提供：
-1。提示扩展：将简单的单词转换为详细、有创意的提示。
-2。随机提示探索：为那些寻求惊喜和探索乐趣的人生成随机提示，当你不确定要创作什么时，这是完美的选择。
-3.图像创作：使用 SDXL 模型将提示变成令人惊叹的视觉艺术。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AVCLabs Photo Enhancer AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
-
-#### AVcLabs AI 照片增强器：使用 AI 轻松提高照片质量 
-
-[Visit](https://www.thataicollection.com/redirect/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-一体式 AI 照片增强器可通过自动去噪、去毛刺、锐化、调整颜色和色调来提高照片质量，并在不牺牲质量的情况下将图像放大多达 400%。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1856,21 +1852,6 @@ SwaGai-人工智能在T恤上生成了图像。
 
 ## 乐趣
 
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
-
-#### undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### AI Girlfriend WTF
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
 
@@ -1884,6 +1865,21 @@ Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。
 潜入众多 AI 女孩的世界，立即开始玩吧！
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Undress.Vip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+
+#### undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude 
+[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3688,15 +3684,15 @@ Tabula是一个人工智能端到端分析平台，使营销和销售经理能�
 <br />
 
 
-### GummySearch
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gummysearch.webp" alt="GummySearch">
+### Remagine AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remagine-ai.webp" alt="Remagine AI">
 
-#### 通过 Reddit 进行基于人工智能的客户研究。发现需要解决的问题、对当前解决方案的看法以及想要购买您的产品的人。
-[Visit](https://www.thataicollection.com/redirect/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Remagine AI 是一款内容编写工具，配备 200 多个人工智能模板。
+[Visit](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-GummySearch 是一款基于 AI 的 Reddit 受众研究工具。它使您可以系统地研究人们在谈论什么，以及他们对您的竞争和行业的看法。你可以用它来寻找需要构建的痛点和解决方案、需要创建的内容创意或需要联系的销售线索。 
+Remagine AI 提供了庞大的 AI 模板和工具库，使企业能够在几秒钟内轻松生成高质量的营销内容。从博客文章和社交媒体更新到广告、YouTube脚本、电子邮件、招聘信息以及电子商务目录，Remagine AI涵盖了所有内容。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

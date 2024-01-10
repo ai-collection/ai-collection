@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1004" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1005" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/None" alt="Looka" border="0"/>
     </a>
-    <h4>undress.vip—Le meilleur déshabillage 100 % fonctionnel de 2023 sur deepnude </h4>
-    <p>Undress.vip, un outil d'IA révolutionnaire qui joue un rôle de premier plan dans cette progression. undress.vip—2023 best 100 % Working AI Deepnude & Deepfake Telegram Undress AI Bots</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Undress.Vip</b></a>
+    <h4>Créateur de logo gratuit et concepteur de marque intelligent</h4>
+    <p>Créez un logo et créez une marque que vous aimez avec Looka.</p>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Looka</b></a>
     <br />
 </div>
 
@@ -135,6 +135,36 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 💰 [Ventes Et Marketing](#ventes-et-marketing)
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
+
+### Remagine AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remagine-ai.webp" alt="Remagine AI">
+
+#### Remagine AI est un outil de rédaction de contenu doté de plus de 200 modèles d'IA.
+[Visit](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Remagine AI propose une vaste bibliothèque de modèles et d'outils d'IA, qui permettent aux entreprises de générer facilement du contenu marketing de haute qualité en quelques secondes. Des articles de blog aux mises à jour sur les réseaux sociaux, en passant par les publicités, les scripts YouTube, les e-mails, les offres d'emploi et les catalogues de commerce électronique, Remagine AI couvre tout.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Paraphrase Online
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paraphrase-online.webp" alt="Paraphrase Online">
+
+#### Paraphrase n'importe quel texte en ligne à l'aide de notre outil de paraphrase basé sur l'IA. Colle des paragraphes dans la zone de saisie ci-dessous et clique sur le bouton « Paraphrase ».
+[Visit](https://www.thataicollection.com/redirect/paraphrase-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Paraphrase Online possède de nombreuses fonctionnalités qui en font l'un des meilleurs outils de paraphrase. Les rédacteurs de contenu, les étudiants, les chercheurs ou même les journalistes peuvent utiliser ce paraphrase pour améliorer et reformuler leur contenu.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/paraphrase-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Pandalyst
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pandalyst.webp" alt="Pandalyst">
@@ -215,40 +245,6 @@ Caractéristiques :
 - Totalement gratuit, pas besoin de connexion
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/photo-to-anime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Drawing Prompt
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-drawing-prompt.webp" alt="Drawing Prompt">
-
-#### Générateur d'invites amélioré par IA pour tous les artistes
-[Visit](https://www.thataicollection.com/redirect/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Drawing Prompt est un outil gratuit conçu pour les passionnés d'art basé sur l'IA. Il propose :
-1. Expansion rapide : convertit des mots simples en instructions détaillées et créatives.
-2. Exploration rapide et aléatoire : génère des invites aléatoires pour ceux qui recherchent des surprises et le plaisir de l'exploration, idéal lorsque tu ne sais pas quoi créer.
-3. Création d'images : utilise le modèle SDXL pour transformer les instructions en œuvres d'art visuel époustouflantes.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AVCLabs Photo Enhancer AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
-
-#### Améliorateur de photos AVCLabs AI : améliorez facilement la qualité des photos grâce à l'IA 
-
-[Visit](https://www.thataicollection.com/redirect/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Améliorateur de photos intelligent tout-en-un pour améliorer la qualité des photos en réduisant automatiquement le bruit, en effilant, en améliorant la netteté, en ajustant la couleur et la tonalité, et en redimensionnant l'image jusqu'à 400 % sans en sacrifier la qualité.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1856,21 +1852,6 @@ Avec Outfit Anyone AI, explore une nouvelle ère de la mode où il suffit d'un c
 
 ## Amusant
 
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
-
-#### undress.vip—Le meilleur déshabillage 100 % fonctionnel de 2023 sur deepnude 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress.vip, un outil d'IA révolutionnaire qui joue un rôle de premier plan dans cette progression. undress.vip—2023 best 100 % Working AI Deepnude & Deepfake Telegram Undress AI Bots
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### AI Girlfriend WTF
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
 
@@ -1884,6 +1865,21 @@ Qu'il s'agisse de survivre sur une île déserte, de naviguer dans l'espace à b
 Plongez dans l'univers de nombreuses filles animées par l'IA et commencez à jouer dès maintenant !
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Undress.Vip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+
+#### undress.vip—Le meilleur déshabillage 100 % fonctionnel de 2023 sur deepnude 
+[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress.vip, un outil d'IA révolutionnaire qui joue un rôle de premier plan dans cette progression. undress.vip—2023 best 100 % Working AI Deepnude & Deepfake Telegram Undress AI Bots
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3688,15 +3684,15 @@ Obtenez une superbe copie qui se vend. Copy.ai est un rédacteur basé sur l'IA 
 
 
 
-### GummySearch
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gummysearch.webp" alt="GummySearch">
+### Remagine AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remagine-ai.webp" alt="Remagine AI">
 
-#### Étude client basée sur l'IA via Reddit. Découvre les problèmes à résoudre, les sentiments à l'égard des solutions actuelles et les personnes qui souhaitent acheter ton produit.
-[Visit](https://www.thataicollection.com/redirect/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Remagine AI est un outil de rédaction de contenu doté de plus de 200 modèles d'IA.
+[Visit](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-GummySearch est un outil d'étude d'audience basé sur l'IA pour Reddit. Cela te permet de faire des recherches systématiques sur ce dont les gens parlent et sur ce qu'ils pensent de tes concurrents et de ton secteur d'activité. Tu peux l'utiliser pour trouver des points faibles et des solutions qui demandent à être créées, des idées de contenu à créer ou des prospects avec lesquels entrer en contact. 
+Remagine AI propose une vaste bibliothèque de modèles et d'outils d'IA, qui permettent aux entreprises de générer facilement du contenu marketing de haute qualité en quelques secondes. Des articles de blog aux mises à jour sur les réseaux sociaux, en passant par les publicités, les scripts YouTube, les e-mails, les offres d'emploi et les catalogues de commerce électronique, Remagine AI couvre tout.
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

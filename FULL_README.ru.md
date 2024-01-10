@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1004" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1005" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>undress.vip—2023 лучшее 100% рабочее раздевание в обнаженном виде </h4>
-    <p>Undress.vip, новаторский инструмент для искусственного интеллекта, лежащий в авангарде этого прогресса. undress.vip—2023 лучшие телеграмы раздевают искусственные боты с искусственным интеллектом на 100% работающим искусственным интеллектом в стиле deepnude и deepfake</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Undress.Vip</b></a>
+    <h4>Podwise, ведущее приложение для обучения искусственному интеллекту для слушателей подкастов.</h4>
+    <p>С помощью Podwise вы можете учиться на структурированных знаниях и выборочно слушать интересующие вас главы. Эта функция позволяет оптимизировать учебный процесс и сосредоточиться на наиболее важном для вас контенте.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Podwise</b></a>
     <br />
 </div>
 
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/None" alt="Looka" border="0"/>
     </a>
-    <h4>Podwise, ведущее приложение для обучения искусственному интеллекту для слушателей подкастов.</h4>
-    <p>С помощью Podwise вы можете учиться на структурированных знаниях и выборочно слушать интересующие вас главы. Эта функция позволяет оптимизировать учебный процесс и сосредоточиться на наиболее важном для вас контенте.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Podwise</b></a>
+    <h4>Бесплатный конструктор логотипов и интеллектуальный бренд-дизайнер</h4>
+    <p>Создайте логотип и создайте любимый бренд вместе с Looka.</p>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Looka</b></a>
     <br />
 </div>
 
@@ -1003,6 +1003,7 @@
 | [OpenTyper](https://www.thataicollection.com/redirect/opentyper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | OpenTyper — копирайтер с искусственным интеллектом, который пишет для вас. | Мощный и простой помощник по написанию текстов с искусственным интеллектом. Экономьте время и создавайте более качественный контент с помощью Opentyper. Более 70 наших шаблонов для письма и мастера позволяют создавать высококачественный контент быстрее, чем когда-либо. | :white_check_mark: |
 | [Parafrasear](https://www.thataicollection.com/redirect/parafrasear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Тексты парафраз — лучший онлайн-перефразирование (100% бесплатно). | Бесплатный онлайн-инструмент для перефразирования парафразированных текстов. Наш инструмент перефразирования Paraphrase.ai поможет вам перефразировать плагиат. | :white_check_mark: |
 | [Paragraph AI](https://www.thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Лучшее бесплатное приложение для написания текстов с искусственным интеллектом: ParagraphAI. | Улучшите свои навыки письма с помощью лучшего программного обеспечения для помощников по написанию. Этот бесплатный инструмент искусственного интеллекта улучшает грамматику, орфографию и стиль. Попробуйте прямо сейчас!. | :white_check_mark: |
+| [Paraphrase Online](https://www.thataicollection.com/redirect/paraphrase-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Перефразируйте любой текст онлайн с помощью нашего инструмента перефразирования AI. Вставьте абзацы в поле ввода ниже и нажмите кнопку «Перефразировать». | Paraphrase Online имеет множество функций, которые делают его одним из лучших инструментов для перефразирования. Авторы контента, студенты, исследователи и даже журналисты могут использовать этот парафраз, чтобы улучшить и перефразировать свой контент. | :white_check_mark: |
 | [Paraphrasear Online](https://www.thataicollection.com/redirect/paraphrasear-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Парафраз онлайн - Тексты парафраз - 100% бесплатно. | Этот онлайн-перефразирование представляет собой бесплатный инструмент для перефразирования текстов. Используйте онлайн-перефразирование для устранения плагиата. Это онлайн-инструмент для перефразирования на базе искусственного интеллекта, который позволяет легко перефразировать статьи, эссе, предложения, истории, задания, исследовательские работы и многие другие типы контента. | :white_check_mark: |
 | [Paraphraser](https://www.thataicollection.com/redirect/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Бесплатный перефразирование для всех языков. | Инструмент для перефразирования с 15 БЕСПЛАТНЫМИ режимами для более чем 100 языков: перефразируйте предложения, переформулируйте абзацы, переписывает эссе, проверяет грамматику и устраняет плагиат. | :white_check_mark: |
 | [Quillbot Paraphraser](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Инструмент перефразирования QuillBot на базе искусственного интеллекта улучшит ваше письмо. | Ваши слова имеют значение, и наш инструмент перефразирования предназначен для того, чтобы вы использовали правильные слова. Имея на выбор два бесплатных режима и пять премиальных режимов, вы можете использовать онлайн-перефразировщик QuillBot, чтобы перефразировать любой текст различными способами. | :white_check_mark: |
@@ -1075,6 +1076,7 @@
 | [Post Parrot](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Post Parrot — бесплатный маркетинговый инструмент для Reddit. | Хотите создать заголовки постов на Reddit, которые привлекут внимание? Воспользуйтесь нашим бесплатным инструментом цифрового маркетинга, чтобы улучшить заголовки постов для целевых субреддитов. | :white_check_mark: |
 | [Predis](https://www.thataicollection.com/redirect/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Маркетинг в социальных сетях стал проще с помощью искусственного интеллекта - Predis.Ai. | Predis — это маркетинговый инструмент искусственного интеллекта для социальных сетей, помогающий компаниям создавать увлекательный контент с видео и изображениями и анализировать контент на основе искусственного интеллекта. | :white_check_mark: |
 | [PressPulse AI](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Каждое утро получайте персонализированные сообщения в СМИ. | PressPulse AI — это помощник на базе искусственного интеллекта, который ежедневно предоставляет персонализированные запросы журналистов и возможности СМИ.   Наш сервис позволяет занятым профессионалам получать авторитетные обратные ссылки, материалы в прессе и расширять свой органический охват в качестве идейного лидера всего за 5 минут в день.  Вы получите доступ к ведущим публикациям, включая Forbes, Time, VentureBeat, Mashable и другие. | :grey_question: |
+| [Remagine AI](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Remagine AI — это инструмент для написания контента, оснащенный более чем 200 шаблонами искусственного интеллекта. | Remagine AI предлагает обширную библиотеку шаблонов и инструментов искусственного интеллекта, позволяющую компаниям легко создавать высококачественный маркетинговый контент за считанные секунды. Remagine AI охватывает все: от публикаций в блогах и социальных сетях до рекламы, скриптов YouTube, электронных писем, объявлений о вакансиях и каталогов электронной коммерции. | :white_check_mark: |
 | [SimplePhones.ai](https://www.thataicollection.com/redirect/simplephones.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Никогда не пропустите звонок от клиента. | Переадресуйте пропущенные вызовы или получите новый номер, и Simple Phones ответит на него с помощью ИИ. Вы получите бесплатно телефонного агента, созданного для вашего бизнеса. Вы просто платите 19¢/мин за любые входящие звонки. | :x: |
 | [Speaq.ai](https://www.thataicollection.com/redirect/speaq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Готовый конверсионный ИИ для вашего бизнеса. | Наша миссия — революционизировать маркетинг B2B и поддержку клиентов с помощью искусственного интеллекта. Легко планируйте встречи и проверяйте посещаемость с помощью ИИ. Оптимизируйте процесс опроса с помощью голосовых вызовов ИИ. | :grey_question: |
 | [Tabula](https://www.thataicollection.com/redirect/tabula?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Аналитика маркетинговых данных на основе GPT. Используйте мультисенсорную атрибуцию, чтобы увидеть, как различные маркетинговые каналы взаимодействуют друг с другом, превращая потенциальных клиентов в клиентов. | Tabula — это комплексная аналитическая платформа искусственного интеллекта, которая позволяет менеджерам по маркетингу и продажам оценивать эффективность своих кампаний. Как это работает: - переносите данные из нескольких источников в одно место одним щелчком мыши - автоматизируйте отслеживание ключевых показателей эффективности и метрик - создавайте отчеты по кампаниям и панели мониторинга эффективности - используйте искусственный интеллект для анализа неструктурированных данных (электронные письма, опросы. | :white_check_mark: |

@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1004" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1005" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,12 +59,12 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>undress.vip–2023 best 100% Working undress ai deepnude </h4>
-    <p>undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots</p>
-    <a href="https://www.thataicollection.com/redirect/undress.vip/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Undress.Vip</b></a>
+    <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
+    <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
     <br />
 </div>
 
@@ -72,12 +72,12 @@ Translations:
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/None" alt="Looka" border="0"/>
     </a>
-    <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
-    <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
+    <h4>Free Logo Maker & Intelligent Brand Designer</h4>
+    <p>Make a logo and build a brand you love with Looka.</p>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Looka</b></a>
     <br />
 </div>
 
@@ -141,6 +141,36 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+
+### Remagine AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remagine-ai.webp" alt="Remagine AI">
+
+#### Remagine AI is a content writer tool equipped with 200+ AI templates.
+[Visit](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Remagine AI offers a vast library of AI templates and tools, enabling businesses to effortlessly generate top-quality marketing content within seconds. From blog posts and social media updates to ads, youtube scripts, emails, job postings, and e-commerce catalogues, Remagine AI covers it all.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Paraphrase Online
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paraphrase-online.webp" alt="Paraphrase Online">
+
+#### Paraphrase online any text using our AI paraphrasing tool. Paste paragraphs in the input box below and click the “Paraphrase” button.
+[Visit](https://www.thataicollection.com/redirect/paraphrase-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Paraphrase Online accohas many features that make it one of the best paraphrase tool. Content writers, students, researchers, or even journalists can use this paraphraser to improve and rephrase their content.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/paraphrase-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Pandalyst
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pandalyst.webp" alt="Pandalyst">
@@ -221,40 +251,6 @@ Features:
 - Totally Free, no login need
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/photo-to-anime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Drawing Prompt
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-drawing-prompt.webp" alt="Drawing Prompt">
-
-#### AI-Enhanced Prompts Generator for Every Artist
-[Visit](https://www.thataicollection.com/redirect/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Drawing Prompt is a free tool designed for AI art enthusiasts. It offers:
-1. Prompt Expansion: Converts simple words into detailed, creative prompts.
-2. Random Prompt Exploration: Generates random prompts for those seeking surprises and the joy of exploration, perfect when you're unsure what to create.
-3. Image Creation: Uses the SDXL model to turn prompts into stunning visual art.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AVCLabs Photo Enhancer AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
-
-#### AVCLabs AI Photo Enhancer: Enhance Photo Quality at Ease with AI 
-
-[Visit](https://www.thataicollection.com/redirect/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-All-in-one AI photo enhancer to enhance photo quality by automatically denoising, deburring, sharpening, adjusting color and tone, and upscale image by up to 400% without sacrificing the quality.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1862,21 +1858,6 @@ With Outfit Anyone AI, explore a new era of fashion where trying on any outfit i
 
 ## Fun
 
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
-
-#### undress.vip–2023 best 100% Working undress ai deepnude 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### AI Girlfriend WTF
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
 
@@ -1890,6 +1871,21 @@ Whether surviving on a deserted island, navigating through space in a spaceship,
 Dive into the world of numerous AI girls and start playing now!
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Undress.Vip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+
+#### undress.vip–2023 best 100% Working undress ai deepnude 
+[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3694,15 +3690,15 @@ Get great copy that sells. Copy.ai is an AI-powered copywriter that generates hi
 
 
 
-### GummySearch
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gummysearch.webp" alt="GummySearch">
+### Remagine AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remagine-ai.webp" alt="Remagine AI">
 
-#### AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
-[Visit](https://www.thataicollection.com/redirect/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Remagine AI is a content writer tool equipped with 200+ AI templates.
+[Visit](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-GummySearch is an AI-based Audience Research tool for Reddit. It allows you to systematically research what people are talking about, and how they feel about your competition and your industry. You can use it to find pain points and solutions asking to be built, content ideas to create, or sales leads to connect with. 
+Remagine AI offers a vast library of AI templates and tools, enabling businesses to effortlessly generate top-quality marketing content within seconds. From blog posts and social media updates to ads, youtube scripts, emails, job postings, and e-commerce catalogues, Remagine AI covers it all.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
