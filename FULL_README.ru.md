@@ -67,10 +67,12 @@
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/None" alt="Looka" border="0"/>
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka" border="0"/>
     </a>
-    <h4>Бесплатный конструктор логотипов и интеллектуальный бренд-дизайнер</h4>
-    <p>Создайте логотип и создайте любимый бренд вместе с Looka.</p>
+    <h4>Looka - дизайн логотипа и фирменный стиль для предпринимателей 
+</h4>
+    <p>Logojoy теперь Looka! Создайте логотип, веб-сайт и фирменный стиль, который вам понравится, используя возможности искусственного интеллекта. Использование абсолютно бесплатно.
+</p>
     <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Looka</b></a>
     <br />
 </div>
@@ -476,7 +478,7 @@
 |---|---|---|:---:|
 | [AI Logo Generator](https://www.thataicollection.com/redirect/ai-logo-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Создание логотипов с точностью искусственного интеллекта: быстро, бесплатно и безупречно. | Откройте для себя генератор логотипов Ultimate AI: создавайте собственные отраслевые логотипы за считанные минуты с помощью нашего передового искусственного интеллекта. Навыки дизайна не нужны. Создавайте логотипы для технологий, розничной торговли, недвижимости и многого другого бесплатно. Настраивайте цвета, шрифты и макет, а затем загружайте их в форматах PNG, JPG, PDF, SVG. Идеально подходит для бизнеса, персонального брендинга и многого другого!. | :white_check_mark: |
 | [Logo Rank](https://www.thataicollection.com/redirect/logo-rank?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Brandmark Logo Maker - самый передовой инструмент для разработки логотипов с искусственным интеллектом. | Создайте уникальный профессиональный логотип для своего бизнеса Создайте свой бренд с помощью дизайна визитных карточек, графики для социальных сетей, значков приложений, заголовков букв и многого другого. | :grey_question: |
-| [Looka](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Бесплатный конструктор логотипов и интеллектуальный бренд-дизайнер. | Создайте логотип и создайте любимый бренд вместе с Looka. | :white_check_mark: |
+| [Looka](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Looka - дизайн логотипа и фирменный стиль для предпринимателей. | Logojoy теперь Looka! Создайте логотип, веб-сайт и фирменный стиль, который вам понравится, используя возможности искусственного интеллекта. Использование абсолютно бесплатно. | :white_check_mark: |
 | [Make Logo AI](https://www.thataicollection.com/redirect/make-logo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | MakeLogo.AI: получите идеальный логотип для своего стартапа. | Создавайте красивые и уникальные логотипы для своего стартапа с помощью искусственного интеллекта. | :x: |
 | [Text To Book Cover](https://www.thataicollection.com/redirect/text-to-book-cover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Генерация изображений AI для команд. Вы можете легко создавать логотип AI, обложки книг AI, плакаты AI и многое другое - Stockimg AI. | Генерация изображений AI для команд. Вы можете легко создавать логотип AI, обложки книг AI, плакаты AI и многое другое - Stockimg AI. | :grey_question: |
 | [Zarla Logo Maker](https://www.thataicollection.com/redirect/zarla-logo-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Создайте бесплатный профессиональный логотип за считанные секунды! - для любого бизнеса или бренда с помощью простого и интуитивно понятного конструктора логотипов Zarla. | Zarla была создана для того, чтобы логотипы профессионального качества были доступны каждому. Просто введите название своей компании и отрасль, и наш конструктор логотипов создаст неограниченное количество дизайнов логотипов на ваш выбор. Вы можете отредактировать любой аспект своего логотипа, включая шрифт, цвет, значок и расположение, а затем загрузить его бесплатно, когда закончите!. | :white_check_mark: |

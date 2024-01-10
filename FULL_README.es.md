@@ -67,10 +67,12 @@
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/None" alt="Looka" border="0"/>
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka" border="0"/>
     </a>
-    <h4>Creador de logotipos gratuito y diseñador de marca inteligente</h4>
-    <p>Crea un logotipo y crea una marca que te encante con Looka.</p>
+    <h4>Looka: Diseño de logotipos e identidad de marca para emprendedores 
+</h4>
+    <p>Logojoy es ahora Looka! Diseña un logotipo, crea un sitio web y crea una identidad de marca que te encante con el poder de la inteligencia artificial. De uso 100% gratuito.
+</p>
     <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Looka</b></a>
     <br />
 </div>
@@ -895,7 +897,7 @@
 |---|---|---|:---:|
 | [AI Logo Generator](https://www.thataicollection.com/redirect/ai-logo-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Creación de logotipos con la precisión de la IA: rápido, gratuito e impecable. | Descubre el mejor generador de logotipos de IA: crea logotipos personalizados y específicos del sector en cuestión de minutos con nuestra IA avanzada. No se necesitan habilidades de diseño. Genera logotipos para tecnología, venta minorista, bienes raíces y más de forma gratuita. Personaliza los colores, las fuentes y el diseño y, a continuación, descárgalos en los formatos PNG, JPG, PDF y SVG. Perfecto para empresas, marcas personales y mucho más. | :white_check_mark: |
 | [Logo Rank](https://www.thataicollection.com/redirect/logo-rank?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Brandmark Logo Maker: la herramienta de diseño de logotipos con IA más avanzada. | Crea un logotipo único y profesional para tu empresa Impulsa tu marca con diseños de tarjetas de presentación, gráficos para redes sociales, íconos de aplicaciones, membretes y mucho más. | :grey_question: |
-| [Looka](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Creador de logotipos gratuito y diseñador de marca inteligente. | Crea un logotipo y crea una marca que te encante con Looka. | :white_check_mark: |
+| [Looka](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Looka: Diseño de logotipos e identidad de marca para emprendedores. | Logojoy es ahora Looka! Diseña un logotipo, crea un sitio web y crea una identidad de marca que te encante con el poder de la inteligencia artificial. De uso 100% gratuito. | :white_check_mark: |
 | [Make Logo AI](https://www.thataicollection.com/redirect/make-logo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Makelogo.Ai: obtenga el logotipo perfecto para su empresa emergente. | Genera logotipos hermosos y únicos para tu startup, con tecnología de Inteligencia Artificial. | :x: |
 | [Text To Book Cover](https://www.thataicollection.com/redirect/text-to-book-cover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generación de imágenes de IA para equipos: puede generar fácilmente logotipos de IA, portadas de libros de IA, carteles de IA y más - Stockimg AI. | Generación de imágenes de IA para equipos: puede generar fácilmente logotipos de IA, portadas de libros de IA, carteles de IA y más - Stockimg AI. | :grey_question: |
 | [Zarla Logo Maker](https://www.thataicollection.com/redirect/zarla-logo-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Crea un logotipo profesional gratuito, ¡en cuestión de segundos! - para cualquier empresa o marca con el creador de logotipos sencillo e intuitivo de Zarla. | Zarla se creó para poner a disposición de todo el mundo logotipos de calidad profesional. Solo tienes que introducir el nombre de tu empresa y tu sector y nuestro creador de logotipos generará diseños de logotipos ilimitados entre los que podrás elegir. Puedes editar todos los aspectos de tu logotipo, desde la fuente, el color, el icono y la ubicación, y luego descargarlo gratis cuando hayas terminado. | :white_check_mark: |

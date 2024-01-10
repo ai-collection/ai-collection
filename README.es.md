@@ -67,10 +67,12 @@
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/None" alt="Looka" border="0"/>
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka" border="0"/>
     </a>
-    <h4>Creador de logotipos gratuito y diseñador de marca inteligente</h4>
-    <p>Crea un logotipo y crea una marca que te encante con Looka.</p>
+    <h4>Looka: Diseño de logotipos e identidad de marca para emprendedores 
+</h4>
+    <p>Logojoy es ahora Looka! Diseña un logotipo, crea un sitio web y crea una identidad de marca que te encante con el poder de la inteligencia artificial. De uso 100% gratuito.
+</p>
     <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Looka</b></a>
     <br />
 </div>
@@ -135,6 +137,23 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 💰 [Ventas Y Marketing](#ventas-y-marketing)
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
+
+### Looka
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka">
+
+#### Looka: Diseño de logotipos e identidad de marca para emprendedores 
+
+[Visit](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Logojoy es ahora Looka! Diseña un logotipo, crea un sitio web y crea una identidad de marca que te encante con el poder de la inteligencia artificial. De uso 100% gratuito.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Remagine AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remagine-ai.webp" alt="Remagine AI">
@@ -226,25 +245,6 @@ MoneyCoach es una aplicación de finanzas personales que te ayuda a gestionar tu
 Traducción gratuita de vídeo del español al inglés del español al inglés, clonación de voz y conversión de texto a voz. ¡Amplía con nosotros a más de 30 idiomas y 10 veces el tamaño de tu audiencia!
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/videodubber.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Photo to Anime
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-to-anime.webp" alt="Photo to Anime">
-
-#### Filtro de anime de IA centrado en la privacidad para guardianes de la memoria
-[Visit](https://www.thataicollection.com/redirect/photo-to-anime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Características:
-- Conversión de foto a anime: convierte fotos en estilo anime en tu propio dispositivo sin preocuparte por los problemas de privacidad al subirlas
-- Creación de texto a anime: crea una imagen al estilo anime a través de un mensaje de texto
-- Diseño centrado en la privacidad: tu foto no se subirá a la nube, el filtro de anime se realiza en tu propio dispositivo
-- Totalmente gratis, sin necesidad de iniciar sesión
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/photo-to-anime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2613,16 +2613,18 @@ Spellbook usa GPT-3 para revisar y sugerir lenguaje para sus contratos, directam
 ### Looka
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka">
 
-#### Creador de logotipos gratuito y diseñador de marca inteligente
+#### Looka: Diseño de logotipos e identidad de marca para emprendedores 
+
 [Visit](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Crea un logotipo y crea una marca que te encante con Looka.
+Logojoy es ahora Looka! Diseña un logotipo, crea un sitio web y crea una identidad de marca que te encante con el poder de la inteligencia artificial. De uso 100% gratuito.
+
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### Text To Book Cover
