@@ -54,10 +54,12 @@
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/None" alt="Looka" border="0"/>
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka" border="0"/>
     </a>
-    <h4>नि: शुल्क लोगो निर्माता और बुद्धिमान ब्रांड डिजाइनर</h4>
-    <p>एक लोगो बनाएं और एक ब्रांड बनाएं जिसे आप लुका से प्यार करते हैं।</p>
+    <h4>लुका - उद्यमियों के लिए लोगो डिज़ाइन और ब्रांड की पहचान 
+</h4>
+    <p>लोगोजॉय अब लुका है! आर्टिफिशियल इंटेलीजेंस की ताकत से लोगो डिज़ाइन करें, वेबसाइट बनाएं और ब्रांड की पहचान बनाएं, जो तुम्हेंं पसंद आएगा। 100% इस्तेमाल करने के लिए मुफ़्त है।
+</p>
     <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Looka के साथ आरंभ करें</b></a>
     <br />
 </div>
@@ -1105,7 +1107,7 @@
 |---|---|---|:---:|
 | [AI Logo Generator](https://www.thataicollection.com/redirect/ai-logo-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI प्रिसिजन के साथ लोगो तैयार करना: तेज़, मुफ़्त और दोषरहित।. | बेहतरीन AI लोगो जेनरेटर के बारे में जानें: हमारे एडवांस AI की मदद से मिनटों में कस्टम, उद्योग-विशिष्ट लोगो बनाएं। किसी डिज़ाइन कौशल की ज़रूरत नहीं है। टेक्नोलॉजी, रिटेल, रियल एस्टेट और बहुत कुछ के लिए मुफ्त में लोगो जेनरेट करें। रंग, फ़ॉन्ट और लेआउट कस्टमाइज़ करें, फिर PNG, JPG, PDF, SVG फ़ॉर्मेट में डाउनलोड करें। बिज़नेस, व्यक्तिगत ब्रांडिंग, और बहुत कुछ के लिए बिल्कुल सही!. | :white_check_mark: |
 | [Logo Rank](https://www.thataicollection.com/redirect/logo-rank?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ब्रैंडमार्क लोगो मेकर - सबसे उन्नत AI लोगो डिज़ाइन टूल. | अपने व्यवसाय के लिए एक अनोखा, पेशेवर लोगो बनाएं बिज़नेस कार्ड डिज़ाइन, सोशल मीडिया ग्राफ़िक्स, ऐप आइकन, लेटर हेड्स वगैरह के साथ अपने ब्रांड की शुरुआत करें. | :grey_question: |
-| [Looka](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | नि: शुल्क लोगो निर्माता और बुद्धिमान ब्रांड डिजाइनर. | एक लोगो बनाएं और एक ब्रांड बनाएं जिसे आप लुका से प्यार करते हैं।. | :white_check_mark: |
+| [Looka](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लुका - उद्यमियों के लिए लोगो डिज़ाइन और ब्रांड की पहचान. | लोगोजॉय अब लुका है! आर्टिफिशियल इंटेलीजेंस की ताकत से लोगो डिज़ाइन करें, वेबसाइट बनाएं और ब्रांड की पहचान बनाएं, जो तुम्हेंं पसंद आएगा। 100% इस्तेमाल करने के लिए मुफ़्त है।. | :white_check_mark: |
 | [Make Logo AI](https://www.thataicollection.com/redirect/make-logo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Makelogo.Ai: अपने स्टार्टअप के लिए सही लोगो प्राप्त करें।. | आर्टिफिशियल इंटेलिजेंस द्वारा संचालित, अपने स्टार्टअप के लिए सुंदर और अद्वितीय लोगो उत्पन्न करें।. | :x: |
 | [Text To Book Cover](https://www.thataicollection.com/redirect/text-to-book-cover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टीमों के लिए एआई इमेज जेनरेशन - आप एआई लोगो, एआई बुक कवर, एआई पोस्टर और बहुत कुछ आसानी से उत्पन्न कर सकते हैं - स्टॉकिमग एआई. | टीमों के लिए एआई छवि निर्माण - आप आसानी से एआई लोगो, एआई बुक कवर, एआई पोस्टर और बहुत कुछ उत्पन्न कर सकते हैं - स्टॉकिमग एआई. | :grey_question: |
 | [Zarla Logo Maker](https://www.thataicollection.com/redirect/zarla-logo-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक मुफ़्त पेशेवर लोगो बनाएं - कुछ ही सेकंड में! - ज़ारला के सरल, सहज लोगो निर्माता के साथ किसी भी व्यवसाय या ब्रांड के लिए।. | ज़ारला को हर किसी के लिए पेशेवर गुणवत्ता वाले लोगो उपलब्ध कराने के लिए बनाया गया था। बस अपने व्यवसाय का नाम और इंडस्ट्री दर्ज करें और हमारा लोगो मेकर तुम्हारे लिए चुनने के लिए असीमित लोगो डिज़ाइन तैयार करेगा। तुम फ़ॉन्ट, रंग, आइकन और प्लेसमेंट से अपने लोगो के हर पहलू को संपादित कर सकते हो और काम पूरा होने पर मुफ्त में डाउनलोड कर सकते हो!. | :white_check_mark: |

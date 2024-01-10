@@ -67,10 +67,12 @@
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/None" alt="Looka" border="0"/>
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka" border="0"/>
     </a>
-    <h4>Бесплатный конструктор логотипов и интеллектуальный бренд-дизайнер</h4>
-    <p>Создайте логотип и создайте любимый бренд вместе с Looka.</p>
+    <h4>Looka - дизайн логотипа и фирменный стиль для предпринимателей 
+</h4>
+    <p>Logojoy теперь Looka! Создайте логотип, веб-сайт и фирменный стиль, который вам понравится, используя возможности искусственного интеллекта. Использование абсолютно бесплатно.
+</p>
     <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Looka</b></a>
     <br />
 </div>
@@ -135,6 +137,23 @@
 - 🛒 [Электронная Торговля](#электронная-торговля)
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
+
+### Looka
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka">
+
+#### Looka - дизайн логотипа и фирменный стиль для предпринимателей 
+
+[Visit](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Logojoy теперь Looka! Создайте логотип, веб-сайт и фирменный стиль, который вам понравится, используя возможности искусственного интеллекта. Использование абсолютно бесплатно.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Remagine AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remagine-ai.webp" alt="Remagine AI">
@@ -226,25 +245,6 @@ MoneyCoach — это приложение для личных финансов,
 Бесплатный перевод видео с испанского на английский язык на базе искусственного интеллекта, клонирование голоса и преобразование текста в речь. Расширяйтесь вместе с нами и переходите на более чем 30 языков, чтобы увеличить аудиторию в 10 раз!
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/videodubber.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Photo to Anime
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-to-anime.webp" alt="Photo to Anime">
-
-#### Аниме-фильтр с искусственным интеллектом, ориентированный на конфиденциальность, для хранителей памяти
-[Visit](https://www.thataicollection.com/redirect/photo-to-anime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Функции:
-- Преобразование фотографий в аниме: превращайте фотографии в аниме-стиль на своем устройстве, не беспокоясь о проблемах с конфиденциальностью при загрузке
-- Создание текста в аниме: создайте изображение в стиле аниме с помощью текстовой подсказки
-- Дизайн, ориентированный на конфиденциальность: ваша фотография не будет загружена в облако, фильтр аниме создается на вашем собственном устройстве
-- Абсолютно бесплатно, вход в систему не требуется
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/photo-to-anime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2611,16 +2611,18 @@ CFR Explorer — это приложение, в котором использу
 ### Looka
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka">
 
-#### Бесплатный конструктор логотипов и интеллектуальный бренд-дизайнер
+#### Looka - дизайн логотипа и фирменный стиль для предпринимателей 
+
 [Visit](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Создайте логотип и создайте любимый бренд вместе с Looka.
+Logojoy теперь Looka! Создайте логотип, веб-сайт и фирменный стиль, который вам понравится, используя возможности искусственного интеллекта. Использование абсолютно бесплатно.
+
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### Text To Book Cover

@@ -53,12 +53,14 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka" border="0"/>
     </a>
-    <h4>Podwise, la meilleure application d'apprentissage basée sur l'IA pour les auditeurs de podcasts.</h4>
-    <p>Avec Podwise, tu peux apprendre grâce à des connaissances structurées et écouter de manière sélective les chapitres qui suscitent ton intérêt. Cette fonctionnalité te permet d'optimiser ton expérience d'apprentissage et de te concentrer sur le contenu qui compte le plus pour toi.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Podwise</b></a>
+    <h4>Looka - Création de logo et identité de marque pour les entrepreneurs 
+</h4>
+    <p>Logojoy s'appelle désormais Looka ! Créez un logo, un site web et une identité de marque que tu adoreras grâce à la puissance de l'intelligence artificielle. Utilisation 100 % gratuite.
+</p>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Looka</b></a>
     <br />
 </div>
 
@@ -66,12 +68,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/None" alt="Looka" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>Créateur de logo gratuit et concepteur de marque intelligent</h4>
-    <p>Créez un logo et créez une marque que vous aimez avec Looka.</p>
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Looka</b></a>
+    <h4>Podwise, la meilleure application d'apprentissage basée sur l'IA pour les auditeurs de podcasts.</h4>
+    <p>Avec Podwise, tu peux apprendre grâce à des connaissances structurées et écouter de manière sélective les chapitres qui suscitent ton intérêt. Cette fonctionnalité te permet d'optimiser ton expérience d'apprentissage et de te concentrer sur le contenu qui compte le plus pour toi.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Podwise</b></a>
     <br />
 </div>
 
@@ -757,7 +759,7 @@
 |---|---|---|:---:|
 | [AI Logo Generator](https://www.thataicollection.com/redirect/ai-logo-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Création de logos avec la précision de l'IA : rapide, gratuite et sans faille. | Découvrez le générateur de logos IA ultime : créez des logos personnalisés et spécifiques à un secteur en quelques minutes grâce à notre IA avancée. Aucune compétence en design n'est requise. Génère des logos pour la technologie, le commerce de détail, l'immobilier et plus encore gratuitement. Personnalise les couleurs, les polices et la mise en page, puis téléchargez-les aux formats PNG, JPG, PDF, SVG. Parfait pour les entreprises, l'image de marque personnelle et plus encore !. | :white_check_mark: |
 | [Logo Rank](https://www.thataicollection.com/redirect/logo-rank?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Brandmark Logo Maker : l'outil de création de logo basé sur l'IA le plus avancé. | Crée un logo professionnel unique pour ton entreprise Donnez un coup de pouce à ta marque avec des designs de cartes de visite, des graphismes pour les réseaux sociaux, des icônes d'applications, des en-têtes de lettre et plus encore. | :grey_question: |
-| [Looka](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Créateur de logo gratuit et concepteur de marque intelligent. | Créez un logo et créez une marque que vous aimez avec Looka. | :white_check_mark: |
+| [Looka](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Looka - Création de logo et identité de marque pour les entrepreneurs. | Logojoy s'appelle désormais Looka ! Créez un logo, un site web et une identité de marque que tu adoreras grâce à la puissance de l'intelligence artificielle. Utilisation 100 % gratuite. | :white_check_mark: |
 | [Make Logo AI](https://www.thataicollection.com/redirect/make-logo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | MakeLogo.AI : Obtenez le logo parfait pour votre startup. | Générez des logos magnifiques et uniques pour votre startup, alimentés par l'intelligence artificielle. | :x: |
 | [Text To Book Cover](https://www.thataicollection.com/redirect/text-to-book-cover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Génération d'images AI pour les équipes - Vous pouvez facilement générer un logo AI, des couvertures de livres AI, des affiches AI et plus encore - Stockimg AI. | Génération d'images AI pour les équipes - Vous pouvez facilement générer un logo AI, des couvertures de livres AI, des affiches AI et plus encore - Stockimg AI. | :grey_question: |
 | [Zarla Logo Maker](https://www.thataicollection.com/redirect/zarla-logo-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Crée un logo professionnel gratuit, en quelques secondes ! - pour n'importe quelle entreprise ou marque grâce au créateur de logo simple et intuitif de Zarla. | Zarla a été créée pour mettre des logos de qualité professionnelle à la disposition de tous. Entrez simplement le nom de votre entreprise et votre secteur d'activité et notre créateur de logos générera un nombre illimité de logos parmi lesquels tu pourras choisir. Tu peux modifier tous les aspects de ton logo, qu'il s'agisse de la police, de la couleur, de l'icône ou de l'emplacement, puis le télécharger gratuitement quand tu auras terminé !. | :white_check_mark: |

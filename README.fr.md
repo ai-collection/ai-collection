@@ -53,12 +53,14 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka" border="0"/>
     </a>
-    <h4>Podwise, la meilleure application d'apprentissage basée sur l'IA pour les auditeurs de podcasts.</h4>
-    <p>Avec Podwise, tu peux apprendre grâce à des connaissances structurées et écouter de manière sélective les chapitres qui suscitent ton intérêt. Cette fonctionnalité te permet d'optimiser ton expérience d'apprentissage et de te concentrer sur le contenu qui compte le plus pour toi.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Podwise</b></a>
+    <h4>Looka - Création de logo et identité de marque pour les entrepreneurs 
+</h4>
+    <p>Logojoy s'appelle désormais Looka ! Créez un logo, un site web et une identité de marque que tu adoreras grâce à la puissance de l'intelligence artificielle. Utilisation 100 % gratuite.
+</p>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Looka</b></a>
     <br />
 </div>
 
@@ -66,12 +68,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/None" alt="Looka" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>Créateur de logo gratuit et concepteur de marque intelligent</h4>
-    <p>Créez un logo et créez une marque que vous aimez avec Looka.</p>
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Looka</b></a>
+    <h4>Podwise, la meilleure application d'apprentissage basée sur l'IA pour les auditeurs de podcasts.</h4>
+    <p>Avec Podwise, tu peux apprendre grâce à des connaissances structurées et écouter de manière sélective les chapitres qui suscitent ton intérêt. Cette fonctionnalité te permet d'optimiser ton expérience d'apprentissage et de te concentrer sur le contenu qui compte le plus pour toi.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Podwise</b></a>
     <br />
 </div>
 
@@ -135,6 +137,23 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 💰 [Ventes Et Marketing](#ventes-et-marketing)
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
+
+### Looka
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka">
+
+#### Looka - Création de logo et identité de marque pour les entrepreneurs 
+
+[Visit](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Logojoy s'appelle désormais Looka ! Créez un logo, un site web et une identité de marque que tu adoreras grâce à la puissance de l'intelligence artificielle. Utilisation 100 % gratuite.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Remagine AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remagine-ai.webp" alt="Remagine AI">
@@ -226,25 +245,6 @@ MoneyCoach est une application de finances personnelles qui t'aide à gérer ton
 Traduction vidéo de l'espagnol vers l'anglais, clonage vocal et synthèse vocale gratuits alimentés par l'IA. Évoluez avec nous dans plus de 30 langues pour multiplier par 10 la taille de ton audience !
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/videodubber.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Photo to Anime
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-to-anime.webp" alt="Photo to Anime">
-
-#### Filtre d'anime basé sur l'intelligence artificielle centré sur la confidentialité pour Memory Keepers
-[Visit](https://www.thataicollection.com/redirect/photo-to-anime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Caractéristiques :
-- Conversion de photos en anime : transforme des photos en anime sur ton propre appareil sans te soucier des problèmes de confidentialité liés au téléchargement
-- Création de texte en anime : crée une image de style anime à l'aide d'une invite textuelle
-- Design centré sur la confidentialité : ta photo ne sera pas téléchargée sur le cloud, le filtre d'anime se fait sur ton propre appareil
-- Totalement gratuit, pas besoin de connexion
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/photo-to-anime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2613,16 +2613,18 @@ Spellbook utilise GPT-3 pour réviser et suggérer la langue de vos contrats, di
 ### Looka
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka">
 
-#### Créateur de logo gratuit et concepteur de marque intelligent
+#### Looka - Création de logo et identité de marque pour les entrepreneurs 
+
 [Visit](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Créez un logo et créez une marque que vous aimez avec Looka.
+Logojoy s'appelle désormais Looka ! Créez un logo, un site web et une identité de marque que tu adoreras grâce à la puissance de l'intelligence artificielle. Utilisation 100 % gratuite.
+
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### Text To Book Cover
