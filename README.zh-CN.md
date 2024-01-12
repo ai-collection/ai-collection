@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1005" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1017" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -71,7 +71,7 @@
     </a>
     <h4>Looka-企业家徽标设计和品牌标识 
 </h4>
-    <p>Logojoy 现在是 Looka！利用人工智能的力量设计徽标、制作网站并创建您喜爱的品牌标识。100% 免费使用。
+    <p>利用人工智能的力量设计徽标、制作网站并创建您喜爱的品牌标识。100% 免费使用。
 </p>
     <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Looka</b></a>
     <br />
@@ -138,6 +138,72 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### Clipfly
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clipfly.webp" alt="Clipfly">
+
+#### 使用 Clipfly 视频编辑器制作引人入胜的视频
+[Visit](https://www.thataicollection.com/redirect/clipfly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Clipfly 是一款简单、多合一的视频编辑器，完全在线且免费使用。 
+
+● 强大的 AI 视频编辑功能：AI 视频增强器、AI 视频更清晰、生成 AI 旁白等。
+
+● 海量视频编辑工具：大量免费视频编辑工具。
+
+● 丰富的视频创意元素：包含各种精美的文字字体、免版税的音乐、图片、贴纸等。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/clipfly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Dittin AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
+
+#### Dittin AI-未经审查的 NSFW AI 聊天机器人平台
+[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dittin AI 是一个基于 DittinLLM 的 NSFW 人工智能聊天机器人平台。只要对NSFW内容的限制最小，你就可以与AI角色就各种话题进行对话。Dittin AI 支持 3D 头像和语音消息，允许您使用创建面板创建和共享带有声音和交互式 3D 头像的 AI 角色。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Corporate Headshots AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
+
+#### 企业头像 AI：用 AI 彻底改变企业画像
+[Visit](https://www.thataicollection.com/redirect/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### DiffusionHub.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-diffusionhub.io.webp" alt="DiffusionHub.io">
+
+#### DiffusionHub-稳定的扩散，无需麻烦！
+[Visit](https://www.thataicollection.com/redirect/diffusionhub.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在 DiffusionHub 上轻松发挥 Stable Diffusion 的潜力。无需使用 GPU 即可启动实例、存储代数和创建。探索 Automatic1111、Comfy 和 Kohya，享受无缝的创意体验。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/diffusionhub.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Looka
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka">
 
@@ -145,10 +211,27 @@
 
 [Visit](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Logojoy 现在是 Looka！利用人工智能的力量设计徽标、制作网站并创建您喜爱的品牌标识。100% 免费使用。
+利用人工智能的力量设计徽标、制作网站并创建您喜爱的品牌标识。100% 免费使用。
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### AVCLabs Video Enhancer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-video-enhancer.webp" alt="AVCLabs Video Enhancer">
+
+#### 视频增强器：由 AI 提供支持的最佳视频质量增强器和视频升频器
+
+[Visit](https://www.thataicollection.com/redirect/avclabs-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+由人工智能驱动的视频质量增强器、视频升频器和视频着色器，它可以改善旧视频的质量，并将视频从标清到高清，从高清到4K，甚至8K升级。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/avclabs-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -164,87 +247,6 @@ Logojoy 现在是 Looka！利用人工智能的力量设计徽标、制作网站
 Remagine AI 提供了庞大的 AI 模板和工具库，使企业能够在几秒钟内轻松生成高质量的营销内容。从博客文章和社交媒体更新到广告、YouTube脚本、电子邮件、招聘信息以及电子商务目录，Remagine AI涵盖了所有内容。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Paraphrase Online
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paraphrase-online.webp" alt="Paraphrase Online">
-
-#### 使用我们的 AI 释义工具在线解释任何文本。将段落粘贴到下面的输入框中，然后单击 “解释” 按钮。
-[Visit](https://www.thataicollection.com/redirect/paraphrase-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Paraphrase Online 具有许多功能，使其成为最好的释义工具之一。内容作家、学生、研究人员甚至记者都可以使用这个解释器来改进和改写他们的内容。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/paraphrase-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Pandalyst
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pandalyst.webp" alt="Pandalyst">
-
-#### Pandalyst是一种工具，通过根据用户的提示使用AI生成高性能的SQL查询，可以更快地编写SQL查询，而不会出现错误。
-[Visit](https://www.thataicollection.com/redirect/pandalyst?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pandalyst允许您提供有关数据库的详细信息。
-
-由此，Pandalyst将您的输入转换为结构化和简化的SQL查询。使用Pandalyst，您可以节省精力和注意力，从而使您能够强调基本职责。
-
-使用 Pandalyst 的用户友好界面，无论您是新手还是专业人士，都可以释放数据的全部潜力。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pandalyst?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### NSFWGirlfriend
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nsfwgirlfriend.webp" alt="NSFWGirlfriend">
-
-#### NSFWGirlfriend：畅享真实、不受约束的 NSFW 角色人工智能聊天，不受任何限制。
-[Visit](https://www.thataicollection.com/redirect/nsfwgirlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-尽情享受不受限制的 NSFW 角色人工智能聊天。制作你的 AI 角色，体验真正的、无限的 NSFW 互动。释放塑造你独特的 AI 角色的创造力。今天就潜水吧！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nsfwgirlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### MoneyCoach
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
-
-#### MoneyCoach-现代资金经理和预算应用程序
-
-[Visit](https://www.thataicollection.com/redirect/moneycoach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-MoneyCoach是一款个人理财应用程序，可帮助您管理资金、预算和跟踪支出。适用于 iPhone、iPad、Mac 和 Apple Watch。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/moneycoach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Videodubber.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber.ai.webp" alt="Videodubber.ai">
-
-#### Videodubber：人工智能视频翻译、文字转语音服务
-[Visit](https://www.thataicollection.com/redirect/videodubber.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-由人工智能驱动的免费西班牙语到英语的视频翻译、语音克隆和文字转语音。与我们一起扩展到 30 多种语言，让您的受众规模扩大到 10 倍！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/videodubber.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -611,6 +613,21 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 
 ## 艺术与图像生成器
 
+### SUPERMACHINE
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
+
+#### Supermachine-使用 AI 生成库存照片、艺术品和图像
+[Visit](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SUPERMACHINE 使您能够使用最新的人工智能技术生成图像。使用 55 多个模型生成精彩的 AI 图像。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### caspa AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI">
 
@@ -656,6 +673,21 @@ ICONS8 允许设计师表达自己的想法，在正确的时间提供正确的�
 <br />
 
 
+### CustomQR AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customqr-ai.webp" alt="CustomQR AI">
+
+#### 商业二维码生成服务
+[Visit](https://www.thataicollection.com/redirect/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+10 分钟内即可在您的电子邮件中获取艺术精美的二维码。从可用的二维码类别中进行选择或请求您自己的二维码类别。通过独特的二维码艺术让您的企业脱颖而出！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Pet Booth
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
 
@@ -677,45 +709,15 @@ Pet Booth 是一项用于创建自己精彩的 AI 宠物肖像、照片和艺术
 <br />
 
 
-### CustomQR AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customqr-ai.webp" alt="CustomQR AI">
+### Corporate Headshots AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
 
-#### 商业二维码生成服务
-[Visit](https://www.thataicollection.com/redirect/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 企业头像 AI：用 AI 彻底改变企业画像
+[Visit](https://www.thataicollection.com/redirect/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-10 分钟内即可在您的电子邮件中获取艺术精美的二维码。从可用的二维码类别中进行选择或请求您自己的二维码类别。通过独特的二维码艺术让您的企业脱颖而出！
+通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Designify
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-designify.webp" alt="Designify">
-
-#### Designify - 将任何照片变成很棒的照片
-[Visit](https://www.thataicollection.com/redirect/designify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-创建出色的产品照片等：选择任何图像开始魔法 ✨
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/designify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Anime AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-anime-ai.webp" alt="Anime AI">
-
-#### AI动漫图片生成器 - 动漫AI
-[Visit](https://www.thataicollection.com/redirect/anime-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 AI 创建您完美的动漫图片。在海贼王、火影忍者、网络卡通风格和其他风格之间进行选择！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/anime-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2617,7 +2619,7 @@ Spellbook 使用 GPT-3 在 Microsoft Word 中为您的合同审查和建议语�
 
 [Visit](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Logojoy 现在是 Looka！利用人工智能的力量设计徽标、制作网站并创建您喜爱的品牌标识。100% 免费使用。
+利用人工智能的力量设计徽标、制作网站并创建您喜爱的品牌标识。100% 免费使用。
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)

@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1005" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1017" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -64,7 +64,7 @@ Translations:
     </a>
     <h4>Looka - Logo Design & Brand Identity for Entrepreneurs 
 </h4>
-    <p>Logojoy is now Looka! Design a Logo, make a website, and create a Brand Identity you’ll love with the power of Artificial Intelligence. 100% free to use.
+    <p>Design a Logo, make a website, and create a Brand Identity you’ll love with the power of Artificial Intelligence. 100% free to use.
 </p>
     <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Looka</b></a>
     <br />
@@ -144,6 +144,72 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### Clipfly
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clipfly.webp" alt="Clipfly">
+
+#### Create Engaging Videos With Clipfly Video Editor
+[Visit](https://www.thataicollection.com/redirect/clipfly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Clipfly is a simple, all-in-one, video editor that's completely online and free to use. 
+
+● Powerful AI video editing features: AI video enhancer, AI video clearer, generate AI voiceover, etc.
+
+● Massive video editing tools: Extensive collection of free video editing tools.
+
+● Abundant creative elements for video: Featuring a variety of fancy text fonts, royalty-free music, images, stickers, etc.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/clipfly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Dittin AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
+
+#### Dittin AI - uncensored NSFW AI Chatbot Platform
+[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dittin AI is an NSFW AI chatbot platform built on DittinLLM. With minimal restrictions on NSFW content, you can engage in conversations with AI characters on a wide range of topics. Dittin AI supports 3D avatars and voice messages, allowing you to create and share AI characters with both sound and interactive 3D avatars using the creation panel.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Corporate Headshots AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
+
+#### Corporate Headshots AI: Revolutionizing Corporate Portraits with AI
+[Visit](https://www.thataicollection.com/redirect/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### DiffusionHub.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-diffusionhub.io.webp" alt="DiffusionHub.io">
+
+#### DiffusionHub - Stable Diffusion without the hassle!
+[Visit](https://www.thataicollection.com/redirect/diffusionhub.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Unlock the potential of Stable Diffusion effortlessly on DiffusionHub. Launch instances, store generations, and create without the need for GPU. Explore Automatic1111, Comfy, and Kohya for seamless creative experiences.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/diffusionhub.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Looka
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka">
 
@@ -151,10 +217,27 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 
 [Visit](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Logojoy is now Looka! Design a Logo, make a website, and create a Brand Identity you’ll love with the power of Artificial Intelligence. 100% free to use.
+Design a Logo, make a website, and create a Brand Identity you’ll love with the power of Artificial Intelligence. 100% free to use.
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### AVCLabs Video Enhancer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-video-enhancer.webp" alt="AVCLabs Video Enhancer">
+
+#### Video Enhancer: Best Video Quality Enhancer and Video Upscaler Powered by AI
+
+[Visit](https://www.thataicollection.com/redirect/avclabs-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI-powed video quality enhancer, video upscaler and video colorizer, it improves the quality of your old videos, and upscale video from SD to HD, HD to 4K, even 8K.
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/avclabs-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -174,87 +257,6 @@ Remagine AI offers a vast library of AI templates and tools, enabling businesses
 <br />
 
 
-
-
-### Paraphrase Online
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paraphrase-online.webp" alt="Paraphrase Online">
-
-#### Paraphrase online any text using our AI paraphrasing tool. Paste paragraphs in the input box below and click the “Paraphrase” button.
-[Visit](https://www.thataicollection.com/redirect/paraphrase-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Paraphrase Online accohas many features that make it one of the best paraphrase tool. Content writers, students, researchers, or even journalists can use this paraphraser to improve and rephrase their content.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/paraphrase-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Pandalyst
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pandalyst.webp" alt="Pandalyst">
-
-#### Pandalyst is a tool to write SQL queries faster and without errors by generating high-performing SQL queries with AI from the user's prompts.
-[Visit](https://www.thataicollection.com/redirect/pandalyst?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pandalyst allows you to provide details about your database.
-
-From that, Pandalyst transforms your input into structured and streamlined SQL queries. With Pandalyst, you can save energy and focus, enabling you to emphasize essential duties.
-
-Unlock the full potential of your data, whether you're a novice or a pro, with Pandalyst's user-friendly interface.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/pandalyst?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### NSFWGirlfriend
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nsfwgirlfriend.webp" alt="NSFWGirlfriend">
-
-#### NSFWGirlfriend: Dive into Authentic, Uninhibited NSFW Character AI Chats with Zero Restrictions.
-[Visit](https://www.thataicollection.com/redirect/nsfwgirlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Indulge in Unrestricted NSFW Character AI Chats. Craft Your AI Characters and Encounter Genuine, Boundless NSFW Engagements. Unleash the Creativity of Shaping Your Unique AI Persona. Dive In Today!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/nsfwgirlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### MoneyCoach
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
-
-#### MoneyCoach - Modern Money Manager And Budgeting App
-
-[Visit](https://www.thataicollection.com/redirect/moneycoach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-MoneyCoach is a personal finance app that helps you manage your money, budget, and track your spending. Available for iPhone, iPad, Mac and Apple Watch.
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/moneycoach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Videodubber.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber.ai.webp" alt="Videodubber.ai">
-
-#### Videodubber: AI video Translation, Text-to-Speech Services
-[Visit](https://www.thataicollection.com/redirect/videodubber.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Free AI-powered spanish to english video translation, voice cloning and text-to-speech. Scale with us to 30+ languages to 10x your audience size!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/videodubber.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ## Accounting & Finance
@@ -617,6 +619,21 @@ Discover endless possibilities in interior design with our innovative AI-driven 
 
 ## Art & Image Generator
 
+### SUPERMACHINE
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
+
+#### Supermachine - Generate Stock Photos, Art, and Images With AI
+[Visit](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SUPERMACHINE enables you to generate images with the latest in artificial intelligence technology. Generate Awesome AI Images with 55+ Models.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### caspa AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI">
 
@@ -662,6 +679,21 @@ ICONS8 ALLOWS DESIGNERS TO EXPRESS THEIR IDEAS, PROVIDING THE RIGHT DESIGN ELEME
 
 
 
+### CustomQR AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customqr-ai.webp" alt="CustomQR AI">
+
+#### QR Code Generation Service for Business
+[Visit](https://www.thataicollection.com/redirect/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Get artistic beautiful QR codes on your email in under 10 minutes. Choose from available QR code categories or request your own. Make your business stand out with unique QR arts!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Pet Booth
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
 
@@ -683,49 +715,19 @@ Receive a pack of 100 AI generated images of your pet in both photo-realistic an
 
 
 
-### CustomQR AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customqr-ai.webp" alt="CustomQR AI">
+### Corporate Headshots AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
 
-#### QR Code Generation Service for Business
-[Visit](https://www.thataicollection.com/redirect/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Corporate Headshots AI: Revolutionizing Corporate Portraits with AI
+[Visit](https://www.thataicollection.com/redirect/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Get artistic beautiful QR codes on your email in under 10 minutes. Choose from available QR code categories or request your own. Make your business stand out with unique QR arts!
+Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Designify
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-designify.webp" alt="Designify">
-
-#### Designify - Turn Any Photo Into Awesome
-[Visit](https://www.thataicollection.com/redirect/designify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Create exceptional product photos and more: Pick any image to start the magic ✨
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/designify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+[More Information and Pricing](https://www.thataicollection.com/en/application/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
-### Anime AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-anime-ai.webp" alt="Anime AI">
-
-#### AI Anime Picture Generator - Anime AI
-[Visit](https://www.thataicollection.com/redirect/anime-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Create your perfect anime picture with AI. Choose between One Piece, Naruto, Webtoon styles and others!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/anime-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 
@@ -2623,14 +2625,14 @@ Spellbook uses GPT-3 to review and suggest language for your contracts, right in
 
 [Visit](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Logojoy is now Looka! Design a Logo, make a website, and create a Brand Identity you’ll love with the power of Artificial Intelligence. 100% free to use.
+Design a Logo, make a website, and create a Brand Identity you’ll love with the power of Artificial Intelligence. 100% free to use.
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-
+<br />
 
 
 ### Text To Book Cover
