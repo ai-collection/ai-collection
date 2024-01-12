@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1005" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1017" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -71,7 +71,7 @@
     </a>
     <h4>Looka: Diseño de logotipos e identidad de marca para emprendedores 
 </h4>
-    <p>Logojoy es ahora Looka! Diseña un logotipo, crea un sitio web y crea una identidad de marca que te encante con el poder de la inteligencia artificial. De uso 100% gratuito.
+    <p>Diseña un logotipo, crea un sitio web y crea una identidad de marca que te encante con el poder de la inteligencia artificial. De uso 100% gratuito.
 </p>
     <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Looka</b></a>
     <br />
@@ -138,6 +138,72 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### Clipfly
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clipfly.webp" alt="Clipfly">
+
+#### Crea vídeos atractivos con el editor de vídeo Clipfly
+[Visit](https://www.thataicollection.com/redirect/clipfly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Clipfly es un editor de vídeo sencillo e integral que está completamente en línea y de uso gratuito. 
+
+● Potentes funciones de edición de vídeo con IA: potenciador de vídeo con IA, vídeo con IA más nítido, generación de voz en off con IA, etc.
+
+● Enormes herramientas de edición de vídeo: amplia colección de herramientas de edición de vídeo gratuitas.
+
+● Abundantes elementos creativos para vídeos: incluye una variedad de fuentes de texto elegantes, música libre de derechos, imágenes, pegatinas, etc.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/clipfly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Dittin AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
+
+#### Dittin AI: plataforma de chatbots de IA de la NSFW sin censura
+[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dittin AI es una plataforma de chatbots de IA de la NSFW basada en DittinLLM. Con restricciones mínimas en cuanto al contenido de la NSFW, puedes entablar conversaciones con personajes de la IA sobre una amplia gama de temas. La IA de Dittin admite avatares 3D y mensajes de voz, lo que te permite crear y compartir personajes de IA con avatares 3D interactivos y sonoros mediante el panel de creación.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Corporate Headshots AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
+
+#### Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA
+[Visit](https://www.thataicollection.com/redirect/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### DiffusionHub.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-diffusionhub.io.webp" alt="DiffusionHub.io">
+
+#### DiffusionHub: ¡Difusión estable sin problemas!
+[Visit](https://www.thataicollection.com/redirect/diffusionhub.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Libera el potencial de Stable Diffusion sin esfuerzo en DiffusionHub. Lanza instancias, almacena generaciones y crea sin necesidad de una GPU. Explora Automatic1111, Comfy y Kohya para disfrutar de experiencias creativas perfectas.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/diffusionhub.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Looka
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka">
 
@@ -145,10 +211,27 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 
 [Visit](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Logojoy es ahora Looka! Diseña un logotipo, crea un sitio web y crea una identidad de marca que te encante con el poder de la inteligencia artificial. De uso 100% gratuito.
+Diseña un logotipo, crea un sitio web y crea una identidad de marca que te encante con el poder de la inteligencia artificial. De uso 100% gratuito.
 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### AVCLabs Video Enhancer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-video-enhancer.webp" alt="AVCLabs Video Enhancer">
+
+#### Mejorador de vídeo: el mejor mejorador y escalador de calidad de vídeo con tecnología de IA
+
+[Visit](https://www.thataicollection.com/redirect/avclabs-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Mejorador de calidad de vídeo, escalador de vídeo y colorizador de vídeo basado en IA, mejora la calidad de tus vídeos antiguos y mejora los vídeos de SD a HD, HD a 4K e incluso 8K.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/avclabs-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -164,87 +247,6 @@ Logojoy es ahora Looka! Diseña un logotipo, crea un sitio web y crea una identi
 Remagine AI ofrece una amplia biblioteca de plantillas y herramientas de IA que permiten a las empresas generar sin esfuerzo contenido de marketing de alta calidad en cuestión de segundos. Desde publicaciones de blog y actualizaciones en redes sociales hasta anuncios, guiones de YouTube, correos electrónicos, ofertas de trabajo y catálogos de comercio electrónico, Remagine AI lo cubre todo.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Paraphrase Online
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paraphrase-online.webp" alt="Paraphrase Online">
-
-#### Parafrasear en Internet cualquier texto con nuestra herramienta de paráfrasis de IA. Pega los párrafos en el cuadro de entrada de abajo y haz clic en el botón de «Paráfrasis».
-[Visit](https://www.thataicollection.com/redirect/paraphrase-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Paraphrase Online cuenta con muchas funciones que la convierten en una de las mejores herramientas de paráfrasis. Los escritores de contenido, los estudiantes, los investigadores o incluso los periodistas pueden utilizar esta paráfrasis para mejorar y reformular su contenido.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/paraphrase-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Pandalyst
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pandalyst.webp" alt="Pandalyst">
-
-#### Pandalyst es una herramienta que permite escribir consultas SQL más rápido y sin errores al generar consultas SQL de alto rendimiento con IA a partir de las instrucciones del usuario.
-[Visit](https://www.thataicollection.com/redirect/pandalyst?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pandalyst te permite dar detalles sobre tu base de datos.
-
-A partir de ahí, Pandalyst transforma tus datos en consultas SQL estructuradas y simplificadas. Con Pandalyst, puedes ahorrar energía y concentrarte, lo que te permite hacer hincapié en las tareas esenciales.
-
-Aprovecha todo el potencial de tus datos, tanto si eres un novato como un profesional, con la interfaz fácil de usar de Pandalyst.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/pandalyst?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### NSFWGirlfriend
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nsfwgirlfriend.webp" alt="NSFWGirlfriend">
-
-#### NSFWGirlfriend: Sumérgete en las auténticas y desinhibidas charlas de IA de personajes de la NSFW sin restricciones.
-[Visit](https://www.thataicollection.com/redirect/nsfwgirlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Disfruta de charlas de IA con personajes de la NSFW sin restricciones. Crea tus personajes de IA y enfréntate a combates genuinos e ilimitados de la NSFW. Da rienda suelta a la creatividad de dar forma a tu personalidad única de IA. ¡Sumérgete hoy!
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/nsfwgirlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### MoneyCoach
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
-
-#### MoneyCoach: aplicación moderna de gestión de dinero y presupuestación
-
-[Visit](https://www.thataicollection.com/redirect/moneycoach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-MoneyCoach es una aplicación de finanzas personales que te ayuda a gestionar tu dinero, tu presupuesto y hacer un seguimiento de tus gastos. Disponible para iPhone, iPad, Mac y Apple Watch.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/moneycoach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Videodubber.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-videodubber.ai.webp" alt="Videodubber.ai">
-
-#### Videodubber: traducción de vídeo mediante IA, servicios de conversión de texto a voz
-[Visit](https://www.thataicollection.com/redirect/videodubber.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Traducción gratuita de vídeo del español al inglés del español al inglés, clonación de voz y conversión de texto a voz. ¡Amplía con nosotros a más de 30 idiomas y 10 veces el tamaño de tu audiencia!
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/videodubber.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -611,6 +613,21 @@ Descubre infinitas posibilidades en el diseño de interiores con nuestra innovad
 
 ## Generador de imágenes y arte
 
+### SUPERMACHINE
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
+
+#### Supermachine: genera fotos, arte e imágenes de archivo con IA
+[Visit](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SUPERMACHINE te permite generar imágenes con lo último en tecnología de inteligencia artificial. Genera imágenes de IA impresionantes con más de 55 modelos.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### caspa AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI">
 
@@ -656,6 +673,21 @@ ICONS8 PERMITE A LOS DISEÑADORES EXPRESAR SUS IDEAS Y PROPORCIONARLES LOS ELEME
 
 
 
+### CustomQR AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customqr-ai.webp" alt="CustomQR AI">
+
+#### Servicio de generación de códigos QR para empresas
+[Visit](https://www.thataicollection.com/redirect/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Obtenga hermosos códigos QR artísticos en su correo electrónico en menos de 10 minutos. Elija entre las categorías de códigos QR disponibles o solicite la suya propia. ¡Haz que tu negocio se destaque con artes QR únicos!
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Pet Booth
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
 
@@ -677,49 +709,19 @@ Recibe un paquete de 100 imágenes generadas por la IA de tu mascota en estilos 
 
 
 
-### CustomQR AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customqr-ai.webp" alt="CustomQR AI">
+### Corporate Headshots AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
 
-#### Servicio de generación de códigos QR para empresas
-[Visit](https://www.thataicollection.com/redirect/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA
+[Visit](https://www.thataicollection.com/redirect/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Obtenga hermosos códigos QR artísticos en su correo electrónico en menos de 10 minutos. Elija entre las categorías de códigos QR disponibles o solicite la suya propia. ¡Haz que tu negocio se destaque con artes QR únicos!
+Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Designify
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-designify.webp" alt="Designify">
-
-#### Designify - Convierte cualquier foto en impresionante
-[Visit](https://www.thataicollection.com/redirect/designify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Crea fotos de productos excepcionales y más: elige cualquier imagen para comenzar la magia ✨
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/designify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+[More Information and Pricing](https://www.thataicollection.com/es/application/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
-### Anime AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-anime-ai.webp" alt="Anime AI">
-
-#### Generador de imágenes de anime AI - Anime AI
-[Visit](https://www.thataicollection.com/redirect/anime-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Crea tu imagen de anime perfecta con IA. ¡Elige entre los estilos One Piece, Naruto, Webtoon y otros!
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/anime-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 
@@ -2617,14 +2619,14 @@ Spellbook usa GPT-3 para revisar y sugerir lenguaje para sus contratos, directam
 
 [Visit](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Logojoy es ahora Looka! Diseña un logotipo, crea un sitio web y crea una identidad de marca que te encante con el poder de la inteligencia artificial. De uso 100% gratuito.
+Diseña un logotipo, crea un sitio web y crea una identidad de marca que te encante con el poder de la inteligencia artificial. De uso 100% gratuito.
 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-
+<br />
 
 
 ### Text To Book Cover
