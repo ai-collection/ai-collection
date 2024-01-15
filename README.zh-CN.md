@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1017" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1021" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
     </a>
-    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
-    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
+    <h4>Caspa AI 是一个在几分钟内创建和自定义 AI 图像的平台</h4>
+    <p>使用这款免费工具，发挥 AI 驱动的图像创建和编辑的潜力，为各种应用程序快速且经济高效地制作独特的视觉效果。</p>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 caspa AI</b></a>
     <br />
 </div>
 
@@ -137,6 +137,21 @@
 - 💰 [销售与市场营销](#销售与市场营销)
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
+
+### aiPDF
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aipdf.webp" alt="aiPDF">
+
+#### aiPdf 是一款创新的多模式工具，旨在处理各种输入，包括电子书、网络文章、YouTube 视频、播客等。
+[Visit](https://www.thataicollection.com/redirect/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+该平台的（问答）系统根据包括谷歌和斯坦福大学在内的知名公司和知名机构的基准进行了严格的测试，确保了提供准确和微调的回复。AiPDF优先考虑用户隐私，配备了先进的安全系统，可保护您的文件和个人信息，确保安全和私密的用户体验。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 
 ### Clipfly
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clipfly.webp" alt="Clipfly">
@@ -232,21 +247,6 @@ Dittin AI 是一个基于 DittinLLM 的 NSFW 人工智能聊天机器人平台�
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/avclabs-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Remagine AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remagine-ai.webp" alt="Remagine AI">
-
-#### Remagine AI 是一款内容编写工具，配备 200 多个人工智能模板。
-[Visit](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Remagine AI 提供了庞大的 AI 模板和工具库，使企业能够在几秒钟内轻松生成高质量的营销内容。从博客文章和社交媒体更新到广告、YouTube脚本、电子邮件、招聘信息以及电子商务目录，Remagine AI涵盖了所有内容。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1854,6 +1854,21 @@ SwaGai-人工智能在T恤上生成了图像。
 
 ## 乐趣
 
+### Dittin AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
+
+#### Dittin AI-未经审查的 NSFW AI 聊天机器人平台
+[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dittin AI 是一个基于 DittinLLM 的 NSFW 人工智能聊天机器人平台。只要对NSFW内容的限制最小，你就可以与AI角色就各种话题进行对话。Dittin AI 支持 3D 头像和语音消息，允许您使用创建面板创建和共享带有声音和交互式 3D 头像的 AI 角色。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### AI Girlfriend WTF
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
 
@@ -1867,21 +1882,6 @@ SwaGai-人工智能在T恤上生成了图像。
 潜入众多 AI 女孩的世界，立即开始玩吧！
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
-
-#### undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4684,15 +4684,18 @@ Vidnoz Flex 是 Vidnoz 推出的一款简单但功能强大的视频工具，它
 <br />
 
 
-### HitPaw Online Video Enhancer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
+### HeyGen
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-heygen.webp" alt="HeyGen">
 
-#### 通过训练有素的 AI 一键取消模糊和升级您的视频。
-[Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 没有相机？没有船员？没问题！
+使用可定制的 AI 头像扩展您的视频制作
+[Visit](https://www.thataicollection.com/redirect/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-HitPaw Online Video Enhancer 是低分辨率视频的最佳解决方案，可以毫不费力地将视频解决方案提高到 1080P/4K。
+HeyGen 是一个视频平台，可帮助您利用生成式 AI 创建引人入胜的商业视频，
+就像为各种用例制作 PowerPoint 一样简单：
+讲解和操作方法、营销、个性化销售、电子学习、培训和入职以及新闻。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4716,24 +4719,6 @@ HitPaw Online Video Enhancer 是低分辨率视频的最佳解决方案，可以
 <br />
 
 
-### HeyGen
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-heygen.webp" alt="HeyGen">
-
-#### 没有相机？没有船员？没问题！
-使用可定制的 AI 头像扩展您的视频制作
-[Visit](https://www.thataicollection.com/redirect/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HeyGen 是一个视频平台，可帮助您利用生成式 AI 创建引人入胜的商业视频，
-就像为各种用例制作 PowerPoint 一样简单：
-讲解和操作方法、营销、个性化销售、电子学习、培训和入职以及新闻。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### Eightify
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eightify.webp" alt="Eightify">
 
@@ -4743,6 +4728,21 @@ HeyGen 是一个视频平台，可帮助您利用生成式 AI 创建引人入胜
 ⚡️ 获取 YouTube 视频的即时 AI 摘要，节省时间，翻译成 28 种语言
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/eightify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### HitPaw Online Video Enhancer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
+
+#### 通过训练有素的 AI 一键取消模糊和升级您的视频。
+[Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HitPaw Online Video Enhancer 是低分辨率视频的最佳解决方案，可以毫不费力地将视频解决方案提高到 1080P/4K。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1017" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1021" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,6 +59,19 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
+    </a>
+    <h4>Caspa AI Is a Platform to Create and Customise AI Images in Minutes</h4>
+    <p>Unlock the potential of AI-powered image creation and editing with this free tool, producing unique visuals quickly and cost-effectively for various applications.</p>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with caspa AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka" border="0"/>
     </a>
@@ -67,19 +80,6 @@ Translations:
     <p>Design a Logo, make a website, and create a Brand Identity you’ll love with the power of Artificial Intelligence. 100% free to use.
 </p>
     <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Looka</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
-    <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
     <br />
 </div>
 
@@ -390,7 +390,6 @@ Translations:
 | [Commandbar HelpHub](https://www.thataicollection.com/redirect/commandbar-helphub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | A GPT-Powered Chatbot for Any Site. | You can add source content in 3 ways: -Crawling any public site via a URL (e.g. your marketing site or blog) -Syncing with a CMS (like Zendesk or Intercom) - Add content manually. The chatbot is then trained on that content and will answer questions based on that content only. | :white_check_mark: |
 | [CrushOn.AI](https://www.thataicollection.com/redirect/crushon.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | CrushonAI: Experience Genuine, Unrestricted NSFW Character AI Chats with NO Filters.  🚀🤖. | Immerse yourself in unfiltered NSFW character AI chats. Create your AI characters and experience authentic, limitless NSFW interactions. Explore the power of crafting your unique AI persona. Dive in now!. | :white_check_mark: |
 | [Dante](https://www.thataicollection.com/redirect/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Custom GPT Chatbots Trained on Your Data. | Zero coding. Share on your website in minutes. Build a GPT-4 chatbot in minutes. Train the AI, customize, and embed on your website. | :white_check_mark: |
-| [Dittin AI](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dittin AI - uncensored NSFW AI Chatbot Platform. | Dittin AI is an NSFW AI chatbot platform built on DittinLLM. With minimal restrictions on NSFW content, you can engage in conversations with AI characters on a wide range of topics. Dittin AI supports 3D avatars and voice messages, allowing you to create and share AI characters with both sound and interactive 3D avatars using the creation panel. | :white_check_mark: |
 | [Docubro](https://www.thataicollection.com/redirect/docubro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT for Your Website Documentation. | ChatGPT for your documentation, make it accesible and easy to use by having a conversation to explore the content. | :grey_question: |
 | [EmbedAI](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EmbedAI - Custom AI Chatbot trained on your data. | Develop a personalized AI support chatbot by utilizing your unique content, support documents, PDFs, APIs, or databases. Easily integrate it into your website with just one line of code to provide real-time responses to your visitors' inquiries, thereby minimizing the number of support tickets you receive. | :white_check_mark: |
 | [Flot.ai](https://www.thataicollection.com/redirect/flot.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Your AI Copilot for All Apps and Websites. | Use ChatGPT anywhere you type or select without copy-pasting. Ask AI to write, improve, paraphrase, summarize, translate, explain, or reply to any text with one click. | :white_check_mark: |
@@ -670,6 +669,7 @@ Translations:
 | [Blackink](https://www.thataicollection.com/redirect/blackink?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create Your Own Unique Flash Tattoo in Seconds. | Stop spending months searching Pinterest for your next tattoo. Generate custom, unique tattoos in seconds with BlackInk's AI, designed to create tattoo-like designs just for you. | :white_check_mark: |
 | [Botify](https://www.thataicollection.com/redirect/botify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Botify AI. | Fun chat with your favorite characters. | :grey_question: |
 | [CharacterAI](https://www.thataicollection.com/redirect/characterai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Character.Ai Lets You Create Characters and Talk to Them. | Characters can be anything. Our breakthrough AI technology can bring all of your ideas to life. | :white_check_mark: |
+| [Dittin AI](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dittin AI - uncensored NSFW AI Chatbot Platform. | Dittin AI is an NSFW AI chatbot platform built on DittinLLM. With minimal restrictions on NSFW content, you can engage in conversations with AI characters on a wide range of topics. Dittin AI supports 3D avatars and voice messages, allowing you to create and share AI characters with both sound and interactive 3D avatars using the creation panel. | :white_check_mark: |
 | [EmojiBrew](https://www.thataicollection.com/redirect/emojibrew?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EmojiBrew - Emoji combinations to copy & paste. | Search through thousands of emoji combinations generated by AI to copy & paste ✂📋 Save time by searching for any word and find the matching combo. | :white_check_mark: |
 | [Excuses AI](https://www.thataicollection.com/redirect/excuses-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Excuse Generator. | Use AI to generate the perfect professional excuse. | :grey_question: |
 | [FoodAI](https://www.thataicollection.com/redirect/foodai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Foodai.App - Generate Cooking Recipes With Ai!. | Select the ingredients you want to use, and our AI will give you recipes to make with some of those ingredients. Then click on the button below to get your recipe. | :white_check_mark: |
@@ -1015,6 +1015,7 @@ Translations:
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AICamp](https://www.thataicollection.com/redirect/aicamp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT for Teams AICamp enables teams to centralize access to leading AI models like Claude, Bard, and custom large language models through a unified platform. | You can integrate these models using your own API keys for seamless access within one solution. The platform allows teams to boost productivity by eliminating the need to toggle between multiple tools to leverage different AI capabilities. With AICamp, employees can get answers, recommendations, and automated responses powered by state-of-the-art language models. | :white_check_mark: |
+| [aiPDF](https://www.thataicollection.com/redirect/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | aiPDF is an innovative, multi-modal tool designed to work with a wide array of inputs, including ebooks, web articles, YouTube videos, podcasts, and more. | The platform's (Q&A) system is rigorously tested against benchmarks from notable companies and esteemed institutions, including Google and Stanford University, ensuring the delivery of accurate and fine-tuned responses. Prioritizing user privacy, aiPDF is equipped with advanced safety systems to protect both your documents and personal information, ensuring a secure and private user experience. | :white_check_mark: |
 | [Ask Poppy](https://www.thataicollection.com/redirect/ask-poppy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Poppylist - Be the Parent You Want to Be. | Preparing for the parenthood journey one baby step at a time. Welcome to Poppylist, your baby registry simplified. You know your lifestyle. We know the products. Let's build your baby registry together. | :white_check_mark: |
 | [Based Labs AI](https://www.thataicollection.com/redirect/based-labs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | BasedLabs is a creative hub for AI video generation, enabling users to explore, create, and share diverse AI-powered videos. | BasedLabs offers an engaging platform for exploring and creating AI-generated videos, from abstract animations to story-rich content. It provides intuitive tools for users to craft and share their own AI videos,fostering a community of innovation and creativity.  This site is a destination for both viewing remarkable AI video creations and expressing personal artistic vision through AI technology. | :white_check_mark: |
 | [Bongocat](https://www.thataicollection.com/redirect/bongocat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bongocat is an AI-integrated content management system, a blog that can write itself. | Creating your Bongocat site is an easy no-code process. With a few clicks and a little setup, your new blog site is live and ready to start creating high-quality AI-generated content that you can review, edit and publish in minutes. | :grey_question: |

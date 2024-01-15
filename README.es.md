@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1017" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1021" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
     </a>
-    <h4>Podwise, la principal aplicación de aprendizaje de IA para los oyentes de podcasts.</h4>
-    <p>Con Podwise, puedes aprender a partir de conocimientos estructurados y escuchar de forma selectiva los capítulos que despierten tu interés. Esta función te permite optimizar tu experiencia de aprendizaje y centrarte en el contenido que más te importa.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Podwise</b></a>
+    <h4>Caspa AI es una plataforma para crear y personalizar imágenes de IA en cuestión de minutos</h4>
+    <p>Aproveche el potencial de la creación y edición de imágenes con tecnología de IA con esta herramienta gratuita, que produce imágenes únicas de forma rápida y rentable para diversas aplicaciones.</p>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con caspa AI</b></a>
     <br />
 </div>
 
@@ -137,6 +137,21 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 💰 [Ventas Y Marketing](#ventas-y-marketing)
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
+
+### aiPDF
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aipdf.webp" alt="aiPDF">
+
+#### AiPDF es una herramienta innovadora y multimodal diseñada para funcionar con una amplia gama de entradas, incluidos libros electrónicos, artículos web, vídeos de YouTube, podcasts y mucho más.
+[Visit](https://www.thataicollection.com/redirect/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+El sistema (preguntas y respuestas) de la plataforma se prueba rigurosamente con puntos de referencia de empresas e instituciones destacadas, como Google y la Universidad de Stanford, lo que garantiza la entrega de respuestas precisas y ajustadas. Al priorizar la privacidad de los usuarios, AiPDF está equipado con sistemas de seguridad avanzados para proteger tanto tus documentos como tu información personal, garantizando una experiencia de usuario segura y privada.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Clipfly
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clipfly.webp" alt="Clipfly">
@@ -232,21 +247,6 @@ Mejorador de calidad de vídeo, escalador de vídeo y colorizador de vídeo basa
 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/avclabs-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Remagine AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remagine-ai.webp" alt="Remagine AI">
-
-#### Remagine AI es una herramienta de escritura de contenido equipada con más de 200 plantillas de IA.
-[Visit](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Remagine AI ofrece una amplia biblioteca de plantillas y herramientas de IA que permiten a las empresas generar sin esfuerzo contenido de marketing de alta calidad en cuestión de segundos. Desde publicaciones de blog y actualizaciones en redes sociales hasta anuncios, guiones de YouTube, correos electrónicos, ofertas de trabajo y catálogos de comercio electrónico, Remagine AI lo cubre todo.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1854,6 +1854,21 @@ Con la IA Outfit Anyone, explora una nueva era de la moda en la que probarte cua
 
 ## Divertido
 
+### Dittin AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
+
+#### Dittin AI: plataforma de chatbots de IA de la NSFW sin censura
+[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dittin AI es una plataforma de chatbots de IA de la NSFW basada en DittinLLM. Con restricciones mínimas en cuanto al contenido de la NSFW, puedes entablar conversaciones con personajes de la IA sobre una amplia gama de temas. La IA de Dittin admite avatares 3D y mensajes de voz, lo que te permite crear y compartir personajes de IA con avatares 3D interactivos y sonoros mediante el panel de creación.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI Girlfriend WTF
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
 
@@ -1867,21 +1882,6 @@ Ya sea sobrevivir en una isla desierta, navegar por el espacio en una nave espac
 ¡Sumérgete en el mundo de numerosas chicas de la IA y empieza a jugar ahora!
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
-
-#### undress.vip—2023 mejor vestido 100% funcional ai deepnude 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4683,19 +4683,22 @@ Vidnoz Flex es una herramienta de vídeo fácil pero potente de Vidnoz, que comb
 
 
 
-### HitPaw Online Video Enhancer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
+### HeyGen
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-heygen.webp" alt="HeyGen">
 
-#### Un clic para desenfocar y mejorar su video por IA entrenada.
-[Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### ¿NO CAMARAS? ¿NINGUNA TRIPULACIÓN? ¡NINGÚN PROBLEMA!
+Escale su producción de vídeo con avatares de IA personalizables
+[Visit](https://www.thataicollection.com/redirect/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-HitPaw Online Video Enhancer es la mejor solución para videos de baja resolución, aumente la solución de video hasta 1080P/4K sin esfuerzo.
+HeyGen es una plataforma de vídeo que te ayuda a crear vídeos empresariales atractivos con IA generativa.
+tan fácilmente como hacer PowerPoints para varios casos de uso:
+Explicación y procedimientos, marketing, ventas personalizadas, aprendizaje electrónico, formación e incorporación y noticias.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### VEED.IO
@@ -4715,24 +4718,6 @@ Editor de vídeo con IA gratuito con conversión de texto a vídeo, avatares, su
 
 
 
-### HeyGen
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-heygen.webp" alt="HeyGen">
-
-#### ¿NO CAMARAS? ¿NINGUNA TRIPULACIÓN? ¡NINGÚN PROBLEMA!
-Escale su producción de vídeo con avatares de IA personalizables
-[Visit](https://www.thataicollection.com/redirect/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HeyGen es una plataforma de vídeo que te ayuda a crear vídeos empresariales atractivos con IA generativa.
-tan fácilmente como hacer PowerPoints para varios casos de uso:
-Explicación y procedimientos, marketing, ventas personalizadas, aprendizaje electrónico, formación e incorporación y noticias.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Eightify
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eightify.webp" alt="Eightify">
 
@@ -4742,6 +4727,21 @@ Explicación y procedimientos, marketing, ventas personalizadas, aprendizaje ele
 ⚡️ Obtenga resúmenes instantáneos con tecnología de inteligencia artificial para videos de YouTube, ahorre tiempo, traduzca en 28 idiomas
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/eightify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### HitPaw Online Video Enhancer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
+
+#### Un clic para desenfocar y mejorar su video por IA entrenada.
+[Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HitPaw Online Video Enhancer es la mejor solución para videos de baja resolución, aumente la solución de video hasta 1080P/4K sin esfuerzo.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

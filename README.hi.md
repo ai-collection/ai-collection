@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1017" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1021" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
-    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka" border="0"/>
     </a>
@@ -74,6 +61,19 @@
     <p>आर्टिफिशियल इंटेलीजेंस की ताकत से लोगो डिज़ाइन करें, वेबसाइट बनाएं और ब्रांड की पहचान बनाएं, जो तुम्हेंं पसंद आएगा। 100% इस्तेमाल करने के लिए मुफ़्त।
 </p>
     <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Looka के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
+    </a>
+    <h4>Caspa AI मिनटों में AI इमेज बनाने और कस्टमाइज़ करने का एक प्लेटफ़ॉर्म है</h4>
+    <p>इस मुफ़्त टूल की मदद से AI-संचालित छवि निर्माण और संपादन की संभावनाओं को अनलॉक करें, विभिन्न ऐप्लीकेशन के लिए तेज़ी से और लागत प्रभावी ढंग से अनोखे विज़ुअल तैयार करें।</p>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>caspa AI के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -137,6 +137,21 @@
 - 📊 [स्लाइड और प्रस्तुतियाँ](#स्लाइड-और-प्रस्तुतियाँ)
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
+
+### aiPDF
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aipdf.webp" alt="aiPDF">
+
+#### AIPDF एक अभिनव, मल्टी-मोडल टूल है, जिसे कई तरह के इनपुट के साथ काम करने के लिए डिज़ाइन किया गया है, जिसमें ई-बुक्स, वेब लेख, YouTube वीडियो, पॉडकास्ट और बहुत कुछ शामिल हैं।
+[Visit](https://www.thataicollection.com/redirect/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+प्लेटफ़ॉर्म के (Q&A) सिस्टम का Google और स्टैनफ़ोर्ड यूनिवर्सिटी सहित नामी कंपनियों और प्रतिष्ठित संस्थानों के बेंचमार्क के खिलाफ कड़ाई से परीक्षण किया जाता है, जिससे सटीक और बेहतरीन प्रतिक्रियाएँ मिलती हैं। यूज़र की गोपनीयता को प्राथमिकता देते हुए, AIPDF में तुम्हारे दस्तावेज़ों और व्यक्तिगत जानकारी, दोनों की सुरक्षा के लिए एडवांस सुरक्षा प्रणालियाँ हैं, जिससे यूज़र को सुरक्षित और निजी अनुभव मिलता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Clipfly
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clipfly.webp" alt="Clipfly">
@@ -232,21 +247,6 @@ DiffusionHub पर आसानी से स्टेबल डिफ़्य
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/avclabs-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Remagine AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remagine-ai.webp" alt="Remagine AI">
-
-#### रीमैगीन एआई एक कंटेंट राइटर टूल है, जो 200+ एआई टेम्प्लेट से लैस है।
-[Visit](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Remagine AI, AI टेम्प्लेट और टूल की एक विशाल लाइब्रेरी प्रदान करता है, जिससे बिज़नेस कुछ ही सेकंड में आसानी से उच्च गुणवत्ता वाली मार्केटिंग सामग्री जेनरेट कर सकते हैं। ब्लॉग पोस्ट और सोशल मीडिया अपडेट से लेकर विज्ञापन, यूट्यूब स्क्रिप्ट, ईमेल, जॉब पोस्टिंग और ई-कॉमर्स कैटलॉग तक, Remagine AI में यह सब शामिल है।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1854,6 +1854,21 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 ## आनंद
 
+### Dittin AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
+
+#### डिटिन एआई - बिना सेंसर किया हुआ NSFW AI चैटबोट प्लेटफ़ॉर्म
+[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+डिटिन एआई एक NSFW AI चैटबोट प्लेटफ़ॉर्म है, जिसे DittinLLM पर बनाया गया है। NSFW कॉन्टेंट पर न्यूनतम प्रतिबंधों के साथ, तुम कई विषयों पर AI कैरेक्टर के साथ बातचीत कर सकते हो। डिटिन एआई 3डी अवतार और वॉइस मैसेज का समर्थन करता है, जिससे तुम क्रिएशन पैनल का उपयोग करके साउंड और इंटरैक्टिव दोनों तरह के 3D अवतारों के साथ AI कैरेक्टर बना सकते हो और शेयर कर सकते हो।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI Girlfriend WTF
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
 
@@ -1867,21 +1882,6 @@ AI द्वारा जेनरेट किया गया स्वैग�
 कई AI लड़कियों की दुनिया में गोता लगाएँ और अभी खेलना शुरू करें!
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
-
-#### कपड़े उतारना.vip—2023 सबसे अच्छा 100% काम करने वाला अनड्रेस ऐ डीप न्यूड 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress.vip, एक ज़बरदस्त एयर टूल, जो इस प्रगति में सबसे आगे है। undress.vip—2023 सबसे अच्छा 100% वर्किंग एआई डीपन्यूड और डीपफ़ेक टेलीग्राम अनड्रेस एयर बॉट्स
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4684,19 +4684,22 @@ Vidnoz Flex, Vidnoz का एक आसान लेकिन शक्ति�
 
 
 
-### HitPaw Online Video Enhancer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
+### HeyGen
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-heygen.webp" alt="HeyGen">
 
-#### प्रशिक्षित एआई द्वारा अपने वीडियो को अनब्लर और अपस्केल करने के लिए वन-क्लिक।
-[Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### कैमरा नहीं? कोई दल नहीं? कोई बात नहीं!
+अनुकूलन योग्य AI अवतारों के साथ अपने वीडियो उत्पादन को बढ़ाएं
+[Visit](https://www.thataicollection.com/redirect/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-HitPaw ऑनलाइन वीडियो एन्हांसर कम रिज़ॉल्यूशन वाले वीडियो के लिए सबसे अच्छा समाधान है, वीडियो समाधान को बिना किसी प्रयास के 1080P/4K तक बढ़ाएं।
+हेजेन एक वीडियो प्लेटफ़ॉर्म है जो आपको जेनरेटिव एआई के साथ आकर्षक व्यावसायिक वीडियो बनाने में मदद करता है।
+विभिन्न उपयोग के मामलों के लिए पावरप्वाइंट बनाने जितनी आसानी से:
+व्याख्याकार और कैसे करें, विपणन, वैयक्तिकृत बिक्री, ई-लर्निंग, प्रशिक्षण और ऑनबोर्डिंग और समाचार।
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### VEED.IO
@@ -4716,24 +4719,6 @@ HitPaw ऑनलाइन वीडियो एन्हांसर कम र
 
 
 
-### HeyGen
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-heygen.webp" alt="HeyGen">
-
-#### कैमरा नहीं? कोई दल नहीं? कोई बात नहीं!
-अनुकूलन योग्य AI अवतारों के साथ अपने वीडियो उत्पादन को बढ़ाएं
-[Visit](https://www.thataicollection.com/redirect/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-हेजेन एक वीडियो प्लेटफ़ॉर्म है जो आपको जेनरेटिव एआई के साथ आकर्षक व्यावसायिक वीडियो बनाने में मदद करता है।
-विभिन्न उपयोग के मामलों के लिए पावरप्वाइंट बनाने जितनी आसानी से:
-व्याख्याकार और कैसे करें, विपणन, वैयक्तिकृत बिक्री, ई-लर्निंग, प्रशिक्षण और ऑनबोर्डिंग और समाचार।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Eightify
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eightify.webp" alt="Eightify">
 
@@ -4743,6 +4728,21 @@ HitPaw ऑनलाइन वीडियो एन्हांसर कम र
 ⚡️ YouTube वीडियो के लिए तत्काल AI-संचालित सारांश प्राप्त करें, समय बचाएं, 28 भाषाओं में अनुवाद करें
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/eightify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### HitPaw Online Video Enhancer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
+
+#### प्रशिक्षित एआई द्वारा अपने वीडियो को अनब्लर और अपस्केल करने के लिए वन-क्लिक।
+[Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HitPaw ऑनलाइन वीडियो एन्हांसर कम रिज़ॉल्यूशन वाले वीडियो के लिए सबसे अच्छा समाधान है, वीडियो समाधान को बिना किसी प्रयास के 1080P/4K तक बढ़ाएं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
