@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1021" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1024" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -59,6 +59,19 @@
     <h4>Caspa AI 是一个在几分钟内创建和自定义 AI 图像的平台</h4>
     <p>使用这款免费工具，发挥 AI 驱动的图像创建和编辑的潜力，为各种应用程序快速且经济高效地制作独特的视觉效果。</p>
     <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 caspa AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
+    </a>
+    <h4>免费的尖端人工智能工具，帮助求职者更快地找到理想的工作</h4>
+    <p>根据特定的工作要求和公司文化量身定制简历。根据简历中的强项自动生成个性化求职信，并与你申请的工作保持一致。针对你想要的职位提出具体的问题，为求职面试做好准备。在模拟面试环节中，大声练习答案并获得实时反馈。</p>
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 JobSearch.Coach</b></a>
     <br />
 </div>
 
@@ -137,6 +150,21 @@
 - 💰 [销售与市场营销](#销售与市场营销)
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
+
+### JobSearch.Coach
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach">
+
+#### 免费的尖端人工智能工具，帮助求职者更快地找到理想的工作
+[Visit](https://www.thataicollection.com/redirect/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+根据特定的工作要求和公司文化量身定制简历。根据简历中的强项自动生成个性化求职信，并与你申请的工作保持一致。针对你想要的职位提出具体的问题，为求职面试做好准备。在模拟面试环节中，大声练习答案并获得实时反馈。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 
 ### aiPDF
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aipdf.webp" alt="aiPDF">
@@ -230,23 +258,6 @@ Dittin AI 是一个基于 DittinLLM 的 NSFW 人工智能聊天机器人平台�
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AVCLabs Video Enhancer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-video-enhancer.webp" alt="AVCLabs Video Enhancer">
-
-#### 视频增强器：由 AI 提供支持的最佳视频质量增强器和视频升频器
-
-[Visit](https://www.thataicollection.com/redirect/avclabs-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-由人工智能驱动的视频质量增强器、视频升频器和视频着色器，它可以改善旧视频的质量，并将视频从标清到高清，从高清到4K，甚至8K升级。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/avclabs-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -613,21 +624,6 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 
 ## 艺术与图像生成器
 
-### SUPERMACHINE
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
-
-#### Supermachine-使用 AI 生成库存照片、艺术品和图像
-[Visit](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SUPERMACHINE 使您能够使用最新的人工智能技术生成图像。使用 55 多个模型生成精彩的 AI 图像。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### caspa AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI">
 
@@ -637,6 +633,21 @@ SUPERMACHINE 使您能够使用最新的人工智能技术生成图像。使用 
 使用这款免费工具，发挥 AI 驱动的图像创建和编辑的潜力，为各种应用程序快速且经济高效地制作独特的视觉效果。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### SUPERMACHINE
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
+
+#### Supermachine-使用 AI 生成库存照片、艺术品和图像
+[Visit](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SUPERMACHINE 使您能够使用最新的人工智能技术生成图像。使用 55 多个模型生成精彩的 AI 图像。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -849,21 +860,6 @@ AI 生成您主演的图片
 
 ## 聊天机器人
 
-### chtrbx
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jake-b.webp" alt="chtrbx">
-
-#### Chtrbx：利用人工智能驱动的洞察力彻底改变客户服务
-[Visit](https://www.thataicollection.com/redirect/chtrbx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chtrbx是一个人工智能聊天平台，可帮助企业改善在线客户互动。它分析访客的情绪和兴趣，从而实现有效的参与和战略见解。这可以带来更好的用户体验、个性化推荐和潜在的更高销售额。Chtrbx 提供的不仅仅是聊天；它是一个数据驱动的工具，用于增强服务和推动增长。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chtrbx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### My AskAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
 
@@ -951,6 +947,21 @@ ChatSimple是一个专门在短短5分钟内为中小型企业（SMB）创建以
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/promptpal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### EmbedAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-embedai.webp" alt="EmbedAI">
+
+#### EmbeDai-根据您的数据进行训练的自定义 AI 聊天机器人
+[Visit](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+利用您的独特内容、支持文档、PDF、API 或数据库开发个性化的 AI 支持聊天机器人。只需一行代码即可轻松将其集成到您的网站中，以实时响应访问者的查询，从而最大限度地减少您收到的支持请求的数量。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2275,6 +2286,21 @@ AIApply是一套动态的人工智能工具，旨在增强求职者的能力。�
 <br />
 
 
+### JobSearch.Coach
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach">
+
+#### 免费的尖端人工智能工具，帮助求职者更快地找到理想的工作
+[Visit](https://www.thataicollection.com/redirect/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+根据特定的工作要求和公司文化量身定制简历。根据简历中的强项自动生成个性化求职信，并与你申请的工作保持一致。针对你想要的职位提出具体的问题，为求职面试做好准备。在模拟面试环节中，大声练习答案并获得实时反馈。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### AI Resume Editor
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-resume-editor.webp" alt="AI Resume Editor">
 
@@ -2329,24 +2355,6 @@ Rezi 是唯一一个使用领先的 AI 来自动化创建可雇用简历的各�
 我们会自动申请 Linkedin、Indeed 和 Ziprecruiter 等平台上的所有职位。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/lazyapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### zap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zap.webp" alt="zap">
-
-#### Zap-停止写求职信。开始免费试用！
-
-
-[Visit](https://www.thataicollection.com/redirect/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-带有 AI 的免费即时求职信。定制且成功。
-净利润的25％捐赠给非营利组织，这些非营利组织帮助以前被监禁的人找到有报酬的工作。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/zap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

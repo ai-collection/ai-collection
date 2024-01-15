@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1021" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1024" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -61,6 +61,19 @@
     <p>आर्टिफिशियल इंटेलीजेंस की ताकत से लोगो डिज़ाइन करें, वेबसाइट बनाएं और ब्रांड की पहचान बनाएं, जो तुम्हेंं पसंद आएगा। 100% इस्तेमाल करने के लिए मुफ़्त।
 </p>
     <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Looka के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
+    </a>
+    <h4>मुफ़्त अत्याधुनिक AI टूल, जो नौकरी तलाशने वालों को अपने सपनों की नौकरी को तेज़ी से पूरा करने में मदद करते हैं</h4>
+    <p>नौकरी की खास ज़रूरतों और कंपनी की संस्कृति के हिसाब से अपना रेज़्यूमे तैयार करें। अपने रेज़्यूमे के सबसे मज़बूत बिंदुओं के आधार पर और जिस नौकरी के लिए तुम आवेदन कर रहे हो, उसके साथ संरेखित होकर स्वचालित रूप से एक व्यक्तिगत कवर लेटर जेनरेट करें। अपनी मनचाही भूमिका से जुड़े सवालों के साथ नौकरी के लिए इंटरव्यू के लिए तैयार रहो। अपने जवाबों का ज़ोर से अभ्यास करो और मॉक इंटरव्यू सेशन के दौरान रियल-टाइम फ़ीडबैक पाओ।</p>
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>JobSearch.Coach के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -957,6 +970,7 @@
 | [Hirex.ai](https://www.thataicollection.com/redirect/hirex.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hirex.ऐ. | वॉयस-आधारित बॉट बनाने के लिए एक नो-कोड एआई प्लेटफॉर्म, हायरेक्स.एआई में आपका स्वागत है जो बड़े पैमाने पर साक्षात्कार आयोजित करता है और स्कोर करता है। कोडिंग इंटरव्यू, एमसीक्यू टेस्ट, हैकाथॉन, वीडियो इंटरव्यू और व्हाट्सएप चैटबॉट जैसे असेसमेंट टूल का पूरा सूट एक ही डैशबोर्ड में पाएं. | :grey_question: |
 | [HireYaY](https://www.thataicollection.com/redirect/hireyay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हिरेय, स्टार्टअप्स के लिए एक हायरिंग प्लेटफॉर्म. | 92% नौकरी चाहने वाले अपना ऑनलाइन आवेदन पूरा नहीं करते हैं। HireYaY के साथ, आप एक योग्य उम्मीदवार को फिर कभी नहीं चूकेंगे।. | :grey_question: |
 | [JD Generator](https://www.thataicollection.com/redirect/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टीम से मिलें - किराया भागफल. | HireQuotients Skill Assessment Platform आपको आधे समय में प्रतिभा पूल के शीर्ष 10% को किराए पर लेने में मदद करता है।. | :grey_question: |
+| [JobSearch.Coach](https://www.thataicollection.com/redirect/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मुफ़्त अत्याधुनिक AI टूल, जो नौकरी तलाशने वालों को अपने सपनों की नौकरी को तेज़ी से पूरा करने में मदद करते हैं. | नौकरी की खास ज़रूरतों और कंपनी की संस्कृति के हिसाब से अपना रेज़्यूमे तैयार करें। अपने रेज़्यूमे के सबसे मज़बूत बिंदुओं के आधार पर और जिस नौकरी के लिए तुम आवेदन कर रहे हो, उसके साथ संरेखित होकर स्वचालित रूप से एक व्यक्तिगत कवर लेटर जेनरेट करें। अपनी मनचाही भूमिका से जुड़े सवालों के साथ नौकरी के लिए इंटरव्यू के लिए तैयार रहो। अपने जवाबों का ज़ोर से अभ्यास करो और मॉक इंटरव्यू सेशन के दौरान रियल-टाइम फ़ीडबैक पाओ।. | :white_check_mark: |
 | [LazyApply](https://www.thataicollection.com/redirect/lazyapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी नौकरी की आवेदन प्रक्रिया को स्वचालित करें. | हम स्वचालित रूप से Linkedin, Fed और Ziprecruiter जैसे प्लेटफॉर्म पर सभी नौकरियों के लिए आवेदन करते हैं।. | :x: |
 | [Prodigy AI](https://www.thataicollection.com/redirect/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सॉफ्टवेयर इंजीनियरों के करियर को बेहतर बनाने के लिए एआई का उपयोग करना. | हम सॉफ्टवेयर इंजीनियरों को बेहतर करियर बनाने में मदद करने वाले टूल बनाने के लिए नवीनतम एआई का उपयोग करने के मिशन पर हैं। हमारे एआई उपकरण 100% निःशुल्क हैं।. | :white_check_mark: |
 | [rankode](https://www.thataicollection.com/redirect/rankode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मानव संसाधन के लिए एआई - रैंककोड. | भर्तीकर्ता, उम्मीदवार के प्रोग्रामिंग कौशल के बारे में आपको जो कुछ भी जानने की आवश्यकता है, वह उनके GitHub में है। हायरिंग की महंगी गलतियों से बचने और अपने रिटेंशन को सुपरबूस्ट करने के लिए रैंककोड के साथ स्वचालित रूप से उनका मूल्यांकन करें।. | :grey_question: |
