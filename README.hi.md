@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1024" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1030" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,21 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka" border="0"/>
-    </a>
-    <h4>लुका - उद्यमियों के लिए लोगो डिज़ाइन और ब्रांड की पहचान 
-</h4>
-    <p>आर्टिफिशियल इंटेलीजेंस की ताकत से लोगो डिज़ाइन करें, वेबसाइट बनाएं और ब्रांड की पहचान बनाएं, जो तुम्हेंं पसंद आएगा। 100% इस्तेमाल करने के लिए मुफ़्त।
-</p>
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Looka के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
     </a>
@@ -87,6 +72,21 @@
     <h4>Caspa AI मिनटों में AI इमेज बनाने और कस्टमाइज़ करने का एक प्लेटफ़ॉर्म है</h4>
     <p>इस मुफ़्त टूल की मदद से AI-संचालित छवि निर्माण और संपादन की संभावनाओं को अनलॉक करें, विभिन्न ऐप्लीकेशन के लिए तेज़ी से और लागत प्रभावी ढंग से अनोखे विज़ुअल तैयार करें।</p>
     <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>caspa AI के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka" border="0"/>
+    </a>
+    <h4>लुका - उद्यमियों के लिए लोगो डिज़ाइन और ब्रांड की पहचान 
+</h4>
+    <p>आर्टिफिशियल इंटेलीजेंस की ताकत से लोगो डिज़ाइन करें, वेबसाइट बनाएं और ब्रांड की पहचान बनाएं, जो तुम्हेंं पसंद आएगा। 100% इस्तेमाल करने के लिए मुफ़्त।
+</p>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Looka के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -151,6 +151,89 @@
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
 
+### Tweet Detective
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tweet-detective.webp" alt="Tweet Detective">
+
+#### X के लिए AI टेक्स्ट डिटेक्शन, AI-जनरेट की गई सामग्री की पहचान करके और उसका विश्लेषण करके तुम्हारे Twitter अनुभव को बेहतर बनाता है।
+[Visit](https://www.thataicollection.com/redirect/tweet-detective?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+तुम्हारे Twitter फ़ीड के साथ आसानी से एकीकृत किया गया है, हमारा एक्सटेंशन तुम्हारे द्वारा पढ़े गए ट्वीट्स के बारे में रियल-टाइम जानकारी देता है।
+
+विशेषताएं:
+* रियल-टाइम AI विश्लेषण: ट्वीट्स के जरिए तुरंत AI-जनरेट किए गए टेक्स्ट का पता लगाएं।
+* यूज़र फ़्रेंडली इंटरफ़ेस: तुम्हारे Twitter फ़ीड के साथ स्वाभाविक रूप से इंटीग्रेट हो जाता है।
+* Chrome एक्सटेंशन: Chrome ब्राउज़र के साथ आसान इंटीग्रेशन।
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/tweet-detective?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Huudle
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huudle.webp" alt="Huudle">
+
+#### हुडल, अल के साथ मीटिंग सहायता के साथ अलग-अलग मीटिंग्स को एक सहयोगी यात्रा में बदलें 🤖
+[Visit](https://www.thataicollection.com/redirect/huudle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+एक ही विषय से संबंधित सभी मीटिंग्स को एक ही स्थान पर कनेक्ट करें, सभी हाइलाइट्स, वीडियो संदेश के छोटे अपडेट के जरिए मुख्य बिंदुओं को ट्रैक करें और अल को फ़ॉलो-अप करने दें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/huudle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### SnapWiz
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-snapwiz.webp" alt="SnapWiz">
+
+#### SnapWiz: कुछ भी हो, कहीं भी हो, या कोई भी हो!
+[Visit](https://www.thataicollection.com/redirect/snapwiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Snapwiz.io, बेहतर हेडशॉट जनरेट करने के लिए एक पेशेवर और सहज AI समाधान है। ग्राहक आसानी से अपना पसंदीदा AI फ़ोटो स्टाइल चुन सकते हैं और जिस व्यक्ति को वे दिखाना चाहते हैं, उनकी 4 से 10 इमेज अपलोड कर सकते हैं। नतीजा यह होता है कि उच्च गुणवत्ता वाली एआई-जनरेट की गई तस्वीर, जो उनके स्पेसिफिकेशन्स के अनुरूप बनाई गई है। SnapWiz की मदद से अपनी बेहतरीन AI- जनरेट की गई तस्वीर बनाएं! कुछ भी हो, कहीं भी हो, या कोई भी हो!
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/snapwiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI Chatbot
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-chatbot.webp" alt="AI Chatbot">
+
+#### कुछ ही सेकंड में अपनी वेबसाइट के लिए AI चैट बॉट बनाएँ
+[Visit](https://www.thataicollection.com/redirect/ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+कुछ ही सेकंड में अपना मुफ़्त डेमो AI चैटबोट बनाएं! अपने चैटबोट को अपने डेटासेट पर कस्टमाइज़ करें और प्रशिक्षित करें। अनुकूलित प्रतिक्रियाओं के साथ बातचीत को आसानी से अपग्रेड करें। 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Mix.audio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mix.audio.webp" alt="Mix.audio">
+
+#### मल्टी-मोडल एआई बैकग्राउंड म्यूज़िक जेनरेटर
+[Visit](https://www.thataicollection.com/redirect/mix.audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+मिक्स.ऑडियो बाय न्यूट्यून के बारे में जानें, तेज़ और अनोखे म्यूज़िक क्रिएशन के लिए तुम्हारा समाधान। अपने विचार को टेक्स्ट, छवि या ध्वनि के रूप में इनपुट करें और तुरंत तैयार किए गए चार ट्रैक पाएँ। यूट्यूबर्स, पॉडकास्टर्स और गेम डेवलपर्स के लिए आदर्श, मिक्स। ऑडियो कॉपीराइट-मुक्त म्यूज़िक प्रदान करता है, जिससे परेशानी मुक्त उपयोग सुनिश्चित होता है। इस CES 2023 और GDA 2024 द्वारा मान्यता प्राप्त टूल के साथ अपनी सामग्री को बेहतर बनाएं — मिक्स. ऑडियो आज़माएं और अंतर देखें!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/mix.audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### JobSearch.Coach
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach">
 
@@ -179,89 +262,6 @@
 <br />
 
 
-
-
-### Clipfly
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clipfly.webp" alt="Clipfly">
-
-#### Clipfly वीडियो एडिटर के साथ आकर्षक वीडियो बनाएं
-[Visit](https://www.thataicollection.com/redirect/clipfly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Clipfly एक सरल, ऑल-इन-वन, वीडियो एडिटर है, जो पूरी तरह से ऑनलाइन है और इस्तेमाल करने के लिए मुफ़्त है। 
-
-● शक्तिशाली AI वीडियो संपादन सुविधाएँ: AI वीडियो एन्हांसर, AI वीडियो क्लियर, AI वॉयसओवर जनरेट करना, आदि।
-
-● बड़े पैमाने पर वीडियो एडिटिंग टूल: मुफ़्त वीडियो एडिटिंग टूल का व्यापक कलेक्शन।
-
-● वीडियो के लिए बहुत सारे रचनात्मक तत्व: जिसमें कई तरह के फैंसी टेक्स्ट फ़ॉन्ट, रॉयल्टी-मुक्त म्यूज़िक, इमेज, स्टिकर आदि शामिल हैं।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/clipfly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Dittin AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
-
-#### डिटिन एआई - बिना सेंसर किया हुआ NSFW AI चैटबोट प्लेटफ़ॉर्म
-[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-डिटिन एआई एक NSFW AI चैटबोट प्लेटफ़ॉर्म है, जिसे DittinLLM पर बनाया गया है। NSFW कॉन्टेंट पर न्यूनतम प्रतिबंधों के साथ, तुम कई विषयों पर AI कैरेक्टर के साथ बातचीत कर सकते हो। डिटिन एआई 3डी अवतार और वॉइस मैसेज का समर्थन करता है, जिससे तुम क्रिएशन पैनल का उपयोग करके साउंड और इंटरैक्टिव दोनों तरह के 3D अवतारों के साथ AI कैरेक्टर बना सकते हो और शेयर कर सकते हो।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Corporate Headshots AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
-
-#### कॉर्पोरेट हेडशॉट्स AI: AI के साथ कॉर्पोरेट पोर्ट्रेट्स में क्रांति लाना
-[Visit](https://www.thataicollection.com/redirect/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-www.CorporateHeadshots.ai के साथ प्रोफ़ेशनल फ़ोटोग्राफ़ी के भविष्य का अनुभव करें। हमारा एआई-चालित प्लेटफ़ॉर्म तुम्हारी सेल्फी को सुंदर, कॉर्पोरेट-मानक हेडशॉट में बदल देता है, जिससे पेशेवर तस्वीरें हर किसी के लिए, हर जगह सुलभ और आसान हो जाती हैं।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### DiffusionHub.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-diffusionhub.io.webp" alt="DiffusionHub.io">
-
-#### डिफ़्यूज़न हब - बिना किसी परेशानी के स्टेबल डिफ़्यूज़न!
-[Visit](https://www.thataicollection.com/redirect/diffusionhub.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-DiffusionHub पर आसानी से स्टेबल डिफ़्यूज़न की क्षमता को अनलॉक करें। इंस्टेंस लॉन्च करें, जनरेशन स्टोर करें, और बिना GPU की ज़रूरत के बनाएं। सहज रचनात्मक अनुभवों के लिए Automatic1111, Comfy, और कोह्या के बारे में जानें।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/diffusionhub.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Looka
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka">
-
-#### लुका - उद्यमियों के लिए लोगो डिज़ाइन और ब्रांड की पहचान 
-
-[Visit](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-आर्टिफिशियल इंटेलीजेंस की ताकत से लोगो डिज़ाइन करें, वेबसाइट बनाएं और ब्रांड की पहचान बनाएं, जो तुम्हेंं पसंद आएगा। 100% इस्तेमाल करने के लिए मुफ़्त।
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ## लेखा और वित्त
