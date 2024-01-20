@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1024" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1030" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
     </a>
-    <h4>Des outils d'IA de pointe gratuits qui aident les demandeurs d'emploi à décrocher l'emploi de leurs rêves plus rapidement</h4>
-    <p>Adapte ton CV aux exigences spécifiques du poste et à la culture de l'entreprise. Génère automatiquement une lettre de motivation personnalisée en fonction des points forts de ton CV et en fonction du poste pour lequel tu postules. Prépare-toi à des entretiens d'embauche avec des questions spécifiques au poste que tu souhaites. Pratiquez vos réponses à voix haute et recevez des commentaires en temps réel lors de simulacres d'entretien.</p>
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec JobSearch.Coach</b></a>
+    <h4>Caspa AI est une plateforme qui permet de créer et de personnaliser des images d'IA en quelques minutes</h4>
+    <p>Exploite le potentiel de la création et de l'édition d'images basées sur l'IA grâce à cet outil gratuit, qui produit des visuels uniques rapidement et à moindre coût pour diverses applications.</p>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec caspa AI</b></a>
     <br />
 </div>
 
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
     </a>
-    <h4>Caspa AI est une plateforme qui permet de créer et de personnaliser des images d'IA en quelques minutes</h4>
-    <p>Exploite le potentiel de la création et de l'édition d'images basées sur l'IA grâce à cet outil gratuit, qui produit des visuels uniques rapidement et à moindre coût pour diverses applications.</p>
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec caspa AI</b></a>
+    <h4>Des outils d'IA de pointe gratuits qui aident les demandeurs d'emploi à décrocher l'emploi de leurs rêves plus rapidement</h4>
+    <p>Adapte ton CV aux exigences spécifiques du poste et à la culture de l'entreprise. Génère automatiquement une lettre de motivation personnalisée en fonction des points forts de ton CV et en fonction du poste pour lequel tu postules. Prépare-toi à des entretiens d'embauche avec des questions spécifiques au poste que tu souhaites. Pratiquez vos réponses à voix haute et recevez des commentaires en temps réel lors de simulacres d'entretien.</p>
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec JobSearch.Coach</b></a>
     <br />
 </div>
 
@@ -151,6 +151,89 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
 
+### Tweet Detective
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tweet-detective.webp" alt="Tweet Detective">
+
+#### AI Text Detection for X améliore ton expérience Twitter en identifiant et en analysant le contenu généré par l'IA.
+[Visit](https://www.thataicollection.com/redirect/tweet-detective?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Parfaitement intégrée à ton fil Twitter, notre extension fournit des informations en temps réel sur les tweets que tu lis.
+
+Caractéristiques :
+* Analyse par IA en temps réel : détecte instantanément les textes générés par l'IA dans les tweets.
+* Interface conviviale : s'intègre naturellement à ton fil Twitter.
+* Extension Chrome : intégration facile au navigateur Chrome.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/tweet-detective?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Huudle
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huudle.webp" alt="Huudle">
+
+#### Transformez les réunions isolées en une expérience collaborative grâce à Huudle, Al Meeting Assistance 🤖
+[Visit](https://www.thataicollection.com/redirect/huudle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Reliez toutes les réunions sur le même sujet dans un seul espace, suivez les points clés via Al Highlights, de brèves mises à jour par messages vidéo et laissez Al s'occuper du suivi.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/huudle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### SnapWiz
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-snapwiz.webp" alt="SnapWiz">
+
+#### SnapWiz : Sois n'importe quoi, n'importe où et n'importe qui !
+[Visit](https://www.thataicollection.com/redirect/snapwiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SnapWiz.io est une solution d'intelligence artificielle professionnelle et intuitive qui permet de générer des portraits améliorés. Les clients peuvent facilement choisir leur style de photo IA préféré et télécharger 4 à 10 photos de la personne qu'ils souhaitent mettre en avant. Le résultat est une photo de haute qualité générée par l'IA et adaptée à leurs spécifications. Crée ta photo parfaite générée par l'IA avec SnapWiz ! Sois n'importe quoi, n'importe où et n'importe qui !
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/snapwiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI Chatbot
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-chatbot.webp" alt="AI Chatbot">
+
+#### Crée un robot de chat intelligent pour ton site web en quelques secondes
+[Visit](https://www.thataicollection.com/redirect/ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Crée ta démo gratuite de chatbot IA en quelques secondes ! Personnalise et entraîne ton chatbot à partir de tes ensembles de données. Améliorez les conversations sans effort grâce à des réponses personnalisées. 
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Mix.audio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mix.audio.webp" alt="Mix.audio">
+
+#### Générateur de musique de fond multimodal basé sur l'IA
+[Visit](https://www.thataicollection.com/redirect/mix.audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Découvrez Mix.audio de Neutune, ta solution pour créer de la musique rapidement et de façon unique. Sache ton idée sous forme de texte, d'image ou de son, et obtiens instantanément jusqu'à quatre titres personnalisés. Idéal pour les YouTubeurs, les podcasteurs et les développeurs de jeux, Mix.audio propose de la musique libre de droits, pour une utilisation sans tracas. Améliorez ton contenu grâce à cet outil reconnu pour le CES 2023 et le GDA 2024. Essaie Mix.audio et tu verras la différence !
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/mix.audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### JobSearch.Coach
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach">
 
@@ -175,89 +258,6 @@ Adapte ton CV aux exigences spécifiques du poste et à la culture de l'entrepri
 Le système (questions-réponses) de la plateforme est rigoureusement testé par rapport à des critères de référence établis par des entreprises renommées et des institutions réputées, notamment Google et l'université de Stanford, afin de garantir la fourniture de réponses précises et précises. Privilégiant la confidentialité des utilisateurs, AiPDF est équipé de systèmes de sécurité avancés pour protéger à la fois tes documents et tes informations personnelles, garantissant ainsi une expérience utilisateur sé
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Clipfly
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clipfly.webp" alt="Clipfly">
-
-#### Créez des vidéos captivantes avec l'éditeur vidéo Clipfly
-[Visit](https://www.thataicollection.com/redirect/clipfly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Clipfly est un éditeur vidéo tout-en-un simple, entièrement en ligne et gratuit. 
-
-● De puissantes fonctionnalités de montage vidéo basées sur l'IA : optimiseur vidéo basé sur l'IA, clarificateur vidéo basé sur l'IA, génération de voix off IA, etc.
-
-● De nombreux outils de montage vidéo : vaste collection d'outils de montage vidéo gratuits.
-
-● De nombreux éléments créatifs pour les vidéos : avec une variété de polices de texte sophistiquées, de la musique libre de droits, des images, des autocollants, etc.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/clipfly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Dittin AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
-
-#### Dittin AI, plateforme de chatbot NSFW AI non censurée
-[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Dittin AI est une plateforme de chatbot basée sur l'IA de la NSFW basée sur DittinLLM. Avec un minimum de restrictions sur le contenu de la NSFW, tu peux engager des conversations avec des personnages IA sur un large éventail de sujets. Dittin AI prend en charge les avatars 3D et les messages vocaux, ce qui te permet de créer et de partager des personnages IA avec du son et des avatars 3D interactifs à l'aide du panneau de création.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Corporate Headshots AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
-
-#### Corporate Headshots AI : révolutionner les portraits d'entreprise grâce à l'IA
-[Visit](https://www.thataicollection.com/redirect/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l'IA transforme tes selfies en portraits élégants, conformes aux normes de l'entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### DiffusionHub.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-diffusionhub.io.webp" alt="DiffusionHub.io">
-
-#### DiffusionHub : une diffusion stable et sans tracas !
-[Visit](https://www.thataicollection.com/redirect/diffusionhub.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Exploite le potentiel de la diffusion stable sans effort sur DiffusionHub. Lancez des instances, stockez des générations et créez sans avoir besoin de GPU. Explorez Automatic1111, Comfy et Kohya pour des expériences créatives fluides.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/diffusionhub.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Looka
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka">
-
-#### Looka - Création de logo et identité de marque pour les entrepreneurs 
-
-[Visit](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Créez un logo, un site web et une identité de marque que tu adoreras grâce à la puissance de l'intelligence artificielle. Utilisation 100 % gratuite.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

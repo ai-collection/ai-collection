@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1024" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1030" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,21 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka" border="0"/>
+    </a>
+    <h4>Looka - дизайн логотипа и фирменный стиль для предпринимателей 
+</h4>
+    <p>Разработайте логотип, создайте веб-сайт и создайте фирменный стиль, который вам понравится, с помощью искусственного интеллекта. Использование 100% бесплатно.
+</p>
+    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Looka</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
     </a>
@@ -72,21 +87,6 @@
     <h4>Бесплатные передовые инструменты искусственного интеллекта, которые помогают соискателям быстрее найти работу своей мечты</h4>
     <p>Составьте свое резюме в соответствии с конкретными требованиями к работе и корпоративной культуре. Автоматически создавайте персонализированное сопроводительное письмо на основе самых сильных сторон вашего резюме и в соответствии с вакансией, на которую вы претендуете. Приготовьтесь к собеседованию и задайте вопросы, относящиеся к той должности, которую вы хотите получить. Практикуйте ответы вслух и получайте обратную связь в режиме реального времени во время пробных собеседований.</p>
     <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с JobSearch.Coach</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka" border="0"/>
-    </a>
-    <h4>Looka - дизайн логотипа и фирменный стиль для предпринимателей 
-</h4>
-    <p>Разработайте логотип, создайте веб-сайт и создайте фирменный стиль, который вам понравится, с помощью искусственного интеллекта. Использование 100% бесплатно.
-</p>
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Looka</b></a>
     <br />
 </div>
 
@@ -151,6 +151,87 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### Tweet Detective
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tweet-detective.webp" alt="Tweet Detective">
+
+#### AI Text Detection for X улучшает работу с Твиттером, выявляя и анализируя контент, созданный искусственным интеллектом.
+[Visit](https://www.thataicollection.com/redirect/tweet-detective?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Наше расширение, легко интегрированное с вашей лентой Twitter, позволяет анализировать прочитанные вами твиты в реальном времени.
+
+Функции:
+* Анализ искусственного интеллекта в реальном времени: мгновенное обнаружение текстов, созданных искусственным интеллектом, в твитах.
+* Удобный интерфейс: органично интегрируется с вашей лентой Twitter.
+* Расширение Chrome: простая интеграция с браузером Chrome.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/tweet-detective?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Huudle
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huudle.webp" alt="Huudle">
+
+#### Превратите изолированные встречи в совместное путешествие с помощью Huudle, Al Meeting Assistance 🤖
+[Visit](https://www.thataicollection.com/redirect/huudle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Объединяйте все встречи по одной теме в одном пространстве, отслеживайте ключевые моменты с помощью основных моментов Al, коротких обновлений видеосообщений и доверьте Элу все последующие действия.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/huudle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### SnapWiz
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-snapwiz.webp" alt="SnapWiz">
+
+#### SnapWiz: будь кем угодно, где угодно и кем угодно!
+[Visit](https://www.thataicollection.com/redirect/snapwiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Snapwiz.io — это профессиональное и интуитивно понятное решение для искусственного интеллекта для создания улучшенных хедшотов. Клиенты могут легко выбрать предпочтительный стиль фотографий с искусственным интеллектом и загрузить от 4 до 10 изображений человека, которого они хотят показать. В результате получается высококачественная фотография, созданная искусственным интеллектом, с учетом их спецификаций. Создайте идеальное изображение, созданное искусственным интеллектом, с помощью SnapWiz! Будьте кем уго
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/snapwiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI Chatbot
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-chatbot.webp" alt="AI Chatbot">
+
+#### Создайте чат-бота с искусственным интеллектом для своего сайта за считанные секунды
+[Visit](https://www.thataicollection.com/redirect/ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Создайте своего бесплатного демонстрационного чат-бота с искусственным интеллектом за считанные секунды! Настройте и обучите чат-бота работе с вашими наборами данных. С легкостью обновляйте разговоры, используя персонализированные ответы. 
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Mix.audio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mix.audio.webp" alt="Mix.audio">
+
+#### Мультимодальный генератор фоновой музыки AI
+[Visit](https://www.thataicollection.com/redirect/mix.audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Откройте для себя Mix.audio от Neutune, ваше решение для быстрого и уникального создания музыки. Введите свою идею в виде текста, изображения или звука и мгновенно создайте до четырех специально подобранных треков. Mix.audio идеально подходит для пользователей YouTube, подкастеров и разработчиков игр. Он предлагает музыку без авторских прав и обеспечивает беспроблемное использование. Улучшите свой контент с помощью этого признанного инструмента CES 2023 и GDA 2024 — попробуйте Mix.audio и почувствуйте разни
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/mix.audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### JobSearch.Coach
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach">
 
@@ -175,89 +256,6 @@
 Система вопросов и ответов платформы тщательно протестирована на соответствие требованиям известных компаний и авторитетных учреждений, включая Google и Стэнфордский университет, что гарантирует получение точных и точных ответов. AiPDF, отдавая приоритет конфиденциальности пользователей, оснащен передовыми системами безопасности для защиты ваших документов и личной информации, обеспечивая безопасный и конфиденциальный пользовательский интерфейс.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Clipfly
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clipfly.webp" alt="Clipfly">
-
-#### Создавайте интересные видеоролики с помощью видеоредактора Clipfly
-[Visit](https://www.thataicollection.com/redirect/clipfly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Clipfly — это простой универсальный видеоредактор, который полностью доступен онлайн и бесплатен. 
-
-● Мощные функции редактирования видео с искусственным интеллектом: улучшатель видео с искусственным интеллектом, более четкое изображение с искусственным интеллектом, создание закадрового голоса AI и т. д.
-
-● Огромные инструменты для редактирования видео: обширная коллекция бесплатных инструментов для редактирования видео.
-
-● Обилие креативных элементов для видео: множество необычных текстовых шрифтов, беспла
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/clipfly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Dittin AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
-
-#### Dittin AI — платформа чат-ботов NSFW AI без цензуры
-[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Dittin AI — это платформа чат-ботов NSFW с искусственным интеллектом, построенная на DittinLLM. Благодаря минимальным ограничениям на контент NSFW вы можете общаться с персонажами искусственного интеллекта на самые разные темы. Dittin AI поддерживает 3D-аватары и голосовые сообщения, что позволяет создавать искусственных персонажей и делиться ими с помощью звуковых и интерактивных 3D-аватаров с помощью панели создания.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Corporate Headshots AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
-
-#### Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта
-[Visit](https://www.thataicollection.com/redirect/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### DiffusionHub.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-diffusionhub.io.webp" alt="DiffusionHub.io">
-
-#### DiffusionHub - стабильная диффузия без проблем!
-[Visit](https://www.thataicollection.com/redirect/diffusionhub.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Легко раскройте потенциал стабильной диффузии на DiffusionHub. Запускайте инстансы, сохраняйте поколения и создавайте без использования графического процессора. Исследуйте Automatic1111, Comfy и Kohya, чтобы получить незабываемые творческие впечатления.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/diffusionhub.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Looka
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka">
-
-#### Looka - дизайн логотипа и фирменный стиль для предпринимателей 
-
-[Visit](https://www.thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Разработайте логотип, создайте веб-сайт и создайте фирменный стиль, который вам понравится, с помощью искусственного интеллекта. Использование 100% бесплатно.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

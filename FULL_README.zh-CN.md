@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1024" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1030" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
-    </a>
-    <h4>Caspa AI 是一个在几分钟内创建和自定义 AI 图像的平台</h4>
-    <p>使用这款免费工具，发挥 AI 驱动的图像创建和编辑的潜力，为各种应用程序快速且经济高效地制作独特的视觉效果。</p>
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 caspa AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
     </a>
@@ -87,6 +74,19 @@
     <p>利用人工智能的力量设计徽标、制作网站并创建您喜爱的品牌标识。100% 免费使用。
 </p>
     <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Looka</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
+    </a>
+    <h4>Caspa AI 是一个在几分钟内创建和自定义 AI 图像的平台</h4>
+    <p>使用这款免费工具，发挥 AI 驱动的图像创建和编辑的潜力，为各种应用程序快速且经济高效地制作独特的视觉效果。</p>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 caspa AI</b></a>
     <br />
 </div>
 
@@ -278,6 +278,7 @@
 | [Avoma](https://www.thataicollection.com/redirect/avoma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 加快团队的工作效率和公司的收入增长. | 领先的 AI 会议助手和收入情报解决方案。全部集中在一个地方，而不是到处都是。AI Meeting Assistant-获取笔录和 AI 笔记，专注于对话。会议协作-与跨职能团队合作以实现更好的协调。对话与收入情报-学习关键见解，以进行数据驱动的决策和指导。. | :white_check_mark: |
 | [Fathom](https://www.thataicollection.com/redirect/fathom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用您的设备来提高您的工作效率 拥有免费的 AI 会议助手. | Fathom 记录、转录、突出显示和总结您的会议，以便您可以专注于对话。几分钟内即可完成设置。. | :white_check_mark: |
 | [Fireflies](https://www.thataicollection.com/redirect/fireflies?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Fireflies.Ai-自动化你的 会议记录-记笔记和会话情报. | Fireflies.ai 可帮助您的团队录制、转录、搜索和分析语音对话。自动录制和转录会议，使用 AI 驱动的搜索查找任何内容，与同事协作，使用对话智能分析会议. | :white_check_mark: |
+| [Huudle](https://www.thataicollection.com/redirect/huudle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 借助 Huudle, Al 会议协助 🤖，将孤立的会议转变为协作之旅. | 将所有会议围绕同一主题整合到一个空间中，通过 Al 精彩集锦、视频消息简短更新跟踪要点，并让 Al 负责后续工作。. | :white_check_mark: |
 | [Jamie](https://www.thataicollection.com/redirect/jamie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Jamie-会议摘要的人工智能助理. | jamie 是一名 AI 助手，可以在几秒钟内以商务写作质量创建会议摘要。现在就试试吧，说服自己相信神奇的体验。. | :grey_question: |
 | [Otter](https://www.thataicollection.com/redirect/otter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Otter-和 Otter 一起恢复你的日程安排。. | 获取 AI 会议助手，它可以录制音频、写笔记、捕捉行动项目和生成摘要。写笔记和总结会议速度提高 30 倍，使用自动会议记录节省时间。立即获得答案，让所有人与实时摘要保持一致。. | :white_check_mark: |
 | [Sembly AI](https://www.thataicollection.com/redirect/sembly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Sembly AI-最聪明的人工智能团队助手. | Sembly 可以转录、记录会议笔记，并为您的专业会议生成见解。 让您的所有会议富有成效：每次会议的会议记录，随时查找过去的任何会议，回想过去的会议，享受人工智能会议摘要，无需出席即可随时了解情况，自动执行后续行动。. | :white_check_mark: |
@@ -759,6 +760,7 @@
 | [Storywizard](https://www.thataicollection.com/redirect/storywizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Storywizard.ai - 使用 AI 立即创作令人难以置信的儿童故事. | Storywizard 使用 AI 帮助您为孩子们创作具有生动形象和优美情节的惊人故事。. | :grey_question: |
 | [Sudowrite](https://www.thataicollection.com/redirect/sudowrite?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用我们神奇的写作 AI 打破作家的瓶颈，发挥更多创意. | 根据《纽约客》、《纽约时报》、《边缘》等，使用最佳 AI 写作工具更快地编写您的小说或剧本。. | :grey_question: |
 | [Tally Forms](https://www.thataicollection.com/redirect/tally-forms?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创建表单的最简单方法. | 在几秒钟内创建用于所有目的的表单。不知道如何编码. | :white_check_mark: |
+| [Tweet Detective](https://www.thataicollection.com/redirect/tweet-detective?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | X 的 AI 文本检测通过识别和分析 AI 生成的内容来改善你的 Twitter 体验。. | 我们的扩展程序与您的 Twitter Feed 无缝集成，可实时了解您阅读的推文。  特点： * 实时人工智能分析：即时检测推文中人工智能生成的文本。 * 友好的用户界面：可以自然地与你的推特提要集成。 * Chrome 扩展程序：与 Chrome 浏览器轻松集成。. | :white_check_mark: |
 | [Upword](https://www.thataicollection.com/redirect/upword?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 更快地阅读 10 倍的文章、新闻报道、博客、时事通讯和文章. | 使用 Upword 的 AI 从内容中捕捉关键想法。创建在线摘要文档。增长你的知识。. | :white_check_mark: |
 | [Writemeacoverletter](https://www.thataicollection.com/redirect/writemeacoverletter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 给我写封求职信. | 使用 AI 在几秒钟内生成求职信。只需上传您的简历，分享您想要的工作的链接，剩下的交给我们。. | :grey_question: |
 | [Your Cover Letter](https://www.thataicollection.com/redirect/your-cover-letter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Cover Letter Builder - 上传您的简历以开始. | 使用我们的 AI 求职信生成器申请您梦寐以求的工作。添加您的简历和职位描述以在几秒钟内生成求职信。. | :grey_question: |
@@ -1099,6 +1101,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [123GPT.AI](https://www.thataicollection.com/redirect/123gpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 123GPT.AI-使用 AI 自动提供客户支持 - 在您的数据上使用 ChatGPT - 为您的企业定制聊天机器人. | AI 为您的企业提供对话支持，为您的客户提供全天候支持。通过部署针对您的业务数据进行培训的个性化 AI 支持代理，减少支持查询、提高销售并降低成本。只需 3 个简单步骤，您就可以根据您的数据对 AI 聊天解决方案进行训练。. | :white_check_mark: |
+| [AI Chatbot](https://www.thataicollection.com/redirect/ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在几秒钟内为您的网站创建一个 AI 聊天机器人. | 在几秒钟内创建您的免费演示 AI 聊天机器人！在数据集上自定义和训练聊天机器人。通过量身定制的回复轻松升级对话。. | :white_check_mark: |
 | [aiurbate](https://www.thataicollection.com/redirect/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | aiurbate-终极虚拟伴侣，旨在让您的生活更轻松、更愉快。尖端的人工智能和先进的自然语言处理能力。. | aiurbate是一位可以帮助您管理一天的虚拟助手，或者只是与您分享想法和感受的人，aiurbate可以满足您的需求。  一切都是为了让对话变得有趣和引人入胜。我们的聊天机器人配备了复杂的个性引擎，使其能够适应您的沟通风格，并以自然而真实的方式做出回应。. | :white_check_mark: |
 | [Askrobi](https://www.thataicollection.com/redirect/askrobi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | WhatsApp 中 AI 的力量. | Robi 是一个强大的 AI 伴侣，它住在您的联系人列表中，可以通过 WhatsApp 与他交谈，他可以帮助您撰写文章或生成原始图像！. | :white_check_mark: |
 | [Beam](https://www.thataicollection.com/redirect/beam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Beam——适用于 macOS 的最有效的 ChatGPT 用户界面。. | 与启动器应用程序一样，Beam提供了一个浮动的聊天窗口，您可以通过一个键盘快捷键打开并与模型聊天，而无需离开当前窗口。切换 GPT 模型和角色、使用预制模板、与 Mac 上的任何应用程序进行交互，还有许多其他功能一键即可使用！. | :white_check_mark: |
@@ -1272,6 +1275,7 @@
 | [SlashDreamer](https://www.thataicollection.com/redirect/slashdreamer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 理念+稳定扩散=梦想成真. | 在 Notion 中集成 Stable Diffusion 以使用新的斜杠命令 ai 生成图像。. | :x: |
 | [Slazzer 3.0](https://www.thataicollection.com/redirect/slazzer-3.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费从图像中删除背景. | 在 5 秒内自动从图像中删除背景。不要浪费时间手动选择像素。只需上传照片并获得即时剪纸。. | :white_check_mark: |
 | [SnapshotAI](https://www.thataicollection.com/redirect/snapshotai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 快照AI. | 创建您自己的 AI 生成图像. | :grey_question: |
+| [SnapWiz](https://www.thataicollection.com/redirect/snapwiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SnapWiz：无论身在何处，还是任何人！. | Snapwiz.io 是一款专业、直观的人工智能解决方案，用于生成增强的头像。客户可以轻松选择自己喜欢的人工智能照片风格，并上传他们想要展示的个人的4到10张图片。结果是一张根据其规格量身定制的人工智能生成的高质量照片。使用 SnapWiz 创建完美的人工智能生成的图片！无论身在何处，还是任何人！. | :grey_question: |
 | [Snowpixel](https://www.thataicollection.com/redirect/snowpixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 将您的提示变成艺术品. | 你+人工智能=艺术。为每个提示获取 20 多张 AI 生成的图像，上传现有图像以获得更多品牌插图，并制作动画。. | :x: |
 | [Soreal.AI Studio](https://www.thataicollection.com/redirect/soreal.ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI图像生成入门最简单的方法. | 输入你想看的任何内容。在几秒钟内获取自定义 AI 图像。. | :white_check_mark: |
 | [StableCog](https://www.thataicollection.com/redirect/stablecog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 稳定齿轮. | 使用 Stable Diffusion 的免费、易于使用、多语言和开源 AI 图像生成器。. | :white_check_mark: |
@@ -1444,6 +1448,7 @@
 | [GetSound](https://www.thataicollection.com/redirect/getsound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 欢迎来到热情好客的 Ai 音景的未来。. | 桑拿浴室、淋浴间和按摩区的放松音景。游泳池、海滩、花园或屋顶将获得完美的音景。让您的大堂、走廊或电梯再次与众不同。通过自然音景完成更多工作，获得更好的专注力和和谐感。. | :white_check_mark: |
 | [Krisp](https://www.thataicollection.com/redirect/krisp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 世界排名第一的降噪应用程序 - Krisp. | Krisp 的 AI 可以消除您所有通话中的背景声音、噪音和回声，让您高枕无忧。. | :white_check_mark: |
 | [LALAL.AI Voice Cleaner](https://www.thataicollection.com/redirect/lalal.ai-voice-cleaner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 从任何音频和视频中提取人声、伴奏和各种乐器. | 基于世界排名第一的 AI 驱动技术的高质量词干拆分。. | :grey_question: |
+| [Mix.audio](https://www.thataicollection.com/redirect/mix.audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 多模态 AI 背景音乐生成器. | 探索 Neutune 的 Mix.Audio，这是您快速创作独特音乐的解决方案。将您的想法作为文本、图像或声音输入，即可立即获得多达四首量身定制的曲目。Mix.Audio 提供无版权的音乐，确保无忧使用，非常适合 YouTube 用户、播客和游戏开发者。使用这款 CES 2023 和 GDA 2024 认可的工具提升您的内容水平——试试 Mix.Audio 看看有什么不同！. | :white_check_mark: |
 | [Musico](https://www.thataicollection.com/redirect/musico?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Musico - 人工智能生成音乐. | Musico 是一个人工智能驱动的软件引擎，可以生成音乐。它可以对手势、动作、代码或其他声音做出反应。. | :grey_question: |
 | [Natural Language Playlist](https://www.thataicollection.com/redirect/natural-language-playlist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 自然语言播放列表-AI 生成的混音带！. | 自然语言播放列表-描述您的播放列表，然后单击 “将我设为播放列表”！由阿贝拉多·里奥哈斯创作。发现新音乐可能是一项艰巨的任务，我的主要目标是让这种体验激动人心。. | :white_check_mark: |
 | [Replica](https://www.thataicollection.com/redirect/replica?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 合成语音 AI 和自然的文本到语音 - 副本. | 立即试用 30 分钟的免费话音。. | :white_check_mark: |
