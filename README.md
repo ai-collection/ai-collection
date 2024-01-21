@@ -4762,6 +4762,18 @@ HitPaw Online Video Enhancer is the best solution for low resolution videos, inc
 
 <br />
 
+#### MAGICHOUR.AI - AI Platform for Quick and Easy Video Generation
+
+[Visit](https://magichour.ai)
+
+Magic Hour is your virtual studio, equipped with cutting-edge generative AI tools that empower you to unleash your creative vision, right in your browser.
+
+[More Information and Pricing](https://magichour.ai/pricing)
+
+<br />
+
+<br />
+
 
 
 [See All 🎬 Video Applications on AI Collection](https://www.thataicollection.com/en/categories/video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
