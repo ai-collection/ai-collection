@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1031" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1032" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -984,6 +984,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [AI Social Bio](https://www.thataicollection.com/redirect/ai-social-bio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Social Bio-你的社交媒体简历由人工智能创作. | 非常适合 X（Twitter）。添加关键字来塑造你的个人简历，选择一个有影响力的人来激发你的人工智能简历并生成你的个人简历. | :white_check_mark: |
+| [Funny Tweet Generator](https://www.thataicollection.com/redirect/funny-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 有趣的推文，推文人工智能生成器，人工智能生成的推文，幽默的推文，最有趣的推文. | 搞笑推文生成器是一款免费的人工智能工具，可根据用户输入的主题生成幽默推文  我们的搞笑推文生成器由 ChatGPT AI 提供支持。可以轻松重写推文以使其更有趣和有趣。幽默的推文可以吸引更多用户并增加用户浏览时间。提高用户粘度，让你的推文在社交媒体上脱颖而出。. | :white_check_mark: |
 | [Graham AI](https://www.thataicollection.com/redirect/graham-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Graham.Ai-科技推文生成器。像天才的科技影响者一样发推文，由人工智能生成。. | 只需从列表中选择一个话题或写一个自定义主题，然后让生成式 AI 为你创建一条推文。你所需要做的就是分享生成的推文。. | :white_check_mark: |
 | [Highperformr.ai - Twitter Analytics & Scheduling Software](https://www.thataicollection.com/redirect/highperformr.ai---twitter-analytics-and-scheduling-software?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用高性能增强你的 Twitter 知名度。功能包括 Twitter 分析、客户关系管理、受众群体构建、推文排程等。. | Highperformr 是一款功能强大的推特管理软件，具有专为 Twitter 设计的用户友好型分析和发布工具。  它可以激发灵感，并帮助您毫不费力地提出精彩的内容创意。它配备了人工智能教练，可以根据自己的独特语气将你的想法提炼出来。分析可视化程度超越数字，引导您走向更强大、更具影响力的在线形象。. | :grey_question: |
 | [HotConvo](https://www.thataicollection.com/redirect/hotconvo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Spark Romance - 为您的在线约会获取有趣、机智和性感的聊天建议。. | 在几秒钟内进行调情聊天。从 Tinder、Bumble 或任何约会应用程序截取个人资料简介或正在进行的对话 -> 让 Hotconvo 了解智能建议的上下文 -> 获取多个建议以获取灵感，为你的下一条消息说些什么。. | :white_check_mark: |

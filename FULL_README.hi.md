@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1031" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1032" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,21 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
-    </a>
-    <h4>हमारे डरावने तेज़ NSFW AI कैरेक्टर इंजन के साथ मुफ़्त में चैट करना शुरू करें। चंचल, मददगार, हमारे 7500+ AI सेक्सटिंग कैरेक्टर्स को यह समझ में आया। बिना सेंसर किया हुआ AI, कोई फ़ैसला नहीं। तुम कंट्रोल में हो।</h4>
-    <p>डोमिनेंट से लेकर विनम्र और उससे आगे तक कई तरह की विविधताएं। 24/7 एआई सेक्सटिंग और मसालेदार चैट के लिए अभी साइन इन करें, जिससे तुम्हारी सांसें फूल जाएँगी।
-
-तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
     </a>
@@ -87,6 +72,21 @@
     <h4>Caspa AI मिनटों में AI इमेज बनाने और कस्टमाइज़ करने का एक प्लेटफ़ॉर्म है</h4>
     <p>इस मुफ़्त टूल की मदद से AI-संचालित छवि निर्माण और संपादन की संभावनाओं को अनलॉक करें, विभिन्न ऐप्लीकेशन के लिए तेज़ी से और लागत प्रभावी ढंग से अनोखे विज़ुअल तैयार करें।</p>
     <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>caspa AI के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    </a>
+    <h4>हमारे डरावने तेज़ NSFW AI कैरेक्टर इंजन के साथ मुफ़्त में चैट करना शुरू करें। चंचल, मददगार, हमारे 7500+ AI सेक्सटिंग कैरेक्टर्स को यह समझ में आया। बिना सेंसर किया हुआ AI, कोई फ़ैसला नहीं। तुम कंट्रोल में हो।</h4>
+    <p>डोमिनेंट से लेकर विनम्र और उससे आगे तक कई तरह की विविधताएं। 24/7 एआई सेक्सटिंग और मसालेदार चैट के लिए अभी साइन इन करें, जिससे तुम्हारी सांसें फूल जाएँगी।
+
+तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -1421,6 +1421,7 @@
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
 | [AI Social Bio](https://www.thataicollection.com/redirect/ai-social-bio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई सोशल बायो - आर्टिफिशियल इंटेलिजेंस द्वारा बनाया गया तुम्हारा सोशल मीडिया बायो. | X (Twitter) के लिए बिल्कुल सही। अपने बायो को आकार देने के लिए एक कीवर्ड जोड़ें, अपने AI बायो को प्रेरित करने और अपना बायो जेनरेट करने के लिए एक प्रभावशाली व्यक्ति चुनें. | :white_check_mark: |
+| [Funny Tweet Generator](https://www.thataicollection.com/redirect/funny-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मजेदार ट्वीट, ट्वीट एआई जनरेटर, एआई जेनरेट किए गए ट्वीट, हास्यप्रद ट्वीट्स, सबसे मजेदार ट्वीट्स. | मजेदार ट्वीट जेनरेटर एक मुफ़्त AI टूल है, जो यूज़र द्वारा दर्ज किए गए विषयों के आधार पर हास्यप्रद ट्वीट बनाता है  हमारा मजेदार ट्वीट जनरेटर ChatGPT AI द्वारा संचालित होता है। और इसे ज़्यादा रोचक और मजेदार बनाने के लिए वह आसानी से ट्वीट फिर से लिख सकता है। हास्यप्रद ट्वीट्स ज़्यादा यूज़र को आकर्षित कर सकते हैं और यूज़र ब्राउज़िंग समय को बढ़ा सकते हैं। यूज़र स्टिकनेस बढ़ाओ और अपने ट्वीट्स को सोशल मीडिया पर अलग दिखाओ।. | :white_check_mark: |
 | [Graham AI](https://www.thataicollection.com/redirect/graham-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Graham.Ai - टेक ट्वीट जेनरेटर। किसी प्रतिभाशाली टेक इन्फ्लुएंसर की तरह ट्वीट करें, जिसे AI ने जनरेट किया है।. | बस सूची में से कोई विषय चुनें या कोई कस्टम लिखें, और जेनेरेटिव AI को तुम्हारे लिए एक ट्वीट बनाने दें। तुम्हेंं बस जनरेट किए गए ट्वीट को शेयर करना है।. | :white_check_mark: |
 | [Highperformr.ai - Twitter Analytics & Scheduling Software](https://www.thataicollection.com/redirect/highperformr.ai---twitter-analytics-and-scheduling-software?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हाईपरफ़ॉर्मर के ज़रिए अपनी Twitter पर मौजूदगी बढ़ाएँ। सुविधाओं में Twitter Analytics, CRM, ऑडियंस बिल्डिंग, ट्वीट शेड्यूलिंग और बहुत कुछ शामिल हैं।. | HighPerformr एक शक्तिशाली Twitter प्रबंधन सॉफ़्टवेयर है, जिसमें यूज़र-फ़्रेंडली एनालिटिक्स और प्रकाशन टूल है, जिसे ख़ासकर Twitter के लिए डिज़ाइन किया गया है।  इससे प्रेरणा मिलती है और तुम्हेंं आसानी से बढ़िया कॉन्टेंट आइडिया तैयार करने में मदद मिलती है। यह एक AI कोच के साथ आता है जो तुम्हारे विचारों को तुम्हारे अनोखे लहजे में निखारता है। एनालिटिक्स जो संख्याओं से परे की कल्पना करते हैं, एक मजबूत और प्रभावशाली ऑनलाइन उपस्थिति तक तुम्हारी यात्रा का मार्गदर्शन करते हैं।. | :grey_question: |
 | [HotConvo](https://www.thataicollection.com/redirect/hotconvo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | चिंगारी रोमांस - अपने ऑनलाइन डेटिंग के लिए मज़ा, मजाकिया और सेक्सी चैट सुझाव प्राप्त करें।. | सेकंड में फ्लर्टी चैट। Tinder, Bumble, या किसी भी डेटिंग ऐप्स से प्रोफाइल बायो या चल रही बातचीत का स्क्रीनशॉट लें -> Hotconvo को स्मार्ट सुझावों के संदर्भ को समझने दें -> अपने अगले संदेश के लिए क्या कहना है इसकी प्रेरणा पाने के लिए कई सुझाव प्राप्त करें।. | :white_check_mark: |
