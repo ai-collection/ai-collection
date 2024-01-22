@@ -59,6 +59,19 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
+    </a>
+    <h4>Caspa AI Is a Platform to Create and Customise AI Images in Minutes</h4>
+    <p>Unlock the potential of AI-powered image creation and editing with this free tool, producing unique visuals quickly and cost-effectively for various applications.</p>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with caspa AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -80,19 +93,6 @@ Your wildest dreams are just a click away today!</p>
     <h4>Free cutting-edge AI tools that help job seekers land their dream job faster</h4>
     <p>Tailor your resume to fit specific job requirements and company culture. Automatically generate a personalized cover letter based on the strongest points of your resume and aligned with the job you’re applying for. Get ready for job interviews with questions specific to the role you want. Practice your answers out loud and receive real-time feedback during mock interview sessions.</p>
     <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with JobSearch.Coach</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
-    </a>
-    <h4>Caspa AI Is a Platform to Create and Customise AI Images in Minutes</h4>
-    <p>Unlock the potential of AI-powered image creation and editing with this free tool, producing unique visuals quickly and cost-effectively for various applications.</p>
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with caspa AI</b></a>
     <br />
 </div>
 
@@ -882,23 +882,6 @@ Make your own state-of-the-art AI avatar profile pictures
 
 ## Chat Bot
 
-### Girlfriend GPT - NSFW AI Chatbots
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
-
-#### Start chatting for free with our scary fast NSFW AI character engine. Playful, helpful, our 7500+ AI sexting characters got it. Uncensored AI, no judgment. You are in control.
-[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.
-
-Your wildest dreams are just a click away today!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### My AskAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
 
@@ -986,6 +969,21 @@ Unleash the full potential of AI with PromptPal, your ultimate resource for meti
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/promptpal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### EmbedAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-embedai.webp" alt="EmbedAI">
+
+#### EmbedAI - Custom AI Chatbot trained on your data
+[Visit](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Develop a personalized AI support chatbot by utilizing your unique content, support documents, PDFs, APIs, or databases. Easily integrate it into your website with just one line of code to provide real-time responses to your visitors' inquiries, thereby minimizing the number of support tickets you receive.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1889,6 +1887,23 @@ With Outfit Anyone AI, explore a new era of fashion where trying on any outfit i
 
 ## Fun
 
+### Girlfriend GPT - NSFW AI Chatbots
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
+
+#### Start chatting for free with our scary fast NSFW AI character engine. Playful, helpful, our 7500+ AI sexting characters got it. Uncensored AI, no judgment. You are in control.
+[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.
+
+Your wildest dreams are just a click away today!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Dittin AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
 
@@ -1979,21 +1994,6 @@ Undress AI photo generator for free deepnudes. Nudify deepnude AI with the highe
 An AI experiment: Ask Justice Ruth Bader Ginsburg to make a decision about any question your heart desires. The first AI Drop from AI21 Labs.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/ask-rbg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### StoriesForKids
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storiesforkids.webp" alt="StoriesForKids">
-
-#### Storiesforkids.Ai: Personalized Kid'S Books Using AI
-[Visit](https://www.thataicollection.com/redirect/storiesforkids?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Turn real-life situations into fun stories & illustrations in seconds
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/storiesforkids?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

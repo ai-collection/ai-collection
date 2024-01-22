@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
-    </a>
-    <h4>Caspa AI — платформа для создания и настройки изображений AI за считанные минуты</h4>
-    <p>Раскройте потенциал создания и редактирования изображений с помощью искусственного интеллекта с помощью этого бесплатного инструмента, позволяющего быстро и экономично создавать уникальные визуальные эффекты для различных приложений.</p>
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с caspa AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -74,6 +61,19 @@
 
 Сегодня от ваших самых смелых мечтаний вас отделяет всего один клик!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
+    </a>
+    <h4>Caspa AI — платформа для создания и настройки изображений AI за считанные минуты</h4>
+    <p>Раскройте потенциал создания и редактирования изображений с помощью искусственного интеллекта с помощью этого бесплатного инструмента, позволяющего быстро и экономично создавать уникальные визуальные эффекты для различных приложений.</p>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с caspa AI</b></a>
     <br />
 </div>
 
@@ -874,23 +874,6 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 ## Чат-бот
 
-### Girlfriend GPT - NSFW AI Chatbots
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
-
-#### Начните общаться бесплатно с помощью нашего страшно быстрого движка персонажей NSFW AI. Более 7500 наших секс-персонажей с искусственным интеллектом это поняли, игривые и отзывчивые. Искусственный интеллект без цензуры, никаких суждений. Все в ваших руках.
-[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Разнообразие от доминирующих до покорных и не только. Заходите прямо сейчас, чтобы получать доступ к секстингу с искусственным интеллектом в режиме 24/7 и пикантным чатам, которые заставят вас затаить дыхание.
-
-Сегодня от ваших самых смелых мечтаний вас отделяет всего один клик!
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### My AskAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
 
@@ -976,6 +959,21 @@ ChatSimple — это платформа, которая специализир�
 Раскройте весь потенциал искусственного интеллекта с помощью PromptPal, вашего идеального ресурса для тщательно подобранных подсказок и сложных ботов с искусственным интеллектом, адаптированных к широкому спектру потребностей. Независимо от того, занимаетесь ли вы маркетингом, разработкой программного обеспечения, графическим дизайном или управлением продуктами, PromptPal предлагает обширное хранилище инструментов с возможностью поиска, предназначенных для оптимизации взаимодействия с искусственным интеллек
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/promptpal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### EmbedAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-embedai.webp" alt="EmbedAI">
+
+#### Embedai — специализированный чат-бот с искусственным интеллектом, обученный работе с вашими данными
+[Visit](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Создайте персонализированного чат-бота для поддержки ИИ, используя свой уникальный контент, вспомогательные документы, PDF-файлы, API или базы данных. Легко интегрируйте его в свой веб-сайт, используя всего одну строку кода, чтобы отвечать на запросы посетителей в режиме реального времени и тем самым минимизировать количество получаемых обращений в службу поддержки.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1879,6 +1877,23 @@ SwagAI — изображения, созданные искусственным
 
 ## Веселье
 
+### Girlfriend GPT - NSFW AI Chatbots
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
+
+#### Начните общаться бесплатно с помощью нашего страшно быстрого движка персонажей NSFW AI. Более 7500 наших секс-персонажей с искусственным интеллектом это поняли, игривые и отзывчивые. Искусственный интеллект без цензуры, никаких суждений. Все в ваших руках.
+[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Разнообразие от доминирующих до покорных и не только. Заходите прямо сейчас, чтобы получать доступ к секстингу с искусственным интеллектом в режиме 24/7 и пикантным чатам, которые заставят вас затаить дыхание.
+
+Сегодня от ваших самых смелых мечтаний вас отделяет всего один клик!
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Dittin AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
 
@@ -1973,21 +1988,6 @@ Dittin AI — это платформа чат-ботов NSFW с искусст
 <br />
 
 
-
-
-### StoriesForKids
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storiesforkids.webp" alt="StoriesForKids">
-
-#### StoriesForKids.ai: Персонализированные детские книги с использованием ИИ
-[Visit](https://www.thataicollection.com/redirect/storiesforkids?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Превратите реальные жизненные ситуации в забавные истории и иллюстрации за считанные секунды
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/storiesforkids?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 

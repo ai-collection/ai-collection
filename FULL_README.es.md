@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
     </a>
-    <h4>Herramientas de IA gratuitas y vanguardistas que ayudan a los solicitantes de empleo a conseguir el trabajo de sus sueños más rápido</h4>
-    <p>Adapta tu currículum para que se adapte a los requisitos laborales específicos y a la cultura empresarial. Genera automáticamente una carta de presentación personalizada basada en los puntos más fuertes de tu currículum y alineada con el puesto que estás solicitando. Prepárate para las entrevistas de trabajo con preguntas específicas sobre el puesto que deseas. Practica tus respuestas en voz alta y recibe comentarios en tiempo real durante las sesiones simuladas de entrevistas.</p>
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con JobSearch.Coach</b></a>
+    <h4>Caspa AI es una plataforma para crear y personalizar imágenes de IA en cuestión de minutos</h4>
+    <p>Aproveche el potencial de la creación y edición de imágenes con tecnología de IA con esta herramienta gratuita, que produce imágenes únicas de forma rápida y rentable para diversas aplicaciones.</p>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con caspa AI</b></a>
     <br />
 </div>
 
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
     </a>
-    <h4>Caspa AI es una plataforma para crear y personalizar imágenes de IA en cuestión de minutos</h4>
-    <p>Aproveche el potencial de la creación y edición de imágenes con tecnología de IA con esta herramienta gratuita, que produce imágenes únicas de forma rápida y rentable para diversas aplicaciones.</p>
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con caspa AI</b></a>
+    <h4>Herramientas de IA gratuitas y vanguardistas que ayudan a los solicitantes de empleo a conseguir el trabajo de sus sueños más rápido</h4>
+    <p>Adapta tu currículum para que se adapte a los requisitos laborales específicos y a la cultura empresarial. Genera automáticamente una carta de presentación personalizada basada en los puntos más fuertes de tu currículum y alineada con el puesto que estás solicitando. Prepárate para las entrevistas de trabajo con preguntas específicas sobre el puesto que deseas. Practica tus respuestas en voz alta y recibe comentarios en tiempo real durante las sesiones simuladas de entrevistas.</p>
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con JobSearch.Coach</b></a>
     <br />
 </div>
 
