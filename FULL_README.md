@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1030" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1031" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,27 +59,14 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
-    <h4>Caspa AI Is a Platform to Create and Customise AI Images in Minutes</h4>
-    <p>Unlock the potential of AI-powered image creation and editing with this free tool, producing unique visuals quickly and cost-effectively for various applications.</p>
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with caspa AI</b></a>
-    <br />
-</div>
+    <h4>Start chatting for free with our scary fast NSFW AI character engine. Playful, helpful, our 7500+ AI sexting characters got it. Uncensored AI, no judgment. You are in control.</h4>
+    <p>Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.
 
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka" border="0"/>
-    </a>
-    <h4>Looka - Logo Design & Brand Identity for Entrepreneurs 
-</h4>
-    <p>Design a Logo, make a website, and create a Brand Identity you’ll love with the power of Artificial Intelligence. 100% free to use.
-</p>
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Looka</b></a>
+Your wildest dreams are just a click away today!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -93,6 +80,19 @@ Translations:
     <h4>Free cutting-edge AI tools that help job seekers land their dream job faster</h4>
     <p>Tailor your resume to fit specific job requirements and company culture. Automatically generate a personalized cover letter based on the strongest points of your resume and aligned with the job you’re applying for. Get ready for job interviews with questions specific to the role you want. Practice your answers out loud and receive real-time feedback during mock interview sessions.</p>
     <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with JobSearch.Coach</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
+    </a>
+    <h4>Caspa AI Is a Platform to Create and Customise AI Images in Minutes</h4>
+    <p>Unlock the potential of AI-powered image creation and editing with this free tool, producing unique visuals quickly and cost-effectively for various applications.</p>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with caspa AI</b></a>
     <br />
 </div>
 
@@ -403,6 +403,7 @@ Translations:
 | [chtrbx](https://www.thataicollection.com/redirect/chtrbx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Chtrbx: Revolutionize customer service with AI-driven insights. | Chtrbx is an AI chat platform that helps businesses improve online customer interactions. It analyzes visitor sentiments and interests, enabling effective engagement and strategic insights. This leads to better user experiences, personalized recommendations, and potentially higher sales. Chtrbx offers more than chat; it's a data-driven tool for enhancing service and driving growth. | :white_check_mark: |
 | [Claude](https://www.thataicollection.com/redirect/claude?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Claude is a next-generation AI assistant for your tasks, no matter the scale. | Claude Our most powerful model, which excels at a wide range of tasks from sophisticated dialogue and creative content generation to detailed instruction.  Good for: Complex reasoning Creativity Thoughtful dialogue Coding Detailed content creation. | :white_check_mark: |
 | [Commandbar HelpHub](https://www.thataicollection.com/redirect/commandbar-helphub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | A GPT-Powered Chatbot for Any Site. | You can add source content in 3 ways: -Crawling any public site via a URL (e.g. your marketing site or blog) -Syncing with a CMS (like Zendesk or Intercom) - Add content manually. The chatbot is then trained on that content and will answer questions based on that content only. | :white_check_mark: |
+| [Coral AI](https://www.thataicollection.com/redirect/coral-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Search and Understand Documents with AI. | Cut your reading time in half — upload a PDF to get answers, summaries, translations, and citations in seconds.  How It Works: 1. Upload your documents to Coral AI.   2. Ask Coral AI any question about your document.   3. Coral AI gives you answers with page citations using information from the document. | :white_check_mark: |
 | [CrushOn.AI](https://www.thataicollection.com/redirect/crushon.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | CrushonAI: Experience Genuine, Unrestricted NSFW Character AI Chats with NO Filters.  🚀🤖. | Immerse yourself in unfiltered NSFW character AI chats. Create your AI characters and experience authentic, limitless NSFW interactions. Explore the power of crafting your unique AI persona. Dive in now!. | :white_check_mark: |
 | [Dante](https://www.thataicollection.com/redirect/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Custom GPT Chatbots Trained on Your Data. | Zero coding. Share on your website in minutes. Build a GPT-4 chatbot in minutes. Train the AI, customize, and embed on your website. | :white_check_mark: |
 | [Docubro](https://www.thataicollection.com/redirect/docubro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT for Your Website Documentation. | ChatGPT for your documentation, make it accesible and easy to use by having a conversation to explore the content. | :grey_question: |
@@ -1345,6 +1346,7 @@ Translations:
 | [Boolpic](https://www.thataicollection.com/redirect/boolpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | An Intelligent Video Platform That Empowers Brands. | Generate on-brand videos 10X faster with AI to boost marketing performance. | :grey_question: |
 | [Chapterme](https://www.thataicollection.com/redirect/chapterme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Chapterme - AI Powered Chapters for Your Videos. | With ChapterMe ChapterGPT, AI automatically generates timestamped chapters for your videos and podcasts in minutes. Save hours of time and money while focusing on creating great content. | :white_check_mark: |
 | [Clipfly](https://www.thataicollection.com/redirect/clipfly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create Engaging Videos With Clipfly Video Editor. | Clipfly is a simple, all-in-one, video editor that's completely online and free to use.   ● Powerful AI video editing features: AI video enhancer, AI video clearer, generate AI voiceover, etc.  ● Massive video editing tools: Extensive collection of free video editing tools.  ● Abundant creative elements for video: Featuring a variety of fancy text fonts, royalty-free music, images, stickers, etc. | :white_check_mark: |
+| [Clipwing](https://www.thataicollection.com/redirect/clipwing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | A tool for cutting long videos into dozens of short clips. | Overview: Show up with your short clips to win more views, grow your audience, and become a superstar  Key Features: • Long video into shorts - Turn your long video into short clips to win more views. • Catchy subtitles - People love watching videos without sound. Engage your audience with trendy subtitles!. | :white_check_mark: |
 | [Colossyan](https://www.thataicollection.com/redirect/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The AI video platform for workplace learning. | Colossyan Creator makes video creation simple and stress-free. Discover our AI video creator with real actors. Create videos in less than 5 minutes. | :white_check_mark: |
 | [D-ID's Creative Reality Studio](https://www.thataicollection.com/redirect/d-ids-creative-reality-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Future-Facing Generative AI. | Produce customized videos featuring talking avatars at a touch of a button, giving businesses and creators superpowers. | :white_check_mark: |
 | [Deepfakesweb](https://www.thataicollection.com/redirect/deepfakesweb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Make Your Own Deepfakes. | Our easy to use deepfake app uses AI and Deep Learning to generate amazing face swap videos. Make your own deepfake video today. | :grey_question: |
