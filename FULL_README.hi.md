@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
-    </a>
-    <h4>Caspa AI मिनटों में AI इमेज बनाने और कस्टमाइज़ करने का एक प्लेटफ़ॉर्म है</h4>
-    <p>इस मुफ़्त टूल की मदद से AI-संचालित छवि निर्माण और संपादन की संभावनाओं को अनलॉक करें, विभिन्न ऐप्लीकेशन के लिए तेज़ी से और लागत प्रभावी ढंग से अनोखे विज़ुअल तैयार करें।</p>
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>caspa AI के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -87,6 +74,19 @@
     <h4>मुफ़्त अत्याधुनिक AI टूल, जो नौकरी तलाशने वालों को अपने सपनों की नौकरी को तेज़ी से पूरा करने में मदद करते हैं</h4>
     <p>नौकरी की खास ज़रूरतों और कंपनी की संस्कृति के हिसाब से अपना रेज़्यूमे तैयार करें। अपने रेज़्यूमे के सबसे मज़बूत बिंदुओं के आधार पर और जिस नौकरी के लिए तुम आवेदन कर रहे हो, उसके साथ संरेखित होकर स्वचालित रूप से एक व्यक्तिगत कवर लेटर जेनरेट करें। अपनी मनचाही भूमिका से जुड़े सवालों के साथ नौकरी के लिए इंटरव्यू के लिए तैयार रहो। अपने जवाबों का ज़ोर से अभ्यास करो और मॉक इंटरव्यू सेशन के दौरान रियल-टाइम फ़ीडबैक पाओ।</p>
     <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>JobSearch.Coach के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
+    </a>
+    <h4>Caspa AI मिनटों में AI इमेज बनाने और कस्टमाइज़ करने का एक प्लेटफ़ॉर्म है</h4>
+    <p>इस मुफ़्त टूल की मदद से AI-संचालित छवि निर्माण और संपादन की संभावनाओं को अनलॉक करें, विभिन्न ऐप्लीकेशन के लिए तेज़ी से और लागत प्रभावी ढंग से अनोखे विज़ुअल तैयार करें।</p>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>caspa AI के साथ आरंभ करें</b></a>
     <br />
 </div>
 

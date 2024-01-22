@@ -68,12 +68,12 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
     </a>
-    <h4>Caspa AI est une plateforme qui permet de créer et de personnaliser des images d'IA en quelques minutes</h4>
-    <p>Exploite le potentiel de la création et de l'édition d'images basées sur l'IA grâce à cet outil gratuit, qui produit des visuels uniques rapidement et à moindre coût pour diverses applications.</p>
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec caspa AI</b></a>
+    <h4>Des outils d'IA de pointe gratuits qui aident les demandeurs d'emploi à décrocher l'emploi de leurs rêves plus rapidement</h4>
+    <p>Adapte ton CV aux exigences spécifiques du poste et à la culture de l'entreprise. Génère automatiquement une lettre de motivation personnalisée en fonction des points forts de ton CV et en fonction du poste pour lequel tu postules. Prépare-toi à des entretiens d'embauche avec des questions spécifiques au poste que tu souhaites. Pratiquez vos réponses à voix haute et recevez des commentaires en temps réel lors de simulacres d'entretien.</p>
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec JobSearch.Coach</b></a>
     <br />
 </div>
 
@@ -81,12 +81,12 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
     </a>
-    <h4>Des outils d'IA de pointe gratuits qui aident les demandeurs d'emploi à décrocher l'emploi de leurs rêves plus rapidement</h4>
-    <p>Adapte ton CV aux exigences spécifiques du poste et à la culture de l'entreprise. Génère automatiquement une lettre de motivation personnalisée en fonction des points forts de ton CV et en fonction du poste pour lequel tu postules. Prépare-toi à des entretiens d'embauche avec des questions spécifiques au poste que tu souhaites. Pratiquez vos réponses à voix haute et recevez des commentaires en temps réel lors de simulacres d'entretien.</p>
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec JobSearch.Coach</b></a>
+    <h4>Caspa AI est une plateforme qui permet de créer et de personnaliser des images d'IA en quelques minutes</h4>
+    <p>Exploite le potentiel de la création et de l'édition d'images basées sur l'IA grâce à cet outil gratuit, qui produit des visuels uniques rapidement et à moindre coût pour diverses applications.</p>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec caspa AI</b></a>
     <br />
 </div>
 

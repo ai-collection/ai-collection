@@ -59,6 +59,19 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
+    </a>
+    <h4>Caspa AI Is a Platform to Create and Customise AI Images in Minutes</h4>
+    <p>Unlock the potential of AI-powered image creation and editing with this free tool, producing unique visuals quickly and cost-effectively for various applications.</p>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with caspa AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -80,19 +93,6 @@ Your wildest dreams are just a click away today!</p>
     <h4>Free cutting-edge AI tools that help job seekers land their dream job faster</h4>
     <p>Tailor your resume to fit specific job requirements and company culture. Automatically generate a personalized cover letter based on the strongest points of your resume and aligned with the job you’re applying for. Get ready for job interviews with questions specific to the role you want. Practice your answers out loud and receive real-time feedback during mock interview sessions.</p>
     <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with JobSearch.Coach</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
-    </a>
-    <h4>Caspa AI Is a Platform to Create and Customise AI Images in Minutes</h4>
-    <p>Unlock the potential of AI-powered image creation and editing with this free tool, producing unique visuals quickly and cost-effectively for various applications.</p>
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with caspa AI</b></a>
     <br />
 </div>
 
@@ -409,7 +409,6 @@ Your wildest dreams are just a click away today!</p>
 | [Docubro](https://www.thataicollection.com/redirect/docubro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT for Your Website Documentation. | ChatGPT for your documentation, make it accesible and easy to use by having a conversation to explore the content. | :grey_question: |
 | [EmbedAI](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EmbedAI - Custom AI Chatbot trained on your data. | Develop a personalized AI support chatbot by utilizing your unique content, support documents, PDFs, APIs, or databases. Easily integrate it into your website with just one line of code to provide real-time responses to your visitors' inquiries, thereby minimizing the number of support tickets you receive. | :white_check_mark: |
 | [Flot.ai](https://www.thataicollection.com/redirect/flot.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Your AI Copilot for All Apps and Websites. | Use ChatGPT anywhere you type or select without copy-pasting. Ask AI to write, improve, paraphrase, summarize, translate, explain, or reply to any text with one click. | :white_check_mark: |
-| [Girlfriend GPT - NSFW AI Chatbots](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Start chatting for free with our scary fast NSFW AI character engine. Playful, helpful, our 7500+ AI sexting characters got it. Uncensored AI, no judgment. You are in control. | Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.  Your wildest dreams are just a click away today!. | :white_check_mark: |
 | [GPTHelp.ai](https://www.thataicollection.com/redirect/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT for your website / AI customer support chatbot. | GPTHelp.ai offers user-friendly, no-code AI chatbots, trained on your own webpages, files, and FAQs.  GPTHelp.ai introduces an intuitive way to integrate AI into your customer support system. Our platform allows you to create personalized chatbots that are trained directly from your website content, files, and frequently asked questions. | :grey_question: |
 | [HUMATA](https://www.thataicollection.com/redirect/humata?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Humata - ChatGPT for Your Data Files. Asking is faster than skimming. | Learn 100X Faster, Create Reports 100X Faster, Analyze Legal Documents 100X Faster, Understand Technical Papers 100X Faster. Ask Questions & Get Answers About Any File Instantly. | :white_check_mark: |
 | [Keepi](https://www.thataicollection.com/redirect/keepi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Over WhatsApp. | Access the most advanced AI available today on the go. Keepi will keep you smart and ready with relevant knowledge. | :white_check_mark: |
@@ -689,6 +688,7 @@ Your wildest dreams are just a click away today!</p>
 | [EmojiBrew](https://www.thataicollection.com/redirect/emojibrew?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EmojiBrew - Emoji combinations to copy & paste. | Search through thousands of emoji combinations generated by AI to copy & paste ✂📋 Save time by searching for any word and find the matching combo. | :white_check_mark: |
 | [Excuses AI](https://www.thataicollection.com/redirect/excuses-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Excuse Generator. | Use AI to generate the perfect professional excuse. | :grey_question: |
 | [FoodAI](https://www.thataicollection.com/redirect/foodai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Foodai.App - Generate Cooking Recipes With Ai!. | Select the ingredients you want to use, and our AI will give you recipes to make with some of those ingredients. Then click on the button below to get your recipe. | :white_check_mark: |
+| [Girlfriend GPT - NSFW AI Chatbots](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Start chatting for free with our scary fast NSFW AI character engine. Playful, helpful, our 7500+ AI sexting characters got it. Uncensored AI, no judgment. You are in control. | Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.  Your wildest dreams are just a click away today!. | :white_check_mark: |
 | [Jokelub](https://www.thataicollection.com/redirect/jokelub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Jokelub. | Bring humor everywhere. | :grey_question: |
 | [Kanye Tweet Generator](https://www.thataicollection.com/redirect/kanye-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Kanye Tweet Generation. | Generate Kanye Tweets using AI. Built by Ryan Doyle. | :grey_question: |
 | [Nudify.online](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Undress Anybody With Our FREE Service. Deepnude AI On Nudify – Undress any Girl For Free!. | Undress AI photo generator for free deepnudes. Nudify deepnude AI with the highest accuracy of deepfake nude and bikini photos. Just choose age, body type, quality and get a result in a few seconds. | :white_check_mark: |
