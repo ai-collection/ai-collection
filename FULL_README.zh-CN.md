@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1030" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1031" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -66,14 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
     </a>
-    <h4>Looka-企业家徽标设计和品牌标识 
-</h4>
-    <p>利用人工智能的力量设计徽标、制作网站并创建您喜爱的品牌标识。100% 免费使用。
-</p>
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Looka</b></a>
+    <h4>Caspa AI 是一个在几分钟内创建和自定义 AI 图像的平台</h4>
+    <p>使用这款免费工具，发挥 AI 驱动的图像创建和编辑的潜力，为各种应用程序快速且经济高效地制作独特的视觉效果。</p>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 caspa AI</b></a>
     <br />
 </div>
 
@@ -81,12 +79,14 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
-    <h4>Caspa AI 是一个在几分钟内创建和自定义 AI 图像的平台</h4>
-    <p>使用这款免费工具，发挥 AI 驱动的图像创建和编辑的潜力，为各种应用程序快速且经济高效地制作独特的视觉效果。</p>
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 caspa AI</b></a>
+    <h4>使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。</h4>
+    <p>从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。
+
+今天只需点击一下即可实现您最疯狂的梦想！</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -152,6 +152,7 @@
 | [EmojiBrew](https://www.thataicollection.com/redirect/emojibrew?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EmojiBrew-用于复制和粘贴的表情符号组合. | 搜索人工智能生成的数千种表情符号组合以进行复制和粘贴 ✂📋 通过搜索任何单词并找到匹配的组合来节省时间. | :white_check_mark: |
 | [Excuses AI](https://www.thataicollection.com/redirect/excuses-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 借口生成器. | 使用人工智能生成完美的专业借口. | :grey_question: |
 | [FoodAI](https://www.thataicollection.com/redirect/foodai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Foodai.App-用 Ai 生成烹饪食谱！. | 选择您要使用的食材，我们的人工智能将为您提供使用其中一些食材制作的食谱。然后点击下面的按钮获取您的食谱。. | :white_check_mark: |
+| [Girlfriend GPT - NSFW AI Chatbots](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。. | 从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。  今天只需点击一下即可实现您最疯狂的梦想！. | :white_check_mark: |
 | [Jokelub](https://www.thataicollection.com/redirect/jokelub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 约克卢布. | 让幽默无处不在. | :grey_question: |
 | [Kanye Tweet Generator](https://www.thataicollection.com/redirect/kanye-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Kanye 推文一代. | 使用 AI 生成 Kanye 推文。由瑞安道尔建造。. | :grey_question: |
 | [Nudify.online](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用我们的免费服务脱衣服任何人。Deepnude AI On Nudify — 免费为任何女孩脱衣服！. | 用于免费深度裸体的Undress AI照片生成器.Nudify deepnude AI 使用深度伪造裸照和比基尼照片的最高精度。只需选择年龄、体型、素质，即可在几秒钟内得到结果。. | :white_check_mark: |
@@ -1120,12 +1121,12 @@
 | [chtrbx](https://www.thataicollection.com/redirect/chtrbx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Chtrbx：利用人工智能驱动的洞察力彻底改变客户服务. | Chtrbx是一个人工智能聊天平台，可帮助企业改善在线客户互动。它分析访客的情绪和兴趣，从而实现有效的参与和战略见解。这可以带来更好的用户体验、个性化推荐和潜在的更高销售额。Chtrbx 提供的不仅仅是聊天；它是一个数据驱动的工具，用于增强服务和推动增长。. | :white_check_mark: |
 | [Claude](https://www.thataicollection.com/redirect/claude?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Claude 是下一代 AI 助手，无论规模大小，都能满足你的任务。. | 克劳德 我们最强大的模型，它擅长从复杂的对话和创造性的内容生成到详细的指导等各种任务。  适用于： 复杂的推理 创造力 周到的对话 编码 详细的内容创作. | :white_check_mark: |
 | [Commandbar HelpHub](https://www.thataicollection.com/redirect/commandbar-helphub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 适用于任何站点的 GPT 聊天机器人。. | 您可以通过 3 种方式添加源内容： - 通过 URL 抓取任何公共网站（例如您的营销网站或博客） - 与 CMS 同步（如 Zendesk 或 Intercom） - 手动添加内容。然后聊天机器人接受该内容的训练，并仅根据该内容回答问题。. | :white_check_mark: |
+| [Coral AI](https://www.thataicollection.com/redirect/coral-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 搜索和理解文档。. | 将您的阅读时间缩短一半——上传 PDF 即可在几秒钟内获得答案、摘要、翻译和引文。  它是如何工作的： 1。将您的文件上传到 Coral AI。   2。向Coral AI询问有关您的文档的任何问题。   3.Coral AI 使用文档中的信息，通过页面引用为您提供答案。. | :white_check_mark: |
 | [CrushOn.AI](https://www.thataicollection.com/redirect/crushon.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | CrushonAI：体验真正的、无限制的 NSFW 角色 AI 聊天，无需任何过滤器。 🚀🤖. | 让自己沉浸在未经过滤的 NSFW 角色 AI 聊天中。创建您的 AI 角色并体验真实、无限的 NSFW 互动。探索塑造您独特的人工智能角色的力量。现在就潜入吧！. | :white_check_mark: |
 | [Dante](https://www.thataicollection.com/redirect/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 根据您的数据训练的自定义 GPT 聊天机器人. | 零编码。在几分钟内在您的网站上分享。在几分钟内构建一个 GPT-4 聊天机器人。训练 AI、自定义并嵌入您的网站。. | :white_check_mark: |
 | [Docubro](https://www.thataicollection.com/redirect/docubro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 网站文档的 ChatGPT. | ChatGPT 用于您的文档，通过对话来探索内容，使其易于访问和使用. | :grey_question: |
 | [EmbedAI](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EmbeDai-根据您的数据进行训练的自定义 AI 聊天机器人. | 利用您的独特内容、支持文档、PDF、API 或数据库开发个性化的 AI 支持聊天机器人。只需一行代码即可轻松将其集成到您的网站中，以实时响应访问者的查询，从而最大限度地减少您收到的支持请求的数量。. | :white_check_mark: |
 | [Flot.ai](https://www.thataicollection.com/redirect/flot.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您所有应用程序和网站的人工智能副驾驶. | 在您键入或选择的任何位置使用 ChatGPT，无需复制粘贴。让人工智能一键编写、改进、释义、总结、翻译、解释或回复任何文本。. | :white_check_mark: |
-| [Girlfriend GPT - NSFW AI Chatbots](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。. | 从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。  今天只需点击一下即可实现您最疯狂的梦想！. | :white_check_mark: |
 | [GPTHelp.ai](https://www.thataicollection.com/redirect/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 适用于您的网站的 ChatGPT /AI 客户支持聊天机器人. | GPTHelp.ai 提供用户友好、无代码的 AI 聊天机器人，可根据您自己的网页、文件和常见问题解答进行训练。  GPTHelp.ai 引入了一种将人工智能集成到客户支持系统的直观方法。我们的平台允许您创建个性化的聊天机器人，这些聊天机器人直接根据您的网站内容、文件和常见问题进行训练。. | :grey_question: |
 | [HUMATA](https://www.thataicollection.com/redirect/humata?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Humata-ChatGPT 用于存储您的数据文件。提问比略读要快。. | 学习速度提高100倍，创建报告的速度提高100倍，分析法律文档的速度提高100倍，理解技术论文的速度提高100倍。立即提出问题并获得有关任何文件的答案。. | :white_check_mark: |
 | [Keepi](https://www.thataicollection.com/redirect/keepi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 胜过 WhatsApp。. | 随时随地访问当今最先进的 AI。 Keepi 将使您保持聪明并准备好相关知识。. | :white_check_mark: |
@@ -1309,6 +1310,7 @@
 | [Boolpic](https://www.thataicollection.com/redirect/boolpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为品牌赋能的智能视频平台. | 使用 AI 以 10 倍的速度生成品牌视频以提高营销绩效. | :grey_question: |
 | [Chapterme](https://www.thataicollection.com/redirect/chapterme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Chapterme-为你的视频提供人工智能支持的章节. | 有了 ChapterMe ChapterGPT，人工智能会在几分钟内自动为你的视频和播客生成带有时间戳的章节。节省数小时的时间和金钱，同时专注于创作精彩内容。. | :white_check_mark: |
 | [Clipfly](https://www.thataicollection.com/redirect/clipfly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 Clipfly 视频编辑器制作引人入胜的视频. | Clipfly 是一款简单、多合一的视频编辑器，完全在线且免费使用。   ● 强大的 AI 视频编辑功能：AI 视频增强器、AI 视频更清晰、生成 AI 旁白等。  ● 海量视频编辑工具：大量免费视频编辑工具。  ● 丰富的视频创意元素：包含各种精美的文字字体、免版税的音乐、图片、贴纸等。. | :white_check_mark: |
+| [Clipwing](https://www.thataicollection.com/redirect/clipwing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 将长视频剪切成数十个短片的工具. | 概述： 与您的短片一起露面，以赢得更多观看次数，扩大受众群体，成为超级巨星  主要特点： •长视频变成短片-将长视频变成短片以赢得更多观看次数。 • 醒目的字幕-人们喜欢观看没有声音的视频。用时尚字幕吸引观众！. | :white_check_mark: |
 | [Colossyan](https://www.thataicollection.com/redirect/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用于工作场所学习的人工智能视频平台. | Colossyan Creator 让视频创作变得简单、无压力。与真实演员一起探索我们的人工智能视频创作者。在 5 分钟内创建视频. | :white_check_mark: |
 | [D-ID's Creative Reality Studio](https://www.thataicollection.com/redirect/d-ids-creative-reality-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 面向未来的生成人工智能. | 只需按一下按钮即可制作带有会说话的头像的定制视频，为企业和创作者提供超能力。. | :white_check_mark: |
 | [Deepfakesweb](https://www.thataicollection.com/redirect/deepfakesweb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 制作你自己的 Deepfakes [在线应用程序]. | 我们易于使用的 deepfake 应用程序使用 AI 和深度学习来生成令人惊叹的换脸视频。立即制作您自己的 Deepfake 视频。. | :grey_question: |

@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1030" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1031" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,21 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    </a>
+    <h4>Commence à discuter gratuitement avec notre moteur de personnages NSFW AI terriblement rapide. Ludique, serviable, nos plus de 750 personnages de sextos IA l'ont compris. IA non censurée, aucun jugement. Tu as le contrôle.</h4>
+    <p>Variété, allant de dominante à soumise et plus encore. Connecte-toi maintenant pour des sextos IA 24 heures sur 24, 7 jours sur 7 et des discussions épicées qui te couperont le souffle.
+
+Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
     </a>
@@ -72,21 +87,6 @@
     <h4>Des outils d'IA de pointe gratuits qui aident les demandeurs d'emploi à décrocher l'emploi de leurs rêves plus rapidement</h4>
     <p>Adapte ton CV aux exigences spécifiques du poste et à la culture de l'entreprise. Génère automatiquement une lettre de motivation personnalisée en fonction des points forts de ton CV et en fonction du poste pour lequel tu postules. Prépare-toi à des entretiens d'embauche avec des questions spécifiques au poste que tu souhaites. Pratiquez vos réponses à voix haute et recevez des commentaires en temps réel lors de simulacres d'entretien.</p>
     <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec JobSearch.Coach</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka" border="0"/>
-    </a>
-    <h4>Looka - Création de logo et identité de marque pour les entrepreneurs 
-</h4>
-    <p>Créez un logo, un site web et une identité de marque que tu adoreras grâce à la puissance de l'intelligence artificielle. Utilisation 100 % gratuite.
-</p>
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Looka</b></a>
     <br />
 </div>
 
@@ -150,6 +150,52 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 💰 [Ventes Et Marketing](#ventes-et-marketing)
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
+
+### Clipwing
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clipwing.webp" alt="Clipwing">
+
+#### Un outil pour découper de longues vidéos en dizaines de courts clips
+[Visit](https://www.thataicollection.com/redirect/clipwing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Aperçu :
+Présente tes courts clips pour gagner plus de vues, élargir ton audience et devenir une superstar
+
+Caractéristiques principales :
+• De longues vidéos en courts métrages - Transforme ta longue vidéo en courts clips pour gagner plus de vues.
+• Sous-titres accrocheurs : les gens adorent regarder des vidéos sans son. Impliquez ton public avec des sous-titres tendance !
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/clipwing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Coral AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-coral-ai.webp" alt="Coral AI">
+
+#### Rechercher et comprendre des documents grâce à l'IA.
+[Visit](https://www.thataicollection.com/redirect/coral-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Réduisez de moitié ton temps de lecture : télécharge un PDF pour obtenir des réponses, des résumés, des traductions et des citations en quelques secondes.
+
+Comment ça marche :
+1. Télécharge tes documents sur Coral AI. 
+
+2. Posez toutes les questions à Coral AI à propos de ton document. 
+
+3. Coral AI te donne des réponses en citant les pages en utilisant les informations du document.
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/coral-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Tweet Detective
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tweet-detective.webp" alt="Tweet Detective">
@@ -228,36 +274,6 @@ Crée ta démo gratuite de chatbot IA en quelques secondes ! Personnalise et en
 Découvrez Mix.audio de Neutune, ta solution pour créer de la musique rapidement et de façon unique. Sache ton idée sous forme de texte, d'image ou de son, et obtiens instantanément jusqu'à quatre titres personnalisés. Idéal pour les YouTubeurs, les podcasteurs et les développeurs de jeux, Mix.audio propose de la musique libre de droits, pour une utilisation sans tracas. Améliorez ton contenu grâce à cet outil reconnu pour le CES 2023 et le GDA 2024. Essaie Mix.audio et tu verras la différence !
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/mix.audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### JobSearch.Coach
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach">
-
-#### Des outils d'IA de pointe gratuits qui aident les demandeurs d'emploi à décrocher l'emploi de leurs rêves plus rapidement
-[Visit](https://www.thataicollection.com/redirect/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Adapte ton CV aux exigences spécifiques du poste et à la culture de l'entreprise. Génère automatiquement une lettre de motivation personnalisée en fonction des points forts de ton CV et en fonction du poste pour lequel tu postules. Prépare-toi à des entretiens d'embauche avec des questions spécifiques au poste que tu souhaites. Pratiquez vos réponses à voix haute et recevez des commentaires en temps réel lors de simulacres d'entretien.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### aiPDF
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aipdf.webp" alt="aiPDF">
-
-#### AiPDF est un outil multimodal innovant conçu pour fonctionner avec un large éventail d'entrées, notamment des livres électroniques, des articles Web, des vidéos YouTube, des podcasts, etc.
-[Visit](https://www.thataicollection.com/redirect/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Le système (questions-réponses) de la plateforme est rigoureusement testé par rapport à des critères de référence établis par des entreprises renommées et des institutions réputées, notamment Google et l'université de Stanford, afin de garantir la fourniture de réponses précises et précises. Privilégiant la confidentialité des utilisateurs, AiPDF est équipé de systèmes de sécurité avancés pour protéger à la fois tes documents et tes informations personnelles, garantissant ainsi une expérience utilisateur sé
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1865,6 +1881,23 @@ Avec Outfit Anyone AI, explore une nouvelle ère de la mode où il suffit d'un c
 
 ## Amusant
 
+### Girlfriend GPT - NSFW AI Chatbots
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
+
+#### Commence à discuter gratuitement avec notre moteur de personnages NSFW AI terriblement rapide. Ludique, serviable, nos plus de 750 personnages de sextos IA l'ont compris. IA non censurée, aucun jugement. Tu as le contrôle.
+[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Variété, allant de dominante à soumise et plus encore. Connecte-toi maintenant pour des sextos IA 24 heures sur 24, 7 jours sur 7 et des discussions épicées qui te couperont le souffle.
+
+Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Dittin AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
 
@@ -1959,21 +1992,6 @@ Une expérience d'IA : demandez à la juge Ruth Bader Ginsburg de prendre une d
 <br />
 
 
-
-
-### StoriesForKids
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storiesforkids.webp" alt="StoriesForKids">
-
-#### StoriesForKids.ai : livres pour enfants personnalisés à l'aide de l'IA
-[Visit](https://www.thataicollection.com/redirect/storiesforkids?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Transformez des situations réelles en histoires et illustrations amusantes en quelques secondes
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/storiesforkids?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 

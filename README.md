@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1030" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1031" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,27 +59,14 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
-    <h4>Caspa AI Is a Platform to Create and Customise AI Images in Minutes</h4>
-    <p>Unlock the potential of AI-powered image creation and editing with this free tool, producing unique visuals quickly and cost-effectively for various applications.</p>
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with caspa AI</b></a>
-    <br />
-</div>
+    <h4>Start chatting for free with our scary fast NSFW AI character engine. Playful, helpful, our 7500+ AI sexting characters got it. Uncensored AI, no judgment. You are in control.</h4>
+    <p>Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.
 
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka" border="0"/>
-    </a>
-    <h4>Looka - Logo Design & Brand Identity for Entrepreneurs 
-</h4>
-    <p>Design a Logo, make a website, and create a Brand Identity you’ll love with the power of Artificial Intelligence. 100% free to use.
-</p>
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Looka</b></a>
+Your wildest dreams are just a click away today!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -93,6 +80,19 @@ Translations:
     <h4>Free cutting-edge AI tools that help job seekers land their dream job faster</h4>
     <p>Tailor your resume to fit specific job requirements and company culture. Automatically generate a personalized cover letter based on the strongest points of your resume and aligned with the job you’re applying for. Get ready for job interviews with questions specific to the role you want. Practice your answers out loud and receive real-time feedback during mock interview sessions.</p>
     <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with JobSearch.Coach</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
+    </a>
+    <h4>Caspa AI Is a Platform to Create and Customise AI Images in Minutes</h4>
+    <p>Unlock the potential of AI-powered image creation and editing with this free tool, producing unique visuals quickly and cost-effectively for various applications.</p>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with caspa AI</b></a>
     <br />
 </div>
 
@@ -156,6 +156,52 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+
+### Clipwing
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clipwing.webp" alt="Clipwing">
+
+#### A tool for cutting long videos into dozens of short clips
+[Visit](https://www.thataicollection.com/redirect/clipwing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Overview:
+Show up with your short clips to win more views, grow your audience, and become a superstar
+
+Key Features:
+• Long video into shorts - Turn your long video into short clips to win more views.
+• Catchy subtitles - People love watching videos without sound. Engage your audience with trendy subtitles!
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/clipwing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Coral AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-coral-ai.webp" alt="Coral AI">
+
+#### Search and Understand Documents with AI.
+[Visit](https://www.thataicollection.com/redirect/coral-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Cut your reading time in half — upload a PDF to get answers, summaries, translations, and citations in seconds.
+
+How It Works:
+1. Upload your documents to Coral AI. 
+
+2. Ask Coral AI any question about your document. 
+
+3. Coral AI gives you answers with page citations using information from the document.
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/coral-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Tweet Detective
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tweet-detective.webp" alt="Tweet Detective">
@@ -234,36 +280,6 @@ Create your free demo AI chatbot in seconds! Customize and train your chatbot  o
 Discover Mix.audio by Neutune, your solution for quick and unique music creation. Input your idea as text, image, or sound, and get up to four tailored tracks instantly. Ideal for YouTubers, podcasters, and game developers, Mix.audio offers copyright-free music, ensuring hassle-free usage. Elevate your content with this CES 2023 and GDA 2024 recognized tool – try Mix.audio and see the difference!
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/mix.audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### JobSearch.Coach
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach">
-
-#### Free cutting-edge AI tools that help job seekers land their dream job faster
-[Visit](https://www.thataicollection.com/redirect/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Tailor your resume to fit specific job requirements and company culture. Automatically generate a personalized cover letter based on the strongest points of your resume and aligned with the job you’re applying for. Get ready for job interviews with questions specific to the role you want. Practice your answers out loud and receive real-time feedback during mock interview sessions.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### aiPDF
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aipdf.webp" alt="aiPDF">
-
-#### aiPDF is an innovative, multi-modal tool designed to work with a wide array of inputs, including ebooks, web articles, YouTube videos, podcasts, and more.
-[Visit](https://www.thataicollection.com/redirect/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-The platform's (Q&A) system is rigorously tested against benchmarks from notable companies and esteemed institutions, including Google and Stanford University, ensuring the delivery of accurate and fine-tuned responses. Prioritizing user privacy, aiPDF is equipped with advanced safety systems to protect both your documents and personal information, ensuring a secure and private user experience.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -866,6 +882,23 @@ Make your own state-of-the-art AI avatar profile pictures
 
 ## Chat Bot
 
+### Girlfriend GPT - NSFW AI Chatbots
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
+
+#### Start chatting for free with our scary fast NSFW AI character engine. Playful, helpful, our 7500+ AI sexting characters got it. Uncensored AI, no judgment. You are in control.
+[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.
+
+Your wildest dreams are just a click away today!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### My AskAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
 
@@ -953,21 +986,6 @@ Unleash the full potential of AI with PromptPal, your ultimate resource for meti
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/promptpal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### EmbedAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-embedai.webp" alt="EmbedAI">
-
-#### EmbedAI - Custom AI Chatbot trained on your data
-[Visit](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Develop a personalized AI support chatbot by utilizing your unique content, support documents, PDFs, APIs, or databases. Easily integrate it into your website with just one line of code to provide real-time responses to your visitors' inquiries, thereby minimizing the number of support tickets you receive.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

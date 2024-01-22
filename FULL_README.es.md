@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1030" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1031" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
+    </a>
+    <h4>Herramientas de IA gratuitas y vanguardistas que ayudan a los solicitantes de empleo a conseguir el trabajo de sus sueños más rápido</h4>
+    <p>Adapta tu currículum para que se adapte a los requisitos laborales específicos y a la cultura empresarial. Genera automáticamente una carta de presentación personalizada basada en los puntos más fuertes de tu currículum y alineada con el puesto que estás solicitando. Prepárate para las entrevistas de trabajo con preguntas específicas sobre el puesto que deseas. Practica tus respuestas en voz alta y recibe comentarios en tiempo real durante las sesiones simuladas de entrevistas.</p>
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con JobSearch.Coach</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
     </a>
@@ -66,27 +79,14 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
-    <h4>Looka: Diseño de logotipos e identidad de marca para emprendedores 
-</h4>
-    <p>Diseña un logotipo, crea un sitio web y crea una identidad de marca que te encante con el poder de la inteligencia artificial. De uso 100% gratuito.
-</p>
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Looka</b></a>
-    <br />
-</div>
+    <h4>Empieza a chatear gratis con nuestro rápido y aterrador motor de personajes de IA de la NSFW. Divertido, útil, nuestros más de 7500 personajes de sexting con IA lo tienen. IA sin censura, sin juicio. Tú tienes el control.</h4>
+    <p>Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para recibir mensajes de texto con IA y charlas picantes las 24 horas del día, los 7 días de la semana
 
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
-    </a>
-    <h4>Herramientas de IA gratuitas y vanguardistas que ayudan a los solicitantes de empleo a conseguir el trabajo de sus sueños más rápido</h4>
-    <p>Adapta tu currículum para que se adapte a los requisitos laborales específicos y a la cultura empresarial. Genera automáticamente una carta de presentación personalizada basada en los puntos más fuertes de tu currículum y alineada con el puesto que estás solicitando. Prepárate para las entrevistas de trabajo con preguntas específicas sobre el puesto que deseas. Practica tus respuestas en voz alta y recibe comentarios en tiempo real durante las sesiones simuladas de entrevistas.</p>
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con JobSearch.Coach</b></a>
+¡Tus sueños más locos están a un clic de distancia hoy!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -534,6 +534,7 @@
 | [EmojiBrew](https://www.thataicollection.com/redirect/emojibrew?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EmojiBrew: combinaciones de emojis para copiar y pegar. | Busca entre miles de combinaciones de emojis generadas por la IA para copiar y pegar ✂📋 Ahorra tiempo buscando cualquier palabra y encuentra la combinación correspondiente. | :white_check_mark: |
 | [Excuses AI](https://www.thataicollection.com/redirect/excuses-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generador de excusas. | Usa la IA para generar la excusa profesional perfecta. | :grey_question: |
 | [FoodAI](https://www.thataicollection.com/redirect/foodai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Foodai.App: ¡Genera recetas de cocina con IA!. | Selecciona los ingredientes que quieres usar y nuestra IA te dará recetas para preparar con algunos de esos ingredientes. Luego haz clic en el botón de abajo para obtener tu receta. | :white_check_mark: |
+| [Girlfriend GPT - NSFW AI Chatbots](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Empieza a chatear gratis con nuestro rápido y aterrador motor de personajes de IA de la NSFW. Divertido, útil, nuestros más de 7500 personajes de sexting con IA lo tienen. IA sin censura, sin juicio. Tú tienes el control. | Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para recibir mensajes de texto con IA y charlas picantes las 24 horas del día, los 7 días de la semana  ¡Tus sueños más locos están a un clic de distancia hoy!. | :white_check_mark: |
 | [Jokelub](https://www.thataicollection.com/redirect/jokelub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Jokelub. | Trae humor a todas partes. | :grey_question: |
 | [Kanye Tweet Generator](https://www.thataicollection.com/redirect/kanye-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generación de tuits de Kanye. | Genera tweets de Kanye usando IA. Construido por Ryan Doyle. | :grey_question: |
 | [Nudify.online](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Desviste a cualquiera con nuestro servicio GRATUITO. Deepnude AI en Nudify: ¡desnuda a cualquier chica gratis!. | Generador de fotos Undress AI para desnudos profundos gratis. Desnuda la IA de Deepnude con la más alta precisión de las fotos de desnudos y bikinis de deepfake. Solo tienes que elegir la edad, el tipo de cuerpo y la calidad y obtendrás el resultado en unos segundos. | :white_check_mark: |
@@ -1225,12 +1226,12 @@
 | [chtrbx](https://www.thataicollection.com/redirect/chtrbx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Chtrbx: Revoluciona el servicio de atención al cliente con información basada en la IA. | Chtrbx es una plataforma de chat de IA que ayuda a las empresas a mejorar las interacciones en línea con los clientes. Analiza los sentimientos e intereses de los visitantes, lo que permite una participación eficaz y una visión estratégica. Esto se traduce en mejores experiencias de usuario, recomendaciones personalizadas y, potencialmente, en mayores ventas. Chtrbx ofrece más que chat, es una herramienta basada en datos para mejorar el servicio e impulsar el crecimiento. | :white_check_mark: |
 | [Claude](https://www.thataicollection.com/redirect/claude?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Claude es un asistente de IA de próxima generación para tus tareas, sin importar la escala. | Claude Nuestro modelo más potente, que destaca en una amplia gama de tareas, desde diálogos sofisticados y generación de contenido creativo hasta instrucciones detalladas.  Sirve para: Razonamiento complejo Creatividad Diálogo reflexivo Codificación Creación de contenido detallado. | :white_check_mark: |
 | [Commandbar HelpHub](https://www.thataicollection.com/redirect/commandbar-helphub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Un chatbot con tecnología GPT para cualquier sitio. | Puede agregar contenido fuente de 3 maneras: -Rastreando cualquier sitio público a través de una URL (por ejemplo, su sitio de marketing o blog) -Sincronizando con un CMS (como Zendesk o Intercom) - Agregue contenido manualmente. Luego, el chatbot se entrena en ese contenido y responderá preguntas basadas solo en ese contenido. | :white_check_mark: |
+| [Coral AI](https://www.thataicollection.com/redirect/coral-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Busca y entiende documentos con IA. | Reduce tu tiempo de lectura a la mitad: sube un PDF para obtener respuestas, resúmenes, traducciones y citas en segundos.  Cómo funciona: 1. Sube tus documentos a Coral AI.   2. Pregúntale a Coral AI cualquier pregunta sobre tu documento.   3. La IA de Coral te da respuestas con citas de páginas utilizando la información del documento. | :white_check_mark: |
 | [CrushOn.AI](https://www.thataicollection.com/redirect/crushon.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | CrushonAI: experimente chats de IA con personajes NSFW genuinos y sin restricciones SIN filtros. 🚀🤖. | Sumérgete en chats de IA con personajes NSFW sin filtros. Crea tus personajes de IA y experimenta interacciones NSFW auténticas e ilimitadas. Explora el poder de crear tu personalidad de IA única. ¡Sumérgete ahora!. | :white_check_mark: |
 | [Dante](https://www.thataicollection.com/redirect/dante?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Chatbots de GPT personalizados entrenados en sus datos. | Codificación cero. Comparte en tu sitio web en minutos. Cree un chatbot GPT-4 en minutos. Entrena la IA, personaliza e incrusta en tu sitio web. | :white_check_mark: |
 | [Docubro](https://www.thataicollection.com/redirect/docubro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT para la documentación de su sitio web. | ChatGPT para su documentación, hágalo accesible y fácil de usar manteniendo una conversación para explorar el contenido. | :grey_question: |
 | [EmbedAI](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EmbedAI: chatbot de IA personalizado entrenado en tus datos. | Desarrolla un chatbot de soporte de IA personalizado utilizando tu contenido, documentos de soporte, PDF, API o bases de datos únicos. Intégralo fácilmente en tu sitio web con una sola línea de código para responder en tiempo real a las consultas de tus visitantes y minimizar así el número de solicitudes de soporte que recibes. | :white_check_mark: |
 | [Flot.ai](https://www.thataicollection.com/redirect/flot.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Su copiloto de IA para todas las aplicaciones y sitios web. | Utilice ChatGPT en cualquier lugar que escriba o seleccione sin copiar y pegar. Pídale a AI que escriba, mejore, parafrasee, resuma, traduzca, explique o responda cualquier texto con un solo clic. | :white_check_mark: |
-| [Girlfriend GPT - NSFW AI Chatbots](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Empieza a chatear gratis con nuestro rápido y aterrador motor de personajes de IA de la NSFW. Divertido, útil, nuestros más de 7500 personajes de sexting con IA lo tienen. IA sin censura, sin juicio. Tú tienes el control. | Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para recibir mensajes de texto con IA y charlas picantes las 24 horas del día, los 7 días de la semana  ¡Tus sueños más locos están a un clic de distancia hoy!. | :white_check_mark: |
 | [GPTHelp.ai](https://www.thataicollection.com/redirect/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT para tu sitio web/Chatbot de atención al cliente con IA. | GPTHelp.ai ofrece chatbots de IA sin código y fáciles de usar, entrenados en tus propias páginas web, archivos y preguntas frecuentes.  GPTHelp.ai introduce una forma intuitiva de integrar la IA en tu sistema de atención al cliente. Nuestra plataforma te permite crear chatbots personalizados que se entrenan directamente a partir del contenido, los archivos y las preguntas frecuentes de tu sitio web. | :grey_question: |
 | [HUMATA](https://www.thataicollection.com/redirect/humata?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Humata: ChatGPT para tus archivos de datos. Preguntar es más rápido que hojear. | Aprende 100 veces más rápido, crea informes 100 veces más rápido, analiza documentos legales 100 veces más rápido, entiende los documentos técnicos 100 veces más rápido. Haz preguntas y obtén respuestas sobre cualquier archivo al instante. | :white_check_mark: |
 | [Keepi](https://www.thataicollection.com/redirect/keepi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | IA sobre WhatsApp. | Acceda a la IA más avanzada disponible en la actualidad sobre la marcha. Keepi lo mantendrá inteligente y listo con el conocimiento relevante. | :white_check_mark: |
@@ -1423,6 +1424,7 @@
 | [Boolpic](https://www.thataicollection.com/redirect/boolpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Una plataforma de video inteligente que empodera a las marcas. | Genere videos sobre la marca 10 veces más rápido con IA para aumentar el rendimiento de marketing. | :grey_question: |
 | [Chapterme](https://www.thataicollection.com/redirect/chapterme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Chapterme: capítulos impulsados por IA para tus vídeos. | Con ChapterMe ChapterGPT, la IA genera automáticamente capítulos con fecha y hora para tus vídeos y podcasts en cuestión de minutos. Ahorra horas de tiempo y dinero y, al mismo tiempo, céntrate en crear contenido de calidad. | :white_check_mark: |
 | [Clipfly](https://www.thataicollection.com/redirect/clipfly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Crea vídeos atractivos con el editor de vídeo Clipfly. | Clipfly es un editor de vídeo sencillo e integral que está completamente en línea y de uso gratuito.   ● Potentes funciones de edición de vídeo con IA: potenciador de vídeo con IA, vídeo con IA más nítido, generación de voz en off con IA, etc.  ● Enormes herramientas de edición de vídeo: amplia colección de herramientas de edición de vídeo gratuitas.  ● Abundantes elementos creativos para vídeos: incluye una variedad de fuentes de texto elegantes, música libre de derechos, imágenes, pegatinas, etc. | :white_check_mark: |
+| [Clipwing](https://www.thataicollection.com/redirect/clipwing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Una herramienta para cortar vídeos largos en docenas de clips cortos. | Descripción general: Preséntate con tus clips cortos para conseguir más visitas, aumentar tu público y convertirte en una superestrella  Características principales: • Vídeo largo en cortos: convierte tu vídeo largo en clips cortos para conseguir más visitas. • Subtítulos pegadizos: a la gente le encanta ver vídeos sin sonido. ¡Interactúa con tu público con subtítulos modernos!. | :white_check_mark: |
 | [Colossyan](https://www.thataicollection.com/redirect/colossyan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | La plataforma de vídeo de IA para el aprendizaje en el lugar de trabajo. | Colossyan Creator hace que la creación de vídeos sea sencilla y sin estrés. Descubra nuestro creador de vídeos de IA con actores reales. Crea vídeos en menos de 5 minutos. | :white_check_mark: |
 | [D-ID's Creative Reality Studio](https://www.thataicollection.com/redirect/d-ids-creative-reality-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | IA generativa orientada al futuro. | Produzca videos personalizados con avatares parlantes con solo tocar un botón, otorgando superpoderes a empresas y creadores. | :white_check_mark: |
 | [Deepfakesweb](https://www.thataicollection.com/redirect/deepfakesweb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Haz tus propios deepfakes. | Nuestra aplicación deepfake fácil de usar utiliza inteligencia artificial y aprendizaje profundo para generar increíbles videos de intercambio de rostros. Haz tu propio video deepfake hoy. | :grey_question: |

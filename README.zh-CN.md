@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1030" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1031" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -66,14 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looka.webp" alt="Looka" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
     </a>
-    <h4>Looka-企业家徽标设计和品牌标识 
-</h4>
-    <p>利用人工智能的力量设计徽标、制作网站并创建您喜爱的品牌标识。100% 免费使用。
-</p>
-    <a href="https://www.thataicollection.com/redirect/looka/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Looka</b></a>
+    <h4>Caspa AI 是一个在几分钟内创建和自定义 AI 图像的平台</h4>
+    <p>使用这款免费工具，发挥 AI 驱动的图像创建和编辑的潜力，为各种应用程序快速且经济高效地制作独特的视觉效果。</p>
+    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 caspa AI</b></a>
     <br />
 </div>
 
@@ -81,12 +79,14 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
-    <h4>Caspa AI 是一个在几分钟内创建和自定义 AI 图像的平台</h4>
-    <p>使用这款免费工具，发挥 AI 驱动的图像创建和编辑的潜力，为各种应用程序快速且经济高效地制作独特的视觉效果。</p>
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 caspa AI</b></a>
+    <h4>使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。</h4>
+    <p>从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。
+
+今天只需点击一下即可实现您最疯狂的梦想！</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -150,6 +150,52 @@
 - 💰 [销售与市场营销](#销售与市场营销)
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
+
+### Clipwing
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clipwing.webp" alt="Clipwing">
+
+#### 将长视频剪切成数十个短片的工具
+[Visit](https://www.thataicollection.com/redirect/clipwing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+概述：
+与您的短片一起露面，以赢得更多观看次数，扩大受众群体，成为超级巨星
+
+主要特点：
+•长视频变成短片-将长视频变成短片以赢得更多观看次数。
+• 醒目的字幕-人们喜欢观看没有声音的视频。用时尚字幕吸引观众！
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/clipwing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Coral AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-coral-ai.webp" alt="Coral AI">
+
+#### 使用 AI 搜索和理解文档。
+[Visit](https://www.thataicollection.com/redirect/coral-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+将您的阅读时间缩短一半——上传 PDF 即可在几秒钟内获得答案、摘要、翻译和引文。
+
+它是如何工作的：
+1。将您的文件上传到 Coral AI。 
+
+2。向Coral AI询问有关您的文档的任何问题。 
+
+3.Coral AI 使用文档中的信息，通过页面引用为您提供答案。
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/coral-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 
 ### Tweet Detective
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tweet-detective.webp" alt="Tweet Detective">
@@ -232,36 +278,6 @@ Snapwiz.io 是一款专业、直观的人工智能解决方案，用于生成增
 <br />
 
 
-
-
-### JobSearch.Coach
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach">
-
-#### 免费的尖端人工智能工具，帮助求职者更快地找到理想的工作
-[Visit](https://www.thataicollection.com/redirect/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-根据特定的工作要求和公司文化量身定制简历。根据简历中的强项自动生成个性化求职信，并与你申请的工作保持一致。针对你想要的职位提出具体的问题，为求职面试做好准备。在模拟面试环节中，大声练习答案并获得实时反馈。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### aiPDF
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aipdf.webp" alt="aiPDF">
-
-#### aiPdf 是一款创新的多模式工具，旨在处理各种输入，包括电子书、网络文章、YouTube 视频、播客等。
-[Visit](https://www.thataicollection.com/redirect/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-该平台的（问答）系统根据包括谷歌和斯坦福大学在内的知名公司和知名机构的基准进行了严格的测试，确保了提供准确和微调的回复。AiPDF优先考虑用户隐私，配备了先进的安全系统，可保护您的文件和个人信息，确保安全和私密的用户体验。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ## 会计与金融
@@ -1865,6 +1881,23 @@ SwaGai-人工智能在T恤上生成了图像。
 
 ## 乐趣
 
+### Girlfriend GPT - NSFW AI Chatbots
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
+
+#### 使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。
+[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。
+
+今天只需点击一下即可实现您最疯狂的梦想！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Dittin AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
 
@@ -1955,21 +1988,6 @@ Dittin AI 是一个基于 DittinLLM 的 NSFW 人工智能聊天机器人平台�
 一项 AI 实验：让大法官 Ruth Bader Ginsburg 就您心中想要的任何问题做出决定。 AI21 Labs 的第一个 AI Drop。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ask-rbg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### StoriesForKids
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storiesforkids.webp" alt="StoriesForKids">
-
-#### StoriesForKids.ai：使用人工智能的个性化儿童读物
-[Visit](https://www.thataicollection.com/redirect/storiesforkids?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在几秒钟内将现实生活中的情景变成有趣的故事和插图
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/storiesforkids?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
