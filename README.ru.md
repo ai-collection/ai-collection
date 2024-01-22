@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1031" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1032" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -151,6 +151,24 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### Funny Tweet Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-funny-tweet-generator.webp" alt="Funny Tweet Generator">
+
+#### смешные твиты, генератор твитов, твиты, созданные искусственным интеллектом, юмористические твиты, самые смешные твиты
+
+[Visit](https://www.thataicollection.com/redirect/funny-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Funny Tweet Generator — это бесплатный инструмент искусственного интеллекта, который генерирует юмористические твиты на основе тем, введенных пользователем
+
+Наш генератор забавных твитов работает на базе искусственного интеллекта ChatGPT и может легко переписывать твиты, чтобы сделать их более интересными и увлекательными. Юмористические твиты могут привлечь больше пользователей и увеличить время просмотра. Повысьте лояльность пользователей и сделайте свои твиты заметными в социальных сетях.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/funny-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Clipwing
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clipwing.webp" alt="Clipwing">
 
@@ -257,21 +275,6 @@ Snapwiz.io — это профессиональное и интуитивно �
 Создайте своего бесплатного демонстрационного чат-бота с искусственным интеллектом за считанные секунды! Настройте и обучите чат-бота работе с вашими наборами данных. С легкостью обновляйте разговоры, используя персонализированные ответы. 
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Mix.audio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mix.audio.webp" alt="Mix.audio">
-
-#### Мультимодальный генератор фоновой музыки AI
-[Visit](https://www.thataicollection.com/redirect/mix.audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Откройте для себя Mix.audio от Neutune, ваше решение для быстрого и уникального создания музыки. Введите свою идею в виде текста, изображения или звука и мгновенно создайте до четырех специально подобранных треков. Mix.audio идеально подходит для пользователей YouTube, подкастеров и разработчиков игр. Он предлагает музыку без авторских прав и обеспечивает беспроблемное использование. Улучшите свой контент с помощью этого признанного инструмента CES 2023 и GDA 2024 — попробуйте Mix.audio и почувствуйте разни
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/mix.audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

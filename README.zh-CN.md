@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1031" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1032" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -151,6 +151,24 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### Funny Tweet Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-funny-tweet-generator.webp" alt="Funny Tweet Generator">
+
+#### 有趣的推文，推文人工智能生成器，人工智能生成的推文，幽默的推文，最有趣的推文
+
+[Visit](https://www.thataicollection.com/redirect/funny-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+搞笑推文生成器是一款免费的人工智能工具，可根据用户输入的主题生成幽默推文
+
+我们的搞笑推文生成器由 ChatGPT AI 提供支持。可以轻松重写推文以使其更有趣和有趣。幽默的推文可以吸引更多用户并增加用户浏览时间。提高用户粘度，让你的推文在社交媒体上脱颖而出。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/funny-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Clipwing
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clipwing.webp" alt="Clipwing">
 
@@ -263,21 +281,6 @@ Snapwiz.io 是一款专业、直观的人工智能解决方案，用于生成增
 <br />
 
 <br />
-
-
-### Mix.audio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mix.audio.webp" alt="Mix.audio">
-
-#### 多模态 AI 背景音乐生成器
-[Visit](https://www.thataicollection.com/redirect/mix.audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-探索 Neutune 的 Mix.Audio，这是您快速创作独特音乐的解决方案。将您的想法作为文本、图像或声音输入，即可立即获得多达四首量身定制的曲目。Mix.Audio 提供无版权的音乐，确保无忧使用，非常适合 YouTube 用户、播客和游戏开发者。使用这款 CES 2023 和 GDA 2024 认可的工具提升您的内容水平——试试 Mix.Audio 看看有什么不同！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/mix.audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ## 会计与金融
