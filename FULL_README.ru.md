@@ -68,19 +68,6 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
-    </a>
-    <h4>Caspa AI — платформа для создания и настройки изображений AI за считанные минуты</h4>
-    <p>Раскройте потенциал создания и редактирования изображений с помощью искусственного интеллекта с помощью этого бесплатного инструмента, позволяющего быстро и экономично создавать уникальные визуальные эффекты для различных приложений.</p>
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с caspa AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
     </a>
@@ -639,6 +626,7 @@
 | Имя | Заголовок | Описание | Предложить бесплатную версию |
 |---|---|---|:---:|
 | [AI Social Bio](https://www.thataicollection.com/redirect/ai-social-bio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Social Bio - ваша биография в социальных сетях, созданная искусственным интеллектом. | Идеально подходит для X (Twitter). Добавьте ключевое слово, чтобы сформировать свою биографию, выберите влиятельного человека, который вдохновит вас на создание биографии с искусственным интеллектом, и создайте свою биографию. | :white_check_mark: |
+| [Best Fake Tweet Generator With Image](https://www.thataicollection.com/redirect/best-fake-tweet-generator-with-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Лучший генератор поддельных твитов с изображениями, социальными сетями, чат-ботом с искусственным интеллектом, твиттером, бесплатными инструментами. | Генератор поддельных твитов с изображением поможет вам создать поддельный твит и загрузить его в виде скриншотов.  Лучший генератор поддельных твитов поддерживает последнюю версию дизайна пользовательского интерфейса Twitter/X. Вы можете выбрать аватар, имя, учетную запись, время публикации, содержание твита, ответы на твиты, ретвиты, лайки, количество просмотров, загруженных изображений и т. д. Мы даже поддерживаем переключение твитов на другие темы. | :white_check_mark: |
 | [Funny Tweet Generator](https://www.thataicollection.com/redirect/funny-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | смешные твиты, генератор твитов, твиты, созданные искусственным интеллектом, юмористические твиты, самые смешные твиты. | Funny Tweet Generator — это бесплатный инструмент искусственного интеллекта, который генерирует юмористические твиты на основе тем, введенных пользователем  Наш генератор забавных твитов работает на базе искусственного интеллекта ChatGPT и может легко переписывать твиты, чтобы сделать их более интересными и увлекательными. Юмористические твиты могут привлечь больше пользователей и увеличить время просмотра. Повысьте лояльность пользователей и сделайте свои твиты заметными в социальных сетях. | :white_check_mark: |
 | [Graham AI](https://www.thataicollection.com/redirect/graham-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Graham.Ai - генератор технических твитов. Пишите твиты как гениальный влиятельный человек в сфере технологий, созданный искусственным интеллектом. | Просто выберите тему из списка или напишите собственную, и позвольте генеративному искусственному интеллекту создать для вас твит. Все, что вам нужно сделать, это просто поделиться созданным твитом. | :white_check_mark: |
 | [Highperformr.ai - Twitter Analytics & Scheduling Software](https://www.thataicollection.com/redirect/highperformr.ai---twitter-analytics-and-scheduling-software?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Расширьте свое присутствие в Твиттере с помощью Highperformr. Функции включают Twitter Analytics, CRM, создание аудитории, планирование твитов и многое другое. | Highperformr — это мощное программное обеспечение для управления твиттером с удобным инструментом аналитики и публикации, разработанное специально для Twitter.  Оно вдохновляет и помогает без труда создавать блестящие идеи для контента. В нем есть тренер по искусственному интеллекту, который дорабатывает ваши идеи в соответствии с вашим уникальным тоном. Аналитика, не поддающаяся количественной визуализации, поможет вам добиться более сильного и эффективного присутствия в Интернете. | :grey_question: |

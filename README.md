@@ -59,32 +59,6 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
-    </a>
-    <h4>Free cutting-edge AI tools that help job seekers land their dream job faster</h4>
-    <p>Tailor your resume to fit specific job requirements and company culture. Automatically generate a personalized cover letter based on the strongest points of your resume and aligned with the job you’re applying for. Get ready for job interviews with questions specific to the role you want. Practice your answers out loud and receive real-time feedback during mock interview sessions.</p>
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with JobSearch.Coach</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
-    </a>
-    <h4>Caspa AI Is a Platform to Create and Customise AI Images in Minutes</h4>
-    <p>Unlock the potential of AI-powered image creation and editing with this free tool, producing unique visuals quickly and cost-effectively for various applications.</p>
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with caspa AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -93,6 +67,19 @@ Translations:
 
 Your wildest dreams are just a click away today!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
+    </a>
+    <h4>Free cutting-edge AI tools that help job seekers land their dream job faster</h4>
+    <p>Tailor your resume to fit specific job requirements and company culture. Automatically generate a personalized cover letter based on the strongest points of your resume and aligned with the job you’re applying for. Get ready for job interviews with questions specific to the role you want. Practice your answers out loud and receive real-time feedback during mock interview sessions.</p>
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with JobSearch.Coach</b></a>
     <br />
 </div>
 
@@ -156,6 +143,23 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+
+### Best Fake Tweet Generator With Image
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-best-fake-tweet-generator-with-image.webp" alt="Best Fake Tweet Generator With Image">
+
+#### Best Fake Tweet Generator With Image  Social Media,AI Chatbot,twitter ,Free Tools
+[Visit](https://www.thataicollection.com/redirect/best-fake-tweet-generator-with-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Fake Tweet Generator With Image helps you generate a fake tweet and download them as screenshots.
+
+Best Fake Tweet Generator supports the latest version of Twitter/X UI design. You can choose your tweet’s avatar, name, account, publishing time, tweet content, tweet replies, retweets, likes, number of views, uploaded images, etc. We even support switching tweet using different themes.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/best-fake-tweet-generator-with-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Funny Tweet Generator
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-funny-tweet-generator.webp" alt="Funny Tweet Generator">
@@ -268,21 +272,6 @@ Snapwiz.io, is a professional and intuitive AI solution for generating enhanced 
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/snapwiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Chatbot
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-chatbot.webp" alt="AI Chatbot">
-
-#### Create an AI chat bot for your website in seconds
-[Visit](https://www.thataicollection.com/redirect/ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Create your free demo AI chatbot in seconds! Customize and train your chatbot  on your datasets. Upgrade conversations effortlessly with tailored responses. 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -679,6 +668,21 @@ SUPERMACHINE enables you to generate images with the latest in artificial intell
 <br />
 
 
+### Corporate Headshots AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
+
+#### Corporate Headshots AI: Revolutionizing Corporate Portraits with AI
+[Visit](https://www.thataicollection.com/redirect/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Getimg.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getimg.ai.webp" alt="Getimg.ai">
 
@@ -739,21 +743,6 @@ Simply upload 10-20 photos of your cat or dog and select from over 80+ themes to
 Receive a pack of 100 AI generated images of your pet in both photo-realistic and artistic styles.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Corporate Headshots AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
-
-#### Corporate Headshots AI: Revolutionizing Corporate Portraits with AI
-[Visit](https://www.thataicollection.com/redirect/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

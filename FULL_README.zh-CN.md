@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
-    </a>
-    <h4>免费的尖端人工智能工具，帮助求职者更快地找到理想的工作</h4>
-    <p>根据特定的工作要求和公司文化量身定制简历。根据简历中的强项自动生成个性化求职信，并与你申请的工作保持一致。针对你想要的职位提出具体的问题，为求职面试做好准备。在模拟面试环节中，大声练习答案并获得实时反馈。</p>
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 JobSearch.Coach</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -81,12 +68,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
     </a>
-    <h4>Caspa AI 是一个在几分钟内创建和自定义 AI 图像的平台</h4>
-    <p>使用这款免费工具，发挥 AI 驱动的图像创建和编辑的潜力，为各种应用程序快速且经济高效地制作独特的视觉效果。</p>
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 caspa AI</b></a>
+    <h4>免费的尖端人工智能工具，帮助求职者更快地找到理想的工作</h4>
+    <p>根据特定的工作要求和公司文化量身定制简历。根据简历中的强项自动生成个性化求职信，并与你申请的工作保持一致。针对你想要的职位提出具体的问题，为求职面试做好准备。在模拟面试环节中，大声练习答案并获得实时反馈。</p>
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 JobSearch.Coach</b></a>
     <br />
 </div>
 
@@ -984,6 +971,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [AI Social Bio](https://www.thataicollection.com/redirect/ai-social-bio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Social Bio-你的社交媒体简历由人工智能创作. | 非常适合 X（Twitter）。添加关键字来塑造你的个人简历，选择一个有影响力的人来激发你的人工智能简历并生成你的个人简历. | :white_check_mark: |
+| [Best Fake Tweet Generator With Image](https://www.thataicollection.com/redirect/best-fake-tweet-generator-with-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 带有图像社交媒体，人工智能聊天机器人，推特，免费工具的最佳假推文生成器. | 带图片的虚假推文生成器可帮助您生成虚假推文并将其作为屏幕截图下载。  最佳虚假推文生成器支持最新版本的 Twitter/X 用户界面设计。你可以选择推文的头像、名称、账号、发布时间、推文内容、推文回复、转推、点赞、浏览量、上传的图片等。我们甚至支持使用不同的主题切换推文。. | :white_check_mark: |
 | [Funny Tweet Generator](https://www.thataicollection.com/redirect/funny-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 有趣的推文，推文人工智能生成器，人工智能生成的推文，幽默的推文，最有趣的推文. | 搞笑推文生成器是一款免费的人工智能工具，可根据用户输入的主题生成幽默推文  我们的搞笑推文生成器由 ChatGPT AI 提供支持。可以轻松重写推文以使其更有趣和有趣。幽默的推文可以吸引更多用户并增加用户浏览时间。提高用户粘度，让你的推文在社交媒体上脱颖而出。. | :white_check_mark: |
 | [Graham AI](https://www.thataicollection.com/redirect/graham-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Graham.Ai-科技推文生成器。像天才的科技影响者一样发推文，由人工智能生成。. | 只需从列表中选择一个话题或写一个自定义主题，然后让生成式 AI 为你创建一条推文。你所需要做的就是分享生成的推文。. | :white_check_mark: |
 | [Highperformr.ai - Twitter Analytics & Scheduling Software](https://www.thataicollection.com/redirect/highperformr.ai---twitter-analytics-and-scheduling-software?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用高性能增强你的 Twitter 知名度。功能包括 Twitter 分析、客户关系管理、受众群体构建、推文排程等。. | Highperformr 是一款功能强大的推特管理软件，具有专为 Twitter 设计的用户友好型分析和发布工具。  它可以激发灵感，并帮助您毫不费力地提出精彩的内容创意。它配备了人工智能教练，可以根据自己的独特语气将你的想法提炼出来。分析可视化程度超越数字，引导您走向更强大、更具影响力的在线形象。. | :grey_question: |

@@ -68,19 +68,6 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
-    </a>
-    <h4>Caspa AI — платформа для создания и настройки изображений AI за считанные минуты</h4>
-    <p>Раскройте потенциал создания и редактирования изображений с помощью искусственного интеллекта с помощью этого бесплатного инструмента, позволяющего быстро и экономично создавать уникальные визуальные эффекты для различных приложений.</p>
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с caspa AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
     </a>
@@ -150,6 +137,23 @@
 - 🛒 [Электронная Торговля](#электронная-торговля)
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
+
+### Best Fake Tweet Generator With Image
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-best-fake-tweet-generator-with-image.webp" alt="Best Fake Tweet Generator With Image">
+
+#### Лучший генератор поддельных твитов с изображениями, социальными сетями, чат-ботом с искусственным интеллектом, твиттером, бесплатными инструментами
+[Visit](https://www.thataicollection.com/redirect/best-fake-tweet-generator-with-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Генератор поддельных твитов с изображением поможет вам создать поддельный твит и загрузить его в виде скриншотов.
+
+Лучший генератор поддельных твитов поддерживает последнюю версию дизайна пользовательского интерфейса Twitter/X. Вы можете выбрать аватар, имя, учетную запись, время публикации, содержание твита, ответы на твиты, ретвиты, лайки, количество просмотров, загруженных изображений и т. д. Мы даже поддерживаем переключение твитов на другие темы.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/best-fake-tweet-generator-with-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Funny Tweet Generator
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-funny-tweet-generator.webp" alt="Funny Tweet Generator">
@@ -260,21 +264,6 @@ Funny Tweet Generator — это бесплатный инструмент ис�
 Snapwiz.io — это профессиональное и интуитивно понятное решение для искусственного интеллекта для создания улучшенных хедшотов. Клиенты могут легко выбрать предпочтительный стиль фотографий с искусственным интеллектом и загрузить от 4 до 10 изображений человека, которого они хотят показать. В результате получается высококачественная фотография, созданная искусственным интеллектом, с учетом их спецификаций. Создайте идеальное изображение, созданное искусственным интеллектом, с помощью SnapWiz! Будьте кем уго
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/snapwiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Chatbot
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-chatbot.webp" alt="AI Chatbot">
-
-#### Создайте чат-бота с искусственным интеллектом для своего сайта за считанные секунды
-[Visit](https://www.thataicollection.com/redirect/ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Создайте своего бесплатного демонстрационного чат-бота с искусственным интеллектом за считанные секунды! Настройте и обучите чат-бота работе с вашими наборами данных. С легкостью обновляйте разговоры, используя персонализированные ответы. 
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -671,6 +660,21 @@ SUPERMACHINE позволяет создавать изображения с п�
 
 
 
+### Corporate Headshots AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
+
+#### Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта
+[Visit](https://www.thataicollection.com/redirect/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Getimg.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getimg.ai.webp" alt="Getimg.ai">
 
@@ -731,21 +735,6 @@ Pet Booth — это сервис для создания собственных
 Получите набор из 100 изображений вашего питомца, созданных искусственным интеллектом, как в фотореалистичном, так и в художественном стиле.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Corporate Headshots AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
-
-#### Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта
-[Visit](https://www.thataicollection.com/redirect/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
