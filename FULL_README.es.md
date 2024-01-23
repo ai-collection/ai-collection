@@ -53,21 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
-    </a>
-    <h4>Empieza a chatear gratis con nuestro rápido y aterrador motor de personajes de IA de la NSFW. Divertido, útil, nuestros más de 7500 personajes de sexting con IA lo tienen. IA sin censura, sin juicio. Tú tienes el control.</h4>
-    <p>Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para recibir mensajes de texto con IA y charlas picantes las 24 horas del día, los 7 días de la semana
-
-¡Tus sueños más locos están a un clic de distancia hoy!</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
     </a>
@@ -81,12 +66,14 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
-    <h4>Caspa AI es una plataforma para crear y personalizar imágenes de IA en cuestión de minutos</h4>
-    <p>Aproveche el potencial de la creación y edición de imágenes con tecnología de IA con esta herramienta gratuita, que produce imágenes únicas de forma rápida y rentable para diversas aplicaciones.</p>
-    <a href="https://www.thataicollection.com/redirect/caspa-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con caspa AI</b></a>
+    <h4>Empieza a chatear gratis con nuestro rápido y aterrador motor de personajes de IA de la NSFW. Divertido, útil, nuestros más de 7500 personajes de sexting con IA lo tienen. IA sin censura, sin juicio. Tú tienes el control.</h4>
+    <p>Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para recibir mensajes de texto con IA y charlas picantes las 24 horas del día, los 7 días de la semana
+
+¡Tus sueños más locos están a un clic de distancia hoy!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -1169,6 +1156,7 @@
 | Nombre | Título | Descripción | Ofrecer versión gratuita |
 |---|---|---|:---:|
 | [AI Social Bio](https://www.thataicollection.com/redirect/ai-social-bio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Biografía social de AI: tu biografía en las redes sociales creada por inteligencia artificial. | Perfecto para X (Twitter). Añade una palabra clave para dar forma a tu biografía, elige un influencer que inspire tu biografía de IA y genere tu biografía. | :white_check_mark: |
+| [Best Fake Tweet Generator With Image](https://www.thataicollection.com/redirect/best-fake-tweet-generator-with-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | El mejor generador de tuits falsos con imágenes, redes sociales, IA, chatbot, Twitter, herramientas gratuitas. | El generador de tuits falsos con imagen te ayuda a generar un tuit falso y a descargarlo como capturas de pantalla.  El mejor generador de tuits falsos es compatible con la última versión del diseño de interfaz de usuario de Twitter/X. Puedes elegir el avatar, el nombre, la cuenta, la hora de publicación, el contenido del tuit, las respuestas a los tuits, los retuits, los me gusta, el número de visitas, las imágenes subidas, etc. Incluso admitimos cambiar de tuit por diferentes temas. | :white_check_mark: |
 | [Funny Tweet Generator](https://www.thataicollection.com/redirect/funny-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | tuits divertidos, generador de IA de tuits, tuits generados por IA, tuits humorísticos, tuits más divertidos. | Funny Tweet Generator es una herramienta de inteligencia artificial gratuita que genera tuits humorísticos basados en los temas introducidos por el usuario  Nuestro divertido generador de tuits funciona con la IA de ChatGPT y puede reescribir fácilmente los tuits para que sean más interesantes y divertidos. Los tuits humorísticos pueden atraer a más usuarios y aumentar el tiempo de navegación de los usuarios. Aumenta la fidelidad de los usuarios y haz que tus tuits destaquen en las redes sociales. | :white_check_mark: |
 | [Graham AI](https://www.thataicollection.com/redirect/graham-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Graham.Ai: generador de tuits tecnológicos. Tuitea como un genio de la tecnología, generado por la IA. | Simplemente elige un tema de una lista o escribe uno personalizado y deja que la IA generativa cree un tuit para ti. Todo lo que tienes que hacer es compartir el tuit generado. | :white_check_mark: |
 | [Highperformr.ai - Twitter Analytics & Scheduling Software](https://www.thataicollection.com/redirect/highperformr.ai---twitter-analytics-and-scheduling-software?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Mejora tu presencia en Twitter con Highperformr. Las funciones incluyen Twitter Analytics, CRM, creación de audiencia, programación de tuits y más. | Highperformr es un potente software de gestión de Twitter con una herramienta de análisis y publicación fácil de usar diseñada específicamente para Twitter.  Inspira y te ayuda a generar ideas de contenido brillantes sin esfuerzo. Viene con un entrenador de IA que refina tus ideas con tu tono único. Análisis que visualizan más allá de los números y que guían tu camino hacia una presencia en línea más sólida e impactante. | :grey_question: |
