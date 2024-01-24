@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1032" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1034" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,6 +59,19 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
+    </a>
+    <h4>Free cutting-edge AI tools that help job seekers land their dream job faster</h4>
+    <p>Tailor your resume to fit specific job requirements and company culture. Automatically generate a personalized cover letter based on the strongest points of your resume and aligned with the job you’re applying for. Get ready for job interviews with questions specific to the role you want. Practice your answers out loud and receive real-time feedback during mock interview sessions.</p>
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with JobSearch.Coach</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -67,19 +80,6 @@ Translations:
 
 Your wildest dreams are just a click away today!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
-    </a>
-    <h4>Free cutting-edge AI tools that help job seekers land their dream job faster</h4>
-    <p>Tailor your resume to fit specific job requirements and company culture. Automatically generate a personalized cover letter based on the strongest points of your resume and aligned with the job you’re applying for. Get ready for job interviews with questions specific to the role you want. Practice your answers out loud and receive real-time feedback during mock interview sessions.</p>
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with JobSearch.Coach</b></a>
     <br />
 </div>
 
@@ -287,6 +287,7 @@ Your wildest dreams are just a click away today!</p>
 | [Playground](https://www.thataicollection.com/redirect/playground?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Playground AI - Online AI Image Creator. | Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more. | :white_check_mark: |
 | [Pollinations](https://www.thataicollection.com/redirect/pollinations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | YOUR ENGINE FOR PERSONALIZED MEDIA. | We combine and fine-tune algorithms to match any aesthetics, allowing the creation of unlimited, customized AI media. | :grey_question: |
 | [Portrait by Vana](https://www.thataicollection.com/redirect/portrait-by-vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Portrait - Vana. | “Portrait” by Vana is a generative art studio that can create self-portraits of you in infinite styles. | :grey_question: |
+| [ProductScope AI](https://www.thataicollection.com/redirect/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ProductScope AI offers two essential tools for Ecommerce Brands and Marketers: an AI Product Photoshoot tool and a Listing Optimizer. | AI Product Photoshoot allows brands to generate hundreds of lifestyle images effortlessly with our AI Photoshoot tool without the expenses that come with a typical Photoshoot. Additionally, the AI-powered Listing Optimizer efficiently crafts compelling product listings in minutes, infused with high-impact keywords and insights derived from your reviews, all thanks to our advanced language models. | :white_check_mark: |
 | [PromeAI](https://www.thataicollection.com/redirect/promeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Tool for Rendering and Coloring Sketches. | Looking for an AI-powered design assistant that can help bring your creative ideas to life? Create stunning designs with our extensive controllable AIGC (C-AIGC) model style library. Whether you're architects, interior designers, product designers, or game animation designers. | :white_check_mark: |
 | [Prompthunt](https://www.thataicollection.com/redirect/prompthunt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Prompt Hunt - Your Home for Exploring, Creating, and Sharing AI Art. | Create, explore, and share AI art using DALL·E, Stable Diffusion, and Midjourney. Craft top-quality visuals with incredible speed, control, and detail, using Chroma, our advanced AI model. Create consistent assets for you and your team. Prompt Hunt makes it easier than ever to create, edit, and share templates. | :grey_question: |
 | [Rayst Gradients](https://www.thataicollection.com/redirect/rayst-gradients?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Rayst Gradients. | A Collection of 64 Beautiful Gradients Generated by AI. | :grey_question: |
@@ -547,6 +548,7 @@ Your wildest dreams are just a click away today!</p>
 | [Cutout Pro](https://www.thataicollection.com/redirect/cutout-pro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cutout.Pro - AI Photo Editing - Visual Content Generation Platform, Best for Image and Video Design. | All-in-one visual design platform containing AI photo and video editing tools. Automatic process for background remove, image restoration, graphic design, and content generation. | :grey_question: |
 | [Damn Good Tools](https://www.thataicollection.com/redirect/damn-good-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Oh, these damn good tools Easy-to-use, fun tools—free (and open-source). | Discover useful good tools that will boost your productivity. Example of some tools: Privacy Policy Generator, Screenshots, Detect Fonts, Chat With Any PDF, Summarize Any URL and more. | :grey_question: |
 | [Descript](https://www.thataicollection.com/redirect/descript?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ThereS a New Way to Make Video and Podcasts. A Good Way. | Descript is the simple, powerful, and fun way to edit. | :white_check_mark: |
+| [Dify.AI](https://www.thataicollection.com/redirect/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dify: Next-Gen LLMOps Platform with Self-Hosting Option. | Dify is an LLM application development platform that has helped built over 100,000 applications. It integrates BaaS and LLMOps, covering the essential tech stack for building generative AI-native applications, including a built-in RAG engine. Dify allows you to deploy your own version of Assistants API and GPTs, based on any LLMs. | :white_check_mark: |
 | [Fermat](https://www.thataicollection.com/redirect/fermat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Creativity Augmented for Content Creation. | Unleash your creativity with AI on a collaborative canvas. | :grey_question: |
 | [Hotpot](https://www.thataicollection.com/redirect/hotpot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hotpot.Ai. | Hotpot.ai helps you create amazing graphics, pictures, and text. AI tools like AI Art Generator spark creativity and automate drudgery while easy-to-edit templates empower anyone to create device mockups, social media posts, marketing images, app icons, and other work graphics. | :grey_question: |
 | [Lightricks](https://www.thataicollection.com/redirect/lightricks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Home to Creators Everywhere. | Experience the magic of creating with the best tools and services for creators: Facetune 2, Videoleap, Linkinbio & Photoleap. Check it out now!. | :grey_question: |
@@ -1160,6 +1162,7 @@ Your wildest dreams are just a click away today!</p>
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Social Bio](https://www.thataicollection.com/redirect/ai-social-bio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Social Bio - Your social media bio created by artificial intelligence. | Perfect for X (Twitter). Add a keyword to shape your bio, choose an influencer to inspire your AI bio and generate your bio. | :white_check_mark: |
+| [AI Twitter Generator - ChatGPT Engine](https://www.thataicollection.com/redirect/ai-twitter-generator---chatgpt-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Twitter Generator - ChatGPT Engine  Social Media,AI Chatbot,twitter,Free Tools. | Amplify your online impact with our ChatGPT-driven AI Twitter Generator. Elevate social engagement through the innovation of OpenAI.   Step into the future of digital creativity with the groundbreaking extension - "AI Twitter Generator". This extension, powered by advanced artificial intelligence technology, injects limitless creativity and fun into your Twitter account. | :white_check_mark: |
 | [Best Fake Tweet Generator With Image](https://www.thataicollection.com/redirect/best-fake-tweet-generator-with-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Best Fake Tweet Generator With Image  Social Media,AI Chatbot,twitter ,Free Tools. | Fake Tweet Generator With Image helps you generate a fake tweet and download them as screenshots.  Best Fake Tweet Generator supports the latest version of Twitter/X UI design. You can choose your tweet’s avatar, name, account, publishing time, tweet content, tweet replies, retweets, likes, number of views, uploaded images, etc. We even support switching tweet using different themes. | :white_check_mark: |
 | [Funny Tweet Generator](https://www.thataicollection.com/redirect/funny-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | funny tweets,tweet ai generator ,ai generated tweets ,humorous tweets,funniest tweets. | Funny Tweet Generator is a free AI tool that generate humorous tweets based on the topics entered by the user  Our funny tweet generator is powered by ChatGPT AI. and can easily rewrite tweets to make it more interesting and fun.  humorous tweets can attract more users and increase user browsing time. Increase user stickiness , and make your tweets stand out on social media. | :white_check_mark: |
 | [Graham AI](https://www.thataicollection.com/redirect/graham-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Graham.Ai - Tech Tweet Generator. Tweet like a genius tech influencer, generated by AI. | Just choose a topic from a list or write a custom one, and let generative AI create a tweet for you. All you need to do is just share the generated tweet. | :white_check_mark: |

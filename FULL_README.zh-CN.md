@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1032" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1034" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -421,6 +421,7 @@
 | [Cutout Pro](https://www.thataicollection.com/redirect/cutout-pro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cutout.Pro - AI 照片编辑 - 视觉内容生成平台，最适合图像和视频设计. | 包含 AI 照片和视频编辑工具的多合一视觉设计平台。自动处理背景删除、图像恢复、图形设计和内容生成. | :grey_question: |
 | [Damn Good Tools](https://www.thataicollection.com/redirect/damn-good-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 哦，这些该死的好工具 易于使用、有趣的工具——免费（且开源）。. | 发现有用的好工具，将提高您的生产力。 一些工具的示例：隐私政策生成器、屏幕截图、检测字体、与任何 PDF 聊天、总结任何 URL 等等。. | :grey_question: |
 | [Descript](https://www.thataicollection.com/redirect/descript?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 有一种制作视频和播客的新方法。一个好方法。. | Descript 是一种简单、强大且有趣的编辑方式。. | :white_check_mark: |
+| [Dify.AI](https://www.thataicollection.com/redirect/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dify：具有自托管选项的下一代 LLMOps 平台. | Dify 是一个 LLM 应用程序开发平台，已帮助构建了 100,000 多个应用程序。它集成了 BaaS 和 LLMOP，涵盖了构建生成式 AI 原生应用程序（包括内置 RAG 引擎）的基本技术堆栈。Dify 允许你基于任何 LLM 部署自己的助手 API 和 GPT 版本。. | :white_check_mark: |
 | [Fermat](https://www.thataicollection.com/redirect/fermat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 增强内容创作的创造力. | 在协作画布上通过 AI 释放您的创造力。. | :grey_question: |
 | [Hotpot](https://www.thataicollection.com/redirect/hotpot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 火锅人工智能. | Hotpot.ai 帮助您创建令人惊叹的图形、图片和文本。 AI Art Generator 等 AI 工具可以激发创造力并自动完成繁琐的工作，而易于编辑的模板使任何人都可以创建设备模型、社交媒体帖子、营销图片、应用程序图标和其他工作图形。. | :grey_question: |
 | [Lightricks](https://www.thataicollection.com/redirect/lightricks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 各地创作者的家园. | 使用面向创作者的最佳工具和服务体验创作的魔力：Facetune 2、Videoleap、Linkinbio 和 Photoleap。现在检查一下！. | :grey_question: |
@@ -971,6 +972,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [AI Social Bio](https://www.thataicollection.com/redirect/ai-social-bio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Social Bio-你的社交媒体简历由人工智能创作. | 非常适合 X（Twitter）。添加关键字来塑造你的个人简历，选择一个有影响力的人来激发你的人工智能简历并生成你的个人简历. | :white_check_mark: |
+| [AI Twitter Generator - ChatGPT Engine](https://www.thataicollection.com/redirect/ai-twitter-generator---chatgpt-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能推特生成器-ChatGPT 引擎社交媒体、人工智能聊天机器人、推特、免费工具. | 使用我们由 ChatGPT 驱动的 AI 推特生成器，增强您的在线影响力。通过 OpenAI 的创新提升社交参与度。   借助开创性的扩展程序—— “AI Twitter生成器”，踏入数字创意的未来。该扩展程序由先进的人工智能技术提供支持，为你的Twitter账户注入无限的创造力和乐趣。. | :white_check_mark: |
 | [Best Fake Tweet Generator With Image](https://www.thataicollection.com/redirect/best-fake-tweet-generator-with-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 带有图像社交媒体，人工智能聊天机器人，推特，免费工具的最佳假推文生成器. | 带图片的虚假推文生成器可帮助您生成虚假推文并将其作为屏幕截图下载。  最佳虚假推文生成器支持最新版本的 Twitter/X 用户界面设计。你可以选择推文的头像、名称、账号、发布时间、推文内容、推文回复、转推、点赞、浏览量、上传的图片等。我们甚至支持使用不同的主题切换推文。. | :white_check_mark: |
 | [Funny Tweet Generator](https://www.thataicollection.com/redirect/funny-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 有趣的推文，推文人工智能生成器，人工智能生成的推文，幽默的推文，最有趣的推文. | 搞笑推文生成器是一款免费的人工智能工具，可根据用户输入的主题生成幽默推文  我们的搞笑推文生成器由 ChatGPT AI 提供支持。可以轻松重写推文以使其更有趣和有趣。幽默的推文可以吸引更多用户并增加用户浏览时间。提高用户粘度，让你的推文在社交媒体上脱颖而出。. | :white_check_mark: |
 | [Graham AI](https://www.thataicollection.com/redirect/graham-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Graham.Ai-科技推文生成器。像天才的科技影响者一样发推文，由人工智能生成。. | 只需从列表中选择一个话题或写一个自定义主题，然后让生成式 AI 为你创建一条推文。你所需要做的就是分享生成的推文。. | :white_check_mark: |
@@ -1250,6 +1252,7 @@
 | [Playground](https://www.thataicollection.com/redirect/playground?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Playground AI - 在线 AI 图像创建器. | Playground AI 是一个免费使用的在线 AI 图像创建器。用它来创作艺术、社交媒体帖子、演示文稿、海报、视频、徽标等。. | :white_check_mark: |
 | [Pollinations](https://www.thataicollection.com/redirect/pollinations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您的个性化媒体引擎. | 我们结合并微调算法以匹配任何美学，允许创建无限的、定制的 AI 媒体。. | :grey_question: |
 | [Portrait by Vana](https://www.thataicollection.com/redirect/portrait-by-vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 肖像 - 瓦娜. | Vana 的“Portrait”是一个生成式艺术工作室，可以用无限的风格为你创作自画像。. | :grey_question: |
+| [ProductScope AI](https://www.thataicollection.com/redirect/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ProductScope AI 为电子商务品牌和营销人员提供了两个必备工具：人工智能产品照片拍摄工具和列表优化工具。. | AI 产品照片拍摄允许品牌使用我们的 AI Photoshoot 工具轻松生成数百张生活方式图片，而无需支付普通照片拍摄所需的费用。 此外，基于人工智能的清单优化器可在几分钟内高效地制作引人注目的产品清单，并注入从您的评论中得出的高影响力的关键字和见解，这一切都归功于我们的高级语言模型。. | :white_check_mark: |
 | [PromeAI](https://www.thataicollection.com/redirect/promeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用于草图渲染和着色的 AI 工具. | 正在寻找可以帮助您将创意变为现实的人工智能设计助手？使用我们广泛的可控 AIGC (C-AIGC) 模型样式库创建令人惊叹的设计。无论您是建筑师、室内设计师、产品设计师，还是游戏动画设计师。. | :white_check_mark: |
 | [Prompthunt](https://www.thataicollection.com/redirect/prompthunt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Prompt Hunt-探索、创作和分享 AI 艺术的家. | 使用 DALL·E、Stable Diffusion 和 Midjourney 创作、探索和分享 AI 艺术作品。使用我们的高级 AI 模型 Chroma，以惊人的速度、控制和细节制作高质量的视觉效果。为您和您的团队创建一致的资产。Prompt Hunt 使创建、编辑和共享模板变得比以往任何时候都更加容易。. | :grey_question: |
 | [Rayst Gradients](https://www.thataicollection.com/redirect/rayst-gradients?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 光线渐变. | 由 AI 生成的 64 个美丽渐变的集合。. | :grey_question: |

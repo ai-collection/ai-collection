@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1032" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1034" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -138,6 +138,54 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### ProductScope AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vijay-jacob.webp" alt="ProductScope AI">
+
+#### La IA de ProductScope ofrece dos herramientas esenciales para las marcas y los vendedores de comercio electrónico: una herramienta de IA para sesiones de fotos de productos y un optimizador de anuncios.
+[Visit](https://www.thataicollection.com/redirect/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La sesión de fotos de productos con IA permite a las marcas generar cientos de imágenes de estilos de vida sin esfuerzo con nuestra herramienta de sesión de fotos de IA sin los gastos que conlleva una sesión de fotos normal.
+Además, el optimizador de anuncios con tecnología de inteligencia artificial crea de forma eficiente listados de productos atractivos en cuestión de minutos, con palabras clave de alto impacto y datos derivados de tus reseñas, todo ello gracias a nuestros modelos lingüísticos avanzados.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Dify.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dify.ai.webp" alt="Dify.AI">
+
+#### Dify: plataforma LLMops de próxima generación con opción de autoalojamiento
+[Visit](https://www.thataicollection.com/redirect/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dify es una plataforma de desarrollo de aplicaciones de LLM que ha ayudado a crear más de 100 000 aplicaciones. Integra BaaS y LLMOP y cubre la tecnología esencial para crear aplicaciones generativas nativas de la IA, incluido un motor RAG integrado. Dify te permite implementar tu propia versión de la API de asistentes y el GPT, en función de cualquier LLM.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI Twitter Generator - ChatGPT Engine
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-twitter-generator---chatgpt-engine.webp" alt="AI Twitter Generator - ChatGPT Engine">
+
+#### Generador de Twitter de IA: motor de ChatGPT, redes sociales, chatbot de IA, Twitter, herramientas gratuitas
+[Visit](https://www.thataicollection.com/redirect/ai-twitter-generator---chatgpt-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Aumenta tu impacto en Internet con nuestro generador de Twitter con IA basado en ChatGP. Aumentar la participación social mediante la innovación de OpenAI. 
+
+Adéntrate en el futuro de la creatividad digital con la innovadora extensión «AI Twitter Generator». Esta extensión, impulsada por tecnología avanzada de inteligencia artificial, inyecta creatividad y diversión ilimitadas a tu cuenta de Twitter.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/ai-twitter-generator---chatgpt-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Best Fake Tweet Generator With Image
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-best-fake-tweet-generator-with-image.webp" alt="Best Fake Tweet Generator With Image">
 
@@ -213,59 +261,6 @@ Cómo funciona:
 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/coral-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Tweet Detective
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tweet-detective.webp" alt="Tweet Detective">
-
-#### La detección de textos con IA para X mejora tu experiencia en Twitter al identificar y analizar el contenido generado por la IA.
-[Visit](https://www.thataicollection.com/redirect/tweet-detective?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nuestra extensión, que se integra perfectamente con tu cuenta de Twitter, proporciona información en tiempo real de los tuits que lees.
-
-Características:
-* Análisis de IA en tiempo real: detecta al instante los textos generados por la IA en los tuits.
-* Interfaz fácil de usar: se integra de forma natural con tu cuenta de Twitter.
-* Extensión para Chrome: fácil integración con el navegador Chrome.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/tweet-detective?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Huudle
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huudle.webp" alt="Huudle">
-
-#### Transforma las reuniones aisladas en un viaje colaborativo con Huudle, Al meeting Assistance 🤖
-[Visit](https://www.thataicollection.com/redirect/huudle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Conecta todas las reuniones sobre el mismo tema en un solo espacio, haz un seguimiento de los puntos clave a través de lo más destacado de Al, envía mensajes de vídeo con actualizaciones breves y deja que Al se encargue del seguimiento.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/huudle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SnapWiz
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-snapwiz.webp" alt="SnapWiz">
-
-#### SnapWiz: ¡Sé cualquier cosa, en cualquier lugar o con quien sea!
-[Visit](https://www.thataicollection.com/redirect/snapwiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Snapwiz.io es una solución de IA profesional e intuitiva para generar mejores fotos a la cabeza. Los clientes pueden elegir fácilmente su estilo fotográfico de IA preferido y subir de 4 a 10 imágenes de la persona que desean mostrar. El resultado es una foto de alta calidad generada por IA y adaptada a sus especificaciones. ¡Crea tu imagen perfecta generada por IA con SnapWiz! ¡Ser cualquier cosa, en cualquier lugar o con quien sea!
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/snapwiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -692,6 +687,22 @@ getimg.ai es un conjunto de herramientas mágicas de IA. Genere imágenes origin
 
 
 
+### ProductScope AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vijay-jacob.webp" alt="ProductScope AI">
+
+#### La IA de ProductScope ofrece dos herramientas esenciales para las marcas y los vendedores de comercio electrónico: una herramienta de IA para sesiones de fotos de productos y un optimizador de anuncios.
+[Visit](https://www.thataicollection.com/redirect/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La sesión de fotos de productos con IA permite a las marcas generar cientos de imágenes de estilos de vida sin esfuerzo con nuestra herramienta de sesión de fotos de IA sin los gastos que conlleva una sesión de fotos normal.
+Además, el optimizador de anuncios con tecnología de inteligencia artificial crea de forma eficiente listados de productos atractivos en cuestión de minutos, con palabras clave de alto impacto y datos derivados de tus reseñas, todo ello gracias a nuestros modelos lingüísticos avanzados.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### ICONS8
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-icons8.webp" alt="ICONS8">
 
@@ -716,27 +727,6 @@ ICONS8 PERMITE A LOS DISEÑADORES EXPRESAR SUS IDEAS Y PROPORCIONARLES LOS ELEME
 Obtenga hermosos códigos QR artísticos en su correo electrónico en menos de 10 minutos. Elija entre las categorías de códigos QR disponibles o solicite la suya propia. ¡Haz que tu negocio se destaque con artes QR únicos!
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Pet Booth
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
-
-#### Pet Booth es un servicio para crear tus propios retratos, ilustraciones y fotos de mascotas con IA. Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.
-[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pet Booth es un servicio para crear tus propios increíbles retratos, fotos e ilustraciones de mascotas con IA. ¡Es rápido, fácil y divertido!
-
-¿Cómo funciona?
-
-Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.
-
-Recibe un paquete de 100 imágenes generadas por la IA de tu mascota en estilos fotorrealista y artístico.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1300,15 +1290,15 @@ Plataforma de diseño visual todo en uno que contiene herramientas de edición d
 
 
 
-### AI-story-Generator.site
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-story-generator.site.webp" alt="AI-story-Generator.site">
+### Dify.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dify.ai.webp" alt="Dify.AI">
 
-#### Esta herramienta puede ayudarte a crear grandes historias
-[Visit](https://www.thataicollection.com/redirect/ai-story-generator.site?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Dify: plataforma LLMops de próxima generación con opción de autoalojamiento
+[Visit](https://www.thataicollection.com/redirect/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AI Story Generator es una herramienta online gratuita que puede ayudarte a generar historias maravillosas. Solo necesitas introducir instrucciones sencillas para generar rápidamente historias maravillosas. Hay otras herramientas disponibles en este sitio que son de uso gratuito.
+Dify es una plataforma de desarrollo de aplicaciones de LLM que ha ayudado a crear más de 100 000 aplicaciones. Integra BaaS y LLMOP y cubre la tecnología esencial para crear aplicaciones generativas nativas de la IA, incluido un motor RAG integrado. Dify te permite implementar tu propia versión de la API de asistentes y el GPT, en función de cualquier LLM.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/ai-story-generator.site?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4653,6 +4643,21 @@ Nuestra IA creará un plan personalizado para cualquier ciudad o lugar que le gu
 
 ## Video
 
+### Vidnoz Flex
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-flex.webp" alt="Vidnoz Flex">
+
+####  Crea, comparte, gestiona y rastrea tus vídeos de forma potente.
+[Visit](https://www.thataicollection.com/redirect/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vidnoz Flex es una herramienta de vídeo fácil pero potente de Vidnoz, que combina funciones de creación, personalización, intercambio y seguimiento de vídeos en un solo lugar. Aumentará totalmente tu productividad en la creación y promoción de vídeos en las rutinas diarias y proporcionará los resultados más significativos.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Synthesia
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-synthesia.webp" alt="Synthesia">
 
@@ -4686,15 +4691,31 @@ sin esfuerzo
 
 
 
-### Vidnoz Flex
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-flex.webp" alt="Vidnoz Flex">
+### HitPaw Online Video Enhancer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
 
-####  Crea, comparte, gestiona y rastrea tus vídeos de forma potente.
-[Visit](https://www.thataicollection.com/redirect/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Un clic para desenfocar y mejorar su video por IA entrenada.
+[Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Vidnoz Flex es una herramienta de vídeo fácil pero potente de Vidnoz, que combina funciones de creación, personalización, intercambio y seguimiento de vídeos en un solo lugar. Aumentará totalmente tu productividad en la creación y promoción de vídeos en las rutinas diarias y proporcionará los resultados más significativos.
+HitPaw Online Video Enhancer es la mejor solución para videos de baja resolución, aumente la solución de video hasta 1080P/4K sin esfuerzo.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Wisecut
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wisecut.webp" alt="Wisecut">
+
+#### Wisecut: corta y edita vídeos automáticamente con IA
+[Visit](https://www.thataicollection.com/redirect/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Wisecut es un editor de vídeo automático basado en el reconocimiento de voz. Con Wisecut, puedes convertir fácilmente tus vídeos largos de conversación en clips cortos e impactantes con música, subtítulos y reencuadre automático. Estos clips cortos son perfectos para plataformas como YouTube Shorts, TikTok, Instagram Reels y Social Ads.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4719,23 +4740,6 @@ Explicación y procedimientos, marketing, ventas personalizadas, aprendizaje ele
 
 
 
-### VEED.IO
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO">
-
-#### VEED.IO - Editor de vídeo con IA - Rápido, en línea, gratuito
-
-[Visit](https://www.thataicollection.com/redirect/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Editor de vídeo con IA gratuito con conversión de texto a vídeo, avatares, subtítulos automáticos, traducciones de voz y mucho más. Graba, edita y comparte tus vídeos en línea con VEED.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Eightify
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eightify.webp" alt="Eightify">
 
@@ -4745,21 +4749,6 @@ Editor de vídeo con IA gratuito con conversión de texto a vídeo, avatares, su
 ⚡️ Obtenga resúmenes instantáneos con tecnología de inteligencia artificial para videos de YouTube, ahorre tiempo, traduzca en 28 idiomas
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/eightify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### HitPaw Online Video Enhancer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
-
-#### Un clic para desenfocar y mejorar su video por IA entrenada.
-[Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HitPaw Online Video Enhancer es la mejor solución para videos de baja resolución, aumente la solución de video hasta 1080P/4K sin esfuerzo.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

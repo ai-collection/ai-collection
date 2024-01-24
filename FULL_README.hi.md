@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1032" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1034" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
+    </a>
+    <h4>मुफ़्त अत्याधुनिक AI टूल, जो नौकरी तलाशने वालों को अपने सपनों की नौकरी को तेज़ी से पूरा करने में मदद करते हैं</h4>
+    <p>नौकरी की खास ज़रूरतों और कंपनी की संस्कृति के हिसाब से अपना रेज़्यूमे तैयार करें। अपने रेज़्यूमे के सबसे मज़बूत बिंदुओं के आधार पर और जिस नौकरी के लिए तुम आवेदन कर रहे हो, उसके साथ संरेखित होकर स्वचालित रूप से एक व्यक्तिगत कवर लेटर जेनरेट करें। अपनी मनचाही भूमिका से जुड़े सवालों के साथ नौकरी के लिए इंटरव्यू के लिए तैयार रहो। अपने जवाबों का ज़ोर से अभ्यास करो और मॉक इंटरव्यू सेशन के दौरान रियल-टाइम फ़ीडबैक पाओ।</p>
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>JobSearch.Coach के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -61,19 +74,6 @@
 
 तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
-    </a>
-    <h4>मुफ़्त अत्याधुनिक AI टूल, जो नौकरी तलाशने वालों को अपने सपनों की नौकरी को तेज़ी से पूरा करने में मदद करते हैं</h4>
-    <p>नौकरी की खास ज़रूरतों और कंपनी की संस्कृति के हिसाब से अपना रेज़्यूमे तैयार करें। अपने रेज़्यूमे के सबसे मज़बूत बिंदुओं के आधार पर और जिस नौकरी के लिए तुम आवेदन कर रहे हो, उसके साथ संरेखित होकर स्वचालित रूप से एक व्यक्तिगत कवर लेटर जेनरेट करें। अपनी मनचाही भूमिका से जुड़े सवालों के साथ नौकरी के लिए इंटरव्यू के लिए तैयार रहो। अपने जवाबों का ज़ोर से अभ्यास करो और मॉक इंटरव्यू सेशन के दौरान रियल-टाइम फ़ीडबैक पाओ।</p>
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>JobSearch.Coach के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -501,6 +501,7 @@
 | [Playground](https://www.thataicollection.com/redirect/playground?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | खेल का मैदान ऐ - ऑनलाइन ऐ छवि निर्माता. | प्लेग्राउंड एआई एक फ्री-टू-यूज ऑनलाइन एआई इमेज क्रिएटर है। कला, सोशल मीडिया पोस्ट, प्रस्तुतियाँ, पोस्टर, वीडियो, लोगो और बहुत कुछ बनाने के लिए इसका उपयोग करें।. | :white_check_mark: |
 | [Pollinations](https://www.thataicollection.com/redirect/pollinations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वैयक्तिकृत मीडिया के लिए आपका इंजन. | हम असीमित, अनुकूलित AI मीडिया के निर्माण की अनुमति देते हुए, किसी भी सौंदर्यशास्त्र से मेल खाने के लिए एल्गोरिदम को संयोजित और फाइन-ट्यून करते हैं।. | :grey_question: |
 | [Portrait by Vana](https://www.thataicollection.com/redirect/portrait-by-vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पोर्ट्रेट - वाना. | वाना द्वारा "पोर्ट्रेट" एक जनरेटिव आर्ट स्टूडियो है जो अनंत शैलियों में आपके सेल्फ-पोर्ट्रेट बना सकता है।. | :grey_question: |
+| [ProductScope AI](https://www.thataicollection.com/redirect/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ProductScope AI ईकॉमर्स ब्रांड्स और मार्केटर्स के लिए दो ज़रूरी टूल प्रदान करता है: एक AI प्रॉडक्ट फ़ोटोशूट टूल और एक लिस्टिंग ऑप्टिमाइज़र।. | AI प्रॉडक्ट फ़ोटोशूट से ब्रैंड हमारे AI फ़ोटोशूट टूल के साथ आसानी से सैकड़ों लाइफ़स्टाइल इमेज जेनरेट कर सकते हैं, बिना किसी खास फ़ोटोशूट के खर्च के। इसके अलावा, एआई-संचालित लिस्टिंग ऑप्टिमाइज़र कुशलतापूर्वक आकर्षक प्रॉडक्ट लिस्टिंग को मिनटों में तैयार करता है, जिसमें उच्च प्रभाव वाले कीवर्ड और तुम्हारी समीक्षाओं से प्राप्त जानकारी मिलती है, यह सब हमारे एडवांस भाषा मॉडल की बदौलत है।. | :white_check_mark: |
 | [PromeAI](https://www.thataicollection.com/redirect/promeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रेंडरिंग और कलरिंग स्केच के लिए एआई टूल. | एक एआई-संचालित डिज़ाइन सहायक की तलाश कर रहे हैं जो आपके रचनात्मक विचारों को जीवन में लाने में मदद कर सके? हमारे व्यापक नियंत्रित एआईजीसी (सी-एआईजीसी) मॉडल स्टाइल लाइब्रेरी के साथ शानदार डिजाइन बनाएं। चाहे आप आर्किटेक्ट हों, इंटीरियर डिज़ाइनर हों, प्रोडक्ट डिज़ाइनर हों या गेम एनिमेशन डिज़ाइनर हों।. | :white_check_mark: |
 | [Prompthunt](https://www.thataicollection.com/redirect/prompthunt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्रॉम्प्ट हंट - AI आर्ट की खोज, निर्माण और शेयर करने के लिए आपका घर. | DAL·E, स्टेबल डिफ़्यूज़न और मिडजर्नी का इस्तेमाल करके AI आर्ट बनाएं, एक्सप्लोर करें और शेयर करें। हमारे एडवांस AI मॉडल Chroma का इस्तेमाल करके अविश्वसनीय गति, नियंत्रण और विवरण के साथ उच्च गुणवत्ता वाले विज़ुअल तैयार करें। अपने और अपनी टीम के लिए लगातार एसेट बनाएं। प्रॉम्प्ट हंट से टेम्पलेट बनाना, संपादित करना और शेयर करना पहले से कहीं ज्यादा आसान हो गया है।. | :grey_question: |
 | [Rayst Gradients](https://www.thataicollection.com/redirect/rayst-gradients?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रेयस्ट ग्रेडिएंट्स. | एआई द्वारा उत्पन्न 64 सुंदर ग्रेडियेंट का संग्रह।. | :grey_question: |
@@ -776,6 +777,7 @@
 | [Cutout Pro](https://www.thataicollection.com/redirect/cutout-pro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cutout.Pro - AI फोटो एडिटिंग - विजुअल कंटेंट जनरेशन प्लेटफॉर्म, इमेज और वीडियो डिजाइन के लिए बेस्ट. | ऑल-इन-वन विज़ुअल डिज़ाइन प्लेटफ़ॉर्म जिसमें एआई फोटो और वीडियो एडिटिंग टूल हैं। पृष्ठभूमि हटाने, छवि बहाली, ग्राफिक डिजाइन और सामग्री निर्माण के लिए स्वचालित प्रक्रिया. | :grey_question: |
 | [Damn Good Tools](https://www.thataicollection.com/redirect/damn-good-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ओह, ये बहुत अच्छे उपकरण हैं उपयोग में आसान, मज़ेदार उपकरण—निःशुल्क (और ओपन-सोर्स)।. | उपयोगी अच्छे टूल खोजें जो आपकी उत्पादकता बढ़ाएंगे। कुछ टूल के उदाहरण: गोपनीयता नीति जनरेटर, स्क्रीनशॉट, फ़ॉन्ट का पता लगाएं, किसी भी पीडीएफ के साथ चैट करें, किसी भी यूआरएल का सारांश और बहुत कुछ।. | :grey_question: |
 | [Descript](https://www.thataicollection.com/redirect/descript?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वीडियो और पॉडकास्ट बनाने का एक नया तरीका है। एक अच्छा तरीका।. | विवरण संपादित करने का सरल, शक्तिशाली और मज़ेदार तरीका है।. | :white_check_mark: |
+| [Dify.AI](https://www.thataicollection.com/redirect/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डिफ़ी: सेल्फ़-होस्टिंग विकल्प के साथ अगली पीढ़ी का LLMOps प्लेटफ़ॉर्म. | डिफ़ी एक एलएलएम एप्लीकेशन डेवलपमेंट प्लेटफ़ॉर्म है जिसने 100,000 से ज़्यादा एप्लीकेशन बनाने में मदद की है। यह BaaS और LLMOP को इंटीग्रेट करता है, जिसमें जनरेटिव AI-नेटिव एप्लिकेशन बनाने के लिए ज़रूरी तकनीकी स्टैक शामिल है, जिसमें बिल्ट-इन RAG इंजन भी शामिल है। Dify की मदद से तुम्हेंं किसी भी एलएलएम के आधार पर, असिस्टेंट्स एपीआई और जीपीटी का अपना वर्जन डिप्लॉय किया जा सकता है।. | :white_check_mark: |
 | [Fermat](https://www.thataicollection.com/redirect/fermat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सामग्री निर्माण के लिए रचनात्मकता संवर्धित. | सहयोगी कैनवास पर एआई के साथ अपनी रचनात्मकता को उजागर करें।. | :grey_question: |
 | [Hotpot](https://www.thataicollection.com/redirect/hotpot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हॉटपॉट।ऐ. | Hotpot.ai आपको अद्भुत ग्राफिक्स, चित्र और टेक्स्ट बनाने में मदद करता है। एआई आर्ट जेनरेटर जैसे एआई टूल रचनात्मकता को जगाते हैं और कड़ी मेहनत को स्वचालित करते हैं, जबकि आसानी से संपादित होने वाले टेम्प्लेट किसी को भी डिवाइस मॉकअप, सोशल मीडिया पोस्ट, मार्केटिंग इमेज, ऐप आइकन और अन्य वर्क ग्राफिक्स बनाने में सक्षम बनाते हैं।. | :grey_question: |
 | [Lightricks](https://www.thataicollection.com/redirect/lightricks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हर जगह रचनाकारों का घर. | क्रिएटर्स के लिए सर्वोत्तम टूल और सेवाओं के साथ सृजन के जादू का अनुभव करें: फेसट्यून 2, वीडियोलीप, लिंकिनबियो और फोटोलीप। अब इसे जांचें!. | :grey_question: |
@@ -1408,6 +1410,7 @@
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
 | [AI Social Bio](https://www.thataicollection.com/redirect/ai-social-bio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई सोशल बायो - आर्टिफिशियल इंटेलिजेंस द्वारा बनाया गया तुम्हारा सोशल मीडिया बायो. | X (Twitter) के लिए बिल्कुल सही। अपने बायो को आकार देने के लिए एक कीवर्ड जोड़ें, अपने AI बायो को प्रेरित करने और अपना बायो जेनरेट करने के लिए एक प्रभावशाली व्यक्ति चुनें. | :white_check_mark: |
+| [AI Twitter Generator - ChatGPT Engine](https://www.thataicollection.com/redirect/ai-twitter-generator---chatgpt-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई ट्विटर जेनरेटर - चैटजीपीटी इंजन, सोशल मीडिया, एआई चैटबोट, ट्विटर, फ्री टूल्स. | हमारे ChatGPT द्वारा संचालित AI Twitter जेनरेटर के साथ अपने ऑनलाइन प्रभाव को और बेहतर बनाएँ। OpenAI के नवोन्मेष के ज़रिये सामाजिक जुड़ाव बढ़ाएँ।   ज़बरदस्त एक्सटेंशन - “AI Twitter जेनरेटर” के साथ डिजिटल क्रिएटिविटी के भविष्य में कदम रखें। एडवांस आर्टिफिशियल इंटेलिजेंस तकनीक द्वारा संचालित यह एक्सटेंशन, तुम्हारे Twitter अकाउंट में असीम रचनात्मकता और मस्ती लाता है।. | :white_check_mark: |
 | [Best Fake Tweet Generator With Image](https://www.thataicollection.com/redirect/best-fake-tweet-generator-with-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इमेज के साथ सबसे अच्छा नकली ट्वीट जेनरेटर, सोशल मीडिया, एआई चैटबोट, ट्विटर, फ़्री टूल्स. | इमेज के साथ नकली ट्वीट जेनरेटर नकली ट्वीट जनरेट करने और उन्हें स्क्रीनशॉट के तौर पर डाउनलोड करने में मदद करता है।  सबसे अच्छा नकली ट्वीट जेनरेटर Twitter/X UI डिज़ाइन के सबसे नए वर्शन का समर्थन करता है। तुम अपने ट्वीट का अवतार, नाम, अकाउंट, प्रकाशन का समय, ट्वीट का कॉन्टेंट, ट्वीट के जवाब, रीट्वीट, लाइक, व्यूज की संख्या, अपलोड की गई इमेज आदि चुन सकते हो, हम अलग-अलग थीम का इस्तेमाल करके ट्वीट स्विच करने की सुविधा भी देते हैं। यहाँ तक कि हम अलग-अलग थीम का इस्तेमाल करके ट्वीट स्विच करने की सुविधा भी देते हैं।. | :white_check_mark: |
 | [Funny Tweet Generator](https://www.thataicollection.com/redirect/funny-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मजेदार ट्वीट, ट्वीट एआई जनरेटर, एआई जेनरेट किए गए ट्वीट, हास्यप्रद ट्वीट्स, सबसे मजेदार ट्वीट्स. | मजेदार ट्वीट जेनरेटर एक मुफ़्त AI टूल है, जो यूज़र द्वारा दर्ज किए गए विषयों के आधार पर हास्यप्रद ट्वीट बनाता है  हमारा मजेदार ट्वीट जनरेटर ChatGPT AI द्वारा संचालित होता है। और इसे ज़्यादा रोचक और मजेदार बनाने के लिए वह आसानी से ट्वीट फिर से लिख सकता है। हास्यप्रद ट्वीट्स ज़्यादा यूज़र को आकर्षित कर सकते हैं और यूज़र ब्राउज़िंग समय को बढ़ा सकते हैं। यूज़र स्टिकनेस बढ़ाओ और अपने ट्वीट्स को सोशल मीडिया पर अलग दिखाओ।. | :white_check_mark: |
 | [Graham AI](https://www.thataicollection.com/redirect/graham-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Graham.Ai - टेक ट्वीट जेनरेटर। किसी प्रतिभाशाली टेक इन्फ्लुएंसर की तरह ट्वीट करें, जिसे AI ने जनरेट किया है।. | बस सूची में से कोई विषय चुनें या कोई कस्टम लिखें, और जेनेरेटिव AI को तुम्हारे लिए एक ट्वीट बनाने दें। तुम्हेंं बस जनरेट किए गए ट्वीट को शेयर करना है।. | :white_check_mark: |
