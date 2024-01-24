@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1032" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1034" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -138,6 +138,54 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### ProductScope AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vijay-jacob.webp" alt="ProductScope AI">
+
+#### ProductScope AI предлагает брендам и маркетологам электронной коммерции два основных инструмента: инструмент для фотосъемки продуктов с искусственным интеллектом и оптимизатор объявлений.
+[Visit](https://www.thataicollection.com/redirect/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI Product Photoshoot позволяет брендам без труда создавать сотни изображений образа жизни с помощью нашего инструмента AI Photoshoot без затрат, связанных с обычной фотосессией.
+Кроме того, оптимизатор объявлений на базе искусственного интеллекта эффективно создает привлекательные списки продуктов за считанные минуты, используя важные ключевые слова и аналитические данные, полученные из ваших отзывов, и все это благодаря нашим передовым языковым моделям.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Dify.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dify.ai.webp" alt="Dify.AI">
+
+#### Dify: платформа LLMops нового поколения с возможностью самостоятельного хостинга
+[Visit](https://www.thataicollection.com/redirect/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dify — это платформа для разработки приложений LLM, которая помогла создать более 100 000 приложений. Она объединяет BaaS и LLMops и охватывает основной технологический стек для создания генерирующих приложений на основе искусственного интеллекта, включая встроенный движок RAG. Dify позволяет развертывать собственную версию Assistants API и GPT на основе любых LLM.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI Twitter Generator - ChatGPT Engine
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-twitter-generator---chatgpt-engine.webp" alt="AI Twitter Generator - ChatGPT Engine">
+
+#### Генератор AI Twitter - ChatGPT Engine, социальные сети, чат-бот с искусственным интеллектом, твиттер, бесплатные инструменты
+[Visit](https://www.thataicollection.com/redirect/ai-twitter-generator---chatgpt-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Повысьте свое влияние в Интернете с помощью нашего генератора Twitter с искусственным интеллектом на основе ChatGPT. Повысьте социальную вовлеченность с помощью инноваций OpenAI. 
+
+Шагните в будущее цифрового творчества с помощью революционного расширения «AI Twitter Generator». Это расширение, основанное на передовой технологии искусственного интеллекта, привнесет в ваш аккаунт Twitter безграничный творческий потенциал и удовольствие.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-twitter-generator---chatgpt-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Best Fake Tweet Generator With Image
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-best-fake-tweet-generator-with-image.webp" alt="Best Fake Tweet Generator With Image">
 
@@ -213,57 +261,6 @@ Funny Tweet Generator — это бесплатный инструмент ис�
 
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/coral-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Tweet Detective
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tweet-detective.webp" alt="Tweet Detective">
-
-#### AI Text Detection for X улучшает работу с Твиттером, выявляя и анализируя контент, созданный искусственным интеллектом.
-[Visit](https://www.thataicollection.com/redirect/tweet-detective?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Наше расширение, легко интегрированное с вашей лентой Twitter, позволяет анализировать прочитанные вами твиты в реальном времени.
-
-Функции:
-* Анализ искусственного интеллекта в реальном времени: мгновенное обнаружение текстов, созданных искусственным интеллектом, в твитах.
-* Удобный интерфейс: органично интегрируется с вашей лентой Twitter.
-* Расширение Chrome: простая интеграция с браузером Chrome.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/tweet-detective?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Huudle
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huudle.webp" alt="Huudle">
-
-#### Превратите изолированные встречи в совместное путешествие с помощью Huudle, Al Meeting Assistance 🤖
-[Visit](https://www.thataicollection.com/redirect/huudle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Объединяйте все встречи по одной теме в одном пространстве, отслеживайте ключевые моменты с помощью основных моментов Al, коротких обновлений видеосообщений и доверьте Элу все последующие действия.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/huudle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SnapWiz
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-snapwiz.webp" alt="SnapWiz">
-
-#### SnapWiz: будь кем угодно, где угодно и кем угодно!
-[Visit](https://www.thataicollection.com/redirect/snapwiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Snapwiz.io — это профессиональное и интуитивно понятное решение для искусственного интеллекта для создания улучшенных хедшотов. Клиенты могут легко выбрать предпочтительный стиль фотографий с искусственным интеллектом и загрузить от 4 до 10 изображений человека, которого они хотят показать. В результате получается высококачественная фотография, созданная искусственным интеллектом, с учетом их спецификаций. Создайте идеальное изображение, созданное искусственным интеллектом, с помощью SnapWiz! Будьте кем уго
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/snapwiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -690,6 +687,22 @@ getimg.ai — это набор волшебных инструментов ис
 
 
 
+### ProductScope AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vijay-jacob.webp" alt="ProductScope AI">
+
+#### ProductScope AI предлагает брендам и маркетологам электронной коммерции два основных инструмента: инструмент для фотосъемки продуктов с искусственным интеллектом и оптимизатор объявлений.
+[Visit](https://www.thataicollection.com/redirect/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI Product Photoshoot позволяет брендам без труда создавать сотни изображений образа жизни с помощью нашего инструмента AI Photoshoot без затрат, связанных с обычной фотосессией.
+Кроме того, оптимизатор объявлений на базе искусственного интеллекта эффективно создает привлекательные списки продуктов за считанные минуты, используя важные ключевые слова и аналитические данные, полученные из ваших отзывов, и все это благодаря нашим передовым языковым моделям.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### ICONS8
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-icons8.webp" alt="ICONS8">
 
@@ -714,27 +727,6 @@ ICONS8 ПОЗВОЛЯЕТ ДИЗАЙНЕРАМ ВЫРАЖАТЬ СВОИ ИДЕ�
 Получайте художественные красивые QR-коды по электронной почте менее чем за 10 минут. Выберите одну из доступных категорий QR-кода или запросите собственную. Сделайте свой бизнес уникальным с помощью QR-арта!
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Pet Booth
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
-
-#### Pet Booth — это сервис для создания собственных портретов, иллюстраций и фотографий домашних животных с искусственным интеллектом. Просто загрузите 10-20 фотографий своей кошки или собаки и выберите из более чем 80 тем, в которые можно превратить их.
-[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pet Booth — это сервис для создания собственных удивительных портретов, фотографий и произведений искусства с искусственным интеллектом. Это быстро, просто и увлекательно!
-
-Как это работает?
-
-Просто загрузите 10-20 фотографий вашей кошки или собаки и выберите из более чем 80 тем, в которые можно превратить их.
-
-Получите набор из 100 изображений вашего питомца, созданных искусственным интеллектом, как в фотореалистичном, так и в художественном стиле.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1296,15 +1288,15 @@ Descript — это простой, мощный и увлекательный �
 
 
 
-### AI-story-Generator.site
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-story-generator.site.webp" alt="AI-story-Generator.site">
+### Dify.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dify.ai.webp" alt="Dify.AI">
 
-#### Этот инструмент поможет вам создавать отличные истории
-[Visit](https://www.thataicollection.com/redirect/ai-story-generator.site?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Dify: платформа LLMops нового поколения с возможностью самостоятельного хостинга
+[Visit](https://www.thataicollection.com/redirect/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AI Story Generator — это бесплатный онлайн-инструмент, который поможет вам создавать замечательные истории. Вам нужно только ввести простые подсказки, чтобы быстро создавать замечательные истории. На этом сайте доступны различные другие инструменты, которые можно использовать бесплатно.
+Dify — это платформа для разработки приложений LLM, которая помогла создать более 100 000 приложений. Она объединяет BaaS и LLMops и охватывает основной технологический стек для создания генерирующих приложений на основе искусственного интеллекта, включая встроенный движок RAG. Dify позволяет развертывать собственную версию Assistants API и GPT на основе любых LLM.
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-story-generator.site?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4650,6 +4642,21 @@ Stork помогает командам улучшить коммуникаци�
 
 ## видео
 
+### Vidnoz Flex
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-flex.webp" alt="Vidnoz Flex">
+
+####  Мощно создавайте, делитесь, управляйте и отслеживайте свои видео.
+[Visit](https://www.thataicollection.com/redirect/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vidnoz Flex — это простой, но мощный видеоинструмент от Vidnoz, который сочетает в себе функции создания, персонализации, обмена и отслеживания видео в одном месте. Это полностью повысит вашу производительность при создании и продвижении видео в повседневной жизни и принесет наиболее значительные результаты.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Synthesia
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-synthesia.webp" alt="Synthesia">
 
@@ -4683,15 +4690,31 @@ Stork помогает командам улучшить коммуникаци�
 
 
 
-### Vidnoz Flex
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-flex.webp" alt="Vidnoz Flex">
+### HitPaw Online Video Enhancer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
 
-####  Мощно создавайте, делитесь, управляйте и отслеживайте свои видео.
-[Visit](https://www.thataicollection.com/redirect/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Один щелчок, чтобы размыть и улучшить ваше видео с помощью обученного ИИ.
+[Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Vidnoz Flex — это простой, но мощный видеоинструмент от Vidnoz, который сочетает в себе функции создания, персонализации, обмена и отслеживания видео в одном месте. Это полностью повысит вашу производительность при создании и продвижении видео в повседневной жизни и принесет наиболее значительные результаты.
+HitPaw Online Video Enhancer - лучшее решение для видео с низким разрешением, увеличивайте разрешение видео до 1080P/4K без каких-либо усилий.
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Wisecut
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wisecut.webp" alt="Wisecut">
+
+#### Wisecut - автоматическое вырезание и редактирование видео с помощью AI
+[Visit](https://www.thataicollection.com/redirect/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Wisecut — это автоматический видеоредактор, основанный на распознавании голоса. С помощью Wisecut вы можете легко превратить длинные разговорные видеоролики в короткие эффектные клипы с музыкой, субтитрами и автоматическим перекадриванием. Эти короткие клипы идеально подходят для таких платформ, как YouTube Shorts, TikTok, ролики в Instagram и социальные объявления.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4716,23 +4739,6 @@ HeyGen — это видеоплатформа, которая помогает 
 
 
 
-### VEED.IO
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO">
-
-#### VEED.IO - Редактор видео с искусственным интеллектом - быстро, онлайн, бесплатно
-
-[Visit](https://www.thataicollection.com/redirect/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Бесплатный видеоредактор с искусственным интеллектом с преобразованием текста в видео, аватарами, автосубтитрами, голосовыми переводами и многим другим. Записывайте, редактируйте и делитесь своими видео онлайн с помощью VEED.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Eightify
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eightify.webp" alt="Eightify">
 
@@ -4742,21 +4748,6 @@ HeyGen — это видеоплатформа, которая помогает 
 ⚡️ Получайте мгновенные сводки видео на YouTube с помощью искусственного интеллекта, экономьте время и переводите на 28 языков.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/eightify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### HitPaw Online Video Enhancer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
-
-#### Один щелчок, чтобы размыть и улучшить ваше видео с помощью обученного ИИ.
-[Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HitPaw Online Video Enhancer - лучшее решение для видео с низким разрешением, увеличивайте разрешение видео до 1080P/4K без каких-либо усилий.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

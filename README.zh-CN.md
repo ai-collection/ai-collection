@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1032" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1034" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -138,6 +138,54 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### ProductScope AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vijay-jacob.webp" alt="ProductScope AI">
+
+#### ProductScope AI 为电子商务品牌和营销人员提供了两个必备工具：人工智能产品照片拍摄工具和列表优化工具。
+[Visit](https://www.thataicollection.com/redirect/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI 产品照片拍摄允许品牌使用我们的 AI Photoshoot 工具轻松生成数百张生活方式图片，而无需支付普通照片拍摄所需的费用。
+此外，基于人工智能的清单优化器可在几分钟内高效地制作引人注目的产品清单，并注入从您的评论中得出的高影响力的关键字和见解，这一切都归功于我们的高级语言模型。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Dify.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dify.ai.webp" alt="Dify.AI">
+
+#### Dify：具有自托管选项的下一代 LLMOps 平台
+[Visit](https://www.thataicollection.com/redirect/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dify 是一个 LLM 应用程序开发平台，已帮助构建了 100,000 多个应用程序。它集成了 BaaS 和 LLMOP，涵盖了构建生成式 AI 原生应用程序（包括内置 RAG 引擎）的基本技术堆栈。Dify 允许你基于任何 LLM 部署自己的助手 API 和 GPT 版本。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### AI Twitter Generator - ChatGPT Engine
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-twitter-generator---chatgpt-engine.webp" alt="AI Twitter Generator - ChatGPT Engine">
+
+#### 人工智能推特生成器-ChatGPT 引擎社交媒体、人工智能聊天机器人、推特、免费工具
+[Visit](https://www.thataicollection.com/redirect/ai-twitter-generator---chatgpt-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用我们由 ChatGPT 驱动的 AI 推特生成器，增强您的在线影响力。通过 OpenAI 的创新提升社交参与度。 
+
+借助开创性的扩展程序—— “AI Twitter生成器”，踏入数字创意的未来。该扩展程序由先进的人工智能技术提供支持，为你的Twitter账户注入无限的创造力和乐趣。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-twitter-generator---chatgpt-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Best Fake Tweet Generator With Image
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-best-fake-tweet-generator-with-image.webp" alt="Best Fake Tweet Generator With Image">
 
@@ -217,59 +265,6 @@
 <br />
 
 <br />
-
-
-### Tweet Detective
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tweet-detective.webp" alt="Tweet Detective">
-
-#### X 的 AI 文本检测通过识别和分析 AI 生成的内容来改善你的 Twitter 体验。
-[Visit](https://www.thataicollection.com/redirect/tweet-detective?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我们的扩展程序与您的 Twitter Feed 无缝集成，可实时了解您阅读的推文。
-
-特点：
-* 实时人工智能分析：即时检测推文中人工智能生成的文本。
-* 友好的用户界面：可以自然地与你的推特提要集成。
-* Chrome 扩展程序：与 Chrome 浏览器轻松集成。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/tweet-detective?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Huudle
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huudle.webp" alt="Huudle">
-
-#### 借助 Huudle, Al 会议协助 🤖，将孤立的会议转变为协作之旅
-[Visit](https://www.thataicollection.com/redirect/huudle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-将所有会议围绕同一主题整合到一个空间中，通过 Al 精彩集锦、视频消息简短更新跟踪要点，并让 Al 负责后续工作。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/huudle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### SnapWiz
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-snapwiz.webp" alt="SnapWiz">
-
-#### SnapWiz：无论身在何处，还是任何人！
-[Visit](https://www.thataicollection.com/redirect/snapwiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Snapwiz.io 是一款专业、直观的人工智能解决方案，用于生成增强的头像。客户可以轻松选择自己喜欢的人工智能照片风格，并上传他们想要展示的个人的4到10张图片。结果是一张根据其规格量身定制的人工智能生成的高质量照片。使用 SnapWiz 创建完美的人工智能生成的图片！无论身在何处，还是任何人！
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/snapwiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ## 会计与金融
@@ -692,6 +687,22 @@ getimg.ai 是一套神奇的人工智能工具。大规模生成原始图像、�
 <br />
 
 
+### ProductScope AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vijay-jacob.webp" alt="ProductScope AI">
+
+#### ProductScope AI 为电子商务品牌和营销人员提供了两个必备工具：人工智能产品照片拍摄工具和列表优化工具。
+[Visit](https://www.thataicollection.com/redirect/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI 产品照片拍摄允许品牌使用我们的 AI Photoshoot 工具轻松生成数百张生活方式图片，而无需支付普通照片拍摄所需的费用。
+此外，基于人工智能的清单优化器可在几分钟内高效地制作引人注目的产品清单，并注入从您的评论中得出的高影响力的关键字和见解，这一切都归功于我们的高级语言模型。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### ICONS8
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-icons8.webp" alt="ICONS8">
 
@@ -716,27 +727,6 @@ ICONS8 允许设计师表达自己的想法，在正确的时间提供正确的�
 10 分钟内即可在您的电子邮件中获取艺术精美的二维码。从可用的二维码类别中进行选择或请求您自己的二维码类别。通过独特的二维码艺术让您的企业脱颖而出！
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Pet Booth
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
-
-#### Pet Booth 是一项用于创建自己的 AI 宠物肖像、艺术品和照片的服务。只需上传 10-20 张您的猫或狗的照片，然后从 80 多个主题中进行选择，即可将其转换成。
-[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pet Booth 是一项用于创建自己精彩的 AI 宠物肖像、照片和艺术品的服务。它快速、简单、有趣！
-
-它是如何工作的？
-
-只需上传 10-20 张您的猫或狗的照片，然后从 80 多个主题中进行选择，即可将其转换成。
-
-收到一包 100 张 AI 生成的宠物图片，既有照片级逼真度，也有艺术风格。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1300,15 +1290,15 @@ Descript 是一种简单、强大且有趣的编辑方式。
 <br />
 
 
-### AI-story-Generator.site
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-story-generator.site.webp" alt="AI-story-Generator.site">
+### Dify.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dify.ai.webp" alt="Dify.AI">
 
-#### 这个工具可以帮助你创作精彩的故事
-[Visit](https://www.thataicollection.com/redirect/ai-story-generator.site?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Dify：具有自托管选项的下一代 LLMOps 平台
+[Visit](https://www.thataicollection.com/redirect/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AI 故事生成器是一款免费的在线工具，可以帮助您生成精彩的故事。您只需要输入简单的提示即可快速生成精彩的故事。该网站上还有其他各种工具可供免费使用。
+Dify 是一个 LLM 应用程序开发平台，已帮助构建了 100,000 多个应用程序。它集成了 BaaS 和 LLMOP，涵盖了构建生成式 AI 原生应用程序（包括内置 RAG 引擎）的基本技术堆栈。Dify 允许你基于任何 LLM 部署自己的助手 API 和 GPT 版本。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-story-generator.site?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4654,6 +4644,21 @@ Stork 帮助团队改善沟通和生产力。它是混合和远程团队的商�
 
 ## 视频
 
+### Vidnoz Flex
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-flex.webp" alt="Vidnoz Flex">
+
+####  强有力地创建、共享、管理和跟踪您的视频。
+[Visit](https://www.thataicollection.com/redirect/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vidnoz Flex 是 Vidnoz 推出的一款简单但功能强大的视频工具，它集视频创作、个性化、共享和跟踪功能于一身。它将完全提高您在日常工作中制作和推广视频的效率，并带来最显著的效果。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Synthesia
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-synthesia.webp" alt="Synthesia">
 
@@ -4687,15 +4692,31 @@ Stork 帮助团队改善沟通和生产力。它是混合和远程团队的商�
 
 
 
-### Vidnoz Flex
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-flex.webp" alt="Vidnoz Flex">
+### HitPaw Online Video Enhancer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
 
-####  强有力地创建、共享、管理和跟踪您的视频。
-[Visit](https://www.thataicollection.com/redirect/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 通过训练有素的 AI 一键取消模糊和升级您的视频。
+[Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Vidnoz Flex 是 Vidnoz 推出的一款简单但功能强大的视频工具，它集视频创作、个性化、共享和跟踪功能于一身。它将完全提高您在日常工作中制作和推广视频的效率，并带来最显著的效果。
+HitPaw Online Video Enhancer 是低分辨率视频的最佳解决方案，可以毫不费力地将视频解决方案提高到 1080P/4K。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Wisecut
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wisecut.webp" alt="Wisecut">
+
+#### Wisecut-使用 AI 自动剪切和编辑视频
+[Visit](https://www.thataicollection.com/redirect/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Wisecut是一款基于语音识别的自动视频编辑器。使用 Wisecut，您可以轻松地将长篇有声视频转换为带有音乐、字幕和自动重构的简短而有影响力的片段。这些短片非常适合YouTube短片、抖音、Instagram Reels和社交广告等平台。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4720,23 +4741,6 @@ HeyGen 是一个视频平台，可帮助您利用生成式 AI 创建引人入胜
 <br />
 
 
-### VEED.IO
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-veed.io.webp" alt="VEED.IO">
-
-#### VEED.IO-人工智能视频编辑器-快速、在线、免费
-
-[Visit](https://www.thataicollection.com/redirect/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-免费的 AI 视频编辑器，包含文字转视频、头像、自动字幕、语音翻译等。使用 VEED 在线录制、编辑和共享您的视频。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### Eightify
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eightify.webp" alt="Eightify">
 
@@ -4746,21 +4750,6 @@ HeyGen 是一个视频平台，可帮助您利用生成式 AI 创建引人入胜
 ⚡️ 获取 YouTube 视频的即时 AI 摘要，节省时间，翻译成 28 种语言
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/eightify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### HitPaw Online Video Enhancer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
-
-#### 通过训练有素的 AI 一键取消模糊和升级您的视频。
-[Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HitPaw Online Video Enhancer 是低分辨率视频的最佳解决方案，可以毫不费力地将视频解决方案提高到 1080P/4K。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

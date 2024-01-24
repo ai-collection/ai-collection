@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1032" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1034" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
+    </a>
+    <h4>Des outils d'IA de pointe gratuits qui aident les demandeurs d'emploi à décrocher l'emploi de leurs rêves plus rapidement</h4>
+    <p>Adapte ton CV aux exigences spécifiques du poste et à la culture de l'entreprise. Génère automatiquement une lettre de motivation personnalisée en fonction des points forts de ton CV et en fonction du poste pour lequel tu postules. Prépare-toi à des entretiens d'embauche avec des questions spécifiques au poste que tu souhaites. Pratiquez vos réponses à voix haute et recevez des commentaires en temps réel lors de simulacres d'entretien.</p>
+    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec JobSearch.Coach</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -61,19 +74,6 @@
 
 Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
-    </a>
-    <h4>Des outils d'IA de pointe gratuits qui aident les demandeurs d'emploi à décrocher l'emploi de leurs rêves plus rapidement</h4>
-    <p>Adapte ton CV aux exigences spécifiques du poste et à la culture de l'entreprise. Génère automatiquement une lettre de motivation personnalisée en fonction des points forts de ton CV et en fonction du poste pour lequel tu postules. Prépare-toi à des entretiens d'embauche avec des questions spécifiques au poste que tu souhaites. Pratiquez vos réponses à voix haute et recevez des commentaires en temps réel lors de simulacres d'entretien.</p>
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec JobSearch.Coach</b></a>
     <br />
 </div>
 
@@ -432,6 +432,7 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 | [Cutout Pro](https://www.thataicollection.com/redirect/cutout-pro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cutout.Pro - AI Photo Editing - Plate-forme de génération de contenu visuel, idéale pour la conception d'images et de vidéos. | Plate-forme de conception visuelle tout-en-un contenant des outils de montage photo et vidéo IA. Processus automatique de suppression d'arrière-plan, de restauration d'image, de conception graphique et de génération de contenu. | :grey_question: |
 | [Damn Good Tools](https://www.thataicollection.com/redirect/damn-good-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Oh, ces sacrés bons outils Des outils faciles à utiliser et amusants, gratuits (et open source). | Découvrez de bons outils utiles qui augmenteront votre productivité. Exemple de quelques outils : Générateur de politique de confidentialité, Captures d'écran, Détecter les polices, Discuter avec n'importe quel PDF, Résumer n'importe quelle URL et plus encore. | :grey_question: |
 | [Descript](https://www.thataicollection.com/redirect/descript?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Il existe une nouvelle façon de créer des vidéos et des podcasts. Une bonne façon. | Descript est un moyen simple, puissant et amusant d'éditer. | :white_check_mark: |
+| [Dify.AI](https://www.thataicollection.com/redirect/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dify : plateforme LLMops nouvelle génération avec option d'auto-hébergement. | Dify est une plateforme de développement d'applications LLM qui a permis de créer plus de 100 000 applications. Il intègre le BaaS et le LLMops, couvrant les technologies essentielles à la création d'applications génératives natives d'IA, y compris un moteur RAG intégré. Dify te permet de déployer ta propre version de l'API Assistants et des GPT, sur la base de tous les LLM. | :white_check_mark: |
 | [Fermat](https://www.thataicollection.com/redirect/fermat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Créativité augmentée pour la création de contenu. | Libérez votre créativité avec l'IA sur un canevas collaboratif. | :grey_question: |
 | [Hotpot](https://www.thataicollection.com/redirect/hotpot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hotpot.ai. | Hotpot.ai vous aide à créer des graphiques, des images et du texte incroyables. Des outils d'intelligence artificielle tels que AI Art Generator stimulent la créativité et automatisent les corvées, tandis que des modèles faciles à modifier permettent à quiconque de créer des maquettes d'appareils, des publications sur les réseaux sociaux, des images marketing, des icônes d'application et d'autres graphiques de travail. | :grey_question: |
 | [Lightricks](https://www.thataicollection.com/redirect/lightricks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Accueil des créateurs du monde entier. | Vivez la magie de la création avec les meilleurs outils et services pour les créateurs : Facetune 2, Videoleap, Linkinbio & Photoleap. Vérifiez-le maintenant!. | :grey_question: |
@@ -723,6 +724,7 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 | [Playground](https://www.thataicollection.com/redirect/playground?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Playground AI - créateur d'images AI en ligne. | Playground AI est un créateur d'images AI en ligne gratuit. Utilisez-le pour créer des œuvres d'art, des publications sur les réseaux sociaux, des présentations, des affiches, des vidéos, des logos, etc. | :white_check_mark: |
 | [Pollinations](https://www.thataicollection.com/redirect/pollinations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | VOTRE MOTEUR DE MÉDIAS PERSONNALISÉS. | Nous combinons et affinons des algorithmes pour correspondre à n'importe quelle esthétique, permettant la création de médias IA illimités et personnalisés. | :grey_question: |
 | [Portrait by Vana](https://www.thataicollection.com/redirect/portrait-by-vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Portrait - Vana. | "Portrait" de Vana est un studio d'art génératif qui peut créer des autoportraits de vous dans des styles infinis. | :grey_question: |
+| [ProductScope AI](https://www.thataicollection.com/redirect/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ProductScope AI propose deux outils essentiels aux marques de commerce électronique et aux spécialistes du marketing : un outil de prise de photos de produits basé sur l'IA et un optimiseur de listes. | AI Product Photoshoot permet aux marques de générer des centaines d'images de style de vie sans effort grâce à notre outil AI Photoshoot, sans les dépenses liées à une séance photo classique. De plus, l'optimiseur de listes basé sur l'IA crée efficacement des listes de produits captivantes en quelques minutes, en y ajoutant des mots clés à fort impact et des informations dérivées de tes avis, le tout grâce à nos modèles linguistiques avancés. | :white_check_mark: |
 | [PromeAI](https://www.thataicollection.com/redirect/promeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Outil AI pour le rendu et la coloration des croquis. | Vous recherchez un assistant de conception alimenté par l'IA qui peut vous aider à donner vie à vos idées créatives ? Créez des conceptions époustouflantes avec notre vaste bibliothèque de styles de modèles AIGC contrôlables (C-AIGC). Que vous soyez architectes, décorateurs d'intérieur, concepteurs de produits ou concepteurs d'animations de jeux. | :white_check_mark: |
 | [Prompthunt](https://www.thataicollection.com/redirect/prompthunt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Prompt Hunt : ta maison pour explorer, créer et partager des œuvres d'art basées sur l'IA. | Crée, explore et partage des œuvres d'art basées sur l'IA avec DALL·E, Stable Diffusion et Midjourney. Créez des visuels de haute qualité avec une rapidité, un contrôle et des détails incroyables, en utilisant Chroma, notre modèle d'IA avancé. Créez des actifs cohérents pour toi et ton équipe. Prompt Hunt facilite plus que jamais la création, la modification et le partage de modèles. | :grey_question: |
 | [Rayst Gradients](https://www.thataicollection.com/redirect/rayst-gradients?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dégradés Rayst. | Une collection de 64 beaux dégradés générés par AI. | :grey_question: |
@@ -1098,6 +1100,7 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 | Nom | Titre | Description | Offrir une version gratuite |
 |---|---|---|:---:|
 | [AI Social Bio](https://www.thataicollection.com/redirect/ai-social-bio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Social Bio - Ta biographie sur les réseaux sociaux créée par l'intelligence artificielle. | Parfait pour X (Twitter). Ajoutez un mot clé pour façonner ta biographie, choisis un influenceur pour inspirer ta biographie sur l'IA et générer ta biographie. | :white_check_mark: |
+| [AI Twitter Generator - ChatGPT Engine](https://www.thataicollection.com/redirect/ai-twitter-generator---chatgpt-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Générateur Twitter IA : moteur ChatGPT, réseaux sociaux, chatbot IA, Twitter, outils gratuits. | Amplifie ton impact en ligne grâce à notre générateur Twitter basé sur l'IA piloté par ChatGPT. Renforcer l'engagement social grâce à l'innovation d'OpenAI.   Entrez dans le futur de la créativité numérique avec cette extension révolutionnaire, « AI Twitter Generator ». Cette extension, alimentée par une technologie avancée d'intelligence artificielle, apporte une créativité et un divertissement illimités à ton compte Twitter. | :white_check_mark: |
 | [Best Fake Tweet Generator With Image](https://www.thataicollection.com/redirect/best-fake-tweet-generator-with-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Meilleur générateur de faux tweets avec images, réseaux sociaux, chatbot intelligent, Twitter, outils gratuits. | Le générateur de faux tweets avec image t'aide à générer un faux tweet et à le télécharger sous forme de captures d'écran.  Le meilleur générateur de faux tweets est compatible avec la dernière version de l'interface utilisateur Twitter/X. Tu peux choisir l'avatar, le nom, le compte, l'heure de publication, le contenu du tweet, les réponses aux tweets, les retweets, les likes, le nombre de vues, les images mises en ligne, etc. Nous proposons même de changer de tweet en utilisant différents thèmes. | :white_check_mark: |
 | [Funny Tweet Generator](https://www.thataicollection.com/redirect/funny-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | tweets amusants, générateur d'IA de tweets, tweets générés par l'IA, tweets humoristiques, tweets les plus drôles. | Funny Tweet Generator est un outil d'intelligence artificielle gratuit qui génère des tweets humoristiques en fonction des sujets saisis par l'utilisateur  Notre générateur de tweets amusant est alimenté par l'IA ChatGPT. Il peut facilement réécrire les tweets pour les rendre plus intéressants et plus amusants. Les tweets humoristiques peuvent attirer plus d'utilisateurs et augmenter leur temps de navigation. Augmente la fidélité des utilisateurs et fais ressortir tes tweets sur les réseaux sociaux. | :white_check_mark: |
 | [Graham AI](https://www.thataicollection.com/redirect/graham-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Graham.Ai - Générateur de tweets techniques. Tweete comme un super influenceur technologique, généré par l'IA. | Il suffit de choisir un sujet dans une liste ou d'en écrire un personnalisé, et de laisser l'IA générative créer un tweet pour toi. Il te suffit de partager le tweet généré. | :white_check_mark: |
