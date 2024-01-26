@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1035" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1036" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise, ведущее приложение для обучения искусственному интеллекту для слушателей подкастов.</h4>
-    <p>С помощью Podwise вы можете учиться на структурированных знаниях и выборочно слушать интересующие вас главы. Эта функция позволяет оптимизировать учебный процесс и сосредоточиться на наиболее важном для вас контенте.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Podwise</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -74,6 +61,19 @@
 
 Сегодня от ваших самых смелых мечтаний вас отделяет всего один клик!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise, ведущее приложение для обучения искусственному интеллекту для слушателей подкастов.</h4>
+    <p>С помощью Podwise вы можете учиться на структурированных знаниях и выборочно слушать интересующие вас главы. Эта функция позволяет оптимизировать учебный процесс и сосредоточиться на наиболее важном для вас контенте.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Podwise</b></a>
     <br />
 </div>
 
@@ -137,6 +137,22 @@
 - 🛒 [Электронная Торговля](#электронная-торговля)
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
+
+### Journalist AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-journalist-ai.webp" alt="Journalist AI">
+
+#### Создавайте высококачественные статьи, которые автоматически публикуются в вашем блоге
+[Visit](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Мгновенно получайте сотни релевантных статей, уникальных и оптимизированных для вашей ниши. Многофункциональные статьи, привлекающие трафик
+Искусственный интеллект для журналистов создает хорошо структурированный контент, подходящий для вашего бизнеса и имеющий рейтинг в Google.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Recast Studio
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-recast-studio.webp" alt="Recast Studio">
@@ -235,21 +251,6 @@ Marblism создает полнофункциональное веб-прило
 Бесплатный детектор контента с искусственным интеллектом обеспечивает простой и точный способ обнаружения контента, созданного искусственным интеллектом, из ChatGPT, GPT-4, GPT-3, GPT-2, LLama и других сервисов искусственного интеллекта.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Poster Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-poster-generator.webp" alt="AI Poster Generator">
-
-#### Генератор плакатов AI! Бесплатный генератор плакатов с искусственным интеллектом, он генерирует плакат из подсказок с помощью искусственного интеллекта
-[Visit](https://www.thataicollection.com/redirect/ai-poster-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Создавайте привлекательные плакаты с помощью нашего генератора постеров с искусственным интеллектом! Если вам нужен плакат для делового мероприятия, концерта, вечеринки или любого другого мероприятия, наш генератор плакатов с искусственным интеллектом поможет вам создать профессионально выглядящий плакат за считанные минуты. Просто введите текст, выберите шаблон, настройте цвета и шрифты, и вы получите потрясающий плакат, готовый к печати или публикации в социальных сетях.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-poster-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4875,6 +4876,22 @@ Sitekick позволяет создавать красивые целевые �
 
 ## Помощник по письму
 
+### Journalist AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-journalist-ai.webp" alt="Journalist AI">
+
+#### Создавайте высококачественные статьи, которые автоматически публикуются в вашем блоге
+[Visit](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Мгновенно получайте сотни релевантных статей, уникальных и оптимизированных для вашей ниши. Многофункциональные статьи, привлекающие трафик
+Искусственный интеллект для журналистов создает хорошо структурированный контент, подходящий для вашего бизнеса и имеющий рейтинг в Google.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Rytr
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rytr.webp" alt="Rytr">
 
@@ -4966,21 +4983,6 @@ IX.AI: ваш самый мощный и универсальный второй
 
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Quillbot Paraphraser
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quillbot-paraphraser.webp" alt="Quillbot Paraphraser">
-
-#### Инструмент перефразирования QuillBot на базе искусственного интеллекта улучшит ваше письмо
-[Visit](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ваши слова имеют значение, и наш инструмент перефразирования предназначен для того, чтобы вы использовали правильные слова. Имея на выбор два бесплатных режима и пять премиальных режимов, вы можете использовать онлайн-перефразировщик QuillBot, чтобы перефразировать любой текст различными способами.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

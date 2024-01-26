@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1035" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1036" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -377,6 +377,7 @@
 | [Friday AI](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Heyfriday——终极人工智能作家——周五少写作，更多灵感 Ultra Writing. | 一款人工智能写作助手，可帮助您集思广益，快速完成博客、广告或创意故事，为您节省时间和金钱。立即开始免费试用！. | :white_check_mark: |
 | [HIX.AI](https://www.thataicollection.com/redirect/hix.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 最强大的一体化 AI写作副驾驶. | IX.AI：您最强大的一体化人工智能写作副驾驶。使用 HIX.AI（市场上最强大的一体化人工智能写作副驾驶）在几秒钟内为广告、电子邮件、博客等生成高质量的副本。. | :white_check_mark: |
 | [Instascribe](https://www.thataicollection.com/redirect/instascribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instascribe 是一款人工智能应用程序，可为您的 Instagram 照片创建个性化字幕. | 只需选择一张图片，从一系列字幕样式中挑选或定义您自己的样式，然后调整语调、语言和消息长度等选项。然后，该应用程序的 AI 会生成适合您的图像和偏好的独特说明，从而简化您的社交媒体发布过程。. | :grey_question: |
+| [Journalist AI](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 生成可自动发布到您的博客的高质量文章. | 立即获取数百篇独一无二且针对您的利基市场进行了优化的相关文章。带来流量的功能丰富的文章 记者人工智能制作的内容结构合理，适合您的业务，并且在谷歌上排名靠前。. | :grey_question: |
 | [LeadCopy](https://www.thataicollection.com/redirect/leadcopy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在谷歌文档中使用 ChatGPT 和 GPT4。在几分钟内创建专业、高保密度的营销文案、网络研讨会、播客等. | ⚡ LeadCopy 是一款谷歌文档™ 插件，它可以利用 “GPT-4” 和 “ChatGPT” 的力量帮助任何人成为 “专家撰稿人”  在几分钟内创建专业、高保密度的营销文案、网络研讨会、播客等. | :grey_question: |
 | [Moonbeam](https://www.thataicollection.com/redirect/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Moonbeam-永远不要再从头开始写作了。. | 使用 Moonbeam 开启你的下一个精彩博客：你的长篇写作人工智能助手。撰写精彩的长篇内容不一定是件苦差事。Moonbeam 是唯一一款经过专门培训的人工智能写作助手，可以帮助你撰写论文、故事、文章、博客和其他长篇内容。. | :grey_question: |
 | [Neuron Writer](https://www.thataicollection.com/redirect/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | NeuronWriter — 使用 #semanticSEO 进行内容优化. | 优化您的网站内容 所以谷歌很喜欢它。 高级内容编辑器，包含语义模型 (NLP)、谷歌 SERP 分析和竞争数据。 NeuronWriter 可帮助您规划、编写和优化内容，同时考虑用户意图！. | :grey_question: |

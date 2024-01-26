@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1035" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1036" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,6 +59,19 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
+    <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -67,19 +80,6 @@ Translations:
 
 Your wildest dreams are just a click away today!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
-    <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
     <br />
 </div>
 
@@ -1439,6 +1439,7 @@ Your wildest dreams are just a click away today!</p>
 | [Friday AI](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Heyfriday - Ultimate AI Writer - Less Writing, More Inspiration Ultra Writing With Friday. | An AI writing assistant that helps you brainstorm and complete your blog, advertisement, or creative story quickly, saving you time and money. Start your free trial today!. | :white_check_mark: |
 | [HIX.AI](https://www.thataicollection.com/redirect/hix.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The Most Powerful, All-in-One AI Writing Copilot. | IX.AI: Your Most Powerful, All-In-One AI Writing Copilot. Generate high-quality copies for ads, emails, blogs, and more in seconds with HIX.AI, the most powerful, all-in-one AI writing copilot on the market. | :white_check_mark: |
 | [Instascribe](https://www.thataicollection.com/redirect/instascribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instascribe Is an AI-powered App That Creates Personalised Captions for Your Instagram Photos. | Just select an image, pick from an array of caption styles or define your own, and adjust options such as tone of voice, language, and message length. The app's AI then generates a unique caption that suits your image and preferences, streamlining your social media posting process. | :grey_question: |
+| [Journalist AI](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generate high-quality articles that auto-publish to your blog. | Instantly get hundreds of relevant articles that are unique and optimized for your niche. Feature-Rich Articles that Bring Traffic Journalist AI crafts content that is well-structured, appropriate for your business and that ranks on Google. | :grey_question: |
 | [LeadCopy](https://www.thataicollection.com/redirect/leadcopy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Use ChatGPT & GPT4 in Google Docs. Create Professional, High Coverting Marketing Copy, Webinar, Podcasts & More in Minutes. | ⚡LeadCopy is an Google Docs™ Addon which can help ANY Become an 'Expert Copywriter' using the Power of 'GPT-4' & 'ChatGPT'  Create Professional, High Coverting Marketing Copy, Webinar, Podcasts & More in Minutes. | :grey_question: |
 | [Moonbeam](https://www.thataicollection.com/redirect/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Moonbeam - Never Write From Scratch Again. | Kickstart your next great blog with Moonbeam: your long-form writing AI assistant. Writing brilliant long form content doesn't have to feel like a chore. Moonbeam is the only AI writing assistant specifically trained to help you write essays, stories, articles, blogs, and other long form content. | :grey_question: |
 | [Neuron Writer](https://www.thataicollection.com/redirect/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | NeuronWriter – Content optimization with #semanticSEO. | Optimize your website content so Google adores it. Advanced content editor with semantic models (NLP), Google SERP analysis, and competition data. NEURONwriter helps you to plan, write and optimize content with user intent in mind!. | :grey_question: |

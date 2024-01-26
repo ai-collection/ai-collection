@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1035" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1036" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
-    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -74,6 +61,19 @@
 
 तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
+    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -137,6 +137,22 @@
 - 📊 [स्लाइड और प्रस्तुतियाँ](#स्लाइड-और-प्रस्तुतियाँ)
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
+
+### Journalist AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-journalist-ai.webp" alt="Journalist AI">
+
+#### उच्च गुणवत्ता वाले लेख जेनरेट करें जो तुम्हारे ब्लॉग पर अपने-आप प्रकाशित हो जाते हैं
+[Visit](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+तुरन्त पाओ सैकड़ों प्रासंगिक लेख, जो अनोखे हैं और तुम्हारी जगह के लिए अनुकूलित हैं। सुविधाओं से भरपूर लेख जो ट्रैफ़िक लाते हैं
+जर्नलिस्ट एआई ऐसी सामग्री बनाता है जो अच्छी तरह से संरचित हो, तुम्हारे व्यवसाय के लिए उपयुक्त हो और जो Google पर रैंक करती हो।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Recast Studio
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-recast-studio.webp" alt="Recast Studio">
@@ -235,21 +251,6 @@ iFoto तुम्हारे प्रॉडक्ट की फ़ोटो�
 मुफ़्त AI कॉन्टेंट डिटेक्टर ChatGPT, GPT-4, GPT-3, GPT-2, LLaMA और दूसरी AI सेवाओं से AI-जनरेट किए गए कॉन्टेंट का पता लगाने का एक सरल और सटीक तरीका देता है।
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Poster Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-poster-generator.webp" alt="AI Poster Generator">
-
-#### AI पोस्टर जेनरेटर! मुफ़्त AI पोस्टर जेनरेटर, यह AI का इस्तेमाल करके संकेत भरे शब्दों से पोस्टर बनाता है
-[Visit](https://www.thataicollection.com/redirect/ai-poster-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-हमारे AI पोस्टर जेनरेटर की मदद से आकर्षक पोस्टर बनाएं! चाहे तुम्हेंं किसी बिज़नेस इवेंट, कंसर्ट, पार्टी या किसी अन्य अवसर के लिए पोस्टर चाहिए, हमारा AI पोस्टर जनरेटर मिनटों में पेशेवर दिखने वाला पोस्टर डिज़ाइन करने में तुम्हारी मदद कर सकता है। बस अपना टेक्स्ट डालें, टेम्प्लेट चुनें, रंगों और फ़ॉन्ट को कस्टमाइज़ करें और तुम्हारे पास एक शानदार पोस्टर होगा, जिसे प्रिंट किया जा सकता है या सोशल मीडिया पर शेयर किया जा सकता है।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-poster-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4877,6 +4878,22 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 ## लेखन सहायक
 
+### Journalist AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-journalist-ai.webp" alt="Journalist AI">
+
+#### उच्च गुणवत्ता वाले लेख जेनरेट करें जो तुम्हारे ब्लॉग पर अपने-आप प्रकाशित हो जाते हैं
+[Visit](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+तुरन्त पाओ सैकड़ों प्रासंगिक लेख, जो अनोखे हैं और तुम्हारी जगह के लिए अनुकूलित हैं। सुविधाओं से भरपूर लेख जो ट्रैफ़िक लाते हैं
+जर्नलिस्ट एआई ऐसी सामग्री बनाता है जो अच्छी तरह से संरचित हो, तुम्हारे व्यवसाय के लिए उपयुक्त हो और जो Google पर रैंक करती हो।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Rytr
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rytr.webp" alt="Rytr">
 
@@ -4968,21 +4985,6 @@ IX.AI: आपका सबसे शक्तिशाली, ऑल-इन-व�
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Quillbot Paraphraser
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quillbot-paraphraser.webp" alt="Quillbot Paraphraser">
-
-#### QuillBot का AI-पावर्ड पैराफ़्रेसिंग टूल आपके लेखन को बेहतर बनाएगा
-[Visit](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-आपके शब्द मायने रखते हैं, और हमारा व्याख्यात्मक उपकरण यह सुनिश्चित करने के लिए डिज़ाइन किया गया है कि आप सही शब्दों का उपयोग करें। चुनने के लिए दो निःशुल्क मोड और पांच प्रीमियम मोड के साथ, आप QuillBot के ऑनलाइन Paraphraser का उपयोग विभिन्न तरीकों से किसी भी टेक्स्ट को फिर से लिखने के लिए कर सकते हैं।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
