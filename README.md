@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1034" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1035" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -57,19 +57,6 @@ Translations:
     <h5>Top Picks</h5>
     <p>AI Collection's top picks are</p>
 </div>
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
-    </a>
-    <h4>Free cutting-edge AI tools that help job seekers land their dream job faster</h4>
-    <p>Tailor your resume to fit specific job requirements and company culture. Automatically generate a personalized cover letter based on the strongest points of your resume and aligned with the job you’re applying for. Get ready for job interviews with questions specific to the role you want. Practice your answers out loud and receive real-time feedback during mock interview sessions.</p>
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with JobSearch.Coach</b></a>
-    <br />
-</div>
-
-<br>
-
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -144,129 +131,118 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
-### ProductScope AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vijay-jacob.webp" alt="ProductScope AI">
+### Recast Studio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-recast-studio.webp" alt="Recast Studio">
 
-#### ProductScope AI offers two essential tools for Ecommerce Brands and Marketers: an AI Product Photoshoot tool and a Listing Optimizer.
-[Visit](https://www.thataicollection.com/redirect/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI-powered podcast marketing assistant. 
+[Visit](https://www.thataicollection.com/redirect/recast-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AI Product Photoshoot allows brands to generate hundreds of lifestyle images effortlessly with our AI Photoshoot tool without the expenses that come with a typical Photoshoot.
-Additionally, the AI-powered Listing Optimizer efficiently crafts compelling product listings in minutes, infused with high-impact keywords and insights derived from your reviews, all thanks to our advanced language models.
+Recast Studio automatically turns your podcast episode into short video clips & writes show notes, blog posts, social media posts and more in minutes.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+→ Automatically generates a full transcript of your episode
+→ Show notes with summary and timestamps
+→ Captivating social media posts
+→ An email with the key takeaways of the episode
+→ Main highlights categorized by topic
 
-<br />
-
-
-
-
-### Dify.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dify.ai.webp" alt="Dify.AI">
-
-#### Dify: Next-Gen LLMOps Platform with Self-Hosting Option
-[Visit](https://www.thataicollection.com/redirect/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Dify is an LLM application development platform that has helped built over 100,000 applications. It integrates BaaS and LLMOps, covering the essential tech stack for building generative AI-native applications, including a built-in RAG engine. Dify allows you to deploy your own version of Assistants API and GPTs, based on any LLMs.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/recast-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### AI Twitter Generator - ChatGPT Engine
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-twitter-generator---chatgpt-engine.webp" alt="AI Twitter Generator - ChatGPT Engine">
+### iFoto
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ifoto.webp" alt="iFoto">
 
-#### AI Twitter Generator - ChatGPT Engine  Social Media,AI Chatbot,twitter,Free Tools
-[Visit](https://www.thataicollection.com/redirect/ai-twitter-generator---chatgpt-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Create high-converting e-commerce images with AI studio
+[Visit](https://www.thataicollection.com/redirect/ifoto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Amplify your online impact with our ChatGPT-driven AI Twitter Generator. Elevate social engagement through the innovation of OpenAI. 
+iFoto reinvents your product photography, turning it into a one-click process. one more thing! We've crafted a new algorithm minimizing the cost of background removal to nearly $0. So, we guarantee iFoto's background removal completely free-truly, HD downloads, no watermarks! To avoid overuse, we offer 10,000 per month per user (unlikely anyone can hit that, honestly!).
 
-Step into the future of digital creativity with the groundbreaking extension - "AI Twitter Generator". This extension, powered by advanced artificial intelligence technology, injects limitless creativity and fun into your Twitter account.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-twitter-generator---chatgpt-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ifoto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Best Fake Tweet Generator With Image
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-best-fake-tweet-generator-with-image.webp" alt="Best Fake Tweet Generator With Image">
+### SeeYourBabyAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-seeyourbabyai.webp" alt="SeeYourBabyAI">
 
-#### Best Fake Tweet Generator With Image  Social Media,AI Chatbot,twitter ,Free Tools
-[Visit](https://www.thataicollection.com/redirect/best-fake-tweet-generator-with-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Ever wondered what your future baby might look like? Now you don't need to, you can see it!
+[Visit](https://www.thataicollection.com/redirect/seeyourbabyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Fake Tweet Generator With Image helps you generate a fake tweet and download them as screenshots.
+Ever wondered what your future baby might look like? See Your Baby uses the power of AI to give you a glimpse into your child's face, even before they're born. This tool takes photos of you and your partner, then uses them to generate images of both a boy and a girl.
 
-Best Fake Tweet Generator supports the latest version of Twitter/X UI design. You can choose your tweet’s avatar, name, account, publishing time, tweet content, tweet replies, retweets, likes, number of views, uploaded images, etc. We even support switching tweet using different themes.
+We analyze your facial features, skin tone, hair texture, and other characteristics, then blends them together to achieve this.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/best-fake-tweet-generator-with-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Funny Tweet Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-funny-tweet-generator.webp" alt="Funny Tweet Generator">
-
-#### funny tweets,tweet ai generator ,ai generated tweets ,humorous tweets,funniest tweets
-
-[Visit](https://www.thataicollection.com/redirect/funny-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Funny Tweet Generator is a free AI tool that generate humorous tweets based on the topics entered by the user
-
-Our funny tweet generator is powered by ChatGPT AI. and can easily rewrite tweets to make it more interesting and fun.  humorous tweets can attract more users and increase user browsing time. Increase user stickiness , and make your tweets stand out on social media.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/funny-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/seeyourbabyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Clipwing
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clipwing.webp" alt="Clipwing">
+### Marblism
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-marblism.webp" alt="Marblism">
 
-#### A tool for cutting long videos into dozens of short clips
-[Visit](https://www.thataicollection.com/redirect/clipwing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Generate a SaaS boilerplate from a prompt
+[Visit](https://www.thataicollection.com/redirect/marblism?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Overview:
-Show up with your short clips to win more views, grow your audience, and become a superstar
+Marblism generates a fully-functional web application from a single prompt: 
+1. Describe the app and all the features you want to build 
+2. We generate the database schema 
+3. We generate the back-end in NodeJS 
+4. We generate the front-end in React with all your app's features 
+5. Clone the Github repos and you're ready to go! 
 
-Key Features:
-• Long video into shorts - Turn your long video into short clips to win more views.
-• Catchy subtitles - People love watching videos without sound. Engage your audience with trendy subtitles!
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/clipwing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/marblism?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Coral AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-coral-ai.webp" alt="Coral AI">
+### FormulasHQ
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-formulashq.webp" alt="FormulasHQ">
 
-#### Search and Understand Documents with AI.
-[Visit](https://www.thataicollection.com/redirect/coral-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Master Complex Spreadsheet Formulas and Scripted Functions
+[Visit](https://www.thataicollection.com/redirect/formulashq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Cut your reading time in half — upload a PDF to get answers, summaries, translations, and citations in seconds.
+At Formulas HQ, we’ve harnessed the brilliance of AI to turbocharge your Spreadsheet mastery. Say goodbye to the days of grappling with complex formulas, VBA code, and scripts. We’re here to make your work smarter, not harder.
 
-How It Works:
-1. Upload your documents to Coral AI. 
+[More Information and Pricing](https://www.thataicollection.com/en/application/formulashq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-2. Ask Coral AI any question about your document. 
-
-3. Coral AI gives you answers with page citations using information from the document.
+<br />
 
 
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/coral-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+### GPT-Zero
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gpt-zero.webp" alt="GPT-Zero">
+
+#### GPT Zero - Free AI Content Detector for ChatGPT, GPT-4, & More
+[Visit](https://www.thataicollection.com/redirect/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Free AI content detector provides a simple and accurate way to detect AI-generated content from ChatGPT, GPT-4, GPT-3, GPT-2, LLaMA, and other AI services.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI Poster Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-poster-generator.webp" alt="AI Poster Generator">
+
+#### AI Poster Generator!Free AI Poster Generator, It generate poster from prompt words using AI
+[Visit](https://www.thataicollection.com/redirect/ai-poster-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Create eye-catching posters with our AI poster generator! Whether you need a poster for a business event, a concert, a party, or any other occasion, our AI poster generator can help you design a professional-looking poster in minutes. Simply input your text, choose a template, customize the colors and fonts, and you'll have a stunning poster ready to print or share on social media.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-poster-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -724,15 +700,21 @@ ICONS8 ALLOWS DESIGNERS TO EXPRESS THEIR IDEAS, PROVIDING THE RIGHT DESIGN ELEME
 
 
 
-### CustomQR AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customqr-ai.webp" alt="CustomQR AI">
+### Pet Booth
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
 
-#### QR Code Generation Service for Business
-[Visit](https://www.thataicollection.com/redirect/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Pet Booth is a service for creating your own AI Pet Portraits, Artwork, and Photos. Simply upload 10-20 photos of your cat or dog and select from over 80+ themes to transform them into.
+[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Get artistic beautiful QR codes on your email in under 10 minutes. Choose from available QR code categories or request your own. Make your business stand out with unique QR arts!
+Pet Booth is a service for creating your own amazing AI pet portraits, photos, and artwork. It's fast, easy, and fun!
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+How does it work?
+
+Simply upload 10-20 photos of your cat or dog and select from over 80+ themes to transform them into.
+
+Receive a pack of 100 AI generated images of your pet in both photo-realistic and artistic styles.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3022,17 +3004,15 @@ Hexowatch is your AI sidekick to monitor any website for visual, content, source
 <br />
 
 
-### hr365
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fred-smith.webp" alt="hr365">
+### FormulasHQ
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-formulashq.webp" alt="FormulasHQ">
 
-#### Modernize your HR & Business processes with our Microsoft teams HR & Business Apps
+#### Master Complex Spreadsheet Formulas and Scripted Functions
+[Visit](https://www.thataicollection.com/redirect/formulashq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+At Formulas HQ, we’ve harnessed the brilliance of AI to turbocharge your Spreadsheet mastery. Say goodbye to the days of grappling with complex formulas, VBA code, and scripts. We’re here to make your work smarter, not harder.
 
-[Visit](https://www.thataicollection.com/redirect/hr365?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-"Optimize HR and business workflows with HR365 and BizApps 365. These solutions cover onboarding, performance management, project, and customer relationship management, while Helpdesk 365 ensures efficient support management. Integration with Microsoft Teams and Power Apps fosters collaboration and automation, enhancing productivity."
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/hr365?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/formulashq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
