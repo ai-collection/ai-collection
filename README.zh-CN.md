@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1034" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1035" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -61,19 +61,6 @@
 
 今天只需点击一下即可实现您最疯狂的梦想！</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach" border="0"/>
-    </a>
-    <h4>免费的尖端人工智能工具，帮助求职者更快地找到理想的工作</h4>
-    <p>根据特定的工作要求和公司文化量身定制简历。根据简历中的强项自动生成个性化求职信，并与你申请的工作保持一致。针对你想要的职位提出具体的问题，为求职面试做好准备。在模拟面试环节中，大声练习答案并获得实时反馈。</p>
-    <a href="https://www.thataicollection.com/redirect/jobsearch.coach/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 JobSearch.Coach</b></a>
     <br />
 </div>
 
@@ -138,129 +125,118 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### ProductScope AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vijay-jacob.webp" alt="ProductScope AI">
+### Recast Studio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-recast-studio.webp" alt="Recast Studio">
 
-#### ProductScope AI 为电子商务品牌和营销人员提供了两个必备工具：人工智能产品照片拍摄工具和列表优化工具。
-[Visit](https://www.thataicollection.com/redirect/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 人工智能驱动的播客营销助手。 
+[Visit](https://www.thataicollection.com/redirect/recast-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AI 产品照片拍摄允许品牌使用我们的 AI Photoshoot 工具轻松生成数百张生活方式图片，而无需支付普通照片拍摄所需的费用。
-此外，基于人工智能的清单优化器可在几分钟内高效地制作引人注目的产品清单，并注入从您的评论中得出的高影响力的关键字和见解，这一切都归功于我们的高级语言模型。
+Recast Studio 会自动将您的播客剧集转换为简短的视频片段，并在几分钟内撰写节目笔记、博客文章、社交媒体帖子等。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+→ 自动生成剧集的完整剧本
+→ 显示带有摘要和时间戳的笔记
+→ 引人入胜的社交媒体帖子
+→ 一封包含该剧集关键要点的电子邮件
+→ 按主题分类的主要亮点
 
-<br />
-
-<br />
-
-
-### Dify.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dify.ai.webp" alt="Dify.AI">
-
-#### Dify：具有自托管选项的下一代 LLMOps 平台
-[Visit](https://www.thataicollection.com/redirect/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Dify 是一个 LLM 应用程序开发平台，已帮助构建了 100,000 多个应用程序。它集成了 BaaS 和 LLMOP，涵盖了构建生成式 AI 原生应用程序（包括内置 RAG 引擎）的基本技术堆栈。Dify 允许你基于任何 LLM 部署自己的助手 API 和 GPT 版本。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/recast-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### AI Twitter Generator - ChatGPT Engine
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-twitter-generator---chatgpt-engine.webp" alt="AI Twitter Generator - ChatGPT Engine">
+### iFoto
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ifoto.webp" alt="iFoto">
 
-#### 人工智能推特生成器-ChatGPT 引擎社交媒体、人工智能聊天机器人、推特、免费工具
-[Visit](https://www.thataicollection.com/redirect/ai-twitter-generator---chatgpt-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 使用 AI 工作室创建高转换率的电子商务图像
+[Visit](https://www.thataicollection.com/redirect/ifoto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-使用我们由 ChatGPT 驱动的 AI 推特生成器，增强您的在线影响力。通过 OpenAI 的创新提升社交参与度。 
+iFoto 重塑您的产品摄影，将其变成一键拍摄。还有一件事！我们精心设计了一种新算法，将背景移除成本降至近0美元。因此，我们保证 iFoto 的背景去除完全免费，真正做到高清下载，没有水印！为避免过度使用，我们为每位用户每月提供 10,000 美元（说实话，不太可能有人能达到这个目标！）。
 
-借助开创性的扩展程序—— “AI Twitter生成器”，踏入数字创意的未来。该扩展程序由先进的人工智能技术提供支持，为你的Twitter账户注入无限的创造力和乐趣。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-twitter-generator---chatgpt-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ifoto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Best Fake Tweet Generator With Image
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-best-fake-tweet-generator-with-image.webp" alt="Best Fake Tweet Generator With Image">
+### SeeYourBabyAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-seeyourbabyai.webp" alt="SeeYourBabyAI">
 
-#### 带有图像社交媒体，人工智能聊天机器人，推特，免费工具的最佳假推文生成器
-[Visit](https://www.thataicollection.com/redirect/best-fake-tweet-generator-with-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 有没有想过你未来的宝宝会是什么样子？现在你不需要，你可以看到了！
+[Visit](https://www.thataicollection.com/redirect/seeyourbabyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-带图片的虚假推文生成器可帮助您生成虚假推文并将其作为屏幕截图下载。
+有没有想过你未来的宝宝会是什么样子？See Your Baby 利用 AI 的力量，即使在孩子出生之前，你也可以窥见他们的脸。这个工具会为你和你的伴侣拍照，然后用它们来生成男孩和女孩的照片。
 
-最佳虚假推文生成器支持最新版本的 Twitter/X 用户界面设计。你可以选择推文的头像、名称、账号、发布时间、推文内容、推文回复、转推、点赞、浏览量、上传的图片等。我们甚至支持使用不同的主题切换推文。
+我们会分析您的面部特征、肤色、头发质地和其他特征，然后将它们混合在一起以实现这一目标。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/best-fake-tweet-generator-with-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Funny Tweet Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-funny-tweet-generator.webp" alt="Funny Tweet Generator">
-
-#### 有趣的推文，推文人工智能生成器，人工智能生成的推文，幽默的推文，最有趣的推文
-
-[Visit](https://www.thataicollection.com/redirect/funny-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-搞笑推文生成器是一款免费的人工智能工具，可根据用户输入的主题生成幽默推文
-
-我们的搞笑推文生成器由 ChatGPT AI 提供支持。可以轻松重写推文以使其更有趣和有趣。幽默的推文可以吸引更多用户并增加用户浏览时间。提高用户粘度，让你的推文在社交媒体上脱颖而出。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/funny-tweet-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/seeyourbabyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Clipwing
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-clipwing.webp" alt="Clipwing">
+### Marblism
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-marblism.webp" alt="Marblism">
 
-#### 将长视频剪切成数十个短片的工具
-[Visit](https://www.thataicollection.com/redirect/clipwing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 根据提示生成 SaaS 样板
+[Visit](https://www.thataicollection.com/redirect/marblism?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-概述：
-与您的短片一起露面，以赢得更多观看次数，扩大受众群体，成为超级巨星
+Marblism 通过一个提示符生成一个功能齐全的 Web 应用程序： 
+1。描述应用程序和你想要构建的所有功能 
+2。我们生成数据库架构 
+3.我们在 NodeJS 中生成后端 
+4。我们在 React 中生成包含你应用程序所有功能的前端 
+5。克隆 Github 存储库然后你就可以开始了！ 
 
-主要特点：
-•长视频变成短片-将长视频变成短片以赢得更多观看次数。
-• 醒目的字幕-人们喜欢观看没有声音的视频。用时尚字幕吸引观众！
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/clipwing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/marblism?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Coral AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-coral-ai.webp" alt="Coral AI">
+### FormulasHQ
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-formulashq.webp" alt="FormulasHQ">
 
-#### 使用 AI 搜索和理解文档。
-[Visit](https://www.thataicollection.com/redirect/coral-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 掌握复杂的电子表格公式和脚本函数
+[Visit](https://www.thataicollection.com/redirect/formulashq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-将您的阅读时间缩短一半——上传 PDF 即可在几秒钟内获得答案、摘要、翻译和引文。
+在方程式总部，我们利用人工智能的精彩来增强你对电子表格的掌握程度。告别那些努力处理复杂公式、VBA 代码和脚本的日子。我们来这里是为了让你的工作更智能，而不是更难。
 
-它是如何工作的：
-1。将您的文件上传到 Coral AI。 
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/formulashq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-2。向Coral AI询问有关您的文档的任何问题。 
+<br />
 
-3.Coral AI 使用文档中的信息，通过页面引用为您提供答案。
-
+<br />
 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/coral-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+### GPT-Zero
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gpt-zero.webp" alt="GPT-Zero">
+
+#### GPT Zero-适用于 ChatGPT、GPT-4 等的免费 AI 内容检测器
+[Visit](https://www.thataicollection.com/redirect/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+免费的人工智能内容检测器提供了一种简单而准确的方法来检测来自 ChatGPT、GPT-4、GPT-3、GPT-2、LLama 和其他人工智能服务的人工智能生成的内容。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### AI Poster Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-poster-generator.webp" alt="AI Poster Generator">
+
+#### AI 海报生成器！免费的人工智能海报生成器，它使用AI从提示词生成海报
+[Visit](https://www.thataicollection.com/redirect/ai-poster-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用我们的 AI 海报生成器制作引人注目的海报！无论您需要商业活动、音乐会、聚会还是任何其他场合的海报，我们的 AI 海报生成器都可以帮助您在几分钟内设计出具有专业外观的海报。只需输入文本，选择模板，自定义颜色和字体，即可打印出精美的海报，或在社交媒体上分享。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-poster-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -718,15 +694,21 @@ ICONS8 允许设计师表达自己的想法，在正确的时间提供正确的�
 <br />
 
 
-### CustomQR AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customqr-ai.webp" alt="CustomQR AI">
+### Pet Booth
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
 
-#### 商业二维码生成服务
-[Visit](https://www.thataicollection.com/redirect/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Pet Booth 是一项用于创建自己的 AI 宠物肖像、艺术品和照片的服务。只需上传 10-20 张您的猫或狗的照片，然后从 80 多个主题中进行选择，即可将其转换成。
+[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-10 分钟内即可在您的电子邮件中获取艺术精美的二维码。从可用的二维码类别中进行选择或请求您自己的二维码类别。通过独特的二维码艺术让您的企业脱颖而出！
+Pet Booth 是一项用于创建自己精彩的 AI 宠物肖像、照片和艺术品的服务。它快速、简单、有趣！
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+它是如何工作的？
+
+只需上传 10-20 张您的猫或狗的照片，然后从 80 多个主题中进行选择，即可将其转换成。
+
+收到一包 100 张 AI 生成的宠物图片，既有照片级逼真度，也有艺术风格。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3016,17 +2998,15 @@ Hexowatch 是您的 AI 助手，可以监控任何网站的视觉、内容、源
 <br />
 
 
-### hr365
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fred-smith.webp" alt="hr365">
+### FormulasHQ
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-formulashq.webp" alt="FormulasHQ">
 
-#### 使用我们的微软团队的人力资源和业务应用程序实现人力资源和业务流程现代化
+#### 掌握复杂的电子表格公式和脚本函数
+[Visit](https://www.thataicollection.com/redirect/formulashq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+在方程式总部，我们利用人工智能的精彩来增强你对电子表格的掌握程度。告别那些努力处理复杂公式、VBA 代码和脚本的日子。我们来这里是为了让你的工作更智能，而不是更难。
 
-[Visit](https://www.thataicollection.com/redirect/hr365?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-“使用 HR365 和 BizApps 365 优化人力资源和业务工作流程。这些解决方案涵盖入职、绩效管理、项目和客户关系管理，而Helpdesk 365则确保有效的支持管理。与微软团队和Power Apps的集成促进了协作和自动化，提高了生产力。”
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/hr365?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/formulashq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
