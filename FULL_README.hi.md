@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1035" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1036" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
-    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -74,6 +61,19 @@
 
 तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
+    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -1066,6 +1066,7 @@
 | [Friday AI](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हेफ़्राइडे - अल्टीमेट एआई राइटर - कम लेखन, ज़्यादा प्रेरणा, शुक्रवार के साथ अल्ट्रा राइटिंग. | एक AI लेखन सहायक जो विचार-मंथन करने और अपने ब्लॉग, विज्ञापन या रचनात्मक कहानी को तेज़ी से पूरा करने में तुम्हारी मदद करता है, जिससे तुम्हारा समय और पैसा बचता है। अपना मुफ़्त ट्रायल आज ही शुरू करें!. | :white_check_mark: |
 | [HIX.AI](https://www.thataicollection.com/redirect/hix.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सबसे शक्तिशाली, सबमें एक एआई राइटिंग कोपायलट. | IX.AI: आपका सबसे शक्तिशाली, ऑल-इन-वन AI राइटिंग कोपायलट। बाजार में सबसे शक्तिशाली, ऑल-इन-वन एआई राइटिंग कोपायलट HIX.AI के साथ सेकंडों में विज्ञापनों, ईमेल, ब्लॉग आदि के लिए उच्च-गुणवत्ता वाली प्रतियां तैयार करें।. | :white_check_mark: |
 | [Instascribe](https://www.thataicollection.com/redirect/instascribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instascribe एक AI-संचालित ऐप है जो आपके Instagram फ़ोटो के लिए वैयक्तिकृत कैप्शन बनाता है. | बस एक छवि का चयन करें, कैप्शन शैलियों की एक सरणी से चुनें या अपनी खुद की परिभाषित करें, और स्वर, भाषा और संदेश की लंबाई जैसे विकल्पों को समायोजित करें। ऐप का एआई तब एक अद्वितीय कैप्शन उत्पन्न करता है जो आपकी छवि और वरीयताओं के अनुरूप होता है, जो आपकी सोशल मीडिया पोस्टिंग प्रक्रिया को सुव्यवस्थित करता है।. | :grey_question: |
+| [Journalist AI](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उच्च गुणवत्ता वाले लेख जेनरेट करें जो तुम्हारे ब्लॉग पर अपने-आप प्रकाशित हो जाते हैं. | तुरन्त पाओ सैकड़ों प्रासंगिक लेख, जो अनोखे हैं और तुम्हारी जगह के लिए अनुकूलित हैं। सुविधाओं से भरपूर लेख जो ट्रैफ़िक लाते हैं जर्नलिस्ट एआई ऐसी सामग्री बनाता है जो अच्छी तरह से संरचित हो, तुम्हारे व्यवसाय के लिए उपयुक्त हो और जो Google पर रैंक करती हो।. | :grey_question: |
 | [LeadCopy](https://www.thataicollection.com/redirect/leadcopy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Google Docs में ChatGPT और GPT4 का इस्तेमाल करो। मिनटों में प्रोफ़ेशनल, हाई कवरिंग मार्केटिंग कॉपी, वेबिनार, पॉडकास्ट और बहुत कुछ बनाएं. | ⚡ LeadCopy एक Google Docs™ ऐडऑन है जो 'GPT-4' और 'ChatGPT' की ताकत का इस्तेमाल करके किसी को भी 'एक्सपर्ट कॉपीराइटर' बनने में मदद कर सकता है  मिनटों में प्रोफेशनल, हाई कवरिंग मार्केटिंग कॉपी, वेबिनार, पॉडकास्ट और बहुत कुछ बनाएं. | :grey_question: |
 | [Moonbeam](https://www.thataicollection.com/redirect/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मूनबीम - नेवर राइट फ्रॉम स्क्रैच अगेन।. | मूनबीम के साथ अपने अगले बेहतरीन ब्लॉग की शुरुआत करें: तुम्हारा लंबे समय तक लिखने वाला AI असिस्टेंट। शानदार लंबी फ़ॉर्म सामग्री लिखने से घर का काम जैसा महसूस नहीं होता है। मूनबीम एकमात्र AI लेखन सहायक है, जो तुम्हेंं निबंध, कहानियाँ, लेख, ब्लॉग और दूसरी लंबी सामग्री लिखने में मदद करने के लिए विशेष रूप से प्रशिक्षित किया गया है।. | :grey_question: |
 | [Neuron Writer](https://www.thataicollection.com/redirect/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | NeuronWriter — #semanticSEO के साथ कॉन्टेंट ऑप्टिमाइज़ेशन. | अपनी वेबसाइट के कॉन्टेंट को ऑप्टिमाइज़ करें इसलिए Google इसे पसंद करता है। सिमेंटिक मॉडल (NLP), Google SERP विश्लेषण और प्रतियोगिता डेटा के साथ एडवांस कॉन्टेंट एडिटर। NeuronWriter यूज़र के इरादे को ध्यान में रखते हुए कॉन्टेंट की योजना बनाने, लिखने और ऑप्टिमाइज़ करने में तुम्हारी मदद करता है!. | :grey_question: |

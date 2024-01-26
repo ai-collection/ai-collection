@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1035" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1036" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise, ведущее приложение для обучения искусственному интеллекту для слушателей подкастов.</h4>
-    <p>С помощью Podwise вы можете учиться на структурированных знаниях и выборочно слушать интересующие вас главы. Эта функция позволяет оптимизировать учебный процесс и сосредоточиться на наиболее важном для вас контенте.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Podwise</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -74,6 +61,19 @@
 
 Сегодня от ваших самых смелых мечтаний вас отделяет всего один клик!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise, ведущее приложение для обучения искусственному интеллекту для слушателей подкастов.</h4>
+    <p>С помощью Podwise вы можете учиться на структурированных знаниях и выборочно слушать интересующие вас главы. Эта функция позволяет оптимизировать учебный процесс и сосредоточиться на наиболее важном для вас контенте.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Podwise</b></a>
     <br />
 </div>
 
@@ -1018,6 +1018,7 @@
 | [Friday AI](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Heyfriday — лучший писатель с искусственным интеллектом — меньше писателей, больше вдохновения — с пятницей. | Помощник по написанию текстов с искусственным интеллектом, который поможет вам быстро провести мозговой штурм и завершить свой блог, рекламу или творческую историю, экономя время и деньги. Оформите бесплатную пробную версию уже сегодня!. | :white_check_mark: |
 | [HIX.AI](https://www.thataicollection.com/redirect/hix.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Самый мощный, «все в одном» Второй пилот по написанию искусственного интеллекта. | IX.AI: ваш самый мощный и универсальный второй пилот, работающий с искусственным интеллектом. Создавайте высококачественные копии для рекламы, электронных писем, блогов и многого другого за считанные секунды с помощью HIX.AI, самого мощного универсального второго пилота для написания ИИ на рынке. | :white_check_mark: |
 | [Instascribe](https://www.thataicollection.com/redirect/instascribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instascribe — приложение на базе искусственного интеллекта, которое создает персонализированные подписи к вашим фотографиям в Instagram. | Просто выберите изображение, выберите из множества стилей подписи или определите свой собственный и настройте такие параметры, как тон голоса, язык и длина сообщения. Затем искусственный интеллект приложения генерирует уникальную подпись, которая соответствует вашему изображению и предпочтениям, оптимизируя процесс публикации в социальных сетях. | :grey_question: |
+| [Journalist AI](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Создавайте высококачественные статьи, которые автоматически публикуются в вашем блоге. | Мгновенно получайте сотни релевантных статей, уникальных и оптимизированных для вашей ниши. Многофункциональные статьи, привлекающие трафик Искусственный интеллект для журналистов создает хорошо структурированный контент, подходящий для вашего бизнеса и имеющий рейтинг в Google. | :grey_question: |
 | [LeadCopy](https://www.thataicollection.com/redirect/leadcopy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Используйте ChatGPT и GPT4 в Документах Google. Создавайте профессиональные маркетинговые материалы с высокой степенью скрытности, вебинары, подкасты и многое другое за считанные минуты. | ⚡ LeadCopy — это дополнение к Google Docs™, которое поможет ЛЮБОМУ стать «опытным копирайтером», используя возможности «GPT-4» и «ChatGPT»  Создавайте профессиональные маркетинговые материалы с высокой степенью скрытности, вебинары, подкасты и многое другое за считанные минуты. | :grey_question: |
 | [Moonbeam](https://www.thataicollection.com/redirect/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Moonbeam — больше никогда не пишите с нуля. | Начните свой новый отличный блог с помощью Moonbeam — вашего помощника по написанию полных текстов на основе искусственного интеллекта. Написание великолепного объемного контента не должно казаться рутинной работой. Moonbeam — единственный помощник по написанию текстов с искусственным интеллектом, специально обученный помогать вам писать эссе, истории, статьи, блоги и другой объемный контент. | :grey_question: |
 | [Neuron Writer](https://www.thataicollection.com/redirect/neuron-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | NeuronWriter — оптимизация контента с помощью #semanticSEO. | Оптимизируйте контент своего сайта поэтому Google это обожает. Продвинутый редактор контента с семантическими моделями (NLP), анализом поисковой выдачи Google и данными о конкуренции. NeuronWriter поможет вам планировать, писать и оптимизировать контент с учетом пожеланий пользователей!. | :grey_question: |

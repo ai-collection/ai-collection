@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1035" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1036" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -138,6 +138,22 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### Journalist AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-journalist-ai.webp" alt="Journalist AI">
+
+#### 生成可自动发布到您的博客的高质量文章
+[Visit](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+立即获取数百篇独一无二且针对您的利基市场进行了优化的相关文章。带来流量的功能丰富的文章
+记者人工智能制作的内容结构合理，适合您的业务，并且在谷歌上排名靠前。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Recast Studio
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-recast-studio.webp" alt="Recast Studio">
 
@@ -235,21 +251,6 @@ Marblism 通过一个提示符生成一个功能齐全的 Web 应用程序：
 免费的人工智能内容检测器提供了一种简单而准确的方法来检测来自 ChatGPT、GPT-4、GPT-3、GPT-2、LLama 和其他人工智能服务的人工智能生成的内容。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AI Poster Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-poster-generator.webp" alt="AI Poster Generator">
-
-#### AI 海报生成器！免费的人工智能海报生成器，它使用AI从提示词生成海报
-[Visit](https://www.thataicollection.com/redirect/ai-poster-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用我们的 AI 海报生成器制作引人注目的海报！无论您需要商业活动、音乐会、聚会还是任何其他场合的海报，我们的 AI 海报生成器都可以帮助您在几分钟内设计出具有专业外观的海报。只需输入文本，选择模板，自定义颜色和字体，即可打印出精美的海报，或在社交媒体上分享。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-poster-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4877,6 +4878,22 @@ Sitekick 允许你创建漂亮的登录页面。无需编码、设计或文案�
 
 ## 写作助理
 
+### Journalist AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-journalist-ai.webp" alt="Journalist AI">
+
+#### 生成可自动发布到您的博客的高质量文章
+[Visit](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+立即获取数百篇独一无二且针对您的利基市场进行了优化的相关文章。带来流量的功能丰富的文章
+记者人工智能制作的内容结构合理，适合您的业务，并且在谷歌上排名靠前。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Rytr
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rytr.webp" alt="Rytr">
 
@@ -4968,21 +4985,6 @@ IX.AI：您最强大的一体化人工智能写作副驾驶。使用 HIX.AI（�
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Quillbot Paraphraser
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quillbot-paraphraser.webp" alt="Quillbot Paraphraser">
-
-#### QuillBot 的 AI 驱动的释义工具将提高您的写作水平
-[Visit](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-您的话很重要，我们的释义工具旨在确保您使用正确的措辞。有两种免费模式和五种高级模式可供选择，您可以使用 QuillBot 的在线释义器以各种方式改写任何文本。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

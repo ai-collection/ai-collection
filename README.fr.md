@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1035" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1036" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -138,6 +138,22 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
 
+### Journalist AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-journalist-ai.webp" alt="Journalist AI">
+
+#### Génère des articles de haute qualité qui seront publiés automatiquement sur ton blog
+[Visit](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Accédez instantanément à des centaines d'articles pertinents, uniques et optimisés pour ton créneau. Des articles riches en fonctionnalités qui génèrent du trafic
+Journalist AI crée du contenu bien structuré, adapté à ton activité et classé sur Google.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Recast Studio
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-recast-studio.webp" alt="Recast Studio">
 
@@ -235,21 +251,6 @@ Au siège de Formulas, nous avons tiré parti de l'intelligence artificielle pou
 Le détecteur de contenu IA gratuit fournit un moyen simple et précis de détecter le contenu généré par l'IA à partir de ChatGPT, GPT-4, GPT-3, GPT-2, LLama et d'autres services d'IA.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Poster Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-poster-generator.webp" alt="AI Poster Generator">
-
-#### Générateur d'affiches IA ! Générateur d'affiches IA gratuit, qui génère des affiches à partir de mots rapides grâce à l'IA
-[Visit](https://www.thataicollection.com/redirect/ai-poster-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Créez des affiches accrocheuses grâce à notre générateur d'affiches basé sur l'IA ! Que tu aies besoin d'une affiche pour un événement professionnel, un concert, une fête ou toute autre occasion, notre générateur d'affiches basé sur l'IA peut t'aider à créer une affiche de qualité professionnelle en quelques minutes. Il suffit de saisir ton texte, de choisir un modèle, de personnaliser les couleurs et les polices, et tu auras une superbe affiche prête à être imprimée ou partagée sur les réseaux sociaux.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-poster-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4877,6 +4878,22 @@ Sitekick te permet de créer de magnifiques pages de destination. Sans avoir bes
 
 ## Assistante d'écriture
 
+### Journalist AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-journalist-ai.webp" alt="Journalist AI">
+
+#### Génère des articles de haute qualité qui seront publiés automatiquement sur ton blog
+[Visit](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Accédez instantanément à des centaines d'articles pertinents, uniques et optimisés pour ton créneau. Des articles riches en fonctionnalités qui génèrent du trafic
+Journalist AI crée du contenu bien structuré, adapté à ton activité et classé sur Google.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Rytr
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rytr.webp" alt="Rytr">
 
@@ -4968,21 +4985,6 @@ Outil de paraphrase avec 15 modes GRATUITS pour plus de 100 langues : reformule
 
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Quillbot Paraphraser
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quillbot-paraphraser.webp" alt="Quillbot Paraphraser">
-
-#### L'outil de paraphrase alimenté par l'IA de QuillBot améliorera votre écriture
-[Visit](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Vos mots comptent, et notre outil de paraphrase est conçu pour vous assurer d'utiliser les bons. Avec deux modes gratuits et cinq modes Premium au choix, vous pouvez utiliser le Paraphraser en ligne de QuillBot pour reformuler n'importe quel texte de différentes manières.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
