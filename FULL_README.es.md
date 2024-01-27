@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1036" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1038" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise, la principal aplicación de aprendizaje de IA para los oyentes de podcasts.</h4>
+    <p>Con Podwise, puedes aprender a partir de conocimientos estructurados y escuchar de forma selectiva los capítulos que despierten tu interés. Esta función te permite optimizar tu experiencia de aprendizaje y centrarte en el contenido que más te importa.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Podwise</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -61,19 +74,6 @@
 
 ¡Tus sueños más locos están a un clic de distancia hoy!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise, la principal aplicación de aprendizaje de IA para los oyentes de podcasts.</h4>
-    <p>Con Podwise, puedes aprender a partir de conocimientos estructurados y escuchar de forma selectiva los capítulos que despierten tu interés. Esta función te permite optimizar tu experiencia de aprendizaje y centrarte en el contenido que más te importa.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Podwise</b></a>
     <br />
 </div>
 
@@ -1197,6 +1197,7 @@
 | [Geniusreview](https://www.thataicollection.com/redirect/geniusreview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Geniusreview - Reseñas de rendimiento de IA de 360°. | Ahorre toneladas de horas usando GeniusReview para obtener respuestas personalizadas a sus preguntas de revisión de desempeño. | :grey_question: |
 | [Reviewz](https://www.thataicollection.com/redirect/reviewz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Reviewz.ai - Descubre los mejores productos. Curado y recomendado por AI. | Reviewz.ai es una novedad y está diseñado para demostrar las capacidades de la IA en el espacio de recomendaciones y productos de consumo. Todos los productos seleccionados y revisados ​​en este sitio son realizados en su totalidad por AI, y todas las reseñas están escritas por AI. | :white_check_mark: |
 | [Sona](https://www.thataicollection.com/redirect/sona?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Lea esto dos veces: libros que vale la pena leer dos veces. | Pasamos incontables horas buscando en Internet las mejores recomendaciones de libros de las personas que admiras. Nuestra base de datos está en constante crecimiento y se ha verificado la autenticidad de cada recomendación e incluye un enlace a la fuente. ¡Disfrutar!. | :grey_question: |
+| [storeChatGPT.ai](https://www.thataicollection.com/redirect/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Mejora la creatividad de la IA: envía y muestra tu GPTS personalizado. | StoreChatGPT.ai es una plataforma dinámica que ofrece una amplia gama de herramientas GPT personalizadas para diversas necesidades, como la escritura, la programación y la educación. Permite a los usuarios compartir y descubrir innovaciones impulsadas por la IA, lo que fomenta un espíritu comunitario entre los entusiastas y profesionales de la IA. | :grey_question: |
 
 
 <!--lint ignore double-link-->
@@ -1382,6 +1383,7 @@
 | [Ampifire](https://www.thataicollection.com/redirect/ampifire?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | El tráfico orgánico hecho por ti con la amplificación del contenido y la marca mejorada por la IA. | Consigue más tráfico de compradores segmentado y orgánico desde la mayor y mejor fuente de tráfico del mundo para que más personas compren tus productos. El método AmpiFire para hacer crecer tu marca funciona en 3 pasos: 1. Crea 2. Reutilizar 3. Distribuir: mejora la presencia y la reputación de tu marca en Internet y aumenta las conversiones en todas las fuentes de tráfico. | :grey_question: |
 | [BaruaAI](https://www.thataicollection.com/redirect/baruaai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Genere correos electrónicos de ventas de alta conversión en segundos. | Nuestra plataforma transforma los detalles y objetivos clave de su producto en prosa persuasiva, hecha a medida para enganchar a su audiencia y disparar las tasas de conversión. | :white_check_mark: |
 | [Beb AI](https://www.thataicollection.com/redirect/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Beb.Ai: Recibe un sinfín de contenido creativo para tu marca. | Las posibilidades son infinitas, no se requieren habilidades de diseño. ✓ Publicaciones atractivas en las redes sociales ✓ Anuncios de interrupción de patrones ✓ Campañas de marketing ✓ Materiales de marketing dinámicos ✓ Tarjetas navideñas ✓ ¡O simplemente POR DIVERSIÓN!. | :grey_question: |
+| [Branding 5](https://www.thataicollection.com/redirect/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Branding 5: posicionamiento de marca en solo 5 minutos. | Branding 5: posicionamiento de marca de primer nivel, información en una fracción del tiempo y el coste. Crea tu identidad de marca, haz marketing con facilidad. | :white_check_mark: |
 | [Briefly](https://www.thataicollection.com/redirect/briefly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Brevemente: la plataforma de información impulsada por IA. | Briefs de marketing que llegan al mejor trabajo creativo. Mejore su efectividad de marketing y reduzca el costo de los informes mal escritos. | :grey_question: |
 | [CastPush](https://www.thataicollection.com/redirect/castpush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Transmisión multicanal impulsada por IA. | Conéctese y transmita a todos sus canales de redes sociales con solo unos pocos clics usando CastPush. Nuestra mágica tecnología de inteligencia artificial optimiza su contenido para cada conexión individual, lo que garantiza el máximo alcance y participación. | :white_check_mark: |
 | [Clickable](https://www.thataicollection.com/redirect/clickable?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Genere anuncios en segundos con IA. | Anuncios hermosos, consistentes con la marca y altamente convertibles para todos los canales de marketing. No se necesita experiencia en diseño. | :grey_question: |
