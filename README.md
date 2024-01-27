@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1036" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1038" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -144,6 +144,38 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### storeChatGPT.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storechatgpt.ai.webp" alt="storeChatGPT.ai">
+
+#### Elevate AI Creativity: Submit and Showcase Your Custom GPTS
+[Visit](https://www.thataicollection.com/redirect/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StoreChatGPT.ai is a dynamic platform offering a diverse range of custom GPT tools for various needs like writing, programming, and education. It enables users to share and discover AI-driven innovations, fostering a community spirit among AI enthusiasts and professionals.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Branding 5
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-branding-5.webp" alt="Branding 5">
+
+#### Branding 5 - Brandpositioning in just 5 minutes
+
+[Visit](https://www.thataicollection.com/redirect/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Branding 5 - Top-tier brand positioning, insights in a fraction of the time and cost. Create your brand identity, do marketing with ease
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Journalist AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-journalist-ai.webp" alt="Journalist AI">
 
@@ -227,36 +259,6 @@ Marblism generates a fully-functional web application from a single prompt:
 5. Clone the Github repos and you're ready to go! 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/marblism?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### FormulasHQ
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-formulashq.webp" alt="FormulasHQ">
-
-#### Master Complex Spreadsheet Formulas and Scripted Functions
-[Visit](https://www.thataicollection.com/redirect/formulashq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-At Formulas HQ, we’ve harnessed the brilliance of AI to turbocharge your Spreadsheet mastery. Say goodbye to the days of grappling with complex formulas, VBA code, and scripts. We’re here to make your work smarter, not harder.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/formulashq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### GPT-Zero
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gpt-zero.webp" alt="GPT-Zero">
-
-#### GPT Zero - Free AI Content Detector for ChatGPT, GPT-4, & More
-[Visit](https://www.thataicollection.com/redirect/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Free AI content detector provides a simple and accurate way to detect AI-generated content from ChatGPT, GPT-4, GPT-3, GPT-2, LLaMA, and other AI services.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3636,6 +3638,21 @@ A natural language processing tool and text generator. It takes a set of words a
 
 
 
+### storeChatGPT.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storechatgpt.ai.webp" alt="storeChatGPT.ai">
+
+#### Elevate AI Creativity: Submit and Showcase Your Custom GPTS
+[Visit](https://www.thataicollection.com/redirect/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StoreChatGPT.ai is a dynamic platform offering a diverse range of custom GPT tools for various needs like writing, programming, and education. It enables users to share and discover AI-driven innovations, fostering a community spirit among AI enthusiasts and professionals.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 
 [See All 🗳 Reviews & Recommendations Applications on AI Collection](https://www.thataicollection.com/en/categories/reviews-and-recommendations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -3696,19 +3713,21 @@ Get great copy that sells. Copy.ai is an AI-powered copywriter that generates hi
 
 
 
-### Remagine AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remagine-ai.webp" alt="Remagine AI">
+### Branding 5
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-branding-5.webp" alt="Branding 5">
 
-#### Remagine AI is a content writer tool equipped with 200+ AI templates.
-[Visit](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Branding 5 - Brandpositioning in just 5 minutes
 
-Remagine AI offers a vast library of AI templates and tools, enabling businesses to effortlessly generate top-quality marketing content within seconds. From blog posts and social media updates to ads, youtube scripts, emails, job postings, and e-commerce catalogues, Remagine AI covers it all.
+[Visit](https://www.thataicollection.com/redirect/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Branding 5 - Top-tier brand positioning, insights in a fraction of the time and cost. Create your brand identity, do marketing with ease
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-
+<br />
 
 
 ### Beb AI

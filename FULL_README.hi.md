@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1036" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1038" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
+    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -61,19 +74,6 @@
 
 तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
-    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -620,6 +620,7 @@
 | [Ampifire](https://www.thataicollection.com/redirect/ampifire?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सामग्री और ब्रांड प्रवर्धन के साथ तुम्हारे लिए ऑर्गेनिक ट्रैफ़िक किया गया है, जिसे A.I. ने बेहतर बनाया है. | दुनिया के सबसे बड़े और सबसे अच्छे ट्रैफ़िक स्रोत से ऑर्गेनिक लक्षित खरीदार ट्रैफ़िक प्राप्त करें, ताकि ज़्यादा लोग तुम्हारी चीज़़ें ख़रीदें। तुम्हारे ब्रांड को आगे बढ़ाने का AmpiFire तरीका 3 चरणों में काम करता है: 1। 2 बनाएं। पुनरुत्पादन 3। वितरण करें: जिससे ऑनलाइन तुम्हारे ब्रांड की उपस्थिति और प्रतिष्ठा में सुधार होता है और तुम्हारे सभी ट्रैफ़िक स्रोतों में रूपांतरण बढ़ता है।. | :grey_question: |
 | [BaruaAI](https://www.thataicollection.com/redirect/baruaai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सेकेंड में उच्च परिवर्तित बिक्री ईमेल उत्पन्न करें. | हमारा मंच आपके प्रमुख उत्पाद विवरण और उद्देश्यों को प्रेरक गद्य में बदल देता है, जो आपके दर्शकों को आकर्षित करने और रूपांतरण दरों को आसमान छूने के लिए तैयार किया गया है।. | :white_check_mark: |
 | [Beb AI](https://www.thataicollection.com/redirect/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Beb.Ai - अपने ब्रांड के लिए अंतहीन रचनात्मक सामग्री पाओ. | संभावनाएं अनंत हैं, किसी डिज़ाइन कौशल की आवश्यकता नहीं है। ✓ दिलचस्प सोशल मीडिया पोस्ट ✓ पैटर्न इंटरप्ट विज्ञापन ✓ मार्केटिंग कैंपेन ✓ डायनामिक मार्केटिंग सामग्रियां ✓ हॉलिडे कार्ड्स ✓ या सिर्फ़ मनोरंजन के लिए!. | :grey_question: |
+| [Branding 5](https://www.thataicollection.com/redirect/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ब्रांडिंग 5 - सिर्फ़ 5 मिनट में ब्रैंड पोजिशनिंग. | ब्रांडिंग 5 - टॉप टियर ब्रांड पोजिशनिंग, बहुत कम समय और लागत के बारे में जानकारी। अपनी ब्रांड पहचान बनाएं, आसानी से मार्केटिंग करें. | :white_check_mark: |
 | [Briefly](https://www.thataicollection.com/redirect/briefly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | संक्षेप में - एआई पावर्ड ब्रीफिंग प्लेटफॉर्म. | मार्केटिंग ब्रीफ्स जो सर्वोत्तम रचनात्मक कार्य को प्राप्त करते हैं। अपनी मार्केटिंग प्रभावशीलता में सुधार करें और बुरी तरह से लिखे गए ब्रीफ की लागत कम करें।. | :grey_question: |
 | [CastPush](https://www.thataicollection.com/redirect/castpush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-संचालित मल्टी-चैनल प्रसारण. | CastPush का उपयोग करके कुछ ही क्लिक के साथ अपने सभी सोशल मीडिया चैनलों से कनेक्ट और प्रसारित करें। हमारी जादुई एआई तकनीक अधिकतम पहुंच और जुड़ाव सुनिश्चित करते हुए प्रत्येक व्यक्तिगत कनेक्शन के लिए आपकी सामग्री का अनुकूलन करती है।. | :white_check_mark: |
 | [Clickable](https://www.thataicollection.com/redirect/clickable?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ सेकंड में विज्ञापन उत्पन्न करें. | सभी मार्केटिंग चैनलों के लिए सुंदर, ब्रांड-संगत और अत्यधिक रूपांतरित विज्ञापन। किसी डिज़ाइन अनुभव की आवश्यकता नहीं है।. | :grey_question: |
@@ -1348,6 +1349,7 @@
 | [Geniusreview](https://www.thataicollection.com/redirect/geniusreview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Geniusreview - 360° AI प्रदर्शन समीक्षाएं. | अपने प्रदर्शन समीक्षा प्रश्नों के अनुरूप उत्तर प्राप्त करने के लिए GeniusReview का उपयोग करके घंटों की बचत करें।. | :grey_question: |
 | [Reviewz](https://www.thataicollection.com/redirect/reviewz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Reviewz.ai - डिस्कवर ऑल द बेस्ट प्रोडक्ट्स। एआई द्वारा क्यूरेट और अनुशंसित।. | Reviewz.ai एक नवीनता है और इसे उपभोक्ता उत्पाद और अनुशंसा स्थान में AI की क्षमताओं को प्रदर्शित करने के लिए डिज़ाइन किया गया है। इस साइट पर चयनित और समीक्षा किए गए सभी उत्पाद पूरी तरह से एआई द्वारा किए गए हैं, और सभी समीक्षाएं एआई द्वारा लिखी गई हैं।. | :white_check_mark: |
 | [Sona](https://www.thataicollection.com/redirect/sona?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इसे दो बार पढ़ें - दो बार पढ़ने लायक किताबें।. | जिन लोगों की आप प्रशंसा करते हैं, उनकी सर्वोत्तम पुस्तक अनुशंसाओं के लिए हम इंटरनेट पर अनगिनत घंटे खंगालते हैं। हमारा डेटाबेस लगातार बढ़ रहा है, और हर एक सिफारिश को प्रामाणिकता के लिए सत्यापित किया गया है और इसमें स्रोत के लिए एक लिंक शामिल है। आनंद लेना!. | :grey_question: |
+| [storeChatGPT.ai](https://www.thataicollection.com/redirect/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एलिवेट एआई क्रिएटिविटी: सबमिट करें और अपना कस्टम जीपीटीएस दिखाएं. | StoreChatGPT.ai एक डायनामिक प्लेटफ़ॉर्म है, जो लेखन, प्रोग्रामिंग और शिक्षा जैसी विभिन्न ज़रूरतों के लिए विविध रेंज के कस्टम GPT टूल पेश करता है। यह यूज़र AI द्वारा संचालित नवोन्मेषों को शेयर करने और खोजने में सक्षम बनाता है, जिससे AI के प्रति उत्साही और पेशेवरों के बीच सामुदायिक भावना को बढ़ावा मिलता है।. | :grey_question: |
 
 
 <!--lint ignore double-link-->

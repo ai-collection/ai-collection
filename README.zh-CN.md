@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1036" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1038" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
+    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -61,19 +74,6 @@
 
 今天只需点击一下即可实现您最疯狂的梦想！</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
-    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
     <br />
 </div>
 
@@ -137,6 +137,38 @@
 - 💰 [销售与市场营销](#销售与市场营销)
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
+
+### storeChatGPT.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storechatgpt.ai.webp" alt="storeChatGPT.ai">
+
+#### 提升 AI 创造力：提交并展示您的自定义 GPTS
+[Visit](https://www.thataicollection.com/redirect/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StoreChatGPT.ai 是一个动态平台，提供各种自定义 GPT 工具，以满足写作、编程和教育等各种需求。它使用户能够分享和发现人工智能驱动的创新，在人工智能爱好者和专业人士中培养社区精神。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Branding 5
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-branding-5.webp" alt="Branding 5">
+
+#### 品牌推广 5-只需 5 分钟即可完成品牌定位
+
+[Visit](https://www.thataicollection.com/redirect/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+品牌推广 5-顶级品牌定位，在很短的时间和成本内获得洞察力。创建您的品牌标识，轻松进行营销
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 
 ### Journalist AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-journalist-ai.webp" alt="Journalist AI">
@@ -221,36 +253,6 @@ Marblism 通过一个提示符生成一个功能齐全的 Web 应用程序：
 5。克隆 Github 存储库然后你就可以开始了！ 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/marblism?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### FormulasHQ
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-formulashq.webp" alt="FormulasHQ">
-
-#### 掌握复杂的电子表格公式和脚本函数
-[Visit](https://www.thataicollection.com/redirect/formulashq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在方程式总部，我们利用人工智能的精彩来增强你对电子表格的掌握程度。告别那些努力处理复杂公式、VBA 代码和脚本的日子。我们来这里是为了让你的工作更智能，而不是更难。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/formulashq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### GPT-Zero
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gpt-zero.webp" alt="GPT-Zero">
-
-#### GPT Zero-适用于 ChatGPT、GPT-4 等的免费 AI 内容检测器
-[Visit](https://www.thataicollection.com/redirect/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-免费的人工智能内容检测器提供了一种简单而准确的方法来检测来自 ChatGPT、GPT-4、GPT-3、GPT-2、LLama 和其他人工智能服务的人工智能生成的内容。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3630,6 +3632,21 @@ Reviewz.ai 是一个新奇事物，旨在展示 AI 在消费品和推荐领域�
 <br />
 
 
+### storeChatGPT.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storechatgpt.ai.webp" alt="storeChatGPT.ai">
+
+#### 提升 AI 创造力：提交并展示您的自定义 GPTS
+[Visit](https://www.thataicollection.com/redirect/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StoreChatGPT.ai 是一个动态平台，提供各种自定义 GPT 工具，以满足写作、编程和教育等各种需求。它使用户能够分享和发现人工智能驱动的创新，在人工智能爱好者和专业人士中培养社区精神。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 
 [See All 🗳 评论和建议 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/reviews-and-recommendations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -3690,15 +3707,17 @@ Tabula是一个人工智能端到端分析平台，使营销和销售经理能�
 <br />
 
 
-### Remagine AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remagine-ai.webp" alt="Remagine AI">
+### Branding 5
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-branding-5.webp" alt="Branding 5">
 
-#### Remagine AI 是一款内容编写工具，配备 200 多个人工智能模板。
-[Visit](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 品牌推广 5-只需 5 分钟即可完成品牌定位
 
-Remagine AI 提供了庞大的 AI 模板和工具库，使企业能够在几秒钟内轻松生成高质量的营销内容。从博客文章和社交媒体更新到广告、YouTube脚本、电子邮件、招聘信息以及电子商务目录，Remagine AI涵盖了所有内容。
+[Visit](https://www.thataicollection.com/redirect/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+品牌推广 5-顶级品牌定位，在很短的时间和成本内获得洞察力。创建您的品牌标识，轻松进行营销
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

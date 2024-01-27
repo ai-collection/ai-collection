@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1036" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1038" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise, la principal aplicación de aprendizaje de IA para los oyentes de podcasts.</h4>
+    <p>Con Podwise, puedes aprender a partir de conocimientos estructurados y escuchar de forma selectiva los capítulos que despierten tu interés. Esta función te permite optimizar tu experiencia de aprendizaje y centrarte en el contenido que más te importa.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Podwise</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -61,19 +74,6 @@
 
 ¡Tus sueños más locos están a un clic de distancia hoy!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise, la principal aplicación de aprendizaje de IA para los oyentes de podcasts.</h4>
-    <p>Con Podwise, puedes aprender a partir de conocimientos estructurados y escuchar de forma selectiva los capítulos que despierten tu interés. Esta función te permite optimizar tu experiencia de aprendizaje y centrarte en el contenido que más te importa.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Podwise</b></a>
     <br />
 </div>
 
@@ -137,6 +137,38 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 💰 [Ventas Y Marketing](#ventas-y-marketing)
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
+
+### storeChatGPT.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storechatgpt.ai.webp" alt="storeChatGPT.ai">
+
+#### Mejora la creatividad de la IA: envía y muestra tu GPTS personalizado
+[Visit](https://www.thataicollection.com/redirect/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StoreChatGPT.ai es una plataforma dinámica que ofrece una amplia gama de herramientas GPT personalizadas para diversas necesidades, como la escritura, la programación y la educación. Permite a los usuarios compartir y descubrir innovaciones impulsadas por la IA, lo que fomenta un espíritu comunitario entre los entusiastas y profesionales de la IA.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Branding 5
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-branding-5.webp" alt="Branding 5">
+
+#### Branding 5: posicionamiento de marca en solo 5 minutos
+
+[Visit](https://www.thataicollection.com/redirect/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Branding 5: posicionamiento de marca de primer nivel, información en una fracción del tiempo y el coste. Crea tu identidad de marca, haz marketing con facilidad
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Journalist AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-journalist-ai.webp" alt="Journalist AI">
@@ -221,36 +253,6 @@ Marblism genera una aplicación web totalmente funcional a partir de un solo men
 5. Clona los repositorios de Github y ¡listo! 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/marblism?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### FormulasHQ
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-formulashq.webp" alt="FormulasHQ">
-
-#### Domina las fórmulas de hojas de cálculo complejas y las funciones con guiones
-[Visit](https://www.thataicollection.com/redirect/formulashq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-En la sede de Formulas, hemos aprovechado la brillantez de la IA para impulsar tu dominio de las hojas de cálculo. Di adiós a los días en los que se lidiaba con fórmulas, códigos de VBA y guiones complejos. Estamos aquí para hacer que tu trabajo sea más inteligente, no más difícil.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/formulashq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### GPT-Zero
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gpt-zero.webp" alt="GPT-Zero">
-
-#### GPT Zero: detector de contenido de IA gratuito para ChatGPT, GPT-4 y más
-[Visit](https://www.thataicollection.com/redirect/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-El detector de contenido de IA gratuito proporciona una forma sencilla y precisa de detectar el contenido generado por la IA en ChatGPT, GPT-4, GPT-3, GPT-2, LLama y otros servicios de IA.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3629,6 +3631,21 @@ Una herramienta de procesamiento de lenguaje natural y generador de texto. Toma 
 
 
 
+### storeChatGPT.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storechatgpt.ai.webp" alt="storeChatGPT.ai">
+
+#### Mejora la creatividad de la IA: envía y muestra tu GPTS personalizado
+[Visit](https://www.thataicollection.com/redirect/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StoreChatGPT.ai es una plataforma dinámica que ofrece una amplia gama de herramientas GPT personalizadas para diversas necesidades, como la escritura, la programación y la educación. Permite a los usuarios compartir y descubrir innovaciones impulsadas por la IA, lo que fomenta un espíritu comunitario entre los entusiastas y profesionales de la IA.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 
 [See All 🗳 Reseñas y recomendaciones Applications on AI Collection](https://www.thataicollection.com/es/categories/reviews-and-recommendations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -3689,15 +3706,17 @@ Obtenga una excelente copia que se venda. Copy.ai es un redactor publicitario im
 
 
 
-### Remagine AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remagine-ai.webp" alt="Remagine AI">
+### Branding 5
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-branding-5.webp" alt="Branding 5">
 
-#### Remagine AI es una herramienta de escritura de contenido equipada con más de 200 plantillas de IA.
-[Visit](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Branding 5: posicionamiento de marca en solo 5 minutos
 
-Remagine AI ofrece una amplia biblioteca de plantillas y herramientas de IA que permiten a las empresas generar sin esfuerzo contenido de marketing de alta calidad en cuestión de segundos. Desde publicaciones de blog y actualizaciones en redes sociales hasta anuncios, guiones de YouTube, correos electrónicos, ofertas de trabajo y catálogos de comercio electrónico, Remagine AI lo cubre todo.
+[Visit](https://www.thataicollection.com/redirect/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Branding 5: posicionamiento de marca de primer nivel, información en una fracción del tiempo y el coste. Crea tu identidad de marca, haz marketing con facilidad
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

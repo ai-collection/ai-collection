@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1036" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1038" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -138,6 +138,38 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
 
+### storeChatGPT.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storechatgpt.ai.webp" alt="storeChatGPT.ai">
+
+#### Améliorez la créativité de l'IA : soumettez et présentez ton GPTS personnalisé
+[Visit](https://www.thataicollection.com/redirect/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StoreChatGPT.ai est une plateforme dynamique proposant une gamme variée d'outils GPT personnalisés répondant à des besoins variés tels que l'écriture, la programmation et l'enseignement. Il permet aux utilisateurs de partager et de découvrir des innovations basées sur l'IA, favorisant ainsi un esprit communautaire parmi les passionnés et les professionnels de l'IA.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Branding 5
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-branding-5.webp" alt="Branding 5">
+
+#### Branding 5 - Positionnement de la marque en 5 minutes
+
+[Visit](https://www.thataicollection.com/redirect/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Branding 5 - Positionnement de marque de premier plan, informations en un rien de temps et à moindre coût. Crée l'identité de ta marque, fais du marketing en toute simplicité
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Journalist AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-journalist-ai.webp" alt="Journalist AI">
 
@@ -221,36 +253,6 @@ Marblism génère une application Web entièrement fonctionnelle à partir d'une
 5. Clonez les dépôts Github et tu es prête à partir ! 
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/marblism?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### FormulasHQ
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-formulashq.webp" alt="FormulasHQ">
-
-#### Maîtrisez les formules complexes des feuilles de calcul et les fonctions scriptées
-[Visit](https://www.thataicollection.com/redirect/formulashq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Au siège de Formulas, nous avons tiré parti de l'intelligence artificielle pour améliorer ta maîtrise des feuilles de calcul. Dis adieu à l'époque où j'étais confrontée à des formules complexes, à du code VBA et à des scripts. Nous sommes là pour rendre ton travail plus intelligent, et non pour le compliquer.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/formulashq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### GPT-Zero
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gpt-zero.webp" alt="GPT-Zero">
-
-#### GPT Zero — Détecteur de contenu basé sur l'IA gratuit pour ChatGPT, GPT-4 et plus
-[Visit](https://www.thataicollection.com/redirect/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Le détecteur de contenu IA gratuit fournit un moyen simple et précis de détecter le contenu généré par l'IA à partir de ChatGPT, GPT-4, GPT-3, GPT-2, LLama et d'autres services d'IA.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3630,6 +3632,21 @@ Un outil de traitement du langage naturel et un générateur de texte. Il prend 
 
 
 
+### storeChatGPT.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storechatgpt.ai.webp" alt="storeChatGPT.ai">
+
+#### Améliorez la créativité de l'IA : soumettez et présentez ton GPTS personnalisé
+[Visit](https://www.thataicollection.com/redirect/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StoreChatGPT.ai est une plateforme dynamique proposant une gamme variée d'outils GPT personnalisés répondant à des besoins variés tels que l'écriture, la programmation et l'enseignement. Il permet aux utilisateurs de partager et de découvrir des innovations basées sur l'IA, favorisant ainsi un esprit communautaire parmi les passionnés et les professionnels de l'IA.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 
 [See All 🗳 Avis et recommandations Applications on AI Collection](https://www.thataicollection.com/fr/categories/reviews-and-recommendations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -3690,15 +3707,17 @@ Obtenez une superbe copie qui se vend. Copy.ai est un rédacteur basé sur l'IA 
 
 
 
-### Remagine AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remagine-ai.webp" alt="Remagine AI">
+### Branding 5
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-branding-5.webp" alt="Branding 5">
 
-#### Remagine AI est un outil de rédaction de contenu doté de plus de 200 modèles d'IA.
-[Visit](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Branding 5 - Positionnement de la marque en 5 minutes
 
-Remagine AI propose une vaste bibliothèque de modèles et d'outils d'IA, qui permettent aux entreprises de générer facilement du contenu marketing de haute qualité en quelques secondes. Des articles de blog aux mises à jour sur les réseaux sociaux, en passant par les publicités, les scripts YouTube, les e-mails, les offres d'emploi et les catalogues de commerce électronique, Remagine AI couvre tout.
+[Visit](https://www.thataicollection.com/redirect/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Branding 5 - Positionnement de marque de premier plan, informations en un rien de temps et à moindre coût. Crée l'identité de ta marque, fais du marketing en toute simplicité
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1036" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1038" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
+    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -61,19 +74,6 @@
 
 तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
-    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -137,6 +137,38 @@
 - 📊 [स्लाइड और प्रस्तुतियाँ](#स्लाइड-और-प्रस्तुतियाँ)
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
+
+### storeChatGPT.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storechatgpt.ai.webp" alt="storeChatGPT.ai">
+
+#### एलिवेट एआई क्रिएटिविटी: सबमिट करें और अपना कस्टम जीपीटीएस दिखाएं
+[Visit](https://www.thataicollection.com/redirect/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StoreChatGPT.ai एक डायनामिक प्लेटफ़ॉर्म है, जो लेखन, प्रोग्रामिंग और शिक्षा जैसी विभिन्न ज़रूरतों के लिए विविध रेंज के कस्टम GPT टूल पेश करता है। यह यूज़र AI द्वारा संचालित नवोन्मेषों को शेयर करने और खोजने में सक्षम बनाता है, जिससे AI के प्रति उत्साही और पेशेवरों के बीच सामुदायिक भावना को बढ़ावा मिलता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Branding 5
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-branding-5.webp" alt="Branding 5">
+
+#### ब्रांडिंग 5 - सिर्फ़ 5 मिनट में ब्रैंड पोजिशनिंग
+
+[Visit](https://www.thataicollection.com/redirect/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ब्रांडिंग 5 - टॉप टियर ब्रांड पोजिशनिंग, बहुत कम समय और लागत के बारे में जानकारी। अपनी ब्रांड पहचान बनाएं, आसानी से मार्केटिंग करें
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 
 ### Journalist AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-journalist-ai.webp" alt="Journalist AI">
@@ -221,36 +253,6 @@ iFoto तुम्हारे प्रॉडक्ट की फ़ोटो�
 5। Github रेपो को क्लोन करें और तुम जाने के लिए तैयार हो! 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/marblism?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### FormulasHQ
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-formulashq.webp" alt="FormulasHQ">
-
-#### मास्टर कॉम्प्लेक्स स्प्रेडशीट फ़ॉर्मूला और स्क्रिप्टेड फ़ंक्शंस
-[Visit](https://www.thataicollection.com/redirect/formulashq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-फ़ॉर्मूला मुख्यालय में, हमने तुम्हारी स्प्रैडशीट में महारत हासिल करने के लिए टर्बोचार्ज करने के लिए AI की प्रतिभा का इस्तेमाल किया है। जटिल फ़ॉर्मूलों, VBA कोड और स्क्रिप्ट्स से जूझने के दिनों को अलविदा कह दो। हम तुम्हारे काम को बेहतर बनाने के लिए हैं, न कि मुश्किल बनाने के लिए।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/formulashq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### GPT-Zero
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gpt-zero.webp" alt="GPT-Zero">
-
-#### जीपीटी ज़ीरो - चैटजीपीटी, जीपीटी-4 और बहुत कुछ के लिए मुफ़्त AI कॉन्टेंट डिटेक्टर
-[Visit](https://www.thataicollection.com/redirect/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-मुफ़्त AI कॉन्टेंट डिटेक्टर ChatGPT, GPT-4, GPT-3, GPT-2, LLaMA और दूसरी AI सेवाओं से AI-जनरेट किए गए कॉन्टेंट का पता लगाने का एक सरल और सटीक तरीका देता है।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3630,6 +3632,21 @@ Reviewz.ai एक नवीनता है और इसे उपभोक्�
 
 
 
+### storeChatGPT.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storechatgpt.ai.webp" alt="storeChatGPT.ai">
+
+#### एलिवेट एआई क्रिएटिविटी: सबमिट करें और अपना कस्टम जीपीटीएस दिखाएं
+[Visit](https://www.thataicollection.com/redirect/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StoreChatGPT.ai एक डायनामिक प्लेटफ़ॉर्म है, जो लेखन, प्रोग्रामिंग और शिक्षा जैसी विभिन्न ज़रूरतों के लिए विविध रेंज के कस्टम GPT टूल पेश करता है। यह यूज़र AI द्वारा संचालित नवोन्मेषों को शेयर करने और खोजने में सक्षम बनाता है, जिससे AI के प्रति उत्साही और पेशेवरों के बीच सामुदायिक भावना को बढ़ावा मिलता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 
 [See All 🗳 समीक्षा और अनुशंसाएँ Applications on AI Collection](https://www.thataicollection.com/en/categories/reviews-and-recommendations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -3690,19 +3707,21 @@ Reviewz.ai एक नवीनता है और इसे उपभोक्�
 
 
 
-### Remagine AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remagine-ai.webp" alt="Remagine AI">
+### Branding 5
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-branding-5.webp" alt="Branding 5">
 
-#### रीमैगीन एआई एक कंटेंट राइटर टूल है, जो 200+ एआई टेम्प्लेट से लैस है।
-[Visit](https://www.thataicollection.com/redirect/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### ब्रांडिंग 5 - सिर्फ़ 5 मिनट में ब्रैंड पोजिशनिंग
 
-Remagine AI, AI टेम्प्लेट और टूल की एक विशाल लाइब्रेरी प्रदान करता है, जिससे बिज़नेस कुछ ही सेकंड में आसानी से उच्च गुणवत्ता वाली मार्केटिंग सामग्री जेनरेट कर सकते हैं। ब्लॉग पोस्ट और सोशल मीडिया अपडेट से लेकर विज्ञापन, यूट्यूब स्क्रिप्ट, ईमेल, जॉब पोस्टिंग और ई-कॉमर्स कैटलॉग तक, Remagine AI में यह सब शामिल है।
+[Visit](https://www.thataicollection.com/redirect/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/remagine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+ब्रांडिंग 5 - टॉप टियर ब्रांड पोजिशनिंग, बहुत कम समय और लागत के बारे में जानकारी। अपनी ब्रांड पहचान बनाएं, आसानी से मार्केटिंग करें
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-
+<br />
 
 
 ### Beb AI
