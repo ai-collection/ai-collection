@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1038" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1040" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
-    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -74,6 +61,19 @@
 
 今天只需点击一下即可实现您最疯狂的梦想！</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
+    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
     <br />
 </div>
 
@@ -590,6 +590,7 @@
 | [Interior AI Designs](https://www.thataicollection.com/redirect/interior-ai-designs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 室内人工智能设计-使用人工智能为每个人生成梦想房间。. | 拍张房间的照片，看看房间在不同主题下的样子。今天就改造你的房间。 通过我们精选的特色主题，探索设计可能性的世界。每个主题都经过精心设计，旨在改变您的空间。. | :white_check_mark: |
 | [Makeit.ai](https://www.thataicollection.com/redirect/makeit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 生成式设计 - 建筑设计软件 - Maket. | 我们的生成设计软件使建筑师、建筑商和开发人员能够立即快速生成数以千计的建筑计划。. | :grey_question: |
 | [Oda Studio](https://www.thataicollection.com/redirect/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Oda Moodboard • Oda Studio——选择你的风格和颜色，用人工智能在几秒钟内定制你的家。. | 选择你的风格和颜色，使用 AI 在几秒钟内自定义你的家-开始设计你的家或使用样板吧。. | :white_check_mark: |
+| [Room DesAigner](https://www.thataicollection.com/redirect/room-desaigner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 RoomDesaigner 释放创造力 独特的家居设计灵感无穷无尽。探索色彩、家具和装饰，在每个角落反映您的个人风格。. | 为什么 Room Desaigner？ 用时尚的家具为您的房产增光添彩。 设想在房产参观期间住在空间里。 查看装修后可能发生的房间改造。 探索富有创意和鼓舞人心的装饰创意。. | :white_check_mark: |
 | [Room Reinvented](https://www.thataicollection.com/redirect/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 Room Reinvented 轻松改造您的房间！上传一张照片，让 AI 创作 30 多种令人惊叹的室内风格。立即提升您的空间。. | 毫不费力地改造您的房间。只需上传现有空间的照片，让 Room Reinvented 发挥其魔力。探索从极简主义到巴洛克风格的 30 多种独特风格，并尝试超过 20 种令人惊艳的调色板。将您的想法整理在便捷的画册中，以保持您的愿景井井有条和新鲜。. | :grey_question: |
 
 
@@ -932,6 +933,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [Afforai](https://www.thataicollection.com/redirect/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 你的 AI 阅读副驾驶。文本分析、研究和文档搜索的必备工具. | Afforai是一款人工智能聊天机器人，可以搜索、汇总和翻译来自多个来源的信息，以进行值得信赖的研究。立即与您的文档聊天，提取与您的目标相关的关键发现！. | :white_check_mark: |
+| [Documind AI - Chat with PDF](https://www.thataicollection.com/redirect/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Documind AI-使用 AI 和 GPT4 与 PDF 聊天. | Documind 是一款使用 pdf 进行聊天的工具，它允许用户从 PDF 中提问。它比现有的通用工具要好。  我们的显著特点是- -批量上传 PDF 文档。 -将文件整理到文件夹中 -查看引文 -生成长 PDF 的简短摘要 -在您的网站上免费嵌入聊天机器人 -用户可以生成可共享的链接并与队友和朋友分享他们的机器人. | :white_check_mark: |
 | [Elicit](https://www.thataicollection.com/redirect/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 引出：人工智能研究助理. | Elicit 使用机器学习来帮助您进行研究：查找论文、提取关键声明、总结、集思广益等等。. | :grey_question: |
 | [Explainpaper](https://www.thataicollection.com/redirect/explainpaper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 阅读研究论文的最快方式. | 上传一篇论文，突出令人困惑的文本，获得解释。我们使研究论文易于阅读。. | :white_check_mark: |
 | [Jenni](https://www.thataicollection.com/redirect/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Jenni-用于撰写论文、研究论文等的人工智能！. | Jenni 是你在学术旅程中处理所有事物的 AI 助手。我们专门开发可帮助您撰写论文、研究论文等的人工智能！. | :white_check_mark: |
@@ -1347,6 +1349,7 @@
 | [Vidnoz Flex](https://www.thataicollection.com/redirect/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 强有力地创建、共享、管理和跟踪您的视频。. | Vidnoz Flex 是 Vidnoz 推出的一款简单但功能强大的视频工具，它集视频创作、个性化、共享和跟踪功能于一身。它将完全提高您在日常工作中制作和推广视频的效率，并带来最显著的效果。. | :white_check_mark: |
 | [Vidyo](https://www.thataicollection.com/redirect/vidyo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 基于 AI 的内容再利用 - vidyo.ai. | 使用 AI 从您的视频创建适合社交的短片 ✨ 节省 90% 的时间和精力. | :grey_question: |
 | [Waymark](https://www.thataicollection.com/redirect/waymark?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过令人难以置信的简单视频促进本地销售。. | 当电视、CTV 和数字广告如此轻松时，可能性是无限的。高影响力的广告现在向所有人开放，Waymark。. | :grey_question: |
+| [Winxvideo AI](https://www.thataicollection.com/redirect/winxvideo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Winxvideo AI-视频和图像增强器。升级、稳定、转换、编辑、录制视频. | Winxvideo AI是WinX HD Video Converter Deluxe的更名和升级版本，是一款一站式的人工智能视频工具包，可将视频/图像从低质量升级到4K，稳定不稳定的视频，并将fps从24提高到60/120。使用 GPU 加速转换、压缩、编辑视频和录制屏幕。. | :white_check_mark: |
 | [Wisecut](https://www.thataicollection.com/redirect/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Wisecut-使用 AI 自动剪切和编辑视频. | Wisecut是一款基于语音识别的自动视频编辑器。使用 Wisecut，您可以轻松地将长篇有声视频转换为带有音乐、字幕和自动重构的简短而有影响力的片段。这些短片非常适合YouTube短片、抖音、Instagram Reels和社交广告等平台。. | :white_check_mark: |
 | [Wzrd.ai](https://www.thataicollection.com/redirect/wzrd.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 体验您的声音. | WZRD 通过人工智能支持的沉浸式视频增强您的音频. | :grey_question: |
 | [Yepic AI](https://www.thataicollection.com/redirect/yepic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 你的 AI 视频工具包-创建、配音和个性化视频. | 视频的未来是人工智能生成、超本地化和超个性化。借助Yepic AI，任何人都可以在几分钟内创建和翻译会说话的头脑风格的视频，而无需昂贵的摄像机、演员或工作室。. | :white_check_mark: |

@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1038" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1040" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
-    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -74,6 +61,19 @@
 
 तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
+    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -155,6 +155,7 @@
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
 | [Afforai](https://www.thataicollection.com/redirect/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | तुम्हारा AI रीडिंग कोपायलट। टेक्स्ट विश्लेषण, शोध और दस्तावेज़ खोजने के लिए ज़रूरी टूल. | Afforai एक AI चैटबॉट है जो भरोसेमंद शोध करने के लिए कई स्रोतों से जानकारी खोजता है, सारांशित करता है और उसका अनुवाद करता है। अपने दस्तावेज़ों के साथ बात करें और आज ही अपने लक्ष्यों से संबंधित मुख्य निष्कर्ष निकालें!. | :white_check_mark: |
+| [Documind AI - Chat with PDF](https://www.thataicollection.com/redirect/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Documind AI - AI और GPT4 का इस्तेमाल करके PDF से चैट करें. | डॉक्यूमाइंड PDF के साथ बातचीत करने वाला टूल है, जिससे यूज़र अपने PDF से सवाल पूछ सकते हैं। यह जेनेरिक टूल से बेहतर है।  हमारी खास विशेषताएं ये हैं - - PDF दस्तावेज़ों को थोक में अपलोड करें। - फ़ाइलों को फ़ोल्डर में व्यवस्थित करें - उद्धरण देखें - लंबी PDF का संक्षिप्त और संक्षिप्त सारांश जेनरेट करें - अपनी वेबसाइट पर चैटबॉट को मुफ़्त में एम्बेड करें - यूज़र शेयर करने योग्य लिंक जेनरेट कर सकते हैं और अपने बॉट को टीम के साथियों और दोस्तों के साथ शेयर कर सकते हैं. | :white_check_mark: |
 | [Elicit](https://www.thataicollection.com/redirect/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एलिसिट: एआई रिसर्च असिस्टेंट. | एलिसिट आपके शोध में आपकी मदद करने के लिए मशीन लर्निंग का उपयोग करता है: कागजात खोजें, प्रमुख दावों को निकालें, सारांशित करें, विचार मंथन करें, और बहुत कुछ।. | :grey_question: |
 | [Explainpaper](https://www.thataicollection.com/redirect/explainpaper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | शोध पत्रों को पढ़ने का सबसे तेज़ तरीका. | एक पेपर अपलोड करें, भ्रमित करने वाले टेक्स्ट को हाइलाइट करें, स्पष्टीकरण प्राप्त करें। हम शोध पत्रों को पढ़ने में आसान बनाते हैं।. | :white_check_mark: |
 | [Jenni](https://www.thataicollection.com/redirect/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जेनी - निबंध, शोध पत्र वगैरह लिखने के लिए AI!. | जेनी तुम्हारी शैक्षणिक यात्रा की सभी चीज़ों के लिए तुम्हारी AI सहायक है। हम AI विकसित करने में माहिर हैं, जो निबंध लेखन, शोध पत्र वगैरह में तुम्हारी मदद करता है!. | :white_check_mark: |
@@ -1148,6 +1149,7 @@
 | [Interior AI Designs](https://www.thataicollection.com/redirect/interior-ai-designs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इंटीरियर एआई डिज़ाइन - हर किसी के लिए AI का इस्तेमाल करके ड्रीम रूम तैयार करना।. | अपने कमरे की तस्वीर लें और देखें कि अलग-अलग थीम में तुम्हारा कमरा कैसा दिखता है। आज ही अपने कमरे को फिर से तैयार करें। हमारे चुनिंदा थीम के चयन के साथ डिज़ाइन की संभावनाओं की दुनिया के बारे में जानें। तुम्हारे स्थान को बदलने के लिए हर थीम को सावधानी से तैयार किया गया है।. | :white_check_mark: |
 | [Makeit.ai](https://www.thataicollection.com/redirect/makeit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जनरेटिव डिज़ाइन - आर्किटेक्चर डिज़ाइन सॉफ़्टवेयर - माकेट. | हमारा जनरेटिव डिज़ाइन सॉफ़्टवेयर वास्तुकारों, बिल्डरों और डेवलपर्स को तुरंत हजारों वास्तुशिल्प योजनाओं को तुरंत उत्पन्न करने में सक्षम बनाता है।. | :grey_question: |
 | [Oda Studio](https://www.thataicollection.com/redirect/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ओडा मूडबोर्ड • ओडीए स्टूडियो - एआई की मदद से कुछ ही सेकंड में अपने घर को कस्टमाइज़ करने के लिए अपना स्टाइल और रंग चुनें।. | AI की मदद से कुछ ही सेकंड में अपने घर को कस्टमाइज़ करने के लिए अपना स्टाइल और रंग चुनें - अपना घर डिज़ाइन करना शुरू करें या सैंपल बोर्ड का इस्तेमाल करें।. | :white_check_mark: |
+| [Room DesAigner](https://www.thataicollection.com/redirect/room-desaigner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | RoomDesigner के साथ क्रिएटिविटी शुरू करें घर के अनोखे डिज़ाइन के लिए अंतहीन प्रेरणा। हर कोने में अपने व्यक्तिगत अंदाज़ को दर्शाने के लिए रंग, फ़र्नीचर और सजावट देखें।. | रूम डिसाइनर क्यों? फ़र्निशिंग के स्टाइलिश विकल्पों की मदद से अपनी प्रॉपर्टी को और बेहतर बनाएं। किसी प्रॉपर्टी टूर के दौरान किसी स्पेस में रहने की कल्पना करो। रेनोवेशन के बाद कमरों में होने वाले संभावित ट्रांसफ़ॉर्मेशन देखें। सजाने के लिए रचनात्मक और प्रेरणादायक विचारों के बारे में जानें।. | :white_check_mark: |
 | [Room Reinvented](https://www.thataicollection.com/redirect/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रूम रीइनवेंटेड के साथ अपने कमरे को आसानी से ट्रांसफ़ॉर्म करें! एक फ़ोटो अपलोड करें और AI को 30 से ज़्यादा शानदार इंटीरियर स्टाइल बनाने दें। आज ही अपनी जगह को बेहतर बनाओ।. | अपने कमरे को आसानी से ट्रांसफ़ॉर्म करें। बस अपनी मौजूदा जगह की एक तस्वीर अपलोड करें और रूम रीइनवेंटेड को अपना जादू चलाने दें। मिनिमलिज़्म से लेकर बैरोक तक के 30 से ज़्यादा अनोखे स्टाइल देखें और 20 से ज़्यादा शानदार कलर पैलेट्स के साथ एक्सपेरिमेंट करें। अपने विचारों को एक सुविधाजनक लुकबुक में व्यवस्थित करें, ताकि तुम्हारे विज़न को व्यवस्थित और ताज़ा रखा जा सके।. | :grey_question: |
 
 
@@ -1203,6 +1205,7 @@
 | [Vidnoz Flex](https://www.thataicollection.com/redirect/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | शक्तिशाली तरीके से अपने वीडियो बनाएं, शेयर करें, मैनेज करें और ट्रैक करें।. | Vidnoz Flex, Vidnoz का एक आसान लेकिन शक्तिशाली वीडियो टूल है, जिसमें वीडियो बनाने, वैयक्तिकरण, शेयरिंग और ट्रैक सुविधाओं को एक ही जगह पर जोड़ा जाता है। यह दैनिक रूटीन में वीडियो निर्माण और प्रचार की तुम्हारी उत्पादकता को पूरी तरह से बढ़ा देगा और सबसे महत्वपूर्ण परिणाम लाएगा।. | :white_check_mark: |
 | [Vidyo](https://www.thataicollection.com/redirect/vidyo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई आधारित सामग्री का पुनरुद्देश्य - Vidyo.Ai. | AI के साथ अपने वीडियो से सोशल रेडी शॉर्ट क्लिप बनाएं ✨ 90% समय और प्रयास बचाएं. | :grey_question: |
 | [Waymark](https://www.thataicollection.com/redirect/waymark?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अविश्वसनीय रूप से आसान वीडियो के साथ स्थानीय बिक्री बढ़ाएँ।. | जब टीवी, सीटीवी और डिजिटल विज्ञापन इतने सहज हों, तो संभावनाएं असीमित होती हैं। वेमार्क के साथ उच्च प्रभाव वाले विज्ञापन अब सभी के लिए खुले हैं।. | :grey_question: |
+| [Winxvideo AI](https://www.thataicollection.com/redirect/winxvideo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Winxvideo AI - वीडियो और इमेज एन्हांसर। अपस्केल करें, स्टैबिलाइज़ करें, कन्वर्ट करें, एडिट करें, वीडियो रिकॉर्ड करें. | Winxvideo AI, WinX HD वीडियो कन्वर्टर डिलक्स का रीब्रांडेड और अपग्रेडेड वर्जन, वीडियो/इमेज को निम्न क्वालिटी से 4K तक बढ़ाने, अस्थिर वीडियो को स्थिर करने और FPS को 24 से 60/120 तक बूस्ट करने के लिए वन-स्टॉप AI वीडियो टूलकिट है। GPU एक्सेलेरेशन की मदद से कन्वर्ट करें, कंप्रेस करें, वीडियो एडिट करें और स्क्रीन रिकॉर्ड करें।. | :white_check_mark: |
 | [Wisecut](https://www.thataicollection.com/redirect/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Wisecut - AI की मदद से अपने आप वीडियो कट और एडिट करें. | वाइसकट एक ऑटोमेटिक वीडियो एडिटर है जो आवाज़ पहचानने पर आधारित है। Wisecut की मदद से, तुम अपने लंबे समय तक बात करने वाले वीडियो को आसानी से छोटे, प्रभावशाली क्लिप में बदल सकते हो, जिनमें म्यूज़िक, सबटाइटल और ऑटो रीफ़्रेम शामिल हैं। ये छोटी क्लिप YouTube शॉर्ट्स, TikTok, Instagram रील्स और सोशल विज्ञापनों जैसे प्लेटफ़ॉर्म के लिए बिल्कुल सही हैं।. | :white_check_mark: |
 | [Wzrd.ai](https://www.thataicollection.com/redirect/wzrd.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी आवाज का अनुभव करें. | WZRD आर्टिफिशियल इंटेलिजेंस द्वारा संचालित इमर्सिव वीडियो के साथ आपके ऑडियो को बढ़ाता है. | :grey_question: |
 | [Yepic AI](https://www.thataicollection.com/redirect/yepic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | तुम्हारा AI वीडियो टूलकिट - वीडियो बनाएं, डब करें और उन्हें वैयक्तिकृत करें. | वीडियो का भविष्य AI जनरेटेड, अल्ट्रा लोकलाइज़्ड और हाइपर पर्सनलाइज़्ड है। Yepic AI के साथ, कोई भी महंगे कैमरे, अभिनेता या स्टूडियो के बिना मिनटों में टॉकिंग हेड स्टाइल वीडियो बना सकता है और उसका अनुवाद कर सकता है।. | :white_check_mark: |
