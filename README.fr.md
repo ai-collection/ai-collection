@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1038" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1040" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -138,6 +138,64 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
 
+### Winxvideo AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-winxvideo-ai.webp" alt="Winxvideo AI">
+
+#### Winxvideo AI — Améliorateur de vidéos et d'images. Haut de gamme, stabilise, convertit, édite, enregistre des vidéos
+[Visit](https://www.thataicollection.com/redirect/winxvideo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Winxvideo AI, une version rebaptisée et améliorée de WinX HD Video Converter Deluxe, est une boîte à outils vidéo basée sur l'IA qui permet de faire passer les vidéos/images de faible qualité à la 4K, de stabiliser les vidéos tremblantes et d'augmenter le nombre d'images par seconde de 24 à 60/120. Convertissez, compressez, éditez des vidéos et enregistrez l'écran grâce à l'accélération GPU.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/winxvideo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Documind AI - Chat with PDF
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-documind-ai---chat-with-pdf.webp" alt="Documind AI - Chat with PDF">
+
+#### Documind AI - Discutez au format PDF à l'aide de l'IA et du GPT4
+[Visit](https://www.thataicollection.com/redirect/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Documind est un outil de discussion en PDF qui permet aux utilisateurs de poser des questions depuis leur PDF. C'est mieux que les outils génériques disponibles sur le marché.
+
+Nos caractéristiques les plus remarquables sont :
+- Téléchargement groupé de documents PDF.
+- Organiser les fichiers dans des dossiers
+- Voir la citation
+- Générer un résumé court et concis d'un long PDF
+- Intégre un chatbot à ton site web gratuitement
+- Les utilisateurs peuvent générer un lien partageable et partager leur bot avec l
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Room DesAigner
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-room-desaigner.webp" alt="Room DesAigner">
+
+#### Donnez libre cours à votre créativité avec RoomDesigner
+Une source d'inspiration infinie pour des designs de maison uniques. Explorez les couleurs, les meubles et la décoration pour refléter ton style personnel dans tous les coins.
+[Visit](https://www.thataicollection.com/redirect/room-desaigner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Pourquoi Room DeSigner ?
+Mettez en valeur ta propriété avec un choix d'ameublement élégant.
+Imagine vivre dans un espace lors d'une visite de la propriété.
+Voir les transformations potentielles des chambres après les rénovations.
+Découvre des idées de décoration créatives et inspirantes.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/room-desaigner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### storeChatGPT.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storechatgpt.ai.webp" alt="storeChatGPT.ai">
 
@@ -201,58 +259,6 @@ Recast Studio transforme automatiquement l'épisode de ton podcast en courts cli
 → Principaux points forts classés par sujet
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/recast-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### iFoto
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ifoto.webp" alt="iFoto">
-
-#### Créez des images de commerce électronique à taux de conversion élevé avec AI Studio
-[Visit](https://www.thataicollection.com/redirect/ifoto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-iFoto réinvente la photographie de tes produits en un clic. Encore une chose ! Nous avons créé un nouvel algorithme qui réduit le coût de la suppression de l'arrière-plan à près de 0 dollars. Nous garantissons donc la suppression de l'arrière-plan d'iFoto de manière totalement gratuite, avec des téléchargements en HD, sans filigrane ! Pour éviter toute surutilisation, nous en proposons 10 000 par mois et par utilisateur (il est peu probable que quelqu'un puisse y arriver, honnêtement !).
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/ifoto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SeeYourBabyAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-seeyourbabyai.webp" alt="SeeYourBabyAI">
-
-#### Tu t'es déjà demandé à quoi pourrait ressembler ton futur bébé ? Maintenant, tu n'en as plus besoin, tu peux le voir !
-[Visit](https://www.thataicollection.com/redirect/seeyourbabyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Tu t'es déjà demandé à quoi pourrait ressembler ton futur bébé ? See Your Baby utilise la puissance de l'IA pour te donner un aperçu du visage de ton enfant, avant même sa naissance. Cet outil prend des photos de toi et de ton partenaire, puis les utilise pour générer des images d'un garçon et d'une fille.
-
-Nous analysons les traits de ton visage, le teint, la texture de tes cheveux et d'autres caractéristiques, puis nous les mélangeons pour y parvenir.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/seeyourbabyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Marblism
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-marblism.webp" alt="Marblism">
-
-#### Générer un modèle SaaS à partir d'une invite
-[Visit](https://www.thataicollection.com/redirect/marblism?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Marblism génère une application Web entièrement fonctionnelle à partir d'une seule invite : 
-1. Décris l'application et toutes les fonctionnalités que tu souhaites créer 
-2. Nous générons le schéma de la base de données 
-3. Nous générons le back-end dans NodeJS 
-4. Nous générons le front-end dans React avec toutes les fonctionnalités de ton application 
-5. Clonez les dépôts Github et tu es prête à partir ! 
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/marblism?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

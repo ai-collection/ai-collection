@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1038" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1040" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
-    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -74,6 +61,19 @@
 
 今天只需点击一下即可实现您最疯狂的梦想！</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
+    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
     <br />
 </div>
 
@@ -138,6 +138,64 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### Winxvideo AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-winxvideo-ai.webp" alt="Winxvideo AI">
+
+#### Winxvideo AI-视频和图像增强器。升级、稳定、转换、编辑、录制视频
+[Visit](https://www.thataicollection.com/redirect/winxvideo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Winxvideo AI是WinX HD Video Converter Deluxe的更名和升级版本，是一款一站式的人工智能视频工具包，可将视频/图像从低质量升级到4K，稳定不稳定的视频，并将fps从24提高到60/120。使用 GPU 加速转换、压缩、编辑视频和录制屏幕。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/winxvideo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Documind AI - Chat with PDF
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-documind-ai---chat-with-pdf.webp" alt="Documind AI - Chat with PDF">
+
+#### Documind AI-使用 AI 和 GPT4 与 PDF 聊天
+[Visit](https://www.thataicollection.com/redirect/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Documind 是一款使用 pdf 进行聊天的工具，它允许用户从 PDF 中提问。它比现有的通用工具要好。
+
+我们的显著特点是-
+-批量上传 PDF 文档。
+-将文件整理到文件夹中
+-查看引文
+-生成长 PDF 的简短摘要
+-在您的网站上免费嵌入聊天机器人
+-用户可以生成可共享的链接并与队友和朋友分享他们的机器人
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Room DesAigner
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-room-desaigner.webp" alt="Room DesAigner">
+
+#### 使用 RoomDesaigner 释放创造力
+独特的家居设计灵感无穷无尽。探索色彩、家具和装饰，在每个角落反映您的个人风格。
+[Visit](https://www.thataicollection.com/redirect/room-desaigner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+为什么 Room Desaigner？
+用时尚的家具为您的房产增光添彩。
+设想在房产参观期间住在空间里。
+查看装修后可能发生的房间改造。
+探索富有创意和鼓舞人心的装饰创意。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/room-desaigner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### storeChatGPT.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storechatgpt.ai.webp" alt="storeChatGPT.ai">
 
@@ -201,58 +259,6 @@ Recast Studio 会自动将您的播客剧集转换为简短的视频片段，并
 → 按主题分类的主要亮点
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/recast-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### iFoto
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ifoto.webp" alt="iFoto">
-
-#### 使用 AI 工作室创建高转换率的电子商务图像
-[Visit](https://www.thataicollection.com/redirect/ifoto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-iFoto 重塑您的产品摄影，将其变成一键拍摄。还有一件事！我们精心设计了一种新算法，将背景移除成本降至近0美元。因此，我们保证 iFoto 的背景去除完全免费，真正做到高清下载，没有水印！为避免过度使用，我们为每位用户每月提供 10,000 美元（说实话，不太可能有人能达到这个目标！）。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ifoto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### SeeYourBabyAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-seeyourbabyai.webp" alt="SeeYourBabyAI">
-
-#### 有没有想过你未来的宝宝会是什么样子？现在你不需要，你可以看到了！
-[Visit](https://www.thataicollection.com/redirect/seeyourbabyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-有没有想过你未来的宝宝会是什么样子？See Your Baby 利用 AI 的力量，即使在孩子出生之前，你也可以窥见他们的脸。这个工具会为你和你的伴侣拍照，然后用它们来生成男孩和女孩的照片。
-
-我们会分析您的面部特征、肤色、头发质地和其他特征，然后将它们混合在一起以实现这一目标。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/seeyourbabyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Marblism
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-marblism.webp" alt="Marblism">
-
-#### 根据提示生成 SaaS 样板
-[Visit](https://www.thataicollection.com/redirect/marblism?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Marblism 通过一个提示符生成一个功能齐全的 Web 应用程序： 
-1。描述应用程序和你想要构建的所有功能 
-2。我们生成数据库架构 
-3.我们在 NodeJS 中生成后端 
-4。我们在 React 中生成包含你应用程序所有功能的前端 
-5。克隆 Github 存储库然后你就可以开始了！ 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/marblism?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

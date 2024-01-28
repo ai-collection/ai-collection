@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1038" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1040" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -138,6 +138,64 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### Winxvideo AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-winxvideo-ai.webp" alt="Winxvideo AI">
+
+#### Winxvideo AI - средство улучшения видео и изображений. Масштабируйте, стабилизируйте, конвертируйте, редактируйте, записывайте видео
+[Visit](https://www.thataicollection.com/redirect/winxvideo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Winxvideo AI, ребрендированная и обновленная версия WinX HD Video Converter Deluxe, представляет собой универсальный набор инструментов для обработки видео с искусственного интеллекта для повышения качества видео/изображения с низкого качества до 4K, стабилизации дрожащего видео и повышения частоты кадров с 24 до 60/120. Конвертируйте, сжимайте, редактируйте видео и записывайте видео с экрана с ускорением графического процессора.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/winxvideo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Documind AI - Chat with PDF
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-documind-ai---chat-with-pdf.webp" alt="Documind AI - Chat with PDF">
+
+#### Documind AI — чат с PDF с использованием AI и GPT4
+[Visit](https://www.thataicollection.com/redirect/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Documind — это инструмент чата в формате pdf, который позволяет пользователям задавать вопросы из PDF-файла. Это лучше, чем обычные инструменты.
+
+Нашими примечательными особенностями являются -
+- Массовая загрузка PDF-документов.
+- Организуйте файлы по папкам
+- Просмотр цитат
+- Создайте краткое и краткое резюме длинного PDF-файла
+- Вставьте чат-бота на свой сайт бесплатно
+- Пользователи могут создать ссылку, которой можно поделиться, и поделиться своим ботом с товарищами по команде и друзьями
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Room DesAigner
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-room-desaigner.webp" alt="Room DesAigner">
+
+#### Раскройте творческий потенциал вместе с RoomDesigner
+Бесконечное вдохновение для создания уникальных дизайнов домов. Изучите цвета, мебель и декор, чтобы отразить свой индивидуальный стиль в каждом уголке.
+[Visit](https://www.thataicollection.com/redirect/room-desaigner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Почему дизайнер комнат?
+Украсьте свой дом стильным выбором мебели.
+Представьте себе жизнь в помещении во время экскурсии по недвижимости.
+Ознакомьтесь с потенциальными преобразованиями комнат после ремонта.
+Откройте для себя креативные и вдохновляющие идеи декорирования.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/room-desaigner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### storeChatGPT.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storechatgpt.ai.webp" alt="storeChatGPT.ai">
 
@@ -201,58 +259,6 @@ Recast Studio автоматически превращает эпизод ва�
 → Основные моменты, сгруппированные по темам
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/recast-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### iFoto
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ifoto.webp" alt="iFoto">
-
-#### Создавайте изображения для электронной коммерции с высокой конверсией с помощью AI studio
-[Visit](https://www.thataicollection.com/redirect/ifoto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-iFoto заново изобретает фотографию вашего продукта, превращая ее в процесс фотосъемки в один клик. Еще одна вещь! Мы разработали новый алгоритм, минимизирующий стоимость удаления фона почти до 0 долларов. Таким образом, мы гарантируем полное бесплатное удаление фона в iFoto, загрузку в формате HD без водяных знаков! Чтобы избежать чрезмерного использования, мы предлагаем каждому пользователю 10 000 долларов в месяц (честно говоря, вряд ли кто-нибудь сможет набрать такую сумму!).
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/ifoto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SeeYourBabyAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-seeyourbabyai.webp" alt="SeeYourBabyAI">
-
-#### Вы когда-нибудь задумывались, как может выглядеть ваш будущий ребенок? Теперь вам это не нужно, вы можете это увидеть!
-[Visit](https://www.thataicollection.com/redirect/seeyourbabyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Вы когда-нибудь задумывались, как может выглядеть ваш будущий ребенок? See Your Baby использует возможности искусственного интеллекта, чтобы вы могли заглянуть в лицо вашего ребенка еще до его рождения. Этот инструмент фотографирует вас и вашего партнера, а затем использует их для создания изображений мальчика и девочки.
-
-Мы анализируем ваши черты лица, оттенок кожи, текстуру волос и другие характеристики, а затем смешиваем их вместе для достижения этой цели.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/seeyourbabyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Marblism
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-marblism.webp" alt="Marblism">
-
-#### Создайте шаблон SaaS из командной строки
-[Visit](https://www.thataicollection.com/redirect/marblism?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Marblism создает полнофункциональное веб-приложение из одной командной строки: 
-1. Опишите приложение и все функции, которые вы хотите создать 
-2. Мы генерируем схему базы данных 
-3. Мы генерируем бэкенд в NodeJS 
-4. Мы создаем интерфейс в React со всеми функциями вашего приложения 
-5. Клонируйте репозитории Github, и все готово! 
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/marblism?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1038" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1040" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,19 +59,6 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
-    <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -80,6 +67,19 @@ Translations:
 
 Your wildest dreams are just a click away today!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
+    <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
     <br />
 </div>
 
@@ -144,6 +144,64 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### Winxvideo AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-winxvideo-ai.webp" alt="Winxvideo AI">
+
+#### Winxvideo AI - Video & Image Enhancer. Upscale, Stabilize, Convert, Edit, Record Video
+[Visit](https://www.thataicollection.com/redirect/winxvideo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Winxvideo AI, a rebranded and upgraded version of WinX HD Video Converter Deluxe, is a one-stop AI video toolkit to upscale video/image from low quality to 4K, stabilize shaky video, and boost fps from 24 to 60/120. Convert, compress, edit video, and record screen with GPU acceleration.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/winxvideo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Documind AI - Chat with PDF
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-documind-ai---chat-with-pdf.webp" alt="Documind AI - Chat with PDF">
+
+#### Documind AI - Chat with PDF using AI and GPT4
+[Visit](https://www.thataicollection.com/redirect/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Documind is a chat with pdf tool that lets users ask questions from their PDF. It is better than generic tools out there.
+
+Our notable features are -
+- Bulk upload PDF documents.
+- Organize files into folders
+- View citation
+- Generate short and concise summary of long PDF
+- Embed chatbot on your website for free
+- Users can generate shareable link and share their bot with teammates and friends
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Room DesAigner
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-room-desaigner.webp" alt="Room DesAigner">
+
+#### Unleash creativity with RoomDesAigner
+Endless inspiration for unique home designs. Explore colors, furniture, and decor to mirror your personal style in every corner.
+[Visit](https://www.thataicollection.com/redirect/room-desaigner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Why Room DesAigner?
+Accentuate your property with stylish furnishing choices.
+Envision living in a space during a property tour.
+See potential room transformations post-renovation.
+Discover creative and inspirational decorating ideas.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/room-desaigner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### storeChatGPT.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storechatgpt.ai.webp" alt="storeChatGPT.ai">
 
@@ -207,58 +265,6 @@ Recast Studio automatically turns your podcast episode into short video clips & 
 → Main highlights categorized by topic
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/recast-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### iFoto
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ifoto.webp" alt="iFoto">
-
-#### Create high-converting e-commerce images with AI studio
-[Visit](https://www.thataicollection.com/redirect/ifoto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-iFoto reinvents your product photography, turning it into a one-click process. one more thing! We've crafted a new algorithm minimizing the cost of background removal to nearly $0. So, we guarantee iFoto's background removal completely free-truly, HD downloads, no watermarks! To avoid overuse, we offer 10,000 per month per user (unlikely anyone can hit that, honestly!).
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ifoto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SeeYourBabyAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-seeyourbabyai.webp" alt="SeeYourBabyAI">
-
-#### Ever wondered what your future baby might look like? Now you don't need to, you can see it!
-[Visit](https://www.thataicollection.com/redirect/seeyourbabyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ever wondered what your future baby might look like? See Your Baby uses the power of AI to give you a glimpse into your child's face, even before they're born. This tool takes photos of you and your partner, then uses them to generate images of both a boy and a girl.
-
-We analyze your facial features, skin tone, hair texture, and other characteristics, then blends them together to achieve this.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/seeyourbabyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Marblism
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-marblism.webp" alt="Marblism">
-
-#### Generate a SaaS boilerplate from a prompt
-[Visit](https://www.thataicollection.com/redirect/marblism?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Marblism generates a fully-functional web application from a single prompt: 
-1. Describe the app and all the features you want to build 
-2. We generate the database schema 
-3. We generate the back-end in NodeJS 
-4. We generate the front-end in React with all your app's features 
-5. Clone the Github repos and you're ready to go! 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/marblism?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

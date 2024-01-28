@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1038" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1040" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,19 +59,6 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
-    <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -80,6 +67,19 @@ Translations:
 
 Your wildest dreams are just a click away today!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
+    <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
     <br />
 </div>
 
@@ -174,6 +174,7 @@ Your wildest dreams are just a click away today!</p>
 | [Interior AI Designs](https://www.thataicollection.com/redirect/interior-ai-designs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Interior AI Designs - Generating dream rooms using AI for everyone. | Take a picture of your room and see how your room looks in different themes. Remodel your room today. Discover a world of design possibilities with our curated selection of Featured Themes. Each theme has been carefully crafted to transform your space. | :white_check_mark: |
 | [Makeit.ai](https://www.thataicollection.com/redirect/makeit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generative Design - Architecture Design Software - Maket. | Our generative design software enables architects, builders & developers to quickly generate thousands of architectural plans instantly. | :grey_question: |
 | [Oda Studio](https://www.thataicollection.com/redirect/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Oda Moodboard • Oda Studio - Pick your style and color to customize your home in seconds with AI. | Pick your style and color to customize your home in seconds with AI - Start Designing Your Home or Use a Sample Board. | :white_check_mark: |
+| [Room DesAigner](https://www.thataicollection.com/redirect/room-desaigner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unleash creativity with RoomDesAigner Endless inspiration for unique home designs. Explore colors, furniture, and decor to mirror your personal style in every corner. | Why Room DesAigner? Accentuate your property with stylish furnishing choices. Envision living in a space during a property tour. See potential room transformations post-renovation. Discover creative and inspirational decorating ideas. | :white_check_mark: |
 | [Room Reinvented](https://www.thataicollection.com/redirect/room-reinvented?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today. | Transform your room effortlessly. Simply upload a picture of your existing space, and let Room Reinvented work its magic. Explore over 30 unique styles, ranging from Minimalism to Baroque, and experiment with over 20 stunning color palettes. Organize your ideas in a convenient lookbook to keep your vision organized and fresh. | :grey_question: |
 
 
@@ -1064,6 +1065,7 @@ Your wildest dreams are just a click away today!</p>
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Afforai](https://www.thataicollection.com/redirect/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Your AI Reading Copilot. Must-Have Tools for Text Analysis, Research, and Document Search. | Afforai is an AI chatbot that searches, summarizes, and translates info from multiple sources to produce trustworthy research. Chat with your documents and extract key findings relevant to your goals today!. | :white_check_mark: |
+| [Documind AI - Chat with PDF](https://www.thataicollection.com/redirect/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Documind AI - Chat with PDF using AI and GPT4. | Documind is a chat with pdf tool that lets users ask questions from their PDF. It is better than generic tools out there.  Our notable features are - - Bulk upload PDF documents. - Organize files into folders - View citation - Generate short and concise summary of long PDF - Embed chatbot on your website for free - Users can generate shareable link and share their bot with teammates and friends. | :white_check_mark: |
 | [Elicit](https://www.thataicollection.com/redirect/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Elicit: The AI Research Assistant. | Elicit uses machine learning to help you with your research: find papers, extract key claims, summarize, brainstorm ideas, and more. | :grey_question: |
 | [Explainpaper](https://www.thataicollection.com/redirect/explainpaper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The Fastest Way to Read Research Papers. | Upload a paper, highlight confusing text, get an explanation. We make research papers easy to read. | :white_check_mark: |
 | [Jenni](https://www.thataicollection.com/redirect/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Jenni - The AI For Writing Essays, Research Papers & More!. | Jenni is your AI assistant for all things in your academic journey. We specialise in developing AI that helps you with essay writing, research papers and more!. | :white_check_mark: |
@@ -1384,6 +1386,7 @@ Your wildest dreams are just a click away today!</p>
 | [Vidnoz Flex](https://www.thataicollection.com/redirect/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create, share, manage & track your videos powerfully. | Vidnoz Flex is a easy but powerful video tool from Vidnoz, which combines video creation, personalization, sharing, and track features at one place. It will totally boost your productivity of video creation and promotion in daily routines and brings the most significant results. | :white_check_mark: |
 | [Vidyo](https://www.thataicollection.com/redirect/vidyo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Based Content Repurposing - Vidyo.Ai. | Create social ready short clips from your videos with AI ✨ Save 90% time and effort. | :grey_question: |
 | [Waymark](https://www.thataicollection.com/redirect/waymark?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Boost Local Sales With Unbelievably Easy Video. | When TV, CTV, and digital ads are this effortless, the possibilities are limitless. High-impact ads are now open to everyone, with Waymark. | :grey_question: |
+| [Winxvideo AI](https://www.thataicollection.com/redirect/winxvideo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Winxvideo AI - Video & Image Enhancer. Upscale, Stabilize, Convert, Edit, Record Video. | Winxvideo AI, a rebranded and upgraded version of WinX HD Video Converter Deluxe, is a one-stop AI video toolkit to upscale video/image from low quality to 4K, stabilize shaky video, and boost fps from 24 to 60/120. Convert, compress, edit video, and record screen with GPU acceleration. | :white_check_mark: |
 | [Wisecut](https://www.thataicollection.com/redirect/wisecut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Wisecut - Automatically cut and edit videos with AI. | Wisecut is an automatic video editor based on voice recognition. With Wisecut, you can easily turn your long-form talking videos into short, impactful clips with music, subtitles, and auto reframe. These short clips are perfect for platforms like YouTube Shorts, TikTok, Instagram Reels, and Social Ads. | :white_check_mark: |
 | [Wzrd.ai](https://www.thataicollection.com/redirect/wzrd.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Experience Your Sound. | WZRD augments your audio with immersive video powered by artificial intelligence. | :grey_question: |
 | [Yepic AI](https://www.thataicollection.com/redirect/yepic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Your AI Video Toolkit - Create, Dub & Personalise Videos. | The future of video is AI Generated, Ultra Localised & Hyper Personalised. With Yepic AI, anyone can create and translate talking head style videos in minutes without expensive cameras, actors or studios. | :white_check_mark: |
