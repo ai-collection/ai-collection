@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1040" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1055" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -138,6 +138,100 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### JobBuddy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobbuddy.webp" alt="JobBuddy">
+
+#### JobBuddy: genera cartas de presentación, optimiza los currículums y consigue material de preparación para las entrevistas en segundos con tu propio entrenador profesional personal basado en la IA.
+[Visit](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+JobBuddy proporciona a los solicitantes de empleo herramientas de IA avanzadas para generar cartas de presentación, currículums y preparación para entrevistas personalizados. Basado en miles de ejemplos exitosos y con tecnología multimodelo, JobBuddy es muy eficaz a la hora de producir materiales de aplicación profesionales totalmente optimizados para el ATS y con sonido humano. Pruébalo para obtener un enfoque simplificado y altamente personalizado para tu búsqueda de trabajo.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Fotos de Perfil
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotos-de-perfil.webp" alt="Fotos de Perfil">
+
+#### Fotos de perfil cautivadoras: mejora tu presencia en las redes sociales
+[Visit](https://www.thataicollection.com/redirect/fotos-de-perfil?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Explora nuestra colección de exquisitas fotos de perfil, diseñadas para mejorar tu imagen en Internet. Cada foto está diseñada para mostrar personalidad y estilo, garantizando que tus perfiles en las redes sociales destaquen con elegancia y sofisticación. Perfecto para LinkedIn, Facebook, Instagram y más
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/fotos-de-perfil?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Nudes – Face Swap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudes-%E2%80%93-face-swap.webp" alt="Nudes – Face Swap">
+
+#### ¡Descubre el potencial del porno con intercambio de caras y la magia del porno Deepfake en nuestro sitio!
+[Visit](https://www.thataicollection.com/redirect/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+¡Un Nudes_FaceSwap_bot de Telegram! Este robot puede cambiar las caras de cualquier vídeo. ¿Cómo usarlo?
+1). Simplemente sube una imagen facial. 
+2). Sube o elige un vídeo objetivo. 
+3). Espera a que lleguen los resultados.  
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Nudifying
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudifying.webp" alt="Nudifying">
+
+#### Nudifying ofrece un servicio único en el que prometen «desvestir a cualquiera» a través de su plataforma fácil de usar.
+[Visit](https://www.thataicollection.com/redirect/nudifying?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Al seleccionar criterios específicos, como la edad, el tipo de cuerpo y la calidad, los usuarios pueden obtener resultados en cuestión de segundos. Es importante tener en cuenta que la desnudez hace hincapié en su propósito únicamente de entretenimiento y garantiza que no se pretenda ofender. Los usuarios deben recordar que son totalmente responsables de las imágenes que crean y deben obtener el debido consentimiento antes de utilizar las fotos de otra persona.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/nudifying?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### BeachAtlas
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-beachatlas.webp" alt="BeachAtlas">
+
+#### Descubre la mejor experiencia de playa local.
+[Visit](https://www.thataicollection.com/redirect/beachatlas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+BeachAtlas.com es una enciclopedia de playas. Gracias a la IA, beachatlas.com permite a los usuarios encontrar las playas locales. Por ejemplo, incluye una función de búsqueda que te permite encontrar playas mediante consultas en lenguaje natural. Además, ofrece numerosas listas seleccionadas por IA, que clasifican las playas en varias categorías para adaptarse a los diferentes gustos y preferencias, garantizando que hay algo para todos los gustos.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/beachatlas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Scispace
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scispace.webp" alt="Scispace">
+
+#### Scispace by Typeset: descubre, crea, publica y promociona tu trabajo de investigación
+[Visit](https://www.thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chatea con PDF y revisa la literatura más rápido con SciSpace. Descubre más de 200 millones de artículos o sube tu propio PDF, resalta el texto o haz preguntas y extrae explicaciones y resúmenes.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Winxvideo AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-winxvideo-ai.webp" alt="Winxvideo AI">
 
@@ -147,118 +241,6 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 Winxvideo AI, una versión rebautizada y mejorada de WinX HD Video Converter Deluxe, es un conjunto de herramientas de vídeo de IA integral para mejorar el vídeo o la imagen de baja calidad a 4K, estabilizar el vídeo inestable y aumentar los fps de 24 a 60/120. Convierte, comprime, edita vídeos y graba pantallas con aceleración de GPU.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/winxvideo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Documind AI - Chat with PDF
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-documind-ai---chat-with-pdf.webp" alt="Documind AI - Chat with PDF">
-
-#### Documind AI: chatea con PDF mediante IA y GPT4
-[Visit](https://www.thataicollection.com/redirect/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Documind es una herramienta de chat con PDF que permite a los usuarios hacer preguntas desde su PDF. Es mejor que las herramientas genéricas que existen.
-
-Nuestras características más destacadas son -
-- Carga masiva de documentos PDF.
-- Organizar los archivos en carpetas
-- Ver cita
-- Generar un resumen breve y conciso de un PDF largo
-- Inserta un chatbot gratis en tu página web
-- Los usuarios pueden generar un enlace para compartir y compartir su bot con sus compañeros de equipo y amigos
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Room DesAigner
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-room-desaigner.webp" alt="Room DesAigner">
-
-#### Da rienda suelta a la creatividad con RoomDesaigner
-Inspiración infinita para diseños de casas únicos. Explora los colores, los muebles y la decoración para reflejar tu estilo personal en cada esquina.
-[Visit](https://www.thataicollection.com/redirect/room-desaigner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¿Por qué Room Desaigner?
-Acentúa tu propiedad con opciones de mobiliario elegantes.
-Imagina vivir en un espacio durante un recorrido por la propiedad.
-Consulta las posibles transformaciones de habitación tras la renovación.
-Descubre ideas de decoración creativas e inspiradoras.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/room-desaigner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### storeChatGPT.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storechatgpt.ai.webp" alt="storeChatGPT.ai">
-
-#### Mejora la creatividad de la IA: envía y muestra tu GPTS personalizado
-[Visit](https://www.thataicollection.com/redirect/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-StoreChatGPT.ai es una plataforma dinámica que ofrece una amplia gama de herramientas GPT personalizadas para diversas necesidades, como la escritura, la programación y la educación. Permite a los usuarios compartir y descubrir innovaciones impulsadas por la IA, lo que fomenta un espíritu comunitario entre los entusiastas y profesionales de la IA.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/storechatgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Branding 5
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-branding-5.webp" alt="Branding 5">
-
-#### Branding 5: posicionamiento de marca en solo 5 minutos
-
-[Visit](https://www.thataicollection.com/redirect/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Branding 5: posicionamiento de marca de primer nivel, información en una fracción del tiempo y el coste. Crea tu identidad de marca, haz marketing con facilidad
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Journalist AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-journalist-ai.webp" alt="Journalist AI">
-
-#### Genera artículos de alta calidad que se publiquen automáticamente en tu blog
-[Visit](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Recibe al instante cientos de artículos relevantes, únicos y optimizados para tu nicho. Artículos con muchos reportajes que atraen tráfico
-La IA periodística crea contenido bien estructurado, apropiado para tu negocio y que aparezca en Google.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Recast Studio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-recast-studio.webp" alt="Recast Studio">
-
-#### Asistente de marketing de podcasts con tecnología de inteligencia artificial. 
-[Visit](https://www.thataicollection.com/redirect/recast-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Recast Studio convierte automáticamente el episodio de tu podcast en videoclips cortos y escribe notas de programas, entradas de blog, publicaciones en redes sociales y más en cuestión de minutos.
-
-→ Genera automáticamente una transcripción completa de tu episodio
-→ Mostrar notas con resumen y marcas de tiempo
-→ Publicaciones cautivadoras en las redes sociales
-→ Un correo electrónico con las principales conclusiones del episodio
-→ Principales momentos clasificados por tema
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/recast-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1899,6 +1881,21 @@ Dittin AI es una plataforma de chatbots de IA de la NSFW basada en DittinLLM. Co
 
 
 
+### Undress.Vip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+
+#### undress.vip—2023 mejor vestido 100% funcional ai deepnude 
+[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI Girlfriend WTF
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
 
@@ -1959,21 +1956,6 @@ Generador de fotos Undress AI para desnudos profundos gratis. Desnuda la IA de D
 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Ask RBG
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ask-rbg.webp" alt="Ask RBG">
-
-#### ¿Qué diría RBG (probablemente)?
-[Visit](https://www.thataicollection.com/redirect/ask-rbg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Un experimento de IA: pídale a la jueza Ruth Bader Ginsburg que tome una decisión sobre cualquier pregunta que su corazón desee. La primera AI Drop de AI21 Labs.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/ask-rbg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2320,15 +2302,15 @@ Rezi es la única plataforma de currículum que utiliza inteligencia artificial 
 
 
 
-### Prodigy AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prodigy-ai.webp" alt="Prodigy AI">
+### JobBuddy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobbuddy.webp" alt="JobBuddy">
 
-#### Uso de IA para mejorar las carreras de los ingenieros de software
-[Visit](https://www.thataicollection.com/redirect/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### JobBuddy: genera cartas de presentación, optimiza los currículums y consigue material de preparación para las entrevistas en segundos con tu propio entrenador profesional personal basado en la IA.
+[Visit](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Tenemos la misión de utilizar la IA más reciente para crear herramientas que ayuden a los ingenieros de software a desarrollar mejores carreras. Nuestras herramientas de IA son 100% gratuitas.
+JobBuddy proporciona a los solicitantes de empleo herramientas de IA avanzadas para generar cartas de presentación, currículums y preparación para entrevistas personalizados. Basado en miles de ejemplos exitosos y con tecnología multimodelo, JobBuddy es muy eficaz a la hora de producir materiales de aplicación profesionales totalmente optimizados para el ATS y con sonido humano. Pruébalo para obtener un enfoque simplificado y altamente personalizado para tu búsqueda de trabajo.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3460,6 +3442,22 @@ Afforai es un chatbot de IA que busca, resume y traduce información de varias f
 
 
 
+### Scispace
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scispace.webp" alt="Scispace">
+
+#### Scispace by Typeset: descubre, crea, publica y promociona tu trabajo de investigación
+[Visit](https://www.thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chatea con PDF y revisa la literatura más rápido con SciSpace. Descubre más de 200 millones de artículos o sube tu propio PDF, resalta el texto o haz preguntas y extrae explicaciones y resúmenes.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Sourcely
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sourcely.webp" alt="Sourcely">
 
@@ -3485,21 +3483,6 @@ Herramienta de búsqueda de literatura impulsada por la IA que recupera rápidam
 Elicit utiliza el aprendizaje automático para ayudarlo con su investigación: encuentre documentos, extraiga afirmaciones clave, resuma, haga una lluvia de ideas y más.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Scispace
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scispace.webp" alt="Scispace">
-
-#### Scispace by Typeset: descubra, cree, publique y promueva su trabajo de investigación
-[Visit](https://www.thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Tu plataforma para explorar y explicar papers. Busque más de 270 millones de artículos, entiéndalos en un lenguaje sencillo y encuentre artículos, autores y temas relacionados.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4646,6 +4629,21 @@ Nuestra IA creará un plan personalizado para cualquier ciudad o lugar que le gu
 ¡Desbloquee el nombre de blog de viajes perfecto con el Generador de ideas de nombres de blogs de TravelFeed! Agrega una palabra clave (tal vez tu propio nombre) y observa cómo nuestra IA te deslumbra con una gran cantidad de sugerencias elegantes. ¿Te encanta un nombre? Verifique rápidamente su dominio .com y la disponibilidad del nombre de usuario de TravelFeed. ¡Sumérgete en tu viaje de blogs con un nombre que es tan aventurero como tú!
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/travel-blog-name-ideas-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### BeachAtlas
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-beachatlas.webp" alt="BeachAtlas">
+
+#### Descubre la mejor experiencia de playa local.
+[Visit](https://www.thataicollection.com/redirect/beachatlas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+BeachAtlas.com es una enciclopedia de playas. Gracias a la IA, beachatlas.com permite a los usuarios encontrar las playas locales. Por ejemplo, incluye una función de búsqueda que te permite encontrar playas mediante consultas en lenguaje natural. Además, ofrece numerosas listas seleccionadas por IA, que clasifican las playas en varias categorías para adaptarse a los diferentes gustos y preferencias, garantizando que hay algo para todos los gustos.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/beachatlas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
