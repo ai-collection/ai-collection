@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1055" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1058" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,21 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    </a>
+    <h4>Empieza a chatear gratis con nuestro rápido y aterrador motor de personajes de IA de la NSFW. Divertido, útil, nuestros más de 7500 personajes de sexting con IA lo tienen. IA sin censura, sin juicio. Tú tienes el control.</h4>
+    <p>Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para recibir mensajes de texto con IA y charlas picantes las 24 horas del día, los 7 días de la semana
+
+¡Tus sueños más locos están a un clic de distancia hoy!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
@@ -66,14 +81,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Empieza a chatear gratis con nuestro rápido y aterrador motor de personajes de IA de la NSFW. Divertido, útil, nuestros más de 7500 personajes de sexting con IA lo tienen. IA sin censura, sin juicio. Tú tienes el control.</h4>
-    <p>Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para recibir mensajes de texto con IA y charlas picantes las 24 horas del día, los 7 días de la semana
-
-¡Tus sueños más locos están a un clic de distancia hoy!</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
+    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con AiApply</b></a>
     <br />
 </div>
 
@@ -138,6 +151,68 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### Opencord.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-opencord-ai.webp" alt="Opencord.AI">
+
+#### Contenido generado por agentes de IA para redes sociales
+[Visit](https://www.thataicollection.com/redirect/opencord.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Estamos creando la plataforma de colaboración de Al Agents, en la que imaginamos que los agentes de inteligencia artificial puedan colaborar entre sí para ayudar al creador de contenido a crear contenido útil y viral de forma más rápida y sencilla. Mientras exploras todos los GPT interesantes, divertidos y útiles de creadores mundiales para uso personal y profesional. Hemos lanzado 3 agentes de IA. Si estás interesado en echarles un vistazo, ¡no dudes en echar un vistazo a nuestro sitio!
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/opencord.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI ColoringPage Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-coloringpage-generator.webp" alt="AI ColoringPage Generator">
+
+#### ¡Página para colorear de IA en línea! Generador de páginas para colorear con IA gratuito, genera páginas para colorear a partir de palabras rápidas mediante IA.
+[Visit](https://www.thataicollection.com/redirect/ai-coloringpage-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI ColoringPage Online es una herramienta de inteligencia artificial (IA) diseñada para generar páginas para colorear únicas e imprimibles. Los usuarios escriben palabras rápidas y el sistema utiliza esta información para crear páginas para colorear únicas y de alta calidad.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/ai-coloringpage-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### ApplyPass
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-applypass.webp" alt="ApplyPass">
+
+#### Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.
+[Visit](https://www.thataicollection.com/redirect/applypass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
+
+ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/applypass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI Trip Maker
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-trip-maker.webp" alt="AI Trip Maker">
+
+#### Creador de viajes con IA: tu planificador de viajes personal, IA
+[Visit](https://www.thataicollection.com/redirect/ai-trip-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AiTripMaker: tu IA planificadora de viajes personal hace que planificar tu próximo viaje sea fácil y divertido. ¡Simplemente introduce tu destino y consigue un plan de viaje personalizado! Personaliza el plan de cualquier forma (añade más días, conviértelo en unas vacaciones gastronómicas, etc.) simplemente pidiéndole a AiTripMaker que lo haga.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/ai-trip-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### JobBuddy
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobbuddy.webp" alt="JobBuddy">
 
@@ -180,67 +255,6 @@ Explora nuestra colección de exquisitas fotos de perfil, diseñadas para mejora
 3). Espera a que lleguen los resultados.  
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nudifying
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudifying.webp" alt="Nudifying">
-
-#### Nudifying ofrece un servicio único en el que prometen «desvestir a cualquiera» a través de su plataforma fácil de usar.
-[Visit](https://www.thataicollection.com/redirect/nudifying?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Al seleccionar criterios específicos, como la edad, el tipo de cuerpo y la calidad, los usuarios pueden obtener resultados en cuestión de segundos. Es importante tener en cuenta que la desnudez hace hincapié en su propósito únicamente de entretenimiento y garantiza que no se pretenda ofender. Los usuarios deben recordar que son totalmente responsables de las imágenes que crean y deben obtener el debido consentimiento antes de utilizar las fotos de otra persona.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/nudifying?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### BeachAtlas
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-beachatlas.webp" alt="BeachAtlas">
-
-#### Descubre la mejor experiencia de playa local.
-[Visit](https://www.thataicollection.com/redirect/beachatlas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-BeachAtlas.com es una enciclopedia de playas. Gracias a la IA, beachatlas.com permite a los usuarios encontrar las playas locales. Por ejemplo, incluye una función de búsqueda que te permite encontrar playas mediante consultas en lenguaje natural. Además, ofrece numerosas listas seleccionadas por IA, que clasifican las playas en varias categorías para adaptarse a los diferentes gustos y preferencias, garantizando que hay algo para todos los gustos.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/beachatlas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Scispace
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scispace.webp" alt="Scispace">
-
-#### Scispace by Typeset: descubre, crea, publica y promociona tu trabajo de investigación
-[Visit](https://www.thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chatea con PDF y revisa la literatura más rápido con SciSpace. Descubre más de 200 millones de artículos o sube tu propio PDF, resalta el texto o haz preguntas y extrae explicaciones y resúmenes.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Winxvideo AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-winxvideo-ai.webp" alt="Winxvideo AI">
-
-#### Winxvideo AI: potenciador de vídeo e imagen. Mejorar, estabilizar, convertir, editar, grabar vídeo
-[Visit](https://www.thataicollection.com/redirect/winxvideo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Winxvideo AI, una versión rebautizada y mejorada de WinX HD Video Converter Deluxe, es un conjunto de herramientas de vídeo de IA integral para mejorar el vídeo o la imagen de baja calidad a 4K, estabilizar el vídeo inestable y aumentar los fps de 24 a 60/120. Convierte, comprime, edita vídeos y graba pantallas con aceleración de GPU.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/winxvideo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4629,6 +4643,21 @@ Nuestra IA creará un plan personalizado para cualquier ciudad o lugar que le gu
 ¡Desbloquee el nombre de blog de viajes perfecto con el Generador de ideas de nombres de blogs de TravelFeed! Agrega una palabra clave (tal vez tu propio nombre) y observa cómo nuestra IA te deslumbra con una gran cantidad de sugerencias elegantes. ¿Te encanta un nombre? Verifique rápidamente su dominio .com y la disponibilidad del nombre de usuario de TravelFeed. ¡Sumérgete en tu viaje de blogs con un nombre que es tan aventurero como tú!
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/travel-blog-name-ideas-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI Trip Maker
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-trip-maker.webp" alt="AI Trip Maker">
+
+#### Creador de viajes con IA: tu planificador de viajes personal, IA
+[Visit](https://www.thataicollection.com/redirect/ai-trip-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AiTripMaker: tu IA planificadora de viajes personal hace que planificar tu próximo viaje sea fácil y divertido. ¡Simplemente introduce tu destino y consigue un plan de viaje personalizado! Personaliza el plan de cualquier forma (añade más días, conviértelo en unas vacaciones gastronómicas, etc.) simplemente pidiéndole a AiTripMaker que lo haga.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/ai-trip-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

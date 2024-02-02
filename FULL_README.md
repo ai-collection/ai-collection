@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1055" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1058" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,19 +59,6 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
-    <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -80,6 +67,32 @@ Translations:
 
 Your wildest dreams are just a click away today!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
+    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It's an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with AiApply</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
+    <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
     <br />
 </div>
 
@@ -186,6 +199,7 @@ Your wildest dreams are just a click away today!</p>
 |---|---|---|:---:|
 | [Accomplice](https://www.thataicollection.com/redirect/accomplice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-Powered Design Generation, Editing and Training. | Accomplices AI-powered platform helps your team generate 100% royalty-free logos, photos and graphics while saving time, cutting costs, and simplifying your workflow. | :white_check_mark: |
 | [Ai Art Generator](https://www.thataicollection.com/redirect/ai-art-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Art Generator - AI Image Maker - AI Art Limited. | Ai Art Limited, creates images, videos, music, and article for you using artificial intelligence. With our app, you can become an artist using artificial intelligence. | :grey_question: |
+| [AI ColoringPage Generator](https://www.thataicollection.com/redirect/ai-coloringpage-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI ColoringPage Online !Free AI ColoringPage Generator, It generates coloring page from a prompt words using AI. | AI ColoringPage Online is an artificial intelligence (AI) tool designed to generate unique and printable coloring pages. Users input prompt words and the system uses this information to create unique, high quality coloring pages. | :white_check_mark: |
 | [AI Comic Factory](https://www.thataicollection.com/redirect/ai-comic-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The AI Comic Factory is an online platform that allows you to generate your own comics with the help of AI. | AI Comic Factory is a free and open-source application made to demonstrate the capabilities of AI models.  The language model used to generate the descriptions of each panel is Llama-2 70b. The stable diffusion model used to generate the images is the base SDXL 1.0. The code is public and can be deployed at home with some changes in README for details about the architecture. | :white_check_mark: |
 | [AI Emoji Generator](https://www.thataicollection.com/redirect/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Emoji Generator: Transforming Text into Expressive Emojis in Seconds. | The AI Emoji Generator is an innovative tool that brings your text to life by converting words into emojis.   Simply input any phrase or sentiment, and the tool intelligently selects and generates relevant emojis, enhancing digital communication with a fun, visual twist.   Perfect for spicing up messages, social media posts, or any form of digital content. | :white_check_mark: |
 | [AI Funko Pop Generator](https://www.thataicollection.com/redirect/ai-funko-pop-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The AI Funko Pop Generator is a free image generator based on artificial intelligence. | The AI Funko Pop Generator is a free image generator based on artificial intelligence. It can create personalized Funko Pop images according to user-specified descriptions, delivering your customized image in less than a second. | :white_check_mark: |
@@ -1035,6 +1049,7 @@ Your wildest dreams are just a click away today!</p>
 |---|---|---|:---:|
 | [AICamp](https://www.thataicollection.com/redirect/aicamp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT for Teams AICamp enables teams to centralize access to leading AI models like Claude, Bard, and custom large language models through a unified platform. | You can integrate these models using your own API keys for seamless access within one solution. The platform allows teams to boost productivity by eliminating the need to toggle between multiple tools to leverage different AI capabilities. With AICamp, employees can get answers, recommendations, and automated responses powered by state-of-the-art language models. | :white_check_mark: |
 | [aiPDF](https://www.thataicollection.com/redirect/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | aiPDF is an innovative, multi-modal tool designed to work with a wide array of inputs, including ebooks, web articles, YouTube videos, podcasts, and more. | The platform's (Q&A) system is rigorously tested against benchmarks from notable companies and esteemed institutions, including Google and Stanford University, ensuring the delivery of accurate and fine-tuned responses. Prioritizing user privacy, aiPDF is equipped with advanced safety systems to protect both your documents and personal information, ensuring a secure and private user experience. | :white_check_mark: |
+| [ApplyPass](https://www.thataicollection.com/redirect/applypass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Land your ideal job with our job application AI. Automatically apply to hundreds of engineering jobs every week! Join ApplyPass to get 100 free applications. | ApplyPass is an AI-powered job search tool that gets you more job interviews. ApplyPass submits 200-400 tailored job applications on your behalf every month. This tool offers the first 100 job applications for free.  ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that's 40% higher than the industry average. | :white_check_mark: |
 | [Ask Poppy](https://www.thataicollection.com/redirect/ask-poppy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Poppylist - Be the Parent You Want to Be. | Preparing for the parenthood journey one baby step at a time. Welcome to Poppylist, your baby registry simplified. You know your lifestyle. We know the products. Let's build your baby registry together. | :white_check_mark: |
 | [Based Labs AI](https://www.thataicollection.com/redirect/based-labs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | BasedLabs is a creative hub for AI video generation, enabling users to explore, create, and share diverse AI-powered videos. | BasedLabs offers an engaging platform for exploring and creating AI-generated videos, from abstract animations to story-rich content. It provides intuitive tools for users to craft and share their own AI videos,fostering a community of innovation and creativity.  This site is a destination for both viewing remarkable AI video creations and expressing personal artistic vision through AI technology. | :white_check_mark: |
 | [Bongocat](https://www.thataicollection.com/redirect/bongocat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bongocat is an AI-integrated content management system, a blog that can write itself. | Creating your Bongocat site is an easy no-code process. With a few clicks and a little setup, your new blog site is live and ready to start creating high-quality AI-generated content that you can review, edit and publish in minutes. | :grey_question: |
@@ -1184,6 +1199,7 @@ Your wildest dreams are just a click away today!</p>
 | [HotConvo](https://www.thataicollection.com/redirect/hotconvo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Spark Romance - Get Fun, Witty, and Sexy Chat Suggestions for Your Online Dating. | Flirty chats in seconds. Take a screenshot of profile bio or an ongoing conversation, from Tinder, Bumble, or any dating apps -> Let Hotconvo understand the context for smart suggestions -> Get multiple suggestions to get inspiration of what to say for your next message. | :white_check_mark: |
 | [LoveGenius](https://www.thataicollection.com/redirect/lovegenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create Catchy and Attention-Grabbing Dating Bios and Get Better Matches on Tinder, Bumble and Others!. | LoveGenius is an AI dating assistant that helps attract better matches by crafting an outstanding dating profile. It uses a combination of machine learning algorithms, data from successful dating profiles, and human insights based on interviews with dating coaches and experts. | :white_check_mark: |
 | [OneDateIdea](https://www.thataicollection.com/redirect/onedateidea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Get One Date Idea! Onedateidea.com acts as a wellspring of inspiration, ensuring that your date won't be a boring or typical outing. | OneDateIdea is the ultimate solution for anyone grappling with the daunting task of planning a date. If you're stuck for inspiration or overwhelmed by the multitude of options out there, this service swoops in to save the day. | :white_check_mark: |
+| [Opencord.AI](https://www.thataicollection.com/redirect/opencord.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Agent-Generated Content for Social Media. | We are building Al Agents Collaboration Platform, where we envisioning ai agents can collaborate among each other to help content creator to create useful/viral content faster and easier. While exploring all exciting, fun and useful GPTs from global builders for personal and professional use. We launched 3 AI agents, if you are interested in check them out, feel free to take a look at our site!. | :white_check_mark: |
 | [Postwise](https://www.thataicollection.com/redirect/postwise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Postwise - Write, Schedule & Grow With Twitter AI. | Write, schedule and grow with the world's smartest AI Twitter tool. | :grey_question: |
 | [Prettysmart.co](https://www.thataicollection.com/redirect/prettysmart.co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Prettysmart - The fastest social media creator in the world. | We use artificial intelligence to write your copy and use your brand collateral to create the design. Seamless Design - Upload your brand collateral, and prettysmart will design your posts according to your brand. A.I. Copywriter - Just tell us what you want to say, and the AI will write the posts in literally seconds. | :white_check_mark: |
 | [ReContent.AI](https://www.thataicollection.com/redirect/recontent.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generate Viral Social Media Content From Your Blog Post - Newsletter - Audio Content - Long-Form Content. | Spending hours on repurposing your content? You already did the heavy lifting, now maximize the potential of your content Let AI do the work for you. | :white_check_mark: |
@@ -1332,6 +1348,7 @@ Your wildest dreams are just a click away today!</p>
 ## Vacation & Trip Planner
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [AI Trip Maker](https://www.thataicollection.com/redirect/ai-trip-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Trip Maker - Your Personal Trip Planner AI. | AITripMaker - your personal Trip Planner AI makes planning your next trip easy & fun! Simply enter your destination & get a personalized travel plan! Customize the plan in any way (add more days, make it a foodie vacation etc.) just by asking AITripMaker to do so!. | :white_check_mark: |
 | [BeachAtlas](https://www.thataicollection.com/redirect/beachatlas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Discover the best local beach experience. | Beachatlas.com is an encyclopedia of beaches. Leveraging AI, beachatlas.com enables users to find local beaches. For instance, it features a search function that allows you to find beaches using natural language queries. Additionally, it offers numerous AI-curated lists, classifying beaches into various categories to suit different tastes and preferences, ensuring there’s something for everyone. | :white_check_mark: |
 | [Orkoi](https://www.thataicollection.com/redirect/orkoi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Orkoi - Make a Personalized Travel Plan in Seconds, Free, No Signup. | Our AI will build you a customized plan for any city or location you'd like to visit, complete with restaurants, fun activities, attractions and tips to make the best adventure. | :white_check_mark: |
 | [Roamr](https://www.thataicollection.com/redirect/roamr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Roamr - AI Travel Planner - Your Dream Vacation in Seconds. | Experience the future of AI travel planning with Roam Around! We've crafted over 10 million tailor-made itineraries to date Just pick your destination, and we'll provide a unique plan within seconds. Embrace seamless travel planning now!. | :grey_question: |
