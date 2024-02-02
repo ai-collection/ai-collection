@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1055" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1058" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
-    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -74,6 +61,32 @@
 
 今天只需点击一下即可实现您最疯狂的梦想！</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
+    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 AiApply</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
+    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
     <br />
 </div>
 
@@ -285,6 +298,7 @@
 ## 假期和旅行计划
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
+| [AI Trip Maker](https://www.thataicollection.com/redirect/ai-trip-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Trip Maker-你的个人旅行规划师 AI. | AitripMaker-你的个人旅行规划器 AI 让你的下一次旅行计划变得轻松而有趣！只需输入您的目的地，即可获得个性化的旅行计划！只需让 AitripMaker 这样做，就可以以任何方式自定义计划（增加天数，使其成为美食家度假等）！. | :white_check_mark: |
 | [BeachAtlas](https://www.thataicollection.com/redirect/beachatlas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 探索当地最佳海滩体验。. | BeachAtlas.com是一本海滩百科全书。利用人工智能，beachatlas.com使用户能够找到当地的海滩。例如，它具有搜索功能，可让您使用自然语言查询来查找海滩。此外，它还提供了大量人工智能精选的清单，将海滩分为不同的类别以满足不同的口味和偏好，确保每个人都能找到适合自己的东西。. | :white_check_mark: |
 | [Orkoi](https://www.thataicollection.com/redirect/orkoi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Orkoi - 快速制定个性化旅行计划，免费，无需注册. | 我们的 AI 将为您制定适合您想要游览的任何城市或地点的定制计划，包括餐厅、有趣的活动、景点和小贴士，助您开启最佳冒险之旅. | :white_check_mark: |
 | [Roamr](https://www.thataicollection.com/redirect/roamr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Roamr-AI 旅行规划师-几秒钟内即可实现您的梦想假期. | 使用 Roam Around 体验人工智能旅行规划的未来！迄今为止，我们已经精心设计了超过1000万条量身定制的行程，只需选择您的目的地，我们将在几秒钟内提供独特的计划。立即采用无缝旅行计划！. | :grey_question: |
@@ -865,6 +879,7 @@
 |---|---|---|:---:|
 | [AICamp](https://www.thataicollection.com/redirect/aicamp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 适用于团队的 ChatGPT AiCamp 使团队能够通过统一平台集中访问领先的人工智能模型，如 Claude、Bard 和自定义大型语言模型。. | 您可以使用自己的 API 密钥集成这些模型，以便在一个解决方案中无缝访问。 该平台使团队无需在多个工具之间切换即可利用不同的人工智能功能，从而提高生产力。借助 AiCamp，员工可以获得由最先进的语言模型支持的答案、推荐和自动回复。. | :white_check_mark: |
 | [aiPDF](https://www.thataicollection.com/redirect/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | aiPdf 是一款创新的多模式工具，旨在处理各种输入，包括电子书、网络文章、YouTube 视频、播客等。. | 该平台的（问答）系统根据包括谷歌和斯坦福大学在内的知名公司和知名机构的基准进行了严格的测试，确保了提供准确和微调的回复。AiPDF优先考虑用户隐私，配备了先进的安全系统，可保护您的文件和个人信息，确保安全和私密的用户体验。. | :white_check_mark: |
+| [ApplyPass](https://www.thataicollection.com/redirect/applypass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 借助我们的求职AI找到理想的工作。每周自动申请数百个工程职位！加入 ApplyPass 获得 100 个免费应用程序。. | ApplyPass是一款由人工智能驱动的求职工具，可以让你获得更多的求职面试。ApplyPass每月代表你提交200-400份量身定制的求职申请。该工具免费提供前100份求职申请。  ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行业平均水平高40％。. | :white_check_mark: |
 | [Ask Poppy](https://www.thataicollection.com/redirect/ask-poppy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Poppylist-成为你想成为的父母. | 一步一个脚印地为父母之旅做准备。 欢迎来到 Poppylist，您的宝宝注册表简化了。 你知道自己的生活方式。我们知道产品。让我们一起建立您的宝宝注册表。. | :white_check_mark: |
 | [Based Labs AI](https://www.thataicollection.com/redirect/based-labs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | basedLabs 是生成 AI 视频的创意中心，使用户能够探索、创建和分享各种人工智能驱动的视频。. | basedLabs提供了一个引人入胜的平台，用于探索和创建人工智能生成的视频，从抽象动画到故事丰富的内容。它为用户提供了制作和共享自己的人工智能视频的直观工具，从而促进了创新和创造力的社区。  该网站既是观看精彩的人工智能视频创作的目的地，也是通过人工智能技术表达个人艺术愿景的目的地。. | :white_check_mark: |
 | [Bongocat](https://www.thataicollection.com/redirect/bongocat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bongocat 是一个集成了人工智能的内容管理系统，一个可以自己写的博客. | 创建 Bongocat 网站是一个简单的过程，无需编码。只需点击几下并进行一些设置，您的新博客网站就可以上线了，可以开始创建高质量的 AI 生成的内容，您可以在几分钟内查看、编辑和发布这些内容。. | :grey_question: |
@@ -991,6 +1006,7 @@
 | [HotConvo](https://www.thataicollection.com/redirect/hotconvo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Spark Romance - 为您的在线约会获取有趣、机智和性感的聊天建议。. | 在几秒钟内进行调情聊天。从 Tinder、Bumble 或任何约会应用程序截取个人资料简介或正在进行的对话 -> 让 Hotconvo 了解智能建议的上下文 -> 获取多个建议以获取灵感，为你的下一条消息说些什么。. | :white_check_mark: |
 | [LoveGenius](https://www.thataicollection.com/redirect/lovegenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创建引人入胜且引人注目的约会简历，并在 Tinder、Bumble 和其他网站上获得更好的匹配！. | LoveGenius 是一款 AI 约会助手，可通过制作出色的约会档案来帮助吸引更好的匹配对象。它结合了机器学习算法、来自成功约会资料的数据，以及基于对约会教练和专家的采访的人类见解。. | :white_check_mark: |
 | [OneDateIdea](https://www.thataicollection.com/redirect/onedateidea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 获取一次约会的想法!OnedateIdea.com是灵感的源泉，可确保您的约会不会是一次无聊或典型的郊游。. | OneDateIdea是任何努力完成计划约会这一艰巨任务的人的终极解决方案.如果你想获得灵感，或者对众多的选择感到不知所措，那么这项服务可以帮助你挽救局面。. | :white_check_mark: |
+| [Opencord.AI](https://www.thataicollection.com/redirect/opencord.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 代理生成的社交媒体内容. | 我们正在构建Al Agents协作平台，我们设想人工智能代理可以相互协作，以帮助内容创作者更快、更轻松地创建有用/病毒式的内容。同时探索来自全球建筑商的所有令人兴奋、有趣和有用的 GPT，供个人和专业人士使用。我们推出了 3 个 AI 代理，如果你有兴趣查看它们，请随时访问我们的网站！. | :white_check_mark: |
 | [Postwise](https://www.thataicollection.com/redirect/postwise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Postwise - 使用 Twitter AI 编写、安排和成长. | 使用世界上最智能的 AI Twitter 工具编写、安排和成长. | :grey_question: |
 | [Prettysmart.co](https://www.thataicollection.com/redirect/prettysmart.co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Prettysmart-世界上最快的社交媒体创作者。. | 我们使用人工智能来撰写您的文案，并使用您的品牌宣传材料来创建设计。无缝设计-上传您的品牌宣传资料，prettysmart 将根据您的品牌设计您的帖子。人工智能撰稿人——只要告诉我们你想说什么，人工智能就会在几秒钟内写出帖子。. | :white_check_mark: |
 | [ReContent.AI](https://www.thataicollection.com/redirect/recontent.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 从您的博客文章生成病毒式社交媒体内容 -时事通讯 -音频内容-长篇内容. | 花费数小时重新利用您的内容？您已经完成了繁重的工作，现在可以最大限度地发挥内容的潜力，让人工智能为您完成工作。. | :white_check_mark: |
@@ -1162,6 +1178,7 @@
 |---|---|---|:---:|
 | [Accomplice](https://www.thataicollection.com/redirect/accomplice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的设计生成、编辑和培训. | Accomplice 的人工智能平台可帮助您的团队生成 100% 免版税的徽标、照片和图形，同时节省时间、降低成本并简化您的工作流程. | :white_check_mark: |
 | [Ai Art Generator](https://www.thataicollection.com/redirect/ai-art-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ai Art Generator - Ai Image Maker - 艾艺有限公司. | Ai Art Limited，使用人工智能为您创建图像、视频、音乐和文章。使用我们的应用程序，您可以成为使用人工智能的艺术家。. | :grey_question: |
+| [AI ColoringPage Generator](https://www.thataicollection.com/redirect/ai-coloringpage-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI ColoringPage 在线！免费的人工智能着色页生成器，它使用人工智能根据提示词生成彩页。. | AI ColoringPage Online 是一款人工智能 (AI) 工具，旨在生成独特且可打印的彩页。用户输入提示词，系统使用这些信息来创建独特、高质量的彩页。. | :white_check_mark: |
 | [AI Comic Factory](https://www.thataicollection.com/redirect/ai-comic-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Comic Factory 是一个在线平台，允许你在人工智能的帮助下生成自己的漫画。. | AI Comic Factory 是一款免费的开源应用程序，旨在演示人工智能模型的功能。  用于生成每个面板描述的语言模型是 Llama-2 70b。 用于生成图像的稳定扩散模型是 SDXL 1.0 的基础。 该代码是公开的，可以在家中部署，只需在README中进行一些更改，以获取有关架构的详细信息。. | :white_check_mark: |
 | [AI Emoji Generator](https://www.thataicollection.com/redirect/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 表情符号生成器：在几秒钟内将文本转换为富有表现力的表情符号。. | AI 表情符号生成器是一款创新工具，可通过将单词转换为表情符号来使您的文字生动起来。   只需输入任何短语或情感，该工具就会智能地选择和生成相关的表情符号，通过有趣的视觉效果增强数字沟通。   非常适合为信息、社交媒体帖子或任何形式的数字内容增添趣味。. | :white_check_mark: |
 | [AI Funko Pop Generator](https://www.thataicollection.com/redirect/ai-funko-pop-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Funko Pop 生成器是一款基于人工智能的免费图像生成器。. | AI Funko Pop 生成器是一款基于人工智能的免费图像生成器。它可以根据用户指定的描述创建个性化的 Funko Pop 图像，在不到一秒钟的时间内交付您的自定义图像。. | :white_check_mark: |

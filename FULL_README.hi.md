@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1055" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1058" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
-    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -74,6 +61,32 @@
 
 तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply: नौकरी खोजने वालों के लिए AI टूल, ताकि बेहतरीन एप्लीकेशन तैयार किया जा सके</h4>
+    <p>AIApply AI टूल का एक डायनामिक सूट है, जिसे नौकरी तलाशने वालों को सशक्त बनाने के लिए डिज़ाइन किया गया है। यह नौकरी की आवेदन प्रक्रिया को आसान बनाता है, रिज़्यूमे की गुणवत्ता को बढ़ाता है, साक्षात्कारों के लिए तैयार करता है और करियर के सबसे अच्छे अवसरों की पहचान करता है। AIApply नौकरी खोजने की रणनीतियों को वैयक्तिकृत करता है, यह सुनिश्चित करता है कि यूज़र प्रतिस्पर्धी बाज़ारों में अलग दिखें। यह उन लोगों के लिए ज़रूरी टूल है जो AI की मदद से अपने करियर की राह में तेज़ी लाना चाहते हैं।</p>
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>AiApply के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
+    <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -172,6 +185,7 @@
 ## अवकाश और ट्रिप प्लानर
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
+| [AI Trip Maker](https://www.thataicollection.com/redirect/ai-trip-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई ट्रिप मेकर - तुम्हारा पर्सनल ट्रिप प्लानर एआई. | AITripMaker - तुम्हारा निजी ट्रिप प्लानर AI तुम्हारी अगली यात्रा की योजना बनाना आसान और मजेदार बनाता है! बस अपनी मंज़िल दर्ज करें और यात्रा का व्यक्तिगत प्लान पाएँ! बस AITripMaker से ऐसा करने के लिए कहकर प्लान को कस्टमाइज़ करें (और दिन जोड़ें, खाने के लिए छुट्टी वगैरह बनाएं)!. | :white_check_mark: |
 | [BeachAtlas](https://www.thataicollection.com/redirect/beachatlas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्थानीय बीच के सबसे अच्छे अनुभव के बारे में पता चलता है।. | BeachAtlas.com समुद्र तटों का एक विश्वकोश है। AI का लाभ उठाते हुए, beachatlas.com यूज़र को स्थानीय समुद्र तट ढूंढने में मदद करता है। उदाहरण के लिए, इसमें एक सर्च फंक्शन है, जिसकी मदद से तुम्हेंं प्राकृतिक भाषाओं के प्रश्नों का इस्तेमाल करके समुद्र तट ढूंढने का मौका मिलता है। इसके अलावा, यह एआई-क्यूरेटेड कई सूचियां प्रदान करता है, अलग-अलग स्वाद और पसंद के अनुसार समुद्र तटों को विभिन्न श्रेणियों में वर्गीकृत करता है, यह सुनिश्चित करता है कि हर किसी के लिए कुछ न कुछ हो।. | :white_check_mark: |
 | [Orkoi](https://www.thataicollection.com/redirect/orkoi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Orkoi - सेकंड में एक व्यक्तिगत यात्रा योजना बनाएं, निःशुल्क, कोई पंजीकरण नहीं. | हमारा एआई आपको किसी भी शहर या स्थान के लिए एक अनुकूलित योजना तैयार करेगा, जहां आप जाना चाहते हैं, रेस्तरां, मजेदार गतिविधियों, आकर्षण और सर्वोत्तम साहसिक कार्य करने के लिए युक्तियों के साथ पूरा करें।. | :white_check_mark: |
 | [Roamr](https://www.thataicollection.com/redirect/roamr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रोमर - AI ट्रेवल प्लानर - कुछ ही सेकंड में आपका ड्रीम वेकेशन. | Roam Around के साथ AI ट्रेवल प्लानिंग के भविष्य का अनुभव करें! हमने अब तक 10 मिलियन से अधिक विशेष यात्रा कार्यक्रम तैयार किए हैं, बस अपनी मंज़िल चुनें, और हम कुछ ही सेकंड में एक अनोखा प्लान उपलब्ध कराएँगे। यात्रा की आसान योजना को अभी अपनाएं!. | :grey_question: |
@@ -328,6 +342,7 @@
 |---|---|---|:---:|
 | [AICamp](https://www.thataicollection.com/redirect/aicamp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टीमों के लिए ChatGPT AICamp एक एकीकृत प्लेटफ़ॉर्म के माध्यम से टीमों को प्रमुख AI मॉडल जैसे क्लाउड, बार्ड और कस्टम बड़े भाषा मॉडल तक पहुँच को केंद्रीकृत करने में मदद करता है।. | तुम अपनी खुद की API कुंजियों का इस्तेमाल करके इन मॉडल को इंटीग्रेट कर सकते हो, ताकि एक ही समाधान में आसानी से एक्सेस किया जा सके। प्लेटफ़ॉर्म टीमों को अलग-अलग AI क्षमताओं का लाभ उठाने के लिए कई उपकरणों के बीच टॉगल करने की आवश्यकता को समाप्त करके उत्पादकता बढ़ाने की सुविधा देता है। AICamp की मदद से, कर्मचारियों को अत्याधुनिक भाषा मॉडल द्वारा उत्तर, सुझाव और स्वचालित प्रतिक्रियाएँ मिल सकती हैं।. | :white_check_mark: |
 | [aiPDF](https://www.thataicollection.com/redirect/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AIPDF एक अभिनव, मल्टी-मोडल टूल है, जिसे कई तरह के इनपुट के साथ काम करने के लिए डिज़ाइन किया गया है, जिसमें ई-बुक्स, वेब लेख, YouTube वीडियो, पॉडकास्ट और बहुत कुछ शामिल हैं।. | प्लेटफ़ॉर्म के (Q&A) सिस्टम का Google और स्टैनफ़ोर्ड यूनिवर्सिटी सहित नामी कंपनियों और प्रतिष्ठित संस्थानों के बेंचमार्क के खिलाफ कड़ाई से परीक्षण किया जाता है, जिससे सटीक और बेहतरीन प्रतिक्रियाएँ मिलती हैं। यूज़र की गोपनीयता को प्राथमिकता देते हुए, AIPDF में तुम्हारे दस्तावेज़ों और व्यक्तिगत जानकारी, दोनों की सुरक्षा के लिए एडवांस सुरक्षा प्रणालियाँ हैं, जिससे यूज़र को सुरक्षित और निजी अनुभव मिलता है।. | :white_check_mark: |
+| [ApplyPass](https://www.thataicollection.com/redirect/applypass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हमारे जॉब एप्लीकेशन एआई की मदद से अपने लिए आदर्श नौकरी पाओ। हर हफ़्ते सैंकड़ों इंजीनियरिंग नौकरियों पर स्वचालित रूप से आवेदन करो! 100 मुफ़्त ऐप्लिकेशन पाने के लिए ApplyPass से जुड़ें।. | ApplyPass एक AI-संचालित जॉब सर्च टूल है, जिससे तुम्हेंं नौकरी के लिए ज़्यादा इंटरव्यू मिलते हैं। ApplyPass तुम्हारी ओर से हर महीने 200-400 अनुकूलित नौकरी के लिए आवेदन सबमिट करता है। यह टूल नौकरी के पहले 100 आवेदन मुफ़्त में देता है।  ApplyPass.com ने इंजीनियरों के लिए हज़ारों इंटरव्यू तैयार किए हैं, जिनका औसत रिस्पांस रेट इंडस्ट्री के औसत से 40% ज्यादा है।. | :white_check_mark: |
 | [Ask Poppy](https://www.thataicollection.com/redirect/ask-poppy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पॉपीलिस्ट - माता-पिता बनो, जो तुम बनना चाहते हो. | एक बार में एक बच्चे के माता-पिता बनने की यात्रा की तैयारी करना। पॉपीलिस्ट में आपका स्वागत है, तुम्हारे बच्चों की रजिस्ट्री आसान हो गई है। तुम्हेंं अपनी जीवनशैली के बारे में पता है। हमें प्रॉडक्ट्स के बारे में पता है। चलिए मिलकर तुम्हारे बच्चे की रजिस्ट्री बनाते हैं।. | :white_check_mark: |
 | [Based Labs AI](https://www.thataicollection.com/redirect/based-labs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | BasedLabs AI वीडियो बनाने का एक क्रिएटिव हब है, जिससे यूज़र AI-संचालित विविध वीडियो एक्सप्लोर कर सकते हैं, बना सकते हैं और शेयर कर सकते हैं।. | बेस्डलैब्स एब्स्ट्रैक्ट एनिमेशन से लेकर कहानी से भरपूर कॉन्टेंट तक, एआई-जनरेट किए गए वीडियो खोजने और बनाने के लिए एक आकर्षक प्लेटफ़ॉर्म प्रदान करता है। यह यूज़र को अपने AI वीडियो बनाने और शेयर करने के लिए सहज टूल प्रदान करता है, जिससे नवोन्मेष और रचनात्मकता के समुदाय को बढ़ावा मिलता है।  यह साइट उल्लेखनीय AI वीडियो बनाने और AI तकनीक के माध्यम से व्यक्तिगत कलात्मक नज़रिया व्यक्त करने, दोनों के लिए एक गंतव्य है।. | :white_check_mark: |
 | [Bongocat](https://www.thataicollection.com/redirect/bongocat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बोंगोकैट एक एआई-इंटीग्रेटेड कंटेंट मैनेजमेंट सिस्टम है, एक ऐसा ब्लॉग है जो खुद लिख सकता है. | अपनी Bongocat साइट बनाना एक आसान नो-कोड प्रोसेस है। कुछ ही क्लिक और थोड़े से सेटअप के साथ, तुम्हारी नई ब्लॉग साइट लाइव हो जाएगी और AI-जनरेट की गई उच्च-गुणवत्ता वाली सामग्री बनाना शुरू करने के लिए तैयार है, जिसकी तुम मिनटों में समीक्षा कर सकते हो, संपादित कर सकते हो और प्रकाशित कर सकते हो।. | :grey_question: |
@@ -405,6 +420,7 @@
 |---|---|---|:---:|
 | [Accomplice](https://www.thataicollection.com/redirect/accomplice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-संचालित डिजाइन जनरेशन, संपादन और प्रशिक्षण. | सह-अपराधी एआई-पावर्ड प्लेटफॉर्म आपकी टीम को 100% रॉयल्टी-मुक्त लोगो, फोटो और ग्राफिक्स बनाने में मदद करता है, समय की बचत करता है, लागत में कटौती करता है, और आपके वर्कफ़्लो को सरल बनाता है।. | :white_check_mark: |
 | [Ai Art Generator](https://www.thataicollection.com/redirect/ai-art-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई आर्ट जेनरेटर - एआई इमेज मेकर - एआई आर्ट लिमिटेड. | एआई आर्ट लिमिटेड, आर्टिफिशियल इंटेलिजेंस का उपयोग करके आपके लिए चित्र, वीडियो, संगीत और लेख बनाता है। हमारे ऐप से आप आर्टिफिशियल इंटेलिजेंस का उपयोग करके कलाकार बन सकते हैं।. | :grey_question: |
+| [AI ColoringPage Generator](https://www.thataicollection.com/redirect/ai-coloringpage-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई कलरिंग पेज ऑनलाइन! मुफ़्त AI कलरिंग पेज जेनरेटर, यह AI का इस्तेमाल करके प्रॉम्प्ट शब्दों से कलरिंग पेज बनाता है।. | एआई कलरिंगपेज ऑनलाइन एक आर्टिफिशियल इंटेलीजेंस (एआई) टूल है, जिसे अनोखे और प्रिंट करने योग्य कलरिंग पेज बनाने के लिए डिज़ाइन किया गया है। यूज़र त्वरित शब्द इनपुट करते हैं और सिस्टम इस जानकारी का उपयोग अनोखे, उच्च गुणवत्ता वाले कलरिंग पेज बनाने के लिए करता है।. | :white_check_mark: |
 | [AI Comic Factory](https://www.thataicollection.com/redirect/ai-comic-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI कॉमिक फ़ैक्टरी एक ऑनलाइन प्लेटफ़ॉर्म है, जिसकी मदद से तुम्हेंं AI की मदद से अपनी कॉमिक्स बनाने की सुविधा देता है।. | AI Comic Factory एक मुफ़्त और ओपन-सोर्स एप्लिकेशन है, जिसे AI मॉडल की क्षमताओं को प्रदर्शित करने के लिए बनाया गया है।  हर पैनल के विवरण जेनरेट करने के लिए इस्तेमाल किया जाने वाला भाषा मॉडल लामा-2 70b है। इमेज जेनरेट करने के लिए जिस स्टेबल डिफ़्यूज़न मॉडल का इस्तेमाल किया गया, वह है बेस SDXL 1.0। कोड सार्वजनिक है और आर्किटेक्चर के बारे में जानकारी के लिए README में कुछ बदलावों के साथ इसे घर पर ही लागू किया जा सकता है।. | :white_check_mark: |
 | [AI Emoji Generator](https://www.thataicollection.com/redirect/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI इमोजी जेनरेटर: कुछ ही सेकंड में टेक्स्ट को एक्सप्रेसिव इमोजी में ट्रांसफ़ॉर्म करना।. | AI इमोजी जेनरेटर एक नवोन्मेषी टूल है, जो शब्दों को इमोजी में बदलकर तुम्हारे टेक्स्ट को जीवंत बनाता है।   बस किसी भी वाक्यांश या भावना को इनपुट करें, और टूल समझदारी से प्रासंगिक इमोजी को चुनता है और जनरेट करता है, जिससे एक मजेदार, विज़ुअल ट्विस्ट के साथ डिजिटल संचार बढ़ता है।   मैसेज, सोशल मीडिया पोस्ट या किसी भी तरह के डिजिटल कॉन्टेंट की जानकारी देने के लिए बहुत बढ़िया।. | :white_check_mark: |
 | [AI Funko Pop Generator](https://www.thataicollection.com/redirect/ai-funko-pop-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई फ़नको पॉप जेनरेटर आर्टिफ़िशियल इंटेलीजेंस पर आधारित एक मुफ़्त इमेज जनरेटर है।. | एआई फ़नको पॉप जेनरेटर आर्टिफ़िशियल इंटेलीजेंस पर आधारित एक मुफ़्त इमेज जनरेटर है। यह यूज़र द्वारा बताए गए विवरण के अनुसार व्यक्तिगत फ़नको पॉप इमेज बना सकता है, जिससे तुम्हारी कस्टमाइज्ड इमेज एक सेकंड से भी कम समय में डिलीवर हो जाएगी।. | :white_check_mark: |
@@ -1436,6 +1452,7 @@
 | [HotConvo](https://www.thataicollection.com/redirect/hotconvo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | चिंगारी रोमांस - अपने ऑनलाइन डेटिंग के लिए मज़ा, मजाकिया और सेक्सी चैट सुझाव प्राप्त करें।. | सेकंड में फ्लर्टी चैट। Tinder, Bumble, या किसी भी डेटिंग ऐप्स से प्रोफाइल बायो या चल रही बातचीत का स्क्रीनशॉट लें -> Hotconvo को स्मार्ट सुझावों के संदर्भ को समझने दें -> अपने अगले संदेश के लिए क्या कहना है इसकी प्रेरणा पाने के लिए कई सुझाव प्राप्त करें।. | :white_check_mark: |
 | [LoveGenius](https://www.thataicollection.com/redirect/lovegenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आकर्षक और ध्यान आकर्षित करने वाला डेटिंग बायोस बनाएं और टिंडर, बंबल और अन्य पर बेहतर मिलान प्राप्त करें!. | लवजीनियस एक एआई डेटिंग सहायक है जो एक उत्कृष्ट डेटिंग प्रोफ़ाइल तैयार करके बेहतर मेलों को आकर्षित करने में मदद करता है। यह मशीन लर्निंग एल्गोरिदम, सफल डेटिंग प्रोफाइल से डेटा और डेटिंग कोच और विशेषज्ञों के साक्षात्कार के आधार पर मानव अंतर्दृष्टि के संयोजन का उपयोग करता है।. | :white_check_mark: |
 | [OneDateIdea](https://www.thataicollection.com/redirect/onedateidea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वन डेट आइडिया पाओ! OneDateIdea.com प्रेरणा स्रोत के रूप में काम करता है, यह पक्का करता है कि तुम्हारी डेट उबाऊ या सामान्य यात्रा न हो।. | OneDateIdea किसी डेट की योजना बनाने के चुनौतीपूर्ण काम से जूझ रहे किसी भी व्यक्ति के लिए सबसे अच्छा समाधान है। अगर तुम प्रेरणा के लिए अटक जाते हो या बहुत सारे विकल्पों से अभिभूत हो जाते हो, तो दिन बचाने के लिए यह सेवा आपके पास आ जाती है।. | :white_check_mark: |
+| [Opencord.AI](https://www.thataicollection.com/redirect/opencord.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सोशल मीडिया के लिए AI एजेंट-जनरेटेड कॉन्टेंट. | हम अल एजेंट्स कोलैबोरेशन प्लैटफ़ॉर्म बना रहे हैं, जहाँ हमें लगता है कि AI एजेंट एक-दूसरे के बीच सहयोग कर सकते हैं, ताकि कॉन्टेंट निर्माता उपयोगी/वायरल कॉन्टेंट को तेज़ी से और आसानी से बना सकें। ग्लोबल बिल्डर्स के निजी और पेशेवर इस्तेमाल के लिए सभी रोमांचक, मज़ेदार और उपयोगी GPT की खोज करते हुए। हमने 3 AI एजेंट लॉन्च किए हैं, अगर तुम उन्हें देखना चाहते हो, तो बेझिझक हमारी साइट पर एक नज़र डालें!. | :white_check_mark: |
 | [Postwise](https://www.thataicollection.com/redirect/postwise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बाद में - Twitter AI के साथ लिखें, शेड्यूल करें और आगे बढ़ें. | दुनिया के सबसे स्मार्ट एआई ट्विटर टूल के साथ लिखें, शेड्यूल करें और आगे बढ़ें. | :grey_question: |
 | [Prettysmart.co](https://www.thataicollection.com/redirect/prettysmart.co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्रिटीस्मार्ट - दुनिया का सबसे तेज़ सोशल मीडिया क्रिएटर।. | हम तुम्हारी कॉपी लिखने के लिए आर्टिफिशियल इंटेलिजेंस का इस्तेमाल करते हैं और डिज़ाइन बनाने के लिए तुम्हारे ब्रांड कोलैटरल का इस्तेमाल करते हैं। निर्बाध डिज़ाइन - अपने ब्रांड के कोलैटरल को अपलोड करें, और प्रिटीस्मार्ट तुम्हारे ब्रांड के अनुसार तुम्हारे पोस्ट डिज़ाइन करेगा। एआई कॉपीराइटर - बस हमें बताओ कि तुम्हेंं क्या कहना है और एआई कुछ ही सेकंड में पोस्ट लिख देगा।. | :white_check_mark: |
 | [ReContent.AI](https://www.thataicollection.com/redirect/recontent.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपने ब्लॉग पोस्ट से वायरल सोशल मीडिया सामग्री उत्पन्न करें - न्यूज़लैटर - ऑडियो सामग्री - दीर्घ-रूप वाली सामग्री. | क्या आप अपनी सामग्री को दोबारा उपयोग में लाने में घंटों खर्च कर रहे हैं? आपने पहले ही भारी काम कर लिया है, अब अपनी सामग्री की क्षमता को अधिकतम करें, AI को आपके लिए काम करने दें।. | :white_check_mark: |
