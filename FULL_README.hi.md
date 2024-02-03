@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1058" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1059" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply: नौकरी खोजने वालों के लिए AI टूल, ताकि बेहतरीन एप्लीकेशन तैयार किया जा सके</h4>
+    <p>AIApply AI टूल का एक डायनामिक सूट है, जिसे नौकरी तलाशने वालों को सशक्त बनाने के लिए डिज़ाइन किया गया है। यह नौकरी की आवेदन प्रक्रिया को आसान बनाता है, रिज़्यूमे की गुणवत्ता को बढ़ाता है, साक्षात्कारों के लिए तैयार करता है और करियर के सबसे अच्छे अवसरों की पहचान करता है। AIApply नौकरी खोजने की रणनीतियों को वैयक्तिकृत करता है, यह सुनिश्चित करता है कि यूज़र प्रतिस्पर्धी बाज़ारों में अलग दिखें। यह उन लोगों के लिए ज़रूरी टूल है जो AI की मदद से अपने करियर की राह में तेज़ी लाना चाहते हैं।</p>
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>AiApply के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -61,19 +74,6 @@
 
 तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply: नौकरी खोजने वालों के लिए AI टूल, ताकि बेहतरीन एप्लीकेशन तैयार किया जा सके</h4>
-    <p>AIApply AI टूल का एक डायनामिक सूट है, जिसे नौकरी तलाशने वालों को सशक्त बनाने के लिए डिज़ाइन किया गया है। यह नौकरी की आवेदन प्रक्रिया को आसान बनाता है, रिज़्यूमे की गुणवत्ता को बढ़ाता है, साक्षात्कारों के लिए तैयार करता है और करियर के सबसे अच्छे अवसरों की पहचान करता है। AIApply नौकरी खोजने की रणनीतियों को वैयक्तिकृत करता है, यह सुनिश्चित करता है कि यूज़र प्रतिस्पर्धी बाज़ारों में अलग दिखें। यह उन लोगों के लिए ज़रूरी टूल है जो AI की मदद से अपने करियर की राह में तेज़ी लाना चाहते हैं।</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>AiApply के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -365,6 +365,7 @@
 | [SummerEyes](https://www.thataicollection.com/redirect/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Summereyes: तुम्हारे ब्राउज़र में AI द्वारा संचालित सारांश. | Summereyes - इंटरनेट पर मौजूद किसी भी टेक्स्ट को एक क्लिक में सारांशित करें। मुद्दे पर पहुँचो। तेज़। एक एकीकृत, स्वचालित टूल के साथ अपनी उत्पादकता को टर्बोचार्ज करें, जिससे तुम ज़्यादा जानकारी, और तेज़ी से प्रोसेस कर सकते हो। लेखों से लेकर ईमेल तक, बीएस के बारे में जानकारी दें और पता करें कि क्या ज़रूरी है।. | :white_check_mark: |
 | [Taplio](https://www.thataicollection.com/redirect/taplio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऑल-इन-वन, AI-संचालित LinkedIn टूल।. | Taplio 6200+ LinkedIn पेशेवरों को एक मज़बूत निजी ब्रांड बनाने में मदद करता है, जो क्लाइंट्स और अवसरों को आकर्षित करता है।  बढ़िया प्रदर्शन करने वाला कॉन्टेंट, एडवांस शेड्यूलिंग, गहन एनालिटिक्स और एंगेजमेंट बिल्डर पाएँ।. | :white_check_mark: |
 | [Thegist](https://www.thataicollection.com/redirect/thegist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Thegist AI स्लैक थ्रेड और चैनल को सारांशित करता है - इसका सार पाएँ. | द जिस्ट वर्कस्पेस - AI द्वारा संचालित एक ही स्थान पर तुम्हारे काम के सभी ऐप्स। स्मार्ट यूनिफाइड इनबॉक्स, AI इनसाइट्स, वैयक्तिकृत सारांश, कार्य परियोजनाओं की स्थिति और बहुत कुछ।. | :grey_question: |
+| [Todobee](https://www.thataicollection.com/redirect/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सुंदर AI-संचालित प्रोजेक्ट मैनेजमेंट ऐप. | पेश है Todobee, एआई-संचालित सबसे आसान प्रोजेक्ट मैनेजमेंट ऐप, जिसका तुम कभी भी इस्तेमाल करोगे। - टोडोबी एकमात्र प्रोजेक्ट मैनेजमेंट ऐप है, जो तुम्हेंं असीमित यूज़र, असीमित प्रोजेक्ट और असीमित टास्क का वादा करता है।. | :white_check_mark: |
 | [Ultimate Skill Extractor by Further](https://www.thataicollection.com/redirect/ultimate-skill-extractor-by-further?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई संचालित कौशल-सुझाव. | कौशल सुझाव एआई की शक्ति का उपयोग करके हम किसी भी प्रकार के पाठ से दुनिया में मांग में कौशल निकालने में आपकी सहायता कर सकते हैं। कोशिश करके देखो! हमने अपनी आगे की सामग्री लाइब्रेरी में 1 मिलियन से अधिक ऑनलाइन उपलब्ध सामग्री का उपयोग करके अपने एआई को प्रशिक्षित किया जो विभिन्न प्रकार के स्रोतों और विषयों से क्यूरेट किया गया।. | :grey_question: |
 | [Voxio](https://www.thataicollection.com/redirect/voxio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voxio: आसानी से अपनी आवाज़ को व्यवस्थित नोट्स में ट्रांसफ़ॉर्म करें. | Voxio एक अभिनव ऐप है, जो ऑडियो रिकॉर्डिंग को स्ट्रक्चर्ड नोट्स में बदलता है। व्याख्यान, मीटिंग, और व्यक्तिगत मेमो के लिए आदर्श, यह कस्टमाइज़ किए जा सकने वाले लेआउट प्रदान करता है और प्रमुख नोट लेने वाले प्लेटफ़ॉर्म के साथ मूल रूप से इंटीग्रेट किया जाता है, जिससे संगठन को सरल बनाया जाता है और जानकारी पुनर्प्राप्त की जाती है।. | :white_check_mark: |
 | [Whisper Memos](https://www.thataicollection.com/redirect/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | व्हिस्पर मेमो - वॉइस मेमो रिकॉर्ड करें, इसे ईमेल के रूप में प्राप्त करें।. | व्हिस्पर मेमो तुम्हारी रैंबलिंग को पैराग्राफ किए गए लेखों में बदल देता है और उन्हें तुम्हेंं ईमेल कर देता है। GPT-4 की बदौलत, हम शब्दों की गड़बड़ी के बजाय तुम्हारे ज्ञापन को अख़बार शैली के लेख में बदल देते हैं।. | :white_check_mark: |
@@ -654,6 +655,7 @@
 | [GetResponse](https://www.thataicollection.com/redirect/getresponse?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्रतिक्रिया प्राप्त करें - सभी के लिए व्यावसायिक ईमेल मार्केटिंग. | ईमेल भेजने, पेज बनाने और अपनी मार्केटिंग को स्वचालित करने के लिए शक्तिशाली, सरलीकृत टूल।. | :white_check_mark: |
 | [GummySearch](https://www.thataicollection.com/redirect/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Reddit के ज़रिये एआई-आधारित ग्राहक रिसर्च। हल करने के लिए समस्याएँ, मौजूदा समाधानों के बारे में जानकारी और ऐसे लोगों के बारे में जानें, जो तुम्हारा प्रॉडक्ट ख़रीदना चाहते हैं।. | गमीसर्च, रेडिट के लिए एआई-आधारित ऑडियंस रिसर्च टूल है। इससे तुम्हेंं व्यवस्थित रूप से पता चलता है कि लोग किस बारे में बात कर रहे हैं, और वे तुम्हारी प्रतिस्पर्धा और तुम्हारे उद्योग के बारे में कैसा महसूस करते हैं। तुम इसका इस्तेमाल उन समस्याओं और समाधानों को ढूंढने के लिए कर सकते हो, जिनके बारे में पूछा जाना चाहिए, सामग्री बनाने के लिए आइडिया या सेल्स लीड से जुड़ने के लिए।. | :white_check_mark: |
 | [Hoppy Copy](https://www.thataicollection.com/redirect/hoppy-copy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हॉपी कॉपी: एआई ईमेल मार्केटिंग कॉपी राइटिंग प्लेटफॉर्म. | लिखने के अनगिनत घंटे बचाएं। सैकड़ों अलग-अलग ईमेल मार्केटिंग अभियानों, ड्रिप, न्यूज़लेटर्स और बहुत कुछ के लिए सेकंड में शक्तिशाली कॉपी बनाने के लिए AI का उपयोग करें ⚡. | :grey_question: |
+| [LinkActions](https://www.thataicollection.com/redirect/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | LinkActions तुम्हारी वेबसाइट के लिए पूरी तरह से स्वचालित आंतरिक लिंकिंग टूल है।. | LinkActions उन अंदरूनी लिंक को उजागर करता है जिन्हें लोग मिस कर रहे हैं, ताकि वे Google पर उच्च रैंक प्राप्त कर सकें और अपने ऑर्गेनिक ट्रैफ़िक को बढ़ा सकें। दूसरे टूल के विपरीत, जो सिर्फ़ WordPress के लिए काम करते हैं, LinkActions किसी भी वेब प्लेटफ़ॉर्म के साथ काम करता है।. | :white_check_mark: |
 | [MarketingBlocks AI](https://www.thataicollection.com/redirect/marketingblocks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मार्केटिंग का भविष्य यहां है. | लैंडिंग पेज, प्रोमो वीडियो, विज्ञापन, मार्केटिंग कॉपी, ग्राफिक्स, ईमेल, वॉइसओवर, ब्लॉग पोस्ट, कला और बहुत कुछ बनाने वाला मानव जैसा ऑल-इन-वन एआई मार्केटिंग सहायक. | :grey_question: |
 | [Peppertype.ai](https://www.thataicollection.com/redirect/peppertype.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Peppertype.Ai - क्वालिटी का कॉन्टेंट तेज़ी से बनाएं. | पेप्परटाइप अभी बेहतर हुआ है! अपनी सामग्री के बारे में विचार करने, बनाने, वितरित करने और उसका आकलन करने और अपने कंटेंट मार्केटिंग ROI को साबित करने के लिए AI-संचालित प्लेटफ़ॉर्म का लाभ उठाएं. | :grey_question: |
 | [Post Parrot](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पोस्ट पैरट - रेडिट के लिए मुफ़्त मार्केटिंग टूल. | क्या आप रेडिट पोस्ट टाइटल जेनरेट करना चाहते हैं जो एंगेजमेंट बढ़ाए? लक्षित सबरेडिट्स के लिए अपने पोस्ट टाइटल को बेहतर बनाने के लिए हमारा मुफ़्त डिजिटल मार्केटिंग टूल देखें।. | :white_check_mark: |
@@ -664,6 +666,7 @@
 | [Speaq.ai](https://www.thataicollection.com/redirect/speaq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके व्यवसाय के लिए रेडी मेड रूपांतरण एआई. | हमारा मिशन आर्टिफिशियल इंटेलिजेंस के साथ बी2बी मार्केटिंग और कस्टमर सपोर्ट में क्रांति लाना है। सहजता से मीटिंग शेड्यूल करें और AI के साथ उपस्थिति सत्यापित करें। एआई संवादी कॉल के साथ अपनी सर्वेक्षण प्रक्रिया को व्यवस्थित करें।. | :grey_question: |
 | [Tabula](https://www.thataicollection.com/redirect/tabula?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | GPT-संचालित मार्केटिंग डेटा एनालिटिक्स। मल्टी-टच एट्रिब्यूशन बनाएं, यह देखने के लिए कि लीड को ग्राहकों में बदलने के लिए अलग-अलग मार्केटिंग चैनल एक साथ कैसे काम करते हैं. | तबुला एक AI एंड-टू-एंड एनालिटिक्स प्लेटफ़ॉर्म है, जो मार्केटिंग और सेल्स मैनेजरों को अपने अभियानों की प्रभावशीलता का मूल्यांकन करने में मदद करता है। यह काम किस प्रकार करता है: - एक क्लिक में एक ही जगह पर कई स्रोतों से डेटा लाना - KPI और मेट्रिक्स ट्रैकिंग को ऑटोमेटिक करें - कैंपेन रिपोर्ट और परफ़ॉर्मेंस डैशबोर्ड बनाएं - असंरचित डेटा का विश्लेषण करने के लिए AI का इस्तेमाल करें (ईमेल, सर्वे, PDF). | :white_check_mark: |
 | [Traq.ai](https://www.thataicollection.com/redirect/traq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-पावर्ड कन्वर्सेशन इंटेलिजेंस के साथ अधिक बिक्री बंद करें. | Traq.ai आपकी बिक्री टीम द्वारा की जाने वाली हर कॉल का विश्लेषण करती है और उन्हें सफलता के अलौकिक स्तरों तक पहुँचने के लिए कार्रवाई योग्य अंतर्दृष्टि प्रदान करती है।. | :white_check_mark: |
+| [Typegrow](https://www.thataicollection.com/redirect/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI के ज़रिए अपने LinkedIn दर्शकों को 10 गुना तेज़ी से बढ़ाएँ. | टाइपग्रो एक AI-संचालित टूल है, जिससे तुम्हारे LinkedIn दर्शकों की संख्या 10 गुना तेज़ी से बढ़ सकती है। यह तुम्हेंं बेहतर कॉन्टेंट बनाने और शेड्यूल करने और कम काम करने पर रोज़ाना ज़्यादा पहुंच, सहभागिता और फ़ॉलोअर्स पाने में मदद करता है।  यह अलग-अलग क्रिएटर्स के लिए एक आदर्श टूल है, जो लिंक्डइन पर व्यक्तिगत ब्रांड्स बना रहे हैं या सोशल मीडिया एजेंसियां अपने क्लाइंट प्रोफ़ाइल मैनेज कर रही हैं।. | :white_check_mark: |
 | [unbounce](https://www.thataicollection.com/redirect/unbounce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके व्यवसाय को बढ़ाने के लिए स्मार्ट मार्केटिंग टूल. | अपने अधिक आगंतुकों को ग्राहकों में बदलें। अनबॉन्स एआई-पावर्ड लैंडिंग पेज बिल्डर है जिसमें स्मार्ट विशेषताएं हैं जो आपको कुछ ही मिनटों में सुंदर, उच्च-प्रदर्शन वाले मार्केटिंग अभियान बनाने देती हैं।. | :x: |
 | [Userevaluation](https://www.thataicollection.com/redirect/userevaluation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उपयोगकर्ता मूल्यांकन - ग्राहक समझ मंच. | चाहे आप यूआई, यूएक्स रिसर्च, डिजाइन, या सीएक्स यूजर इवैल्यूएशन के एआई पर केंद्रित हों, आपके सभी सवालों का जवाब दे सकता है. | :white_check_mark: |
 | [Userpersona](https://www.thataicollection.com/redirect/userpersona?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | यूज़र व्यक्तित्व - एआई-जनरेटेड यूज़र व्यक्तित्व. | UserPersona.dev की मदद से जल्दी और आसानी से विस्तृत यूज़र व्यक्तित्व बनाएँ! किसी साइनअप की ज़रूरत नहीं है। हमारा प्लेटफ़ॉर्म आदर्श ग्राहक प्रोफ़ाइल बनाने के लिए तुम्हारे उत्पाद या सेवा के संक्षिप्त विवरण का उपयोग करता है, जो तुम्हें सही दर्शकों को लक्षित करने, रूपांतरणों को बढ़ावा देने और अपने मार्केटिंग प्रयासों से बेहतर नतीजे पाने में मदद करेगा।. | :white_check_mark: |

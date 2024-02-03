@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1058" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1059" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,21 +59,6 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
-    </a>
-    <h4>Start chatting for free with our scary fast NSFW AI character engine. Playful, helpful, our 7500+ AI sexting characters got it. Uncensored AI, no judgment. You are in control.</h4>
-    <p>Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.
-
-Your wildest dreams are just a click away today!</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
@@ -93,6 +78,21 @@ Your wildest dreams are just a click away today!</p>
     <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
     <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
     <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    </a>
+    <h4>Start chatting for free with our scary fast NSFW AI character engine. Playful, helpful, our 7500+ AI sexting characters got it. Uncensored AI, no judgment. You are in control.</h4>
+    <p>Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.
+
+Your wildest dreams are just a click away today!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -157,6 +157,60 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### Typegrow
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-typegrow.webp" alt="Typegrow">
+
+#### Grow your LinkedIn audience 10x faster with AI
+[Visit](https://www.thataicollection.com/redirect/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Typegrow is an AI-powered tool to grow your LinkedIn audience 10x faster. It helps you create and schedule better content and get more reach, engagement, and followers daily with less work.
+
+It's an ideal tool for individual creators building personal brands on LinkedIn or social media agencies managing their client profiles.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### LinkActions
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-linkactions.webp" alt="LinkActions">
+
+#### LinkActions is a fully-automated internal linking tool for your website. 
+[Visit](https://www.thataicollection.com/redirect/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+LinkActions uncovers the internal links that people are missing out on so that they can rank higher on Google and boost their organic traffic. Unlike other tools that only work for WordPress, LinkActions works with any web platform.
+
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Todobee
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-todobee.webp" alt="Todobee">
+
+#### Beautiful AI-Powered Project Management App
+[Visit](https://www.thataicollection.com/redirect/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Introducing Todobee, the easiest AI-powered project management app you'll ever use.
+- Todobee is the only project management app that promises you unlimited users, unlimited projects, and unlimited tasks.
+
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Opencord.AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-opencord-ai.webp" alt="Opencord.AI">
 
@@ -213,54 +267,6 @@ ApplyPass.com has generated thousands of interviews for engineers, with an avera
 AITripMaker - your personal Trip Planner AI makes planning your next trip easy & fun! Simply enter your destination & get a personalized travel plan! Customize the plan in any way (add more days, make it a foodie vacation etc.) just by asking AITripMaker to do so!
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/ai-trip-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### JobBuddy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobbuddy.webp" alt="JobBuddy">
-
-#### JobBuddy - Generate cover letters, optimize resumes and get interview prep materials in seconds with your own personal AI-driven careers coach.
-[Visit](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-JobBuddy provides job seekers with advanced AI tools to generate personalized cover letters, resumes and interview prep. Powered by thousands of successful examples and using multi-model technology, JobBuddy is highly effective at producing fully ATS-optimized, human-sounding, professional application materials. Try it for a highly personalized, streamlined approach to your job hunt.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Fotos de Perfil
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotos-de-perfil.webp" alt="Fotos de Perfil">
-
-#### Captivating Profile Photos: Enhancing Your Social Media Presence
-[Visit](https://www.thataicollection.com/redirect/fotos-de-perfil?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Explore our collection of exquisite profile photos, designed to elevate your online image. Each photo is crafted to showcase personality and style, ensuring your social media profiles stand out with elegance and sophistication. Perfect for LinkedIn, Facebook, Instagram, and more
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/fotos-de-perfil?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nudes – Face Swap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudes-%E2%80%93-face-swap.webp" alt="Nudes – Face Swap">
-
-#### Unlock the Potential of Face Swap Porn and Deepfake Porn Magic on Our Site!
-[Visit](https://www.thataicollection.com/redirect/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-A Telegram Nudes_faceswap_bot! This bot can swap faces of any videos. How To Use ?
-1).Simply upload a face image.  
-2).Upload or chose a target video.  
-3).Wait for results.  
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3343,6 +3349,25 @@ With Podwise, you can learn from structured knowledge and selectively listen to 
 
 
 
+### Todobee
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-todobee.webp" alt="Todobee">
+
+#### Beautiful AI-Powered Project Management App
+[Visit](https://www.thataicollection.com/redirect/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Introducing Todobee, the easiest AI-powered project management app you'll ever use.
+- Todobee is the only project management app that promises you unlimited users, unlimited projects, and unlimited tasks.
+
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Dewey
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dewey.webp" alt="Dewey">
 
@@ -3417,21 +3442,6 @@ NewsDeck uses the power of OneSub's intelligent newsreader AI to give you realti
 Experience the power of AI enhancing your workouts. KinesteX tracks your movements and provides real-time feedback to ensure you're getting the most out of your fitness regimen. KinesteX tailors workouts to your specific needs. Whether you're looking to lose weight, build muscle, or improve your overall fitness, KinesteX has you covered.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/kinestex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Ultimate Skill Extractor by Further
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ultimate-skill-extractor-by-further.webp" alt="Ultimate Skill Extractor by Further">
-
-#### AI Powered Skill-Suggestion
-[Visit](https://www.thataicollection.com/redirect/ultimate-skill-extractor-by-further?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Using the power of Skill Suggestion AI we can help you extract in-demand skills in the world, from any kind of text. Try it out! We trained our AI by using more than 1 Million online available content in our Further Content Library which curated from different kinds of sources and topics.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ultimate-skill-extractor-by-further?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3716,21 +3726,21 @@ Get great copy that sells. Copy.ai is an AI-powered copywriter that generates hi
 
 
 
-### Branding 5
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-branding-5.webp" alt="Branding 5">
+### Typegrow
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-typegrow.webp" alt="Typegrow">
 
-#### Branding 5 - Brandpositioning in just 5 minutes
+#### Grow your LinkedIn audience 10x faster with AI
+[Visit](https://www.thataicollection.com/redirect/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Typegrow is an AI-powered tool to grow your LinkedIn audience 10x faster. It helps you create and schedule better content and get more reach, engagement, and followers daily with less work.
 
-Branding 5 - Top-tier brand positioning, insights in a fraction of the time and cost. Create your brand identity, do marketing with ease
+It's an ideal tool for individual creators building personal brands on LinkedIn or social media agencies managing their client profiles.
 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+[More Information and Pricing](https://www.thataicollection.com/en/application/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
+
+
 
 
 ### Beb AI

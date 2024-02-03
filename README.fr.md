@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1058" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1059" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply : outils d'IA permettant aux demandeurs d'emploi de créer la candidature parfaite</h4>
+    <p>AIApply est une suite dynamique d'outils d'IA conçus pour donner plus de moyens aux demandeurs d'emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d'emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C'est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l'IA.</p>
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec AiApply</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
@@ -74,19 +87,6 @@
 
 Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply : outils d'IA permettant aux demandeurs d'emploi de créer la candidature parfaite</h4>
-    <p>AIApply est une suite dynamique d'outils d'IA conçus pour donner plus de moyens aux demandeurs d'emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d'emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C'est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l'IA.</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec AiApply</b></a>
     <br />
 </div>
 
@@ -151,6 +151,60 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
 
+### Typegrow
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-typegrow.webp" alt="Typegrow">
+
+#### Augmentez ton audience LinkedIn 10 fois plus vite grâce à l'IA
+[Visit](https://www.thataicollection.com/redirect/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Typegrow est un outil basé sur l'IA qui permet d'augmenter ton audience sur LinkedIn 10 fois plus vite. Cela t'aide à créer et à programmer du contenu de meilleure qualité et à obtenir plus de portée, d'engagement et de followers au quotidien, avec moins de travail.
+
+C'est un outil idéal pour les créateurs individuels qui créent leur propre marque sur LinkedIn ou pour les agences de réseaux sociaux qui gèrent les profils de leurs clients.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### LinkActions
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-linkactions.webp" alt="LinkActions">
+
+#### LinkActions est un outil de création de liens internes entièrement automatisé pour ton site web. 
+[Visit](https://www.thataicollection.com/redirect/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+LinkActions découvre les liens internes que les internautes ne consultent pas afin de leur permettre de mieux se classer sur Google et d'augmenter leur trafic organique. Contrairement à d'autres outils qui ne fonctionnent que pour WordPress, LinkActions fonctionne sur toutes les plateformes Web.
+
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Todobee
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-todobee.webp" alt="Todobee">
+
+#### Superbe application de gestion de projet alimentée par l'IA
+[Visit](https://www.thataicollection.com/redirect/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Présentation de Todobee, l'application de gestion de projet basée sur l'IA la plus simple que tu puisses utiliser.
+- Todobee est la seule application de gestion de projet qui te promet un nombre illimité d'utilisateurs, de projets et de tâches.
+
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Opencord.AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-opencord-ai.webp" alt="Opencord.AI">
 
@@ -207,54 +261,6 @@ ApplyPass.com a généré des milliers d'entretiens pour des ingénieurs, avec u
 AiTripMaker, l'IA de ton planificateur de voyage personnel te permet de planifier ton prochain voyage de manière simple et amusante ! Entrez simplement ta destination et obtiens un plan de voyage personnalisé ! Personnalise le plan comme tu veux (ajoute des jours supplémentaires, fais-en des vacances gourmandes, etc.) en demandant simplement à AiTripMaker de le faire !
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/ai-trip-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### JobBuddy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobbuddy.webp" alt="JobBuddy">
-
-#### JobBuddy - Génère des lettres de motivation, optimise les CV et obtiens du matériel de préparation aux entretiens en quelques secondes avec ton coach de carrière personnel piloté par l'IA.
-[Visit](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-JobBuddy fournit aux demandeurs d'emploi des outils d'IA avancés pour générer des lettres de motivation et des CV personnalisés et préparer les entretiens. S'appuyant sur des milliers d'exemples réussis et utilisant une technologie multimodèle, JobBuddy est très efficace lorsqu'il s'agit de produire des supports de candidature professionnels entièrement optimisés pour ATS et à consonance humaine. Essaye-le pour une approche rationalisée et hautement personnalisée de ta recherche d'emploi.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Fotos de Perfil
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotos-de-perfil.webp" alt="Fotos de Perfil">
-
-#### Des photos de profil captivantes : améliorer ta présence sur les réseaux sociaux
-[Visit](https://www.thataicollection.com/redirect/fotos-de-perfil?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Explorez notre collection de superbes photos de profil, conçues pour améliorer ton image en ligne. Chaque photo est conçue pour mettre en valeur la personnalité et le style, afin que tes profils sur les réseaux sociaux se démarquent avec élégance et sophistication. Parfait pour LinkedIn, Facebook, Instagram et plus encore
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/fotos-de-perfil?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nudes – Face Swap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudes-%E2%80%93-face-swap.webp" alt="Nudes – Face Swap">
-
-#### Exploite tout le potentiel de Face Swap ?$#@$ et de Deepfake ?$#@$ Magic sur notre site !
-[Visit](https://www.thataicollection.com/redirect/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Un robot Nudes_FaceSwap_Bot sur Telegram ! Ce bot peut échanger la face de n'importe quelle vidéo. Comment l'utiliser ?
-1). Il suffit de télécharger une image de visage. 
-2). Téléchargez ou choisissez une vidéo cible. 
-3). Attends les résultats.  
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3337,6 +3343,25 @@ Avec Podwise, tu peux apprendre grâce à des connaissances structurées et éco
 
 
 
+### Todobee
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-todobee.webp" alt="Todobee">
+
+#### Superbe application de gestion de projet alimentée par l'IA
+[Visit](https://www.thataicollection.com/redirect/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Présentation de Todobee, l'application de gestion de projet basée sur l'IA la plus simple que tu puisses utiliser.
+- Todobee est la seule application de gestion de projet qui te promet un nombre illimité d'utilisateurs, de projets et de tâches.
+
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Dewey
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dewey.webp" alt="Dewey">
 
@@ -3411,21 +3436,6 @@ NewsDeck utilise la puissance de l'intelligence artificielle de OneSub pour acc�
 Découvrez la puissance de l'IA pour améliorer tes entraînements. KinesteX suit tes mouvements et fournit des informations en temps réel pour t'assurer de tirer le meilleur parti de ton programme de remise en forme. KinesTex adapte les entraînements à tes besoins spécifiques. Que tu cherches à perdre du poids, à te muscler ou à améliorer ta forme physique générale, KinesteX est là pour toi.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/kinestex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Ultimate Skill Extractor by Further
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ultimate-skill-extractor-by-further.webp" alt="Ultimate Skill Extractor by Further">
-
-#### Suggestion de compétence alimentée par l'IA
-[Visit](https://www.thataicollection.com/redirect/ultimate-skill-extractor-by-further?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-En utilisant la puissance de Skill Suggestion AI, nous pouvons vous aider à extraire les compétences recherchées dans le monde, à partir de n'importe quel type de texte. Essaye le! Nous avons formé notre IA en utilisant plus d'un million de contenus disponibles en ligne dans notre bibliothèque de contenu supplémentaire, organisée à partir de différents types de sources et de sujets.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/ultimate-skill-extractor-by-further?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3710,17 +3720,17 @@ Obtenez une superbe copie qui se vend. Copy.ai est un rédacteur basé sur l'IA 
 
 
 
-### Branding 5
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-branding-5.webp" alt="Branding 5">
+### Typegrow
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-typegrow.webp" alt="Typegrow">
 
-#### Branding 5 - Positionnement de la marque en 5 minutes
+#### Augmentez ton audience LinkedIn 10 fois plus vite grâce à l'IA
+[Visit](https://www.thataicollection.com/redirect/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Typegrow est un outil basé sur l'IA qui permet d'augmenter ton audience sur LinkedIn 10 fois plus vite. Cela t'aide à créer et à programmer du contenu de meilleure qualité et à obtenir plus de portée, d'engagement et de followers au quotidien, avec moins de travail.
 
-Branding 5 - Positionnement de marque de premier plan, informations en un rien de temps et à moindre coût. Crée l'identité de ta marque, fais du marketing en toute simplicité
+C'est un outil idéal pour les créateurs individuels qui créent leur propre marque sur LinkedIn ou pour les agences de réseaux sociaux qui gèrent les profils de leurs clients.
 
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

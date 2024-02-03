@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1058" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1059" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
+    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 AiApply</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -61,19 +74,6 @@
 
 今天只需点击一下即可实现您最疯狂的梦想！</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
-    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 AiApply</b></a>
     <br />
 </div>
 
@@ -902,6 +902,7 @@
 | [SummerEyes](https://www.thataicollection.com/redirect/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Summereyes：浏览器中的 AI 驱动摘要. | Summereyes-一键汇总互联网上的所有文本。切入正题。快速。借助集成的自动化工具，您可以更快地处理更多信息，从而提高工作效率。从文章到电子邮件，仔细阅读 BS，找出重要内容。. | :white_check_mark: |
 | [Taplio](https://www.thataicollection.com/redirect/taplio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 由人工智能驱动的多合一LinkedIn工具。. | Taplio帮助6200多位LinkedIn专业人士建立强大的个人品牌，吸引客户和机会。  获取高性能内容、高级日程安排、深度分析和参与度生成器。. | :white_check_mark: |
 | [Thegist](https://www.thataicollection.com/redirect/thegist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Thegist AI 总结了 Slack 话题和频道——了解要点. | TheGist Workspace-您的所有工作应用程序都集中在一个地方，由 AI 提供支持。智能统一收件箱、AI 洞察、个性化摘要、工作项目状态等等。. | :grey_question: |
+| [Todobee](https://www.thataicollection.com/redirect/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 漂亮的 AI 驱动的项目管理应用程序. | 介绍Todobee，这是你用过的最简单的人工智能项目管理应用程序。 -Todobee 是唯一一款向您承诺无限用户、无限项目和无限任务的项目管理应用程序。. | :white_check_mark: |
 | [Ultimate Skill Extractor by Further](https://www.thataicollection.com/redirect/ultimate-skill-extractor-by-further?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 驱动的技能建议. | 借助 Skill Suggestion AI 的强大功能，我们可以帮助您从任何类型的文本中提取世界上急需的技能。试试看！我们通过使用我们的更多内容库中超过 100 万个在线可用内容来训练我们的 AI，这些内容来自不同类型的来源和主题。. | :grey_question: |
 | [Voxio](https://www.thataicollection.com/redirect/voxio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voxio：轻松将您的声音转换为有条理的笔记. | Voxio 是一款创新的应用程序，可将录音转换为结构化笔记。它是讲座、会议和个人备忘录的理想之选，它提供可自定义的布局并与主要的笔记平台无缝集成，简化了信息的组织和检索。. | :white_check_mark: |
 | [Whisper Memos](https://www.thataicollection.com/redirect/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Whisper Memos-录制语音备忘录， 以电子邮件的形式接收。. | Whisper Memos 将你的胡言乱语变成分段文章，然后通过电子邮件发送给你。 感谢 GPT-4，我们将你的备忘录转换为报纸风格的文章，而不是一言不发的文字。. | :white_check_mark: |
@@ -1439,6 +1440,7 @@
 | [GetResponse](https://www.thataicollection.com/redirect/getresponse?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | GetResponse - 适合所有人的专业电子邮件营销. | 用于发送电子邮件、创建页面和自动化营销的强大、简化的工具。. | :white_check_mark: |
 | [GummySearch](https://www.thataicollection.com/redirect/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过 Reddit 进行基于人工智能的客户研究。发现需要解决的问题、对当前解决方案的看法以及想要购买您的产品的人。. | GummySearch 是一款基于 AI 的 Reddit 受众研究工具。它使您可以系统地研究人们在谈论什么，以及他们对您的竞争和行业的看法。你可以用它来寻找需要构建的痛点和解决方案、需要创建的内容创意或需要联系的销售线索。. | :white_check_mark: |
 | [Hoppy Copy](https://www.thataicollection.com/redirect/hoppy-copy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hoppy Copy：人工智能邮件营销文案平台. | 节省无数的写作时间。使用 AI 在几秒钟内为数百种不同的电子邮件营销活动、滴灌、新闻通讯等生成强大的副本 ⚡. | :grey_question: |
+| [LinkActions](https://www.thataicollection.com/redirect/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | LinkActions是您网站的全自动内部链接工具。. | LinkActions可以发现人们错过的内部链接，这样他们就可以在谷歌上获得更高的排名并增加自然流量。与其他仅适用于WordPress的工具不同，LinkActions适用于任何网络平台。. | :white_check_mark: |
 | [MarketingBlocks AI](https://www.thataicollection.com/redirect/marketingblocks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 营销的未来就在这里. | 类人一体的 AI 营销助理，可创建登陆页面、宣传视频、广告、营销文案、图形、电子邮件、画外音、博客文章、艺术等. | :grey_question: |
 | [Peppertype.ai](https://www.thataicollection.com/redirect/peppertype.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Peppertype.Ai-更快地创建高质量的内容. | Peppertype 变得更好了！ 利用人工智能平台来构思、创建、分发和衡量您的内容，并证明您的内容营销投资回报率. | :grey_question: |
 | [Post Parrot](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Post Parrot-一款适用于 Reddit 的免费营销工具. | 想生成能提高参与度的 reddit 帖子标题？查看我们的免费数字营销工具，为有针对性的subreddits增强您的帖子标题。. | :white_check_mark: |
@@ -1449,6 +1451,7 @@
 | [Speaq.ai](https://www.thataicollection.com/redirect/speaq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为您的企业现成的转换 AI. | 我们的使命是通过人工智能彻底改变 B2B 营销和客户支持。使用 AI 轻松安排会议并验证出席情况。通过 AI 对话呼叫简化您的调查流程。. | :grey_question: |
 | [Tabula](https://www.thataicollection.com/redirect/tabula?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | GPT 支持的营销数据分析。建立多点触控归因，了解不同的营销渠道如何协同合作，将潜在客户转化为客户. | Tabula是一个人工智能端到端分析平台，使营销和销售经理能够评估其活动的有效性。它是如何工作的： -一键从多个来源获取数据 -自动跟踪 KPI 和指标 -生成活动报告和绩效仪表板 -使用人工智能分析非结构化数据（电子邮件、调查、PDF）. | :white_check_mark: |
 | [Traq.ai](https://www.thataicollection.com/redirect/traq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过 AI 支持的对话智能完成更多销售. | Traq.ai 分析您的销售团队打出的每一个电话，并为他们提供可操作的见解，以达到超人的成功水平。. | :white_check_mark: |
+| [Typegrow](https://www.thataicollection.com/redirect/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 利用 AI 将你的 LinkedIn 受众增长速度提高. | Typegrow是一款由人工智能驱动的工具，可以将你的领英受众增长速度提高10倍。它可以帮助您创建和安排更好的内容，并每天以更少的工作量获得更多的覆盖面、参与度和关注者。  它是个人创作者在LinkedIn或管理客户资料的社交媒体机构上建立个人品牌的理想工具。. | :white_check_mark: |
 | [unbounce](https://www.thataicollection.com/redirect/unbounce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 助您发展业务的智能营销工具. | 将更多的访问者变成客户。 Unbounce 是人工智能驱动的登陆页面构建器，具有智能功能，可让您在短短几分钟内创建美观、高效的营销活动。. | :x: |
 | [Userevaluation](https://www.thataicollection.com/redirect/userevaluation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用户评价-客户了解平台. | 无论您专注于 UI、UX 研究、设计还是 CX——用户评估的 AI 都可以回答您的所有问题. | :white_check_mark: |
 | [Userpersona](https://www.thataicollection.com/redirect/userpersona?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用户角色-人工智能生成的用户角色. | 使用 UserPersona.dev 快速轻松地创建详细的用户角色！无需注册。我们的平台使用对您的产品或服务的简短描述来生成理想的客户档案，这将帮助您定位合适的受众，提高转化率，并从营销工作中获得更好的结果。. | :white_check_mark: |
