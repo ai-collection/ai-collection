@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1058" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1059" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,21 +59,6 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
-    </a>
-    <h4>Start chatting for free with our scary fast NSFW AI character engine. Playful, helpful, our 7500+ AI sexting characters got it. Uncensored AI, no judgment. You are in control.</h4>
-    <p>Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.
-
-Your wildest dreams are just a click away today!</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
@@ -93,6 +78,21 @@ Your wildest dreams are just a click away today!</p>
     <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
     <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
     <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    </a>
+    <h4>Start chatting for free with our scary fast NSFW AI character engine. Playful, helpful, our 7500+ AI sexting characters got it. Uncensored AI, no judgment. You are in control.</h4>
+    <p>Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.
+
+Your wildest dreams are just a click away today!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -1072,6 +1072,7 @@ Your wildest dreams are just a click away today!</p>
 | [SummerEyes](https://www.thataicollection.com/redirect/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Summereyes: AI-Powered Summaries in Your Browser. | Summereyes - Summarize any text on the internet in one click. Get to the point. Fast. Turbocharge your productivity with an integrated, automated tool that let's you process far more information, far more quickly. From articles, to emails, cut through the BS, and find what matters. | :white_check_mark: |
 | [Taplio](https://www.thataicollection.com/redirect/taplio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The all-in-one, AI-powered LinkedIn tool. | Taplio helps 6200+ LinkedIn pros build a strong personal brand that attracts clients and opportunities.  Get High-Performing Content, Advanced Scheduling, In-Depth Analytics & Engagement Builder. | :white_check_mark: |
 | [Thegist](https://www.thataicollection.com/redirect/thegist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Thegist AI Summarize Slack Thread and Channels - Get the Gist of It. | theGist Workspace - All your work apps in a single place powered by AI. Smart Unified Inbox, AI Insights, Personalized Summaries, Status of work projects and much more. | :grey_question: |
+| [Todobee](https://www.thataicollection.com/redirect/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Beautiful AI-Powered Project Management App. | Introducing Todobee, the easiest AI-powered project management app you'll ever use. - Todobee is the only project management app that promises you unlimited users, unlimited projects, and unlimited tasks. | :white_check_mark: |
 | [Ultimate Skill Extractor by Further](https://www.thataicollection.com/redirect/ultimate-skill-extractor-by-further?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Powered Skill-Suggestion. | Using the power of Skill Suggestion AI we can help you extract in-demand skills in the world, from any kind of text. Try it out! We trained our AI by using more than 1 Million online available content in our Further Content Library which curated from different kinds of sources and topics. | :grey_question: |
 | [Voxio](https://www.thataicollection.com/redirect/voxio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voxio: Transform Your Voice into Organized Notes with Ease. | Voxio is an innovative app transforming audio recordings into structured notes. Ideal for lectures, meetings, and personal memos, it offers customizable layouts and integrates seamlessly with major note-taking platforms, simplifying the organization and retrieval of information. | :white_check_mark: |
 | [Whisper Memos](https://www.thataicollection.com/redirect/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Whisper Memos - Record a voice memo, receive it as email. | Whisper Memos turns your ramblings into paragraphed articles, and emails them to you. Thanks to GPT-4, we transform your memo into a newspaper-style article, rather than a jumble of words. | :white_check_mark: |
@@ -1133,6 +1134,7 @@ Your wildest dreams are just a click away today!</p>
 | [GetResponse](https://www.thataicollection.com/redirect/getresponse?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Getresponse - Professional Email Marketing for Everyone. | Powerful, simplified tool to send emails, create pages, and automate your marketing. | :white_check_mark: |
 | [GummySearch](https://www.thataicollection.com/redirect/gummysearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | GummySearch is an AI-based Audience Research tool for Reddit. It allows you to systematically research what people are talking about, and how they feel about your competition and your industry. You can use it to find pain points and solutions asking to be built, content ideas to create, or sales leads to connect with. | :white_check_mark: |
 | [Hoppy Copy](https://www.thataicollection.com/redirect/hoppy-copy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hoppy Copy: AI Email Marketing Copywriting Platform. | Save countless hours writing. Use AI to generate powerful copy for hundreds of different email marketing campaigns, drips, newsletters and more—in seconds ⚡. | :grey_question: |
+| [LinkActions](https://www.thataicollection.com/redirect/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | LinkActions is a fully-automated internal linking tool for your website. | LinkActions uncovers the internal links that people are missing out on so that they can rank higher on Google and boost their organic traffic. Unlike other tools that only work for WordPress, LinkActions works with any web platform. | :white_check_mark: |
 | [MarketingBlocks AI](https://www.thataicollection.com/redirect/marketingblocks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The Future of Marketing Is Here. | Human-like all-in-one AI marketing assistant that creates landing pages, promo videos, ads, marketing copy, graphics, emails, voiceovers, blog posts, art & more. | :grey_question: |
 | [Peppertype.ai](https://www.thataicollection.com/redirect/peppertype.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Peppertype.Ai - Create Quality Content Faster. | Peppertype just got better! Leverage the AI-powered platform to ideate, create, distribute, and measure your content and prove your content marketing ROI. | :grey_question: |
 | [Post Parrot](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Post Parrot - A Free Marketing Tool for Reddit. | Looking to generate reddit post titles that drive engagement? Checkout out our free digital marketing tool to enhance your post titles for targeted subreddits. | :white_check_mark: |
@@ -1143,6 +1145,7 @@ Your wildest dreams are just a click away today!</p>
 | [Speaq.ai](https://www.thataicollection.com/redirect/speaq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ready Made Conversional AI for Your Business. | Our mission is to revolutionize B2B marketing and customer support with artificial intelligence. Effortlessly schedule meetings and verify attendance with AI. Streamline your survey process with AI conversational calls. | :grey_question: |
 | [Tabula](https://www.thataicollection.com/redirect/tabula?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | GPT-powered marketing data analytics. Build multi-touch attribution to see how different marketing channels work together to convert leads into customers. | Tabula is an AI end-to-end analytics platform that enables marketing and sales managers evaluate effectiveness of their campaigns. How it works: - bring data from multiple source at one place in one click - automate KPI and metrics tracking - build camapign reports and performance dashboards - use AI to analyze unstructured data (emails, surveys, PDFs). | :white_check_mark: |
 | [Traq.ai](https://www.thataicollection.com/redirect/traq.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Close More Sales With AI-powered Conversation Intelligence. | Traq.ai analyzes every call your sales team makes and provides actionable insights for them to reach superhuman levels of success. | :white_check_mark: |
+| [Typegrow](https://www.thataicollection.com/redirect/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Grow your LinkedIn audience 10x faster with AI. | Typegrow is an AI-powered tool to grow your LinkedIn audience 10x faster. It helps you create and schedule better content and get more reach, engagement, and followers daily with less work.  It's an ideal tool for individual creators building personal brands on LinkedIn or social media agencies managing their client profiles. | :white_check_mark: |
 | [unbounce](https://www.thataicollection.com/redirect/unbounce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Smart Marketing Tools to Grow Your Business. | Turn more of your visitors into customers. Unbounce is the AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes. | :x: |
 | [Userevaluation](https://www.thataicollection.com/redirect/userevaluation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | User Evaluation - the Customer Understanding Platform. | Whether you're focused on UI, UX Research, Design, or CX User Evaluation's AI can answer all your questions. | :white_check_mark: |
 | [Userpersona](https://www.thataicollection.com/redirect/userpersona?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | User Persona - AI-Generated User Personas. | Create detailed user personas quickly and easily with UserPersona.dev! No signup required. Our platform uses a short description of your product or service to generate ideal customer profiles that will help you target the right audiences, drive conversions, and get better results from your marketing efforts. | :white_check_mark: |

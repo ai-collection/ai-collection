@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1058" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1059" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
+    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 AiApply</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -61,19 +74,6 @@
 
 今天只需点击一下即可实现您最疯狂的梦想！</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
-    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 AiApply</b></a>
     <br />
 </div>
 
@@ -151,6 +151,60 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### Typegrow
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-typegrow.webp" alt="Typegrow">
+
+#### 利用 AI 将你的 LinkedIn 受众增长速度提高
+[Visit](https://www.thataicollection.com/redirect/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Typegrow是一款由人工智能驱动的工具，可以将你的领英受众增长速度提高10倍。它可以帮助您创建和安排更好的内容，并每天以更少的工作量获得更多的覆盖面、参与度和关注者。
+
+它是个人创作者在LinkedIn或管理客户资料的社交媒体机构上建立个人品牌的理想工具。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### LinkActions
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-linkactions.webp" alt="LinkActions">
+
+#### LinkActions是您网站的全自动内部链接工具。 
+[Visit](https://www.thataicollection.com/redirect/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+LinkActions可以发现人们错过的内部链接，这样他们就可以在谷歌上获得更高的排名并增加自然流量。与其他仅适用于WordPress的工具不同，LinkActions适用于任何网络平台。
+
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Todobee
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-todobee.webp" alt="Todobee">
+
+#### 漂亮的 AI 驱动的项目管理应用程序
+[Visit](https://www.thataicollection.com/redirect/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+介绍Todobee，这是你用过的最简单的人工智能项目管理应用程序。
+-Todobee 是唯一一款向您承诺无限用户、无限项目和无限任务的项目管理应用程序。
+
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Opencord.AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-opencord-ai.webp" alt="Opencord.AI">
 
@@ -207,54 +261,6 @@ ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行�
 AitripMaker-你的个人旅行规划器 AI 让你的下一次旅行计划变得轻松而有趣！只需输入您的目的地，即可获得个性化的旅行计划！只需让 AitripMaker 这样做，就可以以任何方式自定义计划（增加天数，使其成为美食家度假等）！
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-trip-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### JobBuddy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobbuddy.webp" alt="JobBuddy">
-
-#### JobBuddy-生成求职信，优化简历，在几秒钟内获得面试准备材料，与你自己的个人人工智能驱动的职业教练一起。
-[Visit](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-JobBuddy为求职者提供先进的人工智能工具，用于生成个性化的求职信、简历和面试准备。JobBuddy 由数千个成功案例提供支持，使用多模型技术，在制作完全经过ATS优化、听起来像人性化的专业应用材料方面非常有效。试试吧，这是一种高度个性化、简化的求职方式。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Fotos de Perfil
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotos-de-perfil.webp" alt="Fotos de Perfil">
-
-#### 引人入胜的个人资料照片：增强您的社交媒体影响力
-[Visit](https://www.thataicollection.com/redirect/fotos-de-perfil?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-浏览我们精美的个人资料照片集，这些照片旨在提升您的在线形象。每张照片都经过精心设计，展现个性和风格，确保您的社交媒体个人资料以优雅和精致的方式脱颖而出。非常适合 LinkedIn、Facebook、Instagram 等
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fotos-de-perfil?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Nudes – Face Swap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudes-%E2%80%93-face-swap.webp" alt="Nudes – Face Swap">
-
-#### 在我们的网站上释放换脸色情和Deepfake Porn Magic的潜力！
-[Visit](https://www.thataicollection.com/redirect/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-一个 Telegram nudes_Faceswap_bot！这个机器人可以交换任何视频的面孔。如何使用？
-1) .只需上传一张脸部图像即可。 
-2) .上传或选择目标视频。 
-3)。等待结果。  
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3337,6 +3343,25 @@ Glasp 是一款社交网络荧光笔，人们可以突出显示和整理网络�
 <br />
 
 
+### Todobee
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-todobee.webp" alt="Todobee">
+
+#### 漂亮的 AI 驱动的项目管理应用程序
+[Visit](https://www.thataicollection.com/redirect/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+介绍Todobee，这是你用过的最简单的人工智能项目管理应用程序。
+-Todobee 是唯一一款向您承诺无限用户、无限项目和无限任务的项目管理应用程序。
+
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Dewey
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dewey.webp" alt="Dewey">
 
@@ -3411,21 +3436,6 @@ NewsDeck利用OneSub的智能新闻阅读器AI的强大功能，使您可以实�
 体验 AI 的力量，增强您的锻炼效果。KinestEx 会跟踪您的运动并提供实时反馈，以确保您从健身计划中获得最大收益。Kinestex 可根据您的特定需求量身定制锻炼方案。无论您是想减肥、锻炼肌肉还是改善整体健康状况，KinestEx 都能满足您的需求。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/kinestex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Ultimate Skill Extractor by Further
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ultimate-skill-extractor-by-further.webp" alt="Ultimate Skill Extractor by Further">
-
-#### AI 驱动的技能建议
-[Visit](https://www.thataicollection.com/redirect/ultimate-skill-extractor-by-further?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-借助 Skill Suggestion AI 的强大功能，我们可以帮助您从任何类型的文本中提取世界上急需的技能。试试看！我们通过使用我们的更多内容库中超过 100 万个在线可用内容来训练我们的 AI，这些内容来自不同类型的来源和主题。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ultimate-skill-extractor-by-further?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3710,17 +3720,17 @@ Tabula是一个人工智能端到端分析平台，使营销和销售经理能�
 <br />
 
 
-### Branding 5
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-branding-5.webp" alt="Branding 5">
+### Typegrow
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-typegrow.webp" alt="Typegrow">
 
-#### 品牌推广 5-只需 5 分钟即可完成品牌定位
+#### 利用 AI 将你的 LinkedIn 受众增长速度提高
+[Visit](https://www.thataicollection.com/redirect/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Typegrow是一款由人工智能驱动的工具，可以将你的领英受众增长速度提高10倍。它可以帮助您创建和安排更好的内容，并每天以更少的工作量获得更多的覆盖面、参与度和关注者。
 
-品牌推广 5-顶级品牌定位，在很短的时间和成本内获得洞察力。创建您的品牌标识，轻松进行营销
+它是个人创作者在LinkedIn或管理客户资料的社交媒体机构上建立个人品牌的理想工具。
 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/branding-5?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
