@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1060" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1062" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=42" />
@@ -151,6 +151,36 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### Wallpaperee
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wallpaperee.webp" alt="Wallpaperee">
+
+#### Crea fondos de pantalla móviles de IA con tu nombre
+[Visit](https://www.thataicollection.com/redirect/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Crea fondos de pantalla fotorrealistas con tu nombre. ¿Alguna vez te has imaginado tu nombre chisporroteando en llamas intensas? Te tenemos, ¡déjalo caer como si estuviera caliente! ¿O tal vez eres más una reina o un rey de los cristales de hielo? Tu nombre puede brillar en el hielo helado. Así que vamos, ¡haz que se encienda! 🔥
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Odyssey
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-odyssey.webp" alt="Odyssey">
+
+#### Conecta modelos de IA sin una sola línea de código.
+[Visit](https://www.thataicollection.com/redirect/odyssey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+En una aplicación para Mac sencilla e intuitiva, puedes ejecutar modelos de IA como Stable Diffusion y LLM de forma local y, luego, conectar esos modelos a un montón de herramientas y API sencillas de procesamiento de imágenes y texto. Los nodos de arrastrar y soltar y los potentes flujos de trabajo prediseñados hacen de Odyssey la forma más fácil de crear grandes obras de arte, aumentar la productividad y experimentar con la IA, todo en una sencilla aplicación.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/odyssey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### animeBuilder
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-animebuilder.webp" alt="animeBuilder">
 
@@ -229,36 +259,6 @@ Presentamos Todobee, la aplicación de gestión de proyectos basada en IA más f
 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Opencord.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-opencord-ai.webp" alt="Opencord.AI">
-
-#### Contenido generado por agentes de IA para redes sociales
-[Visit](https://www.thataicollection.com/redirect/opencord.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Estamos creando la plataforma de colaboración de Al Agents, en la que imaginamos que los agentes de inteligencia artificial puedan colaborar entre sí para ayudar al creador de contenido a crear contenido útil y viral de forma más rápida y sencilla. Mientras exploras todos los GPT interesantes, divertidos y útiles de creadores mundiales para uso personal y profesional. Hemos lanzado 3 agentes de IA. Si estás interesado en echarles un vistazo, ¡no dudes en echar un vistazo a nuestro sitio!
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/opencord.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI ColoringPage Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-coloringpage-generator.webp" alt="AI ColoringPage Generator">
-
-#### ¡Página para colorear de IA en línea! Generador de páginas para colorear con IA gratuito, genera páginas para colorear a partir de palabras rápidas mediante IA.
-[Visit](https://www.thataicollection.com/redirect/ai-coloringpage-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI ColoringPage Online es una herramienta de inteligencia artificial (IA) diseñada para generar páginas para colorear únicas e imprimibles. Los usuarios escriben palabras rápidas y el sistema utiliza esta información para crear páginas para colorear únicas y de alta calidad.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/ai-coloringpage-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3137,19 +3137,19 @@ HitPaw Online AI Photo Enhancer utiliza tecnología avanzada de IA para eliminar
 <br />
 
 
-### animeBuilder
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-animebuilder.webp" alt="animeBuilder">
+### Wallpaperee
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wallpaperee.webp" alt="Wallpaperee">
 
-#### Descubre nuestras herramientas online gratuitas para convertir fácilmente imágenes al estilo anime y generar imágenes artísticas a partir del texto. ¡Da rienda suelta a tu creatividad sin esfuerzo!
-[Visit](https://www.thataicollection.com/redirect/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Crea fondos de pantalla móviles de IA con tu nombre
+[Visit](https://www.thataicollection.com/redirect/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Puedes convertir imágenes al estilo anime o utilizar texto para generar imágenes de varios estilos. Estas funciones son de uso gratuito en Internet.
+Crea fondos de pantalla fotorrealistas con tu nombre. ¿Alguna vez te has imaginado tu nombre chisporroteando en llamas intensas? Te tenemos, ¡déjalo caer como si estuviera caliente! ¿O tal vez eres más una reina o un rey de los cristales de hielo? Tu nombre puede brillar en el hielo helado. Así que vamos, ¡haz que se encienda! 🔥
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+[More Information and Pricing](https://www.thataicollection.com/es/application/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
+
+
 
 
 ### Stabledojo

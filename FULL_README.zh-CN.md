@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1060" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1062" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -53,21 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
-    </a>
-    <h4>使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。</h4>
-    <p>从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。
-
-今天只需点击一下即可实现您最疯狂的梦想！</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
@@ -87,6 +72,21 @@
     <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
     <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
     <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    </a>
+    <h4>使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。</h4>
+    <p>从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。
+
+今天只需点击一下即可实现您最疯狂的梦想！</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -870,6 +870,7 @@
 | [Unrealme](https://www.thataicollection.com/redirect/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unreal Me - 获取 AI 生成的你的图像. | 获得令人惊叹的自己照片的步骤： 1. 付款。 2. 上传 - 阅读推荐并在有时间时上传您的照片（您的链接通过电子邮件发送）。 3. 等待 4. 分享。. | :x: |
 | [Vidnoz AI HEADSHOT GENERATOR](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 轻松轻松地创建专业的 AI 头像. | Vidnoz AI Headshot Generator 是一款在线人工智能头像生成器，是一款革命性的工具 无需昂贵的照片拍摄，即可将您的自拍照转换为高质量的头像。只是 每天上传几张照片，让 Vidnoz 的人工智能算法发挥魔力，无缝融合 面对各种专业背景和服装选择。. | :white_check_mark: |
 | [Waifu XL](https://www.thataicollection.com/redirect/waifu-xl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 只需单击一下按钮，Waifuxl即可直接在浏览器中提供最先进的放大功能。. | 只需单击一下按钮，Waifuxl即可直接在浏览器中提供最先进的放大功能。无需选择噪音等级，无需验证码，而且您的图像永远不会发送给我们。一切都是在本地完成的！. | :grey_question: |
+| [Wallpaperee](https://www.thataicollection.com/redirect/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用你的名字创建移动 AI 壁纸. | 用你的名字创建逼真的壁纸。有没有想过你的名字在烈火中燃烧？我们抓到你了，像很热一样把它丢掉！或者也许你更像冰晶女王或国王？你的名字可以在冰雪中闪闪发光。所以来吧，把它点亮！🔥. | :grey_question: |
 | [Watermark Remover](https://www.thataicollection.com/redirect/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 水印去除器-免费在线删除图像中的水印. | 使用我们的 AI 技术去除图像中的水印。使用我们的水印去除工具，让您的图像免受水印。. | :white_check_mark: |
 
 
@@ -1268,6 +1269,7 @@
 | [novita.ai](https://www.thataicollection.com/redirect/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 适用于 10000 多个模型的快速而便宜的 AI 图像生成 API. | 在短短 2 秒内生成速度最快，按使用量付费，每张标准映像 0.0015 美元，您可以添加自己的模型并避免 GPU 维护. | :white_check_mark: |
 | [NSFW Art Generator AI](https://www.thataicollection.com/redirect/nsfw-art-generator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您可以轻松生成高质量的 NSFW AI 图像。. | 使用我们的 NSFW 人工智能生成器。您可以轻松生成高质量的 NSFW AI 图像。该工具允许用户探索和创建人工智能图像，包括真实、动画、超现实和幻想选项。. | :grey_question: |
 | [OddVibe](https://www.thataicollection.com/redirect/oddvibe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | OddVibe：令人不安的 AI 生成图像的最佳集合。. | 修复令人毛骨悚然的 AI 生成图像。但请注意，您可能再也睡不着了。. | :grey_question: |
+| [Odyssey](https://www.thataicollection.com/redirect/odyssey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 无需一行代码即可连接 AI 模型。. | 在一个简单直观的 Mac 应用程序中，你可以在本地运行 Stable Diffusion 和 LLM 等人工智能模型，然后将这些模型连接到一大堆简单的图像和文本处理工具和 API。拖放节点和强大的预建工作流程使 Odyssey 成为创作精彩艺术品、提高工作效率和试验 AI 的最简单方法，所有这些都可以在一个简单的应用程序中完成。. | :white_check_mark: |
 | [Partly](https://www.thataicollection.com/redirect/partly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 从你的照片中提取令人惊叹的艺术，来自 Partly AI. | 借助 AI 魔法，将您的照片变成艺术品！. | :grey_question: |
 | [Patience](https://www.thataicollection.com/redirect/patience?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PatienceAI-使用 500 多种人工智能模型和风格创作艺术品. | Patience.ai 可以连接到 AUTOMATIC1111 的 Stable Diffusion Web 用户界面，在电脑上而不是云端生成图像。如果您已登录，则生成的图像将保存到您的 Patience.ai 收藏中。本地发电是 100% 免费的。. | :white_check_mark: |
 | [Pattern Maker AI](https://www.thataicollection.com/redirect/pattern-maker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用人工智能生成无缝模式. | Pattern Maker AI-使用稳定扩散人工智能模型的变体生成富有创造性和独特的无缝模式，该模型由 CompVis、Stability AI 和 LAION 的工程师和研究人员合作创建，并在 Creative ML OpenRail-M 许可下发布. | :grey_question: |

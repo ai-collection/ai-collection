@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1060" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1062" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -53,21 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
-    </a>
-    <h4>使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。</h4>
-    <p>从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。
-
-今天只需点击一下即可实现您最疯狂的梦想！</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
@@ -87,6 +72,21 @@
     <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
     <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
     <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    </a>
+    <h4>使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。</h4>
+    <p>从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。
+
+今天只需点击一下即可实现您最疯狂的梦想！</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -150,6 +150,36 @@
 - 💰 [销售与市场营销](#销售与市场营销)
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
+
+### Wallpaperee
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wallpaperee.webp" alt="Wallpaperee">
+
+#### 用你的名字创建移动 AI 壁纸
+[Visit](https://www.thataicollection.com/redirect/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+用你的名字创建逼真的壁纸。有没有想过你的名字在烈火中燃烧？我们抓到你了，像很热一样把它丢掉！或者也许你更像冰晶女王或国王？你的名字可以在冰雪中闪闪发光。所以来吧，把它点亮！🔥
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Odyssey
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-odyssey.webp" alt="Odyssey">
+
+#### 无需一行代码即可连接 AI 模型。
+[Visit](https://www.thataicollection.com/redirect/odyssey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在一个简单直观的 Mac 应用程序中，你可以在本地运行 Stable Diffusion 和 LLM 等人工智能模型，然后将这些模型连接到一大堆简单的图像和文本处理工具和 API。拖放节点和强大的预建工作流程使 Odyssey 成为创作精彩艺术品、提高工作效率和试验 AI 的最简单方法，所有这些都可以在一个简单的应用程序中完成。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/odyssey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### animeBuilder
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-animebuilder.webp" alt="animeBuilder">
@@ -229,36 +259,6 @@ LinkActions可以发现人们错过的内部链接，这样他们就可以在谷
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Opencord.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-opencord-ai.webp" alt="Opencord.AI">
-
-#### AI 代理生成的社交媒体内容
-[Visit](https://www.thataicollection.com/redirect/opencord.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我们正在构建Al Agents协作平台，我们设想人工智能代理可以相互协作，以帮助内容创作者更快、更轻松地创建有用/病毒式的内容。同时探索来自全球建筑商的所有令人兴奋、有趣和有用的 GPT，供个人和专业人士使用。我们推出了 3 个 AI 代理，如果你有兴趣查看它们，请随时访问我们的网站！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/opencord.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AI ColoringPage Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-coloringpage-generator.webp" alt="AI ColoringPage Generator">
-
-#### AI ColoringPage 在线！免费的人工智能着色页生成器，它使用人工智能根据提示词生成彩页。
-[Visit](https://www.thataicollection.com/redirect/ai-coloringpage-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI ColoringPage Online 是一款人工智能 (AI) 工具，旨在生成独特且可打印的彩页。用户输入提示词，系统使用这些信息来创建独特、高质量的彩页。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-coloringpage-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3138,15 +3138,15 @@ HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化�
 <br />
 
 
-### animeBuilder
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-animebuilder.webp" alt="animeBuilder">
+### Wallpaperee
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wallpaperee.webp" alt="Wallpaperee">
 
-#### 探索我们的免费在线工具，轻松将图片转换为动漫风格，并从文本生成艺术图像。毫不费力地释放你的创造力！
-[Visit](https://www.thataicollection.com/redirect/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 用你的名字创建移动 AI 壁纸
+[Visit](https://www.thataicollection.com/redirect/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-您可以将图片转换为动漫风格，或使用文本生成各种风格的图片。这些功能可在线免费使用。
+用你的名字创建逼真的壁纸。有没有想过你的名字在烈火中燃烧？我们抓到你了，像很热一样把它丢掉！或者也许你更像冰晶女王或国王？你的名字可以在冰雪中闪闪发光。所以来吧，把它点亮！🔥
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

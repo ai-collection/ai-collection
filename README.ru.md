@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1060" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1062" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=42" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Podwise, ведущее приложение для обучения искусственному интеллекту для слушателей подкастов.</h4>
-    <p>С помощью Podwise вы можете учиться на структурированных знаниях и выборочно слушать интересующие вас главы. Эта функция позволяет оптимизировать учебный процесс и сосредоточиться на наиболее важном для вас контенте.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Podwise</b></a>
+    <h4>AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения</h4>
+    <p>AiApply — это динамичный набор инструментов искусственного интеллекта, разработанный для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявления о приеме на работу, повышает качество резюме, готовит к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, обеспечивая пользователям возможность выделиться на конкурентных рынках. Это важный инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интел</p>
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с AiApply</b></a>
     <br />
 </div>
 
@@ -81,12 +81,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения</h4>
-    <p>AiApply — это динамичный набор инструментов искусственного интеллекта, разработанный для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявления о приеме на работу, повышает качество резюме, готовит к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, обеспечивая пользователям возможность выделиться на конкурентных рынках. Это важный инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интел</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с AiApply</b></a>
+    <h4>Podwise, ведущее приложение для обучения искусственному интеллекту для слушателей подкастов.</h4>
+    <p>С помощью Podwise вы можете учиться на структурированных знаниях и выборочно слушать интересующие вас главы. Эта функция позволяет оптимизировать учебный процесс и сосредоточиться на наиболее важном для вас контенте.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Podwise</b></a>
     <br />
 </div>
 
@@ -150,6 +150,36 @@
 - 🛒 [Электронная Торговля](#электронная-торговля)
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
+
+### Wallpaperee
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wallpaperee.webp" alt="Wallpaperee">
+
+#### Создавайте мобильные обои с искусственным интеллектом со своим именем
+[Visit](https://www.thataicollection.com/redirect/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Создавайте фотореалистичные обои под своим именем. Вы когда-нибудь представляли себе ваше имя, испепеляющее в сильном пламени? Мы вас поняли, бросьте его так, как будто жарко! Или, может быть, вы скорее королева или король кристаллов льда? Твое имя может сверкать на морозном льду. Так что давай, зажги его! 🔥
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Odyssey
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-odyssey.webp" alt="Odyssey">
+
+#### Объединяйте модели искусственного интеллекта без единой строки кода.
+[Visit](https://www.thataicollection.com/redirect/odyssey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+В одном простом и интуитивно понятном приложении для Mac вы можете запускать модели искусственного интеллекта, такие как Stable Diffusion и LLM, локально, а затем подключать эти модели к целому ряду простых инструментов и API для обработки изображений и текста. Узлы с функцией перетаскивания и мощные готовые рабочие процессы делают Odyssey самым простым способом создавать великолепные произведения искусства, повышать производительность и экспериментировать с искусственным интеллектом в одном простом приложе
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/odyssey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### animeBuilder
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-animebuilder.webp" alt="animeBuilder">
@@ -229,36 +259,6 @@ LinkActions выявляет внутренние ссылки, которые �
 
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Opencord.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-opencord-ai.webp" alt="Opencord.AI">
-
-#### Контент для социальных сетей, созданный агентами искусственного интеллекта
-[Visit](https://www.thataicollection.com/redirect/opencord.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Мы создаем платформу для совместной работы Al Agents, где, по нашему мнению, агенты искусственного интеллекта смогут сотрудничать друг с другом, чтобы помочь создателям контента быстрее и проще создавать полезный/вирусный контент. Изучаем все интересные, забавные и полезные GPT от мировых разработчиков для личного и профессионального использования. Мы запустили 3 агента искусственного интеллекта. Если вам интересно ознакомиться с ними, загляните на наш сайт!
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/opencord.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI ColoringPage Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-coloringpage-generator.webp" alt="AI ColoringPage Generator">
-
-#### Страница-раскраска AI онлайн! Бесплатный генератор раскрасок AI, он генерирует раскраску из подсказок с помощью искусственного интеллекта.
-[Visit](https://www.thataicollection.com/redirect/ai-coloringpage-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI ColoringPage Online — это инструмент искусственного интеллекта (ИИ), предназначенный для создания уникальных раскрасок для печати. Пользователи вводят быстрые слова, и система использует эту информацию для создания уникальных высококачественных раскрасок.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-coloringpage-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3136,15 +3136,15 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 
-### animeBuilder
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-animebuilder.webp" alt="animeBuilder">
+### Wallpaperee
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wallpaperee.webp" alt="Wallpaperee">
 
-#### Откройте для себя наши бесплатные онлайн-инструменты для простого преобразования изображений в стиле аниме и создания художественных изображений из текста. Раскройте свой творческий потенциал без особых усилий!
-[Visit](https://www.thataicollection.com/redirect/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Создавайте мобильные обои с искусственным интеллектом со своим именем
+[Visit](https://www.thataicollection.com/redirect/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Вы можете конвертировать изображения в стиле аниме или использовать текст для создания изображений в различных стилях. Эти функции можно использовать бесплатно в Интернете.
+Создавайте фотореалистичные обои под своим именем. Вы когда-нибудь представляли себе ваше имя, испепеляющее в сильном пламени? Мы вас поняли, бросьте его так, как будто жарко! Или, может быть, вы скорее королева или король кристаллов льда? Твое имя может сверкать на морозном льду. Так что давай, зажги его! 🔥
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

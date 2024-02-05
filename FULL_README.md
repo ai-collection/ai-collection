@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1060" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1062" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=42" />
@@ -59,19 +59,6 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
-    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It's an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with AiApply</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -80,6 +67,19 @@ Translations:
 
 Your wildest dreams are just a click away today!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
+    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It's an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with AiApply</b></a>
     <br />
 </div>
 
@@ -286,6 +286,7 @@ Your wildest dreams are just a click away today!</p>
 | [novita.ai](https://www.thataicollection.com/redirect/novita.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Fast and cheap AI image generation API for 10000+ models. | Fastest generation in just 2s, Pay-As-You-Go, $0.0015 for each standard image, you can add your own models and avoid GPU maintenance. | :white_check_mark: |
 | [NSFW Art Generator AI](https://www.thataicollection.com/redirect/nsfw-art-generator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | You can generate quality NSFW AI images with total ease. | With our NSFW AI Generator. You can generate quality NSFW AI images with total ease. The tool allows users to explore and create AI images, including real, anime, hyperreal and fantasy options. | :grey_question: |
 | [OddVibe](https://www.thataicollection.com/redirect/oddvibe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Oddvibe: The Finest Collection of Unnerving AI-Generated Images. | Get your fix of creepy AI-generated images. But be warned, you may never sleep again. | :grey_question: |
+| [Odyssey](https://www.thataicollection.com/redirect/odyssey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Connect AI models without a single line of code. | In one simple, intuitive Mac app you can run AI models like Stable Diffusion and LLMs locally then connect those models to a whole bunch of simple image and text processing tools and APIs. Drag-and-drop nodes and powerful, pre-built workflows make Odyssey the easiest way to create great art, increase your productivity, and experiment with AI all in one simple app. | :white_check_mark: |
 | [Partly](https://www.thataicollection.com/redirect/partly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Mind-Blowing Art From Your Photos, by Partly AI. | Transform your photos into works of art with the help of AI magic!. | :grey_question: |
 | [Patience](https://www.thataicollection.com/redirect/patience?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PatienceAI - Create art with 500+ AI models & styles. | Patience.ai can connect to AUTOMATIC1111's Stable Diffusion Web UI to generate images on your computer instead of in the cloud. If you are signed in, the images you generate are then saved to your Patience.ai collection. Local generation is 100% free. | :white_check_mark: |
 | [Pattern Maker AI](https://www.thataicollection.com/redirect/pattern-maker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generate Seamless Patterns Using Artificial Intelligence. | Pattern Maker AI - Generate creative and unique seamless patterns using variant of Stable Diffusion AI model that was created by a collaboration between engineers and researchers from CompVis, Stability AI, and LAION and released under a Creative ML OpenRAIL-M license. | :grey_question: |
@@ -1021,6 +1022,7 @@ Your wildest dreams are just a click away today!</p>
 | [Unrealme](https://www.thataicollection.com/redirect/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unreal Me - Get AI Generated Images of You. | Steps to get awesome images of yourself: 1. Payment. 2. Upload - Read recommendations and upload your photos whenever you have time (your link is sent by email). 3. Wait 4. Share. | :x: |
 | [Vidnoz AI HEADSHOT GENERATOR](https://www.thataicollection.com/redirect/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create Professional AI Headshots Easily and Effortlessly. | Vidnoz AI Headshot Generator is an online AI headshot generator, a revolutionary tool that transforms your selfies into high-quality headshots without expensive photo shoots. Simply upload a few daily photos and let Vidnoz's AI algorithms work their magic, seamlessly blending your face onto a variety of professional backdrops and clothing options. | :white_check_mark: |
 | [Waifu XL](https://www.thataicollection.com/redirect/waifu-xl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Waifuxl provides state of the art upscaling directly in your browser at the click of a button. | Waifuxl provides state of the art upscaling directly in your browser at the click of a button. No need to choose a noise level, no captcha, and your images are never sent to us. Everything is done locally!. | :grey_question: |
+| [Wallpaperee](https://www.thataicollection.com/redirect/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create mobile AI wallpapers with your name. | Create photorealistic wallpapers out of your name. Ever imagined your name sizzling in intense flames? We got you, drop it like it's hot! Or maybe you're more of an ice-crystal queen or king? Your name can sparkle in frosty ice. So come on, make it lit! 🔥. | :grey_question: |
 | [Watermark Remover](https://www.thataicollection.com/redirect/watermark-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Watermark Remover - Remove Watermarks Online From Images for Free. | Remove watermarks from your images using our AI technology. Use our watermark-remover tool and get your images watermark free. | :white_check_mark: |
 
 
