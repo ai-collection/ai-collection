@@ -23,10 +23,10 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1059" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1060" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
+    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=42" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -72,19 +72,6 @@ Translations:
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
-    <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -93,6 +80,19 @@ Translations:
 
 Your wildest dreams are just a click away today!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
+    <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
     <br />
 </div>
 
@@ -963,6 +963,7 @@ Your wildest dreams are just a click away today!</p>
 |---|---|---|:---:|
 | [AI Image Enlarger](https://www.thataicollection.com/redirect/ai-image-enlarger?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Enlarge and Enhance Images With AI Image Enlarger. | One-click AI solution to Make Your Photos Sharper, Crisper, and Cleaner. Increase image resolution without losing quality. Stunning Quality and Result. Enlarge any small image to 2k and 4k without losing quality. Sharpen details to improve image's visual for sharing and printing. Photo Enhancement Made Easy for Everyone!. | :white_check_mark: |
 | [AI Image Upscaler](https://www.thataicollection.com/redirect/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Image Upscaler - Enlarge & Enhance Your Photos for Free. | Upscale your image to 2x or 4x without losing any textures or details with our AI tool. Use our super-resolution tool and bring new life to your images. | :white_check_mark: |
+| [animeBuilder](https://www.thataicollection.com/redirect/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Discover our free online tools to easily convert pictures into anime style and generate artistic images from text. Unleash your creativity effortlessly!. | You can convert pictures into anime style, or use text to generate pictures in various styles.These features are free to use online. | :white_check_mark: |
 | [AVC AI](https://www.thataicollection.com/redirect/avc-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Online AI Image Enhancer That Improves Photo Quality by Upscaling, Denoising, Restoring, Face Refinement, and More. | Use deep learning algorithm to improve and restore photo quality automatically and effortlessly. Get A Better Photo Quality with the Power of AI. Upscale the image resolution from low to high, and enhance its quality by denoising, sharpening, face retouching, colorizing, color calibration, and more. | :x: |
 | [AVCLabs Photo Enhancer AI](https://www.thataicollection.com/redirect/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AVCLabs AI Photo Enhancer: Enhance Photo Quality at Ease with AI. | All-in-one AI photo enhancer to enhance photo quality by automatically denoising, deburring, sharpening, adjusting color and tone, and upscale image by up to 400% without sacrificing the quality. | :white_check_mark: |
 | [AVCLabs PhotoPro AI](https://www.thataicollection.com/redirect/avclabs-photopro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Photo Editor: Enhance Everything in Your Photo Editing - AVCLabs. | The specialized AI-assisted photo editing tool, offering professional photo editing tools such as removing objects and backgrounds, enhancing photo quality, increasing photo resolution, colorizing black-and-white photos, portrait retouching, and photo stylization. | :white_check_mark: |
@@ -1500,6 +1501,7 @@ Your wildest dreams are just a click away today!</p>
 | [Writefull Academizer](https://www.thataicollection.com/redirect/writefull-academizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Where AI 💛 Academic Writing. | At Writefull, we love to experiment with AI to help academic writing. This is the place where we publish some of our experiments. | :white_check_mark: |
 | [yaara.ai](https://www.thataicollection.com/redirect/yaara.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Yaara — AI-Powered Writing Assistant. The Future Of Writing Is Finally Here. | Yaara.ai is an AI-powered content generation tool that helps businesses create content 3X faster. With Yaara, you can create high-quality, engaging content in minutes. Use AI to write proven, high-converting copy for increased conversions and higher ROI. Instantly generate top-notch copy for ads, emails, websites, listings, blogs, stories, and more... | :white_check_mark: |
 | [Yomu](https://www.thataicollection.com/redirect/yomu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI writing assistant for students and academics. | Yomu AI is a writing assistant designed for academic writing, which facilitates essay and paper creation. It provides smart document assistance, AI-powered sentence and paragraph autocomplete, text enhancement features like paraphrasing and summarization, and a citation tool with easy citation formatting. | :white_check_mark: |
+| [ZeroGPT](https://www.thataicollection.com/redirect/zerogpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ZeroGPT the most trusted and accurate AI detector tool to detect ChatGPT generated text. | Explore the power of ZeroGPT.com – the ultimate AI detection tool designed to pinpoint ChatGPT-generated text. With cutting-edge algorithms, it swiftly distinguishes between AI and human-created content. Whether for content moderation or maintaining online transparency, ZeroGPT.com is your compact yet robust solution for confidently identifying ChatGPT's influence. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
