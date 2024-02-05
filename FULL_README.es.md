@@ -23,10 +23,10 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1059" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1060" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
+    <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=42" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
+    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con AiApply</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -61,19 +74,6 @@
 
 ¡Tus sueños más locos están a un clic de distancia hoy!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
-    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con AiApply</b></a>
     <br />
 </div>
 
@@ -320,6 +320,7 @@
 | [Writefull Academizer](https://www.thataicollection.com/redirect/writefull-academizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Donde AI 💛 Escritura Académica. | En Writefull, nos encanta experimentar con IA para ayudar a la escritura académica. Este es el lugar donde publicamos algunos de nuestros experimentos. | :white_check_mark: |
 | [yaara.ai](https://www.thataicollection.com/redirect/yaara.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Yaara: asistente de escritura con inteligencia artificial. El futuro de la escritura por fin está aquí. | Yaara.ai es una herramienta de generación de contenido basada en la IA que ayuda a las empresas a crear contenido 3 veces más rápido. Con Yaara, puedes crear contenido atractivo y de alta calidad en cuestión de minutos. Utiliza la IA para escribir textos comprobados y de alta conversión para aumentar las conversiones y aumentar el ROI. Genera al instante textos de primera categoría para anuncios, correos electrónicos, sitios web, anuncios, blogs, historias y más... | :white_check_mark: |
 | [Yomu](https://www.thataicollection.com/redirect/yomu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Asistente de escritura con IA para estudiantes y académicos. | Yomu AI es un asistente de redacción diseñado para la escritura académica, que facilita la creación de ensayos y artículos. Proporciona asistencia inteligente para documentos, autocompletado de frases y párrafos con tecnología de inteligencia artificial, funciones de mejora del texto, como la paráfrasis y el resumen, y una herramienta de citas con un formato de citas sencillo. | :white_check_mark: |
+| [ZeroGPT](https://www.thataicollection.com/redirect/zerogpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ZeroGPT es la herramienta de detección de IA más fiable y precisa para detectar el texto generado por ChatGPT. | Descubre el poder de ZeroGPT.com, la mejor herramienta de detección de IA diseñada para localizar el texto generado por ChatGP. Con algoritmos vanguardistas, distingue rápidamente entre la IA y el contenido creado por humanos. Ya sea para moderar el contenido o mantener la transparencia en Internet, ZeroGPT.com es tu solución compacta y sólida para identificar con confianza la influencia de ChatGPT. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
@@ -570,6 +571,7 @@
 |---|---|---|:---:|
 | [AI Image Enlarger](https://www.thataicollection.com/redirect/ai-image-enlarger?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Amplíe y mejore las imágenes con AI Image Enlarger. | Solución de inteligencia artificial con un solo clic para hacer que sus fotos sean más nítidas, nítidas y limpias. Aumenta la resolución de la imagen sin perder calidad. Impresionante calidad y resultado. Amplía cualquier imagen pequeña a 2k y 4k sin perder calidad. Afina los detalles para mejorar la imagen visual para compartir e imprimir. ¡Mejora de fotos fácil para todos!. | :white_check_mark: |
 | [AI Image Upscaler](https://www.thataicollection.com/redirect/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ampliador de imágenes con IA: amplía y mejora tus fotos de forma gratuita. | Amplía tu imagen a 2 o 4 veces sin perder ninguna textura ni detalle con nuestra herramienta de IA. Utiliza nuestra herramienta de superresolución y da nueva vida a tus imágenes. | :white_check_mark: |
+| [animeBuilder](https://www.thataicollection.com/redirect/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Descubre nuestras herramientas online gratuitas para convertir fácilmente imágenes al estilo anime y generar imágenes artísticas a partir del texto. ¡Da rienda suelta a tu creatividad sin esfuerzo!. | Puedes convertir imágenes al estilo anime o utilizar texto para generar imágenes de varios estilos. Estas funciones son de uso gratuito en Internet. | :white_check_mark: |
 | [AVC AI](https://www.thataicollection.com/redirect/avc-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Mejorador de imágenes con IA en línea que mejora la calidad de las fotos al escalar, eliminar el ruido, restaurar, refinar el rostro y más. | Utilice un algoritmo de aprendizaje profundo para mejorar y restaurar la calidad de las fotos de forma automática y sin esfuerzo. Obtenga una mejor calidad fotográfica con el poder de la IA. Mejore la resolución de la imagen de menor a mayor y mejore su calidad eliminando el ruido, enfocando, retocando rostros, coloreando, calibrando el color y más. | :x: |
 | [AVCLabs Photo Enhancer AI](https://www.thataicollection.com/redirect/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Mejorador fotográfico con IA de AVCLabs: mejora la calidad de las fotografías con facilidad con la IA. | Potenciador fotográfico con IA todo en uno para mejorar la calidad de las fotografías al eliminar automáticamente el ruido, desbarbar, enfocar, ajustar el color y el tono y aumentar la imagen hasta un 400% sin sacrificar la calidad. | :white_check_mark: |
 | [AVCLabs PhotoPro AI](https://www.thataicollection.com/redirect/avclabs-photopro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Editor de fotos con IA: mejora todo en la edición de fotos - AVCLabs. | La herramienta especializada de edición de fotografías asistida por IA, que ofrece herramientas profesionales de edición de fotografías, como eliminar objetos y fondos, mejorar la calidad de las fotografías, aumentar la resolución de las fotos, colorear fotos en blanco y negro, retocar retratos y estilizar fotografías. | :white_check_mark: |

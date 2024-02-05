@@ -23,10 +23,10 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1059" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1060" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
+    <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=42" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -66,19 +66,6 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise, la meilleure application d'apprentissage basée sur l'IA pour les auditeurs de podcasts.</h4>
-    <p>Avec Podwise, tu peux apprendre grâce à des connaissances structurées et écouter de manière sélective les chapitres qui suscitent ton intérêt. Cette fonctionnalité te permet d'optimiser ton expérience d'apprentissage et de te concentrer sur le contenu qui compte le plus pour toi.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Podwise</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -87,6 +74,19 @@
 
 Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise, la meilleure application d'apprentissage basée sur l'IA pour les auditeurs de podcasts.</h4>
+    <p>Avec Podwise, tu peux apprendre grâce à des connaissances structurées et écouter de manière sélective les chapitres qui suscitent ton intérêt. Cette fonctionnalité te permet d'optimiser ton expérience d'apprentissage et de te concentrer sur le contenu qui compte le plus pour toi.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Podwise</b></a>
     <br />
 </div>
 
@@ -362,6 +362,7 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 | [Writefull Academizer](https://www.thataicollection.com/redirect/writefull-academizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Où AI 💛 Écriture académique. | Chez Writefull, nous aimons expérimenter l'IA pour aider l'écriture académique. C'est ici que nous publions certaines de nos expériences. | :white_check_mark: |
 | [yaara.ai](https://www.thataicollection.com/redirect/yaara.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Yaara — Assistante d'écriture alimentée par l'IA. Le futur de l'écriture est enfin là. | Yaara.ai est un outil de génération de contenu basé sur l'IA qui aide les entreprises à créer du contenu 3 fois plus rapidement. Avec Yaara, tu peux créer du contenu captivant et de haute qualité en quelques minutes. Utilise l'IA pour rédiger des textes éprouvés à taux de conversion élevé afin d'augmenter les conversions et le retour sur investissement. Génère instantanément des textes de premier ordre pour les publicités, les e-mails, les sites Web, les annonces, les blogs, les articles et plus encore... | :white_check_mark: |
 | [Yomu](https://www.thataicollection.com/redirect/yomu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Assistant de rédaction basé sur l'IA pour les étudiants et les universitaires. | Yomu AI est un assistant de rédaction conçu pour la rédaction académique, qui facilite la création de dissertations et d'articles. Il fournit une assistance documentaire intelligente, la saisie automatique de phrases et de paragraphes alimentée par l'IA, des fonctionnalités d'amélioration du texte telles que la paraphrase et le résumé, et un outil de citation permettant de facilement mettre en forme les citations. | :white_check_mark: |
+| [ZeroGPT](https://www.thataicollection.com/redirect/zerogpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ZeroGPT est l'outil d'intelligence artificielle le plus fiable et le plus précis pour détecter le texte généré par ChatGPT. | Découvrez la puissance de ZeroGPT.com, l'outil de détection par IA ultime conçu pour localiser le texte généré par ChatGPT. Grâce à des algorithmes de pointe, il fait rapidement la distinction entre le contenu créé par l'IA et le contenu créé par l'homme. Que ce soit pour la modération du contenu ou le maintien de la transparence en ligne, ZeroGPT.com est ta solution compacte mais robuste pour identifier en toute confiance l'influence de ChatGPT. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
@@ -1190,6 +1191,7 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 |---|---|---|:---:|
 | [AI Image Enlarger](https://www.thataicollection.com/redirect/ai-image-enlarger?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Agrandir et améliorer les images avec AI Image Enlarger. | Solution d'IA en un clic pour rendre vos photos plus nettes, plus nettes et plus propres. Augmentez la résolution de l'image sans perte de qualité. Qualité et résultat époustouflants. Agrandissez n'importe quelle petite image en 2k et 4k sans perte de qualité. Affinez les détails pour améliorer le visuel de l'image pour le partage et l'impression. L'amélioration des photos rendue facile pour tout le monde !. | :white_check_mark: |
 | [AI Image Upscaler](https://www.thataicollection.com/redirect/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Image Upscaler : agrandissez et améliorez vos photos gratuitement. | Améliore ton image 2 ou 4 fois sans perdre de texture ni de détail grâce à notre outil d'IA. Utilise notre outil de super résolution et redonne vie à tes images. | :white_check_mark: |
+| [animeBuilder](https://www.thataicollection.com/redirect/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Découvrez nos outils en ligne gratuits pour convertir facilement des photos en anime et générer des images artistiques à partir de texte. Laisse libre cours à ta créativité !. | Tu peux convertir des photos en anime ou utiliser du texte pour générer des images dans différents styles. Ces fonctionnalités sont gratuites en ligne. | :white_check_mark: |
 | [AVC AI](https://www.thataicollection.com/redirect/avc-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Améliorateur d'image AI en ligne qui améliore la qualité des photos en augmentant, en débruitant, en restaurant, en affinant le visage, etc. | Utilisez un algorithme d'apprentissage en profondeur pour améliorer et restaurer automatiquement et sans effort la qualité des photos. Obtenez une meilleure qualité photo avec la puissance de l'IA. Augmentez la résolution de l'image de faible à élevée et améliorez sa qualité en débruitant, en accentuant, en retouchant le visage, en colorisant, en calibrant les couleurs, etc. | :x: |
 | [AVCLabs Photo Enhancer AI](https://www.thataicollection.com/redirect/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Améliorateur de photos AVCLabs AI : améliorez facilement la qualité des photos grâce à l'IA. | Améliorateur de photos intelligent tout-en-un pour améliorer la qualité des photos en réduisant automatiquement le bruit, en effilant, en améliorant la netteté, en ajustant la couleur et la tonalité, et en redimensionnant l'image jusqu'à 400 % sans en sacrifier la qualité. | :white_check_mark: |
 | [AVCLabs PhotoPro AI](https://www.thataicollection.com/redirect/avclabs-photopro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Éditeur de photos IA : améliore tous tes éléments de retouche photo - AVCLabs. | L'outil de retouche photo spécialisé assisté par IA, qui propose des outils de retouche photo professionnels tels que la suppression d'objets et d'arrière-plans, l'amélioration de la qualité des photos, l'augmentation de la résolution des photos, la colorisation de photos en noir et blanc, la retouche de portraits et la stylisation des photos. | :white_check_mark: |

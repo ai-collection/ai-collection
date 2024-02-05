@@ -23,10 +23,10 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1059" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1060" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
+    <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=42" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
+    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con AiApply</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -61,19 +74,6 @@
 
 ¡Tus sueños más locos están a un clic de distancia hoy!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
-    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con AiApply</b></a>
     <br />
 </div>
 
@@ -150,6 +150,36 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 💰 [Ventas Y Marketing](#ventas-y-marketing)
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
+
+### animeBuilder
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-animebuilder.webp" alt="animeBuilder">
+
+#### Descubre nuestras herramientas online gratuitas para convertir fácilmente imágenes al estilo anime y generar imágenes artísticas a partir del texto. ¡Da rienda suelta a tu creatividad sin esfuerzo!
+[Visit](https://www.thataicollection.com/redirect/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Puedes convertir imágenes al estilo anime o utilizar texto para generar imágenes de varios estilos. Estas funciones son de uso gratuito en Internet.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### ZeroGPT
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zerogpt.webp" alt="ZeroGPT">
+
+#### ZeroGPT es la herramienta de detección de IA más fiable y precisa para detectar el texto generado por ChatGPT.
+[Visit](https://www.thataicollection.com/redirect/zerogpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Descubre el poder de ZeroGPT.com, la mejor herramienta de detección de IA diseñada para localizar el texto generado por ChatGP. Con algoritmos vanguardistas, distingue rápidamente entre la IA y el contenido creado por humanos. Ya sea para moderar el contenido o mantener la transparencia en Internet, ZeroGPT.com es tu solución compacta y sólida para identificar con confianza la influencia de ChatGPT.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/zerogpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Typegrow
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-typegrow.webp" alt="Typegrow">
@@ -229,38 +259,6 @@ Estamos creando la plataforma de colaboración de Al Agents, en la que imaginamo
 AI ColoringPage Online es una herramienta de inteligencia artificial (IA) diseñada para generar páginas para colorear únicas e imprimibles. Los usuarios escriben palabras rápidas y el sistema utiliza esta información para crear páginas para colorear únicas y de alta calidad.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/ai-coloringpage-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### ApplyPass
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-applypass.webp" alt="ApplyPass">
-
-#### Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.
-[Visit](https://www.thataicollection.com/redirect/applypass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
-
-ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/applypass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Trip Maker
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-trip-maker.webp" alt="AI Trip Maker">
-
-#### Creador de viajes con IA: tu planificador de viajes personal, IA
-[Visit](https://www.thataicollection.com/redirect/ai-trip-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AiTripMaker: tu IA planificadora de viajes personal hace que planificar tu próximo viaje sea fácil y divertido. ¡Simplemente introduce tu destino y consigue un plan de viaje personalizado! Personaliza el plan de cualquier forma (añade más días, conviértelo en unas vacaciones gastronómicas, etc.) simplemente pidiéndole a AiTripMaker que lo haga.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/ai-trip-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3139,20 +3137,19 @@ HitPaw Online AI Photo Enhancer utiliza tecnología avanzada de IA para eliminar
 <br />
 
 
-### AVCLabs Photo Enhancer AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
+### animeBuilder
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-animebuilder.webp" alt="animeBuilder">
 
-#### Mejorador fotográfico con IA de AVCLabs: mejora la calidad de las fotografías con facilidad con la IA 
+#### Descubre nuestras herramientas online gratuitas para convertir fácilmente imágenes al estilo anime y generar imágenes artísticas a partir del texto. ¡Da rienda suelta a tu creatividad sin esfuerzo!
+[Visit](https://www.thataicollection.com/redirect/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Puedes convertir imágenes al estilo anime o utilizar texto para generar imágenes de varios estilos. Estas funciones son de uso gratuito en Internet.
 
-Potenciador fotográfico con IA todo en uno para mejorar la calidad de las fotografías al eliminar automáticamente el ruido, desbarbar, enfocar, ajustar el color y el tono y aumentar la imagen hasta un 400% sin sacrificar la calidad.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-
+<br />
 
 
 ### Stabledojo
@@ -5036,16 +5033,15 @@ Ahorra horas todos los días. El primer escritor de inteligencia artificial del 
 <br />
 
 
-### Paraphraser
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-paraphraser.webp" alt="Paraphraser">
+### Quillbot Paraphraser
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quillbot-paraphraser.webp" alt="Quillbot Paraphraser">
 
-#### Paráfrasis gratuita para todos los idiomas
-[Visit](https://www.thataicollection.com/redirect/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### La herramienta de paráfrasis impulsada por IA de QuillBot mejorará su escritura
+[Visit](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Herramienta de paráfrasis con 15 modos GRATUITOS para más de 100 idiomas: reformula oraciones, reescribe párrafos, reescribe ensayos, comprueba la gramática y elimina el plagio
+Tus palabras importan, y nuestra herramienta de paráfrasis está diseñada para garantizar que uses las correctas. Con dos modos gratuitos y cinco modos Premium para elegir, puede usar el Paraphraser en línea de QuillBot para reformular cualquier texto de varias maneras.
 
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
