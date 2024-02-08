@@ -53,21 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft" border="0"/>
-    </a>
-    <h4>Het Imagine: cambia el estilo de una casa en 10 segundos o menos. Inspiración, diseño de interiores, puesta en escena y más.</h4>
-    <p>Cambia el estilo de una casa en 10 segundos o menos. A continuación, puedes utilizar nuestro motor de búsqueda para encontrar los productos de las fotos. 
-
-Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para inspirarte, diseñar interiores, fotos de puesta en escena y mucho más.</p>
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Deft</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
@@ -89,6 +74,21 @@ Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para ins
 
 ¡Tus sueños más locos están a un clic de distancia hoy!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft" border="0"/>
+    </a>
+    <h4>Het Imagine: cambia el estilo de una casa en 10 segundos o menos. Inspiración, diseño de interiores, puesta en escena y más.</h4>
+    <p>Cambia el estilo de una casa en 10 segundos o menos. A continuación, puedes utilizar nuestro motor de búsqueda para encontrar los productos de las fotos. 
+
+Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para inspirarte, diseñar interiores, fotos de puesta en escena y mucho más.</p>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Deft</b></a>
     <br />
 </div>
 

@@ -53,21 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft" border="0"/>
-    </a>
-    <h4>Deft Imagine - Redonnez du style à une maison en 10 secondes ou moins. Inspiration, design d'intérieur, mise en scène et plus encore.</h4>
-    <p>Relooker une maison en 10 secondes ou moins. Ensuite, tu peux utiliser notre moteur de recherche pour trouver les produits sur les photos. 
-
-Il est très précis et tu peux choisir parmi une multitude de styles. Idéal pour l'inspiration, la décoration d'intérieur, les photos de mise en scène, etc.</p>
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Deft</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
@@ -89,6 +74,21 @@ Il est très précis et tu peux choisir parmi une multitude de styles. Idéal po
 
 Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft" border="0"/>
+    </a>
+    <h4>Deft Imagine - Redonnez du style à une maison en 10 secondes ou moins. Inspiration, design d'intérieur, mise en scène et plus encore.</h4>
+    <p>Relooker une maison en 10 secondes ou moins. Ensuite, tu peux utiliser notre moteur de recherche pour trouver les produits sur les photos. 
+
+Il est très précis et tu peux choisir parmi une multitude de styles. Idéal pour l'inspiration, la décoration d'intérieur, les photos de mise en scène, etc.</p>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Deft</b></a>
     <br />
 </div>
 
@@ -507,6 +507,23 @@ Une première expérience pour prototyper et créer de la 3D avec du texte L'acc
 
 ## Architecture & Design d'intérieur
 
+### Deft
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft">
+
+#### Deft Imagine - Redonnez du style à une maison en 10 secondes ou moins. Inspiration, design d'intérieur, mise en scène et plus encore.
+[Visit](https://www.thataicollection.com/redirect/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Relooker une maison en 10 secondes ou moins. Ensuite, tu peux utiliser notre moteur de recherche pour trouver les produits sur les photos. 
+
+Il est très précis et tu peux choisir parmi une multitude de styles. Idéal pour l'inspiration, la décoration d'intérieur, les photos de mise en scène, etc.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Oda Studio
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
 
@@ -598,21 +615,6 @@ Obtenez des centaines d'idées de design d'intérieur pour votre chambre - gratu
 <br />
 
 
-### Coolaiid
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-coolaiid.webp" alt="Coolaiid">
-
-#### Coolaiid - Transformez votre décoration d'intérieur grâce à l'IA
-[Visit](https://www.thataicollection.com/redirect/coolaiid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Découvrez les possibilités infinies en matière de design d'intérieur grâce à notre plateforme innovante pilotée par l'IA, conçue à la fois pour les passionnés de bricolage et les designers d'intérieur professionnels. Découvrez un monde d'idées de design personnalisées à portée de main.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/coolaiid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 
 [See All 🏯 Architecture & Design d'intérieur Applications on AI Collection](https://www.thataicollection.com/fr/categories/architecture-and-interior-design?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -622,6 +624,21 @@ Découvrez les possibilités infinies en matière de design d'intérieur grâce 
 ---
 
 ## Générateur d'art et d'images
+
+### Corporate Headshots AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
+
+#### Corporate Headshots AI : révolutionner les portraits d'entreprise grâce à l'IA
+[Visit](https://www.thataicollection.com/redirect/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l'IA transforme tes selfies en portraits élégants, conformes aux normes de l'entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### caspa AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI">
@@ -693,21 +710,6 @@ De plus, l'optimiseur de listes basé sur l'IA crée efficacement des listes de 
 ICONS8 PERMET AUX DESIGNERS D'EXPRIMER LEURS IDÉES EN FOURNISSANT LES BONS ÉLÉMENTS DE DESIGN AU BON MOMENT. Fonctionnalités de l'IA : générateur de visages, changement de visage sur des photos de stock, amélioration intelligente, mise à jour de ton site web directement depuis Lunacy et bien plus encore
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/icons8?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### CustomQR AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customqr-ai.webp" alt="CustomQR AI">
-
-#### Service de génération de code QR pour les entreprises
-[Visit](https://www.thataicollection.com/redirect/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Obtenez de magnifiques codes QR artistiques sur votre e-mail en moins de 10 minutes. Choisissez parmi les catégories de codes QR disponibles ou demandez les vôtres. Faites en sorte que votre entreprise se démarque avec des arts QR uniques !
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2273,6 +2275,21 @@ Vérifier les symptômes et trouver les causes par l'IA - Répondez au quiz sur 
 
 ## Ressources humaines et CV
 
+### AiApply
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
+
+#### AIApply : outils d'IA permettant aux demandeurs d'emploi de créer la candidature parfaite
+[Visit](https://www.thataicollection.com/redirect/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AIApply est une suite dynamique d'outils d'IA conçus pour donner plus de moyens aux demandeurs d'emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d'emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C'est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l'IA.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### JobSearch.Coach
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach">
 
@@ -2303,15 +2320,15 @@ Rezi est la seule plate-forme de CV qui utilise une IA de pointe pour automatise
 
 
 
-### Prodigy AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prodigy-ai.webp" alt="Prodigy AI">
+### JobBuddy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobbuddy.webp" alt="JobBuddy">
 
-#### Utiliser l'IA pour améliorer la carrière des ingénieurs logiciels
-[Visit](https://www.thataicollection.com/redirect/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### JobBuddy - Génère des lettres de motivation, optimise les CV et obtiens du matériel de préparation aux entretiens en quelques secondes avec ton coach de carrière personnel piloté par l'IA.
+[Visit](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Nous avons pour mission d'utiliser la toute dernière intelligence artificielle pour créer des outils qui aident les ingénieurs logiciels à bâtir de meilleures carrières. Nos outils d'IA sont 100% gratuits.
+JobBuddy fournit aux demandeurs d'emploi des outils d'IA avancés pour générer des lettres de motivation et des CV personnalisés et préparer les entretiens. S'appuyant sur des milliers d'exemples réussis et utilisant une technologie multimodèle, JobBuddy est très efficace lorsqu'il s'agit de produire des supports de candidature professionnels entièrement optimisés pour ATS et à consonance humaine. Essaye-le pour une approche rationalisée et hautement personnalisée de ta recherche d'emploi.
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2346,21 +2363,6 @@ Nous postulons automatiquement à tous les emplois sur des plateformes comme Lin
 <br />
 
 <br />
-
-
-### JobBuddy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobbuddy.webp" alt="JobBuddy">
-
-#### JobBuddy - Génère des lettres de motivation, optimise les CV et obtiens du matériel de préparation aux entretiens en quelques secondes avec ton coach de carrière personnel piloté par l'IA.
-[Visit](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-JobBuddy fournit aux demandeurs d'emploi des outils d'IA avancés pour générer des lettres de motivation et des CV personnalisés et préparer les entretiens. S'appuyant sur des milliers d'exemples réussis et utilisant une technologie multimodèle, JobBuddy est très efficace lorsqu'il s'agit de produire des supports de candidature professionnels entièrement optimisés pour ATS et à consonance humaine. Essaye-le pour une approche rationalisée et hautement personnalisée de ta recherche d'emploi.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ### HireYaY
