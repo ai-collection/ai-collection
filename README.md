@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1062" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1072" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=42" />
@@ -157,6 +157,54 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### Humanize AI Text
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-humanize-ai-text.webp" alt="Humanize AI Text">
+
+#### Humanize AI Text - Free AI to Human Text Converter
+[Visit](https://www.thataicollection.com/redirect/humanize-ai-text?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Humanize AI Text is a free online tool designed to convert AI-generated text into a more human-like form. Bypass AI detection and elevate your content to human writing standards.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/humanize-ai-text?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Presentation API
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presentation-api.webp" alt="Presentation API">
+
+#### Presentation API is an easy-to-use API for presentation generation that you can add to your apps and websites.
+
+Long Description
+[Visit](https://www.thataicollection.com/redirect/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Introducing Presentation API, the easiest AI-Powered API that can be used to add presentation-generating ability to your app or website.
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Glam Girls AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-glam-girls-ai.webp" alt="Glam Girls AI">
+
+#### Experience AI girls sending NSFW images and indulging in spicy chats. Build meaningful connections, explore your desires, and embark on an unforgettable journey with your AI girlfriends.
+[Visit](https://www.thataicollection.com/redirect/glam-girls-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Enter a world where AI generated girls come to life, enticing you with NSFW images and engaging in fiery conversations. Craft your dream AI girlfriend, connect with them 24/7, and let the magic of AI-driven connections ignite your desires.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/glam-girls-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Wallpaperee
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wallpaperee.webp" alt="Wallpaperee">
 
@@ -211,60 +259,6 @@ You can convert pictures into anime style, or use text to generate pictures in v
 Explore the power of ZeroGPT.com – the ultimate AI detection tool designed to pinpoint ChatGPT-generated text. With cutting-edge algorithms, it swiftly distinguishes between AI and human-created content. Whether for content moderation or maintaining online transparency, ZeroGPT.com is your compact yet robust solution for confidently identifying ChatGPT's influence.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/zerogpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Typegrow
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-typegrow.webp" alt="Typegrow">
-
-#### Grow your LinkedIn audience 10x faster with AI
-[Visit](https://www.thataicollection.com/redirect/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Typegrow is an AI-powered tool to grow your LinkedIn audience 10x faster. It helps you create and schedule better content and get more reach, engagement, and followers daily with less work.
-
-It's an ideal tool for individual creators building personal brands on LinkedIn or social media agencies managing their client profiles.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### LinkActions
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-linkactions.webp" alt="LinkActions">
-
-#### LinkActions is a fully-automated internal linking tool for your website. 
-[Visit](https://www.thataicollection.com/redirect/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LinkActions uncovers the internal links that people are missing out on so that they can rank higher on Google and boost their organic traffic. Unlike other tools that only work for WordPress, LinkActions works with any web platform.
-
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Todobee
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-todobee.webp" alt="Todobee">
-
-#### Beautiful AI-Powered Project Management App
-[Visit](https://www.thataicollection.com/redirect/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Introducing Todobee, the easiest AI-powered project management app you'll ever use.
-- Todobee is the only project management app that promises you unlimited users, unlimited projects, and unlimited tasks.
-
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3927,6 +3921,24 @@ We make your content searchable
 
 ## Slides & Presentations
 
+### Presentation API
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presentation-api.webp" alt="Presentation API">
+
+#### Presentation API is an easy-to-use API for presentation generation that you can add to your apps and websites.
+
+Long Description
+[Visit](https://www.thataicollection.com/redirect/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Introducing Presentation API, the easiest AI-Powered API that can be used to add presentation-generating ability to your app or website.
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### ChatBA
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatba.webp" alt="ChatBA">
 
@@ -4013,21 +4025,6 @@ Unlock your best work with Tome's AI-powered storytelling format.
 Glimmer AI uses GPT-3 and DALL-E 2 to make creating professional-quality presentations easy and fast using text or voice commands
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/glimmer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### STORYD
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storyd.webp" alt="STORYD">
-
-#### Data Presentations Leaders Love
-[Visit](https://www.thataicollection.com/redirect/storyd?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Helps professionals quickly and easily create data-driven business presentations.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/storyd?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
