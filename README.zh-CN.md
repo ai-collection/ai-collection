@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1072" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1073" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -81,12 +81,14 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft" border="0"/>
     </a>
-    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
-    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 AiApply</b></a>
+    <h4>灵巧的想象力-在 10 秒或更短的时间内重新设计房屋。灵感、室内设计、舞台布置等等。</h4>
+    <p>在 10 秒或更短的时间内重新设计房屋。然后，您可以使用我们的搜索引擎在照片中查找产品。 
+
+它非常准确，并且有大量样式可供选择。非常适合作为灵感、室内设计、舞台照片等。</p>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Deft</b></a>
     <br />
 </div>
 
@@ -150,6 +152,23 @@
 - 💰 [销售与市场营销](#销售与市场营销)
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
+
+### Deft
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft">
+
+#### 灵巧的想象力-在 10 秒或更短的时间内重新设计房屋。灵感、室内设计、舞台布置等等。
+[Visit](https://www.thataicollection.com/redirect/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在 10 秒或更短的时间内重新设计房屋。然后，您可以使用我们的搜索引擎在照片中查找产品。 
+
+它非常准确，并且有大量样式可供选择。非常适合作为灵感、室内设计、舞台照片等。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 
 ### Humanize AI Text
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-humanize-ai-text.webp" alt="Humanize AI Text">
@@ -238,21 +257,6 @@ Humanize AI Text 是一款免费的在线工具，旨在将人工智能生成的
 您可以将图片转换为动漫风格，或使用文本生成各种风格的图片。这些功能可在线免费使用。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### ZeroGPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zerogpt.webp" alt="ZeroGPT">
-
-#### ZeroGPT 是最值得信赖和最准确的人工智能探测器工具，用于检测 ChatGPT 生成的文本。
-[Visit](https://www.thataicollection.com/redirect/zerogpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-探索 ZeroGPT.com 的力量，这是一款终极的人工智能检测工具，旨在精确定位 ChatGPT 生成的文本。借助尖端的算法，它可以快速区分人工智能和人类创建的内容。无论是内容审核还是保持在线透明度，ZeroGPT.com 都是您紧凑而强大的解决方案，可让您自信地识别 ChatGPT 的影响力。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/zerogpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

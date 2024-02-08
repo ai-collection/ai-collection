@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1072" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1073" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=42" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise, la principal aplicación de aprendizaje de IA para los oyentes de podcasts.</h4>
+    <p>Con Podwise, puedes aprender a partir de conocimientos estructurados y escuchar de forma selectiva los capítulos que despierten tu interés. Esta función te permite optimizar tu experiencia de aprendizaje y centrarte en el contenido que más te importa.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Podwise</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -68,25 +81,14 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft" border="0"/>
     </a>
-    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
-    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con AiApply</b></a>
-    <br />
-</div>
+    <h4>Het Imagine: cambia el estilo de una casa en 10 segundos o menos. Inspiración, diseño de interiores, puesta en escena y más.</h4>
+    <p>Cambia el estilo de una casa en 10 segundos o menos. A continuación, puedes utilizar nuestro motor de búsqueda para encontrar los productos de las fotos. 
 
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise, la principal aplicación de aprendizaje de IA para los oyentes de podcasts.</h4>
-    <p>Con Podwise, puedes aprender a partir de conocimientos estructurados y escuchar de forma selectiva los capítulos que despierten tu interés. Esta función te permite optimizar tu experiencia de aprendizaje y centrarte en el contenido que más te importa.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Podwise</b></a>
+Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para inspirarte, diseñar interiores, fotos de puesta en escena y mucho más.</p>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Deft</b></a>
     <br />
 </div>
 
@@ -157,6 +159,7 @@
 | [AI TWO](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aitwo.Co - Remodelación de IA - Interior y exterior remodelados. | Remodela y diseña tus espacios con Remodel AI, la primera y #1 IA para la remodelación, diseñador de casas con IA y diseñador de interiores con IA. Consigue conceptos de remodelación para tu espacio en menos de 30 segundos. | :grey_question: |
 | [Architect AI](https://www.thataicollection.com/redirect/architect-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | La IA de arquitecto genera renderizaciones arquitectónicas de alta calidad en solo unos segundos. | La IA de arquitecto te ayuda a generar representaciones arquitectónicas de alta calidad a partir de bocetos conceptuales en solo unos segundos con la IA. Este es el GPT del mundo del diseño arquitectónico para completar tu diseño rápidamente y facilitar las comunicaciones y presentaciones con los clientes. | :white_check_mark: |
 | [Coolaiid](https://www.thataicollection.com/redirect/coolaiid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Coolaiid: transforma tu diseño de interiores con la IA. | Descubre infinitas posibilidades en el diseño de interiores con nuestra innovadora plataforma basada en la IA, diseñada tanto para los amantes del bricolaje como para los diseñadores de interiores profesionales. Disfruta de un mundo de ideas de diseño personalizadas al alcance de tu mano. | :white_check_mark: |
+| [Deft](https://www.thataicollection.com/redirect/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Het Imagine: cambia el estilo de una casa en 10 segundos o menos. Inspiración, diseño de interiores, puesta en escena y más. | Cambia el estilo de una casa en 10 segundos o menos. A continuación, puedes utilizar nuestro motor de búsqueda para encontrar los productos de las fotos.   Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para inspirarte, diseñar interiores, fotos de puesta en escena y mucho más. | :white_check_mark: |
 | [Dimensions](https://www.thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dimensiones - Cree rápidamente conceptos visuales con IA. | Imagine poder crear hermosos diseños de interiores con facilidad: eso es lo que ofrece Dimensions. | :white_check_mark: |
 | [Getfloorplan](https://www.thataicollection.com/redirect/getfloorplan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Creación de planos de planta 2D y 3D con IA. | Hasta un 30% de aumento de llamadas reportado por nuestros clientes usando planos de planta 2D, 3D y recorridos virtuales. | :grey_question: |
 | [Image Computer](https://www.thataicollection.com/redirect/image-computer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Genere su próximo diseño de interiores/decoración/colección de moda/arte conceptual. | Utilice nuestra poderosa tecnología de IA para generar cualquier tipo de imagen que se le ocurra. En cuestión de segundos. | :x: |

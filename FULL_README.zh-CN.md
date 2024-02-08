@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1072" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1073" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -81,12 +81,14 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft" border="0"/>
     </a>
-    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
-    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 AiApply</b></a>
+    <h4>灵巧的想象力-在 10 秒或更短的时间内重新设计房屋。灵感、室内设计、舞台布置等等。</h4>
+    <p>在 10 秒或更短的时间内重新设计房屋。然后，您可以使用我们的搜索引擎在照片中查找产品。 
+
+它非常准确，并且有大量样式可供选择。非常适合作为灵感、室内设计、舞台照片等。</p>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Deft</b></a>
     <br />
 </div>
 
@@ -605,6 +607,7 @@
 | [AI TWO](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aitwo.Co-Remodel AI-改造内部和外部. | 使用 Remodel AI 改造和设计您的空间-第一个和 #1 用于改造的 AI、AI 房屋设计师和 AI 室内设计师。在不到 30 秒的时间内，为你的空间获取改造后的概念车。. | :grey_question: |
 | [Architect AI](https://www.thataicollection.com/redirect/architect-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Architect AI 在短短几秒钟内生成高质量的建筑效果图。. | Architect AI 可帮助您使用 AI 在短短几秒钟内根据概念草图生成高质量的建筑效果图。这是建筑设计界的 GPT，可以快速完成您的设计，促进客户沟通和演示。. | :white_check_mark: |
 | [Coolaiid](https://www.thataicollection.com/redirect/coolaiid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Coolaiid-用人工智能改变你的室内设计. | 借助我们专为 DIY 爱好者和专业室内设计师打造的创新人工智能驱动平台，探索室内设计的无限可能性。触手可及地体验个性化设计创意的世界。. | :white_check_mark: |
+| [Deft](https://www.thataicollection.com/redirect/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 灵巧的想象力-在 10 秒或更短的时间内重新设计房屋。灵感、室内设计、舞台布置等等。. | 在 10 秒或更短的时间内重新设计房屋。然后，您可以使用我们的搜索引擎在照片中查找产品。   它非常准确，并且有大量样式可供选择。非常适合作为灵感、室内设计、舞台照片等。. | :white_check_mark: |
 | [Dimensions](https://www.thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dimensions - 使用 AI 快速创建视觉概念. | 想象一下能够轻松创建漂亮的室内设计——这就是 Dimensions 所提供的。. | :white_check_mark: |
 | [Getfloorplan](https://www.thataicollection.com/redirect/getfloorplan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 创建 2d 和 3d 平面图. | 我们的客户使用 2D、3D 楼层平面图和虚拟游览报告称来电增加了多达 30%. | :grey_question: |
 | [Image Computer](https://www.thataicollection.com/redirect/image-computer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 生成您的下一个室内设计/镶嵌/时装系列/概念艺术. | 使用我们强大的 AI 技术生成您能想到的任何类型的图像。在几秒钟内。. | :x: |
