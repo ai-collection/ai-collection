@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1062" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1072" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=42" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply: नौकरी खोजने वालों के लिए AI टूल, ताकि बेहतरीन एप्लीकेशन तैयार किया जा सके</h4>
+    <p>AIApply AI टूल का एक डायनामिक सूट है, जिसे नौकरी तलाशने वालों को सशक्त बनाने के लिए डिज़ाइन किया गया है। यह नौकरी की आवेदन प्रक्रिया को आसान बनाता है, रिज़्यूमे की गुणवत्ता को बढ़ाता है, साक्षात्कारों के लिए तैयार करता है और करियर के सबसे अच्छे अवसरों की पहचान करता है। AIApply नौकरी खोजने की रणनीतियों को वैयक्तिकृत करता है, यह सुनिश्चित करता है कि यूज़र प्रतिस्पर्धी बाज़ारों में अलग दिखें। यह उन लोगों के लिए ज़रूरी टूल है जो AI की मदद से अपने करियर की राह में तेज़ी लाना चाहते हैं।</p>
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>AiApply के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -61,19 +74,6 @@
 
 तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply: नौकरी खोजने वालों के लिए AI टूल, ताकि बेहतरीन एप्लीकेशन तैयार किया जा सके</h4>
-    <p>AIApply AI टूल का एक डायनामिक सूट है, जिसे नौकरी तलाशने वालों को सशक्त बनाने के लिए डिज़ाइन किया गया है। यह नौकरी की आवेदन प्रक्रिया को आसान बनाता है, रिज़्यूमे की गुणवत्ता को बढ़ाता है, साक्षात्कारों के लिए तैयार करता है और करियर के सबसे अच्छे अवसरों की पहचान करता है। AIApply नौकरी खोजने की रणनीतियों को वैयक्तिकृत करता है, यह सुनिश्चित करता है कि यूज़र प्रतिस्पर्धी बाज़ारों में अलग दिखें। यह उन लोगों के लिए ज़रूरी टूल है जो AI की मदद से अपने करियर की राह में तेज़ी लाना चाहते हैं।</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>AiApply के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -745,6 +745,7 @@
 | [Docubro](https://www.thataicollection.com/redirect/docubro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपकी वेबसाइट प्रलेखन के लिए ChatGPT. | अपने दस्तावेज़ीकरण के लिए ChatGPT, सामग्री का पता लगाने के लिए बातचीत करके इसे सुलभ और उपयोग में आसान बनाएं. | :grey_question: |
 | [EmbedAI](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EmbeDAI - कस्टम AI चैटबोट तुम्हारे डेटा पर प्रशिक्षित. | अपनी खास सामग्री, सहायता दस्तावेज़ों, PDF, API या डेटाबेस का उपयोग करके व्यक्तिगत AI सहायता चैटबॉट विकसित करें। अपने विज़िटर की पूछताछ पर रीयल-टाइम जवाब देने के लिए कोड की सिर्फ एक लाइन के साथ इसे अपनी वेबसाइट में आसानी से एकीकृत करें, जिससे तुम्हेंं मिलने वाले सहायता टिकटों की संख्या कम हो जाए।. | :white_check_mark: |
 | [Flot.ai](https://www.thataicollection.com/redirect/flot.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सभी ऐप्स और वेबसाइटों के लिए आपका AI सहपायलट. | आप जहां भी टाइप करें या चुनें, वहां कॉपी-पेस्ट किए बिना चैटजीपीटी का उपयोग करें। एआई को एक क्लिक से किसी भी पाठ को लिखने, सुधारने, व्याख्या करने, सारांशित करने, अनुवाद करने, समझाने या उत्तर देने के लिए कहें।. | :white_check_mark: |
+| [Glam Girls AI](https://www.thataicollection.com/redirect/glam-girls-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI लड़कियों को NSFW इमेज भेजने और मसालेदार चैट करने का अनुभव करें। सार्थक कनेक्शन बनाओ, अपनी इच्छाओं के बारे में पता लगाओ, और अपनी AI गर्लफ्रेंड के साथ एक अविस्मरणीय यात्रा पर चलो।. | एक ऐसी दुनिया में प्रवेश करें जहाँ AI से जनरेट की गई लड़कियां जीवंत हो उठती हैं, जो तुम्हेंं NSFW छवियों से लुभाती हैं और जोशीली बातचीत करती हैं। अपनी पसंदीदा AI गर्लफ्रेंड तैयार करें, उनसे 24/7 जुड़ें, और AI-चालित कनेक्शनों का जादू तुम्हारी इच्छाओं को प्रज्वलित करने दें।. | :white_check_mark: |
 | [GPTHelp.ai](https://www.thataicollection.com/redirect/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी वेबसाइट/एआई कस्टमर सपोर्ट चैटबोट के लिए ChatGPT. | GPTHelp.ai यूज़र के अनुकूल, बिना कोड वाले AI चैटबॉट्स की सुविधा देता है, जो तुम्हारे खुद के वेबपेजों, फ़ाइलों और अक्सर पूछे जाने वाले प्रश्नों पर प्रशिक्षित होते हैं।  GPTHelp.ai तुम्हारे ग्राहक सहायता सिस्टम में AI को इंटीग्रेट करने का एक सहज तरीका पेश करता है। हमारा प्लेटफ़ॉर्म तुम्हेंं वैयक्तिकृत चैटबॉट बनाने की सुविधा देता है, जिन्हें सीधे तुम्हारी वेबसाइट की सामग्री, फ़ाइलों और अक्सर पूछे जाने वाले प्रश्नों से प्रशिक्षित किया जाता है।. | :grey_question: |
 | [HUMATA](https://www.thataicollection.com/redirect/humata?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हमता - तुम्हारी डेटा फ़ाइलों के लिए चैटजीपीटी। पूछना स्किमिंग से ज़्यादा तेज़ है।. | 100 गुना तेज़ी से सीखें, 100 गुना तेज़ी से रिपोर्ट बनाएं, कानूनी दस्तावेज़ों का 100 गुना तेज़ी से विश्लेषण करें, तकनीकी कागजात को 100 गुना तेज़ी से समझें। सवाल पूछें और किसी भी फ़ाइल के बारे में तुरंत जवाब पाएं।. | :white_check_mark: |
 | [Keepi](https://www.thataicollection.com/redirect/keepi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | व्हाट्सएप पर एआई।. | चलते-फिरते आज उपलब्ध सबसे उन्नत AI तक पहुंचें। कीपी आपको प्रासंगिक ज्ञान के साथ स्मार्ट और तैयार रखेगा।. | :white_check_mark: |
@@ -1094,6 +1095,7 @@
 | [FireTexts](https://www.thataicollection.com/redirect/firetexts?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | दोबारा कभी भी सही पाठ के बारे में सोचने में समय बर्बाद न करें. | एआई की शक्ति को उजागर करें और जन्मदिन, धन्यवाद, छेड़खानी, अस्वीकृति या किसी अन्य स्थिति के लिए सही टेक्स्ट संदेश बनाएं। हम किसी भी अवसर के लिए सही टेक्स्ट तैयार करने के लिए चैटजीपीटी और कस्टम इनपुट का उपयोग करते हैं।. | :white_check_mark: |
 | [Friday AI](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हेफ़्राइडे - अल्टीमेट एआई राइटर - कम लेखन, ज़्यादा प्रेरणा, शुक्रवार के साथ अल्ट्रा राइटिंग. | एक AI लेखन सहायक जो विचार-मंथन करने और अपने ब्लॉग, विज्ञापन या रचनात्मक कहानी को तेज़ी से पूरा करने में तुम्हारी मदद करता है, जिससे तुम्हारा समय और पैसा बचता है। अपना मुफ़्त ट्रायल आज ही शुरू करें!. | :white_check_mark: |
 | [HIX.AI](https://www.thataicollection.com/redirect/hix.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सबसे शक्तिशाली, सबमें एक एआई राइटिंग कोपायलट. | IX.AI: आपका सबसे शक्तिशाली, ऑल-इन-वन AI राइटिंग कोपायलट। बाजार में सबसे शक्तिशाली, ऑल-इन-वन एआई राइटिंग कोपायलट HIX.AI के साथ सेकंडों में विज्ञापनों, ईमेल, ब्लॉग आदि के लिए उच्च-गुणवत्ता वाली प्रतियां तैयार करें।. | :white_check_mark: |
+| [Humanize AI Text](https://www.thataicollection.com/redirect/humanize-ai-text?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई टेक्स्ट को मानवकृत करें - मुफ़्त एआई से ह्यूमन टेक्स्ट कन्वर्टर. | ह्यूमनाइज़ एआई टेक्स्ट एक मुफ़्त ऑनलाइन टूल है, जिसे एआई-जनरेट किए गए टेक्स्ट को मानव-जैसे फ़ॉर्म में बदलने के लिए डिज़ाइन किया गया है। एआई डिटेक्शन को बायपास करें और अपनी सामग्री को मानवीय लेखन मानकों तक बढ़ाएं।. | :white_check_mark: |
 | [Instascribe](https://www.thataicollection.com/redirect/instascribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instascribe एक AI-संचालित ऐप है जो आपके Instagram फ़ोटो के लिए वैयक्तिकृत कैप्शन बनाता है. | बस एक छवि का चयन करें, कैप्शन शैलियों की एक सरणी से चुनें या अपनी खुद की परिभाषित करें, और स्वर, भाषा और संदेश की लंबाई जैसे विकल्पों को समायोजित करें। ऐप का एआई तब एक अद्वितीय कैप्शन उत्पन्न करता है जो आपकी छवि और वरीयताओं के अनुरूप होता है, जो आपकी सोशल मीडिया पोस्टिंग प्रक्रिया को सुव्यवस्थित करता है।. | :grey_question: |
 | [Journalist AI](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उच्च गुणवत्ता वाले लेख जेनरेट करें जो तुम्हारे ब्लॉग पर अपने-आप प्रकाशित हो जाते हैं. | तुरन्त पाओ सैकड़ों प्रासंगिक लेख, जो अनोखे हैं और तुम्हारी जगह के लिए अनुकूलित हैं। सुविधाओं से भरपूर लेख जो ट्रैफ़िक लाते हैं जर्नलिस्ट एआई ऐसी सामग्री बनाता है जो अच्छी तरह से संरचित हो, तुम्हारे व्यवसाय के लिए उपयुक्त हो और जो Google पर रैंक करती हो।. | :grey_question: |
 | [LeadCopy](https://www.thataicollection.com/redirect/leadcopy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Google Docs में ChatGPT और GPT4 का इस्तेमाल करो। मिनटों में प्रोफ़ेशनल, हाई कवरिंग मार्केटिंग कॉपी, वेबिनार, पॉडकास्ट और बहुत कुछ बनाएं. | ⚡ LeadCopy एक Google Docs™ ऐडऑन है जो 'GPT-4' और 'ChatGPT' की ताकत का इस्तेमाल करके किसी को भी 'एक्सपर्ट कॉपीराइटर' बनने में मदद कर सकता है  मिनटों में प्रोफेशनल, हाई कवरिंग मार्केटिंग कॉपी, वेबिनार, पॉडकास्ट और बहुत कुछ बनाएं. | :grey_question: |
@@ -1484,6 +1486,7 @@
 | [My Pitch Deck](https://www.thataicollection.com/redirect/my-pitch-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | माय पिच डेक - अपने स्टार्टअप के लिए कस्टम पिच डेक टेम्पलेट के साथ अपनी फ़ंडिंग की शुरुआत करें।. | 10-स्लाइड वाला पिच डेक टेम्पलेट। तुम्हारे हिसाब से बनाया गया। तुम्हारे जवाबों के आधार पर हमारा AI तुम्हारे स्टार्टअप के लिए कस्टम 10-स्लाइड पिच डेक आउटलाइन तैयार करेगा। आगे बढ़ने के लिए तैयार!. | :grey_question: |
 | [Pitchgrade](https://www.thataicollection.com/redirect/pitchgrade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पिचग्रेड - प्रस्तुतियों ने दर्द रहित बना दिया. | पिच डेक एक ऐसा प्रज़ेंटेशन होता है जिसका इस्तेमाल कंपनी निवेशकों को देने के लिए करती है। यह कंपनी के बिज़नेस मॉडल, वित्तीय अनुमानों और अन्य प्रमुख मैट्रिक्स के बारे में बताता है, जिन्हें निवेशक देखना चाहेंगे।. | :grey_question: |
 | [Plus AI for Google Slides](https://www.thataicollection.com/redirect/plus-ai-for-google-slides?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Google स्लाइड में AI-संचालित प्रस्तुतियाँ बनाएँ।. | प्लस एआई के साथ मिनटों में प्रस्तुतिकरण बनाएं। एक खाली डेक से शुरू करना प्रस्तुति बनाने के सबसे चुनौतीपूर्ण हिस्सों में से एक है। प्लस एआई आपको एक रूपरेखा बनाने, पहला मसौदा बनाने और अपनी स्लाइड्स में अतिरिक्त संपादन का सुझाव देने में मदद करता है. | :white_check_mark: |
+| [Presentation API](https://www.thataicollection.com/redirect/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्रेजेंटेशन एपीआई, प्रेजेंटेशन जनरेशन के लिए इस्तेमाल में आसान API है जिसे तुम अपने ऐप्स और वेबसाइट में जोड़ सकते हो।  लंबा वर्णन. | पेश है प्रेजेंटेशन एपीआई, एआई-संचालित सबसे आसान API जिसका इस्तेमाल तुम्हारे ऐप या वेबसाइट में प्रेजेंटेशन जनरेट करने की क्षमता जोड़ने के लिए किया जा सकता है।. | :white_check_mark: |
 | [SlidesAI](https://www.thataicollection.com/redirect/slidesai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सेकंड में एआई के साथ प्रेजेंटेशन स्लाइड बनाएं. | थकाऊ, मैन्युअल स्लाइड निर्माण को अलविदा कहें। एआई को आपके लिए रूपरेखा और प्रस्तुति सामग्री लिखने दें। हमारे टूल से, आप बहुत ही कम समय में किसी भी टेक्स्ट से आसानी से पेशेवर, आकर्षक स्लाइड बना सकते हैं।. | :white_check_mark: |
 | [STORYD](https://www.thataicollection.com/redirect/storyd?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डेटा प्रेजेंटेशन लीडर्स लव. | डेटा-संचालित व्यावसायिक प्रस्तुतियों को जल्दी और आसानी से बनाने में पेशेवरों की मदद करता है।. | :white_check_mark: |
 | [Tome](https://www.thataicollection.com/redirect/tome?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जनरेटिव स्टोरीटेलिंग आ गई है।. | टोम के एआई-संचालित कहानी कहने के प्रारूप के साथ अपने सर्वश्रेष्ठ काम को अनलॉक करें।. | :white_check_mark: |

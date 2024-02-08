@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1062" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1072" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
-    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 AiApply</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
@@ -87,6 +74,19 @@
 
 今天只需点击一下即可实现您最疯狂的梦想！</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
+    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 AiApply</b></a>
     <br />
 </div>
 
@@ -151,6 +151,54 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### Humanize AI Text
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-humanize-ai-text.webp" alt="Humanize AI Text">
+
+#### 人性化 AI 文本-免费 AI 到人体文本转换器
+[Visit](https://www.thataicollection.com/redirect/humanize-ai-text?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Humanize AI Text 是一款免费的在线工具，旨在将人工智能生成的文本转换为更像人类的形式。绕过 AI 检测，将您的内容提升到人类写作标准。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/humanize-ai-text?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Presentation API
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presentation-api.webp" alt="Presentation API">
+
+#### Presentation API 是一个易于使用的 API，用于生成演示文稿，您可以将其添加到您的应用程序和网站中。
+
+长描述
+[Visit](https://www.thataicollection.com/redirect/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+介绍 Presentation API，这是最简单的 AI 驱动的 API，可用于为您的应用程序或网站添加演示文稿生成功能。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Glam Girls AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-glam-girls-ai.webp" alt="Glam Girls AI">
+
+#### 体验人工智能女孩发送NSFW图片并沉迷于激烈的聊天。建立有意义的联系，探索你的欲望，并与你的AI女友一起踏上难忘的旅程。
+[Visit](https://www.thataicollection.com/redirect/glam-girls-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+进入一个让人工智能生成的女孩变为现实的世界，用NSFW的图像吸引你，参与激烈的对话。打造你梦寐以求的人工智能女友，全天候与他们联系，让人工智能驱动的连接的魔力点燃你的欲望。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/glam-girls-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Wallpaperee
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wallpaperee.webp" alt="Wallpaperee">
 
@@ -205,60 +253,6 @@
 探索 ZeroGPT.com 的力量，这是一款终极的人工智能检测工具，旨在精确定位 ChatGPT 生成的文本。借助尖端的算法，它可以快速区分人工智能和人类创建的内容。无论是内容审核还是保持在线透明度，ZeroGPT.com 都是您紧凑而强大的解决方案，可让您自信地识别 ChatGPT 的影响力。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/zerogpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Typegrow
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-typegrow.webp" alt="Typegrow">
-
-#### 利用 AI 将你的 LinkedIn 受众增长速度提高
-[Visit](https://www.thataicollection.com/redirect/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Typegrow是一款由人工智能驱动的工具，可以将你的领英受众增长速度提高10倍。它可以帮助您创建和安排更好的内容，并每天以更少的工作量获得更多的覆盖面、参与度和关注者。
-
-它是个人创作者在LinkedIn或管理客户资料的社交媒体机构上建立个人品牌的理想工具。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### LinkActions
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-linkactions.webp" alt="LinkActions">
-
-#### LinkActions是您网站的全自动内部链接工具。 
-[Visit](https://www.thataicollection.com/redirect/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LinkActions可以发现人们错过的内部链接，这样他们就可以在谷歌上获得更高的排名并增加自然流量。与其他仅适用于WordPress的工具不同，LinkActions适用于任何网络平台。
-
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Todobee
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-todobee.webp" alt="Todobee">
-
-#### 漂亮的 AI 驱动的项目管理应用程序
-[Visit](https://www.thataicollection.com/redirect/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-介绍Todobee，这是你用过的最简单的人工智能项目管理应用程序。
--Todobee 是唯一一款向您承诺无限用户、无限项目和无限任务的项目管理应用程序。
-
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3921,6 +3915,24 @@ Perplexity AI 通过信息发现和共享来释放知识的力量。Perplexity A
 
 ## 幻灯片和演示文稿
 
+### Presentation API
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presentation-api.webp" alt="Presentation API">
+
+#### Presentation API 是一个易于使用的 API，用于生成演示文稿，您可以将其添加到您的应用程序和网站中。
+
+长描述
+[Visit](https://www.thataicollection.com/redirect/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+介绍 Presentation API，这是最简单的 AI 驱动的 API，可用于为您的应用程序或网站添加演示文稿生成功能。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### ChatBA
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatba.webp" alt="ChatBA">
 
@@ -4007,21 +4019,6 @@ Perplexity AI 通过信息发现和共享来释放知识的力量。Perplexity A
 Glimmer AI 使用 GPT-3 和 DALL-E 2 使用文本或语音命令轻松快速地创建专业品质的演示文稿
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/glimmer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### STORYD
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storyd.webp" alt="STORYD">
-
-#### 领导者喜爱的数据演示
-[Visit](https://www.thataicollection.com/redirect/storyd?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-帮助专业人士快速轻松地创建数据驱动的业务演示文稿。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/storyd?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

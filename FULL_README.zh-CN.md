@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1062" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1072" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
-    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 AiApply</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
@@ -87,6 +74,19 @@
 
 今天只需点击一下即可实现您最疯狂的梦想！</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
+    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 AiApply</b></a>
     <br />
 </div>
 
@@ -394,6 +394,7 @@
 | [FireTexts](https://www.thataicollection.com/redirect/firetexts?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 再也不用浪费时间思考完美的文本了. | 释放人工智能的力量，为生日、感谢、调情、拒绝或任何其他情况创建完美的短信。我们使用 ChatGPT 和自定义输入来制作适合任何场合的完美文本。. | :white_check_mark: |
 | [Friday AI](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Heyfriday——终极人工智能作家——周五少写作，更多灵感 Ultra Writing. | 一款人工智能写作助手，可帮助您集思广益，快速完成博客、广告或创意故事，为您节省时间和金钱。立即开始免费试用！. | :white_check_mark: |
 | [HIX.AI](https://www.thataicollection.com/redirect/hix.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 最强大的一体化 AI写作副驾驶. | IX.AI：您最强大的一体化人工智能写作副驾驶。使用 HIX.AI（市场上最强大的一体化人工智能写作副驾驶）在几秒钟内为广告、电子邮件、博客等生成高质量的副本。. | :white_check_mark: |
+| [Humanize AI Text](https://www.thataicollection.com/redirect/humanize-ai-text?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人性化 AI 文本-免费 AI 到人体文本转换器. | Humanize AI Text 是一款免费的在线工具，旨在将人工智能生成的文本转换为更像人类的形式。绕过 AI 检测，将您的内容提升到人类写作标准。. | :white_check_mark: |
 | [Instascribe](https://www.thataicollection.com/redirect/instascribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instascribe 是一款人工智能应用程序，可为您的 Instagram 照片创建个性化字幕. | 只需选择一张图片，从一系列字幕样式中挑选或定义您自己的样式，然后调整语调、语言和消息长度等选项。然后，该应用程序的 AI 会生成适合您的图像和偏好的独特说明，从而简化您的社交媒体发布过程。. | :grey_question: |
 | [Journalist AI](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 生成可自动发布到您的博客的高质量文章. | 立即获取数百篇独一无二且针对您的利基市场进行了优化的相关文章。带来流量的功能丰富的文章 记者人工智能制作的内容结构合理，适合您的业务，并且在谷歌上排名靠前。. | :grey_question: |
 | [LeadCopy](https://www.thataicollection.com/redirect/leadcopy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在谷歌文档中使用 ChatGPT 和 GPT4。在几分钟内创建专业、高保密度的营销文案、网络研讨会、播客等. | ⚡ LeadCopy 是一款谷歌文档™ 插件，它可以利用 “GPT-4” 和 “ChatGPT” 的力量帮助任何人成为 “专家撰稿人”  在几分钟内创建专业、高保密度的营销文案、网络研讨会、播客等. | :grey_question: |
@@ -588,6 +589,7 @@
 | [My Pitch Deck](https://www.thataicollection.com/redirect/my-pitch-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | My Pitch Deck-使用为你的创业公司定制的推销平台模板来启动你的资金。. | 一个 10 张幻灯片的演讲卡组模板。为您量身定制。 根据你的答案，我们的人工智能将为您的创业公司创建自定义的10张幻灯片大纲。准备在此基础上再接再厉！. | :grey_question: |
 | [Pitchgrade](https://www.thataicollection.com/redirect/pitchgrade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pitchgrade-简化演示文稿. | 推介会是公司用来向投资者推销的演示文稿。它涵盖了公司的商业模式、财务预测和投资者希望看到的其他关键指标。. | :grey_question: |
 | [Plus AI for Google Slides](https://www.thataicollection.com/redirect/plus-ai-for-google-slides?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在 Google 幻灯片中创建 AI 驱动的演示文稿。. | 使用 Plus AI 在几分钟内构建演示文稿。从一张白纸开始是构建演示文稿最具挑战性的部分之一。 Plus AI 可帮助您创建大纲、制作初稿并建议对幻灯片进行其他修改. | :white_check_mark: |
+| [Presentation API](https://www.thataicollection.com/redirect/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Presentation API 是一个易于使用的 API，用于生成演示文稿，您可以将其添加到您的应用程序和网站中。  长描述. | 介绍 Presentation API，这是最简单的 AI 驱动的 API，可用于为您的应用程序或网站添加演示文稿生成功能。. | :white_check_mark: |
 | [SlidesAI](https://www.thataicollection.com/redirect/slidesai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 在几秒钟内创建演示幻灯片. | 告别繁琐的手动幻灯片创建。让 AI 为您编写大纲和演示内容。使用我们的工具，您可以立即从任何文本轻松创建专业、引人入胜的幻灯片。. | :white_check_mark: |
 | [STORYD](https://www.thataicollection.com/redirect/storyd?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 领导者喜爱的数据演示. | 帮助专业人士快速轻松地创建数据驱动的业务演示文稿。. | :white_check_mark: |
 | [Tome](https://www.thataicollection.com/redirect/tome?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 生成式讲故事已经到来。. | 使用 Tome 的 AI 驱动的讲故事格式解锁您的最佳作品。. | :white_check_mark: |
@@ -1150,6 +1152,7 @@
 | [Docubro](https://www.thataicollection.com/redirect/docubro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 网站文档的 ChatGPT. | ChatGPT 用于您的文档，通过对话来探索内容，使其易于访问和使用. | :grey_question: |
 | [EmbedAI](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EmbeDai-根据您的数据进行训练的自定义 AI 聊天机器人. | 利用您的独特内容、支持文档、PDF、API 或数据库开发个性化的 AI 支持聊天机器人。只需一行代码即可轻松将其集成到您的网站中，以实时响应访问者的查询，从而最大限度地减少您收到的支持请求的数量。. | :white_check_mark: |
 | [Flot.ai](https://www.thataicollection.com/redirect/flot.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您所有应用程序和网站的人工智能副驾驶. | 在您键入或选择的任何位置使用 ChatGPT，无需复制粘贴。让人工智能一键编写、改进、释义、总结、翻译、解释或回复任何文本。. | :white_check_mark: |
+| [Glam Girls AI](https://www.thataicollection.com/redirect/glam-girls-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 体验人工智能女孩发送NSFW图片并沉迷于激烈的聊天。建立有意义的联系，探索你的欲望，并与你的AI女友一起踏上难忘的旅程。. | 进入一个让人工智能生成的女孩变为现实的世界，用NSFW的图像吸引你，参与激烈的对话。打造你梦寐以求的人工智能女友，全天候与他们联系，让人工智能驱动的连接的魔力点燃你的欲望。. | :white_check_mark: |
 | [GPTHelp.ai](https://www.thataicollection.com/redirect/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 适用于您的网站的 ChatGPT /AI 客户支持聊天机器人. | GPTHelp.ai 提供用户友好、无代码的 AI 聊天机器人，可根据您自己的网页、文件和常见问题解答进行训练。  GPTHelp.ai 引入了一种将人工智能集成到客户支持系统的直观方法。我们的平台允许您创建个性化的聊天机器人，这些聊天机器人直接根据您的网站内容、文件和常见问题进行训练。. | :grey_question: |
 | [HUMATA](https://www.thataicollection.com/redirect/humata?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Humata-ChatGPT 用于存储您的数据文件。提问比略读要快。. | 学习速度提高100倍，创建报告的速度提高100倍，分析法律文档的速度提高100倍，理解技术论文的速度提高100倍。立即提出问题并获得有关任何文件的答案。. | :white_check_mark: |
 | [Keepi](https://www.thataicollection.com/redirect/keepi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 胜过 WhatsApp。. | 随时随地访问当今最先进的 AI。 Keepi 将使您保持聪明并准备好相关知识。. | :white_check_mark: |

@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1062" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1072" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=42" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
-    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con AiApply</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -74,6 +61,19 @@
 
 ¡Tus sueños más locos están a un clic de distancia hoy!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
+    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con AiApply</b></a>
     <br />
 </div>
 
@@ -151,6 +151,54 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### Humanize AI Text
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-humanize-ai-text.webp" alt="Humanize AI Text">
+
+#### Humanize AI Text: conversor gratuito de texto de IA a humano
+[Visit](https://www.thataicollection.com/redirect/humanize-ai-text?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Humanize AI Text es una herramienta online gratuita diseñada para convertir el texto generado por la IA en una forma más parecida a la humana. Evita la detección de la IA y eleva tu contenido a los estándares de escritura humana.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/humanize-ai-text?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Presentation API
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presentation-api.webp" alt="Presentation API">
+
+#### La API de presentación es una API fácil de usar para generar presentaciones que puedes añadir a tus aplicaciones y sitios web.
+
+Descripción larga
+[Visit](https://www.thataicollection.com/redirect/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Presentamos la API de presentación, la API basada en IA más sencilla que se puede utilizar para añadir la capacidad de generar presentaciones a tu aplicación o sitio web.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Glam Girls AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-glam-girls-ai.webp" alt="Glam Girls AI">
+
+#### Vive la experiencia de que las chicas de la IA envían imágenes de la NSFW y se dejan llevar por charlas picantes. Crea conexiones significativas, explora tus deseos y emprende un viaje inolvidable con tus amigas de la IA.
+[Visit](https://www.thataicollection.com/redirect/glam-girls-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Entra en un mundo en el que las niñas generadas por la IA cobren vida, te atraigan con imágenes de NSFW y entablen conversaciones ardientes. Crea la novia de tus sueños con la IA, conéctate con ella las 24 horas del día, los 7 días de la semana y deja que la magia de las conexiones impulsadas por la IA encienda tus deseos.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/glam-girls-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Wallpaperee
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wallpaperee.webp" alt="Wallpaperee">
 
@@ -205,60 +253,6 @@ Puedes convertir imágenes al estilo anime o utilizar texto para generar imágen
 Descubre el poder de ZeroGPT.com, la mejor herramienta de detección de IA diseñada para localizar el texto generado por ChatGP. Con algoritmos vanguardistas, distingue rápidamente entre la IA y el contenido creado por humanos. Ya sea para moderar el contenido o mantener la transparencia en Internet, ZeroGPT.com es tu solución compacta y sólida para identificar con confianza la influencia de ChatGPT.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/zerogpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Typegrow
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-typegrow.webp" alt="Typegrow">
-
-#### Haz crecer tu audiencia en LinkedIn 10 veces más rápido con la IA
-[Visit](https://www.thataicollection.com/redirect/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Typegrow es una herramienta basada en la inteligencia artificial para hacer crecer tu audiencia en LinkedIn 10 veces más rápido. Te ayuda a crear y programar un mejor contenido y a conseguir más alcance, participación y seguidores a diario con menos trabajo.
-
-Es una herramienta ideal para los creadores individuales que crean marcas personales en LinkedIn o para las agencias de redes sociales que gestionan sus perfiles de clientes.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### LinkActions
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-linkactions.webp" alt="LinkActions">
-
-#### LinkActions es una herramienta de enlace interno totalmente automatizada para tu sitio web. 
-[Visit](https://www.thataicollection.com/redirect/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LinkActions descubre los enlaces internos que la gente se pierde para poder ocupar un lugar más alto en Google e impulsar su tráfico orgánico. A diferencia de otras herramientas que solo funcionan para WordPress, LinkActions funciona con cualquier plataforma web.
-
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Todobee
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-todobee.webp" alt="Todobee">
-
-#### Preciosa aplicación de gestión de proyectos impulsada por la IA
-[Visit](https://www.thataicollection.com/redirect/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Presentamos Todobee, la aplicación de gestión de proyectos basada en IA más fácil que utilizarás en la vida.
-- Todobee es la única aplicación de gestión de proyectos que te promete usuarios, proyectos ilimitados y tareas ilimitadas.
-
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3920,6 +3914,24 @@ Hacemos que tu contenido sea buscable
 
 ## Diapositivas y presentaciones
 
+### Presentation API
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presentation-api.webp" alt="Presentation API">
+
+#### La API de presentación es una API fácil de usar para generar presentaciones que puedes añadir a tus aplicaciones y sitios web.
+
+Descripción larga
+[Visit](https://www.thataicollection.com/redirect/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Presentamos la API de presentación, la API basada en IA más sencilla que se puede utilizar para añadir la capacidad de generar presentaciones a tu aplicación o sitio web.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### ChatBA
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatba.webp" alt="ChatBA">
 
@@ -4006,21 +4018,6 @@ Desbloquee su mejor trabajo con el formato de narración impulsado por IA de Tom
 Glimmer AI usa GPT-3 y DALL-E 2 para hacer que la creación de presentaciones de calidad profesional sea fácil y rápida usando comandos de texto o voz
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/glimmer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### STORYD
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storyd.webp" alt="STORYD">
-
-#### Presentaciones de datos que aman los líderes
-[Visit](https://www.thataicollection.com/redirect/storyd?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ayuda a los profesionales a crear rápida y fácilmente presentaciones comerciales basadas en datos.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/storyd?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

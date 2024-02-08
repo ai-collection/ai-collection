@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1062" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1072" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=42" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
-    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con AiApply</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -74,6 +61,19 @@
 
 ¡Tus sueños más locos están a un clic de distancia hoy!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
+    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
+    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con AiApply</b></a>
     <br />
 </div>
 
@@ -288,6 +288,7 @@
 | [FireTexts](https://www.thataicollection.com/redirect/firetexts?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Nunca pierdas el tiempo pensando en el texto perfecto otra vez. | Libera el poder de la IA y crea el mensaje de texto perfecto para un cumpleaños, agradecimiento, coqueteo, rechazo o cualquier otra situación. Usamos ChatGPT y entradas personalizadas para crear el texto perfecto para cualquier ocasión. | :white_check_mark: |
 | [Friday AI](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Heyfriday, el mejor escritor de IA, menos escritura, más inspiración, ultra escritura con Friday. | Un asistente de redacción con IA que te ayuda a hacer una lluvia de ideas y completar tu blog, anuncio o historia creativa rápidamente, lo que te permite ahorrar tiempo y dinero. ¡Empieza tu prueba gratuita hoy mismo!. | :white_check_mark: |
 | [HIX.AI](https://www.thataicollection.com/redirect/hix.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | El todo en uno más potente Copiloto de escritura de IA. | IX.AI: su copiloto de escritura de IA todo en uno más potente. Genere copias de alta calidad para anuncios, correos electrónicos, blogs y más en segundos con HIX.AI, el copiloto de escritura de IA todo en uno más potente del mercado. | :white_check_mark: |
+| [Humanize AI Text](https://www.thataicollection.com/redirect/humanize-ai-text?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Humanize AI Text: conversor gratuito de texto de IA a humano. | Humanize AI Text es una herramienta online gratuita diseñada para convertir el texto generado por la IA en una forma más parecida a la humana. Evita la detección de la IA y eleva tu contenido a los estándares de escritura humana. | :white_check_mark: |
 | [Instascribe](https://www.thataicollection.com/redirect/instascribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Instascribe es una aplicación impulsada por IA que crea subtítulos personalizados para sus fotos de Instagram. | Simplemente seleccione una imagen, elija entre una variedad de estilos de subtítulos o defina el suyo propio, y ajuste opciones como el tono de voz, el idioma y la duración del mensaje. Luego, la IA de la aplicación genera una leyenda única que se adapta a su imagen y preferencias, agilizando su proceso de publicación en las redes sociales. | :grey_question: |
 | [Journalist AI](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Genera artículos de alta calidad que se publiquen automáticamente en tu blog. | Recibe al instante cientos de artículos relevantes, únicos y optimizados para tu nicho. Artículos con muchos reportajes que atraen tráfico La IA periodística crea contenido bien estructurado, apropiado para tu negocio y que aparezca en Google. | :grey_question: |
 | [LeadCopy](https://www.thataicollection.com/redirect/leadcopy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Usa ChatGPT y GPT4 en Google Docs. Crea textos de marketing profesionales y altamente encubiertos, seminarios web, podcasts y más en cuestión de minutos. | ⚡ LeadCopy es un complemento de Google Docs™ que puede ayudar a CUALQUIER PERSONA a convertirse en «redactor experto» con la potencia de «GPT-4» y «ChatGPT»  Crea textos de marketing profesionales y altamente encubiertos, seminarios web, podcasts y más en cuestión de minutos. | :grey_question: |
@@ -479,6 +480,7 @@
 | [My Pitch Deck](https://www.thataicollection.com/redirect/my-pitch-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | My Pitch Deck: inicia tu financiación con una plantilla de presentación personalizada para tu startup. | Una plantilla de presentación de 10 diapositivas. Hecho a tu medida. En función de tus respuestas, nuestra IA creará un esquema de presentación personalizado de 10 diapositivas para tu startup. ¡Listo para construir sobre la base!. | :grey_question: |
 | [Pitchgrade](https://www.thataicollection.com/redirect/pitchgrade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pitchgrade: presentaciones hechas sin dolor. | Una presentación es una presentación que una empresa utiliza para presentar a los inversores. Repasa el modelo de negocio de la empresa, las proyecciones financieras y otros indicadores clave que los inversores querrían ver. | :grey_question: |
 | [Plus AI for Google Slides](https://www.thataicollection.com/redirect/plus-ai-for-google-slides?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cree presentaciones impulsadas por IA en Presentaciones de Google. | Cree presentaciones en minutos con Plus AI. Comenzar con un mazo en blanco es una de las partes más desafiantes de la creación de una presentación. Además, AI lo ayuda a crear un esquema, crear un primer borrador y sugerir ediciones adicionales para sus diapositivas. | :white_check_mark: |
+| [Presentation API](https://www.thataicollection.com/redirect/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | La API de presentación es una API fácil de usar para generar presentaciones que puedes añadir a tus aplicaciones y sitios web.  Descripción larga. | Presentamos la API de presentación, la API basada en IA más sencilla que se puede utilizar para añadir la capacidad de generar presentaciones a tu aplicación o sitio web. | :white_check_mark: |
 | [SlidesAI](https://www.thataicollection.com/redirect/slidesai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cree diapositivas de presentación con IA en segundos. | Di adiós a la tediosa creación manual de diapositivas. Deje que la IA escriba el esquema y el contenido de la presentación por usted. Con nuestra herramienta, puede crear fácilmente diapositivas atractivas y profesionales a partir de cualquier texto en muy poco tiempo. | :white_check_mark: |
 | [STORYD](https://www.thataicollection.com/redirect/storyd?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Presentaciones de datos que aman los líderes. | Ayuda a los profesionales a crear rápida y fácilmente presentaciones comerciales basadas en datos. | :white_check_mark: |
 | [Tome](https://www.thataicollection.com/redirect/tome?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ha llegado la narración generativa. | Desbloquee su mejor trabajo con el formato de narración impulsado por IA de Tome. | :white_check_mark: |
@@ -1261,6 +1263,7 @@
 | [Docubro](https://www.thataicollection.com/redirect/docubro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT para la documentación de su sitio web. | ChatGPT para su documentación, hágalo accesible y fácil de usar manteniendo una conversación para explorar el contenido. | :grey_question: |
 | [EmbedAI](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | EmbedAI: chatbot de IA personalizado entrenado en tus datos. | Desarrolla un chatbot de soporte de IA personalizado utilizando tu contenido, documentos de soporte, PDF, API o bases de datos únicos. Intégralo fácilmente en tu sitio web con una sola línea de código para responder en tiempo real a las consultas de tus visitantes y minimizar así el número de solicitudes de soporte que recibes. | :white_check_mark: |
 | [Flot.ai](https://www.thataicollection.com/redirect/flot.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Su copiloto de IA para todas las aplicaciones y sitios web. | Utilice ChatGPT en cualquier lugar que escriba o seleccione sin copiar y pegar. Pídale a AI que escriba, mejore, parafrasee, resuma, traduzca, explique o responda cualquier texto con un solo clic. | :white_check_mark: |
+| [Glam Girls AI](https://www.thataicollection.com/redirect/glam-girls-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Vive la experiencia de que las chicas de la IA envían imágenes de la NSFW y se dejan llevar por charlas picantes. Crea conexiones significativas, explora tus deseos y emprende un viaje inolvidable con tus amigas de la IA. | Entra en un mundo en el que las niñas generadas por la IA cobren vida, te atraigan con imágenes de NSFW y entablen conversaciones ardientes. Crea la novia de tus sueños con la IA, conéctate con ella las 24 horas del día, los 7 días de la semana y deja que la magia de las conexiones impulsadas por la IA encienda tus deseos. | :white_check_mark: |
 | [GPTHelp.ai](https://www.thataicollection.com/redirect/gpthelp.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT para tu sitio web/Chatbot de atención al cliente con IA. | GPTHelp.ai ofrece chatbots de IA sin código y fáciles de usar, entrenados en tus propias páginas web, archivos y preguntas frecuentes.  GPTHelp.ai introduce una forma intuitiva de integrar la IA en tu sistema de atención al cliente. Nuestra plataforma te permite crear chatbots personalizados que se entrenan directamente a partir del contenido, los archivos y las preguntas frecuentes de tu sitio web. | :grey_question: |
 | [HUMATA](https://www.thataicollection.com/redirect/humata?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Humata: ChatGPT para tus archivos de datos. Preguntar es más rápido que hojear. | Aprende 100 veces más rápido, crea informes 100 veces más rápido, analiza documentos legales 100 veces más rápido, entiende los documentos técnicos 100 veces más rápido. Haz preguntas y obtén respuestas sobre cualquier archivo al instante. | :white_check_mark: |
 | [Keepi](https://www.thataicollection.com/redirect/keepi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | IA sobre WhatsApp. | Acceda a la IA más avanzada disponible en la actualidad sobre la marcha. Keepi lo mantendrá inteligente y listo con el conocimiento relevante. | :white_check_mark: |
