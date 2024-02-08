@@ -59,19 +59,6 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
-    <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft" border="0"/>
     </a>
@@ -95,6 +82,19 @@ It is highly accurate, and there are tons of styles that you can choose from. Gr
 
 Your wildest dreams are just a click away today!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise, The premier AI learning app for podcast listeners.</h4>
+    <p>With Podwise, you can learn from structured knowledge and selectively listen to chapters that pique your interest. This feature enables you to optimize your learning experience and focus on the content that matters most to you.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Podwise</b></a>
     <br />
 </div>
 
@@ -513,6 +513,23 @@ An early experiment to prototype and create 3D with text Access to generation is
 
 ## Architecture & Interior Design
 
+### Deft
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft">
+
+#### Deft Imagine - Restyle a home in 10 seconds or less. Inspiration, interior design, staging, and more.
+[Visit](https://www.thataicollection.com/redirect/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Restyle a home in 10 seconds or less. Then, you can use our search engine to find the products in the photos. 
+
+It is highly accurate, and there are tons of styles that you can choose from. Great for inspiration, interior design, staging photos, and more.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Oda Studio
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
 
@@ -604,21 +621,6 @@ Get hundreds of interior design ideas for your room - free with no limit.
 <br />
 
 
-### Coolaiid
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-coolaiid.webp" alt="Coolaiid">
-
-#### Coolaiid - Transform Your Interior Design with AI
-[Visit](https://www.thataicollection.com/redirect/coolaiid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Discover endless possibilities in interior design with our innovative AI-driven platform, crafted for both DIY enthusiasts and professional interior designers. Experience a world of personalized design ideas at your fingertips.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/coolaiid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 
 [See All 🏯 Architecture & Interior Design Applications on AI Collection](https://www.thataicollection.com/en/categories/architecture-and-interior-design?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -628,6 +630,21 @@ Discover endless possibilities in interior design with our innovative AI-driven 
 ---
 
 ## Art & Image Generator
+
+### Corporate Headshots AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
+
+#### Corporate Headshots AI: Revolutionizing Corporate Portraits with AI
+[Visit](https://www.thataicollection.com/redirect/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### caspa AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI">
@@ -699,21 +716,6 @@ Additionally, the AI-powered Listing Optimizer efficiently crafts compelling pro
 ICONS8 ALLOWS DESIGNERS TO EXPRESS THEIR IDEAS, PROVIDING THE RIGHT DESIGN ELEMENTS AT THE RIGHT TIME.. AI features: Face Generator, Change faces of stock photos, Smart Upscaler, Update your website right from Lunacy and more
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/icons8?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### CustomQR AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customqr-ai.webp" alt="CustomQR AI">
-
-#### QR Code Generation Service for Business
-[Visit](https://www.thataicollection.com/redirect/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Get artistic beautiful QR codes on your email in under 10 minutes. Choose from available QR code categories or request your own. Make your business stand out with unique QR arts!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2279,6 +2281,21 @@ Check Symptoms & Find Causes by AI - Answer quiz about your symptoms to find out
 
 ## Human Resources & Resume
 
+### AiApply
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
+
+#### AIApply: AI tools for Jobseekers to craft the perfect application
+[Visit](https://www.thataicollection.com/redirect/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It's an essential tool for anyone looking to accelerate their career path with the power of AI.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### JobSearch.Coach
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach">
 
@@ -2309,19 +2326,19 @@ Rezi is the only resume platform that uses leading AI to automate every aspect o
 
 
 
-### Prodigy AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prodigy-ai.webp" alt="Prodigy AI">
+### JobBuddy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobbuddy.webp" alt="JobBuddy">
 
-#### Using AI to Improve the Careers of Software Engineers
-[Visit](https://www.thataicollection.com/redirect/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### JobBuddy - Generate cover letters, optimize resumes and get interview prep materials in seconds with your own personal AI-driven careers coach.
+[Visit](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-We're on a mission to use the latest AI to build tools that help software engineers build better careers. Our AI tools are 100% free.
+JobBuddy provides job seekers with advanced AI tools to generate personalized cover letters, resumes and interview prep. Powered by thousands of successful examples and using multi-model technology, JobBuddy is highly effective at producing fully ATS-optimized, human-sounding, professional application materials. Try it for a highly personalized, streamlined approach to your job hunt.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+[More Information and Pricing](https://www.thataicollection.com/en/application/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
+
+
 
 
 ### rankode
@@ -2352,21 +2369,6 @@ We automatically apply to all the jobs on platforms like Linkedin, Indeed and Zi
 <br />
 
 <br />
-
-
-### JobBuddy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobbuddy.webp" alt="JobBuddy">
-
-#### JobBuddy - Generate cover letters, optimize resumes and get interview prep materials in seconds with your own personal AI-driven careers coach.
-[Visit](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-JobBuddy provides job seekers with advanced AI tools to generate personalized cover letters, resumes and interview prep. Powered by thousands of successful examples and using multi-model technology, JobBuddy is highly effective at producing fully ATS-optimized, human-sounding, professional application materials. Try it for a highly personalized, streamlined approach to your job hunt.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ### HireYaY
