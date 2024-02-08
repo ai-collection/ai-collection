@@ -53,6 +53,21 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
+    </a>
+    <h4>डेफ़्ट इमेजिन - किसी घर को 10 सेकंड या उससे कम समय में रीस्टाइल करें। प्रेरणा, इंटीरियर डिज़ाइन, स्टेजिंग, और बहुत कुछ।</h4>
+    <p>किसी घर को 10 सेकंड या उससे कम समय में रीस्टाइल करें। फिर, तुम हमारे सर्च इंजन की मदद से तस्वीरों में मौजूद प्रॉडक्ट्स ढूंढ सकते हो। 
+
+यह बहुत सटीक है, और ऐसे बहुत सारे स्टाइल हैं जिन्हें तुम चुन सकते हो। प्रेरणा, इंटीरियर डिज़ाइन, फ़ोटो के मंचन, और बहुत कुछ के लिए बहुत अच्छा है।</p>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Deft के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -74,21 +89,6 @@
     <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
     <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
     <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft" border="0"/>
-    </a>
-    <h4>डेफ़्ट इमेजिन - किसी घर को 10 सेकंड या उससे कम समय में रीस्टाइल करें। प्रेरणा, इंटीरियर डिज़ाइन, स्टेजिंग, और बहुत कुछ।</h4>
-    <p>किसी घर को 10 सेकंड या उससे कम समय में रीस्टाइल करें। फिर, तुम हमारे सर्च इंजन की मदद से तस्वीरों में मौजूद प्रॉडक्ट्स ढूंढ सकते हो। 
-
-यह बहुत सटीक है, और ऐसे बहुत सारे स्टाइल हैं जिन्हें तुम चुन सकते हो। प्रेरणा, इंटीरियर डिज़ाइन, फ़ोटो के मंचन, और बहुत कुछ के लिए बहुत अच्छा है।</p>
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Deft के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -154,7 +154,7 @@
 ## Latest Additions to AI Collection
 
 ### Deft
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft">
 
 #### डेफ़्ट इमेजिन - किसी घर को 10 सेकंड या उससे कम समय में रीस्टाइल करें। प्रेरणा, इंटीरियर डिज़ाइन, स्टेजिंग, और बहुत कुछ।
 [Visit](https://www.thataicollection.com/redirect/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -508,7 +508,7 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 ## वास्तुकला और आंतरिक डिजाइन
 
 ### Deft
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft">
 
 #### डेफ़्ट इमेजिन - किसी घर को 10 सेकंड या उससे कम समय में रीस्टाइल करें। प्रेरणा, इंटीरियर डिज़ाइन, स्टेजिंग, और बहुत कुछ।
 [Visit](https://www.thataicollection.com/redirect/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)

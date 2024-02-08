@@ -69,7 +69,7 @@
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft" border="0"/>
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
     </a>
     <h4>灵巧的想象力-在 10 秒或更短的时间内重新设计房屋。灵感、室内设计、舞台布置等等。</h4>
     <p>在 10 秒或更短的时间内重新设计房屋。然后，您可以使用我们的搜索引擎在照片中查找产品。 
