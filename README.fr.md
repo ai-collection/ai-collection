@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise, la meilleure application d'apprentissage basée sur l'IA pour les auditeurs de podcasts.</h4>
-    <p>Avec Podwise, tu peux apprendre grâce à des connaissances structurées et écouter de manière sélective les chapitres qui suscitent ton intérêt. Cette fonctionnalité te permet d'optimiser ton expérience d'apprentissage et de te concentrer sur le contenu qui compte le plus pour toi.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Podwise</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft" border="0"/>
     </a>
@@ -74,6 +61,19 @@
 
 Il est très précis et tu peux choisir parmi une multitude de styles. Idéal pour l'inspiration, la décoration d'intérieur, les photos de mise en scène, etc.</p>
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Deft</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise, la meilleure application d'apprentissage basée sur l'IA pour les auditeurs de podcasts.</h4>
+    <p>Avec Podwise, tu peux apprendre grâce à des connaissances structurées et écouter de manière sélective les chapitres qui suscitent ton intérêt. Cette fonctionnalité te permet d'optimiser ton expérience d'apprentissage et de te concentrer sur le contenu qui compte le plus pour toi.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Podwise</b></a>
     <br />
 </div>
 
@@ -653,21 +653,6 @@ SUPERMACHINE te permet de générer des images à l'aide des dernières technolo
 
 
 
-### Corporate Headshots AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
-
-#### Corporate Headshots AI : révolutionner les portraits d'entreprise grâce à l'IA
-[Visit](https://www.thataicollection.com/redirect/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l'IA transforme tes selfies en portraits élégants, conformes aux normes de l'entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/corporate-headshots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Getimg.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getimg.ai.webp" alt="Getimg.ai">
 
@@ -708,6 +693,21 @@ De plus, l'optimiseur de listes basé sur l'IA crée efficacement des listes de 
 ICONS8 PERMET AUX DESIGNERS D'EXPRIMER LEURS IDÉES EN FOURNISSANT LES BONS ÉLÉMENTS DE DESIGN AU BON MOMENT. Fonctionnalités de l'IA : générateur de visages, changement de visage sur des photos de stock, amélioration intelligente, mise à jour de ton site web directement depuis Lunacy et bien plus encore
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/icons8?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### CustomQR AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customqr-ai.webp" alt="CustomQR AI">
+
+#### Service de génération de code QR pour les entreprises
+[Visit](https://www.thataicollection.com/redirect/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Obtenez de magnifiques codes QR artistiques sur votre e-mail en moins de 10 minutes. Choisissez parmi les catégories de codes QR disponibles ou demandez les vôtres. Faites en sorte que votre entreprise se démarque avec des arts QR uniques !
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/customqr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2273,21 +2273,6 @@ Vérifier les symptômes et trouver les causes par l'IA - Répondez au quiz sur 
 
 ## Ressources humaines et CV
 
-### AiApply
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
-
-#### AIApply : outils d'IA permettant aux demandeurs d'emploi de créer la candidature parfaite
-[Visit](https://www.thataicollection.com/redirect/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AIApply est une suite dynamique d'outils d'IA conçus pour donner plus de moyens aux demandeurs d'emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d'emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C'est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l'IA.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/aiapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### JobSearch.Coach
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach">
 
@@ -2318,15 +2303,15 @@ Rezi est la seule plate-forme de CV qui utilise une IA de pointe pour automatise
 
 
 
-### JobBuddy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobbuddy.webp" alt="JobBuddy">
+### Prodigy AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prodigy-ai.webp" alt="Prodigy AI">
 
-#### JobBuddy - Génère des lettres de motivation, optimise les CV et obtiens du matériel de préparation aux entretiens en quelques secondes avec ton coach de carrière personnel piloté par l'IA.
-[Visit](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Utiliser l'IA pour améliorer la carrière des ingénieurs logiciels
+[Visit](https://www.thataicollection.com/redirect/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-JobBuddy fournit aux demandeurs d'emploi des outils d'IA avancés pour générer des lettres de motivation et des CV personnalisés et préparer les entretiens. S'appuyant sur des milliers d'exemples réussis et utilisant une technologie multimodèle, JobBuddy est très efficace lorsqu'il s'agit de produire des supports de candidature professionnels entièrement optimisés pour ATS et à consonance humaine. Essaye-le pour une approche rationalisée et hautement personnalisée de ta recherche d'emploi.
+Nous avons pour mission d'utiliser la toute dernière intelligence artificielle pour créer des outils qui aident les ingénieurs logiciels à bâtir de meilleures carrières. Nos outils d'IA sont 100% gratuits.
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2361,6 +2346,21 @@ Nous postulons automatiquement à tous les emplois sur des plateformes comme Lin
 <br />
 
 <br />
+
+
+### JobBuddy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobbuddy.webp" alt="JobBuddy">
+
+#### JobBuddy - Génère des lettres de motivation, optimise les CV et obtiens du matériel de préparation aux entretiens en quelques secondes avec ton coach de carrière personnel piloté par l'IA.
+[Visit](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+JobBuddy fournit aux demandeurs d'emploi des outils d'IA avancés pour générer des lettres de motivation et des CV personnalisés et préparer les entretiens. S'appuyant sur des milliers d'exemples réussis et utilisant une technologie multimodèle, JobBuddy est très efficace lorsqu'il s'agit de produire des supports de candidature professionnels entièrement optimisés pour ATS et à consonance humaine. Essaye-le pour une approche rationalisée et hautement personnalisée de ta recherche d'emploi.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 
 
 ### HireYaY
