@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1072" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1073" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=42" />
@@ -68,12 +68,14 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft" border="0"/>
     </a>
-    <h4>Podwise, ведущее приложение для обучения искусственному интеллекту для слушателей подкастов.</h4>
-    <p>С помощью Podwise вы можете учиться на структурированных знаниях и выборочно слушать интересующие вас главы. Эта функция позволяет оптимизировать учебный процесс и сосредоточиться на наиболее важном для вас контенте.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Podwise</b></a>
+    <h4>Deft Imagine — рестайлинг дома за 10 секунд или меньше. Вдохновение, дизайн интерьера, постановка и многое другое.</h4>
+    <p>Рестайлинг дома за 10 секунд или меньше. Затем вы можете использовать нашу поисковую систему, чтобы найти товары на фотографиях. 
+
+Он очень точный, и вы можете выбирать из множества стилей. Отлично подходит для вдохновения, дизайна интерьера, постановки фотографий и многого другого.</p>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Deft</b></a>
     <br />
 </div>
 
@@ -81,12 +83,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения</h4>
-    <p>AiApply — это динамичный набор инструментов искусственного интеллекта, разработанный для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявления о приеме на работу, повышает качество резюме, готовит к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, обеспечивая пользователям возможность выделиться на конкурентных рынках. Это важный инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интел</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с AiApply</b></a>
+    <h4>Podwise, ведущее приложение для обучения искусственному интеллекту для слушателей подкастов.</h4>
+    <p>С помощью Podwise вы можете учиться на структурированных знаниях и выборочно слушать интересующие вас главы. Эта функция позволяет оптимизировать учебный процесс и сосредоточиться на наиболее важном для вас контенте.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Podwise</b></a>
     <br />
 </div>
 
@@ -150,6 +152,23 @@
 - 🛒 [Электронная Торговля](#электронная-торговля)
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
+
+### Deft
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft">
+
+#### Deft Imagine — рестайлинг дома за 10 секунд или меньше. Вдохновение, дизайн интерьера, постановка и многое другое.
+[Visit](https://www.thataicollection.com/redirect/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Рестайлинг дома за 10 секунд или меньше. Затем вы можете использовать нашу поисковую систему, чтобы найти товары на фотографиях. 
+
+Он очень точный, и вы можете выбирать из множества стилей. Отлично подходит для вдохновения, дизайна интерьера, постановки фотографий и многого другого.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Humanize AI Text
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-humanize-ai-text.webp" alt="Humanize AI Text">
@@ -238,21 +257,6 @@ Humanize AI Text — это бесплатный онлайн-инструмен
 Вы можете конвертировать изображения в стиле аниме или использовать текст для создания изображений в различных стилях. Эти функции можно использовать бесплатно в Интернете.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### ZeroGPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zerogpt.webp" alt="ZeroGPT">
-
-#### ZeroGPT — самый надежный и точный детектор искусственного интеллекта для обнаружения текста, сгенерированного ChatGPT.
-[Visit](https://www.thataicollection.com/redirect/zerogpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ознакомьтесь с возможностями ZeroGPT.com — передового инструмента обнаружения искусственного интеллекта, предназначенного для точного определения текста, созданного ChatGPT. Благодаря передовым алгоритмам он быстро различает контент, созданный искусственным интеллектом, и контент, созданный человеком. ZeroGPT.com — это компактное, но надежное решение, позволяющее уверенно определять влияние ChatGPT как для модерации контента, так и для обеспечения прозрачности в Интернете.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/zerogpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

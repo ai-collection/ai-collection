@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1072" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1073" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=42" />
@@ -59,6 +59,21 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft" border="0"/>
+    </a>
+    <h4>Deft Imagine - Restyle a home in 10 seconds or less. Inspiration, interior design, staging, and more.</h4>
+    <p>Restyle a home in 10 seconds or less. Then, you can use our search engine to find the products in the photos. 
+
+It is highly accurate, and there are tons of styles that you can choose from. Great for inspiration, interior design, staging photos, and more.</p>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Deft</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -67,19 +82,6 @@ Translations:
 
 Your wildest dreams are just a click away today!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
-    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It's an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with AiApply</b></a>
     <br />
 </div>
 
@@ -180,6 +182,7 @@ Your wildest dreams are just a click away today!</p>
 | [AI TWO](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aitwo.Co - Remodel AI - Remodeled Interior & Exterior. | Remodel and Design your spaces with Remodel AI - The first and #1 AI for remodeling, AI house designer and AI Interior designer. Get Remodeled Concepts for your space in less than 30 seconds. | :grey_question: |
 | [Architect AI](https://www.thataicollection.com/redirect/architect-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Architect AI generates high-quality architectural renderings in just a few seconds. | Architect AI helps you generate high-quality architectural renderings from conceptual sketches in just a few seconds with AI. This is the GPT of the architectural design world to complete your design quickly, facilitate client communications and presentations. | :white_check_mark: |
 | [Coolaiid](https://www.thataicollection.com/redirect/coolaiid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Coolaiid - Transform Your Interior Design with AI. | Discover endless possibilities in interior design with our innovative AI-driven platform, crafted for both DIY enthusiasts and professional interior designers. Experience a world of personalized design ideas at your fingertips. | :white_check_mark: |
+| [Deft](https://www.thataicollection.com/redirect/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Deft Imagine - Restyle a home in 10 seconds or less. Inspiration, interior design, staging, and more. | Restyle a home in 10 seconds or less. Then, you can use our search engine to find the products in the photos.   It is highly accurate, and there are tons of styles that you can choose from. Great for inspiration, interior design, staging photos, and more. | :white_check_mark: |
 | [Dimensions](https://www.thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dimensions - Rapidly Create Visual Concepts With AI. | Imagine being able to create beautiful interior designs with ease – thats what Dimensions offers. | :white_check_mark: |
 | [Getfloorplan](https://www.thataicollection.com/redirect/getfloorplan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Creating 2D and 3D Floor Plans With AI. | Up to 30% calls increase reported by our clients using 2D, 3D floor plans and virtual tours. | :grey_question: |
 | [Image Computer](https://www.thataicollection.com/redirect/image-computer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generate Your Next Interior Design / Paniting / Fashion Collection / Concept Art. | Use our powerful AI technology to generate any type of image you can think of. In a matter of seconds. | :x: |

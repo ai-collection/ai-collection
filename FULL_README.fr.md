@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1072" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1073" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=42" />
@@ -53,21 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
-    </a>
-    <h4>Commence à discuter gratuitement avec notre moteur de personnages NSFW AI terriblement rapide. Ludique, serviable, nos plus de 750 personnages de sextos IA l'ont compris. IA non censurée, aucun jugement. Tu as le contrôle.</h4>
-    <p>Variété, allant de dominante à soumise et plus encore. Connecte-toi maintenant pour des sextos IA 24 heures sur 24, 7 jours sur 7 et des discussions épicées qui te couperont le souffle.
-
-Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
@@ -81,12 +66,29 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft" border="0"/>
     </a>
-    <h4>AIApply : outils d'IA permettant aux demandeurs d'emploi de créer la candidature parfaite</h4>
-    <p>AIApply est une suite dynamique d'outils d'IA conçus pour donner plus de moyens aux demandeurs d'emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d'emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C'est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l'IA.</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec AiApply</b></a>
+    <h4>Deft Imagine - Redonnez du style à une maison en 10 secondes ou moins. Inspiration, design d'intérieur, mise en scène et plus encore.</h4>
+    <p>Relooker une maison en 10 secondes ou moins. Ensuite, tu peux utiliser notre moteur de recherche pour trouver les produits sur les photos. 
+
+Il est très précis et tu peux choisir parmi une multitude de styles. Idéal pour l'inspiration, la décoration d'intérieur, les photos de mise en scène, etc.</p>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Deft</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    </a>
+    <h4>Commence à discuter gratuitement avec notre moteur de personnages NSFW AI terriblement rapide. Ludique, serviable, nos plus de 750 personnages de sextos IA l'ont compris. IA non censurée, aucun jugement. Tu as le contrôle.</h4>
+    <p>Variété, allant de dominante à soumise et plus encore. Connecte-toi maintenant pour des sextos IA 24 heures sur 24, 7 jours sur 7 et des discussions épicées qui te couperont le souffle.
+
+Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -199,6 +201,7 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 | [AI TWO](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aitwo.Co - Remodel AI - Intérieur et extérieur rénovés. | Rénove et aménage tes espaces avec Remodel AI : la première et #1 IA pour la rénovation, designer de maison et designer d'intérieur IA. Rénove les concepts de ton logement en moins de 30 secondes. | :grey_question: |
 | [Architect AI](https://www.thataicollection.com/redirect/architect-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Architect AI génère des rendus architecturaux de haute qualité en quelques secondes seulement. | Architect AI t'aide à générer des rendus architecturaux de haute qualité à partir de croquis conceptuels en quelques secondes grâce à l'IA. C'est le GPT du monde du design architectural qui permet de réaliser ton design rapidement, de faciliter les communications et les présentations avec les clients. | :white_check_mark: |
 | [Coolaiid](https://www.thataicollection.com/redirect/coolaiid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Coolaiid - Transformez votre décoration d'intérieur grâce à l'IA. | Découvrez les possibilités infinies en matière de design d'intérieur grâce à notre plateforme innovante pilotée par l'IA, conçue à la fois pour les passionnés de bricolage et les designers d'intérieur professionnels. Découvrez un monde d'idées de design personnalisées à portée de main. | :white_check_mark: |
+| [Deft](https://www.thataicollection.com/redirect/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Deft Imagine - Redonnez du style à une maison en 10 secondes ou moins. Inspiration, design d'intérieur, mise en scène et plus encore. | Relooker une maison en 10 secondes ou moins. Ensuite, tu peux utiliser notre moteur de recherche pour trouver les produits sur les photos.   Il est très précis et tu peux choisir parmi une multitude de styles. Idéal pour l'inspiration, la décoration d'intérieur, les photos de mise en scène, etc. | :white_check_mark: |
 | [Dimensions](https://www.thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dimensions - créez rapidement des concepts visuels avec l'IA. | Imaginez pouvoir créer facilement de superbes intérieurs - c'est ce que propose Dimensions. | :white_check_mark: |
 | [Getfloorplan](https://www.thataicollection.com/redirect/getfloorplan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Création de plans d'étage 2D et 3D avec l'IA. | Jusqu'à 30 % d'augmentation des appels signalés par nos clients utilisant des plans d'étage 2D, 3D et des visites virtuelles. | :grey_question: |
 | [Image Computer](https://www.thataicollection.com/redirect/image-computer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Générez votre prochain design d'intérieur / peinture / collection de mode / concept art. | Utilisez notre puissante technologie d'intelligence artificielle pour générer tout type d'image auquel vous pouvez penser. Dans quelques secondes. | :x: |

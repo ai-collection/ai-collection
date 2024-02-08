@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1072" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1073" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=42" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply: नौकरी खोजने वालों के लिए AI टूल, ताकि बेहतरीन एप्लीकेशन तैयार किया जा सके</h4>
-    <p>AIApply AI टूल का एक डायनामिक सूट है, जिसे नौकरी तलाशने वालों को सशक्त बनाने के लिए डिज़ाइन किया गया है। यह नौकरी की आवेदन प्रक्रिया को आसान बनाता है, रिज़्यूमे की गुणवत्ता को बढ़ाता है, साक्षात्कारों के लिए तैयार करता है और करियर के सबसे अच्छे अवसरों की पहचान करता है। AIApply नौकरी खोजने की रणनीतियों को वैयक्तिकृत करता है, यह सुनिश्चित करता है कि यूज़र प्रतिस्पर्धी बाज़ारों में अलग दिखें। यह उन लोगों के लिए ज़रूरी टूल है जो AI की मदद से अपने करियर की राह में तेज़ी लाना चाहते हैं।</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>AiApply के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -87,6 +74,21 @@
     <h4>पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।</h4>
     <p>Podwise के साथ, तुम संरचित ज्ञान से सीख सकते हो और चुनिंदा उन अध्यायों को सुन सकते हो, जो तुम्हारी रुचि को बढ़ाते हैं। यह सुविधा तुम्हेंं अपने सीखने के अनुभव को बेहतर बनाने और उस सामग्री पर ध्यान केंद्रित करने की सुविधा देती है जो तुम्हारे लिए सबसे महत्वपूर्ण है।</p>
     <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Podwise के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft" border="0"/>
+    </a>
+    <h4>डेफ़्ट इमेजिन - किसी घर को 10 सेकंड या उससे कम समय में रीस्टाइल करें। प्रेरणा, इंटीरियर डिज़ाइन, स्टेजिंग, और बहुत कुछ।</h4>
+    <p>किसी घर को 10 सेकंड या उससे कम समय में रीस्टाइल करें। फिर, तुम हमारे सर्च इंजन की मदद से तस्वीरों में मौजूद प्रॉडक्ट्स ढूंढ सकते हो। 
+
+यह बहुत सटीक है, और ऐसे बहुत सारे स्टाइल हैं जिन्हें तुम चुन सकते हो। प्रेरणा, इंटीरियर डिज़ाइन, फ़ोटो के मंचन, और बहुत कुछ के लिए बहुत अच्छा है।</p>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Deft के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -1172,6 +1174,7 @@
 | [AI TWO](https://www.thataicollection.com/redirect/ai-two?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Aitwo.Co - रीमॉडल AI - रीमॉडेल्ड इंटीरियर और एक्सटीरियर. | रीमॉडल AI के साथ अपने स्पेस को फिर से तैयार करें और डिज़ाइन करें - रीमॉडेलिंग के लिए पहला और #1 AI, AI हाउस डिज़ाइनर और AI इंटीरियर डिज़ाइनर। 30 सेकंड से भी कम समय में अपने स्पेस के लिए रीमॉडेल्ड कॉन्सेप्ट पाएँ।. | :grey_question: |
 | [Architect AI](https://www.thataicollection.com/redirect/architect-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आर्किटेक्ट AI कुछ ही सेकंड में हाई-क्वालिटी आर्किटेक्चरल रेंडरिंग तैयार करता है।. | आर्किटेक्ट AI, AI की मदद से कुछ ही सेकंड में कॉन्सेप्चुअल स्केच से हाई-क्वालिटी आर्किटेक्चरल रेंडरिंग जेनरेट करने में तुम्हारी मदद करता है। यह आर्किटेक्चरल डिज़ाइन की दुनिया का GPT है, जिससे तुम्हारा डिज़ाइन तेज़ी से पूरा हो सकता है, क्लाइंट से संपर्क और प्रस्तुतियाँ आसान हो जाती हैं।. | :white_check_mark: |
 | [Coolaiid](https://www.thataicollection.com/redirect/coolaiid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Coolaid - AI की मदद से अपने इंटीरियर डिज़ाइन को ट्रांसफ़ॉर्म करें. | हमारे नवोन्मेषी AI-संचालित प्लेटफ़ॉर्म के साथ इंटीरियर डिज़ाइन में अनंत संभावनाओं की खोज करें, जिसे DIY के शौकीनों और पेशेवर इंटीरियर डिज़ाइनरों दोनों के लिए तैयार किया गया है। अपनी उंगलियों पर वैयक्तिकृत डिज़ाइन विचारों की दुनिया का अनुभव करें।. | :white_check_mark: |
+| [Deft](https://www.thataicollection.com/redirect/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डेफ़्ट इमेजिन - किसी घर को 10 सेकंड या उससे कम समय में रीस्टाइल करें। प्रेरणा, इंटीरियर डिज़ाइन, स्टेजिंग, और बहुत कुछ।. | किसी घर को 10 सेकंड या उससे कम समय में रीस्टाइल करें। फिर, तुम हमारे सर्च इंजन की मदद से तस्वीरों में मौजूद प्रॉडक्ट्स ढूंढ सकते हो।   यह बहुत सटीक है, और ऐसे बहुत सारे स्टाइल हैं जिन्हें तुम चुन सकते हो। प्रेरणा, इंटीरियर डिज़ाइन, फ़ोटो के मंचन, और बहुत कुछ के लिए बहुत अच्छा है।. | :white_check_mark: |
 | [Dimensions](https://www.thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डाइमेंशन - एआई के साथ तेजी से विज़ुअल कॉन्सेप्ट बनाएं. | कल्पना करें कि आप आसानी से सुंदर आंतरिक डिज़ाइन बना सकते हैं - यही आयाम प्रदान करता है।. | :white_check_mark: |
 | [Getfloorplan](https://www.thataicollection.com/redirect/getfloorplan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ 2डी और 3डी फ्लोर प्लान बनाना. | 2डी, 3डी फ्लोर प्लान और वर्चुअल टूर का उपयोग करने वाले हमारे ग्राहकों द्वारा 30% तक कॉल वृद्धि की सूचना दी गई है. | :grey_question: |
 | [Image Computer](https://www.thataicollection.com/redirect/image-computer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी अगली आंतरिक सज्जा / पैनिटिंग / फैशन संग्रह / संकल्पना कला तैयार करें. | आप जिस भी प्रकार की छवि के बारे में सोच सकते हैं, उसे उत्पन्न करने के लिए हमारी शक्तिशाली एआई तकनीक का उपयोग करें। कुछ ही सेकण्ड में।. | :x: |

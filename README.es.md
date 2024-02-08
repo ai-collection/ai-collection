@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1072" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1073" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=42" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise, la principal aplicación de aprendizaje de IA para los oyentes de podcasts.</h4>
+    <p>Con Podwise, puedes aprender a partir de conocimientos estructurados y escuchar de forma selectiva los capítulos que despierten tu interés. Esta función te permite optimizar tu experiencia de aprendizaje y centrarte en el contenido que más te importa.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Podwise</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -68,25 +81,14 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft" border="0"/>
     </a>
-    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
-    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con AiApply</b></a>
-    <br />
-</div>
+    <h4>Het Imagine: cambia el estilo de una casa en 10 segundos o menos. Inspiración, diseño de interiores, puesta en escena y más.</h4>
+    <p>Cambia el estilo de una casa en 10 segundos o menos. A continuación, puedes utilizar nuestro motor de búsqueda para encontrar los productos de las fotos. 
 
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise, la principal aplicación de aprendizaje de IA para los oyentes de podcasts.</h4>
-    <p>Con Podwise, puedes aprender a partir de conocimientos estructurados y escuchar de forma selectiva los capítulos que despierten tu interés. Esta función te permite optimizar tu experiencia de aprendizaje y centrarte en el contenido que más te importa.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Podwise</b></a>
+Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para inspirarte, diseñar interiores, fotos de puesta en escena y mucho más.</p>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Deft</b></a>
     <br />
 </div>
 
@@ -150,6 +152,23 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 💰 [Ventas Y Marketing](#ventas-y-marketing)
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
+
+### Deft
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft">
+
+#### Het Imagine: cambia el estilo de una casa en 10 segundos o menos. Inspiración, diseño de interiores, puesta en escena y más.
+[Visit](https://www.thataicollection.com/redirect/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Cambia el estilo de una casa en 10 segundos o menos. A continuación, puedes utilizar nuestro motor de búsqueda para encontrar los productos de las fotos. 
+
+Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para inspirarte, diseñar interiores, fotos de puesta en escena y mucho más.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Humanize AI Text
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-humanize-ai-text.webp" alt="Humanize AI Text">
@@ -242,21 +261,6 @@ Puedes convertir imágenes al estilo anime o utilizar texto para generar imágen
 <br />
 
 <br />
-
-
-### ZeroGPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zerogpt.webp" alt="ZeroGPT">
-
-#### ZeroGPT es la herramienta de detección de IA más fiable y precisa para detectar el texto generado por ChatGPT.
-[Visit](https://www.thataicollection.com/redirect/zerogpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Descubre el poder de ZeroGPT.com, la mejor herramienta de detección de IA diseñada para localizar el texto generado por ChatGP. Con algoritmos vanguardistas, distingue rápidamente entre la IA y el contenido creado por humanos. Ya sea para moderar el contenido o mantener la transparencia en Internet, ZeroGPT.com es tu solución compacta y sólida para identificar con confianza la influencia de ChatGPT.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/zerogpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ## Cuentas y finanzas

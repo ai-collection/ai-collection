@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1072" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1073" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=42" />
@@ -59,6 +59,21 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft" border="0"/>
+    </a>
+    <h4>Deft Imagine - Restyle a home in 10 seconds or less. Inspiration, interior design, staging, and more.</h4>
+    <p>Restyle a home in 10 seconds or less. Then, you can use our search engine to find the products in the photos. 
+
+It is highly accurate, and there are tons of styles that you can choose from. Great for inspiration, interior design, staging photos, and more.</p>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Deft</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -67,19 +82,6 @@ Translations:
 
 Your wildest dreams are just a click away today!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
-    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It's an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
-    <a href="https://www.thataicollection.com/redirect/aiapply/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with AiApply</b></a>
     <br />
 </div>
 
@@ -156,6 +158,23 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+
+### Deft
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft.webp" alt="Deft">
+
+#### Deft Imagine - Restyle a home in 10 seconds or less. Inspiration, interior design, staging, and more.
+[Visit](https://www.thataicollection.com/redirect/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Restyle a home in 10 seconds or less. Then, you can use our search engine to find the products in the photos. 
+
+It is highly accurate, and there are tons of styles that you can choose from. Great for inspiration, interior design, staging photos, and more.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Humanize AI Text
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-humanize-ai-text.webp" alt="Humanize AI Text">
@@ -248,21 +267,6 @@ You can convert pictures into anime style, or use text to generate pictures in v
 <br />
 
 <br />
-
-
-### ZeroGPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zerogpt.webp" alt="ZeroGPT">
-
-#### ZeroGPT the most trusted and accurate AI detector tool to detect ChatGPT generated text.
-[Visit](https://www.thataicollection.com/redirect/zerogpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Explore the power of ZeroGPT.com – the ultimate AI detection tool designed to pinpoint ChatGPT-generated text. With cutting-edge algorithms, it swiftly distinguishes between AI and human-created content. Whether for content moderation or maintaining online transparency, ZeroGPT.com is your compact yet robust solution for confidently identifying ChatGPT's influence.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/zerogpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ## Accounting & Finance
