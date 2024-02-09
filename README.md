@@ -897,6 +897,19 @@ Build an AI chatbot from your knowledge base and add it to your website or inter
 <br />
 
 
+### Chatpdf.so - Chat with PDF
+<img align="left" width="240" src="https://pbs.twimg.com/profile_banners/1659099229334261760/1684395315/1500x500" alt="Chatpdf.so">
+
+#### Chatpdf.so - Chat with PDF using AI
+[Visit](https://chatpdf.so)
+
+Chatpdf.so is an AI based chat tool designed to search and generate content from PDF documents.
+
+[More Information and Pricing](https://chatpdf.so)
+
+<br />
+
+
 
 
 ### Chatsimple
