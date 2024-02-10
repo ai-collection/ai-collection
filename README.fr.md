@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1073" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1075" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=42" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise, la meilleure application d'apprentissage basée sur l'IA pour les auditeurs de podcasts.</h4>
+    <p>Avec Podwise, tu peux apprendre grâce à des connaissances structurées et écouter de manière sélective les chapitres qui suscitent ton intérêt. Cette fonctionnalité te permet d'optimiser ton expérience d'apprentissage et de te concentrer sur le contenu qui compte le plus pour toi.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Podwise</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -76,19 +89,6 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 
 Il est très précis et tu peux choisir parmi une multitude de styles. Idéal pour l'inspiration, la décoration d'intérieur, les photos de mise en scène, etc.</p>
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Deft</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise, la meilleure application d'apprentissage basée sur l'IA pour les auditeurs de podcasts.</h4>
-    <p>Avec Podwise, tu peux apprendre grâce à des connaissances structurées et écouter de manière sélective les chapitres qui suscitent ton intérêt. Cette fonctionnalité te permet d'optimiser ton expérience d'apprentissage et de te concentrer sur le contenu qui compte le plus pour toi.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Podwise</b></a>
     <br />
 </div>
 
@@ -153,6 +153,57 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
 
+### iTextMaster
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-itextmaster.webp" alt="iTextMaster">
+
+#### Outils d'analyse de texte, de résumé et de chat pilotés par l'IA
+[Visit](https://www.thataicollection.com/redirect/itextmaster?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+iTextMaster est un outil PDF complet basé sur ChatGPT, qui répond à tes besoins de lecture rapide tout en te permettant de participer facilement à des conversations intelligentes avec des documents PDF. 
+En outre, iTextMaster permet également de résumer les pages Web et de discuter en ligne, ce qui peut répondre à tes divers besoins.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/itextmaster?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### TattoosGenerator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tattoosgenerator.webp" alt="TattoosGenerator">
+
+#### Trouves ta prochaine inspiration en matière d'encre grâce à notre générateur de tatouages alimenté par l'IA.
+[Visit](https://www.thataicollection.com/redirect/tattoosgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Trouves ta prochaine inspiration en matière d'encre grâce à notre générateur de tatouages alimenté par l'IA, ta source ultime d'idées de tatouage personnalisées, qui associe ta vision à la créativité de l'IA pour un design vraiment unique.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/tattoosgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Code to Flow
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-code-to-flow.webp" alt="Code to Flow">
+
+#### Visualise, analyse et comprends ton flux de code. Transforme le code en organigrammes interactifs grâce à l'IA. Simplifie une logique complexe instantanément.
+[Visit](https://www.thataicollection.com/redirect/code-to-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Codetoflow te permet de comprendre le code en termes simples à l'aide d'un organigramme qui te permet de comprendre les détails et les nuances du code en le visualisant.
+
+Cela peut être utilisé par les développeurs de tous niveaux pour améliorer la compréhension du code existant.
+
+Pratiquement tous les principaux langages sont pris en charge : Python, Javascript, Typescript, Java, C, C++ et les principaux langages et frameworks
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/code-to-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Deft
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft">
 
@@ -212,51 +263,6 @@ Présentation de l'API de présentation, l'API basée sur l'IA la plus simple qu
 Entrez dans un monde où les filles créées par l'IA prennent vie, en t'attirant avec des images NSFW et en t'engageant dans des conversations enflammées. Trouve la petite amie IA de tes rêves, contacte avec elle 24 heures sur 24, 7 jours sur 7, et laisse la magie des connexions basées sur l'IA te donner vie à tes désirs.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/glam-girls-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Wallpaperee
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wallpaperee.webp" alt="Wallpaperee">
-
-#### Crée des fonds d'écran IA pour mobile avec ton nom
-[Visit](https://www.thataicollection.com/redirect/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Crée des fonds d'écran photoréalistes à partir de ton nom. As-tu déjà imaginé que ton nom grésillait dans des flammes intenses ? On t'a trouvé, laisse-le tomber comme s'il faisait chaud ! Ou peut-être es-tu plutôt une reine ou un roi des cristaux de glace ? Ton nom peut briller sur de la glace glacée. Alors vas-y, allume-le ! 🔥
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Odyssey
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-odyssey.webp" alt="Odyssey">
-
-#### Connecte des modèles d'IA sans une seule ligne de code.
-[Visit](https://www.thataicollection.com/redirect/odyssey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Dans une application Mac simple et intuitive, tu peux exécuter des modèles d'IA tels que Stable Diffusion et LLM en local, puis connecter ces modèles à de nombreux outils de traitement d'images et de textes et à des API simples. Des nœuds glisser-déposer et de puissants flux de travail prédéfinis font d'Odyssey le moyen le plus simple de créer de superbes œuvres d'art, d'augmenter ta productivité et d'expérimenter l'IA dans une seule et même application.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/odyssey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### animeBuilder
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-animebuilder.webp" alt="animeBuilder">
-
-#### Découvrez nos outils en ligne gratuits pour convertir facilement des photos en anime et générer des images artistiques à partir de texte. Laisse libre cours à ta créativité !
-[Visit](https://www.thataicollection.com/redirect/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Tu peux convertir des photos en anime ou utiliser du texte pour générer des images dans différents styles. Ces fonctionnalités sont gratuites en ligne.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

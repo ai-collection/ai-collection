@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1073" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1075" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=42" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise, la meilleure application d'apprentissage basée sur l'IA pour les auditeurs de podcasts.</h4>
+    <p>Avec Podwise, tu peux apprendre grâce à des connaissances structurées et écouter de manière sélective les chapitres qui suscitent ton intérêt. Cette fonctionnalité te permet d'optimiser ton expérience d'apprentissage et de te concentrer sur le contenu qui compte le plus pour toi.</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Podwise</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -76,19 +89,6 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 
 Il est très précis et tu peux choisir parmi une multitude de styles. Idéal pour l'inspiration, la décoration d'intérieur, les photos de mise en scène, etc.</p>
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Deft</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise, la meilleure application d'apprentissage basée sur l'IA pour les auditeurs de podcasts.</h4>
-    <p>Avec Podwise, tu peux apprendre grâce à des connaissances structurées et écouter de manière sélective les chapitres qui suscitent ton intérêt. Cette fonctionnalité te permet d'optimiser ton expérience d'apprentissage et de te concentrer sur le contenu qui compte le plus pour toi.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Podwise</b></a>
     <br />
 </div>
 
@@ -233,6 +233,7 @@ Il est très précis et tu peux choisir parmi une multitude de styles. Idéal po
 | [Bito AI](https://www.thataicollection.com/redirect/bito-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Générez du code incroyable, améliorez les performances du code, générez du code incroyable, 10 fois plus vite avec ChatGPT. | Augmentez la productivité de 31 % Approuvé par plus de 100 000 développeurs dans les meilleures entreprises du monde. | :white_check_mark: |
 | [Channel](https://www.thataicollection.com/redirect/channel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Canaliser. | Connectez votre base de données, posez une question, obtenez une réponse. | :grey_question: |
 | [Code Language Converter](https://www.thataicollection.com/redirect/code-language-converter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Convertisseur de langage de code - Convertissez du code dans d'autres langages à l'aide de l'IA. | Collez votre extrait de code et l'IA le convertira dans la langue sélectionnée !. | :white_check_mark: |
+| [Code to Flow](https://www.thataicollection.com/redirect/code-to-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Visualise, analyse et comprends ton flux de code. Transforme le code en organigrammes interactifs grâce à l'IA. Simplifie une logique complexe instantanément. | Codetoflow te permet de comprendre le code en termes simples à l'aide d'un organigramme qui te permet de comprendre les détails et les nuances du code en le visualisant.  Cela peut être utilisé par les développeurs de tous niveaux pour améliorer la compréhension du code existant.  Pratiquement tous les principaux langages sont pris en charge : Python, Javascript, Typescript, Java, C, C++ et les principaux langages et frameworks. | :grey_question: |
 | [CodeAssist](https://www.thataicollection.com/redirect/codeassist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | CodeAssist est un assistant IA / chatbot / copilote pour la programmation - JetBrains Marketplace. | Il génère, modifie, complète le code et répond aux questions. | :grey_question: |
 | [CodeGPT](https://www.thataicollection.com/redirect/codegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | L'IA dans votre IDE. | Améliorez votre code avec Code GPT AI. | :white_check_mark: |
 | [Codeium](https://www.thataicollection.com/redirect/codeium?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Codeium - La superpuissance de codage moderne. | Accélération rapide du code basée sur l'IA et alternative gratuite à GitHub Copilot. | :white_check_mark: |
@@ -782,6 +783,7 @@ Il est très précis et tu peux choisir parmi une multitude de styles. Idéal po
 | [StockPhotoAI.net](https://www.thataicollection.com/redirect/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Utilise l'IA pour générer des photos de stock pour des diaporamas, des sites Web ou des médias imprimés. | Chaque photo créée pour y ressembler a été prise par des caméras et des acteurs professionnels. Nous utilisons des données de formation personnalisées et les derniers modèles Dall-E pour produire ces photos libres de droits. Les utilisateurs peuvent choisir entre l'orientation carrée, paysage et portrait et le style de la photo. | :white_check_mark: |
 | [Stylized](https://www.thataicollection.com/redirect/stylized?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | La meilleure façon de prendre des photos de produits. | Du téléphone au catalogue en 30 secondes. | :grey_question: |
 | [SUPERMACHINE](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Supermachine - Générez des photos, des œuvres d'art et des images à l'aide de l'IA. | SUPERMACHINE te permet de générer des images à l'aide des dernières technologies d'intelligence artificielle. Génère de superbes images d'IA avec plus de 55 modèles. | :grey_question: |
+| [TattoosGenerator](https://www.thataicollection.com/redirect/tattoosgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Trouves ta prochaine inspiration en matière d'encre grâce à notre générateur de tatouages alimenté par l'IA. | Trouves ta prochaine inspiration en matière d'encre grâce à notre générateur de tatouages alimenté par l'IA, ta source ultime d'idées de tatouage personnalisées, qui associe ta vision à la créativité de l'IA pour un design vraiment unique. | :white_check_mark: |
 | [TattosAI](https://www.thataicollection.com/redirect/tattosai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tatoueur propulsé par l'IA - TattoosAI. | Si vous avez une idée de tatouage mais que vous ne trouvez pas le bon design, laissez notre IA en générer une en quelques secondes. Il vous permet de créer le design parfait en fonction de ce que vous aimez et vous offre des options illimitées pour qu'il y en ait pour tous les goûts. | :grey_question: |
 | [This campsite does not exist](https://www.thataicollection.com/redirect/this-campsite-does-not-exist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ce camping n'existe pas - Campings 100 % créés par l'IA 🤖. | Des campings créés par l'IA proposant des emplacements, des tentes et des conditions météorologiques magnifiques, tous créés par l'IA en utilisant une diffusion stable. Des campings générés à 100 % par IA grâce à Stable Diffusion. De nouveaux campings sont ajoutés toutes les heures et peuvent être consultés sur la nouvelle page. Cliquez sur Vote pour n'importe quel camping si tu aimes, voir les campings les plus favorables sur la page d'accueil. | :grey_question: |
 | [Thumbsnap](https://www.thataicollection.com/redirect/thumbsnap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Générateur artistique basé sur l'IA ! Propulsé par Stable Diffusion - ThumbSnap - Hébergement gratuit de photos et de vidéos. | Hébergement gratuit de photos et de vidéos. Importations illimitées, jusqu'à 48 Mo par image, chargement par lots compris. Télécharge et partage tes photos dès aujourd'hui. | :white_check_mark: |
@@ -1088,6 +1090,7 @@ Il est très précis et tu peux choisir parmi une multitude de styles. Idéal po
 | [Gist AI](https://www.thataicollection.com/redirect/gist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Une extension pour tout résumer !  Outil de synthèse gratuit alimenté par ChatGPT pour les sites Web, les vidéos YouTube et les PDF. Un synthétiseur IA pour tout résumer !. | Gist AI est un générateur de résumé gratuit qui extrait les points clés de n'importe quel article de site Web, vidéo YouTube ou PDF en un seul clic. C'est l'outil ultime pour résumer et c'est plus qu'un simple résumé de texte ; c'est votre solution tout-en-un.  Mieux encore, Gist AI vous permet de plonger en profondeur dans la source du résumé pour plus de clarté ou de passer directement à ce moment dans une vidéo YouTube, agissant comme un résumé YouTube. | :white_check_mark: |
 | [Glasp](https://www.thataicollection.com/redirect/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Glasp : collecte et partage tes mots préférés. | Glasp est un surligneur sur les réseaux sociaux qui permet aux utilisateurs de surligner et d'organiser des citations et des réflexions provenant du Web, et d'accéder aux connaissances d'autres personnes partageant les mêmes idées. | :white_check_mark: |
 | [HARPA AI](https://www.thataicollection.com/redirect/harpa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Copilote Chatgpt Chrome Automation. | Agent IA pour Chrome. Intégrez ChatGPT à la recherche Google, automatisez les sites Web, rédigez du texte : e-mails, tweets, articles SEO. Alternative à Bing AI et Notion AI. | :white_check_mark: |
+| [iTextMaster](https://www.thataicollection.com/redirect/itextmaster?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Outils d'analyse de texte, de résumé et de chat pilotés par l'IA. | iTextMaster est un outil PDF complet basé sur ChatGPT, qui répond à tes besoins de lecture rapide tout en te permettant de participer facilement à des conversations intelligentes avec des documents PDF.  En outre, iTextMaster permet également de résumer les pages Web et de discuter en ligne, ce qui peut répondre à tes divers besoins. | :white_check_mark: |
 | [Merlin](https://www.thataicollection.com/redirect/merlin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Merlin. | Extension gratuite alimentée par ChatGPT d'Open AI à utiliser n'importe où !. | :white_check_mark: |
 | [NSFW JS](https://www.thataicollection.com/redirect/nsfw-js?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | NSFW Js - Vérification des contenus indécents côté client. | Une bibliothèque JavaScript simple pour t'aider à identifier rapidement les images inconvenantes, le tout dans le navigateur du client. NSFWJS n'est pas parfait, mais il est assez précis... et il devient de plus en plus précis. | :white_check_mark: |
 | [SplashAI](https://www.thataicollection.com/redirect/splashai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Splashai est un plugin Figma, un moteur de recherche et un générateur d'images basé sur l'IA. | SplashAI est comme un assistant. Il t'aide à trouver des idées très rapidement grâce à la fonctionnalité de recherche et à générer de nouvelles idées à l'infini sans quitter Figma. | :white_check_mark: |

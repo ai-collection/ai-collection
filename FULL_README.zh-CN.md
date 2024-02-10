@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1073" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1075" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
+    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -76,19 +89,6 @@
 
 它非常准确，并且有大量样式可供选择。非常适合作为灵感、室内设计、舞台照片等。</p>
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Deft</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
-    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
     <br />
 </div>
 
@@ -225,6 +225,7 @@
 | [Bito AI](https://www.thataicollection.com/redirect/bito-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 生成惊人的代码，提高代码性能，生成惊人的代码，使用 ChatGPT 快 10 倍. | 将生产力提高 31% 受到全球最佳公司超过 10 万名开发人员的信赖. | :white_check_mark: |
 | [Channel](https://www.thataicollection.com/redirect/channel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 渠道. | 连接您的数据库，提出问题，获得答案。. | :grey_question: |
 | [Code Language Converter](https://www.thataicollection.com/redirect/code-language-converter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 代码语言转换器 - 使用 AI 将代码转换为其他语言. | 粘贴您的代码片段，AI 会将其转换为所选语言！. | :white_check_mark: |
+| [Code to Flow](https://www.thataicollection.com/redirect/code-to-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 可视化、分析和理解您的代码流。使用 AI 将代码转换为交互式流程图。立即简化复杂逻辑。. | Codetoflow 使您能够使用流程图以简单的术语理解代码，从而通过可视化来了解代码的细节和细微差别。  所有级别的开发人员都可以使用它来提高对现有代码的理解。  几乎支持所有主要语言：Python、Javascript、Typescript、Java、C、C++ 以及所有主要语言和框架. | :grey_question: |
 | [CodeAssist](https://www.thataicollection.com/redirect/codeassist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | CodeAssist 是用于编程的 AI 助手/聊天机器人/副驾驶 - JetBrains Marketplace. | 它生成、更改、完成代码并回答问题。. | :grey_question: |
 | [CodeGPT](https://www.thataicollection.com/redirect/codegpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | IDE 中的 AI. | 使用 Code GPT AI 改进您的代码. | :white_check_mark: |
 | [Codeium](https://www.thataicollection.com/redirect/codeium?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Codeium - 现代编码超级大国. | 基于 AI 的快速代码加速和 GitHub Copilot 的免费替代品. | :white_check_mark: |
@@ -644,6 +645,7 @@
 | [Gist AI](https://www.thataicollection.com/redirect/gist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 一个扩展即可概括一切！  ChatGPT 支持的免费摘要工具，适用于网站、YouTube 视频和 PDF。一个人工智能总结器可以总结一切！. | Gist AI 是一款免费摘要生成器，只需单击一下即可从任何网站文章、YouTube 视频或 PDF 中提取要点。它是终极的总结工具，不仅仅是一个文本摘要器；这是您的一体化解决方案。  更好的是，Gist AI 可以让您深入了解摘要来源以确保清晰度，或者直接跳转到 YouTube 视频中的那一刻，充当 YouTube 摘要器。. | :white_check_mark: |
 | [Glasp](https://www.thataicollection.com/redirect/glasp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Glasp：收集并分享你最喜欢的单词. | Glasp 是一款社交网络荧光笔，人们可以突出显示和整理网络上的名言和想法，并访问其他志同道合的人的学习。. | :white_check_mark: |
 | [HARPA AI](https://www.thataicollection.com/redirect/harpa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Chatgpt Chrome 自动化副驾驶. | Chrome 的 AI 代理。将 ChatGPT 集成到 Google 搜索、自动化网站、编写文本：电子邮件、推文、SEO 文章。 Bing AI & Notion AI 替代品。. | :white_check_mark: |
+| [iTextMaster](https://www.thataicollection.com/redirect/itextmaster?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的文本分析、摘要和聊天工具. | iTextMaster是一款基于ChatGPT的综合PDF工具，它可以满足您的快速阅读需求，同时允许您轻松地与PDF文档进行智能对话。  此外，iTextMaster还支持在线网页摘要和聊天，可以满足您的多样化需求。. | :white_check_mark: |
 | [Merlin](https://www.thataicollection.com/redirect/merlin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 梅林. | 免费的 Open AI 的 ChatGPT 支持扩展，可在任何地方使用！. | :white_check_mark: |
 | [NSFW JS](https://www.thataicollection.com/redirect/nsfw-js?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | NSFW Js-客户端不雅内容检查。. | 一个简单的 JavaScript 库，可帮助您快速识别不合时宜的图像；全部在客户的浏览器中完成。NSFWJS 并不完美，但它非常准确... 而且它一直在变得越来越准确。. | :white_check_mark: |
 | [SplashAI](https://www.thataicollection.com/redirect/splashai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Splashai 是一款 Figma 插件、搜索引擎和人工智能图像生成器。. | SplasHai就像一个助手，它可以帮助你通过搜索功能超快地获得想法，并在不离开Figma的情况下无休止地产生新的想法。. | :white_check_mark: |
@@ -1319,6 +1321,7 @@
 | [StockPhotoAI.net](https://www.thataicollection.com/redirect/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 为幻灯片、网站或印刷媒体生成素材照片。. | 每张照片都是用专业相机和专业演员拍摄的。我们使用自定义训练输入和最新的 Dall-E 模型来制作这些库存照片。用户可以在正方形、横向和人像方向和照片风格之间进行选择。. | :white_check_mark: |
 | [Stylized](https://www.thataicollection.com/redirect/stylized?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 拍摄产品照片的更好方式. | 30 秒内从电话到目录. | :grey_question: |
 | [SUPERMACHINE](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Supermachine-使用 AI 生成库存照片、艺术品和图像. | SUPERMACHINE 使您能够使用最新的人工智能技术生成图像。使用 55 多个模型生成精彩的 AI 图像。. | :grey_question: |
+| [TattoosGenerator](https://www.thataicollection.com/redirect/tattoosgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用我们的 AI 驱动的纹身生成器发现您的下一个墨水灵感。. | 使用我们的 AI 驱动的纹身生成器发现您的下一个墨水灵感，这是个性化纹身创意的终极来源，将您的愿景与 AI 创意相结合，打造出真正独特的设计。. | :white_check_mark: |
 | [TattosAI](https://www.thataicollection.com/redirect/tattosai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能纹身艺术家 - TattoosAI. | 如果您有纹身的想法但找不到合适的设计，让我们的 AI 在几秒钟内生成一个。它可以让您根据自己的喜好创建完美的设计，并为您提供无限的选择，让每个人都能找到适合自己的东西。. | :grey_question: |
 | [This campsite does not exist](https://www.thataicollection.com/redirect/this-campsite-does-not-exist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 这个露营地不存在-100% 人工智能生成的露营地 🤖. | 人工智能生成的露营地，包括令人惊叹的地点、帐篷和天气，所有这些都是由人工智能使用稳定的扩散创建的。 100% 使用稳定扩散生成的 AI 露营地。每小时都会添加新的露营地，可以在新页面上查看。如果你愿意，可以在任何露营地上点击 upvote，在首页查看最受好评的露营地。. | :grey_question: |
 | [Thumbsnap](https://www.thataicollection.com/redirect/thumbsnap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 艺术生成器！由稳定扩散提供支持-ThumbSnap-免费照片和视频托管. | 免费照片和视频托管。无限上传，每张图片最多 48MB，包括批量上传。立即上传并分享您的照片。. | :white_check_mark: |

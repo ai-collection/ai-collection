@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1073" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1075" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=42" />
@@ -53,21 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
-    </a>
-    <h4>Начните общаться бесплатно с помощью нашего страшно быстрого движка персонажей NSFW AI. Более 7500 наших секс-персонажей с искусственным интеллектом это поняли, игривые и отзывчивые. Искусственный интеллект без цензуры, никаких суждений. Все в ваших руках.</h4>
-    <p>Разнообразие от доминирующих до покорных и не только. Заходите прямо сейчас, чтобы получать доступ к секстингу с искусственным интеллектом в режиме 24/7 и пикантным чатам, которые заставят вас затаить дыхание.
-
-Сегодня от ваших самых смелых мечтаний вас отделяет всего один клик!</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
     </a>
@@ -89,6 +74,21 @@
     <h4>Podwise, ведущее приложение для обучения искусственному интеллекту для слушателей подкастов.</h4>
     <p>С помощью Podwise вы можете учиться на структурированных знаниях и выборочно слушать интересующие вас главы. Эта функция позволяет оптимизировать учебный процесс и сосредоточиться на наиболее важном для вас контенте.</p>
     <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Podwise</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    </a>
+    <h4>Начните общаться бесплатно с помощью нашего страшно быстрого движка персонажей NSFW AI. Более 7500 наших секс-персонажей с искусственным интеллектом это поняли, игривые и отзывчивые. Искусственный интеллект без цензуры, никаких суждений. Все в ваших руках.</h4>
+    <p>Разнообразие от доминирующих до покорных и не только. Заходите прямо сейчас, чтобы получать доступ к секстингу с искусственным интеллектом в режиме 24/7 и пикантным чатам, которые заставят вас затаить дыхание.
+
+Сегодня от ваших самых смелых мечтаний вас отделяет всего один клик!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -153,6 +153,57 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### iTextMaster
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-itextmaster.webp" alt="iTextMaster">
+
+#### Инструменты анализа текста, суммирования и чата на основе искусственного интеллекта
+[Visit](https://www.thataicollection.com/redirect/itextmaster?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+iTextMaster — это комплексный PDF-инструмент на основе ChatGPT, который отвечает вашим потребностям в быстром чтении и позволяет легко вести интеллектуальные беседы с PDF-документами. 
+Кроме того, iTextMaster также поддерживает онлайн-обобщение веб-страниц и чат, которые могут удовлетворить ваши разнообразные потребности.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/itextmaster?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### TattoosGenerator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tattoosgenerator.webp" alt="TattoosGenerator">
+
+#### Откройте для себя новое вдохновение для чернил с помощью нашего генератора татуировок на базе искусственного интеллекта.
+[Visit](https://www.thataicollection.com/redirect/tattoosgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Откройте для себя новое вдохновение, вдохновляющее вас чернилами, с помощью нашего генератора татуировок на базе искусственного интеллекта — идеального источника персонализированных идей для татуировок, в котором ваше видение сочетается с творческим подходом к искусственному интеллекту для создания поистине уникального дизайна.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/tattoosgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Code to Flow
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-code-to-flow.webp" alt="Code to Flow">
+
+#### Визуализируйте, анализируйте и анализируйте поток кода. Превратите код в интерактивные блок-схемы с помощью искусственного интеллекта. Мгновенно упростите сложную логику.
+[Visit](https://www.thataicollection.com/redirect/code-to-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Codetoflow позволяет понять код простым языком с помощью блок-схемы, которая позволяет понять детали и нюансы кода путем его визуализации.
+
+Это может быть использовано разработчиками всех уровней для улучшения понимания существующего кода.
+
+Поддерживаются почти все основные языки: Python, Javascript, Typescript, Java, C, C++ и все основные языки и фреймворки
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/code-to-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Deft
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft">
 
@@ -212,51 +263,6 @@ Humanize AI Text — это бесплатный онлайн-инструмен
 Окунитесь в мир, где девушки, созданные искусственным интеллектом, оживают, заманивают вас изображениями NSFW и участвуют в зажигательных разговорах. Создайте подругу своей мечты с искусственным интеллектом, общайтесь с ней круглосуточно и без выходных и позвольте волшебству связей, основанных на искусственном интеллекте, пробудить ваши желания.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/glam-girls-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Wallpaperee
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wallpaperee.webp" alt="Wallpaperee">
-
-#### Создавайте мобильные обои с искусственным интеллектом со своим именем
-[Visit](https://www.thataicollection.com/redirect/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Создавайте фотореалистичные обои под своим именем. Вы когда-нибудь представляли себе ваше имя, испепеляющее в сильном пламени? Мы вас поняли, бросьте его так, как будто жарко! Или, может быть, вы скорее королева или король кристаллов льда? Твое имя может сверкать на морозном льду. Так что давай, зажги его! 🔥
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Odyssey
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-odyssey.webp" alt="Odyssey">
-
-#### Объединяйте модели искусственного интеллекта без единой строки кода.
-[Visit](https://www.thataicollection.com/redirect/odyssey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-В одном простом и интуитивно понятном приложении для Mac вы можете запускать модели искусственного интеллекта, такие как Stable Diffusion и LLM, локально, а затем подключать эти модели к целому ряду простых инструментов и API для обработки изображений и текста. Узлы с функцией перетаскивания и мощные готовые рабочие процессы делают Odyssey самым простым способом создавать великолепные произведения искусства, повышать производительность и экспериментировать с искусственным интеллектом в одном простом приложе
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/odyssey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### animeBuilder
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-animebuilder.webp" alt="animeBuilder">
-
-#### Откройте для себя наши бесплатные онлайн-инструменты для простого преобразования изображений в стиле аниме и создания художественных изображений из текста. Раскройте свой творческий потенциал без особых усилий!
-[Visit](https://www.thataicollection.com/redirect/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Вы можете конвертировать изображения в стиле аниме или использовать текст для создания изображений в различных стилях. Эти функции можно использовать бесплатно в Интернете.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1073" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1075" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
+    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -76,19 +89,6 @@
 
 它非常准确，并且有大量样式可供选择。非常适合作为灵感、室内设计、舞台照片等。</p>
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Deft</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
-    </a>
-    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
-    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
     <br />
 </div>
 
@@ -153,6 +153,57 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### iTextMaster
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-itextmaster.webp" alt="iTextMaster">
+
+#### 人工智能驱动的文本分析、摘要和聊天工具
+[Visit](https://www.thataicollection.com/redirect/itextmaster?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+iTextMaster是一款基于ChatGPT的综合PDF工具，它可以满足您的快速阅读需求，同时允许您轻松地与PDF文档进行智能对话。 
+此外，iTextMaster还支持在线网页摘要和聊天，可以满足您的多样化需求。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/itextmaster?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### TattoosGenerator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tattoosgenerator.webp" alt="TattoosGenerator">
+
+#### 使用我们的 AI 驱动的纹身生成器发现您的下一个墨水灵感。
+[Visit](https://www.thataicollection.com/redirect/tattoosgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用我们的 AI 驱动的纹身生成器发现您的下一个墨水灵感，这是个性化纹身创意的终极来源，将您的愿景与 AI 创意相结合，打造出真正独特的设计。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/tattoosgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Code to Flow
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-code-to-flow.webp" alt="Code to Flow">
+
+#### 可视化、分析和理解您的代码流。使用 AI 将代码转换为交互式流程图。立即简化复杂逻辑。
+[Visit](https://www.thataicollection.com/redirect/code-to-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Codetoflow 使您能够使用流程图以简单的术语理解代码，从而通过可视化来了解代码的细节和细微差别。
+
+所有级别的开发人员都可以使用它来提高对现有代码的理解。
+
+几乎支持所有主要语言：Python、Javascript、Typescript、Java、C、C++ 以及所有主要语言和框架
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/code-to-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Deft
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft">
 
@@ -212,51 +263,6 @@ Humanize AI Text 是一款免费的在线工具，旨在将人工智能生成的
 进入一个让人工智能生成的女孩变为现实的世界，用NSFW的图像吸引你，参与激烈的对话。打造你梦寐以求的人工智能女友，全天候与他们联系，让人工智能驱动的连接的魔力点燃你的欲望。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/glam-girls-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Wallpaperee
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wallpaperee.webp" alt="Wallpaperee">
-
-#### 用你的名字创建移动 AI 壁纸
-[Visit](https://www.thataicollection.com/redirect/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-用你的名字创建逼真的壁纸。有没有想过你的名字在烈火中燃烧？我们抓到你了，像很热一样把它丢掉！或者也许你更像冰晶女王或国王？你的名字可以在冰雪中闪闪发光。所以来吧，把它点亮！🔥
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Odyssey
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-odyssey.webp" alt="Odyssey">
-
-#### 无需一行代码即可连接 AI 模型。
-[Visit](https://www.thataicollection.com/redirect/odyssey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在一个简单直观的 Mac 应用程序中，你可以在本地运行 Stable Diffusion 和 LLM 等人工智能模型，然后将这些模型连接到一大堆简单的图像和文本处理工具和 API。拖放节点和强大的预建工作流程使 Odyssey 成为创作精彩艺术品、提高工作效率和试验 AI 的最简单方法，所有这些都可以在一个简单的应用程序中完成。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/odyssey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### animeBuilder
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-animebuilder.webp" alt="animeBuilder">
-
-#### 探索我们的免费在线工具，轻松将图片转换为动漫风格，并从文本生成艺术图像。毫不费力地释放你的创造力！
-[Visit](https://www.thataicollection.com/redirect/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-您可以将图片转换为动漫风格，或使用文本生成各种风格的图片。这些功能可在线免费使用。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

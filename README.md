@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1073" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1075" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=42" />
@@ -159,6 +159,57 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### iTextMaster
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-itextmaster.webp" alt="iTextMaster">
+
+#### AI driven text analysis, summarization, and chat tools
+[Visit](https://www.thataicollection.com/redirect/itextmaster?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+iTextMaster is a comprehensive PDF tool based on ChatGPT, which meets your fast reading needs while allowing you to easily engage in intelligent conversations with PDF documents. 
+In addition, iTextMaster also supports online webpage summarization and chat, which can meet your diverse needs.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/itextmaster?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### TattoosGenerator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tattoosgenerator.webp" alt="TattoosGenerator">
+
+#### Discover your next ink inspiration with our AI-Powered Tattoo Generator.
+[Visit](https://www.thataicollection.com/redirect/tattoosgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Discover your next ink inspiration with our AI-Powered Tattoo Generator, your ultimate source for personalized tattoo ideas, blending your vision with AI creativity for a truly unique design.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/tattoosgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Code to Flow
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-code-to-flow.webp" alt="Code to Flow">
+
+#### Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
+[Visit](https://www.thataicollection.com/redirect/code-to-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Codetoflow enables you to understand the code in simple terms using a flowchart which enables you to understand the details and nuances of the code by visualizing it.
+
+This can be used by developers of all levels to improve the understanding of existing code.
+
+Almost all major languages supported: Python, Javascript, Typescript, Java, C, C++ and all major languages and frameworks
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/code-to-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Deft
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft">
 
@@ -222,51 +273,6 @@ Enter a world where AI generated girls come to life, enticing you with NSFW imag
 <br />
 
 
-
-
-### Wallpaperee
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wallpaperee.webp" alt="Wallpaperee">
-
-#### Create mobile AI wallpapers with your name
-[Visit](https://www.thataicollection.com/redirect/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Create photorealistic wallpapers out of your name. Ever imagined your name sizzling in intense flames? We got you, drop it like it's hot! Or maybe you're more of an ice-crystal queen or king? Your name can sparkle in frosty ice. So come on, make it lit! 🔥
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Odyssey
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-odyssey.webp" alt="Odyssey">
-
-#### Connect AI models without a single line of code.
-[Visit](https://www.thataicollection.com/redirect/odyssey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-In one simple, intuitive Mac app you can run AI models like Stable Diffusion and LLMs locally then connect those models to a whole bunch of simple image and text processing tools and APIs. Drag-and-drop nodes and powerful, pre-built workflows make Odyssey the easiest way to create great art, increase your productivity, and experiment with AI all in one simple app.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/odyssey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### animeBuilder
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-animebuilder.webp" alt="animeBuilder">
-
-#### Discover our free online tools to easily convert pictures into anime style and generate artistic images from text. Unleash your creativity effortlessly!
-[Visit](https://www.thataicollection.com/redirect/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-You can convert pictures into anime style, or use text to generate pictures in various styles.These features are free to use online.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ## Accounting & Finance
