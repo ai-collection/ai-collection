@@ -53,21 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
-    </a>
-    <h4>Начните общаться бесплатно с помощью нашего страшно быстрого движка персонажей NSFW AI. Более 7500 наших секс-персонажей с искусственным интеллектом это поняли, игривые и отзывчивые. Искусственный интеллект без цензуры, никаких суждений. Все в ваших руках.</h4>
-    <p>Разнообразие от доминирующих до покорных и не только. Заходите прямо сейчас, чтобы получать доступ к секстингу с искусственным интеллектом в режиме 24/7 и пикантным чатам, которые заставят вас затаить дыхание.
-
-Сегодня от ваших самых смелых мечтаний вас отделяет всего один клик!</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
     </a>
@@ -83,8 +68,23 @@
 
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    </a>
+    <h4>Начните общаться бесплатно с помощью нашего страшно быстрого движка персонажей NSFW AI. Более 7500 наших секс-персонажей с искусственным интеллектом это поняли, игривые и отзывчивые. Искусственный интеллект без цензуры, никаких суждений. Все в ваших руках.</h4>
+    <p>Разнообразие от доминирующих до покорных и не только. Заходите прямо сейчас, чтобы получать доступ к секстингу с искусственным интеллектом в режиме 24/7 и пикантным чатам, которые заставят вас затаить дыхание.
+
+Сегодня от ваших самых смелых мечтаний вас отделяет всего один клик!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics.webp" alt="Cliptics" border="0"/>
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
     </a>
     <h4>Cliptics, бесплатный перевод текста в речь! Ваши слова, наши голоса.</h4>
     <p>Представляем Cliptics, вашего идеального помощника для простого преобразования текста в естественную речь. Независимо от того, являетесь ли вы студентом, желающим улучшить свои учебные материалы, создателем контента, ищущим инновационные способы привлечения аудитории, или просто тем, кто предпочитает слушать, а не читать, Cliptics предлагает идеальное решение. Cliptics — это место, где слова оживают по вашему усмотрению и бесплатно</p>
@@ -153,8 +153,38 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### SeaArt.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-seaart.ai.webp" alt="SeaArt.AI">
+
+#### SeaArt Al-A первый бесплатный генератор изображений Al 
+[Visit](https://www.thataicollection.com/redirect/seaart.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SeaArt AI-A — лучший бесплатный генератор искусственного интеллекта. Погрузитесь в процветающее сообщество разработчиков искусственного интеллекта и изучите более 200 тысяч моделей и стилей. От искусства до иллюстраций и картин — SeaArt без труда расширяет ваши творческие способности!
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/seaart.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### WriteText.ai for WooCommerce
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writetext.ai-for-woocommerce.webp" alt="WriteText.ai for WooCommerce">
+
+#### WriteText.ai для WooCommerce — это специально разработанный плагин для WordPress и WooCommerce, направленный на автоматизацию создания описания продукта и метаинформации.
+[Visit](https://www.thataicollection.com/redirect/writetext.ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Программа WriteText.ai для WooCommerce, интегрированная с платформой WordPress/WooCommerce, удобна в использовании и очень полезна для новичков. Он специализируется на создании отличных метазаголовков, описаний, сведений о продуктах и текстов Open Graph в двух рабочих режимах: «WriteText.ai Single» и «WriteText.ai Bulk». 
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/writetext.ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Cliptics
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics.webp" alt="Cliptics">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics">
 
 #### Cliptics, бесплатный перевод текста в речь! Ваши слова, наши голоса.
 [Visit](https://www.thataicollection.com/redirect/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -230,39 +260,6 @@ Codetoflow позволяет понять код простым языком с
 Он очень точный, и вы можете выбирать из множества стилей. Отлично подходит для вдохновения, дизайна интерьера, постановки фотографий и многого другого.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Humanize AI Text
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-humanize-ai-text.webp" alt="Humanize AI Text">
-
-#### Humanize AI Text - бесплатный конвертер текста из искусственного интеллекта в человеческий текст
-[Visit](https://www.thataicollection.com/redirect/humanize-ai-text?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Humanize AI Text — это бесплатный онлайн-инструмент, предназначенный для преобразования текста, созданного искусственным интеллектом, в более человечную форму. Обойдите искусственный интеллект и приведите свой контент в соответствие со стандартами человеческого письма.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/humanize-ai-text?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Presentation API
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presentation-api.webp" alt="Presentation API">
-
-#### Presentation API — это простой в использовании API для создания презентаций, который можно добавлять в свои приложения и веб-сайты.
-
-Полное описание
-[Visit](https://www.thataicollection.com/redirect/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Представляем Presentation API, самый простой API на базе искусственного интеллекта, который можно использовать для добавления возможности создания презентаций в ваше приложение или веб-сайт.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4366,7 +4363,7 @@ namewizard — это генератор, который использует и
 ## Текст в речь
 
 ### Cliptics
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics.webp" alt="Cliptics">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics">
 
 #### Cliptics, бесплатный перевод текста в речь! Ваши слова, наши голоса.
 [Visit](https://www.thataicollection.com/redirect/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)

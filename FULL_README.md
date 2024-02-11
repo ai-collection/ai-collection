@@ -59,14 +59,12 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
     </a>
-    <h4>Deft Imagine - Restyle a home in 10 seconds or less. Inspiration, interior design, staging, and more.</h4>
-    <p>Restyle a home in 10 seconds or less. Then, you can use our search engine to find the products in the photos. 
-
-It is highly accurate, and there are tons of styles that you can choose from. Great for inspiration, interior design, staging photos, and more.</p>
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Deft</b></a>
+    <h4>Cliptics, Free Text to speech! Your words, our Voices.</h4>
+    <p>Introducing Cliptics, your ultimate companion for converting text into natural-sounding speech effortlessly. Whether you're a student looking to enhance your study materials, a content creator seeking innovative ways to engage your audience, or simply someone who prefers listening over reading, Cliptics offers a seamless solution. Cliptics –where words come to life at your command, free of charge</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Cliptics</b></a>
     <br />
 </div>
 
@@ -89,12 +87,14 @@ Your wildest dreams are just a click away today!</p>
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics.webp" alt="Cliptics" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
     </a>
-    <h4>Cliptics, Free Text to speech! Your words, our Voices.</h4>
-    <p>Introducing Cliptics, your ultimate companion for converting text into natural-sounding speech effortlessly. Whether you're a student looking to enhance your study materials, a content creator seeking innovative ways to engage your audience, or simply someone who prefers listening over reading, Cliptics offers a seamless solution. Cliptics –where words come to life at your command, free of charge</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Cliptics</b></a>
+    <h4>Deft Imagine - Restyle a home in 10 seconds or less. Inspiration, interior design, staging, and more.</h4>
+    <p>Restyle a home in 10 seconds or less. Then, you can use our search engine to find the products in the photos. 
+
+It is highly accurate, and there are tons of styles that you can choose from. Great for inspiration, interior design, staging photos, and more.</p>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Deft</b></a>
     <br />
 </div>
 
@@ -317,6 +317,7 @@ Your wildest dreams are just a click away today!</p>
 | [Renderflux](https://www.thataicollection.com/redirect/renderflux?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Renderflux - Design With AI. | Start creating beautiful art in seconds. Don't worry about the technical stuff, we've got you covered. | :grey_question: |
 | [RunDiffusion](https://www.thataicollection.com/redirect/rundiffusion?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Rundiffusion - Stable Diffusion Workspace in 3 Minutes. | No code to fiddle with, nothing to install. Get a private Stable Diffusion workspace in very little time. Start creating AI Generated art in a little as 3 minutes. | :white_check_mark: |
 | [SDXL TURBO ONLINE](https://www.thataicollection.com/redirect/sdxl-turbo-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generate high-quality images in seconds. | SDXL Turbo is based on a novel distillation technique called Adversarial Diffusion Distillation (ADD), which can quickly generate high-quality images. | :white_check_mark: |
+| [SeaArt.AI](https://www.thataicollection.com/redirect/seaart.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SeaArt Al-A premier free Al art generator. | SeaArt AI-A premier free AI art generator. Dive into a thriving AI content community and explore over 200K+ models and styles. From art to illustrations and paintings, SeaArt effortlessly enhances your creativity!. | :white_check_mark: |
 | [Seek art](https://www.thataicollection.com/redirect/seek-art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create Astounding AI Art. | Explore, collect, and share. No cost to start. Free credits every day. | :white_check_mark: |
 | [SeeYourBabyAI](https://www.thataicollection.com/redirect/seeyourbabyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ever wondered what your future baby might look like? Now you don't need to, you can see it!. | Ever wondered what your future baby might look like? See Your Baby uses the power of AI to give you a glimpse into your child's face, even before they're born. This tool takes photos of you and your partner, then uses them to generate images of both a boy and a girl.  We analyze your facial features, skin tone, hair texture, and other characteristics, then blends them together to achieve this. | :grey_question: |
 | [Short Description Image Generator](https://www.thataicollection.com/redirect/short-description-image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Short Description Image Generator. | From a short description and based on the database from MagicPrompt-Stable-Diffusion from HuggingFace + the API of StableDiffusion; images can be created based on few words. | :grey_question: |
@@ -623,6 +624,7 @@ Your wildest dreams are just a click away today!</p>
 | [Octie.ai](https://www.thataicollection.com/redirect/octie.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Octie.Ai - Your A.I. Ecommerce Marketing Assistant. | Write emails, product descriptions, and more, with A.I. Created by Octane AI. | :grey_question: |
 | [VModel](https://www.thataicollection.com/redirect/vmodel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | VModel is an AI fashion models generator for efficient & cost-effective on-model photography. It boosts retail success by reducing model photography costs by 90%. | VModel utilizes artificial intelligence technology to generate virtual fashion models, replacing the need for real-world fashion models. These virtual models are used to create product photos for clothing items, which are then showcased on e-commerce platforms. | :white_check_mark: |
 | [Wizishop](https://www.thataicollection.com/redirect/wizishop?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Grow Your Business With Seo-Powered Ecommerce. | WiziShop makes SEO-powered ecommerce easier than ever before, bringing success within reach. Artificial Intelligence at the service of your ecommerce business!. | :white_check_mark: |
+| [WriteText.ai for WooCommerce](https://www.thataicollection.com/redirect/writetext.ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | WriteText.ai for WooCommerce is a custom-designed plugin for WordPress and WooCommerce aimed at automating the creation of product description and meta information. | Being integrated with Wordpress/WooCommerce platform, WriteText.ai for WooCommerce is user-friendly and highly useful for beginners. It specializes in generating excellent meta titles, descriptions, product details, and Open Graph texts in two operative modes - 'WriteText.ai Single' and 'WriteText.ai Bulk'. | :white_check_mark: |
 | [Zust AI](https://www.thataicollection.com/redirect/zust-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The ultimate AI platform for Product Photoshoot. | Create stunning studio-quality product images instantly using AI. Unleash creativity, save time, and captivate your audience effortlessly. | :white_check_mark: |
 
 

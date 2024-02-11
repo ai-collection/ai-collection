@@ -59,14 +59,12 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
     </a>
-    <h4>Deft Imagine - Restyle a home in 10 seconds or less. Inspiration, interior design, staging, and more.</h4>
-    <p>Restyle a home in 10 seconds or less. Then, you can use our search engine to find the products in the photos. 
-
-It is highly accurate, and there are tons of styles that you can choose from. Great for inspiration, interior design, staging photos, and more.</p>
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Deft</b></a>
+    <h4>Cliptics, Free Text to speech! Your words, our Voices.</h4>
+    <p>Introducing Cliptics, your ultimate companion for converting text into natural-sounding speech effortlessly. Whether you're a student looking to enhance your study materials, a content creator seeking innovative ways to engage your audience, or simply someone who prefers listening over reading, Cliptics offers a seamless solution. Cliptics –where words come to life at your command, free of charge</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Cliptics</b></a>
     <br />
 </div>
 
@@ -89,12 +87,14 @@ Your wildest dreams are just a click away today!</p>
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics.webp" alt="Cliptics" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
     </a>
-    <h4>Cliptics, Free Text to speech! Your words, our Voices.</h4>
-    <p>Introducing Cliptics, your ultimate companion for converting text into natural-sounding speech effortlessly. Whether you're a student looking to enhance your study materials, a content creator seeking innovative ways to engage your audience, or simply someone who prefers listening over reading, Cliptics offers a seamless solution. Cliptics –where words come to life at your command, free of charge</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Cliptics</b></a>
+    <h4>Deft Imagine - Restyle a home in 10 seconds or less. Inspiration, interior design, staging, and more.</h4>
+    <p>Restyle a home in 10 seconds or less. Then, you can use our search engine to find the products in the photos. 
+
+It is highly accurate, and there are tons of styles that you can choose from. Great for inspiration, interior design, staging photos, and more.</p>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Deft</b></a>
     <br />
 </div>
 
@@ -159,8 +159,38 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### SeaArt.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-seaart.ai.webp" alt="SeaArt.AI">
+
+#### SeaArt Al-A premier free Al art generator 
+[Visit](https://www.thataicollection.com/redirect/seaart.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SeaArt AI-A premier free AI art generator. Dive into a thriving AI content community and explore over 200K+ models and styles. From art to illustrations and paintings, SeaArt effortlessly enhances your creativity!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/seaart.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### WriteText.ai for WooCommerce
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writetext.ai-for-woocommerce.webp" alt="WriteText.ai for WooCommerce">
+
+#### WriteText.ai for WooCommerce is a custom-designed plugin for WordPress and WooCommerce aimed at automating the creation of product description and meta information.
+[Visit](https://www.thataicollection.com/redirect/writetext.ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Being integrated with Wordpress/WooCommerce platform, WriteText.ai for WooCommerce is user-friendly and highly useful for beginners. It specializes in generating excellent meta titles, descriptions, product details, and Open Graph texts in two operative modes - 'WriteText.ai Single' and 'WriteText.ai Bulk'. 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/writetext.ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Cliptics
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics.webp" alt="Cliptics">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics">
 
 #### Cliptics, Free Text to speech! Your words, our Voices.
 [Visit](https://www.thataicollection.com/redirect/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -240,39 +270,6 @@ It is highly accurate, and there are tons of styles that you can choose from. Gr
 <br />
 
 
-
-
-### Humanize AI Text
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-humanize-ai-text.webp" alt="Humanize AI Text">
-
-#### Humanize AI Text - Free AI to Human Text Converter
-[Visit](https://www.thataicollection.com/redirect/humanize-ai-text?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Humanize AI Text is a free online tool designed to convert AI-generated text into a more human-like form. Bypass AI detection and elevate your content to human writing standards.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/humanize-ai-text?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Presentation API
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presentation-api.webp" alt="Presentation API">
-
-#### Presentation API is an easy-to-use API for presentation generation that you can add to your apps and websites.
-
-Long Description
-[Visit](https://www.thataicollection.com/redirect/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Introducing Presentation API, the easiest AI-Powered API that can be used to add presentation-generating ability to your app or website.
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ## Accounting & Finance
@@ -4374,7 +4371,7 @@ AI Powered Chat Apps for Everyone
 ## Text To Speech
 
 ### Cliptics
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics.webp" alt="Cliptics">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics">
 
 #### Cliptics, Free Text to speech! Your words, our Voices.
 [Visit](https://www.thataicollection.com/redirect/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)

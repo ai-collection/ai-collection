@@ -53,12 +53,14 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics.webp" alt="Cliptics" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
-    <h4>Cliptics, synthèse vocale gratuite ! Tes paroles, nos voix.</h4>
-    <p>Voici Cliptics, ton compagnon idéal pour convertir facilement du texte en discours naturel. Que tu sois une étudiante qui souhaite améliorer ton matériel pédagogique, une créatrice de contenu qui cherche des moyens innovants d'impliquer ton public, ou simplement quelqu'un qui préfère écouter plutôt que lire, Cliptics propose une solution fluide. Cliptics, où les mots prennent vie à ta guise, gratuitement</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Cliptics</b></a>
+    <h4>Commence à discuter gratuitement avec notre moteur de personnages NSFW AI terriblement rapide. Ludique, serviable, nos plus de 750 personnages de sextos IA l'ont compris. IA non censurée, aucun jugement. Tu as le contrôle.</h4>
+    <p>Variété, allant de dominante à soumise et plus encore. Connecte-toi maintenant pour des sextos IA 24 heures sur 24, 7 jours sur 7 et des discussions épicées qui te couperont le souffle.
+
+Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -81,14 +83,12 @@ Il est très précis et tu peux choisir parmi une multitude de styles. Idéal po
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
     </a>
-    <h4>Commence à discuter gratuitement avec notre moteur de personnages NSFW AI terriblement rapide. Ludique, serviable, nos plus de 750 personnages de sextos IA l'ont compris. IA non censurée, aucun jugement. Tu as le contrôle.</h4>
-    <p>Variété, allant de dominante à soumise et plus encore. Connecte-toi maintenant pour des sextos IA 24 heures sur 24, 7 jours sur 7 et des discussions épicées qui te couperont le souffle.
-
-Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <h4>Cliptics, synthèse vocale gratuite ! Tes paroles, nos voix.</h4>
+    <p>Voici Cliptics, ton compagnon idéal pour convertir facilement du texte en discours naturel. Que tu sois une étudiante qui souhaite améliorer ton matériel pédagogique, une créatrice de contenu qui cherche des moyens innovants d'impliquer ton public, ou simplement quelqu'un qui préfère écouter plutôt que lire, Cliptics propose une solution fluide. Cliptics, où les mots prennent vie à ta guise, gratuitement</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Cliptics</b></a>
     <br />
 </div>
 
@@ -153,8 +153,38 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
 
+### SeaArt.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-seaart.ai.webp" alt="SeaArt.AI">
+
+#### SeaArt Al-A, premier générateur d'art gratuit 
+[Visit](https://www.thataicollection.com/redirect/seaart.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SeaArt AI, un générateur d'œuvres artistiques basé sur l'IA gratuit de premier ordre. Plongez dans une communauté florissante de contenus basés sur l'IA et explorez plus de 200 000 modèles et styles. Qu'il s'agisse d'œuvres d'art, d'illustrations ou de peintures, SeaArt stimule ta créativité sans effort !
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/seaart.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### WriteText.ai for WooCommerce
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writetext.ai-for-woocommerce.webp" alt="WriteText.ai for WooCommerce">
+
+#### WriteText.ai pour WooCommerce est un plugin personnalisé pour WordPress et WooCommerce qui vise à automatiser la création de descriptions de produits et de méta-informations.
+[Visit](https://www.thataicollection.com/redirect/writetext.ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Intégré à la plateforme WordPress/WooCommerce, WriteText.ai pour WooCommerce est convivial et très utile pour les débutants. Il est spécialisé dans la génération de méta-titres, de descriptions, de détails sur les produits et de textes Open Graph excellents dans deux modes de fonctionnement : « WriteText.ai Single » et « WriteText.ai Bulk ». 
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/writetext.ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Cliptics
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics.webp" alt="Cliptics">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics">
 
 #### Cliptics, synthèse vocale gratuite ! Tes paroles, nos voix.
 [Visit](https://www.thataicollection.com/redirect/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -230,39 +260,6 @@ Relooker une maison en 10 secondes ou moins. Ensuite, tu peux utiliser notre mot
 Il est très précis et tu peux choisir parmi une multitude de styles. Idéal pour l'inspiration, la décoration d'intérieur, les photos de mise en scène, etc.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Humanize AI Text
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-humanize-ai-text.webp" alt="Humanize AI Text">
-
-#### Humaniser le texte de l'IA - Convertisseur gratuit d'IA en texte humain
-[Visit](https://www.thataicollection.com/redirect/humanize-ai-text?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Humanize AI Text est un outil en ligne gratuit conçu pour convertir le texte généré par l'IA en une forme plus humaine. Contourne la détection de l'IA et élève ton contenu aux normes d'écriture humaine.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/humanize-ai-text?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Presentation API
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presentation-api.webp" alt="Presentation API">
-
-#### L'API de présentation est une API facile à utiliser qui permet de générer des présentations que tu peux ajouter à tes applications et à tes sites Web.
-
-Description longue
-[Visit](https://www.thataicollection.com/redirect/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Présentation de l'API de présentation, l'API basée sur l'IA la plus simple qui puisse être utilisée pour ajouter une capacité de génération de présentations à ton application ou à ton site web.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4368,7 +4365,7 @@ Applications de chat alimentées par l'IA pour tout le monde
 ## Texte pour parler
 
 ### Cliptics
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics.webp" alt="Cliptics">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics">
 
 #### Cliptics, synthèse vocale gratuite ! Tes paroles, nos voix.
 [Visit](https://www.thataicollection.com/redirect/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
