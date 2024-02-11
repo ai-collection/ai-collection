@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1075" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1077" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=42" />
@@ -53,21 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
-    </a>
-    <h4>हमारे डरावने तेज़ NSFW AI कैरेक्टर इंजन के साथ मुफ़्त में चैट करना शुरू करें। चंचल, मददगार, हमारे 7500+ AI सेक्सटिंग कैरेक्टर्स को यह समझ में आया। बिना सेंसर किया हुआ AI, कोई फ़ैसला नहीं। तुम कंट्रोल में हो।</h4>
-    <p>डोमिनेंट से लेकर विनम्र और उससे आगे तक कई तरह की विविधताएं। 24/7 एआई सेक्सटिंग और मसालेदार चैट के लिए अभी साइन इन करें, जिससे तुम्हारी सांसें फूल जाएँगी।
-
-तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
     </a>
@@ -76,6 +61,21 @@
 
 यह बहुत सटीक है, और ऐसे बहुत सारे स्टाइल हैं जिन्हें तुम चुन सकते हो। प्रेरणा, इंटीरियर डिज़ाइन, फ़ोटो के मंचन, और बहुत कुछ के लिए बहुत अच्छा है।</p>
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Deft के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    </a>
+    <h4>हमारे डरावने तेज़ NSFW AI कैरेक्टर इंजन के साथ मुफ़्त में चैट करना शुरू करें। चंचल, मददगार, हमारे 7500+ AI सेक्सटिंग कैरेक्टर्स को यह समझ में आया। बिना सेंसर किया हुआ AI, कोई फ़ैसला नहीं। तुम कंट्रोल में हो।</h4>
+    <p>डोमिनेंट से लेकर विनम्र और उससे आगे तक कई तरह की विविधताएं। 24/7 एआई सेक्सटिंग और मसालेदार चैट के लिए अभी साइन इन करें, जिससे तुम्हारी सांसें फूल जाएँगी।
+
+तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -965,6 +965,7 @@
 |---|---|---|:---:|
 | [AI Voice Generator](https://www.thataicollection.com/redirect/ai-voice-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई वॉयस जेनरेटर: फ्री टेक्स्ट-टू-स्पीच एआई वॉयस ओवर जेनरेटर. | जनरेटिव वॉयस एआई का उपयोग करके प्राकृतिक मानव-ध्वनि वाली आवाजों के साथ वॉयस ओवर उत्पन्न करें. | :white_check_mark: |
 | [Article.Audio](https://www.thataicollection.com/redirect/article.audio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लेख को ऑडियो में बदलें. | एक लेख पढ़ने के लिए बहुत आलसी? कोई बात नहीं, इसे सुनो! थंडरकंटेंट द्वारा संचालित. | :white_check_mark: |
+| [Cliptics](https://www.thataicollection.com/redirect/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | क्लिपटिक्स, बोलने के लिए मुफ़्त टेक्स्ट! तुम्हारे शब्द, हमारी आवाज़ें।. | पेश है क्लिपटिक्स, टेक्स्ट को आसानी से स्वाभाविक लगने वाली भाषा में बदलने के लिए तुम्हारा सबसे अच्छा साथी। चाहे तुम एक छात्र हो जो अपनी अध्ययन सामग्री को बेहतर बनाना चाहता हो, एक कंटेंट निर्माता हो जो अपने दर्शकों को आकर्षित करने के लिए नवोन्मेषी तरीके खोज रहा हो, या बस कोई ऐसा व्यक्ति जो सुनने से ज्यादा पढ़ना पसंद करता हो, क्लिपटिक्स एक आसान समाधान प्रदान करता है। क्लिपटिक्स —जहाँ तुम्हारे आदेश पर शब्द जीवंत हो जाते हैं, नि:शुल्क. | :white_check_mark: |
 | [Createaivoiceovers](https://www.thataicollection.com/redirect/createaivoiceovers?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टेक्स्ट टू स्पीच ऑनलाइन वॉइस जेनरेटर, टेक्स्ट टू स्पीच जनरेटर - यथार्थवादी आवाज़ें - AI वॉइस ओवर बनाएँ. | सजीव जैसी दिखने वाली आकर्षक आवाज़ की मदद से अपने टेक्स्ट को तेज़ी से बोलचाल में बदलें, जो तुम्हारे दर्शकों को पसंद आएगी। तुम्हारी स्क्रिप्ट रिकॉर्ड करवाने के लिए रिकॉर्डिंग स्टूडियो किराए पर लेने की ज़रूरत नहीं है।. | :white_check_mark: |
 | [ElevenLabs](https://www.thataicollection.com/redirect/eleven?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्राइम वॉयस एआई. | सबसे यथार्थवादी और बहुमुखी एआई भाषण सॉफ्टवेयर, कभी। ग्यारह कहानी कहने के लिए अंतिम उपकरण की तलाश करने वाले रचनाकारों और प्रकाशकों के लिए सबसे सम्मोहक, समृद्ध और जीवंत आवाजें लाता है।. | :white_check_mark: |
 | [FakeYou](https://www.thataicollection.com/redirect/fakeyou?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | FakeYou सेलिब्रिटी वॉइस जेनरेटर - FakeYou. | फ़ेक यू टेक्स्ट टू स्पीच वंडरलैंड है जहाँ तुम्हारे सभी सपने सच होते हैं। अपने पसंदीदा कैरेक्टर के ऑडियो या वीडियो बनाने के लिए FakeYou की नकली तकनीक का इस्तेमाल करें, जिसमें तुम कुछ भी कहना चाहो।. | :grey_question: |
