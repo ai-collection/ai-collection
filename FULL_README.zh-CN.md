@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1077" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1088" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -53,21 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
-    </a>
-    <h4>灵巧的想象力-在 10 秒或更短的时间内重新设计房屋。灵感、室内设计、舞台布置等等。</h4>
-    <p>在 10 秒或更短的时间内重新设计房屋。然后，您可以使用我们的搜索引擎在照片中查找产品。 
-
-它非常准确，并且有大量样式可供选择。非常适合作为灵感、室内设计、舞台照片等。</p>
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Deft</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -89,6 +74,21 @@
     <h4>Cliptics，免费文字转语音！你的话，我们的声音。</h4>
     <p>介绍Cliptics，它是您轻松将文本转换为自然语音的终极伴侣。无论你是想要增强学习材料的学生，还是寻求创新方式吸引受众的内容创作者，还是仅仅是喜欢听而不是阅读的人，Cliptics都能提供无缝的解决方案。Cliptics — 在你的指挥下，文字变为现实，免费</p>
     <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Cliptics</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
+    </a>
+    <h4>灵巧的想象力-在 10 秒或更短的时间内重新设计房屋。灵感、室内设计、舞台布置等等。</h4>
+    <p>在 10 秒或更短的时间内重新设计房屋。然后，您可以使用我们的搜索引擎在照片中查找产品。 
+
+它非常准确，并且有大量样式可供选择。非常适合作为灵感、室内设计、舞台照片等。</p>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Deft</b></a>
     <br />
 </div>
 
@@ -456,6 +456,7 @@
 | [Phygital](https://www.thataicollection.com/redirect/phygital?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 拥有超能力的创作者. | 基于节点的 AI 工作区，供创作者在没有代码的情况下使用神经网络。 （Α）. | :grey_question: |
 | [Quilt & Create](https://www.thataicollection.com/redirect/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Quilt & Create-营销文案应用程序信息. | 您的一站式互联网工具包可为战略决策提供支持。在几秒钟内制作 AI 生成的文本和图像，轻松创建个性化内容，与受众产生共鸣并反映您的品牌价值。. | :grey_question: |
 | [Runway](https://www.thataicollection.com/redirect/runway?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Runway - 下一代创作套件 - 快速制作内容所需的一切。. | 探索高级视频编辑功能，让您的创作更上一层楼。. | :white_check_mark: |
+| [SuperCarousels](https://www.thataicollection.com/redirect/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 快速为社交媒体创建轮播. | 几分钟内即可完成令人难以置信的旋转木马！我们使用人工智能来简化设计。非常适合不熟悉设计且时间短的内容创作者。瞬间创造并给人留下深刻印象！. | :white_check_mark: |
 | [TextSynth](https://www.thataicollection.com/redirect/textsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TextSynth 允许通过 REST API 和游乐场访问大型语言或文本到图像模型，例如 Llama2、Falcon、GPT-J、GPT-Neox、Flan-T5、M2M100、CodeGen、Stable Diffusion。. | TextSynth 使用自定义推理代码来更快地对标准 GPU 和 CPU 进行推理。该网站成立于 2020 年，是最早提供 GPT-2 语言模型访问权限的网站之一。基本服务是免费的，但价格有限。希望没有限制的用户可以为每个请求支付少量费用（参见我们的定价）。如果您需要定制支持，请联系我们：通过 textsynth dot com 联系我们。. | :white_check_mark: |
 | [Textunbox](https://www.thataicollection.com/redirect/textunbox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Textunbox-利用人工智能的力量！. | 使用您熟悉的工具和技术充分发挥 AI 的力量——使用浏览器或使用 API 实现自己的解决方案。. | :grey_question: |
 
@@ -664,6 +665,7 @@
 | [Broker One AI Engine](https://www.thataicollection.com/redirect/broker-one-ai-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Broker One AI 引擎是一款人工智能驱动的工具，可简化房地产业务。. | Broker One AI Engine 是一款最先进的人工智能工具，专为复杂的房地产世界而设计。这个创新平台将人工智能的力量与庞大而全面的房产数据集相结合，提供准确的房产估价并实现高效的房产浏览。 Broker One AI Engine 以其复杂的房产搜索功能脱颖而出。. | :white_check_mark: |
 | [Context Search](https://www.thataicollection.com/redirect/context-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 上下文-由人工智能驱动的音频和视频搜索 YouTube 播放列表中的内容。. | 在 YouTube 播放列表中搜索内容。 在整个 YouTube 播放列表或频道中轻松搜索特定的关键字或短语。专为内容创作者打造。. | :grey_question: |
 | [Everypixel](https://www.thataicollection.com/redirect/everypixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 图库图片搜索引擎-50 多个最佳来源-Everypixel. | 图库图片查找器适合所有讨厌劣库存照片的人。使用它可以以最低的价格找到最好的许可图片。超过 50 个图像来源。. | :grey_question: |
+| [Gptsapp.io](https://www.thataicollection.com/redirect/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创建 GPT 的门槛太低，使用户很难找到好的 GPT。因此，gptsapp.io已经组织了超过60万个最佳GPTs应用程序，并附有注册礼物。. | GPTSapp.io作为 “最佳GPTS应用程序” 脱颖而出，它为用户提供了一个独特的门户，可以发现基于GPT的高级应用程序并将其集成到他们的日常生活中。GptSapp.io 网站是探索自定义 ChatGPT 应用程序广阔世界的中心枢纽，使其成为个人和企业不可或缺的资源。. | :white_check_mark: |
 | [Lexii.ai](https://www.thataicollection.com/redirect/lexii.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 乐视网. | Lexii.ai 是一个 AI 搜索助手，可以回答问题并引用来源。. | :white_check_mark: |
 | [namefinder.ai](https://www.thataicollection.com/redirect/namefinder.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的业务和域名生成器. | 在 Namefinder，我们的目标是通过为他们的企业提出域名来节省人们的时间。我们通过根据他们的网站需要提出名称来做到这一点，在此之前我们检查域注册以仅提供可用的域名以供选择。全部由 Chat Gpt 提供支持。. | :white_check_mark: |
 | [OpenArt Photo Booth](https://www.thataicollection.com/redirect/openart-photo-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 发现并生成 AI 艺术 - OpenArt. | 搜索10M+提示，通过Stable Diffusion生成AI艺术，DALL·E 2。. | :white_check_mark: |
@@ -818,6 +820,7 @@
 ## 照片和图像编辑
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
+| [AI Face Analyzer-Beauty Score Calculator](https://www.thataicollection.com/redirect/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 人脸分析仪-美容分数计算器. | 美容分数计算器是一款人工智能面部分析器，可根据您上传的脸部照片提供客观的面部美容分数。. | :white_check_mark: |
 | [AI Image Enlarger](https://www.thataicollection.com/redirect/ai-image-enlarger?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 图像放大器放大和增强图像. | 一键式 AI 解决方案让您的照片更清晰、更清晰、更干净。提高图像分辨率而不损失质量。令人惊叹的质量和结果。将任何小图像放大到 2k 和 4k，而不会损失质量。锐化细节以改善图像的共享和打印视觉效果。照片增强对每个人来说都很容易！. | :white_check_mark: |
 | [AI Image Upscaler](https://www.thataicollection.com/redirect/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Image Upscaler-免费放大和增强您的照片. | 使用我们的 AI 工具将您的图像放大到 2 倍或 4 倍，而不会丢失任何纹理或细节。使用我们的超分辨率工具，让您的图像焕然一新。. | :white_check_mark: |
 | [animeBuilder](https://www.thataicollection.com/redirect/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 探索我们的免费在线工具，轻松将图片转换为动漫风格，并从文本生成艺术图像。毫不费力地释放你的创造力！. | 您可以将图片转换为动漫风格，或使用文本生成各种风格的图片。这些功能可在线免费使用。. | :white_check_mark: |
@@ -1459,6 +1462,7 @@
 | [LinkActions](https://www.thataicollection.com/redirect/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | LinkActions是您网站的全自动内部链接工具。. | LinkActions可以发现人们错过的内部链接，这样他们就可以在谷歌上获得更高的排名并增加自然流量。与其他仅适用于WordPress的工具不同，LinkActions适用于任何网络平台。. | :white_check_mark: |
 | [MarketingBlocks AI](https://www.thataicollection.com/redirect/marketingblocks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 营销的未来就在这里. | 类人一体的 AI 营销助理，可创建登陆页面、宣传视频、广告、营销文案、图形、电子邮件、画外音、博客文章、艺术等. | :grey_question: |
 | [Peppertype.ai](https://www.thataicollection.com/redirect/peppertype.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Peppertype.Ai-更快地创建高质量的内容. | Peppertype 变得更好了！ 利用人工智能平台来构思、创建、分发和衡量您的内容，并证明您的内容营销投资回报率. | :grey_question: |
+| [PH Deck](https://www.thataicollection.com/redirect/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 一目了然地查看 Everyday 的产品发布会. | 专为 Product Hunt 用户量身定制，通过 AI 和 YC 的成熟方法揭示市场趋势。结合 AI 技术和 YC 见解，为您重点介绍 Product Hunt 中的每日精彩内容。. | :white_check_mark: |
 | [Post Parrot](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Post Parrot-一款适用于 Reddit 的免费营销工具. | 想生成能提高参与度的 reddit 帖子标题？查看我们的免费数字营销工具，为有针对性的subreddits增强您的帖子标题。. | :white_check_mark: |
 | [Predis](https://www.thataicollection.com/redirect/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 轻松进行社交媒体营销-Predis.Ai. | Predis是一款用于社交媒体的人工智能营销工具，可帮助企业制作引人入胜的视频和图像内容，并获得基于人工智能的内容分析。. | :white_check_mark: |
 | [PressPulse AI](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 每天早上获取个性化的媒体报道线索。. | PressPulse AI 是一款由人工智能驱动的助手，每天提供个性化的记者请求和媒体机会。   我们的服务使忙碌的专业人士每天只需5分钟即可获得高权威的反向链接、新闻报道并扩大您作为思想领袖的自然影响力。  你可以访问包括《福布斯》、《时代》、《VentureBeat》、《Mashable》等热门出版物。. | :grey_question: |

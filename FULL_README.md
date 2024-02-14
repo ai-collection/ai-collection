@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1077" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1088" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=42" />
@@ -59,19 +59,6 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
-    </a>
-    <h4>Cliptics, Free Text to speech! Your words, our Voices.</h4>
-    <p>Introducing Cliptics, your ultimate companion for converting text into natural-sounding speech effortlessly. Whether you're a student looking to enhance your study materials, a content creator seeking innovative ways to engage your audience, or simply someone who prefers listening over reading, Cliptics offers a seamless solution. Cliptics –where words come to life at your command, free of charge</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Cliptics</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -95,6 +82,19 @@ Your wildest dreams are just a click away today!</p>
 
 It is highly accurate, and there are tons of styles that you can choose from. Great for inspiration, interior design, staging photos, and more.</p>
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Deft</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
+    </a>
+    <h4>Cliptics, Free Text to speech! Your words, our Voices.</h4>
+    <p>Introducing Cliptics, your ultimate companion for converting text into natural-sounding speech effortlessly. Whether you're a student looking to enhance your study materials, a content creator seeking innovative ways to engage your audience, or simply someone who prefers listening over reading, Cliptics offers a seamless solution. Cliptics –where words come to life at your command, free of charge</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Cliptics</b></a>
     <br />
 </div>
 
@@ -585,6 +585,7 @@ It is highly accurate, and there are tons of styles that you can choose from. Gr
 | [Phygital](https://www.thataicollection.com/redirect/phygital?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Creators with Superpowers. | Node-based AI workspace for creators to work with neural networks without code. (Alpha). | :grey_question: |
 | [Quilt & Create](https://www.thataicollection.com/redirect/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Quilt & Create - Marketing Copy App Info. | Your one-stop internet-enabled toolkit to power strategic decisions. Craft AI-generated text and images in seconds and effortlessly create personalised content that resonates with your audience and reflects your brand values. | :grey_question: |
 | [Runway](https://www.thataicollection.com/redirect/runway?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Runway - Next-Generation Creation Suite - Everything You Need to Make Content, Fast. | Discover advanced video editing capabilities to take your creations to the next level. | :white_check_mark: |
+| [SuperCarousels](https://www.thataicollection.com/redirect/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create carousels for social media fast with AI. | Incredible carousels in minutes! We use AI to simplify design. Ideal for content creators who are not familiar with design and are short on time. Create and impress in an instant!. | :white_check_mark: |
 | [TextSynth](https://www.thataicollection.com/redirect/textsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TextSynth provides access to large language or text-to-image models such as Llama2, Falcon, GPT-J, GPT-NeoX, Flan-T5, M2M100, CodeGen, Stable Diffusion thru a REST API and a playground. | TextSynth employs custom inference code to get faster inference on standard GPUs and CPUs. The site was founded in 2020 and was among the first to give access to the GPT-2 language model. The basic service is free but rate limited. Users wishing no limitation can pay a small amount per request (see our pricing). If you wish custom support, please contact us: contact at textsynth dot com. | :white_check_mark: |
 | [Textunbox](https://www.thataicollection.com/redirect/textunbox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TextUnbox - harness the power of AI!. | Harness the power of AI with tools and technologies that you know - use the browser or implement your own solution using the API. | :grey_question: |
 
@@ -970,6 +971,7 @@ It is highly accurate, and there are tons of styles that you can choose from. Gr
 ## Photo & Image Editing
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [AI Face Analyzer-Beauty Score Calculator](https://www.thataicollection.com/redirect/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Face Analyzer-Beauty Score Calculator. | The Beauty Score Calculator is an AI Face Analyzer that provides an objective facial beauty score based on the uploaded picture of your face. | :white_check_mark: |
 | [AI Image Enlarger](https://www.thataicollection.com/redirect/ai-image-enlarger?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Enlarge and Enhance Images With AI Image Enlarger. | One-click AI solution to Make Your Photos Sharper, Crisper, and Cleaner. Increase image resolution without losing quality. Stunning Quality and Result. Enlarge any small image to 2k and 4k without losing quality. Sharpen details to improve image's visual for sharing and printing. Photo Enhancement Made Easy for Everyone!. | :white_check_mark: |
 | [AI Image Upscaler](https://www.thataicollection.com/redirect/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Image Upscaler - Enlarge & Enhance Your Photos for Free. | Upscale your image to 2x or 4x without losing any textures or details with our AI tool. Use our super-resolution tool and bring new life to your images. | :white_check_mark: |
 | [animeBuilder](https://www.thataicollection.com/redirect/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Discover our free online tools to easily convert pictures into anime style and generate artistic images from text. Unleash your creativity effortlessly!. | You can convert pictures into anime style, or use text to generate pictures in various styles.These features are free to use online. | :white_check_mark: |
@@ -1149,6 +1151,7 @@ It is highly accurate, and there are tons of styles that you can choose from. Gr
 | [LinkActions](https://www.thataicollection.com/redirect/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | LinkActions is a fully-automated internal linking tool for your website. | LinkActions uncovers the internal links that people are missing out on so that they can rank higher on Google and boost their organic traffic. Unlike other tools that only work for WordPress, LinkActions works with any web platform. | :white_check_mark: |
 | [MarketingBlocks AI](https://www.thataicollection.com/redirect/marketingblocks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The Future of Marketing Is Here. | Human-like all-in-one AI marketing assistant that creates landing pages, promo videos, ads, marketing copy, graphics, emails, voiceovers, blog posts, art & more. | :grey_question: |
 | [Peppertype.ai](https://www.thataicollection.com/redirect/peppertype.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Peppertype.Ai - Create Quality Content Faster. | Peppertype just got better! Leverage the AI-powered platform to ideate, create, distribute, and measure your content and prove your content marketing ROI. | :grey_question: |
+| [PH Deck](https://www.thataicollection.com/redirect/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | See Everyday’s Product Launch in a One Deck. | Tailored for Product Hunt users, revealing market trends through AI and YC's proven approaches. Combining AI technology and YC insights to highlight daily standouts from Product Hunt for you. | :white_check_mark: |
 | [Post Parrot](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Post Parrot - A Free Marketing Tool for Reddit. | Looking to generate reddit post titles that drive engagement? Checkout out our free digital marketing tool to enhance your post titles for targeted subreddits. | :white_check_mark: |
 | [Predis](https://www.thataicollection.com/redirect/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Social Media Marketing Made Easy With AI - Predis.Ai. | Predis is an AI marketing tool for social media helping businesses make captivating Video and Image content and get AI-powered content analysis. | :white_check_mark: |
 | [PressPulse AI](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Get personalized media coverage leads every morning. | PressPulse AI is an AI-powered assistant that delivers personalized journalist requests and media opportunities daily.   Our service enables busy professionals to secure high-authority backlinks, press coverage and expand your organic reach as a thought leader with just 5 minutes a day.  You'll gain access to top publications including Forbes, Time, VentureBeat, Mashable and more. | :grey_question: |
@@ -1174,6 +1177,7 @@ It is highly accurate, and there are tons of styles that you can choose from. Gr
 | [Broker One AI Engine](https://www.thataicollection.com/redirect/broker-one-ai-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Broker One AI Engine Is an AI-powered Tool That Simplifies Real Estate. | Broker One AI Engine is a state-of-the-art, AI-powered tool designed specifically for the complex world of real estate. This innovative platform combines the power of artificial intelligence with a vast and comprehensive dataset of properties to provide accurate property valuations and enable efficient property browsing. Broker One AI Engine stands out with its sophisticated property search functionality. | :white_check_mark: |
 | [Context Search](https://www.thataicollection.com/redirect/context-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Context - AI-Powered Audio & Video Search for content within YouTube playlists. | Search for content within YouTube playlists. Easily search across entire YouTube playlists or channels for a specific keyword or phrase. Made for content creators. | :grey_question: |
 | [Everypixel](https://www.thataicollection.com/redirect/everypixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Stock Image Search Engine - More Than 50 Best Sources - Everypixel. | Stock image finder for all who hate bad stock photos. Use it to find the best licensed images for the lowest price. More than 50 image sources. | :grey_question: |
+| [Gptsapp.io](https://www.thataicollection.com/redirect/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The threshold for creating GPTs is too low, making it quite painful for users to find good ones. Therefore, gptsapp.io has organized over 600,000+ best GPTs App, with a gift for registration. | GPTsApp.io stands out as the "Best GPTs APP," offering a unique gateway for users to discover and integrate advanced GPT-based applications into their daily routines. The website GPTsApp.io serves as a central hub for exploring the expansive world of custom ChatGPT Apps, making it an indispensable resource for both individuals and businesses. | :white_check_mark: |
 | [Lexii.ai](https://www.thataicollection.com/redirect/lexii.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Lexii.Ai. | Lexii.ai is an AI search assistant that answers questions and cites sources. | :white_check_mark: |
 | [namefinder.ai](https://www.thataicollection.com/redirect/namefinder.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-Powered Business & Domain Name Generator. | We, at Namefinder, aim to save people time by coming up with domain names for their businesses. We do it by proposing the names based on their website needs, and before that we check the domain registry to only give the available domain names to choose from. All powered by Chat Gpt. | :white_check_mark: |
 | [OpenArt Photo Booth](https://www.thataicollection.com/redirect/openart-photo-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Discover and Generate AI Art - Openart. | Search 10M+ prompts, and generate AI Art via Stable Diffusion, DALL·E 2. | :white_check_mark: |

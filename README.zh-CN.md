@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1077" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1088" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -53,21 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
-    </a>
-    <h4>灵巧的想象力-在 10 秒或更短的时间内重新设计房屋。灵感、室内设计、舞台布置等等。</h4>
-    <p>在 10 秒或更短的时间内重新设计房屋。然后，您可以使用我们的搜索引擎在照片中查找产品。 
-
-它非常准确，并且有大量样式可供选择。非常适合作为灵感、室内设计、舞台照片等。</p>
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Deft</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -89,6 +74,21 @@
     <h4>Cliptics，免费文字转语音！你的话，我们的声音。</h4>
     <p>介绍Cliptics，它是您轻松将文本转换为自然语音的终极伴侣。无论你是想要增强学习材料的学生，还是寻求创新方式吸引受众的内容创作者，还是仅仅是喜欢听而不是阅读的人，Cliptics都能提供无缝的解决方案。Cliptics — 在你的指挥下，文字变为现实，免费</p>
     <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Cliptics</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
+    </a>
+    <h4>灵巧的想象力-在 10 秒或更短的时间内重新设计房屋。灵感、室内设计、舞台布置等等。</h4>
+    <p>在 10 秒或更短的时间内重新设计房屋。然后，您可以使用我们的搜索引擎在照片中查找产品。 
+
+它非常准确，并且有大量样式可供选择。非常适合作为灵感、室内设计、舞台照片等。</p>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Deft</b></a>
     <br />
 </div>
 
@@ -153,6 +153,68 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### AI Face Analyzer-Beauty Score Calculator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-analyzer-beauty-score-calculator.webp" alt="AI Face Analyzer-Beauty Score Calculator">
+
+#### AI 人脸分析仪-美容分数计算器
+[Visit](https://www.thataicollection.com/redirect/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+美容分数计算器是一款人工智能面部分析器，可根据您上传的脸部照片提供客观的面部美容分数。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Gptsapp.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gptsapp.io.webp" alt="Gptsapp.io">
+
+#### 创建 GPT 的门槛太低，使用户很难找到好的 GPT。因此，gptsapp.io已经组织了超过60万个最佳GPTs应用程序，并附有注册礼物。
+[Visit](https://www.thataicollection.com/redirect/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+GPTSapp.io作为 “最佳GPTS应用程序” 脱颖而出，它为用户提供了一个独特的门户，可以发现基于GPT的高级应用程序并将其集成到他们的日常生活中。GptSapp.io 网站是探索自定义 ChatGPT 应用程序广阔世界的中心枢纽，使其成为个人和企业不可或缺的资源。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### SuperCarousels
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supercarousels.webp" alt="SuperCarousels">
+
+#### 使用 AI 快速为社交媒体创建轮播
+[Visit](https://www.thataicollection.com/redirect/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+几分钟内即可完成令人难以置信的旋转木马！我们使用人工智能来简化设计。非常适合不熟悉设计且时间短的内容创作者。瞬间创造并给人留下深刻印象！
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### PH Deck
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ph-deck.webp" alt="PH Deck">
+
+#### 一目了然地查看 Everyday 的产品发布会
+[Visit](https://www.thataicollection.com/redirect/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+专为 Product Hunt 用户量身定制，通过 AI 和 YC 的成熟方法揭示市场趋势。结合 AI 技术和 YC 见解，为您重点介绍 Product Hunt 中的每日精彩内容。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### SeaArt.AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-seaart.ai.webp" alt="SeaArt.AI">
 
@@ -192,74 +254,6 @@ SeaArt AI-首屈一指的免费人工智能艺术生成器。潜入蓬勃发展�
 介绍Cliptics，它是您轻松将文本转换为自然语音的终极伴侣。无论你是想要增强学习材料的学生，还是寻求创新方式吸引受众的内容创作者，还是仅仅是喜欢听而不是阅读的人，Cliptics都能提供无缝的解决方案。Cliptics — 在你的指挥下，文字变为现实，免费
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### iTextMaster
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-itextmaster.webp" alt="iTextMaster">
-
-#### 人工智能驱动的文本分析、摘要和聊天工具
-[Visit](https://www.thataicollection.com/redirect/itextmaster?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-iTextMaster是一款基于ChatGPT的综合PDF工具，它可以满足您的快速阅读需求，同时允许您轻松地与PDF文档进行智能对话。 
-此外，iTextMaster还支持在线网页摘要和聊天，可以满足您的多样化需求。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/itextmaster?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### TattoosGenerator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tattoosgenerator.webp" alt="TattoosGenerator">
-
-#### 使用我们的 AI 驱动的纹身生成器发现您的下一个墨水灵感。
-[Visit](https://www.thataicollection.com/redirect/tattoosgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用我们的 AI 驱动的纹身生成器发现您的下一个墨水灵感，这是个性化纹身创意的终极来源，将您的愿景与 AI 创意相结合，打造出真正独特的设计。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/tattoosgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Code to Flow
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-code-to-flow.webp" alt="Code to Flow">
-
-#### 可视化、分析和理解您的代码流。使用 AI 将代码转换为交互式流程图。立即简化复杂逻辑。
-[Visit](https://www.thataicollection.com/redirect/code-to-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Codetoflow 使您能够使用流程图以简单的术语理解代码，从而通过可视化来了解代码的细节和细微差别。
-
-所有级别的开发人员都可以使用它来提高对现有代码的理解。
-
-几乎支持所有主要语言：Python、Javascript、Typescript、Java、C、C++ 以及所有主要语言和框架
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/code-to-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Deft
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft">
-
-#### 灵巧的想象力-在 10 秒或更短的时间内重新设计房屋。灵感、室内设计、舞台布置等等。
-[Visit](https://www.thataicollection.com/redirect/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在 10 秒或更短的时间内重新设计房屋。然后，您可以使用我们的搜索引擎在照片中查找产品。 
-
-它非常准确，并且有大量样式可供选择。非常适合作为灵感、室内设计、舞台照片等。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1297,15 +1291,17 @@ Descript 是一种简单、强大且有趣的编辑方式。
 <br />
 
 
-### Dify.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dify.ai.webp" alt="Dify.AI">
+### SuperCarousels
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supercarousels.webp" alt="SuperCarousels">
 
-#### Dify：具有自托管选项的下一代 LLMOps 平台
-[Visit](https://www.thataicollection.com/redirect/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 使用 AI 快速为社交媒体创建轮播
+[Visit](https://www.thataicollection.com/redirect/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Dify 是一个 LLM 应用程序开发平台，已帮助构建了 100,000 多个应用程序。它集成了 BaaS 和 LLMOP，涵盖了构建生成式 AI 原生应用程序（包括内置 RAG 引擎）的基本技术堆栈。Dify 允许你基于任何 LLM 部署自己的助手 API 和 GPT 版本。
+几分钟内即可完成令人难以置信的旋转木马！我们使用人工智能来简化设计。非常适合不熟悉设计且时间短的内容创作者。瞬间创造并给人留下深刻印象！
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3141,15 +3137,15 @@ HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化�
 <br />
 
 
-### Wallpaperee
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wallpaperee.webp" alt="Wallpaperee">
+### AI Face Analyzer-Beauty Score Calculator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-analyzer-beauty-score-calculator.webp" alt="AI Face Analyzer-Beauty Score Calculator">
 
-#### 用你的名字创建移动 AI 壁纸
-[Visit](https://www.thataicollection.com/redirect/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI 人脸分析仪-美容分数计算器
+[Visit](https://www.thataicollection.com/redirect/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-用你的名字创建逼真的壁纸。有没有想过你的名字在烈火中燃烧？我们抓到你了，像很热一样把它丢掉！或者也许你更像冰晶女王或国王？你的名字可以在冰雪中闪闪发光。所以来吧，把它点亮！🔥
+美容分数计算器是一款人工智能面部分析器，可根据您上传的脸部照片提供客观的面部美容分数。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3720,17 +3716,15 @@ Tabula是一个人工智能端到端分析平台，使营销和销售经理能�
 <br />
 
 
-### Typegrow
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-typegrow.webp" alt="Typegrow">
+### PH Deck
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ph-deck.webp" alt="PH Deck">
 
-#### 利用 AI 将你的 LinkedIn 受众增长速度提高
-[Visit](https://www.thataicollection.com/redirect/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 一目了然地查看 Everyday 的产品发布会
+[Visit](https://www.thataicollection.com/redirect/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Typegrow是一款由人工智能驱动的工具，可以将你的领英受众增长速度提高10倍。它可以帮助您创建和安排更好的内容，并每天以更少的工作量获得更多的覆盖面、参与度和关注者。
+专为 Product Hunt 用户量身定制，通过 AI 和 YC 的成熟方法揭示市场趋势。结合 AI 技术和 YC 见解，为您重点介绍 Product Hunt 中的每日精彩内容。
 
-它是个人创作者在LinkedIn或管理客户资料的社交媒体机构上建立个人品牌的理想工具。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

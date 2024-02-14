@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1077" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1088" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=42" />
@@ -68,6 +68,19 @@
 
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
+    </a>
+    <h4>क्लिपटिक्स, बोलने के लिए मुफ़्त टेक्स्ट! तुम्हारे शब्द, हमारी आवाज़ें।</h4>
+    <p>पेश है क्लिपटिक्स, टेक्स्ट को आसानी से स्वाभाविक लगने वाली भाषा में बदलने के लिए तुम्हारा सबसे अच्छा साथी। चाहे तुम एक छात्र हो जो अपनी अध्ययन सामग्री को बेहतर बनाना चाहता हो, एक कंटेंट निर्माता हो जो अपने दर्शकों को आकर्षित करने के लिए नवोन्मेषी तरीके खोज रहा हो, या बस कोई ऐसा व्यक्ति जो सुनने से ज्यादा पढ़ना पसंद करता हो, क्लिपटिक्स एक आसान समाधान प्रदान करता है। क्लिपटिक्स —जहाँ तुम्हारे आदेश पर शब्द जीवंत हो जाते हैं, नि:शुल्क</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Cliptics के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -76,19 +89,6 @@
 
 तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
-    </a>
-    <h4>क्लिपटिक्स, बोलने के लिए मुफ़्त टेक्स्ट! तुम्हारे शब्द, हमारी आवाज़ें।</h4>
-    <p>पेश है क्लिपटिक्स, टेक्स्ट को आसानी से स्वाभाविक लगने वाली भाषा में बदलने के लिए तुम्हारा सबसे अच्छा साथी। चाहे तुम एक छात्र हो जो अपनी अध्ययन सामग्री को बेहतर बनाना चाहता हो, एक कंटेंट निर्माता हो जो अपने दर्शकों को आकर्षित करने के लिए नवोन्मेषी तरीके खोज रहा हो, या बस कोई ऐसा व्यक्ति जो सुनने से ज्यादा पढ़ना पसंद करता हो, क्लिपटिक्स एक आसान समाधान प्रदान करता है। क्लिपटिक्स —जहाँ तुम्हारे आदेश पर शब्द जीवंत हो जाते हैं, नि:शुल्क</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Cliptics के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -665,6 +665,7 @@
 | [LinkActions](https://www.thataicollection.com/redirect/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | LinkActions तुम्हारी वेबसाइट के लिए पूरी तरह से स्वचालित आंतरिक लिंकिंग टूल है।. | LinkActions उन अंदरूनी लिंक को उजागर करता है जिन्हें लोग मिस कर रहे हैं, ताकि वे Google पर उच्च रैंक प्राप्त कर सकें और अपने ऑर्गेनिक ट्रैफ़िक को बढ़ा सकें। दूसरे टूल के विपरीत, जो सिर्फ़ WordPress के लिए काम करते हैं, LinkActions किसी भी वेब प्लेटफ़ॉर्म के साथ काम करता है।. | :white_check_mark: |
 | [MarketingBlocks AI](https://www.thataicollection.com/redirect/marketingblocks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मार्केटिंग का भविष्य यहां है. | लैंडिंग पेज, प्रोमो वीडियो, विज्ञापन, मार्केटिंग कॉपी, ग्राफिक्स, ईमेल, वॉइसओवर, ब्लॉग पोस्ट, कला और बहुत कुछ बनाने वाला मानव जैसा ऑल-इन-वन एआई मार्केटिंग सहायक. | :grey_question: |
 | [Peppertype.ai](https://www.thataicollection.com/redirect/peppertype.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Peppertype.Ai - क्वालिटी का कॉन्टेंट तेज़ी से बनाएं. | पेप्परटाइप अभी बेहतर हुआ है! अपनी सामग्री के बारे में विचार करने, बनाने, वितरित करने और उसका आकलन करने और अपने कंटेंट मार्केटिंग ROI को साबित करने के लिए AI-संचालित प्लेटफ़ॉर्म का लाभ उठाएं. | :grey_question: |
+| [PH Deck](https://www.thataicollection.com/redirect/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रोज़ाना के प्रॉडक्ट लॉन्च को एक ही डेक में देखें. | प्रॉडक्ट हंट यूज़र के लिए तैयार किया गया है, जो AI और YC के प्रमाणित तरीकों के ज़रिए बाज़ार के रुझानों का खुलासा करता है। प्रॉडक्ट हंट के दैनिक स्टैंडआउट को हाइलाइट करने के लिए AI तकनीक और YC की जानकारी का मिश्रण तुम्हारे लिए।. | :white_check_mark: |
 | [Post Parrot](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पोस्ट पैरट - रेडिट के लिए मुफ़्त मार्केटिंग टूल. | क्या आप रेडिट पोस्ट टाइटल जेनरेट करना चाहते हैं जो एंगेजमेंट बढ़ाए? लक्षित सबरेडिट्स के लिए अपने पोस्ट टाइटल को बेहतर बनाने के लिए हमारा मुफ़्त डिजिटल मार्केटिंग टूल देखें।. | :white_check_mark: |
 | [Predis](https://www.thataicollection.com/redirect/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI के ज़रिए सोशल मीडिया मार्केटिंग को आसान बनाया गया - Predis.Ai. | प्रेडिस सोशल मीडिया के लिए AI मार्केटिंग टूल है, जो बिज़नेस को आकर्षक वीडियो और छवि कॉन्टेंट बनाने और AI-संचालित कंटेंट का विश्लेषण करने में मदद करता है।. | :white_check_mark: |
 | [PressPulse AI](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हर सुबह वैयक्तिकृत मीडिया कवरेज लीड पाओ।. | PressPulse AI, AI-संचालित सहायक है, जो रोज़ाना व्यक्तिगत पत्रकार अनुरोध और मीडिया के अवसर प्रदान करता है।   हमारी सेवा की मदद से व्यस्त पेशेवर हाई-अथॉरिटी बैकलिंक सुरक्षित कर सकते हैं, कवरेज कर सकते हैं और एक थॉट लीडर के तौर पर सिर्फ़ 5 मिनट की मदद से अपनी ऑर्गेनिक पहुंच बढ़ा सकते हैं।  तुम्हेंं फ़ोर्ब्स, टाइम, वेंचरबीट, मैशेबल आदि सहित टॉप प्रकाशनों का ऐक्सेस मिलेगा।. | :grey_question: |
@@ -690,6 +691,7 @@
 | [Broker One AI Engine](https://www.thataicollection.com/redirect/broker-one-ai-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ब्रोकर वन एआई इंजन एक एआई-संचालित उपकरण है जो रियल एस्टेट को सरल बनाता है।. | ब्रोकर वन एआई इंजन एक अत्याधुनिक, एआई-संचालित टूल है जिसे विशेष रूप से रियल एस्टेट की जटिल दुनिया के लिए डिज़ाइन किया गया है। यह नवोन्वेषी प्लेटफ़ॉर्म संपत्तियों के विशाल और व्यापक डेटासेट के साथ कृत्रिम बुद्धिमत्ता की शक्ति को जोड़ता है ताकि सटीक संपत्ति मूल्यांकन प्रदान किया जा सके और कुशल संपत्ति ब्राउज़िंग सक्षम की जा सके। ब्रोकर वन एआई इंजन अपनी परिष्कृत संपत्ति खोज कार्यक्षमता के साथ अलग दिखता है।. | :white_check_mark: |
 | [Context Search](https://www.thataicollection.com/redirect/context-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | संदर्भ - YouTube प्लेलिस्ट में मौजूद कॉन्टेंट के लिए AI-संचालित ऑडियो और वीडियो खोजें।. | YouTube प्लेलिस्ट में कॉन्टेंट ढूंढें। किसी खास कीवर्ड या वाक्यांश के लिए पूरी YouTube प्लेलिस्ट या चैनल पर आसानी से खोजें। कॉन्टेंट बनाने वालों के लिए बनाया गया है।. | :grey_question: |
 | [Everypixel](https://www.thataicollection.com/redirect/everypixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्टॉक इमेज सर्च इंजन - 50 से ज़्यादा बेहतरीन स्रोत - एवरीपिक्सल. | खराब स्टॉक फ़ोटो से नफरत करने वाले सभी लोगों के लिए स्टॉक इमेज फ़ाइंडर। सबसे कम कीमत में सबसे अच्छी लाइसेंस प्राप्त छवियों को खोजने के लिए इसका इस्तेमाल करें। 50 से ज़्यादा इमेज सोर्स।. | :grey_question: |
+| [Gptsapp.io](https://www.thataicollection.com/redirect/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | GPT बनाने की सीमा बहुत कम है, जिससे यूज़र के लिए अच्छे कोड ढूंढना मुश्किल हो जाता है। इसलिए, gptsapp.io ने 600,000+ से ज़्यादा बेहतरीन GPTs ऐप का आयोजन किया है, जिसमें रजिस्ट्रेशन के लिए उपहार दिए गए हैं।. | GPTSapp.io “सबसे अच्छा GPTs ऐप” के रूप में सामने आता है, जो यूज़र को एडवांस GPT-आधारित एप्लिकेशन खोजने और उन्हें उनके दैनिक रूटीन में एकीकृत करने का एक अनोखा गेटवे प्रदान करता है। वेबसाइट GPTSapp.io कस्टम ChatGPT ऐप्स की विशाल दुनिया में घूमने के लिए एक केंद्रीय केंद्र के रूप में काम करती है, जो इसे व्यक्तियों और व्यवसायों दोनों के लिए एक अनिवार्य संसाधन बनाती है।. | :white_check_mark: |
 | [Lexii.ai](https://www.thataicollection.com/redirect/lexii.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लेक्सी.ऐ. | Lexi.ai एक AI खोज सहायक है जो सवालों के जवाब देता है और स्रोतों का हवाला देता है।. | :white_check_mark: |
 | [namefinder.ai](https://www.thataicollection.com/redirect/namefinder.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-संचालित व्यवसाय और डोमेन नाम जेनरेटर. | हम, Namefinder पर, लोगों के व्यवसायों के लिए डोमेन नाम लेकर आने से उनका समय बचाने का लक्ष्य रखते हैं। हम ऐसा उनकी वेबसाइट की जरूरतों के आधार पर नामों का प्रस्ताव करके करते हैं, और इससे पहले हम डोमेन रजिस्ट्री की जांच करते हैं ताकि केवल उपलब्ध डोमेन नामों को चुनने के लिए दिया जा सके। सभी चैट Gpt द्वारा संचालित।. | :white_check_mark: |
 | [OpenArt Photo Booth](https://www.thataicollection.com/redirect/openart-photo-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डिस्कवर और एआई कला उत्पन्न करें - ओपनआर्ट. | 10M+ प्रॉम्प्ट खोजें, और स्थिर प्रसार, DALL·E 2 के माध्यम से AI कला उत्पन्न करें।. | :white_check_mark: |
@@ -823,6 +825,7 @@
 | [Phygital](https://www.thataicollection.com/redirect/phygital?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | महाशक्तियों वाले निर्माता. | कोड के बिना तंत्रिका नेटवर्क के साथ काम करने के लिए रचनाकारों के लिए नोड-आधारित एआई कार्यक्षेत्र। (अल्फा). | :grey_question: |
 | [Quilt & Create](https://www.thataicollection.com/redirect/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | क्विल्ट एंड क्रिएट - मार्केटिंग कॉपी ऐप की जानकारी. | रणनीतिक फ़ैसले लेने के लिए तुम्हारा वन-स्टॉप इंटरनेट-सक्षम टूलकिट। कुछ ही सेकंड में AI-जनरेट किया गया टेक्स्ट और इमेज तैयार करें और आसानी से वैयक्तिकृत कॉन्टेंट बनाएं, जो तुम्हारे दर्शकों को पसंद आए और तुम्हारे ब्रांड मूल्यों को दर्शाए।. | :grey_question: |
 | [Runway](https://www.thataicollection.com/redirect/runway?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रनवे - नेक्स्ट-जेनरेशन क्रिएशन सूट - सब कुछ जो आपको सामग्री बनाने के लिए चाहिए, तेज़।. | अपनी रचनाओं को अगले स्तर पर ले जाने के लिए उन्नत वीडियो संपादन क्षमताओं की खोज करें।. | :white_check_mark: |
+| [SuperCarousels](https://www.thataicollection.com/redirect/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI की मदद से सोशल मीडिया के लिए तेज़ी से कैरोसेल बनाएं. | कुछ ही मिनटों में अविश्वसनीय कैरोसेल! हम डिज़ाइन को आसान बनाने के लिए AI का इस्तेमाल करते हैं। कॉन्टेंट बनाने वालों के लिए आदर्श, जो डिज़ाइन से वाकिफ नहीं हैं और जिनके पास समय कम है। एक पल में बनाएं और इम्प्रेस करें!. | :white_check_mark: |
 | [TextSynth](https://www.thataicollection.com/redirect/textsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TextSynth बड़ी भाषा या टेक्स्ट-टू-इमेज मॉडल जैसे कि Llama2, Falcon, GPT-J, GPT-NeoX, फ़्लैं-T5, M2M100, कोडजेन, स्टेबल डिफ्यूज़न जैसे REST API और प्लेग्राउंड के ज़रिये ऐक्सेस प्रदान करता है।. | TextSynth मानक GPU और CPU पर तेज़ी से अनुमान लगाने के लिए कस्टम अनुमान कोड का इस्तेमाल करता है। साइट की स्थापना 2020 में हुई थी और यह GPT-2 भाषा मॉडल को ऐक्सेस देने वाले पहले लोगों में से थी। मूलभूत सेवा मुफ़्त है लेकिन दर सीमित है। जो यूज़र सीमा से बाहर जाना चाहते हैं, वे हर अनुरोध के हिसाब से थोड़ी राशि का भुगतान कर सकते हैं (हमारी कीमत देखें)। अगर तुम्हेंं कस्टम सहायता चाहिए, तो कृपया हमसे संपर्क करें: टेक्स्टसिंथ डॉट कॉम पर संपर्क करें।. | :white_check_mark: |
 | [Textunbox](https://www.thataicollection.com/redirect/textunbox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TextUnbox - AI की ताकत का इस्तेमाल करो!. | उन टूल और टेक्नोलॉजी की मदद से AI की ताकत का इस्तेमाल करें, जिन्हें तुम जानते हो - ब्राउज़र का इस्तेमाल करो या एपीआई का इस्तेमाल करके अपना खुद का समाधान लागू करो।. | :grey_question: |
 
@@ -864,6 +867,7 @@
 ## फोटो और छवि संपादन
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
+| [AI Face Analyzer-Beauty Score Calculator](https://www.thataicollection.com/redirect/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई फ़ेस एनालाइज़र-ब्यूटी स्कोर कैलकुलेटर. | ब्यूटी स्कोर कैलकुलेटर एक AI फ़ेस एनालाइज़र है, जो तुम्हारे चेहरे की अपलोड की गई तस्वीर के आधार पर एक ऑब्जेक्टिव फ़ेशियल ब्यूटी स्कोर प्रदान करता है।. | :white_check_mark: |
 | [AI Image Enlarger](https://www.thataicollection.com/redirect/ai-image-enlarger?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई इमेज एनलार्जर के साथ छवियों को बड़ा करें और बेहतर बनाएं. | अपनी तस्वीरों को शार्प, क्रिस्पर और साफ-सुथरा बनाने के लिए एक-क्लिक AI समाधान। गुणवत्ता खोए बिना छवि रिज़ॉल्यूशन बढ़ाएँ। आश्चर्यजनक गुणवत्ता और परिणाम। गुणवत्ता खोए बिना किसी भी छोटी छवि को 2k और 4k तक बड़ा करें। साझा करने और मुद्रण के लिए छवि के दृश्य को बेहतर बनाने के लिए विवरणों को तेज़ करें। फ़ोटो को बेहतर बनाना हर किसी के लिए आसान बना दिया गया!. | :white_check_mark: |
 | [AI Image Upscaler](https://www.thataicollection.com/redirect/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई इमेज अपस्केलर - अपनी तस्वीरों को मुफ्त में बड़ा करें और बेहतर बनाएं. | हमारे AI टूल से कोई टेक्सचर या जानकारी खोए बिना अपनी इमेज को 2x या 4x तक अपग्रेड करें। हमारे सुपर-रिज़ॉल्यूशन टूल का इस्तेमाल करो और अपनी छवियों में नई जान डाल दो।. | :white_check_mark: |
 | [animeBuilder](https://www.thataicollection.com/redirect/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | तस्वीरों को एनीमे स्टाइल में आसानी से बदलने और टेक्स्ट से कलात्मक चित्र बनाने के लिए हमारे मुफ़्त ऑनलाइन टूल खोजें। अपनी रचनात्मकता को सहजता से उजागर करो!. | तुम तस्वीरों को एनिमे स्टाइल में बदल सकते हो या टेक्स्ट का इस्तेमाल करके अलग-अलग स्टाइल में तस्वीरें बना सकते हो। इन सुविधाओं का ऑनलाइन इस्तेमाल मुफ्त है।. | :white_check_mark: |

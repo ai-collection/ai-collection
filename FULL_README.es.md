@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1077" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1088" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=42" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
+    </a>
+    <h4>Cliptics, ¡conversión de texto a voz gratis! Tus palabras, nuestras voces.</h4>
+    <p>Presentamos Cliptics, tu mejor compañera para convertir texto en voz con un sonido natural sin esfuerzo. Tanto si eres un estudiante que busca mejorar sus materiales de estudio, un creador de contenido que busca formas innovadoras de atraer a tu público o simplemente alguien que prefiere escuchar antes que leer, Cliptics ofrece una solución perfecta. Cliptics: donde las palabras cobran vida a tus órdenes, de forma gratuita</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Cliptics</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
     </a>
@@ -76,19 +89,6 @@ Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para ins
 
 ¡Tus sueños más locos están a un clic de distancia hoy!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
-    </a>
-    <h4>Cliptics, ¡conversión de texto a voz gratis! Tus palabras, nuestras voces.</h4>
-    <p>Presentamos Cliptics, tu mejor compañera para convertir texto en voz con un sonido natural sin esfuerzo. Tanto si eres un estudiante que busca mejorar sus materiales de estudio, un creador de contenido que busca formas innovadoras de atraer a tu público o simplemente alguien que prefiere escuchar antes que leer, Cliptics ofrece una solución perfecta. Cliptics: donde las palabras cobran vida a tus órdenes, de forma gratuita</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Cliptics</b></a>
     <br />
 </div>
 
@@ -577,6 +577,7 @@ Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para ins
 ## Edición De Fotos E Imágenes
 | Nombre | Título | Descripción | Ofrecer versión gratuita |
 |---|---|---|:---:|
+| [AI Face Analyzer-Beauty Score Calculator](https://www.thataicollection.com/redirect/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Analizador facial con IA y calculadora de puntuaciones de belleza. | La calculadora de puntuaciones de belleza es un analizador facial de IA que proporciona una puntuación de belleza facial objetiva basada en la imagen de tu rostro subida. | :white_check_mark: |
 | [AI Image Enlarger](https://www.thataicollection.com/redirect/ai-image-enlarger?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Amplíe y mejore las imágenes con AI Image Enlarger. | Solución de inteligencia artificial con un solo clic para hacer que sus fotos sean más nítidas, nítidas y limpias. Aumenta la resolución de la imagen sin perder calidad. Impresionante calidad y resultado. Amplía cualquier imagen pequeña a 2k y 4k sin perder calidad. Afina los detalles para mejorar la imagen visual para compartir e imprimir. ¡Mejora de fotos fácil para todos!. | :white_check_mark: |
 | [AI Image Upscaler](https://www.thataicollection.com/redirect/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ampliador de imágenes con IA: amplía y mejora tus fotos de forma gratuita. | Amplía tu imagen a 2 o 4 veces sin perder ninguna textura ni detalle con nuestra herramienta de IA. Utiliza nuestra herramienta de superresolución y da nueva vida a tus imágenes. | :white_check_mark: |
 | [animeBuilder](https://www.thataicollection.com/redirect/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Descubre nuestras herramientas online gratuitas para convertir fácilmente imágenes al estilo anime y generar imágenes artísticas a partir del texto. ¡Da rienda suelta a tu creatividad sin esfuerzo!. | Puedes convertir imágenes al estilo anime o utilizar texto para generar imágenes de varios estilos. Estas funciones son de uso gratuito en Internet. | :white_check_mark: |
@@ -1024,6 +1025,7 @@ Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para ins
 | [Phygital](https://www.thataicollection.com/redirect/phygital?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Creadores con superpoderes. | Espacio de trabajo de IA basado en nodos para que los creadores trabajen con redes neuronales sin código. (Alfa). | :grey_question: |
 | [Quilt & Create](https://www.thataicollection.com/redirect/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Quilt & Create: copia de marketing de la información de la aplicación. | Tu conjunto de herramientas integral con acceso a Internet para tomar decisiones estratégicas. Crea texto e imágenes generados por IA en cuestión de segundos y crea sin esfuerzo contenido personalizado que llegue a tu público y refleje los valores de tu marca. | :grey_question: |
 | [Runway](https://www.thataicollection.com/redirect/runway?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Runway - Suite de creación de próxima generación - Todo lo que necesita para crear contenido rápidamente. | Descubra capacidades avanzadas de edición de video para llevar sus creaciones al siguiente nivel. | :white_check_mark: |
+| [SuperCarousels](https://www.thataicollection.com/redirect/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Crea carruseles para las redes sociales rápidamente con la IA. | ¡Increíbles carruseles en minutos! Usamos la IA para simplificar el diseño. Ideal para los creadores de contenido que no están familiarizados con el diseño y tienen poco tiempo. ¡Crea e impresiona en un instante!. | :white_check_mark: |
 | [TextSynth](https://www.thataicollection.com/redirect/textsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TextSynth proporciona acceso a modelos grandes de lenguaje o de texto a imagen, como Llama2, Falcon, GPT-J, GPT-Neox, Flan-T5, M2M100, CodeGen y Stable Diffusion, a través de una API REST y un parque de juegos. | TextSynth emplea un código de inferencia personalizado para obtener inferencias más rápidas en las GPU y CPU estándar. El sitio se fundó en 2020 y fue de los primeros en dar acceso al modelo lingüístico GPT-2. El servicio básico es gratuito, pero la tarifa es limitada. Los usuarios que no deseen ningún tipo de limitación pueden pagar una pequeña cantidad por solicitud (consulta nuestros precios). Si deseas asistencia personalizada, ponte en contacto con nosotros: contactat textsynth punto com. | :white_check_mark: |
 | [Textunbox](https://www.thataicollection.com/redirect/textunbox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TextUnbox: ¡aprovecha el poder de la IA!. | Aprovecha el poder de la IA con herramientas y tecnologías que ya conoces: usa el navegador o implementa tu propia solución mediante la API. | :grey_question: |
 
@@ -1054,6 +1056,7 @@ Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para ins
 | [Broker One AI Engine](https://www.thataicollection.com/redirect/broker-one-ai-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Broker One AI Engine es una herramienta impulsada por IA que simplifica el sector inmobiliario. | Broker One AI Engine es una herramienta de última generación impulsada por IA diseñada específicamente para el complejo mundo de los bienes raíces. Esta innovadora plataforma combina el poder de la inteligencia artificial con un amplio y completo conjunto de datos de propiedades para proporcionar valoraciones precisas de propiedades y permitir una búsqueda eficiente de propiedades. Broker One AI Engine se destaca por su sofisticada funcionalidad de búsqueda de propiedades. | :white_check_mark: |
 | [Context Search](https://www.thataicollection.com/redirect/context-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Contexto: búsqueda de audio y vídeo con tecnología de IA para encontrar contenido en las listas de reproducción de YouTube. | Busca contenido en las listas de reproducción de YouTube. Busca fácilmente en todas las listas de reproducción o canales de YouTube una palabra clave o frase específica. Creado para creadores de contenido. | :grey_question: |
 | [Everypixel](https://www.thataicollection.com/redirect/everypixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Buscador de imágenes de archivo - Más de 50 de las mejores fuentes - Everypixel. | Buscador de imágenes de archivo para todos los que odian las malas fotos de archivo. Úsala para encontrar las mejores imágenes con licencia al precio más bajo. Más de 50 fuentes de imágenes. | :grey_question: |
+| [Gptsapp.io](https://www.thataicollection.com/redirect/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | El umbral para crear GPT es demasiado bajo, lo que hace que a los usuarios les resulte bastante difícil encontrar unos buenos. Por eso, gptsapp.io ha organizado más de 600 000 mejores aplicaciones de GPTS, con un regalo por registrarse. | GPTSapp.io se destaca como la «mejor aplicación de GPTS» y ofrece una puerta de entrada única para que los usuarios descubran e integren aplicaciones avanzadas basadas en el GPT en sus rutinas diarias. El sitio web GPTSapp.io sirve como centro para explorar el amplio mundo de las aplicaciones ChatGPT personalizadas, lo que lo convierte en un recurso indispensable tanto para particulares como para empresas. | :white_check_mark: |
 | [Lexii.ai](https://www.thataicollection.com/redirect/lexii.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Lexii.Ai. | Lexii.ai es un asistente de búsqueda de IA que responde preguntas y cita fuentes. | :white_check_mark: |
 | [namefinder.ai](https://www.thataicollection.com/redirect/namefinder.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generador de nombres de dominio y empresas impulsado por IA. | Nosotros, en Namefinder, buscamos ahorrar tiempo a las personas creando nombres de dominio para sus negocios. Lo hacemos proponiendo los nombres en función de las necesidades de su sitio web, y antes de eso verificamos el registro de dominio para dar solo los nombres de dominio disponibles para elegir. Todo impulsado por Chat Gpt. | :white_check_mark: |
 | [OpenArt Photo Booth](https://www.thataicollection.com/redirect/openart-photo-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Descubre y genera arte con IA - Openart. | Busque más de 10 millones de indicaciones y genere AI Art a través de Stable Diffusion, DALL·E 2. | :white_check_mark: |
@@ -1440,6 +1443,7 @@ Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para ins
 | [LinkActions](https://www.thataicollection.com/redirect/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | LinkActions es una herramienta de enlace interno totalmente automatizada para tu sitio web. | LinkActions descubre los enlaces internos que la gente se pierde para poder ocupar un lugar más alto en Google e impulsar su tráfico orgánico. A diferencia de otras herramientas que solo funcionan para WordPress, LinkActions funciona con cualquier plataforma web. | :white_check_mark: |
 | [MarketingBlocks AI](https://www.thataicollection.com/redirect/marketingblocks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | El futuro del marketing está aquí. | Asistente de marketing de inteligencia artificial todo en uno similar a un humano que crea páginas de destino, videos promocionales, anuncios, copia de marketing, gráficos, correos electrónicos, voces en off, publicaciones de blog, arte y más. | :grey_question: |
 | [Peppertype.ai](https://www.thataicollection.com/redirect/peppertype.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Peppertype.Ai: Crea contenido de calidad más rápido. | ¡Peppertype acaba de mejorar! Aprovecha la plataforma impulsada por la IA para idear, crear, distribuir y medir tu contenido y demostrar tu ROI en marketing de contenidos. | :grey_question: |
+| [PH Deck](https://www.thataicollection.com/redirect/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Mira el lanzamiento del producto de Everyday en una sola baraja. | Diseñado para los usuarios de Product Hunt, revela las tendencias del mercado a través de los enfoques comprobados de IA e YC. Combinamos la tecnología de inteligencia artificial y la información de YC para destacar lo más destacado del día a día de Product Hunt para ti. | :white_check_mark: |
 | [Post Parrot](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Post Parrot: una herramienta de marketing gratuita para Reddit. | ¿Quieres generar títulos de publicaciones de Reddit que generen participación? Consulta nuestra herramienta de marketing digital gratuita para mejorar los títulos de tus publicaciones para subreddits segmentados. | :white_check_mark: |
 | [Predis](https://www.thataicollection.com/redirect/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | El marketing en redes sociales hecho fácil con la IA - Predis.Ai. | Predis es una herramienta de marketing de IA para las redes sociales que ayuda a las empresas a crear contenido de vídeo e imagen cautivador y a realizar análisis de contenido basados en la IA. | :white_check_mark: |
 | [PressPulse AI](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Recibe prospectos de cobertura mediática personalizados todas las mañanas. | PressPulse AI es un asistente impulsado por la IA que ofrece solicitudes personalizadas de los periodistas y oportunidades de comunicación a diario.   Nuestro servicio permite a los profesionales ocupados conseguir backlinks de alta autoridad, cobertura de prensa y ampliar tu alcance orgánico como líder de opinión con solo 5 minutos al día.  Tendrás acceso a las principales publicaciones, como Forbes, Time, VentureBeat, Mashable y más. | :grey_question: |

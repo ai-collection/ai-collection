@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1077" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1088" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=42" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
+    </a>
+    <h4>Cliptics, ¡conversión de texto a voz gratis! Tus palabras, nuestras voces.</h4>
+    <p>Presentamos Cliptics, tu mejor compañera para convertir texto en voz con un sonido natural sin esfuerzo. Tanto si eres un estudiante que busca mejorar sus materiales de estudio, un creador de contenido que busca formas innovadoras de atraer a tu público o simplemente alguien que prefiere escuchar antes que leer, Cliptics ofrece una solución perfecta. Cliptics: donde las palabras cobran vida a tus órdenes, de forma gratuita</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Cliptics</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
     </a>
@@ -76,19 +89,6 @@ Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para ins
 
 ¡Tus sueños más locos están a un clic de distancia hoy!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
-    </a>
-    <h4>Cliptics, ¡conversión de texto a voz gratis! Tus palabras, nuestras voces.</h4>
-    <p>Presentamos Cliptics, tu mejor compañera para convertir texto en voz con un sonido natural sin esfuerzo. Tanto si eres un estudiante que busca mejorar sus materiales de estudio, un creador de contenido que busca formas innovadoras de atraer a tu público o simplemente alguien que prefiere escuchar antes que leer, Cliptics ofrece una solución perfecta. Cliptics: donde las palabras cobran vida a tus órdenes, de forma gratuita</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Cliptics</b></a>
     <br />
 </div>
 
@@ -153,6 +153,68 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### AI Face Analyzer-Beauty Score Calculator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-analyzer-beauty-score-calculator.webp" alt="AI Face Analyzer-Beauty Score Calculator">
+
+#### Analizador facial con IA y calculadora de puntuaciones de belleza
+[Visit](https://www.thataicollection.com/redirect/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La calculadora de puntuaciones de belleza es un analizador facial de IA que proporciona una puntuación de belleza facial objetiva basada en la imagen de tu rostro subida.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Gptsapp.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gptsapp.io.webp" alt="Gptsapp.io">
+
+#### El umbral para crear GPT es demasiado bajo, lo que hace que a los usuarios les resulte bastante difícil encontrar unos buenos. Por eso, gptsapp.io ha organizado más de 600 000 mejores aplicaciones de GPTS, con un regalo por registrarse.
+[Visit](https://www.thataicollection.com/redirect/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+GPTSapp.io se destaca como la «mejor aplicación de GPTS» y ofrece una puerta de entrada única para que los usuarios descubran e integren aplicaciones avanzadas basadas en el GPT en sus rutinas diarias. El sitio web GPTSapp.io sirve como centro para explorar el amplio mundo de las aplicaciones ChatGPT personalizadas, lo que lo convierte en un recurso indispensable tanto para particulares como para empresas.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### SuperCarousels
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supercarousels.webp" alt="SuperCarousels">
+
+#### Crea carruseles para las redes sociales rápidamente con la IA
+[Visit](https://www.thataicollection.com/redirect/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+¡Increíbles carruseles en minutos! Usamos la IA para simplificar el diseño. Ideal para los creadores de contenido que no están familiarizados con el diseño y tienen poco tiempo. ¡Crea e impresiona en un instante!
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### PH Deck
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ph-deck.webp" alt="PH Deck">
+
+#### Mira el lanzamiento del producto de Everyday en una sola baraja
+[Visit](https://www.thataicollection.com/redirect/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Diseñado para los usuarios de Product Hunt, revela las tendencias del mercado a través de los enfoques comprobados de IA e YC. Combinamos la tecnología de inteligencia artificial y la información de YC para destacar lo más destacado del día a día de Product Hunt para ti.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### SeaArt.AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-seaart.ai.webp" alt="SeaArt.AI">
 
@@ -192,74 +254,6 @@ Al estar integrado con la plataforma WordPress/WooCommerce, WriteText.ai para Wo
 Presentamos Cliptics, tu mejor compañera para convertir texto en voz con un sonido natural sin esfuerzo. Tanto si eres un estudiante que busca mejorar sus materiales de estudio, un creador de contenido que busca formas innovadoras de atraer a tu público o simplemente alguien que prefiere escuchar antes que leer, Cliptics ofrece una solución perfecta. Cliptics: donde las palabras cobran vida a tus órdenes, de forma gratuita
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### iTextMaster
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-itextmaster.webp" alt="iTextMaster">
-
-#### Herramientas de análisis, resumen y chat de texto impulsadas por la IA
-[Visit](https://www.thataicollection.com/redirect/itextmaster?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-iTextMaster es una completa herramienta de PDF basada en ChatGPT, que satisface tus necesidades de lectura rápida y te permite entablar fácilmente conversaciones inteligentes con documentos PDF. 
-Además, iTextMaster también admite el resumen de páginas web y el chat en línea, lo que puede satisfacer tus diversas necesidades.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/itextmaster?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### TattoosGenerator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tattoosgenerator.webp" alt="TattoosGenerator">
-
-#### Descubre tu próxima inspiración de tinta con nuestro generador de tatuajes impulsado por IA.
-[Visit](https://www.thataicollection.com/redirect/tattoosgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Descubre tu próxima inspiración de tinta con nuestro generador de tatuajes con tecnología de IA, tu mejor fuente de ideas personalizadas para tatuajes, que combina tu visión con la creatividad de la IA para crear un diseño verdaderamente único.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/tattoosgenerator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Code to Flow
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-code-to-flow.webp" alt="Code to Flow">
-
-#### Visualiza, analiza y entiende tu flujo de código. Convierte el código en diagramas de flujo interactivos con la IA. Simplifica la lógica compleja al instante.
-[Visit](https://www.thataicollection.com/redirect/code-to-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Codetoflow te permite entender el código en términos sencillos mediante un diagrama de flujo que te permite entender los detalles y los matices del código al visualizarlo.
-
-Los desarrolladores de todos los niveles pueden utilizarla para mejorar la comprensión del código existente.
-
-Soporta casi todos los principales lenguajes: Python, Javascript, Typescript, Java, C, C++ y todos los principales lenguajes y marcos
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/code-to-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Deft
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft">
-
-#### Het Imagine: cambia el estilo de una casa en 10 segundos o menos. Inspiración, diseño de interiores, puesta en escena y más.
-[Visit](https://www.thataicollection.com/redirect/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cambia el estilo de una casa en 10 segundos o menos. A continuación, puedes utilizar nuestro motor de búsqueda para encontrar los productos de las fotos. 
-
-Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para inspirarte, diseñar interiores, fotos de puesta en escena y mucho más.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1297,15 +1291,17 @@ Plataforma de diseño visual todo en uno que contiene herramientas de edición d
 
 
 
-### Dify.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dify.ai.webp" alt="Dify.AI">
+### SuperCarousels
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supercarousels.webp" alt="SuperCarousels">
 
-#### Dify: plataforma LLMops de próxima generación con opción de autoalojamiento
-[Visit](https://www.thataicollection.com/redirect/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Crea carruseles para las redes sociales rápidamente con la IA
+[Visit](https://www.thataicollection.com/redirect/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Dify es una plataforma de desarrollo de aplicaciones de LLM que ha ayudado a crear más de 100 000 aplicaciones. Integra BaaS y LLMOP y cubre la tecnología esencial para crear aplicaciones generativas nativas de la IA, incluido un motor RAG integrado. Dify te permite implementar tu propia versión de la API de asistentes y el GPT, en función de cualquier LLM.
+¡Increíbles carruseles en minutos! Usamos la IA para simplificar el diseño. Ideal para los creadores de contenido que no están familiarizados con el diseño y tienen poco tiempo. ¡Crea e impresiona en un instante!
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/dify.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3140,15 +3136,15 @@ HitPaw Online AI Photo Enhancer utiliza tecnología avanzada de IA para eliminar
 <br />
 
 
-### Wallpaperee
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wallpaperee.webp" alt="Wallpaperee">
+### AI Face Analyzer-Beauty Score Calculator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-analyzer-beauty-score-calculator.webp" alt="AI Face Analyzer-Beauty Score Calculator">
 
-#### Crea fondos de pantalla móviles de IA con tu nombre
-[Visit](https://www.thataicollection.com/redirect/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Analizador facial con IA y calculadora de puntuaciones de belleza
+[Visit](https://www.thataicollection.com/redirect/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Crea fondos de pantalla fotorrealistas con tu nombre. ¿Alguna vez te has imaginado tu nombre chisporroteando en llamas intensas? Te tenemos, ¡déjalo caer como si estuviera caliente! ¿O tal vez eres más una reina o un rey de los cristales de hielo? Tu nombre puede brillar en el hielo helado. Así que vamos, ¡haz que se encienda! 🔥
+La calculadora de puntuaciones de belleza es un analizador facial de IA que proporciona una puntuación de belleza facial objetiva basada en la imagen de tu rostro subida.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/wallpaperee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3719,17 +3715,15 @@ Obtenga una excelente copia que se venda. Copy.ai es un redactor publicitario im
 
 
 
-### Typegrow
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-typegrow.webp" alt="Typegrow">
+### PH Deck
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ph-deck.webp" alt="PH Deck">
 
-#### Haz crecer tu audiencia en LinkedIn 10 veces más rápido con la IA
-[Visit](https://www.thataicollection.com/redirect/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Mira el lanzamiento del producto de Everyday en una sola baraja
+[Visit](https://www.thataicollection.com/redirect/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Typegrow es una herramienta basada en la inteligencia artificial para hacer crecer tu audiencia en LinkedIn 10 veces más rápido. Te ayuda a crear y programar un mejor contenido y a conseguir más alcance, participación y seguidores a diario con menos trabajo.
+Diseñado para los usuarios de Product Hunt, revela las tendencias del mercado a través de los enfoques comprobados de IA e YC. Combinamos la tecnología de inteligencia artificial y la información de YC para destacar lo más destacado del día a día de Product Hunt para ti.
 
-Es una herramienta ideal para los creadores individuales que crean marcas personales en LinkedIn o para las agencias de redes sociales que gestionan sus perfiles de clientes.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

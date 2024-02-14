@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1077" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1088" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=42" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
+    </a>
+    <h4>Cliptics, бесплатный перевод текста в речь! Ваши слова, наши голоса.</h4>
+    <p>Представляем Cliptics, вашего идеального помощника для простого преобразования текста в естественную речь. Независимо от того, являетесь ли вы студентом, желающим улучшить свои учебные материалы, создателем контента, ищущим инновационные способы привлечения аудитории, или просто тем, кто предпочитает слушать, а не читать, Cliptics предлагает идеальное решение. Cliptics — это место, где слова оживают по вашему усмотрению и бесплатно</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Cliptics</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
     </a>
@@ -76,19 +89,6 @@
 
 Сегодня от ваших самых смелых мечтаний вас отделяет всего один клик!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
-    </a>
-    <h4>Cliptics, бесплатный перевод текста в речь! Ваши слова, наши голоса.</h4>
-    <p>Представляем Cliptics, вашего идеального помощника для простого преобразования текста в естественную речь. Независимо от того, являетесь ли вы студентом, желающим улучшить свои учебные материалы, создателем контента, ищущим инновационные способы привлечения аудитории, или просто тем, кто предпочитает слушать, а не читать, Cliptics предлагает идеальное решение. Cliptics — это место, где слова оживают по вашему усмотрению и бесплатно</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Cliptics</b></a>
     <br />
 </div>
 
@@ -752,6 +752,7 @@
 | [Phygital](https://www.thataicollection.com/redirect/phygital?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Творцы со сверхспособностями. | Рабочее пространство искусственного интеллекта на основе узлов, позволяющее авторам работать с нейронными сетями без кода. (Альфа). | :grey_question: |
 | [Quilt & Create](https://www.thataicollection.com/redirect/quilt-and-create?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Quilt & Create - информация о приложении для создания рекламных текстов. | Ваш универсальный набор инструментов с подключением к Интернету для принятия стратегических решений. Создавайте текст и изображения, созданные искусственным интеллектом, за считанные секунды и без труда создавайте персонализированный контент, который найдет отклик у вашей аудитории и отражает ценности вашего бренда. | :grey_question: |
 | [Runway](https://www.thataicollection.com/redirect/runway?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Runway — пакет для создания нового поколения — все, что вам нужно для быстрого создания контента. | Откройте для себя расширенные возможности редактирования видео, чтобы вывести свои творения на новый уровень. | :white_check_mark: |
+| [SuperCarousels](https://www.thataicollection.com/redirect/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Быстро создавайте карусели для социальных сетей с помощью искусственного интеллекта. | Невероятные карусели за считанные минуты! Мы используем искусственный интеллект для упрощения дизайна. Идеально подходит для создателей контента, которые не знакомы с дизайном и у которых мало времени. Создавайте и производите впечатление в одно мгновение!. | :white_check_mark: |
 | [TextSynth](https://www.thataicollection.com/redirect/textsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TextSynth предоставляет доступ к большим языковым моделям или моделям преобразования текста в изображение, таким как Llama2, Falcon, GPT-J, GPT-Neox, Flan-T5, M2M100, CodeGen, Stable Diffusion через REST API и игровую площадку. | TextSynth использует собственный код логического вывода для более быстрого вывода на стандартных графических процессорах и процессорах. Сайт был основан в 2020 году и одним из первых предоставил доступ к языковой модели GPT-2. Базовая услуга бесплатна, но тариф ограничен. Пользователи, которым не нужны ограничения, могут заплатить небольшую сумму за запрос (см. наши цены). Если вам нужна индивидуальная поддержка, свяжитесь с нами: свяжитесь с нами: свяжитесь с нами по адресу textsynth dot com. | :white_check_mark: |
 | [Textunbox](https://www.thataicollection.com/redirect/textunbox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TextUnbox — используйте возможности искусственного интеллекта!. | Используйте возможности искусственного интеллекта с помощью знакомых вам инструментов и технологий — используйте браузер или реализуйте собственное решение с помощью API. | :grey_question: |
 
@@ -940,6 +941,7 @@
 | [Broker One AI Engine](https://www.thataicollection.com/redirect/broker-one-ai-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Broker One AI Engine — это инструмент на базе ИИ, который упрощает работу с недвижимостью. | Broker One AI Engine — это современный инструмент на базе искусственного интеллекта, разработанный специально для сложного мира недвижимости. Эта инновационная платформа сочетает в себе возможности искусственного интеллекта с обширным и всеобъемлющим набором данных о свойствах, чтобы обеспечить точную оценку собственности и обеспечить эффективный просмотр недвижимости. Broker One AI Engine отличается сложной функциональностью поиска недвижимости. | :white_check_mark: |
 | [Context Search](https://www.thataicollection.com/redirect/context-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Контекст — поиск аудио и видео с помощью искусственного интеллекта для поиска контента в плейлистах YouTube. | Ищите контент в плейлистах YouTube. Простой поиск по всем плейлистам или каналам YouTube по определенному ключевому слову или фразе. Сделано для создателей контента. | :grey_question: |
 | [Everypixel](https://www.thataicollection.com/redirect/everypixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Система поиска стоковых изображений - более 50 лучших источников - Everypixel. | Поиск стоковых изображений для всех, кто ненавидит плохие стоковые фотографии. Используйте его, чтобы найти лучшие лицензионные изображения по самой низкой цене. Более 50 источников изображений. | :grey_question: |
+| [Gptsapp.io](https://www.thataicollection.com/redirect/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Порог создания GPT слишком низок, поэтому пользователям довольно сложно найти хорошие GPT. Таким образом, gptsapp.io организовал более 600 000 лучших приложений GPTS, а за регистрацию подарил подарок. | GptSapp.io выделяется как «Лучшее приложение GPTS», предлагая пользователям уникальный шлюз для поиска и интеграции передовых приложений на основе GPTS в свою повседневную жизнь. Веб-сайт GptSapp.io служит центральным центром изучения обширного мира специализированных приложений ChatGPT, что делает его незаменимым ресурсом как для частных лиц, так и для компаний. | :white_check_mark: |
 | [Lexii.ai](https://www.thataicollection.com/redirect/lexii.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Lexii.ai. | Lexii.ai — помощник по поиску с искусственным интеллектом, который отвечает на вопросы и цитирует источники. | :white_check_mark: |
 | [namefinder.ai](https://www.thataicollection.com/redirect/namefinder.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Генератор доменных имен и бизнеса на базе искусственного интеллекта. | Мы в Namefinder стремимся сэкономить время людей, придумывая доменные имена для их бизнеса. Мы делаем это, предлагая имена, исходя из потребностей их веб-сайта, а перед этим мы проверяем реестр доменов, чтобы предоставить на выбор только доступные доменные имена. Все работает на чате Gpt. | :white_check_mark: |
 | [OpenArt Photo Booth](https://www.thataicollection.com/redirect/openart-photo-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Откройте для себя и создайте AI Art - OpenArt. | Ищите более 10 миллионов подсказок и создавайте AI Art с помощью Stable Diffusion, DALL·E 2. | :white_check_mark: |
@@ -1133,6 +1135,7 @@
 | [LinkActions](https://www.thataicollection.com/redirect/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | LinkActions — это полностью автоматизированный инструмент внутренних ссылок для вашего веб-сайта. | LinkActions выявляет внутренние ссылки, которые люди пропускают, чтобы повысить рейтинг в Google и увеличить органический трафик. В отличие от других инструментов, которые работают только на WordPress, LinkActions работает с любой веб-платформой. | :white_check_mark: |
 | [MarketingBlocks AI](https://www.thataicollection.com/redirect/marketingblocks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Будущее маркетинга уже здесь. | Универсальный помощник по маркетингу с искусственным интеллектом, похожий на человека, который создает целевые страницы, промо-видео, рекламу, маркетинговые тексты, графику, электронные письма, озвучку, сообщения в блогах, искусство и многое другое. | :grey_question: |
 | [Peppertype.ai](https://www.thataicollection.com/redirect/peppertype.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Peppertype.Ai — быстрее создавайте качественный контент. | Тип перца стал еще лучше! Используйте платформу на базе искусственного интеллекта для разработки, создания, распространения и оценки контента и подтверждения окупаемости инвестиций в контент-маркетинг. | :grey_question: |
+| [PH Deck](https://www.thataicollection.com/redirect/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ознакомьтесь с выпуском продуктов Everyday в одной колоде. | Разработано для пользователей Product Hunt и позволяет выявлять рыночные тенденции с помощью искусственного интеллекта и проверенных подходов YC. Объедините технологии искусственного интеллекта и аналитику YC, чтобы рассказать вам о самых выдающихся игроках Product Hunt каждый день. | :white_check_mark: |
 | [Post Parrot](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Post Parrot — бесплатный маркетинговый инструмент для Reddit. | Хотите создать заголовки постов на Reddit, которые привлекут внимание? Воспользуйтесь нашим бесплатным инструментом цифрового маркетинга, чтобы улучшить заголовки постов для целевых субреддитов. | :white_check_mark: |
 | [Predis](https://www.thataicollection.com/redirect/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Маркетинг в социальных сетях стал проще с помощью искусственного интеллекта - Predis.Ai. | Predis — это маркетинговый инструмент искусственного интеллекта для социальных сетей, помогающий компаниям создавать увлекательный контент с видео и изображениями и анализировать контент на основе искусственного интеллекта. | :white_check_mark: |
 | [PressPulse AI](https://www.thataicollection.com/redirect/presspulse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Каждое утро получайте персонализированные сообщения в СМИ. | PressPulse AI — это помощник на базе искусственного интеллекта, который ежедневно предоставляет персонализированные запросы журналистов и возможности СМИ.   Наш сервис позволяет занятым профессионалам получать авторитетные обратные ссылки, материалы в прессе и расширять свой органический охват в качестве идейного лидера всего за 5 минут в день.  Вы получите доступ к ведущим публикациям, включая Forbes, Time, VentureBeat, Mashable и другие. | :grey_question: |
@@ -1190,6 +1193,7 @@
 ## Редактирование Фотографий И Изображений
 | Имя | Заголовок | Описание | Предложить бесплатную версию |
 |---|---|---|:---:|
+| [AI Face Analyzer-Beauty Score Calculator](https://www.thataicollection.com/redirect/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Анализатор лица с искусственным интеллектом и калькулятор оценки красоты. | Калькулятор оценки красоты — это анализатор лица с искусственным интеллектом, который дает объективную оценку красоты лица на основе загруженного изображения вашего лица. | :white_check_mark: |
 | [AI Image Enlarger](https://www.thataicollection.com/redirect/ai-image-enlarger?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Увеличивайте и улучшайте изображения с помощью AI Image Enlarger. | Решение с искусственным интеллектом в один клик, чтобы сделать ваши фотографии четче, четче и чище. Увеличение разрешения изображения без потери качества. Потрясающее качество и результат. Увеличьте любое маленькое изображение до 2k и 4k без потери качества. Уточните детали, чтобы улучшить внешний вид изображения для публикации и печати. Улучшение фотографий стало проще для всех!. | :white_check_mark: |
 | [AI Image Upscaler](https://www.thataicollection.com/redirect/ai-image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Image Upscaler - увеличивайте и улучшайте свои фотографии бесплатно. | Увеличьте изображение в 2 или 4 раза без потери текстур и деталей с помощью нашего инструмента искусственного интеллекта. Воспользуйтесь нашим инструментом сверхвысокого разрешения и вдохните новую жизнь в свои изображения. | :white_check_mark: |
 | [animeBuilder](https://www.thataicollection.com/redirect/animebuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Откройте для себя наши бесплатные онлайн-инструменты для простого преобразования изображений в стиле аниме и создания художественных изображений из текста. Раскройте свой творческий потенциал без особых усилий!. | Вы можете конвертировать изображения в стиле аниме или использовать текст для создания изображений в различных стилях. Эти функции можно использовать бесплатно в Интернете. | :white_check_mark: |
