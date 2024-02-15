@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1088" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1092" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=42" />
@@ -59,14 +59,12 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
     </a>
-    <h4>Start chatting for free with our scary fast NSFW AI character engine. Playful, helpful, our 7500+ AI sexting characters got it. Uncensored AI, no judgment. You are in control.</h4>
-    <p>Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.
-
-Your wildest dreams are just a click away today!</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <h4>Cliptics, Free Text to speech! Your words, our Voices.</h4>
+    <p>Introducing Cliptics, your ultimate companion for converting text into natural-sounding speech effortlessly. Whether you're a student looking to enhance your study materials, a content creator seeking innovative ways to engage your audience, or simply someone who prefers listening over reading, Cliptics offers a seamless solution. Cliptics –where words come to life at your command, free of charge</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Cliptics</b></a>
     <br />
 </div>
 
@@ -89,12 +87,14 @@ It is highly accurate, and there are tons of styles that you can choose from. Gr
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
-    <h4>Cliptics, Free Text to speech! Your words, our Voices.</h4>
-    <p>Introducing Cliptics, your ultimate companion for converting text into natural-sounding speech effortlessly. Whether you're a student looking to enhance your study materials, a content creator seeking innovative ways to engage your audience, or simply someone who prefers listening over reading, Cliptics offers a seamless solution. Cliptics –where words come to life at your command, free of charge</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Cliptics</b></a>
+    <h4>Start chatting for free with our scary fast NSFW AI character engine. Playful, helpful, our 7500+ AI sexting characters got it. Uncensored AI, no judgment. You are in control.</h4>
+    <p>Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.
+
+Your wildest dreams are just a click away today!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -295,6 +295,7 @@ It is highly accurate, and there are tons of styles that you can choose from. Gr
 | [Pattern Maker AI](https://www.thataicollection.com/redirect/pattern-maker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generate Seamless Patterns Using Artificial Intelligence. | Pattern Maker AI - Generate creative and unique seamless patterns using variant of Stable Diffusion AI model that was created by a collaboration between engineers and researchers from CompVis, Stability AI, and LAION and released under a Creative ML OpenRAIL-M license. | :grey_question: |
 | [PatternedAI](https://www.thataicollection.com/redirect/patternedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PatterndAI - Generate unique patterns for your product using AI!. | Integrate PatternedAI in your business! Get early access to PatternedAI Enterprise. Join selected clients in transforming workflows and driving growth. | :grey_question: |
 | [Pet Booth](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pet Booth is a service for creating your own AI Pet Portraits, Artwork, and Photos. Simply upload 10-20 photos of your cat or dog and select from over 80+ themes to transform them into. | Pet Booth is a service for creating your own amazing AI pet portraits, photos, and artwork. It's fast, easy, and fun!  How does it work?  Simply upload 10-20 photos of your cat or dog and select from over 80+ themes to transform them into.  Receive a pack of 100 AI generated images of your pet in both photo-realistic and artistic styles. | :grey_question: |
+| [Photo Rush](https://www.thataicollection.com/redirect/photo-rush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Professional product photos in minutes. | PhotRush is the go-to solution for small businesses and individuals seeking professional-grade product photography. By elevating photo quality, it ensures products stand out, optimizing the potential for increased sales. These premium images are perfect for e-commerce platforms. | :white_check_mark: |
 | [PhotoRoom](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Photoroom - Remove Background and Create Product Pictures. | Create product and portrait pictures using only your phone. Remove background, change background and showcase products. | :grey_question: |
 | [Photosonic AI](https://www.thataicollection.com/redirect/photosonic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Photosonic AI Art Generator - Create Unique Images With AI. | Transform your imagination into stunning digital art with Photosonic - the AI art generator. With its creative suggestions, this Writesonic's AI image generator can help unleash your inner artist and share your creations with the world. | :grey_question: |
 | [Phraser](https://www.thataicollection.com/redirect/phraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Phraser - the Collaborative Creative AI Tool. | Phraser is an app that helps you create images using generative AI (Midjourney, Stable Diffusion, and DALLE 2), collaborate, and get inspired. | :grey_question: |
@@ -580,6 +581,7 @@ It is highly accurate, and there are tons of styles that you can choose from. Gr
 | [Fermat](https://www.thataicollection.com/redirect/fermat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Creativity Augmented for Content Creation. | Unleash your creativity with AI on a collaborative canvas. | :grey_question: |
 | [Hotpot](https://www.thataicollection.com/redirect/hotpot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hotpot.Ai. | Hotpot.ai helps you create amazing graphics, pictures, and text. AI tools like AI Art Generator spark creativity and automate drudgery while easy-to-edit templates empower anyone to create device mockups, social media posts, marketing images, app icons, and other work graphics. | :grey_question: |
 | [Lightricks](https://www.thataicollection.com/redirect/lightricks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Home to Creators Everywhere. | Experience the magic of creating with the best tools and services for creators: Facetune 2, Videoleap, Linkinbio & Photoleap. Check it out now!. | :grey_question: |
+| [Lilybank AI](https://www.thataicollection.com/redirect/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Meet Lilybank AI, a better way to create content with AI. | LilybankAI is an innovative writing and image generation platform for businesses that accelerates the production of original content by utilizing AI technology. | :white_check_mark: |
 | [Magic Mate](https://www.thataicollection.com/redirect/magic-mate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Magicmate - Smart AI assistant for WhatsApp - Chat GPT, Dalle, Instruct Pix2Pix and more. | Magic Mate is a smart AI assistant - chat with ChatGPT, draw with Dalle, colorize and restore images, edit images in natural language, translate audio and more right in WhatsApp!. | :grey_question: |
 | [Media.io](https://www.thataicollection.com/redirect/media.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Online Video, Audio, Image Creativity Platform Powered by AI. | Simplicity. Diversity. Flexibility. | :white_check_mark: |
 | [Phygital](https://www.thataicollection.com/redirect/phygital?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Creators with Superpowers. | Node-based AI workspace for creators to work with neural networks without code. (Alpha). | :grey_question: |

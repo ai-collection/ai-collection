@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1088" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1092" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=42" />
@@ -68,6 +68,19 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
+    </a>
+    <h4>Cliptics, synthèse vocale gratuite ! Tes paroles, nos voix.</h4>
+    <p>Voici Cliptics, ton compagnon idéal pour convertir facilement du texte en discours naturel. Que tu sois une étudiante qui souhaite améliorer ton matériel pédagogique, une créatrice de contenu qui cherche des moyens innovants d'impliquer ton public, ou simplement quelqu'un qui préfère écouter plutôt que lire, Cliptics propose une solution fluide. Cliptics, où les mots prennent vie à ta guise, gratuitement</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Cliptics</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
     </a>
@@ -76,19 +89,6 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 
 Il est très précis et tu peux choisir parmi une multitude de styles. Idéal pour l'inspiration, la décoration d'intérieur, les photos de mise en scène, etc.</p>
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Deft</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
-    </a>
-    <h4>Cliptics, synthèse vocale gratuite ! Tes paroles, nos voix.</h4>
-    <p>Voici Cliptics, ton compagnon idéal pour convertir facilement du texte en discours naturel. Que tu sois une étudiante qui souhaite améliorer ton matériel pédagogique, une créatrice de contenu qui cherche des moyens innovants d'impliquer ton public, ou simplement quelqu'un qui préfère écouter plutôt que lire, Cliptics propose une solution fluide. Cliptics, où les mots prennent vie à ta guise, gratuitement</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Cliptics</b></a>
     <br />
 </div>
 
@@ -463,6 +463,7 @@ Il est très précis et tu peux choisir parmi une multitude de styles. Idéal po
 | [Fermat](https://www.thataicollection.com/redirect/fermat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Créativité augmentée pour la création de contenu. | Libérez votre créativité avec l'IA sur un canevas collaboratif. | :grey_question: |
 | [Hotpot](https://www.thataicollection.com/redirect/hotpot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hotpot.ai. | Hotpot.ai vous aide à créer des graphiques, des images et du texte incroyables. Des outils d'intelligence artificielle tels que AI Art Generator stimulent la créativité et automatisent les corvées, tandis que des modèles faciles à modifier permettent à quiconque de créer des maquettes d'appareils, des publications sur les réseaux sociaux, des images marketing, des icônes d'application et d'autres graphiques de travail. | :grey_question: |
 | [Lightricks](https://www.thataicollection.com/redirect/lightricks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Accueil des créateurs du monde entier. | Vivez la magie de la création avec les meilleurs outils et services pour les créateurs : Facetune 2, Videoleap, Linkinbio & Photoleap. Vérifiez-le maintenant!. | :grey_question: |
+| [Lilybank AI](https://www.thataicollection.com/redirect/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Découvrez Lilybank AI, une meilleure façon de créer du contenu grâce à l'IA. | LilyBankai est une plateforme d'écriture et de génération d'images innovante pour les entreprises qui accélère la production de contenu original en utilisant la technologie de l'IA. | :white_check_mark: |
 | [Magic Mate](https://www.thataicollection.com/redirect/magic-mate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Magicmate, assistant intelligent doté d'une intelligence artificielle pour WhatsApp, Chat GPT, Dalle, Instruct Pix2Pix et plus encore. | Magic Mate est un assistant intelligent doté d'une intelligence artificielle : discute avec ChatGPT, dessine avec Dalle, colorie et restaure des images, retouche des images en langage naturel, traduis du son et bien plus encore, directement sur WhatsApp !. | :grey_question: |
 | [Media.io](https://www.thataicollection.com/redirect/media.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Plateforme de création vidéo, audio et image en ligne optimisée par l'IA. | Simplicité. Diversité. La flexibilité. | :white_check_mark: |
 | [Phygital](https://www.thataicollection.com/redirect/phygital?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Créateurs aux super pouvoirs. | Espace de travail d'IA basé sur des nœuds permettant aux créateurs de travailler avec des réseaux de neurones sans code. (Alpha). | :grey_question: |
@@ -747,6 +748,7 @@ Il est très précis et tu peux choisir parmi une multitude de styles. Idéal po
 | [Pattern Maker AI](https://www.thataicollection.com/redirect/pattern-maker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Générez des modèles fluides grâce à l'intelligence artificielle. | Pattern Maker AI - Générez des motifs fluides créatifs et uniques en utilisant une variante du modèle d'IA Stable Diffusion, créé grâce à une collaboration entre des ingénieurs et des chercheurs de CompVis, Stability AI et LAION et publié sous licence Creative ML OpenRail-M. | :grey_question: |
 | [PatternedAI](https://www.thataicollection.com/redirect/patternedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PatterndAI - Générez des modèles uniques pour votre produit à l'aide de l'IA !. | Intégrez PatternedAI dans votre entreprise ! Obtenez un accès anticipé à PatternedAI Enterprise. Rejoignez des clients sélectionnés pour transformer les flux de travail et stimuler la croissance. | :grey_question: |
 | [Pet Booth](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pet Booth est un service qui permet de créer tes propres portraits, illustrations et photos d'animaux de compagnie IA. Il suffit de télécharger 10 à 20 photos de ton chat ou de ton chien et de choisir parmi plus de 80 thèmes pour les transformer. | Pet Booth est un service qui permet de créer tes propres portraits, photos et illustrations d'animaux de compagnie époustouflants grâce à l'IA. C'est rapide, facile et amusant !  Comment ça fonctionne ?  Il suffit de télécharger 10 à 20 photos de ton chat ou de ton chien et de choisir parmi plus de 80 thèmes pour les transformer.  Recevez un lot de 100 images générées par l'IA de ton animal de compagnie, dans un style photoréaliste et artistique. | :grey_question: |
+| [Photo Rush](https://www.thataicollection.com/redirect/photo-rush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Des photos de produits professionnelles en quelques minutes. | PhotoRush est la solution idéale pour les petites entreprises et les particuliers qui recherchent des photos de produits de qualité professionnelle. En améliorant la qualité des photos, cela permet aux produits de se démarquer, optimisant ainsi le potentiel d'augmentation des ventes. Ces images haut de gamme sont parfaites pour les plateformes de commerce électronique. | :white_check_mark: |
 | [PhotoRoom](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PhotoRoom - Supprimer l'arrière-plan et créer des images de produits. | Créez des images de produits et de portraits en utilisant uniquement votre téléphone. Supprimez l'arrière-plan, modifiez l'arrière-plan et présentez les produits. | :grey_question: |
 | [Photosonic AI](https://www.thataicollection.com/redirect/photosonic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Photosonic AI Art Generator - Créez des images uniques avec l'IA. | Transformez votre imagination en art numérique époustouflant avec Photosonic - le générateur d'art IA. Avec ses suggestions créatives, ce générateur d'images AI de Writesonic peut vous aider à libérer votre artiste intérieur et à partager vos créations avec le monde. | :grey_question: |
 | [Phraser](https://www.thataicollection.com/redirect/phraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Phraser - l'outil IA créatif collaboratif. | Phraser est une application qui vous aide à créer des images à l'aide de l'IA générative (Midjourney, Stable Diffusion et DALLE 2), à collaborer et à vous inspirer. | :grey_question: |

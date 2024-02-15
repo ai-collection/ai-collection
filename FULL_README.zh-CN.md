@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1088" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1092" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -53,14 +53,14 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
     </a>
-    <h4>使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。</h4>
-    <p>从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。
+    <h4>灵巧的想象力-在 10 秒或更短的时间内重新设计房屋。灵感、室内设计、舞台布置等等。</h4>
+    <p>在 10 秒或更短的时间内重新设计房屋。然后，您可以使用我们的搜索引擎在照片中查找产品。 
 
-今天只需点击一下即可实现您最疯狂的梦想！</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
+它非常准确，并且有大量样式可供选择。非常适合作为灵感、室内设计、舞台照片等。</p>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Deft</b></a>
     <br />
 </div>
 
@@ -81,14 +81,14 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
-    <h4>灵巧的想象力-在 10 秒或更短的时间内重新设计房屋。灵感、室内设计、舞台布置等等。</h4>
-    <p>在 10 秒或更短的时间内重新设计房屋。然后，您可以使用我们的搜索引擎在照片中查找产品。 
+    <h4>使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。</h4>
+    <p>从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。
 
-它非常准确，并且有大量样式可供选择。非常适合作为灵感、室内设计、舞台照片等。</p>
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Deft</b></a>
+今天只需点击一下即可实现您最疯狂的梦想！</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -451,6 +451,7 @@
 | [Fermat](https://www.thataicollection.com/redirect/fermat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 增强内容创作的创造力. | 在协作画布上通过 AI 释放您的创造力。. | :grey_question: |
 | [Hotpot](https://www.thataicollection.com/redirect/hotpot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 火锅人工智能. | Hotpot.ai 帮助您创建令人惊叹的图形、图片和文本。 AI Art Generator 等 AI 工具可以激发创造力并自动完成繁琐的工作，而易于编辑的模板使任何人都可以创建设备模型、社交媒体帖子、营销图片、应用程序图标和其他工作图形。. | :grey_question: |
 | [Lightricks](https://www.thataicollection.com/redirect/lightricks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 各地创作者的家园. | 使用面向创作者的最佳工具和服务体验创作的魔力：Facetune 2、Videoleap、Linkinbio 和 Photoleap。现在检查一下！. | :grey_question: |
+| [Lilybank AI](https://www.thataicollection.com/redirect/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 认识 Lilybank AI，这是一种使用 AI 创建内容的更好方法. | LilyBankAI是一个创新的写作和图像生成平台，适用于企业，通过利用人工智能技术加速原创内容的制作。. | :white_check_mark: |
 | [Magic Mate](https://www.thataicollection.com/redirect/magic-mate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Magicmate-WhatsApp 的智能 AI 助手-聊天 GPT、Dalle、Instruct Pix2Pix 等. | Magic Mate 是一款智能的人工智能助手——在 WhatsApp 中与 ChatGPT 聊天、与 Dalle 一起绘图、为图像着色和还原图像、用自然语言编辑图像、翻译音频等等！. | :grey_question: |
 | [Media.io](https://www.thataicollection.com/redirect/media.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 由人工智能驱动的在线视频、音频、图像创意平台. | 简单。多样性。灵活性。. | :white_check_mark: |
 | [Phygital](https://www.thataicollection.com/redirect/phygital?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 拥有超能力的创作者. | 基于节点的 AI 工作区，供创作者在没有代码的情况下使用神经网络。 （Α）. | :grey_question: |
@@ -1288,6 +1289,7 @@
 | [Pattern Maker AI](https://www.thataicollection.com/redirect/pattern-maker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用人工智能生成无缝模式. | Pattern Maker AI-使用稳定扩散人工智能模型的变体生成富有创造性和独特的无缝模式，该模型由 CompVis、Stability AI 和 LAION 的工程师和研究人员合作创建，并在 Creative ML OpenRail-M 许可下发布. | :grey_question: |
 | [PatternedAI](https://www.thataicollection.com/redirect/patternedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PatterndAI - 使用人工智能为您的产品生成独特的图案！. | 将 PatternedAI 集成到您的业务中！ 尽早访问 PatternedAI Enterprise。与选定的客户一起转变工作流程并推动增长。. | :grey_question: |
 | [Pet Booth](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pet Booth 是一项用于创建自己的 AI 宠物肖像、艺术品和照片的服务。只需上传 10-20 张您的猫或狗的照片，然后从 80 多个主题中进行选择，即可将其转换成。. | Pet Booth 是一项用于创建自己精彩的 AI 宠物肖像、照片和艺术品的服务。它快速、简单、有趣！  它是如何工作的？  只需上传 10-20 张您的猫或狗的照片，然后从 80 多个主题中进行选择，即可将其转换成。  收到一包 100 张 AI 生成的宠物图片，既有照片级逼真度，也有艺术风格。. | :grey_question: |
+| [Photo Rush](https://www.thataicollection.com/redirect/photo-rush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 几分钟内就能拍出专业的产品照片。. | PhotRush 是寻求专业级产品摄影的小型企业和个人的首选解决方案。通过提高照片质量，它可以确保产品脱颖而出，从而优化增加销售的可能性。这些优质图片非常适合电子商务平台。. | :white_check_mark: |
 | [PhotoRoom](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PhotoRoom - 删除背景并创建产品图片. | 仅使用您的手机创建产品和肖像图片。删除背景、更改背景和展示产品。. | :grey_question: |
 | [Photosonic AI](https://www.thataicollection.com/redirect/photosonic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Photosonic AI Art Generator - 使用 AI 创建独特的图像. | 使用人工智能艺术生成器 Photosonic，将您的想象力转化为令人惊叹的数字艺术。凭借其创造性的建议，这款 Writesonic 的 AI 图像生成器可以帮助释放您的内在艺术家并与世界分享您的创作。. | :grey_question: |
 | [Phraser](https://www.thataicollection.com/redirect/phraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Phraser——协作式创意 AI 工具. | Phraser 是一款应用程序，可帮助您使用生成式 AI（Midjourney、Stable Diffusion 和 DALLE 2）创建图像、协作并获得灵感. | :grey_question: |

@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1088" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1092" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=42" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
-    </a>
-    <h4>Cliptics, бесплатный перевод текста в речь! Ваши слова, наши голоса.</h4>
-    <p>Представляем Cliptics, вашего идеального помощника для простого преобразования текста в естественную речь. Независимо от того, являетесь ли вы студентом, желающим улучшить свои учебные материалы, создателем контента, ищущим инновационные способы привлечения аудитории, или просто тем, кто предпочитает слушать, а не читать, Cliptics предлагает идеальное решение. Cliptics — это место, где слова оживают по вашему усмотрению и бесплатно</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Cliptics</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
     </a>
@@ -74,6 +61,19 @@
 
 Он очень точный, и вы можете выбирать из множества стилей. Отлично подходит для вдохновения, дизайна интерьера, постановки фотографий и многого другого.</p>
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Deft</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
+    </a>
+    <h4>Cliptics, бесплатный перевод текста в речь! Ваши слова, наши голоса.</h4>
+    <p>Представляем Cliptics, вашего идеального помощника для простого преобразования текста в естественную речь. Независимо от того, являетесь ли вы студентом, желающим улучшить свои учебные материалы, создателем контента, ищущим инновационные способы привлечения аудитории, или просто тем, кто предпочитает слушать, а не читать, Cliptics предлагает идеальное решение. Cliptics — это место, где слова оживают по вашему усмотрению и бесплатно</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Cliptics</b></a>
     <br />
 </div>
 
@@ -153,6 +153,36 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### Photo Rush
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-rush.webp" alt="Photo Rush">
+
+#### Профессиональные фотографии продуктов за считанные минуты. 
+[Visit](https://www.thataicollection.com/redirect/photo-rush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PhotRush — это идеальное решение для малого бизнеса и частных лиц, которым нужна профессиональная фотосъемка продуктов. Повышая качество фотографий, оно выделяет продукты на первый план и оптимизирует потенциал увеличения продаж. Эти изображения премиум-класса идеально подходят для платформ электронной коммерции.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/photo-rush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Lilybank AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lilybank-ai_.webp" alt="Lilybank AI">
+
+#### Познакомьтесь с искусственным интеллектом Lilybank — лучшим способом создания контента с помощью искусственного интеллекта
+[Visit](https://www.thataicollection.com/redirect/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+LilyBankAI — это инновационная платформа для написания текстов и создания изображений для бизнеса, которая ускоряет производство оригинального контента с помощью технологии искусственного интеллекта.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI Face Analyzer-Beauty Score Calculator
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-analyzer-beauty-score-calculator.webp" alt="AI Face Analyzer-Beauty Score Calculator">
 
@@ -224,36 +254,6 @@ GptSapp.io выделяется как «Лучшее приложение GPTS�
 SeaArt AI-A — лучший бесплатный генератор искусственного интеллекта. Погрузитесь в процветающее сообщество разработчиков искусственного интеллекта и изучите более 200 тысяч моделей и стилей. От искусства до иллюстраций и картин — SeaArt без труда расширяет ваши творческие способности!
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/seaart.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### WriteText.ai for WooCommerce
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writetext.ai-for-woocommerce.webp" alt="WriteText.ai for WooCommerce">
-
-#### WriteText.ai для WooCommerce — это специально разработанный плагин для WordPress и WooCommerce, направленный на автоматизацию создания описания продукта и метаинформации.
-[Visit](https://www.thataicollection.com/redirect/writetext.ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Программа WriteText.ai для WooCommerce, интегрированная с платформой WordPress/WooCommerce, удобна в использовании и очень полезна для новичков. Он специализируется на создании отличных метазаголовков, описаний, сведений о продуктах и текстов Open Graph в двух рабочих режимах: «WriteText.ai Single» и «WriteText.ai Bulk». 
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/writetext.ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Cliptics
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics">
-
-#### Cliptics, бесплатный перевод текста в речь! Ваши слова, наши голоса.
-[Visit](https://www.thataicollection.com/redirect/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Представляем Cliptics, вашего идеального помощника для простого преобразования текста в естественную речь. Независимо от того, являетесь ли вы студентом, желающим улучшить свои учебные материалы, создателем контента, ищущим инновационные способы привлечения аудитории, или просто тем, кто предпочитает слушать, а не читать, Cliptics предлагает идеальное решение. Cliptics — это место, где слова оживают по вашему усмотрению и бесплатно
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1289,17 +1289,15 @@ Descript — это простой, мощный и увлекательный �
 
 
 
-### SuperCarousels
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supercarousels.webp" alt="SuperCarousels">
+### Lilybank AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lilybank-ai_.webp" alt="Lilybank AI">
 
-#### Быстро создавайте карусели для социальных сетей с помощью искусственного интеллекта
-[Visit](https://www.thataicollection.com/redirect/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Познакомьтесь с искусственным интеллектом Lilybank — лучшим способом создания контента с помощью искусственного интеллекта
+[Visit](https://www.thataicollection.com/redirect/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Невероятные карусели за считанные минуты! Мы используем искусственный интеллект для упрощения дизайна. Идеально подходит для создателей контента, которые не знакомы с дизайном и у которых мало времени. Создавайте и производите впечатление в одно мгновение!
+LilyBankAI — это инновационная платформа для написания текстов и создания изображений для бизнеса, которая ускоряет производство оригинального контента с помощью технологии искусственного интеллекта.
 
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4815,6 +4813,21 @@ HeyGen — это видеоплатформа, которая помогает 
 
 ## Веб-дизайн
 
+### Uizard
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-uizard.webp" alt="Uizard">
+
+#### Uizard — дизайн приложений, веб-сайтов и пользовательского интерфейса стал проще — на основе искусственного интеллекта
+[Visit](https://www.thataicollection.com/redirect/uizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Создавайте потрясающие веб-сайты, веб-приложения, мобильные приложения, интерфейсы, каркасы, прототипы, макеты за считанные минуты. Визуализируйте и сообщайте свои идеи без особых усилий. Опыт проектирования не требуется!
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/uizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Magician
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magician.webp" alt="Magician">
 
@@ -4858,21 +4871,6 @@ HeyGen — это видеоплатформа, которая помогает 
 <br />
 
 <br />
-
-
-### Uizard
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-uizard.webp" alt="Uizard">
-
-#### Uizard — дизайн приложений, веб-сайтов и пользовательского интерфейса стал проще — на основе искусственного интеллекта
-[Visit](https://www.thataicollection.com/redirect/uizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Создавайте потрясающие веб-сайты, веб-приложения, мобильные приложения, интерфейсы, каркасы, прототипы, макеты за считанные минуты. Визуализируйте и сообщайте свои идеи без особых усилий. Опыт проектирования не требуется!
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/uizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ### Durable

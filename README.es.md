@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1088" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1092" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=42" />
@@ -66,21 +66,6 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
-    </a>
-    <h4>Het Imagine: cambia el estilo de una casa en 10 segundos o menos. Inspiración, diseño de interiores, puesta en escena y más.</h4>
-    <p>Cambia el estilo de una casa en 10 segundos o menos. A continuación, puedes utilizar nuestro motor de búsqueda para encontrar los productos de las fotos. 
-
-Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para inspirarte, diseñar interiores, fotos de puesta en escena y mucho más.</p>
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Deft</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -89,6 +74,21 @@ Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para ins
 
 ¡Tus sueños más locos están a un clic de distancia hoy!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
+    </a>
+    <h4>Het Imagine: cambia el estilo de una casa en 10 segundos o menos. Inspiración, diseño de interiores, puesta en escena y más.</h4>
+    <p>Cambia el estilo de una casa en 10 segundos o menos. A continuación, puedes utilizar nuestro motor de búsqueda para encontrar los productos de las fotos. 
+
+Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para inspirarte, diseñar interiores, fotos de puesta en escena y mucho más.</p>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Deft</b></a>
     <br />
 </div>
 
@@ -152,6 +152,36 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 💰 [Ventas Y Marketing](#ventas-y-marketing)
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
+
+### Photo Rush
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-rush.webp" alt="Photo Rush">
+
+#### Fotos profesionales de productos en cuestión de minutos. 
+[Visit](https://www.thataicollection.com/redirect/photo-rush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PhotoRush es la solución ideal para las pequeñas empresas y las personas que buscan fotografías de productos de calidad profesional. Al aumentar la calidad de las fotografías, garantiza que los productos destaquen y optimiza la posibilidad de aumentar las ventas. Estas imágenes premium son perfectas para las plataformas de comercio electrónico.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/photo-rush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Lilybank AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lilybank-ai_.webp" alt="Lilybank AI">
+
+#### Conoce la IA de Lilybank, una forma mejor de crear contenido con la IA
+[Visit](https://www.thataicollection.com/redirect/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+LilyBankai es una innovadora plataforma de escritura y generación de imágenes para empresas que acelera la producción de contenido original mediante el uso de la tecnología de inteligencia artificial.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### AI Face Analyzer-Beauty Score Calculator
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-analyzer-beauty-score-calculator.webp" alt="AI Face Analyzer-Beauty Score Calculator">
@@ -224,36 +254,6 @@ Diseñado para los usuarios de Product Hunt, revela las tendencias del mercado a
 SeaArt AI, un generador de arte de IA gratuito de primer nivel. Sumérgete en una próspera comunidad de contenido de IA y explora más de 200 000 modelos y estilos. Desde arte hasta ilustraciones y pinturas, ¡SeaArt mejora tu creatividad sin esfuerzo!
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/seaart.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### WriteText.ai for WooCommerce
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writetext.ai-for-woocommerce.webp" alt="WriteText.ai for WooCommerce">
-
-#### WriteText.ai para WooCommerce es un complemento diseñado a medida para WordPress y WooCommerce destinado a automatizar la creación de la descripción del producto y la metainformación.
-[Visit](https://www.thataicollection.com/redirect/writetext.ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Al estar integrado con la plataforma WordPress/WooCommerce, WriteText.ai para WooCommerce es fácil de usar y muy útil para los principiantes. Se especializa en generar excelentes metatítulos, descripciones, detalles de productos y textos de Open Graph en dos modos operativos: «WriteText.ai Single» y «WriteText.ai Bulk». 
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/writetext.ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Cliptics
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics">
-
-#### Cliptics, ¡conversión de texto a voz gratis! Tus palabras, nuestras voces.
-[Visit](https://www.thataicollection.com/redirect/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Presentamos Cliptics, tu mejor compañera para convertir texto en voz con un sonido natural sin esfuerzo. Tanto si eres un estudiante que busca mejorar sus materiales de estudio, un creador de contenido que busca formas innovadoras de atraer a tu público o simplemente alguien que prefiere escuchar antes que leer, Cliptics ofrece una solución perfecta. Cliptics: donde las palabras cobran vida a tus órdenes, de forma gratuita
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1291,17 +1291,15 @@ Plataforma de diseño visual todo en uno que contiene herramientas de edición d
 
 
 
-### SuperCarousels
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supercarousels.webp" alt="SuperCarousels">
+### Lilybank AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lilybank-ai_.webp" alt="Lilybank AI">
 
-#### Crea carruseles para las redes sociales rápidamente con la IA
-[Visit](https://www.thataicollection.com/redirect/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Conoce la IA de Lilybank, una forma mejor de crear contenido con la IA
+[Visit](https://www.thataicollection.com/redirect/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-¡Increíbles carruseles en minutos! Usamos la IA para simplificar el diseño. Ideal para los creadores de contenido que no están familiarizados con el diseño y tienen poco tiempo. ¡Crea e impresiona en un instante!
+LilyBankai es una innovadora plataforma de escritura y generación de imágenes para empresas que acelera la producción de contenido original mediante el uso de la tecnología de inteligencia artificial.
 
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4816,6 +4814,21 @@ Explicación y procedimientos, marketing, ventas personalizadas, aprendizaje ele
 
 ## Diseño web
 
+### Uizard
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-uizard.webp" alt="Uizard">
+
+#### Uizard - Diseño de aplicación, web y interfaz de usuario simplificado - Desarrollado por IA
+[Visit](https://www.thataicollection.com/redirect/uizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Diseñe impresionantes sitios web, aplicaciones web, aplicaciones móviles, interfaces, wireframes, prototipos, maquetas en minutos. Visualiza y comunica tus ideas sin esfuerzo. ¡No se requiere experiencia en diseño!
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/uizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Magician
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magician.webp" alt="Magician">
 
@@ -4859,21 +4872,6 @@ Trabaje con expertos confiables y examinados que crearon productos multimillonar
 <br />
 
 <br />
-
-
-### Uizard
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-uizard.webp" alt="Uizard">
-
-#### Uizard - Diseño de aplicación, web y interfaz de usuario simplificado - Desarrollado por IA
-[Visit](https://www.thataicollection.com/redirect/uizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Diseñe impresionantes sitios web, aplicaciones web, aplicaciones móviles, interfaces, wireframes, prototipos, maquetas en minutos. Visualiza y comunica tus ideas sin esfuerzo. ¡No se requiere experiencia en diseño!
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/uizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ### Durable

@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1088" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1092" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=42" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
-    </a>
-    <h4>Cliptics, бесплатный перевод текста в речь! Ваши слова, наши голоса.</h4>
-    <p>Представляем Cliptics, вашего идеального помощника для простого преобразования текста в естественную речь. Независимо от того, являетесь ли вы студентом, желающим улучшить свои учебные материалы, создателем контента, ищущим инновационные способы привлечения аудитории, или просто тем, кто предпочитает слушать, а не читать, Cliptics предлагает идеальное решение. Cliptics — это место, где слова оживают по вашему усмотрению и бесплатно</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Cliptics</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
     </a>
@@ -74,6 +61,19 @@
 
 Он очень точный, и вы можете выбирать из множества стилей. Отлично подходит для вдохновения, дизайна интерьера, постановки фотографий и многого другого.</p>
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Deft</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
+    </a>
+    <h4>Cliptics, бесплатный перевод текста в речь! Ваши слова, наши голоса.</h4>
+    <p>Представляем Cliptics, вашего идеального помощника для простого преобразования текста в естественную речь. Независимо от того, являетесь ли вы студентом, желающим улучшить свои учебные материалы, создателем контента, ищущим инновационные способы привлечения аудитории, или просто тем, кто предпочитает слушать, а не читать, Cliptics предлагает идеальное решение. Cliptics — это место, где слова оживают по вашему усмотрению и бесплатно</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Cliptics</b></a>
     <br />
 </div>
 
@@ -456,6 +456,7 @@
 | [Pattern Maker AI](https://www.thataicollection.com/redirect/pattern-maker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Создавайте бесшовные узоры с помощью искусственного интеллекта. | Pattern Maker AI — создавайте креативные и уникальные бесшовные паттерны, используя вариант модели искусственного интеллекта Stable Diffusion, созданной в сотрудничестве инженеров и исследователей из CompVis, Stability AI и LAION и выпущенной под лицензией Creative ML OpenRail-M. | :grey_question: |
 | [PatternedAI](https://www.thataicollection.com/redirect/patternedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PatterndAI — создавайте уникальные шаблоны для вашего продукта с помощью искусственного интеллекта!. | Интегрируйте PatternedAI в свой бизнес! Получите ранний доступ к PatternedAI Enterprise. Присоединяйтесь к избранным клиентам в преобразовании рабочих процессов и стимулировании роста. | :grey_question: |
 | [Pet Booth](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pet Booth — это сервис для создания собственных портретов, иллюстраций и фотографий домашних животных с искусственным интеллектом. Просто загрузите 10-20 фотографий своей кошки или собаки и выберите из более чем 80 тем, в которые можно превратить их. | Pet Booth — это сервис для создания собственных удивительных портретов, фотографий и произведений искусства с искусственным интеллектом. Это быстро, просто и увлекательно!  Как это работает?  Просто загрузите 10-20 фотографий вашей кошки или собаки и выберите из более чем 80 тем, в которые можно превратить их.  Получите набор из 100 изображений вашего питомца, созданных искусственным интеллектом, как в фотореалистичном, так и в художественном стиле. | :grey_question: |
+| [Photo Rush](https://www.thataicollection.com/redirect/photo-rush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Профессиональные фотографии продуктов за считанные минуты. | PhotRush — это идеальное решение для малого бизнеса и частных лиц, которым нужна профессиональная фотосъемка продуктов. Повышая качество фотографий, оно выделяет продукты на первый план и оптимизирует потенциал увеличения продаж. Эти изображения премиум-класса идеально подходят для платформ электронной коммерции. | :white_check_mark: |
 | [PhotoRoom](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PhotoRoom — удаление фона и создание изображений товаров. | Создавайте изображения продуктов и портреты, используя только свой телефон. Удалите фон, измените фон и продемонстрируйте продукты. | :grey_question: |
 | [Photosonic AI](https://www.thataicollection.com/redirect/photosonic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Photosonic AI Art Generator — создавайте уникальные изображения с помощью ИИ. | Превратите свое воображение в потрясающее цифровое искусство с помощью Photosonic — генератора искусств на основе искусственного интеллекта. Этот генератор изображений с искусственным интеллектом Writesonic с его творческими предложениями может помочь раскрыть вашего внутреннего художника и поделиться своими творениями с миром. | :grey_question: |
 | [Phraser](https://www.thataicollection.com/redirect/phraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Phraser - совместный творческий инструмент искусственного интеллекта. | Phraser — это приложение, которое помогает создавать изображения с помощью генеративного ИИ (Midjourney, Stable Diffusion и DALLE 2), сотрудничать и черпать вдохновение. | :grey_question: |
@@ -747,6 +748,7 @@
 | [Fermat](https://www.thataicollection.com/redirect/fermat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Креативность увеличена для создания контента. | Раскройте свой творческий потенциал с помощью ИИ на совместном холсте. | :grey_question: |
 | [Hotpot](https://www.thataicollection.com/redirect/hotpot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hotpot.ai. | Hotpot.ai поможет вам создать потрясающую графику, изображения и текст. Инструменты искусственного интеллекта, такие как AI Art Generator, стимулируют творчество и автоматизируют рутинную работу, а простые в редактировании шаблоны позволяют любому создавать макеты устройств, публикации в социальных сетях, маркетинговые изображения, значки приложений и другую рабочую графику. | :grey_question: |
 | [Lightricks](https://www.thataicollection.com/redirect/lightricks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Дом для авторов повсюду. | Испытайте волшебство творчества с лучшими инструментами и сервисами для авторов: Facetune 2, Videoleap, Linkinbio и Photoleap. Проверьте это сейчас!. | :grey_question: |
+| [Lilybank AI](https://www.thataicollection.com/redirect/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Познакомьтесь с искусственным интеллектом Lilybank — лучшим способом создания контента с помощью искусственного интеллекта. | LilyBankAI — это инновационная платформа для написания текстов и создания изображений для бизнеса, которая ускоряет производство оригинального контента с помощью технологии искусственного интеллекта. | :white_check_mark: |
 | [Magic Mate](https://www.thataicollection.com/redirect/magic-mate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Magicmate — умный помощник с искусственным интеллектом для WhatsApp — общайтесь в чате с GPT, звоните, инструктируйте Pix2Pix и многое другое. | Magic Mate — это умный помощник с искусственным интеллектом: общайтесь с ChatGPT, рисуйте с Dalle, раскрашивайте и восстанавливайте изображения, редактируйте изображения на естественном языке, переводите аудио и многое другое прямо в WhatsApp!. | :grey_question: |
 | [Media.io](https://www.thataicollection.com/redirect/media.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Платформа для онлайн-видео, аудио и изображений на базе искусственного интеллекта. | Простота. Разнообразие. Гибкость. | :white_check_mark: |
 | [Phygital](https://www.thataicollection.com/redirect/phygital?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Творцы со сверхспособностями. | Рабочее пространство искусственного интеллекта на основе узлов, позволяющее авторам работать с нейронными сетями без кода. (Альфа). | :grey_question: |

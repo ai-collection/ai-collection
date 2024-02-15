@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1088" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1092" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=42" />
@@ -66,21 +66,6 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
-    </a>
-    <h4>Het Imagine: cambia el estilo de una casa en 10 segundos o menos. Inspiración, diseño de interiores, puesta en escena y más.</h4>
-    <p>Cambia el estilo de una casa en 10 segundos o menos. A continuación, puedes utilizar nuestro motor de búsqueda para encontrar los productos de las fotos. 
-
-Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para inspirarte, diseñar interiores, fotos de puesta en escena y mucho más.</p>
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Deft</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -89,6 +74,21 @@ Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para ins
 
 ¡Tus sueños más locos están a un clic de distancia hoy!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
+    </a>
+    <h4>Het Imagine: cambia el estilo de una casa en 10 segundos o menos. Inspiración, diseño de interiores, puesta en escena y más.</h4>
+    <p>Cambia el estilo de una casa en 10 segundos o menos. A continuación, puedes utilizar nuestro motor de búsqueda para encontrar los productos de las fotos. 
+
+Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para inspirarte, diseñar interiores, fotos de puesta en escena y mucho más.</p>
+    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Deft</b></a>
     <br />
 </div>
 
@@ -886,6 +886,7 @@ Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para ins
 | [Pattern Maker AI](https://www.thataicollection.com/redirect/pattern-maker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Genera patrones sin fisuras con inteligencia artificial. | Pattern Maker AI: genera patrones sin fisuras creativos y únicos con una variante del modelo de IA de difusión estable que se creó en colaboración entre ingenieros e investigadores de CompVis, Stability AI y LAION y que se publicó con una licencia Creative ML OpenRail-M. | :grey_question: |
 | [PatternedAI](https://www.thataicollection.com/redirect/patternedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PatterndAI: ¡genera patrones únicos para tu producto utilizando IA!. | ¡Integra PatternedAI en tu negocio! Obtenga acceso temprano a PatternedAI Enterprise. Únase a clientes seleccionados para transformar los flujos de trabajo e impulsar el crecimiento. | :grey_question: |
 | [Pet Booth](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pet Booth es un servicio para crear tus propios retratos, ilustraciones y fotos de mascotas con IA. Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos. | Pet Booth es un servicio para crear tus propios increíbles retratos, fotos e ilustraciones de mascotas con IA. ¡Es rápido, fácil y divertido!  ¿Cómo funciona?  Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.  Recibe un paquete de 100 imágenes generadas por la IA de tu mascota en estilos fotorrealista y artístico. | :grey_question: |
+| [Photo Rush](https://www.thataicollection.com/redirect/photo-rush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Fotos profesionales de productos en cuestión de minutos. | PhotoRush es la solución ideal para las pequeñas empresas y las personas que buscan fotografías de productos de calidad profesional. Al aumentar la calidad de las fotografías, garantiza que los productos destaquen y optimiza la posibilidad de aumentar las ventas. Estas imágenes premium son perfectas para las plataformas de comercio electrónico. | :white_check_mark: |
 | [PhotoRoom](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Photoroom: elimine el fondo y cree imágenes de productos. | Cree imágenes de productos y retratos usando solo su teléfono. Quite el fondo, cambie el fondo y muestre productos. | :grey_question: |
 | [Photosonic AI](https://www.thataicollection.com/redirect/photosonic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Photosonic AI Art Generator: crea imágenes únicas con IA. | Transforme su imaginación en un impresionante arte digital con Photosonic, el generador de arte con IA. Con sus sugerencias creativas, el generador de imágenes AI de Writesonic puede ayudarlo a liberar su artista interior y compartir sus creaciones con el mundo. | :grey_question: |
 | [Phraser](https://www.thataicollection.com/redirect/phraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Phraser la herramienta de IA creativa colaborativa. | Phraser es una aplicación que te ayuda a crear imágenes usando IA generativa (Midjourney, Stable Diffusion y DALLE 2), colaborar e inspirarte. | :grey_question: |
@@ -1020,6 +1021,7 @@ Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para ins
 | [Fermat](https://www.thataicollection.com/redirect/fermat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Creatividad aumentada para la creación de contenido. | Dé rienda suelta a su creatividad con IA en un lienzo colaborativo. | :grey_question: |
 | [Hotpot](https://www.thataicollection.com/redirect/hotpot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hotpot.Ai. | Hotpot.ai te ayuda a crear gráficos, imágenes y texto asombrosos. Las herramientas de IA como AI Art Generator despiertan la creatividad y automatizan el trabajo pesado, mientras que las plantillas fáciles de editar permiten a cualquier persona crear maquetas de dispositivos, publicaciones en redes sociales, imágenes de marketing, íconos de aplicaciones y otros gráficos de trabajo. | :grey_question: |
 | [Lightricks](https://www.thataicollection.com/redirect/lightricks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hogar de creadores de todo el mundo. | Experimenta la magia de crear con las mejores herramientas y servicios para creadores: Facetune 2, Videoleap, Linkinbio & Photoleap. ¡Échale un vistazo ahora!. | :grey_question: |
+| [Lilybank AI](https://www.thataicollection.com/redirect/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Conoce la IA de Lilybank, una forma mejor de crear contenido con la IA. | LilyBankai es una innovadora plataforma de escritura y generación de imágenes para empresas que acelera la producción de contenido original mediante el uso de la tecnología de inteligencia artificial. | :white_check_mark: |
 | [Magic Mate](https://www.thataicollection.com/redirect/magic-mate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Magicmate, asistente de IA inteligente para WhatsApp, chatea, GPT, Dalle, instruye a Pix2Pix y más. | Magic Mate es un asistente de IA inteligente: chatea con ChatGPT, dibuja con Dalle, colorea y restaura imágenes, edita imágenes en lenguaje natural, traduce audio y mucho más directamente en WhatsApp. | :grey_question: |
 | [Media.io](https://www.thataicollection.com/redirect/media.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Plataforma de creatividad de imagen, audio y video en línea con tecnología de IA. | Sencillez. Diversidad. Flexibilidad. | :white_check_mark: |
 | [Phygital](https://www.thataicollection.com/redirect/phygital?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Creadores con superpoderes. | Espacio de trabajo de IA basado en nodos para que los creadores trabajen con redes neuronales sin código. (Alfa). | :grey_question: |

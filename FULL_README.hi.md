@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1088" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1092" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=42" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
+    </a>
+    <h4>क्लिपटिक्स, बोलने के लिए मुफ़्त टेक्स्ट! तुम्हारे शब्द, हमारी आवाज़ें।</h4>
+    <p>पेश है क्लिपटिक्स, टेक्स्ट को आसानी से स्वाभाविक लगने वाली भाषा में बदलने के लिए तुम्हारा सबसे अच्छा साथी। चाहे तुम एक छात्र हो जो अपनी अध्ययन सामग्री को बेहतर बनाना चाहता हो, एक कंटेंट निर्माता हो जो अपने दर्शकों को आकर्षित करने के लिए नवोन्मेषी तरीके खोज रहा हो, या बस कोई ऐसा व्यक्ति जो सुनने से ज्यादा पढ़ना पसंद करता हो, क्लिपटिक्स एक आसान समाधान प्रदान करता है। क्लिपटिक्स —जहाँ तुम्हारे आदेश पर शब्द जीवंत हो जाते हैं, नि:शुल्क</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Cliptics के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
     </a>
@@ -61,19 +74,6 @@
 
 यह बहुत सटीक है, और ऐसे बहुत सारे स्टाइल हैं जिन्हें तुम चुन सकते हो। प्रेरणा, इंटीरियर डिज़ाइन, फ़ोटो के मंचन, और बहुत कुछ के लिए बहुत अच्छा है।</p>
     <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Deft के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
-    </a>
-    <h4>क्लिपटिक्स, बोलने के लिए मुफ़्त टेक्स्ट! तुम्हारे शब्द, हमारी आवाज़ें।</h4>
-    <p>पेश है क्लिपटिक्स, टेक्स्ट को आसानी से स्वाभाविक लगने वाली भाषा में बदलने के लिए तुम्हारा सबसे अच्छा साथी। चाहे तुम एक छात्र हो जो अपनी अध्ययन सामग्री को बेहतर बनाना चाहता हो, एक कंटेंट निर्माता हो जो अपने दर्शकों को आकर्षित करने के लिए नवोन्मेषी तरीके खोज रहा हो, या बस कोई ऐसा व्यक्ति जो सुनने से ज्यादा पढ़ना पसंद करता हो, क्लिपटिक्स एक आसान समाधान प्रदान करता है। क्लिपटिक्स —जहाँ तुम्हारे आदेश पर शब्द जीवंत हो जाते हैं, नि:शुल्क</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Cliptics के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -517,6 +517,7 @@
 | [Pattern Maker AI](https://www.thataicollection.com/redirect/pattern-maker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आर्टिफिशियल इंटेलिजेंस का इस्तेमाल करके सहज पैटर्न जेनरेट करें. | पैटर्न मेकर AI - स्टेबल डिफ्यूजन AI मॉडल के वेरिएंट का उपयोग करके रचनात्मक और अनोखे सहज पैटर्न जेनरेट करें, जिसे CompVis, Stability AI और LAION के इंजीनियरों और शोधकर्ताओं के सहयोग से बनाया गया था और इसे क्रिएटिव ML OpenRail-M लाइसेंस के तहत जारी किया गया था. | :grey_question: |
 | [PatternedAI](https://www.thataicollection.com/redirect/patternedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पैटर्नडीएआई - एआई का उपयोग करके अपने उत्पाद के लिए अद्वितीय पैटर्न बनाएं!. | अपने व्यवसाय में पैटर्नेडएआई को एकीकृत करें! पैटर्नडएआई एंटरप्राइज तक शीघ्र पहुंच प्राप्त करें। वर्कफ़्लो को बदलने और विकास को गति देने में चयनित ग्राहकों से जुड़ें।. | :grey_question: |
 | [Pet Booth](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पेट बूथ तुम्हारे खुद के AI पेट पोर्ट्रेट्स, आर्टवर्क और फ़ोटो बनाने की सेवा है। बस अपनी बिल्ली या कुत्ते की 10-20 तस्वीरें अपलोड करें और उन्हें बदलने के लिए 80 से अधिक थीम में से चुनें।. | पेट बूथ आपके खुद के अद्भुत AI पेट पोर्ट्रेट, फ़ोटो और आर्टवर्क बनाने की सेवा है। यह तेज़, आसान और मज़ेदार है!  यह कैसे काम करता है?  बस अपनी बिल्ली या कुत्ते की 10-20 तस्वीरें अपलोड करें और उन्हें बदलने के लिए 80 से अधिक थीम में से चुनें।  फ़ोटो-यथार्थवादी और कलात्मक दोनों शैलियों में अपने पालतू जानवरों की 100 AI जनरेट की गई तस्वीरों का एक पैकेट प्राप्त करें।. | :grey_question: |
+| [Photo Rush](https://www.thataicollection.com/redirect/photo-rush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कुछ ही मिनटों में प्रोफ़ेशनल प्रॉडक्ट की फ़ोटो।. | PhotoRush छोटे व्यवसायों और प्रोफ़ेशनल-श्रेणी के प्रॉडक्ट फ़ोटोग्राफ़ी की तलाश करने वाले लोगों के लिए पसंदीदा समाधान है। फ़ोटो की क्वालिटी बढ़ाकर, यह सुनिश्चित करता है कि उत्पाद सबसे अलग दिखें, जिससे बिक्री बढ़ने की संभावना को बेहतर बनाया जा सके। ये प्रीमियम इमेज ई-कॉमर्स प्लेटफ़ॉर्म के लिए बिल्कुल सही हैं।. | :white_check_mark: |
 | [PhotoRoom](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फोटोरूम - पृष्ठभूमि हटाएं और उत्पाद चित्र बनाएं. | केवल अपने फ़ोन का उपयोग करके उत्पाद और चित्र चित्र बनाएँ। पृष्ठभूमि हटाएं, पृष्ठभूमि बदलें और उत्पादों का प्रदर्शन करें।. | :grey_question: |
 | [Photosonic AI](https://www.thataicollection.com/redirect/photosonic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फोटोसोनिक एआई आर्ट जेनरेटर - एआई के साथ अद्वितीय छवियां बनाएं. | फोटोसोनिक - एआई कला जनरेटर के साथ अपनी कल्पना को आश्चर्यजनक डिजिटल कला में बदलें। अपने रचनात्मक सुझावों के साथ, यह राइट्सोनिक का एआई इमेज जनरेटर आपके भीतर के कलाकार को बाहर निकालने में मदद कर सकता है और आपकी रचनाओं को दुनिया के साथ साझा कर सकता है।. | :grey_question: |
 | [Phraser](https://www.thataicollection.com/redirect/phraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Phraser - सहयोगात्मक क्रिएटिव AI टूल. | Phraser एक ऐसा ऐप है जो आपको जनरेटिव AI (मिडजर्नी, स्टेबल डिफ्यूजन और DALLE 2) का उपयोग करके इमेज बनाने, सहयोग करने और प्रेरित होने में मदद करता है।. | :grey_question: |
@@ -820,6 +821,7 @@
 | [Fermat](https://www.thataicollection.com/redirect/fermat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सामग्री निर्माण के लिए रचनात्मकता संवर्धित. | सहयोगी कैनवास पर एआई के साथ अपनी रचनात्मकता को उजागर करें।. | :grey_question: |
 | [Hotpot](https://www.thataicollection.com/redirect/hotpot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हॉटपॉट।ऐ. | Hotpot.ai आपको अद्भुत ग्राफिक्स, चित्र और टेक्स्ट बनाने में मदद करता है। एआई आर्ट जेनरेटर जैसे एआई टूल रचनात्मकता को जगाते हैं और कड़ी मेहनत को स्वचालित करते हैं, जबकि आसानी से संपादित होने वाले टेम्प्लेट किसी को भी डिवाइस मॉकअप, सोशल मीडिया पोस्ट, मार्केटिंग इमेज, ऐप आइकन और अन्य वर्क ग्राफिक्स बनाने में सक्षम बनाते हैं।. | :grey_question: |
 | [Lightricks](https://www.thataicollection.com/redirect/lightricks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हर जगह रचनाकारों का घर. | क्रिएटर्स के लिए सर्वोत्तम टूल और सेवाओं के साथ सृजन के जादू का अनुभव करें: फेसट्यून 2, वीडियोलीप, लिंकिनबियो और फोटोलीप। अब इसे जांचें!. | :grey_question: |
+| [Lilybank AI](https://www.thataicollection.com/redirect/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लिलीबैंक एआई से मिलें, एआई के ज़रिए कॉन्टेंट बनाने का एक बेहतर तरीका. | लिलीबैंकएआई बिज़नेस के लिए एक नवोन्मेषी लेखन और इमेज जनरेशन प्लेटफ़ॉर्म है, जो AI तकनीक का इस्तेमाल करके मूल सामग्री के प्रोडक्शन की गति बढ़ाता है।. | :white_check_mark: |
 | [Magic Mate](https://www.thataicollection.com/redirect/magic-mate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मैजिकमेट - WhatsApp के लिए स्मार्ट AI असिस्टेंट - जीपीटी चैट, डेल, इंस्ट्रक्ट पिक्स2पिक्स और बहुत कुछ. | मैजिक मेट एक स्मार्ट AI असिस्टेंट है - सीधे WhatsApp में ChatGPT से बात करो, डेल के साथ ड्रा करो, छवियों को रंग दो और रीस्टोर करो, प्राकृतिक भाषा में छवियाँ संपादित करो, ऑडियो का अनुवाद करो और बहुत कुछ!. | :grey_question: |
 | [Media.io](https://www.thataicollection.com/redirect/media.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई द्वारा संचालित ऑनलाइन वीडियो, ऑडियो, इमेज क्रिएटिविटी प्लेटफॉर्म. | सादगी। विविधता। लचीलापन।. | :white_check_mark: |
 | [Phygital](https://www.thataicollection.com/redirect/phygital?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | महाशक्तियों वाले निर्माता. | कोड के बिना तंत्रिका नेटवर्क के साथ काम करने के लिए रचनाकारों के लिए नोड-आधारित एआई कार्यक्षेत्र। (अल्फा). | :grey_question: |
