@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1092" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1093" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=42" />
@@ -53,14 +53,14 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
-    <h4>Deft Imagine — рестайлинг дома за 10 секунд или меньше. Вдохновение, дизайн интерьера, постановка и многое другое.</h4>
-    <p>Рестайлинг дома за 10 секунд или меньше. Затем вы можете использовать нашу поисковую систему, чтобы найти товары на фотографиях. 
+    <h4>Начните общаться бесплатно с помощью нашего страшно быстрого движка персонажей NSFW AI. Более 7500 наших секс-персонажей с искусственным интеллектом это поняли, игривые и отзывчивые. Искусственный интеллект без цензуры, никаких суждений. Все в ваших руках.</h4>
+    <p>Разнообразие от доминирующих до покорных и не только. Заходите прямо сейчас, чтобы получать доступ к секстингу с искусственным интеллектом в режиме 24/7 и пикантным чатам, которые заставят вас затаить дыхание.
 
-Он очень точный, и вы можете выбирать из множества стилей. Отлично подходит для вдохновения, дизайна интерьера, постановки фотографий и многого другого.</p>
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Deft</b></a>
+Сегодня от ваших самых смелых мечтаний вас отделяет всего один клик!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -74,21 +74,6 @@
     <h4>Cliptics, бесплатный перевод текста в речь! Ваши слова, наши голоса.</h4>
     <p>Представляем Cliptics, вашего идеального помощника для простого преобразования текста в естественную речь. Независимо от того, являетесь ли вы студентом, желающим улучшить свои учебные материалы, создателем контента, ищущим инновационные способы привлечения аудитории, или просто тем, кто предпочитает слушать, а не читать, Cliptics предлагает идеальное решение. Cliptics — это место, где слова оживают по вашему усмотрению и бесплатно</p>
     <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Cliptics</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
-    </a>
-    <h4>Начните общаться бесплатно с помощью нашего страшно быстрого движка персонажей NSFW AI. Более 7500 наших секс-персонажей с искусственным интеллектом это поняли, игривые и отзывчивые. Искусственный интеллект без цензуры, никаких суждений. Все в ваших руках.</h4>
-    <p>Разнообразие от доминирующих до покорных и не только. Заходите прямо сейчас, чтобы получать доступ к секстингу с искусственным интеллектом в режиме 24/7 и пикантным чатам, которые заставят вас затаить дыхание.
-
-Сегодня от ваших самых смелых мечтаний вас отделяет всего один клик!</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -1158,6 +1143,7 @@
 ## Продуктивность И Личностный Рост
 | Имя | Заголовок | Описание | Предложить бесплатную версию |
 |---|---|---|:---:|
+| [AI-Flow](https://www.thataicollection.com/redirect/ai-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-FLOW — это инновационная платформа с открытым исходным кодом, предназначенная для простого подключения и объединения ведущих моделей искусственного интеллекта и создания специальных инструментов искусственного интеллекта, адаптированных к вашим уникальн. | AI-FLOW — это универсальная платформа, которая позволяет создавать индивидуальные решения для широкого спектра приложений. Независимо от того, упрощаете ли вы создание контента для социальных сетей, резюмируете видеоролики на YouTube, масштабируете изображения, созданные искусственным интеллектом, или конвертируете текстовые описания в видеоклипы, AI-FLOW предоставляет инструменты, необходимые для инноваций и достижения успеха. | :white_check_mark: |
 | [AICamp](https://www.thataicollection.com/redirect/aicamp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT для команд AICamp позволяет командам централизовать доступ к ведущим моделям искусственного интеллекта, таким как Claude, Bard, и пользовательским крупноязычным моделям с помощью унифицированной платформы. | Вы можете интегрировать эти модели, используя собственные ключи API для беспрепятственного доступа в одном решении. Платформа позволяет командам повысить производительность, устраняя необходимость переключаться между несколькими инструментами для использования различных возможностей искусственного интеллекта. С помощью AiCamp сотрудники могут получать ответы, рекомендации и автоматические ответы на основе самых современных языковых моделей. | :white_check_mark: |
 | [aiPDF](https://www.thataicollection.com/redirect/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AiPDF — это инновационный мультимодальный инструмент, предназначенный для работы с широким спектром входных данных, включая электронные книги, веб-статьи, видео на YouTube, подкасты и многое другое. | Система вопросов и ответов платформы тщательно протестирована на соответствие требованиям известных компаний и авторитетных учреждений, включая Google и Стэнфордский университет, что гарантирует получение точных и точных ответов. AiPDF, отдавая приоритет конфиденциальности пользователей, оснащен передовыми системами безопасности для защиты ваших документов и личной информации, обеспечивая безопасный и конфиденциальный пользовательский интерфейс. | :white_check_mark: |
 | [ApplyPass](https://www.thataicollection.com/redirect/applypass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Найдите идеальную работу с помощью нашего искусственного интеллекта для подачи заявлений о приеме на работу. Каждую неделю автоматически подавайте заявки на сотни инженерных вакансий! Присоединяйтесь к ApplyPass, чтобы получить 100 бесплатных заявок. | ApplyPass — это инструмент для поиска работы на базе искусственного интеллекта, который позволяет проводить больше собеседований. ApplyPass ежемесячно подает 200-400 индивидуальных заявлений о приеме на работу от вашего имени. Этот инструмент предлагает первые 100 заявок на работу бесплатно.  ApplyPass.com провел тысячи интервью для инженеров, средний процент ответов на которые на 40% выше, чем в среднем по отрасли. | :white_check_mark: |
@@ -1214,6 +1200,7 @@
 | [FaceVary](https://www.thataicollection.com/redirect/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Бесплатная онлайн-программа для смены лица, которая позволяет менять головы и заменять лица на фотографиях. | FaceVary — это революционный новый продукт, который позволяет менять лица на фотографиях всего несколькими нажатиями. Он прост в использовании, в нем нет водяных знаков или рекламы. С FaceVary вы можете поменяться лицом со своими друзьями, знаменитостями или даже историческими личностями. Вы можете создавать забавные видеоролики, мемы и коллажи или просто весело проводить время, экспериментируя со своей внешностью. | :white_check_mark: |
 | [FinalTouch](https://www.thataicollection.com/redirect/finaltouch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Профессиональная фотография и дизайнерские возможности в ваших руках. | FinalTouch мгновенно превращает простую фотографию продукта в захватывающую сцену. Вам не нужно быть опытным дизайнером, чтобы удивить клиентов изображениями студийного качества. Создавайте несколько изображений одного и того же продукта в любых условиях, которые вам нравятся, чтобы вдохнуть новую жизнь в свое цифровое присутствие и маркетинговые кампании. | :white_check_mark: |
 | [Hama](https://www.thataicollection.com/redirect/hama?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Хама. | Удивительный ластик для фотографий. | :grey_question: |
+| [Headpix](https://www.thataicollection.com/redirect/headpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Headpix - Хедшоты, созданные искусственным интеллектом, — будущее портретов. | Хедшоты, созданные искусственным интеллектом, — будущее портретов Превратите свои обычные фотографии в профессиональные бизнес-снимки с помощью нашего генератора хедшотов с искусственным интеллектом. Выберите свой стиль, загрузите фотографии и получите 200 снимков в голову!. | :grey_question: |
 | [HitPaw Online Photo Enhancer](https://www.thataicollection.com/redirect/hitpaw-online-photo-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Размытие изображений и попрощайтесь с некачественными фотографиями. | HitPaw Online AI Photo Enhancer использует передовую технологию искусственного интеллекта для удаления шума, повышения резкости деталей и улучшения качества фотографий. | :white_check_mark: |
 | [HitPaw Photo AI](https://www.thataicollection.com/redirect/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | HitPaw Photo AI — это многофункциональный инструмент для редактирования фотографий с искусственным интеллектом, который объединяет функции улучшения фотографий, удаления объектов и фона, а также создает искусственный интеллект. | HitPaw Photo AI — это многофункциональный инструмент для редактирования фотографий с искусственным интеллектом, который объединяет функции улучшения фотографий, удаления объектов и фона, а также создает искусственный интеллект. | :white_check_mark: |
 | [HitPaw Photo Enhancer](https://www.thataicollection.com/redirect/hitpaw-photo-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | HitPaw Photo Enhancer - автоматический ультракачественный усилитель фотографий с искусственным интеллектом. | HitPaw Photo Enhancer — это лучший инструмент для улучшения фотографий с искусственным интеллектом, который помогает автоматически улучшать качество и разрешение изображения. Этот усилитель изображения оснащен технологией улучшения фотографий AI, позволяющей сделать снимки менее размытыми и увеличить изображения без потери качества. В этом улучшателе качества фотографий доступно несколько моделей искусственного интеллекта: общее, шумоподавления, распознавание лица, раскрашивание, калибровка цвета, устранени. | :white_check_mark: |

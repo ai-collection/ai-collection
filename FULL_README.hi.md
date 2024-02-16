@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1092" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1093" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=42" />
@@ -59,21 +59,6 @@
     <h4>क्लिपटिक्स, बोलने के लिए मुफ़्त टेक्स्ट! तुम्हारे शब्द, हमारी आवाज़ें।</h4>
     <p>पेश है क्लिपटिक्स, टेक्स्ट को आसानी से स्वाभाविक लगने वाली भाषा में बदलने के लिए तुम्हारा सबसे अच्छा साथी। चाहे तुम एक छात्र हो जो अपनी अध्ययन सामग्री को बेहतर बनाना चाहता हो, एक कंटेंट निर्माता हो जो अपने दर्शकों को आकर्षित करने के लिए नवोन्मेषी तरीके खोज रहा हो, या बस कोई ऐसा व्यक्ति जो सुनने से ज्यादा पढ़ना पसंद करता हो, क्लिपटिक्स एक आसान समाधान प्रदान करता है। क्लिपटिक्स —जहाँ तुम्हारे आदेश पर शब्द जीवंत हो जाते हैं, नि:शुल्क</p>
     <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Cliptics के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
-    </a>
-    <h4>डेफ़्ट इमेजिन - किसी घर को 10 सेकंड या उससे कम समय में रीस्टाइल करें। प्रेरणा, इंटीरियर डिज़ाइन, स्टेजिंग, और बहुत कुछ।</h4>
-    <p>किसी घर को 10 सेकंड या उससे कम समय में रीस्टाइल करें। फिर, तुम हमारे सर्च इंजन की मदद से तस्वीरों में मौजूद प्रॉडक्ट्स ढूंढ सकते हो। 
-
-यह बहुत सटीक है, और ऐसे बहुत सारे स्टाइल हैं जिन्हें तुम चुन सकते हो। प्रेरणा, इंटीरियर डिज़ाइन, फ़ोटो के मंचन, और बहुत कुछ के लिए बहुत अच्छा है।</p>
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Deft के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -343,6 +328,7 @@
 ## उत्पादकता और व्यक्तिगत विकास
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
+| [AI-Flow](https://www.thataicollection.com/redirect/ai-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-FLOW एक इनोवेटिव ओपन-सोर्स प्लेटफ़ॉर्म है, जिसे प्रमुख AI मॉडल को आसानी से जोड़ने और उन्हें मिलाने के लिए डिज़ाइन किया गया है, जो तुम्हारी खास ज़रूरतों के अनुरूप कस्टम AI टूल तैयार किए गए हैं।. | AI-FLOW एक बहुमुखी प्लेटफ़ॉर्म है, जो तुम्हेंं कई तरह के अनुप्रयोगों के लिए विशेष समाधान तैयार करने की सुविधा देता है। चाहे तुम सोशल मीडिया सामग्री निर्माण को सुव्यवस्थित कर रहे हो, YouTube वीडियो का सारांश बना रहे हो, AI-जनरेट की गई छवियों को बेहतर बना रहे हो, या टेक्स्ट के विवरण को वीडियो क्लिप में बदल रहे हो, AI-FLOW तुम्हेंं कुछ नया करने और बेहतर बनाने के लिए ज़रूरी टूल प्रदान करता है।. | :white_check_mark: |
 | [AICamp](https://www.thataicollection.com/redirect/aicamp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टीमों के लिए ChatGPT AICamp एक एकीकृत प्लेटफ़ॉर्म के माध्यम से टीमों को प्रमुख AI मॉडल जैसे क्लाउड, बार्ड और कस्टम बड़े भाषा मॉडल तक पहुँच को केंद्रीकृत करने में मदद करता है।. | तुम अपनी खुद की API कुंजियों का इस्तेमाल करके इन मॉडल को इंटीग्रेट कर सकते हो, ताकि एक ही समाधान में आसानी से एक्सेस किया जा सके। प्लेटफ़ॉर्म टीमों को अलग-अलग AI क्षमताओं का लाभ उठाने के लिए कई उपकरणों के बीच टॉगल करने की आवश्यकता को समाप्त करके उत्पादकता बढ़ाने की सुविधा देता है। AICamp की मदद से, कर्मचारियों को अत्याधुनिक भाषा मॉडल द्वारा उत्तर, सुझाव और स्वचालित प्रतिक्रियाएँ मिल सकती हैं।. | :white_check_mark: |
 | [aiPDF](https://www.thataicollection.com/redirect/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AIPDF एक अभिनव, मल्टी-मोडल टूल है, जिसे कई तरह के इनपुट के साथ काम करने के लिए डिज़ाइन किया गया है, जिसमें ई-बुक्स, वेब लेख, YouTube वीडियो, पॉडकास्ट और बहुत कुछ शामिल हैं।. | प्लेटफ़ॉर्म के (Q&A) सिस्टम का Google और स्टैनफ़ोर्ड यूनिवर्सिटी सहित नामी कंपनियों और प्रतिष्ठित संस्थानों के बेंचमार्क के खिलाफ कड़ाई से परीक्षण किया जाता है, जिससे सटीक और बेहतरीन प्रतिक्रियाएँ मिलती हैं। यूज़र की गोपनीयता को प्राथमिकता देते हुए, AIPDF में तुम्हारे दस्तावेज़ों और व्यक्तिगत जानकारी, दोनों की सुरक्षा के लिए एडवांस सुरक्षा प्रणालियाँ हैं, जिससे यूज़र को सुरक्षित और निजी अनुभव मिलता है।. | :white_check_mark: |
 | [ApplyPass](https://www.thataicollection.com/redirect/applypass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हमारे जॉब एप्लीकेशन एआई की मदद से अपने लिए आदर्श नौकरी पाओ। हर हफ़्ते सैंकड़ों इंजीनियरिंग नौकरियों पर स्वचालित रूप से आवेदन करो! 100 मुफ़्त ऐप्लिकेशन पाने के लिए ApplyPass से जुड़ें।. | ApplyPass एक AI-संचालित जॉब सर्च टूल है, जिससे तुम्हेंं नौकरी के लिए ज़्यादा इंटरव्यू मिलते हैं। ApplyPass तुम्हारी ओर से हर महीने 200-400 अनुकूलित नौकरी के लिए आवेदन सबमिट करता है। यह टूल नौकरी के पहले 100 आवेदन मुफ़्त में देता है।  ApplyPass.com ने इंजीनियरों के लिए हज़ारों इंटरव्यू तैयार किए हैं, जिनका औसत रिस्पांस रेट इंडस्ट्री के औसत से 40% ज्यादा है।. | :white_check_mark: |
@@ -888,6 +874,7 @@
 | [FaceVary](https://www.thataicollection.com/redirect/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मुफ़्त ऑनलाइन फ़ेस चेंजर जिसकी मदद से तुम सिर बदल सकते हो और फ़ोटो में चेहरे बदल सकते हो।. | FaceVary एक क्रांतिकारी नया प्रॉडक्ट है जिससे तुम बस कुछ टैप में फ़ोटो में चेहरों की अदला-बदली कर सकते हो। इसका इस्तेमाल करना आसान है, और इसमें कोई वॉटरमार्क या विज्ञापन नहीं हैं। FaceVary के ज़रिए, तुम अपने दोस्तों, मशहूर हस्तियों, या यहाँ तक कि ऐतिहासिक हस्तियों के साथ अपना चेहरा बदल सकते हो। तुम मज़ेदार वीडियो, मीम और कोलाज बना सकते हो या अपनी उपस्थिति के साथ कुछ मज़ेदार प्रयोग कर सकते हो।. | :white_check_mark: |
 | [FinalTouch](https://www.thataicollection.com/redirect/finaltouch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पेशेवर फ़ोटोग्राफ़ी और डिज़ाइन की शक्ति आपकी उंगलियों पर. | फ़ाइनलटच आपको एक साधारण उत्पाद फ़ोटो से एक पल में एक मनोरम दृश्य में ले जाता है। स्टूडियो-गुणवत्ता वाली छवियों से ग्राहकों को लुभाने के लिए आपको एक विशेषज्ञ डिजाइनर होने की आवश्यकता नहीं है। अपनी डिजिटल उपस्थिति और मार्केटिंग अभियानों में नई जान फूंकने के लिए अपनी पसंद की किसी भी सेटिंग में एक ही उत्पाद की कई छवियां बनाएं।. | :white_check_mark: |
 | [Hama](https://www.thataicollection.com/redirect/hama?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हामा. | अद्भुत फोटो इरेज़र. | :grey_question: |
+| [Headpix](https://www.thataicollection.com/redirect/headpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हैडपिक्स - एआई-जनरेटेड हेडशॉट्स पोर्ट्रेट्स का भविष्य है. | एआई-जनरेटेड हेडशॉट्स पोर्ट्रेट्स का भविष्य है हमारे AI हेडशॉट जनरेटर की मदद से अपनी सामान्य तस्वीरों को पेशेवर बिज़नेस हेडशॉट में बदलें। अपना स्टाइल चुनें, अपनी फ़ोटो अपलोड करें और 200 हेडशॉट पाएँ!. | :grey_question: |
 | [HitPaw Online Photo Enhancer](https://www.thataicollection.com/redirect/hitpaw-online-photo-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | छवियों को धुंधला करें और कम गुणवत्ता वाली तस्वीरों को अलविदा कहें।. | HitPaw ऑनलाइन एआई फोटो एन्हांसर शोर को दूर करने, विवरण को तेज करने और फोटो की गुणवत्ता में सुधार करने के लिए उन्नत एआई तकनीक का उपयोग करता है. | :white_check_mark: |
 | [HitPaw Photo AI](https://www.thataicollection.com/redirect/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | HitPaw Photo AI एक मल्टी-फ़ंक्शनल AI फ़ोटो एडिटिंग टूल है, जो फ़ोटो एन्हांसमेंट, ऑब्जेक्ट और बैकग्राउंड हटाने के फंक्शन को एकीकृत करता है और AI आर्ट जेनरेट करता है।. | HitPaw Photo AI एक मल्टी-फ़ंक्शनल AI फ़ोटो एडिटिंग टूल है, जो फ़ोटो एन्हांसमेंट, ऑब्जेक्ट और बैकग्राउंड हटाने के फंक्शन को एकीकृत करता है और AI आर्ट जेनरेट करता है।. | :white_check_mark: |
 | [HitPaw Photo Enhancer](https://www.thataicollection.com/redirect/hitpaw-photo-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | HitPAW फ़ोटो एन्हांसर - ऑटोमेटिक अल्ट्रा क्वालिटी AI फ़ोटो एन्हांसर. | HitPAW फ़ोटो एन्हांसर सबसे अच्छा AI फ़ोटो एन्हांसर है जो तुम्हेंं छवि गुणवत्ता और रिज़ॉल्यूशन को अपने आप बढ़ाने में मदद करता है। इस इमेज एन्हांसर में AI फ़ोटो एन्हांसमेंट तकनीक दी गई है, ताकि तस्वीरों को कम धुंधला बनाया जा सके और बिना गुणवत्ता में कमी के इमेज को बड़ा किया जा सके। इस फ़ोटो की क्वालिटी बढ़ाने वाले टूल में कई AI मॉडल उपलब्ध हैं: सामान्य, डेनोइस, फेस, कलराइज़, कलर कैलिब्रेशन, स्क्रैच रिपेयर।. | :white_check_mark: |

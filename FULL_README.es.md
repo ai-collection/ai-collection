@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1092" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1093" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=42" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
-    </a>
-    <h4>Cliptics, ¡conversión de texto a voz gratis! Tus palabras, nuestras voces.</h4>
-    <p>Presentamos Cliptics, tu mejor compañera para convertir texto en voz con un sonido natural sin esfuerzo. Tanto si eres un estudiante que busca mejorar sus materiales de estudio, un creador de contenido que busca formas innovadoras de atraer a tu público o simplemente alguien que prefiere escuchar antes que leer, Cliptics ofrece una solución perfecta. Cliptics: donde las palabras cobran vida a tus órdenes, de forma gratuita</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Cliptics</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -81,14 +68,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
     </a>
-    <h4>Het Imagine: cambia el estilo de una casa en 10 segundos o menos. Inspiración, diseño de interiores, puesta en escena y más.</h4>
-    <p>Cambia el estilo de una casa en 10 segundos o menos. A continuación, puedes utilizar nuestro motor de búsqueda para encontrar los productos de las fotos. 
-
-Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para inspirarte, diseñar interiores, fotos de puesta en escena y mucho más.</p>
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Deft</b></a>
+    <h4>Cliptics, ¡conversión de texto a voz gratis! Tus palabras, nuestras voces.</h4>
+    <p>Presentamos Cliptics, tu mejor compañera para convertir texto en voz con un sonido natural sin esfuerzo. Tanto si eres un estudiante que busca mejorar sus materiales de estudio, un creador de contenido que busca formas innovadoras de atraer a tu público o simplemente alguien que prefiere escuchar antes que leer, Cliptics ofrece una solución perfecta. Cliptics: donde las palabras cobran vida a tus órdenes, de forma gratuita</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Cliptics</b></a>
     <br />
 </div>
 
@@ -596,6 +581,7 @@ Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para ins
 | [FaceVary](https://www.thataicollection.com/redirect/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cambiador de rostros en línea gratuito que te permite cambiar cabezas y reemplazar caras en las fotos. | FaceVary es un nuevo y revolucionario producto que permite intercambiar rostros en las fotos con solo unos toques. Es fácil de usar y no hay marcas de agua ni anuncios. Con FaceVary, puedes cambiar tu rostro por el de tus amigos, famosos o incluso personajes históricos. Puedes crear vídeos, memes y collages divertidos, o simplemente divertirte un poco experimentando con tu apariencia. | :white_check_mark: |
 | [FinalTouch](https://www.thataicollection.com/redirect/finaltouch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Fotografía profesional y poder de diseño al alcance de tu mano. | FinalTouch lo lleva de una simple foto de producto a una escena cautivadora, en un instante. No necesita ser un diseñador experto para sorprender a los clientes con imágenes con calidad de estudio. Cree múltiples imágenes del mismo producto en cualquier entorno que desee, para dar nueva vida a su presencia digital y campañas de marketing. | :white_check_mark: |
 | [Hama](https://www.thataicollection.com/redirect/hama?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | hama. | Impresionante borrador de fotos. | :grey_question: |
+| [Headpix](https://www.thataicollection.com/redirect/headpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Headpix - Los disparos a la cabeza generados por la IA son el futuro de los retratos. | Los disparos a la cabeza generados por la IA son el futuro de los retratos Transforma tus fotos habituales en fotos profesionales de negocios con nuestro generador de fotos de IA. ¡Elige tu estilo, sube tus fotos y consigue 200 fotos a la cabeza!. | :grey_question: |
 | [HitPaw Online Photo Enhancer](https://www.thataicollection.com/redirect/hitpaw-online-photo-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Desenfoca las imágenes y di adiós a las fotos de baja calidad. | HitPaw Online AI Photo Enhancer utiliza tecnología avanzada de IA para eliminar el ruido, afinar los detalles y mejorar la calidad de las fotos. | :white_check_mark: |
 | [HitPaw Photo AI](https://www.thataicollection.com/redirect/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | HitPaw Photo AI es una herramienta multifuncional de edición de fotografías con IA que integra funciones de mejora fotográfica, eliminación de objetos y fondos y genera arte con IA. | HitPaw Photo AI es una herramienta multifuncional de edición de fotografías con IA que integra funciones de mejora fotográfica, eliminación de objetos y fondos y genera arte con IA. | :white_check_mark: |
 | [HitPaw Photo Enhancer](https://www.thataicollection.com/redirect/hitpaw-photo-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Mejorador de fotos HitPaw: mejorador de fotos automático con IA de ultra calidad. | HitPaw Photo Enhancer es el mejor potenciador de fotos con IA que te ayuda a mejorar automáticamente la calidad y la resolución de la imagen. Este mejorador de imagen incluye una tecnología de mejora fotográfica con IA para hacer que las imágenes estén menos borrosas y ampliarlas sin perder calidad. Hay varios modelos de IA disponibles en este mejorador de la calidad fotográfica: general, ruido, rostro, coloración, calibración del color, reparación de arañazos. | :white_check_mark: |
@@ -1141,6 +1127,7 @@ Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para ins
 ## Productividad Y Crecimiento Personal
 | Nombre | Título | Descripción | Ofrecer versión gratuita |
 |---|---|---|:---:|
+| [AI-Flow](https://www.thataicollection.com/redirect/ai-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-FLOW es una innovadora plataforma de código abierto diseñada para conectar y combinar sin esfuerzo los principales modelos de IA, creando herramientas de IA personalizadas que se adapten a tus necesidades únicas. | AI-FLOW es una plataforma versátil que te permite crear soluciones a medida para una amplia gama de aplicaciones. Ya sea que estés simplificando la creación de contenido para redes sociales, resumiendo vídeos de YouTube, aumentando el tamaño de las imágenes generadas por la IA o convirtiendo las descripciones de texto en videoclips, AI-FLOW te proporciona las herramientas que necesitas para innovar y sobresalir. | :white_check_mark: |
 | [AICamp](https://www.thataicollection.com/redirect/aicamp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT para equipos AiCamp permite a los equipos centralizar el acceso a los principales modelos de IA, como Claude, Bard, y a modelos lingüísticos grandes personalizados a través de una plataforma unificada. | Puedes integrar estos modelos con tus propias claves de API para acceder sin problemas en una sola solución. La plataforma permite a los equipos aumentar la productividad al eliminar la necesidad de cambiar entre varias herramientas para aprovechar las diferentes capacidades de la IA. Con AiCamp, los empleados pueden obtener respuestas, recomendaciones y respuestas automáticas impulsadas por modelos lingüísticos de última generación. | :white_check_mark: |
 | [aiPDF](https://www.thataicollection.com/redirect/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AiPDF es una herramienta innovadora y multimodal diseñada para funcionar con una amplia gama de entradas, incluidos libros electrónicos, artículos web, vídeos de YouTube, podcasts y mucho más. | El sistema (preguntas y respuestas) de la plataforma se prueba rigurosamente con puntos de referencia de empresas e instituciones destacadas, como Google y la Universidad de Stanford, lo que garantiza la entrega de respuestas precisas y ajustadas. Al priorizar la privacidad de los usuarios, AiPDF está equipado con sistemas de seguridad avanzados para proteger tanto tus documentos como tu información personal, garantizando una experiencia de usuario segura y privada. | :white_check_mark: |
 | [ApplyPass](https://www.thataicollection.com/redirect/applypass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas. | ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.  ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector. | :white_check_mark: |

@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1092" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1093" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=42" />
@@ -65,21 +65,6 @@ Translations:
     <h4>Cliptics, Free Text to speech! Your words, our Voices.</h4>
     <p>Introducing Cliptics, your ultimate companion for converting text into natural-sounding speech effortlessly. Whether you're a student looking to enhance your study materials, a content creator seeking innovative ways to engage your audience, or simply someone who prefers listening over reading, Cliptics offers a seamless solution. Cliptics –where words come to life at your command, free of charge</p>
     <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Cliptics</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
-    </a>
-    <h4>Deft Imagine - Restyle a home in 10 seconds or less. Inspiration, interior design, staging, and more.</h4>
-    <p>Restyle a home in 10 seconds or less. Then, you can use our search engine to find the products in the photos. 
-
-It is highly accurate, and there are tons of styles that you can choose from. Great for inspiration, interior design, staging photos, and more.</p>
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Deft</b></a>
     <br />
 </div>
 
@@ -992,6 +977,7 @@ Your wildest dreams are just a click away today!</p>
 | [FaceVary](https://www.thataicollection.com/redirect/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Free online face changer that allows you to swap heads and replace faces in photos. | FaceVary is a revolutionary new product that allows you to swap faces in photos with just a few taps. It's easy to use, and there are no watermarks or ads. With FaceVary, you can swap your face with your friends, celebrities, or even historical figures. You can create funny videos, memes, and collages, or just have some fun experimenting with your appearance. | :white_check_mark: |
 | [FinalTouch](https://www.thataicollection.com/redirect/finaltouch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Professional Photography and Design Power at Your Fingertips. | FinalTouch takes you from a plain product photo to a captivating scene, in an instant. You don’t need to be an expert designer to wow customers with studio-quality images. Create multiple images of the same product in any setting you like, to breathe new life into your digital presence and marketing campaigns. | :white_check_mark: |
 | [Hama](https://www.thataicollection.com/redirect/hama?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hama. | Amazing photo eraser. | :grey_question: |
+| [Headpix](https://www.thataicollection.com/redirect/headpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Headpix - AI-Generated Headshots is The Future of Portraits. | AI-Generated Headshots is The Future of Portraits Transform your regular photos into professional business headshots with our AI headshot generator. Choose your style, upload your photos, and get 200 headshots!. | :grey_question: |
 | [HitPaw Online Photo Enhancer](https://www.thataicollection.com/redirect/hitpaw-online-photo-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unblur Images and Say Goodbye to Low-Quality Photos. | HitPaw Online AI Photo Enhancer uses advanced AI technology to remove noise, sharpen details and improve photo quality. | :white_check_mark: |
 | [HitPaw Photo AI](https://www.thataicollection.com/redirect/hitpaw-photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | HitPaw Photo AI is a multi-functional AI photo editing tool that integrates photo enhancement, object & background removal functions, and generate AI art. | HitPaw Photo AI is a multi-functional AI photo editing tool that integrates photo enhancement, object & background removal functions, and generate AI art. | :white_check_mark: |
 | [HitPaw Photo Enhancer](https://www.thataicollection.com/redirect/hitpaw-photo-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | HitPaw Photo Enhancer - Automatic Ultra Quality AI Photo Enhancer. | HitPaw Photo Enhancer is the best AI Photo Enhancer that helps you to automatically enhance image quality and resolution. This image enhancer features AI photo enhancement technology to make pictures less blurry and enlarge images without quality loss. Multiple AI models are available in this photo quality enhancer: general, denoise, face, colorize, color calibration, scratch repair. | :white_check_mark: |
@@ -1063,6 +1049,7 @@ Your wildest dreams are just a click away today!</p>
 ## Productivity & Personal Growth
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [AI-Flow](https://www.thataicollection.com/redirect/ai-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-FLOW is an innovative open-source platform designed to effortlessly connect and combine leading AI models, crafting custom AI tools tailored to your unique needs. | AI-FLOW is a versatile platform that empowers you to construct tailor-made solutions for a wide range of applications. Whether you're streamlining social media content creation, summarizing YouTube videos, upscaling AI-generated images, or converting text descriptions into video clips, AI-FLOW provides the tools you need to innovate and excel. | :white_check_mark: |
 | [AICamp](https://www.thataicollection.com/redirect/aicamp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT for Teams AICamp enables teams to centralize access to leading AI models like Claude, Bard, and custom large language models through a unified platform. | You can integrate these models using your own API keys for seamless access within one solution. The platform allows teams to boost productivity by eliminating the need to toggle between multiple tools to leverage different AI capabilities. With AICamp, employees can get answers, recommendations, and automated responses powered by state-of-the-art language models. | :white_check_mark: |
 | [aiPDF](https://www.thataicollection.com/redirect/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | aiPDF is an innovative, multi-modal tool designed to work with a wide array of inputs, including ebooks, web articles, YouTube videos, podcasts, and more. | The platform's (Q&A) system is rigorously tested against benchmarks from notable companies and esteemed institutions, including Google and Stanford University, ensuring the delivery of accurate and fine-tuned responses. Prioritizing user privacy, aiPDF is equipped with advanced safety systems to protect both your documents and personal information, ensuring a secure and private user experience. | :white_check_mark: |
 | [ApplyPass](https://www.thataicollection.com/redirect/applypass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Land your ideal job with our job application AI. Automatically apply to hundreds of engineering jobs every week! Join ApplyPass to get 100 free applications. | ApplyPass is an AI-powered job search tool that gets you more job interviews. ApplyPass submits 200-400 tailored job applications on your behalf every month. This tool offers the first 100 job applications for free.  ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that's 40% higher than the industry average. | :white_check_mark: |

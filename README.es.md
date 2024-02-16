@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1092" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1093" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=42" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
-    </a>
-    <h4>Cliptics, ¡conversión de texto a voz gratis! Tus palabras, nuestras voces.</h4>
-    <p>Presentamos Cliptics, tu mejor compañera para convertir texto en voz con un sonido natural sin esfuerzo. Tanto si eres un estudiante que busca mejorar sus materiales de estudio, un creador de contenido que busca formas innovadoras de atraer a tu público o simplemente alguien que prefiere escuchar antes que leer, Cliptics ofrece una solución perfecta. Cliptics: donde las palabras cobran vida a tus órdenes, de forma gratuita</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Cliptics</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -81,14 +68,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
     </a>
-    <h4>Het Imagine: cambia el estilo de una casa en 10 segundos o menos. Inspiración, diseño de interiores, puesta en escena y más.</h4>
-    <p>Cambia el estilo de una casa en 10 segundos o menos. A continuación, puedes utilizar nuestro motor de búsqueda para encontrar los productos de las fotos. 
-
-Es muy preciso y hay muchos estilos entre los que puedes elegir. Genial para inspirarte, diseñar interiores, fotos de puesta en escena y mucho más.</p>
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Deft</b></a>
+    <h4>Cliptics, ¡conversión de texto a voz gratis! Tus palabras, nuestras voces.</h4>
+    <p>Presentamos Cliptics, tu mejor compañera para convertir texto en voz con un sonido natural sin esfuerzo. Tanto si eres un estudiante que busca mejorar sus materiales de estudio, un creador de contenido que busca formas innovadoras de atraer a tu público o simplemente alguien que prefiere escuchar antes que leer, Cliptics ofrece una solución perfecta. Cliptics: donde las palabras cobran vida a tus órdenes, de forma gratuita</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Cliptics</b></a>
     <br />
 </div>
 
@@ -152,6 +137,37 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 💰 [Ventas Y Marketing](#ventas-y-marketing)
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
+
+### AI-Flow
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-flow.webp" alt="AI-Flow">
+
+#### AI-FLOW es una innovadora plataforma de código abierto diseñada para conectar y combinar sin esfuerzo los principales modelos de IA, creando herramientas de IA personalizadas que se adapten a tus necesidades únicas.
+[Visit](https://www.thataicollection.com/redirect/ai-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI-FLOW es una plataforma versátil que te permite crear soluciones a medida para una amplia gama de aplicaciones. Ya sea que estés simplificando la creación de contenido para redes sociales, resumiendo vídeos de YouTube, aumentando el tamaño de las imágenes generadas por la IA o convirtiendo las descripciones de texto en videoclips, AI-FLOW te proporciona las herramientas que necesitas para innovar y sobresalir.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/ai-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Headpix
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-headpix.webp" alt="Headpix">
+
+#### Headpix | Los disparos a la cabeza generados por la IA son el futuro de los retratos
+[Visit](https://www.thataicollection.com/redirect/headpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Los disparos a la cabeza generados por la IA son el futuro de los retratos
+Transforma tus fotos habituales en fotos profesionales de negocios con nuestro generador de fotos de IA. ¡Elige tu estilo, sube tus fotos y consigue 200 fotos a la cabeza!
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/headpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Photo Rush
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-rush.webp" alt="Photo Rush">
@@ -224,36 +240,6 @@ GPTSapp.io se destaca como la «mejor aplicación de GPTS» y ofrece una puerta 
 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### PH Deck
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ph-deck.webp" alt="PH Deck">
-
-#### Mira el lanzamiento del producto de Everyday en una sola baraja
-[Visit](https://www.thataicollection.com/redirect/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Diseñado para los usuarios de Product Hunt, revela las tendencias del mercado a través de los enfoques comprobados de IA e YC. Combinamos la tecnología de inteligencia artificial y la información de YC para destacar lo más destacado del día a día de Product Hunt para ti.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SeaArt.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-seaart.ai.webp" alt="SeaArt.AI">
-
-#### SeaArt Al-Un generador de arte de primera clase gratuito 
-[Visit](https://www.thataicollection.com/redirect/seaart.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SeaArt AI, un generador de arte de IA gratuito de primer nivel. Sumérgete en una próspera comunidad de contenido de IA y explora más de 200 000 modelos y estilos. Desde arte hasta ilustraciones y pinturas, ¡SeaArt mejora tu creatividad sin esfuerzo!
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/seaart.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3119,6 +3105,22 @@ Mejora la presentación de tus productos con Photoshift. Combina tu producto a l
 
 
 
+### Headpix
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-headpix.webp" alt="Headpix">
+
+#### Headpix | Los disparos a la cabeza generados por la IA son el futuro de los retratos
+[Visit](https://www.thataicollection.com/redirect/headpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Los disparos a la cabeza generados por la IA son el futuro de los retratos
+Transforma tus fotos habituales en fotos profesionales de negocios con nuestro generador de fotos de IA. ¡Elige tu estilo, sube tus fotos y consigue 200 fotos a la cabeza!
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/headpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### HitPaw Online Photo Enhancer
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-photo-enhancer.webp" alt="HitPaw Online Photo Enhancer">
 
@@ -3132,21 +3134,6 @@ HitPaw Online AI Photo Enhancer utiliza tecnología avanzada de IA para eliminar
 <br />
 
 <br />
-
-
-### AI Face Analyzer-Beauty Score Calculator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-analyzer-beauty-score-calculator.webp" alt="AI Face Analyzer-Beauty Score Calculator">
-
-#### Analizador facial con IA y calculadora de puntuaciones de belleza
-[Visit](https://www.thataicollection.com/redirect/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-La calculadora de puntuaciones de belleza es un analizador facial de IA que proporciona una puntuación de belleza facial objetiva basada en la imagen de tu rostro subida.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ### Stabledojo
@@ -3403,17 +3390,15 @@ Cogram utiliza IA para tomar notas en reuniones virtuales, realizar un seguimien
 
 
 
-### NewsDeck from OneSub
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newsdeck-from-onesub.webp" alt="NewsDeck from OneSub">
+### AI-Flow
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-flow.webp" alt="AI-Flow">
 
-#### Newsdeck: encuentra, filtra y analiza miles de artículos a diario.
-[Visit](https://www.thataicollection.com/redirect/newsdeck-from-onesub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI-FLOW es una innovadora plataforma de código abierto diseñada para conectar y combinar sin esfuerzo los principales modelos de IA, creando herramientas de IA personalizadas que se adapten a tus necesidades únicas.
+[Visit](https://www.thataicollection.com/redirect/ai-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Transmite noticias relacionadas con más de 500 000 personas, empresas, países y temas. Descubre y organiza tu cobertura de noticias
-NewsDeck utiliza la potencia de la IA lectora de noticias inteligente de OneSub para darte acceso en tiempo real al ciclo mundial de noticias.
+AI-FLOW es una plataforma versátil que te permite crear soluciones a medida para una amplia gama de aplicaciones. Ya sea que estés simplificando la creación de contenido para redes sociales, resumiendo vídeos de YouTube, aumentando el tamaño de las imágenes generadas por la IA o convirtiendo las descripciones de texto en videoclips, AI-FLOW te proporciona las herramientas que necesitas para innovar y sobresalir.
 
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/newsdeck-from-onesub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/ai-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

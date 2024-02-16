@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1092" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1093" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=42" />
@@ -74,21 +74,6 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
     <h4>Cliptics, synthèse vocale gratuite ! Tes paroles, nos voix.</h4>
     <p>Voici Cliptics, ton compagnon idéal pour convertir facilement du texte en discours naturel. Que tu sois une étudiante qui souhaite améliorer ton matériel pédagogique, une créatrice de contenu qui cherche des moyens innovants d'impliquer ton public, ou simplement quelqu'un qui préfère écouter plutôt que lire, Cliptics propose une solution fluide. Cliptics, où les mots prennent vie à ta guise, gratuitement</p>
     <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Cliptics</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
-    </a>
-    <h4>Deft Imagine - Redonnez du style à une maison en 10 secondes ou moins. Inspiration, design d'intérieur, mise en scène et plus encore.</h4>
-    <p>Relooker une maison en 10 secondes ou moins. Ensuite, tu peux utiliser notre moteur de recherche pour trouver les produits sur les photos. 
-
-Il est très précis et tu peux choisir parmi une multitude de styles. Idéal pour l'inspiration, la décoration d'intérieur, les photos de mise en scène, etc.</p>
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Deft</b></a>
     <br />
 </div>
 
@@ -152,6 +137,37 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 💰 [Ventes Et Marketing](#ventes-et-marketing)
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
+
+### AI-Flow
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-flow.webp" alt="AI-Flow">
+
+#### AI-FLOW est une plateforme open source innovante conçue pour connecter et combiner facilement les principaux modèles d'IA, afin de créer des outils d'IA personnalisés adaptés à tes besoins uniques.
+[Visit](https://www.thataicollection.com/redirect/ai-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI-FLOW est une plateforme polyvalente qui te permet de créer des solutions sur mesure pour un large éventail d'applications. Qu'il s'agisse de rationaliser la création de contenu sur les réseaux sociaux, de résumer des vidéos YouTube, de redimensionner des images générées par l'IA ou de convertir des descriptions textuelles en clips vidéo, AI-FLOW fournit les outils dont tu as besoin pour innover et exceller.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Headpix
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-headpix.webp" alt="Headpix">
+
+#### Headpix | Les portraits générés par l'IA sont l'avenir des portraits
+[Visit](https://www.thataicollection.com/redirect/headpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Les portraits générés par l'IA sont l'avenir des portraits
+Transforme tes photos habituelles en portraits professionnels grâce à notre générateur de portraits basé sur l'IA. Choisis ton style, télécharge tes photos et prends 200 photos de la tête !
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/headpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Photo Rush
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-rush.webp" alt="Photo Rush">
@@ -224,36 +240,6 @@ Des manèges incroyables en quelques minutes ! Nous utilisons l'IA pour simplif
 
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### PH Deck
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ph-deck.webp" alt="PH Deck">
-
-#### Assistez au lancement du produit Everyday en un seul Deck
-[Visit](https://www.thataicollection.com/redirect/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Conçu pour les utilisateurs de Product Hunt, révélant les tendances du marché grâce à l'IA et aux approches éprouvées de YC. Combiner la technologie de l'IA et les informations de YC pour mettre en lumière les points forts de Product Hunt pour toi au quotidien.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SeaArt.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-seaart.ai.webp" alt="SeaArt.AI">
-
-#### SeaArt Al-A, premier générateur d'art gratuit 
-[Visit](https://www.thataicollection.com/redirect/seaart.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SeaArt AI, un générateur d'œuvres artistiques basé sur l'IA gratuit de premier ordre. Plongez dans une communauté florissante de contenus basés sur l'IA et explorez plus de 200 000 modèles et styles. Qu'il s'agisse d'œuvres d'art, d'illustrations ou de peintures, SeaArt stimule ta créativité sans effort !
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/seaart.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3120,6 +3106,22 @@ Améliorez la présentation de vos produits grâce à Photoshift. Intégrez parf
 
 
 
+### Headpix
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-headpix.webp" alt="Headpix">
+
+#### Headpix | Les portraits générés par l'IA sont l'avenir des portraits
+[Visit](https://www.thataicollection.com/redirect/headpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Les portraits générés par l'IA sont l'avenir des portraits
+Transforme tes photos habituelles en portraits professionnels grâce à notre générateur de portraits basé sur l'IA. Choisis ton style, télécharge tes photos et prends 200 photos de la tête !
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/headpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### HitPaw Online Photo Enhancer
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-photo-enhancer.webp" alt="HitPaw Online Photo Enhancer">
 
@@ -3129,21 +3131,6 @@ Améliorez la présentation de vos produits grâce à Photoshift. Intégrez parf
 HitPaw Online AI Photo Enhancer utilise une technologie d'intelligence artificielle avancée pour supprimer le bruit, accentuer les détails et améliorer la qualité des photos
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/hitpaw-online-photo-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Face Analyzer-Beauty Score Calculator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-analyzer-beauty-score-calculator.webp" alt="AI Face Analyzer-Beauty Score Calculator">
-
-#### Analyseur facial IA et calculateur de score de beauté
-[Visit](https://www.thataicollection.com/redirect/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Le Beauty Score Calculator est un analyseur facial basé sur l'IA qui fournit un score objectif de beauté du visage sur la base de la photo téléchargée de ton visage.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3404,17 +3391,15 @@ Cogram utilise l'IA pour prendre des notes lors de réunions virtuelles, suivre 
 
 
 
-### NewsDeck from OneSub
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newsdeck-from-onesub.webp" alt="NewsDeck from OneSub">
+### AI-Flow
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-flow.webp" alt="AI-Flow">
 
-#### Newsdeck - Trouvez, filtrez et analysez des milliers d'articles par jour.
-[Visit](https://www.thataicollection.com/redirect/newsdeck-from-onesub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI-FLOW est une plateforme open source innovante conçue pour connecter et combiner facilement les principaux modèles d'IA, afin de créer des outils d'IA personnalisés adaptés à tes besoins uniques.
+[Visit](https://www.thataicollection.com/redirect/ai-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Diffuse des actualités concernant plus de 500 000 personnes, entreprises, pays et sujets. Découvre et organise ta couverture de l'actualité
-NewsDeck utilise la puissance de l'intelligence artificielle de OneSub pour accéder en temps réel au cycle mondial de l'actualité.
+AI-FLOW est une plateforme polyvalente qui te permet de créer des solutions sur mesure pour un large éventail d'applications. Qu'il s'agisse de rationaliser la création de contenu sur les réseaux sociaux, de résumer des vidéos YouTube, de redimensionner des images générées par l'IA ou de convertir des descriptions textuelles en clips vidéo, AI-FLOW fournit les outils dont tu as besoin pour innover et exceller.
 
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/newsdeck-from-onesub?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
