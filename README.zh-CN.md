@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1093" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1095" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -138,6 +138,40 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### Undetectable AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-support-team.webp" alt="Undetectable AI">
+
+#### 无法检测到的 AI 内容-创建所有探测器都无法检测到的内容
+[Visit](https://www.thataicollection.com/redirect/undetectable-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用我们无法检测到的人工智能内容撰写器绕过人工智能探测器，让您的文本人性化。
+
+创作人文素质、语法正确、无抄袭且无法检测的内容。
+
+100% 免费，无需信用卡。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undetectable-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Peech - Text to Speech Reader
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-peech---text-to-speech-reader.webp" alt="Peech - Text to Speech Reader">
+
+#### Peech 是一款强大的文字转语音工具，可轻松将任何文本转换为极其逼真的 AI 生成的音频
+[Visit](https://www.thataicollection.com/redirect/peech---text-to-speech-reader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Peech 支持 50 多种语言，包括英语、法语、德语、意大利语、西班牙语等。Peach 目前可作为 iOS 应用程序和 Chrome 扩展程序使用。我们还与图书出版商合作，以比传统制作便宜20-100的价格提供优质的图书配音。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/peech---text-to-speech-reader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### AI-Flow
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-flow.webp" alt="AI-Flow">
 
@@ -208,38 +242,6 @@ LilyBankAI是一个创新的写作和图像生成平台，适用于企业，通�
 美容分数计算器是一款人工智能面部分析器，可根据您上传的脸部照片提供客观的面部美容分数。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Gptsapp.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gptsapp.io.webp" alt="Gptsapp.io">
-
-#### 创建 GPT 的门槛太低，使用户很难找到好的 GPT。因此，gptsapp.io已经组织了超过60万个最佳GPTs应用程序，并附有注册礼物。
-[Visit](https://www.thataicollection.com/redirect/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-GPTSapp.io作为 “最佳GPTS应用程序” 脱颖而出，它为用户提供了一个独特的门户，可以发现基于GPT的高级应用程序并将其集成到他们的日常生活中。GptSapp.io 网站是探索自定义 ChatGPT 应用程序广阔世界的中心枢纽，使其成为个人和企业不可或缺的资源。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### SuperCarousels
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supercarousels.webp" alt="SuperCarousels">
-
-#### 使用 AI 快速为社交媒体创建轮播
-[Visit](https://www.thataicollection.com/redirect/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-几分钟内即可完成令人难以置信的旋转木马！我们使用人工智能来简化设计。非常适合不熟悉设计且时间短的内容创作者。瞬间创造并给人留下深刻印象！
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

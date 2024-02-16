@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1093" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1095" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=42" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
+    </a>
+    <h4>Cliptics, synthèse vocale gratuite ! Tes paroles, nos voix.</h4>
+    <p>Voici Cliptics, ton compagnon idéal pour convertir facilement du texte en discours naturel. Que tu sois une étudiante qui souhaite améliorer ton matériel pédagogique, une créatrice de contenu qui cherche des moyens innovants d'impliquer ton public, ou simplement quelqu'un qui préfère écouter plutôt que lire, Cliptics propose une solution fluide. Cliptics, où les mots prennent vie à ta guise, gratuitement</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Cliptics</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -61,19 +74,6 @@
 
 Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
-    </a>
-    <h4>Cliptics, synthèse vocale gratuite ! Tes paroles, nos voix.</h4>
-    <p>Voici Cliptics, ton compagnon idéal pour convertir facilement du texte en discours naturel. Que tu sois une étudiante qui souhaite améliorer ton matériel pédagogique, une créatrice de contenu qui cherche des moyens innovants d'impliquer ton public, ou simplement quelqu'un qui préfère écouter plutôt que lire, Cliptics propose une solution fluide. Cliptics, où les mots prennent vie à ta guise, gratuitement</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Cliptics</b></a>
     <br />
 </div>
 
@@ -137,6 +137,40 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 💰 [Ventes Et Marketing](#ventes-et-marketing)
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
+
+### Undetectable AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-support-team.webp" alt="Undetectable AI">
+
+#### Contenu IA indétectable : crée du contenu indétectable par tous les détecteurs
+[Visit](https://www.thataicollection.com/redirect/undetectable-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Utilise notre rédacteur de contenu IA indétectable pour contourner les détecteurs d'IA et humaniser ton texte.
+
+Créez du contenu de qualité humaine, grammaticalement correct, exempt de plagiat et indétectable.
+
+100 % gratuit et aucune carte de crédit n'est requise.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/undetectable-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Peech - Text to Speech Reader
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-peech---text-to-speech-reader.webp" alt="Peech - Text to Speech Reader">
+
+#### Peech est un puissant outil de synthèse vocale qui transforme facilement n'importe quel texte en un son incroyablement réaliste généré par l'IA
+[Visit](https://www.thataicollection.com/redirect/peech---text-to-speech-reader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Peech est disponible dans plus de 50 langues, dont l'anglais, le français, l'allemand, l'italien, l'espagnol et bien d'autres encore. Peach est actuellement disponible sous forme d'application iOS et d'extension Chrome. Nous travaillons également avec des éditeurs de livres et proposons des voix de livres de qualité à un prix 20 à 100 % inférieur à celui de Traditional Production.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/peech---text-to-speech-reader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### AI-Flow
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-flow.webp" alt="AI-Flow">
@@ -208,38 +242,6 @@ LilyBankai est une plateforme d'écriture et de génération d'images innovante 
 Le Beauty Score Calculator est un analyseur facial basé sur l'IA qui fournit un score objectif de beauté du visage sur la base de la photo téléchargée de ton visage.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Gptsapp.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gptsapp.io.webp" alt="Gptsapp.io">
-
-#### Le seuil pour créer des GPT est trop bas, ce qui rend difficile pour les utilisateurs d'en trouver de bons. gptsapp.io a donc organisé plus de 600 000 meilleures applications GPT, avec un cadeau pour l'inscription.
-[Visit](https://www.thataicollection.com/redirect/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-GPTSapp.io est considérée comme la « meilleure application GPT », car elle offre aux utilisateurs une passerelle unique qui leur permet de découvrir et d'intégrer des applications avancées basées sur le GPT à leur routine quotidienne. Le site GPTSapp.io sert de plaque tournante pour explorer le vaste monde des applications ChatGPT personnalisées, ce qui en fait une ressource indispensable pour les particuliers et les entreprises.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SuperCarousels
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supercarousels.webp" alt="SuperCarousels">
-
-#### Créez rapidement des carrousels pour les réseaux sociaux grâce à l'IA
-[Visit](https://www.thataicollection.com/redirect/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Des manèges incroyables en quelques minutes ! Nous utilisons l'IA pour simplifier le design. Idéal pour les créateurs de contenu qui ne connaissent pas le design et qui manquent de temps. Créez et impressionnez en un instant !
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

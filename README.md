@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1093" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1095" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=42" />
@@ -144,6 +144,40 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### Undetectable AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-support-team.webp" alt="Undetectable AI">
+
+#### Undetectable AI Content - create content that's undetectable by all detectors
+[Visit](https://www.thataicollection.com/redirect/undetectable-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Use our undetectable AI content writer to bypass AI detectors and humanize your text.
+
+Create human quality, grammatically correct, plagiarism free and undetectable content.
+
+100% free and no credit card required.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/undetectable-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Peech - Text to Speech Reader
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-peech---text-to-speech-reader.webp" alt="Peech - Text to Speech Reader">
+
+#### Peech is a powerful Text-to-Speech tool that effortlessly transforms any text into incredibly realistic AI-generated audio
+[Visit](https://www.thataicollection.com/redirect/peech---text-to-speech-reader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Peech supports over 50 languages, including English, French, German, Italian, Spanish, and more. Peach is currently available as an iOS app and Chrome Extension. We also work with book publishers and offer quality book voicing at a price 20-100 cheaper than Traditional Production.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/peech---text-to-speech-reader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI-Flow
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-flow.webp" alt="AI-Flow">
 
@@ -218,38 +252,6 @@ The Beauty Score Calculator is an AI Face Analyzer that provides an objective fa
 <br />
 
 <br />
-
-
-### Gptsapp.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gptsapp.io.webp" alt="Gptsapp.io">
-
-#### The threshold for creating GPTs is too low, making it quite painful for users to find good ones. Therefore, gptsapp.io has organized over 600,000+ best GPTs App, with a gift for registration.
-[Visit](https://www.thataicollection.com/redirect/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-GPTsApp.io stands out as the "Best GPTs APP," offering a unique gateway for users to discover and integrate advanced GPT-based applications into their daily routines. The website GPTsApp.io serves as a central hub for exploring the expansive world of custom ChatGPT Apps, making it an indispensable resource for both individuals and businesses.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SuperCarousels
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supercarousels.webp" alt="SuperCarousels">
-
-#### Create carousels for social media fast with AI
-[Visit](https://www.thataicollection.com/redirect/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Incredible carousels in minutes! We use AI to simplify design. Ideal for content creators who are not familiar with design and are short on time. Create and impress in an instant!
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ## Accounting & Finance

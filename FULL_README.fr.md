@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1093" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1095" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=42" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
+    </a>
+    <h4>Cliptics, synthèse vocale gratuite ! Tes paroles, nos voix.</h4>
+    <p>Voici Cliptics, ton compagnon idéal pour convertir facilement du texte en discours naturel. Que tu sois une étudiante qui souhaite améliorer ton matériel pédagogique, une créatrice de contenu qui cherche des moyens innovants d'impliquer ton public, ou simplement quelqu'un qui préfère écouter plutôt que lire, Cliptics propose une solution fluide. Cliptics, où les mots prennent vie à ta guise, gratuitement</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Cliptics</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -61,19 +74,6 @@
 
 Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
-    </a>
-    <h4>Cliptics, synthèse vocale gratuite ! Tes paroles, nos voix.</h4>
-    <p>Voici Cliptics, ton compagnon idéal pour convertir facilement du texte en discours naturel. Que tu sois une étudiante qui souhaite améliorer ton matériel pédagogique, une créatrice de contenu qui cherche des moyens innovants d'impliquer ton public, ou simplement quelqu'un qui préfère écouter plutôt que lire, Cliptics propose une solution fluide. Cliptics, où les mots prennent vie à ta guise, gratuitement</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Cliptics</b></a>
     <br />
 </div>
 
@@ -344,6 +344,7 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 | [Txt Muse](https://www.thataicollection.com/redirect/txt-muse?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Txt Muse - Écrivez 10 fois mieux, pas seulement 10 fois plus vite. | Txt Muse est un éditeur de texte basé sur l'IA qui t'aide à transformer tes pensées en textes que les gens voudront lire. L'IA permet de mieux collaborer qu'un auteur. Txt Muse est conçu pour faciliter les flux de travail collaboratifs. Concentrez-vous davantage sur le développement de tes idées plutôt que sur le fait de trouver les bons mots ou de formater correctement tes phrases. Tes lecteurs apprécieront. | :white_check_mark: |
 | [Type AI](https://www.thataicollection.com/redirect/type-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | GPTKey - Écrivez avec l'IA à l'aide du clavier GPT. | Écrivez avec l'IA dans n'importe quelle application à l'aide de l'extension de clavier personnalisée GPT. | :grey_question: |
 | [Typly](https://www.thataicollection.com/redirect/typly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Typiquement - Niveau de conversation suivant !. | Tyly est le clavier IA de pointe ultime qui vous aide à répondre à tous vos messages en un seul clic !🚀. | :grey_question: |
+| [Undetectable AI](https://www.thataicollection.com/redirect/undetectable-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Contenu IA indétectable : crée du contenu indétectable par tous les détecteurs. | Utilise notre rédacteur de contenu IA indétectable pour contourner les détecteurs d'IA et humaniser ton texte.  Créez du contenu de qualité humaine, grammaticalement correct, exempt de plagiat et indétectable.  100 % gratuit et aucune carte de crédit n'est requise. | :white_check_mark: |
 | [Wavinai](https://www.thataicollection.com/redirect/wavinai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Wavinai - Le générateur de texte basé sur l'IA qui écrit ce que tu veux. | Génère tes textes professionnels grâce à notre IA. Le générateur de texte doté d'intelligence artificielle en espagnol qui t'aidera à vendre davantage. Inscris-toi gratuitement. | :white_check_mark: |
 | [WebCopilot](https://www.thataicollection.com/redirect/webcopilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | webcopilot.co ~ assistant d'écriture notion ai. | Rédigez vos pages Notion avec l'IA. Accélérez votre processus d'écriture et concentrez-vous sur l'essentiel. Libre pour toujours. | :white_check_mark: |
 | [Whiskey AI](https://www.thataicollection.com/redirect/whiskey-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Whisky vous aidera à générer le contenu que vous souhaitez. | Whiskey a été conçu pour que les étudiants, les journalistes et les professionnels puissent exprimer leurs pensées dans des formats de texte bien écrits avec un minimum d'effort et de temps. | :white_check_mark: |
@@ -1363,6 +1364,7 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 | [Lovo](https://www.thataicollection.com/redirect/lovo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Générateur vocal IA : synthèse vocale et clonage vocal réalistes. | Générateur vocal AI primé et logiciel de synthèse vocale avec plus de 500 voix dans 100 langues. Des voix réalistes basées sur l'IA avec éditeur vidéo en ligne. Clonez ta propre voix. | :white_check_mark: |
 | [Murf.ai](https://www.thataicollection.com/redirect/murf.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Passez du texte à la parole avec un générateur de voix AI polyvalent. | IA activée, voix de vraies personnes. Créez des voix off de qualité studio en quelques minutes. Utilisez les voix d'IA réalistes de Murf pour les podcasts, les vidéos et toutes vos présentations professionnelles. | :white_check_mark: |
 | [NaturalReader](https://www.thataicollection.com/redirect/naturalreader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | La solution de synthèse vocale #1 pour un usage personnel, commercial et éducatif. | Synthèse vocale gratuite pour l'Internet, les applications mobiles, les licences commerciales et l'enseignement avec IA Voices. NaturalReader convertit le texte, les PDF et plus de 20 formats en audio vocal afin que tu puisses écouter tes documents, livres électroniques et matériel scolaire à tout moment et en tout lieu. | :white_check_mark: |
+| [Peech - Text to Speech Reader](https://www.thataicollection.com/redirect/peech---text-to-speech-reader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Peech est un puissant outil de synthèse vocale qui transforme facilement n'importe quel texte en un son incroyablement réaliste généré par l'IA. | Peech est disponible dans plus de 50 langues, dont l'anglais, le français, l'allemand, l'italien, l'espagnol et bien d'autres encore. Peach est actuellement disponible sous forme d'application iOS et d'extension Chrome. Nous travaillons également avec des éditeurs de livres et proposons des voix de livres de qualité à un prix 20 à 100 % inférieur à celui de Traditional Production. | :white_check_mark: |
 | [Play.ht](https://www.thataicollection.com/redirect/play.ht?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Générateur de texte en voix alimenté par l'IA. | Générez un son réaliste de synthèse vocale (TTS) à l'aide de notre générateur de voix AI en ligne et des meilleures voix synthétiques. Convertissez instantanément du texte en paroles au son naturel et téléchargez-les sous forme de fichiers audio MP3 et WAV. | :white_check_mark: |
 | [Resemble’s AI voice generator](https://www.thataicollection.com/redirect/resembles-ai-voice-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Votre boîte à outils complète d'IA vocale générative. | Le générateur de voix AI de Resemble vous permet de créer des voix off de type humain en quelques secondes. | :x: |
 | [Speechelo](https://www.thataicollection.com/redirect/speechelo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Speechelo - Générez de la voix à partir de texte en seulement 3 clics. Le convertisseur de texte en audio le plus réaliste. | Nous GARANTISSONS que personne ne dira que votre voix off est A.I. généré avec un outil de synthèse vocale. | :grey_question: |

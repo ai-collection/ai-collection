@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1093" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1095" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=42" />
@@ -138,6 +138,40 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### Undetectable AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-support-team.webp" alt="Undetectable AI">
+
+#### Contenido de IA indetectable: crea contenido que sea indetectable por todos los detectores
+[Visit](https://www.thataicollection.com/redirect/undetectable-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Usa nuestro escritor de contenido de IA indetectable para eludir los detectores de IA y humanizar tu texto.
+
+Crea contenido de calidad humana, gramaticalmente correcto, libre de plagio e indetectable.
+
+100% gratis y sin necesidad de tarjeta de crédito.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/undetectable-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Peech - Text to Speech Reader
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-peech---text-to-speech-reader.webp" alt="Peech - Text to Speech Reader">
+
+#### Peech es una potente herramienta de conversión de texto a voz que transforma sin esfuerzo cualquier texto en un audio increíblemente realista generado por la IA
+[Visit](https://www.thataicollection.com/redirect/peech---text-to-speech-reader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Peech está disponible en más de 50 idiomas, incluidos inglés, francés, alemán, italiano, español y más. Peach está disponible actualmente como aplicación para iOS y extensión para Chrome. También trabajamos con editoriales de libros y ofrecemos doblaje para libros de calidad a un precio entre 20 y 100 dólares más barato que Traditional Production.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/peech---text-to-speech-reader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI-Flow
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-flow.webp" alt="AI-Flow">
 
@@ -208,38 +242,6 @@ LilyBankai es una innovadora plataforma de escritura y generación de imágenes 
 La calculadora de puntuaciones de belleza es un analizador facial de IA que proporciona una puntuación de belleza facial objetiva basada en la imagen de tu rostro subida.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Gptsapp.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gptsapp.io.webp" alt="Gptsapp.io">
-
-#### El umbral para crear GPT es demasiado bajo, lo que hace que a los usuarios les resulte bastante difícil encontrar unos buenos. Por eso, gptsapp.io ha organizado más de 600 000 mejores aplicaciones de GPTS, con un regalo por registrarse.
-[Visit](https://www.thataicollection.com/redirect/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-GPTSapp.io se destaca como la «mejor aplicación de GPTS» y ofrece una puerta de entrada única para que los usuarios descubran e integren aplicaciones avanzadas basadas en el GPT en sus rutinas diarias. El sitio web GPTSapp.io sirve como centro para explorar el amplio mundo de las aplicaciones ChatGPT personalizadas, lo que lo convierte en un recurso indispensable tanto para particulares como para empresas.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SuperCarousels
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supercarousels.webp" alt="SuperCarousels">
-
-#### Crea carruseles para las redes sociales rápidamente con la IA
-[Visit](https://www.thataicollection.com/redirect/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¡Increíbles carruseles en minutos! Usamos la IA para simplificar el diseño. Ideal para los creadores de contenido que no están familiarizados con el diseño y tienen poco tiempo. ¡Crea e impresiona en un instante!
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/supercarousels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
