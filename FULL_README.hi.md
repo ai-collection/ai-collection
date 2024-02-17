@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1095" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1096" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=42" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI" border="0"/>
+    </a>
+    <h4>इंटीरियर एआई: आर्टिफ़िकल इंटेलीजेंस का इस्तेमाल करने वाला इंटीरियर डिज़ाइन आइडिया, प्रेरणा और वर्चुअल स्टेजिंग ऐप</h4>
+    <p>अलग-अलग इंटीरियर स्टाइल के साथ रियल एस्टेट लिस्टिंग के लिए आर्टिफिशियल इंटेलिजेंस और वर्चुअली स्टेज इंटीरियर्स का उपयोग करके इंटीरियर डिज़ाइन के आइडिया प्राप्त करें।</p>
+    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Interior AI के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
     </a>
@@ -74,6 +87,19 @@
 
 तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI" border="0"/>
+    </a>
+    <h4>अपना खुद का फ़ोटोरियलिस्टिक AI अवतार बनाएं</h4>
+    <p>AI की मदद से लोगों की फ़ोटोरियलिस्टिक इमेज जेनरेट करें। मूल अवतार AI™ के आधार पर अवतार की 120+ विभिन्न शैलियों को जेनरेट करें, जिसने AI अवतार ट्रेंड शुरू किया। इसमें सिर्फ़ 46 सेकंड का समय लगता है। अलग-अलग पोज़, जगहों और स्टाइल में ज़्यादा फ़ोटो पैक देखें।</p>
+    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Photo AI के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -191,7 +217,6 @@
 | [AIprofilepic](https://www.thataicollection.com/redirect/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई का उपयोग करके आश्चर्यजनक प्रोफ़ाइल चित्र बनाएं - Aiprofilepic.Art. | हमारी उपयोग में आसान एआई तकनीक के साथ कुछ ही क्लिक में अपने संपूर्ण अवतार बनाएं।. | :grey_question: |
 | [ARTI.PICS](https://www.thataicollection.com/redirect/arti.pics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-संचालित अवतार निर्माता. | Arti.Pics आपको अपनी कुछ तस्वीरें अपलोड करने की अनुमति देता है और विभिन्न शैलियों में 200 से अधिक आकर्षक दिखने वाले अवतार उत्पन्न करता है।. | :x: |
 | [Autoportrait](https://www.thataicollection.com/redirect/autoportrait?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऑटोपोर्ट्रेट - एआई पोर्ट्रेट बनाएं. | लाखों शैलियाँ ब्राउज़ करें या अपना स्वयं का बनाएँ, AI ऑटोपोर्ट्रेट बनाएँ।. | :grey_question: |
-| [AvatarAI](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपना खुद का फ़ोटोरियलिस्टिक AI अवतार बनाएं. | AI की मदद से लोगों की फ़ोटोरियलिस्टिक इमेज जेनरेट करें। मूल अवतार AI™ के आधार पर अवतार की 120+ विभिन्न शैलियों को जेनरेट करें, जिसने AI अवतार ट्रेंड शुरू किया। इसमें सिर्फ़ 46 सेकंड का समय लगता है। अलग-अलग पोज़, जगहों और स्टाइल में ज़्यादा फ़ोटो पैक देखें।. | :grey_question: |
 | [AvatarCraft](https://www.thataicollection.com/redirect/avatarcraft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अवतारक्राफ्ट के AI द्वारा बनाए गए अवतारों के साथ खुद का सबसे अच्छा प्रदर्शन करें. | तुम्हारी प्रोफ़ाइल तस्वीर वह चीज़ है जिसके बारे में लोग पहली नज़र में ही तुम्हेंं आंकते हैं। AvatarCraft के साथ, AI के ज़रिए अपनी तस्वीरों से आसानी से १०० उच्च गुणवत्ता वाले अवतार बनाएं। विशेषज्ञता दिखाने के लिए LinkedIn के लिए पेशेवर स्टाइल चुनें या Instagram, TikTok, X आदि के लिए क्रिएटिव स्टाइल चुनें।. | :white_check_mark: |
 | [Avatarize.club](https://www.thataicollection.com/redirect/avatarize.club?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उच्च गुणवत्ता वाले एआई-जेनरेटेड अवतार बनाएं. | पेशेवर तस्वीरें, सोशल मीडिया डीपी, खेल अवतार, डेटिंग प्रोफ़ाइल तस्वीरें, और अधिक स्थिर प्रसार 2.1 द्वारा संचालित. | :x: |
 | [Avtrs](https://www.thataicollection.com/redirect/avtrs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हैप्पी यूजर्स द्वारा बनाए गए अवतार. | यह काम किस प्रकार करता है? 1. अलग-अलग कोणों से अपनी (या अन्य व्यक्ति की) कुछ सेल्फी अपलोड करें। 2. रुकिए - जब तक हम आपकी तस्वीरों के आधार पर आपका स्टूडियो बना रहे हैं, तब तक कॉफी लें। 3. शीघ्र - सही संकेत तैयार करने के लिए अपनी कल्पना का प्रयोग करें!. | :white_check_mark: |
@@ -207,6 +232,7 @@
 | [Magic AI Avatars](https://www.thataicollection.com/redirect/magic-ai-avatars?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | आर्टिफिशियल इंटेलिजेंस द्वारा बनाए गए 200+ कस्टम अवतार प्राप्त करें।. | :grey_question: |
 | [Passphoto](https://www.thataicollection.com/redirect/passphoto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ अपना पासपोर्ट फोटो बनाएं. | यह चार सरल चरणों में कैसे काम करता है: देश और इनपुट, आर्टिफिशियल इंटेलिजेंस, चेक और क्रॉप, अपनी तस्वीरों का आनंद लें! Passphoto.ai इंटरनेट उद्यमी Gijs Heerkens का एक विचार है। 2009 से, हम ऐसी तकनीकों का विकास कर रहे हैं जो लोगों को पासपोर्ट फोटो ऑनलाइन बनाने में सक्षम बनाती हैं।. | :x: |
 | [Pfpmaker](https://www.thataicollection.com/redirect/pfpmaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक बढ़िया प्रोफ़ाइल पिक्चर मुफ़्त में बनाएं. | अपनी फ़ोटो अपलोड करें और तुरंत AI के साथ सैकड़ों पेशेवर प्रोफ़ाइल चित्र बनाएं, ताकि अपना सर्वश्रेष्ठ ऑनलाइन प्रदर्शन किया जा सके। LinkedIn, CV, और रिज्यूमे के लिए बिज़नेस हेडशॉट शैलियों में से चुनें या Instagram और मैसेजिंग के लिए क्रिएटिव फ़्लेयर में से चुनें. | :white_check_mark: |
+| [Photo AI](https://www.thataicollection.com/redirect/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपना खुद का फ़ोटोरियलिस्टिक AI अवतार बनाएं. | AI की मदद से लोगों की फ़ोटोरियलिस्टिक इमेज जेनरेट करें। मूल अवतार AI™ के आधार पर अवतार की 120+ विभिन्न शैलियों को जेनरेट करें, जिसने AI अवतार ट्रेंड शुरू किया। इसमें सिर्फ़ 46 सेकंड का समय लगता है। अलग-अलग पोज़, जगहों और स्टाइल में ज़्यादा फ़ोटो पैक देखें।. | :grey_question: |
 | [PhotoAI](https://www.thataicollection.com/redirect/photoai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फोटाई. | अपनी एआई-जेनरेट की गई छवियां बनाएं. | :grey_question: |
 | [PhotoLeaf](https://www.thataicollection.com/redirect/photoleaf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फोटोलीफ एआई. | अपने एआई-जनित सोशल मीडिया चित्र बनाएं. | :grey_question: |
 | [Photoshot](https://www.thataicollection.com/redirect/photoshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपका एआई अवतार जेनरेटर. | अवतार उत्पन्न करें जो आपकी अनूठी शैली को पूरी तरह से कैप्चर करें. | :x: |
@@ -1179,7 +1205,7 @@
 | [Dimensions](https://www.thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डाइमेंशन - एआई के साथ तेजी से विज़ुअल कॉन्सेप्ट बनाएं. | कल्पना करें कि आप आसानी से सुंदर आंतरिक डिज़ाइन बना सकते हैं - यही आयाम प्रदान करता है।. | :white_check_mark: |
 | [Getfloorplan](https://www.thataicollection.com/redirect/getfloorplan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ 2डी और 3डी फ्लोर प्लान बनाना. | 2डी, 3डी फ्लोर प्लान और वर्चुअल टूर का उपयोग करने वाले हमारे ग्राहकों द्वारा 30% तक कॉल वृद्धि की सूचना दी गई है. | :grey_question: |
 | [Image Computer](https://www.thataicollection.com/redirect/image-computer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी अगली आंतरिक सज्जा / पैनिटिंग / फैशन संग्रह / संकल्पना कला तैयार करें. | आप जिस भी प्रकार की छवि के बारे में सोच सकते हैं, उसे उत्पन्न करने के लिए हमारी शक्तिशाली एआई तकनीक का उपयोग करें। कुछ ही सेकण्ड में।. | :x: |
-| [Interior AI](https://www.thataicollection.com/redirect/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इंटीरियर एआई: आर्टिफिशियल इंटेलिजेंस का उपयोग करते हुए इंटीरियर डिजाइन आइडियाज इंस्पिरेशन और वर्चुअल स्टेजिंग ऐप. | विभिन्न आंतरिक शैलियों के साथ रियल एस्टेट लिस्टिंग के लिए आर्टिफिशियल इंटेलिजेंस और वस्तुतः स्टेज इंटीरियर का उपयोग करके इंटीरियर डिजाइन विचार प्राप्त करें।. | :white_check_mark: |
+| [Interior AI](https://www.thataicollection.com/redirect/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इंटीरियर एआई: आर्टिफ़िकल इंटेलीजेंस का इस्तेमाल करने वाला इंटीरियर डिज़ाइन आइडिया, प्रेरणा और वर्चुअल स्टेजिंग ऐप. | अलग-अलग इंटीरियर स्टाइल के साथ रियल एस्टेट लिस्टिंग के लिए आर्टिफिशियल इंटेलिजेंस और वर्चुअली स्टेज इंटीरियर्स का उपयोग करके इंटीरियर डिज़ाइन के आइडिया प्राप्त करें।. | :grey_question: |
 | [Interior AI Designs](https://www.thataicollection.com/redirect/interior-ai-designs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इंटीरियर एआई डिज़ाइन - हर किसी के लिए AI का इस्तेमाल करके ड्रीम रूम तैयार करना।. | अपने कमरे की तस्वीर लें और देखें कि अलग-अलग थीम में तुम्हारा कमरा कैसा दिखता है। आज ही अपने कमरे को फिर से तैयार करें। हमारे चुनिंदा थीम के चयन के साथ डिज़ाइन की संभावनाओं की दुनिया के बारे में जानें। तुम्हारे स्थान को बदलने के लिए हर थीम को सावधानी से तैयार किया गया है।. | :white_check_mark: |
 | [Makeit.ai](https://www.thataicollection.com/redirect/makeit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जनरेटिव डिज़ाइन - आर्किटेक्चर डिज़ाइन सॉफ़्टवेयर - माकेट. | हमारा जनरेटिव डिज़ाइन सॉफ़्टवेयर वास्तुकारों, बिल्डरों और डेवलपर्स को तुरंत हजारों वास्तुशिल्प योजनाओं को तुरंत उत्पन्न करने में सक्षम बनाता है।. | :grey_question: |
 | [Oda Studio](https://www.thataicollection.com/redirect/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ओडा मूडबोर्ड • ओडीए स्टूडियो - एआई की मदद से कुछ ही सेकंड में अपने घर को कस्टमाइज़ करने के लिए अपना स्टाइल और रंग चुनें।. | AI की मदद से कुछ ही सेकंड में अपने घर को कस्टमाइज़ करने के लिए अपना स्टाइल और रंग चुनें - अपना घर डिज़ाइन करना शुरू करें या सैंपल बोर्ड का इस्तेमाल करें।. | :white_check_mark: |

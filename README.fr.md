@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1095" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1096" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=42" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI" border="0"/>
+    </a>
+    <h4>Interior Aid : idées de décoration d'intérieur, inspiration et application de mise en scène virtuelle utilisant l'intelligence artificielle</h4>
+    <p>Trouve des idées de décoration d'intérieur grâce à l'intelligence artificielle et met en scène des intérieurs virtuels pour des annonces immobilières aux styles d'intérieur différents.</p>
+    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Interior AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
     </a>
@@ -74,6 +87,19 @@
 
 Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI" border="0"/>
+    </a>
+    <h4>Crée tes propres avatars photoréalistes basés sur l'IA</h4>
+    <p>Génère des images photoréalistes de personnes grâce à l'IA. Génère plus de 120 styles d'avatars différents sur la base de l'Avatar AI™ original qui a lancé la tendance des avatars IA. Cela ne prend que 46 secondes. Découvrez d'autres packs de photos dans des poses, des lieux et des styles différents.</p>
+    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Photo AI</b></a>
     <br />
 </div>
 
@@ -137,6 +163,36 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 💰 [Ventes Et Marketing](#ventes-et-marketing)
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
+
+### Photo AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
+
+#### Crée tes propres avatars photoréalistes basés sur l'IA
+[Visit](https://www.thataicollection.com/redirect/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Génère des images photoréalistes de personnes grâce à l'IA. Génère plus de 120 styles d'avatars différents sur la base de l'Avatar AI™ original qui a lancé la tendance des avatars IA. Cela ne prend que 46 secondes. Découvrez d'autres packs de photos dans des poses, des lieux et des styles différents.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Interior AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
+
+#### Interior Aid : idées de décoration d'intérieur, inspiration et application de mise en scène virtuelle utilisant l'intelligence artificielle
+[Visit](https://www.thataicollection.com/redirect/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Trouve des idées de décoration d'intérieur grâce à l'intelligence artificielle et met en scène des intérieurs virtuels pour des annonces immobilières aux styles d'intérieur différents.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Undetectable AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-support-team.webp" alt="Undetectable AI">
@@ -212,36 +268,6 @@ Transforme tes photos habituelles en portraits professionnels grâce à notre g�
 PhotoRush est la solution idéale pour les petites entreprises et les particuliers qui recherchent des photos de produits de qualité professionnelle. En améliorant la qualité des photos, cela permet aux produits de se démarquer, optimisant ainsi le potentiel d'augmentation des ventes. Ces images haut de gamme sont parfaites pour les plateformes de commerce électronique.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/photo-rush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Lilybank AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lilybank-ai_.webp" alt="Lilybank AI">
-
-#### Découvrez Lilybank AI, une meilleure façon de créer du contenu grâce à l'IA
-[Visit](https://www.thataicollection.com/redirect/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LilyBankai est une plateforme d'écriture et de génération d'images innovante pour les entreprises qui accélère la production de contenu original en utilisant la technologie de l'IA.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Face Analyzer-Beauty Score Calculator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-analyzer-beauty-score-calculator.webp" alt="AI Face Analyzer-Beauty Score Calculator">
-
-#### Analyseur facial IA et calculateur de score de beauté
-[Visit](https://www.thataicollection.com/redirect/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Le Beauty Score Calculator est un analyseur facial basé sur l'IA qui fournit un score objectif de beauté du visage sur la base de la photo téléchargée de ton visage.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -509,6 +535,21 @@ Il est très précis et tu peux choisir parmi une multitude de styles. Idéal po
 
 
 
+### Interior AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
+
+#### Interior Aid : idées de décoration d'intérieur, inspiration et application de mise en scène virtuelle utilisant l'intelligence artificielle
+[Visit](https://www.thataicollection.com/redirect/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Trouve des idées de décoration d'intérieur grâce à l'intelligence artificielle et met en scène des intérieurs virtuels pour des annonces immobilières aux styles d'intérieur différents.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Oda Studio
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
 
@@ -534,21 +575,6 @@ Choisis ton style et ta couleur pour personnaliser ta maison en quelques seconde
 Notre logiciel de conception générative permet aux architectes, constructeurs et développeurs de générer rapidement des milliers de plans architecturaux instantanément.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/makeit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Interior AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
-
-#### IA intérieure : inspiration d'idées de design d'intérieur et application de mise en scène virtuelle utilisant l'intelligence artificielle
-[Visit](https://www.thataicollection.com/redirect/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Obtenez des idées de design d'intérieur à l'aide de l'intelligence artificielle et mettez en scène virtuellement des intérieurs pour des annonces immobilières avec différents styles d'intérieur.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -732,6 +758,21 @@ Recevez un lot de 100 images générées par l'IA de ton animal de compagnie, da
 
 ## Avatars
 
+### Photo AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
+
+#### Crée tes propres avatars photoréalistes basés sur l'IA
+[Visit](https://www.thataicollection.com/redirect/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Génère des images photoréalistes de personnes grâce à l'IA. Génère plus de 120 styles d'avatars différents sur la base de l'Avatar AI™ original qui a lancé la tendance des avatars IA. Cela ne prend que 46 secondes. Découvrez d'autres packs de photos dans des poses, des lieux et des styles différents.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### HairstyleAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hairstyleai.webp" alt="HairstyleAI">
 
@@ -741,21 +782,6 @@ Recevez un lot de 100 images générées par l'IA de ton animal de compagnie, da
 HairstyleAI vous permet d'essayer virtuellement de nouvelles coupes de cheveux avec l'IA avant de vous faire couper la vraie coupe. Ayez plus confiance en votre propre apparence et sentez-vous à nouveau vous-même.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/hairstyleai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AvatarAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="AvatarAI">
-
-#### Crée tes propres avatars photoréalistes basés sur l'IA
-[Visit](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Génère des images photoréalistes de personnes grâce à l'IA. Génère plus de 120 styles d'avatars différents sur la base de l'Avatar AI™ original qui a lancé la tendance des avatars IA. Cela ne prend que 46 secondes. Découvrez d'autres packs de photos dans des poses, des lieux et des styles différents.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

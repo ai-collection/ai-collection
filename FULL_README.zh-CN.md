@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1095" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1096" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI" border="0"/>
+    </a>
+    <h4>创建你自己的逼真的 AI 头像</h4>
+    <p>使用 AI 生成逼真的人物图像。基于开启 AI 头像潮流的原始 Avatar AI™ 生成 120 多种不同风格的头像。只需 46 秒。查看更多不同姿势、地点和风格的照片包。</p>
+    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Photo AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -61,6 +74,19 @@
 
 今天只需点击一下即可实现您最疯狂的梦想！</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI" border="0"/>
+    </a>
+    <h4>Interior Ai：室内设计创意、灵感和使用人工智能的虚拟舞台应用程序</h4>
+    <p>使用人工智能获取室内设计创意，为具有不同室内风格的房地产清单进行虚拟室内设计。</p>
+    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Interior AI</b></a>
     <br />
 </div>
 
@@ -491,7 +517,6 @@
 | [AIprofilepic](https://www.thataicollection.com/redirect/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 创建令人惊叹的个人资料图片 - AIProfilePic.art. | 借助我们易于使用的 AI 技术，只需点击几下即可创建完美的头像。. | :grey_question: |
 | [ARTI.PICS](https://www.thataicollection.com/redirect/arti.pics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI驱动的头像制作者. | Arti.Pics 允许您上传几张自己的照片，并生成 200 多个不同风格的酷炫头像。. | :x: |
 | [Autoportrait](https://www.thataicollection.com/redirect/autoportrait?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Autoportrait - 创建 AI 人像. | 浏览数百万种风格或创建您自己的风格，生成 AI 自画像。. | :grey_question: |
-| [AvatarAI](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创建你自己的逼真的 AI 头像. | 使用 AI 生成逼真的人物图像。基于开启 AI 头像潮流的原始 Avatar AI™ 生成 120 多种不同风格的头像。只需 46 秒。查看更多不同姿势、地点和风格的照片包。. | :grey_question: |
 | [AvatarCraft](https://www.thataicollection.com/redirect/avatarcraft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 Avatarcraft 的人工智能生成的头像展示你最好的自我. | 乍一看，你的个人资料照片是人们评判你的第一件事。使用 AvatarCraft，使用人工智能轻松地从照片中创建 100 个高质量的头像。为 LinkedIn 选择专业风格来展示专业知识，或者为 Instagram、TikTok、X 等选择创意风格。. | :white_check_mark: |
 | [Avatarize.club](https://www.thataicollection.com/redirect/avatarize.club?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创建高质量的 AI 生成头像. | 由 Stable Diffusion 2.1 提供支持的专业照片、社交媒体 DP、游戏头像、约会资料照片等. | :x: |
 | [Avtrs](https://www.thataicollection.com/redirect/avtrs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 快乐用户创建的头像. | 怎么运行的？ 1. 上传一些您（或其他人）不同角度的自拍照。 2. 稍等 - 在我们根据您的照片建造您的工作室时喝杯咖啡。 3. 提示 - 发挥你的想象力来制作完美的提示！. | :white_check_mark: |
@@ -507,6 +532,7 @@
 | [Magic AI Avatars](https://www.thataicollection.com/redirect/magic-ai-avatars?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | 获得 200 多个由人工智能制作的自定义头像。. | :grey_question: |
 | [Passphoto](https://www.thataicollection.com/redirect/passphoto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 创建您的护照照片. | 它是如何通过四个简单的步骤工作的：国家和输入、人工智能、检查和裁剪、欣赏您的照片！ Passphoto.ai 是互联网企业家 Gijs Heerkens 的想法。自 2009 年以来，我们一直在开发使人们能够在线制作护照照片的技术。. | :x: |
 | [Pfpmaker](https://www.thataicollection.com/redirect/pfpmaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费制作一张很棒的头像. | 上传您的照片，并使用人工智能立即创建数百张专业个人资料照片，以在线展示您的最佳自我。从 LinkedIn、简历和简历的商务头像风格中进行选择，或者从 Instagram 和消息传递的创意风格中进行选择. | :white_check_mark: |
+| [Photo AI](https://www.thataicollection.com/redirect/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创建你自己的逼真的 AI 头像. | 使用 AI 生成逼真的人物图像。基于开启 AI 头像潮流的原始 Avatar AI™ 生成 120 多种不同风格的头像。只需 46 秒。查看更多不同姿势、地点和风格的照片包。. | :grey_question: |
 | [PhotoAI](https://www.thataicollection.com/redirect/photoai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 照片AI. | 创建 AI 生成的您自己的图像. | :grey_question: |
 | [PhotoLeaf](https://www.thataicollection.com/redirect/photoleaf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 照片叶AI. | 创建 AI 生成的社交媒体图片. | :grey_question: |
 | [Photoshot](https://www.thataicollection.com/redirect/photoshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您的 AI 头像生成器. | 生成完美捕捉您独特风格的头像. | :x: |
@@ -600,7 +626,7 @@
 | [Dimensions](https://www.thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dimensions - 使用 AI 快速创建视觉概念. | 想象一下能够轻松创建漂亮的室内设计——这就是 Dimensions 所提供的。. | :white_check_mark: |
 | [Getfloorplan](https://www.thataicollection.com/redirect/getfloorplan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 创建 2d 和 3d 平面图. | 我们的客户使用 2D、3D 楼层平面图和虚拟游览报告称来电增加了多达 30%. | :grey_question: |
 | [Image Computer](https://www.thataicollection.com/redirect/image-computer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 生成您的下一个室内设计/镶嵌/时装系列/概念艺术. | 使用我们强大的 AI 技术生成您能想到的任何类型的图像。在几秒钟内。. | :x: |
-| [Interior AI](https://www.thataicollection.com/redirect/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Interior AI：室内设计理念灵感，以及使用人工智能的虚拟舞台应用程序. | 使用人工智能获取室内设计理念，并为具有不同室内风格的房地产列表虚拟展示室内设计。. | :white_check_mark: |
+| [Interior AI](https://www.thataicollection.com/redirect/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Interior Ai：室内设计创意、灵感和使用人工智能的虚拟舞台应用程序. | 使用人工智能获取室内设计创意，为具有不同室内风格的房地产清单进行虚拟室内设计。. | :grey_question: |
 | [Interior AI Designs](https://www.thataicollection.com/redirect/interior-ai-designs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 室内人工智能设计-使用人工智能为每个人生成梦想房间。. | 拍张房间的照片，看看房间在不同主题下的样子。今天就改造你的房间。 通过我们精选的特色主题，探索设计可能性的世界。每个主题都经过精心设计，旨在改变您的空间。. | :white_check_mark: |
 | [Makeit.ai](https://www.thataicollection.com/redirect/makeit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 生成式设计 - 建筑设计软件 - Maket. | 我们的生成设计软件使建筑师、建筑商和开发人员能够立即快速生成数以千计的建筑计划。. | :grey_question: |
 | [Oda Studio](https://www.thataicollection.com/redirect/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Oda Moodboard • Oda Studio——选择你的风格和颜色，用人工智能在几秒钟内定制你的家。. | 选择你的风格和颜色，使用 AI 在几秒钟内自定义你的家-开始设计你的家或使用样板吧。. | :white_check_mark: |

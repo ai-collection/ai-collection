@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1095" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1096" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=42" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI" border="0"/>
+    </a>
+    <h4>Interior Aid : idées de décoration d'intérieur, inspiration et application de mise en scène virtuelle utilisant l'intelligence artificielle</h4>
+    <p>Trouve des idées de décoration d'intérieur grâce à l'intelligence artificielle et met en scène des intérieurs virtuels pour des annonces immobilières aux styles d'intérieur différents.</p>
+    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Interior AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
     </a>
@@ -74,6 +87,19 @@
 
 Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI" border="0"/>
+    </a>
+    <h4>Crée tes propres avatars photoréalistes basés sur l'IA</h4>
+    <p>Génère des images photoréalistes de personnes grâce à l'IA. Génère plus de 120 styles d'avatars différents sur la base de l'Avatar AI™ original qui a lancé la tendance des avatars IA. Cela ne prend que 46 secondes. Découvrez d'autres packs de photos dans des poses, des lieux et des styles différents.</p>
+    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Photo AI</b></a>
     <br />
 </div>
 
@@ -190,7 +216,7 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 | [Dimensions](https://www.thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dimensions - créez rapidement des concepts visuels avec l'IA. | Imaginez pouvoir créer facilement de superbes intérieurs - c'est ce que propose Dimensions. | :white_check_mark: |
 | [Getfloorplan](https://www.thataicollection.com/redirect/getfloorplan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Création de plans d'étage 2D et 3D avec l'IA. | Jusqu'à 30 % d'augmentation des appels signalés par nos clients utilisant des plans d'étage 2D, 3D et des visites virtuelles. | :grey_question: |
 | [Image Computer](https://www.thataicollection.com/redirect/image-computer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Générez votre prochain design d'intérieur / peinture / collection de mode / concept art. | Utilisez notre puissante technologie d'intelligence artificielle pour générer tout type d'image auquel vous pouvez penser. Dans quelques secondes. | :x: |
-| [Interior AI](https://www.thataicollection.com/redirect/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | IA intérieure : inspiration d'idées de design d'intérieur et application de mise en scène virtuelle utilisant l'intelligence artificielle. | Obtenez des idées de design d'intérieur à l'aide de l'intelligence artificielle et mettez en scène virtuellement des intérieurs pour des annonces immobilières avec différents styles d'intérieur. | :white_check_mark: |
+| [Interior AI](https://www.thataicollection.com/redirect/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Interior Aid : idées de décoration d'intérieur, inspiration et application de mise en scène virtuelle utilisant l'intelligence artificielle. | Trouve des idées de décoration d'intérieur grâce à l'intelligence artificielle et met en scène des intérieurs virtuels pour des annonces immobilières aux styles d'intérieur différents. | :grey_question: |
 | [Interior AI Designs](https://www.thataicollection.com/redirect/interior-ai-designs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Design d'intérieur basé sur l'IA : créer des pièces de rêve grâce à l'IA pour tous. | Prends une photo de ta chambre et vois à quoi ressemble ta chambre selon différents thèmes. Rénove ta chambre aujourd'hui. Découvrez un monde de possibilités de design grâce à notre sélection de thèmes en vedette. Chaque thème a été soigneusement conçu pour transformer ton espace. | :white_check_mark: |
 | [Makeit.ai](https://www.thataicollection.com/redirect/makeit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Conception générative - Logiciel de conception d'architecture - Maket. | Notre logiciel de conception générative permet aux architectes, constructeurs et développeurs de générer rapidement des milliers de plans architecturaux instantanément. | :grey_question: |
 | [Oda Studio](https://www.thataicollection.com/redirect/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Oda Moodboard • Oda Studio - Choisissez ton style et ta couleur pour personnaliser ton intérieur en quelques secondes grâce à l'IA. | Choisis ton style et ta couleur pour personnaliser ta maison en quelques secondes grâce à l'IA. Commence à concevoir ta maison ou utilise un tableau d'échantillons. | :white_check_mark: |
@@ -385,7 +411,6 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 | [AIprofilepic](https://www.thataicollection.com/redirect/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Créez de superbes images de profil à l'aide de l'IA - AIProfilePic.art. | Créez vos avatars parfaits en quelques clics grâce à notre technologie d'intelligence artificielle facile à utiliser. | :grey_question: |
 | [ARTI.PICS](https://www.thataicollection.com/redirect/arti.pics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Créateur d'avatar alimenté par l'IA. | Arti.Pics vous permet de télécharger quelques photos de vous et génère plus de 200 avatars sympas dans différents styles. | :x: |
 | [Autoportrait](https://www.thataicollection.com/redirect/autoportrait?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Autoportrait - Créez des portraits IA. | Parcourez des millions de styles ou créez le vôtre, générez des autoportraits IA. | :grey_question: |
-| [AvatarAI](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Crée tes propres avatars photoréalistes basés sur l'IA. | Génère des images photoréalistes de personnes grâce à l'IA. Génère plus de 120 styles d'avatars différents sur la base de l'Avatar AI™ original qui a lancé la tendance des avatars IA. Cela ne prend que 46 secondes. Découvrez d'autres packs de photos dans des poses, des lieux et des styles différents. | :grey_question: |
 | [AvatarCraft](https://www.thataicollection.com/redirect/avatarcraft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Mets-en valeur le meilleur de toi-même avec les avatars générés par l'IA d'Avatarcraft. | Ta photo de profil est la première chose sur laquelle les gens te jugent au premier coup d'œil. Avec AvatarCraft, crée facilement des centaines d'avatars de grande qualité à partir de tes photos grâce à l'IA. Choisissez des styles professionnels pour LinkedIn afin de mettre en valeur votre expertise, ou des styles créatifs pour Instagram, TikTok, X, etc. | :white_check_mark: |
 | [Avatarize.club](https://www.thataicollection.com/redirect/avatarize.club?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Créez des avatars de haute qualité générés par l'IA. | Photos professionnelles, DP sur les réseaux sociaux, avatars de jeu, photos de profil de rencontre, etc., optimisés par Stable Diffusion 2.1. | :x: |
 | [Avtrs](https://www.thataicollection.com/redirect/avtrs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Avatars créés par des utilisateurs satisfaits. | Comment ça fonctionne? 1. Téléchargez des selfies de vous (ou d'une autre personne) sous différents angles. 2. Attendez - Prenez un café pendant que nous construisons votre studio à partir de vos photos. 3. Invite - Utilisez votre imagination pour créer l'invite parfaite !. | :white_check_mark: |
@@ -401,6 +426,7 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 | [Magic AI Avatars](https://www.thataicollection.com/redirect/magic-ai-avatars?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | . | Obtenez plus de 200 avatars personnalisés créés par l'intelligence artificielle. | :grey_question: |
 | [Passphoto](https://www.thataicollection.com/redirect/passphoto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Créez votre photo de passeport avec l'IA. | Comment cela fonctionne en quatre étapes simples : Pays et saisie, Intelligence artificielle, Vérification et recadrage, Profitez de vos photos ! Passphoto.ai est une idée de l'entrepreneur Internet Gijs Heerkens. Depuis 2009, nous développons des technologies qui permettent aux gens de faire des photos de passeport en ligne. | :x: |
 | [Pfpmaker](https://www.thataicollection.com/redirect/pfpmaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Crée une superbe photo de profil gratuitement. | Télécharge ta photo et crée instantanément des centaines de photos de profil professionnelles grâce à l'IA pour te mettre en valeur en ligne. Choisissez entre des styles de portrait professionnel pour LinkedIn, des CV et des CV, ou un style créatif pour Instagram et la messagerie. | :white_check_mark: |
+| [Photo AI](https://www.thataicollection.com/redirect/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Crée tes propres avatars photoréalistes basés sur l'IA. | Génère des images photoréalistes de personnes grâce à l'IA. Génère plus de 120 styles d'avatars différents sur la base de l'Avatar AI™ original qui a lancé la tendance des avatars IA. Cela ne prend que 46 secondes. Découvrez d'autres packs de photos dans des poses, des lieux et des styles différents. | :grey_question: |
 | [PhotoAI](https://www.thataicollection.com/redirect/photoai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PhotoAI. | Créez des images de vous-même générées par l'IA. | :grey_question: |
 | [PhotoLeaf](https://www.thataicollection.com/redirect/photoleaf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PhotoLeaf IA. | Créez vos images de médias sociaux générées par l'IA. | :grey_question: |
 | [Photoshot](https://www.thataicollection.com/redirect/photoshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Votre générateur d'avatar IA. | Générez des avatars qui capturent parfaitement votre style unique. | :x: |

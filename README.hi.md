@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1095" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1096" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=42" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI" border="0"/>
+    </a>
+    <h4>इंटीरियर एआई: आर्टिफ़िकल इंटेलीजेंस का इस्तेमाल करने वाला इंटीरियर डिज़ाइन आइडिया, प्रेरणा और वर्चुअल स्टेजिंग ऐप</h4>
+    <p>अलग-अलग इंटीरियर स्टाइल के साथ रियल एस्टेट लिस्टिंग के लिए आर्टिफिशियल इंटेलिजेंस और वर्चुअली स्टेज इंटीरियर्स का उपयोग करके इंटीरियर डिज़ाइन के आइडिया प्राप्त करें।</p>
+    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Interior AI के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
     </a>
@@ -74,6 +87,19 @@
 
 तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI" border="0"/>
+    </a>
+    <h4>अपना खुद का फ़ोटोरियलिस्टिक AI अवतार बनाएं</h4>
+    <p>AI की मदद से लोगों की फ़ोटोरियलिस्टिक इमेज जेनरेट करें। मूल अवतार AI™ के आधार पर अवतार की 120+ विभिन्न शैलियों को जेनरेट करें, जिसने AI अवतार ट्रेंड शुरू किया। इसमें सिर्फ़ 46 सेकंड का समय लगता है। अलग-अलग पोज़, जगहों और स्टाइल में ज़्यादा फ़ोटो पैक देखें।</p>
+    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Photo AI के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -137,6 +163,36 @@
 - 📊 [स्लाइड और प्रस्तुतियाँ](#स्लाइड-और-प्रस्तुतियाँ)
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
+
+### Photo AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
+
+#### अपना खुद का फ़ोटोरियलिस्टिक AI अवतार बनाएं
+[Visit](https://www.thataicollection.com/redirect/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI की मदद से लोगों की फ़ोटोरियलिस्टिक इमेज जेनरेट करें। मूल अवतार AI™ के आधार पर अवतार की 120+ विभिन्न शैलियों को जेनरेट करें, जिसने AI अवतार ट्रेंड शुरू किया। इसमें सिर्फ़ 46 सेकंड का समय लगता है। अलग-अलग पोज़, जगहों और स्टाइल में ज़्यादा फ़ोटो पैक देखें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Interior AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
+
+#### इंटीरियर एआई: आर्टिफ़िकल इंटेलीजेंस का इस्तेमाल करने वाला इंटीरियर डिज़ाइन आइडिया, प्रेरणा और वर्चुअल स्टेजिंग ऐप
+[Visit](https://www.thataicollection.com/redirect/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+अलग-अलग इंटीरियर स्टाइल के साथ रियल एस्टेट लिस्टिंग के लिए आर्टिफिशियल इंटेलिजेंस और वर्चुअली स्टेज इंटीरियर्स का उपयोग करके इंटीरियर डिज़ाइन के आइडिया प्राप्त करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Undetectable AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-support-team.webp" alt="Undetectable AI">
@@ -216,36 +272,6 @@ PhotoRush छोटे व्यवसायों और प्रोफ़े�
 <br />
 
 
-
-
-### Lilybank AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lilybank-ai_.webp" alt="Lilybank AI">
-
-#### लिलीबैंक एआई से मिलें, एआई के ज़रिए कॉन्टेंट बनाने का एक बेहतर तरीका
-[Visit](https://www.thataicollection.com/redirect/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-लिलीबैंकएआई बिज़नेस के लिए एक नवोन्मेषी लेखन और इमेज जनरेशन प्लेटफ़ॉर्म है, जो AI तकनीक का इस्तेमाल करके मूल सामग्री के प्रोडक्शन की गति बढ़ाता है।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AI Face Analyzer-Beauty Score Calculator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-analyzer-beauty-score-calculator.webp" alt="AI Face Analyzer-Beauty Score Calculator">
-
-#### एआई फ़ेस एनालाइज़र-ब्यूटी स्कोर कैलकुलेटर
-[Visit](https://www.thataicollection.com/redirect/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ब्यूटी स्कोर कैलकुलेटर एक AI फ़ेस एनालाइज़र है, जो तुम्हारे चेहरे की अपलोड की गई तस्वीर के आधार पर एक ऑब्जेक्टिव फ़ेशियल ब्यूटी स्कोर प्रदान करता है।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ## लेखा और वित्त
@@ -509,6 +535,21 @@ Stocknews AI हर दिन के सबसे अच्छे नए स्�
 
 
 
+### Interior AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
+
+#### इंटीरियर एआई: आर्टिफ़िकल इंटेलीजेंस का इस्तेमाल करने वाला इंटीरियर डिज़ाइन आइडिया, प्रेरणा और वर्चुअल स्टेजिंग ऐप
+[Visit](https://www.thataicollection.com/redirect/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+अलग-अलग इंटीरियर स्टाइल के साथ रियल एस्टेट लिस्टिंग के लिए आर्टिफिशियल इंटेलिजेंस और वर्चुअली स्टेज इंटीरियर्स का उपयोग करके इंटीरियर डिज़ाइन के आइडिया प्राप्त करें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Oda Studio
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
 
@@ -538,21 +579,6 @@ AI की मदद से कुछ ही सेकंड में अपन�
 <br />
 
 <br />
-
-
-### Interior AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
-
-#### इंटीरियर एआई: आर्टिफिशियल इंटेलिजेंस का उपयोग करते हुए इंटीरियर डिजाइन आइडियाज इंस्पिरेशन और वर्चुअल स्टेजिंग ऐप
-[Visit](https://www.thataicollection.com/redirect/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-विभिन्न आंतरिक शैलियों के साथ रियल एस्टेट लिस्टिंग के लिए आर्टिफिशियल इंटेलिजेंस और वस्तुतः स्टेज इंटीरियर का उपयोग करके इंटीरियर डिजाइन विचार प्राप्त करें।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ### Image Computer
@@ -732,6 +758,21 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 
 ## अवतारों
 
+### Photo AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
+
+#### अपना खुद का फ़ोटोरियलिस्टिक AI अवतार बनाएं
+[Visit](https://www.thataicollection.com/redirect/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI की मदद से लोगों की फ़ोटोरियलिस्टिक इमेज जेनरेट करें। मूल अवतार AI™ के आधार पर अवतार की 120+ विभिन्न शैलियों को जेनरेट करें, जिसने AI अवतार ट्रेंड शुरू किया। इसमें सिर्फ़ 46 सेकंड का समय लगता है। अलग-अलग पोज़, जगहों और स्टाइल में ज़्यादा फ़ोटो पैक देखें।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### HairstyleAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hairstyleai.webp" alt="HairstyleAI">
 
@@ -741,21 +782,6 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 हेयरस्टाइलएआई आपको वास्तविक कटिंग कराने से पहले वस्तुतः एआई के साथ नए हेयरकट आज़माने की सुविधा देता है। अपने लुक में अधिक आत्मविश्वास लाएं और फिर से अपने जैसा महसूस करें।
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/hairstyleai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AvatarAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="AvatarAI">
-
-#### अपना खुद का फ़ोटोरियलिस्टिक AI अवतार बनाएं
-[Visit](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI की मदद से लोगों की फ़ोटोरियलिस्टिक इमेज जेनरेट करें। मूल अवतार AI™ के आधार पर अवतार की 120+ विभिन्न शैलियों को जेनरेट करें, जिसने AI अवतार ट्रेंड शुरू किया। इसमें सिर्फ़ 46 सेकंड का समय लगता है। अलग-अलग पोज़, जगहों और स्टाइल में ज़्यादा फ़ोटो पैक देखें।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/avatarai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
