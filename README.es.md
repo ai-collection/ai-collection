@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1096" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1102" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=42" />
@@ -51,6 +51,21 @@
     <h5>Mejores opciones</h5>
     <p>Las mejores opciones de AI Collection son</p>
 </div>
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    </a>
+    <h4>Empieza a chatear gratis con nuestro rápido y aterrador motor de personajes de IA de la NSFW. Divertido, útil, nuestros más de 7500 personajes de sexting con IA lo tienen. IA sin censura, sin juicio. Tú tienes el control.</h4>
+    <p>Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para recibir mensajes de texto con IA y charlas picantes las 24 horas del día, los 7 días de la semana
+
+¡Tus sueños más locos están a un clic de distancia hoy!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -85,21 +100,6 @@
     <h4>Inteligencia artificial: ideas de diseño de interiores, inspiración y aplicación de puesta en escena virtual que utiliza inteligencia artificial</h4>
     <p>Consigue ideas de diseño de interiores con inteligencia artificial y prácticamente esceniza interiores para anuncios de inmuebles con diferentes estilos de interiores.</p>
     <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Interior AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
-    </a>
-    <h4>Empieza a chatear gratis con nuestro rápido y aterrador motor de personajes de IA de la NSFW. Divertido, útil, nuestros más de 7500 personajes de sexting con IA lo tienen. IA sin censura, sin juicio. Tú tienes el control.</h4>
-    <p>Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para recibir mensajes de texto con IA y charlas picantes las 24 horas del día, los 7 días de la semana
-
-¡Tus sueños más locos están a un clic de distancia hoy!</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -164,6 +164,68 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### Augie Storyteller
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-augie-storyteller.webp" alt="Augie Storyteller">
+
+#### ¡Convierte tus historias en vídeos animados! 
+[Visit](https://www.thataicollection.com/redirect/augie-storyteller?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Augie Storyteller aprovecha la IA para crear fascinantes cuentos antes de dormir con videoclips generados automáticamente. Disfruta de historias personalizadas y visualmente atractivas que despiertan la imaginación y dan alegría a la hora de dormir. Perfecto para los padres que buscan aventuras mágicas para contar historias.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/augie-storyteller?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### BLOONY
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bloony_.webp" alt="BLOONY">
+
+#### CREAMOS UNA IA CONVERSACIONAL CON LA QUE LA GENTE INTERACTÚA EMOCIONALMENTE
+[Visit](https://www.thataicollection.com/redirect/bloony?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Tunip es una empresa emergente de tecnología de inteligencia artificial que ofrece varios chatbots (Coco, Mars, Bluny) que permiten una conversación gratuita, y TuniBridge, que es una colección de varias API que utilizan tecnología de procesamiento del lenguaje natural.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/bloony?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Podcast Name Generator by Podcast Rocket
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podcast-name-generator-by-podcast-rocket.webp" alt="Podcast Name Generator by Podcast Rocket">
+
+#### Encuentra el nombre perfecto para tu podcast gratis, con tecnología de IA.
+[Visit](https://www.thataicollection.com/redirect/podcast-name-generator-by-podcast-rocket?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Crear un nombre atractivo y memorable para tu podcast implica una mezcla de creatividad, estrategia y comprensión del público objetivo.
+
+Con nuestra herramienta puedes escribir una descripción breve y generar cientos de combinaciones de una en una. Entonces elige el que más te guste.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/podcast-name-generator-by-podcast-rocket?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Goatstack.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-goatstack.ai.webp" alt="Goatstack.AI">
+
+#### Sigue adelante con los artículos sobre IA y aprendizaje automático: información diaria y personalizada de tu agente de IA
+[Visit](https://www.thataicollection.com/redirect/goatstack.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Goatstack.ai es un agente de IA autónomo que simplifica mantenerse al día con las investigaciones sobre la IA y el aprendizaje automático al resumir los últimos artículos y ofrecer información personalizada a través de un boletín diario, adaptado a tus intereses específicos en los campos en constante evolución de la inteligencia artificial y el aprendizaje automático.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/goatstack.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Photo AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
 
@@ -207,67 +269,6 @@ Crea contenido de calidad humana, gramaticalmente correcto, libre de plagio e in
 100% gratis y sin necesidad de tarjeta de crédito.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/undetectable-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Peech - Text to Speech Reader
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-peech---text-to-speech-reader.webp" alt="Peech - Text to Speech Reader">
-
-#### Peech es una potente herramienta de conversión de texto a voz que transforma sin esfuerzo cualquier texto en un audio increíblemente realista generado por la IA
-[Visit](https://www.thataicollection.com/redirect/peech---text-to-speech-reader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Peech está disponible en más de 50 idiomas, incluidos inglés, francés, alemán, italiano, español y más. Peach está disponible actualmente como aplicación para iOS y extensión para Chrome. También trabajamos con editoriales de libros y ofrecemos doblaje para libros de calidad a un precio entre 20 y 100 dólares más barato que Traditional Production.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/peech---text-to-speech-reader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI-Flow
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-flow.webp" alt="AI-Flow">
-
-#### AI-FLOW es una innovadora plataforma de código abierto diseñada para conectar y combinar sin esfuerzo los principales modelos de IA, creando herramientas de IA personalizadas que se adapten a tus necesidades únicas.
-[Visit](https://www.thataicollection.com/redirect/ai-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI-FLOW es una plataforma versátil que te permite crear soluciones a medida para una amplia gama de aplicaciones. Ya sea que estés simplificando la creación de contenido para redes sociales, resumiendo vídeos de YouTube, aumentando el tamaño de las imágenes generadas por la IA o convirtiendo las descripciones de texto en videoclips, AI-FLOW te proporciona las herramientas que necesitas para innovar y sobresalir.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/ai-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Headpix
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-headpix.webp" alt="Headpix">
-
-#### Headpix | Los disparos a la cabeza generados por la IA son el futuro de los retratos
-[Visit](https://www.thataicollection.com/redirect/headpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Los disparos a la cabeza generados por la IA son el futuro de los retratos
-Transforma tus fotos habituales en fotos profesionales de negocios con nuestro generador de fotos de IA. ¡Elige tu estilo, sube tus fotos y consigue 200 fotos a la cabeza!
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/headpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Photo Rush
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photo-rush.webp" alt="Photo Rush">
-
-#### Fotos profesionales de productos en cuestión de minutos. 
-[Visit](https://www.thataicollection.com/redirect/photo-rush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PhotoRush es la solución ideal para las pequeñas empresas y las personas que buscan fotografías de productos de calidad profesional. Al aumentar la calidad de las fotografías, garantiza que los productos destaquen y optimiza la posibilidad de aumentar las ventas. Estas imágenes premium son perfectas para las plataformas de comercio electrónico.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/photo-rush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -666,21 +667,6 @@ Aproveche el potencial de la creación y edición de imágenes con tecnología d
 
 
 
-### SUPERMACHINE
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
-
-#### Supermachine: genera fotos, arte e imágenes de archivo con IA
-[Visit](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SUPERMACHINE te permite generar imágenes con lo último en tecnología de inteligencia artificial. Genera imágenes de IA impresionantes con más de 55 modelos.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Getimg.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getimg.ai.webp" alt="Getimg.ai">
 
@@ -721,6 +707,21 @@ Además, el optimizador de anuncios con tecnología de inteligencia artificial c
 ICONS8 PERMITE A LOS DISEÑADORES EXPRESAR SUS IDEAS Y PROPORCIONARLES LOS ELEMENTOS DE DISEÑO CORRECTOS EN EL MOMENTO ADECUADO. Funciones de IA: generador de rostros, cambia las caras de las fotos de archivo, escalador inteligente, actualiza tu sitio web directamente desde Lunacy y más
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/icons8?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### SUPERMACHINE
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
+
+#### Supermachine: genera fotos, arte e imágenes de archivo con IA
+[Visit](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SUPERMACHINE te permite generar imágenes con lo último en tecnología de inteligencia artificial. Genera imágenes de IA impresionantes con más de 55 modelos.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3133,6 +3134,39 @@ Mejora la presentación de tus productos con Photoshift. Combina tu producto a l
 
 
 
+### AVCLabs PhotoPro AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photopro-ai.webp" alt="AVCLabs PhotoPro AI">
+
+#### Editor de fotos con IA: mejora todo en la edición de fotos | AVCLabs
+
+[Visit](https://www.thataicollection.com/redirect/avclabs-photopro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La herramienta especializada de edición de fotografías asistida por IA, que ofrece herramientas profesionales de edición de fotografías, como eliminar objetos y fondos, mejorar la calidad de las fotografías, aumentar la resolución de las fotos, colorear fotos en blanco y negro, retocar retratos y estilizar fotografías.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/avclabs-photopro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AVCLabs Photo Enhancer AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
+
+#### Mejorador fotográfico con IA de AVCLabs: mejora la calidad de las fotografías con facilidad con la IA 
+
+[Visit](https://www.thataicollection.com/redirect/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Potenciador fotográfico con IA todo en uno para mejorar la calidad de las fotografías al eliminar automáticamente el ruido, desbarbar, enfocar, ajustar el color y el tono y aumentar la imagen hasta un 400% sin sacrificar la calidad.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/avclabs-photo-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Headpix
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-headpix.webp" alt="Headpix">
 
@@ -3177,36 +3211,6 @@ Con StableDojo puedes generar un avatar para ti o una sesión de fotos para tus 
 <br />
 
 <br />
-
-
-### Prisma
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prisma.webp" alt="Prisma">
-
-#### Prisma captura la esencia de tus fotos transformándolas en pinturas de colores vivos
-[Visit](https://www.thataicollection.com/redirect/prisma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Más de 700 brillantes estilos artísticos y de retratos a tu disposición. Posibilidad de modificar tanto el primer plano como el fondo por separado. Marcos espléndidos para actualizar tus imágenes.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/prisma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Claid.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-claid.ai.webp" alt="Claid.ai">
-
-#### Cree hermoso contenido de conversión con IA
-[Visit](https://www.thataicollection.com/redirect/claid.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Automatice la creación de imágenes de extremo a extremo e impulse su negocio con nuestro conjunto de productos de IA. Cree múltiples imágenes de productos que se adapten a su marca. Simplifique su proceso de creación de contenido transformando imágenes aburridas de productos en imágenes de marketing con calidad de sesión de fotos.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/claid.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 
@@ -4945,16 +4949,15 @@ Sitekick te permite crear hermosas páginas de destino. Sin necesidad de conocim
 
 ## Asistente de Redacción
 
-### Journalist AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-journalist-ai.webp" alt="Journalist AI">
+### Wordfixerbot
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot">
 
-#### Genera artículos de alta calidad que se publiquen automáticamente en tu blog
-[Visit](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot
+[Visit](https://www.thataicollection.com/redirect/wordfixerbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Recibe al instante cientos de artículos relevantes, únicos y optimizados para tu nicho. Artículos con muchos reportajes que atraen tráfico
-La IA periodística crea contenido bien estructurado, apropiado para tu negocio y que aparezca en Google.
+La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/wordfixerbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5027,6 +5030,22 @@ Mejora tus habilidades de escritura con el mejor software de asistente de escrit
 
 
 
+### Journalist AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-journalist-ai.webp" alt="Journalist AI">
+
+#### Genera artículos de alta calidad que se publiquen automáticamente en tu blog
+[Visit](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Recibe al instante cientos de artículos relevantes, únicos y optimizados para tu nicho. Artículos con muchos reportajes que atraen tráfico
+La IA periodística crea contenido bien estructurado, apropiado para tu negocio y que aparezca en Google.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Elephas
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephas.webp" alt="Elephas">
 
@@ -5040,21 +5059,6 @@ Ahorra horas todos los días. El primer escritor de inteligencia artificial del 
 <br />
 
 <br />
-
-
-### Quillbot Paraphraser
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quillbot-paraphraser.webp" alt="Quillbot Paraphraser">
-
-#### La herramienta de paráfrasis impulsada por IA de QuillBot mejorará su escritura
-[Visit](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Tus palabras importan, y nuestra herramienta de paráfrasis está diseñada para garantizar que uses las correctas. Con dos modos gratuitos y cinco modos Premium para elegir, puede usar el Paraphraser en línea de QuillBot para reformular cualquier texto de varias maneras.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/quillbot-paraphraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 

@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1096" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1102" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -53,12 +53,25 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI" border="0"/>
     </a>
-    <h4>创建你自己的逼真的 AI 头像</h4>
-    <p>使用 AI 生成逼真的人物图像。基于开启 AI 头像潮流的原始 Avatar AI™ 生成 120 多种不同风格的头像。只需 46 秒。查看更多不同姿势、地点和风格的照片包。</p>
-    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Photo AI</b></a>
+    <h4>Interior Ai：室内设计创意、灵感和使用人工智能的虚拟舞台应用程序</h4>
+    <p>使用人工智能获取室内设计创意，为具有不同室内风格的房地产清单进行虚拟室内设计。</p>
+    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Interior AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
+    </a>
+    <h4>Cliptics，免费文字转语音！你的话，我们的声音。</h4>
+    <p>介绍Cliptics，它是您轻松将文本转换为自然语音的终极伴侣。无论你是想要增强学习材料的学生，还是寻求创新方式吸引受众的内容创作者，还是仅仅是喜欢听而不是阅读的人，Cliptics都能提供无缝的解决方案。Cliptics — 在你的指挥下，文字变为现实，免费</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Cliptics</b></a>
     <br />
 </div>
 
@@ -81,25 +94,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI" border="0"/>
     </a>
-    <h4>Interior Ai：室内设计创意、灵感和使用人工智能的虚拟舞台应用程序</h4>
-    <p>使用人工智能获取室内设计创意，为具有不同室内风格的房地产清单进行虚拟室内设计。</p>
-    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Interior AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
-    </a>
-    <h4>Cliptics，免费文字转语音！你的话，我们的声音。</h4>
-    <p>介绍Cliptics，它是您轻松将文本转换为自然语音的终极伴侣。无论你是想要增强学习材料的学生，还是寻求创新方式吸引受众的内容创作者，还是仅仅是喜欢听而不是阅读的人，Cliptics都能提供无缝的解决方案。Cliptics — 在你的指挥下，文字变为现实，免费</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Cliptics</b></a>
+    <h4>创建你自己的逼真的 AI 头像</h4>
+    <p>使用 AI 生成逼真的人物图像。基于开启 AI 头像潮流的原始 Avatar AI™ 生成 120 多种不同风格的头像。只需 46 秒。查看更多不同姿势、地点和风格的照片包。</p>
+    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Photo AI</b></a>
     <br />
 </div>
 
@@ -487,6 +487,7 @@
 | [Namy.ai](https://www.thataicollection.com/redirect/namy.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 Namy.ai 的人工智能域名生成器，在超过一千万个域名上经过训练，在几秒钟内找到你的完美域名！. | Namy.ai 是一个 AI 域名生成器，其实很不错！只需输入一个单词或短语然后让 AI 来完成工作——Namy.ai 的高级域名 LLM 将在不到 10 秒钟的时间内生成数百个域名创意。最重要的是它是免费的！立即试用 Namy.ai 的域名生成器！. | :white_check_mark: |
 | [Paperade](https://www.thataicollection.com/redirect/paperade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paperade 创业点子生成器. | Paperade 是第一个基于 AI 的工具，可以从 1 亿多篇学术论文和研究中生成商业用例和公司创意。. | :grey_question: |
 | [PlanSnack](https://www.thataicollection.com/redirect/plansnack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用我们的商业计划书生成器，在几分钟内创建您的商业计划书。. | PlanSnack是为您的初创企业或小型企业制定有效的商业计划的最简单方法。借助我们经过行业验证的商业计划书模板和易于定制的示例，您将在几分钟内而不是几天或几小时内创建专业的单页商业计划书。PlanSnack 在任何意义上都是 100% 免费的，因此您可以免费创建、共享和下载商业计划书。. | :white_check_mark: |
+| [Podcast Name Generator by Podcast Rocket](https://www.thataicollection.com/redirect/podcast-name-generator-by-podcast-rocket?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在 AI 的支持下，免费为您的播客找到完美的名字。. | 为您的播客创建一个引人入胜且令人难忘的名字需要将创造力、策略和对目标受众的理解相结合。  使用我们的工具，您可以编写简短的描述并一次输出数百种组合。然后选择你最喜欢的那个。. | :white_check_mark: |
 | [Validator AI](https://www.thataicollection.com/redirect/validator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 立即免费开始您的创业之旅. | 输入您的创业想法，我们的人工智能创业导师将免费对其进行分析。您可以随心所欲地与我们的人工智能导师聊天机器人交谈，并学习有关创办初创公司所需了解的任何信息！. | :grey_question: |
 | [Videomuse](https://www.thataicollection.com/redirect/videomuse?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 只需粘贴您的频道 URL，即可毫不费力地产生新鲜的视频创意。在几秒钟内，收到为您的内容量身定制的丰富灵感。. | 作为内容创作者，我们都会遇到想法枯竭的时刻。该网站将帮助您根据当前上传的内容集思广益。您只需给它链接到您的频道（或任何频道），让奇迹发生。对于每个想法，您还可以生成一些细节 - 视频应该涵盖什么、关于视频结构的提示等。. | :white_check_mark: |
 
@@ -988,6 +989,7 @@
 | [Documind AI - Chat with PDF](https://www.thataicollection.com/redirect/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Documind AI-使用 AI 和 GPT4 与 PDF 聊天. | Documind 是一款使用 pdf 进行聊天的工具，它允许用户从 PDF 中提问。它比现有的通用工具要好。  我们的显著特点是- -批量上传 PDF 文档。 -将文件整理到文件夹中 -查看引文 -生成长 PDF 的简短摘要 -在您的网站上免费嵌入聊天机器人 -用户可以生成可共享的链接并与队友和朋友分享他们的机器人. | :white_check_mark: |
 | [Elicit](https://www.thataicollection.com/redirect/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 引出：人工智能研究助理. | Elicit 使用机器学习来帮助您进行研究：查找论文、提取关键声明、总结、集思广益等等。. | :grey_question: |
 | [Explainpaper](https://www.thataicollection.com/redirect/explainpaper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 阅读研究论文的最快方式. | 上传一篇论文，突出令人困惑的文本，获得解释。我们使研究论文易于阅读。. | :white_check_mark: |
+| [Goatstack.AI](https://www.thataicollection.com/redirect/goatstack.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 借助 AI/ML 论文取得成功：来自 AI 代理的每日个性化见解. | Goatstack.ai 是一款自主的人工智能代理，可根据您在不断变化的人工智能和机器学习领域的特定兴趣量身定制，总结最新论文并通过每日时事通讯提供个性化见解，从而简化了解人工智能/机器学习研究的最新动态。. | :white_check_mark: |
 | [Jenni](https://www.thataicollection.com/redirect/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Jenni-用于撰写论文、研究论文等的人工智能！. | Jenni 是你在学术旅程中处理所有事物的 AI 助手。我们专门开发可帮助您撰写论文、研究论文等的人工智能！. | :white_check_mark: |
 | [RTutor](https://www.thataicollection.com/redirect/rtutor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用数十种人类语言与您的数据聊天。. | RTutor利用OpenAI强大的大语言模型将自然语言翻译成R代码，然后执行。您可以请求您的分析，就像询问真人一样。上传数据文件（CSV、TSV/制表符分隔的文本文件和 Excel），然后用简单的英语对其进行分析。您的结果可以在几分钟内下载为 HTML 报告！. | :white_check_mark: |
 | [Scispace](https://www.thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Scispace by Typeset-发现、创建、发布和推广您的研究论文. | 使用 ScisSpace 与 PDF 聊天，更快地进行文献综述。查阅 2 亿多篇论文或上传您自己的 PDF，突出显示文本或提问，并提取解释和摘要。. | :grey_question: |
@@ -1157,7 +1159,7 @@
 | [aiurbate](https://www.thataicollection.com/redirect/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | aiurbate-终极虚拟伴侣，旨在让您的生活更轻松、更愉快。尖端的人工智能和先进的自然语言处理能力。. | aiurbate是一位可以帮助您管理一天的虚拟助手，或者只是与您分享想法和感受的人，aiurbate可以满足您的需求。  一切都是为了让对话变得有趣和引人入胜。我们的聊天机器人配备了复杂的个性引擎，使其能够适应您的沟通风格，并以自然而真实的方式做出回应。. | :white_check_mark: |
 | [Askrobi](https://www.thataicollection.com/redirect/askrobi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | WhatsApp 中 AI 的力量. | Robi 是一个强大的 AI 伴侣，它住在您的联系人列表中，可以通过 WhatsApp 与他交谈，他可以帮助您撰写文章或生成原始图像！. | :white_check_mark: |
 | [Beam](https://www.thataicollection.com/redirect/beam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Beam——适用于 macOS 的最有效的 ChatGPT 用户界面。. | 与启动器应用程序一样，Beam提供了一个浮动的聊天窗口，您可以通过一个键盘快捷键打开并与模型聊天，而无需离开当前窗口。切换 GPT 模型和角色、使用预制模板、与 Mac 上的任何应用程序进行交互，还有许多其他功能一键即可使用！. | :white_check_mark: |
-| [BLOONY](https://www.thataicollection.com/redirect/bloony?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | BLOONY - 人工智能聊天机器人. | 加入 ChatTrip！. | :grey_question: |
+| [BLOONY](https://www.thataicollection.com/redirect/bloony?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 我们创造了人们在情感上参与的对话式人工智能. | Tunip是一家人工智能技术初创公司，提供支持自由对话的各种聊天机器人（Coco、Mars、Bluny）和TuniBridge，后者是使用自然语言处理技术的各种API的集合。. | :grey_question: |
 | [Bodt](https://www.thataicollection.com/redirect/bodt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bodt-为您的网站提供人工智能客户支持. | Bodt.io 是一个直观、无需代码的平台，用于构建 AI 聊天机器人。只需 15 分钟，即可创建针对您的网站内容进行训练的个性化聊天机器人。   借助 Bodt 提供的 AI 聊天支持，增强您的在线商店体验。为您的购物者提供全天候客户支持、智能产品推荐、订单跟踪和即时回复。. | :grey_question: |
 | [BotGPT](https://www.thataicollection.com/redirect/botgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 电报 GPT 机器人. | Telegram 机器人允许快速和直观地访问 GPT，保存您的历史记录，并可从您的手机或桌面使用。很酷的功能即将推出。. | :white_check_mark: |
 | [Build Chatbot](https://www.thataicollection.com/redirect/build-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 推出世界排名第一的人工智能聊天机器人 - 根据您的私人数据自动训练，支持所有文件格式. | Build Chatbot 是一款独特的无代码聊天机器人构建器，使企业和个人能够通过几个简单的步骤创建自己的个性化聊天机器人。它是一款功能强大的人工智能工具，可以轻松地从各种文件格式（如 PDF、CSV、DOCX 文件、URL，甚至音频和视频文件）中提取精确信息。. | :white_check_mark: |
@@ -1365,6 +1367,7 @@
 | [AI Host](https://www.thataicollection.com/redirect/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 运行交互式直播. | LiveReacting 通过将预先录制的视频、游戏、倒计时和投票添加到您的流中，帮助您获得更多关注者和参与度。. | :x: |
 | [Atlas Navi](https://www.thataicollection.com/redirect/atlas-navi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 带有持牌车辆 NFT 的 DRIVE-TO-EARN 人工智能导航应用程序. | 创建最好的导航应用程序。凭借机器学习和区块链等尖端技术，Atlas Navi将成为全球驾驶员的主要导航选择。使用人工智能进行精确定位以实现更好的路线它每秒分析道路25次，生成的数据比其他导航应用程序好100倍；. | :white_check_mark: |
 | [Augie](https://www.thataicollection.com/redirect/augie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Augie 将文字转换为视频！. | 上传文本、旁白或剪辑，Augie 将分析内容并立即创建视频以匹配您的文字！. | :white_check_mark: |
+| [Augie Storyteller](https://www.thataicollection.com/redirect/augie-storyteller?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 把你的故事变成动画视频！. | Augie Storyteller 利用人工智能通过自动生成的视频片段创作迷人的睡前故事。体验个性化、视觉上引人入胜的故事，激发想象力，为睡前带来欢乐。非常适合寻求神奇故事冒险的父母。. | :white_check_mark: |
 | [AVCLabs Video Enhancer](https://www.thataicollection.com/redirect/avclabs-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 视频增强器：由 AI 提供支持的最佳视频质量增强器和视频升频器. | 由人工智能驱动的视频质量增强器、视频升频器和视频着色器，它可以改善旧视频的质量，并将视频从标清到高清，从高清到4K，甚至8K升级。. | :white_check_mark: |
 | [bigmp4](https://www.thataicollection.com/redirect/bigmp4?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 视频增强，使用 2023 年尖端人工智能模型无损放大视频，增强视频. | 功能包括：视频 AI 放大、视频着色、视频 AI 插值、视频慢动作、支持批处理模式、支持 gif。. | :white_check_mark: |
 | [Boolpic](https://www.thataicollection.com/redirect/boolpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为品牌赋能的智能视频平台. | 使用 AI 以 10 倍的速度生成品牌视频以提高营销绩效. | :grey_question: |

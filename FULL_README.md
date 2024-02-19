@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1096" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1102" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=42" />
@@ -59,12 +59,14 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
-    <h4>Cliptics, Free Text to speech! Your words, our Voices.</h4>
-    <p>Introducing Cliptics, your ultimate companion for converting text into natural-sounding speech effortlessly. Whether you're a student looking to enhance your study materials, a content creator seeking innovative ways to engage your audience, or simply someone who prefers listening over reading, Cliptics offers a seamless solution. Cliptics –where words come to life at your command, free of charge</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Cliptics</b></a>
+    <h4>Start chatting for free with our scary fast NSFW AI character engine. Playful, helpful, our 7500+ AI sexting characters got it. Uncensored AI, no judgment. You are in control.</h4>
+    <p>Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.
+
+Your wildest dreams are just a click away today!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -85,14 +87,12 @@ Translations:
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI" border="0"/>
     </a>
-    <h4>Start chatting for free with our scary fast NSFW AI character engine. Playful, helpful, our 7500+ AI sexting characters got it. Uncensored AI, no judgment. You are in control.</h4>
-    <p>Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.
-
-Your wildest dreams are just a click away today!</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <h4>Interior Ai: Interior Design Ideas Inspiration, and Virtual Staging App Using Artifical Intelligence</h4>
+    <p>Get interior design ideas using Artificial Intelligence and virtually stage interiors for real estate listings with different interior styles.</p>
+    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Interior AI</b></a>
     <br />
 </div>
 
@@ -100,12 +100,12 @@ Your wildest dreams are just a click away today!</p>
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
     </a>
-    <h4>Interior Ai: Interior Design Ideas Inspiration, and Virtual Staging App Using Artifical Intelligence</h4>
-    <p>Get interior design ideas using Artificial Intelligence and virtually stage interiors for real estate listings with different interior styles.</p>
-    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Interior AI</b></a>
+    <h4>Cliptics, Free Text to speech! Your words, our Voices.</h4>
+    <p>Introducing Cliptics, your ultimate companion for converting text into natural-sounding speech effortlessly. Whether you're a student looking to enhance your study materials, a content creator seeking innovative ways to engage your audience, or simply someone who prefers listening over reading, Cliptics offers a seamless solution. Cliptics –where words come to life at your command, free of charge</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Cliptics</b></a>
     <br />
 </div>
 
@@ -412,7 +412,7 @@ Your wildest dreams are just a click away today!</p>
 | [aiurbate](https://www.thataicollection.com/redirect/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | aiurbate - the ultimate virtual companion designed to make your life easier and more enjoyable. Cutting-edge artificial intelligence and advanced natural language processing capabilities. | A virtual assistant to help you manage your day, or just someone to share your thoughts and feelings with, aiurbate has got you covered.  All about making conversation fun and engaging. Our chatbot is equipped with a sophisticated personality engine that allows it to adapt to your communication style and respond in a way that feels natural and authentic. | :white_check_mark: |
 | [Askrobi](https://www.thataicollection.com/redirect/askrobi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Power of AI in WhatsApp. | Robi is a powerful AI companion that lives in your contact list and can be talked to through WhatsApp, he can help you write an essay or generate original images!. | :white_check_mark: |
 | [Beam](https://www.thataicollection.com/redirect/beam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Beam - the most efficient ChatGPT UI for macOS. | Like the launcher app, Beam provides a floating chat window you can open with a single keyboard shortcut and chat with the model without leaving your current window. Switch GPT models and personas, use pre-made templates, interact with any app on your Mac, and many other features are all available in one click!. | :white_check_mark: |
-| [BLOONY](https://www.thataicollection.com/redirect/bloony?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bloony - AI Chatbot. | Hop on ChatTrip!. | :grey_question: |
+| [BLOONY](https://www.thataicollection.com/redirect/bloony?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | WE CREATE CONVERSATIONAL A.I. THAT PEOPLE EMOTIONALLY ENGAGE WITH. | Tunip is an artificial intelligence technology startup that provides various chatbots (Coco, Mars, Bluny) that enable free conversation and TUNiBridge, which is a collection of various APIs using natural language processing technology. | :grey_question: |
 | [Bodt](https://www.thataicollection.com/redirect/bodt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bodt - AI Customer Support for your Website. | Bodt.io is an intuitive, no-code platform for building AI chatbots. In just 15 minutes, create personalized chatbots trained on your website content.   Enhance your online store’s experience with AI chat support powered by Bodt. Give 24/7 Customer Support, smart product recommendations, order tracking and instant responses to your shoppers. | :grey_question: |
 | [BotGPT](https://www.thataicollection.com/redirect/botgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Telegram GPT Bot. | Telegram bot that allows fast and intuitive access to GPT, Saves your history, and available from your phone or desktop. Cool features upcoming. | :white_check_mark: |
 | [Build Chatbot](https://www.thataicollection.com/redirect/build-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unveiling the World's #1 AI Chatbot - Auto-Trained on Your Private Data, Supporting All File Formats. | Build Chatbot is a unique no-code chatbot builder empowering businesses and individuals alike to create their own personalized chatbot in a few easy steps. It's a powerful AI tool that effortlessly extracts precise information from various file formats like PDFs, CSV, DOCX files, URLs, and even audio and video files. | :white_check_mark: |
@@ -847,6 +847,7 @@ Your wildest dreams are just a click away today!</p>
 | [Namy.ai](https://www.thataicollection.com/redirect/namy.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Find your perfect domain in seconds, using Namy.ai's AI-powered domain generator trained on over 10 million domain names!. | Namy.ai is an AI domain name generator that's ACTUALLY good! Just type a word or phrase and let AI do the work - Namy.ai's advanced domain name LLM will generate hundreds of domain ideas in less than 10 seconds. Best of all it's free! Try Namy.ai's domain name generator today!. | :white_check_mark: |
 | [Paperade](https://www.thataicollection.com/redirect/paperade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paperade Startup Idea Generator. | Paperade is the first AI-powered tool that generates commercial use cases and company ideas from over 100 million academic papers and research studies. | :grey_question: |
 | [PlanSnack](https://www.thataicollection.com/redirect/plansnack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create your business plan in minutes with our guided business plan generator. | PlanSnack is the easiest way to create a working business plan for your startup or small business. With our industry-proven business plan templates and easy-to-customize examples you'll create a professional one-page business plan in minutes rather than days or hours. PlanSnack is also 100% free in every sense of the word, so you can create, share, and download your business plan at no cost. | :white_check_mark: |
+| [Podcast Name Generator by Podcast Rocket](https://www.thataicollection.com/redirect/podcast-name-generator-by-podcast-rocket?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Find the perfect name for your podcast for free, powered by AI. | Creating a compelling and memorable name for your podcast involves a blend of creativity, strategy, and understanding of your target audience.  With our tool you're able to write a short description and output hundreds of combinations one at a time. Then just pick the one you like the most. | :white_check_mark: |
 | [Validator AI](https://www.thataicollection.com/redirect/validator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Start Your Entrepreneurial Journey Today For Free. | Input your startup idea and our AI startup mentor will analyze it for free. You can talk with our AI mentor chatbot as much as you want, and learn anything you need to know about launching a startup!. | :grey_question: |
 | [Videomuse](https://www.thataicollection.com/redirect/videomuse?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generate Fresh Video Ideas Effortlessly by Simply Pasting Your Channel URL. In Seconds, Receive a Wealth of Inspiration Tailored to Your Content. | As content creators, we all encounter moments when our well of ideas runs dry. This website will help you brainstorm ideas based on your current uploads. You just give it the link to your channel (or any channel) and let the magic happen. For each idea, you can also generate some details - what should the video cover, hints about video structure, etc. | :white_check_mark: |
 
@@ -1117,6 +1118,7 @@ Your wildest dreams are just a click away today!</p>
 | [Documind AI - Chat with PDF](https://www.thataicollection.com/redirect/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Documind AI - Chat with PDF using AI and GPT4. | Documind is a chat with pdf tool that lets users ask questions from their PDF. It is better than generic tools out there.  Our notable features are - - Bulk upload PDF documents. - Organize files into folders - View citation - Generate short and concise summary of long PDF - Embed chatbot on your website for free - Users can generate shareable link and share their bot with teammates and friends. | :white_check_mark: |
 | [Elicit](https://www.thataicollection.com/redirect/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Elicit: The AI Research Assistant. | Elicit uses machine learning to help you with your research: find papers, extract key claims, summarize, brainstorm ideas, and more. | :grey_question: |
 | [Explainpaper](https://www.thataicollection.com/redirect/explainpaper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The Fastest Way to Read Research Papers. | Upload a paper, highlight confusing text, get an explanation. We make research papers easy to read. | :white_check_mark: |
+| [Goatstack.AI](https://www.thataicollection.com/redirect/goatstack.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Get ahead with AI/ML papers: Daily, personalized insights from your AI Agent. | Goatstack.ai is an autonomous AI agent that simplifies staying up-to-date with AI/ML research by summarizing the latest papers and delivering personalized insights through a daily newsletter, tailored to your specific interests in the ever-evolving fields of artificial intelligence and machine learning. | :white_check_mark: |
 | [Jenni](https://www.thataicollection.com/redirect/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Jenni - The AI For Writing Essays, Research Papers & More!. | Jenni is your AI assistant for all things in your academic journey. We specialise in developing AI that helps you with essay writing, research papers and more!. | :white_check_mark: |
 | [RTutor](https://www.thataicollection.com/redirect/rtutor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Chat With Your Data in Dozens of Human Languages. | RTutor uses OpenAI's powerful large language model to translate natural language into R code, which is then excuted. You can request your analysis, just like asking a real person. Upload a data file (CSV, TSV/tab-delimited text files, and Excel) and just analyze it in plain English. Your results can be downloaded as an HTML report in minutes!. | :white_check_mark: |
 | [Scispace](https://www.thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Scispace by Typeset - Discover, Create, Publish, and Promote Your Research Paper. | Chat with PDF and conduct your literature review faster using SciSpace. Discover 200M+ papers or upload your own PDF, highlight text or ask questions, and extract explanations and summaries. | :grey_question: |
@@ -1402,6 +1404,7 @@ Your wildest dreams are just a click away today!</p>
 | [AI Host](https://www.thataicollection.com/redirect/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Run Interactive Live Streams. | LiveReacting helps you get more followers and engagement by adding pre-recorded videos, games, countdowns, and polls to your stream. | :x: |
 | [Atlas Navi](https://www.thataicollection.com/redirect/atlas-navi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | DRIVE-TO-EARN A.I NAVIGATION APP WITH LICENSED VEHICLE NFTs. | Creating the very best navigation app. With cutting-edge technologies such as machine learning and blockchain, Atlas Navi is set to become the leading navigation choice for drivers around the world. Precise locations using A.I  for better routing It analyses the road 25 times per second which generates 100 times better data than other navigation apps;. | :white_check_mark: |
 | [Augie](https://www.thataicollection.com/redirect/augie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Augie Transforms Words Into Videos!. | Upload text, narration, or clips, and Augie will analyze the content and create a video instantly to match your words!. | :white_check_mark: |
+| [Augie Storyteller](https://www.thataicollection.com/redirect/augie-storyteller?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Turn Your Stories Into Animated Videos!. | Augie Storyteller harnesses AI to create mesmerizing bedtime stories with auto-generated video clips. Experience personalized, visually engaging tales that spark imagination and bring joy to bedtime. Perfect for parents seeking magical storytelling adventures. | :white_check_mark: |
 | [AVCLabs Video Enhancer](https://www.thataicollection.com/redirect/avclabs-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Video Enhancer: Best Video Quality Enhancer and Video Upscaler Powered by AI. | AI-powed video quality enhancer, video upscaler and video colorizer, it improves the quality of your old videos, and upscale video from SD to HD, HD to 4K, even 8K. | :white_check_mark: |
 | [bigmp4](https://www.thataicollection.com/redirect/bigmp4?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Video Enhancement, Using 2023 Cutting Edged AI Model to Lossless Enlarge Video, Enhance Video. | Features include: Video AI Enlarge, Video Colorization, Video AI Interpolation, Video Slow Motion, Support batch mode, Support gif. | :white_check_mark: |
 | [Boolpic](https://www.thataicollection.com/redirect/boolpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | An Intelligent Video Platform That Empowers Brands. | Generate on-brand videos 10X faster with AI to boost marketing performance. | :grey_question: |

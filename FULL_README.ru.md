@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1096" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1102" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=42" />
@@ -53,6 +53,32 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
+    </a>
+    <h4>Cliptics, бесплатный перевод текста в речь! Ваши слова, наши голоса.</h4>
+    <p>Представляем Cliptics, вашего идеального помощника для простого преобразования текста в естественную речь. Независимо от того, являетесь ли вы студентом, желающим улучшить свои учебные материалы, создателем контента, ищущим инновационные способы привлечения аудитории, или просто тем, кто предпочитает слушать, а не читать, Cliptics предлагает идеальное решение. Cliptics — это место, где слова оживают по вашему усмотрению и бесплатно</p>
+    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Cliptics</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI" border="0"/>
+    </a>
+    <h4>Создайте свои собственные фотореалистичные аватары с искусственным интеллектом</h4>
+    <p>Создавайте фотореалистичные изображения людей с помощью искусственного интеллекта. Создавайте более 120 различных стилей аватаров на основе оригинального Avatar AI™, положившего начало тенденции к созданию аватаров с искусственным интеллектом. Это займет всего 46 секунд. Посмотрите больше пакетов фотографий в разных позах, местах и стилях.</p>
+    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Photo AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -74,32 +100,6 @@
     <h4>Interior Ai: идеи дизайна интерьера, вдохновение и приложение для виртуальной постановки с использованием искусственного интеллекта</h4>
     <p>Получите идеи дизайна интерьера с помощью искусственного интеллекта и виртуальные сценические интерьеры для объявлений о недвижимости с различными стилями интерьера.</p>
     <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Interior AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
-    </a>
-    <h4>Cliptics, бесплатный перевод текста в речь! Ваши слова, наши голоса.</h4>
-    <p>Представляем Cliptics, вашего идеального помощника для простого преобразования текста в естественную речь. Независимо от того, являетесь ли вы студентом, желающим улучшить свои учебные материалы, создателем контента, ищущим инновационные способы привлечения аудитории, или просто тем, кто предпочитает слушать, а не читать, Cliptics предлагает идеальное решение. Cliptics — это место, где слова оживают по вашему усмотрению и бесплатно</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Cliptics</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI" border="0"/>
-    </a>
-    <h4>Создайте свои собственные фотореалистичные аватары с искусственным интеллектом</h4>
-    <p>Создавайте фотореалистичные изображения людей с помощью искусственного интеллекта. Создавайте более 120 различных стилей аватаров на основе оригинального Avatar AI™, положившего начало тенденции к созданию аватаров с искусственным интеллектом. Это займет всего 46 секунд. Посмотрите больше пакетов фотографий в разных позах, местах и стилях.</p>
-    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Photo AI</b></a>
     <br />
 </div>
 
@@ -317,6 +317,7 @@
 | [AI Host](https://www.thataicollection.com/redirect/ai-host?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Запуск интерактивных прямых трансляций. | LiveReacting помогает вам привлечь больше подписчиков и вовлеченности, добавляя в свою трансляцию предварительно записанные видео, игры, обратный отсчет и опросы. | :x: |
 | [Atlas Navi](https://www.thataicollection.com/redirect/atlas-navi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ПРИЛОЖЕНИЕ ДЛЯ НАВИГАЦИИ ПО ИСКУССТВЕННОМУ ИНТЕЛЛЕКТУ С ЛИЦЕНЗИРОВАННЫМИ АВТОМОБИЛЬНЫМИ NFT. | Создание самого лучшего навигационного приложения. Благодаря передовым технологиям, таким как машинное обучение и блокчейн, Atlas Navi станет лучшим выбором навигации для водителей по всему миру. Точное местоположение с использованием искусственного интеллекта для улучшения маршрутизации. Оно анализирует дорогу 25 раз в секунду и генерирует в 100 раз лучшие данные, чем другие навигационные приложения;. | :white_check_mark: |
 | [Augie](https://www.thataicollection.com/redirect/augie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Оги превращает слова в видео!. | Загрузите текст, повествование или клипы, и Оги проанализирует содержимое и мгновенно создаст видео, соответствующее вашим словам!. | :white_check_mark: |
+| [Augie Storyteller](https://www.thataicollection.com/redirect/augie-storyteller?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Превратите свои истории в анимационные видеоролики!. | Augie Storyteller использует искусственный интеллект для создания завораживающих сказок на ночь с помощью автоматически генерируемых видеоклипов. Наслаждайтесь персонализированными, визуально привлекательными историями, которые пробуждают воображение и доставляют удовольствие перед сном. Идеально подходит для родителей, ищущих волшебные приключения по повествованию. | :white_check_mark: |
 | [AVCLabs Video Enhancer](https://www.thataicollection.com/redirect/avclabs-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Video Enhancer: лучший инструмент для улучшения качества видео и масштабирования видео на основе искусственного интеллекта. | Улучшитель качества видео на базе искусственного интеллекта, средство масштабирования видео и раскрашиватель видео улучшают качество ваших старых видео и масштабируют видео с SD на HD, HD до 4K и даже 8K. | :white_check_mark: |
 | [bigmp4](https://www.thataicollection.com/redirect/bigmp4?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Улучшение видео с помощью искусственного интеллекта с использованием передовой модели искусственного интеллекта 2023 года для увеличения видео без потерь и улучшения видео. | Особенности включают в себя: увеличение видео AI, раскрашивание видео, интерполяцию видео AI, замедленное движение видео, поддержку пакетного режима, поддержку gif. | :white_check_mark: |
 | [Boolpic](https://www.thataicollection.com/redirect/boolpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Интеллектуальная видеоплатформа, расширяющая возможности брендов. | Создавайте видео о брендах в 10 раз быстрее с помощью ИИ, чтобы повысить эффективность маркетинга. | :grey_question: |
@@ -546,6 +547,7 @@
 | [Namy.ai](https://www.thataicollection.com/redirect/namy.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Найдите свой идеальный домен за считанные секунды, используя генератор доменов Namy.ai на базе искусственного интеллекта, обученный более 10 миллионам доменных имен!. | Namy.ai — это генератор доменных имен с искусственным интеллектом, который ДЕЙСТВИТЕЛЬНО хорош! Просто введите слово или фразу и позвольте искусственному интеллекту сделать всю работу — расширенное доменное имя Namy.ai LLM создаст сотни идей доменов менее чем за 10 секунд. А самое главное — это бесплатно! Попробуйте генератор доменных имен Namy.ai уже сегодня!. | :white_check_mark: |
 | [Paperade](https://www.thataicollection.com/redirect/paperade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Генератор идей для стартапов Paperade. | Paperade — это первый инструмент на основе искусственного интеллекта, который генерирует коммерческие варианты использования и идеи компаний из более чем 100 миллионов академических статей и исследований. | :grey_question: |
 | [PlanSnack](https://www.thataicollection.com/redirect/plansnack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Создайте свой бизнес-план за считанные минуты с помощью нашего генератора бизнес-планов с инструкциями. | PlanSnack — это самый простой способ создать рабочий бизнес-план для вашего стартапа или малого бизнеса. С помощью наших проверенных в отрасли шаблонов бизнес-планов и простых в настройке примеров вы создадите профессиональный одностраничный бизнес-план за считанные минуты, а не дни или часы. PlanSnack также на 100% бесплатен во всех смыслах этого слова, поэтому вы можете бесплатно создать свой бизнес-план, поделиться им и загрузить его. | :white_check_mark: |
+| [Podcast Name Generator by Podcast Rocket](https://www.thataicollection.com/redirect/podcast-name-generator-by-podcast-rocket?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Найдите идеальное название для своего подкаста бесплатно с помощью искусственного интеллекта. | Создание привлекательного и запоминающегося названия для вашего подкаста предполагает сочетание креативности, стратегии и понимания целевой аудитории.  С помощью нашего инструмента вы можете написать краткое описание и вывести сотни комбинаций по одной. Затем просто выберите ту, которая вам больше всего нравится. | :white_check_mark: |
 | [Validator AI](https://www.thataicollection.com/redirect/validator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Начните свой предпринимательский путь сегодня бесплатно. | Введите свою идею стартапа, и наш наставник по искусственному интеллекту бесплатно проанализирует ее. Вы можете сколько угодно общаться с нашим чат-ботом для наставников по искусственному интеллекту и узнать все, что вам нужно знать о запуске стартапа!. | :grey_question: |
 | [Videomuse](https://www.thataicollection.com/redirect/videomuse?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Создавайте свежие идеи для видео без особых усилий, просто вставив URL своего канала. За считанные секунды получите массу вдохновения, адаптированного к вашему контенту. | Как создатели контента, мы все сталкиваемся с моментами, когда наш кладезь идей иссякает. Этот веб-сайт поможет вам провести мозговой штурм идей на основе ваших текущих загрузок. Вы просто даете ему ссылку на свой канал (или любой другой канал) и позволяете волшебству произойти. Для каждой идеи вы также можете сгенерировать некоторые детали — о чем должно быть видео, намеки на структуру видео и т. д. | :white_check_mark: |
 
@@ -792,6 +794,7 @@
 | [Documind AI - Chat with PDF](https://www.thataicollection.com/redirect/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Documind AI — чат с PDF с использованием AI и GPT4. | Documind — это инструмент чата в формате pdf, который позволяет пользователям задавать вопросы из PDF-файла. Это лучше, чем обычные инструменты.  Нашими примечательными особенностями являются - - Массовая загрузка PDF-документов. - Организуйте файлы по папкам - Просмотр цитат - Создайте краткое и краткое резюме длинного PDF-файла - Вставьте чат-бота на свой сайт бесплатно - Пользователи могут создать ссылку, которой можно поделиться, и поделиться своим ботом с товарищами по команде и друзьями. | :white_check_mark: |
 | [Elicit](https://www.thataicollection.com/redirect/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Elicit: помощник по исследованиям в области ИИ. | Elicit использует машинное обучение, чтобы помочь вам в ваших исследованиях: находить документы, извлекать ключевые утверждения, подводить итоги, проводить мозговой штурм и многое другое. | :grey_question: |
 | [Explainpaper](https://www.thataicollection.com/redirect/explainpaper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Самый быстрый способ читать исследовательские работы. | Загрузите статью, выделите запутанный текст, получите объяснение. Мы делаем исследовательские работы удобными для чтения. | :white_check_mark: |
+| [Goatstack.AI](https://www.thataicollection.com/redirect/goatstack.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ознакомьтесь с документами об искусственном интеллекте и машинном обучении: ежедневная персонализированная аналитика от вашего агента по искусственному интеллекту. | Goatstack.ai — это автономный агент искусственного интеллекта, который упрощает отслеживание результатов исследований в области искусственного интеллекта и машинного обучения, сводя последние статьи и публикуя персонализированную информацию в ежедневном информационном бюллетене, адаптированном к вашим конкретным интересам в постоянно развивающихся областях искусственного интеллекта и машинного обучения. | :white_check_mark: |
 | [Jenni](https://www.thataicollection.com/redirect/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Дженни — искусственный интеллект для написания эссе, исследовательских работ и многого другого!. | Дженни — ваш помощник по искусственному интеллекту во всем, что связано с вашей академической деятельностью. Мы специализируемся на разработке искусственного интеллекта, который поможет вам писать эссе, исследовательские работы и многое другое!. | :white_check_mark: |
 | [RTutor](https://www.thataicollection.com/redirect/rtutor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Общайтесь с вашими данными на десятках человеческих языков. | RTutor использует мощную модель большого языка OpenAI для перевода естественного языка в код R, который затем выполняется. Вы можете запросить свой анализ так же, как спросить реального человека. Загрузите файл данных (CSV, TSV/текстовые файлы с разделителями табуляцией и Excel) и просто проанализируйте его на простом английском языке. Ваши результаты могут быть загружены в виде HTML-отчета за считанные минуты!. | :white_check_mark: |
 | [Scispace](https://www.thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Scispace от Typeset — найдите, создайте, опубликуйте и продвигайте свою исследовательскую работу. | Общайтесь в чате с PDF-файлами и быстрее просматривайте литературу с помощью SciSpace. Откройте для себя более 200 миллионов статей или загрузите свой собственный PDF-файл, выделите текст или задайте вопросы, извлеките пояснения и резюме. | :grey_question: |
@@ -1424,7 +1427,7 @@
 | [aiurbate](https://www.thataicollection.com/redirect/aiurbate?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | aiurbate — идеальный виртуальный компаньон, призванный сделать вашу жизнь проще и приятнее. Передовой искусственный интеллект и расширенные возможности обработки естественного языка. | Виртуальный помощник, который поможет вам управлять своим днем, или просто кто-то, с кем можно поделиться своими мыслями и чувствами, aurbate поможет вам.  Все дело в том, чтобы сделать разговор увлекательным и увлекательным. Наш чат-бот оснащен сложным механизмом персонализации, который позволяет ему адаптироваться к вашему стилю общения и реагировать естественным и аутентичным образом. | :white_check_mark: |
 | [Askrobi](https://www.thataicollection.com/redirect/askrobi?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Сила ИИ в WhatsApp. | Роби — мощный компаньон с искусственным интеллектом, который живет в вашем списке контактов, с ним можно поговорить через WhatsApp, он может помочь вам написать эссе или создать оригинальные изображения!. | :white_check_mark: |
 | [Beam](https://www.thataicollection.com/redirect/beam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Beam — самый эффективный пользовательский интерфейс ChatGPT для macOS. | Как и приложение для запуска, Beam предоставляет плавающее окно чата, которое можно открыть одним сочетанием клавиш и общаться с моделью, не выходя из текущего окна. Меняйте модели и персонажей GPT, используйте готовые шаблоны, взаимодействуйте с любым приложением на вашем Mac, и многие другие функции доступны одним щелчком мыши!. | :white_check_mark: |
-| [BLOONY](https://www.thataicollection.com/redirect/bloony?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | BLOONY — чат-бот с искусственным интеллектом. | Запрыгивайте в чат-трип!. | :grey_question: |
+| [BLOONY](https://www.thataicollection.com/redirect/bloony?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | МЫ СОЗДАЕМ РАЗГОВОРНЫЙ ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ, С КОТОРЫМ ЛЮДИ ЭМОЦИОНАЛЬНО ВЗАИМОДЕЙСТВУЮТ. | Tunip — это стартап в сфере технологий искусственного интеллекта, который предоставляет различные чат-боты (Coco, Mars, Bluny), обеспечивающие бесплатный разговор, и TuniBridge, представляющий собой набор различных API, использующих технологию обработки естественного языка. | :grey_question: |
 | [Bodt](https://www.thataicollection.com/redirect/bodt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bodt - поддержка клиентов AI для вашего сайта. | Bodt.io — это интуитивно понятная платформа без программирования для создания чат-ботов с искусственным интеллектом. Всего за 15 минут создайте персонализированных чат-ботов, обученных контенту вашего сайта.   Повысьте удобство работы своего интернет-магазина с помощью поддержки в чате с искусственным интеллектом на базе Bodt. Обеспечьте круглосуточную поддержку клиентов, умные рекомендации по продуктам, отслеживайте заказы и мгновенно отвечайте покупателям. | :grey_question: |
 | [BotGPT](https://www.thataicollection.com/redirect/botgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Telegram GPT-бот. | Бот Telegram, который обеспечивает быстрый и интуитивно понятный доступ к GPT, сохраняет вашу историю и доступен с вашего телефона или рабочего стола. Будут интересные функции. | :white_check_mark: |
 | [Build Chatbot](https://www.thataicollection.com/redirect/build-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Представляем чат-бота №1 в мире с искусственным интеллектом, автоматически обучающегося на ваших личных данных и поддерживающего все форматы файлов. | Build Chatbot — это уникальный конструктор чат-ботов без кода, который позволяет предприятиям и частным лицам создавать своих собственных персонализированных чат-ботов за несколько простых шагов. Это мощный инструмент искусственного интеллекта, который без труда извлекает точную информацию из файлов различных форматов, таких как PDF, CSV, DOCX, URL-адреса и даже аудио- и видеофайлы. | :white_check_mark: |
