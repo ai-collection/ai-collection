@@ -59,6 +59,19 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    </a>
+    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
+    <p>WordfixerBot's Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Wordfixerbot</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -67,19 +80,6 @@ Translations:
 
 Your wildest dreams are just a click away today!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
-    <p>WordfixerBot's Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -144,8 +144,40 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### Larity
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-larity.webp" alt="Larity">
+
+####  Bring AI to the real world in a shop that is only bound by your imagination
+[Visit](https://www.thataicollection.com/redirect/larity?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Larity AI Shop is an innovative online platform that brings your imagination to life using the latest in AI. Here, you are not just a customer but a creator, using AI to turn your ideas into unique T-shirt designs. Simply provide a prompt for your dream T-shirt, and our advanced AI tool crafts a distinctive and eye-catching design. 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/larity?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### SEOByAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-seobyai_.webp" alt="SEOByAI">
+
+#### Rank Faster on Google with FREE AI SEO Tools
+[Visit](https://www.thataicollection.com/redirect/seobyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SEOBy.ai helps you kickstart your marketing efforts and rank higher on search engines without spending a dime. Get organic traffic to your website/landing page and sell more of your products.
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/seobyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### LunaLust
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust.webp" alt="LunaLust">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust_.webp" alt="LunaLust">
 
 #### LunaLust | AI Girlfriend | Virtual AI Girlfriend
 [Visit](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -215,36 +247,6 @@ Creating a compelling and memorable name for your podcast involves a blend of cr
 With our tool you're able to write a short description and output hundreds of combinations one at a time. Then just pick the one you like the most.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/podcast-name-generator-by-podcast-rocket?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Goatstack.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-goatstack.ai.webp" alt="Goatstack.AI">
-
-#### Get ahead with AI/ML papers: Daily, personalized insights from your AI Agent
-[Visit](https://www.thataicollection.com/redirect/goatstack.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Goatstack.ai is an autonomous AI agent that simplifies staying up-to-date with AI/ML research by summarizing the latest papers and delivering personalized insights through a daily newsletter, tailored to your specific interests in the ever-evolving fields of artificial intelligence and machine learning.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/goatstack.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Photo AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
-
-#### Create Your Own Photorealistic AI Avatars
-[Visit](https://www.thataicollection.com/redirect/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Generate photorealistic images of people with AI. Generate 120+ different styles of avatars based on the original Avatar AI™ that started the AI avatars trend. It takes just 46 seconds. See more photo packs in different poses, places and styles.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -613,21 +615,6 @@ Get hundreds of interior design ideas for your room - free with no limit.
 
 ## Art & Image Generator
 
-### LunaLust
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust.webp" alt="LunaLust">
-
-#### LunaLust | AI Girlfriend | Virtual AI Girlfriend
-[Visit](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LunaLust redefines virtual relationships. This AI girlfriend app isn't just about interaction; it's about creating a meaningful connection. Tailor your AI partner to match your personality, ensuring she's not just responsive but truly in sync with your thoughts and interests, offering a bespoke virtual girlfriend experience.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Corporate Headshots AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
 
@@ -717,6 +704,27 @@ SUPERMACHINE enables you to generate images with the latest in artificial intell
 <br />
 
 <br />
+
+
+### Pet Booth
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
+
+#### Pet Booth is a service for creating your own AI Pet Portraits, Artwork, and Photos. Simply upload 10-20 photos of your cat or dog and select from over 80+ themes to transform them into.
+[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Pet Booth is a service for creating your own amazing AI pet portraits, photos, and artwork. It's fast, easy, and fun!
+
+How does it work?
+
+Simply upload 10-20 photos of your cat or dog and select from over 80+ themes to transform them into.
+
+Receive a pack of 100 AI generated images of your pet in both photo-realistic and artistic styles.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 
 
 
@@ -1849,6 +1857,21 @@ With Outfit Anyone AI, explore a new era of fashion where trying on any outfit i
 
 ## Fun
 
+### LunaLust
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust_.webp" alt="LunaLust">
+
+#### LunaLust | AI Girlfriend | Virtual AI Girlfriend
+[Visit](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+LunaLust redefines virtual relationships. This AI girlfriend app isn't just about interaction; it's about creating a meaningful connection. Tailor your AI partner to match your personality, ensuring she's not just responsive but truly in sync with your thoughts and interests, offering a bespoke virtual girlfriend experience.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Girlfriend GPT - NSFW AI Chatbots
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
 
@@ -1939,23 +1962,6 @@ Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instan
 Welcome to AI-Girlfriend.ai,where we redefine the art of sexting through our AI-powered girlfriend experience. Dive into the world of digital intimacy with a playful, commitment-free AI sexting simulation, tailored to enhance your skills and enrich your interactive experiences.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nudify.online
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online_.webp" alt="Nudify.online">
-
-#### Undress Anybody With Our FREE Service. Deepnude AI On Nudify – Undress any Girl For Free!
-
-[Visit](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress AI photo generator for free deepnudes. Nudify deepnude AI with the highest accuracy of deepfake nude and bikini photos. Just choose age, body type, quality and get a result in a few seconds. 
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

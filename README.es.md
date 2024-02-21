@@ -138,8 +138,40 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### Larity
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-larity.webp" alt="Larity">
+
+####  Lleva la IA al mundo real en una tienda que solo esté limitada por tu imaginación
+[Visit](https://www.thataicollection.com/redirect/larity?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Larity AI Shop es una innovadora plataforma en línea que da vida a tu imaginación con lo último de la IA. En este caso, no eres solo un cliente sino un creador, y utilizas la IA para convertir tus ideas en diseños de camisetas únicos. Simplemente dale un mensaje para la camiseta de tus sueños y nuestra avanzada herramienta de inteligencia artificial creará un diseño distintivo y llamativo. 
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/larity?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### SEOByAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-seobyai_.webp" alt="SEOByAI">
+
+#### Clasifica más rápido en Google con herramientas de SEO de IA GRATUITAS
+[Visit](https://www.thataicollection.com/redirect/seobyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SEOBy.ai te ayuda a impulsar tus esfuerzos de marketing y a posicionarte más alto en los motores de búsqueda sin gastar ni un centavo. Consigue tráfico orgánico a tu sitio web o página de destino y vende más productos.
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/seobyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### LunaLust
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust.webp" alt="LunaLust">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust_.webp" alt="LunaLust">
 
 #### LunaLust | Novia de IA | Novia de IA virtual
 [Visit](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -209,36 +241,6 @@ Crear un nombre atractivo y memorable para tu podcast implica una mezcla de crea
 Con nuestra herramienta puedes escribir una descripción breve y generar cientos de combinaciones de una en una. Entonces elige el que más te guste.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/podcast-name-generator-by-podcast-rocket?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Goatstack.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-goatstack.ai.webp" alt="Goatstack.AI">
-
-#### Sigue adelante con los artículos sobre IA y aprendizaje automático: información diaria y personalizada de tu agente de IA
-[Visit](https://www.thataicollection.com/redirect/goatstack.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Goatstack.ai es un agente de IA autónomo que simplifica mantenerse al día con las investigaciones sobre la IA y el aprendizaje automático al resumir los últimos artículos y ofrecer información personalizada a través de un boletín diario, adaptado a tus intereses específicos en los campos en constante evolución de la inteligencia artificial y el aprendizaje automático.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/goatstack.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Photo AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
-
-#### Crea tus propios avatares fotorrealistas de IA
-[Visit](https://www.thataicollection.com/redirect/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Genera imágenes fotorrealistas de personas con IA. Genera más de 120 estilos diferentes de avatares basados en la IA™ original de Avatar que inició la moda de los avatares de la IA. Solo lleva 46 segundos. Ver más paquetes de fotos en diferentes poses, lugares y estilos.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -607,21 +609,6 @@ Obtenga cientos de ideas de diseño de interiores para su habitación, gratis y 
 
 ## Generador de imágenes y arte
 
-### LunaLust
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust.webp" alt="LunaLust">
-
-#### LunaLust | Novia de IA | Novia de IA virtual
-[Visit](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LunaLust redefine las relaciones virtuales. Esta aplicación de IA para novias no trata solo de interactuar, sino de crear una conexión significativa. Personaliza a tu pareja de IA para que se adapte a tu personalidad, asegurándote de que no solo responde, sino que está realmente sincronizada con tus ideas e intereses, ofreciendo una experiencia de novia virtual personalizada.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Corporate Headshots AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
 
@@ -707,6 +694,27 @@ ICONS8 PERMITE A LOS DISEÑADORES EXPRESAR SUS IDEAS Y PROPORCIONARLES LOS ELEME
 SUPERMACHINE te permite generar imágenes con lo último en tecnología de inteligencia artificial. Genera imágenes de IA impresionantes con más de 55 modelos.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Pet Booth
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
+
+#### Pet Booth es un servicio para crear tus propios retratos, ilustraciones y fotos de mascotas con IA. Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.
+[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Pet Booth es un servicio para crear tus propios increíbles retratos, fotos e ilustraciones de mascotas con IA. ¡Es rápido, fácil y divertido!
+
+¿Cómo funciona?
+
+Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.
+
+Recibe un paquete de 100 imágenes generadas por la IA de tu mascota en estilos fotorrealista y artístico.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1843,6 +1851,21 @@ Con la IA Outfit Anyone, explora una nueva era de la moda en la que probarte cua
 
 ## Divertido
 
+### LunaLust
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust_.webp" alt="LunaLust">
+
+#### LunaLust | Novia de IA | Novia de IA virtual
+[Visit](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+LunaLust redefine las relaciones virtuales. Esta aplicación de IA para novias no trata solo de interactuar, sino de crear una conexión significativa. Personaliza a tu pareja de IA para que se adapte a tu personalidad, asegurándote de que no solo responde, sino que está realmente sincronizada con tus ideas e intereses, ofreciendo una experiencia de novia virtual personalizada.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Girlfriend GPT - NSFW AI Chatbots
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
 
@@ -1933,23 +1956,6 @@ Ya sea sobrevivir en una isla desierta, navegar por el espacio en una nave espac
 Bienvenido a AI-Girlfriend.ai, donde redefinimos el arte del sexting a través de nuestra experiencia de novia basada en la IA. Sumérgete en el mundo de la intimidad digital con una simulación de sexting con IA divertida y sin compromisos, diseñada para mejorar tus habilidades y enriquecer tus experiencias interactivas.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nudify.online
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online_.webp" alt="Nudify.online">
-
-#### Desviste a cualquiera con nuestro servicio GRATUITO. Deepnude AI en Nudify: ¡desnuda a cualquier chica gratis!
-
-[Visit](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Generador de fotos Undress AI para desnudos profundos gratis. Desnuda la IA de Deepnude con la más alta precisión de las fotos de desnudos y bikinis de deepfake. Solo tienes que elegir la edad, el tipo de cuerpo y la calidad y obtendrás el resultado en unos segundos. 
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

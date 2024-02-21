@@ -138,8 +138,40 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### Larity
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-larity.webp" alt="Larity">
+
+####  Внесите искусственный интеллект в реальный мир в магазине, который ограничивается только вашим воображением
+[Visit](https://www.thataicollection.com/redirect/larity?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Larity AI Shop — это инновационная онлайн-платформа, которая воплощает ваше воображение в жизнь с помощью новейших технологий искусственного интеллекта. Здесь вы не просто покупатель, а создатель, использующий искусственный интеллект для воплощения своих идей в уникальные дизайны футболок. Просто подскажите футболку своей мечты, и наш передовой инструмент искусственного интеллекта создаст неповторимый и привлекательный дизайн. 
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/larity?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### SEOByAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-seobyai_.webp" alt="SEOByAI">
+
+#### Повысьте рейтинг в Google с помощью БЕСПЛАТНЫХ инструментов AI SEO
+[Visit](https://www.thataicollection.com/redirect/seobyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SEOBy.ai поможет вам начать маркетинговые усилия и повысить рейтинг в поисковых системах, не тратя ни копейки. Привлекайте органический трафик на свой сайт/целевую страницу и продавайте больше своих продуктов.
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/seobyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### LunaLust
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust.webp" alt="LunaLust">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust_.webp" alt="LunaLust">
 
 #### LunaLust | Подруга с искусственным интеллектом | Виртуальная подруга с искусственным
 [Visit](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -209,36 +241,6 @@ Tunip — это стартап в сфере технологий искусс�
 С помощью нашего инструмента вы можете написать краткое описание и вывести сотни комбинаций по одной. Затем просто выберите ту, которая вам больше всего нравится.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/podcast-name-generator-by-podcast-rocket?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Goatstack.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-goatstack.ai.webp" alt="Goatstack.AI">
-
-#### Ознакомьтесь с документами об искусственном интеллекте и машинном обучении: ежедневная персонализированная аналитика от вашего агента по искусственному интеллекту
-[Visit](https://www.thataicollection.com/redirect/goatstack.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Goatstack.ai — это автономный агент искусственного интеллекта, который упрощает отслеживание результатов исследований в области искусственного интеллекта и машинного обучения, сводя последние статьи и публикуя персонализированную информацию в ежедневном информационном бюллетене, адаптированном к вашим конкретным интересам в постоянно развивающихся областях искусственного интеллекта и машинного обучения.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/goatstack.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Photo AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
-
-#### Создайте свои собственные фотореалистичные аватары с искусственным интеллектом
-[Visit](https://www.thataicollection.com/redirect/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Создавайте фотореалистичные изображения людей с помощью искусственного интеллекта. Создавайте более 120 различных стилей аватаров на основе оригинального Avatar AI™, положившего начало тенденции к созданию аватаров с искусственным интеллектом. Это займет всего 46 секунд. Посмотрите больше пакетов фотографий в разных позах, местах и стилях.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -607,21 +609,6 @@ Plask предлагает искусственный захват движен�
 
 ## Генератор изображений и изображений
 
-### LunaLust
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust.webp" alt="LunaLust">
-
-#### LunaLust | Подруга с искусственным интеллектом | Виртуальная подруга с искусственным
-[Visit](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LunaLust переопределяет виртуальные отношения. Это приложение для подруг с искусственным интеллектом предназначено не только для общения, но и для создания полноценной связи. Подберите своего партнера по искусственному интеллекту в соответствии с вашими индивидуальными особенностями, чтобы он не просто реагировал на ваши мысли и интересы, а также предлагал уникальную виртуальную подругу.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Corporate Headshots AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
 
@@ -707,6 +694,27 @@ ICONS8 ПОЗВОЛЯЕТ ДИЗАЙНЕРАМ ВЫРАЖАТЬ СВОИ ИДЕ�
 SUPERMACHINE позволяет создавать изображения с помощью новейших технологий искусственного интеллекта. Создавайте потрясающие изображения с искусственным интеллектом, используя более 55 моделей.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Pet Booth
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
+
+#### Pet Booth — это сервис для создания собственных портретов, иллюстраций и фотографий домашних животных с искусственным интеллектом. Просто загрузите 10-20 фотографий своей кошки или собаки и выберите из более чем 80 тем, в которые можно превратить их.
+[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Pet Booth — это сервис для создания собственных удивительных портретов, фотографий и произведений искусства с искусственным интеллектом. Это быстро, просто и увлекательно!
+
+Как это работает?
+
+Просто загрузите 10-20 фотографий вашей кошки или собаки и выберите из более чем 80 тем, в которые можно превратить их.
+
+Получите набор из 100 изображений вашего питомца, созданных искусственным интеллектом, как в фотореалистичном, так и в художественном стиле.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1841,6 +1849,21 @@ SwagAI — изображения, созданные искусственным
 
 ## Веселье
 
+### LunaLust
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust_.webp" alt="LunaLust">
+
+#### LunaLust | Подруга с искусственным интеллектом | Виртуальная подруга с искусственным
+[Visit](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+LunaLust переопределяет виртуальные отношения. Это приложение для подруг с искусственным интеллектом предназначено не только для общения, но и для создания полноценной связи. Подберите своего партнера по искусственному интеллекту в соответствии с вашими индивидуальными особенностями, чтобы он не просто реагировал на ваши мысли и интересы, а также предлагал уникальную виртуальную подругу.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Girlfriend GPT - NSFW AI Chatbots
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
 
@@ -1931,23 +1954,6 @@ Undress.vip, новаторский инструмент для искусств
 Добро пожаловать в AI-Girlfriend.ai, где мы переосмысливаем искусство секстинга с помощью нашего опыта работы с девушками с искусственным интеллектом. Погрузитесь в мир цифровой интимной близости с помощью игривого симулятора секстинга с искусственным интеллектом, который поможет вам улучшить ваши навыки и обогатить интерактивный опыт.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nudify.online
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online_.webp" alt="Nudify.online">
-
-#### Разденьте кого угодно с помощью нашего БЕСПЛАТНОГО сервиса. Deepnude AI на Nudify — разденьте любую девушку бесплатно!
-
-[Visit](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Генератор фотографий Undress AI для бесплатных deepnudes. Искусственный интеллект Nudify Deepnude с помощью высочайшей точности фотографий обнаженной натуры и бикини в стиле дипфейк. Просто выберите возраст, тип фигуры, качество и получите результат уже через несколько секунд. 
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
