@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1102" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1112" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=42" />
@@ -53,32 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI" border="0"/>
-    </a>
-    <h4>Interior Ai：室内设计创意、灵感和使用人工智能的虚拟舞台应用程序</h4>
-    <p>使用人工智能获取室内设计创意，为具有不同室内风格的房地产清单进行虚拟室内设计。</p>
-    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Interior AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
-    </a>
-    <h4>Cliptics，免费文字转语音！你的话，我们的声音。</h4>
-    <p>介绍Cliptics，它是您轻松将文本转换为自然语音的终极伴侣。无论你是想要增强学习材料的学生，还是寻求创新方式吸引受众的内容创作者，还是仅仅是喜欢听而不是阅读的人，Cliptics都能提供无缝的解决方案。Cliptics — 在你的指挥下，文字变为现实，免费</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Cliptics</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -94,12 +68,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>创建你自己的逼真的 AI 头像</h4>
-    <p>使用 AI 生成逼真的人物图像。基于开启 AI 头像潮流的原始 Avatar AI™ 生成 120 多种不同风格的头像。只需 46 秒。查看更多不同姿势、地点和风格的照片包。</p>
-    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Photo AI</b></a>
+    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
+    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -242,6 +216,7 @@
 | [Codeium](https://www.thataicollection.com/redirect/codeium?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Codeium - 现代编码超级大国. | 基于 AI 的快速代码加速和 GitHub Copilot 的免费替代品. | :white_check_mark: |
 | [CodeWP](https://www.thataicollection.com/redirect/codewp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | CodeWP - 人工智能 WordPress 代码生成器和助手. | CodeWP 是一个 WordPress 代码生成器，它使用 AI 和适用于 WordPress、Woo 等的专用模型来帮助您更好更快地构建代码。. | :white_check_mark: |
 | [CodiumAI](https://www.thataicollection.com/redirect/codiumai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 对忙碌的开发者有意义的测试. | CodiumAI 分析您的代码并生成有意义的测试以在您发布之前发现错误. | :white_check_mark: |
+| [DataLang](https://www.thataicollection.com/redirect/datalang?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用数据库和 SQL 创建自定义 ChatGPT. | 连接您的数据源，设置一些数据视图（例如 SQL 脚本），配置 GPT 助手，创建自定义 ChatGPT，并与您的用户、员工或客户共享！. | :grey_question: |
 | [Datamaker](https://www.thataicollection.com/redirect/datamaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 面向设计师的 AI 支持的 Webflow 代码和复制工具。. | 如果您是 Webflow Designer 或 Webflow Developer，那么您需要查看这些工具。使用 AI 创建代码和复制来解决您的 Webflow 问题。. | :grey_question: |
 | [Decile](https://www.thataicollection.com/redirect/decile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过询问获取您需要的数据。. | 借助 AI 的力量建立一个数据主导的组织。. | :x: |
 | [DocuWriter.ai](https://www.thataicollection.com/redirect/docuwriter.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ✨ 代码文档的终极人工智能. | 一个强大的工具，可以从源代码文件自动生成全面准确的文档. | :white_check_mark: |
@@ -1286,6 +1261,7 @@
 | [Kiri.art](https://www.thataicollection.com/redirect/kiri.art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Kiri.艺术. | 扩散图像生成. | :grey_question: |
 | [Krea](https://www.thataicollection.com/redirect/krea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能画布. | 介绍 AI Canvas，作者：Krea. | :grey_question: |
 | [Leonardo](https://www.thataicollection.com/redirect/leonardo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Leonardo.Ai - 使用 AI 创建令人惊叹的视觉资产。. | 以 AI 驱动的速度和风格一致性为您的创意项目生成生产质量资产。. | :grey_question: |
+| [LunaLust](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | LunaLust - 人工智能女友 - 虚拟 AI 女友. | LunaLust 重新定义了虚拟关系。这款人工智能女友应用程序不仅仅是关于互动；它还涉及建立有意义的联系。根据你的个性量身定制 AI 伙伴，确保她不仅反应灵敏，而且真正与你的想法和兴趣保持同步，提供定制的虚拟女友体验。. | :white_check_mark: |
 | [Mage Space](https://www.thataicollection.com/redirect/mage-space?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | mage.space - 创造任何东西 - 探索任何东西. | 探索来自不同创作者和类别的图像，例如幻想艺术、动漫、人物、风景、赛博朋克、空间、绘画、波普艺术、立体主义、建筑、室内设计. | :white_check_mark: |
 | [MagiMaker](https://www.thataicollection.com/redirect/magimaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为独立创意人士提供简单、快速且经济实惠的人工智能设计解决方案，包括书籍封面、播客封面、徽标等。. | MagiMaker 为书籍/播客封面、徽标等提供定制设计解决方案。  我们的用户友好平台通过简单的问答流程创建高质量的结果 - 无需学习曲线！  我们力求快捷，在 24 小时内提供您的创意概念、中途提示和精选的最佳图像，以及任何必要的调整，例如文本或元素删除。. | :white_check_mark: |
 | [Midjourney](https://www.thataicollection.com/redirect/midjourney?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 中途. | 一个独立的研究实验室，探索新的思想媒介并扩展人类的想象力。. | :grey_question: |

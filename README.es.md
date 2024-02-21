@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1102" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1112" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=42" />
@@ -68,38 +68,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>Cliptics, ¡conversión de texto a voz gratis! Tus palabras, nuestras voces.</h4>
-    <p>Presentamos Cliptics, tu mejor compañera para convertir texto en voz con un sonido natural sin esfuerzo. Tanto si eres un estudiante que busca mejorar sus materiales de estudio, un creador de contenido que busca formas innovadoras de atraer a tu público o simplemente alguien que prefiere escuchar antes que leer, Cliptics ofrece una solución perfecta. Cliptics: donde las palabras cobran vida a tus órdenes, de forma gratuita</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Cliptics</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI" border="0"/>
-    </a>
-    <h4>Crea tus propios avatares fotorrealistas de IA</h4>
-    <p>Genera imágenes fotorrealistas de personas con IA. Genera más de 120 estilos diferentes de avatares basados en la IA™ original de Avatar que inició la moda de los avatares de la IA. Solo lleva 46 segundos. Ver más paquetes de fotos en diferentes poses, lugares y estilos.</p>
-    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Photo AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI" border="0"/>
-    </a>
-    <h4>Inteligencia artificial: ideas de diseño de interiores, inspiración y aplicación de puesta en escena virtual que utiliza inteligencia artificial</h4>
-    <p>Consigue ideas de diseño de interiores con inteligencia artificial y prácticamente esceniza interiores para anuncios de inmuebles con diferentes estilos de interiores.</p>
-    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Interior AI</b></a>
+    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
+    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -163,6 +137,36 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 💰 [Ventas Y Marketing](#ventas-y-marketing)
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
+
+### LunaLust
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust.webp" alt="LunaLust">
+
+#### LunaLust | Novia de IA | Novia de IA virtual
+[Visit](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+LunaLust redefine las relaciones virtuales. Esta aplicación de IA para novias no trata solo de interactuar, sino de crear una conexión significativa. Personaliza a tu pareja de IA para que se adapte a tu personalidad, asegurándote de que no solo responde, sino que está realmente sincronizada con tus ideas e intereses, ofreciendo una experiencia de novia virtual personalizada.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### DataLang
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-datalang.webp" alt="DataLang">
+
+#### Crea un ChatGPT personalizado con bases de datos y SQL
+[Visit](https://www.thataicollection.com/redirect/datalang?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Conecta tus fuentes de datos, configura algunas vistas de datos (es decir, scripts SQL), configura un asistente GPT, crea un ChatGPT personalizado y compártelo con tus usuarios, empleados o clientes.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/datalang?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Augie Storyteller
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-augie-storyteller.webp" alt="Augie Storyteller">
@@ -235,40 +239,6 @@ Goatstack.ai es un agente de IA autónomo que simplifica mantenerse al día con 
 Genera imágenes fotorrealistas de personas con IA. Genera más de 120 estilos diferentes de avatares basados en la IA™ original de Avatar que inició la moda de los avatares de la IA. Solo lleva 46 segundos. Ver más paquetes de fotos en diferentes poses, lugares y estilos.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Interior AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
-
-#### Inteligencia artificial: ideas de diseño de interiores, inspiración y aplicación de puesta en escena virtual que utiliza inteligencia artificial
-[Visit](https://www.thataicollection.com/redirect/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Consigue ideas de diseño de interiores con inteligencia artificial y prácticamente esceniza interiores para anuncios de inmuebles con diferentes estilos de interiores.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Undetectable AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-support-team.webp" alt="Undetectable AI">
-
-#### Contenido de IA indetectable: crea contenido que sea indetectable por todos los detectores
-[Visit](https://www.thataicollection.com/redirect/undetectable-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Usa nuestro escritor de contenido de IA indetectable para eludir los detectores de IA y humanizar tu texto.
-
-Crea contenido de calidad humana, gramaticalmente correcto, libre de plagio e indetectable.
-
-100% gratis y sin necesidad de tarjeta de crédito.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/undetectable-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -637,6 +607,21 @@ Obtenga cientos de ideas de diseño de interiores para su habitación, gratis y 
 
 ## Generador de imágenes y arte
 
+### LunaLust
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust.webp" alt="LunaLust">
+
+#### LunaLust | Novia de IA | Novia de IA virtual
+[Visit](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+LunaLust redefine las relaciones virtuales. Esta aplicación de IA para novias no trata solo de interactuar, sino de crear una conexión significativa. Personaliza a tu pareja de IA para que se adapte a tu personalidad, asegurándote de que no solo responde, sino que está realmente sincronizada con tus ideas e intereses, ofreciendo una experiencia de novia virtual personalizada.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Corporate Headshots AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI">
 
@@ -722,27 +707,6 @@ ICONS8 PERMITE A LOS DISEÑADORES EXPRESAR SUS IDEAS Y PROPORCIONARLES LOS ELEME
 SUPERMACHINE te permite generar imágenes con lo último en tecnología de inteligencia artificial. Genera imágenes de IA impresionantes con más de 55 modelos.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Pet Booth
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
-
-#### Pet Booth es un servicio para crear tus propios retratos, ilustraciones y fotos de mascotas con IA. Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.
-[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pet Booth es un servicio para crear tus propios increíbles retratos, fotos e ilustraciones de mascotas con IA. ¡Es rápido, fácil y divertido!
-
-¿Cómo funciona?
-
-Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.
-
-Recibe un paquete de 100 imágenes generadas por la IA de tu mascota en estilos fotorrealista y artístico.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1023,6 +987,21 @@ Cree estructuras de documentación, genere explicaciones de código y mejore la 
 <br />
 
 
+### DataLang
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-datalang.webp" alt="DataLang">
+
+#### Crea un ChatGPT personalizado con bases de datos y SQL
+[Visit](https://www.thataicollection.com/redirect/datalang?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Conecta tus fuentes de datos, configura algunas vistas de datos (es decir, scripts SQL), configura un asistente GPT, crea un ChatGPT personalizado y compártelo con tus usuarios, empleados o clientes.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/datalang?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### CodiumAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-codiumai.webp" alt="CodiumAI">
 
@@ -1078,21 +1057,6 @@ CodeWP es un generador de código de WordPress que utiliza IA y modelos especial
 TLDR es un complemento IDE que aprovecha la IA para explicar el código en un lenguaje sencillo.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/tldr---jetbrains-ide-plugin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Whatthediff
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-whatthediff.webp" alt="Whatthediff">
-
-#### What-the-Diff: asistente de revisión de código impulsado por IA
-[Visit](https://www.thataicollection.com/redirect/whatthediff?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-La aplicación GitHub impulsada por IA que explica los cambios dentro de sus solicitudes de extracción en un lenguaje sencillo
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/whatthediff?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

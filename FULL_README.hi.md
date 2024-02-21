@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1102" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1112" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=42" />
@@ -68,38 +68,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>इंटीरियर एआई: आर्टिफ़िकल इंटेलीजेंस का इस्तेमाल करने वाला इंटीरियर डिज़ाइन आइडिया, प्रेरणा और वर्चुअल स्टेजिंग ऐप</h4>
-    <p>अलग-अलग इंटीरियर स्टाइल के साथ रियल एस्टेट लिस्टिंग के लिए आर्टिफिशियल इंटेलिजेंस और वर्चुअली स्टेज इंटीरियर्स का उपयोग करके इंटीरियर डिज़ाइन के आइडिया प्राप्त करें।</p>
-    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Interior AI के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI" border="0"/>
-    </a>
-    <h4>अपना खुद का फ़ोटोरियलिस्टिक AI अवतार बनाएं</h4>
-    <p>AI की मदद से लोगों की फ़ोटोरियलिस्टिक इमेज जेनरेट करें। मूल अवतार AI™ के आधार पर अवतार की 120+ विभिन्न शैलियों को जेनरेट करें, जिसने AI अवतार ट्रेंड शुरू किया। इसमें सिर्फ़ 46 सेकंड का समय लगता है। अलग-अलग पोज़, जगहों और स्टाइल में ज़्यादा फ़ोटो पैक देखें।</p>
-    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Photo AI के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
-    </a>
-    <h4>क्लिपटिक्स, बोलने के लिए मुफ़्त टेक्स्ट! तुम्हारे शब्द, हमारी आवाज़ें।</h4>
-    <p>पेश है क्लिपटिक्स, टेक्स्ट को आसानी से स्वाभाविक लगने वाली भाषा में बदलने के लिए तुम्हारा सबसे अच्छा साथी। चाहे तुम एक छात्र हो जो अपनी अध्ययन सामग्री को बेहतर बनाना चाहता हो, एक कंटेंट निर्माता हो जो अपने दर्शकों को आकर्षित करने के लिए नवोन्मेषी तरीके खोज रहा हो, या बस कोई ऐसा व्यक्ति जो सुनने से ज्यादा पढ़ना पसंद करता हो, क्लिपटिक्स एक आसान समाधान प्रदान करता है। क्लिपटिक्स —जहाँ तुम्हारे आदेश पर शब्द जीवंत हो जाते हैं, नि:शुल्क</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Cliptics के साथ आरंभ करें</b></a>
+    <h4>पैराफ़्रेसिंग टूल - सर्वश्रेष्ठ मुफ़्त ऑनलाइन पैराफ़्रेज़र - Wordfixerbot</h4>
+    <p>WordFixerBot का पैराफ़्रेसिंग टूल किसी भी टेक्स्ट, वाक्य, लेख, पैराग्राफ, पेपर या दस्तावेज़ों को तुरंत और सटीक तरीके से फिर से लिखने में तुम्हारी मदद करने के लिए एकदम सही टूल है। अभी शुरू करो और अपने लेखन को सबसे अलग बनाओ!</p>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Wordfixerbot के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -511,6 +485,7 @@
 | [Kiri.art](https://www.thataicollection.com/redirect/kiri.art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | किरी। कला. | डिफ्यूजन इमेज जेनरेशन. | :grey_question: |
 | [Krea](https://www.thataicollection.com/redirect/krea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई कैनवस. | क्रिया द्वारा एआई कैनवस का परिचय. | :grey_question: |
 | [Leonardo](https://www.thataicollection.com/redirect/leonardo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लियोनार्डो.एआई - एआई के साथ आश्चर्यजनक दृश्य संपत्ति बनाएं।. | एआई-संचालित गति और शैली-संगति के साथ अपनी रचनात्मक परियोजनाओं के लिए उत्पादन गुणवत्ता संपत्तियां उत्पन्न करें।. | :grey_question: |
+| [LunaLust](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लूनालस्ट - एआई गर्लफ्रेंड - वर्चुअल एआई गर्लफ्रेंड. | LunaLust वर्चुअल रिलेशनशिप को फिर से परिभाषित करता है। यह AI गर्लफ्रेंड ऐप सिर्फ़ बातचीत के बारे में नहीं है; यह एक सार्थक कनेक्शन बनाने के बारे में है। अपने AI पार्टनर को अपने व्यक्तित्व से मेल खाने के लिए तैयार करें, यह सुनिश्चित करें कि वह न सिर्फ़ उत्तरदायी हो, बल्कि तुम्हारे विचारों और रुचियों के अनुरूप हो, और उसे पहले से तैयार वर्चुअल गर्लफ्रेंड का अनुभव मिले।. | :white_check_mark: |
 | [Mage Space](https://www.thataicollection.com/redirect/mage-space?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | mage.space - कुछ भी बनाएं - कुछ भी एक्सप्लोर करें. | फ़ैंटेसी आर्ट, एनीमे, कैरेक्टर, लैंडस्केप, साइबरपंक, स्पेस, पेंटिंग, पॉप आर्ट, क्यूबिज़्म, आर्किटेक्चर, इंटीरियर डिज़ाइन जैसे विभिन्न रचनाकारों और श्रेणियों की छवियों का अन्वेषण करें।. | :white_check_mark: |
 | [MagiMaker](https://www.thataicollection.com/redirect/magimaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इंडी क्रिएटिव के लिए आसान, तेज़ और किफायती एआई डिज़ाइन समाधान, जिसमें पुस्तक कवर, पॉडकास्ट कवर, लोगो और बहुत कुछ शामिल है।. | मैगीमेकर पुस्तक/पॉडकास्ट कवर, लोगो और बहुत कुछ के लिए अनुकूलित डिज़ाइन समाधान प्रदान करता है।  हमारा उपयोगकर्ता-अनुकूल प्लेटफ़ॉर्म एक सरल प्रश्नोत्तर प्रक्रिया के माध्यम से उच्च गुणवत्ता वाले परिणाम बनाता है - किसी सीखने की आवश्यकता नहीं है!  हम आपकी रचनात्मक अवधारणाओं, मिडजॉर्नी प्रॉम्प्ट्स और पाठ या तत्व हटाने जैसे किसी भी आवश्यक समायोजन के साथ 24 घंटों के भीतर चयनित सर्वोत्तम छवियों को प्रदान करके शीघ्रता के लिए प्रयास करते हैं।. | :white_check_mark: |
 | [Midjourney](https://www.thataicollection.com/redirect/midjourney?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मध्य यात्रा. | विचार के नए माध्यमों की खोज और मानव प्रजाति की कल्पनाशील शक्तियों का विस्तार करने वाली एक स्वतंत्र अनुसंधान प्रयोगशाला।. | :grey_question: |
@@ -624,6 +599,7 @@
 | [Codeium](https://www.thataicollection.com/redirect/codeium?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कोडियम - द मॉडर्न कोडिंग सुपरपावर. | फास्ट एआई-आधारित कोड त्वरण और गिटहब कोपिलॉट के लिए मुफ्त विकल्प. | :white_check_mark: |
 | [CodeWP](https://www.thataicollection.com/redirect/codewp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Codewp - AI Wordpress कोड जेनरेटर और सहायक. | CodeWP एक वर्डप्रेस कोड जनरेटर है जो आपको बेहतर और तेज बनाने में मदद करने के लिए वर्डप्रेस, वू और अन्य के लिए एआई और विशेष मॉडल का उपयोग करता है।. | :white_check_mark: |
 | [CodiumAI](https://www.thataicollection.com/redirect/codiumai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | व्यस्त देवों के लिए सार्थक परीक्षण. | CodiumAI आपके कोड का विश्लेषण करता है और आपके भेजने से पहले बग को पकड़ने के लिए सार्थक परीक्षण उत्पन्न करता है. | :white_check_mark: |
+| [DataLang](https://www.thataicollection.com/redirect/datalang?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | डेटाबेस और एसक्यूएल का इस्तेमाल करके कस्टम ChatGPT बनाएं. | अपने डेटा स्रोतों को कनेक्ट करें, कुछ डेटा व्यू (यानी SQL स्क्रिप्ट) सेट करें, GPT असिस्टेंट को कॉन्फ़िगर करें, कस्टम ChatGPT बनाएं और इसे अपने यूज़र, कर्मचारियों या ग्राहकों के साथ शेयर करें!. | :grey_question: |
 | [Datamaker](https://www.thataicollection.com/redirect/datamaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई संचालित वेबफ्लो कोड और डिजाइनरों के लिए कॉपी टूल्स।. | यदि आप एक वेबफ्लो डिज़ाइनर या वेबफ्लो डेवलपर हैं तो आपको इन उपकरणों को देखने की आवश्यकता है। अपनी वेबफ्लो समस्याओं को हल करने के लिए कोड बनाने और कॉपी करने के लिए AI का उपयोग करें।. | :grey_question: |
 | [Decile](https://www.thataicollection.com/redirect/decile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पूछकर अपनी जरूरत का डेटा प्राप्त करें।. | एआई की शक्ति के साथ डेटा-आधारित संगठन बनाएं।. | :x: |
 | [DocuWriter.ai](https://www.thataicollection.com/redirect/docuwriter.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ✨ कोड प्रलेखन के लिए अंतिम एआई. | एक शक्तिशाली उपकरण जो स्वचालित रूप से स्रोत कोड फ़ाइलों से व्यापक और सटीक दस्तावेज़ तैयार करता है. | :white_check_mark: |

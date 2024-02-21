@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1102" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1112" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=42" />
@@ -53,38 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>Crée tes propres avatars photoréalistes basés sur l'IA</h4>
-    <p>Génère des images photoréalistes de personnes grâce à l'IA. Génère plus de 120 styles d'avatars différents sur la base de l'Avatar AI™ original qui a lancé la tendance des avatars IA. Cela ne prend que 46 secondes. Découvrez d'autres packs de photos dans des poses, des lieux et des styles différents.</p>
-    <a href="https://www.thataicollection.com/redirect/photo-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Photo AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
-    </a>
-    <h4>Cliptics, synthèse vocale gratuite ! Tes paroles, nos voix.</h4>
-    <p>Voici Cliptics, ton compagnon idéal pour convertir facilement du texte en discours naturel. Que tu sois une étudiante qui souhaite améliorer ton matériel pédagogique, une créatrice de contenu qui cherche des moyens innovants d'impliquer ton public, ou simplement quelqu'un qui préfère écouter plutôt que lire, Cliptics propose une solution fluide. Cliptics, où les mots prennent vie à ta guise, gratuitement</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Cliptics</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI" border="0"/>
-    </a>
-    <h4>Interior Aid : idées de décoration d'intérieur, inspiration et application de mise en scène virtuelle utilisant l'intelligence artificielle</h4>
-    <p>Trouve des idées de décoration d'intérieur grâce à l'intelligence artificielle et met en scène des intérieurs virtuels pour des annonces immobilières aux styles d'intérieur différents.</p>
-    <a href="https://www.thataicollection.com/redirect/interior-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Interior AI</b></a>
+    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
+    <p>L'outil de paraphrase de WordFixerBot est l'outil idéal pour t'aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -250,6 +224,7 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 | [Codeium](https://www.thataicollection.com/redirect/codeium?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Codeium - La superpuissance de codage moderne. | Accélération rapide du code basée sur l'IA et alternative gratuite à GitHub Copilot. | :white_check_mark: |
 | [CodeWP](https://www.thataicollection.com/redirect/codewp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | CodeWP - Générateur et assistant de code WordPress IA. | CodeWP est un générateur de code WordPress qui utilise l'IA et des modèles spécialisés pour WordPress, Woo et autres pour vous aider à construire mieux et plus rapidement. | :white_check_mark: |
 | [CodiumAI](https://www.thataicollection.com/redirect/codiumai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tests significatifs pour les développeurs occupés. | CodiumAI analyse votre code et génère des tests significatifs pour détecter les bogues avant l'expédition. | :white_check_mark: |
+| [DataLang](https://www.thataicollection.com/redirect/datalang?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Créer un ChatGPT personnalisé à l'aide de bases de données et de SQL. | Connecte tes sources de données, configure certaines vues de données (c'est-à-dire des scripts SQL), configure un assistant GPT, crée un ChatGPT personnalisé et partage-le avec tes utilisateurs, tes employés ou tes clients !. | :grey_question: |
 | [Datamaker](https://www.thataicollection.com/redirect/datamaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Outils de code et de copie Webflow alimentés par l'IA pour les concepteurs. | Si vous êtes un concepteur de flux Web ou un développeur de flux Web, vous devez voir ces outils. Utilisez l'IA pour créer du code et le copier afin de résoudre vos problèmes de flux Web. | :grey_question: |
 | [Decile](https://www.thataicollection.com/redirect/decile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Obtenez les données dont vous avez besoin en demandant. | Construisez une organisation basée sur les données avec la puissance de l'IA. | :x: |
 | [DocuWriter.ai](https://www.thataicollection.com/redirect/docuwriter.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ✨ l'IA ultime pour la documentation de code. | Un outil puissant qui génère automatiquement une documentation complète et précise à partir des fichiers de code source. | :white_check_mark: |
@@ -741,6 +716,7 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 | [Kiri.art](https://www.thataicollection.com/redirect/kiri.art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Kiri.Art. | Génération d'images de diffusion. | :grey_question: |
 | [Krea](https://www.thataicollection.com/redirect/krea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Canevas IA. | Présentation de l'AI Canvas, par Krea. | :grey_question: |
 | [Leonardo](https://www.thataicollection.com/redirect/leonardo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Leonardo.Ai - Créez de superbes ressources visuelles avec l'IA. | Générez des ressources de qualité de production pour vos projets créatifs avec une vitesse et une cohérence de style pilotées par l'IA. | :grey_question: |
+| [LunaLust](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | LunaLust - Petite amie IA - Petite amie virtuelle. | LunaLust redéfinit les relations virtuelles. Cette application IA pour copines ne se limite pas à l'interaction ; elle vise à créer un lien significatif. Adapte ton partenaire IA à ta personnalité, en veillant à ce qu'elle soit non seulement réactive, mais aussi qu'elle soit réellement en phase avec tes pensées et tes intérêts, en proposant une expérience de petite amie virtuelle sur mesure. | :white_check_mark: |
 | [Mage Space](https://www.thataicollection.com/redirect/mage-space?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | mage.space - Créez n'importe quoi - Explorez n'importe quoi. | Explorez des images de différents créateurs et catégories telles que l'art fantastique, l'anime, les personnages, le paysage, le cyberpunk, l'espace, les peintures, le pop art, le cubisme, l'architecture, le design d'intérieur. | :white_check_mark: |
 | [MagiMaker](https://www.thataicollection.com/redirect/magimaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Solutions de conception d'IA simples, rapides et abordables pour les créatifs indépendants, notamment couverture de livre, couverture de podcast, logo et bien plus encore. | MagiMaker propose des solutions de conception sur mesure pour les couvertures de livres/podcasts, les logos et bien plus encore.  Notre plateforme conviviale crée des résultats de haute qualité via un simple processus de questions-réponses – aucune courbe d’apprentissage n’est requise !  Nous nous efforçons d'être rapides, en fournissant vos concepts créatifs, les invites de mi-parcours et les meilleures images sélectionnées dans les 24 heures, ainsi que tous les ajustements nécessaires tels que la suppres. | :white_check_mark: |
 | [Midjourney](https://www.thataicollection.com/redirect/midjourney?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | À mi-parcours. | Un laboratoire de recherche indépendant explorant de nouveaux médiums de pensée et développant les pouvoirs imaginatifs de l'espèce humaine. | :grey_question: |
