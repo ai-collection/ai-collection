@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1122" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1123" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
-    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Wordfixerbot</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -81,15 +68,29 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
     </a>
-    <h4>Fotor: editor de fotos en línea para todos. Edita fotos de forma más rápida y sencilla con la IA.</h4>
-    <p>El editor de fotos online ofrece todo lo que necesitas para mejorar y editar fotos sin esfuerzo. ¡Disfruta de la edición sencilla de fotos en línea de forma gratuita! . Edición de fotos compleja simplificada con el editor de fotos Fotor AI. Mejorador de fotos con IA, eliminador de fondos con IA, eliminador de objetos con IA y más.
+    <h4>Cartas de presentación personalizadas para cada oferta de trabajo en cuestión de segundos</h4>
+    <p>10 veces más resultados con el modo Power
+
+Una solución tradicional, como un chatbot, genera con cierto grado de aleatoriedad una única salida para una consulta compleja.
+
+En su lugar, haz que la IA explore hasta 10 salidas simultáneamente y seleccione la mejor según el criterio que hayas elegido. No se trata solo de la cantidad: se trata de conseguir el mejor resultado posible.</p>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con PowerDreamer AI Cover Letter Generator</b></a>
+    <br />
+</div>
+
+<br>
 
 
-</p>
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Fotor</b></a>
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    </a>
+    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
+    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -1214,6 +1215,7 @@
 | [JobBuddy](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | JobBuddy: genera cartas de presentación, optimiza los currículums y consigue material de preparación para las entrevistas en segundos con tu propio entrenador profesional personal basado en la IA. | JobBuddy proporciona a los solicitantes de empleo herramientas de IA avanzadas para generar cartas de presentación, currículums y preparación para entrevistas personalizados. Basado en miles de ejemplos exitosos y con tecnología multimodelo, JobBuddy es muy eficaz a la hora de producir materiales de aplicación profesionales totalmente optimizados para el ATS y con sonido humano. Pruébalo para obtener un enfoque simplificado y altamente personalizado para tu búsqueda de trabajo. | :white_check_mark: |
 | [JobSearch.Coach](https://www.thataicollection.com/redirect/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Herramientas de IA gratuitas y vanguardistas que ayudan a los solicitantes de empleo a conseguir el trabajo de sus sueños más rápido. | Adapta tu currículum para que se adapte a los requisitos laborales específicos y a la cultura empresarial. Genera automáticamente una carta de presentación personalizada basada en los puntos más fuertes de tu currículum y alineada con el puesto que estás solicitando. Prepárate para las entrevistas de trabajo con preguntas específicas sobre el puesto que deseas. Practica tus respuestas en voz alta y recibe comentarios en tiempo real durante las sesiones simuladas de entrevistas. | :white_check_mark: |
 | [LazyApply](https://www.thataicollection.com/redirect/lazyapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Automatice su proceso de solicitud de empleo. | Aplicamos automáticamente a todos los trabajos en plataformas como Linkedin, Indeed y Ziprecruiter. | :x: |
+| [PowerDreamer AI Cover Letter Generator](https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cartas de presentación personalizadas para cada oferta de trabajo en cuestión de segundos. | 10 veces más resultados con el modo Power  Una solución tradicional, como un chatbot, genera con cierto grado de aleatoriedad una única salida para una consulta compleja.  En su lugar, haz que la IA explore hasta 10 salidas simultáneamente y seleccione la mejor según el criterio que hayas elegido. No se trata solo de la cantidad: se trata de conseguir el mejor resultado posible. | :white_check_mark: |
 | [Prodigy AI](https://www.thataicollection.com/redirect/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Uso de IA para mejorar las carreras de los ingenieros de software. | Tenemos la misión de utilizar la IA más reciente para crear herramientas que ayuden a los ingenieros de software a desarrollar mejores carreras. Nuestras herramientas de IA son 100% gratuitas. | :white_check_mark: |
 | [rankode](https://www.thataicollection.com/redirect/rankode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | IA para Recursos Humanos - Rankode. | Reclutadores, todo lo que necesitan saber sobre las habilidades de programación de un candidato está en su GitHub. Evalúelos automáticamente con Rankode para evitar costosos errores de contratación y aumentar su retención. | :grey_question: |
 | [ResumAI](https://www.thataicollection.com/redirect/resumai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Wonsulting - Encontramos trabajos de ensueño. | Hemos ayudado a más de 100.000 personas a conseguir el trabajo de sus sueños. Deje que nuestras estrategias de búsqueda de empleo lo lleven de currículums a días mejores. | :grey_question: |

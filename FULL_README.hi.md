@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1122" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1123" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,15 +53,29 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>फ़ॉटर - हर किसी के लिए ऑनलाइन फ़ोटो एडिटर। AI की मदद से फ़ोटो को तेज़ी से और आसानी से एडिट करें।</h4>
-    <p>ऑनलाइन फ़ोटो एडिटर तुम्हेंं फ़ोटो को बेहतर बनाने और आसानी से संपादित करने के लिए आवश्यक सब कुछ देता है। मुफ्त में सरल ऑनलाइन फ़ोटो एडिटिंग का अनुभव करो! । Fotor AI फ़ोटो एडिटर की मदद से जटिल फ़ोटो संपादन को आसान बनाया गया है। AI फ़ोटो एन्हांसर, AI बैकग्राउंड रिमूवर, AI ऑब्जेक्ट रिमूवर और बहुत कुछ।
+    <h4>पैराफ़्रेसिंग टूल - सर्वश्रेष्ठ मुफ़्त ऑनलाइन पैराफ़्रेज़र - Wordfixerbot</h4>
+    <p>WordFixerBot का पैराफ़्रेसिंग टूल किसी भी टेक्स्ट, वाक्य, लेख, पैराग्राफ, पेपर या दस्तावेज़ों को तुरंत और सटीक तरीके से फिर से लिखने में तुम्हारी मदद करने के लिए एकदम सही टूल है। अभी शुरू करो और अपने लेखन को सबसे अलग बनाओ!</p>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Wordfixerbot के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
 
 
-</p>
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Fotor के साथ आरंभ करें</b></a>
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
+    </a>
+    <h4>हर काम के खुलने के लिए कुछ ही सेकंड में तैयार किए गए कवर लेटर</h4>
+    <p>पावर मोड के साथ 10x परिणाम
+
+एक पारंपरिक समाधान, जैसे कि चैटबॉट, कुछ हद तक रैंडमनेस के साथ एक जटिल क्वेरी का सिंगल आउटपुट जनरेट करता है।
+
+इसके बजाय, AI को एक साथ 10 आउटपुट तक एक्सप्लोर करने दें और अपने चुने मापदंड के आधार पर सबसे अच्छे को चुनें। यह सिर्फ़ मात्रा के बारे में नहीं है: यह तुम्हेंं सबसे अच्छे नतीजे दिलाने के बारे में है।</p>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>PowerDreamer AI Cover Letter Generator के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -77,19 +91,6 @@
 
 तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>पैराफ़्रेसिंग टूल - सर्वश्रेष्ठ मुफ़्त ऑनलाइन पैराफ़्रेज़र - Wordfixerbot</h4>
-    <p>WordFixerBot का पैराफ़्रेसिंग टूल किसी भी टेक्स्ट, वाक्य, लेख, पैराग्राफ, पेपर या दस्तावेज़ों को तुरंत और सटीक तरीके से फिर से लिखने में तुम्हारी मदद करने के लिए एकदम सही टूल है। अभी शुरू करो और अपने लेखन को सबसे अलग बनाओ!</p>
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Wordfixerbot के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -1036,6 +1037,7 @@
 | [JobBuddy](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | JobBuddy - अपने निजी AI-संचालित करियर कोच के साथ कुछ ही सेकंड में कवर लेटर जेनरेट करें, रिज्यूमे ऑप्टिमाइज़ करें और इंटरव्यू की तैयारी की सामग्री पाएँ।. | JobBuddy नौकरी तलाशने वालों को एडवांस AI टूल प्रदान करता है, ताकि वे वैयक्तिकृत कवर लेटर, रिज्यूमे और इंटरव्यू की तैयारी तैयार कर सकें। हज़ारों सफल उदाहरणों और मल्टी-मॉडल तकनीक का उपयोग करके, JobBuddy पूरी तरह से ATS-अनुकूलित, मानवीय लगने वाली, पेशेवर एप्लीकेशन सामग्री बनाने में बहुत प्रभावी है। अपनी नौकरी की तलाश में बेहद व्यक्तिगत, सुव्यवस्थित दृष्टिकोण के लिए इसे आजमाएं।. | :white_check_mark: |
 | [JobSearch.Coach](https://www.thataicollection.com/redirect/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मुफ़्त अत्याधुनिक AI टूल, जो नौकरी तलाशने वालों को अपने सपनों की नौकरी को तेज़ी से पूरा करने में मदद करते हैं. | नौकरी की खास ज़रूरतों और कंपनी की संस्कृति के हिसाब से अपना रेज़्यूमे तैयार करें। अपने रेज़्यूमे के सबसे मज़बूत बिंदुओं के आधार पर और जिस नौकरी के लिए तुम आवेदन कर रहे हो, उसके साथ संरेखित होकर स्वचालित रूप से एक व्यक्तिगत कवर लेटर जेनरेट करें। अपनी मनचाही भूमिका से जुड़े सवालों के साथ नौकरी के लिए इंटरव्यू के लिए तैयार रहो। अपने जवाबों का ज़ोर से अभ्यास करो और मॉक इंटरव्यू सेशन के दौरान रियल-टाइम फ़ीडबैक पाओ।. | :white_check_mark: |
 | [LazyApply](https://www.thataicollection.com/redirect/lazyapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी नौकरी की आवेदन प्रक्रिया को स्वचालित करें. | हम स्वचालित रूप से Linkedin, Fed और Ziprecruiter जैसे प्लेटफॉर्म पर सभी नौकरियों के लिए आवेदन करते हैं।. | :x: |
+| [PowerDreamer AI Cover Letter Generator](https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हर काम के खुलने के लिए कुछ ही सेकंड में तैयार किए गए कवर लेटर. | पावर मोड के साथ 10x परिणाम  एक पारंपरिक समाधान, जैसे कि चैटबॉट, कुछ हद तक रैंडमनेस के साथ एक जटिल क्वेरी का सिंगल आउटपुट जनरेट करता है।  इसके बजाय, AI को एक साथ 10 आउटपुट तक एक्सप्लोर करने दें और अपने चुने मापदंड के आधार पर सबसे अच्छे को चुनें। यह सिर्फ़ मात्रा के बारे में नहीं है: यह तुम्हेंं सबसे अच्छे नतीजे दिलाने के बारे में है।. | :white_check_mark: |
 | [Prodigy AI](https://www.thataicollection.com/redirect/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सॉफ्टवेयर इंजीनियरों के करियर को बेहतर बनाने के लिए एआई का उपयोग करना. | हम सॉफ्टवेयर इंजीनियरों को बेहतर करियर बनाने में मदद करने वाले टूल बनाने के लिए नवीनतम एआई का उपयोग करने के मिशन पर हैं। हमारे एआई उपकरण 100% निःशुल्क हैं।. | :white_check_mark: |
 | [rankode](https://www.thataicollection.com/redirect/rankode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मानव संसाधन के लिए एआई - रैंककोड. | भर्तीकर्ता, उम्मीदवार के प्रोग्रामिंग कौशल के बारे में आपको जो कुछ भी जानने की आवश्यकता है, वह उनके GitHub में है। हायरिंग की महंगी गलतियों से बचने और अपने रिटेंशन को सुपरबूस्ट करने के लिए रैंककोड के साथ स्वचालित रूप से उनका मूल्यांकन करें।. | :grey_question: |
 | [ResumAI](https://www.thataicollection.com/redirect/resumai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वंसल्टिंग - हम ड्रीम जॉब्स ढूंढते हैं. | हमने 100,000 से अधिक लोगों को उनके सपनों की नौकरी दिलाने में मदद की है। हमारी नौकरी खोज रणनीतियों को आपको रिज्यूमे से बेहतर दिनों तक ले जाने दें।. | :grey_question: |
