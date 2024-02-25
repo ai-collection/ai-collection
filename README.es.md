@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    </a>
+    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
+    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Wordfixerbot</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -61,36 +74,6 @@
 
 ¡Tus sueños más locos están a un clic de distancia hoy!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
-    </a>
-    <h4>Cartas de presentación personalizadas para cada oferta de trabajo en cuestión de segundos</h4>
-    <p>10 veces más resultados con el modo Power
-
-Una solución tradicional, como un chatbot, genera con cierto grado de aleatoriedad una única salida para una consulta compleja.
-
-En su lugar, haz que la IA explore hasta 10 salidas simultáneamente y seleccione la mejor según el criterio que hayas elegido. No se trata solo de la cantidad: se trata de conseguir el mejor resultado posible.</p>
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con PowerDreamer AI Cover Letter Generator</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
-    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -155,25 +138,6 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 💰 [Ventas Y Marketing](#ventas-y-marketing)
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
-
-### PowerDreamer AI Cover Letter Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
-
-#### Cartas de presentación personalizadas para cada oferta de trabajo en cuestión de segundos
-[Visit](https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-10 veces más resultados con el modo Power
-
-Una solución tradicional, como un chatbot, genera con cierto grado de aleatoriedad una única salida para una consulta compleja.
-
-En su lugar, haz que la IA explore hasta 10 salidas simultáneamente y seleccione la mejor según el criterio que hayas elegido. No se trata solo de la cantidad: se trata de conseguir el mejor resultado posible.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
 
 ### Fotor
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor">
@@ -269,6 +233,21 @@ Pregunta y aprende cualquier cosa a nuestro asistente de viajes con IA sobre las
 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/itinerarytrip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Larity
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-larity.webp" alt="Larity">
+
+####  Lleva la IA al mundo real en una tienda que solo esté limitada por tu imaginación
+[Visit](https://www.thataicollection.com/redirect/larity?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Larity AI Shop es una innovadora plataforma en línea que da vida a tu imaginación con lo último de la IA. En este caso, no eres solo un cliente sino un creador, y utilizas la IA para convertir tus ideas en diseños de camisetas únicos. Simplemente dale un mensaje para la camiseta de tus sueños y nuestra avanzada herramienta de inteligencia artificial creará un diseño distintivo y llamativo. 
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/larity?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2295,25 +2274,6 @@ AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a l
 
 
 
-### PowerDreamer AI Cover Letter Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
-
-#### Cartas de presentación personalizadas para cada oferta de trabajo en cuestión de segundos
-[Visit](https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-10 veces más resultados con el modo Power
-
-Una solución tradicional, como un chatbot, genera con cierto grado de aleatoriedad una única salida para una consulta compleja.
-
-En su lugar, haz que la IA explore hasta 10 salidas simultáneamente y seleccione la mejor según el criterio que hayas elegido. No se trata solo de la cantidad: se trata de conseguir el mejor resultado posible.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### JobSearch.Coach
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach">
 
@@ -2338,6 +2298,21 @@ Adapta tu currículum para que se adapte a los requisitos laborales específicos
 Rezi es la única plataforma de currículum que utiliza inteligencia artificial líder para automatizar todos los aspectos de la creación de un currículum alquilable: redacción, edición, formato y optimización.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/ai-resume-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### JobBuddy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobbuddy.webp" alt="JobBuddy">
+
+#### JobBuddy: genera cartas de presentación, optimiza los currículums y consigue material de preparación para las entrevistas en segundos con tu propio entrenador profesional personal basado en la IA.
+[Visit](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+JobBuddy proporciona a los solicitantes de empleo herramientas de IA avanzadas para generar cartas de presentación, currículums y preparación para entrevistas personalizados. Basado en miles de ejemplos exitosos y con tecnología multimodelo, JobBuddy es muy eficaz a la hora de producir materiales de aplicación profesionales totalmente optimizados para el ATS y con sonido humano. Pruébalo para obtener un enfoque simplificado y altamente personalizado para tu búsqueda de trabajo.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
