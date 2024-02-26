@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1123" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1126" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
     </a>
-    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
-    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Wordfixerbot</b></a>
+    <h4>在几秒钟内为每个空缺职位量身定制求职信</h4>
+    <p>让 AI 同时探索多达 10 个输出，并根据您选择的标准选择最佳输出。这不仅仅是数量：而是要给你带来尽可能好的结果。</p>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 PowerDreamer AI Cover Letter Generator</b></a>
     <br />
 </div>
 
@@ -74,6 +74,19 @@
 
 今天只需点击一下即可实现您最疯狂的梦想！</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    </a>
+    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
+    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -138,6 +151,21 @@
 - 💰 [销售与市场营销](#销售与市场营销)
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
+
+### PowerDreamer AI Cover Letter Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
+
+#### 在几秒钟内为每个空缺职位量身定制求职信
+[Visit](https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+让 AI 同时探索多达 10 个输出，并根据您选择的标准选择最佳输出。这不仅仅是数量：而是要给你带来尽可能好的结果。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 
 ### Fotor
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor">
@@ -233,21 +261,6 @@ Webscrape AI 是一个先进、用户友好的平台，允许个人和企业从�
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/itinerarytrip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Larity
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-larity.webp" alt="Larity">
-
-####  在只受想象力约束的商店中将 AI 带入现实世界
-[Visit](https://www.thataicollection.com/redirect/larity?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Larity AI Shop 是一个创新的在线平台，它使用最新的人工智能将你的想象力变为现实。在这里，你不仅是客户，也是创作者，使用人工智能将你的想法变成独特的 T 恤设计。只需提示您购买梦想 T 恤，我们先进的 AI 工具便可制作出与众不同且引人注目的设计。 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/larity?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2274,6 +2287,21 @@ AIApply是一套动态的人工智能工具，旨在增强求职者的能力。�
 <br />
 
 
+### PowerDreamer AI Cover Letter Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
+
+#### 在几秒钟内为每个空缺职位量身定制求职信
+[Visit](https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+让 AI 同时探索多达 10 个输出，并根据您选择的标准选择最佳输出。这不仅仅是数量：而是要给你带来尽可能好的结果。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### JobSearch.Coach
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach">
 
@@ -2298,21 +2326,6 @@ AIApply是一套动态的人工智能工具，旨在增强求职者的能力。�
 Rezi 是唯一一个使用领先的 AI 来自动化创建可雇用简历的各个方面的简历平台——写作、编辑、格式化和优化。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-resume-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### JobBuddy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobbuddy.webp" alt="JobBuddy">
-
-#### JobBuddy-生成求职信，优化简历，在几秒钟内获得面试准备材料，与你自己的个人人工智能驱动的职业教练一起。
-[Visit](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-JobBuddy为求职者提供先进的人工智能工具，用于生成个性化的求职信、简历和面试准备。JobBuddy 由数千个成功案例提供支持，使用多模型技术，在制作完全经过ATS优化、听起来像人性化的专业应用材料方面非常有效。试试吧，这是一种高度个性化、简化的求职方式。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

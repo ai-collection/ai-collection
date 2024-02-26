@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1123" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1126" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,32 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    </a>
+    <h4>Инструмент для перефразирования - лучший бесплатный онлайн-парафразировщик - Wordfixerbot</h4>
+    <p>Инструмент перефразирования WordFixerBot — идеальный инструмент, который поможет вам быстро и точно перефразировать любые тексты, предложения, статьи, абзацы, статьи или документы. Начните прямо сейчас и сделайте свой текст незабываемым!</p>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Wordfixerbot</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
+    </a>
+    <h4>Индивидуальные сопроводительные письма к каждой вакансии за считанные секунды</h4>
+    <p>Попросите ИИ изучить до 10 выходов одновременно и выбрать лучший на основе выбранного вами критерия. Дело не только в количестве, но и в том, чтобы получить наилучший результат.</p>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с PowerDreamer AI Cover Letter Generator</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -61,19 +87,6 @@
 
 Сегодня от ваших самых смелых мечтаний вас отделяет всего один клик!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>Инструмент для перефразирования - лучший бесплатный онлайн-парафразировщик - Wordfixerbot</h4>
-    <p>Инструмент перефразирования WordFixerBot — идеальный инструмент, который поможет вам быстро и точно перефразировать любые тексты, предложения, статьи, абзацы, статьи или документы. Начните прямо сейчас и сделайте свой текст незабываемым!</p>
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -1483,6 +1496,7 @@
 | [JobBuddy](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | JobBuddy — создавайте сопроводительные письма, оптимизируйте резюме и получайте материалы для подготовки к собеседованию за считанные секунды с вашим личным тренером по карьере, основанным на искусственном интеллекте. | JobBuddy предоставляет соискателям работу передовые инструменты искусственного интеллекта для создания персонализированных сопроводительных писем, резюме и подготовки к собеседованию. Основанный на тысячах успешных примеров и использующий многомодельную технологию, JobBuddy очень эффективен при создании профессиональных прикладных материалов, полностью оптимизированных для работы с АТС и звучащих на человеке. Попробуйте его, чтобы получить персонализированный и оптимизированный подход к поиску работы. | :white_check_mark: |
 | [JobSearch.Coach](https://www.thataicollection.com/redirect/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Бесплатные передовые инструменты искусственного интеллекта, которые помогают соискателям быстрее найти работу своей мечты. | Составьте свое резюме в соответствии с конкретными требованиями к работе и корпоративной культуре. Автоматически создавайте персонализированное сопроводительное письмо на основе самых сильных сторон вашего резюме и в соответствии с вакансией, на которую вы претендуете. Приготовьтесь к собеседованию и задайте вопросы, относящиеся к той должности, которую вы хотите получить. Практикуйте ответы вслух и получайте обратную связь в режиме реального времени во время пробных собеседований. | :white_check_mark: |
 | [LazyApply](https://www.thataicollection.com/redirect/lazyapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Автоматизируйте процесс подачи заявления о приеме на работу. | Мы автоматически подаем заявки на все вакансии на таких платформах, как Linkedin, Indeed и Ziprecruiter. | :x: |
+| [PowerDreamer AI Cover Letter Generator](https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Индивидуальные сопроводительные письма к каждой вакансии за считанные секунды. | Попросите ИИ изучить до 10 выходов одновременно и выбрать лучший на основе выбранного вами критерия. Дело не только в количестве, но и в том, чтобы получить наилучший результат. | :grey_question: |
 | [Prodigy AI](https://www.thataicollection.com/redirect/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Использование ИИ для улучшения карьеры инженеров-программистов. | Мы стремимся использовать новейшие технологии искусственного интеллекта для создания инструментов, которые помогут инженерам-программистам построить лучшую карьеру. Наши инструменты искусственного интеллекта на 100 % бесплатны. | :white_check_mark: |
 | [rankode](https://www.thataicollection.com/redirect/rankode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ИИ для управления персоналом — Rankode. | Рекрутеры, все, что вам нужно знать о навыках программирования кандидата, есть на их GitHub. Оценивайте их автоматически с помощью Rankode, чтобы избежать дорогостоящих ошибок при найме и повысить уровень удержания. | :grey_question: |
 | [ResumAI](https://www.thataicollection.com/redirect/resumai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Wonsulting - Мы находим работу мечты. | Мы помогли более чем 100 000 человек найти работу своей мечты. Позвольте нашим стратегиям поиска работы привести вас от резюме к лучшим дням. | :grey_question: |

@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1123" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1126" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
     </a>
-    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
-    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Wordfixerbot</b></a>
+    <h4>在几秒钟内为每个空缺职位量身定制求职信</h4>
+    <p>让 AI 同时探索多达 10 个输出，并根据您选择的标准选择最佳输出。这不仅仅是数量：而是要给你带来尽可能好的结果。</p>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 PowerDreamer AI Cover Letter Generator</b></a>
     <br />
 </div>
 
@@ -74,6 +74,19 @@
 
 今天只需点击一下即可实现您最疯狂的梦想！</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    </a>
+    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
+    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -170,6 +183,7 @@
 | [JobBuddy](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | JobBuddy-生成求职信，优化简历，在几秒钟内获得面试准备材料，与你自己的个人人工智能驱动的职业教练一起。. | JobBuddy为求职者提供先进的人工智能工具，用于生成个性化的求职信、简历和面试准备。JobBuddy 由数千个成功案例提供支持，使用多模型技术，在制作完全经过ATS优化、听起来像人性化的专业应用材料方面非常有效。试试吧，这是一种高度个性化、简化的求职方式。. | :white_check_mark: |
 | [JobSearch.Coach](https://www.thataicollection.com/redirect/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费的尖端人工智能工具，帮助求职者更快地找到理想的工作. | 根据特定的工作要求和公司文化量身定制简历。根据简历中的强项自动生成个性化求职信，并与你申请的工作保持一致。针对你想要的职位提出具体的问题，为求职面试做好准备。在模拟面试环节中，大声练习答案并获得实时反馈。. | :white_check_mark: |
 | [LazyApply](https://www.thataicollection.com/redirect/lazyapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 自动化您的工作申请流程. | 我们会自动申请 Linkedin、Indeed 和 Ziprecruiter 等平台上的所有职位。. | :x: |
+| [PowerDreamer AI Cover Letter Generator](https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在几秒钟内为每个空缺职位量身定制求职信. | 让 AI 同时探索多达 10 个输出，并根据您选择的标准选择最佳输出。这不仅仅是数量：而是要给你带来尽可能好的结果。. | :grey_question: |
 | [Prodigy AI](https://www.thataicollection.com/redirect/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 改善软件工程师的职业生涯. | 我们的使命是使用最新的 AI 构建工具，帮助软件工程师打造更好的职业生涯。我们的人工智能工具是 100% 免费的。. | :white_check_mark: |
 | [rankode](https://www.thataicollection.com/redirect/rankode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人力资源人工智能 - Rankode. | 招聘人员，您需要了解的有关应聘者编程技能的所有信息都在他们的 GitHub 中。使用 Rankode 自动评估它们，以避免代价高昂的招聘错误并大幅提高您的保留率。. | :grey_question: |
 | [ResumAI](https://www.thataicollection.com/redirect/resumai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Wonsulting - 我们找到理想的工作. | 我们已经帮助超过 100,000 人找到了他们梦想的工作。让我们的求职策略带你从简历到更好的日子。. | :grey_question: |
