@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
+    </a>
+    <h4>हर काम के खुलने के लिए कुछ ही सेकंड में तैयार किए गए कवर लेटर</h4>
+    <p>AI को एक साथ 10 आउटपुट तक एक्सप्लोर करने दें और अपने चुने मापदंड के आधार पर सबसे अच्छे को चुनें। यह सिर्फ़ मात्रा के बारे में नहीं है: यह तुम्हेंं सबसे अच्छे नतीजे दिलाने के बारे में है।</p>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>PowerDreamer AI Cover Letter Generator के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
@@ -74,19 +87,6 @@
 
 तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
-    </a>
-    <h4>हर काम के खुलने के लिए कुछ ही सेकंड में तैयार किए गए कवर लेटर</h4>
-    <p>AI को एक साथ 10 आउटपुट तक एक्सप्लोर करने दें और अपने चुने मापदंड के आधार पर सबसे अच्छे को चुनें। यह सिर्फ़ मात्रा के बारे में नहीं है: यह तुम्हेंं सबसे अच्छे नतीजे दिलाने के बारे में है।</p>
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>PowerDreamer AI Cover Letter Generator के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -1029,6 +1029,7 @@
 | [Hire Hoc](https://www.thataicollection.com/redirect/hire-hoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हायर हॉक - एआई पावर्ड हायरिंग टूल. | एआई-असिस्टेड भर्ती की शक्ति के साथ अपने संगठन को बदलें।. | :grey_question: |
 | [Hirex.ai](https://www.thataicollection.com/redirect/hirex.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hirex.ऐ. | वॉयस-आधारित बॉट बनाने के लिए एक नो-कोड एआई प्लेटफॉर्म, हायरेक्स.एआई में आपका स्वागत है जो बड़े पैमाने पर साक्षात्कार आयोजित करता है और स्कोर करता है। कोडिंग इंटरव्यू, एमसीक्यू टेस्ट, हैकाथॉन, वीडियो इंटरव्यू और व्हाट्सएप चैटबॉट जैसे असेसमेंट टूल का पूरा सूट एक ही डैशबोर्ड में पाएं. | :grey_question: |
 | [HireYaY](https://www.thataicollection.com/redirect/hireyay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हिरेय, स्टार्टअप्स के लिए एक हायरिंग प्लेटफॉर्म. | 92% नौकरी चाहने वाले अपना ऑनलाइन आवेदन पूरा नहीं करते हैं। HireYaY के साथ, आप एक योग्य उम्मीदवार को फिर कभी नहीं चूकेंगे।. | :grey_question: |
+| [Huntr AI Resume Builder](https://www.thataicollection.com/redirect/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI की थोड़ी मदद से, एकदम सही रिज़्यूमे तैयार करें. | तुम्हेंं जल्दी और आसानी से ऐसा रिज्यूम बनाने के लिए, जो तुम्हारे काम के अनुभव को सटीक रूप से दर्शाता हो, एक पेशेवर रेज़्यूमे लेखक होने की ज़रूरत नहीं है। हंटर का कस्टमाइज़ किया जा सकने वाला AI रिज्यूमे बिल्डर तुम्हेंं और इंटरव्यू देने में मदद करने के लिए एक अच्छी तरह से लिखा हुआ, एटीएस-अनुकूल रिज्यूमे तैयार करने में मदद करेगा।. | :white_check_mark: |
 | [JD Generator](https://www.thataicollection.com/redirect/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टीम से मिलें - किराया भागफल. | HireQuotients Skill Assessment Platform आपको आधे समय में प्रतिभा पूल के शीर्ष 10% को किराए पर लेने में मदद करता है।. | :grey_question: |
 | [JobBuddy](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | JobBuddy - अपने निजी AI-संचालित करियर कोच के साथ कुछ ही सेकंड में कवर लेटर जेनरेट करें, रिज्यूमे ऑप्टिमाइज़ करें और इंटरव्यू की तैयारी की सामग्री पाएँ।. | JobBuddy नौकरी तलाशने वालों को एडवांस AI टूल प्रदान करता है, ताकि वे वैयक्तिकृत कवर लेटर, रिज्यूमे और इंटरव्यू की तैयारी तैयार कर सकें। हज़ारों सफल उदाहरणों और मल्टी-मॉडल तकनीक का उपयोग करके, JobBuddy पूरी तरह से ATS-अनुकूलित, मानवीय लगने वाली, पेशेवर एप्लीकेशन सामग्री बनाने में बहुत प्रभावी है। अपनी नौकरी की तलाश में बेहद व्यक्तिगत, सुव्यवस्थित दृष्टिकोण के लिए इसे आजमाएं।. | :white_check_mark: |
 | [JobSearch.Coach](https://www.thataicollection.com/redirect/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मुफ़्त अत्याधुनिक AI टूल, जो नौकरी तलाशने वालों को अपने सपनों की नौकरी को तेज़ी से पूरा करने में मदद करते हैं. | नौकरी की खास ज़रूरतों और कंपनी की संस्कृति के हिसाब से अपना रेज़्यूमे तैयार करें। अपने रेज़्यूमे के सबसे मज़बूत बिंदुओं के आधार पर और जिस नौकरी के लिए तुम आवेदन कर रहे हो, उसके साथ संरेखित होकर स्वचालित रूप से एक व्यक्तिगत कवर लेटर जेनरेट करें। अपनी मनचाही भूमिका से जुड़े सवालों के साथ नौकरी के लिए इंटरव्यू के लिए तैयार रहो। अपने जवाबों का ज़ोर से अभ्यास करो और मॉक इंटरव्यू सेशन के दौरान रियल-टाइम फ़ीडबैक पाओ।. | :white_check_mark: |

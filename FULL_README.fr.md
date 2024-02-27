@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
-    <p>L'outil de paraphrase de WordFixerBot est l'outil idéal pour t'aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -74,6 +61,19 @@
 
 Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    </a>
+    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
+    <p>L'outil de paraphrase de WordFixerBot est l'outil idéal pour t'aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -1203,6 +1203,7 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
 | [Hire Hoc](https://www.thataicollection.com/redirect/hire-hoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hire Hoc - L'outil de recrutement basé sur l'IA. | Transformez votre organisation grâce à la puissance du recrutement assisté par l'IA. | :grey_question: |
 | [Hirex.ai](https://www.thataicollection.com/redirect/hirex.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | embauchex.ai. | Bienvenue sur hiringx.ai, une plate-forme d'IA sans code pour créer des robots vocaux qui mènent et notent des entretiens à grande échelle. Obtenez la suite complète d'outils d'évaluation tels que les entretiens de codage, les tests QCM, les hackathons, les entretiens vidéo et les chatbots WhatsApp, le tout sous un seul tableau de bord. | :grey_question: |
 | [HireYaY](https://www.thataicollection.com/redirect/hireyay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | HireYaY, une plateforme de recrutement pour les startups. | 92% des demandeurs d'emploi ne terminent pas leur candidature en ligne. Avec HireYaY, vous ne manquerez plus jamais un candidat qualifié. | :grey_question: |
+| [Huntr AI Resume Builder](https://www.thataicollection.com/redirect/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Rédigez le CV parfait avec l'aide de l'IA. | Tu n'as pas besoin d'être une rédactrice de CV professionnelle pour créer rapidement et facilement un CV qui reflète fidèlement ton expérience professionnelle. Le générateur de CV IA personnalisable de Hunter t'aidera à rédiger un CV bien rédigé et adapté aux ATS afin de décrocher plus d'entretiens. | :white_check_mark: |
 | [JD Generator](https://www.thataicollection.com/redirect/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Rencontrez l'équipe - HireQuotient. | La plate-forme d'évaluation des compétences de HireQuotient vous aide à embaucher les 10 % les plus performants du vivier de talents en deux fois moins de temps. | :grey_question: |
 | [JobBuddy](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | JobBuddy - Génère des lettres de motivation, optimise les CV et obtiens du matériel de préparation aux entretiens en quelques secondes avec ton coach de carrière personnel piloté par l'IA. | JobBuddy fournit aux demandeurs d'emploi des outils d'IA avancés pour générer des lettres de motivation et des CV personnalisés et préparer les entretiens. S'appuyant sur des milliers d'exemples réussis et utilisant une technologie multimodèle, JobBuddy est très efficace lorsqu'il s'agit de produire des supports de candidature professionnels entièrement optimisés pour ATS et à consonance humaine. Essaye-le pour une approche rationalisée et hautement personnalisée de ta recherche d'emploi. | :white_check_mark: |
 | [JobSearch.Coach](https://www.thataicollection.com/redirect/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Des outils d'IA de pointe gratuits qui aident les demandeurs d'emploi à décrocher l'emploi de leurs rêves plus rapidement. | Adapte ton CV aux exigences spécifiques du poste et à la culture de l'entreprise. Génère automatiquement une lettre de motivation personnalisée en fonction des points forts de ton CV et en fonction du poste pour lequel tu postules. Prépare-toi à des entretiens d'embauche avec des questions spécifiques au poste que tu souhaites. Pratiquez vos réponses à voix haute et recevez des commentaires en temps réel lors de simulacres d'entretien. | :white_check_mark: |

@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
+    </a>
+    <h4>हर काम के खुलने के लिए कुछ ही सेकंड में तैयार किए गए कवर लेटर</h4>
+    <p>AI को एक साथ 10 आउटपुट तक एक्सप्लोर करने दें और अपने चुने मापदंड के आधार पर सबसे अच्छे को चुनें। यह सिर्फ़ मात्रा के बारे में नहीं है: यह तुम्हेंं सबसे अच्छे नतीजे दिलाने के बारे में है।</p>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>PowerDreamer AI Cover Letter Generator के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
@@ -74,19 +87,6 @@
 
 तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
-    </a>
-    <h4>हर काम के खुलने के लिए कुछ ही सेकंड में तैयार किए गए कवर लेटर</h4>
-    <p>AI को एक साथ 10 आउटपुट तक एक्सप्लोर करने दें और अपने चुने मापदंड के आधार पर सबसे अच्छे को चुनें। यह सिर्फ़ मात्रा के बारे में नहीं है: यह तुम्हेंं सबसे अच्छे नतीजे दिलाने के बारे में है।</p>
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>PowerDreamer AI Cover Letter Generator के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -151,6 +151,21 @@
 - 📊 [स्लाइड और प्रस्तुतियाँ](#स्लाइड-और-प्रस्तुतियाँ)
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
+
+### Huntr AI Resume Builder
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder">
+
+#### AI की थोड़ी मदद से, एकदम सही रिज़्यूमे तैयार करें
+[Visit](https://www.thataicollection.com/redirect/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+तुम्हेंं जल्दी और आसानी से ऐसा रिज्यूम बनाने के लिए, जो तुम्हारे काम के अनुभव को सटीक रूप से दर्शाता हो, एक पेशेवर रेज़्यूमे लेखक होने की ज़रूरत नहीं है। हंटर का कस्टमाइज़ किया जा सकने वाला AI रिज्यूमे बिल्डर तुम्हेंं और इंटरव्यू देने में मदद करने के लिए एक अच्छी तरह से लिखा हुआ, एटीएस-अनुकूल रिज्यूमे तैयार करने में मदद करेगा।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### PowerDreamer AI Cover Letter Generator
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
@@ -244,23 +259,6 @@ DreamPaint.net छवियों को अनड्रेस करने क�
 Webscrape AI एक एडवांस, यूजर-फ़्रेंडली प्लेटफ़ॉर्म है, जिससे व्यक्ति और व्यवसाय वेब से डेटा निकाल सकते हैं। यह एक नो-कोड स्क्रैपर है जिसके लिए किसी प्रोग्रामिंग कौशल की आवश्यकता नहीं होती है, जिसमें सीमित तकनीकी ज्ञान वाले कौशल भी शामिल हैं। यह AI-संचालित टूल वेबसाइटों पर नेविगेट कर सकता है, प्रासंगिक डेटा की पहचान कर सकता है और इसे CSV, JSON, या HTML जैसे स्ट्रक्चर्ड फ़ॉर्मेट में इकट्ठा कर सकता है। 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/webscrapeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### ItineraryTrip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-itinerarytrip.webp" alt="ItineraryTrip">
-
-#### आइटिनररीट्रिप - वैयक्तिकृत यात्रा की योजना AI ट्रेवल एजेंट
-[Visit](https://www.thataicollection.com/redirect/itinerarytrip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-हमारे एआई-चालित प्लेटफ़ॉर्म के साथ यात्रा की सहज योजना के बारे में जानें। इसमें शहर में जाने की संक्षिप्त यात्रा या एक या दो सप्ताह के विस्तारित यात्रा कार्यक्रम, दुनिया भर में क्राफ़्टिंग के यात्रा कार्यक्रम शामिल हैं। 
-हमारे AI ट्रेवल असिस्टेंट से शहरों, देशों, लैंडमार्क और गतिविधियों के बारे में कुछ भी पूछें और जानें। जवाबों को यात्रा नोट के तौर पर सेव करें और सुझाए गए यात्रा कार्यक्रमों को बढ़ाएं
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/itinerarytrip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2272,6 +2270,21 @@ GetActyv का AI-आधारित पर्सनल ट्रेनर आ�
 
 ## मानव संसाधन और फिर से शुरू
 
+### Huntr AI Resume Builder
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder">
+
+#### AI की थोड़ी मदद से, एकदम सही रिज़्यूमे तैयार करें
+[Visit](https://www.thataicollection.com/redirect/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+तुम्हेंं जल्दी और आसानी से ऐसा रिज्यूम बनाने के लिए, जो तुम्हारे काम के अनुभव को सटीक रूप से दर्शाता हो, एक पेशेवर रेज़्यूमे लेखक होने की ज़रूरत नहीं है। हंटर का कस्टमाइज़ किया जा सकने वाला AI रिज्यूमे बिल्डर तुम्हेंं और इंटरव्यू देने में मदद करने के लिए एक अच्छी तरह से लिखा हुआ, एटीएस-अनुकूल रिज्यूमे तैयार करने में मदद करेगा।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AiApply
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
 
@@ -2345,21 +2358,6 @@ Rezi एकमात्र रिज्यूमे प्लेटफॉर्�
 <br />
 
 
-
-
-### LazyApply
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lazyapply.webp" alt="LazyApply">
-
-#### अपनी नौकरी की आवेदन प्रक्रिया को स्वचालित करें
-[Visit](https://www.thataicollection.com/redirect/lazyapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-हम स्वचालित रूप से Linkedin, Fed और Ziprecruiter जैसे प्लेटफॉर्म पर सभी नौकरियों के लिए आवेदन करते हैं।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/lazyapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ### HireYaY
@@ -2970,21 +2968,6 @@ MusicTGA-HR एक API सेवा है जो कॉन्टेंट ब�
 
 ## एनएसएफडब्ल्यू
 
-### LunaLust
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust_.webp" alt="LunaLust">
-
-#### लूनालस्ट | एआई गर्लफ्रेंड | वर्चुअल एआई गर्लफ्रेंड
-[Visit](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LunaLust वर्चुअल रिलेशनशिप को फिर से परिभाषित करता है। यह AI गर्लफ्रेंड ऐप सिर्फ़ बातचीत के बारे में नहीं है; यह एक सार्थक कनेक्शन बनाने के बारे में है। अपने AI पार्टनर को अपने व्यक्तित्व से मेल खाने के लिए तैयार करें, यह सुनिश्चित करें कि वह न सिर्फ़ उत्तरदायी हो, बल्कि तुम्हारे विचारों और रुचियों के अनुरूप हो, और उसे पहले से तैयार वर्चुअल गर्लफ्रेंड का अनुभव मिले।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Girlfriend GPT - NSFW AI Chatbots
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
 
@@ -3077,6 +3060,21 @@ Undress.vip, एक ज़बरदस्त एयर टूल, जो इस 
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI-Girlfriend.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend.ai.webp" alt="AI-Girlfriend.AI">
+
+#### AI-Girlfriend.AI के साथ अपने सेक्सटिंग अनुभव में क्रांति लाएं
+[Visit](https://www.thataicollection.com/redirect/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI-Girlfriend.ai में आपका स्वागत है, जहाँ हम अपने AI-संचालित गर्लफ्रेंड अनुभव के ज़रिए सेक्सटिंग की कला को फिर से परिभाषित करते हैं। एक मज़ेदार, प्रतिबद्धता-मुक्त AI सेक्सटिंग सिमुलेशन के साथ डिजिटल इंटिमेसी की दुनिया में गोता लगाएँ, जो तुम्हारे कौशल को बढ़ाने और तुम्हारे इंटरैक्टिव अनुभवों को समृद्ध बनाने के लिए तैयार किया गया है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

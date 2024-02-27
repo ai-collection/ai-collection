@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>在几秒钟内为每个空缺职位量身定制求职信</h4>
-    <p>让 AI 同时探索多达 10 个输出，并根据您选择的标准选择最佳输出。这不仅仅是数量：而是要给你带来尽可能好的结果。</p>
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 PowerDreamer AI Cover Letter Generator</b></a>
+    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
+    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -81,12 +81,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
     </a>
-    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
-    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Wordfixerbot</b></a>
+    <h4>在几秒钟内为每个空缺职位量身定制求职信</h4>
+    <p>让 AI 同时探索多达 10 个输出，并根据您选择的标准选择最佳输出。这不仅仅是数量：而是要给你带来尽可能好的结果。</p>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 PowerDreamer AI Cover Letter Generator</b></a>
     <br />
 </div>
 
@@ -179,6 +179,7 @@
 | [Hire Hoc](https://www.thataicollection.com/redirect/hire-hoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hire Hoc - 人工智能驱动的招聘工具. | 借助 AI 辅助招聘的力量改变您的组织。. | :grey_question: |
 | [Hirex.ai](https://www.thataicollection.com/redirect/hirex.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | hirex.ai. | 欢迎来到 hirex.ai，这是一个无代码 AI 平台，用于构建基于语音的机器人，这些机器人可以大规模进行面试并为其评分。获取完整的评估工具套件，如编码面试、MCQ 测试、编程马拉松、视频面试和 WhatsApp 聊天机器人，所有这些都在一个仪表板下. | :grey_question: |
 | [HireYaY](https://www.thataicollection.com/redirect/hireyay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | HireYaY，初创公司的招聘平台. | 92% 的求职者没有完成在线申请。有了 HireYaY，您再也不会错过合格的候选人。. | :grey_question: |
+| [Huntr AI Resume Builder](https://www.thataicollection.com/redirect/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在 AI 的帮助下制作完美的简历. | 您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。. | :white_check_mark: |
 | [JD Generator](https://www.thataicollection.com/redirect/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 认识团队 - HireQuotient. | HireQuotient 的技能评估平台可帮助您以一半的时间雇用人才库中前 10% 的人才。. | :grey_question: |
 | [JobBuddy](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | JobBuddy-生成求职信，优化简历，在几秒钟内获得面试准备材料，与你自己的个人人工智能驱动的职业教练一起。. | JobBuddy为求职者提供先进的人工智能工具，用于生成个性化的求职信、简历和面试准备。JobBuddy 由数千个成功案例提供支持，使用多模型技术，在制作完全经过ATS优化、听起来像人性化的专业应用材料方面非常有效。试试吧，这是一种高度个性化、简化的求职方式。. | :white_check_mark: |
 | [JobSearch.Coach](https://www.thataicollection.com/redirect/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费的尖端人工智能工具，帮助求职者更快地找到理想的工作. | 根据特定的工作要求和公司文化量身定制简历。根据简历中的强项自动生成个性化求职信，并与你申请的工作保持一致。针对你想要的职位提出具体的问题，为求职面试做好准备。在模拟面试环节中，大声练习答案并获得实时反馈。. | :white_check_mark: |

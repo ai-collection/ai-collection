@@ -152,6 +152,21 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### Huntr AI Resume Builder
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder">
+
+#### Создайте идеальное резюме с небольшой помощью искусственного интеллекта
+[Visit](https://www.thataicollection.com/redirect/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### PowerDreamer AI Cover Letter Generator
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
 
@@ -244,23 +259,6 @@ Classicquiz предлагает платформу для создания ин
 Webscrape AI — это продвинутая и удобная платформа, которая позволяет частным лицам и компаниям извлекать данные из Интернета. Это парсер без кода, который не требует навыков программирования, в том числе с ограниченными техническими знаниями. Этот инструмент на базе искусственного интеллекта может перемещаться по веб-сайтам, идентифицировать соответствующие данные и собирать их в структурированном формате, таком как CSV, JSON или HTML. 
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/webscrapeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### ItineraryTrip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-itinerarytrip.webp" alt="ItineraryTrip">
-
-#### RitineraryTrip - туристическое агентство с индивидуальным маршрутом и искусственным интеллектом
-[Visit](https://www.thataicollection.com/redirect/itinerarytrip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Откройте для себя удобное планирование маршрута путешествия с помощью нашей платформы на базе искусственного интеллекта. Она включает короткие поездки по городу или длительные маршруты на одну/две недели, а также составление маршрутов по всему миру. 
-Задавайте вопросы нашему помощнику по путешествиям с искусственным интеллектом и узнайте что-нибудь о городах, странах, достопримечательностях и мероприятиях. Сохраняйте ответы в виде путевых заметок, а также расширяйте предлагаемые маршруты
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/itinerarytrip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2270,6 +2268,21 @@ Gift Genie AI — это приложение на базе искусствен
 
 ## Человеческие ресурсы и резюме
 
+### Huntr AI Resume Builder
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder">
+
+#### Создайте идеальное резюме с небольшой помощью искусственного интеллекта
+[Visit](https://www.thataicollection.com/redirect/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AiApply
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
 
@@ -2343,21 +2356,6 @@ Rezi — единственная платформа для резюме, исп
 <br />
 
 
-
-
-### LazyApply
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lazyapply.webp" alt="LazyApply">
-
-#### Автоматизируйте процесс подачи заявления о приеме на работу
-[Visit](https://www.thataicollection.com/redirect/lazyapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Мы автоматически подаем заявки на все вакансии на таких платформах, как Linkedin, Indeed и Ziprecruiter.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/lazyapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ### HireYaY
@@ -2968,21 +2966,6 @@ Amadeus Topline — это приложение для сочинения муз
 
 ## NSFW
 
-### LunaLust
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust_.webp" alt="LunaLust">
-
-#### LunaLust | Подруга с искусственным интеллектом | Виртуальная подруга с искусственным
-[Visit](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LunaLust переопределяет виртуальные отношения. Это приложение для подруг с искусственным интеллектом предназначено не только для общения, но и для создания полноценной связи. Подберите своего партнера по искусственному интеллекту в соответствии с вашими индивидуальными особенностями, чтобы он не просто реагировал на ваши мысли и интересы, а также предлагал уникальную виртуальную подругу.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Girlfriend GPT - NSFW AI Chatbots
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
 
@@ -3075,6 +3058,21 @@ Dittin AI — это платформа чат-ботов NSFW с искусст
 
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI-Girlfriend.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend.ai.webp" alt="AI-Girlfriend.AI">
+
+#### Революционизируйте свой опыт секстинга с помощью AI-Girlfriend.AI
+[Visit](https://www.thataicollection.com/redirect/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Добро пожаловать в AI-Girlfriend.ai, где мы переосмысливаем искусство секстинга с помощью нашего опыта работы с девушками с искусственным интеллектом. Погрузитесь в мир цифровой интимной близости с помощью игривого симулятора секстинга с искусственным интеллектом, который поможет вам улучшить ваши навыки и обогатить интерактивный опыт.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

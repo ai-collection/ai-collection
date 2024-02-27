@@ -53,12 +53,14 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
-    <h4>Cartas de presentación personalizadas para cada oferta de trabajo en cuestión de segundos</h4>
-    <p>Haz que la IA explore hasta 10 salidas simultáneamente y seleccione la mejor según el criterio que hayas elegido. No se trata solo de la cantidad: se trata de conseguir el mejor resultado posible.</p>
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con PowerDreamer AI Cover Letter Generator</b></a>
+    <h4>Empieza a chatear gratis con nuestro rápido y aterrador motor de personajes de IA de la NSFW. Divertido, útil, nuestros más de 7500 personajes de sexting con IA lo tienen. IA sin censura, sin juicio. Tú tienes el control.</h4>
+    <p>Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para recibir mensajes de texto con IA y charlas picantes las 24 horas del día, los 7 días de la semana
+
+¡Tus sueños más locos están a un clic de distancia hoy!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -79,14 +81,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
     </a>
-    <h4>Empieza a chatear gratis con nuestro rápido y aterrador motor de personajes de IA de la NSFW. Divertido, útil, nuestros más de 7500 personajes de sexting con IA lo tienen. IA sin censura, sin juicio. Tú tienes el control.</h4>
-    <p>Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para recibir mensajes de texto con IA y charlas picantes las 24 horas del día, los 7 días de la semana
-
-¡Tus sueños más locos están a un clic de distancia hoy!</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <h4>Cartas de presentación personalizadas para cada oferta de trabajo en cuestión de segundos</h4>
+    <p>Haz que la IA explore hasta 10 salidas simultáneamente y seleccione la mejor según el criterio que hayas elegido. No se trata solo de la cantidad: se trata de conseguir el mejor resultado posible.</p>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con PowerDreamer AI Cover Letter Generator</b></a>
     <br />
 </div>
 
@@ -151,6 +151,21 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 💰 [Ventas Y Marketing](#ventas-y-marketing)
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
+
+### Huntr AI Resume Builder
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder">
+
+#### Crea el currículum perfecto, con un poco de ayuda de la IA
+[Visit](https://www.thataicollection.com/redirect/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### PowerDreamer AI Cover Letter Generator
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
@@ -244,23 +259,6 @@ Classicquiz ofrece una plataforma para crear y reproducir cuestionarios interact
 La IA de Webscrape es una plataforma avanzada y fácil de usar que permite a personas y empresas extraer datos de la web. Es un raspador de código que no requiere conocimientos de programación, incluidos aquellos con conocimientos técnicos limitados. Esta herramienta basada en la IA puede navegar por los sitios web, identificar los datos relevantes y recopilarlos en un formato estructurado, como CSV, JSON o HTML. 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/webscrapeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### ItineraryTrip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-itinerarytrip.webp" alt="ItineraryTrip">
-
-#### ItineraryTrip: agencia de viajes con IA de itinerario personalizado
-[Visit](https://www.thataicollection.com/redirect/itinerarytrip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Descubre una planificación perfecta de los itinerarios de viaje con nuestra plataforma basada en la IA. Cubre escapadas breves a la ciudad o itinerarios ampliados de una o dos semanas, creando itinerarios por todo el mundo. 
-Pregunta y aprende cualquier cosa a nuestro asistente de viajes con IA sobre las ciudades, los países, los lugares de interés y las actividades. Guardar las respuestas como notas de viaje y también ampliar los itinerarios sugeridos
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/itinerarytrip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2272,6 +2270,21 @@ Verifique los síntomas y encuentre causas por IA: responda el cuestionario sobr
 
 ## Recursos humanos y currículum
 
+### Huntr AI Resume Builder
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder">
+
+#### Crea el currículum perfecto, con un poco de ayuda de la IA
+[Visit](https://www.thataicollection.com/redirect/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AiApply
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
 
@@ -2345,21 +2358,6 @@ Reclutadores, todo lo que necesitan saber sobre las habilidades de programación
 <br />
 
 
-
-
-### LazyApply
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lazyapply.webp" alt="LazyApply">
-
-#### Automatice su proceso de solicitud de empleo
-[Visit](https://www.thataicollection.com/redirect/lazyapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Aplicamos automáticamente a todos los trabajos en plataformas como Linkedin, Indeed y Ziprecruiter.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/lazyapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ### HireYaY
@@ -2969,21 +2967,6 @@ Amadeus Topline es una aplicación de composición basada en la IA para todos lo
 
 ## NSFW
 
-### LunaLust
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust_.webp" alt="LunaLust">
-
-#### LunaLust | Novia de IA | Novia de IA virtual
-[Visit](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LunaLust redefine las relaciones virtuales. Esta aplicación de IA para novias no trata solo de interactuar, sino de crear una conexión significativa. Personaliza a tu pareja de IA para que se adapte a tu personalidad, asegurándote de que no solo responde, sino que está realmente sincronizada con tus ideas e intereses, ofreciendo una experiencia de novia virtual personalizada.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Girlfriend GPT - NSFW AI Chatbots
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
 
@@ -3076,6 +3059,21 @@ Generador de fotos Undress AI para desnudos profundos gratis. Desnuda la IA de D
 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI-Girlfriend.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend.ai.webp" alt="AI-Girlfriend.AI">
+
+#### Revoluciona tu experiencia de sexting con AI-Girlfriend.AI
+[Visit](https://www.thataicollection.com/redirect/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Bienvenido a AI-Girlfriend.ai, donde redefinimos el arte del sexting a través de nuestra experiencia de novia basada en la IA. Sumérgete en el mundo de la intimidad digital con una simulación de sexting con IA divertida y sin compromisos, diseñada para mejorar tus habilidades y enriquecer tus experiencias interactivas.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

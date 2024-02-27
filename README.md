@@ -59,19 +59,6 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
-    <p>WordfixerBot's Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Wordfixerbot</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
     </a>
@@ -93,6 +80,19 @@ Translations:
 
 Your wildest dreams are just a click away today!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    </a>
+    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
+    <p>WordfixerBot's Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -157,6 +157,21 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+
+### Huntr AI Resume Builder
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder">
+
+#### Craft the perfect resume, with a little help from AI
+[Visit](https://www.thataicollection.com/redirect/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### PowerDreamer AI Cover Letter Generator
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
@@ -250,23 +265,6 @@ Classicquiz offers a platform for creating and playing interactive live quizzes.
 Webscrape AI is an advanced, user-friendly platform that allows individuals and businesses to extract data from the web. It's a no-code scraper that requires no programming skills including those with limited technical knowledge. This AI-powered tool can navigate through websites, identify relevant data, and collect it in a structured format such as CSV, JSON, or HTML. 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/webscrapeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### ItineraryTrip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-itinerarytrip.webp" alt="ItineraryTrip">
-
-#### ItineraryTrip - Personalised Itinerary AI Travel agent
-[Visit](https://www.thataicollection.com/redirect/itinerarytrip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Discover seamless travel itinerary planning with our AI-driven platform. It covers brief city getaways or extended one/two weeks itineraries, crafting itineraries worldwide. 
-Ask and learn anything to our AI Travel assistant about the cities, countries, landmarks, and activities. Save answers as travel notes and also expand suggested itineraries
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/itinerarytrip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2278,6 +2276,21 @@ Check Symptoms & Find Causes by AI - Answer quiz about your symptoms to find out
 
 ## Human Resources & Resume
 
+### Huntr AI Resume Builder
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder">
+
+#### Craft the perfect resume, with a little help from AI
+[Visit](https://www.thataicollection.com/redirect/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AiApply
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
 
@@ -2351,21 +2364,6 @@ Recruiters, everything you need to know about a candidate's programming skills i
 <br />
 
 
-
-
-### LazyApply
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lazyapply.webp" alt="LazyApply">
-
-#### Automate Your Job Application Process
-[Visit](https://www.thataicollection.com/redirect/lazyapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-We automatically apply to all the jobs on platforms like Linkedin, Indeed and Ziprecruiter.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/lazyapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ### HireYaY
@@ -2976,21 +2974,6 @@ Amadeus Topline is an AI-powered composing app for every creator. AI creates you
 
 ## NSFW
 
-### LunaLust
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust_.webp" alt="LunaLust">
-
-#### LunaLust | AI Girlfriend | Virtual AI Girlfriend
-[Visit](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LunaLust redefines virtual relationships. This AI girlfriend app isn't just about interaction; it's about creating a meaningful connection. Tailor your AI partner to match your personality, ensuring she's not just responsive but truly in sync with your thoughts and interests, offering a bespoke virtual girlfriend experience.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Girlfriend GPT - NSFW AI Chatbots
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
 
@@ -3083,6 +3066,21 @@ Undress AI photo generator for free deepnudes. Nudify deepnude AI with the highe
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI-Girlfriend.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend.ai.webp" alt="AI-Girlfriend.AI">
+
+#### Revolutionize Your Sexting Experience with AI-Girlfriend.AI
+[Visit](https://www.thataicollection.com/redirect/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Welcome to AI-Girlfriend.ai,where we redefine the art of sexting through our AI-powered girlfriend experience. Dive into the world of digital intimacy with a playful, commitment-free AI sexting simulation, tailored to enhance your skills and enrich your interactive experiences.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

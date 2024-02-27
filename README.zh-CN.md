@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>在几秒钟内为每个空缺职位量身定制求职信</h4>
-    <p>让 AI 同时探索多达 10 个输出，并根据您选择的标准选择最佳输出。这不仅仅是数量：而是要给你带来尽可能好的结果。</p>
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 PowerDreamer AI Cover Letter Generator</b></a>
+    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
+    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -81,12 +81,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
     </a>
-    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
-    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Wordfixerbot</b></a>
+    <h4>在几秒钟内为每个空缺职位量身定制求职信</h4>
+    <p>让 AI 同时探索多达 10 个输出，并根据您选择的标准选择最佳输出。这不仅仅是数量：而是要给你带来尽可能好的结果。</p>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 PowerDreamer AI Cover Letter Generator</b></a>
     <br />
 </div>
 
@@ -151,6 +151,21 @@
 - 💰 [销售与市场营销](#销售与市场营销)
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
+
+### Huntr AI Resume Builder
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder">
+
+#### 在 AI 的帮助下制作完美的简历
+[Visit](https://www.thataicollection.com/redirect/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 
 ### PowerDreamer AI Cover Letter Generator
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
@@ -244,23 +259,6 @@ Classicquiz 为创建和玩交互式现场测验提供了一个平台。参与�
 Webscrape AI 是一个先进、用户友好的平台，允许个人和企业从网络中提取数据。它是一个无代码抓取工具，不需要编程技能，包括那些技术知识有限的人。这个人工智能驱动的工具可以浏览网站，识别相关数据，并以 CSV、JSON 或 HTML 等结构化格式进行收集。 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/webscrapeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### ItineraryTrip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-itinerarytrip.webp" alt="ItineraryTrip">
-
-#### IntineraryTrip-个性化行程 AI 旅行社
-[Visit](https://www.thataicollection.com/redirect/itinerarytrip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用我们的 AI 驱动平台探索无缝的旅行行程规划。它涵盖了简短的城市度假或延长的一/两周行程，精心设计的全球行程。 
-向我们的 AI Travel 助手询问和了解有关城市、国家、地标和活动的任何信息。将答案另存为旅行笔记，并扩展建议的行程
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/itinerarytrip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2272,6 +2270,21 @@ GetActyv 基于人工智能的私人教练将彻底改变您的健身之旅
 
 ## 人力资源与简历
 
+### Huntr AI Resume Builder
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder">
+
+#### 在 AI 的帮助下制作完美的简历
+[Visit](https://www.thataicollection.com/redirect/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### AiApply
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
 
@@ -2341,21 +2354,6 @@ Rezi 是唯一一个使用领先的 AI 来自动化创建可雇用简历的各�
 招聘人员，您需要了解的有关应聘者编程技能的所有信息都在他们的 GitHub 中。使用 Rankode 自动评估它们，以避免代价高昂的招聘错误并大幅提高您的保留率。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/rankode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### LazyApply
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lazyapply.webp" alt="LazyApply">
-
-#### 自动化您的工作申请流程
-[Visit](https://www.thataicollection.com/redirect/lazyapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我们会自动申请 Linkedin、Indeed 和 Ziprecruiter 等平台上的所有职位。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/lazyapply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2970,21 +2968,6 @@ Amadeus Topline 是一款由人工智能驱动的作曲应用程序，适合每�
 
 ## 工作不安全
 
-### LunaLust
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust_.webp" alt="LunaLust">
-
-#### LunaLust | 人工智能女友 | 虚拟 AI 女友
-[Visit](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LunaLust 重新定义了虚拟关系。这款人工智能女友应用程序不仅仅是关于互动；它还涉及建立有意义的联系。根据你的个性量身定制 AI 伙伴，确保她不仅反应灵敏，而且真正与你的想法和兴趣保持同步，提供定制的虚拟女友体验。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/lunalust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### Girlfriend GPT - NSFW AI Chatbots
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
 
@@ -3077,6 +3060,21 @@ Dittin AI 是一个基于 DittinLLM 的 NSFW 人工智能聊天机器人平台�
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### AI-Girlfriend.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend.ai.webp" alt="AI-Girlfriend.AI">
+
+#### 使用 AI-Girlfriend.AI 彻底改变你的短信体验
+[Visit](https://www.thataicollection.com/redirect/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+欢迎来到 AI-Girlfriend.ai，在这里，我们通过人工智能驱动的女友体验重新定义了色情艺术。通过有趣的、无需承诺的 AI 色情短信模拟，潜入数字亲密世界，该模拟专为提高您的技能和丰富您的互动体验而量身定制。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

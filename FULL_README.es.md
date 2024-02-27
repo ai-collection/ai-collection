@@ -53,12 +53,14 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
-    <h4>Cartas de presentación personalizadas para cada oferta de trabajo en cuestión de segundos</h4>
-    <p>Haz que la IA explore hasta 10 salidas simultáneamente y seleccione la mejor según el criterio que hayas elegido. No se trata solo de la cantidad: se trata de conseguir el mejor resultado posible.</p>
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con PowerDreamer AI Cover Letter Generator</b></a>
+    <h4>Empieza a chatear gratis con nuestro rápido y aterrador motor de personajes de IA de la NSFW. Divertido, útil, nuestros más de 7500 personajes de sexting con IA lo tienen. IA sin censura, sin juicio. Tú tienes el control.</h4>
+    <p>Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para recibir mensajes de texto con IA y charlas picantes las 24 horas del día, los 7 días de la semana
+
+¡Tus sueños más locos están a un clic de distancia hoy!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
     <br />
 </div>
 
@@ -79,14 +81,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
     </a>
-    <h4>Empieza a chatear gratis con nuestro rápido y aterrador motor de personajes de IA de la NSFW. Divertido, útil, nuestros más de 7500 personajes de sexting con IA lo tienen. IA sin censura, sin juicio. Tú tienes el control.</h4>
-    <p>Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para recibir mensajes de texto con IA y charlas picantes las 24 horas del día, los 7 días de la semana
-
-¡Tus sueños más locos están a un clic de distancia hoy!</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <h4>Cartas de presentación personalizadas para cada oferta de trabajo en cuestión de segundos</h4>
+    <p>Haz que la IA explore hasta 10 salidas simultáneamente y seleccione la mejor según el criterio que hayas elegido. No se trata solo de la cantidad: se trata de conseguir el mejor resultado posible.</p>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con PowerDreamer AI Cover Letter Generator</b></a>
     <br />
 </div>
 
@@ -1207,6 +1207,7 @@
 | [Hire Hoc](https://www.thataicollection.com/redirect/hire-hoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hire Hoc: la herramienta de contratación impulsada por IA. | Transforme su organización con el poder del reclutamiento asistido por IA. | :grey_question: |
 | [Hirex.ai](https://www.thataicollection.com/redirect/hirex.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hirex.Ai. | Bienvenido a Hirex.ai, una plataforma de IA sin código para crear bots basados en voz que realizan y califican entrevistas a escala. Obtenga el conjunto completo de herramientas de evaluación, como entrevistas de codificación, pruebas de MCQ, hackatones, entrevistas en video y chatbots de WhatsApp, todo en un solo panel. | :grey_question: |
 | [HireYaY](https://www.thataicollection.com/redirect/hireyay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hireyay, una Plataforma de Contratación para Startups. | El 92% de los buscadores de empleo no completan su solicitud en línea. Con HireYaY, nunca más perderá a un candidato calificado. | :grey_question: |
+| [Huntr AI Resume Builder](https://www.thataicollection.com/redirect/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Crea el currículum perfecto, con un poco de ayuda de la IA. | No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas. | :white_check_mark: |
 | [JD Generator](https://www.thataicollection.com/redirect/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Conoce al equipo - Hirequotient. | La plataforma de evaluación de habilidades de HireQuotient lo ayuda a contratar al 10 % superior del grupo de talentos en la mitad del tiempo. | :grey_question: |
 | [JobBuddy](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | JobBuddy: genera cartas de presentación, optimiza los currículums y consigue material de preparación para las entrevistas en segundos con tu propio entrenador profesional personal basado en la IA. | JobBuddy proporciona a los solicitantes de empleo herramientas de IA avanzadas para generar cartas de presentación, currículums y preparación para entrevistas personalizados. Basado en miles de ejemplos exitosos y con tecnología multimodelo, JobBuddy es muy eficaz a la hora de producir materiales de aplicación profesionales totalmente optimizados para el ATS y con sonido humano. Pruébalo para obtener un enfoque simplificado y altamente personalizado para tu búsqueda de trabajo. | :white_check_mark: |
 | [JobSearch.Coach](https://www.thataicollection.com/redirect/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Herramientas de IA gratuitas y vanguardistas que ayudan a los solicitantes de empleo a conseguir el trabajo de sus sueños más rápido. | Adapta tu currículum para que se adapte a los requisitos laborales específicos y a la cultura empresarial. Genera automáticamente una carta de presentación personalizada basada en los puntos más fuertes de tu currículum y alineada con el puesto que estás solicitando. Prepárate para las entrevistas de trabajo con preguntas específicas sobre el puesto que deseas. Practica tus respuestas en voz alta y recibe comentarios en tiempo real durante las sesiones simuladas de entrevistas. | :white_check_mark: |

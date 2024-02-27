@@ -59,19 +59,6 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
-    <p>WordfixerBot's Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Wordfixerbot</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
     </a>
@@ -93,6 +80,19 @@ Translations:
 
 Your wildest dreams are just a click away today!</p>
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    </a>
+    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
+    <p>WordfixerBot's Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -802,6 +802,7 @@ Your wildest dreams are just a click away today!</p>
 | [Hire Hoc](https://www.thataicollection.com/redirect/hire-hoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hire Hoc - The AI Powered Hiring Tool. | Transform Your Organization with the Power of AI-Assisted Recruiting. | :grey_question: |
 | [Hirex.ai](https://www.thataicollection.com/redirect/hirex.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hirex.Ai. | Welcome to hirex.ai, a no-code AI platform to build voice-based bots that conduct and score interviews at scale. Get the complete suite of assessments tools like coding interviews, MCQ tests, hackathons, video interviews, and WhatsApp chatbots all under single dashboard. | :grey_question: |
 | [HireYaY](https://www.thataicollection.com/redirect/hireyay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hireyay, a Hiring Platform for Startups. | 92% of job seekers do not finish their online application. With HireYaY, you will never miss a qualified candidate again. | :grey_question: |
+| [Huntr AI Resume Builder](https://www.thataicollection.com/redirect/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Craft the perfect resume, with a little help from AI. | You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews. | :white_check_mark: |
 | [JD Generator](https://www.thataicollection.com/redirect/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Meet the Team - Hirequotient. | HireQuotients Skill Assessment Platform helps you hire the top 10% of the talent pool in half the time. | :grey_question: |
 | [JobBuddy](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | JobBuddy - Generate cover letters, optimize resumes and get interview prep materials in seconds with your own personal AI-driven careers coach. | JobBuddy provides job seekers with advanced AI tools to generate personalized cover letters, resumes and interview prep. Powered by thousands of successful examples and using multi-model technology, JobBuddy is highly effective at producing fully ATS-optimized, human-sounding, professional application materials. Try it for a highly personalized, streamlined approach to your job hunt. | :white_check_mark: |
 | [JobSearch.Coach](https://www.thataicollection.com/redirect/jobsearch.coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Free cutting-edge AI tools that help job seekers land their dream job faster. | Tailor your resume to fit specific job requirements and company culture. Automatically generate a personalized cover letter based on the strongest points of your resume and aligned with the job you’re applying for. Get ready for job interviews with questions specific to the role you want. Practice your answers out loud and receive real-time feedback during mock interview sessions. | :white_check_mark: |
