@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1126" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1133" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -51,34 +51,6 @@
     <h5>热门精选</h5>
     <p>AI Collection 的首选是</p>
 </div>
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
-    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Wordfixerbot</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
-    </a>
-    <h4>使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。</h4>
-    <p>从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。
-
-今天只需点击一下即可实现您最疯狂的梦想！</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -152,113 +124,116 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### Huntr AI Resume Builder
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder">
+### AI Anime Girlfriend
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-anime-girlfriend.webp" alt="AI Anime Girlfriend">
 
-#### 在 AI 的帮助下制作完美的简历
-[Visit](https://www.thataicollection.com/redirect/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI 动漫女友：你的梦想 AI waifu 在等着你...
+[Visit](https://www.thataicollection.com/redirect/ai-anime-girlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。
+与AI动漫女友的最佳动漫聊天：选择完美的AI waifu并使用我们的动漫AI生成器获取图像。潜入水中！
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### PowerDreamer AI Cover Letter Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
-
-#### 在几秒钟内为每个空缺职位量身定制求职信
-[Visit](https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-让 AI 同时探索多达 10 个输出，并根据您选择的标准选择最佳输出。这不仅仅是数量：而是要给你带来尽可能好的结果。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-anime-girlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Fotor
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor">
+### Your AI Girlfriend online
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-your-ai-girlfriend-online.webp" alt="Your AI Girlfriend online">
 
-#### Fotor-适合所有人的在线照片编辑器。使用 AI 更快、更轻松地编辑照片。
-[Visit](https://www.thataicollection.com/redirect/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 你的AI女友在线-认识你的梦想女友
+[Visit](https://www.thataicollection.com/redirect/your-ai-girlfriend-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-在线照片编辑器提供您轻松增强和编辑照片所需的一切。免费在线体验简单的照片编辑！。使用Fotor AI照片编辑器可以轻松进行复杂的照片编辑。AI 照片增强器、AI 背景去除器、AI 对象移除器等。
+欢迎来到使用私人NSFW人工智能生成器量身定制的最好的NSFW AI聊天室！🔥
 
+一切都是约会的乐趣，没有麻烦。 
 
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### LustGF AI Girlfriend
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lustgf-ai-girlfriend.webp" alt="LustGF AI Girlfriend">
-
-#### 创建完全未经审查的完美虚拟伴侣。立即与您的AI女友享受私密和色情交流。
-[Visit](https://www.thataicollection.com/redirect/lustgf-ai-girlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LustGF是一款未经审查的AI女友模拟器，可将您梦想中的虚拟伴侣变为现实。参与NSFW对话，探索你最深的幻想，并与你的AI伴侣体验更高层次的色情联系。和你的梦想女友约会，专为满足你的喜好而设计。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/lustgf-ai-girlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/your-ai-girlfriend-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Dreampaint.net
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreampaint.net_.webp" alt="Dreampaint.net">
+### Bard PDF
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bard-pdf.webp" alt="Bard PDF">
 
-#### Dreampaint.net-裸体和?$#@$你的偶像
-[Visit](https://www.thataicollection.com/redirect/dreampaint.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 由人工智能驱动的终极工具，用于汇总和分析 PDF 文档
+[Visit](https://www.thataicollection.com/redirect/bard-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Dreampaint.net 使用最先进的技术来对图像进行脱衣。
-除了Nudify功能外，Dreampaint还提供其他效果，可以通过修复应用于照片。
-你可以将?$#@$效果应用到你的照片上，获得真正令人惊叹的效果。
-前10张图片是免费的，该网站承诺很快就会推出新的效果。
+BARD PDF 重新定义了您使用 PDF 的方式。只需输入 PDF 的网址，让 BARD PDF 的先进技术解密其内容。生成全面的摘要，在 PDF 的文本中寻找问题的答案，并与文档本身进行互动讨论。BARD PDF 可优化您的时间，提高您的工作效率！
 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dreampaint.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/bard-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Classicquiz.com
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-classicquiz.com.webp" alt="Classicquiz.com">
+### BabAI Child Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-babai.webp" alt="BabAI Child Generator">
 
-#### Classicquiz 为创建和玩交互式现场测验提供了一个平台。
-[Visit](https://www.thataicollection.com/redirect/classicquiz.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 使用 AI ✨ 生成你未来的孩子的照片
+[Visit](https://www.thataicollection.com/redirect/babai-child-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Classicquiz 为创建和玩交互式现场测验提供了一个平台。参与者通过手机实时回答问题，促进参与度并营造一种有趣、竞争激烈的氛围。使用我们的 AI 问题生成器，用户可以根据他们提供的一些文本自动生成问题。 
+BabaI 是基于父母照片的终极儿童生成器。只需提交 2 张图片（1 张给父亲，1 张给母亲），即可在 9 小时内收到人工智能生成的儿童图片。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/babai-child-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/classicquiz.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+### Human or Not: Did You Talk to AI or Human
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-human-or-not:-a-social-turing-game.webp" alt="Human or Not: Did You Talk to AI or Human">
+
+#### 聊天两分钟，猜猜你是在和人类还是人工智能机器人说话。
+[Visit](https://www.thataicollection.com/redirect/human-or-not-did-you-talk-to-ai-or-human?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+人工智能驱动的社交图灵游戏
+
+聊天两分钟，猜猜你是在和人类还是人工智能机器人说话。
+
+主要特点：
+* 两分钟的互动聊天会话。
+* 挑战自我，辨别人与人工智能的对话。
+*与人工智能或人类体验各种互动，类似于聊天室。
+* 与朋友分享您完成的聊天，让他们猜一猜。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/human-or-not-did-you-talk-to-ai-or-human?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### WebscrapeAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-webscrapeai.webp" alt="WebscrapeAI">
+### Cloobot X
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cloobot-x.webp" alt="Cloobot X">
 
-#### 使用 AI 在没有代码的情况下抓取任何网站
-[Visit](https://www.thataicollection.com/redirect/webscrapeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 现在可以立即创建业务应用程序
+[Visit](https://www.thataicollection.com/redirect/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Webscrape AI 是一个先进、用户友好的平台，允许个人和企业从网络中提取数据。它是一个无代码抓取工具，不需要编程技能，包括那些技术知识有限的人。这个人工智能驱动的工具可以浏览网站，识别相关数据，并以 CSV、JSON 或 HTML 等结构化格式进行收集。 
+Cloobot X 正在通过下一代无代码平台改变企业软件开发。它通过基于即时的交互为整个软件生命周期中的问题解决者提供支持，并将交付时间缩短了10倍，以所选语言提供原型、MVP和代码库。为了解决人工智能问题，它可以在本地部署，适应自定义 LLM，并通过专有算法生成代码。 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/webscrapeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Let's Trip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-let's-trip.webp" alt="Let's Trip">
+
+#### 令人难忘的行程，由人工智能行程规划师提供支持，基于社交媒体趋势
+[Visit](https://www.thataicollection.com/redirect/let's-trip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Let's Trip 是一款由人工智能驱动的创新旅行规划器，旨在创建个性化行程。它利用来自抖音和Instagram等社交媒体平台的数据，确定了热门的旅行目的地。 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/let's-trip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2260,6 +2235,36 @@ GetActyv 基于人工智能的私人教练将彻底改变您的健身之旅
 <br />
 
 
+### Dreamore
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreamore.webp" alt="Dreamore">
+
+#### 解锁你的梦想：解读、可视化并与 Dreamore 共享
+[Visit](https://www.thataicollection.com/redirect/dreamore?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dreamore 通过个性化解读将您的梦想转变为数字艺术。利用先进的算法，它可以深入了解你的潜意识，帮助自我发现。分享您的梦想艺术品或将其保密。使用 Dreamore 以前所未有的方式探索您的梦想。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dreamore?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### SINE AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sine-ai.webp" alt="SINE AI">
+
+#### 用 Sine AI 探索自我：占星术、塔罗牌及其他
+[Visit](https://www.thataicollection.com/redirect/sine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Sine AI 提供了一段通过占星术、塔罗牌和测验进行自我发现的旅程。发现长处和短处，并获得每日肯定。深入研究您的出生图以获得深入的见解，并通过塔罗牌阅读寻求指导。使用 Sine AI 拥抱你的潜能和内在智慧。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/sine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 
 [See All 👩‍⚕️ 卫生保健 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/healthcare?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -3532,15 +3537,15 @@ Cogram 使用 AI 在虚拟会议中做笔记、跟踪行动项目并自动执行
 <br />
 
 
-### AI-Flow
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-flow.webp" alt="AI-Flow">
+### Cloobot X
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cloobot-x.webp" alt="Cloobot X">
 
-#### AI-FLOW 是一个创新的开源平台，旨在轻松连接和组合领先的 AI 模型，根据您的独特需求量身定制自定义 AI 工具。
-[Visit](https://www.thataicollection.com/redirect/ai-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 现在可以立即创建业务应用程序
+[Visit](https://www.thataicollection.com/redirect/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AI-FLOW 是一个多功能平台，使您能够为各种应用构建量身定制的解决方案。无论您是简化社交媒体内容创作、总结YouTube视频、升级人工智能生成的图像，还是将文字描述转换为视频片段，AI-FLOW都能提供创新和脱颖而出所需的工具。
+Cloobot X 正在通过下一代无代码平台改变企业软件开发。它通过基于即时的交互为整个软件生命周期中的问题解决者提供支持，并将交付时间缩短了10倍，以所选语言提供原型、MVP和代码库。为了解决人工智能问题，它可以在本地部署，适应自定义 LLM，并通过专有算法生成代码。 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1126" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1133" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -51,34 +51,6 @@
     <h5>Meilleurs choix</h5>
     <p>Les meilleurs choix d'AI Collection sont</p>
 </div>
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
-    </a>
-    <h4>Commence à discuter gratuitement avec notre moteur de personnages NSFW AI terriblement rapide. Ludique, serviable, nos plus de 750 personnages de sextos IA l'ont compris. IA non censurée, aucun jugement. Tu as le contrôle.</h4>
-    <p>Variété, allant de dominante à soumise et plus encore. Connecte-toi maintenant pour des sextos IA 24 heures sur 24, 7 jours sur 7 et des discussions épicées qui te couperont le souffle.
-
-Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
-    <p>L'outil de paraphrase de WordFixerBot est l'outil idéal pour t'aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
-    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
-    <br />
-</div>
-
-<br>
-
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -152,113 +124,115 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
 
-### Huntr AI Resume Builder
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder">
+### AI Anime Girlfriend
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-anime-girlfriend.webp" alt="AI Anime Girlfriend">
 
-#### Rédigez le CV parfait avec l'aide de l'IA
-[Visit](https://www.thataicollection.com/redirect/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI Anime Girlfriend : le waifu IA de tes rêves t'attend...
+[Visit](https://www.thataicollection.com/redirect/ai-anime-girlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Tu n'as pas besoin d'être une rédactrice de CV professionnelle pour créer rapidement et facilement un CV qui reflète fidèlement ton expérience professionnelle. Le générateur de CV IA personnalisable de Hunter t'aidera à rédiger un CV bien rédigé et adapté aux ATS afin de décrocher plus d'entretiens.
+Le meilleur chat animé avec sa copine IA : choisis le waifu IA idéal et obtiens des images grâce à notre générateur d'anime. Plongez dedans !
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/huntr-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-anime-girlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Your AI Girlfriend online
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-your-ai-girlfriend-online.webp" alt="Your AI Girlfriend online">
+
+#### Ta copine IA en ligne - Trouve la petite amie de tes rêves
+[Visit](https://www.thataicollection.com/redirect/your-ai-girlfriend-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Bienvenue sur le meilleur chat NSFW AI personnalisé à l'aide d'un générateur d'IA NSFW privé ! 🔥
+
+C'est amusant de sortir ensemble, sans les tracas. 
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/your-ai-girlfriend-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Bard PDF
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bard-pdf.webp" alt="Bard PDF">
+
+#### L'outil ultime basé sur l'IA pour résumer et analyser des documents PDF
+[Visit](https://www.thataicollection.com/redirect/bard-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+BARD PDF redéfinit la façon dont tu utilises les PDF. Il suffit de saisir l'adresse web d'un PDF et de laisser la technologie avancée de BARD PDF déchiffrer son contenu. Génère des résumés complets, cherche des réponses à tes questions dans le texte du PDF et participe à des discussions interactives sur le document lui-même. BARD PDF optimise ton temps et augmente ta productivité !
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/bard-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### PowerDreamer AI Cover Letter Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
+### BabAI Child Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-babai.webp" alt="BabAI Child Generator">
 
-#### Des lettres de motivation personnalisées pour chaque offre d'emploi en quelques secondes
-[Visit](https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Génère des images de tes futurs enfants grâce à l'IA ✨
+[Visit](https://www.thataicollection.com/redirect/babai-child-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Demandez à l'IA d'explorer jusqu'à 10 sorties simultanément et de sélectionner la meilleure en fonction du critère que tu as choisi. Ce n'est pas qu'une question de quantité : il s'agit d'obtenir le meilleur résultat possible.
+BabAi est le générateur d'enfants par excellence basé sur les photos des parents. Il suffit de soumettre 2 images (une pour le père et une pour la mère) et de recevoir l'image de l'enfant générée par l'IA dans les 9 heures.
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Fotor
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor">
-
-#### Fotor - Un éditeur de photos en ligne pour tous. Retouche des photos plus rapidement et plus facilement grâce à l'IA.
-[Visit](https://www.thataicollection.com/redirect/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-l'éditeur de photos en ligne offre tout ce dont tu as besoin pour améliorer et retoucher des photos sans effort. Faites l'expérience de la retouche photo en ligne, en toute simplicité, gratuitement ! . La retouche photo complexe simplifiée grâce à l'éditeur de photos Fotor AI. AI Photo Enhancer, AI Background Remover, AI Object Remover et plus encore.
-
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/babai-child-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### LustGF AI Girlfriend
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lustgf-ai-girlfriend.webp" alt="LustGF AI Girlfriend">
+### Human or Not: Did You Talk to AI or Human
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-human-or-not:-a-social-turing-game.webp" alt="Human or Not: Did You Talk to AI or Human">
 
-#### Crée ton compagnon virtuel idéal, sans aucune censure. Participe à des échanges érotiques et privés dès maintenant avec ta copine IA.
-[Visit](https://www.thataicollection.com/redirect/lustgf-ai-girlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Discutez pendant deux minutes et devine si tu parles à un humain ou à un robot intelligent.
+[Visit](https://www.thataicollection.com/redirect/human-or-not-did-you-talk-to-ai-or-human?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-LustGF est un simulateur de petite amie basé sur l'IA non censuré qui donne vie à la compagne virtuelle de tes rêves. Participe à des conversations sur la NSFW, explore tes fantasmes les plus profonds et découvre un nouveau niveau de connexion érotique avec ton compagnon IA. sort avec la petite amie de tes rêves, selon tes préférences.
+Jeu de Turing sur les réseaux sociaux basé sur l'IA
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/lustgf-ai-girlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Discutez pendant deux minutes et devine si tu parles à un humain ou à un robot intelligent.
 
-<br />
+Caractéristiques principales :
+* Sessions de discussion interactives de deux minutes.
+* Mets-toi au défi de faire la différence entre les conversations humaines et les conversations basées sur l'IA.
+* Vivez diverses interactions, comme sur le chatroulette, avec des IA ou des humains.
+* Partage les discussions que tu as terminées avec tes amis pour qu'ils puissent 
 
-
-
-
-### Dreampaint.net
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreampaint.net_.webp" alt="Dreampaint.net">
-
-#### Dreampaint.net - Nudifie et ?$#@$ tes idoles
-[Visit](https://www.thataicollection.com/redirect/dreampaint.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Dreampaint.net utilise les technologies les plus avancées pour déshabiller les images.
-Outre la fonction Nudify, Dreampaint propose d'autres effets qui peuvent être appliqués aux photos via Inpainting.
-Tu peux appliquer l'effet ?$#@$ à tes photos pour un résultat vraiment époustouflant.
-Les 10 premières images sont gratuites et le site promet de proposer bientôt de nouveaux effets.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/dreampaint.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/human-or-not-did-you-talk-to-ai-or-human?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Classicquiz.com
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-classicquiz.com.webp" alt="Classicquiz.com">
+### Cloobot X
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cloobot-x.webp" alt="Cloobot X">
 
-#### Classicquiz propose une plateforme permettant de créer et de jouer à des quiz interactifs en direct.
-[Visit](https://www.thataicollection.com/redirect/classicquiz.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Créer des applications professionnelles est désormais une solution rapide
+[Visit](https://www.thataicollection.com/redirect/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Classicquiz propose une plateforme permettant de créer et de jouer à des quiz interactifs en direct. Les participants répondent aux questions via leur téléphone en temps réel, ce qui favorise l'engagement et crée une atmosphère amusante et compétitive. Grâce à notre générateur de questions basé sur l'IA, les utilisateurs peuvent générer automatiquement des questions en fonction du texte qu'ils fournissent. 
+Cloobot X révolutionne le développement de logiciels d'entreprise grâce à une plateforme sans code de nouvelle génération. Il permet de résoudre les problèmes tout au long du cycle de vie des logiciels grâce à une interaction rapide, et réduit les délais de livraison de 10 fois en proposant des prototypes, des MVP et une base de code dans certaines langues. Pour répondre aux préoccupations liées à l'IA, il est déployable sur site, adaptable à des LLM personnalisés et génère du code via des algorithmes propr
 
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/classicquiz.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### WebscrapeAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-webscrapeai.webp" alt="WebscrapeAI">
+### Let's Trip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-let's-trip.webp" alt="Let's Trip">
 
-#### Grattez n'importe quel site Web sans code à l'aide de l'IA
-[Visit](https://www.thataicollection.com/redirect/webscrapeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Des itinéraires inoubliables, optimisés par un planificateur de voyages basé sur l'IA, basé sur les tendances des réseaux sociaux
+[Visit](https://www.thataicollection.com/redirect/let's-trip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Webscrape AI est une plateforme avancée et conviviale qui permet aux particuliers et aux entreprises d'extraire des données du Web. C'est un scraper sans code qui ne nécessite aucune compétence en programmation, y compris des connaissances techniques limitées. Cet outil basé sur l'IA peut naviguer sur des sites Web, identifier les données pertinentes et les collecter dans un format structuré tel que CSV, JSON ou HTML. 
+Let's Trip est un planificateur de voyage innovant alimenté par l'IA, conçu pour créer des itinéraires personnalisés. À l'aide des données des réseaux sociaux tels que TikTok et Instagram, il identifie les destinations de voyage les plus populaires. 
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/webscrapeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/let's-trip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2260,6 +2234,36 @@ Vérifier les symptômes et trouver les causes par l'IA - Répondez au quiz sur 
 
 
 
+### Dreamore
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreamore.webp" alt="Dreamore">
+
+#### Débloquez tes rêves : interprétez, visualisez et partagez avec Dreamore
+[Visit](https://www.thataicollection.com/redirect/dreamore?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dreamore transforme tes rêves en œuvres d'art numérique grâce à des interprétations personnalisées. Utilisant des algorithmes avancés, il donne un aperçu de ton subconscient, ce qui facilite la découverte de soi. Partage l'œuvre d'art de tes rêves ou garde-la en privé. Réalise tes rêves comme jamais auparavant avec Dreamore.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/dreamore?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### SINE AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sine-ai.webp" alt="SINE AI">
+
+#### Découvre-toi avec Sine AI : astrologie, tarot et au-delà
+[Visit](https://www.thataicollection.com/redirect/sine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Sine AI propose un voyage vers la découverte de soi grâce à l'astrologie, au tarot et à des quiz. Découvre les forces et les faiblesses et obtiens des affirmations quotidiennes. Passe dans ton thème natal pour en savoir plus et demande des conseils en matière de lecture du tarot. Exploite ton potentiel et ta sagesse intérieure avec Sine AI.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/sine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 
 [See All 👩‍⚕️ Soins de santé Applications on AI Collection](https://www.thataicollection.com/fr/categories/healthcare?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -3532,15 +3536,15 @@ Cogram utilise l'IA pour prendre des notes lors de réunions virtuelles, suivre 
 
 
 
-### AI-Flow
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-flow.webp" alt="AI-Flow">
+### Cloobot X
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cloobot-x.webp" alt="Cloobot X">
 
-#### AI-FLOW est une plateforme open source innovante conçue pour connecter et combiner facilement les principaux modèles d'IA, afin de créer des outils d'IA personnalisés adaptés à tes besoins uniques.
-[Visit](https://www.thataicollection.com/redirect/ai-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Créer des applications professionnelles est désormais une solution rapide
+[Visit](https://www.thataicollection.com/redirect/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AI-FLOW est une plateforme polyvalente qui te permet de créer des solutions sur mesure pour un large éventail d'applications. Qu'il s'agisse de rationaliser la création de contenu sur les réseaux sociaux, de résumer des vidéos YouTube, de redimensionner des images générées par l'IA ou de convertir des descriptions textuelles en clips vidéo, AI-FLOW fournit les outils dont tu as besoin pour innover et exceller.
+Cloobot X révolutionne le développement de logiciels d'entreprise grâce à une plateforme sans code de nouvelle génération. Il permet de résoudre les problèmes tout au long du cycle de vie des logiciels grâce à une interaction rapide, et réduit les délais de livraison de 10 fois en proposant des prototypes, des MVP et une base de code dans certaines langues. Pour répondre aux préoccupations liées à l'IA, il est déployable sur site, adaptable à des LLM personnalisés et génère du code via des algorithmes propr
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
