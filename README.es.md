@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1133" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1135" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -124,6 +124,41 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### DreamGen: AI role-playing and strory-writing
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
+
+#### DreamGen: juegos de rol y escritura de historias con IA
+[Visit](https://www.thataicollection.com/redirect/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Juegos de rol y escritura de historias con IA en los que el único límite es tu imaginación, ni filtros arbitrarios.
+
+Sumérgete directamente en uno de nuestros escenarios o crea el tuyo propio. Habla con los personajes, explora reinos fantásticos y mucho más. Sin reglas, sin restricciones.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### PDF GPT
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pdf-gpt.webp" alt="PDF GPT">
+
+#### Sube cualquier PDF y obtén resúmenes, traducciones, respuestas y citas en segundos. 
+[Visit](https://www.thataicollection.com/redirect/pdf-gpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PDF GPT, una herramienta que cambia las reglas del juego y que puede aumentar tu productividad.
+1. Sube un PDF en cualquier idioma
+2. El PDF GPT es un asistente personal de IA que puede explicar conceptos, escribir resúmenes, buscar citas, obtener citas, generar preguntas de estudio y mucho más, todo a partir de un documento.
+3. El PDF GPT encontrará la información que necesitas y te dará una respuesta o generará contenido en segundos, con citas.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/pdf-gpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI Anime Girlfriend
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-anime-girlfriend.webp" alt="AI Anime Girlfriend">
 
@@ -204,36 +239,6 @@ Características principales:
 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/human-or-not-did-you-talk-to-ai-or-human?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Cloobot X
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cloobot-x.webp" alt="Cloobot X">
-
-#### La creación de aplicaciones empresariales está ahora a punto de llegar
-[Visit](https://www.thataicollection.com/redirect/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cloobot X está cambiando el desarrollo del software empresarial con una plataforma sin código de próxima generación. Permite a los solucionadores de problemas a lo largo del ciclo de vida del software una interacción basada en las instrucciones y reduce 10 veces el tiempo de entrega, ofreciendo prototipos, MVP y bases de código en los idiomas elegidos. Para abordar los problemas de la IA, se puede implementar in situ, se adapta a los LLM personalizados y genera código mediante algoritmos patentados. 
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Let's Trip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-let's-trip.webp" alt="Let's Trip">
-
-#### Itinerarios inolvidables, impulsados por una planificadora de viajes con IA, basados en las tendencias de las redes sociales
-[Visit](https://www.thataicollection.com/redirect/let's-trip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Let's Trip es un innovador planificador de viajes impulsado por IA diseñado para crear itinerarios personalizados. Utilizando datos de plataformas de redes sociales como TikTok e Instagram, identifica los destinos de viaje más populares. 
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/let's-trip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1845,6 +1850,23 @@ Con la IA Outfit Anyone, explora una nueva era de la moda en la que probarte cua
 
 ## Divertido
 
+### DreamGen: AI role-playing and strory-writing
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
+
+#### DreamGen: juegos de rol y escritura de historias con IA
+[Visit](https://www.thataicollection.com/redirect/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Juegos de rol y escritura de historias con IA en los que el único límite es tu imaginación, ni filtros arbitrarios.
+
+Sumérgete directamente en uno de nuestros escenarios o crea el tuyo propio. Habla con los personajes, explora reinos fantásticos y mucho más. Sin reglas, sin restricciones.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### CharacterAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-characterai.webp" alt="CharacterAI">
 
@@ -1933,21 +1955,6 @@ Usa la IA para generar la excusa profesional perfecta
 <br />
 
 <br />
-
-
-### AI Pokemon generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-pokemon-generator.webp" alt="AI Pokemon generator">
-
-#### Generar Fakemon usando IA
-[Visit](https://www.thataicollection.com/redirect/ai-pokemon-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Crea tu Fakemon como nunca antes, utilizando indicaciones de texto simples para guiar el diseño. ¿Quieres una criatura feroz parecida a un dragón o una linda criatura cubierta de hierba? ¡Tienes el poder! ¡Sumérgete, explora y crea el Fakemon de tus sueños hoy!
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/ai-pokemon-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 

@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1133" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1135" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -124,6 +124,41 @@
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
 
+### DreamGen: AI role-playing and strory-writing
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
+
+#### ड्रीमजेन: एआई रोल-प्लेइंग और कहानी-लेखन
+[Visit](https://www.thataicollection.com/redirect/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+एआई रोल-प्लेइंग और कहानी-लेखन जहाँ तुम्हारी कल्पना की एकमात्र सीमा है, न ही मनमाने फ़िल्टर।
+
+सीधे हमारे किसी एक परिदृश्य में कूदें, या अपना खुद का बनाएं। पात्रों के साथ बात करें, काल्पनिक क्षेत्रों के बारे में जानें, और बहुत कुछ। कोई नियम नहीं, कोई प्रतिबंध नहीं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### PDF GPT
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pdf-gpt.webp" alt="PDF GPT">
+
+#### कोई भी PDF अपलोड करें और कुछ ही सेकंड में सारांश, अनुवाद, उत्तर और उद्धरण पाएँ। 
+[Visit](https://www.thataicollection.com/redirect/pdf-gpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PDF GPT एक गेम बदलने वाला टूल है जो तुम्हारी उत्पादकता बढ़ा सकता है।
+1। किसी भी भाषा में PDF अपलोड करें
+2। PDF GPT एक AI निजी सहायक है, जो दस्तावेज़ से अवधारणाओं की व्याख्या कर सकता है, सारांश लिख सकता है, उद्धरण ढूंढ सकता है, उद्धरण प्राप्त कर सकता है, अध्ययन के सवाल जेनरेट कर सकता है, और बहुत कुछ कर सकता है।
+3। PDF GPT तुम्हेंं ज़रूरी जानकारी देगा और तुम्हेंं जवाब देगा या उद्धरणों के साथ कुछ ही सेकंड में कॉन्टेंट जेनरेट करेगा।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/pdf-gpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI Anime Girlfriend
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-anime-girlfriend.webp" alt="AI Anime Girlfriend">
 
@@ -204,36 +239,6 @@ BARD PDF तुम्हारे PDF के साथ जुड़ने के
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/human-or-not-did-you-talk-to-ai-or-human?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Cloobot X
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cloobot-x.webp" alt="Cloobot X">
-
-#### बिज़नेस ऐप्लिकेशन बनाना अब बहुत आसान है
-[Visit](https://www.thataicollection.com/redirect/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cloobot X, अगली पीढ़ी के नो-कोड प्लैटफ़ॉर्म के ज़रिए एंटरप्राइज़ सॉफ़्टवेयर डेवलपमेंट को बदल रहा है। यह प्रॉम्प्ट-आधारित इंटरैक्शन की मदद से सॉफ़्टवेयर लाइफ़साइकल में समस्या हल करने वालों को सशक्त बनाता है और डिलीवरी के समय को 10 गुना कम करता है, साथ ही चुनी हुई भाषाओं में प्रोटोटाइप, MVP और कोडबेस ऑफ़र करता है। AI से जुड़ी चिंताओं को दूर करते हुए, इसे ऑन-प्रिमाइसेस डिप्लॉय किया जा सकता है, कस्टम एलएलएम के अनुकूल बनाया जा सकता है, और मालिकाना एल्गोरिदम के ज़रिए कोड जनरेट किया जाता है। 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Let's Trip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-let's-trip.webp" alt="Let's Trip">
-
-#### सोशल मीडिया ट्रेंड पर आधारित AI ट्रिप प्लानर द्वारा संचालित अविस्मरणीय यात्रा के कार्यक्रम
-[Visit](https://www.thataicollection.com/redirect/let's-trip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-लेट्स ट्रिप एआई-संचालित एक अभिनव ट्रेवल प्लानर है, जिसे वैयक्तिकृत यात्रा कार्यक्रम बनाने के लिए डिज़ाइन किया गया है। TikTok और Instagram जैसे सोशल मीडिया प्लेटफ़ॉर्म के डेटा का उपयोग करके, यह चर्चित ट्रेवल डेस्टिनेशन की पहचान करता है। 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/let's-trip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1845,6 +1850,23 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 ## आनंद
 
+### DreamGen: AI role-playing and strory-writing
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
+
+#### ड्रीमजेन: एआई रोल-प्लेइंग और कहानी-लेखन
+[Visit](https://www.thataicollection.com/redirect/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+एआई रोल-प्लेइंग और कहानी-लेखन जहाँ तुम्हारी कल्पना की एकमात्र सीमा है, न ही मनमाने फ़िल्टर।
+
+सीधे हमारे किसी एक परिदृश्य में कूदें, या अपना खुद का बनाएं। पात्रों के साथ बात करें, काल्पनिक क्षेत्रों के बारे में जानें, और बहुत कुछ। कोई नियम नहीं, कोई प्रतिबंध नहीं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### CharacterAI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-characterai.webp" alt="CharacterAI">
 
@@ -1933,21 +1955,6 @@ AI द्वारा जेनरेट किया गया स्वैग�
 <br />
 
 <br />
-
-
-### AI Pokemon generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-pokemon-generator.webp" alt="AI Pokemon generator">
-
-#### AI का उपयोग करके Fakemon उत्पन्न करें
-[Visit](https://www.thataicollection.com/redirect/ai-pokemon-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-डिजाइन को निर्देशित करने के लिए सरल पाठ संकेतों का उपयोग करके अपने फेकमोन को पहले कभी नहीं बनाएं। एक उग्र, ड्रैगन जैसा प्राणी या एक प्यारा, घास वाला गड्ढा चाहते हैं? आपके पास शक्ति है! आज ही गोता लगाएँ, एक्सप्लोर करें और अपने सपनों का फेकमन बनाएं!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-pokemon-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 
