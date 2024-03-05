@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1135" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1150" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -57,6 +57,37 @@ Translations:
     <h5>Top Picks</h5>
     <p>AI Collection's top picks are</p>
 </div>
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
+    </a>
+    <h4>Fotor - Online photo editor for everyone. Edit photos faster and easier with AI.</h4>
+    <p>online photo editor offers everything you need to enhance and edit photos effortlessly. Experience simple photo editing online for free! . Complex photo editing made simple with Fotor AI photo editor. AI Photo Enhancer, AI Background Remover, AI Object Remover and more.
+
+
+</p>
+    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Fotor</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    </a>
+    <h4>Start chatting for free with our scary fast NSFW AI character engine. Playful, helpful, our 7500+ AI sexting characters got it. Uncensored AI, no judgment. You are in control.</h4>
+    <p>Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.
+
+Your wildest dreams are just a click away today!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -243,6 +274,7 @@ Translations:
 | [Imaginator](https://www.thataicollection.com/redirect/imaginator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Imaginator - Turn Your Text Into Images. | Imagine being able to see your thoughts come alive in front of you. No longer just a thought, an image now becomes the reality. | :grey_question: |
 | [Imagine Me](https://www.thataicollection.com/redirect/imagine-me?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Home - Imagine Me. | Imagine Me is the first online platform that lets you generate stunning AI art of yourself, with just a simple line of text. | :grey_question: |
 | [Imajinn AI Children's Book](https://www.thataicollection.com/redirect/imajinn-ai-childrens-book?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Imajinn AI. | Visualization re-imajinned with fine-tuned AI. Generate profile pictures, product images, brands and styles limited only by your imagination!. | :grey_question: |
+| [ImgGen AI](https://www.thataicollection.com/redirect/imggen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ImgGen AI - AI-powered image generator & editor, 100% free. | ImgGen AI is a free AI image generator and enhancement tool, that simplifies complex enhancements like generating images, background removal, text removal, unblurring images, upscaling, and more. Generate professional AI headshots for Free with Imggen AI. | :white_check_mark: |
 | [IMGN - Image Engine](https://www.thataicollection.com/redirect/imgn---image-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Imagine AI – Advanced Tech Made Easy to Use. | We all hear about the power and possibilities of artificial intelligence. But for everyone outside of the field it sounds like this complex matter beyond our understanding. Imagine AI was founded to empower others to get all the benefits without any of the hassle. This is also why we created the IMGN app. | :grey_question: |
 | [Kiri.art](https://www.thataicollection.com/redirect/kiri.art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Kiri.Art. | Diffusion Image Generation. | :grey_question: |
 | [Krea](https://www.thataicollection.com/redirect/krea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Canvas. | Introducing the AI Canvas, by Krea. | :grey_question: |
@@ -526,6 +558,7 @@ Translations:
 | [Summari](https://www.thataicollection.com/redirect/summari?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Improve the Reading Experience on Your Site. | Upgrade links into short, informative previews using our world-class AI summarization technology. | :grey_question: |
 | [Taskade](https://www.thataicollection.com/redirect/taskade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | A Second Brain for You and Your Teams. Five AI-powered Tools in One to Supercharge Your Team Productivity. With Taskade, All Your Work Is in Sync in One Unified Workspace. | Taskade is the first collaborative AI writer and outliner for teams with built-in task management and video chat. Create mind maps, task lists, and take structured notes in real-time with your team. | :white_check_mark: |
 | [TLDR This](https://www.thataicollection.com/redirect/tldr-this?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TLDR This - Article Summarizer & Online Text Summarizing Tool. | This helps you summarize any piece of text into concise, easy to digest content so you can free yourself from information overload. | :white_check_mark: |
+| [TrollyAI](https://www.thataicollection.com/redirect/trollyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create professional SEO articles, 2x faster. | Trolly AI: Revolutionizing SEO Content Creation with Advanced AI Technology.   In the digital age, content is king. But not just any content – it needs to be optimized, grammatically correct, and produced at scale to meet the ever-growing demands of online presence. Trolly AI emerges as a cutting-edge solution, specifically designed to cater to these needs with its advanced AI-driven capabilities. | :grey_question: |
 | [TweetStorm.ai](https://www.thataicollection.com/redirect/tweetstorm.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-Powered Tweet Generator. | Generate Tweets, Bios, Hashtags and Usernames using AI GPT4. | :white_check_mark: |
 | [Typli](https://www.thataicollection.com/redirect/typli?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Typli.Ai - AI Writer & Seo Writing Assistant. | The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant. | :white_check_mark: |
 | [unbound](https://www.thataicollection.com/redirect/unbound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Automate Content Creation for Your Small Business. | Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators. | :white_check_mark: |
@@ -616,6 +649,7 @@ Translations:
 ## Education & Learning
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [Architecture Helper](https://www.thataicollection.com/redirect/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Analyze any building architecture, and generate your own custom styles, in seconds. | Architecture Helper is a platform for analyzing and exploring various architectural styles and influences through user-submitted photographs. | :white_check_mark: |
 | [Botta](https://www.thataicollection.com/redirect/botta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Having Trouble With a Topic? Meet Botta. | Your free, personal teaching assistant. Ask questions, get answers. Botta makes online learning a breeze. | :white_check_mark: |
 | [Caktus](https://www.thataicollection.com/redirect/caktus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Caktus AI - BEST-IN-CLASS AI HELPER FOR STUDENTS. | The most powerful AI built for students. Instantly write, solve, code, and more with Caktus AI. Caktus is a study tool to grow your mind with your own affordable AI assistant designed specifically for homework and learning. | :grey_question: |
 | [Classicquiz.com](https://www.thataicollection.com/redirect/classicquiz.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Classicquiz offers a platform for creating and playing interactive live quizzes. | Classicquiz offers a platform for creating and playing interactive live quizzes. Participants answer questions via their phones in real-time, fostering engagement and creating a fun, competitive atmosphere. With our AI question generator users can automatically generate questions based on some text they provide. | :white_check_mark: |
@@ -987,6 +1021,7 @@ Translations:
 | [Colorize](https://www.thataicollection.com/redirect/colorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Colorize Photo With Power of Deep Learning. | Colorize photo online Colorize.cc - is AI service which colorize black and white photo and video. In few clicks you can touch the magic of machine learning technologies. Colorize hundreds of your family photos in few minutes. | :x: |
 | [Edit @ Scale](https://www.thataicollection.com/redirect/edit-@-scale?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Batch Editor for Your Product Photos. | Transform your e-commerce business with Edit @ Scale, the ultimate batch editor for product photos. Save time and effort by seamlessly enhancing multiple images at once with beautiful, unique backgrounds. | :white_check_mark: |
 | [ExtendImage](https://www.thataicollection.com/redirect/extendimage?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Extendimageai - Extend Your Images With Generative AI. | ExtendImageAI is a tool that allows you to extend your images with generative AI. | :grey_question: |
+| [Face Swap AI](https://www.thataicollection.com/redirect/face-swap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Face Swap Online - Face Swap Online Free. | Easily and quickly put your face into any photo using AI technology! With the advancement of artificial intelligence, it is now possible to seamlessly integrate your face into any photo, creating realistic and convincing results. | :white_check_mark: |
 | [FaceSwapper](https://www.thataicollection.com/redirect/faceswapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unleash the Laughter: How FaceSwapper AI Transforms Faces for Hilarious Fun!. | Unleash your creativity with FaceSwapper.AI, the cutting-edge AI-powered face swapping tool. Transform ordinary photos into extraordinary masterpieces by effortlessly swapping faces with just a few clicks. Our intuitive interface makes it a breeze to navigate, ensuring that even beginners can create stunning and hilarious face swaps. Explore endless possibilities for fun and artistic expression!. | :white_check_mark: |
 | [FaceVary](https://www.thataicollection.com/redirect/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Free online face changer that allows you to swap heads and replace faces in photos. | FaceVary is a revolutionary new product that allows you to swap faces in photos with just a few taps. It's easy to use, and there are no watermarks or ads. With FaceVary, you can swap your face with your friends, celebrities, or even historical figures. You can create funny videos, memes, and collages, or just have some fun experimenting with your appearance. | :white_check_mark: |
 | [FinalTouch](https://www.thataicollection.com/redirect/finaltouch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Professional Photography and Design Power at Your Fingertips. | FinalTouch takes you from a plain product photo to a captivating scene, in an instant. You don’t need to be an expert designer to wow customers with studio-quality images. Create multiple images of the same product in any setting you like, to breathe new life into your digital presence and marketing campaigns. | :white_check_mark: |
@@ -1416,6 +1451,7 @@ Translations:
 | [HitPaw Online Video Enhancer](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | One-Click to Unblur and Upscale Your Video by Trained AI. | HitPaw Online Video Enhancer is the best solution for low resolution videos, increase video solution up to 1080P/4K with no efforts. | :x: |
 | [HitPaw Video Enhancer](https://www.thataicollection.com/redirect/hitpaw-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | HitPaw Video Enhancer - High Quality AI Video Resolution Enhancer. | HitPaw Video Enhancer helps to easily upscale and enhance video quality without losing quality. This AI video enhancer can improve the quality of a video, colorize black and white video, convert low-quality video to 1080P, 4K, up to 8K. HitPaw video upscaler helps increase any video with multiple AI models: Denoise, Animation, Face, Colorize, Color Enhancement, Frame Interpolation Model, Stabilize. | :white_check_mark: |
 | [Hour One](https://www.thataicollection.com/redirect/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Make AI Videos to Train Anyone or Explain Anything - Hour One. | The only AI video generator with customized video templates, AI presenters in different accents and languages, and more. Try for free TODAY!. | :white_check_mark: |
+| [Magic Hour](https://www.thataicollection.com/redirect/magic-hour?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Magic Hour Simplifies Video Creation Like Canva Simplified Design. | Magic Hour is an AI video platform that enables users to create stunning AI videos with just a few clicks. It automates the entire video production process and allows users to transform existing videos into new content. Magic Hour also enables users to generate engaging visual content that will engage and grow their audience. | :white_check_mark: |
 | [Make a Video](https://www.thataicollection.com/redirect/make-a-video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Make-A-Video is a state-of-the-art AI system that generates videos from text. | Make-A-Video research builds on the recent progress made in text-to-image generation technology built to enable text-to-video generation. The system uses images with descriptions to learn what the world looks like and how it is often described. With this data, Make-A-Video lets you bring your imagination to life by generating whimsical, one-of-a-kind videos with just a few words or lines of text. | :grey_question: |
 | [Move](https://www.thataicollection.com/redirect/move?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Move AI. | Capture high quality motion data from video in any environment using mobile phones. | :grey_question: |
 | [Neural Studio](https://www.thataicollection.com/redirect/neural-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Neuralcam - We build smart camera apps with AI powered image processing. | We build AI powered camera apps. We think that the newly developed deep learning technologies have enabled the creation of a new category of devices called Smart Cameras — cameras that not just see and record the world but can also understand what they see and can even react to events in real-time. | :grey_question: |

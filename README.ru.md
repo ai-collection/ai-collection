@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1135" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1150" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,43 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    </a>
+    <h4>Начните общаться бесплатно с помощью нашего страшно быстрого движка персонажей NSFW AI. Более 7500 наших секс-персонажей с искусственным интеллектом это поняли, игривые и отзывчивые. Искусственный интеллект без цензуры, никаких суждений. Все в ваших руках.</h4>
+    <p>Разнообразие от доминирующих до покорных и не только. Заходите прямо сейчас, чтобы получать доступ к секстингу с искусственным интеллектом в режиме 24/7 и пикантным чатам, которые заставят вас затаить дыхание.
+
+Сегодня от ваших самых смелых мечтаний вас отделяет всего один клик!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
     </a>
     <h4>Индивидуальные сопроводительные письма к каждой вакансии за считанные секунды</h4>
     <p>Попросите ИИ изучить до 10 выходов одновременно и выбрать лучший на основе выбранного вами критерия. Дело не только в количестве, но и в том, чтобы получить наилучший результат.</p>
     <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с PowerDreamer AI Cover Letter Generator</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
+    </a>
+    <h4>Fotor — онлайн-редактор фотографий для всех. Редактируйте фотографии быстрее и проще с помощью искусственного интеллекта.</h4>
+    <p>онлайн-редактор фотографий предлагает все необходимое для легкого улучшения и редактирования фотографий. Попробуйте простое редактирование фотографий онлайн бесплатно! . Сложное редактирование фотографий стало проще с помощью фоторедактора Fotor AI. AI Photo Enhancer, средство для удаления фона AI, средство для удаления объектов AI и многое другое.
+
+
+</p>
+    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Fotor</b></a>
     <br />
 </div>
 
@@ -124,6 +155,83 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### Magic Hour
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magic-hour.webp" alt="Magic Hour">
+
+#### Magic Hour упрощает создание видео, как упрощенный дизайн Canva
+[Visit](https://www.thataicollection.com/redirect/magic-hour?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Magic Hour — это видеоплатформа с искусственным интеллектом, которая позволяет пользователям создавать потрясающие видеоролики с искусственным интеллектом всего за несколько кликов. Она автоматизирует весь процесс производства видео и позволяет пользователям преобразовывать существующие видео в новый контент. Magic Hour также позволяет пользователям создавать интересный визуальный контент, который привлечет и расширит аудиторию.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/magic-hour?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Architecture Helper
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-architecture-helper.webp" alt="Architecture Helper">
+
+#### Анализируйте любую архитектуру здания и создавайте собственные стили за считанные секунды.
+[Visit](https://www.thataicollection.com/redirect/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Architecture Helper — это платформа для анализа и изучения различных архитектурных стилей и влияний с помощью фотографий, предоставленных пользователями.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### ImgGen AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-imggen-ai.webp" alt="ImgGen AI">
+
+#### ImgGen AI - генератор и редактор изображений на базе искусственного интеллекта, 100% бесплатный
+[Visit](https://www.thataicollection.com/redirect/imggen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ImgGen AI — это бесплатный генератор и инструмент для улучшения изображений с искусственным интеллектом, который упрощает сложные улучшения, такие как создание изображений, удаление фона, удаление текста, размытие изображений, масштабирование и многое другое. Создавайте профессиональные снимки головы с искусственным интеллектом бесплатно с помощью Imggen AI.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/imggen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### TrollyAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-trollyai.webp" alt="TrollyAI">
+
+#### Создавайте профессиональные SEO-статьи в 2 раза быстрее
+[Visit](https://www.thataicollection.com/redirect/trollyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Trolly AI: революция в создании SEO-контента с помощью передовых технологий искусственного интеллекта. 
+
+В цифровую эпоху контент играет ведущую роль. Но не просто любой контент — его нужно оптимизировать, грамматически правильно и выпускать в нужном масштабе, чтобы соответствовать постоянно растущим требованиям онлайн-присутствия. Trolly AI представляет собой передовое решение, специально разработанное для удовлетворения этих потребностей благодаря передовым возможностям на основе искусственного интеллекта
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/trollyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Face Swap AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-face-swap-ai.webp" alt="Face Swap AI">
+
+#### Face Swap онлайн - обмен лицами онлайн бесплатно
+[Visit](https://www.thataicollection.com/redirect/face-swap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Легко и быстро поместите свое лицо на любую фотографию с помощью технологии искусственного интеллекта! Благодаря развитию искусственного интеллекта теперь можно легко интегрировать ваше лицо в любую фотографию, создавая реалистичные и убедительные результаты. 
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/face-swap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### DreamGen: AI role-playing and strory-writing
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
 
@@ -153,92 +261,6 @@ PDF GPT — инструмент, меняющий правила игры, ко
 3. PDF GPT найдет нужную информацию и даст вам ответ или создаст контент с цитатами за считанные секунды.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/pdf-gpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Anime Girlfriend
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-anime-girlfriend.webp" alt="AI Anime Girlfriend">
-
-#### Подруга из аниме с искусственным интеллектом: вас ждет искусственный интеллект вашей мечты...
-[Visit](https://www.thataicollection.com/redirect/ai-anime-girlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Лучший аниме-чат с девушкой из аниме с искусственным интеллектом: выберите идеального AI waifu и получайте изображения с помощью нашего генератора аниме-ИИ. Погрузитесь в игру!
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-anime-girlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Your AI Girlfriend online
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-your-ai-girlfriend-online.webp" alt="Your AI Girlfriend online">
-
-#### Ваша девушка с искусственным интеллектом онлайн - познакомьтесь с девушкой своей мечты
-[Visit](https://www.thataicollection.com/redirect/your-ai-girlfriend-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Добро пожаловать в лучший чат NSFW AI, созданный с помощью частного генератора NSFW AI! 🔥
-
-Это все удовольствие от свиданий без лишних хлопот. 
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/your-ai-girlfriend-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Bard PDF
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bard-pdf.webp" alt="Bard PDF">
-
-#### Идеальный инструмент на базе искусственного интеллекта для суммирования и анализа PDF-документов
-[Visit](https://www.thataicollection.com/redirect/bard-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-BARD PDF меняет подход к работе с PDF-файлами. Просто введите веб-адрес PDF-файла, и передовая технология BARD PDF расшифрует его содержимое. Создавайте подробные сводки, ищите ответы на свои вопросы в тексте PDF-файла и участвуйте в интерактивных обсуждениях с самим документом. BARD PDF оптимизирует ваше время и повышает производительность!
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/bard-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### BabAI Child Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-babai.webp" alt="BabAI Child Generator">
-
-#### Создавайте изображения своих будущих детей с помощью AI ✨
-[Visit](https://www.thataicollection.com/redirect/babai-child-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-BaBai — это идеальный генератор детей, основанный на фотографиях родителей. Просто отправьте 2 изображения (1 для отца и 1 для матери) и получите изображение ребенка, созданное искусственным интеллектом, в течение 9 часов.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/babai-child-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Human or Not: Did You Talk to AI or Human
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-human-or-not:-a-social-turing-game.webp" alt="Human or Not: Did You Talk to AI or Human">
-
-#### Общайтесь в чате в течение двух минут и угадайте, с кем вы разговариваете: с человеком или с ботом с искусственным интеллектом.
-[Visit](https://www.thataicollection.com/redirect/human-or-not-did-you-talk-to-ai-or-human?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Социальная игра Тьюринга на базе искусственного интеллекта
-
-Общайтесь в чате в течение двух минут и угадайте, с кем вы разговариваете: с человеком или ботом с искусственным интеллектом.
-
-Ключевые особенности:
-* Двухминутные интерактивные сеансы чата.
-* Попытайтесь отличить разговоры между людьми и искусственным интеллектом.
-* Испытайте разнообразное взаимодействие, похожее на чатрулет, с искусственным интеллектом или людьми.
-* Поделитесь готовыми чатами с друзьями, чтобы они могли догадаться.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/human-or-not-did-you-talk-to-ai-or-human?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1620,16 +1642,15 @@ Gizzmo — мощный плагин WordPress, упрощающий проце�
 <br />
 
 
-### Classicquiz.com
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-classicquiz.com.webp" alt="Classicquiz.com">
+### Architecture Helper
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-architecture-helper.webp" alt="Architecture Helper">
 
-#### Classicquiz предлагает платформу для создания интерактивных живых викторин и участия в них.
-[Visit](https://www.thataicollection.com/redirect/classicquiz.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Анализируйте любую архитектуру здания и создавайте собственные стили за считанные секунды.
+[Visit](https://www.thataicollection.com/redirect/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Classicquiz предлагает платформу для создания интерактивных живых викторин и участия в них. Участники отвечают на вопросы по телефону в режиме реального времени, что способствует вовлечению и созданию веселой соревновательной атмосферы. С помощью нашего генератора вопросов с искусственным интеллектом пользователи могут автоматически создавать вопросы на основе предоставленного ими текста. 
+Architecture Helper — это платформа для анализа и изучения различных архитектурных стилей и влияний с помощью фотографий, предоставленных пользователями.
 
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/classicquiz.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

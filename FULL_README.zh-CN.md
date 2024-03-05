@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1135" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1150" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -59,6 +59,37 @@
     <h4>在几秒钟内为每个空缺职位量身定制求职信</h4>
     <p>让 AI 同时探索多达 10 个输出，并根据您选择的标准选择最佳输出。这不仅仅是数量：而是要给你带来尽可能好的结果。</p>
     <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 PowerDreamer AI Cover Letter Generator</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    </a>
+    <h4>使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。</h4>
+    <p>从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。
+
+今天只需点击一下即可实现您最疯狂的梦想！</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
+    </a>
+    <h4>Fotor-适合所有人的在线照片编辑器。使用 AI 更快、更轻松地编辑照片。</h4>
+    <p>在线照片编辑器提供您轻松增强和编辑照片所需的一切。免费在线体验简单的照片编辑！。使用Fotor AI照片编辑器可以轻松进行复杂的照片编辑。AI 照片增强器、AI 背景去除器、AI 对象移除器等。
+
+
+</p>
+    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Fotor</b></a>
     <br />
 </div>
 
@@ -325,6 +356,7 @@
 | [Summari](https://www.thataicollection.com/redirect/summari?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 改善您网站上的阅读体验. | 使用我们世界一流的 AI 摘要技术将链接升级为简短、信息丰富的预览。. | :grey_question: |
 | [Taskade](https://www.thataicollection.com/redirect/taskade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您和您的团队的第二大脑。五合一的人工智能工具可提高您的团队生产力。借助 Taskade，您的所有工作都可以在一个统一的工作空间中同步。. | Taskade 是首个面向团队的协作式 AI 编写器和概述器，具有内置任务管理和视频聊天功能。创建思维导图、任务列表，并与您的团队实时进行结构化笔记。. | :white_check_mark: |
 | [TLDR This](https://www.thataicollection.com/redirect/tldr-this?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TLDR This - 文章摘要和在线文本摘要工具. | 这有助于您将任何一段文本概括为简洁、易于理解的内容，从而使您从信息过载中解脱出来。. | :white_check_mark: |
+| [TrollyAI](https://www.thataicollection.com/redirect/trollyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创建专业的 SEO 文章，速度加快 2 倍. | Trolly AI：利用先进的人工智能技术彻底改变SEO内容创作。   在数字时代，内容为王。但不仅仅是任何内容——它需要优化、语法正确并大规模制作，以满足不断增长的在线存在需求。Trolly AI 以尖端解决方案的形式出现，专为通过其先进的人工智能驱动功能满足这些需求而设计。. | :grey_question: |
 | [TweetStorm.ai](https://www.thataicollection.com/redirect/tweetstorm.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 驱动的推文生成器。. | 使用 AI GPT4 生成推文、Bios、标签和用户名. | :white_check_mark: |
 | [Typli](https://www.thataicollection.com/redirect/typli?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Typli.Ai - AI 写手 & SEO 写作助手. | 最直观的人工智能内容工具，结合了人工智能写作和搜索引擎优化助手。. | :white_check_mark: |
 | [unbound](https://www.thataicollection.com/redirect/unbound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为您的小型企业自动创建内容. | 在一个地方利用所有最好的 AI 生成工具，旨在为小型企业、在线商店和创作者自动创建内容。. | :white_check_mark: |
@@ -678,6 +710,7 @@
 ## 教育与学习
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
+| [Architecture Helper](https://www.thataicollection.com/redirect/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 分析任何建筑架构，并在几秒钟内生成自己的自定义样式。. | Architecture Helper 是一个通过用户提交的照片分析和探索各种建筑风格和影响的平台。. | :white_check_mark: |
 | [Botta](https://www.thataicollection.com/redirect/botta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 话题有问题？认识博塔. | 您的免费个人助教。提出问题，获得答案。 Botta 让在线学习变得轻而易举。. | :white_check_mark: |
 | [Caktus](https://www.thataicollection.com/redirect/caktus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Caktus AI-一流的学生人工智能助手. | 专为学生打造的最强大的人工智能。使用 Caktus AI 即时编写、求解、编码等。Caktus 是一款学习工具，可使用专为家庭作业和学习而设计的自己经济实惠的 AI 助手来发展思维。. | :grey_question: |
 | [Classicquiz.com](https://www.thataicollection.com/redirect/classicquiz.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Classicquiz 为创建和玩交互式现场测验提供了一个平台。. | Classicquiz 为创建和玩交互式现场测验提供了一个平台。参与者通过手机实时回答问题，促进参与度并营造一种有趣、竞争激烈的氛围。使用我们的 AI 问题生成器，用户可以根据他们提供的一些文本自动生成问题。. | :white_check_mark: |
@@ -834,6 +867,7 @@
 | [Colorize](https://www.thataicollection.com/redirect/colorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 利用深度学习的力量为照片着色. | 在线为照片着色 Colorize.cc - 是一种为黑白照片和视频着色的人工智能服务。只需点击几下，您就可以感受到机器学习技术的魔力。在几分钟内为数百张家庭照片着色。. | :x: |
 | [Edit @ Scale](https://www.thataicollection.com/redirect/edit-@-scale?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 产品照片的人工智能批量编辑器. | 使用 Edit @ Scale（产品照片的终极批量编辑器）转变您的电子商务业务。使用美丽、独特的背景同时无缝增强多个图像，从而节省时间和精力。. | :white_check_mark: |
 | [ExtendImage](https://www.thataicollection.com/redirect/extendimage?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ExtendImageAI - 使用生成式 AI 扩展您的图像. | ExtendImageAI 是一种工具，可让您使用生成式 AI 扩展图像。. | :grey_question: |
+| [Face Swap AI](https://www.thataicollection.com/redirect/face-swap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在线换脸-在线免费换脸. | 使用人工智能技术，轻松快速地将你的脸放到任何照片中！随着人工智能的进步，现在可以将您的脸部无缝集成到任何照片中，从而产生逼真而令人信服的效果。. | :white_check_mark: |
 | [FaceSwapper](https://www.thataicollection.com/redirect/faceswapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 释放笑声：FaceSwapper AI 如何变换面孔以获得搞笑乐趣！. | 使用 FaceSwapper.AI（基于人工智能的尖端面部交换工具）释放您的创造力。只需点击几下即可毫不费力地交换面孔，将普通照片变成非凡的杰作。我们直观的界面使浏览变得轻而易举，确保即使是初学者也可以创建令人惊叹而有趣的脸部互换。探索无限的可能性，实现乐趣和艺术表达！. | :white_check_mark: |
 | [FaceVary](https://www.thataicollection.com/redirect/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费的在线换脸器，可让您交换头部并替换照片中的面孔。. | FaceVary 是一款革命性的新产品，只需轻点几下即可交换照片中的面孔。它易于使用，并且没有水印或广告。 使用 FaceVary，你可以与朋友、名人甚至历史人物交换脸。你可以制作有趣的视频、模因和拼贴画，或者只是尝试一下自己的外表。. | :white_check_mark: |
 | [FinalTouch](https://www.thataicollection.com/redirect/finaltouch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 专业摄影和设计力量触手可及. | FinalTouch 瞬间将您从普通的产品照片转变为迷人的场景。您无需成为专业设计师即可通过工作室品质的图像让客户惊叹不已。在您喜欢的任何环境中创建同一产品的多个图像，为您的数字形象和营销活动注入新的活力。. | :white_check_mark: |
@@ -1272,6 +1306,7 @@
 | [Imaginator](https://www.thataicollection.com/redirect/imaginator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Imaginator - 把你的文字变成图片. | 想象一下，能够看到您的想法在您面前栩栩如生。不再只是一个想法，一个形象现在变成了现实。. | :grey_question: |
 | [Imagine Me](https://www.thataicollection.com/redirect/imagine-me?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 家 - 想象我. | Imagine Me 是第一个在线平台，只需一行简单的文本，您就可以生成令人惊叹的 AI 艺术作品。. | :grey_question: |
 | [Imajinn AI Children's Book](https://www.thataicollection.com/redirect/imajinn-ai-childrens-book?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 真人AI. | 通过微调的 AI 重新想象可视化。生成个人资料图片、产品图片、品牌和款式，只受您的想象力限制！. | :grey_question: |
+| [ImgGen AI](https://www.thataicollection.com/redirect/imggen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | imgGen AI-人工智能驱动的图像生成器和编辑器，100% 免费. | ImgGen AI 是一款免费的 AI 图像生成器和增强工具，可简化复杂的增强功能，例如生成图像、移除背景、移除文本、消除图像模糊、放大等等。使用 Imgen AI 免费生成专业的人工智能头像。. | :white_check_mark: |
 | [IMGN - Image Engine](https://www.thataicollection.com/redirect/imgn---image-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 想象一下 AI – 先进的技术易于使用. | 我们都听说过人工智能的力量和可能性。但对于该领域以外的每个人来说，这听起来像是超出我们理解范围的复杂问题。想象一下，人工智能的建立是为了让其他人能够毫无困难地获得所有好处。这也是我们创建 IMGN 应用程序的原因。. | :grey_question: |
 | [Kiri.art](https://www.thataicollection.com/redirect/kiri.art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Kiri.艺术. | 扩散图像生成. | :grey_question: |
 | [Krea](https://www.thataicollection.com/redirect/krea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能画布. | 介绍 AI Canvas，作者：Krea. | :grey_question: |
@@ -1379,6 +1414,7 @@
 | [HitPaw Online Video Enhancer](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过训练有素的 AI 一键取消模糊和升级您的视频。. | HitPaw Online Video Enhancer 是低分辨率视频的最佳解决方案，可以毫不费力地将视频解决方案提高到 1080P/4K。. | :x: |
 | [HitPaw Video Enhancer](https://www.thataicollection.com/redirect/hitpaw-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | HitPaw 视频增强器-高品质 AI 视频分辨率增强器. | HitPaw Video Enhancer 有助于在不损失质量的情况下轻松升级和提高视频质量。这款 AI 视频增强器可以提高视频质量，为黑白视频着色，将低质量的视频转换为 1080P、4K，最高可达 8K。 HitPaw video upscaler 可帮助使用多个 AI 模型增加任何视频：降噪、动画、面部、着色、色彩增强、帧插值模型、稳定. | :white_check_mark: |
 | [Hour One](https://www.thataicollection.com/redirect/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 制作人工智能视频来训练任何人或解释任何事情-Hour One. | 唯一一款具有自定义视频模板、不同口音和语言的人工智能演示者等的 AI 视频生成器。今天免费试用！. | :white_check_mark: |
+| [Magic Hour](https://www.thataicollection.com/redirect/magic-hour?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Magic Hour 像 Canva 简化设计一样简化视频创作. | Magic Hour 是一个 AI 视频平台，使用户只需点击几下即可创建精彩的 AI 视频。它使整个视频制作过程自动化，并允许用户将现有视频转换为新内容。Magic Hour还使用户能够生成引人入胜的视觉内容，从而吸引和增加受众。. | :white_check_mark: |
 | [Make a Video](https://www.thataicollection.com/redirect/make-a-video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Make-A-Video 是一种最先进的人工智能系统，可以从文本生成视频。. | Make-A-Video研究建立在文本到图像生成技术的最新进展的基础上，该技术旨在实现文本到视频的生成。该系统使用带有描述的图像来了解世界是什么样子以及通常是如何描述世界的。有了这些数据，Make-A-Video 只需几个字或几行文字就能生成异想天开、独一无二的视频，让你的想象力变为现实。. | :grey_question: |
 | [Move](https://www.thataicollection.com/redirect/move?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 移动爱. | 使用手机在任何环境中从视频中捕获高质量的运动数据。. | :grey_question: |
 | [Neural Studio](https://www.thataicollection.com/redirect/neural-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Neuralcam-我们开发智能相机应用程序 采用 AI 驱动的图像处理. | 我们开发基于人工智能的相机应用程序。我们认为，新开发的深度学习技术促成了一类名为智能相机的新设备——相机不仅可以看到和记录世界，还可以理解所看到的内容，甚至可以实时对事件做出反应。. | :grey_question: |

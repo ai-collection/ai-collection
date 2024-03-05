@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1135" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1150" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -59,6 +59,37 @@
     <h4>在几秒钟内为每个空缺职位量身定制求职信</h4>
     <p>让 AI 同时探索多达 10 个输出，并根据您选择的标准选择最佳输出。这不仅仅是数量：而是要给你带来尽可能好的结果。</p>
     <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 PowerDreamer AI Cover Letter Generator</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    </a>
+    <h4>使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。</h4>
+    <p>从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。
+
+今天只需点击一下即可实现您最疯狂的梦想！</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
+    </a>
+    <h4>Fotor-适合所有人的在线照片编辑器。使用 AI 更快、更轻松地编辑照片。</h4>
+    <p>在线照片编辑器提供您轻松增强和编辑照片所需的一切。免费在线体验简单的照片编辑！。使用Fotor AI照片编辑器可以轻松进行复杂的照片编辑。AI 照片增强器、AI 背景去除器、AI 对象移除器等。
+
+
+</p>
+    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Fotor</b></a>
     <br />
 </div>
 
@@ -124,6 +155,83 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### Magic Hour
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magic-hour.webp" alt="Magic Hour">
+
+#### Magic Hour 像 Canva 简化设计一样简化视频创作
+[Visit](https://www.thataicollection.com/redirect/magic-hour?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Magic Hour 是一个 AI 视频平台，使用户只需点击几下即可创建精彩的 AI 视频。它使整个视频制作过程自动化，并允许用户将现有视频转换为新内容。Magic Hour还使用户能够生成引人入胜的视觉内容，从而吸引和增加受众。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/magic-hour?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Architecture Helper
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-architecture-helper.webp" alt="Architecture Helper">
+
+#### 分析任何建筑架构，并在几秒钟内生成自己的自定义样式。
+[Visit](https://www.thataicollection.com/redirect/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Architecture Helper 是一个通过用户提交的照片分析和探索各种建筑风格和影响的平台。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### ImgGen AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-imggen-ai.webp" alt="ImgGen AI">
+
+#### imgGen AI-人工智能驱动的图像生成器和编辑器，100% 免费
+[Visit](https://www.thataicollection.com/redirect/imggen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ImgGen AI 是一款免费的 AI 图像生成器和增强工具，可简化复杂的增强功能，例如生成图像、移除背景、移除文本、消除图像模糊、放大等等。使用 Imgen AI 免费生成专业的人工智能头像。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/imggen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### TrollyAI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-trollyai.webp" alt="TrollyAI">
+
+#### 创建专业的 SEO 文章，速度加快 2 倍
+[Visit](https://www.thataicollection.com/redirect/trollyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Trolly AI：利用先进的人工智能技术彻底改变SEO内容创作。 
+
+在数字时代，内容为王。但不仅仅是任何内容——它需要优化、语法正确并大规模制作，以满足不断增长的在线存在需求。Trolly AI 以尖端解决方案的形式出现，专为通过其先进的人工智能驱动功能满足这些需求而设计。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/trollyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Face Swap AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-face-swap-ai.webp" alt="Face Swap AI">
+
+#### 在线换脸-在线免费换脸
+[Visit](https://www.thataicollection.com/redirect/face-swap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用人工智能技术，轻松快速地将你的脸放到任何照片中！随着人工智能的进步，现在可以将您的脸部无缝集成到任何照片中，从而产生逼真而令人信服的效果。 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/face-swap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### DreamGen: AI role-playing and strory-writing
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
 
@@ -153,92 +261,6 @@ PDF GPT 是一款可以提高工作效率的游戏规则改变工具。
 3.PDF GPT 将找到您需要的信息，给出答案或在几秒钟内生成内容，并附上引文。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pdf-gpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AI Anime Girlfriend
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-anime-girlfriend.webp" alt="AI Anime Girlfriend">
-
-#### AI 动漫女友：你的梦想 AI waifu 在等着你...
-[Visit](https://www.thataicollection.com/redirect/ai-anime-girlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-与AI动漫女友的最佳动漫聊天：选择完美的AI waifu并使用我们的动漫AI生成器获取图像。潜入水中！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-anime-girlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Your AI Girlfriend online
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-your-ai-girlfriend-online.webp" alt="Your AI Girlfriend online">
-
-#### 你的AI女友在线-认识你的梦想女友
-[Visit](https://www.thataicollection.com/redirect/your-ai-girlfriend-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-欢迎来到使用私人NSFW人工智能生成器量身定制的最好的NSFW AI聊天室！🔥
-
-一切都是约会的乐趣，没有麻烦。 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/your-ai-girlfriend-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Bard PDF
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bard-pdf.webp" alt="Bard PDF">
-
-#### 由人工智能驱动的终极工具，用于汇总和分析 PDF 文档
-[Visit](https://www.thataicollection.com/redirect/bard-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-BARD PDF 重新定义了您使用 PDF 的方式。只需输入 PDF 的网址，让 BARD PDF 的先进技术解密其内容。生成全面的摘要，在 PDF 的文本中寻找问题的答案，并与文档本身进行互动讨论。BARD PDF 可优化您的时间，提高您的工作效率！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/bard-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### BabAI Child Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-babai.webp" alt="BabAI Child Generator">
-
-#### 使用 AI ✨ 生成你未来的孩子的照片
-[Visit](https://www.thataicollection.com/redirect/babai-child-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-BabaI 是基于父母照片的终极儿童生成器。只需提交 2 张图片（1 张给父亲，1 张给母亲），即可在 9 小时内收到人工智能生成的儿童图片。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/babai-child-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Human or Not: Did You Talk to AI or Human
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-human-or-not:-a-social-turing-game.webp" alt="Human or Not: Did You Talk to AI or Human">
-
-#### 聊天两分钟，猜猜你是在和人类还是人工智能机器人说话。
-[Visit](https://www.thataicollection.com/redirect/human-or-not-did-you-talk-to-ai-or-human?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-人工智能驱动的社交图灵游戏
-
-聊天两分钟，猜猜你是在和人类还是人工智能机器人说话。
-
-主要特点：
-* 两分钟的互动聊天会话。
-* 挑战自我，辨别人与人工智能的对话。
-*与人工智能或人类体验各种互动，类似于聊天室。
-* 与朋友分享您完成的聊天，让他们猜一猜。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/human-or-not-did-you-talk-to-ai-or-human?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1622,16 +1644,15 @@ AI 课程创建器，可让您在几分钟内轻松使用 AI 创建课程。试�
 <br />
 
 
-### Classicquiz.com
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-classicquiz.com.webp" alt="Classicquiz.com">
+### Architecture Helper
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-architecture-helper.webp" alt="Architecture Helper">
 
-#### Classicquiz 为创建和玩交互式现场测验提供了一个平台。
-[Visit](https://www.thataicollection.com/redirect/classicquiz.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 分析任何建筑架构，并在几秒钟内生成自己的自定义样式。
+[Visit](https://www.thataicollection.com/redirect/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Classicquiz 为创建和玩交互式现场测验提供了一个平台。参与者通过手机实时回答问题，促进参与度并营造一种有趣、竞争激烈的氛围。使用我们的 AI 问题生成器，用户可以根据他们提供的一些文本自动生成问题。 
+Architecture Helper 是一个通过用户提交的照片分析和探索各种建筑风格和影响的平台。
 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/classicquiz.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

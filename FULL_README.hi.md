@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1135" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1150" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,43 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
+    </a>
+    <h4>फ़ॉटर - हर किसी के लिए ऑनलाइन फ़ोटो एडिटर। AI की मदद से फ़ोटो को तेज़ी से और आसानी से एडिट करें।</h4>
+    <p>ऑनलाइन फ़ोटो एडिटर तुम्हेंं फ़ोटो को बेहतर बनाने और आसानी से संपादित करने के लिए आवश्यक सब कुछ देता है। मुफ्त में सरल ऑनलाइन फ़ोटो एडिटिंग का अनुभव करो! । Fotor AI फ़ोटो एडिटर की मदद से जटिल फ़ोटो संपादन को आसान बनाया गया है। AI फ़ोटो एन्हांसर, AI बैकग्राउंड रिमूवर, AI ऑब्जेक्ट रिमूवर और बहुत कुछ।
+
+
+</p>
+    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Fotor के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
     </a>
     <h4>हर काम के खुलने के लिए कुछ ही सेकंड में तैयार किए गए कवर लेटर</h4>
     <p>AI को एक साथ 10 आउटपुट तक एक्सप्लोर करने दें और अपने चुने मापदंड के आधार पर सबसे अच्छे को चुनें। यह सिर्फ़ मात्रा के बारे में नहीं है: यह तुम्हेंं सबसे अच्छे नतीजे दिलाने के बारे में है।</p>
     <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>PowerDreamer AI Cover Letter Generator के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    </a>
+    <h4>हमारे डरावने तेज़ NSFW AI कैरेक्टर इंजन के साथ मुफ़्त में चैट करना शुरू करें। चंचल, मददगार, हमारे 7500+ AI सेक्सटिंग कैरेक्टर्स को यह समझ में आया। बिना सेंसर किया हुआ AI, कोई फ़ैसला नहीं। तुम कंट्रोल में हो।</h4>
+    <p>डोमिनेंट से लेकर विनम्र और उससे आगे तक कई तरह की विविधताएं। 24/7 एआई सेक्सटिंग और मसालेदार चैट के लिए अभी साइन इन करें, जिससे तुम्हारी सांसें फूल जाएँगी।
+
+तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!</p>
+    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Girlfriend GPT - NSFW AI Chatbots के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -485,6 +516,7 @@
 | [Imaginator](https://www.thataicollection.com/redirect/imaginator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इमेजिनेटर - अपने टेक्स्ट को छवियों में बदलें. | अपने विचारों को अपने सामने सजीव होते देखने में सक्षम होने की कल्पना करें। अब केवल एक विचार नहीं, एक छवि अब वास्तविकता बन जाती है।. | :grey_question: |
 | [Imagine Me](https://www.thataicollection.com/redirect/imagine-me?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | होम - मेरी कल्पना करो. | इमेजिन मी पहला ऑनलाइन प्लेटफॉर्म है जो आपको टेक्स्ट की एक सरल पंक्ति के साथ खुद की आश्चर्यजनक एआई कला उत्पन्न करने देता है।. | :grey_question: |
 | [Imajinn AI Children's Book](https://www.thataicollection.com/redirect/imajinn-ai-childrens-book?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | इमाजिन एआई. | फ़ाइन-ट्यून AI के साथ विज़ुअलाइज़ेशन की फिर से कल्पना की गई। केवल आपकी कल्पना द्वारा सीमित प्रोफ़ाइल चित्र, उत्पाद चित्र, ब्रांड और शैलियाँ उत्पन्न करें!. | :grey_question: |
+| [ImgGen AI](https://www.thataicollection.com/redirect/imggen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ImgGen AI - एआई-संचालित इमेज जनरेटर और एडिटर, 100% मुफ़्त. | ImgGen AI एक मुफ़्त AI इमेज जनरेटर और एन्हांसमेंट टूल है, जो जटिल एन्हांसमेंट को सरल बनाता है जैसे कि इमेज बनाना, बैकग्राउंड हटाना, टेक्स्ट हटाना, धुंधली इमेज हटाना, अपग्रेड करना, और बहुत कुछ। Imggen AI के साथ मुफ्त में पेशेवर AI हेडशॉट जेनरेट करें।. | :white_check_mark: |
 | [IMGN - Image Engine](https://www.thataicollection.com/redirect/imgn---image-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई की कल्पना करें - एडवांस्ड टेक मेड ईज़ी टू यूज़. | हम सभी आर्टिफिशियल इंटेलिजेंस की शक्ति और संभावनाओं के बारे में सुनते हैं। लेकिन मैदान के बाहर हर किसी के लिए यह हमारी समझ से परे एक जटिल मामला लगता है। कल्पना कीजिए कि एआई की स्थापना बिना किसी परेशानी के सभी लाभ प्राप्त करने के लिए दूसरों को सशक्त बनाने के लिए की गई थी। यही कारण है कि हमने आईएमजीएन ऐप बनाया है।. | :grey_question: |
 | [Kiri.art](https://www.thataicollection.com/redirect/kiri.art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | किरी। कला. | डिफ्यूजन इमेज जेनरेशन. | :grey_question: |
 | [Krea](https://www.thataicollection.com/redirect/krea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई कैनवस. | क्रिया द्वारा एआई कैनवस का परिचय. | :grey_question: |
@@ -882,6 +914,7 @@
 | [Colorize](https://www.thataicollection.com/redirect/colorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | गहन शिक्षण की शक्ति से फोटो को रंगीन करें. | फोटो को ऑनलाइन रंगीन करें Colorize.cc - AI सेवा है जो ब्लैक एंड व्हाइट फोटो और वीडियो को रंगीन करती है। कुछ ही क्लिक में आप मशीन लर्निंग प्रौद्योगिकियों के जादू को छू सकते हैं। कुछ ही मिनटों में अपने परिवार की सैकड़ों तस्वीरों को रंगीन बनाएं।. | :x: |
 | [Edit @ Scale](https://www.thataicollection.com/redirect/edit-@-scale?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके उत्पाद फ़ोटो के लिए AI बैच संपादक. | उत्पाद फ़ोटो के लिए अंतिम बैच संपादक, एडिट @ स्केल के साथ अपने ई-कॉमर्स व्यवसाय को बदलें। सुंदर, अद्वितीय पृष्ठभूमि के साथ एक साथ कई छवियों को सहजता से बढ़ाकर समय और प्रयास बचाएं।. | :white_check_mark: |
 | [ExtendImage](https://www.thataicollection.com/redirect/extendimage?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक्सटेंडिमेजाई - जनरेटिव एआई के साथ अपनी छवियों का विस्तार करें. | एक्सटेंडइमेजएआई एक ऐसा उपकरण है जो आपको अपनी छवियों को जेनेरेटिव एआई के साथ विस्तारित करने की अनुमति देता है।. | :grey_question: |
+| [Face Swap AI](https://www.thataicollection.com/redirect/face-swap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | फ़ेस स्वैप ऑनलाइन - फ़ेस स्वैप ऑनलाइन मुफ़्त. | AI तकनीक का इस्तेमाल करके आसानी से और तेज़ी से किसी भी फ़ोटो में अपना चेहरा डालें! आर्टिफिशियल इंटेलिजेंस की तरक्की के साथ, अब किसी भी तस्वीर में अपने चेहरे को समेट लेना संभव है, जिससे यथार्थवादी और ठोस परिणाम मिलते हैं।. | :white_check_mark: |
 | [FaceSwapper](https://www.thataicollection.com/redirect/faceswapper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हंसी को उजागर करें: फ़ेसस्वैपर एआई किस तरह मजेदार मज़े के लिए चेहरे बदल देता है!. | FaceSwapper.AI, एआई-संचालित फ़ेस स्वैपिंग टूल, के ज़रिये अपनी रचनात्मकता को निखारें। बस कुछ ही क्लिक की मदद से चेहरे की अदला-बदली करके साधारण तस्वीरों को असाधारण मास्टरपीस में बदलें। हमारा सहज इंटरफ़ेस इसे नेविगेट करने में आसान बनाता है, यह सुनिश्चित करता है कि नौसिखिए भी शानदार और मजेदार फ़ेस स्वैप बना सकते हैं। मज़ेदार और कलात्मक अभिव्यक्ति के लिए अनंत संभावनाएं तलाशें!. | :white_check_mark: |
 | [FaceVary](https://www.thataicollection.com/redirect/facevary?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मुफ़्त ऑनलाइन फ़ेस चेंजर जिसकी मदद से तुम सिर बदल सकते हो और फ़ोटो में चेहरे बदल सकते हो।. | FaceVary एक क्रांतिकारी नया प्रॉडक्ट है जिससे तुम बस कुछ टैप में फ़ोटो में चेहरों की अदला-बदली कर सकते हो। इसका इस्तेमाल करना आसान है, और इसमें कोई वॉटरमार्क या विज्ञापन नहीं हैं। FaceVary के ज़रिए, तुम अपने दोस्तों, मशहूर हस्तियों, या यहाँ तक कि ऐतिहासिक हस्तियों के साथ अपना चेहरा बदल सकते हो। तुम मज़ेदार वीडियो, मीम और कोलाज बना सकते हो या अपनी उपस्थिति के साथ कुछ मज़ेदार प्रयोग कर सकते हो।. | :white_check_mark: |
 | [FinalTouch](https://www.thataicollection.com/redirect/finaltouch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पेशेवर फ़ोटोग्राफ़ी और डिज़ाइन की शक्ति आपकी उंगलियों पर. | फ़ाइनलटच आपको एक साधारण उत्पाद फ़ोटो से एक पल में एक मनोरम दृश्य में ले जाता है। स्टूडियो-गुणवत्ता वाली छवियों से ग्राहकों को लुभाने के लिए आपको एक विशेषज्ञ डिजाइनर होने की आवश्यकता नहीं है। अपनी डिजिटल उपस्थिति और मार्केटिंग अभियानों में नई जान फूंकने के लिए अपनी पसंद की किसी भी सेटिंग में एक ही उत्पाद की कई छवियां बनाएं।. | :white_check_mark: |
@@ -1232,6 +1265,7 @@
 | [HitPaw Online Video Enhancer](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्रशिक्षित एआई द्वारा अपने वीडियो को अनब्लर और अपस्केल करने के लिए वन-क्लिक।. | HitPaw ऑनलाइन वीडियो एन्हांसर कम रिज़ॉल्यूशन वाले वीडियो के लिए सबसे अच्छा समाधान है, वीडियो समाधान को बिना किसी प्रयास के 1080P/4K तक बढ़ाएं।. | :x: |
 | [HitPaw Video Enhancer](https://www.thataicollection.com/redirect/hitpaw-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | HitPAW वीडियो एन्हांसर - हाई क्वालिटी AI वीडियो रिज़ॉल्यूशन बढ़ाने वाला. | HitPaw वीडियो एन्हांसर गुणवत्ता खोए बिना वीडियो की गुणवत्ता को आसानी से बढ़ाने और बढ़ाने में मदद करता है। यह AI वीडियो बढ़ाने वाला वीडियो की गुणवत्ता में सुधार कर सकता है, काले और सफेद वीडियो को रंगीन कर सकता है, कम गुणवत्ता वाले वीडियो को 1080P, 4K, 8K में बदल सकता है। HitPaw वीडियो अपस्केलर कई AI मॉडल के साथ किसी भी वीडियो को बढ़ाने में मदद करता है: डेनोइस, एनिमेशन, फेस, कलराइज़, कलर एन्हांसमेंट, फ़्रेम इंटरपोलेशन मॉडल, स्टैबलाइज़. | :white_check_mark: |
 | [Hour One](https://www.thataicollection.com/redirect/hour-one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | किसी को भी प्रशिक्षित करने या किसी भी चीज़ के बारे में समझाने के लिए AI वीडियो बनाओ - पहला घंटा. | कस्टमाइज़्ड वीडियो टेम्प्लेट वाला एकमात्र AI वीडियो जनरेटर, अलग-अलग लहजे और भाषाओं में AI प्रेजेंटर, और बहुत कुछ। आज ही मुफ़्त में आजमाओ!. | :white_check_mark: |
+| [Magic Hour](https://www.thataicollection.com/redirect/magic-hour?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मैजिक ऑवर वीडियो निर्माण को कैनवा की सरलीकृत डिज़ाइन की तरह सरल बनाता है. | मैजिक ऑवर एक AI वीडियो प्लेटफ़ॉर्म है, जिसकी मदद से यूज़र कुछ ही क्लिक में शानदार AI वीडियो बना सकते हैं। यह वीडियो बनाने की पूरी प्रक्रिया को स्वचालित बनाता है और यूज़र मौजूदा वीडियो को नई सामग्री में ट्रांसफ़ॉर्म कर सकते हैं। मैजिक ऑवर यूज़र को आकर्षक विज़ुअल कॉन्टेंट जेनरेट करने में भी मदद करता है, जो उनके दर्शकों को आकर्षित करेगा और उनकी संख्या बढ़ाएगा।. | :white_check_mark: |
 | [Make a Video](https://www.thataicollection.com/redirect/make-a-video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मेक-ए-वीडियो एक अत्याधुनिक AI सिस्टम है जो टेक्स्ट से वीडियो बनाता है।. | मेक-ए-वीडियो रिसर्च टेक्स्ट-टू-इमेज जनरेशन तकनीक में हुई हालिया प्रगति पर आधारित है, जिसे टेक्स्ट-टू-वीडियो जेनरेशन को सक्षम करने के लिए बनाया गया है। सिस्टम यह जानने के लिए कि दुनिया कैसी दिखती है और अक्सर इसका वर्णन कैसे किया जाता है, यह जानने के लिए सिस्टम तस्वीरों का उपयोग करता है। इस डेटा की मदद से, Make-A-Video से तुम सिर्फ़ कुछ शब्दों या टेक्स्ट की पंक्तियों के ज़रिए मनमोहक, अनोखे वीडियो बनाकर अपनी कल्पना को जीवंत कर सकते हो।. | :grey_question: |
 | [Move](https://www.thataicollection.com/redirect/move?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऐ ले जाएँ. | मोबाइल फ़ोन का उपयोग करके किसी भी वातावरण में वीडियो से उच्च गुणवत्ता गति डेटा कैप्चर करें।. | :grey_question: |
 | [Neural Studio](https://www.thataicollection.com/redirect/neural-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | न्यूरलकैम - हम स्मार्ट कैमरा ऐप बनाते हैं AI द्वारा संचालित इमेज प्रोसेसिंग के साथ. | हम AI से चलने वाले कैमरा ऐप्स बनाते हैं। हमें लगता है कि नई विकसित की गई गहरी शिक्षा तकनीकों ने स्मार्ट कैमरा नामक उपकरणों की एक नई श्रेणी के निर्माण की सुविधा दी है — ऐसे कैमरे जो न सिर्फ़ दुनिया को देखते और रिकॉर्ड करते हैं बल्कि यह भी समझ सकते हैं कि वे क्या देखते हैं और रीयल-टाइम की घटनाओं पर प्रतिक्रिया भी दे सकते हैं।. | :grey_question: |
@@ -1291,6 +1325,7 @@
 ## शिक्षा और सीखना
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
+| [Architecture Helper](https://www.thataicollection.com/redirect/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | किसी भी बिल्डिंग आर्किटेक्चर का विश्लेषण करें और कुछ ही सेकंड में अपनी खुद की कस्टम स्टाइल तैयार करें।. | आर्किटेक्चर हेल्पर यूज़र द्वारा सबमिट की गई तस्वीरों के ज़रिये विभिन्न वास्तुशिल्प शैलियों और प्रभावों का विश्लेषण और खोज करने का एक प्लेटफ़ॉर्म है।. | :white_check_mark: |
 | [Botta](https://www.thataicollection.com/redirect/botta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | किसी विषय से परेशानी हो रही है? बोटा से मिलें. | आपका निःशुल्क, व्यक्तिगत शिक्षण सहायक। प्रश्न पूछें, उत्तर पाएँ. बोटा ऑनलाइन सीखने को आसान बनाता है।. | :white_check_mark: |
 | [Caktus](https://www.thataicollection.com/redirect/caktus?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कैक्टस एआई - छात्रों के लिए अपनी श्रेणी में सर्वश्रेष्ठ AI हेल्पर. | छात्रों के लिए बनाया गया सबसे शक्तिशाली AI। Caktus AI के साथ तुरन्त लिखें, हल करें, कोड करें, और बहुत कुछ। खास तौर से होमवर्क और सीखने के लिए डिज़ाइन किए गए तुम्हारे खुद के किफ़ायती AI सहायक के ज़रिए तुम्हारा मन बढ़ाने के लिए Caktus एक स्टडी टूल है।. | :grey_question: |
 | [Classicquiz.com](https://www.thataicollection.com/redirect/classicquiz.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | क्लासिकक्विज़ इंटरैक्टिव लाइव क्विज़ बनाने और खेलने के लिए एक प्लेटफ़ॉर्म प्रदान करता है।. | क्लासिकक्विज़ इंटरैक्टिव लाइव क्विज़ बनाने और खेलने के लिए एक प्लेटफ़ॉर्म प्रदान करता है। प्रतिभागी रीयल-टाइम में अपने फ़ोन के ज़रिए सवालों के जवाब देते हैं, जुड़ाव को बढ़ावा देते हैं और मज़ेदार, प्रतिस्पर्धात्मक माहौल बनाते हैं। हमारे AI प्रश्न जनरेटर की मदद से यूज़र अपने द्वारा दिए गए टेक्स्ट के आधार पर स्वचालित रूप से प्रश्न जेनरेट कर सकते हैं।. | :white_check_mark: |
@@ -1452,6 +1487,7 @@
 | [Summari](https://www.thataicollection.com/redirect/summari?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अपनी साइट पर पढ़ने के अनुभव में सुधार करें. | हमारी विश्व स्तरीय एआई सारांश तकनीक का उपयोग करके लिंक को संक्षिप्त, सूचनात्मक पूर्वावलोकन में अपग्रेड करें।. | :grey_question: |
 | [Taskade](https://www.thataicollection.com/redirect/taskade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके और आपकी टीमों के लिए दूसरा मस्तिष्क। आपकी टीम की उत्पादकता को सुपरचार्ज करने के लिए एक साथ पांच एआई-संचालित उपकरण। टास्कडे के साथ, आपका सारा काम एक एकीकृत कार्यक्षेत्र में समन्वयित होता है।. | टास्कडे बिल्ट-इन टास्क मैनेजमेंट और वीडियो चैट वाली टीमों के लिए पहला सहयोगी एआई लेखक और आउटलाइनर है। माइंड मैप, टास्क लिस्ट बनाएं और अपनी टीम के साथ रीयल-टाइम में स्ट्रक्चर्ड नोट्स लें।. | :white_check_mark: |
 | [TLDR This](https://www.thataicollection.com/redirect/tldr-this?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टीएलडीआर यह - आर्टिकल समराइज़र और ऑनलाइन टेक्स्ट समराइज़िंग टूल. | यह आपको पाठ के किसी भी हिस्से को संक्षिप्त, पचाने में आसान सामग्री में सारांशित करने में मदद करता है ताकि आप स्वयं को सूचना अधिभार से मुक्त कर सकें।. | :white_check_mark: |
+| [TrollyAI](https://www.thataicollection.com/redirect/trollyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पेशेवर SEO लेख बनाएं, 2x तेज़ी से. | ट्रॉली एआई: एडवांस एआई टेक्नोलॉजी के साथ एसईओ कंटेंट क्रिएशन में क्रांति लाना।   डिजिटल युग में, कंटेंट बेहतरीन है। लेकिन सिर्फ़ कोई सामग्री नहीं - ऑनलाइन उपस्थिति की लगातार बढ़ती मांगों को पूरा करने के लिए इसे ऑप्टिमाइज़ किया जाना चाहिए, व्याकरण की दृष्टि से सही और बड़े पैमाने पर तैयार किया जाना चाहिए। ट्रॉली एआई एक अत्याधुनिक समाधान के रूप में उभरता है, जिसे विशेष रूप से एआई-चालित एडवांस क्षमताओं के साथ इन ज़रूरतों को पूरा करने के लिए डिज़ाइन किया गया है।. | :grey_question: |
 | [TweetStorm.ai](https://www.thataicollection.com/redirect/tweetstorm.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-पावर्ड ट्वीट जेनरेटर।. | AI GPT4 का उपयोग करके ट्वीट्स, बायोस, हैशटैग और उपयोगकर्ता नाम उत्पन्न करें. | :white_check_mark: |
 | [Typli](https://www.thataicollection.com/redirect/typli?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Typli.Ai - एआई लेखक और एसईओ लेखन सहायक. | सबसे सहज एआई सामग्री उपकरण जो एआई लेखन और एक एसईओ सहायक को जोड़ता है।. | :white_check_mark: |
 | [unbound](https://www.thataicollection.com/redirect/unbound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आपके छोटे व्यवसाय के लिए स्वचालित सामग्री निर्माण. | छोटे व्यवसाय, ऑनलाइन दुकानों और रचनाकारों के लिए सामग्री निर्माण को स्वचालित करने के लिए डिज़ाइन किए गए सभी बेहतरीन AI पीढ़ी के उपकरणों का एक ही स्थान पर लाभ उठाएं।. | :white_check_mark: |
