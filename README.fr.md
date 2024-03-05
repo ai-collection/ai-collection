@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
+    </a>
+    <h4>AI Undressing - Nudifie des photos GRATUITEMENT avec AI Undressing</h4>
+    <p>Meilleure nouvelle technologie de déshabillage IA GRATUITE ! Se déshabiller grâce à l'IA pour les photos ! Transforme instantanément l'apparence. Des photos de nu en un clic. De nombreux styles et la possibilité de le faire rapidement</p>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec undressing.io</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
     </a>
@@ -74,22 +87,6 @@ Tes rêves les plus fous ne sont qu'à un clic aujourd'hui !</p>
     <h4>Des lettres de motivation personnalisées pour chaque offre d'emploi en quelques secondes</h4>
     <p>Demandez à l'IA d'explorer jusqu'à 10 sorties simultanément et de sélectionner la meilleure en fonction du critère que tu as choisi. Ce n'est pas qu'une question de quantité : il s'agit d'obtenir le meilleur résultat possible.</p>
     <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec PowerDreamer AI Cover Letter Generator</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
-    </a>
-    <h4>Fotor - Un éditeur de photos en ligne pour tous. Retouche des photos plus rapidement et plus facilement grâce à l'IA.</h4>
-    <p>l'éditeur de photos en ligne offre tout ce dont tu as besoin pour améliorer et retoucher des photos sans effort. Faites l'expérience de la retouche photo en ligne, en toute simplicité, gratuitement ! . La retouche photo complexe simplifiée grâce à l'éditeur de photos Fotor AI. AI Photo Enhancer, AI Background Remover, AI Object Remover et plus encore.
-
-
-</p>
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Fotor</b></a>
     <br />
 </div>
 
@@ -3001,6 +2998,21 @@ Amadeus Topline est une application de composition basée sur l'IA pour tous les
 
 ## NSFW
 
+### undressing.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
+
+#### AI Undressing - Nudifie des photos GRATUITEMENT avec AI Undressing
+[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Meilleure nouvelle technologie de déshabillage IA GRATUITE ! Se déshabiller grâce à l'IA pour les photos ! Transforme instantanément l'apparence. Des photos de nu en un clic. De nombreux styles et la possibilité de le faire rapidement
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Girlfriend GPT - NSFW AI Chatbots
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
 
@@ -3061,21 +3073,6 @@ Qu'il s'agisse de survivre sur une île déserte, de naviguer dans l'espace à b
 Plongez dans l'univers de nombreuses filles animées par l'IA et commencez à jouer dès maintenant !
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### undressing.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
-
-#### AI Undressing - Nudifie des photos GRATUITEMENT avec AI Undressing
-[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Meilleure nouvelle technologie de déshabillage IA GRATUITE ! Se déshabiller grâce à l'IA pour les photos ! Transforme instantanément l'apparence. Des photos de nu en un clic. De nombreux styles et la possibilité de le faire rapidement
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

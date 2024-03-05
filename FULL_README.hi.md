@@ -53,15 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
     </a>
-    <h4>फ़ॉटर - हर किसी के लिए ऑनलाइन फ़ोटो एडिटर। AI की मदद से फ़ोटो को तेज़ी से और आसानी से एडिट करें।</h4>
-    <p>ऑनलाइन फ़ोटो एडिटर तुम्हेंं फ़ोटो को बेहतर बनाने और आसानी से संपादित करने के लिए आवश्यक सब कुछ देता है। मुफ्त में सरल ऑनलाइन फ़ोटो एडिटिंग का अनुभव करो! । Fotor AI फ़ोटो एडिटर की मदद से जटिल फ़ोटो संपादन को आसान बनाया गया है। AI फ़ोटो एन्हांसर, AI बैकग्राउंड रिमूवर, AI ऑब्जेक्ट रिमूवर और बहुत कुछ।
-
-
-</p>
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Fotor के साथ आरंभ करें</b></a>
+    <h4>हर काम के खुलने के लिए कुछ ही सेकंड में तैयार किए गए कवर लेटर</h4>
+    <p>AI को एक साथ 10 आउटपुट तक एक्सप्लोर करने दें और अपने चुने मापदंड के आधार पर सबसे अच्छे को चुनें। यह सिर्फ़ मात्रा के बारे में नहीं है: यह तुम्हेंं सबसे अच्छे नतीजे दिलाने के बारे में है।</p>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>PowerDreamer AI Cover Letter Generator के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -69,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
-    <h4>हर काम के खुलने के लिए कुछ ही सेकंड में तैयार किए गए कवर लेटर</h4>
-    <p>AI को एक साथ 10 आउटपुट तक एक्सप्लोर करने दें और अपने चुने मापदंड के आधार पर सबसे अच्छे को चुनें। यह सिर्फ़ मात्रा के बारे में नहीं है: यह तुम्हेंं सबसे अच्छे नतीजे दिलाने के बारे में है।</p>
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>PowerDreamer AI Cover Letter Generator के साथ आरंभ करें</b></a>
+    <h4>AI अनड्रेसिंग - AI अनड्रेसिंग के ज़रिए फ़ोटो मुफ़्त में न्यूडिफ़ाई करें</h4>
+    <p>सबसे अच्छी नई मुफ़्त AI अनड्रेसिंग तकनीक! तस्वीरों के लिए AI से चलने वाली अनड्रेसिंग! तुरन्त रूप बदलो। एक क्लिक में नंगी तस्वीरें। कई स्टाइल और प्रॉम्प्ट के साथ इसे करने के अवसर</p>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>undressing.io के साथ आरंभ करें</b></a>
     <br />
 </div>
 
