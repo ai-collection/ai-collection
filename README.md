@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1150" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1154" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -38,7 +38,7 @@
 <div align="center">
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
     <a href="LICENSE">License</a> •
-    <a href="https://aicollection.beehiiv.com/subscribe">Newsletter</a> •
+    <a href="https://www.ai-revolution.org/">Newsletter</a> •
     <a href="https://www.thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
 
@@ -143,6 +143,37 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### Yona.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-yona.ai.webp" alt="Yona.ai">
+
+#### Yona.ai: Empower Your Influence with a Personalized AI Clone
+[Visit](https://www.thataicollection.com/redirect/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+In the digital age, creators and influencers are constantly seeking innovative ways to engage with their audience. Yona.ai offers a groundbreaking platform where you can create digital clones of yourself, extending your reach and deepening fan connections. By training an AI with your unique conversational style, you can provide fans with an authentic interaction experience, anytime and anywhere.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Bard PDF Today
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bard-pdf-today.webp" alt="Bard PDF Today">
+
+#### Free Online PDF Document Summarizer and Analyzer
+
+[Visit](https://www.thataicollection.com/redirect/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Bard PDF introduces a paradigm shift in the realm of PDF document processing and analysis. Its efficient summarization and analysis capabilities revolutionize the way users interact with PDF files. Regardless of whether you're a researcher, professional, or student, Bard PDF offers a diverse range of benefits to optimize productivity and foster comprehension.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### So You Had An Idea
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-so-you-had-an-idea.webp" alt="So You Had An Idea">
 
@@ -215,36 +246,6 @@ SinglebaseCloud is an all-in-one AI-Powered backend-as-a-service platform to bui
 Magic Hour is an AI video platform that enables users to create stunning AI videos with just a few clicks. It automates the entire video production process and allows users to transform existing videos into new content. Magic Hour also enables users to generate engaging visual content that will engage and grow their audience.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/magic-hour?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Architecture Helper
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-architecture-helper.webp" alt="Architecture Helper">
-
-#### Analyze any building architecture, and generate your own custom styles, in seconds.
-[Visit](https://www.thataicollection.com/redirect/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Architecture Helper is a platform for analyzing and exploring various architectural styles and influences through user-submitted photographs.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### ImgGen AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-imggen-ai.webp" alt="ImgGen AI">
-
-#### ImgGen AI - AI-powered image generator & editor, 100% free
-[Visit](https://www.thataicollection.com/redirect/imggen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ImgGen AI is a free AI image generator and enhancement tool, that simplifies complex enhancements like generating images, background removal, text removal, unblurring images, upscaling, and more. Generate professional AI headshots for Free with Imggen AI.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/imggen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2277,6 +2278,21 @@ Sine AI offers a journey into self-discovery through astrology, tarot, and quizz
 
 
 
+### Yona.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-yona.ai.webp" alt="Yona.ai">
+
+#### Yona.ai: Empower Your Influence with a Personalized AI Clone
+[Visit](https://www.thataicollection.com/redirect/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+In the digital age, creators and influencers are constantly seeking innovative ways to engage with their audience. Yona.ai offers a groundbreaking platform where you can create digital clones of yourself, extending your reach and deepening fan connections. By training an AI with your unique conversational style, you can provide fans with an authentic interaction experience, anytime and anywhere.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 
 [See All 👩‍⚕️ Healthcare Applications on AI Collection](https://www.thataicollection.com/en/categories/healthcare?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -3000,6 +3016,21 @@ Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instan
 
 
 
+### Undress.Vip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+
+#### undress.vip–2023 best 100% Working undress ai deepnude 
+[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Girlfriend GPT - NSFW AI Chatbots
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
 
@@ -3011,21 +3042,6 @@ Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting 
 Your wildest dreams are just a click away today!
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
-
-#### undress.vip–2023 best 100% Working undress ai deepnude 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3066,6 +3082,24 @@ Dive into the world of numerous AI girls and start playing now!
 
 
 
+### Nudes – Face Swap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudes-%E2%80%93-face-swap.webp" alt="Nudes – Face Swap">
+
+#### Unlock the Potential of Face Swap Porn and Deepfake Porn Magic on Our Site!
+[Visit](https://www.thataicollection.com/redirect/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+A Telegram Nudes_faceswap_bot! This bot can swap faces of any videos. How To Use ?
+1).Simply upload a face image.  
+2).Upload or chose a target video.  
+3).Wait for results.  
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Nudify.online
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online_.webp" alt="Nudify.online">
 
@@ -3077,21 +3111,6 @@ Undress AI photo generator for free deepnudes. Nudify deepnude AI with the highe
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI-Girlfriend.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend.ai.webp" alt="AI-Girlfriend.AI">
-
-#### Revolutionize Your Sexting Experience with AI-Girlfriend.AI
-[Visit](https://www.thataicollection.com/redirect/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Welcome to AI-Girlfriend.ai,where we redefine the art of sexting through our AI-powered girlfriend experience. Dive into the world of digital intimacy with a playful, commitment-free AI sexting simulation, tailored to enhance your skills and enrich your interactive experiences.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

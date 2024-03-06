@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1150" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1154" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -38,7 +38,7 @@
 <div align="center">
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
     <a href="LICENSE">License</a> •
-    <a href="https://aicollection.beehiiv.com/subscribe">Newsletter</a> •
+    <a href="https://www.ai-revolution.org/">Newsletter</a> •
     <a href="https://www.thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
 
@@ -785,6 +785,7 @@ Translations:
 | [Replika](https://www.thataicollection.com/redirect/replika?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The AI Companion Who Cares. | Always here to listen and talk. Always on your side. Join the millions growing with their AI friends now!. | :grey_question: |
 | [SINE AI](https://www.thataicollection.com/redirect/sine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Discover Yourself with Sine AI: Astrology, Tarot, and Beyond. | Sine AI offers a journey into self-discovery through astrology, tarot, and quizzes. Uncover strengths, weaknesses, and get daily affirmations. Dive into your birth chart for deep insights and seek guidance with tarot readings. Embrace your potential and inner wisdom with Sine AI. | :white_check_mark: |
 | [Ubie AI Symptom Checker](https://www.thataicollection.com/redirect/ubie-ai-symptom-checker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Check Symptoms & Find Causes by AI. | Check Symptoms & Find Causes by AI - Answer quiz about your symptoms to find out possible causes, types, severity, and treatment for free by AI. Developed by doctors. | :white_check_mark: |
+| [Yona.ai](https://www.thataicollection.com/redirect/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Yona.ai: Empower Your Influence with a Personalized AI Clone. | In the digital age, creators and influencers are constantly seeking innovative ways to engage with their audience. Yona.ai offers a groundbreaking platform where you can create digital clones of yourself, extending your reach and deepening fan connections. By training an AI with your unique conversational style, you can provide fans with an authentic interaction experience, anytime and anywhere. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
@@ -1124,6 +1125,7 @@ Translations:
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Afforai](https://www.thataicollection.com/redirect/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Your AI Reading Copilot. Must-Have Tools for Text Analysis, Research, and Document Search. | Afforai is an AI chatbot that searches, summarizes, and translates info from multiple sources to produce trustworthy research. Chat with your documents and extract key findings relevant to your goals today!. | :white_check_mark: |
+| [Bard PDF Today](https://www.thataicollection.com/redirect/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Free Online PDF Document Summarizer and Analyzer. | Bard PDF introduces a paradigm shift in the realm of PDF document processing and analysis. Its efficient summarization and analysis capabilities revolutionize the way users interact with PDF files. Regardless of whether you're a researcher, professional, or student, Bard PDF offers a diverse range of benefits to optimize productivity and foster comprehension. | :white_check_mark: |
 | [Documind AI - Chat with PDF](https://www.thataicollection.com/redirect/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Documind AI - Chat with PDF using AI and GPT4. | Documind is a chat with pdf tool that lets users ask questions from their PDF. It is better than generic tools out there.  Our notable features are - - Bulk upload PDF documents. - Organize files into folders - View citation - Generate short and concise summary of long PDF - Embed chatbot on your website for free - Users can generate shareable link and share their bot with teammates and friends. | :white_check_mark: |
 | [Elicit](https://www.thataicollection.com/redirect/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Elicit: The AI Research Assistant. | Elicit uses machine learning to help you with your research: find papers, extract key claims, summarize, brainstorm ideas, and more. | :grey_question: |
 | [Explainpaper](https://www.thataicollection.com/redirect/explainpaper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The Fastest Way to Read Research Papers. | Upload a paper, highlight confusing text, get an explanation. We make research papers easy to read. | :white_check_mark: |

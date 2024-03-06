@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1150" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1154" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -38,7 +38,7 @@
 <div align="center">
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
     <a href="LICENSE">License</a> •
-    <a href="https://aicollection.beehiiv.com/subscribe">Newsletter</a> •
+    <a href="https://www.ai-revolution.org/">Newsletter</a> •
     <a href="https://www.thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
 
@@ -137,6 +137,37 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### Yona.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-yona.ai.webp" alt="Yona.ai">
+
+#### Yona.ai：使用个性化 AI 克隆增强你的影响力
+[Visit](https://www.thataicollection.com/redirect/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在数字时代，创作者和影响者不断寻求创新的方式来与受众互动。Yona.ai 提供了一个开创性的平台，你可以在其中创建自己的数字克隆，扩大影响范围并加深粉丝联系。通过用你独特的对话风格训练人工智能，你可以随时随地为粉丝提供真实的互动体验。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Bard PDF Today
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bard-pdf-today.webp" alt="Bard PDF Today">
+
+#### 免费的在线 PDF 文档摘要器和分析器
+
+[Visit](https://www.thataicollection.com/redirect/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Bard PDF 引入了 PDF 文档处理和分析领域的范式转变。其高效的汇总和分析功能彻底改变了用户与 PDF 文件交互的方式。无论你是研究人员、专业人士还是学生，Bard PDF 都能提供多种好处，以优化工作效率和提高理解力。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### So You Had An Idea
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-so-you-had-an-idea.webp" alt="So You Had An Idea">
 
@@ -209,36 +240,6 @@ SingleBaseCloud是一个由人工智能驱动的多合一后端即服务平台�
 Magic Hour 是一个 AI 视频平台，使用户只需点击几下即可创建精彩的 AI 视频。它使整个视频制作过程自动化，并允许用户将现有视频转换为新内容。Magic Hour还使用户能够生成引人入胜的视觉内容，从而吸引和增加受众。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/magic-hour?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Architecture Helper
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-architecture-helper.webp" alt="Architecture Helper">
-
-#### 分析任何建筑架构，并在几秒钟内生成自己的自定义样式。
-[Visit](https://www.thataicollection.com/redirect/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Architecture Helper 是一个通过用户提交的照片分析和探索各种建筑风格和影响的平台。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### ImgGen AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-imggen-ai.webp" alt="ImgGen AI">
-
-#### imgGen AI-人工智能驱动的图像生成器和编辑器，100% 免费
-[Visit](https://www.thataicollection.com/redirect/imggen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ImgGen AI 是一款免费的 AI 图像生成器和增强工具，可简化复杂的增强功能，例如生成图像、移除背景、移除文本、消除图像模糊、放大等等。使用 Imgen AI 免费生成专业的人工智能头像。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/imggen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2271,6 +2272,21 @@ Sine AI 提供了一段通过占星术、塔罗牌和测验进行自我发现的
 <br />
 
 
+### Yona.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-yona.ai.webp" alt="Yona.ai">
+
+#### Yona.ai：使用个性化 AI 克隆增强你的影响力
+[Visit](https://www.thataicollection.com/redirect/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在数字时代，创作者和影响者不断寻求创新的方式来与受众互动。Yona.ai 提供了一个开创性的平台，你可以在其中创建自己的数字克隆，扩大影响范围并加深粉丝联系。通过用你独特的对话风格训练人工智能，你可以随时随地为粉丝提供真实的互动体验。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 
 [See All 👩‍⚕️ 卫生保健 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/healthcare?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -2994,6 +3010,21 @@ Amadeus Topline 是一款由人工智能驱动的作曲应用程序，适合每�
 <br />
 
 
+### Undress.Vip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+
+#### undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude 
+[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Girlfriend GPT - NSFW AI Chatbots
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
 
@@ -3005,21 +3036,6 @@ Amadeus Topline 是一款由人工智能驱动的作曲应用程序，适合每�
 今天只需点击一下即可实现您最疯狂的梦想！
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
-
-#### undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3060,6 +3076,24 @@ Dittin AI 是一个基于 DittinLLM 的 NSFW 人工智能聊天机器人平台�
 <br />
 
 
+### Nudes – Face Swap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudes-%E2%80%93-face-swap.webp" alt="Nudes – Face Swap">
+
+#### 在我们的网站上释放换脸色情和Deepfake Porn Magic的潜力！
+[Visit](https://www.thataicollection.com/redirect/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+一个 Telegram nudes_Faceswap_bot！这个机器人可以交换任何视频的面孔。如何使用？
+1) .只需上传一张脸部图像即可。 
+2) .上传或选择目标视频。 
+3)。等待结果。  
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Nudify.online
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online_.webp" alt="Nudify.online">
 
@@ -3071,21 +3105,6 @@ Dittin AI 是一个基于 DittinLLM 的 NSFW 人工智能聊天机器人平台�
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AI-Girlfriend.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend.ai.webp" alt="AI-Girlfriend.AI">
-
-#### 使用 AI-Girlfriend.AI 彻底改变你的短信体验
-[Visit](https://www.thataicollection.com/redirect/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-欢迎来到 AI-Girlfriend.ai，在这里，我们通过人工智能驱动的女友体验重新定义了色情艺术。通过有趣的、无需承诺的 AI 色情短信模拟，潜入数字亲密世界，该模拟专为提高您的技能和丰富您的互动体验而量身定制。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1150" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1154" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -38,7 +38,7 @@
 <div align="center">
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
     <a href="LICENSE">License</a> •
-    <a href="https://aicollection.beehiiv.com/subscribe">Newsletter</a> •
+    <a href="https://www.ai-revolution.org/">Newsletter</a> •
     <a href="https://www.thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
 
@@ -657,6 +657,7 @@
 | [Replika](https://www.thataicollection.com/redirect/replika?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Компаньон с искусственным интеллектом, который заботится. | Всегда здесь, чтобы выслушать и поговорить. Всегда на вашей стороне. Присоединяйтесь к миллионам людей, которые растут вместе со своими друзьями по искусственному интеллекту прямо сейчас!. | :grey_question: |
 | [SINE AI](https://www.thataicollection.com/redirect/sine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Откройте себя с помощью Sine AI: астрология, Таро и не только. | Sine AI предлагает путешествие в самопознание с помощью астрологии, таро и викторин. Раскройте сильные и слабые стороны и ежедневно получайте аффирмации. Погрузитесь в свою карту рождения, чтобы получить глубокие сведения и получить рекомендации по чтению карт Таро. Раскройте свой потенциал и внутреннюю мудрость с помощью Sine AI. | :white_check_mark: |
 | [Ubie AI Symptom Checker](https://www.thataicollection.com/redirect/ubie-ai-symptom-checker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Проверьте симптомы и найдите причины с помощью ИИ. | Проверьте симптомы и найдите причины с помощью ИИ. Ответьте на вопросы о своих симптомах, чтобы узнать возможные причины, типы, серьезность и лечение бесплатно с помощью ИИ. Разработано врачами. | :white_check_mark: |
+| [Yona.ai](https://www.thataicollection.com/redirect/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Yona.ai: расширьте свое влияние с помощью персонализированного клона искусственного интеллекта. | В эпоху цифровых технологий создатели и влиятельные лица постоянно ищут инновационные способы взаимодействия со своей аудиторией. Yona.ai предлагает революционную платформу, на которой вы можете создавать свои цифровые клоны, расширять охват аудитории и углублять связи с фанатами. Обучив искусственный интеллект своему уникальному стилю общения, вы сможете обеспечить фанатам аутентичный опыт общения в любое время и в любом месте. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
@@ -787,6 +788,7 @@
 | Имя | Заголовок | Описание | Предложить бесплатную версию |
 |---|---|---|:---:|
 | [Afforai](https://www.thataicollection.com/redirect/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ваш второй пилот по чтению с помощью искусственного интеллекта. Необходимые инструменты для анализа текста, исследований и поиска документов. | Afforai — это чат-бот с искусственным интеллектом, который ищет, обобщает и переводит информацию из нескольких источников для проведения заслуживающих доверия исследований. Общайтесь со своими документами и извлекайте ключевые выводы, относящиеся к вашим целям уже сегодня!. | :white_check_mark: |
+| [Bard PDF Today](https://www.thataicollection.com/redirect/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Бесплатный онлайн-сумматор и анализатор PDF-документов. | Bard PDF представляет собой смену парадигмы в области обработки и анализа PDF-документов. Его эффективные возможности суммирования и анализа революционизируют способы взаимодействия пользователей с PDF-файлами. Независимо от того, являетесь ли вы исследователем, специалистом или студентом, Bard PDF предлагает широкий спектр преимуществ для оптимизации производительности и улучшения понимания. | :white_check_mark: |
 | [Documind AI - Chat with PDF](https://www.thataicollection.com/redirect/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Documind AI — чат с PDF с использованием AI и GPT4. | Documind — это инструмент чата в формате pdf, который позволяет пользователям задавать вопросы из PDF-файла. Это лучше, чем обычные инструменты.  Нашими примечательными особенностями являются - - Массовая загрузка PDF-документов. - Организуйте файлы по папкам - Просмотр цитат - Создайте краткое и краткое резюме длинного PDF-файла - Вставьте чат-бота на свой сайт бесплатно - Пользователи могут создать ссылку, которой можно поделиться, и поделиться своим ботом с товарищами по команде и друзьями. | :white_check_mark: |
 | [Elicit](https://www.thataicollection.com/redirect/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Elicit: помощник по исследованиям в области ИИ. | Elicit использует машинное обучение, чтобы помочь вам в ваших исследованиях: находить документы, извлекать ключевые утверждения, подводить итоги, проводить мозговой штурм и многое другое. | :grey_question: |
 | [Explainpaper](https://www.thataicollection.com/redirect/explainpaper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Самый быстрый способ читать исследовательские работы. | Загрузите статью, выделите запутанный текст, получите объяснение. Мы делаем исследовательские работы удобными для чтения. | :white_check_mark: |

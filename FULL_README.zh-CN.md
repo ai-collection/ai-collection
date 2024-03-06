@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1150" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1154" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -38,7 +38,7 @@
 <div align="center">
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
     <a href="LICENSE">License</a> •
-    <a href="https://aicollection.beehiiv.com/subscribe">Newsletter</a> •
+    <a href="https://www.ai-revolution.org/">Newsletter</a> •
     <a href="https://www.thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
 
@@ -536,6 +536,7 @@
 | [Replika](https://www.thataicollection.com/redirect/replika?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 贴心的AI伴侣. | 总是在这里倾听和交谈。永远在你身边。立即加入数百万与他们的 AI 朋友一起成长的行列！. | :grey_question: |
 | [SINE AI](https://www.thataicollection.com/redirect/sine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用 Sine AI 探索自我：占星术、塔罗牌及其他. | Sine AI 提供了一段通过占星术、塔罗牌和测验进行自我发现的旅程。发现长处和短处，并获得每日肯定。深入研究您的出生图以获得深入的见解，并通过塔罗牌阅读寻求指导。使用 Sine AI 拥抱你的潜能和内在智慧。. | :white_check_mark: |
 | [Ubie AI Symptom Checker](https://www.thataicollection.com/redirect/ubie-ai-symptom-checker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过 AI 检查症状和查找原因. | 通过 AI 检查症状和查找原因 - 通过 AI 免费回答有关您的症状的测验，以找出可能的原因、类型、严重程度和治疗方法。由医生研发. | :white_check_mark: |
+| [Yona.ai](https://www.thataicollection.com/redirect/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Yona.ai：使用个性化 AI 克隆增强你的影响力. | 在数字时代，创作者和影响者不断寻求创新的方式来与受众互动。Yona.ai 提供了一个开创性的平台，你可以在其中创建自己的数字克隆，扩大影响范围并加深粉丝联系。通过用你独特的对话风格训练人工智能，你可以随时随地为粉丝提供真实的互动体验。. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
@@ -990,6 +991,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [Afforai](https://www.thataicollection.com/redirect/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 你的 AI 阅读副驾驶。文本分析、研究和文档搜索的必备工具. | Afforai是一款人工智能聊天机器人，可以搜索、汇总和翻译来自多个来源的信息，以进行值得信赖的研究。立即与您的文档聊天，提取与您的目标相关的关键发现！. | :white_check_mark: |
+| [Bard PDF Today](https://www.thataicollection.com/redirect/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费的在线 PDF 文档摘要器和分析器. | Bard PDF 引入了 PDF 文档处理和分析领域的范式转变。其高效的汇总和分析功能彻底改变了用户与 PDF 文件交互的方式。无论你是研究人员、专业人士还是学生，Bard PDF 都能提供多种好处，以优化工作效率和提高理解力。. | :white_check_mark: |
 | [Documind AI - Chat with PDF](https://www.thataicollection.com/redirect/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Documind AI-使用 AI 和 GPT4 与 PDF 聊天. | Documind 是一款使用 pdf 进行聊天的工具，它允许用户从 PDF 中提问。它比现有的通用工具要好。  我们的显著特点是- -批量上传 PDF 文档。 -将文件整理到文件夹中 -查看引文 -生成长 PDF 的简短摘要 -在您的网站上免费嵌入聊天机器人 -用户可以生成可共享的链接并与队友和朋友分享他们的机器人. | :white_check_mark: |
 | [Elicit](https://www.thataicollection.com/redirect/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 引出：人工智能研究助理. | Elicit 使用机器学习来帮助您进行研究：查找论文、提取关键声明、总结、集思广益等等。. | :grey_question: |
 | [Explainpaper](https://www.thataicollection.com/redirect/explainpaper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 阅读研究论文的最快方式. | 上传一篇论文，突出令人困惑的文本，获得解释。我们使研究论文易于阅读。. | :white_check_mark: |

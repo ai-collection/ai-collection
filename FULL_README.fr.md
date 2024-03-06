@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1150" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1154" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -38,7 +38,7 @@
 <div align="center">
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
     <a href="LICENSE">License</a> •
-    <a href="https://aicollection.beehiiv.com/subscribe">Newsletter</a> •
+    <a href="https://www.ai-revolution.org/">Newsletter</a> •
     <a href="https://www.thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
 
@@ -276,6 +276,7 @@
 | Nom | Titre | Description | Offrir une version gratuite |
 |---|---|---|:---:|
 | [Afforai](https://www.thataicollection.com/redirect/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ton copilote de lecture IA. Outils indispensables pour l'analyse de texte, la recherche et la recherche de documents. | Afforai est un chatbot IA qui recherche, résume et traduit des informations provenant de multiples sources afin de produire des recherches fiables. Discute avec tes documents et en tire les principales conclusions relatives à tes objectifs du jour !. | :white_check_mark: |
+| [Bard PDF Today](https://www.thataicollection.com/redirect/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Résumateur et analyseur de documents PDF en ligne gratuits. | Bard PDF introduit un changement de paradigme dans le domaine du traitement et de l'analyse des documents PDF. Ses fonctionnalités efficaces de synthèse et d'analyse révolutionnent la façon dont les utilisateurs interagissent avec les fichiers PDF. Que tu sois chercheuse, professionnelle ou étudiante, Bard PDF offre de nombreux avantages pour optimiser la productivité et favoriser la compréhension. | :white_check_mark: |
 | [Documind AI - Chat with PDF](https://www.thataicollection.com/redirect/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Documind AI - Discutez au format PDF à l'aide de l'IA et du GPT4. | Documind est un outil de discussion en PDF qui permet aux utilisateurs de poser des questions depuis leur PDF. C'est mieux que les outils génériques disponibles sur le marché.  Nos caractéristiques les plus remarquables sont : - Téléchargement groupé de documents PDF. - Organiser les fichiers dans des dossiers - Voir la citation - Générer un résumé court et concis d'un long PDF - Intégre un chatbot à ton site web gratuitement - Les utilisateurs peuvent générer un lien partageable et partager leur bot avec l. | :white_check_mark: |
 | [Elicit](https://www.thataicollection.com/redirect/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Elicit : l'assistant de recherche en IA. | Elicit utilise l'apprentissage automatique pour vous aider dans vos recherches : trouver des articles, extraire des revendications clés, résumer, réfléchir à des idées, etc. | :grey_question: |
 | [Explainpaper](https://www.thataicollection.com/redirect/explainpaper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Le moyen le plus rapide de lire des documents de recherche. | Téléchargez un article, mettez en surbrillance un texte confus, obtenez une explication. Nous rendons les documents de recherche faciles à lire. | :white_check_mark: |
@@ -1326,6 +1327,7 @@
 | [Replika](https://www.thataicollection.com/redirect/replika?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Le compagnon IA qui se soucie. | Toujours là pour écouter et parler. Toujours de ton coté. Rejoignez les millions de personnes qui grandissent avec leurs amis IA dès maintenant !. | :grey_question: |
 | [SINE AI](https://www.thataicollection.com/redirect/sine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Découvre-toi avec Sine AI : astrologie, tarot et au-delà. | Sine AI propose un voyage vers la découverte de soi grâce à l'astrologie, au tarot et à des quiz. Découvre les forces et les faiblesses et obtiens des affirmations quotidiennes. Passe dans ton thème natal pour en savoir plus et demande des conseils en matière de lecture du tarot. Exploite ton potentiel et ta sagesse intérieure avec Sine AI. | :white_check_mark: |
 | [Ubie AI Symptom Checker](https://www.thataicollection.com/redirect/ubie-ai-symptom-checker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Vérifier les symptômes et trouver les causes par l'IA. | Vérifier les symptômes et trouver les causes par l'IA - Répondez au quiz sur vos symptômes pour découvrir les causes possibles, les types, la gravité et le traitement gratuitement par l'IA. Développé par des médecins. | :white_check_mark: |
+| [Yona.ai](https://www.thataicollection.com/redirect/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Yona.ai : Renforcez votre influence grâce à un clone d'IA personnalisé. | À l'ère du numérique, les créateurs et les influenceurs sont constamment à la recherche de moyens innovants pour interagir avec leur public. Yona.ai propose une plateforme révolutionnaire sur laquelle tu peux créer des clones numériques de toi-même, afin d'étendre ta portée et de renforcer les liens avec les fans. En formant une IA à ton style de conversation unique, tu peux offrir aux fans une expérience d'interaction authentique, à tout moment et en tout lieu. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->

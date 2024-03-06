@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1150" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1154" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -38,7 +38,7 @@
 <div align="center">
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
     <a href="LICENSE">License</a> •
-    <a href="https://aicollection.beehiiv.com/subscribe">Newsletter</a> •
+    <a href="https://www.ai-revolution.org/">Newsletter</a> •
     <a href="https://www.thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
 
@@ -137,6 +137,37 @@
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
 
+### Yona.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-yona.ai.webp" alt="Yona.ai">
+
+#### Yona.ai: पर्सनलाइज़्ड AI क्लोन के साथ अपने प्रभाव को बेहतर बनाएं
+[Visit](https://www.thataicollection.com/redirect/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+डिजिटल युग में, निर्माता और प्रभावित करने वाले अपने दर्शकों से जुड़ने के लिए लगातार नए तरीके खोज रहे हैं। Yona.ai एक शानदार प्लेटफ़ॉर्म प्रदान करता है जहाँ तुम अपने डिजिटल क्लोन बना सकते हो, अपनी पहुंच बढ़ा सकते हो और पंखे के कनेक्शन मजबूत कर सकते हो। अपने अनोखे संवादात्मक स्टाइल के साथ AI को प्रशिक्षित करके, तुम प्रशंसकों को कभी भी और कहीं भी, प्रामाणिक इंटरैक्शन अनुभव प्रदान कर सकते हो।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Bard PDF Today
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bard-pdf-today.webp" alt="Bard PDF Today">
+
+#### मुफ़्त ऑनलाइन PDF दस्तावेज़ समराइज़र और एनालाइज़र
+
+[Visit](https://www.thataicollection.com/redirect/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+बार्ड PDF PDF दस्तावेज़ प्रोसेसिंग और विश्लेषण के क्षेत्र में एक बड़ा बदलाव पेश करता है। इसकी कुशल सारांश और विश्लेषण क्षमताएं यूज़र के PDF फाइलों के साथ इंटरैक्ट करने के तरीके में क्रांति ला देती हैं। इस बात की परवाह किए बिना कि तुम शोधकर्ता, पेशेवर या छात्र हो, Bard PDF उत्पादकता को बेहतर बनाने और समझ को बढ़ावा देने के लिए कई तरह के लाभ प्रदान करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### So You Had An Idea
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-so-you-had-an-idea.webp" alt="So You Had An Idea">
 
@@ -209,36 +240,6 @@ SingleBaseCloud मोबाइल और वेब ऐप्स तेज़ी
 मैजिक ऑवर एक AI वीडियो प्लेटफ़ॉर्म है, जिसकी मदद से यूज़र कुछ ही क्लिक में शानदार AI वीडियो बना सकते हैं। यह वीडियो बनाने की पूरी प्रक्रिया को स्वचालित बनाता है और यूज़र मौजूदा वीडियो को नई सामग्री में ट्रांसफ़ॉर्म कर सकते हैं। मैजिक ऑवर यूज़र को आकर्षक विज़ुअल कॉन्टेंट जेनरेट करने में भी मदद करता है, जो उनके दर्शकों को आकर्षित करेगा और उनकी संख्या बढ़ाएगा।
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/magic-hour?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Architecture Helper
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-architecture-helper.webp" alt="Architecture Helper">
-
-#### किसी भी बिल्डिंग आर्किटेक्चर का विश्लेषण करें और कुछ ही सेकंड में अपनी खुद की कस्टम स्टाइल तैयार करें।
-[Visit](https://www.thataicollection.com/redirect/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-आर्किटेक्चर हेल्पर यूज़र द्वारा सबमिट की गई तस्वीरों के ज़रिये विभिन्न वास्तुशिल्प शैलियों और प्रभावों का विश्लेषण और खोज करने का एक प्लेटफ़ॉर्म है।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### ImgGen AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-imggen-ai.webp" alt="ImgGen AI">
-
-#### ImgGen AI - एआई-संचालित इमेज जनरेटर और एडिटर, 100% मुफ़्त
-[Visit](https://www.thataicollection.com/redirect/imggen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ImgGen AI एक मुफ़्त AI इमेज जनरेटर और एन्हांसमेंट टूल है, जो जटिल एन्हांसमेंट को सरल बनाता है जैसे कि इमेज बनाना, बैकग्राउंड हटाना, टेक्स्ट हटाना, धुंधली इमेज हटाना, अपग्रेड करना, और बहुत कुछ। Imggen AI के साथ मुफ्त में पेशेवर AI हेडशॉट जेनरेट करें।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/imggen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2271,6 +2272,21 @@ GetActyv का AI-आधारित पर्सनल ट्रेनर आ�
 
 
 
+### Yona.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-yona.ai.webp" alt="Yona.ai">
+
+#### Yona.ai: पर्सनलाइज़्ड AI क्लोन के साथ अपने प्रभाव को बेहतर बनाएं
+[Visit](https://www.thataicollection.com/redirect/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+डिजिटल युग में, निर्माता और प्रभावित करने वाले अपने दर्शकों से जुड़ने के लिए लगातार नए तरीके खोज रहे हैं। Yona.ai एक शानदार प्लेटफ़ॉर्म प्रदान करता है जहाँ तुम अपने डिजिटल क्लोन बना सकते हो, अपनी पहुंच बढ़ा सकते हो और पंखे के कनेक्शन मजबूत कर सकते हो। अपने अनोखे संवादात्मक स्टाइल के साथ AI को प्रशिक्षित करके, तुम प्रशंसकों को कभी भी और कहीं भी, प्रामाणिक इंटरैक्शन अनुभव प्रदान कर सकते हो।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 
 [See All 👩‍⚕️ स्वास्थ्य देखभाल Applications on AI Collection](https://www.thataicollection.com/en/categories/healthcare?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -2994,6 +3010,21 @@ MusicTGA-HR एक API सेवा है जो कॉन्टेंट ब�
 
 
 
+### Undress.Vip
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+
+#### कपड़े उतारना.vip—2023 सबसे अच्छा 100% काम करने वाला अनड्रेस ऐ डीप न्यूड 
+[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress.vip, एक ज़बरदस्त एयर टूल, जो इस प्रगति में सबसे आगे है। undress.vip—2023 सबसे अच्छा 100% वर्किंग एआई डीपन्यूड और डीपफ़ेक टेलीग्राम अनड्रेस एयर बॉट्स
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Girlfriend GPT - NSFW AI Chatbots
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
 
@@ -3005,21 +3036,6 @@ MusicTGA-HR एक API सेवा है जो कॉन्टेंट ब�
 तुम्हारे बेतहाशा सपने आज बस एक क्लिक दूर हैं!
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
-
-#### कपड़े उतारना.vip—2023 सबसे अच्छा 100% काम करने वाला अनड्रेस ऐ डीप न्यूड 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress.vip, एक ज़बरदस्त एयर टूल, जो इस प्रगति में सबसे आगे है। undress.vip—2023 सबसे अच्छा 100% वर्किंग एआई डीपन्यूड और डीपफ़ेक टेलीग्राम अनड्रेस एयर बॉट्स
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3060,6 +3076,24 @@ Undress.vip, एक ज़बरदस्त एयर टूल, जो इस 
 
 
 
+### Nudes – Face Swap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudes-%E2%80%93-face-swap.webp" alt="Nudes – Face Swap">
+
+#### हमारी साइट पर फ़ेस स्वैप पोर्न और डीपफेक पोर्न मैजिक की संभावनाओं को अनलॉक करें!
+[Visit](https://www.thataicollection.com/redirect/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+टेलीग्राम न्यूड्स_फ़ेसस्वैप_बॉट! यह बॉट किसी भी वीडियो के चेहरे की अदला-बदली कर सकता है। इस्तेमाल कैसे करें?
+1)। बस चेहरे की इमेज अपलोड करें। 
+2)। टारगेट किया हुआ वीडियो अपलोड करें या चुनें। 
+3)। नतीजों का इंतजार करें।  
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Nudify.online
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online_.webp" alt="Nudify.online">
 
@@ -3071,21 +3105,6 @@ Undress.vip, एक ज़बरदस्त एयर टूल, जो इस 
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI-Girlfriend.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend.ai.webp" alt="AI-Girlfriend.AI">
-
-#### AI-Girlfriend.AI के साथ अपने सेक्सटिंग अनुभव में क्रांति लाएं
-[Visit](https://www.thataicollection.com/redirect/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI-Girlfriend.ai में आपका स्वागत है, जहाँ हम अपने AI-संचालित गर्लफ्रेंड अनुभव के ज़रिए सेक्सटिंग की कला को फिर से परिभाषित करते हैं। एक मज़ेदार, प्रतिबद्धता-मुक्त AI सेक्सटिंग सिमुलेशन के साथ डिजिटल इंटिमेसी की दुनिया में गोता लगाएँ, जो तुम्हारे कौशल को बढ़ाने और तुम्हारे इंटरैक्टिव अनुभवों को समृद्ध बनाने के लिए तैयार किया गया है।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

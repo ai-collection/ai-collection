@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1150" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1154" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -38,7 +38,7 @@
 <div align="center">
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
     <a href="LICENSE">License</a> •
-    <a href="https://aicollection.beehiiv.com/subscribe">Newsletter</a> •
+    <a href="https://www.ai-revolution.org/">Newsletter</a> •
     <a href="https://www.thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
 
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
     </a>
-    <h4>Desvestirse con IA: desnuda fotos GRATIS con AI Undressing</h4>
-    <p>¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con undressing.io</b></a>
+    <h4>Cartas de presentación personalizadas para cada oferta de trabajo en cuestión de segundos</h4>
+    <p>Haz que la IA explore hasta 10 salidas simultáneamente y seleccione la mejor según el criterio que hayas elegido. No se trata solo de la cantidad: se trata de conseguir el mejor resultado posible.</p>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con PowerDreamer AI Cover Letter Generator</b></a>
     <br />
 </div>
 
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
-    <h4>Cartas de presentación personalizadas para cada oferta de trabajo en cuestión de segundos</h4>
-    <p>Haz que la IA explore hasta 10 salidas simultáneamente y seleccione la mejor según el criterio que hayas elegido. No se trata solo de la cantidad: se trata de conseguir el mejor resultado posible.</p>
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con PowerDreamer AI Cover Letter Generator</b></a>
+    <h4>Desvestirse con IA: desnuda fotos GRATIS con AI Undressing</h4>
+    <p>¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez</p>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con undressing.io</b></a>
     <br />
 </div>
 
@@ -241,6 +241,7 @@
 | Nombre | Título | Descripción | Ofrecer versión gratuita |
 |---|---|---|:---:|
 | [Afforai](https://www.thataicollection.com/redirect/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tu copiloto de lectura de IA. Herramientas imprescindibles para el análisis de textos, la investigación y la búsqueda de documentos. | Afforai es un chatbot de IA que busca, resume y traduce información de varias fuentes para producir investigaciones fiables. ¡Charla con tus documentos y extrae las principales conclusiones relevantes para tus objetivos hoy mismo!. | :white_check_mark: |
+| [Bard PDF Today](https://www.thataicollection.com/redirect/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Resumidor y analizador de documentos PDF en línea gratuito. | Bard PDF introduce un cambio de paradigma en el ámbito del procesamiento y el análisis de documentos PDF. Sus eficaces funciones de resumen y análisis revolucionan la forma en que los usuarios interactúan con los archivos PDF. Independientemente de si eres investigador, profesional o estudiante, Bard PDF ofrece una amplia gama de beneficios para optimizar la productividad y fomentar la comprensión. | :white_check_mark: |
 | [Documind AI - Chat with PDF](https://www.thataicollection.com/redirect/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Documind AI: chatea con PDF mediante IA y GPT4. | Documind es una herramienta de chat con PDF que permite a los usuarios hacer preguntas desde su PDF. Es mejor que las herramientas genéricas que existen.  Nuestras características más destacadas son - - Carga masiva de documentos PDF. - Organizar los archivos en carpetas - Ver cita - Generar un resumen breve y conciso de un PDF largo - Inserta un chatbot gratis en tu página web - Los usuarios pueden generar un enlace para compartir y compartir su bot con sus compañeros de equipo y amigos. | :white_check_mark: |
 | [Elicit](https://www.thataicollection.com/redirect/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Elicit: el asistente de investigación de IA. | Elicit utiliza el aprendizaje automático para ayudarlo con su investigación: encuentre documentos, extraiga afirmaciones clave, resuma, haga una lluvia de ideas y más. | :grey_question: |
 | [Explainpaper](https://www.thataicollection.com/redirect/explainpaper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | La forma más rápida de leer trabajos de investigación. | Cargue un documento, resalte el texto confuso, obtenga una explicación. Hacemos que los trabajos de investigación sean fáciles de leer. | :white_check_mark: |
@@ -464,6 +465,7 @@
 | [Replika](https://www.thataicollection.com/redirect/replika?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | El compañero de IA que se preocupa. | Siempre aquí para escuchar y hablar. Siempre a tu lado. ¡Únase a los millones que crecen con sus amigos de IA ahora!. | :grey_question: |
 | [SINE AI](https://www.thataicollection.com/redirect/sine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Descúbrete con Sine AI: astrología, tarot y más allá. | Sine AI ofrece un viaje hacia el autodescubrimiento a través de la astrología, el tarot y los cuestionarios. Descubre tus puntos fuertes y débiles y consigue afirmaciones a diario. Sumérgete en tu carta natal para obtener información profunda y busca orientación con las lecturas del tarot. Aprovecha tu potencial y tu sabiduría interior con Sine AI. | :white_check_mark: |
 | [Ubie AI Symptom Checker](https://www.thataicollection.com/redirect/ubie-ai-symptom-checker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Verifique los síntomas y encuentre las causas por IA. | Verifique los síntomas y encuentre causas por IA: responda el cuestionario sobre sus síntomas para descubrir posibles causas, tipos, gravedad y tratamiento de forma gratuita por IA. Desarrollado por médicos. | :white_check_mark: |
+| [Yona.ai](https://www.thataicollection.com/redirect/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Yona.ai: Potencia tu influencia con un clon de IA personalizado. | En la era digital, los creadores y las personas influyentes buscan constantemente formas innovadoras de interactuar con su público. Yona.ai ofrece una plataforma innovadora en la que puedes crear clones digitales de ti mismo, ampliar tu alcance y profundizar las conexiones de los fans. Al entrenar una IA con tu estilo de conversación único, puedes ofrecer a los fans una experiencia de interacción auténtica en cualquier momento y en cualquier lugar. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->

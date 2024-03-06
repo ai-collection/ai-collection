@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1150" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1154" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -38,7 +38,7 @@
 <div align="center">
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
     <a href="LICENSE">License</a> •
-    <a href="https://aicollection.beehiiv.com/subscribe">Newsletter</a> •
+    <a href="https://www.ai-revolution.org/">Newsletter</a> •
     <a href="https://www.thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
 
@@ -154,6 +154,7 @@
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
 | [Afforai](https://www.thataicollection.com/redirect/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | तुम्हारा AI रीडिंग कोपायलट। टेक्स्ट विश्लेषण, शोध और दस्तावेज़ खोजने के लिए ज़रूरी टूल. | Afforai एक AI चैटबॉट है जो भरोसेमंद शोध करने के लिए कई स्रोतों से जानकारी खोजता है, सारांशित करता है और उसका अनुवाद करता है। अपने दस्तावेज़ों के साथ बात करें और आज ही अपने लक्ष्यों से संबंधित मुख्य निष्कर्ष निकालें!. | :white_check_mark: |
+| [Bard PDF Today](https://www.thataicollection.com/redirect/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मुफ़्त ऑनलाइन PDF दस्तावेज़ समराइज़र और एनालाइज़र. | बार्ड PDF PDF दस्तावेज़ प्रोसेसिंग और विश्लेषण के क्षेत्र में एक बड़ा बदलाव पेश करता है। इसकी कुशल सारांश और विश्लेषण क्षमताएं यूज़र के PDF फाइलों के साथ इंटरैक्ट करने के तरीके में क्रांति ला देती हैं। इस बात की परवाह किए बिना कि तुम शोधकर्ता, पेशेवर या छात्र हो, Bard PDF उत्पादकता को बेहतर बनाने और समझ को बढ़ावा देने के लिए कई तरह के लाभ प्रदान करता है।. | :white_check_mark: |
 | [Documind AI - Chat with PDF](https://www.thataicollection.com/redirect/documind-ai---chat-with-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Documind AI - AI और GPT4 का इस्तेमाल करके PDF से चैट करें. | डॉक्यूमाइंड PDF के साथ बातचीत करने वाला टूल है, जिससे यूज़र अपने PDF से सवाल पूछ सकते हैं। यह जेनेरिक टूल से बेहतर है।  हमारी खास विशेषताएं ये हैं - - PDF दस्तावेज़ों को थोक में अपलोड करें। - फ़ाइलों को फ़ोल्डर में व्यवस्थित करें - उद्धरण देखें - लंबी PDF का संक्षिप्त और संक्षिप्त सारांश जेनरेट करें - अपनी वेबसाइट पर चैटबॉट को मुफ़्त में एम्बेड करें - यूज़र शेयर करने योग्य लिंक जेनरेट कर सकते हैं और अपने बॉट को टीम के साथियों और दोस्तों के साथ शेयर कर सकते हैं. | :white_check_mark: |
 | [Elicit](https://www.thataicollection.com/redirect/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एलिसिट: एआई रिसर्च असिस्टेंट. | एलिसिट आपके शोध में आपकी मदद करने के लिए मशीन लर्निंग का उपयोग करता है: कागजात खोजें, प्रमुख दावों को निकालें, सारांशित करें, विचार मंथन करें, और बहुत कुछ।. | :grey_question: |
 | [Explainpaper](https://www.thataicollection.com/redirect/explainpaper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | शोध पत्रों को पढ़ने का सबसे तेज़ तरीका. | एक पेपर अपलोड करें, भ्रमित करने वाले टेक्स्ट को हाइलाइट करें, स्पष्टीकरण प्राप्त करें। हम शोध पत्रों को पढ़ने में आसान बनाते हैं।. | :white_check_mark: |
@@ -1546,6 +1547,7 @@
 | [Replika](https://www.thataicollection.com/redirect/replika?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई साथी जो परवाह करता है. | हमेशा यहां सुनने और बात करने के लिए। हमेशा अपनी तरफ रहो। उनके एआई मित्रों के साथ बढ़ रहे लाखों लोगों से अभी जुड़ें!. | :grey_question: |
 | [SINE AI](https://www.thataicollection.com/redirect/sine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | साइन एआई के ज़रिए ख़ुद के बारे में जानें: ज्योतिष, टैरो, और उसके बाद. | साइन एआई ज्योतिष, टैरो और क्विज़ के ज़रिए सेल्फ़ डिस्कवरी की यात्रा की पेशकश करता है। खूबियों, कमज़ोरियों को उजागर करो और रोज़ाना पुष्टि पाओ। गहरी जानकारी के लिए अपनी जन्म कुंडली में गोता लगाएँ और टैरो रीडिंग से मार्गदर्शन पाएँ। साइन एआई के साथ अपनी क्षमता और अंदरूनी ज्ञान को अपनाएं।. | :white_check_mark: |
 | [Ubie AI Symptom Checker](https://www.thataicollection.com/redirect/ubie-ai-symptom-checker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई द्वारा लक्षणों की जांच करें और कारणों का पता लगाएं. | एआई द्वारा लक्षणों की जांच करें और कारणों का पता लगाएं - एआई द्वारा संभावित कारणों, प्रकारों, गंभीरता और उपचार का पता लगाने के लिए अपने लक्षणों के बारे में प्रश्नोत्तरी का उत्तर दें। डॉक्टरों द्वारा विकसित. | :white_check_mark: |
+| [Yona.ai](https://www.thataicollection.com/redirect/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Yona.ai: पर्सनलाइज़्ड AI क्लोन के साथ अपने प्रभाव को बेहतर बनाएं. | डिजिटल युग में, निर्माता और प्रभावित करने वाले अपने दर्शकों से जुड़ने के लिए लगातार नए तरीके खोज रहे हैं। Yona.ai एक शानदार प्लेटफ़ॉर्म प्रदान करता है जहाँ तुम अपने डिजिटल क्लोन बना सकते हो, अपनी पहुंच बढ़ा सकते हो और पंखे के कनेक्शन मजबूत कर सकते हो। अपने अनोखे संवादात्मक स्टाइल के साथ AI को प्रशिक्षित करके, तुम प्रशंसकों को कभी भी और कहीं भी, प्रामाणिक इंटरैक्शन अनुभव प्रदान कर सकते हो।. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
