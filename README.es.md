@@ -53,14 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
-    <h4>Empieza a chatear gratis con nuestro rápido y aterrador motor de personajes de IA de la NSFW. Divertido, útil, nuestros más de 7500 personajes de sexting con IA lo tienen. IA sin censura, sin juicio. Tú tienes el control.</h4>
-    <p>Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para recibir mensajes de texto con IA y charlas picantes las 24 horas del día, los 7 días de la semana
-
-¡Tus sueños más locos están a un clic de distancia hoy!</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Girlfriend GPT - NSFW AI Chatbots</b></a>
+    <h4>Desvestirse con IA: desnuda fotos GRATIS con AI Undressing</h4>
+    <p>¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez</p>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con undressing.io</b></a>
     <br />
 </div>
 
@@ -74,19 +72,6 @@
     <h4>Cartas de presentación personalizadas para cada oferta de trabajo en cuestión de segundos</h4>
     <p>Haz que la IA explore hasta 10 salidas simultáneamente y seleccione la mejor según el criterio que hayas elegido. No se trata solo de la cantidad: se trata de conseguir el mejor resultado posible.</p>
     <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con PowerDreamer AI Cover Letter Generator</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
-    </a>
-    <h4>Desvestirse con IA: desnuda fotos GRATIS con AI Undressing</h4>
-    <p>¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con undressing.io</b></a>
     <br />
 </div>
 
@@ -152,6 +137,69 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
 
+### So You Had An Idea
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-so-you-had-an-idea.webp" alt="So You Had An Idea">
+
+#### Convierte tus ideas de negocio en planes de acción con el poder de la IA
+[Visit](https://www.thataicollection.com/redirect/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+¿Tienes una buena idea de negocio pero no sabes por dónde empezar? Nuestro cuestionario guiado te guía para conocer tu negocio y tus clientes potenciales. Basándonos en tus respuestas, elaboraremos un plan de acción personalizado para ayudarte a empezar, que incluirá estrategias de marketing y generación de ingresos.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Vidnoz AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai.webp" alt="Vidnoz AI">
+
+#### Vidnoz AI: Presentamos una plataforma de vídeo de IA gratuita para reducir los costes de los usuarios un 80% y aumentar 10 veces la productividad
+[Visit](https://www.thataicollection.com/redirect/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+un generador de vídeos de IA gratuito, Vidnoz AI, que ayuda a la gente a crear vídeos de forma más fácil y rápida que nunca. Para beneficiar a más personas con sus eficaces herramientas de vídeo de IA, Vidnoz
+proporciona acceso diario gratuito a la generación de vídeos a todos los usuarios. Mediante el uso de avatares de IA, vídeo
+plantillas y otras herramientas basadas en la IA, todos en Vidnoz pueden crear vídeos atractivos
+sin esfuerzo
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Sticker AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sticker-ai.webp" alt="Sticker AI">
+
+#### ¡Pegatina AI en línea! Generador de pegatinas de IA gratuito, genera pegatinas a partir de palabras rápidas mediante la IA.
+[Visit](https://www.thataicollection.com/redirect/sticker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Sticker AI es un generador de pegatinas de IA gratuito que crea pegatinas a partir de un mensaje mediante tecnología de IA. Ya sea para redes sociales, aplicaciones de mensajería o uso personal, Sticker AI Online ofrece una forma fácil y divertida de crear pegatinas personalizadas. Prueba Sticker AI Online hoy mismo y da vida a tus ideas con pegatinas personalizadas diseñadas por inteligencia artificial.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/sticker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### SinglebaseCloud
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-singlebasecloud.webp" alt="SinglebaseCloud">
+
+#### Plataforma de backend basada en IA con Vector DB, Document DB, Auth y más para acelerar el desarrollo de aplicaciones.
+[Visit](https://www.thataicollection.com/redirect/singlebasecloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SingleBaseCloud es una plataforma de backend como servicio todo en uno impulsada por la IA para crear aplicaciones móviles y web con rapidez. Te proporcionamos los siguientes componentes para que crees tus aplicaciones: base de datos vectorial, base de datos relacional de documentos para un modelo de datos flexible, autenticación para que los usuarios se registren e inicien sesión en tus aplicaciones, búsqueda por similitud mediante IA, almacenamiento de documentos e imágenes. 
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/singlebasecloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Magic Hour
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magic-hour.webp" alt="Magic Hour">
 
@@ -191,73 +239,6 @@ Architecture Helper es una plataforma para analizar y explorar varios estilos e 
 iMgGen AI es una herramienta gratuita de generación y mejora de imágenes de IA que simplifica las mejoras complejas, como la generación de imágenes, la eliminación de fondos, la eliminación de texto, la difuminación de las imágenes, el aumento de escala y mucho más. Genera fotos profesionales de IA a la cabeza gratis con Imggen AI.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/imggen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### TrollyAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-trollyai.webp" alt="TrollyAI">
-
-#### Crea artículos de SEO profesionales, 2 veces más rápido
-[Visit](https://www.thataicollection.com/redirect/trollyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Trolly AI: Revolucionando la creación de contenido SEO con tecnología de IA avanzada. 
-
-En la era digital, el contenido es el rey. Pero no cualquier contenido, sino que tiene que optimizarse, ser gramaticalmente correcto y producirse a escala para satisfacer las crecientes demandas de presencia en Internet. La IA de Trolly se perfila como una solución vanguardista, diseñada específicamente para satisfacer estas necesidades con sus funciones avanzadas impulsadas por la IA.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/trollyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Face Swap AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-face-swap-ai.webp" alt="Face Swap AI">
-
-#### Face Swap Online - Face Swap en línea gratis
-[Visit](https://www.thataicollection.com/redirect/face-swap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¡Pon tu rostro en cualquier foto de forma fácil y rápida con la tecnología de inteligencia artificial! Con los avances de la inteligencia artificial, ahora es posible integrar tu rostro en cualquier foto sin problemas, creando resultados realistas y convincentes. 
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/face-swap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### DreamGen: AI role-playing and strory-writing
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
-
-#### DreamGen: juegos de rol y escritura de historias con IA
-[Visit](https://www.thataicollection.com/redirect/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Juegos de rol y escritura de historias con IA en los que el único límite es tu imaginación, ni filtros arbitrarios.
-
-Sumérgete directamente en uno de nuestros escenarios o crea el tuyo propio. Habla con los personajes, explora reinos fantásticos y mucho más. Sin reglas, sin restricciones.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### PDF GPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pdf-gpt.webp" alt="PDF GPT">
-
-#### Sube cualquier PDF y obtén resúmenes, traducciones, respuestas y citas en segundos. 
-[Visit](https://www.thataicollection.com/redirect/pdf-gpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PDF GPT, una herramienta que cambia las reglas del juego y que puede aumentar tu productividad.
-1. Sube un PDF en cualquier idioma
-2. El PDF GPT es un asistente personal de IA que puede explicar conceptos, escribir resúmenes, buscar citas, obtener citas, generar preguntas de estudio y mucho más, todo a partir de un documento.
-3. El PDF GPT encontrará la información que necesitas y te dará una respuesta o generará contenido en segundos, con citas.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/pdf-gpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3561,15 +3542,15 @@ Cogram utiliza IA para tomar notas en reuniones virtuales, realizar un seguimien
 
 
 
-### Cloobot X
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cloobot-x.webp" alt="Cloobot X">
+### So You Had An Idea
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-so-you-had-an-idea.webp" alt="So You Had An Idea">
 
-#### La creación de aplicaciones empresariales está ahora a punto de llegar
-[Visit](https://www.thataicollection.com/redirect/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Convierte tus ideas de negocio en planes de acción con el poder de la IA
+[Visit](https://www.thataicollection.com/redirect/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Cloobot X está cambiando el desarrollo del software empresarial con una plataforma sin código de próxima generación. Permite a los solucionadores de problemas a lo largo del ciclo de vida del software una interacción basada en las instrucciones y reduce 10 veces el tiempo de entrega, ofreciendo prototipos, MVP y bases de código en los idiomas elegidos. Para abordar los problemas de la IA, se puede implementar in situ, se adapta a los LLM personalizados y genera código mediante algoritmos patentados. 
+¿Tienes una buena idea de negocio pero no sabes por dónde empezar? Nuestro cuestionario guiado te guía para conocer tu negocio y tus clientes potenciales. Basándonos en tus respuestas, elaboraremos un plan de acción personalizado para ayudarte a empezar, que incluirá estrategias de marketing y generación de ingresos.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4898,11 +4879,11 @@ Crea vídeos profesionales sin micrófonos, cámaras ni actores con el generador
 ### Vidnoz AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai.webp" alt="Vidnoz AI">
 
-#### Vidnoz AI: presentamos una plataforma de vídeo de IA gratuita para reducir los costes de los usuarios en un 80% y aumentar 10 veces la productividad
+#### Vidnoz AI: Presentamos una plataforma de vídeo de IA gratuita para reducir los costes de los usuarios un 80% y aumentar 10 veces la productividad
 [Visit](https://www.thataicollection.com/redirect/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-un generador de vídeos de IA gratuito, la IA de Vidnoz, que ayuda a las personas a crear vídeos de forma más fácil y rápida que nunca. Para beneficiar a más personas con sus eficientes herramientas de vídeo de IA, Vidnoz
-proporciona acceso diario gratuito a la generación de vídeo a todos los usuarios. Mediante el uso de avatares de IA, vídeo
+un generador de vídeos de IA gratuito, Vidnoz AI, que ayuda a la gente a crear vídeos de forma más fácil y rápida que nunca. Para beneficiar a más personas con sus eficaces herramientas de vídeo de IA, Vidnoz
+proporciona acceso diario gratuito a la generación de vídeos a todos los usuarios. Mediante el uso de avatares de IA, vídeo
 plantillas y otras herramientas basadas en la IA, todos en Vidnoz pueden crear vídeos atractivos
 sin esfuerzo
 

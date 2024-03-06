@@ -53,21 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
-    </a>
-    <h4>使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。</h4>
-    <p>从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。
-
-今天只需点击一下即可实现您最疯狂的梦想！</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
@@ -245,6 +230,7 @@
 | [QueryGenie](https://www.thataicollection.com/redirect/querygenie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 更快地编写数据库查询！. | 使用 AI 从纯英文描述生成数据库查询。. | :grey_question: |
 | [Rome AI](https://www.thataicollection.com/redirect/rome-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 以对话方式查询您的数据. | Rome AI 连接您的数据源、分析并允许与您自己的数据进行对话式讨论！ Rome 是一个人工智能驱动的无代码数据支持和分析层，使非技术员工能够成为超人的数据分析师。. | :white_check_mark: |
 | [Scale](https://www.thataicollection.com/redirect/scale?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Scale Ai：利用您的数据为生成式 AI 提供动力. | Scale 深受世界一流公司的信赖，为自动驾驶汽车、地图、增强现实/虚拟现实、机器人等人工智能应用提供高质量的训练数据。用最好的数据制作最佳模型。Scale Data Engine 利用您的企业数据，借助 Scale Generation AI 平台，安全地释放人工智能的价值。. | :grey_question: |
+| [SinglebaseCloud](https://www.thataicollection.com/redirect/singlebasecloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 基于 AI 的后端平台，具有 Vector DB、文档数据库、身份验证等，可加快应用程序开发。. | SingleBaseCloud是一个由人工智能驱动的多合一后端即服务平台，可快速构建移动和网络应用程序。我们提供以下组件供您构建应用程序：矢量数据库、用于灵活数据模型的关系文档数据库、用于用户注册和登录应用程序的身份验证、人工智能相似度搜索、文档和图像存储。. | :white_check_mark: |
 | [SQLgenius](https://www.thataicollection.com/redirect/sqlgenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SQL Genius-英语到 SQL 查询 AI 翻译器. | 让 SQL Genius 为你编写 SQL。  使用升级 SQL Genius 的好处： 无限次查询， 一次最多保存 15 张桌子， 多个联接、窗口函数、分区、取消嵌套、 出色的客户支持。. | :grey_question: |
 | [SuperDuperDB](https://www.thataicollection.com/redirect/superduperdb?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SuperDuperDB：将人工智能带到你最喜欢的数据库！. | 轻松构建 AI 应用程序，无需将数据移动到复杂的管道和专门的矢量数据库。将 AI 和矢量搜索直接与您的数据库集成，包括实时推理和模型训练。只需使用 Python！. | :white_check_mark: |
 | [Swimm AI](https://www.thataicollection.com/redirect/swimm-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 你的代码文档超能力. | 使用 Swimm AI 创建文档结构、生成代码解释并增强文档可见性. | :white_check_mark: |
@@ -947,6 +933,7 @@
 | [Pth.AI](https://www.thataicollection.com/redirect/pth.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Beyond Chat - AI Co-Pilot 助您实现业务目标. | Pth.AI 是一种人工智能工具，可通过提问和创建步骤来引导非专业业务用户实现他们的目标，从而更轻松地与人工智能系统进行交互。. | :white_check_mark: |
 | [Sidekick](https://www.thataicollection.com/redirect/sidekick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 介绍 Jigso 的 Sidekick - AI Slackbot，充当您自己的业务个人助理。. | 直接从您的 Slack 即时免费访问 ChatGPT 4.0 并享受其他功能，例如在 Slack 中询问您的组织应用程序问题、跟踪重要主题、设置提醒、查询文档和总结对话. | :grey_question: |
 | [SlideSpeak](https://www.thataicollection.com/redirect/slidespeak?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SlideSpeak - 使用 AI 总结 PowerPoint、Word、PDF. | SlideSpeak 是由 ChatGPT 支持的聊天机器人，可让您总结文档、提出问题等等。只需上传您的文件，您就可以使用聊天来询问任何问题。我们的 AI 速度非常快，您无需连接任何 OpenAI API 密钥。. | :white_check_mark: |
+| [So You Had An Idea](https://www.thataicollection.com/redirect/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 借助 AI 的力量，将您的商业想法转化为行动计划. | 你有个不错的商业想法但不知道从哪里开始吗？我们的指导性问卷将引导您确定业务范围和潜在客户。根据您的答案，我们将制定定制的行动计划以帮助您入门，包括创收和营销策略。. | :grey_question: |
 | [SummerEyes](https://www.thataicollection.com/redirect/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Summereyes：浏览器中的 AI 驱动摘要. | Summereyes-一键汇总互联网上的所有文本。切入正题。快速。借助集成的自动化工具，您可以更快地处理更多信息，从而提高工作效率。从文章到电子邮件，仔细阅读 BS，找出重要内容。. | :white_check_mark: |
 | [Taplio](https://www.thataicollection.com/redirect/taplio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 由人工智能驱动的多合一LinkedIn工具。. | Taplio帮助6200多位LinkedIn专业人士建立强大的个人品牌，吸引客户和机会。  获取高性能内容、高级日程安排、深度分析和参与度生成器。. | :white_check_mark: |
 | [Thegist](https://www.thataicollection.com/redirect/thegist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Thegist AI 总结了 Slack 话题和频道——了解要点. | TheGist Workspace-您的所有工作应用程序都集中在一个地方，由 AI 提供支持。智能统一收件箱、AI 洞察、个性化摘要、工作项目状态等等。. | :grey_question: |
@@ -1366,6 +1353,7 @@
 | [StableCog](https://www.thataicollection.com/redirect/stablecog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 稳定齿轮. | 使用 Stable Diffusion 的免费、易于使用、多语言和开源 AI 图像生成器。. | :white_check_mark: |
 | [StarByFace](https://www.thataicollection.com/redirect/starbyface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 名人长相相似的人脸识别应用程序 - Celebs Like Me. | 我长得像什么名人？试着找出答案！名人长相相似的面部识别系统。找到你的分身。. | :grey_question: |
 | [Starryai](https://www.thataicollection.com/redirect/starryai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | starryai - 人工智能艺术生成器 App - AI Art Maker. | 只需输入提示，我们的 AI 就会将您的文字转化为艺术作品。. | :grey_question: |
+| [Sticker AI](https://www.thataicollection.com/redirect/sticker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 贴纸 AI 在线！免费的人工智能贴纸生成器，它使用AI根据提示词生成贴纸。. | Sticker AI是一个免费的人工智能贴纸生成器，它使用人工智能技术根据提示创建贴纸。无论是用于社交媒体、通讯应用程序还是个人用途，Sticker AI Online 都为创建自定义贴纸提供了一种有趣而简单的方式。立即试用 Sticker AI Online，用人工智能设计的自定义贴纸将你的想法变为现实！. | :white_check_mark: |
 | [StockPhotoAI.net](https://www.thataicollection.com/redirect/stockphotoai.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 为幻灯片、网站或印刷媒体生成素材照片。. | 每张照片都是用专业相机和专业演员拍摄的。我们使用自定义训练输入和最新的 Dall-E 模型来制作这些库存照片。用户可以在正方形、横向和人像方向和照片风格之间进行选择。. | :white_check_mark: |
 | [Stylized](https://www.thataicollection.com/redirect/stylized?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 拍摄产品照片的更好方式. | 30 秒内从电话到目录. | :grey_question: |
 | [SUPERMACHINE](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Supermachine-使用 AI 生成库存照片、艺术品和图像. | SUPERMACHINE 使您能够使用最新的人工智能技术生成图像。使用 55 多个模型生成精彩的 AI 图像。. | :grey_question: |
@@ -1431,7 +1419,7 @@
 | [Typestudio](https://www.thataicollection.com/redirect/typestudio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Type Studio â 通过编辑文本来编辑您的视频. | Type Studio 是一种快速、简单、愉快的方式来编辑和发展你的播客、流媒体和采访。. | :grey_question: |
 | [VEED.IO](https://www.thataicollection.com/redirect/veed.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | VEED.IO-人工智能视频编辑器-快速、在线、免费. | 免费的 AI 视频编辑器，包含文字转视频、头像、自动字幕、语音翻译等。使用 VEED 在线录制、编辑和共享您的视频。. | :white_check_mark: |
 | [Videodubber.ai](https://www.thataicollection.com/redirect/videodubber.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Videodubber：人工智能视频翻译、文字转语音服务. | 由人工智能驱动的免费西班牙语到英语的视频翻译、语音克隆和文字转语音。与我们一起扩展到 30 多种语言，让您的受众规模扩大到 10 倍！. | :white_check_mark: |
-| [Vidnoz AI](https://www.thataicollection.com/redirect/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Vidnoz AI：推出免费的人工智能视频平台，将用户成本降低80％，并将生产力提高10倍. | 免费的人工智能视频生成器——Vidnoz AI，它可以帮助人们比以往任何时候都更轻松、更快地制作视频。为了利用其高效的人工智能视频工具使更多人受益，Vidnoz 向所有用户提供每日免费视频生成权限。通过使用 AI 头像、视频 模板和其他基于人工智能的工具，Vidnoz 上的每个人都可以创建引人入胜的视频 毫不费力. | :white_check_mark: |
+| [Vidnoz AI](https://www.thataicollection.com/redirect/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Vidnoz AI：推出免费的人工智能视频平台，将用户成本降低80％，将生产力提高10倍. | 免费的人工智能视频生成器——Vidnoz AI，它可以帮助人们比以往任何时候都更轻松、更快地制作视频。为了通过其高效的人工智能视频工具使更多人受益，Vidnoz 为所有用户提供每日免费视频生成权限。通过使用 AI 头像、视频 模板和其他基于人工智能的工具，Vidnoz 上的每个人都可以创建引人入胜的视频 毫不费力. | :white_check_mark: |
 | [Vidnoz Flex](https://www.thataicollection.com/redirect/vidnoz-flex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 强有力地创建、共享、管理和跟踪您的视频。. | Vidnoz Flex 是 Vidnoz 推出的一款简单但功能强大的视频工具，它集视频创作、个性化、共享和跟踪功能于一身。它将完全提高您在日常工作中制作和推广视频的效率，并带来最显著的效果。. | :white_check_mark: |
 | [Vidyo](https://www.thataicollection.com/redirect/vidyo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 基于 AI 的内容再利用 - vidyo.ai. | 使用 AI 从您的视频创建适合社交的短片 ✨ 节省 90% 的时间和精力. | :grey_question: |
 | [Waymark](https://www.thataicollection.com/redirect/waymark?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过令人难以置信的简单视频促进本地销售。. | 当电视、CTV 和数字广告如此轻松时，可能性是无限的。高影响力的广告现在向所有人开放，Waymark。. | :grey_question: |

@@ -72,21 +72,6 @@ Translations:
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
-    </a>
-    <h4>Start chatting for free with our scary fast NSFW AI character engine. Playful, helpful, our 7500+ AI sexting characters got it. Uncensored AI, no judgment. You are in control.</h4>
-    <p>Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.
-
-Your wildest dreams are just a click away today!</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
     </a>
@@ -158,6 +143,69 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### So You Had An Idea
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-so-you-had-an-idea.webp" alt="So You Had An Idea">
+
+#### Turn your business ideas into action plans with the power of AI
+[Visit](https://www.thataicollection.com/redirect/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Have you got a great business idea but you don't know where to start? Our guided questionnaire walks you through scoping out your business and potential customers. Based on your answers we'll produce a bespoke action plan to help you get started, including revenue generation and marketing strategies.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Vidnoz AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai.webp" alt="Vidnoz AI">
+
+#### Vidnoz AI: Introducing a Free AI Video Platform to Cut Users' Costs by 80% and Boost 10X Productivity
+[Visit](https://www.thataicollection.com/redirect/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+a free AI video generator - Vidnoz AI, which helps people make videos easier and faster than ever before. To benefit more people with its efficient AI video tools, Vidnoz
+provides daily free video generation access to all users. By using AI avatars, video
+templates and other AI-based tools, everyone on Vidnoz can create engaging videos
+effortlessly
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Sticker AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sticker-ai.webp" alt="Sticker AI">
+
+#### Sticker AI Online !Free AI Sticker Generator, It generates sticker from a prompt words using AI.
+[Visit](https://www.thataicollection.com/redirect/sticker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Sticker AI is a free AI sticker generator that creates stickers from a prompt using AI technology. Whether it's for social media, messaging apps, or personal use, Sticker AI Online provides a fun and easy way to create custom stickers. Try Sticker AI Online today and bring your ideas to life with custom stickers designed by artificial intelligence!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/sticker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### SinglebaseCloud
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-singlebasecloud.webp" alt="SinglebaseCloud">
+
+#### AI-powered backend platform with Vector DB, Document DB, Auth, and more to speed up app development.
+[Visit](https://www.thataicollection.com/redirect/singlebasecloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SinglebaseCloud is an all-in-one AI-Powered backend-as-a-service platform to build mobile and web apps fast. We provide the following components for you to build your apps: Vector Database, Relational Document Database for flexible data model, Authentication for users to signup and login to your apps, AI Similarity Search, Storage for documents and images. 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/singlebasecloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Magic Hour
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magic-hour.webp" alt="Magic Hour">
 
@@ -197,73 +245,6 @@ Architecture Helper is a platform for analyzing and exploring various architectu
 ImgGen AI is a free AI image generator and enhancement tool, that simplifies complex enhancements like generating images, background removal, text removal, unblurring images, upscaling, and more. Generate professional AI headshots for Free with Imggen AI.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/imggen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### TrollyAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-trollyai.webp" alt="TrollyAI">
-
-#### Create professional SEO articles, 2x faster
-[Visit](https://www.thataicollection.com/redirect/trollyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Trolly AI: Revolutionizing SEO Content Creation with Advanced AI Technology. 
-
-In the digital age, content is king. But not just any content – it needs to be optimized, grammatically correct, and produced at scale to meet the ever-growing demands of online presence. Trolly AI emerges as a cutting-edge solution, specifically designed to cater to these needs with its advanced AI-driven capabilities.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/trollyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Face Swap AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-face-swap-ai.webp" alt="Face Swap AI">
-
-#### Face Swap Online - Face Swap Online Free
-[Visit](https://www.thataicollection.com/redirect/face-swap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Easily and quickly put your face into any photo using AI technology! With the advancement of artificial intelligence, it is now possible to seamlessly integrate your face into any photo, creating realistic and convincing results. 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/face-swap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### DreamGen: AI role-playing and strory-writing
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
-
-#### DreamGen: AI role-playing and strory-writing
-[Visit](https://www.thataicollection.com/redirect/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI role-playing and story-writing where the only limit is your imagination, nor arbitrary filters.
-
-Jump right into one of our scenarios, or create your own. Talk with characters, explore fantasy realms, and more. No rules, no restrictions.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### PDF GPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pdf-gpt.webp" alt="PDF GPT">
-
-#### Upload any PDF and get summaries, translations, answers, and citations in seconds. 
-[Visit](https://www.thataicollection.com/redirect/pdf-gpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PDF GPT a game changing tool that can boost your productivity.
-1. Upload a PDF in any language
-2. PDF GPT is an AI personal assistant that can explain concepts, write summaries, find quotes, get citations, generate study questions, and more—all from a document.
-3. PDF GPT will find the information you need and give you an answer or generate content in seconds, with citations.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/pdf-gpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3568,15 +3549,15 @@ Cogram uses AI to take notes in virtual meetings, track action items, and automa
 <br />
 
 
-### Cloobot X
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cloobot-x.webp" alt="Cloobot X">
+### So You Had An Idea
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-so-you-had-an-idea.webp" alt="So You Had An Idea">
 
-#### Creating Business Apps is Now a Prompt Away
-[Visit](https://www.thataicollection.com/redirect/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Turn your business ideas into action plans with the power of AI
+[Visit](https://www.thataicollection.com/redirect/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Cloobot X is changing enterprise software development with a next-gen no-code platform. It empowers problem solvers across the software lifecycle with prompt-based interaction, and slashes delivery time by 10x, offering prototypes, MVPs, and codebase in chosen languages. Addressing AI concerns, it's deployable on-premise, adaptable to custom LLMs, and generates code via proprietary algorithms. 
+Have you got a great business idea but you don't know where to start? Our guided questionnaire walks you through scoping out your business and potential customers. Based on your answers we'll produce a bespoke action plan to help you get started, including revenue generation and marketing strategies.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

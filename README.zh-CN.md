@@ -53,21 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots" border="0"/>
-    </a>
-    <h4>使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。</h4>
-    <p>从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。
-
-今天只需点击一下即可实现您最疯狂的梦想！</p>
-    <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Girlfriend GPT - NSFW AI Chatbots</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
@@ -152,6 +137,69 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### So You Had An Idea
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-so-you-had-an-idea.webp" alt="So You Had An Idea">
+
+#### 借助 AI 的力量，将您的商业想法转化为行动计划
+[Visit](https://www.thataicollection.com/redirect/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+你有个不错的商业想法但不知道从哪里开始吗？我们的指导性问卷将引导您确定业务范围和潜在客户。根据您的答案，我们将制定定制的行动计划以帮助您入门，包括创收和营销策略。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Vidnoz AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai.webp" alt="Vidnoz AI">
+
+#### Vidnoz AI：推出免费的人工智能视频平台，将用户成本降低80％，将生产力提高10倍
+[Visit](https://www.thataicollection.com/redirect/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+免费的人工智能视频生成器——Vidnoz AI，它可以帮助人们比以往任何时候都更轻松、更快地制作视频。为了通过其高效的人工智能视频工具使更多人受益，Vidnoz
+为所有用户提供每日免费视频生成权限。通过使用 AI 头像、视频
+模板和其他基于人工智能的工具，Vidnoz 上的每个人都可以创建引人入胜的视频
+毫不费力
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Sticker AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sticker-ai.webp" alt="Sticker AI">
+
+#### 贴纸 AI 在线！免费的人工智能贴纸生成器，它使用AI根据提示词生成贴纸。
+[Visit](https://www.thataicollection.com/redirect/sticker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Sticker AI是一个免费的人工智能贴纸生成器，它使用人工智能技术根据提示创建贴纸。无论是用于社交媒体、通讯应用程序还是个人用途，Sticker AI Online 都为创建自定义贴纸提供了一种有趣而简单的方式。立即试用 Sticker AI Online，用人工智能设计的自定义贴纸将你的想法变为现实！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/sticker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### SinglebaseCloud
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-singlebasecloud.webp" alt="SinglebaseCloud">
+
+#### 基于 AI 的后端平台，具有 Vector DB、文档数据库、身份验证等，可加快应用程序开发。
+[Visit](https://www.thataicollection.com/redirect/singlebasecloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SingleBaseCloud是一个由人工智能驱动的多合一后端即服务平台，可快速构建移动和网络应用程序。我们提供以下组件供您构建应用程序：矢量数据库、用于灵活数据模型的关系文档数据库、用于用户注册和登录应用程序的身份验证、人工智能相似度搜索、文档和图像存储。 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/singlebasecloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Magic Hour
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magic-hour.webp" alt="Magic Hour">
 
@@ -191,73 +239,6 @@ Architecture Helper 是一个通过用户提交的照片分析和探索各种建
 ImgGen AI 是一款免费的 AI 图像生成器和增强工具，可简化复杂的增强功能，例如生成图像、移除背景、移除文本、消除图像模糊、放大等等。使用 Imgen AI 免费生成专业的人工智能头像。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/imggen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### TrollyAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-trollyai.webp" alt="TrollyAI">
-
-#### 创建专业的 SEO 文章，速度加快 2 倍
-[Visit](https://www.thataicollection.com/redirect/trollyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Trolly AI：利用先进的人工智能技术彻底改变SEO内容创作。 
-
-在数字时代，内容为王。但不仅仅是任何内容——它需要优化、语法正确并大规模制作，以满足不断增长的在线存在需求。Trolly AI 以尖端解决方案的形式出现，专为通过其先进的人工智能驱动功能满足这些需求而设计。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/trollyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Face Swap AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-face-swap-ai.webp" alt="Face Swap AI">
-
-#### 在线换脸-在线免费换脸
-[Visit](https://www.thataicollection.com/redirect/face-swap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用人工智能技术，轻松快速地将你的脸放到任何照片中！随着人工智能的进步，现在可以将您的脸部无缝集成到任何照片中，从而产生逼真而令人信服的效果。 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/face-swap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### DreamGen: AI role-playing and strory-writing
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
-
-#### DreamGen：人工智能角色扮演和故事写作
-[Visit](https://www.thataicollection.com/redirect/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-人工智能角色扮演和故事写作，唯一的限制是你的想象力，也不是任意的过滤器。
-
-直接进入我们的场景之一，或者创建自己的场景。与角色交谈，探索幻想领域等等。没有规则，没有限制。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### PDF GPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pdf-gpt.webp" alt="PDF GPT">
-
-#### 上传任何 PDF，几秒钟内即可获得摘要、翻译、答案和引文。 
-[Visit](https://www.thataicollection.com/redirect/pdf-gpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PDF GPT 是一款可以提高工作效率的游戏规则改变工具。
-1。上传任何语言的 PDF
-2。PDF GPT 是一款人工智能个人助理，可以从文档中解释概念、撰写摘要、查找引文、生成研究问题等。
-3.PDF GPT 将找到您需要的信息，给出答案或在几秒钟内生成内容，并附上引文。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pdf-gpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3562,15 +3543,15 @@ Cogram 使用 AI 在虚拟会议中做笔记、跟踪行动项目并自动执行
 <br />
 
 
-### Cloobot X
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cloobot-x.webp" alt="Cloobot X">
+### So You Had An Idea
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-so-you-had-an-idea.webp" alt="So You Had An Idea">
 
-#### 现在可以立即创建业务应用程序
-[Visit](https://www.thataicollection.com/redirect/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 借助 AI 的力量，将您的商业想法转化为行动计划
+[Visit](https://www.thataicollection.com/redirect/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Cloobot X 正在通过下一代无代码平台改变企业软件开发。它通过基于即时的交互为整个软件生命周期中的问题解决者提供支持，并将交付时间缩短了10倍，以所选语言提供原型、MVP和代码库。为了解决人工智能问题，它可以在本地部署，适应自定义 LLM，并通过专有算法生成代码。 
+你有个不错的商业想法但不知道从哪里开始吗？我们的指导性问卷将引导您确定业务范围和潜在客户。根据您的答案，我们将制定定制的行动计划以帮助您入门，包括创收和营销策略。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4899,11 +4880,11 @@ Vidnoz Flex 是 Vidnoz 推出的一款简单但功能强大的视频工具，它
 ### Vidnoz AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai.webp" alt="Vidnoz AI">
 
-#### Vidnoz AI：推出免费的人工智能视频平台，将用户成本降低80％，并将生产力提高10倍
+#### Vidnoz AI：推出免费的人工智能视频平台，将用户成本降低80％，将生产力提高10倍
 [Visit](https://www.thataicollection.com/redirect/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-免费的人工智能视频生成器——Vidnoz AI，它可以帮助人们比以往任何时候都更轻松、更快地制作视频。为了利用其高效的人工智能视频工具使更多人受益，Vidnoz
-向所有用户提供每日免费视频生成权限。通过使用 AI 头像、视频
+免费的人工智能视频生成器——Vidnoz AI，它可以帮助人们比以往任何时候都更轻松、更快地制作视频。为了通过其高效的人工智能视频工具使更多人受益，Vidnoz
+为所有用户提供每日免费视频生成权限。通过使用 AI 头像、视频
 模板和其他基于人工智能的工具，Vidnoz 上的每个人都可以创建引人入胜的视频
 毫不费力
 
