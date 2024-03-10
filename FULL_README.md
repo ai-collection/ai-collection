@@ -59,6 +59,22 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
+    </a>
+    <h4>Fotor - Online photo editor for everyone. Edit photos faster and easier with AI.</h4>
+    <p>online photo editor offers everything you need to enhance and edit photos effortlessly. Experience simple photo editing online for free! . Complex photo editing made simple with Fotor AI photo editor. AI Photo Enhancer, AI Background Remover, AI Object Remover and more.
+
+
+</p>
+    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Fotor</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
@@ -72,12 +88,12 @@ Translations:
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Tailored cover letters for each job opening in seconds</h4>
-    <p>Have AI explore up to 10 outputs simultaneously and select the best one based on the criterion you chose. It's not just about quantity: it's about getting you the best possible result.</p>
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with PowerDreamer AI Cover Letter Generator</b></a>
+    <h4>Craft the perfect resume, with a little help from AI</h4>
+    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
+    <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
     <br />
 </div>
 

@@ -53,6 +53,22 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
+    </a>
+    <h4>Fotor — онлайн-редактор фотографий для всех. Редактируйте фотографии быстрее и проще с помощью искусственного интеллекта.</h4>
+    <p>онлайн-редактор фотографий предлагает все необходимое для легкого улучшения и редактирования фотографий. Попробуйте простое редактирование фотографий онлайн бесплатно! . Сложное редактирование фотографий стало проще с помощью фоторедактора Fotor AI. AI Photo Enhancer, средство для удаления фона AI, средство для удаления объектов AI и многое другое.
+
+
+</p>
+    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Fotor</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
@@ -66,12 +82,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Индивидуальные сопроводительные письма к каждой вакансии за считанные секунды</h4>
-    <p>Попросите ИИ изучить до 10 выходов одновременно и выбрать лучший на основе выбранного вами критерия. Дело не только в количестве, но и в том, чтобы получить наилучший результат.</p>
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с PowerDreamer AI Cover Letter Generator</b></a>
+    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
+    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
+    <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
     <br />
 </div>
 

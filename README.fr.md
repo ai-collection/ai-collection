@@ -66,12 +66,28 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Des lettres de motivation personnalisées pour chaque offre d'emploi en quelques secondes</h4>
-    <p>Demandez à l'IA d'explorer jusqu'à 10 sorties simultanément et de sélectionner la meilleure en fonction du critère que tu as choisi. Ce n'est pas qu'une question de quantité : il s'agit d'obtenir le meilleur résultat possible.</p>
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec PowerDreamer AI Cover Letter Generator</b></a>
+    <h4>Rédigez le CV parfait avec l'aide de l'IA</h4>
+    <p>Tu n'as pas besoin d'être une rédactrice de CV professionnelle pour créer rapidement et facilement un CV qui reflète fidèlement ton expérience professionnelle. Le générateur de CV IA personnalisable de Hunter t'aidera à rédiger un CV bien rédigé et adapté aux ATS afin de décrocher plus d'entretiens.</p>
+    <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Huntr AI Resume Builder</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
+    </a>
+    <h4>Fotor - Un éditeur de photos en ligne pour tous. Retouche des photos plus rapidement et plus facilement grâce à l'IA.</h4>
+    <p>l'éditeur de photos en ligne offre tout ce dont tu as besoin pour améliorer et retoucher des photos sans effort. Faites l'expérience de la retouche photo en ligne, en toute simplicité, gratuitement ! . La retouche photo complexe simplifiée grâce à l'éditeur de photos Fotor AI. AI Photo Enhancer, AI Background Remover, AI Object Remover et plus encore.
+
+
+</p>
+    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Fotor</b></a>
     <br />
 </div>
 
