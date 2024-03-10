@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1154" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1161" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -137,6 +137,88 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 ## Latest Additions to AI Collection
 
+### PopStory!!
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-popstory!!.webp" alt="PopStory!!">
+
+#### Créateur de livres audio multilingue avec interface adaptée aux enfants
+[Visit](https://www.thataicollection.com/redirect/popstory!!?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PopStory ! est un générateur de livres audio multilingues pour les enfants et les personnes souhaitant apprendre de nouvelles langues. L'interface simple permet aux enfants de choisir des personnages et des lieux, puis de leur créer une histoire dans une vingtaine de langues.
+
+La fonction de lecture simultanée permet aux enfants de s'entraîner à lire en même temps que le son, et encore mieux, si tu n'es pas un enfant, tu peux aussi lire en même temps !
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/popstory!!?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### ContentGT
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-contentgt.webp" alt="ContentGT">
+
+#### Meilleur rédacteur de contenu basé sur l'IA pour le référencement avec publication automatique
+[Visit](https://www.thataicollection.com/redirect/contentgt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ContentGT crée des articles attrayants et de haute qualité, adaptés à presque tous les créneaux, en proposant jusqu'à 4 000 mots de contenu bien structuré. Il enrichit les articles avec des images et des vidéos pertinentes provenant de ressources de base et de YouTube, renforçant ainsi l'engagement des lecteurs. Avec des fonctionnalités de publication automatique et de planification.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/contentgt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### UniFab
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unifab_.webp" alt="UniFab">
+
+#### Améliorateur vidéo basé sur l'IA complet pour améliorer la qualité de tes vidéos
+[Visit](https://www.thataicollection.com/redirect/unifab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Outil de traitement vidéo complet 10 en 1 alimenté par l'IA, qui permet de modifier et d'améliorer la qualité vidéo/audio en augmentant la résolution vidéo jusqu'à 4K et en mixant le son au son surround DTS 7.1.
+Convertit des vidéos en HDR et Dolby Vision grâce à l'IA
+Améliore la vidéo en 1080p/4K grâce à l'IA
+Mixer le son vers EAC3 5.1/DTS 7.1 avec IA
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/unifab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### The PR Creator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-pr-creator.webp" alt="The PR Creator">
+
+#### Créez un communiqué de presse en quelques secondes grâce à l'IA
+[Visit](https://www.thataicollection.com/redirect/the-pr-creator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Outil qui crée des communiqués de presse personnalisés et inclut une section de commentaires pour les utilisateurs 
+Fais passer ton message : lance-toi dans une aventure de narration de marque amplifiée grâce à nos services de création de relations publiques ultramodernes pilotés par l'IA
+Envoyer directement depuis l'outil : que tu lances un nouveau produit, que tu annonces une étape importante pour l'entreprise ou que tu gères ta réputation, nos outils d'IA sont conçus pour rationaliser le processus
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/the-pr-creator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Owwlish
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-owwlish.webp" alt="Owwlish">
+
+#### Créez un cours en ligne pour ton site web en un clin d'œil
+[Visit](https://www.thataicollection.com/redirect/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Owwlish est le nouveau moyen simple d'ajouter un cours en ligne à ton site web, quelle que soit la plateforme que tu utilises ! Il suffit d'utiliser notre outil de création de cours pour créer un cours, de copier-coller quelques lignes de code, et le tour est joué : ton cours est en ligne sur ton site web pour que les gens puissent s'inscrire et commencer à apprendre !
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Yona.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-yona.ai.webp" alt="Yona.ai">
 
@@ -162,84 +244,6 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 Bard PDF introduit un changement de paradigme dans le domaine du traitement et de l'analyse des documents PDF. Ses fonctionnalités efficaces de synthèse et d'analyse révolutionnent la façon dont les utilisateurs interagissent avec les fichiers PDF. Que tu sois chercheuse, professionnelle ou étudiante, Bard PDF offre de nombreux avantages pour optimiser la productivité et favoriser la compréhension.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### So You Had An Idea
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-so-you-had-an-idea.webp" alt="So You Had An Idea">
-
-#### Transformez tes idées commerciales en plans d'action grâce à la puissance de l'IA
-[Visit](https://www.thataicollection.com/redirect/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-As-tu une idée d'entreprise géniale mais tu ne sais pas par où commencer ? Notre questionnaire guidé t'explique comment définir ton activité et tes clients potentiels. Sur la base de tes réponses, nous élaborerons un plan d'action sur mesure pour t'aider à démarrer, y compris des stratégies de génération de revenus et de marketing.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Vidnoz AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai.webp" alt="Vidnoz AI">
-
-#### Vidnoz AI : lancement d'une plateforme vidéo basée sur l'IA gratuite visant à réduire les coûts des utilisateurs de 80 % et à décupler leur productivité
-[Visit](https://www.thataicollection.com/redirect/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-un générateur vidéo basé sur l'IA gratuit, Vidnoz AI, qui permet aux utilisateurs de créer des vidéos plus facilement et plus rapidement que jamais. Pour proposer à un plus grand nombre de personnes ses outils vidéo basés sur l'IA efficaces, Vidnoz
-fournit un accès quotidien gratuit à la génération de vidéos à tous les utilisateurs. En utilisant des avatars d'IA, une vidéo
-modèles et autres outils basés sur l'IA, tout le monde peut créer des vidéos captivantes sur Vidnoz
-sans effort
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Sticker AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sticker-ai.webp" alt="Sticker AI">
-
-#### Sticker AI Online ! Générateur d'autocollants IA gratuit, il génère un autocollant à partir de mots rapides à l'aide de l'IA.
-[Visit](https://www.thataicollection.com/redirect/sticker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Sticker AI est un générateur d'autocollants IA gratuit qui crée des autocollants à partir d'une invite à l'aide de la technologie de l'IA. Que ce soit pour les réseaux sociaux, les applications de messagerie ou pour un usage personnel, Sticker AI Online propose un moyen simple et amusant de créer des autocollants personnalisés. Essaie Sticker AI Online dès aujourd'hui et donne vie à tes idées grâce à des stickers personnalisés conçus par une intelligence artificielle !
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/sticker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SinglebaseCloud
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-singlebasecloud.webp" alt="SinglebaseCloud">
-
-#### Plateforme backend alimentée par l'IA avec Vector DB, Document DB, Auth, etc. pour accélérer le développement des applications.
-[Visit](https://www.thataicollection.com/redirect/singlebasecloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SingleBaseCloud est une plateforme backend-as-a-service tout-en-un alimentée par l'IA qui permet de créer rapidement des applications mobiles et Web. Nous te fournissons les éléments suivants pour créer tes applications : base de données vectorielles, base de données relationnelle de documents pour un modèle de données flexible, authentification permettant aux utilisateurs de s'inscrire et de se connecter à tes applications, recherche de similarité par IA, stockage de documents et d'images. 
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/singlebasecloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Magic Hour
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magic-hour.webp" alt="Magic Hour">
-
-#### Magic Hour simplifie la création de vidéos, comme Canva Simplified Design
-[Visit](https://www.thataicollection.com/redirect/magic-hour?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Magic Hour est une plateforme vidéo basée sur l'IA qui permet aux utilisateurs de créer de superbes vidéos basées sur l'IA en quelques clics. Il automatise l'ensemble du processus de production vidéo et permet aux utilisateurs de transformer les vidéos existantes en nouveaux contenus. Magic Hour permet également aux utilisateurs de générer du contenu visuel attrayant qui attirera et élargira leur audience.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/magic-hour?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1623,15 +1627,17 @@ Rendez vos e-mails froids beaucoup plus chaleureux avec une copie hautement pers
 <br />
 
 
-### Architecture Helper
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-architecture-helper.webp" alt="Architecture Helper">
+### PopStory!!
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-popstory!!.webp" alt="PopStory!!">
 
-#### Analyse l'architecture de n'importe quel bâtiment et génère tes propres styles personnalisés en quelques secondes.
-[Visit](https://www.thataicollection.com/redirect/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Créateur de livres audio multilingue avec interface adaptée aux enfants
+[Visit](https://www.thataicollection.com/redirect/popstory!!?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Architecture Helper est une plateforme qui permet d'analyser et d'explorer différents styles et influences architecturaux à travers des photos soumises par les utilisateurs.
+PopStory ! est un générateur de livres audio multilingues pour les enfants et les personnes souhaitant apprendre de nouvelles langues. L'interface simple permet aux enfants de choisir des personnages et des lieux, puis de leur créer une histoire dans une vingtaine de langues.
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+La fonction de lecture simultanée permet aux enfants de s'entraîner à lire en même temps que le son, et encore mieux, si tu n'es pas un enfant, tu peux aussi lire en même temps !
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/popstory!!?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3010,6 +3016,24 @@ Meilleure nouvelle technologie de déshabillage IA GRATUITE ! Se déshabiller g
 
 
 
+### Nudes – Face Swap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudes-%E2%80%93-face-swap.webp" alt="Nudes – Face Swap">
+
+#### Exploite tout le potentiel de Face Swap ?$#@$ et de Deepfake ?$#@$ Magic sur notre site !
+[Visit](https://www.thataicollection.com/redirect/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Un robot Nudes_FaceSwap_Bot sur Telegram ! Ce bot peut échanger la face de n'importe quelle vidéo. Comment l'utiliser ?
+1). Il suffit de télécharger une image de visage. 
+2). Téléchargez ou choisissez une vidéo cible. 
+3). Attends les résultats.  
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Undress.Vip
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
 
@@ -3070,24 +3094,6 @@ Qu'il s'agisse de survivre sur une île déserte, de naviguer dans l'espace à b
 Plongez dans l'univers de nombreuses filles animées par l'IA et commencez à jouer dès maintenant !
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nudes – Face Swap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudes-%E2%80%93-face-swap.webp" alt="Nudes – Face Swap">
-
-#### Exploite tout le potentiel de Face Swap ?$#@$ et de Deepfake ?$#@$ Magic sur notre site !
-[Visit](https://www.thataicollection.com/redirect/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Un robot Nudes_FaceSwap_Bot sur Telegram ! Ce bot peut échanger la face de n'importe quelle vidéo. Comment l'utiliser ?
-1). Il suffit de télécharger une image de visage. 
-2). Téléchargez ou choisissez une vidéo cible. 
-3). Attends les résultats.  
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1154" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1161" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
     </a>
-    <h4>AI Undressing-使用 AI Undressing 免费裸体照片</h4>
-    <p>最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 undressing.io</b></a>
+    <h4>在几秒钟内为每个空缺职位量身定制求职信</h4>
+    <p>让 AI 同时探索多达 10 个输出，并根据您选择的标准选择最佳输出。这不仅仅是数量：而是要给你带来尽可能好的结果。</p>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 PowerDreamer AI Cover Letter Generator</b></a>
     <br />
 </div>
 
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
-    <h4>在几秒钟内为每个空缺职位量身定制求职信</h4>
-    <p>让 AI 同时探索多达 10 个输出，并根据您选择的标准选择最佳输出。这不仅仅是数量：而是要给你带来尽可能好的结果。</p>
-    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 PowerDreamer AI Cover Letter Generator</b></a>
+    <h4>AI Undressing-使用 AI Undressing 免费裸体照片</h4>
+    <p>最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成</p>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 undressing.io</b></a>
     <br />
 </div>
 
@@ -137,6 +137,88 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### PopStory!!
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-popstory!!.webp" alt="PopStory!!">
+
+#### 具有儿童友好界面的多语言有声读物创作者
+[Visit](https://www.thataicollection.com/redirect/popstory!!?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PopStory！！是一款多语言有声读物生成器，适用于儿童和希望学习新语言的人。简单的界面允许孩子选择角色和地点，然后用大约20种语言中的一种为他们创建故事。
+
+朗读功能允许孩子们在练习阅读的同时听取音频，甚至更好的是，如果你不是孩子，你也可以一起阅读！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/popstory!!?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### ContentGT
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-contentgt.webp" alt="ContentGT">
+
+#### 具有自动发布功能的 SEO 最佳人工智能内容作家
+[Visit](https://www.thataicollection.com/redirect/contentgt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ContentGT为几乎所有细分市场量身定制了高质量、引人入胜的文章，提供多达4000字的结构合理的内容。它使用来自股票资源和YouTube的相关图像和视频来丰富文章，从而提高了读者的参与度。具有自动发布和日程安排功能。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/contentgt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### UniFab
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unifab_.webp" alt="UniFab">
+
+#### 全面的 AI 视频增强器可提高您的视频质量
+[Visit](https://www.thataicollection.com/redirect/unifab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+由 AI 驱动的 10 合 1 综合视频处理工具，通过将视频分辨率提升至 4K 并将音频上调至 DTS 7.1 环绕声来编辑和增强您的视频/音频质量。
+使用 AI 将视频转换为 HDR 和杜比视界
+使用 AI 将视频增强到 1080p/4k
+使用 AI 将音频混音到 EAC3 5.1/DTS 7.1
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/unifab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### The PR Creator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-pr-creator.webp" alt="The PR Creator">
+
+#### 使用 AI 在几秒钟内创建新闻稿
+[Visit](https://www.thataicollection.com/redirect/the-pr-creator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+该工具可创建自定义新闻稿并为用户提供评论部分 
+传达您的信息：借助我们最先进的人工智能驱动的公关创作服务，踏上扩大品牌故事讲述的旅程
+直接通过该工具发送：无论您是发布新产品、宣布公司里程碑还是管理声誉，我们的 AI 工具都旨在简化流程
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/the-pr-creator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Owwlish
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-owwlish.webp" alt="Owwlish">
+
+#### 快速为您的网站创建在线课程
+[Visit](https://www.thataicollection.com/redirect/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+无论您使用什么网站平台，Owwlish 都是向您的网站添加在线课程的全新简便方法！只需使用我们的简易课程生成器创建课程，复制并粘贴几行代码，瞧：您的课程已在您的网站上线，可供人们注册并开始学习！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Yona.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-yona.ai.webp" alt="Yona.ai">
 
@@ -162,84 +244,6 @@
 Bard PDF 引入了 PDF 文档处理和分析领域的范式转变。其高效的汇总和分析功能彻底改变了用户与 PDF 文件交互的方式。无论你是研究人员、专业人士还是学生，Bard PDF 都能提供多种好处，以优化工作效率和提高理解力。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### So You Had An Idea
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-so-you-had-an-idea.webp" alt="So You Had An Idea">
-
-#### 借助 AI 的力量，将您的商业想法转化为行动计划
-[Visit](https://www.thataicollection.com/redirect/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-你有个不错的商业想法但不知道从哪里开始吗？我们的指导性问卷将引导您确定业务范围和潜在客户。根据您的答案，我们将制定定制的行动计划以帮助您入门，包括创收和营销策略。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Vidnoz AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai.webp" alt="Vidnoz AI">
-
-#### Vidnoz AI：推出免费的人工智能视频平台，将用户成本降低80％，将生产力提高10倍
-[Visit](https://www.thataicollection.com/redirect/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-免费的人工智能视频生成器——Vidnoz AI，它可以帮助人们比以往任何时候都更轻松、更快地制作视频。为了通过其高效的人工智能视频工具使更多人受益，Vidnoz
-为所有用户提供每日免费视频生成权限。通过使用 AI 头像、视频
-模板和其他基于人工智能的工具，Vidnoz 上的每个人都可以创建引人入胜的视频
-毫不费力
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/vidnoz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Sticker AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sticker-ai.webp" alt="Sticker AI">
-
-#### 贴纸 AI 在线！免费的人工智能贴纸生成器，它使用AI根据提示词生成贴纸。
-[Visit](https://www.thataicollection.com/redirect/sticker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Sticker AI是一个免费的人工智能贴纸生成器，它使用人工智能技术根据提示创建贴纸。无论是用于社交媒体、通讯应用程序还是个人用途，Sticker AI Online 都为创建自定义贴纸提供了一种有趣而简单的方式。立即试用 Sticker AI Online，用人工智能设计的自定义贴纸将你的想法变为现实！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/sticker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SinglebaseCloud
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-singlebasecloud.webp" alt="SinglebaseCloud">
-
-#### 基于 AI 的后端平台，具有 Vector DB、文档数据库、身份验证等，可加快应用程序开发。
-[Visit](https://www.thataicollection.com/redirect/singlebasecloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SingleBaseCloud是一个由人工智能驱动的多合一后端即服务平台，可快速构建移动和网络应用程序。我们提供以下组件供您构建应用程序：矢量数据库、用于灵活数据模型的关系文档数据库、用于用户注册和登录应用程序的身份验证、人工智能相似度搜索、文档和图像存储。 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/singlebasecloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Magic Hour
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magic-hour.webp" alt="Magic Hour">
-
-#### Magic Hour 像 Canva 简化设计一样简化视频创作
-[Visit](https://www.thataicollection.com/redirect/magic-hour?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Magic Hour 是一个 AI 视频平台，使用户只需点击几下即可创建精彩的 AI 视频。它使整个视频制作过程自动化，并允许用户将现有视频转换为新内容。Magic Hour还使用户能够生成引人入胜的视觉内容，从而吸引和增加受众。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/magic-hour?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1623,15 +1627,17 @@ AI 课程创建器，可让您在几分钟内轻松使用 AI 创建课程。试�
 <br />
 
 
-### Architecture Helper
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-architecture-helper.webp" alt="Architecture Helper">
+### PopStory!!
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-popstory!!.webp" alt="PopStory!!">
 
-#### 分析任何建筑架构，并在几秒钟内生成自己的自定义样式。
-[Visit](https://www.thataicollection.com/redirect/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 具有儿童友好界面的多语言有声读物创作者
+[Visit](https://www.thataicollection.com/redirect/popstory!!?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Architecture Helper 是一个通过用户提交的照片分析和探索各种建筑风格和影响的平台。
+PopStory！！是一款多语言有声读物生成器，适用于儿童和希望学习新语言的人。简单的界面允许孩子选择角色和地点，然后用大约20种语言中的一种为他们创建故事。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/architecture-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+朗读功能允许孩子们在练习阅读的同时听取音频，甚至更好的是，如果你不是孩子，你也可以一起阅读！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/popstory!!?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3010,6 +3016,24 @@ Amadeus Topline 是一款由人工智能驱动的作曲应用程序，适合每�
 <br />
 
 
+### Nudes – Face Swap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudes-%E2%80%93-face-swap.webp" alt="Nudes – Face Swap">
+
+#### 在我们的网站上释放换脸色情和Deepfake Porn Magic的潜力！
+[Visit](https://www.thataicollection.com/redirect/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+一个 Telegram nudes_Faceswap_bot！这个机器人可以交换任何视频的面孔。如何使用？
+1) .只需上传一张脸部图像即可。 
+2) .上传或选择目标视频。 
+3)。等待结果。  
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Undress.Vip
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
 
@@ -3070,24 +3094,6 @@ Dittin AI 是一个基于 DittinLLM 的 NSFW 人工智能聊天机器人平台�
 潜入众多 AI 女孩的世界，立即开始玩吧！
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Nudes – Face Swap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudes-%E2%80%93-face-swap.webp" alt="Nudes – Face Swap">
-
-#### 在我们的网站上释放换脸色情和Deepfake Porn Magic的潜力！
-[Visit](https://www.thataicollection.com/redirect/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-一个 Telegram nudes_Faceswap_bot！这个机器人可以交换任何视频的面孔。如何使用？
-1) .只需上传一张脸部图像即可。 
-2) .上传或选择目标视频。 
-3)。等待结果。  
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
