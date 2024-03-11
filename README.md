@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1161" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1162" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -57,22 +57,6 @@ Translations:
     <h5>Top Picks</h5>
     <p>AI Collection's top picks are</p>
 </div>
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
-    </a>
-    <h4>Fotor - Online photo editor for everyone. Edit photos faster and easier with AI.</h4>
-    <p>online photo editor offers everything you need to enhance and edit photos effortlessly. Experience simple photo editing online for free! . Complex photo editing made simple with Fotor AI photo editor. AI Photo Enhancer, AI Background Remover, AI Object Remover and more.
-
-
-</p>
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Fotor</b></a>
-    <br />
-</div>
-
-<br>
-
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -158,6 +142,21 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+
+### Vana
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana">
+
+#### Create a digital twin, learn about who you truly are, take it to apps and experience the future of tech. 
+[Visit](https://www.thataicollection.com/redirect/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vana lets you create a mini-"you" using the power of your data and AI.   Clone your voice, generate selfies, and learn about what your data says about you by talking to it.  Take AI-"you" to applications in the Vana network to explore personalized games, simulations and AI assistant tools. Vana puts you in control of your data and your AI, and lets you turn it into something magical. 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### PopStory!!
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-popstory!!.webp" alt="PopStory!!">
@@ -250,22 +249,6 @@ Owwlish is the new and easy way to add an online course to your website, no matt
 In the digital age, creators and influencers are constantly seeking innovative ways to engage with their audience. Yona.ai offers a groundbreaking platform where you can create digital clones of yourself, extending your reach and deepening fan connections. By training an AI with your unique conversational style, you can provide fans with an authentic interaction experience, anytime and anywhere.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Bard PDF Today
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bard-pdf-today.webp" alt="Bard PDF Today">
-
-#### Free Online PDF Document Summarizer and Analyzer
-
-[Visit](https://www.thataicollection.com/redirect/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Bard PDF introduces a paradigm shift in the realm of PDF document processing and analysis. Its efficient summarization and analysis capabilities revolutionize the way users interact with PDF files. Regardless of whether you're a researcher, professional, or student, Bard PDF offers a diverse range of benefits to optimize productivity and foster comprehension.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -756,6 +739,21 @@ Receive a pack of 100 AI generated images of your pet in both photo-realistic an
 
 ## Avatars
 
+### Vana
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana">
+
+#### Create a digital twin, learn about who you truly are, take it to apps and experience the future of tech. 
+[Visit](https://www.thataicollection.com/redirect/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vana lets you create a mini-"you" using the power of your data and AI.   Clone your voice, generate selfies, and learn about what your data says about you by talking to it.  Take AI-"you" to applications in the Vana network to explore personalized games, simulations and AI assistant tools. Vana puts you in control of your data and your AI, and lets you turn it into something magical. 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Photo AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
 
@@ -825,21 +823,6 @@ Browse millions of styles or create your own, generate AI autoportraits.
 Create your perfect avatars in just a few clicks with our easy-to-use AI technology.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### DreamPic
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreampic.webp" alt="DreamPic">
-
-#### Dreampic.Ai
-[Visit](https://www.thataicollection.com/redirect/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI Generated Pictures Starring You
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

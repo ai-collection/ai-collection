@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1161" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1162" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
-    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
-    <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
@@ -79,15 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Fotor: editor de fotos en línea para todos. Edita fotos de forma más rápida y sencilla con la IA.</h4>
-    <p>El editor de fotos online ofrece todo lo que necesitas para mejorar y editar fotos sin esfuerzo. ¡Disfruta de la edición sencilla de fotos en línea de forma gratuita! . Edición de fotos compleja simplificada con el editor de fotos Fotor AI. Mejorador de fotos con IA, eliminador de fondos con IA, eliminador de objetos con IA y más.
-
-
-</p>
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Fotor</b></a>
+    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
+    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
+    <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -413,6 +397,7 @@
 | [Theoasis](https://www.thataicollection.com/redirect/theoasis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Oasis Â Nunca más te preocupes por cómo te ves en la cámara. | Crea un avatar fotorrealista que puedas usar en todas las plataformas de video. | :grey_question: |
 | [Tokkingheads](https://www.thataicollection.com/redirect/tokkingheads?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Da vida a los retratos con la magia de la IA. Al instante. | Tokkingheads: crea marionetas con cualquier avatar solo a partir de una imagen Da vida a los retratos con la magia de la IA. Al instante. Creado por Rosebud AI. | :white_check_mark: |
 | [Tryitonai](https://www.thataicollection.com/redirect/tryitonai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Impresionantes fotografías de rostros y retratos profesionales: pruébalo con IA. | ¡Obtenga fotografías de rostros profesionales con calidad de estudio generadas en menos de 24 horas! Perfecto para fotos de LinkedIn, redes sociales, equipos y citas. | :grey_question: |
+| [Vana](https://www.thataicollection.com/redirect/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Crea un gemelo digital, descubre quién eres realmente, llévalo a las aplicaciones y vive el futuro de la tecnología. | Vana te permite crear un pequeño «tú» con el poder de tus datos y la IA. Clona tu voz, genera selfies y aprende lo que dicen tus datos sobre ti hablando con ella. Lleva la IA, «tú», a las aplicaciones de la red Vana para explorar juegos, simulaciones y herramientas de asistente de IA personalizados. Vana te da el control de tus datos y de tu IA, y te permite convertirlos en algo mágico. | :white_check_mark: |
 | [xpression camera 2.0](https://www.thataicollection.com/redirect/xpression-camera-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cámara Xpression. | Conviértete en cualquiera en Zoom, Twitch o cualquier transmisión de video. | :grey_question: |
 
 

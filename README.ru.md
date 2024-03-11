@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1161" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1162" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -51,22 +51,6 @@
     <h5>Лучшие подборки</h5>
     <p>Лучшие выборы AI Collection:</p>
 </div>
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
-    </a>
-    <h4>Fotor — онлайн-редактор фотографий для всех. Редактируйте фотографии быстрее и проще с помощью искусственного интеллекта.</h4>
-    <p>онлайн-редактор фотографий предлагает все необходимое для легкого улучшения и редактирования фотографий. Попробуйте простое редактирование фотографий онлайн бесплатно! . Сложное редактирование фотографий стало проще с помощью фоторедактора Fotor AI. AI Photo Enhancer, средство для удаления фона AI, средство для удаления объектов AI и многое другое.
-
-
-</p>
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Fotor</b></a>
-    <br />
-</div>
-
-<br>
-
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -152,6 +136,21 @@
 - 🛒 [Электронная Торговля](#электронная-торговля)
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
+
+### Vana
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana">
+
+#### Создайте цифрового двойника, узнайте, кто вы есть на самом деле, используйте его в приложениях и познакомьтесь с технологиями будущего. 
+[Visit](https://www.thataicollection.com/redirect/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vana позволяет создать мини-« вы», используя возможности ваших данных и искусственного интеллекта. Клонируйте свой голос, создавайте селфи и узнавайте, что говорят о вас ваши данные, общаясь с ними. Используйте искусственный интеллект в своих приложениях в сети Vana, чтобы изучать персонализированные игры, симуляторы и помощники в сфере искусственного интеллекта. Vana позволяет вам контролировать данные и искусственный интеллект и превращать их в нечто волшебное. 
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### PopStory!!
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-popstory!!.webp" alt="PopStory!!">
@@ -244,22 +243,6 @@ Owwlish — это новый и простой способ добавить о
 В эпоху цифровых технологий создатели и влиятельные лица постоянно ищут инновационные способы взаимодействия со своей аудиторией. Yona.ai предлагает революционную платформу, на которой вы можете создавать свои цифровые клоны, расширять охват аудитории и углублять связи с фанатами. Обучив искусственный интеллект своему уникальному стилю общения, вы сможете обеспечить фанатам аутентичный опыт общения в любое время и в любом месте.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Bard PDF Today
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bard-pdf-today.webp" alt="Bard PDF Today">
-
-#### Бесплатный онлайн-сумматор и анализатор PDF-документов
-
-[Visit](https://www.thataicollection.com/redirect/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Bard PDF представляет собой смену парадигмы в области обработки и анализа PDF-документов. Его эффективные возможности суммирования и анализа революционизируют способы взаимодействия пользователей с PDF-файлами. Независимо от того, являетесь ли вы исследователем, специалистом или студентом, Bard PDF предлагает широкий спектр преимуществ для оптимизации производительности и улучшения понимания.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -750,6 +733,21 @@ Pet Booth — это сервис для создания собственных
 
 ## Аватары
 
+### Vana
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana">
+
+#### Создайте цифрового двойника, узнайте, кто вы есть на самом деле, используйте его в приложениях и познакомьтесь с технологиями будущего. 
+[Visit](https://www.thataicollection.com/redirect/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vana позволяет создать мини-« вы», используя возможности ваших данных и искусственного интеллекта. Клонируйте свой голос, создавайте селфи и узнавайте, что говорят о вас ваши данные, общаясь с ними. Используйте искусственный интеллект в своих приложениях в сети Vana, чтобы изучать персонализированные игры, симуляторы и помощники в сфере искусственного интеллекта. Vana позволяет вам контролировать данные и искусственный интеллект и превращать их в нечто волшебное. 
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Photo AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
 
@@ -819,21 +817,6 @@ HairstyleAI позволяет виртуально опробовать нов�
 Создавайте свои идеальные аватары всего за несколько кликов с помощью нашей простой в использовании технологии искусственного интеллекта.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### DreamPic
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreampic.webp" alt="DreamPic">
-
-#### DreamPic.AI
-[Visit](https://www.thataicollection.com/redirect/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Изображения, созданные искусственным интеллектом, с вами в главной роли
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

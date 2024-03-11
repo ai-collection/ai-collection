@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1161" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1162" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
-    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
-    <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
@@ -79,15 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Fotor: editor de fotos en línea para todos. Edita fotos de forma más rápida y sencilla con la IA.</h4>
-    <p>El editor de fotos online ofrece todo lo que necesitas para mejorar y editar fotos sin esfuerzo. ¡Disfruta de la edición sencilla de fotos en línea de forma gratuita! . Edición de fotos compleja simplificada con el editor de fotos Fotor AI. Mejorador de fotos con IA, eliminador de fondos con IA, eliminador de objetos con IA y más.
-
-
-</p>
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Fotor</b></a>
+    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
+    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
+    <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -152,6 +136,21 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 💰 [Ventas Y Marketing](#ventas-y-marketing)
 - 🎬 [Video](#video)
 ## Latest Additions to AI Collection
+
+### Vana
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana">
+
+#### Crea un gemelo digital, descubre quién eres realmente, llévalo a las aplicaciones y vive el futuro de la tecnología. 
+[Visit](https://www.thataicollection.com/redirect/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vana te permite crear un pequeño «tú» con el poder de tus datos y la IA. Clona tu voz, genera selfies y aprende lo que dicen tus datos sobre ti hablando con ella. Lleva la IA, «tú», a las aplicaciones de la red Vana para explorar juegos, simulaciones y herramientas de asistente de IA personalizados. Vana te da el control de tus datos y de tu IA, y te permite convertirlos en algo mágico. 
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### PopStory!!
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-popstory!!.webp" alt="PopStory!!">
@@ -244,22 +243,6 @@ Owwlish es la nueva y sencilla forma de añadir un curso en línea a tu sitio we
 En la era digital, los creadores y las personas influyentes buscan constantemente formas innovadoras de interactuar con su público. Yona.ai ofrece una plataforma innovadora en la que puedes crear clones digitales de ti mismo, ampliar tu alcance y profundizar las conexiones de los fans. Al entrenar una IA con tu estilo de conversación único, puedes ofrecer a los fans una experiencia de interacción auténtica en cualquier momento y en cualquier lugar.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Bard PDF Today
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bard-pdf-today.webp" alt="Bard PDF Today">
-
-#### Resumidor y analizador de documentos PDF en línea gratuito
-
-[Visit](https://www.thataicollection.com/redirect/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Bard PDF introduce un cambio de paradigma en el ámbito del procesamiento y el análisis de documentos PDF. Sus eficaces funciones de resumen y análisis revolucionan la forma en que los usuarios interactúan con los archivos PDF. Independientemente de si eres investigador, profesional o estudiante, Bard PDF ofrece una amplia gama de beneficios para optimizar la productividad y fomentar la comprensión.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -750,6 +733,21 @@ Recibe un paquete de 100 imágenes generadas por la IA de tu mascota en estilos 
 
 ## avatares
 
+### Vana
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana">
+
+#### Crea un gemelo digital, descubre quién eres realmente, llévalo a las aplicaciones y vive el futuro de la tecnología. 
+[Visit](https://www.thataicollection.com/redirect/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vana te permite crear un pequeño «tú» con el poder de tus datos y la IA. Clona tu voz, genera selfies y aprende lo que dicen tus datos sobre ti hablando con ella. Lleva la IA, «tú», a las aplicaciones de la red Vana para explorar juegos, simulaciones y herramientas de asistente de IA personalizados. Vana te da el control de tus datos y de tu IA, y te permite convertirlos en algo mágico. 
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Photo AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
 
@@ -819,21 +817,6 @@ Explore millones de estilos o cree el suyo propio, genere autorretratos de IA.
 Cree sus avatares perfectos con solo unos pocos clics con nuestra tecnología de inteligencia artificial fácil de usar.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### DreamPic
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreampic.webp" alt="DreamPic">
-
-#### Dreampic.Ai
-[Visit](https://www.thataicollection.com/redirect/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Imágenes generadas por IA protagonizadas por ti
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

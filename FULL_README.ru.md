@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1161" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1162" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -51,22 +51,6 @@
     <h5>Лучшие подборки</h5>
     <p>Лучшие выборы AI Collection:</p>
 </div>
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
-    </a>
-    <h4>Fotor — онлайн-редактор фотографий для всех. Редактируйте фотографии быстрее и проще с помощью искусственного интеллекта.</h4>
-    <p>онлайн-редактор фотографий предлагает все необходимое для легкого улучшения и редактирования фотографий. Попробуйте простое редактирование фотографий онлайн бесплатно! . Сложное редактирование фотографий стало проще с помощью фоторедактора Fotor AI. AI Photo Enhancer, средство для удаления фона AI, средство для удаления объектов AI и многое другое.
-
-
-</p>
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Fotor</b></a>
-    <br />
-</div>
-
-<br>
-
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -195,6 +179,7 @@
 | [Theoasis](https://www.thataicollection.com/redirect/theoasis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | OASIS: больше никогда не беспокойтесь о том, как вы выглядите на камеру. | Создайте фотореалистичный аватар, который можно использовать на любой видеоплатформе. | :grey_question: |
 | [Tokkingheads](https://www.thataicollection.com/redirect/tokkingheads?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Оживите портреты с помощью магии искусственного интеллекта. Мгновенно. | Tokkingheads — марионетка любого аватара из одного изображения Оживите портреты с помощью магии искусственного интеллекта. Мгновенно. Создано искусственным интеллектом Rosebud. | :white_check_mark: |
 | [Tryitonai](https://www.thataicollection.com/redirect/tryitonai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Потрясающие профессиональные снимки и портреты — попробуйте с искусственным интеллектом. | Получите профессиональные снимки студийного качества менее чем за 24 часа! Идеально подходит для фотографий LinkedIn, социальных сетей, команд и свиданий. | :grey_question: |
+| [Vana](https://www.thataicollection.com/redirect/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Создайте цифрового двойника, узнайте, кто вы есть на самом деле, используйте его в приложениях и познакомьтесь с технологиями будущего. | Vana позволяет создать мини-« вы», используя возможности ваших данных и искусственного интеллекта. Клонируйте свой голос, создавайте селфи и узнавайте, что говорят о вас ваши данные, общаясь с ними. Используйте искусственный интеллект в своих приложениях в сети Vana, чтобы изучать персонализированные игры, симуляторы и помощники в сфере искусственного интеллекта. Vana позволяет вам контролировать данные и искусственный интеллект и превращать их в нечто волшебное. | :white_check_mark: |
 | [xpression camera 2.0](https://www.thataicollection.com/redirect/xpression-camera-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Экспресс-камера. | Станьте кем угодно в Zoom, Twitch или любом потоковом видео. | :grey_question: |
 
 

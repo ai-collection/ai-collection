@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1161" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1162" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -72,22 +72,6 @@
     <h4>Rédigez le CV parfait avec l'aide de l'IA</h4>
     <p>Tu n'as pas besoin d'être une rédactrice de CV professionnelle pour créer rapidement et facilement un CV qui reflète fidèlement ton expérience professionnelle. Le générateur de CV IA personnalisable de Hunter t'aidera à rédiger un CV bien rédigé et adapté aux ATS afin de décrocher plus d'entretiens.</p>
     <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Huntr AI Resume Builder</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
-    </a>
-    <h4>Fotor - Un éditeur de photos en ligne pour tous. Retouche des photos plus rapidement et plus facilement grâce à l'IA.</h4>
-    <p>l'éditeur de photos en ligne offre tout ce dont tu as besoin pour améliorer et retoucher des photos sans effort. Faites l'expérience de la retouche photo en ligne, en toute simplicité, gratuitement ! . La retouche photo complexe simplifiée grâce à l'éditeur de photos Fotor AI. AI Photo Enhancer, AI Background Remover, AI Object Remover et plus encore.
-
-
-</p>
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Fotor</b></a>
     <br />
 </div>
 
@@ -428,6 +412,7 @@
 | [Theoasis](https://www.thataicollection.com/redirect/theoasis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | OASIS â Ne vous souciez plus jamais de votre apparence devant la caméra. | Créez un avatar photoréaliste que vous pourrez utiliser sur toutes les plateformes vidéo. | :grey_question: |
 | [Tokkingheads](https://www.thataicollection.com/redirect/tokkingheads?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Donnez vie à vos portraits grâce à la magie de l'IA. Instantanément. | Tokkingheads - Marionnette n'importe quel avatar à partir d'une simple image Donnez vie aux portraits grâce à la magie de l'IA. Instantanément. Créée par Rosebud AI. | :white_check_mark: |
 | [Tryitonai](https://www.thataicollection.com/redirect/tryitonai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Superbes photos et portraits professionnels - Essayez-le sur l'IA. | Obtenez des portraits professionnels de qualité studio générés en moins de 24 heures ! Parfait pour les photos LinkedIn, sociales, d'équipe et de rencontres. | :grey_question: |
+| [Vana](https://www.thataicollection.com/redirect/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Crée un jumeau numérique, découvre qui tu es vraiment, passe aux apps et découvre le futur de la technologie. | Vana te permet de créer un mini-« toi » en utilisant la puissance de tes données et de l'IA. Clonez ta voix, génère des selfies et découvre ce que tes données disent de toi en leur parlant. Dirige AI-"You » vers les applications du réseau Vana pour découvrir des jeux personnalisés, des simulations et des outils d'assistance à l'intelligence artificielle. Vana te donne le contrôle de tes données et de ton IA, et te permet de les transformer en quelque chose de magique. | :white_check_mark: |
 | [xpression camera 2.0](https://www.thataicollection.com/redirect/xpression-camera-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | caméra xpression. | Devenez n'importe qui sur Zoom, Twitch ou n'importe quelle vidéo en streaming. | :grey_question: |
 
 

@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1161" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1162" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -72,22 +72,6 @@
     <h4>AI अनड्रेसिंग - AI अनड्रेसिंग के ज़रिए फ़ोटो मुफ़्त में न्यूडिफ़ाई करें</h4>
     <p>सबसे अच्छी नई मुफ़्त AI अनड्रेसिंग तकनीक! तस्वीरों के लिए AI से चलने वाली अनड्रेसिंग! तुरन्त रूप बदलो। एक क्लिक में नंगी तस्वीरें। कई स्टाइल और प्रॉम्प्ट के साथ इसे करने के अवसर</p>
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>undressing.io के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
-    </a>
-    <h4>फ़ॉटर - हर किसी के लिए ऑनलाइन फ़ोटो एडिटर। AI की मदद से फ़ोटो को तेज़ी से और आसानी से एडिट करें।</h4>
-    <p>ऑनलाइन फ़ोटो एडिटर तुम्हेंं फ़ोटो को बेहतर बनाने और आसानी से संपादित करने के लिए आवश्यक सब कुछ देता है। मुफ्त में सरल ऑनलाइन फ़ोटो एडिटिंग का अनुभव करो! । Fotor AI फ़ोटो एडिटर की मदद से जटिल फ़ोटो संपादन को आसान बनाया गया है। AI फ़ोटो एन्हांसर, AI बैकग्राउंड रिमूवर, AI ऑब्जेक्ट रिमूवर और बहुत कुछ।
-
-
-</p>
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Fotor के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -239,6 +223,7 @@
 | [Theoasis](https://www.thataicollection.com/redirect/theoasis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ओएसिस ने कभी इस बात की चिंता नहीं की कि आप फिर से कैमरे में कैसे दिखते हैं. | एक फोटोरिअलिस्टिक अवतार बनाएं जिसका उपयोग आप हर वीडियो प्लेटफॉर्म पर कर सकते हैं।. | :grey_question: |
 | [Tokkingheads](https://www.thataicollection.com/redirect/tokkingheads?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई मैजिक के ज़रिए पोर्ट्रेट्स को जीवंत करो। तुरन्त।. | टॉकिंगहेड्स - सिर्फ़ एक तस्वीर से किसी भी अवतार की कठपुतली बनाना AI मैजिक के ज़रिए पोर्ट्रेट्स को जीवंत करें। तुरन्त। रोज़बड एआई द्वारा बनाया गया।. | :white_check_mark: |
 | [Tryitonai](https://www.thataicollection.com/redirect/tryitonai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आश्चर्यजनक पेशेवर हेडशॉट्स और पोर्ट्रेट्स - इसे एआई पर आज़माएं. | 24 घंटे से भी कम समय में पेशेवर स्टूडियो गुणवत्ता वाले हेडशॉट प्राप्त करें! लिंक्डइन, सामाजिक, टीम और डेटिंग तस्वीरों के लिए बिल्कुल सही।. | :grey_question: |
+| [Vana](https://www.thataicollection.com/redirect/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक डिजिटल ट्विन बनाएं, जानें कि तुम असल में कौन हो, इसे ऐप्स की मदद से ले जाओ और टेक के भविष्य का अनुभव करो।. | वाना की मदद से तुम अपने डेटा और AI की ताकत का इस्तेमाल करके मिनी- “तुम” बना सकते हो। अपनी आवाज़ क्लोन करें, सेल्फी जेनरेट करें, और उनसे बात करके जानें कि तुम्हारा डेटा तुम्हारे बारे में क्या कहता है। वैयक्तिकृत गेम, सिमुलेशन और AI सहायक टूल खोजने के लिए वाना नेटवर्क के ऐप्लिकेशन में AI- “तुम” को ले जाओ। वाना तुम्हेंं तुम्हारे डेटा और एआई के नियंत्रण में रखती है, और तुम्हेंं इसे जादुई चीज़ में बदलने की सुविधा मिलती है।. | :white_check_mark: |
 | [xpression camera 2.0](https://www.thataicollection.com/redirect/xpression-camera-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एक्सप्रेशन कैमरा. | जूम, ट्विच या किसी स्ट्रीमिंग वीडियो पर कोई भी बनें. | :grey_question: |
 
 

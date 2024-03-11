@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1161" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1162" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -57,22 +57,6 @@ Translations:
     <h5>Top Picks</h5>
     <p>AI Collection's top picks are</p>
 </div>
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
-    </a>
-    <h4>Fotor - Online photo editor for everyone. Edit photos faster and easier with AI.</h4>
-    <p>online photo editor offers everything you need to enhance and edit photos effortlessly. Experience simple photo editing online for free! . Complex photo editing made simple with Fotor AI photo editor. AI Photo Enhancer, AI Background Remover, AI Object Remover and more.
-
-
-</p>
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Fotor</b></a>
-    <br />
-</div>
-
-<br>
-
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -391,6 +375,7 @@ Translations:
 | [Theoasis](https://www.thataicollection.com/redirect/theoasis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Oasis Never Worry How You Look on Camera Again. | Create a photorealistic avatar that you can use on every video platform. | :grey_question: |
 | [Tokkingheads](https://www.thataicollection.com/redirect/tokkingheads?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bring Portraits to Life With AI Magic. Instantly. | Tokkingheads - Puppet any Avatar from just an Image Bring portraits to life with AI magic. Instantly. Created by Rosebud AI. | :white_check_mark: |
 | [Tryitonai](https://www.thataicollection.com/redirect/tryitonai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Stunning Professional Headshots & Portraits - Try It on AI. | Get professional studio quality headshots generated in less than 24hrs! Perfect for LinkedIn, social, team and dating photos. | :grey_question: |
+| [Vana](https://www.thataicollection.com/redirect/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create a digital twin, learn about who you truly are, take it to apps and experience the future of tech. | Vana lets you create a mini-"you" using the power of your data and AI.   Clone your voice, generate selfies, and learn about what your data says about you by talking to it.  Take AI-"you" to applications in the Vana network to explore personalized games, simulations and AI assistant tools. Vana puts you in control of your data and your AI, and lets you turn it into something magical. | :white_check_mark: |
 | [xpression camera 2.0](https://www.thataicollection.com/redirect/xpression-camera-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Xpression Camera. | Become anyone on Zoom, Twitch, or any streaming video. | :grey_question: |
 
 

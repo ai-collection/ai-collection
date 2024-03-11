@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1161" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1162" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,41 +53,25 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
-    </a>
-    <h4>AI Undressing-使用 AI Undressing 免费裸体照片</h4>
-    <p>最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 undressing.io</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor" border="0"/>
-    </a>
-    <h4>Fotor-适合所有人的在线照片编辑器。使用 AI 更快、更轻松地编辑照片。</h4>
-    <p>在线照片编辑器提供您轻松增强和编辑照片所需的一切。免费在线体验简单的照片编辑！。使用Fotor AI照片编辑器可以轻松进行复杂的照片编辑。AI 照片增强器、AI 背景去除器、AI 对象移除器等。
-
-
-</p>
-    <a href="https://www.thataicollection.com/redirect/fotor/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Fotor</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
     <h4>在 AI 的帮助下制作完美的简历</h4>
     <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
     <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
+    </a>
+    <h4>AI Undressing-使用 AI Undressing 免费裸体照片</h4>
+    <p>最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成</p>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 undressing.io</b></a>
     <br />
 </div>
 
@@ -152,6 +136,21 @@
 - 💰 [销售与市场营销](#销售与市场营销)
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
+
+### Vana
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana">
+
+#### 创建数字双胞胎，了解自己的真实身份，将其应用到应用程序中，体验科技的未来。 
+[Visit](https://www.thataicollection.com/redirect/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vana允许你利用数据和人工智能的力量创建迷你 “你”。克隆你的声音，生成自拍照，并通过与数据交谈来了解你的数据。将 AI “你” 带到Vana网络中的应用程序中，探索个性化游戏、模拟和人工智能助手工具。Vana让你控制自己的数据和人工智能，让你把它变成神奇的东西。 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 
 ### PopStory!!
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-popstory!!.webp" alt="PopStory!!">
@@ -244,22 +243,6 @@ ContentGT为几乎所有细分市场量身定制了高质量、引人入胜的�
 在数字时代，创作者和影响者不断寻求创新的方式来与受众互动。Yona.ai 提供了一个开创性的平台，你可以在其中创建自己的数字克隆，扩大影响范围并加深粉丝联系。通过用你独特的对话风格训练人工智能，你可以随时随地为粉丝提供真实的互动体验。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Bard PDF Today
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bard-pdf-today.webp" alt="Bard PDF Today">
-
-#### 免费的在线 PDF 文档摘要器和分析器
-
-[Visit](https://www.thataicollection.com/redirect/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Bard PDF 引入了 PDF 文档处理和分析领域的范式转变。其高效的汇总和分析功能彻底改变了用户与 PDF 文件交互的方式。无论你是研究人员、专业人士还是学生，Bard PDF 都能提供多种好处，以优化工作效率和提高理解力。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/bard-pdf-today?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -750,6 +733,21 @@ Pet Booth 是一项用于创建自己精彩的 AI 宠物肖像、照片和艺术
 
 ## 化身
 
+### Vana
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana">
+
+#### 创建数字双胞胎，了解自己的真实身份，将其应用到应用程序中，体验科技的未来。 
+[Visit](https://www.thataicollection.com/redirect/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vana允许你利用数据和人工智能的力量创建迷你 “你”。克隆你的声音，生成自拍照，并通过与数据交谈来了解你的数据。将 AI “你” 带到Vana网络中的应用程序中，探索个性化游戏、模拟和人工智能助手工具。Vana让你控制自己的数据和人工智能，让你把它变成神奇的东西。 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Photo AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
 
@@ -819,21 +817,6 @@ HairstyleAI 可让您在实际剪发之前通过 AI 虚拟尝试新发型。对�
 借助我们易于使用的 AI 技术，只需点击几下即可创建完美的头像。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### DreamPic
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreampic.webp" alt="DreamPic">
-
-#### 梦图.AI
-[Visit](https://www.thataicollection.com/redirect/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI 生成您主演的图片
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
