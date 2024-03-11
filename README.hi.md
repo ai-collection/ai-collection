@@ -78,6 +78,19 @@
 <br>
 
 
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
+    </a>
+    <h4>एक डिजिटल ट्विन बनाएं, जानें कि तुम असल में कौन हो, इसे ऐप्स की मदद से ले जाओ और टेक के भविष्य का अनुभव करो। </h4>
+    <p>वाना की मदद से तुम अपने डेटा और AI की ताकत का इस्तेमाल करके मिनी- “तुम” बना सकते हो। अपनी आवाज़ क्लोन करें, सेल्फी जेनरेट करें, और उनसे बात करके जानें कि तुम्हारा डेटा तुम्हारे बारे में क्या कहता है। वैयक्तिकृत गेम, सिमुलेशन और AI सहायक टूल खोजने के लिए वाना नेटवर्क के ऐप्लिकेशन में AI- “तुम” को ले जाओ। वाना तुम्हेंं तुम्हारे डेटा और एआई के नियंत्रण में रखती है, और तुम्हेंं इसे जादुई चीज़ में बदलने की सुविधा मिलती है। </p>
+    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Vana के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
 ---
 
 ### एआई संग्रह पर प्रदर्शित अद्भुत एआई अनुप्रयोगों की एक चुनिंदा सूची
