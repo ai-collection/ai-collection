@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1162" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1172" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>在 AI 的帮助下制作完美的简历</h4>
-    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
-    <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
     </a>
@@ -85,6 +72,19 @@
     <h4>AI Undressing-使用 AI Undressing 免费裸体照片</h4>
     <p>最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成</p>
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 undressing.io</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    </a>
+    <h4>在 AI 的帮助下制作完美的简历</h4>
+    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
+    <a href="https://www.thataicollection.com/redirect/huntr-ai-resume-builder/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -150,112 +150,109 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### Vana
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana">
+### PortraitArt.app
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-portraitart.app.webp" alt="PortraitArt.app">
 
-#### 创建数字双胞胎，了解自己的真实身份，将其应用到应用程序中，体验科技的未来。 
-[Visit](https://www.thataicollection.com/redirect/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 将您的照片变成具有专业触感的精美艺术作品！
+[Visit](https://www.thataicollection.com/redirect/portraitart.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Vana允许你利用数据和人工智能的力量创建迷你 “你”。克隆你的声音，生成自拍照，并通过与数据交谈来了解你的数据。将 AI “你” 带到Vana网络中的应用程序中，探索个性化游戏、模拟和人工智能助手工具。Vana让你控制自己的数据和人工智能，让你把它变成神奇的东西。 
+将您的照片个性化为精美的油画、梦幻般的水彩画、精彩的卡通、炫酷的素描、优雅的矢量艺术等等。用你自己的照片体验艺术的迷人魔力。由尖端的人工智能提供支持。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### PopStory!!
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-popstory!!.webp" alt="PopStory!!">
-
-#### 具有儿童友好界面的多语言有声读物创作者
-[Visit](https://www.thataicollection.com/redirect/popstory!!?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PopStory！！是一款多语言有声读物生成器，适用于儿童和希望学习新语言的人。简单的界面允许孩子选择角色和地点，然后用大约20种语言中的一种为他们创建故事。
-
-朗读功能允许孩子们在练习阅读的同时听取音频，甚至更好的是，如果你不是孩子，你也可以一起阅读！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/popstory!!?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/portraitart.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### ContentGT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-contentgt.webp" alt="ContentGT">
+### Dittto.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittto.ai.webp" alt="Dittto.ai">
 
-#### 具有自动发布功能的 SEO 最佳人工智能内容作家
-[Visit](https://www.thataicollection.com/redirect/contentgt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 使用在顶级 SaaS 网站上训练的 AI 来修复你的英雄副本。
+[Visit](https://www.thataicollection.com/redirect/dittto.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-ContentGT为几乎所有细分市场量身定制了高质量、引人入胜的文章，提供多达4000字的结构合理的内容。它使用来自股票资源和YouTube的相关图像和视频来丰富文章，从而提高了读者的参与度。具有自动发布和日程安排功能。
+别再用令人困惑的英雄副本浪费网站流量了。Dittto 是唯一一个在高转化率 SaaS 网站上接受过培训并由专业撰稿人进行微调的人工智能。审核您的定位，获取品牌配音推荐并修复您的英雄副本，以获得更多转化率。 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/contentgt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+功能：使用人工智能审核您的网站以确保清晰度，复制领先的SaaS品牌的灵感，Hero Copy AI向每位访客提供个性化消息。
 
-<br />
-
-<br />
-
-
-### UniFab
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unifab_.webp" alt="UniFab">
-
-#### 全面的 AI 视频增强器可提高您的视频质量
-[Visit](https://www.thataicollection.com/redirect/unifab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-由 AI 驱动的 10 合 1 综合视频处理工具，通过将视频分辨率提升至 4K 并将音频上调至 DTS 7.1 环绕声来编辑和增强您的视频/音频质量。
-使用 AI 将视频转换为 HDR 和杜比视界
-使用 AI 将视频增强到 1080p/4k
-使用 AI 将音频混音到 EAC3 5.1/DTS 7.1
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/unifab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dittto.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### The PR Creator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-pr-creator.webp" alt="The PR Creator">
+### undressher.app
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undressher_io.webp" alt="undressher.app">
 
-#### 使用 AI 在几秒钟内创建新闻稿
-[Visit](https://www.thataicollection.com/redirect/the-pr-creator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### undressher.app-看看她的裸体，免费的 AI 脱衣工具
+[Visit](https://www.thataicollection.com/redirect/undressher.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-该工具可创建自定义新闻稿并为用户提供评论部分 
-传达您的信息：借助我们最先进的人工智能驱动的公关创作服务，踏上扩大品牌故事讲述的旅程
-直接通过该工具发送：无论您是发布新产品、宣布公司里程碑还是管理声誉，我们的 AI 工具都旨在简化流程
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/the-pr-creator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
+undressher.io 是一款深度裸体的人工智能，可以立即无缝脱掉任何女性的衣服。免费使用最好的深裸AI为女性脱衣服。
 
 
-### Owwlish
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-owwlish.webp" alt="Owwlish">
-
-#### 快速为您的网站创建在线课程
-[Visit](https://www.thataicollection.com/redirect/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-无论您使用什么网站平台，Owwlish 都是向您的网站添加在线课程的全新简便方法！只需使用我们的简易课程生成器创建课程，复制并粘贴几行代码，瞧：您的课程已在您的网站上线，可供人们注册并开始学习！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undressher.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Yona.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-yona.ai.webp" alt="Yona.ai">
+### Chibi AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chibi-ai.webp" alt="Chibi AI">
 
-#### Yona.ai：使用个性化 AI 克隆增强你的影响力
-[Visit](https://www.thataicollection.com/redirect/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Chibi AI提供 “个性化人工智能研讨会”，旨在通过了解创作者的独特挑战来增强创作者的能力，提供量身定制的支持。
+[Visit](https://www.thataicollection.com/redirect/chibi-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-在数字时代，创作者和影响者不断寻求创新的方式来与受众互动。Yona.ai 提供了一个开创性的平台，你可以在其中创建自己的数字克隆，扩大影响范围并加深粉丝联系。通过用你独特的对话风格训练人工智能，你可以随时随地为粉丝提供真实的互动体验。
+想象一下：你自己的 AI 工具小作坊，全部由你精心打造，只为满足你的需求。这就像你的秘密俱乐部会所，在那里你是老板，没有人工智能偷走你的聚光灯。想象一下让事情按照自己的方式发生的那种史诗般的感觉。
+但我敢打赌你有点像我... 对新的人工智能写作工具的大胆主张持怀疑态度。嘿，我明白了。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chibi-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Sora Town
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sora-town.webp" alt="Sora Town">
+
+#### OpenAI 提供的免费试用版和视频样本及提示
+[Visit](https://www.thataicollection.com/redirect/sora-town?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SORA 是 OpenAI 建立的庞大文本到视频生成平台，目前在正式入口时发送检查人员提供的普通视频样本。我们已经收集了所有与SORA相关的镜头以及申请启动其实际试验的说明。一旦提供经批准的接口。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/sora-town?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Investinvideos
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-investinvideos.webp" alt="Investinvideos">
+
+#### 使用 AI 生成引人入胜的垂直视频
+[Visit](https://www.thataicollection.com/redirect/investinvideos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+无论是抖音、Instagram Reels还是YouTube短片：垂直视频正在爆炸式增长。如果你没有时间或制作技能来发展频道，investinvideos.com允许你自动生成高质量的垂直视频。只需输入主题，让我们的人工智能生成带有逼真的画外音的精美图像。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/investinvideos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Free Restore Photos
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-free-restore-photos.webp" alt="Free Restore Photos">
+
+#### None
+[Visit](https://www.thataicollection.com/redirect/free-restore-photos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+None
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/free-restore-photos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -700,21 +697,6 @@ ICONS8 允许设计师表达自己的想法，在正确的时间提供正确的�
 <br />
 
 
-### SUPERMACHINE
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
-
-#### Supermachine-使用 AI 生成库存照片、艺术品和图像
-[Visit](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SUPERMACHINE 使您能够使用最新的人工智能技术生成图像。使用 55 多个模型生成精彩的 AI 图像。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### Pet Booth
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
 
@@ -730,6 +712,21 @@ Pet Booth 是一项用于创建自己精彩的 AI 宠物肖像、照片和艺术
 收到一包 100 张 AI 生成的宠物图片，既有照片级逼真度，也有艺术风格。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### SUPERMACHINE
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
+
+#### Supermachine-使用 AI 生成库存照片、艺术品和图像
+[Visit](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SUPERMACHINE 使您能够使用最新的人工智能技术生成图像。使用 55 多个模型生成精彩的 AI 图像。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1293,19 +1290,21 @@ Descript 是一种简单、强大且有趣的编辑方式。
 <br />
 
 
-### Lilybank AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lilybank-ai_.webp" alt="Lilybank AI">
+### Dittto.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittto.ai.webp" alt="Dittto.ai">
 
-#### 认识 Lilybank AI，这是一种使用 AI 创建内容的更好方法
-[Visit](https://www.thataicollection.com/redirect/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 使用在顶级 SaaS 网站上训练的 AI 来修复你的英雄副本。
+[Visit](https://www.thataicollection.com/redirect/dittto.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-LilyBankAI是一个创新的写作和图像生成平台，适用于企业，通过利用人工智能技术加速原创内容的制作。
+别再用令人困惑的英雄副本浪费网站流量了。Dittto 是唯一一个在高转化率 SaaS 网站上接受过培训并由专业撰稿人进行微调的人工智能。审核您的定位，获取品牌配音推荐并修复您的英雄副本，以获得更多转化率。 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+功能：使用人工智能审核您的网站以确保清晰度，复制领先的SaaS品牌的灵感，Hero Copy AI向每位访客提供个性化消息。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dittto.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 ### Lightricks
@@ -3046,6 +3045,23 @@ Amadeus Topline 是一款由人工智能驱动的作曲应用程序，适合每�
 <br />
 
 
+### Nudify.online
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online_.webp" alt="Nudify.online">
+
+#### 使用我们的免费服务脱衣服任何人。Deepnude AI On Nudify — 免费为任何女孩脱衣服！
+
+[Visit](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+用于免费深度裸体的Undress AI照片生成器.Nudify deepnude AI 使用深度伪造裸照和比基尼照片的最高精度。只需选择年龄、体型、素质，即可在几秒钟内得到结果。 
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Undress.Vip
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
 
@@ -3106,23 +3122,6 @@ Dittin AI 是一个基于 DittinLLM 的 NSFW 人工智能聊天机器人平台�
 潜入众多 AI 女孩的世界，立即开始玩吧！
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Nudify.online
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online_.webp" alt="Nudify.online">
-
-#### 使用我们的免费服务脱衣服任何人。Deepnude AI On Nudify — 免费为任何女孩脱衣服！
-
-[Visit](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-用于免费深度裸体的Undress AI照片生成器.Nudify deepnude AI 使用深度伪造裸照和比基尼照片的最高精度。只需选择年龄、体型、素质，即可在几秒钟内得到结果。 
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3888,15 +3887,15 @@ Tabula是一个人工智能端到端分析平台，使营销和销售经理能�
 <br />
 
 
-### PH Deck
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ph-deck.webp" alt="PH Deck">
+### PitchGhost
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pitchghost.webp" alt="PitchGhost">
 
-#### 一目了然地查看 Everyday 的产品发布会
-[Visit](https://www.thataicollection.com/redirect/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 使用 AI 恢复旧的黑白照片和模糊的脸部照片。
+[Visit](https://www.thataicollection.com/redirect/pitchghost?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-专为 Product Hunt 用户量身定制，通过 AI 和 YC 的成熟方法揭示市场趋势。结合 AI 技术和 YC 见解，为您重点介绍 Product Hunt 中的每日精彩内容。
+“恢复照片” 是一个免费的在线工具，专门使用AI技术来恢复旧照片和模糊的面部图像。该工具可以轻松恢复、修复和增强黑白旧照片，让珍贵的回忆以最佳形式保存，让历史辉煌重现生机。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pitchghost?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

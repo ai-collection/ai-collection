@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1162" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1172" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -156,112 +156,109 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
-### Vana
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana">
+### PortraitArt.app
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-portraitart.app.webp" alt="PortraitArt.app">
 
-#### Create a digital twin, learn about who you truly are, take it to apps and experience the future of tech. 
-[Visit](https://www.thataicollection.com/redirect/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Turn your photos into stunning artistic pieces with a professional touch!
+[Visit](https://www.thataicollection.com/redirect/portraitart.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Vana lets you create a mini-"you" using the power of your data and AI.   Clone your voice, generate selfies, and learn about what your data says about you by talking to it.  Take AI-"you" to applications in the Vana network to explore personalized games, simulations and AI assistant tools. Vana puts you in control of your data and your AI, and lets you turn it into something magical. 
+Personalize your photos into beautiful oil paintings, dreamy watercolors, awesome cartoons, cool sketches, elegant vector art, and many more. Experience the enchanting magic of art with your own pictures. Powered by cutting-edge AI.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### PopStory!!
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-popstory!!.webp" alt="PopStory!!">
-
-#### Multi-lingual audiobook creator with child friendly interface
-[Visit](https://www.thataicollection.com/redirect/popstory!!?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PopStory!! is a multi-lingual audiobook generator for children and people wishing to learn new languages. The simple interface allows children to choose characters and locations, then creates a story for them in one of ~20 languages.
-
-The read-along feature allows children to practice reading along with the audio -- and even better -- if you're not a child you can also read along!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/popstory!!?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/portraitart.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### ContentGT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-contentgt.webp" alt="ContentGT">
+### Dittto.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittto.ai.webp" alt="Dittto.ai">
 
-#### Best AI Content Writer for SEO with Autoposting
-[Visit](https://www.thataicollection.com/redirect/contentgt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Fix your hero copy with an AI trained on top SaaS websites.
+[Visit](https://www.thataicollection.com/redirect/dittto.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-ContentGT crafts high-quality, engaging articles tailored to nearly any niche, offering up to 4000 words of well-structured content. It enriches articles with relevant images and videos from stock resources and YouTube, enhancing reader engagement. With autoposting and scheduling features.
+Stop wasting website traffic with confusing hero copy. Dittto is the only AI trained on high-converting SaaS websites and finetuned by pro copywriters. Audit your positioning, get brand voice recommendations & fix your hero copy for more conversions. 
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/contentgt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Features: Audit your website for clarity with AI, Copy inspiration from leading SaaS brands, Hero Copy AI to personalize messaging to each visitor.
 
-<br />
-
-
-
-
-### UniFab
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unifab_.webp" alt="UniFab">
-
-#### Comprehensive AI Video Enhancer to enhance your video quality
-[Visit](https://www.thataicollection.com/redirect/unifab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI-powered 10-in-1 comprehensive video processing tool, editing and enhancing your video/audio quality by upscaling video resolution up to 4K and upmixing audio to DTS 7.1 surround sound.
-Convert video to HDR and Dolby Vision with AI
-Enhance video to 1080p/4k with AI
-Upmix audio to EAC3 5.1/DTS 7.1 with AI
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/unifab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/dittto.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### The PR Creator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-pr-creator.webp" alt="The PR Creator">
+### undressher.app
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undressher_io.webp" alt="undressher.app">
 
-#### Create a Press Release in seconds using AI
-[Visit](https://www.thataicollection.com/redirect/the-pr-creator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### undressher.app - See Her Naked, Free AI Undressing Tool
+[Visit](https://www.thataicollection.com/redirect/undressher.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Tool that creates custom press releases and includes comment section for the users   
-Get your message out: Embark on a journey of amplified brand storytelling with our state-of-the-art AI-driven PR creation services
-Send directly from the tool: Whether you’re launching a new product, announcing a corporate milestone, or managing your reputation our AI tools are designed to streamline the process
+undressher.io is a deep nude AI that seamlessly removes the clothes of any female instantly. Undress women using the best deep nude AI for free.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/the-pr-creator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/undressher.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Chibi AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chibi-ai.webp" alt="Chibi AI">
+
+#### Chibi AI offers a "personalized AI workshop" designed to empower creators by understanding their unique challenges, providing tailored support.
+[Visit](https://www.thataicollection.com/redirect/chibi-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Picture this: your own little workshop of AI tools, all crafted by you, just for what you need. It's like your secret clubhouse where you're the boss, no AI stealing your spotlight. Imagine that epic feeling of making things happen your way.
+But I bet you're a bit like me... skeptical of new AI writing tools with their bold claims. Hey, I get it.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/chibi-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Owwlish
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-owwlish.webp" alt="Owwlish">
+### Sora Town
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sora-town.webp" alt="Sora Town">
 
-#### Create an online course for your website in a snap
-[Visit](https://www.thataicollection.com/redirect/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Free Trial and Video Samples & Prompt By OpenAI
+[Visit](https://www.thataicollection.com/redirect/sora-town?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Owwlish is the new and easy way to add an online course to your website, no matter what website platform you use! Just use our easy course builder to create a course, copy and paste a few lines of code, and voila: Your course is live on your website for people to enroll and get started learning!
+SORA is an expansive Text-to-Video Generation platform established by OpenAI that currently sends normal video specimens contributed by inspectors on its formal entrance. We've collected all footage relating to SORA as well as the instructions for petitioning for its practical trial initiation. Once the approved interface is offered.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/sora-town?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Yona.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-yona.ai.webp" alt="Yona.ai">
+### Investinvideos
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-investinvideos.webp" alt="Investinvideos">
 
-#### Yona.ai: Empower Your Influence with a Personalized AI Clone
-[Visit](https://www.thataicollection.com/redirect/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Generate engaging vertical videos with AI
+[Visit](https://www.thataicollection.com/redirect/investinvideos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-In the digital age, creators and influencers are constantly seeking innovative ways to engage with their audience. Yona.ai offers a groundbreaking platform where you can create digital clones of yourself, extending your reach and deepening fan connections. By training an AI with your unique conversational style, you can provide fans with an authentic interaction experience, anytime and anywhere.
+Whether TikTok, Instagram Reels or YouTube shorts: Vertical video is exploding. If you don’t have the time or the production skill to grow a channel, investinvideos.com allows you to generate high quality vertical videos automatically. Just enter the topic and let our AI generate beautiful images with realistic voice-overs.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/yona.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/investinvideos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Free Restore Photos
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-free-restore-photos.webp" alt="Free Restore Photos">
+
+#### Use AI to restore old black and white photos and blurry face photos.
+[Visit](https://www.thataicollection.com/redirect/free-restore-photos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+"Restore Photos" is a free online tool that specializes in using AI technology to restore old photos and blurry facial images. This tool can easily restore, repair, and enhance black and white old photos, allowing precious memories to be preserved in their best form and bringing historical brilliance back to life.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/free-restore-photos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -706,21 +703,6 @@ ICONS8 ALLOWS DESIGNERS TO EXPRESS THEIR IDEAS, PROVIDING THE RIGHT DESIGN ELEME
 
 
 
-### SUPERMACHINE
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
-
-#### Supermachine - Generate Stock Photos, Art, and Images With AI
-[Visit](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SUPERMACHINE enables you to generate images with the latest in artificial intelligence technology. Generate Awesome AI Images with 55+ Models.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### Pet Booth
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
 
@@ -740,6 +722,21 @@ Receive a pack of 100 AI generated images of your pet in both photo-realistic an
 <br />
 
 
+
+
+### SUPERMACHINE
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
+
+#### Supermachine - Generate Stock Photos, Art, and Images With AI
+[Visit](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SUPERMACHINE enables you to generate images with the latest in artificial intelligence technology. Generate Awesome AI Images with 55+ Models.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
 
 
 
@@ -1299,15 +1296,17 @@ All-in-one visual design platform containing AI photo and video editing tools. A
 
 
 
-### Lilybank AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lilybank-ai_.webp" alt="Lilybank AI">
+### Dittto.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittto.ai.webp" alt="Dittto.ai">
 
-#### Meet Lilybank AI, a better way to create content with AI
-[Visit](https://www.thataicollection.com/redirect/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Fix your hero copy with an AI trained on top SaaS websites.
+[Visit](https://www.thataicollection.com/redirect/dittto.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-LilybankAI is an innovative writing and image generation platform for businesses that accelerates the production of original content by utilizing AI technology.
+Stop wasting website traffic with confusing hero copy. Dittto is the only AI trained on high-converting SaaS websites and finetuned by pro copywriters. Audit your positioning, get brand voice recommendations & fix your hero copy for more conversions. 
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/lilybank-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Features: Audit your website for clarity with AI, Copy inspiration from leading SaaS brands, Hero Copy AI to personalize messaging to each visitor.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/dittto.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3052,6 +3051,23 @@ A Telegram Nudes_faceswap_bot! This bot can swap faces of any videos. How To Use
 
 
 
+### Nudify.online
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online_.webp" alt="Nudify.online">
+
+#### Undress Anybody With Our FREE Service. Deepnude AI On Nudify – Undress any Girl For Free!
+
+[Visit](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress AI photo generator for free deepnudes. Nudify deepnude AI with the highest accuracy of deepfake nude and bikini photos. Just choose age, body type, quality and get a result in a few seconds. 
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Undress.Vip
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
 
@@ -3112,23 +3128,6 @@ Whether surviving on a deserted island, navigating through space in a spaceship,
 Dive into the world of numerous AI girls and start playing now!
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nudify.online
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online_.webp" alt="Nudify.online">
-
-#### Undress Anybody With Our FREE Service. Deepnude AI On Nudify – Undress any Girl For Free!
-
-[Visit](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress AI photo generator for free deepnudes. Nudify deepnude AI with the highest accuracy of deepfake nude and bikini photos. Just choose age, body type, quality and get a result in a few seconds. 
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3894,15 +3893,15 @@ Get great copy that sells. Copy.ai is an AI-powered copywriter that generates hi
 
 
 
-### PH Deck
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ph-deck.webp" alt="PH Deck">
+### PitchGhost
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pitchghost.webp" alt="PitchGhost">
 
-#### See Everyday’s Product Launch in a One Deck
-[Visit](https://www.thataicollection.com/redirect/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Use AI to restore old black and white photos and blurry face photos.
+[Visit](https://www.thataicollection.com/redirect/pitchghost?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Tailored for Product Hunt users, revealing market trends through AI and YC's proven approaches. Combining AI technology and YC insights to highlight daily standouts from Product Hunt for you.
+"Restore Photos" is a free online tool that specializes in using AI technology to restore old photos and blurry facial images. This tool can easily restore, repair, and enhance black and white old photos, allowing precious memories to be preserved in their best form and bringing historical brilliance back to life.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/pitchghost?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
