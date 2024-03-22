@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1181" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1191" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -137,107 +137,112 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### Prems Ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prems-ai.webp" alt="Prems Ai">
+### Botrush
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-botrush.webp" alt="Botrush">
 
-#### Prems Ai 🔔 📉🚨 降价和补货提醒
+#### 通过直观的个性化 Botrush 聊天探索人工智能
+[Visit](https://www.thataicollection.com/redirect/botrush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/prems-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+与 Botrush 一起体验无缝人工智能对话的乐趣！与 ChatGPT Plus 不同，Botrush 为您提供了一个直观的界面，您可以在其中轻松调整聊天体验。想象一下，在几秒钟内就能从历史记录中找到任何对话，或者下载聊天记录以备将来参考。Botrush 使人工智能交互不仅更智能，而且更具个性化和可访问性。 
 
-🦸 使用 prems.ai 获得超能力，毫不费力地省钱，我们预测您最喜欢的商品的价格会下降。当价格下跌并有货时，我们的物品追踪器会提醒您。此外，我们的用户社区分享最优惠的价格，因此您可以随时了解最新的折扣。
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/botrush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/prems-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+### Nectar AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nectar-ai.webp" alt="Nectar AI">
+
+#### 在短短几秒钟内创建完美的梦中女孩！
+[Visit](https://www.thataicollection.com/redirect/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nectar是一个生成式人工智能平台，提供两种产品：（1）图像创建器和（2）角色扮演。
+Image Creator是一款强大的生成式人工智能工具，用于创建照片和视频，而角色扮演允许您探索不同的幻想并创建自定义角色。我们的文本和语言生成时间是业内最快的生成时间之一。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### ChatNode
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatnode.webp" alt="ChatNode">
+### Interviews Chat
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interviews-chat.webp" alt="Interviews Chat">
 
-#### 专为现代专业人士设计的私人、无代码 AI Copilot 应用程序
-[Visit](https://www.thataicollection.com/redirect/chatnode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 您的个人面试准备和副驾驶
+[Visit](https://www.thataicollection.com/redirect/interviews-chat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-ChatNode是一个多功能平台，旨在使每个人都可以使用人工智能，无论其技术技能如何，同时非常重视数据安全和隐私。借助其无代码方法，用户可以快速创建 AI 助手来完成各种任务——从编程辅助和博客写作到图像生成。 
+Interviews Chat 通过提供由尖端人工智能技术提供支持的全套工具和资源，彻底改变了面试准备工作。Interviews Chat 旨在为求职者和专业人士提供支持，提供实时支持、个性化反馈和量身定制的问题准备，以确保面试成功。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chatnode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### MotionShot
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-motionshot.webp" alt="MotionShot">
-
-#### 为您的产品和客户创建有吸引力的演练指南
-[Visit](https://www.thataicollection.com/redirect/motionshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-MotionShot 可帮助您为多种用例制作内容丰富的指南，例如向客户提供的产品指南、为新入职人员或员工提供教程指南、为销售演示创建产品演示等。因此，您可以获得满意的客户并减少流失，快速与员工或新入职者分享知识，提高销售转化率。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/motionshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/interviews-chat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### LeapLife
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-leaplife.webp" alt="LeapLife">
+### BidBuilder
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bidbuilder.webp" alt="BidBuilder">
 
-#### 人工智能驱动的日记应用程序，可即时提升情绪和个人成长。私密且安全。
-[Visit](https://www.thataicollection.com/redirect/leaplife?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Bidbuilder是一款由人工智能驱动的Upwork提案生成器，可提供量身定制的提案，使您在竞争中脱颖而出。 
+[Visit](https://www.thataicollection.com/redirect/bidbuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-LeapLife 是一款人工智能驱动的日记应用程序，专为即时情绪提升和个人成长而设计。它会分析参赛作品以供反思，提出行动建议，提出新问题，并随着时间的推移记住你。在您自己的设备上，您的数据始终是私密和安全的。
+一款可在几分钟内创建个性化Upwork提案的人工智能工具。您只需要输入项目详细信息，其余的技能将由BidBuilder负责。它将在几分钟之内针对客户的需求和要求生成一份定制且有说服力的提案。 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/leaplife?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Junia AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-junia-ai.webp" alt="Junia AI">
-
-#### Junia AI-最佳 SEO 人工智能写作软件
-[Visit](https://www.thataicollection.com/redirect/junia-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Junia AI是一款领先的人工智能写作工具，可帮助企业进行SEO优化的内容创作，并增强整体写作流程。Junia AI迎合了电子商务、SEO机构和博客作者等各个行业。凭借其先进的自定义训练的人工智能模型，Junia AI 使品牌能够创建高质量的品牌化、真实和类似人类的内容。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/junia-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/bidbuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### AI Image to Music Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-image-to-music-generator.webp" alt="AI Image to Music Generator">
+### ChatFlow - AI Chatbot
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatflow---ai-chatbot.webp" alt="ChatFlow - AI Chatbot">
 
-#### AI 图像到音乐生成器是一种使用人工智能将图像转换为音乐的工具
-[Visit](https://www.thataicollection.com/redirect/ai-image-to-music-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### ChatFlow 允许您为网站构建品牌化 AI 聊天机器人，使用根据您的网站内容创建的知识库自动回答访客的问题。
+[Visit](https://www.thataicollection.com/redirect/chatflow---ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AI Image to Music Generator 是一种使用人工智能将图像转换为音乐的工具。它使用计算机视觉算法分析图像的颜色、形状、纹理和其他视觉元素，然后根据分析结果生成音乐。
+ChatFlow 是一种简单的 AI 聊天机器人解决方案，它利用您网站的现有内容实时回答访客的问题。
+它通过从您的网站、文档和注释中创建的知识库来自动提供客户支持，从而确保响应既准确又即时。
+ChatFlow 可以根据您的品牌进行自定义，并无缝集成到您的网站中。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-image-to-music-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chatflow---ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Txt2SQL
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-txt2sql.webp" alt="Txt2SQL">
+### Inline Help
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-inline-help.webp" alt="Inline Help">
 
-#### 使用您自己的数据库架构将文本转换为 SQL 生成器 AI
-[Visit](https://www.thataicollection.com/redirect/txt2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 在客户提问之前先回答他们
+[Visit](https://www.thataicollection.com/redirect/inline-help?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Txt2SQL 仅根据纯文本和数据库架构生成优化的 SQL 查询。您可以保存自己喜欢的查询并添加自己的自定义数据库架构
+使用 Inline Help 将您的客户支持提升到新的高度，这是主动支持的终极解决方案，可在客户提问之前就预测并解决他们的问题。将您的知识库与 Inline Help 无缝集成，您可以释放应用程序内 AI 助手的强大功能，该助手可以动态生成根据用户需求量身定制的内容。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/txt2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/inline-help?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### AICupid
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aicupid.webp" alt="AICupid">
+
+#### AiCupid：体验你的终极人工智能女友，以前所未有的方式潜入人工智能亲密世界。
+[Visit](https://www.thataicollection.com/redirect/aicupid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AiCupid 通过先进的 NSFW 模型、逼真的语音消息和可自定义的角色提供身临其境的 AI 女友体验。参与成熟的对话，享受动态视觉效果，实现真正的个性化互动。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aicupid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1213,6 +1218,22 @@ WriteHuman：将人工智能文本人性化为无法检测的人工智能。使�
 <br />
 
 
+### IndexApps
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-indexapps.webp" alt="IndexApps">
+
+#### IndexApps-开发出色的 AI 应用程序
+[Visit](https://www.thataicollection.com/redirect/indexapps?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 Blocks Dev 开发的 MVP 在几周内建立您的创业公司
+或按月订阅。查看可以提高工作效率的各种产品，例如Mac ChatNode桌面，这是100％ChatGPT替代品，可在您的计算机上离线运行。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/indexapps?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Damn Good Tools
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools">
 
@@ -1273,23 +1294,6 @@ Descript 是一种简单、强大且有趣的编辑方式。
 <br />
 
 <br />
-
-
-### Dittto.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittto.ai.webp" alt="Dittto.ai">
-
-#### 使用在顶级 SaaS 网站上训练的 AI 来修复你的英雄副本。
-[Visit](https://www.thataicollection.com/redirect/dittto.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-别再用令人困惑的英雄副本浪费网站流量了。Dittto 是唯一一个在高转化率 SaaS 网站上接受过培训并由专业撰稿人进行微调的人工智能。审核您的定位，获取品牌配音推荐并修复您的英雄副本，以获得更多转化率。 
-
-功能：使用人工智能审核您的网站以确保清晰度，复制领先的SaaS品牌的灵感，Hero Copy AI向每位访客提供个性化消息。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dittto.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ### Lightricks
@@ -3512,6 +3516,21 @@ MotionShot 可帮助您为多种用例制作内容丰富的指南，例如向客
 <br />
 
 
+### Botrush
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-botrush.webp" alt="Botrush">
+
+#### 通过直观的个性化 Botrush 聊天探索人工智能
+[Visit](https://www.thataicollection.com/redirect/botrush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+与 Botrush 一起体验无缝人工智能对话的乐趣！与 ChatGPT Plus 不同，Botrush 为您提供了一个直观的界面，您可以在其中轻松调整聊天体验。想象一下，在几秒钟内就能从历史记录中找到任何对话，或者下载聊天记录以备将来参考。Botrush 使人工智能交互不仅更智能，而且更具个性化和可访问性。 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/botrush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Alphana
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-alphana.webp" alt="Alphana">
 
@@ -3558,21 +3577,6 @@ Alphana可以轻松地将视频、播客和你的想法转化为简洁的摘要�
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ask-poppy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Cogram
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cogram.webp" alt="Cogram">
-
-#### 为您的团队配备一位聪明的同事，将您的工作效率提高一倍
-[Visit](https://www.thataicollection.com/redirect/cogram?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cogram 使用 AI 在虚拟会议中做笔记、跟踪行动项目并自动执行下游任务，同时确保数据的私密性和安全性。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/cogram?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

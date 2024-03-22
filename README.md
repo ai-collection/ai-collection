@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1181" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1191" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -143,107 +143,112 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
-### Prems Ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prems-ai.webp" alt="Prems Ai">
+### Botrush
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-botrush.webp" alt="Botrush">
 
-#### Prems Ai 🔔 📉🚨 Price-drop and Restock Alerts
+#### Explore AI with intuitive, personalized Botrush chats
+[Visit](https://www.thataicollection.com/redirect/botrush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/prems-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Discover the joy of seamless AI conversations with Botrush! Unlike ChatGPT Plus, Botrush offers you an intuitive interface where you can easily tweak your chat experience. Imagine finding any conversation from your history in seconds or downloading your chats for future reference. Botrush makes AI interactions not just smarter, but also more personal and accessible. 
 
-🦸 Gain the superpower to effortlessly save money with prems.ai, we predict the price drops on your favorites items. Our item trackers will alert you when price drops and back in stock. Plus, our community of users shares the best deals, so you can always stay on top of the latest discounts.
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/prems-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/botrush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### ChatNode
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatnode.webp" alt="ChatNode">
+### Nectar AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nectar-ai.webp" alt="Nectar AI">
 
-#### Private, No-Code AI Copilot Application for the modern professional
-[Visit](https://www.thataicollection.com/redirect/chatnode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Create your perfect Dream Girl in just seconds!
+[Visit](https://www.thataicollection.com/redirect/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-ChatNode is a versatile platform designed to make artificial intelligence accessible to everyone, regardless of their technical skills, while placing a strong emphasis on data security and privacy. With its no-code approach, users can quickly create AI assistants to tackle a wide range of tasks—from coding assistance and blog writing to image generation. 
+Nectar is a generative AI platform that offers two products: (1) Image Creator and (2) Roleplay.
+Image Creator is a powerful generative AI tool to create photos and videos, while Roleplay allows you to explore different fantasies and create your custom character. Our generation times for both text and language are one of the fastest in the industry.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/chatnode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### MotionShot
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-motionshot.webp" alt="MotionShot">
-
-#### Create attractive walkthrough guides for your products & customers
-[Visit](https://www.thataicollection.com/redirect/motionshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-MotionShot helps you make informative guides for multiple use cases such as guides about your product to your customers, tutorial guides for your new on-boards or employees, create product walkthrough for your sales demos etc. As a result you have happy customers and less churn, quick knowledge share with your employees or new on-boards, and better conversion for your sales.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/motionshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### LeapLife
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-leaplife.webp" alt="LeapLife">
+### Interviews Chat
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interviews-chat.webp" alt="Interviews Chat">
 
-#### AI-powered journal app for instant mood boosts and personal growth. Private and secure.
-[Visit](https://www.thataicollection.com/redirect/leaplife?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Your Personal Interview Prep and Copilot
+[Visit](https://www.thataicollection.com/redirect/interviews-chat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-LeapLife is an AI-powered journal app designed for instant mood boosts and personal growth. It analyzes entries for reflection, suggests actions, poses new questions, and remembers you over time. Your data is always private and secure on your own device.
+Interviews Chat revolutionizes interview preparation by offering a comprehensive suite of tools and resources powered by cutting-edge AI technology. Designed to empower job seekers and professionals alike, Interviews Chat provides real-time support, personalized feedback, and tailored question preparation to ensure interview success.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/leaplife?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Junia AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-junia-ai.webp" alt="Junia AI">
-
-#### Junia AI - Best AI Writing Software For SEO
-[Visit](https://www.thataicollection.com/redirect/junia-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Junia AI is a leading AI writing tool that empowers businesses for SEO-optimized content creation and enhances the overall writing process. Junia AI caters to various industries such as e-commerce, SEO agencies, and bloggers. With its advanced custom-trained AI models, Junia AI enables brandsto create on-brand, factual, and human-like content of high quality.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/junia-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/interviews-chat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### AI Image to Music Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-image-to-music-generator.webp" alt="AI Image to Music Generator">
+### BidBuilder
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bidbuilder.webp" alt="BidBuilder">
 
-#### AI Image to Music Generator is a tool that uses artificial intelligence to convert images into music
-[Visit](https://www.thataicollection.com/redirect/ai-image-to-music-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### BidBuilder is an AI-powered Upwork Proposal Generator that delivers a tailored proposal to make you stand out from the competition. 
+[Visit](https://www.thataicollection.com/redirect/bidbuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-AI Image to Music Generator is a tool that uses artificial intelligence to convert images into music.It analyzes the colors, shapes, textures and other visual elements of an image using computer vision algorithms, and then generates music based on the analysis results.
+An AI tool that creates Personalized Upwork Proposals within minutes. You just have to enter the project details, and your skills the rest will be taken care of by BidBuilder. It will generate a customized and compelling proposal specific to the client's needs and requirements within minutes. 
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-image-to-music-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/bidbuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Txt2SQL
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-txt2sql.webp" alt="Txt2SQL">
+### ChatFlow - AI Chatbot
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatflow---ai-chatbot.webp" alt="ChatFlow - AI Chatbot">
 
-#### Text to SQL Generator AI using your own database schema
-[Visit](https://www.thataicollection.com/redirect/txt2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### ChatFlow lets you build branded AI chatbots for your websites, automatically answering visitor questions using a knowledge base created from your website content.
+[Visit](https://www.thataicollection.com/redirect/chatflow---ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Txt2SQL generates optimized SQL queries from just plain text and the database schema. You can save your favourite queries and add your own custom database schema
+ChatFlow is a straightforward AI chatbot solution that leverages your website's existing content to answer visitor questions in real-time.
+It automates customer support by drawing from a knowledge base created from your site, documents, and notes, ensuring responses are both accurate and immediate.
+ChatFlow can be customized to match your brand and integrates seamlessly into your website.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/txt2sql?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/chatflow---ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Inline Help
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-inline-help.webp" alt="Inline Help">
+
+#### Answer customer questions before they ask
+[Visit](https://www.thataicollection.com/redirect/inline-help?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Elevate your customer support to new heights with Inline Help – the ultimate solution for proactive support that anticipates and addresses customer questions before they even ask. Seamlessly integrating your knowledge base with Inline Help, you unlock the power of an in-app AI assistant that dynamically generates content tailored to your users' needs.
+
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/inline-help?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AICupid
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aicupid.webp" alt="AICupid">
+
+#### AICupid: Experience Your Ultimate AI Girlfriend, diving into a world of AI intimacy like never before.
+[Visit](https://www.thataicollection.com/redirect/aicupid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AICupid offers an immersive AI girlfriend experience with advanced NSFW models, realistic voice messages, and customizable characters. Engage in mature conversations and enjoy dynamic visuals for a truly personalized interaction.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/aicupid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1219,6 +1224,22 @@ Experience seamless engagement with our artistic QR codes – a captivating fusi
 
 
 
+### IndexApps
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-indexapps.webp" alt="IndexApps">
+
+#### IndexApps - Develop great AI Applications
+[Visit](https://www.thataicollection.com/redirect/indexapps?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Build your startup up in weeks with MVP developed by Blocks Dev
+or with monthly subscription. Checkout out various products that will boost your productivity, such as Mac ChatNode Desktop - 100% ChatGPT alternative that runs offline on your computer.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/indexapps?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Damn Good Tools
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools">
 
@@ -1275,23 +1296,6 @@ Descript is the simple, powerful, and fun way to edit.
 All-in-one visual design platform containing AI photo and video editing tools. Automatic process for background remove, image restoration, graphic design, and content generation
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/cutout-pro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Dittto.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittto.ai.webp" alt="Dittto.ai">
-
-#### Fix your hero copy with an AI trained on top SaaS websites.
-[Visit](https://www.thataicollection.com/redirect/dittto.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Stop wasting website traffic with confusing hero copy. Dittto is the only AI trained on high-converting SaaS websites and finetuned by pro copywriters. Audit your positioning, get brand voice recommendations & fix your hero copy for more conversions. 
-
-Features: Audit your website for clarity with AI, Copy inspiration from leading SaaS brands, Hero Copy AI to personalize messaging to each visitor.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/dittto.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3518,6 +3522,21 @@ MotionShot helps you make informative guides for multiple use cases such as guid
 
 
 
+### Botrush
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-botrush.webp" alt="Botrush">
+
+#### Explore AI with intuitive, personalized Botrush chats
+[Visit](https://www.thataicollection.com/redirect/botrush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Discover the joy of seamless AI conversations with Botrush! Unlike ChatGPT Plus, Botrush offers you an intuitive interface where you can easily tweak your chat experience. Imagine finding any conversation from your history in seconds or downloading your chats for future reference. Botrush makes AI interactions not just smarter, but also more personal and accessible. 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/botrush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Alphana
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-alphana.webp" alt="Alphana">
 
@@ -3568,21 +3587,6 @@ You know your lifestyle. We know the products. Let's build your baby registry to
 <br />
 
 
-
-
-### Cogram
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cogram.webp" alt="Cogram">
-
-#### Double Your Productivity With an Intelligent Coworker for Your Team
-[Visit](https://www.thataicollection.com/redirect/cogram?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cogram uses AI to take notes in virtual meetings, track action items, and automate downstream tasks, while keeping your data private and secure.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/cogram?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ### Kinestex
