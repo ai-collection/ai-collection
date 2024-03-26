@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1191" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1206" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -78,6 +78,19 @@ Translations:
     <h4>AI Undressing - Nudify Photos for FREE with AI Undressing</h4>
     <p>Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instantly transform looks. Nude photos in one click. Many styles and opportunity to do it with prompt</p>
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with undressing.io</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
+    </a>
+    <h4>Turn your selfies into professional headshots</h4>
+    <p>The highest accuracy professional headshot generator on the market. Tailored composition for the best first impressions. Ideal for professionals and teams.</p>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with The Multiverse AI</b></a>
     <br />
 </div>
 
@@ -143,112 +156,111 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
-### Botrush
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-botrush.webp" alt="Botrush">
+### The Multiverse AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI">
 
-#### Explore AI with intuitive, personalized Botrush chats
-[Visit](https://www.thataicollection.com/redirect/botrush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Turn your selfies into professional headshots
+[Visit](https://www.thataicollection.com/redirect/the-multiverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Discover the joy of seamless AI conversations with Botrush! Unlike ChatGPT Plus, Botrush offers you an intuitive interface where you can easily tweak your chat experience. Imagine finding any conversation from your history in seconds or downloading your chats for future reference. Botrush makes AI interactions not just smarter, but also more personal and accessible. 
+The highest accuracy professional headshot generator on the market. Tailored composition for the best first impressions. Ideal for professionals and teams.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/botrush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nectar AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nectar-ai.webp" alt="Nectar AI">
-
-#### Create your perfect Dream Girl in just seconds!
-[Visit](https://www.thataicollection.com/redirect/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nectar is a generative AI platform that offers two products: (1) Image Creator and (2) Roleplay.
-Image Creator is a powerful generative AI tool to create photos and videos, while Roleplay allows you to explore different fantasies and create your custom character. Our generation times for both text and language are one of the fastest in the industry.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/the-multiverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Interviews Chat
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interviews-chat.webp" alt="Interviews Chat">
+### Careerflow AI Mock Interview
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-careerflow-ai-mock-interview.webp" alt="Careerflow AI Mock Interview">
 
-#### Your Personal Interview Prep and Copilot
-[Visit](https://www.thataicollection.com/redirect/interviews-chat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Ace your upcoming Job Interviews and elevate your interview skills.
+[Visit](https://www.thataicollection.com/redirect/careerflow-ai-mock-interview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Interviews Chat revolutionizes interview preparation by offering a comprehensive suite of tools and resources powered by cutting-edge AI technology. Designed to empower job seekers and professionals alike, Interviews Chat provides real-time support, personalized feedback, and tailored question preparation to ensure interview success.
+Practice role and company specific interview questions and get real-time feedback from your private and judgment-free AI Interview Coach. Start your Mock Interview!
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/interviews-chat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### BidBuilder
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bidbuilder.webp" alt="BidBuilder">
-
-#### BidBuilder is an AI-powered Upwork Proposal Generator that delivers a tailored proposal to make you stand out from the competition. 
-[Visit](https://www.thataicollection.com/redirect/bidbuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-An AI tool that creates Personalized Upwork Proposals within minutes. You just have to enter the project details, and your skills the rest will be taken care of by BidBuilder. It will generate a customized and compelling proposal specific to the client's needs and requirements within minutes. 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/bidbuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/careerflow-ai-mock-interview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### ChatFlow - AI Chatbot
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatflow---ai-chatbot.webp" alt="ChatFlow - AI Chatbot">
+### Careerflow AI LinkedIn Optimization Tool
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-careerflow-ai-linkedin-optimization-tool.webp" alt="Careerflow AI LinkedIn Optimization Tool">
 
-#### ChatFlow lets you build branded AI chatbots for your websites, automatically answering visitor questions using a knowledge base created from your website content.
-[Visit](https://www.thataicollection.com/redirect/chatflow---ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Optimize your LinkedIn profile and get more job offers.
+[Visit](https://www.thataicollection.com/redirect/careerflow-ai-linkedin-optimization-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-ChatFlow is a straightforward AI chatbot solution that leverages your website's existing content to answer visitor questions in real-time.
-It automates customer support by drawing from a knowledge base created from your site, documents, and notes, ensuring responses are both accurate and immediate.
-ChatFlow can be customized to match your brand and integrates seamlessly into your website.
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/chatflow---ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+Careerflow's free LinkedIn review tool lets you optimize your LinkedIn profile to showcase the best.
+ 
+Optimize your linkedin profile and make it 40X more likely to land and opportunity.
 
 
-
-
-### Inline Help
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-inline-help.webp" alt="Inline Help">
-
-#### Answer customer questions before they ask
-[Visit](https://www.thataicollection.com/redirect/inline-help?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Elevate your customer support to new heights with Inline Help – the ultimate solution for proactive support that anticipates and addresses customer questions before they even ask. Seamlessly integrating your knowledge base with Inline Help, you unlock the power of an in-app AI assistant that dynamically generates content tailored to your users' needs.
-
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/inline-help?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/careerflow-ai-linkedin-optimization-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### AICupid
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aicupid.webp" alt="AICupid">
+### Careerflow AI Resume Builder
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-careerflow-ai-resume-builder.webp" alt="Careerflow AI Resume Builder">
 
-#### AICupid: Experience Your Ultimate AI Girlfriend, diving into a world of AI intimacy like never before.
-[Visit](https://www.thataicollection.com/redirect/aicupid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Careerflow AI Resume Builder | Your Resume, Our AI
 
-AICupid offers an immersive AI girlfriend experience with advanced NSFW models, realistic voice messages, and customizable characters. Engage in mature conversations and enjoy dynamic visuals for a truly personalized interaction.
+[Visit](https://www.thataicollection.com/redirect/careerflow-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/aicupid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Customize your resume to each job description, get a detailed analysis and review, and never worry about optimizing your resume again! 
+
+Optimize your resume for each job description effortlessly with our online resume builder and get a detailed analysis and review.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/careerflow-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Anime Personalities
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-anime-personalities.webp" alt="Anime Personalities">
+
+#### Chat with 100,000+ anime characters from your favorite animes!
+[Visit](https://www.thataicollection.com/redirect/anime-personalities?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Discover Anime Personalities, the ultimate destination for fans to interact with beloved anime characters! Dive into enriching dialogues, explore unique storylines, and connect on a personal level with heroes and villains from your favorite anime shows. Whether you're seeking advice, friendship, or just a fun chat, Anime Personalities brings your cherished characters to life! 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/anime-personalities?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Redesign With AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-redesign-with-ai.webp" alt="Redesign With AI">
+
+#### Redesign make design more easy and creativity with AI Platform.
+[Visit](https://www.thataicollection.com/redirect/redesign-with-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Redesign With AI !AI Design Generator, It generates all design like icon,logo,free sticker,poster,coloring page,mockup from a prompt words using AI.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/redesign-with-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### scale.jobs
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scale.jobs.webp" alt="scale.jobs">
+
+#### Hire a Human Career Assistant for your Job Hunt
+[Visit](https://www.thataicollection.com/redirect/scale.jobs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Stop wasting your time applying to jobs. Hire a human career assistant who will apply to jobs on your behalf with personalized cover letters and targeted resumes, so you can focus on networking and interview prep.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/scale.jobs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -632,6 +644,21 @@ Experience the future of professional photography with www.corporateHeadshots.ai
 
 
 
+### The Multiverse AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI">
+
+#### Turn your selfies into professional headshots
+[Visit](https://www.thataicollection.com/redirect/the-multiverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+The highest accuracy professional headshot generator on the market. Tailored composition for the best first impressions. Ideal for professionals and teams.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/the-multiverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### caspa AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI">
 
@@ -712,21 +739,6 @@ Receive a pack of 100 AI generated images of your pet in both photo-realistic an
 <br />
 
 
-
-
-### SUPERMACHINE
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
-
-#### Supermachine - Generate Stock Photos, Art, and Images With AI
-[Visit](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SUPERMACHINE enables you to generate images with the latest in artificial intelligence technology. Generate Awesome AI Images with 55+ Models.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 
@@ -2369,6 +2381,21 @@ Tailor your resume to fit specific job requirements and company culture. Automat
 
 
 
+### scale.jobs
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scale.jobs.webp" alt="scale.jobs">
+
+#### Hire a Human Career Assistant for your Job Hunt
+[Visit](https://www.thataicollection.com/redirect/scale.jobs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Stop wasting your time applying to jobs. Hire a human career assistant who will apply to jobs on your behalf with personalized cover letters and targeted resumes, so you can focus on networking and interview prep.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/scale.jobs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI Resume Editor
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-resume-editor.webp" alt="AI Resume Editor">
 
@@ -2384,34 +2411,19 @@ Rezi is the only resume platform that uses leading AI to automate every aspect o
 
 
 
-### rankode
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rankode.webp" alt="rankode">
+### Careerflow AI Mock Interview
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-careerflow-ai-mock-interview.webp" alt="Careerflow AI Mock Interview">
 
-#### AI for Human Resources - Rankode
-[Visit](https://www.thataicollection.com/redirect/rankode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Ace your upcoming Job Interviews and elevate your interview skills.
+[Visit](https://www.thataicollection.com/redirect/careerflow-ai-mock-interview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Recruiters, everything you need to know about a candidate's programming skills is in their GitHub. Evaluate them automatically with Rankode to avoid expensive hiring mistakes and superboost your retention.
+Practice role and company specific interview questions and get real-time feedback from your private and judgment-free AI Interview Coach. Start your Mock Interview!
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/rankode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### HireYaY
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hireyay.webp" alt="HireYaY">
-
-#### Hireyay, a Hiring Platform for Startups
-[Visit](https://www.thataicollection.com/redirect/hireyay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-92% of job seekers do not finish their online application. With HireYaY, you will never miss a qualified candidate again.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/hireyay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/careerflow-ai-mock-interview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
-<br />
+
 
 
 
@@ -3022,6 +3034,22 @@ Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instan
 
 
 
+### Nectar AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nectar-ai.webp" alt="Nectar AI">
+
+#### Create your perfect Dream Girl in just seconds!
+[Visit](https://www.thataicollection.com/redirect/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nectar is a generative AI platform that offers two products: (1) Image Creator and (2) Roleplay.
+Image Creator is a powerful generative AI tool to create photos and videos, while Roleplay allows you to explore different fantasies and create your custom character. Our generation times for both text and language are one of the fastest in the industry.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Nudes – Face Swap
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudes-%E2%80%93-face-swap.webp" alt="Nudes – Face Swap">
 
@@ -3098,25 +3126,6 @@ Your wildest dreams are just a click away today!
 Dittin AI is an NSFW AI chatbot platform built on DittinLLM. With minimal restrictions on NSFW content, you can engage in conversations with AI characters on a wide range of topics. Dittin AI supports 3D avatars and voice messages, allowing you to create and share AI characters with both sound and interactive 3D avatars using the creation panel.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Girlfriend WTF
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
-
-#### Dive into hot adventures with AI Girlfriends!
-[Visit](https://www.thataicollection.com/redirect/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Experience thrilling adventures and live different lives with AI girls! 
-
-Whether surviving on a deserted island, navigating through space in a spaceship, or simply enjoying casual chats with your very own cat girl, there's something for everyone. 
-
-Dive into the world of numerous AI girls and start playing now!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

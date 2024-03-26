@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1191" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1206" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -51,6 +51,19 @@
     <h5>热门精选</h5>
     <p>AI Collection 的首选是</p>
 </div>
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
+    </a>
+    <h4>把你的自拍变成专业头像</h4>
+    <p>市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。</p>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 The Multiverse AI</b></a>
+    <br />
+</div>
+
+<br>
+
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -137,112 +150,111 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### Botrush
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-botrush.webp" alt="Botrush">
+### The Multiverse AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI">
 
-#### 通过直观的个性化 Botrush 聊天探索人工智能
-[Visit](https://www.thataicollection.com/redirect/botrush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 把你的自拍变成专业头像
+[Visit](https://www.thataicollection.com/redirect/the-multiverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-与 Botrush 一起体验无缝人工智能对话的乐趣！与 ChatGPT Plus 不同，Botrush 为您提供了一个直观的界面，您可以在其中轻松调整聊天体验。想象一下，在几秒钟内就能从历史记录中找到任何对话，或者下载聊天记录以备将来参考。Botrush 使人工智能交互不仅更智能，而且更具个性化和可访问性。 
+市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/botrush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nectar AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nectar-ai.webp" alt="Nectar AI">
-
-#### 在短短几秒钟内创建完美的梦中女孩！
-[Visit](https://www.thataicollection.com/redirect/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nectar是一个生成式人工智能平台，提供两种产品：（1）图像创建器和（2）角色扮演。
-Image Creator是一款强大的生成式人工智能工具，用于创建照片和视频，而角色扮演允许您探索不同的幻想并创建自定义角色。我们的文本和语言生成时间是业内最快的生成时间之一。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/the-multiverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Interviews Chat
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interviews-chat.webp" alt="Interviews Chat">
+### Careerflow AI Mock Interview
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-careerflow-ai-mock-interview.webp" alt="Careerflow AI Mock Interview">
 
-#### 您的个人面试准备和副驾驶
-[Visit](https://www.thataicollection.com/redirect/interviews-chat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 在即将到来的求职面试中脱颖而出，提升面试技巧。
+[Visit](https://www.thataicollection.com/redirect/careerflow-ai-mock-interview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Interviews Chat 通过提供由尖端人工智能技术提供支持的全套工具和资源，彻底改变了面试准备工作。Interviews Chat 旨在为求职者和专业人士提供支持，提供实时支持、个性化反馈和量身定制的问题准备，以确保面试成功。
+练习角色和公司特定的面试问题，并从您的私人且不受判断的 AI 面试教练那里获得实时反馈。开始你的模拟面试！
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/interviews-chat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### BidBuilder
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bidbuilder.webp" alt="BidBuilder">
-
-#### Bidbuilder是一款由人工智能驱动的Upwork提案生成器，可提供量身定制的提案，使您在竞争中脱颖而出。 
-[Visit](https://www.thataicollection.com/redirect/bidbuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-一款可在几分钟内创建个性化Upwork提案的人工智能工具。您只需要输入项目详细信息，其余的技能将由BidBuilder负责。它将在几分钟之内针对客户的需求和要求生成一份定制且有说服力的提案。 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/bidbuilder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/careerflow-ai-mock-interview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### ChatFlow - AI Chatbot
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatflow---ai-chatbot.webp" alt="ChatFlow - AI Chatbot">
+### Careerflow AI LinkedIn Optimization Tool
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-careerflow-ai-linkedin-optimization-tool.webp" alt="Careerflow AI LinkedIn Optimization Tool">
 
-#### ChatFlow 允许您为网站构建品牌化 AI 聊天机器人，使用根据您的网站内容创建的知识库自动回答访客的问题。
-[Visit](https://www.thataicollection.com/redirect/chatflow---ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 优化你的 LinkedIn 个人资料，获得更多的工作机会。
+[Visit](https://www.thataicollection.com/redirect/careerflow-ai-linkedin-optimization-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-ChatFlow 是一种简单的 AI 聊天机器人解决方案，它利用您网站的现有内容实时回答访客的问题。
-它通过从您的网站、文档和注释中创建的知识库来自动提供客户支持，从而确保响应既准确又即时。
-ChatFlow 可以根据您的品牌进行自定义，并无缝集成到您的网站中。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chatflow---ai-chatbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
+Careerflow的免费LinkedIn评论工具可让你优化自己的领英个人资料，以展示最好的个人资料。
+ 
+优化你的 linkedin 个人资料，使其登陆和获得机会的可能性增加 40 倍。
 
 
-### Inline Help
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-inline-help.webp" alt="Inline Help">
-
-#### 在客户提问之前先回答他们
-[Visit](https://www.thataicollection.com/redirect/inline-help?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 Inline Help 将您的客户支持提升到新的高度，这是主动支持的终极解决方案，可在客户提问之前就预测并解决他们的问题。将您的知识库与 Inline Help 无缝集成，您可以释放应用程序内 AI 助手的强大功能，该助手可以动态生成根据用户需求量身定制的内容。
-
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/inline-help?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/careerflow-ai-linkedin-optimization-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### AICupid
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aicupid.webp" alt="AICupid">
+### Careerflow AI Resume Builder
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-careerflow-ai-resume-builder.webp" alt="Careerflow AI Resume Builder">
 
-#### AiCupid：体验你的终极人工智能女友，以前所未有的方式潜入人工智能亲密世界。
-[Visit](https://www.thataicollection.com/redirect/aicupid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Careerflow AI 简历生成器 | 你的简历，我们的人工智能
 
-AiCupid 通过先进的 NSFW 模型、逼真的语音消息和可自定义的角色提供身临其境的 AI 女友体验。参与成熟的对话，享受动态视觉效果，实现真正的个性化互动。
+[Visit](https://www.thataicollection.com/redirect/careerflow-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aicupid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+根据每个职位描述自定义您的简历，进行详细的分析和审查，再也不用担心优化简历了！ 
+
+使用我们的在线简历生成器轻松优化每个职位描述的简历，并获得详细的分析和审查。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/careerflow-ai-resume-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Anime Personalities
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-anime-personalities.webp" alt="Anime Personalities">
+
+#### 与你最喜欢的动画中的100,000多个动漫角色聊天！
+[Visit](https://www.thataicollection.com/redirect/anime-personalities?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+探索动漫人物，这是粉丝与心爱的动漫角色互动的终极目的地！沉浸在丰富的对话中，探索独特的故事情节，在个人层面上与你最喜欢的动漫节目中的英雄和反派交流。无论你是在寻求建议、友谊，还是只是在聊一聊，Anime Perselencials 都能让你珍爱的角色变为现实！ 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/anime-personalities?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Redesign With AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-redesign-with-ai.webp" alt="Redesign With AI">
+
+#### 借助 AI 平台，重新设计使设计变得更简单，更具创造力。
+[Visit](https://www.thataicollection.com/redirect/redesign-with-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+用 AI 重新设计！人工智能设计生成器，它使用AI根据提示词生成所有设计，例如图标，徽标，免费贴纸，海报，彩页，模型。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/redesign-with-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### scale.jobs
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scale.jobs.webp" alt="scale.jobs">
+
+#### 雇用人类职业助理来找工作
+[Visit](https://www.thataicollection.com/redirect/scale.jobs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+别再浪费时间申请工作了。聘请一位人类职业助理，他将通过个性化的求职信和有针对性的简历代表你申请工作，这样你就可以专注于人际关系和面试准备。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/scale.jobs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -626,6 +638,21 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 <br />
 
 
+### The Multiverse AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI">
+
+#### 把你的自拍变成专业头像
+[Visit](https://www.thataicollection.com/redirect/the-multiverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/the-multiverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### caspa AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI">
 
@@ -702,21 +729,6 @@ Pet Booth 是一项用于创建自己精彩的 AI 宠物肖像、照片和艺术
 收到一包 100 张 AI 生成的宠物图片，既有照片级逼真度，也有艺术风格。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### SUPERMACHINE
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
-
-#### Supermachine-使用 AI 生成库存照片、艺术品和图像
-[Visit](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SUPERMACHINE 使您能够使用最新的人工智能技术生成图像。使用 55 多个模型生成精彩的 AI 图像。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2363,6 +2375,21 @@ AIApply是一套动态的人工智能工具，旨在增强求职者的能力。�
 <br />
 
 
+### scale.jobs
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scale.jobs.webp" alt="scale.jobs">
+
+#### 雇用人类职业助理来找工作
+[Visit](https://www.thataicollection.com/redirect/scale.jobs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+别再浪费时间申请工作了。聘请一位人类职业助理，他将通过个性化的求职信和有针对性的简历代表你申请工作，这样你就可以专注于人际关系和面试准备。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/scale.jobs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### AI Resume Editor
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-resume-editor.webp" alt="AI Resume Editor">
 
@@ -2378,30 +2405,15 @@ Rezi 是唯一一个使用领先的 AI 来自动化创建可雇用简历的各�
 <br />
 
 
-### rankode
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rankode.webp" alt="rankode">
+### Careerflow AI Mock Interview
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-careerflow-ai-mock-interview.webp" alt="Careerflow AI Mock Interview">
 
-#### 人力资源人工智能 - Rankode
-[Visit](https://www.thataicollection.com/redirect/rankode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 在即将到来的求职面试中脱颖而出，提升面试技巧。
+[Visit](https://www.thataicollection.com/redirect/careerflow-ai-mock-interview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-招聘人员，您需要了解的有关应聘者编程技能的所有信息都在他们的 GitHub 中。使用 Rankode 自动评估它们，以避免代价高昂的招聘错误并大幅提高您的保留率。
+练习角色和公司特定的面试问题，并从您的私人且不受判断的 AI 面试教练那里获得实时反馈。开始你的模拟面试！
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/rankode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### HireYaY
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hireyay.webp" alt="HireYaY">
-
-#### HireYaY，初创公司的招聘平台
-[Visit](https://www.thataicollection.com/redirect/hireyay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-92% 的求职者没有完成在线申请。有了 HireYaY，您再也不会错过合格的候选人。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/hireyay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/careerflow-ai-mock-interview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3016,6 +3028,22 @@ Amadeus Topline 是一款由人工智能驱动的作曲应用程序，适合每�
 <br />
 
 
+### Nectar AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nectar-ai.webp" alt="Nectar AI">
+
+#### 在短短几秒钟内创建完美的梦中女孩！
+[Visit](https://www.thataicollection.com/redirect/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nectar是一个生成式人工智能平台，提供两种产品：（1）图像创建器和（2）角色扮演。
+Image Creator是一款强大的生成式人工智能工具，用于创建照片和视频，而角色扮演允许您探索不同的幻想并创建自定义角色。我们的文本和语言生成时间是业内最快的生成时间之一。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Nudes – Face Swap
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudes-%E2%80%93-face-swap.webp" alt="Nudes – Face Swap">
 
@@ -3092,25 +3120,6 @@ Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。
 Dittin AI 是一个基于 DittinLLM 的 NSFW 人工智能聊天机器人平台。只要对NSFW内容的限制最小，你就可以与AI角色就各种话题进行对话。Dittin AI 支持 3D 头像和语音消息，允许您使用创建面板创建和共享带有声音和交互式 3D 头像的 AI 角色。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AI Girlfriend WTF
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
-
-#### 与 AI 女友一起潜入热门冒险之旅！
-[Visit](https://www.thataicollection.com/redirect/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-与AI女孩一起体验惊险刺激的冒险并过上不同的生活！ 
-
-无论是在荒岛上生存，乘坐太空飞船在太空中航行，还是只是与自己的猫咪女郎随意聊天，每个人都能找到适合自己的东西。 
-
-潜入众多 AI 女孩的世界，立即开始玩吧！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
