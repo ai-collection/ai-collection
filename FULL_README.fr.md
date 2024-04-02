@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1226" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1228" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
-    <h4>Transforme tes selfies en portraits professionnels</h4>
-    <p>Le générateur de headshots professionnel le plus précis du marché. Composition sur mesure pour une première impression optimale. Idéal pour les professionnels et les équipes.</p>
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec The Multiverse AI</b></a>
+    <h4>AI Undressing - Nudifie des photos GRATUITEMENT avec AI Undressing</h4>
+    <p>Meilleure nouvelle technologie de déshabillage IA GRATUITE ! Se déshabiller grâce à l''IA pour les photos ! Transforme instantanément l''apparence. Des photos de nu en un clic. De nombreux styles et la possibilité de le faire rapidement</p>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec undressing.io</b></a>
     <br />
 </div>
 
@@ -79,12 +79,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
     </a>
-    <h4>AI Undressing - Nudifie des photos GRATUITEMENT avec AI Undressing</h4>
-    <p>Meilleure nouvelle technologie de déshabillage IA GRATUITE ! Se déshabiller grâce à l''IA pour les photos ! Transforme instantanément l''apparence. Des photos de nu en un clic. De nombreux styles et la possibilité de le faire rapidement</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec undressing.io</b></a>
+    <h4>Transforme tes selfies en portraits professionnels</h4>
+    <p>Le générateur de headshots professionnel le plus précis du marché. Composition sur mesure pour une première impression optimale. Idéal pour les professionnels et les équipes.</p>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec The Multiverse AI</b></a>
     <br />
 </div>
 
@@ -950,6 +950,7 @@
 | Nom | Titre | Description | Offrir une version gratuite |
 |---|---|---|:---:|
 | [Business Idea Generator](https://www.thataicollection.com/redirect/business-idea-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Remue-méninges d''idées d''entreprise. | Obtenez des idées commerciales personnalisées en quelques secondes grâce à la puissance de l''IA. | :white_check_mark: |
+| [Greatest Homepage](https://www.thataicollection.com/redirect/greatest-homepage?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Créez un cours en ligne pour ton site web en un clin d'œil. | Owwlish est le nouveau moyen simple d'ajouter un cours en ligne à ton site web, quelle que soit la plateforme que tu utilises ! Il suffit d'utiliser notre outil de création de cours pour créer un cours, de copier-coller quelques lignes de code, et le tour est joué : ton cours est en ligne sur ton site web pour que les gens puissent s'inscrire et commencer à apprendre !. | :grey_question: |
 | [Ideasai](https://www.thataicollection.com/redirect/ideasai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ideasai - Des idées de start-up développées par Openai. | Des idées générées à 100 % par le GPT-3 d''OpenAI, un modèle d''apprentissage profond artificiellement intelligent, sans intervention humaine, et élaborées par toi et par plus de 1 856 031 autres personnes qui aimaient ou n''aimaient pas les idées. | :white_check_mark: |
 | [My Spicy Vanilla](https://www.thataicollection.com/redirect/my-spicy-vanilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Générateur d''idées de dates basé sur l''IA par My Spicy Vanilla. | AI Date Idea Generator de My Spicy Vanilla est un outil qui utilise l''IA pour créer des plans uniques pour un rendez-vous galant.  Pour utiliser cet outil, les utilisateurs sont invités à remplir un formulaire contenant des informations de base telles que la catégorie, le lieu, le budget, la durée et l''heure de la journée.  Une fois envoyée, notre IA établit une description de la date sur mesure, fournissant des conseils utiles et des recommandations de produits pour améliorer l''expérience/. | :white_check_mark: |
 | [NameSnack](https://www.thataicollection.com/redirect/namesnack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Trouvez le nom professionnel idéal en quelques secondes grâce à notre puissant générateur de noms basé sur l''IA. | NameSnack associe une IA de pointe à des techniques de dénomination avancées pour t''aider à trouver le nom idéal pour ton entreprise. Découvre des milliers d''idées de noms commerciaux mémorables pour ta marque en quelques secondes grâce à notre algorithme d''apprentissage automatique unique et à notre vérificateur de domaine instantané. Choisis celui que tu aimes, enregistre-le et commence à développer ta marque !. | :white_check_mark: |
@@ -1084,6 +1085,7 @@
 | [Looti](https://www.thataicollection.com/redirect/looti?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Des prospects hyperqualifiés pour accélérer ta croissance. | Génère des prospects B2B en quelques clics grâce à l''IA - Transforme tes prospects en revenus - Déjà plus de 10 000 prospects générés avec des entreprises en hypercroissance. | :grey_question: |
 | [Magical](https://www.thataicollection.com/redirect/magical?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Faire disparaître les tâches. Comme la magie. | Faites appel à Magical AI pour faire tout ce que vous détestez faire. Créez des messages à partir de zéro, mettez à jour les formulaires instantanément et automatisez les tâches ennuyeuses, n''importe où, n''importe quand. | :white_check_mark: |
 | [Nekton.ai](https://www.thataicollection.com/redirect/nekton.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Automatisez vos workflows avec l''IA. | Automatisez les processus de routine pour vous et votre équipe sans avoir besoin de coder ou de maintenir l''infrastructure. | :white_check_mark: |
+| [Owwlish](https://www.thataicollection.com/redirect/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Créez un cours en ligne pour ton site web en un clin d''œil. | Owwlish est le nouveau moyen simple d''ajouter un cours en ligne à ton site web, quelle que soit la plateforme que tu utilises ! Il suffit d''utiliser notre outil de création de cours pour créer un cours, de copier-coller quelques lignes de code, et le tour est joué : ton cours est en ligne sur ton site web pour que les gens puissent s''inscrire et commencer à apprendre !. | :white_check_mark: |
 | [Product Launch AI](https://www.thataicollection.com/redirect/product-launch-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Libérez la puissance de l''IA pour booster vos lancements de produits. | Décollez pour un super lancement sans vous soucier de la copie de lancement !. | :grey_question: |
 | [Prompt.Cafe](https://www.thataicollection.com/redirect/prompt.cafe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Prompt.Cafe - Pack de démarrage d''invite IA. | AI Prompt Generator‍ - Inspirez, créez, organisez. Inspirez avec les invites AI, créez de nouvelles invites avec le générateur d''invites, organisez vos propres invites avec le modèle Notion. | :white_check_mark: |
 | [Question Base](https://www.thataicollection.com/redirect/question-base?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Améliore l''efficacité opérationnelle grâce à Question Base. Des réponses fiables et instantanées à chaque question au travail. | Question Base aide les équipes en contact avec les clients à conclure davantage d''offres et de tickets d''assistance en accédant à des réponses vérifiées instantanées à leurs questions sur Slack. Propulsé par l''IA. | :white_check_mark: |
@@ -1396,7 +1398,6 @@
 | [Namewizard](https://www.thataicollection.com/redirect/namewizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | namewizard.ai - votre générateur de nom de domaine superpuissant avec l''IA. | namewizard est le générateur qui utilise l''IA pour trouver l''entreprise et le nom de domaine parfaits pour votre prochain projet. | :grey_question: |
 | [Neural Formula](https://www.thataicollection.com/redirect/neural-formula?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Feuilles de calcul Power-Up avec Intelligence Artificielle. | La suite complète d''outils pour générer, expliquer, modifier et traduire des formules - le tout fourni avec une prise en charge complète des macros VBA et des scripts Office. | :white_check_mark: |
 | [Oracle](https://www.thataicollection.com/redirect/oracle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Oracle - Obtenez des réponses instantanées de toute votre base de connaissances. | Obtenez des réponses instantanées à toutes vos questions brûlantes avec Oracle. Demandez simplement sur Slack et laissez notre IA générer une réponse pour vous. Connectez Oracle à Slack, Google Docs et Confluence en un seul clic et optimisez votre productivité. | :grey_question: |
-| [Owwlish](https://www.thataicollection.com/redirect/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Créez un cours en ligne pour ton site web en un clin d''œil. | Owwlish est le nouveau moyen simple d''ajouter un cours en ligne à ton site web, quelle que soit la plateforme que tu utilises ! Il suffit d''utiliser notre outil de création de cours pour créer un cours, de copier-coller quelques lignes de code, et le tour est joué : ton cours est en ligne sur ton site web pour que les gens puissent s''inscrire et commencer à apprendre !. | :white_check_mark: |
 | [Politepost](https://www.thataicollection.com/redirect/politepost?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Réécrire vos emails avec l''IA pour être professionnel. | Assurez-vous que vos e-mails sont professionnels et adaptés au lieu de travail. Rédigez votre brouillon avec tout votre argot et vos jurons, et notre robot IA réécrira et nettoiera le texte. | :grey_question: |
 | [Promptmakr](https://www.thataicollection.com/redirect/promptmakr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | La plateforme qui permet aux ingénieurs de générer et de partager gratuitement un nombre illimité de suggestions artistiques basées sur l''IA. | Pour générer des images de haute qualité via des plateformes d''imagerie basées sur l''IA telles que MidJourney, tout dépend de la qualité du message que tu saisis. PromptMakr te permet de rédiger et de créer très facilement ton propre référentiel de ces instructions de haute qualité via une interface utilisateur interactive. | :white_check_mark: |
 | [Promptomania](https://www.thataicollection.com/redirect/promptomania?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Générateur de prompts PromptoMania - Communauté artistique basée sur l''IA dotée d''un outil de création de prompts en ligne. | Veux-tu devenir un master de CF Spark, Midjourney ou Stable Diffusion aujourd''hui ? Le générateur de messages convivial t''aidera. Tu peux également l''essayer avec d''autres modèles de diffusion, tels que DALL-E 2, Disco Diffusion, WOMBO Dream ou n''importe quel modèle de diffusion. Si c''est le cas, partage ton expérience sur les réseaux sociaux. | :grey_question: |

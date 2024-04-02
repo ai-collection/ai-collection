@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1226" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1228" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
     </a>
-    <h4>AI अनड्रेसिंग - AI अनड्रेसिंग के ज़रिए फ़ोटो मुफ़्त में न्यूडिफ़ाई करें</h4>
-    <p>सबसे अच्छी नई मुफ़्त AI अनड्रेसिंग तकनीक! तस्वीरों के लिए AI से चलने वाली अनड्रेसिंग! तुरन्त रूप बदलो। एक क्लिक में नंगी तस्वीरें। कई स्टाइल और प्रॉम्प्ट के साथ इसे करने के अवसर</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>undressing.io के साथ आरंभ करें</b></a>
+    <h4>एक डिजिटल ट्विन बनाएं, जानें कि तुम असल में कौन हो, इसे ऐप्स की मदद से ले जाओ और टेक के भविष्य का अनुभव करो। </h4>
+    <p>वाना की मदद से तुम अपने डेटा और AI की ताकत का इस्तेमाल करके मिनी- “तुम” बना सकते हो। अपनी आवाज़ क्लोन करें, सेल्फी जेनरेट करें, और उनसे बात करके जानें कि तुम्हारा डेटा तुम्हारे बारे में क्या कहता है। वैयक्तिकृत गेम, सिमुलेशन और AI सहायक टूल खोजने के लिए वाना नेटवर्क के ऐप्लिकेशन में AI- “तुम” को ले जाओ। वाना तुम्हेंं तुम्हारे डेटा और एआई के नियंत्रण में रखती है, और तुम्हेंं इसे जादुई चीज़ में बदलने की सुविधा मिलती है। </p>
+    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Vana के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -79,12 +79,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
-    <h4>एक डिजिटल ट्विन बनाएं, जानें कि तुम असल में कौन हो, इसे ऐप्स की मदद से ले जाओ और टेक के भविष्य का अनुभव करो। </h4>
-    <p>वाना की मदद से तुम अपने डेटा और AI की ताकत का इस्तेमाल करके मिनी- “तुम” बना सकते हो। अपनी आवाज़ क्लोन करें, सेल्फी जेनरेट करें, और उनसे बात करके जानें कि तुम्हारा डेटा तुम्हारे बारे में क्या कहता है। वैयक्तिकृत गेम, सिमुलेशन और AI सहायक टूल खोजने के लिए वाना नेटवर्क के ऐप्लिकेशन में AI- “तुम” को ले जाओ। वाना तुम्हेंं तुम्हारे डेटा और एआई के नियंत्रण में रखती है, और तुम्हेंं इसे जादुई चीज़ में बदलने की सुविधा मिलती है। </p>
-    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Vana के साथ आरंभ करें</b></a>
+    <h4>AI अनड्रेसिंग - AI अनड्रेसिंग के ज़रिए फ़ोटो मुफ़्त में न्यूडिफ़ाई करें</h4>
+    <p>सबसे अच्छी नई मुफ़्त AI अनड्रेसिंग तकनीक! तस्वीरों के लिए AI से चलने वाली अनड्रेसिंग! तुरन्त रूप बदलो। एक क्लिक में नंगी तस्वीरें। कई स्टाइल और प्रॉम्प्ट के साथ इसे करने के अवसर</p>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>undressing.io के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -247,6 +247,7 @@
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
 | [Business Idea Generator](https://www.thataicollection.com/redirect/business-idea-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मंथन व्यापार विचार. | एआई की शक्ति के साथ सेकेंडों में वैयक्तिकृत व्यावसायिक विचार प्राप्त करें।. | :white_check_mark: |
+| [Greatest Homepage](https://www.thataicollection.com/redirect/greatest-homepage?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | तुरंत अपनी वेबसाइट के लिए एक ऑनलाइन कोर्स बनाएं. | ओव्लिश अपनी वेबसाइट पर ऑनलाइन कोर्स जोड़ने का नया और आसान तरीका है, इससे कोई फ़र्क नहीं पड़ता कि तुम किसी भी वेबसाइट प्लैटफ़ॉर्म का इस्तेमाल करते हो! कोर्स बनाने के लिए बस हमारे आसान कोर्स बिल्डर का इस्तेमाल करें, कोड की कुछ लाइनों को कॉपी और पेस्ट करें, और वोइला: तुम्हारा कोर्स तुम्हारी वेबसाइट पर लाइव है, ताकि लोग नामांकन कर सकें और सीखना शुरू कर सकें!. | :grey_question: |
 | [Ideasai](https://www.thataicollection.com/redirect/ideasai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आइडियासाई - OpenAI द्वारा संचालित स्टार्टअप के विचार. | ऐसे विचार जो 100% OpenAI के GPT-3 द्वारा तैयार किए गए हैं, जो कृत्रिम रूप से इंटेलिजेंट डीप लर्निंग मॉडल है, बिना मानवीय भागीदारी के, और तुम्हेंं और 1,856,031+ अन्य लोगों द्वारा प्रशिक्षित किया गया है, जिन्हें विचार पसंद या नापसंद हैं. | :white_check_mark: |
 | [My Spicy Vanilla](https://www.thataicollection.com/redirect/my-spicy-vanilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | माय स्पाइसी वनीला का एआई डेट आइडिया जेनरेटर. | माय स्पाइसी वनीला का AI डेट आइडिया जेनरेटर एक ऐसा टूल है जो AI का इस्तेमाल अनोखे डेट नाइट प्लान बनाने के लिए करता है।  टूल का इस्तेमाल करने के लिए, यूज़र को एक फ़ॉर्म भरने के लिए कहा जाता है, जिसमें श्रेणी, स्थान, बजट, अवधि और दिन का समय जैसी मूलभूत जानकारी दी जाती है।  सबमिट करने के बाद, हमारा AI तारीख के लिए खास जानकारी तैयार करता है, जिसमें अनुभव को बेहतर बनाने के लिए उपयोगी टिप्स, प्रॉडक्ट के सुझाव दिए गए हैं. | :white_check_mark: |
 | [NameSnack](https://www.thataicollection.com/redirect/namesnack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हमारे शक्तिशाली AI नेम जनरेटर का इस्तेमाल करके कुछ ही सेकंड में अपना मनपसंद बिज़नेस नाम ढूंढें।. | NameSnack अत्याधुनिक AI और उन्नत नामकरण तकनीकों को जोड़ती है, ताकि तुम्हेंं अपने व्यवसाय के लिए सही नाम खोजने में मदद मिल सके। हमारे अनोखे मशीन-लर्निंग एल्गोरिथम और इंस्टेंट डोमेन चेकर का इस्तेमाल करके कुछ ही सेकंड में अपने ब्रांड के लिए हज़ारों यादगार बिज़नेस नाम के आइडिया खोज लें। तुम्हेंं जो पसंद है उसे चुनें, रजिस्टर करें और अपना ब्रांड बनाना शुरू करें!. | :white_check_mark: |
@@ -1129,7 +1130,6 @@
 | [Namewizard](https://www.thataicollection.com/redirect/namewizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Namewizard.Ai - आपका AI-महाशक्तिशाली डोमेन नाम जेनरेटर. | नेमविज़ार्ड जनरेटर है जो आपके अगले प्रोजेक्ट के लिए सही व्यवसाय और डोमेन नाम खोजने के लिए एआई का उपयोग करता है. | :grey_question: |
 | [Neural Formula](https://www.thataicollection.com/redirect/neural-formula?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आर्टिफिशियल इंटेलिजेंस के साथ पावर-अप स्प्रेडशीट्स. | सूत्रों को उत्पन्न करने, समझाने, संशोधित करने और अनुवाद करने के लिए संपूर्ण टूल सूट - सभी VBA मैक्रोज़ और ऑफिस स्क्रिप्ट्स के लिए पूर्ण समर्थन के साथ पैक किए गए हैं।. | :white_check_mark: |
 | [Oracle](https://www.thataicollection.com/redirect/oracle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Oracle - अपने सभी नॉलेजबेस से तत्काल उत्तर प्राप्त करें. | Oracle के साथ अपने सभी ज्वलंत प्रश्नों के तुरंत उत्तर प्राप्त करें। बस स्लैक पर पूछें और हमारे एआई को आपके लिए उत्तर उत्पन्न करने दें। केवल एक क्लिक के साथ Oracle को Slack, Google Docs, और Confluence से कनेक्ट करें और अपनी उत्पादकता को अधिकतम करें।. | :grey_question: |
-| [Owwlish](https://www.thataicollection.com/redirect/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | तुरंत अपनी वेबसाइट के लिए एक ऑनलाइन कोर्स बनाएं. | ओव्लिश अपनी वेबसाइट पर ऑनलाइन कोर्स जोड़ने का नया और आसान तरीका है, इससे कोई फ़र्क नहीं पड़ता कि तुम किसी भी वेबसाइट प्लैटफ़ॉर्म का इस्तेमाल करते हो! कोर्स बनाने के लिए बस हमारे आसान कोर्स बिल्डर का इस्तेमाल करें, कोड की कुछ लाइनों को कॉपी और पेस्ट करें, और वोइला: तुम्हारा कोर्स तुम्हारी वेबसाइट पर लाइव है, ताकि लोग नामांकन कर सकें और सीखना शुरू कर सकें!. | :white_check_mark: |
 | [Politepost](https://www.thataicollection.com/redirect/politepost?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पेशेवर बनने के लिए एआई के साथ अपने ईमेल को दोबारा लिखना. | सुनिश्चित करें कि आपके ईमेल पेशेवर हैं और कार्यस्थल के लिए उपयुक्त हैं। अपनी सभी गालियों और अपशब्दों के साथ अपना मसौदा लिखें, और हमारा एआई बॉट पाठ को फिर से लिखेगा और साफ करेगा. | :grey_question: |
 | [Promptmakr](https://www.thataicollection.com/redirect/promptmakr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्रॉम्प्ट इंजीनियर्स के लिए मुफ़्त में असीमित AI आर्ट प्रॉम्प्ट जेनरेट करने और शेयर करने का प्लेटफ़ॉर्म. | मिडजर्नी जैसे AI इमेज प्लेटफ़ॉर्म के ज़रिये उच्च गुणवत्ता वाली छवियां जेनरेट करने के लिए, बहुत कुछ तुम्हारे द्वारा इनपुट किए गए प्रॉम्प्ट की गुणवत्ता पर निर्भर करता है। PromptMakr की मदद से इंटरैक्टिव यूज़र इंटरफ़ेस के ज़रिये इन उच्च गुणवत्ता वाले संकेतों को लिखना और अपना खुद का रिपॉजिटरी बनाना तुम्हारे लिए बहुत आसान हो जाता है।. | :white_check_mark: |
 | [Promptomania](https://www.thataicollection.com/redirect/promptomania?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PromptoMania प्रॉम्प्ट जेनरेटर - ऑनलाइन प्रॉम्प्ट बिल्डर के साथ AI कला समुदाय. | क्या तुम आज सीएफ स्पार्क, मिडजर्नी या स्टेबल डिफ्यूज़न मास्टर बनना चाहते हो? मानव-अनुकूल प्रॉम्प्ट बिल्डर तुम्हारी मदद करेगा। तुम इसे अन्य डिफ्यूज़न मॉडल के साथ भी आज़मा सकते हो, जैसे कि DALL-E 2, डिस्को डिफ्यूज़न, WOMBO ड्रीम या किसी डिफ़्यूज़न मॉडल के साथ। अगर ऐसा होता है, तो अनुभव को सोशल मीडिया पर शेयर करें।. | :grey_question: |
@@ -1419,6 +1419,7 @@
 | [Looti](https://www.thataicollection.com/redirect/looti?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | हाइपरक्वालिफाई करने से तुम्हारी ग्रोथ पर सुपरचार्ज लग जाता है. | AI की बदौलत कुछ ही क्लिक में B2B लीड जेनरेट करें - अपनी लीड को राजस्व में बदलें - पहले से ही 10,000 से अधिक लीड जेनरेट हो चुके हैं हाइपरग्रोइंग कंपनियों के साथ. | :grey_question: |
 | [Magical](https://www.thataicollection.com/redirect/magical?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | कार्य गायब करें। जादू की तरह।. | जादुई एआई पर उन सभी कामों को करने के लिए कॉल करें जिन्हें करने से आपको नफरत है। स्क्रैच से संदेश बनाएं, फ़ॉर्म को तुरंत अपडेट करें, और कष्टप्रद कार्यों को स्वचालित करें—कहीं भी, कभी भी।. | :white_check_mark: |
 | [Nekton.ai](https://www.thataicollection.com/redirect/nekton.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई के साथ अपने वर्कफ़्लोज़ को स्वचालित करें. | बुनियादी ढांचे को कोड या बनाए रखने की आवश्यकता के बिना अपने और अपनी टीम के लिए नियमित प्रक्रियाओं को स्वचालित करें।. | :white_check_mark: |
+| [Owwlish](https://www.thataicollection.com/redirect/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | तुरंत अपनी वेबसाइट के लिए एक ऑनलाइन कोर्स बनाएं. | ओव्लिश अपनी वेबसाइट पर ऑनलाइन कोर्स जोड़ने का नया और आसान तरीका है, इससे कोई फ़र्क नहीं पड़ता कि तुम किसी भी वेबसाइट प्लैटफ़ॉर्म का इस्तेमाल करते हो! कोर्स बनाने के लिए बस हमारे आसान कोर्स बिल्डर का इस्तेमाल करें, कोड की कुछ लाइनों को कॉपी और पेस्ट करें, और वोइला: तुम्हारा कोर्स तुम्हारी वेबसाइट पर लाइव है, ताकि लोग नामांकन कर सकें और सीखना शुरू कर सकें!. | :white_check_mark: |
 | [Product Launch AI](https://www.thataicollection.com/redirect/product-launch-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | लॉन्च किए गए अपने उत्पाद को सुपरचार्ज करने के लिए एआई की शक्ति का प्रयोग करें. | लॉन्च कॉपी की चिंता किए बिना शानदार लॉन्च के लिए ब्लास्ट करें!. | :grey_question: |
 | [Prompt.Cafe](https://www.thataicollection.com/redirect/prompt.cafe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Prompt.Cafe - AI प्रॉम्प्ट स्टार्टर पैक. | एआई प्रॉम्प्ट जेनरेटर - प्रेरित करें, बनाएं, व्यवस्थित करें। एआई प्रांप्ट से प्रेरणा लें, प्रांप्ट जेनरेटर के साथ नए प्रांप्ट बनाएं, अपने स्वयं के प्रांप्ट को धारणा टेम्पलेट के साथ व्यवस्थित करें. | :white_check_mark: |
 | [Question Base](https://www.thataicollection.com/redirect/question-base?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | क्वेश्चन बेस के ज़रिए ऑपरेशनल दक्षता में सुधार करें। कार्यस्थल पर हर सवाल के लिए तुरंत, भरोसेमंद जवाब. | Question Base, Slack में अपने सवालों के तुरंत सत्यापित जवाब ऐक्सेस करके, ग्राहकों का सामना करने वाली टीमों को ज़्यादा डील करने और टिकटों की सहायता करने में मदद करता है। AI द्वारा संचालित।. | :white_check_mark: |

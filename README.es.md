@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1226" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1228" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -150,6 +150,21 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 😎 [Avatares](#avatares)
 ## Latest Additions to AI Collection
 
+### Owwlish
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-owwlish.webp" alt="Owwlish">
+
+#### Crea un curso en línea para tu sitio web en un instante
+[Visit](https://www.thataicollection.com/redirect/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Owwlish es la nueva y sencilla forma de añadir un curso en línea a tu sitio web, sin importar la plataforma de sitios web que utilices. Solo tienes que utilizar nuestro sencillo creador de cursos para crear un curso, copiar y pegar unas líneas de código y listo: tu curso está disponible en tu sitio web para que la gente se inscriba y comience a aprender.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI Face Swap
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-swap.webp" alt="AI Face Swap">
 
@@ -235,21 +250,6 @@ Remove Bg es una herramienta de recorte de imágenes basada en IA 100% gratuita 
 Rocket Statements es la herramienta de referencia para emprendedores, contadores públicos y propietarios de negocios cuando quieren convertir sus estados de cuenta bancarios de PDF a Excel. Utiliza un copiloto de IA superior y un aprendizaje automático para obtener resultados con una precisión del 99,9%.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/rocket-statements?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Sora Build
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sora-build.webp" alt="Sora Build">
-
-#### Explora, descubre y disfruta de los vídeos de OpenAI Sora a diario
-[Visit](https://www.thataicollection.com/redirect/sora-build?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Sora Build es un sitio web en línea que te permite buscar vídeos de OpenAI de Sora. Añade nuevos vídeos de Sora constantemente todos los días, con más de 220 vídeos ya catalogados. El sitio admite la búsqueda difusa de las instrucciones de Sora para encontrar vídeos de Sora. En el futuro, también admitirá el uso de OpenAI Sora en línea.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/sora-build?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3054,22 +3054,6 @@ Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para r
 
 
 
-### Nectar AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nectar-ai.webp" alt="Nectar AI">
-
-#### ¡Crea la chica de tus sueños perfecta en solo unos segundos!
-[Visit](https://www.thataicollection.com/redirect/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nectar es una plataforma de IA generativa que ofrece dos productos: (1) creador de imágenes y (2) juego de rol.
-Image Creator es una poderosa herramienta de IA generativa para crear fotos y vídeos, mientras que los juegos de rol te permiten explorar diferentes fantasías y crear tu personaje personalizado. Nuestra generación, tanto para el texto como para el idioma, es una de las más rápidas de la industria.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Nudes – Face Swap
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudes-%E2%80%93-face-swap.webp" alt="Nudes – Face Swap">
 
@@ -3114,6 +3098,21 @@ Generador de fotos Undress AI para desnudos profundos gratis. Desnuda la IA de D
 Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Dittin AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
+
+#### Dittin AI: plataforma de chatbots de IA de la NSFW sin censura
+[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dittin AI es una plataforma de chatbots de IA de la NSFW basada en DittinLLM. Con restricciones mínimas en cuanto al contenido de la NSFW, puedes entablar conversaciones con personajes de la IA sobre una amplia gama de temas. La IA de Dittin admite avatares 3D y mensajes de voz, lo que te permite crear y compartir personajes de IA con avatares 3D interactivos y sonoros mediante el panel de creación.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3490,6 +3489,23 @@ Glasp es un marcador web social en el que la gente puede destacar y organizar ci
 
 ## Productividad y crecimiento personal
 
+### ApplyPass
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-applypass.webp" alt="ApplyPass">
+
+#### Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.
+[Visit](https://www.thataicollection.com/redirect/applypass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
+
+ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/applypass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Podwise
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise">
 
@@ -3578,24 +3594,6 @@ MotionShot te ayuda a crear guías informativas para varios casos de uso, como g
 Vuelva a encarrilarse con un amable compañero de rendición de cuentas de IA. Dewey está aquí para ayudarlo a mantenerse organizado y productivo. Con recordatorios de mensajes de texto y seguimiento de objetivos, es como tener un compañero de responsabilidad de IA en tu bolsillo.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/dewey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Ask Poppy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ask-poppy.webp" alt="Ask Poppy">
-
-#### Poppylist: Sé el padre que quieres ser
-[Visit](https://www.thataicollection.com/redirect/ask-poppy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Prepararse para el viaje de la paternidad, paso a paso.
-Bienvenido a Poppylist, tu registro de bebés simplificado.
-Conoces tu estilo de vida. Conocemos los productos. Construyamos juntos tu registro de bebés.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/ask-poppy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

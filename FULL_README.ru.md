@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1226" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1228" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
+    </a>
+    <h4>Раздевание с искусственным интеллектом - БЕСПЛАТНОЕ раздевание фотографий обнаженной натуры с помощью искусственного интеллекта</h4>
+    <p>Лучшая НОВАЯ БЕСПЛАТНАЯ технология раздевания с искусственным интеллектом! Раздевание на базе искусственного интеллекта для фотографий! Мгновенно меняйте внешний вид. Обнаженные фотографии в один клик. Множество стилей и возможность сделать это в кратчайшие сроки</p>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с undressing.io</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
     </a>
@@ -72,19 +85,6 @@
     <h4>Превратите свои селфи в профессиональные хедшоты</h4>
     <p>Самый точный профессиональный генератор хедшотов на рынке. Специальная композиция для лучших первых впечатлений. Идеально подходит для профессионалов и команд.</p>
     <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с The Multiverse AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
-    </a>
-    <h4>Раздевание с искусственным интеллектом - БЕСПЛАТНОЕ раздевание фотографий обнаженной натуры с помощью искусственного интеллекта</h4>
-    <p>Лучшая НОВАЯ БЕСПЛАТНАЯ технология раздевания с искусственным интеллектом! Раздевание на базе искусственного интеллекта для фотографий! Мгновенно меняйте внешний вид. Обнаженные фотографии в один клик. Множество стилей и возможность сделать это в кратчайшие сроки</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с undressing.io</b></a>
     <br />
 </div>
 
@@ -497,6 +497,7 @@
 | Имя | Заголовок | Описание | Предложить бесплатную версию |
 |---|---|---|:---:|
 | [Business Idea Generator](https://www.thataicollection.com/redirect/business-idea-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Мозговой штурм бизнес-идей. | Получайте персонализированные бизнес-идеи за считанные секунды благодаря силе искусственного интеллекта. | :white_check_mark: |
+| [Greatest Homepage](https://www.thataicollection.com/redirect/greatest-homepage?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Создайте онлайн-курс для своего сайта в мгновение ока. | Owwlish — это новый и простой способ добавить онлайн-курс на свой сайт, независимо от того, какую платформу вы используете! Просто используйте наш простой конструктор курсов, чтобы создать курс, скопировать и вставить несколько строк кода, и вуаля: ваш курс уже доступен на вашем сайте, чтобы люди могли записаться и начать обучение!. | :grey_question: |
 | [Ideasai](https://www.thataicollection.com/redirect/ideasai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ideasai — идеи для стартапов на базе Openai. | Идеи, которые на 100% генерируются с помощью GPT-3 от OpenAI, модели глубокого обучения с искусственным интеллектом, без участия человека и обучены вами и более 1 856 031 другими людьми, которым понравились или не понравились идеи. | :white_check_mark: |
 | [My Spicy Vanilla](https://www.thataicollection.com/redirect/my-spicy-vanilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Генератор идей для свидания с искусственным интеллектом от My Spicy. | Генератор идей для свиданий с искусственным интеллектом от My Spicy Vanilla — это инструмент, использующий искусственный интеллект для создания уникальных планов свиданий.  Чтобы использовать этот инструмент, пользователям предлагается заполнить форму, указав основную информацию, такую как категория, местоположение, бюджет, продолжительность и время суток.  После отправки заявки наш искусственный интеллект подготовит индивидуальное описание даты и предоставит полезные советы и рекомендации по продуктам, кот. | :white_check_mark: |
 | [NameSnack](https://www.thataicollection.com/redirect/namesnack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Найдите идеальное название своей компании за считанные секунды с помощью нашего мощного генератора имен на основе искусственного интеллекта. | NameSnack сочетает в себе передовой искусственный интеллект и передовые методы именования, чтобы помочь вам найти идеальное имя для своего бизнеса. Откройте для себя тысячи идей запоминающихся фирменных названий для своего бренда за считанные секунды, используя наш уникальный алгоритм машинного обучения и средство мгновенной проверки доменов. Выберите тот, который вам нравится, зарегистрируйте его и начните развивать свой бренд!. | :white_check_mark: |
@@ -826,6 +827,7 @@
 | [Looti](https://www.thataicollection.com/redirect/looti?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Гиперквалификация способствует ускорению вашего роста. | Привлекайте потенциальных клиентов B2B за несколько кликов благодаря искусственному интеллекту - Превратите своих потенциальных клиентов в доход - Уже сгенерировано более 10 000 потенциальных клиентов с быстрорастущими компаниями. | :grey_question: |
 | [Magical](https://www.thataicollection.com/redirect/magical?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Заставьте задачи исчезнуть. Как Магия. | Призовите Волшебный ИИ, чтобы сделать всю работу, которую вы ненавидите делать. Создавайте сообщения с нуля, мгновенно обновляйте формы и автоматизируйте надоедливые задачи — где угодно и когда угодно. | :white_check_mark: |
 | [Nekton.ai](https://www.thataicollection.com/redirect/nekton.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Автоматизируйте свои рабочие процессы с помощью ИИ. | Автоматизируйте рутинные процессы для себя и своей команды без необходимости кодировать или поддерживать инфраструктуру. | :white_check_mark: |
+| [Owwlish](https://www.thataicollection.com/redirect/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Создайте онлайн-курс для своего сайта в мгновение ока. | Owwlish — это новый и простой способ добавить онлайн-курс на свой сайт, независимо от того, какую платформу вы используете! Просто используйте наш простой конструктор курсов, чтобы создать курс, скопировать и вставить несколько строк кода, и вуаля: ваш курс уже доступен на вашем сайте, чтобы люди могли записаться и начать обучение!. | :white_check_mark: |
 | [Product Launch AI](https://www.thataicollection.com/redirect/product-launch-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Раскройте потенциал ИИ, чтобы ускорить запуск вашего продукта. | Отправляйтесь к отличному запуску, не беспокоясь о стартовой копии!. | :grey_question: |
 | [Prompt.Cafe](https://www.thataicollection.com/redirect/prompt.cafe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Prompt.Cafe - Стартовый пакет AI Prompt. | Генератор подсказок AI‍ - вдохновляйте, создавайте, организуйте. Вдохновляйтесь подсказками AI, создавайте новые подсказки с помощью генератора подсказок, организуйте свои собственные подсказки с помощью шаблона Notion. | :white_check_mark: |
 | [Question Base](https://www.thataicollection.com/redirect/question-base?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Повысьте операционную эффективность с помощью базы вопросов. Мгновенные и достоверные ответы на каждый рабочий вопрос. | База вопросов помогает командам по работе с клиентами заключать больше сделок и обращаться в службу поддержки, получая мгновенный доступ к проверенным ответам на их вопросы в Slack. Работает на основе искусственного интеллекта. | :white_check_mark: |
@@ -1364,7 +1366,6 @@
 | [Namewizard](https://www.thataicollection.com/redirect/namewizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | namewizard.ai — генератор доменных имен с искусственным интеллектом. | namewizard — это генератор, который использует искусственный интеллект для поиска идеального бизнеса и доменного имени для вашего следующего проекта. | :grey_question: |
 | [Neural Formula](https://www.thataicollection.com/redirect/neural-formula?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Электронные таблицы Power-Up с искусственным интеллектом. | Полный набор инструментов для создания, объяснения, изменения и перевода формул — все это упаковано с полной поддержкой макросов VBA и сценариев Office. | :white_check_mark: |
 | [Oracle](https://www.thataicollection.com/redirect/oracle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Oracle — получайте мгновенные ответы из всей своей базы знаний. | Получите мгновенные ответы на все ваши животрепещущие вопросы с Oracle. Просто спросите в Slack, и пусть наш ИИ сгенерирует для вас ответ. Подключите Oracle к Slack, Google Docs и Confluence одним щелчком мыши и повысьте свою производительность. | :grey_question: |
-| [Owwlish](https://www.thataicollection.com/redirect/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Создайте онлайн-курс для своего сайта в мгновение ока. | Owwlish — это новый и простой способ добавить онлайн-курс на свой сайт, независимо от того, какую платформу вы используете! Просто используйте наш простой конструктор курсов, чтобы создать курс, скопировать и вставить несколько строк кода, и вуаля: ваш курс уже доступен на вашем сайте, чтобы люди могли записаться и начать обучение!. | :white_check_mark: |
 | [Politepost](https://www.thataicollection.com/redirect/politepost?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Переписывайте свои электронные письма с помощью ИИ, чтобы они были профессиональными. | Убедитесь, что ваши электронные письма профессиональны и подходят для рабочего места. Напишите свой черновик со всеми вашими сленгами и ругательствами, а наш ИИ-бот перепишет и очистит текст. | :grey_question: |
 | [Promptmakr](https://www.thataicollection.com/redirect/promptmakr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Платформа, позволяющая инженерам Prompt бесплатно создавать и публиковать неограниченное количество подсказок по искусственному интеллекту. | Для создания высококачественных изображений с помощью платформ AI Image, таких как MidJourney, многое зависит от качества вводимой вами подсказки. PromptMakr упрощает написание и создание собственного репозитория этих высококачественных подсказок с помощью интерактивного пользовательского интерфейса. | :white_check_mark: |
 | [Promptomania](https://www.thataicollection.com/redirect/promptomania?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Генератор подсказок PromptoMania - арт-сообщество искусственного интеллекта с онлайн-конструктором подсказок. | Хотите сегодня стать мастером CF Spark, Midjourney или Stable Diffusion? Удобный в использовании конструктор подсказок поможет вам. Вы также можете попробовать его с другими моделями диффузии, такими как DALL-E 2, Disco Diffusion, WOMBO Dream или любой другой моделью диффузии. Если да, поделитесь опытом в социальных сетях. | :grey_question: |

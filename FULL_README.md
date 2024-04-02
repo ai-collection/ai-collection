@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1226" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1228" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -72,12 +72,12 @@ Translations:
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
     </a>
-    <h4>AI Undressing - Nudify Photos for FREE with AI Undressing</h4>
-    <p>Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instantly transform looks. Nude photos in one click. Many styles and opportunity to do it with prompt</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with undressing.io</b></a>
+    <h4>Create a digital twin, learn about who you truly are, take it to apps and experience the future of tech. </h4>
+    <p>Vana lets you create a mini-"you" using the power of your data and AI.   Clone your voice, generate selfies, and learn about what your data says about you by talking to it.  Take AI-"you" to applications in the Vana network to explore personalized games, simulations and AI assistant tools. Vana puts you in control of your data and your AI, and lets you turn it into something magical. </p>
+    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Vana</b></a>
     <br />
 </div>
 
@@ -85,12 +85,12 @@ Translations:
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
-    <h4>Create a digital twin, learn about who you truly are, take it to apps and experience the future of tech. </h4>
-    <p>Vana lets you create a mini-"you" using the power of your data and AI.   Clone your voice, generate selfies, and learn about what your data says about you by talking to it.  Take AI-"you" to applications in the Vana network to explore personalized games, simulations and AI assistant tools. Vana puts you in control of your data and your AI, and lets you turn it into something magical. </p>
-    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Vana</b></a>
+    <h4>AI Undressing - Nudify Photos for FREE with AI Undressing</h4>
+    <p>Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instantly transform looks. Nude photos in one click. Many styles and opportunity to do it with prompt</p>
+    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with undressing.io</b></a>
     <br />
 </div>
 
@@ -861,6 +861,7 @@ Translations:
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [Business Idea Generator](https://www.thataicollection.com/redirect/business-idea-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Brainstorm Business Ideas. | Get personalized business ideas in seconds with the power of AI. | :white_check_mark: |
+| [Greatest Homepage](https://www.thataicollection.com/redirect/greatest-homepage?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create an online course for your website in a snap. | Owwlish is the new and easy way to add an online course to your website, no matter what website platform you use! Just use our easy course builder to create a course, copy and paste a few lines of code, and voila: Your course is live on your website for people to enroll and get started learning!. | :grey_question: |
 | [Ideasai](https://www.thataicollection.com/redirect/ideasai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Ideasai - Startup Ideas Powered by Openai. | Ideas that are 100% generated by OpenAI''s GPT-3, an artifically intelligent deep learning model, without human involvement, and trained by you and 1,856,031+ other people who liked or disliked ideas. | :white_check_mark: |
 | [My Spicy Vanilla](https://www.thataicollection.com/redirect/my-spicy-vanilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Date Idea Generator by My Spicy Vanilla. | AI Date Idea Generator by My Spicy Vanilla is a tool that utilizes AI to generate unique date night plans.  To use the tool, users are prompted to fill out a form with basic information such as category, location, budget, duration, and time of day.  Once submitted, our AI curates a tailor-made date description, providing helpful tips, product recommendations to elevate the experience/. | :white_check_mark: |
 | [NameSnack](https://www.thataicollection.com/redirect/namesnack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Find your perfect business name in seconds using our powerful AI name generator. | NameSnack combines cutting-edge AI with advanced naming techniques to help you find the perfect name for your business. Discover thousands of memorable business name ideas for your brand in seconds using our unique machine-learning algorithm and instant domain checker. Pick the one you love, register it, and start building your brand!. | :white_check_mark: |
@@ -1010,6 +1011,7 @@ Translations:
 | [Looti](https://www.thataicollection.com/redirect/looti?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Hyperqualified leads to supercharge your growth. | Generate B2B leads in a few clicks thanks to AI - Turn your leads into revenue - Already 10 000+ generated leads with hypergrowing companies. | :grey_question: |
 | [Magical](https://www.thataicollection.com/redirect/magical?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Make Tasks Disappear. Like Magic. | Call on Magical AI to do all the work stuff you hate doing. Create messages from scratch, update forms instantly, and automate annoying tasks—anywhere, anytime. | :white_check_mark: |
 | [Nekton.ai](https://www.thataicollection.com/redirect/nekton.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Automate Your Workflows With AI. | Automate the routine processes for yourself and your team without needing to code or maintain infrastructure. | :white_check_mark: |
+| [Owwlish](https://www.thataicollection.com/redirect/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create an online course for your website in a snap. | Owwlish is the new and easy way to add an online course to your website, no matter what website platform you use! Just use our easy course builder to create a course, copy and paste a few lines of code, and voila: Your course is live on your website for people to enroll and get started learning!. | :white_check_mark: |
 | [Product Launch AI](https://www.thataicollection.com/redirect/product-launch-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unleash the Power of AI to Supercharge Your Product Launches. | Blast off to a great launch without worrying about launch copy!. | :grey_question: |
 | [Prompt.Cafe](https://www.thataicollection.com/redirect/prompt.cafe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Prompt.Cafe - AI Prompt Starter Pack. | AI Prompt Generator‍ - Inspire, Create, Organize. Inspire with AI Prompts, Create New Prompts with Prompt Generator, Organize Your Own Prompts with Notion Template. | :white_check_mark: |
 | [Question Base](https://www.thataicollection.com/redirect/question-base?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Improve Operational Efficiency with Question Base. Instant, Trustworthy Answers for Every Question at Work. | Question Base helps customer-facing teams close more deals and support tickets by accessing instant verified answers to their questions in Slack. Powered by AI. | :white_check_mark: |
@@ -1364,7 +1366,6 @@ Translations:
 | [Namewizard](https://www.thataicollection.com/redirect/namewizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Namewizard.Ai - Your AI-Superpowered Domain Name Generator. | namewizard is the generator that uses AI to find the perfect business and domain name for your next project. | :grey_question: |
 | [Neural Formula](https://www.thataicollection.com/redirect/neural-formula?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Power-Up Spreadsheets With Artificial Intelligence. | The complete tool suite to generate, explain, modify, and translate formulas - all packaged with complete support for VBA Macros and Office Scripts. | :white_check_mark: |
 | [Oracle](https://www.thataicollection.com/redirect/oracle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Oracle - Get Instant Answers From All Your Knowledgebase. | Get instant answers to all your burning questions with Oracle. Simply ask on Slack and let our AI generate an answer for you. Connect Oracle to Slack, Google Docs, and Confluence with just one click and maximize your productivity. | :grey_question: |
-| [Owwlish](https://www.thataicollection.com/redirect/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create an online course for your website in a snap. | Owwlish is the new and easy way to add an online course to your website, no matter what website platform you use! Just use our easy course builder to create a course, copy and paste a few lines of code, and voila: Your course is live on your website for people to enroll and get started learning!. | :white_check_mark: |
 | [Politepost](https://www.thataicollection.com/redirect/politepost?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Rewriting Your Emails With AI to Be Professional. | Make sure your emails are professional and suitable for the workplace. Write your draft with all your slang and expletives, and our AI bot will rewrite and clean up the text. | :grey_question: |
 | [Promptmakr](https://www.thataicollection.com/redirect/promptmakr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The Platform for Prompt Engineers to Generate and Share Unlimited AI Art Prompts for Free. | To generate high quality images through AI Image platforms like MidJourney, a lot depends on the quality of the prompt you input. PromptMakr makes it super easy for you to write and create your own repository of these high quality prompts through an interactive user interface. | :white_check_mark: |
 | [Promptomania](https://www.thataicollection.com/redirect/promptomania?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | promptoMANIA Prompt Generator - AI art community with an online prompt builder. | Do you want to become a CF Spark, Midjourney or Stable Diffusion master today? The human-friendly prompt builder will help you. You can also try it with other diffusion models, such as DALL-E 2, Disco Diffusion, WOMBO Dream, or any diffusion model. If it does, share the experience on social media. | :grey_question: |
