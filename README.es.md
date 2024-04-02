@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1215" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1226" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
-    </a>
-    <h4>Crea un gemelo digital, descubre quién eres realmente, llévalo a las aplicaciones y vive el futuro de la tecnología. </h4>
-    <p>Vana te permite crear un pequeño «tú» con el poder de tus datos y la IA. Clona tu voz, genera selfies y aprende lo que dicen tus datos sobre ti hablando con ella. Lleva la IA, «tú», a las aplicaciones de la red Vana para explorar juegos, simulaciones y herramientas de asistente de IA personalizados. Vana te da el control de tus datos y de tu IA, y te permite convertirlos en algo mágico. </p>
-    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Vana</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
     </a>
@@ -85,6 +72,19 @@
     <h4>Convierte tus selfies en fotos profesionales a la cabeza</h4>
     <p>El generador de tiros a la cabeza profesional de mayor precisión del mercado. Composición a medida para las mejores primeras impresiones. Ideal para profesionales y equipos.</p>
     <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con The Multiverse AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
+    </a>
+    <h4>Crea un gemelo digital, descubre quién eres realmente, llévalo a las aplicaciones y vive el futuro de la tecnología. </h4>
+    <p>Vana te permite crear un pequeño «tú» con el poder de tus datos y la IA. Clona tu voz, genera selfies y aprende lo que dicen tus datos sobre ti hablando con ella. Lleva la IA, «tú», a las aplicaciones de la red Vana para explorar juegos, simulaciones y herramientas de asistente de IA personalizados. Vana te da el control de tus datos y de tu IA, y te permite convertirlos en algo mágico. </p>
+    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Vana</b></a>
     <br />
 </div>
 
@@ -150,106 +150,106 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 😎 [Avatares](#avatares)
 ## Latest Additions to AI Collection
 
-### Descriptionwise
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-descriptionwise.webp" alt="Descriptionwise">
+### AI Face Swap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-swap.webp" alt="AI Face Swap">
 
-#### Una forma sencilla de ampliar la creación de contenido de tus productos de comercio electrónico, impulsada por la IA.
-[Visit](https://www.thataicollection.com/redirect/descriptionwise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Intercambio de rostros con IA: intercambio y refacio de rostros con inteligencia artificial en línea
+[Visit](https://www.thataicollection.com/redirect/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Con Descriptionwise, puedes crear contenido de productos de alta calidad para tu catálogo de productos de comercio electrónico en unos pocos clics con la potencia de la IA. Nuestra aplicación web diseñada especialmente te permite generar de forma masiva miles de: descripciones de productos, títulos de productos, contenido de SEO y, de hecho, cualquier tipo de contenido de productos que necesites... ¡En segundos! Nuestra solución es de prueba gratuita y se integra con la principal plataforma de PIM y comerci
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/descriptionwise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+Vive la magia de FaceSwapai.vip, la principal plataforma para intercambiar rostros sin esfuerzo con tecnología de inteligencia artificial avanzada. Mejora tu creatividad e inyecta diversión a tus fotos con nuestra interfaz intuitiva. Cambia rostros en las imágenes con facilidad, crea memes divertidos y revoluciona tu narración visual. 
 
 
-
-
-### Scispace
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scispace.webp" alt="Scispace">
-
-#### Scispace by Typeset: descubre, crea, publica y promociona tu trabajo de investigación
-[Visit](https://www.thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chatea con PDF y revisa la literatura más rápido con SciSpace. Descubre más de 200 millones de artículos o sube tu propio PDF, resalta el texto o haz preguntas y extrae explicaciones y resúmenes.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Arvin
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-arvin.webp" alt="Arvin">
+### VidBuddy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidbuddy.webp" alt="VidBuddy">
 
-#### Asistente de IA integral en todos los sitios web con tecnología GPT-4
-[Visit](https://www.thataicollection.com/redirect/arvin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### VidBuddy: resumen de YouTube con IA (extensión para Chrome)
+[Visit](https://www.thataicollection.com/redirect/vidbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Arvin es la extensión de navegador de IA con tecnología GPT-4. Chatea con Arvin desde cualquier parte de Internet para investigar, leer y crear al instante.
+Optimiza tu visualización con la extensión de Chrome definitiva: la mejor herramienta de IA para resumir vídeos de YouTube. Obtén resúmenes de vídeos de YouTube rápidos y concisos y profundiza en el contenido sin esfuerzo.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/arvin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Greenlight Coverage
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-greenlight-coverage.webp" alt="Greenlight Coverage">
-
-#### Consigue una cobertura de guion premium y recibe comentarios instantáneos
-[Visit](https://www.thataicollection.com/redirect/greenlight-coverage?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Una solución de software fácil de usar diseñada para escritores y productores. Con Greenlight Coverage, puedes obtener un análisis del guion de primera calidad en cuestión de minutos y recibir comentarios al instante, lo que elimina el tiempo de espera y te permite mejorar tu guion a tu propio ritmo. 
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/greenlight-coverage?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/vidbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Fooocus.one
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fooocus.one.webp" alt="Fooocus.one">
+### AI Humanize
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-humanize.webp" alt="AI Humanize">
 
-#### Foofocus: Donde la imaginación se hace realidad
-[Visit](https://www.thataicollection.com/redirect/fooocus.one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI Humanize: IA, reescritura, detector de IA, escritura, reescritura de ensayos para estudiantes, herramienta antidetección de artículos
+[Visit](https://www.thataicollection.com/redirect/ai-humanize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Fooocus da vida a tus ideas creativas con una tecnología de IA de última generación. Vive el futuro de la generación y edición de imágenes, donde el único límite es tu imaginación.
+AI Humanize es una herramienta que convierte el texto de la IA en una escritura similar a la humana, lo que ayuda a los usuarios a evitar la detección de la IA. Funciona en tres pasos: pegar texto generado por la IA, comprobar el contenido de la IA con «Detectar la IA» y «Humanizar» para crear contenido indetectable. Ofrece una prueba gratuita y varios planes de precios para la creación de contenido y la privacidad.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/fooocus.one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### NSFWLover
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nsfwlover.webp" alt="NSFWLover">
-
-#### NSFWlover: Interactúa con personajes de IA de la NSFW y socios de IA en chats sin censura.
-[Visit](https://www.thataicollection.com/redirect/nsfwlover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Sumérgete en las charlas de IA de la NSFW sin restricciones. Personaliza tus personajes de IA y disfruta de interacciones auténticas e ilimitadas con la NSFW. Da rienda suelta a tu creatividad en la creación de tu personalidad distintiva de IA. ¡Empieza a explorar ahora!
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/nsfwlover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/ai-humanize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### The Multiverse AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI">
+### Content Credentials
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-content-credentials.webp" alt="Content Credentials">
 
-#### Convierte tus selfies en fotos profesionales a la cabeza
-[Visit](https://www.thataicollection.com/redirect/the-multiverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Descubre la verdad en el contenido, desde el origen hasta la autenticidad
+[Visit](https://www.thataicollection.com/redirect/content-credentials?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-El generador de tiros a la cabeza profesional de mayor precisión del mercado. Composición a medida para las mejores primeras impresiones. Ideal para profesionales y equipos.
+Content Credentials es una tecnología para verificar la autenticidad y el origen del contenido en línea, que aborda los desafíos que plantean los deepfakes y los medios sintéticos al proporcionar detalles sobre el proceso de creación del contenido y el historial de edición.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/the-multiverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/content-credentials?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Remove Bg
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remove-bg.webp" alt="Remove Bg">
+
+#### Herramienta gratuita de eliminación de fondos, permite descargar los resultados de los recortes.
+[Visit](https://www.thataicollection.com/redirect/remove-bg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Remove Bg es una herramienta de recorte de imágenes basada en IA 100% gratuita que permite eliminar fondos de imágenes de personas, productos, animales, coches y logotipos.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/remove-bg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Rocket Statements
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rocket-statements.webp" alt="Rocket Statements">
+
+#### Estados de cuenta Rocket: conversor #1 de estados de cuenta bancarios
+[Visit](https://www.thataicollection.com/redirect/rocket-statements?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Rocket Statements es la herramienta de referencia para emprendedores, contadores públicos y propietarios de negocios cuando quieren convertir sus estados de cuenta bancarios de PDF a Excel. Utiliza un copiloto de IA superior y un aprendizaje automático para obtener resultados con una precisión del 99,9%.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/rocket-statements?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Sora Build
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sora-build.webp" alt="Sora Build">
+
+#### Explora, descubre y disfruta de los vídeos de OpenAI Sora a diario
+[Visit](https://www.thataicollection.com/redirect/sora-build?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Sora Build es un sitio web en línea que te permite buscar vídeos de OpenAI de Sora. Añade nuevos vídeos de Sora constantemente todos los días, con más de 220 vídeos ya catalogados. El sitio admite la búsqueda difusa de las instrucciones de Sora para encontrar vídeos de Sora. En el futuro, también admitirá el uso de OpenAI Sora en línea.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/sora-build?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3021,6 +3021,39 @@ Amadeus Topline es una aplicación de composición basada en la IA para todos lo
 
 
 
+### AI Face Swap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-swap.webp" alt="AI Face Swap">
+
+#### Intercambio de rostros con IA: intercambio y refacio de rostros con inteligencia artificial en línea
+[Visit](https://www.thataicollection.com/redirect/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vive la magia de FaceSwapai.vip, la principal plataforma para intercambiar rostros sin esfuerzo con tecnología de inteligencia artificial avanzada. Mejora tu creatividad e inyecta diversión a tus fotos con nuestra interfaz intuitiva. Cambia rostros en las imágenes con facilidad, crea memes divertidos y revoluciona tu narración visual. 
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Girlfriend GPT - NSFW AI Chatbots
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
+
+#### Empieza a chatear gratis con nuestro rápido y aterrador motor de personajes de IA de la NSFW. Divertido, útil, nuestros más de 7500 personajes de sexting con IA lo tienen. IA sin censura, sin juicio. Tú tienes el control.
+[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para recibir mensajes de texto con IA y charlas picantes las 24 horas del día, los 7 días de la semana
+
+¡Tus sueños más locos están a un clic de distancia hoy!
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Nectar AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nectar-ai.webp" alt="Nectar AI">
 
@@ -3081,38 +3114,6 @@ Generador de fotos Undress AI para desnudos profundos gratis. Desnuda la IA de D
 Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Girlfriend GPT - NSFW AI Chatbots
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
-
-#### Empieza a chatear gratis con nuestro rápido y aterrador motor de personajes de IA de la NSFW. Divertido, útil, nuestros más de 7500 personajes de sexting con IA lo tienen. IA sin censura, sin juicio. Tú tienes el control.
-[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para recibir mensajes de texto con IA y charlas picantes las 24 horas del día, los 7 días de la semana
-
-¡Tus sueños más locos están a un clic de distancia hoy!
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Dittin AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
-
-#### Dittin AI: plataforma de chatbots de IA de la NSFW sin censura
-[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Dittin AI es una plataforma de chatbots de IA de la NSFW basada en DittinLLM. Con restricciones mínimas en cuanto al contenido de la NSFW, puedes entablar conversaciones con personajes de la IA sobre una amplia gama de temas. La IA de Dittin admite avatares 3D y mensajes de voz, lo que te permite crear y compartir personajes de IA con avatares 3D interactivos y sonoros mediante el panel de creación.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3247,24 +3248,6 @@ con empresas en crecimiento
 
 ## Edición de fotos e imágenes
 
-### Fotor
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor">
-
-#### Fotor: editor de fotos en línea para todos. Edita fotos de forma más rápida y sencilla con la IA.
-[Visit](https://www.thataicollection.com/redirect/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-El editor de fotos online ofrece todo lo que necesitas para mejorar y editar fotos sin esfuerzo. ¡Disfruta de la edición sencilla de fotos en línea de forma gratuita! . Edición de fotos compleja simplificada con el editor de fotos Fotor AI. Mejorador de fotos con IA, eliminador de fondos con IA, eliminador de objetos con IA y más.
-
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Photoshift
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoshift.webp" alt="Photoshift">
 
@@ -3292,6 +3275,24 @@ sube unas cuantas fotos diarias y deja que los algoritmos de IA de Vidnoz hagan 
 tu rostro en una variedad de fondos profesionales y opciones de ropa. 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Fotor
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor">
+
+#### Fotor: editor de fotos en línea para todos. Edita fotos de forma más rápida y sencilla con la IA.
+[Visit](https://www.thataicollection.com/redirect/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+El editor de fotos online ofrece todo lo que necesitas para mejorar y editar fotos sin esfuerzo. ¡Disfruta de la edición sencilla de fotos en línea de forma gratuita! . Edición de fotos compleja simplificada con el editor de fotos Fotor AI. Mejorador de fotos con IA, eliminador de fondos con IA, eliminador de objetos con IA y más.
+
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

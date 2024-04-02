@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1215" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1226" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
-    </a>
-    <h4>把你的自拍变成专业头像</h4>
-    <p>市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。</p>
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 The Multiverse AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
     </a>
@@ -85,6 +72,19 @@
     <h4>AI Undressing-使用 AI Undressing 免费裸体照片</h4>
     <p>最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成</p>
     <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 undressing.io</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
+    </a>
+    <h4>把你的自拍变成专业头像</h4>
+    <p>市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。</p>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 The Multiverse AI</b></a>
     <br />
 </div>
 
@@ -150,106 +150,106 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### Scispace
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-scispace.webp" alt="Scispace">
+### AI Face Swap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-swap.webp" alt="AI Face Swap">
 
-#### Scispace by Typeset-发现、创建、发布和推广您的研究论文
-[Visit](https://www.thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI Face Swap-人工智能驱动的在线人脸交换和重构
+[Visit](https://www.thataicollection.com/redirect/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-使用 ScisSpace 与 PDF 聊天，更快地进行文献综述。查阅 2 亿多篇论文或上传您自己的 PDF，突出显示文本或提问，并提取解释和摘要。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
+体验Faceswapai.vip的魔力，这是由先进的人工智能技术提供支持的轻松人脸交换的首选平台。借助我们直观的界面，提升您的创造力并为照片注入乐趣。轻松交换图像中的面孔，制作有趣的模因，并彻底改变您的视觉叙事方式。 
 
 
-### Arvin
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-arvin.webp" alt="Arvin">
-
-#### 所有网站上的一站式 AI 助手，由 GPT-4 提供支持
-[Visit](https://www.thataicollection.com/redirect/arvin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Arvin 是一款由 GPT-4 提供支持的 AI 浏览器扩展程序。随时随地与Arvin聊天，即时研究、阅读和创意。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/arvin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Greenlight Coverage
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-greenlight-coverage.webp" alt="Greenlight Coverage">
+### VidBuddy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidbuddy.webp" alt="VidBuddy">
 
-#### 获取优质剧本报道并获得即时反馈
-[Visit](https://www.thataicollection.com/redirect/greenlight-coverage?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### VidBuddy-AI Youtube 摘要生成器（Chrome
+[Visit](https://www.thataicollection.com/redirect/vidbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-为作家和制作人量身定制的用户友好型软件解决方案。借助 Greenlight Coverage，您可以在几分钟内获得高质量的脚本分析，并立即获得反馈，从而省去了等待时间，并允许您按照自己的节奏改进剧本。 
+使用终极版Chrome扩展程序简化您的观看体验：汇总YouTube视频的最佳人工智能工具。获取快速、简洁的 YouTube 视频摘要，轻松深入了解内容。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/greenlight-coverage?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Fooocus.one
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fooocus.one.webp" alt="Fooocus.one">
-
-#### Foocus-想象力变为现实的地方
-[Visit](https://www.thataicollection.com/redirect/fooocus.one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Foocus 利用最先进的人工智能技术将你的创意变为现实。体验图像生成和编辑的未来，唯一的限制是你的想象力。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fooocus.one?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/vidbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### NSFWLover
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nsfwlover.webp" alt="NSFWLover">
+### AI Humanize
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-humanize.webp" alt="AI Humanize">
 
-#### NSFWLover：在未经审查的聊天中与 NSFW 的人工智能角色和 AI 合作伙伴互动。
-[Visit](https://www.thataicollection.com/redirect/nsfwlover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI Humanize: AI、Rewrite、AI 探测器、写作、学生作文重写、文章反检测工具
+[Visit](https://www.thataicollection.com/redirect/ai-humanize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-让自己沉浸在不受限制的 NSFW AI 聊天中。自定义你的 AI 角色，体验真实、无限的 NSFW 互动。释放你的创造力，打造你独特的 AI 角色。立即开始探索！
+AI Humanize 是一款将 AI 文本转化为类似人类的文字的工具，可帮助用户避开 AI 检测。它分为三个步骤：粘贴人工智能生成的文本，使用 “AI Detect” 检查人工智能内容，以及 “人性化” 以创建无法检测的内容。它为内容创作和隐私提供免费试用版和各种定价计划。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nsfwlover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### The Multiverse AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI">
-
-#### 把你的自拍变成专业头像
-[Visit](https://www.thataicollection.com/redirect/the-multiverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/the-multiverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-humanize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Careerflow AI Mock Interview
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-careerflow-ai-mock-interview.webp" alt="Careerflow AI Mock Interview">
+### Content Credentials
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-content-credentials.webp" alt="Content Credentials">
 
-#### 在即将到来的求职面试中脱颖而出，提升面试技巧。
-[Visit](https://www.thataicollection.com/redirect/careerflow-ai-mock-interview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 揭开内容中的真相，从起源到真实性
+[Visit](https://www.thataicollection.com/redirect/content-credentials?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-练习角色和公司特定的面试问题，并从您的私人且不受判断的 AI 面试教练那里获得实时反馈。开始你的模拟面试！
+内容凭证是一种验证在线内容真实性和来源的技术，通过提供内容创作过程和编辑历史的详细信息，应对深度伪造和合成媒体带来的挑战。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/careerflow-ai-mock-interview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/content-credentials?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Remove Bg
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remove-bg.webp" alt="Remove Bg">
+
+#### 免费背景删除工具，支持下载剪切结果。
+[Visit](https://www.thataicollection.com/redirect/remove-bg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Remove Bg 是一款 100% 免费的 AI 图像剪切工具，支持从人物、产品、动物、汽车和徽标的图像中删除背景。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/remove-bg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Rocket Statements
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rocket-statements.webp" alt="Rocket Statements">
+
+#### 火箭对账单-#1 银行对账单转换器
+[Visit](https://www.thataicollection.com/redirect/rocket-statements?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Rocket Statements是企业家、注册会计师、企业主想要将银行对账单从pdf转换为excel时的首选工具。它使用卓越的人工智能副驾驶和机器学习来获得准确率达到 99.9% 的结果。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/rocket-statements?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Sora Build
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sora-build.webp" alt="Sora Build">
+
+#### 每天探索、发现和体验 OpenAI Sora 视频
+[Visit](https://www.thataicollection.com/redirect/sora-build?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Sora Build 是一个在线网站，允许你搜索 OpenAI Sora 视频。它每天都在不断添加新的Sora视频，已经对220多个视频进行了编目。该网站支持模糊搜索Sora提示以查找Sora视频。将来，它还将支持在线使用OpenAI Sora。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/sora-build?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3022,6 +3022,39 @@ Amadeus Topline 是一款由人工智能驱动的作曲应用程序，适合每�
 <br />
 
 
+### AI Face Swap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-swap.webp" alt="AI Face Swap">
+
+#### AI Face Swap-人工智能驱动的在线人脸交换和重构
+[Visit](https://www.thataicollection.com/redirect/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+体验Faceswapai.vip的魔力，这是由先进的人工智能技术提供支持的轻松人脸交换的首选平台。借助我们直观的界面，提升您的创造力并为照片注入乐趣。轻松交换图像中的面孔，制作有趣的模因，并彻底改变您的视觉叙事方式。 
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Girlfriend GPT - NSFW AI Chatbots
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
+
+#### 使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。
+[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。
+
+今天只需点击一下即可实现您最疯狂的梦想！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Nectar AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nectar-ai.webp" alt="Nectar AI">
 
@@ -3082,38 +3115,6 @@ Image Creator是一款强大的生成式人工智能工具，用于创建照片�
 Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Girlfriend GPT - NSFW AI Chatbots
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
-
-#### 使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。
-[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。
-
-今天只需点击一下即可实现您最疯狂的梦想！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Dittin AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
-
-#### Dittin AI-未经审查的 NSFW AI 聊天机器人平台
-[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Dittin AI 是一个基于 DittinLLM 的 NSFW 人工智能聊天机器人平台。只要对NSFW内容的限制最小，你就可以与AI角色就各种话题进行对话。Dittin AI 支持 3D 头像和语音消息，允许您使用创建面板创建和共享带有声音和交互式 3D 头像的 AI 角色。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3248,24 +3249,6 @@ AutoPredict是第一款使用人工智能来预测汽车将持续多久的应用
 
 ## 照片和图像编辑
 
-### Fotor
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor">
-
-#### Fotor-适合所有人的在线照片编辑器。使用 AI 更快、更轻松地编辑照片。
-[Visit](https://www.thataicollection.com/redirect/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在线照片编辑器提供您轻松增强和编辑照片所需的一切。免费在线体验简单的照片编辑！。使用Fotor AI照片编辑器可以轻松进行复杂的照片编辑。AI 照片增强器、AI 背景去除器、AI 对象移除器等。
-
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### Photoshift
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photoshift.webp" alt="Photoshift">
 
@@ -3293,6 +3276,24 @@ Vidnoz AI Headshot Generator 是一款在线人工智能头像生成器，是一
 面对各种专业背景和服装选择。 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/vidnoz-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Fotor
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor">
+
+#### Fotor-适合所有人的在线照片编辑器。使用 AI 更快、更轻松地编辑照片。
+[Visit](https://www.thataicollection.com/redirect/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在线照片编辑器提供您轻松增强和编辑照片所需的一切。免费在线体验简单的照片编辑！。使用Fotor AI照片编辑器可以轻松进行复杂的照片编辑。AI 照片增强器、AI 背景去除器、AI 对象移除器等。
+
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
