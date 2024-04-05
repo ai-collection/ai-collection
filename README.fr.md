@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1228" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1235" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -150,6 +150,77 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🧠 [Éducation Et Apprentissage](#éducation-et-apprentissage)
 ## Latest Additions to AI Collection
 
+### InteractivePolls.ai - MeetMoji
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interactivepolls.ai---meetmoji.webp" alt="InteractivePolls.ai - MeetMoji">
+
+#### Sondages en direct pour Google Slides avec un assistant IA 
+[Visit](https://www.thataicollection.com/redirect/interactivepolls.ai---meetmoji?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Lancez une conversation constructive dans tes présentations grâce à nos sondages en direct alimentés par l'IA, à nos nuages de mots, etc. Transforme les présentations statiques à sens unique en conversations captivantes. Impliquez tout le monde, que ce soit en ligne, en personne ou les deux.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/interactivepolls.ai---meetmoji?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Persuva
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-persuva.webp" alt="Persuva">
+
+#### Persuva est la plateforme pilotée par l'IA qui permet de créer à grande échelle des textes publicitaires convaincants et à taux de conversion élevé
+[Visit](https://www.thataicollection.com/redirect/persuva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Persuva est une plateforme pilotée par l'IA qui vise à améliorer les résultats commerciaux grâce à la génération de contenus publicitaires captivants et optimisés pour les conversions. Notre objectif principal est d'améliorer l'efficacité de tes campagnes marketing, en propulsant l'influence et l'évolutivité de ta marque vers de nouveaux sommets. Tirer parti de l'intelligence artificielle avancée et de connaissances approfondies sur le comportement des consommateurs.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/persuva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### dypt
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dypt.webp" alt="dypt">
+
+#### Répartissez les tâches automatiquement à l'aide de l'IA en sous-tâches plus faciles à gérer et surmontez les blocages mentaux
+[Visit](https://www.thataicollection.com/redirect/dypt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+dypt est un gestionnaire de tâches adapté au monde trépidant d'aujourd'hui, conçu pour t'aider à gagner du temps.
+- Organise tes tâches selon une hiérarchie, ce qui te permet de les répartir autant de fois que nécessaire
+- Répartissez automatiquement tes tâches en plusieurs parties plus faciles à accomplir à l'aide de l'IA.
+- Partage des tâches, en public et en privé
+- Fixe des priorités, des délais et des rappels et reçois des notifications pour ne jamais en manquer une
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/dypt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Undress.cc
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress_.cc.webp" alt="Undress.cc">
+
+#### Undress CC est un générateur de nus deepfake qui permet de déshabiller n'importe qui en quelques secondes. 
+[Visit](https://www.thataicollection.com/redirect/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Comment peux-tu faire un nu profond ?
+Il suffit de suivre ces 4 étapes
+Se connecter à la plateforme
+Ajoute une photo que tu aimerais te déshabiller
+Choisis les caractéristiques corporelles et d'âge souhaitées
+Appuie sur le bouton « GENERATE » et profite du résultat final
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Owwlish
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-owwlish.webp" alt="Owwlish">
 
@@ -190,66 +261,6 @@ Découvrez la magie de Faceswapai.VIP, la plateforme idéale pour échanger faci
 Simplifie ton visionnage grâce à l'extension Chrome ultime : le meilleur outil d'intelligence artificielle pour résumer les vidéos YouTube. Consultez des résumés rapides et concis de vidéos YouTube et approfondissez le contenu sans effort.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/vidbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Humanize
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-humanize.webp" alt="AI Humanize">
-
-#### Humanisation de l'IA : IA, réécriture, détecteur d'IA, rédaction, réécriture de dissertations pour les étudiants, outil anti-détection d'articles
-[Visit](https://www.thataicollection.com/redirect/ai-humanize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI Humanize est un outil qui transforme le texte créé par l'IA en une écriture semblable à celle d'un humain, aidant ainsi les utilisateurs à éviter d'être détectés par l'IA. Cela fonctionne en trois étapes : coller du texte généré par l'IA, vérifier le contenu de l'IA avec « AI Detect » et « Humaniser » pour créer du contenu indétectable. Il propose un essai gratuit et différents plans tarifaires pour la création de contenu et la confidentialité.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-humanize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Content Credentials
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-content-credentials.webp" alt="Content Credentials">
-
-#### Découvrez la véracité du contenu, de son origine à son authenticité
-[Visit](https://www.thataicollection.com/redirect/content-credentials?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Content Credentials est une technologie qui permet de vérifier l'authenticité et l'origine du contenu en ligne, en répondant aux défis posés par les deepfakes et les médias synthétiques, en fournissant des informations sur le processus de création de contenu et l'historique des modifications.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/content-credentials?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Remove Bg
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-remove-bg.webp" alt="Remove Bg">
-
-#### Outil gratuit de suppression de l'arrière-plan, permet de télécharger les résultats de découpe.
-[Visit](https://www.thataicollection.com/redirect/remove-bg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Remove Bg est un outil de découpe d'images basé sur l'IA 100 % gratuit qui permet de supprimer l'arrière-plan des images de personnes, de produits, d'animaux, de voitures et de logos.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/remove-bg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Rocket Statements
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rocket-statements.webp" alt="Rocket Statements">
-
-#### Rocket Statements - Convertisseur de relevés bancaires #1
-[Visit](https://www.thataicollection.com/redirect/rocket-statements?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Rocket Statements est l'outil de référence pour les entrepreneurs, les CPA et les chefs d'entreprise qui souhaitent convertir leurs relevés bancaires au format PDF en Excel. Il utilise un copilote IA supérieur et un apprentissage automatique pour obtenir des résultats précis à 99,9 %.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/rocket-statements?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -500,23 +511,6 @@ Une première expérience pour prototyper et créer de la 3D avec du texte L''ac
 
 ## Architecture & Design d''intérieur
 
-### Deft
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft">
-
-#### Deft Imagine - Redonnez du style à une maison en 10 secondes ou moins. Inspiration, design d''intérieur, mise en scène et plus encore.
-[Visit](https://www.thataicollection.com/redirect/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Relooker une maison en 10 secondes ou moins. Ensuite, tu peux utiliser notre moteur de recherche pour trouver les produits sur les photos. 
-
-Il est très précis et tu peux choisir parmi une multitude de styles. Idéal pour l''inspiration, la décoration d''intérieur, les photos de mise en scène, etc.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Interior AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
 
@@ -542,6 +536,23 @@ Trouve des idées de décoration d''intérieur grâce à l''intelligence artific
 Choisis ton style et ta couleur pour personnaliser ta maison en quelques secondes grâce à l''IA. Commence à concevoir ta maison ou utilise un tableau d''échantillons.  
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Deft
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft">
+
+#### Deft Imagine - Redonnez du style à une maison en 10 secondes ou moins. Inspiration, design d''intérieur, mise en scène et plus encore.
+[Visit](https://www.thataicollection.com/redirect/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Relooker une maison en 10 secondes ou moins. Ensuite, tu peux utiliser notre moteur de recherche pour trouver les produits sur les photos. 
+
+Il est très précis et tu peux choisir parmi une multitude de styles. Idéal pour l''inspiration, la décoration d''intérieur, les photos de mise en scène, etc.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3022,22 +3033,6 @@ Meilleure nouvelle technologie de déshabillage IA GRATUITE ! Se déshabiller g
 
 
 
-### AI Face Swap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-swap.webp" alt="AI Face Swap">
-
-#### AI Face Swap - Échange et reface en ligne basés sur l'IA
-[Visit](https://www.thataicollection.com/redirect/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Découvrez la magie de Faceswapai.VIP, la plateforme idéale pour échanger facilement des visages grâce à une technologie d'IA avancée. Sublime ta créativité et ajoute du fun à tes photos grâce à notre interface intuitive. Échangez facilement des visages sur des images, créez des mèmes amusants et révolutionnez ta narration visuelle. 
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Girlfriend GPT - NSFW AI Chatbots
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
 
@@ -3055,18 +3050,38 @@ Tes rêves les plus fous ne sont qu''à un clic aujourd''hui !
 
 
 
-### Nudes – Face Swap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudes-%E2%80%93-face-swap.webp" alt="Nudes – Face Swap">
+### Undress.cc
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress_.cc.webp" alt="Undress.cc">
 
-#### Exploite tout le potentiel de Face Swap ?$#@$ et de Deepfake ?$#@$ Magic sur notre site !
-[Visit](https://www.thataicollection.com/redirect/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Undress CC est un générateur de nus deepfake qui permet de déshabiller n'importe qui en quelques secondes. 
+[Visit](https://www.thataicollection.com/redirect/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Un robot Nudes_FaceSwap_Bot sur Telegram ! Ce bot peut échanger la face de n''importe quelle vidéo. Comment l''utiliser ?
-1). Il suffit de télécharger une image de visage. 
-2). Téléchargez ou choisissez une vidéo cible. 
-3). Attends les résultats.  
+Comment peux-tu faire un nu profond ?
+Il suffit de suivre ces 4 étapes
+Se connecter à la plateforme
+Ajoute une photo que tu aimerais te déshabiller
+Choisis les caractéristiques corporelles et d'âge souhaitées
+Appuie sur le bouton « GENERATE » et profite du résultat final
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI Face Swap
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-swap.webp" alt="AI Face Swap">
+
+#### AI Face Swap - Échange et reface en ligne basés sur l'IA
+[Visit](https://www.thataicollection.com/redirect/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Découvrez la magie de Faceswapai.VIP, la plateforme idéale pour échanger facilement des visages grâce à une technologie d'IA avancée. Sublime ta créativité et ajoute du fun à tes photos grâce à notre interface intuitive. Échangez facilement des visages sur des images, créez des mèmes amusants et révolutionnez ta narration visuelle. 
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3105,15 +3120,19 @@ Undress.vip, un outil d''IA révolutionnaire qui joue un rôle de premier plan d
 
 
 
-### Dittin AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
+### AI Girlfriend WTF
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
 
-#### Dittin AI, plateforme de chatbot NSFW AI non censurée
-[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Plongez dans de belles aventures avec des copines IA !
+[Visit](https://www.thataicollection.com/redirect/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Dittin AI est une plateforme de chatbot basée sur l''IA de la NSFW basée sur DittinLLM. Avec un minimum de restrictions sur le contenu de la NSFW, tu peux engager des conversations avec des personnages IA sur un large éventail de sujets. Dittin AI prend en charge les avatars 3D et les messages vocaux, ce qui te permet de créer et de partager des personnages IA avec du son et des avatars 3D interactifs à l''aide du panneau de création.
+Vivez des aventures palpitantes et vivez une vie différente avec AI Girls ! 
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Qu''il s''agisse de survivre sur une île déserte, de naviguer dans l''espace à bord d''un vaisseau spatial ou simplement de discuter avec ta propre chatte, il y en a pour tous les goûts. 
+
+Plongez dans l''univers de nombreuses filles animées par l''IA et commencez à jouer dès maintenant !
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3845,6 +3864,21 @@ Predis est un outil marketing basé sur l''IA pour les réseaux sociaux qui aide
 
 
 
+### Persuva
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-persuva.webp" alt="Persuva">
+
+#### Persuva est la plateforme pilotée par l'IA qui permet de créer à grande échelle des textes publicitaires convaincants et à taux de conversion élevé
+[Visit](https://www.thataicollection.com/redirect/persuva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Persuva est une plateforme pilotée par l'IA qui vise à améliorer les résultats commerciaux grâce à la génération de contenus publicitaires captivants et optimisés pour les conversions. Notre objectif principal est d'améliorer l'efficacité de tes campagnes marketing, en propulsant l'influence et l'évolutivité de ta marque vers de nouveaux sommets. Tirer parti de l'intelligence artificielle avancée et de connaissances approfondies sur le comportement des consommateurs.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/persuva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Copy.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-copy.ai.webp" alt="Copy.ai">
 
@@ -3928,21 +3962,6 @@ La plate-forme alimentée par l''IA fournit des Battlecards automagiques et une 
 <br />
 
 <br />
-
-
-### Userevaluation
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-userevaluation.webp" alt="Userevaluation">
-
-#### Évaluation des utilisateurs â La plate-forme de compréhension du client
-[Visit](https://www.thataicollection.com/redirect/userevaluation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Que vous vous concentriez sur l''interface utilisateur, la recherche UX, la conception ou l''expérience utilisateur, l''IA de l''évaluation des utilisateurs peut répondre à toutes vos questions.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/userevaluation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 

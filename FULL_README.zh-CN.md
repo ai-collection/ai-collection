@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1228" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1235" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
     </a>
-    <h4>把你的自拍变成专业头像</h4>
-    <p>市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。</p>
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 The Multiverse AI</b></a>
+    <h4>创建数字双胞胎，了解自己的真实身份，将其应用到应用程序中，体验科技的未来。 </h4>
+    <p>Vana允许你利用数据和人工智能的力量创建迷你 “你”。克隆你的声音，生成自拍照，并通过与数据交谈来了解你的数据。将 AI “你” 带到Vana网络中的应用程序中，探索个性化游戏、模拟和人工智能助手工具。Vana让你控制自己的数据和人工智能，让你把它变成神奇的东西。 </p>
+    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Vana</b></a>
     <br />
 </div>
 
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
     </a>
-    <h4>创建数字双胞胎，了解自己的真实身份，将其应用到应用程序中，体验科技的未来。 </h4>
-    <p>Vana允许你利用数据和人工智能的力量创建迷你 “你”。克隆你的声音，生成自拍照，并通过与数据交谈来了解你的数据。将 AI “你” 带到Vana网络中的应用程序中，探索个性化游戏、模拟和人工智能助手工具。Vana让你控制自己的数据和人工智能，让你把它变成神奇的东西。 </p>
-    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Vana</b></a>
+    <h4>把你的自拍变成专业头像</h4>
+    <p>市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。</p>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 The Multiverse AI</b></a>
     <br />
 </div>
 
@@ -629,6 +629,7 @@
 | [Nudify.online](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用我们的免费服务脱衣服任何人。Deepnude AI On Nudify — 免费为任何女孩脱衣服！. | 用于免费深度裸体的Undress AI照片生成器.Nudify deepnude AI 使用深度伪造裸照和比基尼照片的最高精度。只需选择年龄、体型、素质，即可在几秒钟内得到结果。. | :white_check_mark: |
 | [Nudifying](https://www.thataicollection.com/redirect/nudifying?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Nudifying提供了一项独特的服务，他们承诺通过其用户友好的平台 “为任何人脱衣服”。. | 通过选择年龄、体型和质量等特定标准，用户可以在几秒钟内获得结果。值得注意的是，Nudifying仅强调其娱乐目的，并确保没有冒犯的意图。用户必须记住，他们对自己创建的图像承担全部责任，并且在使用他人的照片之前应获得适当的同意。. | :white_check_mark: |
 | [Undress.Vip](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude. | Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人. | :white_check_mark: |
+| [Undress.cc](https://www.thataicollection.com/redirect/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Undress CC是一款深度伪造的裸照生成器，它可以在短短几秒钟内给任何人脱衣服。. | 你怎么能做一个深裸的？ 只需要这 4 个步骤 登录平台 上传一张你想脱衣服的图片 选择所需的体型和年龄规格 按下 “生成” 按钮，享受最终结果. | :white_check_mark: |
 | [Your AI Girlfriend online](https://www.thataicollection.com/redirect/your-ai-girlfriend-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 你的AI女友在线-认识你的梦想女友. | 欢迎来到使用私人NSFW人工智能生成器量身定制的最好的NSFW AI聊天室！🔥  一切都是约会的乐趣，没有麻烦。. | :white_check_mark: |
 | [undressher.app](https://www.thataicollection.com/redirect/undressher.app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | undressher.app-看看她的裸体，免费的 AI 脱衣工具. | undressher.io 是一款深度裸体的人工智能，可以立即无缝脱掉任何女性的衣服。免费使用最好的深裸AI为女性脱衣服。. | :white_check_mark: |
 | [undressing.io](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Undressing-使用 AI Undressing 免费裸体照片. | 最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成. | :white_check_mark: |
@@ -642,6 +643,7 @@
 |---|---|---|:---:|
 | [ChatBA](https://www.thataicollection.com/redirect/chatba?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatBCG：幻灯片的生成人工智能. | 使用 ChatBCG 即时创建幻灯片. | :grey_question: |
 | [Glimmer AI](https://www.thataicollection.com/redirect/glimmer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的演示魔术. | Glimmer AI 使用 GPT-3 和 DALL-E 2 使用文本或语音命令轻松快速地创建专业品质的演示文稿. | :white_check_mark: |
+| [InteractivePolls.ai - MeetMoji](https://www.thataicollection.com/redirect/interactivepolls.ai---meetmoji?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 助手对 Google 幻灯片进行实时投票. | 借助我们基于人工智能的实时投票、词云等，在演示文稿中激发有意义的对话。将静态的单向演示转变为引人入胜的对话。与所有人互动，无论他们是在线上、面对面还是两者兼而有之。. | :white_check_mark: |
 | [My Pitch Deck](https://www.thataicollection.com/redirect/my-pitch-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | My Pitch Deck-使用为你的创业公司定制的推销平台模板来启动你的资金。. | 一个 10 张幻灯片的演讲卡组模板。为您量身定制。 根据你的答案，我们的人工智能将为您的创业公司创建自定义的10张幻灯片大纲。准备在此基础上再接再厉！. | :grey_question: |
 | [Pitchgrade](https://www.thataicollection.com/redirect/pitchgrade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pitchgrade-简化演示文稿. | 推介会是公司用来向投资者推销的演示文稿。它涵盖了公司的商业模式、财务预测和投资者希望看到的其他关键指标。. | :grey_question: |
 | [Plus AI for Google Slides](https://www.thataicollection.com/redirect/plus-ai-for-google-slides?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在 Google 幻灯片中创建 AI 驱动的演示文稿。. | 使用 Plus AI 在几分钟内构建演示文稿。从一张白纸开始是构建演示文稿最具挑战性的部分之一。 Plus AI 可帮助您创建大纲、制作初稿并建议对幻灯片进行其他修改. | :white_check_mark: |
@@ -993,6 +995,7 @@
 | [Voxio](https://www.thataicollection.com/redirect/voxio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voxio：轻松将您的声音转换为有条理的笔记. | Voxio 是一款创新的应用程序，可将录音转换为结构化笔记。它是讲座、会议和个人备忘录的理想之选，它提供可自定义的布局并与主要的笔记平台无缝集成，简化了信息的组织和检索。. | :white_check_mark: |
 | [Whisper Memos](https://www.thataicollection.com/redirect/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Whisper Memos-录制语音备忘录， 以电子邮件的形式接收。. | Whisper Memos 将你的胡言乱语变成分段文章，然后通过电子邮件发送给你。 感谢 GPT-4，我们将你的备忘录转换为报纸风格的文章，而不是一言不发的文字。. | :white_check_mark: |
 | [aiPDF](https://www.thataicollection.com/redirect/aipdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | aiPdf 是一款创新的多模式工具，旨在处理各种输入，包括电子书、网络文章、YouTube 视频、播客等。. | 该平台的（问答）系统根据包括谷歌和斯坦福大学在内的知名公司和知名机构的基准进行了严格的测试，确保了提供准确和微调的回复。AiPDF优先考虑用户隐私，配备了先进的安全系统，可保护您的文件和个人信息，确保安全和私密的用户体验。. | :white_check_mark: |
+| [dypt](https://www.thataicollection.com/redirect/dypt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 自动将任务分解为更易于管理的子任务，克服心理障碍. | dypt 是当今忙碌世界的任务管理器，旨在帮助你腾出时间。 -按层次结构组织任务，允许您根据需要多次分解任务 -使用 AI 自动将任务分解成更易于完成的块。 -公开和私下共享任务 -设置优先级、截止日期和提醒并接收通知，这样您就不会错过任何一个. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
@@ -1563,6 +1566,7 @@
 | [MarketingBlocks AI](https://www.thataicollection.com/redirect/marketingblocks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 营销的未来就在这里. | 类人一体的 AI 营销助理，可创建登陆页面、宣传视频、广告、营销文案、图形、电子邮件、画外音、博客文章、艺术等. | :grey_question: |
 | [PH Deck](https://www.thataicollection.com/redirect/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 一目了然地查看 Everyday 的产品发布会. | 专为 Product Hunt 用户量身定制，通过 AI 和 YC 的成熟方法揭示市场趋势。结合 AI 技术和 YC 见解，为您重点介绍 Product Hunt 中的每日精彩内容。. | :white_check_mark: |
 | [Peppertype.ai](https://www.thataicollection.com/redirect/peppertype.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Peppertype.Ai-更快地创建高质量的内容. | Peppertype 变得更好了！ 利用人工智能平台来构思、创建、分发和衡量您的内容，并证明您的内容营销投资回报率. | :grey_question: |
+| [Persuva](https://www.thataicollection.com/redirect/persuva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Persuva 是人工智能驱动的平台，可大规模制作具有说服力、高转化率的广告文案. | Persuva 是一个人工智能驱动的平台，致力于通过生成引人入胜的、经过转化优化的广告内容来增强业务成果。我们的核心目标是提高您的营销活动的有效性，将您的品牌的影响力和可扩展性推向新的高度。利用先进的人工智能以及对消费者行为的深刻见解。. | :white_check_mark: |
 | [PitchGhost](https://www.thataicollection.com/redirect/pitchghost?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 恢复旧的黑白照片和模糊的脸部照片。. | “恢复照片” 是一个免费的在线工具，专门使用AI技术来恢复旧照片和模糊的面部图像。该工具可以轻松恢复、修复和增强黑白旧照片，让珍贵的回忆以最佳形式保存，让历史辉煌重现生机。. | :white_check_mark: |
 | [Post Parrot](https://www.thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Post Parrot-一款适用于 Reddit 的免费营销工具. | 想生成能提高参与度的 reddit 帖子标题？查看我们的免费数字营销工具，为有针对性的subreddits增强您的帖子标题。. | :white_check_mark: |
 | [Predis](https://www.thataicollection.com/redirect/predis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 轻松进行社交媒体营销-Predis.Ai. | Predis是一款用于社交媒体的人工智能营销工具，可帮助企业制作引人入胜的视频和图像内容，并获得基于人工智能的内容分析。. | :white_check_mark: |
