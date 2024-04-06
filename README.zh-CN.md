@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1235" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1238" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -72,19 +72,6 @@
     <h4>把你的自拍变成专业头像</h4>
     <p>市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。</p>
     <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 The Multiverse AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
-    </a>
-    <h4>AI Undressing-使用 AI Undressing 免费裸体照片</h4>
-    <p>最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 undressing.io</b></a>
     <br />
 </div>
 
@@ -149,6 +136,37 @@
 - 💰 [销售与市场营销](#销售与市场营销)
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
+
+### Circle to Search
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-circle-to-search.webp" alt="Circle to Search">
+
+#### 从奇迹到智慧，只需拖一步
+
+[Visit](https://www.thataicollection.com/redirect/circle-to-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Circle to Search是一款终极版Chrome扩展程序，旨在增强您的浏览体验，借助Circle to Search解锁轻松检索信息的力量。这个创新的工具改变了您的在线搜索方式，使您可以无缝地突出显示和搜索当前网页中的任何文本或图像内容。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/circle-to-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### AI Comic Book Factory
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-comic-book-factory.webp" alt="AI Comic Book Factory">
+
+#### 免费的在线 AI 漫画书创作工具
+[Visit](https://www.thataicollection.com/redirect/ai-comic-book-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 AI Comic Factory 释放你的创造力，让自己沉浸在 AI 驱动的漫画创作世界中。通过我们的免费试用，亲身体验我们创新产品的功能和应用。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-comic-book-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 
 ### InteractivePolls.ai - MeetMoji
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interactivepolls.ai---meetmoji.webp" alt="InteractivePolls.ai - MeetMoji">
@@ -230,37 +248,6 @@ dypt 是当今忙碌世界的任务管理器，旨在帮助你腾出时间。
 无论您使用什么网站平台，Owwlish 都是向您的网站添加在线课程的全新简便方法！只需使用我们的简易课程生成器创建课程，复制并粘贴几行代码，瞧：您的课程已在您的网站上线，可供人们注册并开始学习！
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AI Face Swap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-swap.webp" alt="AI Face Swap">
-
-#### AI Face Swap-人工智能驱动的在线人脸交换和重构
-[Visit](https://www.thataicollection.com/redirect/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-体验Faceswapai.vip的魔力，这是由先进的人工智能技术提供支持的轻松人脸交换的首选平台。借助我们直观的界面，提升您的创造力并为照片注入乐趣。轻松交换图像中的面孔，制作有趣的模因，并彻底改变您的视觉叙事方式。 
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### VidBuddy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidbuddy.webp" alt="VidBuddy">
-
-#### VidBuddy-AI Youtube 摘要生成器（Chrome
-[Visit](https://www.thataicollection.com/redirect/vidbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用终极版Chrome扩展程序简化您的观看体验：汇总YouTube视频的最佳人工智能工具。获取快速、简洁的 YouTube 视频摘要，轻松深入了解内容。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/vidbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3018,15 +3005,22 @@ Amadeus Topline 是一款由人工智能驱动的作曲应用程序，适合每�
 
 ## 工作不安全
 
-### undressing.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
+### Undress.cc
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress_.cc.webp" alt="Undress.cc">
 
-#### AI Undressing-使用 AI Undressing 免费裸体照片
-[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Undress CC是一款深度伪造的裸照生成器，它可以在短短几秒钟内给任何人脱衣服。 
+[Visit](https://www.thataicollection.com/redirect/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成
+你怎么能做一个深裸的？
+只需要这 4 个步骤
+登录平台
+上传一张你想脱衣服的图片
+选择所需的体型和年龄规格
+按下 “生成” 按钮，享受最终结果
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3050,44 +3044,6 @@ Amadeus Topline 是一款由人工智能驱动的作曲应用程序，适合每�
 <br />
 
 
-### Undress.cc
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress_.cc.webp" alt="Undress.cc">
-
-#### Undress CC是一款深度伪造的裸照生成器，它可以在短短几秒钟内给任何人脱衣服。 
-[Visit](https://www.thataicollection.com/redirect/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-你怎么能做一个深裸的？
-只需要这 4 个步骤
-登录平台
-上传一张你想脱衣服的图片
-选择所需的体型和年龄规格
-按下 “生成” 按钮，享受最终结果
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AI Face Swap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-swap.webp" alt="AI Face Swap">
-
-#### AI Face Swap-人工智能驱动的在线人脸交换和重构
-[Visit](https://www.thataicollection.com/redirect/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-体验Faceswapai.vip的魔力，这是由先进的人工智能技术提供支持的轻松人脸交换的首选平台。借助我们直观的界面，提升您的创造力并为照片注入乐趣。轻松交换图像中的面孔，制作有趣的模因，并彻底改变您的视觉叙事方式。 
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### Nudify.online
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online_.webp" alt="Nudify.online">
 
@@ -3105,15 +3061,15 @@ Amadeus Topline 是一款由人工智能驱动的作曲应用程序，适合每�
 <br />
 
 
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+### undressing.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
 
-#### undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI Undressing-使用 AI Undressing 免费裸体照片
+[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人
+最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3133,6 +3089,37 @@ Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。
 潜入众多 AI 女孩的世界，立即开始玩吧！
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Dittin AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
+
+#### Dittin AI-未经审查的 NSFW AI 聊天机器人平台
+[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dittin AI 是一个基于 DittinLLM 的 NSFW 人工智能聊天机器人平台。只要对NSFW内容的限制最小，你就可以与AI角色就各种话题进行对话。Dittin AI 支持 3D 头像和语音消息，允许您使用创建面板创建和共享带有声音和交互式 3D 头像的 AI 角色。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Nectar AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nectar-ai.webp" alt="Nectar AI">
+
+#### 在短短几秒钟内创建完美的梦中女孩！
+[Visit](https://www.thataicollection.com/redirect/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nectar是一个生成式人工智能平台，提供两种产品：（1）图像创建器和（2）角色扮演。
+Image Creator是一款强大的生成式人工智能工具，用于创建照片和视频，而角色扮演允许您探索不同的幻想并创建自定义角色。我们的文本和语言生成时间是业内最快的生成时间之一。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

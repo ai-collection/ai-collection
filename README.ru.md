@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1235" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1238" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -59,19 +59,6 @@
     <h4>Создайте цифрового двойника, узнайте, кто вы есть на самом деле, используйте его в приложениях и познакомьтесь с технологиями будущего. </h4>
     <p>Vana позволяет создать мини-« вы», используя возможности ваших данных и искусственного интеллекта. Клонируйте свой голос, создавайте селфи и узнавайте, что говорят о вас ваши данные, общаясь с ними. Используйте искусственный интеллект в своих приложениях в сети Vana, чтобы изучать персонализированные игры, симуляторы и помощники в сфере искусственного интеллекта. Vana позволяет вам контролировать данные и искусственный интеллект и превращать их в нечто волшебное. </p>
     <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Vana</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
-    </a>
-    <h4>Раздевание с искусственным интеллектом - БЕСПЛАТНОЕ раздевание фотографий обнаженной натуры с помощью искусственного интеллекта</h4>
-    <p>Лучшая НОВАЯ БЕСПЛАТНАЯ технология раздевания с искусственным интеллектом! Раздевание на базе искусственного интеллекта для фотографий! Мгновенно меняйте внешний вид. Обнаженные фотографии в один клик. Множество стилей и возможность сделать это в кратчайшие сроки</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с undressing.io</b></a>
     <br />
 </div>
 
@@ -149,6 +136,37 @@
 - 👩‍⚖️ [Юридический](#юридический)
 - 🎬 [Видео](#видео)
 ## Latest Additions to AI Collection
+
+### Circle to Search
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-circle-to-search.webp" alt="Circle to Search">
+
+#### От чуда к мудрости всего один шаг
+
+[Visit](https://www.thataicollection.com/redirect/circle-to-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Откройте для себя возможности удобного поиска информации с помощью Circle to Search, идеального расширения Chrome, предназначенного для улучшения работы в Интернете. Этот инновационный инструмент меняет способ поиска в Интернете, позволяя легко выделять и искать любой текстовый или графический контент на текущей веб-странице.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/circle-to-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI Comic Book Factory
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-comic-book-factory.webp" alt="AI Comic Book Factory">
+
+#### Бесплатные онлайн-инструменты для создания комиксов с искусственным интеллектом
+[Visit](https://www.thataicollection.com/redirect/ai-comic-book-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Раскройте свой творческий потенциал и погрузитесь в мир создания комиксов на основе искусственного интеллекта с помощью AI Comic Factory. Ознакомьтесь с возможностями и областями применения нашего инновационного продукта, воспользовавшись бесплатной пробной версией.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-comic-book-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### InteractivePolls.ai - MeetMoji
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interactivepolls.ai---meetmoji.webp" alt="InteractivePolls.ai - MeetMoji">
@@ -230,37 +248,6 @@ dypt — это диспетчер задач для современного с
 Owwlish — это новый и простой способ добавить онлайн-курс на свой сайт, независимо от того, какую платформу вы используете! Просто используйте наш простой конструктор курсов, чтобы создать курс, скопировать и вставить несколько строк кода, и вуаля: ваш курс уже доступен на вашем сайте, чтобы люди могли записаться и начать обучение!
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Face Swap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-swap.webp" alt="AI Face Swap">
-
-#### AI Face Swap - замена и повторное распознавание лица с помощью искусственного интеллекта онлайн
-[Visit](https://www.thataicollection.com/redirect/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ощутите магию Faceswapai.vip, ведущей платформы для простой замены лиц на основе передовой технологии искусственного интеллекта. Раскройте свой творческий потенциал и привнесите удовольствие в свои фотографии с помощью нашего интуитивно понятного интерфейса. С легкостью меняйте лица на изображениях, создавайте забавные мемы и революционизируйте визуальное повествование. 
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### VidBuddy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidbuddy.webp" alt="VidBuddy">
-
-#### VidBuddy - суммирователь резюме на YouTube с искусственным интеллектом (расширение для Chrome)
-[Visit](https://www.thataicollection.com/redirect/vidbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Оптимизируйте просмотр с помощью лучшего расширения Chrome: лучшего инструмента искусственного интеллекта для суммирования видео на YouTube. Получайте быстрые и краткие сводки видео на YouTube и без труда погружайтесь в контент.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/vidbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3016,15 +3003,22 @@ Amadeus Topline — это приложение для сочинения муз
 
 ## NSFW
 
-### undressing.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
+### Undress.cc
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress_.cc.webp" alt="Undress.cc">
 
-#### Раздевание с искусственным интеллектом - БЕСПЛАТНОЕ раздевание фотографий обнаженной натуры с помощью искусственного интеллекта
-[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Undress CC — это генератор обнаженных дипфейков, который может за считанные секунды раздеть абсолютно кого угодно. 
+[Visit](https://www.thataicollection.com/redirect/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Лучшая НОВАЯ БЕСПЛАТНАЯ технология раздевания с искусственным интеллектом! Раздевание на базе искусственного интеллекта для фотографий! Мгновенно меняйте внешний вид. Обнаженные фотографии в один клик. Множество стилей и возможность сделать это в кратчайшие сроки
+Как сделать глубокий обнаженный образ?
+Для этого нужно всего 4 шага
+Войдите на платформу
+Загрузите изображение, которое хотите раздеть
+Выберите желаемое телосложение и возраст
+Нажмите кнопку «СГЕНЕРИРОВАТЬ» и наслаждайтесь конечным результатом
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3048,44 +3042,6 @@ Amadeus Topline — это приложение для сочинения муз
 
 
 
-### Undress.cc
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress_.cc.webp" alt="Undress.cc">
-
-#### Undress CC — это генератор обнаженных дипфейков, который может за считанные секунды раздеть абсолютно кого угодно. 
-[Visit](https://www.thataicollection.com/redirect/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Как сделать глубокий обнаженный образ?
-Для этого нужно всего 4 шага
-Войдите на платформу
-Загрузите изображение, которое хотите раздеть
-Выберите желаемое телосложение и возраст
-Нажмите кнопку «СГЕНЕРИРОВАТЬ» и наслаждайтесь конечным результатом
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Face Swap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-swap.webp" alt="AI Face Swap">
-
-#### AI Face Swap - замена и повторное распознавание лица с помощью искусственного интеллекта онлайн
-[Visit](https://www.thataicollection.com/redirect/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ощутите магию Faceswapai.vip, ведущей платформы для простой замены лиц на основе передовой технологии искусственного интеллекта. Раскройте свой творческий потенциал и привнесите удовольствие в свои фотографии с помощью нашего интуитивно понятного интерфейса. С легкостью меняйте лица на изображениях, создавайте забавные мемы и революционизируйте визуальное повествование. 
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Nudify.online
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online_.webp" alt="Nudify.online">
 
@@ -3103,15 +3059,15 @@ Amadeus Topline — это приложение для сочинения муз
 
 
 
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+### undressing.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
 
-#### undress.vip—2023 лучшее 100% рабочее раздевание в обнаженном виде 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Раздевание с искусственным интеллектом - БЕСПЛАТНОЕ раздевание фотографий обнаженной натуры с помощью искусственного интеллекта
+[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Undress.vip, новаторский инструмент для искусственного интеллекта, лежащий в авангарде этого прогресса. undress.vip—2023 лучшие телеграмы раздевают искусственные боты с искусственным интеллектом на 100% работающим искусственным интеллектом в стиле deepnude и deepfake
+Лучшая НОВАЯ БЕСПЛАТНАЯ технология раздевания с искусственным интеллектом! Раздевание на базе искусственного интеллекта для фотографий! Мгновенно меняйте внешний вид. Обнаженные фотографии в один клик. Множество стилей и возможность сделать это в кратчайшие сроки
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3131,6 +3087,37 @@ Undress.vip, новаторский инструмент для искусств
 Погрузитесь в мир многочисленных девушек с искусственным интеллектом и начните играть прямо сейчас!
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Dittin AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
+
+#### Dittin AI — платформа чат-ботов NSFW AI без цензуры
+[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dittin AI — это платформа чат-ботов NSFW с искусственным интеллектом, построенная на DittinLLM. Благодаря минимальным ограничениям на контент NSFW вы можете общаться с персонажами искусственного интеллекта на самые разные темы. Dittin AI поддерживает 3D-аватары и голосовые сообщения, что позволяет создавать искусственных персонажей и делиться ими с помощью звуковых и интерактивных 3D-аватаров с помощью панели создания.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Nectar AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nectar-ai.webp" alt="Nectar AI">
+
+#### Создайте идеальную девушку мечты за считанные секунды!
+[Visit](https://www.thataicollection.com/redirect/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nectar — это генеративная платформа искусственного интеллекта, которая предлагает два продукта: (1) Image Creator и (2) Roleplay.
+Image Creator — это мощный генеративный инструмент искусственного интеллекта для создания фотографий и видео, а Roleplay позволяет вам исследовать различные фантазии и создать своего собственного персонажа. Наше поколение текста и языка — одно из самых быстрых в отрасли.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

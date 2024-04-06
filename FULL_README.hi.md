@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1235" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1238" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
     </a>
-    <h4>AI अनड्रेसिंग - AI अनड्रेसिंग के ज़रिए फ़ोटो मुफ़्त में न्यूडिफ़ाई करें</h4>
-    <p>सबसे अच्छी नई मुफ़्त AI अनड्रेसिंग तकनीक! तस्वीरों के लिए AI से चलने वाली अनड्रेसिंग! तुरन्त रूप बदलो। एक क्लिक में नंगी तस्वीरें। कई स्टाइल और प्रॉम्प्ट के साथ इसे करने के अवसर</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>undressing.io के साथ आरंभ करें</b></a>
+    <h4>एक डिजिटल ट्विन बनाएं, जानें कि तुम असल में कौन हो, इसे ऐप्स की मदद से ले जाओ और टेक के भविष्य का अनुभव करो। </h4>
+    <p>वाना की मदद से तुम अपने डेटा और AI की ताकत का इस्तेमाल करके मिनी- “तुम” बना सकते हो। अपनी आवाज़ क्लोन करें, सेल्फी जेनरेट करें, और उनसे बात करके जानें कि तुम्हारा डेटा तुम्हारे बारे में क्या कहता है। वैयक्तिकृत गेम, सिमुलेशन और AI सहायक टूल खोजने के लिए वाना नेटवर्क के ऐप्लिकेशन में AI- “तुम” को ले जाओ। वाना तुम्हेंं तुम्हारे डेटा और एआई के नियंत्रण में रखती है, और तुम्हेंं इसे जादुई चीज़ में बदलने की सुविधा मिलती है। </p>
+    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Vana के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -72,19 +72,6 @@
     <h4>अपनी सेल्फी को प्रोफ़ेशनल हेडशॉट में बदलो</h4>
     <p>मार्केट में सबसे सटीक पेशेवर हेडशॉट जनरेटर। सबसे अच्छी पहली छापों के लिए तैयार की गई रचना। पेशेवरों और टीमों के लिए उपयुक्त।</p>
     <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>The Multiverse AI के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
-    </a>
-    <h4>एक डिजिटल ट्विन बनाएं, जानें कि तुम असल में कौन हो, इसे ऐप्स की मदद से ले जाओ और टेक के भविष्य का अनुभव करो। </h4>
-    <p>वाना की मदद से तुम अपने डेटा और AI की ताकत का इस्तेमाल करके मिनी- “तुम” बना सकते हो। अपनी आवाज़ क्लोन करें, सेल्फी जेनरेट करें, और उनसे बात करके जानें कि तुम्हारा डेटा तुम्हारे बारे में क्या कहता है। वैयक्तिकृत गेम, सिमुलेशन और AI सहायक टूल खोजने के लिए वाना नेटवर्क के ऐप्लिकेशन में AI- “तुम” को ले जाओ। वाना तुम्हेंं तुम्हारे डेटा और एआई के नियंत्रण में रखती है, और तुम्हेंं इसे जादुई चीज़ में बदलने की सुविधा मिलती है। </p>
-    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Vana के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -458,6 +445,7 @@
 | नाम | शीर्षक | विवरण | मुफ्त संस्करण प्रदान करें |
 |---|---|---|:---:|
 | [AI ColoringPage Generator](https://www.thataicollection.com/redirect/ai-coloringpage-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई कलरिंग पेज ऑनलाइन! मुफ़्त AI कलरिंग पेज जेनरेटर, यह AI का इस्तेमाल करके प्रॉम्प्ट शब्दों से कलरिंग पेज बनाता है।. | एआई कलरिंगपेज ऑनलाइन एक आर्टिफिशियल इंटेलीजेंस (एआई) टूल है, जिसे अनोखे और प्रिंट करने योग्य कलरिंग पेज बनाने के लिए डिज़ाइन किया गया है। यूज़र त्वरित शब्द इनपुट करते हैं और सिस्टम इस जानकारी का उपयोग अनोखे, उच्च गुणवत्ता वाले कलरिंग पेज बनाने के लिए करता है।. | :white_check_mark: |
+| [AI Comic Book Factory](https://www.thataicollection.com/redirect/ai-comic-book-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मुफ्त में ऑनलाइन एआई कॉमिक बुक क्रिएशन टूल. | अपनी रचनात्मकता दिखाओ और एआई कॉमिक फ़ैक्टरी के साथ एआई-संचालित कॉमिक बुक क्रिएशन की दुनिया में डूब जाओ। हमारे फ़्री ट्रायल के ज़रिए हमारे नवोन्मेषी प्रॉडक्ट की सुविधाओं और अनुप्रयोगों का पहली बार अनुभव करें।. | :white_check_mark: |
 | [AI Comic Factory](https://www.thataicollection.com/redirect/ai-comic-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI कॉमिक फ़ैक्टरी एक ऑनलाइन प्लेटफ़ॉर्म है, जिसकी मदद से तुम्हेंं AI की मदद से अपनी कॉमिक्स बनाने की सुविधा देता है।. | AI Comic Factory एक मुफ़्त और ओपन-सोर्स एप्लिकेशन है, जिसे AI मॉडल की क्षमताओं को प्रदर्शित करने के लिए बनाया गया है।  हर पैनल के विवरण जेनरेट करने के लिए इस्तेमाल किया जाने वाला भाषा मॉडल लामा-2 70b है। इमेज जेनरेट करने के लिए जिस स्टेबल डिफ़्यूज़न मॉडल का इस्तेमाल किया गया, वह है बेस SDXL 1.0। कोड सार्वजनिक है और आर्किटेक्चर के बारे में जानकारी के लिए README में कुछ बदलावों के साथ इसे घर पर ही लागू किया जा सकता है।. | :white_check_mark: |
 | [AI Emoji Generator](https://www.thataicollection.com/redirect/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI इमोजी जेनरेटर: कुछ ही सेकंड में टेक्स्ट को एक्सप्रेसिव इमोजी में ट्रांसफ़ॉर्म करना।. | AI इमोजी जेनरेटर एक नवोन्मेषी टूल है, जो शब्दों को इमोजी में बदलकर तुम्हारे टेक्स्ट को जीवंत बनाता है।   बस किसी भी वाक्यांश या भावना को इनपुट करें, और टूल समझदारी से प्रासंगिक इमोजी को चुनता है और जनरेट करता है, जिससे एक मजेदार, विज़ुअल ट्विस्ट के साथ डिजिटल संचार बढ़ता है।   मैसेज, सोशल मीडिया पोस्ट या किसी भी तरह के डिजिटल कॉन्टेंट की जानकारी देने के लिए बहुत बढ़िया।. | :white_check_mark: |
 | [AI Funko Pop Generator](https://www.thataicollection.com/redirect/ai-funko-pop-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई फ़नको पॉप जेनरेटर आर्टिफ़िशियल इंटेलीजेंस पर आधारित एक मुफ़्त इमेज जनरेटर है।. | एआई फ़नको पॉप जेनरेटर आर्टिफ़िशियल इंटेलीजेंस पर आधारित एक मुफ़्त इमेज जनरेटर है। यह यूज़र द्वारा बताए गए विवरण के अनुसार व्यक्तिगत फ़नको पॉप इमेज बना सकता है, जिससे तुम्हारी कस्टमाइज्ड इमेज एक सेकंड से भी कम समय में डिलीवर हो जाएगी।. | :white_check_mark: |
@@ -739,6 +727,7 @@
 | [Andisearch](https://www.thataicollection.com/redirect/andisearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एंडी - AI की ताकत का इस्तेमाल करके अगली पीढ़ी को खोजें. | एंडी जेनेरेटिव AI का इस्तेमाल करके अगली पीढ़ी को खोजना है। सिर्फ़ लिंक के बजाय, एंडी तुम्हेंं जवाब देता है - जैसे किसी स्मार्ट दोस्त से बात करना. | :white_check_mark: |
 | [Anypod](https://www.thataicollection.com/redirect/anypod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रचनाकारों के लिए निर्मित खोज इंजन. | हम आपकी सामग्री को खोजने योग्य बनाते हैं. | :white_check_mark: |
 | [Broker One AI Engine](https://www.thataicollection.com/redirect/broker-one-ai-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ब्रोकर वन एआई इंजन एक एआई-संचालित उपकरण है जो रियल एस्टेट को सरल बनाता है।. | ब्रोकर वन एआई इंजन एक अत्याधुनिक, एआई-संचालित टूल है जिसे विशेष रूप से रियल एस्टेट की जटिल दुनिया के लिए डिज़ाइन किया गया है। यह नवोन्वेषी प्लेटफ़ॉर्म संपत्तियों के विशाल और व्यापक डेटासेट के साथ कृत्रिम बुद्धिमत्ता की शक्ति को जोड़ता है ताकि सटीक संपत्ति मूल्यांकन प्रदान किया जा सके और कुशल संपत्ति ब्राउज़िंग सक्षम की जा सके। ब्रोकर वन एआई इंजन अपनी परिष्कृत संपत्ति खोज कार्यक्षमता के साथ अलग दिखता है।. | :white_check_mark: |
+| [Circle to Search](https://www.thataicollection.com/redirect/circle-to-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | अजूबे से ज्ञान की ओर, बस एक घड़ी दूर. | Circle to Search की मदद से आसानी से जानकारी प्राप्त करने की शक्ति को अनलॉक करें, यह बेहतरीन Chrome एक्सटेंशन है, जिसे तुम्हारे ब्राउज़िंग अनुभव को बेहतर बनाने के लिए डिज़ाइन किया गया है। यह नवोन्मेषी टूल तुम्हारी ऑनलाइन खोज करने के तरीके को बदल देता है, जिससे तुम अपने मौजूदा वेब पेज में किसी भी टेक्स्ट या छवि सामग्री को आसानी से हाइलाइट कर सकते हो और उसे खोज सकते हो।. | :white_check_mark: |
 | [Context Search](https://www.thataicollection.com/redirect/context-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | संदर्भ - YouTube प्लेलिस्ट में मौजूद कॉन्टेंट के लिए AI-संचालित ऑडियो और वीडियो खोजें।. | YouTube प्लेलिस्ट में कॉन्टेंट ढूंढें। किसी खास कीवर्ड या वाक्यांश के लिए पूरी YouTube प्लेलिस्ट या चैनल पर आसानी से खोजें। कॉन्टेंट बनाने वालों के लिए बनाया गया है।. | :grey_question: |
 | [Everypixel](https://www.thataicollection.com/redirect/everypixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्टॉक इमेज सर्च इंजन - 50 से ज़्यादा बेहतरीन स्रोत - एवरीपिक्सल. | खराब स्टॉक फ़ोटो से नफरत करने वाले सभी लोगों के लिए स्टॉक इमेज फ़ाइंडर। सबसे कम कीमत में सबसे अच्छी लाइसेंस प्राप्त छवियों को खोजने के लिए इसका इस्तेमाल करें। 50 से ज़्यादा इमेज सोर्स।. | :grey_question: |
 | [Gptsapp.io](https://www.thataicollection.com/redirect/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | GPT बनाने की सीमा बहुत कम है, जिससे यूज़र के लिए अच्छे कोड ढूंढना मुश्किल हो जाता है। इसलिए, gptsapp.io ने 600,000+ से ज़्यादा बेहतरीन GPTs ऐप का आयोजन किया है, जिसमें रजिस्ट्रेशन के लिए उपहार दिए गए हैं।. | GPTSapp.io “सबसे अच्छा GPTs ऐप” के रूप में सामने आता है, जो यूज़र को एडवांस GPT-आधारित एप्लिकेशन खोजने और उन्हें उनके दैनिक रूटीन में एकीकृत करने का एक अनोखा गेटवे प्रदान करता है। वेबसाइट GPTSapp.io कस्टम ChatGPT ऐप्स की विशाल दुनिया में घूमने के लिए एक केंद्रीय केंद्र के रूप में काम करती है, जो इसे व्यक्तियों और व्यवसायों दोनों के लिए एक अनिवार्य संसाधन बनाती है।. | :white_check_mark: |

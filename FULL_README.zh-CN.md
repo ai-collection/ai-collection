@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1235" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1238" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -72,19 +72,6 @@
     <h4>把你的自拍变成专业头像</h4>
     <p>市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。</p>
     <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 The Multiverse AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
-    </a>
-    <h4>AI Undressing-使用 AI Undressing 免费裸体照片</h4>
-    <p>最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 undressing.io</b></a>
     <br />
 </div>
 
@@ -718,6 +705,7 @@
 | [Andisearch](https://www.thataicollection.com/redirect/andisearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Andi-利用人工智能的力量寻找下一代. | 安迪正在使用生成式人工智能寻找下一代。Andi 不只是链接，而是给你答案——比如和聪明的朋友聊天. | :white_check_mark: |
 | [Anypod](https://www.thataicollection.com/redirect/anypod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为创作者打造的搜索引擎. | 我们让您的内容可搜索. | :white_check_mark: |
 | [Broker One AI Engine](https://www.thataicollection.com/redirect/broker-one-ai-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Broker One AI 引擎是一款人工智能驱动的工具，可简化房地产业务。. | Broker One AI Engine 是一款最先进的人工智能工具，专为复杂的房地产世界而设计。这个创新平台将人工智能的力量与庞大而全面的房产数据集相结合，提供准确的房产估价并实现高效的房产浏览。 Broker One AI Engine 以其复杂的房产搜索功能脱颖而出。. | :white_check_mark: |
+| [Circle to Search](https://www.thataicollection.com/redirect/circle-to-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 从奇迹到智慧，只需拖一步. | Circle to Search是一款终极版Chrome扩展程序，旨在增强您的浏览体验，借助Circle to Search解锁轻松检索信息的力量。这个创新的工具改变了您的在线搜索方式，使您可以无缝地突出显示和搜索当前网页中的任何文本或图像内容。. | :white_check_mark: |
 | [Context Search](https://www.thataicollection.com/redirect/context-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 上下文-由人工智能驱动的音频和视频搜索 YouTube 播放列表中的内容。. | 在 YouTube 播放列表中搜索内容。 在整个 YouTube 播放列表或频道中轻松搜索特定的关键字或短语。专为内容创作者打造。. | :grey_question: |
 | [Everypixel](https://www.thataicollection.com/redirect/everypixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 图库图片搜索引擎-50 多个最佳来源-Everypixel. | 图库图片查找器适合所有讨厌劣库存照片的人。使用它可以以最低的价格找到最好的许可图片。超过 50 个图像来源。. | :grey_question: |
 | [Gptsapp.io](https://www.thataicollection.com/redirect/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创建 GPT 的门槛太低，使用户很难找到好的 GPT。因此，gptsapp.io已经组织了超过60万个最佳GPTs应用程序，并附有注册礼物。. | GPTSapp.io作为 “最佳GPTS应用程序” 脱颖而出，它为用户提供了一个独特的门户，可以发现基于GPT的高级应用程序并将其集成到他们的日常生活中。GptSapp.io 网站是探索自定义 ChatGPT 应用程序广阔世界的中心枢纽，使其成为个人和企业不可或缺的资源。. | :white_check_mark: |
@@ -1283,6 +1271,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [AI ColoringPage Generator](https://www.thataicollection.com/redirect/ai-coloringpage-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI ColoringPage 在线！免费的人工智能着色页生成器，它使用人工智能根据提示词生成彩页。. | AI ColoringPage Online 是一款人工智能 (AI) 工具，旨在生成独特且可打印的彩页。用户输入提示词，系统使用这些信息来创建独特、高质量的彩页。. | :white_check_mark: |
+| [AI Comic Book Factory](https://www.thataicollection.com/redirect/ai-comic-book-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 免费的在线 AI 漫画书创作工具. | 使用 AI Comic Factory 释放你的创造力，让自己沉浸在 AI 驱动的漫画创作世界中。通过我们的免费试用，亲身体验我们创新产品的功能和应用。. | :white_check_mark: |
 | [AI Comic Factory](https://www.thataicollection.com/redirect/ai-comic-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Comic Factory 是一个在线平台，允许你在人工智能的帮助下生成自己的漫画。. | AI Comic Factory 是一款免费的开源应用程序，旨在演示人工智能模型的功能。  用于生成每个面板描述的语言模型是 Llama-2 70b。 用于生成图像的稳定扩散模型是 SDXL 1.0 的基础。 该代码是公开的，可以在家中部署，只需在README中进行一些更改，以获取有关架构的详细信息。. | :white_check_mark: |
 | [AI Emoji Generator](https://www.thataicollection.com/redirect/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 表情符号生成器：在几秒钟内将文本转换为富有表现力的表情符号。. | AI 表情符号生成器是一款创新工具，可通过将单词转换为表情符号来使您的文字生动起来。   只需输入任何短语或情感，该工具就会智能地选择和生成相关的表情符号，通过有趣的视觉效果增强数字沟通。   非常适合为信息、社交媒体帖子或任何形式的数字内容增添趣味。. | :white_check_mark: |
 | [AI Funko Pop Generator](https://www.thataicollection.com/redirect/ai-funko-pop-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Funko Pop 生成器是一款基于人工智能的免费图像生成器。. | AI Funko Pop 生成器是一款基于人工智能的免费图像生成器。它可以根据用户指定的描述创建个性化的 Funko Pop 图像，在不到一秒钟的时间内交付您的自定义图像。. | :white_check_mark: |

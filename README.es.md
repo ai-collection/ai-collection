@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1235" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1238" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -51,19 +51,6 @@
     <h5>Mejores opciones</h5>
     <p>Las mejores opciones de AI Collection son</p>
 </div>
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
-    </a>
-    <h4>Desvestirse con IA: desnuda fotos GRATIS con AI Undressing</h4>
-    <p>¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con undressing.io</b></a>
-    <br />
-</div>
-
-<br>
-
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -150,6 +137,37 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 😎 [Avatares](#avatares)
 ## Latest Additions to AI Collection
 
+### Circle to Search
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-circle-to-search.webp" alt="Circle to Search">
+
+#### Del asombro a la sabiduría, solo un arrastrón
+
+[Visit](https://www.thataicollection.com/redirect/circle-to-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Libera el poder de recuperar información sin esfuerzo con Circle to Search, la extensión de Chrome definitiva diseñada para mejorar tu experiencia de navegación. Esta innovadora herramienta transforma la forma de buscar en Internet, ya que te permite resaltar y buscar sin problemas cualquier contenido de texto o imagen en tu página web actual.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/circle-to-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI Comic Book Factory
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-comic-book-factory.webp" alt="AI Comic Book Factory">
+
+#### Herramientas de creación de cómics con IA en línea gratis
+[Visit](https://www.thataicollection.com/redirect/ai-comic-book-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Da rienda suelta a tu creatividad y sumérgete en el mundo de la creación de cómics impulsada por la IA con AI Comic Factory. Disfruta de primera mano de las funciones y aplicaciones de nuestro innovador producto a través de nuestra prueba gratuita.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/ai-comic-book-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### InteractivePolls.ai - MeetMoji
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interactivepolls.ai---meetmoji.webp" alt="InteractivePolls.ai - MeetMoji">
 
@@ -230,37 +248,6 @@ Pulsa el botón «GENERAR» y disfruta del resultado final
 Owwlish es la nueva y sencilla forma de añadir un curso en línea a tu sitio web, sin importar la plataforma de sitios web que utilices. Solo tienes que utilizar nuestro sencillo creador de cursos para crear un curso, copiar y pegar unas líneas de código y listo: tu curso está disponible en tu sitio web para que la gente se inscriba y comience a aprender.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Face Swap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-swap.webp" alt="AI Face Swap">
-
-#### Intercambio de rostros con IA: intercambio y refacio de rostros con inteligencia artificial en línea
-[Visit](https://www.thataicollection.com/redirect/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Vive la magia de FaceSwapai.vip, la principal plataforma para intercambiar rostros sin esfuerzo con tecnología de inteligencia artificial avanzada. Mejora tu creatividad e inyecta diversión a tus fotos con nuestra interfaz intuitiva. Cambia rostros en las imágenes con facilidad, crea memes divertidos y revoluciona tu narración visual. 
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### VidBuddy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidbuddy.webp" alt="VidBuddy">
-
-#### VidBuddy: resumen de YouTube con IA (extensión para Chrome)
-[Visit](https://www.thataicollection.com/redirect/vidbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Optimiza tu visualización con la extensión de Chrome definitiva: la mejor herramienta de IA para resumir vídeos de YouTube. Obtén resúmenes de vídeos de YouTube rápidos y concisos y profundiza en el contenido sin esfuerzo.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/vidbuddy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3017,15 +3004,22 @@ Amadeus Topline es una aplicación de composición basada en la IA para todos lo
 
 ## NSFW
 
-### undressing.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
+### Undress.cc
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress_.cc.webp" alt="Undress.cc">
 
-#### Desvestirse con IA: desnuda fotos GRATIS con AI Undressing
-[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Undress CC es un generador de desnudos falsos que puede desvestir a absolutamente cualquier persona en cuestión de segundos. 
+[Visit](https://www.thataicollection.com/redirect/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez
+¿Cómo puedes hacer un Deep Nude?
+Solo se necesitan estos 4 pasos
+Iniciar sesión en la plataforma
+Sube una imagen que te gustaría desvestirte
+Elige las especificaciones de cuerpo y edad deseadas
+Pulsa el botón «GENERAR» y disfruta del resultado final
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3049,44 +3043,6 @@ Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para r
 
 
 
-### Undress.cc
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress_.cc.webp" alt="Undress.cc">
-
-#### Undress CC es un generador de desnudos falsos que puede desvestir a absolutamente cualquier persona en cuestión de segundos. 
-[Visit](https://www.thataicollection.com/redirect/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¿Cómo puedes hacer un Deep Nude?
-Solo se necesitan estos 4 pasos
-Iniciar sesión en la plataforma
-Sube una imagen que te gustaría desvestirte
-Elige las especificaciones de cuerpo y edad deseadas
-Pulsa el botón «GENERAR» y disfruta del resultado final
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Face Swap
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-face-swap.webp" alt="AI Face Swap">
-
-#### Intercambio de rostros con IA: intercambio y refacio de rostros con inteligencia artificial en línea
-[Visit](https://www.thataicollection.com/redirect/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Vive la magia de FaceSwapai.vip, la principal plataforma para intercambiar rostros sin esfuerzo con tecnología de inteligencia artificial avanzada. Mejora tu creatividad e inyecta diversión a tus fotos con nuestra interfaz intuitiva. Cambia rostros en las imágenes con facilidad, crea memes divertidos y revoluciona tu narración visual. 
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Nudify.online
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online_.webp" alt="Nudify.online">
 
@@ -3104,15 +3060,15 @@ Generador de fotos Undress AI para desnudos profundos gratis. Desnuda la IA de D
 
 
 
-### Undress.Vip
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+### undressing.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
 
-#### undress.vip—2023 mejor vestido 100% funcional ai deepnude 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Desvestirse con IA: desnuda fotos GRATIS con AI Undressing
+[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023
+¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3132,6 +3088,37 @@ Ya sea sobrevivir en una isla desierta, navegar por el espacio en una nave espac
 ¡Sumérgete en el mundo de numerosas chicas de la IA y empieza a jugar ahora!
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Dittin AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
+
+#### Dittin AI: plataforma de chatbots de IA de la NSFW sin censura
+[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dittin AI es una plataforma de chatbots de IA de la NSFW basada en DittinLLM. Con restricciones mínimas en cuanto al contenido de la NSFW, puedes entablar conversaciones con personajes de la IA sobre una amplia gama de temas. La IA de Dittin admite avatares 3D y mensajes de voz, lo que te permite crear y compartir personajes de IA con avatares 3D interactivos y sonoros mediante el panel de creación.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Nectar AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nectar-ai.webp" alt="Nectar AI">
+
+#### ¡Crea la chica de tus sueños perfecta en solo unos segundos!
+[Visit](https://www.thataicollection.com/redirect/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nectar es una plataforma de IA generativa que ofrece dos productos: (1) creador de imágenes y (2) juego de rol.
+Image Creator es una poderosa herramienta de IA generativa para crear fotos y vídeos, mientras que los juegos de rol te permiten explorar diferentes fantasías y crear tu personaje personalizado. Nuestra generación, tanto para el texto como para el idioma, es una de las más rápidas de la industria.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

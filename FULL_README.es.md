@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1235" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1238" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -51,19 +51,6 @@
     <h5>Mejores opciones</h5>
     <p>Las mejores opciones de AI Collection son</p>
 </div>
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
-    </a>
-    <h4>Desvestirse con IA: desnuda fotos GRATIS con AI Undressing</h4>
-    <p>¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con undressing.io</b></a>
-    <br />
-</div>
-
-<br>
-
 
 <div align="center">
     <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -780,6 +767,7 @@
 | Nombre | Título | Descripción | Ofrecer versión gratuita |
 |---|---|---|:---:|
 | [AI ColoringPage Generator](https://www.thataicollection.com/redirect/ai-coloringpage-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ¡Página para colorear de IA en línea! Generador de páginas para colorear con IA gratuito, genera páginas para colorear a partir de palabras rápidas mediante IA. | AI ColoringPage Online es una herramienta de inteligencia artificial (IA) diseñada para generar páginas para colorear únicas e imprimibles. Los usuarios escriben palabras rápidas y el sistema utiliza esta información para crear páginas para colorear únicas y de alta calidad. | :white_check_mark: |
+| [AI Comic Book Factory](https://www.thataicollection.com/redirect/ai-comic-book-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Herramientas de creación de cómics con IA en línea gratis. | Da rienda suelta a tu creatividad y sumérgete en el mundo de la creación de cómics impulsada por la IA con AI Comic Factory. Disfruta de primera mano de las funciones y aplicaciones de nuestro innovador producto a través de nuestra prueba gratuita. | :white_check_mark: |
 | [AI Comic Factory](https://www.thataicollection.com/redirect/ai-comic-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The AI Comic Factory es una plataforma online que te permite generar tus propios cómics con la ayuda de la IA. | AI Comic Factory es una aplicación gratuita y de código abierto creada para demostrar las capacidades de los modelos de IA.  El modelo lingüístico utilizado para generar las descripciones de cada panel es Llama-2 70b. El modelo de difusión estable utilizado para generar las imágenes es la SDXL 1.0 básica. El código es público y se puede implementar en casa con algunos cambios en el README para obtener más información sobre la arquitectura. | :white_check_mark: |
 | [AI Emoji Generator](https://www.thataicollection.com/redirect/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generador de emojis de IA: transforma el texto en emojis expresivos en segundos. | El generador de emojis de IA es una herramienta innovadora que da vida a tu texto al convertir las palabras en emojis.   Simplemente introduce cualquier frase o sentimiento y la herramienta seleccionará y generará de forma inteligente los emojis relevantes, lo que mejorará la comunicación digital con un toque visual y divertido.   Perfecto para condimentar mensajes, publicaciones en redes sociales o cualquier tipo de contenido digital. | :white_check_mark: |
 | [AI Funko Pop Generator](https://www.thataicollection.com/redirect/ai-funko-pop-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | El generador Funko Pop de IA es un generador de imágenes gratuito basado en inteligencia artificial. | El generador Funko Pop de IA es un generador de imágenes gratuito basado en inteligencia artificial. Puede crear imágenes Funko Pop personalizadas según las descripciones especificadas por el usuario, y entregar tu imagen personalizada en menos de un segundo. | :white_check_mark: |
@@ -1054,6 +1042,7 @@
 | [Andisearch](https://www.thataicollection.com/redirect/andisearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Andi: busca la próxima generación con el poder de la IA. | Andi busca a la próxima generación mediante la IA generativa. En lugar de solo enlaces, Andi te da respuestas, como charlar con un amigo inteligente. | :white_check_mark: |
 | [Anypod](https://www.thataicollection.com/redirect/anypod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Motores de búsqueda creados para creadores. | Hacemos que tu contenido sea buscable. | :white_check_mark: |
 | [Broker One AI Engine](https://www.thataicollection.com/redirect/broker-one-ai-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Broker One AI Engine es una herramienta impulsada por IA que simplifica el sector inmobiliario. | Broker One AI Engine es una herramienta de última generación impulsada por IA diseñada específicamente para el complejo mundo de los bienes raíces. Esta innovadora plataforma combina el poder de la inteligencia artificial con un amplio y completo conjunto de datos de propiedades para proporcionar valoraciones precisas de propiedades y permitir una búsqueda eficiente de propiedades. Broker One AI Engine se destaca por su sofisticada funcionalidad de búsqueda de propiedades. | :white_check_mark: |
+| [Circle to Search](https://www.thataicollection.com/redirect/circle-to-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Del asombro a la sabiduría, solo un arrastrón. | Libera el poder de recuperar información sin esfuerzo con Circle to Search, la extensión de Chrome definitiva diseñada para mejorar tu experiencia de navegación. Esta innovadora herramienta transforma la forma de buscar en Internet, ya que te permite resaltar y buscar sin problemas cualquier contenido de texto o imagen en tu página web actual. | :white_check_mark: |
 | [Context Search](https://www.thataicollection.com/redirect/context-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Contexto: búsqueda de audio y vídeo con tecnología de IA para encontrar contenido en las listas de reproducción de YouTube. | Busca contenido en las listas de reproducción de YouTube. Busca fácilmente en todas las listas de reproducción o canales de YouTube una palabra clave o frase específica. Creado para creadores de contenido. | :grey_question: |
 | [Everypixel](https://www.thataicollection.com/redirect/everypixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Buscador de imágenes de archivo - Más de 50 de las mejores fuentes - Everypixel. | Buscador de imágenes de archivo para todos los que odian las malas fotos de archivo. Úsala para encontrar las mejores imágenes con licencia al precio más bajo. Más de 50 fuentes de imágenes. | :grey_question: |
 | [Gptsapp.io](https://www.thataicollection.com/redirect/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | El umbral para crear GPT es demasiado bajo, lo que hace que a los usuarios les resulte bastante difícil encontrar unos buenos. Por eso, gptsapp.io ha organizado más de 600 000 mejores aplicaciones de GPTS, con un regalo por registrarse. | GPTSapp.io se destaca como la «mejor aplicación de GPTS» y ofrece una puerta de entrada única para que los usuarios descubran e integren aplicaciones avanzadas basadas en el GPT en sus rutinas diarias. El sitio web GPTSapp.io sirve como centro para explorar el amplio mundo de las aplicaciones ChatGPT personalizadas, lo que lo convierte en un recurso indispensable tanto para particulares como para empresas. | :white_check_mark: |

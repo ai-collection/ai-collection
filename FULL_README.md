@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1235" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1238" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -78,19 +78,6 @@ Translations:
     <h4>Turn your selfies into professional headshots</h4>
     <p>The highest accuracy professional headshot generator on the market. Tailored composition for the best first impressions. Ideal for professionals and teams.</p>
     <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with The Multiverse AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
-    </a>
-    <h4>AI Undressing - Nudify Photos for FREE with AI Undressing</h4>
-    <p>Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instantly transform looks. Nude photos in one click. Many styles and opportunity to do it with prompt</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with undressing.io</b></a>
     <br />
 </div>
 
@@ -199,6 +186,7 @@ Translations:
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI ColoringPage Generator](https://www.thataicollection.com/redirect/ai-coloringpage-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI ColoringPage Online !Free AI ColoringPage Generator, It generates coloring page from a prompt words using AI. | AI ColoringPage Online is an artificial intelligence (AI) tool designed to generate unique and printable coloring pages. Users input prompt words and the system uses this information to create unique, high quality coloring pages. | :white_check_mark: |
+| [AI Comic Book Factory](https://www.thataicollection.com/redirect/ai-comic-book-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Online AI Comic Book Creation Tools for Free. | Unleash your creativity and immerse yourself in the world of AI-powered comic book creation with AI Comic Factory. Experience firsthand the features and applications of our innovative product through our free trial. | :white_check_mark: |
 | [AI Comic Factory](https://www.thataicollection.com/redirect/ai-comic-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The AI Comic Factory is an online platform that allows you to generate your own comics with the help of AI. | AI Comic Factory is a free and open-source application made to demonstrate the capabilities of AI models.  The language model used to generate the descriptions of each panel is Llama-2 70b. The stable diffusion model used to generate the images is the base SDXL 1.0. The code is public and can be deployed at home with some changes in README for details about the architecture. | :white_check_mark: |
 | [AI Emoji Generator](https://www.thataicollection.com/redirect/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Emoji Generator: Transforming Text into Expressive Emojis in Seconds. | The AI Emoji Generator is an innovative tool that brings your text to life by converting words into emojis.   Simply input any phrase or sentiment, and the tool intelligently selects and generates relevant emojis, enhancing digital communication with a fun, visual twist.   Perfect for spicing up messages, social media posts, or any form of digital content. | :white_check_mark: |
 | [AI Funko Pop Generator](https://www.thataicollection.com/redirect/ai-funko-pop-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The AI Funko Pop Generator is a free image generator based on artificial intelligence. | The AI Funko Pop Generator is a free image generator based on artificial intelligence. It can create personalized Funko Pop images according to user-specified descriptions, delivering your customized image in less than a second. | :white_check_mark: |
@@ -1261,6 +1249,7 @@ Translations:
 | [Andisearch](https://www.thataicollection.com/redirect/andisearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Andi - Search for the Next Generation using the power of AI. | Andi is search for the next generation using generative AI. Instead of just links, Andi gives you answers - like chatting with a smart friend. | :white_check_mark: |
 | [Anypod](https://www.thataicollection.com/redirect/anypod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Search Engines Built for Creators. | We make your content searchable. | :white_check_mark: |
 | [Broker One AI Engine](https://www.thataicollection.com/redirect/broker-one-ai-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Broker One AI Engine Is an AI-powered Tool That Simplifies Real Estate. | Broker One AI Engine is a state-of-the-art, AI-powered tool designed specifically for the complex world of real estate. This innovative platform combines the power of artificial intelligence with a vast and comprehensive dataset of properties to provide accurate property valuations and enable efficient property browsing. Broker One AI Engine stands out with its sophisticated property search functionality. | :white_check_mark: |
+| [Circle to Search](https://www.thataicollection.com/redirect/circle-to-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | From wonder to wisdom, just one drag away. | Unlock the power of effortless information retrieval with Circle to Search, the ultimate Chrome extension designed to enhance your browsing experience. This innovative tool transforms the way you search online, allowing you to seamlessly highlight and search for any text or image content within your current web page. | :white_check_mark: |
 | [Context Search](https://www.thataicollection.com/redirect/context-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Context - AI-Powered Audio & Video Search for content within YouTube playlists. | Search for content within YouTube playlists. Easily search across entire YouTube playlists or channels for a specific keyword or phrase. Made for content creators. | :grey_question: |
 | [Everypixel](https://www.thataicollection.com/redirect/everypixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Stock Image Search Engine - More Than 50 Best Sources - Everypixel. | Stock image finder for all who hate bad stock photos. Use it to find the best licensed images for the lowest price. More than 50 image sources. | :grey_question: |
 | [Gptsapp.io](https://www.thataicollection.com/redirect/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The threshold for creating GPTs is too low, making it quite painful for users to find good ones. Therefore, gptsapp.io has organized over 600,000+ best GPTs App, with a gift for registration. | GPTsApp.io stands out as the "Best GPTs APP," offering a unique gateway for users to discover and integrate advanced GPT-based applications into their daily routines. The website GPTsApp.io serves as a central hub for exploring the expansive world of custom ChatGPT Apps, making it an indispensable resource for both individuals and businesses. | :white_check_mark: |

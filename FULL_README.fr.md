@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1235" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1238" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -53,38 +53,25 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
-    </a>
-    <h4>Crée un jumeau numérique, découvre qui tu es vraiment, passe aux apps et découvre le futur de la technologie. </h4>
-    <p>Vana te permet de créer un mini-« toi » en utilisant la puissance de tes données et de l''IA. Clonez ta voix, génère des selfies et découvre ce que tes données disent de toi en leur parlant. Dirige AI-"You » vers les applications du réseau Vana pour découvrir des jeux personnalisés, des simulations et des outils d''assistance à l''intelligence artificielle. Vana te donne le contrôle de tes données et de ton IA, et te permet de les transformer en quelque chose de magique. </p>
-    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Vana</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io" border="0"/>
-    </a>
-    <h4>AI Undressing - Nudifie des photos GRATUITEMENT avec AI Undressing</h4>
-    <p>Meilleure nouvelle technologie de déshabillage IA GRATUITE ! Se déshabiller grâce à l''IA pour les photos ! Transforme instantanément l''apparence. Des photos de nu en un clic. De nombreux styles et la possibilité de le faire rapidement</p>
-    <a href="https://www.thataicollection.com/redirect/undressing.io/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec undressing.io</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
     </a>
     <h4>Transforme tes selfies en portraits professionnels</h4>
     <p>Le générateur de headshots professionnel le plus précis du marché. Composition sur mesure pour une première impression optimale. Idéal pour les professionnels et les équipes.</p>
     <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec The Multiverse AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
+    </a>
+    <h4>Crée un jumeau numérique, découvre qui tu es vraiment, passe aux apps et découvre le futur de la technologie. </h4>
+    <p>Vana te permet de créer un mini-« toi » en utilisant la puissance de tes données et de l''IA. Clonez ta voix, génère des selfies et découvre ce que tes données disent de toi en leur parlant. Dirige AI-"You » vers les applications du réseau Vana pour découvrir des jeux personnalisés, des simulations et des outils d''assistance à l''intelligence artificielle. Vana te donne le contrôle de tes données et de ton IA, et te permet de les transformer en quelque chose de magique. </p>
+    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Vana</b></a>
     <br />
 </div>
 
@@ -645,6 +632,7 @@
 | Nom | Titre | Description | Offrir une version gratuite |
 |---|---|---|:---:|
 | [AI ColoringPage Generator](https://www.thataicollection.com/redirect/ai-coloringpage-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Page à colorier AI en ligne ! Générateur de pages à colorier IA gratuit, il génère des pages à colorier à partir de mots rapides grâce à l''IA. | AI ColoringPage Online est un outil d''intelligence artificielle (IA) conçu pour générer des pages à colorier uniques et imprimables. Les utilisateurs saisissent des mots rapides et le système utilise ces informations pour créer des pages à colorier uniques et de haute qualité. | :white_check_mark: |
+| [AI Comic Book Factory](https://www.thataicollection.com/redirect/ai-comic-book-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Outils de création de bandes dessinées IA en ligne gratuits. | Laisse libre cours à ta créativité et plonge dans le monde de la création de comics basée sur l'IA avec AI Comic Factory. Découvrez de première main les fonctionnalités et les applications de notre produit innovant grâce à notre essai gratuit. | :white_check_mark: |
 | [AI Comic Factory](https://www.thataicollection.com/redirect/ai-comic-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The AI Comic Factory est une plateforme en ligne qui te permet de créer tes propres bandes dessinées à l''aide de l''IA. | AI Comic Factory est une application gratuite et open source conçue pour démontrer les capacités des modèles d''IA.  Le modèle linguistique utilisé pour générer les descriptions de chaque panneau est Llama-2 70b. Le modèle de diffusion stable utilisé pour générer les images est le SDXL 1.0 de base. Le code est public et peut être déployé chez soi avec quelques modifications dans le fichier README pour plus de détails sur l''architecture. | :white_check_mark: |
 | [AI Emoji Generator](https://www.thataicollection.com/redirect/ai-emoji-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Générateur d''emoji IA : transforme le texte en emojis expressifs en quelques secondes. | Le générateur d''emoji AI est un outil innovant qui donne vie à ton texte en convertissant des mots en emojis.   Il suffit de saisir n''importe quelle phrase ou sentiment, et l''outil sélectionne et génère intelligemment des emojis pertinents, améliorant ainsi la communication numérique d''une touche visuelle amusante.   Parfait pour pimenter les messages, les publications sur les réseaux sociaux ou toute autre forme de contenu numérique. | :white_check_mark: |
 | [AI Funko Pop Generator](https://www.thataicollection.com/redirect/ai-funko-pop-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Le générateur AI Funko Pop est un générateur d''images gratuit basé sur l''intelligence artificielle. | Le générateur AI Funko Pop est un générateur d''images gratuit basé sur l''intelligence artificielle. Il peut créer des images Funko Pop personnalisées selon les descriptions spécifiées par l''utilisateur, afin de diffuser ton image personnalisée en moins d''une seconde. | :white_check_mark: |
@@ -985,6 +973,7 @@
 | [Andisearch](https://www.thataicollection.com/redirect/andisearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Andi - Partez à la recherche de la prochaine génération grâce à la puissance de l''IA. | Andi cherche la prochaine génération grâce à l''IA générative. Au lieu de se contenter de liens, Andi te donne des réponses, comme si tu discutais avec un ami intelligent. | :white_check_mark: |
 | [Anypod](https://www.thataicollection.com/redirect/anypod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Moteurs de recherche conçus pour les créateurs. | Nous rendons votre contenu consultable. | :white_check_mark: |
 | [Broker One AI Engine](https://www.thataicollection.com/redirect/broker-one-ai-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Broker One AI Engine est un outil alimenté par l''IA qui simplifie l''immobilier. | Broker One AI Engine est un outil de pointe alimenté par l''IA conçu spécifiquement pour le monde complexe de l''immobilier. Cette plateforme innovante combine la puissance de l''intelligence artificielle avec un ensemble de données vaste et complet de propriétés pour fournir des évaluations immobilières précises et permettre une navigation efficace dans les propriétés. Broker One AI Engine se distingue par sa fonctionnalité sophistiquée de recherche de propriétés. | :white_check_mark: |
+| [Circle to Search](https://www.thataicollection.com/redirect/circle-to-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | De l'émerveillement à la sagesse, en un rien de temps. | Exploite la puissance de la recherche d'informations en toute simplicité avec Circle to Search, l'extension Chrome ultime conçue pour améliorer ton expérience de navigation. Cet outil innovant transforme la façon dont tu recherches en ligne, en te permettant de surligner et de rechercher facilement n'importe quel contenu textuel ou image de ta page Web actuelle. | :white_check_mark: |
 | [Context Search](https://www.thataicollection.com/redirect/context-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Contexte : recherche audio et vidéo alimentée par l''IA pour trouver du contenu dans les playlists YouTube. | Rechercher du contenu dans les playlists YouTube. Recherchez facilement un mot clé ou une phrase spécifique sur l''ensemble des playlists ou chaînes YouTube. Conçu pour les créateurs de contenu. | :grey_question: |
 | [Everypixel](https://www.thataicollection.com/redirect/everypixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Moteur de recherche d''images libres de droits - Plus de 50 meilleures sources - Everypixel. | Outil de recherche d''images libres de droits pour tous ceux qui détestent les mauvaises photos. Utilise-les pour trouver les meilleures images sous licence au meilleur prix. Plus de 50 sources d''images. | :grey_question: |
 | [Gptsapp.io](https://www.thataicollection.com/redirect/gptsapp.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Le seuil pour créer des GPT est trop bas, ce qui rend difficile pour les utilisateurs d''en trouver de bons. gptsapp.io a donc organisé plus de 600 000 meilleures applications GPT, avec un cadeau pour l''inscription. | GPTSapp.io est considérée comme la « meilleure application GPT », car elle offre aux utilisateurs une passerelle unique qui leur permet de découvrir et d''intégrer des applications avancées basées sur le GPT à leur routine quotidienne. Le site GPTSapp.io sert de plaque tournante pour explorer le vaste monde des applications ChatGPT personnalisées, ce qui en fait une ressource indispensable pour les particuliers et les entreprises. | :white_check_mark: |
