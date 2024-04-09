@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1238" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1252" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -72,6 +72,19 @@
     <h4>Crée un jumeau numérique, découvre qui tu es vraiment, passe aux apps et découvre le futur de la technologie. </h4>
     <p>Vana te permet de créer un mini-« toi » en utilisant la puissance de tes données et de l''IA. Clonez ta voix, génère des selfies et découvre ce que tes données disent de toi en leur parlant. Dirige AI-"You » vers les applications du réseau Vana pour découvrir des jeux personnalisés, des simulations et des outils d''assistance à l''intelligence artificielle. Vana te donne le contrôle de tes données et de ton IA, et te permet de les transformer en quelque chose de magique. </p>
     <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Vana</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/tradepost.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tradepost.ai.webp" alt="Tradepost.ai" border="0"/>
+    </a>
+    <h4>Analyse des bulletins financiers et des documents déposés auprès de la SEC grâce à l'IA</h4>
+    <p>Transfère les newsletters financières et les rapports de recherche dans ta boîte de réception Tradepost et reçois des idées d'investissement réalisables sur des bases solides. Tirez parti des documents déposés auprès de la SEC et filtrez ton flux d'idées par classe d'actifs, secteur de marché ou exposition géographique.</p>
+    <a href="https://www.thataicollection.com/redirect/tradepost.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Tradepost.ai</b></a>
     <br />
 </div>
 
@@ -137,117 +150,115 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🧠 [Éducation Et Apprentissage](#éducation-et-apprentissage)
 ## Latest Additions to AI Collection
 
-### Circle to Search
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-circle-to-search.webp" alt="Circle to Search">
+### redesign with ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-redesign-with-ai.webp" alt="redesign with ai">
 
-#### De l'émerveillement à la sagesse, en un rien de temps
+#### La refonte facilite le design et facilite la créativité grâce à AI Platform.
+[Visit](https://www.thataicollection.com/redirect/redesign-with-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/circle-to-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Refonte grâce à l''IA ! AI Design Generator, il génère tous les designs, tels que des icônes, des logos, des autocollants gratuits, des affiches, des pages à colorier, des maquettes à partir de mots rapides grâce à l''IA.
 
-Exploite la puissance de la recherche d'informations en toute simplicité avec Circle to Search, l'extension Chrome ultime conçue pour améliorer ton expérience de navigation. Cet outil innovant transforme la façon dont tu recherches en ligne, en te permettant de surligner et de rechercher facilement n'importe quel contenu textuel ou image de ta page Web actuelle.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/circle-to-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Comic Book Factory
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-comic-book-factory.webp" alt="AI Comic Book Factory">
-
-#### Outils de création de bandes dessinées IA en ligne gratuits
-[Visit](https://www.thataicollection.com/redirect/ai-comic-book-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Laisse libre cours à ta créativité et plonge dans le monde de la création de comics basée sur l'IA avec AI Comic Factory. Découvrez de première main les fonctionnalités et les applications de notre produit innovant grâce à notre essai gratuit.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-comic-book-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/redesign-with-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### InteractivePolls.ai - MeetMoji
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interactivepolls.ai---meetmoji.webp" alt="InteractivePolls.ai - MeetMoji">
+### Tradepost.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tradepost.ai.webp" alt="Tradepost.ai">
 
-#### Sondages en direct pour Google Slides avec un assistant IA 
-[Visit](https://www.thataicollection.com/redirect/interactivepolls.ai---meetmoji?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Analyse des bulletins financiers et des documents déposés auprès de la SEC grâce à l'IA
+[Visit](https://www.thataicollection.com/redirect/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Lancez une conversation constructive dans tes présentations grâce à nos sondages en direct alimentés par l'IA, à nos nuages de mots, etc. Transforme les présentations statiques à sens unique en conversations captivantes. Impliquez tout le monde, que ce soit en ligne, en personne ou les deux.
+Transfère les newsletters financières et les rapports de recherche dans ta boîte de réception Tradepost et reçois des idées d'investissement réalisables sur des bases solides. Tirez parti des documents déposés auprès de la SEC et filtrez ton flux d'idées par classe d'actifs, secteur de marché ou exposition géographique.
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/interactivepolls.ai---meetmoji?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Persuva
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-persuva.webp" alt="Persuva">
-
-#### Persuva est la plateforme pilotée par l'IA qui permet de créer à grande échelle des textes publicitaires convaincants et à taux de conversion élevé
-[Visit](https://www.thataicollection.com/redirect/persuva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Persuva est une plateforme pilotée par l'IA qui vise à améliorer les résultats commerciaux grâce à la génération de contenus publicitaires captivants et optimisés pour les conversions. Notre objectif principal est d'améliorer l'efficacité de tes campagnes marketing, en propulsant l'influence et l'évolutivité de ta marque vers de nouveaux sommets. Tirer parti de l'intelligence artificielle avancée et de connaissances approfondies sur le comportement des consommateurs.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/persuva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### dypt
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dypt.webp" alt="dypt">
+### AIML API
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiml-api.webp" alt="AIML API">
 
-#### Répartissez les tâches automatiquement à l'aide de l'IA en sous-tâches plus faciles à gérer et surmontez les blocages mentaux
-[Visit](https://www.thataicollection.com/redirect/dypt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Plus de 100 modèles d'IA accessibles 24 h/24 et 7 j/7
+Transition depuis OpenAI avec une ligne de code
+[Visit](https://www.thataicollection.com/redirect/aiml-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-dypt est un gestionnaire de tâches adapté au monde trépidant d'aujourd'hui, conçu pour t'aider à gagner du temps.
-- Organise tes tâches selon une hiérarchie, ce qui te permet de les répartir autant de fois que nécessaire
-- Répartissez automatiquement tes tâches en plusieurs parties plus faciles à accomplir à l'aide de l'IA.
-- Partage des tâches, en public et en privé
-- Fixe des priorités, des délais et des rappels et reçois des notifications pour ne jamais en manquer une
+L'API AI/ML est créée par des développeurs pour des développeurs. Nous garantissons la qualité et la stabilité des modèles d'IA commerciaux au prix le plus bas du marché.
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/dypt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/aiml-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Undress.cc
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress_.cc.webp" alt="Undress.cc">
+### Verk
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-verk.webp" alt="Verk">
 
-#### Undress CC est un générateur de nus deepfake qui permet de déshabiller n'importe qui en quelques secondes. 
-[Visit](https://www.thataicollection.com/redirect/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Formez une main-d'œuvre numérique composée d'employés dotés d'IA semblables à des humains. Intégrez des humains à ton entreprise, tels que des professionnels du numérique, tels que représentant commercial, graphiste spécialisé en IA, chercheur de marché en
+[Visit](https://www.thataicollection.com/redirect/verk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Comment peux-tu faire un nu profond ?
-Il suffit de suivre ces 4 étapes
-Se connecter à la plateforme
-Ajoute une photo que tu aimerais te déshabiller
-Choisis les caractéristiques corporelles et d'âge souhaitées
-Appuie sur le bouton « GENERATE » et profite du résultat final
+Recrute des employés intelligents pour renforcer ton équipe, en travaillant 24 heures sur 24, 7 jours sur 7 pour gérer les ventes, faire office d'assistante personnelle, créer des graphismes et plus encore...
+• Disponible 24 heures sur 24, 7 jours sur 7, tous les jours de l'année
+• 10 fois moins cher et plus efficace qu'un employé humain
+• S'améliore continuellement et peut être entraînée pour acquérir de nouvelles compétences
 
 
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/verk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Owwlish
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-owwlish.webp" alt="Owwlish">
+### AI Finder
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-finder.webp" alt="AI Finder">
 
-#### Créez un cours en ligne pour ton site web en un clin d''œil
-[Visit](https://www.thataicollection.com/redirect/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI Finder — Interrogez ton système de fichiers avec LLM.
+[Visit](https://www.thataicollection.com/redirect/ai-finder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Owwlish est le nouveau moyen simple d''ajouter un cours en ligne à ton site web, quelle que soit la plateforme que tu utilises ! Il suffit d''utiliser notre outil de création de cours pour créer un cours, de copier-coller quelques lignes de code, et le tour est joué : ton cours est en ligne sur ton site web pour que les gens puissent s''inscrire et commencer à apprendre !
+AI Finder est ton Golden Retriever. Il a pour but d'être ton assistant de recherche de fichiers, afin de t'aider à éviter de chercher les fichiers souhaités dans une pile de documents.
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Tu donnes des instructions, et cela peut t'aider à trouver les fichiers nécessaires dans une pile de documents encombrée.
+
+Cela t'aide à gérer diverses tâches liées aux fichiers, ce qui te permet de gagner du temps et d'améliorer ta productivité.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-finder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### The Visualizer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-visualizer.webp" alt="The Visualizer">
+
+#### Apprends facilement des sujets complexes grâce à l'IA, en quelques minutes, 
+[Visit](https://www.thataicollection.com/redirect/the-visualizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Apprécié par des milliers d'apprenants et de créateurs, The Visualizer est un outil unique qui associe la puissance de l'IA à l'utilité des cartes mentales. Il est conçu pour aider à la fois les apprenants et les créateurs en fournissant une représentation visuelle d'informations complexes.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/the-visualizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Fotor video enhancer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor-video-enhancer.webp" alt="Fotor video enhancer">
+
+#### Essaie l'optimiseur vidéo en ligne de Fotor pour améliorer instantanément la qualité vidéo, notamment en réglant la netteté, la luminosité, etc. pour rendre les vidéos plus claires. Aucune compétence ni installation n'est requise.
+[Visit](https://www.thataicollection.com/redirect/fotor-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Accédez à un accès illimité à l'optimiseur vidéo haut de gamme pour améliorer la qualité vidéo sans effort. Propulsé par l'IA, l'améliorateur de qualité vidéo de Fotor va au-delà des méthodes classiques pour reconnaître automatiquement le contenu vidéo et appliquer les améliorations vidéo de manière fluide. En un seul clic, convertit tes vidéos au format 240p, 360p, 480p et plus encore en vidéos de haute qualité, pour une expérience de visionnage inégalée. 
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/fotor-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -255,6 +266,21 @@ Owwlish est le nouveau moyen simple d''ajouter un cours en ligne à ton site web
 
 
 ## Comptabilité et Finance
+
+### Tradepost.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tradepost.ai.webp" alt="Tradepost.ai">
+
+#### Analyse des bulletins financiers et des documents déposés auprès de la SEC grâce à l'IA
+[Visit](https://www.thataicollection.com/redirect/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Transfère les newsletters financières et les rapports de recherche dans ta boîte de réception Tradepost et reçois des idées d'investissement réalisables sur des bases solides. Tirez parti des documents déposés auprès de la SEC et filtrez ton flux d'idées par classe d'actifs, secteur de marché ou exposition géographique.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### MoneyCoach
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
@@ -345,21 +371,6 @@ Choisi par l''IA
 Stocknews AI est une sélection des meilleures actualités boursières de tous les jours. Découvrez les dernières actualités boursières dont tout le monde parle.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/stocknews-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Eilla
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eilla.webp" alt="Eilla">
-
-#### Eilla : plateforme d''IA qui alimente le flux de travail des fusions et acquisitions, du capital-risque et du capital-investissement.
-[Visit](https://www.thataicollection.com/redirect/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Faire appel à des professionnels du secteur de la plus haute qualité afin d''automatiser les tâches banales et de faciliter la prise de décisions complexes. Bénéficiez d''un accès anticipé à Eilla dès maintenant.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -986,6 +997,23 @@ AlTable.ai est une plateforme de travail qui te permet d''organiser toutes tes d
 
 
 
+### Interview Solver
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interview-solver.webp" alt="Interview Solver">
+
+#### Réussissez tes entretiens de codage en direct avec notre copilote IA
+[Visit](https://www.thataicollection.com/redirect/interview-solver?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Interview Solver est un copilote basé sur l'IA qui t'aide à réussir tes entretiens de codage en direct et de conception de systèmes.
+
+Que tu sois une développeuse aguerrie ou une jeune diplômée, Interview Solver t'apporte l'assistance et les ressources dont tu as besoin pour mettre en valeur tes compétences et impressionner tes interlocuteurs.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/interview-solver?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Text2SQL
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-text2sql.webp" alt="Text2SQL">
 
@@ -1056,21 +1084,6 @@ Connecte tes sources de données, configure certaines vues de données (c''est-�
 Webscrape AI est une plateforme avancée et conviviale qui permet aux particuliers et aux entreprises d''extraire des données du Web. C''est un scraper sans code qui ne nécessite aucune compétence en programmation, y compris des connaissances techniques limitées. Cet outil basé sur l''IA peut naviguer sur des sites Web, identifier les données pertinentes et les collecter dans un format structuré tel que CSV, JSON ou HTML. 
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/webscrapeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### CodeWP
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-codewp.webp" alt="CodeWP">
-
-#### CodeWP - Générateur et assistant de code WordPress IA
-[Visit](https://www.thataicollection.com/redirect/codewp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-CodeWP est un générateur de code WordPress qui utilise l''IA et des modèles spécialisés pour WordPress, Woo et autres pour vous aider à construire mieux et plus rapidement.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/codewp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3044,6 +3057,36 @@ Tes rêves les plus fous ne sont qu''à un clic aujourd''hui !
 
 
 
+### Dittin AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
+
+#### Dittin AI, plateforme de chatbot NSFW AI non censurée
+[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dittin AI est une plateforme de chatbot basée sur l''IA de la NSFW basée sur DittinLLM. Avec un minimum de restrictions sur le contenu de la NSFW, tu peux engager des conversations avec des personnages IA sur un large éventail de sujets. Dittin AI prend en charge les avatars 3D et les messages vocaux, ce qui te permet de créer et de partager des personnages IA avec du son et des avatars 3D interactifs à l''aide du panneau de création.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Nextpart AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nextpart-ai.webp" alt="Nextpart AI">
+
+#### Prends le pouls de l'IA : intelligence séduisante, expérience captivante, au-delà de l'être humain
+[Visit](https://www.thataicollection.com/redirect/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Le chatbot Nextpart.ai améliore ton expérience de chat grâce à des scénarios NSFW sans filtre : escapades romantiques, jeux de rôle, aventures et événements liés à la vie quotidienne.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Nudify.online
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online_.webp" alt="Nudify.online">
 
@@ -3089,37 +3132,6 @@ Qu''il s''agisse de survivre sur une île déserte, de naviguer dans l''espace �
 Plongez dans l''univers de nombreuses filles animées par l''IA et commencez à jouer dès maintenant !
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Dittin AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
-
-#### Dittin AI, plateforme de chatbot NSFW AI non censurée
-[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Dittin AI est une plateforme de chatbot basée sur l''IA de la NSFW basée sur DittinLLM. Avec un minimum de restrictions sur le contenu de la NSFW, tu peux engager des conversations avec des personnages IA sur un large éventail de sujets. Dittin AI prend en charge les avatars 3D et les messages vocaux, ce qui te permet de créer et de partager des personnages IA avec du son et des avatars 3D interactifs à l''aide du panneau de création.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nectar AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nectar-ai.webp" alt="Nectar AI">
-
-#### Crée la fille de tes rêves idéale en quelques secondes !
-[Visit](https://www.thataicollection.com/redirect/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nectar est une plateforme d''IA générative qui propose deux produits : (1) Image Creator et (2) Roleplay.
-Image Creator est un puissant outil d''intelligence artificielle génératif qui permet de créer des photos et des vidéos, tandis que le jeu de rôle te permet d''explorer différents fantasmes et de créer ton personnage personnalisé. Notre temps de génération, tant pour le texte que pour la langue, est l''un des plus rapides du secteur.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3287,24 +3299,6 @@ ton visage sur une variété de décors et de vêtements professionnels.
 
 
 
-### Fotor
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor">
-
-#### Fotor - Un éditeur de photos en ligne pour tous. Retouche des photos plus rapidement et plus facilement grâce à l''IA.
-[Visit](https://www.thataicollection.com/redirect/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-l''éditeur de photos en ligne offre tout ce dont tu as besoin pour améliorer et retoucher des photos sans effort. Faites l''expérience de la retouche photo en ligne, en toute simplicité, gratuitement ! . La retouche photo complexe simplifiée grâce à l''éditeur de photos Fotor AI. AI Photo Enhancer, AI Background Remover, AI Object Remover et plus encore.
-
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### HitPaw Online Photo Enhancer
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-photo-enhancer.webp" alt="HitPaw Online Photo Enhancer">
 
@@ -3363,6 +3357,24 @@ Les portraits générés par l''IA sont l''avenir des portraits
 Transforme tes photos habituelles en portraits professionnels grâce à notre générateur de portraits basé sur l''IA. Choisis ton style, télécharge tes photos et prends 200 photos de la tête !
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/headpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Fotor
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor">
+
+#### Fotor - Un éditeur de photos en ligne pour tous. Retouche des photos plus rapidement et plus facilement grâce à l''IA.
+[Visit](https://www.thataicollection.com/redirect/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+l''éditeur de photos en ligne offre tout ce dont tu as besoin pour améliorer et retoucher des photos sans effort. Faites l''expérience de la retouche photo en ligne, en toute simplicité, gratuitement ! . La retouche photo complexe simplifiée grâce à l''éditeur de photos Fotor AI. AI Photo Enhancer, AI Background Remover, AI Object Remover et plus encore.
+
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

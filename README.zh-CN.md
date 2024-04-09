@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1238" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1252" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -72,6 +72,19 @@
     <h4>把你的自拍变成专业头像</h4>
     <p>市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。</p>
     <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 The Multiverse AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/tradepost.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tradepost.ai.webp" alt="Tradepost.ai" border="0"/>
+    </a>
+    <h4>基于人工智能的金融时事通讯和美国证券交易委员会文件分析</h4>
+    <p>将金融时事通讯和研究报告转发到您的Tradepost收件箱，并在坚实的基础上获得切实可行的投资建议。从美国证券交易委员会的文件中获得见解，并按资产类别、市场领域或地域敞口筛选您的创意数据源。</p>
+    <a href="https://www.thataicollection.com/redirect/tradepost.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Tradepost.ai</b></a>
     <br />
 </div>
 
@@ -137,117 +150,115 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### Circle to Search
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-circle-to-search.webp" alt="Circle to Search">
+### redesign with ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-redesign-with-ai.webp" alt="redesign with ai">
 
-#### 从奇迹到智慧，只需拖一步
+#### 借助 AI 平台，重新设计使设计变得更简单，更具创造力。
+[Visit](https://www.thataicollection.com/redirect/redesign-with-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/circle-to-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+用 AI 重新设计！人工智能设计生成器，它使用AI根据提示词生成所有设计，例如图标，徽标，免费贴纸，海报，彩页，模型。
 
-Circle to Search是一款终极版Chrome扩展程序，旨在增强您的浏览体验，借助Circle to Search解锁轻松检索信息的力量。这个创新的工具改变了您的在线搜索方式，使您可以无缝地突出显示和搜索当前网页中的任何文本或图像内容。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/circle-to-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AI Comic Book Factory
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-comic-book-factory.webp" alt="AI Comic Book Factory">
-
-#### 免费的在线 AI 漫画书创作工具
-[Visit](https://www.thataicollection.com/redirect/ai-comic-book-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 AI Comic Factory 释放你的创造力，让自己沉浸在 AI 驱动的漫画创作世界中。通过我们的免费试用，亲身体验我们创新产品的功能和应用。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-comic-book-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/redesign-with-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### InteractivePolls.ai - MeetMoji
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interactivepolls.ai---meetmoji.webp" alt="InteractivePolls.ai - MeetMoji">
+### Tradepost.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tradepost.ai.webp" alt="Tradepost.ai">
 
-#### 使用 AI 助手对 Google 幻灯片进行实时投票 
-[Visit](https://www.thataicollection.com/redirect/interactivepolls.ai---meetmoji?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 基于人工智能的金融时事通讯和美国证券交易委员会文件分析
+[Visit](https://www.thataicollection.com/redirect/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-借助我们基于人工智能的实时投票、词云等，在演示文稿中激发有意义的对话。将静态的单向演示转变为引人入胜的对话。与所有人互动，无论他们是在线上、面对面还是两者兼而有之。
+将金融时事通讯和研究报告转发到您的Tradepost收件箱，并在坚实的基础上获得切实可行的投资建议。从美国证券交易委员会的文件中获得见解，并按资产类别、市场领域或地域敞口筛选您的创意数据源。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/interactivepolls.ai---meetmoji?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Persuva
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-persuva.webp" alt="Persuva">
-
-#### Persuva 是人工智能驱动的平台，可大规模制作具有说服力、高转化率的广告文案
-[Visit](https://www.thataicollection.com/redirect/persuva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Persuva 是一个人工智能驱动的平台，致力于通过生成引人入胜的、经过转化优化的广告内容来增强业务成果。我们的核心目标是提高您的营销活动的有效性，将您的品牌的影响力和可扩展性推向新的高度。利用先进的人工智能以及对消费者行为的深刻见解。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/persuva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### dypt
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dypt.webp" alt="dypt">
+### AIML API
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiml-api.webp" alt="AIML API">
 
-#### 使用 AI 自动将任务分解为更易于管理的子任务，克服心理障碍
-[Visit](https://www.thataicollection.com/redirect/dypt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 100 多个 AI 模型可全天候访问
+用 1 行代码从 OpenAI 过渡
+[Visit](https://www.thataicollection.com/redirect/aiml-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-dypt 是当今忙碌世界的任务管理器，旨在帮助你腾出时间。
--按层次结构组织任务，允许您根据需要多次分解任务
--使用 AI 自动将任务分解成更易于完成的块。
--公开和私下共享任务
--设置优先级、截止日期和提醒并接收通知，这样您就不会错过任何一个
+AI/ML API 由开发人员为开发人员构建。我们以市场上最低的价格保证商用级人工智能模型的质量和稳定性。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dypt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aiml-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Undress.cc
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress_.cc.webp" alt="Undress.cc">
+### Verk
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-verk.webp" alt="Verk">
 
-#### Undress CC是一款深度伪造的裸照生成器，它可以在短短几秒钟内给任何人脱衣服。 
-[Visit](https://www.thataicollection.com/redirect/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 建立一支由类人的 AI 员工组成的数字化员工队伍。为您的企业寻找像数字工作者一样的人，例如人工智能销售代表、人工智能平面设计师、人工智能市场研究员、人工智能营销人员等
+[Visit](https://www.thataicollection.com/redirect/verk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-你怎么能做一个深裸的？
-只需要这 4 个步骤
-登录平台
-上传一张你想脱衣服的图片
-选择所需的体型和年龄规格
-按下 “生成” 按钮，享受最终结果
+雇用 AI 员工为您的团队增添更多火力，全天候工作以处理销售、充当您的私人助理、进行平面设计等等...
+• 一年中的每一天全天候可用
+• 比人工员工便宜 10 倍，效率更高
+• 不断自我提高，可接受培训以学习新技能
 
 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/verk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Owwlish
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-owwlish.webp" alt="Owwlish">
+### AI Finder
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-finder.webp" alt="AI Finder">
 
-#### 快速为您的网站创建在线课程
-[Visit](https://www.thataicollection.com/redirect/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI Finder-使用 LLM 查询您的文件系统。
+[Visit](https://www.thataicollection.com/redirect/ai-finder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-无论您使用什么网站平台，Owwlish 都是向您的网站添加在线课程的全新简便方法！只需使用我们的简易课程生成器创建课程，复制并粘贴几行代码，瞧：您的课程已在您的网站上线，可供人们注册并开始学习！
+AI Finder 是你的档案 “金毛寻回犬”。它旨在成为您的文件搜索助手，帮助您避免在一堆文档中搜索所需的文件。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+你给出指令，它可以帮助你在一堆混乱的文档中找到所需的文件。
+
+它可以帮助您处理与文件相关的其他任务，从而节省时间并提高工作效率。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-finder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### The Visualizer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-visualizer.webp" alt="The Visualizer">
+
+#### 使用 AI 在几分钟内轻松学习复杂的话题， 
+[Visit](https://www.thataicollection.com/redirect/the-visualizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+The Visualizer 是一款独特的工具，将人工智能的力量与思维导图的实用性相结合，深受成千上万的学习者和创作者的喜爱。它旨在通过提供复杂信息的可视化表示来帮助学习者和创作者。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/the-visualizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Fotor video enhancer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor-video-enhancer.webp" alt="Fotor video enhancer">
+
+#### 试试Fotor的在线视频增强器来立即提高视频质量，包括清晰度、亮度等设置，以使视频更清晰。无需技能和安装。
+[Visit](https://www.thataicollection.com/redirect/fotor-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+无限使用一流的视频增强器，轻松提高视频质量。在人工智能的支持下，Fotor的视频质量增强器超越了传统方法，可以自动识别视频内容并无缝应用视频增强功能。只需单击一下，即可将240p、360p、480p等视频转换为高质量的视频，从而提供无与伦比的观看体验。 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fotor-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -255,6 +266,21 @@ dypt 是当今忙碌世界的任务管理器，旨在帮助你腾出时间。
 
 
 ## 会计与金融
+
+### Tradepost.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tradepost.ai.webp" alt="Tradepost.ai">
+
+#### 基于人工智能的金融时事通讯和美国证券交易委员会文件分析
+[Visit](https://www.thataicollection.com/redirect/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+将金融时事通讯和研究报告转发到您的Tradepost收件箱，并在坚实的基础上获得切实可行的投资建议。从美国证券交易委员会的文件中获得见解，并按资产类别、市场领域或地域敞口筛选您的创意数据源。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 
 ### MoneyCoach
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
@@ -345,21 +371,6 @@ Jinnee 可以解决的问题：能力有限 - 支持部门无法处理每个请�
 Stocknews AI 每天都是精选最新股票新闻的策展人。发现每个人都在谈论的最新股票新闻。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/stocknews-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Eilla
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eilla.webp" alt="Eilla">
-
-#### Eilla-支持并购、风险投资和私募股权交易工作流程的人工智能平台。
-[Visit](https://www.thataicollection.com/redirect/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-镜像最高素质的行业专业人士，以自动执行平凡的任务并支持复杂的决策。立即抢先体验 Eilla。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -986,6 +997,23 @@ AlTable.ai 是一个工作平台，允许你使用 Al 来组织任何数据。Al
 <br />
 
 
+### Interview Solver
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interview-solver.webp" alt="Interview Solver">
+
+#### 使用我们的 AI Copilot 在实时编程面试中脱颖而出
+[Visit](https://www.thataicollection.com/redirect/interview-solver?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Interview Solver 是一款 AI Copilot，可帮助您通过实时编程和系统设计面试。
+
+无论你是经验丰富的开发者还是应届毕业生，Interview Solver 都能为您提供展示技能和给面试官留下深刻印象所需的帮助和资源。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/interview-solver?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Text2SQL
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-text2sql.webp" alt="Text2SQL">
 
@@ -1056,21 +1084,6 @@ CodiumAI 分析您的代码并生成有意义的测试以在您发布之前发�
 Webscrape AI 是一个先进、用户友好的平台，允许个人和企业从网络中提取数据。它是一个无代码抓取工具，不需要编程技能，包括那些技术知识有限的人。这个人工智能驱动的工具可以浏览网站，识别相关数据，并以 CSV、JSON 或 HTML 等结构化格式进行收集。 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/webscrapeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### CodeWP
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-codewp.webp" alt="CodeWP">
-
-#### CodeWP - 人工智能 WordPress 代码生成器和助手
-[Visit](https://www.thataicollection.com/redirect/codewp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-CodeWP 是一个 WordPress 代码生成器，它使用 AI 和适用于 WordPress、Woo 等的专用模型来帮助您更好更快地构建代码。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/codewp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3044,6 +3057,36 @@ Amadeus Topline 是一款由人工智能驱动的作曲应用程序，适合每�
 <br />
 
 
+### Dittin AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
+
+#### Dittin AI-未经审查的 NSFW AI 聊天机器人平台
+[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dittin AI 是一个基于 DittinLLM 的 NSFW 人工智能聊天机器人平台。只要对NSFW内容的限制最小，你就可以与AI角色就各种话题进行对话。Dittin AI 支持 3D 头像和语音消息，允许您使用创建面板创建和共享带有声音和交互式 3D 头像的 AI 角色。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Nextpart AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nextpart-ai.webp" alt="Nextpart AI">
+
+#### 感受 AI 的脉搏——超越人类的诱人智能、迷人的体验
+[Visit](https://www.thataicollection.com/redirect/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nextpart.ai 聊天机器人通过 No Filter NSFW 场景提升您的聊天体验——浪漫逃亡、角色扮演、生活方式冒险和活动。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Nudify.online
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online_.webp" alt="Nudify.online">
 
@@ -3089,37 +3132,6 @@ Amadeus Topline 是一款由人工智能驱动的作曲应用程序，适合每�
 潜入众多 AI 女孩的世界，立即开始玩吧！
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Dittin AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
-
-#### Dittin AI-未经审查的 NSFW AI 聊天机器人平台
-[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Dittin AI 是一个基于 DittinLLM 的 NSFW 人工智能聊天机器人平台。只要对NSFW内容的限制最小，你就可以与AI角色就各种话题进行对话。Dittin AI 支持 3D 头像和语音消息，允许您使用创建面板创建和共享带有声音和交互式 3D 头像的 AI 角色。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Nectar AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nectar-ai.webp" alt="Nectar AI">
-
-#### 在短短几秒钟内创建完美的梦中女孩！
-[Visit](https://www.thataicollection.com/redirect/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nectar是一个生成式人工智能平台，提供两种产品：（1）图像创建器和（2）角色扮演。
-Image Creator是一款强大的生成式人工智能工具，用于创建照片和视频，而角色扮演允许您探索不同的幻想并创建自定义角色。我们的文本和语言生成时间是业内最快的生成时间之一。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3287,24 +3299,6 @@ Vidnoz AI Headshot Generator 是一款在线人工智能头像生成器，是一
 <br />
 
 
-### Fotor
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor">
-
-#### Fotor-适合所有人的在线照片编辑器。使用 AI 更快、更轻松地编辑照片。
-[Visit](https://www.thataicollection.com/redirect/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在线照片编辑器提供您轻松增强和编辑照片所需的一切。免费在线体验简单的照片编辑！。使用Fotor AI照片编辑器可以轻松进行复杂的照片编辑。AI 照片增强器、AI 背景去除器、AI 对象移除器等。
-
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### HitPaw Online Photo Enhancer
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-photo-enhancer.webp" alt="HitPaw Online Photo Enhancer">
 
@@ -3363,6 +3357,24 @@ HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化�
 使用我们的 AI 头像生成器，将您的普通照片转换为专业的商业头像。选择你的风格，上传你的照片，并获得 200 张头像！
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/headpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Fotor
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor">
+
+#### Fotor-适合所有人的在线照片编辑器。使用 AI 更快、更轻松地编辑照片。
+[Visit](https://www.thataicollection.com/redirect/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在线照片编辑器提供您轻松增强和编辑照片所需的一切。免费在线体验简单的照片编辑！。使用Fotor AI照片编辑器可以轻松进行复杂的照片编辑。AI 照片增强器、AI 背景去除器、AI 对象移除器等。
+
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

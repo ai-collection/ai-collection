@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1238" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1252" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,12 +59,12 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/tradepost.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tradepost.ai.webp" alt="Tradepost.ai" border="0"/>
     </a>
-    <h4>Create a digital twin, learn about who you truly are, take it to apps and experience the future of tech. </h4>
-    <p>Vana lets you create a mini-"you" using the power of your data and AI.   Clone your voice, generate selfies, and learn about what your data says about you by talking to it.  Take AI-"you" to applications in the Vana network to explore personalized games, simulations and AI assistant tools. Vana puts you in control of your data and your AI, and lets you turn it into something magical. </p>
-    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Vana</b></a>
+    <h4>AI-powered analysis of financial newsletters and SEC filings</h4>
+    <p>Forward financial newsletters and research reports to your Tradepost inbox and get actionable investment ideas with solid foundations. Gain insights from SEC filings and filter your datafeed of ideas by asset class, market sector, or geographical exposure.</p>
+    <a href="https://www.thataicollection.com/redirect/tradepost.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Tradepost.ai</b></a>
     <br />
 </div>
 
@@ -78,6 +78,19 @@ Translations:
     <h4>Turn your selfies into professional headshots</h4>
     <p>The highest accuracy professional headshot generator on the market. Tailored composition for the best first impressions. Ideal for professionals and teams.</p>
     <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with The Multiverse AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
+    </a>
+    <h4>Create a digital twin, learn about who you truly are, take it to apps and experience the future of tech. </h4>
+    <p>Vana lets you create a mini-"you" using the power of your data and AI.   Clone your voice, generate selfies, and learn about what your data says about you by talking to it.  Take AI-"you" to applications in the Vana network to explore personalized games, simulations and AI assistant tools. Vana puts you in control of your data and your AI, and lets you turn it into something magical. </p>
+    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Vana</b></a>
     <br />
 </div>
 
@@ -143,117 +156,115 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
-### Circle to Search
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-circle-to-search.webp" alt="Circle to Search">
+### redesign with ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-redesign-with-ai.webp" alt="redesign with ai">
 
-#### From wonder to wisdom, just one drag away
+#### Redesign make design more easy and creativity with AI Platform.
+[Visit](https://www.thataicollection.com/redirect/redesign-with-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/circle-to-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Redesign With AI !AI Design Generator, It generates all design like icon, logo, free sticker, poster, coloring page, mockup from a prompt words using AI.
 
-Unlock the power of effortless information retrieval with Circle to Search, the ultimate Chrome extension designed to enhance your browsing experience. This innovative tool transforms the way you search online, allowing you to seamlessly highlight and search for any text or image content within your current web page.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/circle-to-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Comic Book Factory
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-comic-book-factory.webp" alt="AI Comic Book Factory">
-
-#### Online AI Comic Book Creation Tools for Free
-[Visit](https://www.thataicollection.com/redirect/ai-comic-book-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Unleash your creativity and immerse yourself in the world of AI-powered comic book creation with AI Comic Factory. Experience firsthand the features and applications of our innovative product through our free trial.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-comic-book-factory?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/redesign-with-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### InteractivePolls.ai - MeetMoji
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interactivepolls.ai---meetmoji.webp" alt="InteractivePolls.ai - MeetMoji">
+### Tradepost.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tradepost.ai.webp" alt="Tradepost.ai">
 
-#### Live Polls for Google Slides with an AI Assistant 
-[Visit](https://www.thataicollection.com/redirect/interactivepolls.ai---meetmoji?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI-powered analysis of financial newsletters and SEC filings
+[Visit](https://www.thataicollection.com/redirect/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Spark meaningful conversation in your presentations with our AI-powered live polling, word clouds, and more.  Transform static, one-way presentations into engaging conversations. Engage everyone, whether they''re online, in-person, or both.
+Forward financial newsletters and research reports to your Tradepost inbox and get actionable investment ideas with solid foundations. Gain insights from SEC filings and filter your datafeed of ideas by asset class, market sector, or geographical exposure.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/interactivepolls.ai---meetmoji?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Persuva
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-persuva.webp" alt="Persuva">
-
-#### Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale
-[Visit](https://www.thataicollection.com/redirect/persuva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Persuva stands as an AI-driven platform committed to enhancing business outcomes through the generation of compelling, conversion-optimized advertising content. Our core aim is to amplify the effectiveness of your marketing campaigns, propelling your brand''s influence and scalability to new heights. Leveraging advanced artificial intelligence alongside profound insights into consumer behavior.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/persuva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### dypt
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dypt.webp" alt="dypt">
+### AIML API
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiml-api.webp" alt="AIML API">
 
-#### Break down tasks automatically with AI into easier-to-manage subtasks and overcome mental blocks
-[Visit](https://www.thataicollection.com/redirect/dypt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 100+ AI Models Accessible 24/7
+Transition from OpenAI with 1 line of code
+[Visit](https://www.thataicollection.com/redirect/aiml-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-dypt is a task manager for the todays hectic world that is designed to help you free up time.
-- Organise your tasks in a hierarchy, allowing you to break down your tasks as many times as needed
-- Break down your tasks automatically with AI into easier-to-complete chunks.
-- Share tasks, publicly and privately
-- Set priorities, deadlines and reminders and get notifications so you never miss one
+AI/ML API is built by developers for developers. We assure quality and stability of commercial-level AI models at the lowest price on the market.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/dypt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/aiml-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Verk
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-verk.webp" alt="Verk">
+
+#### Build a Digital Workforce of Human-like AI Employees. Get human like digital workers for your business such as AI Sales Rep, AI Graphic Designer, AI Market Researcher, AI Marketer etc
+[Visit](https://www.thataicollection.com/redirect/verk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Hire AI employees to add more firepower to your team, working 24/7 to handle sales, act as your personal assistant, perform graphic designing and more…
+• Available 24/7, every single day of the year
+• 10x cheaper and more efficient than a human employee
+• Continuously self-improving and trainable to learn new skills
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/verk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Undress.cc
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress_.cc.webp" alt="Undress.cc">
+### AI Finder
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-finder.webp" alt="AI Finder">
 
-#### Undress CC is deepfake nudes generator that can undress absolutely anyone in mere seconds. 
-[Visit](https://www.thataicollection.com/redirect/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI Finder - Query Your File System with LLM.
+[Visit](https://www.thataicollection.com/redirect/ai-finder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-How can you make a deepnude?
-It only takes these 4 steps
-Log in to the platform
-Upload an image you would like to undress
-Choose desired body and age specifications
-Press the “GENERATE” button and enjoy the final result
+AI Finder is your file Golden Retriever. It aims to be your file search assistant, helping you avoid searching for the desired files in a pile of documents.
 
+You give instructions, and it can help you find the required files in a cluttered stack of documents.
 
+It helps you handle miscellaneous tasks related to files, saving you time and improving your productivity.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-finder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Owwlish
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-owwlish.webp" alt="Owwlish">
+### The Visualizer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-visualizer.webp" alt="The Visualizer">
 
-#### Create an online course for your website in a snap
-[Visit](https://www.thataicollection.com/redirect/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Easily learn complex topics with AI—in minutes, 
+[Visit](https://www.thataicollection.com/redirect/the-visualizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Owwlish is the new and easy way to add an online course to your website, no matter what website platform you use! Just use our easy course builder to create a course, copy and paste a few lines of code, and voila: Your course is live on your website for people to enroll and get started learning!
+Loved by thousands of learners and creators, The Visualizer is a unique tool that combines the power of AI with the utility of mind maps. It is designed to help both learners and creators by providing a visual representation of complex information.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/owwlish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/the-visualizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Fotor video enhancer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor-video-enhancer.webp" alt="Fotor video enhancer">
+
+#### Try Fotor’s online video enhancer to instantly improve video quality, including settings for sharpness, brightness and so on to make videos clearer. No skills and installation required.
+[Visit](https://www.thataicollection.com/redirect/fotor-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Get limitless access to the top-notch video enhancer to enhance video quality effortlessly. Powered by AI, Fotor''s video quality enhancer goes beyond conventional methods to automatically recognize video content and apply video enhancements seamlessly. With a single click, convert your videos in 240p, 360p, 480p, and more to high-quality videos, offering an unparalleled viewing experience. 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/fotor-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -261,6 +272,21 @@ Owwlish is the new and easy way to add an online course to your website, no matt
 
 
 ## Accounting & Finance
+
+### Tradepost.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tradepost.ai.webp" alt="Tradepost.ai">
+
+#### AI-powered analysis of financial newsletters and SEC filings
+[Visit](https://www.thataicollection.com/redirect/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Forward financial newsletters and research reports to your Tradepost inbox and get actionable investment ideas with solid foundations. Gain insights from SEC filings and filter your datafeed of ideas by asset class, market sector, or geographical exposure.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### MoneyCoach
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
@@ -351,21 +377,6 @@ Picked by AI
 Stocknews AI is a curation of the best new stocknews, every day. Discover the latest stocknews that everyone''s talking about.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/stocknews-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Eilla
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-eilla.webp" alt="Eilla">
-
-#### Eilla - AI Platform to Power the M&A, VC and PE Deal Workflow.
-[Visit](https://www.thataicollection.com/redirect/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Mirroring highest quality industry professionals to automate mundane tasks and support complex decision-making. Get early access to Eilla now.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -992,6 +1003,23 @@ AlTable.ai is a work platform that lets you organize any data with Al. AlTable.a
 
 
 
+### Interview Solver
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interview-solver.webp" alt="Interview Solver">
+
+#### Ace your live coding interviews with our AI Copilot
+[Visit](https://www.thataicollection.com/redirect/interview-solver?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Interview Solver is an AI Copilot that helps you pass your live coding and system design interviews.
+
+Whether you''re a seasoned developer or a fresh graduate, Interview Solver provides you with the assistance and resources you need to showcase your skills and impress your interviewers.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/interview-solver?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Text2SQL
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-text2sql.webp" alt="Text2SQL">
 
@@ -1066,21 +1094,6 @@ Webscrape AI is an advanced, user-friendly platform that allows individuals and 
 <br />
 
 
-
-
-### CodeWP
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-codewp.webp" alt="CodeWP">
-
-#### Codewp - AI Wordpress Code Generator & Assistant
-[Visit](https://www.thataicollection.com/redirect/codewp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-CodeWP is a WordPress code generator that uses AI and specialized models for WordPress, Woo and others to help you build better & quicker.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/codewp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 
@@ -3050,6 +3063,36 @@ Your wildest dreams are just a click away today!
 
 
 
+### Dittin AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
+
+#### Dittin AI - uncensored NSFW AI Chatbot Platform
+[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dittin AI is an NSFW AI chatbot platform built on DittinLLM. With minimal restrictions on NSFW content, you can engage in conversations with AI characters on a wide range of topics. Dittin AI supports 3D avatars and voice messages, allowing you to create and share AI characters with both sound and interactive 3D avatars using the creation panel.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Nextpart AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nextpart-ai.webp" alt="Nextpart AI">
+
+#### Feel the pulse of AI - seductive intelligence, captivating experience, beyond human
+[Visit](https://www.thataicollection.com/redirect/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nextpart.ai chatbot elevates your chatting experience with No Filter NSFW scenarios – romantic escapes, roleplays, lifestyle adventures and events.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Nudify.online
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online_.webp" alt="Nudify.online">
 
@@ -3095,37 +3138,6 @@ Whether surviving on a deserted island, navigating through space in a spaceship,
 Dive into the world of numerous AI girls and start playing now!
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Dittin AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
-
-#### Dittin AI - uncensored NSFW AI Chatbot Platform
-[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Dittin AI is an NSFW AI chatbot platform built on DittinLLM. With minimal restrictions on NSFW content, you can engage in conversations with AI characters on a wide range of topics. Dittin AI supports 3D avatars and voice messages, allowing you to create and share AI characters with both sound and interactive 3D avatars using the creation panel.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nectar AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nectar-ai.webp" alt="Nectar AI">
-
-#### Create your perfect Dream Girl in just seconds!
-[Visit](https://www.thataicollection.com/redirect/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nectar is a generative AI platform that offers two products: (1) Image Creator and (2) Roleplay.
-Image Creator is a powerful generative AI tool to create photos and videos, while Roleplay allows you to explore different fantasies and create your custom character. Our generation times for both text and language are one of the fastest in the industry.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3293,24 +3305,6 @@ your face onto a variety of professional backdrops and clothing options.
 
 
 
-### Fotor
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor">
-
-#### Fotor - Online photo editor for everyone. Edit photos faster and easier with AI.
-[Visit](https://www.thataicollection.com/redirect/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-online photo editor offers everything you need to enhance and edit photos effortlessly. Experience simple photo editing online for free! . Complex photo editing made simple with Fotor AI photo editor. AI Photo Enhancer, AI Background Remover, AI Object Remover and more.
-
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### HitPaw Online Photo Enhancer
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-photo-enhancer.webp" alt="HitPaw Online Photo Enhancer">
 
@@ -3369,6 +3363,24 @@ AI-Generated Headshots is The Future of Portraits
 Transform your regular photos into professional business headshots with our AI headshot generator. Choose your style, upload your photos, and get 200 headshots!
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/headpix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Fotor
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor">
+
+#### Fotor - Online photo editor for everyone. Edit photos faster and easier with AI.
+[Visit](https://www.thataicollection.com/redirect/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+online photo editor offers everything you need to enhance and edit photos effortlessly. Experience simple photo editing online for free! . Complex photo editing made simple with Fotor AI photo editor. AI Photo Enhancer, AI Background Remover, AI Object Remover and more.
+
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

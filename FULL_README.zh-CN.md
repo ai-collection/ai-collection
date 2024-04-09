@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1238" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1252" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -72,6 +72,19 @@
     <h4>把你的自拍变成专业头像</h4>
     <p>市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。</p>
     <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 The Multiverse AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/tradepost.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tradepost.ai.webp" alt="Tradepost.ai" border="0"/>
+    </a>
+    <h4>基于人工智能的金融时事通讯和美国证券交易委员会文件分析</h4>
+    <p>将金融时事通讯和研究报告转发到您的Tradepost收件箱，并在坚实的基础上获得切实可行的投资建议。从美国证券交易委员会的文件中获得见解，并按资产类别、市场领域或地域敞口筛选您的创意数据源。</p>
+    <a href="https://www.thataicollection.com/redirect/tradepost.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Tradepost.ai</b></a>
     <br />
 </div>
 
@@ -225,6 +238,7 @@
 | [Ghostwriter](https://www.thataicollection.com/redirect/ghostwriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Replit：基于协作浏览器的 IDE. | 在浏览器中实时运行代码。使用功能强大的 IDE、编译器和解释器 Replit，以 50 多种语言在线编写和运行代码。. | :grey_question: |
 | [GitHub Copilot](https://www.thataicollection.com/redirect/github-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 您的 AI 结对程序员. | GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器实时建议代码和整个功能. | :grey_question: |
 | [Hiphops AI](https://www.thataicollection.com/redirect/hiphops-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在您的开发工作流程中的任何地方注入人工智能. | Hiphops AI 可让您将生成式 AI 集成到开发工作流程中的任何位置，以便您可以完全自动化开发、测试、部署和发布流程。. | :white_check_mark: |
+| [Interview Solver](https://www.thataicollection.com/redirect/interview-solver?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用我们的 AI Copilot 在实时编程面试中脱颖而出. | Interview Solver 是一款 AI Copilot，可帮助您通过实时编程和系统设计面试。  无论你是经验丰富的开发者还是应届毕业生，Interview Solver 都能为您提供展示技能和给面试官留下深刻印象所需的帮助和资源。. | :grey_question: |
 | [Klu](https://www.thataicollection.com/redirect/klu?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Klu.ai 是一个多合一平台，专为 AI 团队构建、部署和优化生成式 AI 应用程序而设计。. | Klu.ai 是一个多合一平台，专为 AI 团队构建、部署和优化生成式 AI 应用程序而设计。它允许用户使用其名为Klu Studio的直观界面轻松设计、开发和迭代生成式人工智能功能和应用程序。. | :white_check_mark: |
 | [Kyligence Copilot](https://www.thataicollection.com/redirect/kyligence-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过 AI Copilot for Data 提高您的 KPI. | 认识一下 Kyligence Copilot – 您的数据人工智能副驾驶。只需聊天、询问和发现即可。我们的人工智能驱动的聊天机器人了解您的业务指标，使您能够评估您的 KPI、提供建议、以自然语言创建数据产品，而无需技术专业知识。. | :white_check_mark: |
 | [Marblism](https://www.thataicollection.com/redirect/marblism?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 根据提示生成 SaaS 样板. | Marblism 通过一个提示符生成一个功能齐全的 Web 应用程序：  1。描述应用程序和你想要构建的所有功能  2。我们生成数据库架构  3.我们在 NodeJS 中生成后端  4。我们在 React 中生成包含你应用程序所有功能的前端  5。克隆 Github 存储库然后你就可以开始了！. | :white_check_mark: |
@@ -264,6 +278,7 @@
 | [Rocket Statements](https://www.thataicollection.com/redirect/rocket-statements?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 火箭对账单-#1 银行对账单转换器. | Rocket Statements是企业家、注册会计师、企业主想要将银行对账单从pdf转换为excel时的首选工具。它使用卓越的人工智能副驾驶和机器学习来获得准确率达到 99.9% 的结果。. | :grey_question: |
 | [StockGPT](https://www.thataicollection.com/redirect/stockgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的搜索引擎. | StockGPT 是一个基于人工智能的搜索引擎，它接受了特斯拉 2011 年第二季度以来所有季度收益电话会议记录的训练。. | :white_check_mark: |
 | [Stocknews AI](https://www.thataicollection.com/redirect/stocknews-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 来自 100 多个来源的最佳股票新闻 由 AI 挑选. | Stocknews AI 每天都是精选最新股票新闻的策展人。发现每个人都在谈论的最新股票新闻。. | :white_check_mark: |
+| [Tradepost.ai](https://www.thataicollection.com/redirect/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 基于人工智能的金融时事通讯和美国证券交易委员会文件分析. | 将金融时事通讯和研究报告转发到您的Tradepost收件箱，并在坚实的基础上获得切实可行的投资建议。从美国证券交易委员会的文件中获得见解，并按资产类别、市场领域或地域敞口筛选您的创意数据源。. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
@@ -442,6 +457,7 @@
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
 | [AI-story-Generator.site](https://www.thataicollection.com/redirect/ai-story-generator.site?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 这个工具可以帮助你创作精彩的故事. | AI 故事生成器是一款免费的在线工具，可以帮助您生成精彩的故事。您只需要输入简单的提示即可快速生成精彩的故事。该网站上还有其他各种工具可供免费使用。. | :white_check_mark: |
+| [AIML API](https://www.thataicollection.com/redirect/aiml-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 100 多个 AI 模型可全天候访问 用 1 行代码从 OpenAI 过渡. | AI/ML API 由开发人员为开发人员构建。我们以市场上最低的价格保证商用级人工智能模型的质量和稳定性。. | :white_check_mark: |
 | [Adobe Express](https://www.thataicollection.com/redirect/adobe-express?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在几分钟内免费制作 YouTube 缩略图。. | 只需轻点几下，即可为您的频道创建引人注目的YouTube缩略图。开始使用免费模板，您可以在 Adobe Express 中自定义以制作值得点击的缩略图。. | :white_check_mark: |
 | [B12 No-Code AI](https://www.thataicollection.com/redirect/b12-no-code-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | B12 的无代码 AI 使任何人都可以在几分钟内构建自定义 AI 工具。无需专业知识，只需几分钟即可从使用 AI 到创建您自己的 AI 工具。. | 释放新的日常效率，从吸引潜在客户、发现新想法、分析数据到处理特定于您所在行业的任务。. | :white_check_mark: |
 | [Clipdrop](https://www.thataicollection.com/redirect/clipdrop?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在几秒钟内创建令人惊叹的视觉效果. | 由人工智能提供支持的面向所有创作者的应用程序、插件和资源的终极生态系统。. | :white_check_mark: |
@@ -481,7 +497,6 @@
 | [Paperade](https://www.thataicollection.com/redirect/paperade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Paperade 创业点子生成器. | Paperade 是第一个基于 AI 的工具，可以从 1 亿多篇学术论文和研究中生成商业用例和公司创意。. | :grey_question: |
 | [PlanSnack](https://www.thataicollection.com/redirect/plansnack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用我们的商业计划书生成器，在几分钟内创建您的商业计划书。. | PlanSnack是为您的初创企业或小型企业制定有效的商业计划的最简单方法。借助我们经过行业验证的商业计划书模板和易于定制的示例，您将在几分钟内而不是几天或几小时内创建专业的单页商业计划书。PlanSnack 在任何意义上都是 100% 免费的，因此您可以免费创建、共享和下载商业计划书。. | :white_check_mark: |
 | [Podcast Name Generator by Podcast Rocket](https://www.thataicollection.com/redirect/podcast-name-generator-by-podcast-rocket?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在 AI 的支持下，免费为您的播客找到完美的名字。. | 为您的播客创建一个引人入胜且令人难忘的名字需要将创造力、策略和对目标受众的理解相结合。  使用我们的工具，您可以编写简短的描述并一次输出数百种组合。然后选择你最喜欢的那个。. | :white_check_mark: |
-| [Redesign With AI](https://www.thataicollection.com/redirect/redesign-with-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 借助 AI 平台，重新设计使设计变得更简单，更具创造力。. | 用 AI 重新设计！人工智能设计生成器，它使用AI根据提示词生成所有设计，例如图标，徽标，免费贴纸，海报，彩页，模型。. | :white_check_mark: |
 | [Validator AI](https://www.thataicollection.com/redirect/validator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 立即免费开始您的创业之旅. | 输入您的创业想法，我们的人工智能创业导师将免费对其进行分析。您可以随心所欲地与我们的人工智能导师聊天机器人交谈，并学习有关创办初创公司所需了解的任何信息！. | :grey_question: |
 | [Videomuse](https://www.thataicollection.com/redirect/videomuse?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 只需粘贴您的频道 URL，即可毫不费力地产生新鲜的视频创意。在几秒钟内，收到为您的内容量身定制的丰富灵感。. | 作为内容创作者，我们都会遇到想法枯竭的时刻。该网站将帮助您根据当前上传的内容集思广益。您只需给它链接到您的频道（或任何频道），让奇迹发生。对于每个想法，您还可以生成一些细节 - 视频应该涵盖什么、关于视频结构的提示等。. | :white_check_mark: |
 
@@ -593,6 +608,7 @@
 | [Poised 2.0](https://www.thataicollection.com/redirect/poised-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Poised-免费人工智能驱动的沟通教练. | 在演示、访谈、客户电话等方面，您的 AI 反馈合作伙伴。通过在线会议之前、期间和之后的私人反馈，在会议中更有效地沟通. | :white_check_mark: |
 | [ResolveAI](https://www.thataicollection.com/redirect/resolveai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 解决AI. | 我们的 AI 聊天机器人旨在了解客户问题并实时提供量身定制的准确响应。. | :grey_question: |
 | [WADeck](https://www.thataicollection.com/redirect/wadeck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 智能对话，更智能的 CRM：使用 ChatGPT AI 提升您的 WhatsApp 业务沟通. | Wadeck 是一款免费的 WhatsApp CRM 工具，它配备了基于 GPT 的人工智能助手，可增强您的工作流程和工作效率。它允许对对话进行自定义选项卡组织，从而实现高效的协调。您可以创建和发送带有富媒体附件的可自定义消息模板。使用 waDeck 可以毫不费力地将您的交易率提高一倍。. | :white_check_mark: |
+| [Webagent.ai](https://www.thataicollection.com/redirect/webagent.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 借助 AI 平台，重新设计使设计变得更简单，更具创造力。. | 用 AI 重新设计！人工智能设计生成器，它使用AI根据提示词生成所有设计，例如图标，徽标，免费贴纸，海报，彩页，模型。. | :white_check_mark: |
 | [Webapi.ai 2.0](https://www.thataicollection.com/redirect/webapi.ai-2.0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用于客户服务的 ChatGPT. | 使用 GPT-4 与潜在客户互动、回答有关您的业务的问题、记录客户数据并连接您选择的任何 API。. | :white_check_mark: |
 
 
@@ -612,6 +628,7 @@
 | [LustGF AI Girlfriend](https://www.thataicollection.com/redirect/lustgf-ai-girlfriend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创建完全未经审查的完美虚拟伴侣。立即与您的AI女友享受私密和色情交流。. | LustGF是一款未经审查的AI女友模拟器，可将您梦想中的虚拟伴侣变为现实。参与NSFW对话，探索你最深的幻想，并与你的AI伴侣体验更高层次的色情联系。和你的梦想女友约会，专为满足你的喜好而设计。. | :white_check_mark: |
 | [NSFWLover](https://www.thataicollection.com/redirect/nsfwlover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | NSFWLover：在未经审查的聊天中与 NSFW 的人工智能角色和 AI 合作伙伴互动。. | 让自己沉浸在不受限制的 NSFW AI 聊天中。自定义你的 AI 角色，体验真实、无限的 NSFW 互动。释放你的创造力，打造你独特的 AI 角色。立即开始探索！. | :white_check_mark: |
 | [Nectar AI](https://www.thataicollection.com/redirect/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在短短几秒钟内创建完美的梦中女孩！. | Nectar是一个生成式人工智能平台，提供两种产品：（1）图像创建器和（2）角色扮演。 Image Creator是一款强大的生成式人工智能工具，用于创建照片和视频，而角色扮演允许您探索不同的幻想并创建自定义角色。我们的文本和语言生成时间是业内最快的生成时间之一。. | :white_check_mark: |
+| [Nextpart AI](https://www.thataicollection.com/redirect/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 感受 AI 的脉搏——超越人类的诱人智能、迷人的体验. | Nextpart.ai 聊天机器人通过 No Filter NSFW 场景提升您的聊天体验——浪漫逃亡、角色扮演、生活方式冒险和活动。. | :white_check_mark: |
 | [Nudes – Face Swap](https://www.thataicollection.com/redirect/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在我们的网站上释放换脸色情和Deepfake Porn Magic的潜力！. | 一个 Telegram nudes_Faceswap_bot！这个机器人可以交换任何视频的面孔。如何使用？ 1) .只需上传一张脸部图像即可。  2) .上传或选择目标视频。  3)。等待结果。. | :white_check_mark: |
 | [Nudify.online](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用我们的免费服务脱衣服任何人。Deepnude AI On Nudify — 免费为任何女孩脱衣服！. | 用于免费深度裸体的Undress AI照片生成器.Nudify deepnude AI 使用深度伪造裸照和比基尼照片的最高精度。只需选择年龄、体型、素质，即可在几秒钟内得到结果。. | :white_check_mark: |
 | [Nudifying](https://www.thataicollection.com/redirect/nudifying?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Nudifying提供了一项独特的服务，他们承诺通过其用户友好的平台 “为任何人脱衣服”。. | 通过选择年龄、体型和质量等特定标准，用户可以在几秒钟内获得结果。值得注意的是，Nudifying仅强调其娱乐目的，并确保没有冒犯的意图。用户必须记住，他们对自己创建的图像承担全部责任，并且在使用他人的照片之前应获得适当的同意。. | :white_check_mark: |
@@ -946,6 +963,7 @@
 ## 生产力与个人成长
 | 姓名 | 标题 | 描述 | 提供免费版本 |
 |---|---|---|:---:|
+| [AI Finder](https://www.thataicollection.com/redirect/ai-finder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Finder-使用 LLM 查询您的文件系统。. | AI Finder 是你的档案 “金毛寻回犬”。它旨在成为您的文件搜索助手，帮助您避免在一堆文档中搜索所需的文件。  你给出指令，它可以帮助你在一堆混乱的文档中找到所需的文件。  它可以帮助您处理与文件相关的其他任务，从而节省时间并提高工作效率。. | :grey_question: |
 | [AI-Flow](https://www.thataicollection.com/redirect/ai-flow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-FLOW 是一个创新的开源平台，旨在轻松连接和组合领先的 AI 模型，根据您的独特需求量身定制自定义 AI 工具。. | AI-FLOW 是一个多功能平台，使您能够为各种应用构建量身定制的解决方案。无论您是简化社交媒体内容创作、总结YouTube视频、升级人工智能生成的图像，还是将文字描述转换为视频片段，AI-FLOW都能提供创新和脱颖而出所需的工具。. | :white_check_mark: |
 | [AICamp](https://www.thataicollection.com/redirect/aicamp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 适用于团队的 ChatGPT AiCamp 使团队能够通过统一平台集中访问领先的人工智能模型，如 Claude、Bard 和自定义大型语言模型。. | 您可以使用自己的 API 密钥集成这些模型，以便在一个解决方案中无缝访问。 该平台使团队无需在多个工具之间切换即可利用不同的人工智能功能，从而提高生产力。借助 AiCamp，员工可以获得由最先进的语言模型支持的答案、推荐和自动回复。. | :white_check_mark: |
 | [Alphana](https://www.thataicollection.com/redirect/alphana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 将视频转换为可共享内容的 AI 内容管理器. | Alphana可以轻松地将视频、播客和你的想法转化为简洁的摘要或可共享的内容，例如文章、X/Twitter话题、LinkedIn帖子等等。您可以在不到 60-90 秒的时间内实现整个后期制作过程的自动化。. | :white_check_mark: |
@@ -1044,6 +1062,7 @@
 | [Scispace](https://www.thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Scispace by Typeset-发现、创建、发布和推广您的研究论文. | 使用 ScisSpace 与 PDF 聊天，更快地进行文献综述。查阅 2 亿多篇论文或上传您自己的 PDF，突出显示文本或提问，并提取解释和摘要。. | :grey_question: |
 | [Sourcely](https://www.thataicollection.com/redirect/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Sourcely-在几分钟内完成研究。拯救您的睡眠。. | 人工智能驱动的文献采购工具，可根据用户输入快速检索相关文本。借助先进的自然语言处理技术，它可以轻松访问各种信息源，从而节省时间和精力。向 Sourcely AI 寻求帮助。. | :white_check_mark: |
 | [Synthical](https://www.thataicollection.com/redirect/synthical?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的协作研究环境. | 简化文章以理解复杂的术语、获得精彩的推荐、搜索类似的文章并轻松与团队协作。. | :white_check_mark: |
+| [The Visualizer](https://www.thataicollection.com/redirect/the-visualizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 在几分钟内轻松学习复杂的话题，. | The Visualizer 是一款独特的工具，将人工智能的力量与思维导图的实用性相结合，深受成千上万的学习者和创作者的喜爱。它旨在通过提供复杂信息的可视化表示来帮助学习者和创作者。. | :white_check_mark: |
 | [Vocads Survey](https://www.thataicollection.com/redirect/vocads-survey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 对话式语音 AI 重塑调查. | 公司在调查中缺乏回应和参与。 Vocads 通过与 AI 的语音对话重塑调查体验。. | :grey_question: |
 
 
@@ -1168,6 +1187,7 @@
 | [Stunning.so](https://www.thataicollection.com/redirect/stunning.so?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 构建网站。. | 在 30 秒内构建令人惊叹的网站，包括由 AI 提供支持的副本甚至图像. | :white_check_mark: |
 | [Uizard](https://www.thataicollection.com/redirect/uizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Uizard - 应用程序、Web 和 UI 设计变得简单 - 由 AI 提供支持. | 在几分钟内设计出令人惊叹的网站、网络应用程序、移动应用程序、界面、线框、原型、模型。 毫不费力地可视化和传达您的想法。 无需设计经验！. | :white_check_mark: |
 | [Zarla Website Builder](https://www.thataicollection.com/redirect/zarla-website-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 Zarla 的人工智能建站工具，创建网站的速度可提高 100 倍。有了 Zarla，你可以告别拖放操作，再也不用编写、设计或编写网站代码了。. | Zarla 的人工智能建站工具可在不到两分钟的时间内创建完全完成的网站，包括文本、图像和布局。此外，我们的建站工具针对移动设备进行了100％优化，因此您可以随时随地通过手机启动您的网站。. | :white_check_mark: |
+| [redesign with ai](https://www.thataicollection.com/redirect/redesign-with-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 借助 AI 平台，重新设计使设计变得更简单，更具创造力。. | 用 AI 重新设计！人工智能设计生成器，它使用AI根据提示词生成所有设计，例如图标，徽标，免费贴纸，海报，彩页，模型。. | :white_check_mark: |
 | [welovenocode](https://www.thataicollection.com/redirect/ai-project-description-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 聘请顶尖的无代码和低代码人才，以快速且经济实惠的方式构建您的网站. | 与构建价值数百万美元产品的可靠、经过审查的专家合作. | :x: |
 | [yep](https://www.thataicollection.com/redirect/yep?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 是的-从创意到注册只需 5 分钟。. | 从构思到发布只需 5 分钟。 向复杂的页面生成器说再见。认识一下 Yep ——你一直在寻找的免费、直观的无代码登陆页面生成器。. | :white_check_mark: |
 
@@ -1301,6 +1321,7 @@
 | [B^ DISCOVER](https://www.thataicollection.com/redirect/b^-discover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | B^ Discover-在 IMAGEEEES 中发现你的愿望、幻想、情感、梦想、日记、生活、幻想！. | 您将获得在图像中发现故事的全新体验。B^ DISCOVER 是一项基于人工智能生成模型的服务 Karlo。. | :white_check_mark: |
 | [BabAI Child Generator](https://www.thataicollection.com/redirect/babai-child-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI ✨ 生成你未来的孩子的照片. | BabaI 是基于父母照片的终极儿童生成器。只需提交 2 张图片（1 张给父亲，1 张给母亲），即可在 9 小时内收到人工智能生成的儿童图片。. | :white_check_mark: |
 | [Bg Eraser](https://www.thataicollection.com/redirect/bg-eraser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bg Eraser - 图片清理魔术橡皮擦. | 强大的人工智能修复和图片清理技术。在几秒钟内删除不需要的对象并清理图片。. | :grey_question: |
+| [BgRem](https://www.thataicollection.com/redirect/bgrem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用于创建和编辑媒体内容的令人难以置信的 AI 工具. | bGrem 提供多种功能，例如图像生成器，它允许您根据给定的提示生成图像和精美的艺术品 Photo into Painting，它可以通过模拟手绘技术 “擦除和替换” 将普通照片转化为非凡的艺术品，可以轻松删除或替换图像中不需要的物体、人物或文本。. | :white_check_mark: |
 | [Bloomoon](https://www.thataicollection.com/redirect/bloomoon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bloomoon-顺应艺术的数字浪潮。. | 由人工智能算法创作的 AI 艺术。人工智能生成的艺术充满激情。在 bloomoon 探索人工智能生成的独特画作。. | :grey_question: |
 | [CLIP STUDIO PAINT](https://www.thataicollection.com/redirect/clip-studio-paint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 第1号第1号*のののの，アニメーションアプリ。みんな使ってるてるから，憧れのの作风も再现再现再现できできてたくさん. | はリアルな味と充実の充実，惊くほど便利多数多数多数。世界世界世界世界中中のユーザーユーザーががアップロードしたたたたたた万点万点万点万点万点以上素材素材素材を. | :grey_question: |
 | [Cartoonize](https://www.thataicollection.com/redirect/cartoonize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 图像到卡通-人工智能漫画家。立即免费创建令人惊叹的不同风格的卡通头像和人物！. | 用样式卡通化您的脸部照片并制作出色的头像。将人脸图像或照片转换为卡通，并在 5 秒内零点击自动将自己 100% 卡通化。. | :white_check_mark: |
@@ -1449,6 +1470,8 @@
 | [FilmForge](https://www.thataicollection.com/redirect/filmforge?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | FilmForge人工智能. | 立即生成引人入胜的视频。包括字幕、画外音、文字记录和图形。. | :grey_question: |
 | [FlexClip](https://www.thataicollection.com/redirect/flexclip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | FlexClip-一款易于使用的人工智能视频编辑器. | FlexClip 是一个人工智能驱动的视频编辑平台，使用户能够毫不费力地制作专业水准的视频。它提供了一个欢迎所有级别用户的界面。FlexClip 拥有大量预先设计的模板、图库图片、视频和音乐，可以有效地为用户启动项目做好准备。. | :white_check_mark: |
 | [Fliki](https://www.thataicollection.com/redirect/fliki?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 将文本变成带有 AI 语音的视频. | 在 2 分钟内使用逼真的声音从脚本或博客文章创建视频！. | :white_check_mark: |
+| [Fotor video background remover](https://www.thataicollection.com/redirect/fotor-video-background-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 轻点一下即可立即从人像视频中移除背景。100% 自动，支持 AI！. | 让自己摆脱绿屏视频拍摄的复杂性。Fotor的视频背景去除器可简化您的拍摄过程，使您可以在任何地方拍摄，而不必担心背景混乱。无需绿屏和昂贵的拍摄设备。录制并擦除视频背景，为精彩内容做好准备！. | :white_check_mark: |
+| [Fotor video enhancer](https://www.thataicollection.com/redirect/fotor-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 试试Fotor的在线视频增强器来立即提高视频质量，包括清晰度、亮度等设置，以使视频更清晰。无需技能和安装。. | 无限使用一流的视频增强器，轻松提高视频质量。在人工智能的支持下，Fotor的视频质量增强器超越了传统方法，可以自动识别视频内容并无缝应用视频增强功能。只需单击一下，即可将240p、360p、480p等视频转换为高质量的视频，从而提供无与伦比的观看体验。. | :white_check_mark: |
 | [Gling](https://www.thataicollection.com/redirect/gling?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创作者，让你的时间回来. | 我们的 AI 会为您消除沉默和糟糕的镜头，这样您就可以专注于您的 YouTube 视频. | :grey_question: |
 | [HeyGen](https://www.thataicollection.com/redirect/heygen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 没有相机？没有船员？没问题！ 使用可定制的 AI 头像扩展您的视频制作. | HeyGen 是一个视频平台，可帮助您利用生成式 AI 创建引人入胜的商业视频， 就像为各种用例制作 PowerPoint 一样简单： 讲解和操作方法、营销、个性化销售、电子学习、培训和入职以及新闻。. | :grey_question: |
 | [HitPaw Online Video Enhancer](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 通过训练有素的 AI 一键取消模糊和升级您的视频。. | HitPaw Online Video Enhancer 是低分辨率视频的最佳解决方案，可以毫不费力地将视频解决方案提高到 1080P/4K。. | :x: |
@@ -1568,6 +1591,7 @@
 | [Typegrow](https://www.thataicollection.com/redirect/typegrow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 利用 AI 将你的 LinkedIn 受众增长速度提高. | Typegrow是一款由人工智能驱动的工具，可以将你的领英受众增长速度提高10倍。它可以帮助您创建和安排更好的内容，并每天以更少的工作量获得更多的覆盖面、参与度和关注者。  它是个人创作者在LinkedIn或管理客户资料的社交媒体机构上建立个人品牌的理想工具。. | :white_check_mark: |
 | [Userevaluation](https://www.thataicollection.com/redirect/userevaluation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用户评价-客户了解平台. | 无论您专注于 UI、UX 研究、设计还是 CX——用户评估的 AI 都可以回答您的所有问题. | :white_check_mark: |
 | [Userpersona](https://www.thataicollection.com/redirect/userpersona?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用户角色-人工智能生成的用户角色. | 使用 UserPersona.dev 快速轻松地创建详细的用户角色！无需注册。我们的平台使用对您的产品或服务的简短描述来生成理想的客户档案，这将帮助您定位合适的受众，提高转化率，并从营销工作中获得更好的结果。. | :white_check_mark: |
+| [Verk](https://www.thataicollection.com/redirect/verk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 建立一支由类人的 AI 员工组成的数字化员工队伍。为您的企业寻找像数字工作者一样的人，例如人工智能销售代表、人工智能平面设计师、人工智能市场研究员、人工智能营销人员等. | 雇用 AI 员工为您的团队增添更多火力，全天候工作以处理销售、充当您的私人助理、进行平面设计等等... • 一年中的每一天全天候可用 • 比人工员工便宜 10 倍，效率更高 • 不断自我提高，可接受培训以学习新技能. | :white_check_mark: |
 | [unbounce](https://www.thataicollection.com/redirect/unbounce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 助您发展业务的智能营销工具. | 将更多的访问者变成客户。 Unbounce 是人工智能驱动的登陆页面构建器，具有智能功能，可让您在短短几分钟内创建美观、高效的营销活动。. | :x: |
 
 
