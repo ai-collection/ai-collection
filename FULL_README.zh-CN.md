@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1252" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1261" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,25 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>创建数字双胞胎，了解自己的真实身份，将其应用到应用程序中，体验科技的未来。 </h4>
-    <p>Vana允许你利用数据和人工智能的力量创建迷你 “你”。克隆你的声音，生成自拍照，并通过与数据交谈来了解你的数据。将 AI “你” 带到Vana网络中的应用程序中，探索个性化游戏、模拟和人工智能助手工具。Vana让你控制自己的数据和人工智能，让你把它变成神奇的东西。 </p>
-    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Vana</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
-    </a>
-    <h4>把你的自拍变成专业头像</h4>
-    <p>市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。</p>
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 The Multiverse AI</b></a>
+    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
+    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
     <br />
 </div>
 
@@ -85,6 +72,19 @@
     <h4>基于人工智能的金融时事通讯和美国证券交易委员会文件分析</h4>
     <p>将金融时事通讯和研究报告转发到您的Tradepost收件箱，并在坚实的基础上获得切实可行的投资建议。从美国证券交易委员会的文件中获得见解，并按资产类别、市场领域或地域敞口筛选您的创意数据源。</p>
     <a href="https://www.thataicollection.com/redirect/tradepost.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Tradepost.ai</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
+    </a>
+    <h4>把你的自拍变成专业头像</h4>
+    <p>市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。</p>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 The Multiverse AI</b></a>
     <br />
 </div>
 
@@ -374,6 +374,7 @@
 | [Writery AI](https://www.thataicollection.com/redirect/writery-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 人工智能驱动的写作平台极大地改变了创建书面内容的方式。从主题或关键字撰写文章。. | 我们的免费 AI 写作生成器已针对最佳 SEO 实践进行了优化，可以根据主题或关键字为博客文章/文章生成高质量的原创内容。我们提供一系列选项来满足您的博客内容需求，包括四种任务类型（博客大纲、博客介绍、博客标题和博客创意），以及超过 14 种不同的语气和 23 种语言可供选择。. | :white_check_mark: |
 | [Writesonic](https://www.thataicollection.com/redirect/writesonic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Writesonic - 最佳 AI 作家、文案写作和释义工具. | 以 10 倍的速度为您的博客、广告、电子邮件和网站创建 SEO 优化且无抄袭的内容。. | :white_check_mark: |
 | [Writey AI](https://www.thataicollection.com/redirect/writey-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 是的——一个人工智能可以在几分钟内写出原创的、经过研究的博客文章. | 第一个真正的免费抄袭 A.I 具有原创和研究内容，检查 Writey A.I 在行动。. | :white_check_mark: |
+| [ZeroGPT  Detector](https://www.thataicollection.com/redirect/zerogpt--detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ZeroGPT-免费的 ChatGPT 内容检测器（无需注册，无限字数）. | 查找 ChatGPT 生成内容的独特方法是使用 ZeroGPT.Tools。ZeroGPT 是一项完全免费的服务，对检测 AI 内容没有任何限制。它可以作为内容作者和学生的人工智能内容探测器。  ZeroGPT 是做什么的？  * 无限检测 * 免费使用 * 无需账号。 * 99% 准确的 AI 结果 * 简单的布局和出色的 GUI. | :white_check_mark: |
 | [aitxt](https://www.thataicollection.com/redirect/aitxt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 俄语在线文本生成器. | 我们的服务使用人工智能生成关于任何主题的长达 1 分钟的可理解文本. | :white_check_mark: |
 | [beehiiv AI](https://www.thataicollection.com/redirect/beehiiv-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 专为时事通讯运营商打造的人工智能。. | AI 写作助手 - 描述您想要写的内容的想法，选择语气和长度。 AI 文本工具 - 选择现有文本进行自动更正、自动完成或完全重新生成。 AI 图像工具 - 只需您的想象力即可生成美丽的图像。描述图像并将其变为现实。 AI 翻译 - 将您的内容无缝翻译成多种语言。. | :white_check_mark: |
 | [unbound](https://www.thataicollection.com/redirect/unbound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为您的小型企业自动创建内容. | 在一个地方利用所有最好的 AI 生成工具，旨在为小型企业、在线商店和创作者自动创建内容。. | :white_check_mark: |
@@ -632,6 +633,7 @@
 | [Nudes – Face Swap](https://www.thataicollection.com/redirect/nudes-–-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 在我们的网站上释放换脸色情和Deepfake Porn Magic的潜力！. | 一个 Telegram nudes_Faceswap_bot！这个机器人可以交换任何视频的面孔。如何使用？ 1) .只需上传一张脸部图像即可。  2) .上传或选择目标视频。  3)。等待结果。. | :white_check_mark: |
 | [Nudify.online](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用我们的免费服务脱衣服任何人。Deepnude AI On Nudify — 免费为任何女孩脱衣服！. | 用于免费深度裸体的Undress AI照片生成器.Nudify deepnude AI 使用深度伪造裸照和比基尼照片的最高精度。只需选择年龄、体型、素质，即可在几秒钟内得到结果。. | :white_check_mark: |
 | [Nudifying](https://www.thataicollection.com/redirect/nudifying?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Nudifying提供了一项独特的服务，他们承诺通过其用户友好的平台 “为任何人脱衣服”。. | 通过选择年龄、体型和质量等特定标准，用户可以在几秒钟内获得结果。值得注意的是，Nudifying仅强调其娱乐目的，并确保没有冒犯的意图。用户必须记住，他们对自己创建的图像承担全部责任，并且在使用他人的照片之前应获得适当的同意。. | :white_check_mark: |
+| [PornGen](https://www.thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PornGen是一个先进的人工智能平台，允许用户创建高质量、逼真和详细的NSFW图像。. | PornGen是一个人工智能驱动的平台，专门通过先进的图像生成技术创建成人内容。它生成的NSFW图像可满足各种用户偏好。用户通过提供文字提示或选择描述其预期结果的特定标签（例如身体类型、行为或服装风格）来与PornGen互动。. | :white_check_mark: |
 | [Undress.Vip](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude. | Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人. | :white_check_mark: |
 | [Undress.cc](https://www.thataicollection.com/redirect/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Undress CC是一款深度伪造的裸照生成器，它可以在短短几秒钟内给任何人脱衣服。. | 你怎么能做一个深裸的？ 只需要这 4 个步骤 登录平台 上传一张你想脱衣服的图片 选择所需的体型和年龄规格 按下 “生成” 按钮，享受最终结果. | :white_check_mark: |
 | [Your AI Girlfriend online](https://www.thataicollection.com/redirect/your-ai-girlfriend-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 你的AI女友在线-认识你的梦想女友. | 欢迎来到使用私人NSFW人工智能生成器量身定制的最好的NSFW AI聊天室！🔥  一切都是约会的乐趣，没有麻烦。. | :white_check_mark: |
@@ -748,6 +750,7 @@
 | [Coursebox](https://www.thataicollection.com/redirect/coursebox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 课程创建器和学习管理系统. | AI 课程创建器，可让您在几分钟内轻松使用 AI 创建课程。试试最好的人工智能课程生成器 Coursebox，立即免费使用人工智能构建在线课程。. | :white_check_mark: |
 | [Cratecode](https://www.thataicollection.com/redirect/cratecode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cratecode - 免费学习编码. | 通过在线课程和强大的 AI 助手学习编码！该助手可以分析您的代码，将您推向正确的方向，并为简单的主题撰写文章。. | :white_check_mark: |
 | [FairyTailAI](https://www.thataicollection.com/redirect/fairytailai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 的个性化睡前故事生成器. | 每天使用 AI 为您的孩子生成个性化的睡前童话故事。选择你想传达给孩子的场景、环境、角色名称和道德。您的故事将在不到一分钟的时间内准备就绪，并附上定制的适当插图和配音。或者，您可以从目录中选择已经生成的故事进行阅读。. | :white_check_mark: |
+| [LangMagic](https://www.thataicollection.com/redirect/langmagic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | LangMagic：通往语言精通的终极之路. | Langmagic是一个将语言学习者与优秀的本地内容和教师联系起来的平台，再加上巧妙的人工智能工具集，Langmagic将以最有效和最有趣的方式带领你掌握语言。   语言教师：使用Langmagic工具集和积极进取的语言学习者社区，将您的知识和内容货币化。. | :white_check_mark: |
 | [Langotalk](https://www.thataicollection.com/redirect/langotalk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Langotalk：使用人工智能学习语言的速度提高 6 倍. | 通过与人工智能聊天更快地掌握一门语言——在几周而不是几年内进行自信的对话。使用基于个性化人工智能聊天的工具改变您的语言学习体验。. | :white_check_mark: |
 | [Lorro](https://www.thataicollection.com/redirect/lorro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 花很少的钱就能说一口流利的英语。通过与 AI 导师交谈. | 使用由 AI 和 GPT-3 提供支持的高度个性化、令人兴奋的副本，让您的冷冰冰的电子邮件变得更加温暖. | :white_check_mark: |
 | [Podcast Highlights](https://www.thataicollection.com/redirect/podcast-highlights?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 播客亮点：深度潜水，少听. | 通过播客精彩集锦最大限度地提高您的播客体验！快速访问任何情节的简明摘要和重要摘要，在丰富知识的同时节省时间。根据个人兴趣量身定制您的发现，并与爱好者社区建立联系。在短短几分钟内提升您的学习和娱乐水平。. | :white_check_mark: |
@@ -897,6 +900,7 @@
 | [Blend](https://www.thataicollection.com/redirect/blend?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 在几秒钟内制作出令人惊叹的产品视觉效果. | 为您的产品创建令人惊叹的视觉效果所需的一切 - 只需几秒钟！将您的产品传送到专业级 AI 生成的背景中。使用直观的编辑器获取 1000 个可自定义的模板。. | :white_check_mark: |
 | [Blend Studio](https://www.thataicollection.com/redirect/blend-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 文本到图像 AI 背景生成器. | 根据您的描述，使用 AI 生成的背景场景为您的产品创建精美的高质量照片。. | :white_check_mark: |
 | [Claid.ai](https://www.thataicollection.com/redirect/claid.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 创建精美的转换内容. | 使用我们的人工智能产品套件自动化端到端图像创建并促进您的业务。创建适合您品牌的多个产品图像。通过将无聊的产品图像转变为拍摄质量的营销图像，简化您的内容创建过程. | :white_check_mark: |
+| [Cliclic AI](https://www.thataicollection.com/redirect/cliclic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cliclic AI-AI 产品照片背景编辑器. | Cliclic AI 产品图像背景编辑器是一款强大的工具，可帮助用户快速生成有吸引力的产品图像背景。通过使用预设场景或自定义匹配的场景元素，用户可以轻松创建自己的品牌产品的照片。该工具支持自定义尺寸，并兼容多个频道。. | :white_check_mark: |
 | [Colorize](https://www.thataicollection.com/redirect/colorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 利用深度学习的力量为照片着色. | 在线为照片着色 Colorize.cc - 是一种为黑白照片和视频着色的人工智能服务。只需点击几下，您就可以感受到机器学习技术的魔力。在几分钟内为数百张家庭照片着色。. | :x: |
 | [Edit @ Scale](https://www.thataicollection.com/redirect/edit-@-scale?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 产品照片的人工智能批量编辑器. | 使用 Edit @ Scale（产品照片的终极批量编辑器）转变您的电子商务业务。使用美丽、独特的背景同时无缝增强多个图像，从而节省时间和精力。. | :white_check_mark: |
 | [ExtendImage](https://www.thataicollection.com/redirect/extendimage?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ExtendImageAI - 使用生成式 AI 扩展您的图像. | ExtendImageAI 是一种工具，可让您使用生成式 AI 扩展图像。. | :grey_question: |
@@ -1042,6 +1046,7 @@
 | [Remail](https://www.thataicollection.com/redirect/remail?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 写邮件快 10 倍. | Remail 是 gmail 的 Chrome 扩展程序，它使用人工智能在几秒钟内起草高质量的电子邮件回复。. | :white_check_mark: |
 | [Smartwriter](https://www.thataicollection.com/redirect/smartwriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 生成 1000 封个性化电子邮件，让您在几分钟内获得 8 倍以上的回复. | 再也不要浪费时间研究或撰写“个性化”电子邮件。自动化您的整个外展流程。比人类快 40 倍，便宜 6 倍。. | :white_check_mark: |
 | [Warmer.Ai](https://www.thataicollection.com/redirect/warmer.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | WARMER.ai - AI 电子邮件编写器. | Warmer 使用 AI 电子邮件个性化来编写您的电子邮件外展。通过动态个性化增加回复、会议和销售。. | :grey_question: |
+| [airepli](https://www.thataicollection.com/redirect/airepli?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 电子邮件编写器可将电子邮件写作时间缩短 50%，突出显示电子邮件并生成即时的人类、内容丰富的回复，模式化学习 AI 由 GPT-4 提供支持，支持 50 多种语言. | ➤ 与您最喜欢的 Web 应用程序集成，提高您的效率和用户体验 ➤ 支持 50 多种语言，实现全球交流 ➤ 致力于保护通信隐私，将您的数据存储在本地并在您的控制之下 ➤ 其他上下文：使用额外的上下文框自定义响应 ➤ 直观的界面：使用无缝的用户界面浏览对话. | :grey_question: |
 | [superReply](https://www.thataicollection.com/redirect/superreply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 升级您的电子邮件游戏. | 您一直在等待的电子邮件回复技巧 - 无需从头开始编写即可轻松发送具有定制回复的有效回复. | :white_check_mark: |
 
 

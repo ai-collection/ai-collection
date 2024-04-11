@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1252" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1261" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,25 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vana.webp" alt="Vana" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
-    <h4>创建数字双胞胎，了解自己的真实身份，将其应用到应用程序中，体验科技的未来。 </h4>
-    <p>Vana允许你利用数据和人工智能的力量创建迷你 “你”。克隆你的声音，生成自拍照，并通过与数据交谈来了解你的数据。将 AI “你” 带到Vana网络中的应用程序中，探索个性化游戏、模拟和人工智能助手工具。Vana让你控制自己的数据和人工智能，让你把它变成神奇的东西。 </p>
-    <a href="https://www.thataicollection.com/redirect/vana/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Vana</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
-    </a>
-    <h4>把你的自拍变成专业头像</h4>
-    <p>市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。</p>
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 The Multiverse AI</b></a>
+    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
+    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
     <br />
 </div>
 
@@ -85,6 +72,19 @@
     <h4>基于人工智能的金融时事通讯和美国证券交易委员会文件分析</h4>
     <p>将金融时事通讯和研究报告转发到您的Tradepost收件箱，并在坚实的基础上获得切实可行的投资建议。从美国证券交易委员会的文件中获得见解，并按资产类别、市场领域或地域敞口筛选您的创意数据源。</p>
     <a href="https://www.thataicollection.com/redirect/tradepost.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Tradepost.ai</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
+    </a>
+    <h4>把你的自拍变成专业头像</h4>
+    <p>市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。</p>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 The Multiverse AI</b></a>
     <br />
 </div>
 
@@ -150,6 +150,99 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### ZeroGPT  Detector
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zerogpt--detector.webp" alt="ZeroGPT  Detector">
+
+#### ZeroGPT-免费的 ChatGPT 内容检测器（无需注册，无限字数）
+[Visit](https://www.thataicollection.com/redirect/zerogpt--detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+查找 ChatGPT 生成内容的独特方法是使用 ZeroGPT.Tools。ZeroGPT 是一项完全免费的服务，对检测 AI 内容没有任何限制。它可以作为内容作者和学生的人工智能内容探测器。
+
+ZeroGPT 是做什么的？
+
+* 无限检测
+* 免费使用
+* 无需账号。
+* 99% 准确的 AI 结果
+* 简单的布局和出色的 GUI
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/zerogpt--detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Cliclic AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliclic-ai.webp" alt="Cliclic AI">
+
+#### Cliclic AI-AI 产品照片背景编辑器
+[Visit](https://www.thataicollection.com/redirect/cliclic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Cliclic AI 产品图像背景编辑器是一款强大的工具，可帮助用户快速生成有吸引力的产品图像背景。通过使用预设场景或自定义匹配的场景元素，用户可以轻松创建自己的品牌产品的照片。该工具支持自定义尺寸，并兼容多个频道。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/cliclic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### airepli
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-airepli.webp" alt="airepli">
+
+#### AI 电子邮件编写器可将电子邮件写作时间缩短 50%，突出显示电子邮件并生成即时的人类、内容丰富的回复，模式化学习 AI 由 GPT-4 提供支持，支持 50 多种语言
+[Visit](https://www.thataicollection.com/redirect/airepli?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+➤ 与您最喜欢的 Web 应用程序集成，提高您的效率和用户体验
+➤ 支持 50 多种语言，实现全球交流
+➤ 致力于保护通信隐私，将您的数据存储在本地并在您的控制之下
+➤ 其他上下文：使用额外的上下文框自定义响应
+➤ 直观的界面：使用无缝的用户界面浏览对话
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/airepli?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### LangMagic
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-langmagic.webp" alt="LangMagic">
+
+#### LangMagic：通往语言精通的终极之路
+[Visit](https://www.thataicollection.com/redirect/langmagic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Langmagic是一个将语言学习者与优秀的本地内容和教师联系起来的平台，再加上巧妙的人工智能工具集，Langmagic将以最有效和最有趣的方式带领你掌握语言。 
+
+语言教师：使用Langmagic工具集和积极进取的语言学习者社区，将您的知识和内容货币化。 
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/langmagic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### PornGen
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
+
+#### PornGen是一个先进的人工智能平台，允许用户创建高质量、逼真和详细的NSFW图像。 
+[Visit](https://www.thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PornGen是一个人工智能驱动的平台，专门通过先进的图像生成技术创建成人内容。它生成的NSFW图像可满足各种用户偏好。用户通过提供文字提示或选择描述其预期结果的特定标签（例如身体类型、行为或服装风格）来与PornGen互动。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### redesign with ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-redesign-with-ai.webp" alt="redesign with ai">
 
@@ -174,91 +267,6 @@
 将金融时事通讯和研究报告转发到您的Tradepost收件箱，并在坚实的基础上获得切实可行的投资建议。从美国证券交易委员会的文件中获得见解，并按资产类别、市场领域或地域敞口筛选您的创意数据源。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AIML API
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aiml-api.webp" alt="AIML API">
-
-#### 100 多个 AI 模型可全天候访问
-用 1 行代码从 OpenAI 过渡
-[Visit](https://www.thataicollection.com/redirect/aiml-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI/ML API 由开发人员为开发人员构建。我们以市场上最低的价格保证商用级人工智能模型的质量和稳定性。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/aiml-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Verk
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-verk.webp" alt="Verk">
-
-#### 建立一支由类人的 AI 员工组成的数字化员工队伍。为您的企业寻找像数字工作者一样的人，例如人工智能销售代表、人工智能平面设计师、人工智能市场研究员、人工智能营销人员等
-[Visit](https://www.thataicollection.com/redirect/verk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-雇用 AI 员工为您的团队增添更多火力，全天候工作以处理销售、充当您的私人助理、进行平面设计等等...
-• 一年中的每一天全天候可用
-• 比人工员工便宜 10 倍，效率更高
-• 不断自我提高，可接受培训以学习新技能
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/verk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AI Finder
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-finder.webp" alt="AI Finder">
-
-#### AI Finder-使用 LLM 查询您的文件系统。
-[Visit](https://www.thataicollection.com/redirect/ai-finder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI Finder 是你的档案 “金毛寻回犬”。它旨在成为您的文件搜索助手，帮助您避免在一堆文档中搜索所需的文件。
-
-你给出指令，它可以帮助你在一堆混乱的文档中找到所需的文件。
-
-它可以帮助您处理与文件相关的其他任务，从而节省时间并提高工作效率。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-finder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### The Visualizer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-visualizer.webp" alt="The Visualizer">
-
-#### 使用 AI 在几分钟内轻松学习复杂的话题， 
-[Visit](https://www.thataicollection.com/redirect/the-visualizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-The Visualizer 是一款独特的工具，将人工智能的力量与思维导图的实用性相结合，深受成千上万的学习者和创作者的喜爱。它旨在通过提供复杂信息的可视化表示来帮助学习者和创作者。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/the-visualizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Fotor video enhancer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor-video-enhancer.webp" alt="Fotor video enhancer">
-
-#### 试试Fotor的在线视频增强器来立即提高视频质量，包括清晰度、亮度等设置，以使视频更清晰。无需技能和安装。
-[Visit](https://www.thataicollection.com/redirect/fotor-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-无限使用一流的视频增强器，轻松提高视频质量。在人工智能的支持下，Fotor的视频质量增强器超越了传统方法，可以自动识别视频内容并无缝应用视频增强功能。只需单击一下，即可将240p、360p、480p等视频转换为高质量的视频，从而提供无与伦比的观看体验。 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fotor-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -657,6 +665,21 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 <br />
 
 
+### BgRem
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bgrem.webp" alt="BgRem">
+
+#### 用于创建和编辑媒体内容的令人难以置信的 AI 工具
+[Visit](https://www.thataicollection.com/redirect/bgrem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+bGrem 提供多种功能，例如图像生成器，它允许您根据给定的提示生成图像和精美的艺术品 Photo into Painting，它可以通过模拟手绘技术 “擦除和替换” 将普通照片转化为非凡的艺术品，可以轻松删除或替换图像中不需要的物体、人物或文本。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/bgrem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Getimg.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getimg.ai.webp" alt="Getimg.ai">
 
@@ -711,27 +734,6 @@ ICONS8 允许设计师表达自己的想法，在正确的时间提供正确的�
 SUPERMACHINE 使您能够使用最新的人工智能技术生成图像。使用 55 多个模型生成精彩的 AI 图像。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Pet Booth
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
-
-#### Pet Booth 是一项用于创建自己的 AI 宠物肖像、艺术品和照片的服务。只需上传 10-20 张您的猫或狗的照片，然后从 80 多个主题中进行选择，即可将其转换成。
-[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pet Booth 是一项用于创建自己精彩的 AI 宠物肖像、照片和艺术品的服务。它快速、简单、有趣！
-
-它是如何工作的？
-
-只需上传 10-20 张您的猫或狗的照片，然后从 80 多个主题中进行选择，即可将其转换成。
-
-收到一包 100 张 AI 生成的宠物图片，既有照片级逼真度，也有艺术风格。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1686,6 +1688,26 @@ TutoeAI Learn Anything 是一个搜索引擎，用于学习任何主题的模块
 
 ## 电子邮件助理
 
+### airepli
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-airepli.webp" alt="airepli">
+
+#### AI 电子邮件编写器可将电子邮件写作时间缩短 50%，突出显示电子邮件并生成即时的人类、内容丰富的回复，模式化学习 AI 由 GPT-4 提供支持，支持 50 多种语言
+[Visit](https://www.thataicollection.com/redirect/airepli?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+➤ 与您最喜欢的 Web 应用程序集成，提高您的效率和用户体验
+➤ 支持 50 多种语言，实现全球交流
+➤ 致力于保护通信隐私，将您的数据存储在本地并在您的控制之下
+➤ 其他上下文：使用额外的上下文框自定义响应
+➤ 直观的界面：使用无缝的用户界面浏览对话
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/airepli?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Smartwriter
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-smartwriter.webp" alt="Smartwriter">
 
@@ -1770,21 +1792,6 @@ Ellie 从您的写作风格中学习，并像您写的一样精心回复
 Quicklines 是您新的 AI 驱动的冷外联助手。我们通过深入的社交抓取和自然语言一线写作平台帮助您扩大冷电子邮件活动。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/quicklines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### superReply
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-superreply.webp" alt="superReply">
-
-#### 升级您的电子邮件游戏
-[Visit](https://www.thataicollection.com/redirect/superreply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-您一直在等待的电子邮件回复技巧 - 无需从头开始编写即可轻松发送具有定制回复的有效回复
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/superreply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
