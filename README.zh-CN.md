@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1261" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1274" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,25 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/storydoc/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storydoc.webp" alt="Storydoc" border="0"/>
     </a>
-    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
-    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/tradepost.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tradepost.ai.webp" alt="Tradepost.ai" border="0"/>
-    </a>
-    <h4>基于人工智能的金融时事通讯和美国证券交易委员会文件分析</h4>
-    <p>将金融时事通讯和研究报告转发到您的Tradepost收件箱，并在坚实的基础上获得切实可行的投资建议。从美国证券交易委员会的文件中获得见解，并按资产类别、市场领域或地域敞口筛选您的创意数据源。</p>
-    <a href="https://www.thataicollection.com/redirect/tradepost.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Tradepost.ai</b></a>
+    <h4>轻松创建精彩的互动套牌，提高参与度。</h4>
+    <p>Storydoc 是一个直观的幻灯片编辑器，可以创建交互式演示文稿它使您可以轻松地将静态PDF替换为为销售和营销团队创建的引人入胜的套牌。事实证明，它们可以将潜在客户推向下一步，帮助您赢得更多交易。每个 Storydoc 都包含集成功能，可无缝连接到您的 CRM，并自动为每位客户对套牌进行个性化设置。</p>
+    <a href="https://www.thataicollection.com/redirect/storydoc/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Storydoc</b></a>
     <br />
 </div>
 
@@ -85,6 +72,19 @@
     <h4>把你的自拍变成专业头像</h4>
     <p>市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。</p>
     <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 The Multiverse AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    </a>
+    <h4>Podwise，面向播客听众的首选 AI 学习应用程序。</h4>
+    <p>使用 Podwise，您可以从结构化知识中学习，并有选择地聆听引起您兴趣的章节。此功能使您能够优化学习体验，专注于对您最重要的内容。</p>
+    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Podwise</b></a>
     <br />
 </div>
 
@@ -150,123 +150,112 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### ZeroGPT  Detector
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zerogpt--detector.webp" alt="ZeroGPT  Detector">
+### Storydoc
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storydoc.webp" alt="Storydoc">
 
-#### ZeroGPT-免费的 ChatGPT 内容检测器（无需注册，无限字数）
-[Visit](https://www.thataicollection.com/redirect/zerogpt--detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 轻松创建精彩的互动套牌，提高参与度。
+[Visit](https://www.thataicollection.com/redirect/storydoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-查找 ChatGPT 生成内容的独特方法是使用 ZeroGPT.Tools。ZeroGPT 是一项完全免费的服务，对检测 AI 内容没有任何限制。它可以作为内容作者和学生的人工智能内容探测器。
+Storydoc 是一个直观的幻灯片编辑器，可以创建交互式演示文稿它使您可以轻松地将静态PDF替换为为销售和营销团队创建的引人入胜的套牌。事实证明，它们可以将潜在客户推向下一步，帮助您赢得更多交易。每个 Storydoc 都包含集成功能，可无缝连接到您的 CRM，并自动为每位客户对套牌进行个性化设置。
 
-ZeroGPT 是做什么的？
-
-* 无限检测
-* 免费使用
-* 无需账号。
-* 99% 准确的 AI 结果
-* 简单的布局和出色的 GUI
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/zerogpt--detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/storydoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Cliclic AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliclic-ai.webp" alt="Cliclic AI">
+### DiveDeck.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-divedeck.ai.webp" alt="DiveDeck.AI">
 
-#### Cliclic AI-AI 产品照片背景编辑器
-[Visit](https://www.thataicollection.com/redirect/cliclic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 使用 AI 驱动的套牌深入学习。
+[Visit](https://www.thataicollection.com/redirect/divedeck.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Cliclic AI 产品图像背景编辑器是一款强大的工具，可帮助用户快速生成有吸引力的产品图像背景。通过使用预设场景或自定义匹配的场景元素，用户可以轻松创建自己的品牌产品的照片。该工具支持自定义尺寸，并兼容多个频道。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/cliclic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
+DiveDeck 是一款由 AI 提供支持的多层内容卡组生成器。
+只需记下你的主题、概念或问题，AI 就会将它们分解成结构化的卡片供你学习。
 
 
-### airepli
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-airepli.webp" alt="airepli">
-
-#### AI 电子邮件编写器可将电子邮件写作时间缩短 50%，突出显示电子邮件并生成即时的人类、内容丰富的回复，模式化学习 AI 由 GPT-4 提供支持，支持 50 多种语言
-[Visit](https://www.thataicollection.com/redirect/airepli?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-➤ 与您最喜欢的 Web 应用程序集成，提高您的效率和用户体验
-➤ 支持 50 多种语言，实现全球交流
-➤ 致力于保护通信隐私，将您的数据存储在本地并在您的控制之下
-➤ 其他上下文：使用额外的上下文框自定义响应
-➤ 直观的界面：使用无缝的用户界面浏览对话
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/airepli?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/divedeck.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### LangMagic
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-langmagic.webp" alt="LangMagic">
+### Website Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-website-generator.webp" alt="Website Generator">
 
-#### LangMagic：通往语言精通的终极之路
-[Visit](https://www.thataicollection.com/redirect/langmagic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 一款用户友好的 GPT，可通过编码和 DALL-E 3 示例快速创建高质量的网站。
+[Visit](https://www.thataicollection.com/redirect/website-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Langmagic是一个将语言学习者与优秀的本地内容和教师联系起来的平台，再加上巧妙的人工智能工具集，Langmagic将以最有效和最有趣的方式带领你掌握语言。 
+网站生成器是一款强大而高效的GPT，由B12团队为您提供，适用于寻求网站生成帮助的人。创建网站，获取网站的 DALL-E 图片，为您的网站集思广益，并使用它来托管和快速启动网站！
 
-语言教师：使用Langmagic工具集和积极进取的语言学习者社区，将您的知识和内容货币化。 
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/langmagic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/website-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### PornGen
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
+### AI Wedding Toast
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-wedding-toast.webp" alt="AI Wedding Toast">
 
-#### PornGen是一个先进的人工智能平台，允许用户创建高质量、逼真和详细的NSFW图像。 
-[Visit](https://www.thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 使用 AI 生成个性化的婚礼演讲
+[Visit](https://www.thataicollection.com/redirect/ai-wedding-toast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-PornGen是一个人工智能驱动的平台，专门通过先进的图像生成技术创建成人内容。它生成的NSFW图像可满足各种用户偏好。用户通过提供文字提示或选择描述其预期结果的特定标签（例如身体类型、行为或服装风格）来与PornGen互动。
+婚礼演讲永远持续下去！ 
 
+这是一个在你所爱的人的特殊日子里向他们致敬的机会。你的话语具有持久的重要意义，成为这对夫妇的珍贵回忆。 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+生成个性化的婚礼演讲，创造一个由衷的时刻。 
 
-<br />
-
-<br />
-
-
-### redesign with ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-redesign-with-ai.webp" alt="redesign with ai">
-
-#### 借助 AI 平台，重新设计使设计变得更简单，更具创造力。
-[Visit](https://www.thataicollection.com/redirect/redesign-with-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-用 AI 重新设计！人工智能设计生成器，它使用AI根据提示词生成所有设计，例如图标，徽标，免费贴纸，海报，彩页，模型。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/redesign-with-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-wedding-toast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Tradepost.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tradepost.ai.webp" alt="Tradepost.ai">
+### PixelGen
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pixelgen.webp" alt="PixelGen">
 
-#### 基于人工智能的金融时事通讯和美国证券交易委员会文件分析
-[Visit](https://www.thataicollection.com/redirect/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 使用点击界面生成 AI 图像，无需编写复杂的提示。
+[Visit](https://www.thataicollection.com/redirect/pixelgen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-将金融时事通讯和研究报告转发到您的Tradepost收件箱，并在坚实的基础上获得切实可行的投资建议。从美国证券交易委员会的文件中获得见解，并按资产类别、市场领域或地域敞口筛选您的创意数据源。
+使用点击界面生成 AI 图像，无需编写复杂的提示。节省反复试验。使用适用于室内设计、角色插图、蛋糕设计等热门场景的现有模板快速入门。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pixelgen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Design Studio | Pietra
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-design-studio-|-pietra.webp" alt="Design Studio | Pietra">
+
+#### Pietra的设计工作室使用人工智能将产品描述转换为引人入胜的图像，提高参与度，消除缺陷并促进销售。
+[Visit](https://www.thataicollection.com/redirect/design-studio-|-pietra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Pietra 的设计工作室利用先进的人工智能开创了电子商务，重塑了图像创作。无缝定制产品，调整颜色、图案和细节。使用徽标、注释和尺寸轻松提升品牌知名度。用引人入胜的视觉效果吸引客户，以前所未有的方式推动销售。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/design-studio-|-pietra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### NEWFACEPORN
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newfaceporn_.webp" alt="NEWFACEPORN">
+
+#### 最好的AI Faceswap色情工具-生成逼真的Deepfake色情视频
+[Visit](https://www.thataicollection.com/redirect/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+想象一下，在逼真的色情视频中看到你的工作朋友赤身裸体被摧毁，好吧，现在你可以通过交换任何角色并将其变成精彩的色情视频来实现这个梦想
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -274,21 +263,6 @@ PornGen是一个人工智能驱动的平台，专门通过先进的图像生成�
 
 
 ## 会计与金融
-
-### Tradepost.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tradepost.ai.webp" alt="Tradepost.ai">
-
-#### 基于人工智能的金融时事通讯和美国证券交易委员会文件分析
-[Visit](https://www.thataicollection.com/redirect/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-将金融时事通讯和研究报告转发到您的Tradepost收件箱，并在坚实的基础上获得切实可行的投资建议。从美国证券交易委员会的文件中获得见解，并按资产类别、市场领域或地域敞口筛选您的创意数据源。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
 
 ### MoneyCoach
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
@@ -333,6 +307,21 @@ MoneyCoach是一款个人理财应用程序，可帮助您管理资金、预算�
 (2) 对公司广泛的数字足迹的深入分析。 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Tradepost.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tradepost.ai.webp" alt="Tradepost.ai">
+
+#### 基于人工智能的金融时事通讯和美国证券交易委员会文件分析
+[Visit](https://www.thataicollection.com/redirect/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+将金融时事通讯和研究报告转发到您的Tradepost收件箱，并在坚实的基础上获得切实可行的投资建议。从美国证券交易委员会的文件中获得见解，并按资产类别、市场领域或地域敞口筛选您的创意数据源。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3025,6 +3014,22 @@ Amadeus Topline 是一款由人工智能驱动的作曲应用程序，适合每�
 
 ## 工作不安全
 
+### Nectar AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nectar-ai.webp" alt="Nectar AI">
+
+#### 在短短几秒钟内创建完美的梦中女孩！
+[Visit](https://www.thataicollection.com/redirect/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nectar是一个生成式人工智能平台，提供两种产品：（1）图像创建器和（2）角色扮演。
+Image Creator是一款强大的生成式人工智能工具，用于创建照片和视频，而角色扮演允许您探索不同的幻想并创建自定义角色。我们的文本和语言生成时间是业内最快的生成时间之一。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Undress.cc
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress_.cc.webp" alt="Undress.cc">
 
@@ -3058,6 +3063,22 @@ Amadeus Topline 是一款由人工智能驱动的作曲应用程序，适合每�
 今天只需点击一下即可实现您最疯狂的梦想！
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### NEWFACEPORN
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newfaceporn_.webp" alt="NEWFACEPORN">
+
+#### 最好的AI Faceswap色情工具-生成逼真的Deepfake色情视频
+[Visit](https://www.thataicollection.com/redirect/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+想象一下，在逼真的色情视频中看到你的工作朋友赤身裸体被摧毁，好吧，现在你可以通过交换任何角色并将其变成精彩的色情视频来实现这个梦想
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3105,40 +3126,6 @@ Nextpart.ai 聊天机器人通过 No Filter NSFW 场景提升您的聊天体验�
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### undressing.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
-
-#### AI Undressing-使用 AI Undressing 免费裸体照片
-[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AI Girlfriend WTF
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
-
-#### 与 AI 女友一起潜入热门冒险之旅！
-[Visit](https://www.thataicollection.com/redirect/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-与AI女孩一起体验惊险刺激的冒险并过上不同的生活！ 
-
-无论是在荒岛上生存，乘坐太空飞船在太空中航行，还是只是与自己的猫咪女郎随意聊天，每个人都能找到适合自己的东西。 
-
-潜入众多 AI 女孩的世界，立即开始玩吧！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4101,6 +4088,21 @@ Perplexity AI 通过信息发现和共享来释放知识的力量。Perplexity A
 
 ## 幻灯片和演示文稿
 
+### Storydoc
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storydoc.webp" alt="Storydoc">
+
+#### 轻松创建精彩的互动套牌，提高参与度。
+[Visit](https://www.thataicollection.com/redirect/storydoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Storydoc 是一个直观的幻灯片编辑器，可以创建交互式演示文稿它使您可以轻松地将静态PDF替换为为销售和营销团队创建的引人入胜的套牌。事实证明，它们可以将潜在客户推向下一步，帮助您赢得更多交易。每个 Storydoc 都包含集成功能，可无缝连接到您的 CRM，并自动为每位客户对套牌进行个性化设置。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/storydoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Presentation API
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presentation-api.webp" alt="Presentation API">
 
@@ -4190,21 +4192,6 @@ Perplexity AI 通过信息发现和共享来释放知识的力量。Perplexity A
 使用 Tome 的 AI 驱动的讲故事格式解锁您的最佳作品。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/tome?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Glimmer AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-glimmer-ai.webp" alt="Glimmer AI">
-
-#### 人工智能驱动的演示魔术
-[Visit](https://www.thataicollection.com/redirect/glimmer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Glimmer AI 使用 GPT-3 和 DALL-E 2 使用文本或语音命令轻松快速地创建专业品质的演示文稿
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/glimmer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

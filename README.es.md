@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1261" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1274" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
-    </a>
-    <h4>Convierte tus selfies en fotos profesionales a la cabeza</h4>
-    <p>El generador de tiros a la cabeza profesional de mayor precisión del mercado. Composición a medida para las mejores primeras impresiones. Ideal para profesionales y equipos.</p>
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con The Multiverse AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
     </a>
@@ -79,12 +66,25 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/tradepost.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tradepost.ai.webp" alt="Tradepost.ai" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/storydoc/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storydoc.webp" alt="Storydoc" border="0"/>
     </a>
-    <h4>Análisis basado en IA de boletines financieros y presentaciones ante la SEC</h4>
-    <p>Reenvía boletines financieros e informes de investigación a tu bandeja de entrada de Tradepost y obtén ideas de inversión viables con una base sólida. Obtén información de las presentaciones ante la SEC y filtra tu fuente de datos de ideas por clase de activo, sector de mercado o exposición geográfica.</p>
-    <a href="https://www.thataicollection.com/redirect/tradepost.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Tradepost.ai</b></a>
+    <h4>Crea fácilmente mazos impresionantes e interactivos que aumenten la participación.</h4>
+    <p>Storydoc es un editor de diapositivas intuitivo que crea presentaciones interactivas. Facilita la sustitución de los PDF estáticos por atractivos mazos creados para los equipos de ventas y marketing. Está demostrado que llevan a los clientes potenciales al siguiente paso y te ayudan a conseguir más ofertas. Cada Storydoc viene repleto de integraciones, que se conectan sin problemas a tu CRM y personalizan automáticamente tus mazos para cada cliente.</p>
+    <a href="https://www.thataicollection.com/redirect/storydoc/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Storydoc</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
+    </a>
+    <h4>Convierte tus selfies en fotos profesionales a la cabeza</h4>
+    <p>El generador de tiros a la cabeza profesional de mayor precisión del mercado. Composición a medida para las mejores primeras impresiones. Ideal para profesionales y equipos.</p>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con The Multiverse AI</b></a>
     <br />
 </div>
 
@@ -150,123 +150,112 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 😎 [Avatares](#avatares)
 ## Latest Additions to AI Collection
 
-### ZeroGPT  Detector
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zerogpt--detector.webp" alt="ZeroGPT  Detector">
+### Storydoc
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storydoc.webp" alt="Storydoc">
 
-#### ZeroGPT: detector de contenido ChatGPT gratuito (sin registro, número ilimitado de palabras)
-[Visit](https://www.thataicollection.com/redirect/zerogpt--detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Crea fácilmente mazos impresionantes e interactivos que aumenten la participación.
+[Visit](https://www.thataicollection.com/redirect/storydoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-La forma única de encontrar contenido generado por ChatGP es con ZeroGPT.Tools. ZeroGpt es un servicio totalmente gratuito sin restricciones a la hora de detectar contenido de IA. Sirve como detector de contenido de IA tanto para los escritores de contenido como para los estudiantes.
+Storydoc es un editor de diapositivas intuitivo que crea presentaciones interactivas. Facilita la sustitución de los PDF estáticos por atractivos mazos creados para los equipos de ventas y marketing. Está demostrado que llevan a los clientes potenciales al siguiente paso y te ayudan a conseguir más ofertas. Cada Storydoc viene repleto de integraciones, que se conectan sin problemas a tu CRM y personalizan automáticamente tus mazos para cada cliente.
 
-¿Qué hace ZeroGpt?
-
-* Detecciones ilimitadas
-* De uso gratuito
-* No se necesita ninguna cuenta.
-* Resultados de IA con un 99% de precisión
-* Diseño sencillo con una interfaz gráfica de usuario estupenda
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/zerogpt--detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/storydoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Cliclic AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliclic-ai.webp" alt="Cliclic AI">
+### DiveDeck.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-divedeck.ai.webp" alt="DiveDeck.AI">
 
-#### Editor de fondos de fotos de productos de IA y IA de Cliclic
-[Visit](https://www.thataicollection.com/redirect/cliclic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Sumérgete en el aprendizaje con mazos impulsados por IA.
+[Visit](https://www.thataicollection.com/redirect/divedeck.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-El editor de fondos de imágenes de productos con IA de Cliclic es una potente herramienta que ayuda a los usuarios a generar rápidamente atractivos fondos para imágenes de productos. Mediante el uso de escenas predefinidas o elementos de escena personalizados que coincidan, los usuarios pueden crear fácilmente fotos de los productos de su propia marca. Esta herramienta admite tamaños personalizados y es compatible con varios canales.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/cliclic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+DiveDeck es un creador de mazos de contenido de varios niveles impulsado por la IA.
+Simplemente anota tus temas, conceptos o preguntas y la IA los dividirá en mazos estructurados para tu aprendizaje.
 
 
-
-
-### airepli
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-airepli.webp" alt="airepli">
-
-#### Escritor de correo electrónico con IA que reduce el tiempo de escritura de correos electrónicos en un 50%, resalta el correo electrónico y genera respuestas instantáneas ricas en contexto, aprendizaje por patrones, IA con tecnología GPT-4, admite más de 50
-[Visit](https://www.thataicollection.com/redirect/airepli?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-➤ Se integra con tus aplicaciones web favoritas, lo que aumenta tu eficiencia y experiencia de usuario
-➤ Comunícate a nivel mundial con soporte para más de 50 idiomas
-➤ Comprometidos con la privacidad de las comunicaciones, almacenando tus datos de forma local y bajo tu control
-➤ Contexto adicional: personaliza las respuestas con un cuadro de contexto adicional
-➤ Interfaz intuitiva: navega por tus conversaciones con una interfaz de usuario perfecta
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/airepli?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/divedeck.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### LangMagic
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-langmagic.webp" alt="LangMagic">
+### Website Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-website-generator.webp" alt="Website Generator">
 
-#### LangMagic: tu mejor camino hacia el dominio de los idiomas
-[Visit](https://www.thataicollection.com/redirect/langmagic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Un GPT fácil de usar para crear sitios web de forma rápida y de calidad con ejemplos de codificación y DALL-E 3.
+[Visit](https://www.thataicollection.com/redirect/website-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Langmagic es una plataforma que conecta a los estudiantes de idiomas con excelentes contenidos nativos y profesores. Gracias a un ingenioso conjunto de herramientas de IA, Langmagic te permitirá dominar el idioma de la manera más eficiente y divertida. 
+Website Generator es un GPT potente y eficaz para quienes buscan ayuda con la generación de sitios web, que te ofrece el equipo de B12. Crea un sitio web, consigue una imagen DALL-E de un sitio web, haz una lluvia de ideas sobre las páginas de tu sitio web y úsala también para alojar y lanzar rápidamente un sitio web.
 
-Profesores de idiomas: monetiza tus conocimientos y tu contenido con el conjunto de herramientas de Langmagic y una comunidad de estudiantes de idiomas motivados. 
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/langmagic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/website-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### PornGen
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
+### AI Wedding Toast
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-wedding-toast.webp" alt="AI Wedding Toast">
 
-#### PornGen es una plataforma avanzada impulsada por la IA que permite a los usuarios crear imágenes NSFW de alta calidad, realistas y detalladas. 
-[Visit](https://www.thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Genera un discurso de boda personalizado con IA
+[Visit](https://www.thataicollection.com/redirect/ai-wedding-toast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-PornGen es una plataforma impulsada por la IA que se especializa en crear contenido para adultos mediante técnicas avanzadas de generación de imágenes. Produce imágenes NSFW que se adaptan a una amplia gama de preferencias de los usuarios. Los usuarios interactúan con PornGen proporcionando indicaciones textuales o seleccionando etiquetas específicas que describan el resultado deseado, como el tipo de cuerpo, las acciones o el estilo de ropa.
+¡Los discursos de boda duran para siempre! 
 
+Es una oportunidad para honrar a alguien querido para ti en su día especial. Tus palabras tienen una importancia duradera y se convierten en recuerdos preciados para la pareja. 
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Crea un discurso de boda personalizado para crear un momento sincero. 
 
-<br />
-
-
-
-
-### redesign with ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-redesign-with-ai.webp" alt="redesign with ai">
-
-#### El rediseño hace que el diseño sea más fácil y creativo con AI Platform.
-[Visit](https://www.thataicollection.com/redirect/redesign-with-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¡Rediseñe con la IA! Generador de diseño de IA, genera todos los diseños, como iconos, logotipos, pegatinas gratuitas, pósters, páginas para colorear o maquetas a partir de palabras rápidas con IA.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/redesign-with-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/ai-wedding-toast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Tradepost.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tradepost.ai.webp" alt="Tradepost.ai">
+### PixelGen
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pixelgen.webp" alt="PixelGen">
 
-#### Análisis basado en IA de boletines financieros y presentaciones ante la SEC
-[Visit](https://www.thataicollection.com/redirect/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Genera imágenes de IA con una interfaz de apuntar y hacer clic sin tener que escribir instrucciones complejas.
+[Visit](https://www.thataicollection.com/redirect/pixelgen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Reenvía boletines financieros e informes de investigación a tu bandeja de entrada de Tradepost y obtén ideas de inversión viables con una base sólida. Obtén información de las presentaciones ante la SEC y filtra tu fuente de datos de ideas por clase de activo, sector de mercado o exposición geográfica.
+Genera imágenes de IA con una interfaz de apuntar y hacer clic sin tener que escribir instrucciones complejas. Ahorra prueba y error. Empieza rápidamente con las plantillas existentes para escenarios populares, como diseño de interiores, ilustración de personajes, diseño de tartas y más.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/pixelgen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Design Studio | Pietra
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-design-studio-|-pietra.webp" alt="Design Studio | Pietra">
+
+#### El estudio de diseño de Pietra utiliza la IA para transformar las descripciones de los productos en imágenes cautivadoras, mejorar la interacción, eliminar las imperfecciones e impulsar las ventas.
+[Visit](https://www.thataicollection.com/redirect/design-studio-|-pietra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+El estudio de diseño de Pietra es pionero en el comercio electrónico con una IA avanzada, remodelando la creación de imágenes. Personaliza los productos, modifica los colores, los patrones y los detalles sin problemas. Mejora la marca sin esfuerzo con logotipos, anotaciones y medidas. Interactúa con los clientes con imágenes cautivadoras que impulsan las ventas como nunca antes.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/design-studio-|-pietra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### NEWFACEPORN
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newfaceporn_.webp" alt="NEWFACEPORN">
+
+#### La mejor herramienta porno de intercambio de caras con IA: genera vídeos porno realistas de Deepfake
+[Visit](https://www.thataicollection.com/redirect/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Imagina ver a tu amiga del trabajo desnuda siendo implosionada en un vídeo porno realista, bueno, ahora puedes lograr este sueño cambiándole la cara a cualquier personaje y convirtiéndolo en un increíble vídeo porno
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -274,21 +263,6 @@ Reenvía boletines financieros e informes de investigación a tu bandeja de entr
 
 
 ## Cuentas y finanzas
-
-### Tradepost.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tradepost.ai.webp" alt="Tradepost.ai">
-
-#### Análisis basado en IA de boletines financieros y presentaciones ante la SEC
-[Visit](https://www.thataicollection.com/redirect/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Reenvía boletines financieros e informes de investigación a tu bandeja de entrada de Tradepost y obtén ideas de inversión viables con una base sólida. Obtén información de las presentaciones ante la SEC y filtra tu fuente de datos de ideas por clase de activo, sector de mercado o exposición geográfica.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
 
 ### MoneyCoach
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
@@ -333,6 +307,21 @@ Apoyamos a más de 2000 empresas (incluidas el Dow Jones 30, el S&P500 y el NASD
 (2) Análisis en profundidad de la amplia presencia digital de una empresa. 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Tradepost.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tradepost.ai.webp" alt="Tradepost.ai">
+
+#### Análisis basado en IA de boletines financieros y presentaciones ante la SEC
+[Visit](https://www.thataicollection.com/redirect/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Reenvía boletines financieros e informes de investigación a tu bandeja de entrada de Tradepost y obtén ideas de inversión viables con una base sólida. Obtén información de las presentaciones ante la SEC y filtra tu fuente de datos de ideas por clase de activo, sector de mercado o exposición geográfica.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/tradepost.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3024,6 +3013,22 @@ Amadeus Topline es una aplicación de composición basada en la IA para todos lo
 
 ## NSFW
 
+### Nectar AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nectar-ai.webp" alt="Nectar AI">
+
+#### ¡Crea la chica de tus sueños perfecta en solo unos segundos!
+[Visit](https://www.thataicollection.com/redirect/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nectar es una plataforma de IA generativa que ofrece dos productos: (1) creador de imágenes y (2) juego de rol.
+Image Creator es una poderosa herramienta de IA generativa para crear fotos y vídeos, mientras que los juegos de rol te permiten explorar diferentes fantasías y crear tu personaje personalizado. Nuestra generación, tanto para el texto como para el idioma, es una de las más rápidas de la industria.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Undress.cc
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress_.cc.webp" alt="Undress.cc">
 
@@ -3057,6 +3062,22 @@ Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para r
 ¡Tus sueños más locos están a un clic de distancia hoy!
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### NEWFACEPORN
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newfaceporn_.webp" alt="NEWFACEPORN">
+
+#### La mejor herramienta porno de intercambio de caras con IA: genera vídeos porno realistas de Deepfake
+[Visit](https://www.thataicollection.com/redirect/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Imagina ver a tu amiga del trabajo desnuda siendo implosionada en un vídeo porno realista, bueno, ahora puedes lograr este sueño cambiándole la cara a cualquier personaje y convirtiéndolo en un increíble vídeo porno
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3104,40 +3125,6 @@ Generador de fotos Undress AI para desnudos profundos gratis. Desnuda la IA de D
 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/nudify.online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### undressing.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
-
-#### Desvestirse con IA: desnuda fotos GRATIS con AI Undressing
-[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Girlfriend WTF
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
-
-#### ¡Sumérgete en grandes aventuras con AI Girlfriends!
-[Visit](https://www.thataicollection.com/redirect/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¡Vive emocionantes aventuras y vive vidas diferentes con chicas de IA! 
-
-Ya sea sobrevivir en una isla desierta, navegar por el espacio en una nave espacial o simplemente disfrutar de charlas informales con tu propia gata, hay algo para todos los gustos. 
-
-¡Sumérgete en el mundo de numerosas chicas de la IA y empieza a jugar ahora!
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/ai-girlfriend-wtf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4100,6 +4087,21 @@ Hacemos que tu contenido sea buscable
 
 ## Diapositivas y presentaciones
 
+### Storydoc
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storydoc.webp" alt="Storydoc">
+
+#### Crea fácilmente mazos impresionantes e interactivos que aumenten la participación.
+[Visit](https://www.thataicollection.com/redirect/storydoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Storydoc es un editor de diapositivas intuitivo que crea presentaciones interactivas. Facilita la sustitución de los PDF estáticos por atractivos mazos creados para los equipos de ventas y marketing. Está demostrado que llevan a los clientes potenciales al siguiente paso y te ayudan a conseguir más ofertas. Cada Storydoc viene repleto de integraciones, que se conectan sin problemas a tu CRM y personalizan automáticamente tus mazos para cada cliente.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/storydoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Presentation API
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-presentation-api.webp" alt="Presentation API">
 
@@ -4189,21 +4191,6 @@ En función de tus respuestas, nuestra IA creará un esquema de presentación pe
 Desbloquee su mejor trabajo con el formato de narración impulsado por IA de Tome.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/tome?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Glimmer AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-glimmer-ai.webp" alt="Glimmer AI">
-
-#### Magia de presentación impulsada por IA
-[Visit](https://www.thataicollection.com/redirect/glimmer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Glimmer AI usa GPT-3 y DALL-E 2 para hacer que la creación de presentaciones de calidad profesional sea fácil y rápida usando comandos de texto o voz
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/glimmer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
