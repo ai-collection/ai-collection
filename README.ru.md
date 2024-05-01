@@ -1,4 +1,4 @@
-# <img width="20" style="margin-right:6px;" alt="ai-collection-logo" src="https://ai-collection.b-cdn.net/logo.webp" /> AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# <img width="20" style="margin-right:6px;" alt="ai-collection-logo" src="https://cdn.thataicollection.com/images/logo.webp" /> AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 
 <div align="center">
@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1314" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1340" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podwise.webp" alt="Podwise" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
     </a>
-    <h4>Podwise, ведущее приложение для обучения искусственному интеллекту для слушателей подкастов.</h4>
-    <p>С помощью Podwise вы можете учиться на структурированных знаниях и выборочно слушать интересующие вас главы. Эта функция позволяет оптимизировать учебный процесс и сосредоточиться на наиболее важном для вас контенте.</p>
-    <a href="https://www.thataicollection.com/redirect/podwise/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Podwise</b></a>
+    <h4>Превратите свои селфи в профессиональные хедшоты</h4>
+    <p>Самый точный профессиональный генератор хедшотов на рынке. Специальная композиция для лучших первых впечатлений. Идеально подходит для профессионалов и команд.</p>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с The Multiverse AI</b></a>
     <br />
 </div>
 
@@ -66,17 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/airepli/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-airepli.webp" alt="airepli" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai" border="0"/>
     </a>
-    <h4>AI Email Writer, который сокращает время написания электронной почты на 50%, выделяет электронное письмо и генерирует мгновенные ответы, похожие на контекст, похожие на человека, искусственный интеллект с структурированным обучением на базе GPT-4, поддержи</h4>
-    <p>➤ Интегрируется с вашими любимыми веб-приложениями, повышая эффективность и удобство использования
-➤ Общайтесь по всему миру благодаря поддержке более 50 языков
-➤ Мы стремимся к конфиденциальности общения, храня ваши данные локально и под вашим контролем
-➤ Дополнительный контекст: настраивайте ответы с помощью дополнительного контекстного поля
-➤ Интуитивно понятный интерфейс: перемещайтесь по беседам с помощью удобного пользовательского интерфейса
-</p>
-    <a href="https://www.thataicollection.com/redirect/airepli/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с airepli</b></a>
+    <h4>Elephant.ai — решение для обслуживания клиентов #1 на базе искусственного интеллекта — превратите свой веб-сайт в машину продаж</h4>
+    <p>Наш чат-бот на базе искусственного интеллекта работает круглосуточно и без выходных, обеспечивая мгновенную поддержку, квалифицируя потенциальных клиентов и поддерживая вовлеченность посетителей — и все это, изучая ваш контент.</p>
+    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Elephant.ai</b></a>
     <br />
 </div>
 
@@ -142,109 +137,111 @@
 - 🎬 [Видео](#видео)
 ## Latest Additions to AI Collection
 
-### All in One Accessibility
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-all-in-one-accessibility.webp" alt="All in One Accessibility">
+### Elephant.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai">
 
-#### Быстрое решение для обеспечения доступности веб-сайтов на базе искусственного интеллекта!
+#### Elephant.ai — решение для обслуживания клиентов #1 на базе искусственного интеллекта — превратите свой веб-сайт в машину продаж
+[Visit](https://www.thataicollection.com/redirect/elephant.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+Наш чат-бот на базе искусственного интеллекта работает круглосуточно и без выходных, обеспечивая мгновенную поддержку, квалифицируя потенциальных клиентов и поддерживая вовлеченность посетителей — и все это, изучая ваш контент.
 
-[Visit](https://www.thataicollection.com/redirect/all-in-one-accessibility?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-All in One Accessibility — это плагин для быстрого улучшения доступности веб-сайтов WordPress, разработанный на основе искусственного интеллекта. Он улучшает доступность веб-сайтов WordPress в соответствии со стандартами, включая ADA, WCAG 2.1, раздел 508, австралийский DDA, европейский стандарт EAA EN 301 549, Закон Великобритании о равенстве (EA), израильский стандарт 5568, Калифорнийский университет в Унрухе, Онтарио, Канада ACA, немецкий BITV и французский RGAA! 
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/all-in-one-accessibility?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/elephant.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### KardsAI - AI Flashcard Maker
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-kardsai---ai-flashcard-maker.webp" alt="KardsAI - AI Flashcard Maker">
+### Vinteo
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vinteo.webp" alt="Vinteo">
 
-#### KardSai — это мобильное приложение, которое поможет вам быстрее научиться чему-либо. Оно автоматически генерирует карточки из любого PDF-файла, текста или подсказки. Учитесь с интервалами между повторениями, чтобы надолго сохранить память!
-[Visit](https://www.thataicollection.com/redirect/kardsai---ai-flashcard-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Vinteo создает визуализации продуктов в реалистичных интерьерах с помощью искусственного интеллекта
+[Visit](https://www.thataicollection.com/redirect/vinteo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Мобильное приложение KardSai, доступное для iOS и Android, экономит вам часы обучения. Это позволяет создавать карточки на любую тему из PDF, текста или подсказки за считанные секунды. Вы можете делиться своими колодами с флэшкартами с друзьями и учиться на ходу. Зарабатывайте баллы, правильно отвечая на вопросы. Наш алгоритм интервальных повторов помогает запоминать дольше, а ежедневные уведомления мотивируют вас.
+Веб-сервис автоматизирует процесс создания визуализации продукта в реальных интерьерах без привлечения дизайнеров и сокращения времени, затрачиваемого на продажу товаров.
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/kardsai---ai-flashcard-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Email Tracker
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-email-tracker.webp" alt="Email Tracker">
-
-#### Бесплатный трекер электронной почты для Gmail с AI Insights
-[Visit](https://www.thataicollection.com/redirect/email-tracker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Email Tracker революционизирует управление Gmail благодаря отслеживанию открытий и кликов в реальном времени, которое легко интегрировано в Gmail. Усовершенствованный искусственный интеллект анализирует поведение получателей, предоставляя информацию для оптимизации обмена сообщениями и повышения эффективности коммуникации. Будьте в курсе событий с помощью мгновенных уведомлений и адаптируйте свою стратегию работы с клиентами для максимального вовлечения. 
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/email-tracker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/vinteo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### InstaShorts
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-instashorts.webp" alt="InstaShorts">
+### CouponGPTs
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-coupongpts.webp" alt="CouponGPTs">
 
-#### Превратите свои закулисные видео в вирусные TikToks 
-[Visit](https://www.thataicollection.com/redirect/instashorts?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Инструмент на базе искусственного интеллекта для удобного поиска купонов и промокодов
+[Visit](https://www.thataicollection.com/redirect/coupongpts?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Ищете революционное решение в области редактирования видео с искусственным интеллектом для социальных сетей? InstaShorts — идеальное решение для превращения вашей видеогалереи в кладезь вирусных TikToks. Благодаря нашей передовой технологии искусственного интеллекта InstaShorts позволяет вам без труда создавать увлекательный контент, который подстегнет ваше присутствие в социальных сетях. 
+Откройте для себя разумную экономию с помощью CouponGPTS, вашего помощника на базе искусственного интеллекта, позволяющего легко находить лучшие купоны и промокоды. Попрощайтесь с бесконечными поисками и привет быстрым и актуальным предложениям!
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/instashorts?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### mimi.bot
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mimi.bot.webp" alt="mimi.bot">
-
-#### Робот-исследователь Workspace с искусственным интеллектом для анализа документов
-[Visit](https://www.thataicollection.com/redirect/mimi.bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-mimi.bot — это исследовательский бот, предназначенный для создания организационных исследовательских взаимодействий. 
-
-Просто разместите ссылку в формате PDF или arXiv на канал, на котором она работает, и она обобщит и выделит основные концепции и цифры. 
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/mimi.bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/coupongpts?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Fynk
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fynk.webp" alt="Fynk">
+### Fotor AI Headshot Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor-ai-headshot-generator.webp" alt="Fotor AI Headshot Generator">
 
-#### Fynk — программное обеспечение для управления контрактами на базе искусственного интеллекта
-[Visit](https://www.thataicollection.com/redirect/fynk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Профессиональный генератор хедшотов с искусственным интеллектом для создания видов хедшотов
 
-Fynk — это передовое программное обеспечение для управления контрактами, предназначенное для оптимизации жизненного цикла контрактов и улучшения совместной работы для организаций любого размера. Благодаря интуитивно понятному текстовому редактору в браузере и функциям совместной работы в реальном времени fynk позволяет командам с легкостью составлять, согласовывать и дорабатывать контракты, создавая продуктивную среду для юристов и коммерческих специалистов.
+[Visit](https://www.thataicollection.com/redirect/fotor-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/fynk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Если вам понадобятся корпоративные хедшоты, снимки головы риэлторов или актеров, попробуйте генератор снимков головы Fotor с искусственным интеллектом. Он может легко превратить ваши повседневные снимки в профессиональные фотографии с искусственным интеллектом. 
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/fotor-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Gifts Finder AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gifts-finder-ai.webp" alt="Gifts Finder AI">
+### Sprexel
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sprexel.webp" alt="Sprexel">
 
-#### Ваша глобальная поисковая система для поиска подарков и впечатлений
-[Visit](https://www.thataicollection.com/redirect/gifts-finder-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Универсальная платформа для создания искусственного интеллекта | изображения, текст, аудио
+[Visit](https://www.thataicollection.com/redirect/sprexel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Gifts Finder AI — это поисковая система подарков, которая объединяет объявления с разных торговых площадок и использует семантический поиск на основе LLM, чтобы обеспечить более точный поиск и помочь вам найти именно то, что вы ищете.
+Универсальная платформа для создания искусственного интеллекта. Sprexel позволяет быстрее и качественнее копирайтинг, визуальные эффекты и генерацию голоса. Он легко выбирает лучший инструмент искусственного интеллекта для каждой задачи, избавляя от необходимости исследовать и экспериментировать с постоянно развивающимися моделями генеративного искусственного интеллекта.
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/gifts-finder-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/sprexel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Undress AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress-ai.webp" alt="Undress AI">
+
+####  Undress AI — это новый бесплатный онлайн-редактор. Используя сложные методы машинного обучения, Undress AI позволяет пользователям создавать или корректировать обнаженные изображения с поразительной реалистичностью и точностью.
+[Visit](https://www.thataicollection.com/redirect/undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+По своей сути, Undress AI служит платформой для создания реалистичных изображений человеческих фигур без использования живых моделей или традиционной фотографии. 
+
+Универсальность Undress AI распространяется на множество отраслей и дисциплин. В сфере художественного самовыражения она предоставляет цифровым художникам и иллюстраторам бесценный инструмент.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Glosa
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-glosa.webp" alt="Glosa">
+
+#### Glosa: Изучайте языки легко.
+
+Легко осваивайте языки с помощью Glosa. Занимайтесь, учитесь и добивайтесь успеха.
+[Visit](https://www.thataicollection.com/redirect/glosa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Откройте для себя Glosa, ваш интерактивный путь к свободному владению языком. Glosa, разработанная для современного исследователя, предлагает индивидуальный, увлекательный и эффективный подход к изучению языка. Независимо от того, отправляетесь ли вы в путешествие по изучению первого языка или стремитесь повысить свой лингвистический уровень, Glosa создана для того, чтобы адаптировать ваше уникальное приключение по изучению языка.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/glosa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1213,6 +1210,22 @@ Dashword — это программное обеспечение №1 для о
 
 
 
+### Forewrite
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-forewrite.webp" alt="Forewrite">
+
+#### Forewrite: лучший писатель по искусственному интеллекту, генератор контента и помощник
+
+[Visit](https://www.thataicollection.com/redirect/forewrite?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Создавайте и оптимизируйте все типы контента, изображений, кода, искусственного озвучивания, преобразования речи в текст, мощные шаблоны и т. д. Перехитрите конкурентов, расшифровывая их секреты и используя тренды.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/forewrite?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Damn Good Tools
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools">
 
@@ -1289,21 +1302,6 @@ Descript — это простой, мощный и увлекательный �
 <br />
 
 
-
-
-### Fermat
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fermat.webp" alt="Fermat">
-
-#### Креативность увеличена для создания контента
-[Visit](https://www.thataicollection.com/redirect/fermat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Раскройте свой творческий потенциал с помощью ИИ на совместном холсте.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/fermat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 
@@ -3843,6 +3841,21 @@ StoreChatGPT.ai — это динамичная платформа, предла
 
 ## Продажи и маркетинг
 
+### Elephant.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai">
+
+#### Elephant.ai — решение для обслуживания клиентов #1 на базе искусственного интеллекта — превратите свой веб-сайт в машину продаж
+[Visit](https://www.thataicollection.com/redirect/elephant.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Наш чат-бот на базе искусственного интеллекта работает круглосуточно и без выходных, обеспечивая мгновенную поддержку, квалифицируя потенциальных клиентов и поддерживая вовлеченность посетителей — и все это, изучая ваш контент.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/elephant.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### GetWebsite.Report
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getwebsite.report.webp" alt="GetWebsite.Report">
 
@@ -3939,27 +3952,6 @@ Tabula — это комплексная аналитическая платфо
 <br />
 
 <br />
-
-
-### Beb AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-beb-ai.webp" alt="Beb AI">
-
-#### Beb.Ai - получайте бесконечное количество креативного контента для своего бренда
-[Visit](https://www.thataicollection.com/redirect/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Возможности безграничны, навыков проектирования не требуется.
-✓ Интересные публикации в социальных сетях
-✓ Реклама с прерываниями по шаблонам
-✓ Маркетинговые кампании
-✓ Динамические маркетинговые материалы
-✓ Праздничные открытки
-✓ Или просто для удовольствия!
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/beb-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 
