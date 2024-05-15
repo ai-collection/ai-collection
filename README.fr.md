@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1340" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1359" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -137,111 +137,125 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🧠 [Éducation Et Apprentissage](#éducation-et-apprentissage)
 ## Latest Additions to AI Collection
 
-### Elephant.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai">
+### SwifDoo PDF
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-swifdoo-pdf.webp" alt="SwifDoo PDF">
 
-#### Elephant.ai - La solution de service client #1 basée sur l'IA : transformez ton site Web en machine à vendre
-[Visit](https://www.thataicollection.com/redirect/elephant.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### SwifDoo PDF, logiciel PDF tout-en-un
+La solution ultime pour tes documents PDF
 
-Notre chatbot alimenté par l'IA fonctionne 24 heures sur 24 et 7 jours sur 7 pour fournir une assistance instantanée, qualifier les prospects et fidéliser les visiteurs, le tout en tirant parti de ton contenu.
+Quelques clics pour afficher, créer, modifier, convertir et gérer des PDF
+[Visit](https://www.thataicollection.com/redirect/swifdoo-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/elephant.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Chez SwifDoo PDF, nous proposons une solution utile et rapide à tous tes besoins en matière de PDF, qu'il s'agisse de les modifier, de les organiser, de les convertir et de les protéger.
 
-<br />
+SwifDoo PDF est une jeune équipe, créée en 2017, et ces dernières années, nous avons aidé des utilisateurs à traiter des millions de documents PDF.
 
-
-
-
-### Vinteo
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vinteo.webp" alt="Vinteo">
-
-#### Vinteo crée des visualisations de produits dans des intérieurs réalistes grâce à l'intelligence artificielle
-[Visit](https://www.thataicollection.com/redirect/vinteo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Le service Web automatise le processus de visualisation des produits dans de vrais intérieurs sans impliquer les designers et en réduisant le temps consacré à la mise en vente des produits.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/vinteo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/swifdoo-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### CouponGPTs
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-coupongpts.webp" alt="CouponGPTs">
+### Well Me Right
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-well-me-right.webp" alt="Well Me Right">
 
-#### Outil basé sur l'IA pour trouver facilement des coupons et des codes promotionnels
-[Visit](https://www.thataicollection.com/redirect/coupongpts?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI Healthcoaching : recrute les meilleurs experts mondiaux en matière de bien-être et reçois des conseils par appel vidéo
 
-Réalise des économies intelligentes grâce à CouponGPTS, ton assistant basé sur l'IA qui permet de trouver facilement les meilleurs coupons et codes promotionnels. Dis adieu aux recherches interminables et bonjour aux offres rapides et pertinentes !
+[Visit](https://www.thataicollection.com/redirect/well-me-right?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/coupongpts?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+AI Matching : rencontre des experts en alimentation, en nutrition, en compléments alimentaires, en beauté, en fitness, en pleine conscience et plus encore pour un coaching et un soutien en matière de santé virtuels personnalisés
 
 
-
-
-### Fotor AI Headshot Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor-ai-headshot-generator.webp" alt="Fotor AI Headshot Generator">
-
-#### Générateur de headshots professionnel basé sur l'IA pour générer des types de headshots
-
-[Visit](https://www.thataicollection.com/redirect/fotor-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chaque fois que vous aurez besoin de portraits d'entreprises, d'agents immobiliers ou d'acteurs, pensez à essayer le générateur de portraits basé sur l'IA de Fotor. Il peut facilement transformer tes photos du quotidien en photos professionnelles basées sur l'IA. 
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/fotor-ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/well-me-right?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Sprexel
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sprexel.webp" alt="Sprexel">
+### Theoriestudio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-theoriestudio.webp" alt="Theoriestudio">
 
-#### Plateforme de création d'IA tout-en-un | images, texte, audio
-[Visit](https://www.thataicollection.com/redirect/sprexel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Theoriestudio - Apprenez la théorie de la conduite grâce à l'IA
 
-Plateforme de création d'IA tout-en-un. Sprexel te permet de rédiger, de créer des visuels et de générer des voix plus rapidement et de meilleure qualité. Il sélectionne de manière fluide le meilleur outil d'IA pour chaque tâche, évitant ainsi d'avoir à rechercher et à expérimenter des modèles d'IA générative en constante évolution.
+[Visit](https://www.thataicollection.com/redirect/theoriestudio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/sprexel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Theoriestudio est une plateforme freemium qui permet aux utilisateurs d'apprendre la théorie de la conduite grâce à l'IA. Il propose des leçons, des quiz et des examens pratiques. Les leçons contiennent des exemples pratiques et sont suivies de quiz au cours desquels les étudiants peuvent mettre en pratique ce qu'ils ont appris. Les examens sont calqués sur le véritable examen afin que tu puisses bien t'entraîner. L'IA suit tes performances et te propose des examens correspondants.
 
-<br />
-
-
-
-
-### Undress AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress-ai.webp" alt="Undress AI">
-
-####  Undress AI est un tout nouvel éditeur en ligne gratuit. En utilisant des techniques sophistiquées d'apprentissage automatique, Undress AI permet aux utilisateurs de générer ou d'ajuster des images de nu avec un réalisme et une précision remarquables.
-[Visit](https://www.thataicollection.com/redirect/undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-À la base, Undress AI sert de plateforme pour créer des représentations réalistes de figures humaines, le tout sans avoir besoin de modèles vivants ou de photographies traditionnelles. 
-
-La polyvalence d'Undress AI s'étend à une multitude de secteurs et de disciplines. Dans le domaine de l'expression artistique, il fournit aux artistes numériques et aux illustrateurs un outil précieux.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/theoriestudio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Glosa
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-glosa.webp" alt="Glosa">
+### Complete AI Bundle
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-complete-ai-bundle.webp" alt="Complete AI Bundle">
 
-#### Glosa : Apprenez les langues facilement.
+#### Pack complet d'IA - La plus grande collection d'instructions, de guides, de conseils et astuces en matière d'IA pour les entrepreneurs pressés
+[Visit](https://www.thataicollection.com/redirect/complete-ai-bundle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Maîtrisez les langues sans effort avec Glosa. Engagez-vous, apprenez et réussissez.
-[Visit](https://www.thataicollection.com/redirect/glosa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Complete AI Bundle est la boîte à outils essentielle pour les entreprises : maîtrisez la rédaction, le marketing, l'automatisation sans code, le développement commercial et la création de visuels de marque en un clic.
 
-Découvrez Glosa, ton passeport interactif pour maîtriser la langue. Conçu pour l'explorateur moderne, Glosa propose une approche personnalisée, engageante et efficace de l'apprentissage des langues. Que tu entame ton premier voyage d'apprentissage des langues ou que tu veuilles améliorer tes compétences linguistiques, Glosa a été conçu pour personnaliser ton aventure d'apprentissage des langues unique.
+ ✅ La plus grande collection d'instructions d'IA pour ChatGPT, Claude, Midjourney et Gemini AI
+ ✅ Plus de 30 000 invites, méga-invites et instructions basées sur l'IA
+ ✅ Guides pratiques, conseils et astuces rapides et faciles
+ ✅ Accès à vie et mises à jour
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/glosa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/complete-ai-bundle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Bidlytics
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bidlytics.webp" alt="Bidlytics">
+
+#### Ton compagnon d'IA axé sur la confidentialité pour GovCon. Analyser automatiquement les appels d'offres, prendre des décisions concernant ou ne pas enchérir, générer des matrices de conformité et créer des propositions conformes.
+[Visit](https://www.thataicollection.com/redirect/bidlytics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Bidlytics est ta solution de capture et de proposition axée sur la confidentialité pour GovCon.
+
+Nous aidons les entreprises à automatiser les tâches ennuyeuses afin qu'elles puissent se concentrer sur l'établissement de relations et le développement de leurs thèmes gagnants. Voici la liste des fonctionnalités proposées par Bidlytics :
+
+■ Utilise l'IA pour associer automatiquement ton entreprise aux opportunités gouvernementales
+■ Analyse les appels d'offres, extrait des informations et génère des matrices 
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/bidlytics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Linkrr
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-linkrr.webp" alt="Linkrr">
+
+#### Linkrr - Fais tout sur une seule plateforme !
+[Visit](https://www.thataicollection.com/redirect/linkrr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+Linkrr est un outil de gestion des liens polyvalent similaire à Linktree. Il propose des liens courts, des pages biographiques personnalisables, des codes QR, le partage de vcards, des transferts de fichiers et l'hébergement de sites HTML. Les fonctionnalités incluent les analyses, le raccourcissement des URL et les domaines personnalisés. Les plans tarifaires répondent à différents besoins et garantissent une gestion efficace de la présence en ligne.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/linkrr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Apex Vision AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-apex-vision-ai.webp" alt="Apex Vision AI">
+
+#### IA pour les devoirs et les réponses aux quiz - Apex Vision AI
+[Visit](https://www.thataicollection.com/redirect/apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Apex Vision AI, la meilleure extension Chrome pour les étudiants, propose une IA de pointe qui permet de résoudre instantanément les questions à choix multiples. Supportant des plateformes telles que Canvas et McGraw Hill, il aborde de nombreux sujets, garantissant une précision sur mesure et une expérience utilisateur fluide. Choisissez parmi des plans flexibles pour une aide scolaire personnalisée.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3015,15 +3029,30 @@ Que vous soyez un développeur de jeux indépendant, un novice complet en musiqu
 
 ## NSFW
 
-### Undressbaby AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undressbaby-ai.webp" alt="Undressbaby AI">
+### undressing.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
 
-#### Undressbaby AI propose des essais de vêtements virtuels de pointe, des simulations de déshabillage et des échanges de visages pour les photos et les vidéos, offrant aux utilisateurs une expérience de mode amusante et interactive
-[Visit](https://www.thataicollection.com/redirect/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI Undressing - Nudifie des photos GRATUITEMENT avec AI Undressing
+[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Chez Undressbaby AI, nous proposons Grey"s Secret Room, un service original basé sur une technologie d'IA générative de pointe. Propulsé par Stable Diffusion, ce système avancé permet de créer des images très détaillées et réalistes. Notre nouvelle fonctionnalité d'échange de visages répond non seulement aux exigences en matière d'échange de visages sur des vidéos et des photos, mais permet également aux utilisateurs d'échanger facilement des visages contre des corps différents.
+Meilleure nouvelle technologie de déshabillage IA GRATUITE ! Se déshabiller grâce à l''IA pour les photos ! Transforme instantanément l''apparence. Des photos de nu en un clic. De nombreux styles et la possibilité de le faire rapidement
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/undressing.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### NsfwGPT.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nsfwgpt.ai.webp" alt="NsfwGPT.ai">
+
+#### NsfwGPT.AI - Plateforme de chatbot NSFW AI non filtrée.
+[Visit](https://www.thataicollection.com/redirect/nsfwgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+NsfwGPT.ai est une plateforme de chatbot IA gratuite et démocratisée basée sur une technologie avancée de grands modèles linguistiques basés sur l'IA. Tu peux créer ton propre chatbot ou choisir parmi des dizaines de milliers de chatbots pour participer à des conversations, sans aucune restriction de contenu de la NSFW.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/nsfwgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3041,6 +3070,37 @@ Variété, allant de dominante à soumise et plus encore. Connecte-toi maintenan
 Tes rêves les plus fous ne sont qu''à un clic aujourd''hui !
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Undressbaby AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undressbaby-ai.webp" alt="Undressbaby AI">
+
+#### Undressbaby AI propose des essais de vêtements virtuels de pointe, des simulations de déshabillage et des échanges de visages pour les photos et les vidéos, offrant aux utilisateurs une expérience de mode amusante et interactive
+[Visit](https://www.thataicollection.com/redirect/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chez Undressbaby AI, nous proposons Grey"s Secret Room, un service original basé sur une technologie d'IA générative de pointe. Propulsé par Stable Diffusion, ce système avancé permet de créer des images très détaillées et réalistes. Notre nouvelle fonctionnalité d'échange de visages répond non seulement aux exigences en matière d'échange de visages sur des vidéos et des photos, mais permet également aux utilisateurs d'échanger facilement des visages contre des corps différents.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Undressing AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undressing-ai.webp" alt="Undressing AI">
+
+#### Undressing AI - Générateur Deepnude gratuit 
+[Visit](https://www.thataicollection.com/redirect/undressing-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undressing.ai est une plateforme de retouche d'images alimentée par l'IA qui utilise des algorithmes d'IA avancés pour déshabiller les images. Il suffit de télécharger une photo pour obtenir un nu profond ultra réaliste en quelques secondes. Undressing ai propose également de nombreuses options de personnalisation, telles que la taille des seins, la forme du corps, etc.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/undressing-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3073,59 +3133,6 @@ Imagine voir ton ami de travail nu se faire imploser dans une vidéo pornographi
 
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nectar AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nectar-ai.webp" alt="Nectar AI">
-
-#### Crée la fille de tes rêves idéale en quelques secondes !
-[Visit](https://www.thataicollection.com/redirect/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nectar est une plateforme d''IA générative qui propose deux produits : (1) Image Creator et (2) Roleplay.
-Image Creator est un puissant outil d''intelligence artificielle génératif qui permet de créer des photos et des vidéos, tandis que le jeu de rôle te permet d''explorer différents fantasmes et de créer ton personnage personnalisé. Notre temps de génération, tant pour le texte que pour la langue, est l''un des plus rapides du secteur.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/nectar-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Undress.cc
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress_.cc.webp" alt="Undress.cc">
-
-#### Undress CC est un générateur de nus deepfake qui permet de déshabiller n'importe qui en quelques secondes. 
-[Visit](https://www.thataicollection.com/redirect/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Comment peux-tu faire un nu profond ?
-Il suffit de suivre ces 4 étapes
-Se connecter à la plateforme
-Ajoute une photo que tu aimerais te déshabiller
-Choisis les caractéristiques corporelles et d'âge souhaitées
-Appuie sur le bouton « GENERATE » et profite du résultat final
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/undress.cc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Dittin AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
-
-#### Dittin AI, plateforme de chatbot NSFW AI non censurée
-[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Dittin AI est une plateforme de chatbot basée sur l''IA de la NSFW basée sur DittinLLM. Avec un minimum de restrictions sur le contenu de la NSFW, tu peux engager des conversations avec des personnages IA sur un large éventail de sujets. Dittin AI prend en charge les avatars 3D et les messages vocaux, ce qui te permet de créer et de partager des personnages IA avec du son et des avatars 3D interactifs à l''aide du panneau de création.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/dittin-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3536,6 +3543,26 @@ Avec Podwise, tu peux apprendre grâce à des connaissances structurées et éco
 
 
 
+### SwifDoo PDF
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-swifdoo-pdf.webp" alt="SwifDoo PDF">
+
+#### SwifDoo PDF, logiciel PDF tout-en-un
+La solution ultime pour tes documents PDF
+
+Quelques clics pour afficher, créer, modifier, convertir et gérer des PDF
+[Visit](https://www.thataicollection.com/redirect/swifdoo-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chez SwifDoo PDF, nous proposons une solution utile et rapide à tous tes besoins en matière de PDF, qu'il s'agisse de les modifier, de les organiser, de les convertir et de les protéger.
+
+SwifDoo PDF est une jeune équipe, créée en 2017, et ces dernières années, nous avons aidé des utilisateurs à traiter des millions de documents PDF.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/swifdoo-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Todobee
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-todobee.webp" alt="Todobee">
 
@@ -3594,21 +3621,6 @@ MotionShot t''aide à créer des guides informatifs pour de nombreux cas d''util
 Découvrez le plaisir de discuter en toute fluidité avec Botrush grâce à l''IA ! Contrairement à ChatGPT Plus, Botrush te propose une interface intuitive qui te permet de modifier facilement ton expérience de chat. Imagine retrouver une conversation dans ton historique en quelques secondes ou télécharger tes discussions pour pouvoir s''y référer ultérieurement. Botrush rend les interactions avec l''IA non seulement plus intelligentes, mais aussi plus personnelles et plus accessibles. 
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/botrush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Dewey
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dewey.webp" alt="Dewey">
-
-#### Faites-en plus avec Dewey. Recevez des rappels et restez motivé grâce aux messages texte de Dewey, votre ami responsable de l''IA.
-[Visit](https://www.thataicollection.com/redirect/dewey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Remettez-vous sur la bonne voie avec un ami sympathique responsable de l''IA. Dewey est là pour vous aider à rester organisé et productif. Avec les rappels par SMS et le suivi des objectifs, c''est comme avoir un compagnon de responsabilité IA dans votre poche.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/dewey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5015,6 +5027,22 @@ Concevez de superbes sites Web, applications Web, applications mobiles, interfac
 
 
 
+### Linkrr
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-linkrr.webp" alt="Linkrr">
+
+#### Linkrr - Fais tout sur une seule plateforme !
+[Visit](https://www.thataicollection.com/redirect/linkrr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+Linkrr est un outil de gestion des liens polyvalent similaire à Linktree. Il propose des liens courts, des pages biographiques personnalisables, des codes QR, le partage de vcards, des transferts de fichiers et l'hébergement de sites HTML. Les fonctionnalités incluent les analyses, le raccourcissement des URL et les domaines personnalisés. Les plans tarifaires répondent à différents besoins et garantissent une gestion efficace de la présence en ligne.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/linkrr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Magician
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magician.webp" alt="Magician">
 
@@ -5086,22 +5114,6 @@ Laisse notre créateur de site Web alimenté par l''IA mettre ton entreprise en 
 
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/aida?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Sitekick
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sitekick.webp" alt="Sitekick">
-
-#### Sitekick - Créez une superbe page de destination grâce à l''IA en quelques secondes.
-[Visit](https://www.thataicollection.com/redirect/sitekick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Sitekick te permet de créer de magnifiques pages de destination. Sans avoir besoin de compétences en codage, en design ou en rédaction. Sitekick simplifie le processus en te permettant de créer des pages visuellement époustouflantes qui se convertissent. Aucune compétence en matière de codage, de design ou de rédaction n''est requise
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/sitekick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
