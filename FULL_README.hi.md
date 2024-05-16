@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
     </a>
-    <h4>तुम्हारी वेबसाइट के लिए AI चैटबोट, जो तुम्हारे डेटा के आधार पर प्रशिक्षित है</h4>
-    <p>Chatbit एक AI टूल है जिसकी मदद से यूज़र अपनी वेबसाइट के लिए अनुकूलित AI चैटबॉट बना सकते हैं। बॉट्स को ग्राहकों से जुड़ने, उनके सवालों के जवाब देने और लीड कैप्चर करने के लिए डिज़ाइन किया गया है।</p>
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Chatbit के साथ आरंभ करें</b></a>
+    <h4>अपनी सेल्फी को प्रोफ़ेशनल हेडशॉट में बदलो</h4>
+    <p>मार्केट में सबसे सटीक पेशेवर हेडशॉट जनरेटर। सबसे अच्छी पहली छापों के लिए तैयार की गई रचना। पेशेवरों और टीमों के लिए उपयुक्त।</p>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>The Multiverse AI के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -79,12 +79,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
     </a>
-    <h4>अपनी सेल्फी को प्रोफ़ेशनल हेडशॉट में बदलो</h4>
-    <p>मार्केट में सबसे सटीक पेशेवर हेडशॉट जनरेटर। सबसे अच्छी पहली छापों के लिए तैयार की गई रचना। पेशेवरों और टीमों के लिए उपयुक्त।</p>
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>The Multiverse AI के साथ आरंभ करें</b></a>
+    <h4>तुम्हारी वेबसाइट के लिए AI चैटबोट, जो तुम्हारे डेटा के आधार पर प्रशिक्षित है</h4>
+    <p>Chatbit एक AI टूल है जिसकी मदद से यूज़र अपनी वेबसाइट के लिए अनुकूलित AI चैटबॉट बना सकते हैं। बॉट्स को ग्राहकों से जुड़ने, उनके सवालों के जवाब देने और लीड कैप्चर करने के लिए डिज़ाइन किया गया है।</p>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Chatbit के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -1699,6 +1699,7 @@
 | [Glimmer AI](https://www.thataicollection.com/redirect/glimmer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-पावर्ड प्रेजेंटेशन मैजिक. | Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट या वॉयस कमांड का उपयोग करके पेशेवर-गुणवत्ता की प्रस्तुतियों को आसान और तेज़ बनाने के लिए करता है. | :white_check_mark: |
 | [InteractivePolls.ai - MeetMoji](https://www.thataicollection.com/redirect/interactivepolls.ai---meetmoji?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI असिस्टेंट की मदद से Google Slides के लिए लाइव पोल. | हमारे AI-संचालित लाइव पोलिंग, वर्ड क्लाउड, आदि के साथ अपनी प्रस्तुतियों में सार्थक बातचीत शुरू करें। स्थिर, एक तरफ़ा प्रस्तुतियों को आकर्षक वार्तालापों में बदलें। हर किसी से बात करें, चाहे वे ऑनलाइन हों, व्यक्तिगत रूप से हों या दोनों हों।. | :white_check_mark: |
 | [My Pitch Deck](https://www.thataicollection.com/redirect/my-pitch-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | माय पिच डेक - अपने स्टार्टअप के लिए कस्टम पिच डेक टेम्पलेट के साथ अपनी फ़ंडिंग की शुरुआत करें।. | 10-स्लाइड वाला पिच डेक टेम्पलेट। तुम्हारे हिसाब से बनाया गया। तुम्हारे जवाबों के आधार पर हमारा AI तुम्हारे स्टार्टअप के लिए कस्टम 10-स्लाइड पिच डेक आउटलाइन तैयार करेगा। आगे बढ़ने के लिए तैयार!. | :grey_question: |
+| [PitchBob.io](https://www.thataicollection.com/redirect/pitchbob.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई पिच डेक जेनरेटर और स्टार्टअप को-पायलट. | PitchBob.io, AI द्वारा संचालित एक डिजिटल सहायक है, जिसे उद्यमी बनने में मदद करने के लिए डिज़ाइन किया गया है। यह न सिर्फ़ पिचिंग में मदद करता है, बल्कि रोज़मर्रा के कामों जैसे कि विचारों की पुष्टि करना और P&L बनाना, साथ ही नेटवर्किंग में भी मदद करता है। सिर्फ़ 1 डायलॉग के ज़रिए।. | :white_check_mark: |
 | [Pitchgrade](https://www.thataicollection.com/redirect/pitchgrade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पिचग्रेड - प्रस्तुतियों ने दर्द रहित बना दिया. | पिच डेक एक ऐसा प्रज़ेंटेशन होता है जिसका इस्तेमाल कंपनी निवेशकों को देने के लिए करती है। यह कंपनी के बिज़नेस मॉडल, वित्तीय अनुमानों और अन्य प्रमुख मैट्रिक्स के बारे में बताता है, जिन्हें निवेशक देखना चाहेंगे।. | :grey_question: |
 | [Plus AI for Google Slides](https://www.thataicollection.com/redirect/plus-ai-for-google-slides?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Google स्लाइड में AI-संचालित प्रस्तुतियाँ बनाएँ।. | प्लस एआई के साथ मिनटों में प्रस्तुतिकरण बनाएं। एक खाली डेक से शुरू करना प्रस्तुति बनाने के सबसे चुनौतीपूर्ण हिस्सों में से एक है। प्लस एआई आपको एक रूपरेखा बनाने, पहला मसौदा बनाने और अपनी स्लाइड्स में अतिरिक्त संपादन का सुझाव देने में मदद करता है. | :white_check_mark: |
 | [Presentation API](https://www.thataicollection.com/redirect/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्रेजेंटेशन एपीआई, प्रेजेंटेशन जनरेशन के लिए इस्तेमाल में आसान API है जिसे तुम अपने ऐप्स और वेबसाइट में जोड़ सकते हो।  लंबा वर्णन. | पेश है प्रेजेंटेशन एपीआई, एआई-संचालित सबसे आसान API जिसका इस्तेमाल तुम्हारे ऐप या वेबसाइट में प्रेजेंटेशन जनरेट करने की क्षमता जोड़ने के लिए किया जा सकता है।. | :white_check_mark: |

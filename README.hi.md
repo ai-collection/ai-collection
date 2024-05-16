@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
     </a>
-    <h4>तुम्हारी वेबसाइट के लिए AI चैटबोट, जो तुम्हारे डेटा के आधार पर प्रशिक्षित है</h4>
-    <p>Chatbit एक AI टूल है जिसकी मदद से यूज़र अपनी वेबसाइट के लिए अनुकूलित AI चैटबॉट बना सकते हैं। बॉट्स को ग्राहकों से जुड़ने, उनके सवालों के जवाब देने और लीड कैप्चर करने के लिए डिज़ाइन किया गया है।</p>
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Chatbit के साथ आरंभ करें</b></a>
+    <h4>अपनी सेल्फी को प्रोफ़ेशनल हेडशॉट में बदलो</h4>
+    <p>मार्केट में सबसे सटीक पेशेवर हेडशॉट जनरेटर। सबसे अच्छी पहली छापों के लिए तैयार की गई रचना। पेशेवरों और टीमों के लिए उपयुक्त।</p>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>The Multiverse AI के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -79,12 +79,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
     </a>
-    <h4>अपनी सेल्फी को प्रोफ़ेशनल हेडशॉट में बदलो</h4>
-    <p>मार्केट में सबसे सटीक पेशेवर हेडशॉट जनरेटर। सबसे अच्छी पहली छापों के लिए तैयार की गई रचना। पेशेवरों और टीमों के लिए उपयुक्त।</p>
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>The Multiverse AI के साथ आरंभ करें</b></a>
+    <h4>तुम्हारी वेबसाइट के लिए AI चैटबोट, जो तुम्हारे डेटा के आधार पर प्रशिक्षित है</h4>
+    <p>Chatbit एक AI टूल है जिसकी मदद से यूज़र अपनी वेबसाइट के लिए अनुकूलित AI चैटबॉट बना सकते हैं। बॉट्स को ग्राहकों से जुड़ने, उनके सवालों के जवाब देने और लीड कैप्चर करने के लिए डिज़ाइन किया गया है।</p>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Chatbit के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -149,6 +149,21 @@
 - 📊 [स्लाइड और प्रस्तुतियाँ](#स्लाइड-और-प्रस्तुतियाँ)
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
+
+### PitchBob.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pitchbob.io.webp" alt="PitchBob.io">
+
+#### एआई पिच डेक जेनरेटर और स्टार्टअप को-पायलट
+[Visit](https://www.thataicollection.com/redirect/pitchbob.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PitchBob.io, AI द्वारा संचालित एक डिजिटल सहायक है, जिसे उद्यमी बनने में मदद करने के लिए डिज़ाइन किया गया है। यह न सिर्फ़ पिचिंग में मदद करता है, बल्कि रोज़मर्रा के कामों जैसे कि विचारों की पुष्टि करना और P&L बनाना, साथ ही नेटवर्किंग में भी मदद करता है। सिर्फ़ 1 डायलॉग के ज़रिए।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/pitchbob.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### PhotoPacks.AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photopacks.ai.webp" alt="PhotoPacks.AI">
@@ -240,24 +255,6 @@ SmarteReply ने AI के ज़रिए LinkedIn™ के साथ जु
 उपहार देने के विकल्पों के साथ भी आता है।
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/bundle-of-joy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### ppnude
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ppnude.webp" alt="ppnude">
-
-#### कपड़े उतारने या चेहरे बदलने के लिए एक मुफ़्त AI टूल
-
-[Visit](https://www.thataicollection.com/redirect/ppnude?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PPNude.com एक मुफ़्त AI टूल है, जिसकी मदद से आप अपनी पसंद के किसी भी व्यक्ति के लिए डीप न्यूड फ़ोटो बना सकते हैं या फ़ोटो में चेहरा बदल सकते हैं।
-किसी को भी मुफ्त में नंगा देखने के लिए बस एक क्लिक। तुम अपने पसंदीदा चेहरे को अपनी पसंदीदा बॉडी पर रख सकते हो।
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ppnude?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

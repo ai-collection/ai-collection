@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
+    </a>
+    <h4>Convierte tus selfies en fotos profesionales a la cabeza</h4>
+    <p>El generador de tiros a la cabeza profesional de mayor precisión del mercado. Composición a medida para las mejores primeras impresiones. Ideal para profesionales y equipos.</p>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con The Multiverse AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai" border="0"/>
     </a>
@@ -72,19 +85,6 @@
     <h4>Chatbot de IA para tu sitio web, entrenado con tus datos</h4>
     <p>Chatbit es una herramienta de IA que permite a los usuarios crear chatbots de IA personalizados para sus sitios web. Los bots están diseñados para captar clientes, responder a sus preguntas y captar clientes potenciales.</p>
     <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Chatbit</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
-    </a>
-    <h4>Convierte tus selfies en fotos profesionales a la cabeza</h4>
-    <p>El generador de tiros a la cabeza profesional de mayor precisión del mercado. Composición a medida para las mejores primeras impresiones. Ideal para profesionales y equipos.</p>
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con The Multiverse AI</b></a>
     <br />
 </div>
 
@@ -485,6 +485,7 @@
 | [Glimmer AI](https://www.thataicollection.com/redirect/glimmer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Magia de presentación impulsada por IA. | Glimmer AI usa GPT-3 y DALL-E 2 para hacer que la creación de presentaciones de calidad profesional sea fácil y rápida usando comandos de texto o voz. | :white_check_mark: |
 | [InteractivePolls.ai - MeetMoji](https://www.thataicollection.com/redirect/interactivepolls.ai---meetmoji?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Encuestas en directo para Google Slides con un asistente de IA. | Genera una conversación significativa en tus presentaciones con nuestras encuestas en directo impulsadas por IA, nubes de palabras y mucho más. Transforma las presentaciones estáticas y unidireccionales en conversaciones interesantes. Involucra a todo el mundo, ya sea en Internet, en persona o ambos. | :white_check_mark: |
 | [My Pitch Deck](https://www.thataicollection.com/redirect/my-pitch-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | My Pitch Deck: inicia tu financiación con una plantilla de presentación personalizada para tu startup. | Una plantilla de presentación de 10 diapositivas. Hecho a tu medida. En función de tus respuestas, nuestra IA creará un esquema de presentación personalizado de 10 diapositivas para tu startup. ¡Listo para construir sobre la base!. | :grey_question: |
+| [PitchBob.io](https://www.thataicollection.com/redirect/pitchbob.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generador de plataforma de lanzamiento con IA y copiloto de puesta en marcha. | PitchBob.io es un asistente digital impulsado por la IA diseñado para ayudar a los emprendedores a convertirse en emprendedores. No solo ayuda a lanzar, sino también a las tareas diarias, como validar ideas y crear pérdidas y ganancias, así como a establecer contactos. Con solo un diálogo. | :white_check_mark: |
 | [Pitchgrade](https://www.thataicollection.com/redirect/pitchgrade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pitchgrade: presentaciones hechas sin dolor. | Una presentación es una presentación que una empresa utiliza para presentar a los inversores. Repasa el modelo de negocio de la empresa, las proyecciones financieras y otros indicadores clave que los inversores querrían ver. | :grey_question: |
 | [Plus AI for Google Slides](https://www.thataicollection.com/redirect/plus-ai-for-google-slides?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Cree presentaciones impulsadas por IA en Presentaciones de Google. | Cree presentaciones en minutos con Plus AI. Comenzar con un mazo en blanco es una de las partes más desafiantes de la creación de una presentación. Además, AI lo ayuda a crear un esquema, crear un primer borrador y sugerir ediciones adicionales para sus diapositivas. | :white_check_mark: |
 | [Presentation API](https://www.thataicollection.com/redirect/presentation-api?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | La API de presentación es una API fácil de usar para generar presentaciones que puedes añadir a tus aplicaciones y sitios web.  Descripción larga. | Presentamos la API de presentación, la API basada en IA más sencilla que se puede utilizar para añadir la capacidad de generar presentaciones a tu aplicación o sitio web. | :white_check_mark: |
