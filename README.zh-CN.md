@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1359" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1365" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -59,6 +59,19 @@
     <h4>把你的自拍变成专业头像</h4>
     <p>市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。</p>
     <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 The Multiverse AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>适用于您网站的 AI 聊天机器人，根据您的数据进行训练</h4>
+    <p>Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。</p>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
     <br />
 </div>
 
@@ -137,125 +150,114 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### SwifDoo PDF
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-swifdoo-pdf.webp" alt="SwifDoo PDF">
+### PhotoPacks.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photopacks.ai.webp" alt="PhotoPacks.AI">
 
-#### SwifDoo PDF-多合一 PDF 软件
-您的 PDF 文档的终极解决方案
+#### 照片拍摄质量的头像-没有价格标签
+[Visit](https://www.thataicollection.com/redirect/photopacks.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-点击几下即可查看、创建、编辑、转换和管理 PDF
-[Visit](https://www.thataicollection.com/redirect/swifdoo-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+PhotoPacks.AI 是一个可以从几张普通图像生成高质量的专业头像的平台。我们的客户将生成的照片用于各种目的，包括专业网站、约会照片以及在社交媒体平台上增强其个人品牌。每天只需上传 10 张照片，我们就会立即让您看起来像专业人士。
 
-在SwifDoo PDF，我们为您的所有 PDF 相关需求提供有用且快速的解决方案，从编辑和组织到转换和保护 PDF。
-
-SwifDoo PDF是一个年轻的团队，成立于2017年，在过去的几年中，我们已经帮助用户处理了数百万份PDF文档。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/swifdoo-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/photopacks.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Well Me Right
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-well-me-right.webp" alt="Well Me Right">
+### LooksMax AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looksmax-ai.webp" alt="LooksMax AI">
 
-#### AI 健康指导：预订世界领先的健康专家，通过视频通话获得建议
+#### Looksmax AI 会分析您的外表，并分享人工智能生成的自我完善技巧，这些技巧将帮助您增强信心和自尊心。 
+[Visit](https://www.thataicollection.com/redirect/looksmax-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/well-me-right?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+使用Looksmax AI分析您的外表，并获得旨在增强自信和自尊的个性化自我改善建议。 
 
-AI 配对：与经过审查的饮食、营养、补品、美容、健身、正念等领域的专家会面，获得 1:1 的虚拟健康指导和支持
+您将收到量身定制的小贴士，以改善您的护肤程序、改善发型等等！ 
 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/well-me-right?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Theoriestudio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-theoriestudio.webp" alt="Theoriestudio">
-
-#### Theoriestudio-用人工智能学习驾驶理论
-
-[Visit](https://www.thataicollection.com/redirect/theoriestudio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Theoriestudio是一个免费增值平台，人们可以在其中通过人工智能学习驾驶理论。它以课程、测验和模拟考试为特色。这些课程有实际的例子，然后是测验，学生可以在这些测验中练习所学内容。考试以真实考试为蓝本，因此您可以很好地练习所有内容。AI 会跟踪您的表现并为您提供相应的考试。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/theoriestudio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/looksmax-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Complete AI Bundle
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-complete-ai-bundle.webp" alt="Complete AI Bundle">
+### TTS-Generator.com
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tts-generator.com.webp" alt="TTS-Generator.com">
 
-#### 完整的人工智能套装——为忙碌的企业家提供的最大的人工智能提示、指南以及提示和技巧
-[Visit](https://www.thataicollection.com/redirect/complete-ai-bundle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 在短短几秒钟内免费使用AI将任何文本内容转换为语音语音MP3
+[Visit](https://www.thataicollection.com/redirect/tts-generator.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Complete AI Bundle 是企业必备的工具包——一键掌握文案写作、营销、无代码自动化、业务开发和品牌视觉效果。
+使用 AI 在短短几秒钟内将任何文本内容转换并转换为语音语音 MP3！立即免费生成您的第一场演讲！
 
- ✅ ChatGPT、Claude、Midjourney和Gemini AI的最大人工智能提示集
- ✅ 30,000 多条 AI 提示、超级提示和指令
- ✅ 快速简便的操作指南、提示和技巧
- ✅ 终身访问和更新
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/complete-ai-bundle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Bidlytics
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bidlytics.webp" alt="Bidlytics">
-
-#### 您的 GovCon 注重隐私的人工智能伴侣。自动分析 RFP，做出投标/不投标决定，生成合规矩阵并创建合规提案。
-[Visit](https://www.thataicollection.com/redirect/bidlytics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Bidlytics是您为GovCon提供的以隐私为中心的采集和提案解决方案。
-
-我们帮助企业将无聊的工作自动化，这样他们就可以专注于建立关系和制定双赢主题。以下是 Bidlytics 提供的功能列表：
-
-■ 使用 AI 自动将您的公司与政府机会相匹配
-■ 分析 RFP、提取见解并生成合规矩阵
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/bidlytics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/tts-generator.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Linkrr
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-linkrr.webp" alt="Linkrr">
+### BrainSoup
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-brainsoup_.webp" alt="BrainSoup">
 
-#### Linkrr-用一个平台做所有事情！
-[Visit](https://www.thataicollection.com/redirect/linkrr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 在电脑上组建一支为你工作的 AI 团队
+[Visit](https://www.thataicollection.com/redirect/brainsoup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+BrainSoup 是一个多代理和多 LLM 原生客户端，使用户能够创建一支个性化的人工智能代理团队，他们可以学习、记住、应对事件、使用工具、利用本地和外部资源，并共同协作以自主解决任务。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/brainsoup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
 
 
-Linkrr是一种多功能的链接管理工具，类似于Linktree。它提供短链接、可自定义的个人简历页面、二维码、Vcard共享、文件传输和HTML网站托管。功能包括分析、URL 缩短和自定义域名。定价计划可满足各种需求，确保有效的在线状态管理。
+### SmartEReply
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-smartereply.webp" alt="SmartEReply">
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/linkrr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 在 LinkedIn™ 上创建个性化评论，撰写引人入胜的帖子，轻松管理 DM。
+[Visit](https://www.thataicollection.com/redirect/smartereply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SmarteReply 通过 AI 彻底改变了 LinkedIn™ 的参与轻松撰写个性化评论、发布和管理 DM。功能包括自动生成帖子、个性化回复、个人资料优化、直接消息写作、多语言支持和全面的评论互动。非常适合忙碌的专业人士、求职者和销售/营销专业人士，
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/smartereply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Apex Vision AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-apex-vision-ai.webp" alt="Apex Vision AI">
+### Bundle of Joy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bundle-of-joy.webp" alt="Bundle of Joy">
 
-#### 作业和测验答案 AI-Apex Vision AI
-[Visit](https://www.thataicollection.com/redirect/apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 在几秒钟内将宝宝的名字列入候选名单。获取根据您的独特品味和喜好量身定制的推荐。与合作伙伴一起入围名单，并在一个地方管理所有您最喜欢的名字。
+[Visit](https://www.thataicollection.com/redirect/bundle-of-joy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Apex Vision AI是面向学生的首屈一指的Chrome扩展程序，它提供了尖端的人工智能，可以立即解决多项选择题。它支持Canvas和McGraw Hill等平台，可满足各种拍摄对象的需求，确保量身定制的精度和流畅的用户体验。从灵活的个性化学术援助计划中进行选择。
+根据主题、起源/宗教、开头字母或名字的含义来推荐与你的氛围相匹配的宝宝名字。根据你喜欢或不喜欢的名字，该应用程序会推荐更多可供你入围的名字。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+有趣的部分——当父母双方都喜欢同一个名字时，会发出类似 Tinder 的匹配提醒，还有一个地方可以浏览和管理你最喜欢的名字。 
+
+还提供礼物选项。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/bundle-of-joy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### ppnude
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ppnude.webp" alt="ppnude">
+
+#### 一款用于脱衣服或换脸的免费 AI 工具
+
+[Visit](https://www.thataicollection.com/redirect/ppnude?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PPNUDE.com是一款免费的人工智能工具，可以创建深裸照片或将照片中的面孔更改为任何你喜欢的人。
+只需点击一下即可免费看到任何人的裸照。你甚至可以把你最喜欢的脸放在你最喜欢的身体上。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ppnude?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -739,6 +741,21 @@ SUPERMACHINE 使您能够使用最新的人工智能技术生成图像。使用 
 
 ## 化身
 
+### PhotoPacks.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photopacks.ai.webp" alt="PhotoPacks.AI">
+
+#### 照片拍摄质量的头像-没有价格标签
+[Visit](https://www.thataicollection.com/redirect/photopacks.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PhotoPacks.AI 是一个可以从几张普通图像生成高质量的专业头像的平台。我们的客户将生成的照片用于各种目的，包括专业网站、约会照片以及在社交媒体平台上增强其个人品牌。每天只需上传 10 张照片，我们就会立即让您看起来像专业人士。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/photopacks.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Photo AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
 
@@ -829,21 +846,6 @@ Vana允许你利用数据和人工智能的力量创建迷你 “你”。克隆
 <br />
 
 
-### DreamPic
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreampic.webp" alt="DreamPic">
-
-#### 梦图.AI
-[Visit](https://www.thataicollection.com/redirect/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI 生成您主演的图片
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 
 [See All 😎 化身 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/avatars?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -853,6 +855,21 @@ AI 生成您主演的图片
 ---
 
 ## 聊天机器人
+
+### Chatbit
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit">
+
+#### 适用于您网站的 AI 聊天机器人，根据您的数据进行训练
+[Visit](https://www.thataicollection.com/redirect/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 
 ### Chatbase
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
@@ -941,21 +958,6 @@ ChatSimple是一个专门在短短5分钟内为中小型企业（SMB）创建以
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/promptpal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### EmbedAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-embedai.webp" alt="EmbedAI">
-
-#### EmbeDai-根据您的数据进行训练的自定义 AI 聊天机器人
-[Visit](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-利用您的独特内容、支持文档、PDF、API 或数据库开发个性化的 AI 支持聊天机器人。只需一行代码即可轻松将其集成到您的网站中，以实时响应访问者的查询，从而最大限度地减少您收到的支持请求的数量。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1854,6 +1856,23 @@ SwaGai-人工智能在T恤上生成了图像。
 借助 Outfit Anyone AI，探索时尚新时代，只需点击一下即可试穿任何服装。我们的平台利用最先进的人工智能技术改变您的服装选择体验。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### LooksMax AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looksmax-ai.webp" alt="LooksMax AI">
+
+#### Looksmax AI 会分析您的外表，并分享人工智能生成的自我完善技巧，这些技巧将帮助您增强信心和自尊心。 
+[Visit](https://www.thataicollection.com/redirect/looksmax-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用Looksmax AI分析您的外表，并获得旨在增强自信和自尊的个性化自我改善建议。 
+
+您将收到量身定制的小贴士，以改善您的护肤程序、改善发型等等！ 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/looksmax-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

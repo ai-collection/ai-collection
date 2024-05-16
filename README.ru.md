@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1359" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1365" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
     </a>
-    <h4>Elephant.ai — решение для обслуживания клиентов #1 на базе искусственного интеллекта — превратите свой веб-сайт в машину продаж</h4>
-    <p>Наш чат-бот на базе искусственного интеллекта работает круглосуточно и без выходных, обеспечивая мгновенную поддержку, квалифицируя потенциальных клиентов и поддерживая вовлеченность посетителей — и все это, изучая ваш контент.</p>
-    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Elephant.ai</b></a>
+    <h4>Превратите свои селфи в профессиональные хедшоты</h4>
+    <p>Самый точный профессиональный генератор хедшотов на рынке. Специальная композиция для лучших первых впечатлений. Идеально подходит для профессионалов и команд.</p>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с The Multiverse AI</b></a>
     <br />
 </div>
 
@@ -66,12 +66,25 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
     </a>
-    <h4>Превратите свои селфи в профессиональные хедшоты</h4>
-    <p>Самый точный профессиональный генератор хедшотов на рынке. Специальная композиция для лучших первых впечатлений. Идеально подходит для профессионалов и команд.</p>
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с The Multiverse AI</b></a>
+    <h4>Чат-бот с искусственным интеллектом для вашего сайта, обученный на ваших данных</h4>
+    <p>Chatbit — это инструмент искусственного интеллекта, который позволяет пользователям создавать персонализированных чат-ботов с искусственным интеллектом для своих веб-сайтов. Боты предназначены для привлечения клиентов, ответов на их вопросы и привлечения потенциальных клиентов.</p>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Chatbit</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai" border="0"/>
+    </a>
+    <h4>Elephant.ai — решение для обслуживания клиентов #1 на базе искусственного интеллекта — превратите свой веб-сайт в машину продаж</h4>
+    <p>Наш чат-бот на базе искусственного интеллекта работает круглосуточно и без выходных, обеспечивая мгновенную поддержку, квалифицируя потенциальных клиентов и поддерживая вовлеченность посетителей — и все это, изучая ваш контент.</p>
+    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Elephant.ai</b></a>
     <br />
 </div>
 
@@ -137,125 +150,114 @@
 - 🎬 [Видео](#видео)
 ## Latest Additions to AI Collection
 
-### SwifDoo PDF
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-swifdoo-pdf.webp" alt="SwifDoo PDF">
+### PhotoPacks.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photopacks.ai.webp" alt="PhotoPacks.AI">
 
-#### SwifDoo PDF - универсальное программное обеспечение для работы с PDF-файлами
-Идеальное решение для ваших PDF-документов
+#### Качественные хедшоты для фотосессии — без ценника
+[Visit](https://www.thataicollection.com/redirect/photopacks.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Просматривайте, создавайте, редактируйте, конвертируйте PDF-файлы и управляйте ими всего за несколько кликов
-[Visit](https://www.thataicollection.com/redirect/swifdoo-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+PhotoPacks.AI — это платформа, которая позволяет создавать высококачественные профессиональные хедшоты всего из нескольких обычных изображений. Наши клиенты используют сгенерированные фотографии для различных целей, включая профессиональные веб-сайты, фотографии для знакомств и продвижение своего личного бренда в социальных сетях. Просто загружайте 10 фотографий, сделанных каждый день, и вы в кратчайшие сроки станете профессионалом.
 
-В SwifDoo PDF мы предлагаем полезное и быстрое решение для всех ваших потребностей, связанных с PDF-файлами, от редактирования и организации до преобразования и защиты PDF-файлов.
-
-SwifDoo PDF — молодая команда, основанная в 2017 году, и за последние годы мы помогли пользователям обрабатывать миллионы PDF-документов.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/swifdoo-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/photopacks.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Well Me Right
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-well-me-right.webp" alt="Well Me Right">
+### LooksMax AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looksmax-ai.webp" alt="LooksMax AI">
 
-#### AI Health-coaching: обратитесь к ведущим мировым экспертам по оздоровлению и получите консультацию по видеосвязи
+#### Looksmax AI анализирует вашу внешность и делится советами по самосовершенствованию, разработанными искусственным интеллектом, которые помогут вам повысить уверенность в себе и самооценку. 
+[Visit](https://www.thataicollection.com/redirect/looksmax-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/well-me-right?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Анализируйте свою внешность с помощью искусственного интеллекта Looksmax и получайте индивидуальные предложения по самосовершенствованию, призванные повысить вашу уверенность в себе и повысить самооценку. 
 
-AI Matching: познакомьтесь с проверенными экспертами в области диеты, питания, пищевых добавок, красоты, фитнеса, внимательности и многого другого для виртуального инструктажа и поддержки по здоровью в формате «один на один»
+Вы получите индивидуальные советы по улучшению режима ухода за кожей, улучшению прически и многому другому! 
 
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/well-me-right?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Theoriestudio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-theoriestudio.webp" alt="Theoriestudio">
-
-#### Theoriestudio - изучайте теорию вождения с помощью искусственного интеллекта
-
-[Visit](https://www.thataicollection.com/redirect/theoriestudio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Theoriestudio — это бесплатная платформа, где люди могут изучать теорию вождения с помощью искусственного интеллекта. Здесь представлены уроки, викторины и пробные экзамены. На уроках приводятся практические примеры, а затем проводятся викторины, в которых учащиеся могут применить полученные знания на практике. Экзамены составлены по образцу реального экзамена, поэтому вы можете хорошо освоить их на практике. Искусственный интеллект отслеживает вашу успеваемость и дает вам соответствующие экзамены.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/theoriestudio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/looksmax-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Complete AI Bundle
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-complete-ai-bundle.webp" alt="Complete AI Bundle">
+### TTS-Generator.com
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tts-generator.com.webp" alt="TTS-Generator.com">
 
-#### Complete AI Bundle — самая большая коллекция подсказок, руководств, советов и рекомендаций по искусственному интеллекту для занятых предпринимателей
-[Visit](https://www.thataicollection.com/redirect/complete-ai-bundle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Конвертируйте любой текстовый контент в Voice Speech MP3 с помощью искусственного интеллекта всего за несколько секунд бесплатно
+[Visit](https://www.thataicollection.com/redirect/tts-generator.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Complete AI Bundle — это незаменимый набор инструментов для бизнеса: освойте копирайтинг, маркетинг, автоматизацию без кода, развитие бизнеса и визуальные эффекты бренда в один клик.
+Преобразуйте и конвертируйте любой текстовый контент в Voice Speech MP3 с помощью искусственного интеллекта всего за несколько секунд! Создайте свою первую речь бесплатно уже сегодня!
 
- ✅ Самая большая коллекция подсказок по искусственному интеллекту для ChatGPT, Claude, Midjourney и Gemini AI
- ✅ Более 30 000 подсказок, мегаподсказок и инструкций по искусственному интеллекту
- ✅ Быстрые и простые практические руководства, советы и рекомендации
- ✅ Пожизненный доступ и обновления
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/complete-ai-bundle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/tts-generator.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Bidlytics
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bidlytics.webp" alt="Bidlytics">
+### BrainSoup
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-brainsoup_.webp" alt="BrainSoup">
 
-#### Ваш помощник по искусственному интеллекту на GovCon, ориентированный на конфиденциальность. Автоматически анализируйте запросы предложений, принимайте решения о предложениях или отказе от них, создавайте матрицы соответствия требованиям и создавайте предло
-[Visit](https://www.thataicollection.com/redirect/bidlytics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Создайте команду по искусственному интеллекту, которая будет работать для вас на вашем ПК
+[Visit](https://www.thataicollection.com/redirect/brainsoup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Bidlytics — это ваше решение для сбора и подачи предложений для GovCon, ориентированное на конфиденциальность.
+BrainSoup — это нативный клиент с несколькими агентами и несколькими LLM, позволяющий пользователям создать команду персонализированных агентов искусственного интеллекта, которые могут учиться, запоминать, реагировать на события, использовать инструменты, использовать местные и внешние ресурсы и совместно решать задачи автономно.
 
-Мы помогаем компаниям автоматизировать скучную работу, чтобы они могли сосредоточиться на налаживании отношений и разработке интересных тем. Вот список функций, которые предлагает Bidlytics:
-
-■ Использует искусственный интеллект для автоматического сопоставления вашей компании с государственными возможностями
-■ Анализирует запросы предложений, извлекает информацию и создает матрицы соответствия
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/bidlytics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/brainsoup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Linkrr
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-linkrr.webp" alt="Linkrr">
+### SmartEReply
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-smartereply.webp" alt="SmartEReply">
 
-#### Linkrr — делайте все на одной платформе!
-[Visit](https://www.thataicollection.com/redirect/linkrr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Создавайте персонализированные комментарии, создавайте интересные публикации и легко управляйте DM в LinkedIn™.
+[Visit](https://www.thataicollection.com/redirect/smartereply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+SmarteReply революционизирует взаимодействие в LinkedIn™ с помощью искусственного интеллекта. С легкостью создавайте персонализированные комментарии, публикации и управляйте DM. Функции включают автоматическую генерацию сообщений, персонализированные ответы, оптимизацию профиля, написание прямых сообщений, многоязычную поддержку и комплексное взаимодействие с комментариями. Идеально подходит для занятых профессионалов, соискателей работы и специалистов по продажам и маркетингу
 
-Linkr — это универсальный инструмент управления ссылками, похожий на Linktree. Он предлагает короткие ссылки, настраиваемые страницы с биографиями, QR-коды, обмен видеокартами, передачу файлов и хостинг сайтов в формате HTML. Функции включают аналитику, сокращение URL-адресов и настраиваемые домены. Тарифные планы учитывают различные потребности и обеспечивают эффективное управление присутствием в Интернете.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/linkrr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/ru/application/smartereply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Apex Vision AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-apex-vision-ai.webp" alt="Apex Vision AI">
+### Bundle of Joy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bundle-of-joy.webp" alt="Bundle of Joy">
 
-#### Искусственный интеллект, отвечающий на домашние задания и викторины - Apex Vision AI
-[Visit](https://www.thataicollection.com/redirect/apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Составьте краткий список имен для вашего ребенка за считанные секунды. Получите рекомендации, соответствующие вашему уникальному вкусу и предпочтениям. Составьте список вместе с партнером и управляйте всеми любимыми именами в одном месте.
+[Visit](https://www.thataicollection.com/redirect/bundle-of-joy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Apex Vision AI, ведущее расширение Chrome для учащихся, предлагает передовой искусственный интеллект, позволяющий мгновенно решать вопросы с несколькими вариантами ответов. Благодаря поддержке таких платформ, как Canvas и McGraw Hill, оно охватывает широкий спектр предметов, обеспечивая индивидуальную точность и удобство работы пользователей. Выберите один из гибких планов персонализированной академической помощи.
+Получите рекомендации по именам для ребенка, которые соответствуют вашим предпочтениям — по теме, происхождению/религии, начальной букве или значению имени. В зависимости от имён, которые вам нравятся или не нравятся, приложение рекомендует вам больше имён, из которых вы можете составить короткий список.
 
-[More Information and Pricing](https://www.thataicollection.com/ru/application/apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Самое интересное: напоминающее Tinder оповещение о совпадении имен, когда обоим родителям нравится одно и то же имя, а также возможность просматривать любимые имена и управлять ими в одном месте. 
+
+Также е
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/bundle-of-joy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### ppnude
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ppnude.webp" alt="ppnude">
+
+#### Бесплатный инструмент искусственного интеллекта для раздевания или смены лица
+
+[Visit](https://www.thataicollection.com/redirect/ppnude?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PPNude.com — это бесплатный инструмент искусственного интеллекта для создания фотографий Deepnude или смены лиц на фотографиях на кого угодно.
+Всего один клик, чтобы бесплатно увидеть кого-нибудь обнаженным. Вы даже можете нанести свое любимое лицо на свое любимое тело.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ppnude?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -739,6 +741,21 @@ SUPERMACHINE позволяет создавать изображения с п�
 
 ## Аватары
 
+### PhotoPacks.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photopacks.ai.webp" alt="PhotoPacks.AI">
+
+#### Качественные хедшоты для фотосессии — без ценника
+[Visit](https://www.thataicollection.com/redirect/photopacks.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PhotoPacks.AI — это платформа, которая позволяет создавать высококачественные профессиональные хедшоты всего из нескольких обычных изображений. Наши клиенты используют сгенерированные фотографии для различных целей, включая профессиональные веб-сайты, фотографии для знакомств и продвижение своего личного бренда в социальных сетях. Просто загружайте 10 фотографий, сделанных каждый день, и вы в кратчайшие сроки станете профессионалом.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/photopacks.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Photo AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
 
@@ -829,21 +846,6 @@ Vana позволяет создать мини-« вы», используя в
 <br />
 
 
-### DreamPic
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreampic.webp" alt="DreamPic">
-
-#### DreamPic.AI
-[Visit](https://www.thataicollection.com/redirect/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Изображения, созданные искусственным интеллектом, с вами в главной роли
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 
 [See All 😎 Аватары Applications on AI Collection](https://www.thataicollection.com/ru/categories/avatars?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -853,6 +855,21 @@ Vana позволяет создать мини-« вы», используя в
 ---
 
 ## Чат-бот
+
+### Chatbit
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit">
+
+#### Чат-бот с искусственным интеллектом для вашего сайта, обученный на ваших данных
+[Visit](https://www.thataicollection.com/redirect/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chatbit — это инструмент искусственного интеллекта, который позволяет пользователям создавать персонализированных чат-ботов с искусственным интеллектом для своих веб-сайтов. Боты предназначены для привлечения клиентов, ответов на их вопросы и привлечения потенциальных клиентов.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Chatbase
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
@@ -939,21 +956,6 @@ ChatSimple — это платформа, которая специализир�
 Раскройте весь потенциал искусственного интеллекта с помощью PromptPal, вашего идеального ресурса для тщательно подобранных подсказок и сложных ботов с искусственным интеллектом, адаптированных к широкому спектру потребностей. Независимо от того, занимаетесь ли вы маркетингом, разработкой программного обеспечения, графическим дизайном или управлением продуктами, PromptPal предлагает обширное хранилище инструментов с возможностью поиска, предназначенных для оптимизации взаимодействия с искусственным интеллек
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/promptpal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### EmbedAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-embedai.webp" alt="EmbedAI">
-
-#### Embedai — специализированный чат-бот с искусственным интеллектом, обученный работе с вашими данными
-[Visit](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Создайте персонализированного чат-бота для поддержки ИИ, используя свой уникальный контент, вспомогательные документы, PDF-файлы, API или базы данных. Легко интегрируйте его в свой веб-сайт, используя всего одну строку кода, чтобы отвечать на запросы посетителей в режиме реального времени и тем самым минимизировать количество получаемых обращений в службу поддержки.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1852,6 +1854,23 @@ SwagAI — изображения, созданные искусственным
 С помощью искусственного интеллекта Outfit Anyone откройте для себя новую эру моды, где примерить любую одежду можно одним щелчком мыши. Наша платформа трансформирует ваш опыт выбора одежды с помощью новейшей технологии искусственного интеллекта.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### LooksMax AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looksmax-ai.webp" alt="LooksMax AI">
+
+#### Looksmax AI анализирует вашу внешность и делится советами по самосовершенствованию, разработанными искусственным интеллектом, которые помогут вам повысить уверенность в себе и самооценку. 
+[Visit](https://www.thataicollection.com/redirect/looksmax-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Анализируйте свою внешность с помощью искусственного интеллекта Looksmax и получайте индивидуальные предложения по самосовершенствованию, призванные повысить вашу уверенность в себе и повысить самооценку. 
+
+Вы получите индивидуальные советы по улучшению режима ухода за кожей, улучшению прически и многому другому! 
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/looksmax-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

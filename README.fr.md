@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1359" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1365" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai" border="0"/>
     </a>
-    <h4>Transforme tes selfies en portraits professionnels</h4>
-    <p>Le générateur de headshots professionnel le plus précis du marché. Composition sur mesure pour une première impression optimale. Idéal pour les professionnels et les équipes.</p>
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec The Multiverse AI</b></a>
+    <h4>Elephant.ai - La solution de service client #1 basée sur l'IA : transformez ton site Web en machine à vendre</h4>
+    <p>Notre chatbot alimenté par l'IA fonctionne 24 heures sur 24 et 7 jours sur 7 pour fournir une assistance instantanée, qualifier les prospects et fidéliser les visiteurs, le tout en tirant parti de ton contenu.</p>
+    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Elephant.ai</b></a>
     <br />
 </div>
 
@@ -66,12 +66,25 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
     </a>
-    <h4>Elephant.ai - La solution de service client #1 basée sur l'IA : transformez ton site Web en machine à vendre</h4>
-    <p>Notre chatbot alimenté par l'IA fonctionne 24 heures sur 24 et 7 jours sur 7 pour fournir une assistance instantanée, qualifier les prospects et fidéliser les visiteurs, le tout en tirant parti de ton contenu.</p>
-    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Elephant.ai</b></a>
+    <h4>Chatbot IA pour ton site web, formé à partir de tes données</h4>
+    <p>Chatbit est un outil d'intelligence artificielle qui permet aux utilisateurs de créer des chatbots IA personnalisés pour leurs sites Web. Les robots sont conçus pour interagir avec les clients, répondre à leurs questions et capter des prospects.</p>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Chatbit</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
+    </a>
+    <h4>Transforme tes selfies en portraits professionnels</h4>
+    <p>Le générateur de headshots professionnel le plus précis du marché. Composition sur mesure pour une première impression optimale. Idéal pour les professionnels et les équipes.</p>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec The Multiverse AI</b></a>
     <br />
 </div>
 
@@ -137,125 +150,114 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🧠 [Éducation Et Apprentissage](#éducation-et-apprentissage)
 ## Latest Additions to AI Collection
 
-### SwifDoo PDF
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-swifdoo-pdf.webp" alt="SwifDoo PDF">
+### PhotoPacks.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photopacks.ai.webp" alt="PhotoPacks.AI">
 
-#### SwifDoo PDF, logiciel PDF tout-en-un
-La solution ultime pour tes documents PDF
+#### Des portraits de qualité pour une séance photo, sans le prix
+[Visit](https://www.thataicollection.com/redirect/photopacks.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Quelques clics pour afficher, créer, modifier, convertir et gérer des PDF
-[Visit](https://www.thataicollection.com/redirect/swifdoo-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+PhotoPacks.AI est une plateforme qui permet de générer des portraits professionnels de haute qualité à partir de quelques images ordinaires. Nos clients utilisent les photos générées à diverses fins, notamment pour des sites Web professionnels, des photos de rencontres et l'amélioration de leur image de marque personnelle sur les réseaux sociaux. Il suffit de télécharger 10 photos de tous les jours et tu auras l'air d'une professionnelle en un rien de temps.
 
-Chez SwifDoo PDF, nous proposons une solution utile et rapide à tous tes besoins en matière de PDF, qu'il s'agisse de les modifier, de les organiser, de les convertir et de les protéger.
-
-SwifDoo PDF est une jeune équipe, créée en 2017, et ces dernières années, nous avons aidé des utilisateurs à traiter des millions de documents PDF.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/swifdoo-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/photopacks.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Well Me Right
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-well-me-right.webp" alt="Well Me Right">
+### LooksMax AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looksmax-ai.webp" alt="LooksMax AI">
 
-#### AI Healthcoaching : recrute les meilleurs experts mondiaux en matière de bien-être et reçois des conseils par appel vidéo
+#### Looksmax AI analyse ton apparence physique et partage des conseils d'amélioration personnelle générés par l'IA qui t'aideront à renforcer ta confiance en toi et ton estime de soi. 
+[Visit](https://www.thataicollection.com/redirect/looksmax-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/well-me-right?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Analyse ton apparence physique à l'aide de Looksmax AI et reçois des suggestions personnalisées d'amélioration personnelle conçues pour renforcer ta confiance en toi et ton estime de soi. 
 
-AI Matching : rencontre des experts en alimentation, en nutrition, en compléments alimentaires, en beauté, en fitness, en pleine conscience et plus encore pour un coaching et un soutien en matière de santé virtuels personnalisés
+Tu recevras des conseils personnalisés pour améliorer ta routine de soin de la peau, affiner ta coiffure et bien plus encore ! 
 
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/well-me-right?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Theoriestudio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-theoriestudio.webp" alt="Theoriestudio">
-
-#### Theoriestudio - Apprenez la théorie de la conduite grâce à l'IA
-
-[Visit](https://www.thataicollection.com/redirect/theoriestudio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Theoriestudio est une plateforme freemium qui permet aux utilisateurs d'apprendre la théorie de la conduite grâce à l'IA. Il propose des leçons, des quiz et des examens pratiques. Les leçons contiennent des exemples pratiques et sont suivies de quiz au cours desquels les étudiants peuvent mettre en pratique ce qu'ils ont appris. Les examens sont calqués sur le véritable examen afin que tu puisses bien t'entraîner. L'IA suit tes performances et te propose des examens correspondants.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/theoriestudio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/looksmax-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Complete AI Bundle
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-complete-ai-bundle.webp" alt="Complete AI Bundle">
+### TTS-Generator.com
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tts-generator.com.webp" alt="TTS-Generator.com">
 
-#### Pack complet d'IA - La plus grande collection d'instructions, de guides, de conseils et astuces en matière d'IA pour les entrepreneurs pressés
-[Visit](https://www.thataicollection.com/redirect/complete-ai-bundle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Convertissez n'importe quel contenu textuel en Voice Speech MP3 avec IA en quelques secondes, gratuitement
+[Visit](https://www.thataicollection.com/redirect/tts-generator.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Complete AI Bundle est la boîte à outils essentielle pour les entreprises : maîtrisez la rédaction, le marketing, l'automatisation sans code, le développement commercial et la création de visuels de marque en un clic.
+Transformez et convertissez n'importe quel contenu textuel en Voice Speech MP3 grâce à l'IA en quelques secondes ! Génère ton premier discours gratuitement dès aujourd'hui !
 
- ✅ La plus grande collection d'instructions d'IA pour ChatGPT, Claude, Midjourney et Gemini AI
- ✅ Plus de 30 000 invites, méga-invites et instructions basées sur l'IA
- ✅ Guides pratiques, conseils et astuces rapides et faciles
- ✅ Accès à vie et mises à jour
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/complete-ai-bundle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/tts-generator.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Bidlytics
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bidlytics.webp" alt="Bidlytics">
+### BrainSoup
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-brainsoup_.webp" alt="BrainSoup">
 
-#### Ton compagnon d'IA axé sur la confidentialité pour GovCon. Analyser automatiquement les appels d'offres, prendre des décisions concernant ou ne pas enchérir, générer des matrices de conformité et créer des propositions conformes.
-[Visit](https://www.thataicollection.com/redirect/bidlytics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Constitue une équipe d'IA qui fonctionne pour toi, sur ton PC
+[Visit](https://www.thataicollection.com/redirect/brainsoup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Bidlytics est ta solution de capture et de proposition axée sur la confidentialité pour GovCon.
+BrainSoup est un client natif multi-agents et multi-LLM qui permet aux utilisateurs de créer une équipe d'agents d'IA personnalisés capables d'apprendre, de mémoriser, de réagir aux événements, d'utiliser des outils, de tirer parti de ressources locales et externes et de travailler ensemble pour résoudre des tâches de manière autonome.
 
-Nous aidons les entreprises à automatiser les tâches ennuyeuses afin qu'elles puissent se concentrer sur l'établissement de relations et le développement de leurs thèmes gagnants. Voici la liste des fonctionnalités proposées par Bidlytics :
-
-■ Utilise l'IA pour associer automatiquement ton entreprise aux opportunités gouvernementales
-■ Analyse les appels d'offres, extrait des informations et génère des matrices 
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/bidlytics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/brainsoup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Linkrr
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-linkrr.webp" alt="Linkrr">
+### SmartEReply
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-smartereply.webp" alt="SmartEReply">
 
-#### Linkrr - Fais tout sur une seule plateforme !
-[Visit](https://www.thataicollection.com/redirect/linkrr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Créez des commentaires personnalisés, rédigez des publications attrayantes et gérez facilement les DM sur LinkedIn™.
+[Visit](https://www.thataicollection.com/redirect/smartereply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+SmarteReply révolutionne l'engagement sur LinkedIn™ grâce à l'IA. Créez des commentaires et des publications personnalisés et gérez les DM sans effort. Les fonctionnalités incluent la génération automatique de publications, des réponses personnalisées, l'optimisation du profil, la rédaction directe de messages, une assistance multilingue et un engagement complet dans les commentaires. Idéal pour les professionnels pressés, les demandeurs d'emploi et les professionnels de la vente et du marketing,
 
-Linkrr est un outil de gestion des liens polyvalent similaire à Linktree. Il propose des liens courts, des pages biographiques personnalisables, des codes QR, le partage de vcards, des transferts de fichiers et l'hébergement de sites HTML. Les fonctionnalités incluent les analyses, le raccourcissement des URL et les domaines personnalisés. Les plans tarifaires répondent à différents besoins et garantissent une gestion efficace de la présence en ligne.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/linkrr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/smartereply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Apex Vision AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-apex-vision-ai.webp" alt="Apex Vision AI">
+### Bundle of Joy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bundle-of-joy.webp" alt="Bundle of Joy">
 
-#### IA pour les devoirs et les réponses aux quiz - Apex Vision AI
-[Visit](https://www.thataicollection.com/redirect/apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Répertoriez les prénoms de ton bébé en quelques secondes. Recevez des recommandations adaptées à tes goûts et à tes préférences uniques. Présélectionnez avec votre partenaire et gérez tous tes prénoms préférés en un seul endroit.
+[Visit](https://www.thataicollection.com/redirect/bundle-of-joy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Apex Vision AI, la meilleure extension Chrome pour les étudiants, propose une IA de pointe qui permet de résoudre instantanément les questions à choix multiples. Supportant des plateformes telles que Canvas et McGraw Hill, il aborde de nombreux sujets, garantissant une précision sur mesure et une expérience utilisateur fluide. Choisissez parmi des plans flexibles pour une aide scolaire personnalisée.
+Suis des recommandations de prénoms qui correspondent à ton ambiance, par thème, par origine/religion, par lettre de départ ou par signification du prénom. Sur la base des noms que tu aimes ou que tu n'aimes pas, l'application recommande d'autres noms parmi lesquels tu peux sélectionner.
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Les aspects les plus amusants : une alerte similaire à celle de Tinder lorsque les deux parents aiment le même prénom, et un seul endroit pour explorer et gérer tes prénoms préférés. 
+
+Il y a aussi des options de cadeaux.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/bundle-of-joy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### ppnude
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ppnude.webp" alt="ppnude">
+
+#### Un outil d'IA gratuit pour se déshabiller ou changer de visage
+
+[Visit](https://www.thataicollection.com/redirect/ppnude?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PPNude.com est un outil d'intelligence artificielle gratuit qui permet de créer des photos Deepnude ou de changer le visage de qui tu veux sur les photos.
+Il suffit d'un clic pour voir quelqu'un nu gratuitement. Tu peux même mettre ton visage préféré sur ton corps préféré.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ppnude?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -739,6 +741,21 @@ SUPERMACHINE te permet de générer des images à l''aide des dernières technol
 
 ## Avatars
 
+### PhotoPacks.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photopacks.ai.webp" alt="PhotoPacks.AI">
+
+#### Des portraits de qualité pour une séance photo, sans le prix
+[Visit](https://www.thataicollection.com/redirect/photopacks.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PhotoPacks.AI est une plateforme qui permet de générer des portraits professionnels de haute qualité à partir de quelques images ordinaires. Nos clients utilisent les photos générées à diverses fins, notamment pour des sites Web professionnels, des photos de rencontres et l'amélioration de leur image de marque personnelle sur les réseaux sociaux. Il suffit de télécharger 10 photos de tous les jours et tu auras l'air d'une professionnelle en un rien de temps.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/photopacks.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Photo AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
 
@@ -829,21 +846,6 @@ Créez vos avatars parfaits en quelques clics grâce à notre technologie d''int
 <br />
 
 
-### DreamPic
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreampic.webp" alt="DreamPic">
-
-#### DreamPic.AI
-[Visit](https://www.thataicollection.com/redirect/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Images générées par l''IA vous mettant en vedette
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 
 [See All 😎 Avatars Applications on AI Collection](https://www.thataicollection.com/fr/categories/avatars?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -853,6 +855,21 @@ Images générées par l''IA vous mettant en vedette
 ---
 
 ## Chatbot
+
+### Chatbit
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit">
+
+#### Chatbot IA pour ton site web, formé à partir de tes données
+[Visit](https://www.thataicollection.com/redirect/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chatbit est un outil d'intelligence artificielle qui permet aux utilisateurs de créer des chatbots IA personnalisés pour leurs sites Web. Les robots sont conçus pour interagir avec les clients, répondre à leurs questions et capter des prospects.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### Chatbase
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
@@ -941,21 +958,6 @@ Exploite tout le potentiel de l''IA avec PromptPal, ta ressource ultime pour des
 
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/promptpal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### EmbedAI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-embedai.webp" alt="EmbedAI">
-
-#### EmbedAI - Chatbot IA personnalisé formé à partir de tes données
-[Visit](https://www.thataicollection.com/redirect/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Développe un chatbot d''assistance IA personnalisé en utilisant ton contenu unique, tes documents d''assistance, tes PDF, tes API ou bases de données. Intégrez-le facilement à ton site web à l''aide d''une seule ligne de code pour répondre en temps réel aux demandes de tes visiteurs, minimisant ainsi le nombre de tickets d''assistance que tu reçois.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/embedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1854,6 +1856,23 @@ SwagAI - Des images générées par l''IA sur des t-shirts.
 Avec Outfit Anyone AI, explore une nouvelle ère de la mode où il suffit d''un clic pour essayer n''importe quelle tenue. Notre plateforme transforme ton expérience de sélection de vêtements grâce à une technologie d''IA de pointe.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### LooksMax AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looksmax-ai.webp" alt="LooksMax AI">
+
+#### Looksmax AI analyse ton apparence physique et partage des conseils d'amélioration personnelle générés par l'IA qui t'aideront à renforcer ta confiance en toi et ton estime de soi. 
+[Visit](https://www.thataicollection.com/redirect/looksmax-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Analyse ton apparence physique à l'aide de Looksmax AI et reçois des suggestions personnalisées d'amélioration personnelle conçues pour renforcer ta confiance en toi et ton estime de soi. 
+
+Tu recevras des conseils personnalisés pour améliorer ta routine de soin de la peau, affiner ta coiffure et bien plus encore ! 
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/looksmax-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
