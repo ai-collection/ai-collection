@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1365" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1368" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -53,12 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai" border="0"/>
     </a>
-    <h4>Convierte tus selfies en fotos profesionales a la cabeza</h4>
-    <p>El generador de tiros a la cabeza profesional de mayor precisión del mercado. Composición a medida para las mejores primeras impresiones. Ideal para profesionales y equipos.</p>
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con The Multiverse AI</b></a>
+    <h4>Elephant.ai: La solución de servicio de atención al cliente #1 basada en la IA: convierte tu sitio web en una máquina de ventas</h4>
+    <p>Nuestro chatbot impulsado por IA funciona las 24 horas del día, los 7 días de la semana para ofrecer soporte instantáneo, calificar los clientes potenciales y mantener la participación de los visitantes, todo ello aprendiendo de tu contenido.</p>
+    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Elephant.ai</b></a>
     <br />
 </div>
 
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
     </a>
-    <h4>Elephant.ai: La solución de servicio de atención al cliente #1 basada en la IA: convierte tu sitio web en una máquina de ventas</h4>
-    <p>Nuestro chatbot impulsado por IA funciona las 24 horas del día, los 7 días de la semana para ofrecer soporte instantáneo, calificar los clientes potenciales y mantener la participación de los visitantes, todo ello aprendiendo de tu contenido.</p>
-    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Elephant.ai</b></a>
+    <h4>Convierte tus selfies en fotos profesionales a la cabeza</h4>
+    <p>El generador de tiros a la cabeza profesional de mayor precisión del mercado. Composición a medida para las mejores primeras impresiones. Ideal para profesionales y equipos.</p>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con The Multiverse AI</b></a>
     <br />
 </div>
 
@@ -742,6 +742,7 @@
 | [TrollyAI](https://www.thataicollection.com/redirect/trollyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Crea artículos de SEO profesionales, 2 veces más rápido. | Trolly AI: Revolucionando la creación de contenido SEO con tecnología de IA avanzada.   En la era digital, el contenido es el rey. Pero no cualquier contenido, sino que tiene que optimizarse, ser gramaticalmente correcto y producirse a escala para satisfacer las crecientes demandas de presencia en Internet. La IA de Trolly se perfila como una solución vanguardista, diseñada específicamente para satisfacer estas necesidades con sus funciones avanzadas impulsadas por la IA. | :grey_question: |
 | [TweetStorm.ai](https://www.thataicollection.com/redirect/tweetstorm.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generador de tweets impulsado por IA. | Genere Tweets, Biografías, Hashtags y Nombres de Usuario usando AI GPT4. | :white_check_mark: |
 | [Typli](https://www.thataicollection.com/redirect/typli?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Typli.Ai - Escritor de IA y asistente de redacción de SEO. | La herramienta de contenido de inteligencia artificial más intuitiva que combina escritura de inteligencia artificial y un asistente de SEO. | :white_check_mark: |
+| [UseArticle](https://www.thataicollection.com/redirect/usearticle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | La plataforma de blogs más sencilla para tu negocio de la historia. | UseArticle es la plataforma de blogs más sencilla y barata que necesitarás para tu negocio. Con el dominio personalizado, los blogs en una subcarpeta, UseArticle te ofrece funciones avanzadas que te ayudarán a crear tu blog en menos de un minuto.  Con el pago único, puedes publicar entradas de blog ilimitadas y conservarlas de por vida. | :white_check_mark: |
 | [Word Spinner](https://www.thataicollection.com/redirect/word-spinner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Word Spinner: el mejor generador y paráfrasis de contenido de IA. | ¿Cansado de escribir? Word Spinner es tu salida. Crea o reescribe cualquier contenido al instante, gracias a la IA. Pruébalo gratis. | :white_check_mark: |
 | [WordAI](https://www.thataicollection.com/redirect/wordai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Reescritor de texto AI - Wordai. | Utilice la inteligencia artificial para reducir el tiempo de respuesta, ampliar su presupuesto y crear más contenido de alta calidad que encantará a Google y a los lectores. | :white_check_mark: |
 | [WordHero](https://www.thataicollection.com/redirect/wordhero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Genere contenido impulsado por IA: en 1 clic. | Con la tecnología de inteligencia artificial de WordHero, puede crear publicaciones de blog originales, contenido de redes sociales, correos electrónicos y más, en solo segundos. | :x: |

@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1365" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1368" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>Чат-бот с искусственным интеллектом для вашего сайта, обученный на ваших данных</h4>
-    <p>Chatbit — это инструмент искусственного интеллекта, который позволяет пользователям создавать персонализированных чат-ботов с искусственным интеллектом для своих веб-сайтов. Боты предназначены для привлечения клиентов, ответов на их вопросы и привлечения потенциальных клиентов.</p>
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Chatbit</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
     </a>
@@ -85,6 +72,19 @@
     <h4>Elephant.ai — решение для обслуживания клиентов #1 на базе искусственного интеллекта — превратите свой веб-сайт в машину продаж</h4>
     <p>Наш чат-бот на базе искусственного интеллекта работает круглосуточно и без выходных, обеспечивая мгновенную поддержку, квалифицируя потенциальных клиентов и поддерживая вовлеченность посетителей — и все это, изучая ваш контент.</p>
     <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Elephant.ai</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>Чат-бот с искусственным интеллектом для вашего сайта, обученный на ваших данных</h4>
+    <p>Chatbit — это инструмент искусственного интеллекта, который позволяет пользователям создавать персонализированных чат-ботов с искусственным интеллектом для своих веб-сайтов. Боты предназначены для привлечения клиентов, ответов на их вопросы и привлечения потенциальных клиентов.</p>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Chatbit</b></a>
     <br />
 </div>
 
@@ -149,6 +149,24 @@
 - 👩‍⚖️ [Юридический](#юридический)
 - 🎬 [Видео](#видео)
 ## Latest Additions to AI Collection
+
+### UseArticle
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-usearticle.webp" alt="UseArticle">
+
+#### Самая простая платформа для ведения блогов для вашего бизнеса.
+[Visit](https://www.thataicollection.com/redirect/usearticle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+UseArticle — это самая простая и дешевая платформа для ведения блогов, которая вам когда-либо понадобится для вашего бизнеса. Благодаря пользовательскому домену, блогам в подпапках, useArticle предоставляет вам множество функций, которые помогут вам начать свой блог менее чем за минуту.
+
+Благодаря единовременному платежу вы можете публиковать неограниченное количество сообщений в блоге и хранить их на всю жизнь. 
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/usearticle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### PitchBob.io
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pitchbob.io.webp" alt="PitchBob.io">
@@ -236,25 +254,6 @@ BrainSoup — это нативный клиент с несколькими а�
 SmarteReply революционизирует взаимодействие в LinkedIn™ с помощью искусственного интеллекта. С легкостью создавайте персонализированные комментарии, публикации и управляйте DM. Функции включают автоматическую генерацию сообщений, персонализированные ответы, оптимизацию профиля, написание прямых сообщений, многоязычную поддержку и комплексное взаимодействие с комментариями. Идеально подходит для занятых профессионалов, соискателей работы и специалистов по продажам и маркетингу
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/smartereply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Bundle of Joy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bundle-of-joy.webp" alt="Bundle of Joy">
-
-#### Составьте краткий список имен для вашего ребенка за считанные секунды. Получите рекомендации, соответствующие вашему уникальному вкусу и предпочтениям. Составьте список вместе с партнером и управляйте всеми любимыми именами в одном месте.
-[Visit](https://www.thataicollection.com/redirect/bundle-of-joy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Получите рекомендации по именам для ребенка, которые соответствуют вашим предпочтениям — по теме, происхождению/религии, начальной букве или значению имени. В зависимости от имён, которые вам нравятся или не нравятся, приложение рекомендует вам больше имён, из которых вы можете составить короткий список.
-
-Самое интересное: напоминающее Tinder оповещение о совпадении имен, когда обоим родителям нравится одно и то же имя, а также возможность просматривать любимые имена и управлять ими в одном месте. 
-
-Также е
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/bundle-of-joy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3043,6 +3042,25 @@ Fathom записывает, расшифровывает, выделяет и �
 
 ## NSFW
 
+### Dreampaint.net
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreampaint.net_.webp" alt="Dreampaint.net">
+
+#### DreamPaint.net - Обнаживайте и делайте своих кумиров
+[Visit](https://www.thataicollection.com/redirect/dreampaint.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+DreamPaint.NET использует самые передовые технологии для раздевания изображений.
+Помимо функции Nudify, Dreampaint предлагает другие эффекты, которые можно применять к фотографиям с помощью Inpainting.
+Вы можете применить эффект ?$#@$ к своим изображениям и получить поистине потрясающий результат.
+Первые 10 изображений доступны бесплатно, и сайт обещает вскоре представить новые эффекты.
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/dreampaint.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### undressing.io
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
 
@@ -3131,22 +3149,6 @@ PornGen — это платформа, управляемая искусстве
 
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### NEWFACEPORN
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newfaceporn_.webp" alt="NEWFACEPORN">
-
-#### Лучший порноинструмент с искусственным интеллектом Faceswap - создавайте реалистичные порно видео в стиле Deepfake
-[Visit](https://www.thataicollection.com/redirect/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Представьте, как ваш друг по работе обнаженный взрывается в реалистичном порно видео, что ж, теперь вы можете осуществить эту мечту, поменяв лицо любого персонажа и превратив его в потрясающее порно видео
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

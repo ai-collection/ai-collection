@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1365" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1368" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai" border="0"/>
     </a>
-    <h4>Chatbot IA pour ton site web, formé à partir de tes données</h4>
-    <p>Chatbit est un outil d'intelligence artificielle qui permet aux utilisateurs de créer des chatbots IA personnalisés pour leurs sites Web. Les robots sont conçus pour interagir avec les clients, répondre à leurs questions et capter des prospects.</p>
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Chatbit</b></a>
+    <h4>Elephant.ai - La solution de service client #1 basée sur l'IA : transformez ton site Web en machine à vendre</h4>
+    <p>Notre chatbot alimenté par l'IA fonctionne 24 heures sur 24 et 7 jours sur 7 pour fournir une assistance instantanée, qualifier les prospects et fidéliser les visiteurs, le tout en tirant parti de ton contenu.</p>
+    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Elephant.ai</b></a>
     <br />
 </div>
 
@@ -79,12 +79,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
     </a>
-    <h4>Elephant.ai - La solution de service client #1 basée sur l'IA : transformez ton site Web en machine à vendre</h4>
-    <p>Notre chatbot alimenté par l'IA fonctionne 24 heures sur 24 et 7 jours sur 7 pour fournir une assistance instantanée, qualifier les prospects et fidéliser les visiteurs, le tout en tirant parti de ton contenu.</p>
-    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Elephant.ai</b></a>
+    <h4>Chatbot IA pour ton site web, formé à partir de tes données</h4>
+    <p>Chatbit est un outil d'intelligence artificielle qui permet aux utilisateurs de créer des chatbots IA personnalisés pour leurs sites Web. Les robots sont conçus pour interagir avec les clients, répondre à leurs questions et capter des prospects.</p>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Chatbit</b></a>
     <br />
 </div>
 
@@ -903,6 +903,7 @@
 | [TrollyAI](https://www.thataicollection.com/redirect/trollyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Créez des articles professionnels sur le référencement, 2 fois plus vite. | Trolly AI : révolutionner la création de contenu SEO grâce à une technologie d''IA avancée.   À l''ère du numérique, le contenu est roi. Mais pas n''importe quel contenu. Il doit être optimisé, grammaticalement correct et produit à grande échelle pour répondre aux exigences toujours croissantes en matière de présence en ligne. Trolly AI apparaît comme une solution de pointe, spécialement conçue pour répondre à ces besoins grâce à ses fonctionnalités avancées pilotées par l''IA. | :grey_question: |
 | [TweetStorm.ai](https://www.thataicollection.com/redirect/tweetstorm.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Générateur de tweet alimenté par l''IA. | Générez des tweets, des biographies, des hashtags et des noms d''utilisateur à l''aide d''AI GPT4. | :white_check_mark: |
 | [Typli](https://www.thataicollection.com/redirect/typli?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Typli.Ai - Rédacteur IA & Assistant de rédaction SEO. | L''outil de contenu A.I le plus intuitif qui combine AI Writing et un assistant SEO. | :white_check_mark: |
+| [UseArticle](https://www.thataicollection.com/redirect/usearticle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | La plateforme de blogs la plus simple jamais conçue pour ton entreprise. | UseArticle est la plateforme de blogs la plus simple et la moins chère dont tu auras besoin pour ton activité. Avec le domaine personnalisé, les blogs placés dans un sous-dossier, UseArticle te propose de nombreuses fonctionnalités qui t'aideront à créer ton blog en moins d'une minute.  Avec le paiement unique, tu peux publier un nombre illimité de billets de blog et les conserver à vie. | :white_check_mark: |
 | [Word Spinner](https://www.thataicollection.com/redirect/word-spinner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Word Spinner, le meilleur générateur et paraphraser de contenu basé sur l''IA. | Marre d''écrire ? Word Spinner est ta solution. Crée ou réécris n''importe quel contenu instantanément, grâce à l''IA. Essayez-le gratuitement. | :white_check_mark: |
 | [WordAI](https://www.thataicollection.com/redirect/wordai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Réécriture de texte IA - WordAi. | Utilisez l''intelligence artificielle pour réduire les délais d''exécution, augmenter votre budget et créer davantage de contenu de haute qualité que Google et les lecteurs adoreront. | :white_check_mark: |
 | [WordHero](https://www.thataicollection.com/redirect/wordhero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Générez du contenu alimenté par l''IA - en 1 clic. | Avec la technologie AI de WordHero, vous pouvez créer des articles de blog originaux, du contenu de médias sociaux, des e-mails et bien plus encore - en quelques secondes seulement. | :x: |

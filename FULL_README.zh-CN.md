@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1365" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1368" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>适用于您网站的 AI 聊天机器人，根据您的数据进行训练</h4>
-    <p>Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。</p>
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai" border="0"/>
     </a>
@@ -85,6 +72,19 @@
     <h4>把你的自拍变成专业头像</h4>
     <p>市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。</p>
     <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 The Multiverse AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>适用于您网站的 AI 聊天机器人，根据您的数据进行训练</h4>
+    <p>Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。</p>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
     <br />
 </div>
 
@@ -373,6 +373,7 @@
 | [TrollyAI](https://www.thataicollection.com/redirect/trollyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 创建专业的 SEO 文章，速度加快 2 倍. | Trolly AI：利用先进的人工智能技术彻底改变SEO内容创作。   在数字时代，内容为王。但不仅仅是任何内容——它需要优化、语法正确并大规模制作，以满足不断增长的在线存在需求。Trolly AI 以尖端解决方案的形式出现，专为通过其先进的人工智能驱动功能满足这些需求而设计。. | :grey_question: |
 | [TweetStorm.ai](https://www.thataicollection.com/redirect/tweetstorm.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 驱动的推文生成器。. | 使用 AI GPT4 生成推文、Bios、标签和用户名. | :white_check_mark: |
 | [Typli](https://www.thataicollection.com/redirect/typli?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Typli.Ai - AI 写手 & SEO 写作助手. | 最直观的人工智能内容工具，结合了人工智能写作和搜索引擎优化助手。. | :white_check_mark: |
+| [UseArticle](https://www.thataicollection.com/redirect/usearticle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 有史以来最简单的企业博客平台。. | UseArticle 是您的业务所需的最简单、最便宜的博客平台。通过自定义域名和子文件夹中的博客，useArticle为你提供了丰富的功能，帮助你在不到一分钟的时间内创建博客。  通过一次性付款，您可以发布无限量的博客文章并终身保留。. | :white_check_mark: |
 | [Word Spinner](https://www.thataicollection.com/redirect/word-spinner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Word Spinner-最好的 AI 内容生成器和解析器. | 厌倦了写作？Word Spinner 是你的出路。借助人工智能，立即创建或重写任何内容。免费试用。. | :white_check_mark: |
 | [WordAI](https://www.thataicollection.com/redirect/wordai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI 文本改写器 - WordAi. | 使用人工智能来缩短周转时间、增加预算并创建更多 Google 和读者会喜欢的高质量内容。. | :white_check_mark: |
 | [WordHero](https://www.thataicollection.com/redirect/wordhero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 生成 AI 支持的内容 - 一键点击。. | 借助 WordHero 的 AI 技术，您可以在几秒钟内创建原创博客文章、社交媒体内容、电子邮件等。. | :x: |

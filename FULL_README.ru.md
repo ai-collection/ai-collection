@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1365" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1368" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>Чат-бот с искусственным интеллектом для вашего сайта, обученный на ваших данных</h4>
-    <p>Chatbit — это инструмент искусственного интеллекта, который позволяет пользователям создавать персонализированных чат-ботов с искусственным интеллектом для своих веб-сайтов. Боты предназначены для привлечения клиентов, ответов на их вопросы и привлечения потенциальных клиентов.</p>
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Chatbit</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
     </a>
@@ -85,6 +72,19 @@
     <h4>Elephant.ai — решение для обслуживания клиентов #1 на базе искусственного интеллекта — превратите свой веб-сайт в машину продаж</h4>
     <p>Наш чат-бот на базе искусственного интеллекта работает круглосуточно и без выходных, обеспечивая мгновенную поддержку, квалифицируя потенциальных клиентов и поддерживая вовлеченность посетителей — и все это, изучая ваш контент.</p>
     <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Elephant.ai</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>Чат-бот с искусственным интеллектом для вашего сайта, обученный на ваших данных</h4>
+    <p>Chatbit — это инструмент искусственного интеллекта, который позволяет пользователям создавать персонализированных чат-ботов с искусственным интеллектом для своих веб-сайтов. Боты предназначены для привлечения клиентов, ответов на их вопросы и привлечения потенциальных клиентов.</p>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Chatbit</b></a>
     <br />
 </div>
 
@@ -591,6 +591,7 @@
 | [TrollyAI](https://www.thataicollection.com/redirect/trollyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Создавайте профессиональные SEO-статьи в 2 раза быстрее. | Trolly AI: революция в создании SEO-контента с помощью передовых технологий искусственного интеллекта.   В цифровую эпоху контент играет ведущую роль. Но не просто любой контент — его нужно оптимизировать, грамматически правильно и выпускать в нужном масштабе, чтобы соответствовать постоянно растущим требованиям онлайн-присутствия. Trolly AI представляет собой передовое решение, специально разработанное для удовлетворения этих потребностей благодаря передовым возможностям на основе искусственного интеллекта. | :grey_question: |
 | [TweetStorm.ai](https://www.thataicollection.com/redirect/tweetstorm.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Генератор твитов на базе искусственного интеллекта. | Создавайте твиты, биографии, хэштеги и имена пользователей с помощью AI GPT4. | :white_check_mark: |
 | [Typli](https://www.thataicollection.com/redirect/typli?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Typli.Ai - писатель AI и помощник по написанию SEO. | Самый интуитивно понятный инструмент AI Content, который сочетает в себе AI Writer и SEO Assistant. | :white_check_mark: |
+| [UseArticle](https://www.thataicollection.com/redirect/usearticle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Самая простая платформа для ведения блогов для вашего бизнеса. | UseArticle — это самая простая и дешевая платформа для ведения блогов, которая вам когда-либо понадобится для вашего бизнеса. Благодаря пользовательскому домену, блогам в подпапках, useArticle предоставляет вам множество функций, которые помогут вам начать свой блог менее чем за минуту.  Благодаря единовременному платежу вы можете публиковать неограниченное количество сообщений в блоге и хранить их на всю жизнь. | :white_check_mark: |
 | [Word Spinner](https://www.thataicollection.com/redirect/word-spinner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Word Spinner - лучший генератор контента с искусственным интеллектом и парафразировщик. | Надоело писать? Word Spinner — это ваш выход. Мгновенно создавайте или переписывайте любой контент благодаря искусственному интеллекту. Попробуйте бесплатно. | :white_check_mark: |
 | [WordAI](https://www.thataicollection.com/redirect/wordai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Рерайтер текста с ИИ — WordAi. | Используйте искусственный интеллект, чтобы сократить время обработки, увеличить бюджет и создать больше высококачественного контента, который понравится Google и читателям. | :white_check_mark: |
 | [WordHero](https://www.thataicollection.com/redirect/wordhero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Создавайте контент с помощью ИИ — в 1 клик. | С помощью технологии искусственного интеллекта WordHero вы можете создавать оригинальные сообщения в блогах, контент для социальных сетей, электронные письма и многое другое — всего за несколько секунд. | :x: |

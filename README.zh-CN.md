@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1365" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1368" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>适用于您网站的 AI 聊天机器人，根据您的数据进行训练</h4>
-    <p>Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。</p>
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai" border="0"/>
     </a>
@@ -85,6 +72,19 @@
     <h4>把你的自拍变成专业头像</h4>
     <p>市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。</p>
     <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 The Multiverse AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>适用于您网站的 AI 聊天机器人，根据您的数据进行训练</h4>
+    <p>Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。</p>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
     <br />
 </div>
 
@@ -149,6 +149,24 @@
 - 💰 [销售与市场营销](#销售与市场营销)
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
+
+### UseArticle
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-usearticle.webp" alt="UseArticle">
+
+#### 有史以来最简单的企业博客平台。
+[Visit](https://www.thataicollection.com/redirect/usearticle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+UseArticle 是您的业务所需的最简单、最便宜的博客平台。通过自定义域名和子文件夹中的博客，useArticle为你提供了丰富的功能，帮助你在不到一分钟的时间内创建博客。
+
+通过一次性付款，您可以发布无限量的博客文章并终身保留。 
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/usearticle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 
 ### PitchBob.io
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pitchbob.io.webp" alt="PitchBob.io">
@@ -236,25 +254,6 @@ BrainSoup 是一个多代理和多 LLM 原生客户端，使用户能够创建�
 SmarteReply 通过 AI 彻底改变了 LinkedIn™ 的参与轻松撰写个性化评论、发布和管理 DM。功能包括自动生成帖子、个性化回复、个人资料优化、直接消息写作、多语言支持和全面的评论互动。非常适合忙碌的专业人士、求职者和销售/营销专业人士，
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/smartereply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Bundle of Joy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bundle-of-joy.webp" alt="Bundle of Joy">
-
-#### 在几秒钟内将宝宝的名字列入候选名单。获取根据您的独特品味和喜好量身定制的推荐。与合作伙伴一起入围名单，并在一个地方管理所有您最喜欢的名字。
-[Visit](https://www.thataicollection.com/redirect/bundle-of-joy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-根据主题、起源/宗教、开头字母或名字的含义来推荐与你的氛围相匹配的宝宝名字。根据你喜欢或不喜欢的名字，该应用程序会推荐更多可供你入围的名字。
-
-有趣的部分——当父母双方都喜欢同一个名字时，会发出类似 Tinder 的匹配提醒，还有一个地方可以浏览和管理你最喜欢的名字。 
-
-还提供礼物选项。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/bundle-of-joy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3045,6 +3044,25 @@ Krisp 的 AI 可以消除您所有通话中的背景声音、噪音和回声，�
 
 ## 工作不安全
 
+### Dreampaint.net
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreampaint.net_.webp" alt="Dreampaint.net">
+
+#### Dreampaint.net-裸体和?$#@$你的偶像
+[Visit](https://www.thataicollection.com/redirect/dreampaint.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dreampaint.net 使用最先进的技术来对图像进行脱衣。
+除了Nudify功能外，Dreampaint还提供其他效果，可以通过修复应用于照片。
+你可以将?$#@$效果应用到你的照片上，获得真正令人惊叹的效果。
+前10张图片是免费的，该网站承诺很快就会推出新的效果。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dreampaint.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### undressing.io
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
 
@@ -3133,22 +3151,6 @@ PornGen是一个人工智能驱动的平台，专门通过先进的图像生成�
 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### NEWFACEPORN
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newfaceporn_.webp" alt="NEWFACEPORN">
-
-#### 最好的AI Faceswap色情工具-生成逼真的Deepfake色情视频
-[Visit](https://www.thataicollection.com/redirect/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-想象一下，在逼真的色情视频中看到你的工作朋友赤身裸体被摧毁，好吧，现在你可以通过交换任何角色并将其变成精彩的色情视频来实现这个梦想
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1365" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1368" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -72,12 +72,12 @@ Translations:
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai" border="0"/>
     </a>
-    <h4>Turn your selfies into professional headshots</h4>
-    <p>The highest accuracy professional headshot generator on the market. Tailored composition for the best first impressions. Ideal for professionals and teams.</p>
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with The Multiverse AI</b></a>
+    <h4>Elephant.ai - The #1 AI-Powered Customer Service Solution - Turn Your Website Into a Sales Machine</h4>
+    <p>Our AI-powered chatbot works 24/7 to provide instant support, qualify leads, and keep visitors engaged - all by learning from your content.</p>
+    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Elephant.ai</b></a>
     <br />
 </div>
 
@@ -85,12 +85,12 @@ Translations:
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
     </a>
-    <h4>Elephant.ai - The #1 AI-Powered Customer Service Solution - Turn Your Website Into a Sales Machine</h4>
-    <p>Our AI-powered chatbot works 24/7 to provide instant support, qualify leads, and keep visitors engaged - all by learning from your content.</p>
-    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Elephant.ai</b></a>
+    <h4>Turn your selfies into professional headshots</h4>
+    <p>The highest accuracy professional headshot generator on the market. Tailored composition for the best first impressions. Ideal for professionals and teams.</p>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with The Multiverse AI</b></a>
     <br />
 </div>
 
@@ -155,6 +155,24 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+
+### UseArticle
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-usearticle.webp" alt="UseArticle">
+
+#### Simplest blogging platform for your business ever.
+[Visit](https://www.thataicollection.com/redirect/usearticle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+UseArticle is the simplest and cheapest blogging platform you will ever need for your business. With Custome domain, blogs on a subfolder, UseArticle gives you rich features to help you start your blog in less than a minute.
+
+With the One time payment, You can publish unlimited blog posts and keep them for a lifetime. 
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/usearticle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### PitchBob.io
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pitchbob.io.webp" alt="PitchBob.io">
@@ -242,25 +260,6 @@ BrainSoup is a multi-agent and multi-LLM native client, enabling users to create
 SmartEReply revolutionizes LinkedIn™ engagement through AI. Craft personalized comments, posts, and manage DMs effortlessly. Features include automated post generation, personalized replies, profile optimization, direct message writing, multilingual support, and comprehensive comment engagement. Ideal for busy professionals, job seekers, and sales/marketing pros,
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/smartereply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Bundle of Joy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bundle-of-joy.webp" alt="Bundle of Joy">
-
-#### Shortlist names for your baby in seconds. Get recommendations tailored to your unique taste and preferences. Shortlist with partner and manage all your fave names in 1 place.
-[Visit](https://www.thataicollection.com/redirect/bundle-of-joy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Get baby name recommendations that match with your vibe – by theme, origin/ religion, starting letter, or name’s meaning. Based on the names you like or dislike, the app recommends more names you can shortlist from.
-
-The fun parts - Tinder-like matching alert when both parents like the same name, and a single place to explore and manage your fave names. 
-
-Comes with gifting options too.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/bundle-of-joy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3051,6 +3050,25 @@ Whether you are an independent game developer, a complete novice in music, or a 
 
 ## NSFW
 
+### Dreampaint.net
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreampaint.net_.webp" alt="Dreampaint.net">
+
+#### Dreampaint.net - Nudify and Bukkake your idols
+[Visit](https://www.thataicollection.com/redirect/dreampaint.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+DreamPaint.net uses the most advanced technology to Undress images.
+In addition to the Nudify function, Dreampaint offers other effects that can be applied to photos via inpainting.
+You can apply the bukkake effect to your images with a truly stunning result.
+It''s free for the first 10 images and the site promises to introduce new effects soon.
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/dreampaint.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### undressing.io
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
 
@@ -3139,22 +3157,6 @@ PornGen is an AI-driven platform that specializes in creating adult content thro
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### NEWFACEPORN
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newfaceporn_.webp" alt="NEWFACEPORN">
-
-#### The Best AI Faceswap Porn Tool - Generate Realistic Deepfake Porn Videos
-[Visit](https://www.thataicollection.com/redirect/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Imagine seeing your job friend naked getting imploded in a realistic porn video, well, now you can achieve this dream by faceswapping any character and turn it into amazing porn video
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

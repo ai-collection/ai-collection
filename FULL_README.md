@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1365" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1368" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -72,12 +72,12 @@ Translations:
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai" border="0"/>
     </a>
-    <h4>Turn your selfies into professional headshots</h4>
-    <p>The highest accuracy professional headshot generator on the market. Tailored composition for the best first impressions. Ideal for professionals and teams.</p>
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with The Multiverse AI</b></a>
+    <h4>Elephant.ai - The #1 AI-Powered Customer Service Solution - Turn Your Website Into a Sales Machine</h4>
+    <p>Our AI-powered chatbot works 24/7 to provide instant support, qualify leads, and keep visitors engaged - all by learning from your content.</p>
+    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Elephant.ai</b></a>
     <br />
 </div>
 
@@ -85,12 +85,12 @@ Translations:
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
     </a>
-    <h4>Elephant.ai - The #1 AI-Powered Customer Service Solution - Turn Your Website Into a Sales Machine</h4>
-    <p>Our AI-powered chatbot works 24/7 to provide instant support, qualify leads, and keep visitors engaged - all by learning from your content.</p>
-    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Elephant.ai</b></a>
+    <h4>Turn your selfies into professional headshots</h4>
+    <p>The highest accuracy professional headshot generator on the market. Tailored composition for the best first impressions. Ideal for professionals and teams.</p>
+    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with The Multiverse AI</b></a>
     <br />
 </div>
 
@@ -585,6 +585,7 @@ Translations:
 | [TrollyAI](https://www.thataicollection.com/redirect/trollyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create professional SEO articles, 2x faster. | Trolly AI: Revolutionizing SEO Content Creation with Advanced AI Technology.   In the digital age, content is king. But not just any content – it needs to be optimized, grammatically correct, and produced at scale to meet the ever-growing demands of online presence. Trolly AI emerges as a cutting-edge solution, specifically designed to cater to these needs with its advanced AI-driven capabilities. | :grey_question: |
 | [TweetStorm.ai](https://www.thataicollection.com/redirect/tweetstorm.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-Powered Tweet Generator. | Generate Tweets, Bios, Hashtags and Usernames using AI GPT4. | :white_check_mark: |
 | [Typli](https://www.thataicollection.com/redirect/typli?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Typli.Ai - AI Writer & Seo Writing Assistant. | The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant. | :white_check_mark: |
+| [UseArticle](https://www.thataicollection.com/redirect/usearticle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Simplest blogging platform for your business ever. | UseArticle is the simplest and cheapest blogging platform you will ever need for your business. With Custome domain, blogs on a subfolder, UseArticle gives you rich features to help you start your blog in less than a minute.  With the One time payment, You can publish unlimited blog posts and keep them for a lifetime. | :white_check_mark: |
 | [Word Spinner](https://www.thataicollection.com/redirect/word-spinner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Word Spinner - The Best AI Content Generator & Paraphraser. | Tired of writing? Word Spinner is your way out. Instantly create or rewrite any content, thanks to AI. Try it for free. | :white_check_mark: |
 | [WordAI](https://www.thataicollection.com/redirect/wordai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Text Rewriter - Wordai. | Use artificial intelligence to cut turnaround time, extend your budget, and create more high-quality content that Google and readers will love. | :white_check_mark: |
 | [WordHero](https://www.thataicollection.com/redirect/wordhero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Generate AI-Powered Content - In 1 Click. | With WordHero''s AI technology, you can create original blog posts, social media content, emails, and more - in just seconds. | :x: |

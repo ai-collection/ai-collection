@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1365" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1368" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -66,12 +66,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai" border="0"/>
     </a>
-    <h4>Chatbot IA pour ton site web, formé à partir de tes données</h4>
-    <p>Chatbit est un outil d'intelligence artificielle qui permet aux utilisateurs de créer des chatbots IA personnalisés pour leurs sites Web. Les robots sont conçus pour interagir avec les clients, répondre à leurs questions et capter des prospects.</p>
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Chatbit</b></a>
+    <h4>Elephant.ai - La solution de service client #1 basée sur l'IA : transformez ton site Web en machine à vendre</h4>
+    <p>Notre chatbot alimenté par l'IA fonctionne 24 heures sur 24 et 7 jours sur 7 pour fournir une assistance instantanée, qualifier les prospects et fidéliser les visiteurs, le tout en tirant parti de ton contenu.</p>
+    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Elephant.ai</b></a>
     <br />
 </div>
 
@@ -79,12 +79,12 @@
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
     </a>
-    <h4>Elephant.ai - La solution de service client #1 basée sur l'IA : transformez ton site Web en machine à vendre</h4>
-    <p>Notre chatbot alimenté par l'IA fonctionne 24 heures sur 24 et 7 jours sur 7 pour fournir une assistance instantanée, qualifier les prospects et fidéliser les visiteurs, le tout en tirant parti de ton contenu.</p>
-    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Elephant.ai</b></a>
+    <h4>Chatbot IA pour ton site web, formé à partir de tes données</h4>
+    <p>Chatbit est un outil d'intelligence artificielle qui permet aux utilisateurs de créer des chatbots IA personnalisés pour leurs sites Web. Les robots sont conçus pour interagir avec les clients, répondre à leurs questions et capter des prospects.</p>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Chatbit</b></a>
     <br />
 </div>
 
@@ -149,6 +149,24 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🎬 [Vidéo](#vidéo)
 - 🧠 [Éducation Et Apprentissage](#éducation-et-apprentissage)
 ## Latest Additions to AI Collection
+
+### UseArticle
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-usearticle.webp" alt="UseArticle">
+
+#### La plateforme de blogs la plus simple jamais conçue pour ton entreprise.
+[Visit](https://www.thataicollection.com/redirect/usearticle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+UseArticle est la plateforme de blogs la plus simple et la moins chère dont tu auras besoin pour ton activité. Avec le domaine personnalisé, les blogs placés dans un sous-dossier, UseArticle te propose de nombreuses fonctionnalités qui t'aideront à créer ton blog en moins d'une minute.
+
+Avec le paiement unique, tu peux publier un nombre illimité de billets de blog et les conserver à vie. 
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/usearticle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### PitchBob.io
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pitchbob.io.webp" alt="PitchBob.io">
@@ -236,25 +254,6 @@ BrainSoup est un client natif multi-agents et multi-LLM qui permet aux utilisate
 SmarteReply révolutionne l'engagement sur LinkedIn™ grâce à l'IA. Créez des commentaires et des publications personnalisés et gérez les DM sans effort. Les fonctionnalités incluent la génération automatique de publications, des réponses personnalisées, l'optimisation du profil, la rédaction directe de messages, une assistance multilingue et un engagement complet dans les commentaires. Idéal pour les professionnels pressés, les demandeurs d'emploi et les professionnels de la vente et du marketing,
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/smartereply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Bundle of Joy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bundle-of-joy.webp" alt="Bundle of Joy">
-
-#### Répertoriez les prénoms de ton bébé en quelques secondes. Recevez des recommandations adaptées à tes goûts et à tes préférences uniques. Présélectionnez avec votre partenaire et gérez tous tes prénoms préférés en un seul endroit.
-[Visit](https://www.thataicollection.com/redirect/bundle-of-joy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Suis des recommandations de prénoms qui correspondent à ton ambiance, par thème, par origine/religion, par lettre de départ ou par signification du prénom. Sur la base des noms que tu aimes ou que tu n'aimes pas, l'application recommande d'autres noms parmi lesquels tu peux sélectionner.
-
-Les aspects les plus amusants : une alerte similaire à celle de Tinder lorsque les deux parents aiment le même prénom, et un seul endroit pour explorer et gérer tes prénoms préférés. 
-
-Il y a aussi des options de cadeaux.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/bundle-of-joy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3045,6 +3044,25 @@ Que vous soyez un développeur de jeux indépendant, un novice complet en musiqu
 
 ## NSFW
 
+### Dreampaint.net
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreampaint.net_.webp" alt="Dreampaint.net">
+
+#### Dreampaint.net - Nudifie et ?$#@$ tes idoles
+[Visit](https://www.thataicollection.com/redirect/dreampaint.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dreampaint.net utilise les technologies les plus avancées pour déshabiller les images.
+Outre la fonction Nudify, Dreampaint propose d''autres effets qui peuvent être appliqués aux photos via Inpainting.
+Tu peux appliquer l''effet ?$#@$ à tes photos pour un résultat vraiment époustouflant.
+Les 10 premières images sont gratuites et le site promet de proposer bientôt de nouveaux effets.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/dreampaint.net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### undressing.io
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
 
@@ -3133,22 +3151,6 @@ PornGen est une plateforme basée sur l'IA spécialisée dans la création de co
 
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### NEWFACEPORN
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newfaceporn_.webp" alt="NEWFACEPORN">
-
-#### Le meilleur outil d'IA Faceswap pornographique : génère des vidéos pornographiques Deepfake réalistes
-[Visit](https://www.thataicollection.com/redirect/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Imagine voir ton ami de travail nu se faire imploser dans une vidéo pornographique réaliste. Maintenant, tu peux réaliser ce rêve en échangeant le visage de n'importe quel personnage et en faire une superbe vidéo pornographique
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
