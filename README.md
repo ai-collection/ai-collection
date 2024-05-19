@@ -1670,7 +1670,14 @@ We have developed the most powerful tool a teacher can have access to. You can c
 <br />
 
 
+### MathSolver
 
+#### MathSolver - The Free AI Math Tool
+[Visit](https://mathsolver.top)
+
+A FREE AI Math Problem Solver to Provide Step-by-Step Solution and Personalized Tutoring. 25% higher accuracy than ChatGPT
+
+<br />
 
 
 [See All 🧠 Education & Learning Applications on AI Collection](https://www.thataicollection.com/en/categories/education-and-learning?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
