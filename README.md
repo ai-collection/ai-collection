@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1368" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1379" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -72,25 +72,14 @@ Translations:
 
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephant.ai.webp" alt="Elephant.ai" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fusion-compose.webp" alt="Fusion Compose" border="0"/>
     </a>
-    <h4>Elephant.ai - The #1 AI-Powered Customer Service Solution - Turn Your Website Into a Sales Machine</h4>
-    <p>Our AI-powered chatbot works 24/7 to provide instant support, qualify leads, and keep visitors engaged - all by learning from your content.</p>
-    <a href="https://www.thataicollection.com/redirect/elephant.ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Elephant.ai</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI" border="0"/>
-    </a>
-    <h4>Turn your selfies into professional headshots</h4>
-    <p>The highest accuracy professional headshot generator on the market. Tailored composition for the best first impressions. Ideal for professionals and teams.</p>
-    <a href="https://www.thataicollection.com/redirect/the-multiverse-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with The Multiverse AI</b></a>
+    <h4>No B.S & Simple
+Chat UI For GPT-4
+API, Claude and Gemini</h4>
+    <p>Save $20 per month on OpenAI's GPT-4 subscription. Fusion Compose offers a user-friendly chat UI that perfectly integrates with the GPT-4 API, while providing full support for Claude and Gemini.</p>
+    <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Fusion Compose</b></a>
     <br />
 </div>
 
@@ -156,110 +145,108 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
-### UseArticle
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-usearticle.webp" alt="UseArticle">
+### Fusion Compose
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fusion-compose.webp" alt="Fusion Compose">
 
-#### Simplest blogging platform for your business ever.
-[Visit](https://www.thataicollection.com/redirect/usearticle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### No B.S & Simple
+Chat UI For GPT-4
+API, Claude and Gemini
+[Visit](https://www.thataicollection.com/redirect/fusion-compose?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-UseArticle is the simplest and cheapest blogging platform you will ever need for your business. With Custome domain, blogs on a subfolder, UseArticle gives you rich features to help you start your blog in less than a minute.
+Save $20 per month on OpenAI's GPT-4 subscription. Fusion Compose offers a user-friendly chat UI that perfectly integrates with the GPT-4 API, while providing full support for Claude and Gemini.
 
-With the One time payment, You can publish unlimited blog posts and keep them for a lifetime. 
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/usearticle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### PitchBob.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pitchbob.io.webp" alt="PitchBob.io">
-
-#### AI pitch deck generator & Startup Co-pilot
-[Visit](https://www.thataicollection.com/redirect/pitchbob.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PitchBob.io is a digital assistant powered by AI designed to help wantrepreneurs become entrepreneurs. It not only assists with pitching but also aids with daily tasks such as validating ideas and creating P&L, as well as networking. Via just 1 dialogue.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/pitchbob.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/fusion-compose?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### PhotoPacks.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-photopacks.ai.webp" alt="PhotoPacks.AI">
+### AI Content Detector
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-content-detector.webp" alt="AI Content Detector">
 
-#### Photo shoot quality headshots - Without the price tag
-[Visit](https://www.thataicollection.com/redirect/photopacks.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI Content Detector - Detect GPT-4, BARD, Copilot & Claude
 
-PhotoPacks.AI is a platform that enables generating high-quality professional headshots from just a few ordinary images. Our customers use the generated photos for a variety of purposes - including professional websites, dating photos, and enhancing their personal branding across social media platforms. Just upload 10 every-day photos and we will have you looking like a professional in no time.
+[Visit](https://www.thataicollection.com/redirect/ai-content-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/photopacks.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Detect AI-written content by major AI generation models like GPT4, BARD, Claude, and Copilot. The AI content detector is available for free use.
 
-<br />
-
-
-
-
-### LooksMax AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looksmax-ai.webp" alt="LooksMax AI">
-
-#### Looksmax AI analyzes your physical appearance, and shares AI-generated self-improvement tips that will help you boost your confidence and self-esteem. 
-[Visit](https://www.thataicollection.com/redirect/looksmax-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Analyze your physical appearance using Looksmax AI, and get personalized self-improvement suggestions designed to enhance both your confidence and self-esteem. 
-
-You'll receive tailored tips on enhancing your skincare routine, refining your hairstyle, and much more! 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/looksmax-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### TTS-Generator.com
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tts-generator.com.webp" alt="TTS-Generator.com">
-
-#### Convert any Text content to Voice Speech MP3 with AI in just a few seconds for Free
-[Visit](https://www.thataicollection.com/redirect/tts-generator.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Transform and Convert any Text content to Voice Speech MP3 with AI in just a few seconds! Generate your first speech for Free today!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/tts-generator.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-content-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### BrainSoup
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-brainsoup_.webp" alt="BrainSoup">
+### NOISE REMOVER
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-noise-remover.webp" alt="NOISE REMOVER">
 
-#### Build an AI team that works for you, on your PC
-[Visit](https://www.thataicollection.com/redirect/brainsoup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Free Background Noise Removal Tool - AI Noise Remover
+[Visit](https://www.thataicollection.com/redirect/noise-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-BrainSoup is a multi-agent and multi-LLM native client, enabling users to create a team of personalized AI agents that can learn, remember, react to events, use tools, leverage local and external resources, and work together to solve tasks autonomously.
+Improve your audio quality and remove background noise with our AI Background Noise Remover. Upload your audio and let the magic happens.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/brainsoup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/noise-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Pephop AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pephop-ai.webp" alt="Pephop AI">
+
+#### NSFW AI Chatbot Character AI Alternatives- PepHop AI
+[Visit](https://www.thataicollection.com/redirect/pephop-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Your online AI chatbot platform for roleplay. Engage with diverse characters, enjoy a free trial, and glimpse the future of interactive AI.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/pephop-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Outfit Changer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-outfit-changer.webp" alt="Outfit Changer">
+
+#### Outfit Changer  AI | Outfit Anyone AI | Virtual Try-On | Your Virtual Wardrobe Awaits |  AI Cloth Changer | outfitchanger.com
+[Visit](https://www.thataicollection.com/redirect/outfit-changer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+With Outfit Changer, explore a new era of fashion where trying on any outfit is just a click away. Our platform transforms your clothing selection experience with state-of-the-art AI technology. | Outfit Changer  AI | Outfit Anyone AI | Virtual Try-On | Your Virtual Wardrobe Awaits |  AI Cloth Changer: 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/outfit-changer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### SmartEReply
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-smartereply.webp" alt="SmartEReply">
+### Auto Streamer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-auto-streamer.webp" alt="Auto Streamer">
 
-#### Create personalized comments, craft engaging posts, and effortlessly manage DMs on LinkedIn™ with ease.
-[Visit](https://www.thataicollection.com/redirect/smartereply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Learn & teach anything on demand. Create course websites in minutes.
+[Visit](https://www.thataicollection.com/redirect/auto-streamer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-SmartEReply revolutionizes LinkedIn™ engagement through AI. Craft personalized comments, posts, and manage DMs effortlessly. Features include automated post generation, personalized replies, profile optimization, direct message writing, multilingual support, and comprehensive comment engagement. Ideal for busy professionals, job seekers, and sales/marketing pros,
+Auto Streamer is a multi-purpose, generative AI platform that brings a revolution in the realm of education. With the capability to create and broadcast web-based courses in a plethora of languages, it stands at the forefront of educational innovation. 
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/smartereply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/auto-streamer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### GPTZero
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gptzero.webp" alt="GPTZero">
+
+#### GPTZero is an ai content detector to detect AI in any kind of text content using our deep analyzing algorithm to identify AI patterns and the writing tone within the content. 
+[Visit](https://www.thataicollection.com/redirect/gptzero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+GPTZero is an AI Content Detector uses an advanced neural learning method in AI content detection systems to ensuring to achieve the prediction result most accurately and reliable.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/gptzero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1881,6 +1868,21 @@ You'll receive tailored tips on enhancing your skincare routine, refining your h
 
 
 
+### Outfit Changer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-outfit-changer.webp" alt="Outfit Changer">
+
+#### Outfit Changer  AI | Outfit Anyone AI | Virtual Try-On | Your Virtual Wardrobe Awaits |  AI Cloth Changer | outfitchanger.com
+[Visit](https://www.thataicollection.com/redirect/outfit-changer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+With Outfit Changer, explore a new era of fashion where trying on any outfit is just a click away. Our platform transforms your clothing selection experience with state-of-the-art AI technology. | Outfit Changer  AI | Outfit Anyone AI | Virtual Try-On | Your Virtual Wardrobe Awaits |  AI Cloth Changer: 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/outfit-changer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 
 [See All 👩‍🎤 Fashion Applications on AI Collection](https://www.thataicollection.com/en/categories/fashion?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -3084,19 +3086,53 @@ Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instan
 
 
 
-### NsfwGPT.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nsfwgpt.ai.webp" alt="NsfwGPT.ai">
+### Nudify AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify-ai.webp" alt="Nudify AI">
 
-#### NsfwGPT.AI - Unfiltered NSFW AI chatbot platform.
-[Visit](https://www.thataicollection.com/redirect/nsfwgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Change or remove clothing from any image with our cutting-edge Free Online AI Image Nudifier.
+[Visit](https://www.thataicollection.com/redirect/nudify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-NsfwGPT.ai is a free and democratized AI Chatbot platform based on advanced AI large language model technology. You can create your own Chatbot or choose from tens of thousands of chatbots to engage in conversations, without any NSFW content restrictions.
+Nudify.biz is at the forefront of image generation technology, boasting hyper-resolution outputs of up to 1024 pixels. This feature is designed to provide users with highly detailed and realistic images, elevating the authenticity of digitally altered photos.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/nsfwgpt.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Nudify.biz supports various payment methods, including major credit cards, PayPal, Stripe, Apple Pay, Google Pay, and cryptocurrencies. 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/nudify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
+
+
+### Undress AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress-ai.webp" alt="Undress AI">
+
+####  Undress AI is a brand new free online editor. By employing sophisticated machine learning techniques, Undress AI enables users to generate or adjust nude images with remarkable realism and precision.
+[Visit](https://www.thataicollection.com/redirect/undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+At its core, Undress AI serves as a platform for creating lifelike depictions of human figures, all without the need for live models or traditional photography. 
+
+The versatility of Undress AI extends across a multitude of industries and disciplines. In the realm of artistic expression, it provides digital artists and illustrators with an invaluable tool.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Pephop AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pephop-ai.webp" alt="Pephop AI">
+
+#### NSFW AI Chatbot Character AI Alternatives- PepHop AI
+[Visit](https://www.thataicollection.com/redirect/pephop-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Your online AI chatbot platform for roleplay. Engage with diverse characters, enjoy a free trial, and glimpse the future of interactive AI.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/pephop-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
 
 
 ### Girlfriend GPT - NSFW AI Chatbots
@@ -3110,37 +3146,6 @@ Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting 
 Your wildest dreams are just a click away today!
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Undressbaby AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undressbaby-ai.webp" alt="Undressbaby AI">
-
-#### Undressbaby AI offers cutting-edge AI-powered virtual clothing try-ons, undressing simulations, and face swaps for both photos and videos, providing users with a fun and interactive fashion experience
-[Visit](https://www.thataicollection.com/redirect/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-At Undressbaby AI, we offer Grey''s Secret Room, a distinctive service driven by cutting-edge generative AI technology. Powered by Stable Diffusion, this advanced system is proficient in crafting highly detailed and realistic images. Our new face swap feature not only meets the demands for both video and photo face swapping but also allows users to seamlessly swap faces onto diverse bodies.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Undressing AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undressing-ai.webp" alt="Undressing AI">
-
-#### Undressing AI - Free deepnude generator 
-[Visit](https://www.thataicollection.com/redirect/undressing-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undressing.ai is an AI-powered image editing platform that uses advanced AI algorithms to undress images. Just upload a photo, and get an ultra realistic deepnude in seconds. Undressing ai also offers many customization options such as boob size, body shape and more
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/undressing-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4980,6 +4985,25 @@ Vidnoz Flex is a easy but powerful video tool from Vidnoz, which combines video 
 
 
 
+### Zebracat
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-zebracat.webp" alt="Zebracat">
+
+#### Craft Impactful Videos in Minutes with AI
+[Visit](https://www.thataicollection.com/redirect/zebracat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Zebracat is a text-to-video AI that helps marketers to quickly produce engaging videos.
+
+Just enter a text prompt or a blog url, and Zebracat turns it into video - with AI visuals, your uploaded assets, or stock clips. Enhanced with humanlike AI voices, soundtracks, and AI effects.
+
+Zebracat is ideal for creating social media shorts, ads, and for converting blog posts to videos.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/zebracat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Wisecut
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wisecut.webp" alt="Wisecut">
 
@@ -5005,21 +5029,6 @@ Wisecut is an automatic video editor based on voice recognition. With Wisecut, y
 ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/eightify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### HitPaw Online Video Enhancer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-video-enhancer.webp" alt="HitPaw Online Video Enhancer">
-
-#### One-Click to Unblur and Upscale Your Video by Trained AI.
-[Visit](https://www.thataicollection.com/redirect/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HitPaw Online Video Enhancer is the best solution for low resolution videos, increase video solution up to 1080P/4K with no efforts.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/hitpaw-online-video-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
