@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1371" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1378" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,6 +59,19 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>AI Chatbot for your website, trained on your data</h4>
+    <p>Chatbit is an AI tool that allows users to create customized AI chatbots for their websites. The bots are designed to engage customers, answer their questions, and capture leads.</p>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Chatbit</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fusion-compose.webp" alt="Fusion Compose" border="0"/>
     </a>
@@ -67,19 +80,6 @@ Chat UI For GPT-4
 API, Claude and Gemini</h4>
     <p>Save $20 per month on OpenAI's GPT-4 subscription. Fusion Compose offers a user-friendly chat UI that perfectly integrates with the GPT-4 API, while providing full support for Claude and Gemini.</p>
     <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Fusion Compose</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>AI Chatbot for your website, trained on your data</h4>
-    <p>Chatbit is an AI tool that allows users to create customized AI chatbots for their websites. The bots are designed to engage customers, answer their questions, and capture leads.</p>
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Chatbit</b></a>
     <br />
 </div>
 
@@ -145,109 +145,111 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
-### Undress Pro AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
+### FastBots.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fastbots.ai.webp" alt="FastBots.ai">
 
-#### Undress Pro AI - The State of the Art Undress AI - Undress anyone
+#### FastBots.ai : Your Gateway to Intelligent Automation
+[Visit](https://www.thataicollection.com/redirect/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Automate your customer service with our AI-powered chatbots and give your team the freedom to focus on what they do best. Improve efficiency and enhance customer interaction with FastBots.ai.
 
-Undress Pro AI - Realize your fantasy about her instantly with AI-powered face swapping or by transforming her images into Anime style.
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Sensey AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sensey-ai.webp" alt="Sensey AI">
-
-#### Sensey.ai: Data-driven market intelligence for startups to achieve product-market fit.
-[Visit](https://www.thataicollection.com/redirect/sensey-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Sensey is a market and competitive data enrichment platform with AI that accelerates product-market fit for startups. Get deep competitor insights, comprehensive market analysis, and real-time competitor monitoring to inform your product strategy, marketing, and sales. 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/sensey-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### DeepNude Free AI App
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deepnude-free-ai-app.webp" alt="DeepNude Free AI App">
+### Synthesys AI Studio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-synthesys-ai-studio.webp" alt="Synthesys AI Studio">
 
-#### Generate Photo and Images Online. Discover the transformative power of DeepNude AI and elevate your digital creations today.
-[Visit](https://www.thataicollection.com/redirect/deepnude-free-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Synthesys AI Studio | Unlock Generative AI Content At Scale 
+[Visit](https://www.thataicollection.com/redirect/synthesys-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-The DeepNude AI app offers a suite of powerful features that can significantly enhance various creative and professional projects. Here’s why you might consider using this technology:
+Discover the power of AI with Synthesys AI Studio's voice, video, and image generators. Elevate your content creation and try our tools for free today!
 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/deepnude-free-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### BeeDone: AI Productivity Game
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gamified-ai.webp" alt="BeeDone: AI Productivity Game">
-
-#### Master task management and become more productive with gamified AI
-[Visit](https://www.thataicollection.com/redirect/beedone-ai-productivity-game?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-BeeDone is an innovative productivity app that marries AI technology with the art of gamification to offer a unique and engaging way for users to manage their tasks and achieve their goals. Drawing inspiration from acclaimed productivity methodologies featured in books like "Atomic Habits," "Get Things Done," and "The Power of Habit," BeeDone provides an intuitive, all-in-one
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/beedone-ai-productivity-game?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/synthesys-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### RandomPokemon
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-randompokemon.webp" alt="RandomPokemon">
+### WriteText.ai for Magento
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writetext.ai-for-magento.webp" alt="WriteText.ai for Magento">
 
-#### Looking for a fun way to discover new Pokémon? Try our Random Pokémon Generator and start your adventure today!
-[Visit](https://www.thataicollection.com/redirect/randompokemon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### WriteText.ai for Magento is an AI tool that auto-generates meta titles, descriptions, product texts, Open Graph texts, and image alt texts within your backend.
+[Visit](https://www.thataicollection.com/redirect/writetext.ai-for-magento?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Random Pokemon Generator: Unleash Your Imagination.Looking for a fun way to spice up your Pokémon battles?Try our Random Pok&eacute;mon Generator and discover unexpected Pokémon combinations.Start generating now and let the adventure begin!
+WriteText.ai, a Magento extension, uses AI to auto-generate product descriptions, meta titles, and texts. Features include vast ecommerce connections, customizations, keyword analysis, SEO focus, content management, and multilingual support.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/randompokemon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+Disclaimer: WriteText.ai is an independent tool developed to work with Magento. It is not affiliated or endorsed by Magento.
 
 
-
-
-### MASON - AI Content Engine
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mason---ai-content-engine.webp" alt="MASON - AI Content Engine">
-
-#### MASON - AI CONTENT ENGINE is a high performance AI-powered creative scaling solution for enterprise commerce, brands & retailers
-[Visit](https://www.thataicollection.com/redirect/mason---ai-content-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-MASON - AI CONTENT ENGINE is a high performance AI-powered creative scaling solution for enterprise brands & retailers. With live updates, connectors to platforms, AI composition, automated creative adaptation & more, mason's AI CONTENT ENGINE speeds up campaign delivery time by 100% and lowers campaign costs by 50%
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/mason---ai-content-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/writetext.ai-for-magento?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### MODEMAGIC BY MASON
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-modemagic-by-mason.webp" alt="MODEMAGIC BY MASON">
+### Language Atlas
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-language-atlas.webp" alt="Language Atlas">
 
-#### ModeMagic by Mason is AI Shopping Engine specifically built for nimble & fast growing brands. It leverages browse signals to run personalized onsite journeys that convert up to 350% better. 
-[Visit](https://www.thataicollection.com/redirect/modemagic-by-mason?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Language Atlas - Learn Languages with AI
+[Visit](https://www.thataicollection.com/redirect/language-atlas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-ModeMagic by Mason is an easy-to-use business middleware that plugs into your ecommerce platform such as Shopify, Bigcommerce, Magento etc. and consumer behavior (browse signals, orders data etc.) to generate & deliver intelligent merchandising, smarter engagement & personalised sales, upsells & crossells. 
+Language Atlas is a freemium platform where people can learn languages with AI. Users can sign up for free and get access to the beginner levels of French/Spanish. After paying all levels become available. Language Atlas has lessons, quizzes, and flashcards. The flashcards have images, audio, IPA notations. These flashcards also adapt to your performance. You can also create your own flashcards.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/modemagic-by-mason?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/language-atlas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Qura AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-qura-ai.webp" alt="Qura AI">
+
+#### Start growing your X (Twitter) on autopilot today
+[Visit](https://www.thataicollection.com/redirect/qura-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Qura is a comprehensive social media growth toolbox featuring one-click replies tailored to your voice, YouTube video conversion to viral Twitter threads, and automation tools developed from extensive tweet analyses. 
+
+With a Chrome extension for easy access, it offers a 50% discount for the first 100 users, boasting real, measurable growth within three months. 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/qura-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Verifast AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-verifast-ai.webp" alt="Verifast AI">
+
+#### Your AI Sales agent from engagement to conversion
+[Visit](https://www.thataicollection.com/redirect/verifast-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+We can’t imagine a retail store without a salesperson. But, most online stores are running without one - resulting in very high dropout rates. 
+With Verifast AI, you can now have your own AI sales agent, trained on your product data and tonality.  So now, engage them with highly personalised answers to queries and product recommendations instantly and round the clock.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/verifast-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### SopCreator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sopcreator.webp" alt="SopCreator">
+
+#### Create your Statement of Purpose with AI
+[Visit](https://www.thataicollection.com/redirect/sopcreator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SopCreator.com is an AI-enabled platform designed to help students create compelling Statements of Purpose (SOP) essays for their university applications. By utilizing a series of structured questions about the student's academic and extracurricular experiences, SopCreator.com generates highly personalized SOPs that effectively showcase the student's unique strengths and aspirations. 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/sopcreator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3098,36 +3100,6 @@ PornGen is an AI-driven platform that specializes in creating adult content thro
 
 
 
-### Pephop AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pephop-ai.webp" alt="Pephop AI">
-
-#### NSFW AI Chatbot Character AI Alternatives- PepHop AI
-[Visit](https://www.thataicollection.com/redirect/pephop-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Your online AI chatbot platform for roleplay. Engage with diverse characters, enjoy a free trial, and glimpse the future of interactive AI.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/pephop-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### undressing io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing io">
-
-#### AI Undressing - Nudify Photos for FREE with AI Undressing
-[Visit](https://www.thataicollection.com/redirect/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instantly transform looks. Nude photos in one click. Many styles and opportunity to do it with prompt
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Undress AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress-ai.webp" alt="Undress AI">
 
@@ -3156,6 +3128,36 @@ Nudify.biz is at the forefront of image generation technology, boasting hyper-re
 Nudify.biz supports various payment methods, including major credit cards, PayPal, Stripe, Apple Pay, Google Pay, and cryptocurrencies. 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/nudify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Pephop AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pephop-ai.webp" alt="Pephop AI">
+
+#### NSFW AI Chatbot Character AI Alternatives- PepHop AI
+[Visit](https://www.thataicollection.com/redirect/pephop-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Your online AI chatbot platform for roleplay. Engage with diverse characters, enjoy a free trial, and glimpse the future of interactive AI.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/pephop-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### undressing io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing io">
+
+#### AI Undressing - Nudify Photos for FREE with AI Undressing
+[Visit](https://www.thataicollection.com/redirect/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instantly transform looks. Nude photos in one click. Many styles and opportunity to do it with prompt
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4268,6 +4270,38 @@ Unlock your best work with Tome''s AI-powered storytelling format.
 
 ## Social Networks & Dating
 
+### Postlyy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-postlyy.webp" alt="Postlyy">
+
+#### Grow your audience faster with effortless content management
+[Visit](https://www.thataicollection.com/redirect/postlyy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Postlyy is a platform designed to streamline content management for creators, offering tools for creation, scheduling, and analytics. The service caters to those looking to optimize their content delivery on platforms like LinkedIn and Twitter, providing features such as AI-powered content crafting, efficient scheduling, and in-depth performance analysis.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/postlyy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Qura AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-qura-ai.webp" alt="Qura AI">
+
+#### Start growing your X (Twitter) on autopilot today
+[Visit](https://www.thataicollection.com/redirect/qura-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Qura is a comprehensive social media growth toolbox featuring one-click replies tailored to your voice, YouTube video conversion to viral Twitter threads, and automation tools developed from extensive tweet analyses. 
+
+With a Chrome extension for easy access, it offers a 50% discount for the first 100 users, boasting real, measurable growth within three months. 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/qura-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Roast
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-roast.webp" alt="Roast">
 
@@ -4340,38 +4374,6 @@ Perfect for X (Twitter). Add a keyword to shape your bio, choose an influencer t
 Inspire and write your tweets in seconds with Smart AI Tweet Generator
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/tweetai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Tweethunter
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tweethunter.webp" alt="Tweethunter">
-
-#### Tweet Hunter - Get More Twitter Followers Â Tweets, Threads, Scheduler, Analytics
-[Visit](https://www.thataicollection.com/redirect/tweethunter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Get sales, growth and new networks. Faster than what you''re currently trying.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/tweethunter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### TweetEmote
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tweetemote.webp" alt="TweetEmote">
-
-#### TweetEmote | The AI Powered Tweet Assistant
-
-[Visit](https://www.thataicollection.com/redirect/tweetemote?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-The AI-Powered Tweet Assistant - Write Expressive Tweets With Tweet Emote And Get The Engagement That Your Content Deserves!
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/tweetemote?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1371" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1378" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>适用于您网站的 AI 聊天机器人，根据您的数据进行训练</h4>
-    <p>Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。</p>
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fusion-compose.webp" alt="Fusion Compose" border="0"/>
     </a>
@@ -74,6 +61,19 @@ GPT-4 的聊天界面
 API、克劳德和双子座</h4>
     <p>订阅 OpenAI 的 GPT-4，每月可节省 20 美元。Fusion Compose 提供用户友好的聊天用户界面，与 GPT-4 API 完美集成，同时为 Claude 和 Gemini 提供了全面支持。</p>
     <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Fusion Compose</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>适用于您网站的 AI 聊天机器人，根据您的数据进行训练</h4>
+    <p>Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。</p>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
     <br />
 </div>
 
@@ -139,109 +139,111 @@ API、克劳德和双子座</h4>
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### Undress Pro AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
+### FastBots.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fastbots.ai.webp" alt="FastBots.ai">
 
-#### Undress Pro AI-最先进的脱衣服 AI-为任何人脱衣服
+#### FastBots.ai：通往智能自动化的门户
+[Visit](https://www.thataicollection.com/redirect/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+使用我们的人工智能聊天机器人实现客户服务自动化，让您的团队可以自由地专注于他们最擅长的事情。使用 FastBots.ai 提高效率并增强客户互动。
 
-Undress Pro AI-通过人工智能驱动的脸部交换或将她的图像转换为动漫风格，立即实现你对她的幻想。
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Sensey AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sensey-ai.webp" alt="Sensey AI">
+### Synthesys AI Studio
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-synthesys-ai-studio.webp" alt="Synthesys AI Studio">
 
-#### Sensey.ai：数据驱动的市场情报，帮助初创企业实现产品与市场的契合。
-[Visit](https://www.thataicollection.com/redirect/sensey-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Synthesys AI Studio | 大规模解锁生成式 AI 内容 
+[Visit](https://www.thataicollection.com/redirect/synthesys-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Sensey是一个具有AI的市场和竞争数据丰富平台，可加速初创企业的产品市场契合。获得深入的竞争对手见解、全面的市场分析和竞争对手的实时监控，为您的产品策略、营销和销售提供信息。 
+使用 Synthesys AI Studio 的语音、视频和图像生成器探索人工智能的力量。提升您的内容创作，立即免费试用我们的工具！
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/sensey-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### DeepNude Free AI App
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deepnude-free-ai-app.webp" alt="DeepNude Free AI App">
-
-#### 在线生成照片和图像。立即探索 DeepNude AI 的变革力量，提升您的数字创作。
-[Visit](https://www.thataicollection.com/redirect/deepnude-free-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-DeepNude AI应用程序提供了一套强大的功能，可以显著增强各种创意和专业项目。以下是你可以考虑使用这项技术的原因：
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/deepnude-free-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/synthesys-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### BeeDone: AI Productivity Game
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-gamified-ai.webp" alt="BeeDone: AI Productivity Game">
+### WriteText.ai for Magento
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writetext.ai-for-magento.webp" alt="WriteText.ai for Magento">
 
-#### 掌握任务管理，通过游戏化 AI 提高工作效率
-[Visit](https://www.thataicollection.com/redirect/beedone-ai-productivity-game?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### WriteText.ai for Magento 是一款人工智能工具，可在您的后端自动生成元标题、描述、产品文本、Open Graph 文本和图片替代文本。
+[Visit](https://www.thataicollection.com/redirect/writetext.ai-for-magento?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-BeedOne是一款创新的生产力应用程序，它将人工智能技术与游戏化艺术相结合，为用户提供了一种独特而引人入胜的方式来管理他们的任务和实现他们的目标。BeedOne 从《原子习惯》、《把事情做好》和《习惯的力量》等书中广受赞誉的生产力方法中汲取灵感，提供了一种直观的、多合一的解决方案
+WriteText.ai 是一个 Magento 扩展程序，它使用 AI 自动生成产品描述、元标题和文本。功能包括庞大的电子商务连接、自定义、关键字分析、SEO重点、内容管理和多语言支持。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/beedone-ai-productivity-game?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+免责声明：WriteText.ai 是一款专为与 Magento 配合使用而开发的独立工具。它与 Magento 无关联或认可。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/writetext.ai-for-magento?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Language Atlas
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-language-atlas.webp" alt="Language Atlas">
+
+#### 语言地图集-使用 AI 学习语言
+[Visit](https://www.thataicollection.com/redirect/language-atlas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Language Atlas 是一个免费增值平台，人们可以在其中通过 AI 学习语言。用户可以免费注册并获得法语/西班牙语初学者级别的权限。支付后，所有级别都可用。Language Atlas 有课程、测验和抽认卡。抽认卡上有图像、音频、IPA 符号。这些抽认卡还可以根据你的表现进行调整。你也可以创建自己的抽认卡。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/language-atlas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Qura AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-qura-ai.webp" alt="Qura AI">
+
+#### 立即开始在自动驾驶仪上发展你的 X（Twitter）
+[Visit](https://www.thataicollection.com/redirect/qura-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Qura 是一个全面的社交媒体增长工具箱，具有根据您的声音量身定制的一键回复、YouTube 视频转换为病毒式 Twitter 话题以及根据大量推文分析开发的自动化工具。 
+
+借助易于访问的Chrome扩展程序，它为前100名用户提供50％的折扣，并在三个月内实现了真正可衡量的增长。 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/qura-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### RandomPokemon
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-randompokemon.webp" alt="RandomPokemon">
+### Verifast AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-verifast-ai.webp" alt="Verifast AI">
 
-#### 正在寻找一种有趣的方式来发现新的神奇宝贝？试试我们的随机神奇宝贝生成器，今天就开始你的冒险吧！
-[Visit](https://www.thataicollection.com/redirect/randompokemon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 您的AI销售代理从参与到转化
+[Visit](https://www.thataicollection.com/redirect/verifast-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-随机口袋妖怪生成器：释放你的想象力。正在寻找一种有趣的方式来为你的神奇宝贝战斗增添趣味吗？试试我们的随机神奇宝贝生成器，发现意想不到的神奇宝贝组合。立即开始生成，开始冒险吧！
+我们无法想象没有销售人员的零售店。但是，大多数在线商店都没有营业，这导致退出率非常高。 
+借助 Verifast AI，您现在可以拥有自己的 AI 销售代理，接受产品数据和音调方面的培训。因此，现在，全天候为他们提供高度个性化的查询答案和产品推荐。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/randompokemon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### MASON - AI Content Engine
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mason---ai-content-engine.webp" alt="MASON - AI Content Engine">
-
-#### MASON-AI 内容引擎是一款由人工智能驱动的高性能创意扩展解决方案，适用于企业商务、品牌和零售商
-[Visit](https://www.thataicollection.com/redirect/mason---ai-content-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-MASON-AI 内容引擎是面向企业品牌和零售商的高性能人工智能驱动的创意扩展解决方案。通过实时更新、平台连接器、人工智能合成、自动创作改编等，mason的人工智能内容引擎将活动交付时间缩短了100％，并将活动成本降低了50％
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/mason---ai-content-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/verifast-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### MODEMAGIC BY MASON
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-modemagic-by-mason.webp" alt="MODEMAGIC BY MASON">
+### SopCreator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sopcreator.webp" alt="SopCreator">
 
-#### 梅森的ModeMagic是专门为灵活和快速增长的品牌打造的人工智能购物引擎。它利用浏览信号来运行个性化的现场旅程，将转化率提高多达350％。 
-[Visit](https://www.thataicollection.com/redirect/modemagic-by-mason?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 使用 AI 创建您的目标陈述
+[Visit](https://www.thataicollection.com/redirect/sopcreator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Mason 的 ModeMagic 是一款易于使用的商业中间件，可插入 Shopify、Bigcommerce、Magento 等电子商务平台和消费者行为（浏览信号、订单数据等），以生成和交付智能营销、更智能的参与和个性化销售、追加销售和交叉销售。 
+Sopcreator.com是一个支持人工智能的平台，旨在帮助学生为大学申请撰写引人入胜的目的陈述（SOP）论文。通过利用一系列有关学生学术和课外经历的结构化问题，SopCreator.com生成高度个性化的标准作业程序，有效展示学生的独特优势和抱负。 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/modemagic-by-mason?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/sopcreator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3092,36 +3094,6 @@ PornGen是一个人工智能驱动的平台，专门通过先进的图像生成�
 <br />
 
 
-### Pephop AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pephop-ai.webp" alt="Pephop AI">
-
-#### NSFW AI 聊天机器人角色 AI 替代品-PepHop AI
-[Visit](https://www.thataicollection.com/redirect/pephop-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-您的在线角色扮演人工智能聊天机器人平台。与各种角色互动，享受免费试用，一睹交互式 AI 的未来。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pephop-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### undressing io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing io">
-
-#### AI Undressing-使用 AI Undressing 免费裸体照片
-[Visit](https://www.thataicollection.com/redirect/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### Undress AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress-ai.webp" alt="Undress AI">
 
@@ -3150,6 +3122,36 @@ Nudify.biz处于图像生成技术的最前沿，拥有高达1024像素的超分
 Nudify.biz支持多种付款方式，包括主要的信用卡、PayPal、Stripe、Apple Pay、谷歌支付和加密货币。 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nudify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Pephop AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pephop-ai.webp" alt="Pephop AI">
+
+#### NSFW AI 聊天机器人角色 AI 替代品-PepHop AI
+[Visit](https://www.thataicollection.com/redirect/pephop-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+您的在线角色扮演人工智能聊天机器人平台。与各种角色互动，享受免费试用，一睹交互式 AI 的未来。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pephop-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### undressing io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing io">
+
+#### AI Undressing-使用 AI Undressing 免费裸体照片
+[Visit](https://www.thataicollection.com/redirect/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4262,6 +4264,38 @@ Storydoc 是一个直观的幻灯片编辑器，可以创建交互式演示文�
 
 ## 社交网络和约会
 
+### Postlyy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-postlyy.webp" alt="Postlyy">
+
+#### 通过轻松的内容管理更快地扩大受众群体
+[Visit](https://www.thataicollection.com/redirect/postlyy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Postlyy是一个旨在简化创作者内容管理的平台，提供创作、计划和分析工具。该服务迎合了那些希望在LinkedIn和Twitter等平台上优化内容交付的用户，提供人工智能驱动的内容制作、高效的计划和深入的性能分析等功能。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/postlyy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Qura AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-qura-ai.webp" alt="Qura AI">
+
+#### 立即开始在自动驾驶仪上发展你的 X（Twitter）
+[Visit](https://www.thataicollection.com/redirect/qura-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Qura 是一个全面的社交媒体增长工具箱，具有根据您的声音量身定制的一键回复、YouTube 视频转换为病毒式 Twitter 话题以及根据大量推文分析开发的自动化工具。 
+
+借助易于访问的Chrome扩展程序，它为前100名用户提供50％的折扣，并在三个月内实现了真正可衡量的增长。 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/qura-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Roast
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-roast.webp" alt="Roast">
 
@@ -4334,38 +4368,6 @@ ROAST 帮助人们将他们在 Tinder、Bumble 和 Hinge 等约会应用程序�
 使用智能 AI 推文生成器在几秒钟内激发灵感并撰写推文
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/tweetai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Tweethunter
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tweethunter.webp" alt="Tweethunter">
-
-#### Tweet Hunter - 获得更多 Twitter 关注者 - 推文、线程、调度程序、分析
-[Visit](https://www.thataicollection.com/redirect/tweethunter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-获得销售、增长和新网络。比你目前正在尝试的更快。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/tweethunter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### TweetEmote
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tweetemote.webp" alt="TweetEmote">
-
-#### TweeteMote | 由人工智能驱动的推文助手
-
-[Visit](https://www.thataicollection.com/redirect/tweetemote?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-人工智能驱动的推文助手——使用推文表情写出富有表现力的推文，让你的内容获得应有的参与度！
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/tweetemote?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
