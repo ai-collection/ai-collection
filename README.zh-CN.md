@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1378" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1384" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>适用于您网站的 AI 聊天机器人，根据您的数据进行训练</h4>
+    <p>Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。</p>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fusion-compose.webp" alt="Fusion Compose" border="0"/>
     </a>
@@ -61,19 +74,6 @@ GPT-4 的聊天界面
 API、克劳德和双子座</h4>
     <p>订阅 OpenAI 的 GPT-4，每月可节省 20 美元。Fusion Compose 提供用户友好的聊天用户界面，与 GPT-4 API 完美集成，同时为 Claude 和 Gemini 提供了全面支持。</p>
     <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Fusion Compose</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>适用于您网站的 AI 聊天机器人，根据您的数据进行训练</h4>
-    <p>Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。</p>
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
     <br />
 </div>
 
@@ -138,6 +138,38 @@ API、克劳德和双子座</h4>
 - 💰 [销售与市场营销](#销售与市场营销)
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
+
+### Unclothy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unclothy_.webp" alt="Unclothy">
+
+#### Unclothy 是一款开创性的工具，它利用人工智能技术快速且经济地将图像转换为裸照。
+[Visit](https://www.thataicollection.com/redirect/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+该平台专为易于使用而设计，允许任何人，从人工智能爱好者到休闲用户，只需点击几下即可从图像中移除衣服。使用 Unclothy 潜入一个创造可能性无穷的世界。
+
+该界面易于使用，使您可以轻松浏览和创建高质量的裸照。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Pet Shots AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-shots-ai.webp" alt="Pet Shots AI">
+
+#### 使用 Petshotsai 的图像生成器将真实的宠物照片变成神奇的场景
+[Visit](https://www.thataicollection.com/redirect/pet-shots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 Petshotsai.com 释放宠物的想象力！上传您宠物的照片，让我们的高级人工智能将它们转换为异想天开或艺术的图像。从童话冒险到太空探索，在你从未想象过的场景中见到你的毛茸茸的朋友！使用 AI Magic 将宠物的个性变为现实！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pet-shots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 
 ### FastBots.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fastbots.ai.webp" alt="FastBots.ai">
@@ -213,37 +245,6 @@ Qura 是一个全面的社交媒体增长工具箱，具有根据您的声音量
 借助易于访问的Chrome扩展程序，它为前100名用户提供50％的折扣，并在三个月内实现了真正可衡量的增长。 
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/qura-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Verifast AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-verifast-ai.webp" alt="Verifast AI">
-
-#### 您的AI销售代理从参与到转化
-[Visit](https://www.thataicollection.com/redirect/verifast-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我们无法想象没有销售人员的零售店。但是，大多数在线商店都没有营业，这导致退出率非常高。 
-借助 Verifast AI，您现在可以拥有自己的 AI 销售代理，接受产品数据和音调方面的培训。因此，现在，全天候为他们提供高度个性化的查询答案和产品推荐。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/verifast-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### SopCreator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sopcreator.webp" alt="SopCreator">
-
-#### 使用 AI 创建您的目标陈述
-[Visit](https://www.thataicollection.com/redirect/sopcreator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Sopcreator.com是一个支持人工智能的平台，旨在帮助学生为大学申请撰写引人入胜的目的陈述（SOP）论文。通过利用一系列有关学生学术和课外经历的结构化问题，SopCreator.com生成高度个性化的标准作业程序，有效展示学生的独特优势和抱负。 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/sopcreator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3094,6 +3095,23 @@ PornGen是一个人工智能驱动的平台，专门通过先进的图像生成�
 <br />
 
 
+### Unclothy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unclothy_.webp" alt="Unclothy">
+
+#### Unclothy 是一款开创性的工具，它利用人工智能技术快速且经济地将图像转换为裸照。
+[Visit](https://www.thataicollection.com/redirect/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+该平台专为易于使用而设计，允许任何人，从人工智能爱好者到休闲用户，只需点击几下即可从图像中移除衣服。使用 Unclothy 潜入一个创造可能性无穷的世界。
+
+该界面易于使用，使您可以轻松浏览和创建高质量的裸照。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Undress AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress-ai.webp" alt="Undress AI">
 
@@ -3152,23 +3170,6 @@ Nudify.biz支持多种付款方式，包括主要的信用卡、PayPal、Stripe�
 最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Girlfriend GPT - NSFW AI Chatbots
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
-
-#### 使用我们可怕的快速NSFW AI角色引擎开始免费聊天。好玩、乐于助人，我们的 7500 多个 AI 色情角色明白了。未经审查的人工智能，没有判断力。一切尽在您的掌控之中。
-[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-从占主导地位到顺从型到超越型，应有尽有。立即登录进行全天候的人工智能短信和辛辣聊天，这会让你喘不过气来。
-
-今天只需点击一下即可实现您最疯狂的梦想！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

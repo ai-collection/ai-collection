@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1378" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1384" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>Чат-бот с искусственным интеллектом для вашего сайта, обученный на ваших данных</h4>
-    <p>Chatbit — это инструмент искусственного интеллекта, который позволяет пользователям создавать персонализированных чат-ботов с искусственным интеллектом для своих веб-сайтов. Боты предназначены для привлечения клиентов, ответов на их вопросы и привлечения потенциальных клиентов.</p>
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Chatbit</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fusion-compose.webp" alt="Fusion Compose" border="0"/>
     </a>
@@ -74,6 +61,19 @@
 API, Клод и Близнецы</h4>
     <p>Сэкономьте 20 долларов в месяц на подписке OpenAI GPT-4. Fusion Compose предлагает удобный пользовательский интерфейс чата, который идеально интегрируется с API GPT-4, обеспечивая при этом полную поддержку Claude and Gemini.</p>
     <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Fusion Compose</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>Чат-бот с искусственным интеллектом для вашего сайта, обученный на ваших данных</h4>
+    <p>Chatbit — это инструмент искусственного интеллекта, который позволяет пользователям создавать персонализированных чат-ботов с искусственным интеллектом для своих веб-сайтов. Боты предназначены для привлечения клиентов, ответов на их вопросы и привлечения потенциальных клиентов.</p>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Chatbit</b></a>
     <br />
 </div>
 
@@ -149,6 +149,7 @@ API, Клод и Близнецы</h4>
 | [Nudifying](https://www.thataicollection.com/redirect/nudifying?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Nudifying предлагает уникальный сервис, где они обещают «раздеть кого угодно» с помощью своей удобной платформы. | Выбирая конкретные критерии, такие как возраст, тип телосложения и качество, пользователи могут получить результаты в течение нескольких секунд. Важно отметить, что Nudifying делает упор исключительно на развлечения и гарантирует, что никаких оскорблений не будет. Пользователи должны помнить, что они несут полную ответственность за созданные ими изображения и должны получить надлежащее согласие, прежде чем использовать чужие фотографии. | :white_check_mark: |
 | [Pephop AI](https://www.thataicollection.com/redirect/pephop-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Альтернативы искусственному интеллекту персонажей чат-ботов NSFW AI - PepHop AI. | Ваша онлайн-платформа чат-ботов с искусственным интеллектом для ролевых игр. Пообщайтесь с разными персонажами, воспользуйтесь бесплатной пробной версией и загляните в будущее интерактивного искусственного интеллекта. | :white_check_mark: |
 | [PornGen](https://www.thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PornGen — это передовая платформа на базе искусственного интеллекта, которая позволяет пользователям создавать высококачественные, реалистичные и подробные изображения NSFW. | PornGen — это платформа, управляемая искусственным интеллектом, которая специализируется на создании контента для взрослых с помощью передовых методов генерации изображений. Он создает изображения NSFW, отвечающие широкому спектру предпочтений пользователей. Пользователи взаимодействуют с PornGen, предоставляя текстовые подсказки или выбирая определенные теги, описывающие желаемый результат, например тип телосложения, действия или стиль одежды. | :white_check_mark: |
+| [Unclothy](https://www.thataicollection.com/redirect/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unclothy — это инновационный инструмент, использующий технологию искусственного интеллекта для быстрого и доступного преобразования изображений в обнаженную натуру. | Эта платформа проста в использовании и позволяет любому, от энтузиастов искусственного интеллекта до обычных пользователей, удалять одежду с изображений всего несколькими простыми щелчками мыши. Погрузитесь в мир, где творческие возможности безграничны вместе с Unclothy.  Интерфейс удобен в использовании, что позволяет легко ориентироваться и создавать высококачественные обнаженные изображения без каких-либо проблем. | :white_check_mark: |
 | [Undress AI](https://www.thataicollection.com/redirect/undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Undress AI — это новый бесплатный онлайн-редактор. Используя сложные методы машинного обучения, Undress AI позволяет пользователям создавать или корректировать обнаженные изображения с поразительной реалистичностью и точностью. | По своей сути, Undress AI служит платформой для создания реалистичных изображений человеческих фигур без использования живых моделей или традиционной фотографии.   Универсальность Undress AI распространяется на множество отраслей и дисциплин. В сфере художественного самовыражения она предоставляет цифровым художникам и иллюстраторам бесценный инструмент. | :white_check_mark: |
 | [Undress Pro AI](https://www.thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Undress Pro AI - новейшие технологии Раздевайте ИИ - Раздевайте кого угодно. | Undress Pro AI - Мгновенно реализуйте свои фантазии о ней с помощью искусственного интеллекта, меняя ее лица или преобразуя ее изображения в стиле аниме. | :white_check_mark: |
 | [Undress Vip](https://www.thataicollection.com/redirect/undress-vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | undress.vip—2023 лучшее 100% рабочее раздевание в обнаженном виде. | Undress.vip, новаторский инструмент для искусственного интеллекта, лежащий в авангарде этого прогресса. undress.vip—2023 лучшие телеграмы раздевают искусственные боты с искусственным интеллектом на 100% работающим искусственным интеллектом в стиле deepnude и deepfake. | :white_check_mark: |
@@ -442,6 +443,7 @@ API, Клод и Близнецы</h4>
 | [Pattern Maker AI](https://www.thataicollection.com/redirect/pattern-maker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Создавайте бесшовные узоры с помощью искусственного интеллекта. | Pattern Maker AI — создавайте креативные и уникальные бесшовные паттерны, используя вариант модели искусственного интеллекта Stable Diffusion, созданной в сотрудничестве инженеров и исследователей из CompVis, Stability AI и LAION и выпущенной под лицензией Creative ML OpenRail-M. | :grey_question: |
 | [PatternedAI](https://www.thataicollection.com/redirect/patternedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PatterndAI — создавайте уникальные шаблоны для вашего продукта с помощью искусственного интеллекта!. | Интегрируйте PatternedAI в свой бизнес! Получите ранний доступ к PatternedAI Enterprise. Присоединяйтесь к избранным клиентам в преобразовании рабочих процессов и стимулировании роста. | :grey_question: |
 | [Pet Booth](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pet Booth — это сервис для создания собственных портретов, иллюстраций и фотографий домашних животных с искусственным интеллектом. Просто загрузите 10-20 фотографий своей кошки или собаки и выберите из более чем 80 тем, в которые можно превратить их. | Pet Booth — это сервис для создания собственных удивительных портретов, фотографий и произведений искусства с искусственным интеллектом. Это быстро, просто и увлекательно!  Как это работает?  Просто загрузите 10-20 фотографий вашей кошки или собаки и выберите из более чем 80 тем, в которые можно превратить их.  Получите набор из 100 изображений вашего питомца, созданных искусственным интеллектом, как в фотореалистичном, так и в художественном стиле. | :grey_question: |
+| [Pet Shots AI](https://www.thataicollection.com/redirect/pet-shots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Превратите реальные фотографии домашних животных в волшебные сцены с помощью генератора изображений PetShotsai. | Раскройте воображение своего питомца вместе с Petshotsai.com! Загрузите фотографии своего питомца и позвольте нашему продвинутому искусственному интеллекту превратить их в причудливые или художественные изображения. От сказочных приключений до космических исследований — встречайтесь со своим пушистым другом в сценариях, о которых вы даже не догадывались! Оживите индивидуальность своего питомца с помощью AI Magic!. | :grey_question: |
 | [Photo Rush](https://www.thataicollection.com/redirect/photo-rush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Профессиональные фотографии продуктов за считанные минуты. | PhotRush — это идеальное решение для малого бизнеса и частных лиц, которым нужна профессиональная фотосъемка продуктов. Повышая качество фотографий, оно выделяет продукты на первый план и оптимизирует потенциал увеличения продаж. Эти изображения премиум-класса идеально подходят для платформ электронной коммерции. | :white_check_mark: |
 | [PhotoRoom](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PhotoRoom — удаление фона и создание изображений товаров. | Создавайте изображения продуктов и портреты, используя только свой телефон. Удалите фон, измените фон и продемонстрируйте продукты. | :grey_question: |
 | [Photosonic AI](https://www.thataicollection.com/redirect/photosonic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Photosonic AI Art Generator — создавайте уникальные изображения с помощью ИИ. | Превратите свое воображение в потрясающее цифровое искусство с помощью Photosonic — генератора искусств на основе искусственного интеллекта. Этот генератор изображений с искусственным интеллектом Writesonic с его творческими предложениями может помочь раскрыть вашего внутреннего художника и поделиться своими творениями с миром. | :grey_question: |

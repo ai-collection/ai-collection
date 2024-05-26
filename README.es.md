@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1378" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1384" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>Chatbot de IA para tu sitio web, entrenado con tus datos</h4>
+    <p>Chatbit es una herramienta de IA que permite a los usuarios crear chatbots de IA personalizados para sus sitios web. Los bots están diseñados para captar clientes, responder a sus preguntas y captar clientes potenciales.</p>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Chatbit</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fusion-compose.webp" alt="Fusion Compose" border="0"/>
     </a>
@@ -61,19 +74,6 @@ Interfaz de chat para GPT-4
 API, Claude y Gemini</h4>
     <p>Ahorra 20 dólares al mes en la suscripción a la GPT-4 de OpenAI. Fusion Compose ofrece una interfaz de chat fácil de usar que se integra perfectamente con la API GPT-4 y, al mismo tiempo, es totalmente compatible con Claude y Gemini.</p>
     <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Fusion Compose</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>Chatbot de IA para tu sitio web, entrenado con tus datos</h4>
-    <p>Chatbit es una herramienta de IA que permite a los usuarios crear chatbots de IA personalizados para sus sitios web. Los bots están diseñados para captar clientes, responder a sus preguntas y captar clientes potenciales.</p>
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Chatbit</b></a>
     <br />
 </div>
 
@@ -138,6 +138,38 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 🎬 [Video](#video)
 - 😎 [Avatares](#avatares)
 ## Latest Additions to AI Collection
+
+### Unclothy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unclothy_.webp" alt="Unclothy">
+
+#### Unclothy es una herramienta innovadora que aprovecha la tecnología de la inteligencia artificial para transformar imágenes en desnudos de forma rápida y asequible.
+[Visit](https://www.thataicollection.com/redirect/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Esta plataforma está diseñada para facilitar su uso y permite a cualquier persona, desde entusiastas de la IA hasta usuarios ocasionales, quitar ropa de las imágenes con unos pocos clics. Sumérgete en un mundo en el que las posibilidades creativas son infinitas con Unclothy.
+
+La interfaz es fácil de usar, lo que facilita la navegación y la creación de imágenes de desnudos de alta calidad sin problemas.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Pet Shots AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-shots-ai.webp" alt="Pet Shots AI">
+
+#### Convierte fotos reales de mascotas en escenas mágicas con el generador de imágenes de PetShotSai
+[Visit](https://www.thataicollection.com/redirect/pet-shots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+¡Da rienda suelta al lado imaginativo de tu mascota con Petshotsai.com! Sube las fotos de tu mascota y deja que nuestra IA avanzada las transforme en imágenes caprichosas o artísticas. Desde aventuras de cuentos de hadas hasta exploraciones espaciales, ¡ve a tu amigo peludo en escenarios que nunca te habías imaginado! ¡Da vida a la personalidad de tu mascota con AI Magic!
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/pet-shots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### FastBots.ai
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fastbots.ai.webp" alt="FastBots.ai">
@@ -213,37 +245,6 @@ Qura es una completa caja de herramientas para crecer en las redes sociales que 
 Con una extensión de Chrome para facilitar el acceso, ofrece un descuento del 50% a los 100 primeros usuarios, lo que supone un crecimiento real y mensurable en tres meses. 
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/qura-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Verifast AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-verifast-ai.webp" alt="Verifast AI">
-
-#### Tu agente de ventas de IA, desde la interacción hasta la conversión
-[Visit](https://www.thataicollection.com/redirect/verifast-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-No podemos imaginarnos una tienda minorista sin un vendedor. Sin embargo, la mayoría de las tiendas online funcionan sin uno, lo que se traduce en tasas de abandono muy altas. 
-Con Verifast AI, ahora puedes tener tu propio agente de ventas de IA, formado en los datos y la tonalidad de tus productos. Ahora, interactúa con ellos con respuestas altamente personalizadas a consultas y recomendaciones de productos al instante y las 24 horas del día.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/verifast-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### SopCreator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sopcreator.webp" alt="SopCreator">
-
-#### Crea tu declaración de propósito con la IA
-[Visit](https://www.thataicollection.com/redirect/sopcreator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SopCreator.com es una plataforma basada en la IA diseñada para ayudar a los estudiantes a crear ensayos convincentes sobre declaraciones de propósito (SOP) para sus solicitudes universitarias. Al utilizar una serie de preguntas estructuradas sobre las experiencias académicas y extracurriculares del estudiante, SopCreator.com genera SOP altamente personalizados que muestran de forma eficaz los puntos fuertes y las aspiraciones únicos del estudiante. 
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/sopcreator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3093,6 +3094,23 @@ PornGen es una plataforma impulsada por la IA que se especializa en crear conten
 
 
 
+### Unclothy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unclothy_.webp" alt="Unclothy">
+
+#### Unclothy es una herramienta innovadora que aprovecha la tecnología de la inteligencia artificial para transformar imágenes en desnudos de forma rápida y asequible.
+[Visit](https://www.thataicollection.com/redirect/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Esta plataforma está diseñada para facilitar su uso y permite a cualquier persona, desde entusiastas de la IA hasta usuarios ocasionales, quitar ropa de las imágenes con unos pocos clics. Sumérgete en un mundo en el que las posibilidades creativas son infinitas con Unclothy.
+
+La interfaz es fácil de usar, lo que facilita la navegación y la creación de imágenes de desnudos de alta calidad sin problemas.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Undress AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress-ai.webp" alt="Undress AI">
 
@@ -3151,23 +3169,6 @@ Tu plataforma online de chatbots de IA para juegos de rol. Interactúa con diver
 ¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Girlfriend GPT - NSFW AI Chatbots
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
-
-#### Empieza a chatear gratis con nuestro rápido y aterrador motor de personajes de IA de la NSFW. Divertido, útil, nuestros más de 7500 personajes de sexting con IA lo tienen. IA sin censura, sin juicio. Tú tienes el control.
-[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Variedad, desde dominante hasta sumiso y más allá. Inicia sesión ahora para recibir mensajes de texto con IA y charlas picantes las 24 horas del día, los 7 días de la semana
-
-¡Tus sueños más locos están a un clic de distancia hoy!
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

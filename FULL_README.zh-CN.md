@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1378" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1384" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>适用于您网站的 AI 聊天机器人，根据您的数据进行训练</h4>
+    <p>Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。</p>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fusion-compose.webp" alt="Fusion Compose" border="0"/>
     </a>
@@ -61,19 +74,6 @@ GPT-4 的聊天界面
 API、克劳德和双子座</h4>
     <p>订阅 OpenAI 的 GPT-4，每月可节省 20 美元。Fusion Compose 提供用户友好的聊天用户界面，与 GPT-4 API 完美集成，同时为 Claude 和 Gemini 提供了全面支持。</p>
     <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Fusion Compose</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>适用于您网站的 AI 聊天机器人，根据您的数据进行训练</h4>
-    <p>Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。</p>
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
     <br />
 </div>
 
@@ -665,6 +665,7 @@ API、克劳德和双子座</h4>
 | [Nudifying](https://www.thataicollection.com/redirect/nudifying?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Nudifying提供了一项独特的服务，他们承诺通过其用户友好的平台 “为任何人脱衣服”。. | 通过选择年龄、体型和质量等特定标准，用户可以在几秒钟内获得结果。值得注意的是，Nudifying仅强调其娱乐目的，并确保没有冒犯的意图。用户必须记住，他们对自己创建的图像承担全部责任，并且在使用他人的照片之前应获得适当的同意。. | :white_check_mark: |
 | [Pephop AI](https://www.thataicollection.com/redirect/pephop-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | NSFW AI 聊天机器人角色 AI 替代品-PepHop AI. | 您的在线角色扮演人工智能聊天机器人平台。与各种角色互动，享受免费试用，一睹交互式 AI 的未来。. | :white_check_mark: |
 | [PornGen](https://www.thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PornGen是一个先进的人工智能平台，允许用户创建高质量、逼真和详细的NSFW图像。. | PornGen是一个人工智能驱动的平台，专门通过先进的图像生成技术创建成人内容。它生成的NSFW图像可满足各种用户偏好。用户通过提供文字提示或选择描述其预期结果的特定标签（例如身体类型、行为或服装风格）来与PornGen互动。. | :white_check_mark: |
+| [Unclothy](https://www.thataicollection.com/redirect/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unclothy 是一款开创性的工具，它利用人工智能技术快速且经济地将图像转换为裸照。. | 该平台专为易于使用而设计，允许任何人，从人工智能爱好者到休闲用户，只需点击几下即可从图像中移除衣服。使用 Unclothy 潜入一个创造可能性无穷的世界。  该界面易于使用，使您可以轻松浏览和创建高质量的裸照。. | :white_check_mark: |
 | [Undress AI](https://www.thataicollection.com/redirect/undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Undress AI 是一款全新的免费在线编辑器。通过采用复杂的机器学习技术，Undress AI使用户能够以非凡的真实感和精度生成或调整裸照。. | Undress AI的核心是创建逼真的人物描绘的平台，所有这些都无需真人模型或传统摄影。   Undress AI 的多功能性涵盖了多个行业和学科。在艺术表现领域，它为数字艺术家和插画家提供了宝贵的工具。. | :white_check_mark: |
 | [Undress Pro AI](https://www.thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Undress Pro AI-最先进的脱衣服 AI-为任何人脱衣服. | Undress Pro AI-通过人工智能驱动的脸部交换或将她的图像转换为动漫风格，立即实现你对她的幻想。. | :white_check_mark: |
 | [Undress Vip](https://www.thataicollection.com/redirect/undress-vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | undress.vip—2023 年最佳 100% 工作脱衣服 ai deepnude. | Undress.vip，一款处于本次进展最前沿的开创性人工智能工具。undress.vip—2023 年最佳 100% Working ai deepnude 和 deepfake 电报脱衣服人工智能机器人. | :white_check_mark: |
@@ -1483,6 +1484,7 @@ API、克劳德和双子座</h4>
 | [Pattern Maker AI](https://www.thataicollection.com/redirect/pattern-maker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用人工智能生成无缝模式. | Pattern Maker AI-使用稳定扩散人工智能模型的变体生成富有创造性和独特的无缝模式，该模型由 CompVis、Stability AI 和 LAION 的工程师和研究人员合作创建，并在 Creative ML OpenRail-M 许可下发布. | :grey_question: |
 | [PatternedAI](https://www.thataicollection.com/redirect/patternedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PatterndAI - 使用人工智能为您的产品生成独特的图案！. | 将 PatternedAI 集成到您的业务中！ 尽早访问 PatternedAI Enterprise。与选定的客户一起转变工作流程并推动增长。. | :grey_question: |
 | [Pet Booth](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pet Booth 是一项用于创建自己的 AI 宠物肖像、艺术品和照片的服务。只需上传 10-20 张您的猫或狗的照片，然后从 80 多个主题中进行选择，即可将其转换成。. | Pet Booth 是一项用于创建自己精彩的 AI 宠物肖像、照片和艺术品的服务。它快速、简单、有趣！  它是如何工作的？  只需上传 10-20 张您的猫或狗的照片，然后从 80 多个主题中进行选择，即可将其转换成。  收到一包 100 张 AI 生成的宠物图片，既有照片级逼真度，也有艺术风格。. | :grey_question: |
+| [Pet Shots AI](https://www.thataicollection.com/redirect/pet-shots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 Petshotsai 的图像生成器将真实的宠物照片变成神奇的场景. | 使用 Petshotsai.com 释放宠物的想象力！上传您宠物的照片，让我们的高级人工智能将它们转换为异想天开或艺术的图像。从童话冒险到太空探索，在你从未想象过的场景中见到你的毛茸茸的朋友！使用 AI Magic 将宠物的个性变为现实！. | :grey_question: |
 | [Photo Rush](https://www.thataicollection.com/redirect/photo-rush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 几分钟内就能拍出专业的产品照片。. | PhotRush 是寻求专业级产品摄影的小型企业和个人的首选解决方案。通过提高照片质量，它可以确保产品脱颖而出，从而优化增加销售的可能性。这些优质图片非常适合电子商务平台。. | :white_check_mark: |
 | [PhotoRoom](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PhotoRoom - 删除背景并创建产品图片. | 仅使用您的手机创建产品和肖像图片。删除背景、更改背景和展示产品。. | :grey_question: |
 | [Photosonic AI](https://www.thataicollection.com/redirect/photosonic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Photosonic AI Art Generator - 使用 AI 创建独特的图像. | 使用人工智能艺术生成器 Photosonic，将您的想象力转化为令人惊叹的数字艺术。凭借其创造性的建议，这款 Writesonic 的 AI 图像生成器可以帮助释放您的内在艺术家并与世界分享您的创作。. | :grey_question: |

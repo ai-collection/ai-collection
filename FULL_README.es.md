@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1378" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1384" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>Chatbot de IA para tu sitio web, entrenado con tus datos</h4>
+    <p>Chatbit es una herramienta de IA que permite a los usuarios crear chatbots de IA personalizados para sus sitios web. Los bots están diseñados para captar clientes, responder a sus preguntas y captar clientes potenciales.</p>
+    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Chatbit</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fusion-compose.webp" alt="Fusion Compose" border="0"/>
     </a>
@@ -61,19 +74,6 @@ Interfaz de chat para GPT-4
 API, Claude y Gemini</h4>
     <p>Ahorra 20 dólares al mes en la suscripción a la GPT-4 de OpenAI. Fusion Compose ofrece una interfaz de chat fácil de usar que se integra perfectamente con la API GPT-4 y, al mismo tiempo, es totalmente compatible con Claude y Gemini.</p>
     <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Fusion Compose</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>Chatbot de IA para tu sitio web, entrenado con tus datos</h4>
-    <p>Chatbit es una herramienta de IA que permite a los usuarios crear chatbots de IA personalizados para sus sitios web. Los bots están diseñados para captar clientes, responder a sus preguntas y captar clientes potenciales.</p>
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Chatbit</b></a>
     <br />
 </div>
 
@@ -935,6 +935,7 @@ API, Claude y Gemini</h4>
 | [Pattern Maker AI](https://www.thataicollection.com/redirect/pattern-maker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Genera patrones sin fisuras con inteligencia artificial. | Pattern Maker AI: genera patrones sin fisuras creativos y únicos con una variante del modelo de IA de difusión estable que se creó en colaboración entre ingenieros e investigadores de CompVis, Stability AI y LAION y que se publicó con una licencia Creative ML OpenRail-M. | :grey_question: |
 | [PatternedAI](https://www.thataicollection.com/redirect/patternedai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PatterndAI: ¡genera patrones únicos para tu producto utilizando IA!. | ¡Integra PatternedAI en tu negocio! Obtenga acceso temprano a PatternedAI Enterprise. Únase a clientes seleccionados para transformar los flujos de trabajo e impulsar el crecimiento. | :grey_question: |
 | [Pet Booth](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Pet Booth es un servicio para crear tus propios retratos, ilustraciones y fotos de mascotas con IA. Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos. | Pet Booth es un servicio para crear tus propios increíbles retratos, fotos e ilustraciones de mascotas con IA. ¡Es rápido, fácil y divertido!  ¿Cómo funciona?  Solo tienes que subir de 10 a 20 fotos de tu gato o perro y seleccionar entre más de 80 temas en los que transformarlos.  Recibe un paquete de 100 imágenes generadas por la IA de tu mascota en estilos fotorrealista y artístico. | :grey_question: |
+| [Pet Shots AI](https://www.thataicollection.com/redirect/pet-shots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Convierte fotos reales de mascotas en escenas mágicas con el generador de imágenes de PetShotSai. | ¡Da rienda suelta al lado imaginativo de tu mascota con Petshotsai.com! Sube las fotos de tu mascota y deja que nuestra IA avanzada las transforme en imágenes caprichosas o artísticas. Desde aventuras de cuentos de hadas hasta exploraciones espaciales, ¡ve a tu amigo peludo en escenarios que nunca te habías imaginado! ¡Da vida a la personalidad de tu mascota con AI Magic!. | :grey_question: |
 | [Photo Rush](https://www.thataicollection.com/redirect/photo-rush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Fotos profesionales de productos en cuestión de minutos. | PhotoRush es la solución ideal para las pequeñas empresas y las personas que buscan fotografías de productos de calidad profesional. Al aumentar la calidad de las fotografías, garantiza que los productos destaquen y optimiza la posibilidad de aumentar las ventas. Estas imágenes premium son perfectas para las plataformas de comercio electrónico. | :white_check_mark: |
 | [PhotoRoom](https://www.thataicollection.com/redirect/photoroom?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Photoroom: elimine el fondo y cree imágenes de productos. | Cree imágenes de productos y retratos usando solo su teléfono. Quite el fondo, cambie el fondo y muestre productos. | :grey_question: |
 | [Photosonic AI](https://www.thataicollection.com/redirect/photosonic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Photosonic AI Art Generator: crea imágenes únicas con IA. | Transforme su imaginación en un impresionante arte digital con Photosonic, el generador de arte con IA. Con sus sugerencias creativas, el generador de imágenes AI de Writesonic puede ayudarlo a liberar su artista interior y compartir sus creaciones con el mundo. | :grey_question: |
@@ -1180,6 +1181,7 @@ API, Claude y Gemini</h4>
 | [Nudifying](https://www.thataicollection.com/redirect/nudifying?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Nudifying ofrece un servicio único en el que prometen «desvestir a cualquiera» a través de su plataforma fácil de usar. | Al seleccionar criterios específicos, como la edad, el tipo de cuerpo y la calidad, los usuarios pueden obtener resultados en cuestión de segundos. Es importante tener en cuenta que la desnudez hace hincapié en su propósito únicamente de entretenimiento y garantiza que no se pretenda ofender. Los usuarios deben recordar que son totalmente responsables de las imágenes que crean y deben obtener el debido consentimiento antes de utilizar las fotos de otra persona. | :white_check_mark: |
 | [Pephop AI](https://www.thataicollection.com/redirect/pephop-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Alternativas a la IA de personajes de un chatbot de NSFW: IA de PepHop. | Tu plataforma online de chatbots de IA para juegos de rol. Interactúa con diversos personajes, disfruta de una prueba gratuita y vislumbra el futuro de la IA interactiva. | :white_check_mark: |
 | [PornGen](https://www.thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | PornGen es una plataforma avanzada impulsada por la IA que permite a los usuarios crear imágenes NSFW de alta calidad, realistas y detalladas. | PornGen es una plataforma impulsada por la IA que se especializa en crear contenido para adultos mediante técnicas avanzadas de generación de imágenes. Produce imágenes NSFW que se adaptan a una amplia gama de preferencias de los usuarios. Los usuarios interactúan con PornGen proporcionando indicaciones textuales o seleccionando etiquetas específicas que describan el resultado deseado, como el tipo de cuerpo, las acciones o el estilo de ropa. | :white_check_mark: |
+| [Unclothy](https://www.thataicollection.com/redirect/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unclothy es una herramienta innovadora que aprovecha la tecnología de la inteligencia artificial para transformar imágenes en desnudos de forma rápida y asequible. | Esta plataforma está diseñada para facilitar su uso y permite a cualquier persona, desde entusiastas de la IA hasta usuarios ocasionales, quitar ropa de las imágenes con unos pocos clics. Sumérgete en un mundo en el que las posibilidades creativas son infinitas con Unclothy.  La interfaz es fácil de usar, lo que facilita la navegación y la creación de imágenes de desnudos de alta calidad sin problemas. | :white_check_mark: |
 | [Undress AI](https://www.thataicollection.com/redirect/undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Undress AI es un nuevo editor online gratuito. Al emplear técnicas sofisticadas de aprendizaje automático, Undress AI permite a los usuarios generar o ajustar imágenes de desnudos con un realismo y una precisión notables. | En esencia, Undress AI sirve como plataforma para crear representaciones realistas de figuras humanas, todo ello sin necesidad de modelos vivos ni fotografías tradicionales.   La versatilidad de Undress AI se extiende a multitud de sectores y disciplinas. En el ámbito de la expresión artística, proporciona a los artistas e ilustradores digitales una herramienta inestimable. | :white_check_mark: |
 | [Undress Pro AI](https://www.thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Undress Pro AI - Lo último en tecnología Undress AI - Desnuda a cualquiera. | Undress Pro AI: Haz realidad tu fantasía sobre ella al instante con un intercambio de rostros con tecnología de IA o transformando sus imágenes al estilo anime. | :white_check_mark: |
 | [Undress Vip](https://www.thataicollection.com/redirect/undress-vip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | undress.vip—2023 mejor vestido 100% funcional ai deepnude. | Undress.vip, una innovadora herramienta de inteligencia artificial a la vanguardia de esta progresión. undress.vip: los mejores bots de IA deepnude y deepfake telegram desnudar IA de 2023. | :white_check_mark: |
