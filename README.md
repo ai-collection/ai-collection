@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1384" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1402" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,27 +59,12 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
     </a>
     <h4>AI Chatbot for your website, trained on your data</h4>
     <p>Chatbit is an AI tool that allows users to create customized AI chatbots for their websites. The bots are designed to engage customers, answer their questions, and capture leads.</p>
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Chatbit</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fusion-compose.webp" alt="Fusion Compose" border="0"/>
-    </a>
-    <h4>No B.S & Simple
-Chat UI For GPT-4
-API, Claude and Gemini</h4>
-    <p>Save $20 per month on OpenAI's GPT-4 subscription. Fusion Compose offers a user-friendly chat UI that perfectly integrates with the GPT-4 API, while providing full support for Claude and Gemini.</p>
-    <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Fusion Compose</b></a>
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Chatbit</b></a>
     <br />
 </div>
 
@@ -140,117 +125,133 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - 📝🔉 [Text To Speech](#text-to-speech)
 - 🇺🇳 [Translation & Transcript](#translation--transcript)
 - 🏖 [Vacation & Trip Planner](#vacation--trip-planner)
-- 🎬 [Video](#video)
+- 🎬 [Video Generation & Editing](#video-generation--editing)
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
-### Unclothy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unclothy_.webp" alt="Unclothy">
+### Markero
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-markero.webp" alt="Markero">
 
-#### Unclothy is a groundbreaking tool that harnesses AI technology to transform images into nude quickly and affordably.
-[Visit](https://www.thataicollection.com/redirect/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Boost your marketing with markero for more customers
+[Visit](https://www.thataicollection.com/redirect/markero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-This platform is designed for ease of use, allowing anyone, from AI enthusiasts to casual users, to remove clothing from images with just a few simple clicks. Dive into a world where creative possibilities are endless with Unclothy.
-
-The interface is user-friendly, making it straightforward for you to navigate and create high-quality nude images without any hassle.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+Markero, an all-in-one marketing tool equipped with artificial intelligence, democratizes advanced marketing techniques by making them accessible and easy to apply for everyone from solo entrepreneurs to large corporations. The platform simplifies complex marketing tasks by automating content creation and lead management, saving time and supporting the development of an effective online presence.
 
 
-
-
-### Pet Shots AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-shots-ai.webp" alt="Pet Shots AI">
-
-#### Turn Real Pet Photos into Magical Scenes with PetshotsAI's Image Generator
-[Visit](https://www.thataicollection.com/redirect/pet-shots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Unleash your pet's imaginative side with PetshotsAI.com! Upload your pet’s photos and let our advanced AI transform them into whimsical or artistic images. From fairy tale adventures to space explorations, see your furry friend in scenarios you've never imagined! Bring your pet's personality to life with AI Magic!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/pet-shots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/markero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### FastBots.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fastbots.ai.webp" alt="FastBots.ai">
+### X Headshot
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-x-headshot.webp" alt="X Headshot">
 
-#### FastBots.ai : Your Gateway to Intelligent Automation
-[Visit](https://www.thataicollection.com/redirect/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### X Headshot is an AI headshot generator that turns your selfies into professional AI headshots. 
+[Visit](https://www.thataicollection.com/redirect/x-headshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Automate your customer service with our AI-powered chatbots and give your team the freedom to focus on what they do best. Improve efficiency and enhance customer interaction with FastBots.ai.
+With our headshots, you can build trust and credibility, make a powerful first impression, boost your online presence, and stand out with your personal brand.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+All photoshoots include 10+ different styles, 40+ high-definition headshots, and a 7 days money-back guarantee. 
 
-<br />
+Simply upload your photos and let our AI create stunning headshots of yourself in minutes. No account registration required.
 
-
-
-
-### Synthesys AI Studio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-synthesys-ai-studio.webp" alt="Synthesys AI Studio">
-
-#### Synthesys AI Studio | Unlock Generative AI Content At Scale 
-[Visit](https://www.thataicollection.com/redirect/synthesys-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Discover the power of AI with Synthesys AI Studio's voice, video, and image generators. Elevate your content creation and try our tools for free today!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/synthesys-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/x-headshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### WriteText.ai for Magento
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writetext.ai-for-magento.webp" alt="WriteText.ai for Magento">
+### WotNot
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wotnot.webp" alt="WotNot">
 
-#### WriteText.ai for Magento is an AI tool that auto-generates meta titles, descriptions, product texts, Open Graph texts, and image alt texts within your backend.
-[Visit](https://www.thataicollection.com/redirect/writetext.ai-for-magento?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### A powerful, no-code chatbot platform designed to automate and optimize customer interactions for businesses of all sizes.
+[Visit](https://www.thataicollection.com/redirect/wotnot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-WriteText.ai, a Magento extension, uses AI to auto-generate product descriptions, meta titles, and texts. Features include vast ecommerce connections, customizations, keyword analysis, SEO focus, content management, and multilingual support.
+A user-friendly no-code bot builder and a range of integration options, WotNot ensures that businesses can deploy effective communication strategies without the need for extensive technical knowledge.
 
-Disclaimer: WriteText.ai is an independent tool developed to work with Magento. It is not affiliated or endorsed by Magento.
+Features:- 
 
+1) No-code bot builder
+2) White Label
+3) Lead generation
+4) Multi-platform engagement
+5) Unlimited Scalability
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/writetext.ai-for-magento?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Language Atlas
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-language-atlas.webp" alt="Language Atlas">
-
-#### Language Atlas - Learn Languages with AI
-[Visit](https://www.thataicollection.com/redirect/language-atlas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Language Atlas is a freemium platform where people can learn languages with AI. Users can sign up for free and get access to the beginner levels of French/Spanish. After paying all levels become available. Language Atlas has lessons, quizzes, and flashcards. The flashcards have images, audio, IPA notations. These flashcards also adapt to your performance. You can also create your own flashcards.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/language-atlas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/wotnot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Qura AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-qura-ai.webp" alt="Qura AI">
+### IDM VTON Online - Free Online Access for Virtual Try-Ons
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-idm-vton-online---free-online-access-for-virtual-try-ons.webp" alt="IDM VTON Online - Free Online Access for Virtual Try-Ons">
 
-#### Start growing your X (Twitter) on autopilot today
-[Visit](https://www.thataicollection.com/redirect/qura-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### IDM VTON Online - Free Online Access for Virtual Try-Ons: On our platform, by using IDM VTON, you can enjoy unlimited online virtual try-ons and generate a variety of clothing swap images.
+[Visit](https://www.thataicollection.com/redirect/idm-vton-online---free-online-access-for-virtual-try-ons?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Qura is a comprehensive social media growth toolbox featuring one-click replies tailored to your voice, YouTube video conversion to viral Twitter threads, and automation tools developed from extensive tweet analyses. 
+IDM VTON - Your Gateway to the Future of Fashion
+Discover a new dimension in fashion with IDM VTON. Our technology allows you to try on outfits virtually with incredible realism and detail, thanks to our advanced AI-driven approach.
 
-With a Chrome extension for easy access, it offers a 50% discount for the first 100 users, boasting real, measurable growth within three months. 
+[More Information and Pricing](https://www.thataicollection.com/en/application/idm-vton-online---free-online-access-for-virtual-try-ons?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/qura-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+<br />
+
+
+
+
+### Spicy Pixels
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-spicy-pixels.webp" alt="Spicy Pixels">
+
+#### Convert any flat video to an 8K, 60 FPS, 3D masterpiece for viewing in Virtual Reality and Augmented Reality
+[Visit](https://www.thataicollection.com/redirect/spicy-pixels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SpicyPixels.ai specializes in converting standard 2D videos to 8K, 60 FPS, 3D films which are ready for viewing in VR and AR. Our advanced AI technology is specifically designed to cater to the unique needs of video producers, enabling anyone to convert any 2D video into a stunning 8K, 60 FPS, 3D masterpiece optimized for for VR platforms like Apple Vision Pro and Meta Quest.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/spicy-pixels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### CartoonGen | AI Cartoon Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cartoongen-|-ai-cartoon-generator.webp" alt="CartoonGen | AI Cartoon Generator">
+
+#### CartoonGen | AI Cartoon Generator , creates ai cartton generation for avatar with text or image, pixar style. 
+[Visit](https://www.thataicollection.com/redirect/cartoongen-|-ai-cartoon-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Cartoon Gen creates ai cartton generation for avatar with text or image, pixar style. Generate AI cartoon and make unique cartoon images ai
+
+Key Features:
+● Create your own cartoon avatar with SDXL+ Pix2Pix fine-tuning!
+● Input your text or text + image to bring your character to life!
+● Log in and get 1 FREE cartoon avatar generation!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/cartoongen-|-ai-cartoon-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### NexusGPT
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nexusgpt.webp" alt="NexusGPT">
+
+#### NexusGPT - Build AI agents in minutes, without coding.
+[Visit](https://www.thataicollection.com/redirect/nexusgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+NexusGPT enables anyone to build, finetune, and integrate autonomous AI agents without touching a single line of code.
+
+On Nexus, you can create agents able to perform about any task you can imagine and integrate them where it matters the most for you (from your website all the way to your internal Slack channel).
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/nexusgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -855,6 +856,21 @@ AI Generated Pictures Starring You
 
 ## Chat Bot
 
+### Chatbit
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit">
+
+#### AI Chatbot for your website, trained on your data
+[Visit](https://www.thataicollection.com/redirect/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chatbit is an AI tool that allows users to create customized AI chatbots for their websites. The bots are designed to engage customers, answer their questions, and capture leads.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Fusion Compose
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fusion-compose.webp" alt="Fusion Compose">
 
@@ -866,21 +882,6 @@ API, Claude and Gemini
 Save $20 per month on OpenAI's GPT-4 subscription. Fusion Compose offers a user-friendly chat UI that perfectly integrates with the GPT-4 API, while providing full support for Claude and Gemini.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/fusion-compose?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Chatbit
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit">
-
-#### AI Chatbot for your website, trained on your data
-[Visit](https://www.thataicollection.com/redirect/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chatbit is an AI tool that allows users to create customized AI chatbots for their websites. The bots are designed to engage customers, answer their questions, and capture leads.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1894,6 +1895,22 @@ With Outfit Changer, explore a new era of fashion where trying on any outfit is 
 
 
 
+### IDM VTON Online - Free Online Access for Virtual Try-Ons
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-idm-vton-online---free-online-access-for-virtual-try-ons.webp" alt="IDM VTON Online - Free Online Access for Virtual Try-Ons">
+
+#### IDM VTON Online - Free Online Access for Virtual Try-Ons: On our platform, by using IDM VTON, you can enjoy unlimited online virtual try-ons and generate a variety of clothing swap images.
+[Visit](https://www.thataicollection.com/redirect/idm-vton-online---free-online-access-for-virtual-try-ons?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+IDM VTON - Your Gateway to the Future of Fashion
+Discover a new dimension in fashion with IDM VTON. Our technology allows you to try on outfits virtually with incredible realism and detail, thanks to our advanced AI-driven approach.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/idm-vton-online---free-online-access-for-virtual-try-ons?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 
 [See All 👩‍🎤 Fashion Applications on AI Collection](https://www.thataicollection.com/en/categories/fashion?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -2804,6 +2821,21 @@ Discover the Ultimate AI Logo Generator: Create custom, industry-specific logos 
 Zarla was created to make professional-quality logos available to everyone. Just enter your business name and industry and our logo maker will generate unlimited logo designs for you to choose from. You can edit every aspect of your logo from font, color, icon, and placement, and then download for free when you''re finished!
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/zarla-logo-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI Poster Maker
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-poster-maker.webp" alt="AI Poster Maker">
+
+#### Create Text-to-Poster using the power of AI
+[Visit](https://www.thataicollection.com/redirect/ai-poster-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI Poster Maker is an Easy, Fast, and Affordable tool that helps you to generate posters.  it analyzes design trends, suggests color schemes, and fonts combinations, and creates designs based on your minimal input. Without any barriers, you can unleash your creativity and create stunning visuals. 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-poster-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4943,7 +4975,7 @@ Ask and learn anything to our AI Travel assistant about the cities, countries, l
 
 ---
 
-## Video
+## Video Generation & Editing
 
 ### Colossyan
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-colossyan.webp" alt="Colossyan">
@@ -5059,7 +5091,7 @@ Wisecut is an automatic video editor based on voice recognition. With Wisecut, y
 
 
 
-[See All 🎬 Video Applications on AI Collection](https://www.thataicollection.com/en/categories/video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[See All 🎬 Video Generation & Editing Applications on AI Collection](https://www.thataicollection.com/en/categories/video-generation-and-editing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
 **[⬆ Back to Index](#index)**

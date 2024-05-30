@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1384" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1402" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,27 +53,12 @@
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
     </a>
     <h4>适用于您网站的 AI 聊天机器人，根据您的数据进行训练</h4>
     <p>Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。</p>
-    <a href="https://www.thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fusion-compose.webp" alt="Fusion Compose" border="0"/>
-    </a>
-    <h4>没有 BS 而且很简单
-GPT-4 的聊天界面
-API、克劳德和双子座</h4>
-    <p>订阅 OpenAI 的 GPT-4，每月可节省 20 美元。Fusion Compose 提供用户友好的聊天用户界面，与 GPT-4 API 完美集成，同时为 Claude 和 Gemini 提供了全面支持。</p>
-    <a href="https://www.thataicollection.com/redirect/fusion-compose/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Fusion Compose</b></a>
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
     <br />
 </div>
 
@@ -132,119 +117,135 @@ API、克劳德和双子座</h4>
 - 🇺🇳 [翻译和成绩单](#翻译和成绩单)
 - 🤖💬 [聊天机器人](#聊天机器人)
 - 🌄 [艺术与图像生成器](#艺术与图像生成器)
-- 🎬 [视频](#视频)
+- 🎬 [视频生成和编辑](#视频生成和编辑)
 - 🗳 [评论和建议](#评论和建议)
 - 🎮 [赌博](#赌博)
 - 💰 [销售与市场营销](#销售与市场营销)
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### Unclothy
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unclothy_.webp" alt="Unclothy">
+### Markero
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-markero.webp" alt="Markero">
 
-#### Unclothy 是一款开创性的工具，它利用人工智能技术快速且经济地将图像转换为裸照。
-[Visit](https://www.thataicollection.com/redirect/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 使用 markero 促进营销，吸引更多客户
+[Visit](https://www.thataicollection.com/redirect/markero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-该平台专为易于使用而设计，允许任何人，从人工智能爱好者到休闲用户，只需点击几下即可从图像中移除衣服。使用 Unclothy 潜入一个创造可能性无穷的世界。
-
-该界面易于使用，使您可以轻松浏览和创建高质量的裸照。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
+Markero是一款配备人工智能的多合一营销工具，它使从个人企业家到大公司的所有人都可以使用和轻松地申请先进的营销技巧，从而使先进的营销技巧大众化。该平台通过自动内容创建和线索管理来简化复杂的营销任务，节省时间并支持有效的在线形象的发展。
 
 
-### Pet Shots AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-shots-ai.webp" alt="Pet Shots AI">
-
-#### 使用 Petshotsai 的图像生成器将真实的宠物照片变成神奇的场景
-[Visit](https://www.thataicollection.com/redirect/pet-shots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 Petshotsai.com 释放宠物的想象力！上传您宠物的照片，让我们的高级人工智能将它们转换为异想天开或艺术的图像。从童话冒险到太空探索，在你从未想象过的场景中见到你的毛茸茸的朋友！使用 AI Magic 将宠物的个性变为现实！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pet-shots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/markero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### FastBots.ai
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fastbots.ai.webp" alt="FastBots.ai">
+### X Headshot
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-x-headshot.webp" alt="X Headshot">
 
-#### FastBots.ai：通往智能自动化的门户
-[Visit](https://www.thataicollection.com/redirect/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### X Headshot 是一款 AI 头像生成器，可将你的自拍照变成专业的 AI 头像。 
+[Visit](https://www.thataicollection.com/redirect/x-headshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-使用我们的人工智能聊天机器人实现客户服务自动化，让您的团队可以自由地专注于他们最擅长的事情。使用 FastBots.ai 提高效率并增强客户互动。
+借助我们的头像，您可以建立信任和信誉，给人留下深刻的第一印象，提升您的在线形象，并凭借自己的个人品牌脱颖而出。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+所有照片均包含 10 多种不同的风格、40 多张高清头像以及 7 天退款保证。 
 
-<br />
+只需上传您的照片，让我们的人工智能在几分钟内为自己创建精美的头像。无需注册账户。
 
-<br />
-
-
-### Synthesys AI Studio
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-synthesys-ai-studio.webp" alt="Synthesys AI Studio">
-
-#### Synthesys AI Studio | 大规模解锁生成式 AI 内容 
-[Visit](https://www.thataicollection.com/redirect/synthesys-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 Synthesys AI Studio 的语音、视频和图像生成器探索人工智能的力量。提升您的内容创作，立即免费试用我们的工具！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/synthesys-ai-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/x-headshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### WriteText.ai for Magento
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writetext.ai-for-magento.webp" alt="WriteText.ai for Magento">
+### WotNot
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wotnot.webp" alt="WotNot">
 
-#### WriteText.ai for Magento 是一款人工智能工具，可在您的后端自动生成元标题、描述、产品文本、Open Graph 文本和图片替代文本。
-[Visit](https://www.thataicollection.com/redirect/writetext.ai-for-magento?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 一个强大的无代码聊天机器人平台，旨在自动化和优化各种规模企业的客户互动。
+[Visit](https://www.thataicollection.com/redirect/wotnot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-WriteText.ai 是一个 Magento 扩展程序，它使用 AI 自动生成产品描述、元标题和文本。功能包括庞大的电子商务连接、自定义、关键字分析、SEO重点、内容管理和多语言支持。
+WotNot是一款用户友好的无代码机器人生成器和一系列集成选项，可确保企业无需大量技术知识即可部署有效的沟通策略。
 
-免责声明：WriteText.ai 是一款专为与 Magento 配合使用而开发的独立工具。它与 Magento 无关联或认可。
+特点：- 
+
+1) 无代码机器人生成器
+2) 白色标签
+3) 潜在客户的产生
+4) 多平台互动
+5) 无限的可扩展性
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/wotnot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/writetext.ai-for-magento?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+### IDM VTON Online - Free Online Access for Virtual Try-Ons
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-idm-vton-online---free-online-access-for-virtual-try-ons.webp" alt="IDM VTON Online - Free Online Access for Virtual Try-Ons">
+
+#### IDM VTON Online-免费在线试穿体验：在我们的平台上，使用IDM VTON，您可以享受无限制的在线虚拟试穿并生成各种服装交换图片。
+[Visit](https://www.thataicollection.com/redirect/idm-vton-online---free-online-access-for-virtual-try-ons?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+IDM VTON-您通往时尚未来的门户
+使用 IDM VTON 探索时尚的新维度。得益于我们先进的人工智能驱动方法，我们的技术使您可以虚拟试穿具有令人难以置信的真实感和细节的服装。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/idm-vton-online---free-online-access-for-virtual-try-ons?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Spicy Pixels
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-spicy-pixels.webp" alt="Spicy Pixels">
+
+#### 将任何平面视频转换为 8K、60 FPS、3D 杰作，以便在虚拟现实和增强现实中观看
+[Visit](https://www.thataicollection.com/redirect/spicy-pixels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SpicyPixels.ai 专门将标准 2D 视频转换为 8K、60 FPS、3D 电影，这些电影随时可以在虚拟现实和增强现实中观看。我们先进的人工智能技术专为满足视频制作人的独特需求而设计，使任何人都可以将任何 2D 视频转换为精美的 8K、60 FPS、3D 杰作，针对 Apple Vision Pro 和 Meta Quest 等虚拟现实平台进行了优化。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/spicy-pixels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Language Atlas
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-language-atlas.webp" alt="Language Atlas">
+### CartoonGen | AI Cartoon Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cartoongen-|-ai-cartoon-generator.webp" alt="CartoonGen | AI Cartoon Generator">
 
-#### 语言地图集-使用 AI 学习语言
-[Visit](https://www.thataicollection.com/redirect/language-atlas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### CartoonGen | AI 卡通生成器，为皮克斯风格的文字或图像的头像创建 AI 卡通生成。 
+[Visit](https://www.thataicollection.com/redirect/cartoongen-|-ai-cartoon-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Language Atlas 是一个免费增值平台，人们可以在其中通过 AI 学习语言。用户可以免费注册并获得法语/西班牙语初学者级别的权限。支付后，所有级别都可用。Language Atlas 有课程、测验和抽认卡。抽认卡上有图像、音频、IPA 符号。这些抽认卡还可以根据你的表现进行调整。你也可以创建自己的抽认卡。
+Cartoon Gen 使用皮克斯风格的文字或图像为头像创建 AI 卡通图案生成。生成 AI 卡通并制作独特的卡通图像 ai
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/language-atlas?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+主要特点：
+● 使用 SDXL+ Pix2Pix 微调创建自己的卡通头像！
+● 输入你的文字或文字 + 图片，让你的角色活起来！
+● 登录即可获得 1 个免费卡通头像生成！
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/cartoongen-|-ai-cartoon-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Qura AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-qura-ai.webp" alt="Qura AI">
+### NexusGPT
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nexusgpt.webp" alt="NexusGPT">
 
-#### 立即开始在自动驾驶仪上发展你的 X（Twitter）
-[Visit](https://www.thataicollection.com/redirect/qura-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### NexusGPT-在几分钟内构建 AI 代理，无需编码。
+[Visit](https://www.thataicollection.com/redirect/nexusgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Qura 是一个全面的社交媒体增长工具箱，具有根据您的声音量身定制的一键回复、YouTube 视频转换为病毒式 Twitter 话题以及根据大量推文分析开发的自动化工具。 
+NexusGPT 使任何人都可以在不触摸任何代码的情况下构建、微调和集成自主人工智能代理。
 
-借助易于访问的Chrome扩展程序，它为前100名用户提供50％的折扣，并在三个月内实现了真正可衡量的增长。 
+在 Nexus 上，你可以创建能够执行你能想象的任何任务的代理，并将它们集成到对你最重要的地方（从你的网站一直到你的内部 Slack 频道）。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/qura-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nexusgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -849,6 +850,21 @@ AI 生成您主演的图片
 
 ## 聊天机器人
 
+### Chatbit
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit">
+
+#### 适用于您网站的 AI 聊天机器人，根据您的数据进行训练
+[Visit](https://www.thataicollection.com/redirect/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Fusion Compose
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fusion-compose.webp" alt="Fusion Compose">
 
@@ -860,21 +876,6 @@ API、克劳德和双子座
 订阅 OpenAI 的 GPT-4，每月可节省 20 美元。Fusion Compose 提供用户友好的聊天用户界面，与 GPT-4 API 完美集成，同时为 Claude 和 Gemini 提供了全面支持。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fusion-compose?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Chatbit
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit">
-
-#### 适用于您网站的 AI 聊天机器人，根据您的数据进行训练
-[Visit](https://www.thataicollection.com/redirect/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1888,6 +1889,22 @@ SwaGai-人工智能在T恤上生成了图像。
 <br />
 
 
+### IDM VTON Online - Free Online Access for Virtual Try-Ons
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-idm-vton-online---free-online-access-for-virtual-try-ons.webp" alt="IDM VTON Online - Free Online Access for Virtual Try-Ons">
+
+#### IDM VTON Online-免费在线试穿体验：在我们的平台上，使用IDM VTON，您可以享受无限制的在线虚拟试穿并生成各种服装交换图片。
+[Visit](https://www.thataicollection.com/redirect/idm-vton-online---free-online-access-for-virtual-try-ons?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+IDM VTON-您通往时尚未来的门户
+使用 IDM VTON 探索时尚的新维度。得益于我们先进的人工智能驱动方法，我们的技术使您可以虚拟试穿具有令人难以置信的真实感和细节的服装。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/idm-vton-online---free-online-access-for-virtual-try-ons?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 
 [See All 👩‍🎤 时尚 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/fashion?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
@@ -2798,6 +2815,21 @@ Spellbook 使用 GPT-3 在 Microsoft Word 中为您的合同审查和建议语�
 Zarla 的创建是为了向所有人提供专业品质的徽标。只需输入您的公司名称和行业，我们的徽标制作器就会生成无限的徽标设计供您选择。你可以编辑徽标的各个方面，包括字体、颜色、图标和位置，然后在完成后免费下载！
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/zarla-logo-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### AI Poster Maker
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-poster-maker.webp" alt="AI Poster Maker">
+
+#### 利用 AI 的力量创建文字转海报
+[Visit](https://www.thataicollection.com/redirect/ai-poster-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI Poster Maker 是一款简单、快速且经济实惠的工具，可帮助您生成海报。它分析设计趋势，建议配色方案和字体组合，并根据您的最少输入创建设计。没有任何障碍，你可以释放你的创造力，创造出令人惊叹的视觉效果。 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-poster-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4937,7 +4969,7 @@ BeachAtlas.com是一本海滩百科全书。利用人工智能，beachatlas.com�
 
 ---
 
-## 视频
+## 视频生成和编辑
 
 ### Colossyan
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-colossyan.webp" alt="Colossyan">
@@ -5053,7 +5085,7 @@ Wisecut是一款基于语音识别的自动视频编辑器。使用 Wisecut，�
 
 
 
-[See All 🎬 视频 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[See All 🎬 视频生成和编辑 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/video-generation-and-editing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
 **[⬆ 返回索引](#index)**
