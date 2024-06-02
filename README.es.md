@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1402" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1408" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -124,128 +124,106 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 😎 [Avatares](#avatares)
 ## Latest Additions to AI Collection
 
-### Markero
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-markero.webp" alt="Markero">
+### Rainforest QA
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rainforest-qa.webp" alt="Rainforest QA">
 
-#### Impulsa tu marketing con markero para más clientes
-[Visit](https://www.thataicollection.com/redirect/markero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Automatización de pruebas sin problemas para los equipos de SaaS que quieren hacer envíos rápidos
+[Visit](https://www.thataicollection.com/redirect/rainforest-qa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Markero, una herramienta de marketing integral equipada con inteligencia artificial, democratiza las técnicas de marketing avanzadas al hacerlas accesibles y fáciles de aplicar para todo el mundo, desde emprendedores en solitario hasta grandes corporaciones. La plataforma simplifica las complejas tareas de marketing al automatizar la creación de contenido y la gestión de clientes potenciales, lo que ahorra tiempo y apoya el desarrollo de una presencia en Internet eficaz.
+Rainforest QA es una plataforma de automatización de pruebas impulsada por la IA para empresas de SaaS. Con su interfaz intuitiva basada en la web, cualquiera puede crear rápidamente pruebas automatizadas y que se actualizan automáticamente con instrucciones sencillas y en inglés sencillo. Rainforest incluye todo lo que necesitas para crear pruebas de extremo a extremo, realizarlas de forma masiva en paralelo y obtener resultados detallados.
 
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/markero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### X Headshot
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-x-headshot.webp" alt="X Headshot">
-
-#### X Headshot es un generador de disparos a la cabeza de IA que convierte tus selfies en fotos profesionales de IA a la cabeza. 
-[Visit](https://www.thataicollection.com/redirect/x-headshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Con nuestras fotos, puedes generar confianza y credibilidad, causar una primera impresión impactante, aumentar tu presencia en Internet y destacar con tu marca personal.
-
-Todas las sesiones de fotos incluyen más de 10 estilos diferentes, más de 40 fotos de cabeza en alta definición y una garantía de devolución del dinero de 7 días. 
-
-Simplemente sube tus fotos y deja que nuestra IA cree impresionantes fotos de ti mismo en cuestión de minutos. No es necesario registrar la cuenta.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/x-headshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/rainforest-qa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### WotNot
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wotnot.webp" alt="WotNot">
+### PDF Summarizer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pdf-summarizer.webp" alt="PDF Summarizer">
 
-#### Una potente plataforma de chatbots sin código diseñada para automatizar y optimizar las interacciones con los clientes en empresas de todos los tamaños.
-[Visit](https://www.thataicollection.com/redirect/wotnot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Resumen de PDF: resume cualquier PDF en segundos
+[Visit](https://www.thataicollection.com/redirect/pdf-summarizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-WoTnot, un creador de bots sin código fácil de usar y con una gama de opciones de integración, garantiza que las empresas puedan implementar estrategias de comunicación eficaces sin necesidad de conocimientos técnicos amplios.
+Deja de perder tiempo leyendo miles de páginas. PDF Summarizer puede resumir documentos largos, libros, contratos y más en segundos. Simplemente sube un PDF para obtener resúmenes, esquemas o guías de estudio detallados y de alta calidad. 
 
-Características: - 
 
-1) Creador de bots sin código
-2) Etiqueta blanca
-3) Generación de leads
-4) Participación multiplataforma
-5) Escalabilidad ilimitada
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/wotnot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/pdf-summarizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### IDM VTON Online - Free Online Access for Virtual Try-Ons
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-idm-vton-online---free-online-access-for-virtual-try-ons.webp" alt="IDM VTON Online - Free Online Access for Virtual Try-Ons">
+### lingly
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lingly.webp" alt="lingly">
 
-#### IDM VTON Online: acceso gratuito en línea para pruebas virtuales: en nuestra plataforma, con IDM VTON, puedes disfrutar de pruebas virtuales ilimitadas en línea y generar una variedad de imágenes de intercambio de ropa.
-[Visit](https://www.thataicollection.com/redirect/idm-vton-online---free-online-access-for-virtual-try-ons?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### lingly.ai - Libera tu potencial lingüístico
+[Visit](https://www.thataicollection.com/redirect/lingly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-IDM VTON: Tu puerta de entrada al futuro de la moda
-Descubre una nueva dimensión de la moda con IDM VTON. Nuestra tecnología te permite probarte atuendos prácticamente con un realismo y un detalle increíbles, gracias a nuestro enfoque avanzado basado en la IA.
+Lingly es la plataforma personalizada de aprendizaje de idiomas impulsada por la IA. Lo utilizan profesionales de carrera e inmigrantes de todo el mundo. 
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/idm-vton-online---free-online-access-for-virtual-try-ons?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Spicy Pixels
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-spicy-pixels.webp" alt="Spicy Pixels">
-
-#### Convierte cualquier vídeo plano en una obra maestra 3D de 8K, 60 FPS para verlo en realidad virtual y realidad aumentada
-[Visit](https://www.thataicollection.com/redirect/spicy-pixels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SpicyPixels.ai se especializa en convertir vídeos 2D estándar en películas 3D de 8K, 60 FPS y listas para su visualización en realidad virtual y realidad aumentada. Nuestra avanzada tecnología de IA está diseñada específicamente para satisfacer las necesidades únicas de los productores de vídeo, ya que permite a cualquiera convertir cualquier vídeo 2D en una impresionante obra maestra 3D de 8K, 60 FPS y optimizada para plataformas de realidad virtual como Apple Vision Pro y Meta Quest.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/spicy-pixels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/lingly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### CartoonGen | AI Cartoon Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cartoongen-|-ai-cartoon-generator.webp" alt="CartoonGen | AI Cartoon Generator">
+### Nude AI - Image Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nude-ai---image-generator.webp" alt="Nude AI - Image Generator">
 
-#### CartoOnGen | Generador de dibujos animados con IA, crea una generación de dibujos animados con IA para avatares con texto o imagen, al estilo Pixar. 
-[Visit](https://www.thataicollection.com/redirect/cartoongen-|-ai-cartoon-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Viste y desviste a cualquiera, estéticamente
+[Visit](https://www.thataicollection.com/redirect/nude-ai---image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Cartoon Gen crea una generación de dibujos animados con IA para avatares con texto o imagen, al estilo Pixar. Genera dibujos animados de IA y crea imágenes de dibujos animados únicas AI
+La IA desnuda es una herramienta innovadora que mejora una amplia gama de aplicaciones creativas y profesionales. Ya se trate de mejorar las listas de productos en el comercio electrónico, enriquecer la narración visual en el entretenimiento y los juegos, mejorar las técnicas de edición de fotografías o ampliar los límites del arte digital y el diseño de moda, Nude AI ofrece numerosos beneficios. 
 
-Características principales:
-● ¡Crea tu propio avatar de dibujos animados con el ajuste fino de Pix2Pix para SDXL+!
-● Introduce tu texto o texto o imagen para dar vida a tu personaje.
-● ¡Inicia sesión y consigue 1 generación de avatares de dibujos animados GRATIS!
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/cartoongen-|-ai-cartoon-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/nude-ai---image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### NexusGPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nexusgpt.webp" alt="NexusGPT">
+### GirlfriendGPT
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriendgpt.webp" alt="GirlfriendGPT">
 
-#### NexusGPT: crea agentes de IA en cuestión de minutos, sin necesidad de programar.
-[Visit](https://www.thataicollection.com/redirect/nexusgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Sumérgete en los chats de IA y crea personajes únicos
+[Visit](https://www.thataicollection.com/redirect/girlfriendgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-NexusGPT permite a cualquiera crear, ajustar e integrar agentes de IA autónomos sin tocar ni una línea de código.
+Girlfriend GPT es una plataforma que permite a los usuarios sumergirse en chats inmersivos de IA y crear personajes de IA únicos. Con más de 7500 personajes de IA disponibles, los usuarios pueden explorar una variedad de personajes, desde dominantes hasta sumisos y más. La plataforma ofrece chats sin filtros las 24 horas del día, los 7 días de la semana, lo que permite explorar y disfrutar
 
-En Nexus, puedes crear agentes capaces de realizar cualquier tarea que te imagines e integrarlos donde más te importe (desde tu sitio web hasta tu canal interno de Slack).
+[More Information and Pricing](https://www.thataicollection.com/es/application/girlfriendgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
 
 
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/nexusgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+### AI Business Blueprint
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-business-blueprint_.webp" alt="AI Business Blueprint">
+
+#### Tu puerta de entrada a los ingresos empresariales en línea con la IA
+[Visit](https://www.thataicollection.com/redirect/ai-business-blueprint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Para los aspirantes a emprendedores atrapados en la rutina diaria y que anhelan la libertad financiera, bestonline.business ofrece una propuesta convincente. Esta plataforma promete guiar a los usuarios hacia el éxito empresarial en Internet mediante estrategias impulsadas por la IA, y ofrece una formación gratuita que pretende desbloquear un potencial de ingresos en Internet de más de 10 000 dólares. He aquí una reseña detallada de lo que puedes esperar de este servicio.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/ai-business-blueprint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### DEEPBRAIN AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deepbrain-ai.webp" alt="DEEPBRAIN AI">
+
+#### DeepBrain AI: el mejor generador de vídeos de IA a partir de texto
+[Visit](https://www.thataicollection.com/redirect/deepbrain-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Crea vídeos generados por IA rápidamente con texto sencillo. Increíble generador de películas con IA compatible con varios idiomas. Avatares de IA realistas, conversión de texto a voz natural y potentes funciones de creación de vídeos con IA, todo en una sola plataforma. Acelera tus proyectos de vídeo a escala con la conversión de texto a vídeo basada en la IA.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/deepbrain-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3110,22 +3088,6 @@ Undress Pro AI: Haz realidad tu fantasía sobre ella al instante con un intercam
 
 
 
-### PornGen
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
-
-#### PornGen es una plataforma avanzada impulsada por la IA que permite a los usuarios crear imágenes NSFW de alta calidad, realistas y detalladas. 
-[Visit](https://www.thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PornGen es una plataforma impulsada por la IA que se especializa en crear contenido para adultos mediante técnicas avanzadas de generación de imágenes. Produce imágenes NSFW que se adaptan a una amplia gama de preferencias de los usuarios. Los usuarios interactúan con PornGen proporcionando indicaciones textuales o seleccionando etiquetas específicas que describan el resultado deseado, como el tipo de cuerpo, las acciones o el estilo de ropa.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Unclothy
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unclothy_.webp" alt="Unclothy">
 
@@ -3143,34 +3105,16 @@ La interfaz es fácil de usar, lo que facilita la navegación y la creación de 
 
 
 
-### Undress AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress-ai.webp" alt="Undress AI">
+### PornGen
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
 
-####  Undress AI es un nuevo editor online gratuito. Al emplear técnicas sofisticadas de aprendizaje automático, Undress AI permite a los usuarios generar o ajustar imágenes de desnudos con un realismo y una precisión notables.
-[Visit](https://www.thataicollection.com/redirect/undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### PornGen es una plataforma avanzada impulsada por la IA que permite a los usuarios crear imágenes NSFW de alta calidad, realistas y detalladas. 
+[Visit](https://www.thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-En esencia, Undress AI sirve como plataforma para crear representaciones realistas de figuras humanas, todo ello sin necesidad de modelos vivos ni fotografías tradicionales. 
-
-La versatilidad de Undress AI se extiende a multitud de sectores y disciplinas. En el ámbito de la expresión artística, proporciona a los artistas e ilustradores digitales una herramienta inestimable.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+PornGen es una plataforma impulsada por la IA que se especializa en crear contenido para adultos mediante técnicas avanzadas de generación de imágenes. Produce imágenes NSFW que se adaptan a una amplia gama de preferencias de los usuarios. Los usuarios interactúan con PornGen proporcionando indicaciones textuales o seleccionando etiquetas específicas que describan el resultado deseado, como el tipo de cuerpo, las acciones o el estilo de ropa.
 
 
-
-
-### Nudify AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify-ai.webp" alt="Nudify AI">
-
-#### Cámbiate o quítate la ropa de cualquier imagen con nuestro vanguardista nudificador de imágenes con IA en línea gratuito.
-[Visit](https://www.thataicollection.com/redirect/nudify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nudify.biz está a la vanguardia de la tecnología de generación de imágenes y cuenta con salidas de hiperresolución de hasta 1024 píxeles. Esta función está diseñada para ofrecer a los usuarios imágenes muy detalladas y realistas, lo que aumenta la autenticidad de las fotos alteradas digitalmente.
-
-Nudify.biz admite varios métodos de pago, incluidas las principales tarjetas de crédito, PayPal, Stripe, Apple Pay, Google Pay y las criptomonedas. 
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/nudify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3201,6 +3145,37 @@ Tu plataforma online de chatbots de IA para juegos de rol. Interactúa con diver
 ¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Undressbaby AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undressbaby-ai.webp" alt="Undressbaby AI">
+
+#### La IA de Undressbaby ofrece probaciones de ropa virtuales de última generación impulsadas por la IA, simulaciones de desnudez e intercambios de rostros por fotos y vídeos, lo que proporciona a los usuarios una experiencia de moda divertida e interactiva
+[Visit](https://www.thataicollection.com/redirect/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+En Undressbaby AI, ofrecemos Grey's Secret Room, un servicio distintivo impulsado por una tecnología de IA generativa de vanguardia. Desarrollado por Stable Diffusion, este sistema avanzado es competente en la creación de imágenes realistas y muy detalladas. Nuestra nueva función de intercambio de rostros no solo cumple con las exigencias de intercambio de rostros tanto en vídeo como en foto, sino que también permite a los usuarios cambiar rostros sin problemas por cuerpos diversos.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### NEWFACEPORN
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newfaceporn_.webp" alt="NEWFACEPORN">
+
+#### La mejor herramienta porno de intercambio de caras con IA: genera vídeos porno realistas de Deepfake
+[Visit](https://www.thataicollection.com/redirect/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Imagina ver a tu amiga del trabajo desnuda siendo implosionada en un vídeo porno realista, bueno, ahora puedes lograr este sueño cambiándole la cara a cualquier personaje y convirtiéndolo en un increíble vídeo porno
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

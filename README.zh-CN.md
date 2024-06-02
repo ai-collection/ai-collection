@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1402" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1408" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -124,128 +124,106 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### Markero
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-markero.webp" alt="Markero">
+### Rainforest QA
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rainforest-qa.webp" alt="Rainforest QA">
 
-#### 使用 markero 促进营销，吸引更多客户
-[Visit](https://www.thataicollection.com/redirect/markero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 为想要快速交付的 SaaS 团队提供无忧的测试自动化
+[Visit](https://www.thataicollection.com/redirect/rainforest-qa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Markero是一款配备人工智能的多合一营销工具，它使从个人企业家到大公司的所有人都可以使用和轻松地申请先进的营销技巧，从而使先进的营销技巧大众化。该平台通过自动内容创建和线索管理来简化复杂的营销任务，节省时间并支持有效的在线形象的发展。
+Rainforest QA 是面向 SaaS 公司的 AI 驱动的测试自动化平台。凭借其直观的基于 Web 的界面，任何人都可以使用简单、通俗易懂的英语提示快速创建自动、自更新的测试。Rainforest 包含创建端到端测试、大规模并行运行测试以及获得详细结果所需的一切。
 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/markero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### X Headshot
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-x-headshot.webp" alt="X Headshot">
-
-#### X Headshot 是一款 AI 头像生成器，可将你的自拍照变成专业的 AI 头像。 
-[Visit](https://www.thataicollection.com/redirect/x-headshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-借助我们的头像，您可以建立信任和信誉，给人留下深刻的第一印象，提升您的在线形象，并凭借自己的个人品牌脱颖而出。
-
-所有照片均包含 10 多种不同的风格、40 多张高清头像以及 7 天退款保证。 
-
-只需上传您的照片，让我们的人工智能在几分钟内为自己创建精美的头像。无需注册账户。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/x-headshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/rainforest-qa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### WotNot
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wotnot.webp" alt="WotNot">
+### PDF Summarizer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pdf-summarizer.webp" alt="PDF Summarizer">
 
-#### 一个强大的无代码聊天机器人平台，旨在自动化和优化各种规模企业的客户互动。
-[Visit](https://www.thataicollection.com/redirect/wotnot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### PDF 摘要器-在几秒钟内汇总任何 PDF
+[Visit](https://www.thataicollection.com/redirect/pdf-summarizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-WotNot是一款用户友好的无代码机器人生成器和一系列集成选项，可确保企业无需大量技术知识即可部署有效的沟通策略。
+别再浪费时间阅读数千页了。PDF 摘要器可以在几秒钟内汇总长文档、书籍、合同等。只需上传 PDF 即可获得详细、高质量的摘要、大纲或学习指南。 
 
-特点：- 
 
-1) 无代码机器人生成器
-2) 白色标签
-3) 潜在客户的产生
-4) 多平台互动
-5) 无限的可扩展性
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/wotnot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pdf-summarizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### IDM VTON Online - Free Online Access for Virtual Try-Ons
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-idm-vton-online---free-online-access-for-virtual-try-ons.webp" alt="IDM VTON Online - Free Online Access for Virtual Try-Ons">
+### lingly
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lingly.webp" alt="lingly">
 
-#### IDM VTON Online-免费在线试穿体验：在我们的平台上，使用IDM VTON，您可以享受无限制的在线虚拟试穿并生成各种服装交换图片。
-[Visit](https://www.thataicollection.com/redirect/idm-vton-online---free-online-access-for-virtual-try-ons?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### lingly.ai-释放你的语言潜力
+[Visit](https://www.thataicollection.com/redirect/lingly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-IDM VTON-您通往时尚未来的门户
-使用 IDM VTON 探索时尚的新维度。得益于我们先进的人工智能驱动方法，我们的技术使您可以虚拟试穿具有令人难以置信的真实感和细节的服装。
+Lingly 是由 AI 提供支持的个性化语言学习平台。它被世界各地的职业专业人士和移民使用。 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/idm-vton-online---free-online-access-for-virtual-try-ons?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/lingly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Nude AI - Image Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nude-ai---image-generator.webp" alt="Nude AI - Image Generator">
+
+#### 美观地说，任何人都可以穿衣服和脱衣服
+[Visit](https://www.thataicollection.com/redirect/nude-ai---image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nude AI 是一款开创性的工具，可增强各种创意和专业应用程序。无论是改善电子商务中的产品清单，丰富娱乐和游戏中的视觉故事讲述，推进照片编辑技术，还是突破数字艺术和时装设计的界限，Nude AI都提供了许多好处。 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nude-ai---image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Spicy Pixels
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-spicy-pixels.webp" alt="Spicy Pixels">
+### GirlfriendGPT
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriendgpt.webp" alt="GirlfriendGPT">
 
-#### 将任何平面视频转换为 8K、60 FPS、3D 杰作，以便在虚拟现实和增强现实中观看
-[Visit](https://www.thataicollection.com/redirect/spicy-pixels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 让自己沉浸在 AI 聊天中，创建独特的角色
+[Visit](https://www.thataicollection.com/redirect/girlfriendgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-SpicyPixels.ai 专门将标准 2D 视频转换为 8K、60 FPS、3D 电影，这些电影随时可以在虚拟现实和增强现实中观看。我们先进的人工智能技术专为满足视频制作人的独特需求而设计，使任何人都可以将任何 2D 视频转换为精美的 8K、60 FPS、3D 杰作，针对 Apple Vision Pro 和 Meta Quest 等虚拟现实平台进行了优化。
+Girlfriend GPT是一个允许用户沉浸式AI聊天并创建独特的人工智能角色的平台。有超过 7500 个 AI 角色可供选择，用户可以探索各种角色，从占主导地位到顺从等等。该平台提供全天候无过滤聊天，允许无限探索和享受。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/spicy-pixels?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/girlfriendgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
 
 <br />
 
 
+### AI Business Blueprint
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-business-blueprint_.webp" alt="AI Business Blueprint">
 
+#### 借助 AI 实现在线业务收入的门户
+[Visit](https://www.thataicollection.com/redirect/ai-business-blueprint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-### CartoonGen | AI Cartoon Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cartoongen-|-ai-cartoon-generator.webp" alt="CartoonGen | AI Cartoon Generator">
+对于陷入日常困境和渴望财务自由的有抱负的企业家来说，bestonline.business提供了一个引人注目的主张。该平台承诺指导用户使用人工智能驱动的策略实现在线业务成功，并提供免费培训，声称可以解锁超过1万美元的在线收入潜力。以下是您对这项服务的期望的详细回顾。
 
-#### CartoonGen | AI 卡通生成器，为皮克斯风格的文字或图像的头像创建 AI 卡通生成。 
-[Visit](https://www.thataicollection.com/redirect/cartoongen-|-ai-cartoon-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-business-blueprint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Cartoon Gen 使用皮克斯风格的文字或图像为头像创建 AI 卡通图案生成。生成 AI 卡通并制作独特的卡通图像 ai
-
-主要特点：
-● 使用 SDXL+ Pix2Pix 微调创建自己的卡通头像！
-● 输入你的文字或文字 + 图片，让你的角色活起来！
-● 登录即可获得 1 个免费卡通头像生成！
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/cartoongen-|-ai-cartoon-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+<br />
 
 <br />
 
 
+### DEEPBRAIN AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deepbrain-ai.webp" alt="DEEPBRAIN AI">
 
+#### DeepBrain AI-来自文本的最佳 AI 视频生成器
+[Visit](https://www.thataicollection.com/redirect/deepbrain-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-### NexusGPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nexusgpt.webp" alt="NexusGPT">
+使用简单文本快速创建 AI 生成的视频。神奇的多语言支持的人工智能电影生成器。逼真的 AI 头像、自然的文字转语音和强大的 AI 视频创作功能全部集中在一个平台上。借助 AI 驱动的文本转视频，大规模加速您的视频项目。
 
-#### NexusGPT-在几分钟内构建 AI 代理，无需编码。
-[Visit](https://www.thataicollection.com/redirect/nexusgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-NexusGPT 使任何人都可以在不触摸任何代码的情况下构建、微调和集成自主人工智能代理。
-
-在 Nexus 上，你可以创建能够执行你能想象的任何任务的代理，并将它们集成到对你最重要的地方（从你的网站一直到你的内部 Slack 频道）。
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nexusgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/deepbrain-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3111,22 +3089,6 @@ Undress Pro AI-通过人工智能驱动的脸部交换或将她的图像转换�
 <br />
 
 
-### PornGen
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
-
-#### PornGen是一个先进的人工智能平台，允许用户创建高质量、逼真和详细的NSFW图像。 
-[Visit](https://www.thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PornGen是一个人工智能驱动的平台，专门通过先进的图像生成技术创建成人内容。它生成的NSFW图像可满足各种用户偏好。用户通过提供文字提示或选择描述其预期结果的特定标签（例如身体类型、行为或服装风格）来与PornGen互动。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### Unclothy
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unclothy_.webp" alt="Unclothy">
 
@@ -3144,34 +3106,16 @@ PornGen是一个人工智能驱动的平台，专门通过先进的图像生成�
 <br />
 
 
-### Undress AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress-ai.webp" alt="Undress AI">
+### PornGen
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
 
-####  Undress AI 是一款全新的免费在线编辑器。通过采用复杂的机器学习技术，Undress AI使用户能够以非凡的真实感和精度生成或调整裸照。
-[Visit](https://www.thataicollection.com/redirect/undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### PornGen是一个先进的人工智能平台，允许用户创建高质量、逼真和详细的NSFW图像。 
+[Visit](https://www.thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Undress AI的核心是创建逼真的人物描绘的平台，所有这些都无需真人模型或传统摄影。 
-
-Undress AI 的多功能性涵盖了多个行业和学科。在艺术表现领域，它为数字艺术家和插画家提供了宝贵的工具。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
+PornGen是一个人工智能驱动的平台，专门通过先进的图像生成技术创建成人内容。它生成的NSFW图像可满足各种用户偏好。用户通过提供文字提示或选择描述其预期结果的特定标签（例如身体类型、行为或服装风格）来与PornGen互动。
 
 
-### Nudify AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify-ai.webp" alt="Nudify AI">
-
-#### 使用我们尖端的免费在线 AI Image Nudifier 更换或移除任何图像上的衣服。
-[Visit](https://www.thataicollection.com/redirect/nudify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nudify.biz处于图像生成技术的最前沿，拥有高达1024像素的超分辨率输出。此功能旨在为用户提供高度详细和逼真的图像，从而提高经过数码修改的照片的真实性。
-
-Nudify.biz支持多种付款方式，包括主要的信用卡、PayPal、Stripe、Apple Pay、谷歌支付和加密货币。 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nudify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3202,6 +3146,37 @@ Nudify.biz支持多种付款方式，包括主要的信用卡、PayPal、Stripe�
 最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Undressbaby AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undressbaby-ai.webp" alt="Undressbaby AI">
+
+#### Undressbaby AI 提供基于人工智能的尖端虚拟服装试穿、脱衣模拟以及照片和视频的面部交换，为用户提供有趣的互动时尚体验
+[Visit](https://www.thataicollection.com/redirect/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在Undressbaby AI，我们提供 Grey's Secret Room，这是一项由尖端生成人工智能技术驱动的独特服务。这个先进的系统由 Stable Diffusion 提供支持，精通制作高度细节和逼真的图像。我们新的面部交换功能不仅可以满足视频和照片人脸交换的需求，还允许用户将脸部无缝地交换到不同的身体上。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### NEWFACEPORN
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newfaceporn_.webp" alt="NEWFACEPORN">
+
+#### 最好的AI Faceswap色情工具-生成逼真的Deepfake色情视频
+[Visit](https://www.thataicollection.com/redirect/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+想象一下，在逼真的色情视频中看到你的工作朋友赤身裸体被摧毁，好吧，现在你可以通过交换任何角色并将其变成精彩的色情视频来实现这个梦想
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
