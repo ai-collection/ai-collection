@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1408" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1413" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -613,6 +613,7 @@
 |---|---|---|:---:|
 | [AI Answers by Cohere](https://www.thataicollection.com/redirect/ai-answers-by-cohere?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 用于客户支持的对话式 AI 平台 - Cohere. | AI 驱动的支持帮助，可从以前的工单中找到答案. | :grey_question: |
 | [Bahasa](https://www.thataicollection.com/redirect/bahasa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bahasa.ai - 全面服务客户的聊天机器人. | 自动化可帮助您的企业快速为数百万满意的客户提供服务——由专为印度尼西亚语构建的 AI 提供支持。. | :grey_question: |
+| [Chat Data](https://www.thataicollection.com/redirect/chat-data?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 全天候自定义 AI 聊天机器人加上实时聊天升级. | Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。. | :white_check_mark: |
 | [ChatFlow](https://www.thataicollection.com/redirect/chatflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 为您的网站解锁 ChatGPT 的强大功能. | 创建基于人工智能的聊天机器人，以吸引客户，提高转化率并增加收入。非常适合 SaaS、电子商务或任何在线业务。. | :white_check_mark: |
 | [ChatGenius](https://www.thataicollection.com/redirect/chatgenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGenius - 释放多语言交流的力量. | ChatGenius 是一家软件公司，提供由 GPT-4 和 ChatGPT 提供支持的强大的人工智能聊天机器人解决方案。我们的聊天机器人提供超过 110 种语言的 24/7 全天候支持，并且可以无缝集成到您的网站或平台中. | :white_check_mark: |
 | [ChatHelp AI](https://www.thataicollection.com/redirect/chathelp-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatHelp.ai-人工智能驱动的商务、工作、学习助手和网站聊天小工具。. | 👉 与私人人工智能知识库聊天-让人工智能助手提高日常工作效率，他对你的业务和竞争对手、你的工作或学习了如指掌...  👉 节省客户支持的时间和金钱。让人工智能通过网站聊天插件全天候与潜在客户互动，从而推动更多销售。使用您的网站数据和其他文档训练 AI！. | :white_check_mark: |

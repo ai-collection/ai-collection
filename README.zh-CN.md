@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1408" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1413" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -124,6 +124,42 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### AI Business Blueprint
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-business-blueprint_.webp" alt="AI Business Blueprint">
+
+#### 借助 AI 实现在线业务收入的门户
+[Visit](https://www.thataicollection.com/redirect/ai-business-blueprint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+对于陷入日常困境和渴望财务自由的有抱负的企业家来说，bestonline.business提供了一个引人注目的主张。该平台承诺指导用户使用人工智能驱动的策略实现在线业务成功，并提供免费培训，声称可以解锁超过1万美元的在线收入潜力。以下是您对这项服务的期望的详细回顾。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-business-blueprint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Chat Data
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data">
+
+#### 全天候自定义 AI 聊天机器人加上实时聊天升级
+[Visit](https://www.thataicollection.com/redirect/chat-data?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
+
+
+
+
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chat-data?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Rainforest QA
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rainforest-qa.webp" alt="Rainforest QA">
 
@@ -194,36 +230,6 @@ Nude AI 是一款开创性的工具，可增强各种创意和专业应用程序
 Girlfriend GPT是一个允许用户沉浸式AI聊天并创建独特的人工智能角色的平台。有超过 7500 个 AI 角色可供选择，用户可以探索各种角色，从占主导地位到顺从等等。该平台提供全天候无过滤聊天，允许无限探索和享受。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/girlfriendgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AI Business Blueprint
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-business-blueprint_.webp" alt="AI Business Blueprint">
-
-#### 借助 AI 实现在线业务收入的门户
-[Visit](https://www.thataicollection.com/redirect/ai-business-blueprint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-对于陷入日常困境和渴望财务自由的有抱负的企业家来说，bestonline.business提供了一个引人注目的主张。该平台承诺指导用户使用人工智能驱动的策略实现在线业务成功，并提供免费培训，声称可以解锁超过1万美元的在线收入潜力。以下是您对这项服务的期望的详细回顾。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-business-blueprint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### DEEPBRAIN AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deepbrain-ai.webp" alt="DEEPBRAIN AI">
-
-#### DeepBrain AI-来自文本的最佳 AI 视频生成器
-[Visit](https://www.thataicollection.com/redirect/deepbrain-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用简单文本快速创建 AI 生成的视频。神奇的多语言支持的人工智能电影生成器。逼真的 AI 头像、自然的文字转语音和强大的 AI 视频创作功能全部集中在一个平台上。借助 AI 驱动的文本转视频，大规模加速您的视频项目。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/deepbrain-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1303,6 +1309,27 @@ Descript 是一种简单、强大且有趣的编辑方式。
 
 ## 客户支持
 
+### Chat Data
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data">
+
+#### 全天候自定义 AI 聊天机器人加上实时聊天升级
+[Visit](https://www.thataicollection.com/redirect/chat-data?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
+
+
+
+
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chat-data?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### AI Answers by Cohere
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-answers-by-cohere.webp" alt="AI Answers by Cohere">
 
@@ -1388,23 +1415,6 @@ AI 驱动的支持帮助，可从以前的工单中找到答案
 ChatGenius 是一家软件公司，提供由 GPT-4 和 ChatGPT 提供支持的强大的人工智能聊天机器人解决方案。我们的聊天机器人提供超过 110 种语言的 24/7 全天候支持，并且可以无缝集成到您的网站或平台中
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chatgenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### ChatFlow
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatflow.webp" alt="ChatFlow">
-
-#### 为您的网站解锁 ChatGPT 的强大功能
-
-[Visit](https://www.thataicollection.com/redirect/chatflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-创建基于人工智能的聊天机器人，以吸引客户，提高转化率并增加收入。非常适合 SaaS、电子商务或任何在线业务。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chatflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4592,21 +4602,6 @@ namewizard 是使用 AI 为您的下一个项目寻找完美业务和域名的�
 
 ## 文字转语音
 
-### Cliptics
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics">
-
-#### Cliptics，免费文字转语音！你的话，我们的声音。
-[Visit](https://www.thataicollection.com/redirect/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-介绍Cliptics，它是您轻松将文本转换为自然语音的终极伴侣。无论你是想要增强学习材料的学生，还是寻求创新方式吸引受众的内容创作者，还是仅仅是喜欢听而不是阅读的人，Cliptics都能提供无缝的解决方案。Cliptics — 在你的指挥下，文字变为现实，免费
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### Lovo
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lovo.webp" alt="Lovo">
 
@@ -4617,6 +4612,21 @@ namewizard 是使用 AI 为您的下一个项目寻找完美业务和域名的�
 屡获殊荣的 AI 语音生成器和文本转语音软件，支持 100 种语言的 500 多种语音。带有在线视频编辑器的逼真人工智能语音。克隆你自己的声音。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/lovo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Cliptics
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics">
+
+#### Cliptics，免费文字转语音！你的话，我们的声音。
+[Visit](https://www.thataicollection.com/redirect/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+介绍Cliptics，它是您轻松将文本转换为自然语音的终极伴侣。无论你是想要增强学习材料的学生，还是寻求创新方式吸引受众的内容创作者，还是仅仅是喜欢听而不是阅读的人，Cliptics都能提供无缝的解决方案。Cliptics — 在你的指挥下，文字变为现实，免费
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

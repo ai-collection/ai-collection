@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1408" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1413" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -130,6 +130,42 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### AI Business Blueprint
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-business-blueprint_.webp" alt="AI Business Blueprint">
+
+#### Your Gateway to Online Business Income with AI
+[Visit](https://www.thataicollection.com/redirect/ai-business-blueprint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+For aspiring entrepreneurs stuck in the daily grind and yearning for financial freedom, bestonline.business offers a compelling proposition. This platform promises to guide users toward achieving online business success using AI-powered strategies, providing free training that claims to unlock a $10k+ online earning potential. Here's a detailed review of what you can expect from this service.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-business-blueprint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Chat Data
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data">
+
+#### 24/7 Custom AI chatbot Plus Live Chat Escalation
+[Visit](https://www.thataicollection.com/redirect/chat-data?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
+
+
+
+
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/chat-data?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Rainforest QA
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rainforest-qa.webp" alt="Rainforest QA">
 
@@ -200,36 +236,6 @@ Nude AI is a groundbreaking tool that enhances a wide range of creative and prof
 Girlfriend GPT is a platform that allows users to dive into immersive AI chats and create unique AI characters. With over 7500 AI characters available, users can explore a variety of personas, from dominant to submissive and beyond. The platform offers 24/7 no-filter chats, allowing for unlimited exploration and enjoyment.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/girlfriendgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Business Blueprint
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-business-blueprint_.webp" alt="AI Business Blueprint">
-
-#### Your Gateway to Online Business Income with AI
-[Visit](https://www.thataicollection.com/redirect/ai-business-blueprint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-For aspiring entrepreneurs stuck in the daily grind and yearning for financial freedom, bestonline.business offers a compelling proposition. This platform promises to guide users toward achieving online business success using AI-powered strategies, providing free training that claims to unlock a $10k+ online earning potential. Here's a detailed review of what you can expect from this service.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-business-blueprint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### DEEPBRAIN AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deepbrain-ai.webp" alt="DEEPBRAIN AI">
-
-#### DeepBrain AI - Best AI Video Generator from Text
-[Visit](https://www.thataicollection.com/redirect/deepbrain-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Create AI-generated videos quickly using simple text. Amazing Multi-Language supported AI movie generator. Realistic AI avatars, natural text-to-speech, and powerful AI video creation capabilities all in one platform.  Accelerate your video projects at scale with AI-powered text-to-video.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/deepbrain-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1309,6 +1315,27 @@ All-in-one visual design platform containing AI photo and video editing tools. A
 
 ## Customer Support
 
+### Chat Data
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data">
+
+#### 24/7 Custom AI chatbot Plus Live Chat Escalation
+[Visit](https://www.thataicollection.com/redirect/chat-data?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
+
+
+
+
+
+
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/chat-data?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI Answers by Cohere
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-answers-by-cohere.webp" alt="AI Answers by Cohere">
 
@@ -1398,23 +1425,6 @@ ChatGenius is a software company that provides a powerful AI chatbot solution po
 <br />
 
 
-
-
-### ChatFlow
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatflow.webp" alt="ChatFlow">
-
-#### Unlock the Power of ChatGPT for Your Website
-
-[Visit](https://www.thataicollection.com/redirect/chatflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Create AI-powered chatbots to engage your customers, increase conversions, and boost revenue. Perfect for SaaS, E-commerce or any online business.
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/chatflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 
@@ -4598,21 +4608,6 @@ AI Powered Chat Apps for Everyone
 
 ## Text To Speech
 
-### Cliptics
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics">
-
-#### Cliptics, Free Text to speech! Your words, our Voices.
-[Visit](https://www.thataicollection.com/redirect/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Introducing Cliptics, your ultimate companion for converting text into natural-sounding speech effortlessly. Whether you''re a student looking to enhance your study materials, a content creator seeking innovative ways to engage your audience, or simply someone who prefers listening over reading, Cliptics offers a seamless solution. Cliptics –where words come to life at your command, free of charge
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Lovo
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lovo.webp" alt="Lovo">
 
@@ -4623,6 +4618,21 @@ Introducing Cliptics, your ultimate companion for converting text into natural-s
 Award-winning AI Voice Generator and text to speech software with 500+ voices in 100 languages. Realistic AI Voices with Online Video Editor. Clone your own voice.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/lovo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Cliptics
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics">
+
+#### Cliptics, Free Text to speech! Your words, our Voices.
+[Visit](https://www.thataicollection.com/redirect/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Introducing Cliptics, your ultimate companion for converting text into natural-sounding speech effortlessly. Whether you''re a student looking to enhance your study materials, a content creator seeking innovative ways to engage your audience, or simply someone who prefers listening over reading, Cliptics offers a seamless solution. Cliptics –where words come to life at your command, free of charge
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/cliptics?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

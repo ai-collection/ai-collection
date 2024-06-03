@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1408" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1413" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -636,6 +636,7 @@ Translations:
 |---|---|---|:---:|
 | [AI Answers by Cohere](https://www.thataicollection.com/redirect/ai-answers-by-cohere?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Conversational AI Platform for Customer Support - Cohere. | AI-powered support assistance that finds answers from previous tickets. | :grey_question: |
 | [Bahasa](https://www.thataicollection.com/redirect/bahasa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bahasa.Ai - Chatbot Which Serves Customers Fully. | Automation that helps your business serves millions of happy customers fastlyâpowered by AI specially built for Bahasa Indonesia. | :grey_question: |
+| [Chat Data](https://www.thataicollection.com/redirect/chat-data?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 24/7 Custom AI chatbot Plus Live Chat Escalation. | Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans. | :white_check_mark: |
 | [ChatFlow](https://www.thataicollection.com/redirect/chatflow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Unlock the Power of ChatGPT for Your Website. | Create AI-powered chatbots to engage your customers, increase conversions, and boost revenue. Perfect for SaaS, E-commerce or any online business. | :white_check_mark: |
 | [ChatGenius](https://www.thataicollection.com/redirect/chatgenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGenius - Unlock the Power of Multilingual Communication. | ChatGenius is a software company that provides a powerful AI chatbot solution powered by GPT-4 and ChatGPT. Our chatbot offers 24/7 support in over 110 languages and can be integrated seamlessly into your website or platform. | :white_check_mark: |
 | [ChatHelp AI](https://www.thataicollection.com/redirect/chathelp-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatHelp.ai - AI-powered Business, Work, Study Assistant & Website Chat Widget. | 👉 Chat with Private AI Knowledge Base - Increase daily work efficiency, by having an AI assistant, who knows everything about your business & competitors, your work or studies...  👉 Save time & money on customer support. Drive more sales, by letting AI interact with potential customers 24/7, via Website Chat Widget. Train AI with your Website data & other documentation!. | :white_check_mark: |
