@@ -53,6 +53,25 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    </a>
+    <h4>全天候自定义 AI 聊天机器人加上实时聊天升级</h4>
+    <p>Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chat Data</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
     </a>
@@ -849,23 +868,6 @@ Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制
 <br />
 
 
-### Fusion Compose
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fusion-compose.webp" alt="Fusion Compose">
-
-#### 没有 BS 而且很简单
-GPT-4 的聊天界面
-API、克劳德和双子座
-[Visit](https://www.thataicollection.com/redirect/fusion-compose?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-订阅 OpenAI 的 GPT-4，每月可节省 20 美元。Fusion Compose 提供用户友好的聊天用户界面，与 GPT-4 API 完美集成，同时为 Claude 和 Gemini 提供了全面支持。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fusion-compose?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### Chatbase
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
 
@@ -936,6 +938,21 @@ API、克劳德和双子座
 ChatSimple是一个专门在短短5分钟内为中小型企业（SMB）创建以转化为导向的聊天机器人的平台。该平台侧重于三个关键功能：潜在客户生成、常见问题解答管理和资格预审问题处理。通过使中小型企业能够使用特定领域的专业知识构建自己的聊天机器人，
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### FastBots.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fastbots.ai.webp" alt="FastBots.ai">
+
+#### FastBots.ai：通往智能自动化的门户
+[Visit](https://www.thataicollection.com/redirect/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用我们的人工智能聊天机器人实现客户服务自动化，让您的团队可以自由地专注于他们最擅长的事情。使用 FastBots.ai 提高效率并增强客户互动。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

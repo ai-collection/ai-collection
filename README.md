@@ -71,6 +71,25 @@ Translations:
 <br>
 
 
+<div align="center">
+    <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    </a>
+    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
+    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Chat Data</b></a>
+    <br />
+</div>
+
+<br>
+
+
 ---
 
 ### A hand-picked list of awesome AI applications featured on AI Collection
@@ -855,23 +874,6 @@ Chatbit is an AI tool that allows users to create customized AI chatbots for the
 
 
 
-### Fusion Compose
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fusion-compose.webp" alt="Fusion Compose">
-
-#### No B.S & Simple
-Chat UI For GPT-4
-API, Claude and Gemini
-[Visit](https://www.thataicollection.com/redirect/fusion-compose?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Save $20 per month on OpenAI's GPT-4 subscription. Fusion Compose offers a user-friendly chat UI that perfectly integrates with the GPT-4 API, while providing full support for Claude and Gemini.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/fusion-compose?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Chatbase
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
 
@@ -942,6 +944,21 @@ Create a custom trained AI support chatbot using your own content, support docs,
 ChatSimple is a platform that specializes in creating conversion-oriented chatbots for small and medium-sized businesses (SMBs) in just 5 minutes. The platform focuses on three key functionalities: lead generation, FAQ management, and prequalification question handling. By enabling SMBs to build their own chatbots with domain-specific expertise,
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### FastBots.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fastbots.ai.webp" alt="FastBots.ai">
+
+#### FastBots.ai : Your Gateway to Intelligent Automation
+[Visit](https://www.thataicollection.com/redirect/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Automate your customer service with our AI-powered chatbots and give your team the freedom to focus on what they do best. Improve efficiency and enhance customer interaction with FastBots.ai.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -53,6 +53,25 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    </a>
+    <h4>24/7 कस्टम AI चैटबोट और लाइव चैट एस्केलेशन</h4>
+    <p>चैट डेटा एक AI चैटबॉट प्लेटफ़ॉर्म है, जो सुविधाजनक बैकएंड और फ़्रंटएंड कस्टमाइज़ेशन की सुविधा देता है। अपने नॉलेज बेस, कस्टम एंडपॉइंट या चैट डेटा के मॉडल का इस्तेमाल करके चैटबॉट बनाएं। चैटबोट इंटरफ़ेस को कस्टमाइज़ करें और वाइट लेबलिंग का विकल्प चुनें। अतिरिक्त सुविधाओं में स्टैण्डर्ड या प्रोफ़ेशनल प्लान में लाइव चैट एस्केलेशन शामिल है।
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Chat Data के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
     </a>

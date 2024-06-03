@@ -53,6 +53,25 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    </a>
+    <h4>24/7 कस्टम AI चैटबोट और लाइव चैट एस्केलेशन</h4>
+    <p>चैट डेटा एक AI चैटबॉट प्लेटफ़ॉर्म है, जो सुविधाजनक बैकएंड और फ़्रंटएंड कस्टमाइज़ेशन की सुविधा देता है। अपने नॉलेज बेस, कस्टम एंडपॉइंट या चैट डेटा के मॉडल का इस्तेमाल करके चैटबॉट बनाएं। चैटबोट इंटरफ़ेस को कस्टमाइज़ करें और वाइट लेबलिंग का विकल्प चुनें। अतिरिक्त सुविधाओं में स्टैण्डर्ड या प्रोफ़ेशनल प्लान में लाइव चैट एस्केलेशन शामिल है।
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Chat Data के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
     </a>
@@ -849,23 +868,6 @@ Chatbit एक AI टूल है जिसकी मदद से यूज़
 
 
 
-### Fusion Compose
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fusion-compose.webp" alt="Fusion Compose">
-
-#### नहीं बी. एस एंड सिंपल
-GPT-4 के लिए चैट UI
-एपीआई, क्लाउड और जेमिनी
-[Visit](https://www.thataicollection.com/redirect/fusion-compose?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-OpenAI के GPT-4 सब्सक्रिप्शन पर $20 प्रति माह बचाएं। फ़्यूज़न कंपोज़ एक यूज़र फ़्रेंडली चैट यूज़र इंटरफ़ेस (यूआई) देता है, जो जीपीटी-4 एपीआई के साथ पूरी तरह से इंटीग्रेट हो जाता है, साथ ही क्लाउड और जेमिनी को पूरा समर्थन प्रदान करता है।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/fusion-compose?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Chatbase
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
 
@@ -936,6 +938,21 @@ OpenAI के GPT-4 सब्सक्रिप्शन पर $20 प्रत
 ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छोटे और मध्यम आकार के व्यवसायों (SMB) के लिए सिर्फ़ 5 मिनट में रूपांतरण-उन्मुख चैटबॉट बनाने में माहिर है। प्लेटफ़ॉर्म तीन प्रमुख कार्यक्षमताओं पर केंद्रित है: लीड जनरेशन, अक्सर पूछे जाने वाले प्रश्न प्रबंधन और प्री-क्वालिफिकेशन से संबंधित प्रश्नों को संभालना। एसएमबी को डोमेन-विशिष्ट विशेषज्ञता के साथ अपने स्वयं के चैटबॉट बनाने में सक्षम करके,
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### FastBots.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fastbots.ai.webp" alt="FastBots.ai">
+
+#### FastBots.ai: इंटेलिजेंट ऑटोमेशन के लिए तुम्हारा गेटवे
+[Visit](https://www.thataicollection.com/redirect/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+हमारे AI-संचालित चैटबॉट्स की मदद से अपनी ग्राहक सेवा को ऑटोमेट करें और अपनी टीम को इस बात पर ध्यान देने की आज़ादी दें कि वे सबसे अच्छा क्या करते हैं। FastBots.ai के साथ दक्षता सुधारें और ग्राहकों से बातचीत बेहतर बनाएं।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

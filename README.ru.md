@@ -65,6 +65,25 @@
 <br>
 
 
+<div align="center">
+    <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    </a>
+    <h4>Настраиваемый чат-бот с искусственным интеллектом, работающий круглосуточно и без выходных</h4>
+    <p>Chat Data — это платформа чат-ботов с искусственным интеллектом, предлагающая гибкую настройку бэкенда и интерфейса. Создавайте чат-ботов, используя свою базу знаний, настраиваемые конечные точки или модели Chat Data. Настройте интерфейс чат-бота и выберите белую маркировку. Дополнительные функции включают эскалацию онлайн-чата в стандартных или профессиональных тарифных планах.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Chat Data</b></a>
+    <br />
+</div>
+
+<br>
+
+
 ---
 
 ### Тщательно подобранный список потрясающих приложений искусственного интеллекта, представленных в AI Collection.
@@ -849,23 +868,6 @@ Chatbit — это инструмент искусственного интел�
 
 
 
-### Fusion Compose
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fusion-compose.webp" alt="Fusion Compose">
-
-#### Без сложностей и просто
-Пользовательский интерфейс чата для GPT-4
-API, Клод и Близнецы
-[Visit](https://www.thataicollection.com/redirect/fusion-compose?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Сэкономьте 20 долларов в месяц на подписке OpenAI GPT-4. Fusion Compose предлагает удобный пользовательский интерфейс чата, который идеально интегрируется с API GPT-4, обеспечивая при этом полную поддержку Claude and Gemini.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/fusion-compose?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Chatbase
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
 
@@ -936,6 +938,21 @@ API, Клод и Близнецы
 ChatSimple — это платформа, которая специализируется на создании чат-ботов, ориентированных на конверсию, для малого и среднего бизнеса (SMB) всего за 5 минут. Платформа сосредоточена на трех ключевых функциях: привлечении потенциальных клиентов, управлении часто задаваемыми вопросами и обработке вопросов перед квалификацией. Позволяя малым и средним предприятиям создавать собственных чат-ботов с опытом работы в конкретных областях,
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### FastBots.ai
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fastbots.ai.webp" alt="FastBots.ai">
+
+#### FastBots.ai: ваш путь к интеллектуальной автоматизации
+[Visit](https://www.thataicollection.com/redirect/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Автоматизируйте обслуживание клиентов с помощью наших чат-ботов на базе искусственного интеллекта и дайте своей команде возможность сосредоточиться на том, что у них получается лучше всего. Повысьте эффективность и улучшите взаимодействие с клиентами с помощью FastBots.ai.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

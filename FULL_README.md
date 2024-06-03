@@ -70,6 +70,25 @@ Translations:
 
 <br>
 
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    </a>
+    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
+    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Chat Data</b></a>
+    <br />
+</div>
+
+<br>
+
 ## Index
 - 📈 [Accounting & Finance](#accounting--finance)
 - 🎲 [Animation & 3D Modeling](#animation--3d-modeling)
