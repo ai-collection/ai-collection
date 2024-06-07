@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1413" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1432" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>Chatbot IA pour ton site web, formé à partir de tes données</h4>
+    <p>Chatbit est un outil d'intelligence artificielle qui permet aux utilisateurs de créer des chatbots IA personnalisés pour leurs sites Web. Les robots sont conçus pour interagir avec les clients, répondre à leurs questions et capter des prospects.</p>
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Chatbit</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -65,19 +78,6 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Chat Data</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>Chatbot IA pour ton site web, formé à partir de tes données</h4>
-    <p>Chatbit est un outil d'intelligence artificielle qui permet aux utilisateurs de créer des chatbots IA personnalisés pour leurs sites Web. Les robots sont conçus pour interagir avec les clients, répondre à leurs questions et capter des prospects.</p>
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Chatbit</b></a>
     <br />
 </div>
 
@@ -126,7 +126,7 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 👩‍🎤 [Mode](#mode)
 - 🔍 [Moteurs De Recherche](#moteurs-de-recherche)
 - 🎼 [Musique Et Génération Audio](#musique-et-génération-audio)
-- 👀 [Nsfw](#nsfw)
+- 👀 [Nsfw - Copines Nudifiées Et Ia](#nsfw---copines-nudifiées-et-ia)
 - 🧞‍♂️ [Organisation & Automatisation](#organisation--automatisation)
 - 🏖 [Planificateur De Vacances Et De Voyages](#planificateur-de-vacances-et-de-voyages)
 - 🔌 [Plugins Et Extensions](#plugins-et-extensions)
@@ -143,112 +143,117 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🧠 [Éducation Et Apprentissage](#éducation-et-apprentissage)
 ## Latest Additions to AI Collection
 
-### AI Business Blueprint
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-business-blueprint_.webp" alt="AI Business Blueprint">
+### AFFiNE
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-affine.webp" alt="AFFiNE">
 
-#### Ton portail vers les revenus commerciaux en ligne grâce à l'IA
-[Visit](https://www.thataicollection.com/redirect/ai-business-blueprint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Ton partenaire IA t'aide à mieux écrire, dessiner et présenter
+[Visit](https://www.thataicollection.com/redirect/affine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Pour les aspirants entrepreneurs confrontés à la routine quotidienne et qui aspirent à la liberté financière, bestonline.business propose une offre convaincante. Cette plateforme promet d'aider les utilisateurs à réussir leur activité en ligne en utilisant des stratégies basées sur l'IA, en proposant des formations gratuites qui devraient permettre de débloquer un potentiel de revenus en ligne de plus de 10 000 dollars. Voici un aperçu détaillé de ce que tu peux attendre de ce service.
+Obtenez des informations instantanées, un contenu parfait et élargissez votre réflexion grâce à des cartes mentales magiques et à des diapositives prêtes à être présentées. Affine AI te permet de voir plus grand, de créer plus rapidement, de travailler plus intelligemment et de gagner du temps pour chaque projet. 
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-business-blueprint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Chat Data
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data">
-
-#### Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct
-[Visit](https://www.thataicollection.com/redirect/chat-data?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
-
-
-
-
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/chat-data?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/affine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Rainforest QA
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rainforest-qa.webp" alt="Rainforest QA">
+### DocsHound
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-docshound.webp" alt="DocsHound">
 
-#### Automatisation des tests simplifiée pour les équipes SaaS qui souhaitent expédier rapidement
-[Visit](https://www.thataicollection.com/redirect/rainforest-qa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Logiciel de base de connaissances, repensé grâce à l'IA. 
+[Visit](https://www.thataicollection.com/redirect/docshound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Rainforest QA est une plateforme d'automatisation des tests alimentée par l'IA pour les entreprises SaaS. Grâce à son interface Web intuitive, tout le monde peut créer rapidement des tests automatisés et mis à jour automatiquement à l'aide de simples instructions en anglais clair. Rainforest inclut tout ce dont tu as besoin pour créer des tests de bout en bout, les exécuter massivement en parallèle et obtenir des résultats détaillés.
+Une nouvelle méthode pour les entreprises SaaS de documenter sans effort manuel. Créez, gérez et publiez une documentation sophistiquée qui donne une impression de marque.
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/rainforest-qa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+DocShound est la première base de connaissances native à l'IA, entièrement repensée et spécialement conçue pour l'ère de l'IA. 
 
-<br />
-
-
-
-
-### PDF Summarizer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pdf-summarizer.webp" alt="PDF Summarizer">
-
-#### Résumateur de PDF : résume n'importe quel PDF en quelques secondes
-[Visit](https://www.thataicollection.com/redirect/pdf-summarizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Arrête de perdre du temps à lire des milliers de pages. PDF Summarizer peut résumer de longs documents, des livres, des contrats, etc. en quelques secondes. Il suffit de télécharger un PDF pour obtenir des résumés, des plans ou des guides d'étude détaillés et de haute qualité. 
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/pdf-summarizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/docshound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### lingly
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lingly.webp" alt="lingly">
+### StartKit.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-startkit.ai.webp" alt="StartKit.AI">
 
-#### lingly.ai - Libère ton potentiel linguistique
-[Visit](https://www.thataicollection.com/redirect/lingly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Un modèle pour créer rapidement des produits d'IA
+[Visit](https://www.thataicollection.com/redirect/startkit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Lingly est la plateforme d'apprentissage des langues personnalisée alimentée par l'IA. Il est utilisé par les professionnels de carrière et les immigrés du monde entier. 
+StartKit.AI est un passe-partout conçu pour accélérer le développement de projets d'IA. 
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/lingly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Il propose des itinéraires d'API REST prédéfinis pour toutes les tâches courantes de l'IA : chat, images, texte long, synthèse vocale, traduction et modération. Ainsi que des intégrations plus complexes, telles que RAG, l'exploration du Web, les intégrations vectorielles et bien plus encore !
 
-<br />
-
-
-
-
-### Nude AI - Image Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nude-ai---image-generator.webp" alt="Nude AI - Image Generator">
-
-#### Habille et déshabille n'importe qui, de façon esthétique
-[Visit](https://www.thataicollection.com/redirect/nude-ai---image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nude AI est un outil révolutionnaire qui améliore un large éventail d'applications créatives et professionnelles. Qu'il s'agisse d'améliorer les listes de produits sur le commerce électronique, d'enrichir la narration visuelle dans les domaines du divertissement et des jeux vidéo, de faire progresser les techniques de retouche photo ou de repousser les limites de l'art numérique et du design de mode, Nude AI offre de nombreux avantages. 
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/nude-ai---image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/fr/application/startkit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### GirlfriendGPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriendgpt.webp" alt="GirlfriendGPT">
+### Muke Undress AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-muke-undress-ai.webp" alt="Muke Undress AI">
 
-#### Immerge-toi dans les chats IA et crée des personnages uniques
-[Visit](https://www.thataicollection.com/redirect/girlfriendgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Tu peux utiliser le générateur de déshabillage IA pour créer des images de la personne cible nue (nue profonde), sans vêtements ou portant des sous-vêtements de bikini. Essaye-le gratuitement dès maintenant !
+[Visit](https://www.thataicollection.com/redirect/muke-undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Girlfriend GPT est une plateforme qui permet aux utilisateurs de participer à des discussions immersives basées sur l'IA et de créer des personnages IA uniques. Avec plus de 7 500 personnages IA disponibles, les utilisateurs peuvent explorer différents personnages, qu'ils soient dominants ou soumis, et bien plus encore. La plateforme propose des discussions sans filtre 24 heures sur 24, 7 jours sur 7, ce qui permet une exploration et un plaisir illimités.
+Découvrez les fonctionnalités de pointe du générateur de déshabillage IA, qui te permet de générer des images réalistes du sujet de ton choix dans différents états : qu'il soit entièrement nu (grâce à la technologie Deep Nude), complètement dévêtu ou vêtu de sous-vêtements de bikini. Profitez de notre offre d'essai gratuit dès aujourd'hui et explore par toi-même le vaste potentiel de cet outil révolutionnaire.
 
-[More Information and Pricing](https://www.thataicollection.com/fr/application/girlfriendgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/muke-undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AskThePDF.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-askthepdf.io.webp" alt="AskThePDF.io">
+
+#### Il suffit de parler à n'importe quel PDF en toute confidentialité.
+[Visit](https://www.thataicollection.com/redirect/askthepdf.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AskThePDF.io, il suffit de parler à n'importe quel PDF. Grâce à l'IA, tu peux désormais engager des conversations naturelles et interactives avec tes PDF, ce qui facilite l'extraction d'informations.
+
+Principaux avantages :
+● Accédez rapidement aux informations pertinentes sans lire l'intégralité du document
+● Posez des questions spécifiques et recevez des réponses précises et concises
+● Obtenez des résumés qui reprennent l'essentiel de longs PDF
+● Mode confidentialité
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/askthepdf.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI Anime Filter
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-anime-filter.webp" alt="AI Anime Filter">
+
+#### Convertisseur de photos en anime : filtre d'anime IA en ligne
+[Visit](https://www.thataicollection.com/redirect/ai-anime-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Transforme tes photos en anime en un seul clic grâce à six modèles uniques sélectionnés par Stable Diffusion.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-anime-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### CuteChat AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cutechat-ai_.webp" alt="CuteChat AI">
+
+#### CuteChat - Chat IA avec personnages NSFW - Copines IA sans filtre
+[Visit](https://www.thataicollection.com/redirect/cutechat-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Découvre, crée et discute avec ton personnage IA NSFW ! Aucun filtre, totalement illimité : NSFW est autorisé. Envoie et reçoit des messages et des selfies de la NSFW. Découvrez le simulateur de petite amie NSFW AI le plus avancé.
+
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/cutechat-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3096,7 +3101,7 @@ Amadeus Topline est une application de composition basée sur l''IA pour tous le
 
 ---
 
-## NSFW
+## NSFW - Copines nudifiées et IA
 
 ### Undress Pro AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
@@ -3149,6 +3154,22 @@ PornGen est une plateforme basée sur l'IA spécialisée dans la création de co
 
 
 
+### Candy AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-candy-ai.webp" alt="Candy AI">
+
+#### Candy.AI : crée ta petite amie intelligente et commence à discuter
+
+[Visit](https://www.thataicollection.com/redirect/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Le compagnon de tes rêves t'attend ! Crée ta petite amie IA, façonne son apparence, sa personnalité et donne-lui vie en un clic. 100 % grâce à l'intelligence artificielle
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Pephop AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pephop-ai.webp" alt="Pephop AI">
 
@@ -3194,24 +3215,8 @@ Chez Undressbaby AI, nous proposons Grey"s Secret Room, un service original bas�
 
 
 
-### NEWFACEPORN
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newfaceporn_.webp" alt="NEWFACEPORN">
 
-#### Le meilleur outil d'IA Faceswap pornographique : génère des vidéos pornographiques Deepfake réalistes
-[Visit](https://www.thataicollection.com/redirect/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Imagine voir ton ami de travail nu se faire imploser dans une vidéo pornographique réaliste. Maintenant, tu peux réaliser ce rêve en échangeant le visage de n'importe quel personnage et en faire une superbe vidéo pornographique
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-
-[See All 👀 NSFW Applications on AI Collection](https://www.thataicollection.com/fr/categories/nsfw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[See All 👀 NSFW - Copines nudifiées et IA Applications on AI Collection](https://www.thataicollection.com/fr/categories/nsfw-nudify-and-ai-girlfriends?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
 **[⬆ Retour à l'index](#index)**
@@ -3926,6 +3931,21 @@ StoreChatGPT.ai est une plateforme dynamique proposant une gamme variée d''outi
 
 ## Ventes et Marketing
 
+### Socleads
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-socleads.webp" alt="Socleads">
+
+#### SocLeads est un scraper de réseaux sociaux de nouvelle génération
+[Visit](https://www.thataicollection.com/redirect/socleads?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SocLeads est un logiciel qui extrait un nombre illimité de courriels d'Instagram, Google Maps, Facebook, Twitter, Youtube et Linkedin à l'aide de mots clés, d'abonnés et de hashtags
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/socleads?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Predis
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-predis.webp" alt="Predis">
 
@@ -4021,26 +4041,6 @@ Les possibilités sont infinies, aucune compétence en design n''est requise.
 Que vous vous concentriez sur l''interface utilisateur, la recherche UX, la conception ou l''expérience utilisateur, l''IA de l''évaluation des utilisateurs peut répondre à toutes vos questions.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/userevaluation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Genius Sheets
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-genius-sheets.webp" alt="Genius Sheets">
-
-#### Genius Sheets - L''INTELLIGENCE COMMERCIALE DU FUTUR
-Analyse de données basée sur l''IA
-[Visit](https://www.thataicollection.com/redirect/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Genius Sheets AI est un agent de business intelligence en libre-service qui répond à toutes tes questions les plus importantes.
-IA conversationnelle - Parle à Genius Sheets comme si tu parlais à un collègue
-Sécurité d''entreprise - Conçu selon les normes de sécurité de l''entreprise, protection de tes données.
-Facile à utiliser, aucun SQL ou Python n''est requis
-Interface native - Connectez-vous à tes données sur notre application Web, Slack ou Teams
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

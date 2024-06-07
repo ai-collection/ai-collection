@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1413" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1432" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>适用于您网站的 AI 聊天机器人，根据您的数据进行训练</h4>
+    <p>Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。</p>
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -65,19 +78,6 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chat Data</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>适用于您网站的 AI 聊天机器人，根据您的数据进行训练</h4>
-    <p>Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。</p>
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
     <br />
 </div>
 
@@ -98,6 +98,7 @@
 
 ## Index
 - 🕒 [Latest Additions to AI Collection](#latest-additions-to-ai-collection)
+- 👀 [Nsfw-Nudify 和 Ai 女友](#nsfw-nudify-和-ai-女友)
 - 🤪 [乐趣](#乐趣)
 - 👩‍💼 [人力资源与简历](#人力资源与简历)
 - 💻 [代码和数据库助手](#代码和数据库助手)
@@ -113,7 +114,6 @@
 - 👩‍⚕️ [卫生保健](#卫生保健)
 - 👩‍⚖️ [合法的](#合法的)
 - 👨‍💻 [客户支持](#客户支持)
-- 👀 [工作不安全](#工作不安全)
 - 📊 [幻灯片和演示文稿](#幻灯片和演示文稿)
 - 🏯 [建筑与室内设计](#建筑与室内设计)
 - ⚜️ [徽标生成器](#徽标生成器)
@@ -143,112 +143,117 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### AI Business Blueprint
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-business-blueprint_.webp" alt="AI Business Blueprint">
+### AFFiNE
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-affine.webp" alt="AFFiNE">
 
-#### 借助 AI 实现在线业务收入的门户
-[Visit](https://www.thataicollection.com/redirect/ai-business-blueprint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 你的 AI 合作伙伴可以帮助你更好地写作、绘画和呈现
+[Visit](https://www.thataicollection.com/redirect/affine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-对于陷入日常困境和渴望财务自由的有抱负的企业家来说，bestonline.business提供了一个引人注目的主张。该平台承诺指导用户使用人工智能驱动的策略实现在线业务成功，并提供免费培训，声称可以解锁超过1万美元的在线收入潜力。以下是您对这项服务的期望的详细回顾。
+借助神奇的思维导图和可供演示的幻灯片，获得即时见解、完美内容并扩展思维。Affine AI 可以让你更大地思考、更快地创作、更智能地工作并为每个项目节省时间。 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-business-blueprint?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Chat Data
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data">
-
-#### 全天候自定义 AI 聊天机器人加上实时聊天升级
-[Visit](https://www.thataicollection.com/redirect/chat-data?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
-
-
-
-
-
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chat-data?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/affine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Rainforest QA
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rainforest-qa.webp" alt="Rainforest QA">
+### DocsHound
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-docshound.webp" alt="DocsHound">
 
-#### 为想要快速交付的 SaaS 团队提供无忧的测试自动化
-[Visit](https://www.thataicollection.com/redirect/rainforest-qa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 使用 AI 重新构想的知识库软件。 
+[Visit](https://www.thataicollection.com/redirect/docshound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Rainforest QA 是面向 SaaS 公司的 AI 驱动的测试自动化平台。凭借其直观的基于 Web 的界面，任何人都可以使用简单、通俗易懂的英语提示快速创建自动、自更新的测试。Rainforest 包含创建端到端测试、大规模并行运行测试以及获得详细结果所需的一切。
+SaaS 公司无需任何手动操作即可进行文档记录的新方式。创建、维护和发布能够给人留下品牌印象的复杂文档。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/rainforest-qa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Docshound 是第一个人工智能原生知识库，从头开始重新构想，专为 AI 时代打造。 
 
-<br />
-
-<br />
-
-
-### PDF Summarizer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pdf-summarizer.webp" alt="PDF Summarizer">
-
-#### PDF 摘要器-在几秒钟内汇总任何 PDF
-[Visit](https://www.thataicollection.com/redirect/pdf-summarizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-别再浪费时间阅读数千页了。PDF 摘要器可以在几秒钟内汇总长文档、书籍、合同等。只需上传 PDF 即可获得详细、高质量的摘要、大纲或学习指南。 
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pdf-summarizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/docshound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### lingly
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lingly.webp" alt="lingly">
+### StartKit.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-startkit.ai.webp" alt="StartKit.AI">
 
-#### lingly.ai-释放你的语言潜力
-[Visit](https://www.thataicollection.com/redirect/lingly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 快速构建 AI 产品的样板
+[Visit](https://www.thataicollection.com/redirect/startkit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Lingly 是由 AI 提供支持的个性化语言学习平台。它被世界各地的职业专业人士和移民使用。 
+StartKit.AI 是一个样板，旨在加快 AI 项目的开发。 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/lingly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+它为所有常见的人工智能任务提供预建的 REST API 路由：聊天、图片、长格式文本、语音转文本、文字转语音、翻译和审核。还有更复杂的集成，例如 RAG、网络爬行、矢量嵌入等等！
 
-<br />
-
-<br />
-
-
-### Nude AI - Image Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nude-ai---image-generator.webp" alt="Nude AI - Image Generator">
-
-#### 美观地说，任何人都可以穿衣服和脱衣服
-[Visit](https://www.thataicollection.com/redirect/nude-ai---image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nude AI 是一款开创性的工具，可增强各种创意和专业应用程序。无论是改善电子商务中的产品清单，丰富娱乐和游戏中的视觉故事讲述，推进照片编辑技术，还是突破数字艺术和时装设计的界限，Nude AI都提供了许多好处。 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nude-ai---image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/startkit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### GirlfriendGPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriendgpt.webp" alt="GirlfriendGPT">
+### Muke Undress AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-muke-undress-ai.webp" alt="Muke Undress AI">
 
-#### 让自己沉浸在 AI 聊天中，创建独特的角色
-[Visit](https://www.thataicollection.com/redirect/girlfriendgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 你可以使用人工智能脱衣生成器来创建目标人物裸体（深裸体）、不穿衣服或穿着比基尼内衣的图像。立即免费试用！
+[Visit](https://www.thataicollection.com/redirect/muke-undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Girlfriend GPT是一个允许用户沉浸式AI聊天并创建独特的人工智能角色的平台。有超过 7500 个 AI 角色可供选择，用户可以探索各种角色，从占主导地位到顺从等等。该平台提供全天候无过滤聊天，允许无限探索和享受。
+探索 AI 脱衣生成器的尖端功能，让您可以在各种状态下生成所需拍摄对象的逼真图像：无论是完全未穿衣服（使用深裸技术）、完全不穿衣服，还是穿着比基尼内衣装饰。利用我们今天的免费试用优惠，亲自探索这个革命性工具的巨大潜力。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/girlfriendgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/muke-undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### AskThePDF.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-askthepdf.io.webp" alt="AskThePDF.io">
+
+#### 只需在保护隐私的情况下与任何 PDF 进行对话即可。
+[Visit](https://www.thataicollection.com/redirect/askthepdf.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AskThePDF.io，只需与任何 PDF 进行对话即可。借助 AI，您现在可以使用 PDF 进行自然的交互式对话，使信息提取变得轻而易举。
+
+主要好处：
+● 无需阅读整个文档即可快速访问相关信息
+● 提出具体问题并获得准确、简洁的答案
+● 获取捕捉冗长 PDF 精髓的摘要
+● 隐私模式
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/askthepdf.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### AI Anime Filter
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-anime-filter.webp" alt="AI Anime Filter">
+
+#### 照片到动画转换器：在线AI动画过滤器
+[Visit](https://www.thataicollection.com/redirect/ai-anime-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+通过由 Stable Diffusion 精选的六个独特模型，只需点击一下即可将你的照片变成动漫风格。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-anime-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### CuteChat AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cutechat-ai_.webp" alt="CuteChat AI">
+
+#### CuteChat-NSFW 角色人工智能聊天-无过滤器 AI 女友
+[Visit](https://www.thataicollection.com/redirect/cutechat-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+探索、创建你的 NSFW 角色 AI 并与之聊天！无过滤器，完全不受限制：允许 NSFW。发送和接收 NSFW 消息和自拍照。体验最先进的NSFW AI女友模拟器。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/cutechat-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3096,7 +3101,7 @@ Amadeus Topline 是一款由人工智能驱动的作曲应用程序，适合每�
 
 ---
 
-## 工作不安全
+## NSFW-Nudify 和 AI 女友
 
 ### Undress Pro AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
@@ -3149,6 +3154,22 @@ PornGen是一个人工智能驱动的平台，专门通过先进的图像生成�
 <br />
 
 
+### Candy AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-candy-ai.webp" alt="Candy AI">
+
+#### Candy.AI：创建你的 AI 女友并开始聊天
+
+[Visit](https://www.thataicollection.com/redirect/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+你的梦想伴侣在等着你！创建你的 AI 女友，塑造她的外表和个性，一键让她变为现实。100% 由人工智能提供支持
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Pephop AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pephop-ai.webp" alt="Pephop AI">
 
@@ -3194,24 +3215,8 @@ PornGen是一个人工智能驱动的平台，专门通过先进的图像生成�
 
 
 
-### NEWFACEPORN
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newfaceporn_.webp" alt="NEWFACEPORN">
 
-#### 最好的AI Faceswap色情工具-生成逼真的Deepfake色情视频
-[Visit](https://www.thataicollection.com/redirect/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-想象一下，在逼真的色情视频中看到你的工作朋友赤身裸体被摧毁，好吧，现在你可以通过交换任何角色并将其变成精彩的色情视频来实现这个梦想
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/newfaceporn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-
-[See All 👀 工作不安全 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/nsfw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[See All 👀 NSFW-Nudify 和 AI 女友 Applications on AI Collection](https://www.thataicollection.com/zh-CN/categories/nsfw-nudify-and-ai-girlfriends?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
 **[⬆ 返回索引](#index)**
@@ -3926,6 +3931,21 @@ StoreChatGPT.ai 是一个动态平台，提供各种自定义 GPT 工具，以�
 
 ## 销售与市场营销
 
+### Socleads
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-socleads.webp" alt="Socleads">
+
+#### Socleads 是新一代的社交网络抓取工具
+[Visit](https://www.thataicollection.com/redirect/socleads?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SocleAds是一款通过关键字、关注者和主题标签从Instagram、谷歌地图、Facebook、Twitter、Youtube和Linkedin上无限制地提取电子邮件的软件
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/socleads?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Predis
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-predis.webp" alt="Predis">
 
@@ -4025,26 +4045,6 @@ Tabula是一个人工智能端到端分析平台，使营销和销售经理能�
 <br />
 
 <br />
-
-
-### Genius Sheets
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-genius-sheets.webp" alt="Genius Sheets">
-
-#### Genius Sheets-来自未来的商业智能
-人工智能驱动的数据分析
-[Visit](https://www.thataicollection.com/redirect/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Genius Sheets AI 是一款自助式商业智能代理，可以回答你所有最重要的问题。
-对话式 AI-与 Genius Sheets 交谈，就像在和同事说话一样
-企业安全-专为企业安全标准而构建-确保您的数据安全。
-易于使用-不需要 SQL 或 Python
-原生界面-在我们的 WebApp、Slack 或 Teams 中连接到你的数据
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 
