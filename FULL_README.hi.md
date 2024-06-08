@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1432" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1433" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>तुम्हारी वेबसाइट के लिए AI चैटबोट, जो तुम्हारे डेटा के आधार पर प्रशिक्षित है</h4>
+    <p>Chatbit एक AI टूल है जिसकी मदद से यूज़र अपनी वेबसाइट के लिए अनुकूलित AI चैटबॉट बना सकते हैं। बॉट्स को ग्राहकों से जुड़ने, उनके सवालों के जवाब देने और लीड कैप्चर करने के लिए डिज़ाइन किया गया है।</p>
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Chatbit के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -65,19 +78,6 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Chat Data के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>तुम्हारी वेबसाइट के लिए AI चैटबोट, जो तुम्हारे डेटा के आधार पर प्रशिक्षित है</h4>
-    <p>Chatbit एक AI टूल है जिसकी मदद से यूज़र अपनी वेबसाइट के लिए अनुकूलित AI चैटबॉट बना सकते हैं। बॉट्स को ग्राहकों से जुड़ने, उनके सवालों के जवाब देने और लीड कैप्चर करने के लिए डिज़ाइन किया गया है।</p>
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Chatbit के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -649,6 +649,7 @@
 | [StarByFace](https://www.thataicollection.com/redirect/starbyface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सेलिब्रिटी लुक अलाइक फेस-रिकग्निशन ऐप - सेलेब्स लाइक मी. | मैं किस सेलिब्रिटी की तरह दिखता हूँ? पता करने की कोशिश करें! सेलेब्रिटी एक जैसे दिखने वाले चेहरे की पहचान करने वाली प्रणाली। अपने हमशक्ल का पता लगाएं।. | :grey_question: |
 | [Starryai](https://www.thataicollection.com/redirect/starryai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Starryai - AI आर्ट जेनरेटर ऐप - AI आर्ट मेकर. | बस एक संकेत दर्ज करें और हमारा एआई आपके शब्दों को कला के कार्यों में बदल देता है।. | :grey_question: |
 | [Sticker AI](https://www.thataicollection.com/redirect/sticker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्टिकर एआई ऑनलाइन! मुफ़्त AI स्टिकर जेनरेटर, यह AI का इस्तेमाल करके संकेत भरे शब्दों से स्टिकर बनाता है।. | स्टिकर एआई एक मुफ़्त AI स्टिकर जनरेटर है, जो AI तकनीक का इस्तेमाल करके प्रॉम्प्ट से स्टिकर बनाता है। चाहे वह सोशल मीडिया, मैसेजिंग ऐप या निजी इस्तेमाल के लिए हो, स्टिकर एआई ऑनलाइन कस्टम स्टिकर बनाने का एक मजेदार और आसान तरीका प्रदान करता है। आज ही स्टिकर एआई ऑनलाइन आज़माएं और आर्टिफिशियल इंटेलिजेंस द्वारा डिज़ाइन किए गए कस्टम स्टिकर के साथ अपने विचारों को जीवंत करें!. | :white_check_mark: |
+| [StickerIt.AI](https://www.thataicollection.com/redirect/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | StickerIt.AI - #1 मोबाइल, एआई-संचालित स्टिकर डिज़ाइन और सेल्स सॉल्यूशन. | StickerIt.AI सीधे अपने मोबाइल डिवाइस से AI-संचालित स्टिकर बनाने और बेचने का तुम्हारा प्रमुख समाधान है। किसी भी स्थान को एक जीवंत स्टिकर वर्कशॉप में ट्रांसफ़ॉर्म करें। सिर्फ़ दो टैबलेट और एक प्रिंटर की मदद से, तुम मिनटों में बनाए गए कस्टम स्टिकर बेचना शुरू कर सकते हो। हमारा प्लेटफ़ॉर्म तुम्हारे AI स्टिकर का कारोबार, कभी भी, कहीं भी चलाने के लिए डिज़ाइन किया गया है।. | :white_check_mark: |
 | [StockPhotoAI net](https://www.thataicollection.com/redirect/stockphotoai-net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्लाइडशो, वेबसाइट या प्रिंट मीडिया के लिए स्टॉक फ़ोटो जेनरेट करने के लिए AI का इस्तेमाल करें।. | ऐसा दिखने के लिए बनाई गई हर तस्वीर पेशेवर कैमरों और पेशेवर अभिनेताओं के साथ बनाई गई थी। हम इन स्टॉक फ़ोटो को बनाने के लिए कस्टम ट्रेनिंग इनपुट और नए Dall-E मॉडल का इस्तेमाल करते हैं। यूज़र स्क्वायर, लैंडस्केप और पोर्ट्रेट ओरिएंटेशन और फ़ोटो के स्टाइल के बीच चयन कर सकते हैं।. | :white_check_mark: |
 | [Stylized](https://www.thataicollection.com/redirect/stylized?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | उत्पाद की तस्वीरें लेने का बेहतर तरीका. | फोन से सूची तक 30 सेकंड में. | :grey_question: |
 | [Tattoon AI](https://www.thataicollection.com/redirect/tattoon-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टैटू डिज़ाइन की सभी चीज़ों के लिए टैटू एआई तुम्हारी सबसे अच्छी मंज़िल है!. | Tattoon.ai एक AI टैटू जेनरेटर है — एक अत्याधुनिक डिजिटल टूल जो तुम्हारी प्राथमिकताओं और विचारों के आधार पर कस्टम टैटू डिज़ाइन बनाने के लिए आर्टिफिशियल इंटेलिजेंस का इस्तेमाल करता है। यह तुम्हारा इनपुट लेता है और टैटू के अनोखे डिज़ाइन बनाता है जिन्हें तुम्हारी पसंद के हिसाब से कस्टमाइज़ किया जा सकता है।. | :white_check_mark: |

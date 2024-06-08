@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1432" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1433" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>Чат-бот с искусственным интеллектом для вашего сайта, обученный на ваших данных</h4>
+    <p>Chatbit — это инструмент искусственного интеллекта, который позволяет пользователям создавать персонализированных чат-ботов с искусственным интеллектом для своих веб-сайтов. Боты предназначены для привлечения клиентов, ответов на их вопросы и привлечения потенциальных клиентов.</p>
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Chatbit</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -65,19 +78,6 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Chat Data</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>Чат-бот с искусственным интеллектом для вашего сайта, обученный на ваших данных</h4>
-    <p>Chatbit — это инструмент искусственного интеллекта, который позволяет пользователям создавать персонализированных чат-ботов с искусственным интеллектом для своих веб-сайтов. Боты предназначены для привлечения клиентов, ответов на их вопросы и привлечения потенциальных клиентов.</p>
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Chatbit</b></a>
     <br />
 </div>
 
@@ -142,6 +142,21 @@
 - 🛒 [Электронная Торговля](#электронная-торговля)
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
+
+### StickerIt.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI">
+
+#### StickerIt.AI | #1 Мобильное решение для дизайна и продажи стикеров на базе искусственного интеллекта
+[Visit](https://www.thataicollection.com/redirect/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StickerIt.AI — это ваше лучшее решение для создания и продажи стикеров на базе искусственного интеллекта прямо с вашего мобильного устройства. Превратите любое место в яркую мастерскую по стикерам. Имея всего два планшета и принтер, вы можете начать продавать наклейки, изготовленные на заказ, за считанные минуты. Наша платформа предназначена для ведения бизнеса по производству наклеек с искусственным интеллектом в любое время и в любом месте.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### AFFiNE
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-affine.webp" alt="AFFiNE">
@@ -242,22 +257,6 @@ AskthePDF.io, просто поговорите с любым PDF-файлом. 
 <br />
 
 <br />
-
-
-### CuteChat AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cutechat-ai_.webp" alt="CuteChat AI">
-
-#### CuteChat - чат с искусственным интеллектом персонажей NSFW - Подружки с искусственным интеллектом без фильтров
-[Visit](https://www.thataicollection.com/redirect/cutechat-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Откройте для себя, создавайте и общайтесь со своим искусственным интеллектом персонажей NSFW! Без фильтров, без ограничений: NSFW разрешен. Отправляйте и получайте сообщения и селфи NSFW. Испытайте самый продвинутый симулятор подруги NSFW AI.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/cutechat-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ## Бухгалтерский учет и финансы
@@ -637,6 +636,21 @@ Plask предлагает искусственный захват движен�
 
 
 
+### StickerIt.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI">
+
+#### StickerIt.AI | #1 Мобильное решение для дизайна и продажи стикеров на базе искусственного интеллекта
+[Visit](https://www.thataicollection.com/redirect/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StickerIt.AI — это ваше лучшее решение для создания и продажи стикеров на базе искусственного интеллекта прямо с вашего мобильного устройства. Превратите любое место в яркую мастерскую по стикерам. Имея всего два планшета и принтер, вы можете начать продавать наклейки, изготовленные на заказ, за считанные минуты. Наша платформа предназначена для ведения бизнеса по производству наклеек с искусственным интеллектом в любое время и в любом месте.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### BgRem
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bgrem.webp" alt="BgRem">
 
@@ -706,27 +720,6 @@ ICONS8 ПОЗВОЛЯЕТ ДИЗАЙНЕРАМ ВЫРАЖАТЬ СВОИ ИДЕ�
 SUPERMACHINE позволяет создавать изображения с помощью новейших технологий искусственного интеллекта. Создавайте потрясающие изображения с искусственным интеллектом, используя более 55 моделей.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Pet Booth
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
-
-#### Pet Booth — это сервис для создания собственных портретов, иллюстраций и фотографий домашних животных с искусственным интеллектом. Просто загрузите 10-20 фотографий своей кошки или собаки и выберите из более чем 80 тем, в которые можно превратить их.
-[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pet Booth — это сервис для создания собственных удивительных портретов, фотографий и произведений искусства с искусственным интеллектом. Это быстро, просто и увлекательно!
-
-Как это работает?
-
-Просто загрузите 10-20 фотографий вашей кошки или собаки и выберите из более чем 80 тем, в которые можно превратить их.
-
-Получите набор из 100 изображений вашего питомца, созданных искусственным интеллектом, как в фотореалистичном, так и в художественном стиле.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1432" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1433" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>适用于您网站的 AI 聊天机器人，根据您的数据进行训练</h4>
-    <p>Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。</p>
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -78,6 +65,19 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chat Data</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>适用于您网站的 AI 聊天机器人，根据您的数据进行训练</h4>
+    <p>Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。</p>
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
     <br />
 </div>
 
@@ -1561,6 +1561,7 @@
 | [StarByFace](https://www.thataicollection.com/redirect/starbyface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 名人长相相似的人脸识别应用程序 - Celebs Like Me. | 我长得像什么名人？试着找出答案！名人长相相似的面部识别系统。找到你的分身。. | :grey_question: |
 | [Starryai](https://www.thataicollection.com/redirect/starryai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | starryai - 人工智能艺术生成器 App - AI Art Maker. | 只需输入提示，我们的 AI 就会将您的文字转化为艺术作品。. | :grey_question: |
 | [Sticker AI](https://www.thataicollection.com/redirect/sticker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 贴纸 AI 在线！免费的人工智能贴纸生成器，它使用AI根据提示词生成贴纸。. | Sticker AI是一个免费的人工智能贴纸生成器，它使用人工智能技术根据提示创建贴纸。无论是用于社交媒体、通讯应用程序还是个人用途，Sticker AI Online 都为创建自定义贴纸提供了一种有趣而简单的方式。立即试用 Sticker AI Online，用人工智能设计的自定义贴纸将你的想法变为现实！. | :white_check_mark: |
+| [StickerIt.AI](https://www.thataicollection.com/redirect/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | StickerIt.AI - #1 移动、人工智能驱动的贴纸设计和销售解决方案. | StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。. | :white_check_mark: |
 | [StockPhotoAI net](https://www.thataicollection.com/redirect/stockphotoai-net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 为幻灯片、网站或印刷媒体生成素材照片。. | 每张照片都是用专业相机和专业演员拍摄的。我们使用自定义训练输入和最新的 Dall-E 模型来制作这些库存照片。用户可以在正方形、横向和人像方向和照片风格之间进行选择。. | :white_check_mark: |
 | [Stylized](https://www.thataicollection.com/redirect/stylized?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 拍摄产品照片的更好方式. | 30 秒内从电话到目录. | :grey_question: |
 | [Tattoon AI](https://www.thataicollection.com/redirect/tattoon-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tattoon AI 是你进行所有纹身设计的终极目的地！. | Tattoon.ai 是一款人工智能纹身生成器——一种尖端的数字工具，它使用人工智能根据你的喜好和想法创建自定义纹身设计。它会听取您的意见并生成独特的纹身设计，可以根据您的喜好进行自定义。. | :white_check_mark: |

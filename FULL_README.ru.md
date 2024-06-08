@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1432" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1433" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>Чат-бот с искусственным интеллектом для вашего сайта, обученный на ваших данных</h4>
+    <p>Chatbit — это инструмент искусственного интеллекта, который позволяет пользователям создавать персонализированных чат-ботов с искусственным интеллектом для своих веб-сайтов. Боты предназначены для привлечения клиентов, ответов на их вопросы и привлечения потенциальных клиентов.</p>
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Chatbit</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -65,19 +78,6 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Chat Data</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>Чат-бот с искусственным интеллектом для вашего сайта, обученный на ваших данных</h4>
-    <p>Chatbit — это инструмент искусственного интеллекта, который позволяет пользователям создавать персонализированных чат-ботов с искусственным интеллектом для своих веб-сайтов. Боты предназначены для привлечения клиентов, ответов на их вопросы и привлечения потенциальных клиентов.</p>
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Chatbit</b></a>
     <br />
 </div>
 
@@ -497,6 +497,7 @@
 | [StarByFace](https://www.thataicollection.com/redirect/starbyface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Приложение для распознавания лиц, похожих на знаменитостей - Celebs Like Me. | На какую знаменитость я похож? Попробуйте узнать! Система распознавания лиц, похожих на знаменитостей. Найдите своего двойника. | :grey_question: |
 | [Starryai](https://www.thataicollection.com/redirect/starryai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | starryai - Приложение AI Art Generator - AI Art Maker. | Просто введите подсказку, и наш ИИ превратит ваши слова в произведения искусства. | :grey_question: |
 | [Sticker AI](https://www.thataicollection.com/redirect/sticker-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Стикер AI онлайн! Бесплатный генератор стикеров AI, он генерирует стикер из подсказок с помощью искусственного интеллекта. | Sticker AI — это бесплатный генератор стикеров с искусственным интеллектом, который создает стикеры из подсказки с использованием технологии искусственного интеллекта. Будь то социальные сети, приложения для обмена сообщениями или для личного использования, Sticker AI Online предоставляет интересный и простой способ создания собственных стикеров. Попробуйте Sticker AI Online сегодня и воплотите свои идеи в жизнь с помощью специальных стикеров, разработанных искусственным интеллектом!. | :white_check_mark: |
+| [StickerIt.AI](https://www.thataicollection.com/redirect/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | StickerIt.AI - #1 Мобильное решение для дизайна и продажи стикеров на базе искусственного интеллекта. | StickerIt.AI — это ваше лучшее решение для создания и продажи стикеров на базе искусственного интеллекта прямо с вашего мобильного устройства. Превратите любое место в яркую мастерскую по стикерам. Имея всего два планшета и принтер, вы можете начать продавать наклейки, изготовленные на заказ, за считанные минуты. Наша платформа предназначена для ведения бизнеса по производству наклеек с искусственным интеллектом в любое время и в любом месте. | :white_check_mark: |
 | [StockPhotoAI net](https://www.thataicollection.com/redirect/stockphotoai-net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Используйте искусственный интеллект для создания стоковых фотографий для слайд-шоу, веб-сайтов или печатных изданий. | Каждая фотография создана так, чтобы она выглядела так, как будто она была сделана профессиональными камерами и профессиональными актерами. Для создания этих стоковых фотографий мы используем специальные учебные материалы и новейшие модели Dall-E. Пользователи могут выбирать между квадратной, ландшафтной и портретной ориентацией и стилем фотографии. | :white_check_mark: |
 | [Stylized](https://www.thataicollection.com/redirect/stylized?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Лучший способ сфотографировать товар. | От телефона до каталога за 30 секунд. | :grey_question: |
 | [Tattoon AI](https://www.thataicollection.com/redirect/tattoon-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tattoon AI — ваше идеальное место для всего, что связано с дизайном татуировок!. | Tattoon.ai — это генератор татуировок с искусственным интеллектом — ультрасовременный цифровой инструмент, использующий искусственный интеллект для создания индивидуальных дизайнов татуировок на основе ваших предпочтений и идей. Он принимает ваше участие и создает уникальные дизайны татуировок, которые можно настроить по своему вкусу. | :white_check_mark: |

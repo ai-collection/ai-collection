@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1432" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1433" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,6 +53,19 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>तुम्हारी वेबसाइट के लिए AI चैटबोट, जो तुम्हारे डेटा के आधार पर प्रशिक्षित है</h4>
+    <p>Chatbit एक AI टूल है जिसकी मदद से यूज़र अपनी वेबसाइट के लिए अनुकूलित AI चैटबॉट बना सकते हैं। बॉट्स को ग्राहकों से जुड़ने, उनके सवालों के जवाब देने और लीड कैप्चर करने के लिए डिज़ाइन किया गया है।</p>
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Chatbit के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -65,19 +78,6 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Chat Data के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>तुम्हारी वेबसाइट के लिए AI चैटबोट, जो तुम्हारे डेटा के आधार पर प्रशिक्षित है</h4>
-    <p>Chatbit एक AI टूल है जिसकी मदद से यूज़र अपनी वेबसाइट के लिए अनुकूलित AI चैटबॉट बना सकते हैं। बॉट्स को ग्राहकों से जुड़ने, उनके सवालों के जवाब देने और लीड कैप्चर करने के लिए डिज़ाइन किया गया है।</p>
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Chatbit के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -142,6 +142,21 @@
 - 📊 [स्लाइड और प्रस्तुतियाँ](#स्लाइड-और-प्रस्तुतियाँ)
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
+
+### StickerIt.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI">
+
+#### StickerIt.AI | #1 मोबाइल, एआई-संचालित स्टिकर डिज़ाइन और सेल्स सॉल्यूशन
+[Visit](https://www.thataicollection.com/redirect/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StickerIt.AI सीधे अपने मोबाइल डिवाइस से AI-संचालित स्टिकर बनाने और बेचने का तुम्हारा प्रमुख समाधान है। किसी भी स्थान को एक जीवंत स्टिकर वर्कशॉप में ट्रांसफ़ॉर्म करें। सिर्फ़ दो टैबलेट और एक प्रिंटर की मदद से, तुम मिनटों में बनाए गए कस्टम स्टिकर बेचना शुरू कर सकते हो। हमारा प्लेटफ़ॉर्म तुम्हारे AI स्टिकर का कारोबार, कभी भी, कहीं भी चलाने के लिए डिज़ाइन किया गया है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 
 ### AFFiNE
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-affine.webp" alt="AFFiNE">
@@ -242,22 +257,6 @@ AskThePDF.io, बस किसी भी PDF से बात करें। AI
 <br />
 
 <br />
-
-
-### CuteChat AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cutechat-ai_.webp" alt="CuteChat AI">
-
-#### क्यूटचैट - एनएसएफडब्ल्यू कैरेक्टर एआई चैट - नो फ़िल्टर एआई गर्लफ़्रेंड्स
-[Visit](https://www.thataicollection.com/redirect/cutechat-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-अपने NSFW कैरेक्टर AI को खोजें, बनाएं और उससे चैट करें! कोई फ़िल्टर नहीं, पूरी तरह से अप्रतिबंधित: NSFW की अनुमति है। NSFW संदेश और सेल्फी भेजें और रिसीव करें। सबसे एडवांस NSFW AI गर्लफ्रेंड सिम्युलेटर का अनुभव करें।
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/cutechat-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ## लेखा और वित्त
@@ -637,6 +636,21 @@ www.CorporateHeadshots.ai के साथ प्रोफ़ेशनल फ़ोट
 
 
 
+### StickerIt.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI">
+
+#### StickerIt.AI | #1 मोबाइल, एआई-संचालित स्टिकर डिज़ाइन और सेल्स सॉल्यूशन
+[Visit](https://www.thataicollection.com/redirect/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StickerIt.AI सीधे अपने मोबाइल डिवाइस से AI-संचालित स्टिकर बनाने और बेचने का तुम्हारा प्रमुख समाधान है। किसी भी स्थान को एक जीवंत स्टिकर वर्कशॉप में ट्रांसफ़ॉर्म करें। सिर्फ़ दो टैबलेट और एक प्रिंटर की मदद से, तुम मिनटों में बनाए गए कस्टम स्टिकर बेचना शुरू कर सकते हो। हमारा प्लेटफ़ॉर्म तुम्हारे AI स्टिकर का कारोबार, कभी भी, कहीं भी चलाने के लिए डिज़ाइन किया गया है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### BgRem
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bgrem.webp" alt="BgRem">
 
@@ -710,27 +724,6 @@ ICONS8 डिज़ाइनर को अपने विचार व्यक्
 <br />
 
 <br />
-
-
-### Pet Booth
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
-
-#### पेट बूथ तुम्हारे खुद के AI पेट पोर्ट्रेट्स, आर्टवर्क और फ़ोटो बनाने की सेवा है। बस अपनी बिल्ली या कुत्ते की 10-20 तस्वीरें अपलोड करें और उन्हें बदलने के लिए 80 से अधिक थीम में से चुनें।
-[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-पेट बूथ आपके खुद के अद्भुत AI पेट पोर्ट्रेट, फ़ोटो और आर्टवर्क बनाने की सेवा है। यह तेज़, आसान और मज़ेदार है!
-
-यह कैसे काम करता है?
-
-बस अपनी बिल्ली या कुत्ते की 10-20 तस्वीरें अपलोड करें और उन्हें बदलने के लिए 80 से अधिक थीम में से चुनें।
-
-फ़ोटो-यथार्थवादी और कलात्मक दोनों शैलियों में अपने पालतू जानवरों की 100 AI जनरेट की गई तस्वीरों का एक पैकेट प्राप्त करें।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 

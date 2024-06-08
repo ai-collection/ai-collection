@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1432" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1433" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>适用于您网站的 AI 聊天机器人，根据您的数据进行训练</h4>
-    <p>Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。</p>
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -78,6 +65,19 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chat Data</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>适用于您网站的 AI 聊天机器人，根据您的数据进行训练</h4>
+    <p>Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。</p>
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
     <br />
 </div>
 
@@ -142,6 +142,21 @@
 - 💰 [销售与市场营销](#销售与市场营销)
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
+
+### StickerIt.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI">
+
+#### StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案
+[Visit](https://www.thataicollection.com/redirect/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 
 ### AFFiNE
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-affine.webp" alt="AFFiNE">
@@ -238,22 +253,6 @@ AskThePDF.io，只需与任何 PDF 进行对话即可。借助 AI，您现在可
 通过由 Stable Diffusion 精选的六个独特模型，只需点击一下即可将你的照片变成动漫风格。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-anime-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### CuteChat AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cutechat-ai_.webp" alt="CuteChat AI">
-
-#### CuteChat-NSFW 角色人工智能聊天-无过滤器 AI 女友
-[Visit](https://www.thataicollection.com/redirect/cutechat-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-探索、创建你的 NSFW 角色 AI 并与之聊天！无过滤器，完全不受限制：允许 NSFW。发送和接收 NSFW 消息和自拍照。体验最先进的NSFW AI女友模拟器。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/cutechat-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -637,6 +636,21 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 <br />
 
 
+### StickerIt.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI">
+
+#### StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案
+[Visit](https://www.thataicollection.com/redirect/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### BgRem
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bgrem.webp" alt="BgRem">
 
@@ -706,27 +720,6 @@ ICONS8 允许设计师表达自己的想法，在正确的时间提供正确的�
 SUPERMACHINE 使您能够使用最新的人工智能技术生成图像。使用 55 多个模型生成精彩的 AI 图像。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Pet Booth
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
-
-#### Pet Booth 是一项用于创建自己的 AI 宠物肖像、艺术品和照片的服务。只需上传 10-20 张您的猫或狗的照片，然后从 80 多个主题中进行选择，即可将其转换成。
-[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pet Booth 是一项用于创建自己精彩的 AI 宠物肖像、照片和艺术品的服务。它快速、简单、有趣！
-
-它是如何工作的？
-
-只需上传 10-20 张您的猫或狗的照片，然后从 80 多个主题中进行选择，即可将其转换成。
-
-收到一包 100 张 AI 生成的宠物图片，既有照片级逼真度，也有艺术风格。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

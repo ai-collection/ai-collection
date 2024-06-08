@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1432" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1433" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -149,6 +149,21 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
+### StickerIt.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI">
+
+#### StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution
+[Visit](https://www.thataicollection.com/redirect/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AFFiNE
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-affine.webp" alt="AFFiNE">
 
@@ -248,22 +263,6 @@ Transform your photos into an anime style with just one click through six distin
 <br />
 
 <br />
-
-
-### CuteChat AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cutechat-ai_.webp" alt="CuteChat AI">
-
-#### CuteChat - NSFW Character AI Chat - No Filter AI Girlfriends
-[Visit](https://www.thataicollection.com/redirect/cutechat-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Discover, Create and Chat with your NSFW Character AI! No Filter, Fully Unrestricted: NSFW Allowed. Send and recieve NSFW messages and selfies. Experience the most advanced NSFW AI Girlfriend Simulator.
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/cutechat-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ## Accounting & Finance
@@ -643,6 +642,21 @@ Experience the future of professional photography with www.corporateHeadshots.ai
 
 
 
+### StickerIt.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI">
+
+#### StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution
+[Visit](https://www.thataicollection.com/redirect/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### BgRem
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bgrem.webp" alt="BgRem">
 
@@ -716,27 +730,6 @@ SUPERMACHINE enables you to generate images with the latest in artificial intell
 <br />
 
 <br />
-
-
-### Pet Booth
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
-
-#### Pet Booth is a service for creating your own AI Pet Portraits, Artwork, and Photos. Simply upload 10-20 photos of your cat or dog and select from over 80+ themes to transform them into.
-[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pet Booth is a service for creating your own amazing AI pet portraits, photos, and artwork. It''s fast, easy, and fun!
-
-How does it work?
-
-Simply upload 10-20 photos of your cat or dog and select from over 80+ themes to transform them into.
-
-Receive a pack of 100 AI generated images of your pet in both photo-realistic and artistic styles.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 

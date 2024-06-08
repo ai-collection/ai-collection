@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1432" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1433" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -143,6 +143,21 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🧠 [Éducation Et Apprentissage](#éducation-et-apprentissage)
 ## Latest Additions to AI Collection
 
+### StickerIt.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI">
+
+#### StickerIt.AI | Solution mobile de création et de vente d'autocollants basée sur l'IA #1
+[Visit](https://www.thataicollection.com/redirect/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StickerIt.AI est ta meilleure solution pour créer et vendre des autocollants alimentés par l'IA directement depuis ton appareil mobile. Transforme n'importe quel lieu en un atelier d'autocollants dynamique. Avec seulement deux tablettes et une imprimante, tu peux commencer à vendre des autocollants personnalisés en quelques minutes. Notre plateforme est conçue pour gérer ton activité d'autocollants IA à tout moment et en tout lieu.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AFFiNE
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-affine.webp" alt="AFFiNE">
 
@@ -242,22 +257,6 @@ Transforme tes photos en anime en un seul clic grâce à six modèles uniques s�
 <br />
 
 <br />
-
-
-### CuteChat AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cutechat-ai_.webp" alt="CuteChat AI">
-
-#### CuteChat - Chat IA avec personnages NSFW - Copines IA sans filtre
-[Visit](https://www.thataicollection.com/redirect/cutechat-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Découvre, crée et discute avec ton personnage IA NSFW ! Aucun filtre, totalement illimité : NSFW est autorisé. Envoie et reçoit des messages et des selfies de la NSFW. Découvrez le simulateur de petite amie NSFW AI le plus avancé.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/cutechat-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 ## Comptabilité et Finance
@@ -637,6 +636,21 @@ Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshot
 
 
 
+### StickerIt.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI">
+
+#### StickerIt.AI | Solution mobile de création et de vente d'autocollants basée sur l'IA #1
+[Visit](https://www.thataicollection.com/redirect/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StickerIt.AI est ta meilleure solution pour créer et vendre des autocollants alimentés par l'IA directement depuis ton appareil mobile. Transforme n'importe quel lieu en un atelier d'autocollants dynamique. Avec seulement deux tablettes et une imprimante, tu peux commencer à vendre des autocollants personnalisés en quelques minutes. Notre plateforme est conçue pour gérer ton activité d'autocollants IA à tout moment et en tout lieu.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### BgRem
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bgrem.webp" alt="BgRem">
 
@@ -706,27 +720,6 @@ ICONS8 PERMET AUX DESIGNERS D''EXPRIMER LEURS IDÉES EN FOURNISSANT LES BONS ÉL
 SUPERMACHINE te permet de générer des images à l''aide des dernières technologies d''intelligence artificielle. Génère de superbes images d''IA avec plus de 55 modèles.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Pet Booth
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
-
-#### Pet Booth est un service qui permet de créer tes propres portraits, illustrations et photos d''animaux de compagnie IA. Il suffit de télécharger 10 à 20 photos de ton chat ou de ton chien et de choisir parmi plus de 80 thèmes pour les transformer.
-[Visit](https://www.thataicollection.com/redirect/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pet Booth est un service qui permet de créer tes propres portraits, photos et illustrations d''animaux de compagnie époustouflants grâce à l''IA. C''est rapide, facile et amusant !
-
-Comment ça fonctionne ?
-
-Il suffit de télécharger 10 à 20 photos de ton chat ou de ton chien et de choisir parmi plus de 80 thèmes pour les transformer.
-
-Recevez un lot de 100 images générées par l''IA de ton animal de compagnie, dans un style photoréaliste et artistique.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/pet-booth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
