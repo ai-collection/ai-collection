@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1433" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1437" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,19 +59,6 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>AI Chatbot for your website, trained on your data</h4>
-    <p>Chatbit is an AI tool that allows users to create customized AI chatbots for their websites. The bots are designed to engage customers, answer their questions, and capture leads.</p>
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Chatbit</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -84,6 +71,19 @@ Translations:
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Chat Data</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>AI Chatbot for your website, trained on your data</h4>
+    <p>Chatbit is an AI tool that allows users to create customized AI chatbots for their websites. The bots are designed to engage customers, answer their questions, and capture leads.</p>
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Chatbit</b></a>
     <br />
 </div>
 
@@ -672,6 +672,7 @@ Translations:
 | [WADeck](https://www.thataicollection.com/redirect/wadeck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Smart Conversations, Smarter CRM: Elevate Your WhatsApp Business Communication with ChatGPT AI. | WADeck is a free WhatsApp CRM tool with a GPT-powered AI assistant to enhance your workflow and productivity. It enables custom tab organization for conversations, allowing efficient coordination. You can create and send customizable message templates with rich media attachments. Use WADeck to double your transaction rate effortlessly. | :white_check_mark: |
 | [Webagent AI](https://www.thataicollection.com/redirect/webagent-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Redesign make design more easy and creativity with AI Platform. | Redesign With AI !AI Design Generator, It generates all design like icon, logo, free sticker, poster, coloring page, mockup from a prompt words using AI. | :white_check_mark: |
 | [Webapi AI 2 0](https://www.thataicollection.com/redirect/webapi-ai-2-0?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ChatGPT for Customer Service. | Use GPT-4 to engage with leads, answer questions about your business, record customer data and connect any API of your choice. | :white_check_mark: |
+| [Webbotify](https://www.thataicollection.com/redirect/webbotify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Webbotify - Reduce 80% of your customer support, instantly. | Webbotify provides AI chatbot trained specifically on your website, which helps you reduce costs, capture leads and boost customer engagement. In just 3 clicks and less than 5 minutes. Chatbase alternative. | :white_check_mark: |
 
 
 <!--lint ignore double-link-->
@@ -776,6 +777,7 @@ Translations:
 | [FashionAdvisorAI](https://www.thataicollection.com/redirect/fashionadvisorai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Fashionadvisor.Ai - Ask Questions & Get Answer''S From Fashionadvisor.Ai. | FashionAdvisor is an AI based on GPT3 which will answer all your fashion related questions instantly for free. | :grey_question: |
 | [IDM VTON Online - Free Online Access for Virtual Try-Ons](https://www.thataicollection.com/redirect/idm-vton-online---free-online-access-for-virtual-try-ons?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | IDM VTON Online - Free Online Access for Virtual Try-Ons: On our platform, by using IDM VTON, you can enjoy unlimited online virtual try-ons and generate a variety of clothing swap images. | IDM VTON - Your Gateway to the Future of Fashion Discover a new dimension in fashion with IDM VTON. Our technology allows you to try on outfits virtually with incredible realism and detail, thanks to our advanced AI-driven approach. | :white_check_mark: |
 | [LooksMax AI](https://www.thataicollection.com/redirect/looksmax-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Looksmax AI analyzes your physical appearance, and shares AI-generated self-improvement tips that will help you boost your confidence and self-esteem. | Analyze your physical appearance using Looksmax AI, and get personalized self-improvement suggestions designed to enhance both your confidence and self-esteem.   You'll receive tailored tips on enhancing your skincare routine, refining your hairstyle, and much more!. | :grey_question: |
+| [MyLooks AI](https://www.thataicollection.com/redirect/mylooks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | MyLooks.AI, your personal beauty and style coach powered by the advanced capabilities of GPT-4. | MyLooks.AI is designed to be more than just a quick rating tool, By utilizing a quick selfie, MyLooks.AI analyzes your features to give you an instant attractiveness score. But it doesn’t stop there—this app serves as a weekly coach, offering tailored advice and strategies to gradually improve your look based on the latest AI insights. | :grey_question: |
 | [Outfit Anyone AI](https://www.thataicollection.com/redirect/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Outfit Anyone AI - Effortless Virtual Try-On for Every Style. | With Outfit Anyone AI, explore a new era of fashion where trying on any outfit is just a click away. Our platform transforms your clothing selection experience with state-of-the-art AI technology. | :white_check_mark: |
 | [Outfit Changer](https://www.thataicollection.com/redirect/outfit-changer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Outfit Changer  AI - Outfit Anyone AI - Virtual Try-On - Your Virtual Wardrobe Awaits -  AI Cloth Changer - outfitchanger.com. | With Outfit Changer, explore a new era of fashion where trying on any outfit is just a click away. Our platform transforms your clothing selection experience with state-of-the-art AI technology. - Outfit Changer  AI - Outfit Anyone AI - Virtual Try-On - Your Virtual Wardrobe Awaits -  AI Cloth Changer:. | :white_check_mark: |
 | [SwagAI](https://www.thataicollection.com/redirect/swagai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Spruce up your boring wardrobe with AI-generated swag. | SwagAI - AI generated images on t-shirts. $1 from every sale goes towards animal conservation and anti-poaching organizations. | :grey_question: |
@@ -1288,6 +1290,7 @@ Translations:
 | [SwifDoo PDF](https://www.thataicollection.com/redirect/swifdoo-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | SwifDoo PDF - All-in-One PDF Software Ultimate Solution to Your PDF Documents  A few clicks to view, create, edit, convert, and manage PDFs. | At SwifDoo PDF, we provide a useful and quick solution to all your PDF relevant needs, from editing and organizing to converting and protecting PDFs.  SwifDoo PDF is a young team, established in 2017, and in the past years, we have helped users process millions of PDF documents. | :white_check_mark: |
 | [Taplio](https://www.thataicollection.com/redirect/taplio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The all-in-one, AI-powered LinkedIn tool. | Taplio helps 6200+ LinkedIn pros build a strong personal brand that attracts clients and opportunities.  Get High-Performing Content, Advanced Scheduling, In-Depth Analytics & Engagement Builder. | :white_check_mark: |
 | [Thegist](https://www.thataicollection.com/redirect/thegist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Thegist AI Summarize Slack Thread and Channels - Get the Gist of It. | theGist Workspace - All your work apps in a single place powered by AI. Smart Unified Inbox, AI Insights, Personalized Summaries, Status of work projects and much more. | :grey_question: |
+| [Tjime](https://www.thataicollection.com/redirect/tjime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tailored insights for balancing workload and stress. | Tjime predicts and helps manage burnout by assisting you in evaluating your workload and stress levels proactively. We've build the companion app you need on your phone to track your day in a caledar mixed todo list. | :white_check_mark: |
 | [Todobee](https://www.thataicollection.com/redirect/todobee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Beautiful AI-Powered Project Management App. | Introducing Todobee, the easiest AI-powered project management app you''ll ever use. - Todobee is the only project management app that promises you unlimited users, unlimited projects, and unlimited tasks. | :white_check_mark: |
 | [Ultimate Skill Extractor by Further](https://www.thataicollection.com/redirect/ultimate-skill-extractor-by-further?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Powered Skill-Suggestion. | Using the power of Skill Suggestion AI we can help you extract in-demand skills in the world, from any kind of text. Try it out! We trained our AI by using more than 1 Million online available content in our Further Content Library which curated from different kinds of sources and topics. | :grey_question: |
 | [Voxio](https://www.thataicollection.com/redirect/voxio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Voxio: Transform Your Voice into Organized Notes with Ease. | Voxio is an innovative app transforming audio recordings into structured notes. Ideal for lectures, meetings, and personal memos, it offers customizable layouts and integrates seamlessly with major note-taking platforms, simplifying the organization and retrieval of information. | :white_check_mark: |
@@ -1463,6 +1466,7 @@ Translations:
 | [TweetEmote](https://www.thataicollection.com/redirect/tweetemote?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | TweetEmote - The AI Powered Tweet Assistant. | The AI-Powered Tweet Assistant - Write Expressive Tweets With Tweet Emote And Get The Engagement That Your Content Deserves!. | :white_check_mark: |
 | [Tweethunter](https://www.thataicollection.com/redirect/tweethunter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tweet Hunter - Get More Twitter Followers Â Tweets, Threads, Scheduler, Analytics. | Get sales, growth and new networks. Faster than what you''re currently trying. | :grey_question: |
 | [Tweetspear](https://www.thataicollection.com/redirect/tweetspear?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Tweetspear - Boost Your Twitter Engagement. | Revolutionize Your Twitter Engagement with  AI-Powered Suggested Replies . | :grey_question: |
+| [Type Prompt](https://www.thataicollection.com/redirect/type-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create Engaging Content With Viral Hook Templates. | We’ve meticulously decoded the strategies of leading influencers and distilled them into customizable templates, ready for you to create content that captivates and skyrockets in popularity.  Enhance Your Posts With Content Psychology  Our prompts take advantage of the 4 types of content that deeply resonate to foster a strong, loyal following. | :white_check_mark: |
 | [Viral Post Generator](https://www.thataicollection.com/redirect/viral-post-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Viral Post Generator - Use AI to write the perfect Linkedin post. | Go mega-viral on Linkedin - Generate a successful post with the power of AI. Write a topic, choose a cringe level and grow on Linkedin Faster. | :white_check_mark: |
 
 
@@ -1741,6 +1745,7 @@ Translations:
 | [Boo AI](https://www.thataicollection.com/redirect/boo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Minimalist AI-powered writing assistant · boo.ai. | The simplest way to write with AI. Boo.ai is a beautifully simple writing app that gives you superpowers. Boo.ai uses AI to help you write faster than ever. A distraction-free writing experience with built-in AI to make writing painless. | :white_check_mark: |
 | [Botowski](https://www.thataicollection.com/redirect/botowski?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Botowski is your new personal AI copywriter!. | AI content generator that creates content for businesses and people who aren''t professional writers. From catchy slogans to email templates or blog content. | :white_check_mark: |
 | [BrameWork](https://www.thataicollection.com/redirect/bramework?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bramework - AI Writer That Helps You Write Blogs 5X Faster. | Bramework''s AI writer boosts your blog with quick, SEO-optimized posts. Turn your blogging passion into a full-time career today!. | :grey_question: |
+| [Chat Zero](https://www.thataicollection.com/redirect/chat-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The Ultimate AI Detector and BypassGPT Tool for ChatGPT. | Leveraging state-of-the-art detection and verification features, the AI Solution identifies and confirms content produced by cutting-edge language models such as GPT-4 and ChatGPT. Crucially, the tool's distinctive "bypassGPT" function permits users to seamlessly rewrite AI-generated text, paving the way for the development of human-like content that can bypass AI detection mechanisms. | :white_check_mark: |
 | [Chatchat for jobs done](https://www.thataicollection.com/redirect/chatchat-for-jobs-done?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | No need for to much think but clear output from our AI service for your job. | 🚀 ChatChat.Bio: Your One-Stop AI Service!  ✨ Features: Stable access to ChatGPT, GPT-4, and Midjourney. Our AI understands fragmented thoughts, clarifies ideas, and guides Midjourney use.  🎉 High User Retention: 70% repeat purchases!  🔧 Tech Advantages: Specialized in fine-tuning models and adapting AI to user needs.  💖 Free Daily Quota: Access services daily for free, no subscription needed!. | :white_check_mark: |
 | [Chibi AI](https://www.thataicollection.com/redirect/chibi-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Chibi AI offers a "personalized AI workshop" designed to empower creators by understanding their unique challenges, providing tailored support. | Picture this: your own little workshop of AI tools, all crafted by you, just for what you need. It''s like your secret clubhouse where you''re the boss, no AI stealing your spotlight. Imagine that epic feeling of making things happen your way. But I bet you''re a bit like me... skeptical of new AI writing tools with their bold claims. Hey, I get it. | :white_check_mark: |
 | [Compose AI](https://www.thataicollection.com/redirect/compose-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Compose AI: Automate Your Writing. Write Faster With AI, Save Time. | Compose is a free Chrome extension that lets you automate your writing using AI. We shouldn''t be spending 40% of our time typing every day: it''s time to change the game. | :white_check_mark: |

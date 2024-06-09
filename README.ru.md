@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1433" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1437" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -143,6 +143,101 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### MyLooks AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mylooks-ai.webp" alt="MyLooks AI">
+
+#### MyLooks.AI, ваш персональный тренер по красоте и стилю, использующий расширенные возможности GPT-4. 
+[Visit](https://www.thataicollection.com/redirect/mylooks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+MyLooks.AI разработан как нечто большее, чем просто инструмент для быстрой оценки. Используя быстрое селфи, MyLooks.AI анализирует ваши функции, чтобы мгновенно оценить вашу привлекательность. Но это еще не все: это приложение служит еженедельным тренером, предлагающим индивидуальные советы и стратегии по постепенному улучшению внешнего вида на основе новейших разработок в области искусственного интеллекта. 
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/mylooks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Tjime
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tjime.webp" alt="Tjime">
+
+#### Индивидуальная аналитика для балансировки рабочей нагрузки и стресса
+[Visit](https://www.thataicollection.com/redirect/tjime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Время предсказывает эмоциональное выгорание и помогает справиться с ним, помогая заблаговременно оценивать рабочую нагрузку и уровень стресса. Мы создали необходимое сопутствующее приложение на вашем телефоне, позволяющее отслеживать ваш день в виде списка задач, смешанных в календаре.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/tjime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Type Prompt
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-type-prompt.webp" alt="Type Prompt">
+
+#### Создавайте интересный контент с помощью шаблонов Viral Hook
+[Visit](https://www.thataicollection.com/redirect/type-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Мы тщательно расшифровали стратегии ведущих влиятельных лиц и превратили их в настраиваемые шаблоны, чтобы вы могли создавать контент, который завораживает и набирает популярность.
+
+Улучшайте свои посты с помощью психологии контента
+
+В наших подсказках используются 4 типа контента, которые вызывают большой резонанс, чтобы привлечь постоянных и лояльных подписчиков.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/type-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Webbotify
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-webbotify.webp" alt="Webbotify">
+
+#### Webbotify — мгновенно сократите расходы на поддержку клиентов на 80%.
+
+[Visit](https://www.thataicollection.com/redirect/webbotify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Webbotify предоставляет чат-бота с искусственным интеллектом, специально обученного на вашем веб-сайте, который поможет вам сократить расходы, привлечь потенциальных клиентов и повысить вовлеченность клиентов. Всего за 3 клика и менее чем за 5 минут. Альтернатива Chatbase
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/webbotify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI-Writer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-writer.webp" alt="AI-Writer">
+
+#### AI Writer™ — лучший генератор текстов с искусственным интеллектом, обещанный.
+[Visit](https://www.thataicollection.com/redirect/ai-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI-Writer — это самая точная платформа для генерации контента, использующая самые современные модели написания AI для создания статей только из заголовка.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Chat Zero
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-zero.webp" alt="Chat Zero">
+
+#### Лучший детектор искусственного интеллекта и инструмент BypassGPT для ChatGPT
+[Visit](https://www.thataicollection.com/redirect/chat-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Используя самые современные функции обнаружения и проверки, решение AI идентифицирует и подтверждает контент, созданный с помощью передовых языковых моделей, таких как GPT-4 и ChatGPT. Самое главное, что уникальная функция инструмента «BypassGPT» позволяет пользователям легко переписывать текст, созданный искусственным интеллектом, что открывает путь к разработке контента, похожего на человека, который может обходить механизмы обнаружения искусственным интеллектом.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/chat-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### StickerIt.AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI">
 
@@ -156,107 +251,6 @@ StickerIt.AI — это ваше лучшее решение для создан
 <br />
 
 
-
-
-### AFFiNE
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-affine.webp" alt="AFFiNE">
-
-#### Ваш партнер по искусственному интеллекту поможет вам лучше писать, рисовать и презентовать
-[Visit](https://www.thataicollection.com/redirect/affine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Получайте мгновенную информацию, улучшайте контент и расширяйте кругозор с помощью волшебных ментальных карт и готовых к презентациям слайдов. Affine AI позволяет мыслить масштабно, быстрее создавать, работать эффективнее и экономить время на каждом проекте. 
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/affine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### DocsHound
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-docshound.webp" alt="DocsHound">
-
-#### Программное обеспечение базы знаний, переосмысленное с помощью искусственного интеллекта. 
-[Visit](https://www.thataicollection.com/redirect/docshound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Новый способ документирования SaaS-компаний без ручных усилий. Создавайте, поддерживайте и публикуйте сложную документацию, создающую впечатление о бренде.
-
-DocsHound — это первая база знаний на основе искусственного интеллекта, переработанная с нуля и специально созданная для эпохи искусственного интеллекта. 
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/docshound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### StartKit.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-startkit.ai.webp" alt="StartKit.AI">
-
-#### Шаблон для быстрого создания продуктов искусственного интеллекта
-[Visit](https://www.thataicollection.com/redirect/startkit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-StartKit.AI — это шаблон, предназначенный для ускорения разработки проектов искусственного интеллекта. 
-
-Он предлагает готовые маршруты REST API для всех распространенных задач искусственного интеллекта: чат, изображения, длинный текст, преобразование речи в текст, преобразование текста в речь, переводы и модерация. А также более сложные интеграции, такие как RAG, сканирование веб-страниц, векторное встраивание и многое другое!
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/startkit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Muke Undress AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-muke-undress-ai.webp" alt="Muke Undress AI">
-
-#### Вы можете использовать генератор ai undress для создания изображений целевого человека обнаженным (глубоко обнаженным), без одежды или в нижнем белье бикини. Попробуйте бесплатно прямо сейчас!
-[Visit](https://www.thataicollection.com/redirect/muke-undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Откройте для себя передовые возможности генератора раздевания с искусственным интеллектом, позволяющего создавать реалистичные изображения желаемого объекта в самых разных состояниях: в полностью обнаженном виде (с использованием технологии глубокого обнажения), без одежды или в нижнем белье бикини. Воспользуйтесь нашим предложением бесплатной пробной версии уже сегодня и оцените огромный потенциал этого революционного инструмента.
-
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/muke-undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AskThePDF.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-askthepdf.io.webp" alt="AskThePDF.io">
-
-#### Просто общайтесь с любым PDF-файлом без ущерба для конфиденциальности.
-[Visit](https://www.thataicollection.com/redirect/askthepdf.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AskthePDF.io, просто поговорите с любым PDF-файлом. Благодаря искусственному интеллекту теперь вы можете вести естественные интерактивные беседы со своими PDF-файлами, что упрощает извлечение информации.
-
-Ключевые преимущества:
-● Быстрый доступ к соответствующей информации без чтения всего документа
-● Задавайте конкретные вопросы и получайте точные и краткие ответы
-● Получите резюме, отражающие суть длинных PDF-файлов
-● Режим конфиденциальности
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/askthepdf.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Anime Filter
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-anime-filter.webp" alt="AI Anime Filter">
-
-#### Конвертер фотографий в аниме: фильтр аниме с искусственным интеллектом онлайн
-[Visit](https://www.thataicollection.com/redirect/ai-anime-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Превратите свои фотографии в стиле аниме одним щелчком мыши с помощью шести уникальных моделей, созданных Stable Diffusion.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-anime-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ## Бухгалтерский учет и финансы
@@ -1345,6 +1339,22 @@ Chat Data — это платформа чат-ботов с искусстве�
 
 
 
+### Webbotify
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-webbotify.webp" alt="Webbotify">
+
+#### Webbotify — мгновенно сократите расходы на поддержку клиентов на 80%.
+
+[Visit](https://www.thataicollection.com/redirect/webbotify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Webbotify предоставляет чат-бота с искусственным интеллектом, специально обученного на вашем веб-сайте, который поможет вам сократить расходы, привлечь потенциальных клиентов и повысить вовлеченность клиентов. Всего за 3 клика и менее чем за 5 минут. Альтернатива Chatbase
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/webbotify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI Answers by Cohere
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-answers-by-cohere.webp" alt="AI Answers by Cohere">
 
@@ -1415,21 +1425,6 @@ Chat Data — это платформа чат-ботов с искусстве�
 
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### ChatGenius
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatgenius.webp" alt="ChatGenius">
-
-#### ChatGenius — откройте для себя возможности многоязычного общения
-[Visit](https://www.thataicollection.com/redirect/chatgenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ChatGenius — компания-разработчик программного обеспечения, которая предоставляет мощное решение для чат-ботов с искусственным интеллектом на базе GPT-4 и ChatGPT. Наш чат-бот предлагает круглосуточную поддержку на более чем 110 языках и может быть легко интегрирован в ваш веб-сайт или платформу.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/chatgenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5221,6 +5216,21 @@ Linkr — это универсальный инструмент управле�
 
 
 
+### AI-Writer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-writer.webp" alt="AI-Writer">
+
+#### AI Writer™ — лучший генератор текстов с искусственным интеллектом, обещанный.
+[Visit](https://www.thataicollection.com/redirect/ai-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI-Writer — это самая точная платформа для генерации контента, использующая самые современные модели написания AI для создания статей только из заголовка.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/ai-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### BizPlanner AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bizplanner-ai.webp" alt="BizPlanner AI">
 
@@ -5296,21 +5306,6 @@ Rytr — это помощник по написанию текстов с ис�
 Искусственный интеллект для журналистов создает хорошо структурированный контент, подходящий для вашего бизнеса и имеющий рейтинг в Google.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Junia AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-junia-ai.webp" alt="Junia AI">
-
-#### Junia AI - лучшее программное обеспечение для написания ИИ для SEO
-[Visit](https://www.thataicollection.com/redirect/junia-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Junia AI — это ведущий инструмент для написания искусственного интеллекта, который позволяет компаниям создавать контент, оптимизированный для SEO, и улучшает общий процесс написания. Junia AI обслуживает различные отрасли, такие как электронная коммерция, SEO-агентства и блогеры. Благодаря передовым специально обученным моделям искусственного интеллекта Junia AI позволяет брендам создавать высококачественный контент, посвященный брендам, фактический и похожий на человека.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/junia-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

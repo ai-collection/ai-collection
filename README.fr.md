@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1433" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1437" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>Chatbot IA pour ton site web, formé à partir de tes données</h4>
-    <p>Chatbit est un outil d'intelligence artificielle qui permet aux utilisateurs de créer des chatbots IA personnalisés pour leurs sites Web. Les robots sont conçus pour interagir avec les clients, répondre à leurs questions et capter des prospects.</p>
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Chatbit</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -78,6 +65,19 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Chat Data</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>Chatbot IA pour ton site web, formé à partir de tes données</h4>
+    <p>Chatbit est un outil d'intelligence artificielle qui permet aux utilisateurs de créer des chatbots IA personnalisés pour leurs sites Web. Les robots sont conçus pour interagir avec les clients, répondre à leurs questions et capter des prospects.</p>
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Démarrer avec Chatbit</b></a>
     <br />
 </div>
 
@@ -143,6 +143,101 @@ Pour voir la collection complète des applications d'IA dans la vue tableau hér
 - 🧠 [Éducation Et Apprentissage](#éducation-et-apprentissage)
 ## Latest Additions to AI Collection
 
+### MyLooks AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mylooks-ai.webp" alt="MyLooks AI">
+
+#### MyLooks.AI, ton coach de beauté et de style personnel qui s'appuie sur les fonctionnalités avancées de GPT-4. 
+[Visit](https://www.thataicollection.com/redirect/mylooks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+MyLooks.AI est conçu pour être bien plus qu'un simple outil d'évaluation rapide. À l'aide d'un selfie rapide, MyLooks.AI analyse tes caractéristiques pour te donner un score d'attractivité instantané. Mais ça ne s'arrête pas là : cette application fait office de coach hebdomadaire et propose des conseils et des stratégies personnalisés pour améliorer progressivement ton apparence en fonction des dernières informations en matière d'IA. 
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/mylooks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Tjime
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tjime.webp" alt="Tjime">
+
+#### Des informations personnalisées pour équilibrer la charge de travail et le stress
+[Visit](https://www.thataicollection.com/redirect/tjime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Le temps prédit et aide à gérer l'épuisement professionnel en t'aidant à évaluer ta charge de travail et ton niveau de stress de manière proactive. Nous avons créé l'application complémentaire dont tu as besoin sur ton téléphone pour suivre ta journée sur une liste de tâches mixte.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/tjime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Type Prompt
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-type-prompt.webp" alt="Type Prompt">
+
+#### Créez du contenu captivant à l'aide de modèles Viral Hook
+[Visit](https://www.thataicollection.com/redirect/type-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nous avons méticuleusement décodé les stratégies des principaux influenceurs et les avons regroupées dans des modèles personnalisables, prêts à vous permettre de créer du contenu captivant et dont la popularité monte en flèche.
+
+Améliorez tes publications grâce à la psychologie du contenu
+
+Nos instructions tirent parti des 4 types de contenu qui trouvent un écho profond pour fidéliser et fidéliser le public.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/type-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Webbotify
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-webbotify.webp" alt="Webbotify">
+
+#### Webbotify - Réduisez instantanément la charge de 80 % de ton service client.
+
+[Visit](https://www.thataicollection.com/redirect/webbotify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Webbotify fournit un chatbot IA spécialement conçu pour ton site web, qui t'aide à réduire les coûts, à capter des prospects et à renforcer l'engagement client. En seulement 3 clics et moins de 5 minutes. Alternative à Chatbase
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/webbotify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI-Writer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-writer.webp" alt="AI-Writer">
+
+#### AI Writer™ - Le meilleur générateur de texte basé sur l'IA, promis.
+[Visit](https://www.thataicollection.com/redirect/ai-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI-Writer est la plateforme de génération de contenu la plus précise, qui utilise des modèles de rédaction basés sur l'IA de pointe pour générer des articles à partir d'un simple titre.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Chat Zero
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-zero.webp" alt="Chat Zero">
+
+#### Le meilleur outil de détection d'IA et de contournement GPT pour ChatGPT
+[Visit](https://www.thataicollection.com/redirect/chat-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Tirant parti de fonctionnalités de détection et de vérification de pointe, la solution AI identifie et confirme le contenu produit par des modèles linguistiques de pointe tels que GPT-4 et ChatGPT. Surtout, la fonction distinctive « BypassGPT » de l'outil permet aux utilisateurs de réécrire facilement du texte généré par l'IA, ouvrant ainsi la voie au développement de contenus similaires à des humains capables de contourner les mécanismes de détection de l'IA.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/chat-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### StickerIt.AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI">
 
@@ -156,107 +251,6 @@ StickerIt.AI est ta meilleure solution pour créer et vendre des autocollants al
 <br />
 
 
-
-
-### AFFiNE
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-affine.webp" alt="AFFiNE">
-
-#### Ton partenaire IA t'aide à mieux écrire, dessiner et présenter
-[Visit](https://www.thataicollection.com/redirect/affine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Obtenez des informations instantanées, un contenu parfait et élargissez votre réflexion grâce à des cartes mentales magiques et à des diapositives prêtes à être présentées. Affine AI te permet de voir plus grand, de créer plus rapidement, de travailler plus intelligemment et de gagner du temps pour chaque projet. 
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/affine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### DocsHound
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-docshound.webp" alt="DocsHound">
-
-#### Logiciel de base de connaissances, repensé grâce à l'IA. 
-[Visit](https://www.thataicollection.com/redirect/docshound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Une nouvelle méthode pour les entreprises SaaS de documenter sans effort manuel. Créez, gérez et publiez une documentation sophistiquée qui donne une impression de marque.
-
-DocShound est la première base de connaissances native à l'IA, entièrement repensée et spécialement conçue pour l'ère de l'IA. 
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/docshound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### StartKit.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-startkit.ai.webp" alt="StartKit.AI">
-
-#### Un modèle pour créer rapidement des produits d'IA
-[Visit](https://www.thataicollection.com/redirect/startkit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-StartKit.AI est un passe-partout conçu pour accélérer le développement de projets d'IA. 
-
-Il propose des itinéraires d'API REST prédéfinis pour toutes les tâches courantes de l'IA : chat, images, texte long, synthèse vocale, traduction et modération. Ainsi que des intégrations plus complexes, telles que RAG, l'exploration du Web, les intégrations vectorielles et bien plus encore !
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/startkit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Muke Undress AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-muke-undress-ai.webp" alt="Muke Undress AI">
-
-#### Tu peux utiliser le générateur de déshabillage IA pour créer des images de la personne cible nue (nue profonde), sans vêtements ou portant des sous-vêtements de bikini. Essaye-le gratuitement dès maintenant !
-[Visit](https://www.thataicollection.com/redirect/muke-undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Découvrez les fonctionnalités de pointe du générateur de déshabillage IA, qui te permet de générer des images réalistes du sujet de ton choix dans différents états : qu'il soit entièrement nu (grâce à la technologie Deep Nude), complètement dévêtu ou vêtu de sous-vêtements de bikini. Profitez de notre offre d'essai gratuit dès aujourd'hui et explore par toi-même le vaste potentiel de cet outil révolutionnaire.
-
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/muke-undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AskThePDF.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-askthepdf.io.webp" alt="AskThePDF.io">
-
-#### Il suffit de parler à n'importe quel PDF en toute confidentialité.
-[Visit](https://www.thataicollection.com/redirect/askthepdf.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AskThePDF.io, il suffit de parler à n'importe quel PDF. Grâce à l'IA, tu peux désormais engager des conversations naturelles et interactives avec tes PDF, ce qui facilite l'extraction d'informations.
-
-Principaux avantages :
-● Accédez rapidement aux informations pertinentes sans lire l'intégralité du document
-● Posez des questions spécifiques et recevez des réponses précises et concises
-● Obtenez des résumés qui reprennent l'essentiel de longs PDF
-● Mode confidentialité
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/askthepdf.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Anime Filter
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-anime-filter.webp" alt="AI Anime Filter">
-
-#### Convertisseur de photos en anime : filtre d'anime IA en ligne
-[Visit](https://www.thataicollection.com/redirect/ai-anime-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Transforme tes photos en anime en un seul clic grâce à six modèles uniques sélectionnés par Stable Diffusion.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-anime-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ## Comptabilité et Finance
@@ -1345,6 +1339,22 @@ Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnali
 
 
 
+### Webbotify
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-webbotify.webp" alt="Webbotify">
+
+#### Webbotify - Réduisez instantanément la charge de 80 % de ton service client.
+
+[Visit](https://www.thataicollection.com/redirect/webbotify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Webbotify fournit un chatbot IA spécialement conçu pour ton site web, qui t'aide à réduire les coûts, à capter des prospects et à renforcer l'engagement client. En seulement 3 clics et moins de 5 minutes. Alternative à Chatbase
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/webbotify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI Answers by Cohere
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-answers-by-cohere.webp" alt="AI Answers by Cohere">
 
@@ -1415,21 +1425,6 @@ Découvrez le futur de la communication d''entreprise avec Echowin. Ton agent IA
 
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### ChatGenius
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatgenius.webp" alt="ChatGenius">
-
-#### ChatGenius - Libérez le pouvoir de la communication multilingue
-[Visit](https://www.thataicollection.com/redirect/chatgenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ChatGenius est une société de logiciels qui fournit une puissante solution de chatbot IA alimentée par GPT-4 et ChatGPT. Notre chatbot offre une assistance 24h/24 et 7j/7 dans plus de 110 langues et peut être intégré de manière transparente à votre site Web ou à votre plateforme
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/chatgenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5222,6 +5217,21 @@ L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à refo
 
 
 
+### AI-Writer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-writer.webp" alt="AI-Writer">
+
+#### AI Writer™ - Le meilleur générateur de texte basé sur l'IA, promis.
+[Visit](https://www.thataicollection.com/redirect/ai-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI-Writer est la plateforme de génération de contenu la plus précise, qui utilise des modèles de rédaction basés sur l'IA de pointe pour générer des articles à partir d'un simple titre.
+
+[More Information and Pricing](https://www.thataicollection.com/fr/application/ai-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### BizPlanner AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bizplanner-ai.webp" alt="BizPlanner AI">
 
@@ -5297,21 +5307,6 @@ Accédez instantanément à des centaines d''articles pertinents, uniques et opt
 Journalist AI crée du contenu bien structuré, adapté à ton activité et classé sur Google.
 
 [More Information and Pricing](https://www.thataicollection.com/fr/application/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Junia AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-junia-ai.webp" alt="Junia AI">
-
-#### Junia AI - Meilleur logiciel de rédaction basé sur l''IA pour le référencement
-[Visit](https://www.thataicollection.com/redirect/junia-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Junia AI est un outil de rédaction basé sur l''IA de pointe qui permet aux entreprises de créer du contenu optimisé pour le référencement et améliore le processus de rédaction dans son ensemble. Junia AI s''adresse à de nombreux secteurs tels que le commerce électronique, les agences de référencement et les blogueurs. Grâce à ses modèles d''IA avancés et personnalisés, Junia AI permet aux marques de créer du contenu de haute qualité, factuel et proche de l''humain.
-
-[More Information and Pricing](https://www.thataicollection.com/fr/application/junia-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

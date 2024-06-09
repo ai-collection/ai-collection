@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1433" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1437" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>तुम्हारी वेबसाइट के लिए AI चैटबोट, जो तुम्हारे डेटा के आधार पर प्रशिक्षित है</h4>
-    <p>Chatbit एक AI टूल है जिसकी मदद से यूज़र अपनी वेबसाइट के लिए अनुकूलित AI चैटबॉट बना सकते हैं। बॉट्स को ग्राहकों से जुड़ने, उनके सवालों के जवाब देने और लीड कैप्चर करने के लिए डिज़ाइन किया गया है।</p>
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Chatbit के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -78,6 +65,19 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Chat Data के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>तुम्हारी वेबसाइट के लिए AI चैटबोट, जो तुम्हारे डेटा के आधार पर प्रशिक्षित है</h4>
+    <p>Chatbit एक AI टूल है जिसकी मदद से यूज़र अपनी वेबसाइट के लिए अनुकूलित AI चैटबॉट बना सकते हैं। बॉट्स को ग्राहकों से जुड़ने, उनके सवालों के जवाब देने और लीड कैप्चर करने के लिए डिज़ाइन किया गया है।</p>
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Chatbit के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -143,6 +143,101 @@
 - 👩‍⚕️ [स्वास्थ्य देखभाल](#स्वास्थ्य-देखभाल)
 ## Latest Additions to AI Collection
 
+### MyLooks AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mylooks-ai.webp" alt="MyLooks AI">
+
+#### MyLooks.AI, तुम्हारे निजी ब्यूटी और स्टाइल कोच में GPT-4 की एडवांस क्षमताएं हैं। 
+[Visit](https://www.thataicollection.com/redirect/mylooks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+MyLooks.AI को सिर्फ़ एक क्विक रेटिंग टूल के तौर पर डिज़ाइन किया गया है, क्विक सेल्फी का इस्तेमाल करके, MyLooks.AI तुम्हेंं तुरंत आकर्षक स्कोर देने के लिए तुम्हारी सुविधाओं का विश्लेषण करता है। लेकिन बात यहीं नहीं रुके—यह ऐप साप्ताहिक कोच के तौर पर काम करता है, जो AI की नई जानकारी के आधार पर तुम्हारे लुक को धीरे-धीरे बेहतर बनाने के लिए तैयार की गई सलाह और रणनीतियां प्रदान करता है। 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/mylooks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Tjime
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tjime.webp" alt="Tjime">
+
+#### काम के बोझ और तनाव को संतुलित करने के लिए तैयार की गई जानकारी
+[Visit](https://www.thataicollection.com/redirect/tjime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+समय भविष्यवाणी करता है और बर्नआउट को मैनेज करने में मदद करता है, इससे तुम्हारे काम के बोझ और तनाव के स्तर का लगातार मूल्यांकन करने में मदद मिलती है। हमने कैलेंडर मिक्स्ड टूडू लिस्ट में तुम्हारा दिन ट्रैक करने के लिए तुम्हेंं फ़ोन पर अपना साथी ऐप बनाया है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/tjime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Type Prompt
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-type-prompt.webp" alt="Type Prompt">
+
+#### वायरल हुक टेम्प्लेट के साथ आकर्षक कॉन्टेंट बनाएं
+[Visit](https://www.thataicollection.com/redirect/type-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+हमने प्रमुख इन्फ्लुएंसर्स की रणनीतियों को सावधानी से डिकोड किया है और उन्हें कस्टमाइज़ करने योग्य टेम्प्लेट में डिस्टिल किया है, जो तुम्हारे लिए ऐसा कंटेंट बनाने के लिए तैयार है जो लुभावना हो और लोकप्रियता आसमान छू जाए।
+
+कॉन्टेंट साइकोलॉजी की मदद से अपनी पोस्ट बेहतर बनाएं
+
+हमारे प्रॉम्प्ट 4 तरह के कॉन्टेंट का फ़ायदा उठाते हैं, जो मज़बूत, वफादार फ़ॉलोइंग को बढ़ावा देने के लिए गहराई तक गूंजती है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/type-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Webbotify
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-webbotify.webp" alt="Webbotify">
+
+#### Webbotify - अपनी 80% ग्राहक सहायता को तुरन्त कम करें।
+
+[Visit](https://www.thataicollection.com/redirect/webbotify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Webbotify तुम्हारी वेबसाइट पर ख़ास तौर से प्रशिक्षित AI चैटबॉट की सुविधा देता है, जो तुम्हेंं लागत कम करने, लीड कैप्चर करने और ग्राहक सहभागिता बढ़ाने में मदद करता है। सिर्फ़ 3 क्लिक में और 5 मिनट से भी कम समय में। चैटबेस का विकल्प
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/webbotify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### AI-Writer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-writer.webp" alt="AI-Writer">
+
+#### AI राइटर™ - सबसे अच्छा AI टेक्स्ट जेनरेटर, वादा किया हुआ।
+[Visit](https://www.thataicollection.com/redirect/ai-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+एआई-राइटर कॉन्टेंट बनाने का सबसे सटीक प्लैटफ़ॉर्म है, जो सिर्फ़ हेडलाइन से लेख बनाने के लिए अत्याधुनिक AI लेखन मॉडल का इस्तेमाल करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Chat Zero
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-zero.webp" alt="Chat Zero">
+
+#### ChatGPT के लिए बेहतरीन AI डिटेक्टर और बाईपास GPT टूल
+[Visit](https://www.thataicollection.com/redirect/chat-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+अत्याधुनिक पहचान और सत्यापन सुविधाओं का लाभ उठाते हुए, AI सॉल्यूशन GPT-4 और ChatGPT जैसे अत्याधुनिक भाषा मॉडल द्वारा बनाई गई सामग्री की पहचान करता है और उसकी पुष्टि करता है। महत्वपूर्ण बात यह है कि टूल का खास “BypassGPT” फ़ंक्शन यूज़र को एआई-जनरेट किए गए टेक्स्ट को आसानी से फिर से लिखने की अनुमति देता है, जिससे मानव-जैसी सामग्री के विकास का मार्ग प्रशस्त होता है, जो AI का पता लगाने की व्यवस्था को दरकिनार कर सकती है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/chat-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### StickerIt.AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI">
 
@@ -156,107 +251,6 @@ StickerIt.AI सीधे अपने मोबाइल डिवाइस स
 <br />
 
 
-
-
-### AFFiNE
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-affine.webp" alt="AFFiNE">
-
-#### तुम्हारा AI पार्टनर तुम्हेंं बेहतर तरीके से लिखने, चित्र बनाने और पेश करने में मदद करता है
-[Visit](https://www.thataicollection.com/redirect/affine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-जादुई माइंडमैप और प्रेजेंटेशन के लिए तैयार स्लाइड्स की मदद से तुरंत जानकारी, बेहतरीन कॉन्टेंट पाएँ और सोच को बेहतर बनाएं। AFFine AI की मदद से तुम बड़ा सोच सकते हो, तेज़ी से काम कर सकते हो, बेहतर तरीके से काम कर सकते हो और हर प्रोजेक्ट के लिए समय बचा सकते हो। 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/affine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### DocsHound
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-docshound.webp" alt="DocsHound">
-
-#### नॉलेज बेस सॉफ़्टवेयर, जिसे AI के साथ फिर से बनाया गया है। 
-[Visit](https://www.thataicollection.com/redirect/docshound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SaaS कंपनियों के लिए बिना किसी मैन्युअल प्रयास के दस्तावेजीकरण करने का एक नया तरीका। अत्याधुनिक दस्तावेज़ों को बनाएं, उनका रखरखाव करें और प्रकाशित करें, जो ब्रांड की छाप छोड़ते हैं।
-
-डॉक्सहाउंड पहला एआई-नेटिव नॉलेज बेस है, जिसकी शुरुआत से फिर से कल्पना की गई है, और AI युग के लिए उद्देश्य बनाया गया है। 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/docshound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### StartKit.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-startkit.ai.webp" alt="StartKit.AI">
-
-#### जल्दी से AI उत्पाद बनाने के लिए बॉयलरप्लेट
-[Visit](https://www.thataicollection.com/redirect/startkit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-StartKit.AI एक बॉयलरप्लेट है जिसे AI प्रोजेक्ट्स के विकास की गति बढ़ाने के लिए डिज़ाइन किया गया है। 
-
-यह सभी सामान्य AI टास्क के लिए पहले से तैयार REST API रूट देता है: चैट, इमेज, लॉन्ग-फ़ॉर्म टेक्स्ट, स्पीच-टू-टेक्स्ट, टेक्स्ट-टू-स्पीच, अनुवाद और मॉडरेशन। साथ ही ज़्यादा जटिल इंटीग्रेशन, जैसे कि RAG, वेब-क्रॉलिंग, वेक्टर एम्बेडिंग, और भी बहुत कुछ!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/startkit.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Muke Undress AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-muke-undress-ai.webp" alt="Muke Undress AI">
-
-#### तुम एआई अनड्रेस जनरेटर का इस्तेमाल करके, बिना कपड़ों के, या बिकिनी अंडरवियर पहने हुए टारगेट व्यक्ति की नग्न (बहुत नग्न) तस्वीरें बना सकते हो। इसे अभी मुफ्त में आजमाओ!
-[Visit](https://www.thataicollection.com/redirect/muke-undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI अनड्रेस जनरेटर की अत्याधुनिक क्षमताओं के बारे में जानें, जिससे तुम कई राज्यों में अपने इच्छित विषय की सजीव छवियां बना सकते हो: चाहे वह पूरी तरह से बिना कपड़ों के हो (डीप न्यूड तकनीक का इस्तेमाल करते हुए), बिना कपड़ों के, या बिकिनी अंडरवियर में सजी हुई हो। आज ही हमारे मुफ़्त ट्रायल ऑफ़र का फ़ायदा उठाएं और अपने लिए इस क्रांतिकारी टूल की अपार संभावनाओं को एक्सप्लोर करें।
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/muke-undress-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AskThePDF.io
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-askthepdf.io.webp" alt="AskThePDF.io">
-
-#### बस किसी भी PDF से बात करें, जिसमें गोपनीयता बरकरार हो।
-[Visit](https://www.thataicollection.com/redirect/askthepdf.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AskThePDF.io, बस किसी भी PDF से बात करें। AI के साथ अब तुम अपने PDF के साथ स्वाभाविक, इंटरैक्टिव बातचीत कर सकते हो, जिससे जानकारी निकालना आसान हो जाता है।
-
-मुख्य फ़ायदे:
-● पूरा दस्तावेज़ पढ़े बिना तुरंत प्रासंगिक जानकारी एक्सेस करें
-● खास सवाल पूछें और सटीक, संक्षिप्त जवाब पाओ
-● ऐसे सारांश पाओ जो लंबी PDF के सार को कैप्चर करते हैं
-● प्राइवेसी मोड
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/askthepdf.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI Anime Filter
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-anime-filter.webp" alt="AI Anime Filter">
-
-#### फ़ोटो टू एनीमे कन्वर्टर: एआई एनीमे फ़िल्टर ऑनलाइन
-[Visit](https://www.thataicollection.com/redirect/ai-anime-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-स्टेबल डिफ़्यूज़न से क्यूरेट किए गए छह खास मॉडल के ज़रिए बस एक क्लिक से अपनी तस्वीरों को एनीमे स्टाइल में ट्रांसफ़ॉर्म करें।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-anime-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 ## लेखा और वित्त
@@ -1345,6 +1339,22 @@ Blocks Dev द्वारा विकसित MVP के साथ हफ्�
 
 
 
+### Webbotify
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-webbotify.webp" alt="Webbotify">
+
+#### Webbotify - अपनी 80% ग्राहक सहायता को तुरन्त कम करें।
+
+[Visit](https://www.thataicollection.com/redirect/webbotify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Webbotify तुम्हारी वेबसाइट पर ख़ास तौर से प्रशिक्षित AI चैटबॉट की सुविधा देता है, जो तुम्हेंं लागत कम करने, लीड कैप्चर करने और ग्राहक सहभागिता बढ़ाने में मदद करता है। सिर्फ़ 3 क्लिक में और 5 मिनट से भी कम समय में। चैटबेस का विकल्प
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/webbotify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI Answers by Cohere
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-answers-by-cohere.webp" alt="AI Answers by Cohere">
 
@@ -1415,21 +1425,6 @@ Blocks Dev द्वारा विकसित MVP के साथ हफ्�
 
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### ChatGenius
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatgenius.webp" alt="ChatGenius">
-
-#### चैटजीनियस - बहुभाषी संचार की शक्ति को अनलॉक करें
-[Visit](https://www.thataicollection.com/redirect/chatgenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ChatGenius एक सॉफ्टवेयर कंपनी है जो GPT-4 और ChatGPT द्वारा संचालित एक शक्तिशाली AI चैटबॉट समाधान प्रदान करती है। हमारा चैटबॉट 110 से अधिक भाषाओं में 24/7 सहायता प्रदान करता है और इसे आपकी वेबसाइट या प्लेटफ़ॉर्म में मूल रूप से एकीकृत किया जा सकता है
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/chatgenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5222,6 +5217,21 @@ WordFixerBot का पैराफ़्रेसिंग टूल किस�
 
 
 
+### AI-Writer
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-writer.webp" alt="AI-Writer">
+
+#### AI राइटर™ - सबसे अच्छा AI टेक्स्ट जेनरेटर, वादा किया हुआ।
+[Visit](https://www.thataicollection.com/redirect/ai-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+एआई-राइटर कॉन्टेंट बनाने का सबसे सटीक प्लैटफ़ॉर्म है, जो सिर्फ़ हेडलाइन से लेख बनाने के लिए अत्याधुनिक AI लेखन मॉडल का इस्तेमाल करता है।
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### BizPlanner AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-bizplanner-ai.webp" alt="BizPlanner AI">
 
@@ -5297,21 +5307,6 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 जर्नलिस्ट एआई ऐसी सामग्री बनाता है जो अच्छी तरह से संरचित हो, तुम्हारे व्यवसाय के लिए उपयुक्त हो और जो Google पर रैंक करती हो।
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/journalist-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Junia AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-junia-ai.webp" alt="Junia AI">
-
-#### जूनिया एआई - एसईओ के लिए सबसे अच्छा एआई राइटिंग सॉफ्टवेयर
-[Visit](https://www.thataicollection.com/redirect/junia-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-जूनिया एआई एक प्रमुख एआई लेखन उपकरण है, जो बिज़नेस को एसईओ-अनुकूलित सामग्री बनाने के लिए सशक्त बनाता है और समग्र लेखन प्रक्रिया को बढ़ाता है। जूनिया एआई विभिन्न उद्योगों जैसे कि ई-कॉमर्स, एसईओ एजेंसियों और ब्लॉगर्स की ज़रूरतों को पूरा करता है। अपने एडवांस कस्टम-प्रशिक्षित AI मॉडल के साथ, Junia AI ब्रांड्स को ऑन-ब्रांड, तथ्यात्मक और मानव-जैसी उच्च गुणवत्ता वाली सामग्री बनाने में मदद करता है।
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/junia-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
