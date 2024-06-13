@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1437" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1458" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>Chatbot de IA para tu sitio web, entrenado con tus datos</h4>
-    <p>Chatbit es una herramienta de IA que permite a los usuarios crear chatbots de IA personalizados para sus sitios web. Los bots están diseñados para captar clientes, responder a sus preguntas y captar clientes potenciales.</p>
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Chatbit</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -78,6 +65,19 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Chat Data</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    </a>
+    <h4>Chatbot de IA para tu sitio web, entrenado con tus datos</h4>
+    <p>Chatbit es una herramienta de IA que permite a los usuarios crear chatbots de IA personalizados para sus sitios web. Los bots están diseñados para captar clientes, responder a sus preguntas y captar clientes potenciales.</p>
+    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Chatbit</b></a>
     <br />
 </div>
 
@@ -143,110 +143,110 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 😎 [Avatares](#avatares)
 ## Latest Additions to AI Collection
 
-### MyLooks AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mylooks-ai.webp" alt="MyLooks AI">
+### Rise
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rise.webp" alt="Rise">
 
-#### MyLooks.AI, tu entrenador personal de belleza y estilo con las capacidades avanzadas de la GPT-4. 
-[Visit](https://www.thataicollection.com/redirect/mylooks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Motor de búsqueda de empleo impulsado por la IA para ayudarte a conseguir tu próximo puesto más rápido
+[Visit](https://www.thataicollection.com/redirect/rise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-MyLooks.AI está diseñado para ser algo más que una simple herramienta de valoración rápida. Al utilizar una selfie rápida, MyLooks.AI analiza tus características para darte una puntuación de atractivo instantánea. Pero no termina ahí: esta aplicación sirve como entrenador semanal y ofrece consejos y estrategias personalizados para mejorar gradualmente tu aspecto según los últimos conocimientos de la IA. 
+Charla con Risa, un copiloto de Rise (joinrise.co) con tecnología de IA que puede recomendarte trabajos, mejorar tu currículum, escribir tu carta de presentación y decirte qué empresas son las más adecuadas para ti. 
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/mylooks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Tjime
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tjime.webp" alt="Tjime">
-
-#### Información personalizada para equilibrar la carga de trabajo y el estrés
-[Visit](https://www.thataicollection.com/redirect/tjime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-El tiempo predice y ayuda a gestionar el agotamiento al ayudarte a evaluar tu carga de trabajo y tus niveles de estrés de forma proactiva. Hemos creado la aplicación complementaria que necesitas en tu teléfono para hacer un seguimiento de tu día en una lista mixta de tareas pendientes de calendario.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/tjime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/rise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Type Prompt
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-type-prompt.webp" alt="Type Prompt">
+### Promptogy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-promptogy.webp" alt="Promptogy">
 
-#### Crea contenido atractivo con plantillas de Viral Hook
-[Visit](https://www.thataicollection.com/redirect/type-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Un generador de mensajes universal que te ayuda a crear obras de arte de IA únicas.
+[Visit](https://www.thataicollection.com/redirect/promptogy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Hemos decodificado meticulosamente las estrategias de las principales personas influyentes y las hemos resumido en plantillas personalizables, listas para que crees contenido que cautive y gane popularidad.
+Promptogy es una herramienta gratuita para generar ilustraciones de IA sin esfuerzo. La variedad de estilos y opciones te ayudará a encontrar inspiración y a expresarte. Con solo unos pocos clics, puedes crear excelentes obras de arte que reflejen tu visión artística.
 
-Mejora tus publicaciones con la psicología del contenido
-
-Nuestras indicaciones aprovechan los 4 tipos de contenido que tienen una gran repercusión para fomentar un seguimiento fuerte y leal.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/type-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/promptogy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Webbotify
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-webbotify.webp" alt="Webbotify">
+### Dreamle
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreamle.webp" alt="Dreamle">
 
-#### Webbotify: reduce el 80% de tu atención al cliente al instante.
+#### Dreamle: personajes de IA de la NSFW, juegos de rol eróticos, sexting con IA y más
+[Visit](https://www.thataicollection.com/redirect/dreamle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/webbotify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Explora Dreamle para disfrutar de una experiencia de juego de rol erótico con IA sin igual. Conoce el fantástico mundo de la charla sexy de la IA. Elige entre docenas de personajes sexys de IA en Internet. ¡Simplemente haz clic en la carta de un personaje y gánate su amor!
 
-Webbotify ofrece un chatbot de IA formado específicamente en tu sitio web, que te ayuda a reducir costes, captar clientes potenciales e impulsar la interacción con los clientes. En solo 3 clics y menos de 5 minutos. Alternativa a Chatbase
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/webbotify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AI-Writer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-writer.webp" alt="AI-Writer">
-
-#### AI Writer™: el mejor generador de texto de IA, lo prometo.
-[Visit](https://www.thataicollection.com/redirect/ai-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI-Writer es la plataforma de generación de contenido más precisa, ya que utiliza modelos de escritura de IA de última generación para generar artículos solo a partir de un titular.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/ai-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/dreamle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Chat Zero
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-zero.webp" alt="Chat Zero">
+### Fotor image converter
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor-image-converter.webp" alt="Fotor image converter">
 
-#### El mejor detector de IA y herramienta de desvío de GPT para ChatGPT
-[Visit](https://www.thataicollection.com/redirect/chat-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Convierte imágenes en Internet sin perder calidad con nuestra herramienta de conversión de imágenes gratuita.
+[Visit](https://www.thataicollection.com/redirect/fotor-image-converter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Gracias a las funciones de detección y verificación más avanzadas, la solución de IA identifica y confirma el contenido producido por modelos lingüísticos de última generación, como el GPT-4 y ChatGPT. Fundamentalmente, la característica función «BypassGPT» de la herramienta permite a los usuarios reescribir sin problemas el texto generado por la IA, lo que allana el camino para el desarrollo de contenido similar al humano que puede eludir los mecanismos de detección de la IA.
+Convierte imágenes fácilmente en Internet con el conversor de imágenes gratuito de Fotor. Convierte JPG, PNG, WebP, HEIC y más formatos en segundos. Soporta conversión por lotes.
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/chat-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/fotor-image-converter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### StickerIt.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI">
+### Fakeface
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-liam-charles.webp" alt="Fakeface">
 
-#### StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA
-[Visit](https://www.thataicollection.com/redirect/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Fakeface es una herramienta online basada en la inteligencia artificial que te permite crear tus vídeos, fotos y GIF personalizados para intercambiar rostros con facilidad, velocidad y una calidad inmejorable.
+[Visit](https://www.thataicollection.com/redirect/fakeface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.
+FakeFace.io aporta una nueva ola de tecnología de inteligencia artificial a las herramientas de intercambio de rostros. Haciendo hincapié en la sencillez y la calidad, ofrece un intercambio de rostros sin problemas en fotos, vídeos y GIF. La interfaz fácil de usar facilita la navegación y ayuda a los usuarios a crear cambios de rostro profesionales en un mínimo de pasos. Esta herramienta de IA está dirigida a una amplia base de usuarios, desde fanáticos de las redes sociales hasta creadores de contenido
 
-[More Information and Pricing](https://www.thataicollection.com/es/application/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/es/application/fakeface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### CustomGPT
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customgpt.webp" alt="CustomGPT">
+
+#### Crea tu propio GPT personalizado con todo tu contenido empresarial
+[Visit](https://www.thataicollection.com/redirect/customgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+CustomGPT es una plataforma de gestión del conocimiento basada en IA sin código que organiza la información en un agente de búsqueda central, lo que mejora el servicio de atención al cliente, las ventas, el marketing y la eficiencia de los empleados en las empresas.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/customgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Datalynx
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-datalynx.webp" alt="Datalynx">
+
+#### Analista de datos de IA personal diseñado para escribir y ejecutar consultas SQL. Datalynx puede responder a las preguntas de negocios sobre tus ventas y operaciones en segundos.
+[Visit](https://www.thataicollection.com/redirect/datalynx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Esto es lo que obtienes:
+1. La integración tarda 5 minutos.
+2. Cumple con el SOC-2. El modelo solo utiliza las tablas y columnas de tu base de datos.
+3. Datalynx te explica la consulta SQL en inglés para que puedas validar las respuestas.
+4. Puedes crear gráficos con un clic.
+5. Puedes hacer un seguimiento y elaborar estrategias con la IA sobre tus ideas.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/datalynx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3108,6 +3108,22 @@ Undress Pro AI: Haz realidad tu fantasía sobre ella al instante con un intercam
 
 
 
+### PornGen
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
+
+#### PornGen es una plataforma avanzada impulsada por la IA que permite a los usuarios crear imágenes NSFW de alta calidad, realistas y detalladas. 
+[Visit](https://www.thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PornGen es una plataforma impulsada por la IA que se especializa en crear contenido para adultos mediante técnicas avanzadas de generación de imágenes. Produce imágenes NSFW que se adaptan a una amplia gama de preferencias de los usuarios. Los usuarios interactúan con PornGen proporcionando indicaciones textuales o seleccionando etiquetas específicas que describan el resultado deseado, como el tipo de cuerpo, las acciones o el estilo de ropa.
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Unclothy
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unclothy_.webp" alt="Unclothy">
 
@@ -3125,22 +3141,6 @@ La interfaz es fácil de usar, lo que facilita la navegación y la creación de 
 
 
 
-### PornGen
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
-
-#### PornGen es una plataforma avanzada impulsada por la IA que permite a los usuarios crear imágenes NSFW de alta calidad, realistas y detalladas. 
-[Visit](https://www.thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PornGen es una plataforma impulsada por la IA que se especializa en crear contenido para adultos mediante técnicas avanzadas de generación de imágenes. Produce imágenes NSFW que se adaptan a una amplia gama de preferencias de los usuarios. Los usuarios interactúan con PornGen proporcionando indicaciones textuales o seleccionando etiquetas específicas que describan el resultado deseado, como el tipo de cuerpo, las acciones o el estilo de ropa.
-
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Candy AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-candy-ai.webp" alt="Candy AI">
 
@@ -3151,6 +3151,21 @@ PornGen es una plataforma impulsada por la IA que se especializa en crear conten
 ¡La compañera de tus sueños te espera! Crea tu novia de IA, dale forma a su aspecto, personalidad y dale vida con un solo clic. Impulsado al 100% por inteligencia artificial
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Nude AI - Image Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nude-ai---image-generator.webp" alt="Nude AI - Image Generator">
+
+#### Viste y desviste a cualquiera, estéticamente
+[Visit](https://www.thataicollection.com/redirect/nude-ai---image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La IA desnuda es una herramienta innovadora que mejora una amplia gama de aplicaciones creativas y profesionales. Ya se trate de mejorar las listas de productos en el comercio electrónico, enriquecer la narración visual en el entretenimiento y los juegos, mejorar las técnicas de edición de fotografías o ampliar los límites del arte digital y el diseño de moda, Nude AI ofrece numerosos beneficios. 
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/nude-ai---image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3181,21 +3196,6 @@ Tu plataforma online de chatbots de IA para juegos de rol. Interactúa con diver
 ¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Undressbaby AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undressbaby-ai.webp" alt="Undressbaby AI">
-
-#### La IA de Undressbaby ofrece probaciones de ropa virtuales de última generación impulsadas por la IA, simulaciones de desnudez e intercambios de rostros por fotos y vídeos, lo que proporciona a los usuarios una experiencia de moda divertida e interactiva
-[Visit](https://www.thataicollection.com/redirect/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-En Undressbaby AI, ofrecemos Grey's Secret Room, un servicio distintivo impulsado por una tecnología de IA generativa de vanguardia. Desarrollado por Stable Diffusion, este sistema avanzado es competente en la creación de imágenes realistas y muy detalladas. Nuestra nueva función de intercambio de rostros no solo cumple con las exigencias de intercambio de rostros tanto en vídeo como en foto, sino que también permite a los usuarios cambiar rostros sin problemas por cuerpos diversos.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

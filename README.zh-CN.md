@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1437" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1458" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -143,110 +143,110 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
-### MyLooks AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-mylooks-ai.webp" alt="MyLooks AI">
+### Rise
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rise.webp" alt="Rise">
 
-#### MyLooks.AI，你的个人美容和风格教练，由 GPT-4 的高级功能提供支持。 
-[Visit](https://www.thataicollection.com/redirect/mylooks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 人工智能驱动的求职引擎可帮助您更快地找到下一个职位
+[Visit](https://www.thataicollection.com/redirect/rise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-MyLooks.AI 的设计不仅仅是一个快速评分工具，通过使用快速自拍照，MyLooks.AI 会分析你的特征，立即给出吸引力分数。但这还不止于此——这款应用程序可以作为每周一次的教练，提供量身定制的建议和策略，根据最新的人工智能见解逐步改善你的外观。 
+与来自Rise（joinrise.co）的人工智能副驾驶Risa聊一聊，她可以为你推荐工作，改进你的简历，写求职信，并告诉你哪些公司最适合你。 
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/mylooks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Tjime
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tjime.webp" alt="Tjime">
-
-#### 量身定制的见解，以平衡工作量和压力
-[Visit](https://www.thataicollection.com/redirect/tjime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Time 通过帮助您主动评估工作量和压力水平来预测并帮助管理职业倦怠。我们已经在手机上构建了所需的配套应用程序，可以在日历混合待办事项清单中追踪您的一天。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/tjime?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/rise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Type Prompt
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-type-prompt.webp" alt="Type Prompt">
+### Promptogy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-promptogy.webp" alt="Promptogy">
 
-#### 使用病毒挂钩模板创建引人入胜的内容
-[Visit](https://www.thataicollection.com/redirect/type-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 一个通用提示生成器，可帮助您创建独特的 AI 艺术品。
+[Visit](https://www.thataicollection.com/redirect/promptogy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-我们精心解码了主要网红的策略，并将其提炼成可定制的模板，随时准备创建吸引人并人气飞涨的内容。
+Promptogy 是一款免费工具，可以轻松生成人工智能艺术作品。各种风格和选项将帮助您找到灵感并表达自我。只需点击几下，您就可以创作出反映您的艺术愿景的优秀艺术作品。
 
-用内容心理学增强你的帖子
-
-我们的提示利用4种能引起深刻共鸣的内容来培养强大而忠实的追随者。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/type-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/promptogy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Webbotify
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-webbotify.webp" alt="Webbotify">
+### Dreamle
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreamle.webp" alt="Dreamle">
 
-#### Webbotify-立即减少 80% 的客户支持。
+#### Dreamle-NSFW 人工智能角色、情色角色扮演、人工智能色情短信等
+[Visit](https://www.thataicollection.com/redirect/dreamle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[Visit](https://www.thataicollection.com/redirect/webbotify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+探索 Dreamle，享受无与伦比的 AI 情色角色扮演体验。了解AI性感聊天的幻想世界。从数十个性感的AI在线角色中选择。只需点击角色的卡片即可赢得他们的爱！
 
-Webbotify 提供专门在您的网站上训练的 AI 聊天机器人，可帮助您降低成本、捕获潜在客户并提高客户参与度。只需点击 3 次，不到 5 分钟。Chatbase 替代方案
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/webbotify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### AI-Writer
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-writer.webp" alt="AI-Writer">
-
-#### AI Writer™-最好的 AI 文本生成器，承诺。
-[Visit](https://www.thataicollection.com/redirect/ai-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI-Writer是最准确的内容生成平台，它使用最先进的人工智能写作模型仅根据标题生成文章。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/ai-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/dreamle?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### Chat Zero
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-zero.webp" alt="Chat Zero">
+### Fotor image converter
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor-image-converter.webp" alt="Fotor image converter">
 
-#### 适用于 ChatGPT 的终极 AI 探测器和 BypassGPT 工具
-[Visit](https://www.thataicollection.com/redirect/chat-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 使用我们的免费图像转换器工具在不损失质量的情况下在线转换图像。
+[Visit](https://www.thataicollection.com/redirect/fotor-image-converter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-利用最先进的检测和验证功能，人工智能解决方案识别和确认由 GPT-4 和 ChatGPT 等尖端语言模型生成的内容。至关重要的是，该工具独特的 “bypassGPT” 功能允许用户无缝重写人工智能生成的文本，为开发可以绕过人工智能检测机制的类人内容铺平道路。
+使用Fotor的免费图像转换器轻松地在线转换图像。在几秒钟内转换 JPG、PNG、WebP、HEIC 和更多格式。支持批量转换。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chat-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fotor-image-converter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Fakeface
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-liam-charles.webp" alt="Fakeface">
+
+#### Fakeface是一款基于人工智能的在线工具，使您能够轻松、快速和一流的质量创建个性化面部交换视频、照片和GIF。
+[Visit](https://www.thataicollection.com/redirect/fakeface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+FakeFace.io为Faceswap 工具带来了新一轮的人工智能技术。它强调简单性和质量，在照片、视频和GIF中提供无缝换脸。友好的用户界面使导航变得轻而易举，帮助用户以最少的步骤创建专业的人脸交换。这款人工智能工具可满足从社交媒体粉丝到内容创作者的广泛用户群
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fakeface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### StickerIt.AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI">
+### CustomGPT
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customgpt.webp" alt="CustomGPT">
 
-#### StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案
-[Visit](https://www.thataicollection.com/redirect/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### 使用您的所有业务内容创建您自己的 CustomGPT
+[Visit](https://www.thataicollection.com/redirect/customgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。
+CustomGPT 是一个无代码的人工智能知识管理平台，可将信息组织到中央搜索代理中，从而增强企业的客户服务、销售、营销和员工效率。
 
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/stickerit-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/customgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Datalynx
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-datalynx.webp" alt="Datalynx">
+
+#### 专为编写和执行 SQL 查询而设计的个人 AI 数据分析师。Datalynx可以在几秒钟内回答有关您的销售和运营的业务问题。
+[Visit](https://www.thataicollection.com/redirect/datalynx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+以下是你得到的：
+1。整合需要 5 分钟。
+2。符合 SOC-2 标准。该模型仅使用您的数据库表和列。
+3.Datalynx 用英语向你解释了 SQL 查询，这样你就可以验证响应了。
+4。您只需单击一下即可构建图表。
+5。您可以询问后续情况，并利用 AI 就您的见解制定策略。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/datalynx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3109,6 +3109,22 @@ Undress Pro AI-通过人工智能驱动的脸部交换或将她的图像转换�
 <br />
 
 
+### PornGen
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
+
+#### PornGen是一个先进的人工智能平台，允许用户创建高质量、逼真和详细的NSFW图像。 
+[Visit](https://www.thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PornGen是一个人工智能驱动的平台，专门通过先进的图像生成技术创建成人内容。它生成的NSFW图像可满足各种用户偏好。用户通过提供文字提示或选择描述其预期结果的特定标签（例如身体类型、行为或服装风格）来与PornGen互动。
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Unclothy
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-unclothy_.webp" alt="Unclothy">
 
@@ -3126,22 +3142,6 @@ Undress Pro AI-通过人工智能驱动的脸部交换或将她的图像转换�
 <br />
 
 
-### PornGen
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
-
-#### PornGen是一个先进的人工智能平台，允许用户创建高质量、逼真和详细的NSFW图像。 
-[Visit](https://www.thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PornGen是一个人工智能驱动的平台，专门通过先进的图像生成技术创建成人内容。它生成的NSFW图像可满足各种用户偏好。用户通过提供文字提示或选择描述其预期结果的特定标签（例如身体类型、行为或服装风格）来与PornGen互动。
-
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### Candy AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-candy-ai.webp" alt="Candy AI">
 
@@ -3152,6 +3152,21 @@ PornGen是一个人工智能驱动的平台，专门通过先进的图像生成�
 你的梦想伴侣在等着你！创建你的 AI 女友，塑造她的外表和个性，一键让她变为现实。100% 由人工智能提供支持
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Nude AI - Image Generator
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nude-ai---image-generator.webp" alt="Nude AI - Image Generator">
+
+#### 美观地说，任何人都可以穿衣服和脱衣服
+[Visit](https://www.thataicollection.com/redirect/nude-ai---image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nude AI 是一款开创性的工具，可增强各种创意和专业应用程序。无论是改善电子商务中的产品清单，丰富娱乐和游戏中的视觉故事讲述，推进照片编辑技术，还是突破数字艺术和时装设计的界限，Nude AI都提供了许多好处。 
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nude-ai---image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3186,21 +3201,6 @@ PornGen是一个人工智能驱动的平台，专门通过先进的图像生成�
 <br />
 
 <br />
-
-
-### Undressbaby AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undressbaby-ai.webp" alt="Undressbaby AI">
-
-#### Undressbaby AI 提供基于人工智能的尖端虚拟服装试穿、脱衣模拟以及照片和视频的面部交换，为用户提供有趣的互动时尚体验
-[Visit](https://www.thataicollection.com/redirect/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在Undressbaby AI，我们提供 Grey's Secret Room，这是一项由尖端生成人工智能技术驱动的独特服务。这个先进的系统由 Stable Diffusion 提供支持，精通制作高度细节和逼真的图像。我们新的面部交换功能不仅可以满足视频和照片人脸交换的需求，还允许用户将脸部无缝地交换到不同的身体上。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 
 
 
