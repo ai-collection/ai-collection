@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1458" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1465" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -72,12 +72,12 @@
 
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Chatbot de IA para tu sitio web, entrenado con tus datos</h4>
-    <p>Chatbit es una herramienta de IA que permite a los usuarios crear chatbots de IA personalizados para sus sitios web. Los bots están diseñados para captar clientes, responder a sus preguntas y captar clientes potenciales.</p>
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con Chatbit</b></a>
+    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
+    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Comience con StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -143,6 +143,53 @@ Para ver la colección completa de aplicaciones de IA en la vista de tabla hered
 - 😎 [Avatares](#avatares)
 ## Latest Additions to AI Collection
 
+### Sector Radar
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sector-radar.webp" alt="Sector Radar">
+
+#### Consigue miles de clientes potenciales de las principales bolsas de trabajo del Reino Unido
+[Visit](https://www.thataicollection.com/redirect/sector-radar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Generación instantánea de leads para agencias de contratación. Con SectorRadar, puedes obtener al instante miles de clientes potenciales de las principales bolsas de trabajo de cualquier sector, ubicación y puesto. Además, recibes análisis empresariales detallados e informes de ganancias impulsados por la IA para que tu equipo de contratación consiga el próximo cliente. Obtén una lista detallada de los empleados y la información de contacto para que puedas contactar con nosotros al instante.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/sector-radar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Podify.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podify.io.webp" alt="Podify.io">
+
+#### Aprovecha la IA y la comunidad para crecer en LinkedIn
+[Visit](https://www.thataicollection.com/redirect/podify.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Podify es una plataforma de contenido y comunidad dedicada a hacer crecer tu marca personal y LinkedIn. 
+
+Para la parte del contenido, Podify analiza miles de publicaciones de LinkedIn con mejor rendimiento junto con tu tono de voz para maximizar el alcance de tu contenido y, al mismo tiempo, mantener tu autenticidad.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/podify.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Oliv AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-oliv-ai.webp" alt="Oliv AI">
+
+#### Deja que Oliv te ayude a investigar, tomar notas y actualizar tu CRM después de cada llamada, ¡para que puedas concentrarte en ganar las conversaciones!
+[Visit](https://www.thataicollection.com/redirect/oliv-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Oliv es una asistente de ventas con tecnología de inteligencia artificial que mejora las interacciones entre clientes potenciales y clientes. Investiga los contactos antes de la reunión, identifica los puntos débiles y las objeciones durante las llamadas, crea correos electrónicos de seguimiento personalizados y actualiza tu CRM con los datos de las reuniones. Agiliza tu proceso de venta, ahorra tiempo y cierra más negocios con la asistencia inteligente de Oliv durante todo el ciclo de venta.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/oliv-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Rise
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rise.webp" alt="Rise">
 
@@ -197,56 +244,6 @@ Explora Dreamle para disfrutar de una experiencia de juego de rol erótico con I
 Convierte imágenes fácilmente en Internet con el conversor de imágenes gratuito de Fotor. Convierte JPG, PNG, WebP, HEIC y más formatos en segundos. Soporta conversión por lotes.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/fotor-image-converter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Fakeface
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-liam-charles.webp" alt="Fakeface">
-
-#### Fakeface es una herramienta online basada en la inteligencia artificial que te permite crear tus vídeos, fotos y GIF personalizados para intercambiar rostros con facilidad, velocidad y una calidad inmejorable.
-[Visit](https://www.thataicollection.com/redirect/fakeface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-FakeFace.io aporta una nueva ola de tecnología de inteligencia artificial a las herramientas de intercambio de rostros. Haciendo hincapié en la sencillez y la calidad, ofrece un intercambio de rostros sin problemas en fotos, vídeos y GIF. La interfaz fácil de usar facilita la navegación y ayuda a los usuarios a crear cambios de rostro profesionales en un mínimo de pasos. Esta herramienta de IA está dirigida a una amplia base de usuarios, desde fanáticos de las redes sociales hasta creadores de contenido
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/fakeface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### CustomGPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customgpt.webp" alt="CustomGPT">
-
-#### Crea tu propio GPT personalizado con todo tu contenido empresarial
-[Visit](https://www.thataicollection.com/redirect/customgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-CustomGPT es una plataforma de gestión del conocimiento basada en IA sin código que organiza la información en un agente de búsqueda central, lo que mejora el servicio de atención al cliente, las ventas, el marketing y la eficiencia de los empleados en las empresas.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/customgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Datalynx
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-datalynx.webp" alt="Datalynx">
-
-#### Analista de datos de IA personal diseñado para escribir y ejecutar consultas SQL. Datalynx puede responder a las preguntas de negocios sobre tus ventas y operaciones en segundos.
-[Visit](https://www.thataicollection.com/redirect/datalynx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Esto es lo que obtienes:
-1. La integración tarda 5 minutos.
-2. Cumple con el SOC-2. El modelo solo utiliza las tablas y columnas de tu base de datos.
-3. Datalynx te explica la consulta SQL en inglés para que puedas validar las respuestas.
-4. Puedes crear gráficos con un clic.
-5. Puedes hacer un seguimiento y elaborar estrategias con la IA sobre tus ideas.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/datalynx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -845,21 +842,6 @@ Imágenes generadas por IA protagonizadas por ti
 
 ## Robot de chat
 
-### Chatbit
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit">
-
-#### Chatbot de IA para tu sitio web, entrenado con tus datos
-[Visit](https://www.thataicollection.com/redirect/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chatbit es una herramienta de IA que permite a los usuarios crear chatbots de IA personalizados para sus sitios web. Los bots están diseñados para captar clientes, responder a sus preguntas y captar clientes potenciales.
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Chatbase
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
 
@@ -945,6 +927,21 @@ ChatSimple es una plataforma que se especializa en crear chatbots orientados a l
 Automatiza tu servicio de atención al cliente con nuestros chatbots basados en inteligencia artificial y dale a tu equipo la libertad de centrarse en lo que mejor sabe hacer. Mejora la eficiencia y mejora la interacción con los clientes con FastBots.ai.
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### CustomGPT
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customgpt.webp" alt="CustomGPT">
+
+#### Crea tu propio GPT personalizado con todo tu contenido empresarial
+[Visit](https://www.thataicollection.com/redirect/customgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+CustomGPT es una plataforma de gestión del conocimiento basada en IA sin código que organiza la información en un agente de búsqueda central, lo que mejora el servicio de atención al cliente, las ventas, el marketing y la eficiencia de los empleados en las empresas.
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/customgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3141,6 +3138,22 @@ La interfaz es fácil de usar, lo que facilita la navegación y la creación de 
 
 
 
+### DeepNude Free AI App
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deepnude-free-ai-app.webp" alt="DeepNude Free AI App">
+
+#### Genera fotos e imágenes en línea. Descubre el poder transformador de la IA de DeepNude y mejora tus creaciones digitales hoy mismo.
+[Visit](https://www.thataicollection.com/redirect/deepnude-free-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La aplicación de IA DeepNude ofrece un conjunto de funciones potentes que pueden mejorar significativamente varios proyectos creativos y profesionales. Estas son las razones por las que podrías considerar el uso de esta tecnología:
+
+
+[More Information and Pricing](https://www.thataicollection.com/es/application/deepnude-free-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Candy AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-candy-ai.webp" alt="Candy AI">
 
@@ -3151,21 +3164,6 @@ La interfaz es fácil de usar, lo que facilita la navegación y la creación de 
 ¡La compañera de tus sueños te espera! Crea tu novia de IA, dale forma a su aspecto, personalidad y dale vida con un solo clic. Impulsado al 100% por inteligencia artificial
 
 [More Information and Pricing](https://www.thataicollection.com/es/application/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nude AI - Image Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nude-ai---image-generator.webp" alt="Nude AI - Image Generator">
-
-#### Viste y desviste a cualquiera, estéticamente
-[Visit](https://www.thataicollection.com/redirect/nude-ai---image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-La IA desnuda es una herramienta innovadora que mejora una amplia gama de aplicaciones creativas y profesionales. Ya se trate de mejorar las listas de productos en el comercio electrónico, enriquecer la narración visual en el entretenimiento y los juegos, mejorar las técnicas de edición de fotografías o ampliar los límites del arte digital y el diseño de moda, Nude AI ofrece numerosos beneficios. 
-
-[More Information and Pricing](https://www.thataicollection.com/es/application/nude-ai---image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

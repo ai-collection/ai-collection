@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1458" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1465" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -72,12 +72,12 @@
 
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>适用于您网站的 AI 聊天机器人，根据您的数据进行训练</h4>
-    <p>Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。</p>
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 Chatbit</b></a>
+    <h4>StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案</h4>
+    <p>StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>开始使用 StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -143,6 +143,53 @@
 - 🎼 [音乐和音频生成](#音乐和音频生成)
 ## Latest Additions to AI Collection
 
+### Sector Radar
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sector-radar.webp" alt="Sector Radar">
+
+#### 从英国所有领先的招聘委员会中搜集数千条线索
+[Visit](https://www.thataicollection.com/redirect/sector-radar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+为招聘机构即时生成潜在客户。使用SectorRadar，您可以立即从任何行业、地点和职位的所有领先招聘委员会中抓取成千上万的潜在客户。此外，您还可以获得由人工智能驱动的深度公司分析和收益报告，供招聘团队找到下一个客户。获取详细的员工清单和联系信息，这样您就可以立即与您联系。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/sector-radar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Podify.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podify.io.webp" alt="Podify.io">
+
+#### 利用 AI 和社区在 LinkedIn 上成长
+[Visit](https://www.thataicollection.com/redirect/podify.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Podify是一个内容和社区平台，致力于发展您的LinkedIn和个人品牌。 
+
+在内容方面；Podify分析了成千上万个表现最好的LinkedIn帖子以及你的语气，以最大限度地扩大内容的覆盖面，同时保持你的真实性。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/podify.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### Oliv AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-oliv-ai.webp" alt="Oliv AI">
+
+#### 让Oliv帮助您研究、记笔记并在每次通话后更新您的CRM：这样您就可以专注于赢得对话了！
+[Visit](https://www.thataicollection.com/redirect/oliv-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Oliv 是一款人工智能驱动的销售助理，可增强您的潜在客户和客户互动。它会在会前研究联系人，确定通话期间的痛点和异议，制作个性化的后续电子邮件，并使用会议数据更新您的CRM。在整个销售周期中，Oliv的智能支持可简化销售流程，节省时间并达成更多交易。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/oliv-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Rise
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rise.webp" alt="Rise">
 
@@ -197,56 +244,6 @@ Promptogy 是一款免费工具，可以轻松生成人工智能艺术作品。�
 使用Fotor的免费图像转换器轻松地在线转换图像。在几秒钟内转换 JPG、PNG、WebP、HEIC 和更多格式。支持批量转换。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fotor-image-converter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Fakeface
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-liam-charles.webp" alt="Fakeface">
-
-#### Fakeface是一款基于人工智能的在线工具，使您能够轻松、快速和一流的质量创建个性化面部交换视频、照片和GIF。
-[Visit](https://www.thataicollection.com/redirect/fakeface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-FakeFace.io为Faceswap 工具带来了新一轮的人工智能技术。它强调简单性和质量，在照片、视频和GIF中提供无缝换脸。友好的用户界面使导航变得轻而易举，帮助用户以最少的步骤创建专业的人脸交换。这款人工智能工具可满足从社交媒体粉丝到内容创作者的广泛用户群
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fakeface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### CustomGPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customgpt.webp" alt="CustomGPT">
-
-#### 使用您的所有业务内容创建您自己的 CustomGPT
-[Visit](https://www.thataicollection.com/redirect/customgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-CustomGPT 是一个无代码的人工智能知识管理平台，可将信息组织到中央搜索代理中，从而增强企业的客户服务、销售、营销和员工效率。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/customgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Datalynx
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-datalynx.webp" alt="Datalynx">
-
-#### 专为编写和执行 SQL 查询而设计的个人 AI 数据分析师。Datalynx可以在几秒钟内回答有关您的销售和运营的业务问题。
-[Visit](https://www.thataicollection.com/redirect/datalynx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-以下是你得到的：
-1。整合需要 5 分钟。
-2。符合 SOC-2 标准。该模型仅使用您的数据库表和列。
-3.Datalynx 用英语向你解释了 SQL 查询，这样你就可以验证响应了。
-4。您只需单击一下即可构建图表。
-5。您可以询问后续情况，并利用 AI 就您的见解制定策略。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/datalynx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -845,21 +842,6 @@ AI 生成您主演的图片
 
 ## 聊天机器人
 
-### Chatbit
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit">
-
-#### 适用于您网站的 AI 聊天机器人，根据您的数据进行训练
-[Visit](https://www.thataicollection.com/redirect/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
 ### Chatbase
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
 
@@ -945,6 +927,21 @@ ChatSimple是一个专门在短短5分钟内为中小型企业（SMB）创建以
 使用我们的人工智能聊天机器人实现客户服务自动化，让您的团队可以自由地专注于他们最擅长的事情。使用 FastBots.ai 提高效率并增强客户互动。
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### CustomGPT
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customgpt.webp" alt="CustomGPT">
+
+#### 使用您的所有业务内容创建您自己的 CustomGPT
+[Visit](https://www.thataicollection.com/redirect/customgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+CustomGPT 是一个无代码的人工智能知识管理平台，可将信息组织到中央搜索代理中，从而增强企业的客户服务、销售、营销和员工效率。
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/customgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3142,6 +3139,22 @@ PornGen是一个人工智能驱动的平台，专门通过先进的图像生成�
 <br />
 
 
+### DeepNude Free AI App
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deepnude-free-ai-app.webp" alt="DeepNude Free AI App">
+
+#### 在线生成照片和图像。立即探索 DeepNude AI 的变革力量，提升您的数字创作。
+[Visit](https://www.thataicollection.com/redirect/deepnude-free-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+DeepNude AI应用程序提供了一套强大的功能，可以显著增强各种创意和专业项目。以下是你可以考虑使用这项技术的原因：
+
+
+[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/deepnude-free-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
 ### Candy AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-candy-ai.webp" alt="Candy AI">
 
@@ -3152,21 +3165,6 @@ PornGen是一个人工智能驱动的平台，专门通过先进的图像生成�
 你的梦想伴侣在等着你！创建你的 AI 女友，塑造她的外表和个性，一键让她变为现实。100% 由人工智能提供支持
 
 [More Information and Pricing](https://www.thataicollection.com/zh-CN/application/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-
-### Nude AI - Image Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nude-ai---image-generator.webp" alt="Nude AI - Image Generator">
-
-#### 美观地说，任何人都可以穿衣服和脱衣服
-[Visit](https://www.thataicollection.com/redirect/nude-ai---image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nude AI 是一款开创性的工具，可增强各种创意和专业应用程序。无论是改善电子商务中的产品清单，丰富娱乐和游戏中的视觉故事讲述，推进照片编辑技术，还是突破数字艺术和时装设计的界限，Nude AI都提供了许多好处。 
-
-[More Information and Pricing](https://www.thataicollection.com/zh-CN/application/nude-ai---image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

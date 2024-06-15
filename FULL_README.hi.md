@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1458" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1465" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -53,19 +53,6 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>तुम्हारी वेबसाइट के लिए AI चैटबोट, जो तुम्हारे डेटा के आधार पर प्रशिक्षित है</h4>
-    <p>Chatbit एक AI टूल है जिसकी मदद से यूज़र अपनी वेबसाइट के लिए अनुकूलित AI चैटबॉट बना सकते हैं। बॉट्स को ग्राहकों से जुड़ने, उनके सवालों के जवाब देने और लीड कैप्चर करने के लिए डिज़ाइन किया गया है।</p>
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Chatbit के साथ आरंभ करें</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -78,6 +65,19 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Chat Data के साथ आरंभ करें</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/stickerit-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    </a>
+    <h4>StickerIt.AI | #1 मोबाइल, एआई-संचालित स्टिकर डिज़ाइन और सेल्स सॉल्यूशन</h4>
+    <p>StickerIt.AI सीधे अपने मोबाइल डिवाइस से AI-संचालित स्टिकर बनाने और बेचने का तुम्हारा प्रमुख समाधान है। किसी भी स्थान को एक जीवंत स्टिकर वर्कशॉप में ट्रांसफ़ॉर्म करें। सिर्फ़ दो टैबलेट और एक प्रिंटर की मदद से, तुम मिनटों में बनाए गए कस्टम स्टिकर बेचना शुरू कर सकते हो। हमारा प्लेटफ़ॉर्म तुम्हारे AI स्टिकर का कारोबार, कभी भी, कहीं भी चलाने के लिए डिज़ाइन किया गया है।</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>StickerIt.AI के साथ आरंभ करें</b></a>
     <br />
 </div>
 
@@ -219,6 +219,7 @@
 | [Jenni](https://www.thataicollection.com/redirect/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | जेनी - निबंध, शोध पत्र वगैरह लिखने के लिए AI!. | जेनी तुम्हारी शैक्षणिक यात्रा की सभी चीज़ों के लिए तुम्हारी AI सहायक है। हम AI विकसित करने में माहिर हैं, जो निबंध लेखन, शोध पत्र वगैरह में तुम्हारी मदद करता है!. | :white_check_mark: |
 | [RTutor](https://www.thataicollection.com/redirect/rtutor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | दर्जनों मानवीय भाषाओं में अपने डेटा के साथ चैट करें।. | RTutor प्राकृतिक भाषा को R कोड में अनुवाद करने के लिए OpenAI के शक्तिशाली बड़े भाषा मॉडल का उपयोग करता है, जिसे बाद में एक्सक्यूट किया जाता है। आप अपने विश्लेषण का अनुरोध कर सकते हैं, जैसे किसी वास्तविक व्यक्ति से पूछ रहे हों। एक डेटा फ़ाइल (CSV, TSV/टैब-डीलिमिटेड टेक्स्ट फ़ाइलें, और एक्सेल) अपलोड करें और सरल अंग्रेजी में इसका विश्लेषण करें। आपके परिणाम मिनटों में HTML रिपोर्ट के रूप में डाउनलोड किए जा सकते हैं!. | :white_check_mark: |
 | [Scispace](https://www.thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | टाइपसेट के अनुसार साइस्पेस - अपने रिसर्च पेपर को खोजें, बनाएं, प्रकाशित करें और उसका प्रचार करें. | PDF से बात करें और SciSpace का इस्तेमाल करके अपनी साहित्य समीक्षा तेज़ी से करें। 200M+ पेपर खोजें या अपना PDF अपलोड करें, टेक्स्ट हाईलाइट करें या प्रश्न पूछें, और स्पष्टीकरण और सारांश निकालें।. | :grey_question: |
+| [Sector Radar](https://www.thataicollection.com/redirect/sector-radar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | यूके के सभी प्रमुख जॉब बोर्ड से हज़ारों लीड स्क्रैप करें. | रिक्रूटमेंट एजेंसियों के लिए इंस्टेंट लीड जनरेशन। SectorRadar के ज़रिए, तुम किसी भी इंडस्ट्री, लोकेशन और जॉब टाइटल के सभी प्रमुख जॉब बोर्ड से तुरंत हज़ारों लीड हासिल कर सकते हो। इसके साथ ही, तुम्हेंं अगले क्लायंट को पाने के लिए, अपनी रिक्रूटमेंट टीम के लिए AI द्वारा संचालित कंपनी का गहन विश्लेषण और कमाई रिपोर्ट मिलती है। कर्मचारियों की पूरी सूची और संपर्क जानकारी पाओ, ताकि तुम तुरंत संपर्क कर सको।. | :white_check_mark: |
 | [Sensey AI](https://www.thataicollection.com/redirect/sensey-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Sensey.ai: प्रॉडक्ट-मार्केट में फिट होने के लिए स्टार्टअप्स के लिए डेटा-संचालित मार्केट इंटेलिजेंस।. | सेंसी एआई के साथ एक मार्केट और प्रतिस्पर्धी डेटा एनरिचमेंट प्लैटफ़ॉर्म है, जो स्टार्टअप्स के लिए प्रॉडक्ट-मार्केट फ़िट को गति देता है। अपनी प्रॉडक्ट रणनीति, मार्केटिंग और सेल्स के बारे में जानकारी पाने के लिए, प्रतिद्वंदी से जुड़ी गहरी जानकारी, बाज़ार का व्यापक विश्लेषण और रियल-टाइम कॉम्पिटिटर मॉनिटरिंग पाएँ।. | :grey_question: |
 | [Sourcely](https://www.thataicollection.com/redirect/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | स्रोत- अपने रिसर्च को मिनटों में पूरा करें। अपनी नींद बचाओ।. | एआई-संचालित लिटरेचर सोर्सिंग टूल, जो यूज़र इनपुट के आधार पर प्रासंगिक टेक्स्ट को तुरंत रिकवर करता है। एडवांस प्राकृतिक भाषा प्रोसेसिंग तकनीकों के साथ, यह विविध सूचना स्रोतों तक आसान पहुँच प्रदान करता है, जिससे समय और मेहनत की बचत होती है। सोर्सली एआई से मदद पाओ।. | :white_check_mark: |
 | [Synthical](https://www.thataicollection.com/redirect/synthical?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | एआई-संचालित सहयोगात्मक अनुसंधान वातावरण. | जटिल शब्दों को समझने के लिए लेखों को सरल बनाएं, अच्छी अनुशंसाएँ प्राप्त करें, समान लेख खोजें और टीम के साथ आसानी से सहयोग करें।. | :white_check_mark: |
@@ -792,6 +793,7 @@
 | [LinkActions](https://www.thataicollection.com/redirect/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | LinkActions तुम्हारी वेबसाइट के लिए पूरी तरह से स्वचालित आंतरिक लिंकिंग टूल है।. | LinkActions उन अंदरूनी लिंक को उजागर करता है जिन्हें लोग मिस कर रहे हैं, ताकि वे Google पर उच्च रैंक प्राप्त कर सकें और अपने ऑर्गेनिक ट्रैफ़िक को बढ़ा सकें। दूसरे टूल के विपरीत, जो सिर्फ़ WordPress के लिए काम करते हैं, LinkActions किसी भी वेब प्लेटफ़ॉर्म के साथ काम करता है।. | :white_check_mark: |
 | [Markero](https://www.thataicollection.com/redirect/markero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ज़्यादा ग्राहकों के लिए मार्केरो के ज़रिए अपनी मार्केटिंग बूस्ट करें. | मार्केरो, आर्टिफिशियल इंटेलिजेंस से लैस एक ऑल-इन-वन मार्केटिंग टूल है, जो अकेले उद्यमियों से लेकर बड़े कॉर्पोरेशन तक, सभी के लिए एडवांस मार्केटिंग तकनीकों को सुलभ और आसानी से लागू करके उनका लोकतंत्रीकरण करता है। प्लेटफ़ॉर्म कंटेंट निर्माण और लीड प्रबंधन को स्वचालित करके, समय की बचत करके और प्रभावी ऑनलाइन उपस्थिति के विकास में सहायता करके जटिल मार्केटिंग कार्यों को सरल बनाता है।. | :white_check_mark: |
 | [MarketingBlocks AI](https://www.thataicollection.com/redirect/marketingblocks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | मार्केटिंग का भविष्य यहां है. | लैंडिंग पेज, प्रोमो वीडियो, विज्ञापन, मार्केटिंग कॉपी, ग्राफिक्स, ईमेल, वॉइसओवर, ब्लॉग पोस्ट, कला और बहुत कुछ बनाने वाला मानव जैसा ऑल-इन-वन एआई मार्केटिंग सहायक. | :grey_question: |
+| [Oliv AI](https://www.thataicollection.com/redirect/oliv-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | ऑलिव को रिसर्च करने, नोट्स लेने और हर कॉल के बाद अपना CRM अपडेट करने में तुम्हारी मदद करने दें: ताकि तुम बातचीत जीतने पर ध्यान केंद्रित कर सको!. | ऑलिव एआई-संचालित सेल्स असिस्टेंट है, जो तुम्हारी संभावनाओं और ग्राहकों से बातचीत को बढ़ाता है। यह मीटिंग से पहले संपर्कों पर शोध करता है, कॉल के दौरान होने वाली समस्याओं और आपत्तियों की पहचान करता है, वैयक्तिकृत फ़ॉलो-अप ईमेल तैयार करता है और मीटिंग डेटा के साथ तुम्हारे CRM को अपडेट करता है। अपनी सेल्स प्रक्रिया को आसान बनाएं, समय बचाएं, और सेल्स साइकल के दौरान ऑलिव के इंटेलिजेंट सपोर्ट के साथ और सौदे बंद करें।. | :white_check_mark: |
 | [PH Deck](https://www.thataicollection.com/redirect/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | रोज़ाना के प्रॉडक्ट लॉन्च को एक ही डेक में देखें. | प्रॉडक्ट हंट यूज़र के लिए तैयार किया गया है, जो AI और YC के प्रमाणित तरीकों के ज़रिए बाज़ार के रुझानों का खुलासा करता है। प्रॉडक्ट हंट के दैनिक स्टैंडआउट को हाइलाइट करने के लिए AI तकनीक और YC की जानकारी का मिश्रण तुम्हारे लिए।. | :white_check_mark: |
 | [Peppertype AI](https://www.thataicollection.com/redirect/peppertype-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Peppertype.Ai - क्वालिटी का कॉन्टेंट तेज़ी से बनाएं. | पेप्परटाइप अभी बेहतर हुआ है! अपनी सामग्री के बारे में विचार करने, बनाने, वितरित करने और उसका आकलन करने और अपने कंटेंट मार्केटिंग ROI को साबित करने के लिए AI-संचालित प्लेटफ़ॉर्म का लाभ उठाएं. | :grey_question: |
 | [Persuva](https://www.thataicollection.com/redirect/persuva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | पर्सुवा एआई-संचालित प्लेटफ़ॉर्म है, जिससे बड़े पैमाने पर प्रेरक, ज़्यादा बदलने वाली विज्ञापन कॉपी बनाई जाती है. | पर्सुवा एक एआई-संचालित प्लेटफ़ॉर्म है, जो आकर्षक, रूपांतरण-अनुकूलित विज्ञापन सामग्री तैयार करके व्यापार के परिणामों को बेहतर बनाने के लिए प्रतिबद्ध है। हमारा मुख्य उद्देश्य है तुम्हारे मार्केटिंग कैंपेन की प्रभावशीलता बढ़ाना, तुम्हारे ब्रांड के प्रभाव और स्केलेबिलिटी को नई ऊंचाइयों पर ले जाना। उपभोक्ता के व्यवहार के बारे में गहन जानकारी के साथ-साथ एडवांस आर्टिफिशियल इंटेलिजेंस का लाभ उठाना।. | :white_check_mark: |
@@ -1748,6 +1750,7 @@
 | [LoveGenius](https://www.thataicollection.com/redirect/lovegenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आकर्षक और ध्यान आकर्षित करने वाला डेटिंग बायोस बनाएं और टिंडर, बंबल और अन्य पर बेहतर मिलान प्राप्त करें!. | लवजीनियस एक एआई डेटिंग सहायक है जो एक उत्कृष्ट डेटिंग प्रोफ़ाइल तैयार करके बेहतर मेलों को आकर्षित करने में मदद करता है। यह मशीन लर्निंग एल्गोरिदम, सफल डेटिंग प्रोफाइल से डेटा और डेटिंग कोच और विशेषज्ञों के साक्षात्कार के आधार पर मानव अंतर्दृष्टि के संयोजन का उपयोग करता है।. | :white_check_mark: |
 | [OneDateIdea](https://www.thataicollection.com/redirect/onedateidea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | वन डेट आइडिया पाओ! OneDateIdea.com प्रेरणा स्रोत के रूप में काम करता है, यह पक्का करता है कि तुम्हारी डेट उबाऊ या सामान्य यात्रा न हो।. | OneDateIdea किसी डेट की योजना बनाने के चुनौतीपूर्ण काम से जूझ रहे किसी भी व्यक्ति के लिए सबसे अच्छा समाधान है। अगर तुम प्रेरणा के लिए अटक जाते हो या बहुत सारे विकल्पों से अभिभूत हो जाते हो, तो दिन बचाने के लिए यह सेवा आपके पास आ जाती है।. | :white_check_mark: |
 | [Opencord AI](https://www.thataicollection.com/redirect/opencord-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | सोशल मीडिया के लिए AI एजेंट-जनरेटेड कॉन्टेंट. | हम अल एजेंट्स कोलैबोरेशन प्लैटफ़ॉर्म बना रहे हैं, जहाँ हमें लगता है कि AI एजेंट एक-दूसरे के बीच सहयोग कर सकते हैं, ताकि कॉन्टेंट निर्माता उपयोगी/वायरल कॉन्टेंट को तेज़ी से और आसानी से बना सकें। ग्लोबल बिल्डर्स के निजी और पेशेवर इस्तेमाल के लिए सभी रोमांचक, मज़ेदार और उपयोगी GPT की खोज करते हुए। हमने 3 AI एजेंट लॉन्च किए हैं, अगर तुम उन्हें देखना चाहते हो, तो बेझिझक हमारी साइट पर एक नज़र डालें!. | :white_check_mark: |
+| [Podify.io](https://www.thataicollection.com/redirect/podify.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | LinkedIn पर आगे बढ़ने के लिए AI और समुदाय का फ़ायदा उठाएं. | Podify एक कंटेंट और सामुदायिक प्लेटफ़ॉर्म है, जो तुम्हारे LinkedIn और निजी ब्रैंड को बढ़ाने के लिए समर्पित है।   कॉन्टेंट वाले हिस्से के लिए; Podify तुम्हारी आवाज़ के साथ-साथ सबसे ज़्यादा काम करने वाली हज़ारों LinkedIn पोस्ट का विश्लेषण करता है, ताकि तुम्हारी प्रामाणिकता को बनाए रखते हुए तुम्हारी सामग्री तक ज़्यादा से ज़्यादा पहुंच बनाई जा सके।. | :grey_question: |
 | [Postlyy](https://www.thataicollection.com/redirect/postlyy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | आसान कॉन्टेंट मैनेजमेंट की मदद से अपने दर्शकों को तेज़ी से बढ़ाएं. | Postlyy एक ऐसा प्लेटफ़ॉर्म है, जिसे क्रिएटर्स के लिए कॉन्टेंट प्रबंधन को आसान बनाने, बनाने, शेड्यूलिंग और एनालिटिक्स के लिए टूल प्रदान करने के लिए डिज़ाइन किया गया है। यह सेवा उन लोगों के लिए है जो LinkedIn और Twitter जैसे प्लेटफ़ॉर्म पर अपनी कॉन्टेंट डिलीवरी को ऑप्टिमाइज़ करना चाहते हैं, और एआई-संचालित कंटेंट क्राफ़्टिंग, कुशल शेड्यूलिंग और परफॉरमेंस विश्लेषण जैसी सुविधाएँ प्रदान करते हैं।. | :white_check_mark: |
 | [Postwise](https://www.thataicollection.com/redirect/postwise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | बाद में - Twitter AI के साथ लिखें, शेड्यूल करें और आगे बढ़ें. | दुनिया के सबसे स्मार्ट एआई ट्विटर टूल के साथ लिखें, शेड्यूल करें और आगे बढ़ें. | :grey_question: |
 | [Prettysmart co](https://www.thataicollection.com/redirect/prettysmart-co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | प्रिटीस्मार्ट - दुनिया का सबसे तेज़ सोशल मीडिया क्रिएटर।. | हम तुम्हारी कॉपी लिखने के लिए आर्टिफिशियल इंटेलिजेंस का इस्तेमाल करते हैं और डिज़ाइन बनाने के लिए तुम्हारे ब्रांड कोलैटरल का इस्तेमाल करते हैं। निर्बाध डिज़ाइन - अपने ब्रांड के कोलैटरल को अपलोड करें, और प्रिटीस्मार्ट तुम्हारे ब्रांड के अनुसार तुम्हारे पोस्ट डिज़ाइन करेगा। एआई कॉपीराइटर - बस हमें बताओ कि तुम्हेंं क्या कहना है और एआई कुछ ही सेकंड में पोस्ट लिख देगा।. | :white_check_mark: |

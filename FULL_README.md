@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1458" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1465" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,6 +59,19 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/stickerit-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    </a>
+    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
+    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with StickerIt.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -71,19 +84,6 @@ Translations:
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Chat Data</b></a>
-    <br />
-</div>
-
-<br>
-
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>AI Chatbot for your website, trained on your data</h4>
-    <p>Chatbit is an AI tool that allows users to create customized AI chatbots for their websites. The bots are designed to engage customers, answer their questions, and capture leads.</p>
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Chatbit</b></a>
     <br />
 </div>
 
@@ -1320,6 +1320,7 @@ Translations:
 | [Jenni](https://www.thataicollection.com/redirect/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Jenni - The AI For Writing Essays, Research Papers & More!. | Jenni is your AI assistant for all things in your academic journey. We specialise in developing AI that helps you with essay writing, research papers and more!. | :white_check_mark: |
 | [RTutor](https://www.thataicollection.com/redirect/rtutor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Chat With Your Data in Dozens of Human Languages. | RTutor uses OpenAI''s powerful large language model to translate natural language into R code, which is then excuted. You can request your analysis, just like asking a real person. Upload a data file (CSV, TSV/tab-delimited text files, and Excel) and just analyze it in plain English. Your results can be downloaded as an HTML report in minutes!. | :white_check_mark: |
 | [Scispace](https://www.thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Scispace by Typeset - Discover, Create, Publish, and Promote Your Research Paper. | Chat with PDF and conduct your literature review faster using SciSpace. Discover 200M+ papers or upload your own PDF, highlight text or ask questions, and extract explanations and summaries. | :grey_question: |
+| [Sector Radar](https://www.thataicollection.com/redirect/sector-radar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Scrape thousands of leads from all leading job boards in the UK. | Instant Lead Generation for Recruitment Agencies. With SectorRadar, you can instantly scrape thousands of leads from all leading job boards in any industry, location, and job title. Alongside, you get In-depth AI Powered Company Analysis and Earnings Reports for your Recruitment Team to get that next client. Get a detailed list of employees and contact information, so you can instantly reach out. | :white_check_mark: |
 | [Sensey AI](https://www.thataicollection.com/redirect/sensey-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Sensey.ai: Data-driven market intelligence for startups to achieve product-market fit. | Sensey is a market and competitive data enrichment platform with AI that accelerates product-market fit for startups. Get deep competitor insights, comprehensive market analysis, and real-time competitor monitoring to inform your product strategy, marketing, and sales. | :grey_question: |
 | [Sourcely](https://www.thataicollection.com/redirect/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Sourcely- Finish Your Research in Minutes. Save Your Sleep. | AI-powered literature sourcing tool that quickly retrieves relevant texts based on user input. With advanced natural language processing techniques, it provides easy access to diverse information sources, saving time and effort. Get help from Sourcely AI. | :white_check_mark: |
 | [Synthical](https://www.thataicollection.com/redirect/synthical?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI-powered collaborative research environment. | Simplify articles to understand complex terms, get cool recommendations, search for similar articles, and easily collaborate with the team. | :white_check_mark: |
@@ -1375,6 +1376,7 @@ Translations:
 | [LinkActions](https://www.thataicollection.com/redirect/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | LinkActions is a fully-automated internal linking tool for your website. | LinkActions uncovers the internal links that people are missing out on so that they can rank higher on Google and boost their organic traffic. Unlike other tools that only work for WordPress, LinkActions works with any web platform. | :white_check_mark: |
 | [Markero](https://www.thataicollection.com/redirect/markero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Boost your marketing with markero for more customers. | Markero, an all-in-one marketing tool equipped with artificial intelligence, democratizes advanced marketing techniques by making them accessible and easy to apply for everyone from solo entrepreneurs to large corporations. The platform simplifies complex marketing tasks by automating content creation and lead management, saving time and supporting the development of an effective online presence. | :white_check_mark: |
 | [MarketingBlocks AI](https://www.thataicollection.com/redirect/marketingblocks-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | The Future of Marketing Is Here. | Human-like all-in-one AI marketing assistant that creates landing pages, promo videos, ads, marketing copy, graphics, emails, voiceovers, blog posts, art & more. | :grey_question: |
+| [Oliv AI](https://www.thataicollection.com/redirect/oliv-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Let Oliv help you research, take notes, and update your CRM after every call: so you can focus on winning conversations!. | Oliv is an AI-powered sales assistant that enhances your prospect and customer interactions. It researches contacts pre-meeting, identifies pain points and objections during calls, crafts personalized follow-up emails, and updates your CRM with meeting data. Streamline your sales process, save time, and close more deals with Oliv's intelligent support throughout the sales cycle. | :white_check_mark: |
 | [PH Deck](https://www.thataicollection.com/redirect/ph-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | See Everyday’s Product Launch in a One Deck. | Tailored for Product Hunt users, revealing market trends through AI and YC''s proven approaches. Combining AI technology and YC insights to highlight daily standouts from Product Hunt for you. | :white_check_mark: |
 | [Peppertype AI](https://www.thataicollection.com/redirect/peppertype-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Peppertype.Ai - Create Quality Content Faster. | Peppertype just got better! Leverage the AI-powered platform to ideate, create, distribute, and measure your content and prove your content marketing ROI. | :grey_question: |
 | [Persuva](https://www.thataicollection.com/redirect/persuva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale. | Persuva stands as an AI-driven platform committed to enhancing business outcomes through the generation of compelling, conversion-optimized advertising content. Our core aim is to amplify the effectiveness of your marketing campaigns, propelling your brand''s influence and scalability to new heights. Leveraging advanced artificial intelligence alongside profound insights into consumer behavior. | :white_check_mark: |
@@ -1458,6 +1460,7 @@ Translations:
 | [LoveGenius](https://www.thataicollection.com/redirect/lovegenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Create Catchy and Attention-Grabbing Dating Bios and Get Better Matches on Tinder, Bumble and Others!. | LoveGenius is an AI dating assistant that helps attract better matches by crafting an outstanding dating profile. It uses a combination of machine learning algorithms, data from successful dating profiles, and human insights based on interviews with dating coaches and experts. | :white_check_mark: |
 | [OneDateIdea](https://www.thataicollection.com/redirect/onedateidea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Get One Date Idea! Onedateidea.com acts as a wellspring of inspiration, ensuring that your date won''t be a boring or typical outing. | OneDateIdea is the ultimate solution for anyone grappling with the daunting task of planning a date. If you''re stuck for inspiration or overwhelmed by the multitude of options out there, this service swoops in to save the day. | :white_check_mark: |
 | [Opencord AI](https://www.thataicollection.com/redirect/opencord-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | AI Agent-Generated Content for Social Media. | We are building Al Agents Collaboration Platform, where we envisioning ai agents can collaborate among each other to help content creator to create useful/viral content faster and easier. While exploring all exciting, fun and useful GPTs from global builders for personal and professional use. We launched 3 AI agents, if you are interested in check them out, feel free to take a look at our site!. | :white_check_mark: |
+| [Podify.io](https://www.thataicollection.com/redirect/podify.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Leverage AI and community to grow on LinkedIn. | Podify is a content and community platform dedicated to growing your LinkedIn and personal brand.   For the content part; Podify analyzes thousands of top performing LinkedIn posts along with your tone of voice to maximize your contents’ outreach while keeping your authenticity. | :grey_question: |
 | [Postlyy](https://www.thataicollection.com/redirect/postlyy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Grow your audience faster with effortless content management. | Postlyy is a platform designed to streamline content management for creators, offering tools for creation, scheduling, and analytics. The service caters to those looking to optimize their content delivery on platforms like LinkedIn and Twitter, providing features such as AI-powered content crafting, efficient scheduling, and in-depth performance analysis. | :white_check_mark: |
 | [Postwise](https://www.thataicollection.com/redirect/postwise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Postwise - Write, Schedule & Grow With Twitter AI. | Write, schedule and grow with the world''s smartest AI Twitter tool. | :grey_question: |
 | [Prettysmart co](https://www.thataicollection.com/redirect/prettysmart-co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Prettysmart - The fastest social media creator in the world. | We use artificial intelligence to write your copy and use your brand collateral to create the design. Seamless Design - Upload your brand collateral, and prettysmart will design your posts according to your brand. A.I. Copywriter - Just tell us what you want to say, and the AI will write the posts in literally seconds. | :white_check_mark: |

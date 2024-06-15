@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1458" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1465" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -72,12 +72,12 @@
 
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Чат-бот с искусственным интеллектом для вашего сайта, обученный на ваших данных</h4>
-    <p>Chatbit — это инструмент искусственного интеллекта, который позволяет пользователям создавать персонализированных чат-ботов с искусственным интеллектом для своих веб-сайтов. Боты предназначены для привлечения клиентов, ответов на их вопросы и привлечения потенциальных клиентов.</p>
-    <a href="https://thataicollection.com/redirect/chatbit/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с Chatbit</b></a>
+    <h4>StickerIt.AI | #1 Мобильное решение для дизайна и продажи стикеров на базе искусственного интеллекта</h4>
+    <p>StickerIt.AI — это ваше лучшее решение для создания и продажи стикеров на базе искусственного интеллекта прямо с вашего мобильного устройства. Превратите любое место в яркую мастерскую по стикерам. Имея всего два планшета и принтер, вы можете начать продавать наклейки, изготовленные на заказ, за считанные минуты. Наша платформа предназначена для ведения бизнеса по производству наклеек с искусственным интеллектом в любое время и в любом месте.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Начать работу с StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -143,6 +143,53 @@
 - 👩‍⚖️ [Юридический](#юридический)
 ## Latest Additions to AI Collection
 
+### Sector Radar
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sector-radar.webp" alt="Sector Radar">
+
+#### Соберивайте тысячи потенциальных клиентов со всех ведущих сайтов по трудоустройству Великобритании
+[Visit](https://www.thataicollection.com/redirect/sector-radar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Мгновенная генерация лидов для кадровых агентств. С помощью SectorRadar вы можете мгновенно найти тысячи потенциальных клиентов со всех ведущих форумов по трудоустройству в любой отрасли, регионе и должности. Кроме того, вы получаете углубленный анализ компании на основе искусственного интеллекта и отчеты о прибылях и убытках для своей команды по подбору персонала, чтобы привлечь следующего клиента. Получите подробный список сотрудников и контактную информацию, чтобы вы могли мгновенно связаться с нами.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/sector-radar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Podify.io
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-podify.io.webp" alt="Podify.io">
+
+#### Используйте искусственный интеллект и сообщество для роста в LinkedIn
+[Visit](https://www.thataicollection.com/redirect/podify.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Podify — это контентная и общественная платформа, посвященная развитию вашего LinkedIn и личного бренда. 
+
+Что касается контента, Podify анализирует тысячи самых популярных постов в LinkedIn, а также тон вашего голоса, чтобы максимально расширить охват вашего контента и сохранить вашу аутентичность.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/podify.io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### Oliv AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-oliv-ai.webp" alt="Oliv AI">
+
+#### Позвольте Oliv помогать вам проводить исследования, делать заметки и обновлять CRM после каждого звонка, чтобы вы могли сосредоточиться на победном разговоре!
+[Visit](https://www.thataicollection.com/redirect/oliv-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Oliv — помощник по продажам на базе искусственного интеллекта, который улучшает взаимодействие с потенциальными клиентами и клиентами. Он изучает контакты перед встречей, выявляет болевые точки и возражения во время звонков, создает персонализированные последующие электронные письма и обновляет CRM данными о встречах. Упростите процесс продаж, сэкономьте время и заключайте больше сделок благодаря интеллектуальной поддержке Oliv на протяжении всего цикла продаж.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/oliv-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Rise
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-rise.webp" alt="Rise">
 
@@ -197,56 +244,6 @@ Promptogy — это бесплатный инструмент для созда
 С легкостью конвертируйте изображения онлайн с помощью бесплатного конвертера изображений Fotor. Конвертируйте форматы JPG, PNG, WebP, HEIC и другие за считанные секунды. Поддерживается пакетное преобразование.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/fotor-image-converter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Fakeface
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-liam-charles.webp" alt="Fakeface">
-
-#### Fakeface — это онлайн-инструмент на базе искусственного интеллекта, который позволяет создавать персонализированные видео, фотографии и GIF-файлы для смены лица с легкостью, скоростью и высочайшим качеством.
-[Visit](https://www.thataicollection.com/redirect/fakeface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Fakeface.io привносит новую волну технологий искусственного интеллекта в инструменты faceswap. Подчеркивая простоту и качество, он обеспечивает беспрепятственную замену лица на фотографиях, видео и GIF-файлах. Удобный интерфейс упрощает навигацию и позволяет пользователям делать профессиональные снимки лица за минимальные шаги. Этот инструмент искусственного интеллекта обслуживает широкую базу пользователей, от фанатов социальных сетей до создателей контента
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/fakeface?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### CustomGPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customgpt.webp" alt="CustomGPT">
-
-#### Создайте свой собственный CustomGPT со всем вашим бизнес-контентом
-[Visit](https://www.thataicollection.com/redirect/customgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-CustomGPT — это платформа для управления знаниями на основе искусственного интеллекта без кода, которая объединяет информацию в централизованном поисковом агенте, улучшая обслуживание клиентов, продажи, маркетинг и эффективность работы сотрудников в компаниях.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/customgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Datalynx
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-datalynx.webp" alt="Datalynx">
-
-#### Персональный аналитик данных искусственного интеллекта, предназначенный для написания и выполнения SQL-запросов. Datalynx может ответить на бизнес-вопросы о ваших продажах и операциях за считанные секунды.
-[Visit](https://www.thataicollection.com/redirect/datalynx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Вот что вы получите:
-1. Интеграция занимает 5 минут.
-2. Соответствует требованиям SOC-2. В модели используются только таблицы и столбцы вашей базы данных.
-3. Datalynx объясняет SQL-запрос на английском языке, чтобы вы могли проверить ответы.
-4. Вы можете создавать диаграммы в 1 клик.
-5. С помощью искусственного интеллекта вы можете задать вопросы своим сотрудникам и разработать стратегию на основе полученной информации.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/datalynx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -845,21 +842,6 @@ Vana позволяет создать мини-« вы», используя в
 
 ## Чат-бот
 
-### Chatbit
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit">
-
-#### Чат-бот с искусственным интеллектом для вашего сайта, обученный на ваших данных
-[Visit](https://www.thataicollection.com/redirect/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chatbit — это инструмент искусственного интеллекта, который позволяет пользователям создавать персонализированных чат-ботов с искусственным интеллектом для своих веб-сайтов. Боты предназначены для привлечения клиентов, ответов на их вопросы и привлечения потенциальных клиентов.
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Chatbase
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
 
@@ -945,6 +927,21 @@ ChatSimple — это платформа, которая специализир�
 Автоматизируйте обслуживание клиентов с помощью наших чат-ботов на базе искусственного интеллекта и дайте своей команде возможность сосредоточиться на том, что у них получается лучше всего. Повысьте эффективность и улучшите взаимодействие с клиентами с помощью FastBots.ai.
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### CustomGPT
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customgpt.webp" alt="CustomGPT">
+
+#### Создайте свой собственный CustomGPT со всем вашим бизнес-контентом
+[Visit](https://www.thataicollection.com/redirect/customgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+CustomGPT — это платформа для управления знаниями на основе искусственного интеллекта без кода, которая объединяет информацию в централизованном поисковом агенте, улучшая обслуживание клиентов, продажи, маркетинг и эффективность работы сотрудников в компаниях.
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/customgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3142,6 +3139,22 @@ PornGen — это платформа, управляемая искусстве
 
 
 
+### DeepNude Free AI App
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deepnude-free-ai-app.webp" alt="DeepNude Free AI App">
+
+#### Создавайте фотографии и изображения онлайн. Откройте для себя преобразующую силу искусственного интеллекта DeepNude и улучшите свои цифровые творения уже сегодня.
+[Visit](https://www.thataicollection.com/redirect/deepnude-free-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Приложение DeepNude AI предлагает набор мощных функций, которые могут значительно улучшить различные творческие и профессиональные проекты. Вот почему вы можете рассмотреть возможность использования этой технологии:
+
+
+[More Information and Pricing](https://www.thataicollection.com/ru/application/deepnude-free-ai-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Candy AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-candy-ai.webp" alt="Candy AI">
 
@@ -3152,21 +3165,6 @@ PornGen — это платформа, управляемая искусстве
 Спутник вашей мечты ждет вас! Создайте свою подругу с искусственным интеллектом, сформируйте ее внешний вид, индивидуальность и воплотите ее в жизнь в один клик. На 100% работает на основе искусственного интеллекта
 
 [More Information and Pricing](https://www.thataicollection.com/ru/application/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Nude AI - Image Generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nude-ai---image-generator.webp" alt="Nude AI - Image Generator">
-
-#### Одевайте и раздевайте кого угодно — эстетично
-[Visit](https://www.thataicollection.com/redirect/nude-ai---image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nude AI — это революционный инструмент, расширяющий возможности широкого спектра творческих и профессиональных приложений. Nude AI предлагает множество преимуществ, будь то улучшение списков продуктов в электронной коммерции, улучшение визуального повествования в развлечениях и играх, развитие технологий редактирования фотографий или расширение границ цифрового искусства и дизайна одежды. 
-
-[More Information and Pricing](https://www.thataicollection.com/ru/application/nude-ai---image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
