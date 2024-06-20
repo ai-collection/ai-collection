@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1476" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1497" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -59,18 +59,12 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
-    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Chat Data</b></a>
+    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
+    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -91,12 +85,18 @@ Translations:
 
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
-    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with StickerIt.AI</b></a>
+    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
+    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Chat Data</b></a>
     <br />
 </div>
 
@@ -162,113 +162,113 @@ To see the full collection of AI Applications in legacy table view, go [here](FU
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
 
-### Twixify
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-twixify.webp" alt="Twixify">
+### Maps Scraper AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-maps-scraper-ai.webp" alt="Maps Scraper AI">
 
-#### Undetectable AI Rewriter To Humanize AI-Generated Text
-[Visit](https://www.thataicollection.com/redirect/twixify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Twixify is a rewriter designed to humanize text generated by ChatGPT and other AI writing tools. 
-Any text output from Twixify will bypass AI detection. 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/twixify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
+#### Maps Scraper AI is like a robot that scrapes Bing Maps, giving us real, verified leads. It's the best way to get leads automatically, straight from Maps listings.
 
 
+[Visit](https://www.thataicollection.com/redirect/maps-scraper-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Get Local Leads with the power of AI.A great tool for generating leads to collecting information from Maps for potential customers automatically.
 
 
-### IDW
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-idw.webp" alt="IDW">
-
-#### Illusion Diffusion: Enhance your photos to make them more like art!
-[Visit](https://www.thataicollection.com/redirect/idw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-With Illusion Diffusion AI, a variety of parameters are available to create the artwork you want
-
-Illusion Diffusion: Enhance your photos to make them more like art!
-
-Turn any photo into exquisite artwork, and let your creativity run wild. Simply add a text prompt and upload your photos to witness the magic!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/idw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### AIVideo
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-aivideo.webp" alt="AIVideo">
-
-#### Make viral videos with just a prompt. Use our AI to write, research, generate, and edit your next video. 
-[Visit](https://www.thataicollection.com/redirect/aivideo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Our chatbot combines dozens of different video production tools into a single AI. Generate scripts, voiceovers, visuals, animation, video clips, and more. AIVideo.com is the only tool that provides the full range of video production tools in a single chat interface. 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/aivideo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Creatify AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-creatify-ai.webp" alt="Creatify AI">
-
-#### Generate short video ads from any product URL. 
-[Visit](https://www.thataicollection.com/redirect/creatify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Creatify is an advanced AI solution revolutionizing ad creation. Users can input product links or upload images and descriptions to quickly produce high-quality short video ads. Features include URL-based video generation, AI-driven voiceovers, dynamic scripts, realistic voices and avatars, detailed product analysis, and robust video editing.
-
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/creatify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### Kopage AI Website Builder
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-kopage-ai-website-builder.webp" alt="Kopage AI Website Builder">
-
-#### White-Label AI Website Builder you can use to build websites for your clients under your own brand
-[Visit](https://www.thataicollection.com/redirect/kopage-ai-website-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Kopage AI Website Builder is a white-label platform, where you can create a website or start creating websites for your clients under your own brand.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/kopage-ai-website-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/maps-scraper-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 <br />
 
 
-### AI hentai generator
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-joe-lopan.webp" alt="AI hentai generator">
+### COUNT
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-count.webp" alt="COUNT">
 
-#### AI hentai generator: Create beautiful AI hentai with the best AI Hentai Generator!
-[Visit](https://www.thataicollection.com/redirect/ai-hentai-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### AI-powered accounting for founders not bookkeepers
+[Visit](https://www.thataicollection.com/redirect/count?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Step into the creative world of our AI Hentai Generator, a user-friendly platform designed to help you create your own Hentai artwork with the help of artificial intelligence. 
+COUNT is an AI-driven accounting software that simplifies accounting for business owners and entrepreneurs by avoiding complex jargon and focusing on the automation of routine tasks. It's designed to make accounting intuitive, enabling users to manage their finances without needing extensive training or expensive professionals.
 
-Whether you're a beginner or an experienced artist, this tool offers a fun and easy way to express yourself. Start generating your AI hentai today! 
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-hentai-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/count?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
 
 
-### Sector Radar
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-sector-radar.webp" alt="Sector Radar">
+### Filmora
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-filmora.webp" alt="Filmora">
 
-#### Scrape thousands of leads from all leading job boards in the UK
-[Visit](https://www.thataicollection.com/redirect/sector-radar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+#### Filmora - Maximiza tu creatividad en videos
+[Visit](https://www.thataicollection.com/redirect/filmora?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Instant Lead Generation for Recruitment Agencies. With SectorRadar, you can instantly scrape thousands of leads from all leading job boards in any industry, location, and job title. Alongside, you get In-depth AI Powered Company Analysis and Earnings Reports for your Recruitment Team to get that next client. Get a detailed list of employees and contact information, so you can instantly reach out.
+Crea videos impresionantes de cualquier tipo con nuestro editor de video IA potente e intuitivo, que cuenta con todas las funciones que necesitas.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/sector-radar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/filmora?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
+
+### WLSpy
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wlspy.webp" alt="WLSpy">
+
+#### WLSpy helps users discover winning products by analyzing market trends and competitor strategies.
+[Visit](https://www.thataicollection.com/redirect/wlspy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+WLSpy offers comprehensive tools for product research, including trend analysis, competitor monitoring, and market insights. It provides users with data-driven strategies to find winning products, optimize marketing efforts, and stay ahead of the competition. Features include real-time data updates, advanced filtering options, and intuitive visualizations. 
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/wlspy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### LeadKit
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-leadkit.webp" alt="LeadKit">
+
+#### Scrape, Verify Bulk Emails & Send Mass Emails, All in one place.
+[Visit](https://www.thataicollection.com/redirect/leadkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Leadkit is a suite of tools every marketer needs, everyone pays for a lot of different tools from scraping the leads to verifying them and then a whole different tool-set for sending mass email campaigns. We have created an all in one solution for every marketer, where we handle all technicalities and you get ready to go tools.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/leadkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### SamSearch
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-samsearch.webp" alt="SamSearch">
+
+#### AI proposal and capture solution for GovCon
+[Visit](https://www.thataicollection.com/redirect/samsearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SamSearch is the GovCon AI platform that streamline your business’s procurement process through: 
+🔎 AI opportunity search with AI-generated summaries,
+🖊️ AI proposal generator
+📅 Search query scheduling
+📎AI attachment summary
+📃 AI outline generation
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/samsearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
+### ProJourney AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-projourney-ai.webp" alt="ProJourney AI">
+
+#### ProJourney allows you to use Midjourney without having to go through Discord. 
+[Visit](https://www.thataicollection.com/redirect/projourney-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ProJourney simplifies AI image creation by giving you access to Midjourney's generator without Discord, allowing easy text-prompted generation of high-quality images.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/projourney-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -867,6 +867,21 @@ AI Generated Pictures Starring You
 
 ## Chat Bot
 
+### Chatbit
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbit.webp" alt="Chatbit">
+
+#### AI Chatbot for your website, trained on your data
+[Visit](https://www.thataicollection.com/redirect/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chatbit is an AI tool that allows users to create customized AI chatbots for their websites. The bots are designed to engage customers, answer their questions, and capture leads.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### Chatbase
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
 
@@ -952,21 +967,6 @@ ChatSimple is a platform that specializes in creating conversion-oriented chatbo
 Automate your customer service with our AI-powered chatbots and give your team the freedom to focus on what they do best. Improve efficiency and enhance customer interaction with FastBots.ai.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
-### CustomGPT
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-customgpt.webp" alt="CustomGPT">
-
-#### Create your own CustomGPT with all of YOUR Business Content
-[Visit](https://www.thataicollection.com/redirect/customgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-CustomGPT is a no-code AI knowledge management platform that organizes information into a central search agent, enhancing customer service, sales, marketing, and employee efficiency for businesses.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/customgpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3164,6 +3164,22 @@ The interface is user-friendly, making it straightforward for you to navigate an
 
 
 
+### Candy AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-candy-ai.webp" alt="Candy AI">
+
+#### Candy.AI: Create Your AI Girlfriend & Start Chatting
+
+[Visit](https://www.thataicollection.com/redirect/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Your dream companion awaits! Create your AI Girlfriend, shape her look, personality, and bring her to life in one click. 100% powered by Artificial Intelligence
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
+
 ### AI hentai generator
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-joe-lopan.webp" alt="AI hentai generator">
 
@@ -3197,22 +3213,6 @@ The DeepNude AI app offers a suite of powerful features that can significantly e
 
 
 
-### Candy AI
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-candy-ai.webp" alt="Candy AI">
-
-#### Candy.AI: Create Your AI Girlfriend & Start Chatting
-
-[Visit](https://www.thataicollection.com/redirect/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Your dream companion awaits! Create your AI Girlfriend, shape her look, personality, and bring her to life in one click. 100% powered by Artificial Intelligence
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-
-
 ### Pephop AI
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pephop-ai.webp" alt="Pephop AI">
 
@@ -3237,6 +3237,22 @@ Your online AI chatbot platform for roleplay. Engage with diverse characters, en
 ---
 
 ## Organization & Automation
+
+### Riku
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-riku.webp" alt="Riku">
+
+#### Riku.Ai - Build No-Code Prompts & Datasets for AI Models
+[Visit](https://www.thataicollection.com/redirect/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Transform Your Business with AI
+Build AI, Experiment, Deploy - User Feedback Approved. Embed Generative AI Workflow in Your Business with No-Code!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/riku?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 
 ### Albus
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-albus.webp" alt="Albus">
@@ -3328,22 +3344,6 @@ AutoPredict is the first app that uses artificial intelligence to predict how lo
 <br />
 
 
-
-
-### Looti
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-looti.webp" alt="Looti">
-
-#### Hyperqualified leads to supercharge your growth
-[Visit](https://www.thataicollection.com/redirect/looti?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Generate B2B leads in a few clicks thanks to AI - Turn your leads into revenue - Already 10 000+ generated leads
-with hypergrowing companies
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/looti?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-<br />
 
 
 
