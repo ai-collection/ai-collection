@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1552" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1554" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -60,25 +60,21 @@ Translations:
     </a>
     <h4>AI Chatbot for your website, trained on your data</h4>
     <p>Chatbit is an AI tool that allows users to create customized AI chatbots for their websites. The bots are designed to engage customers, answer their questions, and capture leads.</p>
-    <a href="https://chatbit.co/" target="_blank"><b>Get Started with Chatbit</b></a>
+    <a href="https://thataicollection.com/redirect/chatbit" target="_blank"><b>Get Started with Chatbit</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
-    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
+    <h4>Land your ideal job with our job application AI. Automatically apply to hundreds of engineering jobs every week! Join ApplyPass to get 100 free applications.</h4>
+    <p>ApplyPass is an AI-powered job search tool that gets you more job interviews. ApplyPass submits 200-400 tailored job applications on your behalf every month. This tool offers the first 100 job applications for free.
 
-
-
-
-
-</p>
-    <a href="https://www.chat-data.com?via=aicollection" target="_blank"><b>Get Started with Chat Data</b></a>
+ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that''s 40% higher than the industry average.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Get Started with ApplyPass</b></a>
     <br />
 </div>
 
@@ -90,7 +86,7 @@ Translations:
     </a>
     <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
     <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It''s an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
-    <a href="https://www.aiapply.co/?via=aicollection" target="_blank"><b>Get Started with AiApply</b></a>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Get Started with AiApply</b></a>
     <br />
 </div>
 
@@ -148,6 +144,33 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### My Future children
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-my-future-children.webp" alt="My Future children">
+
+#### Find out what your future children might look like
+
+Upload two parent images and generate your child's image in 30 seconds
+
+
+[Visit](https://thataicollection.com/redirect/my-future-children?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+🌟
+For Couples
+
+If you are expecting a baby or planning to have one. Find out what your and your partner's future children might look like in advance.
+
+🔮
+For Singles
+
+If you have a celebrity or secret crush on somebody: Find out what your future children would look like with them.
+
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/my-future-children?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### aicut
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aicut.webp" alt="aicut">
 
@@ -269,22 +292,6 @@ Transcri is an online SaaS designed like the files converters / compress tools (
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/transcri?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### ChatArt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatart.webp" alt="ChatArt">
-
-#### ChatArt - The best AI content creation platform for you
-
-
-[Visit](https://thataicollection.com/redirect/chatart?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ChatArt is an all-encompassing AI creation platform that harnesses the power of today's most advanced AI models, including GPT-4o, Claude 3 Opus, and Gemini. You can easily convert simple words into high-quality conversations, articles, creations, and paintings.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/chatart?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3245,42 +3252,6 @@ Amadeus Topline is an AI-powered composing app for every creator. AI creates you
 ---
 
 ## NSFW - Nudify & AI Girlfriends
-### Undress Pro AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
-
-#### Undress Pro AI - The State of the Art Undress AI - Undress anyone
-
-
-
-[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress Pro AI - Realize your fantasy about her instantly with AI-powered face swapping or by transforming her images into Anime style.
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### PornGen
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
-
-#### PornGen is an advanced AI-powered platform that allows users to create high-quality, realistic, and detailed NSFW images. 
-
-
-[Visit](https://thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PornGen is an AI-driven platform that specializes in creating adult content through advanced image-generation techniques. It produces NSFW images that cater to a wide array of user preferences. Users interact with PornGen by providing textual prompts or selecting specific tags that describe their desired outcome, such as body type, actions, or clothing styles.
-
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Unclothy
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unclothy_.webp" alt="Unclothy">
 
@@ -3360,6 +3331,42 @@ Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instan
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Candy AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-candy-ai.webp" alt="Candy AI">
+
+#### Candy.AI: Create Your AI Girlfriend & Start Chatting
+
+
+
+[Visit](https://thataicollection.com/redirect/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Your dream companion awaits! Create your AI Girlfriend, shape her look, personality, and bring her to life in one click. 100% powered by Artificial Intelligence
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Undress Pro AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
+
+#### Undress Pro AI - The State of the Art Undress AI - Undress anyone
+
+
+
+[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress Pro AI - Realize your fantasy about her instantly with AI-powered face swapping or by transforming her images into Anime style.
+
+
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
