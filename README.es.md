@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1552" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1554" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -50,37 +50,33 @@
     </a>
     <h4>Chatbot de IA para tu sitio web, entrenado con tus datos</h4>
     <p>Chatbit es una herramienta de IA que permite a los usuarios crear chatbots de IA personalizados para sus sitios web. Los bots están diseñados para captar clientes, responder a sus preguntas y captar clientes potenciales.</p>
-    <a href="https://chatbit.co/" target="_blank"><b>Comience con Chatbit</b></a>
+    <a href="https://thataicollection.com/redirect/chatbit" target="_blank"><b>Comience con Chatbit</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Chatbot de IA personalizado las 24 horas del día, los 7 días de la semana, más escalación</h4>
-    <p>Chat Data es una plataforma de chatbots de IA que ofrece una personalización flexible de backend y frontend. Crea chatbots con tu base de conocimientos, puntos finales personalizados o los modelos de Chat Data. Personaliza la interfaz del chatbot y opta por la etiqueta blanca. Las funciones adicionales incluyen la escalación del chat en vivo en los planes estándar o profesionales.
+    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
+    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
 
-
-
-
-
-</p>
-    <a href="https://www.chat-data.com?via=aicollection" target="_blank"><b>Comience con Chat Data</b></a>
+ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
-    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
-    <a href="https://stickerit.ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
+    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
+    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -138,15 +134,47 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### aicut
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aicut.webp" alt="aicut">
+### My Future children
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-my-future-children.webp" alt="My Future children">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/aicut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/my-future-children?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/my-future-children?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### aicut
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aicut.webp" alt="aicut">
+
+#### crear sin rostro
+vídeos cortos
+ahorra tiempo de edición y usa la IA para cambiar tu guion o idea
+en vídeos cortos sin rostro en cuestión de minutos
+
+
+[Visit](https://thataicollection.com/redirect/aicut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+crear sin rostro
+vídeos cortos
+
+ahorra tiempo de edición y usa la IA para cambiar tu guion o idea
+en vídeos cortos sin rostro en cuestión de minutos
+🚀 creación totalmente autónoma
+🚀 vídeos únicos con una variedad de estilos
+🚀 diseñado para canales sin rostro
+
+acelerar el crecimiento en:
+
+TikTok
+pantalones cortos de youtube
+carretes de Instagram
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/aicut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -243,22 +271,6 @@ Transcri es un SaaS en línea diseñado como las herramientas de conversión y c
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/transcri?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### ChatArt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatart.webp" alt="ChatArt">
-
-#### ChatArt: la mejor plataforma de creación de contenido de IA para ti
-
-
-[Visit](https://thataicollection.com/redirect/chatart?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ChatArt es una plataforma integral de creación de IA que aprovecha la potencia de los modelos de IA más avanzados de la actualidad, como el GPT-4o, el Claude 3 Opus y Gemini. Puedes convertir fácilmente palabras sencillas en conversaciones, artículos, creaciones y pinturas de alta calidad.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/chatart?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3218,42 +3230,6 @@ Amadeus Topline es una aplicación de composición basada en la IA para todos lo
 ---
 
 ## NSFW - Novias desnudas e inteligencia artificial
-### Undress Pro AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
-
-#### Undress Pro AI - Lo último en tecnología Undress AI - Desnuda a cualquiera
-
-
-
-[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress Pro AI: Haz realidad tu fantasía sobre ella al instante con un intercambio de rostros con tecnología de IA o transformando sus imágenes al estilo anime.
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### PornGen
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
-
-#### PornGen es una plataforma avanzada impulsada por la IA que permite a los usuarios crear imágenes NSFW de alta calidad, realistas y detalladas. 
-
-
-[Visit](https://thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PornGen es una plataforma impulsada por la IA que se especializa en crear contenido para adultos mediante técnicas avanzadas de generación de imágenes. Produce imágenes NSFW que se adaptan a una amplia gama de preferencias de los usuarios. Los usuarios interactúan con PornGen proporcionando indicaciones textuales o seleccionando etiquetas específicas que describan el resultado deseado, como el tipo de cuerpo, las acciones o el estilo de ropa.
-
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Unclothy
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unclothy_.webp" alt="Unclothy">
 
@@ -3333,6 +3309,42 @@ En Undressbaby AI, ofrecemos Grey's Secret Room, un servicio distintivo impulsad
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Candy AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-candy-ai.webp" alt="Candy AI">
+
+#### Candy.AI: Crea tu novia de IA y empieza a chatear
+
+
+
+[Visit](https://thataicollection.com/redirect/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+¡La compañera de tus sueños te espera! Crea tu novia de IA, dale forma a su aspecto, personalidad y dale vida con un solo clic. Impulsado al 100% por inteligencia artificial
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Undress Pro AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
+
+#### Undress Pro AI - Lo último en tecnología Undress AI - Desnuda a cualquiera
+
+
+
+[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress Pro AI: Haz realidad tu fantasía sobre ella al instante con un intercambio de rostros con tecnología de IA o transformando sus imágenes al estilo anime.
+
+
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

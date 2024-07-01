@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1552" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1554" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -50,7 +50,19 @@
     </a>
     <h4>तुम्हारी वेबसाइट के लिए AI चैटबोट, जो तुम्हारे डेटा के आधार पर प्रशिक्षित है</h4>
     <p>Chatbit एक AI टूल है जिसकी मदद से यूज़र अपनी वेबसाइट के लिए अनुकूलित AI चैटबॉट बना सकते हैं। बॉट्स को ग्राहकों से जुड़ने, उनके सवालों के जवाब देने और लीड कैप्चर करने के लिए डिज़ाइन किया गया है।</p>
-    <a href="https://chatbit.co/" target="_blank"><b>के साथ आरंभ करें Chatbit</b></a>
+    <a href="https://thataicollection.com/redirect/chatbit" target="_blank"><b>के साथ आरंभ करें Chatbit</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    </a>
+    <h4>पैराफ़्रेसिंग टूल - सर्वश्रेष्ठ मुफ़्त ऑनलाइन पैराफ़्रेज़र - Wordfixerbot</h4>
+    <p>WordFixerBot का पैराफ़्रेसिंग टूल किसी भी टेक्स्ट, वाक्य, लेख, पैराग्राफ, पेपर या दस्तावेज़ों को तुरंत और सटीक तरीके से फिर से लिखने में तुम्हारी मदद करने के लिए एकदम सही टूल है। अभी शुरू करो और अपने लेखन को सबसे अलग बनाओ!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>के साथ आरंभ करें Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -62,19 +74,7 @@
     </a>
     <h4>AI की थोड़ी मदद से, एकदम सही रिज़्यूमे तैयार करें</h4>
     <p>तुम्हेंं जल्दी और आसानी से ऐसा रिज्यूम बनाने के लिए, जो तुम्हारे काम के अनुभव को सटीक रूप से दर्शाता हो, एक पेशेवर रेज़्यूमे लेखक होने की ज़रूरत नहीं है। हंटर का कस्टमाइज़ किया जा सकने वाला AI रिज्यूमे बिल्डर तुम्हेंं और इंटरव्यू देने में मदद करने के लिए एक अच्छी तरह से लिखा हुआ, एटीएस-अनुकूल रिज्यूमे तैयार करने में मदद करेगा।</p>
-    <a href="https://huntr.co/product/ai-resume-builder" target="_blank"><b>के साथ आरंभ करें Huntr AI Resume Builder</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
-    </a>
-    <h4>कॉर्पोरेट हेडशॉट्स AI: AI के साथ कॉर्पोरेट पोर्ट्रेट्स में क्रांति लाना</h4>
-    <p>www.CorporateHeadshots.ai के साथ प्रोफ़ेशनल फ़ोटोग्राफ़ी के भविष्य का अनुभव करें। हमारा एआई-चालित प्लेटफ़ॉर्म तुम्हारी सेल्फी को सुंदर, कॉर्पोरेट-मानक हेडशॉट में बदल देता है, जिससे पेशेवर तस्वीरें हर किसी के लिए, हर जगह सुलभ और आसान हो जाती हैं।</p>
-    <a href="https://www.corporateheadshots.ai" target="_blank"><b>के साथ आरंभ करें Corporate Headshots AI</b></a>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>के साथ आरंभ करें Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -132,15 +132,47 @@
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### aicut
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aicut.webp" alt="aicut">
+### My Future children
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-my-future-children.webp" alt="My Future children">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/aicut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/my-future-children?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/my-future-children?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### aicut
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aicut.webp" alt="aicut">
+
+#### फ़ेसलेस बनाएँ
+छोटे वीडियो
+संपादन का समय बचाएं और अपनी स्क्रिप्ट या विचार को बदलने के लिए AI का इस्तेमाल करें
+मिनटों में फ़ेसलेस छोटे वीडियो देखने के लिए
+
+
+[Visit](https://thataicollection.com/redirect/aicut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+फ़ेसलेस बनाएँ
+छोटे वीडियो
+
+संपादन का समय बचाएं और अपनी स्क्रिप्ट या विचार को बदलने के लिए AI का इस्तेमाल करें
+मिनटों में फ़ेसलेस छोटे वीडियो देखने के लिए
+🚀 पूरी तरह से ऑटोनॉमस क्रिएशन
+🚀 कई तरह के स्टाइल वाले अनोखे वीडियो
+🚀 फ़ेसलेस चैनलों के लिए डिज़ाइन किया गया
+
+आगे बढ़ने में तेजी लाएं:
+
+टिकटोक
+YouTube शॉर्ट्स
+इंस्टाग्राम रील्स
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/aicut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -237,22 +269,6 @@ Transcri एक ऑनलाइन SaaS है जिसे फ़ाइल कन�
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/transcri?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### ChatArt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatart.webp" alt="ChatArt">
-
-#### ChatArt - तुम्हारे लिए सबसे अच्छा AI कॉन्टेंट बनाने का प्लेटफ़ॉर्म
-
-
-[Visit](https://thataicollection.com/redirect/chatart?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ChatArt एक व्यापक AI क्रिएशन प्लेटफ़ॉर्म है, जो आज के सबसे एडवांस AI मॉडल की ताकत का इस्तेमाल करता है, जिनमें GPT-4o, क्लाउड 3 ओपस और जेमिनी शामिल हैं। तुम साधारण शब्दों को आसानी से हाई-क्वालिटी वाली बातचीत, लेख, क्रिएशन और पेंटिंग में बदल सकते हो।
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/chatart?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3213,42 +3229,6 @@ MusicTGA-HR एक API सेवा है जो कॉन्टेंट ब�
 ---
 
 ## NSFW - न्यूडिफ़ी और एआई गर्लफ़्रेंड्स
-### Undress Pro AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
-
-#### अनड्रेस प्रो एआई - द स्टेट ऑफ़ द आर्ट अनड्रेस एआई - किसी को भी अनड्रेस करें
-
-
-
-[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-अनड्रेस प्रो एआई - एआई-संचालित फ़ेस स्वैपिंग या उनकी छवियों को एनीमे स्टाइल में बदलकर तुरंत उनके बारे में अपनी कल्पना को साकार करें।
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### PornGen
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
-
-#### PornGen एक एडवांस AI-संचालित प्लेटफ़ॉर्म है, जिसकी मदद से यूज़र हाई-क्वालिटी, यथार्थवादी और विस्तृत NSFW चित्र बना सकते हैं। 
-
-
-[Visit](https://thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PornGen एक AI-संचालित प्लेटफ़ॉर्म है, जो इमेज जनरेशन की एडवांस तकनीकों के ज़रिए वयस्क सामग्री बनाने में माहिर है। यह NSFW इमेज बनाता है, जो यूज़र की कई तरह की प्राथमिकताओं को पूरा करती हैं। यूज़र टेक्स्ट के लिए संकेत देकर या ऐसे खास टैग चुनकर PornGen के साथ इंटरैक्ट करते हैं, जो उनके इच्छित परिणाम के बारे में बताते हैं, जैसे कि बॉडी टाइप, एक्शन, या कपड़ों की स्टाइल।
-
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Unclothy
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unclothy_.webp" alt="Unclothy">
 
@@ -3328,6 +3308,42 @@ Undressbaby AI में, हम ग्रेज़ सीक्रेट रूम
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Candy AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-candy-ai.webp" alt="Candy AI">
+
+#### Candy.AI: अपनी AI गर्लफ्रेंड बनाएं और चैट करना शुरू करें
+
+
+
+[Visit](https://thataicollection.com/redirect/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+तुम्हारा सपनों का साथी इंतज़ार कर रहा है! अपनी AI गर्लफ्रेंड बनाएं, उसके लुक, व्यक्तित्व को आकार दें और उसे एक क्लिक में जीवंत बनाएं। 100% आर्टिफिशियल इंटेलिजेंस द्वारा संचालित
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Undress Pro AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
+
+#### अनड्रेस प्रो एआई - द स्टेट ऑफ़ द आर्ट अनड्रेस एआई - किसी को भी अनड्रेस करें
+
+
+
+[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+अनड्रेस प्रो एआई - एआई-संचालित फ़ेस स्वैपिंग या उनकी छवियों को एनीमे स्टाइल में बदलकर तुरंत उनके बारे में अपनी कल्पना को साकार करें।
+
+
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
