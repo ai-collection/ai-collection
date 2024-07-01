@@ -67,6 +67,18 @@ Translations:
 <br>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    </a>
+    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
+    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -79,18 +91,6 @@ Translations:
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>Craft the perfect resume, with a little help from AI</h4>
-    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -148,6 +148,32 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### VikingPic
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vikingpic.webp" alt="VikingPic">
+
+#### Become a Viking
+upload an image of your face and
+receive AI generated pictures of yourself as a viking
+in 5 min via email
+
+
+[Visit](https://thataicollection.com/redirect/vikingpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+For Viking Enthusiasts
+
+Unleash Your Inner Viking: Transform into a Warrior of the North Today
+Upload your image and get into the Viking mood.
+Drinking mead with Odin in Valhalla is just a click away.
+For Friends & Family
+
+See yourself as a Viking. Find out what you would look like if you were born in the Viking Age. Dwell amongst the nordic myths and heroes of old. Great for social media content.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/vikingpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### GPTZero AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-gptzero-ai.webp" alt="GPTZero AI">
 
@@ -278,22 +304,6 @@ Step 4: The tool should replaces the text in the new language in the same place 
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/redaka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Holiwise
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-holiwise.webp" alt="Holiwise">
-
-#### Holiwise is an AI-powered tool designed to assist in travel planning
-
-
-[Visit](https://thataicollection.com/redirect/holiwise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Holiwise is here to help you from the very beginning of the travel planning process. You can find the perfect travel destination based on your preferences and tailor your itinerary to the very needs you have. You can invite your friends to plan your trip together.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/holiwise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3414,6 +3424,22 @@ Albus an AI platform that leverages the power of ChatGPT to assist HR employees 
 <br />
 
 
+### guidde
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-guidde.webp" alt="guidde">
+
+#### Magically Create Stunning Training Meterial, Feature Notes, SOPs, Onboarding Guides, How-to Guides, FAQs With AI.
+
+
+[Visit](https://thataicollection.com/redirect/guidde?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+guidde is the generative AI platform for business that helps your team create video documentation 11x faster.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/guidde?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### airops
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-airops.webp" alt="airops">
 
@@ -3476,22 +3502,6 @@ Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual wor
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/bardeen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AutoPredict
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-autopredict.webp" alt="AutoPredict">
-
-#### Autopredict - Predict How Long Your Car Will Last
-
-
-[Visit](https://thataicollection.com/redirect/autopredict?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AutoPredict is the first app that uses artificial intelligence to predict how long a car will last. By analysing over 100 million data points AutoPredict gives an accurate estimate of your car''s life.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/autopredict?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
