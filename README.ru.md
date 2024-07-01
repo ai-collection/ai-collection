@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1555" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1556" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -57,30 +57,26 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Настраиваемый чат-бот с искусственным интеллектом, работающий круглосуточно и без выходных</h4>
-    <p>Chat Data — это платформа чат-ботов с искусственным интеллектом, предлагающая гибкую настройку бэкенда и интерфейса. Создавайте чат-ботов, используя свою базу знаний, настраиваемые конечные точки или модели Chat Data. Настройте интерфейс чат-бота и выберите белую маркировку. Дополнительные функции включают эскалацию онлайн-чата в стандартных или профессиональных тарифных планах.
+    <h4>Найдите идеальную работу с помощью нашего искусственного интеллекта для подачи заявлений о приеме на работу. Каждую неделю автоматически подавайте заявки на сотни инженерных вакансий! Присоединяйтесь к ApplyPass, чтобы получить 100 бесплатных заявок.</h4>
+    <p>ApplyPass — это инструмент для поиска работы на базе искусственного интеллекта, который позволяет проводить больше собеседований. ApplyPass ежемесячно подает 200-400 индивидуальных заявлений о приеме на работу от вашего имени. Этот инструмент предлагает первые 100 заявок на работу бесплатно.
 
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Начать работу с Chat Data</b></a>
+ApplyPass.com провел тысячи интервью для инженеров, средний процент ответов на которые на 40% выше, чем в среднем по отрасли.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Начать работу с ApplyPass</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
-    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
+    <h4>StickerIt.AI | #1 Мобильное решение для дизайна и продажи стикеров на базе искусственного интеллекта</h4>
+    <p>StickerIt.AI — это ваше лучшее решение для создания и продажи стикеров на базе искусственного интеллекта прямо с вашего мобильного устройства. Превратите любое место в яркую мастерскую по стикерам. Имея всего два планшета и принтер, вы можете начать продавать наклейки, изготовленные на заказ, за считанные минуты. Наша платформа предназначена для ведения бизнеса по производству наклеек с искусственным интеллектом в любое время и в любом месте.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Начать работу с StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -141,12 +137,13 @@
 ### GPTZero AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-gptzero-ai.webp" alt="GPTZero AI">
 
-#### null
+#### Надежный детектор искусственного интеллекта для ChatGPT, GPT-4 и других устройств - GPTZero
 
 
 [Visit](https://thataicollection.com/redirect/gptzero-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-null
+Больше, чем детектор искусственного интеллекта — сохраните то, что есть человек.
+С момента изобретения технологии искусственного интеллекта GPTZero использует новейшие исследования по обнаружению ChatGPT, GPT4, Google-Gemini, LLama и новых моделей искусственного интеллекта, а также изучению их источников.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/gptzero-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
