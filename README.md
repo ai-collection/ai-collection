@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1554" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1555" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -67,6 +67,24 @@ Translations:
 <br>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    </a>
+    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
+    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
@@ -75,18 +93,6 @@ Translations:
 
 ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that''s 40% higher than the industry average.</p>
     <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Get Started with ApplyPass</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
-    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It''s an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Get Started with AiApply</b></a>
     <br />
 </div>
 
@@ -144,6 +150,23 @@ ApplyPass.com has generated thousands of interviews for engineers, with an avera
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### GPTZero AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-gptzero-ai.webp" alt="GPTZero AI">
+
+#### The Trusted AI Detector for ChatGPT, GPT-4, & More - GPTZero
+
+
+[Visit](https://thataicollection.com/redirect/gptzero-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+More than an AI detector - Preserve What's Human.
+Since inventing AI detection, GPTZero incorporates the latest research in detecting ChatGPT, GPT4, Google-Gemini, LLaMa, and new AI models, and investigating their sources.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/gptzero-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### My Future children
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-my-future-children.webp" alt="My Future children">
 
@@ -273,25 +296,6 @@ Holiwise is here to help you from the very beginning of the travel planning proc
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/holiwise?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Transcri
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-transcri.webp" alt="Transcri">
-
-#### Audio transcription and subtitle generation powered by AI.
-
-
-[Visit](https://thataicollection.com/redirect/transcri?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Transcri is an online SaaS designed like the files converters / compress tools (usable for free without account). We provide the highest speech-to-text quality on the market + a very high number of input and output formats (currently 12 subtitles formats and more to come).
-- +50 languages available for transcription AND translation
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/transcri?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
