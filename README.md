@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1556" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1569" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -67,30 +67,24 @@ Translations:
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
-    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
+    <h4>Corporate Headshots AI: Revolutionizing Corporate Portraits with AI</h4>
+    <p>Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Get Started with Corporate Headshots AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
-    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
+    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
+    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It''s an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Get Started with AiApply</b></a>
     <br />
 </div>
 
@@ -148,6 +142,22 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### WriteText AI for WooCommerce
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-writetext-ai-for-woocommerce.webp" alt="WriteText AI for WooCommerce">
+
+#### WriteText.ai for WooCommerce is a custom-designed plugin for WordPress and WooCommerce aimed at automating the creation of product description and meta information.
+
+
+[Visit](https://thataicollection.com/redirect/writetext-ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Being integrated with Wordpress/WooCommerce platform, WriteText.ai for WooCommerce is user-friendly and highly useful for beginners. It specializes in generating excellent meta titles, descriptions, product details, and Open Graph texts in two operative modes - ''WriteText.ai Single'' and ''WriteText.ai Bulk''. 
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/writetext-ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### VikingPic
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vikingpic.webp" alt="VikingPic">
 
@@ -262,22 +272,6 @@ Remove Background With High Quality and Accuracy: No matter how complex your ima
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/fotor-background-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Vidnoz AI Face Swap
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vidnoz-ai-face-swap.webp" alt="Vidnoz AI Face Swap">
-
-#### Vidnoz Face Swap - AI Face Swap Online Free
-
-
-[Visit](https://thataicollection.com/redirect/vidnoz-ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-The AI face swap feature is the cornerstone of the Vidnoz AI. It allows users to seamlessly swap faces in videos, creating realistic and often humorous content. This technology uses deep learning algorithms to map facial features and expressions accurately, ensuring that the face swap looks natural and convincing.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/vidnoz-ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3364,21 +3358,18 @@ Your dream companion awaits! Create your AI Girlfriend, shape her look, personal
 <br />
 
 
-### Undress Pro AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
+### Sexy AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sexy-ai.webp" alt="Sexy AI">
 
-#### Undress Pro AI - The State of the Art Undress AI - Undress anyone
-
-
-
-[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress Pro AI - Realize your fantasy about her instantly with AI-powered face swapping or by transforming her images into Anime style.
+#### Explore and create limitless erotic imagery with Sexy.AI
 
 
+[Visit](https://thataicollection.com/redirect/sexy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Sexy.AI - the ultimate AI porn generator. Bring your deepest fantasies to life including hentai, furry, realistic, LGBTQ+ and more. Join now and access the ultimate porn generator.
 
 
-[More Information and Pricing](https://thataicollection.com/en/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/en/application/sexy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

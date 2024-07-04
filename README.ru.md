@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1556" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1569" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -57,30 +57,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
-    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
+    <h4>Инструмент для перефразирования - лучший бесплатный онлайн-парафразировщик - Wordfixerbot</h4>
+    <p>Инструмент перефразирования WordFixerBot — идеальный инструмент, который поможет вам быстро и точно перефразировать любые тексты, предложения, статьи, абзацы, статьи или документы. Начните прямо сейчас и сделайте свой текст незабываемым!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Начать работу с Wordfixerbot</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>Настраиваемый чат-бот с искусственным интеллектом, работающий круглосуточно и без выходных</h4>
-    <p>Chat Data — это платформа чат-ботов с искусственным интеллектом, предлагающая гибкую настройку бэкенда и интерфейса. Создавайте чат-ботов, используя свою базу знаний, настраиваемые конечные точки или модели Chat Data. Настройте интерфейс чат-бота и выберите белую маркировку. Дополнительные функции включают эскалацию онлайн-чата в стандартных или профессиональных тарифных планах.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Начать работу с Chat Data</b></a>
+    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
+    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -138,15 +132,41 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
+### WriteText AI for WooCommerce
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-writetext-ai-for-woocommerce.webp" alt="WriteText AI for WooCommerce">
+
+#### WriteText.ai для WooCommerce — это специально разработанный плагин для WordPress и WooCommerce, направленный на автоматизацию создания описания продукта и метаинформации.
+
+
+[Visit](https://thataicollection.com/redirect/writetext-ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Программа WriteText.ai для WooCommerce, интегрированная с платформой WordPress/WooCommerce, удобна в использовании и очень полезна для новичков. Он специализируется на создании отличных метазаголовков, описаний, сведений о продуктах и текстов Open Graph в двух рабочих режимах: «WriteText.ai Single» и «WriteText.ai Bulk». 
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/writetext-ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### VikingPic
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vikingpic.webp" alt="VikingPic">
 
-#### null
+#### Станьте викингом
+загрузите изображение своего лица и
+получите созданные искусственным интеллектом фотографии себя в образе викинга
+через 5 минут по электронной почте
 
 
 [Visit](https://thataicollection.com/redirect/vikingpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-null
+Для любителей викингов
+
+Дайте волю своему внутреннему викингу: станьте воином Севера уже сегодня
+Загрузите свое изображение и погрузитесь в атмосферу викингов.
+Выпить медовуху с Одином в Валгалле можно всего за один клик мыши.
+Для друзей и семьи
+
+Почувствуйте себя викингом. Узнайте, как бы вы выглядели, если бы родились в эпоху викингов. Окунитесь в мир скандинавских мифов и старых героев. Отлично подходит для контента в социальных сетях.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/vikingpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -242,22 +262,6 @@ tikTok
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/fotor-background-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Vidnoz AI Face Swap
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vidnoz-ai-face-swap.webp" alt="Vidnoz AI Face Swap">
-
-#### Vidnoz Face Swap - замена лица с искусственным интеллектом онлайн бесплатно
-
-
-[Visit](https://thataicollection.com/redirect/vidnoz-ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Функция смены лица AI является краеугольным камнем Vidnoz AI. Она позволяет пользователям легко менять лица в видеороликах, создавая реалистичный и часто юмористический контент. Эта технология использует алгоритмы глубокого обучения для точного картирования черт лица и мимики, благодаря чему смена лица выглядит естественно и убедительно.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/vidnoz-ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3344,21 +3348,18 @@ Amadeus Topline — это приложение для сочинения муз
 <br />
 
 
-### Undress Pro AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
+### Sexy AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sexy-ai.webp" alt="Sexy AI">
 
-#### Undress Pro AI - новейшие технологии Раздевайте ИИ - Раздевайте кого угодно
-
-
-
-[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress Pro AI - Мгновенно реализуйте свои фантазии о ней с помощью искусственного интеллекта, меняя ее лица или преобразуя ее изображения в стиле аниме.
+#### Исследуйте и создавайте неограниченное количество эротических изображений с помощью Sexy.AI
 
 
+[Visit](https://thataicollection.com/redirect/sexy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Sexy.AI - лучший генератор порно с искусственным интеллектом. Воплотите в жизнь свои самые сокровенные фантазии, включая хентай, пушистый, реалистичный, ЛГБТК+ и многое другое. Присоединяйтесь сейчас и получите доступ к лучшему генератору порно.
 
 
-[More Information and Pricing](https://thataicollection.com/ru/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/ru/application/sexy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
