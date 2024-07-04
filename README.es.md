@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1556" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1569" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -57,26 +57,30 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
-    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
+    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
+    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
-    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
+    <h4>Chatbot de IA personalizado las 24 horas del día, los 7 días de la semana, más escalación</h4>
+    <p>Chat Data es una plataforma de chatbots de IA que ofrece una personalización flexible de backend y frontend. Crea chatbots con tu base de conocimientos, puntos finales personalizados o los modelos de Chat Data. Personaliza la interfaz del chatbot y opta por la etiqueta blanca. Las funciones adicionales incluyen la escalación del chat en vivo en los planes estándar o profesionales.
 
-ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
     <br />
 </div>
 
@@ -134,15 +138,41 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
+### WriteText AI for WooCommerce
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-writetext-ai-for-woocommerce.webp" alt="WriteText AI for WooCommerce">
+
+#### WriteText.ai para WooCommerce es un complemento diseñado a medida para WordPress y WooCommerce destinado a automatizar la creación de la descripción del producto y la metainformación.
+
+
+[Visit](https://thataicollection.com/redirect/writetext-ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Al estar integrado con la plataforma WordPress/WooCommerce, WriteText.ai para WooCommerce es fácil de usar y muy útil para los principiantes. Se especializa en generar excelentes metatítulos, descripciones, detalles de productos y textos de Open Graph en dos modos operativos: «WriteText.ai Single» y «WriteText.ai Bulk». 
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/writetext-ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### VikingPic
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vikingpic.webp" alt="VikingPic">
 
-#### null
+#### Conviértete en vikingo
+sube una imagen de tu rostro y
+recibir imágenes generadas por IA de ti como vikingo
+en 5 minutos por correo electrónico
 
 
 [Visit](https://thataicollection.com/redirect/vikingpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-null
+Para los amantes de los vikingos
+
+Da rienda suelta al vikingo que llevas dentro: transfórmate hoy en un guerrero del Norte
+Sube tu imagen y ponte de humor vikingo.
+Beber aguamiel con Odin en el Valhalla está a solo un clic de distancia.
+Para amigos y familiares
+
+Imagínate a ti mismo como un vikingo. Descubre qué aspecto tendrías si nacieras en la era de los vikingos. Vive entre los mitos y héroes nórdicos de antaño. Genial para el contenido de las redes sociales.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/vikingpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -238,22 +268,6 @@ Elimina el fondo con alta calidad y precisión: no importa lo complejas que sean
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/fotor-background-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Vidnoz AI Face Swap
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vidnoz-ai-face-swap.webp" alt="Vidnoz AI Face Swap">
-
-#### Vidnoz Face Swap: intercambio de rostros con IA en línea gratis
-
-
-[Visit](https://thataicollection.com/redirect/vidnoz-ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-La función de intercambio de rostros de la IA es la piedra angular de la IA de Vidnoz. Permite a los usuarios intercambiar rostros sin problemas en los vídeos, creando contenido realista y, a menudo, humorístico. Esta tecnología utiliza algoritmos de aprendizaje profundo para mapear los rasgos y expresiones faciales con precisión y garantizar que el intercambio de rostros tenga un aspecto natural y convincente.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/vidnoz-ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3339,21 +3353,18 @@ En Undressbaby AI, ofrecemos Grey's Secret Room, un servicio distintivo impulsad
 <br />
 
 
-### Undress Pro AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
+### Sexy AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sexy-ai.webp" alt="Sexy AI">
 
-#### Undress Pro AI - Lo último en tecnología Undress AI - Desnuda a cualquiera
-
-
-
-[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress Pro AI: Haz realidad tu fantasía sobre ella al instante con un intercambio de rostros con tecnología de IA o transformando sus imágenes al estilo anime.
+#### Explora y crea imágenes eróticas ilimitadas con Sexy.AI
 
 
+[Visit](https://thataicollection.com/redirect/sexy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Sexy.AI: el mejor generador de pornografía con IA. Haz realidad tus fantasías más profundas, incluyendo hentai, peludo, realista, LGBTQ+ y más. Únete ahora y accede al mejor generador de porno.
 
 
-[More Information and Pricing](https://thataicollection.com/es/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/es/application/sexy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

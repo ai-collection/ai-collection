@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1556" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1569" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -57,6 +57,18 @@
 <br>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    </a>
+    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
+    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
@@ -65,18 +77,6 @@
 
 ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
     <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
-    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -134,15 +134,41 @@ ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec 
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
+### WriteText AI for WooCommerce
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-writetext-ai-for-woocommerce.webp" alt="WriteText AI for WooCommerce">
+
+#### WriteText.ai pour WooCommerce est un plugin personnalisé pour WordPress et WooCommerce qui vise à automatiser la création de descriptions de produits et de méta-informations.
+
+
+[Visit](https://thataicollection.com/redirect/writetext-ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Intégré à la plateforme WordPress/WooCommerce, WriteText.ai pour WooCommerce est convivial et très utile pour les débutants. Il est spécialisé dans la génération de méta-titres, de descriptions, de détails sur les produits et de textes Open Graph excellents dans deux modes de fonctionnement : « WriteText.ai Single » et « WriteText.ai Bulk ». 
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/writetext-ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### VikingPic
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vikingpic.webp" alt="VikingPic">
 
-#### null
+#### Deviens un Viking
+télécharge une image de ton visage et
+reçoit des photos de toi en tant que viking générées par l'IA
+en 5 minutes par e-mail
 
 
 [Visit](https://thataicollection.com/redirect/vikingpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-null
+Pour les passionnés de vikings
+
+Libère le Viking qui sommeille en toi : deviens un guerrier du Nord dès aujourd'hui
+Ajoute ta photo et mets-toi dans l'ambiance des Vikings.
+Boire de l'hydromel avec Odin au Valhalla est à portée de clic.
+Pour les amis et la famille
+
+Prends-toi comme un Viking. Découvre à quoi tu ressemblerais si tu étais née à l'époque des Vikings. Plongez dans les mythes et les héros nordiques d'antan. Idéal pour le contenu sur les réseaux sociaux.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/vikingpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -238,22 +264,6 @@ Supprime l'arrière-plan avec une qualité et une précision élevées : Quelle
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/fotor-background-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Vidnoz AI Face Swap
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vidnoz-ai-face-swap.webp" alt="Vidnoz AI Face Swap">
-
-#### Vidnoz Face Swap - AI Face Swap en ligne gratuitement
-
-
-[Visit](https://thataicollection.com/redirect/vidnoz-ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-La fonction AI Face Swap est la pierre angulaire de l'IA de Vidnoz. Il permet aux utilisateurs d'échanger facilement des visages dans les vidéos, afin de créer du contenu réaliste et souvent humoristique. Cette technologie utilise des algorithmes d'apprentissage profond pour cartographier avec précision les traits et les expressions du visage, afin que l'échange de visage soit naturel et convaincant.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/vidnoz-ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3340,21 +3350,18 @@ Le compagnon de tes rêves t'attend ! Crée ta petite amie IA, façonne son app
 <br />
 
 
-### Undress Pro AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
+### Sexy AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sexy-ai.webp" alt="Sexy AI">
 
-#### Undress Pro AI - La technologie de pointe Undress AI - Déhabille tout le monde
-
-
-
-[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress Pro AI - Réalisez vos fantasmes à son sujet instantanément grâce à l'échange de visages basé sur l'IA ou en transformant ses images dans un style anime.
+#### Explorez et créez des images érotiques illimitées avec Sexy.AI
 
 
+[Visit](https://thataicollection.com/redirect/sexy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Sexy.AI, le générateur de contenu pornographique basé sur l'IA par excellence. Donnez vie à tes fantasmes les plus profonds, notamment en matière de hentai, de fourrure, de réalisme, de communauté LGBTQ+ et plus encore. Inscris-toi dès maintenant et accède au générateur de contenu pornographique ultime.
 
 
-[More Information and Pricing](https://thataicollection.com/fr/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/fr/application/sexy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

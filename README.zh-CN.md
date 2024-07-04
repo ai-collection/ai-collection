@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1556" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1569" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -57,24 +57,30 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>在 AI 的帮助下制作完美的简历</h4>
-    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
+    <h4>全天候自定义 AI 聊天机器人加上实时聊天升级</h4>
+    <p>Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案</h4>
-    <p>StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>开始使用 StickerIt.AI</b></a>
+    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
+    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>开始使用 Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -132,15 +138,41 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
+### WriteText AI for WooCommerce
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-writetext-ai-for-woocommerce.webp" alt="WriteText AI for WooCommerce">
+
+#### 适用于 WooCommerce 的 WriteText.ai 是一款专为 WordPress 和 WooCommerce 定制的插件，旨在自动创建产品描述和元信息。
+
+
+[Visit](https://thataicollection.com/redirect/writetext-ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+适用于 WordPress/WooCommerce 平台的 WriteText.ai 与 WordPress/WooCommerce 平台集成在一起，对初学者非常有用它专门以两种操作模式（“WriteText.ai Single” 和 “WriteText.ai Bulk”）生成出色的元标题、描述、产品详细信息和 Open Graph 文本。 
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/writetext-ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### VikingPic
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vikingpic.webp" alt="VikingPic">
 
-#### null
+#### 成为维京人
+上传你的脸部图像然后
+接收 AI 生成的自己作为维京人的照片
+5 分钟内通过电子邮件
 
 
 [Visit](https://thataicollection.com/redirect/vikingpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-null
+对于维京爱好者
+
+释放你内在的维京人：今天变身为北方勇士
+上传你的图片，进入维京人的心情。
+在瓦尔哈拉与奥丁一起喝蜂蜜酒只需点击一下即可。
+送给朋友和家人
+
+把自己看作是维京人。看看如果你出生在维京时代，你会是什么样子。沉浸在古老的北欧神话和英雄之间。非常适合社交媒体内容。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/vikingpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -236,22 +268,6 @@ instagram 卷轴
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/fotor-background-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Vidnoz AI Face Swap
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vidnoz-ai-face-swap.webp" alt="Vidnoz AI Face Swap">
-
-#### Vidnoz Face Swap-AI Face Swap 在线免费
-
-
-[Visit](https://thataicollection.com/redirect/vidnoz-ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-人工智能人脸交换功能是Vidnoz AI的基石。它允许用户在视频中无缝交换面孔，创建逼真且通常是幽默的内容。该技术使用深度学习算法精确绘制面部特征和表情，确保面部交换看起来自然且令人信服。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/vidnoz-ai-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3338,21 +3354,18 @@ Nextpart.ai 聊天机器人通过 No Filter NSFW 场景提升您的聊天体验�
 <br />
 
 
-### Undress Pro AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
+### Sexy AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sexy-ai.webp" alt="Sexy AI">
 
-#### Undress Pro AI-最先进的脱衣服 AI-为任何人脱衣服
-
-
-
-[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Undress Pro AI-通过人工智能驱动的脸部交换或将她的图像转换为动漫风格，立即实现你对她的幻想。
+#### 使用 Sexy.AI 探索和创作无限的情色图片
 
 
+[Visit](https://thataicollection.com/redirect/sexy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Sexy.AI-终极人工智能色情生成器。将你最深切的幻想变为现实，包括成人动漫、毛茸茸的、真实的、LGBTQ+等等。立即加入并访问终极色情生成器。
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/sexy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
