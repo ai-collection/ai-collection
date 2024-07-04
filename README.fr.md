@@ -57,30 +57,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
-    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
+    <h4>StickerIt.AI | Solution mobile de création et de vente d'autocollants basée sur l'IA #1</h4>
+    <p>StickerIt.AI est ta meilleure solution pour créer et vendre des autocollants alimentés par l'IA directement depuis ton appareil mobile. Transforme n'importe quel lieu en un atelier d'autocollants dynamique. Avec seulement deux tablettes et une imprimante, tu peux commencer à vendre des autocollants personnalisés en quelques minutes. Notre plateforme est conçue pour gérer ton activité d'autocollants IA à tout moment et en tout lieu.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Démarrer avec StickerIt.AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
-    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
+    <h4>Rédigez le CV parfait avec l''aide de l''IA</h4>
+    <p>Tu n''as pas besoin d''être une rédactrice de CV professionnelle pour créer rapidement et facilement un CV qui reflète fidèlement ton expérience professionnelle. Le générateur de CV IA personnalisable de Hunter t''aidera à rédiger un CV bien rédigé et adapté aux ATS afin de décrocher plus d''entretiens.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Démarrer avec Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -138,15 +132,31 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Cadabra
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cadabra.webp" alt="Cadabra">
+### APOB AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/cadabra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Cadabra
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cadabra.webp" alt="Cadabra">
+
+#### Cadabra optimise l'efficacité des e-mails grâce à l'IA, ce qui permet aux utilisateurs de gagner du temps lorsqu'ils lisent, écrivent, répondent et révisent leurs e-mails.
+
+
+[Visit](https://thataicollection.com/redirect/cadabra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Cadabra est un outil basé sur l'IA conçu pour rationaliser la gestion des e-mails. En s'appuyant sur des algorithmes d'IA avancés, Cadabra automatise diverses tâches liées aux e-mails, permettant ainsi aux utilisateurs de gérer plus facilement leur boîte de réception. Les principales fonctionnalités incluent les réponses automatisées aux e-mails, les services de traduction et l'amélioration de l'efficacité des équipes du service client. 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/cadabra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -268,22 +278,6 @@ bobines Instagram
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/aicut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Fotor Background Remover
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor-background-remover_.webp" alt="Fotor Background Remover">
-
-#### Supprime l'arrière-plan de n'importe quelle image en un seul clic grâce à l'outil de suppression d'arrière-plan Fotor AI. Créez des arrière-plans transparents instantanément et gratuitement !
-
-
-[Visit](https://thataicollection.com/redirect/fotor-background-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Supprime l'arrière-plan avec une qualité et une précision élevées : Quelle que soit la complexité de tes images, le puissant outil de suppression de graisse de Fotor permet de découper les photos avec précision et précision. À l'aide d'algorithmes avancés, Fotor supprime les arrière-plans des photos tout en préservant les détails et les contours complexes, même dans les zones difficiles comme les poils et la fourrure d'animaux. Tes images resteront aussi nettes et détaillées qu'avant après la suppression de
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/fotor-background-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -67,24 +67,30 @@ Translations:
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
-    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It''s an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Get Started with AiApply</b></a>
+    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
+    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>Corporate Headshots AI: Revolutionizing Corporate Portraits with AI</h4>
-    <p>Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Get Started with Corporate Headshots AI</b></a>
+    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
+    <p>WordfixerBot''s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Get Started with Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -142,6 +148,22 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### APOB AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
+
+#### APOB.AI - Creator AI | Personalized AI Portrait | AI Image & Video
+
+
+[Visit](https://thataicollection.com/redirect/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+APOB AI provides AI image, AI video, and AI portrait generation services. Try our AI portrait generator APOB AI for free! APOB allows users to create their exclusive AI model to generate unique scene images and videos with various style options. The service is guaranteed with fast generation in a few seconds, consistent characters, high-quality results, and unlimited possibilities. 
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Cadabra
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cadabra.webp" alt="Cadabra">
 
@@ -272,22 +294,6 @@ instagram reels
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/aicut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Fotor Background Remover
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor-background-remover_.webp" alt="Fotor Background Remover">
-
-#### Remove backgrounds from any image in just one click with Fotor AI background remover. Make transparent backgrounds instantly for free!
-
-
-[Visit](https://thataicollection.com/redirect/fotor-background-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Remove Background With High Quality and Accuracy: No matter how complex your images are, Fotor’s powerful bg remover delivers precise and accurate photo cutting. Using advanced algorithms, Fotor removes photo backgrounds while preserving intricate details and edges, even in challenging areas like hair and animal fur. Your images will remain as sharp and detailed as before after background removal.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/fotor-background-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

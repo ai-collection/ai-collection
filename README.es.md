@@ -57,12 +57,14 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
-    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
+    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
+    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
+
+ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
     <br />
 </div>
 
@@ -132,15 +134,31 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Cadabra
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cadabra.webp" alt="Cadabra">
+### APOB AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/cadabra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Cadabra
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cadabra.webp" alt="Cadabra">
+
+#### Cadabra maximiza la eficacia del correo electrónico mediante la IA, lo que ahorra tiempo a los usuarios a la hora de leer, escribir, responder y revisar los correos electrónicos.
+
+
+[Visit](https://thataicollection.com/redirect/cadabra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Cadabra es una herramienta basada en la IA diseñada para agilizar la gestión del correo electrónico. Al aprovechar los algoritmos de IA avanzados, Cadabra automatiza varias tareas relacionadas con el correo electrónico, lo que facilita a los usuarios gestionar su bandeja de entrada. Las funciones principales incluyen respuestas automáticas por correo electrónico, servicios de traducción y mejoras de eficiencia para los equipos de servicio de atención al cliente. 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/cadabra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -262,22 +280,6 @@ carretes de Instagram
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/aicut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Fotor Background Remover
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor-background-remover_.webp" alt="Fotor Background Remover">
-
-#### Elimina los fondos de cualquier imagen con un solo clic con el eliminador de fondos Fotor AI. ¡Crea fondos transparentes al instante y gratis!
-
-
-[Visit](https://thataicollection.com/redirect/fotor-background-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Elimina el fondo con alta calidad y precisión: no importa lo complejas que sean tus imágenes, el potente eliminador de bolsas de Fotor permite un corte de fotos preciso y preciso. Mediante algoritmos avanzados, Fotor elimina los fondos de las fotos y conserva los detalles y bordes intrincados, incluso en áreas difíciles, como el pelo y el pelo de los animales. Tus imágenes permanecerán tan nítidas y detalladas como antes tras eliminar el fondo.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/fotor-background-remover?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
