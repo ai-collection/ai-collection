@@ -132,15 +132,31 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Bing Image Creator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bing-image-creator.webp" alt="Bing Image Creator">
+### Video Face Swap AI Free
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-video-face-swap-ai-free.webp" alt="Video Face Swap AI Free">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/bing-image-creator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/video-face-swap-ai-free?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/video-face-swap-ai-free?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Bing Image Creator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bing-image-creator.webp" alt="Bing Image Creator">
+
+#### Réalisez de superbes affiches Disney en toute simplicité
+
+
+[Visit](https://thataicollection.com/redirect/bing-image-creator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Interface conviviale : Bing Image Creator possède une interface intuitive qui permet aux utilisateurs de naviguer facilement et de créer de superbes images sans aucune expérience préalable en matière de design.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/bing-image-creator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -224,22 +240,6 @@ Cadabra est un outil basé sur l'IA conçu pour rationaliser la gestion des e-ma
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/cadabra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### WriteText AI for WooCommerce
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-writetext-ai-for-woocommerce.webp" alt="WriteText AI for WooCommerce">
-
-#### WriteText.ai pour WooCommerce est un plugin personnalisé pour WordPress et WooCommerce qui vise à automatiser la création de descriptions de produits et de méta-informations.
-
-
-[Visit](https://thataicollection.com/redirect/writetext-ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Intégré à la plateforme WordPress/WooCommerce, WriteText.ai pour WooCommerce est convivial et très utile pour les débutants. Il est spécialisé dans la génération de méta-titres, de descriptions, de détails sur les produits et de textes Open Graph excellents dans deux modes de fonctionnement : « WriteText.ai Single » et « WriteText.ai Bulk ». 
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/writetext-ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
