@@ -69,12 +69,14 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Rédigez le CV parfait avec l''aide de l''IA</h4>
-    <p>Tu n''as pas besoin d''être une rédactrice de CV professionnelle pour créer rapidement et facilement un CV qui reflète fidèlement ton expérience professionnelle. Le générateur de CV IA personnalisable de Hunter t''aidera à rédiger un CV bien rédigé et adapté aux ATS afin de décrocher plus d''entretiens.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Démarrer avec Huntr AI Resume Builder</b></a>
+    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
+    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
+
+ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
     <br />
 </div>
 
@@ -132,15 +134,36 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Will AI Take My Job?
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-will-ai-take-my-job.webp" alt="Will AI Take My Job?">
+### RIZZ AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rizz-ai.webp" alt="RIZZ AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/will-ai-take-my-job?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/rizz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/rizz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Will AI Take My Job?
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-will-ai-take-my-job.webp" alt="Will AI Take My Job?">
+
+#### Vous vous demandez quelle est ta sécurité d'emploi à l'ère de la domination de l'IA ? Ne cherche pas plus loin ! Présentation de « Est-ce que l'IA va prendre mon travail ? » — la boule de cristal par excellence en matière de carrière ! 🌟
+
+
+
+
+[Visit](https://thataicollection.com/redirect/will-ai-take-my-job?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vous vous demandez quelle est ta sécurité d'emploi à l'ère de la domination de l'IA ? Ne cherche pas plus loin ! Présentation de « Est-ce que l'IA va prendre mon travail ? » — la boule de cristal par excellence en matière de carrière ! 🌟
+
+Il suffit de télécharger ton CV au format PDF et de laisser notre moteur d'IA de pointe opérer comme par magie. En quelques instants, découvre tes futures perspectives d'emploi avec une précision sans précédent.
+
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/will-ai-take-my-job?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -235,33 +258,6 @@ Depuis qu'il a inventé la détection par IA, GPTZero intègre les dernières re
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/gptzero-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### My Future children
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-my-future-children.webp" alt="My Future children">
-
-#### Découvre à quoi pourraient ressembler tes futurs enfants
-
-Télécharge les photos de deux parents et génère la photo de ton enfant en 30 secondes
-
-
-[Visit](https://thataicollection.com/redirect/my-future-children?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-🌟
-Pour les couples
-
-Si tu attends un bébé ou si tu prévois d'en avoir un. Découvre à l'avance à quoi pourraient ressembler tes futurs enfants et ceux de ton partenaire.
-
-🔮
-Pour célibataires
-
-Si tu as un faible pour quelqu'un ou si tu as le béguin secret pour quelqu'un : découvre à quoi ressembleraient tes futurs enfants avec lui.
-
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/my-future-children?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
