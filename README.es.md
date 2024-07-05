@@ -71,18 +71,12 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>Chatbot de IA personalizado las 24 horas del día, los 7 días de la semana, más escalación</h4>
-    <p>Chat Data es una plataforma de chatbots de IA que ofrece una personalización flexible de backend y frontend. Crea chatbots con tu base de conocimientos, puntos finales personalizados o los modelos de Chat Data. Personaliza la interfaz del chatbot y opta por la etiqueta blanca. Las funciones adicionales incluyen la escalación del chat en vivo en los planes estándar o profesionales.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
+    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
+    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -140,15 +134,31 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Japanese Name Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-japanese-name-generator.webp" alt="Japanese Name Generator">
+### Allyfy
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-allyfy.webp" alt="Allyfy">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/japanese-name-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/allyfy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/allyfy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Japanese Name Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-japanese-name-generator.webp" alt="Japanese Name Generator">
+
+#### Generador de nombres japoneses: desbloquea nombres japoneses auténticos con magia de IA con un solo clic.
+
+
+[Visit](https://thataicollection.com/redirect/japanese-name-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+El generador de nombres japonés funciona identificando inicialmente la preferencia de género del usuario. Con esta entrada, fusiona varios componentes que se encuentran comúnmente en los nombres japoneses, incluidas las sílabas, los significados y las convenciones de nomenclatura más frecuentes. Para garantizar la autenticidad cultural y la resonancia natural, el generador proporciona a los usuarios un nombre japonés auténtico adaptado a sus preferencias.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/japanese-name-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -237,32 +247,6 @@ Al estar integrado con la plataforma WordPress/WooCommerce, WriteText.ai para Wo
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/writetext-ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### VikingPic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vikingpic.webp" alt="VikingPic">
-
-#### Conviértete en vikingo
-sube una imagen de tu rostro y
-recibir imágenes generadas por IA de ti como vikingo
-en 5 minutos por correo electrónico
-
-
-[Visit](https://thataicollection.com/redirect/vikingpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Para los amantes de los vikingos
-
-Da rienda suelta al vikingo que llevas dentro: transfórmate hoy en un guerrero del Norte
-Sube tu imagen y ponte de humor vikingo.
-Beber aguamiel con Odin en el Valhalla está a solo un clic de distancia.
-Para amigos y familiares
-
-Imagínate a ti mismo como un vikingo. Descubre qué aspecto tendrías si nacieras en la era de los vikingos. Vive entre los mitos y héroes nórdicos de antaño. Genial para el contenido de las redes sociales.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/vikingpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
