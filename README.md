@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1572" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1578" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -67,30 +67,24 @@ Translations:
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
-    </a>
-    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
-    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
     <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
     <p>WordfixerBot''s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
     <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Get Started with Wordfixerbot</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
+    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It''s an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Get Started with AiApply</b></a>
     <br />
 </div>
 
@@ -148,6 +142,27 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Will AI Take My Job?
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-will-ai-take-my-job.webp" alt="Will AI Take My Job?">
+
+#### Wondering about your job security in the era of AI dominance? Look no further! Introducing "Will AI Take My Job?" – the ultimate career crystal ball! 🌟
+
+
+
+
+[Visit](https://thataicollection.com/redirect/will-ai-take-my-job?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Wondering about your job security in the era of AI dominance? Look no further! Introducing "Will AI Take My Job?" – the ultimate career crystal ball! 🌟
+
+Simply upload your resume in PDF format and let our cutting-edge AI engine work its magic. Within moments, gain insights into your future job prospects with unprecedented accuracy.
+
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/will-ai-take-my-job?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### APOB AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
 
@@ -262,38 +277,6 @@ If you have a celebrity or secret crush on somebody: Find out what your future c
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/my-future-children?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### aicut
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aicut.webp" alt="aicut">
-
-#### create faceless
-short videos
-save editing time and use AI to turn your script or idea
-into faceless short videos in minutes
-
-
-[Visit](https://thataicollection.com/redirect/aicut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-create faceless
-short videos
-
-save editing time and use AI to turn your script or idea
-into faceless short videos in minutes
-🚀 fully autonomous creation
-🚀 unique videos with a variety of styles
-🚀 designed for faceless channels
-
-accelerate growth on :
-
-tiktok
-youtube shorts
-instagram reels
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/aicut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -737,6 +720,22 @@ The highest accuracy professional headshot generator on the market. Tailored com
 <br />
 
 
+### APOB AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
+
+#### APOB.AI - Creator AI | Personalized AI Portrait | AI Image & Video
+
+
+[Visit](https://thataicollection.com/redirect/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+APOB AI provides AI image, AI video, and AI portrait generation services. Try our AI portrait generator APOB AI for free! APOB allows users to create their exclusive AI model to generate unique scene images and videos with various style options. The service is guaranteed with fast generation in a few seconds, consistent characters, high-quality results, and unlimited possibilities. 
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### caspa AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI">
 
@@ -765,22 +764,6 @@ ICONS8 ALLOWS DESIGNERS TO EXPRESS THEIR IDEAS, PROVIDING THE RIGHT DESIGN ELEME
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/icons8?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### SUPERMACHINE
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
-
-#### Supermachine - Generate Stock Photos, Art, and Images With AI
-
-
-[Visit](https://thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SUPERMACHINE enables you to generate images with the latest in artificial intelligence technology. Generate Awesome AI Images with 55+ Models.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

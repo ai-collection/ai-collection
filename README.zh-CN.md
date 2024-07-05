@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1572" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1578" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -69,12 +69,18 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>在 AI 的帮助下制作完美的简历</h4>
-    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
+    <h4>全天候自定义 AI 聊天机器人加上实时聊天升级</h4>
+    <p>Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
     <br />
 </div>
 
@@ -132,15 +138,31 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### APOB AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
+### Will AI Take My Job?
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-will-ai-take-my-job.webp" alt="Will AI Take My Job?">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/will-ai-take-my-job?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/will-ai-take-my-job?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### APOB AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
+
+#### APOB.AI-Creator AI | 个性化的人工智能画像 | AI 图像和视频
+
+
+[Visit](https://thataicollection.com/redirect/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+APOB AI 提供 AI 图像、AI 视频和 AI 肖像生成服务。免费试用我们的 AI 人像生成器 APOB AI！APOB允许用户创建自己的专有AI模型，以生成具有各种样式选项的独特场景图像和视频。该服务可保证在几秒钟内快速生成，字符稳定，结果高质量，可能性无限。 
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -246,38 +268,6 @@ Cadabra 是一款人工智能驱动的工具，旨在简化电子邮件管理。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/my-future-children?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### aicut
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aicut.webp" alt="aicut">
-
-#### 不露面
-短视频
-节省编辑时间，使用 AI 来改变你的脚本或想法
-在几分钟内变成不露面的短视频
-
-
-[Visit](https://thataicollection.com/redirect/aicut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-不露面
-短视频
-
-节省编辑时间，使用 AI 来改变你的脚本或想法
-在几分钟内变成不露面的短视频
-🚀 完全自主创作
-🚀 风格各异的独特视频
-🚀 专为不露面频道而设计
-
-在以下方面加速增长：
-
-抖音
-优酷短裤
-instagram 卷轴
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/aicut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -721,6 +711,22 @@ bGrem 提供多种功能，例如图像生成器，它允许您根据给定的�
 <br />
 
 
+### APOB AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
+
+#### APOB.AI-Creator AI | 个性化的人工智能画像 | AI 图像和视频
+
+
+[Visit](https://thataicollection.com/redirect/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+APOB AI 提供 AI 图像、AI 视频和 AI 肖像生成服务。免费试用我们的 AI 人像生成器 APOB AI！APOB允许用户创建自己的专有AI模型，以生成具有各种样式选项的独特场景图像和视频。该服务可保证在几秒钟内快速生成，字符稳定，结果高质量，可能性无限。 
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### caspa AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI">
 
@@ -749,22 +755,6 @@ ICONS8 允许设计师表达自己的想法，在正确的时间提供正确的�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/icons8?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### SUPERMACHINE
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
-
-#### Supermachine-使用 AI 生成库存照片、艺术品和图像
-
-
-[Visit](https://thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SUPERMACHINE 使您能够使用最新的人工智能技术生成图像。使用 55 多个模型生成精彩的 AI 图像。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
