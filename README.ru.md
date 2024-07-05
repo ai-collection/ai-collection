@@ -57,24 +57,30 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
-    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
+    <h4>StickerIt.AI | #1 Мобильное решение для дизайна и продажи стикеров на базе искусственного интеллекта</h4>
+    <p>StickerIt.AI — это ваше лучшее решение для создания и продажи стикеров на базе искусственного интеллекта прямо с вашего мобильного устройства. Превратите любое место в яркую мастерскую по стикерам. Имея всего два планшета и принтер, вы можете начать продавать наклейки, изготовленные на заказ, за считанные минуты. Наша платформа предназначена для ведения бизнеса по производству наклеек с искусственным интеллектом в любое время и в любом месте.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Начать работу с StickerIt.AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
-    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
+    <h4>Настраиваемый чат-бот с искусственным интеллектом, работающий круглосуточно и без выходных</h4>
+    <p>Chat Data — это платформа чат-ботов с искусственным интеллектом, предлагающая гибкую настройку бэкенда и интерфейса. Создавайте чат-ботов, используя свою базу знаний, настраиваемые конечные точки или модели Chat Data. Настройте интерфейс чат-бота и выберите белую маркировку. Дополнительные функции включают эскалацию онлайн-чата в стандартных или профессиональных тарифных планах.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Начать работу с Chat Data</b></a>
     <br />
 </div>
 
@@ -132,15 +138,31 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Japanese Name Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-japanese-name-generator.webp" alt="Japanese Name Generator">
+### Allyfy
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-allyfy.webp" alt="Allyfy">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/japanese-name-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/allyfy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/allyfy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Japanese Name Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-japanese-name-generator.webp" alt="Japanese Name Generator">
+
+#### Генератор японских имен: разблокируйте аутентичные японские имена с помощью магии искусственного интеллекта одним щелчком мыши.
+
+
+[Visit](https://thataicollection.com/redirect/japanese-name-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Генератор японских имен изначально определяет гендерные предпочтения пользователя. Используя эти входные данные, он объединяет различные компоненты, обычно встречающиеся в японских именах, включая слоги, значения и распространенные условные обозначения. Обеспечивая культурную аутентичность и естественный резонанс, генератор предоставляет пользователям аутентичное японское имя, соответствующее их предпочтениям.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/japanese-name-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,32 +251,6 @@ Cadabra — это инструмент на базе искусственног
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/writetext-ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### VikingPic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vikingpic.webp" alt="VikingPic">
-
-#### Станьте викингом
-загрузите изображение своего лица и
-получите созданные искусственным интеллектом фотографии себя в образе викинга
-через 5 минут по электронной почте
-
-
-[Visit](https://thataicollection.com/redirect/vikingpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Для любителей викингов
-
-Дайте волю своему внутреннему викингу: станьте воином Севера уже сегодня
-Загрузите свое изображение и погрузитесь в атмосферу викингов.
-Выпить медовуху с Одином в Валгалле можно всего за один клик мыши.
-Для друзей и семьи
-
-Почувствуйте себя викингом. Узнайте, как бы вы выглядели, если бы родились в эпоху викингов. Окунитесь в мир скандинавских мифов и старых героев. Отлично подходит для контента в социальных сетях.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/vikingpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

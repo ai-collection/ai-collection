@@ -69,12 +69,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>AI की थोड़ी मदद से, एकदम सही रिज़्यूमे तैयार करें</h4>
-    <p>तुम्हेंं जल्दी और आसानी से ऐसा रिज्यूम बनाने के लिए, जो तुम्हारे काम के अनुभव को सटीक रूप से दर्शाता हो, एक पेशेवर रेज़्यूमे लेखक होने की ज़रूरत नहीं है। हंटर का कस्टमाइज़ किया जा सकने वाला AI रिज्यूमे बिल्डर तुम्हेंं और इंटरव्यू देने में मदद करने के लिए एक अच्छी तरह से लिखा हुआ, एटीएस-अनुकूल रिज्यूमे तैयार करने में मदद करेगा।</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>के साथ आरंभ करें Huntr AI Resume Builder</b></a>
+    <h4>कॉर्पोरेट हेडशॉट्स AI: AI के साथ कॉर्पोरेट पोर्ट्रेट्स में क्रांति लाना</h4>
+    <p>www.CorporateHeadshots.ai के साथ प्रोफ़ेशनल फ़ोटोग्राफ़ी के भविष्य का अनुभव करें। हमारा एआई-चालित प्लेटफ़ॉर्म तुम्हारी सेल्फी को सुंदर, कॉर्पोरेट-मानक हेडशॉट में बदल देता है, जिससे पेशेवर तस्वीरें हर किसी के लिए, हर जगह सुलभ और आसान हो जाती हैं।</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>के साथ आरंभ करें Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -132,15 +132,31 @@
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### Japanese Name Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-japanese-name-generator.webp" alt="Japanese Name Generator">
+### Allyfy
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-allyfy.webp" alt="Allyfy">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/japanese-name-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/allyfy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/allyfy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Japanese Name Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-japanese-name-generator.webp" alt="Japanese Name Generator">
+
+#### जापानी नेम जेनरेटर: एक क्लिक से AI मैजिक की मदद से प्रामाणिक जापानी नाम अनलॉक करें।
+
+
+[Visit](https://thataicollection.com/redirect/japanese-name-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+जापानी नेम जेनरेटर शुरू में यूज़र की लैंगिक पसंद की पहचान करके काम करता है। इस इनपुट का इस्तेमाल करके, यह जापानी नामों में आम तौर पर पाए जाने वाले विभिन्न घटकों को मिला देता है, जिनमें सिलेबल्स, अर्थ और प्रचलित नामकरण कन्वेंशन शामिल हैं। सांस्कृतिक प्रामाणिकता और प्राकृतिक अनुनाद सुनिश्चित करते हुए, जनरेटर यूज़र को उनकी पसंद के अनुसार एक प्रामाणिक जापानी नाम देता है।
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/japanese-name-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,32 +245,6 @@ WooCommerce प्लेटफ़ॉर्म के साथ एकीकृत �
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/writetext-ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### VikingPic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vikingpic.webp" alt="VikingPic">
-
-#### वाइकिंग बनो
-अपने चेहरे की एक छवि अपलोड करें और
-वाइकिंग के तौर पर अपनी AI से जनरेट की गई तस्वीरें पाओ
-5 मिनट में ईमेल के ज़रिए
-
-
-[Visit](https://thataicollection.com/redirect/vikingpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-वाइकिंग के शौकीनों के लिए
-
-अपने अंदर की वाइकिंग शुरू करो: आज ही उत्तर के योद्धा के रूप में रूपांतरित हो जाओ
-अपनी इमेज अपलोड करें और वाइकिंग के मूड में आ जाओ।
-वलहाला में ओडिन के साथ मीड पीना बस एक क्लिक की दूरी पर है।
-दोस्तों और परिवार के लिए
-
-ख़ुद को वाइकिंग के तौर पर देखें। पता लगाओ कि अगर तुम्हारा जन्म वाइकिंग एज में हुआ हो, तो तुम कैसे दिखोगे। नॉर्डिक मिथकों और पुराने नायकों के बीच रहो। सोशल मीडिया कॉन्टेंट के लिए बढ़िया।
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/vikingpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -57,30 +57,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
-    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
+    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
+    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
-    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
+    <h4>Corporate Headshots AI : révolutionner les portraits d''entreprise grâce à l''IA</h4>
+    <p>Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l''IA transforme tes selfies en portraits élégants, conformes aux normes de l''entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Démarrer avec Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -138,15 +132,31 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Japanese Name Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-japanese-name-generator.webp" alt="Japanese Name Generator">
+### Allyfy
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-allyfy.webp" alt="Allyfy">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/japanese-name-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/allyfy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/allyfy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Japanese Name Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-japanese-name-generator.webp" alt="Japanese Name Generator">
+
+#### Générateur de noms japonais : débloquez des noms japonais authentiques grâce à la magie de l'IA en un clic.
+
+
+[Visit](https://thataicollection.com/redirect/japanese-name-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Le générateur de noms japonais fonctionne en identifiant initialement le sexe préféré de l'utilisateur. À l'aide de cette entrée, elle fusionne les différents éléments que l'on trouve couramment dans les noms japonais, notamment les syllabes, les significations et les conventions de dénomination les plus courantes. Garantissant l'authenticité culturelle et la résonance naturelle, le générateur fournit aux utilisateurs un nom japonais authentique adapté à leurs préférences.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/japanese-name-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -235,32 +245,6 @@ Intégré à la plateforme WordPress/WooCommerce, WriteText.ai pour WooCommerce 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/writetext-ai-for-woocommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### VikingPic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vikingpic.webp" alt="VikingPic">
-
-#### Deviens un Viking
-télécharge une image de ton visage et
-reçoit des photos de toi en tant que viking générées par l'IA
-en 5 minutes par e-mail
-
-
-[Visit](https://thataicollection.com/redirect/vikingpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pour les passionnés de vikings
-
-Libère le Viking qui sommeille en toi : deviens un guerrier du Nord dès aujourd'hui
-Ajoute ta photo et mets-toi dans l'ambiance des Vikings.
-Boire de l'hydromel avec Odin au Valhalla est à portée de clic.
-Pour les amis et la famille
-
-Prends-toi comme un Viking. Découvre à quoi tu ressemblerais si tu étais née à l'époque des Vikings. Plongez dans les mythes et les héros nordiques d'antan. Idéal pour le contenu sur les réseaux sociaux.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/vikingpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
