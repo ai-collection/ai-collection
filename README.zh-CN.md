@@ -57,26 +57,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
-    </a>
-    <h4>借助我们的求职AI找到理想的工作。每周自动申请数百个工程职位！加入 ApplyPass 获得 100 个免费应用程序。</h4>
-    <p>ApplyPass是一款由人工智能驱动的求职工具，可以让你获得更多的求职面试。ApplyPass每月代表你提交200-400份量身定制的求职申请。该工具免费提供前100份求职申请。
-
-ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行业平均水平高40％。</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>开始使用 ApplyPass</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
     <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
     <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
     <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>开始使用 AiApply</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    </a>
+    <h4>在 AI 的帮助下制作完美的简历</h4>
+    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -134,15 +132,31 @@ ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行�
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Video Face Swap AI Free
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-video-face-swap-ai-free.webp" alt="Video Face Swap AI Free">
+### Marlee
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-marlee.webp" alt="Marlee">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/video-face-swap-ai-free?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/marlee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/marlee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Video Face Swap AI Free
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-video-face-swap-ai-free.webp" alt="Video Face Swap AI Free">
+
+#### 最佳视频下载器和人脸交换 AI 工具——AISAVER
+
+
+[Visit](https://thataicollection.com/redirect/video-face-swap-ai-free?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Video Face Swap AI Free是一款尖端的视频下载器和人脸交换人工智能工具，它使用户能够从流行的社交媒体平台下载视频，并在视频中交换面孔，只需几个简单的步骤。凭借其先进的人工智能技术，AISaver 为用户提供增强的无缝体验。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/video-face-swap-ai-free?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -226,22 +240,6 @@ APOB AI 提供 AI 图像、AI 视频和 AI 肖像生成服务。免费试用我�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Cadabra
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cadabra.webp" alt="Cadabra">
-
-#### Cadabra 使用 AI 最大限度地提高电子邮件效率，为用户节省阅读、撰写、回复和查看电子邮件的时间。
-
-
-[Visit](https://thataicollection.com/redirect/cadabra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cadabra 是一款人工智能驱动的工具，旨在简化电子邮件管理。通过利用先进的人工智能算法，Cadabra可以自动执行各种与电子邮件相关的任务，使用户可以更轻松地处理收件箱。主要功能包括自动回复电子邮件、翻译服务和提高客户服务团队的效率。 
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/cadabra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

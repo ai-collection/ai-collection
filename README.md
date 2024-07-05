@@ -67,12 +67,18 @@ Translations:
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Craft the perfect resume, with a little help from AI</h4>
-    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
+    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
+    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
     <br />
 </div>
 
@@ -142,6 +148,22 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Marlee
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-marlee.webp" alt="Marlee">
+
+#### Marlee is a collaboration and performance AI.
+
+
+[Visit](https://thataicollection.com/redirect/marlee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Marlee is a collaboration and performance AI that helps individuals and teams to maximize their full potential. Based on 25 years of global human data and evidence-based psychology, Marlee delivers personalized insights powered by AI within minutes, simplifying the processes of connecting, motivating, collaborating, and developing within the flow of work.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/marlee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Video Face Swap AI Free
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-video-face-swap-ai-free.webp" alt="Video Face Swap AI Free">
 
@@ -234,22 +256,6 @@ APOB AI provides AI image, AI video, and AI portrait generation services. Try ou
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Cadabra
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cadabra.webp" alt="Cadabra">
-
-#### Cadabra maximizes email efficiency using AI, saving users time on reading, writing, replying, and reviewing emails.
-
-
-[Visit](https://thataicollection.com/redirect/cadabra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cadabra is an AI-powered tool designed to streamline email management. By leveraging advanced AI algorithms, Cadabra automates various email-related tasks, making it easier for users to handle their inbox. Key features include automated email responses, translation services, and efficiency enhancements for customer service teams. 
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/cadabra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

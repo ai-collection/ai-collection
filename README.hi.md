@@ -57,6 +57,18 @@
 <br>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    </a>
+    <h4>StickerIt.AI | #1 मोबाइल, एआई-संचालित स्टिकर डिज़ाइन और सेल्स सॉल्यूशन</h4>
+    <p>StickerIt.AI सीधे अपने मोबाइल डिवाइस से AI-संचालित स्टिकर बनाने और बेचने का तुम्हारा प्रमुख समाधान है। किसी भी स्थान को एक जीवंत स्टिकर वर्कशॉप में ट्रांसफ़ॉर्म करें। सिर्फ़ दो टैबलेट और एक प्रिंटर की मदद से, तुम मिनटों में बनाए गए कस्टम स्टिकर बेचना शुरू कर सकते हो। हमारा प्लेटफ़ॉर्म तुम्हारे AI स्टिकर का कारोबार, कभी भी, कहीं भी चलाने के लिए डिज़ाइन किया गया है।</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>के साथ आरंभ करें StickerIt.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
@@ -65,18 +77,6 @@
 
 ApplyPass.com ने इंजीनियरों के लिए हज़ारों इंटरव्यू तैयार किए हैं, जिनका औसत रिस्पांस रेट इंडस्ट्री के औसत से 40% ज्यादा है।</p>
     <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>के साथ आरंभ करें ApplyPass</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>AI की थोड़ी मदद से, एकदम सही रिज़्यूमे तैयार करें</h4>
-    <p>तुम्हेंं जल्दी और आसानी से ऐसा रिज्यूम बनाने के लिए, जो तुम्हारे काम के अनुभव को सटीक रूप से दर्शाता हो, एक पेशेवर रेज़्यूमे लेखक होने की ज़रूरत नहीं है। हंटर का कस्टमाइज़ किया जा सकने वाला AI रिज्यूमे बिल्डर तुम्हेंं और इंटरव्यू देने में मदद करने के लिए एक अच्छी तरह से लिखा हुआ, एटीएस-अनुकूल रिज्यूमे तैयार करने में मदद करेगा।</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>के साथ आरंभ करें Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -134,15 +134,31 @@ ApplyPass.com ने इंजीनियरों के लिए हज़�
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### Video Face Swap AI Free
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-video-face-swap-ai-free.webp" alt="Video Face Swap AI Free">
+### Marlee
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-marlee.webp" alt="Marlee">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/video-face-swap-ai-free?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/marlee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/marlee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Video Face Swap AI Free
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-video-face-swap-ai-free.webp" alt="Video Face Swap AI Free">
+
+#### सबसे अच्छा वीडियो डाउनलोडर और फ़ेस स्वैप AI टूल——AISAVER
+
+
+[Visit](https://thataicollection.com/redirect/video-face-swap-ai-free?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Video Face Swap AI Free एक अत्याधुनिक वीडियो डाउनलोडर और फ़ेस स्वैप AI टूल है, जो यूज़र को लोकप्रिय सोशल मीडिया प्लेटफ़ॉर्म से वीडियो डाउनलोड करने और कुछ आसान चरणों के साथ वीडियो में चेहरे बदलने की सुविधा देता है। अपनी एडवांस AI तकनीक के साथ, AiSaver यूज़र को बेहतर और सहज अनुभव प्रदान करता है।
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/video-face-swap-ai-free?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -226,22 +242,6 @@ APOB AI AI इमेज, AI वीडियो और AI पोर्ट्र�
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Cadabra
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cadabra.webp" alt="Cadabra">
-
-#### Cadabra AI का उपयोग करके ईमेल दक्षता को बढ़ाता है, जिससे यूज़र का ईमेल पढ़ने, लिखने, जवाब देने और उनकी समीक्षा करने में समय बचता है।
-
-
-[Visit](https://thataicollection.com/redirect/cadabra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cadabra AI-संचालित एक टूल है, जिसे ईमेल प्रबंधन को आसान बनाने के लिए डिज़ाइन किया गया है। एडवांस AI एल्गोरिदम का इस्तेमाल करके, Cadabra ईमेल से जुड़े कई कामों को स्वचालित करता है, जिससे यूज़र के लिए अपना इनबॉक्स हैंडल करना आसान हो जाता है। मुख्य विशेषताओं में स्वचालित ईमेल प्रतिक्रियाएँ, अनुवाद सेवाएँ, और ग्राहक सेवा टीमों के लिए दक्षता में वृद्धि शामिल हैं। 
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/cadabra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

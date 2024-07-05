@@ -57,24 +57,26 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Corporate Headshots AI : révolutionner les portraits d''entreprise grâce à l''IA</h4>
-    <p>Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l''IA transforme tes selfies en portraits élégants, conformes aux normes de l''entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Démarrer avec Corporate Headshots AI</b></a>
+    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
+    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
+
+ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
-    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
+    <h4>Rédigez le CV parfait avec l''aide de l''IA</h4>
+    <p>Tu n''as pas besoin d''être une rédactrice de CV professionnelle pour créer rapidement et facilement un CV qui reflète fidèlement ton expérience professionnelle. Le générateur de CV IA personnalisable de Hunter t''aidera à rédiger un CV bien rédigé et adapté aux ATS afin de décrocher plus d''entretiens.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Démarrer avec Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -132,15 +134,31 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Video Face Swap AI Free
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-video-face-swap-ai-free.webp" alt="Video Face Swap AI Free">
+### Marlee
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-marlee.webp" alt="Marlee">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/video-face-swap-ai-free?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/marlee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/marlee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Video Face Swap AI Free
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-video-face-swap-ai-free.webp" alt="Video Face Swap AI Free">
+
+#### Le meilleur outil de téléchargement de vidéos et d'intelligence artificielle Face Swap. — AISaver
+
+
+[Visit](https://thataicollection.com/redirect/video-face-swap-ai-free?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Video Face Swap AI Free est un outil de téléchargement de vidéos et d'échange de visages de pointe qui permet aux utilisateurs de télécharger des vidéos depuis des plateformes de réseaux sociaux populaires et d'échanger des visages dans des vidéos en quelques étapes simples. Grâce à sa technologie d'IA avancée, AiSaver offre aux utilisateurs une expérience améliorée et fluide.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/video-face-swap-ai-free?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -224,22 +242,6 @@ APOB AI fournit des services d'imagerie, de vidéo et de génération de portrai
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Cadabra
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cadabra.webp" alt="Cadabra">
-
-#### Cadabra optimise l'efficacité des e-mails grâce à l'IA, ce qui permet aux utilisateurs de gagner du temps lorsqu'ils lisent, écrivent, répondent et révisent leurs e-mails.
-
-
-[Visit](https://thataicollection.com/redirect/cadabra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cadabra est un outil basé sur l'IA conçu pour rationaliser la gestion des e-mails. En s'appuyant sur des algorithmes d'IA avancés, Cadabra automatise diverses tâches liées aux e-mails, permettant ainsi aux utilisateurs de gérer plus facilement leur boîte de réception. Les principales fonctionnalités incluent les réponses automatisées aux e-mails, les services de traduction et l'amélioration de l'efficacité des équipes du service client. 
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/cadabra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
