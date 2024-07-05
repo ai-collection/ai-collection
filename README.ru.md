@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1572" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1578" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -134,15 +134,31 @@ ApplyPass.com провел тысячи интервью для инженеро
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### APOB AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
+### Will AI Take My Job?
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-will-ai-take-my-job.webp" alt="Will AI Take My Job?">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/will-ai-take-my-job?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/will-ai-take-my-job?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### APOB AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
+
+#### APOB.AI - искусственный интеллект создателя | Персонализированный портрет искусственного интеллекта | Изображения и видео с искусственным интеллектом
+
+
+[Visit](https://thataicollection.com/redirect/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+APOB AI предоставляет услуги по созданию изображений с искусственным интеллектом, видео с искусственным интеллектом и портретов AI. Попробуйте наш генератор портретов с искусственным интеллектом APOB AI бесплатно! APOB позволяет пользователям создавать свою эксклюзивную модель искусственного интеллекта для создания уникальных изображений сцен и видео с различными вариантами стиля. Сервис гарантируется быстрой генерацией за несколько секунд, стабильными персонажами, высококачественными результатами и неогран
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -248,38 +264,6 @@ Cadabra — это инструмент на базе искусственног
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/my-future-children?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### aicut
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aicut.webp" alt="aicut">
-
-#### создай безликий
-короткие видеоролики
-сэкономьте время на редактировании и используйте искусственный интеллект, чтобы воплотить свой сценарий или идею
-в безликие короткие видеоролики за считанные минуты
-
-
-[Visit](https://thataicollection.com/redirect/aicut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-создай безликий
-короткие видеоролики
-
-сэкономьте время на редактировании и используйте искусственный интеллект, чтобы воплотить свой сценарий или идею
-в безликие короткие видеоролики за считанные минуты
-🚀 полностью автономное создание
-🚀 уникальные видеоролики в самых разных стилях
-🚀 предназначен для безликих каналов
-
-ускорить рост на:
-
-tikTok
-шорты на YouTube
-ролики в инстаграм
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/aicut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -723,6 +707,22 @@ BGrem предлагает широкий спектр функций, таки�
 <br />
 
 
+### APOB AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
+
+#### APOB.AI - искусственный интеллект создателя | Персонализированный портрет искусственного интеллекта | Изображения и видео с искусственным интеллектом
+
+
+[Visit](https://thataicollection.com/redirect/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+APOB AI предоставляет услуги по созданию изображений с искусственным интеллектом, видео с искусственным интеллектом и портретов AI. Попробуйте наш генератор портретов с искусственным интеллектом APOB AI бесплатно! APOB позволяет пользователям создавать свою эксклюзивную модель искусственного интеллекта для создания уникальных изображений сцен и видео с различными вариантами стиля. Сервис гарантируется быстрой генерацией за несколько секунд, стабильными персонажами, высококачественными результатами и неогран
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### caspa AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI">
 
@@ -751,22 +751,6 @@ ICONS8 ПОЗВОЛЯЕТ ДИЗАЙНЕРАМ ВЫРАЖАТЬ СВОИ ИДЕ�
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/icons8?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### SUPERMACHINE
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
-
-#### Supermachine - создавайте стоковые фотографии, произведения искусства и изображения с помощью искусственного интеллекта
-
-
-[Visit](https://thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SUPERMACHINE позволяет создавать изображения с помощью новейших технологий искусственного интеллекта. Создавайте потрясающие изображения с искусственным интеллектом, используя более 55 моделей.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

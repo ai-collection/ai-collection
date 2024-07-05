@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1572" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1578" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -57,12 +57,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>StickerIt.AI | Solution mobile de création et de vente d'autocollants basée sur l'IA #1</h4>
-    <p>StickerIt.AI est ta meilleure solution pour créer et vendre des autocollants alimentés par l'IA directement depuis ton appareil mobile. Transforme n'importe quel lieu en un atelier d'autocollants dynamique. Avec seulement deux tablettes et une imprimante, tu peux commencer à vendre des autocollants personnalisés en quelques minutes. Notre plateforme est conçue pour gérer ton activité d'autocollants IA à tout moment et en tout lieu.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Démarrer avec StickerIt.AI</b></a>
+    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
+    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
     <br />
 </div>
 
@@ -132,15 +132,31 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### APOB AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
+### Will AI Take My Job?
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-will-ai-take-my-job.webp" alt="Will AI Take My Job?">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/will-ai-take-my-job?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/will-ai-take-my-job?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### APOB AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
+
+#### APOB.AI - Creator AI | Portrait personnalisé avec IA | Image et vidéo basées sur l'IA
+
+
+[Visit](https://thataicollection.com/redirect/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+APOB AI fournit des services d'imagerie, de vidéo et de génération de portraits basés sur l'IA. Essaie gratuitement notre générateur de portraits IA APOB AI ! APOB permet aux utilisateurs de créer leur modèle d'IA exclusif pour générer des images de scène et des vidéos uniques avec différentes options de style. Le service est garanti par une génération rapide en quelques secondes, des caractères cohérents, des résultats de haute qualité et des possibilités illimitées. 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -246,38 +262,6 @@ Si tu as un faible pour quelqu'un ou si tu as le béguin secret pour quelqu'un 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/my-future-children?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### aicut
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aicut.webp" alt="aicut">
-
-#### créer un visage anonyme
-courtes vidéos
-gagne du temps de montage et utilise l'IA pour transformer ton script ou ton idée
-dans de courtes vidéos anonymes en quelques minutes
-
-
-[Visit](https://thataicollection.com/redirect/aicut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-créer un visage anonyme
-courtes vidéos
-
-gagne du temps de montage et utilise l'IA pour transformer ton script ou ton idée
-dans de courtes vidéos anonymes en quelques minutes
-🚀 création totalement autonome
-🚀 des vidéos uniques aux styles variés
-🚀 conçu pour les chaînes anonymes
-
-accélérer la croissance sur :
-
-tiktok
-courts métrages YouTube
-bobines Instagram
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/aicut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -721,6 +705,22 @@ Le générateur de headshots professionnel le plus précis du marché. Compositi
 <br />
 
 
+### APOB AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
+
+#### APOB.AI - Creator AI | Portrait personnalisé avec IA | Image et vidéo basées sur l'IA
+
+
+[Visit](https://thataicollection.com/redirect/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+APOB AI fournit des services d'imagerie, de vidéo et de génération de portraits basés sur l'IA. Essaie gratuitement notre générateur de portraits IA APOB AI ! APOB permet aux utilisateurs de créer leur modèle d'IA exclusif pour générer des images de scène et des vidéos uniques avec différentes options de style. Le service est garanti par une génération rapide en quelques secondes, des caractères cohérents, des résultats de haute qualité et des possibilités illimitées. 
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### caspa AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI">
 
@@ -749,22 +749,6 @@ ICONS8 PERMET AUX DESIGNERS D''EXPRIMER LEURS IDÉES EN FOURNISSANT LES BONS ÉL
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/icons8?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### SUPERMACHINE
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
-
-#### Supermachine - Générez des photos, des œuvres d''art et des images à l''aide de l''IA
-
-
-[Visit](https://thataicollection.com/redirect/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SUPERMACHINE te permet de générer des images à l''aide des dernières technologies d''intelligence artificielle. Génère de superbes images d''IA avec plus de 55 modèles.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/supermachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
