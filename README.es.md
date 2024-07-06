@@ -138,15 +138,31 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Platen.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-platen-ai.webp" alt="Platen.ai">
+### ResumeDive
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resumedive.webp" alt="ResumeDive">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/platen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/resumedive?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/resumedive?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Platen.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-platen-ai.webp" alt="Platen.ai">
+
+#### Platen.ai - Plataforma de marketing de contenidos impulsada por la IA - Aumentar el tráfico orgánico
+
+
+[Visit](https://thataicollection.com/redirect/platen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Platen.ai es una plataforma de marketing de contenidos impulsada por la IA. Está diseñado para ayudar a las pequeñas empresas y empresas emergentes a aumentar su tráfico orgánico a través de artículos de blog, publicaciones en redes sociales y otras herramientas de generación de contenido.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/platen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -230,22 +246,6 @@ Diseñado para mejorar la eficiencia del servicio y la satisfacción de los clie
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/allyfy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Japanese Name Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-japanese-name-generator.webp" alt="Japanese Name Generator">
-
-#### Generador de nombres japoneses: desbloquea nombres japoneses auténticos con magia de IA con un solo clic.
-
-
-[Visit](https://thataicollection.com/redirect/japanese-name-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-El generador de nombres japonés funciona identificando inicialmente la preferencia de género del usuario. Con esta entrada, fusiona varios componentes que se encuentran comúnmente en los nombres japoneses, incluidas las sílabas, los significados y las convenciones de nomenclatura más frecuentes. Para garantizar la autenticidad cultural y la resonancia natural, el generador proporciona a los usuarios un nombre japonés auténtico adaptado a sus preferencias.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/japanese-name-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
