@@ -57,12 +57,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案</h4>
-    <p>StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>开始使用 StickerIt.AI</b></a>
+    <h4>在 AI 的帮助下制作完美的简历</h4>
+    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -138,15 +138,31 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Platen.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-platen-ai.webp" alt="Platen.ai">
+### ResumeDive
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resumedive.webp" alt="ResumeDive">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/platen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/resumedive?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/resumedive?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Platen.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-platen-ai.webp" alt="Platen.ai">
+
+#### Platen.ai-人工智能驱动的内容营销平台-增加自然流量
+
+
+[Visit](https://thataicollection.com/redirect/platen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Platen.ai 是一个由人工智能驱动的内容营销平台。它旨在通过博客文章、社交媒体帖子和其他内容生成工具帮助小型企业和初创企业增加其自然流量。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/platen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -230,22 +246,6 @@ Video Face Swap AI Free是一款尖端的视频下载器和人脸交换人工智
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/allyfy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Japanese Name Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-japanese-name-generator.webp" alt="Japanese Name Generator">
-
-#### 日语名称生成器：一键使用AI魔法解锁真实的日本名字。
-
-
-[Visit](https://thataicollection.com/redirect/japanese-name-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-日语名字生成器的运作方式是首先识别用户的性别偏好。使用此输入，它融合了日语名称中常见的各种组成部分，包括音节、含义和流行的命名规范。为了确保文化真实性和自然共鸣，该发电机为用户提供了一个根据他们的喜好量身定制的真实日本名字。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/japanese-name-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
