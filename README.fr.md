@@ -57,26 +57,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
-    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
-
-ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
+    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
+    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>StickerIt.AI | Solution mobile de création et de vente d'autocollants basée sur l'IA #1</h4>
-    <p>StickerIt.AI est ta meilleure solution pour créer et vendre des autocollants alimentés par l'IA directement depuis ton appareil mobile. Transforme n'importe quel lieu en un atelier d'autocollants dynamique. Avec seulement deux tablettes et une imprimante, tu peux commencer à vendre des autocollants personnalisés en quelques minutes. Notre plateforme est conçue pour gérer ton activité d'autocollants IA à tout moment et en tout lieu.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Démarrer avec StickerIt.AI</b></a>
+    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
+    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -134,15 +132,31 @@ ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec 
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Jobright.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jobright-ai.webp" alt="Jobright.ai">
+### Platen.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-platen-ai.webp" alt="Platen.ai">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/jobright-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/platen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/platen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Jobright.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jobright-ai.webp" alt="Jobright.ai">
+
+####  Jobright est un copilote de recherche d'emploi basé sur l'IA qui te propose des offres d'emploi en fonction de ton expérience, adapte ton CV à chaque poste et trouve des contacts pour te recommander afin de t'aider à obtenir plus d'entretiens
+
+
+[Visit](https://thataicollection.com/redirect/jobright-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Job Matching basé sur l'IA : Jobright.ai utilise l'IA pour analyser le marché du travail et faire correspondre les offres d'emploi à tes compétences et à ton expérience. Il aligne les opportunités sur ton CV et tes préférences, en proposant des recommandations d'emploi personnalisées. Cette fonctionnalité se concentre non seulement sur le jumelage, mais suggère également de modifier ton CV pour augmenter tes chances d'obtenir des entretiens avec des employeurs appropriés
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/jobright-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -226,22 +240,6 @@ Le générateur de noms japonais fonctionne en identifiant initialement le sexe 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/japanese-name-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### RIZZ AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rizz-ai.webp" alt="RIZZ AI">
-
-#### Changez votre expérience de rencontres avec RIZZ AI, le meilleur assistant de rencontres basé sur l'IA.
-
-
-[Visit](https://thataicollection.com/redirect/rizz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-RIZZ AI est un outil de rencontres basé sur l'IA basé sur le framework RIZE GPT. Il possède une connaissance approfondie de la psychologie des utilisateurs et permet de proposer des conversations humoristiques et romantiques. Pour celles qui recherchent un assistant de prise en charge, RIZZ AI est le meilleur choix.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/rizz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
