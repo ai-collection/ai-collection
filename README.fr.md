@@ -71,12 +71,12 @@ ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Rédigez le CV parfait avec l''aide de l''IA</h4>
-    <p>Tu n''as pas besoin d''être une rédactrice de CV professionnelle pour créer rapidement et facilement un CV qui reflète fidèlement ton expérience professionnelle. Le générateur de CV IA personnalisable de Hunter t''aidera à rédiger un CV bien rédigé et adapté aux ATS afin de décrocher plus d''entretiens.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Démarrer avec Huntr AI Resume Builder</b></a>
+    <h4>StickerIt.AI | Solution mobile de création et de vente d'autocollants basée sur l'IA #1</h4>
+    <p>StickerIt.AI est ta meilleure solution pour créer et vendre des autocollants alimentés par l'IA directement depuis ton appareil mobile. Transforme n'importe quel lieu en un atelier d'autocollants dynamique. Avec seulement deux tablettes et une imprimante, tu peux commencer à vendre des autocollants personnalisés en quelques minutes. Notre plateforme est conçue pour gérer ton activité d'autocollants IA à tout moment et en tout lieu.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Démarrer avec StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -134,15 +134,31 @@ ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec 
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Marlee
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-marlee.webp" alt="Marlee">
+### Jobright.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jobright-ai.webp" alt="Jobright.ai">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/marlee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/jobright-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/jobright-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Marlee
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-marlee.webp" alt="Marlee">
+
+#### Marlee est une IA axée sur la collaboration et la performance.
+
+
+[Visit](https://thataicollection.com/redirect/marlee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Marlee est une IA axée sur la collaboration et la performance qui aide les individus et les équipes à maximiser leur plein potentiel. Sur la base de 25 ans de données humaines mondiales et de psychologie fondée sur des preuves, Marlee fournit des informations personnalisées grâce à l'IA en quelques minutes, simplifiant ainsi les processus de connexion, de motivation, de collaboration et de développement dans le cadre du flux de travail.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/marlee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -226,22 +242,6 @@ RIZZ AI est un outil de rencontres basé sur l'IA basé sur le framework RIZE GP
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/rizz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### APOB AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
-
-#### APOB.AI - Creator AI | Portrait personnalisé avec IA | Image et vidéo basées sur l'IA
-
-
-[Visit](https://thataicollection.com/redirect/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-APOB AI fournit des services d'imagerie, de vidéo et de génération de portraits basés sur l'IA. Essaie gratuitement notre générateur de portraits IA APOB AI ! APOB permet aux utilisateurs de créer leur modèle d'IA exclusif pour générer des images de scène et des vidéos uniques avec différentes options de style. Le service est garanti par une génération rapide en quelques secondes, des caractères cohérents, des résultats de haute qualité et des possibilités illimitées. 
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
