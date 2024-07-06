@@ -132,15 +132,31 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Marlee
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-marlee.webp" alt="Marlee">
+### Jobright.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jobright-ai.webp" alt="Jobright.ai">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/marlee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/jobright-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/jobright-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Marlee
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-marlee.webp" alt="Marlee">
+
+#### Marlee es una IA de colaboración y rendimiento.
+
+
+[Visit](https://thataicollection.com/redirect/marlee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Marlee es una IA de colaboración y rendimiento que ayuda a las personas y los equipos a maximizar todo su potencial. Basándose en 25 años de datos humanos globales y psicología basada en la evidencia, Marlee ofrece información personalizada impulsada por la IA en cuestión de minutos, lo que simplifica los procesos de conexión, motivación, colaboración y desarrollo dentro del flujo de trabajo.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/marlee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -224,22 +240,6 @@ RIZZ AI es una herramienta de citas de IA basada en el marco RIZE GPT. Tiene un 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/rizz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### APOB AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
-
-#### APOB.AI - IA del creador | Retrato personalizado de IA | Imagen y vídeo de IA
-
-
-[Visit](https://thataicollection.com/redirect/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-APOB AI ofrece servicios de generación de imágenes, vídeos y retratos con IA. ¡Prueba gratis nuestro generador de retratos con IA APOB AI! APOB permite a los usuarios crear su modelo de IA exclusivo para generar imágenes y vídeos de escenas únicos con varias opciones de estilo. El servicio está garantizado con una generación rápida en unos segundos, caracteres uniformes, resultados de alta calidad y posibilidades ilimitadas. 
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/apob-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
