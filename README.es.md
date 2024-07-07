@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1584" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1585" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -57,18 +57,6 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
-    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
@@ -77,6 +65,18 @@
 
 ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
     <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    </a>
+    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
+    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -134,15 +134,32 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### StoryChief
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storychief.webp" alt="StoryChief">
+### CapCut
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-capcut.webp" alt="CapCut">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/storychief?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/capcut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/capcut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### StoryChief
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storychief.webp" alt="StoryChief">
+
+#### Crea estrategias de contenido ganadoras con información e inteligencia artificial basadas en datos. 
+
+
+[Visit](https://thataicollection.com/redirect/storychief?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StoryChief te permite desarrollar estrategias de contenido eficaces que impulsen la participación y alcancen tus objetivos de marketing de contenidos. Con StoryChief, puedes analizar, planificar, colaborar y publicar contenido en varios canales y asegurarte de que tu mensaje llega al público adecuado en el momento adecuado.
+
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/storychief?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -228,22 +245,6 @@ Video Face Swap AI Free es una innovadora herramienta de inteligencia artificial
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/video-face-swap-ai-free?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Bing Image Creator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bing-image-creator.webp" alt="Bing Image Creator">
-
-#### Crea encantadores pósters de Disney sin esfuerzo
-
-
-[Visit](https://thataicollection.com/redirect/bing-image-creator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Interfaz fácil de usar: Bing Image Creator cuenta con una interfaz intuitiva que facilita a los usuarios navegar y crear imágenes impresionantes sin ningún tipo de experiencia previa en diseño.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/bing-image-creator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1265,6 +1266,23 @@ Crea y optimiza todo tipo de contenido, imágenes, código, voz en off con IA, v
 <br />
 
 
+### StoryChief
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storychief.webp" alt="StoryChief">
+
+#### Crea estrategias de contenido ganadoras con información e inteligencia artificial basadas en datos. 
+
+
+[Visit](https://thataicollection.com/redirect/storychief?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StoryChief te permite desarrollar estrategias de contenido eficaces que impulsen la participación y alcancen tus objetivos de marketing de contenidos. Con StoryChief, puedes analizar, planificar, colaborar y publicar contenido en varios canales y asegurarte de que tu mensaje llega al público adecuado en el momento adecuado.
+
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/storychief?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Damn Good Tools
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools">
 
@@ -1328,22 +1346,6 @@ Descript es la manera simple, poderosa y divertida de editar.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/descript?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Cutout Pro
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cutout-pro.webp" alt="Cutout Pro">
-
-#### Cutout.Pro - Edición de fotos con IA - Plataforma de generación de contenido visual, lo mejor para el diseño de imágenes y videos
-
-
-[Visit](https://thataicollection.com/redirect/cutout-pro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Plataforma de diseño visual todo en uno que contiene herramientas de edición de fotos y videos con IA. Proceso automático de eliminación de fondos, restauración de imágenes, diseño gráfico y generación de contenido
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/cutout-pro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
