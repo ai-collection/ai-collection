@@ -67,24 +67,24 @@ Translations:
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
-    </a>
-    <h4>Corporate Headshots AI: Revolutionizing Corporate Portraits with AI</h4>
-    <p>Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Get Started with Corporate Headshots AI</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
     <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
     <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It''s an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
     <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Get Started with AiApply</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    </a>
+    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
+    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -142,6 +142,24 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### BurstyAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-burstyai.webp" alt="BurstyAI">
+
+#### Personalized AI for 10x growth: automates writing, SEO, and outreach
+
+
+[Visit](https://thataicollection.com/redirect/burstyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+BurstyAI is a  platform offering no-code AI workflow tools to automate and optimize content creation, SEO (keyword research, backlink building), email outreach, and influencer & partner engagement.
+
+Get started quickly with over 30 ready-to-use templates for article writing, keyword research, backlink building, and lead research etc. Customize them to fit your business needs in just 5 minutes.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/burstyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Chaindesk
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chaindesk.webp" alt="Chaindesk">
 
@@ -239,22 +257,6 @@ AI-Powered Job Matching: Jobright.ai uses AI to scan the job market and match jo
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/jobright-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Marlee
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-marlee.webp" alt="Marlee">
-
-#### Marlee is a collaboration and performance AI.
-
-
-[Visit](https://thataicollection.com/redirect/marlee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Marlee is a collaboration and performance AI that helps individuals and teams to maximize their full potential. Based on 25 years of global human data and evidence-based psychology, Marlee delivers personalized insights powered by AI within minutes, simplifying the processes of connecting, motivating, collaborating, and developing within the flow of work.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/marlee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1407,6 +1409,22 @@ Webbotify provides AI chatbot trained specifically on your website, which helps 
 <br />
 
 
+### Chaindesk
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chaindesk.webp" alt="Chaindesk">
+
+#### No-code conversational agents open source platform based on your data.
+
+
+[Visit](https://thataicollection.com/redirect/chaindesk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chaindesk is a complete support ecosystem to help you spend less time supporting your users - and more time growing your business.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/chaindesk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### AI Answers by Cohere
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-answers-by-cohere.webp" alt="AI Answers by Cohere">
 
@@ -1467,23 +1485,6 @@ Increase Sales and Reduce Support Costs
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/eddyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Echowin
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-echowin.webp" alt="Echowin">
-
-#### Echowin - AI Powered Call Management With Full Natural Language Understanding and Personalized Responses for Every Scenario.
-
-
-[Visit](https://thataicollection.com/redirect/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Experience the future of business communications with echowin. Your AI agent will pick up your phone calls, pre-screen callers, provide customer service and handle workflows like refund requests, smart call transfers, collecting information and more. It''s like hiring ChatGPT to pick up your phone calls.
-
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
