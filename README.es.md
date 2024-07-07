@@ -69,12 +69,14 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
-    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
+    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
+    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
+
+ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
     <br />
 </div>
 
@@ -132,15 +134,31 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Chaindesk
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chaindesk.webp" alt="Chaindesk">
+### BurstyAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-burstyai.webp" alt="BurstyAI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/chaindesk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/burstyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/burstyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Chaindesk
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chaindesk.webp" alt="Chaindesk">
+
+#### Plataforma de código abierto de agentes conversacionales sin código basada en tus datos.
+
+
+[Visit](https://thataicollection.com/redirect/chaindesk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chaindesk es un ecosistema de soporte completo que te ayuda a dedicar menos tiempo a ayudar a tus usuarios y más tiempo a hacer crecer tu negocio.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/chaindesk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,22 +247,6 @@ Emparejamiento de trabajos basado en la IA: Jobright.ai utiliza la IA para anali
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/jobright-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Marlee
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-marlee.webp" alt="Marlee">
-
-#### Marlee es una IA de colaboración y rendimiento.
-
-
-[Visit](https://thataicollection.com/redirect/marlee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Marlee es una IA de colaboración y rendimiento que ayuda a las personas y los equipos a maximizar todo su potencial. Basándose en 25 años de datos humanos globales y psicología basada en la evidencia, Marlee ofrece información personalizada impulsada por la IA en cuestión de minutos, lo que simplifica los procesos de conexión, motivación, colaboración y desarrollo dentro del flujo de trabajo.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/marlee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1397,6 +1399,22 @@ Webbotify ofrece un chatbot de IA formado específicamente en tu sitio web, que 
 <br />
 
 
+### Chaindesk
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chaindesk.webp" alt="Chaindesk">
+
+#### Plataforma de código abierto de agentes conversacionales sin código basada en tus datos.
+
+
+[Visit](https://thataicollection.com/redirect/chaindesk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chaindesk es un ecosistema de soporte completo que te ayuda a dedicar menos tiempo a ayudar a tus usuarios y más tiempo a hacer crecer tu negocio.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/chaindesk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### AI Answers by Cohere
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-answers-by-cohere.webp" alt="AI Answers by Cohere">
 
@@ -1457,23 +1475,6 @@ Aumente las ventas y reduzca los costos de soporte
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/eddyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Echowin
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-echowin.webp" alt="Echowin">
-
-#### Echowen: gestión de llamadas basada en inteligencia artificial con una comprensión total del lenguaje natural y respuestas personalizadas para cada escenario.
-
-
-[Visit](https://thataicollection.com/redirect/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Vive el futuro de las comunicaciones empresariales con echowin. Tu agente de IA atenderá tus llamadas telefónicas, preseleccionará a las personas que llaman, proporcionará servicio de atención al cliente y gestionará los flujos de trabajo, como las solicitudes de reembolso, las transferencias inteligentes de llamadas, la recopilación de información y mucho más. Es como contratar a ChatGPT para atender tus llamadas de teléfono.
-
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/echowin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
