@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1584" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1585" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -142,6 +142,24 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### CapCut
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-capcut.webp" alt="CapCut">
+
+#### Free all-in-one video editor for everyone to create anything anywhere
+
+
+[Visit](https://thataicollection.com/redirect/capcut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+CapCut is an all-in-one creative platform powered by AI that enables video editing and image design on browsers, Windows, Mac, Android, and iOS. Flexible editing, magical AI tools, team collaboration, and stock assets. Make video creation like never before.
+
+
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/capcut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### StoryChief
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storychief.webp" alt="StoryChief">
 
@@ -237,22 +255,6 @@ Video Face Swap AI Free is a cutting-edge video downloader and face swap AI tool
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/video-face-swap-ai-free?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Bing Image Creator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bing-image-creator.webp" alt="Bing Image Creator">
-
-#### Effortlessly craft enchanting Disney posters
-
-
-[Visit](https://thataicollection.com/redirect/bing-image-creator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-User-Friendly Interface: Bing Image Creator boasts an intuitive interface, making it easy for users to navigate and create stunning images without any prior design experience.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/bing-image-creator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1274,6 +1276,23 @@ Create and Optimize all types of Content, Images, Code, AI Voiceover, Speech to 
 <br />
 
 
+### StoryChief
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storychief.webp" alt="StoryChief">
+
+#### Create winning content strategies with data-powered insights and AI. 
+
+
+[Visit](https://thataicollection.com/redirect/storychief?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StoryChief empowers you to develop effective content strategies that drive engagement and achieve your content marketing goals. With StoryChief, you can analyze, plan, collaborate, and publish content across multiple channels, ensuring your message reaches the right audience at the right time.
+
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/storychief?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Damn Good Tools
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools">
 
@@ -1337,22 +1356,6 @@ Descript is the simple, powerful, and fun way to edit.
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/descript?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Cutout Pro
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cutout-pro.webp" alt="Cutout Pro">
-
-#### Cutout.Pro - AI Photo Editing - Visual Content Generation Platform, Best for Image and Video Design
-
-
-[Visit](https://thataicollection.com/redirect/cutout-pro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-All-in-one visual design platform containing AI photo and video editing tools. Automatic process for background remove, image restoration, graphic design, and content generation
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/cutout-pro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
