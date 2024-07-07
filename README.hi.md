@@ -57,18 +57,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>24/7 कस्टम AI चैटबोट और लाइव चैट एस्केलेशन</h4>
-    <p>चैट डेटा एक AI चैटबॉट प्लेटफ़ॉर्म है, जो सुविधाजनक बैकएंड और फ़्रंटएंड कस्टमाइज़ेशन की सुविधा देता है। अपने नॉलेज बेस, कस्टम एंडपॉइंट या चैट डेटा के मॉडल का इस्तेमाल करके चैटबॉट बनाएं। चैटबोट इंटरफ़ेस को कस्टमाइज़ करें और वाइट लेबलिंग का विकल्प चुनें। अतिरिक्त सुविधाओं में स्टैण्डर्ड या प्रोफ़ेशनल प्लान में लाइव चैट एस्केलेशन शामिल है।
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>के साथ आरंभ करें Chat Data</b></a>
+    <h4>AI की थोड़ी मदद से, एकदम सही रिज़्यूमे तैयार करें</h4>
+    <p>तुम्हेंं जल्दी और आसानी से ऐसा रिज्यूम बनाने के लिए, जो तुम्हारे काम के अनुभव को सटीक रूप से दर्शाता हो, एक पेशेवर रेज़्यूमे लेखक होने की ज़रूरत नहीं है। हंटर का कस्टमाइज़ किया जा सकने वाला AI रिज्यूमे बिल्डर तुम्हेंं और इंटरव्यू देने में मदद करने के लिए एक अच्छी तरह से लिखा हुआ, एटीएस-अनुकूल रिज्यूमे तैयार करने में मदद करेगा।</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>के साथ आरंभ करें Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -138,15 +132,33 @@
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### CapCut
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-capcut.webp" alt="CapCut">
+### Chaindesk
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chaindesk.webp" alt="Chaindesk">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/capcut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/chaindesk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/chaindesk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### CapCut
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-capcut.webp" alt="CapCut">
+
+#### हर किसी के लिए कहीं भी कुछ भी बनाने के लिए मुफ़्त ऑल-इन-वन वीडियो एडिटर
+
+
+[Visit](https://thataicollection.com/redirect/capcut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+CapCut AI द्वारा संचालित एक ऑल-इन-वन क्रिएटिव प्लेटफ़ॉर्म है, जो ब्राउज़र, Windows, Mac, Android और iOS पर वीडियो एडिटिंग और इमेज डिज़ाइन की सुविधा देता है। फ्लेक्सिबल एडिटिंग, जादुई AI टूल, टीम सहयोग और स्टॉक एसेट। ऐसे वीडियो बनाओ जैसे पहले कभी नहीं था।
+
+
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/capcut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,22 +245,6 @@ Platen.ai एक AI-संचालित कंटेंट मार्के�
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/marlee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Video Face Swap AI Free
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-video-face-swap-ai-free.webp" alt="Video Face Swap AI Free">
-
-#### सबसे अच्छा वीडियो डाउनलोडर और फ़ेस स्वैप AI टूल——AISAVER
-
-
-[Visit](https://thataicollection.com/redirect/video-face-swap-ai-free?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Video Face Swap AI Free एक अत्याधुनिक वीडियो डाउनलोडर और फ़ेस स्वैप AI टूल है, जो यूज़र को लोकप्रिय सोशल मीडिया प्लेटफ़ॉर्म से वीडियो डाउनलोड करने और कुछ आसान चरणों के साथ वीडियो में चेहरे बदलने की सुविधा देता है। अपनी एडवांस AI तकनीक के साथ, AiSaver यूज़र को बेहतर और सहज अनुभव प्रदान करता है।
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/video-face-swap-ai-free?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5156,6 +5152,22 @@ BeachAtlas.com समुद्र तटों का एक विश्वक�
 ---
 
 ## वीडियो निर्माण और संपादन
+### DEEPBRAIN AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deepbrain-ai.webp" alt="DEEPBRAIN AI">
+
+#### DeepBrain AI - टेक्स्ट का सबसे अच्छा AI वीडियो जेनरेटर
+
+
+[Visit](https://thataicollection.com/redirect/deepbrain-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+साधारण टेक्स्ट का इस्तेमाल करके तुरंत एआई-जेनरेट किए गए वीडियो बनाएं। अद्भुत बहु-भाषा समर्थित AI फ़िल्म जनरेटर। यथार्थवादी AI अवतार, स्वाभाविक टेक्स्ट-टू-स्पीच, और शक्तिशाली AI वीडियो बनाने की क्षमताएं, सभी एक ही प्लेटफॉर्म पर। AI-संचालित टेक्स्ट-टू-वीडियो की मदद से अपने वीडियो प्रोजेक्ट को बड़े पैमाने पर गति दें।
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/deepbrain-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Atlabs AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-atlabs-ai.webp" alt="Atlabs AI">
 
@@ -5255,23 +5267,6 @@ Zebracat एक टेक्स्ट-टू-वीडियो AI है जो
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/zebracat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Creatify AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-creatify-ai.webp" alt="Creatify AI">
-
-#### किसी भी प्रॉडक्ट के URL से छोटे वीडियो विज्ञापन जेनरेट करें। 
-
-
-[Visit](https://thataicollection.com/redirect/creatify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-क्रिएटिफ़ाई एक एडवांस AI सॉल्यूशन है, जो विज्ञापन बनाने में क्रांति ला रहा है। यूज़र प्रॉडक्ट लिंक इनपुट कर सकते हैं या इमेज और विवरण अपलोड कर सकते हैं, ताकि वे तुरंत हाई क्वालिटी के लघु वीडियो विज्ञापन बना सकें। सुविधाओं में यूआरएल-आधारित वीडियो जनरेशन, एआई-चालित वॉयसओवर, डायनामिक स्क्रिप्ट, यथार्थवादी आवाज़ें और अवतार, प्रॉडक्ट का विस्तृत विश्लेषण और मज़बूत वीडियो एडिटिंग शामिल हैं।
-
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/creatify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
