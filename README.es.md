@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1578" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1584" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -57,30 +57,26 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
-    </a>
-    <h4>Chatbot de IA personalizado las 24 horas del día, los 7 días de la semana, más escalación</h4>
-    <p>Chat Data es una plataforma de chatbots de IA que ofrece una personalización flexible de backend y frontend. Crea chatbots con tu base de conocimientos, puntos finales personalizados o los modelos de Chat Data. Personaliza la interfaz del chatbot y opta por la etiqueta blanca. Las funciones adicionales incluyen la escalación del chat en vivo en los planes estándar o profesionales.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
     <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
     <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
     <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    </a>
+    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
+    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
+
+ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
     <br />
 </div>
 
@@ -138,15 +134,33 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### ResumeDive
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resumedive.webp" alt="ResumeDive">
+### StoryChief
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storychief.webp" alt="StoryChief">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/resumedive?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/storychief?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/storychief?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### ResumeDive
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resumedive.webp" alt="ResumeDive">
+
+#### ResumeDive es una herramienta basada en la inteligencia artificial diseñada para mejorar la optimización de los currículums al combinar las habilidades y la experiencia individuales con los requisitos laborales específicos. 
+
+
+[Visit](https://thataicollection.com/redirect/resumedive?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ResumeDive proporciona información práctica para el desarrollo de habilidades al identificar los puntos débiles y recomendar cursos profesionales o proyectos del mundo real en grupos de tecnología específicos.
+
+Utiliza algoritmos avanzados para analizar los currículums de los usuarios e identificar las áreas que se ajustan a los criterios laborales definidos. Esto ayuda a los usuarios no solo a cumplir las expectativas de los reclutadores, sino también a diferenciarse de la competencia. 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/resumedive?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -230,22 +244,6 @@ Interfaz fácil de usar: Bing Image Creator cuenta con una interfaz intuitiva qu
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/bing-image-creator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Allyfy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-allyfy.webp" alt="Allyfy">
-
-#### Allyfy es una solución innovadora e inteligente de servicio al cliente
-
-
-[Visit](https://thataicollection.com/redirect/allyfy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Diseñado para mejorar la eficiencia del servicio y la satisfacción de los clientes, integra la última tecnología de inteligencia artificial para garantizar que cada interacción con el cliente sea rápida, precisa y personalizada, lo que facilita la gestión de tu soporte empresarial y, al mismo tiempo, mejora la experiencia del cliente.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/allyfy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
