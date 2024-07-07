@@ -57,26 +57,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
-    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
+    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
+    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
-    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
-
-ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
+    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
+    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -134,15 +132,33 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### BurstyAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-burstyai.webp" alt="BurstyAI">
+### ChatPlaygroun AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatplaygroun-ai.webp" alt="ChatPlaygroun AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/burstyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/chatplaygroun-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/chatplaygroun-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### BurstyAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-burstyai.webp" alt="BurstyAI">
+
+#### IA personalizada para crecer 10 veces: automatiza la escritura, el SEO y la divulgación
+
+
+[Visit](https://thataicollection.com/redirect/burstyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+BurstyAI es una plataforma que ofrece herramientas de flujo de trabajo de IA sin código para automatizar y optimizar la creación de contenido, el SEO (investigación de palabras clave, creación de backlinks), la divulgación por correo electrónico y la participación de personas influyentes y de socios.
+
+Empieza rápidamente con más de 30 plantillas listas para usar para la redacción de artículos, la investigación de palabras clave, la creación de backlinks y la investigación de clientes potenciales, etc. Perso
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/burstyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -231,22 +247,6 @@ Platen.ai es una plataforma de marketing de contenidos impulsada por la IA. Est�
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/platen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Jobright.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jobright-ai.webp" alt="Jobright.ai">
-
-####  Jobright es un copiloto de búsqueda de empleo de IA que te busca trabajos en función de tu experiencia, adapta tu currículum para cada puesto y encuentra conexiones para derivarte que te ayuden a conseguir más entrevistas
-
-
-[Visit](https://thataicollection.com/redirect/jobright-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Emparejamiento de trabajos basado en la IA: Jobright.ai utiliza la IA para analizar el mercado laboral y adaptar los trabajos a tus habilidades y experiencia. Alinea las oportunidades con tu currículum y tus preferencias, y ofrece recomendaciones de trabajo personalizadas. Esta función no solo se centra en la búsqueda de coincidencias, sino que también sugiere ajustes en el currículum para aumentar tus posibilidades de conseguir entrevistas con los empleadores adecuados
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/jobright-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1142,6 +1142,24 @@ Elija una de nuestras 50 plantillas y cree una copia atractiva para una variedad
 <br />
 
 
+### BurstyAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-burstyai.webp" alt="BurstyAI">
+
+#### IA personalizada para crecer 10 veces: automatiza la escritura, el SEO y la divulgación
+
+
+[Visit](https://thataicollection.com/redirect/burstyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+BurstyAI es una plataforma que ofrece herramientas de flujo de trabajo de IA sin código para automatizar y optimizar la creación de contenido, el SEO (investigación de palabras clave, creación de backlinks), la divulgación por correo electrónico y la participación de personas influyentes y de socios.
+
+Empieza rápidamente con más de 30 plantillas listas para usar para la redacción de artículos, la investigación de palabras clave, la creación de backlinks y la investigación de clientes potenciales, etc. Perso
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/burstyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Writelyai
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-writelyai.webp" alt="Writelyai">
 
@@ -1207,22 +1225,6 @@ Dashword es el software de optimización de contenido n.º 1 para equipos de SEO
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/dashword?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### unbound
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unbound.webp" alt="unbound">
-
-#### Automatice la creación de contenido para su pequeña empresa
-
-
-[Visit](https://thataicollection.com/redirect/unbound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Aproveche las mejores herramientas de generación de IA en un solo lugar diseñado para automatizar la creación de contenido para pequeñas empresas, tiendas en línea y creadores.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/unbound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

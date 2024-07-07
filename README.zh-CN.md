@@ -57,12 +57,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>在 AI 的帮助下制作完美的简历</h4>
-    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
+    <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
+    <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -132,15 +132,33 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### BurstyAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-burstyai.webp" alt="BurstyAI">
+### ChatPlaygroun AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatplaygroun-ai.webp" alt="ChatPlaygroun AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/burstyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/chatplaygroun-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/chatplaygroun-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### BurstyAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-burstyai.webp" alt="BurstyAI">
+
+#### 个性化 AI 可实现 10 倍增长：自动写作、SEO 和推广
+
+
+[Visit](https://thataicollection.com/redirect/burstyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+BurstyAI 是一个提供无代码人工智能工作流程工具的平台，用于自动化和优化内容创建、SEO（关键字研究、反向链接构建）、电子邮件推广以及网红和合作伙伴参与度。
+
+使用 30 多个即用型模板快速入门，用于文章写作、关键字研究、反向链接建设和潜在客户研究等。在短短 5 分钟内对它们进行自定义，以满足您的业务需求。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/burstyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,22 +247,6 @@ Platen.ai 是一个由人工智能驱动的内容营销平台。它旨在通过�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/platen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Jobright.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jobright-ai.webp" alt="Jobright.ai">
-
-####  Jobright是一款人工智能求职Copilot，它会根据你的经验为你匹配工作，为每个职位量身定制简历，并找到推荐人脉来帮助你获得更多面试
-
-
-[Visit](https://thataicollection.com/redirect/jobright-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-人工智能驱动的求职匹配：Jobright.ai 使用人工智能扫描就业市场，将工作与你的技能和经验相匹配。它将机会与您的简历和偏好相结合，提供量身定制的工作建议。此功能不仅侧重于匹配，还建议调整简历，以增加获得合适雇主面试的机会
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/jobright-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1140,6 +1142,24 @@ CopyMonkey 在几秒钟内生成并优化亚马逊列表。 AI 帮助将所有�
 <br />
 
 
+### BurstyAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-burstyai.webp" alt="BurstyAI">
+
+#### 个性化 AI 可实现 10 倍增长：自动写作、SEO 和推广
+
+
+[Visit](https://thataicollection.com/redirect/burstyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+BurstyAI 是一个提供无代码人工智能工作流程工具的平台，用于自动化和优化内容创建、SEO（关键字研究、反向链接构建）、电子邮件推广以及网红和合作伙伴参与度。
+
+使用 30 多个即用型模板快速入门，用于文章写作、关键字研究、反向链接建设和潜在客户研究等。在短短 5 分钟内对它们进行自定义，以满足您的业务需求。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/burstyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Writelyai
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-writelyai.webp" alt="Writelyai">
 
@@ -1205,22 +1225,6 @@ Dashword 是 SEO 团队排名第一的内容优化软件。为您的读者创建
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/dashword?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### unbound
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unbound.webp" alt="unbound">
-
-#### 为您的小型企业自动创建内容
-
-
-[Visit](https://thataicollection.com/redirect/unbound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在一个地方利用所有最好的 AI 生成工具，旨在为小型企业、在线商店和创作者自动创建内容。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/unbound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
