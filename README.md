@@ -67,26 +67,30 @@ Translations:
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Land your ideal job with our job application AI. Automatically apply to hundreds of engineering jobs every week! Join ApplyPass to get 100 free applications.</h4>
-    <p>ApplyPass is an AI-powered job search tool that gets you more job interviews. ApplyPass submits 200-400 tailored job applications on your behalf every month. This tool offers the first 100 job applications for free.
-
-ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that''s 40% higher than the industry average.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Get Started with ApplyPass</b></a>
+    <h4>Craft the perfect resume, with a little help from AI</h4>
+    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
-    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
+    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
+    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
     <br />
 </div>
 
@@ -144,6 +148,22 @@ ApplyPass.com has generated thousands of interviews for engineers, with an avera
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Fotor Video Editor
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor-video-editor.webp" alt="Fotor Video Editor">
+
+#### Enjoy free and effortless video editing online. Try Fotor all-in-one video editor to edit videos like a pro now!
+
+
+[Visit](https://thataicollection.com/redirect/fotor-video-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Fotor video editor caters to all skill levels, from beginner to pro. With simple clicks, you can quickly trim, crop, and resize videos. Split and merge video clips into one. Add text and captions to enhance your storytelling. Incorporate transitions, music, and effects to add extra flair. 
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/fotor-video-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### ChatPlaygroun AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatplaygroun-ai.webp" alt="ChatPlaygroun AI">
 
@@ -244,22 +264,6 @@ It utilizes advanced algorithms to analyze users' resumes, identifying areas tha
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/resumedive?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Platen.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-platen-ai.webp" alt="Platen.ai">
-
-#### Platen.ai - AI-powered Content Marketing Platform - Grow organic traffic
-
-
-[Visit](https://thataicollection.com/redirect/platen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Platen.ai is a AI-powered content marketing platform. It is designed to help small businesses and startups grow their organic traffic through blog articles, social media posts, and other content generation tools.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/platen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3778,6 +3782,23 @@ SwifDoo PDF is a young team, established in 2017, and in the past years, we have
 <br />
 
 
+### ChatPlaygroun AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatplaygroun-ai.webp" alt="ChatPlaygroun AI">
+
+#### Achieve Better AI Answers 73% of the Time with Multiple Chatbots
+
+
+[Visit](https://thataicollection.com/redirect/chatplaygroun-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chat with multiple bots simultaneously, including ChatGPT-4o, Google Gemini 1.5 Pro, Claude 3 Opus, Bing Chat, Perplexity, and more! 🤖💬
+
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/chatplaygroun-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Todobee
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-todobee.webp" alt="Todobee">
 
@@ -3826,22 +3847,6 @@ MotionShot helps you make informative guides for multiple use cases such as guid
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/motionshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Botrush
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-botrush.webp" alt="Botrush">
-
-#### Explore AI with intuitive, personalized Botrush chats
-
-
-[Visit](https://thataicollection.com/redirect/botrush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Discover the joy of seamless AI conversations with Botrush! Unlike ChatGPT Plus, Botrush offers you an intuitive interface where you can easily tweak your chat experience. Imagine finding any conversation from your history in seconds or downloading your chats for future reference. Botrush makes AI interactions not just smarter, but also more personal and accessible. 
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/botrush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

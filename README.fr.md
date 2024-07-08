@@ -69,14 +69,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
-    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
-
-ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
+    <h4>Rédigez le CV parfait avec l''aide de l''IA</h4>
+    <p>Tu n''as pas besoin d''être une rédactrice de CV professionnelle pour créer rapidement et facilement un CV qui reflète fidèlement ton expérience professionnelle. Le générateur de CV IA personnalisable de Hunter t''aidera à rédiger un CV bien rédigé et adapté aux ATS afin de décrocher plus d''entretiens.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Démarrer avec Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -134,15 +132,32 @@ ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec 
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### ChatPlaygroun AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatplaygroun-ai.webp" alt="ChatPlaygroun AI">
+### Fotor Video Editor
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor-video-editor.webp" alt="Fotor Video Editor">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/chatplaygroun-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/fotor-video-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/fotor-video-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### ChatPlaygroun AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatplaygroun-ai.webp" alt="ChatPlaygroun AI">
+
+#### Obtenez de meilleures réponses basées sur l'IA 73 % du temps à l'aide de plusieurs chatbots
+
+
+[Visit](https://thataicollection.com/redirect/chatplaygroun-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Discutez avec plusieurs robots simultanément, notamment ChatGPT-4O, Google Gemini 1.5 Pro, Claude 3 Opus, Bing Chat, Perplexity et bien d'autres encore ! 🤖💬
+
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/chatplaygroun-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,22 +248,6 @@ Il utilise des algorithmes avancés pour analyser les CV des utilisateurs, en id
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/resumedive?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Platen.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-platen-ai.webp" alt="Platen.ai">
-
-#### Platen.ai - Plateforme de marketing de contenu alimentée par l'IA - Augmentez le trafic organique
-
-
-[Visit](https://thataicollection.com/redirect/platen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Platen.ai est une plateforme de marketing de contenu alimentée par l'IA. Il est conçu pour aider les petites entreprises et les startups à augmenter leur trafic organique grâce à des articles de blog, à des publications sur les réseaux sociaux et à d'autres outils de génération de contenu.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/platen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3767,6 +3766,23 @@ SwifDoo PDF est une jeune équipe, créée en 2017, et ces dernières années, n
 <br />
 
 
+### ChatPlaygroun AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatplaygroun-ai.webp" alt="ChatPlaygroun AI">
+
+#### Obtenez de meilleures réponses basées sur l'IA 73 % du temps à l'aide de plusieurs chatbots
+
+
+[Visit](https://thataicollection.com/redirect/chatplaygroun-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Discutez avec plusieurs robots simultanément, notamment ChatGPT-4O, Google Gemini 1.5 Pro, Claude 3 Opus, Bing Chat, Perplexity et bien d'autres encore ! 🤖💬
+
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/chatplaygroun-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Todobee
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-todobee.webp" alt="Todobee">
 
@@ -3815,22 +3831,6 @@ MotionShot t''aide à créer des guides informatifs pour de nombreux cas d''util
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/motionshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Botrush
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-botrush.webp" alt="Botrush">
-
-#### Explorez l''IA grâce à des chats Botrush intuitifs et personnalisés
-
-
-[Visit](https://thataicollection.com/redirect/botrush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Découvrez le plaisir de discuter en toute fluidité avec Botrush grâce à l''IA ! Contrairement à ChatGPT Plus, Botrush te propose une interface intuitive qui te permet de modifier facilement ton expérience de chat. Imagine retrouver une conversation dans ton historique en quelques secondes ou télécharger tes discussions pour pouvoir s''y référer ultérieurement. Botrush rend les interactions avec l''IA non seulement plus intelligentes, mais aussi plus personnelles et plus accessibles. 
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/botrush?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
