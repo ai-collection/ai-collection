@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1585" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1584" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -75,12 +75,14 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
-    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
+    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
+    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
+
+ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
     <br />
 </div>
 
@@ -138,15 +140,31 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### AVCLabs Video Enhancer AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avclabs-video-enhancer-ai.webp" alt="AVCLabs Video Enhancer AI">
+### Paraphrase X
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-paraphrase-x.webp" alt="Paraphrase X">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/avclabs-video-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/paraphrase-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/paraphrase-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AVCLabs Video Enhancer AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avclabs-video-enhancer-ai.webp" alt="AVCLabs Video Enhancer AI">
+
+#### Mejorador y escalador de vídeo con IA para mejorar la calidad del vídeo
+
+
+[Visit](https://thataicollection.com/redirect/avclabs-video-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AVCLabs Video Enhancer AI es un software que utiliza el aprendizaje profundo impulsado por la IA para mejorar la calidad de las imágenes de vídeo antiguas y de baja resolución. El software puede mejorar los vídeos a resoluciones como HD, 4K y 8K, a la vez que mantiene una calidad magnífica y añade detalles nítidos y naturales. También incluye funciones de reducción de ruido, nitidez y corrección de color para garantizar una salida de vídeo de alta calidad.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/avclabs-video-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -234,24 +252,6 @@ Chaindesk es un ecosistema de soporte completo que te ayuda a dedicar menos tiem
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/chaindesk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### CapCut
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-capcut.webp" alt="CapCut">
-
-#### Editor de vídeo todo en uno gratuito para que todos puedan crear cualquier cosa en cualquier lugar
-
-
-[Visit](https://thataicollection.com/redirect/capcut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-CapCut es una plataforma creativa todo en uno impulsada por la IA que permite la edición de vídeo y el diseño de imágenes en los navegadores Windows, Mac, Android e iOS. Edición flexible, herramientas mágicas de IA, colaboración en equipo y activos de stock. Haz que la creación de vídeos sea como nunca antes.
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/capcut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
