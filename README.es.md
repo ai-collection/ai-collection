@@ -57,12 +57,18 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
-    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
+    <h4>Chatbot de IA personalizado las 24 horas del día, los 7 días de la semana, más escalación</h4>
+    <p>Chat Data es una plataforma de chatbots de IA que ofrece una personalización flexible de backend y frontend. Crea chatbots con tu base de conocimientos, puntos finales personalizados o los modelos de Chat Data. Personaliza la interfaz del chatbot y opta por la etiqueta blanca. Las funciones adicionales incluyen la escalación del chat en vivo en los planes estándar o profesionales.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
     <br />
 </div>
 
@@ -132,15 +138,32 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### No-Code Scraper
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-no-code-scraper.webp" alt="No-Code Scraper">
+### AVCLabs Video Enhancer AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avclabs-video-enhancer-ai.webp" alt="AVCLabs Video Enhancer AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/no-code-scraper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/avclabs-video-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/avclabs-video-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### No-Code Scraper
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-no-code-scraper.webp" alt="No-Code Scraper">
+
+#### Extrae datos sin problemas de cualquier sitio web con solo unos pocos datos sencillos.
+
+
+[Visit](https://thataicollection.com/redirect/no-code-scraper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+No-Code Scraper es una herramienta de raspado sin código que te permite extraer datos de cualquier sitio web sin esfuerzo sin necesidad de escribir código ni gestionar scripts complejos. Al aprovechar los grandes modelos lingüísticos, simplifica el proceso de extracción de datos y lo hace accesible a todo el mundo.
+
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/no-code-scraper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,23 +252,6 @@ CapCut es una plataforma creativa todo en uno impulsada por la IA que permite la
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/capcut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### StoryChief
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storychief.webp" alt="StoryChief">
-
-#### Crea estrategias de contenido ganadoras con información e inteligencia artificial basadas en datos. 
-
-
-[Visit](https://thataicollection.com/redirect/storychief?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-StoryChief te permite desarrollar estrategias de contenido eficaces que impulsen la participación y alcancen tus objetivos de marketing de contenidos. Con StoryChief, puedes analizar, planificar, colaborar y publicar contenido en varios canales y asegurarte de que tu mensaje llega al público adecuado en el momento adecuado.
-
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/storychief?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1004,6 +1010,23 @@ Tanto si eres un desarrollador experimentado como si acabas de graduarte, Interv
 <br />
 
 
+### No-Code Scraper
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-no-code-scraper.webp" alt="No-Code Scraper">
+
+#### Extrae datos sin problemas de cualquier sitio web con solo unos pocos datos sencillos.
+
+
+[Visit](https://thataicollection.com/redirect/no-code-scraper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+No-Code Scraper es una herramienta de raspado sin código que te permite extraer datos de cualquier sitio web sin esfuerzo sin necesidad de escribir código ni gestionar scripts complejos. Al aprovechar los grandes modelos lingüísticos, simplifica el proceso de extracción de datos y lo hace accesible a todo el mundo.
+
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/no-code-scraper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Text2SQL
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-text2sql.webp" alt="Text2SQL">
 
@@ -1081,22 +1104,6 @@ La IA de Webscrape es una plataforma avanzada y fácil de usar que permite a per
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/webscrapeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### CodeWP
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-codewp.webp" alt="CodeWP">
-
-#### Codewp - Generador y asistente de código AI Wordpress
-
-
-[Visit](https://thataicollection.com/redirect/codewp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-CodeWP es un generador de código de WordPress que utiliza IA y modelos especializados para WordPress, Woo y otros para ayudarlo a construir mejor y más rápido.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/codewp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
