@@ -67,24 +67,26 @@ Translations:
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
-    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It''s an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Get Started with AiApply</b></a>
+    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
+    <p>WordfixerBot''s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Get Started with Wordfixerbot</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Craft the perfect resume, with a little help from AI</h4>
-    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
+    <h4>Land your ideal job with our job application AI. Automatically apply to hundreds of engineering jobs every week! Join ApplyPass to get 100 free applications.</h4>
+    <p>ApplyPass is an AI-powered job search tool that gets you more job interviews. ApplyPass submits 200-400 tailored job applications on your behalf every month. This tool offers the first 100 job applications for free.
+
+ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that''s 40% higher than the industry average.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Get Started with ApplyPass</b></a>
     <br />
 </div>
 
@@ -142,6 +144,22 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Packify.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-packify-ai.webp" alt="Packify.ai">
+
+#### Unpack creativity, packaging design with AI
+
+
+[Visit](https://thataicollection.com/redirect/packify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Unleash the future of packaging with our AI-driven design tool, Tell AI what you imagine for your packaging design, and see it quickly come up with creative ideas for you. Plus, Packify empowers you to further refine your design with secondary edits. Your design, Your decision.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/packify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### JoPilot
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jopilot.webp" alt="JoPilot">
 
@@ -244,23 +262,6 @@ Fotor video editor caters to all skill levels, from beginner to pro. With simple
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/fotor-video-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### ChatPlaygroun AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatplaygroun-ai.webp" alt="ChatPlaygroun AI">
-
-#### Achieve Better AI Answers 73% of the Time with Multiple Chatbots
-
-
-[Visit](https://thataicollection.com/redirect/chatplaygroun-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chat with multiple bots simultaneously, including ChatGPT-4o, Google Gemini 1.5 Pro, Claude 3 Opus, Bing Chat, Perplexity, and more! 🤖💬
-
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/chatplaygroun-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
