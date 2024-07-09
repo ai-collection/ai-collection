@@ -69,18 +69,14 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>全天候自定义 AI 聊天机器人加上实时聊天升级</h4>
-    <p>Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
+    <h4>借助我们的求职AI找到理想的工作。每周自动申请数百个工程职位！加入 ApplyPass 获得 100 个免费应用程序。</h4>
+    <p>ApplyPass是一款由人工智能驱动的求职工具，可以让你获得更多的求职面试。ApplyPass每月代表你提交200-400份量身定制的求职申请。该工具免费提供前100份求职申请。
 
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
+ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行业平均水平高40％。</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>开始使用 ApplyPass</b></a>
     <br />
 </div>
 
@@ -138,15 +134,33 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### JoPilot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jopilot.webp" alt="JoPilot">
+### Packify.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-packify-ai.webp" alt="Packify.ai">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/jopilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/packify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/packify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### JoPilot
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jopilot.webp" alt="JoPilot">
+
+#### 您的人工智能求职助手    
+
+
+[Visit](https://thataicollection.com/redirect/jopilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI Job Copilot：您的个人智能求职助手！自动执行和优化狩猎，更快地找到理想的工作。🤖💼🚀
+
+按关键字、地点、雇主、工资和通勤时间搜索美国职位。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/jopilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -238,23 +252,6 @@ Fotor视频编辑器适合所有技能水平，从初学者到专业人士。只
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/fotor-video-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### ChatPlaygroun AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatplaygroun-ai.webp" alt="ChatPlaygroun AI">
-
-#### 使用多个聊天机器人在 73% 的时间内获得更好的 AI 答案
-
-
-[Visit](https://thataicollection.com/redirect/chatplaygroun-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-同时与多个机器人聊天，包括 ChatGPT-4O、谷歌 Gemini 1.5 Pro、Claude 3 Opus、Bing Chat、Perplexity 等等！🤖💬
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/chatplaygroun-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
