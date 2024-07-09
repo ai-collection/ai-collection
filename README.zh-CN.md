@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1584" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1593" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -57,12 +57,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
-    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>开始使用 AiApply</b></a>
+    <h4>在 AI 的帮助下制作完美的简历</h4>
+    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -132,15 +132,36 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Paraphrase X
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-paraphrase-x.webp" alt="Paraphrase X">
+### Instafill
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-instafill.webp" alt="Instafill">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/paraphrase-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/instafill?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/instafill?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Paraphrase X
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-paraphrase-x.webp" alt="Paraphrase X">
+
+#### ParaphraSex 是业界领先的人工智能驱动的释义工具，可提供精确的措辞和无与伦比的准确性。
+
+
+[Visit](https://thataicollection.com/redirect/paraphrase-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+您可以使用我们基于 AL 的释义工具轻松地在线解释。
+
+ParaphraSex 可以为我们中的许多人提供服务。如果你是学生、博主或作家，抄袭不会是你的问题，你可以专注于创作内容！
+
+这个释义生成器可确保您的写作准确性。只需将您的文本复制并粘贴到输入框中，然后单击 “立即解释” 按钮即可开始您的释义之旅。
+
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/paraphrase-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -228,22 +249,6 @@ BurstyAI 是一个提供无代码人工智能工作流程工具的平台，用�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/burstyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Chaindesk
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chaindesk.webp" alt="Chaindesk">
-
-#### 基于您的数据的无代码对话代理开源平台。
-
-
-[Visit](https://thataicollection.com/redirect/chaindesk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chaindesk 是一个完整的支持生态系统，可帮助您减少花在支持用户上的时间，将更多时间用于发展业务。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/chaindesk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
