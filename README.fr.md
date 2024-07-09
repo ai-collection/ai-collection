@@ -57,24 +57,30 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
-    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
+    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
+    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>StickerIt.AI | Solution mobile de création et de vente d'autocollants basée sur l'IA #1</h4>
-    <p>StickerIt.AI est ta meilleure solution pour créer et vendre des autocollants alimentés par l'IA directement depuis ton appareil mobile. Transforme n'importe quel lieu en un atelier d'autocollants dynamique. Avec seulement deux tablettes et une imprimante, tu peux commencer à vendre des autocollants personnalisés en quelques minutes. Notre plateforme est conçue pour gérer ton activité d'autocollants IA à tout moment et en tout lieu.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Démarrer avec StickerIt.AI</b></a>
+    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
+    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
     <br />
 </div>
 
@@ -132,15 +138,31 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Packify.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-packify-ai.webp" alt="Packify.ai">
+### Jovu by Amplication
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/packify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/jovu-by-amplication?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/jovu-by-amplication?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Packify.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-packify-ai.webp" alt="Packify.ai">
+
+#### Déballer la créativité, concevoir des emballages grâce à l'IA
+
+
+[Visit](https://thataicollection.com/redirect/packify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dévoilez l'avenir de l'emballage grâce à notre outil de conception piloté par l'IA, Tell AI what you imagine pour le design de ton emballage, et regardez-le vous proposer rapidement des idées créatives. De plus, Packify te permet d'affiner encore ton design grâce à des modifications secondaires. Ton design, ta décision.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/packify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -234,22 +256,6 @@ No-Code Scraper est un outil de scraping sans code qui te permet d'extraire des 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/no-code-scraper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Fotor Video Editor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor-video-editor.webp" alt="Fotor Video Editor">
-
-#### Profite du montage vidéo gratuit et facile en ligne. Essaie l'éditeur vidéo tout-en-un Fotor pour éditer des vidéos comme un pro dès maintenant !
-
-
-[Visit](https://thataicollection.com/redirect/fotor-video-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-L'éditeur vidéo Fotor s'adresse à tous les niveaux, du débutant au professionnel. En quelques clics, tu peux rapidement découper, recadrer et redimensionner les vidéos. Divise et fusionne des clips vidéo en un seul. Ajoute du texte et des légendes pour améliorer ta narration. Incorporez des transitions, de la musique et des effets pour ajouter du style. 
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/fotor-video-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -57,18 +57,6 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
-    </a>
-    <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
-    <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
@@ -77,6 +65,18 @@
 
 ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行业平均水平高40％。</p>
     <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>开始使用 ApplyPass</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    </a>
+    <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
+    <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -134,15 +134,31 @@ ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行�
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Packify.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-packify-ai.webp" alt="Packify.ai">
+### Jovu by Amplication
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/packify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/jovu-by-amplication?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/jovu-by-amplication?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Packify.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-packify-ai.webp" alt="Packify.ai">
+
+#### 借助 AI 解锁创意、包装设计
+
+
+[Visit](https://thataicollection.com/redirect/packify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用我们的 AI 驱动的设计工具，告诉人工智能你对包装设计的想象，开启包装的未来，看看它能快速为你想出创意。此外，Packify 使您能够通过二次编辑进一步完善设计。你的设计，你的决定。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/packify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -236,22 +252,6 @@ No-Code Scraper是一种无代码抓取工具，可让您轻松地从任何网�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/no-code-scraper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Fotor Video Editor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor-video-editor.webp" alt="Fotor Video Editor">
-
-#### 在线享受免费轻松的视频编辑。立即试用 Fotor 多合一视频编辑器，像专业人士一样编辑视频！
-
-
-[Visit](https://thataicollection.com/redirect/fotor-video-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Fotor视频编辑器适合所有技能水平，从初学者到专业人士。只需点击一下，您就可以快速修剪、裁剪和调整视频大小。将视频片段拆分并合并为一个。添加文字和字幕以增强您的故事讲述能力。整合过渡、音乐和特效，增添更多风情。 
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/fotor-video-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
