@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1595" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1596" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -71,18 +71,12 @@ ApplyPass.com ने इंजीनियरों के लिए हज़�
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>24/7 कस्टम AI चैटबोट और लाइव चैट एस्केलेशन</h4>
-    <p>चैट डेटा एक AI चैटबॉट प्लेटफ़ॉर्म है, जो सुविधाजनक बैकएंड और फ़्रंटएंड कस्टमाइज़ेशन की सुविधा देता है। अपने नॉलेज बेस, कस्टम एंडपॉइंट या चैट डेटा के मॉडल का इस्तेमाल करके चैटबॉट बनाएं। चैटबोट इंटरफ़ेस को कस्टमाइज़ करें और वाइट लेबलिंग का विकल्प चुनें। अतिरिक्त सुविधाओं में स्टैण्डर्ड या प्रोफ़ेशनल प्लान में लाइव चैट एस्केलेशन शामिल है।
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>के साथ आरंभ करें Chat Data</b></a>
+    <h4>AIApply: नौकरी खोजने वालों के लिए AI टूल, ताकि बेहतरीन एप्लीकेशन तैयार किया जा सके</h4>
+    <p>AIApply AI टूल का एक डायनामिक सूट है, जिसे नौकरी तलाशने वालों को सशक्त बनाने के लिए डिज़ाइन किया गया है। यह नौकरी की आवेदन प्रक्रिया को आसान बनाता है, रिज़्यूमे की गुणवत्ता को बढ़ाता है, साक्षात्कारों के लिए तैयार करता है और करियर के सबसे अच्छे अवसरों की पहचान करता है। AIApply नौकरी खोजने की रणनीतियों को वैयक्तिकृत करता है, यह सुनिश्चित करता है कि यूज़र प्रतिस्पर्धी बाज़ारों में अलग दिखें। यह उन लोगों के लिए ज़रूरी टूल है जो AI की मदद से अपने करियर की राह में तेज़ी लाना चाहते हैं।</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>के साथ आरंभ करें AiApply</b></a>
     <br />
 </div>
 
@@ -140,15 +134,31 @@ ApplyPass.com ने इंजीनियरों के लिए हज़�
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### Jovu by Amplication
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication">
+### AI Interview Answers Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-interview-answers-generator.webp" alt="AI Interview Answers Generator">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/jovu-by-amplication?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-interview-answers-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/ai-interview-answers-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Jovu by Amplication
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication">
+
+#### एकमात्र प्रॉडक्शन-तैयार AI-संचालित कोड जनरेशन
+
+
+[Visit](https://thataicollection.com/redirect/jovu-by-amplication?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+जोवू: एकमात्र AI प्लेटफ़ॉर्म, जो 4 मिनट में आइडिया को प्रोडक्शन-रेडी कोड में बदल देता है। अपने बैकएंड अनुप्रयोगों के डेवलपमेंट को स्वचालित करें, ताकि बड़े पैमाने पर बनाए गए कोड के साथ निरंतरता, पूर्वानुमान और उच्चतम मानकों का पालन किया जा सके।
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/jovu-by-amplication?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -241,23 +251,6 @@ AVCLabs Video Enhancer AI एक ऐसा सॉफ़्टवेयर है
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/avclabs-video-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### No-Code Scraper
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-no-code-scraper.webp" alt="No-Code Scraper">
-
-#### बस कुछ आसान इनपुट की मदद से किसी भी वेबसाइट से आसानी से डेटा निकाल सकते हैं।
-
-
-[Visit](https://thataicollection.com/redirect/no-code-scraper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-नो-कोड स्क्रेपर एक नो-कोड स्क्रैपिंग टूल है, जिसकी मदद से तुम्हेंं कोड लिखने या जटिल स्क्रिप्ट मैनेज किए बिना किसी भी वेबसाइट से आसानी से डेटा निकाला जा सकता है। बड़े भाषा मॉडल का इस्तेमाल करके, यह डेटा निकालने की प्रक्रिया को सरल बनाता है, जिससे यह सभी के लिए सुलभ हो जाता है।
-
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/no-code-scraper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3239,6 +3232,26 @@ MusicTGA-HR एक API सेवा है जो कॉन्टेंट ब�
 <br />
 
 
+### Dreampaint net
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreampaint.net_.webp" alt="Dreampaint net">
+
+#### DreamPaint.net - न्यूडिफ़ी और बुक्कके अपने आइडल
+
+
+[Visit](https://thataicollection.com/redirect/dreampaint-net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+DreamPaint.net छवियों को अनड्रेस करने के लिए सबसे एडवांस तकनीक का इस्तेमाल करता है।
+न्यूडिफ़ाई फंक्शन के अलावा, ड्रीमपेंट अन्य इफ़ेक्ट्स भी देता है जिन्हें इनपेंटिंग के ज़रिये तस्वीरों पर लागू किया जा सकता है।
+तुम बहुत बढ़िया परिणामों के साथ अपनी छवियों पर बुक्कके इफ़ेक्ट लागू कर सकते हो।
+यह पहली 10 छवियों के लिए मुफ़्त है और साइट जल्द ही नए इफ़ेक्ट पेश करने का वादा करती है।
+
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/dreampaint-net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Nextpart AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nextpart-ai_.webp" alt="Nextpart AI">
 
@@ -3317,22 +3330,6 @@ Undressbaby AI में, हम ग्रेज़ सीक्रेट रूम
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Sexy AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sexy-ai.webp" alt="Sexy AI">
-
-#### Sexy.AI के ज़रिए एक्सप्लोर करें और असीमित कामुक तस्वीरें बनाएं
-
-
-[Visit](https://thataicollection.com/redirect/sexy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Sexy.AI - बेहतरीन AI पोर्न जनरेटर। हेंताई, फ़री, रियलिस्टिक, LGBTQ+ और बहुत कुछ सहित अपनी गहरी कल्पनाओं को जीवंत करें। अभी जुड़ें और बेहतरीन पोर्न जनरेटर ऐक्सेस करें।
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/sexy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
