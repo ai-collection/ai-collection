@@ -57,26 +57,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
-    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
-
-ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
+    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
+    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
-    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
+    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
+    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
     <br />
 </div>
 
@@ -134,15 +132,31 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### BandoFacile
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bandofacile.webp" alt="BandoFacile">
+### HeiChat
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-heichat.webp" alt="HeiChat">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/bandofacile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/heichat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/heichat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### BandoFacile
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bandofacile.webp" alt="BandoFacile">
+
+#### Una solución para que las empresas y los consultores simplifiquen la financiación subvencionada gracias a la IA.
+
+
+[Visit](https://thataicollection.com/redirect/bandofacile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+BandoFacile es una innovadora herramienta en línea que simplifica en gran medida el proceso de participación en las licitaciones y solicitudes de financiación para empresas y consultores. Gracias a la inteligencia artificial avanzada, BandoFacile automatiza la recopilación de la documentación necesaria, lo que ahorra un tiempo valioso y mejora las posibilidades de éxito.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/bandofacile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -230,24 +244,6 @@ Busca trabajos en EE. UU. por palabras clave, ubicaciones, empleadores, salarios
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/jopilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Instafill
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-instafill.webp" alt="Instafill">
-
-#### Rellenar y validar formularios PDF con IA en segundos
-
-
-[Visit](https://thataicollection.com/redirect/instafill?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¿Te preocupa rellenar mal los formularios PDF?
-
-Rellena formularios PDF con nuestra herramienta en línea basada en inteligencia artificial. Simplemente sube cualquier formulario PDF rellenable, ya sea en blanco o prerellenado, y deja que nuestro rellenador de formularios PDF con IA garantice documentos precisos y sin errores en todo momento.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/instafill?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

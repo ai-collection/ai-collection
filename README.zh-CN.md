@@ -57,24 +57,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
-    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>开始使用 AiApply</b></a>
+    <h4>StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案</h4>
+    <p>StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>开始使用 StickerIt.AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
-    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>开始使用 Wordfixerbot</b></a>
+    <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
+    <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -132,15 +132,31 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### BandoFacile
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bandofacile.webp" alt="BandoFacile">
+### HeiChat
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-heichat.webp" alt="HeiChat">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/bandofacile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/heichat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/heichat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### BandoFacile
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bandofacile.webp" alt="BandoFacile">
+
+#### 借助人工智能，公司和顾问可以简化补贴融资的解决方案。
+
+
+[Visit](https://thataicollection.com/redirect/bandofacile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+BandoFacile是一种创新的在线工具，它极大地简化了公司和顾问参与投标和资金申请的流程。得益于先进的人工智能，BandoFacile可以自动编译必要的文档，从而节省宝贵的时间并提高成功的机会。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/bandofacile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -228,24 +244,6 @@ AI Job Copilot：您的个人智能求职助手！自动执行和优化狩猎，
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/jopilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Instafill
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-instafill.webp" alt="Instafill">
-
-#### 使用 AI 在几秒钟内填写和验证 PDF 表单
-
-
-[Visit](https://thataicollection.com/redirect/instafill?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-担心填写错误的 PDF 表单？
-
-使用我们的 AI 驱动的在线工具填写 PDF 表单。只需上传任何可填写的PDF表单，无论是空白的还是预先填写的，让我们的AI PDF表单填写器确保每次都准确、无错误的文档。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/instafill?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
