@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1596" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1605" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -67,12 +67,18 @@ Translations:
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
-    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It''s an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Get Started with AiApply</b></a>
+    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
+    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
     <br />
 </div>
 
@@ -142,6 +148,24 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Medidex Connect
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-medidex-connect.webp" alt="Medidex Connect">
+
+#### Medidex Connect a 24/7 online pharmacist chat service
+
+
+[Visit](https://thataicollection.com/redirect/medidex-connect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Medidex Connect - an AI chatbot for asking health and medication questions, integrated with real-life licensed pharmacists to review the AI-generated answers and provide more personalized information when required. 
+
+With Medidex Connect you can instantly submit a general health and medication question online to be sent to the pharmacist. 
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/medidex-connect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### AI Interview Answers Generator
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-interview-answers-generator.webp" alt="AI Interview Answers Generator">
 
@@ -243,22 +267,6 @@ This paraphrase generator ensures the accuracy of your writing. Just copy and pa
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/paraphrase-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AVCLabs Video Enhancer AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avclabs-video-enhancer-ai.webp" alt="AVCLabs Video Enhancer AI">
-
-#### AI Video Enhancer and Upscaler to Improve Video Quality
-
-
-[Visit](https://thataicollection.com/redirect/avclabs-video-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AVCLabs Video Enhancer AI is a software that utilizes AI-powered deep learning to enhance the quality of low-resolution and old video footage. The software can upscale videos to resolutions such as HD, 4K, and 8K, while maintaining superb quality and adding crisp, natural details. It also includes capabilities for denoising, sharpening, and color correction to ensure high-quality video output.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/avclabs-video-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1596" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1605" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -57,30 +57,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
-    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
+    <h4>Corporate Headshots AI : révolutionner les portraits d''entreprise grâce à l''IA</h4>
+    <p>Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l''IA transforme tes selfies en portraits élégants, conformes aux normes de l''entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Démarrer avec Corporate Headshots AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Rédigez le CV parfait avec l''aide de l''IA</h4>
-    <p>Tu n''as pas besoin d''être une rédactrice de CV professionnelle pour créer rapidement et facilement un CV qui reflète fidèlement ton expérience professionnelle. Le générateur de CV IA personnalisable de Hunter t''aidera à rédiger un CV bien rédigé et adapté aux ATS afin de décrocher plus d''entretiens.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Démarrer avec Huntr AI Resume Builder</b></a>
+    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
+    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
     <br />
 </div>
 
@@ -138,15 +132,31 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### AI Interview Answers Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-interview-answers-generator.webp" alt="AI Interview Answers Generator">
+### Medidex Connect
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-medidex-connect.webp" alt="Medidex Connect">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ai-interview-answers-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/medidex-connect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/medidex-connect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Interview Answers Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-interview-answers-generator.webp" alt="AI Interview Answers Generator">
+
+#### AI Interview Answers Generator-Ace, à ton prochain entretien
+
+
+[Visit](https://thataicollection.com/redirect/ai-interview-answers-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Le générateur de réponses aux entretiens d'embauche basé sur l'IA est un outil conçu pour aider les utilisateurs lors des entretiens d'embauche en fournissant des réponses en temps réel. Sa fonction principale est d'analyser et de comprendre les questions de l'intervieweur et de produire rapidement des réponses idéales sous forme de texte.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/ai-interview-answers-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -239,22 +249,6 @@ Ce générateur de paraphrases garantit la précision de ton écriture. Il te su
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/paraphrase-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AVCLabs Video Enhancer AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avclabs-video-enhancer-ai.webp" alt="AVCLabs Video Enhancer AI">
-
-#### Améliorateur et upscaler vidéo basés sur l'IA pour améliorer la qualité vidéo
-
-
-[Visit](https://thataicollection.com/redirect/avclabs-video-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AVCLabs Video Enhancer AI est un logiciel qui utilise l'apprentissage profond basé sur l'IA pour améliorer la qualité des séquences vidéo anciennes et en basse résolution. Le logiciel peut redimensionner les vidéos vers des résolutions telles que la HD, la 4K et la 8K, tout en conservant une qualité exceptionnelle et en ajoutant des détails nets et naturels. Il inclut également des fonctionnalités de réduction du bruit, d'amélioration de la netteté et de correction des couleurs afin de garantir une sortie v
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/avclabs-video-enhancer-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
