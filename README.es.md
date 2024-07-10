@@ -57,18 +57,6 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
-    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
@@ -77,6 +65,18 @@
 
 ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
     <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    </a>
+    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
+    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -134,15 +134,33 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Medidex Connect
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-medidex-connect.webp" alt="Medidex Connect">
+### BandoFacile
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bandofacile.webp" alt="BandoFacile">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/medidex-connect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/bandofacile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/bandofacile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Medidex Connect
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-medidex-connect.webp" alt="Medidex Connect">
+
+#### Medidex Connect, un servicio de chat con farmacéuticos en línea las 24 horas del día, los 7 días
+
+
+[Visit](https://thataicollection.com/redirect/medidex-connect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Medidex Connect: un chatbot de IA para hacer preguntas sobre salud y medicamentos, integrado con farmacéuticos con licencia real para revisar las respuestas generadas por la IA y proporcionar información más personalizada cuando es necesario. 
+
+Con Medidex Connect puedes enviar al instante una pregunta general sobre salud y medicamentos en línea para que se la envíen al farmacéutico. 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/medidex-connect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -230,27 +248,6 @@ Rellena formularios PDF con nuestra herramienta en línea basada en inteligencia
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/instafill?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Paraphrase X
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-paraphrase-x.webp" alt="Paraphrase X">
-
-#### ParaphraSex, la herramienta de paráfrasis basada en la IA líder del sector, ofrece una nueva redacción precisa con una precisión sin igual.
-
-
-[Visit](https://thataicollection.com/redirect/paraphrase-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Puedes parafrasear fácilmente en Internet con nuestra herramienta de paráfrasis basada en Alabama.
-
-ParaphraSex nos puede servir a muchos de nosotros. Si eres estudiante, bloguero o escritor, el plagio no será tu problema, ¡puedes concentrarte en crear contenido!
-
-Este generador de paráfrasis garantiza la precisión de tu escritura. Solo tienes que copiar y pegar el texto en la entrada y hacer clic en el botón de parafrasear ahora para empezar tu viaje de paráfrasis.
-
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/paraphrase-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
