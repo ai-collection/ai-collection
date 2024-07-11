@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1610" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1611" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -57,6 +57,18 @@
 <br>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    </a>
+    <h4>在 AI 的帮助下制作完美的简历</h4>
+    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -69,18 +81,6 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
-    </a>
-    <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
-    <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -138,15 +138,39 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
+### Dream Machine AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dream-machine-ai.webp" alt="Dream Machine AI">
+
+#### 梦想机器 AI！Dream Machine AI 使用 AI 快速从文本和图像中制作高质量、逼真的视频。
+
+
+[Visit](https://thataicollection.com/redirect/dream-machine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+梦想机器 AI！Dream Machine AI 使用 AI 快速从文本和图像中制作高质量、逼真的视频。
+💰 省钱：Dream Machine AI 可以在短短几分钟内快速生成高质量的视频，为您节省宝贵的时间和金钱。
+🚀 易于使用：Dream Machine AI Online 具有直观的界面，使具有不同视频创作体验的用户可以访问它们。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/dream-machine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### TexttoSpeech.im: Convert  Text to Speech Free Online
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-texttospeech-im-convert-text-to-speech-free-online.webp" alt="TexttoSpeech.im: Convert  Text to Speech Free Online">
 
-#### null
+#### 将文本转换为语音：快速、免费、50 种语言、8000 种语音
 
 
 [Visit](https://thataicollection.com/redirect/texttospeech-im-convert-text-to-speech-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-null
+🌍 50 种语言，8000 种声音
+我们支持 50 种语言和 8000 种独特语音，可满足您的需求。
+🆓 免费且无需登录
+TextoSpeech.im 完全免费供所有人使用。
+💼 商业用途
+拥有合成音频文件的 100% 版权，并将其用于任何合法目的，包括商业项目。
+
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/texttospeech-im-convert-text-to-speech-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,22 +257,6 @@ Jovu：唯一一个在 4 分钟内将想法转化为生产就绪代码的人工�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/jovu-by-amplication?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Packify.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-packify-ai.webp" alt="Packify.ai">
-
-#### 借助 AI 解锁创意、包装设计
-
-
-[Visit](https://thataicollection.com/redirect/packify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用我们的 AI 驱动的设计工具，告诉人工智能你对包装设计的想象，开启包装的未来，看看它能快速为你想出创意。此外，Packify 使您能够通过二次编辑进一步完善设计。你的设计，你的决定。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/packify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
