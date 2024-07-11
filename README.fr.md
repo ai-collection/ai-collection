@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1611" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1610" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -138,15 +138,31 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### AI Homework Helper - Apex Vision AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-azizhazim.webp" alt="AI Homework Helper - Apex Vision AI">
+### Artefacts.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bi-read.webp" alt="Artefacts.ai">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ai-homework-helper-apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/artefacts-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/artefacts-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Homework Helper - Apex Vision AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-azizhazim.webp" alt="AI Homework Helper - Apex Vision AI">
+
+#### Aide aux devoirs IA - Aide aux devoirs Apex Vision AI AI - Apex Vision AI
+
+
+[Visit](https://thataicollection.com/redirect/ai-homework-helper-apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Notre extension AI Homework Helper pour Chrome aide les étudiants à gérer facilement leurs devoirs à choix multiples et les questionnaires en fournissant des réponses précises et instantanées.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/ai-homework-helper-apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -241,22 +257,6 @@ Avec Medidex Connect, tu peux soumettre instantanément une question générale 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/medidex-connect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Interview Answers Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-interview-answers-generator.webp" alt="AI Interview Answers Generator">
-
-#### AI Interview Answers Generator-Ace, à ton prochain entretien
-
-
-[Visit](https://thataicollection.com/redirect/ai-interview-answers-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Le générateur de réponses aux entretiens d'embauche basé sur l'IA est un outil conçu pour aider les utilisateurs lors des entretiens d'embauche en fournissant des réponses en temps réel. Sa fonction principale est d'analyser et de comprendre les questions de l'intervieweur et de produire rapidement des réponses idéales sous forme de texte.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/ai-interview-answers-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

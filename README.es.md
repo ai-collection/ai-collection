@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1611" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1610" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -57,12 +57,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
-    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
+    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
+    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -132,15 +132,31 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### AI Homework Helper - Apex Vision AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-azizhazim.webp" alt="AI Homework Helper - Apex Vision AI">
+### Artefacts.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bi-read.webp" alt="Artefacts.ai">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ai-homework-helper-apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/artefacts-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/artefacts-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Homework Helper - Apex Vision AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-azizhazim.webp" alt="AI Homework Helper - Apex Vision AI">
+
+#### Ayudante de tareas con IA - Ayudante de tareas con IA de Apex Vision AI - Apex Vision AI
+
+
+[Visit](https://thataicollection.com/redirect/ai-homework-helper-apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nuestra extensión AI Homework Helper para Chrome ayuda a los estudiantes universitarios a gestionar fácilmente los deberes y cuestionarios de opción múltiple al proporcionar respuestas instantáneas y precisas.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/ai-homework-helper-apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -235,22 +251,6 @@ Con Medidex Connect puedes enviar al instante una pregunta general sobre salud y
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/medidex-connect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Interview Answers Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-interview-answers-generator.webp" alt="AI Interview Answers Generator">
-
-#### La entrevista de IA responde a Generator-Ace en tu próxima entrevista
-
-
-[Visit](https://thataicollection.com/redirect/ai-interview-answers-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-El generador de respuestas a entrevistas con IA es una herramienta diseñada para ayudar a los usuarios en las entrevistas de trabajo al proporcionarles una guía de respuestas en tiempo real. Su función principal es analizar y comprender las preguntas del entrevistador y producir rápidamente las respuestas ideales en formato de texto.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/ai-interview-answers-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

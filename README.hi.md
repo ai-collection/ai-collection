@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1611" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1610" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -57,24 +57,30 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>AIApply: नौकरी खोजने वालों के लिए AI टूल, ताकि बेहतरीन एप्लीकेशन तैयार किया जा सके</h4>
-    <p>AIApply AI टूल का एक डायनामिक सूट है, जिसे नौकरी तलाशने वालों को सशक्त बनाने के लिए डिज़ाइन किया गया है। यह नौकरी की आवेदन प्रक्रिया को आसान बनाता है, रिज़्यूमे की गुणवत्ता को बढ़ाता है, साक्षात्कारों के लिए तैयार करता है और करियर के सबसे अच्छे अवसरों की पहचान करता है। AIApply नौकरी खोजने की रणनीतियों को वैयक्तिकृत करता है, यह सुनिश्चित करता है कि यूज़र प्रतिस्पर्धी बाज़ारों में अलग दिखें। यह उन लोगों के लिए ज़रूरी टूल है जो AI की मदद से अपने करियर की राह में तेज़ी लाना चाहते हैं।</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>के साथ आरंभ करें AiApply</b></a>
+    <h4>24/7 कस्टम AI चैटबोट और लाइव चैट एस्केलेशन</h4>
+    <p>चैट डेटा एक AI चैटबॉट प्लेटफ़ॉर्म है, जो सुविधाजनक बैकएंड और फ़्रंटएंड कस्टमाइज़ेशन की सुविधा देता है। अपने नॉलेज बेस, कस्टम एंडपॉइंट या चैट डेटा के मॉडल का इस्तेमाल करके चैटबॉट बनाएं। चैटबोट इंटरफ़ेस को कस्टमाइज़ करें और वाइट लेबलिंग का विकल्प चुनें। अतिरिक्त सुविधाओं में स्टैण्डर्ड या प्रोफ़ेशनल प्लान में लाइव चैट एस्केलेशन शामिल है।
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>के साथ आरंभ करें Chat Data</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>एकमात्र प्रॉडक्शन-तैयार AI-संचालित कोड जनरेशन</h4>
-    <p>जोवू: एकमात्र AI प्लेटफ़ॉर्म, जो 4 मिनट में आइडिया को प्रोडक्शन-रेडी कोड में बदल देता है। अपने बैकएंड अनुप्रयोगों के डेवलपमेंट को स्वचालित करें, ताकि बड़े पैमाने पर बनाए गए कोड के साथ निरंतरता, पूर्वानुमान और उच्चतम मानकों का पालन किया जा सके।</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>के साथ आरंभ करें Jovu by Amplication</b></a>
+    <h4>पैराफ़्रेसिंग टूल - सर्वश्रेष्ठ मुफ़्त ऑनलाइन पैराफ़्रेज़र - Wordfixerbot</h4>
+    <p>WordFixerBot का पैराफ़्रेसिंग टूल किसी भी टेक्स्ट, वाक्य, लेख, पैराग्राफ, पेपर या दस्तावेज़ों को तुरंत और सटीक तरीके से फिर से लिखने में तुम्हारी मदद करने के लिए एकदम सही टूल है। अभी शुरू करो और अपने लेखन को सबसे अलग बनाओ!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>के साथ आरंभ करें Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -132,15 +138,31 @@
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### AI Homework Helper - Apex Vision AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-azizhazim.webp" alt="AI Homework Helper - Apex Vision AI">
+### Artefacts.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bi-read.webp" alt="Artefacts.ai">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ai-homework-helper-apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/artefacts-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/artefacts-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Homework Helper - Apex Vision AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-azizhazim.webp" alt="AI Homework Helper - Apex Vision AI">
+
+#### एआई होमवर्क हेल्पर - एपेक्स विज़न एआई होमवर्क हेल्पर - एपेक्स विज़न एआई
+
+
+[Visit](https://thataicollection.com/redirect/ai-homework-helper-apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+हमारा AI Homework Helper Chrome एक्सटेंशन कॉलेज के छात्रों को तुरंत, सटीक उत्तर देकर बहुविकल्पीय होमवर्क और क्विज़ को आसानी से हैंडल करने में मदद करता है।
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/ai-homework-helper-apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -235,22 +257,6 @@ Medidex Connect की मदद से तुम फ़ॉर्मासिस
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/medidex-connect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Interview Answers Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-interview-answers-generator.webp" alt="AI Interview Answers Generator">
-
-#### एआई इंटरव्यू आंसर जेनरेटर-ऐस तुम्हारा अगला इंटरव्यू
-
-
-[Visit](https://thataicollection.com/redirect/ai-interview-answers-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-एआई इंटरव्यू आंसर जेनरेटर एक टूल है, जिसे यूज़र को नौकरी के इंटरव्यू में मदद करने के लिए डिज़ाइन किया गया है, ताकि रियल-टाइम में उत्तर मार्गदर्शन प्रदान किया जा सके। इसका प्राथमिक कार्य साक्षात्कारकर्ता के सवालों का विश्लेषण करना और उन्हें समझना और टेक्स्ट फ़ॉर्मेट में तुरंत आदर्श प्रतिक्रियाएँ देना है।
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/ai-interview-answers-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
