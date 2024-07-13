@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1610" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1614" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -57,30 +57,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
-    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
+    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
+    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
-    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
+    <h4>La seule génération de code basée sur l'IA prête pour la production</h4>
+    <p>Jovu : la seule plateforme d'IA qui transforme les idées en code prêt à être produit en 4 minutes. Automatisez le développement de tes applications dorsales, en garantissant la cohérence, la prévisibilité et le respect des normes les plus strictes grâce à un code conçu pour évoluer.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Démarrer avec Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -138,15 +132,31 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Compass
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-compass.webp" alt="Compass">
+### NoteVocal
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-notevocal.webp" alt="NoteVocal">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/compass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/notevocal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/notevocal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Compass
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-compass.webp" alt="Compass">
+
+#### Réponses basées sur l'IA aux questions de recherche sur le SaaS
+
+
+[Visit](https://thataicollection.com/redirect/compass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Compass est un chatbot basé sur l'IA qui répond aux questions grâce à des expériences authentiques et de première main, en utilisant des données que l'on ne trouve nulle part ailleurs en ligne. 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/compass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -241,22 +251,6 @@ Heichat peut proposer des réponses dans plus de 90 langues sans avoir besoin de
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/heichat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### BandoFacile
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bandofacile.webp" alt="BandoFacile">
-
-#### Une solution destinée aux entreprises et aux consultants afin de simplifier le financement subventionné grâce à l'IA.
-
-
-[Visit](https://thataicollection.com/redirect/bandofacile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-BandoFacile est un outil en ligne innovant qui simplifie considérablement le processus de participation aux appels d'offres et aux demandes de financement pour les entreprises et les consultants. Grâce à une intelligence artificielle avancée, BandoFacile automatise la compilation de la documentation nécessaire, ce qui permet de gagner un temps précieux et d'améliorer les chances de succès.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/bandofacile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3220,24 +3214,6 @@ Amadeus Topline est une application de composition basée sur l''IA pour tous le
 ---
 
 ## NSFW - Copines nudifiées et IA
-### Unclothy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unclothy_.webp" alt="Unclothy">
-
-#### Unclothy est un outil révolutionnaire qui exploite la technologie de l'IA pour transformer des images en nu rapidement et à moindre coût.
-
-
-[Visit](https://thataicollection.com/redirect/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cette plateforme est conçue pour être facile à utiliser et permet à tous, des passionnés d'IA aux utilisateurs occasionnels, de retirer des vêtements des images en quelques clics. Plongez dans un monde où les possibilités créatives sont infinies avec Unclothy.
-
-L'interface est conviviale, ce qui te permet de naviguer facilement et de créer des images nues de haute qualité en toute simplicité.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Dreampaint net
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreampaint.net_.webp" alt="Dreampaint net">
 
@@ -3254,6 +3230,24 @@ Les 10 premières images sont gratuites et le site promet de proposer bientôt d
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/dreampaint-net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Unclothy
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unclothy_.webp" alt="Unclothy">
+
+#### Unclothy est un outil révolutionnaire qui exploite la technologie de l'IA pour transformer des images en nu rapidement et à moindre coût.
+
+
+[Visit](https://thataicollection.com/redirect/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Cette plateforme est conçue pour être facile à utiliser et permet à tous, des passionnés d'IA aux utilisateurs occasionnels, de retirer des vêtements des images en quelques clics. Plongez dans un monde où les possibilités créatives sont infinies avec Unclothy.
+
+L'interface est conviviale, ce qui te permet de naviguer facilement et de créer des images nues de haute qualité en toute simplicité.
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1610" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1614" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -67,24 +67,24 @@ Translations:
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
-    </a>
-    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
-    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
     <h4>Corporate Headshots AI: Revolutionizing Corporate Portraits with AI</h4>
     <p>Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.</p>
     <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Get Started with Corporate Headshots AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
+    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It''s an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Get Started with AiApply</b></a>
     <br />
 </div>
 
@@ -142,6 +142,24 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### NoteVocal
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-notevocal.webp" alt="NoteVocal">
+
+#### NoteVocal is the audio transcription app for busy content creators
+
+
+[Visit](https://thataicollection.com/redirect/notevocal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+NoteVocal is an audio transcription app utilizing the OpenAI Whisper API. Users can either upload audio files of up to 25MB or directly record themselves in the browser of their choice.
+50+ custom styles are available – more being added daily (or choose your own). Export notes to WhatsApp, as a PDF, or via Notion.  
+
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/notevocal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Compass
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-compass.webp" alt="Compass">
 
@@ -245,22 +263,6 @@ Heichat can support responses in 90+ languages without the need for configuratio
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/heichat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### BandoFacile
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bandofacile.webp" alt="BandoFacile">
-
-#### A solution for companies and consultants to simplify subsidized finance thanks to AI.
-
-
-[Visit](https://thataicollection.com/redirect/bandofacile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-BandoFacile is an innovative online tool that greatly simplifies the process of participating in tenders and funding applications for companies and consultants. Thanks to advanced artificial intelligence, BandoFacile automates the compilation of the necessary documentation, saving valuable time and improving the chances of success.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/bandofacile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3224,24 +3226,6 @@ Amadeus Topline is an AI-powered composing app for every creator. AI creates you
 ---
 
 ## NSFW - Nudify & AI Girlfriends
-### Unclothy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unclothy_.webp" alt="Unclothy">
-
-#### Unclothy is a groundbreaking tool that harnesses AI technology to transform images into nude quickly and affordably.
-
-
-[Visit](https://thataicollection.com/redirect/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-This platform is designed for ease of use, allowing anyone, from AI enthusiasts to casual users, to remove clothing from images with just a few simple clicks. Dive into a world where creative possibilities are endless with Unclothy.
-
-The interface is user-friendly, making it straightforward for you to navigate and create high-quality nude images without any hassle.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Dreampaint net
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreampaint.net_.webp" alt="Dreampaint net">
 
@@ -3258,6 +3242,24 @@ It''s free for the first 10 images and the site promises to introduce new effect
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/dreampaint-net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Unclothy
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unclothy_.webp" alt="Unclothy">
+
+#### Unclothy is a groundbreaking tool that harnesses AI technology to transform images into nude quickly and affordably.
+
+
+[Visit](https://thataicollection.com/redirect/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+This platform is designed for ease of use, allowing anyone, from AI enthusiasts to casual users, to remove clothing from images with just a few simple clicks. Dive into a world where creative possibilities are endless with Unclothy.
+
+The interface is user-friendly, making it straightforward for you to navigate and create high-quality nude images without any hassle.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

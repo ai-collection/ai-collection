@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1610" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1614" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -57,14 +57,18 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
-    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
+    <h4>Chatbot de IA personalizado las 24 horas del día, los 7 días de la semana, más escalación</h4>
+    <p>Chat Data es una plataforma de chatbots de IA que ofrece una personalización flexible de backend y frontend. Crea chatbots con tu base de conocimientos, puntos finales personalizados o los modelos de Chat Data. Personaliza la interfaz del chatbot y opta por la etiqueta blanca. Las funciones adicionales incluyen la escalación del chat en vivo en los planes estándar o profesionales.
 
-ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
     <br />
 </div>
 
@@ -134,15 +138,31 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Compass
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-compass.webp" alt="Compass">
+### NoteVocal
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-notevocal.webp" alt="NoteVocal">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/compass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/notevocal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/notevocal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Compass
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-compass.webp" alt="Compass">
+
+#### Respuestas impulsadas por la IA a las preguntas de investigación sobre SaaS
+
+
+[Visit](https://thataicollection.com/redirect/compass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Compass es un chatbot de IA que responde a las preguntas con experiencias auténticas y de primera mano, utilizando datos que no puedes encontrar en ningún otro lugar de Internet. 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/compass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -237,22 +257,6 @@ Heichat admite respuestas en más de 90 idiomas sin necesidad de configuración.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/heichat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### BandoFacile
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bandofacile.webp" alt="BandoFacile">
-
-#### Una solución para que las empresas y los consultores simplifiquen la financiación subvencionada gracias a la IA.
-
-
-[Visit](https://thataicollection.com/redirect/bandofacile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-BandoFacile es una innovadora herramienta en línea que simplifica en gran medida el proceso de participación en las licitaciones y solicitudes de financiación para empresas y consultores. Gracias a la inteligencia artificial avanzada, BandoFacile automatiza la recopilación de la documentación necesaria, lo que ahorra un tiempo valioso y mejora las posibilidades de éxito.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/bandofacile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3215,24 +3219,6 @@ Amadeus Topline es una aplicación de composición basada en la IA para todos lo
 ---
 
 ## NSFW - Novias desnudas e inteligencia artificial
-### Unclothy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unclothy_.webp" alt="Unclothy">
-
-#### Unclothy es una herramienta innovadora que aprovecha la tecnología de la inteligencia artificial para transformar imágenes en desnudos de forma rápida y asequible.
-
-
-[Visit](https://thataicollection.com/redirect/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Esta plataforma está diseñada para facilitar su uso y permite a cualquier persona, desde entusiastas de la IA hasta usuarios ocasionales, quitar ropa de las imágenes con unos pocos clics. Sumérgete en un mundo en el que las posibilidades creativas son infinitas con Unclothy.
-
-La interfaz es fácil de usar, lo que facilita la navegación y la creación de imágenes de desnudos de alta calidad sin problemas.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Dreampaint net
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreampaint.net_.webp" alt="Dreampaint net">
 
@@ -3249,6 +3235,24 @@ Las 10 primeras imágenes son gratis y el sitio promete introducir nuevos efecto
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/dreampaint-net?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Unclothy
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unclothy_.webp" alt="Unclothy">
+
+#### Unclothy es una herramienta innovadora que aprovecha la tecnología de la inteligencia artificial para transformar imágenes en desnudos de forma rápida y asequible.
+
+
+[Visit](https://thataicollection.com/redirect/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Esta plataforma está diseñada para facilitar su uso y permite a cualquier persona, desde entusiastas de la IA hasta usuarios ocasionales, quitar ropa de las imágenes con unos pocos clics. Sumérgete en un mundo en el que las posibilidades creativas son infinitas con Unclothy.
+
+La interfaz es fácil de usar, lo que facilita la navegación y la creación de imágenes de desnudos de alta calidad sin problemas.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
