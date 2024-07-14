@@ -57,24 +57,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
-    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
+    <h4>La única generación de código basada en IA lista para producción</h4>
+    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
-    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
+    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
+    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -132,15 +132,31 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Free Face Swap
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-face-swap.webp" alt="Free Face Swap">
+### Bliro
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bliro.webp" alt="Bliro">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/free-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/bliro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/bliro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Free Face Swap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-face-swap.webp" alt="Free Face Swap">
+
+#### La mejor herramienta de intercambio de rostros en línea 100% gratuita.
+
+
+[Visit](https://thataicollection.com/redirect/free-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nuestra herramienta de intercambio de rostros con IA facilita el intercambio de rostros sin problemas, ya sea que te pongas gafas de sol o navegues con una iluminación complicada. No deja ningún rastro de edición, lo que garantiza un resultado realista.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/free-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -228,22 +244,6 @@ Artefacts.ai proporciona a los usuarios modelos del AIGC, herramientas de diseñ
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/artefacts-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Homework Helper - Apex Vision AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-azizhazim.webp" alt="AI Homework Helper - Apex Vision AI">
-
-#### Ayudante de tareas con IA - Ayudante de tareas con IA de Apex Vision AI - Apex Vision AI
-
-
-[Visit](https://thataicollection.com/redirect/ai-homework-helper-apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nuestra extensión AI Homework Helper para Chrome ayuda a los estudiantes universitarios a gestionar fácilmente los deberes y cuestionarios de opción múltiple al proporcionar respuestas instantáneas y precisas.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/ai-homework-helper-apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

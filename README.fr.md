@@ -57,12 +57,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>StickerIt.AI | Solution mobile de création et de vente d'autocollants basée sur l'IA #1</h4>
-    <p>StickerIt.AI est ta meilleure solution pour créer et vendre des autocollants alimentés par l'IA directement depuis ton appareil mobile. Transforme n'importe quel lieu en un atelier d'autocollants dynamique. Avec seulement deux tablettes et une imprimante, tu peux commencer à vendre des autocollants personnalisés en quelques minutes. Notre plateforme est conçue pour gérer ton activité d'autocollants IA à tout moment et en tout lieu.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Démarrer avec StickerIt.AI</b></a>
+    <h4>Rédigez le CV parfait avec l''aide de l''IA</h4>
+    <p>Tu n''as pas besoin d''être une rédactrice de CV professionnelle pour créer rapidement et facilement un CV qui reflète fidèlement ton expérience professionnelle. Le générateur de CV IA personnalisable de Hunter t''aidera à rédiger un CV bien rédigé et adapté aux ATS afin de décrocher plus d''entretiens.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Démarrer avec Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -132,15 +132,31 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Free Face Swap
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-face-swap.webp" alt="Free Face Swap">
+### Bliro
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bliro.webp" alt="Bliro">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/free-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/bliro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/bliro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Free Face Swap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-face-swap.webp" alt="Free Face Swap">
+
+#### Le meilleur outil d'échange de visages en ligne 100 % gratuit.
+
+
+[Visit](https://thataicollection.com/redirect/free-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Notre outil d'échange de visages basé sur l'IA permet d'échanger facilement des visages, qu'il s'agisse d'ajouter des lunettes de soleil ou de naviguer dans des conditions d'éclairage difficiles. Il ne laisse aucune trace de montage, ce qui garantit un résultat réaliste.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/free-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -228,22 +244,6 @@ Artefacts.ai fournit aux utilisateurs des modèles AIGC de haute qualité, des o
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/artefacts-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Homework Helper - Apex Vision AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-azizhazim.webp" alt="AI Homework Helper - Apex Vision AI">
-
-#### Aide aux devoirs IA - Aide aux devoirs Apex Vision AI AI - Apex Vision AI
-
-
-[Visit](https://thataicollection.com/redirect/ai-homework-helper-apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Notre extension AI Homework Helper pour Chrome aide les étudiants à gérer facilement leurs devoirs à choix multiples et les questionnaires en fournissant des réponses précises et instantanées.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/ai-homework-helper-apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
