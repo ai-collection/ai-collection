@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1614" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1620" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -57,18 +57,14 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>24/7 कस्टम AI चैटबोट और लाइव चैट एस्केलेशन</h4>
-    <p>चैट डेटा एक AI चैटबॉट प्लेटफ़ॉर्म है, जो सुविधाजनक बैकएंड और फ़्रंटएंड कस्टमाइज़ेशन की सुविधा देता है। अपने नॉलेज बेस, कस्टम एंडपॉइंट या चैट डेटा के मॉडल का इस्तेमाल करके चैटबॉट बनाएं। चैटबोट इंटरफ़ेस को कस्टमाइज़ करें और वाइट लेबलिंग का विकल्प चुनें। अतिरिक्त सुविधाओं में स्टैण्डर्ड या प्रोफ़ेशनल प्लान में लाइव चैट एस्केलेशन शामिल है।
+    <h4>हमारे जॉब एप्लीकेशन एआई की मदद से अपने लिए आदर्श नौकरी पाओ। हर हफ़्ते सैंकड़ों इंजीनियरिंग नौकरियों पर स्वचालित रूप से आवेदन करो! 100 मुफ़्त ऐप्लिकेशन पाने के लिए ApplyPass से जुड़ें।</h4>
+    <p>ApplyPass एक AI-संचालित जॉब सर्च टूल है, जिससे तुम्हेंं नौकरी के लिए ज़्यादा इंटरव्यू मिलते हैं। ApplyPass तुम्हारी ओर से हर महीने 200-400 अनुकूलित नौकरी के लिए आवेदन सबमिट करता है। यह टूल नौकरी के पहले 100 आवेदन मुफ़्त में देता है।
 
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>के साथ आरंभ करें Chat Data</b></a>
+ApplyPass.com ने इंजीनियरों के लिए हज़ारों इंटरव्यू तैयार किए हैं, जिनका औसत रिस्पांस रेट इंडस्ट्री के औसत से 40% ज्यादा है।</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>के साथ आरंभ करें ApplyPass</b></a>
     <br />
 </div>
 
@@ -138,15 +134,33 @@
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### NoteVocal
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-notevocal.webp" alt="NoteVocal">
+### Dad Can't Draw
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dad-cant-draw.webp" alt="Dad Can't Draw">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/notevocal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/dad-cant-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/dad-cant-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### NoteVocal
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-notevocal.webp" alt="NoteVocal">
+
+#### NoteVocal व्यस्त कॉन्टेंट बनाने वालों के लिए ऑडियो ट्रांसक्रिप्शन ऐप है
+
+
+[Visit](https://thataicollection.com/redirect/notevocal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+NoteVocal एक ऑडियो ट्रांसक्रिप्शन ऐप है जो OpenAI Whisper API का इस्तेमाल करता है। यूज़र या तो 25MB तक की ऑडियो फ़ाइलें अपलोड कर सकते हैं या सीधे अपनी पसंद के ब्राउज़र में खुद को रिकॉर्ड कर सकते हैं।
+50+ कस्टम स्टाइल उपलब्ध हैं — और रोज़ाना जोड़े जा रहे हैं (या अपना खुद का चुनें)। WhatsApp पर, PDF के तौर पर, या Notion के ज़रिए नोट्स एक्सपोर्ट करें।  
+
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/notevocal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -240,23 +254,6 @@ TextToSpeech.im हर किसी के इस्तेमाल के ल�
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/texttospeech-im-convert-text-to-speech-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### HeiChat
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-heichat.webp" alt="HeiChat">
-
-#### हीचैट: ईकामर्स के लिए एडवांस एआई चैटबॉट
-
-
-[Visit](https://thataicollection.com/redirect/heichat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HeiChat एक सेल्स चैटबॉट है जिसे ख़ास तौर पर ईकामर्स साइटों के लिए डिज़ाइन किया गया है, जो GPT (GPT-3.5 और GPT-4) और क्लाउड 3 AI मॉडल पर आधारित है।
-हाइचैट बिना कॉन्फ़िगरेशन के 90+ भाषाओं में प्रतिक्रियाओं का समर्थन कर सकता है। यह छूटों, स्टोर नीतियों, शिपिंग नीतियों, आदि से संबंधित सवालों के जवाब देकर सीधे मानव ग्राहक सेवा की जगह लेता है। 
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/heichat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

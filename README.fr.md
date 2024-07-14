@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1614" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1620" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -69,12 +69,14 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>La seule génération de code basée sur l'IA prête pour la production</h4>
-    <p>Jovu : la seule plateforme d'IA qui transforme les idées en code prêt à être produit en 4 minutes. Automatisez le développement de tes applications dorsales, en garantissant la cohérence, la prévisibilité et le respect des normes les plus strictes grâce à un code conçu pour évoluer.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Démarrer avec Jovu by Amplication</b></a>
+    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
+    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
+
+ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
     <br />
 </div>
 
@@ -132,15 +134,33 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### NoteVocal
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-notevocal.webp" alt="NoteVocal">
+### Dad Can't Draw
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dad-cant-draw.webp" alt="Dad Can't Draw">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/notevocal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/dad-cant-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/dad-cant-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### NoteVocal
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-notevocal.webp" alt="NoteVocal">
+
+#### NoteVocal est l'application de transcription audio destinée aux créateurs de contenu très actifs
+
+
+[Visit](https://thataicollection.com/redirect/notevocal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+NoteVocal est une application de transcription audio qui utilise l'API OpenAI Whisper. Les utilisateurs peuvent soit télécharger des fichiers audio d'une taille maximale de 25 Mo, soit s'enregistrer directement dans le navigateur de leur choix.
+Plus de 50 styles personnalisés sont disponibles, d'autres étant ajoutés tous les jours (ou choisis le tien). Exporte des notes vers WhatsApp, au format PDF ou via Notion.  
+
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/notevocal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -234,23 +254,6 @@ Possède les droits d'auteur à 100 % de tes fichiers audio synthétisés et ut
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/texttospeech-im-convert-text-to-speech-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### HeiChat
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-heichat.webp" alt="HeiChat">
-
-#### HeiChat : chatbot IA avancé pour le commerce électronique
-
-
-[Visit](https://thataicollection.com/redirect/heichat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HeiChat est un chatbot de vente spécialement conçu pour les sites de commerce électronique, basé sur les modèles d'IA GPT (GPT-3.5 et GPT-4) et Claude 3.
-Heichat peut proposer des réponses dans plus de 90 langues sans avoir besoin de configuration. Il remplace directement le service client humain en répondant aux questions concernant les remises, les politiques des magasins, les politiques d'expédition, etc. 
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/heichat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
