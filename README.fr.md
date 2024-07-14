@@ -57,30 +57,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>La seule génération de code basée sur l'IA prête pour la production</h4>
-    <p>Jovu : la seule plateforme d'IA qui transforme les idées en code prêt à être produit en 4 minutes. Automatisez le développement de tes applications dorsales, en garantissant la cohérence, la prévisibilité et le respect des normes les plus strictes grâce à un code conçu pour évoluer.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Démarrer avec Jovu by Amplication</b></a>
+    <h4>StickerIt.AI | Solution mobile de création et de vente d'autocollants basée sur l'IA #1</h4>
+    <p>StickerIt.AI est ta meilleure solution pour créer et vendre des autocollants alimentés par l'IA directement depuis ton appareil mobile. Transforme n'importe quel lieu en un atelier d'autocollants dynamique. Avec seulement deux tablettes et une imprimante, tu peux commencer à vendre des autocollants personnalisés en quelques minutes. Notre plateforme est conçue pour gérer ton activité d'autocollants IA à tout moment et en tout lieu.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Démarrer avec StickerIt.AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
-    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
+    <h4>La seule génération de code basée sur l'IA prête pour la production</h4>
+    <p>Jovu : la seule plateforme d'IA qui transforme les idées en code prêt à être produit en 4 minutes. Automatisez le développement de tes applications dorsales, en garantissant la cohérence, la prévisibilité et le respect des normes les plus strictes grâce à un code conçu pour évoluer.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Démarrer avec Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -138,15 +132,31 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### iVu Ai-Powered Conversational Search Engine
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ivu-ai-powered-conversational-search-engine.webp" alt="iVu Ai-Powered Conversational Search Engine">
+### Free Face Swap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-face-swap.webp" alt="Free Face Swap">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ivu-ai-powered-conversational-search-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/free-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/free-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### iVu Ai-Powered Conversational Search Engine
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ivu-ai-powered-conversational-search-engine.webp" alt="iVu Ai-Powered Conversational Search Engine">
+
+#### iVu.Ai est un moteur de recherche conversationnel piloté par IA qui fournit des réponses précises et détaillées à l'aide d'algorithmes avancés de traitement du langage naturel (NLP) et d'apprentissage automatique.
+
+
+[Visit](https://thataicollection.com/redirect/ivu-ai-powered-conversational-search-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+iVu.Ai est un moteur de recherche conversationnel piloté par IA qui fournit des réponses précises et détaillées à l'aide d'algorithmes avancés de traitement du langage naturel (NLP) et d'apprentissage automatique. Il effectue des recherches approfondies sur Internet, contextualise les informations et fournit des réponses claires et sourcées. Au-delà de la recherche, iVu.Ai peut extraire des données à partir d'URL, générer des images et inclut un module chatbot. 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/ivu-ai-powered-conversational-search-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -234,24 +244,6 @@ Notre extension AI Homework Helper pour Chrome aide les étudiants à gérer fac
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/ai-homework-helper-apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Dream Machine AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dream-machine-ai.webp" alt="Dream Machine AI">
-
-#### L'IA de Dream Machine ! Dream Machine AI crée rapidement des vidéos réalistes de haute qualité à partir de texte et d'images grâce à l'IA.
-
-
-[Visit](https://thataicollection.com/redirect/dream-machine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-L'IA de Dream Machine ! Dream Machine AI crée rapidement des vidéos réalistes de haute qualité à partir de texte et d'images grâce à l'IA.
-💰 Économies d'argent : Dream Machine AI peut générer rapidement des vidéos de haute qualité en quelques minutes, ce qui te permet d'économiser du temps et de l'argent.
-🚀 Facile à utiliser : Dream Machine AI Online possède des interfaces intuitives, qui les rendent accessibles aux utilisateurs ayant différents niveaux d'expérience en matière de création vidéo.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/dream-machine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

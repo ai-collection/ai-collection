@@ -57,24 +57,30 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
-    <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
+    <h4>全天候自定义 AI 聊天机器人加上实时聊天升级</h4>
+    <p>Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案</h4>
-    <p>StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>开始使用 StickerIt.AI</b></a>
+    <h4>在 AI 的帮助下制作完美的简历</h4>
+    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -132,15 +138,31 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### iVu Ai-Powered Conversational Search Engine
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ivu-ai-powered-conversational-search-engine.webp" alt="iVu Ai-Powered Conversational Search Engine">
+### Free Face Swap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-face-swap.webp" alt="Free Face Swap">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ivu-ai-powered-conversational-search-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/free-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/free-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### iVu Ai-Powered Conversational Search Engine
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ivu-ai-powered-conversational-search-engine.webp" alt="iVu Ai-Powered Conversational Search Engine">
+
+#### iVu.Ai 是一个人工智能驱动的对话式搜索引擎，使用高级自然语言处理 (NLP) 和机器学习算法提供准确而详细的答案。
+
+
+[Visit](https://thataicollection.com/redirect/ivu-ai-powered-conversational-search-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+iVu.Ai 是一个人工智能驱动的对话式搜索引擎，使用高级自然语言处理 (NLP) 和机器学习算法提供准确而详细的答案。它深入搜索互联网，将信息情境化，并提供清晰、有来源的回应。除了搜索之外，iVu.Ai 还可以从 URL 中抓取数据、生成图像，并包含聊天机器人模块。 
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/ivu-ai-powered-conversational-search-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -228,24 +250,6 @@ Artefacts.ai 为用户提供高质量的 AIGC 模型、设计工具、模型资�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-homework-helper-apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Dream Machine AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dream-machine-ai.webp" alt="Dream Machine AI">
-
-#### 梦想机器 AI！Dream Machine AI 使用 AI 快速从文本和图像中制作高质量、逼真的视频。
-
-
-[Visit](https://thataicollection.com/redirect/dream-machine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-梦想机器 AI！Dream Machine AI 使用 AI 快速从文本和图像中制作高质量、逼真的视频。
-💰 省钱：Dream Machine AI 可以在短短几分钟内快速生成高质量的视频，为您节省宝贵的时间和金钱。
-🚀 易于使用：Dream Machine AI Online 具有直观的界面，使具有不同视频创作体验的用户可以访问它们。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/dream-machine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -57,24 +57,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
-    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
+    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
+    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
-    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
+    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
+    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -132,15 +132,31 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### iVu Ai-Powered Conversational Search Engine
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ivu-ai-powered-conversational-search-engine.webp" alt="iVu Ai-Powered Conversational Search Engine">
+### Free Face Swap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-face-swap.webp" alt="Free Face Swap">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ivu-ai-powered-conversational-search-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/free-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/free-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### iVu Ai-Powered Conversational Search Engine
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ivu-ai-powered-conversational-search-engine.webp" alt="iVu Ai-Powered Conversational Search Engine">
+
+#### iVu.Ai es un motor de búsqueda conversacional basado en la IA que ofrece respuestas precisas y detalladas mediante algoritmos avanzados de procesamiento del lenguaje natural (PNL) y aprendizaje automático.
+
+
+[Visit](https://thataicollection.com/redirect/ivu-ai-powered-conversational-search-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+iVu.Ai es un motor de búsqueda conversacional basado en la IA que ofrece respuestas precisas y detalladas mediante algoritmos avanzados de procesamiento del lenguaje natural (PNL) y aprendizaje automático. Busca en profundidad en Internet, contextualiza la información y proporciona respuestas claras y basadas en fuentes. Más allá de la búsqueda, iVu.Ai puede extraer datos de las URL, generar imágenes e incluye un módulo de chatbot. 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/ivu-ai-powered-conversational-search-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -228,24 +244,6 @@ Nuestra extensión AI Homework Helper para Chrome ayuda a los estudiantes univer
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/ai-homework-helper-apex-vision-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Dream Machine AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dream-machine-ai.webp" alt="Dream Machine AI">
-
-#### ¡IA de Dream Machine! La IA de Dream Machine crea vídeos realistas y de alta calidad rápidamente a partir de texto e imágenes con IA.
-
-
-[Visit](https://thataicollection.com/redirect/dream-machine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¡IA de Dream Machine! La IA de Dream Machine crea vídeos realistas y de alta calidad rápidamente a partir de texto e imágenes con IA.
-💰 Ahorra dinero: la IA de Dream Machine puede generar rápidamente vídeos de alta calidad en cuestión de minutos, lo que te permite ahorrar tiempo y dinero valiosos.
-🚀 Fácil de usar: Dream Machine AI Online tiene interfaces intuitivas que las hacen accesibles para los usuarios con diferentes niveles de experiencia en la creación de vídeos.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/dream-machine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
