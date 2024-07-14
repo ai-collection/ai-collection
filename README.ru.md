@@ -57,24 +57,26 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
-    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
+    <h4>AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения</h4>
+    <p>AiApply — это динамичный набор инструментов искусственного интеллекта, разработанный для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявления о приеме на работу, повышает качество резюме, готовит к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, обеспечивая пользователям возможность выделиться на конкурентных рынках. Это важный инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интел</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Начать работу с AiApply</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 Мобильное решение для дизайна и продажи стикеров на базе искусственного интеллекта</h4>
-    <p>StickerIt.AI — это ваше лучшее решение для создания и продажи стикеров на базе искусственного интеллекта прямо с вашего мобильного устройства. Превратите любое место в яркую мастерскую по стикерам. Имея всего два планшета и принтер, вы можете начать продавать наклейки, изготовленные на заказ, за считанные минуты. Наша платформа предназначена для ведения бизнеса по производству наклеек с искусственным интеллектом в любое время и в любом месте.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Начать работу с StickerIt.AI</b></a>
+    <h4>Найдите идеальную работу с помощью нашего искусственного интеллекта для подачи заявлений о приеме на работу. Каждую неделю автоматически подавайте заявки на сотни инженерных вакансий! Присоединяйтесь к ApplyPass, чтобы получить 100 бесплатных заявок.</h4>
+    <p>ApplyPass — это инструмент для поиска работы на базе искусственного интеллекта, который позволяет проводить больше собеседований. ApplyPass ежемесячно подает 200-400 индивидуальных заявлений о приеме на работу от вашего имени. Этот инструмент предлагает первые 100 заявок на работу бесплатно.
+
+ApplyPass.com провел тысячи интервью для инженеров, средний процент ответов на которые на 40% выше, чем в среднем по отрасли.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Начать работу с ApplyPass</b></a>
     <br />
 </div>
 
@@ -132,15 +134,33 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Bliro
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bliro.webp" alt="Bliro">
+### AI Sentence Changer and Rewriter Tool
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sentence-changer-and-rewriter-tool.webp" alt="AI Sentence Changer and Rewriter Tool">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/bliro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-sentence-changer-and-rewriter-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/ai-sentence-changer-and-rewriter-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Bliro
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bliro.webp" alt="Bliro">
+
+#### Первый в мире помощник по организации встреч с искусственным интеллектом без ботов
+
+
+[Visit](https://thataicollection.com/redirect/bliro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Инструмент автоматизации AI Meeting Notes, который расшифровывает и резюмирует ваши разговоры в Интернете или в автономном режиме без использования ботов на совещании. 
+
+Вернее, даже не записывая их!
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/bliro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -226,24 +246,6 @@ Compass — это чат-бот с искусственным интеллек�
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/compass?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Artefacts.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-artefacts-ai.webp" alt="Artefacts.ai">
-
-#### Создайте свою первую 3D-модель с помощью искусственного интеллекта
-#AI3D #DesignTool #CustomizedGifts #POd #printondemand #marketplace
-8. Название приложения
-
-
-[Visit](https://thataicollection.com/redirect/artefacts-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Artefacts.ai предоставляет пользователям высококачественные модели AIGC, инструменты проектирования, ресурсы моделей и настройку трехмерных фигурок и сувениров одним щелчком мыши. Artefacts.ai идеально подходит для студий любого размера, независимых авторов и даже новичков. Он позволяет любому быстро и легко создавать потрясающие товары и 3D-фигурки.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/artefacts-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
