@@ -57,6 +57,18 @@
 <br>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    </a>
+    <h4>कॉर्पोरेट हेडशॉट्स AI: AI के साथ कॉर्पोरेट पोर्ट्रेट्स में क्रांति लाना</h4>
+    <p>www.CorporateHeadshots.ai के साथ प्रोफ़ेशनल फ़ोटोग्राफ़ी के भविष्य का अनुभव करें। हमारा एआई-चालित प्लेटफ़ॉर्म तुम्हारी सेल्फी को सुंदर, कॉर्पोरेट-मानक हेडशॉट में बदल देता है, जिससे पेशेवर तस्वीरें हर किसी के लिए, हर जगह सुलभ और आसान हो जाती हैं।</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>के साथ आरंभ करें Corporate Headshots AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
@@ -65,18 +77,6 @@
 
 ApplyPass.com ने इंजीनियरों के लिए हज़ारों इंटरव्यू तैयार किए हैं, जिनका औसत रिस्पांस रेट इंडस्ट्री के औसत से 40% ज्यादा है।</p>
     <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>के साथ आरंभ करें ApplyPass</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>AI की थोड़ी मदद से, एकदम सही रिज़्यूमे तैयार करें</h4>
-    <p>तुम्हेंं जल्दी और आसानी से ऐसा रिज्यूम बनाने के लिए, जो तुम्हारे काम के अनुभव को सटीक रूप से दर्शाता हो, एक पेशेवर रेज़्यूमे लेखक होने की ज़रूरत नहीं है। हंटर का कस्टमाइज़ किया जा सकने वाला AI रिज्यूमे बिल्डर तुम्हेंं और इंटरव्यू देने में मदद करने के लिए एक अच्छी तरह से लिखा हुआ, एटीएस-अनुकूल रिज्यूमे तैयार करने में मदद करेगा।</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>के साथ आरंभ करें Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -134,15 +134,31 @@ ApplyPass.com ने इंजीनियरों के लिए हज़�
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### Dad Can't Draw
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dad-cant-draw.webp" alt="Dad Can't Draw">
+### iVu Ai-Powered Conversational Search Engine
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ivu-ai-powered-conversational-search-engine.webp" alt="iVu Ai-Powered Conversational Search Engine">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/dad-cant-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ivu-ai-powered-conversational-search-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/ivu-ai-powered-conversational-search-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Dad Can't Draw
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dad-cant-draw.webp" alt="Dad Can't Draw">
+
+#### बच्चों के लिए कस्टम AI जेनरेट किए गए कलरिंग पेज
+
+
+[Visit](https://thataicollection.com/redirect/dad-cant-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+डैड कैंट ड्रा एक सीएलआई टूल के तौर पर शुरू हुआ, जिसका इस्तेमाल मैंने कलरिंग पेज बनाने के लिए किया था जिन्हें मेरे बच्चे असल में रंगना चाहते थे। वे अपनी स्टोर से खरीदी गई कलरिंग किताबों से ऊब जाते थे और कुछ बेतहाशा रचनात्मक थीम के लिए अनुरोध करते थे जिसे वे रंगना चाहते थे। 
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/dad-cant-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -232,28 +248,6 @@ Artefacts.ai यूज़र को उच्च गुणवत्ता वा
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/dream-machine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### TexttoSpeech.im: Convert  Text to Speech Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-texttospeech-im-convert-text-to-speech-free-online.webp" alt="TexttoSpeech.im: Convert  Text to Speech Free Online">
-
-#### टेक्स्ट को आवाज़ में ट्रांसफ़ॉर्म करें: तेज़, मुफ़्त, 50 भाषाएं, 8000 आवाज़ें
-
-
-[Visit](https://thataicollection.com/redirect/texttospeech-im-convert-text-to-speech-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-🌍 50 भाषाएं, 8000 आवाज़ें
-हमने तुम्हेंं 50 भाषाओं और 8000 अनोखी आवाज़ों के लिए मदद की सुविधा दी है।
-🆓 मुफ़्त और किसी लॉगइन की ज़रूरत नहीं है
-TextToSpeech.im हर किसी के इस्तेमाल के लिए पूरी तरह मुफ़्त है।
-💼 कमर्शियल इस्तेमाल
-अपनी सिंथेसाइज़्ड ऑडियो फ़ाइलों के 100% कॉपीराइट का मालिक बनें और किसी भी कानूनी उद्देश्य के लिए उनका इस्तेमाल करें, जिसमें कमर्शियल प्रोजेक्ट भी शामिल हैं।
-
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/texttospeech-im-convert-text-to-speech-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

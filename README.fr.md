@@ -57,26 +57,30 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
-    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
+    <h4>La seule génération de code basée sur l'IA prête pour la production</h4>
+    <p>Jovu : la seule plateforme d'IA qui transforme les idées en code prêt à être produit en 4 minutes. Automatisez le développement de tes applications dorsales, en garantissant la cohérence, la prévisibilité et le respect des normes les plus strictes grâce à un code conçu pour évoluer.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Démarrer avec Jovu by Amplication</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
-    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
+    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
+    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
 
-ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
     <br />
 </div>
 
@@ -134,15 +138,31 @@ ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec 
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Dad Can't Draw
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dad-cant-draw.webp" alt="Dad Can't Draw">
+### iVu Ai-Powered Conversational Search Engine
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ivu-ai-powered-conversational-search-engine.webp" alt="iVu Ai-Powered Conversational Search Engine">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/dad-cant-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ivu-ai-powered-conversational-search-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/ivu-ai-powered-conversational-search-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Dad Can't Draw
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dad-cant-draw.webp" alt="Dad Can't Draw">
+
+#### Coloriages personnalisés générés par l'IA pour les enfants
+
+
+[Visit](https://thataicollection.com/redirect/dad-cant-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dad Can't Draw a débuté comme un outil CLI que j'utilisais pour créer des pages à colorier que mes enfants voulaient vraiment colorier. Ils s'ennuyaient avec leurs livres de coloriage achetés en magasin et demandaient un thème très créatif à colorier. 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/dad-cant-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -232,28 +252,6 @@ L'IA de Dream Machine ! Dream Machine AI crée rapidement des vidéos réaliste
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/dream-machine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### TexttoSpeech.im: Convert  Text to Speech Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-texttospeech-im-convert-text-to-speech-free-online.webp" alt="TexttoSpeech.im: Convert  Text to Speech Free Online">
-
-#### Transformer le texte en voix : rapide, gratuit, 50 langues, 8 000 voix
-
-
-[Visit](https://thataicollection.com/redirect/texttospeech-im-convert-text-to-speech-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-🌍 50 langues, 8 000 voix
-Nous avons ce qu'il te faut en prenant en charge 50 langues et 8 000 voix uniques.
-🆓 Gratuit et aucune connexion requise
-L'utilisation de TextToSpeech.im est totalement gratuite pour tous.
-💼 Usage commercial
-Possède les droits d'auteur à 100 % de tes fichiers audio synthétisés et utilise-les à des fins légales, y compris pour des projets commerciaux.
-
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/texttospeech-im-convert-text-to-speech-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
