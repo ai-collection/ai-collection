@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1620" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1621" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -69,12 +69,18 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
-    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>开始使用 Wordfixerbot</b></a>
+    <h4>全天候自定义 AI 聊天机器人加上实时聊天升级</h4>
+    <p>Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
     <br />
 </div>
 
@@ -132,15 +138,32 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### GPT4o.so: ChatGPT 4o Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanize-ai-text-free-online.webp" alt="GPT4o.so: ChatGPT 4o Free Online">
+### AI Math GPT Solver Online Powered by GPT-4o | Math Bot
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-math-gpt-solver-online-powered-by-gpt-4o-|-math-bot.webp" alt="AI Math GPT Solver Online Powered by GPT-4o | Math Bot">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/gpt4o-so-chatgpt-4o-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-math-gpt-solver-online-powered-by-gpt-4o-|-math-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-math-gpt-solver-online-powered-by-gpt-4o-|-math-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### GPT4o.so: ChatGPT 4o Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanize-ai-text-free-online.webp" alt="GPT4o.so: ChatGPT 4o Free Online">
+
+#### 无需登录即可免费访问高级人工智能模型 GPT-4O 和 ChatGPT。
+
+
+[Visit](https://thataicollection.com/redirect/gpt4o-so-chatgpt-4o-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+🚀 介绍 gpt4o。— 你无需登录 AI 选项卡，免费 
+🌟 在 gpt4o。为此，我们受益于先进的 GPT-4O 和 ChatGPT 模型，无需注册，即可提供完美而机智的人工智能对话。我们的平台旨在让您在需要快速解答、灵感或只是聊天时随时可用。 
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/gpt4o-so-chatgpt-4o-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -230,24 +253,6 @@ Dad Can 't Draw 最初是一个 CLI 工具，我用来制作我的孩子真正�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/dad-cant-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### NoteVocal
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-notevocal.webp" alt="NoteVocal">
-
-#### NoteVocal 是一款专为忙碌的内容创作者而设的音频转录应用程序
-
-
-[Visit](https://thataicollection.com/redirect/notevocal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-NoteVocal 是一款使用 OpenAI Whisper API 的音频转录应用程序。用户可以上传最大25MB的音频文件，也可以直接在自己选择的浏览器中录制自己。
-有 50 多种自定义样式可供选择，每天都会添加更多款式（或自己选择）。将笔记导出到 WhatsApp、PDF 格式或通过 Notion 导出。  
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/notevocal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

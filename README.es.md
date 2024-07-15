@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1620" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1621" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -69,12 +69,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
-    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
+    <h4>La única generación de código basada en IA lista para producción</h4>
+    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -132,15 +132,32 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### GPT4o.so: ChatGPT 4o Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanize-ai-text-free-online.webp" alt="GPT4o.so: ChatGPT 4o Free Online">
+### AI Math GPT Solver Online Powered by GPT-4o | Math Bot
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-math-gpt-solver-online-powered-by-gpt-4o-|-math-bot.webp" alt="AI Math GPT Solver Online Powered by GPT-4o | Math Bot">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/gpt4o-so-chatgpt-4o-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-math-gpt-solver-online-powered-by-gpt-4o-|-math-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/ai-math-gpt-solver-online-powered-by-gpt-4o-|-math-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### GPT4o.so: ChatGPT 4o Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanize-ai-text-free-online.webp" alt="GPT4o.so: ChatGPT 4o Free Online">
+
+#### Acceso gratuito y sin inicio de sesión a los modelos avanzados de IA GPT-4o y ChatGPT.
+
+
+[Visit](https://thataicollection.com/redirect/gpt4o-so-chatgpt-4o-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+🚀 Presentamos gpt4o. — Tu pestaña de IA sin inicio de sesión, gratis 
+🌟 En gpt4o. Al hacerlo, nos beneficiamos de los modelos GPT-4o y ChatGPT avanzados para ofrecer diálogos de IA impecables e ingeniosos, sin necesidad de registrarse. Nuestra plataforma está diseñada para estar siempre disponible cuando necesites respuestas rápidas, inspiración o simplemente para charlar. 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/gpt4o-so-chatgpt-4o-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -230,24 +247,6 @@ Papá no puede dibujar comenzó como una herramienta de CLI que utilizaba para c
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/dad-cant-draw?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### NoteVocal
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-notevocal.webp" alt="NoteVocal">
-
-#### NoteVocal es la aplicación de transcripción de audio para creadores de contenido ocupados
-
-
-[Visit](https://thataicollection.com/redirect/notevocal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-NoteVocal es una aplicación de transcripción de audio que utiliza la API OpenAI Whisper. Los usuarios pueden subir archivos de audio de hasta 25 MB o grabarse directamente en el navegador que elijan.
-Hay más de 50 estilos personalizados disponibles; se añaden más a diario (o elige el tuyo). Exporta notas a WhatsApp, en PDF o mediante Notion.  
-
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/notevocal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
