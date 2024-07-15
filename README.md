@@ -79,18 +79,12 @@ Translations:
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
-    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
+    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
+    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -148,6 +142,24 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### CopyReadyNow
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-copyreadynow.webp" alt="CopyReadyNow">
+
+#### AI-powered copywriting platform that helps tech businesses create accurate content, without the "written by AI" feel.
+
+
+[Visit](https://thataicollection.com/redirect/copyreadynow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+CopyReadyNow is an AI-powered copywriting platform, designed to help tech businesses produce accurate content, without the "written by AI" feel. 
+
+Writing copy for complex and technical value propositions can often feel laborious and time-consuming. With CopyReadyNow, you can create great content with just a few clicks and don't need to puzzle over writing complex AI prompts. 
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/copyreadynow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Qaiz
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-qaiz.webp" alt="Qaiz">
 
@@ -250,22 +262,6 @@ Our AI face swapper tool makes it easy to swap faces seamlessly, whether you’r
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/free-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### iVu Ai-Powered Conversational Search Engine
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ivu-ai-powered-conversational-search-engine.webp" alt="iVu Ai-Powered Conversational Search Engine">
-
-#### iVu.Ai is an AI-driven conversational search engine that delivers accurate and detailed answers using advanced natural language processing (NLP) and machine learning algorithms.
-
-
-[Visit](https://thataicollection.com/redirect/ivu-ai-powered-conversational-search-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-iVu.Ai is an AI-driven conversational search engine that delivers accurate and detailed answers using advanced natural language processing (NLP) and machine learning algorithms. It deeply searches the internet, contextualizes information, and provides clear, sourced responses. Beyond search, iVu.Ai can scrape data from URLs, generate images, and includes a chatbot module. 
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/ivu-ai-powered-conversational-search-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
