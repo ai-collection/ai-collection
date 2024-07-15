@@ -57,12 +57,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
-    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
+    <h4>Единственная готовая к производству генерация кода на основе искусственного интеллекта</h4>
+    <p>Jovu: единственная платформа искусственного интеллекта, превращающая идеи в готовый к производству код за 4 минуты. Автоматизируйте разработку серверных приложений, обеспечивая согласованность, предсказуемость и соответствие самым высоким стандартам с помощью масштабируемого кода.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Начать работу с Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -138,15 +138,33 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Qaiz
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-qaiz.webp" alt="Qaiz">
+### CopyReadyNow
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-copyreadynow.webp" alt="CopyReadyNow">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/qaiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/copyreadynow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/copyreadynow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Qaiz
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-qaiz.webp" alt="Qaiz">
+
+#### Мгновенно создайте многопользовательскую викторину о чем угодно!
+
+
+[Visit](https://thataicollection.com/redirect/qaiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Qaiz использует GPT для мгновенного создания викторин на любую тему, обеспечивая живую конкуренцию между друзьями, семьей и учениками. Он публикует интересные комментарии в прямом эфире и предлагает награды победителям, что делает викторину интерактивной и полезной. 
+
+Qaiz — доступная, легкая и интересная альтернатива приложениям для викторин в сфере образовательных технологий, таким как Kahoot и Quizizz.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/qaiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -238,22 +256,6 @@ Math Bot использует возможности GPT-4o для измене�
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/free-face-swap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### iVu Ai-Powered Conversational Search Engine
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ivu-ai-powered-conversational-search-engine.webp" alt="iVu Ai-Powered Conversational Search Engine">
-
-#### iVu.Ai — это диалоговая поисковая система, управляемая искусственным интеллектом, которая предоставляет точные и подробные ответы с использованием передовых алгоритмов обработки естественного языка (NLP) и машинного обучения.
-
-
-[Visit](https://thataicollection.com/redirect/ivu-ai-powered-conversational-search-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-iVu.Ai — это диалоговая поисковая система, управляемая искусственным интеллектом, которая предоставляет точные и подробные ответы с использованием передовых алгоритмов обработки естественного языка (NLP) и машинного обучения. Он тщательно просматривает информацию в Интернете, контекстуализирует информацию и предоставляет четкие ответы из исходных источников. Помимо поиска, iVu.Ai может собирать данные из URL-адресов, генерировать изображения и включает модуль чат-бота. 
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/ivu-ai-powered-conversational-search-engine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
