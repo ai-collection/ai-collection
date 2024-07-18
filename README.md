@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1625" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1637" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -55,18 +55,6 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>AI Chatbot for your website, trained on your data</h4>
-    <p>Chatbit is an AI tool that allows users to create customized AI chatbots for their websites. The bots are designed to engage customers, answer their questions, and capture leads.</p>
-    <a href="https://thataicollection.com/redirect/chatbit" target="_blank"><b>Get Started with Chatbit</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
@@ -79,12 +67,24 @@ Translations:
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
-    <p>WordfixerBot''s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Get Started with Wordfixerbot</b></a>
+    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
+    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It''s an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Get Started with AiApply</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    </a>
+    <h4>Craft the perfect resume, with a little help from AI</h4>
+    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -142,6 +142,38 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Luma AI Video Generator Free Online by Dream Machine
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-luma-ai-video-generator-free-online-by-dream-machine.webp" alt="Luma AI Video Generator Free Online by Dream Machine">
+
+#### Luma AI Video Generator Free Online by Dream Machine
+
+
+[Visit](https://thataicollection.com/redirect/luma-ai-video-generator-free-online-by-dream-machine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Generate stunning videos from text or images with LunaAI.Video's advanced AI. 🎥🚀 Whether you are creating content for business presentations, educational courses, social media, or creative projects, LunaAI.Video offers a seamless solution. Easily transform your ideas into professional, engaging videos in just minutes. 
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/luma-ai-video-generator-free-online-by-dream-machine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Fotor free video maker
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor-free-video-maker.webp" alt="Fotor free video maker">
+
+#### Create a professional video by dragging and dropping images, videos, stickers, audio, text, etc. Making YouTube videos, Instagram Reels, and TikToks has never been easier. No expertise needed.
+
+
+[Visit](https://thataicollection.com/redirect/fotor-free-video-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Create a professional video by dragging and dropping images, videos, stickers, audio, text, and more. Making YouTube videos, Instagram Reels, and TikToks has never been easier. No expertise needed.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/fotor-free-video-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### SurveySwan
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-surveyswan.webp" alt="SurveySwan">
 
@@ -224,44 +256,6 @@ Math Bot leverages the power of GPT-4o to transform the way you tackle math prob
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/gpt4o-so-chatgpt-4o-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Sentence Changer and Rewriter Tool
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sentence-changer-and-rewriter-tool.webp" alt="AI Sentence Changer and Rewriter Tool">
-
-#### Transform your content creation process with the AI Sentence Changer and Rewriter Tool. Generate unique variations effortlessly!
-
-
-[Visit](https://thataicollection.com/redirect/ai-sentence-changer-and-rewriter-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-What is the AI Sentence Changer and Rewriter Tool?
-A cutting-edge software powered by artificial intelligence algorithms.
-Designed to paraphrase, rephrase, and rewrite sentences while retaining the original meaning.
-Equipped with advanced natural language processing capabilities to ensure high-quality output.
-
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/ai-sentence-changer-and-rewriter-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Bliro
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bliro.webp" alt="Bliro">
-
-#### World's 1st Bot-Free AI Meeting Assistant
-
-
-[Visit](https://thataicollection.com/redirect/bliro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-An AI Meeting Notes automation tool that transcribes and summarizes your conversations, online or offline, without sending any bots in the meeting. 
-
-Or rather, without even recording them!
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/bliro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
