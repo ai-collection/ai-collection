@@ -45,6 +45,18 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    </a>
+    <h4>唯一一款支持量产的 AI 驱动的代码生成</h4>
+    <p>Jovu：唯一一个在 4 分钟内将想法转化为生产就绪代码的人工智能平台。使用可扩展的代码实现后端应用程序开发自动化，确保一致性、可预测性并遵守最高标准。</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>开始使用 Jovu by Amplication</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
@@ -57,26 +69,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>借助我们的求职AI找到理想的工作。每周自动申请数百个工程职位！加入 ApplyPass 获得 100 个免费应用程序。</h4>
-    <p>ApplyPass是一款由人工智能驱动的求职工具，可以让你获得更多的求职面试。ApplyPass每月代表你提交200-400份量身定制的求职申请。该工具免费提供前100份求职申请。
-
-ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行业平均水平高40％。</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>开始使用 ApplyPass</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
-    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>开始使用 Wordfixerbot</b></a>
+    <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
+    <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -137,12 +135,13 @@ ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行�
 ### Logomakerr.AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
 
-#### null
+#### 使用 AI 创建徽标-Logomakerr.AI 只需点击几下即可将您的商业理念与 AI 生成的徽标融为一体！
 
 
 [Visit](https://thataicollection.com/redirect/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-null
+建立品牌从这里开始！
+我们的 AI 徽标生成器提供数百个模板，您可以放心地启动、建立和发展您的业务！而且无需担心任何设计经验，也无需为高级设计师付费。建立品牌所需的一切都在这里！
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -178,6 +177,22 @@ null
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/fotor-free-video-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### PicWish
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-picwish.webp" alt="PicWish">
+
+#### PicWish 是一个免费使用的人工智能照片编辑平台，它允许用户快速轻松地进行类似 Photoshop 的编辑。
+
+
+[Visit](https://thataicollection.com/redirect/picwish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PicWish 旨在简化和增强照片编辑任务。凭借其强大的功能和友好的用户界面，PicWish使所有人可以在所有平台上进行专业级图像编辑。它支持人工智能移除背景、创建人像、增强照片、生成背景、移除不需要的对象、模糊背景、放大图像、压缩图像等。 
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/picwish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -230,23 +245,6 @@ Qaiz是一款经济实惠、轻巧且有趣的替代方案，可替代Kahoot和Q
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/qaiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Math GPT Solver Online Powered by GPT-4o | Math Bot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-math-gpt-solver-online-powered-by-gpt-4o-|-math-bot.webp" alt="AI Math GPT Solver Online Powered by GPT-4o | Math Bot">
-
-#### 由 GPT-4o 提供支持的 AI Math GPT 在线求解器 | Math Bot
-
-
-[Visit](https://thataicollection.com/redirect/ai-math-gpt-solver-online-powered-by-gpt-4o-|-math-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-📸 什么是数学机器人？
-Math Bot 利用 GPT-4o 的强大功能来改变你解决数学问题的方式。只需拍摄任何数学问题的照片，即可立即获得详细的分步解决方案。无论是代数、微积分还是介于两者之间的东西，Math Bot 都是你的首选数学助手。最重要的是，它完全免费使用！
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-math-gpt-solver-online-powered-by-gpt-4o-|-math-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
