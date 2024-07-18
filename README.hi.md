@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1625" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1637" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -45,30 +45,6 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>तुम्हारी वेबसाइट के लिए AI चैटबोट, जो तुम्हारे डेटा के आधार पर प्रशिक्षित है</h4>
-    <p>Chatbit एक AI टूल है जिसकी मदद से यूज़र अपनी वेबसाइट के लिए अनुकूलित AI चैटबॉट बना सकते हैं। बॉट्स को ग्राहकों से जुड़ने, उनके सवालों के जवाब देने और लीड कैप्चर करने के लिए डिज़ाइन किया गया है।</p>
-    <a href="https://thataicollection.com/redirect/chatbit" target="_blank"><b>के साथ आरंभ करें Chatbit</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
-    </a>
-    <h4>StickerIt.AI | #1 मोबाइल, एआई-संचालित स्टिकर डिज़ाइन और सेल्स सॉल्यूशन</h4>
-    <p>StickerIt.AI सीधे अपने मोबाइल डिवाइस से AI-संचालित स्टिकर बनाने और बेचने का तुम्हारा प्रमुख समाधान है। किसी भी स्थान को एक जीवंत स्टिकर वर्कशॉप में ट्रांसफ़ॉर्म करें। सिर्फ़ दो टैबलेट और एक प्रिंटर की मदद से, तुम मिनटों में बनाए गए कस्टम स्टिकर बेचना शुरू कर सकते हो। हमारा प्लेटफ़ॉर्म तुम्हारे AI स्टिकर का कारोबार, कभी भी, कहीं भी चलाने के लिए डिज़ाइन किया गया है।</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>के साथ आरंभ करें StickerIt.AI</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
@@ -77,6 +53,36 @@
 
 ApplyPass.com ने इंजीनियरों के लिए हज़ारों इंटरव्यू तैयार किए हैं, जिनका औसत रिस्पांस रेट इंडस्ट्री के औसत से 40% ज्यादा है।</p>
     <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>के साथ आरंभ करें ApplyPass</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    </a>
+    <h4>24/7 कस्टम AI चैटबोट और लाइव चैट एस्केलेशन</h4>
+    <p>चैट डेटा एक AI चैटबॉट प्लेटफ़ॉर्म है, जो सुविधाजनक बैकएंड और फ़्रंटएंड कस्टमाइज़ेशन की सुविधा देता है। अपने नॉलेज बेस, कस्टम एंडपॉइंट या चैट डेटा के मॉडल का इस्तेमाल करके चैटबॉट बनाएं। चैटबोट इंटरफ़ेस को कस्टमाइज़ करें और वाइट लेबलिंग का विकल्प चुनें। अतिरिक्त सुविधाओं में स्टैण्डर्ड या प्रोफ़ेशनल प्लान में लाइव चैट एस्केलेशन शामिल है।
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>के साथ आरंभ करें Chat Data</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    </a>
+    <h4>एकमात्र प्रॉडक्शन-तैयार AI-संचालित कोड जनरेशन</h4>
+    <p>जोवू: एकमात्र AI प्लेटफ़ॉर्म, जो 4 मिनट में आइडिया को प्रोडक्शन-रेडी कोड में बदल देता है। अपने बैकएंड अनुप्रयोगों के डेवलपमेंट को स्वचालित करें, ताकि बड़े पैमाने पर बनाए गए कोड के साथ निरंतरता, पूर्वानुमान और उच्चतम मानकों का पालन किया जा सके।</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>के साथ आरंभ करें Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -134,15 +140,47 @@ ApplyPass.com ने इंजीनियरों के लिए हज़�
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### SurveySwan
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-surveyswan.webp" alt="SurveySwan">
+### Luma AI Video Generator Free Online by Dream Machine
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-luma-ai-video-generator-free-online-by-dream-machine.webp" alt="Luma AI Video Generator Free Online by Dream Machine">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/surveyswan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/luma-ai-video-generator-free-online-by-dream-machine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/luma-ai-video-generator-free-online-by-dream-machine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Fotor free video maker
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor-free-video-maker.webp" alt="Fotor free video maker">
+
+#### इमेज, वीडियो, स्टिकर, ऑडियो, टेक्स्ट आदि को ड्रैग और ड्रॉप करके एक पेशेवर वीडियो बनाएं। YouTube वीडियो, Instagram रील और TikToks बनाना इससे आसान कभी नहीं रहा। किसी विशेषज्ञता की ज़रूरत नहीं है।
+
+
+[Visit](https://thataicollection.com/redirect/fotor-free-video-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+चित्र, वीडियो, स्टिकर, ऑडियो, टेक्स्ट आदि को ड्रैग और ड्रॉप करके एक पेशेवर वीडियो बनाएं। YouTube वीडियो, Instagram रील और TikToks बनाना इससे आसान कभी नहीं रहा। किसी विशेषज्ञता की ज़रूरत नहीं है।
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/fotor-free-video-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### SurveySwan
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-surveyswan.webp" alt="SurveySwan">
+
+#### एआई-संचालित सर्वे जनरेटर, जो सर्वेक्षण बनाने को आसान बनाता है और सोच-समझकर निर्णय लेने के लिए कार्रवाई योग्य जानकारी देता है।
+
+
+[Visit](https://thataicollection.com/redirect/surveyswan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+सर्वेस्वान एआई-संचालित एक नवोन्मेषी सर्वे जनरेटर है, जिसे तुम्हारे सर्वेक्षणों के प्रबंधन के तरीके में क्रांति लाने और रणनीतिक निर्णय लेने के लिए बहुमूल्य जानकारी निकालने के लिए डिज़ाइन किया गया है। अपनी अत्याधुनिक तकनीक के साथ, SurveySWAN आसानी से सर्वे बनाने, वितरित करने और उनका विश्लेषण करने के लिए एक सहज और कुशल समाधान प्रदान करता है।
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/surveyswan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -216,44 +254,6 @@ CopyReadyNow, AI-संचालित कॉपी राइटिंग प्
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/gpt4o-so-chatgpt-4o-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Sentence Changer and Rewriter Tool
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sentence-changer-and-rewriter-tool.webp" alt="AI Sentence Changer and Rewriter Tool">
-
-#### AI सेंटेंस चेंजर और रीराइटर टूल की मदद से अपनी सामग्री बनाने की प्रक्रिया को ट्रांसफ़ॉर्म करें। बिना किसी परेशानी के अनोखे बदलाव जेनरेट करें!
-
-
-[Visit](https://thataicollection.com/redirect/ai-sentence-changer-and-rewriter-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-एआई सेंटेंस चेंजर और रीराइटर टूल क्या है?
-आर्टिफिशियल इंटेलिजेंस एल्गोरिदम द्वारा संचालित एक अत्याधुनिक सॉफ़्टवेयर।
-मूल अर्थ को बनाए रखते हुए वाक्यों की व्याख्या करने, फिर से कहने और फिर से लिखने के लिए डिज़ाइन किया गया है।
-हाई-क्वालिटी आउटपुट सुनिश्चित करने के लिए एडवांस प्राकृतिक भाषा प्रोसेसिंग क्षमताओं से लैस है।
-
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/ai-sentence-changer-and-rewriter-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Bliro
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bliro.webp" alt="Bliro">
-
-#### दुनिया का पहला बॉट-फ़्री AI मीटिंग असिस्टेंट
-
-
-[Visit](https://thataicollection.com/redirect/bliro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-एक AI मीटिंग नोट्स ऑटोमेशन टूल, जो मीटिंग में कोई बॉट्स भेजे बिना, तुम्हारी बातचीत को ऑनलाइन या ऑफलाइन ट्रांसक्रिप्ट करता है और सारांशित करता है। 
-
-या इसके बजाय, उन्हें रिकॉर्ड किए बिना भी!
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/bliro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

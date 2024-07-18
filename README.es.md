@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1625" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1637" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -45,12 +45,24 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Chatbot de IA para tu sitio web, entrenado con tus datos</h4>
-    <p>Chatbit es una herramienta de IA que permite a los usuarios crear chatbots de IA personalizados para sus sitios web. Los bots están diseñados para captar clientes, responder a sus preguntas y captar clientes potenciales.</p>
-    <a href="https://thataicollection.com/redirect/chatbit" target="_blank"><b>Comience con Chatbit</b></a>
+    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
+    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    </a>
+    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
+    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -63,18 +75,6 @@
     <h4>La única generación de código basada en IA lista para producción</h4>
     <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
     <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
-    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -132,15 +132,47 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### SurveySwan
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-surveyswan.webp" alt="SurveySwan">
+### Luma AI Video Generator Free Online by Dream Machine
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-luma-ai-video-generator-free-online-by-dream-machine.webp" alt="Luma AI Video Generator Free Online by Dream Machine">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/surveyswan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/luma-ai-video-generator-free-online-by-dream-machine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/luma-ai-video-generator-free-online-by-dream-machine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Fotor free video maker
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor-free-video-maker.webp" alt="Fotor free video maker">
+
+#### Crea un vídeo profesional arrastrando y soltando imágenes, vídeos, pegatinas, audio, texto, etc. Crear vídeos de YouTube, Instagram Reels y TikToks nunca ha sido tan fácil. No se necesitan conocimientos.
+
+
+[Visit](https://thataicollection.com/redirect/fotor-free-video-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Crea un vídeo profesional arrastrando y soltando imágenes, vídeos, pegatinas, audio, texto y mucho más. Crear vídeos de YouTube, Instagram Reels y TikToks nunca ha sido tan fácil. No se necesitan conocimientos.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/fotor-free-video-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### SurveySwan
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-surveyswan.webp" alt="SurveySwan">
+
+#### Generador de encuestas con tecnología de inteligencia artificial que agiliza la creación de encuestas y puede ofrecer información útil para tomar decisiones informadas.
+
+
+[Visit](https://thataicollection.com/redirect/surveyswan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SurveySwan es un innovador generador de encuestas con tecnología de inteligencia artificial diseñado para revolucionar la forma en que gestionas las encuestas y extraer información valiosa para la toma de decisiones estratégicas. Con su tecnología de vanguardia, SurveySwan ofrece una solución eficaz y perfecta para crear, distribuir y analizar encuestas con facilidad.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/surveyswan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -214,44 +246,6 @@ Math Bot aprovecha el poder del GPT-4o para transformar la forma en que abordas 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/gpt4o-so-chatgpt-4o-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Sentence Changer and Rewriter Tool
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sentence-changer-and-rewriter-tool.webp" alt="AI Sentence Changer and Rewriter Tool">
-
-#### Transforma tu proceso de creación de contenido con la herramienta de cambio y reescritura de frases de IA. ¡Genera variaciones únicas sin esfuerzo!
-
-
-[Visit](https://thataicollection.com/redirect/ai-sentence-changer-and-rewriter-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¿Qué es la herramienta de cambio y reescritura de frases de la IA?
-Un software de última generación impulsado por algoritmos de inteligencia artificial.
-Diseñado para parafrasear, reformular y reescribir frases conservando su significado original.
-Equipado con funciones avanzadas de procesamiento del lenguaje natural para garantizar unos resultados de alta calidad.
-
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/ai-sentence-changer-and-rewriter-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Bliro
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bliro.webp" alt="Bliro">
-
-#### El primer asistente de reuniones con IA del mundo sin bots
-
-
-[Visit](https://thataicollection.com/redirect/bliro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Una herramienta automática de IA Meeting Notes que transcribe y resume tus conversaciones, en línea o fuera de línea, sin enviar ningún robot a la reunión. 
-
-O mejor dicho, ¡sin siquiera grabarlos!
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/bliro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

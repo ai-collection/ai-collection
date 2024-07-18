@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1625" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1637" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -45,36 +45,42 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chatbit" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chatbit.webp" alt="Chatbit" border="0"/>
-    </a>
-    <h4>Chatbot IA pour ton site web, formé à partir de tes données</h4>
-    <p>Chatbit est un outil d'intelligence artificielle qui permet aux utilisateurs de créer des chatbots IA personnalisés pour leurs sites Web. Les robots sont conçus pour interagir avec les clients, répondre à leurs questions et capter des prospects.</p>
-    <a href="https://thataicollection.com/redirect/chatbit" target="_blank"><b>Démarrer avec Chatbit</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
-    </a>
-    <h4>StickerIt.AI | Solution mobile de création et de vente d'autocollants basée sur l'IA #1</h4>
-    <p>StickerIt.AI est ta meilleure solution pour créer et vendre des autocollants alimentés par l'IA directement depuis ton appareil mobile. Transforme n'importe quel lieu en un atelier d'autocollants dynamique. Avec seulement deux tablettes et une imprimante, tu peux commencer à vendre des autocollants personnalisés en quelques minutes. Notre plateforme est conçue pour gérer ton activité d'autocollants IA à tout moment et en tout lieu.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Démarrer avec StickerIt.AI</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
     <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
     <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
     <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    </a>
+    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
+    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
+    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
     <br />
 </div>
 
@@ -132,15 +138,47 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### SurveySwan
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-surveyswan.webp" alt="SurveySwan">
+### Luma AI Video Generator Free Online by Dream Machine
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-luma-ai-video-generator-free-online-by-dream-machine.webp" alt="Luma AI Video Generator Free Online by Dream Machine">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/surveyswan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/luma-ai-video-generator-free-online-by-dream-machine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/luma-ai-video-generator-free-online-by-dream-machine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Fotor free video maker
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor-free-video-maker.webp" alt="Fotor free video maker">
+
+#### Créez une vidéo professionnelle en faisant glisser et en déposant des images, des vidéos, des autocollants, du son, du texte, etc. Créer des vidéos YouTube, Instagram Reels et TikToks n'a jamais été aussi simple. Aucune expertise n'est requise.
+
+
+[Visit](https://thataicollection.com/redirect/fotor-free-video-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Créez une vidéo professionnelle en faisant glisser et en déposant des images, des vidéos, des autocollants, du son, du texte et plus encore. Créer des vidéos YouTube, Instagram Reels et TikToks n'a jamais été aussi simple. Aucune expertise n'est requise.
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/fotor-free-video-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### SurveySwan
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-surveyswan.webp" alt="SurveySwan">
+
+#### Générateur d'enquêtes basé sur l'IA qui rationalise la création des enquêtes et peut fournir des informations exploitables pour une prise de décision éclairée.
+
+
+[Visit](https://thataicollection.com/redirect/surveyswan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SurveySwan est un générateur d'enquêtes innovant alimenté par l'IA, conçu pour révolutionner la façon dont tu gères les enquêtes et en extraire des informations précieuses pour la prise de décisions stratégiques. Grâce à sa technologie de pointe, SurveySwan propose une solution fluide et efficace pour créer, distribuer et analyser des enquêtes en toute simplicité.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/surveyswan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -214,44 +252,6 @@ Math Bot exploite la puissance de GPT-4o pour transformer la façon dont tu abor
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/gpt4o-so-chatgpt-4o-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Sentence Changer and Rewriter Tool
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sentence-changer-and-rewriter-tool.webp" alt="AI Sentence Changer and Rewriter Tool">
-
-#### Transforme ton processus de création de contenu grâce à l'outil AI Sentence Changer and Rewriter. Générez des variations uniques sans effort !
-
-
-[Visit](https://thataicollection.com/redirect/ai-sentence-changer-and-rewriter-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Qu'est-ce que l'outil AI Sentence Changer and Rewriter ?
-Un logiciel de pointe alimenté par des algorithmes d'intelligence artificielle.
-Conçu pour paraphraser, reformuler et réécrire des phrases tout en conservant leur sens d'origine.
-Dotée de capacités avancées de traitement du langage naturel pour garantir une sortie de haute qualité.
-
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/ai-sentence-changer-and-rewriter-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Bliro
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bliro.webp" alt="Bliro">
-
-#### Le premier assistant de réunion basé sur l'IA au monde sans robot
-
-
-[Visit](https://thataicollection.com/redirect/bliro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Un outil d'automatisation des notes de réunion basé sur l'IA qui transcrit et résume tes conversations, en ligne ou hors ligne, sans envoyer de robots pendant la réunion. 
-
-Ou plutôt, sans même les enregistrer !
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/bliro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
