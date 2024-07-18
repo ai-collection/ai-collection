@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1637" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1638" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -45,36 +45,38 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 Мобильное решение для дизайна и продажи стикеров на базе искусственного интеллекта</h4>
-    <p>StickerIt.AI — это ваше лучшее решение для создания и продажи стикеров на базе искусственного интеллекта прямо с вашего мобильного устройства. Превратите любое место в яркую мастерскую по стикерам. Имея всего два планшета и принтер, вы можете начать продавать наклейки, изготовленные на заказ, за считанные минуты. Наша платформа предназначена для ведения бизнеса по производству наклеек с искусственным интеллектом в любое время и в любом месте.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Начать работу с StickerIt.AI</b></a>
+    <h4>AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения</h4>
+    <p>AiApply — это динамичный набор инструментов искусственного интеллекта, разработанный для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявления о приеме на работу, повышает качество резюме, готовит к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, обеспечивая пользователям возможность выделиться на конкурентных рынках. Это важный инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интел</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Начать работу с AiApply</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Инструмент для перефразирования - лучший бесплатный онлайн-парафразировщик - Wordfixerbot</h4>
-    <p>Инструмент перефразирования WordFixerBot — идеальный инструмент, который поможет вам быстро и точно перефразировать любые тексты, предложения, статьи, абзацы, статьи или документы. Начните прямо сейчас и сделайте свой текст незабываемым!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Начать работу с Wordfixerbot</b></a>
+    <h4>Найдите идеальную работу с помощью нашего искусственного интеллекта для подачи заявлений о приеме на работу. Каждую неделю автоматически подавайте заявки на сотни инженерных вакансий! Присоединяйтесь к ApplyPass, чтобы получить 100 бесплатных заявок.</h4>
+    <p>ApplyPass — это инструмент для поиска работы на базе искусственного интеллекта, который позволяет проводить больше собеседований. ApplyPass ежемесячно подает 200-400 индивидуальных заявлений о приеме на работу от вашего имени. Этот инструмент предлагает первые 100 заявок на работу бесплатно.
+
+ApplyPass.com провел тысячи интервью для инженеров, средний процент ответов на которые на 40% выше, чем в среднем по отрасли.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Начать работу с ApplyPass</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
-    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
+    <h4>Единственная готовая к производству генерация кода на основе искусственного интеллекта</h4>
+    <p>Jovu: единственная платформа искусственного интеллекта, превращающая идеи в готовый к производству код за 4 минуты. Автоматизируйте разработку серверных приложений, обеспечивая согласованность, предсказуемость и соответствие самым высоким стандартам с помощью масштабируемого кода.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Начать работу с Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -132,15 +134,31 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Luma AI Video Generator Free Online by Dream Machine
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-luma-ai-video-generator-free-online-by-dream-machine.webp" alt="Luma AI Video Generator Free Online by Dream Machine">
+### Logomakerr.AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/luma-ai-video-generator-free-online-by-dream-machine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Luma AI Video Generator Free Online by Dream Machine
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-luma-ai-video-generator-free-online-by-dream-machine.webp" alt="Luma AI Video Generator Free Online by Dream Machine">
+
+#### Бесплатный онлайн-генератор видео Luma AI от Dream Machine
+
+
+[Visit](https://thataicollection.com/redirect/luma-ai-video-generator-free-online-by-dream-machine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Создавайте потрясающие видеоролики из текста или изображений с помощью усовершенствованного искусственного интеллекта Lunaai.Video. 🎥🚀 Независимо от того, создаете ли вы контент для бизнес-презентаций, образовательных курсов, социальных сетей или творческих проектов, Lunaai.video предлагает безупречное решение. С легкостью превратите свои идеи в профессиональные увлекательные видеоролики всего за несколько минут. 
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/luma-ai-video-generator-free-online-by-dream-machine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,23 +247,6 @@ Math Bot использует возможности GPT-4o для измене�
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/ai-math-gpt-solver-online-powered-by-gpt-4o-|-math-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### GPT4o.so: ChatGPT 4o Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanize-ai-text-free-online.webp" alt="GPT4o.so: ChatGPT 4o Free Online">
-
-#### Бесплатный доступ без входа в систему к продвинутым моделям искусственного интеллекта GPT-4o и ChatGPT.
-
-
-[Visit](https://thataicollection.com/redirect/gpt4o-so-chatgpt-4o-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-🚀 Представляем gpt4o. — Ваша вкладка с искусственным интеллектом без входа в систему, бесплатная 
-🌟 На сайте gpt4o. При этом мы используем передовые модели GPT-4o и ChatGPT, которые обеспечивают безупречные и остроумные диалоги с искусственным интеллектом без необходимости регистрации. Наша платформа создана для того, чтобы всегда быть доступной, когда вам нужны быстрые ответы, вдохновение или просто поболтать. 
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/gpt4o-so-chatgpt-4o-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

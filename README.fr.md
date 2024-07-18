@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1637" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1638" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -45,30 +45,14 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
-    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
-    <br />
-</div>
+    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
+    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
 
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
-    </a>
-    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
-    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
+ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
     <br />
 </div>
 
@@ -81,6 +65,18 @@
     <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
     <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
     <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    </a>
+    <h4>Corporate Headshots AI : révolutionner les portraits d''entreprise grâce à l''IA</h4>
+    <p>Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l''IA transforme tes selfies en portraits élégants, conformes aux normes de l''entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Démarrer avec Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -138,15 +134,31 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Luma AI Video Generator Free Online by Dream Machine
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-luma-ai-video-generator-free-online-by-dream-machine.webp" alt="Luma AI Video Generator Free Online by Dream Machine">
+### Logomakerr.AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/luma-ai-video-generator-free-online-by-dream-machine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Luma AI Video Generator Free Online by Dream Machine
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-luma-ai-video-generator-free-online-by-dream-machine.webp" alt="Luma AI Video Generator Free Online by Dream Machine">
+
+#### Générateur vidéo Luma AI gratuit en ligne par Dream Machine
+
+
+[Visit](https://thataicollection.com/redirect/luma-ai-video-generator-free-online-by-dream-machine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Génère de superbes vidéos à partir de texte ou d'images grâce à l'IA avancée de Lunaai.Video. 🎥🚀 Que tu crées du contenu pour des présentations commerciales, des cours, des réseaux sociaux ou des projets créatifs, Lunaai.video propose une solution fluide. Transforme facilement tes idées en vidéos professionnelles et captivantes en quelques minutes. 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/luma-ai-video-generator-free-online-by-dream-machine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -235,23 +247,6 @@ Math Bot exploite la puissance de GPT-4o pour transformer la façon dont tu abor
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/ai-math-gpt-solver-online-powered-by-gpt-4o-|-math-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### GPT4o.so: ChatGPT 4o Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanize-ai-text-free-online.webp" alt="GPT4o.so: ChatGPT 4o Free Online">
-
-#### Accès gratuit et sans connexion aux modèles d'IA avancés GPT-4o et ChatGPT.
-
-
-[Visit](https://thataicollection.com/redirect/gpt4o-so-chatgpt-4o-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-🚀 Présentation de gpt4o. — Ton onglet IA sans connexion, gratuit 
-🌟 Sur gpt4o. Ce faisant, nous tirons parti des modèles avancés GPT-4o et ChatGPT pour proposer des dialogues IA parfaits et pleins d'esprit, sans inscription. Notre plateforme est conçue pour être toujours disponible lorsque tu as besoin de réponses rapides, d'inspiration ou simplement pour discuter. 
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/gpt4o-so-chatgpt-4o-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1637" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1638" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -55,24 +55,14 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
-    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
-    <br />
-</div>
+    <h4>Land your ideal job with our job application AI. Automatically apply to hundreds of engineering jobs every week! Join ApplyPass to get 100 free applications.</h4>
+    <p>ApplyPass is an AI-powered job search tool that gets you more job interviews. ApplyPass submits 200-400 tailored job applications on your behalf every month. This tool offers the first 100 job applications for free.
 
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
-    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It''s an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Get Started with AiApply</b></a>
+ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that''s 40% higher than the industry average.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Get Started with ApplyPass</b></a>
     <br />
 </div>
 
@@ -85,6 +75,18 @@ Translations:
     <h4>Craft the perfect resume, with a little help from AI</h4>
     <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
     <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    </a>
+    <h4>The only production-ready AI-powered code generation</h4>
+    <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -142,6 +144,23 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Logomakerr.AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
+
+#### Create a Logo with AI - Logomakerr.AI blends your business ideas with AI-generated logos in just a few clicks!
+
+
+[Visit](https://thataicollection.com/redirect/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Building a brand starts here!
+With hundreds of templates available with our AI logo generator, you can confidently launch, build and grow your business! And there's no need to worry about any design experience or to pay for a premium designer. Everything you need to build a brand is here!
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Luma AI Video Generator Free Online by Dream Machine
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-luma-ai-video-generator-free-online-by-dream-machine.webp" alt="Luma AI Video Generator Free Online by Dream Machine">
 
@@ -239,23 +258,6 @@ Math Bot leverages the power of GPT-4o to transform the way you tackle math prob
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/ai-math-gpt-solver-online-powered-by-gpt-4o-|-math-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### GPT4o.so: ChatGPT 4o Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanize-ai-text-free-online.webp" alt="GPT4o.so: ChatGPT 4o Free Online">
-
-#### Free, no-login access to advanced AI models GPT-4o and ChatGPT.
-
-
-[Visit](https://thataicollection.com/redirect/gpt4o-so-chatgpt-4o-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-🚀 Introducing gpt4o. – Your no login AI tab, free of charge 
-🌟 At gpt4o. In doing so, we benefit from the advanced GPT-4o and ChatGPT models to provide flawless and witty AI dialogues, no sign-ups necessary. Our platform is designed to be always available for when you need quick answers, inspiration, or to just have a chat. 
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/gpt4o-so-chatgpt-4o-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

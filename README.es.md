@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1637" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1638" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -45,12 +45,24 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
-    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
+    <h4>La única generación de código basada en IA lista para producción</h4>
+    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    </a>
+    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
+    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -63,18 +75,6 @@
     <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
     <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
     <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
-    </a>
-    <h4>La única generación de código basada en IA lista para producción</h4>
-    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -132,15 +132,31 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Luma AI Video Generator Free Online by Dream Machine
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-luma-ai-video-generator-free-online-by-dream-machine.webp" alt="Luma AI Video Generator Free Online by Dream Machine">
+### Logomakerr.AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/luma-ai-video-generator-free-online-by-dream-machine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Luma AI Video Generator Free Online by Dream Machine
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-luma-ai-video-generator-free-online-by-dream-machine.webp" alt="Luma AI Video Generator Free Online by Dream Machine">
+
+#### Generador de vídeos Luma AI gratis en línea de Dream Machine
+
+
+[Visit](https://thataicollection.com/redirect/luma-ai-video-generator-free-online-by-dream-machine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Genera vídeos impresionantes a partir de texto o imágenes con LunaAI.La IA avanzada de Video. 🎥🚀 Ya sea que estés creando contenido para presentaciones de negocios, cursos educativos, redes sociales o proyectos creativos, LunaAI.Video ofrece una solución perfecta. Transforma fácilmente tus ideas en vídeos profesionales y atractivos en solo unos minutos. 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/luma-ai-video-generator-free-online-by-dream-machine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,23 +245,6 @@ Math Bot aprovecha el poder del GPT-4o para transformar la forma en que abordas 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/ai-math-gpt-solver-online-powered-by-gpt-4o-|-math-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### GPT4o.so: ChatGPT 4o Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanize-ai-text-free-online.webp" alt="GPT4o.so: ChatGPT 4o Free Online">
-
-#### Acceso gratuito y sin inicio de sesión a los modelos avanzados de IA GPT-4o y ChatGPT.
-
-
-[Visit](https://thataicollection.com/redirect/gpt4o-so-chatgpt-4o-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-🚀 Presentamos gpt4o. — Tu pestaña de IA sin inicio de sesión, gratis 
-🌟 En gpt4o. Al hacerlo, nos beneficiamos de los modelos GPT-4o y ChatGPT avanzados para ofrecer diálogos de IA impecables e ingeniosos, sin necesidad de registrarse. Nuestra plataforma está diseñada para estar siempre disponible cuando necesites respuestas rápidas, inspiración o simplemente para charlar. 
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/gpt4o-so-chatgpt-4o-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
