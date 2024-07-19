@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1638" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1645" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -45,12 +45,30 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
-    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
+    <h4>Chatbot de IA personalizado las 24 horas del día, los 7 días de la semana, más escalación</h4>
+    <p>Chat Data es una plataforma de chatbots de IA que ofrece una personalización flexible de backend y frontend. Crea chatbots con tu base de conocimientos, puntos finales personalizados o los modelos de Chat Data. Personaliza la interfaz del chatbot y opta por la etiqueta blanca. Las funciones adicionales incluyen la escalación del chat en vivo en los planes estándar o profesionales.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    </a>
+    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
+    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -65,18 +83,6 @@
 
 ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
     <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
-    </a>
-    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
-    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -134,6 +140,22 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
+### AiFaceSwap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aifaceswap.webp" alt="AiFaceSwap">
+
+#### null
+
+
+[Visit](https://thataicollection.com/redirect/aifaceswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/aifaceswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Logomakerr.AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
 
@@ -183,6 +205,22 @@ Crea un vídeo profesional arrastrando y soltando imágenes, vídeos, pegatinas,
 <br />
 
 
+### PicWish
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-picwish.webp" alt="PicWish">
+
+#### PicWish es una plataforma de edición de fotos con IA gratuita que permite a los usuarios hacer ediciones similares a las de Photoshop de forma rápida y sencilla.
+
+
+[Visit](https://thataicollection.com/redirect/picwish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PicWish está diseñado para simplificar y mejorar las tareas de edición de fotografías. Con sus funciones sólidas y su interfaz fácil de usar, PicWish hace que la edición de imágenes de nivel profesional sea accesible para todo el mundo, en todas las plataformas. Soporta la IA eliminar el fondo, crear retratos, mejorar las fotos, generar fondos, eliminar objetos no deseados, difuminar el fondo, aumentar el tamaño de la imagen, comprimir imágenes, etc. 
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/picwish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### SurveySwan
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-surveyswan.webp" alt="SurveySwan">
 
@@ -213,41 +251,6 @@ Escribir textos para propuestas de valor complejas y técnicas a menudo puede re
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/copyreadynow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Qaiz
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-qaiz.webp" alt="Qaiz">
-
-#### ¡Crea al instante un cuestionario multijugador sobre cualquier cosa!
-
-
-[Visit](https://thataicollection.com/redirect/qaiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Qaiz usa el GPT para generar cuestionarios de trivia al instante sobre cualquier tema, lo que permite competir en directo entre amigos, familiares y estudiantes. Incluye comentarios interesantes en directo y ofrece premios a los ganadores, lo que hace que la experiencia del cuestionario sea interactiva y gratificante. 
-
-Qaiz es una alternativa asequible, ligera y divertida a las aplicaciones de cuestionarios de tecnología educativa como Kahoot y Quizizz.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/qaiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Math GPT Solver Online Powered by GPT-4o | Math Bot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-math-gpt-solver-online-powered-by-gpt-4o-|-math-bot.webp" alt="AI Math GPT Solver Online Powered by GPT-4o | Math Bot">
-
-#### Solucionador de matemáticas GPT de IA en línea con GPT-4o | Math Bot
-
-
-[Visit](https://thataicollection.com/redirect/ai-math-gpt-solver-online-powered-by-gpt-4o-|-math-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-📸 ¿Qué es Math Bot?
-Math Bot aprovecha el poder del GPT-4o para transformar la forma en que abordas los problemas matemáticos. Simplemente toma una foto de cualquier problema de matemáticas y obtén una solución detallada paso a paso al instante. Ya sea álgebra, cálculo o algo intermedio, Math Bot es tu asistente de matemáticas preferido. Lo mejor de todo es que es de uso completamente gratuito.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/ai-math-gpt-solver-online-powered-by-gpt-4o-|-math-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -867,22 +870,6 @@ Imágenes generadas por IA protagonizadas por ti
 ---
 
 ## Robot de chat
-### Chatbit
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatbit.webp" alt="Chatbit">
-
-#### Chatbot de IA para tu sitio web, entrenado con tus datos
-
-
-[Visit](https://thataicollection.com/redirect/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chatbit es una herramienta de IA que permite a los usuarios crear chatbots de IA personalizados para sus sitios web. Los bots están diseñados para captar clientes, responder a sus preguntas y captar clientes potenciales.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Owlbot
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-owlbot.webp" alt="Owlbot">
 
@@ -976,6 +963,22 @@ ChatSimple es una plataforma que se especializa en crear chatbots orientados a l
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Chatbit
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatbit.webp" alt="Chatbit">
+
+#### Chatbot de IA para tu sitio web, entrenado con tus datos
+
+
+[Visit](https://thataicollection.com/redirect/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chatbit es una herramienta de IA que permite a los usuarios crear chatbots de IA personalizados para sus sitios web. Los bots están diseñados para captar clientes, responder a sus preguntas y captar clientes potenciales.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2831,6 +2834,23 @@ Crea certificados verificables, detiene el fraude y asegúrate de que tu conteni
 ---
 
 ## Generador de logotipos
+### Logomakerr.AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
+
+#### Crea un logotipo con IA: Logomakerr.AI combina tus ideas de negocio con logotipos generados por la IA con solo unos pocos clics.
+
+
+[Visit](https://thataicollection.com/redirect/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+¡La creación de una marca empieza aquí!
+Con cientos de plantillas disponibles en nuestro generador de logotipos de IA, ¡puedes lanzar, crear y hacer crecer tu negocio con confianza! Y no tienes que preocuparte por la experiencia de diseño ni por pagar a un diseñador de primera calidad. ¡Todo lo que necesitas para crear una marca está aquí!
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Looka
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-looka.webp" alt="Looka">
 
@@ -2926,22 +2946,6 @@ Zarla se creó para poner a disposición de todo el mundo logotipos de calidad p
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/zarla-logo-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Poster Maker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-poster-maker.webp" alt="AI Poster Maker">
-
-#### Crea texto a póster con el poder de la IA
-
-
-[Visit](https://thataicollection.com/redirect/ai-poster-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI Poster Maker es una herramienta fácil, rápida y asequible que te ayuda a generar pósters. Analiza las tendencias de diseño, sugiere combinaciones de colores y fuentes y crea diseños basándose en tu mínimo esfuerzo. Sin barreras, puedes dar rienda suelta a tu creatividad y crear imágenes impresionantes. 
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/ai-poster-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3264,6 +3268,22 @@ El chatbot Nextpart.ai mejora tu experiencia de chat con escenarios de NSFW sin 
 <br />
 
 
+### undressing io
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-martin.webp" alt="undressing io">
+
+#### Desvestirse con IA: desnuda fotos GRATIS con AI Undressing
+
+
+[Visit](https://thataicollection.com/redirect/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Undress AI undresser
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-ai-undresser.webp" alt="Undress AI undresser">
 
@@ -3293,22 +3313,6 @@ En Undressbaby AI, ofrecemos Grey's Secret Room, un servicio distintivo impulsad
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### undressing io
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-martin.webp" alt="undressing io">
-
-#### Desvestirse con IA: desnuda fotos GRATIS con AI Undressing
-
-
-[Visit](https://thataicollection.com/redirect/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¡La mejor NUEVA tecnología GRATUITA para desvestirse con IA! ¡Desvestirse para fotos con tecnología de IA! Transforma tu aspecto al instante. Fotos de desnudos con un solo clic. Muchos estilos y oportunidades de hacerlo con rapidez
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

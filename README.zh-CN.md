@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1638" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1645" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -45,12 +45,12 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>唯一一款支持量产的 AI 驱动的代码生成</h4>
-    <p>Jovu：唯一一个在 4 分钟内将想法转化为生产就绪代码的人工智能平台。使用可扩展的代码实现后端应用程序开发自动化，确保一致性、可预测性并遵守最高标准。</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>开始使用 Jovu by Amplication</b></a>
+    <h4>StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案</h4>
+    <p>StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>开始使用 StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -132,6 +132,22 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
+### AiFaceSwap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aifaceswap.webp" alt="AiFaceSwap">
+
+#### null
+
+
+[Visit](https://thataicollection.com/redirect/aifaceswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/aifaceswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Logomakerr.AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
 
@@ -227,24 +243,6 @@ CopyreadyNow 是一个人工智能驱动的文案写作平台，旨在帮助科�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/copyreadynow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Qaiz
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-qaiz.webp" alt="Qaiz">
-
-#### 立即创建有关任何内容的多人测验！
-
-
-[Visit](https://thataicollection.com/redirect/qaiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Qaiz 使用 GPT 即时生成任何主题的问答测验，从而实现朋友、家人和学生之间的现场竞争。它以引人入胜的现场评论为特色，为获胜者提供奖励，使测验体验既互动又有回报。 
-
-Qaiz是一款经济实惠、轻巧且有趣的替代方案，可替代Kahoot和Quizzz等教育科技问答应用程序。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/qaiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -864,22 +862,6 @@ AI 生成您主演的图片
 ---
 
 ## 聊天机器人
-### Chatbit
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatbit.webp" alt="Chatbit">
-
-#### 适用于您网站的 AI 聊天机器人，根据您的数据进行训练
-
-
-[Visit](https://thataicollection.com/redirect/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Owlbot
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-owlbot.webp" alt="Owlbot">
 
@@ -973,6 +955,22 @@ ChatSimple是一个专门在短短5分钟内为中小型企业（SMB）创建以
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/chatsimple?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Chatbit
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatbit.webp" alt="Chatbit">
+
+#### 适用于您网站的 AI 聊天机器人，根据您的数据进行训练
+
+
+[Visit](https://thataicollection.com/redirect/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chatbit 是一款人工智能工具，允许用户为他们的网站创建定制的人工智能聊天机器人。这些机器人旨在吸引客户，回答他们的问题并捕获潜在客户。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/chatbit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2828,6 +2826,23 @@ Spellbook 使用 GPT-3 在 Microsoft Word 中为您的合同审查和建议语�
 ---
 
 ## 徽标生成器
+### Logomakerr.AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
+
+#### 使用 AI 创建徽标-Logomakerr.AI 只需点击几下即可将您的商业理念与 AI 生成的徽标融为一体！
+
+
+[Visit](https://thataicollection.com/redirect/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+建立品牌从这里开始！
+我们的 AI 徽标生成器提供数百个模板，您可以放心地启动、建立和发展您的业务！而且无需担心任何设计经验，也无需为高级设计师付费。建立品牌所需的一切都在这里！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Looka
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-looka.webp" alt="Looka">
 
@@ -2923,22 +2938,6 @@ Zarla 的创建是为了向所有人提供专业品质的徽标。只需输入�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/zarla-logo-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Poster Maker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-poster-maker.webp" alt="AI Poster Maker">
-
-#### 利用 AI 的力量创建文字转海报
-
-
-[Visit](https://thataicollection.com/redirect/ai-poster-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI Poster Maker 是一款简单、快速且经济实惠的工具，可帮助您生成海报。它分析设计趋势，建议配色方案和字体组合，并根据您的最少输入创建设计。没有任何障碍，你可以释放你的创造力，创造出令人惊叹的视觉效果。 
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-poster-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3262,6 +3261,22 @@ Nextpart.ai 聊天机器人通过 No Filter NSFW 场景提升您的聊天体验�
 <br />
 
 
+### undressing io
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-martin.webp" alt="undressing io">
+
+#### AI Undressing-使用 AI Undressing 免费裸体照片
+
+
+[Visit](https://thataicollection.com/redirect/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Undress AI undresser
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-ai-undresser.webp" alt="Undress AI undresser">
 
@@ -3291,22 +3306,6 @@ Nextpart.ai 聊天机器人通过 No Filter NSFW 场景提升您的聊天体验�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### undressing io
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-martin.webp" alt="undressing io">
-
-#### AI Undressing-使用 AI Undressing 免费裸体照片
-
-
-[Visit](https://thataicollection.com/redirect/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-最好的全新免费 AI 脱衣技术！AI 驱动的脱衣服拍照！即时改变外观。一键拍摄裸照。款式多样，有机会快速完成
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
