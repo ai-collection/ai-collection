@@ -45,24 +45,30 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
-    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
+    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
+    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>La seule génération de code basée sur l'IA prête pour la production</h4>
-    <p>Jovu : la seule plateforme d'IA qui transforme les idées en code prêt à être produit en 4 minutes. Automatisez le développement de tes applications dorsales, en garantissant la cohérence, la prévisibilité et le respect des normes les plus strictes grâce à un code conçu pour évoluer.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Démarrer avec Jovu by Amplication</b></a>
+    <h4>Rédigez le CV parfait avec l''aide de l''IA</h4>
+    <p>Tu n''as pas besoin d''être une rédactrice de CV professionnelle pour créer rapidement et facilement un CV qui reflète fidèlement ton expérience professionnelle. Le générateur de CV IA personnalisable de Hunter t''aidera à rédiger un CV bien rédigé et adapté aux ATS afin de décrocher plus d''entretiens.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Démarrer avec Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -132,15 +138,31 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Morphic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-morphic.webp" alt="Morphic">
+### Bytecap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bytecap.webp" alt="Bytecap">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/morphic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Morphic
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-morphic.webp" alt="Morphic">
+
+#### Morphic transforme l'avenir de la narration grâce à des technologies innovantes. 
+
+
+[Visit](https://thataicollection.com/redirect/morphic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Morphic transforme l'avenir de la narration grâce à des technologies innovantes. La première offre de Morphic est Morphic Studio, une plateforme vidéo alimentée par l'IA conçue pour créer des vidéos contrôlées de bout en bout. Il améliore et accélère les flux de travail existants pour les créateurs de tous bords, qu'il s'agisse d'animateurs et de cinéastes professionnels ou de passionnés amateurs. 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/morphic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,24 +255,6 @@ Palteca propose une expérience immersive dans l'enseignement de l'espagnol. Tou
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/palteca?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### CoeFont
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-coefont.webp" alt="CoeFont">
-
-#### Des solutions vocales basées sur l'IA pour tous les besoins.                     
-
-
-[Visit](https://thataicollection.com/redirect/coefont?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-CoeFont est un hub vocal mondial basé sur l'IA qui ouvre la voie à la technologie du futur. Nous donnons aux utilisateurs du monde entier les moyens de réaliser tout le potentiel de leur voix.
-
-Utilise nos fonctionnalités innovantes telles que la synthèse vocale (TTS), le changeur de voix basé sur l'IA, la création de voix par IA et notre hub vocal CoeFont, qui propose des milliers de voix IA prêtes à être utilisées.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/coefont?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
