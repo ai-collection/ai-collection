@@ -45,6 +45,24 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    </a>
+    <h4>全天候自定义 AI 聊天机器人加上实时聊天升级</h4>
+    <p>Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
@@ -57,24 +75,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>唯一一款支持量产的 AI 驱动的代码生成</h4>
-    <p>Jovu：唯一一个在 4 分钟内将想法转化为生产就绪代码的人工智能平台。使用可扩展的代码实现后端应用程序开发自动化，确保一致性、可预测性并遵守最高标准。</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>开始使用 Jovu by Amplication</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
-    </a>
-    <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
-    <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
+    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
+    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>开始使用 Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -132,15 +138,31 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Vatis Tech
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vatis-tech.webp" alt="Vatis Tech">
+### goDeskless
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-godeskless.webp" alt="goDeskless">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/vatis-tech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/godeskless?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/godeskless?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Vatis Tech
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vatis-tech.webp" alt="Vatis Tech">
+
+#### 语音智能平台可释放音频潜力
+
+
+[Visit](https://thataicollection.com/redirect/vatis-tech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vatis Tech's提供尖端的语音转文本技术，利用专有的深度学习算法，自动将音频或视频文件转换为准确率超过90％的文本。我们既提供可通过 Web 应用程序访问的转录平台，也提供多功能语音转文本 API。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/vatis-tech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -234,22 +256,6 @@ CoCoClip.AI 专为 YouTube Shorts 和 TikTok 用户设计，为短视频创作�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-chatdocs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### SrefHunter- Free Midjourney Sref Codes
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-srefhunter-free-midjourney-sref-codes.webp" alt="SrefHunter- Free Midjourney Sref Codes">
-
-#### 400 多个免费的 Midjourney Sref 代码，解锁一个充满无限可能性和灵感的世界。
-
-
-[Visit](https://thataicollection.com/redirect/srefhunter-free-midjourney-sref-codes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我一直在收集Twitter上不同创作者共享的sref代码，到目前为止已经收集了400多个。解锁一个充满无限可能性和灵感的世界。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/srefhunter-free-midjourney-sref-codes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
