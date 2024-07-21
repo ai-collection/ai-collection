@@ -45,14 +45,12 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Найдите идеальную работу с помощью нашего искусственного интеллекта для подачи заявлений о приеме на работу. Каждую неделю автоматически подавайте заявки на сотни инженерных вакансий! Присоединяйтесь к ApplyPass, чтобы получить 100 бесплатных заявок.</h4>
-    <p>ApplyPass — это инструмент для поиска работы на базе искусственного интеллекта, который позволяет проводить больше собеседований. ApplyPass ежемесячно подает 200-400 индивидуальных заявлений о приеме на работу от вашего имени. Этот инструмент предлагает первые 100 заявок на работу бесплатно.
-
-ApplyPass.com провел тысячи интервью для инженеров, средний процент ответов на которые на 40% выше, чем в среднем по отрасли.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Начать работу с ApplyPass</b></a>
+    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
+    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -140,15 +138,32 @@ ApplyPass.com провел тысячи интервью для инженеро
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### AI Headshots
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-headshots.webp" alt="AI Headshots">
+### Vatis Tech
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vatis-tech.webp" alt="Vatis Tech">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ai-headshots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/vatis-tech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/vatis-tech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Headshots
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-headshots.webp" alt="AI Headshots">
+
+#### Загрузите селфи и получите профессиональный и реалистичный снимок головы в формате HD AI за 1 минуту онлайн. Сделайте снимок головы в своем профиле заметным.
+
+
+[Visit](https://thataicollection.com/redirect/ai-headshots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+На выбор предлагается более 20 типов одежды и фонов.
+ AI Headshots создан для того, чтобы запечатлеть вашу уникальную индивидуальность и продемонстрировать ваши лучшие черты. Наш инструмент для создания хедшотов обладает такими преимуществами, как конфиденциальность, безопасность, простота в эксплуатации и профессиональное качество. Он подходит для LinkedIn, резюме, страниц команд и других сценариев, помогая пользователям производить глубокое впечатление на людей.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/ai-headshots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -241,22 +256,6 @@ CoCoClip.AI разработан для пользователей YouTube Short
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/srefhunter-free-midjourney-sref-codes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Context Data
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-context-data.webp" alt="Context Data">
-
-#### Инфраструктура обработки данных и ETL для генеративных приложений искусственного интеллекта
-
-
-[Visit](https://thataicollection.com/redirect/context-data?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Context Data — это корпоративная инфраструктура данных, созданная для ускорения разработки конвейеров данных для приложений Generative AI. Платформа автоматизирует процесс настройки внутренних потоков обработки и преобразования данных с помощью простой в использовании платформы связи, позволяющей пользователям быстро подключаться ко всем своим внутренним источникам данных и объектам векторных баз данных без необходимости настройки
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/context-data?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
