@@ -57,26 +57,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
-    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>开始使用 AiApply</b></a>
+    <h4>唯一一款支持量产的 AI 驱动的代码生成</h4>
+    <p>Jovu：唯一一个在 4 分钟内将想法转化为生产就绪代码的人工智能平台。使用可扩展的代码实现后端应用程序开发自动化，确保一致性、可预测性并遵守最高标准。</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>开始使用 Jovu by Amplication</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>借助我们的求职AI找到理想的工作。每周自动申请数百个工程职位！加入 ApplyPass 获得 100 个免费应用程序。</h4>
-    <p>ApplyPass是一款由人工智能驱动的求职工具，可以让你获得更多的求职面试。ApplyPass每月代表你提交200-400份量身定制的求职申请。该工具免费提供前100份求职申请。
-
-ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行业平均水平高40％。</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>开始使用 ApplyPass</b></a>
+    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
+    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>开始使用 AiApply</b></a>
     <br />
 </div>
 
@@ -134,15 +132,32 @@ ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行�
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Cococlip.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cococlip-ai.webp" alt="Cococlip.AI">
+### Morphic
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-morphic.webp" alt="Morphic">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/cococlip-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/morphic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/morphic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Cococlip.AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cococlip-ai.webp" alt="Cococlip.AI">
+
+#### CoCoClip.AI 是一个易于使用的视频生成工具。
+
+
+[Visit](https://thataicollection.com/redirect/cococlip-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+CoCoClip.AI 专为 YouTube Shorts 和 TikTok 用户设计，为短视频创作提供了快速、便捷和高效的解决方案。无论您是初学者还是经验丰富的内容创作者，我们的工具都可以帮助您轻松制作引人注目的短视频。
+注册需要一个 Google 帐户，注册时提供免费积分。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/cococlip-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -236,26 +251,6 @@ CoeFont 是一个全球性的人工智能语音中心，开创了技术的未来
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/coefont?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Stable Diffusion 3 AI Image Generator Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stable-diffusion-3-ai-image-generator-free-online.webp" alt="Stable Diffusion 3 AI Image Generator Free Online">
-
-#### Stable Diffusion 3 免费在线人工智能图像生成器
-
-
-[Visit](https://thataicollection.com/redirect/stable-diffusion-3-ai-image-generator-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
- 🚀 推出 StableDiffusion3.net！ 
--免费每日配额：每天无需花一分钱即可享受高质量的图像生成。🆓
--无需登录：立即开始创建，无需注册的麻烦。🚪🔓
--多功能模型：我们的多种微调模型可满足各种场景。🖼️🎨
--多语言支持：用任何语言输入，看着奇迹发生！🌍🗣️
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/stable-diffusion-3-ai-image-generator-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
