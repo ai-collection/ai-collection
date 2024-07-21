@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1645" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1649" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -45,30 +45,12 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Chatbot de IA personalizado las 24 horas del día, los 7 días de la semana, más escalación</h4>
-    <p>Chat Data es una plataforma de chatbots de IA que ofrece una personalización flexible de backend y frontend. Crea chatbots con tu base de conocimientos, puntos finales personalizados o los modelos de Chat Data. Personaliza la interfaz del chatbot y opta por la etiqueta blanca. Las funciones adicionales incluyen la escalación del chat en vivo en los planes estándar o profesionales.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
-    </a>
-    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
-    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
+    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
+    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -83,6 +65,18 @@
 
 ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
     <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    </a>
+    <h4>La única generación de código basada en IA lista para producción</h4>
+    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -140,15 +134,31 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### AiFaceSwap
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aifaceswap.webp" alt="AiFaceSwap">
+### Stable Diffusion 3 AI Image Generator Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stable-diffusion-3-ai-image-generator-free-online.webp" alt="Stable Diffusion 3 AI Image Generator Free Online">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/aifaceswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/stable-diffusion-3-ai-image-generator-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/stable-diffusion-3-ai-image-generator-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AiFaceSwap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aifaceswap.webp" alt="AiFaceSwap">
+
+#### AiFaceSwapMe es una aplicación basada en la IA que permite a los usuarios crear divertidos vídeos de intercambio de caras sin esfuerzo. 
+
+
+[Visit](https://thataicollection.com/redirect/aifaceswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+«AiFaceSwapMe es una aplicación basada en inteligencia artificial diseñada para permitir a los usuarios crear vídeos de intercambio de rostros realistas y entretenidos con solo unos pocos clics. Esta innovadora herramienta es perfecta para los creadores de contenido que buscan producir rápidamente vídeos cortos atractivos, especialmente para plataformas como TikTok».
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/aifaceswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,24 +243,6 @@ SurveySwan es un innovador generador de encuestas con tecnología de inteligenci
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/surveyswan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### CopyReadyNow
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-copyreadynow.webp" alt="CopyReadyNow">
-
-#### Plataforma de redacción impulsada por la IA que ayuda a las empresas de tecnología a crear contenido preciso, sin la sensación de «escrito por la IA».
-
-
-[Visit](https://thataicollection.com/redirect/copyreadynow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-CopyReadyNow es una plataforma de redacción impulsada por la IA, diseñada para ayudar a las empresas de tecnología a producir contenido preciso, sin la sensación de «escrito por la IA». 
-
-Escribir textos para propuestas de valor complejas y técnicas a menudo puede resultar laborioso y lento. Con CopyReadyNow, puedes crear contenido fantástico con solo unos clics y no necesitas perder tiempo escribiendo complejas instrucciones de IA. 
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/copyreadynow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

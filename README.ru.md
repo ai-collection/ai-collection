@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1645" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1649" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -45,24 +45,30 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения</h4>
-    <p>AiApply — это динамичный набор инструментов искусственного интеллекта, разработанный для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявления о приеме на работу, повышает качество резюме, готовит к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, обеспечивая пользователям возможность выделиться на конкурентных рынках. Это важный инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интел</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Начать работу с AiApply</b></a>
+    <h4>Настраиваемый чат-бот с искусственным интеллектом, работающий круглосуточно и без выходных</h4>
+    <p>Chat Data — это платформа чат-ботов с искусственным интеллектом, предлагающая гибкую настройку бэкенда и интерфейса. Создавайте чат-ботов, используя свою базу знаний, настраиваемые конечные точки или модели Chat Data. Настройте интерфейс чат-бота и выберите белую маркировку. Дополнительные функции включают эскалацию онлайн-чата в стандартных или профессиональных тарифных планах.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Начать работу с Chat Data</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Единственная готовая к производству генерация кода на основе искусственного интеллекта</h4>
-    <p>Jovu: единственная платформа искусственного интеллекта, превращающая идеи в готовый к производству код за 4 минуты. Автоматизируйте разработку серверных приложений, обеспечивая согласованность, предсказуемость и соответствие самым высоким стандартам с помощью масштабируемого кода.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Начать работу с Jovu by Amplication</b></a>
+    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
+    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -132,15 +138,31 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### AiFaceSwap
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aifaceswap.webp" alt="AiFaceSwap">
+### Stable Diffusion 3 AI Image Generator Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stable-diffusion-3-ai-image-generator-free-online.webp" alt="Stable Diffusion 3 AI Image Generator Free Online">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/aifaceswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/stable-diffusion-3-ai-image-generator-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/stable-diffusion-3-ai-image-generator-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AiFaceSwap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aifaceswap.webp" alt="AiFaceSwap">
+
+#### AiFaceSwapme — это приложение на базе искусственного интеллекта, которое позволяет пользователям без труда создавать забавные видеоролики по смене лица. 
+
+
+[Visit](https://thataicollection.com/redirect/aifaceswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+«AiFaceSwapme — это приложение на базе искусственного интеллекта, предназначенное для того, чтобы пользователи могли создавать реалистичные и увлекательные видеоролики по смене лица всего за несколько кликов. Этот инновационный инструмент идеально подходит для создателей контента, которые хотят быстро создавать интересные короткие видеоролики, особенно для таких платформ, как TikTok».
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/aifaceswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -225,24 +247,6 @@ SurveySwan — это инновационный генератор опросо
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/surveyswan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### CopyReadyNow
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-copyreadynow.webp" alt="CopyReadyNow">
-
-#### Платформа копирайтинга на базе искусственного интеллекта, которая помогает технологическим компаниям создавать точный контент без ощущения «написанного искусственным интеллектом».
-
-
-[Visit](https://thataicollection.com/redirect/copyreadynow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-CopyReadyNow — это платформа копирайтинга на базе искусственного интеллекта, призванная помочь технологическим компаниям создавать точный контент без ощущения «написанного искусственным интеллектом». 
-
-Написание текстов для сложных и технических ценностных предложений часто бывает трудоемким и трудоемким занятием. С CopyReadyNow вы можете создавать отличный контент всего за несколько кликов и не ломать голову над написанием сложных подсказок для искусственного интеллекта. 
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/copyreadynow?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
