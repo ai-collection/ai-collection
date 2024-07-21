@@ -45,12 +45,24 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
-    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
+    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
+    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    </a>
+    <h4>La única generación de código basada en IA lista para producción</h4>
+    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -65,18 +77,6 @@
 
 ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
     <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
-    </a>
-    <h4>La única generación de código basada en IA lista para producción</h4>
-    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -134,15 +134,35 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Stable Diffusion 3 AI Image Generator Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stable-diffusion-3-ai-image-generator-free-online.webp" alt="Stable Diffusion 3 AI Image Generator Free Online">
+### CoeFont
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-coefont.webp" alt="CoeFont">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/stable-diffusion-3-ai-image-generator-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/coefont?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/coefont?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Stable Diffusion 3 AI Image Generator Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stable-diffusion-3-ai-image-generator-free-online.webp" alt="Stable Diffusion 3 AI Image Generator Free Online">
+
+#### Generador de imágenes con IA Stable Diffusion 3 gratis en línea
+
+
+[Visit](https://thataicollection.com/redirect/stable-diffusion-3-ai-image-generator-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ 🚀 ¡Presentamos StableDiffusion3.net! 
+- Cuotas diarias gratuitas: disfruta de la generación de imágenes de alta calidad todos los días sin gastar ni un centavo. 🆓
+- No es necesario iniciar sesión: empieza a crear al instante sin la molestia de registrarte. 🚪🔓
+- Modelos versátiles: nuestros múltiples modelos de ajuste se adaptan a varios escenarios. 🖼️🎨
+- Soporte multilingüe: escribe en cualquier idioma y verás cómo ocurre la magia. 🌍🗣️
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/stable-diffusion-3-ai-image-generator-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -227,22 +247,6 @@ PicWish está diseñado para simplificar y mejorar las tareas de edición de fot
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/picwish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### SurveySwan
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-surveyswan.webp" alt="SurveySwan">
-
-#### Generador de encuestas con tecnología de inteligencia artificial que agiliza la creación de encuestas y puede ofrecer información útil para tomar decisiones informadas.
-
-
-[Visit](https://thataicollection.com/redirect/surveyswan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SurveySwan es un innovador generador de encuestas con tecnología de inteligencia artificial diseñado para revolucionar la forma en que gestionas las encuestas y extraer información valiosa para la toma de decisiones estratégicas. Con su tecnología de vanguardia, SurveySwan ofrece una solución eficaz y perfecta para crear, distribuir y analizar encuestas con facilidad.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/surveyswan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

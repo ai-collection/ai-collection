@@ -45,36 +45,36 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
-    </a>
-    <h4>La seule génération de code basée sur l'IA prête pour la production</h4>
-    <p>Jovu : la seule plateforme d'IA qui transforme les idées en code prêt à être produit en 4 minutes. Automatisez le développement de tes applications dorsales, en garantissant la cohérence, la prévisibilité et le respect des normes les plus strictes grâce à un code conçu pour évoluer.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Démarrer avec Jovu by Amplication</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>Rédigez le CV parfait avec l''aide de l''IA</h4>
-    <p>Tu n''as pas besoin d''être une rédactrice de CV professionnelle pour créer rapidement et facilement un CV qui reflète fidèlement ton expérience professionnelle. Le générateur de CV IA personnalisable de Hunter t''aidera à rédiger un CV bien rédigé et adapté aux ATS afin de décrocher plus d''entretiens.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Démarrer avec Huntr AI Resume Builder</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
     <h4>Corporate Headshots AI : révolutionner les portraits d''entreprise grâce à l''IA</h4>
     <p>Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l''IA transforme tes selfies en portraits élégants, conformes aux normes de l''entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.</p>
     <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Démarrer avec Corporate Headshots AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
+    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    </a>
+    <h4>La seule génération de code basée sur l'IA prête pour la production</h4>
+    <p>Jovu : la seule plateforme d'IA qui transforme les idées en code prêt à être produit en 4 minutes. Automatisez le développement de tes applications dorsales, en garantissant la cohérence, la prévisibilité et le respect des normes les plus strictes grâce à un code conçu pour évoluer.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Démarrer avec Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -132,15 +132,35 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Stable Diffusion 3 AI Image Generator Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stable-diffusion-3-ai-image-generator-free-online.webp" alt="Stable Diffusion 3 AI Image Generator Free Online">
+### CoeFont
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-coefont.webp" alt="CoeFont">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/stable-diffusion-3-ai-image-generator-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/coefont?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/coefont?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Stable Diffusion 3 AI Image Generator Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stable-diffusion-3-ai-image-generator-free-online.webp" alt="Stable Diffusion 3 AI Image Generator Free Online">
+
+#### Générateur d'images IA Stable Diffusion 3 gratuit en ligne
+
+
+[Visit](https://thataicollection.com/redirect/stable-diffusion-3-ai-image-generator-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ 🚀 Présentation de StableDiffusion3.net ! 
+- Quotas quotidiens gratuits : profitez de la génération d'images de haute qualité au quotidien sans dépenser un centime. 🆓
+- Aucune connexion requise : commence à créer instantanément, sans avoir à t'inscrire. 🚪🔓
+- Modèles polyvalents : Nos nombreux modèles de réglage s'adaptent à différents scénarios. 🖼️🎨
+- Support multilingue : saisissez-le dans n'importe quelle langue et regardez la magie opérer ! 🌍🗣️
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/stable-diffusion-3-ai-image-generator-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -225,22 +245,6 @@ PicWish est conçu pour simplifier et améliorer les tâches de retouche photo. 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/picwish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### SurveySwan
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-surveyswan.webp" alt="SurveySwan">
-
-#### Générateur d'enquêtes basé sur l'IA qui rationalise la création des enquêtes et peut fournir des informations exploitables pour une prise de décision éclairée.
-
-
-[Visit](https://thataicollection.com/redirect/surveyswan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SurveySwan est un générateur d'enquêtes innovant alimenté par l'IA, conçu pour révolutionner la façon dont tu gères les enquêtes et en extraire des informations précieuses pour la prise de décisions stratégiques. Grâce à sa technologie de pointe, SurveySwan propose une solution fluide et efficace pour créer, distribuer et analyser des enquêtes en toute simplicité.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/surveyswan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
