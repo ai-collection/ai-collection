@@ -45,30 +45,14 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
-    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
-    <br />
-</div>
+    <h4>Найдите идеальную работу с помощью нашего искусственного интеллекта для подачи заявлений о приеме на работу. Каждую неделю автоматически подавайте заявки на сотни инженерных вакансий! Присоединяйтесь к ApplyPass, чтобы получить 100 бесплатных заявок.</h4>
+    <p>ApplyPass — это инструмент для поиска работы на базе искусственного интеллекта, который позволяет проводить больше собеседований. ApplyPass ежемесячно подает 200-400 индивидуальных заявлений о приеме на работу от вашего имени. Этот инструмент предлагает первые 100 заявок на работу бесплатно.
 
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
-    </a>
-    <h4>Настраиваемый чат-бот с искусственным интеллектом, работающий круглосуточно и без выходных</h4>
-    <p>Chat Data — это платформа чат-ботов с искусственным интеллектом, предлагающая гибкую настройку бэкенда и интерфейса. Создавайте чат-ботов, используя свою базу знаний, настраиваемые конечные точки или модели Chat Data. Настройте интерфейс чат-бота и выберите белую маркировку. Дополнительные функции включают эскалацию онлайн-чата в стандартных или профессиональных тарифных планах.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Начать работу с Chat Data</b></a>
+ApplyPass.com провел тысячи интервью для инженеров, средний процент ответов на которые на 40% выше, чем в среднем по отрасли.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Начать работу с ApplyPass</b></a>
     <br />
 </div>
 
@@ -81,6 +65,18 @@
     <h4>StickerIt.AI | #1 Мобильное решение для дизайна и продажи стикеров на базе искусственного интеллекта</h4>
     <p>StickerIt.AI — это ваше лучшее решение для создания и продажи стикеров на базе искусственного интеллекта прямо с вашего мобильного устройства. Превратите любое место в яркую мастерскую по стикерам. Имея всего два планшета и принтер, вы можете начать продавать наклейки, изготовленные на заказ, за считанные минуты. Наша платформа предназначена для ведения бизнеса по производству наклеек с искусственным интеллектом в любое время и в любом месте.</p>
     <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Начать работу с StickerIt.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    </a>
+    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
+    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -138,15 +134,31 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Vatis Tech
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vatis-tech.webp" alt="Vatis Tech">
+### goDeskless
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-godeskless.webp" alt="goDeskless">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/vatis-tech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/godeskless?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/godeskless?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Vatis Tech
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vatis-tech.webp" alt="Vatis Tech">
+
+#### Платформа речевого интеллекта для раскрытия звукового потенциала
+
+
+[Visit](https://thataicollection.com/redirect/vatis-tech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vatis Tech предлагает передовую технологию преобразования речи в текст, которая автоматически преобразует аудио- или видеофайлы в текст с точностью более 90%, используя запатентованные алгоритмы глубокого обучения. Мы предоставляем как платформу транскрипции, доступную через веб-приложение, так и универсальный API преобразования речи в текст.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/vatis-tech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -240,22 +252,6 @@ CoCoClip.AI разработан для пользователей YouTube Short
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/ai-chatdocs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### SrefHunter- Free Midjourney Sref Codes
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-srefhunter-free-midjourney-sref-codes.webp" alt="SrefHunter- Free Midjourney Sref Codes">
-
-#### Более 400 бесплатных кодов Sref Midjourney, откройте для себя мир безграничных возможностей и вдохновения.
-
-
-[Visit](https://thataicollection.com/redirect/srefhunter-free-midjourney-sref-codes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Я собирал коды sref, которыми поделились разные авторы в Twitter, и на данный момент собрал более 400. Откройте для себя мир безграничных возможностей и вдохновения.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/srefhunter-free-midjourney-sref-codes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
