@@ -45,30 +45,6 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
-    </a>
-    <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
-    <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
-    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>开始使用 Wordfixerbot</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -81,6 +57,30 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    </a>
+    <h4>在 AI 的帮助下制作完美的简历</h4>
+    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    </a>
+    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
+    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>开始使用 Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -138,15 +138,37 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Bytecap
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bytecap.webp" alt="Bytecap">
+### AI Headshots
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-headshots.webp" alt="AI Headshots">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-headshots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-headshots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Bytecap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bytecap.webp" alt="Bytecap">
+
+#### 使用 Bytecap-自定义 AI 字幕提高视频参与度
+
+
+[Visit](https://thataicollection.com/redirect/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Bytecap 是您创建自定义视频字幕的终极工具，可提高参与度并最大限度地提高收视率。 
+
+Bytecap 在几秒钟内生成 99% 准确的字幕，支持超过 99 种语言。 
+
+使用各种字体、颜色、表情符号、效果等自定义字幕，让您的视频脱颖而出。
+
+ Bytecap 非常适合视频编辑、内容创作者、播客和主播 
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,28 +255,6 @@ Context Data 是一个企业数据基础架构，旨在加速生成式 AI 应用
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/context-data?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Palteca
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-palteca.webp" alt="Palteca">
-
-#### 通过有科学依据的方法与Palteca一起学习西班牙语，这些方法如今使用最新的人工智能技术得到了增强和实现。
-
-
-[Visit](https://thataicollection.com/redirect/palteca?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Palteca为西班牙语教学提供了身临其境的体验。所有课程内容完全使用西班牙语。用户能够通过人工智能实现的功能来阅读、收听、写作和说话。
-
--只学习有用的词汇
--使用发音的实时反馈来练习说话
--练习阅读短篇小说
--可选语法练习
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/palteca?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

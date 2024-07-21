@@ -55,12 +55,12 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>Corporate Headshots AI: Revolutionizing Corporate Portraits with AI</h4>
-    <p>Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Get Started with Corporate Headshots AI</b></a>
+    <h4>The only production-ready AI-powered code generation</h4>
+    <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -148,6 +148,23 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### AI Headshots
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-headshots.webp" alt="AI Headshots">
+
+#### Upload a selfie, and get a professional and realistic HD AI headshot in 1 minute online. Make your profile headshot stand out.
+
+
+[Visit](https://thataicollection.com/redirect/ai-headshots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+There are 20+ types of clothing and backgrounds to choose from.
+ AI Headshots are designed to capture your unique personality and showcase your best features. Our headshot generation tool has the advantages of privacy security, easy operation, and professional quality. It is suitable for LinkedIn, resumes, team pages, and other scenarios, helping users to leave a deep impression on people.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/ai-headshots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Bytecap
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bytecap.webp" alt="Bytecap">
 
@@ -249,28 +266,6 @@ Context Data is an enterprise data infrastructure built to accelerate the develo
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/context-data?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Palteca
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-palteca.webp" alt="Palteca">
-
-#### Learn Spanish with Palteca through methods that are backed by science, enhanced and made possible today using the latest in AI.
-
-
-[Visit](https://thataicollection.com/redirect/palteca?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Palteca offers an immersive experience in teaching Spanish. All of the lesson content is completely in Spanish. Users are able to read, listen, write, and speak all through functionalities that are made possible by AI.
-
-- Learn only useful vocabulary
-- Practice speaking with real-time feedback on your pronunciation
-- Practice reading through short stories
-- Optional grammar practice
-
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/palteca?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
