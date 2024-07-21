@@ -45,6 +45,18 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    </a>
+    <h4>एकमात्र प्रॉडक्शन-तैयार AI-संचालित कोड जनरेशन</h4>
+    <p>जोवू: एकमात्र AI प्लेटफ़ॉर्म, जो 4 मिनट में आइडिया को प्रोडक्शन-रेडी कोड में बदल देता है। अपने बैकएंड अनुप्रयोगों के डेवलपमेंट को स्वचालित करें, ताकि बड़े पैमाने पर बनाए गए कोड के साथ निरंतरता, पूर्वानुमान और उच्चतम मानकों का पालन किया जा सके।</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>के साथ आरंभ करें Jovu by Amplication</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
@@ -57,26 +69,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>पैराफ़्रेसिंग टूल - सर्वश्रेष्ठ मुफ़्त ऑनलाइन पैराफ़्रेज़र - Wordfixerbot</h4>
-    <p>WordFixerBot का पैराफ़्रेसिंग टूल किसी भी टेक्स्ट, वाक्य, लेख, पैराग्राफ, पेपर या दस्तावेज़ों को तुरंत और सटीक तरीके से फिर से लिखने में तुम्हारी मदद करने के लिए एकदम सही टूल है। अभी शुरू करो और अपने लेखन को सबसे अलग बनाओ!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>के साथ आरंभ करें Wordfixerbot</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
-    </a>
-    <h4>हमारे जॉब एप्लीकेशन एआई की मदद से अपने लिए आदर्श नौकरी पाओ। हर हफ़्ते सैंकड़ों इंजीनियरिंग नौकरियों पर स्वचालित रूप से आवेदन करो! 100 मुफ़्त ऐप्लिकेशन पाने के लिए ApplyPass से जुड़ें।</h4>
-    <p>ApplyPass एक AI-संचालित जॉब सर्च टूल है, जिससे तुम्हेंं नौकरी के लिए ज़्यादा इंटरव्यू मिलते हैं। ApplyPass तुम्हारी ओर से हर महीने 200-400 अनुकूलित नौकरी के लिए आवेदन सबमिट करता है। यह टूल नौकरी के पहले 100 आवेदन मुफ़्त में देता है।
-
-ApplyPass.com ने इंजीनियरों के लिए हज़ारों इंटरव्यू तैयार किए हैं, जिनका औसत रिस्पांस रेट इंडस्ट्री के औसत से 40% ज्यादा है।</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>के साथ आरंभ करें ApplyPass</b></a>
+    <h4>StickerIt.AI | #1 मोबाइल, एआई-संचालित स्टिकर डिज़ाइन और सेल्स सॉल्यूशन</h4>
+    <p>StickerIt.AI सीधे अपने मोबाइल डिवाइस से AI-संचालित स्टिकर बनाने और बेचने का तुम्हारा प्रमुख समाधान है। किसी भी स्थान को एक जीवंत स्टिकर वर्कशॉप में ट्रांसफ़ॉर्म करें। सिर्फ़ दो टैबलेट और एक प्रिंटर की मदद से, तुम मिनटों में बनाए गए कस्टम स्टिकर बेचना शुरू कर सकते हो। हमारा प्लेटफ़ॉर्म तुम्हारे AI स्टिकर का कारोबार, कभी भी, कहीं भी चलाने के लिए डिज़ाइन किया गया है।</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>के साथ आरंभ करें StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -134,15 +132,31 @@ ApplyPass.com ने इंजीनियरों के लिए हज़�
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### SrefHunter- Free Midjourney Sref Codes
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-srefhunter-free-midjourney-sref-codes.webp" alt="SrefHunter- Free Midjourney Sref Codes">
+### AI ChatDocs
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-chatdocs.webp" alt="AI ChatDocs">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/srefhunter-free-midjourney-sref-codes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-chatdocs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/ai-chatdocs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### SrefHunter- Free Midjourney Sref Codes
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-srefhunter-free-midjourney-sref-codes.webp" alt="SrefHunter- Free Midjourney Sref Codes">
+
+#### 400+ मुफ़्त मिडजर्नी सेफ कोड, अनंत संभावनाओं और प्रेरणाओं की दुनिया अनलॉक करें।
+
+
+[Visit](https://thataicollection.com/redirect/srefhunter-free-midjourney-sref-codes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+मैं विभिन्न क्रिएटर्स द्वारा Twitter पर शेयर किए गए sref कोड इकट्ठा कर रहा हूँ और अब तक 400 से ज़्यादा इकट्ठा कर चुका हूँ। अनंत संभावनाओं और प्रेरणाओं वाली दुनिया को अनलॉक करें।
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/srefhunter-free-midjourney-sref-codes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -238,23 +252,6 @@ CoeFont एक ग्लोबल AI वॉइस हब है जो टेक
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/aifaceswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Logomakerr.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
-
-#### AI के ज़रिए लोगो बनाएँ - Logomakerr.AI बस कुछ ही क्लिक में तुम्हारे कारोबार के विचारों को AI-जनरेट किए गए लोगो के साथ ब्लेंड करता है!
-
-
-[Visit](https://thataicollection.com/redirect/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ब्रैंड बनाना यहीं से शुरू होता है!
-हमारे AI लोगो जनरेटर के पास सैकड़ों टेम्प्लेट उपलब्ध होने के कारण, तुम पूरे विश्वास के साथ अपना व्यवसाय लॉन्च कर सकते हो, उसे बना सकते हो और उसे बढ़ा सकते हो! और किसी भी डिज़ाइन अनुभव की चिंता करने या किसी प्रीमियम डिज़ाइनर के लिए भुगतान करने की कोई ज़रूरत नहीं है। एक ब्रैंड बनाने के लिए तुम्हेंं जो कुछ भी चाहिए वह सब यहाँ है!
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

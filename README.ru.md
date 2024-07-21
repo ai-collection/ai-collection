@@ -45,20 +45,6 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
-    </a>
-    <h4>Найдите идеальную работу с помощью нашего искусственного интеллекта для подачи заявлений о приеме на работу. Каждую неделю автоматически подавайте заявки на сотни инженерных вакансий! Присоединяйтесь к ApplyPass, чтобы получить 100 бесплатных заявок.</h4>
-    <p>ApplyPass — это инструмент для поиска работы на базе искусственного интеллекта, который позволяет проводить больше собеседований. ApplyPass ежемесячно подает 200-400 индивидуальных заявлений о приеме на работу от вашего имени. Этот инструмент предлагает первые 100 заявок на работу бесплатно.
-
-ApplyPass.com провел тысячи интервью для инженеров, средний процент ответов на которые на 40% выше, чем в среднем по отрасли.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Начать работу с ApplyPass</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
@@ -77,6 +63,18 @@ ApplyPass.com провел тысячи интервью для инженеро
     <h4>StickerIt.AI | #1 Мобильное решение для дизайна и продажи стикеров на базе искусственного интеллекта</h4>
     <p>StickerIt.AI — это ваше лучшее решение для создания и продажи стикеров на базе искусственного интеллекта прямо с вашего мобильного устройства. Превратите любое место в яркую мастерскую по стикерам. Имея всего два планшета и принтер, вы можете начать продавать наклейки, изготовленные на заказ, за считанные минуты. Наша платформа предназначена для ведения бизнеса по производству наклеек с искусственным интеллектом в любое время и в любом месте.</p>
     <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Начать работу с StickerIt.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    </a>
+    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
+    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -134,15 +132,31 @@ ApplyPass.com провел тысячи интервью для инженеро
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### SrefHunter- Free Midjourney Sref Codes
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-srefhunter-free-midjourney-sref-codes.webp" alt="SrefHunter- Free Midjourney Sref Codes">
+### AI ChatDocs
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-chatdocs.webp" alt="AI ChatDocs">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/srefhunter-free-midjourney-sref-codes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-chatdocs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/ai-chatdocs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### SrefHunter- Free Midjourney Sref Codes
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-srefhunter-free-midjourney-sref-codes.webp" alt="SrefHunter- Free Midjourney Sref Codes">
+
+#### Более 400 бесплатных кодов Sref Midjourney, откройте для себя мир безграничных возможностей и вдохновения.
+
+
+[Visit](https://thataicollection.com/redirect/srefhunter-free-midjourney-sref-codes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Я собирал коды sref, которыми поделились разные авторы в Twitter, и на данный момент собрал более 400. Откройте для себя мир безграничных возможностей и вдохновения.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/srefhunter-free-midjourney-sref-codes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -238,23 +252,6 @@ CoeFont — это глобальный голосовой центр искус
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/aifaceswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Logomakerr.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
-
-#### Создайте логотип с помощью искусственного интеллекта - Logomakerr.AI сочетает ваши бизнес-идеи с логотипами, созданными искусственным интеллектом, всего за несколько кликов!
-
-
-[Visit](https://thataicollection.com/redirect/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Создание бренда начинается здесь!
-Благодаря сотням шаблонов, доступных в нашем генераторе логотипов с искусственным интеллектом, вы можете уверенно запускать, строить и развивать свой бизнес! И вам не нужно беспокоиться об опыте проектирования или платить за дизайнера премиум-класса. Здесь есть все, что вам нужно для создания бренда!
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
