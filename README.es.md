@@ -45,18 +45,6 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
-    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -83,6 +71,18 @@
 
 ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
     <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    </a>
+    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
+    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -140,15 +140,31 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### POTOAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-potoai.webp" alt="POTOAI">
+### Fact-Check & Cite
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fact-check-and-cite.webp" alt="Fact-Check & Cite">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/potoai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/fact-check-and-cite?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/fact-check-and-cite?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### POTOAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-potoai.webp" alt="POTOAI">
+
+#### POTO AI: fotógrafo profesional de IA   
+
+
+[Visit](https://thataicollection.com/redirect/potoai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+POTO.AI es una plataforma de fotografía con IA diseñada para que las sesiones de fotos sean asequibles, flexibles y rápidas en comparación con los métodos tradicionales. Con POTO.AI, puedes generar fotos de cabezas, retratos y bodas de parejas sin una sesión de fotos física. 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/potoai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -241,22 +257,6 @@ Inspírate con la IA de Robopost: nuestra IA genera ideas para publicaciones ada
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/robopost-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### goDeskless
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-godeskless.webp" alt="goDeskless">
-
-#### GoDeskLess, impulsado por la IA, optimiza el servicio de campo y aumenta la satisfacción de los clientes
-
-
-[Visit](https://thataicollection.com/redirect/godeskless?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-GoDeskLess es una plataforma SaaS vanguardista diseñada para transformar el sector de los servicios de campo al abordar los desafíos tradicionales de la programación, la comunicación y las limitaciones tecnológicas. 
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/godeskless?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
