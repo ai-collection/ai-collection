@@ -45,6 +45,18 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    </a>
+    <h4>Единственная готовая к производству генерация кода на основе искусственного интеллекта</h4>
+    <p>Jovu: единственная платформа искусственного интеллекта, превращающая идеи в готовый к производству код за 4 минуты. Автоматизируйте разработку серверных приложений, обеспечивая согласованность, предсказуемость и соответствие самым высоким стандартам с помощью масштабируемого кода.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Начать работу с Jovu by Amplication</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
@@ -57,24 +69,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
-    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
-    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
+    <h4>Инструмент для перефразирования - лучший бесплатный онлайн-парафразировщик - Wordfixerbot</h4>
+    <p>Инструмент перефразирования WordFixerBot — идеальный инструмент, который поможет вам быстро и точно перефразировать любые тексты, предложения, статьи, абзацы, статьи или документы. Начните прямо сейчас и сделайте свой текст незабываемым!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Начать работу с Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -132,15 +132,35 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Clip Remix
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-clip-remix.webp" alt="Clip Remix">
+### AiInterview
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiinterview.webp" alt="AiInterview">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/clip-remix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/aiinterview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/aiinterview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Clip Remix
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-clip-remix.webp" alt="Clip Remix">
+
+#### Превратите видео с YouTube в темы Twitter с помощью искусственного интеллекта
+
+
+[Visit](https://thataicollection.com/redirect/clip-remix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Выберите свое любимое видео на YouTube, отправьте его, и Clip Remix создаст вашу ветку в Twitter с помощью искусственного интеллекта. После этого вы можете поделиться своей созданной темой в Твиттере.
+
+Готовы изменить процесс создания контента?
+
+Присоединяйтесь к Clip Remix сегодня и кардинально измените способ создания тем в Твиттере. Подписка не требуется, начните бесплатно с 5 кредитов при регистрации.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/clip-remix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -231,22 +251,6 @@ Bytecap генерирует субтитры с точностью 99% за с�
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Morphic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-morphic.webp" alt="Morphic">
-
-#### Morphic меняет будущее повествования с помощью инновационных технологий. 
-
-
-[Visit](https://thataicollection.com/redirect/morphic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Morphic меняет будущее повествования с помощью инновационных технологий. Первым предложением Morphic является Morphic Studio, видеоплатформа на базе искусственного интеллекта, предназначенная для создания сквозных контролируемых видеороликов. Она расширяет и ускоряет существующие рабочие процессы для создателей всех мастей, от профессиональных аниматоров и кинематографистов до энтузиастов-любителей. 
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/morphic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

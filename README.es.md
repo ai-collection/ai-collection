@@ -45,24 +45,26 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
-    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
+    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
+    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
+
+ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>La única generación de código basada en IA lista para producción</h4>
-    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
+    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
+    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -132,15 +134,35 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Clip Remix
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-clip-remix.webp" alt="Clip Remix">
+### AiInterview
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiinterview.webp" alt="AiInterview">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/clip-remix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/aiinterview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/aiinterview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Clip Remix
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-clip-remix.webp" alt="Clip Remix">
+
+#### Transforma los vídeos de YouTube en hilos de Twitter con el poder de la IA
+
+
+[Visit](https://thataicollection.com/redirect/clip-remix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Selecciona tu vídeo favorito de YouTube, envíalo y Clip Remix creará tu hilo de Twitter con la potencia de la IA. Después de eso, podrás compartir tu hilo de Twitter creado.
+
+¿Estás listo para transformar tu proceso de creación de contenido?
+
+Únete hoy a Clip Remix y revoluciona la forma en que creas los hilos de Twitter. No se necesita suscripción, empieza gratis con 5 créditos al registrarte.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/clip-remix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -231,22 +253,6 @@ Personaliza los subtítulos con una variedad de fuentes, colores, emojis, efecto
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Morphic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-morphic.webp" alt="Morphic">
-
-#### Morphic está transformando el futuro de la narración con tecnologías innovadoras. 
-
-
-[Visit](https://thataicollection.com/redirect/morphic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Morphic está transformando el futuro de la narración con tecnologías innovadoras. La primera oferta de Morphic es Morphic Studio, una plataforma de vídeo basada en IA diseñada para crear vídeos controlados de extremo a extremo. Mejora y acelera los flujos de trabajo existentes para creadores de todo tipo, desde animadores y cineastas profesionales hasta entusiastas aficionados. 
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/morphic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
