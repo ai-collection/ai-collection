@@ -45,14 +45,12 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
-    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
-
-ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
+    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
+    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
     <br />
 </div>
 
@@ -71,12 +69,14 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
-    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
+    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
+    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
+
+ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
     <br />
 </div>
 
@@ -134,15 +134,34 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Bagoodex
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bagoodex.webp" alt="Bagoodex">
+### XTEN-AV
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-xten-av.webp" alt="XTEN-AV">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/bagoodex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/xten-av?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/xten-av?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Bagoodex
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bagoodex.webp" alt="Bagoodex">
+
+#### Bagoodex recorre la web para recopilar la información más relevante y ofrece un texto conciso acompañado de enlaces directos a las fuentes originales.
+
+
+[Visit](https://thataicollection.com/redirect/bagoodex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Exploración continua: profundiza en los temas con la función «Seguimiento», que sugiere preguntas relacionadas e información nueva.
+Recomendaciones de vídeo con IA: descubre tutoriales y contenido adaptados a tus intereses.
+Previsión meteorológica con IA: accede a previsiones meteorológicas precisas con algoritmos inteligentes.
+AI Place Survey: explora las ubicaciones a través de mapas, imágenes y descripciones.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/bagoodex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -230,23 +249,6 @@ Vatis Tech's ofrece una tecnología vanguardista de conversión de voz a texto q
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/vatis-tech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Headshots
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-headshots.webp" alt="AI Headshots">
-
-#### Sube una selfie y consigue una foto de IA HD profesional y realista en 1 minuto en Internet. Haz que tu foto de perfil destaque.
-
-
-[Visit](https://thataicollection.com/redirect/ai-headshots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Hay más de 20 tipos de ropa y fondos entre los que elegir.
- Los disparos a la cabeza con IA están diseñados para capturar tu personalidad única y mostrar tus mejores rasgos. Nuestra herramienta de generación de retratos tiene las ventajas de la privacidad, la seguridad, la facilidad de uso y la calidad profesional. Es adecuado para LinkedIn, currículums, páginas de equipo y otros escenarios, ya que ayuda a los usuarios a dejar una profunda impresión en la gente.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/ai-headshots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
