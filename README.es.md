@@ -45,26 +45,30 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
-    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
+    <h4>Chatbot de IA personalizado las 24 horas del día, los 7 días de la semana, más escalación</h4>
+    <p>Chat Data es una plataforma de chatbots de IA que ofrece una personalización flexible de backend y frontend. Crea chatbots con tu base de conocimientos, puntos finales personalizados o los modelos de Chat Data. Personaliza la interfaz del chatbot y opta por la etiqueta blanca. Las funciones adicionales incluyen la escalación del chat en vivo en los planes estándar o profesionales.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
-    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
-
-ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
+    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
+    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
     <br />
 </div>
 
@@ -134,15 +138,31 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Easify AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-easify-ai.webp" alt="Easify AI">
+### AI Content Detector by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/easify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Easify AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-easify-ai.webp" alt="Easify AI">
+
+#### Easify AI: revolucionando el análisis de datos con el lenguaje natural.
+
+
+[Visit](https://thataicollection.com/redirect/easify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La IA de Easify desbloquea tus datos como ChatGPT desbloquea el idioma. Haz preguntas en inglés sencillo y obtén respuestas de tus bases de datos (MySQL, PostgreSQL, etc.) de forma segura y sencilla. Es como por arte de magia para los amantes de los datos 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/easify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,22 +249,6 @@ La interconexión de la IA revoluciona la forma en que gestionas los enlaces int
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/ai-interlinking?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Fact-Check & Cite
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fact-check-and-cite.webp" alt="Fact-Check & Cite">
-
-#### Detecta y verifica las afirmaciones en tu contenido con explicaciones, motivos y citas.
-
-
-[Visit](https://thataicollection.com/redirect/fact-check-and-cite?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Fact-Check & Cite es una potente herramienta diseñada para mejorar la credibilidad de tu contenido. Detecta automáticamente las afirmaciones en tu texto y comprueba su exactitud, proporcionando explicaciones, motivos y citas detallados. Esto garantiza que tu contenido sea fiable y digno de confianza. Ideal para blogueros, periodistas y creadores de contenido, Fact-Check & Cite te ahorra tiempo y esfuerzo en la verificación.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/fact-check-and-cite?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
