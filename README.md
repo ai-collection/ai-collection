@@ -55,6 +55,30 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    </a>
+    <h4>The only production-ready AI-powered code generation</h4>
+    <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    </a>
+    <h4>Corporate Headshots AI: Revolutionizing Corporate Portraits with AI</h4>
+    <p>Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Get Started with Corporate Headshots AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
@@ -63,30 +87,6 @@ Translations:
 
 ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that''s 40% higher than the industry average.</p>
     <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Get Started with ApplyPass</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>Craft the perfect resume, with a little help from AI</h4>
-    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
-    </a>
-    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
-    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -144,6 +144,26 @@ ApplyPass.com has generated thousands of interviews for engineers, with an avera
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Clip Remix
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-clip-remix.webp" alt="Clip Remix">
+
+#### Transform YouTube videos into Twitter threads with the power of AI
+
+
+[Visit](https://thataicollection.com/redirect/clip-remix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Select your favorite YouTube video, submit it and Clip Remix will build your Twitter thread with the power of AI. After that, you can share your crafted Twitter Thread.
+
+Ready to transform your content creation process?
+
+Join Clip Remix today and revolutionize the way you create Twitter threads. No subscription is needed, start for free with 5 credits upon signing up.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/clip-remix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Robopost AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-robopost-ai.webp" alt="Robopost AI">
 
@@ -243,23 +263,6 @@ Morphic is transforming the future of storytelling with innovative technologies.
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/morphic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Cococlip.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cococlip-ai.webp" alt="Cococlip.AI">
-
-#### CoCoClip.AI is an easy-to-use video generation tool.
-
-
-[Visit](https://thataicollection.com/redirect/cococlip-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-CoCoClip.AI is designed for YouTube Shorts and TikTok users, offering a fast, convenient, and efficient solution for short video creation. Whether you're a beginner or an experienced content creator, our tool can help you easily produce attention-grabbing short videos.
-Registration requires a Google account, with free points offered upon registration.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/cococlip-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
