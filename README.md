@@ -55,24 +55,24 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
-    </a>
-    <h4>The only production-ready AI-powered code generation</h4>
-    <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
     <h4>Corporate Headshots AI: Revolutionizing Corporate Portraits with AI</h4>
     <p>Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.</p>
     <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Get Started with Corporate Headshots AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    </a>
+    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
+    <p>WordfixerBot''s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Get Started with Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -148,6 +148,24 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Mailsplash AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mailsplash-ai.webp" alt="Mailsplash AI">
+
+#### Mailsplash enables optimal, frictionless email marketing, without the hefty price tag.
+
+
+[Visit](https://thataicollection.com/redirect/mailsplash-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Mailsplash is your AI email marketer. From copywriting to seamless design customization, Mailsplash equips you with the tools you need to revolutionize your email marketing strategy.
+
+After you're done designing your emails, you can send quickly with one of our custom ESP integrations.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/mailsplash-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Deepswap
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deepswap.webp" alt="Deepswap">
 
@@ -241,24 +259,6 @@ POTO.AI is a  AI photography platform designed to make photoshoots affordable, f
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/potoai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### XTEN-AV
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-xten-av.webp" alt="XTEN-AV">
-
-#### We help people create
-amazing AV designs
-& winning proposals
-
-
-[Visit](https://thataicollection.com/redirect/xten-av?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Welcome to Xten-AV, your premier partner in the dynamic world of audiovisual technology. As a leading provider in the industry, Xten-AV is committed to delivering cutting-edge solutions that redefine the way businesses engage, communicate, and collaborate. With expertise spanning across audio, video, lighting, and control systems, Xten-AV offers a comprehensive suite of services.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/xten-av?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
