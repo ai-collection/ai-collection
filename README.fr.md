@@ -45,18 +45,6 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
-    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
@@ -69,12 +57,30 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
-    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
+    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
+    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    </a>
+    <h4>La seule génération de code basée sur l'IA prête pour la production</h4>
+    <p>Jovu : la seule plateforme d'IA qui transforme les idées en code prêt à être produit en 4 minutes. Automatisez le développement de tes applications dorsales, en garantissant la cohérence, la prévisibilité et le respect des normes les plus strictes grâce à un code conçu pour évoluer.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Démarrer avec Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -132,15 +138,34 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Bagoodex
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bagoodex.webp" alt="Bagoodex">
+### XTEN-AV
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-xten-av.webp" alt="XTEN-AV">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/bagoodex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/xten-av?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/xten-av?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Bagoodex
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bagoodex.webp" alt="Bagoodex">
+
+#### Bagoodex parcourt le Web pour compiler les informations les plus pertinentes, en proposant un texte concis accompagné de liens directs vers les sources originales.
+
+
+[Visit](https://thataicollection.com/redirect/bagoodex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Exploration continue : approfondissez les sujets grâce à la fonction « Suivi », qui suggère des questions connexes et de nouvelles informations.
+Recommandations de vidéos basées sur l'IA : découvrez des tutoriels et du contenu adaptés à tes centres d'intérêt.
+Prévisions météorologiques basées sur l'IA : accédez à des prévisions météorologiques précises grâce à des algorithmes intelligents.
+Enquête AI Place : explore les lieux à l'aide de cartes, d'images et de descriptions.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/bagoodex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -228,23 +253,6 @@ Vatis Tech fournit une technologie de synthèse vocale de pointe qui convertit a
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/vatis-tech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Headshots
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-headshots.webp" alt="AI Headshots">
-
-#### Ajoute un selfie et obtiens un portrait professionnel et réaliste en HD AI en 1 minute en ligne. Fais ressortir la photo de ton profil.
-
-
-[Visit](https://thataicollection.com/redirect/ai-headshots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Il existe plus de 20 types de vêtements et de décors parmi lesquels choisir.
- AI Headshots est conçu pour refléter ta personnalité unique et mettre en valeur tes meilleurs atouts. Notre outil de génération de portraits présente les avantages suivants : confidentialité, sécurité, facilité d'utilisation et qualité professionnelle. Il convient à LinkedIn, aux CV, aux pages d'équipe et à d'autres scénarios, et aide les utilisateurs à laisser une forte impression sur les gens.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/ai-headshots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
