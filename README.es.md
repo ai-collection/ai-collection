@@ -57,12 +57,18 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
-    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
+    <h4>Chatbot de IA personalizado las 24 horas del día, los 7 días de la semana, más escalación</h4>
+    <p>Chat Data es una plataforma de chatbots de IA que ofrece una personalización flexible de backend y frontend. Crea chatbots con tu base de conocimientos, puntos finales personalizados o los modelos de Chat Data. Personaliza la interfaz del chatbot y opta por la etiqueta blanca. Las funciones adicionales incluyen la escalación del chat en vivo en los planes estándar o profesionales.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
     <br />
 </div>
 
@@ -134,15 +140,33 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### XTEN-AV
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-xten-av.webp" alt="XTEN-AV">
+### POTOAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-potoai.webp" alt="POTOAI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/xten-av?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/potoai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/potoai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### XTEN-AV
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-xten-av.webp" alt="XTEN-AV">
+
+#### Ayudamos a las personas a crear
+increíbles diseños AV
+y propuestas ganadoras
+
+
+[Visit](https://thataicollection.com/redirect/xten-av?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Bienvenido a Xten-AV, tu principal socio en el dinámico mundo de la tecnología audiovisual. Como proveedor líder del sector, Xten-AV se compromete a ofrecer soluciones de vanguardia que redefinan la forma en que las empresas interactúan, se comunican y colaboran. Con experiencia en sistemas de audio, vídeo, iluminación y control, Xten-AV ofrece un conjunto integral de servicios.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/xten-av?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,22 +257,6 @@ GoDeskLess es una plataforma SaaS vanguardista diseñada para transformar el sec
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/godeskless?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Vatis Tech
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vatis-tech.webp" alt="Vatis Tech">
-
-#### Plataforma de inteligencia de voz para desbloquear el potencial de audio
-
-
-[Visit](https://thataicollection.com/redirect/vatis-tech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Vatis Tech's ofrece una tecnología vanguardista de conversión de voz a texto que convierte automáticamente los archivos de audio o vídeo en texto con una precisión superior al 90%, gracias a algoritmos de aprendizaje profundo patentados. Ofrecemos una plataforma de transcripción accesible a través de una aplicación web y una versátil API de conversión de voz a texto.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/vatis-tech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
