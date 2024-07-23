@@ -45,24 +45,14 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
-    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
-    <br />
-</div>
+    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
+    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
 
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
-    </a>
-    <h4>Corporate Headshots AI : révolutionner les portraits d''entreprise grâce à l''IA</h4>
-    <p>Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l''IA transforme tes selfies en portraits élégants, conformes aux normes de l''entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Démarrer avec Corporate Headshots AI</b></a>
+ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
     <br />
 </div>
 
@@ -75,6 +65,18 @@
     <h4>La seule génération de code basée sur l'IA prête pour la production</h4>
     <p>Jovu : la seule plateforme d'IA qui transforme les idées en code prêt à être produit en 4 minutes. Automatisez le développement de tes applications dorsales, en garantissant la cohérence, la prévisibilité et le respect des normes les plus strictes grâce à un code conçu pour évoluer.</p>
     <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Démarrer avec Jovu by Amplication</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    </a>
+    <h4>Corporate Headshots AI : révolutionner les portraits d''entreprise grâce à l''IA</h4>
+    <p>Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l''IA transforme tes selfies en portraits élégants, conformes aux normes de l''entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Démarrer avec Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -132,15 +134,31 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### AI Interlinking
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-interlinking.webp" alt="AI Interlinking">
+### Humanize AI by LongShot
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanize-ai-by-longshot.webp" alt="Humanize AI by LongShot">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ai-interlinking?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/humanize-ai-by-longshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/humanize-ai-by-longshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Interlinking
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-interlinking.webp" alt="AI Interlinking">
+
+#### Créez des liens internes sur ton blog avec un texte d'ancrage pertinent en soumettant simplement ton plan du site.
+
+
+[Visit](https://thataicollection.com/redirect/ai-interlinking?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI Interlinking révolutionne la façon dont tu gères les liens internes de ton blog. En soumettant simplement ton plan du site, cet outil analyse ton contenu et suggère des textes d'ancrage pertinents pour les liens internes. Cela améliore non seulement le référencement de ton site, mais aussi la navigation et l'engagement des utilisateurs. Idéal pour les blogueurs et les professionnels du référencement, AI Interlinking te permet d'économiser plusieurs heures de travail manuel sur les liens.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/ai-interlinking?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,26 +247,6 @@ Tu as besoin d'un responsable virtuel de l'acquisition de talents non fatiguant 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/aiinterview?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Clip Remix
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-clip-remix.webp" alt="Clip Remix">
-
-#### Transforme les vidéos YouTube en fils Twitter grâce à la puissance de l'IA
-
-
-[Visit](https://thataicollection.com/redirect/clip-remix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Sélectionne ta vidéo YouTube préférée, soumets-la et Clip Remix créera ton fil Twitter grâce à la puissance de l'IA. Ensuite, tu pourras partager le fil Twitter que tu as créé.
-
-Prête à transformer ton processus de création de contenu ?
-
-Rejoins-toi à Clip Remix aujourd'hui et révolutionne ta façon de créer des fils Twitter. Aucun abonnement n'est nécessaire, commence gratuitement avec 5 crédits à l'inscription.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/clip-remix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
