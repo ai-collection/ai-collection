@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1649" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1663" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -57,30 +57,26 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
-    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
+    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
+    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
+
+ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>Chatbot de IA personalizado las 24 horas del día, los 7 días de la semana, más escalación</h4>
-    <p>Chat Data es una plataforma de chatbots de IA que ofrece una personalización flexible de backend y frontend. Crea chatbots con tu base de conocimientos, puntos finales personalizados o los modelos de Chat Data. Personaliza la interfaz del chatbot y opta por la etiqueta blanca. Las funciones adicionales incluyen la escalación del chat en vivo en los planes estándar o profesionales.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
+    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
+    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -138,15 +134,31 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### goDeskless
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-godeskless.webp" alt="goDeskless">
+### Robopost AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-robopost-ai.webp" alt="Robopost AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/godeskless?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/robopost-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/robopost-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### goDeskless
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-godeskless.webp" alt="goDeskless">
+
+#### GoDeskLess, impulsado por la IA, optimiza el servicio de campo y aumenta la satisfacción de los clientes
+
+
+[Visit](https://thataicollection.com/redirect/godeskless?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+GoDeskLess es una plataforma SaaS vanguardista diseñada para transformar el sector de los servicios de campo al abordar los desafíos tradicionales de la programación, la comunicación y las limitaciones tecnológicas. 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/godeskless?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -238,24 +250,6 @@ El registro requiere una cuenta de Google y se ofrecen puntos gratis al registra
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/cococlip-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI ChatDocs
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-chatdocs.webp" alt="AI ChatDocs">
-
-#### Chatea con documentos, sitios web, vídeos de YouTube y mapas del sitio. ¡Obtén información impulsada por el GPS! Accede al historial de chats, gestiona fácilmente las fuentes de datos, rastrea las solicitudes restantes, seguridad de primera clase
-
-
-[Visit](https://thataicollection.com/redirect/ai-chatdocs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chat interactivo con documentos en varios formatos. Accede a la información clave al instante con la IA del GPT-4. Resume los trabajos de investigación, los libros de texto, los documentos legales y más. Disfruta de una interacción fluida entre varios documentos, preguntas de seguimiento y resúmenes automatizados con una infraestructura segura.
-
-Vídeos de YouTube, interacción entre sitios web y mapa del sitio, integraciones de chatbots altamente compatibles.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/ai-chatdocs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
