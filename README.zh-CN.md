@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1649" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1663" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -45,6 +45,18 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    </a>
+    <h4>StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案</h4>
+    <p>StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>开始使用 StickerIt.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -57,18 +69,6 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
-    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>开始使用 AiApply</b></a>
     <br />
 </div>
 
@@ -138,15 +138,31 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### goDeskless
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-godeskless.webp" alt="goDeskless">
+### Robopost AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-robopost-ai.webp" alt="Robopost AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/godeskless?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/robopost-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/robopost-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### goDeskless
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-godeskless.webp" alt="goDeskless">
+
+#### 人工智能驱动的 Godeskless 优化了现场服务并提高了客户满意度
+
+
+[Visit](https://thataicollection.com/redirect/godeskless?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Godeskless是一个尖端的SaaS平台，旨在通过解决日程安排、通信和技术限制等传统挑战来改变现场服务行业。 
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/godeskless?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -238,24 +254,6 @@ CoCoClip.AI 专为 YouTube Shorts 和 TikTok 用户设计，为短视频创作�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/cococlip-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI ChatDocs
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-chatdocs.webp" alt="AI ChatDocs">
-
-#### 与文档、网站、YouTube 视频和站点地图聊天。获取 GPT 驱动的见解！访问聊天记录，轻松管理数据源，跟踪剩余请求，一流的安全性
-
-
-[Visit](https://thataicollection.com/redirect/ai-chatdocs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-与各种格式的文档进行交互式聊天。使用 GPT-4 AI 即时访问关键信息。总结研究论文、教科书、法律文件等。借助安全的基础架构，享受无缝的多文档互动、后续问题和自动摘要。
-
-高度支持 YouTube 视频、网站和站点地图互动、聊天机器人集成。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-chatdocs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
