@@ -60,26 +60,24 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
-    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
-
-ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
+    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
+    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
-    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
+    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
+    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
     <br />
 </div>
 
@@ -137,15 +135,35 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### LogoGalleria : AI Logo Maker with Precision Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logogalleria-ai-logo-maker-with-precision-free-online.webp" alt="LogoGalleria : AI Logo Maker with Precision Free Online">
+### Giftpack
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftpack.webp" alt="Giftpack">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/logogalleria-ai-logo-maker-with-precision-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### LogoGalleria : AI Logo Maker with Precision Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logogalleria-ai-logo-maker-with-precision-free-online.webp" alt="LogoGalleria : AI Logo Maker with Precision Free Online">
+
+#### LogoGalleria: creador de logotipos de IA con precisión gratis en línea 
+
+
+[Visit](https://thataicollection.com/redirect/logogalleria-ai-logo-maker-with-precision-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+- Logotipos generados por la IA: deja que nuestra IA despierte tu imaginación con diseños de logotipos únicos.
+- Control perfeccionado: personaliza tu logotipo a la perfección. Borra los elementos no deseados sin esfuerzo.
+- Eliminación de fondo: un clic para limpiar los PNG sin ningún tipo de fondo.
+- Exportación SVG: exporta tus diseños como SVG para mayor versatilidad.
+- Cuotas gratuitas diarias: disfruta de un uso gratuito todos los días para mantener tu creatividad fluyendo.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/logogalleria-ai-logo-maker-with-precision-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -237,22 +255,6 @@ Conch te ayuda con nuestras cuatro funciones principales:
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Content Detector by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
-
-#### Usa nuestro detector de contenido de IA gratuito para analizar el texto y comprobar si lo ha generado la IA o no. Herramienta AI Checker, 100% gratis para siempre.
-
-
-[Visit](https://thataicollection.com/redirect/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-El detector de contenido con IA de Leap AI es tu herramienta de referencia para detectar sin esfuerzo el contenido generado por la IA. Identificar manualmente el texto generado por la IA puede resultar tedioso y llevar mucho tiempo, pero nuestra herramienta agiliza esta tarea. Utilizando los últimos modelos de LLM, analiza e identifica con precisión el contenido generado por la IA con facilidad. Lo mejor de todo es que es gratis y accesible para todos, para siempre.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
