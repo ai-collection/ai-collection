@@ -45,6 +45,21 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/betterpic" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic" border="0"/>
+    </a>
+    <h4>BetterPic: превратите обычные фотографии в профессиональные снимки</h4>
+    <p>Откройте для себя BetterPic: решение на основе искусственного интеллекта для безупречных корпоративных фотографий. Просто загрузите 15 изображений, выберите желаемый стиль и в течение 2 часов получите сотни безупречных снимков.
+
+
+Выберите и загрузите понравившиеся результаты из своих результатов — они неотличимы от студийных снимков, но при этом в 20 раз дешевле, чем традиционные фотосессии.</p>
+    <a href="https://thataicollection.com/redirect/betterpic" target="_blank"><b>Начать работу с BetterPic</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
@@ -59,24 +74,12 @@ ApplyPass.com провел тысячи интервью для инженеро
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
-    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения</h4>
-    <p>AiApply — это динамичный набор инструментов искусственного интеллекта, разработанный для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявления о приеме на работу, повышает качество резюме, готовит к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, обеспечивая пользователям возможность выделиться на конкурентных рынках. Это важный инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интел</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Начать работу с AiApply</b></a>
+    <h4>Единственная готовая к производству генерация кода на основе искусственного интеллекта</h4>
+    <p>Jovu: единственная платформа искусственного интеллекта, превращающая идеи в готовый к производству код за 4 минуты. Автоматизируйте разработку серверных приложений, обеспечивая согласованность, предсказуемость и соответствие самым высоким стандартам с помощью масштабируемого кода.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Начать работу с Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -134,15 +137,37 @@ ApplyPass.com провел тысячи интервью для инженеро
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Conch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-conch.webp" alt="Conch">
+### SD3 Medium
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sd3-medium.webp" alt="SD3 Medium">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/sd3-medium?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/sd3-medium?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Conch
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-conch.webp" alt="Conch">
+
+#### Пишите, изучайте и исследуйте быстрее с помощью Conch, одновременно гуманизируя написанный искусственным интеллектом текст
+
+
+[Visit](https://thataicollection.com/redirect/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Ваш незаметный помощник по написанию текстов с искусственным интеллектом. Используйте Conch, чтобы писать, учиться и работать быстрее.
+
+Conch поможет вам использовать наши четыре основные функции:
+- Незаметность: записывайте лекции, встречи, презентации или интервью для автоматического создания заметок и карточек
+- Пишите: выделяйте текст, чтобы легко редактировать и улучшать текст. Легко проверяйте искусственный интеллект, а затем гуманизируйте свою работу
+
+
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,22 +254,6 @@ DeepSwap — это профессиональный веб-сайт по обм
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/ai-content-planner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Humanize AI by LongShot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanize-ai-by-longshot.webp" alt="Humanize AI by LongShot">
-
-#### Преобразуйте текст в человеческий тон, чтобы контент был более интересным.
-
-
-[Visit](https://thataicollection.com/redirect/humanize-ai-by-longshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Humanize AI — это ваш незаменимый инструмент для придания тексту более человечного и привлекательного звучания. Он использует усовершенствованный искусственный интеллект для преобразования роботизированного или формального текста в естественный разговорный тон. Это идеальный вариант для блогеров, маркетологов и создателей контента, которые хотят общаться со своей аудиторией на личном уровне. Humanize AI гарантирует, что ваш контент найдет отклик у читателей, сделает его более релевантным и эффективным.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/humanize-ai-by-longshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
