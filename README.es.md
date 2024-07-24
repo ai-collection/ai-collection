@@ -74,12 +74,12 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
-    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
+    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
+    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -137,15 +137,31 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### AI Paraphrasing Tool by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-paraphrasing-tool-by-leap-ai.webp" alt="AI Paraphrasing Tool by Leap AI">
+### LogoGalleria : AI Logo Maker with Precision Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logogalleria-ai-logo-maker-with-precision-free-online.webp" alt="LogoGalleria : AI Logo Maker with Precision Free Online">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ai-paraphrasing-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/logogalleria-ai-logo-maker-with-precision-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/logogalleria-ai-logo-maker-with-precision-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Paraphrasing Tool by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-paraphrasing-tool-by-leap-ai.webp" alt="AI Paraphrasing Tool by Leap AI">
+
+#### Reformula cualquier texto en segundos con esta herramienta gratuita de paráfrasis de IA. Reescribe, edita y cambia el tono de las frases con facilidad.
+
+
+[Visit](https://thataicollection.com/redirect/ai-paraphrasing-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La herramienta de paráfrasis con IA de Leap AI es tu solución ideal para reformular el texto sin esfuerzo. Reformular manualmente puede resultar difícil y llevar mucho tiempo, pero nuestra herramienta simplifica este proceso. Aprovecha los modelos avanzados de IA, reformula el texto con precisión y, al mismo tiempo, mantiene el contexto original. Esta herramienta gratuita garantiza la precisión y está disponible sin coste alguno, para siempre, por lo que es accesible para todo el mundo.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/ai-paraphrasing-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -237,22 +253,6 @@ El detector de contenido con IA de Leap AI es tu herramienta de referencia para 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Easify AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-easify-ai.webp" alt="Easify AI">
-
-#### Easify AI: revolucionando el análisis de datos con el lenguaje natural.
-
-
-[Visit](https://thataicollection.com/redirect/easify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-La IA de Easify desbloquea tus datos como ChatGPT desbloquea el idioma. Haz preguntas en inglés sencillo y obtén respuestas de tus bases de datos (MySQL, PostgreSQL, etc.) de forma segura y sencilla. Es como por arte de magia para los amantes de los datos 
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/easify-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
