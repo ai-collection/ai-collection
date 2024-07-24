@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1663" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1664" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -45,18 +45,6 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>Rédigez le CV parfait avec l''aide de l''IA</h4>
-    <p>Tu n''as pas besoin d''être une rédactrice de CV professionnelle pour créer rapidement et facilement un CV qui reflète fidèlement ton expérience professionnelle. Le générateur de CV IA personnalisable de Hunter t''aidera à rédiger un CV bien rédigé et adapté aux ATS afin de décrocher plus d''entretiens.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Démarrer avec Huntr AI Resume Builder</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
@@ -69,18 +57,26 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
-    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
+    <h4>Rédigez le CV parfait avec l''aide de l''IA</h4>
+    <p>Tu n''as pas besoin d''être une rédactrice de CV professionnelle pour créer rapidement et facilement un CV qui reflète fidèlement ton expérience professionnelle. Le générateur de CV IA personnalisable de Hunter t''aidera à rédiger un CV bien rédigé et adapté aux ATS afin de décrocher plus d''entretiens.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Démarrer avec Huntr AI Resume Builder</b></a>
+    <br />
+</div>
 
+<br>
 
+<div align="center">
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    </a>
+    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
+    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
 
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
+ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
     <br />
 </div>
 
@@ -138,15 +134,31 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### AI Content Detector by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
+### Conch
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-conch.webp" alt="Conch">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Content Detector by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
+
+#### Utilise notre détecteur de contenu basé sur l'IA gratuit pour analyser le texte et voir s'il a été généré par l'IA ou non. Outil AI Checker, 100 % gratuit pour toujours.
+
+
+[Visit](https://thataicollection.com/redirect/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Le détecteur de contenu IA de Leap AI est ton outil de prédilection pour détecter facilement le contenu généré par l'IA. Identifier manuellement du texte généré par l'IA peut être fastidieux et prendre beaucoup de temps, mais notre outil rationalise cette tâche. Utilisant les derniers modèles LLM, il analyse et identifie facilement le contenu généré par l'IA avec précision. Mieux encore, c'est gratuit et accessible à tous, pour toujours.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,22 +245,6 @@ Humanize AI est ton outil de prédilection pour rendre ton texte plus humain et 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/humanize-ai-by-longshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Interlinking
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-interlinking.webp" alt="AI Interlinking">
-
-#### Créez des liens internes sur ton blog avec un texte d'ancrage pertinent en soumettant simplement ton plan du site.
-
-
-[Visit](https://thataicollection.com/redirect/ai-interlinking?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI Interlinking révolutionne la façon dont tu gères les liens internes de ton blog. En soumettant simplement ton plan du site, cet outil analyse ton contenu et suggère des textes d'ancrage pertinents pour les liens internes. Cela améliore non seulement le référencement de ton site, mais aussi la navigation et l'engagement des utilisateurs. Idéal pour les blogueurs et les professionnels du référencement, AI Interlinking te permet d'économiser plusieurs heures de travail manuel sur les liens.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/ai-interlinking?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -748,6 +744,25 @@ ICONS8 PERMET AUX DESIGNERS D''EXPRIMER LEURS IDÉES EN FOURNISSANT LES BONS ÉL
 ---
 
 ## Avatars
+### BetterPic
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic">
+
+#### BetterPic : transformez des photos informelles en portraits professionnels
+
+
+[Visit](https://thataicollection.com/redirect/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Découvrez BetterPic : la solution basée sur l''IA pour des portraits d''entreprise impeccables. Téléchargez simplement 15 images, choisissez le style souhaité et, en 2 heures, recevez des centaines de portraits impeccables.
+
+
+Sélectionnez et téléchargez vos favoris à partir de vos résultats : ils sont impossibles à distinguer des prises de vue en studio, mais jusqu''à 20 fois plus abordables que les séances photo traditionnelles.
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Photo AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
 
@@ -840,22 +855,6 @@ Créez vos avatars parfaits en quelques clics grâce à notre technologie d''int
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### DreamPic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreampic.webp" alt="DreamPic">
-
-#### DreamPic.AI
-
-
-[Visit](https://thataicollection.com/redirect/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Images générées par l''IA vous mettant en vedette
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1984,6 +1983,23 @@ Découvrez une nouvelle dimension de la mode avec IDM VTON. Notre technologie te
 ---
 
 ## Amusant
+### Deepswap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deepswap.webp" alt="Deepswap">
+
+#### DeepSwap, outil vidéo professionnel d'échange de visages en ligne
+
+
+[Visit](https://thataicollection.com/redirect/deepswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+DeepSwap est un site d'échange de visages professionnel basé sur l'IA. Il utilise la toute dernière technologie d'échange de visages pour obtenir jusqu'à 90 % de similitude dans les résultats finaux de l'échange de visages. Sur DeepSwap, tu peux facilement remplacer ton visage par des photos, des GIF et des vidéos. Profitez d'un échange de visage fluide avec DeepSwap.
+
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/deepswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### DreamGen: AI role-playing and strory-writing
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
 
@@ -2078,22 +2094,6 @@ Transformez des situations réelles en histoires et illustrations amusantes en q
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/storiesforkids?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Excuses AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-excuses-ai.webp" alt="Excuses AI">
-
-#### Générateur d''excuses
-
-
-[Visit](https://thataicollection.com/redirect/excuses-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Utilisez l''IA pour générer l''excuse professionnelle parfaite
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/excuses-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2832,23 +2832,6 @@ Crée des certificats vérifiables, arrête les fraudes et veille à ce que ton 
 ---
 
 ## Générateur de logos
-### Logomakerr.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
-
-#### Crée un logo grâce à l'IA - Logomakerr.AI associe tes idées commerciales à des logos générés par l'IA en quelques clics !
-
-
-[Visit](https://thataicollection.com/redirect/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-La création d'une marque commence ici !
-Avec des centaines de modèles disponibles grâce à notre générateur de logos basé sur l'IA, tu peux lancer, développer et développer ton activité en toute confiance ! Et il n'y a pas besoin de s'inquiéter de l'expérience en matière de design ni de payer pour un designer haut de gamme. Tout ce dont tu as besoin pour créer une marque se trouve ici !
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Looka
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-looka.webp" alt="Looka">
 
@@ -2863,6 +2846,23 @@ Créez un logo, un site web et une identité de marque que tu adoreras grâce à
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Logomakerr.AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
+
+#### Crée un logo grâce à l'IA - Logomakerr.AI associe tes idées commerciales à des logos générés par l'IA en quelques clics !
+
+
+[Visit](https://thataicollection.com/redirect/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La création d'une marque commence ici !
+Avec des centaines de modèles disponibles grâce à notre générateur de logos basé sur l'IA, tu peux lancer, développer et développer ton activité en toute confiance ! Et il n'y a pas besoin de s'inquiéter de l'expérience en matière de design ni de payer pour un designer haut de gamme. Tout ce dont tu as besoin pour créer une marque se trouve ici !
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

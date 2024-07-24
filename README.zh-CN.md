@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1663" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1664" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -45,30 +45,12 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>全天候自定义 AI 聊天机器人加上实时聊天升级</h4>
-    <p>Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
-    </a>
-    <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
-    <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
+    <h4>唯一一款支持量产的 AI 驱动的代码生成</h4>
+    <p>Jovu：唯一一个在 4 分钟内将想法转化为生产就绪代码的人工智能平台。使用可扩展的代码实现后端应用程序开发自动化，确保一致性、可预测性并遵守最高标准。</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>开始使用 Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -81,6 +63,18 @@
     <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
     <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
     <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>开始使用 AiApply</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    </a>
+    <h4>StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案</h4>
+    <p>StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>开始使用 StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -138,15 +132,31 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### AI Content Detector by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
+### Conch
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-conch.webp" alt="Conch">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Content Detector by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
+
+#### 使用我们的免费 AI 内容检测器来分析文本，看看它是否由 AI 生成。AI Checker 工具，永久免费。
+
+
+[Visit](https://thataicollection.com/redirect/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Leap AI 的 AI 内容检测器是您轻松检测 AI 生成内容的首选工具。手动识别 AI 生成的文本可能既繁琐又耗时，但我们的工具简化了这项任务。利用最新的 LLM 模型，它可以轻松准确地分析和识别人工智能生成的内容。最重要的是，它是免费的，每个人都可以永久使用。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,22 +243,6 @@ Humanize AI 是让你的文字听起来更人性化和更具吸引力的首选�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/humanize-ai-by-longshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Interlinking
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-interlinking.webp" alt="AI Interlinking">
-
-#### 只需提交站点地图，即可在博客上建立带有相关锚文本的内部链接。
-
-
-[Visit](https://thataicollection.com/redirect/ai-interlinking?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI 互连彻底改变了您在博客上管理内部链接的方式。只需提交站点地图，此工具即可分析您的内容并建议相关的锚文本以进行内部链接。这不仅可以改善您网站的SEO，还可以增强用户的导航和参与度。AI Interlinking 非常适合博主和 SEO 专业人士，可为您节省数小时的手动链接工作。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-interlinking?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -748,6 +742,25 @@ ICONS8 允许设计师表达自己的想法，在正确的时间提供正确的�
 ---
 
 ## 化身
+### BetterPic
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic">
+
+#### BetterPic：将休闲照片转变为专业头像
+
+
+[Visit](https://thataicollection.com/redirect/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+探索 BetterPic：人工智能驱动的解决方案，可提供完美的企业头像。只需上传 15 张图片，选择您想要的风格，2 小时内即可收到数百张完美头像。
+
+
+从您的结果中选择并下载您最喜欢的照片 - 它们与工作室照片没有什么区别，但比传统照片拍摄便宜多达 20 倍。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Photo AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
 
@@ -840,22 +853,6 @@ Vana允许你利用数据和人工智能的力量创建迷你 “你”。克隆
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### DreamPic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreampic.webp" alt="DreamPic">
-
-#### 梦图.AI
-
-
-[Visit](https://thataicollection.com/redirect/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI 生成您主演的图片
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1984,6 +1981,23 @@ IDM VTON-您通往时尚未来的门户
 ---
 
 ## 乐趣
+### Deepswap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deepswap.webp" alt="Deepswap">
+
+#### DeepSwap-在线专业视频人脸交换工具
+
+
+[Visit](https://thataicollection.com/redirect/deepswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+DeepSwap 是一个专业的人脸交换人工智能网站。它利用最新的面部交换技术，在最终的人脸交换结果中实现高达90％的相似度。在 DeepSwap 上，你可以轻松地将你的脸换成任何照片、GIF 和视频。使用 DeepSwap 体验无缝换脸。
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/deepswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### DreamGen: AI role-playing and strory-writing
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
 
@@ -2078,22 +2092,6 @@ IDM VTON-您通往时尚未来的门户
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/storiesforkids?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Excuses AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-excuses-ai.webp" alt="Excuses AI">
-
-#### 借口生成器
-
-
-[Visit](https://thataicollection.com/redirect/excuses-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用人工智能生成完美的专业借口
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/excuses-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2832,23 +2830,6 @@ Spellbook 使用 GPT-3 在 Microsoft Word 中为您的合同审查和建议语�
 ---
 
 ## 徽标生成器
-### Logomakerr.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
-
-#### 使用 AI 创建徽标-Logomakerr.AI 只需点击几下即可将您的商业理念与 AI 生成的徽标融为一体！
-
-
-[Visit](https://thataicollection.com/redirect/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-建立品牌从这里开始！
-我们的 AI 徽标生成器提供数百个模板，您可以放心地启动、建立和发展您的业务！而且无需担心任何设计经验，也无需为高级设计师付费。建立品牌所需的一切都在这里！
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Looka
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-looka.webp" alt="Looka">
 
@@ -2863,6 +2844,23 @@ Spellbook 使用 GPT-3 在 Microsoft Word 中为您的合同审查和建议语�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Logomakerr.AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
+
+#### 使用 AI 创建徽标-Logomakerr.AI 只需点击几下即可将您的商业理念与 AI 生成的徽标融为一体！
+
+
+[Visit](https://thataicollection.com/redirect/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+建立品牌从这里开始！
+我们的 AI 徽标生成器提供数百个模板，您可以放心地启动、建立和发展您的业务！而且无需担心任何设计经验，也无需为高级设计师付费。建立品牌所需的一切都在这里！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

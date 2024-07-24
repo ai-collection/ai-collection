@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1663" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1664" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -59,24 +59,24 @@ ApplyPass.com провел тысячи интервью для инженеро
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
-    </a>
-    <h4>Единственная готовая к производству генерация кода на основе искусственного интеллекта</h4>
-    <p>Jovu: единственная платформа искусственного интеллекта, превращающая идеи в готовый к производству код за 4 минуты. Автоматизируйте разработку серверных приложений, обеспечивая согласованность, предсказуемость и соответствие самым высоким стандартам с помощью масштабируемого кода.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Начать работу с Jovu by Amplication</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
     <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
     <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
     <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения</h4>
+    <p>AiApply — это динамичный набор инструментов искусственного интеллекта, разработанный для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявления о приеме на работу, повышает качество резюме, готовит к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, обеспечивая пользователям возможность выделиться на конкурентных рынках. Это важный инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интел</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Начать работу с AiApply</b></a>
     <br />
 </div>
 
@@ -134,15 +134,31 @@ ApplyPass.com провел тысячи интервью для инженеро
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### AI Content Detector by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
+### Conch
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-conch.webp" alt="Conch">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Content Detector by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
+
+#### Используйте наш бесплатный детектор контента AI для анализа текста и определения того, был ли он создан искусственным интеллектом или нет. Инструмент AI Checker, 100% бесплатный и навсегда.
+
+
+[Visit](https://thataicollection.com/redirect/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI Content Detector от Leap AI — это ваш незаменимый инструмент для простого обнаружения контента, созданного искусственным интеллектом. Ручная идентификация текста, созданного искусственным интеллектом, может быть утомительной и длительной, но наш инструмент упрощает эту задачу. Используя новейшие модели LLM, он легко анализирует и идентифицирует контент, созданный искусственным интеллектом. Лучше всего то, что это бесплатно и доступно каждому навсегда.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,22 +245,6 @@ Humanize AI — это ваш незаменимый инструмент для
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/humanize-ai-by-longshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Interlinking
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-interlinking.webp" alt="AI Interlinking">
-
-#### Создайте внутренние ссылки в своем блоге с соответствующим якорным текстом, просто отправив карту сайта.
-
-
-[Visit](https://thataicollection.com/redirect/ai-interlinking?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI Interlinking революционизирует способ управления внутренними ссылками в блоге. Просто отправив карту сайта, этот инструмент анализирует ваш контент и предлагает релевантные якорные тексты для внутренних ссылок. Это не только улучшает SEO вашего сайта, но и улучшает навигацию и вовлеченность пользователей. AI Interlinking, идеально подходящий для блогеров и специалистов по SEO, экономит вам несколько часов ручной работы по созданию ссылок.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/ai-interlinking?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -744,6 +744,25 @@ ICONS8 ПОЗВОЛЯЕТ ДИЗАЙНЕРАМ ВЫРАЖАТЬ СВОИ ИДЕ�
 ---
 
 ## Аватары
+### BetterPic
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic">
+
+#### BetterPic: превратите обычные фотографии в профессиональные снимки
+
+
+[Visit](https://thataicollection.com/redirect/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Откройте для себя BetterPic: решение на основе искусственного интеллекта для безупречных корпоративных фотографий. Просто загрузите 15 изображений, выберите желаемый стиль и в течение 2 часов получите сотни безупречных снимков.
+
+
+Выберите и загрузите понравившиеся результаты из своих результатов — они неотличимы от студийных снимков, но при этом в 20 раз дешевле, чем традиционные фотосессии.
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Photo AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
 
@@ -836,22 +855,6 @@ Vana позволяет создать мини-« вы», используя в
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### DreamPic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreampic.webp" alt="DreamPic">
-
-#### DreamPic.AI
-
-
-[Visit](https://thataicollection.com/redirect/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Изображения, созданные искусственным интеллектом, с вами в главной роли
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1980,6 +1983,23 @@ IDM VTON — ваш путь в будущее моды
 ---
 
 ## Веселье
+### Deepswap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deepswap.webp" alt="Deepswap">
+
+#### DeepSwap - профессиональный онлайн-инструмент для замены видео и лица
+
+
+[Visit](https://thataicollection.com/redirect/deepswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+DeepSwap — это профессиональный веб-сайт по обмену лицами с искусственным интеллектом. В нем используется новейшая технология замены лиц, позволяющая добиться схожести окончательных результатов замены лиц до 90%. На DeepSwap вы можете легко конвертировать свое лицо в любые фотографии, GIF-файлы и видео. Наслаждайтесь беспроблемной заменой лиц с помощью DeepSwap.
+
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/deepswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### DreamGen: AI role-playing and strory-writing
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
 
@@ -2074,22 +2094,6 @@ IDM VTON — ваш путь в будущее моды
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/storiesforkids?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Excuses AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-excuses-ai.webp" alt="Excuses AI">
-
-#### Извините Генератор
-
-
-[Visit](https://thataicollection.com/redirect/excuses-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Используйте ИИ для создания идеального профессионального оправдания
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/excuses-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2828,23 +2832,6 @@ CFR Explorer — это приложение, в котором использу
 ---
 
 ## Генератор логотипов
-### Logomakerr.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
-
-#### Создайте логотип с помощью искусственного интеллекта - Logomakerr.AI сочетает ваши бизнес-идеи с логотипами, созданными искусственным интеллектом, всего за несколько кликов!
-
-
-[Visit](https://thataicollection.com/redirect/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Создание бренда начинается здесь!
-Благодаря сотням шаблонов, доступных в нашем генераторе логотипов с искусственным интеллектом, вы можете уверенно запускать, строить и развивать свой бизнес! И вам не нужно беспокоиться об опыте проектирования или платить за дизайнера премиум-класса. Здесь есть все, что вам нужно для создания бренда!
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Looka
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-looka.webp" alt="Looka">
 
@@ -2859,6 +2846,23 @@ CFR Explorer — это приложение, в котором использу
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Logomakerr.AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
+
+#### Создайте логотип с помощью искусственного интеллекта - Logomakerr.AI сочетает ваши бизнес-идеи с логотипами, созданными искусственным интеллектом, всего за несколько кликов!
+
+
+[Visit](https://thataicollection.com/redirect/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Создание бренда начинается здесь!
+Благодаря сотням шаблонов, доступных в нашем генераторе логотипов с искусственным интеллектом, вы можете уверенно запускать, строить и развивать свой бизнес! И вам не нужно беспокоиться об опыте проектирования или платить за дизайнера премиум-класса. Здесь есть все, что вам нужно для создания бренда!
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
