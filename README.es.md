@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1663" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1664" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -45,6 +45,18 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    </a>
+    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
+    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -63,24 +75,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
-    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
-    </a>
-    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
-    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
+    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
+    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -138,15 +138,31 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### AI Content Detector by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
+### Conch
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-conch.webp" alt="Conch">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Content Detector by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
+
+#### Usa nuestro detector de contenido de IA gratuito para analizar el texto y comprobar si lo ha generado la IA o no. Herramienta AI Checker, 100% gratis para siempre.
+
+
+[Visit](https://thataicollection.com/redirect/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+El detector de contenido con IA de Leap AI es tu herramienta de referencia para detectar sin esfuerzo el contenido generado por la IA. Identificar manualmente el texto generado por la IA puede resultar tedioso y llevar mucho tiempo, pero nuestra herramienta agiliza esta tarea. Utilizando los últimos modelos de LLM, analiza e identifica con precisión el contenido generado por la IA con facilidad. Lo mejor de todo es que es gratis y accesible para todos, para siempre.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,22 +249,6 @@ Humanize AI es tu herramienta de referencia para que tu texto suene más humano 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/humanize-ai-by-longshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Interlinking
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-interlinking.webp" alt="AI Interlinking">
-
-#### Crea enlaces internos en tu blog con el texto de anclaje correspondiente simplemente enviando tu mapa del sitio.
-
-
-[Visit](https://thataicollection.com/redirect/ai-interlinking?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-La interconexión de la IA revoluciona la forma en que gestionas los enlaces internos de tu blog. Con solo enviar tu mapa del sitio, esta herramienta analiza tu contenido y sugiere textos de anclaje relevantes para los enlaces internos. Esto no solo mejora el SEO de tu sitio, sino que también mejora la navegación y la participación de los usuarios. Perfecta para blogueros y profesionales del SEO, la interconexión con IA te ahorra varias horas de trabajo de enlace manual.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/ai-interlinking?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -748,6 +748,25 @@ ICONS8 PERMITE A LOS DISEÑADORES EXPRESAR SUS IDEAS Y PROPORCIONARLES LOS ELEME
 ---
 
 ## avatares
+### BetterPic
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic">
+
+#### BetterPic: transforma fotos casuales en retratos profesionales
+
+
+[Visit](https://thataicollection.com/redirect/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Descubra BetterPic: la solución basada en inteligencia artificial para fotografías corporativas impecables. Simplemente cargue 15 imágenes, elija el estilo que desee y, en 2 horas, reciba cientos de fotografías impecables.
+
+
+Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir de las fotografías de estudio, pero son hasta 20 veces más asequibles que las sesiones de fotos tradicionales.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Photo AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
 
@@ -840,22 +859,6 @@ Cree sus avatares perfectos con solo unos pocos clics con nuestra tecnología de
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### DreamPic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreampic.webp" alt="DreamPic">
-
-#### Dreampic.Ai
-
-
-[Visit](https://thataicollection.com/redirect/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Imágenes generadas por IA protagonizadas por ti
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/dreampic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1984,6 +1987,23 @@ Descubre una nueva dimensión de la moda con IDM VTON. Nuestra tecnología te pe
 ---
 
 ## Divertido
+### Deepswap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deepswap.webp" alt="Deepswap">
+
+#### DeepSwap: herramienta profesional de intercambio facial de vídeos en línea
+
+
+[Visit](https://thataicollection.com/redirect/deepswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+DeepSwap es un sitio web profesional de IA de intercambio de rostros. Utiliza la última tecnología de intercambio de rostros para lograr hasta un 90% de similitud en los resultados finales del intercambio de rostros. En DeepSwap, puedes cambiar fácilmente tu rostro por cualquier foto, GIF o vídeo. Disfruta de un intercambio de rostros sin problemas con DeepSwap.
+
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/deepswap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### DreamGen: AI role-playing and strory-writing
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
 
@@ -2078,22 +2098,6 @@ Convierta situaciones de la vida real en historias e ilustraciones divertidas en
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/storiesforkids?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Excuses AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-excuses-ai.webp" alt="Excuses AI">
-
-#### Generador de excusas
-
-
-[Visit](https://thataicollection.com/redirect/excuses-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Usa la IA para generar la excusa profesional perfecta
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/excuses-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2832,23 +2836,6 @@ Crea certificados verificables, detiene el fraude y asegúrate de que tu conteni
 ---
 
 ## Generador de logotipos
-### Logomakerr.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
-
-#### Crea un logotipo con IA: Logomakerr.AI combina tus ideas de negocio con logotipos generados por la IA con solo unos pocos clics.
-
-
-[Visit](https://thataicollection.com/redirect/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¡La creación de una marca empieza aquí!
-Con cientos de plantillas disponibles en nuestro generador de logotipos de IA, ¡puedes lanzar, crear y hacer crecer tu negocio con confianza! Y no tienes que preocuparte por la experiencia de diseño ni por pagar a un diseñador de primera calidad. ¡Todo lo que necesitas para crear una marca está aquí!
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Looka
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-looka.webp" alt="Looka">
 
@@ -2863,6 +2850,23 @@ Diseña un logotipo, crea un sitio web y crea una identidad de marca que te enca
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Logomakerr.AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
+
+#### Crea un logotipo con IA: Logomakerr.AI combina tus ideas de negocio con logotipos generados por la IA con solo unos pocos clics.
+
+
+[Visit](https://thataicollection.com/redirect/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+¡La creación de una marca empieza aquí!
+Con cientos de plantillas disponibles en nuestro generador de logotipos de IA, ¡puedes lanzar, crear y hacer crecer tu negocio con confianza! Y no tienes que preocuparte por la experiencia de diseño ni por pagar a un diseñador de primera calidad. ¡Todo lo que necesitas para crear una marca está aquí!
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/logomakerr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
