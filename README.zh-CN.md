@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1665" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1666" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -60,26 +60,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
-    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>开始使用 Wordfixerbot</b></a>
+    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
+    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>开始使用 AiApply</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>借助我们的求职AI找到理想的工作。每周自动申请数百个工程职位！加入 ApplyPass 获得 100 个免费应用程序。</h4>
-    <p>ApplyPass是一款由人工智能驱动的求职工具，可以让你获得更多的求职面试。ApplyPass每月代表你提交200-400份量身定制的求职申请。该工具免费提供前100份求职申请。
-
-ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行业平均水平高40％。</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>开始使用 ApplyPass</b></a>
+    <h4>唯一一款支持量产的 AI 驱动的代码生成</h4>
+    <p>Jovu：唯一一个在 4 分钟内将想法转化为生产就绪代码的人工智能平台。使用可扩展的代码实现后端应用程序开发自动化，确保一致性、可预测性并遵守最高标准。</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>开始使用 Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -137,15 +135,55 @@ ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行�
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Giftpack
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftpack.webp" alt="Giftpack">
+### AI Text Summarizer by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-text-summarizer-by-leap-ai.webp" alt="AI Text Summarizer by Leap AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-text-summarizer-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-text-summarizer-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Bytecap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bytecap.webp" alt="Bytecap">
+
+#### 使用 Bytecap-自定义 AI 字幕提高视频参与度
+
+
+[Visit](https://thataicollection.com/redirect/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Bytecap 是您创建自定义视频字幕的终极工具，可提高参与度并最大限度地提高收视率。 
+
+Bytecap 在几秒钟内生成 99% 准确的字幕，支持超过 99 种语言。 
+
+使用各种字体、颜色、表情符号、效果等自定义字幕，让您的视频脱颖而出。
+
+ Bytecap 非常适合视频编辑、内容创作者、播客和主播 
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Giftpack
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftpack.webp" alt="Giftpack">
+
+#### 使用 AI 提供个性化礼物，让全球送礼变得容易。
+
+
+[Visit](https://thataicollection.com/redirect/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+成千上万的各种规模的公司使用Giftpack来促进关系，自动化运营，提高留存率和经常性收入！
+
+我们通过Giftpack的集成自动化帮助客户简化日常送礼操作。从成千上万的应用程序到您的 CRM/HRIS/ATS，设计您的体验，剩下的交给 Giftpack 来处理。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -219,44 +257,6 @@ Quin是一款革命性的人工智能塔罗牌应用程序，旨在增强自我�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/homeworkify-im-master-homework-with-gpt-4o?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### SD3 Medium
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sd3-medium.webp" alt="SD3 Medium">
-
-#### SD3 Medium：最新、最先进的文本转图像模型
-
-
-[Visit](https://thataicollection.com/redirect/sd3-medium?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SD3（Stable Diffusion 3）Medium 是 Stability AI 迄今为止最先进的文本到图像的开放模型。它建立在先前的迭代基础上，提供了从文本生成图像的出色功能。 
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/sd3-medium?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Conch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-conch.webp" alt="Conch">
-
-#### 使用 Conch 加快写作、学习和研究的速度，同时使 AI 编写的文本人性化
-
-
-[Visit](https://thataicollection.com/redirect/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-你不可察觉的人工智能写作助手。使用 Conch 可以更快地写作、学习和工作。
-
-Conch 可帮助您使用我们的四个核心功能：
--隐身：录制您的讲座、会议、演示或访谈，以自动创建笔记和抽认卡
--写作：突出显示文本，轻松编辑和改进写作。轻松检查 AI，之后再对工作进行人性化处理
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3295,23 +3295,6 @@ Nextpart.ai 聊天机器人通过 No Filter NSFW 场景提升您的聊天体验�
 <br />
 
 
-### Undress AI undresser
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-ai-undresser.webp" alt="Undress AI undresser">
-
-#### Undress AI 应用程序-免费创建 Deepnude 图片-Undress Pro
-
-
-
-[Visit](https://thataicollection.com/redirect/undress-ai-undresser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-介绍Undress AI undresser，这是一款由人工智能驱动的终极应用程序，可在几秒钟内创建精美的裸照。借助我们先进的 deepnude AI 技术，您可以毫不费力地将任何图像转换为逼真的裸照。使用Undress AI undresser，体验最佳的照片裸体化体验，人工智能与艺术的碰撞。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/undress-ai-undresser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Undressbaby AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undressbaby-ai.webp" alt="Undressbaby AI">
 
@@ -3324,6 +3307,25 @@ Nextpart.ai 聊天机器人通过 No Filter NSFW 场景提升您的聊天体验�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Undress Pro AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
+
+#### Undress Pro AI-最先进的脱衣服 AI-为任何人脱衣服
+
+
+
+[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress Pro AI-通过人工智能驱动的脸部交换或将她的图像转换为动漫风格，立即实现你对她的幻想。
+
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

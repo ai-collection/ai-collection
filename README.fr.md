@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1665" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1666" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -60,30 +60,24 @@ Sélectionnez et téléchargez vos favoris à partir de vos résultats : ils so
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
-    </a>
-    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
-    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
     <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
     <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
     <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    </a>
+    <h4>La seule génération de code basée sur l'IA prête pour la production</h4>
+    <p>Jovu : la seule plateforme d'IA qui transforme les idées en code prêt à être produit en 4 minutes. Automatisez le développement de tes applications dorsales, en garantissant la cohérence, la prévisibilité et le respect des normes les plus strictes grâce à un code conçu pour évoluer.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Démarrer avec Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -141,15 +135,55 @@ Sélectionnez et téléchargez vos favoris à partir de vos résultats : ils so
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Giftpack
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftpack.webp" alt="Giftpack">
+### AI Text Summarizer by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-text-summarizer-by-leap-ai.webp" alt="AI Text Summarizer by Leap AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-text-summarizer-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/ai-text-summarizer-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Bytecap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bytecap.webp" alt="Bytecap">
+
+#### Stimulez l'engagement vidéo avec Bytecap, des sous-titres personnalisés basés sur l'IA
+
+
+[Visit](https://thataicollection.com/redirect/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Bytecap est ton outil idéal pour créer des sous-titres vidéo personnalisés qui stimulent l'engagement et maximisent le nombre de spectateurs. 
+
+Bytecap génère des sous-titres précis à 99 % en quelques secondes, dans plus de 99 langues. 
+
+Personnalise les légendes avec une variété de polices, de couleurs, d'emojis, d'effets et plus encore pour que tes vidéos se démarquent.
+
+ Parfait pour les monteurs vidéo, les créateurs de contenu, les podcasteurs et les streamers, Bytecap 
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Giftpack
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftpack.webp" alt="Giftpack">
+
+#### Les cadeaux mondiaux en toute simplicité grâce à des cadeaux personnalisés grâce à l'IA.
+
+
+[Visit](https://thataicollection.com/redirect/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Des milliers d'entreprises de toutes tailles utilisent Giftpack pour nouer des relations, automatiser leurs opérations, améliorer la fidélisation et les revenus récurrents !
+
+Nous aidons nos clients à simplifier leurs opérations quotidiennes en matière de cadeaux grâce à l'automatisation intégrée de Giftpack. Qu'il s'agisse de milliers de candidatures ou de ton CRM/HRIS/ATS, conçois ton expérience et laisse Giftpack s'occuper du reste.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -223,44 +257,6 @@ Du mal à faire ses devoirs ? Homeworkify.im est là pour te faciliter la vie u
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/homeworkify-im-master-homework-with-gpt-4o?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### SD3 Medium
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sd3-medium.webp" alt="SD3 Medium">
-
-#### SD3 Medium : le modèle de conversion texte-image le plus récent et le plus avancé
-
-
-[Visit](https://thataicollection.com/redirect/sd3-medium?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SD3 (Stable Diffusion 3) Medium est le modèle ouvert texte-image le plus avancé de Stability AI à ce jour. Il s'appuie sur les versions précédentes et permet de générer des images de meilleure qualité à partir de texte. 
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/sd3-medium?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Conch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-conch.webp" alt="Conch">
-
-#### Rédigez, étudiez et faites des recherches plus rapidement avec Conch, tout en humanisant le texte écrit par IA
-
-
-[Visit](https://thataicollection.com/redirect/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ton assistant de rédaction IA indétectable. Utilise Conch pour écrire, étudier et travailler plus vite.
-
-Conch t'aide grâce à ses quatre fonctionnalités principales :
-- Furtif : enregistre tes conférences, tes réunions, tes présentations ou tes interviews pour créer automatiquement des notes et des flashcards
-- Rédaction : surligne le texte pour le modifier et améliorer ton écriture facilement. Vérifie facilement la présence d'IA et humanise ton travail par la suite
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3299,23 +3295,6 @@ Meilleure nouvelle technologie de déshabillage IA GRATUITE ! Se déshabiller g
 <br />
 
 
-### Undress AI undresser
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-ai-undresser.webp" alt="Undress AI undresser">
-
-#### Application Undress AI - Créez des images de Deepnude GRATUITEMENT - Undress Pro
-
-
-
-[Visit](https://thataicollection.com/redirect/undress-ai-undresser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Découvrez Undress AI Undresser, l'application ultime basée sur l'IA qui permet de créer de superbes photos de nu en quelques secondes. Grâce à notre technologie avancée d'intelligence artificielle Deepnude, tu peux facilement transformer n'importe quelle image en un nu réaliste. Découvrez ce qu'il y a de mieux en matière de nudification photo avec Undress AI Undress, qui associe intelligence artificielle et talent artistique.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/undress-ai-undresser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Undressbaby AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undressbaby-ai.webp" alt="Undressbaby AI">
 
@@ -3328,6 +3307,25 @@ Chez Undressbaby AI, nous proposons Grey"s Secret Room, un service original bas�
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Undress Pro AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
+
+#### Undress Pro AI - La technologie de pointe Undress AI - Déhabille tout le monde
+
+
+
+[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress Pro AI - Réalisez vos fantasmes à son sujet instantanément grâce à l'échange de visages basé sur l'IA ou en transformant ses images dans un style anime.
+
+
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

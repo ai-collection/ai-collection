@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1665" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1666" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -60,12 +60,14 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>पैराफ़्रेसिंग टूल - सर्वश्रेष्ठ मुफ़्त ऑनलाइन पैराफ़्रेज़र - Wordfixerbot</h4>
-    <p>WordFixerBot का पैराफ़्रेसिंग टूल किसी भी टेक्स्ट, वाक्य, लेख, पैराग्राफ, पेपर या दस्तावेज़ों को तुरंत और सटीक तरीके से फिर से लिखने में तुम्हारी मदद करने के लिए एकदम सही टूल है। अभी शुरू करो और अपने लेखन को सबसे अलग बनाओ!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>के साथ आरंभ करें Wordfixerbot</b></a>
+    <h4>हमारे जॉब एप्लीकेशन एआई की मदद से अपने लिए आदर्श नौकरी पाओ। हर हफ़्ते सैंकड़ों इंजीनियरिंग नौकरियों पर स्वचालित रूप से आवेदन करो! 100 मुफ़्त ऐप्लिकेशन पाने के लिए ApplyPass से जुड़ें।</h4>
+    <p>ApplyPass एक AI-संचालित जॉब सर्च टूल है, जिससे तुम्हेंं नौकरी के लिए ज़्यादा इंटरव्यू मिलते हैं। ApplyPass तुम्हारी ओर से हर महीने 200-400 अनुकूलित नौकरी के लिए आवेदन सबमिट करता है। यह टूल नौकरी के पहले 100 आवेदन मुफ़्त में देता है।
+
+ApplyPass.com ने इंजीनियरों के लिए हज़ारों इंटरव्यू तैयार किए हैं, जिनका औसत रिस्पांस रेट इंडस्ट्री के औसत से 40% ज्यादा है।</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>के साथ आरंभ करें ApplyPass</b></a>
     <br />
 </div>
 
@@ -141,15 +143,55 @@
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### Giftpack
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftpack.webp" alt="Giftpack">
+### AI Text Summarizer by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-text-summarizer-by-leap-ai.webp" alt="AI Text Summarizer by Leap AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-text-summarizer-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/ai-text-summarizer-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Bytecap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bytecap.webp" alt="Bytecap">
+
+#### बाइटकैप के साथ वीडियो सहभागिता बढ़ाना- कस्टम AI कैप्शन
+
+
+[Visit](https://thataicollection.com/redirect/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+कस्टम वीडियो कैप्शन बनाने के लिए तुम्हारा सबसे अच्छा टूल है, जो जुड़ाव बढ़ाता है और दर्शकों की संख्या बढ़ाता है। 
+
+बाइटकैप कुछ ही सेकंड में 99% सटीक कैप्शन जनरेट करता है, जो 99 से ज़्यादा भाषाओं को सपोर्ट करता है। 
+
+अपने वीडियो को अलग दिखाने के लिए, कई तरह के फ़ॉन्ट, रंग, इमोजी, इफ़ेक्ट और बहुत कुछ के साथ कैप्शन कस्टमाइज़ करें।
+
+ वीडियो एडिटर, कॉन्टेंट क्रिएटर्स, पॉडकास्टर्स और स्ट्रीमर्स के लिए बहुत बढ़िया, बाइटकैप 
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Giftpack
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftpack.webp" alt="Giftpack">
+
+#### AI का इस्तेमाल करके वैयक्तिकृत उपहारों के ज़रिए ग्लोबल गिफ़्ट को आसान बनाया गया।
+
+
+[Visit](https://thataicollection.com/redirect/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+सभी आकार की हज़ारों कंपनियाँ रिश्तों को बढ़ावा देने, ऑपरेशन को स्वचालित बनाने, रिटेंशन और बार-बार होने वाली कमाई को बढ़ावा देने के लिए गिफ़्टपैक का इस्तेमाल करती हैं!
+
+हम गिफ़्टपैक के इंटीग्रेटेड ऑटोमेशन की मदद से अपने क्लाइंट्स को रोज़ाना के गिफ़्ट ऑपरेशन को आसान बनाने में मदद करते हैं। अपने CRM/HRIS/ATS के हज़ारों एप्लिकेशन से लेकर, अपना अनुभव डिज़ाइन करें और गिफ़्टपैक को बाकी काम संभालने दें।
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -223,44 +265,6 @@ null
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/homeworkify-im-master-homework-with-gpt-4o?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### SD3 Medium
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sd3-medium.webp" alt="SD3 Medium">
-
-#### SD3 मीडियम: सबसे नया और सबसे एडवांस टेक्स्ट-टू-इमेज मॉडल
-
-
-[Visit](https://thataicollection.com/redirect/sd3-medium?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SD3 (स्टेबल डिफ़्यूज़न 3) मीडियम स्टेबिलिटी AI का अभी तक का सबसे एडवांस टेक्स्ट-टू-इमेज ओपन मॉडल है। यह पिछले पुनरावृत्तियों पर आधारित है, जो टेक्स्ट से बेहतर इमेज जनरेट करता है। 
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/sd3-medium?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Conch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-conch.webp" alt="Conch">
-
-#### एआई-लिखित टेक्स्ट को मानवीकृत करते हुए, कोंच के साथ तेज़ी से लिखें, अध्ययन करें और रिसर्च करें
-
-
-[Visit](https://thataicollection.com/redirect/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-तुम्हारा अनभिज्ञेय AI राइटिंग असिस्टेंट। लिखने, पढ़ाई करने और तेज़ी से काम करने के लिए कोंच का इस्तेमाल करें।
-
-कोंच हमारी चार मुख्य विशेषताओं में तुम्हारी मदद करता है:
-- स्टील्थ: अपने व्याख्यान, मीटिंग, प्रस्तुतीकरण या इंटरव्यू रिकॉर्ड करें, ताकि स्वचालित रूप से नोट्स और फ़्लैशकार्ड बनाए जा सकें
-- लिखें: टेक्स्ट हाइलाइट करें, ताकि संपादित किया जा सके और अपने लेखन को आसानी से बेहतर बनाया जा सके। आसानी से AI की जांच करें, और बाद में अपने काम को मानवीय बनाएं
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3299,23 +3303,6 @@ Nextpart.ai चैटबॉट नो फ़िल्टर NSFW सिनेरि
 <br />
 
 
-### Undress AI undresser
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-ai-undresser.webp" alt="Undress AI undresser">
-
-#### अनड्रेस एआई ऐप - मुफ़्त में डीपन्यूड इमेज बनाएं - अनड्रेस प्रो
-
-
-
-[Visit](https://thataicollection.com/redirect/undress-ai-undresser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-पेश है अनड्रेस एआई अनड्रेसर, एआई-संचालित बेहतरीन ऐप, जो कुछ ही सेकंड में शानदार नग्न तस्वीरें बनाने के लिए है। हमारी एडवांस डीपन्यूड एआई तकनीक के साथ, तुम आसानी से किसी भी छवि को रियलिस्टिक न्यूड में बदल सकते हो। अनड्रेस एआई अनड्रेसर के साथ फ़ोटो न्यूडिफ़िकेशन का सबसे अच्छा अनुभव करें, जहाँ AI कलात्मकता से मिलता है।
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/undress-ai-undresser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Undressbaby AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undressbaby-ai.webp" alt="Undressbaby AI">
 
@@ -3328,6 +3315,25 @@ Undressbaby AI में, हम ग्रेज़ सीक्रेट रूम
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Undress Pro AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
+
+#### अनड्रेस प्रो एआई - द स्टेट ऑफ़ द आर्ट अनड्रेस एआई - किसी को भी अनड्रेस करें
+
+
+
+[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+अनड्रेस प्रो एआई - एआई-संचालित फ़ेस स्वैपिंग या उनकी छवियों को एनीमे स्टाइल में बदलकर तुरंत उनके बारे में अपनी कल्पना को साकार करें।
+
+
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

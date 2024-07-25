@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1665" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1666" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -60,18 +60,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Настраиваемый чат-бот с искусственным интеллектом, работающий круглосуточно и без выходных</h4>
-    <p>Chat Data — это платформа чат-ботов с искусственным интеллектом, предлагающая гибкую настройку бэкенда и интерфейса. Создавайте чат-ботов, используя свою базу знаний, настраиваемые конечные точки или модели Chat Data. Настройте интерфейс чат-бота и выберите белую маркировку. Дополнительные функции включают эскалацию онлайн-чата в стандартных или профессиональных тарифных планах.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Начать работу с Chat Data</b></a>
+    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
+    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -141,15 +135,55 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Giftpack
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftpack.webp" alt="Giftpack">
+### AI Text Summarizer by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-text-summarizer-by-leap-ai.webp" alt="AI Text Summarizer by Leap AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-text-summarizer-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/ai-text-summarizer-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Bytecap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bytecap.webp" alt="Bytecap">
+
+#### Повысьте вовлеченность видео с помощью Bytecap — настраиваемых подписей с искусственным интеллектом
+
+
+[Visit](https://thataicollection.com/redirect/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Bytecap — это ваш идеальный инструмент для создания собственных субтитров к видео, которые повышают вовлеченность и увеличивают количество зрителей. 
+
+Bytecap генерирует субтитры с точностью 99% за считанные секунды и поддерживает более 99 языков. 
+
+Настройте субтитры с помощью различных шрифтов, цветов, смайликов, эффектов и многого другого, чтобы ваши видео выделялись на фоне других.
+
+ Bytecap идеально подходит для видеоредакторов, создателей контента, подкастеров и стримеров 
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Giftpack
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftpack.webp" alt="Giftpack">
+
+#### Предоставление подарков по всему миру стало проще благодаря персонализированным подаркам с использованием искусственного интеллекта.
+
+
+[Visit](https://thataicollection.com/redirect/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Тысячи компаний всех размеров используют Giftpack для налаживания отношений, автоматизации операций, повышения удержания персонала и регулярного дохода!
+
+Мы помогаем нашим клиентам упростить ежедневную процедуру дарения подарков с помощью интегрированной автоматизации Giftpack. От тысяч приложений до CRM/HRIS/ATS — создайте свой опыт, а Giftpack позаботится обо всем остальном.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -223,44 +257,6 @@ Quin — это революционное приложение для таро 
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/homeworkify-im-master-homework-with-gpt-4o?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### SD3 Medium
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sd3-medium.webp" alt="SD3 Medium">
-
-#### SD3 Medium: новейшая и самая совершенная модель преобразования текста в изображение
-
-
-[Visit](https://thataicollection.com/redirect/sd3-medium?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SD3 (Stable Diffusion 3) Medium — самая передовая открытая модель Stability AI для преобразования текста в изображение на сегодняшний день. Она основана на предыдущих версиях и обеспечивает превосходную генерацию изображений из текста. 
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/sd3-medium?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Conch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-conch.webp" alt="Conch">
-
-#### Пишите, изучайте и исследуйте быстрее с помощью Conch, одновременно гуманизируя написанный искусственным интеллектом текст
-
-
-[Visit](https://thataicollection.com/redirect/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ваш незаметный помощник по написанию текстов с искусственным интеллектом. Используйте Conch, чтобы писать, учиться и работать быстрее.
-
-Conch поможет вам использовать наши четыре основные функции:
-- Незаметность: записывайте лекции, встречи, презентации или интервью для автоматического создания заметок и карточек
-- Пишите: выделяйте текст, чтобы легко редактировать и улучшать текст. Легко проверяйте искусственный интеллект, а затем гуманизируйте свою работу
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3299,23 +3295,6 @@ DreamPaint.NET использует самые передовые техноло
 <br />
 
 
-### Undress AI undresser
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-ai-undresser.webp" alt="Undress AI undresser">
-
-#### Приложение Undress AI - создавайте изображения Deepnude БЕСПЛАТНО - Undress Pro
-
-
-
-[Visit](https://thataicollection.com/redirect/undress-ai-undresser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Представляем Undress AI undresser, идеальное приложение на базе искусственного интеллекта для создания потрясающих обнаженных фотографий за считанные секунды. С помощью нашей передовой технологии искусственного интеллекта deepnude вы можете легко превратить любое изображение в реалистичную обнаженную натуру. В раздевалке Undress AI, где искусственный интеллект сочетается с искусственным интеллектом, вы получите максимум удовольствия от создания обнаженных фотографий.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/undress-ai-undresser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Undressbaby AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undressbaby-ai.webp" alt="Undressbaby AI">
 
@@ -3328,6 +3307,25 @@ DreamPaint.NET использует самые передовые техноло
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Undress Pro AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
+
+#### Undress Pro AI - новейшие технологии Раздевайте ИИ - Раздевайте кого угодно
+
+
+
+[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress Pro AI - Мгновенно реализуйте свои фантазии о ней с помощью искусственного интеллекта, меняя ее лица или преобразуя ее изображения в стиле аниме.
+
+
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

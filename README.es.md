@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1665" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1666" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -60,12 +60,18 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
-    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
+    <h4>Chatbot de IA personalizado las 24 horas del día, los 7 días de la semana, más escalación</h4>
+    <p>Chat Data es una plataforma de chatbots de IA que ofrece una personalización flexible de backend y frontend. Crea chatbots con tu base de conocimientos, puntos finales personalizados o los modelos de Chat Data. Personaliza la interfaz del chatbot y opta por la etiqueta blanca. Las funciones adicionales incluyen la escalación del chat en vivo en los planes estándar o profesionales.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
     <br />
 </div>
 
@@ -135,15 +141,55 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Giftpack
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftpack.webp" alt="Giftpack">
+### AI Text Summarizer by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-text-summarizer-by-leap-ai.webp" alt="AI Text Summarizer by Leap AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-text-summarizer-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/ai-text-summarizer-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Bytecap
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bytecap.webp" alt="Bytecap">
+
+#### Aumenta la interacción con los vídeos con Bytecap: subtítulos de IA personalizados
+
+
+[Visit](https://thataicollection.com/redirect/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Bytecap es tu mejor herramienta para crear subtítulos de vídeo personalizados que aumenten la participación y maximicen la audiencia. 
+
+Bytecap genera subtítulos con una precisión del 99% en segundos y admite más de 99 idiomas. 
+
+Personaliza los subtítulos con una variedad de fuentes, colores, emojis, efectos y mucho más para que tus vídeos destaquen.
+
+ Perfecto para editores de vídeo, creadores de contenido, podcasters y streamers, Bytecap 
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Giftpack
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftpack.webp" alt="Giftpack">
+
+#### Los regalos globales son más fáciles con los obsequios personalizados mediante la IA.
+
+
+[Visit](https://thataicollection.com/redirect/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Miles de empresas de todos los tamaños utilizan los paquetes de regalo para fomentar las relaciones, automatizar las operaciones, aumentar la retención y los ingresos recurrentes.
+
+Ayudamos a nuestros clientes a simplificar su operación diaria de regalos con la automatización integrada de Giftpack. Desde miles de aplicaciones hasta tu CRM/HRIS/ATS, diseña tu experiencia y deja que Giftpack se encargue del resto.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -217,44 +263,6 @@ Presentamos HomeWorkify.im 📚✨: ¡Tu mejor asistente de deberes con tecnolog
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/homeworkify-im-master-homework-with-gpt-4o?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### SD3 Medium
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sd3-medium.webp" alt="SD3 Medium">
-
-#### SD3 Medium: el último y más avanzado modelo de conversión de texto a imagen
-
-
-[Visit](https://thataicollection.com/redirect/sd3-medium?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-El SD3 (Stable Diffusion 3) Medium es el modelo abierto de conversión de texto a imagen más avanzado de Stability AI hasta la fecha. Se basa en versiones anteriores y ofrece una generación de imágenes superior a partir del texto. 
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/sd3-medium?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Conch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-conch.webp" alt="Conch">
-
-#### Escribe, estudia e investiga más rápido con Conch y, al mismo tiempo, humaniza el texto escrito por la IA
-
-
-[Visit](https://thataicollection.com/redirect/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Tu asistente de escritura de IA indetectable. Usa Conch para escribir, estudiar y trabajar más rápido.
-
-Conch te ayuda con nuestras cuatro funciones principales:
-- Sigilo: graba tus conferencias, reuniones, presentaciones o entrevistas para crear notas y tarjetas didácticas automáticamente
-- Escribe: resalta el texto para editarlo y mejorar tu escritura fácilmente. Comprueba fácilmente la IA y humaniza tu trabajo después
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/conch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3292,23 +3300,6 @@ El chatbot Nextpart.ai mejora tu experiencia de chat con escenarios de NSFW sin 
 <br />
 
 
-### Undress AI undresser
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-ai-undresser.webp" alt="Undress AI undresser">
-
-#### Aplicación Undress AI - Crea imágenes de Deepnude GRATIS - Undress Pro
-
-
-
-[Visit](https://thataicollection.com/redirect/undress-ai-undresser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Presentamos Undress AI Undresser, la mejor aplicación basada en IA para crear impresionantes fotos de desnudos en segundos. Con nuestra avanzada tecnología de IA Deepnude, puedes transformar sin esfuerzo cualquier imagen en un desnudo realista. Disfruta de lo mejor de la desnudez fotográfica con Undress AI Undresser, donde la IA se encuentra con el arte.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/undress-ai-undresser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Undressbaby AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undressbaby-ai.webp" alt="Undressbaby AI">
 
@@ -3321,6 +3312,25 @@ En Undressbaby AI, ofrecemos Grey's Secret Room, un servicio distintivo impulsad
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Undress Pro AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
+
+#### Undress Pro AI - Lo último en tecnología Undress AI - Desnuda a cualquiera
+
+
+
+[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress Pro AI: Haz realidad tu fantasía sobre ella al instante con un intercambio de rostros con tecnología de IA o transformando sus imágenes al estilo anime.
+
+
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
