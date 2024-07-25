@@ -70,30 +70,26 @@ Select and download your favorites from your results—they''re indistinguishabl
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>The only production-ready AI-powered code generation</h4>
-    <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
+    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
+    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
-    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
+    <h4>Land your ideal job with our job application AI. Automatically apply to hundreds of engineering jobs every week! Join ApplyPass to get 100 free applications.</h4>
+    <p>ApplyPass is an AI-powered job search tool that gets you more job interviews. ApplyPass submits 200-400 tailored job applications on your behalf every month. This tool offers the first 100 job applications for free.
 
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
+ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that''s 40% higher than the industry average.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Get Started with ApplyPass</b></a>
     <br />
 </div>
 
@@ -151,6 +147,22 @@ Select and download your favorites from your results—they''re indistinguishabl
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Free AI Text to Speech by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-text-to-speech-by-leap-ai.webp" alt="Free AI Text to Speech by Leap AI">
+
+#### The AI Text to Speech tool converts written text into natural-sounding speech quickly and accurately, enhancing engagement and accessibility for any text.
+
+
+[Visit](https://thataicollection.com/redirect/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+The AI Text to Speech tool helps bring your text to life by quickly and accurately converting written text into natural-sounding speech. It's ideal for content creators, educators, businesses, and anyone looking to make their text more engaging and accessible.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### AI Image Generator by Leap AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wedspeech-ai.webp" alt="AI Image Generator by Leap AI">
 
@@ -249,22 +261,6 @@ We help our clients simplify their daily gifting operation with Giftpack's integ
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/logogalleria-ai-logo-maker-with-precision-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Paraphrasing Tool by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-paraphrasing-tool-by-leap-ai.webp" alt="AI Paraphrasing Tool by Leap AI">
-
-#### Rephrase any text in seconds with this free AI paraphrasing tool. Rewrite, edit and change the tone of sentences with ease.
-
-
-[Visit](https://thataicollection.com/redirect/ai-paraphrasing-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI Paraphrasing Tool by Leap AI is your go-to solution for effortlessly rephrasing text. Manually rephrasing can be challenging and time-consuming, but our tool simplifies this process. Leveraging advanced AI models, it accurately rephrases your text while maintaining the original context. This free tool ensures precision and is available at no cost, forever, making it accessible to everyone.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/ai-paraphrasing-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4707,6 +4703,22 @@ Palteca offers an immersive experience in teaching Spanish. All of the lesson co
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/palteca?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Free AI Text to Speech by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-text-to-speech-by-leap-ai.webp" alt="Free AI Text to Speech by Leap AI">
+
+#### The AI Text to Speech tool converts written text into natural-sounding speech quickly and accurately, enhancing engagement and accessibility for any text.
+
+
+[Visit](https://thataicollection.com/redirect/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+The AI Text to Speech tool helps bring your text to life by quickly and accurately converting written text into natural-sounding speech. It's ideal for content creators, educators, businesses, and anyone looking to make their text more engaging and accessible.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

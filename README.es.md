@@ -60,12 +60,14 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
-    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
+    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
+    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
+
+ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
     <br />
 </div>
 
@@ -141,15 +143,31 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### AI Image Generator by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wedspeech-ai.webp" alt="AI Image Generator by Leap AI">
+### Free AI Text to Speech by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-text-to-speech-by-leap-ai.webp" alt="Free AI Text to Speech by Leap AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ai-image-generator-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Image Generator by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wedspeech-ai.webp" alt="AI Image Generator by Leap AI">
+
+#### Crea imágenes hermosas sin esfuerzo con la herramienta de generación de imágenes con IA de Leap AI
+
+
+[Visit](https://thataicollection.com/redirect/ai-image-generator-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La herramienta generadora de imágenes con IA de Leap AI te ayuda a crear imágenes impresionantes a partir de instrucciones de texto para proyectos personales, de marketing y de creación de contenido. Simplemente introduce un mensaje de texto detallado, haz clic en «Generar» y descarga tu imagen de alta calidad. Perfecta para equipos de marketing, creadores de contenido y proyectos personales, esta herramienta garantiza que dispones de las mejores imágenes para mejorar tu trabajo.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/ai-image-generator-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -245,22 +263,6 @@ Ayudamos a nuestros clientes a simplificar su operación diaria de regalos con l
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/logogalleria-ai-logo-maker-with-precision-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Paraphrasing Tool by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-paraphrasing-tool-by-leap-ai.webp" alt="AI Paraphrasing Tool by Leap AI">
-
-#### Reformula cualquier texto en segundos con esta herramienta gratuita de paráfrasis de IA. Reescribe, edita y cambia el tono de las frases con facilidad.
-
-
-[Visit](https://thataicollection.com/redirect/ai-paraphrasing-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-La herramienta de paráfrasis con IA de Leap AI es tu solución ideal para reformular el texto sin esfuerzo. Reformular manualmente puede resultar difícil y llevar mucho tiempo, pero nuestra herramienta simplifica este proceso. Aprovecha los modelos avanzados de IA, reformula el texto con precisión y, al mismo tiempo, mantiene el contexto original. Esta herramienta gratuita garantiza la precisión y está disponible sin coste alguno, para siempre, por lo que es accesible para todo el mundo.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/ai-paraphrasing-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4702,6 +4704,22 @@ Palteca ofrece una experiencia inmersiva en la enseñanza del español. Todo el 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/palteca?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Free AI Text to Speech by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-text-to-speech-by-leap-ai.webp" alt="Free AI Text to Speech by Leap AI">
+
+#### null
+
+
+[Visit](https://thataicollection.com/redirect/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
