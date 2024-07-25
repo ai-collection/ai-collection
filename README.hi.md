@@ -60,24 +60,26 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>AI की थोड़ी मदद से, एकदम सही रिज़्यूमे तैयार करें</h4>
-    <p>तुम्हेंं जल्दी और आसानी से ऐसा रिज्यूम बनाने के लिए, जो तुम्हारे काम के अनुभव को सटीक रूप से दर्शाता हो, एक पेशेवर रेज़्यूमे लेखक होने की ज़रूरत नहीं है। हंटर का कस्टमाइज़ किया जा सकने वाला AI रिज्यूमे बिल्डर तुम्हेंं और इंटरव्यू देने में मदद करने के लिए एक अच्छी तरह से लिखा हुआ, एटीएस-अनुकूल रिज्यूमे तैयार करने में मदद करेगा।</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>के साथ आरंभ करें Huntr AI Resume Builder</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
     <h4>StickerIt.AI | #1 मोबाइल, एआई-संचालित स्टिकर डिज़ाइन और सेल्स सॉल्यूशन</h4>
     <p>StickerIt.AI सीधे अपने मोबाइल डिवाइस से AI-संचालित स्टिकर बनाने और बेचने का तुम्हारा प्रमुख समाधान है। किसी भी स्थान को एक जीवंत स्टिकर वर्कशॉप में ट्रांसफ़ॉर्म करें। सिर्फ़ दो टैबलेट और एक प्रिंटर की मदद से, तुम मिनटों में बनाए गए कस्टम स्टिकर बेचना शुरू कर सकते हो। हमारा प्लेटफ़ॉर्म तुम्हारे AI स्टिकर का कारोबार, कभी भी, कहीं भी चलाने के लिए डिज़ाइन किया गया है।</p>
     <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>के साथ आरंभ करें StickerIt.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    </a>
+    <h4>हमारे जॉब एप्लीकेशन एआई की मदद से अपने लिए आदर्श नौकरी पाओ। हर हफ़्ते सैंकड़ों इंजीनियरिंग नौकरियों पर स्वचालित रूप से आवेदन करो! 100 मुफ़्त ऐप्लिकेशन पाने के लिए ApplyPass से जुड़ें।</h4>
+    <p>ApplyPass एक AI-संचालित जॉब सर्च टूल है, जिससे तुम्हेंं नौकरी के लिए ज़्यादा इंटरव्यू मिलते हैं। ApplyPass तुम्हारी ओर से हर महीने 200-400 अनुकूलित नौकरी के लिए आवेदन सबमिट करता है। यह टूल नौकरी के पहले 100 आवेदन मुफ़्त में देता है।
+
+ApplyPass.com ने इंजीनियरों के लिए हज़ारों इंटरव्यू तैयार किए हैं, जिनका औसत रिस्पांस रेट इंडस्ट्री के औसत से 40% ज्यादा है।</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>के साथ आरंभ करें ApplyPass</b></a>
     <br />
 </div>
 
@@ -135,15 +137,31 @@
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### Lead Research Tool by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lead-research-tool-by-leap-ai.webp" alt="Lead Research Tool by Leap AI">
+### AI Image Generator by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wedspeech-ai.webp" alt="AI Image Generator by Leap AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/lead-research-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-image-generator-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/ai-image-generator-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Lead Research Tool by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lead-research-tool-by-leap-ai.webp" alt="Lead Research Tool by Leap AI">
+
+#### उस व्यक्ति के बारे में तुम्हेंं जो कुछ पता चल सकता है, वह जानने के लिए ईमेल डालें।
+
+
+[Visit](https://thataicollection.com/redirect/lead-research-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+हमारे लीड रिसर्च टूल की मदद से आसानी से लीड जनरेशन, बैकग्राउंड चेक और मार्केट रिसर्च के लिए किसी भी ईमेल पते पर विस्तृत जानकारी इकट्ठा करो।
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/lead-research-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -239,22 +257,6 @@ null
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/ai-paraphrasing-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Quin-AI Tarot Reader
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quin-ai-tarot-reader.webp" alt="Quin-AI Tarot Reader">
-
-#### क़ुइन से कुछ भी पूछ लो। तुम्हारा निजी एआई टैरो रीडर। ✨
-
-
-[Visit](https://thataicollection.com/redirect/quin-ai-tarot-reader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-क्विन एक क्रांतिकारी एआई-संचालित टैरो ऐप है, जिसे आत्म-खोज और स्पष्टता को बेहतर बनाने के लिए डिज़ाइन किया गया है। विशेषज्ञ मानव टैरो रीडर्स के ज्ञान से प्रशिक्षित, क्विन भ्रम दूर करने और दिशा खोजने के लिए वैयक्तिकृत जानकारी प्रदान करता है। क्विन एक सहज, तल्लीन करने वाला अनुभव बनाता है—ख़ुद को खोजने के लिए वैयक्तिकृत रस्म। फ़ॉर्मूलाबद्ध व्याख्याओं को भूल जाओ 
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/quin-ai-tarot-reader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
