@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1667" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1671" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -60,24 +60,30 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>एकमात्र प्रॉडक्शन-तैयार AI-संचालित कोड जनरेशन</h4>
-    <p>जोवू: एकमात्र AI प्लेटफ़ॉर्म, जो 4 मिनट में आइडिया को प्रोडक्शन-रेडी कोड में बदल देता है। अपने बैकएंड अनुप्रयोगों के डेवलपमेंट को स्वचालित करें, ताकि बड़े पैमाने पर बनाए गए कोड के साथ निरंतरता, पूर्वानुमान और उच्चतम मानकों का पालन किया जा सके।</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>के साथ आरंभ करें Jovu by Amplication</b></a>
+    <h4>24/7 कस्टम AI चैटबोट और लाइव चैट एस्केलेशन</h4>
+    <p>चैट डेटा एक AI चैटबॉट प्लेटफ़ॉर्म है, जो सुविधाजनक बैकएंड और फ़्रंटएंड कस्टमाइज़ेशन की सुविधा देता है। अपने नॉलेज बेस, कस्टम एंडपॉइंट या चैट डेटा के मॉडल का इस्तेमाल करके चैटबॉट बनाएं। चैटबोट इंटरफ़ेस को कस्टमाइज़ करें और वाइट लेबलिंग का विकल्प चुनें। अतिरिक्त सुविधाओं में स्टैण्डर्ड या प्रोफ़ेशनल प्लान में लाइव चैट एस्केलेशन शामिल है।
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>के साथ आरंभ करें Chat Data</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>पैराफ़्रेसिंग टूल - सर्वश्रेष्ठ मुफ़्त ऑनलाइन पैराफ़्रेज़र - Wordfixerbot</h4>
-    <p>WordFixerBot का पैराफ़्रेसिंग टूल किसी भी टेक्स्ट, वाक्य, लेख, पैराग्राफ, पेपर या दस्तावेज़ों को तुरंत और सटीक तरीके से फिर से लिखने में तुम्हारी मदद करने के लिए एकदम सही टूल है। अभी शुरू करो और अपने लेखन को सबसे अलग बनाओ!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>के साथ आरंभ करें Wordfixerbot</b></a>
+    <h4>कॉर्पोरेट हेडशॉट्स AI: AI के साथ कॉर्पोरेट पोर्ट्रेट्स में क्रांति लाना</h4>
+    <p>www.CorporateHeadshots.ai के साथ प्रोफ़ेशनल फ़ोटोग्राफ़ी के भविष्य का अनुभव करें। हमारा एआई-चालित प्लेटफ़ॉर्म तुम्हारी सेल्फी को सुंदर, कॉर्पोरेट-मानक हेडशॉट में बदल देता है, जिससे पेशेवर तस्वीरें हर किसी के लिए, हर जगह सुलभ और आसान हो जाती हैं।</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>के साथ आरंभ करें Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -135,15 +141,31 @@
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### Free AI Text to Speech by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-text-to-speech-by-leap-ai.webp" alt="Free AI Text to Speech by Leap AI">
+### Arting.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-arting-ai.webp" alt="Arting.ai">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/arting-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/arting-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Free AI Text to Speech by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-text-to-speech-by-leap-ai.webp" alt="Free AI Text to Speech by Leap AI">
+
+#### AI टेक्स्ट टू स्पीच टूल लिखित टेक्स्ट को जल्दी और सटीक रूप से स्वाभाविक लगने वाले भाषण में बदल देता है, जिससे किसी भी टेक्स्ट के लिए सहभागिता और एक्सेसिबिलिटी बढ़ जाती है।
+
+
+[Visit](https://thataicollection.com/redirect/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+एआई टेक्स्ट टू स्पीच टूल लिखित टेक्स्ट को जल्दी और सटीक रूप से स्वाभाविक लगने वाले स्पीच में बदलकर तुम्हारे टेक्स्ट को जीवंत बनाने में मदद करता है। यह कॉन्टेंट बनाने वालों, शिक्षकों, बिज़नेस और उन लोगों के लिए आदर्श है जो अपने टेक्स्ट को ज़्यादा आकर्षक और सुलभ बनाना चाहते हैं।
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -235,26 +257,6 @@ null
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### LogoGalleria : AI Logo Maker with Precision Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logogalleria-ai-logo-maker-with-precision-free-online.webp" alt="LogoGalleria : AI Logo Maker with Precision Free Online">
-
-#### लोगोगैलेरिया: सटीकता के साथ एआई लोगो मेकर मुफ्त ऑनलाइन 
-
-
-[Visit](https://thataicollection.com/redirect/logogalleria-ai-logo-maker-with-precision-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-- एआई-जनरेटेड लोगो: हमारे AI को अनोखे लोगो डिज़ाइन के साथ तुम्हारी कल्पना को जगमगाने दें।
-- फ़ाइन-ट्यून्ड कंट्रोल: अपने लोगो को बेहतरीन तरीके से कस्टमाइज़ करें। अनचाहे तत्वों को आसानी से मिटाओ।
-- बैकग्राउंड हटाना: बिना किसी बैकग्राउंड के क्लीन पीएनजी पाने के लिए एक क्लिक पर।
-- एसवीजी एक्सपोर्ट: बहुमुखी प्रतिभा के लिए अपने डिज़ाइन को एसवीजी के रूप में एक्सपोर्ट करें।
-- डेली फ़्री कोटा: हर दिन मुफ़्त इस्तेमाल का मज़ा लें, ताकि अपनी रचनात्मकता को बनाए रखा जा सके।
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/logogalleria-ai-logo-maker-with-precision-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -714,6 +716,22 @@ APOB AI AI इमेज, AI वीडियो और AI पोर्ट्र�
 <br />
 
 
+### AI Image Generator by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wedspeech-ai.webp" alt="AI Image Generator by Leap AI">
+
+#### लीप एआई के AI इमेज जेनरेटर टूल के साथ आसानी से सुंदर चित्र बनाएं
+
+
+[Visit](https://thataicollection.com/redirect/ai-image-generator-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+लीप एआई का AI इमेज जेनरेटर टूल तुम्हेंं मार्केटिंग, कॉन्टेंट बनाने और निजी प्रोजेक्ट के लिए टेक्स्ट प्रॉम्प्ट से शानदार इमेज बनाने में मदद करता है। बस विस्तृत टेक्स्ट प्रॉम्प्ट इनपुट करें, 'जेनरेट करें' पर क्लिक करें और अपना हाई-क्वालिटी विज़ुअल डाउनलोड करें। मार्केटिंग टीमों, कॉन्टेंट क्रिएटर्स और निजी प्रोजेक्ट के लिए बहुत बढ़िया, यह टूल पक्का करता है कि तुम्हारे पास अपने काम को बेहतर बनाने के लिए सबसे अच्छे विज़ुअल्स हों।
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/ai-image-generator-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### caspa AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI">
 
@@ -726,22 +744,6 @@ APOB AI AI इमेज, AI वीडियो और AI पोर्ट्र�
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### ICONS8
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-icons8.webp" alt="ICONS8">
-
-#### प्रतीक, चित्रण, फ़ोटो, संगीत और डिज़ाइन टूल
-
-
-[Visit](https://thataicollection.com/redirect/icons8?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ICONS8 डिज़ाइनर को अपने विचार व्यक्त करने की अनुमति देता है, जिससे वे सही समय पर सही डिज़ाइन तत्व प्रदान करते हैं। AI विशेषताएं: फ़ेस जनरेटर, स्टॉक के चेहरे बदलें, स्मार्ट अपस्केलर, अपनी वेबसाइट को सीधे Lunacy से अपडेट करें और बहुत कुछ
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/icons8?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1639,6 +1641,22 @@ Gizzmo एक शक्तिशाली वर्डप्रेस प्ल�
 <br />
 
 
+### AI Content Detector by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
+
+#### टेक्स्ट का विश्लेषण करने के लिए हमारे मुफ़्त AI कंटेंट डिटेक्टर का इस्तेमाल करें और देखें कि यह AI द्वारा जेनरेट किया गया था या नहीं। AI चेकर टूल, हमेशा के लिए 100% मुफ़्त।
+
+
+[Visit](https://thataicollection.com/redirect/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+लीप एआई का AI कॉन्टेंट डिटेक्टर, AI से जनरेट किए गए कॉन्टेंट का आसानी से पता लगाने का तुम्हारा पसंदीदा टूल है। एआई-जनरेट किए गए टेक्स्ट को मैन्युअल रूप से पहचानना थकाऊ और समय लेने वाला हो सकता है, लेकिन हमारा टूल इस काम को आसान बनाता है। नवीनतम एलएलएम मॉडल का उपयोग करते हुए, यह आसानी से एआई-जनरेट की गई सामग्री का सटीक विश्लेषण करता है और उसकी पहचान करता है। सबसे अच्छी बात यह है कि यह मुफ़्त है और सभी के लिए इसे हमेशा के लिए एक्सेस किया जा सकता है।
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### QUIZGECKO
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quizgecko.webp" alt="QUIZGECKO">
 
@@ -1715,22 +1733,6 @@ TutoEAI लर्न एनीथिंग किसी भी विषय क�
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/tutorai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Teacherbot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-teacherbot.webp" alt="Teacherbot">
-
-#### टीचरबॉट - वह टूल जिसका हर शिक्षक हकदार होता है
-
-
-[Visit](https://thataicollection.com/redirect/teacherbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-हमने सबसे शक्तिशाली टूल विकसित किया है, जिस तक एक शिक्षक पहुंच सकता है। तुम सभी स्तरों के लिए टास्क और गतिविधियाँ बना सकते हो, साथ ही टॉपिक प्लान, फ़ॉरवर्ड प्लान, पाठ योजनाएँ और भी बहुत कुछ कर सकते हो। तुम सिर्फ़ अपनी कल्पना से ही सीमित हो।
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/teacherbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3895,6 +3897,22 @@ Afforai एक AI चैटबॉट है जो भरोसेमंद श�
 <br />
 
 
+### Lead Research Tool by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lead-research-tool-by-leap-ai.webp" alt="Lead Research Tool by Leap AI">
+
+#### उस व्यक्ति के बारे में तुम्हेंं जो कुछ पता चल सकता है, वह जानने के लिए ईमेल डालें।
+
+
+[Visit](https://thataicollection.com/redirect/lead-research-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+हमारे लीड रिसर्च टूल की मदद से आसानी से लीड जनरेशन, बैकग्राउंड चेक और मार्केट रिसर्च के लिए किसी भी ईमेल पते पर विस्तृत जानकारी इकट्ठा करो।
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/lead-research-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Sourcely
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sourcely.webp" alt="Sourcely">
 
@@ -3956,23 +3974,6 @@ RTutor प्राकृतिक भाषा को R कोड में अ
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/explainpaper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Jenni
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jenni.webp" alt="Jenni">
-
-#### जेनी - निबंध, शोध पत्र वगैरह लिखने के लिए AI!
-
-
-
-[Visit](https://thataicollection.com/redirect/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-जेनी तुम्हारी शैक्षणिक यात्रा की सभी चीज़ों के लिए तुम्हारी AI सहायक है। हम AI विकसित करने में माहिर हैं, जो निबंध लेखन, शोध पत्र वगैरह में तुम्हारी मदद करता है!
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4599,6 +4600,22 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 ---
 
 ## भाषण
+### Free AI Text to Speech by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-text-to-speech-by-leap-ai.webp" alt="Free AI Text to Speech by Leap AI">
+
+#### AI टेक्स्ट टू स्पीच टूल लिखित टेक्स्ट को जल्दी और सटीक रूप से स्वाभाविक लगने वाले भाषण में बदल देता है, जिससे किसी भी टेक्स्ट के लिए सहभागिता और एक्सेसिबिलिटी बढ़ जाती है।
+
+
+[Visit](https://thataicollection.com/redirect/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+एआई टेक्स्ट टू स्पीच टूल लिखित टेक्स्ट को जल्दी और सटीक रूप से स्वाभाविक लगने वाले स्पीच में बदलकर तुम्हारे टेक्स्ट को जीवंत बनाने में मदद करता है। यह कॉन्टेंट बनाने वालों, शिक्षकों, बिज़नेस और उन लोगों के लिए आदर्श है जो अपने टेक्स्ट को ज़्यादा आकर्षक और सुलभ बनाना चाहते हैं।
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Adobe Speech Enhancer
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-adobe-speech-enhancer.webp" alt="Adobe Speech Enhancer">
 
@@ -4697,22 +4714,6 @@ Palteca स्पैनिश सिखाने में एक शानद�
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/palteca?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Free AI Text to Speech by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-text-to-speech-by-leap-ai.webp" alt="Free AI Text to Speech by Leap AI">
-
-#### null
-
-
-[Visit](https://thataicollection.com/redirect/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-null
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5528,6 +5529,38 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 <br />
 
 
+### AI Paraphrasing Tool by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-paraphrasing-tool-by-leap-ai.webp" alt="AI Paraphrasing Tool by Leap AI">
+
+#### इस मुफ़्त एआई पैराफ़्रेसिंग टूल की मदद से, किसी भी टेक्स्ट को कुछ ही सेकंड में फिर से लिखें। आसानी से वाक्यों का लहज़ा फिर से लिखें, संपादित करें और बदलें।
+
+
+[Visit](https://thataicollection.com/redirect/ai-paraphrasing-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+लीप एआई का एआई पैराफ़्रेसिंग टूल टेक्स्ट को आसानी से रीफ़्रेश करने का तुम्हारा पसंदीदा समाधान है। मैन्युअल रूप से रीफ़्रेश करना चुनौतीपूर्ण और समय लेने वाला हो सकता है, लेकिन हमारा टूल इस प्रक्रिया को सरल बनाता है। एडवांस AI मॉडल का इस्तेमाल करते हुए, यह मूल संदर्भ को बनाए रखते हुए तुम्हारे टेक्स्ट को सटीक रूप से दोहराता है। यह मुफ़्त टूल सटीकता सुनिश्चित करता है और बिना किसी लागत के, हमेशा के लिए उपलब्ध है, जिससे यह सभी के लिए सुलभ हो जाता है।
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/ai-paraphrasing-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Text Summarizer by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-text-summarizer-by-leap-ai.webp" alt="AI Text Summarizer by Leap AI">
+
+#### लीप एआई समराइज़र एक मुफ़्त सारांश जेनरेटर है, जो किसी भी टेक्स्ट, लेख या दस्तावेज़ को कुछ ही सेकंड में संक्षेप में सारांशित करने में मदद कर सकता है।
+
+
+[Visit](https://thataicollection.com/redirect/ai-text-summarizer-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+लीप एआई का एआई टेक्स्ट समराइज़र एक मुफ़्त टूल है, जो किसी भी टेक्स्ट, लेख या दस्तावेज़ का संक्षिप्त सारांश तुरंत तैयार करता है। बिना अकाउंट के हर दिन 5 बार तक इसका इस्तेमाल करें या ज़्यादा मुफ़्त उपयोग और अतिरिक्त टूल अनलॉक करने के लिए रजिस्टर करें। यह सारांश व्यस्त पेशेवरों, छात्रों और उन लोगों के लिए एकदम सही है, जिन्हें बड़ी मात्रा में जानकारी को कुशलतापूर्वक प्रोसेस करने की ज़रूरत है।
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/ai-text-summarizer-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### ChatArt
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatart.webp" alt="ChatArt">
 
@@ -5540,41 +5573,6 @@ ChatArt एक व्यापक AI क्रिएशन प्लेटफ़ॉ
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/chatart?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Moonbeam
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-moonbeam.webp" alt="Moonbeam">
-
-#### मूनबीम - नेवर राइट फ्रॉम स्क्रैच अगेन।
-
-
-[Visit](https://thataicollection.com/redirect/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-मूनबीम के साथ अपने अगले बेहतरीन ब्लॉग की शुरुआत करें: तुम्हारा लंबे समय तक लिखने वाला AI असिस्टेंट। शानदार लंबी फ़ॉर्म सामग्री लिखने से घर का काम जैसा महसूस नहीं होता है। मूनबीम एकमात्र AI लेखन सहायक है, जो तुम्हेंं निबंध, कहानियाँ, लेख, ब्लॉग और दूसरी लंबी सामग्री लिखने में मदद करने के लिए विशेष रूप से प्रशिक्षित किया गया है।
-
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Paragraph AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-paragraph-ai.webp" alt="Paragraph AI">
-
-#### सबसे अच्छा मुफ़्त एआई राइटिंग असिस्टेंट ऐप: पैराग्राफ़ाई
-
-
-
-[Visit](https://thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-सबसे अच्छे लेखन सहायक सॉफ़्टवेयर की मदद से अपने लेखन कौशल को बढ़ावा दें। यह मुफ़्त AI टूल व्याकरण, स्पेलिंग और स्टाइल को बेहतर बनाता है। अभी इसे आजमाओ!
-
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

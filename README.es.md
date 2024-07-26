@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1667" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1671" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -60,32 +60,24 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
-    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
-
-ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
+    <h4>La única generación de código basada en IA lista para producción</h4>
+    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Chatbot de IA personalizado las 24 horas del día, los 7 días de la semana, más escalación</h4>
-    <p>Chat Data es una plataforma de chatbots de IA que ofrece una personalización flexible de backend y frontend. Crea chatbots con tu base de conocimientos, puntos finales personalizados o los modelos de Chat Data. Personaliza la interfaz del chatbot y opta por la etiqueta blanca. Las funciones adicionales incluyen la escalación del chat en vivo en los planes estándar o profesionales.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
+    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
+    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -143,15 +135,31 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Free AI Text to Speech by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-text-to-speech-by-leap-ai.webp" alt="Free AI Text to Speech by Leap AI">
+### Arting.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-arting-ai.webp" alt="Arting.ai">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/arting-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/arting-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Free AI Text to Speech by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-text-to-speech-by-leap-ai.webp" alt="Free AI Text to Speech by Leap AI">
+
+#### La herramienta de conversión de texto a voz con IA convierte el texto escrito en voz con un sonido natural de forma rápida y precisa, lo que mejora la interacción y la accesibilidad de cualquier texto.
+
+
+[Visit](https://thataicollection.com/redirect/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La herramienta de conversión de texto a voz con IA ayuda a dar vida al texto al convertir de forma rápida y precisa el texto escrito en voz con un sonido natural. Es ideal para los creadores de contenido, los educadores, las empresas y cualquier persona que quiera que su texto sea más atractivo y accesible.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -243,26 +251,6 @@ Ayudamos a nuestros clientes a simplificar su operación diaria de regalos con l
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### LogoGalleria : AI Logo Maker with Precision Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logogalleria-ai-logo-maker-with-precision-free-online.webp" alt="LogoGalleria : AI Logo Maker with Precision Free Online">
-
-#### LogoGalleria: creador de logotipos de IA con precisión gratis en línea 
-
-
-[Visit](https://thataicollection.com/redirect/logogalleria-ai-logo-maker-with-precision-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-- Logotipos generados por la IA: deja que nuestra IA despierte tu imaginación con diseños de logotipos únicos.
-- Control perfeccionado: personaliza tu logotipo a la perfección. Borra los elementos no deseados sin esfuerzo.
-- Eliminación de fondo: un clic para limpiar los PNG sin ningún tipo de fondo.
-- Exportación SVG: exporta tus diseños como SVG para mayor versatilidad.
-- Cuotas gratuitas diarias: disfruta de un uso gratuito todos los días para mantener tu creatividad fluyendo.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/logogalleria-ai-logo-maker-with-precision-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -722,6 +710,22 @@ APOB AI ofrece servicios de generación de imágenes, vídeos y retratos con IA.
 <br />
 
 
+### AI Image Generator by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wedspeech-ai.webp" alt="AI Image Generator by Leap AI">
+
+#### Crea imágenes hermosas sin esfuerzo con la herramienta de generación de imágenes con IA de Leap AI
+
+
+[Visit](https://thataicollection.com/redirect/ai-image-generator-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La herramienta generadora de imágenes con IA de Leap AI te ayuda a crear imágenes impresionantes a partir de instrucciones de texto para proyectos personales, de marketing y de creación de contenido. Simplemente introduce un mensaje de texto detallado, haz clic en «Generar» y descarga tu imagen de alta calidad. Perfecta para equipos de marketing, creadores de contenido y proyectos personales, esta herramienta garantiza que dispones de las mejores imágenes para mejorar tu trabajo.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/ai-image-generator-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### caspa AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-caspa-ai_.webp" alt="caspa AI">
 
@@ -734,22 +738,6 @@ Aproveche el potencial de la creación y edición de imágenes con tecnología d
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/caspa-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### ICONS8
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-icons8.webp" alt="ICONS8">
-
-#### Iconos, ilustraciones, fotos, música y herramientas de diseño
-
-
-[Visit](https://thataicollection.com/redirect/icons8?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ICONS8 PERMITE A LOS DISEÑADORES EXPRESAR SUS IDEAS Y PROPORCIONARLES LOS ELEMENTOS DE DISEÑO CORRECTOS EN EL MOMENTO ADECUADO. Funciones de IA: generador de rostros, cambia las caras de las fotos de archivo, escalador inteligente, actualiza tu sitio web directamente desde Lunacy y más
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/icons8?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1647,6 +1635,22 @@ Un creador de cursos de IA que facilita la creación de un curso con IA en cuest
 <br />
 
 
+### AI Content Detector by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
+
+#### Usa nuestro detector de contenido de IA gratuito para analizar el texto y comprobar si lo ha generado la IA o no. Herramienta AI Checker, 100% gratis para siempre.
+
+
+[Visit](https://thataicollection.com/redirect/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+El detector de contenido con IA de Leap AI es tu herramienta de referencia para detectar sin esfuerzo el contenido generado por la IA. Identificar manualmente el texto generado por la IA puede resultar tedioso y llevar mucho tiempo, pero nuestra herramienta agiliza esta tarea. Utilizando los últimos modelos de LLM, analiza e identifica con precisión el contenido generado por la IA con facilidad. Lo mejor de todo es que es gratis y accesible para todos, para siempre.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### QUIZGECKO
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quizgecko.webp" alt="QUIZGECKO">
 
@@ -1723,22 +1727,6 @@ TutoeAI Learn Anything es un motor de búsqueda de módulos de aprendizaje de cu
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/tutorai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Teacherbot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-teacherbot.webp" alt="Teacherbot">
-
-#### Teacherbot: la herramienta que todo profesor se merece
-
-
-[Visit](https://thataicollection.com/redirect/teacherbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Hemos desarrollado la herramienta más poderosa a la que puede acceder un profesor. Puedes crear tareas y actividades para todos los niveles, así como planes temáticos, planes de futuro, planes de clases y mucho más. Solo estás limitado por tu imaginación.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/teacherbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3902,6 +3890,22 @@ Afforai es un chatbot de IA que busca, resume y traduce información de varias f
 <br />
 
 
+### Lead Research Tool by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lead-research-tool-by-leap-ai.webp" alt="Lead Research Tool by Leap AI">
+
+#### Introduce un correo electrónico para saber todo lo que puedas sobre esa persona.
+
+
+[Visit](https://thataicollection.com/redirect/lead-research-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Recopila información detallada de cualquier dirección de correo electrónico para generar clientes potenciales, comprobar los antecedentes e investigar el mercado sin esfuerzo con nuestra herramienta de investigación de clientes potenciales.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/lead-research-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Sourcely
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sourcely.webp" alt="Sourcely">
 
@@ -3963,23 +3967,6 @@ Cargue un documento, resalte el texto confuso, obtenga una explicación. Hacemos
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/explainpaper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Jenni
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jenni.webp" alt="Jenni">
-
-#### Jenni: ¡La IA para escribir ensayos, trabajos de investigación y más!
-
-
-
-[Visit](https://thataicollection.com/redirect/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Jenni es tu asistente de IA para todo lo relacionado con tu trayectoria académica. ¡Nos especializamos en el desarrollo de la IA que te ayude a escribir ensayos, trabajos de investigación y mucho más!
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/jenni?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4606,6 +4593,22 @@ Perfecto para X (Twitter). Añade una palabra clave para dar forma a tu biograf�
 ---
 
 ## Discurso
+### Free AI Text to Speech by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-text-to-speech-by-leap-ai.webp" alt="Free AI Text to Speech by Leap AI">
+
+#### La herramienta de conversión de texto a voz con IA convierte el texto escrito en voz con un sonido natural de forma rápida y precisa, lo que mejora la interacción y la accesibilidad de cualquier texto.
+
+
+[Visit](https://thataicollection.com/redirect/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La herramienta de conversión de texto a voz con IA ayuda a dar vida al texto al convertir de forma rápida y precisa el texto escrito en voz con un sonido natural. Es ideal para los creadores de contenido, los educadores, las empresas y cualquier persona que quiera que su texto sea más atractivo y accesible.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Adobe Speech Enhancer
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-adobe-speech-enhancer.webp" alt="Adobe Speech Enhancer">
 
@@ -4704,22 +4707,6 @@ Palteca ofrece una experiencia inmersiva en la enseñanza del español. Todo el 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/palteca?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Free AI Text to Speech by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-text-to-speech-by-leap-ai.webp" alt="Free AI Text to Speech by Leap AI">
-
-#### null
-
-
-[Visit](https://thataicollection.com/redirect/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-null
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5535,6 +5522,38 @@ No vuelvas a enfrentarte al bloqueo del escritor: desde blogs hasta correos elec
 <br />
 
 
+### AI Paraphrasing Tool by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-paraphrasing-tool-by-leap-ai.webp" alt="AI Paraphrasing Tool by Leap AI">
+
+#### Reformula cualquier texto en segundos con esta herramienta gratuita de paráfrasis de IA. Reescribe, edita y cambia el tono de las frases con facilidad.
+
+
+[Visit](https://thataicollection.com/redirect/ai-paraphrasing-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La herramienta de paráfrasis con IA de Leap AI es tu solución ideal para reformular el texto sin esfuerzo. Reformular manualmente puede resultar difícil y llevar mucho tiempo, pero nuestra herramienta simplifica este proceso. Aprovecha los modelos avanzados de IA, reformula el texto con precisión y, al mismo tiempo, mantiene el contexto original. Esta herramienta gratuita garantiza la precisión y está disponible sin coste alguno, para siempre, por lo que es accesible para todo el mundo.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/ai-paraphrasing-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Text Summarizer by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-text-summarizer-by-leap-ai.webp" alt="AI Text Summarizer by Leap AI">
+
+#### El resumen de Leap AI es un generador de resúmenes gratuito que puede ayudar a resumir cualquier texto, artículo o documento en segundos.
+
+
+[Visit](https://thataicollection.com/redirect/ai-text-summarizer-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI Text Summarizer de Leap AI es una herramienta gratuita que genera rápidamente resúmenes concisos de cualquier texto, artículo o documento. Utilízala hasta 5 veces al día sin una cuenta o regístrate para desbloquear más herramientas adicionales y de uso gratuito. Este sumario es perfecto para profesionales ocupados, estudiantes y cualquier persona que necesite procesar grandes cantidades de información de forma eficiente.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/ai-text-summarizer-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### ChatArt
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatart.webp" alt="ChatArt">
 
@@ -5547,41 +5566,6 @@ ChatArt es una plataforma integral de creación de IA que aprovecha la potencia 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/chatart?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Moonbeam
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-moonbeam.webp" alt="Moonbeam">
-
-#### Moonbeam: no vuelvas a escribir desde cero.
-
-
-[Visit](https://thataicollection.com/redirect/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pon en marcha tu próximo gran blog con Moonbeam: tu asistente de IA de escritura larga. Escribir contenido brillante en formato largo no tiene por qué parecer una tarea ardua. Moonbeam es el único asistente de redacción de IA formado específicamente para ayudarte a escribir ensayos, historias, artículos, blogs y otros contenidos de formato largo.
-
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/moonbeam?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Paragraph AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-paragraph-ai.webp" alt="Paragraph AI">
-
-#### La mejor aplicación gratuita de asistente de escritura de IA: ParagrapHai
-
-
-
-[Visit](https://thataicollection.com/redirect/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Mejora tus habilidades de escritura con el mejor software de asistente de escritura. Esta herramienta de IA gratuita mejora la gramática, la ortografía y el estilo. ¡Pruébalo ahora!
-
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/paragraph-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
