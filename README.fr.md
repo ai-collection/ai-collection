@@ -72,12 +72,12 @@ Sélectionnez et téléchargez vos favoris à partir de vos résultats : ils so
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>La seule génération de code basée sur l'IA prête pour la production</h4>
-    <p>Jovu : la seule plateforme d'IA qui transforme les idées en code prêt à être produit en 4 minutes. Automatisez le développement de tes applications dorsales, en garantissant la cohérence, la prévisibilité et le respect des normes les plus strictes grâce à un code conçu pour évoluer.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Démarrer avec Jovu by Amplication</b></a>
+    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
+    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
     <br />
 </div>
 
@@ -135,15 +135,32 @@ Sélectionnez et téléchargez vos favoris à partir de vos résultats : ils so
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Viggle AI Free Online: Transform Text into Dynamic 3D Animations
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-viggle-ai-free-online-transform-text-into-dynamic-3d-animations.webp" alt="Viggle AI Free Online: Transform Text into Dynamic 3D Animations">
+### Free Luma AI Video Generateor By Dream Machine AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-luma-ai-video-generateor-by-dream-machine-ai.webp" alt="Free Luma AI Video Generateor By Dream Machine AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/viggle-ai-free-online-transform-text-into-dynamic-3d-animations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/free-luma-ai-video-generateor-by-dream-machine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/free-luma-ai-video-generateor-by-dream-machine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Viggle AI Free Online: Transform Text into Dynamic 3D Animations
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-viggle-ai-free-online-transform-text-into-dynamic-3d-animations.webp" alt="Viggle AI Free Online: Transform Text into Dynamic 3D Animations">
+
+#### Viggle AI Free Online : transformez du texte en animations 3D dynamiques
+
+
+[Visit](https://thataicollection.com/redirect/viggle-ai-free-online-transform-text-into-dynamic-3d-animations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+🌟 Transforme facilement du texte et des images en animations 3D dynamiques. Profitez d'un réalisme basé sur la physique et de superbes animations de personnages grâce à notre plateforme intuitive et gratuite. Libère ton potentiel créatif dès aujourd'hui !
+🔗 Va sur viggleai.cc dès maintenant ! 🌐
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/viggle-ai-free-online-transform-text-into-dynamic-3d-animations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,28 +250,6 @@ AI Text Summarizer de Leap AI est un outil gratuit qui génère rapidement des r
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/ai-text-summarizer-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Bytecap
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bytecap.webp" alt="Bytecap">
-
-#### Stimulez l'engagement vidéo avec Bytecap, des sous-titres personnalisés basés sur l'IA
-
-
-[Visit](https://thataicollection.com/redirect/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Bytecap est ton outil idéal pour créer des sous-titres vidéo personnalisés qui stimulent l'engagement et maximisent le nombre de spectateurs. 
-
-Bytecap génère des sous-titres précis à 99 % en quelques secondes, dans plus de 99 langues. 
-
-Personnalise les légendes avec une variété de polices, de couleurs, d'emojis, d'effets et plus encore pour que tes vidéos se démarquent.
-
- Parfait pour les monteurs vidéo, les créateurs de contenu, les podcasteurs et les streamers, Bytecap 
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3223,6 +3218,30 @@ Amadeus Topline est une application de composition basée sur l''IA pour tous le
 ---
 
 ## NSFW - Copines nudifiées et IA
+### HeraHaven AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-herahaven-ai.webp" alt="HeraHaven AI">
+
+#### Réalise tes fantasmes les plus sombres (ceux que tu ne peux partager avec personne)
+
+
+[Visit](https://thataicollection.com/redirect/herahaven-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Si tu as déjà essayé d'innombrables sites pour adultes et que tu penses que tu ne pourras jamais réaliser tes fantasmes, détrompez-vous.
+
+HeraHaven est l'application IA pour petite amie où la seule limite est ton imagination.
+
+C'est ton imagination créée (enfin, des pixels).
+
+Contrairement à la plupart des sites qui ne proposent qu'une poignée d'options génériques, HeraHaven propose une incroyable variété.
+
+En gros, c'est le paradis des copines IA.
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/herahaven-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Dreampaint net
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreampaint.net_.webp" alt="Dreampaint net">
 
@@ -3257,46 +3276,6 @@ L'interface est conviviale, ce qui te permet de naviguer facilement et de créer
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### HeraHaven AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-herahaven-ai.webp" alt="HeraHaven AI">
-
-#### Réalise tes fantasmes les plus sombres (ceux que tu ne peux partager avec personne)
-
-
-[Visit](https://thataicollection.com/redirect/herahaven-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Si tu as déjà essayé d'innombrables sites pour adultes et que tu penses que tu ne pourras jamais réaliser tes fantasmes, détrompez-vous.
-
-HeraHaven est l'application IA pour petite amie où la seule limite est ton imagination.
-
-C'est ton imagination créée (enfin, des pixels).
-
-Contrairement à la plupart des sites qui ne proposent qu'une poignée d'options génériques, HeraHaven propose une incroyable variété.
-
-En gros, c'est le paradis des copines IA.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/herahaven-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Nextpart AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nextpart-ai_.webp" alt="Nextpart AI">
-
-#### Chat IA avec des personnages de la NSFW sans filtre : Ta copine IA
-
-
-[Visit](https://thataicollection.com/redirect/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Le chatbot Nextpart.ai améliore ton expérience de chat grâce à des scénarios NSFW sans filtre : escapades romantiques, jeux de rôle, aventures et événements liés à la vie quotidienne.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3348,6 +3327,23 @@ Undress Pro AI - Réalisez vos fantasmes à son sujet instantanément grâce à 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Candy AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-candy-ai.webp" alt="Candy AI">
+
+#### Candy.AI : crée ta petite amie intelligente et commence à discuter
+
+
+
+[Visit](https://thataicollection.com/redirect/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Le compagnon de tes rêves t'attend ! Crée ta petite amie IA, façonne son apparence, sa personnalité et donne-lui vie en un clic. 100 % grâce à l'intelligence artificielle
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

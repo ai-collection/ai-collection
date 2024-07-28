@@ -60,24 +60,30 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Инструмент для перефразирования - лучший бесплатный онлайн-парафразировщик - Wordfixerbot</h4>
-    <p>Инструмент перефразирования WordFixerBot — идеальный инструмент, который поможет вам быстро и точно перефразировать любые тексты, предложения, статьи, абзацы, статьи или документы. Начните прямо сейчас и сделайте свой текст незабываемым!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Начать работу с Wordfixerbot</b></a>
+    <h4>Настраиваемый чат-бот с искусственным интеллектом, работающий круглосуточно и без выходных</h4>
+    <p>Chat Data — это платформа чат-ботов с искусственным интеллектом, предлагающая гибкую настройку бэкенда и интерфейса. Создавайте чат-ботов, используя свою базу знаний, настраиваемые конечные точки или модели Chat Data. Настройте интерфейс чат-бота и выберите белую маркировку. Дополнительные функции включают эскалацию онлайн-чата в стандартных или профессиональных тарифных планах.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Начать работу с Chat Data</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>Единственная готовая к производству генерация кода на основе искусственного интеллекта</h4>
-    <p>Jovu: единственная платформа искусственного интеллекта, превращающая идеи в готовый к производству код за 4 минуты. Автоматизируйте разработку серверных приложений, обеспечивая согласованность, предсказуемость и соответствие самым высоким стандартам с помощью масштабируемого кода.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Начать работу с Jovu by Amplication</b></a>
+    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
+    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -135,15 +141,32 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Viggle AI Free Online: Transform Text into Dynamic 3D Animations
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-viggle-ai-free-online-transform-text-into-dynamic-3d-animations.webp" alt="Viggle AI Free Online: Transform Text into Dynamic 3D Animations">
+### Free Luma AI Video Generateor By Dream Machine AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-luma-ai-video-generateor-by-dream-machine-ai.webp" alt="Free Luma AI Video Generateor By Dream Machine AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/viggle-ai-free-online-transform-text-into-dynamic-3d-animations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/free-luma-ai-video-generateor-by-dream-machine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/free-luma-ai-video-generateor-by-dream-machine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Viggle AI Free Online: Transform Text into Dynamic 3D Animations
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-viggle-ai-free-online-transform-text-into-dynamic-3d-animations.webp" alt="Viggle AI Free Online: Transform Text into Dynamic 3D Animations">
+
+#### Viggle AI Free Online: преобразуйте текст в динамическую 3D-анимацию
+
+
+[Visit](https://thataicollection.com/redirect/viggle-ai-free-online-transform-text-into-dynamic-3d-animations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+🌟 Без труда превращайте текст и изображения в динамическую 3D-анимацию. Наслаждайтесь реализмом, основанным на физике, и потрясающей анимацией персонажей с помощью нашей интуитивно понятной бесплатной платформы. Раскройте свой творческий потенциал уже сегодня!
+🔗 Посетите viggleai.cc прямо сейчас! 🌐
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/viggle-ai-free-online-transform-text-into-dynamic-3d-animations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,28 +256,6 @@ AI Text Summarizer от Leap AI — это бесплатный инструме
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/ai-text-summarizer-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Bytecap
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bytecap.webp" alt="Bytecap">
-
-#### Повысьте вовлеченность видео с помощью Bytecap — настраиваемых подписей с искусственным интеллектом
-
-
-[Visit](https://thataicollection.com/redirect/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Bytecap — это ваш идеальный инструмент для создания собственных субтитров к видео, которые повышают вовлеченность и увеличивают количество зрителей. 
-
-Bytecap генерирует субтитры с точностью 99% за считанные секунды и поддерживает более 99 языков. 
-
-Настройте субтитры с помощью различных шрифтов, цветов, смайликов, эффектов и многого другого, чтобы ваши видео выделялись на фоне других.
-
- Bytecap идеально подходит для видеоредакторов, создателей контента, подкастеров и стримеров 
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3223,6 +3224,30 @@ Amadeus Topline — это приложение для сочинения муз
 ---
 
 ## NSFW - обнаженные подруги и подруги с искусственным интеллектом
+### HeraHaven AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-herahaven-ai.webp" alt="HeraHaven AI">
+
+#### Удовлетворите свои самые мрачные фантазии (те, которыми вы не можете поделиться ни с кем)
+
+
+[Visit](https://thataicollection.com/redirect/herahaven-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Если вы уже перепробовали бесчисленное количество сайтов для взрослых и чувствуете, что никогда не сможете удовлетворить свои фантазии — подумайте еще раз.
+
+HeraHaven — это приложение для подруг с искусственным интеллектом, где единственное ограничение — ваше воображение.
+
+Это воплощение вашей фантазии (ну, в пикселях).
+
+В отличие от большинства сайтов, предлагающих всего несколько стандартных опций, HeraHaven предлагает невероятное разнообразие.
+
+По сути, это рай для подруг с искусственным интеллектом.
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/herahaven-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Dreampaint net
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreampaint.net_.webp" alt="Dreampaint net">
 
@@ -3257,46 +3282,6 @@ DreamPaint.NET использует самые передовые техноло
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/unclothy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### HeraHaven AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-herahaven-ai.webp" alt="HeraHaven AI">
-
-#### Удовлетворите свои самые мрачные фантазии (те, которыми вы не можете поделиться ни с кем)
-
-
-[Visit](https://thataicollection.com/redirect/herahaven-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Если вы уже перепробовали бесчисленное количество сайтов для взрослых и чувствуете, что никогда не сможете удовлетворить свои фантазии — подумайте еще раз.
-
-HeraHaven — это приложение для подруг с искусственным интеллектом, где единственное ограничение — ваше воображение.
-
-Это воплощение вашей фантазии (ну, в пикселях).
-
-В отличие от большинства сайтов, предлагающих всего несколько стандартных опций, HeraHaven предлагает невероятное разнообразие.
-
-По сути, это рай для подруг с искусственным интеллектом.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/herahaven-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Nextpart AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nextpart-ai_.webp" alt="Nextpart AI">
-
-#### Чат с искусственным интеллектом с персонажами NSFW без фильтров - ваша подруга с искусственным интеллектом
-
-
-[Visit](https://thataicollection.com/redirect/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Чат-бот Nextpart.ai расширяет возможности общения в чате благодаря сценариям NSFW без фильтров — романтическим побегам, ролевым играм, стильным приключениям и событиям.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3348,6 +3333,23 @@ Undress Pro AI - Мгновенно реализуйте свои фантази
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Candy AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-candy-ai.webp" alt="Candy AI">
+
+#### Candy.AI: создайте свою подругу с искусственным интеллектом и начните общаться
+
+
+
+[Visit](https://thataicollection.com/redirect/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Спутник вашей мечты ждет вас! Создайте свою подругу с искусственным интеллектом, сформируйте ее внешний вид, индивидуальность и воплотите ее в жизнь в один клик. На 100% работает на основе искусственного интеллекта
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
