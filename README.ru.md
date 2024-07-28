@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1671" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1672" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -60,24 +60,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
-    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
+    <h4>Инструмент для перефразирования - лучший бесплатный онлайн-парафразировщик - Wordfixerbot</h4>
+    <p>Инструмент перефразирования WordFixerBot — идеальный инструмент, который поможет вам быстро и точно перефразировать любые тексты, предложения, статьи, абзацы, статьи или документы. Начните прямо сейчас и сделайте свой текст незабываемым!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Начать работу с Wordfixerbot</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 Мобильное решение для дизайна и продажи стикеров на базе искусственного интеллекта</h4>
-    <p>StickerIt.AI — это ваше лучшее решение для создания и продажи стикеров на базе искусственного интеллекта прямо с вашего мобильного устройства. Превратите любое место в яркую мастерскую по стикерам. Имея всего два планшета и принтер, вы можете начать продавать наклейки, изготовленные на заказ, за считанные минуты. Наша платформа предназначена для ведения бизнеса по производству наклеек с искусственным интеллектом в любое время и в любом месте.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Начать работу с StickerIt.AI</b></a>
+    <h4>Единственная готовая к производству генерация кода на основе искусственного интеллекта</h4>
+    <p>Jovu: единственная платформа искусственного интеллекта, превращающая идеи в готовый к производству код за 4 минуты. Автоматизируйте разработку серверных приложений, обеспечивая согласованность, предсказуемость и соответствие самым высоким стандартам с помощью масштабируемого кода.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Начать работу с Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -135,15 +135,37 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Arting.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-arting-ai.webp" alt="Arting.ai">
+### Viggle AI Free Online: Transform Text into Dynamic 3D Animations
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-viggle-ai-free-online-transform-text-into-dynamic-3d-animations.webp" alt="Viggle AI Free Online: Transform Text into Dynamic 3D Animations">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/arting-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/viggle-ai-free-online-transform-text-into-dynamic-3d-animations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/viggle-ai-free-online-transform-text-into-dynamic-3d-animations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Arting.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-arting-ai.webp" alt="Arting.ai">
+
+#### Инструмент для создания ИИ - генератор изображений AI, голос знаменитостей AI, генератор видео AI
+
+
+[Visit](https://thataicollection.com/redirect/arting-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Удобный инструмент для создания искусственного интеллекта от arting.ai поможет вам раскрыть свой творческий потенциал.
+
+·Быстро начните работу с помощью простого и интуитивно понятного интерфейса.
+· Поддерживает создание визуальных эффектов на основе текстовых описаний, голоса и других форм.
+· Создавайте свои художественные творения всего за несколько секунд.
+· Недорогая, бесплатная и простая в использовании.
+· Неограниченное количество творений без ограничений на количество изображений или видео.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/arting-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,24 +255,6 @@ Bytecap генерирует субтитры с точностью 99% за с�
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Giftpack
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftpack.webp" alt="Giftpack">
-
-#### Предоставление подарков по всему миру стало проще благодаря персонализированным подаркам с использованием искусственного интеллекта.
-
-
-[Visit](https://thataicollection.com/redirect/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Тысячи компаний всех размеров используют Giftpack для налаживания отношений, автоматизации операций, повышения удержания персонала и регулярного дохода!
-
-Мы помогаем нашим клиентам упростить ежедневную процедуру дарения подарков с помощью интегрированной автоматизации Giftpack. От тысяч приложений до CRM/HRIS/ATS — создайте свой опыт, а Giftpack позаботится обо всем остальном.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3257,6 +3261,30 @@ DreamPaint.NET использует самые передовые техноло
 <br />
 
 
+### HeraHaven AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-herahaven-ai.webp" alt="HeraHaven AI">
+
+#### Удовлетворите свои самые мрачные фантазии (те, которыми вы не можете поделиться ни с кем)
+
+
+[Visit](https://thataicollection.com/redirect/herahaven-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Если вы уже перепробовали бесчисленное количество сайтов для взрослых и чувствуете, что никогда не сможете удовлетворить свои фантазии — подумайте еще раз.
+
+HeraHaven — это приложение для подруг с искусственным интеллектом, где единственное ограничение — ваше воображение.
+
+Это воплощение вашей фантазии (ну, в пикселях).
+
+В отличие от большинства сайтов, предлагающих всего несколько стандартных опций, HeraHaven предлагает невероятное разнообразие.
+
+По сути, это рай для подруг с искусственным интеллектом.
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/herahaven-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Nextpart AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nextpart-ai_.webp" alt="Nextpart AI">
 
@@ -3320,23 +3348,6 @@ Undress Pro AI - Мгновенно реализуйте свои фантази
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Candy AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-candy-ai.webp" alt="Candy AI">
-
-#### Candy.AI: создайте свою подругу с искусственным интеллектом и начните общаться
-
-
-
-[Visit](https://thataicollection.com/redirect/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Спутник вашей мечты ждет вас! Создайте свою подругу с искусственным интеллектом, сформируйте ее внешний вид, индивидуальность и воплотите ее в жизнь в один клик. На 100% работает на основе искусственного интеллекта
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

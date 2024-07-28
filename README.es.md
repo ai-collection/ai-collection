@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1671" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1672" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -60,12 +60,12 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>La única generación de código basada en IA lista para producción</h4>
-    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
+    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
+    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -135,15 +135,37 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Arting.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-arting-ai.webp" alt="Arting.ai">
+### Viggle AI Free Online: Transform Text into Dynamic 3D Animations
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-viggle-ai-free-online-transform-text-into-dynamic-3d-animations.webp" alt="Viggle AI Free Online: Transform Text into Dynamic 3D Animations">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/arting-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/viggle-ai-free-online-transform-text-into-dynamic-3d-animations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/viggle-ai-free-online-transform-text-into-dynamic-3d-animations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Arting.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-arting-ai.webp" alt="Arting.ai">
+
+#### Herramienta de creación de IA: generador de imágenes de IA, voz de celebridades con IA, generador de vídeos con IA
+
+
+[Visit](https://thataicollection.com/redirect/arting-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La herramienta de creación de IA fácil de usar de arting.ai que te ayuda a impulsar tu creatividad.
+
+·Empieza rápidamente con una interfaz sencilla e intuitiva.
+·Admite la generación de efectos visuales a partir de descripciones de texto, voz y otras formas.
+·Consigue tus creaciones artísticas en solo unos segundos.
+·Bajo coste, gratis y fácil de usar.
+·Creaciones ilimitadas sin restricciones en cuanto al número de imágenes o vídeos.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/arting-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,24 +255,6 @@ Personaliza los subtítulos con una variedad de fuentes, colores, emojis, efecto
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/bytecap?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Giftpack
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftpack.webp" alt="Giftpack">
-
-#### Los regalos globales son más fáciles con los obsequios personalizados mediante la IA.
-
-
-[Visit](https://thataicollection.com/redirect/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Miles de empresas de todos los tamaños utilizan los paquetes de regalo para fomentar las relaciones, automatizar las operaciones, aumentar la retención y los ingresos recurrentes.
-
-Ayudamos a nuestros clientes a simplificar su operación diaria de regalos con la automatización integrada de Giftpack. Desde miles de aplicaciones hasta tu CRM/HRIS/ATS, diseña tu experiencia y deja que Giftpack se encargue del resto.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/giftpack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3256,6 +3260,30 @@ La interfaz es fácil de usar, lo que facilita la navegación y la creación de 
 <br />
 
 
+### HeraHaven AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-herahaven-ai.webp" alt="HeraHaven AI">
+
+#### Satisface tus fantasías más oscuras (las que no puedes compartir con nadie)
+
+
+[Visit](https://thataicollection.com/redirect/herahaven-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Si ya has probado innumerables sitios web para adultos y sientes que nunca podrás satisfacer tus fantasías, piénsalo de nuevo.
+
+HeraHaven es la aplicación de novia de IA en la que el único límite es tu imaginación.
+
+Es tu fantasía hecha carne (bueno, píxeles).
+
+A diferencia de la mayoría de los sitios que ofrecen solo un puñado de opciones genéricas, HeraHaven tiene una variedad increíble.
+
+Básicamente es un paraíso para las novias de la IA.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/herahaven-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Nextpart AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nextpart-ai_.webp" alt="Nextpart AI">
 
@@ -3319,23 +3347,6 @@ Undress Pro AI: Haz realidad tu fantasía sobre ella al instante con un intercam
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Candy AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-candy-ai.webp" alt="Candy AI">
-
-#### Candy.AI: Crea tu novia de IA y empieza a chatear
-
-
-
-[Visit](https://thataicollection.com/redirect/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¡La compañera de tus sueños te espera! Crea tu novia de IA, dale forma a su aspecto, personalidad y dale vida con un solo clic. Impulsado al 100% por inteligencia artificial
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
