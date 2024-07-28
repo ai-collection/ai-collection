@@ -60,30 +60,26 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>全天候自定义 AI 聊天机器人加上实时聊天升级</h4>
-    <p>Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
+    <h4>唯一一款支持量产的 AI 驱动的代码生成</h4>
+    <p>Jovu：唯一一个在 4 分钟内将想法转化为生产就绪代码的人工智能平台。使用可扩展的代码实现后端应用程序开发自动化，确保一致性、可预测性并遵守最高标准。</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>开始使用 Jovu by Amplication</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
-    <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
+    <h4>借助我们的求职AI找到理想的工作。每周自动申请数百个工程职位！加入 ApplyPass 获得 100 个免费应用程序。</h4>
+    <p>ApplyPass是一款由人工智能驱动的求职工具，可以让你获得更多的求职面试。ApplyPass每月代表你提交200-400份量身定制的求职申请。该工具免费提供前100份求职申请。
+
+ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行业平均水平高40％。</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>开始使用 ApplyPass</b></a>
     <br />
 </div>
 
@@ -141,15 +137,31 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### AI Face Swap App
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-face-swap-app.webp" alt="AI Face Swap App">
+### AI Character Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-character-generator.webp" alt="AI Character Generator">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ai-face-swap-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-character-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-character-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Face Swap App
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-face-swap-app.webp" alt="AI Face Swap App">
+
+#### 使用我们免费的人工智能工具，轻松交换照片和视频中的面孔。立即开始免费使用！
+
+
+[Visit](https://thataicollection.com/redirect/ai-face-swap-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+正在寻找最好的面部交换应用程序，可以轻松地在照片和视频中交换面孔？别再看了！我们的 AI Face Swap 应用程序是您只需点击几下即可转换图像和视频所需的终极工具。我们的应用程序由尖端的人工智能技术提供支持，提供无缝和免费的面部交换体验，让您大吃一惊。 
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-face-swap-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -240,22 +252,6 @@ Leap AI 的 AI 图像生成器工具可帮助您根据文本提示创建精美�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-image-generator-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Lead Research Tool by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lead-research-tool-by-leap-ai.webp" alt="Lead Research Tool by Leap AI">
-
-#### 输入一封电子邮件，了解有关该人的所有信息。
-
-
-[Visit](https://thataicollection.com/redirect/lead-research-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用我们的潜在客户研究工具，可以毫不费力地收集任何电子邮件地址的详细信息，以进行潜在客户开发、背景调查和市场研究。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/lead-research-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

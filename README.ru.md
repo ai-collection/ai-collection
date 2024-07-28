@@ -60,12 +60,18 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Единственная готовая к производству генерация кода на основе искусственного интеллекта</h4>
-    <p>Jovu: единственная платформа искусственного интеллекта, превращающая идеи в готовый к производству код за 4 минуты. Автоматизируйте разработку серверных приложений, обеспечивая согласованность, предсказуемость и соответствие самым высоким стандартам с помощью масштабируемого кода.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Начать работу с Jovu by Amplication</b></a>
+    <h4>Настраиваемый чат-бот с искусственным интеллектом, работающий круглосуточно и без выходных</h4>
+    <p>Chat Data — это платформа чат-ботов с искусственным интеллектом, предлагающая гибкую настройку бэкенда и интерфейса. Создавайте чат-ботов, используя свою базу знаний, настраиваемые конечные точки или модели Chat Data. Настройте интерфейс чат-бота и выберите белую маркировку. Дополнительные функции включают эскалацию онлайн-чата в стандартных или профессиональных тарифных планах.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Начать работу с Chat Data</b></a>
     <br />
 </div>
 
@@ -135,15 +141,31 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### AI Face Swap App
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-face-swap-app.webp" alt="AI Face Swap App">
+### AI Character Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-character-generator.webp" alt="AI Character Generator">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ai-face-swap-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-character-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/ai-character-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Face Swap App
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-face-swap-app.webp" alt="AI Face Swap App">
+
+#### С легкостью меняйте лица на фотографиях и видео с помощью нашего бесплатного инструмента на базе искусственного интеллекта. Начните использовать его прямо сейчас бесплатно!
+
+
+[Visit](https://thataicollection.com/redirect/ai-face-swap-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Ищете лучшее приложение для замены лиц, позволяющее легко менять лица на фотографиях и видео? Не смотрите дальше! Наше приложение AI Face Swap — это идеальный инструмент, необходимый для преобразования изображений и видео всего за несколько кликов. Наше приложение, основанное на передовой технологии искусственного интеллекта, предлагает удобную и бесплатную замену лиц, которая вас удивит. 
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/ai-face-swap-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -234,22 +256,6 @@ null
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/ai-image-generator-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Lead Research Tool by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lead-research-tool-by-leap-ai.webp" alt="Lead Research Tool by Leap AI">
-
-#### Введите адрес электронной почты, чтобы узнать все, что вы можете об этом человеке.
-
-
-[Visit](https://thataicollection.com/redirect/lead-research-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Собирайте подробную информацию на любом адресе электронной почты для привлечения потенциальных клиентов, проверки биографических данных и маркетинговых исследований без особых усилий с помощью нашего инструмента Lead Research.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/lead-research-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
