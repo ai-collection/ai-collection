@@ -70,24 +70,26 @@ Select and download your favorites from your results—they''re indistinguishabl
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>Craft the perfect resume, with a little help from AI</h4>
-    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
     <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
     <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
     <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    </a>
+    <h4>Land your ideal job with our job application AI. Automatically apply to hundreds of engineering jobs every week! Join ApplyPass to get 100 free applications.</h4>
+    <p>ApplyPass is an AI-powered job search tool that gets you more job interviews. ApplyPass submits 200-400 tailored job applications on your behalf every month. This tool offers the first 100 job applications for free.
+
+ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that''s 40% higher than the industry average.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Get Started with ApplyPass</b></a>
     <br />
 </div>
 
@@ -145,6 +147,22 @@ Select and download your favorites from your results—they''re indistinguishabl
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### AI Face Swap App
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-face-swap-app.webp" alt="AI Face Swap App">
+
+#### Easily swap faces in photos and videos with our free AI-powered tool. Start using it now at no cost!
+
+
+[Visit](https://thataicollection.com/redirect/ai-face-swap-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Looking for the best face swap app to effortlessly swap faces in photos and videos? Look no further! Our AI Face Swap App is the ultimate tool you need to transform your images and videos with just a few clicks. Powered by cutting-edge artificial intelligence technology, our app offers a seamless and free face swapping experience that will leave you amazed. 
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/ai-face-swap-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Free Luma AI Video Generateor By Dream Machine AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-luma-ai-video-generateor-by-dream-machine-ai.webp" alt="Free Luma AI Video Generateor By Dream Machine AI">
 
@@ -244,22 +262,6 @@ Gather detailed information on any email address for lead generation, background
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/lead-research-tool-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Text Summarizer by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-text-summarizer-by-leap-ai.webp" alt="AI Text Summarizer by Leap AI">
-
-#### The Leap AI Summarizer is a free summary generator that can help summarize any text, article, or document in seconds.
-
-
-[Visit](https://thataicollection.com/redirect/ai-text-summarizer-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI Text Summarizer by Leap AI is a free tool that quickly generates concise summaries of any text, article, or document. Use it up to 5 times per day without an account, or register to unlock more free usage and additional tools. This summarizer is perfect for busy professionals, students, and anyone needing to efficiently process large amounts of information.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/ai-text-summarizer-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
