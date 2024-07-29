@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1672" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1677" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -60,12 +60,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>एकमात्र प्रॉडक्शन-तैयार AI-संचालित कोड जनरेशन</h4>
-    <p>जोवू: एकमात्र AI प्लेटफ़ॉर्म, जो 4 मिनट में आइडिया को प्रोडक्शन-रेडी कोड में बदल देता है। अपने बैकएंड अनुप्रयोगों के डेवलपमेंट को स्वचालित करें, ताकि बड़े पैमाने पर बनाए गए कोड के साथ निरंतरता, पूर्वानुमान और उच्चतम मानकों का पालन किया जा सके।</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>के साथ आरंभ करें Jovu by Amplication</b></a>
+    <h4>AI की थोड़ी मदद से, एकदम सही रिज़्यूमे तैयार करें</h4>
+    <p>तुम्हेंं जल्दी और आसानी से ऐसा रिज्यूम बनाने के लिए, जो तुम्हारे काम के अनुभव को सटीक रूप से दर्शाता हो, एक पेशेवर रेज़्यूमे लेखक होने की ज़रूरत नहीं है। हंटर का कस्टमाइज़ किया जा सकने वाला AI रिज्यूमे बिल्डर तुम्हेंं और इंटरव्यू देने में मदद करने के लिए एक अच्छी तरह से लिखा हुआ, एटीएस-अनुकूल रिज्यूमे तैयार करने में मदद करेगा।</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>के साथ आरंभ करें Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -137,15 +137,31 @@ ApplyPass.com ने इंजीनियरों के लिए हज़�
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### AI Character Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-character-generator.webp" alt="AI Character Generator">
+### Maze Guru
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-maze-guru.webp" alt="Maze Guru">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ai-character-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/maze-guru?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/maze-guru?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Character Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-character-generator.webp" alt="AI Character Generator">
+
+#### हमारे AI-संचालित जनरेटर की मदद से अपने किरदारों को जीवंत करें! उनके व्यक्तित्व, रूप और कौशल के बारे में बताइए और हमारा एडवांस सिस्टम तुम्हारे अनोखे चरित्र को दर्शाने वाली कस्टम इमेज तैयार करेगा।
+
+
+[Visit](https://thataicollection.com/redirect/ai-character-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+अपने किरदार को जीवंत करने के लिए सबसे अच्छे फ़ेस फ़्री कैरेक्टर जनरेटर की तलाश है? हमारे AI कैरेक्टर जेनरेटर से ज़्यादा कुछ नहीं देखो! हमारा एडवांस सिस्टम तुम्हारे अनोखे चरित्र की कस्टम इमेज बनाने के लिए, उनके व्यक्तित्व, रूप और कौशल को सटीकता और रचनात्मकता के साथ कैप्चर करने के लिए AI तकनीक का उपयोग करता है।
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/ai-character-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -236,22 +252,6 @@ null
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Image Generator by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wedspeech-ai.webp" alt="AI Image Generator by Leap AI">
-
-#### लीप एआई के AI इमेज जेनरेटर टूल के साथ आसानी से सुंदर चित्र बनाएं
-
-
-[Visit](https://thataicollection.com/redirect/ai-image-generator-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-लीप एआई का AI इमेज जेनरेटर टूल तुम्हेंं मार्केटिंग, कॉन्टेंट बनाने और निजी प्रोजेक्ट के लिए टेक्स्ट प्रॉम्प्ट से शानदार इमेज बनाने में मदद करता है। बस विस्तृत टेक्स्ट प्रॉम्प्ट इनपुट करें, 'जेनरेट करें' पर क्लिक करें और अपना हाई-क्वालिटी विज़ुअल डाउनलोड करें। मार्केटिंग टीमों, कॉन्टेंट क्रिएटर्स और निजी प्रोजेक्ट के लिए बहुत बढ़िया, यह टूल पक्का करता है कि तुम्हारे पास अपने काम को बेहतर बनाने के लिए सबसे अच्छे विज़ुअल्स हों।
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/ai-image-generator-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3282,6 +3282,22 @@ DreamPaint.net छवियों को अनड्रेस करने क�
 <br />
 
 
+### Nextpart AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nextpart-ai_.webp" alt="Nextpart AI">
+
+#### नो फ़िल्टर एनएसएफ़डब्ल्यू कैरेक्टर एआई चैट - तुम्हारी एआई गर्लफ्रेंड
+
+
+[Visit](https://thataicollection.com/redirect/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nextpart.ai चैटबॉट नो फ़िल्टर NSFW सिनेरियो — रोमांटिक एस्केप, रोलप्ले, लाइफ़स्टाइल एडवेंचर्स और इवेंट्स के साथ तुम्हारे चैटिंग अनुभव को बेहतर बनाता है।
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### undressing io
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-martin.webp" alt="undressing io">
 
@@ -3329,23 +3345,6 @@ Undressbaby AI में, हम ग्रेज़ सीक्रेट रूम
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Candy AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-candy-ai.webp" alt="Candy AI">
-
-#### Candy.AI: अपनी AI गर्लफ्रेंड बनाएं और चैट करना शुरू करें
-
-
-
-[Visit](https://thataicollection.com/redirect/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-तुम्हारा सपनों का साथी इंतज़ार कर रहा है! अपनी AI गर्लफ्रेंड बनाएं, उसके लुक, व्यक्तित्व को आकार दें और उसे एक क्लिक में जीवंत बनाएं। 100% आर्टिफिशियल इंटेलिजेंस द्वारा संचालित
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/candy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
