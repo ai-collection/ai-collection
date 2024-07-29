@@ -60,26 +60,30 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Найдите идеальную работу с помощью нашего искусственного интеллекта для подачи заявлений о приеме на работу. Каждую неделю автоматически подавайте заявки на сотни инженерных вакансий! Присоединяйтесь к ApplyPass, чтобы получить 100 бесплатных заявок.</h4>
-    <p>ApplyPass — это инструмент для поиска работы на базе искусственного интеллекта, который позволяет проводить больше собеседований. ApplyPass ежемесячно подает 200-400 индивидуальных заявлений о приеме на работу от вашего имени. Этот инструмент предлагает первые 100 заявок на работу бесплатно.
+    <h4>Настраиваемый чат-бот с искусственным интеллектом, работающий круглосуточно и без выходных</h4>
+    <p>Chat Data — это платформа чат-ботов с искусственным интеллектом, предлагающая гибкую настройку бэкенда и интерфейса. Создавайте чат-ботов, используя свою базу знаний, настраиваемые конечные точки или модели Chat Data. Настройте интерфейс чат-бота и выберите белую маркировку. Дополнительные функции включают эскалацию онлайн-чата в стандартных или профессиональных тарифных планах.
 
-ApplyPass.com провел тысячи интервью для инженеров, средний процент ответов на которые на 40% выше, чем в среднем по отрасли.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Начать работу с ApplyPass</b></a>
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Начать работу с Chat Data</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
-    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
+    <h4>Единственная готовая к производству генерация кода на основе искусственного интеллекта</h4>
+    <p>Jovu: единственная платформа искусственного интеллекта, превращающая идеи в готовый к производству код за 4 минуты. Автоматизируйте разработку серверных приложений, обеспечивая согласованность, предсказуемость и соответствие самым высоким стандартам с помощью масштабируемого кода.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Начать работу с Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -137,15 +141,37 @@ ApplyPass.com провел тысячи интервью для инженеро
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Convert Text to PNG with Transparent Backgrounds
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-convert-text-to-png-with-transparent-backgrounds.webp" alt="Convert Text to PNG with Transparent Backgrounds">
+### Lede
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lede.webp" alt="Lede">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/convert-text-to-png-with-transparent-backgrounds?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/lede?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/lede?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Convert Text to PNG with Transparent Backgrounds
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-convert-text-to-png-with-transparent-backgrounds.webp" alt="Convert Text to PNG with Transparent Backgrounds">
+
+#### Конвертируйте текст в PNG с прозрачным фоном
+
+
+[Visit](https://thataicollection.com/redirect/convert-text-to-png-with-transparent-backgrounds?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+🔍 Прозрачные фоны
+Создавайте универсальные PNG-изображения с прозрачным фоном, идеально подходящие для веб-дизайна, маркетинговых материалов и цифрового контента. 
+🌟 Бесплатный онлайн-доступ в любое время и в любом месте
+Получите бесплатный доступ к PNG Maker онлайн и создавайте изображения PNG с высоким разрешением в любое время.
+⚡ Быстрая генерация менее чем за минуту
+Создавайте персонализированные изображения PNG менее чем за минуту.
+
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/convert-text-to-png-with-transparent-backgrounds?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -230,22 +256,6 @@ Maze Guru — это инструмент разговорного искусс�
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/maze-guru?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Character Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-character-generator.webp" alt="AI Character Generator">
-
-#### Оживите своих персонажей с помощью нашего генератора на базе искусственного интеллекта! Опишите их индивидуальность, внешний вид и навыки, а наша продвинутая система создаст собственные изображения, изображающие вашего уникального персонажа.
-
-
-[Visit](https://thataicollection.com/redirect/ai-character-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ищете лучший генератор персонажей без лица, чтобы оживить своих персонажей? Не ищите ничего, кроме нашего генератора персонажей с искусственным интеллектом! Наша передовая система использует технологию искусственного интеллекта для создания собственных изображений вашего уникального персонажа, точно и творчески передавая его индивидуальность, внешний вид и навыки.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/ai-character-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

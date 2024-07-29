@@ -70,30 +70,24 @@ Select and download your favorites from your results—they''re indistinguishabl
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Craft the perfect resume, with a little help from AI</h4>
-    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
+    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
+    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
-    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
+    <h4>Craft the perfect resume, with a little help from AI</h4>
+    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -151,6 +145,28 @@ Select and download your favorites from your results—they''re indistinguishabl
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Lede
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lede.webp" alt="Lede">
+
+#### Lede is an AI content generator designed for creating in-depth blog posts. 
+
+
+[Visit](https://thataicollection.com/redirect/lede?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Lede does extensive research before helping you write your blog post.
+
+Lede helps you find content related to what you're writing, aggregates and summarizes the source articles into a research report, and then uses your research to draft accurate, in-depth content.
+
+
+
+
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/lede?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Convert Text to PNG with Transparent Backgrounds
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-convert-text-to-png-with-transparent-backgrounds.webp" alt="Convert Text to PNG with Transparent Backgrounds">
 
@@ -250,22 +266,6 @@ Maze Guru is a conversational AI tool for generating videos and images. By inter
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/maze-guru?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Character Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-character-generator.webp" alt="AI Character Generator">
-
-#### Bring your characters to life with our AI-powered generator! Describe their personality, looks, and skills, and our advanced system will create custom images depicting your unique character.
-
-
-[Visit](https://thataicollection.com/redirect/ai-character-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Looking for the best face free character generator to bring your characters to life? Look no further than our AI Character Generator! Our advanced system utilizes AI technology to create custom images of your unique character, capturing their personality, looks, and skills with precision and creativity.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/ai-character-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

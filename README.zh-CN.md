@@ -60,12 +60,18 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案</h4>
-    <p>StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>开始使用 StickerIt.AI</b></a>
+    <h4>全天候自定义 AI 聊天机器人加上实时聊天升级</h4>
+    <p>Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
     <br />
 </div>
 
@@ -135,15 +141,37 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Convert Text to PNG with Transparent Backgrounds
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-convert-text-to-png-with-transparent-backgrounds.webp" alt="Convert Text to PNG with Transparent Backgrounds">
+### Lede
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lede.webp" alt="Lede">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/convert-text-to-png-with-transparent-backgrounds?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/lede?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/lede?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Convert Text to PNG with Transparent Backgrounds
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-convert-text-to-png-with-transparent-backgrounds.webp" alt="Convert Text to PNG with Transparent Backgrounds">
+
+#### 将文本转换为具有透明背景的 PNG
+
+
+[Visit](https://thataicollection.com/redirect/convert-text-to-png-with-transparent-backgrounds?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+🔍 透明背景
+创建具有透明背景的多功能 PNG 图像，非常适合网页设计、营销材料和数字内容。 
+🌟 随时随地在线免费访问
+免费在线访问PNG制作工具，并在需要时创建高分辨率的PNG图像。
+⚡ 不到一分钟即可快速生成
+在不到一分钟的时间内生成您的自定义 PNG 图像。
+
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/convert-text-to-png-with-transparent-backgrounds?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -228,22 +256,6 @@ Maze Guru 是一款用于生成视频和图像的对话式 AI 工具。通过与
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/maze-guru?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Character Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-character-generator.webp" alt="AI Character Generator">
-
-#### 使用我们的 AI 驱动的生成器让你的角色变为现实！描述他们的个性、长相和技能，我们的高级系统将创建描绘你独特角色的自定义图片。
-
-
-[Visit](https://thataicollection.com/redirect/ai-character-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-正在寻找最好的无脸角色生成器来让你的角色活起来？我们的 AI 角色生成器就是你的不二之选！我们的先进系统利用人工智能技术为您的独特角色创建自定义图像，精确而富有创造力地捕捉他们的个性、外表和技能。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-character-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
