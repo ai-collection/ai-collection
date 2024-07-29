@@ -72,12 +72,12 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
-    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
+    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
+    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -135,15 +135,31 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Fulgent AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fulgent-ai.webp" alt="Fulgent AI">
+### Convert Text to PNG with Transparent Backgrounds
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-convert-text-to-png-with-transparent-backgrounds.webp" alt="Convert Text to PNG with Transparent Backgrounds">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/fulgent-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/convert-text-to-png-with-transparent-backgrounds?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/convert-text-to-png-with-transparent-backgrounds?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Fulgent AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fulgent-ai.webp" alt="Fulgent AI">
+
+#### Inteligencia artificial fulgente | El generador de disparos a la cabeza de IA más avanzado 
+
+
+[Visit](https://thataicollection.com/redirect/fulgent-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La IA de Fulgent utiliza la última tecnología para garantizar que las imágenes generadas se parecen mucho a las fotografías reales, lo que las hace adecuadas para un uso profesional.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/fulgent-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -228,22 +244,6 @@ Maze Guru es una herramienta conversacional de IA para generar vídeos e imágen
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/ai-character-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Face Swap App
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-face-swap-app.webp" alt="AI Face Swap App">
-
-#### Intercambia rostros fácilmente en fotos y vídeos con nuestra herramienta gratuita basada en inteligencia artificial. ¡Empieza a usarlo ahora sin coste alguno!
-
-
-[Visit](https://thataicollection.com/redirect/ai-face-swap-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¿Buscas la mejor aplicación de intercambio de rostros para cambiar rostros sin esfuerzo en fotos y vídeos? ¡No busques más! Nuestra aplicación AI Face Swap es la herramienta definitiva que necesitas para transformar tus imágenes y vídeos con unos pocos clics. Impulsada por una tecnología de inteligencia artificial de última generación, nuestra aplicación ofrece una experiencia de intercambio de rostros gratuita y sin problemas que te dejará asombrado. 
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/ai-face-swap-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -762,6 +762,22 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 <br />
 
 
+### Fulgent AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fulgent-ai.webp" alt="Fulgent AI">
+
+#### Inteligencia artificial fulgente | El generador de disparos a la cabeza de IA más avanzado 
+
+
+[Visit](https://thataicollection.com/redirect/fulgent-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La IA de Fulgent utiliza la última tecnología para garantizar que las imágenes generadas se parecen mucho a las fotografías reales, lo que las hace adecuadas para un uso profesional.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/fulgent-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Photo AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
 
@@ -838,22 +854,6 @@ Explore millones de estilos o cree el suyo propio, genere autorretratos de IA.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/autoportrait?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AIprofilepic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiprofilepic.webp" alt="AIprofilepic">
-
-#### Crea impresionantes imágenes de perfil usando IA - Aiprofilepic.Art
-
-
-[Visit](https://thataicollection.com/redirect/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cree sus avatares perfectos con solo unos pocos clics con nuestra tecnología de inteligencia artificial fácil de usar.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
