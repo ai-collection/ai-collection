@@ -70,12 +70,14 @@ Select and download your favorites from your results—they''re indistinguishabl
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
-    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
+    <h4>Land your ideal job with our job application AI. Automatically apply to hundreds of engineering jobs every week! Join ApplyPass to get 100 free applications.</h4>
+    <p>ApplyPass is an AI-powered job search tool that gets you more job interviews. ApplyPass submits 200-400 tailored job applications on your behalf every month. This tool offers the first 100 job applications for free.
+
+ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that''s 40% higher than the industry average.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Get Started with ApplyPass</b></a>
     <br />
 </div>
 
@@ -145,6 +147,23 @@ Select and download your favorites from your results—they''re indistinguishabl
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### MagicAI - Free AI Image, AI Video, AI Tools, Anime Art
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-magicai-free-ai-image-ai-video-ai-tools-anime-art.webp" alt="MagicAI - Free AI Image, AI Video, AI Tools, Anime Art">
+
+#### MagicAI - Free AI Image, AI Video, AI Tools, Anime Art
+
+
+[Visit](https://thataicollection.com/redirect/magicai-free-ai-image-ai-video-ai-tools-anime-art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+MagicAI is a free-to-use online AI image generator. Use it to create ai art, ai video, posters and more. Easy to create anime art with our AI.
+
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/magicai-free-ai-image-ai-video-ai-tools-anime-art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Lede
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lede.webp" alt="Lede">
 
@@ -249,23 +268,6 @@ TextToVideo.Bot is an AI tool which generates interesting TikTok (Reels, Shorts)
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/ai-videos-(tiktok-etc)?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Maze Guru
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-maze-guru.webp" alt="Maze Guru">
-
-#### Maze Guru - Chat to create, Make best Al Art with
-best models
-
-
-[Visit](https://thataicollection.com/redirect/maze-guru?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Maze Guru is a conversational AI tool for generating videos and images. By interacting with different agents, it can create various types of images and videos, while also providing insights into all aspects of AI art. Additionally, we have integrated Stable Diffusion, Midjourney, and Dalle, offering users a unique creative experience.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/maze-guru?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
