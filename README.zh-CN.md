@@ -60,24 +60,30 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>在 AI 的帮助下制作完美的简历</h4>
-    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
     <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
     <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
     <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    </a>
+    <h4>全天候自定义 AI 聊天机器人加上实时聊天升级</h4>
+    <p>Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
     <br />
 </div>
 
@@ -135,15 +141,32 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Maze Guru
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-maze-guru.webp" alt="Maze Guru">
+### AI Videos (TikTok etc)
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-videos-(tiktok-etc).webp" alt="AI Videos (TikTok etc)">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/maze-guru?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-videos-(tiktok-etc)?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-videos-(tiktok-etc)?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Maze Guru
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-maze-guru.webp" alt="Maze Guru">
+
+#### Maze Guru-聊天创作，用它来创造最好的Al Art
+最好的模特
+
+
+[Visit](https://thataicollection.com/redirect/maze-guru?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Maze Guru 是一款用于生成视频和图像的对话式 AI 工具。通过与不同的代理互动，它可以创建各种类型的图像和视频，同时还可以提供对人工智能艺术各个方面的见解。此外，我们还整合了Stable Diffusion、Midjourney和Dalle，为用户提供了独特的创作体验。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/maze-guru?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -234,22 +257,6 @@ arting.ai 的用户友好型 AI 创作工具可帮助您激发创造力。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/arting-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Free AI Text to Speech by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-text-to-speech-by-leap-ai.webp" alt="Free AI Text to Speech by Leap AI">
-
-#### AI 文本转语音工具可快速准确地将书面文本转换为听起来自然的语音，从而增强任何文本的参与度和可访问性。
-
-
-[Visit](https://thataicollection.com/redirect/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI 文本转语音工具可快速准确地将书面文本转换为听起来自然的语音，从而帮助您的文本生动起来。它非常适合内容创作者、教育工作者、企业以及任何希望使其文本更具吸引力和更易访问性的人。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

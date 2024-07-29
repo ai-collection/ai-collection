@@ -60,18 +60,6 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>AI की थोड़ी मदद से, एकदम सही रिज़्यूमे तैयार करें</h4>
-    <p>तुम्हेंं जल्दी और आसानी से ऐसा रिज्यूम बनाने के लिए, जो तुम्हारे काम के अनुभव को सटीक रूप से दर्शाता हो, एक पेशेवर रेज़्यूमे लेखक होने की ज़रूरत नहीं है। हंटर का कस्टमाइज़ किया जा सकने वाला AI रिज्यूमे बिल्डर तुम्हेंं और इंटरव्यू देने में मदद करने के लिए एक अच्छी तरह से लिखा हुआ, एटीएस-अनुकूल रिज्यूमे तैयार करने में मदद करेगा।</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>के साथ आरंभ करें Huntr AI Resume Builder</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
@@ -80,6 +68,18 @@
 
 ApplyPass.com ने इंजीनियरों के लिए हज़ारों इंटरव्यू तैयार किए हैं, जिनका औसत रिस्पांस रेट इंडस्ट्री के औसत से 40% ज्यादा है।</p>
     <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>के साथ आरंभ करें ApplyPass</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    </a>
+    <h4>StickerIt.AI | #1 मोबाइल, एआई-संचालित स्टिकर डिज़ाइन और सेल्स सॉल्यूशन</h4>
+    <p>StickerIt.AI सीधे अपने मोबाइल डिवाइस से AI-संचालित स्टिकर बनाने और बेचने का तुम्हारा प्रमुख समाधान है। किसी भी स्थान को एक जीवंत स्टिकर वर्कशॉप में ट्रांसफ़ॉर्म करें। सिर्फ़ दो टैबलेट और एक प्रिंटर की मदद से, तुम मिनटों में बनाए गए कस्टम स्टिकर बेचना शुरू कर सकते हो। हमारा प्लेटफ़ॉर्म तुम्हारे AI स्टिकर का कारोबार, कभी भी, कहीं भी चलाने के लिए डिज़ाइन किया गया है।</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>के साथ आरंभ करें StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -137,15 +137,32 @@ ApplyPass.com ने इंजीनियरों के लिए हज़�
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### Maze Guru
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-maze-guru.webp" alt="Maze Guru">
+### AI Videos (TikTok etc)
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-videos-(tiktok-etc).webp" alt="AI Videos (TikTok etc)">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/maze-guru?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-videos-(tiktok-etc)?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/ai-videos-(tiktok-etc)?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Maze Guru
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-maze-guru.webp" alt="Maze Guru">
+
+#### मेज़ गुरु - बनाने के लिए चैट करो, इसके साथ बेहतरीन अल आर्ट बनाओ
+सबसे अच्छे मॉडल
+
+
+[Visit](https://thataicollection.com/redirect/maze-guru?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+मेज़ गुरु वीडियो और इमेज बनाने के लिए एक संवादात्मक AI टूल है। अलग-अलग एजेंटों के साथ बातचीत करके, यह कई तरह की इमेज और वीडियो बना सकता है, साथ ही यह AI आर्ट के सभी पहलुओं की जानकारी भी देता है। इसके अलावा, हमने स्टेबल डिफ़्यूज़न, मिडजर्नी और डेल को एकीकृत किया है, जो यूज़र को एक अनोखा रचनात्मक अनुभव प्रदान करता है।
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/maze-guru?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -236,22 +253,6 @@ null
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/arting-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Free AI Text to Speech by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-text-to-speech-by-leap-ai.webp" alt="Free AI Text to Speech by Leap AI">
-
-#### AI टेक्स्ट टू स्पीच टूल लिखित टेक्स्ट को जल्दी और सटीक रूप से स्वाभाविक लगने वाले भाषण में बदल देता है, जिससे किसी भी टेक्स्ट के लिए सहभागिता और एक्सेसिबिलिटी बढ़ जाती है।
-
-
-[Visit](https://thataicollection.com/redirect/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-एआई टेक्स्ट टू स्पीच टूल लिखित टेक्स्ट को जल्दी और सटीक रूप से स्वाभाविक लगने वाले स्पीच में बदलकर तुम्हारे टेक्स्ट को जीवंत बनाने में मदद करता है। यह कॉन्टेंट बनाने वालों, शिक्षकों, बिज़नेस और उन लोगों के लिए आदर्श है जो अपने टेक्स्ट को ज़्यादा आकर्षक और सुलभ बनाना चाहते हैं।
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/free-ai-text-to-speech-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
