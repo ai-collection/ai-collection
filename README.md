@@ -82,12 +82,18 @@ Select and download your favorites from your results—they''re indistinguishabl
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
-    <p>WordfixerBot''s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Get Started with Wordfixerbot</b></a>
+    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
+    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
     <br />
 </div>
 
@@ -145,6 +151,28 @@ Select and download your favorites from your results—they''re indistinguishabl
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Convert Text to PNG with Transparent Backgrounds
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-convert-text-to-png-with-transparent-backgrounds.webp" alt="Convert Text to PNG with Transparent Backgrounds">
+
+#### Convert Text to PNG with Transparent Backgrounds
+
+
+[Visit](https://thataicollection.com/redirect/convert-text-to-png-with-transparent-backgrounds?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+🔍 Transparent Backgrounds
+Create versatile PNG images with transparent backgrounds, perfect for web design, marketing materials, and digital content. 
+🌟 Online Free Access Anytime, Anywhere
+Access PNG Maker online free and create high-resolution PNG images whenever you need them.
+⚡ Quick Generation in Under a Minute
+Generate your customized PNG images in under a minute.
+
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/convert-text-to-png-with-transparent-backgrounds?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Fulgent AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fulgent-ai.webp" alt="Fulgent AI">
 
@@ -238,22 +266,6 @@ Looking for the best face free character generator to bring your characters to l
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/ai-character-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Face Swap App
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-face-swap-app.webp" alt="AI Face Swap App">
-
-#### Easily swap faces in photos and videos with our free AI-powered tool. Start using it now at no cost!
-
-
-[Visit](https://thataicollection.com/redirect/ai-face-swap-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Looking for the best face swap app to effortlessly swap faces in photos and videos? Look no further! Our AI Face Swap App is the ultimate tool you need to transform your images and videos with just a few clicks. Powered by cutting-edge artificial intelligence technology, our app offers a seamless and free face swapping experience that will leave you amazed. 
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/ai-face-swap-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -772,6 +784,22 @@ Select and download your favorites from your results—they''re indistinguishabl
 <br />
 
 
+### Fulgent AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fulgent-ai.webp" alt="Fulgent AI">
+
+#### Fulgent AI | Most Advanced AI Headshot Generator 
+
+
+[Visit](https://thataicollection.com/redirect/fulgent-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Fulgent AI uses the latest technology to ensure that the generated images closely resemble actual photographs, making them suitable for professional use.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/fulgent-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Photo AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
 
@@ -848,22 +876,6 @@ Browse millions of styles or create your own, generate AI autoportraits.
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/autoportrait?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AIprofilepic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiprofilepic.webp" alt="AIprofilepic">
-
-#### Create Stunning Profile Pictures Using AI - Aiprofilepic.Art
-
-
-[Visit](https://thataicollection.com/redirect/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Create your perfect avatars in just a few clicks with our easy-to-use AI technology.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/aiprofilepic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
