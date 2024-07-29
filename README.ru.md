@@ -60,24 +60,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>Инструмент для перефразирования - лучший бесплатный онлайн-парафразировщик - Wordfixerbot</h4>
-    <p>Инструмент перефразирования WordFixerBot — идеальный инструмент, который поможет вам быстро и точно перефразировать любые тексты, предложения, статьи, абзацы, статьи или документы. Начните прямо сейчас и сделайте свой текст незабываемым!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Начать работу с Wordfixerbot</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
     <h4>StickerIt.AI | #1 Мобильное решение для дизайна и продажи стикеров на базе искусственного интеллекта</h4>
     <p>StickerIt.AI — это ваше лучшее решение для создания и продажи стикеров на базе искусственного интеллекта прямо с вашего мобильного устройства. Превратите любое место в яркую мастерскую по стикерам. Имея всего два планшета и принтер, вы можете начать продавать наклейки, изготовленные на заказ, за считанные минуты. Наша платформа предназначена для ведения бизнеса по производству наклеек с искусственным интеллектом в любое время и в любом месте.</p>
     <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Начать работу с StickerIt.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    </a>
+    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
+    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -135,15 +135,31 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Alta
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-alta.webp" alt="Alta">
+### Fulgent AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fulgent-ai.webp" alt="Fulgent AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/alta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/fulgent-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/fulgent-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Alta
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-alta.webp" alt="Alta">
+
+#### Альта — стилист по искусственному интеллекту и персональный покупатель
+
+
+[Visit](https://thataicollection.com/redirect/alta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Представленный в Vogue стилист Alta с искусственным интеллектом и персональный шоппер улучшит ваш стиль и создаст индивидуальную одежду для любого дня или особого мероприятия в зависимости от вашего гардероба, образа жизни, бюджета и погоды. Alta поможет вам извлечь максимум пользы из того, что у вас есть, делать покупки с умом и получать удовольствие от того, что вы носите.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/alta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -228,22 +244,6 @@ Maze Guru — это инструмент разговорного искусс�
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/ai-face-swap-app?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Free Luma AI Video Generateor By Dream Machine AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-luma-ai-video-generateor-by-dream-machine-ai.webp" alt="Free Luma AI Video Generateor By Dream Machine AI">
-
-#### Бесплатный генератор видео Luma AI или от Dream Machine AI
-
-
-[Visit](https://thataicollection.com/redirect/free-luma-ai-video-generateor-by-dream-machine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Создавайте видео Luma AI бесплатно с помощью Dream Machine AI. Ощутите всю мощь генерации видео Luma AI. Бесплатный генератор видео Luma AI или от Dream Machine AI
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/free-luma-ai-video-generateor-by-dream-machine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
