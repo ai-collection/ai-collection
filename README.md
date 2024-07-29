@@ -70,12 +70,12 @@ Select and download your favorites from your results—they''re indistinguishabl
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
-    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It''s an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Get Started with AiApply</b></a>
+    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
+    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -151,6 +151,22 @@ Select and download your favorites from your results—they''re indistinguishabl
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Alta
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-alta.webp" alt="Alta">
+
+#### Alta is an AI stylist and personal shopper
+
+
+[Visit](https://thataicollection.com/redirect/alta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Featured in Vogue, Alta’s AI stylist & personal shopper elevates your style and generates personalized outfits based on your closet, lifestyle, budget, and weather, for any day or special event. Alta helps you make more out of what you own, shop intelligently, and feel great about what you wear.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/alta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### AI Anime Generator
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-anime-generator.webp" alt="AI Anime Generator">
 
@@ -244,23 +260,6 @@ Create Luma AI videos for free with Dream Machine AI. Experience the power of Lu
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/free-luma-ai-video-generateor-by-dream-machine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Viggle AI Free Online: Transform Text into Dynamic 3D Animations
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-viggle-ai-free-online-transform-text-into-dynamic-3d-animations.webp" alt="Viggle AI Free Online: Transform Text into Dynamic 3D Animations">
-
-#### Viggle AI Free Online: Transform Text into Dynamic 3D Animations
-
-
-[Visit](https://thataicollection.com/redirect/viggle-ai-free-online-transform-text-into-dynamic-3d-animations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-🌟Transform text and images into dynamic 3D animations effortlessly. Enjoy physics-based realism and stunning character animations with our intuitive, free-to-use platform. Unleash your creative potential today!
-🔗 Visit viggleai.cc now! 🌐
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/viggle-ai-free-online-transform-text-into-dynamic-3d-animations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
