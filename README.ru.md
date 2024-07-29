@@ -60,26 +60,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>Найдите идеальную работу с помощью нашего искусственного интеллекта для подачи заявлений о приеме на работу. Каждую неделю автоматически подавайте заявки на сотни инженерных вакансий! Присоединяйтесь к ApplyPass, чтобы получить 100 бесплатных заявок.</h4>
-    <p>ApplyPass — это инструмент для поиска работы на базе искусственного интеллекта, который позволяет проводить больше собеседований. ApplyPass ежемесячно подает 200-400 индивидуальных заявлений о приеме на работу от вашего имени. Этот инструмент предлагает первые 100 заявок на работу бесплатно.
-
-ApplyPass.com провел тысячи интервью для инженеров, средний процент ответов на которые на 40% выше, чем в среднем по отрасли.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Начать работу с ApplyPass</b></a>
+    <h4>Инструмент для перефразирования - лучший бесплатный онлайн-парафразировщик - Wordfixerbot</h4>
+    <p>Инструмент перефразирования WordFixerBot — идеальный инструмент, который поможет вам быстро и точно перефразировать любые тексты, предложения, статьи, абзацы, статьи или документы. Начните прямо сейчас и сделайте свой текст незабываемым!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Начать работу с Wordfixerbot</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Единственная готовая к производству генерация кода на основе искусственного интеллекта</h4>
-    <p>Jovu: единственная платформа искусственного интеллекта, превращающая идеи в готовый к производству код за 4 минуты. Автоматизируйте разработку серверных приложений, обеспечивая согласованность, предсказуемость и соответствие самым высоким стандартам с помощью масштабируемого кода.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Начать работу с Jovu by Amplication</b></a>
+    <h4>StickerIt.AI | #1 Мобильное решение для дизайна и продажи стикеров на базе искусственного интеллекта</h4>
+    <p>StickerIt.AI — это ваше лучшее решение для создания и продажи стикеров на базе искусственного интеллекта прямо с вашего мобильного устройства. Превратите любое место в яркую мастерскую по стикерам. Имея всего два планшета и принтер, вы можете начать продавать наклейки, изготовленные на заказ, за считанные минуты. Наша платформа предназначена для ведения бизнеса по производству наклеек с искусственным интеллектом в любое время и в любом месте.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Начать работу с StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -137,15 +135,31 @@ ApplyPass.com провел тысячи интервью для инженеро
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### AI Anime Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-anime-generator.webp" alt="AI Anime Generator">
+### Alta
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-alta.webp" alt="Alta">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ai-anime-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/alta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/alta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Anime Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-anime-generator.webp" alt="AI Anime Generator">
+
+#### Создавайте высококачественное аниме с помощью искусственного интеллекта за считанные секунды. 
+
+
+[Visit](https://thataicollection.com/redirect/ai-anime-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Создавайте уникальные аниме-иллюстрации! Укажите черты персонажа, выберите стиль, а наши алгоритмы создадут собственный шедевр аниме. Отлично подходит для художников, которым нужно вдохновение, или для любителей создавать оригинальных персонажей.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/ai-anime-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -230,23 +244,6 @@ Maze Guru — это инструмент разговорного искусс�
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/free-luma-ai-video-generateor-by-dream-machine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Viggle AI Free Online: Transform Text into Dynamic 3D Animations
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-viggle-ai-free-online-transform-text-into-dynamic-3d-animations.webp" alt="Viggle AI Free Online: Transform Text into Dynamic 3D Animations">
-
-#### Viggle AI Free Online: преобразуйте текст в динамическую 3D-анимацию
-
-
-[Visit](https://thataicollection.com/redirect/viggle-ai-free-online-transform-text-into-dynamic-3d-animations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-🌟 Без труда превращайте текст и изображения в динамическую 3D-анимацию. Наслаждайтесь реализмом, основанным на физике, и потрясающей анимацией персонажей с помощью нашей интуитивно понятной бесплатной платформы. Раскройте свой творческий потенциал уже сегодня!
-🔗 Посетите viggleai.cc прямо сейчас! 🌐
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/viggle-ai-free-online-transform-text-into-dynamic-3d-animations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
