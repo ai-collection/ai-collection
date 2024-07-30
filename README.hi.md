@@ -60,24 +60,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>पैराफ़्रेसिंग टूल - सर्वश्रेष्ठ मुफ़्त ऑनलाइन पैराफ़्रेज़र - Wordfixerbot</h4>
-    <p>WordFixerBot का पैराफ़्रेसिंग टूल किसी भी टेक्स्ट, वाक्य, लेख, पैराग्राफ, पेपर या दस्तावेज़ों को तुरंत और सटीक तरीके से फिर से लिखने में तुम्हारी मदद करने के लिए एकदम सही टूल है। अभी शुरू करो और अपने लेखन को सबसे अलग बनाओ!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>के साथ आरंभ करें Wordfixerbot</b></a>
+    <h4>AIApply: नौकरी खोजने वालों के लिए AI टूल, ताकि बेहतरीन एप्लीकेशन तैयार किया जा सके</h4>
+    <p>AIApply AI टूल का एक डायनामिक सूट है, जिसे नौकरी तलाशने वालों को सशक्त बनाने के लिए डिज़ाइन किया गया है। यह नौकरी की आवेदन प्रक्रिया को आसान बनाता है, रिज़्यूमे की गुणवत्ता को बढ़ाता है, साक्षात्कारों के लिए तैयार करता है और करियर के सबसे अच्छे अवसरों की पहचान करता है। AIApply नौकरी खोजने की रणनीतियों को वैयक्तिकृत करता है, यह सुनिश्चित करता है कि यूज़र प्रतिस्पर्धी बाज़ारों में अलग दिखें। यह उन लोगों के लिए ज़रूरी टूल है जो AI की मदद से अपने करियर की राह में तेज़ी लाना चाहते हैं।</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>के साथ आरंभ करें AiApply</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>एकमात्र प्रॉडक्शन-तैयार AI-संचालित कोड जनरेशन</h4>
-    <p>जोवू: एकमात्र AI प्लेटफ़ॉर्म, जो 4 मिनट में आइडिया को प्रोडक्शन-रेडी कोड में बदल देता है। अपने बैकएंड अनुप्रयोगों के डेवलपमेंट को स्वचालित करें, ताकि बड़े पैमाने पर बनाए गए कोड के साथ निरंतरता, पूर्वानुमान और उच्चतम मानकों का पालन किया जा सके।</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>के साथ आरंभ करें Jovu by Amplication</b></a>
+    <h4>पैराफ़्रेसिंग टूल - सर्वश्रेष्ठ मुफ़्त ऑनलाइन पैराफ़्रेज़र - Wordfixerbot</h4>
+    <p>WordFixerBot का पैराफ़्रेसिंग टूल किसी भी टेक्स्ट, वाक्य, लेख, पैराग्राफ, पेपर या दस्तावेज़ों को तुरंत और सटीक तरीके से फिर से लिखने में तुम्हारी मदद करने के लिए एकदम सही टूल है। अभी शुरू करो और अपने लेखन को सबसे अलग बनाओ!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>के साथ आरंभ करें Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -135,15 +135,35 @@
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### Design GUI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-design-gui.webp" alt="Design GUI">
+### Hautech.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hautech-ai.webp" alt="Hautech.ai">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/design-gui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/hautech-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/hautech-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Design GUI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-design-gui.webp" alt="Design GUI">
+
+#### वेबसाइट डिज़ाइन करने के लिए AI-संचालित ब्राउज़र एक्सटेंशन 
+
+
+[Visit](https://thataicollection.com/redirect/design-gui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+मैंने CSS वेरिएबल में रंगों के साथ काम करने के लिए एक ब्राउज़र एक्सटेंशन बनाया है। 
+
+• अपने डिज़ाइन सिस्टम में रंग देखें और अपडेट करें।
+• एआई-जनरेटेड कलर पैलेट।
+• ऐक्सेसिबिलिटी टेस्टिंग।
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/design-gui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -240,22 +260,6 @@ MagicAI एक मुफ़्त ऑनलाइन AI इमेज जनर�
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/convert-text-to-png-with-transparent-backgrounds?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Fulgent AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fulgent-ai.webp" alt="Fulgent AI">
-
-#### फ़ुल्जेंट एआई | सबसे एडवांस एआई हेडशॉट जेनरेटर 
-
-
-[Visit](https://thataicollection.com/redirect/fulgent-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Fulgent AI यह सुनिश्चित करने के लिए नवीनतम तकनीक का उपयोग करता है कि जेनरेट की गई छवियां वास्तविक तस्वीरों से काफी मिलती-जुलती हों, जिससे वे पेशेवर इस्तेमाल के लिए उपयुक्त हो जाती हैं।
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/fulgent-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
