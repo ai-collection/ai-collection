@@ -60,24 +60,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案</h4>
-    <p>StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>开始使用 StickerIt.AI</b></a>
+    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
+    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>开始使用 Wordfixerbot</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
-    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>开始使用 AiApply</b></a>
+    <h4>在 AI 的帮助下制作完美的简历</h4>
+    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -135,15 +135,31 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### ProtoUI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-protoui.webp" alt="ProtoUI">
+### ScreenshotMagic
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-screenshotmagic.webp" alt="ScreenshotMagic">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/protoui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/screenshotmagic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/screenshotmagic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### ProtoUI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-protoui.webp" alt="ProtoUI">
+
+#### ProtoUI-在几秒钟内创建响应式 UI 代码
+
+
+[Visit](https://thataicollection.com/redirect/protoui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ProtoUI 就像 ChatGPT 一样，但适用于前端开发者。Protoui 将接受您的提示并立即呈现所请求的用户界面。描述您的用户界面，生成响应式前端代码，将其复制并粘贴到您的应用程序中
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/protoui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -234,28 +250,6 @@ MagiCAI 是一款免费使用的在线 AI 图像生成器。用它来创作 AI �
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/magicai-free-ai-image-ai-video-ai-tools-anime-art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Lede
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lede.webp" alt="Lede">
-
-#### Lede是一款人工智能内容生成器，专为创建深度博客文章而设计。 
-
-
-[Visit](https://thataicollection.com/redirect/lede?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在帮助您撰写博客文章之前，Lede进行了广泛的研究。
-
-Lede可以帮助您查找与您正在撰写的内容相关的内容，将来源文章汇总并总结为研究报告，然后使用您的研究来起草准确、深入的内容。
-
-
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/lede?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -72,18 +72,12 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Chatbot de IA personalizado las 24 horas del día, los 7 días de la semana, más escalación</h4>
-    <p>Chat Data es una plataforma de chatbots de IA que ofrece una personalización flexible de backend y frontend. Crea chatbots con tu base de conocimientos, puntos finales personalizados o los modelos de Chat Data. Personaliza la interfaz del chatbot y opta por la etiqueta blanca. Las funciones adicionales incluyen la escalación del chat en vivo en los planes estándar o profesionales.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
+    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
+    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -141,15 +135,31 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### ProtoUI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-protoui.webp" alt="ProtoUI">
+### ScreenshotMagic
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-screenshotmagic.webp" alt="ScreenshotMagic">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/protoui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/screenshotmagic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/screenshotmagic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### ProtoUI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-protoui.webp" alt="ProtoUI">
+
+#### ProtoUI: crea un código de interfaz de usuario adaptable en segundos
+
+
+[Visit](https://thataicollection.com/redirect/protoui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ProtoUI es como ChatGPT, pero para los desarrolladores de frontend. ProToUI seguirá tus instrucciones y renderizará la interfaz de usuario solicitada al instante. Describe tu interfaz de usuario, genera un código de interfaz adaptable, cópialo y pégalo en tu aplicación
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/protoui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -240,28 +250,6 @@ MagicAI es un generador de imágenes de IA en línea gratuito. Utilízalo para c
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/magicai-free-ai-image-ai-video-ai-tools-anime-art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Lede
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lede.webp" alt="Lede">
-
-#### Lede es un generador de contenido de IA diseñado para crear entradas de blog detalladas. 
-
-
-[Visit](https://thataicollection.com/redirect/lede?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Lede investiga exhaustivamente antes de ayudarte a escribir tu entrada de blog.
-
-Lede te ayuda a encontrar contenido relacionado con lo que escribes, agrega y resume los artículos fuente en un informe de investigación y, a continuación, utiliza tu investigación para redactar contenido preciso y detallado.
-
-
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/lede?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

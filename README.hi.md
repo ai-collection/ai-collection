@@ -72,12 +72,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 मोबाइल, एआई-संचालित स्टिकर डिज़ाइन और सेल्स सॉल्यूशन</h4>
-    <p>StickerIt.AI सीधे अपने मोबाइल डिवाइस से AI-संचालित स्टिकर बनाने और बेचने का तुम्हारा प्रमुख समाधान है। किसी भी स्थान को एक जीवंत स्टिकर वर्कशॉप में ट्रांसफ़ॉर्म करें। सिर्फ़ दो टैबलेट और एक प्रिंटर की मदद से, तुम मिनटों में बनाए गए कस्टम स्टिकर बेचना शुरू कर सकते हो। हमारा प्लेटफ़ॉर्म तुम्हारे AI स्टिकर का कारोबार, कभी भी, कहीं भी चलाने के लिए डिज़ाइन किया गया है।</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>के साथ आरंभ करें StickerIt.AI</b></a>
+    <h4>एकमात्र प्रॉडक्शन-तैयार AI-संचालित कोड जनरेशन</h4>
+    <p>जोवू: एकमात्र AI प्लेटफ़ॉर्म, जो 4 मिनट में आइडिया को प्रोडक्शन-रेडी कोड में बदल देता है। अपने बैकएंड अनुप्रयोगों के डेवलपमेंट को स्वचालित करें, ताकि बड़े पैमाने पर बनाए गए कोड के साथ निरंतरता, पूर्वानुमान और उच्चतम मानकों का पालन किया जा सके।</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>के साथ आरंभ करें Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -135,15 +135,31 @@
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### ProtoUI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-protoui.webp" alt="ProtoUI">
+### ScreenshotMagic
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-screenshotmagic.webp" alt="ScreenshotMagic">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/protoui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/screenshotmagic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/screenshotmagic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### ProtoUI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-protoui.webp" alt="ProtoUI">
+
+#### ProtoUI - कुछ ही सेकंड में रेस्पॉन्सिव UI कोड बनाएं
+
+
+[Visit](https://thataicollection.com/redirect/protoui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ProtoUI ChatGPT की तरह है, लेकिन फ़्रंटएंड डेवलपर्स के लिए है। ProtoUI तुम्हारे संकेतों का पालन करेगा और अनुरोधित UI को तुरंत रेंडर करेगा। अपने UI के बारे में बताएं, रेस्पॉन्सिव फ़्रंटएंड कोड जेनरेट करें, इसे अपने ऐप में कॉपी और पेस्ट करें
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/protoui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -234,28 +250,6 @@ MagicAI एक मुफ़्त ऑनलाइन AI इमेज जनर�
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/magicai-free-ai-image-ai-video-ai-tools-anime-art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Lede
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lede.webp" alt="Lede">
-
-#### Lede एक AI कॉन्टेंट जनरेटर है, जिसे गहन ब्लॉग पोस्ट बनाने के लिए डिज़ाइन किया गया है। 
-
-
-[Visit](https://thataicollection.com/redirect/lede?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-तुम्हेंं ब्लॉग पोस्ट लिखने में मदद करने से पहले Lede अच्छी तरह से खोजबीन करता है।
-
-तुम जो लिख रहे हो उससे संबंधित सामग्री ढूंढने में Lede तुम्हारी मदद करता है, स्रोत के लेखों को इकट्ठा करता है और उन्हें एक शोध रिपोर्ट में सारांशित करता है, और फिर तुम्हारे शोध का इस्तेमाल सटीक, गहन सामग्री का ड्राफ़्ट करने के लिए करता है।
-
-
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/lede?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
