@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1684" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1685" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -60,24 +60,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>AI की थोड़ी मदद से, एकदम सही रिज़्यूमे तैयार करें</h4>
-    <p>तुम्हेंं जल्दी और आसानी से ऐसा रिज्यूम बनाने के लिए, जो तुम्हारे काम के अनुभव को सटीक रूप से दर्शाता हो, एक पेशेवर रेज़्यूमे लेखक होने की ज़रूरत नहीं है। हंटर का कस्टमाइज़ किया जा सकने वाला AI रिज्यूमे बिल्डर तुम्हेंं और इंटरव्यू देने में मदद करने के लिए एक अच्छी तरह से लिखा हुआ, एटीएस-अनुकूल रिज्यूमे तैयार करने में मदद करेगा।</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>के साथ आरंभ करें Huntr AI Resume Builder</b></a>
+    <h4>पैराफ़्रेसिंग टूल - सर्वश्रेष्ठ मुफ़्त ऑनलाइन पैराफ़्रेज़र - Wordfixerbot</h4>
+    <p>WordFixerBot का पैराफ़्रेसिंग टूल किसी भी टेक्स्ट, वाक्य, लेख, पैराग्राफ, पेपर या दस्तावेज़ों को तुरंत और सटीक तरीके से फिर से लिखने में तुम्हारी मदद करने के लिए एकदम सही टूल है। अभी शुरू करो और अपने लेखन को सबसे अलग बनाओ!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>के साथ आरंभ करें Wordfixerbot</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>कॉर्पोरेट हेडशॉट्स AI: AI के साथ कॉर्पोरेट पोर्ट्रेट्स में क्रांति लाना</h4>
-    <p>www.CorporateHeadshots.ai के साथ प्रोफ़ेशनल फ़ोटोग्राफ़ी के भविष्य का अनुभव करें। हमारा एआई-चालित प्लेटफ़ॉर्म तुम्हारी सेल्फी को सुंदर, कॉर्पोरेट-मानक हेडशॉट में बदल देता है, जिससे पेशेवर तस्वीरें हर किसी के लिए, हर जगह सुलभ और आसान हो जाती हैं।</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>के साथ आरंभ करें Corporate Headshots AI</b></a>
+    <h4>एकमात्र प्रॉडक्शन-तैयार AI-संचालित कोड जनरेशन</h4>
+    <p>जोवू: एकमात्र AI प्लेटफ़ॉर्म, जो 4 मिनट में आइडिया को प्रोडक्शन-रेडी कोड में बदल देता है। अपने बैकएंड अनुप्रयोगों के डेवलपमेंट को स्वचालित करें, ताकि बड़े पैमाने पर बनाए गए कोड के साथ निरंतरता, पूर्वानुमान और उच्चतम मानकों का पालन किया जा सके।</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>के साथ आरंभ करें Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -135,15 +135,31 @@
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### Jogg AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jogg-ai.webp" alt="Jogg AI">
+### Design GUI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-design-gui.webp" alt="Design GUI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/jogg-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/design-gui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/design-gui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Jogg AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jogg-ai.webp" alt="Jogg AI">
+
+#### जॉग - URL का इस्तेमाल करके वीडियो बनाने के लिए AI विज्ञापन जेनरेटर
+
+
+[Visit](https://thataicollection.com/redirect/jogg-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Jogg AI एक AI वीडियो प्लेटफ़ॉर्म है, जो रिच टेम्प्लेट और AI अवतारों का उपयोग करके URL को मिनटों में वीडियो विज्ञापनों में बदल देता है। आसानी से अपनी वेबसाइट पर ज़्यादा ट्रैफ़िक लाएं और सेल्स बढ़ाएं।
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/jogg-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -240,22 +256,6 @@ Fulgent AI यह सुनिश्चित करने के लिए न�
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/fulgent-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Alta
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-alta.webp" alt="Alta">
-
-#### अल्टा एआई स्टाइलिस्ट और निजी शॉपर हैं
-
-
-[Visit](https://thataicollection.com/redirect/alta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-वोग में फ़ीचर्ड, Alta का AI स्टाइलिस्ट और पर्सनल शॉपर तुम्हारे स्टाइल को बेहतर बनाते हैं और किसी भी दिन या खास इवेंट के लिए तुम्हारी अलमारी, लाइफ़स्टाइल, बजट और मौसम के आधार पर वैयक्तिकृत पोशाक बनाते हैं। Alta तुम्हेंं अपनी चीज़ों से ज़्यादा कमाई करने, समझदारी से ख़रीदारी करने और अपने पहनावे के बारे में अच्छा महसूस करने में मदद करता है।
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/alta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
