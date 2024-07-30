@@ -60,24 +60,24 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
-    </a>
-    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
-    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
     <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
     <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
     <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    </a>
+    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
+    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -135,15 +135,34 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### SvelteLaunch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sveltelaunch.webp" alt="SvelteLaunch">
+### Video Maker Free Online Powered by Luma AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-video-maker-free-online-powered-by-luma-ai.webp" alt="Video Maker Free Online Powered by Luma AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/sveltelaunch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/video-maker-free-online-powered-by-luma-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/video-maker-free-online-powered-by-luma-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### SvelteLaunch
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sveltelaunch.webp" alt="SvelteLaunch">
+
+#### Esbelto modelo 5 para crear aplicaciones de IA rápidamente
+
+
+[Visit](https://thataicollection.com/redirect/sveltelaunch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SvelteLaunch es un modelo modelo de Svelte 5 que pone en marcha la creación de nuevas aplicaciones de SaaS e IA.
+
+
+SvelteLaunch no es solo un modelo estándar, sino un completo conjunto de herramientas diseñado para ayudarte a enviar aplicaciones de SaaS e IA de alta calidad con rapidez. Con soporte de por vida y acceso a una comunidad de Discord, nunca estarás solo en tu viaje de desarrollo.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/sveltelaunch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -235,22 +254,6 @@ Jogg AI es una plataforma de vídeo de IA que convierte las URL en anuncios de v
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/jogg-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Cynagon
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cynagon.webp" alt="Cynagon">
-
-#### Cynagon es la mejor herramienta para crear vídeos cortos virales y atractivos.
-
-
-[Visit](https://thataicollection.com/redirect/cynagon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cynagon es la mejor herramienta para crear vídeos cortos virales y atractivos que seguro que cautivarán a tu público. Con una serie de funciones interesantes, Cynagon te permite dar rienda suelta a tu creatividad y producir contenido de alta calidad sin esfuerzo. 
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/cynagon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1295,6 +1298,25 @@ StoryChief te permite desarrollar estrategias de contenido eficaces que impulsen
 <br />
 
 
+### SvelteLaunch
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sveltelaunch.webp" alt="SvelteLaunch">
+
+#### Esbelto modelo 5 para crear aplicaciones de IA rápidamente
+
+
+[Visit](https://thataicollection.com/redirect/sveltelaunch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SvelteLaunch es un modelo modelo de Svelte 5 que pone en marcha la creación de nuevas aplicaciones de SaaS e IA.
+
+
+SvelteLaunch no es solo un modelo estándar, sino un completo conjunto de herramientas diseñado para ayudarte a enviar aplicaciones de SaaS e IA de alta calidad con rapidez. Con soporte de por vida y acceso a una comunidad de Discord, nunca estarás solo en tu viaje de desarrollo.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/sveltelaunch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Damn Good Tools
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools">
 
@@ -1342,22 +1364,6 @@ El ecosistema definitivo de aplicaciones, complementos y recursos para todos los
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/clipdrop?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Descript
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-descript.webp" alt="Descript">
-
-#### Hay una nueva forma de hacer videos y podcasts. Una buena manera.
-
-
-[Visit](https://thataicollection.com/redirect/descript?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Descript es la manera simple, poderosa y divertida de editar.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/descript?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
