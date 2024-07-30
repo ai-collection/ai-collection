@@ -82,18 +82,12 @@ Select and download your favorites from your results—they''re indistinguishabl
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
-    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
+    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
+    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It''s an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Get Started with AiApply</b></a>
     <br />
 </div>
 
@@ -151,6 +145,28 @@ Select and download your favorites from your results—they''re indistinguishabl
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Video Maker Free Online Powered by Luma AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-video-maker-free-online-powered-by-luma-ai.webp" alt="Video Maker Free Online Powered by Luma AI">
+
+#### Video Maker Free Online Powered by Luma AI
+
+
+[Visit](https://thataicollection.com/redirect/video-maker-free-online-powered-by-luma-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+🌍 Free Online Access
+VideoMaker.me is a free online platform, allowing you to create stunning videos from anywhere.
+🌟 AI-Powered Video Creation
+Harness the advanced AI technology of Luma AI to produce professional  videos easily.
+📈 Perfect for All Skill Levels
+Designed for everyone, our platform requires no prior editing skills. Simply input your text or images and let our AI do the rest.
+
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/video-maker-free-online-powered-by-luma-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### SvelteLaunch
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sveltelaunch.webp" alt="SvelteLaunch">
 
@@ -254,22 +270,6 @@ Jogg AI is an AI video platform that converts URLs into video ads in minutes usi
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/jogg-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Cynagon
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cynagon.webp" alt="Cynagon">
-
-#### Cynagon is the ultimate tool for creating viral and engaging short-form videos.
-
-
-[Visit](https://thataicollection.com/redirect/cynagon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cynagon is the ultimate tool for creating viral and engaging short-form videos that are sure to captivate your audience. With a range of exciting features, Cynagon allows you to unleash your creativity and produce high-quality content effortlessly. 
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/cynagon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1314,6 +1314,25 @@ StoryChief empowers you to develop effective content strategies that drive engag
 <br />
 
 
+### SvelteLaunch
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sveltelaunch.webp" alt="SvelteLaunch">
+
+#### Svelte 5 Boilerplate for building AI apps quickly
+
+
+[Visit](https://thataicollection.com/redirect/sveltelaunch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SvelteLaunch is a Svelte 5 Boilerplate that jump starts building new SaaS and AI applications.
+
+
+SvelteLaunch is not just a boilerplate; it’s a comprehensive toolkit designed to help you ship high-quality SaaS and AI applications quickly. With lifetime support and access to a Discord community, you’re never alone on your development journey.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/sveltelaunch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Damn Good Tools
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools">
 
@@ -1361,22 +1380,6 @@ The ultimate ecosystem of apps, plugins & resources for all creators, powered by
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/clipdrop?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Descript
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-descript.webp" alt="Descript">
-
-#### ThereS a New Way to Make Video and Podcasts. A Good Way.
-
-
-[Visit](https://thataicollection.com/redirect/descript?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Descript is the simple, powerful, and fun way to edit.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/descript?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

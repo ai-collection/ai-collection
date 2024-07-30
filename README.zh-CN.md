@@ -60,24 +60,32 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
-    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>开始使用 AiApply</b></a>
+    <h4>借助我们的求职AI找到理想的工作。每周自动申请数百个工程职位！加入 ApplyPass 获得 100 个免费应用程序。</h4>
+    <p>ApplyPass是一款由人工智能驱动的求职工具，可以让你获得更多的求职面试。ApplyPass每月代表你提交200-400份量身定制的求职申请。该工具免费提供前100份求职申请。
+
+ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行业平均水平高40％。</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>开始使用 ApplyPass</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>在 AI 的帮助下制作完美的简历</h4>
-    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
+    <h4>全天候自定义 AI 聊天机器人加上实时聊天升级</h4>
+    <p>Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
     <br />
 </div>
 
@@ -135,15 +143,34 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### SvelteLaunch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sveltelaunch.webp" alt="SvelteLaunch">
+### Video Maker Free Online Powered by Luma AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-video-maker-free-online-powered-by-luma-ai.webp" alt="Video Maker Free Online Powered by Luma AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/sveltelaunch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/video-maker-free-online-powered-by-luma-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/video-maker-free-online-powered-by-luma-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### SvelteLaunch
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sveltelaunch.webp" alt="SvelteLaunch">
+
+#### 用于快速构建 AI 应用程序的 Svelte 5 样板
+
+
+[Visit](https://thataicollection.com/redirect/sveltelaunch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SvelteLaunch 是一款 Svelte 5 Boilerplate，可快速开始构建新的 SaaS 和 AI 应用程序。
+
+
+SvelteLaunch 不仅仅是一个样板；它是一个全面的工具包，旨在帮助您快速交付高质量的 SaaS 和 AI 应用程序。有了终身支持和访问Discord社区的机会，您在开发之旅中永远不会孤单。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/sveltelaunch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -235,22 +262,6 @@ Jogg AI 是一个 AI 视频平台，它使用丰富的模板和 AI 头像在几�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/jogg-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Cynagon
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cynagon.webp" alt="Cynagon">
-
-#### Cynagon是制作病毒式和引人入胜的短视频的终极工具。
-
-
-[Visit](https://thataicollection.com/redirect/cynagon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cynagon是制作病毒式和引人入胜的短视频的终极工具，这些视频一定会吸引您的观众。Cynagon具有一系列令人兴奋的功能，可让您释放创造力，轻松制作高质量的内容。 
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/cynagon?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1295,6 +1306,25 @@ StoryChief使您能够制定有效的内容策略，以提高参与度并实现�
 <br />
 
 
+### SvelteLaunch
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sveltelaunch.webp" alt="SvelteLaunch">
+
+#### 用于快速构建 AI 应用程序的 Svelte 5 样板
+
+
+[Visit](https://thataicollection.com/redirect/sveltelaunch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SvelteLaunch 是一款 Svelte 5 Boilerplate，可快速开始构建新的 SaaS 和 AI 应用程序。
+
+
+SvelteLaunch 不仅仅是一个样板；它是一个全面的工具包，旨在帮助您快速交付高质量的 SaaS 和 AI 应用程序。有了终身支持和访问Discord社区的机会，您在开发之旅中永远不会孤单。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/sveltelaunch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Damn Good Tools
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools">
 
@@ -1342,22 +1372,6 @@ StoryChief使您能够制定有效的内容策略，以提高参与度并实现�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/clipdrop?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Descript
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-descript.webp" alt="Descript">
-
-#### 有一种制作视频和播客的新方法。一个好方法。
-
-
-[Visit](https://thataicollection.com/redirect/descript?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Descript 是一种简单、强大且有趣的编辑方式。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/descript?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
