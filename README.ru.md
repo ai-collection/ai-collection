@@ -60,26 +60,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>Найдите идеальную работу с помощью нашего искусственного интеллекта для подачи заявлений о приеме на работу. Каждую неделю автоматически подавайте заявки на сотни инженерных вакансий! Присоединяйтесь к ApplyPass, чтобы получить 100 бесплатных заявок.</h4>
-    <p>ApplyPass — это инструмент для поиска работы на базе искусственного интеллекта, который позволяет проводить больше собеседований. ApplyPass ежемесячно подает 200-400 индивидуальных заявлений о приеме на работу от вашего имени. Этот инструмент предлагает первые 100 заявок на работу бесплатно.
-
-ApplyPass.com провел тысячи интервью для инженеров, средний процент ответов на которые на 40% выше, чем в среднем по отрасли.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Начать работу с ApplyPass</b></a>
+    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
+    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Единственная готовая к производству генерация кода на основе искусственного интеллекта</h4>
-    <p>Jovu: единственная платформа искусственного интеллекта, превращающая идеи в готовый к производству код за 4 минуты. Автоматизируйте разработку серверных приложений, обеспечивая согласованность, предсказуемость и соответствие самым высоким стандартам с помощью масштабируемого кода.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Начать работу с Jovu by Amplication</b></a>
+    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
+    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -137,15 +135,31 @@ ApplyPass.com провел тысячи интервью для инженеро
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### ProtoUI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-protoui.webp" alt="ProtoUI">
+### ScreenshotMagic
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-screenshotmagic.webp" alt="ScreenshotMagic">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/protoui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/screenshotmagic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/screenshotmagic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### ProtoUI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-protoui.webp" alt="ProtoUI">
+
+#### ProtoUI - создайте адаптивный код пользовательского интерфейса за считанные секунды
+
+
+[Visit](https://thataicollection.com/redirect/protoui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ProtoUI похож на ChatGPT, но предназначен для фронтенд-разработчиков. ProtoUI примет ваши запросы и мгновенно отобразит запрошенный пользовательский интерфейс. Опишите свой пользовательский интерфейс, создайте адаптивный код интерфейса, скопируйте и вставьте его в свое приложение
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/protoui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -236,28 +250,6 @@ MagicAI — это бесплатный онлайн-генератор изоб
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/magicai-free-ai-image-ai-video-ai-tools-anime-art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Lede
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lede.webp" alt="Lede">
-
-#### Lede — это генератор контента с искусственным интеллектом, предназначенный для создания подробных постов в блогах. 
-
-
-[Visit](https://thataicollection.com/redirect/lede?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Lede проводит обширное исследование, прежде чем помочь вам написать сообщение в блоге.
-
-Lede помогает найти контент, связанный с тем, что вы пишете, объединяет и обобщает исходные статьи в исследовательский отчет, а затем использует результаты исследований для составления точного и подробного контента.
-
-
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/lede?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
