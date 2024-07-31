@@ -72,12 +72,12 @@ Sélectionnez et téléchargez vos favoris à partir de vos résultats : ils so
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>StickerIt.AI | Solution mobile de création et de vente d'autocollants basée sur l'IA #1</h4>
-    <p>StickerIt.AI est ta meilleure solution pour créer et vendre des autocollants alimentés par l'IA directement depuis ton appareil mobile. Transforme n'importe quel lieu en un atelier d'autocollants dynamique. Avec seulement deux tablettes et une imprimante, tu peux commencer à vendre des autocollants personnalisés en quelques minutes. Notre plateforme est conçue pour gérer ton activité d'autocollants IA à tout moment et en tout lieu.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Démarrer avec StickerIt.AI</b></a>
+    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
+    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -135,15 +135,31 @@ Sélectionnez et téléchargez vos favoris à partir de vos résultats : ils so
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Easy Folders
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-easy-folders.webp" alt="Easy Folders">
+### Oliv AI - Copilot for the modern sales manager
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chery-yadvendu.webp" alt="Oliv AI - Copilot for the modern sales manager">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/easy-folders?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/oliv-ai-copilot-for-the-modern-sales-manager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/oliv-ai-copilot-for-the-modern-sales-manager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Easy Folders
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-easy-folders.webp" alt="Easy Folders">
+
+#### Créez des dossiers, recherchez dans l'historique des discussions, ajoutez des discussions à vos favoris, créez des profils d'instructions personnalisés et plus encore !
+
+
+[Visit](https://thataicollection.com/redirect/easy-folders?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Easy Folders est la solution idéale pour organiser les discussions, gagner en efficacité et augmenter la productivité grâce à la synchronisation fluide des données sur plusieurs appareils. Cet outil innovant propose de nombreux utilitaires aux utilisateurs de ChatGPT, ce qui en fait un outil indispensable pour tous ceux qui souhaitent rationaliser leur expérience de gestion des discussions.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/easy-folders?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -232,22 +248,6 @@ Présentation d'AichatOnline.org, ta destination de choix pour un accès gratuit
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/experience-chatgpt-free-online-with-openai-chatgpt-4o?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Flezr
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-flezr.webp" alt="Flezr">
-
-#### Flezr est un outil de création de sites Web sans code qui te permet de créer des sites Web dynamiques à partir des données de Google Sheets. 
-
-
-[Visit](https://thataicollection.com/redirect/flezr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Flezr est un outil de création de sites Web sans code qui te permet de créer des sites Web dynamiques à partir des données de Google Sheets. C'est un outil simple, intuitif et puissant conçu pour permettre aux entreprises et aux agences de créer des sites Web évolutifs et rapides à l'aide des données de Google Sheets. 
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/flezr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

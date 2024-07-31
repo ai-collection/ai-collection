@@ -60,12 +60,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>唯一一款支持量产的 AI 驱动的代码生成</h4>
-    <p>Jovu：唯一一个在 4 分钟内将想法转化为生产就绪代码的人工智能平台。使用可扩展的代码实现后端应用程序开发自动化，确保一致性、可预测性并遵守最高标准。</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>开始使用 Jovu by Amplication</b></a>
+    <h4>在 AI 的帮助下制作完美的简历</h4>
+    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -137,15 +137,31 @@ ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行�
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Easy Folders
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-easy-folders.webp" alt="Easy Folders">
+### Oliv AI - Copilot for the modern sales manager
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chery-yadvendu.webp" alt="Oliv AI - Copilot for the modern sales manager">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/easy-folders?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/oliv-ai-copilot-for-the-modern-sales-manager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/oliv-ai-copilot-for-the-modern-sales-manager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Easy Folders
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-easy-folders.webp" alt="Easy Folders">
+
+#### 创建文件夹、搜索聊天记录、为聊天添加书签、创建自定义说明配置文件等！
+
+
+[Visit](https://thataicollection.com/redirect/easy-folders?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Easy Folders是组织聊天、提高效率和提高生产力的终极解决方案，可实现跨多个设备的无缝数据同步。这个创新工具为 ChatGPT 用户提供了大量实用程序，使其成为任何想要简化聊天管理体验的人的必备工具。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/easy-folders?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -234,22 +250,6 @@ CommentGuard 是一款人工智能驱动的 Facebook 和 Instagram 评论审核�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/experience-chatgpt-free-online-with-openai-chatgpt-4o?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Flezr
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-flezr.webp" alt="Flezr">
-
-#### Flezr 是一款无代码建站工具，可让您使用 Google 表格数据创建动态网站。 
-
-
-[Visit](https://thataicollection.com/redirect/flezr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Flezr 是一款无代码建站工具，可让您使用 Google 表格数据创建动态网站。它是一款简单、直观且功能强大的工具，专为企业和机构而设计，可使用 Google Sheets 数据创建可扩展且快速的网站。 
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/flezr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
