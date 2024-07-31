@@ -60,30 +60,24 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Chatbot de IA personalizado las 24 horas del día, los 7 días de la semana, más escalación</h4>
-    <p>Chat Data es una plataforma de chatbots de IA que ofrece una personalización flexible de backend y frontend. Crea chatbots con tu base de conocimientos, puntos finales personalizados o los modelos de Chat Data. Personaliza la interfaz del chatbot y opta por la etiqueta blanca. Las funciones adicionales incluyen la escalación del chat en vivo en los planes estándar o profesionales.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
+    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
+    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
-    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
+    <h4>La única generación de código basada en IA lista para producción</h4>
+    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -141,15 +135,32 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Experience ChatGPT Free Online with OpenAI ChatGPT 4o
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-experience-chatgpt-free-online-with-openai-chatgpt-4o.webp" alt="Experience ChatGPT Free Online with OpenAI ChatGPT 4o">
+### PhoText
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-photext.webp" alt="PhoText">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/experience-chatgpt-free-online-with-openai-chatgpt-4o?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Experience ChatGPT Free Online with OpenAI ChatGPT 4o
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-experience-chatgpt-free-online-with-openai-chatgpt-4o.webp" alt="Experience ChatGPT Free Online with OpenAI ChatGPT 4o">
+
+#### GPT-4o y ChatGPT 3.5 gratis en línea, ¡sin iniciar sesión!
+
+
+[Visit](https://thataicollection.com/redirect/experience-chatgpt-free-online-with-openai-chatgpt-4o?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Presentamos AichatOnline.org, ¡tu principal destino con acceso gratuito y sin problemas a GPT-4o y ChatGPT 3.5!
+🌟 En AichatOnline.org, disfruta de la potencia de GPT-4o y ChatGPT 3.5 sin descargas ni registros. Simplemente visita el sitio y disfruta de conversaciones de IA de alta calidad. Perfecta para respuestas rápidas, ideas creativas o charlas interesantes, nuestra plataforma lo ofrece todo con facilidad.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/experience-chatgpt-free-online-with-openai-chatgpt-4o?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -244,24 +255,6 @@ ProtoUI es como ChatGPT, pero para los desarrolladores de frontend. ProToUI segu
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/protoui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Hautech.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hautech-ai.webp" alt="Hautech.ai">
-
-#### Pon tu ropa en varios modelos y fondos y consigue impresionantes fotos de moda con la IA
-
-
-[Visit](https://thataicollection.com/redirect/hautech-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Pon tu ropa en varios modelos y fondos y consigue impresionantes fotos de moda con la IA.
-
-Consigue impresionantes fotos de moda con la IA colocando tu ropa sobre diversos modelos y fondos 
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/hautech-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
