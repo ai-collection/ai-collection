@@ -72,12 +72,18 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
-    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
+    <h4>Настраиваемый чат-бот с искусственным интеллектом, работающий круглосуточно и без выходных</h4>
+    <p>Chat Data — это платформа чат-ботов с искусственным интеллектом, предлагающая гибкую настройку бэкенда и интерфейса. Создавайте чат-ботов, используя свою базу знаний, настраиваемые конечные точки или модели Chat Data. Настройте интерфейс чат-бота и выберите белую маркировку. Дополнительные функции включают эскалацию онлайн-чата в стандартных или профессиональных тарифных планах.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Начать работу с Chat Data</b></a>
     <br />
 </div>
 
@@ -135,15 +141,32 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Experience ChatGPT Free Online with OpenAI ChatGPT 4o
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-experience-chatgpt-free-online-with-openai-chatgpt-4o.webp" alt="Experience ChatGPT Free Online with OpenAI ChatGPT 4o">
+### PhoText
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-photext.webp" alt="PhoText">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/experience-chatgpt-free-online-with-openai-chatgpt-4o?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Experience ChatGPT Free Online with OpenAI ChatGPT 4o
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-experience-chatgpt-free-online-with-openai-chatgpt-4o.webp" alt="Experience ChatGPT Free Online with OpenAI ChatGPT 4o">
+
+#### Бесплатный GPT-4o и чат GPT 3.5 онлайн — без входа в систему!
+
+
+[Visit](https://thataicollection.com/redirect/experience-chatgpt-free-online-with-openai-chatgpt-4o?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Представляем Aichatonline.org — ваше главное место для бесплатного и удобного доступа к GPT-4o и ChatGPT 3.5!
+🌟 На сайте AichatOnline.org вы сможете ощутить всю мощь GPT-4o и ChatGPT 3.5 без каких-либо загрузок или регистрации. Просто зайдите на сайт и наслаждайтесь высококачественными разговорами с искусственным интеллектом. Наша платформа, идеально подходящая для быстрых ответов, творческих идей или увлекательных чатов, предлагает все это с легкостью.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/experience-chatgpt-free-online-with-openai-chatgpt-4o?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -237,24 +260,6 @@ ProtoUI похож на ChatGPT, но предназначен для фронт
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/protoui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Hautech.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hautech-ai.webp" alt="Hautech.ai">
-
-#### Наденьте одежду на разные модели и фоны и получайте потрясающие модные фотографии с помощью искусственного интеллекта
-
-
-[Visit](https://thataicollection.com/redirect/hautech-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Наденьте одежду на разные модели и фоны и получайте потрясающие модные фотографии с помощью искусственного интеллекта.
-
-Создавайте потрясающие модные фотографии с помощью искусственного интеллекта, размещая одежду на разных моделях и фонах 
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/hautech-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
