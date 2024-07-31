@@ -60,12 +60,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>पैराफ़्रेसिंग टूल - सर्वश्रेष्ठ मुफ़्त ऑनलाइन पैराफ़्रेज़र - Wordfixerbot</h4>
-    <p>WordFixerBot का पैराफ़्रेसिंग टूल किसी भी टेक्स्ट, वाक्य, लेख, पैराग्राफ, पेपर या दस्तावेज़ों को तुरंत और सटीक तरीके से फिर से लिखने में तुम्हारी मदद करने के लिए एकदम सही टूल है। अभी शुरू करो और अपने लेखन को सबसे अलग बनाओ!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>के साथ आरंभ करें Wordfixerbot</b></a>
+    <h4>AIApply: नौकरी खोजने वालों के लिए AI टूल, ताकि बेहतरीन एप्लीकेशन तैयार किया जा सके</h4>
+    <p>AIApply AI टूल का एक डायनामिक सूट है, जिसे नौकरी तलाशने वालों को सशक्त बनाने के लिए डिज़ाइन किया गया है। यह नौकरी की आवेदन प्रक्रिया को आसान बनाता है, रिज़्यूमे की गुणवत्ता को बढ़ाता है, साक्षात्कारों के लिए तैयार करता है और करियर के सबसे अच्छे अवसरों की पहचान करता है। AIApply नौकरी खोजने की रणनीतियों को वैयक्तिकृत करता है, यह सुनिश्चित करता है कि यूज़र प्रतिस्पर्धी बाज़ारों में अलग दिखें। यह उन लोगों के लिए ज़रूरी टूल है जो AI की मदद से अपने करियर की राह में तेज़ी लाना चाहते हैं।</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>के साथ आरंभ करें AiApply</b></a>
     <br />
 </div>
 
@@ -135,15 +135,32 @@
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### PhoText
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-photext.webp" alt="PhoText">
+### Wedspeech AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wedspeech-ai.webp" alt="Wedspeech AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/wedspeech-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/wedspeech-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### PhoText
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-photext.webp" alt="PhoText">
+
+#### फ़ोटेक्स्ट - इमेज में टेक्स्ट ऑनलाइन एडिट/जोड़ें/हटाएँ 
+
+
+[Visit](https://thataicollection.com/redirect/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+इमेज में टेक्स्ट एडिट/जोड़ने/हटाने का सबसे आसान तरीका, बिना पीएस स्किल्स की ज़रूरत के, इसे बदलने के लिए बस इमेज के टेक्स्ट पर क्लिक करें।
+
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -239,22 +256,6 @@ SvelteLaunch सिर्फ़ एक बॉयलरप्लेट नही�
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/screenshotmagic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### ProtoUI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-protoui.webp" alt="ProtoUI">
-
-#### ProtoUI - कुछ ही सेकंड में रेस्पॉन्सिव UI कोड बनाएं
-
-
-[Visit](https://thataicollection.com/redirect/protoui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ProtoUI ChatGPT की तरह है, लेकिन फ़्रंटएंड डेवलपर्स के लिए है। ProtoUI तुम्हारे संकेतों का पालन करेगा और अनुरोधित UI को तुरंत रेंडर करेगा। अपने UI के बारे में बताएं, रेस्पॉन्सिव फ़्रंटएंड कोड जेनरेट करें, इसे अपने ऐप में कॉपी और पेस्ट करें
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/protoui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
