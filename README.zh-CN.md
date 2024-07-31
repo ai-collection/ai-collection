@@ -60,26 +60,30 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>在 AI 的帮助下制作完美的简历</h4>
-    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
+    <h4>全天候自定义 AI 聊天机器人加上实时聊天升级</h4>
+    <p>Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>借助我们的求职AI找到理想的工作。每周自动申请数百个工程职位！加入 ApplyPass 获得 100 个免费应用程序。</h4>
-    <p>ApplyPass是一款由人工智能驱动的求职工具，可以让你获得更多的求职面试。ApplyPass每月代表你提交200-400份量身定制的求职申请。该工具免费提供前100份求职申请。
-
-ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行业平均水平高40％。</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>开始使用 ApplyPass</b></a>
+    <h4>StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案</h4>
+    <p>StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>开始使用 StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -137,15 +141,32 @@ ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行�
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Oliv AI - Copilot for the modern sales manager
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chery-yadvendu.webp" alt="Oliv AI - Copilot for the modern sales manager">
+### Panem
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-panem.webp" alt="Panem">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/oliv-ai-copilot-for-the-modern-sales-manager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Oliv AI - Copilot for the modern sales manager
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chery-yadvendu.webp" alt="Oliv AI - Copilot for the modern sales manager">
+
+#### Oliv AI-现代销售经理的副驾驶
+
+
+[Visit](https://thataicollection.com/redirect/oliv-ai-copilot-for-the-modern-sales-manager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Oliv 通过无与伦比的渠道可见性、每日交易指导和量身定制的代表辅导，消除了预测通话压力。与您的 CRM 无缝同步并更新 BANT/MEDDIC 记分卡，确保您的销售管理策略的信心和准确性。
+
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/oliv-ai-copilot-for-the-modern-sales-manager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,23 +254,6 @@ CommentGuard 是一款人工智能驱动的 Facebook 和 Instagram 评论审核�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Experience ChatGPT Free Online with OpenAI ChatGPT 4o
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-experience-chatgpt-free-online-with-openai-chatgpt-4o.webp" alt="Experience ChatGPT Free Online with OpenAI ChatGPT 4o">
-
-#### 免费 GPT-4O 和 ChatGPT 3.5 Online — 无需登录！
-
-
-[Visit](https://thataicollection.com/redirect/experience-chatgpt-free-online-with-openai-chatgpt-4o?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-推出 AichatOnline.org — 免费无缝访问 GPT-4O 和 ChatGPT 3.5 的首选目的地！
-🌟 在 AichatOnline.org，无需下载或注册即可体验 GPT-4O 和 ChatGPT 3.5 的强大功能。只需访问该网站即可享受高质量的人工智能对话。我们的平台可轻松提供所有内容，非常适合快速回答、创造性想法或进行引人入胜的聊天。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/experience-chatgpt-free-online-with-openai-chatgpt-4o?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

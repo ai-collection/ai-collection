@@ -145,6 +145,22 @@ Select and download your favorites from your results—they''re indistinguishabl
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Panem
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-panem.webp" alt="Panem">
+
+#### Panem an AI Powered SaaS Spend Management
+
+
+[Visit](https://thataicollection.com/redirect/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Don't let your budget be wasted on unnecessary SaaS subscriptions - Panem is here to help you take control. Our cutting-edge solution streamlines your spending, ensuring you're not throwing money at services that drain your financial resources.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Oliv AI - Copilot for the modern sales manager
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chery-yadvendu.webp" alt="Oliv AI - Copilot for the modern sales manager">
 
@@ -242,23 +258,6 @@ The easiest way to edit/add/remove text in image, simply click on the text in im
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Experience ChatGPT Free Online with OpenAI ChatGPT 4o
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-experience-chatgpt-free-online-with-openai-chatgpt-4o.webp" alt="Experience ChatGPT Free Online with OpenAI ChatGPT 4o">
-
-#### Free GPT-4o & ChatGPT 3.5Online – No Log In!
-
-
-[Visit](https://thataicollection.com/redirect/experience-chatgpt-free-online-with-openai-chatgpt-4o?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Introducing AIChatOnline.org – your premier destination for free, seamless access to GPT-4o and ChatGPT 3.5!
-🌟 At AIChatOnline.org, experience the power of GPT-4o and ChatGPT 3.5 without any downloads or sign-ups. Simply visit the site and enjoy high-quality AI conversations. Perfect for quick answers, creative ideas, or engaging chats, our platform offers it all with ease.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/experience-chatgpt-free-online-with-openai-chatgpt-4o?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

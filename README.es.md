@@ -60,24 +60,24 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
-    </a>
-    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
-    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
     <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
     <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
     <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    </a>
+    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
+    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -135,15 +135,32 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Oliv AI - Copilot for the modern sales manager
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chery-yadvendu.webp" alt="Oliv AI - Copilot for the modern sales manager">
+### Panem
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-panem.webp" alt="Panem">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/oliv-ai-copilot-for-the-modern-sales-manager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Oliv AI - Copilot for the modern sales manager
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chery-yadvendu.webp" alt="Oliv AI - Copilot for the modern sales manager">
+
+#### Oliv AI: Copiloto para el director de ventas moderno
+
+
+[Visit](https://thataicollection.com/redirect/oliv-ai-copilot-for-the-modern-sales-manager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Oliv elimina el estrés de las llamadas previstas con una visibilidad inigualable de los procesos, una orientación diaria sobre las ofertas y un entrenamiento de representantes personalizado. Se sincroniza sin problemas con tu CRM y actualiza los cuadros de mando de BANT/MEDDIC, lo que garantiza la confianza y la precisión en tu estrategia de gestión de ventas.
+
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/oliv-ai-copilot-for-the-modern-sales-manager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -231,23 +248,6 @@ La forma más fácil de editar, añadir o eliminar texto en la imagen es hacer c
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Experience ChatGPT Free Online with OpenAI ChatGPT 4o
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-experience-chatgpt-free-online-with-openai-chatgpt-4o.webp" alt="Experience ChatGPT Free Online with OpenAI ChatGPT 4o">
-
-#### GPT-4o y ChatGPT 3.5 gratis en línea, ¡sin iniciar sesión!
-
-
-[Visit](https://thataicollection.com/redirect/experience-chatgpt-free-online-with-openai-chatgpt-4o?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Presentamos AichatOnline.org, ¡tu principal destino con acceso gratuito y sin problemas a GPT-4o y ChatGPT 3.5!
-🌟 En AichatOnline.org, disfruta de la potencia de GPT-4o y ChatGPT 3.5 sin descargas ni registros. Simplemente visita el sitio y disfruta de conversaciones de IA de alta calidad. Perfecta para respuestas rápidas, ideas creativas o charlas interesantes, nuestra plataforma lo ofrece todo con facilidad.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/experience-chatgpt-free-online-with-openai-chatgpt-4o?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
