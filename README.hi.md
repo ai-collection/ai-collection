@@ -60,30 +60,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>AI की थोड़ी मदद से, एकदम सही रिज़्यूमे तैयार करें</h4>
-    <p>तुम्हेंं जल्दी और आसानी से ऐसा रिज्यूम बनाने के लिए, जो तुम्हारे काम के अनुभव को सटीक रूप से दर्शाता हो, एक पेशेवर रेज़्यूमे लेखक होने की ज़रूरत नहीं है। हंटर का कस्टमाइज़ किया जा सकने वाला AI रिज्यूमे बिल्डर तुम्हेंं और इंटरव्यू देने में मदद करने के लिए एक अच्छी तरह से लिखा हुआ, एटीएस-अनुकूल रिज्यूमे तैयार करने में मदद करेगा।</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>के साथ आरंभ करें Huntr AI Resume Builder</b></a>
+    <h4>कॉर्पोरेट हेडशॉट्स AI: AI के साथ कॉर्पोरेट पोर्ट्रेट्स में क्रांति लाना</h4>
+    <p>www.CorporateHeadshots.ai के साथ प्रोफ़ेशनल फ़ोटोग्राफ़ी के भविष्य का अनुभव करें। हमारा एआई-चालित प्लेटफ़ॉर्म तुम्हारी सेल्फी को सुंदर, कॉर्पोरेट-मानक हेडशॉट में बदल देता है, जिससे पेशेवर तस्वीरें हर किसी के लिए, हर जगह सुलभ और आसान हो जाती हैं।</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>के साथ आरंभ करें Corporate Headshots AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>24/7 कस्टम AI चैटबोट और लाइव चैट एस्केलेशन</h4>
-    <p>चैट डेटा एक AI चैटबॉट प्लेटफ़ॉर्म है, जो सुविधाजनक बैकएंड और फ़्रंटएंड कस्टमाइज़ेशन की सुविधा देता है। अपने नॉलेज बेस, कस्टम एंडपॉइंट या चैट डेटा के मॉडल का इस्तेमाल करके चैटबॉट बनाएं। चैटबोट इंटरफ़ेस को कस्टमाइज़ करें और वाइट लेबलिंग का विकल्प चुनें। अतिरिक्त सुविधाओं में स्टैण्डर्ड या प्रोफ़ेशनल प्लान में लाइव चैट एस्केलेशन शामिल है।
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>के साथ आरंभ करें Chat Data</b></a>
+    <h4>पैराफ़्रेसिंग टूल - सर्वश्रेष्ठ मुफ़्त ऑनलाइन पैराफ़्रेज़र - Wordfixerbot</h4>
+    <p>WordFixerBot का पैराफ़्रेसिंग टूल किसी भी टेक्स्ट, वाक्य, लेख, पैराग्राफ, पेपर या दस्तावेज़ों को तुरंत और सटीक तरीके से फिर से लिखने में तुम्हारी मदद करने के लिए एकदम सही टूल है। अभी शुरू करो और अपने लेखन को सबसे अलग बनाओ!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>के साथ आरंभ करें Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -141,15 +135,31 @@
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### Panem
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-panem.webp" alt="Panem">
+### CobeAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cobeai.webp" alt="CobeAI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/cobeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/cobeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Panem
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-panem.webp" alt="Panem">
+
+#### पैनेम और AI द्वारा संचालित SaaS खर्च प्रबंधन
+
+
+[Visit](https://thataicollection.com/redirect/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+अनावश्यक SaaS सदस्यताओं पर अपना बजट बर्बाद न होने दें - Panem तुम्हेंं नियंत्रण में मदद करने के लिए है। हमारा अत्याधुनिक समाधान तुम्हारे ख़र्चों को आसान बनाता है, यह सुनिश्चित करता है कि तुम उन सेवाओं पर पैसा नहीं फेंक रहे हो जो तुम्हारे वित्तीय संसाधनों को बर्बाद कर देती हैं।
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -237,23 +247,6 @@ Wedspeech.AI में आपका स्वागत है, जहाँ ह�
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/wedspeech-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### PhoText
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-photext.webp" alt="PhoText">
-
-#### फ़ोटेक्स्ट - इमेज में टेक्स्ट ऑनलाइन एडिट/जोड़ें/हटाएँ 
-
-
-[Visit](https://thataicollection.com/redirect/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-इमेज में टेक्स्ट एडिट/जोड़ने/हटाने का सबसे आसान तरीका, बिना पीएस स्किल्स की ज़रूरत के, इसे बदलने के लिए बस इमेज के टेक्स्ट पर क्लिक करें।
-
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
