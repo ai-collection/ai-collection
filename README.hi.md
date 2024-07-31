@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1689" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1691" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -60,24 +60,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>कॉर्पोरेट हेडशॉट्स AI: AI के साथ कॉर्पोरेट पोर्ट्रेट्स में क्रांति लाना</h4>
-    <p>www.CorporateHeadshots.ai के साथ प्रोफ़ेशनल फ़ोटोग्राफ़ी के भविष्य का अनुभव करें। हमारा एआई-चालित प्लेटफ़ॉर्म तुम्हारी सेल्फी को सुंदर, कॉर्पोरेट-मानक हेडशॉट में बदल देता है, जिससे पेशेवर तस्वीरें हर किसी के लिए, हर जगह सुलभ और आसान हो जाती हैं।</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>के साथ आरंभ करें Corporate Headshots AI</b></a>
+    <h4>एकमात्र प्रॉडक्शन-तैयार AI-संचालित कोड जनरेशन</h4>
+    <p>जोवू: एकमात्र AI प्लेटफ़ॉर्म, जो 4 मिनट में आइडिया को प्रोडक्शन-रेडी कोड में बदल देता है। अपने बैकएंड अनुप्रयोगों के डेवलपमेंट को स्वचालित करें, ताकि बड़े पैमाने पर बनाए गए कोड के साथ निरंतरता, पूर्वानुमान और उच्चतम मानकों का पालन किया जा सके।</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>के साथ आरंभ करें Jovu by Amplication</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>पैराफ़्रेसिंग टूल - सर्वश्रेष्ठ मुफ़्त ऑनलाइन पैराफ़्रेज़र - Wordfixerbot</h4>
-    <p>WordFixerBot का पैराफ़्रेसिंग टूल किसी भी टेक्स्ट, वाक्य, लेख, पैराग्राफ, पेपर या दस्तावेज़ों को तुरंत और सटीक तरीके से फिर से लिखने में तुम्हारी मदद करने के लिए एकदम सही टूल है। अभी शुरू करो और अपने लेखन को सबसे अलग बनाओ!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>के साथ आरंभ करें Wordfixerbot</b></a>
+    <h4>कॉर्पोरेट हेडशॉट्स AI: AI के साथ कॉर्पोरेट पोर्ट्रेट्स में क्रांति लाना</h4>
+    <p>www.CorporateHeadshots.ai के साथ प्रोफ़ेशनल फ़ोटोग्राफ़ी के भविष्य का अनुभव करें। हमारा एआई-चालित प्लेटफ़ॉर्म तुम्हारी सेल्फी को सुंदर, कॉर्पोरेट-मानक हेडशॉट में बदल देता है, जिससे पेशेवर तस्वीरें हर किसी के लिए, हर जगह सुलभ और आसान हो जाती हैं।</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>के साथ आरंभ करें Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -135,15 +135,31 @@
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### CobeAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cobeai.webp" alt="CobeAI">
+### Chatim
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatim.webp" alt="Chatim">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/cobeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/chatim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/chatim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### CobeAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cobeai.webp" alt="CobeAI">
+
+####  तुम्हारा ऑल-इन-वन AI कॉन्टेंट क्रिएशन प्लेटफ़ॉर्म
+
+
+[Visit](https://thataicollection.com/redirect/cobeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ CobeAI, एक व्यापक AI प्लेटफ़ॉर्म जो तुम्हारे कॉन्टेंट बनाने और टास्क को स्वचालित करने के तरीके को फिर से परिभाषित करता है। CoBeAI कई तरह की ज़रूरतों को पूरा करने वाले उपकरणों का एक सूट पेश करने के लिए GPT-4o, StabilityAI, Dalle-E, और Google TTS जैसी अत्याधुनिक AI तकनीकों की ताकत का इस्तेमाल करता है।
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/cobeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -231,22 +247,6 @@ null
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/musichero-ai-free-ai-music-generator-from-text-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Wedspeech AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wedspeech-ai.webp" alt="Wedspeech AI">
-
-#### Wedspeech.AI के साथ शादी के वैयक्तिकृत भाषण आसानी से तैयार करें
-
-
-[Visit](https://thataicollection.com/redirect/wedspeech-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Wedspeech.AI में आपका स्वागत है, जहाँ हम तुम्हेंं शादी के लिए बेहतरीन भाषण आसानी से तैयार करने में मदद करते हैं। चाहे तुम सबसे अच्छे इंसान हो, नौकरानी हो, दुल्हन के पिता हो, या कोई भी दिल को छू लेने वाला भाषण देना चाहता हो, हमारा AI- चालित टूल यह पक्का करेगा कि तुम्हारे शब्दों की एक स्थायी छाप रहे।
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/wedspeech-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
