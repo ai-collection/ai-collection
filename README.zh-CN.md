@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1689" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1691" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -60,26 +60,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
-    </a>
-    <h4>借助我们的求职AI找到理想的工作。每周自动申请数百个工程职位！加入 ApplyPass 获得 100 个免费应用程序。</h4>
-    <p>ApplyPass是一款由人工智能驱动的求职工具，可以让你获得更多的求职面试。ApplyPass每月代表你提交200-400份量身定制的求职申请。该工具免费提供前100份求职申请。
-
-ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行业平均水平高40％。</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>开始使用 ApplyPass</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
     <h4>唯一一款支持量产的 AI 驱动的代码生成</h4>
     <p>Jovu：唯一一个在 4 分钟内将想法转化为生产就绪代码的人工智能平台。使用可扩展的代码实现后端应用程序开发自动化，确保一致性、可预测性并遵守最高标准。</p>
     <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>开始使用 Jovu by Amplication</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    </a>
+    <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
+    <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -137,15 +135,31 @@ ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行�
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### CobeAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cobeai.webp" alt="CobeAI">
+### Chatim
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatim.webp" alt="Chatim">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/cobeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/chatim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/chatim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### CobeAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cobeai.webp" alt="CobeAI">
+
+####  您的多合一 AI 内容创作平台
+
+
+[Visit](https://thataicollection.com/redirect/cobeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ CobeAI，一个全面的人工智能平台，重新定义了您创建内容和自动执行任务的方式。CobeAI利用GPT-4o、StabilityAI、Dalle-E和谷歌TTS等尖端人工智能技术的力量，提供了一套满足广泛需求的工具。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/cobeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,22 +247,6 @@ CommentGuard 是一款人工智能驱动的 Facebook 和 Instagram 评论审核�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/musichero-ai-free-ai-music-generator-from-text-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Wedspeech AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wedspeech-ai.webp" alt="Wedspeech AI">
-
-#### 使用 Wedspeech.AI 轻松制作个性化婚礼演讲
-
-
-[Visit](https://thataicollection.com/redirect/wedspeech-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-欢迎来到 Wedspeech.AI，在这里我们可以帮助您轻松制作完美的婚礼演讲。无论你是伴郎、伴娘、新娘之父，还是任何想发表感人演讲的人，我们的人工智能驱动工具都将确保你的话给人留下持久的印象。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/wedspeech-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
