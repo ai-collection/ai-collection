@@ -60,24 +60,30 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>在 AI 的帮助下制作完美的简历</h4>
-    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
+    <h4>全天候自定义 AI 聊天机器人加上实时聊天升级</h4>
+    <p>Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案</h4>
-    <p>StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>开始使用 StickerIt.AI</b></a>
+    <h4>在 AI 的帮助下制作完美的简历</h4>
+    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -135,15 +141,34 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### MusicHero.ai: Free AI Music Generator from Text Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-musichero-ai-free-ai-music-generator-from-text-online.webp" alt="MusicHero.ai: Free AI Music Generator from Text Online">
+### CommentGuard
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-commentguard.webp" alt="CommentGuard">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/musichero-ai-free-ai-music-generator-from-text-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/commentguard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/commentguard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### MusicHero.ai: Free AI Music Generator from Text Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-musichero-ai-free-ai-music-generator-from-text-online.webp" alt="MusicHero.ai: Free AI Music Generator from Text Online">
+
+#### MusicHero.ai：来自 Text Online 的免费 AI 音乐生成器
+
+
+[Visit](https://thataicollection.com/redirect/musichero-ai-free-ai-music-generator-from-text-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+🚀 推出 MusicHero.ai — 使用我们尖端的人工智能音乐生成器将您的文本转换为音乐！
+🎵 为什么 MusicHero.ai？
+-免费在线访问：🌐 免费在线享受最好的 AI 音乐生成器，无需下载或注册即可创建高质量的曲目。
+-先进的 Suno V3.5 技术：🤖 利用 Suno V3.5，我们的文本人工智能音乐生成器可在几秒钟内生成专业级音乐。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/musichero-ai-free-ai-music-generator-from-text-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -235,25 +260,6 @@ Videomaker.me是一个免费的在线平台，可让您从任何地方创建精�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/video-maker-free-online-powered-by-luma-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### SvelteLaunch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sveltelaunch.webp" alt="SvelteLaunch">
-
-#### 用于快速构建 AI 应用程序的 Svelte 5 样板
-
-
-[Visit](https://thataicollection.com/redirect/sveltelaunch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SvelteLaunch 是一款 Svelte 5 Boilerplate，可快速开始构建新的 SaaS 和 AI 应用程序。
-
-
-SvelteLaunch 不仅仅是一个样板；它是一个全面的工具包，旨在帮助您快速交付高质量的 SaaS 和 AI 应用程序。有了终身支持和访问Discord社区的机会，您在开发之旅中永远不会孤单。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/sveltelaunch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
