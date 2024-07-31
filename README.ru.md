@@ -60,30 +60,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения</h4>
-    <p>AiApply — это динамичный набор инструментов искусственного интеллекта, разработанный для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявления о приеме на работу, повышает качество резюме, готовит к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, обеспечивая пользователям возможность выделиться на конкурентных рынках. Это важный инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интел</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Начать работу с AiApply</b></a>
+    <h4>Единственная готовая к производству генерация кода на основе искусственного интеллекта</h4>
+    <p>Jovu: единственная платформа искусственного интеллекта, превращающая идеи в готовый к производству код за 4 минуты. Автоматизируйте разработку серверных приложений, обеспечивая согласованность, предсказуемость и соответствие самым высоким стандартам с помощью масштабируемого кода.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Начать работу с Jovu by Amplication</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>Настраиваемый чат-бот с искусственным интеллектом, работающий круглосуточно и без выходных</h4>
-    <p>Chat Data — это платформа чат-ботов с искусственным интеллектом, предлагающая гибкую настройку бэкенда и интерфейса. Создавайте чат-ботов, используя свою базу знаний, настраиваемые конечные точки или модели Chat Data. Настройте интерфейс чат-бота и выберите белую маркировку. Дополнительные функции включают эскалацию онлайн-чата в стандартных или профессиональных тарифных планах.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Начать работу с Chat Data</b></a>
+    <h4>Инструмент для перефразирования - лучший бесплатный онлайн-парафразировщик - Wordfixerbot</h4>
+    <p>Инструмент перефразирования WordFixerBot — идеальный инструмент, который поможет вам быстро и точно перефразировать любые тексты, предложения, статьи, абзацы, статьи или документы. Начните прямо сейчас и сделайте свой текст незабываемым!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Начать работу с Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -141,15 +135,32 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### PhoText
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-photext.webp" alt="PhoText">
+### Wedspeech AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wedspeech-ai.webp" alt="Wedspeech AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/wedspeech-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/wedspeech-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### PhoText
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-photext.webp" alt="PhoText">
+
+#### Photext - редактировать/добавлять/удалять текст на изображении онлайн 
+
+
+[Visit](https://thataicollection.com/redirect/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Самый простой способ редактировать/добавлять/удалять текст на изображении: просто нажмите на текст на изображении, чтобы изменить его, не требуя навыков работы с PS.
+
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -244,22 +255,6 @@ ScreenshotMagic — это приложение для Mac, призванное
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/screenshotmagic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### ProtoUI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-protoui.webp" alt="ProtoUI">
-
-#### ProtoUI - создайте адаптивный код пользовательского интерфейса за считанные секунды
-
-
-[Visit](https://thataicollection.com/redirect/protoui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ProtoUI похож на ChatGPT, но предназначен для фронтенд-разработчиков. ProtoUI примет ваши запросы и мгновенно отобразит запрошенный пользовательский интерфейс. Опишите свой пользовательский интерфейс, создайте адаптивный код интерфейса, скопируйте и вставьте его в свое приложение
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/protoui?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
