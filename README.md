@@ -70,24 +70,32 @@ Select and download your favorites from your results—they''re indistinguishabl
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
-    <p>WordfixerBot''s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Get Started with Wordfixerbot</b></a>
+    <h4>Land your ideal job with our job application AI. Automatically apply to hundreds of engineering jobs every week! Join ApplyPass to get 100 free applications.</h4>
+    <p>ApplyPass is an AI-powered job search tool that gets you more job interviews. ApplyPass submits 200-400 tailored job applications on your behalf every month. This tool offers the first 100 job applications for free.
+
+ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that''s 40% higher than the industry average.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Get Started with ApplyPass</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>The only production-ready AI-powered code generation</h4>
-    <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
+    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
+    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
     <br />
 </div>
 
@@ -145,6 +153,22 @@ Select and download your favorites from your results—they''re indistinguishabl
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### CobeAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cobeai.webp" alt="CobeAI">
+
+####  Your All-in-One AI Content Creation Platform
+
+
+[Visit](https://thataicollection.com/redirect/cobeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ CobeAI, a comprehensive AI platform that redefines the way you create content and automate tasks. CobeAI harnesses the power of cutting-edge AI technologies like GPT-4o, StabilityAI, Dalle-E, and Google TTS to offer a suite of tools that cater to a wide range of needs.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/cobeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Panem
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-panem.webp" alt="Panem">
 
@@ -241,23 +265,6 @@ Welcome to Wedspeech.AI, where we help you craft the perfect wedding speech effo
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/wedspeech-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### PhoText
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-photext.webp" alt="PhoText">
-
-#### Photext - edit/add/remove text in image online 
-
-
-[Visit](https://thataicollection.com/redirect/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-The easiest way to edit/add/remove text in image, simply click on the text in image to change it, without needing PS skills.
-
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

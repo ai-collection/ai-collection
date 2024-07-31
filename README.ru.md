@@ -60,24 +60,30 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Инструмент для перефразирования - лучший бесплатный онлайн-парафразировщик - Wordfixerbot</h4>
-    <p>Инструмент перефразирования WordFixerBot — идеальный инструмент, который поможет вам быстро и точно перефразировать любые тексты, предложения, статьи, абзацы, статьи или документы. Начните прямо сейчас и сделайте свой текст незабываемым!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Начать работу с Wordfixerbot</b></a>
+    <h4>Настраиваемый чат-бот с искусственным интеллектом, работающий круглосуточно и без выходных</h4>
+    <p>Chat Data — это платформа чат-ботов с искусственным интеллектом, предлагающая гибкую настройку бэкенда и интерфейса. Создавайте чат-ботов, используя свою базу знаний, настраиваемые конечные точки или модели Chat Data. Настройте интерфейс чат-бота и выберите белую маркировку. Дополнительные функции включают эскалацию онлайн-чата в стандартных или профессиональных тарифных планах.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Начать работу с Chat Data</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
-    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
+    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
+    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -135,15 +141,31 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Panem
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-panem.webp" alt="Panem">
+### CobeAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cobeai.webp" alt="CobeAI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/cobeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/cobeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Panem
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-panem.webp" alt="Panem">
+
+#### Управление расходами SaaS на основе Panem и искусственного интеллекта
+
+
+[Visit](https://thataicollection.com/redirect/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Не тратьте свой бюджет на ненужные подписки SaaS — Panem поможет вам взять все под контроль. Наше передовое решение упрощает ваши расходы, гарантируя, что вы не тратите деньги на услуги, которые истощают ваши финансовые ресурсы.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -231,23 +253,6 @@ CommentGuard — это инструмент модерации коммента
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/wedspeech-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### PhoText
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-photext.webp" alt="PhoText">
-
-#### Photext - редактировать/добавлять/удалять текст на изображении онлайн 
-
-
-[Visit](https://thataicollection.com/redirect/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Самый простой способ редактировать/добавлять/удалять текст на изображении: просто нажмите на текст на изображении, чтобы изменить его, не требуя навыков работы с PS.
-
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

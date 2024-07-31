@@ -60,24 +60,24 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
-    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
+    <h4>La única generación de código basada en IA lista para producción</h4>
+    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
-    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
+    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
+    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -135,15 +135,31 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Panem
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-panem.webp" alt="Panem">
+### CobeAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cobeai.webp" alt="CobeAI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/cobeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/cobeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Panem
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-panem.webp" alt="Panem">
+
+#### Panem, una gestión de gastos de SaaS basada en inteligencia artificial
+
+
+[Visit](https://thataicollection.com/redirect/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+No dejes que tu presupuesto se desperdicie en suscripciones de SaaS innecesarias. Panem está aquí para ayudarte a tomar el control. Nuestra solución vanguardista agiliza tus gastos y garantiza que no desperdicias dinero en servicios que agotan tus recursos financieros.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -231,23 +247,6 @@ Bienvenido a Wedspeech.AI, donde te ayudamos a crear el discurso de boda perfect
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/wedspeech-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### PhoText
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-photext.webp" alt="PhoText">
-
-#### Photext: editar/añadir/eliminar texto de la imagen en línea 
-
-
-[Visit](https://thataicollection.com/redirect/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-La forma más fácil de editar, añadir o eliminar texto en la imagen es hacer clic en el texto de la imagen para cambiarlo, sin necesidad de conocimientos de PS.
-
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/photext?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
