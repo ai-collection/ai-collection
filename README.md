@@ -70,24 +70,24 @@ Select and download your favorites from your results—they''re indistinguishabl
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>Craft the perfect resume, with a little help from AI</h4>
-    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
+    <h4>Corporate Headshots AI: Revolutionizing Corporate Portraits with AI</h4>
+    <p>Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Get Started with Corporate Headshots AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
-    <p>WordfixerBot''s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Get Started with Wordfixerbot</b></a>
+    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
+    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -145,6 +145,22 @@ Select and download your favorites from your results—they''re indistinguishabl
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Easy Folders
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-easy-folders.webp" alt="Easy Folders">
+
+#### Create Folders, Search Chat History, Bookmark Chats, Create Custom Instructions Profiles + more!
+
+
+[Visit](https://thataicollection.com/redirect/easy-folders?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Easy Folders is the ultimate solution for organizing chats, increasing efficiency, and boosting productivity with its seamless data syncing across multiple devices. This innovative tool offers a plethora of utilities for ChatGPT users, making it a must-have for anyone looking to streamline their chat management experience.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/easy-folders?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### CommentGuard
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-commentguard.webp" alt="CommentGuard">
 
@@ -242,28 +258,6 @@ Flezr is a no-code website builder that lets you create dynamic websites using G
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/flezr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Video Maker Free Online Powered by Luma AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-video-maker-free-online-powered-by-luma-ai.webp" alt="Video Maker Free Online Powered by Luma AI">
-
-#### Video Maker Free Online Powered by Luma AI
-
-
-[Visit](https://thataicollection.com/redirect/video-maker-free-online-powered-by-luma-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-🌍 Free Online Access
-VideoMaker.me is a free online platform, allowing you to create stunning videos from anywhere.
-🌟 AI-Powered Video Creation
-Harness the advanced AI technology of Luma AI to produce professional  videos easily.
-📈 Perfect for All Skill Levels
-Designed for everyone, our platform requires no prior editing skills. Simply input your text or images and let our AI do the rest.
-
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/video-maker-free-online-powered-by-luma-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
