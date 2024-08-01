@@ -78,12 +78,12 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
-    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
+    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
+    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -141,15 +141,33 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Paraphrase tool
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-paraphrase-tool.webp" alt="Paraphrase tool">
+### joinrise.co
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-joinrise-co.webp" alt="joinrise.co">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/paraphrase-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/joinrise-co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/joinrise-co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Paraphrase tool
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-paraphrase-tool.webp" alt="Paraphrase tool">
+
+#### ParafraseTool.online es una herramienta gratuita de paráfrasis en línea que ayuda a los escritores a reformular frases, párrafos, artículos y ensayos
+
+
+[Visit](https://thataicollection.com/redirect/paraphrase-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Parafrasear es el acto de reafirmar las ideas o el significado de un texto con diferentes palabras. Esta técnica es esencial en la redacción de investigaciones, en los blogs y en los trabajos académicos.
+
+
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/paraphrase-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -234,22 +252,6 @@ Oliv elimina el estrés de las llamadas previstas con una visibilidad inigualabl
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/oliv-ai-copilot-for-the-modern-sales-manager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Easy Folders
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-easy-folders.webp" alt="Easy Folders">
-
-#### Crea carpetas, busca en el historial de chats, marca chats como favoritos, crea perfiles con instrucciones personalizadas y mucho más.
-
-
-[Visit](https://thataicollection.com/redirect/easy-folders?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Easy Folders es la solución definitiva para organizar los chats, aumentar la eficiencia y aumentar la productividad con una sincronización de datos perfecta en varios dispositivos. Esta innovadora herramienta ofrece un montón de utilidades para los usuarios de ChatGPT, por lo que es imprescindible para cualquiera que quiera optimizar su experiencia de gestión de chats.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/easy-folders?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
