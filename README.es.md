@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1691" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1694" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -60,12 +60,12 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
-    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
+    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
+    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
     <br />
 </div>
 
@@ -141,15 +141,31 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Chatim
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatim.webp" alt="Chatim">
+### Salesably
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-salesably.webp" alt="Salesably">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/chatim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/salesably?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/salesably?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Chatim
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatim.webp" alt="Chatim">
+
+#### Chatbot y chat en vivo gratis para tu empresa
+
+
+[Visit](https://thataicollection.com/redirect/chatim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+El chat en vivo de Chatim es una herramienta poderosa para aumentar la satisfacción de los clientes, aumentar las conversiones y obtener información valiosa sobre el comportamiento de los clientes. El chatbot de Chatim puede gestionar las consultas básicas de atención al cliente, como responder a las preguntas más frecuentes o proporcionar información sobre productos y servicios. Libera a tu personal humano de atención al cliente para que se ocupe de problemas más complejos o prioritarios.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/chatim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -234,25 +250,6 @@ CommentGuard es una herramienta de moderación impulsada por la IA para los come
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/commentguard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### MusicHero.ai: Free AI Music Generator from Text Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-musichero-ai-free-ai-music-generator-from-text-online.webp" alt="MusicHero.ai: Free AI Music Generator from Text Online">
-
-#### MusicHero.ai: Generador de música de IA gratuito de Text Online
-
-
-[Visit](https://thataicollection.com/redirect/musichero-ai-free-ai-music-generator-from-text-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-🚀 Presentamos MusicHero.ai: ¡Transforma tu texto en música con nuestro vanguardista generador de música con IA!
-🎵 ¿Por qué MusicHero.ai?
-- Acceso a Internet gratuito: 🌐 Disfruta del mejor generador de música de IA gratis en Internet, crea canciones de alta calidad sin descargas ni registros.
-- Tecnología Suno V3.5 avanzada: 🤖 Gracias al Suno V3.5, nuestro generador de música con IA a partir de texto, produce música de nivel profesional en segundos.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/musichero-ai-free-ai-music-generator-from-text-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

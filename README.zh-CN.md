@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1691" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1694" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -60,24 +60,30 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>唯一一款支持量产的 AI 驱动的代码生成</h4>
-    <p>Jovu：唯一一个在 4 分钟内将想法转化为生产就绪代码的人工智能平台。使用可扩展的代码实现后端应用程序开发自动化，确保一致性、可预测性并遵守最高标准。</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>开始使用 Jovu by Amplication</b></a>
+    <h4>StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案</h4>
+    <p>StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>开始使用 StickerIt.AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
-    <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
+    <h4>全天候自定义 AI 聊天机器人加上实时聊天升级</h4>
+    <p>Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
     <br />
 </div>
 
@@ -135,15 +141,31 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Chatim
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatim.webp" alt="Chatim">
+### Salesably
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-salesably.webp" alt="Salesably">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/chatim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/salesably?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/salesably?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Chatim
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatim.webp" alt="Chatim">
+
+#### 为您的企业提供免费聊天机器人和在线聊天
+
+
+[Visit](https://thataicollection.com/redirect/chatim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chatim 实时聊天是提高客户满意度、提高转化率和获得对客户行为的宝贵见解的强大工具。Chatim 聊天机器人可以处理基本的客户支持查询，例如回答常见问题或提供有关产品和服务的信息。腾出您的人工客户支持人员来处理更复杂或优先级更高的问题。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/chatim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -228,25 +250,6 @@ CommentGuard 是一款人工智能驱动的 Facebook 和 Instagram 评论审核�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/commentguard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### MusicHero.ai: Free AI Music Generator from Text Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-musichero-ai-free-ai-music-generator-from-text-online.webp" alt="MusicHero.ai: Free AI Music Generator from Text Online">
-
-#### MusicHero.ai：来自 Text Online 的免费 AI 音乐生成器
-
-
-[Visit](https://thataicollection.com/redirect/musichero-ai-free-ai-music-generator-from-text-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-🚀 推出 MusicHero.ai — 使用我们尖端的人工智能音乐生成器将您的文本转换为音乐！
-🎵 为什么 MusicHero.ai？
--免费在线访问：🌐 免费在线享受最好的 AI 音乐生成器，无需下载或注册即可创建高质量的曲目。
--先进的 Suno V3.5 技术：🤖 利用 Suno V3.5，我们的文本人工智能音乐生成器可在几秒钟内生成专业级音乐。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/musichero-ai-free-ai-music-generator-from-text-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
