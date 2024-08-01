@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1694" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1693" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -60,6 +60,18 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 <br>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
+    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -72,18 +84,6 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
-    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -141,15 +141,31 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### joinrise.co
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-joinrise-co.webp" alt="joinrise.co">
+### Humanizar Texto
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto.webp" alt="Humanizar Texto">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/joinrise-co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### joinrise.co
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-joinrise-co.webp" alt="joinrise.co">
+
+#### Rise es un destino profesional de primer nivel y una plataforma de trabajo impulsada por la IA.
+
+
+[Visit](https://thataicollection.com/redirect/joinrise-co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Rise es una bolsa de trabajo moderna impulsada por la IA y un destino profesional para profesiones emergentes de la tecnología y más allá. La plataforma tiene más de 76 000 puestos de trabajo, se actualiza a diario y es una comunidad líder de los talentos más ambiciosos de la actualidad.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/joinrise-co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -235,23 +251,6 @@ No dejes que tu presupuesto se desperdicie en suscripciones de SaaS innecesarias
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Oliv AI - Copilot for the modern sales manager
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chery-yadvendu.webp" alt="Oliv AI - Copilot for the modern sales manager">
-
-#### Oliv AI: Copiloto para el director de ventas moderno
-
-
-[Visit](https://thataicollection.com/redirect/oliv-ai-copilot-for-the-modern-sales-manager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Oliv elimina el estrés de las llamadas previstas con una visibilidad inigualable de los procesos, una orientación diaria sobre las ofertas y un entrenamiento de representantes personalizado. Se sincroniza sin problemas con tu CRM y actualiza los cuadros de mando de BANT/MEDDIC, lo que garantiza la confianza y la precisión en tu estrategia de gestión de ventas.
-
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/oliv-ai-copilot-for-the-modern-sales-manager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

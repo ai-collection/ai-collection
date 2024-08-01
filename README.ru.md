@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1694" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1693" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -72,12 +72,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
-    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
+    <h4>AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения</h4>
+    <p>AiApply — это динамичный набор инструментов искусственного интеллекта, разработанный для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявления о приеме на работу, повышает качество резюме, готовит к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, обеспечивая пользователям возможность выделиться на конкурентных рынках. Это важный инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интел</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Начать работу с AiApply</b></a>
     <br />
 </div>
 
@@ -135,15 +135,31 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### joinrise.co
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-joinrise-co.webp" alt="joinrise.co">
+### Humanizar Texto
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto.webp" alt="Humanizar Texto">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/joinrise-co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### joinrise.co
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-joinrise-co.webp" alt="joinrise.co">
+
+#### Rise — это ведущее место для карьерного роста и платформа для трудоустройства на базе искусственного интеллекта.
+
+
+[Visit](https://thataicollection.com/redirect/joinrise-co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Rise — это современная доска объявлений о вакансиях на базе искусственного интеллекта и место для карьерного роста для новых профессий в сфере технологий и не только. Платформа насчитывает более 76 000 вакансий, обновляется ежедневно и представляет собой ведущее сообщество самых амбициозных талантов современности.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/joinrise-co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,23 +245,6 @@ Salesably.ai — это платформа для поддержки прода�
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Oliv AI - Copilot for the modern sales manager
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chery-yadvendu.webp" alt="Oliv AI - Copilot for the modern sales manager">
-
-#### Oliv AI — второй пилот для современного менеджера по продажам
-
-
-[Visit](https://thataicollection.com/redirect/oliv-ai-copilot-for-the-modern-sales-manager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Oliv избавляет от стресса, связанного с прогнозами, благодаря непревзойденной прозрачности конвейера, ежедневным рекомендациям по сделкам и индивидуальному инструктажу для представителей. Легко синхронизируется с вашей CRM и обновляет оценочные карточки BANT/MEDDIC, обеспечивая уверенность и точность вашей стратегии управления продажами.
-
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/oliv-ai-copilot-for-the-modern-sales-manager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
