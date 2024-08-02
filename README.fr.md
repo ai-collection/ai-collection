@@ -74,12 +74,12 @@ ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
-    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
+    <h4>StickerIt.AI | Solution mobile de création et de vente d'autocollants basée sur l'IA #1</h4>
+    <p>StickerIt.AI est ta meilleure solution pour créer et vendre des autocollants alimentés par l'IA directement depuis ton appareil mobile. Transforme n'importe quel lieu en un atelier d'autocollants dynamique. Avec seulement deux tablettes et une imprimante, tu peux commencer à vendre des autocollants personnalisés en quelques minutes. Notre plateforme est conçue pour gérer ton activité d'autocollants IA à tout moment et en tout lieu.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Démarrer avec StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -137,15 +137,33 @@ ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec 
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### AI Filter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-filter.webp" alt="AI Filter">
+### Hirebase
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hirebase.webp" alt="Hirebase">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/ai-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/hirebase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/hirebase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Filter
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-filter.webp" alt="AI Filter">
+
+#### Filtre IA - Transforme tes photos à l'aide de filtres
+
+
+[Visit](https://thataicollection.com/redirect/ai-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Transforme tes photos en anime, en argile, en 3D, en pixels, en emoji, en jeux vidéo, en autocollants et bien d'autres styles à l'aide de filtres IA.
+
+Inscrivez-vous pour recevoir 20 crédits, et tu pourras souscrire à différents plans pour obtenir plus de crédits.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/ai-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,24 +247,6 @@ Rise est un site d'emploi moderne alimenté par l'IA et une destination de carri
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/joinrise-co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Paraphrase tool
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-paraphrase-tool.webp" alt="Paraphrase tool">
-
-#### ParaphraseTool.online est un outil de paraphrase en ligne gratuit qui aide les rédacteurs à reformuler des phrases, des paragraphes, des articles et des essais
-
-
-[Visit](https://thataicollection.com/redirect/paraphrase-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-La paraphrase consiste à reformuler les idées ou le sens d'un texte en utilisant des mots différents. Cette technique est essentielle pour la rédaction de recherches, les blogs et les articles universitaires.
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/paraphrase-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
