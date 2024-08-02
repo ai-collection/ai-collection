@@ -70,12 +70,12 @@ Select and download your favorites from your results—they''re indistinguishabl
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
-    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It''s an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Get Started with AiApply</b></a>
+    <h4>The only production-ready AI-powered code generation</h4>
+    <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -151,6 +151,22 @@ Select and download your favorites from your results—they''re indistinguishabl
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### MEME Is Game - Best Meme Coins with AI Insights
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-meme-is-game-best-meme-coins-with-ai-insights.webp" alt="MEME Is Game - Best Meme Coins with AI Insights">
+
+#### Discover the latest trends, news, and insights on the world of MEME Coins and cryptocurrencies. Meme Is Game provides the ultimate guide to navigating this exciting new market.
+
+
+[Visit](https://thataicollection.com/redirect/meme-is-game-best-meme-coins-with-ai-insights?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Discover the newest and best meme coins at MEME is Game, featuring AI-powered insights. Stay informed with the latest trends, reviews, and AI analyses of top meme coins, including Hot New Meme Coins and Best Meme Coins.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/meme-is-game-best-meme-coins-with-ai-insights?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### AI Sound Effect Generator
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sound-effect-generator.webp" alt="AI Sound Effect Generator">
 
@@ -245,22 +261,6 @@ Chatim live chat is a powerful tool for boosting customer satisfaction, increasi
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/chatim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### CobeAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cobeai.webp" alt="CobeAI">
-
-####  Your All-in-One AI Content Creation Platform
-
-
-[Visit](https://thataicollection.com/redirect/cobeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
- CobeAI, a comprehensive AI platform that redefines the way you create content and automate tasks. CobeAI harnesses the power of cutting-edge AI technologies like GPT-4o, StabilityAI, Dalle-E, and Google TTS to offer a suite of tools that cater to a wide range of needs.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/cobeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
