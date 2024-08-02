@@ -70,30 +70,24 @@ Select and download your favorites from your results—they''re indistinguishabl
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
-    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
+    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
+    <p>WordfixerBot''s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Get Started with Wordfixerbot</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>The only production-ready AI-powered code generation</h4>
-    <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
+    <h4>Craft the perfect resume, with a little help from AI</h4>
+    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -151,6 +145,24 @@ Select and download your favorites from your results—they''re indistinguishabl
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Hirebase
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hirebase.webp" alt="Hirebase">
+
+#### AI-powered job search engine and job market data provider
+
+
+[Visit](https://thataicollection.com/redirect/hirebase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Hirebase.org is a job search engine that scrapes the internet for live listings from company websites, and organizes them in one place with both an easy to use and extremely powerful search engine at your fingertips. 
+
+Our mission is to build the last job search engine you'll ever use - every job, every company, actually hiring now on the internet.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/hirebase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### AI Filter
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-filter.webp" alt="AI Filter">
 
@@ -245,24 +257,6 @@ Rise is a modern AI powered job board and career destination for emerging profes
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/joinrise-co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Paraphrase tool
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-paraphrase-tool.webp" alt="Paraphrase tool">
-
-#### Paraphrasetool.online is a free online paraphrase tool that helps writers to rephrase sentences, paragraphs, articles, and essays
-
-
-[Visit](https://thataicollection.com/redirect/paraphrase-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Paraphrasing is the act of restating a text's ideas or meaning using different words. This technique is essential in research writing, blogging, and academic papers.
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/paraphrase-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
