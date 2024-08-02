@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1693" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1698" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -60,24 +60,24 @@ Sélectionnez et téléchargez vos favoris à partir de vos résultats : ils so
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
-    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
+    <h4>Corporate Headshots AI : révolutionner les portraits d''entreprise grâce à l''IA</h4>
+    <p>Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l''IA transforme tes selfies en portraits élégants, conformes aux normes de l''entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Démarrer avec Corporate Headshots AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
-    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
+    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
+    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -135,15 +135,31 @@ Sélectionnez et téléchargez vos favoris à partir de vos résultats : ils so
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Humanizar Texto
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto.webp" alt="Humanizar Texto">
+### AI Sound Effect Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sound-effect-generator.webp" alt="AI Sound Effect Generator">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Humanizar Texto
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto.webp" alt="Humanizar Texto">
+
+#### Humanizar Texto - Un outil d'humanisation des textes basé sur l'IA optimisé pour les langues mineures, telles que l'espagnol et le portugais.
+
+
+[Visit](https://thataicollection.com/redirect/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Découvrez la puissance d'Humanizar Texto, un outil avancé d'humanisation de textes IA spécialement conçu pour l'espagnol et le portugais. Cet outil innovant garantit que ton contenu ne se distingue pas du texte écrit par un humain. Humanizar Texto peut facilement contourner les détecteurs d'IA tels que ZeroGPT, GPTZero, OpenAI Detector et Copyscape, rendant ainsi ton texte indétectable, même par les systèmes les plus sophistiqués.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,22 +245,6 @@ Le chat en direct de Chatim est un outil puissant qui permet d'améliorer la sat
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/cobeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Panem
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-panem.webp" alt="Panem">
-
-#### Panem, une solution SaaS de gestion des dépenses basée sur l'IA
-
-
-[Visit](https://thataicollection.com/redirect/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ne gaspille pas ton budget sur des abonnements SaaS inutiles. Panem est là pour t'aider à prendre le contrôle. Notre solution de pointe rationalise tes dépenses, en t'assurant de ne pas investir d'argent dans des services qui épuisent tes ressources financières.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3294,6 +3294,23 @@ Le chatbot Nextpart.ai améliore ton expérience de chat grâce à des scénario
 <br />
 
 
+### PornGen
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
+
+#### PornGen est une plateforme avancée basée sur l'IA qui permet aux utilisateurs de créer des images NSFW détaillées, réalistes et de haute qualité. 
+
+
+[Visit](https://thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PornGen est une plateforme basée sur l'IA spécialisée dans la création de contenus pour adultes à l'aide de techniques avancées de génération d'images. Il produit des images NSFW qui répondent à un large éventail de préférences des utilisateurs. Les utilisateurs interagissent avec PornGen en fournissant des instructions textuelles ou en sélectionnant des tags spécifiques qui décrivent le résultat souhaité, comme la morphologie, les actions ou les styles vestimentaires.
+
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### undressing io
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-martin.webp" alt="undressing io">
 
@@ -3306,23 +3323,6 @@ Meilleure nouvelle technologie de déshabillage IA GRATUITE ! Se déshabiller g
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Undress AI undresser
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-ai-undresser.webp" alt="Undress AI undresser">
-
-#### Application Undress AI - Créez des images de Deepnude GRATUITEMENT - Undress Pro
-
-
-
-[Visit](https://thataicollection.com/redirect/undress-ai-undresser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Découvrez Undress AI Undresser, l'application ultime basée sur l'IA qui permet de créer de superbes photos de nu en quelques secondes. Grâce à notre technologie avancée d'intelligence artificielle Deepnude, tu peux facilement transformer n'importe quelle image en un nu réaliste. Découvrez ce qu'il y a de mieux en matière de nudification photo avec Undress AI Undress, qui associe intelligence artificielle et talent artistique.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/undress-ai-undresser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

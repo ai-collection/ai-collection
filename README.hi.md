@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1693" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1698" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -141,15 +141,31 @@
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### Humanizar Texto
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto.webp" alt="Humanizar Texto">
+### AI Sound Effect Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sound-effect-generator.webp" alt="AI Sound Effect Generator">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Humanizar Texto
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto.webp" alt="Humanizar Texto">
+
+#### ह्यूमनाइज़र टेक्स्टो - एआई टेक्स्ट ह्यूमैनाइज़र, जिसे छोटी भाषाओं, जैसे कि स्पैनिश और पुर्तगाली के लिए अनुकूलित किया गया है।
+
+
+[Visit](https://thataicollection.com/redirect/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Humanizar Texto की ताकत का अनुभव करें, जो एक एडवांस AI टेक्स्ट ह्यूमनाइज़र है जिसे ख़ास तौर पर स्पैनिश और पुर्तगाली के लिए डिज़ाइन किया गया है। यह नवोन्मेषी टूल पक्का करता है कि तुम्हारी सामग्री मानव-लिखित टेक्स्ट से अलग न हो। Humanizar Texto ज़ीरोGPT, GPTZero, OpenAI डिटेक्टर और कॉपीस्केप जैसे AI डिटेक्टर को आसानी से बायपास कर सकता है, जिससे तुम्हारे टेक्स्ट को सबसे परिष्कृत सिस्टम द्वारा भी पहचाना नहीं जा सकता।
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -235,22 +251,6 @@ Salesably.ai सेल्स सक्षम करने का एक प्�
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/cobeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Panem
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-panem.webp" alt="Panem">
-
-#### पैनेम और AI द्वारा संचालित SaaS खर्च प्रबंधन
-
-
-[Visit](https://thataicollection.com/redirect/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-अनावश्यक SaaS सदस्यताओं पर अपना बजट बर्बाद न होने दें - Panem तुम्हेंं नियंत्रण में मदद करने के लिए है। हमारा अत्याधुनिक समाधान तुम्हारे ख़र्चों को आसान बनाता है, यह सुनिश्चित करता है कि तुम उन सेवाओं पर पैसा नहीं फेंक रहे हो जो तुम्हारे वित्तीय संसाधनों को बर्बाद कर देती हैं।
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3300,6 +3300,23 @@ Nextpart.ai चैटबॉट नो फ़िल्टर NSFW सिनेरि
 <br />
 
 
+### PornGen
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
+
+#### PornGen एक एडवांस AI-संचालित प्लेटफ़ॉर्म है, जिसकी मदद से यूज़र हाई-क्वालिटी, यथार्थवादी और विस्तृत NSFW चित्र बना सकते हैं। 
+
+
+[Visit](https://thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PornGen एक AI-संचालित प्लेटफ़ॉर्म है, जो इमेज जनरेशन की एडवांस तकनीकों के ज़रिए वयस्क सामग्री बनाने में माहिर है। यह NSFW इमेज बनाता है, जो यूज़र की कई तरह की प्राथमिकताओं को पूरा करती हैं। यूज़र टेक्स्ट के लिए संकेत देकर या ऐसे खास टैग चुनकर PornGen के साथ इंटरैक्ट करते हैं, जो उनके इच्छित परिणाम के बारे में बताते हैं, जैसे कि बॉडी टाइप, एक्शन, या कपड़ों की स्टाइल।
+
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### undressing io
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-martin.webp" alt="undressing io">
 
@@ -3312,23 +3329,6 @@ Nextpart.ai चैटबॉट नो फ़िल्टर NSFW सिनेरि
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Undress AI undresser
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-ai-undresser.webp" alt="Undress AI undresser">
-
-#### अनड्रेस एआई ऐप - मुफ़्त में डीपन्यूड इमेज बनाएं - अनड्रेस प्रो
-
-
-
-[Visit](https://thataicollection.com/redirect/undress-ai-undresser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-पेश है अनड्रेस एआई अनड्रेसर, एआई-संचालित बेहतरीन ऐप, जो कुछ ही सेकंड में शानदार नग्न तस्वीरें बनाने के लिए है। हमारी एडवांस डीपन्यूड एआई तकनीक के साथ, तुम आसानी से किसी भी छवि को रियलिस्टिक न्यूड में बदल सकते हो। अनड्रेस एआई अनड्रेसर के साथ फ़ोटो न्यूडिफ़िकेशन का सबसे अच्छा अनुभव करें, जहाँ AI कलात्मकता से मिलता है।
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/undress-ai-undresser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

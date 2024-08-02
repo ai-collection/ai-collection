@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1693" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1698" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -60,12 +60,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
-    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
+    <h4>StickerIt.AI | #1 Мобильное решение для дизайна и продажи стикеров на базе искусственного интеллекта</h4>
+    <p>StickerIt.AI — это ваше лучшее решение для создания и продажи стикеров на базе искусственного интеллекта прямо с вашего мобильного устройства. Превратите любое место в яркую мастерскую по стикерам. Имея всего два планшета и принтер, вы можете начать продавать наклейки, изготовленные на заказ, за считанные минуты. Наша платформа предназначена для ведения бизнеса по производству наклеек с искусственным интеллектом в любое время и в любом месте.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Начать работу с StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -135,15 +135,31 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Humanizar Texto
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto.webp" alt="Humanizar Texto">
+### AI Sound Effect Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sound-effect-generator.webp" alt="AI Sound Effect Generator">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Humanizar Texto
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto.webp" alt="Humanizar Texto">
+
+#### Humanizar Texto — гуманизатор текстов с искусственным интеллектом, оптимизированный для второстепенных языков, таких как испанский и португальский.
+
+
+[Visit](https://thataicollection.com/redirect/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Ощутите мощь Humanizar Texto, усовершенствованного гуманизатора текстов с искусственным интеллектом, специально разработанного для испанского и португальского языков. Этот инновационный инструмент гарантирует, что ваш контент будет неотличим от текста, написанного человеком. Humanizar Texto может легко обходить детекторы искусственного интеллекта, такие как ZeroGPT, GPTZero, OpenAI Detector и Copyscape, делая ваш текст незаметным даже для самых сложных систем.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,22 +245,6 @@ Salesably.ai — это платформа для поддержки прода�
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/cobeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Panem
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-panem.webp" alt="Panem">
-
-#### Управление расходами SaaS на основе Panem и искусственного интеллекта
-
-
-[Visit](https://thataicollection.com/redirect/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Не тратьте свой бюджет на ненужные подписки SaaS — Panem поможет вам взять все под контроль. Наше передовое решение упрощает ваши расходы, гарантируя, что вы не тратите деньги на услуги, которые истощают ваши финансовые ресурсы.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/panem?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3294,6 +3294,23 @@ DreamPaint.NET использует самые передовые техноло
 <br />
 
 
+### PornGen
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
+
+#### PornGen — это передовая платформа на базе искусственного интеллекта, которая позволяет пользователям создавать высококачественные, реалистичные и подробные изображения NSFW. 
+
+
+[Visit](https://thataicollection.com/redirect/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PornGen — это платформа, управляемая искусственным интеллектом, которая специализируется на создании контента для взрослых с помощью передовых методов генерации изображений. Он создает изображения NSFW, отвечающие широкому спектру предпочтений пользователей. Пользователи взаимодействуют с PornGen, предоставляя текстовые подсказки или выбирая определенные теги, описывающие желаемый результат, например тип телосложения, действия или стиль одежды.
+
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/porngen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### undressing io
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-martin.webp" alt="undressing io">
 
@@ -3306,23 +3323,6 @@ DreamPaint.NET использует самые передовые техноло
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/undressing-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Undress AI undresser
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-ai-undresser.webp" alt="Undress AI undresser">
-
-#### Приложение Undress AI - создавайте изображения Deepnude БЕСПЛАТНО - Undress Pro
-
-
-
-[Visit](https://thataicollection.com/redirect/undress-ai-undresser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Представляем Undress AI undresser, идеальное приложение на базе искусственного интеллекта для создания потрясающих обнаженных фотографий за считанные секунды. С помощью нашей передовой технологии искусственного интеллекта deepnude вы можете легко превратить любое изображение в реалистичную обнаженную натуру. В раздевалке Undress AI, где искусственный интеллект сочетается с искусственным интеллектом, вы получите максимум удовольствия от создания обнаженных фотографий.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/undress-ai-undresser?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
