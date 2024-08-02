@@ -60,24 +60,30 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>पैराफ़्रेसिंग टूल - सर्वश्रेष्ठ मुफ़्त ऑनलाइन पैराफ़्रेज़र - Wordfixerbot</h4>
-    <p>WordFixerBot का पैराफ़्रेसिंग टूल किसी भी टेक्स्ट, वाक्य, लेख, पैराग्राफ, पेपर या दस्तावेज़ों को तुरंत और सटीक तरीके से फिर से लिखने में तुम्हारी मदद करने के लिए एकदम सही टूल है। अभी शुरू करो और अपने लेखन को सबसे अलग बनाओ!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>के साथ आरंभ करें Wordfixerbot</b></a>
+    <h4>एकमात्र प्रॉडक्शन-तैयार AI-संचालित कोड जनरेशन</h4>
+    <p>जोवू: एकमात्र AI प्लेटफ़ॉर्म, जो 4 मिनट में आइडिया को प्रोडक्शन-रेडी कोड में बदल देता है। अपने बैकएंड अनुप्रयोगों के डेवलपमेंट को स्वचालित करें, ताकि बड़े पैमाने पर बनाए गए कोड के साथ निरंतरता, पूर्वानुमान और उच्चतम मानकों का पालन किया जा सके।</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>के साथ आरंभ करें Jovu by Amplication</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>कॉर्पोरेट हेडशॉट्स AI: AI के साथ कॉर्पोरेट पोर्ट्रेट्स में क्रांति लाना</h4>
-    <p>www.CorporateHeadshots.ai के साथ प्रोफ़ेशनल फ़ोटोग्राफ़ी के भविष्य का अनुभव करें। हमारा एआई-चालित प्लेटफ़ॉर्म तुम्हारी सेल्फी को सुंदर, कॉर्पोरेट-मानक हेडशॉट में बदल देता है, जिससे पेशेवर तस्वीरें हर किसी के लिए, हर जगह सुलभ और आसान हो जाती हैं।</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>के साथ आरंभ करें Corporate Headshots AI</b></a>
+    <h4>24/7 कस्टम AI चैटबोट और लाइव चैट एस्केलेशन</h4>
+    <p>चैट डेटा एक AI चैटबॉट प्लेटफ़ॉर्म है, जो सुविधाजनक बैकएंड और फ़्रंटएंड कस्टमाइज़ेशन की सुविधा देता है। अपने नॉलेज बेस, कस्टम एंडपॉइंट या चैट डेटा के मॉडल का इस्तेमाल करके चैटबॉट बनाएं। चैटबोट इंटरफ़ेस को कस्टमाइज़ करें और वाइट लेबलिंग का विकल्प चुनें। अतिरिक्त सुविधाओं में स्टैण्डर्ड या प्रोफ़ेशनल प्लान में लाइव चैट एस्केलेशन शामिल है।
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>के साथ आरंभ करें Chat Data</b></a>
     <br />
 </div>
 
@@ -135,15 +141,33 @@
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### Hirebase
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hirebase.webp" alt="Hirebase">
+### Image Describer
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-describer.webp" alt="Image Describer">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/hirebase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/image-describer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/image-describer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Hirebase
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hirebase.webp" alt="Hirebase">
+
+#### एआई-संचालित जॉब सर्च इंजन और जॉब मार्केट डेटा प्रोवाइडर
+
+
+[Visit](https://thataicollection.com/redirect/hirebase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Hirebase.org एक जॉब सर्च इंजन है, जो कंपनी की वेबसाइटों से लाइव लिस्टिंग के लिए इंटरनेट को खंगालता है और उन्हें एक ही जगह व्यवस्थित करता है, जिसमें इस्तेमाल करने में आसान और बेहद शक्तिशाली सर्च इंजन तुम्हारी उंगलियों पर होते हैं। 
+
+हमारा मिशन आखिरी जॉब सर्च इंजन बनाना है, जिसका तुम कभी इस्तेमाल करोगे - हर काम, हर कंपनी, असल में अब इंटरनेट पर हायर करना।
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/hirebase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,22 +253,6 @@ Humanizar Texto की ताकत का अनुभव करें, जो 
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### joinrise.co
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-joinrise-co.webp" alt="joinrise.co">
-
-#### राइज़ एक प्रमुख करियर डेस्टिनेशन और AI द्वारा संचालित जॉब प्लेटफ़ॉर्म है।
-
-
-[Visit](https://thataicollection.com/redirect/joinrise-co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-राइज़ एक आधुनिक AI संचालित जॉब बोर्ड है और तकनीक और उसके बाहर के उभरते व्यवसायों के लिए करियर की मंज़िल है। प्लेटफ़ॉर्म में 76,000 से ज़्यादा नौकरियां हैं, इसे रोज़ाना अपडेट किया जाता है, और यह आज की सबसे महत्वाकांक्षी प्रतिभाओं का एक अग्रणी समुदाय है।
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/joinrise-co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

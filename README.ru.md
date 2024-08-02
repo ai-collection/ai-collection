@@ -72,12 +72,18 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
-    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
+    <h4>Настраиваемый чат-бот с искусственным интеллектом, работающий круглосуточно и без выходных</h4>
+    <p>Chat Data — это платформа чат-ботов с искусственным интеллектом, предлагающая гибкую настройку бэкенда и интерфейса. Создавайте чат-ботов, используя свою базу знаний, настраиваемые конечные точки или модели Chat Data. Настройте интерфейс чат-бота и выберите белую маркировку. Дополнительные функции включают эскалацию онлайн-чата в стандартных или профессиональных тарифных планах.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Начать работу с Chat Data</b></a>
     <br />
 </div>
 
@@ -135,15 +141,33 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Hirebase
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hirebase.webp" alt="Hirebase">
+### Image Describer
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-describer.webp" alt="Image Describer">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/hirebase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/image-describer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/image-describer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Hirebase
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hirebase.webp" alt="Hirebase">
+
+#### Система поиска работы на базе искусственного интеллекта и поставщик данных о рынке труда
+
+
+[Visit](https://thataicollection.com/redirect/hirebase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HireBase.org — это система поиска работы, которая ищет в Интернете живые объявления с веб-сайтов компаний и организует их в одном месте, используя простую в использовании и чрезвычайно мощную поисковую систему под рукой. 
+
+Наша миссия состоит в том, чтобы создать последнюю систему поиска работы, которую вы когда-либо будете использовать: каждая вакансия, каждая компания, которая сейчас работает в Интернете.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/hirebase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,22 +253,6 @@ null
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### joinrise.co
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-joinrise-co.webp" alt="joinrise.co">
-
-#### Rise — это ведущее место для карьерного роста и платформа для трудоустройства на базе искусственного интеллекта.
-
-
-[Visit](https://thataicollection.com/redirect/joinrise-co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Rise — это современная доска объявлений о вакансиях на базе искусственного интеллекта и место для карьерного роста для новых профессий в сфере технологий и не только. Платформа насчитывает более 76 000 вакансий, обновляется ежедневно и представляет собой ведущее сообщество самых амбициозных талантов современности.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/joinrise-co?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
