@@ -60,24 +60,26 @@ Sélectionnez et téléchargez vos favoris à partir de vos résultats : ils so
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
-    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
+    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
+    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
+
+ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Corporate Headshots AI : révolutionner les portraits d''entreprise grâce à l''IA</h4>
-    <p>Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l''IA transforme tes selfies en portraits élégants, conformes aux normes de l''entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Démarrer avec Corporate Headshots AI</b></a>
+    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
+    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
     <br />
 </div>
 
@@ -135,15 +137,32 @@ Sélectionnez et téléchargez vos favoris à partir de vos résultats : ils so
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### VoiceChanger.im
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voicechanger-im.webp" alt="VoiceChanger.im">
+### 2markdown
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-2markdown.webp" alt="2markdown">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/voicechanger-im?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/2markdown?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/2markdown?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### VoiceChanger.im
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voicechanger-im.webp" alt="VoiceChanger.im">
+
+#### VoiceChanger.im : cloneur vocal IA et synthèse vocale gratuits en ligne
+
+
+[Visit](https://thataicollection.com/redirect/voicechanger-im?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+🎙️ VoiceChanger.im : cloneur vocal intelligent et synthèse vocale en ligne gratuitement !
+🔄 Clonez ta voix sans effort avec VoiceChanger.im ! Notre IA de pointe te permet de mettre en ligne un clip vocal d'une minute et de le cloner parfaitement. De plus, tu peux convertir du texte en parole et modifier facilement les enregistrements vocaux existants. Idéal pour les créateurs de contenu, les joueurs et tous ceux qui explorent de nouvelles dimensions vocales.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/voicechanger-im?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -231,24 +250,6 @@ Notre mission est de créer le dernier moteur de recherche d'emploi que tu utili
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/hirebase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Filter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-filter.webp" alt="AI Filter">
-
-#### Filtre IA - Transforme tes photos à l'aide de filtres
-
-
-[Visit](https://thataicollection.com/redirect/ai-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Transforme tes photos en anime, en argile, en 3D, en pixels, en emoji, en jeux vidéo, en autocollants et bien d'autres styles à l'aide de filtres IA.
-
-Inscrivez-vous pour recevoir 20 crédits, et tu pourras souscrire à différents plans pour obtenir plus de crédits.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/ai-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

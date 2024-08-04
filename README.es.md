@@ -60,24 +60,24 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
-    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
+    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
+    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
-    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
+    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
+    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -135,15 +135,32 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### VoiceChanger.im
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voicechanger-im.webp" alt="VoiceChanger.im">
+### 2markdown
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-2markdown.webp" alt="2markdown">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/voicechanger-im?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/2markdown?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/2markdown?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### VoiceChanger.im
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voicechanger-im.webp" alt="VoiceChanger.im">
+
+#### VoiceChanger.IM: clonador de voz con IA y conversión de texto a voz gratis en línea
+
+
+[Visit](https://thataicollection.com/redirect/voicechanger-im?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+🎙️ VoiceChanger.IM: clonador de voz con IA y conversión de texto a voz gratis en línea.
+🔄 Clona tu voz sin esfuerzo con VoiceChanger. ¡IM! Nuestra innovadora IA te permite subir un clip de voz de 1 minuto y clonarlo a la perfección. Además, puedes convertir texto en voz y modificar las grabaciones de voz existentes con facilidad. Ideal para los creadores de contenido, los jugadores y cualquier persona que explore nuevas dimensiones vocales.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/voicechanger-im?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -231,24 +248,6 @@ Nuestra misión es crear el último motor de búsqueda de empleo que utilices en
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/hirebase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Filter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-filter.webp" alt="AI Filter">
-
-#### Filtro de IA: transforma tus fotos con filtros
-
-
-[Visit](https://thataicollection.com/redirect/ai-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Transforma tus fotos con filtros de IA en estilos de anime, arcilla, 3D, píxeles, emojis, videojuegos, pegatinas y más.
-
-Regístrate para recibir 20 créditos y puedes suscribirte a diferentes planes para obtener más créditos.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/ai-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
